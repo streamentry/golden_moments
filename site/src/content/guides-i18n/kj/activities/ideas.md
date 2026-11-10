@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Oilonga yovanhu ve na oudu wokudimbwa: 101"
+seoTitle: "Omadiladilo oilonga youdu wokudimbwa: 101"
+description: "Omadiladilo 101 oilonga ilula yovanhu ve na oudu wokudimbwa, okudja mokupeta oikutu fiyo komusika nomafano, nanghee to i wapaleke."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Oilonga iwa yovanhu ve na oudu wokudimbwa oi i shii nale, oi li yovakulunhu
+  noipu okulongwa pamwe: okupeta oikutu, okutopola oinima, okuteleka,
+  okwiimba, okutala omafano, okweenda, okulima, efimbo noinima yomeumbo
+  nosho yo omaudano malula. Hoolola osho omunhu a kala e hole, mu kwafela
+  moinima idjuu, nokuxulifa po ngeenge a loloka. Efimbo liwa tamu kala pamwe
+  oli na oshilonga shi dulife okumanifa sha.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Hovela nonghalamwenyo yomunhu mwene: oilonga yaye, oinima e hole, eitavelo nomusika yaye oyo omuwiliki muwa."
+  - "Ninipika oshilonga keshe ngeenge sha pumbiwa: eenghatu dishona, omahoololo mashona, ove to ningi oshitukulwa shidjuu."
+  - "Okutala, okukwata oshinima ile okukala omutumba puye osho yo oku kufa ombinga."
+  - "Xulifa po ile lundulula ngeenge wa mono ololoko, enyeme ile okuhahangwa. Okuxulifa diva oi li oshizemo shiwa."
+  - "Okulonga pamwe oku na oshilonga shi dulife okulonga nawa."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Oilonga ilipi iwa komunhu e na oudu wokudimbwa?"
+    a: "Oilonga oyo omunhu a kala ta longo oule weedula, ya ningwa ilula kanini: okupeta oikutu, okulongela potafule, okuteleka, omusika, okutala omafano, okweenda, okulima nokukala noshinima shomeumbo. Hoolola oinima tai monika i li yovakulunhu noyi na oshilonga, ndele mu i longe pamwe."
+  - q: "Oshilonga oshi na okukala efimbo li fike peni?"
+    a: "Kape na efimbo la pangwa. Ominute dishona dokupeta outaululo otadi dulu okukala da wana efiku limwe, ofimbo efimbo lile moshikunino tashi dulu oku kala lipu efiku likwao. Efa omunhu a hoolole onghatu yaye nokuxulifa po fimbo tashi kala shiwa."
+  - q: "Omunhu ngeenge a anya okulonga oshilonga, ondi na okuninga shike?"
+    a: "Ino mu fininika. Eanyeno otali dulu okutya oshilonga oshidjuu unene, efimbo inali wapala, ile oku loloka ile ke udite nawa. Kendabala vali lwanima, mu pe oshilonga shinini, ile hovela ove mwene popepi naye ndele to mu shivi a kwafele."
+  - q: "Omaudano omadiladilo otaa kwafele ngoo ovanhu ve na oudu wokudimbwa?"
+    a: "Omaudano otaa dulu okukala onghedi iwa yokukala pamwe, ashike kape na omaudano a ulikwa taa velula, taa shonopeke ile taa kangheke oudu wokudimbwa. Hoolola omaudano ehe na efimbo la ngabekwa, oitwa ile ewi lepuko, ndele u a tale ko onga oshilonga shimwe tamu longo pamwe, hakonakono."
+  - q: "Ohandi kelele ngahelipi oilonga iha monike ya fa younona?"
+    a: "Longifa oinima yoshili yovakulunhu: outaululo voshili, omaresipi oshili, omusika yovakulunhu noilongifo yoidjemo yovakulunhu, nomafano e na oitwa yovakulunhu. Popya oilonga onga ekwafo wa pumbwa shili, ndele to popi nomunhu onga omukulunhu e li."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Oshilonga shiwa komunhu e na oudu wokudimbwa luhapu osho a shiiva nale okushi longa, sha ningwa shipu kanini nokulongwa pamwe nomunhu e lineekela. Apa ope na omadiladilo 101, a tulwa momaholoko, keshe tali ulike nghee to shi longekida nanghee to shi ningi shipu ngeenge tashi ende tashi kala shidjuu. Ino pumbwa oilongifo ye likalekelwa, noinapa pumbiwa u manife sha. Etango liwa otali dulu okukala okambashikela kamwe koutaululo nekopi lokofi pamwe.
 
-## How do you choose the right activity?
+## Oto hoolola ngahelipi oshilonga sha wapala?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Hoolola u tale komunhu, halomusholondodo: hovela naasho a kala e hole nokwa li ta dulu okulonga nawa nonena.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Diladila koilonga yaye noinima e hole.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) oya ti kutya omunhu a longa moofitola ota dulu okuhafela okutopola oimaliwa ile oku unganeka oinima yomatumwalaka, nomulimi ota dulu okuhafela oilonga yoshikunino.
+- **Didilika osho ta ningi nale.** Ngeenge tate woye ha kombo kolupale ongula keshe inapu pulwa, shi tula mefiku laye.
+- **Longekida u tale komangabeko.** Ololoko, omesho, omatwi, omake taa ehama nokukala wa fikama oinima aishe oyo ya fimana.
+- **Tala komhepo yaye.** Oilonga ihapu ile ina i ngungumana otai wapalele vamwe, ndele tai tilifa vamwe.
+- **I pa elalakano.** Okupeta outaululo wokulya pamwe mongeleka otaku monika ku na oshilonga shi dulife ediladilo lopaunafangwa.
 
-### A rough guide by stage
+### Ewiliko lixupi pamukalo
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Oudu wokudimbwa luhapu owa topolwa momukalo wotete, wopokati nowaxuuninwa. Aa omaukwatya a manguluka, haambashikela, novanhu vahapu ohava kala ve na omafiku mawa nomadjuu, onghee tala kwaasho to mono nonena. [Omusholondodo wa Alzheimer's Foundation of America pamukalo](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) otau landula omukalo wa faafana.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Oshikundafanwa | Omukalo wotete | Omukalo wopokati | Omukalo waxuuninwa |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Osho to dulu okumona | Oha dulu okulonga oinima ihapu; okuunganeka, omadina mape neenhele di yadi ovanhu otashi kala shidjuu | Oha pumbwa ekwafo okuhovela nomokulandula eenghatu; eendjovo otadi ya shidjuu | Oha pumbwa ekwafo filufilu mefiloshisho lefiku keshe; omaliudo omolutu oo a fimana unene |
+| Oilonga oyo tai wapalele luhapu | Okaata, omaudano okotaafula, okuteleka, okulima, okushanga, okweenda pondje, eengudu | Okupeta oikutu, okutopola oinima, eenghatu dilula dokuteleka, okwiimba, omambo omafano, okweenda pamwe | Omusika e hole, okukwata omake nombili, oinima inyenganyenga okukwata, okuleshelwa, okukala omutumba pondje |
+| Oshinakuwanifwa shoye | Mukwetu: pula ekwafo a hala | Longekida, ulikila, longa oshitukulwa shidjuu | Eta oshilonga kuye; okukala po kwoye oko oshilonga |
+| Omadiladilo mahapu | [Omukalo wotete](/activities/early-stage/) | [Omukalo wopokati](/activities/middle-stage/) | [Omukalo waxuuninwa](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Oto hovele ngahelipi oshilonga nomunhu e na oudu wokudimbwa?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Hovela kanini, hovela pamwe naye, ndele shi ninga shipu okutya heeno. Ovanhu vahapu natango ova hala okukufa ombinga, ashike otashi va nyenge okuunganeka ile okuhovela.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Hoolola efimbo laye liwa,** luhapu ongula.
+2. **Longekida aishe tete** opo mu dule okuhovela diva.
+3. **Pula ekwafo, halididimiko:** "Oto dulu okukwafela nge moinima ei?"
+4. **Hovela ove mwene.** Peta outaululo wotete ndele mu efa e uye po. Okuulikila okuwa ku dulife okufatulula.
+5. **Yandja oshinima shimwe pashita.**
+6. **Kufa oshitukulwa shidjuu.** Alzheimer's Association otai ti yeleka oinima yokuteleka ove mwene, ndele to mu pe olwiimbo a koneke.
+7. **Efa shi ningwe monghedi yaye.** Outaululo va petwa sha yooloka navo ova wana.
+8. **Xulifa po ngeenge inashi hafifa vali.** Okulinyenga unene, okufinya oshipala ile "Ihandi dulu" oo omandidiliko okutya mu na okulundulula ile okufuda po.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Tala yo [nghee tamu longo pamwe](/caregiving/how-to-play-together/) nosho yo [omayele okupopya](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Oilonga yefiku keshe meumbo
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Oilonga yomeumbo oi shii nale noyi na oshilonga, onghee oi li onhele iwa okuhovela. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) oya tumbula okukosha oiyaha, okulongela potafule, okukomba, okutopola omatumwalaka nokupeta oikutu onga oilonga ovanhu tashi dulika va hafele. Shihapu oto shi mono mo [oilonga yomeumbo](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Peta outaululo va pupyala.** Tula okambashikela okudja momashina kokataafula ndele tamu pete pamwe. Lwanima, okufefa nokutula kumwe nayo oi li ekwafo.
+2. **Hanganifa ousokisi.** Hovela nomaluvala a yooloka lela. Lwanima, okutopola omatilyana kwaala matoka osha wana.
+3. **Longekida otafule.** Mu pe oinima yoludi limwe pashita. Longekida onhele imwe ove mwene onga oshihopaenenwa.
+4. **Kosha ile fefa oiyaha.** Omeva ma pupyala, ofewa noiyaha ihai teka. Okufefa wa kala omutumba oshipu komagulu.
+5. **Fefa otafule.** Mu pe oshiyambifo sha tutika konima yokulya. Oo oilonga yoshili yomake inaa mwena.
+6. **Topola omatumwalaka.** Oikatalogi nomatumwalaka inaa fimana mu "di kwate" na "di ekeleshi." Ino tula mo oobili doshili.
+7. **Teta oukoponi.** Oik scissors i na omutwe wa dingilwa noupapela voipumbiwa. Lwanima, okudingilila oikulya e hole nayo otashi dulu.
+8. **Topola oimaliwa.** Topola oimaliwa yoye momakopi ile i tula momakutu. Henuka oinima inini ngeenge omunhu oha tula oinima mokanya.
+9. **Komba ile kombulula ondwi.** Oshikombe shipepi kolupale, ile oshikombululo shile shokulongifa wa kala omutumba.
+10. **Kwafela mokuteleka.** Okukosha oikwambidi, okutaula oleta, okukoneka. Ove to pashukile ombele nomaadi ma pupyala.
+11. **Teleka orecipe youkwaneumbo.** Longifa okaata ke li momanyolo aye ngeenge u ke na. Lwanima, ota dulu okukala omumakeli.
+12. **Longa oilonga yomeefitola.** Peta eenhumwafo, tula mo nokunamifa oistampa, ile mu shange omusholondodo woipumbiwa pamwe.
 
-## Music
+## Omusika
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Omusika i shii nale otai dulu okufika komunhu nokuli ngeenge eendjovo tadi kala didjuu. [Omayele omusika a Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) otaa ti hoolola omaimbilo e shii nale, henuka omashiivifo nokudima o-TV. Tala [oilonga yomusika](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Tunga omusholondodo womusika wopaumwene.** Omusika yomido daye dounyasha, yohombo yaye, yongeleka yaye noyomufyuululwakalo waye.
+14. **Imbeni pamwe.** Hovela ove mwene okwiimba. Okunana ile okupwilikina nako oku li ekwafo.
+15. **Kaleni nonghatu.** Pata omake, denge komatundji ile denge ongoma inini. Otashi dulu okulongwa wa kala omutumba nokuli momukalo waxuuninwa.
+16. **Dana.** Dana kanini mokombitha, ile mu linyenge pamwe mwa kala omutumba mwa kwatelafana omake.
+17. **Dana oalbum aishe.** Orekodi e hole okudja pehovelo fiyo pexulilo, nekopi lokofi nopehe na sha shilwe tashi ningwa.
+18. **Popyeni kombinga yomusika.** Shivi omahokololo, hamapulo omaushili: "Lombwele nge kombinga yomadano wa li ho i."
+19. **Taleni omusika ile okonsela ya kwatwa movidiyo.** Oshitukulwa e hole otashi ningi onguloshi iwa. Mu na okutula pokafimbo naini.
+20. **Dana oshilongifo shomusika e shii nale.** Omudanipiano woshito ota dulu okuhafela oitungifo ilula; lwanima, eendaka dishona pamwe.
+21. **Pwilikineni omusika ya danwa moipafi.** Okonsela inini yomoshitopolwa ile eilongo leongalo. Kaleni popepi nomuvelo wokudja mo.
 
-## Reminiscence: photos, objects and stories
+## Okudimbuluka: omafano, oinima nomahokololo
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Hafeleni onakudiwa pamwe inamu i konakona. Henuka "Oto dimbuluka...?" na "Ou olyelye ou?" ndele longifa omaifano a manguluka. Tala [oilonga yokudimbuluka](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Taleni embo lomafano.** Popya eshi to mono: "Oshikutu shiwa. Lombwele nge kombinga yefiku eli." Itavela omadina keshe ta longifa.
+23. **Ningeni okambashikela komadimbulukifo.** Okambashikela keinima donghalamwenyo yaye, ngaashi okaata koilonga ile okaata koresipi. Kufeni mo oshinima shimwe pashita.
+24. **Hoveleni embo lehokololo longhalamwenyo.** Omafano manini pepandja keshe nomashangelo manene. Otali kwafele ovakwafi vape va shiive omunhu.
+25. **Longifeni oukaata voku popya.** [Conversation cards](/games/conversation-cards/) ohava hanganifa efano nepulo la manguluka.
+26. **Ningeni omaudano omafano oukwaneumbo.** [Photo pairs](/games/photo-pairs/) ohashi ningi omafano eni omaudano okuhanganifa.
+27. **Taleni ouvidiyo voukwaneumbo ile o-TV yonale.** Popyeni pamwe ponhele yokupula omapulo.
+28. **Kwatafanei oinima yoilonga yaye yonale.** Oshikwatelifo, ostetoskopu, embo loimaliwa. Omake luhapu ohaa wilike ehokololo.
+29. **Telekeni oshikulya shounona.** Ota dulu okukoneka, okumakela ile okukala omutumba mokombitha pamwe nanye.
+30. **Taleni okaalita keenhele a kala.** Landuleni eendjila e shii nale mokaalita inene fimbo tamu popi.
 
-## Creative activities
+## Oilonga yoidjemo
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Oidjemo oi li mokulonga, hamu sho sha ningwa pexulilo. Kaleka oilongifo i li yovakulunhu noya amenwa. Tala [oidjemo noilonga yomake](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Penda nomeva.** Opepa li kola nomaluvala manini. Ngeenge okuhovela oshidjuu, wilikeni eenghatu dotete pamwe.
+32. **Paka omaluvala momafano ovakulunhu.** Eengala ile oiquilti, hoinima younona. [Omapandja okukwata omaluvala](/games/coloring/) etu otaa longo moshikwaelektronika ile taa nyanyangidwa.
+33. **Ningeni okollaji.** Taula omafano moifo e na oshikunino, eetuwa ile oikulya ndele to a nambeke. Lwanima, okuhoolola ashike omafano osha wana.
+34. **Un ganeka eengala.** Eengala dokositola nokavasi. Lwanima, oungala vanini mokandola.
+35. **Hondjeni ile ndeleni pamwe.** Eemwaka dilula neengwiya dinene. Lwanima, okudinga ongodi momambola.
+36. **Ningeni oukaata voukwaneumbo.** Tula oistampa, shaina ile wapaleka oukaata vedalo nowokuveluka ovanhu voshili.
+37. **Meni edu la kukuta lomhepo.** Dinda okambiya kanini. Longifa oinima i he na oshiponga nokukala popepi.
+38. **Shaveka nokuwapeka oiti.** Okatemba keumbo leedila ka longekidwa nale nopepa lokushaveka, hape na oilongifo yomalusheno. Tala [oilonga dovalumenhu](/activities/for-men/).
+39. **Shanga ile lombwela onhumwafo.** Komutekulu ile kukaume konale. Ngeenge okushanga oshidjuu, ye ota popi ndele ove to shange.
 
-## Outdoors and gardening
+## Pondje nokulima
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Omhepo ipe netango oi li ookaume vawa. Tala [oilonga dopondje nodokulima](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Tekela oimeno.** Okandjaba kanini noitoo ihapu. Okutekela efiku keshe otaku pe efiku omukalo.
+41. **Twika moshitoo.** I tula kokataafula opo paha kale ou a twa eengolo. Oimeno inini oipu i dulife eembuto.
+42. **Dula ombidi ile kufa mo eengala da kukuta.** Djaleni ouglova, okambedina kamwe pashita.
+43. **Unganeka omafo.** Oshitukulwa shinini. Lwanima, okukwata okambashikela ka yeuluka oko oshilonga shoshili.
+44. **Enda mondjila i shii nale.** Okudingilila onduda ile okuya kokambashikela komatumwalaka. Okuxupipala oshi li nawa.
+45. **Kaleni omutumba pondje pamwe.** Oshipundi kolupale mefiku liwa. Taleni oilemo ile ovanhu tava piti po.
+46. **Paluleni eedila.** Yadifeni oshikulifo sheedila pamwe ndele tamu tale okudja pekende.
+47. **Kosheni etuwa.** Etemba, osiponji netango liwa. Okukosha omahweela oku li oshilonga shipu shonghatu imwe.
 
-## Sensory activities
+## Oilonga yomaliudo
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Okukwata, okunuka, okumakela, okuuda nokumona otashi kala sha fimana eshi oudu wokudimbwa tau ende tau kulu. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) oya tumbula omusika, oinima yokukwata nokukwata omake nombili momikalo daxuuninwa. Konakona tete omaliudo e lili ile eembudi dokufina; tala [oilonga yomaliudo](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Kwata omake nombili.** Pula tete ndele to longifa omaadi manini. Hoolola ehe na edimba ngeenge ino shilipaleka kombinga yoshipa ile omaliudo.
+49. **Uda ko oiyata.** Okambashikela ke na ovelveti, okorduroi, owoya nosatini okukwata nokupeta.
+50. **Nuka oimeno nomakofi.** Fina ominta ile rosmari ipe mominwe doye. Henuka omalidimba ma kwata ngeenge pe na oupyakadi wokufuda.
+51. **Komba eexwiki daye.** Kanini nombili, ngeenge e shi hole.
+52. **Yandjeni oshiyambifo sha pupyala.** Shokomake noshipala mefiku loutalala. Konakona oupyu tete.
+53. **Konakoneni oaproni yoilonga yomaliudo.** Eembuto dinene noozipper va hondjelwa va kwata nawa. Konakona kutya kape na sha tashi dulu okudja ko.
+54. **Makeleni oshinima shiwa.** Okalwiimbo kanini, monghedi tai dulu okuliwa nawa.
+55. **Dana omawi opashitwe.** Odula, omakufikufi ile omaimbilo eedila newi li li pedu.
+56. **Taleni sha tashi ende kanini.** Etemba leeshi, ovidiyo yopaunshitwe ile eandu tali loko.
 
-## Games and puzzles
+## Omaudano nomapuzzle
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Omaudano otaa longo ngeenge kape na efimbo la ngabekwa, oitwa ile efininiko. Ngeenge limwe tali hovele okumonika la fa ekonakono, li tula po. Tala [okuhoolola ee-app nomaudano](/caregiving/choosing-apps-and-games/) nosho yo [omaudano omadiladilo](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Hanganifa omafano.** [Picture pairs](/games/picture-pairs/) ohashi efa omafano a kale a taalela pombada, onghee oshi li mokudidilika, hamokudimbuluka.
+58. **Konga efano la faafana.** [Find the same](/games/find-the-same/) ohali yandje omahoololo avali fiyo ane. Popyeni kombinga yefano keshe.
+59. **Topola moikutu.** [Sort together](/games/sort-together/) osha fa okutopola ousokisi moshikwaelektronika.
+60. **Longa ojigsaw inene.** Omafano ovakulunhu, oitungifo inini ilula. [Picture puzzle](/games/picture-puzzle/) ohashi kaleke efano alishe tali monika. Shihapu mo [omapuzzle oudu wokudimbwa](/activities/puzzles/).
+61. **Daneni omaudano okaata onale.** Oo a kala ta dana oule weedula. Lwanima, okutopola okaata pamaluvala nako oku li omaudano.
+62. **Daneni domino.** Hanganifa kominghulo. Lwanima, okulineeka ashike oitungifo kumwe nasho oshi li nawa.
+63. **Kendabala okukonga eendjovo dinene.** [Word search](/games/word-search/) yetu oi na eendjovo da yukilila nodopedu ashike, notai nyanyangidwa.
+64. **Manifa omautumbulilo e shii nale.** [Finish the saying](/games/finish-the-saying/) otali ku pitike u ulike exulilo efimbo keshe.
+65. **Daneni obingo yomafano.** [Picture bingo](/games/picture-bingo/) oi li nawa komaukwaneumbo nokomangudu. Kwafeleni oku didilika oukaata noupu.
+66. **Daneni odama.** Kalekeni eemhango di manguluka. Okulinyengifa oitungifo fimbo tamu popi osha wana.
 
-## Movement
+## Okulinyenga
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA otai ti okweenda, okambashikela kokweenda, oumbandji wokweefela, okuumbila okambola kanenghanyengha ile obaloni, okudika outiti vomisupa nomavidiyo eekilisa ovakulunhu. Pula ondokotola manga ino hovela sha shipe, unene ngeenge pe na oupyakadi wokufikama.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Umbileni obaloni.** Kaleni omutumba mwa taalelafana. Ohai ende kanini, onghee oipu okukwata.
+68. **Landuleni ovidiyo yeekilisa yokukala omutumba** ya ningilwa ovakulunhu, pamwe.
+69. **Eefeleni noumbandji.** Okweefa omake kanini noumbandji uhe na oudjuu mwa kala omutumba.
+70. **Dikeni outiti vomisupa.** Okuyelula omake kanini, pamwe nomusika.
+71. **Londeni okambashikela kokweenda.** Ominute dishona noupu, ove u li popepi.
+72. **Daneni noulinga.** Yeluleni oulinga vapelela komusika, mwa kala omutumba ile mwa fikama.
+73. **Endeni mu na elalakano.** Okuya okutuma onhumwafo ile okulanda okofi. Etomheno lokuya otali monika loshito.
+74. **Kufeni okafimbo kokufuda nombili.** Ningeni kanini pamwe na [calm breathing](/games/calm-breathing/).
 
-## Social activities
+## Oilonga yokukala novanhu
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Okukala novanhu oku na oshilonga nokuli ngeenge omadina taa kala madjuu, nomangudu manini oipu e dulife manene. NIA oya ti kutya omunhu ota dulu okaha dimbuluke kutya omuyendi olyelye, ashike luhapu oha hafele natango okukala naye. Tala [okutalelwa po](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Tambuleni omuyendi umwe ile vavali pashita.** Etalelopo lixupi monduda ya ngungumana, mu na omafano okutala.
+76. **Popyeni noukwaneumbo mokavidiyo.** Eengodi dixupi, ondaka imwe pashita. Tala [eengodi dongodi novidiyo](/activities/phone-and-video-calls/).
+77. **Kendabeleni okafe yokudimbuluka.** Eengudu da manguluka dovanhu ve na oudu wokudimbwa novafilishisho vavo. Pula Area Agency onhele yeni kutya ope na shike popepi.
+78. **Leni pondje pefimbo la ngungumana.** NIA otai ti hoolola orestoranda i shii nale noya ngungumana pefimbo inapa kala ovanhu vahapu, nokataafula popepi nokanduda kokuliyoga.
+79. **Taleleni po onhele yovakulunhu ile oprogralama yefiku.** Okukala novanhu kuye netulumuko kwoove.
+80. **Kaleni efimbo nounona.** Etalelopo lixupi, la ngungumana lovatekulu, ile okuleshela okaana embo lomafano.
+81. **Lesheni oshifo pamwe nekopi lokofi.** Lesha omutwe weendjovo mokule. Omuvalo ou na oshilonga shi dulife eendjovo.
+82. **Kwafeleni umwe elili.** Peta oprogralama yongeleka ile ninga okaata komunghulululwa.
 
-## Faith and spiritual activities
+## Oilonga yeitavelo noyopamhepo
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Landula eitavelo lomunhu mwene, ile ngeenge ke na. NIA otai ti elongelokalunga e shii nale, elesho, omusika iyapuki, eilikano, okudiladila nombili nomikalo yefimbo lomafudo.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Ya kelongelokalunga e shii nale.** Hoolola olo la ngungumana, kala omutumba popepi nondjila, ndele lombwela ovanhu vokonhele kombinga youdu wokudimbwa.
+84. **Taleni elongelokalunga paindaneti** momafiku eshi okudja mo tashi kala shidjuu.
+85. **Ilikaneni ile lesheni pamwe.** Eendjovo e shii nale, lesheni kanini. Ota dulu okukufa ombinga moitukulwa e shii.
+86. **Imbeni omaimbilo ile omusika iyapuki** yeitavelo laye.
+87. **Kalekeni omikalo yefimbo lomafudo.** Eemwaxu deebateria, enangeko noupuna, noidjaleko a kala ha longifa alushe.
+88. **Kufeni efimbo la ngungumana.** Kaleni omutumba moshikunino ile taleni etango tali ningine pamwe.
 
-## Pets and animals
+## Oinamwenyo
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA otai ti okupalula, okukomba, okweenda, ile okukala omutumba nokukwata oshinamwenyo.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Komba ombwa ile okambishi ka ngungumana** neenghatu dile nodinini.
+90. **Paluleni oshinamwenyo pamwe.** Ove to yeleke; ye ota tile mo.
+91. **Endeni nombwa pamwe.** Ove to kwata omunghodi.
+92. **Kwata oshinamwenyo momatundji.** Okambishi ka ngungumana komhango otaka dulu okutalaleka.
+93. **Tambuleni oinamwenyo tai talele po.** Omaumbo amwe efiloshisho noiprogralama yefiku ohai tambula omatalelopo oinamwenyo. Pula popepi nanye.
+94. **Yandjeni oshinamwenyo shoku djala sha fa shoshili.** Ngeenge kape na oshinamwenyo shoshili, vamwe ohava hafele okukwata okambishi ile ombwa yoku djala ya fa shoshili. I yandja noupu, honga oshidanaukifo, ndele tambula eanyeno.
 
-## Seasonal activities
+## Oilonga yefimbo lomudo
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Kalekeni omikalo, ashike i ningeni ilula. NIA otai ti kaleni moshili nokukala mu na onhele ya ngungumana yokufuda po pefimbo lomafudo a yadi oinima.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Wapalekeni pefimbo lomudo.** Olumbungu, oshivale ile eengala dipe kokataafula.
+96. **Ningeni oshikulya shefimbo lomafudo.** Dinga omungome ile wapaleka oukuki. Ove to pashukile oshiyuma.
+97. **Endjelekeni oiyambeko.** Oinima ihai teka, mu i pe imwe pashita.
+98. **Shingeni mu tale ouyelele.** Okushinga onguloshi okuxupi inaku pula sha kakele kokukala pamwe.
+99. **Twikeni eembuto dokuume muMei.** Fininika eembuto moshitoo muKotoba ndele mu tale ngeenge tadi tutuma.
+100. **Kufeni omapeta omapungu ile omakunde.** Oshilonga shokuluka kolupale noshiyaha momatundji.
+101. **Nyoleleni oukaata vefimbo lomafudo.** Ye ota shaini, ta tula ostampa ile ta pate; ove to pashukile eeadresi.
 
-## What if an activity is not working?
+## Oshike ngeenge oshilonga itashi longo?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Xulifa po, ndele kendabala sha shilwe pefimbo limwe. NIA otai ti tala enyeme ndele efa omunhu a tale ashike ngeenge osho a hala. Eanyeno luhapu otali ti oshilonga oshidjuu unene, efimbo inali wapala, ile ope na sha shilwe tashi mu piyaaneke, ngaashi ouyehame, ondjala ile ehafo lihe fi nawa. Shi ninga shinini, kendabala ongula inene, ile hovela ove mwene ndele tala ngeenge ote uya po. Tala [ngeenge ta ti ahawe](/caregiving/when-they-say-no/) nosho yo [okuhenoumwena kwonguloshi](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Opo u tule oilonga pokati koikulya nokufuda po, tala [omukalo wefiku wa ngungumana](/activities/daily-routine/). Opo u mone oinima u na okukala u i longekida, tala [oilonga tai nyanyangidwa](/activities/printable/), nongeenge oho wilike ongudu, [oilonga dongudu moshitufi shefiloshisho](/activities/care-home-groups/). Efudepo loye nalo ola fimana: tala [okulifila oshisho kwomufilishisho](/caregiving/caregiver-self-care/).

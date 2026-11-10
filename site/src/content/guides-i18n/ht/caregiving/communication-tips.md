@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Konsèy pou kominike ak yon moun k ap viv ak demans"
+seoTitle: "Konsèy kominike ak demans: sa pou di ak evite"
+description: "Fason pratik pou pale ak yon moun k ap viv ak demans: kijan pou prepare konvèsasyon an, sa pou di olye pou teste oswa korije, ak kijan pou tande."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Pale nan yon kote ki trankil, fè fas ak moun nan, sèvi ak non li, epi pale
+  dousman ak fraz kout ak senp. Poze yon sèl kesyon alafwa, ofri de chwa olye
+  kesyon ki louvri, epi tann plis pase sa ki sanble natirèl. Pa diskite, pa
+  korije, pa teste. Reponn santiman ki dèyè pawòl yo, epi sèvi ak manyen,
+  foto ak jès lè pawòl vin pi difisil.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Diminye bri nan anviwònman an epi fè kontak zye anvan ou kòmanse pale."
+  - "Sèvi ak fraz kout, yon sèl lide alafwa, ak non olye de li, yo oswa l."
+  - "Ofri yon chwa ant de bagay, oswa yon kesyon wi oswa non, olye kesyon ki louvri."
+  - "Tann yon repons. Si yo pa konprann moun nan, repete menm pawòl yo, apre sa eseye lòt pawòl."
+  - "Pa diskite ni korije. Reponn santiman ki dèyè sa moun nan di."
+  - "Lè pawòl vin pi difisil, kominike ak manyen, ton vwa, ekspresyon vizaj ak foto nou pataje."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Kisa ou pa ta dwe di yon moun k ap viv ak demans?"
+    a: "Evite teste moun nan (« Èske ou sonje...? »), korije (« Sa pa kòrèk »), fè l sonje pèt (« Mwen te deja di ou sa »), epi pale sou li tankou si li pa la. Evite pale tankou ak yon timoun. Sa yo gen tandans lakòz jenn oswa malèz san yo pa ede."
+  - q: "Èske mwen ta dwe korije moun nan lè li di yon bagay ki pa egzak?"
+    a: "Anjeneral non. Si se yon detay ki pa egzak men ki pa fè okenn mal, kite l pase. Diskite raman chanje lide moun nan epi souvan sa fè l fache. Konsantre sou jan li santi l ak sa li bezwen kounye a."
+  - q: "Kisa mwen ta dwe fè lè moun nan pa jwenn mo a?"
+    a: "Bay li tan an premye. Si ou wè li ap lite klèman, li pa gen pwoblèm pou ou ofri yon mo dousman oswa devine sa li vle di epi verifye. Montre ak dwèt, fè jès ak sèvi ak foto ka ede tou."
+  - q: "Kijan mwen ka pale ak yon moun ki nan yon etap demans ki pi avanse epi ki prèske pa pale?"
+    a: "Pwoche pa devan, di ki moun ou ye, epi sèvi ak yon vwa kalm ak yon manyen dous. Gade figi ak langaj kò a pou konprann santiman yo. Prezans ou, yon chante moun nan abitye tande, oswa kenbe men l ka kominike anpil bagay san pawòl."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +43,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Demans ka fè li pi difisil pou jwenn mo, suiv yon fraz ki long, oswa bloke bri ki nan anviwònman an. Sa pa vle di moun nan sispann vle konekte ak lòt moun. Ti chanjman nan fason ou prepare yon konvèsasyon, fason ou pale ak fason ou tande ka fè pale pi fasil ak pi kalm pou nou tou de.
 
-## What are the most important tips for talking with someone who has dementia?
+## Ki konsèy ki pi enpòtan lè w ap pale ak yon moun k ap viv ak demans?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Atire atansyon l, kenbe bagay yo senp, epi gen pasyans. Si ou sonje sèlman senk bagay:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Fè chanm nan vin pi trankil epi fè fas ak moun nan.** Fèmen televizyon an, chita nan menm nivo zye ak li, epi sèvi ak non li.
+2. **Di yon sèl bagay alafwa.** Fraz kout, yon sèl lide, yon sèl kesyon.
+3. **Ofri yon chwa ant de bagay.** « Te oswa kafe? » pi fasil pase « Kisa ou ta renmen? »
+4. **Tann.** Bay plis tan pou reponn pase sa ki sanble natirèl, epi eseye pa koupe pawòl la.
+5. **Pa janm diskite oswa teste.** Reponn jan moun nan santi l, pa si reyalite yo kòrèk oswa non.
 
-## How should I start a conversation?
+## Kijan mwen ta dwe kòmanse yon konvèsasyon?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Prepare bagay yo pou moun nan ka konsantre sou ou. [Gid Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rekòmande pou diminye bri an premye: fèmen radyo oswa televizyon an, fèmen rido oswa pòt la, oswa ale nan yon kote ki pi trankil.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Pwoche pa devan.** Vini pa dèyè oswa sou kote ka fè moun nan sote.
+- **Di ki moun ou ye.** « Bonjou Papa, se Sara, pitit fi ou. » Sa ede moun nan pa bezwen chèche non ou.
+- **Mete tèt ou nan nivo li.** Si li chita, chita oswa mete yon jenou atè pou zye ou yo nan menm nivo.
+- **Fè atansyon ak figi ou ak ton vwa ou.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) konseye pou ou fè atansyon ak ton ou, volim vwa ou, ekspresyon vizaj ou ak langaj kò ou, epi vize yon fason cho men senp.
+- **Asire w linèt ak aparèy oditif yo nan plas.** Li difisil pou swiv yon konvèsasyon ou pa ka wè oswa tande byen.
 
-## How should I phrase what I say?
+## Kijan mwen ta dwe di sa mwen vle di?
 
-Use simple words, short sentences and a calm, low voice.
+Sèvi ak mo senp, fraz kout ak yon vwa kalm, ki pa twò wo.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Yon sèl lide pou chak fraz.** « Ann mete manto ou. Apre sa n ap soti. » Pa di tou de nan menm souf.
+- **Sèvi ak non, pa pwonon.** « Matant Jan te rele » pi klè pase « Li te rele. »
+- **Bese ton vwa a, pa monte l.** Family Caregiver Alliance sijere yon vwa ki pi ba olye pou w pale pi fò.
+- **Repete, apre sa refòmile.** Si moun nan pa t konprann, repete menm pawòl yo yon fwa. Si sa pa mache, tann yon ti moman epi eseye lòt pawòl.
+- **Montre ansanm ak sa ou di.** Montre gode a ak dwèt, leve de chanday yo, oswa montre premye etap la.
+- **Pale avè l, pa sou li.** NIA mete moun sou gad pou pa pale sou moun nan tankou si li pa la, epi pou pa pale tankou ak yon timoun.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA sijere vèsyon ki pi senp pou kesyon moun poze souvan. Men kèk egzanp nan menm lespri sa a:
 
-| Instead of | Try |
+| Olye pou di | Eseye di |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| « Kisa ou vle manje pou dine? » | « Èske ou vle pwason oswa poul? » |
+| « Kijan ou santi w? » | « Èske ou santi w fatige? » |
+| « Èske ou grangou? » | « Dine ap pare nan senk minit. » |
+| « Se pa konsa pou w fè sa. » | « Ann eseye fè l konsa. » |
+| « Èske ou sonje vwayaj nou te fè bò lak la? » | « Mwen t ap panse ak vwayaj nou te fè bò lak la. Di m sa ou te renmen ladan l. » |
+| « Mwen te deja di ou sa. » | Reponn ankò, avèk dousè, tankou si se te premye fwa. |
 
-## How do I listen well?
+## Kijan mwen ka tande byen?
 
-Listen for the meaning and the feeling, not just the words.
+Tande sans ak santiman ki dèyè pawòl yo, pa sèlman mo yo.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Tann.** Silans souvan se tan pou reflechi. Konte dousman jiska dis anvan ou entèvni.
+- **Ofri yon mo sèlman si moun nan bloke.** Family Caregiver Alliance di li pa gen pwoblèm pou sijere mo lè yon moun ap lite.
+- **Verifye sa ou te tande.** [Gid Alzheimer’s Association sou kominikasyon](https://www.alz.org/help-support/caregiving/daily-care/communications) sijere pou chèche sans ki dèyè pawòl moun nan epi repete l pou verifye ou te konprann. « Ou gen enkyetid pou machin nan? »
+- **Gade figi ak kò moun nan.** Lè pale vin pi difisil, NIA fè konnen ekspresyon vizaj ka montre tristès, kòlè oswa fristrasyon pi klè pase pawòl.
+- **Pran enkyetid yo oserye.** Menm si yon enkyetid baze sou yon bagay ki pa egzak, santiman an reyèl.
 
-## What if they say something that is not true?
+## E si moun nan di yon bagay ki pa vre?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Pa diskite. Gen anpil chans ou pap genyen, epi moun nan ka fini santi l jennen oswa pè. Olye sa, konekte ak santiman an, apre sa deplase dou dousman sou yon lòt bagay.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance sijere pou rekonèt emosyon an anvan ou chanje sijè a. Pa egzanp, si manman ou ensiste li bezwen al chèche timoun yo lekòl:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Olye pou di: « Manman, pitit ou yo gran. Sa fè karant ane. »
+- Eseye di: « Ou te toujou yon manman ki te pran swen anpil. Di m kijan ou te konn al chèche yo. Èske nou ta renmen pran yon ti goute anvan? »
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association konseye tou pou pa diskite sou deklarasyon ou pa dakò ak yo. Chwazi moman ou yo: si yon kwayans ki pa egzak pa fè okenn mal, kite l pase.
 
-## How does communication change as dementia progresses?
+## Kijan kominikasyon chanje lè demans ap pwogrese?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Bezwen yo chanje ak tan, kidonk ajiste fason ou pale. Alzheimer’s Association dekri twa gwo etap:
 
-| Stage | What helps |
+| Etap | Sa ki ka ede |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Bonè | Pa sipoze moun nan pa ka kominike. Mete l nan konvèsasyon yo, pale dirèkteman avè l, mande ki sipò li vle, epi sèvi ak imè si sa ede. |
+| Mwayen | Pale youn ak lòt nan yon kote ki trankil. Pale dousman, kenbe kontak zye, sèvi ak kesyon wi oswa non, bay enstriksyon etap pa etap, epi pa kritike oswa korije. |
+| Pi avanse | Pwoche pa devan epi di ki moun ou ye. Ankouraje moun nan pou montre ak dwèt ak fè jès. Sèvi ak manyen, son, sa li wè ak odè. Pa janm pale tankou si li pa la. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Chak moun diferan, epi menm moun nan ka gen bon jou ak jou ki pi difisil. Reponn jan li ye kounye a, pa selon yon etikèt.
 
-## Can pictures and activities make conversation easier?
+## Èske foto ak aktivite ka fè konvèsasyon pi fasil?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Wi. Yon foto nou pataje ka retire presyon an epi bay nou tou de yon bagay pou nou gade ansanm epi montre ak dwèt.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Foto ki ankouraje konvèsasyon.** [Conversation Cards](/games/conversation-cards/) ofri foto ak kesyon ki louvri ki pa janm teste moun nan.
+- **Foto fanmi.** [Photo Pairs](/games/photo-pairs/) sèvi ak foto ou chwazi pou fè yon jwèt matche ki dous, sa ki souvan fè istwa soti.
+- **Ekspresyon abitye.** [Finish the Saying](/games/finish-the-saying/) sèvi ak ekspresyon Ameriken moun konnen byen, epi apre sa li bay yon sijè pou pale.
+- **Jwèt matche kòm sipò.** [Picture Pairs](/games/picture-pairs/) bay men ou yon bagay pou fè pandan n ap pale.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Gade [kijan pou jwe jwèt ansanm](/caregiving/how-to-play-together/) ak [aktivite reminisans](/activities/reminiscence/) pou plis ide. Pou vizit ak apèl, li gid nou yo sou [vizit](/activities/visiting/) ak [apèl telefòn ak apèl videyo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## E si mwen pèdi pasyans mwen?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Sa rive tout moun. NIA sijere, si ou vin fristre, pran yon ti tan pou w kalme. Ale nan yon lòt chanm, pran kèk souf dousman, epi retounen lè ou kapab. Ou ka toujou rekòmanse konvèsasyon an, epi moun nan ka byen reponn pi byen lè ou pi kalm. Si fristrasyon an ap vin konstan, se yon siy ou bezwen plis sipò, pa ke ou ap echwe. Gid nou sou [pran swen tèt ou lè w ap bay swen](/caregiving/caregiver-self-care/) gen kote ou ka jwenn èd.

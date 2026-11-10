@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Bisalu na kitini ya kati ya kuvila mambu"
+seoTitle: "Bisalu ya pete na kitini ya kati ya kuvila mambu"
+description: "Bisalu ya pete sambu na kitini ya kati ya kuvila mambu: bisalu ya nzo, miziki, bafoto mpi bansaka ya pete, ti mutindu ya kuyidika mpi ya kusadila."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Na kitini ya kati ya kimbevo ya kuvila mambu, bisalu ya mbote kele ya nkufi,
+  ya mezabanaka mpi ya kukabuka na bitambi mosi-mosi: kupinda bilele, kutula
+  basoseti na mapasa, kuyobisa malonga, kuyimba, kutambula ti lusadisu,
+  kutala babuku ya bafoto mpi bansaka ya pete ya bafoto. Yidika bima, monisa
+  kitambi ya ntete, baka bitambi ya mpasi mpi pesa kisalu kikuma. Yambula ntangu
+  yo ke vutukaka diaka ve ya kiese.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Bisalu ya nzo ya mezabanaka mbala mingi ke salaka mbote sambu yo ke pesaka muntu mawi ya kusala kima ya mfunu mpi ya kukonda lokumu."
+  - "Monisa kuluta kutuba, pesa kitambi mosi na mbala mosi, mpi pesa bapondua zole ya pete na kisika ya bangyufula ya kukanguka."
+  - "Baka kitambi ya mpasi mingi sambu muntu kakuka kusala kitambi yina ke pesaka kiese."
+  - "Bikalulu ya kukonda kupema mbala mingi ke monisa nde muntu kesosa kima ya kusala. Pesa kisalu yina mefwana na kisika ya kubuya."
+  - "Kutala, kusadisa fioti, to kuyambula ntete kele mambu yonso ya mbote."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Inki bisalu mefwana sambu na kitini ya kati ya kimbevo ya kuvila mambu?"
+    a: "Bisalu ya nkufi, ya mezabanaka mpi ya kusala na maboko mbala mingi ke salaka mbote: kupinda bitawele, kutula basoseti na mapasa, kuyobisa malonga, kuyidika mesa, kuyimba bankunga ya ntama, kutambula ti lusadisu, kutala babuku ya bafoto mpi bansaka ya pete ya bafoto. Kabula konso kisalu na bitambi mosi-mosi mpi sala yo kumosi."
+  - q: "Inki mutindu nakukusa muntu yina kele na kimbevo ya kuvila mambu na kuyantika kisalu?"
+    a: "Yidika bima yonso ntete, na nima yantika kisalu nge mosi mpi bingisa yandi na kusadisa: «Lenda nge sadisa mono ti bitawele yai?» Bantu mingi kezola kukota na kisalu kansi kebaka mpasi na kuyantika. Kumonisa kitambi ya ntete mbala mingi kesalaka mbote kuluta kutendula yo."
+  - q: "Inki nakusala kana yandi ketatamana kusala kima mosi mbala na mbala?"
+    a: "Kuvutukila kusala kima mosi mbala mingi kele ve kigonsa mpi lenda monisa nde muntu kezola kuwa bonso yandi kele ti kima ya kusala to yandi kesosa kikesa. Na kisika ya kuyidika yandi, pesa kisalu yina mefwana ti kikalulu yina, bonso paniere ya bitawele ya fioti ya kupinda to nkunga ya kuyimba kumosi."
+  - q: "Inki nakusala kana yandi kesala kisalu na mutindu ya mbi?"
+    a: "Kana yo kele ve kigonsa, bika yo mutindu yina. Bitawele ya kupindama na mutindu yankaka to balutuya na kisika ya mbi kele ve diambu ya mfunu. Kuyidika lenda vanda bonso kufunda, kansi kubika yandi kusala na mutindu na yandi kepesa yandi mawi ya kukuka mpi ya kusala kima ya mfunu."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Kitini ya kati ya kimbevo ya kuvila mambu mbala mingi kele kitini ya nda mingi, mpi na ntangu yina bisalu keyantikaka kusosa lusadisu ya kieleka. Bangogo kekwisa na mpasi, bitambi kesobasobanaka, mpi kuyantika kima mosi lenda vanda mpasi. Kansi mpusa ya kuvanda na mfunu mpi ya kukota na mambu mbala mingi kezingaka. Ti kuyidika fioti, muntu yina kele na kitini ya kati lenda baka ntete kiese na mambu mingi, mingi-mingi na bisalu ya mezabanaka, miziki mpi bafoto yina bo kesalaka pembeni-pembeni ti nge.
 
-## What activities work well in middle-stage dementia?
+## Inki bisalu kesalaka mbote na kitini ya kati ya kimbevo ya kuvila mambu?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Bisalu ya nkufi, ya mezabanaka mpi ya kusala na maboko, ya kukabuka na bitambi mosi-mosi, kesalaka mbote mingi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) ketuba nde nge fwete ve kuyindula mambu ya mpa ya kusala: bisalu lenda vanda kitini ya luzingu ya konso kilumbu, bonso kulamba kumosi, kusala bilanga, kuwa miziki to kutambula.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kemonisa nde bantu na kitini yai mbala mingi kevandaka ti mpusa ya ngolo ya kuwa bonso bo kele na kikuma to ya kusansa kima mosi, mpi bo kesosaka lusadisu sambu na kuyantika to kutatamana bisalu. Na ndonga na yo sambu na kitini ya kati kele: kupinda bilele, kuyobisa malonga, kutula basoseti na mapasa, ngalasisi ya pete, kukina na miziki ya mezabanaka, kutambula ti lusadisu, kuyimba kumosi, kupenta ya pete mpi kutala babuku ya bafoto.
 
-## How do you set up an activity so it works?
+## Inki mutindu ya kuyidika kisalu sambu yo sala mbote?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Bisalu mingi kelungaka to kenungaka ve na mutindu yo meyidikama. Bikalulu yai, ya mekatuka na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) mpi [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), kesalaka luswaswanu ya nene:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Kitula kisika pwelele.** Zima televizio, kanga kielo mpi tula kaka bima yina kisalu kesosa.
+2. **Yantika yo nge mosi.** Yantika kupinda to kunikisa mpi bingisa yandi: «Lenda nge sadisa mono na yai?»
+3. **Monisa, na nima vingila.** Monisa kitambi mosi. Songa na musapi to sadila diboko na nge, mu mbandu kumonisa kisika ya kutula longa.
+4. **Pesa kitambi mosi na mbala mosi.** «Pinda yo na kati» kele pete kuluta «pinda yai mpi tula yo na kimvuka na mutindu ya mukubu».
+5. **Pesa bapondua zole, kansi ve bangyufula ya kukanguka.** «Bitawele ya ble to ya mpembe?» kele pete na kupesa mvutu kuluta «Inki nge kezola kusala?»
+6. **Sala kitambi ya mpasi nge mosi.** Nge kemeza, yandi kenikisa. Nge ketula nsinga, yandi kevindumuna nsinga ya laine.
+7. **Pesa yo kikuma.** «Bitawele yai ya mesa kele sambu na madia ya Lumingu» kesalaka nde kisalu kuvanda ya kieleka.
+8. **Bika yandi katala kana yandi mezola.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kemonisa nde kutala kaka mpi lenda vanda kima ya kiese.
 
-## Activity ideas for the middle stage
+## Bandongisila ya bisalu sambu na kitini ya kati
 
-### Useful jobs
+### Bisalu ya mfunu
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Kupinda bitawele mpi bitawele ya fioti.** Bima ya fioti, ya lalama kele ya pete mingi. Paniere ya bitawele ya fioti ya tiya lenda pindama, lenda lembika mpi lenda pindama diaka.
+- **Kutula basoseti na mapasa.** Yantika ti mapasa fioti yina keswaswanaka mingi. Kukabula na mutindu ya mukubu kaka mpi kele mbote.
+- **Kuyobisa to kuyumisa malonga yina kebukaka ve.** Maza ya tiya ti sabuni kele ya mbote na maboko. Kuyumisa ntangu muntu mevanda kele pete sambu na makulu.
+- **Kuyidika mesa.** Pesa kima mosi na mutindu na mbala mosi, mpi yidika kisika mosi nge mosi bonso mbandu.
+- **Kusadisa na kulamba.** Kuyobisa bambala, kupasula saladi to kunikisa na bakini. Nge kebaka bampu mpi tiya.
+- **Kukomba, kukatula putulu to kupangusa.** Lenso sambu na mesa, kikombele ya pete sambu na verandah.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Tala [bisalu ya nzo](/activities/household-tasks/) sambu na bandongisila mingi.
 
-### Music and movement
+### Miziki mpi kunikisa nitu
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Kuyimba bankunga ya ntama.** Yantika kuyimba nge mosi; bantu mingi kekotaka na bankunga yina bo mezaba banda bamvula mingi. Tala [bisalu ya miziki](/activities/music/).
+- **Kukina na kimpwanza.** Nikisa nitu, bula maboko to sala mutindu yina kewakana mbote. Kuvanda mpi kele mbote.
+- **Kubula balon ya mupepe.** Yo ketambukaka malembe mpi yo kele pete na kubaka ntangu muntu mevanda.
+- **Kutambula ti lusadisu.** Tambula kumosi na nzila ya nkufi mpi ya mezabanaka, maboko na maboko kana yo kesadisa.
 
-### Pictures and stories
+### Bafoto mpi masolo
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Kutala buku ya bafoto.** Tuba sambu na mambu yina nge kemona na kisika ya kuyula bangyufula: «Tala kamio yina. Tuba mono sambu na yo.» Tala [bisalu ya kuyibuka](/activities/reminiscence/).
+- **Sadila bakarte ya masolo.** [Bakarte ya masolo](/games/conversation-cards/) kevukisaka foto ti ngyufula ya kukanguka, kukonda nsaka ya kizuzi.
+- **Kutala filme ya ntama kumosi.** Pona filme ya mezabanaka, vanda pene mpi yambula sambu na kupema.
 
-### Simple, pressure-free games
+### Bansaka ya pete, kukonda kupusa
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Mapasa ya bafoto ti bafoto ya kemonana.** [Mapasa ya bafoto](/games/picture-pairs/) kebikaka bafoto kemonana, yo yina yo ketadila kutala, kansi ve kuyibuka.
+- **Sosa kima ya mutindu mosi.** [Sosa kima ya mutindu mosi](/games/find-the-same/) kemonisaka foto mosi mpi bapondua zole tii iya kaka.
+- **Kabula kumosi.** [Kabula kumosi](/games/sort-together/) kele bonso kukabula bilele na ekran: niema na foto, na nima na paniere na yo.
+- **Bingo ya bafoto.** [Bingo ya bafoto](/games/picture-bingo/) kesalaka mbote sambu na balukutakanu ya dibuta mpi ya kimvuka.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Kana nsaka mosi keyantika kupesa makasi to kukonda kiese, yambula yo mpi sala diaka kima yankaka. Tala [mutindu ya kusakana kumosi](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Kukumisa kukonda kupema na kisalu
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Bikalulu ya kukonda kupema to ya kuvutukila mbala mingi mbala mingi kevandaka ti kikuma. Family Caregiver Alliance kemonisa nde muntu yina ketatamana kukatula bima na armuare lenda vanda na mpusa ya kuwa bonso yandi kele ti kima ya kusala mpi ya mfunu. Alzheimer's Association kepesa ndongisila ya kukumisa ngolo yina na kisalu yina mefwana, na kisika ya kuyimisa yo.
 
-| What you see | Something to offer |
+| Mambu yina nge kemona | Kima ya kupesa |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Kupangusa to kukanga mesa na maboko | Lenso ya madidi mpi kulomba na kupangusa mesa |
+| Makulu ya kukonda kupema to kubula ntoto | Miziki ti ritmo ya pwelele sambu na kubula maboko to makulu na ntangu mosi |
+| Kukatula bima na batiroire to na baarmuare | Paniere ya bilele to ya bitawele ya fioti ya kupinda mpi ya kukabula |
+| Kuyula ngyufula mosi mbala na mbala | Kikesa ya malembe, na nima nkunga to kisalu ya kusala kumosi |
+| Kutambula-tambula | Kutambula kumosi, to kisalu yina kesosa kunata bima |
+| Kukonda kupema na nima ya midi | Kisalu ya pima, ya mezabanaka na mwinda ya mbote; tala [kukonda kupema na nima ya midi](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Ntangu ya kuyambula to ya kusoba nzila
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Yambula ntangu nge kemona bidimbu ya kulemba, ya kukonda kiese, ya nsoni to ya kulemba mabanza, bonso kunikisa maboko, kukangama na luse, kutindika bima to kutuba «Nakukuka ve». Alzheimer's Association kepesa ndongisila ya kumeka diaka na ntangu yankaka ya kilumbu to ya kukitula kisalu pete mingi. Pusa ve. Kubuya lenda katuka na boma to sambu kisalu kele mpasi mingi; tala [ntangu yandi ketuba ve](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Kuyambula ntete kele mbote. Kuvanda kaka kumosi ti dikopa ya tii mpi kele mbote. Ntangu makuki kesobaka diaka, bandongisila na [bisalu sambu na kitini ya nsuka](/activities/late-stage/) lenda fwana mingi, mpi [101 bisalu](/activities/ideas/) kele ti bandongisila mingi ya kumeka.

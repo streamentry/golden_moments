@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Rólig tiltøk seint um eftirmiðdagin hjá fólki við demensu"
+seoTitle: "Sundowning: Rólig tiltøk seint um eftirmiðdagin"
+description: "Blíð skipanir, broytingar í rúminum og rólig tiltøk, ið kunnu hjálpa við óró seint á degi hjá fólki við demensu, og nær tú skalt ringja lækna."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning er óró, ørkymlan ella pirring, sum byrjar ella versnar seint
+  um eftirmiðdagin ella um kvøldið. Praktisk stig, ið kunnu hjálpa, eru ein
+  støðugur gerandisdagur, dagsljós og virksemi fyrr á deginum, færri seinir
+  blundar, minni koffein, bjart ljós inni áðrenn myrkið fellur, eitt róligari
+  heim og rólig tiltøk sum tónleikur, myndir ella at falda vesk. Ný ella
+  versnandi eyðkenni krevja, at læknin hyggur eftir.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning merkir óró ella ørkymlan, sum byrjar ella versnar, tá ið dagsljósið hvørvur."
+  - "Legg tyngri uppgávur, túrar og baðing á morgunin ella tíðliga um eftirmiðdagin."
+  - "Dagsljós, ein dagligur spásertúrur, færri seinir blundar og minni koffein seint á degi kunnu gera kvøldini róligari."
+  - "Tendra ljósið inni áðrenn myrkið fellur, lækka ljóðið og far yvir til rólig, kend tiltøk."
+  - "Halt eina stutta skrá fyri at síggja, hvat setur gongd á tað, og ver róligur og tryggjandi, tá ið órógvin byrjar."
+  - "Far til lækna, um eyðkenni eru ný ella versna: pína, smitta ella heilivágur kunnu spæla ein leiklut."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Nær á degi hendir sundowning vanliga?"
+    a: "Tað byrjar ella versnar vanliga seint um eftirmiðdagin ella tíðliga um kvøldið, tá ið dagsljósið hvørvur. Næmari tíðin er ymisk frá persóni til persón, og tí kann tað hjálpa at halda eina stutta skrá í eina ella tvær vikur."
+  - q: "Hvørji tiltøk hjálpa við sundowning?"
+    a: "Rólig, kend tiltøk, ið ikki krevja nógv, rigga ofta best seint um eftirmiðdagin: róligur tónleikur, at hyggja at myndum, eitt yndis sjónvarpssending ella filmur, at falda vesk, ein stuttur spásertúrur ella ein matarbitur saman. Goym nýggj ella torfør tiltøk til fyrr á deginum."
+  - q: "Kann sundowning vera tekin um nakað heilsuligt?"
+    a: "Tað kann versna av heilsutrupulleikum sum pínu, smittum sum urinvegsinfektión, svevntrupulleikum ella hjáárinum av heilivági. Um órógvin er nýggj, kemur brádliga ella versnar, so set teg í samband við læknan hjá persóninum."
+  - q: "Skal eg spyrja læknan um heilivág móti sundowning?"
+    a: "Tað er eitt samtaluv evni við læknan. Alzheimer’s Association sigur, at tiltøk uttan heilivág vanliga verða roynd fyrst, og at heilivágur móti óró um kvøldið bert eigur at verða umhugsaður, tá ið vandar og ágóðar eru vigaðir. Hendan síðan gevur ikki ráð um heilivág."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Nógvar familjur leggja merki til sama mynstrið: morgnarnir eru rættiliga róligir, men tá ið eftirmiðdagurin líður, gerst tann, tú røkir um, ið livir við demensu, óróligur, stúrin, ørkymlaður ella pirraður. Viðkomandi kann ganga fram og aftur, biðja um at „fara heim“, hóast hann ella hon longu er heima, ella gerast lættliga illa við. Hetta verður ofta nevnt sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Tað finst eingin ein loysn, men broytingar í rútmunum dagsins, í rúminum og í slagi av tiltøkum, tú bjóðar, kunnu gera seinnu eftirmiðdagarnar róligari. Hendan síðan savnar praktiskar hugskot uttan heilivág frá National Institute on Aging og Alzheimer’s Association. Hetta er ikki læknafakligt ráð. Um eyðkenni eru nýggj, koma brádliga ella versna, so tosa við læknan hjá persóninum.
 
-## What is sundowning?
+## Hvat er sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning er óró, órógv, pirring ella ørkymlan, sum byrjar ella versnar, tá ið dagsljósið hvørvur, seint um eftirmiðdagin ella tíðliga um kvøldið. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) viðmerkir, at ov móður kann økja um órógvina seint á degi.
 
-## What can make late-day restlessness worse?
+## Hvat kann gera órógvina seint á degi verri?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Fleiri ting kunnu spæla inn, ofta saman. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) nevnir viðurskifti sum:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- máttleysi eftir ein fullan dag;
+- nýggj ella ørkymlandi umhvørvi;
+- ein „innari kropsklokka“, sum ikki er í lagi, so persónurin er syfjaður um dagin og vakin um náttina;
+- lítið ljós og skuggar, sum kunnu vera ørkymlandi;
+- at kenna strongd ella frustratión hjá fólki rundan um;
+- tørvur á minni svevni, sum er vanligt hjá eldri fólki.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA nevnir eisini orsøkir til órógv meir yvirskipað, millum annað pínu, tunglyndi ella strongd, ov lítlan hvíld, forstoppilsi, ov nógv ljóð ella ov nógv fólk, og ávísan heilivág ella samspæl millum heilivág.
 
-## How can I plan the day to make evenings calmer?
+## Hvussu kann eg skipa dagin, so kvøldini gerast róligari?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Flyt tyngri ting til fyrr á deginum og halt seina eftirmiðdagin blíðan og fyrisígkomnan. Bæði NIA og Alzheimer’s Association mæla til eina fasta skipan. Ein royndardagur, sum tú kanst tillaga til tykkara gerandisdag:
 
-| Time | What may help |
+| Tíð | Hvat kann hjálpa |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Morgun | Avtalur, baðing, túrar og allar uppgávur, sum krevja orku, tá ið nógv eru mest vakin |
+| Seint á morgni | Tíð uttandura ella við eitt sólskinspípa; ein spásertúrur ella annað virksemi |
+| Miðdegi | Ein størri døgurði (Alzheimer’s Association mælir til ein størri døgurða og eitt lættari kvøldmáltíð) |
+| Tíðliga um eftirmiðdagin | Hvíld, um tørvur er á tí, men slepp longum blundum seint á deginum |
+| Miðskeiðis til seint um eftirmiðdagin | Rólig, kend tiltøk; ein matarbitur og okkurt at drekka; einki koffein |
+| Áðrenn myrkið fellur | Tendra ljósið inni og drag gardinurnar fyri, áðrenn tað gerst myrkt |
+| Kvøld | Eitt lættari kvøldmáltíð, róligur tónleikur, lítið rørslumynstur, ein støðug songarrútina |
 
-A few specific points from the sources:
+Nakrir ávísir punktar úr keldunum:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Dagsljós.** NIA mælir til at skipa fyri tíð uttandura ella við vindeygað fyri at fáa sólskin hvønn dag.
+- **Daglig rørsla, men ikki ov nógv.** Rør teg kropsliga hvønn dag, uttan at leggja ov nógv tiltøk til rættis, sigur NIA.
+- **Drykkir seint á degi.** Slepp alkohol og drykkjum við koffein, sum kaffi ella kólu, seint á deginum (NIA). Alzheimer’s Association nevnir eisini nikotin.
+- **Blundar.** Slepp longum blundum og at dúsa seint á deginum (NIA). Alzheimer’s Association mælir til at avmarka blundar um dagin, um svevnin um náttina er ein trupulleiki.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Fyri meira um at byggja upp ein støðugan dag, sí [tiltøk í gerandisdegnum](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Hvussu kann eg gera heimið róligari seint um eftirmiðdagin?
 
-Reduce noise, add light and keep familiar things close.
+Minka um ljóð, øk um ljósið og halt kendum lutum tætt við.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Bjart, javnt ljós.** Alzheimer’s Association mælir til at hava heimið væl lýst um kvøldið. Lýs upp, áðrenn skuggarnir koma.
+- **Minni ljóð.** Sløkk ella lækka sjónvarpið og útvarpið, og avmarka vitjan ella heimligt virksemi, sum hevur nógv við sær, júst tá. Alzheimer’s Association mælir til at minka um rørslumynstur um kvøldið, sum sjónvarp, húsarhald og harðan tónleik.
+- **Kendir tryggleikar.** NIA mælir til róligan tónleik og at hava karnar lutir og myndir frammi í heiminum.
+- **Hygg eftir, um alt er væl.** Alzheimer’s Association mælir til at kanna eftir pínu, hungri, tysti, forstoppilsi, fullari bløðru, máttleysi, smittum og húðirritan, og at hava rúmið við einum hóskandi hita.
+- **Títt egna sinn.** Fólk kenna strongd hjá øðrum. NIA mælir til at seta ferðina niður og royna at slappa av, um tínar egnu stúranir kanska økja um spenningin.
 
-## What calm activities can we do in the late afternoon?
+## Hvørji rólig tiltøk kunnu vit gera seint um eftirmiðdagin?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Vel tiltøk, sum eru kend, ikki skunda, og lætt at steðga við. Alzheimer’s Association mælir til rólig tiltøk sum stillan tónleik, myndir ella ein yndisfilm, og ein spásertúr saman fyri at minka um óró. NIA mælir til ein matarbit ella okkurt at drekka, eina yndissending í sjónvarpi, tónleik, ein spásertúr, at lesa ella eitt einfalt heimligt arbeiði sum at falda vesk.
 
-Ideas to try:
+Hugskot at royna:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Falda vesk saman.** NIA mælir til hesi sløgini av einfaldum heimligum arbeiði. Handklæði eru lætt at handfara, og uppgávan hevur ein greiðan enda.
+2. **Spæl yndistónleik.** Kend løg frá ungdómsárunum, við lágum ljóði. At neyva við er nóg mikið. Fleiri hugskot finnur tú í [tiltøk við tónleiki](/activities/music/).
+3. **Hygg at myndum.** Ein myndaalbum, ella nakrar familjumyndir í [Photo Pairs](/games/photo-pairs/) við myndunum sjónligum, kann føra til róligar samrøður.
+4. **Far ein stuttan spásertúr.** Rundan um garðin, blokkina ella ein gang, áðrenn tað gerst myrkt.
+5. **Deil ein matarbit og okkurt at drekka.** Okkurt einfalt, heitt og uttan koffein, saman við borðið.
+6. **Blítt at samanbera.** [Picture Pairs](/games/picture-pairs/) við fýra flísum og sjónligum myndum er lætt at byrja við og lætt at steðga við.
+7. **At lita.** [Coloring](/games/coloring/) á skíggja ella á eini prentaðari síðu, uttan mál um at gera liðugt.
+8. **At hyggja og tosa.** [Conversation Cards](/games/conversation-cards/) bjóða eina mynd og eitt opið boð. Bert at hyggja er nóg mikið.
+9. **Ein andarsteðgur.** [Calm Breathing](/games/calm-breathing/) er ein spakuligur, róligur steðgur, sum tú byrjar og steðgar við sjálvur.
+10. **Handalig uppgávur.** At sortera knappar ella sokkar, at strúka eitt mjúkt teppi ella at halda um ein kendan lut. Sí [tiltøk við sansum](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Slepp nýggjum spælum, upptiknum túrum og øllum, sum krevur nógv minni ella savnan seint á deginum. Goym tað til morgunin.
 
-## What should I do when restlessness starts?
+## Hvat skal eg gera, tá ið órógvin byrjar?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Ver róligur, tryggja og leið blídliga uppmerksemi yvir á nakað annað. NIA mælir til at tosa róliga, lurta eftir stúranunum hjá persóninum, sleppa at træta, tryggja viðkomandi um, at hann ella hon er tryggur, og nýta blíðan nerting, um tað hjálpir. Royn so at venda tankarnar við einum matarbit, onkrum at drekka, tónleiki ella einum spásertúri.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer’s Association mælir til setningar sum „Tú ert tryggur her“ og „Tað harmar meg, at tú ert illa við“, og mælir til at tendra ljós, seta ferðina niður og avmarka rørslumynstur. Kroysta ikki persónin inn í eitt horn, trýst ikki inn á og halt ikki aftur, og trætta ikki.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Um persónurin gerst aggressivur, mælir NIA til at halda tryggan frástøðu, til atburðurin steðgar. Í neyðstøðu, ring 112 og greið frá, at persónurin livir við demensu.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Leiðbeiningarnar hjá okkum um [samskifti](/caregiving/communication-tips/) og [hvat tú kanst gera, tá ið tey siga nei](/caregiving/when-they-say-no/) hava meira um rólig orð.
 
-## How do I find the triggers?
+## Hvussu finni eg út av, hvat setur gongd á tað?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Halt eina stutta skrá í eina ella tvær vikur. Alzheimer’s Association mælir til at skriva niður, hvat hendir áðrenn sundowning-tilburðir, fyri at finna møguligar orsøkir. Skriva tíðina, tá ið órógvin byrjaði, hvat hendi tíman frammanundan, blundar, máltíðir og drykkir, vitjan, ljóð og ljós. Tak skrána við til læknan. NIA viðmerkir, at tað at fylgja við broytingum í atburði kann hjálpa teimum, ið røkja, og heilsustarvsfólki at síggja eitt mynstur.
 
-## When should I call a doctor about sundowning?
+## Nær skal eg ringja lækna um sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Set teg í samband við læknan hjá persóninum, um órógvin er nýggj, brádliga verri ella kemur saman við øðrum broytingum. NIA sigur, at bráar ella skjótt skiftandi broytingar í atburði, serliga eftir eina smittu ella nýligar broytingar í heilivági, alt fyri eitt skulu takast upp við lækna.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Bið læknan kanna eftir tingum, sum kunnu gera kvøldini truplari. Alzheimer’s Association nevnir likamlig trupulleikar sum urinvegsinfektiónir, inkontinens, órólig bein og svevnapneu, og mælir til at spyrja, nær á degi hvør heilivágur riggar best. NIA nevnir pínu, forstoppilsi og hjáárin ella samspæl hjá heilivági sum møguligar orsøkir til órógv.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer’s Association sigur, at tiltøk uttan heilivág vanliga verða framumtikin við svevntrupulleikum, ið hanga saman við Alzheimer, og at heilivágur móti óró seint á degi bert eigur at verða umhugsaður, um tey ikki rigga, tá ið vandar og ágóðar eru vigaðir. Tann avgerðin hoyrir læknanum til. Byrja ikki, steðga ikki og broyt ikki heilivág, svevnráð ella kostískoyti uttan læknafakligt ráð.
 
-## How do I get through the evenings myself?
+## Hvussu klári eg sjálvur kvøldini?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Seinir eftirmiðdagar kunnu vera tað truplasta í degnum hjá einum, ið røkir. Um tú kanst, bið so eitt familjulim, ein vin ella ein løntan hjálpara um at taka yvir seint um eftirmiðdagin nakrar dagar um vikuna, sjálvt um tað bert er fyri ein tíma. Leiðbeiningin hjá okkum um [egnumrøkt, tá tú røkir um onkran](/caregiving/caregiver-self-care/) nevnir møguleikar fyri avloysing og ókeypis 24/7 hjálpitelefonina hjá Alzheimer’s Association.

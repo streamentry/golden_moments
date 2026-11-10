@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Kåmo para Uhayek i Apps yan Juegu para Demensia"
+seoTitle: "Kåmo para Uhayek i Apps yan Juegu para Demensia"
+description: "I checklist para i taotao ni manayuda: na'i primet i intenton-mu, esquicha i relos yan i anunsio, chek i pribasidad, yan sensa i alegasion siha."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Na'i primet håfa malago' hao na u na'siña i app: estiimulasion ni malago'-ña, hinanao gi minetgot, kinneng, pat koneksion. Pues ayek i uno' ni matutunog gi abilidad-ña på'go, ni guaha dångkulo na retratu, sin relos, sin iskor, sin anunsio, yan i fasil na para u bånda. Chek håfa na infotmasion i app ha kohi yan siña hao ha na'suha. Sensa i alegasion siha na i app ha fananao, ha na'lukao, pat ha na'fihu i demensia; i uno na estaoha ti prueba.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Na'i primet i intenton-mu: estiimulasion, hinanao, kinneng pat koneksion mannesita difirenti na apps."
+  - "Tumutunog i abilidad-ña på'go, ti i etset-ña, yan na'simplu i kontrol siha."
+  - "Esquicha i apps ni guaha relos, iskor, bida siha, streaks, anunsio pat pinitka para manbende."
+  - "Chek håfa na datos i app ha kohi, i ha fanbaba, yan siña hao ha na'suha. I HIPAA ti manaplikåyi gi consumer apps gi minagahet-na."
+  - "Sensa i alegasion siha ni 'ha na'suha i demensia'. I uno na prubåba, pat i mas takhilo' na iskor gi app, ti prueba."
+  - "I Golden Moments ha' na aktibidat para minagof. Ti ha na alegasion klinika."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Siña i brain games ha na'suha i demensia?"
+    a: "Tåya' maolek na prueba na i brain-game apps siña ha na'suha pat ha na'lukao i demensia. I National Institute on Aging ha faisen na tåya' nesisariu na prueba na i brain-training apps ni ma vende gi komersio siha guaha i lachi na efektu-ta kumu i structured training ni ma prubåba gi uno na dångkulo na estaoha gi investigasion. Ayek i apps para i minagof yan koneksion, ti kumu medisinå."
+  - q: "Maaot i HIPAA para i demensia app?"
+    a: "Gi minagahet-na, ti. I HIPAA gi manaplikåyi gi manayudu para salud, i plan para salud, yan i business associates siha. I app ni un download hao mismo gi minagahet-na ti maaot HIPAA maleffa na i uno ginin i manhuyong siha. I FTC's Health Breach Notification Rule ha prutehi i manhuyong na health apps ni ti maaot HIPAA."
+  - q: "Håfa debi u fanhasso i maolek na demensia game?"
+    a: "Dångkulo yan klao na retratu yan tinige', uno ha' na aksion klaru gi kada pantaya, sin relos pat iskor, sin buzzer para i potka siha, sin anunsio, yan i fasil na para u påra pat bånda. Debi u fanhasso na mafa'tinas para i manadultu, yan fasil para i sigundu taotao para u sumasaga."
+  - q: "Ha alegasion i Golden Moments na u ayudu i minetgot?"
+    a: "Tåya'. I Golden Moments ha offre simple na aktibidat para i manhumuyong para minagof yan kumuentus. Ti ha diknås, ha fanatmenti, ha na'suha pat ha medidi i demensia, yan tåya' alegasion-na put i minetgot pat i hinasso."
+  - q: "Debi yu' bai fanbende para i demensia app?"
+    a: "Prueba i libre na opsion siha pat i libre na trial muna, yan atan håfa i taotao ni un ayuduña ha respondi gi dos simåna. I fanbende para i app ti ha na'mas efektibu. Chek i kåmo para un kansela antes di un subscribe."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Bula gi app store manmaolek na juegu ni manaetiqueta para manamko', minetgot pat demensia. Guaha manmaolek na mafa'tinas. Lao guaha manañågi alegasion ni parehu kumu medika, relos ni ha na'fanmama'pos i minagof kumu pruebå, pat anunsio yan kinahulo' datos. Este na påhina ha na'siña hao para un ekungok maseha håfa na app mismo. Ti bai hu ranko pat hu reviha otro na produkto.
 
-## What should I decide before choosing a dementia app?
+## Håfa debi yu' bai na'i primet antes di bai ayek i demensia app?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Na'i primet håfa malago' hao na u na'siña i app. "I juegu para i nanå-hu" siña difirenti na måsge', yan i maolek na ayek para i uno na intenton siña ti maolek para otro.
 
-| Goal | What it looks like | What to look for |
+| Intenton | Håfa ha fanhasso | Håfa debi un li'e' |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Estiimulasion ni malago'-ña | Hananu', linahayan, simplu na rompecabezas, juegu gi palabra siha | Siña ma adjusta i difikulåt, i retratu siha debi manma'po', sin priså |
+| Hinanao | Åmko' na retratu, familian na ekspresion, kanta ginin i tiempo-ña na muchåcho | I retratu-mu mismo, malago'-ña na pinitka, sin kuestion para pruebå |
+| Kinneng | Malago'-ña na biså, ti manhengheng na inngok, ginen hånom, natåt | Fasil para u tutuhon yan para u bånda, tåya' nå'que ha på'go, tåya' sorpresa |
+| Koneksion | Humuyong pat kumuentus håfa yu', gi lugåt pat gi video | Ma fa'tinas para dos taotao, pinitka para kumuentus |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+I investigasion put i "cognitive stimulation" ni maestruktura para i taotao ni manmalango gi demensia gi minagahet-na ha konsiste gi grupo na sesion ni manma lidera ginin manentrenao, yan diskusion, juegu gi palabra, rompecabezas, kanta yan aktibidat kreatibu. I [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ha sodda' na dikiki' na benepisio gi averås, lao difirenti gi kada estaoha. I klåsen programa ni sosial yan manisiguet na este ti parehu kumu i solo na app, put este na ayek i app ha' kumu uno na aktibidat para manhumuyong gi halom i manhuyong.
 
-## How do I know if an app fits the person's abilities?
+## Kåmo para bai hu tungo' na i app ha matutunog gi abilidad-ña?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Atan håfa i taotao ni un ayuduña ha respondi, ti ha' gi diagnos pat i etset. Dos taotao ni parehu gi "i mismu etset" siña difirenti måsge' gi mata, talanga, kontrol gi kannai, lengguåhi yan kumfotme gi pantaya. I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ha suhi na ta hatme i interes ginin i tiempo åmko' yan i abilidad på'go, yan na'i primet i minagof kinu i logro.
 
-Signs of a good fit:
+Sinyåni ni maolek na matutunog:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ha tutuhon pat sumasaga sin dikiki' na konbense;
+- ha femmen, ha kumuentus pat ha kuentus i istorian-ña;
+- i potka siha ti ha na'lalångu i hinasso-ña;
+- ha kontentu na u bånda annai mås takhilo' i tiempo.
 
-Signs it is a poor fit:
+Sinyåni na ti maolek na matutunog:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- repetidu na "ti siña yu'", pat "buente na este";
+- konfusion put håfa debi u pupôgi;
+- frustrasion, konfusion pat ha push i aparatu;
+- nesisita na un ayudu i lokue' gi todo.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+I distrés ha na'sinyå, ti måsge' para un push håfa. Atan [håfa para bai hu cho'gue annai ha såguet](/caregiving/when-they-say-no/). Para ideha gi etset sin apps, atan i aktibidat [gi primet etset](/activities/early-stage/) yan [gi uttimo na etset](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Håfa na disenyo debi hu li'e' pat bai hu esquicha?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Li'e' i malago'-ña, simplu, adultu na disenyo, yan esquicha todo håfa ha na'priså.
 
-| Look for | Be wary of |
+| Debi un li'e' | Debi un atngan |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Dångkulo na retratu yan tinige', takhilo' na kontraste | Dikiki' na icon siha, bula pantaya |
+| Uno ha' na aksion klaru gi kada pantaya | Manhuyong na buton siha, menug, pat instruktion ni manmetgot |
+| Sin relos, pat relos ni siña un apagui | Countdown, bonus para i apuradu, "na'mas åpas i tiempo-mu" |
+| Sin iskor, pat malago'-ña na feedback | Puntos, bida siha, streaks, ranking, "edad gi hinasso" |
+| I potka siha ma treati ni ti manma'oyao | Buzzer, red X, mensåhi na "Potka" |
+| Adultu, real na retratu siha | Cartoon pat infant na tema siha |
+| Ma trabåhi offline, tåya' account para u tutuhon | Nesisita na u sign up, log in pat u download kontentu muna |
+| Fasil para u påra yan bånda | Pop-ups ni manapela para u kontinue humuyong pat u ratibu i app |
+| Sin anunsio, klaru na presiu ha' pat subscription | Anunsio siha, loot boxes, manhuyong na pinitka para fanbende |
+| Fasil para i sigundu taotao para u sumasaga | Ha' para uno na manhuyong, ma disenyo para kompetision |
 
-Ads and purchase prompts are easy to tap by accident.
+I anunsio yan i pinitka para fanbende siña ma pupôgi gi aksidente.
 
-## How do I check an app's privacy?
+## Kåmo para bai hu chek i pribasidad gi app?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Chek håfa na datos i app ha kohi, håyi ha fanbaba, yan siña hao ha na'suha. Antes di un installa:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Ekungok i pribasidad summary gi store.** I Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) yan i App Store's [pribasidad infotmasion section](https://support.apple.com/en-us/102399) ha listaha i klåsen datos ni siña ma kohi yan ma fanbaba. Todo dos ha kumuentus na i developers siha ha na'sangan este na infotmasion, put este na i tinutuhon ha', ti auditoria.
+2. **Faisen mangge nesesita account.** Yanggen i app ha' ha na'fanli'e' retratu pat simplu na juegu, ti nesisita na u tungo' i nå'an-mu, email-mu pat cumpleåños-mu.
+3. **Chek i permiso siha.** Nesisita buente i juegu para hananu' i lokasion, kontak, mikrofonu pat i entero na photo library-mu? Apagui todo håfa ti nesesita.
+4. **Atan i anunsio yan analytics.** I advertising yan i tracking tools siha siña manmanda datos put i kåmo humuyong i app para otro na kompania siha.
+5. **Faisen mangge manmåtao i retratu siha.** Yanggen un na'i familian na retratu, manmapo' gi aparatu ha' pat manma upload gi server? Siña hao ha na'suha?
+6. **Chek i pagana'suha.** Aligao gi pribasidad policy pat gi datos summary kåmo para un na'suha i datos yan i account. I app ni ha såguet na ti siña ma na'suha i datos debi u mas sensa, espesyalmente yanggen guaha retratu pat detalye put salud.
+7. **Ekungok i pribasidad policy** para klaru na sinangan put håfa ma kohi, håfa para, hasta håfa ora, yan håyi ma fanbaba.
 
-### Does HIPAA protect information in dementia apps?
+### Maaot buente i HIPAA i infotmasion gi demensia apps?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Gi minagahet-na, ti, håfa manmanhongge i manhuyong. I U.S. Department of Health and Human Services [ha eksplika](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) na i HIPAA ha aplikåyi para i plan para salud, i mas manhuyong na manayudu para salud, i health care clearinghouses yan i business associates siha. Gi mas kåson, ti ha prutehi i datos ni un halom gi app para personal na uså, maleffa na i covered entity pat i business associates-ña ha na'sangan i app. I "demensia app" ginin i app store gi manmanhuyong-na guaha ti debaxo HIPAA, maskese ha kumuentus put salud.
 
-### What protects health data in apps that HIPAA does not cover?
+### Håfa ha prutehi i datos put salud gi apps ni ti maaot HIPAA?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+I Federal Trade Commission's Health Breach Notification Rule ha prutehi i manhuyong na este siha. Gi 2024 i FTC [ha finalisa i nabian siha](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) para klaru na i rule ha aplikåyi para i health apps yan parehu na teknolohia ni ti maaot HIPAA. I "breach" ha konsiste i inaotutao na fanbaban, ti ha' hacking, yan i kompania siha debi u fanatngan i manafektao na taotao yan i FTC. Este ha' na seguridåt despues di kumålulu, ti garantia na i app ha' ha kohi håfa nesesita.
 
-## How should I read claims about research and evidence?
+## Kåmo para bai hu ekungok i alegasion put investigasion yan prueba?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Ekungok i alegasion put prueba ni malago'-ña, yan mas sensa i mas dångkulo na alegasion siha. Kuestyon siha para un faisen:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Håfa ha' na prubåba ma estaoha?** I estaoha gi uno na training program ti ha na'fanli'e' na todo i juegu gi app ha trabåhi i mismu kåda uno.
+- **Håyi manma estaoha?** I resultå siha gi manamko' ni manmalågu' siña ti aplikåyi para i taotao ni manmalango gi demensia.
+- **Håfa ma medidi?** I maolek gi mismu juegu difirenti ginin i nabian gi kada dia na bida, kumuentus, mod, pat independente.
+- **Kåmo na fuetsa i estaoha?** I randomized controlled trial (RCT) ha kompara i grupo ni ha usa i app yan i grupo ni tåya'. Maolek na disenyo, lao i dikiki' pat kortu na RCT ti prueba. Aligao manhuyong na estaoha siha, ginin i independent na maninvestiga, ni manakonsenti.
+- **Ha alegasion na u nabian i chetnot?** I estaoha ni ha na'fanli'e' dikiki' na maolek gi pruebå ti prueba na i app ha na'lukao, ha na'suha pat ha fanatmenti i demensia.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+I påhina gi National Institute on Aging put [cognitive health yan i manamko'](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ha eksplika i dångkulo na NIH-funded trial put structured cognitive training, yan pues ha advirti i lectores para manatan siha put i alegasion siha na i komputat yan online na juegu siña ha na'maolek i minetgot yan i hinasso. Ha såguet na tåya' pa'go nesisariu na prueba na i brain-training apps ni ma vende gi komersio guaha i mismu impaktu kumu i training ni ma prubåba gi ese na trial. Siña hao un ekungok mas gi [brain games yan i prueba](/brain-health/brain-games/) yan [håfa i investigasion ha såguet put i pagana'suha i demensia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Håfa na publiku na ehemplo put i ti maolek na alegasion?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Gi Eneru 2016, i FTC [ha anúnsia i settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) yan i manfa'tinas i Lumosity, i "brain training" program. I FTC ha alegasion na i kompania ha alegasion, sin maolek na prueba, na i juegu-ña siña ha na'delay i age-related cognitive decline yan ha prutehi kontra i mild cognitive impairment, demensia yan Alzheimer's disease. I kompania ha aksepta na u fanbende $2 million yan debi u guaha kompetenti yan maolek na siensia antes di ha na alegasion este siha gi futuro. I kaso este ha na'maolek na recordadun na i lengguahi gi marketing ti prueba.
 
-### Which words are red flags?
+### Håfa na palåbra man red flag?
 
-Be cautious when an app or ad says it:
+Sensa annai i app pat i anunsio ha såguet:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- "ha na'suha", "ha na'li'e'", "ha påra" pat "ha kure" i demensia pat Alzheimer's;
+- "klinika na prubåba" sin na'an i estaoha, håyi manestaoha, yan håfa ma medidi;
+- "edad gi hinasso" pat iskor put minetgot ni ha na'fanli'e' diagnos;
+- "ha na'lakåo", "ha na'lakpå'", pat "ha entrenao" i utåku;
+- ha usa i testimonios kumu prueba.
 
-If you are unsure about a claim, ask the person's doctor.
+Yanggen ti seguro hao put i alegasion, faisen i doktor-ña i taotao ni un ayuduña.
 
-## Where does Golden Moments fit?
+## Manggåhi mangge i Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+I Golden Moments ha offre simplu na aktibidat para manhumuyong, ti pruebå put minetgot, ti terapia pat medika na konsehu. I juegu-ta siha, taiguihi [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) yan [Calm Breathing](/games/calm-breathing/), ma fa'tinas para minagof yan kumuentus. Ti ha diknås, ha fanatmenti, ha na'suha pat ha medidi i demensia, yan tåya' alegasion put i minetgot pat i hinasso.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Ha' guaha libre na app, [Golden Moments para iPhone, iPad yan Android](/app/). Guaha malago'-ña na hananu' gi retratu ni dångkulo na tile, juegu yan familian na retratu ni un ayek hao, yan picture packs ni trabåhi offline, sin account, sin anunsio, sin relos pat iskor. I mismu checklist ha aplikåyi: i App Store privacy label-na ha såguet "Data Not Collected", yan i [app pribasidad policy](/app-privacy/) ha eksplika mangge manmapo' i kopia gi retratu siha.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Mas malago'-ta na un ekungok hit kinu un confia hit. Usa i checklist gi este na påhina, ekungok i [pribasidad påhina-ta](/privacy/) yan [medika na disclaimer](/medical-disclaimer/), yan påra un usa maseha håfa, inkluso hit, yanggen ti matutunog para i taotao ni un ayuduña.
 
-## What is a sensible way to try a new app?
+## Håfa na maolek na kåmo para un prueba i nuebu na app?
 
-Try it together for a couple of weeks and watch what happens.
+Prueba håfa yu' gi dos simåna yan atan håfa ma susede.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Na'set muna** gi [tablet yan telefon setup guide](/caregiving/tablets-and-screens/), yan tutuhon gi mas simplu na nivel.
+2. **Na'kortu i sesion siha**, atan i femmen, kumuentus yan kinneng, yan para gi maolek na momento.
+3. **Suha'i yanggen ha na'frustrasion**, maskese manhuyong na mås takhilo' i rating-na.

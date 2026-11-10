@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Maũndũ ma gĩcunjĩ kĩa mũthia kĩa ndwara ya kũriganĩrwo"
+seoTitle: "Maũndũ ma mũthia: arĩ ũrĩrĩ-inĩ kana gĩtĩ-inĩ"
+description: "Maũndũ mahũthũ ma gĩcunjĩ kĩa mũthia kĩa ndwara ya kũriganĩrwo, arĩ ũrĩrĩ-inĩ kana gĩtĩ-inĩ: nyĩmbo, kũhutania, gũthomera na igũrũ, na kwĩonania ũgitĩri."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Gĩcunjĩ-inĩ kĩa mũthia kĩa ndwara ya kũriganĩrwo, maũndũ maroragia mĩĩrĩ ya
+  gũigua na gũkorwo mũrĩ hamwe: kũigua nyĩmbo iria mendete, kũnyiitana moko,
+  kũmomoria moko kahora, gũthomera na igũrũ, kũrora mbica, mĩgambo ya mũciĩ na
+  gũikara mwena-inĩ wa ndirica kana nja. Maũndũ maya no mekĩke arĩ ũrĩrĩ-inĩ
+  kana gĩtĩ-inĩ. Ikara ihinda inini, rora ũthiũ, moko na mĩhũmĩ nĩguo ũmenye
+  kana arĩ na ũhurũko, na ũririkane atĩ gũkorwo ho no ũndũ mwega.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Ngwatanĩro no ĩthiĩ na mbere. Gĩcunjĩ-inĩ kĩa mũthia, mũndũ aiguaga maũndũ makĩria na mĩĩrĩ yake ya gũigua."
+  - "Nyĩmbo, kũhutania kahora, mĩgambo ĩrĩa mamenyereire na indo njoroku cia kũnyiita kaingĩ nĩihutagia mũndũ o na ciugo ciathira."
+  - "Maũndũ makĩria marĩa marĩ haha no mekĩke arĩ ũrĩrĩ-inĩ kana gĩtĩ-inĩ."
+  - "Rora mũndũ wone kana arĩ na ũhurũko kana thĩĩna ũthiũ-inĩ, moko-inĩ na mĩhũmĩ-inĩ, na ũtige wona rũũri rwa thĩĩna."
+  - "Thema kũhe indo nini mũno na ũhe irio kana kĩndũ gĩa kũnyua o ta ũrĩa aruti a wĩra wa ũgima maraataarĩria, tondũ kũmeria no gũtuĩke kwa ũgwati."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Nĩ maũndũ marĩkũ mũngĩĩka na mũndũ ũrĩa ũtũũraga na ndwara ya kũriganĩrwo ya gĩcunjĩ kĩa mũthia arĩ ũrĩrĩ-inĩ?"
+    a: "Hũũra nyĩmbo iria endete, nyiita guoko gwake, momoria guoko kahora na maguta, mũthomere na igũrũ ibuku kana ihoya rĩrĩa endete, muonie mbica, kana mũhũũrĩre mĩgambo mĩhũthũ ya mũciĩ. Hingũra mĩkingo nĩguo one nja. Ihinda inini, o na ũhurũko na ũndũ ũmwe o ihinda nĩcio kaingĩ ciagĩrĩire."
+  - q: "Andũ arĩa marĩ na ndwara ya kũriganĩrwo ya gĩcunjĩ kĩa mũthia no mathiĩ na mbere gũkenagĩra nyĩmbo?"
+    a: "Aingĩ no mathiĩ na mbere. Alzheimer's Association yugaga atĩ o na gĩcunjĩ-inĩ kĩa mũthia, mũndũ no ahote gũkũna rwĩmbo kana kũina hamwe na rwĩmbo rwa rĩrĩa aarĩ mwana. Thuura nyĩmbo iria endete rĩrĩa aarĩ mwĩthĩ na ũige mũgambo wacio mũhũthũ."
+  - q: "Ingĩmenya atĩ nĩ arakenagĩra ũndũ ũcio?"
+    a: "Rora mamenyithia manini: ciande ihurũkĩte, ũthiũ mũhũthũ, kũrora maitho-inĩ, kũinamĩra, kũhihinya guoko kana kũhũma kahora. Gũthuna ũthiũ, kwĩhũgũra, gũtithĩkania kana gũcaaya no kuonanie thĩĩna kana ruo. Wona ũguo, tiga na ũmenyithie aruti a wĩra wa ũgima angĩkorwo mathiĩ na mbere."
+  - q: "Nĩ harĩ bata gũceera o na angĩkorwo ndarĩ hĩndĩ andirikana?"
+    a: "Ĩĩ, nĩ harĩ bata. National Institute on Aging yugaga atĩ o gũkorwo ho no kũrehere mũndũ ũhurũko, na atĩ kũhutania, nyĩmbo na ngʼano no irehere ũhurũko o na ndwara ya kũriganĩrwo ĩkũrĩte mũno. Mũgambo waku na kũhutania gwaku no imenyeke o na rĩĩtwa rĩaku rĩtamenyekete."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Gĩcunjĩ-inĩ kĩa mũthia kĩa ndwara ya kũriganĩrwo, mũndũ no arie o manini, abataire ũteithio maũndũ-inĩ mothe ma mũthenya na aikare ihinda inene ũrĩrĩ-inĩ kana gĩtĩ-inĩ. No wĩgue ta hatarĩ ũndũ ũngĩ mũngĩĩka hamwe. No kũrĩ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) yugaga atĩ gĩcunjĩ kĩa mwĩrĩ wa mũndũ no gĩkorwo gĩtigarĩte, na atĩ gĩcunjĩ-inĩ gĩkĩ mũndũ aiguaga maũndũ makĩria na mĩĩrĩ yake ya gũigua. Nyĩmbo, kũhutania, mũgambo mũmenyereku na gũkorwo hamwe na ũhurũko no irehe ũhurũko na kahinda ka ngwatanĩro.
 
-## What activities help in late-stage dementia?
+## Nĩ maũndũ marĩkũ mateithagia gĩcunjĩ-inĩ kĩa mũthia kĩa ndwara ya kũriganĩrwo?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Maũndũ mahũthũ ma gũhutia mĩĩrĩ ya gũigua na gũkorwo hamwe na ũhurũko nĩmo mateithagia makĩria gĩcunjĩ-inĩ kĩa mũthia. Alzheimer's Association ĩtaaraga kũhũũra nyĩmbo iria mũndũ endete, gũthoma icunjĩ cia mabuku marĩa marĩ bata harĩ we, kũhaka maguta marĩ na mũtararĩko ũrĩa endete mwĩrĩ-inĩ, na gũikara nja hamwe mũthenya mwega. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ĩkuongerera kũheana ngʼano, kuonia mbica, kũhutania kahora kana kũmomoria, na nyĩmbo, mĩgambo mĩhũthũ kana mĩgambo ya mũciĩ, na ĩkoiga atĩ o gũkorwo ho kwaku no kũrehere ũhurũko.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yugaga atĩ andũ arĩa marĩ gĩcunjĩ-inĩ kĩa mũthia kaingĩ nĩmendaga mũno kũnyiita kĩndũ hakuhĩ nĩguo mahurũke, na ĩgataarĩria maũndũ mahũthũ ma mĩĩrĩ ya gũigua, kwĩgarũra kahora, kwenyenyia gĩtambaya kĩhũthũ, nyĩmbo, gũceerwo nĩ nyamũ, kũhutania na wĩra wa moko ũtarĩ na mũtabarĩre mũritũ.
 
-## Activities for someone in bed or a chair
+## Maũndũ ma mũndũ ũrĩa ũrĩ ũrĩrĩ-inĩ kana gĩtĩ-inĩ
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Hũũra nyĩmbo ciake.** Thuura nyĩmbo cia rĩrĩa aarĩ mwĩthĩ, cia wĩtĩkio wake kana cia mũciĩ wake. Iga mũgambo wacio ũrĩ mũhũthũ na ũikare hakuhĩ. O na rĩu, andũ amwe no makũne kĩara kana mainamĩre. Rora [maũndũ ma nyĩmbo](/activities/music/).
+2. **Nyiitana moko.** O kũnyiita guoko, na kũmomoria kahora na kĩara kĩnene, nĩ ũndũ wa bata. Mbere ya kũmũhutia, mwĩre ũrĩa ũreka.
+3. **Momoria guoko kahora.** Hihĩnia maguta manini moko-inĩ maku na ũmomorie kuuma kĩgokora nginya ciara-inĩ. Thuura maguta matarĩ mũtararĩko, kana marĩ na mũtararĩko ũrĩa endete hĩndĩ ciothe angĩkorwo ngʼonda yake nĩĩmetĩkagĩria.
+4. **Mũthomere na igũrũ.** Rwĩmbo rwendete, gĩcunjĩ kĩa ibuku rĩrĩa endete mũno, maandĩko ma wĩtĩkio kana karatathi ka mĩtũkĩre. Mũtũũrĩre wa mũgambo waku nĩ ũrĩ bata gũkĩra ciugo.
+5. **Mũhe ngʼano.** Aria ũhoro wa rũgendo rwa mũciĩ kana mũthenya ũrĩa maahikanirie. Ndũbataire macokio.
+6. **Muonie mbica.** Oya mbica ĩmwe nene o ihinda na ũmĩrũgamie harĩa maitho make mangĩona, na ũmĩtaarĩrie na ũrĩa ũmwendete. Thema kũmũũria nũũ ũrĩ thĩinĩ wayo.
+7. **Mũhe kĩndũ kĩoroku kĩa kũnyiita.** Gĩtambaya kĩa gwĩthamba kĩinainie, gĩcunjĩ kĩa nguo njũrũ kana nyamũ ya gũtoria njoroku. NIA ĩtaaraga kũhe mũndũ gĩtambaya kĩa gwĩthamba anyiite rĩrĩa arathamia, nĩguo ndakanyiite wee kana indo.
+8. **Hũũra mĩgambo ya mũciĩ.** Mbura, makũmbĩ ma iria kana nyoni irainaga na mũgambo mũhũthũ no ihũthie nyũmba ĩrĩ na inegene.
+9. **Rehe nja thĩinĩ.** Hingũra mĩkingo, iga kĩndũ gĩa kũhe nyoni irio nja ya ndirica, kana ũrehe mahũa manini kana mathangũ merũ ma kũrora na kũhutia.
+10. **Thiĩ nja.** Mũndũ angĩkorwo no aikare gĩtĩ-inĩ kĩa magũrũ, kahinda kanini kĩĩruru-inĩ mũthenya ũtarĩ ũrugarĩ no gatuĩke kwega.
+11. **Mũsanũre njuĩrĩ kana ũmũhe gĩtambaya kĩhiũ.** Kũmũmenyagĩrĩra kahora na gĩtambaya kĩhiũ moko-inĩ na ũthiũ-inĩ no kũmũiguithie eendwo.
+12. **Enyenya kahora hamwe na nyĩmbo.** Enyenyai gĩtambaya kĩhũthũ hamwe, kana mũenyenyie moko kũringana na rwĩmbo. Nĩ ũndũ wa kwĩgarũra na gũtwarithia ciungo, ũrie mũrutani wa kwĩgarũra kwa mwĩrĩ kana mũnesi akuonie njĩra njagĩrĩru mbere.
+13. **Thondekai mbica mũtarĩ na mũtabarĩre.** Haka rangi ũtarĩ ũgwati karatathi-inĩ nene na thibũnji kana na guoko, ũtongoretio nĩ guoko gwaku. Gũtirĩ macokio magĩrĩire.
+14. **Ĩtĩkĩria gũceerwo nĩ nyamũ.** Nyamũ ya mũciĩ ĩhooreire ũrĩrĩ-inĩ kana ciero-inĩ, angĩkorwo mũndũ nĩendete nyamũ na handũ hau nĩhetĩkĩrĩtie.
+15. **Hũmai kahora mũrĩ hamwe.** Ikara hakuhĩ na ũhũme kahora na mũgambo ũrĩa ũngĩiguĩka. [Kũhũma na ũhurũko](/games/calm-breathing/) no kũmũtongorie inyuothe, na nĩwe ũkwambĩrĩria na ũgatiga.
+16. **Korwo ho o ũguo.** Ikara hakuhĩ, inamĩra, tuma nguo kana ũthome na ũhurũko. Gũkorwo ho nĩ kũiganu.
 
-## How to share an activity at this stage
+## Ũrĩa mũngĩgayanaga ũndũ gĩcunjĩ-inĩ gĩkĩ
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Mũkuhĩrĩrie kuuma mbere.** Ĩta rĩĩtwa rĩake na rĩĩtwa rĩaku, na warie kahora na mũhũthũ mbere ya kũmũhutia.
+- **Heana ũndũ ũmwe o ihinda.** Horia thibitarĩ mbere ya kũhũũra nyĩmbo. Ĩka ũndũ ũmwe wa mũĩrĩ o ihinda.
+- **Ikara ihinda inini.** Ndakika nini no ciigane. Kahinda kanini maita maingĩ mũthenya nĩ kwega gũkĩra ihinda rĩmwe iraya.
+- **Tũma aikare wega mbere.** Rora atĩ mũndũ nĩanyiitĩrĩirwo wega. NIA ĩtaaraga kũiga kĩbao gĩa ciero nĩguo moko mahurũke na mwĩrĩ wa na igũrũ ũnyiitĩrĩrwo rĩrĩa aikarĩte.
+- **Rora ũrĩa aregwo.** Moko mahurũkĩte, ũthiũ mũhũthũ, kũrora maitho-inĩ kana kũinamĩra ionanagia ũhurũko. NIA yugaga atĩ gũcaaya, gũthuna ũthiũ, kũgitĩra gĩcunjĩ kĩa mwĩrĩ kana gũtithĩkania o rĩmwe no gũtuĩke rũũri rwa ruo. Tiga, na ũmenyithie aruti a wĩra wa ũgima.
 
-## A quick guide by sense
+## Mũtaratara mũkuhĩ kũringana na mũĩrĩ wa gũigua
 
-| Sense | Ideas | Take care |
+| Mũĩrĩ wa gũigua | Maũndũ | Menyerera |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Kũigua | Nyĩmbo iria endete, mũgambo waku ũgĩthoma, mĩgambo ya mũciĩ | Iga mũgambo wacio mũhũthũ; mũgambo ũmwe o ihinda |
+| Kũhutania | Kũmomoria moko, kũnyiitana moko, nguo njoroku, gĩtambaya kĩhiũ | Ũria kana ũmwĩre mbere; rora ngʼonda ĩtarĩ na ruo kana ĩtarĩ mĩtheece |
+| Kuona | Mbica, mahũa, kĩrĩa kĩonekaga ndirica-inĩ, video ya mũciĩ ĩgĩthiĩ kahora | Rũgamia indo harĩa maitho mangĩona; ũtheri mwega, ũtarĩ na ũkengi mũingĩ |
+| Kũnungĩra | Maguta marĩa endete, mahũa merũ, kahũa gegĩthugwo hakuhĩ | Thema mĩtararĩko mĩingĩ; rora harĩ na thĩĩna wa mĩĩrĩ kana wa kũhũma |
+| Kũcama | Kĩndũ kĩnini kĩa mũcamo ũrĩa endete | Irio na mĩthemba yacio o iria aruti a wĩra wa ũgima moigĩte nĩ njagĩrĩru |
 
-## Safety at this stage
+## Ũgitĩri gĩcunjĩ-inĩ gĩkĩ
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Kũmeria no gũtuĩke kwa hinya gĩcunjĩ-inĩ kĩa mũthia, na NIA ĩkaanagia atĩ ũndũ ũcio no ũongerere ũgwati wa kũhĩnga. Ndũgatige indo nini hakuhĩ, na ũhe irio kana kĩndũ gĩa kũnyua o na mĩthemba na njĩra iria aruti a wĩra wa ũgima maraataarĩria. Rora ngʼonda kahora rĩrĩa mũrahutania, tondũ ngʼonda no ĩtarũke kana ĩthũke narua. Nĩ ũndũ wa maũndũ mangĩ ma mĩĩrĩ ya gũigua marĩ na ũgitĩri, rora [maũndũ ma mĩĩrĩ ya gũigua](/activities/sensory/).
 
-## Looking after yourself too
+## Kwĩmenyerera o nawe
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Kũmenyerera mũndũ gĩcunjĩ-inĩ kĩa mũthia nĩ kũritũ mwĩrĩ-inĩ na ngoro-inĩ, arĩ mũciĩ kana rĩrĩa ũgĩceera handũ ha kũmenyererwo. Atongoria a wĩra wa hospice na palliative care no mateithie na ũhurũko, ũteithio na mĩbango, na NIA ĩmataraga ta kĩhumo kĩa ũteithio. Maceera makuhĩ, marĩ na ũhurũko nĩ marĩ bata; rora [gũceera mũndũ ũrĩa ũrĩ na ndwara ya kũriganĩrwo](/activities/visiting/). Ũngĩtongoria ikundi, [maũndũ ma ikundi kũu mũciĩ wa kũmenyererwo](/activities/care-home-groups/) marĩ na meciiria ma kũgarũra maũndũ. Na ndagũthaitha ũthome [kwĩmenyerera kwa mũmenyereri](/caregiving/caregiver-self-care/): kũhurũka nĩ gĩcunjĩ kĩa kũmenyerera wega.

@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "U sonnu è a salute di u cervellu: ricerca è aiuti"
+seoTitle: "Sonnu è dimenza: ciò chì suggerisce a ricerca"
+description: "Ciò chì suggerisce a ricerca nantu à u sonnu è u risicu di dimenza, perchè a ricerca nantu à a pulizia di u cervellu hè sempre à i primi passi, è abitudini pratiche per u sonnu."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Certi studii à longu andà associanu un sonnu cortu à meza età cù un risicu più altu di
+  dimenza, è a ricerca in laburatoriu suggerisce chì u sonnu pò aiutà u cervellu à eliminà i
+  rifiuti. Sti risultati sò sempre à i primi passi, è a Cummissione Lancet di u 2024 ùn hà micca
+  inclusu u sonnu trà i fattori di risicu chì si ponu cambià. Abitudini regulare di sonnu aiutanu à
+  sentevi megliu ogni ghjornu. I prublemi di sonnu in a dimenza sò cumuni è vale a pena di parlàne
+  cù un duttore.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Un studiu di u Regnu Unitu chì hà seguitu circa 8 000 persone per 25 anni hà assuciatu sei ore di sonnu o menu à meza età cù un risicu più altu di dimenza."
+  - "I cambiamenti di u sonnu ponu ancu esse un segnu iniziale di dimenza, dunque hè difficiule di distingue a causa da l’effettu."
+  - "A ricerca nantu à l’eliminazione di a beta-amiloide da u cervellu durante u sonnu hè vera, ma sempre à i primi passi, è assai di ella hè stata fatta nantu à i topi."
+  - "L’apnea di u sonnu hè cumuna, si pò trattà è hè assuciata cù a dimenza in certi studii; russà forte è a sunnulenza durante u ghjornu meritanu una verificazione."
+  - "Ùn cuminciate, ùn fermate è ùn cambiate mai un medicamentu o un aiutu per u sonnu senza parlà cù un duttore."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Un sonnu di mala qualità causa l’Alzheimer?"
+    a: "Questu ùn hè micca statu dimustratu. Certi studii associanu un sonnu cortu cù un risicu più altu di dimenza, ma a dimenza stessa disturba u sonnu, spessu anni nanzu à un diagnosticu. A Cummissione Lancet di u 2024 hà cunsideratu chì e prove eranu troppu pocu coerenti per include u sonnu trà i fattori di risicu chì si ponu cambià."
+  - q: "Quante ore di sonnu anu bisognu l’adulti più anziani?"
+    a: "U National Institute on Aging dice chì l’adulti più anziani anu bisognu di circa u listessu tempu chè l’altri adulti, da 7 à 9 ore à notte. Parechje persone più anziane vanu à lettu è si sveglianu più prestu chè nanzu, ciò chì hè cumunu."
+  - q: "Perchè una persona chì vive cù a dimenza dorme di ghjornu è si sveglia di notte?"
+    a: "A dimenza pò influenzà u ritimu internu di u corpu, è cusì l’ore di sonnu è di veghja si ponu mischjà. U dulore, a noia, a fame o l’effetti secundarii di i medicamenti ponu ancu avè un rolu. A luce di u ghjornu, l’attività cutidiana è una rutina calma di sera ponu aiutà. Un duttore pò circà cause chì si ponu trattà."
+  - q: "Devu dà un aiutu per u sonnu à a persona chì aiutu?"
+    a: "Parlatene prima cù u so duttore, ancu per i prudutti senza ricetta. U National Institute on Aging nota chì certi medicamenti per u sonnu ponu aumentà u risicu di vertigini, cascate è cunfusione in e persone chì vivenu cù l’Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+U sonnu è a salute di u cervellu sò chjaramente ligati, ma a manera esatta in a quale sò ligati hè sempre in studiu. Certi studii associanu un sonnu cortu cù un risicu più altu di dimenza. A dimenza, à u so tornu, disturba spessu u sonnu. Sta pagina spiega ciò chì a ricerca mostra è ciò chì ùn mostra micca, dà abitudini pratiche per u sonnu è parla di i prublemi di sonnu chì sò cumuni in a dimenza. Ùn dà micca cunsiglii nantu à i medicamenti per u sonnu; sta cunversazione si face cù un duttore.
 
-## Is poor sleep linked with dementia?
+## Un sonnu di mala qualità hè assuciatu cù a dimenza?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Certi studii à longu andà associanu un sonnu cortu cù un risicu più altu di dimenza, ma e prove ùn sò micca definitive.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Un studiu britannicu di 25 anni.** I circadori anu seguitu circa 8 000 adulti in u [studiu Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). E persone chì durmianu sei ore o menu à l’età di 50 o 60 anni avianu un risicu più altu di dimenza più tardi, paragunatu à quelle chì durmianu sette ore. E persone chì durmianu sei ore o menu à 50, 60 è 70 anni avianu circa 30% di risicu in più chè quelle chì durmianu regularmente sette ore. Era un studiu d’osservazione, dunque mostra un ligame, micca una causa.
+- **U puntu di vista di a Cummissione Lancet.** A [Cummissione Lancet di u 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ùn hà micca aghjuntu u sonnu à a so lista di 14 fattori di risicu chì si ponu cambià. Hà cunsideratu chì e prove ùn eranu micca abbastanza coerenti. Una ragione hè a «causalità inversa»: i cambiamenti in u cervellu ligati à a dimenza cumincianu anni nanzu à u diagnosticu è ponu disturbà u sonnu. In un grande studiu, un ligame trà un sonnu longu è a dimenza hè sparitu quandu i primi cinque anni di seguitu sò stati messi da cantu.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Cusì, una notte corta di tantu in tantu ùn hè micca una ragione per inchietassi. Vale a pena di circà un sonnu regulare è di bona qualità, perchè aiuta l’umore, a vigilanza è a sicurità oghje.
 
-## What is the "brain-clearing" sleep research?
+## Chì hè a ricerca nantu à a «pulizia di u cervellu» durante u sonnu?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Pudete avè lettu chì u sonnu «pulisce» u cervellu. St’idea vene da una ricerca vera, ma hè sempre à i primi passi.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **In i topi.** Un studiu di u 2013, [discrittu da i NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), hà trovu chì u spaziu trà e cellule di u cervellu cresce di circa 60% quandu i topi dormenu. U fluidu circulava più facilmente in u cervellu, attraversu ciò chì i circadori chjamanu u sistema glinfaticu. A beta-amiloide, una proteina assuciata cù l’Alzheimer, era eliminata più prestu da u cervellu di i topi chì durmianu.
+- **In e persone.** Un picculu [studiu di u 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) hà fattu scansioni à 20 adulti sani da 22 à 72 anni dopu una notte nurmale è dopu una notte senza sonnu. Dopu a notte senza sonnu, un signale di scansione ligatu à a beta-amiloide hè cresciutu di circa 5% in una zona chì include l’ippocampu, una regione impurtante per a memoria. L’autori anu parlatu di risultati preliminari. Ùn sapianu micca se stu cambiamentu sparisce dopu u riposu, nè s’ellu vene da un’eliminazione più lenta o da una pruduzzione più grande di amiloide.
+- **Funziona in i dui sensi.** A Cummissione Lancet nota chì l’accumulazione di amiloide pò ella stessa disturbà u sonnu in l’adulti più anziani.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Sti risultati aiutanu à capisce perchè i circadori s’interessanu à u sonnu. Ùn mostranu micca chì un sonnu megliu impedisce l’Alzheimer.
 
-## What sleep habits may help?
+## Chì abitudini di sonnu ponu aiutà?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+L’adulti più anziani anu bisognu di circa 7 à 9 ore di sonnu à notte, u listessu chè l’altri adulti, secondu u [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). E so suggestioni includenu:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Mantinite un orariu regulare.** Andate à lettu è alzatevi à a listessa ora ogni ghjornu, ancu a fine di settimana.
+- **Create una rutina per calmavvi.** Prima di andà à lettu, pudete leghje, ascultà musica dolce o piglià un bagnu caldu.
+- **Fate chì a stanza sia cunfortèvule,** nè troppu calda nè troppu fresca.
+- **Limitate a caffeina tardi in a ghjurnata.** U caffè, u tè, e bibite è u ciocculatu ponu impedisce di dorme.
+- **Evitate l’alcol,** ancu in piccule quantità, cunsiglia u NIA.
+- **Evitate pasti grossi in e duie o trè ore nanzu di andà à lettu,** è bibite in grande quantità tardi in a ghjurnata.
+- **Fate attività fisica regularmente, ma micca in e 3 ore nanzu di andà à lettu.** Videte a nostra [guida nantu à l’attività fisica](/brain-health/exercise/).
+- **Lasciate i schermi fora di a stanza.** U NIA suggerisce di ùn guardà micca a televisione è di ùn aduprà micca urdinatore, telefuninu o tavuletta quallà.
+- **Evitate e sunnette tardi u dopu meziornu o a sera,** s’ellu hè pussibule.
 
-## Sleep problems in dementia
+## I prublemi di sonnu in a dimenza
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+I cambiamenti di u sonnu sò cumuni in a dimenza. U [NIA indica](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) chì certe persone dormenu troppu o troppu pocu, si sveglianu spessu a notte, o facenu parechje sunnette durante u ghjornu. Parla ancu di u sundowning: inquietudine, agitazione o cunfusione chì cumincianu o si aggravanu quandu a luce di u ghjornu cala.
 
-Caregiver tips from the NIA include:
+I cunsiglii di u NIA per e persone chì aiutanu un parente includenu:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Cercate luce di ghjornu è muvimentu prestu.** Esciate fora o pusatevi vicinu à una finestra durante u ghjornu, è aiutate a persona à esse attiva ogni ghjornu. A luce forte pò aiutà à rimette in ordine u ritimu internu di u corpu.
+2. **Pianificate l’attività più energiche per a mane.** Pruvate à fà u bagnu a mane o à piglià u pastu più grande à meziornu.
+3. **Mantinite e sunnette corte è prestu.** Limitate i mumenti di sunnulenza tardi in a ghjurnata.
+4. **Rendite a sera calma.** Calate e luci, riducite u rumore è mettite musica dolce se a persona l’apprezza. A nostra guida nantu à [l’inquietudine di fine di ghjurnata](/caregiving/late-day-restlessness/) hà altre idee.
+5. **Mantinite una rutina di sera regulare.** Leghje à voce alta à a listessa ora ogni sera hè un esempiu datu da u NIA. Una [rutina cutidiana regulare](/activities/daily-routine/) aiuta ancu.
+6. **Limitate a caffeina è l’alcol.**
+7. **Aduprate luci di notte** in a stanza, in u curridore è in a stanza di bagnu.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Per i risvegli notturni, i [cunsiglii di sicurità in casa](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) di u NIA includenu luci di notte o sensori di luce autumatichi, barre d’appoghju in a stanza di bagnu, nastro culuritu vistosu nantu à i bordi di i scalini, è medicamenti cunservati in un locu chjosu à chjave.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Una attività corta è tranquilla a sera pò aiutà tramindui à calmavvi. Pruvate una pausa lenta di [Respirazione calma](/games/calm-breathing/) o qualchì [Carta di cunversazione](/games/conversation-cards/) rilassata. Evitate ciò chì hè stimolante vicinu à l’ora di dorme, è fermatevi ogni volta chì a persona ne hà abbastanza.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Un sonnu interrottu stanca ancu e persone chì aiutanu un parente. A nostra [guida per pigliassi cura di sè](/caregiving/caregiver-self-care/) parla di modi per ripusassi è truvà aiutu.
 
-## What about sleep apnea?
+## È l’apnea di u sonnu?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+L’apnea di u sonnu provoca brevi pause in a respirazione durante u sonnu, spessu parechje volte à notte. U NIA dice chì, s’ella ùn hè micca trattata, pò purtà à prublemi cum’è a pressione alta, l’ictus o a perdita di memoria. I segni includenu russà forte è sente si sunnulente durante u ghjornu, è parechje persone ùn sanu micca d’avella. A Cummissione Lancet descrive una rivista di 11 studii induve e persone cù apnea di u sonnu avianu circa 43% di risicu in più di dimenza. Pocu di sti studii anu però tenutu contu di u pesu, dunque u ligame resta incertu.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+L’apnea di u sonnu si pò diagnosticà è trattà. U NIA nota chì una macchina CPAP aiuta guasi sempre. Se voi o a persona chì aiutate russate forte, fermate di respirà durante u sonnu, o site assai sunnulenti durante u ghjornu, parlatene cù un duttore.
 
-## A note about sleep medicines
+## Una nota nantu à i medicamenti per u sonnu
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ùn demu micca cunsiglii nantu à i medicamenti o i supplementi per u sonnu. U NIA nota chì i medicamenti per u sonnu ponu aiutà per un pocu di tempu, ma ùn sò micca una cura per l’insonnia. Nota ancu chì certi medicamenti dati per aiutà e persone chì vivenu cù l’Alzheimer à dorme ponu aumentà u risicu di vertigini, cascate è cunfusione. Ùn cuminciate, ùn fermate è ùn cambiate mai un medicamentu per u sonnu, ancu senza ricetta, senza parlà cù un duttore o un farmacistu.
 
-## Talk with a doctor
+## Parlate cù un duttore
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Vidite un duttore se voi o a persona chì aiutate site sempre stanchi, avete difficultà à dorme a maiò parte di e notti, russate forte, o avete pause in a respirazione durante a notte. Se i prublemi di sonnu in a dimenza cuntinueghjanu, u [NIA cunsiglia](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) di dumandà un cunsigliu medicale. Una verificazione pò truvà cause cum’è u dulore, un altru disturbu di u sonnu, una malatia o un effettu secundariu di un medicamentu. Una cunfusione subitana, o un cambiamentu subitanu di u sonnu accumpagnatu da cunfusione, hà bisognu di una cura urgente. Lighjite [quandu vede un duttore](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Sta pagina hè una infurmazione generale, micca un cunsigliu medicale. Videte a nostra [nota medicale](/medical-disclaimer/).

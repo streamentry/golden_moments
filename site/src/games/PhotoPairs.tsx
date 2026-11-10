@@ -26,6 +26,7 @@ function pickNote(ui: PlayUi, lang: string, skipped: number, extra: number): str
 export default function PhotoPairs(props: PlayProps) {
   const { ui, lang } = props;
   const [urls, setUrls] = useState<string[]>([]);
+  const [captions, setCaptions] = useState<string[]>([]);
   const [round, setRound] = useState(0);
   const [message, setMessage] = useState('');
   const [note, setNote] = useState('');
@@ -51,6 +52,7 @@ export default function PhotoPairs(props: PlayProps) {
     }
     setNote(pickNote(ui, lang, skipped, images.length - picked.length));
     setUrls(picked.map((f) => URL.createObjectURL(f)));
+    setCaptions(picked.map(() => ''));
     setMessage('');
     setDone(false);
     setRound((r) => r + 1);
@@ -59,6 +61,7 @@ export default function PhotoPairs(props: PlayProps) {
   const clear = () => {
     sounds.tap();
     setUrls([]);
+    setCaptions([]);
     setMessage(ui.photoPairs.cleared);
     setNote('');
     setDone(false);
@@ -90,12 +93,43 @@ export default function PhotoPairs(props: PlayProps) {
           <p className="m-0">
             {boldRuns(ui.photoPairs.intro).map((run, i) => (run.bold ? <strong key={i}>{run.text}</strong> : run.text))}
           </p>
+          <p className="m-0">{ui.photoPairs.photoComfort}</p>
           <label className="btn btn--primary">
             <Icon name="photo" />
             {hasPhotos ? ui.photoPairs.chooseDifferent : ui.photoPairs.choose}
             <input ref={input} type="file" accept="image/*" multiple onChange={(e) => choose(e.currentTarget.files)} />
           </label>
           {note ? <p role="status" className="m-0">{note}</p> : null}
+          {hasPhotos ? (
+            <details className="photo-pick__caption-details">
+              <summary>{ui.photoPairs.captionSummary}</summary>
+              <p className="photo-pick__caption-help">{ui.photoPairs.captionHelp}</p>
+              <div className="photo-pick__caption-list">
+                {urls.map((url, index) => {
+                  const id = `photo-caption-${round}-${index + 1}`;
+                  return (
+                    <div className="photo-pick__caption-row" key={id}>
+                      <img className="photo-pick__caption-thumb" src={url} alt="" />
+                      <label className="photo-pick__caption-field" htmlFor={id}>
+                        <span>{fill(ui.photoPairs.captionLabel, { n: index + 1 })}</span>
+                        <input
+                          id={id}
+                          className="photo-pick__caption-input"
+                          type="text"
+                          maxLength={80}
+                          value={captions[index] ?? ''}
+                          onChange={(event) => {
+                            const value = event.currentTarget.value;
+                            setCaptions((current) => current.map((caption, i) => (i === index ? value : caption)));
+                          }}
+                        />
+                      </label>
+                    </div>
+                  );
+                })}
+              </div>
+            </details>
+          ) : null}
           {hasPhotos ? (
             <button type="button" className="btn btn--quiet" onClick={clear}>
               {ui.photoPairs.clear}
@@ -123,7 +157,16 @@ export default function PhotoPairs(props: PlayProps) {
       }
     >
       {hasPhotos ? (
-        <PairsBoard play={props} values={urls} photos hidden={false} round={round} onMessage={setMessage} onComplete={() => setDone(true)} />
+        <PairsBoard
+          play={props}
+          values={urls}
+          photoLabels={captions}
+          photos
+          hidden={false}
+          round={round}
+          onMessage={setMessage}
+          onComplete={() => setDone(true)}
+        />
       ) : (
         <p className="muted">{ui.photoPairs.empty}</p>
       )}

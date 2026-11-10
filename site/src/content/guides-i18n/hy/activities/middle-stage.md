@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Զբաղմունքներ դեմենցիայի միջին փուլում"
+seoTitle: "Դեմենցիայի միջին փուլ. պարզ զբաղմունքներ"
+description: "Դեմենցիայի միջին փուլում պարզ զբաղմունքներ՝ օգտակար գործեր, երաժշտություն, լուսանկարներ և հեշտ խաղեր, քայլ առ քայլ պատրաստում և անհանգստությունը գործի վերածելու եղանակներ։"
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Դեմենցիայի միջին փուլում ամենահարմար զբաղմունքները կարճ են, ծանոթ և մեկ
+  քայլի բաժանված. լվացք ծալել, գուլպաներ զուգավորել, աման լվանալ, երգել,
+  ուղեկցությամբ զբոսնել, լուսանկարների ալբոմներ դիտել և պարզ նկարներով
+  խաղեր։ Պատրաստեք ամեն ինչ, ցույց տվեք առաջին քայլը, դժվար մասերը վերցրեք
+  ձեր վրա և զբաղմունքին նպատակ տվեք։ Դադարեցրեք, երբ այն այլևս հաճելի չէ։
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Տնային ծանոթ գործերը հաճախ ամենալավն են աշխատում, որովհետև օգտակար և մեծահասակին վայել են թվում։"
+  - "Ցույց տվեք՝ ոչ թե բացատրեք, առաջարկեք միաժամանակ մեկ քայլ և բաց հարցերի փոխարեն տվեք երկու պարզ ընտրություն։"
+  - "Ամենադժվար մասը վերցրեք ձեր վրա, որպեսզի ձեր հարազատը կարողանա անել հաճելի մասը։"
+  - "Անհանգիստ վարքը հաճախ նշանակում է, որ մարդուն ինչ-որ բան անելու կարիք ունի։ «Ոչ» ասելու փոխարեն առաջարկեք համապատասխան զբաղմունք։"
+  - "Նայելը, մի փոքր օգնելը կամ շուտ ավարտելը՝ բոլորն էլ նորմալ են։"
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Ի՞նչ զբաղմունքներ են հարմար դեմենցիայի միջին փուլում։"
+    a: "Սովորաբար ամենալավն են աշխատում կարճ, ծանոթ, գործնական զբաղմունքները. սրբիչներ ծալել, գուլպաներ զուգավորել, աման լվանալ, սեղան գցել, հին սիրելի երգերի հետ երգել, ուղեկցությամբ զբոսնել, լուսանկարների ալբոմներ դիտել և պարզ նկարներով խաղեր։ Յուրաքանչյուրը բաժանեք մեկ քայլերի և արեք միասին։"
+  - q: "Ինչպե՞ս օգնել դեմենցիա ունեցող մարդուն սկսել զբաղմունքը։"
+    a: "Ամեն ինչ պատրաստ պահեք, հետո ինքներդ սկսեք զբաղմունքը և հրավիրեք օգնելու. «Կօգնե՞ս ինձ այս սրբիչների հարցում»։ Շատ մարդիկ ուզում են մասնակցել, բայց նրանց համար դժվար է սկսել։ Առաջին քայլը ցույց տալը սովորաբար ավելի լավ է աշխատում, քան բացատրելը։"
+  - q: "Ի՞նչ անել, եթե նա անընդհատ նույն բանը կրկնում է։"
+    a: "Կրկնելը հաճախ անվնաս է և կարող է նշանակել, որ մարդը ուզում է զբաղված զգալ կամ հանգստացման կարիք ունի։ Ուղղելու փոխարեն առաջարկեք շարժմանը համապատասխան զբաղմունք, օրինակ՝ ծալելու համար լվացքի զամբյուղ կամ միասին երգելու երգ։"
+  - q: "Ի՞նչ անել, եթե նա զբաղմունքը սխալ է անում։"
+    a: "Եթե դա անվնաս է, թողեք այնպես լինի։ Այլ կերպ ծալված սրբիչները կամ սխալ տեղ դրված գդալները կարևոր չեն։ Ուղղելը կարող է քննադատության նման ընկալվել, իսկ իր ձևով անել թողնելը օգնում է նրան կարող և օգտակար զգալ։"
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Դեմենցիայի միջին փուլը հաճախ ամենաերկարն է, և հենց այս փուլում զբաղմունքները սկսում են իրական աջակցություն պահանջել։ Խոսքերը ավելի դժվար են գտնում, քայլերը խառնվում են, և ինչ-որ բան սկսելը կարող է դժվար լինել։ Բայց օգտակար և ներգրավված լինելու ցանկությունը սովորաբար մնում է։ Մի փոքր նախապատրաստմամբ դեմենցիայի միջին փուլում ապրող մարդը դեռ կարող է բավական շատ բաներից հաճույք ստանալ, հատկապես ծանոթ գործերից, երաժշտությունից և նկարներից, որոնք անում եք միասին՝ կողք կողքի։
 
-## What activities work well in middle-stage dementia?
+## Ի՞նչ զբաղմունքներ են լավ աշխատում դեմենցիայի միջին փուլում։
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Ամենալավն են աշխատում կարճ, ծանոթ, գործնական զբաղմունքները, որոնք բաժանված են մեկ քայլերի։ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage)-ը նշում է, որ նոր բաներ հորինելու կարիք չկա. զբաղմունքները կարող են լինել առօրյա կյանքի մի մասը, օրինակ՝ միասին ճաշ պատրաստել, այգում աշխատել, երաժշտություն լսել կամ զբոսնել։
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)-ն նշում է, որ այս փուլում մարդիկ հաճախ ունեն նպատակ ունենալու կամ ինչ-որ մեկի մասին հոգ տանելու ուժեղ կարիք, և նրանց օգնություն է պետք զբաղմունքը սկսելու կամ շարունակելու համար։ Միջին փուլի համար դրա ցանկում կան լվացք ծալելը, աման լվանալը, գուլպաներ զուգավորելը, թեթև վարժություններ, ծանոթ երաժշտության ներքո պարել, ուղեկցությամբ զբոսնել, միասին երգել, պարզ նկարել և լուսանկարների ալբոմներ դիտել։
 
-## How do you set up an activity so it works?
+## Ինչպե՞ս պատրաստել զբաղմունքը, որպեսզի այն ստացվի։
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Զբաղմունքների մեծ մասը հաջողվում կամ չի հաջողվում հենց նախապատրաստման փուլում։ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)-ից և [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)-ից վերցված այս սովորությունները ամենաշատն են օգնում.
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Մաքրել տարածքը։** Անջատեք հեռուստացույցը, փակեք դուռը և հանեք միայն այն, ինչ պետք է զբաղմունքի համար։
+2. **Սկսեք ինքներդ։** Սկսեք ծալել կամ խառնել և հրավիրեք մասնակցելու. «Կօգնե՞ս ինձ այս հարցում»։
+3. **Ցույց տվեք, հետո սպասեք։** Ցույց տվեք մեկ քայլ։ Մատով ցույց տվեք կամ ձեռքով ուղղորդեք, օրինակ՝ որտեղ դնել ափսեն։
+4. **Տվեք միաժամանակ մեկ քայլ։** «Ծալիր կիսով չափ»-ը ավելի հեշտ է, քան «սրանք ծալիր և գույնով դասավորիր»։
+5. **Առաջարկեք երկու ընտրություն, ոչ թե բաց հարցեր։** «Կապույտ սրբիչնե՞րը, թե՞ սպիտակները» հարցին ավելի հեշտ է պատասխանել, քան «Ի՞նչ ես ուզում անել»։
+6. **Դժվար մասը արեք ինքներդ։** Դուք չափում եք, նա խառնում է։ Դուք թել եք անցկացնում, նա փաթաթում է մանվածքը։
+7. **Տվեք նպատակ։** «Այս անձեռոցիկները կիրակնօրյա ճաշի համար են» խոսքը գործը ավելի իրական է դարձնում։
+8. **Թույլ տվեք պարզապես նայել, եթե նա այդպես է ուզում։** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)-ը նշում է, որ պարզապես դիտելը նույնպես կարող է հաճելի լինել։
 
-## Activity ideas for the middle stage
+## Զբաղմունքների գաղափարներ միջին փուլի համար
 
-### Useful jobs
+### Օգտակար գործեր
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Սրբիչներ և լվացքի փոքր կտորներ ծալել։** Փոքր, հարթ իրերը ամենահեշտն են։ Տաք լվացքի կտորների զամբյուղը կարելի է ծալել, հարթեցնել և նորից ծալել։
+- **Գուլպաներ զուգավորել։** Սկսեք մի քանի շատ տարբեր զույգերից։ Միայն գույնով դասավորելը նույնպես նորմալ է։
+- **Չկոտրվող աման լվանալ կամ չորացնել։** Տաք, օճառաջուր ջուրը ձեռքին հաճելի է։ Նստած չորացնելը ոտքերի համար ավելի հեշտ է։
+- **Սեղան գցել։** Միաժամանակ տվեք մի տեսակի իր, իսկ մեկ տեղ ինքներդ գցեք որպես օրինակ։
+- **Օգնել ճաշ պատրաստելիս։** Կարտոֆիլ լվանալ, հազար տերևել կամ ամանի մեջ խառնել։ Դանակներն ու տաքությունը թողեք ձեր վրա։
+- **Ավել անել, փոշի մաքրել կամ սրբել։** Սեղանի համար կտոր, պատշգամբի համար թեթև ավել։
 
-See [household tasks](/activities/household-tasks/) for many more.
+Ավելի շատ գաղափարներ գտեք [տնային գործեր](/activities/household-tasks/) բաժնում։
 
-### Music and movement
+### Երաժշտություն և շարժում
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Երգել հին սիրելի երգեր։** Սկսեք երգել ինքներդ. շատ մարդիկ միանում են այն երգերին, որոնք տասնամյակներ են ճանաչում։ Տեսեք [երաժշտական զբաղմունքներ](/activities/music/)։
+- **Ազատ շարժվել կամ պարել։** Ճոճվել, ծափ տալ կամ շարժվել այնպես, ինչպես հաճելի է։ Նստած նույնպես կարելի է։
+- **Փուչիկ նետել։** Այն դանդաղ է շարժվում և աթոռից նստած հեշտ է բռնել։
+- **Ուղեկցությամբ զբոսնել։** Միասին քայլեք կարճ, ծանոթ ճանապարհով, եթե օգնում է՝ ձեռք ձեռքի։
 
-### Pictures and stories
+### Նկարներ և պատմություններ
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Դիտել լուսանկարների ալբոմ։** Հարցեր տալու փոխարեն խոսեք այն մասին, ինչ տեսնում եք. «Տես ինչ մեքենա է։ Պատմիր դրա մասին»։ Տեսեք [հիշողություններով զբաղմունքներ](/activities/reminiscence/)։
+- **Օգտագործել զրույցի քարտեր։** [Զրույցի քարտերը](/games/conversation-cards/) զույգում են նկարը բաց, առանց հարցումների հուշման հետ։
+- **Միասին դիտել հին ֆիլմ։** Ընտրեք ծանոթ ֆիլմ, մոտակայքում մնացեք և ընդմիջումների համար դադարեցրեք։
 
-### Simple, pressure-free games
+### Պարզ, առանց ճնշման խաղեր
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Նկարների զույգեր՝ բաց նկարներով։** [Նկարների զույգեր](/games/picture-pairs/) խաղում նկարները կարող են բաց մնալ, այնպես որ խաղը նկատելու մասին է, ոչ թե հիշելու։
+- **Գտիր նույնը։** [Գտիր նույնը](/games/find-the-same/) ցույց է տալիս մեկ նկար և ընդամենը երկուից չորս ընտրություն։
+- **Դասավորենք միասին։** [Դասավորենք միասին](/games/sort-together/) նման է էկրանին լվացքը դասավորելուն. սեղմեք նկարի վրա, հետո՝ դրա զամբյուղի։
+- **Նկարներով լոտո։** [Նկարներով լոտո](/games/picture-bingo/) խաղը լավ է աշխատում ընտանեկան հանդիպումների և խմբերի համար։
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Եթե խաղը սկսում է հիասթափություն առաջացնել, դադարեցրեք և անցեք ուրիշ բանի։ Տեսեք [ինչպես խաղալ միասին](/caregiving/how-to-play-together/)։
 
-## Turning restlessness into an activity
+## Անհանգստությունը զբաղմունքի վերածել
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Անհանգիստ կամ կրկնվող վարքը հաճախ պատճառ ունի։ Family Caregiver Alliance-ը նշում է, որ պահարանը անընդհատ դատարկող մարդը կարող է փորձել բավարարել զբաղված և օգտակար զգալու իր կարիքը։ Alzheimer's Association-ը առաջարկում է նման եռանդը ուղղել համապատասխան զբաղմունքի, ոչ թե պարզապես կանգնեցնել։
 
-| What you see | Something to offer |
+| Ինչ եք տեսնում | Ինչ կարող եք առաջարկել |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Սեղանը շփել կամ քերել | Խոնավ կտոր և խնդրանք՝ սեղանը սրբել |
+| Անհանգիստ ոտքեր կամ թխկթխկոց | Հստակ ռիթմով երաժշտություն՝ դրա հետ թխկթխկացնելու կամ ծափ տալու համար |
+| Դարակներ կամ պահարաններ դատարկել | Հագուստի կամ լվացքի կտորների զամբյուղ՝ ծալելու և դասավորելու համար |
+| Նույն հարցը կրկնել | Հանգստացնել, հետո միասին երգել կամ մի գործ անել |
+| Անցուդարձ անել | Միասին զբոսնել կամ մի գործ, որի ժամանակ ինչ-որ բան տանել պետք է |
+| Օրվա երկրորդ կեսի անհանգստություն | Հանգիստ, ծանոթ գործ լավ լույսի տակ. տեսեք [օրվա երկրորդ կեսի անհանգստություն](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Երբ դադարեցնել կամ ուղղությունը փոխել
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Դադարեցրեք, երբ նկատում եք հոգնածության, հիասթափության, ամաչելու կամ ձանձրույթի նշաններ, օրինակ՝ աննստանթստել, ճակատը կիտել, իրերը հեռացնել կամ ասել «Ես չեմ կարող»։ Alzheimer's Association-ը առաջարկում է փորձել օրվա այլ ժամին կամ զբաղմունքը ավելի պարզ դարձնել։ Մի պարտադրեք։ Մերժումը կարող է venir վախից կամ նրանից, որ գործը շատ դժվար է. տեսեք [երբ ասում է «ոչ»](/caregiving/when-they-say-no/)։
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Շուտ ավարտելը նորմալ է։ Նույնպես նորմալ է պարզապես միասին նստել և թեյ խմել։ Երբ կարողությունները ավելի են փոխվում, [ուշ փուլի զբաղմունքները](/activities/late-stage/) կարող են ավելի հարմար լինել, իսկ [101 զբաղմունք](/activities/ideas/) բաժնում շատ այլ գաղափարներ կան փորձելու համար։

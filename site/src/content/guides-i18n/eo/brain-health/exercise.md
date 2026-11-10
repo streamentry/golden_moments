@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Ekzerco kaj cerba sano: kion montras esploroj"
+seoTitle: "Ekzerco kaj demenco: kion diras esploroj"
+description: "Kion esploroj ligas inter fizika agado kaj demenca risko, kaj sekuraj, agrablaj manieroj moviĝi por pli aĝaj plenkreskuloj kaj homoj kun demenco."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Esploroj ligas regulan fizikan agadon kun pli malalta demenca risko, kaj la Lancet-Komisiono
+  de 2024 listas fizikan neaktivecon kiel unu el 14 ŝanĝeblaj riskofaktoroj. Esploraj testoj ne
+  pruvis, ke ekzerco malhelpas demencon. Moviĝo tamen helpas forton, ekvilibron, humoron kaj dormon,
+  do promenoj, seĝaj ekzercoj kaj dancado valoras fariĝi pro si mem. Konsultu kuraciston antaŭ ol
+  komenci ion novan.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Homoj, kiuj fizike aktivas, havas averaĝe pli malaltan demencan riskon, sed tio venas plejparte el observaj esploroj, ne el kontrolitaj testoj."
+  - "Kvinjara ekzerco-testo ĉe pli aĝaj plenkreskuloj ne trovis klaran diferencon pri pensaj kapabloj inter grupoj."
+  - "La gvidlinioj de CDC por plenkreskuloj 65-jaraj kaj pli aĝaj inkluzivas aerobajn, muskolfortigajn kaj ekvilibrajn agadojn, kaj diras, ke iom da agado estas pli bona ol neniu."
+  - "Por homoj vivantaj kun demenco, mallonga, konata kaj komuna moviĝo, kiel ĉiutaga promeno aŭ sidaj ludoj, gravas pli ol ajna celo."
+  - "Pli ol unu el kvar pli aĝaj plenkreskuloj falas ĉiun jaron, do ekvilibra laboro kaj sekura spaco estas plej gravaj."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Ĉu ekzerco povas malhelpi demencon?"
+    a: "Neniu povas promesi tion. Multaj esploroj ligas aktivecon kun pli malalta demenca risko, sed klinikaj testoj ne montris, ke ekzerco malhelpas ĝin. Ekzerco havas multajn aliajn pruvitajn utilojn, do ĝi ankoraŭ valoras fariĝi."
+  - q: "Ĉu estas sekure por homo vivanta kun demenco ekzerci?"
+    a: "Kutime, kun iom da planado. La Nacia Instituto pri Maljuniĝo sugestas konsulti la kuraciston de la persono antaŭ ol komenci novan rutinon, elekti komfortajn ŝuojn, proponi akvon kaj teni la tempojn mallongaj. Haltu, se la persono ŝajnas laca, malfirma aŭ malfeliĉa."
+  - q: "Kiuj ekzercoj povas esti farataj sidante?"
+    a: "Sidaj elektoj inkluzivas seĝajn streĉojn aŭ seĝan jogon, ĵetadon de balono aŭ mola pilko, ĵetadon de fabosaketoj, levadon de sup-skatoloj, streĉrubandojn kaj pedalajn ekzercilojn. Ĉi tiuj estas bonaj elektoj, kiam promenado estas malfacila."
+  - q: "Kio, se la persono ne volas moviĝi?"
+    a: "Ne premu. Provu denove poste, partoprenu mem, aldonu konatan muzikon aŭ ŝanĝu moviĝon al tasko kiel balaado aŭ akvumado de plantoj. Mallonga promeno al la leterkesto jam sufiĉas, kaj ankaŭ simpla kuna sidado ekstere."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Aktivi estas unu el la plej studataj kutimoj en esplorado pri cerba sano. Esploroj ligas ĝin kun pli malalta demenca risko, sed ili ne pruvis, ke ekzerco malhelpas demencon. Kio estas klara, estas ke moviĝo helpas forton, ekvilibron, humoron kaj dormon en ajna aĝo. Ĉi tiu paĝo klarigas, kion diras la esploroj, kiom da agado estas rekomendata por pli aĝaj plenkreskuloj, kaj mildajn manierojn moviĝi kun homo vivanta kun demenco.
 
-## Does exercise lower the risk of dementia?
+## Ĉu ekzerco malaltigas la demencan riskon?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Esploroj sugestas, ke homoj, kiuj fizike aktivas, malpli ofte ekhavas demencon, sed la pruvoj havas limojn. La [Lancet-Komisiono pri demenco de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) listas fizikan neaktivecon kiel unu el 14 ŝanĝeblaj riskofaktoroj. Kune, ĉi tiuj 14 faktoroj klarigas ĉirkaŭ 45 % de demenco tutmonde en ĝia modelo.
 
-Here is what the evidence looks like:
+Jen kiel aspektas la pruvoj:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Observaj esploroj montras en unu direkto.** Revizio de 58 esploroj, priparolita de la Komisiono, trovis, ke fizike aktivaj homoj havis ĉirkaŭ 20 % pli malaltan demencan riskon. La plej granda diferenco estis inter homoj, kiuj estis preskaŭ tute neaktivaj, kaj tiuj, kiuj faris almenaŭ iom da agado.
+- **La ligo povas iri ambaŭdirekte.** La Komisiono notas, ke neaktiveco povas pliigi riskon. Ĝi ankaŭ notas, ke la fruaj cerbaj ŝanĝoj de demenco, kiuj komenciĝas jarojn antaŭ diagnozo, povas igi homojn malpli aktivaj.
+- **Kontrolitaj testoj estas malpli klaraj.** En unu testo, 945 pli aĝaj plenkreskuloj kun averaĝa aĝo de 78 jaroj estis asignitaj al kvin jaroj da dufoje-semajna gvidata ekzerco aŭ al kompara grupo. Fine, la pensaj kapabloj ne klare diferencis inter la grupoj. Multaj homoj en la kompara grupo ankaŭ estis aktivaj, kio malfaciligas legi la rezulton.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+La [Nacia Instituto pri Maljuniĝo (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) diras tion simple. Neniu klara ligo inter fizika agado kaj malhelpado de Alzheimer-malsano estis montrita, kaj ne estas sufiĉe da pruvoj el kontrolitaj testoj por diri, ke ekzerco malhelpas aŭ malrapidigas ĝin. Ekzerco tamen malaltigas la riskon de faloj, deprimo, diabeto, alta sangopremo kaj apopleksio. Kelkaj el tiuj statoj mem estas ligitaj kun kogna malboniĝo.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+La honesta konkludo estas moviĝi, ĉar tio helpas vin senti kaj funkcii pli bone hodiaŭ. Ajna ebla utilo por la cerbo estas ebla aldonaĵo, ne promeso.
 
-## How much activity do older adults need?
+## Kiom da agado bezonas pli aĝaj plenkreskuloj?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+La [gvidlinioj de CDC por plenkreskuloj 65-jaraj kaj pli aĝaj](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) sugestas tri specojn de agado ĉiun semajnon:
 
-| Type | Weekly amount | Examples |
+| Tipo | Semajna kvanto | Ekzemploj |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aeroba | Almenaŭ 150 minutoj da modera agado, ekzemple 30 minutoj dum 5 tagoj | Rapida promenado, dancado, akva aerobiko |
+| Muskolfortiga | Almenaŭ 2 tagoj, laborante ĉiujn ĉefajn muskolgrupojn | Levadon de malpezaj pesiloj aŭ sup-skatoloj, streĉrubandoj |
+| Ekvilibra | Regule | Promenado kalkano-al-piedfingroj, stariĝi de seĝo |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Ĉi tiuj estas celoj, ne enirpostuloj. CDC diras, ke se vi ne povas atingi ilin, vi estu tiom aktiva, kiom viaj kapabloj kaj sano permesas. Iom da agado estas pli bona ol neniu.
 
-## Gentle ways to move for older adults
+## Mildaj manieroj moviĝi por pli aĝaj plenkreskuloj
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Promenu kun kompanio.** Ĉiutaga promeno kun amiko, najbaro aŭ promena grupo aldonas interparolon kaj sekurecon.
+- **Seĝaj ekzercoj.** Sidaj brakolevoj, maleolaj rondoj, marŝado surloke kaj seĝa jogo konstruas forton sen ekvilibra risko.
+- **Dancu en la kuirejo.** Metu muzikon el la adoleskaj kaj dudekaj jaroj de la persono kaj svingu, frapetu aŭ paŝu. Nia [gvidilo pri muzikaj agadoj](/activities/music/) havas ideojn.
+- **Fortigu per hejmaj aĵoj.** Levu plenajn akvobotelojn aŭ sup-skatolojn dum vi spektas ŝatatan programon.
+- **Ĝardenu aŭ faru hejmajn taskojn.** Akvumado de plantoj, rastado, balaado kaj faldado de lavitaĵoj ĉiuj kalkuliĝas. Vidu [subĉielajn kaj ĝardenajn agadojn](/activities/outdoor-and-gardening/) kaj [hejmajn taskojn](/activities/household-tasks/).
+- **Akva ekzerco.** NIA listigas akvo-aerobikajn klasojn kiel unu elekton por homoj, al kiuj tera ekzerco estas malfacila por la artikoj.
 
-## How to exercise with someone living with dementia
+## Kiel ekzerci kun homo vivanta kun demenco
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Por homo vivanta kun demenco, la celo estas komforto, ĝuo kaj subteno de ĉiutagaj kapabloj, ne atingo de nombro. NIA diras, ke fizika agado helpas teni la muskolojn, artikojn kaj koron de homo kun Alzheimer-malsano en bona stato, kaj ankaŭ povas plibonigi humoron kaj dormon. Konsultu ilian kuraciston antaŭ ol komenci novan rutinon. Konsiloj el la [zorganta gvidilo de NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) inkluzivas:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Promenu kune ĉiutage.** Elektu sekuran, konatan vojon sen obstakloj. Se la persono promenas sola, identiga braceleto kun via telefonnumero estas bona ideo.
+2. **Provu ekzercajn filmetojn por pli aĝaj plenkreskuloj.** Sekvu kune, sidante aŭ starante.
+3. **Tenu la tempojn mallongaj.** Kelkaj mallongaj „mini-ekzercoj” povas funkcii pli bone ol unu longa.
+4. **Aldonu muzikon.** Konataj kantoj igas moviĝon sentiĝi kiel agado, ne kiel tasko. Dancu, se la persono ĝuas tion.
+5. **Proponu akvon kaj komfortajn ŝuojn.** Proponu akvon aŭ sukon dum kaj post la agado, kaj elektu komfortajn vestaĵojn kaj bone sidantajn ŝuojn faritajn por ekzerco.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Se promenado estas malfacila, la [gvidilo de NIA pri zorgado de homo kun Alzheimer-malsano](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) sugestas sidajn elektojn. Ĉi tiuj inkluzivas seĝajn ekzercojn aŭ jogon, ĵetadon de fabosaketoj, ĵetadon de mola pilko aŭ balono, streĉrubandojn, levadon de malpezaj hejmaj aĵoj kaj pedalajn ekzercilojn. Simplaj laboroj kiel balaado kaj polvoviŝado ankaŭ kalkuliĝas.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Estu realisma pri tio, kion moviĝo povas fari. La Lancet-Komisiono trovis neniujn pruvojn, ke ekzerco malpliigas kondutajn ŝanĝojn kiel maltrankviliĝon. Moviĝu kune, ĉar tio povas sentiĝi bone, ne kiel maniero ripari malfacilan posttagmezon. Se la persono diras ne, tio estas en ordo. Nia gvidilo pri [kiam ili diras ne](/caregiving/when-they-say-no/) havas mildajn manierojn provi denove poste. Fini pli frue, aŭ simple sidi kune ekstere, ankaŭ estas bona rezulto.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Post moviĝo, trankvila paŭzo kiel [Trankvila Spirado](/games/calm-breathing/) povas helpi vin ambaŭ trankviliĝi. Por sida agado kun milda brakmoviĝo, [Ordigu Kune](/games/sort-together/) kaj [Bilda Bingoo](/games/picture-bingo/) bone funkcias ĉe tablo.
 
-## Balance and fall safety
+## Ekvilibro kaj sekureco kontraŭ faloj
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Faloj estas oftaj kaj seriozaj. La [CDC raportas](https://www.cdc.gov/falls/data-research/facts-stats/index.html), ke pli ol unu el kvar pli aĝaj plenkreskuloj falas ĉiun jaron, sed malpli ol duono diras tion al sia kuracisto. Fali unufoje duobligas la ŝancon fali denove. Riskofaktoroj, kiujn CDC listas, inkluzivas:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Malfortecon en la kruroj kaj koksoj
+- Malfacilaĵojn pri marŝado kaj ekvilibro
+- Kelkajn medikamentojn, inkluzive de trankviligiloj kaj iuj kontraŭdeprimiloj
+- Vidproblemojn
+- Pieddoloron aŭ maltaŭgajn ŝuojn
+- Hejmajn danĝerojn kiel malordon, malgrandajn tapiŝojn kaj rompitajn ŝtupojn
 
-To move more safely:
+Por moviĝi pli sekure:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Uzu fortikan seĝon** sen radoj, kaj tenu laborejan benkon aŭ apogilon atingebla por staraj ekzercoj.
+- **Malplenigu la spacon** de tapiŝoj, kabloj kaj malordo unue.
+- **Iru malrapide kiam vi stariĝas**, kaj haltu, se la persono sentas sin kapturna aŭ malfirma.
+- **Portu subtenajn ŝuojn**, ne ŝtrumpojn aŭ lozajn pantoflojn.
+- **Ekzercu ekvilibron proksime al subteno.** Stariĝi de seĝo kaj promeni kalkano-al-piedfingroj estas ekzemploj de ekvilibraj agadoj laŭ CDC.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC konsilas, ke pli aĝa persono, kiu falas kaj batas sian kapon, vidu kuraciston tuj, precipe se la persono prenas sangomaldensigilojn.
 
-## Talk with a doctor
+## Parolu kun kuracisto
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Konsultu kuraciston antaŭ ol komenci novan ekzercan rutinon, precipe por homo, kiu havas korajn aŭ pulmajn problemojn, artikan doloron, ekvilibrajn problemojn aŭ demencon. Kuracisto aŭ fizioterapiisto povas sugesti sekurajn agadojn kaj kontroli, ĉu medikamentoj influas ekvilibron. Diru al la kuracisto pri ajna falo, eĉ unu sen vundo. Se io doloras aŭ sentiĝas malĝuste dum ekzerco, haltu. Por subita brusta doloro, malfacila spirado aŭ subita konfuzo, voku 112.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Ĉi tiu paĝo estas ĝenerala informo, ne medicina konsilo. Vidu nian [medicinan averton](/medical-disclaimer/). Por pli vasta bildo, legu [kion esploroj diras pri demencaj riskofaktoroj](/brain-health/risk-factors/) kaj [ĉu demenco povas esti malhelpata](/brain-health/can-dementia-be-prevented/).

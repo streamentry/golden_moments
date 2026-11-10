@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Tembiapo pyʼaguapy kaʼaru pukukue"
+seoTitle: "Sundowning: Tembiapo pyʼaguapy kaʼaru pukukue"
+description: "Jepokuaa, moambue kotýpe ha tembiapo pyʼaguapy ikatúva omomichĩ kaʼaru jave’i pe pyʼaguapy’ỹ demenciape. Avei, arakaʼépa oñehenói pohanohárape."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning haʼe pe pyʼaguapy’ỹ, javy térã ñekoʼõi oñepyrũva térã oñembohetavéva
+  kaʼaru pukukue térã pytũmbýpe. Mbaʼe ikatúva oipytyvõ: jepokuaa peteĩcha ára
+  ha ára, kuarahy resape ha tembiapo koʼẽrõme, saʼive ke kaʼaru, saʼive cafeína,
+  tesape hatã kotýpe pytũmboyve, óga kirirĩháme, ha tembiapo pyʼaguapy purahéi,
+  taʼanga térã ao mbojeheʼaicha. Teko pyahu térã oñembohetavéva oikotevẽ pohanohára
+  ohecha hag̃ua.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning heʼise pyʼaguapy’ỹ térã javy oñepyrũva térã oñembohetavéva kuarahy oñeñomi jave."
+  - "Emoĩ tembiapo hasýva, jeho okápe ha ñejahu koʼẽrõme térã kaʼaru mbytépe."
+  - "Kuarahy resape, jeguata ára ha ára, saʼive ke kaʼaru ha saʼive cafeína kaʼaru pukukue ikatu omoporãve pyhareve."
+  - "Emyendy tesape pytũmboyve, emboguejy tyapu, ha eipuru tembiapo pyʼaguapy ha ojekuaáva."
+  - "Ehai peteĩ jehaipy michĩmi eikuaa hag̃ua mbaʼépa omoñepyrũ, ha eime pyʼaguapýpe ha emokyreʼỹ pe pyʼaguapy’ỹ oñepyrũvo."
+  - "Eñeʼẽ pohanohára ndive oĩrõ teko pyahu térã oñembohetavéva: tasy, mbaʼasy mbyai térã pohã ikatu oĩ hese."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Mboy aravópa ojehecha jepi sundowning?"
+    a: "Hetave jey oñepyrũ térã oñembohetave kaʼaru pukukue térã pytũmbýpe, kuarahy oñeñomi jave. Aravo haʼetéva iñambue tapicha peteĩteĩgui, upévare ikatu oipytyvõ ehai hag̃ua jehaipy michĩmi peteĩ térã mokõi arapokõindy aja."
+  - q: "Mbaʼe tembiapopa ikatu oipytyvõ sundowning jave?"
+    a: "Kaʼaru pukukue oiko porãve tembiapo pyʼaguapy, ojekuaáva ha ndahasýiva: purahéi mombyry, taʼanga jehecha, peteĩ tembiaporãite televisión térã película, ao mbojeheʼa, jeguata mbyky térã karu oñembojaʼo. Eñongatu tembiapo pyahu térã hasýva koʼẽrõme g̃uarã."
+  - q: "¿Sundowning ikatu ohechauka peteĩ mbaʼe oikóva tekoporãme?"
+    a: "Ikatu oñembohetave umi mbaʼe oikóva tekoporãme, tasy, mbaʼasy mbyai urinarioicha, ke apañuái térã pohã rembiapokue ramo. Pe pyʼaguapy’ỹ ipyahúramo, sapyʼaiterei térã oñembohetavéramo, eñeʼẽ pe ava pohanohára ndive."
+  - q: "¿Aporandu vaʼerãpa pohanohárape pohã rehe sundowning-pe g̃uarã?"
+    a: "Upéva haʼe peteĩ ñomongeta ejapo vaʼerã pohanohára ndive. Alzheimerʼs Association heʼi umi tape ndahaʼéiva pohã oñehaʼãvaʼerã raẽ, ha oimeraẽ pohã pyhare javegua pyʼaho rehegua oñehechakuaa vaʼerã oñembojoaju rire mbaʼe vai ha mbaʼe porã ikatúva oguereko. Ko kuatiarogue nomeʼẽi ñeʼẽmondo pohã rehegua."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Heta ogaygua ohecha peteĩchaite: koʼẽrõ oiko kirirĩháme, ha katu kaʼaru ohasa jave, pe ava oikovéva demencia ndive oñepyrũ oime pyʼaguapyʼỹme, pyʼaho, ijavy térã oñekoʼõi. Ikatu oguata ha oguata, oporandu “ahata ógape” oĩramo jepe hógape, térã oñekoʼõi pyaʼe. Kóva ojehero jepi sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Ndaipóri peteĩ mbaʼe ojapo hag̃ua peteĩnte, ha katu ñemoambue ára rembiapópe, kotýpe ha tembiapo peteĩchagua ikatu omoporãve kaʼaru pukukue. Ko kuatiarogue ombyaty ñeʼẽporã ha ndahaʼéiva pohãgua National Institute on Aging ha Alzheimerʼs Association omoguahẽva. Kóva ndahaʼéi ñeʼẽmondo pohanoháragui. Umi teko ipyahúramo, sapyʼaiterei térã oñembohetavéramo, eñeʼẽ pe ava pohanohára ndive.
 
-## What is sundowning?
+## Mbaʼépa sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning haʼe pe pyʼaguapy’ỹ, pyʼaho, ñekoʼõi térã javy oñepyrũva térã oñembohetavéva kuarahy oñeñomi jave, kaʼaru pukukue térã pytũmbýpe. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) heʼi kaneʼõeterei ikatuha ombohetave pe pyʼaguapy’ỹ kaʼaru pukukue.
 
-## What can make late-day restlessness worse?
+## Mbaʼépa ikatu ombohetave pe pyʼaguapy’ỹ kaʼaru pukukue?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Heta mbaʼe ikatu oĩ hese, jepi oñondive. [Alzheimerʼs Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) omombeʼu mbaʼe ikatúva oĩ hese:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- kaneʼõ peteĩ ára tuichaitereíva rire;
+- tenda pyahu térã ombojavykuaáva;
+- peteĩ “aravoha ryepy pehete” ndojogueraháiva hekopete, upévare pe ava ikatu oke ára pukukue ha opáy pyhare;
+- tesapeʼỹ ha kuarahyʼã ombojavykuaáva;
+- oñandu pe jepyʼapy térã ñekoʼõi umi tapicha ijereguáva rehegua;
+- oikotevẽve saʼive ke, ojehecháva jepi kakuaa tuichavévape.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA omombeʼu avei mbaʼépa ikatu ombohetave pyʼaho, tasy, ñekoʼỹ térã jepyʼapy, keʼỹeterei, tekachĩ apañuái, tyapueterei térã tapicha hetaiterei, ha avei pohã térã pohã oñondivevaʼekue.
 
-## How can I plan the day to make evenings calmer?
+## Mbaʼéichapa ikatu amohenda ára pyhareve opyta hag̃ua kirirĩháme?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Emonguʼe mbaʼe hasýva koʼẽrõ gotyo ha ehejarei kaʼaru pukukue kirirĩ ha jepokuaa porãme. NIA ha Alzheimerʼs Association mokõivéva omomorã jepokuaa peteĩcha. Koʼápe peteĩ techapyrã, emoambue hag̃ua nde rehe:
 
-| Time | What may help |
+| Aravo | Mbaʼe ikatúva oipytyvõ |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Koʼẽrõ | Jeho pohanohára rendápe, ñejahu, jeho okápe ha oimeraẽ tembiapo oikotevẽva mbarete, hetave tapicha iñarandúva jave |
+| Koʼẽrõ pukukue | Aravo okápe térã ovetã kuarahyguáva jerére; jeguata térã ambue tembiapo |
+| Kaʼaru mbytépe | Karu tuichave (Alzheimerʼs Association omomorã karu tuichave kaʼaru mbytépe ha karu ivevýva pyhareve) |
+| Kaʼaru ñepyrũme | Jepytuʼu oikotevẽramo, ha katu ani reke puku kaʼaru pukukue |
+| Kaʼaru mbytépa gotyo | Tembiapo pyʼaguapy ha ojekuaáva; karuʼi ha yʼu; cafeínaʼỹre |
+| Pytũmboyve | Emyendy tesape kotýpe ha emboty ovetãsa pytũmboyve |
+| Pyhareve | Karu ivevýva, purahéi kirirĩ, saʼive mbaʼe omokyreʼỹva, jepokuaa peteĩcha oke hag̃ua |
 
-A few specific points from the sources:
+Mbaʼe ambuéva umi marandu heʼíva:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Kuarahy resape.** NIA omomorã eguereko hag̃ua aravo okápe térã ovetã jerére kuarahy resape hag̃ua ára ha ára.
+- **Mýi ára ha ára, ha katu ani hetaiterei.** Eñehaʼã emýi ára ha ára, ha katu ani remohenda hetaiterei tembiapo, heʼi NIA.
+- **Yʼu kaʼaru pukukue.** Ani reʼu kaguy ha yʼu oguerekóva cafeína, café térã colaicha, kaʼaru pukukue (NIA). Alzheimerʼs Association omombeʼu avei nicotina.
+- **Ke.** Ani reke puku térã reñeno kaʼaru pukukue (NIA). Alzheimerʼs Association omomorã saʼive ke ára pukukue oka porãʼỹramo pyhare.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Eikuaasevéramo mbaʼéichapa emoĩ peteĩ ára jepokuaa porãme, ehecha [tembiapo ára ha ára rehegua](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Mbaʼéichapa ikatu amopyʼaguapyve óga kaʼaru pukukue?
 
-Reduce noise, add light and keep familiar things close.
+Emboguejy tyapu, embohetave tesape ha ehejarei mbaʼe ojekuaáva hiʼaguĩ.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Tesape hatã ha joja.** Alzheimerʼs Association omomorã óga oñeñongatu hag̃ua tesape porãme pyhareve. Emyendy tesape kuarahyʼã ojehechamboyve.
+- **Saʼive tyapu.** Embogue térã emboguejy televisión ha radio, ha saʼive tapicha oho térã tembiapo óga pegua ko aravópe. Alzheimerʼs Association omomorã saʼive mbaʼe omokyreʼỹva pyhareve, televisión, tembiapo óga pegua ha purahéi hatãicha.
+- **Mbaʼe ojekuaáva ha omokyreʼỹva.** NIA omomorã purahéi mombyry ha ehejarei umi mbaʼe ojehayhúva ha taʼanga óga jerére.
+- **Ñemañami tekoporãre.** Alzheimerʼs Association omomorã ehecha hag̃ua oĩpa tasy, ñembyahýi, yʼuhéi, tekachĩ apañuái, ty ryru henyhẽ, kaneʼõ, mbaʼasy mbyai ha pire apañuái, ha eñongatu koty aku ha hoʼysã porãme.
+- **Nde jehegui reñandúva.** Tapicha oñandu ambue jepyʼapýre. NIA omomorã embeguejy ha eñehaʼã repytuʼu ne jepyʼapy ombohetavéramo pe teko.
 
-## What calm activities can we do in the late afternoon?
+## Mbaʼe tembiapo pyʼaguapypa ikatu jajapo kaʼaru pukukue?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Eiporavo tembiapo ojekuaáva, oñembohasa mbeguekatu ha oñemombyta ndahasýiva. Alzheimerʼs Association omomorã tembiapo mombyry purahéi pyʼaguapy, taʼanga térã peteĩ película ojehayhúvaicha, ha jeguata oñondive pe pyʼaguapy’ỹ omomichĩ hag̃ua. NIA omomorã karuʼi térã yʼu, peteĩ tembiaporãite televisión, purahéi, jeguata, aranduka ñemoñeʼẽ, térã tembiapo óga pegua hasyʼỹva ao mbojeheʼaicha.
 
-Ideas to try:
+Mbaʼe ikatúva eñehaʼã:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Embojeheʼa ao oñondive.** NIA omomorã koʼã tembiapo óga pegua hasyʼỹva. Ao ojahu hag̃ua ndahasýi ojapyhy, ha pe tembiapo oguereko peteĩ ñemohuʼã hesakãva.
+2. **Epurahẽi purahéi ojehayhúva.** Purahéi ojekuaáva imitãrusúgui, tyapu mbeguekatu. Ñeʼẽpurahéi oñondive avei oiko porã. Hetave ñeʼẽporã [tembiapo purahéi rehegua](/activities/music/)-pe.
+3. **Ehecha taʼanga.** Peteĩ aranduka taʼangagua, térã taʼanga ogaygua michĩmi [Photo Pairs](/games/photo-pairs/)-pe taʼanga ojehechaukávo, ikatu ogueru ñomongeta kirirĩ.
+4. **Eguata mbyky.** Kora jerére, tape yképe térã pasillópe, pytũmboyve.
+5. **Ekaru ha eʼu peteĩ mbaʼe oñondive.** Peteĩ mbaʼe hasyʼỹva, haku ha cafeínaʼỹva, mesa jerére oñondive.
+6. **Ñemboguejy kirirĩ.** [Picture Pairs](/games/picture-pairs/) irundy taʼanga reheve ha taʼanga ojehechaukávo ndahasýi oñepyrũ ha oñemombyta.
+7. **Saʼy.** [Coloring](/games/coloring/) pantallápe térã kuatiápe, oĩʼỹre jejapo hag̃ua opa peve.
+8. **Ñemaña ha ñomongeta.** [Conversation Cards](/games/conversation-cards/) omeʼẽ taʼanga ha porandu ijurujáva. Ñemaña mante avei iporã.
+9. **Jepytuʼu pytuho reheve.** [Calm Breathing](/games/calm-breathing/) haʼe peteĩ jepytuʼu mbegue ha kirirĩ nde reñepyrũ ha remombytáva.
+10. **Tembiapo pópe g̃uarã.** Botón térã medias ñemohenda, ahoja mbykymi oñeñandúva ñemombyry, térã peteĩ mbaʼe ojekuaáva ñejapyhy. Ehecha [tembiapo ñanduporã rehegua](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Ani eipuru ñembosarái pyahu, jeho okápe otyarõva térã mbaʼe ojeruréva hetaiterei manduʼa térã ñepyʼamonoʼõ kaʼaru pukukue. Eñongatu umíva koʼẽrõme g̃uarã.
 
-## What should I do when restlessness starts?
+## Mbaʼépa ajapo vaʼerã pe pyʼaguapy’ỹ oñepyrũvo?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Eime pyʼaguapýpe, emokyreʼỹ, ha embohape kirirĩhápe ambue mbaʼépe. NIA omomorã eñeʼẽ kirirĩhápe, ehendu pe ava ñeñandu, ani eñorairõ, emokyreʼỹ chupe oĩha tekorosãme, ha eipoko kirirĩhápe oipytyvõramo. Upéi eñehaʼã embohape ambue mbaʼépe: karuʼi, yʼu, purahéi térã jeguata.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimerʼs Association omomorã ñeʼẽ “Nde reime tekorosãme ápe” ha “Che ñañandu nde reñekoʼõi hag̃ua”, ha heʼi embohetave hag̃ua tesape, embeguejy ha saʼive mbaʼe omokyreʼỹva. Ani remokañy, ani rehẽngue hiʼaguĩ térã ani reñorairõ hendive.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Pe ava oñekoʼõiramo, NIA heʼi eime mombyry tekorosãme pe teko opá peve. Oĩramo peteĩ mbaʼe pyaʼe, ehenói pe número de emergencia oĩva ne tendápe ha emombeʼu pe ava oikovéva demencia ndive.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Ore guataha [ñemongeta rehegua](/caregiving/communication-tips/) ha [mbaʼépa ajapo vaʼerã heʼíramo nahániri](/caregiving/when-they-say-no/) omeʼẽ hetave ñeʼẽporã ñemoag̃ui hag̃ua.
 
-## How do I find the triggers?
+## Mbaʼéichapa aikuaa mbaʼépa omoñepyrũ?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Ehai peteĩ jehaipy michĩmi peteĩ térã mokõi arapokõindy aja. Alzheimerʼs Association omomorã oñehai hag̃ua mbaʼe oikóva sundowning oñepyrũ mboyve ojekuaa hag̃ua mbaʼépa omoñepyrũ. Ehai arakaʼe oñepyrũ pe pyʼaguapy’ỹ, mbaʼe oiko peteĩ aravo mboyve, ke, karu ha yʼu, tapicha ohóva, tyapu ha tesape. Eru pe jehaipy pohanohára rendápe. NIA heʼi pe teko ñemoambue jehai ikatuha oipytyvõ umi oñangarekóva ha pohanohára ohechakuaa hag̃ua peteĩ jepokuaa.
 
-## When should I call a doctor about sundowning?
+## Arakaʼépa oñehenói vaʼerã pohanohárape sundowning rehe?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Eñeʼẽ pe ava pohanohára ndive pe pyʼaguapy’ỹ ipyahúramo, oñembohetave sapyʼaiterei, térã oguereko ambue ñemoambue. NIA heʼi pe teko iñambuéva sapyʼa térã pyaʼe oñemoambuéva, hetave peteĩ mbaʼasy mbyai térã pohã ñemoambue ramove rire, oñemombeʼu vaʼerã pyaʼe pohanohárape.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Ejerure pohanohárape ohecha hag̃ua mbaʼe ikatúva ombohasyve pyhareve. Alzheimerʼs Association omombeʼu mbaʼe oikóva tetépe mbaʼasy mbyai urinarioicha, tyryru apañuái, tetyma pyʼaguapy’ỹ ha ke apañuái pyharegua, ha omomorã eporandu hag̃ua mbaʼe aravópa iporãve peteĩteĩ pohã. NIA omombeʼu tasy, tekachĩ apañuái ha pohã rembiapokue térã oñondivevaʼekue mbaʼe ikatúva ombohetave pyʼaho.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimerʼs Association heʼi umi tape ndahaʼéiva pohã oñehaʼãvaʼerã raẽ ke apañuái Alzheimer ndive joajúvape, ha pohã kaʼaru pukukue pyʼaho rehegua oñehechakuaa vaʼerã umíva ndoikóirõramo, oñembojoaju rire mbaʼe vai ha mbaʼe porã ikatúva oguereko. Pe jeiporavo oĩ pohanohára pópe. Ani reñepyrũ, ani remombyta térã ani remoambue oimeraẽ pohã, ke pohã térã mbaʼe moĩporãva pohanohára ñeʼẽmondoʼỹre.
 
-## How do I get through the evenings myself?
+## Mbaʼéichapa ikatu rohasa pyhareve che avei?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Kaʼaru pukukue ikatu haʼe pe ára hasyve peteĩ tapicha oñangarekóvape g̃uarã. Ikatúramo, ejerure peteĩ ogaygua, angirũ térã pytyvõhára oñembojehepyre oipytyvõ hag̃ua kaʼaru pukukue peteĩ térã mokõi árape arapokõindýpe, peteĩ aravo jepe. Ore guataha [ñangarekoha jehegui ñangareko](/caregiving/caregiver-self-care/) rehegua omombeʼu pytuʼu hag̃ua ha Alzheimerʼs Association Helpline, 24/7 ha jehepymeʼỹva.

@@ -1,33 +1,35 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "დღესასწაულები დემენციით მცხოვრები ადამიანისთვის"
+seoTitle: "დღესასწაულები და მადლიერება დემენციის დროს"
+description: "მარტივი იდეები დემენციით მცხოვრები ადამიანისთვის: სამზარეულო, მორთვა, მუსიკა, ფოტოები და ვიდეოზარები და როგორ დაგეგმოთ მშვიდი დღესასწაული."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  დღესასწაულები უფრო პატარა, დღის ადრეულ საათებში და თქვენ მიერ მზრუნველი
+  ადამიანის ჩვეული დღის წესრიგის მიხედვით დაგეგმეთ. შესთავაზეთ ნამდვილი და
+  უსაფრთხო საქმე, როგორიცაა სუფრის გაწყობა, ბოსტნეულის გარეცხვა, საჩუქრის
+  შეფუთვა ან მორთულობის დაკიდება. გაუზიარეთ ნაცნობი მუსიკა და ძველი ფოტოები,
+  სტუმრებს წინასწარ აუხსენით რა ელით და მოამზადეთ წყნარი ოთახი. გააკეთეთ მხოლოდ
+  ის, რისი მართვაც გეგონებათ, რომ შეგიძლიათ; მოკლე და მშვიდი ზეიმი უკვე კარგი
+  ზეიმია.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "თუ დღის ბოლოს დაბნეულობა ხშირია, ზეიმი დღის ადრეულ საათებში, მაგალითად ლანჩზე ან ბრუნჩზე, დაგეგმეთ."
+  - "შესთავაზეთ ნამდვილი საქმეები: სუფრის გაწყობა, ბოსტნეულის გარეცხვა, შეფუთვა, მორთვა ან დესერტის თეფშებზე განაწილება."
+  - "ნაცნობი მუსიკა, სიმღერები და ძველი ფოტოალბომები დღესასწაულის გასაზიარებლად მარტივი გზაა."
+  - "სტუმრებს წინასწარ უთხარით, რა უნდა ელოდონ, და თქვენ მიერ მზრუნველ ადამიანს აჩვენეთ მათი ფოტოები."
+  - "მოამზადეთ წყნარი ოთახი საყვარელი პლედით ან სვიტრით და სტუმრები ერთდროულად ცოტა კაცით მიიღეთ."
+  - "გამოტოვეთ ყველაფერი, რაც შეიძლება დამღლელი იყოს, მათ შორის საკვებს მიმსგავსებული მორთულობა და ბევრი ციმციმა სინათლე."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "რისი გაკეთება შეუძლია დემენციით მცხოვრებ ადამიანს მადლიერების დღეს?"
+    a: "შესთავაზეთ მარტივი და უსაფრთხო საქმე, რომელიც დღეს მის შესაძლებლობებს შეესაბამება: ბოსტნეულის გარეცხვა, მოცვის სოუსის მორევა, სუფრის გაწყობა, ხელსახოცების დაკეცვა ან დესერტების თეფშზე დადება. შემდეგ შეგიძლიათ ერთად დაათვალიეროთ ძველი საოჯახო ფოტოები ან იმღეროთ ნაცნობი სიმღერები. დღესასწაულში მონაწილეობა უფრო მნიშვნელოვანია, ვიდრე დავალების შედეგი."
+  - q: "ჯერ კიდევ უნდა ჩავატაროთ დიდი საოჯახო შეკრება?"
+    a: "მხოლოდ მაშინ, თუ ამის მართვა შეძლებთ. ხალხმრავლობა და ხმაური შეიძლება დამღლელი იყოს, ამიტომ ბევრი ოჯახი ირჩევს უფრო პატარა და არაფორმალურ შეკრებას, უფრო ადრეულ ტრაპეზს ან სტუმრების მცირე ჯგუფებად მიღებას. Alzheimer’s Association მოუწოდებს მათ, ვინც ზრუნავს ახლობელზე, გააკეთონ მხოლოდ ის, რისი გონივრულად და უსაფრთხოდ მართვაც შეუძლიათ."
+  - q: "როგორ მოვამზადო ოჯახის წევრები, რომლებიც დიდი ხანია არ გვინახავს?"
+    a: "მოსვლამდე აუხსენით, რა ცვლილებებს შეიძლება შეამჩნიონ და რომ ეს ცვლილებები დაავადებას უკავშირდება, არა თავად ადამიანს. სთხოვეთ, არ შეასწორონ და არ გამოსცადონ, სათითაოდ ისაუბრონ და პასუხისთვის დრო მისცენ. მოსვლამდე სტუმრების ფოტოების ჩვენებაც შეიძლება დაგეხმაროთ."
+  - q: "რა საჩუქრები შეეფერება დემენციით მცხოვრებ ადამიანს?"
+    a: "მარტივი და უსაფრთხო ნივთები, რომლებითაც ახლა შეუძლია სიამოვნების მიღება: საყვარელი საჭმელი, რბილი პლედი ან სვიტრი, ნაცნობი მუსიკა ან ოჯახის ფოტოალბომი. მოერიდეთ რთულ ელექტრონულ ნივთებს, ინსტრუმენტებს და გამომწვევ სამაგიდო თამაშებს. მისი ჩართვა საჩუქრის გაცემის პროცესში, მაგალითად საჩუქრის შეფუთვაში ან მის მიერ გამოცხობილი ნამცხვრების ჩალაგებაში, თავისთავად შეიძლება საჩუქარი იყოს."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +42,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+დღესასწაულებს შეუძლია თბილი მოგონებები გააღვიძოს, მაგრამ მათ ასევე შეიძლება თან ახლდეს ხმაური, ხალხმრავლობა და ჩვეული დღის ცვლილება. დემენციით მცხოვრები ადამიანისთვის საუკეთესო ზეიმი, როგორც წესი, უფრო პატარა, უფრო მშვიდი და იმ saker围ზე აგებული ხდება, რომლებით ტკბობაც მას დღესაც შეუძლია. ეს იდეები ერთნაირად გამოგადგებათ მადლიერების დღისთვის, შობისთვის, ხანუქისთვის, ახალი წლისთვის და ოჯახური დაბადების დღეებისთვის.
 
-## How do I plan a calmer holiday?
+## როგორ დავგეგმოთ უფრო მშვიდი დღესასწაული?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+დაიწყეთ თქვენ მიერ მზრუნველი ადამიანის ჩვეული წესრიგით და დღე მის accordingly დაგეგმეთ. [Alzheimer’s Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) გვირჩევს, ზეიმი დღის ადრეულ საათებში ჩავატაროთ, რადგან დაბნეულობა და მოუსვენრობა ხშირად დღის მეორე ნახევარსა და საღამოს ძლიერდება ( ამას ზოგჯერ „მზის ჩასვლის სინდრომსაც“ უწოდებენ). სადღესასწაულო ლანჩი ან ბრუნჩი ხშირად უფრო მარტივია, ვიდრე გვიანი ვახშამი.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **შეინარჩუნეთ შესაფერისი ზომა.** უფრო პატარა და არაფორმალური შეკრება, ან სტუმრების მცირე ჯგუფებად მიღება, ხშირად უფრო მარტივია, ვიდრე ერთი გადატვირთული სუფრა.
+- **გადაანაწილეთ საქმეები.** სთხოვეთ ნათესავებს, მოიტანონ კერძი, იარონ საყიდლებზე ან თქვენ მიერ მზრუნველ ადამიანს დაუთმონ დრო, სანამ თქვენ სამზარეულოში იქნებით. კონკრეტულად უთხარით, რა დაგეხმარებათ.
+- **მორთულობა მარტივი დატოვეთ.** [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/holidays) აღნიშნავს, რომ ციმციმა სინათლეებმა შეიძლება დაბნეულობა გამოიწვიოს, ხოლო ტკბილეული ან ხელოვნური ხილი, რომელიც მორთულობად გამოიყენება, შეიძლება საკვებად იქნეს აღქმული.
+- **გადაწყვიტეთ, რაზე თქვათ უარი.** თუ რომელიმე ტრადიცია დაძაბული ან სახიფათო გახდა, მისი გამოტოვება ან უფრო მშვიდით შეცვლა მისაღებია.
 
-## What holiday activities can we do together?
+## რა სადღესასწაულო საქმიანობის გაკეთება შეგვიძლია ერთად?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+აირჩიეთ ისეთი საქმეები და занятებები, რომლებიც დღეს თქვენ მიერ მზრუნველი ადამიანის შესაძლებლობებს შეესაბამება. დღესასწაულში მონაწილეობა უფრო მნიშვნელოვანია, ვიდრე შედეგი.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **ერთად გააწყეთ სუფრა.** ჯერ თეფშები დაალაგეთ, შემდეგ ხელსახოცები და ბოლოს ჭიქები. ხელსახოცების დაკეცვა კარგი საქმეა მჯდომარე მდგომარეობაში.
+2. **გარეცხეთ და დაალაგეთ ბოსტნეული.** კარტოფილის გარეცხვა ან მწვანე ლობიოს გაწმენდა სამზარეულოს მაგიდასთან ბევრისთვის ნაცნობი და უსაფრთხო საქმეა, ვინც ადრე სამზარეულოში მუშაობდა.
+3. **მოურიეთ, აურიეთ ან დაალაგეთ.** მოცვის სოუსის მორევა, მარტივი ცომის აზელვა ან ნამცხვრების თეფშზე დადება ხელებს დაკავებულს ინარჩუნებს ღუმელისა და დანებისგან შორს.
+4. **შეფუთეთ საჩუქარი.** წინასწარ მოამზადეთ ქაღალდი და ლენტი და თქვენ მიერ მზრუნველ ადამიანს მიეცით დაკეცვისა და გასწორების საშუალება. იდეალური შეფუთვა მთავარი არაა.
+5. **დაკიდეთ რამდენიმე მოსართავი.** აირჩიეთ უვნებელი სათამაშოები და ერთი პატარა ადგილი, მაგალითად გვირგვინი ან პატარა ნაძვის ხე.
+6. **გააკეთეთ მარტივი ხელნაკეთი.** ქაღალდის ჯაჭვები, ფოთლების კოლაჟი ან შტამპიანი სადღესასწაულო ბარათი კარგად მუშაობს. ჩვენი [ხელოვნებისა და ხელსაქმის გზამკვლევი](/activities/arts-and-crafts/) მეტ იდეას გთავაზობთ.
+7. **იმღერეთ და მოუსმინეთ.** ნაცნობ სადღესასწაულო სიმღერებში ჩართვა მარტივია იმ ადამიანისთვისაც კი, ვინც ახლა ნაკლებად ლაპარაკობს. დასაკრავი სიის შესაქმნელად იხილეთ ჩვენი [მუსიკის გზამკვლევი](/activities/music/).
+8. **დაათვალიერეთ ძველი სადღესასწაულო ფოტოები.** გამოიტანეთ წინა ზეიმების ალბომები და სთხოვეთ, გაიხსენონ ისტორიები („მომიყევი ამ სუფრის შესახებ“), იმის მკითხავად, თუ ვინ ვინ არის. ჩვენი [მოგონებების გაზიარების გზამკვლევი](/activities/reminiscence/) ხსნის, როგორ გააკეთოთ ეს.
+9. **ითამაშეთ მშვიდი ჯგუფური თამაში.** [Picture bingo](/games/picture-bingo/) რამდენიმე წუთში იბეჭდება და ყველა ასაკისთვის შესაფერისია, ხოლო [conversation cards](/games/conversation-cards/) ყველას სასაუბრო თემას სთავაზობს.
+10. **ერთად გაფერადეთ.** მარტივი [გასაფერადებელი გვერდები](/games/coloring/) შეიძლება დაიბეჭდოს, რათა ბავშვებმა და ბებია-ბაბუამ ერთად გააფერადონ სუფრასთან.
+11. **უყურეთ საყვარელ სადღესასწაულო ფილმს.** ნაცნობი ფილმი დამამშვიდებელია და არა უშავს, თუ მის მხოლოდ ნაწილს ნახავთ.
+12. **გაემგზავრეთ მოკლე გასეირნებაზე ნათებით.** მორთული სახლების გვერდით მშვიდი გასეირნება მანქანით ხშირად უფრო მარტივია, ვიდრე ხალხმრავალი ღონისძიება.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+თუ სამზარეულოში მუშაობა თქვენ მიერ მზრუნველი ადამიანის ცხოვრებაში მნიშვნელოვანი ადგილი ეკავა, ჩვენი გზამკვლევი [საყოფაცხოვრებო საქმეები, როგორც საქმიანობა](/activities/household-tasks/) მეტ იდეას გთავაზობთ, თუ როგორ გავხადოთ სამზარეულოს საქმეები უსაფრთხო და სასიამოვნო.
 
-## How do I prepare guests?
+## როგორ მოვამზადო სტუმრები?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+სტუმრებს მოსვლამდე აუხსენით, რა უნდა ელოდონ, განსაკუთრებით იმ ნათესავებს, რომლებიც დიდი ხანია არ გინახავთ. Alzheimer’s Association გვირჩევს, ავუხსნათ, რომ მეხსიერებისა და ქცევის ცვლილებები დაავადებას უკავშირდება, არა თავად ადამიანს.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **გაუზიარეთ რამდენიმე მარტივი რჩევა:** სათითაოდ ისაუბრონ, მისცენ აზრის დასრულების დრო, არ შეასწორონ და არ გამოსცადონ, და თუ სიტყვების გაგება გაუჭირდათ, ყურადღება მიაქციონ მის ტონს.
+- **უთხარით, რა ეხმარება და რა აღიზიანებს.** თუ მაღალი ხმა, აჩქარება ან გარკვეული თემები მას აშფოთებს, ეს წინასწარ თქვით.
+- **სტუმრები წინასწარ გააცანით.** აჩვენეთ თქვენ მიერ მზრუნველ ადამიანს მათი ფოტოები და გაუზიარეთ ერთი-ორი ისტორია, ან დღესასწაულამდე მოაწყვეთ მოკლე სატელეფონო ან ვიდეო საუბარი.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+ჩვენი [კომუნიკაციის რჩევები](/caregiving/communication-tips/) ამ თემას უფრო დეტალურად ხსნის.
 
-## What if it gets to be too much?
+## რა ვქნა, თუ ყველაფერი ზედმეტად dużo გახდა?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+სტუმრების მოსვლამდე მოამზადეთ წყნარი ოთახი ხმაურისგან შორს, ნაცნობი და მოსახერხებელი ნივთებით, როგორიცაა საყვარელი პლედი, სვიტრი ან მარტივი занятება. შესთავაზეთ ის დროულად და ხშირად: „გინდა, ცოტა უფრო წყნარ ადგილას დავჯდეთ?“
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+სუფრიდან წამოსვლა, ადრე დაწოლა ან დღის ნაწილის გამოტოვება კარგი შედეგია და არა მარცხი. თუ თქვენ მიერ მზრუნველი ადამიანი აღშფოთდება, მშვიდი ხმა, ნაცნობი სიმღერა ან სხვა ოთახში გადასვლა ხშირად უფრო მეტს გვეხმარება, ვიდრე დაუჯერება. ჩვენი გზამკვლევი [დღის ბოლოს მოუსვენრობა](/caregiving/late-day-restlessness/) საღამოებისთვის მეტ იდეას გთავაზობთ.
 
-## How can family far away take part?
+## როგორ possono შორიდან მყოფი ოჯახის წევრები ჩაერთონ?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+ვიდეოზარები ნათესავებს საშუალებას აძლევს, შეუერთდნენ ზეიმს ხალხმრავლობის გაზრდის გარეშე. Alzheimer’s Association გვირჩევს, ზარებს ჰქონდეს მცირე სტრუქტურა, მაგალითად სეზონური სიმღერების ერთად სიმღერა, წინა ზეიმების ფოტოების გაზიარება, ერთნაირი კერძის ერთად მომზადება ან სადღესასწაულო ფილმის ერთდროულად ყურება. ზარები მოკლე იყოს და სთხოვეთ ხალხს სათითაოდ ისაუბრონ, რადგან ერთდროული საუბრის მიყოლა რთულია. ჩვენი [სატელეფონო და ვიდეოზარების გზამკვლევი](/activities/phone-and-video-calls/) ნაბიჯ-ნაბიჯ იდეებს გთავაზობთ.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+თუ თქვენ მიერ მზრუნველი ადამიანი მეხსიერების მოვლის დაწესებულებაში ცხოვრობს, შეამოწმეთ სტუმრობის წესები და სთხოვეთ თანამშრომლებს ზარის მოწყობაში დახმარება. ჩვენი გზამკვლევი [მეხსიერების მოვლის დაწესებულებაში სტუმრობა](/activities/visiting/) ხსნის, რა წაიღოთ და როგორ დაასრულოთ ვიზიტი მშვიდად.
 
-## What gifts suit someone with dementia?
+## რა საჩუქრები შეეფერება დემენციით მცხოვრებ ადამიანს?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+მარტივი და უსაფრთხო საჩუქრები, რომლებითაც ახლა შეუძლია სიამოვნების მიღება, როგორც წესი, საუკეთესოდ მუშაობს: საყვარელი საჭმელი, რბილი პლედი ან კარდიგანი, ნაცნობი მუსიკა, დიდი შრიფტით დაბეჭდილი კალენდარი ან ოჯახის ფოტოალბომი. Alzheimer’s Association გვირჩევს, თავი შევიკავოთ სახიფათო ინსტრუმენტების, რთული ელექტრონული ნივთებისა და გამომწვევი სამაგიდო თამაშებისგან.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+მიცემა შეიძლება მიღებასავითვე მნიშვნელოვანი იყოს. თქვენ მიერ მზრუნველი ადამიანის მიერ გამოცხობილი ნამცხვრების ჩალაგება ან მისთვის საჩუქრის შეფუთვაში ჩართვა მას საშუალებას აძლევს, იყოს სეზონის ნაწილი. საოჯახო ფოტოთამაში კიდევ ერთი იდეაა: [photo pairs](/games/photo-pairs/) რამდენიმე შერჩეულ ფოტოს ბრაუზერში მშვიდ შესატყვისებელ თამაშად აქცევს.
 
-## Look after yourself too
+## საკუთარ თავზეც იზრუნეთ
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+დღესასწაულები მზრუნველობას მეტ სამუშაოს უმატებს. მიეცით სხვას მასპინძლობის ან ინდაურის მომზადების შესაძლებლობა, თქვით უარი იმ ღონისძიებებზე, რომლებიც რთული იქნება, და დაისვენეთ, სანამ სხვები თქვენ მიერ მზრუნველ ადამიანს companhia უწევენ. თუ თქვენ ან თქვენ მიერ მზრუნველი ადამიანი თავს კარგად არ გრძნობთ, აივნიდან ხელის დაქნევა ან ვიდეოზარიც სრულიად კარგია. ჩვენი გზამკვლევი [მზრუნველის საკუთარ თავზე ზრუნვა](/caregiving/caregiver-self-care/) მეტ მხარდაჭერას გთავაზობთ.

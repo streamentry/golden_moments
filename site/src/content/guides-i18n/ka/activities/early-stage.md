@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "საქმიანობები დემენციის ადრეულ სტადიაზე"
+seoTitle: "დემენციის ადრეული სტადია: შესაფერისი იდეები"
+description: "იდეები დემენციის ადრეული სტადიისთვის: ჰობი, თამაშები, გასეირნება, წერა და ერთად დაგეგმვა — მცირე ცვლილებებით, რომ ადამიანს სიამოვნება და არჩევანი შეენარჩუნოს."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  დემენციის ადრეულ სტადიაზე ადამიანების უმეტესობას შეუძლია გააგრძელოს ის, რაც
+  უყვარს: ჰობი, კარტი და სამაგიდო თამაშები, სამზარეულოში გართობა, მებაღეობა,
+  სიარული, კლუბები, სარწმუნოებრივ ცხოვრებასა და მოხალისეობაში ჩართვა. ძირითადად
+  საჭიროა უფრო მცირე ჯგუფები, უფრო მოკლე გასვლები, მარტივი წერილობითი გეგმები და
+  ახლოს მყოფი პარტნიორი. ჰკითხეთ ადამიანს, რა სახის დახმარება სურს, და მიეცით
+  მას შესაძლებლობა, თავად უწყებოდეს წინ.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "ადრეულ სტადიაზე ადამიანების უმეტესობა საკმაოდ დამოუკიდებლად ცხოვრობს. საქმიანობები, როგორც წესი, მორგებას საჭიროებს და არა ჩანაცვლებას."
+  - "ჰკითხეთ ადამიანს, რა სახის მხარდაჭერა სურს, და შეთანხმდით მარტივ ნიშანზე, რომელიც მიუთითებს, როდისაა დახმარება მისასალმებელი."
+  - "უფრო მცირე ჯგუფები, უფრო მშვიდი დრო და უფრო მოკლე გასვლები ხშირად დიდ ცვლილებას ქმნის."
+  - "ეს კარგი დროა, რომ ადამიანმა თავად უხელმძღვანელოს საკუთარ ცხოვრებასთან დაკავშირებულ პროექტებს, მაგალითად დღიურს ან ცხოვრების ისტორიის წიგნს."
+  - "აირჩიეთ თამაშები სიამოვნებისთვის. გვერდზე გადადეთ ყველაფერი, რაც გამოცდას ჰგავს."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "რა საქმიანობებია კარგი დემენციის ადრეული სტადიისთვის?"
+    a: "როგორც წესი, ისევე, რაც ადამიანს უკვე უყვარს: კარტი, სამაგიდო თამაშები, სამზარეულოში გართობა, მებაღეობა, სიარული, მუსიკა, სარწმუნოებრივი საქმიანობები, კლუბები და მოხალისეობა. შეიძლება დაგჭირდეთ მათი უფრო მოკლედ, მშვიდად ან მარტივად მოწყობა. დღიურის წერა, წერილების წერა და ცხოვრების ისტორიის წიგნის შექმნაც ამ სტადიას კარგად ერგება."
+  - q: "როგორ დავეხმარო ისე, რომ საკუთარ თავზე არ ავიღო ყველაფერი?"
+    a: "ჰკითხეთ ადამიანს, რა სახის დახმარება სურს, და ხშირად გადაამოწმეთ. შეთანხმდით ფრაზაზე ან თავის დაკვრაზე, რომელიც ნიშნავს, რომ ჩართვა მისაღებია, მაგალითად მაშინ, როცა სიტყვა ან სახელი ვერ ახსენდება. თუ უსაფრთხოებისთვის საფრთხე არ არსებობს, მიეცით მას შესაძლებლობა, ეს თავისებურად გააკეთოს, თუნდაც ამას უფრო მეტი დრო დასჭირდეს."
+  - q: "უნდა სცადოს თუ არა დემენციის ადრეული სტადიის მქონე ადამიანმა ახალი საქმიანობები?"
+    a: "დიახ, თუ ამას თავად მოისურვებს. ნაცნობი ჰობი, როგორც წესი, ყველაზე მარტივია, მაგრამ ბევრი ადამიანი სიამოვნებით ცდილობს რაღაც ახალს, მაგალითად დემენციით მცხოვრები ადამიანებისთვის მორგებულ სასიარულო ჯგუფს, ხელოვნების ან სიმღერის ჯგუფს. სცადეთ ერთხელ, ზეწოლის გარეშე, და ნახეთ, როგორ იგრძნობა თავი."
+  - q: "ღირს თუ არა ტვინის სავარჯიშო აპლიკაციები ადრეულ სტადიაზე?"
+    a: "ზოგი ადამიანი თავსატეხებითა და სიტყვების თამაშებით ტკბება, და ეს სიამოვნებაც საკმარისი მიზეზია. არცერთ აპლიკაციას ან თამაშს არ დაუდასტურებია, რომ მკურნალობს, ანელებს ან აჩერებს დემენციას. თუ თამაში სტრესს იწვევს ან ადამიანს აყვარებს იმის განცდას, რომ ვერ ახერხებს, გვერდზე გადადეთ."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+დემენციის ადრეულ სტადიაზე ბევრი ადამიანი კვლავ თითქმის ისე ცხოვრობს, როგორც ადრე. შეიძლება მუშაობდეს, მოხალისეობდეს, ხვდებოდეს მეგობრებს და დღის დიდ ნაწილს თავად მართავდეს. საქმიანობების ჩანაცვლება, როგორც წესი, საჭირო არ არის; საჭიროა რამდენიმე მცირე ცვლილება, რომ ისინი მაინც სასიამოვნო დარჩეს. თქვენი როლი უფრო პარტნიორის როლს ჰგავს, ვიდრე მზრუნველისას: ადამიანი, რომელიც უჭერს მხარს, ერთად გეგმავს და მხოლოდ მაშინ ერთვება, როცა ამას გთხოვენ.
 
-## What activities are good in early-stage dementia?
+## რა საქმიანობებია კარგი დემენციის ადრეული სტადიისთვის?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+ადრეულ სტადიაზე საუკეთესო საქმიანობები, როგორც წესი, ის არის, რაც ადამიანს უკვე უყვარს, უბრალოდ ოდნავ გამარტივებული. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ისეთ იდეებს ასახელებს, როგორიცაა კარტი და სამაგიდო თამაშები, სიტყვების ძებნა, სიარული, ცეკვა, მებაღეობა, ყვავილების მოწყობა, ისტორიების მოყოლა, ხატვა, მუსიკა, დღიურის წერა, წერილების წერა, სკრაპბუქინგი, სამზარეულოში გართობა და სადღესასწაულო ტრადიციები.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+ხშირად იცვლება გარემო და არა თავად საქმიანობა. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) აღნიშნავს, რომ ადრეულ სტადიაზე მყოფმა ადამიანებმა შეიძლება დაიწყონ იმ საქმიანობებიდან უკან დახევა, რომლებითაც ტკბობოდნენ. მაგალითად, ადამიანი, რომელიც დიდ წვეულებაზე დაძაბულობას გრძნობს, შესაძლოა პატარა ჯგუფში გაცილებით უკეთ იგრძნოს თავს. ღიად ისაუბრეთ იმაზე, რა ხდება უფრო რთული, და ერთად მოერგეთ.
 
-## Ask first, and agree on how to help
+## ჯერ ჰკითხეთ და შეთანხმდით, როგორ დაეხმაროთ
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association-ის ადრეული სტადიის რეკომენდაციები](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) რამდენიმე ჩვეულებას გვთავაზობს, რომლებიც საქმიანობebსაც ეხება:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **პირდაპირ ჰკითხეთ.** „რა გაგიადვილებდათ წიგნის კლუბში მონაწილეობას?“ უკეთეს პასუხს მოგცემთ, ვიდრე გამოცნობა.
+- **დაუჯერეთ, რომ შეუძლია.** თუ უსაფრთხოებისთვის საფრთხე არ არსებობს, მიეცით ადამიანს მცდელობის საშუალება და წაახალისეთ, ნაცვლად იმისა, რომ საკუთარ თავზე აიღოთ.
+- **შეთანხმდით ნიშანზე.** აირჩიეთ ფრაზა ან თავის დაკვრა, რომელიც ნიშნავს: „შეგიძლია ჩაერთო“, მაგალითად მაშინ, როცა კარტის თამაშისას სახელი ვერ ახსენდება.
+- **რეგულარულად გადაამოწმეთ.** ჰკითხეთ, დახმარების რაოდენობა სწორად გრძნობა, ზედმეტად ბევრია თუ ძალიან ცოტა.
 
-## Activity ideas for the early stage
+## იდეები ადრეული სტადიისთვის
 
-### Keep up roles and hobbies
+### შეინარჩუნეთ როლები და ჰობი
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **შეინარჩუნეთ რეგულარული ჩართულობა.** ყოველკვირეული მოხალისეობა, გუნდი ან კლუბი კვირას სტრუქტურას აძლევს. თუ ეს დამძიმებელი ხდება, შესაძლოა უფრო მოკლე ან მშვიდი ფორმა უკეთესად შეესაბამებოდეს.
+- **ერთად დაგეგმეთ კვება.** თუ პროდუქტების ყიდვა დამღლელი გახდა, Alzheimer's Association გთავაზობთ, სთხოვოთ ადამიანს, დაგეხმაროთ კვირის მენიუს დაგეგმვასა და სიის შედგენაში.
+- **მოამზადეთ კერძები და გამოაცხვეთ.** ერთად მიჰყევით საყვარელ რეცეპტს. დაწყებამდე ინგრედიენტები რიგით დაალაგეთ, რომ ნაბიჯები თვალსაჩინო იყოს.
+- **იმუშავეთ ბაღში.** დაგეგმეთ ბაღის ნაკვეთი, აირჩიეთ თესლი ან ნერგები და ერთად იმუშავეთ. კვირის სამუშაოების წერილობითი სია დაეხმარება.
+- **გააგრძელეთ ხელსაქმე.** ხის დამუშავება, კერვა, ქარგვა ან მოდელების აწყობა შეიძლება გაგრძელდეს უფრო მარტივი ნიმუშებითა და კარგი განათებით.
 
-### Games for enjoyment
+### თამაშები სიამოვნებისთვის
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **ითამაშეთ კარტი და სამაგიდო თამაშები.** ნაცნობი თამაშები ყველაზე მარტივია. ითამაშეთ გუნდებად, რომ niemand სიტყვასიტყვით, არავინ აღმოჩნდეს ზეწოლის ქვეშ, და ქულებს თავისუფლად უდევთ თვალი ან საერთოდ არ ითვლიდეთ.
+- **სცადეთ დიდი შრიფტით შედგენილი სიტყვების ძებნა.** ჩვენს [სიტყვების ძებნას](/games/word-search/) შეგიძლიათ ეკრანზე ითამაშოთ ან ამობეჭდოთ მშვიდი წუთებისთვის.
+- **ააწყვეთ ფაზლი.** აირჩიეთ ნაწილების ისეთი რაოდენობა, რომელიც დასამშვიდებელია და არა გამომწვევი. [სურათის ფაზლი](/games/picture-puzzle/) ეკრანზე სათამაშო მოკლე ვერსიაა, ხოლო ჩვენი გზამკვლევი [ფაზლები დემენციის დროს](/activities/puzzles/) არჩევაში დაგეხმარებათ.
+- **მიიღეთ მონაწილეობა ვიქტორინაში სიამოვნებისთვის.** ზოგ ადამიანს გუნდური ვიქტორინის საღამო ძალიან უყვარს. თუ ეს გამოცდას დაემსგავსა, აირჩიეთ სხვა რამ ან სცადეთ ჩვენი [მარტივი ვიქტორინის კითხვები](/activities/trivia/), რომელსაც პასუხის ვარიანტები აქვს და ქულები არ ითვლება.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+აქ თამაშები სიამოვნებისთვის არის. არცერთ თამაშს არ დაუდასტურებია, რომ მკურნალობს ან ანელებს დემენციას; მეტი შეგიძლიათ წაიკითხოთ აქ: [ტვინის თამაშები: რას ამბობს კვლევა](/brain-health/brain-games/).
 
-### Write, reflect and record
+### წერა, დაფიქრება და ჩანაწერები
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **აწარმოეთ დღიური.** Alzheimer's Association დღიურის წერას ერთ-ერთ გზად ასახელებს დიაგნოზის შემდეგ გრძნობებთან გასამკლავებლად. დღეში რამდენიმე ხაზიც საკმარისია.
+- **წინ უძღვენით ცხოვრების ისტორიის წიგნს.** ადრეული სტადია კარგი დროა, რომ ადამიანმა თავად აირჩიოს თავისი ფოტოები და დაწეროს ან თქვას მათ უკან არსებული ისტორიები. იხილეთ [მოგონებებზე დაფუძნებული საქმიანობები](/activities/reminiscence/).
+- **დაწერეთ წერილები.** წერილი შვილიშვილისთვის, ძველი მეგობრისთვის ან ყოფილი კოლეგისთვის შეიძლება მნიშვნელოვანი იყოს ორივე მხარისთვის.
+- **ისაუბრეთ ფოტოებზე.** [ფოტო წყვილები](/games/photo-pairs/) ოჯახურ ფოტოებს ნაზ შესატყვის თამაშად აქცევს, ხოლო [სასაუბრო ბარათები](/games/conversation-cards/) საუბრის დასაწყებად მარტივ საყრდენებს იძლევა.
 
-### Go out and move
+### გასეირნება და მოძრაობა
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) გირჩევთ, გააგრძელოთ ნაცნობი გასვლები მანამ, სანამ ორივესთვის კომფორტულია. დაგეგმეთ ისინი დღის იმ დროს, როცა ადამიანი საუკეთესოდ გრძნობს თავს, და ნუ გახდით ზედმეტად ხანგრძლივს.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **მოკლე კულტურული გასვლები.** მუზეუმი, დღის სეანსი ან ხელოვნების გამოფენა, სასურველია უფრო მშვიდ დროს.
+- **ცურვა.** NIA გთავაზობთ აუზს დღის ნაკლებად დატვირთულ დროს.
+- **სასიარულო ჯგუფები და ცეკვის გაკვეთილები.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) აღნიშნავს ცეკვას, ტაი ჩის, იოგას, ცურვას და სასიარულო ჯგუფებს, ასევე დემენციით მცხოვრები ადამიანებისთვის მორგებულ შეხვედრებს, სადაც ეს შესაძლებელია.
+- **სიმღერის ჯგუფები და მოგონებების კაფეები.** მშვიდი ჯგუფები, სადაც დემენციით მცხოვრებ ადამიანებს და მათ პარტნიორებს შეუძლიათ შეხვდნენ სხვებს მსგავსი გამოცდილებით.
 
-## Small changes that keep activities enjoyable
+## მცირე ცვლილებები, რომლებიც საქმიანობებს სასიამოვნოდ ინარჩუნებს
 
-| If this is getting harder | Try this |
+| თუ ეს უფრო რთული ხდება | სცადეთ ეს |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| ხალხმრავალი ან ხმაურიანი ადგილები | წადით მშვიდ დროს, აირჩიეთ მცირე ჯგუფები, დაჯექით ოთახის კიდეში |
+| ახალი სახელების დამახსოვრება | ყოველ ჯერზე წარადგინეთ ადამიანები სახელებით; სთხოვეთ ჯგუფს, გამოიყენონ სახელის ბარათები |
+| რამდენიმე ნაბიჯიანი გეგმების შესრულება | ნაბიჯები ჩამოწერეთ ან ყველაფერი წინასწარ რიგით დაალაგეთ |
+| დაღლა | უფრო მოკლე გასვლები, შემდეგ დასვენება, იმ დღეს სხვა არაფერი დაგეგმოთ |
+| თამაშში თვალის დევნება | ითამაშეთ გუნდებად, გაამარტივეთ წესები ან ქულების დათვლაზე უარი თქვით |
+| სიტყვების პოვნა | მიეცით დრო; სიტყვა შესთავაზეთ მხოლოდ მაშინ, თუ თქვენი შეთანხმებული ნიშანი ამის საშუალებას იძლევა |
 
-## When to slow down
+## როდის შეანელოთ ტემპი
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+შეწყვიტეთ ან შეცვალეთ საქმიანობა, როცა იგი სიამოვნებაზე მეტ სტრესს იწვევს. განმეორებითი იმედგაცრუება, ჰობისგან თავის არიდება ან „ვერაფრით ვერ ვახერხებ“— ეს ნაზი საუბრის ღირსია და არა დაძალების. ხშირად პასუხი იმავე საქმიანობის უფრო მცირე ვერსიაა. როცა ადამიანს ნაბიჯების დაწყებასა და მიყოლაში მეტი დახმარება სჭირდება, შესაძლოა [შუა სტადიის საქმიანობების](/activities/middle-stage/) იდეები უკეთ შეესაბამებოდეს. მხარდამჭერი საუბრის შესახებ მეტი იხილეთ [კომუნიკაციის რჩევებში](/caregiving/communication-tips/), ხოლო კიდევ ბევრი იდეისთვის — [101 საქმიანობაში](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+პარტნიორებსაც სჭირდებათ მხარდაჭერა. ადრეული სტადია კარგი დროა, რომ საკუთარი დახმარების ქსელიც შექმნათ; იხილეთ [მზრუნველის თავის მოვლა](/caregiving/caregiver-self-care/).

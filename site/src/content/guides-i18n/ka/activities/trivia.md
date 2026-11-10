@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "მარტივი ვიქტორინა ხანდაზმულებისთვის დემენციით, без চাপის"
+seoTitle: "ვიქტორინის კითხვები დემენციით ხანდაზმულებისთვის, პასუხებით"
+description: "50 მარტივი ვიქტორინის კითხვა დემენციით ხანდაზმულებისთვის, პასუხების ვარიანტებითა და საუბრის თემებით. როგორ ჩავატაროთ იგი ისე, რომ არავის დაემთხვეს გამოცდის გრძნობა."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  დემენციით yaşayan ხანდაზმულებთან მარტივი ვიქტორინა ყველაზე კარგად მუშაობს, როდესაც საუბრად
+  აღიქმება, არა როგორც ტესტი. ჰკითხეთ ისეთ საკითხებზე, რაც ძველად კარგად იცოდნენ — ძველი
+  სიმღერები, გამონათქვამები, დღესასწაულები ან ყოველდღიური ცხოვრება. ყოველთვის შესთავაზეთ
+  ორი ან სამი ვარიანტი. პასუხი თავისუფლად უთხარით, არავინ გამოყოთ ცალკე, ქულები არ დათვალოთ
+  და ყოველი პასუხი გამოიყენეთ ისტორიის დასაწყებად. „ამას ან იმას“ ტიპის კითხვები, რომელთაც
+  არ აქვს არასწორი პასუხი, განსაკუთრებით გამოსადეგია დაავადების მოგვიანო ეტაპზე.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "ჰკითხეთ ძველად კარგად ნაცნობ რაღაცებზე: სიმღერები, გამონათქვამები, დღესასწაულები, საკვები და წარსულის ყოველდღიური ცხოვრება."
+  - "შესთავაზეთ ორი ან სამი პასუხის ვარიანტი, რათა ადამიანი შეძლოს ამოცნობა, არა მხოლოდ გახსენება."
+  - "პასუხი სითბოთი უთხარით და გადადით შემდეგ კითხვაზე. ნებისმიერი ვარაუდი, რომელიც ისტორიას იწყებს, კარგია."
+  - "არ დათვალოთ ქულები, არ გაუმართავთ შეჯიბრება ჯგუფებს და არ გამოიძახოთ ერთი ადამიანი ცალკე. პასუხი მოდის მთელი ოთახიდან."
+  - "როცა ვარიანტებს შორის არჩევანი რთული ხდება, გადადით „ამას ან იმას“ ტიპის კითხვებზე, რომლებთაც არ აქვთ სწორი ან არასწორი პასუხი."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "არის თუ არა ვიქტორინა კარგი საქმიანობა დემენციით yaşayan ადამიანებისთვის?"
+    a: "კარგი შეიძლება იყოს, თუ ნაზად ჩაატარებთ. Alzheimer's Foundation of America ლისტში წარმოადგენს ვიქტორინას, როგორც აქტივობას დაავადების ადრეულ ეტაპზე. კითხვები გაუმართეთ ხანგრძლივად ნაცნობ თემებზე, შესთავაზეთ ვარიანტები, არასოდეს დააყენოთ ერთი ადამიანი Spotlight-ში და პასუხები გამოიყენეთ საუბრის დასაწყებად, არა როგორც ტესტის შედეგი."
+  - q: "რომელი თემებია ყველაზე შესაფერისი დემენციით ადამიანისათვის ვიქტორინისას?"
+    a: "საუკეთოდ მუშაობს ის, რაც ადრეულ წლებში იყო კარგად ნაცნობი: ახალგაზრდობის პოპულარული სიმღერები და მომღერლები, ნაცნობი გამონათქვამები, დღესასწაულები, საკვები, სპორტი და ყოველდღიური ცხოვრება, როგორიცაა რძის доставკა სახლამდე ან ბრუნვის ტელეფონი. თავიდან აიცილეთ ბოლო დროის ამბები და ისეთი საკითხები, რაც სჭირდება წინა კითხვაზე გახსენება."
+  - q: "როგორ ჩავატაროთ ვიქტორინა მოხუცთა სახლში ისე, რომ არავის აგრძნობინოს სინანული?"
+    a: "კითხვის წაკითხვა გაუმართეთ მთელ ჯგუფს, აჩვენეთ ან თქვით პასუხის ვარიანტები და მიესალმეთ ნებისმიერ პასუხს, ვინცაც მსურს. არ გამოიძახოთ კონკრეტული ადამიანი და არ დათვალოთ ქულები. ნებისმიერ ვარაუდზე სითბოთი უპასუხეთ და დასვით შემდგომი კითხვა, მაგალითად: „ვინცმე ოდესმე ყოფილა ავტოკინოთეატრში?“ — ამით საუბარი ისტორიად გადაიქცევა."
+  - q: "რისით ჩავანაცვლოთ ვიქტორინა დაავადების მოგვიანო ეტაპზე?"
+    a: "გადადით კითხვებზე, რომელთაც არ აქვთ არასწორი პასუხი, მაგალითად „ყავა ან ჩაი?“ ან „ზღვა ან მთები?“. ასევე კარგად მუშაობს ნაცნობი გამონათქვამების დასრულება ან სიმღერების ერთად შესრულება. შეიძლება ერთადაც გადახედოთ სურათებს და აღწეროთ, რაც ხედავთ."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+ვიქტორინა ერთ-ერთი ყველაზე მოთხოვნადი ჯგუფური საქმიანობაა მოხუცთა სახლებში და დღის პროგრამებში, ხშირად თამაშობენ მას ოჯახიც სამზარეულოს მაგიდასთან. თუ ჩაატარებთ კლასიკური ფორმით — ქულებით და ერთი ადამიანის მიერ პასუხის გაცემით — დემენციით yaşayan ადამიანს შეიძლება თავი ჩასახლებული იგრძნოს. თუ ნაზად მოაწყობთ, ეს იქნება ცოცხალი გზა ისტორიების მოსასმენად. ქვემოთ მოცემულია 50 მარტივი კითხვა პასუხების ვარიანტებით და თითოეულისთვის საუბრის თემა, შემდეგ კი — როგორ ჩავატაროთ სესია.
 
-## How do you make trivia work for someone with dementia?
+## როგორ გახადოთ ვიქტორინა გამოსადეგი დემენციით yaşayan ადამიანისთვის?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+მთავარი პრინციპია — აქცენტი გააკეთოთ ამოცნობაზე და გახსენებაზე, რაც შორეულ წარსულს ეხება, და ყოველი პასუხი მიესალმეთ სითბოთი.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **ჰკითხეთ შორეული წარსულის შესახებ.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) განმარტავს, რომ ალცჰაიმერის დაავადების ყველაზე გავრცელებული ადრეული სიმპტომი ახლად ნასწავლის გახსენების სირთულეა. სიმღერები, გამონათქვამები და წლების წინანდელი ყოველდღიური ცხოვრება ხშირად უფრო მარტივად იგრძნობა.
+2. **ყოველთვის შესთავაზეთ ვარიანტები.** ორი ან სამი პასუხიდან არჩევანი გაცილებით მარტივია, ვიდრე პასუხის ნულიდან მოფიქრება.
+3. **კითხეთ ხმამაღლა და აჩვენეთ დიდი ზომით.** დაფა ან ტაბლეტი, რომელიც თვალების დონეზე გეჭიროთ, დაგეხმარებათ იმათ, ვინც უფრო ცუდად լսობს.
+4. **თავისუფლად უთხარით პასუხი.** თუ ვერავინ იცის, სითბოთი თქვით სწორი პასუხი და გადადით შემდეგზე. არასოდეს უთხრათ: „აჰა, რა თქმა უნდა, გახსენდეს!“
+5. **ქულები არ დათვალოთ.** არც ცალკეულ ადამიანს და არც მაგიდებს. თუ ჯგუფს მაინც სურს რაიმე რაოდენობა, უბრალოდ მთლიანი ოთახის შედეგი ჩაინიშნეთ.
+6. **არავინ გამოიძახოთ ცალკე.** პასუხი მოდის ვისგანაც სურს. თუ თამაშობთ მარტოერთად, ერთად იფიქრეთ: „მე მგონია, ფორტეპიანო იყო. შენ რას ფიქრობ?“
+7. **გამოიყენეთ საუბრის თემა.** პასუხი არა დასასრულია, არამედ დასაწყისი. ისტორია არის მთავარი მიზანი.
+8. **იკეცეთ ხანმოკლედ.** ათი კითხვა, რომელთაც შორის მოთხრობებიც ჩაებას, სრულიად საკმარისია.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) მთავარ წესად ასახავს: ശ്രദ്ധა მიაქციეთ, როდის ჩნდება გაღიზიანება, და უზრუნველყავით, რომ ადამიანი წარმატებულად იგრძნოს თავს. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ვიქტორინას ასახელებს, როგორც აქტივობას დაავადების ადრეულ ეტაპზე. შუა ეტაპზე შეზღუდეთ ორი ვარიანტით და უფრო მეტად ეყრდნობეთ საუბრის თემებს. მოგვიანო ეტაპზე კი უკეთესი იქნება ქვემოთ მოცემული „ამას ან იმას“ ტიპის კითხვები.
 
-## Music and entertainment trivia
+## მუსიკა და გასართობი
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+პასუხი მოცემულია **მუქად**. მოარგეთ კითხვები კონკრეტულ ადამიანს — ვინც Motown-ის ეპოქაში გაიზარდა, სხვა მომღერლები გაინტერესებს, ვიდრე ვინც დიდ ბენდებს უსმენდა.
 
-| Question | Choices | Talk about |
+| კითხვა | ვარიანტები | საუბრის თემა |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| ვისი მეტსახელი იყო „როკ-ენ-როლის მეფე“? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ოდესმე გინახავთ Elvis ტელევიზიით? |
+| რომელი მომღერლის მეტსახელი იყო Ol' Blue Eyes (ცისფერთვალა)? | Dean Martin, **Frank Sinatra**, Perry Como | რომელ Sinatra-ს სიმღერას ყველაზე მეტად უყვართ? |
+| Bing Crosby мечтал о белом... (თეთრ...) | **Christmas (შობას)**, wedding (ქორწილს), house (სახლს) | ერთად წარმოსთქვით სიმღერის ერთი სტრიქონი |
+| Louis Armstrong მღეროდა „What a Wonderful...“ | Day (დღე), **World (სამყარო)**, Life (ცხოვრება) | რა არის ის, რაც ყველაზე მეტად გხდის სამყაროს მშვენიერად? |
+| „Over the Rainbow“ რომელი ფილმიდან არის? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | სად ნახეთ თქვენი საყვარელი ფილმები? |
+| ვინ ასრულებდა ლუსის როლს სერიალში „I Love Lucy“? | **Lucille Ball**, Doris Day, Betty White | რომელ სატელევიზიო შოუს უყურებდით ოჯახთან ერთად? |
+| რომელი კოვბოი მირბოდა ცხენზე სახელად Trigger? | **Roy Rogers**, Gene Autry, John Wayne | ბავშვობაში კოვბოიებად თამაშობთ? |
+| 30 წლის განმავლობაში ვინა უძღვებოდა გადაცემას „The Tonight Show“? | Ed Sullivan, **Johnny Carson**, Bob Hope | გვიან ღამით უყურებდით ტელევიზორს? |
+| რომელ ინსტრუმენტს აქვს 88 კლავიში? | გიტარა, **ფორტეპიანო**, საყვირი | ვინმე ოჯახის წევრს უკრავდა ინსტრუმენტზე? |
+| რომელი ცეკვა ითვლება „ერთი-ორი-სამი, ერთი-ორი-სამი“? | **ვალსი**, ტვისტი, ტანგო | სად დადიოდით ცეკვაზე? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+მუსიკის შესახებ დამატებითი ინფორმაციისთვის იხილეთ [მუსიკალური საქმიანობა დემენციით ადამიანებისთვის](/activities/music/).
 
-## Everyday life trivia
+## ყოველდღიური ცხოვრება
 
-| Question | Choices | Talk about |
+| კითხვა | ვარიანტები | საუბრის თემა |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| მაცივრის გამოჩენამდე სად ინახავდნენ საკვებს სიცივეში? | **ყინულის კამერაში (icebox)**, ღუმელში, სხვენში | ვინ მო доставავდა ყინულს? |
+| ვინ ამტანიდა რძეს სახლამდე მინა ბოთლებში? | ფოსტალიონი, **რძის გამტანი**, გაზეთების გამტანი | კიდევ რა მიდიოდა სახლამდე? |
+| როგორ რეკავდით ბრუნვის ტელეფონზე? | ღილაკებს ეცემოდით, **ციკლს ატრიალებდით**, მასთან ლაპარაკით | მოგახსენეთ სახლში არსებული ტელეფონის შესახებ |
+| რომელმა კომპანიამ წარმოადგინა Model T ავტომობილი? | **Ford**, Chevrolet, Buick | რომელ ავტომობილს უყვარდათ ყველაზე მეტად? |
+| სად შეიძლებოდა „სოდა ჯერკის“ (soda jerk) პოვნა? | **სოდა ფაუნთენში**, საკონდიტრო მაღაზიაში, ბანკში | რას იძენდით კუნტეასთან? |
+| რა სათამაშოა ლითონის სპირალი, რომელიც კიბეზე დადის? | იო-იო, **Slinky**, ჰულა-ჰუპი | რომელ სათამაშოებს ყველაზე მეტად უყვარდათ? |
+| ავტოკინოთეატრი (drive-in) რა იყო? | **ადგილი, სადაც მანქანიდან უყურებდით ფილმს**, სტადიონი, აღლუმი | ვისთან ერთად დადიოდით? |
+| ვის აქვს სახე ერთდოლარიან ბანკნოტზე? | ლინკოლნი, **ჯორჯ ვაშინგტონი**, ჯეფერსონი | რა შეიძლებოდა ეგდო ერთი დოლარით იმ დროებში? |
+| ვის აქვს სახე ერთ ცენტიან მონეტაზე? | **აბრაამ ლინკოლნი**, ვაშინგტონი, ფრანკლინი | აგროვებდით ცენტებს ქილაში? |
+| რა ფერისაა ჩვეულებრივ სკოლური ავტობუსი? | წითელი, **ყვითელი**, ლურჯი | როგორ მიდიოდით სკოლაში? |
 
-## Holidays, nature and places
+## დღესასწაულები, ბუნება და ადგილები
 
-| Question | Choices | Talk about |
+| კითხვა | ვარიანტები | საუბრის თემა |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| ნოემბრის რომელი ხუთშაბათი არის მადლიერების დღე (Thanksgiving)? | შრომის დღე, **მეოთხე ხუთშაბათი ნოემბერში**, მემორიალ დღე | რა ყოველთვის იდგა მაგიდაზე? |
+| რისთვის აკეთებენ Jack-o'-lantern-ებს? | **ჰელოუინისთვის**, აღდგომისთვის, შობისთვის | მოგახსენეთ ჰელოუინის შესახებ, სადაც გაიზარდეთ |
+| 4 ივლისი, დამოუკიდებლობის დღე, რას აღნიშნავს? | უფლებებს, **დამოუკიდებლობას**, თავისუფლებას | სად უყურებდით ფოიერვერკებს? |
+| დედის დღე რომელ თვეშია? | აპრილში, **მაისში**, ივნისში | როგორ აღნიშნავდათ ოჯახში? |
+| რამდენი ვარსკვლავია ამერიკის დროშაზე? | 48, **50**, 52 | დროშას 48 ვარსკვლავი 1959 წლამდე ჰქონდა — ორივე პასუხი კარგია დასამახსოვრებლად |
+| რომელი ოკეანეა აღმოსავლეთ სანაპიროზე? | წყნარი, **ატლანტის**, არქტიკული | ოდესმე გინახავთ ზღვა? |
+| რომელ ქალაქში მდებარეობს თავისუფლების ქანდაკება? | ბოსტონი, **ნიუ-იორკი**, ფილადელფია | ოდესმე ყოფილხართ ნიუ-იორკში? |
+| რას აწარმოებენ ფუტკრები? | რძეს, **თაფლს**, აბრეშუმს | თაფლი ტოსტზე ან ჩაისთან? |
+| ხბოს რა ეძახიან? | კრავას, **ხბოს (calf)**, ბოკს | ოდესმე გიჯირიათ ფერმასთან ახლოს? |
+| რომელი მაღალი, ყვითელი ყვავილი მიჰყვება მზეს? | ვარდი, **მზესუმზირა**, ტიტა | რა იზრდებოდა თქვენს ბაღში? |
+| რამდენი დღეა ნაკიან წელს? | 365, **366**, 360 | მოგახსენეთ დაბადების დღეზე, რომელიც კარგად გახსოვთ |
+| ზამთრის შემდეგ რომელი სეზონი მოდის? | შემოდგომა, **გაზაფხული**, ზაფხული | რომელი სეზონი ყველაზე მეტად უყვართ? |
 
-## Food and sports trivia
+## საკვები და სპორტი
 
-| Question | Choices | Talk about |
+| კითხვა | ვარიანტები | საუბრის თემა |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| ქიშმიში რა ხილია გამხმარი? | ქლიავი, **ყურძენი**, ალუბალი | ლანჩბოქსში ქიშმიში ჩაგდით? |
+| ჩირი (prunes) რა ხილია გამხმარი? | **ქლიავი**, ლეღვი, ვაშლი | ვინ უყვარდა ოჯახში ჩირი? |
+| არაქისის კარაქი და... | **ჟელე**, ყველი, შპროტი | ხრაშუნა თუ ნაზი არაქისის კარაქი? |
+| გუაკამოლე ძირითადად რა შედგება? | ბარდა, **ავოკადო**, კიტრი | რა სნეკები დგებოდა წვეულებებზე? |
+| მადლიერების დღეს რომელი ღვეზელი ყველაზე პოპულარულია? | **გოგრის ღვეზელი**, ლიმონის ღვეზელი, ალუბლის ღვეზელი | რომელ ღვეზელს აკეთებდით? |
+| ბეისბოლის გუნდი მოედანზე რამდენი კაცით თამაშობს? | 7, **9**, 11 | რომელ გუნდს უჭერდით მხარს? |
+| ბეისბოლში რამდენი სტრაიქით ხდება აუტი? | ორი, **სამი**, ოთხი | ოდესმე ითამაშეთ ბეისბოლი? |
+| Babe Ruth რომელი სპორტით გახდა ცნობილი? | კრივი, **ბეისბოლი**, გოლფი | ოდესმე გნახავთ ბეისბოლის მატჩი? |
+| სტანდარტულ გოლფის მოედანზე რამდენი ხვრელია? | 9, **18**, 24 | ოდესმე ითამაშეთ გოლფი ან მინიგოლფი? |
+| რომელ სპორტში იღებენ ტაჩდაუნს (touchdown)? | **ამერიკული ფეხბურთი**, ჰოკეი, კალათბურთი | ოჯახში ფეხბურთს უყურებდით? |
 
-## Familiar sayings
+## ნაცნობი გამონათქვამები
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+გამონათქვამის დასრულება ეყრდნობა შორეულ წარსულში ნასწავლ ენას და ხშირად ძალიან ბუნებრივად მიმდინარეობს. ჩვენს თამაშში [გამონათქვამის დასრულება](/games/finish-the-saying/) მეტი ვარიანტია, დააჭირეთ და ნახავთ დასრულებას.
 
-| Saying | Choices | Talk about |
+| გამონათქვამი | ვარიანტები | საუბრის თემა |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| დღეში ერთი ვაშლი... | **ექიმს აშორებს.**, წვიმას აშორებს., კატას აშორებს. | ვინ გეუბნებოდა ამას ბავშვობაში? |
+| ადრე მდგომი ფრინველი... | ავტობუსს იჭერს., **მატლს იჭერს.**, მატარებელს იჭერს. | დილა ადრე დგახართ თუ გვიან? |
+| არ ითვალო ქათმებს... სანამ ისინი... | **გამოიფრინებენ.**, დაიძინებენ., იმღერებენ. | ოჯახში ჰყავდათ ქათმები? |
+| დაზოგული პენი... პენად არის... | **მოპოვებული.**, დაკარგული., დახარჯული. | ოჯახში ვინ იყო ყველაზე ეკონომიური? |
+| სახლი არის იქ, სადაც... | ბაღია, **გული არის.**, სამზარეულოა. | რა ხდის ადგილს სახლივით? |
+| შემდგომი უკეთესია, ვიდრე... | ადრე, **არასოდეს.**, ბოდიში. | ვინ იყო ყოველთვის შეფერხებული? |
+| თითოეულ ღრუბელს აქვს ვერცხლის... | **ფენა.**, კოვზი., მონეტა. | მოგახსენეთ ბედნიერი შემთხვევის შესახებ |
+| საქციელი უფრო ხმამაღლა ლაპარაკობს, ვიდრე... | **სიტყვები.**, მუსიკა., სროლა. |
 
-## This-or-that questions with no wrong answer
+## „ამას ან იმას“ — კითხვები, რომელთაც არ აქვს არასწორი პასუხი
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+ეს კითხვები შესაფერისია ნებისმიერი ეტაპისთვის, განსაკუთრებით მოგვიანო დროს, რადგან არ არის რა „სწორად“ გაიცეს. ჰკითხეთ, მოისმინეთ და თქვენც გაუზიარეთ თქვენი არჩევანი.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- ყავა ან ჩაი?
+- ზღვა ან მთები?
+- ძაღლები ან კატები?
+- ზაფხული ან ზამთარი?
+- ღვეზელი ან ტორტი?
+- ცეკვა თუ ყურება?
+-აისი ან შუქი?
+- წინა აივანი ან უკანა ეზო?
+- რადიო თუ ფირფიტები?
+- ბლინები ან კვერცხი?
+- ვარდები ან მარგალიტები?
+- მატარებლის მოგზაურობა თუ მანქანით მგზავრობა?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+საუბრის კითხვებისთვის სურათებთან ერთად ნახეთ ჩვენი ბეჭდვადი [საუბრის ბარათები](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## როგორ ჩავატაროთ ვიქტორინის სესია მოხუცთა სახლში ან ჯგუფში?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **მოაწყეთ ხალხი ისე, რომ კარგად დაინახონ და გაიგონ.** ჩააცვით სმენის aparelhosები, დააცვიათ სათვალეები, გამორთეთ ტელევიზორი.
+2. **წარუდგინეთ, როგორც საუბარი.** „მაქვს რამდენიმე კითხვა ძველი დროების შესახებ, მგონია, თქვენ ბევრად მეტი იცით, ვიდრე მე.“
+3. **კითხვის ორჯერ წაკითხვა და პასუხების ვარიანტების დიდი ზომით ჩვენება.**
+4. **მიესალმეთ პასუხს ნებისმიერისგან.** კარგი პასუხები გაიმეორეთ, რომ ყველამ გაიგოს.
+5. **ყველასთვის თქვით სწორი პასუხი** და შემდეგ დასვით საუბრის თემა მთელ ჯგუფს.
+6. **მიჰყევით ენერგიას.** თუ ერთი კითხვა ათი წუთიანი მოთხრობების სათავეში გადადის, მიეცით დრო.
+7. **დაასრულეთ სიმღერით ან „ამას ან იმას“ რაუნდით**, რათა სესია მარტივად და კომფორტულად დასრულდეს.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+სხვა ჯგუფური ფორმატების, მათ შორის სურათების ბინგოსა და ერთობლივი სიმღერის, შესახებ იხილეთ [ჯგუფური საქმიანობა მოხუცთა სახლებში](/activities/care-home-groups/).
 
-## When to change the plan
+## როდის შეცვალოთ გეგმები
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+თუ ადამიანი შეშფოთებულია, ჩუმდება ან რამდენჯერმე ამბობს „არ ვიცი“, გაგიადვილეთ საქმე: გამოიყენეთ მხოლოდ ორი ვარიანტი, უპასუხეთ ერთად, ან გადადით „ამას ან იმას“ ტიპის კითხვებზე. თუ ჯგუფს სურს ერთი და იგივე კითხვაზე მთელი შუადღე ისაუბროს, ეს წარმატებაა. მიზანი არასოდეს ყოფილა სწორი პასუხები. მიზანი იყო კარგი კომპანიის თანხლებით გატარებული დრო.

@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Kamona Dika bona Dementia: Sedi ia Hahedinaraia"
+seoTitle: "Kamona Dika bona Dementia: Sedi Hahedinaraia"
+description: "Dahaka dainai kamona dika be dementia ena risk badana, ACHIEVE sedina ia gwau, bona edena dala ai kamona oi check bona hereva oi hagoadaia."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024 Lancet Commission ia gwau kamona dika be dementia ena risk factors badadia ta,
+  ita haidaua diba. ACHIEVE sedina ai, hearing aids ese kognitiv dika ia no haidaua
+  ibounai dekenai, to risk bada ena group ta dekenai dika be maragi. Hearing aids ese
+  hereva bona dina ta ta ena gaukara ia durua. Kamona oi check, prescription o over-the-counter
+  hearing aids oi laloa, bona dokta ida oi hereva.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission ia laloa kamona dika be tanobada ibounai dementia ena 7% bamona, 14 risk factors lalonai badana ta."
+  - "ACHIEVE sedina ai, tau 977 idia tahua, hearing aids ese lagani toi ena kognitiv dika ia no haidaua ibounai dekenai."
+  - "ACHIEVE lalonai risk bada ena group maragina ta dekenai, hearing aids ida kognitiv dika be 48% maragi; inai be sedina ma ta ese ia hamomokania be namo."
+  - "2022 October ena murinai, US dekenai tau bada idia gwau edia kamona dika be maragi o namo namo, idia FDA-regulated hearing aids idia hoia diba over the counter."
+  - "2024 ai, mata dika idia no haidaua be dementia ena risk factor ta ai ia lao; unai dainai mata check be mai anina."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Hearing aids ese dementia ia taravatua diba, a?"
+    a: "Inai be idia no hamomokania. ACHIEVE sedina ia gwau lagani toi lalonai kognitiv dika dekenai anina bada lasi ibounai ai, to risk bada ena group ta be namo. Hearing aids be oi laloa diba, badina be hereva, nogutai noho, bona dina ta ta ena mauri ia hagoadaia."
+  - q: "Daika ese over-the-counter hearing aids idia hoia diba?"
+    a: "FDA ia gwau tau bada lagani 18 bona ma murina, idia gwau edia kamona dika be maragi o namo namo, idia OTC hearing aids idia hoia diba stoa o online dekenai, prescription lasi. Idia be kamona dika bada toana dekenai lasi. Bema taia dika, taia amo ranua ia diho, hetuturu, o kamona ia haidaua haraga, dokta ta oi itaia guna."
+  - q: "Kamona dika be dementia bamona ia itaia diba, a?"
+    a: "Nega haida ai, oi be. National Institute on Aging ia gwau tau badadia haida kamona namo lasi dainai, taudia haida idia gwau idia be aonega o idia no durua. Bema ta ia heau o hereva ia no kamonai, kamona check be dala namo ta."
+  - q: "Tau badadia edia mata be nega daudau ai idia check be namo?"
+    a: "National Institute on Aging ia gwau lagani 60 murinai, lagani ta ta o lagani rua rua ai dilated eye exam oi abia, o emu mata dokta ia gwau heto. Diabetes o blood pressure bada idia abia taudia be lagani ta ta ai exam ta idia abia be namo."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Kamona dika be tau badadia dekenai ia vara momokani, bona sedi taudia idia itaia ia be dementia ena risk factor ta. Inai be no ania hearing aids ese dementia ia taravatua diba; sedina namona ia vara toana be result rua. Inai peji ai sedi ia hahedinaraia, edena dala ai kamona oi check, US over-the-counter hearing aids be dahaka, bona edena dala ai hereva oi hagoadaia.
 
-## Why does hearing matter for brain health?
+## Dahaka dainai kamona be kwarana dekenai mai anina?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Kamona dika be dementia ena risk bada ida ia hebou. [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ia laloa ia be tanobada ibounai dementia ena 7% bamona. Inai be high LDL cholesterol ida ia hegeregere, 14 risk factors ita haidaua diba lalonai badana ta, [UCL ena ripoti hahedinaraia](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ia gwau heto.
 
-Key findings from the Commission:
+Commission ena hahedinaraia badadia:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Kamona dika ida risk ia bada.** Sedina namodia siks idia laloa hebou ai, kamona dika idia abia taudia dekenai dementia ena risk be 37% bamona ia bada, kamona namo taudia ida idia hahegeregerea.
+- **Kamona dika ia bada, risk danu ia bada.** Kamona dika ena badana idia itaia sedidia ai, risk ia daekau kamona ia dika daekau.
+- **Dala reana idia laloa, to idia no hamomokania.** Laloa haida be sibona noho, taudia amo heau, lalohisihisi, kwarana dekenai gaukara maragi, bona kamonaia totona lalona ia gaukara goada.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Kamona dika be ia vara momokani. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) ia gwau tau badadia toi lalonai ta be kamona dika ia abia, bona lagani ia daekau neganai risk ia bada.
 
-## What did the ACHIEVE hearing aid trial find?
+## ACHIEVE hearing aids sedina ai dahaka idia davaria?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE be hearing aids bona kognitiv dika dekenai sedina ginigunana ta. Ena ripoti haida be idia no hereva maoromaoro, unai dainai inai be [sedina ripoti](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) amo.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Daika idia vareai:** Tau 977, lagani 70 amo 84, kamona dika idia no haidaua bona kognitiv hekwakwanai bada lasi, US community gabudia hani.
+- **Dahaka idia hahegeregerea:** Taudia haida idia hearing aids bona audiologist ena counseling idia abia. Ma haida idia healthy aging dekenai health education program ta idia abia.
+- **Result badana:** Lagani toi murinai, group rua lalonai kognitiv dika dekenai **idau lasi**.
+- **Group maragina ena result:** Sedina ai taudia idia mai gabuna rua amo. Taudia 238 idia mai heart health sedi daudau ta (ARIC) amo, bona edia group ai kognitiv dika ena risk ia bada. Inai group ai, hearing aids ida dika be **48% maragi**. Community volunteer namodia 739 dekenai, anina maorona lasi.
 
-How to read this honestly:
+Ena anina oi kamonai maoromaoro dalana:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Ibounai ena haere be anina lasi.
+- Group maragina ena davana be sedina lalonai idia laloa guna, to ia mai group maragina ta ena secondary analysis amo. Sedina ma haida ese idia hamomokania be namo.
+- Taudia idia diba edia program be dahaka, inai ese result ia haidaua diba.
+- Lancet Commission ia itaia sedi inai ia hahedinaraia hearing aids be kamona dika bona dementia risk factor ma haida idia abia taudia dekenai idia durua bada.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Hereva dokona be hearing aids ese dementia ia taravatua diba, inai be idia no hamomokania. To idia durua taunimanima idia kamonai, hereva lalonai idia vareai, bona taudia ida idia hebou, unai dainai oi laloa diba.
 
-## How do I know if hearing should be checked?
+## Edana bamona ai kamona be check diba?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA ia gwau oi o tau oi naria tauna oi dokta ta oi itaia bema:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Telepono ai taunimanima edia hereva kamonai ia auka
+- Taunimanima rua o toi idia hereva hebou neganai hereva badinai ia auka
+- Nega daudau ai taudia oi noia idia hereva lou
+- TV ena volume oi abia isi, unai dainai ma taudia idia ura lasi
+- Regerege idia noho neganai hereva kamonai ia auka
+- Oi laloa taudia idia hereva diba lasi
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Primary care dokta ta amo oi hamatamaia, ia ese audiologist (kamona dokta) o taia, udu, bona gadona dokta ta dekenai ia siaia diba. Taia lalonai dika ia momo be kamona dika ena dala ta, dokta ese ia check diba. **Kamona ia dika haraga be medical emergency ta**, bona NIA ia gwau dokta ta oi itaia haraga.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Kamona dika be aonega bamona idia itaia diba. NIA ia gwau tau badadia haida kamona namo lasi dainai, taudia haida idia gwau idia be aonega, idia no haere, o idia no durua. Bema tau oi lalokau henia tauna ia heau o hereva ia no kamonai, kamona check be dala namo ta.
 
-## What are over-the-counter hearing aids?
+## Over-the-counter hearing aids be dahaka?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+2022 October 17 amo, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ia over-the-counter (OTC) hearing aids ena dala ta ia karaia. Inai be prescription hearing aids ida edia idau:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Gaukara | OTC hearing aids | Prescription hearing aids |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Daika totona | Tau bada lagani 18 bona ma murina, idia gwau edia kamona dika be maragi o namo namo | Kamona dika ibounai, lagani ibounai |
+| Edeseni oi abia | Stoa o online, check o prescription lasi | Kamona dokta ta ese ia henia |
+| Hagoadaia dalana | Oi sibona emu settings oi haidaua, app amo negana haida | Dokta ta ese emu kamona dekenai ia hagoadaia |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA ia gwau OTC hearing aids be kamona dika bada toana dekenai lasi. Ia gwau dokta ta, namona be taia, udu, bona gadona dokta ta, oi itaia guna bema oi hoia neganai, bema:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Taia dika o taia ai hemarai
+- Hua siks lalonai taia amo ranua, puru, o rara ia diho
+- Kamona ia haidaua haraga o ia haidaua lou lou
+- Taia ta ena kamona ia dika bada, o taia ta sibona ia regerege
+- Hetuturu o tano ia hegelegele
+- Taia lalonai dika ia momo bada
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Hearing aids oi gaukaralai be nega ia abia, unai dainai FDA ia gwau oi hoia neganai return policy oi itaia. NIA ia gwau emu insurance ese davana haida ia davara diba, a lasi, oi nanadaia. Bema tau oi naria tauna dementia ida ia noho, audiologist ta ese ia durua diba hearing aid edana bamona be dina ta ta ai ia hagoadaia diba.
 
-## How can I talk more easily with someone who has hearing loss?
+## Edana bamona ai kamona dika tauna ida hereva oi hagoadaia?
 
-The NIA suggests:
+NIA ia gwau:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Tauna ena vairana oi itaia bona mata ida oi hereva**, diari namo lalonai, ia ese emu uda bona vairana ia itaia diba.
+2. **Gabuna regerege ta oi abia.** TV oi haidaua mate o regerege gabuna amo oi lao.
+3. **Hereva oi hagoadaia maragi, to oi no boiboi.** Hereva namonamo o hereva, nega namo ida.
+4. **Emu uda oi hahelagaia.** Aniani, chewing gum, o uda oi no koua hereva neganai.
+5. **Bema ia no kamonai, hereva oi haidaua, oi no hereva lou.**
+6. **Taunimanima ta ta idia hereva.** Group lalonai, tauna oi haloaia ia vareai.
+7. **Oi heauka bona edena dala ai oi durua diba oi nanadaia.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Inai dala be [dementia hereva daladia](/caregiving/communication-tips/) ida idia gaukara namonamo. Piksia amo gaukara ese kamona ena hekwakwanai ia hahererea. [Picture Pairs](/games/picture-pairs/) bona [Conversation Cards](/games/conversation-cards/) be oi itaia gaudia amo idia gaukara, bona [Finish the Saying](/games/finish-the-saying/) ai hereva dokona oi hahedinaraia diba, oi no hereva. Telepono hereva totona, [telepono bona video hereva](/activities/phone-and-video-calls/) ena peji oi itaia.
 
-## Vision matters too
+## Mata danu mai anina
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 ai Lancet Commission ia mata dika idia no haidaua be risk factor matamata ta ai ia atoa. UCL ena hahedinaraia ia gwau ia be dementia ena 2% bamona, bona Commission ia gwau mata hekwakwanai ena check bona haidaua daladia be taunimanima ibounai dekenai idia abia diba. [NIA ia gwau](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) lagani 60 murinai lagani ta ta o lagani rua rua ai dilated eye exam oi abia, bona glasses prescription danu oi check. Mata ena haidaua maragina ese keto ena risk ia abia isi diba.
 
-## Talk with a doctor
+## Dokta ida oi hereva
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Bema inai badina haida oi itaia, dokta ta oi nanadaia kamona bona mata check totona. Kamona ia dika haraga, taia dika, o taia amo ranua ia diho neganai, dokta ta oi itaia haraga. Bema tau oi naria tauna dementia ida ia noho, ena dokta dekenai kamona o mata ena haidaua oi gwauraia, badina be lalona, nogutai noho, bona tauna ia vareai dalana ia haidaua diba.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Inai peji be sivarai bada, medical advice lasi. Emu [medical disclaimer](/medical-disclaimer/) oi itaia. [Taudia ida hebou bona kwarana ena namo](/brain-health/social-connection/) dekenai oi dibaia diba.

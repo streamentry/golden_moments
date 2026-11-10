@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Aktivite pou demans nan etap mwayen"
+seoTitle: "Aktivite demans nan etap mwayen: Ide senp"
+description: "Aktivite senp pou demans nan etap mwayen: ti travay itil, mizik, foto ak jwèt fasil, ak etap pou prepare yo ak fason pou chanje ajitasyon an yon bagay pou fè."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Nan etap mwayen demans lan, pi bon aktivite yo kout, abityèl, epi yo divize
+  an yon sèl etap alafwa: pliye rad, matche chosèt, lave asyèt, chante,
+  mache ak yon moun ki akonpaye ou, gade albòm foto ak jwèt senp ak foto.
+  Prepare tout bagay, montre premye etap la, pran pati ki pi difisil yo pou
+  ou, epi bay aktivite a yon objektif. Kanpe lè li pa fè plezi ankò.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Ti travay abityèl nan kay la souvan mache pi byen paske yo bay moun nan sans li itil epi li toujou yon granmoun."
+  - "Montre olye pou w eksplike, ofri yon sèl etap alafwa, epi bay de chwa senp olye pou w poze kesyon ouvè."
+  - "Pran pati ki pi difisil la pou ou, pou moun nan ka fè pati ki bay satisfaksyon an."
+  - "Konpòtman ajite souvan vle di moun nan bezwen yon bagay pou l fè. Ofri yon aktivite ki koresponn olye pou w di non."
+  - "Gade, ede yon ti kras, oswa kanpe pi bonè se bagay ki akseptab."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Ki aktivite ki bon pou demans nan etap mwayen?"
+    a: "Aktivite kout, abityèl, kote moun nan sèvi ak men li anjeneral mache pi byen: pliye sèvyèt, matche chosèt, lave asyèt, mete tab la, chante ansanm sou vye chante yo renmen, mache ak yon moun ki akonpaye yo, gade albòm foto ak jwèt senp ak foto. Divize chak aktivite an yon sèl etap alafwa epi fè l ansanm."
+  - q: "Kijan pou mwen ede yon moun k ap viv ak demans kòmanse yon aktivite?"
+    a: "Prepare tout bagay davans, apre sa kòmanse aktivite a ou menm epi envite moun nan ede ou: ‘Èske ou ka ban m yon ti kout men ak sèvyèt sa yo?’ Anpil moun vle patisipe, men li ka difisil pou yo kòmanse. Montre premye etap la anjeneral mache pi byen pase eksplike li."
+  - q: "Kisa pou mwen fè lè moun nan ap fè menm bagay la anpil fwa?"
+    a: "Repete souvan pa danjere, epi li ka montre moun nan vle santi l okipe oswa li bezwen rekonfò. Olye pou w korije l, ofri yon aktivite ki koresponn ak mouvman an, tankou yon panye twal pou pliye oswa yon chante pou nou chante ansanm."
+  - q: "E si moun nan fè aktivite a mal?"
+    a: "Si sa pa danjere, kite l konsa. Sèvyèt ki pliye yon lòt jan oswa kiyè ki pa nan bon plas la pa enpòtan. Lè w korije l, sa ka santi tankou kritik. Men lè w kite l fè l jan pa l, sa ede l santi l kapab epi itil."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Etap mwayen demans lan souvan se etap ki dire pi lontan, epi se nan moman sa a aktivite yo kòmanse mande plis sipò. Mo yo vin pi difisil pou jwenn, etap yo melanje, epi kòmanse nenpòt bagay ka santi l difisil. Men, anvi pou santi w itil epi patisipe anjeneral rete. Avèk yon ti preparasyon, yon moun k ap viv ak demans nan etap mwayen ka toujou pran plezi nan anpil bagay, sitou ti travay abityèl, mizik ak foto lè nou fè yo ansanm, kòt a kòt.
 
-## What activities work well in middle-stage dementia?
+## Ki aktivite ki mache byen nan etap mwayen demans lan?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Aktivite kout, abityèl, kote moun nan sèvi ak men li epi ki divize an yon sèl etap alafwa se sa ki mache pi byen. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) di ou pa bezwen envante nouvo bagay pou fè: aktivite yo ka fè pati lavi chak jou, tankou prepare manje ansanm, jaden, tande mizik oswa ale fè yon ti mache.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) note moun ki nan etap sa a souvan gen yon gwo bezwen pou yo santi yo gen yon objektif oswa pou yo pran swen yon bagay, epi yo bezwen èd pou kòmanse oswa kontinye aktivite yo. Lis li bay pou etap mwayen an gen ladan pliye rad, lave asyèt, matche chosèt, fè egzèsis fasil, danse sou mizik abityèl, mache ak yon moun ki akonpaye yo, chante ansanm, fè penti senp epi gade albòm foto.
 
-## How do you set up an activity so it works?
+## Kijan pou w prepare yon aktivite pou li mache byen?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Anpil fwa, se preparasyon an ki fè yon aktivite reyisi oswa echwe. Abitid sa yo, ki soti nan [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ak [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), ka fè pi gwo diferans lan:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Degaje espas la.** Fèmen televizyon an, fèmen pòt la, epi mete deyò sèlman bagay aktivite a bezwen.
+2. **Kòmanse ou menm.** Kòmanse pliye oswa brase, epi envite moun nan antre ladan l: « Èske ou ka ede m ak sa a? »
+3. **Montre, apre sa tann.** Montre yon sèl etap. Montre ak dwèt ou oswa gide men moun nan, pa egzanp montre ki kote pou mete asyèt la.
+4. **Bay yon sèl etap alafwa.** « Pliye l an de » pi fasil pase « pliye tout sa yo epi anpile yo selon koulè ».
+5. **Bay de chwa, pa kesyon ouvè.** « Sèvyèt ble yo oswa sèvyèt blan yo? » pi fasil pou reponn pase « Kisa ou vle fè? »
+6. **Fè pati ki pi difisil la ou menm.** Ou mezire, moun nan brase. Ou pase fil nan zegui a, moun nan woule fil la.
+7. **Bay aktivite a yon rezon.** « Nap sèvi ak napkin sa yo pou dine dimanch » fè travay la santi l reyèl.
+8. **Kite moun nan gade si li pito sa.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fè remake gade sèlman ka agreyab tou.
 
-## Activity ideas for the middle stage
+## Ide aktivite pou etap mwayen an
 
-### Useful jobs
+### Ti travay itil
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Pliye sèvyèt ak ti twal.** Ti bagay ki plat yo pi fasil. Yon panye ti twal cho ka pliye, lis, epi pliye ankò.
+- **Matche chosèt.** Kòmanse ak kèk pè ki byen diferan. Triye yo sèlman selon koulè a bon tou.
+- **Lave oswa siye asyèt ki pa ka kase.** Dlo tyèd ak savon dous sou men yo. Siye asyèt yo pandan w chita pi fasil pou janm yo.
+- **Mete tab la.** Bay yon sèl kalite bagay alafwa, epi mete yon plas ou menm kòm modèl.
+- **Ede prepare manje.** Lave pòmdetè, chire lètiz oswa brase yon bòl. Ou okipe kouto ak chalè.
+- **Bale, souke pousyè oswa siye.** Yon twal pou tab la, yon bale lejè pou galri a.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Gade [travay nan kay la](/activities/household-tasks/) pou jwenn plis ide.
 
-### Music and movement
+### Mizik ak mouvman
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Chante vye chante yo renmen.** Kòmanse chante ou menm; anpil moun vin chante ansanm sou chante yo konnen depi plizyè dizèn ane. Gade [aktivite ak mizik](/activities/music/).
+- **Danse lib.** Balanse kò w, bat men, oswa deplase jan ou santi w alèz. Fè l pandan w chita bon tou.
+- **Voye yon balon alantou.** Li deplase dousman epi li fasil pou kenbe, menm lè w chita sou yon chèz.
+- **Fè yon ti mache ak yon moun ki akonpaye ou.** Mache ansanm sou yon ti trajè kout epi abityèl, bra anba bra si sa ede.
 
-### Pictures and stories
+### Foto ak istwa
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Gade yon albòm foto.** Fè kòmantè sou sa ou wè olye pou w poze kesyon: « Gade machin sa a. Di m yon ti bagay sou li. » Gade [aktivite pou sonje](/activities/reminiscence/).
+- **Sèvi ak kat konvèsasyon.** [Kat konvèsasyon](/games/conversation-cards/) mete yon foto ansanm ak yon ti kesyon ouvè, san kesyon pou teste memwa.
+- **Gade yon vye fim ansanm.** Chwazi youn ki abityèl, rete toupre, epi fè poz lè sa nesesè.
 
-### Simple, pressure-free games
+### Jwèt senp, san presyon
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Pè foto ak foto yo vizib.** [Pè foto](/games/picture-pairs/) kite foto yo rete vizib, kidonk se remake ou remake, pa sonje.
+- **Jwenn menm foto a.** [Jwenn menm foto a](/games/find-the-same/) montre yon foto ak sèlman de a kat chwa.
+- **Triye ansanm.** [Triye ansanm](/games/sort-together/) sanble ak triye rad sou ekran an: touche yon foto, apre sa touche panye li.
+- **Bingo foto.** [Bingo foto](/games/picture-bingo/) mache byen pou rasanbleman fanmi ak gwoup.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Si yon jwèt kòmanse lakòz fristrasyon, kanpe epi fè yon lòt bagay. Gade [kijan pou jwe ansanm](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Chanje ajitasyon an yon aktivite
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Konpòtman ajite oswa repetitif souvan gen yon rezon. Family Caregiver Alliance fè remake yon moun ki kontinye vide yon klozèt ka ap eseye satisfè yon bezwen pou l santi l okipe epi itil. Alzheimer's Association sijere pou w oryante enèji sa a nan yon aktivite ki koresponn, olye pou w eseye kanpe l.
 
-| What you see | Something to offer |
+| Sa ou wè | Yon bagay ou ka ofri |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Fwote oswa grate tab la | Yon twal mouye epi yon demann pou siye tab la |
+| Pye ki pa ka rete trankil oswa ki ap tape | Mizik ak yon ritm klè pou tape men oswa pye ansanm |
+| Vide tiwa oswa klozèt | Yon panye rad oswa ti twal pou pliye epi triye |
+| Poze menm kesyon an plizyè fwa | Rekonfò, apre sa yon chante oswa yon ti travay pou nou fè ansanm |
+| Mache ale vini | Yon ti mache ansanm, oswa yon travay ki mande pou pote bagay |
+| Malèz nan fen apremidi | Yon travay kalm ak abityèl nan yon bon limyè; gade [ajitasyon nan fen jounen an](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Kilè pou kanpe oswa chanje direksyon
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Kanpe lè ou wè siy fatig, fristrasyon, jenn, oswa annwi, tankou bouje san rete, fronse sousi, pouse bagay sou kote, oswa di « Mwen pa kapab ». Alzheimer's Association sijere eseye ankò nan yon lòt moman nan jounen an oswa fè aktivite a pi senp. Pa fòse l. Lè yon moun refize, sa ka soti nan laperèz oswa paske travay la twò difisil; gade [lè moun nan di non](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Fini pi bonè pa gen pwoblèm. Chita ansanm ak yon tas te se bon tou. Lè kapasite yo kontinye chanje, ide ki nan [aktivite pou etap avanse](/activities/late-stage/) ka pi bon, epi [101 aktivite](/activities/ideas/) gen anpil lòt ide pou eseye.

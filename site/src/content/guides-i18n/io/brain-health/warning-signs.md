@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Frua signi di dementeso e kande vizitar mediko"
+seoTitle: "Frua signi di dementeso e kande vizitar mediko"
+description: "Ofta frua signi di dementeso, quale li diferas de ordinara oldesko, traktebla kauzi di memor-problemi, e quale preparar vizito che mediko."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Memor-perdo qua perturbas la diala vivo, desfacileso pri familiara taski, konfuzo pri tempo o loko,
+  e chanji di humoro o judiko povas esar frua signi di dementeso. Multa altra standi, inkluzante
+  tiroideo-problemi, basa nivelo di vitamino B12, efekti di medikamenti, depreseso e dormo-problemi, povas kauzar
+  simila chanji. Nur qualifikita mediko povas facar diagnozo. Subita konfuzo bezonas urjanta sorgo.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Okazionala oblivo esas ofta dum oldesko; chanji qui perturbas la omnadiala vivo meritas kontrolo."
+  - "La Alzheimer's Association deskriptas 10 avertanta signi, singlu kun tipala chanjo ligita a oldesko por komparar."
+  - "Tiroideo-problemi, basa nivelo di vitamino B12, efekti di medikamenti, depreseso, infekti e dormo-problemi povas omna afektar la memoro, e kelki esas traktebla."
+  - "Nur qualifikita mediko povas diagnozar dementeso; enlinea quizi e su-probi ne povas."
+  - "Konfuzo qua aparas subite, dum hori o dii, povas esar deliro e bezonas urjanta medikal sorgo."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Kad oblivo esas normala parto di oldesko?"
+    a: "Kelkafoye yes. La National Institute on Aging dicas ke okazionale mispozar kozi o obliviar fakturo esas ordinare mikra oblivo ligita a oldesko. Dementeso ne esas normala parto di oldesko. Memor-problemi qui desfaciligas omnadiala taski quale veturar, uzar telefono o trovar la voyo a hemo meritas kontrolo da mediko."
+  - q: "Kad memor-problemi povas havar altra kauzo kam dementeso?"
+    a: "Yes. La National Institute on Aging listigas problemi di tiroideo, reni o hepato, efekti di medikamenti, depreseso e anksio, basa nivelo di vitamino B12, trouzo di alkoholo, dormo-problemi, infekti e kapo-vundi, inter altri. Kelki de ici povas plu-boneskar pos trakto, e to esas un motivo pro quo medikal kontrolo importas."
+  - q: "Kad me povas probar ulu por dementeso che hemo?"
+    a: "No. Nur qualifikita mediko povas diagnozar dementeso, uzante medikal historio, fizikal exameno, probi pri memoro e pensado, laboratoriala probi e kelkafoye cerebrala skani. Mem la kurta probi quin mediki uzas ne suficas sola por diagnozar dementeso."
+  - q: "Quon me devas facar se ulu subite divenas konfuza?"
+    a: "Serchez medikal helpo quik. Subita konfuzo povas esar deliro, quan la VA deskriptas kom medikal urjajo. Vokez la medikal sorganto di la persono quik o vokez 112, restez kun lu, e notez irga medikamenti quin lu prenas."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Remarkar chanji en vua propra memoro, o en la memoro di ulu quan vu amas, povas esar timiganta. Ica pagino povas helpar vu decidar kande fixigar vizito che mediko e quale preparar lo. Ol ne povas dicar a vu ka ulu havas dementeso. **Nur qualifikita mediko povas diagnozar dementeso**, e multa standi qui kauzas memor-problemi tute ne esas dementeso. Voluntez ne fidar enlinea quizi o su-probi.
 
-## What are the early signs of dementia?
+## Qui esas la frua signi di dementeso?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) deskriptas 10 frua signi. Ol komparas singlu kun tipala chanjo ligita a oldesko. Per nia propra vorti:
 
-| Sign worth checking | More typical with age |
+| Signo qua meritas kontrolo | Pli tipala dum oldesko |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Memor-perdo qua perturbas la diala vivo, tale ke on oblivias recenta eventi o demandas la sama kozo plufoye | Kelkafoye obliviar nomo o rendevuo e memorar lo pose |
+| Desfacileso por planar o solvar problemi, tale ke sequar familiara recepto o sorgar pri fakturi divenas desfacila | Okazionala eroro pri hemo-fakturi |
+| Desfacileso por finar familiara taski che hemo, che laboro o extere | Kelkafoye bezonar helpo pri ajusto di mikroondilo o pri enrejistrar televizion-programo |
+| Perdar la senso pri dati, sezoni o pri ube on esas | Erorar pri la dio di semano, pose trovar ol |
+| Nova desfacileso por judikar disti, lektar o distingar kolori | Vidala chanji pro katarakto |
+| Nova problemi pri vorti, tale ke on haltas meze di konverso o nomizas kozi per nekorekta nomo | Kelkafoye desfacileso por trovar la justa vorto |
+| Pozar kozi en stranja loki e ne povar retro-sequar la pazi | Kelkafoye mispozar kozi e trovar li per retro-sequar la pazi |
+| Mala judiko, exemple pri pekunio o personala sorgo | Facar okazionala mala decido |
+| Retretar su de hobbyi, laboro o sociala aktivesi | Kelkafoye ne sentar su inklinata irar a familiala o sociala evento |
+| Chanji di humoro o personaleso, tale ke on divenas konfuza, suspektoza, timema o anksioza | Havar fixa manieri por facar kozi e sentar su iritita kande rutino chanjas |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Un sola signo ne signifikas dementeso. La esencala kozo esas **chanjo de to quo esas normala por ta persono**, precipue se ol desfaciligas la omnadiala vivo.
 
-## How is normal aging different from dementia?
+## Quale normala oldesko diferas de dementeso?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+La [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) dicas ke multa olda adulti remarkas ke li memoras kozi plu lente, o ke li kelkafoye mispozas kozi o oblivias fakturo. Ico esas ordinare signi di mikra oblivo. **Dementeso ne esas normala parto di oldesko.** Serioza memor-problemi desfaciligas omnadiala aktivesi, quale veturar, uzar telefono o trovar la voyo a hemo.
 
-The NIA suggests talking with a doctor if someone:
+La NIA sugestas parolar kun mediko se ulu:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Demandas la sama questioni plufoye
+- Perdas su en loki quin lu ante bone savis
+- Havas desfacileso por sequar recepti o direkti
+- Divenas plu konfuza pri tempo, personi e loki
+- Cesas sorgar pri su ipsa, exemple per mala nutrado, ne banyo o sen-sekura konduto
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Kelka personi havas **mikra kognala difekteso (MCI)**. To signifikas plu multa memor- o pensado-problemi kam altra personi di sama evo, dum ke la persono ankore sucesas administrar sua omnadiala vivo. La NIA dicas ke MCI povas esar frua signo di Alzheimer-morbo, ma ne omna personi kun MCI developas lo.
 
-## What else can cause memory problems?
+## Quo altra povas kauzar memor-problemi?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Multa kozi altra kam dementeso povas afektar la memoro, e kelki plu-boneskas kun trakto. La NIA listigas:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Problemi di tiroideo, reni o hepato**
+- **Efekti di medikamenti**
+- **Depreseso e anksio**
+- **Basa nivelo di vitamino B12** o nesuficanta nutrado
+- **Dormo-problemi**
+- **Trouzo di alkoholo o drogi**
+- **Infekti, sango-koaguli o tumori** en la cerebro
+- **Kapo-vundo**, exemple konkuso
+- **Granda streso o aflicto**, exemple retreto o perdo di spozo o spozino
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Problemi pri audado e vidado anke povas esar erore interpretata kom konfuzo; videz nia [guidilo pri audado](/brain-health/hearing/). Pro to medikal kontrolo importas. Segun la [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), mediki ofte petas sango-probi por kontrolar tiroideo-problemi, vitamino-manki e infekti. Anke bon [dormo](/brain-health/sleep/) e trakto di depreseso valoras mencionar.
 
-## Sudden confusion is an emergency
+## Subita konfuzo esas urjajo
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Konfuzo qua aparas rapide, dum hori o dii, bezonas urjanta medikal sorgo.** Ol povas esar deliro. La [VA deskriptas deliro](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) kom medikal urjajo e konsilas vokar la medikal sorganto di la persono quik o vokar 112. Signi inkluzas:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Chanjanta kapableso por pensar klare
+- Desfacileso por koncentresar atenco
+- Desorganizita pensado
+- Esar nekustumale dormema, o nekustumale sen-quieta e agitita
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+To povas eventar a irgu, inkluzante personi qui ja vivas kun dementeso. Segun la [NHS](https://www.nhs.uk/symptoms/confusion/), ofta kauzi inkluzas infekti (urin-voyala infekti esas ofta che olda personi e personi kun dementeso), apoplexio, basa sango-sukro che personi kun diabeto, kapo-vundo e kelka medikamenti. Dum ke vu vartas helpo, restez kun la persono e tranquilizez lu per kurta, simpla vorti. Ne questionez lu multe, e notez irga medikamenti quin lu prenas.
 
-## How do I prepare for the doctor's appointment?
+## Quale me preparas la vizito che mediko?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Bona vizito komencas per bona noti. La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) sugestas adportar:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Listo di chanji** pri memoro, humoro e konduto, kun specifika exempli e proxime kande li komencis
+2. **Pasinta e nuna san-problemi**, inkluzante irga familiala historio pri memor-problemi
+3. **Omna preskriptita e sen-preskripto medikamenti**
+4. **Irga vitamini o suplementi**
+5. **Vua questioni**, exemple pri qua probi esos facata, quante longe li duros e kande rezulti venos
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Anke helpas adportar familiano o amiko qua bone konocas la persono. La [NIA explikas](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) ke mediki povas questionar e la persono e familiano pri saneso, medikamenti, omnadiala aktivesi e chanji en konduto. Mediki anke povas:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Facar probi pri memoro, problemo-solvo, atenco, kalkulo e linguo
+- Petar probi di sango, urino ed altri por serchar altra kauzi
+- Kontrolar depreseso o altra mentala saneso-standi
+- Petar cerebrala skani quale CT o MRI
+- Referar a specialisto, exemple geriatriisto, neurologiisto, geriatriala psikiatriisto o neuropsikologiisto
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+La NIA notas ke kognala evaluo esas necesa parto di la Medicare Annual Wellness Visit, quo povas esar naturala momento por mencionar inquieti. Mem la kurta probi quin mediki uzas ne suficas sola por diagnozar dementeso. Li esas unesma pazo ad plu kompleta evaluo, e diagnozo povas postular plu kam un vizito. La NIA konsilas ke personi kun memor-problemi retro-irez a mediko singla 6 til 12 monati.
 
-## Raising the subject kindly
+## Parolar pri la temo kun afableso
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Se vu inquietesas pri altru, selektez kalma, privata momento. Parolez pri specifika kozi quin vu remarkis, prezentez li kom zorgo pri lua saneso, ne kom kritiko. Sugestar generala saneso-kontrolo povas semblar min timiganta. Inkluzez la persono en decidi e parolez a lu kom l'adulto quan lu esas. Nia [konsili pri komunikado](/caregiving/communication-tips/) povas helpar.
 
-## Talk with a doctor
+## Parolez kun mediko
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Se vu remarkas chanji pri memoro, pensado, humoro o omnadiala kapablesi qui esas nova e qui duras, fixigez vizito che primaria sorgo-mediko. Por subita konfuzo, vokez 112 o la medikal sorganto di la persono quik. Kontrolo frue signifikas ke traktebla kauzi povas esar trovata e, se to esas dementeso, esas plu multa tempo por planar e trovar suporto. Anke sorgas pri vu ipsa dum ico; videz nia [guidilo pri su-sorgo por sorganti](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ica pagino esas generala informo, ne medikal konsilo. Videz nia [medikal des-agnosko](/medical-disclaimer/).

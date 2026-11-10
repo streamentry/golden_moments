@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND eta dieta mediterraneoa eta dementzia: ikerketak dioena"
+seoTitle: "MIND dieta eta dementzia: ikerketak dioena"
+description: "MIND eta dieta mediterraneoari buruzko ikerketak, 2023ko saiakuntza baten emaitzak eta dementzia duen pertsona batek ondo jateko aholkuak."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Denboran zehar pertsonak jarraitzen dituzten zenbait ikerketek lotura ikusi
+  dute dieta mediterraneoaren edo MIND dietaren eta dementzia-arrisku txikiagoaren
+  artean, baina ez beti. 2023an argitaratutako hiru urteko ausazko saiakuntza
+  batean, MIND dietak ez zuen alde nabarmenik erakutsi kontrol-dietarekin
+  alderatuta pentsamendu-probetan edo garuneko irudietan. Ez dago dementzia
+  prebenitzen duen elikagai edo osagarririk frogatuta. Dementziarekin bizi diren
+  pertsonentzat, gehienetan garrantzitsuena nahikoa jan eta edatea da.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Denboran zehar pertsonak jarraitzen dituzten ikerketa batzuetan, baina ez guztietan, dieta mediterraneoa eta MIND dieta dementzia-arrisku txikiagoarekin lotu dira."
+  - "604 heldu zaharragorekin egindako 2023ko saiakuntza batean, MIND dieta egin zutenek ez zuten emaitza hoberik lortu pentsamendu-probetan edo garuneko irudietan kontrol-dieta egin zutenek baino, hiru urteren ondoren."
+  - "National Institute on Aging erakundeak dio ez dagoela frogarik elikagai jakin bat jateak edo saihesteak Alzheimerraren aurka babes dezakeela erakusteko, eta ez dagoela bitamina edo osagarririk frogatuta Alzheimerraren aurka babesteko."
+  - "Barazki, fruta, lekale, ale oso eta arrainetan aberatsa den dietak bihotzaren osasuna babesten lagun dezake, eta baliteke tentsio altua edo diabetesa bezalako arrisku-faktoreetan laguntzea."
+  - "Dementziarekin bizi diren pertsonentzat, askotan garrantzitsuagoak dira eskuekin jateko elikagaiak, plater kontrastatuak, otordu lasaiak eta edari erregularrak edozein dieta jakin baino."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "MIND dietak dementzia prebenitzen al du?"
+    a: "Ez da frogatu hala egiten duenik. Behaketa-ikerketek MIND dieta arrisku txikiagoarekin lotu zuten, baina 2023an argitaratutako hiru urteko ausazko saiakuntza batean ez zen alde nabarmenik aurkitu MIND dieta egin zutenen eta kontrol-dieta egin zutenen artean, ez pentsamendu-probetan ez garuneko irudietan. Bi taldeek apur bat hobetu zuten, eta antzeko pisua galdu zuten."
+  - q: "Zein da MIND dietaren eta dieta mediterraneoaren arteko aldea?"
+    a: "Dieta mediterraneoak barazkiak, fruta, ale osoak, lekaleak, arraina eta oliba-olioa lehenesten ditu, eta haragi gorri edo gozoki gutxi. MIND dietak dieta mediterraneoa eta tentsio arteriala kontrolatzeko DASH dieta uztartzen ditu; barazki berde hostodunak eta baiak nabarmentzen ditu, eta haragi gorria, gozokiak, gazta, gurina eta janari frijituak mugatzen ditu."
+  - q: "Ba al dago Alzheimerraren aurka babesten duen elikagairik edo osagarririk?"
+    a: "Ez. National Institute on Aging erakundeak dio ez dagoela frogarik elikagai jakin bat jateak edo saihesteak Alzheimerra edo adinarekin lotutako gainbehera kognitiboa prebenitu dezakeela erakusteko, eta ez dagoela bitamina edo osagarririk frogatuta Alzheimerraren aurka babesteko. Hitz egin medikuarekin osagarriak hartu aurretik."
+  - q: "Zein elikagai dira errazenak dementzia duen pertsona batentzat?"
+    a: "Eskuekin erraz hartzeko mokadu txikiak, hala nola ogitarteko zatiak, oilasko zatiak, laranja atalak edo lurrunetan egindako barazki zatiak, askotan errazagoak dira mahai-tresnak erabiltzea baino. Mastekatzea edo irenstea zaila bada, elikagai bigunek lagun dezakete, adibidez arrautza nahasiak, sagar-konpota edo gaztanbera. Eztula edo atragantamenduak gertatzen badira, galdetu medikuari irensteko ebaluazio bat egitea komeni den."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,91 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Agian irakurri duzu garunarentzat ona den dieta batek Alzheimerra urrun mantendu dezakeela. Benetako irudia apalagoa da. Denboran zehar pertsonak jarraitzen dituzten ikerketa batzuetan, zenbait elikadura-eredu arrisku txikiagoarekin lotu dira, baina orain arteko saiakuntzarik onenak ez du onura argirik aurkitu. Orrialde honetan bi aldeak azaltzen dira, eta ondoren, dementziarekin bizi den pertsona batentzat gehienetan garrantzitsuena den horretara jotzen dugu: nahikoa jan eta edatea, eta hori atsegin izatea.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Informazio orokorra da hau, ez aholku medikoa. Hitz egin medikuarekin edo dietista batekin zure dieta edo beste norbaitena aldatu aurretik. Ikus gure [lege-oharra medikuari buruz](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Zer dira dieta mediterraneoa eta MIND dieta?
 
-The National Institute on Aging (NIA) describes them this way
+National Institute on Aging (NIA) erakundeak honela deskribatzen ditu
 ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Dieta mediterraneoa:** fruta, barazki, ale oso, lekale, arrain eta itsaski ugari, eta oliba-olioa; haragi gorri, arrautza eta gozoki gutxi.
+- **MIND dieta** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  dieta mediterraneoaren eta tentsio arteriala kontrolatzeko DASH dietaren nahasketa bat da. Barazkiak (bereziki berde hostodunak), baiak, ale osoak, lekaleak, fruitu lehorrak, astean gutxienez behin arraina eta oliba-olioa lehenesten ditu. Haragi gorria, gozokiak, gazta, gurina edo margarina, eta janari frijitu edo azkarrak mugatzen ditu.
 
-## Do these diets lower dementia risk?
+## Dieta hauek dementzia-arriskua murrizten al dute?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Frogak ez dira argiak. NIAk dio behaketa-ikerketa batzuetan, baina ez guztietan, dieta mediterraneoa eta MIND dieta dementzia-arrisku txikiagoarekin lotu direla mendebaldeko estiloko dietekin alderatuta; azken horiek haragi gorri, gantz ase eta azukre gehiago izaten dute.
 
-The 2024 Lancet Commission reviewed the research in more detail
+2024ko Lancet Commission txostenak ikerketak xehetasun handiagoz aztertu zituen
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Kohorte-ikerketen berrikuspen batek lotura ikusi zuen dieta-kalitate handiaren eta dementzia-arriskuaren % 20 inguruko murrizketaren artean.
+- Hiru kohorterekin egindako azterketa handiago batek lotura ikusi zuen MIND dietari gehiago atxikitzearen eta arrisku txikiagoaren artean.
+- Baina Suedian egindako ikerketa batek 28.025 heldu jarraitu zituen 20 urtez inguru, eta ez zuen arrisku txikiagorik aurkitu, ez gomendatutako dietekin ez dieta mediterraneo estilokoarekin.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Behaketa-ikerketek ezin dute kausa-ondorio harremana frogatu. Horrela jaten duten pertsonek beste ezaugarri batzuk ere izan ohi dituzte, hala nola diru-sarrerak, hezkuntza-maila, ariketa fisikoa edo osasun-zerbitzuetarako sarbidea. Batzordeak ondorioztatu zuen ez dagoela nahikoa frogarik dieta osasungarriek zuzenean dementzia prebenitzen dutela esateko, nahiz eta fruta eta barazki ugari jatea eta ultraprozesatutako elikagai gutxiago jatea ona izan osasun-arazo askotarako, eta obesitatea, diabetesa eta tentsio arterial altua bezalako arrisku-faktoreetan eragin dezakeen. Batzordeak ez zuen dieta gehitu bere [14 arrisku-faktoreen](/brain-health/risk-factors/) zerrendara.
 
-## What did the 2023 MIND diet trial find?
+## Zer aurkitu zuen 2023ko MIND dietaren saiakuntzak?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
+Orain arteko proba sendoena New England Journal of Medicine aldizkarian 2023an argitaratutako ausazko saiakuntza bat izan zen
 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Nor:** Chicagoko eta Bostongo inguruko 65 urteko edo gehiagoko 604 heldu, pentsamendu-arazorik gabeak, dementzia zuen senide hurbil bat zutenak, gehiegizko pisua zutenak, eta hasieran dieta ez hain osasungarria zutenak.
+- **Zer:** hiru urtez, erdiak MIND dieta jarraitu zuen eta beste erdiak bere ohiko dieta. Bi taldeei eskatu zitzaien egunean 250 kaloria gutxiago jatea gutxi gorabehera, eta dietista tituludunen jarraipen erregularra jaso zuten.
+- **Emaitza:** pentsamendu-proben emaitzak apur bat hobetu ziren **bi** taldeetan. Taldeen arteko aldea txikia izan zen eta **ez zen estatistikoki nabarmena**. Garuneko irudiek ere antzeko aldaketak erakutsi zituzten bi taldeetan.
+- **Pisua:** bi taldeek 5 kilogramo inguru galdu zituzten (11 libra inguru).
 
-### Why might the trial have found no difference?
+### Zergatik ez zen alderik aurkitu saiakuntzan?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Ikertzaileek hainbat arrazoi proposatu zituzten. Baliteke kontrol-taldeak ere bere dieta hobetu izana, antzeko pisua galdu baitzuen. Probak errepikatzeak, berez, emaitzak hobetu ditzake, pertsonak probetara ohitzen direlako. Hiru urte denbora laburregia izan daiteke. Parte-hartzaile gehienak ikasketa-maila handikoak eta jatorri europarrekoak ziren; beraz, baliteke emaitzak denei ez aplikatzea.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Labur esanda: hiru urteren buruan, MIND dietak ez zuen emaitza hoberik eman kaloriak pixka bat murrizten zituen dieta zentzuzko batekin alderatuta. Horrek ez du esan nahi ondo jatea alferrikakoa denik. Esan nahi duena da ez dela espero behar dieta jakin batek dementzia prebenituko duenik.
 
-## What about specific foods and supplements?
+## Zer gertatzen da elikagai eta osagarri jakinekin?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
+NIAk dio ez dagoela frogarik elikagai jakin bat jateak edo saihesteak Alzheimerra edo adinarekin lotutako gainbehera kognitiboa prebenitu dezakeela erakusteko. Ahabia urdinak, hosto berdeak eta kurkuma aztertu egin dira, baina ez dago horren frogarik. NIAk dio, halaber, ez dagoela bitamina edo osagarririk frogatuta Alzheimerraren aurka babesteko, eta ez dela horretarako gomendatzen. NIAk ohartarazten du Alzheimerra prebenitzeko saltzen diren frogatu gabeko produktuak ez seguruak izan daitezkeela, dirua alferrik galtzea, edo biak, eta agindutako sendagaiekin interferitu dezaketela; beraz, kontsultatu medikuarekin edozer probatu aurretik
 ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Nola izan daiteke elikadura osasungarria eta atsegina?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Heldu gehienentzat, helburua elikagai elikagarriak, ezagunak eta atseginak jatea da, ez plan zorrotz bat jarraitzea:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Prestatu otorduak gustuko dituzun elikagaiekin**, dieta mediterraneoaren eredutik hartuta: barazkiak, fruta, lekaleak, ale osoak, arraina eta oliba-olioa.
+- **Mantendu gustuko dituzun gozoak.** Gozatzea eta gosea garrantzitsuak dira, batez ere adinean aurrera egin ahala.
+- **Jan besteekin** ahal duzunean. Elkarrekin jatea une atsegina izan daiteke.
+- **Sukaldatu elkarrekin.** Barazkiak garbitzea edo lapiko batean eragitea elkarrekin egiteko jarduera ona da; ikus [etxeko lanak](/activities/household-tasks/). Familiako errezeta gogoko batek ere [oroitzapenak](/activities/reminiscence/) piztu ditzake.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Heldu helduek ez lukete kaloriarik murriztu edo pisurik galdu behar medikuarekin hitz egin gabe, eta barauak arrisku gehiago izan ditzake. Ikus gure [barauari buruzko gida](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Nola lagun diezaiokezu dementzia duen pertsona bati ondo jaten?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
+Dementziarekin bizi diren pertsonentzat, gehienetan kezka nagusia **nahikoa** jan eta edatea da. Alzheimer's Association erakundeak dioenez, baliteke pertsona batzuek jatea ahaztea, jada jan dutela pentsatzea edo aukeren aurrean gainezka sentitzea; gainera, elikadura eskasak jokabide-sintomak areagotu eta pisu-galera eragin ditzake
 ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Ideia hauek Alzheimer's Association, NIA eta Alzheimer's Society erakundeetatik datoz:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
+1. **Eskaini eskuekin jateko elikagaiak.** Erraz hartzeko mokadu txikiek, hala nola ogitarteko zatiek, oilasko zatiek, arrain makilatxoek, laranja atalek edo brokoli lurrunduek, mahai-tresnak erabili gabe jaten lagun dezakete.
+2. **Erabili kontrastea mahaian.** Ikusmen-aldaketek zaila egin dezakete janaria plateretik bereiztea. Plater edo katilu zuriak azpiko kontrastatu baten gainean jartzeak lagun dezake. Saihestu marrazkidun platerak eta mahai-zapiak.
+3. **Zerbitzatu elikagai bat edo bi aldi berean.** Plater bete batek gainezka senti araz dezake.
+4. **Mantendu otorduak lasai.** Itzali telebista, mantendu mahaia sinple, eta eman denbora nahikoa. NIAk gomendatzen du ez presarik ezta bultzadarik ez egitea.
+5. **Eskaini otordu txikiak eta askariak maiz.** NIAk otordu txikiagoak eta maizagoak, eta kaloria gehiago duten askariak iradokitzen ditu, pertsona nahikoa jaten ez badu
    ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+6. **Lagundu edaten.** Eskaini ur-kikara txikiak edo beste edari batzuk egunean zehar, eta ur asko duten elikagaiak, hala nola fruta, zopa, esne-irabiakiak eta fruta-irabiakiak. Pertsonak urik nahi ez badu, NIAk iradokitzen du zukua, zaporedun ura, salda, esnea edo kafeina gabeko kafea edo tea probatzea.
+7. **Egiaztatu tenperatura.** Baliteke pertsonak ez konturatzea janaria edo edaria beroegi dagoela.
+8. **Egokitu mahai-tresnak eta edalontziak.** Plateren ordez katiluak erabiltzeak, helduleku handiko koilarek erabiltzeak eta tapoidun edalontziek jatea errazago egin dezakete. Ez kezkatu garbitasunaz.
+9. **Erraztu janaria mastekatzea eta irenstea.** Moztu janaria zati txikitan edo eskaini elikagai bigunak. Pertsonak eztul egiten badu edo atragantatzen bada jatean, esan medikuari.
+10. **Saihestu behartuta elikatzea.** NIAk dioenez, Alzheimerraren fase aurreratuetan gosea naturalki gutxitu ohi da.
 
-### Signs to tell the doctor about
+### Medikuari jakinarazi beharreko seinaleak
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
+Pisu-galera, janariari uko egitea, nekea edo ahultasuna pertsona bat nahikoa jaten ari ez den seinaleak izan daitezke. Alzheimer's Society erakundeak dio hortz edo hortz-protesi minek, depresioak, idorreriak eta sendagaien aldaketek ere gosea murriztu dezaketela
 ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
+NIAk deshidratazioaren seinale gisa aipatzen ditu aho lehorra, zorabioak, bihotz-taupada azkarrak eta haluzinazioak
 ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Hitz egin medikuarekin
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Zure dietan edo beste norbaitenean aldaketa handiak egin aurretik, hitz egin medikuarekin edo dietista batekin, batez ere diabetesa, giltzurruneko gaixotasuna, irensteko arazoak edo azkenaldiko pisu-galera badago. Dementziarekin bizi den pertsona baten kasuan, galdetu zenbat jan eta edan beharko lukeen egunean, eta ea dietista batek edo osagarriren batek lagun dezakeen.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Eskatu laguntza berehala norbait atragantatzen bada, edo bat-bateko nahasmena, zorabio larria edo konortea galtzea baditu.

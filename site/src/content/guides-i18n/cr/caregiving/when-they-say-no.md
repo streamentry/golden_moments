@@ -1,34 +1,29 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "ᑳ ᐊᐘ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ ᐁ ᐊᔭᐘᐟ ᐁᑿ ᒣᑕᐍᐟ ᓇᐣᑕ ᐁ ᓀᐢᑕᐚᐯᐟ"
+seoTitle: "ᑳ ᐊᐘ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ ᐁ ᐊᔭᐘᐟ ᒣᑕᐍᐟ ᒦᑕᐦᑖᐏᐣ"
+description: "ᑖᓂᐦᐁ ᐊᐘ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ ᐁ ᐊᔭᐘᐟ ᑳ ᒣᑕᐍᐟ ᓇᐣᑕ ᑳ ᓀᐢᑕᐚᐯᐟ ᒦᑕᐦᑖᐏᐣ, ᑭᓄᐍᐦ ᑲ ᑯᒋᐦᑖᔭᐣ, ᑭᓄᐍᐦ ᐁᑿ ᒣᒋᐦᐃᐏᓂᐠ ᑳ ᓇᑕᐍᔭᐦᑯᐢᐃᐟ."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  ᑳ ᐊᐘ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ ᐁ ᐊᔭᐘᐟ ᒧᔭ ᐁ ᐃᑘᐟ, ᓇᐦᑕ ᐸᐦᐱᔭᐤ ᑖᐱᐢᑯᐨ ᒥᓇ ᑭᓄᐍᐦ ᑯᒋᐦᑖ ᒥᓇ ᑭᓄᐍᐦ ᐠᐦᑌᑖ. ᒧᔭ ᐁ ᐃᑌᐟ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ: ᒦᑕᐦᑖᐏᐣ ᐊᔭᐦᑯᐏᐣ ᐃᑌᐦᑕᒧᐤ, ᐊᐘᓯᓯᐏᐣ ᐃᑌᐦᑕᒧᐤ, ᓀᐢᑕᐤ, ᐊᐦᑯᓯᐤ, ᓄᐦᑌ ᑲᑕᐤ, ᓇᐣᑕ ᒥᐢᑕᐦᐃ ᐊᔭᐤ ᐊᔨᐦᐃ. ᐁᑿ ᓇᑲᒧ, ᐁᑿ ᓵᑭᐦᐊ. ᐍᐦᔭᐢ ᐃᓯ ᒦᑕ, ᓃᓱ ᐊᔨᐦᐃ ᓇᑕᐍᐦ, ᓇᐣᑕ ᐏᒋᐦᐃᐍᐏᐣ ᑲᑲᐍᒋᒥᐦ. ᐁᑿ ᑭᑿᔭ ᐃᑌ, ᐁᑿ ᓵᑭᐦᐊ, ᐁᑿ ᑲᑲᐍᒋᒥᐦ ᓇᐣᑕ ᐁᑿ ᑯᐢᑭᒧᐦ. ᑫᐦᑫᓯᐤ ᓇᐣᑕ ᓴᒥᓇᐦᐃ ᐃᑌᐦᑕᒧᐏᐣ ᐁ ᒥᐢᑯᐢᑭᐣ, ᒪᐘᒑᐨ ᐊᐦᑯᓯᐏᐣ ᐁ ᐊᔭᑭ ᓇᐣᑕ ᐅᐢᑭ ᒪᐢᑭᐦᑭ, ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᓴᒥᓇᐦᐃ ᑲ ᐚᐸᒥᐟ.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "« ᒧᔭ » ᑳ ᐃᑌᐟ ᑲ ᓇᐦᑕ ᒪᓇᒋᐦᑖᐟ, ᓇᒨᐘ ᑲ ᒪᐢᑭᐦᐊᐟ."
+  - "ᒧᔭ ᐁ ᐃᑌᐟ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ: ᐊᔭᐦᑯᐏᐣ, ᐊᐘᓯᓯᐏᐣ, ᓀᐢᑕᐏᐣ, ᐊᐦᑯᓯᐏᐣ, ᒧᔭ ᒥᔪ ᐁ ᐃᑖᐟ, ᓇᐣᑕ ᒥᐢᑕᐦᐃ ᐊᔨᐦᐃ."
+  - "ᐊᐢᑕᒼ ᐃᓯ, ᐯᐦᐅ, ᒥᓇ ᑭᓄᐍᐦ ᑯᒋᐦᑖ, ᑭᓄᐍᐦ ᐱᒧᐦᑌᐤ ᓇᐣᑕ, ᓇᐣᑕ ᐍᐦᔭᐢ ᐃᓯ ᒦᑕ."
+  - "ᐏᒋᐦᐃᐍᐏᐣ ᑲ ᑲᑲᐍᒋᒥᐦ ᒥᔪᐏᐣ ᐃᐢᐸᓂᐨ ᑲ ᑲᑲᐍᒋᒥᐦ ᑲ ᐃᑖᐟ."
+  - "ᐁᑿ ᑭᑿᔭ ᐃᑌ, ᐁᑿ ᓵᑭᐦᐊ, ᐁᑿ ᑲᑲᐍᒋᒥᐦ, ᐁᑿ ᑯᐢᑭᒧᐦ. ᑭᔭ ᑲᓄᐚᐸᒥᐢᐅ: ᑭ ᐍᐦᔭᑭᐸᓐ ᒋᒧᐨ ᓇᐣᑕ ᒋᓴᓯᐦᑲᐸᓐ ᒋᒧᐨ."
+  - "ᑫᐦᑫᓯᐤ ᓇᐣᑕ ᓴᒥᓇᐦᐃ ᐃᑌᐦᑕᒧᐏᐣ ᐁ ᒥᐢᑯᐢᑭᐣ, ᒪᐘᒑᐨ ᐊᐦᑯᓯᐏᐣ ᓇᐣᑕ ᐅᐢᑭ ᒪᐢᑭᐦᑭ ᐁ ᐊᔭᑭ, ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᓴᒥᓇᐦᐃ ᑲ ᐚᐸᒥᐟ."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "ᓇᒨᐘ ᒥᔪᐏᐣ ᑭᓯᐘᐠ ᒦᑕᐦᑖᐏᓇ ᒨᓱ ᐁᑿ ᑲ ᒦᑕᐟ?"
+    a: "ᐁᐦᐁ, ᐯᔭᐠ ᑮᓯᑳᐤ. ᒪᐘᐨ ᐁ ᐊᐱᔭᐠ, ᓂᑲᒧᐏᐣ ᐁ ᓇᑕᐦᑕᒪᐠ, ᓇᐣᑕ ᐊᐢᑭᕀ ᐁ ᑲᓄᐚᐸᑕᒪᐠ ᑖᐱᐢᑯᐨ ᑖᐱᐦᑕᒧᐤ. ᑮᓯᐘᐠ ᐊᐘ ᐯᔭᑯᐢᑭᓴᐠ ᒨᓱ ᐁᑿ ᐁ ᒥᔪᐚᐸᑕᐦᐠ ᑭᓄᐍᐦ, ᐏᐦᑕᒪᐤ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ, ᒪᐘᒑᐨ ᒧᔭ ᒥᔪ ᐁ ᐃᑖᐟ, ᐊᐦᑯᓯᐏᐣ, ᓇᐣᑕ ᑭᓄᐍᐦ ᐠᐦᑌ ᐊᐦᑯᓯᐏᐣ ᓇᑕ ᐊᔭᐤ."
+  - q: "ᑖᓂᐦᐁ ᑳ ᒣᑕᐍᐟ ᐊᔨᐦᐃ ᑳ ᒥᔪᐚᐸᑕᐦᐠ ᒥᐢᑿᐨ?"
+    a: "ᑳ ᒥᔪᐚᐸᑕᐦᐠ ᒥᐢᑿᐨ ᐊᔭᐦᑯᐏᐣ ᐃᑌᐦᑕᒧᐤ ᐁᑿ ᐊᔭᐦᑭ ᓇᐦᑖᐏᐏᓇ ᑳ ᐊᔭᐦᑯᐦᐃᑭ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ, ᒥᓇ ᐊᐘ ᓀᐢᑕᐚᐯᐤ ᓇᑕ ᐃᑌᐦᑕᒧᐤ. ᐍᐦᔭᐢ ᐯᔭᐠ ᐃᓯ ᒦᑕ, ᑖᐯᐢᑯᐨ ᐯᐦᑯᓯᓇ ᐁ ᐊᐱᐦᑕᐣ ᐁᑿ ᒣᑿᐨ ᐁ ᓇᐦᑖᐦᐃᑲᑌᐠ, ᓇᐣᑕ ᑲᓇᐚᐸᐦᑕᒧᐏᐣ ᒪᐢᑭᓯᓇ ᐁ ᑲᓄᐚᐸᑕᒪᐣ ᐁᑿ ᒣᒋᐦᐃᑫᐏᐣ ᐁ ᑲᐦᑭᐦᑖᐣ."
+  - q: "ᓇᑕ ᓇᑲᒧᒧᐤ ᒋᒧᐨ ᑲ ᒦᑕᐟ?"
+    a: "ᒧᔭ. ᐊᐘ ᑲ ᓵᑭᐦᐊᐟ ᑲ ᒦᑕᐟ ᐊᔨᐦᐃ ᑳ ᐊᔭᐦᑯᐦᐃᑭ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ ᓀᐢᑕᐚᐯᐏᐣ ᓇᑕ ᐅᐦᒋ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ. ᒪᓇᒋᐦᑖ ᒧᔭ ᐁ ᐃᑌᐟ, ᑭᓄᐍᐦ ᐊᔨᐦᐃ ᐋᔨᒥᐦᐊ, ᒥᓇ ᑭᓄᐍᐦ ᑯᒋᐦᑖ ᓇᐣᑕ ᐠᐦᑌᑖ ᓇᐣᑕ ᑭᓄᐍᐦ ᐃᓯ."
+  - q: "ᑖᓐᐦᐁ ᐃᑌᐦᑕᒧᐏᐣ ᐁ ᒥᐢᑯᐢᑭᐣ ᓴᒥᓇᐦᐃ ᐃᑌᐦᑕᒧᐤ?"
+    a: "ᒥᓵᐌ 911 ᑮᓯᐘᐠ ᐊᐘ ᐁ ᓇᓯᐚᓯᐟ ᓇᐣᑕ ᑳ ᓇᑲᐢᑲᑌᐠ ᓴᒥᓇᐦᐃ ᒥᒋᐦᐃᐏᐣ. ᑫᐦᑫᓯᐤ ᐁ ᓇᓈᐢᑯᓯᐟ ᓇᐣᑕ ᐃᑌᐦᑕᒧᐏᐣ ᑳ ᓴᒥᓇᐦᐃ ᒥᐢᑯᐢᑭᐣ ᐯᔭᐠ ᐱᒧᐦᑌᐘᐠ ᓇᐣᑕ ᑮᓯᑳᐘᐠ, ᒪᐘᒑᐨ ᑭᓯᓯᐘᓂᐏᐣ, ᐊᐦᑯᓯᐏᐣ ᓇᐣᑕ ᐅᐢᑭ ᒪᐢᑭᐦᑭ ᐁ ᐊᔭᑭ, ᓴᒥᓇᐦᐃ ᑲᑲᐍᒋᒥᐦ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +45,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+ᑭ ᑯᐢᑭᐦᑖᐣ ᑭᓄᐍᐦ, ᑭ ᓇᑕᐍᐦᐊᐤ ᒦᑕᐦᑖᐏᐣ ᓇᐣᑕ ᐸᒥᐦᑖᐏᐣ, ᒥᓇ ᑭ ᐯᐦᑕᐘᐤ « ᒧᔭ ». ᓇᐣᑕ ᒦᑕᐦᑖᐏᐣ ᒥᔪ ᒪᒋ ᐃᐢᐸᔨᐤ, ᒫᑲ ᐊᓯᐸᔨᐦᐃᑲᓐ ᒥᓇ ᐃᔨᓂᐤ ᓀᐢᑕᐚᐯᐤ. ᐁᑿ ᒧᔭ ᐁ ᐃᑖᐟ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ, ᓇᒨᐘ ᒧᔭ ᐁ ᐃᑌᐦᑕᒧᐟ. ᑮᓯᐘᐠ ᓂᐢᑯᐦᑕᒪᐣ ᑖᓂᐦᐁ ᐁᑿ, ᑭ ᑲ ᐚᐸᐦᑖᐣ ᑭᓄᐍᐦ ᑲ ᑯᒋᐦᑖᔭᐣ.
 
-## Why does someone with dementia refuse activities?
+## ᑖᓂᐦᐁ ᐊᐘ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ ᐁ ᐊᔭᐘᐟ ᑳ ᒣᑕᐍᐟ ᒦᑕᐦᑖᐏᓇ?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+ᒪᐢᑭᓇᐦᐊᒪᑲᐣ ᒪᐢᑭᓐ, ᒪᐢᑯᐨ ᐊᐘ ᐁᑿ ᑲ ᐃᑌᐟ ᐱᒋ ᐱᑯᐢᑫᐏᐣ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ᐃᑘᐤ ᒧᔭ ᐁ ᐃᑌᐟ ᐊᐘ ᐁᑿ ᑲ ᑭᐢᑭᐦᐊᐟ ᒦᑕᐦᑖᐏᐣ ᓇᐣᑕ ᐁ ᑯᐢᑕᐟ ᑲ ᑯᒋᐦᑖᐟ. ᐅᐦᐃ ᒪᐢᑭᓇᐦᐊᒪᑲᓇ:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **ᐊᔭᐦᑯᐏᐣ ᐃᑌᐦᑕᒧᐤ.** ᒦᑕᐦᑖᐏᐣ ᓇᐦᑖᐏᐏᓇ ᓇᑕᐍᔭᐦᑯᐤ ᑳ ᐊᔭᐦᑯᐦᐃᑭ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ, ᒥᓇ ᐁ ᐸᑳᐦᐃᐟ ᐊᐘ ᐁ ᑲᓄᐚᐸᒥᐟ ᓀᐢᑕᐚᐯᐏᐣ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ.
+- **ᐊᐘᓯᓯᐏᐣ ᐃᑌᐦᑕᒧᐤ.** ᐅᑭᒪᐘᐠ ᓂᐢᑯᐦᑕᒧᐘᐠ ᒪᐢᑭᓯᓇ ᐊᐘᓯᓯᐤ ᐁ ᐃᓯᓇᑯᓯᐠ, ᐱᑯᐢᑫᐏᓇ ᐊᐘᓯᓯᐤ ᐁ ᐃᑌᐦᑕᒧᑭ, ᒥᓇ ᒦᑕᐦᑖᐏᓇ ᐊᐘᓯᓯᐤ ᑳ ᐅᐢᒋᐦᐃᑲᑌᐠ.
+- **ᓀᐢᑕᐏᐣ.** ᒥᐢᑕᐦᐃ ᐊᐘᐠ ᓀᐢᑕᐘᐠ ᐅᑖᑯᓯᐤ. ᑲᓄᐚᐸᐦᑕᒧᐤ [ᐸᐦᐱᔭᐤ ᐅᑖᑯᓯᐤ ᒦᑕᐦᑖᐏᓇ](/caregiving/late-day-restlessness/).
+- **ᒧᔭ ᒥᔪ ᐁ ᐃᑖᐟ ᒥᔦᐤ.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ᐃᑘᐤ ᐊᐦᑯᓯᐏᐣ, ᒧᔭ ᒥᔪ ᐁ ᓂᐸᐟ, ᒧᔭ ᒥᔪ ᐁ ᐚᐸᐟ ᓇᐣᑕ ᐁ ᐯᐦᑕᐟ, ᒧᔭ ᒥᔪ ᐁ ᒥᓯᐟ, ᓄᐦᑌ ᑲᑕᐏᐣ, ᒥᓂᑿᑫᐏᐣ, ᒥᓇ ᐅᐢᑭ ᒪᐢᑭᐦᑭ ᓀᐢᑕᐚᐯᐏᐣ ᓇᑕ ᐅᐦᒋ ᒪᐢᑭᓇᐦᐊᒪᑲᓇ.
+- **ᒥᐢᑕᐦᐃ ᐊᔨᐦᐃ.** ᑭᐦᑌ ᐁ ᒪᑕᐍᐦᑭᐠ, ᒥᐢᑕᐦᐃ ᐊᐘᐠ ᐁ ᐱᑯᐢᑫᐟ, ᓇᐣᑕ ᒥᐢᑕᐦᐃ ᐊᐘᐠ ᐯᔭᐠ ᐚᐢᑲᐦᐃᑲᓂᕽ ᒥᐢᑕᐦᐃ ᐃᑌᐦᑕᒧᐤ.
+- **ᐁ ᓵᑭᐦᐃᐟ ᐃᑌᐦᑕᒧᐤ.** NIA ᐃᑘᐤ ᐁ ᓵᑭᐦᐃᐟ ᑲ ᒦᑕᐟ ᐊᔨᐦᐃ ᑳ ᐊᔭᐦᑯᐦᐃᑭ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ, ᓇᐣᑕ ᑲ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑲᐠ ᐊᔨᐦᐃ ᓇᐣᑕ ᐊᐘᐠ, ᓀᐢᑕᐚᐯᐏᐣ ᓇᑕ ᐅᐦᒋ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ.
+- **ᒧᔭ ᒥᔪ ᐁ ᐃᑖᐟ ᒪᒪ ᐃᓯ.** ᒧᔭ ᐁ ᒥᔪᐚᐸᑕᐦᐠ ᑭᓄᐍᐦ ᓇᑕ ᐚᐸᐦᑕᒧᐤ ᒧᔭ ᒥᔪ ᐁ ᐃᑖᐟ ᒪᒪ ᐃᓯ, ᐁᑿ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᑲ ᐏᐦᑕᒪᐟ.
+- **ᒧᔭ ᓂᑕ ᓄᐦᑌ ᐃᑌᐦᑕᒧᐤ.** ᐅᑭᒪᐘᐠ ᑖᐱᐢᑯᐨ ᓇᑕ ᐃᑘᐘᐠ « ᒧᔭ ».
 
-## What should I try when they say no?
+## ᑭᓄᐍᐦ ᓂ ᑲ ᑯᒋᐦᑖᐣ ᒧᔭ ᐁ ᐃᑌᐟ?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+ᒪᓇᒋᐦᑖ ᒧᔭ ᐁ ᐃᑌᐟ ᐸᐦᐱᔭᐤ, ᒥᓇ ᑭᓄᐍᐦ ᒥᐢᑯᐦᑕ: ᐱᒧᐦᑌᐤ, ᒦᑕᐦᑖᐏᐣ, ᐁ ᐃᓯ ᐊᔭᐦᑯᐠ, ᓇᐣᑕ ᑖᓂᓯ ᐁ ᑲᑲᐍᒋᒥᐦ.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **ᐊᓂᒪ ᐯᔭᑯᐢᑭᐢᐠ ᐊᐢᑕᒼ ᐃᓯ.** « ᒥᔪᐏᐣ ᐁᑿ. ᓇᐣᑕ ᑭᓄᐍᐦ ᑭᓄᐍᐦ. » ᒥᓇ ᑭᓄᐍᐦ ᐊᔨᐦᐃ ᐃᓯ ᐃᑖ, ᐁᑿ ᐁ ᔭᐦᔭᒪᐤ.
+2. **ᑭᓄᐍᐦ ᑯᒋᐦᑖ.** Alzheimer's Association ᐃᑘᐤ ᑭᓄᐍᐦ ᑲ ᑯᒋᐦᑖᔭᐣ, ᓇᐣᑕ ᑭᓄᐍᐦ ᐱᒧᐦᑌᐤ.
+3. **ᐊᐱᓯᐢ ᐃᓯ ᒦᑕ.** ᐯᔭᐠ ᐁ ᓇᐦᐃ ᒦᑕᐣ ᐁᑿ ᒨᓱ ᒦᑕᐦᑖᐏᐣ. ᐯᔭᐠ ᐯᐦᑯᐦᐃᑲᐣ ᐁᑿ ᒨᓱ ᐯᐦᑯᐦᐃᑲᓇ. ᐊᐱᓯᐢ ᒪᐢᑭᓯᓇ, ᐊᐱᓯᐢ ᐊᔨᐦᐃ, ᒪᐢᑭᓯᓇ ᐁ ᐚᐸᐦᑕᒪᐠ.
+4. **ᓃᓱ ᐊᔨᐦᐃ ᓇᑕᐍᐦ.** « ᑭ ᓄᐦᑌ ᓇ ᑲᓄᐚᐸᐦᑕᒪᐣ ᐱᓀᓯᐤ ᒪᐢᑭᓯᓇ ᓇᐣᑕ ᑭ ᓄᐦᑌ ᓇ ᓂᑲᒧᐏᐣ ᐁ ᓇᑕᐦᑕᒪᐣ? » ᐁ ᓇᑕᐍᐦᐊᐟ ᒥᔪ ᐃᑌᐦᑕᒧᐤ ᒥᔦᐤ.
+5. **ᐏᒋᐦᐃᐍᐏᐣ ᑲᑲᐍᒋᒥᐦ, ᐁᑿ ᐁ ᑲᑲᐍᒋᒥᐦ ᑲ ᐃᑖᐟ.** « ᑭ ᑲ ᐏᒋᐦᐃᐣ ᒋᒧᐨ ᐅᐦᐃ ᐁ ᐊᐱᐦᑖᐣ? » ᓇᐣᑕ « ᑖᓐ ᐁᔨᐦᐃ ᒥᔪᓯᐣ ᐁ ᐃᑌᐦᑕᒪᐣ? » ᐁ ᐏᒋᐦᐃᐍᐟ ᐠᐦᑌ ᐃᑌᐦᑕᒧᐤ ᐁᑿ ᐁ ᑲᑲᐍᒋᒥᐟ.
+6. **ᑭᔭ ᒪᒋᐦᑖ.** ᐯᐦᐅ ᒦᑕᐦᑖᐏᐣ ᐊᐢᐸᒋᕀ, ᐁᑿ ᐁ ᑲᑲᐍᒋᒥᐦ. ᒥᐢᑕᐦᐃ ᐊᐘᐠ ᐏᒋᐦᐃᐍᐘᐠ ᐁᑿ ᐁ ᒪᒋᐦᑖᐣ, ᒥᓇ ᑮᓯᐘᐠ ᐁᑿ ᐁ ᐏᒋᐦᐃᐍᐟ, ᑭ ᐏᒋᐦᐃᑎᓐᐘᐤ.
+7. **ᑭᓄᐍᐦ ᐊᔨᐦᐃ ᐃᓯ ᒥᐢᑯᐦᑕ: ᐸᒥᐦᑖᐏᐣ ᓇᐣᑕ ᐸᐦᐱᔭᐤ ᐊᔨᐦᐃ.** ᐊᐱᓯᐢ ᐸᒥᐦᑖᐏᐣ, ᓂᑲᒧᐏᐣ, ᒥᒋᒧᐏᐣ, ᐯᐦᑯᐦᐃᑲᓇ ᐁ ᐊᐱᐦᑖᐣ, ᓇᐣᑕ ᒪᐘᐨ [ᐸᐦᐱᔭᐤ ᔭᐦᔭᒪᐏᐣ](/games/calm-breathing/). NIA ᐃᑘᐤ ᒪᒪ ᐃᓯ ᑲ ᐃᓯ ᐃᑖᐣ ᓂᑲᒧᐏᐣ, ᒪᓯᓇᐦᐃᑲᐣ, ᓇᐣᑕ ᐸᒥᐦᑖᐏᐣ.
+8. **ᐊᐢᑕᒼ ᐃᓯ ᒦᑕ ᑖᓂᓯ ᐁ ᓄᐦᑌᐦᑕᐦᐠ.** ᑮᓯᐘᐠ ᑭᓄᐍᐦ ᐃᓯ ᒦᑕᐟ ᐁᑿ ᐁ ᐃᑌᐦᑕᒪᐠ ᐃᑖᐏᐣ, ᐊᐢᑕᒼ ᐃᓯ ᒦᑕ. Alzheimer's Association ᐃᑘᐤ ᐍᐦᔭᐢ ᑲ ᐃᓯ ᒦᑕᐣ.
 
-## What should I say when they get frustrated?
+## ᑭᓄᐍᐦ ᓂ ᑲ ᐃᑌᐣ ᓀᐢᑕᐚᐯᐟ ᐁᑿ?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+ᐸᐦᐱᔭᐤ ᐱᑯᐢᑫ, ᐸᐦᐱᔭᐤ ᐃᑌ, ᒥᓇ ᒥᔪ ᐃᑌ. [Alzheimer's Association ᐁ ᐏᐦᑕᒪᑲᐠ ᓀᐢᑕᐚᐯᐏᐣ](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ᐃᑘᐤ ᐊᐢᑕᒼ ᑲ ᐃᓯ, ᑲ ᑲᑲᐍᒋᒥᐦ ᓇᐣᑕ ᐸᐦᐱᔭᐤ ᐱᑯᐢᑫᐏᓇ ᑲ ᐊᐸᒋᐦᑖᐣ, ᒥᓇ ᓃᓱ ᐊᔨᐦᐃ ᑲ ᓇᑕᐍᐦᐊᐟ. ᐅᐦᐃ ᐱᑯᐢᑫᐏᓇ ᑖᐱᐢᑯᐨ:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- « ᓂ ᒥᓂᐢᑖᐣ, ᐅᒪ ᓀᐢᑕᐚᐯᐏᐣ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ. ᐊᐢᑕᒼ ᐃᓯᑕᐣ. »
+- « ᒥᔪᐏᐣ ᐁ ᐃᓯ ᒦᑕᔭᐣ. ᐅᑕ ᓂ ᐊᔨᐣ. »
+- « ᑭ ᐊᔭᐣ ᒋᒧᐨ ᐱᒧᐦᑌᐤ ᑭᓄᐍᐦ ᐊᔨᐦᐃ ᐁ ᐏᒋᐦᐃᔭᐣ? »
+- « ᓂᐱᕀ ᒋ ᒥᓂᑿᑫᔭᐠ ᒋᒧᐨ ᐁᑿ ᐅᒪ? »
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+ᒥᓇ ᐊᐢᑕᒼ ᐃᓯ ᒦᑕᐦᑖᐏᐣ, ᐁᑿ ᒥᐢᑕᐦᐃ ᐁ ᒪᐢᑭᓇᐦᐊᒪᑲᐠ. ᓂ ᐏᐦᑕᒪᑲᐣ [ᐱᑯᐢᑫᐏᐣ ᐏᐦᑕᒪᑫᐏᓇ](/caregiving/communication-tips/) ᒥᓇ ᐊᔨᐦᐃ ᐏᐦᑕᒪᑲᓇ.
 
-## What should I avoid?
+## ᑭᓄᐍᐦ ᐁᑿ ᓂ ᑲ ᒦᒋᐦᐊᐣ?
 
-Some natural reactions tend to make things worse.
+ᐊᔨᐦᐃ ᐃᓯᒋᑫᐏᓇ ᓇᑕ ᒥᐢᑕᐦᐃ ᐊᔭᐦᑯᐏᐣ ᒪᐢᑭᓇᐦᐊᒪᑲᓇ.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **ᐁ ᑭᑿᔭ ᐃᑌᐣ ᓇᐣᑕ ᐁ ᓵᑭᐦᐊᐣ.** « ᒫᑲ ᐯᔭᐠ ᒥᓇ » ᓇᐣᑕ « ᑭ ᒥᔪᐚᐸᐦᑖᐣ ᐅᒪ » ᓇᒨᐘ ᒪᐢᑭᓐ ᐏᒋᐦᐃᐍᐏᐣ.
+- **ᐁ ᑲᑲᐍᒋᒥᐦ ᓇᐣᑕ ᐁ ᑯᐢᑭᒧᐦ.** « ᑭ ᑭᐢᑭᓇᐣ ᐅᒪ » ᓇᐣᑕ « ᒧᔭ, ᐊᓂᒪ ᒧᔭ ᑕᐱᐢᑯᐨ » ᒥᓇ ᐊᔭᐦᑯᐏᐣ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ.
+- **ᐁ ᑭᔭ ᐯᔭᑯ ᐁ ᐅᑖᐱᐦᑖᐣ.** NIA ᑭᐢᑭᓄᐦᐊᒪᑫᐤ ᐊᐦᑯᓯᐏᐣ, ᓇᒨᐘ ᐊᐘ, ᑳ ᐅᐦᒋ ᒥᐢᑯᐢᑭᐠ ᐅᐦᐃ ᐃᑌᐦᑕᒧᐏᓇ.
+- **ᐁ ᓴᓯᐦᑲᐣ ᓇᐣᑕ ᐁ ᐍᐦᔭᑭᐣ.** Alzheimer's Association ᐃᑘᐤ ᐁᑿ ᑭᐦᑌ ᑲ ᐱᑯᐢᑫᐣ, ᐁᑿ ᑯᐢᑕᐏᐣ ᑲ ᐚᐸᐦᑖᐣ, ᐁᑿ ᑲ ᑭᐸᐦᐊᐣ, ᐁᑿ ᑲ ᓴᓯᐦᑲᐣ, ᐁᑿ ᑲ ᒥᑎᒧᐦᐊᐣ, ᐁᑿ ᑲ ᐊᔭᒥᒧᐦᐊᐣ, ᐁᑿ ᑲ ᐸᓯᐍᐦᐊᐣ, ᐁᑿ ᑲ ᑭᑿᔭ ᐃᑌᒪᐣ, ᒥᓇ ᐁᑿ ᑫᐦᑫᓯᐤ ᐁ ᐃᓯᒋᑫᐣ ᐅᑖᐸᐦᑖᐤ ᐁᑿ ᐁ ᐚᐸᐦᑕᒪᐟ.
+- **ᐁ ᓀᐢᑕᐚᐯᐦᐊᐣ ᐱᒋ ᐱᑯᐢᑫᐏᐣ.** « ᑭ ᑯᐢᑭᐦᑖᐣ ᐅᒪ ᑭᔭ ᐅᐦᒋ » ᓀᐢᑕᐚᐯᐏᐣ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ ᓃᓱ ᐅᐦᒋ.
+- **ᐁ ᐃᓯᓇᐦᑲᑌᐠ ᐱᑯᐢᑫᐏᓇ.** « ᒧᔭ ᓇᑕ ᐃᑌᐦᑕᒧᐤ » ᓇᐣᑕ « ᐊᔭᐦᑯᐏᐣ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ » ᑳᐦᑭᓇᐤ ᑖᐱᐦᑕ ᒪᐢᑭᓐ, ᒥᓇ ᐊᔭᐦᑯᐏᐣ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ ᑲ ᑯᐢᑭᐦᑖᐣ.
 
-## How can I find out what is behind repeated refusals?
+## ᑖᓂᓯ ᓂ ᑲ ᓂᐢᑯᐦᑕᒪᐣ ᑖᓂᐦᐁ ᑳ ᒧᔭ ᐃᑌᐟ ᒥᓯᓇᒼ?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+ᐊᐱᓯᐢ ᒪᓯᓇᐦᐃᑲᐣ ᒦᑕ ᐯᔭᐠ ᓇᐣᑕ ᓃᓱ ᐱᒧᐦᑌᐘᐠ. NIA ᐃᑘᐤ ᐃᑌᐦᑕᒧᐏᓇ ᐁ ᒪᓯᓇᐦᐃᑲᑌᐠ ᓇᑕ ᐏᒋᐦᐃᐍᐘᐠ ᑳ ᐸᒥᐦᐊᐟ ᒥᓇ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᑲ ᓂᐢᑯᐦᑕᒧᐟ ᑖᓂᐦᐁ ᐁᑿ.
 
-Jot down:
+ᒪᓯᓇᐦᐃᑲᐣ ᐅᐦᐃ:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ᑖᓐ ᐱᒧᐦᑌᐤ;
+- ᑭᓄᐍᐦ ᑳ ᓇᑕᐍᐦᐊᐟ ᒥᓇ ᑖᓂᓯ ᐁ ᑲᑲᐍᒋᒥᐦ;
+- ᑭᓄᐍᐦ ᐊᐢᐸᒋᕀ ᑳ ᐃᐢᐸᔨᐠ (ᐁ ᒪᑕᐍᐦᑭᐠ, ᐊᐘᐠ ᐁ ᐯ ᓇᑕᐏᐟ, ᐁ ᒪᑕᐍᐦᑭᐠ ᒪᓯᓇᐦᐃᑲᐣ);
+- ᑖᓂᓯ ᐁ ᓂᐸᐟ, ᐁ ᒦᒋᓱᐟ, ᐁ ᒥᓂᑿᑫᐟ, ᒥᓇ ᑖᓐᐦᐁ ᒥᐢᐱᐦᑭ ᐁ ᐃᑖᐟ;
+- ᐅᐢᑭ ᒪᐢᑭᐦᑭ ᓇᐣᑕ ᐅᐢᑭ ᐊᐦᑯᓯᐏᐣ.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+ᒪᐢᑭᓐ ᓴᒥᓇᐦᐃ ᓇᑲᐢᑲᑌᐤ: ᒧᔭ ᐁ ᐃᑌᐟ ᐯᔭᑯ 4 p.m. ᐯᔭᑯ, ᐯᔭᐠ ᒦᑕᐦᑖᐏᐣ ᐯᔭᑯ, ᓇᐣᑕ ᒪᓯᓇᐦᐃᑲᐣ ᐁ ᒪᑕᐍᐦᑭᐠ ᐯᔭᑯ. Family Caregiver Alliance ᐅᐦᐃ [ᐏᐦᑕᒪᑫᐏᐣ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ ᐃᑌᐦᑕᒧᐏᓇ ᐅᐦᒋ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ᐃᑘᐤ: ᐁᑿ ᓂ ᑲ ᒥᐢᑯᐦᑕᓈᐣ ᐊᐘ, ᒫᑲ ᓂ ᑲ ᒥᐢᑯᐦᑖᐣ ᑭᔭ ᐃᓯᒋᑫᐏᐣ ᒥᓇ ᐊᐢᑭᕀ.
 
-## When should I talk to a doctor about refusal or frustration?
+## ᑖᓐᐦᐁ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᓂ ᑲ ᐏᐦᑕᒪᐣ ᒧᔭ ᐁ ᐃᑌᐟ ᓇᐣᑕ ᓀᐢᑕᐚᐯᐏᐣ ᐅᐦᒋ?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+ᐏᐦᑕᒪᐤ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᐃᑌᐦᑕᒧᐏᐣ ᑫᐦᑫᓯᐤ ᐁ ᒥᐢᑯᐢᑭᐣ, ᓴᒥᓇᐦᐃ ᐁ ᒥᐢᑯᐢᑭᐣ, ᓇᐣᑕ ᐊᐦᑯᓯᐏᐣ ᐁ ᓇᑲᐢᑲᑌᐠ. NIA ᐃᑘᐤ ᑫᐦᑫᓯᐤ ᓇᐣᑕ ᓴᒥᓇᐦᐃ ᐃᑌᐦᑕᒧᐏᐣ ᐁ ᒥᐢᑯᐢᑭᐣ, ᒪᐘᒑᐨ ᐊᐦᑯᓯᐏᐣ ᐁ ᐊᔭᑭ ᓇᐣᑕ ᐅᐢᑭ ᒪᐢᑭᐦᑭ ᐁ ᐊᔭᑭ, ᓴᒥᓇᐦᐃ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᑲ ᐏᐦᑕᒪᐟ.
 
-Contact their doctor promptly if you notice:
+ᓴᒥᓇᐦᐃ ᑲᑲᐍᒋᒥᐦ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᑮᓯᐘᐠ ᐚᐸᐦᑕᒪᐣ:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- ᑫᐦᑫᓯᐤ ᐁ ᓇᓈᐢᑯᓯᐟ ᓇᐣᑕ ᒥᐢᑕᐦᐃ ᐁ ᒥᐢᑯᐢᑭᐣ ᐯᔭᐠ ᐱᒧᐦᑌᐘᐠ ᓇᐣᑕ ᑮᓯᑳᐘᐠ;
+- ᐊᐦᑯᓯᐏᐣ ᐁ ᓇᑲᐢᑲᑌᐠ, ᑖᐯᐢᑯᐨ ᐁ ᒥᐢᑯᑭᓯᐟ, ᐯᔭᐠ ᒥᔦᐤ ᐁ ᑲᓇᐍᔭᐦᑕᐦᐠ, ᓇᐣᑕ ᐅᐢᑭ ᐁ ᐊᔭᐦᑯᐠ ᐁ ᐃᓯᒋᑫᐟ;
+- ᑭᓯᓯᐘᓂᐏᐣ ᓇᐣᑕ ᐊᐦᑯᓯᐏᐣ ᐁ ᓇᑲᐢᑲᑌᐠ;
+- ᐅᐢᑭ ᒪᐢᑭᐦᑭ ᓇᐣᑕ ᒪᐢᑭᐦᑭ ᐁ ᒥᐢᑯᐢᑭᐣ ᒥᓇ ᐃᑌᐦᑕᒧᐏᐣ ᐁ ᒥᐢᑯᐢᑭᐣ;
+- ᒧᔭ ᐁ ᒥᔪᐚᐸᑕᐦᐠ ᑭᓄᐍᐦ ᒥᓯᓇᒼ, ᐁ ᒪᑐᐟ, ᓇᐣᑕ ᐁ ᐊᐢᑕᒼ ᐃᓯ ᓃᓱ ᐱᒧᐦᑌᐘᐠ ᐊᐘᓯ ᐁ ᐃᐢᐸᔨᐠ;
+- ᒧᔭ ᐁ ᒦᒋᓱᐟ ᓇᐣᑕ ᒧᔭ ᐁ ᒥᓂᑿᑫᐟ.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association ᐃᑘᐤ ᒥᔪ ᒥᒋᐦᐃᐏᐣ ᑲᓄᐚᐸᐦᑕᒧᐏᐣ ᓇᑕᐍᔭᐦᑯᐤ ᐊᐘ ᑳ ᐚᐸᐦᑕᒥᐦᐃᐟ ᐃᑌᐦᑕᒧᐏᐣ ᐃᑌᐦᑕᒧᐏᓇ, ᒪᐘᒑᐨ ᑫᐦᑫᓯᐤ ᐁ ᓇᑲᐢᑲᑌᐠ. Family Caregiver Alliance ᒥᓇ ᐃᑘᐤ ᓂᑲᓐ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᑲ ᑲᑲᐍᒋᒥᐦ, ᒪᐘᒑᐨ ᐃᑌᐦᑕᒧᐏᐣ ᒥᒋᐦᐃᐏᐣ ᓇᑕ ᐅᐦᒋ ᒪᐢᑭᓇᐦᐊᒪᑲᐣ. ᐁᑿ ᒪᒋᐦᑖ, ᐁᑿ ᐊᐢᑕᒼ ᐃᓯ, ᐁᑿ ᒥᐢᑯᐦᑕ ᒪᐢᑭᐦᑭ ᐁᑿ ᐁ ᐏᐦᑕᒪᐟ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ ᓇᐣᑕ ᒪᐢᑭᐦᑭ ᓇᑕᐍᔭᐦᑯᐢᐃᐤ.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+ᑮᓯᐘᐠ ᐊᐘ ᐁ ᓇᓯᐚᓯᐟ ᓇᐣᑕ ᓴᒥᓇᐦᐃ ᒥᒋᐦᐃᐏᐣ ᐁ ᓇᑲᐢᑲᑌᐠ, ᒥᓵᐌ 911. NIA ᐃᑘᐤ ᐏᐦᑕᒪᐤ 911 ᑳ ᐅᑖᐱᐦᐊᐟ ᐊᐘ ᑲᐦᑭᐢᑭᓇᐦᐊᒪᑫᐏᐣ ᐁ ᐊᔭᐘᐟ.
 
-## Is it okay if we do nothing at all?
+## ᒥᔪᐏᐣ ᒋᒧᐨ ᑮᓯᐘᐠ ᒨᓱ ᑭᓄᐍᐦ ᐁᑿ ᓂ ᒦᒋᐦᑖᐣ?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+ᐁᐦᐁ. ᐊᔨᐦᐃ ᑮᓯᑳᐘᐠ ᒥᔪ ᒦᑕᐦᑖᐏᐣ ᒨᓱ ᒦᑕᐦᑖᐏᐣ: ᒪᐘᐨ ᐁ ᐊᐱᔭᐠ, ᒋᒋᓂᐨ ᐁ ᒥᑎᒧᐦᐃᑎᓱᔭᐠ, ᒥᔪ ᓂᑲᒧᐏᐣ ᐁ ᓇᑕᐦᑕᒪᐠ, ᓇᐣᑕ ᐱᓀᓯᐘᐠ ᐁ ᑲᓄᐚᐸᒪᐠ ᐋᐢᐸᓯᐏᕽ. ᐁᑿ ᒧᔭ ᐸᑳᐦᐃᐏᐣ. ᓂ ᐏᐦᑕᒪᑲᐣ [ᒪᐘᐨ ᐁ ᒦᑕᐦᑖᔭᐠ](/caregiving/how-to-play-together/) ᐏᐦᑕᒪᑲᐤ ᑖᓂᐦᐁ ᐁ ᐊᐢᑕᒼ ᐃᓯᐣ ᑭᓄᐍᐦ ᓴᒥᓇᐦᐃ ᐁ ᐯᐦᐅᐣ, ᓇᐣᑕ ᒧᔭ ᐁ ᒪᒋᐦᑖᐣ, ᒥᔪ ᐃᓯᒋᑫᐏᐣ.

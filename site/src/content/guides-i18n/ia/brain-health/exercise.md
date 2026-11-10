@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Exercitio e cerebro: recerca e mover se con securitate"
+seoTitle: "Exercitio e dementia: lo que dice le recerca"
+description: "Lo que le recerca liga inter activitate physic e risco de dementia, plus manieras secur e agradabile de mover se pro personas plus vetere."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Studios liga le activitate physic regular con un risco plus basse de dementia, e le
+  Commission Lancet de 2024 lista le inactivitate physic como un del 14 factores de risco
+  modificabile. Le essayos non ha provate que le exercitio preveni le dementia. Mesmo assi,
+  le movimento adjuta le fortia, le equilibrio, le humor e le somno, dunque caminar,
+  exercitios in sede e dansar vale le pena facer los pro lor proprie beneficio. Consulta un
+  medico ante comenciar alco nove.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Le personas physicmente active ha in media un risco plus basse de dementia, ma isto veni principalmente de studios observational, non de essayos."
+  - "Un essayo de cinque annos de exercitio in personas plus vetere non trovava un differentia clar in le capacitate mental inter le gruppos."
+  - "Le consilios del CDC pro adultos de 65 annos o plus coperi activitates aerobic, de fortiamento muscular e de equilibrio, e dice que alcun activitate es melior que nihil."
+  - "Pro personas que vive con dementia, un movimento curte, familiar e compartite, como un caminata quotidian o jocos sedite, importa plus que ulle objectivo."
+  - "Plus de un de cata quatro adultos plus vetere cade cata anno, dunque le travalio de equilibrio e un spatio secur veni primo."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Pote le exercitio prevenir le dementia?"
+    a: "Nemo pote promitter lo. Multe studios liga le esser active con un risco plus basse de dementia, ma le essayos clinic non ha monstrate que le exercitio lo preveni. Le exercitio ha multe altere beneficios provate, dunque il vale ancora le pena facer lo."
+  - q: "Es secur pro un persona que vive con dementia facer exercitio?"
+    a: "Habitualmente, con alcun planification. Le National Institute on Aging suggere consultar le medico del persona ante comenciar un nove routine, seliger scarpas confortabile, offerer aqua, e mantener le sessiones curte. Stoppa si le persona sembla fatigate, instabile o infelice."
+  - q: "Qual exercitios pote esser facite sedite?"
+    a: "Le optiones sedite include stiramentos in sede o yoga in sede, lancear un ballon o un balla molle, lancear saccos de fabas, levar lattas de suppa, bandas de stiramento e exercitatores a pedales. Istos es bon selectiones quando caminar es difficile."
+  - q: "E si le persona non vole mover se?"
+    a: "Non insista. Proba de novo plus tarde, participa vos mesme, adde musica familiar, o transforma le movimento in un travalio como scopar o irrigar plantas. Un curte caminata usque al cassa postal conta, e seder foras insimul conta tamben."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Esser active es un del habitos le plus studiate in le recerca sur le sanitate del cerebro. Le studios lo liga con un risco plus basse de dementia, ma illos non ha provate que le exercitio preveni le dementia. Lo que es clar es que le movimento adjuta le fortia, le equilibrio, le humor e le somno a omne etate. Iste pagina explica lo que dice le recerca, quante activitate es consiliate pro adultos plus vetere, e manieras gentil de mover se con un persona que vive con dementia.
 
-## Does exercise lower the risk of dementia?
+## Reduce le exercitio le risco de dementia?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Le recerca suggere que le personas physicmente active ha minus probabilitate de disveloppar dementia, ma le evidentia ha limites. Le [Commission Lancet de 2024 sur le dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lista le inactivitate physic como un del 14 factores de risco modificabile. Insimul, iste 14 factores representa circa 45% del casos de dementia in le mundo in su modello.
 
-Here is what the evidence looks like:
+Ecce como se presenta le evidentia:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Le studios observational indica le mesme direction.** Un revision de 58 studios, discutite per le Commission, trovava que le personas physicmente active habeva circa 20% minus risco de dementia. Le differentia le plus grande esseva inter le personas quasi completemente inactive e illes que faceva al minus alcun activitate.
+- **Le ligamine pote vader in ambe directiones.** Le Commission nota que esser inactive pote augmentar le risco. Illo nota tamben que le prime cambios cerebral del dementia, que comencia annos ante le diagnose, pote render le personas minus active.
+- **Le essayos es minus clar.** In un essayo, 945 adultos plus vetere con un etate medie de 78 annos esseva assignate a cinque annos de exercitio superviseate duo vices per septimana o a un gruppo de comparation. Al fin, le capacitate mental non differeva clarmente inter le gruppos. Multe personas in le gruppo de comparation esseva tamben active, lo que rende le resultato plus difficile a interpretar.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+Le [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) lo dice clarmente. Nulle ligamine clar inter le activitate physic e le prevention del morbo de Alzheimer ha essite monstrate, e il non ha satis evidentia de essayos pro dicer que le exercitio preveni o retarda lo. Le exercitio tamen reduce le risco de caditas, depression, diabete, hypertension e ictus. Alcunes de iste conditiones es illes mesme ligate con le declino cognitive.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Le conclusion honest es mover se proque illo vos adjuta a sentir vos e functionar melio hodie. Ulle beneficio pro le cerebro es un possibile bonus, non un promissa.
 
-## How much activity do older adults need?
+## Quante activitate besonia le adultos plus vetere?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+Le [consilios del CDC pro adultos de 65 annos o plus](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggere tres typos de activitate cata septimana:
 
-| Type | Weekly amount | Examples |
+| Typo | Quantitate per septimana | Exemplos |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobic | Al minus 150 minutas de activitate moderate, como 30 minutas in 5 dies | Caminar rapide, dansar, aerobica in aqua |
+| Fortiamento muscular | Al minus 2 dies, travaliante tote le gruppos muscular principal | Levar pesos legier o lattas de suppa, bandas de stiramento |
+| Equilibrio | Regularmente | Caminar talon a digitos, levar se de un sede |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Istos es objectivos, non requisitos de entrata. Le CDC dice que si vos non pote attinger los, vos deberea esser tanto active quanto vostre capacitate e sanitate lo permitte. Alcun activitate es melior que nihil.
 
-## Gentle ways to move for older adults
+## Manieras gentil de mover se pro adultos plus vetere
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Camina in compania.** Un caminata quotidian con un amico, un vicino o un gruppo de caminata adde conversation e securitate.
+- **Exercitios in sede.** Levar le bracios sedite, circulos con le cavillas, marchar sur loco e yoga in sede construe fortia sin risco pro le equilibrio.
+- **Dansar in le cocina.** Pone musica del adolescentia e juventute del persona e balancia vos, batte le tempore o face passos. Nostre [guida de activitates musical](/activities/music/) ha ideas.
+- **Fortia con objectos del casa.** Leva bottilias de aqua plen o lattas de suppa durante que vos reguarda un programma favorite.
+- **Jardinar o facer travalios del casa.** Irrigar plantas, rastellar, scopar e plicar vestimentos conta tote. Vide [activitates foras e in le jardin](/activities/outdoor-and-gardening/) e [travalios del casa](/activities/household-tasks/).
+- **Exercitio in aqua.** Le NIA lista le classes de aerobica in aqua como un option pro personas qui trova le exercitio in terra difficile pro lor articulationes.
 
-## How to exercise with someone living with dementia
+## Como facer exercitio con un persona que vive con dementia
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Pro un persona que vive con dementia, le scopo es le conforto, le placer e mantener le capacitate quotidian, non attinger un numero. Le NIA dice que le activitate physic adjuta a mantener in bon stato le musculos, le articulationes e le corde de un persona con Alzheimer, e pote tamben meliorar le humor e le somno. Consulta su medico ante comenciar un nove routine. Consilios del [guida pro personas qui da cura del NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Camina insimul cata die.** Selige un cammino secur e familiar, libere de obstaculos. Si le persona camina sol, un bracialetto de identification con vostre numero de telephono es un bon idea.
+2. **Proba videos de exercitio pro adultos plus vetere.** Face los insimul, sedite o stante.
+3. **Mantene le sessiones curte.** Plure curte "mini-exercitios" pote functionar melio que un sol session longe.
+4. **Adde musica.** Le cantos familiar face que le movimento sembla un activitate, non un travalio. Dansa si le persona lo apprecia.
+5. **Offere aqua e scarpas confortabile.** Offere aqua o succo durante e post, e selige vestimentos confortabile e scarpas ben adjustate facite pro exercitio.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Si caminar es difficile, le [guida del NIA sur le cura de un persona con Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggere optiones sedite. Istos include exercitios in sede o yoga, lancear saccos de fabas, lancear un balla molle o un ballon, bandas de stiramento, levar objectos legier del casa, e exercitatores a pedales. Travallos simple como scopar e levar le pulvere conta tamben.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Sia realistic sur lo que le movimento pote facer. Le Commission Lancet non trovava evidentia que le exercitio reduce le cambios de comportamento como le agitation. Move vos insimul proque illo pote facer sentir ben, non como un maniera de corriger un postmeridie difficile. Si le persona dice no, il es ben assi. Nostre guida sur [quando illes dice no](/caregiving/when-they-say-no/) ha manieras gentil de probar de novo plus tarde. Finir plus tosto, o simplemente seder foras insimul, es tamben un bon resultato.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Post mover vos, un pausa quiete como [Calm Breathing](/games/calm-breathing/) pote adjutar vos ambes a calmar vos. Pro un activitate sedite con movimento gentil del bracios, [Sort Together](/games/sort-together/) e [Picture Bingo](/games/picture-bingo/) functiona ben a un tabula.
 
-## Balance and fall safety
+## Equilibrio e securitate contra caditas
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Le caditas es commun e serie. Le [CDC reporta](https://www.cdc.gov/falls/data-research/facts-stats/index.html) que plus de un de cata quatro adultos plus vetere cade cata anno, ma minus del medietate lo dice a lor medico. Cader un vice duplica le chance de cader de novo. Le factores de risco que le CDC lista include:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Debilitate in le gambas e le hanches
+- Difficultate con caminar e le equilibrio
+- Alcun medicamentos, includente sedativos e alcun antidepressivos
+- Problemas de vision
+- Dolor in le pedes o calceatura inadequate
+- Periculos in le casa como disordine, tapetes non fixate e scalones rumpite
 
-To move more safely:
+Pro mover vos con plus securitate:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Usa un sede solide** sin rottas, e mantene un banco o un barra a portata de mano pro exercitios stante.
+- **Libera le spatio** de tapetes, cordas e disordine ante toto.
+- **Leva vos lentemente**, e stoppa si le persona se senti vertiginose o instabile.
+- **Porta scarpas supportive**, non calcettas o pantoflas laxe.
+- **Practica le equilibrio proxime a un supporto.** Levar se de un sede e caminar talon a digitos es exemplos de activitates de equilibrio del CDC.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+Le CDC consilia que un persona plus vetere qui cade e colpa su cap deberea vider un medico immediatemente, specialmente si illo prende anticoagulantes.
 
-## Talk with a doctor
+## Parla con un medico
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Consulta un medico ante comenciar un nove routine de exercitio, specialmente pro un persona qui ha problemas cardiac o pulmonar, dolor in le articulationes, problemas de equilibrio, o dementia. Un medico o physiotherapeuta pote suggerer activitates secur e verificar si le medicamentos affecta le equilibrio. Dice al medico de omne cadita, mesmo si il non habeva lesion. Si alco dole o non sembla correcte durante le exercitio, stoppa. Pro dolor subite in le pectore, difficultate a respirar, o confusion subite, appella le numero de emergentia local.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Iste pagina es information general, non consilio medical. Vide nostre [aviso medical](/medical-disclaimer/). Pro un vista plus ample, lege [lo que dice le recerca sur le factores de risco de dementia](/brain-health/risk-factors/) e [si le dementia pote esser prevenite](/brain-health/can-dementia-be-prevented/).

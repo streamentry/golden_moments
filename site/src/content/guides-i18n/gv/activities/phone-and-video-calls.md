@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Obbraghyn çhellvee son peiagh lesh dementia"
+seoTitle: "Obbraghyn çhellvee son dementia"
+description: "Obbraghyn çhellvee as çhellvane son lught-thie foddey veih peiagh lesh dementia: soilshaghey reddyn, lhaih magh, arrane, cloie cooidjagh as coyrle."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Ta eamyn marish persoon ta beaghey lesh dementia gobbraghey share tra t’ad
+  giare, reiltagh as crooit mygeayrt red ennagh dy yannoo cooidjagh, lheid as
+  soilshaghey baagh ny garey, jeeaghyn er jallooyn, lhaih magh, goaill arrane
+  by vie lhieu ny cloie gamman meen er scaailan co-roinnit. Cur eam ec yn un
+  traa gagh laa my oddys oo, jean eh lesh un choraa ec yn un traa, as briar
+  rish peiagh er y laa dy chooney.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Ta obbyr cur cummey er eam as goaill y phressey ersooyl ass taggloo. Jean planson son un red aashagh dy rheynn."
+  - "Ta eamyn giare, reiltagh ec yn un traa jeh’n laa gobbraghey ny share dy mennick na eamyn liauyr, anchasley."
+  - "Ta un persoon loayrt ec yn un traa. Ta eamyn possan lesh ymmodee coraaghyn doillee dy eiyrt, goaill stiagh tra ta doilleeid clashtyn ayn."
+  - "Foddee fer-cooney er y laa y saase cour y chiartaghey, soie marish y persoon, as ve ny ‘laueyn’ son gamman ny jalloo erbee."
+  - "Mannagh vel eam gobbraghey jiu, cur jerrey er dy çheeoil. Ta mie dy phrówal reesht mairagh."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Cre oddym y yannoo er eam çhellvee marish peiagh lesh dementia?"
+    a: "Jean planson son un obbyr aashagh: soiljee dty gharey, baagh ny thie-biee; jeeagh er shenn jallooyn cooidjagh; lhaih magh dan giare ny screeuyn; gow arrane s’gooidsave lhieu; jean an ricet cheddin ec yn un traa; ny cloie gamman jalloo meen er scaailan co-roinnit. Ta obbraghyn cur ayns laue yn eam, myr shen cha nel feme er y persoon yn taggloo y chur er nyn doshiaght."
+  - q: "Cre cha liauyr lhisagh eam çhellvee ve?"
+    a: "Ny s’giare na smooinee oo dy cadjin. Foddee kuse dy vynudyn çheeoil ve dy liooar, goaill stiagh my ta’n persoon skee dy tappee. Foddee eamyn reiltagh ec yn un traa jeh’n laa ve ny smoo scanshoil na cre cha liauyr ta dagh eam."
+  - q: "Cre my t’ad coayl nyn raad ny seaghnit liorish eamyn çhellvee?"
+    a: "Ta paart dy leih feddyn eddin er scaailan doillee. Prówal eam çhellvane cadjin, çhaghteraght feeshan recortyssit foddee yn fer-cooney cloie ec traa feagh, ny kaartyn as jallooyn ’sy phost. My ta eam goll dy moal, cur jerrey er dy kenjal as prówal reesht laa elley ny ec traa elley."
+  - q: "Kys oddym cooney lesh my voir eam çhellvee y yannoo tra nagh vod ee yn çhellvane y ymmyd?"
+    a: "Briar rish oltey jeh’n lught-thie, fer-cooney thie ny fir-oik thie-kiarail dy chur toshiaght er yn eam as dy chummal ny dy chroan y saase. Ta ram buill-kiarail cooney lesh lught-thie lesh eamyn çhellvee, myr shen briar cre t’ad cur. Ta tablet er shass, lesh scaailan mooar as sheean dy liooar dy chlashtyn, ny sassey da dagh ooilley pheiagh."
+  - q: "Vod mayd gamman y chloie cooidjagh harrish çhellvee?"
+    a: "Ta. Yn aght s’assey, ta un persoon co-roinn nyn scaailan ’syn app çhellvee choud’s ta’n fer elley ginsh daue cre’n jalloo dy chrankal. Ny foddee yn fer-cooney er y laa yn un gamman y hoshiaght er tablet as crankal er nyn son choud’s t’ou loayrt trooid. Reih gammanyn gyn timer ny skoor."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Foddee beaghey foddey veih peiagh lesh dementia gennaghtyn feer veg dy chooney. Cha jean eamyn çhellvane as çhellvee goaill ynnyd jeh baarey, agh foddee ad foast cur shilley daue lesh toyrtyssyn firrinagh tra t’ou kiartaghey ad dy mie. Yn chiarail, scuirr jee prowal taggloo cadjin y yannoo as jean planson son red ennagh aashagh dy rheynn ny ynnyd. Ta’n duillag shoh bentyn rish obbraghyn ta gobbraghey harrish çhellvee as çhellvane, kys dy chiartaghey yn eam, as cre foddee yn persoon er y laa jannoo dy chooney.
 
-## Why plan an activity for a call?
+## Cre’n fa jean planson son obbyr son eam?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Ta obbyr cur cummey er yn eam. Ta “Kys t’ou? Cre ren oo jiu?” briaght jeh’n persoon dy chooinaghtyn as dy insh, as foddee shen ve doillee as lane phressey. Ta “Jeeagh, ta ny tamataanyn aalin nish” cha nel briaght veg jeu.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Ta'n Alzheimer's Association gra dy vod taggloo lesh possanyn mooarey harrish çhellvee ve doillee, as t’ad coyrlaghey [cur cummey er yn eam](https://www.alz.org/help-support/caregiving/holidays) lesh reddyn lheid as goaill arraneyn ny rheynn jallooyn.
 
-## What activities work on a video call?
+## Cre ny h-obbraghyn ta gobbraghey er eam çhellvee?
 
-### Show and tell
+### Soilshaghey as insh
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Cur dty heihll huc. Cur y camera dy moal mygeayrt dty gharey, cur enney er y voddey, soilshaghey cre t’ou coagyrey, cummal seose jalloo jeant ec oanluckan, ny cur y çhellvane magh ass yn uinnag dys y sniaghtey. Insh cre t’ou fakin ayns focklyn aashagh as faag paaysyn son ad dy reaghey. Cha nel feme er feyshtyn.
 
-### Look at photos together
+### Jeeaghyn er jallooyn cooidjagh
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Cummal seose shenn phrentys gys y camera, ny co-roinn dty scaailan dy hoilshaghey kuse dy jallooyn mooarey, fer ec y traa. Loayr mychione cre t’ou cur-my-ner: “Jeeagh er edd Shennayr.” Ny jean briaght “Quoi t’ayn shoh?” ny “Vel cooinaghtyn ayd?” My ta’n persoon enmys peiagh dy neu-chiart, gow eh marish. Jeeagh er nyn [lhiassaghtyn cooinaghtyn](/activities/reminiscence/) son coyrle meein.
 
-### Read aloud
+### Lhaih magh
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Lhaih magh dan giare, psalm, lioar chloan by vie lhieu marish oanluckan er yn un eam, screeuyn veih oltey lught-thie, ny duillag ass lioar s’gooidsave lhieu. Ta lhaih magh cur red ennagh feagh da’n persoon dy eaishtagh rish gyn feme er freggyrt.
 
-### Sing or listen to music together
+### Goaill arrane ny clashtyn kiaull cooidjagh
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Gow arrane ta enney mie oc er, ny cloie recoyrtys by vie lhieu er dty heu hene. Ta goaill arrane ny sassey na loayrt son ymmodee sleih. Jeeagh er nyn [lhiassaghtyn obbraghyn kiaull](/activities/music/).
 
-### Cook or bake at the same time
+### Coagyrey ny fuinney ec yn un traa
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Ta'n Alzheimer's Association coyrlaghey planson y yannoo son eam çhellvee dy choagyrey ny fuinney ricet er lheh cooidjagh. Cur seose yn eam ayns daa hie-biee. Foddee yn persoon er y laa mestey ny blashtyn choud’s t’ou geiyrt er yn shenn chard ricet oc.
 
-### Watch something together
+### Jeeaghyn er red ennagh cooidjagh
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Ta'n Association myrgeddin coyrlaghey jeeaghyn er fillym by vie lhieu ec yn un traa veih thieyn elley choud’s ta loayrt er çhellvane ny çhellvee. Son peiagh lesh dementia, foddee meer giare, shenn chlaare çhellvee ny cloie-spoyrt gobbraghey ny share na fillym slane.
 
-### Play a gentle game on a shared screen
+### Cloie gamman meen er scaailan co-roinnit
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Ta ram appyn çhellvee lhiggey dhyt dty scaailan y cho-roinn. T’ou fosley yn gamman as crankal; ta’n persoon ginsh dhyt ny cowraghey magh cre’n jalloo dy reih. Ny ta’n fer-cooney er y laa fosley yn un gamman er tablet as crankal er nyn son choud’s ta shiu taggloo.
 
-Games that work well this way:
+Gammanyn ta gobbraghey dy mie myr shoh:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Cur Kione er y Raa](/games/finish-the-saying/):** t’ou lhaih magh y raa ennoil, t’ad gra yn jerrey, as ta coyrle loayrit cheet ny lurg.
+- **[Coraa Jallooyn](/games/picture-pairs/):** gamman cochiangley meen lesh jallooyn mooarey foddee tannaghtyn ry-akin, gyn timer as gyn skoor.
+- **[Kaartyn Taggloo](/games/conversation-cards/):** jalloo as coyrle foshlit dy loayrt my-e-chione cooidjagh.
+- **[Coraa Jallooyn Photoyn](/games/photo-pairs/):** gamman cochiangley jeant ass jallooyn t’ou reih er dty saase hene. Ta ny jallooyn tannaghtyn ayns dty yeeagheyder, as ta’n persoon fakin ad trooid dty scaailan co-roinnit.
 
-### Recorded messages
+### Çhaghteraghtyn recortyssit
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Tra ta eamyn bio doillee, recortys feeshan giare: bannaght, arrane, shooyl mygeayrt dty gharey. Foddee yn fer-cooney eh y chloie ec traa feagh, cha mennick as s’laik lesh y persoon. Ta'n Alzheimer's Association cur enney er recortyssyn as cur shilley daue er toyrtyssyn er lheh, lheid as paitçhyn fosley giootyn.
 
-## What about plain phone calls?
+## Cre mychione eamyn çhellvane cadjin?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Ta eamyn çhellvane foast scanshoil. Ta Dementia Australia coyrlaghey [cur eam ec yn un traa gagh laa](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) as gyn siyr, er-yn-oyr dy vod traa ve ec persoonyn lesh dementia dy ghoaill ayrn. Er y çhellvane:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Abbyr dty ennym as dty chooish chelleeragh: “Hooar, Ayr, she Jenny mish, dty inneen.”
+- Loayr dy moal, ayns raaghyn giare, un smooinaght ec y traa.
+- Cur naightyn ayns ynnyd jeh briaght er nyn son: “Ren mee dty ricet roast feillag riyr.”
+- Lhaih magh dan giare, ny gow arrane veih arrane by vie lhieu.
+- Cum eh giare as cur jerrey er lesh fockle çheeoil.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Ta Dementia Australia myrgeddin gra dy vod eamyn çhellvee cooney tra ta loayrt ny s’doillee, er-yn-oyr dy vod y persoon dty eddin y akin. My ta eamyn çhellvane goll er coayl, prówal çhellvee, ny yn aght elley.
 
-## How do I set up a video call that works?
+## Kys neem’s kiartaghey eam çhellvee ta gobbraghey?
 
-**Before the call:**
+**Roish yn eam:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Reih traa reiltagh** tra ta’n persoon dy cadjin er nyn scuirr, as cum rish. Ta cliaghtey cooney.
+2. **Jean co-ordrailys marish y fer-cooney er y laa.** Ta çhaghteraght y laa roish cooney lhieu planson y yannoo.
+3. **Jeeagh er y saase.** Ta tablet er shass ny sassey na çhellvane cummit ’sy laue. Jean shickyr dy vel eh currit, dy vel y scaailan sollys, as dy vel y sheean dy liooar dy chlashtyn. Cur er fo-screeunyn my ta’n app cur ad as my ta’n persoon lhaih dy mie.
+4. **Jean planson son un obbyr** as jean aarloo dagh ooilley red.
 
-**During the call:**
+**Rish yn eam:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Soie er-gerrey da’n camera** ayns soilshey mie, jeeagh er uinnag as cha nel eh dty chooyl.
+- **Cur enn ort hene** dagh keayrt, lesh ennym as cooish.
+- **Un choraa ec yn traa.** Ta'n Alzheimer's Association gra dy vel taggloo trooid-a-cheilley doillee da persoonyn ta beaghey lesh dementia as persoonyn lesh doilleeid clashtyn. My ta kuse dy olteynyn lught-thie goaill ayrn, gow turns ny cum eh gys daa ny tree persoonyn.
+- **Briar un eysht ec y traa.** Ta'n Family Caregiver Alliance coyrlaghey [feyshtyn aashagh lesh freggyrtyn ta/cha nel](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), as soilshaghey reihyssyn tra oddys oo.
+- **Cur paaysyn liauyr daue.** Fuirree son freggyrt. Ta mie dy chur fockle daue my t’ad shirrey eh.
+- **Ymmyd dty eddin as dty choraa.** Jean giyn, craa dty chione as cum dty choraa çheeoil. Ta coraa as eddin gra ny smoo na focklyn dy mennick.
+- **Ny jean kiartaghey.** My ta’n persoon gra red nagh vel kiart, lhig da ve.
 
-**Ending the call:**
+**Cur jerrey er yn eam:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Cur jerrey roish my ta’n persoon skee, er lhiam dy share ec toyrtys mie.
+- Ymmyd yn un slane-chooilleeney dagh keayrt: “Neem’s cur eam ort mairagh ec traa-longey. Ta graih aym ort.”
+- Ny jean eh ro-liauyr.
 
-## Tips for the helper on site
+## Coyrle son y fer-cooney er y laa
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+My she sheshey-poosee, fer-cooney, braar ny shuyr, ny oltey fir-oik oo ta cooney lesh yn eam, t’ou jannoo eh jantagh.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Kiartaghey boayl feagh.** Cur yn çhellveeish er lheh as dooin y dorrys.
+- **Cur toshiaght er yn eam uss hene,** eisht cur da’n persoon tablet er shass ny cum eh ec leval ny sooillyn.
+- **Soie ry-hoi oc, cha nel kiongoyrt roo.** Ta dty enish gerjoil. Cur coyrle meein my ta feme: “Jeeagh, she Jenny t’ayn.”
+- **Bee ny laueyn.** Cummal seose jallooyn, crankal y gamman, chyndaa yn tablet dy hoilshaghey y shamyr.
+- **Jeeagh son skeeys ny seaghyn,** as lhig da’n phersoon ta cur eam toiggal tra te traa dy chur jerrey er.
+- **Insh da’n phersoon ta cur eam cre ren gobbraghey.** “By haittin lhee yn moddey” cooney lesh planson y yannoo son yn chied eam elley.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Ta'n NIA coyrlaghey dy vod kynneyderyn foddey cooney lesh peiagh shinney [gynsaghey cummaghyn nyn çhellvane](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), lheid as eamyn çhellvee. Ayns arraghyn ny s’anmey, bee feme er y fer-cooney dy chooilley red y yannoo lesh y saase. Ta shen mie.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+My ta’n persoon beaghey ayns thie-kiarail, ta'n Alzheimer's Foundation of America coyrlaghey briaght my ta’n boayl cooney lesh lught-thie lesh taggloo çhellvee. Ta'n AFA myrgeddin cur enney er lught-thie cur jallooyn harrish as heese marish fir-oik kiarail, as cur bee millish ny reddyn beggey gerjoil by vie lhieu, lurg briaght cre ta’n boayl lhiggey.
 
-## What if the call doesn't go well?
+## Cre my cha nel yn eam goll dy mie?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Bee paart dy eamyn doillee, moal ny seaghnit. Cha nel shen dty oill, as cha nel eh çheet er dy vel eamyn feeu.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- My ta’n persoon jeeaghyn coayl nyn raad liorish y scaailan, caghlaa gys eam çhellvane ny çhaghteraght recortyssit.
+- My t’ad goll er seaghnit, goaill rish yn ennaghtyn, abbyr red ennagh gerjoil, as cur jerrey er dy meein.
+- My ta eamyn dy mennick goll dy moal ec un traa jeh’n laa, prówal traa elley.
+- My t’ad smooinaghtyn dy nee peiagh elley oo, gow eh marish dy kenjal.
 
-It is fine to end early. A short, warm call is a good outcome.
+Ta mie dy chur jerrey er dy leah. Ta eam giare, çheeoil ny torrys mie.
 
-## Between calls
+## Eddyr eamyn
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Jean tannaghtyn kianlt ayns aghtyn elley. Ta Dementia Australia coyrlaghey cur kaartyn, post-L, jallooyn ny giootyn beggey. Foddee kaart-phoost gagh shiaghtin lesh un jalloo mooar as notey giare ve lhait ny smoo na un cheayrt. Foddee [kaartyn taggloo](/games/conversation-cards/) clouit currit da’n fer-cooney cur cooish aarloo son yn chied eam elley.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Son coyrle mychione reih as kiartaghey tablet, jeeagh er [tabletyn as scaailanyn](/caregiving/tablets-and-screens/). Son traa ry-cheilley ayns persoon, jeeagh er nyn lhiassaghtyn [keayrtyn](/activities/visiting/).

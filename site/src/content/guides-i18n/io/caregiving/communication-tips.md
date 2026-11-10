@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Konsili pri parolar kun persono qua havas demenco"
+seoTitle: "Komunikado kun demenco: quo dicar e quo evitar"
+description: "Praktikal manieri parolar kun persono vivanta kun demenco: quale preparar konverso, quo dicar vice inquisar o korektigar, e quale askoltar."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Parolez en trankila loko, turnez vu a la persono, uzez lua nomo, e parolez
+  lente en kurta, simpla frazi. Questionez un questiono ye foyo, ofrez du
+  selekti vice apertita questioni, e vartez plu longe kam semblas naturala.
+  Ne disputez, ne korektigez e ne inquisitez. Respondez a la sento dop la
+  vorti, e uzez tucho, imaji e gesti kande parolar divenas plu desfacila.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Diminutez la bruo di fondo e obtenez okulo-kontakto ante komencar parolar."
+  - "Uzez kurta frazi, un ideo ye foyo, e nomi vice il, elu o li."
+  - "Ofrez selekto inter du kozi, o yes/no-questiono, vice apertita questioni."
+  - "Vartez respondo. Se onu ne komprenas lu, repetez la sama vorti, pose probez altra vorti."
+  - "Ne disputez e ne korektigez. Respondez a la sento dop to quon lu dicas."
+  - "Kande vorti fadeskas, komunikez per tucho, tono, vizajala expreso e komuna imaji."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Quon on ne debas dicar a persono kun demenco?"
+    a: "Evitez inquisar («Ka vu memoras...?»), korektigar («To esas nekorekta»), rememorigar perdi («Me ja dicis to a vu») e parolar pri lu quale se lu ne esus ibe. Evitez infantil parolado. To ofte kauzas shamizo o maltrankileso sen helpar."
+  - q: "Ka me debas korektigar lu kande lu eroras pri fakti?"
+    a: "Ordinare no. Se eroranta fakto esas sen-danjera, lasez ol pasar. Disputar rare chanjas la opiniono di la persono e ofte chagrenas lu. Centrez vu a to quon lu sentas e quon lu bezonas nun."
+  - q: "Quon me facas kande lu ne trovas la justa vorto?"
+    a: "Unesme donez a lu tempo. Se lu evidente luktas, esas aceptinda dolce ofrar vorto o probar divinar quon lu intencas e verifikar. Montrar per fingro, gesti e imaji anke povas helpar."
+  - q: "Quale me povas parolar kun persono en tarda stadio di demenco qua rare parolas?"
+    a: "Aprochez de avan, dicez qua vu esas, e uzez kalma voco e dolca tucho. Atencez vizaji e korpo-linguo por sentar emocioni. Vua prezenteso, familiara kansono o tenar la manuo povas komunikar multa kozi sen vorti."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +43,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Demenco povas plu desfaciligar trovar vorti, sequar longa frazo, o ignorar bruo di fondo. Nulo de to signifikas ke la persono cesis volar konektar kun altri. Mikra chanji en quale vu preparas konverso, quale vu parolas e quale vu askoltas povas faciligar parolado e igar ol plu kalma por vu du.
 
-## What are the most important tips for talking with someone who has dementia?
+## Qua esas la maxim importanta konsili por parolar kun persono qua havas demenco?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Obtenez lua atenco, mantenar to simpla, e esez pacienta. Se vu memoras nur kin kozi:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Trankiligez la chambro e turnez vu a lu.** Extingez la televiziono, sidez ye okulo-nivelo, e uzez lua nomo.
+2. **Dicar un kozo ye foyo.** Kurta frazi, un ideo, un questiono.
+3. **Ofrez selekto inter du kozi.** «Teo o kafeo?» esas plu facila kam «Quon vu deziras?»
+4. **Vartez.** Donez plu multa tempo por respondo kam semblas naturala, e probez ne interuptar.
+5. **Ne disputez e ne inquisitez.** Respondez a to quon lu sentas, ne a kad la fakti esas justa.
 
-## How should I start a conversation?
+## Quale me debas komencar konverso?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Preparez la situo por ke la persono povez fokusar sua atenco a vu. La [guidlibro di Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rekomendas unesme diminutar bruo: extingez la radio o televiziono, klozez la kurteni o pordo, o irez a plu trankila loko.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Aprochez de avan.** Venar de dopre o de latere povas surprizar.
+- **Dicar qua vu esas.** «Saluto, patrulo, me esas Sarah, vua filiino.» To helpas lu ne serchar vua nomo.
+- **Irez a lua nivelo.** Se lu sidas, sidez o genuez por ke vua okuli esez ye sama nivelo.
+- **Atencez vua vizajo e tono.** La [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) konsilas atencar vua tono, voco-forteso, vizajala expreso e korpo-linguo, e esforcar esar varma e naturala.
+- **Kontrolez ke binokli e aud-helpi esas en pozeso.** Esas desfacila sequar konverso quon on ne povas bone vidar o audar.
 
-## How should I phrase what I say?
+## Quale me debas formular mea vorti?
 
-Use simple words, short sentences and a calm, low voice.
+Uzez simpla vorti, kurta frazi e kalma, basa voco.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Un ideo en singla frazo.** «Ni metez vua mantelo. Pose ni iros extere.» Ne ambe en un spiro.
+- **Uzez nomi, ne pronomi.** «Onklino Jean telefonis» esas plu klara kam «Elu telefonis».
+- **Parolez plu base, ne plu laute.** Family Caregiver Alliance sugestas plu basa voco vice plu lauta.
+- **Repetez, pose reformulez.** Se lu ne komprenis, repetez la sama vorti unfoye. Se to ne helpas, vartez momento e probez altra vorti.
+- **Montrez ed anke dicez.** Montrez la taso, montrez la du jupi, o montrez la unesma pazo.
+- **Parolez a lu, ne pri lu.** NIA avertas ne parolar pri la persono quale se lu ne esus ibe, e ne uzar «infantil parolado».
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA sugestas plu simpla versioni di ofta questioni. Yen exempli en ta spirito:
 
-| Instead of | Try |
+| Vice | Probez |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Quon vu volas por dineo?» | «Ka vu volas fisho o han-viando?» |
+| «Quale vu sentas su?» | «Ka vu sentas su fatigita?» |
+| «Ka vu hungras?» | «Dineo esos pronta pos kin minuti.» |
+| «Vu ne facas to tale.» | «Ni probez facar to tale.» |
+| «Ka vu memoras nia voyajo a la lago?» | «Me pensis pri nia voyajo a la lago. Dicez a me quon vu prizis pri ol.» |
+| «Me ja dicis to a vu.» | Respondez itere, afable, quale se esus la unesma foyo. |
 
-## How do I listen well?
+## Quale me povas bone askoltar?
 
-Listen for the meaning and the feeling, not just the words.
+Askoltez la senco e la sento, ne nur la vorti.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Vartez.** Silento ofte esas tempo por pensar. Kontez lente til dek ante intervenar.
+- **Ofrez vorto nur se lu blokusesas.** Family Caregiver Alliance dicas ke esas aceptinda sugestar vorti kande ulu luktas.
+- **Kontrolez to quon vu audis.** La [guidlibro pri komunikado di Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/communications) sugestas serchar la senco dop la vorti e repetar ol por verifikar ke vu komprenis. «Vu inquietas pri la automobilo?»
+- **Atencez lua vizajo e korpo.** Kande parolado divenas plu desfacila, NIA notas, vizajala expresi povas montrar tristeso, iraco o frustrado plu klare kam vorti.
+- **Prenez inquieti serioze.** Mem se inquieto bazizas sur eroranta fakto, la sento esas reala.
 
-## What if they say something that is not true?
+## Quon facar se lu dicas ulo qua ne esas vera?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ne disputez. Probable vu ne vinkos, e la persono povas finar sentar su shamizita o timanta. Vice to, konektez kun la sento, pose dolce chanjez la temo.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance sugestas agnoskar la emoco ante ridirektar. Exemple, se vua matro insistas ke elu mustas irar a la skolo por prenar la infanti:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Vice: «Matrino, vua infanti esas adulta nun. To esis ante quaradek yari.»
+- Probez: «Vu sempre esis tante sorgema matro. Rakontez a me pri prenar li. Ka ni manjos ulo ante to?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association anke konsilas ne disputar pri aserti kun qui vu ne konkordas. Selektez vua momenti: se eroranta kredo esas sen-danjera, lasez ol esar.
 
-## How does communication change as dementia progresses?
+## Quale komunikado chanjas dum demenco progresas?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+La bezoni chanjas kun tempo, do adaptez vua maniero. Alzheimer’s Association deskriptas tri larja stadii:
 
-| Stage | What helps |
+| Stadio | To quo helpas |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Frua | Ne supozez ke lu ne povas komunikar. Inkluzez lu en konversi, parolez direkte a lu, questionez quala helpo lu deziras, e uzez humuro se to helpas. |
+| Meza | Konversi un-a-un en trankila loko. Parolez lente, mantenar okulo-kontakto, uzez yes/no-questioni, donez instrukti pazo-per-pazo, e ne kritikez o korektigez. |
+| Tarda | Aprochez de avan e dicez qua vu esas. Kurajigez montrar per fingro e gesti. Uzez tucho, soni, vidaji e odori. Nultempe parolez quale se lu ne esus ibe. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Omna persono esas diferanta, e la sama persono povas havar bona e desfacila dii. Respondez a quale lu esas nun, ne a etiketo.
 
-## Can pictures and activities make conversation easier?
+## Ka imaji ed aktivesi povas faciligar konverso?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Yes. Komuna imajo diminutas preso e donas a vu du ulo por regardar e montrar.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Imajo-inviti.** [Conversation Cards](/games/conversation-cards/) ofras imaji kun apertita questioni qui nultempe inquisas.
+- **Familiala fotografuri.** [Photo Pairs](/games/photo-pairs/) transformas fotografuri quin vu selektas en dolca kombino-ludo, qua ofte vekas rakonti.
+- **Konocata dicaji.** [Finish the Saying](/games/finish-the-saying/) uzas bone konocata dicaji, sequata da invito a parolar.
+- **Kombino-ludi kom fondo.** [Picture Pairs](/games/picture-pairs/) donas a vua manui ulo por facar dum vu parolas.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Videz [quale ludar kune](/caregiving/how-to-play-together/) e [aktivesi pri rememoro](/activities/reminiscence/) por plu multa informo. Por viziti e telefoni, lektez nia guidlibri pri [viziti](/activities/visiting/) e [telefonala e video-voki](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Quon facar se me perdas mea paciento?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+To eventas a omni. NIA sugestas ke, se vu divenas frustrata, vu prenez kelka tempo por kalmigar su. Irez a altra chambro, spirez lente kelkafoye, e retrovenez kande vu povas. Vu sempre povas rekomencar la konverso, e la persono povas bone respondar a vua plu kalma humoro. Se frustrado divenas konstanta, to esas signo ke vu bezonas plu multa helpo, ne ke vu faliigas. Nia guidlibro pri [sui-sorgo por sorganti](/caregiving/caregiver-self-care/) havas loki ube vu povas trovar helpo.

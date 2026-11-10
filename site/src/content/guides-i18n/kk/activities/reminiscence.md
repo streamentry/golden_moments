@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Естеліктермен бөлісу: қораптар, өмірбаян, суреттер"
+seoTitle: "Деменция кезінде естеліктер: сынақсыз идеялар"
+description: "Деменциясы бар адаммен естеліктерді сынамай бөлісу жолдары: суреттер, есте сақтау қорабы, өмірбаян кітабы және жайлы әңгіме бастайтын сөздер."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Естеліктермен бөлісу — өткен күндерді суреттер, заттар, музыка және әңгімелер
+  арқылы бірге еске алу. Есте сақтау қорабын жасап, қарапайым өмірбаян кітабын
+  құрастырыңыз немесе суреттерді қатар отырып көріңіз. Ешқашан сынамаңыз:
+  «Есіңізде ме?» және «Бұл кім?» деген сұрақтарды қоймай, «Бұл туралы айтып
+  беріңізші» сияқты ашық шақыруларды қолданыңыз. Жылы әңгіме фактілердің
+  дәлдігінен маңыздырақ.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Естеліктермен бөлісу — әңгіме, сынақ емес. Дәлдік емес, жағымды сәт маңызды."
+  - "«Есіңізде ме...?» және «Бұл кім?» деген сұрақтардың орнына «Осы күн туралы айтып беріңізші» сияқты пікірлер мен шақыруларды айтыңыз."
+  - "Адамның өмірімен байланысты заттары бар есте сақтау қорабы әңгімеге әрі қолына ұстайтын нәрсе береді."
+  - "Өмірбаян кітабы туыстарға, қонақтарға және күтім қызметкерлеріне адамды диагноз арқылы емес, жақынырақ тануға көмектеседі."
+  - "Егер естелік мұң әкелсе, алдымен жұбатыңыз да, ақырын басқа тақырыпқа өтіңіз."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Деменциясы бар адамдар үшін естеліктермен бөлісу деген не?"
+    a: "Естеліктермен бөлісу — естеліктер мен өткен тәжірибені жиі суреттер, заттар, музыка немесе бейнелердің көмегімен бірге еске алу. Бұл жеке немесе топта өтуі мүмкін. Мақсаты — адамның не есінде қалғанын тексеру емес, жағымды әрі мағыналы әңгіме."
+  - q: "Неліктен «Есіңізде ме?» деп сұрамаған жөн?"
+    a: "Жадыны тексеретін сұрақтар жауап табылмаған кезде адамды ыңғайсыз немесе мазасыз сезіндіруі мүмкін. National Institute on Aging адамнан бірдеңені немесе біреуді есіне түсіре ме деп сұрауды болдырмау керек нәрселердің қатарына жатқызады. Оның орнына көргеніңізге пікір айтыңыз және адамға өзі қалағанын қосуға мүмкіндік беріңіз."
+  - q: "Есте сақтау қорабына не салуға болады?"
+    a: "Адамның өмірімен байланысты қауіпсіз, берік заттарды таңдаңыз: жұмысқа қатысты заттар, хобби құралдары, сүйікті орамал, ашықхаттар, рецепт жазбалары, спорттық естелік заттар немесе суреттердің көшірмелері. Өткір заттардан, жұтылып кетуі мүмкін ұсақ заттардан және орны толмас түпнұсқалардан аулақ болыңыз."
+  - q: "Егер олар фактілерді шатастырса ше?"
+    a: "Оны жайына қалдырыңыз. Егер анаңыз суретте әпкесі емес, нағашы әпкесі бар деп айтса, ештеңе етпейді. Түзету жылы сәтті сынаққа айналдырады. Олар айтып жатқан әңгімені жалғастырып, бірге ләззат алыңыз."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Естеліктермен бөлісу — өткен күндерді бірге еске алып, ләззат алу деген сөз. Деменциясы бар көптеген адамдар үшін ондаған жыл бұрынғы естеліктер бүгін таңертең болған оқиғаларға қарағанда айқынырақ сақталуы мүмкін. Суреттер, таныс заттар, музыка және әңгімелер сол естеліктерді оятып, бірге бөлісер жылы сәт сыйлауы мүмкін. Есте ұстайтын бір ғана қағида бар: бұл — әңгіме, ешқашан сынақ емес.
 
-## What is reminiscence, and how is it different from quizzing?
+## Естеліктермен бөлісу деген не және ол сұрақ-жауаптан қалай ерекшеленеді?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Естеліктермен бөлісу — адамның өз қарқынымен суреттер, заттар, музыка немесе бейне арқылы естеліктерді бірге еске алу. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) оны суреттер, заттар, бейнелер немесе музыка көмегімен, кітапта немесе планшетте өткен тәжірибе мен әңгімелерді бөлісу деп сипаттайды. Сұрақ-жауап одан бөлек: ол адамнан дұрыс жауап күтеді, ал бұл ләззаттың орнына ыңғайсыздық туғызуы мүмкін.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) адамнан бірдеңені немесе біреуді есіне түсіре ме деп сұрауды болдырмау керек нәрселердің қатарына жатқызады. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) жақын жадыға сүйенетін сұрақтардан аулақ болып, оның орнына алыстағы өткен шақ туралы сөйлесуді ұсынады.
 
-| Instead of | Try |
+| Оның орнына | Мынаны байқап көріңіз |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «Мұны есіңізде ме?» | «Бұл бақытты күн сияқты. Осы туралы айтып беріңізші.» |
+| «Бұл кім?» | «Міне, Роза апай жағажайда. Мына бас киіміне қараңызшы.» |
+| «Бұл қай жылы болған?» | «Бұл ескі үй сияқты. Онда тұру қандай еді?» |
+| «Жоқ, бұл Билл емес, бұл Фрэнк.» | «Ол өте көңілді адам сияқты көрінеді.» |
+| «Сіз мұны айтып қойған едіңіз.» | «Маған бұл әңгіме өте ұнайды.» |
 
-## How do you talk about photos without quizzing?
+## Суреттер туралы сынамай қалай әңгімелесуге болады?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Көріп тұрғаныңыздан бастаңыз, сосын адамға қалауы бойынша бірдеңе қосуға орын қалдырыңыз.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Қатар отырыңыз.** Альбомды екеуіңіздің араңызға қойыңыз, осылайша үстелдің арғы жағынан тексермей, бірге көресіз.
+2. **Бірнеше суретті таңдаңыз.** Бес жақсы сурет — тұтас қорап суреттен жақсы. Үлкен әрі анық суреттер ыңғайлырақ.
+3. **Адамдарды өзіңіз атап айтыңыз.** «Міне, сіз бен әкеңіз той күніңізде» деген сөз қысымды азайтады.
+4. **Ұсақ-түйектерге назар аударыңыз.** Киім, көліктер, тағам, ауа райы, жүздер. «Қандай әдемі көлік. Қандай жалтырап тұр.»
+5. **Шақырыңыз, талап етпеңіз.** «Айтып беріңізші...» немесе «Сіз не байқадыңыз?» Үнсіздік те жарайды.
+6. **Олардың ырғағына еріңіз.** Егер олар мүлде басқа нәрсе туралы айта бастаса, солай жалғастырыңыз.
+7. **Жағымды сәтте тоқтаңыз.** Шаршау басталғанға дейін альбомды жабыңыз.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Дайын суретті әңгіме бастаушылар үшін [conversation cards](/games/conversation-cards/) қолданып көріңіз. Өз отбасы суреттеріңізбен жай жұптау ойынын жасағыңыз келсе, [photo pairs](/games/photo-pairs/) ойынын байқап көріңіз; таңдаған суреттеріңіз браузеріңізде қалады.
 
-## How do you make a memory box?
+## Есте сақтау қорабын қалай жасауға болады?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Есте сақтау қорабы — адамның өміріне қатысты заттарды қолына алып, сол туралы әңгімелесуге арналған қорап.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Ашу оңай, берік қорап таңдаңыз**, мысалы аяқ киім қорабы, қалпақ қорабы немесе кішкентай ағаш сандық.
+2. **Тақырып немесе аралас жинақ таңдаңыз.** Жұмыс, хобби, бір орын, бір онжылдық немесе бәрінен аздап.
+3. **Қауіпсіз заттарды жинаңыз.** Бастау үшін бес-он зат жеткілікті.
+4. **Қымбат заттардың көшірмесін қолданыңыз.** Орны толмас суреттер мен құжаттардың көшірмесін жасап, түпнұсқаларын қауіпсіз жерде сақтаңыз.
+5. **Заттарды бір-бірлеп алыңыз.** Бір затты ұсынып, ол туралы бірдеңе айтып, әңгіменің қайда апаратынын көріңіз.
 
-Ideas to include:
+Қосуға болатын идеялар:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Жұмыс:** есім жазылған бейдж, кішкентай құрал, формадан жамау, дәптер, медбикенің белгісі, асханадан алынған аспаздық кітап.
+- **Үй:** өз қолжазбасымен жазылған рецепт, ас үй сүлгісі, сүйікті орамал немесе галстук.
+- **Хобби:** ілгегі жоқ қармақ, бейсбол добы, жіп орамы, тұқым пакеті.
+- **Орындар:** ашықхаттар, карталар, саяхаттан әкелінген естелік зат, туған қала газетінің қиындысы.
+- **Отбасы:** суреттердің көшірмелері, баланың суреті, үйлену тойына шақыру.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Өткір заттарды, жұтылып кетуі мүмкін ұсақ заттарды және жағымды болатынына сенімді болмасаңыз, ауыр естеліктер әкелуі мүмкін заттарды қоспаңыз.
 
-## How do you make a life-story book?
+## Өмірбаян кітабын қалай жасауға болады?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Өмірбаян кітабы — адамның өмірі туралы суреттер мен қысқа жазулардан тұратын қарапайым альбом. Оны бірге көруге болады, әрі ол қонақтар мен күтім қызметкерлеріне адамды тұтас тұлға ретінде тануға көмектеседі.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Пішімін таңдаңыз.** Қалташалы файлдары бар папка, басып шығарылған фотоальбом немесе планшеттегі слайдшоу.
+2. **Бірнеше бөлім ойластырыңыз.** Балалық шақ, мектеп, жұмыс, отбасы, тұрған жерлер, сенім, хобби, сүйікті тағамдар мен музыка.
+3. **Әр бетке бір-екі сурет қойып**, қысқа әрі үлкен жазумен түсіндірме жазыңыз: «Мәриам, 22 жаста, банктегі жұмысын бастағанда».
+4. **Ұнататын нәрселер мен әдеттерді қосыңыз.** «Кофесін сүтпен ішеді. Жексенбідегі әндерді ұнатады. Теледидардың қатты дыбысын ұнатпайды.» Бұл оған күтім жасайтын кез келген адамға көмектеседі.
+5. **Адамды өзі қалағанынша қатыстырыңыз**: суреттерді таңдауға, әңгіме айтуға немесе бәрінің жиналуын бақылауға.
+6. **Толықтыра беріңіз.** Пайдалы болуы үшін оның бірден дайын болуы міндетті емес.
 
-## More reminiscence ideas
+## Естеліктермен бөлісудің тағы басқа идеялары
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Жастық шағындағы музыканы қойып**, ол қай естеліктерге апаратынын сұраңыз. [Музыкамен айналысу](/activities/music/) бөлімін қараңыз.
+- **Үйдегі бейнелерді немесе сүйікті онжылдықтардағы телебағдарламаларды көріңіз**.
+- **Балалық шақтағы тағамды дайындап**, иістердің әңгімені бастауына мүмкіндік беріңіз.
+- **Туған қаласының картасын қарап**, таныс көшелерді бірге көрсетіңіз.
+- **Ескі каталогтар мен журналдарды парақтап**, бағалар, сән және көліктер туралы сөйлесіңіз.
+- **Олардың әңгімелерін**, рұқсатымен, отбасы үшін телефонға жазып алыңыз.
+- **Қоңырау шалу кезінде бөлісіңіз.** Бейнеқоңырау кезінде бір суретті көрсетіңіз; [телефон және бейнеқоңыраулар](/activities/phone-and-video-calls/) бөлімін қараңыз.
+- **Келген кезде сурет немесе зат әкеліңіз.** Бұл кездесуге оңай тақырып береді; [келіп-кету](/activities/visiting/) бөлімін қараңыз.
 
-## What if a memory is painful?
+## Егер естелік ауыр болса ше?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Кейбір естеліктер қайғы, өкініш немесе қорқыныш тудыруы мүмкін. Егер адам қобалжи бастаса, тоқтаңыз, жұбатыңыз және тақырыпты немесе әрекетті ақырын өзгертіңіз. Не болғаны туралы таласпақа түспеңіз. Family Caregiver Alliance адамның қателесіп тұрғанына оны сендіруге тырыспауды және адамның көрсетіп тұрған сезіміне жауап беруді ұсынады, өйткені бұл сезімдер шынайы. Егер олар қайтыс болған адам туралы тірідей сөйлесе, сезімге жауап беріңіз: «Сіз оны сағындыңыз. Ол туралы айтып беріңізші.»
 
-## What does the research say?
+## Зерттеулер не дейді?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+22 зерттеу мен 1 972 адамды қамтыған [естеліктермен бөлісу бойынша Cochrane шолуы](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia) әсерлердің тұрақты емес, аз және орта мен форматқа байланысты әртүрлі екенін көрсетті. Деменциясы бар адамдарға зиян келтіретініне дәлел табылмады. Біз естеліктермен бөлісуді емдеу ретінде емес, бірге жылы әрі мағыналы уақыт өткізуге көмектесуі мүмкін болғандықтан ұсынамыз. Жеңіл әңгіме туралы көбірек білу үшін [қарым-қатынасқа арналған кеңестер](/caregiving/communication-tips/) бөлімін қараңыз.

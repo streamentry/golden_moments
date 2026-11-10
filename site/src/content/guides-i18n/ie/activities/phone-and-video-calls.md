@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Telefon- e videovocation-activitás por dementia"
+seoTitle: "Videovocation-activitás por dementia"
+description: "Activitás per telefon e videovocation por familie lontan de un person con dementia: monstrar coses, leer ad-alt, cantar, ludes con partit ecran e consilies por auxiliatores."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Vocationes con un person qui vive con dementia functiona max bon quande ili es
+  curt, regulari e constructet circum alquicos a far ensemble, quam monstrar un
+  animale domestic o un jardin, regardar fotos, leer ad-alt, cantar un canzon
+  favorit o luder un dulci lude sur un partit ecran. Voca, si possibil, al sam
+  hor chascun die, lassa parlar un voce a un vez, e peti alqui sur loco de
+  auxiliar.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Un activitá dona un form al vocation e prende li pression ex li conversation. Planifica un simplic cose a partiprender."
+  - "Curt, regulari vocationes al sam hor del die sovente functiona melior quam long, ocasional unes."
+  - "Un person parla a un vez. Grup-vocationes con interparlada es desfacil a sequer, specialmen con audition diminuet."
+  - "Un auxiliator sur loco posse preparar li aparate, seder apud li person e esser li «manus» por quelcunc lude o foto."
+  - "Si un vocation ne functiona hodie, fini it calidmen. Provar denov deman es bon."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Quo posse yo far durant un videovocation con alqui con dementia?"
+    a: "Planifica un simplic activitá: monstra vor jardin, animale domestic o cocine; regarda old fotos ensemble; lee ad-alt un curt poema o lettre; canta un canzon quel il ama; cocina li sam receptu al sam témpor; o lude un dulci lude de images sur un partit ecran. Activitás dona al vocation un centre, talmen que li person ne deve portar li conversation."
+  - q: "Quant long un videovocation deve esser?"
+    a: "Normalmen plu curt quam vu pensa. Quelc calid minutes posse esser suficent, specialmen si li person fatiga rapidmen. Vocar regularimen al sam hor del die posse esser plu important quam li longore de chascun vocation."
+  - q: "Quo far si li person deveni confuset o aflictet per videovocationes?"
+    a: "Alcun persones trova confuset un facie sur un ecran. Prova un simplic telefon-vocation, un registrat video-missage quel li auxiliator posse luder in un calm moment, o cartes e fotos per poste. Si un vocation ea mal, fini it amabilmen e prova denov un altri die o a un altri hor."
+  - q: "Qualmen posse yo auxiliar mi matre a far un videovocation si ella ne posse usar li telefon?"
+    a: "Peti un membre del familie, un auxiliator in hem o un colaborator del hem de cuida de comensar li vocation e tener o suportar li aparate. Mult locos de cuida auxilia families con videovocationes, do questiona quo ili oferta. Un tablette sur un suporte, con un grand ecran e son sat alt por audir, facilita it por omnes."
+  - q: "Posse noi luder un lude ensemble per video?"
+    a: "Yes. Li max facil metode es que un person partiprende su ecran in li video-aplication, durante que li altri di le quel image tuppar. O li auxiliator sur loco posse aperter li sam lude sur un tablette e tuppar por li person durante que vu parla le tra it. Selecte ludes sin horloge o punctuation."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Viver lontan de un person con dementia posse dar un sentiment de ínhelpa. Telefon- e videovocationes ne va remplazzar un embrassada, ma ili posse ancor aportar ver moments de conexion quande vu prepara les bon. Li trucc es cessar provar haver un normal conversation de novas e in vice planificar alquicos simplic a partiprender. Ti págine descri activitás quel functiona per video e telefon, qualmen preparar li vocation, e quo li person sur loco posse far por auxiliar.
 
-## Why plan an activity for a call?
+## Pro quo planificar un activitá por un vocation?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Un activitá dona un form al vocation. «Qualmen tu standa? Quo tu fat hodie?» demanda al person de memorar e raportar, quo posse esser desfacil e stressant. «Regarda, li tomates es matur» ne demanda alquicos de il.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Li Alzheimer's Association nota que conversationes con plu grand grupos per video posse esser desfacil, e suggeste [adjunter un structura al vocation](https://www.alz.org/help-support/caregiving/holidays) per coses quam cantar canzones o partiprender images.
 
-## What activities work on a video call?
+## Quel activitás functiona in un videovocation?
 
-### Show and tell
+### Monstrar e racontar
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Porta vor munde a ili. Move li cámera lentmen circum vor jardin, presenta li cane, monstra quo vu cocina, leva un dessin de un nepote, o puncta li telefon tra li fenestre al nive. Descrí quo vu vide in simplic paroles e lassa pauses por que ili posse reager. Null questiones es necessi.
 
-### Look at photos together
+### Regardar fotos ensemble
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Tene un old printat foto avan li cámera, o partiprende vor ecran por monstrar quelc grand fotos, un a un vez. Parla pri to quo vu vide: «Regarda li chapel de avo.» Evita «Qui es to?» o «Tu memora?» Si li person nomina alqui falsmen, accepta it. Vide nor [guide pri rememoration](/activities/reminiscence/) por dulci suggestiones.
 
-### Read aloud
+### Leer ad-alt
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Lee ad-alt un curt poema, un psalm, un favorit libre por infantes a un nepote in li sam vocation, un lettre de un parente, o un págine de un libre quel ili amat. Leer ad-alt da al person alquicos calm a audir sin besonar responder.
 
-### Sing or listen to music together
+### Cantar o audir musica ensemble
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Canta un canzon quel ili conosse bon, o lude un favorit musica de vor látere. Cantar con altris es por mult persones plu facil quam parlar. Vide nor [guide pri activitás con musica](/activities/music/).
 
-### Cook or bake at the same time
+### Cocinar o bakar al sam témpor
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Li Alzheimer's Association suggeste planificar un videovocation por cocinar o bakar un special receptu ensemble. Prepara li vocation in ambi cocines. Li person sur loco posse miscer o gustar durante que vu seque lor old cart de receptu.
 
-### Watch something together
+### Spectar alquicos ensemble
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Li association suggeste anc spectar un favorit film al sam témpor desde separat hemes, durante que vu parla per telefon o video. Por un person con dementia, un curt fragment, un old television-episod o un lude de balle posse functionar melior quam un complet film.
 
-### Play a gentle game on a shared screen
+### Luder un dulci lude sur un partit ecran
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Mult video-aplicationes permisse vos partiprender vor ecran. Vu aperte li lude e tuppa; li person di vos o monstra quel image selecter. O li auxiliator sur loco aperte li sam lude sur un tablette e tuppa por ili durante que vu conversa.
 
-Games that work well this way:
+Ludes quel functiona bon in ti maniere:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finir li dit](/games/finish-the-saying/):** vu lee li conosset dit, ili di li fine, e seque un parlat suggestione.
+- **[Pares de images](/games/picture-pairs/):** un dulci lude de corespondentie con grand images quel posse restar visibil, sin horloge e sin punctuation.
+- **[Cartes de conversation](/games/conversation-cards/):** un image e un apert suggestione por parlar pri it ensemble.
+- **[Pares de fotos](/games/photo-pairs/):** un lude de corespondentie fat de fotos quel vu selecte sur vor propri aparate. Li fotos resta in vor navigator, e li person vide les tra vor partit ecran.
 
-### Recorded messages
+### Registrat missages
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Quande viventi vocationes es desfacil, registra un curt video: un salutation, un canzon, un promenada circum vor curtine. Li auxiliator posse luder it in un calm moment, tam sovente quam li person joya it. Li Alzheimer's Association mentiona registrar e inviar special moments, quam infantes aperient dones.
 
-## What about plain phone calls?
+## E telefon-vocationes simplic?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Telefon-vocationes ancor es important. Dementia Australia suggeste [vocar al sam hor chascun die](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) e ne hastar, pro que persones con dementia posse besonar témpor por comensar partiprender. Per telefon:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Di vor nómine e relation strax: «Salute, patre, it es Jenny, vor filia.»
+- Parla lentmen, in curt frases, un idés a un vez.
+- Da novas in vice de petir les: «Yo fat yer li nocte vor receptu de rost-bov-carne.»
+- Lee ad-alt un curt poema, o canta un strofe de un favorit canzon.
+- Tene it curt e fini con un calid nota.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia nota anc que videovocationes posse auxiliar quande parlar deveni plu desfacil, pro que li person posse vider vor facie. Si telefon-vocationes deveni confuset, prova video, o invers.
 
-## How do I set up a video call that works?
+## Qualmen preparar un videovocation quel functiona?
 
-**Before the call:**
+**Ante li vocation:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Selecte un regulari hor** quande li person es customalmen reposat, e mantene it. Routine auxilia.
+2. **Coordina con li auxiliator sur loco.** Un missage li die ante auxilia les planificar.
+3. **Controla li aparate.** Un tablette sur un suporte es plu facil quam un telefon tenet in li manu. Assecura que it es cargat, que li ecran es clar, e que li son es sat alt. Activa subtitules si li aplication oferta les e li person lee bon.
+4. **Planifica un activitá** e have omnicos pret.
 
-**During the call:**
+**Durant li vocation:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sede proxim al cámera** in bon luce, con li fenestre avan vos e ne detra vos.
+- **Presenta te** chascun vez, con nómine e relation.
+- **Un voce a un vez.** Li Alzheimer's Association nota que interparlada es desfacil por persones qui vive con dementia e persones con audition diminuet. Si pluri parentes participa, prende tornes o limita it a du o tri persones.
+- **Pone un question a un vez.** Li Family Caregiver Alliance suggeste [simplic questiones con response yes o no](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), e monstrar optiones quande vu posse.
+- **Permisse long pauses.** Atende un response. It es bon sugerer un parole si ili sercha it.
+- **Usa vor facie e vor voce.** Subride, inclina li cap e mantene un calid ton. Expression sovente di plu quam paroles.
+- **Ne corecte.** Si li person di alquicos que ne es exact, lassa it esser.
 
-**Ending the call:**
+**Finir li vocation:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Fini ante que li person deveni fatigat, idealmen in un bon moment.
+- Usa li sam adío chascun vez: «Yo va vocar te deman a midídie. Yo ama te.»
+- Ne prolonga it.
 
-## Tips for the helper on site
+## Consilies por li auxiliator sur loco
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Si vu es li sposo o sposa, auxiliator, fratre o sorore, o colaborator quel auxilia con li vocation, vu fa it possibil.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Prepara un tranquil loco.** Extinte li television e clude li porta.
+- **Comensa li vocation vu self,** poy da al person un tablette sur un suporte o tene it al nivelle del ocules.
+- **Sede apud ili, ne avan ili.** Vor presentie trankilisa. Da un dulci suggestione si necessi: «Regarda, it es Jenny.»
+- **Esse li manus.** Tene fotos in alt, tuppa li lude, torna li tablette por monstrar li chambre.
+- **Observa fatiga o afliction,** e informa li vocante quande it es témpor de finir.
+- **Di al vocante quo functionat bon.** «Ella amat li cane» auxilia planificar li proxim vocation.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Li NIA suggeste que parentes lontan posse auxiliar un old person a [aprender li functiones de su telefon](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), quam videovocationes. In plu tard stádies, li auxiliator va customalmen dever usar li aparate completmen. To es bon.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Si li person vive in un hem de cuida, li Alzheimer's Foundation of America suggeste questionar ca li institution auxilia families con video-conversationes. Li AFA mentiona anc que families invia fotos avan e retro con li personal de cuida, e invia favorit snacks o micri confortes, pos controlar quo li institution permisse.
 
-## What if the call doesn't go well?
+## Quo far si li vocation ne ea bon?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Alcun vocationes va esser confuset, plat o aflictent. To ne es vor culpa, e to ne significa que vocationes ne vale li pena.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Si li person sembla perplex pri li ecran, cambia a un telefon-vocation o a un registrat missage.
+- Si il deveni aflictet, reconosse li sentiment, di alquicos trankilisant, e fini dulcimen.
+- Si vocationes sovente ea mal a un cert hor del die, prova un altri hor.
+- Si il pensa que vu es alqui altri, accepta it amabilmen.
 
-It is fine to end early. A short, warm call is a good outcome.
+It es bon finir plu frue. Un curt, calid vocation es un bon resultate.
 
-## Between calls
+## Inter vocationes
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Resta present in altri manieres. Dementia Australia suggeste inviar cartes, e-postes, fotos o micri dones. Un semanal carte postal con un grand foto e un curt nota posse esser leet denov e denov. Printabil [cartes de conversation](/games/conversation-cards/) inviat al auxiliator posse dar al proxim vocation un tema ja pret.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Por consilies pri selecter e preparar un tablette, vide [tablettes e ecranes](/caregiving/tablets-and-screens/). Por témpor in person, vide nor guide pri [visitar](/activities/visiting/).

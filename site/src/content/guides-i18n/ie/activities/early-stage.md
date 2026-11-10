@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Activitás por dementia in stadie initial"
+seoTitle: "Activitás por dementia initial: idés convenent"
+description: "Idés de activitás por dementia in stadie initial: hobbies, ludes, sortidas, scrition e planation in comun, con micri changes por que li person continua juir e haver li control."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  In li stadie initial de dementia, li pluparte del persones posse continuar
+  far to quo ili juie: hobbies, cartes e ludes de tabul, cocination, jardinage,
+  marchada, clubes, activitás religiosi e voluntariatu. Li principal changes es
+  gruppes plu micri, sortidas plu curt, simplic scrit planes e un partner
+  proxim. Questione li person quel auxilie ili vole, e lassa les ducter.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Li pluparte del persones in li stadie initial vive sat independentmen. Li activitás besona usualmen adjustment, ne substitution."
+  - "Questione li person quel supporte ili vole, e decide un simplic signe por quande auxilie es bonvenit."
+  - "Gruppes plu micri, hores plu quiet e sortidas plu curt fa sovente un grand diferentie."
+  - "Ti es un bon témpor por que li person ducte projectes pri su propri vive, quam un jurnal o un libre pri su historie de vive."
+  - "Selecte ludes por jui. Lassa omnicos quo comensa sentir se quam un test."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Quel activitás es bon por dementia in stadie initial?"
+    a: "Usualmen li sam activitás queles li person ja juie: cartes, ludes de tabul, cocination, jardinage, marchada, musica, activitás religiosi, clubes e voluntariatu. Vu posse besonar far les plu curt, plu quiet o plu simplic. Tener un jurnal, scrir lettres e crear un libre pri li historie de vive anc conveni bon a ti stadie."
+  - q: "Qualmen posse yo auxiliar sin prender li control?"
+    a: "Questione quel sorte de auxilie li person vole, e verifica sovente. Decide un frase o un signe de cap quel significa que it es bon intervenir, por exemple quande un parol o un nómine ne veni. Si ne hay risco de securitá, lassa les far it in lor propri maniere, mem si to dura plu long."
+  - q: "Esque un person con dementia in stadie initial deve provar nov activitás?"
+    a: "Yes, si ili vole. Hobbies familiari tende esser li max facil, ma mult persones juie anc alquicos nov, quam un gruppe de marchada amical por persones vivent con dementia, un classe de art o un gruppe de cantada. Prova it un vez sin pression e vide qualmen it senti se."
+  - q: "Esque applicationes de «training cerebral» vale li pena in li stadie initial?"
+    a: "Quelc persones juie puzzles e ludes de paroles, e ti jui es un suficent rason. Null application o lude ha esset monstrat tractar, ralentisar o stoppar dementia. Si un lude causa stresse o fa que li person senti que ili falla, mette it a látere."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+In li stadie initial de dementia, mult persones vive ancor mult quam ili fat antey. Ili posse laborar, far voluntariatu, vider amicos e organisar un grand parte de lor propri die. Li activitás besona usualmen ne esser substituet; ili besona quelc adjustmentes por que ili resta agradabil. Vor rol es plu proxim a un partner quam a un cuidador: alquí qui supporta, plana in comun e interveni solmen quande on peti it.
 
-## What activities are good in early-stage dementia?
+## Quel activitás es bon in li stadie initial de dementia?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Li max bon activitás in li stadie initial es usualmen tis queles li person ja ama, fat un poc plu facil. Li [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lista idés quam ludes de cartes e de tabul, sercha de paroles, marchada, dansa, jardinage, arangeament de flores, racontation de historias, pictura, musica, tener un jurnal, scrir lettres, far un album de memoras, cocination e traditiones de feste.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+To quo changea es sovente li cadre, ne li activitá self. Li [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) nota que persones in li stadie initial posse comensar retreatar se de coses queles ili juet, e da li exemple de alquí qui senti se supercargat in un grand feste ma senti se plu bon in un micri gruppe. Parla apertmen pri to quo senti se plu desfacil, e adjusta in comun.
 
-## Ask first, and agree on how to help
+## Questione antey, e decide qualmen auxiliar
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+Li [consilies del Alzheimer's Association por li stadie initial](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggeste quelc habitudes queles anc vale por activitás:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Questione directmen.** «Quo vell far li clube de lectura plu facil por vos?» da un melior response quam divinar.
+- **Presume que ili posse.** Si ne hay risco de securitá, lassa li person provar, e da encoragament in vice de prender li control.
+- **Decide un signe.** Selecte un frase o un signe de cap quel significa «it es bon intervenir», por exemple quande un nómine ne veni durant un lude de cartes.
+- **Verifica regularimen.** Questione ca li quantitá de auxilie senti se just, tro mult o tro poc.
 
-## Activity ideas for the early stage
+## Idés de activitás por li stadie initial
 
-### Keep up roles and hobbies
+### Mantener roles e hobbies
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Mantener un regular obligation.** Un turne de voluntariatu chascun semane, un cor o un clube da un form al semane. Si to deveni stressant, un rol plu curt o plu quiet posse convenir plu bon.
+- **Planar repastes in comun.** Si comprar manjada ha devenit frustrant, li Alzheimer's Association suggeste petir li person auxiliar planar li menú del semane e scrir li liste in vice.
+- **Cocinar e bakar.** Seque un recept favorit in comun. Posse li ingredientes in órdine ante que vu comensa, por que li etapes es visibil.
+- **Jardinar.** Plana un bed, selecte semes o plantes e fa li labor in comun. Un scrit liste del labores de jardinage por li semane auxilia.
+- **Continuar un arte manual.** Labor de ligne, sutura, tricotage o construction de modelles posse continuar con modelos plu simplic e bon illumination.
 
-### Games for enjoyment
+### Ludes por jui
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Luder cartes e ludes de tabul.** Ludes familiari es li max facil. Lude in equipes por que nequí es solmen in li centre del atention, e tene li punctus lax o ne tene les.
+- **Provar un sercha de paroles con grand lítteres.** Nor [sercha de paroles](/games/word-search/) posse esser ludet sur li ecran o printat por un quiet moment.
+- **Far puzzles.** Selecte un númere de peces quel senti se relaxant, ne desfiant. [Picture puzzle](/games/picture-puzzle/) es un curt version sur li ecran, e nor guide pri [puzzles por dementia](/activities/puzzles/) explica qualmen selecter un.
+- **Participar in trivia por plesura.** Quelc persones ama un vésper de trivia in equipe. Si to comensa sentir se quam un test, selecte alquicos altri, o prova nor [facil questiones de trivia](/activities/trivia/), queles veni con optiones de response e sin punctus.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Ci li ludes es por plesura. Null lude ha esset monstrat tractar o ralentisar dementia; lee plu in [ludes cerebral: quo li recerca di](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Scrir, reflecter e registrar
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Tener un jurnal.** Li Alzheimer's Association suggeste tener un jurnal quam un maniere de laborar con li sentimentes pos un diagnose. Quelc lineas chascun die es suficent.
+- **Ducter un libre pri li historie de vive.** Li stadie initial es un bon témpor por que li person selecte su propri fotos e scri o dicta li historias detra ili. Vide [activitás de reminiscentie](/activities/reminiscence/).
+- **Scrir lettres.** Un lettre a un nepote, un old amico o un anteyan colega posse esser significant por ambi láteres.
+- **Parlar pri fotos.** [Photo pairs](/games/photo-pairs/) transforma fotos de familie in un dulci lude de corespondentie, e [conversation cards](/games/conversation-cards/) da facil punctus de comensa por un conversation.
 
-### Go out and move
+### Exear e mover se
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+Li [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggeste continuar familiari sortidas tam long quam ambi de vos senti se confortabil. Plana les por li max bon témpor del die por li person e evita que ili dura tro long.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Curt cultural visites.** Un muséo, un matiné o un exposition de art, idealmen in un témpor plu quiet.
+- **Natar.** Li NIA suggeste un piscina durant un lent témpor del die.
+- **Gruppes de marchada e classes de dansa.** Li [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentiona dansa, tai chi, yoga, natation e gruppes de marchada, e anc sessiones amical por persones vivent con dementia u ili es disponibil.
+- **Gruppes de cantada e cafés de memorie.** Relaxat gruppes u persones vivent con dementia e lor partners posse incontrar altres in li sam situation.
 
-## Small changes that keep activities enjoyable
+## Micri changes queles conserva li plesura in activitás
 
-| If this is getting harder | Try this |
+| Si to deveni plu desfacil | Prova to-ci |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Locos ocupat o noisy | Ea in hores quiet, selecte gruppes plu micri, sede al borde del chambre |
+| Memorar nov nómines | Presenta persones per nómine chascun vez; peti gruppes usar cartettes de nómine |
+| Sequer planes con pluri etapes | Scri li etapes, o arangea omnicos in órdine antey |
+| Fatigar se | Sortidas plu curt, un repose pos to, nequo altri planat por ti die |
+| Sequer li cursu in un lude | Lude in equipes, simplifica li regules, o lassa li contation de punctus |
+| Trovar paroles | Da témpor; oferta un parol solmen si vor decidet signe indica to |
 
-## When to slow down
+## Quande ralentisar
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Stoppa o changea un activitá quande it aporta plu stresse quam plesura. Repetit frustration, evitar un hobby o dir «yo simplicmen ne posse plu» merite un dulci conversation, ne pression. Sovente li response es un version plu micri del sam cose. Quande li person besona plu auxilie por comensar e sequer etapes, li idés in [activitás por li stadie medial](/activities/middle-stage/) posse convenir plu bon. Por plu pri conversation supportant, vide [consilies pri comunication](/caregiving/communication-tips/), e por mult plu idés, vide [101 activitás](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Partners anc besona supporte. Li stadie initial es un bon témpor por constructer vor propri rete de auxilie; vide [autocura por cuidador](/caregiving/caregiver-self-care/).

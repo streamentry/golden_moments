@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzles pro personas con dementia: jigsaws, puzzles de parolas e facile puzzles in linea"
+seoTitle: "Puzzles pro dementia: jigsaws e puzzles de parolas"
+description: "Como seliger jigsaws, puzzles de parolas e puzzles in linea pro alcuno con dementia: grandor del pecias, imagines, grande litteras, facer lo insimul e quando simplificar."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Le melior puzzle pro alcuno con dementia es un que ille pote finir con un
+  poco de adjuta e appreciar durante que lo face. Selige jigsaws con minus
+  pecias, plus grande, e un imagine clar e adulte, mantene le imagine del cassa
+  visibile, e ordina primo le pecias del bordo. Recercas de parolas e
+  cruciverbas functiona melio in grande litteras. Facile puzzles in linea con
+  quatro pecias conveni al stadio medie. Stoppa durante que es agradabile.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Selige secundo como illo va, non secundo un etiquetta de stadio: si un puzzle sembla travalio, proba un con minus pecias."
+  - "Pecias grande e robuste e un imagine clar con areas distincte de color es plus facile que pecias micre e grande cielos."
+  - "Imagines adulte importa. Jardines, cocinas, autos e animales, non designos animate."
+  - "Facer lo insimul es le puncto. Passa pecias, ordina le bordos, mantene le coperculo del cassa visibile."
+  - "Recercas de parolas in grande litteras e facile puzzles in linea con 4 o 9 pecias es gratuite sur iste sito."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Quante pecias de puzzle es melior pro alcuno con dementia?"
+    a: "Il non ha un sol numero correcte. Alcuno qui faceva puzzles de 1.000 pecias pote ancora gauder de alcun centenas al initio, durante que alteres se trova melio con circa un dozena de grande pecias. Si un puzzle sembla travalio o causa frustration, passa a minus pecias. Nostre puzzle de imagine in linea ha 4 o 9 pecias."
+  - q: "Es jigsaws bon pro personas con dementia?"
+    a: "Multe personas los apprecia, specialmente si illes amava puzzles antea. Un puzzle da al manos qualcosa a facer, un objectivo clar e un imagine de que parlar. Nulle puzzle ha essite demonstratate a tractar o relentar dementia, dunque selige los pro le placer e le compania."
+  - q: "Que pote io facer quando alcuno non pote plus gerer un jigsaw?"
+    a: "Face lo plus parve e face plus tu mesme: passa un pecia al vice, o lassa solmente le ultime poc pecias pro ille. Proba un puzzle in linea de 4 pecias, ordinar pecias per color, o simplemente reguardar le imagine finite insimul."
+  - q: "Es cruciverbas e recercas de parolas appropriate pro dementia?"
+    a: "Illos pote esser lo in le stadio initial, in grande litteras. Recercas de parolas con parolas solo horizontal e vertical es plus facile que illos con parolas diagonal o retro. Lege le pistas o le lista de parolas in alte voce e labora sur illo insimul."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Un jigsaw extendite sur le tabula del sala a manger es un del activitates le plus facile a divider. Vos pote seder insimul sin deber parlar, le imagine vos da qualcosa de que conversar, e poner le ultime pecia da un bon sentimento. Totevia, puzzles debe cambiar a mesura que le dementia cambia. Un puzzle troppo difficile pote transformar un postmeridie calme in un frustrante. Iste pagina explica como seliger e preparar jigsaws, puzzles de parolas e facile puzzles in linea, e que facer quando illos deveni difficile.
 
-## Are puzzles good for people with dementia?
+## Es puzzles bon pro personas con dementia?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Multe personas los apprecia, specialmente illes qui faceva puzzles antea. Le [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lista recercas de parolas, jocos de cartas e jocos de tabula inter le activitates pro le stadio initial, e le [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentiona jocos e puzzles in linea sur tablettas como un maniera de remaner implicate.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzzles non es un tractamento. Nulle puzzle ha essite demonstratate a relentar o stoppar dementia; nostre guida a [jocos de cerebro e dementia](/brain-health/brain-games/) explica le recerca. Le ration pro facer un puzzle es que illo pote esser un hora agradabile e absorbente insimul. Le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) lo resume: concentra te sur le placer, non sur le realisation.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Como seliger un jigsaw pro alcuno con dementia?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Basa te sur lo que le persona apprecia e sur como le ultime puzzle vadeva, non sur un etiquetta de stadio.
 
-### Number of pieces
+### Numero de pecias
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Il non ha un numero correcte. Un amante de puzzles de tote le vita pote ancora gauder de alcun centenas de pecias al initio, durante que un altere persona es plus felice con circa un dozena. Un regula practic: si le ultime puzzle semblava travalio, selige un con circa le medietate del pecias. Si illo esseva finite rapidemente e le persona voleva plus, auge un poco.
 
-### Piece size and feel
+### Grandor e sensation del pecias
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Pecias plus grande** es plus facile a vider, prender e girar.
+- **Pecias spisse e robuste** resta in loco e resiste a cader.
+- **Un finition matte** reduce le reflexos sub lampas e fenestras.
+- **Evita pecias micre** si le persona poterea poner cosas in le bucca, lo que pote occurrer plus tarde in le dementia.
 
-### The picture
+### Le imagine
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Subjectos adulte.** Jardines, cocinas, autos ancian, animales de ferma, un citate al mar, un sport favorite. Non designos animate o qualcosa que sembla un joculo de infante.
+- **Areas distincte de color.** Un grangia rubie, un barca blau e un campo verde es plus facile que un celo que occupa le medietate del puzzle.
+- **Familiar e personal.** Un imagine de un loco ubi le persona viveva o de un hobby que ille amava vos da multe de que parlar. Alcun negotios de impression pote transformar un photo de familia in un jigsaw.
 
-## How do you do a puzzle together?
+## Como facer un puzzle insimul?
 
-Set it up so the person can get straight to the enjoyable part.
+Prepara lo de maniera que le persona pote ir directemente al parte agradabile.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Selige un bon loco.** Bon lumine, un sede con bracios, e un tabula o plattea ubi le puzzle pote restar.
+2. **Pone le coperculo del cassa in position vertical** ubi vos ambe pote vider lo.
+3. **Gira le pecias con le facie in alto** ante comenciar.
+4. **Ordina le bordos** tu mesme, o face primo le bordo e lassa le medio pro le persona.
+5. **Gruppa le pecias per color** in alcun platteas o plattos poc profunde.
+6. **Passa un pecia al vice** si le pila es troppo. "Io pensa que iste pecia es parte del grangia."
+7. **Parla del imagine,** non del progresso. "Illo me face pensar al barca que mi patre habeva."
+8. **Lassa lo foras.** Retorna a illo durante plure dies. Il non ha pressa.
+9. **Stoppa in un bon momento,** post que un pecia entra, durante que illo ancora sembla agradabile.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+Le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) consilia adjutar le persona a comenciar, observar signos de frustration e permitter le simplemente reguardar si ille prefere isto. Reguardar te poner pecias, e indicar ubi un poterea vader, es ancora participar.
 
-## Easy online puzzles
+## Facile puzzles in linea
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Un puzzle sur tabletta ha alcun avantages real: nulle pecias perdite, grande imagines que plena le schermo, e nulle tabula a nettar.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Nostre gratuite [Puzzle de imagine](/games/picture-puzzle/) divide un imagine in 4 o 9 pecias. Tocca duo pecias pro cambiar los usque le imagine es complete. Le imagine complete resta sur le schermo como guida, il non ha chronometro, e tu pote stoppar in qualcunque momento. Quatro pecias conveni a multe personas in le stadio medie con alcuno a latere.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Pro un joco de imagines ancora plus simple, proba [Trova le mesme](/games/find-the-same/), ubi tu tocca le imagine que corresponde a illo in alto, o [Ordina insimul](/games/sort-together/), ubi imagines va in cestas como le cocina o le jardin.
 
-## Word puzzles: word searches and crosswords
+## Puzzles de parolas: recercas de parolas e cruciverbas
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Puzzles de parolas conveni a personas qui semper los appreciava, generalmente plus tosto in le dementia.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Recerca de parolas in grande litteras.** Nostre gratuite [Recerca de parolas](/games/word-search/) usa grande litteras e solmente poc parolas, horizontal e vertical, nunquam diagonal o retro. Joca lo sur schermo o imprime lo.
+- **Lege le lista in alte voce.** Un persona lege un parola, le altere lo cerca. Marcar solmente le prime littera es ben.
+- **Cruciverbas in grande litteras** de libros de puzzles pote functionar al initio. Lege le pistas in alte voce, divide le stilo e plena le responsas insimul. Cruciverbas facile e thematic es melior que illos cryptic.
+- **Parla del parolas.** "Jardin" pote ducer a dece minutas de conversation sur tomates.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Pro plus activitates sur papiro e como imprimer los de maniera que illos sia facile a vider e tener, vide [activitates imprimibile gratuite pro dementia](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Qual puzzles conveni a cata stadio?
 
-Stages overlap, and good and hard days are normal.
+Le stadios se superpone, e bon dies e dies difficile es normal.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadio | Puzzles que sovente conveni | Tu rolo |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Initial | Jigsaws familiar con minus pecias que antea, cruciverbas e recercas de parolas in grande litteras, puzzles in linea de 9 pecias | Partnero: lassa le seliger, adjuta quando demandate |
+| Medie | Jigsaws con circa un dozena de grande pecias, puzzles in linea de 4 pecias, recerca de parolas legite in alte voce insimul | Prepara, ordina le pecias, passa un al vice |
+| Tarde | Reguardar un imagine finite insimul, Trova le mesme con duo imagines, manear alcun grande pecias | Porta lo a ille; tu compania es le activitate |
 
-## When should you make a puzzle easier, or stop?
+## Quando debera tu render un puzzle plus facile, o stoppar?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Observa suspiriros, pecias pellite a un latere, repetite "io non pote" o regardos preoccupate. Istos es signos que qualcosa debe cambiar, non que il es necesse continuar.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Face lo plus parve.** Minus pecias, o lassa solmente le ultime poc pro ille.
+- **Face plus tu mesme** e invita le a adjutar con le partes facile.
+- **Cambia a qualcosa vicin:** ordinar pecias per color, un puzzle in linea de 4 pecias, o [colorar](/games/coloring/).
+- **Stoppa.** Pone lo a latere e prende un tassa de the. Vos pote retornar a illo un altere die, o non del toto.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Si puzzles comencia a semblar un rememoration de lo que es difficile, il es ben lassar los. Il ha multe altere manieras de passar bon tempore insimul; nostre [101 ideas de activitates](/activities/ideas/) es un bon loco pro cercar.

@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Rĩrĩa mũndũ ũrĩ na dementia arega kana araakara"
+seoTitle: "Mũndũ ũrĩ na dementia akĩrega wĩra"
+description: "Gĩtũmi kĩa mũndũ ũrĩ na dementia kũrega kana kũrakara rĩrĩa araruta wĩra, ũrĩa ũngĩgeria, ũrĩa wagĩrĩirwo nĩ gwĩthema, na rĩrĩa wagĩrĩirwo nĩ kuona ndagĩtarĩ."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Mũndũ ũrĩ na dementia akiuga aca, etĩkĩra ũhoro ũcio na ũhooreru, na ũgerie
+  rĩngĩ thutha kana ũmũhe ũndũ ũngĩ. Kũrega kaingĩ kũrĩ na gĩtũmi: wĩra no ũkore
+  ũrĩ mũritũ mũno kana ta wa twana, nĩanogeete, nĩaranyariirwo, nĩarĩ na ngʼaragu,
+  kana nĩarĩĩtigĩrĩra nĩ inegene. Ndũkagaakararanie nake kana ũmũhatĩrĩrie.
+  Hũthia wĩra, mũhe mĩtũkĩ ĩĩrĩ ya gũthuura, kana ũmũũrie aakũteithie. Mĩtugo
+  ya kĩhuhũkanio kana ĩkũgarũrũka na ihenya, makĩria thutha wa mũrimũ wa
+  kũgwatana kana dawa njerũ, yagĩrĩirwo nĩ kuonwo nĩ ndagĩtarĩ o narua.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Kuga „aca” nĩ macokio ma gũtĩĩo, ti thĩna wa gũtooria."
+  - "Kũrega kaingĩ kũrĩ na gĩtũmi: mũritũ mũno, ta wa twana, kũnoga, kwĩhĩta, kũaga ũhoro, kana kũĩtigĩra nĩ maũndũ maingĩ."
+  - "Ehera ho kahinda, eterera, na ũgerie rĩngĩ thutha, ihinda rĩngĩ, kana na njĩra ĩhũthĩtie."
+  - "Kũmũũria aakũteithie nĩ kwega gũkĩra kũmwĩra onanie ũrĩa angĩhota."
+  - "Ndũkanakararanie nake, ũmũhatĩrĩrie, ũmũũrie ciũria, kana ũmũrũngie. Wĩrorere kana nĩũrahiũha kana ũkamũkuhĩrĩria mũno."
+  - "Mĩtugo ĩkũgarũrũka o rĩmwe kana na ihenya, makĩria harĩ na mũrimũ wa kũgwatana kana dawa njerũ, yagĩrĩirwo nĩ kuonwo nĩ ndagĩtarĩ o narua."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Nĩ wega kũreka arege kũruta mawĩra mothe biũ?"
+    a: "Ĩĩ, mũthenya o mũthenya. Gũikara hamwe, gũthikĩrĩria nyĩmbo kana kũrorera maũndũ marĩ nja no kũigane. Mũndũ angĩaga kũkena maũndũ mothe ihinda rĩa ciumia, ĩra ndagĩtarĩ wake, tondũ kĩeha, ruo, kana mathĩna mangĩ ma mwĩrĩ no makorwo marĩ thĩinĩ wa ũhoro ũcio."
+  - q: "Nĩ kĩĩ gĩtũmaga arege maũndũ marĩa eendete mbere?"
+    a: "Wĩra ũrĩa mũndũ eendete mbere no ũtuĩke wa kũrakaria rĩrĩa ũkũbatario ũhoti ũrĩa dementia ĩtũmĩte ũtuĩke mũritũ, nake mũndũ no eigue aconorithio. Geria gĩcunjĩ kĩhũthũ kĩa wĩra o ro ũcio, ta gũtheria tũbũtũni handũ ha gũtuma nguo, kana kũrorera mbica cia mũgũnda handũ ha kũhanda."
+  - q: "No ngĩrĩirwo nĩ kũgeria kũmwĩra etĩkĩre?"
+    a: "Aca. Kũhatĩrĩria mũndũ arute ũndũ ũrĩa dementia ĩtũmĩte ũtuĩke mũritũ nĩ ũndũ ũmenyekete ta kĩndũ kĩngĩtũma mũndũ araakare. Etĩkĩra kuga aca, garũra mũhĩrĩga wa mũario, na ũmũhe rĩngĩ thutha kana na njĩra ĩngĩ."
+  - q: "Mĩtugo ĩgarũrũkĩte rĩ nĩ ya hatari o na rĩ?"
+    a: "Hũra thimũ 999 kana 112 mũndũ angĩkorwo arĩ hatarini kana arĩ na imenyithia cia hatari ya mwĩrĩ ya narua. Mũndũ angĩgarũrũka o rĩmwe kana mĩtugo ĩkagarũrũka na ihenya thĩinĩ wa mathaa kana mĩthenya, makĩria harĩ na kũhiũha mwĩrĩ, mũrimũ wa kũgwatana kana dawa njerũ, arĩria ndagĩtarĩ wake o narua."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Ũhaarĩria maũndũ mothe, ũkamũhe mũtambo kana gũthiĩ gũceera, na ũkaigua, „Aca.” Kana mũtambo ũkambĩrĩria wega na ũgĩthira na kabati gũtindĩkwo na kiugo kĩa ũũru. Ũndũ ũcio no ũkũnyamarie ngoro, na nĩ wa kawaida mũno. Kũrega na kũrakara kaingĩ nĩ ndũmĩrĩri, ti ũremi wa kwenda. Kũmenya ndũmĩrĩri ĩyo ĩgũkĩra kaingĩ no gũkuonie ũrĩa ũngĩgeria thutha.
 
-## Why does someone with dementia refuse activities?
+## Nĩ kĩĩ gĩtũmaga mũndũ ũrĩ na dementia arege mawĩra?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Kaingĩ harĩ na gĩtũmi, o na mũndũ angĩkorwo ndangĩhota kũgĩtaarĩria na ciugo. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yugaga atĩ kũrega no kuonanie mũndũ ndangĩhota kũruta wĩra ũcio kana nĩaretigĩra kũgeria. Maũndũ marĩa kaingĩ matũmaga ũndũ ũcio wĩkĩke nĩ:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Nĩũraoneka mũritũ mũno.** Wĩra ũcio rĩu ũkũbatario ũhoti ũrĩa dementia ĩtũmĩte ũtuĩke mũritũ, na kũremwo mbere ya mũndũ ũngĩ no gũtũme mũndũ aconoke.
+- **Nĩũraoneka ta wa twana.** Andũ akũrũ nĩmonaga mbica cia tũthaka, mĩario ta ya twana, na mawĩra marĩa mekũoneka ta mathondekeirwo twana.
+- **Kũnoga.** Andũ aingĩ makoragwo na hinya mũnini thutha wa mĩaraho. Rora [mawĩra ma kũhooreria hwaĩ-inĩ](/caregiving/late-day-restlessness/).
+- **Kũnyariirwo mwĩrĩ-inĩ.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ĩtaga ruo, kwaga toro wa kũigana, thĩna wa kuona kana kũigua, kũhĩnga nda, ngʼaragu, nyoota, na mĩriango ya dawa njerũ ta maũndũ mangĩtũma mũndũ anyariirwo.
+- **Maũndũ maingĩ mũno marĩ hamwe.** TV ĩrĩ na inegene, mĩario mĩingĩ, kana nyũmba ĩiyũrĩte andũ no itũme mũndũ eĩtigĩre.
+- **Kwigua arahatĩrĩrio.** NIA ĩtaga kũhatĩrĩrio kũruta ũndũ ũrĩa Alzheimer's ĩtũmĩte ũtuĩke mũritũ mũno, kana kũririkanio maũndũ kana andũ, ta kĩndũ kĩngĩtũma mũndũ araakare.
+- **Ngoro ĩkĩnyiihĩrĩra.** Kwaga kwenda maũndũ no gũkorwo kũrĩ kĩmenyithia kĩa kĩeha kĩa ngoro, na ũndũ ũcio nĩ wagĩrĩirwo nĩ kwario na ndagĩtarĩ.
+- **No atĩ ti kwenda.** Mũndũ mũgima nĩetĩkĩrĩtio kuuga aca.
 
-## What should I try when they say no?
+## Ingĩgeria atĩa akĩnjĩra aca?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Etĩkĩra kuga aca na ũhooreru, ũcooke ũgarũre ũndũ: ihinda, wĩra, ũrĩa ũhũthĩte, kana ũrĩa ũramũũria.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Reke ũhoro ũcio rĩu.** „Nĩ wega. No thutha.” Ũcooke ũthiĩ ũndũ-inĩ ũngĩ ũtarĩ na kũnyiihia mĩhũmũ.
+2. **Geria rĩngĩ thutha.** Alzheimer's Association ĩtaaraga kũgeria rĩngĩ thutha, kana ihinda rĩngĩ rĩa mũthenya.
+3. **Hũthia wĩra.** Ũndũ ũmwe wa kũiganania handũ ha mũtambo wothe. Taulo ĩmwe handũ ha gĩkabu kĩa nguo. Mbica nini, mĩtũkĩ mĩnini, mbica igĩtigwo ikĩoneka.
+4. **Mũhe mĩtũkĩ ĩĩrĩ.** „Ũkwenda tũrore mbica cia nyoni kana tũthikĩrĩrie nyĩmbo?” Kũmũhe mweke wa gũthuura nĩkũmũcookeria rũciaro rwa kwĩigua arĩ na ũhoti.
+5. **Mũũrie aakũteithie handũ ha kũmwĩra onanie ũrĩa angĩhota.** „No ũndeithie gũtheria ici?” kana „No ũnjĩre rangi ĩrĩa ĩkoneka wega?” Kwĩigua ũrĩ wa bata nĩ kũndũ kũngĩ mũno na kwĩigua ũragerio.
+6. **Ambĩrĩria wee mwene.** Ambĩrĩria wĩra hau hakuhĩ nake ũtarĩ kũmũũria. Andũ aingĩ nĩmanyitanagĩra rĩrĩa ũndũ ũkoretwo ũgĩthiĩ na mbere, na mangĩaga gwĩka ũguo, no mũkorwo mũgĩikarania hamwe.
+7. **Garũra ũthiĩ wĩra-inĩ wa mwĩrĩ kana wa kũhooreria.** Kũceera hanini, nyĩmbo, kĩndũ gĩa kũrĩa, kũkunya nguo, kana kahinda ga [kũhuhĩria na ũhooreru](/games/calm-breathing/) mũrĩ hamwe. NIA ĩtaaraga kũgarũra meciiria magacokerio nyĩmbo-inĩ, ibuku-inĩ, kana gũceera.
+8. **Reke arute wĩra na njĩra yake.** Angĩenda kũruta wĩra na njĩra ĩngĩ na ĩrĩa watho uugĩte, etĩkĩra ũguo. Alzheimer's Association ĩtaaraga gũkorwo ũrĩ mũhooreri na ũkagarũrũka.
 
-## What should I say when they get frustrated?
+## Ingĩmwĩra atĩa akĩrakara?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Hoorera, nyihia mũgambo na ũmũũmĩrĩrie. [Ũtaaro wa Alzheimer's Association ũkoniĩ kũrakara](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) uugaga ũthiĩ na thutha na ũhoorere, ũmũũrie rũtha, ũhũthĩre ciugo cia ũhooreru na njega, na ũmũhe mĩtũkĩ ĩĩrĩ ya gũthuura. Ciugo ta ici:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- „Nĩ ndacũkĩra, ũyũ nĩũrarakaria. Reke tũtige.”
+- „Nĩũreka wega. Ndĩ haha hamwe nawe.”
+- „Ũrĩ na ihinda ũndeithie ũndũ ũngĩ?”
+- „Tũnyue cai handũ ha ũguo?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Ũcooke ũrĩkie wĩra ũcio ũtaramũtua ũndũ mũnene. [Mataaro maitũ ma mũario](/caregiving/communication-tips/) marĩ na ũhoro ũngĩ wa ũrĩa ũngĩaria.
 
-## What should I avoid?
+## Nĩ maũndũ marĩkũ njagĩrĩirwo nĩ gwĩthema?
 
-Some natural reactions tend to make things worse.
+Maũndũ mamwe marĩa mũndũ angĩĩka ateciirĩtie kaingĩ no matũme maũndũ momĩrĩre.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Gũkararania kana kũhatĩrĩria.** „Geragia o rĩngĩ rĩmwe” kana „Nĩwendete ũyũ” kaingĩ matingĩteithia.
+- **Kũmũũria ciũria kana kũmũrũngia.** „Nĩũũĩ ũyũ nĩ ũũ” kana „Aca, ũcio ti guo” nĩkuongerera mĩritũ.
+- **Kwĩigua ũgurarĩirio nĩwe mwene.** NIA ĩririkanagia arĩa mamenyagĩrĩra andũ atĩ nĩ mũrimũ, ti mũndũ, ũtũmaga mogarũrũku maya.
+- **Kũmũkuhĩrĩria mũno kana kũmũhiũhia.** Alzheimer's Association ĩtaaraga atĩ ndũkananene mũgambo, wonanie ũmakania, ũmũhingĩrĩrie, ũmũkuhĩrĩrie mũno, ũmũgirie, ũmũtetie, ũmũtiganĩrie, kana ũkararanie nake, ningĩ wĩtheme kwĩka maũndũ ma kĩhuhũkanio kũrĩa atangĩkuona.
+- **Kũhũthĩra kĩnyamaro.** „Nĩndakũhaarĩirie maũndũ maya mothe” gũtũmaga inyuĩ eerĩ mwĩigue mũrĩ na ũũru makĩria.
+- **Kũmũgĩa marĩĩtwa.** „Mũremi” kana „mũritũ” nĩkũhitha gĩtũmi kĩa ma na gũtũma gũtuĩke mũritũ gũkĩniina.
 
-## How can I find out what is behind repeated refusals?
+## Ingĩmenya atĩa kĩrĩa gĩtũmaga arege kaingĩ?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Andĩka maũndũ manini kiumia kĩmwe kana igĩrĩ. NIA yugaga atĩ kũrũmĩrĩra mogarũrũku ma mĩtugo no kũteithie arĩa mamenyagĩrĩra andũ na ndagĩtarĩ kuona mũtaratara na kũmenya gĩtũmi.
 
-Jot down:
+Andĩka:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ihinda rĩa mũthenya;
+- kĩrĩa wamũheire na ũrĩa wamũũririe;
+- maũndũ marĩa maarĩ hakuhĩ (inegene, ageni, TV);
+- ũrĩa aakomete, aarĩire na aanyuire, na ihinda rĩrĩa aarĩĩtie gĩthima rĩa mũico;
+- dawa ciothe njerũ kana mũrimũ wa hindi ya mĩthia.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Mĩtaratara kaingĩ nĩyonagwo narua: kũrega kũrĩa kũonekaga thutha wa saa kenda cia hwaĩ-inĩ tu, na mũtambo mwanya tu, kana rĩrĩa TV ĩgwatie tu. [Mũtaratara wa Family Caregiver Alliance ũkoniĩ mĩtugo ya dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) uugaga na njĩra ĩhũthũ: tũtingĩgarũra mũndũ, no no tũgarũre mĩtugo iitũ na maũndũ marĩa matũthiũrũrũkĩirie.
 
-## When should I talk to a doctor about refusal or frustration?
+## Rĩ nĩ ihinda rĩrĩkũ njagĩrĩirwo nĩ kwaria na ndagĩtarĩ ũhoro wa kũrega kana kũrakara?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Aria na ndagĩtarĩ rĩrĩa mĩtugo ĩgarũrũkaga o rĩmwe, na ihenya, kana hamwe na imenyithia cia mũrimũ. NIA yugaga atĩ mogarũrũku ma kĩhuhũkanio kana marĩa magarũrũkaga na ihenya mũno, makĩria mũndũ angĩkorwo arĩ na mũrimũ wa kũgwatana kana aragarũrĩirwo dawa, magĩrĩirwo nĩ kũmenyithio ndagĩtarĩ o narua.
 
-Contact their doctor promptly if you notice:
+Arĩria ndagĩtarĩ wake o narua ũngĩona:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- kũgarũrũka kwa kĩhuhũkanio kana mogarũrũku manene thĩinĩ wa mathaa kana mĩthenya;
+- imenyithia cia ruo, ta kũinamĩrĩra, kũgitĩra gĩcunjĩ kĩa mwĩrĩ, kana thĩna njerũ ya gwĩtwara;
+- kũhiũha mwĩrĩ kana imenyithia ingĩ cia mũrimũ wa kũgwatana;
+- dawa njerũ kana igarũrĩtwo irumĩrĩirwo nĩ mogarũrũku ma mĩtugo;
+- kwaga kwenda maũndũ mothe ta mothe, maithori kana kwĩhitha ihinda rĩa ciumia igĩrĩ kana makĩria;
+- kũrega irio kana maaĩ.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association ĩtaaraga gũthuthurio kũrĩa kwagĩrĩire kwa mwĩrĩ nĩ ũndũ wa mũndũ o wothe ũrĩ na imenyithia cia mĩtugo, makĩria ciambĩrĩria o rĩmwe. Family Caregiver Alliance o nayo ĩtaaraga kwambĩrĩria na kũũria ndagĩtarĩ, tondũ mathĩna ma mĩtugo no makorwo marĩ na gĩtũmi kĩa mwĩrĩ. Ndũkambĩrĩrie, ũtige, kana ũgarũre dawa o na ĩrĩkũ ũtaarĩtie na ndagĩtarĩ kana mũndũ wa dawa.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Mũndũ o wothe angĩkorwo arĩ hatarini kana harĩ na imenyithia cia hatari ya mwĩrĩ ya narua, hũra thimũ 999 kana 112. NIA ĩtaaraga kwĩra mũndũ wa thimũ atĩ mũndũ ũcio arĩ na dementia.
 
-## Is it okay if we do nothing at all?
+## Nĩ wega tũngĩaga gwĩka ũndũ o na ũrĩkũ?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ĩĩ. Mĩthenya ĩmwe wĩra ũrĩa mwega mũno nĩ kwaga wĩra: gũikara hamwe, kũnyiitana moko, gũthikĩrĩria rwĩmbo rũrĩa mwendete, kana kũrorera nyoni irĩ nja ya ndirica. Ũcio ti ũremi. [Mũtaratara witũ wa gũruta maũndũ hamwe](/caregiving/how-to-play-together/) nĩũtaarĩirie nĩ kĩĩ gĩtũmaga gũtiga tene, kana kwaga kwambĩrĩria, gũtuĩke itua rĩega.

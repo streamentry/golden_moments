@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Gweithgareddau Atgofio: Blychau Cofio, Straeon Bywyd a Lluniau"
+seoTitle: "Gweithgareddau Atgofio ar gyfer Dementia: Heb Gwestiynu"
+description: "Sut i rannu atgofion gyda rhywun sy'n byw gyda dementia heb ei holi: sgwrsio am luniau, blychau cofio a llyfrau stori fywyd, gyda geiriau sy'n cadw pethau'n ysgafn."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Mae atgofio yn golygu mwynhau'r gorffennol gyda'ch gilydd drwy luniau,
+  gwrthrychau, cerddoriaeth a straeon. Gwnewch flwch cofio, crëwch lyfr stori
+  fywyd syml, neu edrychwch ar luniau ochr yn ochr. Peidiwch byth â holi: hepgorwch
+  „Ydych chi'n cofio?” a „Pwy yw hwn?” a defnyddiwch wahoddiadau agored fel
+  „Dywedwch wrthyf am hyn”. Mae sgwrs gynnes yn bwysicach na chael y ffeithiau'n
+  iawn.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Sgwrs yw atgofio, nid prawf. Nid yw cywirdeb yn bwysig; mwynhad sy'n bwysig."
+  - "Yn lle „Ydych chi'n cofio...?” a „Pwy yw hwn?”, defnyddiwch sylwadau a gwahoddiadau fel „Dywedwch wrthyf am y diwrnod hwn”."
+  - "Mae blwch cofio o wrthrychau o fywyd y person yn rhoi rhywbeth i'r dwylo a'r sgwrs afael ynddo."
+  - "Mae llyfr stori fywyd yn helpu teulu, ymwelwyr a staff gofal i adnabod y person, nid dim ond y diagnosis."
+  - "Os yw atgof yn dod â thristwch, cynigiwch gysur yn gyntaf ac ewch ymlaen yn ysgafn."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Beth yw atgofio i bobl sy'n byw gyda dementia?"
+    a: "Mae atgofio yn golygu rhannu atgofion a phrofiadau o'r gorffennol, yn aml gyda chymorth lluniau, gwrthrychau, cerddoriaeth neu fideos. Gall ddigwydd un i un neu mewn grŵp. Y nod yw cael sgwrs braf ac ystyrlon, nid profi'r hyn y gall y person ei gofio."
+  - q: "Pam na ddylwn i ofyn „Ydych chi'n cofio?”"
+    a: "Gall cwestiynau sy'n profi'r cof wneud i berson deimlo'n annifyr neu'n bryderus pan nad yw'r ateb yn dod. Mae'r National Institute on Aging yn rhestru gofyn a yw rhywun yn cofio rhywbeth neu rywun ymhlith y pethau i'w hosgoi. Yn lle hynny, gwnewch sylw ar yr hyn rydych chi'n ei weld, a gadewch i'r person ychwanegu beth bynnag y mae'n dymuno."
+  - q: "Beth ddylwn i ei roi mewn blwch cofio?"
+    a: "Dewiswch wrthrychau diogel a chadarn sy'n gysylltiedig â bywyd y person: eitemau gwaith, offer hobi, sgarff hoff, cardiau post, cardiau ryseitiau, cofroddion chwaraeon neu gopïau o luniau. Peidiwch â chynnwys eitemau miniog, pethau bach y gellid eu llyncu, na phethau gwreiddiol na ellir eu hamnewid."
+  - q: "Beth os ydynt yn camgymryd y ffeithiau?"
+    a: "Gadewch iddo fynd. Os yw eich mam yn dweud bod y llun yn dangos ei chwaer pan mai ei chefnder yw hi, mae hynny'n iawn. Mae cywiro yn troi munud cynnes yn brawf. Dilynwch y stori y mae'n ei hadrodd a mwynhewch hi gyda'ch gilydd."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Yn syml, mae atgofio yn golygu mwynhau'r gorffennol gyda'ch gilydd. I lawer o bobl sy'n byw gyda dementia, gall atgofion o ddegawdau yn ôl aros yn gliriach na'r hyn a ddigwyddodd y bore yma. Gall lluniau, gwrthrychau cyfarwydd, cerddoriaeth a straeon agor y cofion hynny a rhoi rhywbeth cynnes i chi ei rannu. Yr un rheol: sgwrs ydyw, nid prawf byth.
 
-## What is reminiscence, and how is it different from quizzing?
+## Beth yw atgofio, a sut mae'n wahanol i holi?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Mae atgofio yn golygu rhannu atgofion drwy luniau, gwrthrychau, cerddoriaeth neu fideo, ar gyflymder y person ei hun. Mae'r [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) yn ei ddisgrifio fel rhannu profiadau a straeon o'r gorffennol gyda chymorth lluniau, gwrthrychau, fideos neu gerddoriaeth, mewn llyfr neu ar dabled. Mae holi yn wahanol: mae'n gofyn i'r person roi ateb cywir, a gall hynny arwain at deimlo'n annifyr yn hytrach na mwynhau.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+Mae'r [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) yn rhestru gofyn i berson a yw'n cofio rhywbeth neu rywun fel rhywbeth i'w osgoi. Mae'r [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) yn awgrymu osgoi cwestiynau sy'n dibynnu ar gof tymor byr a siarad am y gorffennol pellach yn lle hynny.
 
-| Instead of | Try |
+| Yn lle | Rhowch gynnig ar |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „Ydych chi'n cofio hyn?” | „Mae hwn yn edrych fel diwrnod hapus. Dywedwch wrthyf amdano.” |
+| „Pwy yw hwn?” | „Dyma Anti Rose ar y traeth. Edrychwch ar yr het honno.” |
+| „Pa flwyddyn oedd hon?” | „Mae hwn yn edrych fel yr hen dŷ. Sut beth oedd byw yno?” |
+| „Na, nid Bill yw hwnnw, Frank ydyw.” | „Mae'n edrych fel ei fod yn llawer o hwyl.” |
+| „Rydych chi wedi dweud y stori honno wrthyf eisoes.” | „Rwy'n caru'r stori honno.” |
 
-## How do you talk about photos without quizzing?
+## Sut ydych chi'n sgwrsio am luniau heb holi?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Dechreuwch gyda'r hyn rydych chi'n ei weld, yna gadewch le i'r person ychwanegu rhywbeth os yw'n dymuno.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Eisteddwch ochr yn ochr.** Daliwch yr albwm rhyngoch fel eich bod yn edrych gyda'ch gilydd, nid yn profi ar draws bwrdd.
+2. **Dewiswch ychydig o luniau.** Mae pum llun da yn well na blwch llawn. Mae printiau mawr, clir yn gweithio orau.
+3. **Enwch bobl eich hun.** Mae „Dyma chi a Dad ar ddiwrnod eich priodas” yn tynnu'r pwysau i ffwrdd.
+4. **Gwnewch sylwadau am fanylion.** Dillad, ceir, bwyd, tywydd, wynebau. „Am gar. Mae'n edrych mor sgleiniog.”
+5. **Gwahoddwch, peidiwch â mynnu.** „Dywedwch wrthyf am...” neu „Beth ydych chi'n ei sylwi?” Mae distawrwydd yn iawn.
+6. **Dilynwch eu harweiniad.** Os ydynt yn siarad am rywbeth hollol wahanol, ewch gyda nhw.
+7. **Stopiwch tra bod pethau'n braf.** Caewch yr albwm cyn i flinder setlo i mewn.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Am awgrymiadau llun parod, rhowch gynnig ar [cardiau sgwrs](/games/conversation-cards/). I droi eich lluniau teulu eich hun yn gêm baru ysgafn, rhowch gynnig ar [parau lluniau](/games/photo-pairs/); mae'r lluniau rydych chi'n eu dewis yn aros yn eich porwr.
 
-## How do you make a memory box?
+## Sut ydych chi'n gwneud blwch cofio?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Mae blwch cofio yn flwch o wrthrychau o fywyd y person i'w trin a sgwrsio amdanynt.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Dewiswch flwch cadarn** sy'n hawdd ei agor, fel blwch esgidiau, blwch het neu gist bren fach.
+2. **Dewiswch thema neu gymysgedd.** Gwaith, hobi, lle, degawd, neu ychydig o bopeth.
+3. **Casglwch wrthrychau diogel.** Mae pump i ddeg o eitemau yn ddigon i ddechrau.
+4. **Defnyddiwch gopïau o bethau gwerthfawr.** Gwnewch gopïau o luniau a dogfennau na ellir eu hamnewid a chadwch y gwreiddiol yn ddiogel.
+5. **Tynnwch eitemau allan fesul un.** Rhowch un drosodd, dywedwch rywbeth amdani, a gweld i ble mae'r sgwrs yn mynd.
 
-Ideas to include:
+Syniadau i'w cynnwys:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Gwaith:** bathodyn enw, teclyn bach, darn o wisg unffurf, llyfr cyfrifon, pin nyrs, llyfr coginio o gaffi.
+- **Cartref:** cerdyn rysáit yn eu llawysgrifen, lliain llestri, sgarff hoff neu dei.
+- **Hobïau:** abwyd pysgota heb y bachyn, pêl fas, pelen o edafedd, pecyn hadau.
+- **Lleoedd:** cardiau post, mapiau, cofrodd twristiaeth, toriad papur newydd o'u tref enedigol.
+- **Teulu:** copïau o luniau, llun wedi'i dynnu gan blentyn, gwahoddiad priodas.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Peidiwch â chynnwys eitemau miniog, pethau bach y gellid eu llyncu, nac unrhyw beth a allai ddod ag atgofion poenus oni bai eich bod yn gwybod eu bod yn dderbyniol.
 
-## How do you make a life-story book?
+## Sut ydych chi'n gwneud llyfr stori fywyd?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Mae llyfr stori fywyd yn albwm syml o luniau a phenawdau byr am fywyd y person. Mae'n rhywbeth i edrych arno gyda'ch gilydd, ac mae'n helpu ymwelwyr a staff gofal i weld y person cyfan.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Dewiswch fformat.** Rwymwr gyda gwarchodwyr tudalennau, llyfr lluniau wedi'i argraffu, neu sioe sleidiau ar dabled.
+2. **Cynlluniwch ychydig o adrannau.** Plentyndod, ysgol, gwaith, teulu, lleoedd lle buont yn byw, ffydd, hobïau, hoff fwydydd a cherddoriaeth.
+3. **Ychwanegwch un neu ddau lun i bob tudalen** gyda phennawd byr, print mawr: „Mary, 22 oed, yn dechrau gweithio yn y banc.”
+4. **Cynhwyswch hoff bethau ac arferion.** „Yn cymryd coffi gyda llaeth. Yn caru emynau dydd Sul. Ddim yn hoffi teledu uchel.” Mae hyn yn helpu unrhyw un sy'n gofalu amdanynt.
+5. **Cynhwyswch y person** cymaint ag y maent yn dymuno, gan ddewis lluniau, adrodd straeon neu ddim ond gwylio'r llyfr yn dod at ei gilydd.
+6. **Daliwch i ychwanegu.** Nid oes angen iddo fod yn orffenedig i fod yn ddefnyddiol.
 
-## More reminiscence ideas
+## Rhagor o syniadau atgofio
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Chwaraewch gerddoriaeth o'u hieuenctid** a sgwrsio am ble mae'n eu cludo. Gweler [gweithgareddau cerddoriaeth](/activities/music/).
+- **Gwyliwch ffilmiau cartref neu raglenni teledu** o'u hoff ddegawdau.
+- **Coginiwch bryd o'u plentyndod** a gadewch i'r arogleuon arwain y sgwrs.
+- **Edrychwch ar fap** o'u tref enedigol a dilynwch strydoedd cyfarwydd.
+- **Edrychwch drwy hen gatalogau neu gylchgronau** a sgwrsio am brisiau, ffasiynau a cheir.
+- **Recordiwch eu straeon** ar ffôn, gyda'u caniatâd, i'r teulu.
+- **Rhannwch yn ystod galwadau.** Daliwch un llun i fyny yn ystod galwad fideo; gweler [galwadau ffôn a fideo](/activities/phone-and-video-calls/).
+- **Dewch â llun neu wrthrych pan fyddwch yn ymweld.** Mae'n rhoi ffocws hawdd i'r ymweliad; gweler [ymweld](/activities/visiting/).
 
-## What if a memory is painful?
+## Beth os yw atgof yn boenus?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Gall rhai atgofion ddod â galar, edifeirwch neu ofn. Os yw'r person yn mynd yn ofidus, stopiwch, cynigiwch gysur ac ewch ati'n ysgafn i newid y pwnc neu'r gweithgaredd. Peidiwch â dadlau am yr hyn a ddigwyddodd. Mae'r Family Caregiver Alliance yn cynghori yn erbyn ceisio darbwyllo person ei fod yn anghywir ac yn awgrymu ymateb i'r teimladau y mae'n eu dangos, sy'n real. Os ydynt yn siarad am rywun sydd wedi marw fel pe bai'n fyw, ymatebwch i'r teimlad: „Rydych chi'n ei cholli hi. Dywedwch wrthyf amdani.”
 
-## What does the research say?
+## Beth mae'r ymchwil yn ei ddweud?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Canfu [adolygiad Cochrane o atgofio](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), a oedd yn cynnwys 22 o dreialon a 1,972 o bobl, fod yr effeithiau'n anghyson, yn fach ac yn amrywio yn ôl lleoliad a fformat. Ni chanfu unrhyw dystiolaeth o niwed i bobl sy'n byw gyda dementia. Rydym yn awgrymu atgofio oherwydd y gall wneud amser cynnes ac ystyrlon gyda'ch gilydd, nid fel triniaeth. I gael rhagor o wybodaeth am sgwrsio hawdd, gweler [cynghorion cyfathrebu](/caregiving/communication-tips/).

@@ -1,32 +1,31 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "ᐃᓯᓂᐘᐠ ᐅᐦᒋ ᐃᓯᒋᐠᐍᐏᓇ"
+seoTitle: "ᐃᓯᓂᐘᐠ ᐅᐦᒋ ᐃᓯᒋᐠᐍᐏᓇ: ᑕᐱᐢᑯᐨ ᐃᑌᔨᐦᑕᒧᐏᓇ"
+description: "ᐃᓯᓂᐘᐠ ᑲ ᐱᒪᑎᓯᐟ ᑲ ᐘᓂᐦᑖᐟ ᑲᑭᓭᔭᐃᒋᐠ ᐅᐦᒋ ᐃᓯᒋᐠᐍᐏᓇ, ᐅᐦᒋ ᐅᐱᒫᑎᓯᐏᐣ, ᐅᒥᔪᐸᒋᐦᐃᑲᓐ ᐊᑭᐢᑭᐣ ᐅᑕᐢᑭᐦᐊᐏᓇ, ᑕᐱᐢᑯᐨ ᑲ ᓇᐦᑲᐸᔭᐦᐃᐠ ᐃᓯ."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  ᒥᔪ ᐃᓯᒋᐠᐍᐏᓇ ᐃᓯᓂᐘᐠ ᑲ ᐱᒪᑎᓯᐟ ᑲ ᐘᓂᐦᑖᐟ ᑲᑭᓭᔭᐃᒋᐠ ᐅᐦᒋ ᐅᐦᒋᐤ ᐅᐱᒫᑎᓯᐏᐣ:
+  ᑲ ᐃᑖᐱᐟ, ᑲ ᒥᔪᐸᒋᐦᐃᑲᓐ ᐊᑭᐢᑭᐣ, ᑲ ᑕᐢᑭᐦᐊᐏᓇ ᐊᑭᐢᑭᐣ. ᐊᐘ ᑲ ᐊᑐᐢᑫᐟ ᒪᓯᓇᐦᐃᑲᓂᐠ ᑭ ᒥᔪᐸᒋᐦᐃᑲᓐ ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᒪᓯᓇᐦᐃᑲᓇ,
+  ᐊᐘ ᑲ ᐅᓇᒋᐦᐃᑲᓐ ᑭ ᒥᔪᐸᒋᐦᐃᑲᓐ ᑲ ᑕᑯᓂᒋᐠ ᑲᓇᑕ ᐊᐱᒋᐦᐃᑲᓇ, ᐊᐘ ᑲ ᒥᔪᐸᒋᐦᐃᑲᓐ ᒥᑖᐍᐏᐣ ᑭ ᒥᔪᐸᒋᐦᐃᑲᓐ ᑲ ᑲᔭᐢ ᐃᑖᐱᐟ ᒥᑖᐍᐏᐣ.
+  ᑲᑭᔭᐤ ᐊᐘ ᐱᑐ ᒥᔪᐸᒋᐦᐃᑲᓐ; ᒪᒃ ᒪᒋᐦᑕ ᐊᓂᒪ ᐊᐘ, ᐁᑿ ᓇᒨᔭ ᐁᑿ ᐃᓯᓂᐤ ᐅᐦᒋ.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "ᒪᒋᐦᑕ ᐅᒪ ᐊᐘ ᐅᐱᒫᑎᓯᐏᐣ ᐅᐦᒋ: ᐅᐦᒋ ᐅᑐᐢᑫᐏᐣ, ᐅᒥᔪᐸᒋᐦᐃᑲᓇ, ᐅᑕᐢᑭᐦᐊᐏᓇ, ᐁᑿ ᑭᒋ ᒥᔪᐸᒋᐦᐃᑲᓐ ᐅᐦᒋ."
+  - "ᐊᑐᐢᑫᐏᓇ ᑲ ᑕᐱᐢᑯᐨ ᐅᐦᒋ, ᑖᐱᐢᑯᐨ ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᐊᐱᒋᐦᐃᑲᓇ, ᑲ ᑭᓯᐯᑭᓀᐦᐟ ᐅᑖᐸᓐ, ᓇᒪᐠ ᑲ ᓯᐢᑯᐦᐟ ᒥᐢᑎᐠ, ᒪᐢᑿᐨ ᐊᑭ ᒥᔪᐸᒋᐦᐃᑲᓐ ᐁᑿ ᑭᐢᑭᓄᐦᐊᒪᑲᓐ ᐃᑕᐢᐸᐣ."
+  - "ᓇᒨᔭ ᑲᑭᔭᐤ ᐃᓯᓂᐘᐠ ᓵᑭᐦᐋᐤ ᐊᐱᒋᐦᐃᑲᓇ ᓇᒪᐠ ᒥᑖᐍᐏᓇ. ᒥᓂᓂᐘᐠ ᓵᑭᐦᐋᐤ ᑲ ᐱᒥᐦᑯᐦᑖᐟ, ᓂᑲᒧᐏᐣ, ᑲ ᓂᑖᐏᑭᐦᐃᑲᓐ, ᒪᓯᓇᐦᐃᑲᓐ ᓇᒪᐠ ᑲ ᐘᐃᒋᐦᐃᐟ ᐊᐘᑭᓇ. ᑲᑲᐧᐁᒋᒪ, ᐘᐱᒪ, ᐁᑿ ᒪᒃ ᐃᑖᐱᐟ."
+  - "ᐊᑐᐢᑫᐏᓇ ᑲ ᐃᑕᐢᐸᐣ ᐅᑐᐢᑫᐏᐣ ᓇᐦᑲᐸᔭᐦᐃᐠ ᐁᑿ ᐃᑖᐱᐟ, ᐁᑿ ᐊᐱᓯᐢ ᐃᓯᐦᑕ ᑲ ᐱᒥᒋᓯᐟ ᒪᐢᑭᐦᑭᐏᐣ."
+  - "ᐁᑿ ᐃᑕᐍᐟ «ᓇᒨᔭ» ᒥᔪᐘᐣ. ᐘᐃᒋᐦᐃᐍᐏᐣ ᒥᔭ, ᓇᒨᔭ ᐊᑐᐢᑫᐏᐣ, ᐁᑿ ᒥᓇ ᑲᑲᐧᐁᒋᒪ ᑭᐦᑖᐘᐠ ᑮᓯᑳᐠ."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "ᑖᓂᓯ ᐃᓯᒋᐠᐍᐏᓇ ᐃᓯᓂᐘᐠ ᑲ ᐱᒪᑎᓯᐟ ᑲ ᐘᓂᐦᑖᐟ ᑲᑭᓭᔭᐃᒋᐠ ᑲ ᒥᔪᐸᒋᐦᐃᑲᐟ?"
+    a: "ᐯᔭᐠ ᒪᓯᓇᐦᐃᑲᓐ ᓇᒨᔭ ᐃᑕᐢᐯᐟ, ᒪᐢᑿᐨ ᑲᑭᔭᐤ ᐊᐘ ᐱᑐ ᒥᔪᐸᒋᐦᐃᑲᓐ. ᒥᔪ ᒪᒋᐦᑕᐏᓇ ᐃᐦᑖᐘ ᐊᑐᐢᑫᐏᓇ ᐅᐦᒋ ᐅᐦᒋ ᐅᑐᐢᑫᐏᐣ, ᑖᐱᐢᑯᐨ ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᒪᓯᓇᐦᐃᑲᓇ ᓇᒪᐠ ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᐊᐱᒋᐦᐃᑲᓇ, ᐁᑿ ᒥᔪᐸᒋᐦᐃᑲᓇ ᑲ ᓵᑭᐦᐋᐟ, ᑖᐱᐢᑯᐨ ᐱᑯᐦᐋᐤ, ᐅᑖᐸᓇ, ᓂᑲᒧᐏᐣ, ᑲ ᐱᒥᐦᑯᐦᑖᐟ, ᓇᒪᐠ ᒥᑖᐍᐏᓇ. ᐘᐱᒪ ᑖᓂᓯ ᐁ ᐊᑐᐢᑫᐟ ᐅᑭᐢᑭᓄᐦᐊᒪᐤ ᐅᐦᒋ, ᐁᑿ ᒪᒃ ᐃᑖᐱᐟ ᐊᐱᓯᐢ."
+  - q: "ᓅᐦᑖᐏᕀ ᐁᑿ ᐃᑕᐍᐤ ᓇᒨᔭ ᐅᐦᒋ ᒥᓇᐚᐠ ᐊᑐᐢᑫᐏᓇ. ᑖᓂᓯ ᓂᑲ ᐃᑖᐱᐣ?"
+    a: "ᒥᓂᓂᐘᐠ, ᐃᓯᓂᐘᐠ ᐁᑿ ᐃᐢᑫᐘᐠ, ᐁᑿ ᐃᑕᐍᐘᐠ ᓇᒨᔭ ᐊᑐᐢᑫᐏᓇ ᑲ ᐃᑕᐢᐸᐣ ᑭᐢᑭᓄᐦᐊᒪᑲᓐ ᓇᒪᐠ ᑲ ᐃᑕᐢᐸᐣ ᐊᐘᓯᐢ. ᑲᑲᐧᐁᒋᒪ ᐘᐃᒋᐦᐃᐍᐏᐣ ᐃᑕ: «ᑭ ᑲ ᐘᐃᒋᐦᐃᐣ ᒋ ᓇᐦᑲᐸᔭᐦᐃᔭᐣ ᐆᒪ?» ᒐᐦᑭᔭᐤ ᐯᔭᐠ ᐊᐘ ᓇᒪᐠ ᓂᓱ ᐊᐘᑭᓇ ᐊᑭ ᒥᔪᐘᐣ ᐁᑿ ᒥᓇᐚᐠ ᐘᐢᑲᐦᐃᑲᓂᐠ."
+  - q: "ᒥᔪᓈ ᒋ ᐊᐸᒋᐦᐋᐟ ᐊᐱᒋᐦᐃᑲᓇ?"
+    a: "ᐊᐱᓯᐢ ᐊᐘ ᑲ ᓇᐦᑲᐸᔭᐦᐃᐟ ᐁᑿ ᑲᓇᑕ ᐊᐱᒋᐦᐃᑲᓇ ᐅᐦᒋ. ᒥᐢᑲᐦᐊ ᐊᐱᒋᐦᐃᑲᓇ ᑲ ᒪᐢᑭᐦᑭᐏᐟ, ᒨᐦᑯᒪᓇ, ᐁᑿ ᑭᒋ ᑲ ᑭᓯᑲᑌᐠ, ᐁᑿ ᒥᔭ ᐊᑐᐢᑫᐏᓇ ᑖᐱᐢᑯᐨ ᑲ ᓯᐢᑯᐦᐟ ᒥᐢᑎᐠ, ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᑲᓇᑕ ᐊᐱᒋᐦᐃᑲᓇ, ᓇᒪᐠ ᑲ ᒪᐢᑲᐦᐊᒪᐟ ᒋᐦᑭ ᐊᐱᒋᐦᐃᑲᓇ ᐅᐦᒋ ᒋᐦᒋᐦᐠ. Alzheimer's Association ᐃᑌᐤ ᒋ ᒥᐢᑲᐦᐊᒪᐟ ᑲ ᒪᐢᑭᐦᑭᐏᐟ ᐊᐱᒋᐦᐃᑲᓇ ᐅᑐᐢᑫᐏᑲᒥᐠ ᐅᐦᒋ, ᑭᓇ ᐊᑐᐢᑫᐏᐣ ᑖᐱᐢᑯᐨ ᑲ ᓯᐢᑯᐦᐟ ᒥᔪ ᐁᑿ ᓇᐦᑲᐸᔭᐦᐃᐠ ᒋ ᐃᑖᐱᐟ."
+  - q: "ᐅᐦᒋ ᑭᒋ ᐊᑐᐢᑫᐤ. ᐊᐱᓯᐢ ᐊᑐᐢᑫᐏᓇ ᑭ ᐃᑕᐢᐸᓇ ᐁᑿ ᓇᒨᔭ ᒥᔪ ᐅᐦᒋ?"
+    a: "ᐁᑿ ᑭ ᐃᑕᐢᐸᓇ, ᑭᓯᐢᐱᐣ ᐊᑐᐢᑫᐏᐣ ᐁᑿ ᐅᐦᒋ ᐃᑕᐍᔭᐣ. ᐃᑕ ᑕᐱᐢᑯᐨ ᐘᐃᒋᐦᐃᐍᐏᐣ, ᐊᐸᒋᐦᐊ ᐊᐘ ᐊᐱᒋᐦᐃᑲᓇ, ᐁᑿ ᓂᐘᐸᐦᑕ ᐊᑐᐢᑫᐏᐣ ᑲ ᐃᑕᐢᐸᐣ ᐅᐦᒋ ᐅᑐᐢᑫᐏᐣ, ᑖᐱᐢᑯᐨ ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᒪᓯᓇᐦᐃᑲᓐ, ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᒪᓯᓇᐦᐃᑲᓐ, ᓇᒪᐠ ᑲ ᐘᐃᒋᐦᐃᐟ ᑲ ᒪᐦᑖᑖᐟ ᒪᓯᓇᐦᐃᑲᓐ. ᑭᓯᐢᐱᐣ ᑭᒋ ᓇᑕᐍᔭᐣ ᐯᔭᐠ ᐃᑭᐢᑭᓄᐦᐊᒪᐠ, ᐊᑐᐢᑫᐏᐣ ᑲ ᐃᑕᐢᐸᐣ ᒪᐢᑿᐨ ᐱᑐ ᐊᑭ ᒥᔪ ᐃᑕᐢᐸᐣ ᐁᑿ ᓇᒨᔭ ᑲ ᑲᓇᐘᐸᐦᑕᒪᐟ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +44,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+ᒥᓂᓂᐘᐠ ᓇᑐᓇᐤ «activities for men with dementia» ᒪᐢᑿᐨ ᑲ ᐃᑕᐍᒪᐟ ᐃᓯᒋᐠᐍᐏᓇ ᓇᒨᔭ ᒥᔪ ᐃᑕᐢᐸᓇ ᐅᐦᒋ ᐊᓂᒪ ᐊᐘ ᑲ ᓵᑭᐦᐋᐟ. ᐁᑿ ᒥᔪ ᑭ ᐃᑌᔨᐦᑕᒧᐣ. ᒫᑲ ᓇᒨᔭ ᒪᓯᓇᐦᐃᑲᓐ «ᐃᓯᓂᐤ ᐅᐦᒋ» ᐃᓯᒋᐠᐍᐏᓇ ᐅᐦᒋ. ᒪᒋᐦᑕ ᐅᒪ ᐊᐘ ᐅᐦᒋ: ᑖᓂᓯ ᑲ ᐃᑖᐱᐟ ᐅᐦᒋ ᐅᑐᐢᑫᐏᐣ, ᑖᓂᓯ ᑲ ᐃᑖᐱᐟ ᐅᐦᒋ ᐊᔭᒥᐦᐁᑭᓯᑲᐠ, ᐁᑿ ᑖᓂᓯ ᑲ ᒥᔪᐸᒋᐦᐃᑲᓐ ᐁ ᐘᐃᒋᐦᐃᐟ. ᑲᑭᔭᐤ ᐊᐘ ᐱᑐ ᒥᔪᐸᒋᐦᐃᑲᓐ. ᒥᓂᓂᐘᐠ ᐃᓯᓂᐘᐠ ᓵᑭᐦᐋᐘᐠ ᑲ ᐱᒥᐦᑯᐦᑖᐟ, ᑲ ᓂᑖᐏᑭᐦᐃᑲᓐ, ᑲ ᒪᓯᓇᐦᐃᑲᓐ ᓇᒪᐠ ᑲ ᓂᑲᒧᐟ, ᐁᑿ ᒥᓂᓂᐘᐠ ᐃᐢᑫᐘᐠ ᓵᑭᐦᐋᐘᐠ ᐅᑖᐸᓇ ᐁᑿ baseball.
 
-## How do I find activities he will actually enjoy?
+## ᑖᓂᓯ ᓂᑲ ᒥᑲᐣ ᐃᓯᒋᐠᐍᐏᓇ ᑲ ᒥᔪᐸᒋᐦᐃᑲᐟ?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+ᒪᒋᐦᑕ ᐅᐱᒫᑎᓯᐏᐣ ᐅᐦᒋ. Alzheimer's Association ᐃᑌᐤ ᒋ ᐅᓯᐦᑖᐟ [ᑕᐢᑭᓯᑲᐤ ᐘᓯᑯᓂᑲᓐ](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ᐅᐦᒋ ᐊᓂᒪ ᐊᐘ ᑲ ᓵᑭᐦᑖᐟ, ᑲ ᓇᒨᔭ ᓵᑭᐦᑖᐟ, ᐅᒪᐢᑭᐦᑭᐏᐣ, ᐁᑿ ᐅᒥᔪᐸᒋᐦᐃᑲᓇ, ᐁᑿ ᑖᓂᓯ ᑲ ᐃᓯ ᐘᓯᑯᓂᑲᓐ ᐅᑭᓯᑲᐤ. ᑲᑲᐧᐁᒋᒥᓱ:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **ᑖᓂᓯ ᑲ ᐃᑖᐱᐟ ᐅᑐᐢᑫᐏᐣ?** ᒪᓯᓇᐦᐃᑲᓂᐠ, ᓂᑖᐏᑭᐦᐃᑲᓂᐠ, ᐅᓇᒋᐦᐃᑲᓂᐠ, ᐊᑐᐢᑫᐏᓂᐠ, ᓯᒫᑲᓂᓯᐏᓂᐠ, ᐊᑖᐍᐏᓂᐠ, ᑭᐢᑭᓄᐦᐊᒪᑲᓂᐠ, ᐱᒧᐦᑌᐏᓂᐠ, ᐘᐢᑲᐦᐃᑲᓂᐠ?
+- **ᑖᓂᓯ ᑲ ᐃᑖᐱᐟ ᐊᔭᒥᐦᐁᑭᓯᑲᐠ?** ᐱᑯᐦᐋᐤ, ᒪᓯᓇᐦᐃᑲᓇ ᐊᐱᒋᐦᐃᑲᓇ, ᒥᐢᑎᐠ ᐅᐦᒋ ᐊᑐᐢᑫᐏᐣ, ᒥᑖᐍᐏᓇ, ᐊᔭᒥᐦᐋᐏᑲᒥᐠ, ᓂᑲᒧᐏᐣ, ᑲ ᐱᒥᐦᑯᐦᑖᐟ, ᐅᑖᐸᓐ ᐅᓇᒋᐦᐃᑲᓂᐠ?
+- **ᑖᓂᓯ ᑲ ᐃᑖᐱᐟ ᐅᑕᐢᑭᐦᐊᐏᓇ?** ᑲ ᒥᓂᐦᑫᐟ ᐁᑿ ᒪᓯᓇᐦᐃᑲᓐ ᑕᐦᑕᐤ ᑭᑭᓭᐹᐠ? ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᑭᓯᐘᐣ? ᑲ ᑭᓯᐯᑭᓀᐦᐟ ᐅᑖᐸᓐ ᐊᔭᒥᐦᐁᑭᓯᑲᐠ?
+- **ᑖᓂᓯ ᑲ ᒪᒋᐦᑖᐟ ᐅᑭᐢᑭᓄᐦᐊᒪᐤ ᐅᐦᒋ?** ᐊᓂᒪ ᐊᑎᓯᐏᐣ ᐃᑌᐤ ᑭᓯᐢᐱᐣ ᐊᐘ ᒪᒋᐦᑖᐟ ᐊᑐᐢᑫᐏᓇ ᐁᑿ ᓇᒨᔭ ᑲᑲᐧᐁᒋᒪᐟ, ᑖᐱᐢᑯᐨ ᑲ ᐘᐦᐱᓀᐦᐟ ᐊᐢᑭᕀ, ᐆᒪ ᐊᑐᐢᑫᐏᓇ ᑭ ᐃᐦᑖᐘ ᐅᑕᐢᑭᐦᐊᐏᓂᐠ.
+- **ᑖᓂᓯ ᑲ ᐘᐱᐦᑖᐟ?** ᐊᐘᑭᓇ ᒥᔪᐸᒋᐦᐃᑲᓐ ᑲ ᐘᐱᒪᐟ ᒥᑖᐍᐏᓇ; ᐊᐘᑭᓇ ᐃᑕᐢᐸᓇ ᐁ ᑭᐦᑭᐢᐘᐟ ᓇᒪᐠ ᐁ ᒪᐢᑿᐟ ᒪᑕᐍᐏᐣ. ᐘᐱᒪ ᑕᓂᐦᐃ ᐁ ᒥᔪᐸᒋᐦᐃᑲᐟ, ᐁ ᓭᐢᑭᓯᐟ ᓇᒪᐠ ᐁ ᓂᐢᑭᓯᐟ.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+ᐃᑕ ᐘᐃᒋᐦᐃᐍᐠ ᐅᐦᒋ ᐅᑎᐦᐃᓂᐘ ᐁᑿ ᐅᐦᒋ ᐅᐧᐃᒋᐦᐃᐘᑲᓇ. ᑭ ᑲᑭᓭᔭᐤ ᒥᔪᐸᒋᐦᐃᑲᓇ ᑲ ᐘᓂᑭᐠ ᐅᐦᒋ ᑕᐢᑭᓯᑲᐤ ᐱᒫᑎᓯᐏᐣ.
 
-## Activity ideas based on past work
+## ᐃᓯᒋᐠᐍᐏᓇ ᐅᐦᒋ ᐅᐦᒋ ᐅᑐᐢᑫᐏᐣ
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association ᒥᔭᐤ ᐘᐦᑖᐏᐣ: ᐊᐘ ᑲ ᐊᑐᐢᑫᐟ ᒪᓯᓇᐦᐃᑲᓂᐠ ᑭ ᒥᔪᐸᒋᐦᐃᑲᓐ ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᐊᑐᐢᑫᐏᓇ, ᑖᐱᐢᑯᐨ ᑲ ᐊᐦᑖᐟ ᓲᓂᔮᐤ ᐊᐱᒋᐦᐃᑲᓂᐠ, ᑲ ᐘᐃᒋᐦᐃᐟ ᑲ ᒪᐦᑖᑖᐟ ᒪᓯᓇᐦᐃᑲᓐ, ᓇᒪᐠ ᑲ ᐅᓯᐦᑖᐟ ᒪᓯᓇᐦᐃᑲᓐ ᑖᓂᓯ ᒋ ᐃᓯᒋᐠᐟ, ᐁᑿ ᐊᐘ ᑲ ᐅᑭᒪᐢᑭᐏᐟ ᓇᒪᐠ ᑲ ᓂᑖᐏᑭᐦᐃᑲᓐ ᑭ ᒥᔪᐸᒋᐦᐃᑲᓐ ᑲ ᐊᑐᐢᑫᐟ ᐘᐢᑲᐦᐃᑲᓂᐠ. ᐯᔭᐠᐘᐣ ᐃᑌᔨᐦᑕᒧᐏᐣ ᑭ ᐃᐦᑖᐣ ᒥᓂᓂᐘᐠ ᐅᑐᐢᑫᐏᓇ.
 
-| Past work | Activity ideas | Simpler version |
+| ᐅᐦᒋ ᐅᑐᐢᑫᐏᐣ | ᐃᓯᒋᐠᐍᐏᓇ ᐃᑌᔨᐦᑕᒧᐏᓇ | ᐊᐱᓯᐢ ᐃᓯᐦᑕᐏᐣ |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| ᒪᓯᓇᐦᐃᑲᓐ ᓇᒪᐠ ᐊᑖᐍᐏᐣ | ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᒪᓯᓇᐦᐃᑲᓇ ᐊᐱᒋᐦᐃᑲᓂᐠ, ᑲ ᒪᐢᑭᓇᐦᐊᒪᐟ ᒪᓯᓇᐦᐃᑲᓇ, ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᒪᓯᓇᐦᐃᑲᓐ, ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᒪᓯᓇᐦᐃᑲᓐ ᐊᐱᒋᐦᐃᑲᓂᐠ | ᑲ ᐊᐦᑖᐟ ᒪᓯᓇᐦᐃᑲᓇ; ᑲ ᐊᐦᑖᐟ ᒪᓯᓇᐦᐃᑲᓐ ᐊᐱᒋᐦᐃᑲᓇ ᒪᓯᓇᐦᐃᑲᓂᐠ |
+| ᐊᑐᐢᑫᐏᐣ ᓇᒪᐠ ᐅᓇᒋᐦᐃᑲᓐ | ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᑲᓇᑕ ᐊᐱᒋᐦᐃᑲᓇ, ᑲ ᒪᐢᑲᐦᐊᒪᐟ ᒋᐦᑭ ᐊᐱᒋᐦᐃᑲᓇ ᐅᐦᒋ ᒋᐦᒋᐦᐠ, ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᐊᐱᒋᐦᐃᑲᓐ ᒪᓯᓇᐦᐃᑲᓇ | ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᐅᐦᒋ ᐃᓂᓂᐤ ᓂᓱ ᒥᓂᐦᑵᐏᓂᐠ |
+| ᐅᑭᒪᐢᑭᐏᐣ ᓇᒪᐠ ᓂᑖᐏᑭᐦᐃᑲᓐ | ᑲ ᓂᐱᐦᑖᐟ ᓂᐱ, ᑲ ᐊᐦᑖᐟ ᓂᐱᔭ, ᑲ ᐘᐦᐱᓀᐦᐟ ᓂᐱᔭ, ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᓂᑖᐏᑭᐦᐃᑲᓐ | ᐁ ᐊᐱᐟ ᐘᔭᐑᑎᒥᐦᐠ ᒣᒋ ᐁ ᐊᑐᐢᑫᔭᐣ; ᐁ ᑕᑯᓂᒋᐠ ᐊᐢᑭᐦᑭᐏᓇ ᒪᓯᓇᐦᐃᑲᓇ |
+| ᓯᒫᑲᓂᓯᐏᐣ | ᑲ ᐘᓭᔭᐦᐟ ᒪᐢᑭᓯᓇ, ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᒪᓯᓇᐦᐃᑲᓐ ᐊᐱᒋᐦᐃᑲᓂᐠ, ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᒪᓯᓇᐦᐃᑲᓇ ᐅᐦᒋ ᐊᑐᐢᑫᐏᐣ ᑭᓯᐢᐱᐣ ᒥᔪᐸᒋᐦᐃᑲᐟ | ᑲ ᓇᑕᐦᐸᐦᑕᐟ ᓂᑲᒧᐏᐣ ᐅᐦᒋ ᐊᓂᒪ ᐃᑕᐢᐸᐣ |
+| ᐊᑖᐍᐏᐣ ᓇᒪᐠ ᐘᐃᒋᐦᐃᐍᐏᐣ | ᑲ ᐃᑕᐟ «ᑕᓂᓯ» ᐊᐘᑭᓇ ᑲ ᐱᐦᑐᐠ, ᑲ ᒥᔭᐟ ᒦᒋᐏᐣ, ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᒪᓯᓇᐦᐃᑲᓇ | ᐁ ᐊᐱᐟ ᐃᐢᑵᑌᒥᐦᐠ ᒋ ᐃᑕᐟ «ᑕᓂᓯ» |
+| ᑭᐢᑭᓄᐦᐊᒪᑲᓐ | ᑲ ᐊᔭᒥᐦᐋᐟ ᐊᔭᒥᐦᐃᐟ, ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᒪᓯᓇᐦᐃᑲᓇ, ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᒪᓯᓇᐦᐃᑲᓇ ᐅᐦᒋ ᐃᑌᔨᐦᑕᒧᐏᐣ | ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᒪᓯᓇᐦᐃᑲᓐ ᒪᒪᐏ ᐅᐦᒋ ᒪᓯᓇᐦᐃᑲᓇ |
+| ᐱᒧᐦᑌᐏᐣ ᓇᒪᐠ ᐱᒥᐦᑖᐏᐣ | ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᐊᐢᑭᐏᓇ ᓇᒪᐠ ᑲᔭᐢ ᐅᑖᐸᓐ ᒪᓯᓇᐦᐃᑲᓇ, ᑲ ᑭᓯᐯᑭᓀᐦᐟ ᐅᑖᐸᓐ | ᑲ ᐘᐱᒪᐟ ᐅᑖᐸᓇ ᑲ ᐱᒧᐦᑌᐠ ᐅᐦᒋ ᐊᐱᐏᐣ |
+| ᐘᐢᑲᐦᐃᑲᓐ ᐁᑿ ᐅᑎᐦᐃᓂᐘᐠ | ᑲ ᐊᑲᐧᐦᐱᑖᐟ ᐊᔭᐱᓯᑲᓇ, ᑲ ᐅᓯᐦᑖᐟ ᒦᒋᐏᐣ ᐊᐱᐦᒋᑲᓂᐠ, ᑲ ᐘᐃᒋᐦᐃᐟ ᒋ ᐱᒥᐦᑯᐦᑖᐟ ᑭᔮᐤ ᒦᒋᐏᐣ | ᑲ ᒪᐦᑯᑕᐟ ᐊᔭᐱᓯᑲᓇ; ᑲ ᓇᐦᑲᐸᔭᐦᐟ |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+ᐊᐘᑭᓇ ᑲᑭᓭᔭᐃᒋᐠ, ᑖᐱᐢᑯᐨ ᓯᒫᑲᓂᓯᐏᐣ ᐅᐦᒋ ᐊᑐᐢᑫᐏᐣ, ᑭ ᐱᐦᑐᐘᐠ ᒪᐢᑭᐦᑭᐏᓇ ᐃᑌᔨᐦᑕᒧᐏᓇ. ᒪᒃ ᐃᑖᐱᐟ, ᐊᐱᓯᐢ ᐃᑕ ᐅᐦᒋ ᐅᐦᒋ ᐁ ᐃᑌᔨᐦᑕᒧᐟ, ᐁᑿ ᑭᓯᐢᐱᐣ ᓭᐢᑭᓯᐟ ᒥᓯᓇᐦᐊ ᐃᑌᔨᐦᑕᒧᐏᐣ.
 
-## Activity ideas based on hobbies
+## ᐃᓯᒋᐠᐍᐏᓇ ᐅᐦᒋ ᒥᔪᐸᒋᐦᐃᑲᓇ
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **ᒥᐢᑎᐠ ᐅᐦᒋ ᐊᑐᐢᑫᐏᐣ.** ᑲ ᓯᐢᑯᐦᐟ ᒥᐢᑎᐠ ᓇᒪᐠ ᑲ ᐘᓭᔭᐦᐟ ᐱᓀᓯᐤ ᐘᐢᑲᐦᐃᑲᓐ. Alzheimer's Association ᐃᑌᐤ ᒋ ᒥᐢᑲᐦᐊᒪᐟ ᑲ ᒪᐢᑭᐦᑭᐏᐟ ᐊᐱᒋᐦᐃᑲᓇ ᐅᑐᐢᑫᐏᑲᒥᐠ ᐅᐦᒋ, ᑭᓇ ᐊᑐᐢᑫᐏᐣ ᑖᐱᐢᑯᐨ ᑲ ᓯᐢᑯᐦᐟ ᒥᔪ ᐁᑿ ᓇᐦᑲᐸᔭᐦᐃᐠ ᒋ ᐃᑖᐱᐟ.
+2. **ᐱᑯᐦᐋᐤ.** ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᐱᑯᐦᐋᐤ ᒪᓯᓇᐦᐃᑲᓐ ᒣᒋ ᒪᓂᓯᐢ ᐁ ᒥᐢᑲᐦᐊᒪᐟ, ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᐱᑯᐦᐋᐤ ᒪᓯᓇᐦᐃᑲᓇ, ᓇᒪᐠ ᐁ ᐊᐱᔭᐠ ᒪᒪᐏ ᓂᐱ ᒋᑕᒪᐠ.
+3. **ᐅᑖᐸᓇ.** ᑲ ᑭᓯᐯᑭᓀᐦᐟ ᐅᑖᐸᓐ, ᑲ ᐘᓭᔭᐦᐟ ᐅᑖᐸᓐ ᐊᐱᒋᐦᐃᑲᓇ, ᑲ ᑲᓇᐘᐸᐦᑕᐟ ᑲᔭᐢ ᐅᑖᐸᓐ ᒪᓯᓇᐦᐃᑲᓇ, ᓇᒪᐠ ᑲ ᐱᒧᐦᑌᐟ ᐅᑖᐸᐣ ᐅᐦᒋ ᒋ ᐊᐱᐟ.
+4. **ᒥᑖᐍᐏᓇ.** ᑲ ᐘᐱᒪᐟ ᑲᔭᐢ ᒥᑖᐍᐏᐣ ᓇᒪᐠ ᒪᐢᑿᐨ ᐊᐱᓯᐢ, ᑲ ᐊᐸᐦᐊᒪᐟ ᔭᐢᑭᓯᐤ ᐯᑲᐠ, ᑲ ᐊᐦᑖᐟ golf ᐯᑲᐠ ᐊᐢᑭᐦᑭᐠ, ᓇᒪᐠ ᑲ ᓇᐦᑲᐸᔭᐦᐟ baseball ᒪᓯᓇᐦᐃᑲᓇ.
+5. **ᒪᓯᓇᐦᐃᑲᓇ ᐊᐱᒋᐦᐃᑲᓇ ᐁᑿ ᒥᑖᐍᐏᓇ.** ᐊᐱᓯᐢ ᒪᓯᓇᐦᐃᑲᓐ ᐊᐱᒋᐦᐃᑲᓐ ᑲ ᑭᐢᑫᔭᐣ, dominoes, ᓇᒪᐠ ᑲ ᑵᐢᑵᐦᐱᓇᐟ ᒪᓯᓇᐦᐃᑲᓇ ᒋ ᒥᑲᐟ ᐯᔭᐠᐘᐣ. ᐊᐱᓯᐢ ᐃᑕ, ᐁᑿ ᐯᔭᑯ ᑲ ᐊᑭᒪᐟ ᐊᑭᐦᑕᓱᐏᐣ.
+6. **ᓂᑲᒧᐏᐣ.** ᓂᑲᒧᐏᓇ ᐅᐦᒋ ᐅᐢᑭᓇᐦᐃᑲᐏᐣ ᐁᑿ ᓂᐢᑕᓇ 20 ᐊᐢᑭᐏᐣ, ᑲ ᓵᑭᐦᑖᐟ ᓂᑲᒧᐏᐣ ᒥᓇᐚᐠ, ᓇᒪᐠ ᐊᔭᒥᐦᐋᐏᐣ ᓂᑲᒧᐏᐣ. ᐘᐱᒪ ᓂᐦᐃ [ᓂᑲᒧᐏᐣ ᐃᓯᒋᐠᐍᐏᓇ ᐘᐦᑖᐏᐣ](/activities/music/).
+7. **ᑲ ᐱᒥᐦᑯᐦᑖᐟ ᐁᑿ ᑲ ᐯᐢᑯᐟ.** ᑲ ᑭᓯᐯᑭᓀᐦᐟ ᐊᐢᑭᐦᑭᐏᓇ, ᑲ ᓇᐦᑲᐸᔭᐦᐟ ᐊᐱᐦᐠ, ᑲ ᐅᓯᐦᑖᐟ ᐘᔭᐢ, ᓇᒪᐠ ᑲ ᐊᑐᒥᐟ ᑖᓂᓯ ᑲ ᐅᓯᐦᑖᐟ ᐅᒋᓕ ᒣᒋ ᐁ ᐱᒥᐦᑯᐦᑖᔭᐣ.
+8. **ᒪᓯᓇᐦᐃᑲᓐ.** Alzheimer's Association ᐃᑌᐤ ᐊᐘ ᑲ ᐊᔭᒥᐦᐋᐟ ᒪᓯᓇᐦᐃᑲᓐ ᑖᐦᑭ ᑭ ᒥᔪᐸᒋᐦᐃᑲᓐ ᐁ ᐃᑖᐱᐟ, ᐊᐧᐋᐱᐢ ᑭᓯᐢᐱᐣ ᓇᒨᔭ ᑲᑭᔭᐤ ᓂᓯᑐᐦᑕᐟ ᑲ ᐃᑕᐢᐸᐣ. ᑲ ᒥᓂᐦᑫᐟ ᐁᑿ ᒪᓯᓇᐦᐃᑲᓐ ᑭ ᐃᐦᑖᐣ ᐅᐦᒋ ᑭᑭᓭᐹᐤ.
+9. **ᐅᓯᐦᒋᑫᐏᐣ.** ᒋᐦᑭ ᒪᓯᓇᐦᐃᑲᓐ ᐊᐱᒋᐦᐃᑲᓇ ᓇᒪᐠ ᐊᐱᓯᐢ ᐅᓯᐦᒋᑫᐏᓇ ᐊᐘ ᐅᐦᒋ. ᓂᐘᐸᐦᑕ ᐊᐱᒋᐦᐃᑲᓇ ᑲ ᐘᔭᐢ ᒋ ᑕᑯᓂᒋᐠ.
+10. **ᑲ ᑲᓇᐍᔭᐣ ᐯᔭᐠ.** ᑲ ᐊᓵᒪᐟ ᐱᓀᓯᐢ, ᑲ ᐘᓭᔭᐦᐟ ᓇᒪᐠ ᑲ ᐱᒧᐦᑌᔭᐟ ᐱᓀᓯᐢ, ᓇᒪᐠ ᑲ ᓂᐱᐦᑖᐟ ᓂᐱᔭ. NIA ᐊᑐᒥᐤ [ᑲ ᐊᓵᒪᐟ, ᑲ ᑲᓇᐍᔭᐣ, ᓇᒪᐠ ᑲ ᐱᒧᐦᑌᔭᐟ ᐱᓀᓯᐢ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ᐅᐦᒋ ᐊᑐᐢᑫᐏᓇ ᑲ ᒥᔪᐸᒋᐦᐃᑲᐟ ᐊᐘᑭᓇ.
 
-## How do I offer an activity without it feeling like busywork?
+## ᑖᓂᓯ ᓂᑲ ᒥᔭᐣ ᐃᓯᒋᐠᐍᐏᐣ ᐁᑿ ᓇᒨᔭ ᒋ ᐃᑕᐢᐸᐣ ᐊᑐᐢᑫᐏᐣ ᐁᑿ ᐅᐦᒋ?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+ᐃᑕ ᑕᐱᐢᑯᐨ ᐘᐃᒋᐦᐃᐍᐏᐣ. Alzheimer's Association ᐃᑌᐤ ᒋ ᑲᑲᐧᐁᒋᒪᐟ «ᑭ ᑲ ᐘᐃᒋᐦᐃᐣ?» ᐁᑿ ᒋ ᐃᑕᐟ ᐊᑐᐢᑫᐏᐣ ᐅᐦᒋ ᐯᔭᐠ ᐃᑌᔨᐦᑕᒧᐏᐣ. ᓇᐦᑲᐸᔭᐦᐊ:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «ᑭ ᓂᐦᐁ ᓇᐦᑲᐸᔭᐦᐃᔭᐣ ᐆᒪ ᐊᐱᒋᐦᐃᑲᓇ?» (ᐃᑕᐢᐸᐣ ᑲᑲᐧᐁᒋᒧᐏᐣ)
+- «ᓂ ᐅᐦᑕᐦᐱᓈᐣ ᐊᐱᒋᐦᐃᑲᓇ ᒥᓯᐍ ᐁᑿ ᓂ ᓂᐦᐁ ᓇᐦᑲᐸᔭᐦᐃᓈᐣ ᒪᐢᑿᐨ ᒋ ᓇᐦᑲᐸᔭᐦᐃᔭᐣ ᒪᓯᓇᐦᐃᑲᓐ ᐊᐱᒋᐦᐃᑲᓂᐠ. ᑭ ᑲ ᐘᐃᒋᐦᐃᐣ?» (ᐃᑕᐢᐸᐣ ᐊᑐᐢᑫᐏᐣ)
 
-Other tips:
+ᒥᓇ ᐃᑌᔨᐦᑕᒧᐏᓇ:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **ᐊᐸᒋᐦᐊ ᐊᐘ ᐊᐱᒋᐦᐃᑲᓇ.** ᑕᐱᐢᑯᐨ ᐊᐱᒋᐦᐃᑲᓇ ᒣᒋ ᑲ ᑭᓯᑲᑌᐠ ᐁ ᒥᐢᑲᐦᐊᒪᐟ, ᑕᐱᐢᑯᐨ ᒪᓯᓇᐦᐃᑲᓇ, ᑕᐱᐢᑯᐨ ᒪᓯᓇᐦᐃᑲᓇ.
+- **ᐊᑐᐢᑫᐠ ᒪᒪᐏ.** ᓂᓱ ᐊᐘᑭᓇ ᑲ ᐊᑐᐢᑫᐟ ᐊᑐᐢᑫᐏᐣ ᐅᐦᒋ ᐃᐦᑖᐣ ᐘᐃᒋᐦᐃᐍᐏᐣ. ᐯᔭᐠ ᐊᐘ ᑲ ᐘᐱᒪᐟ ᑭᐦᑖ ᐊᐘ ᐃᐦᑖᐣ ᑲ ᓇᐦᑲᐸᔭᐦᐃᐟ.
+- **ᐁᑿ ᓇᐦᑲᐸᔭᐦᐊ ᓇᒨᔭ ᐅᓯᐦᑕ.** ᑭᓯᐢᐱᐣ ᐊᐱᒋᐦᐃᑲᓇ ᐃᐦᑖᐘ ᓇᒨᔭ ᒥᔪ ᐊᐱᒋᐦᐃᑲᓂᐠ, ᐯᔭᑯ. ᑭᒋ ᐃᑌᔨᐦᑕᒧᐏᐣ ᐃᐦᑖᐣ ᐁ ᐘᐃᒋᐦᐃᔭᐠ ᐁᑿ ᐁ ᒥᔪᐸᒋᐦᐃᑲᐟ ᐁ ᐘᐃᒋᐦᐃᐟ.
+- **ᐘᐃᒋᐦᐃ ᒋ ᒪᒋᐦᑖᐟ.** Alzheimer's Association ᐃᑌᐤ ᒥᓂᓂᐘᐠ ᐊᔭᐘᐠ ᐁ ᓂᐦᐁᔭᐟ ᒋ ᐃᓯᒋᐠᐟ ᒫᑲ ᐊᔭ ᒪᐢᑭᐦᑭᐤ ᒋ ᓇᐦᑲᐸᔭᐦᐟ ᐁᑿ ᒋ ᒪᒋᐦᑖᐟ. ᒪᒋᐦᑕ ᓂᑕᒪᐠ ᐯᔭᐠᐘᐣ.
 
-## How do I adapt as things change?
+## ᑖᓂᓯ ᓂᑲ ᐃᓯᐦᑖᐣ ᒣᒋ ᐁ ᒥᓯᓇᐦᐊᑭᐠ?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+ᒣᒋ ᑲ ᐱᒥᒋᓯᐟ ᐁ ᐘᓂᐦᑖᐟ ᑲᑭᓭᔭᐃᒋᐠ, Alzheimer's Association ᐃᑌᐤ ᒋ ᒥᔭᐟ ᐊᐱᓯᐢ ᐁᑿ ᑲ ᐊᔭᐱᓯᐠ ᐊᑐᐢᑫᐏᓇ, ᐁᑿ ᒋ ᐘᔭᐢᐃᐟ ᐊᓂᒪ ᐊᐘ ᒋ ᐊᐱᓯᐢ ᐃᓯ ᐘᐃᒋᐦᐃᐟ. ᐊᐘ ᑲ ᑭᒋ ᓇᐦᑲᐸᔭᐦᐟ ᐅᓇᒋᐦᐃᑲᓇ ᑭ ᒥᔪᐸᒋᐦᐃᑲᓐ ᑭᓇ ᒋ ᑕᑯᓂᒋᐠ ᑲᓇᑕ ᐊᐱᒋᐦᐃᑲᓐ ᐁᑿ ᒋ ᐊᑐᒥᐟ ᐅᐦᒋ ᐅᑖᐸᓇ, ᓇᒪᐠ ᒋ ᐘᐱᒪᐟ ᒣᒋ ᐁ ᐊᑐᐢᑫᔭᐣ. ᑲ ᐘᐱᒪᐟ ᐃᑕ ᐃᐦᑖᐣ ᐘᐃᒋᐦᐃᐍᐏᐣ.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+ᑭᓯᐢᐱᐣ ᑭᒋ ᓇᑕᐍᔭᐣ ᐯᔭᐠ ᐃᑭᐢᑭᓄᐦᐊᒪᐠ, ᐊᑐᐢᑫᐏᐣ ᑲ ᐃᑕᐢᐸᐣ ᒪᐢᑿᐨ ᐱᑐ ᐊᑭ ᒥᔪ ᐃᑕᐢᐸᐣ ᐁᑿ ᓇᒨᔭ ᑲ ᑲᓇᐘᐸᐦᑕᒪᐟ ᐅᐦᒋ ᐅᑐᐢᑫᐏᐣ. ᐊᓂᒪ ᐊᑎᓯᐏᐣ ᐃᑌᐤ ᑭᒋ ᒪᓯᓇᐦᐃᑭᐢ ᑭ ᓂᐢᑭᓯᐤ ᐅᐦᒋ ᒥᓯᓇᐦᐃᑲᐏᐣ ᐅᑐᐢᑫᐏᐣ, ᒫᑲ ᐊᐘ ᑲ ᐊᐱᓯᐢ ᒪᓯᓇᐦᐃᑲᐟ ᑭ ᒥᔪᐸᒋᐦᐃᑲᓐ ᐅᐢᑭ ᐃᓯᒋᐠᐍᐏᐣ. ᐯᔭᐠᐘᐣ ᐃᑕ ᐃᐦᑖᐣ ᐅᐦᒋ ᑭᒋ ᒥᐢᑎᐠ ᐊᑐᐢᑫᐘᐠ.
 
-## Safety with work-style tasks
+## ᓇᐦᑲᐸᔭᐦᐃᐠ ᐅᐦᒋ ᐊᑐᐢᑫᐏᓇ ᑲ ᐃᑕᐢᐸᐣ ᐅᑐᐢᑫᐏᐣ
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- ᒥᐢᑲᐦᐊ ᐊᐱᒋᐦᐃᑲᓇ ᑲ ᒪᐢᑭᐦᑭᐏᐟ, ᒨᐦᑯᒪᓇ, ᓇᑲᐢᑯᓇ, ᐁᑿ ᐊᐱᒋᐦᐃᑲᓇ ᑲ ᑭᓯᑲᑌᐠ.
+- ᑭᐦᑭᐢᑲᐦᐊ ᐘᓭᔭᐦᐃᑲᓐ ᒥᓂᐦᑵᐏᐣ, ᐱᒥᐦᑌ, ᐁᑿ ᑲ ᒪᐢᑭᐦᑭᐏᐟ ᒥᓂᐦᑵᐏᓇ.
+- ᑲᑕ ᐅᑖᐸᓐ ᐊᐱᒋᐦᐃᑲᓇ ᑭᓯᐢᐱᐣ ᓇᒨᔭ ᒥᓇ ᐱᒧᐦᑌᐤ.
+- ᓇᐦᑲᐸᔭᐦᐃ ᑲᑭᔭᐤ ᐅᑐᐢᑫᐏᓇ ᐅᑐᐢᑫᐏᑲᒥᐠ ᐁᑿ ᐘᐢᑲᐦᐃᑲᓂᐠ.
+- ᓂᐘᐸᐦᑕ ᒋᐦᑭ ᐊᐱᒋᐦᐃᑲᓇ ᑲ ᓇᒨᔭ ᒋ ᒥᒋᐟ.
 
-## What if he says no?
+## ᑖᓂᓯ ᑭᓯᐢᐱᐣ ᐃᑕᐍᐤ «ᓇᒨᔭ»?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+ᒪᓇᒪᑕ. «ᓇᒨᔭ» ᑭ ᐃᑌᐤ ᐊᑐᐢᑫᐏᐣ ᐊᔭ ᒪᐢᑭᐦᑭᐤ, ᐊᔭ ᐊᐘᓯᐢ ᐃᑕᐢᐸᐣ, ᓇᒪᐠ ᓇᒨᔭ ᒥᔪ ᐅᐦᒋ ᐊᓄᐦᐨ ᑭᓯᑲᐠ. Alzheimer's Association ᐃᑌᐤ ᐁᑿ ᓇᒨᔭ ᒋ ᓯᐦᑭᐦᐊᐟ. ᑲᑲᐧᐁᒋᒪ ᑭᐦᑖ ᐊᑐᐢᑫᐏᐣ, ᑭᐦᑖ ᐃᑕᐢᐸᐣ, ᓇᒪᐠ ᐊᐱᓯᐢ ᐊᐱᐠ ᒪᒪᐏ. ᐘᐱᒪ [ᑖᓂᓯ ᒋ ᐃᓯᒋᐠᐟ ᒣᒋ ᐁ ᐃᑕᐍᐟ «ᓇᒨᔭ»](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## ᒥᑖᐍᐏᓇ ᐁᑿ ᐊᑐᒥᐏᓇ ᑲ ᒥᔪ ᐃᑕᐢᐸᐠ
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) ᐊᐸᒋᐦᐋᐤ ᑲ ᑭᐢᑫᔭᐣ ᐊᑎᓯᐏᓇ ᐁᑿ ᒪᒋᐦᑖᐤ ᐊᑐᒥᐏᐣ. [Conversation Cards](/games/conversation-cards/) ᐊᔭᐘ ᐃᑌᔨᐦᑕᒧᐏᓇ ᐁᑿ ᓇᒨᔭ ᑲᑲᐧᐁᒋᒧᐏᐣ, ᑲ ᐱᐦᑖᐟ ᐊᑐᒥᐏᓇ ᐅᐦᒋ ᐅᑐᐢᑫᐏᐣ ᐁᑿ ᒥᔪᐸᒋᐦᐃᑲᓇ. [Picture Puzzle](/games/picture-puzzle/) ᐘᐱᐦᑖᐤ ᑲᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓐ ᒣᒋ ᐁ ᒥᓯᓇᐦᐊᔭᐣ ᐊᐱᒋᐦᐃᑲᓇ, ᐁᑿ ᒋᐦᑭ ᒪᓯᓇᐦᐃᑲᓐ [Word Search](/games/word-search/) ᑭ ᒪᓯᓇᐦᐊᐣ ᐁᑿ ᐊᑐᐢᑫᐣ ᒪᓯᓇᐦᐃᑲᓐ ᐅᐦᒋ ᒦᒋᐏᐣ ᐊᐱᐦᒋᑲᓂᐠ. ᐅᐦᒋ ᑖᓂᓯ ᒋ ᐊᑐᒥᐟ ᐅᐦᒋ ᐅᐦᒋ ᐅᐱᒫᑎᓯᐏᐣ ᐁᑿ ᓇᒨᔭ ᒋ ᑲᑲᐧᐁᒋᒪᐟ, ᐘᐱᒪ ᓂᐦᐃ [ᑲᑭᓭᔭᐃᒋᐠ ᐘᐦᑖᐏᐣ](/activities/reminiscence/).

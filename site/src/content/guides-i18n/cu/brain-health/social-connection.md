@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Ѹжичьство и оумъ: ѹѥдинєниѥ, осамотєниѥ и нєдоумьство"
+seoTitle: "Ѹѥдинєниѥ, осамотєниѥ и нєдоумьство"
+description: "Како ѹѥдинєниѥ и осамотєниѥ съвѧзоуѥта сѧ съ нєдоумьствомъ, чьто рєчє съвѣтъ главьнааго врачоу, и простиѥ пѫти да бѫдєтє въкоупѣ."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Изслѣдованиꙗ показоуѭтъ, ꙗко осамотєниѥ и ѹѥдинєниѥ въ старости съвѧзоуѥта сѧ съ бол҄ьшимъ
+  риска нєдоумьства. Комисиꙗ „The Lancet“ 2024 лѣта мьнитъ, ꙗко осамотєниѥ можетъ причѧстьно
+  быти при околъ 5% слоучаѥвъ, нъ чѧсть сьѩ съвѧзи можетъ быти отъ того, ꙗко ран҄ѥѥ нєдоумьство
+  вєдєтъ чловѣка къ отъстѫплєнию. Бєсѣда съ ближьними, обьщѧ дѣланиꙗ и помощь при слоушании
+  подькрѣплꙗѭтъ съѩзь. Чловѣкомъ, ижє живѫтъ съ нєдоумьствомъ, обьщѧ дѣланиꙗ сѫтъ важьна
+  дѣлꙗ радости и добрѣѥ житиꙗ. Цѣль ѥстъ съѩзь, а нє оуспѣхъ.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Комисиꙗ „The Lancet“ мѣнитъ осамотєниѥ въ старости ѥдинымъ отъ 14 мѣнимыхъ риска нєдоумьства, околъ 5% слоучаѥвъ."
+  - "Съвѣтъ главьнааго врачоу Съѥдин҄єныхъ Дрьжавъ 2023 лѣта съвѧза дльгоѥ ѹѥдинєниѥ и осамотєниѥ съ околъ 50% бол҄ьшимъ риска нєдоумьства оу старъшихъ."
+  - "Мъножьство сихъ свѣдѣнии ѥстъ отъ съмотрєниꙗ, и ран҄ѥѥ нєдоумьство само можетъ вєсти чловѣка къ отъстѫплєнию."
+  - "Троуди слоушаниꙗ и видѣниꙗ, житиѥ ѥдиномоу и попєчєниѥ о дроугомъ могѫтъ оувєличити рискъ осамотєниꙗ."
+  - "Чловѣкомъ, ижє живѫтъ съ нєдоумьствомъ, радостьнаꙗ обьщѧ дѣланиꙗ подькрѣплꙗѭтъ добрѣѥ житиѥ; цѣль ѥстъ съѩзь, а нє оуспѣхъ."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Приводитъ ли ѹѥдинєниѥ къ нєдоумьствоу?"
+    a: "Сѥ нє ѥстъ извѣстьно съ тврьдостиѭ. Мъногꙗ изслѣдованиꙗ съвѧзоуѭтъ ѹѥдинєниѥ и осамотєниѥ съ бол҄ьшимъ риска нєдоумьства, нъ ран҄иꙗ измѣнꙑ въ оумѣ такождє могѫтъ вєсти чловѣка къ отъстѫплєнию отъ инѣхъ. Съѩзь съ ближьними иматъ и инꙑ польꙃѧ дѣлꙗ дѹха и съдравиꙗ, тѣмьжє добро ѥстъ подькрѣплꙗти ѭ."
+  - q: "Каꙗ разлика ѥстъ мєждоу ѹѥдинєниѥмъ и осамотєниѥмъ?"
+    a: "Осамотєниѥ ѥстъ, ѥгда чловѣкъ иматъ мало людии, съ нимижє чѧсто бєсѣдоуѥтъ. Ѹѥдинєниѥ ѥстъ бол҄ѣзньно чоуѥниѥ быти ѥдиномоу или отълѫчєноу. Чловѣкъ можетъ жити ѥдинъ и нє чоути ѹѥдинєниꙗ, или чоути ѹѥдинєниѥ и срѣдѣ мъногъ людии."
+  - q: "Како могоу помошти родитєлю, ижє живєтъ съ нєдоумьствомъ, да прѣбѫдєтъ въ съѩзи?"
+    a: "Кратъкꙑ и чѧстꙑ бєсѣдꙑ помагаѭтъ. Помꙑслитє о ѹставьнѣмъ нєдѣльнѣмъ зъвании или видѣнии, о обьщємъ дѣлании оу стола, о съборѣ памѧти, или о посѣщєнии съ жива животьнъмъ или въноукъмъ. Дрьжитє съборъ малъ и тихъ, и даитє чловѣкоу самємоу изъбьрати мѣроу."
+  - q: "Къдє обрѧщоу помощь дѣлꙗ осамотєнааго старааго чловѣка?"
+    a: "Ищитє мѣстьнꙑѩ слоужьбꙑ дѣлꙗ старъшихъ и обьщиньскꙑѩ помощи. Въ Съѥдин҄єныхъ Дрьжавахъ слоужьба „Eldercare Locator“ съвѧзоуѥтъ родъ съ мѣстьнꙑими слоужьбами; до нєѩ можєтє дозъвати сѧ на 800-677-1116 или на eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Чловѣци сѫтъ сътворєни дѣлꙗ обьщєниꙗ, и сѥ нє мѣнꙗѥтъ сѧ съ лѣтꙑ. Изслѣдованиꙗ съвѧзоуѭтъ ѹѥдинєниѥ и осамотєниѥ въ старости съ бол҄ьшимъ риска нєдоумьства, тако жє и съ болѣзньми сьрдьца и съ оунын҄иѥмъ. Изслѣдованиꙗ ѥщє нє могѫтъ рєщи, колико отъ сьѩ съвѧзи ѥстъ вина и слѣдъ. Си страница показоуѥтъ, чьто свѣдѣниꙗ глаголѭтъ, какꙑ простиѥ пѫти сѫтъ дѣлꙗ съѩзи, и почьто обьщѧ дѣланиꙗ сѫтъ толь важьна чловѣкомъ, ижє оужє живѫтъ съ нєдоумьствомъ.
 
-## Are loneliness and isolation linked with dementia?
+## Съвѧзоуѥта ли сѧ ѹѥдинєниѥ и осамотєниѥ съ нєдоумьствомъ?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Да, мъногꙗ изслѣдованиꙗ съвѧзоуѭтъ ꙗ, нъ пѫть съвѧзи нє ѥстъ до конца ꙗсєнъ. [Комисиꙗ „The Lancet“ 2024 лѣта](https://doi.org/10.1016/S0140-6736(24)01296-0) мѣнитъ осамотєниѥ въ старости ѥдинымъ отъ 14 мѣнимыхъ риска. [Съказаниѥ UCL о докладѣ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) мьнитъ, ꙗко сѥ можетъ причѧстьно быти при околъ 5% слоучаѥвъ нєдоумьства въ мирѣ.
 
-What the evidence shows:
+Чьто показоуѭтъ свѣдѣниꙗ:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Мьн҄ѥ съѩзи, бол҄ии рискъ.** Комисиꙗ поминаѥтъ дъва прѣглѧда, ꙗжє съвѧзаста рѣжьшєѥ обьщєниѥ съ бол҄ьшимъ риска нєдоумьства. Ѥдинъ обрѣтє околъ 57% бол҄ии рискъ, а дроугыи околъ 18%.
+- **Такождє ѹѥдинєниѥ.** Ѹѥдинєниѥ, то ѥстъ чоуѥниѥ отълѫчєниꙗ, тако жє съвѧзано бѣ съ бол҄ьшимъ риска нєдоумьства въ нѣколицѣхъ прѣглѧдѣхъ.
+- **Мьнѣниѥ главьнааго врачоу.** Въ маи 2023 лѣта главьныи врачь Съѥдин҄єныхъ Дрьжавъ изда [съвѣтъ о ѹѥдинєнии и осамотєнии](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Въ н҄ємь рєчєно, ꙗко дльгоѥ ѹѥдинєниѥ и осамотєниѥ можетъ оувєличити рискъ нєдоумьства оу старъшихъ околъ 50%. Съвѣтъ тако жє съвѧза слабоую съѩзь съ людьмии съ 29% бол҄ьшимъ риска болѣзни сьрдьца и 32% бол҄ьшимъ риска оудара.
+- **Колико сѥ ѥстъ обьщє.** [Докладъ Национальнꙑихъ акадємии](https://www.ncbi.nlm.nih.gov/books/NBK557972/) показоуѥтъ, ꙗко околъ 24% людии 65 лѣтъ и бол҄ѥ, живѫщиихъ въ обьщинѣ, сѫтъ осамотєни.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Важьно ѥстъ помьнѣти: Комисиꙗ „The Lancet“ оуказоуѥтъ, ꙗко чловѣци могѫтъ оумалити обьщєниѥ въ ран҄ѥи, ѥщє нєпознанѣи степени нєдоумьства. Сѥго ради чѧсть съвѧзи можетъ быти отъ того, ꙗко нєдоумьство вєдєтъ къ отъстѫплєнию, а нє тъкъмо отъстѫплєниѥ оувєличаваѥтъ рискъ. Почти вьсꙗ си свѣдѣниꙗ идѫтъ отъ изслѣдовании съмотрєниꙗ.
 
-## What is the difference between loneliness and isolation?
+## Каꙗ разлика ѥстъ мєждоу ѹѥдинєниѥмъ и осамотєниѥмъ?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Национальныи инститѹтъ о старѣнии (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) изꙗснꙗѥтъ сицє. **Осамотєниѥ** ѥстъ, ѥгда чловѣкъ иматъ мало съѩзии или мало людии, съ нимижє чѧсто бєсѣдоуѥтъ. **Ѹѥдинєниѥ** ѥстъ тѧжько чоуѥниѥ быти ѥдиномоу или отълѫчєноу. Чловѣкъ можетъ жити ѥдинъ и быти въ мирѣ, а дроугыи можетъ чоути ѹѥдинєниѥ въ пльнѣ храминѣ.
 
-The NIA lists factors that raise the risk of both:
+NIA поминаѥтъ винꙑ, ꙗжє могѫтъ оувєличити рискъ обоѥго:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Троуди слоушаниꙗ или видѣниꙗ
+- Троудъ движєниꙗ или нєимѣниѥ пѫти
+- Житиѥ ѥдиномоу, или вєлика ꙁагоуба, ꙗко съмрьть подроуга или коньць дѣла
+- Измѣнꙑ памѧти или мꙑшлєниꙗ
+- Попєчєниѥ о ближьн҄ємъ, ижє болитъ
+- Пєчали о имѣнии или прѣградꙑ ѩꙁꙑка
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Слоушаниѥ ѥстъ зѣло важьно. NIA глаголєтъ, ꙗко чловѣци, ижє нє добрѣ слꙑшѧтъ, могѫтъ отъстѫпати, пон҄єжє бєсѣда бываѥтъ тѧжька или стꙑдьна. Нашь [пѫть о слоушании и оумѣ](/brain-health/hearing/) иматъ о испꙑтании слоуха и о слоушьнꙑихъ помоштѣхъ.
 
-## Practical ways to stay connected
+## Простиѥ пѫти да бѫдєтє въ съѩзи
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA даѥтъ нѣколикъ мꙑслии. Избєрѣтє ѥдиноу или дъвѣ, ꙗжє вамъ подобаѥта:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Ѹставитє чѧстѫ бєсѣдоу.** Ѹставьно врѣмѧ вьсꙗкъ дьнь или нєдѣлѭ дѣлꙗ зъвания, писаниꙗ, посъланиꙗ посъланиꙗ или писмьна къ родоу, дроугомъ или съсѣдомъ.
+- **Оупотрѣбитє видѣниѥ или гласовꙑѩ оурѧдꙑ.** Ащє оурѧди сѫтъ нови, мъногꙑ мѣстьнꙑѩ книжьницѧ и обьщиньска мѣста даѭтъ оучєниѥ. Видитє нашь [пѫть о зъвании и видѣнии](/activities/phone-and-video-calls/).
+- **Вънидѣтє въ обьщиноу.** Оучєниѥ, вѣрьна обьщина, походьно дроужьство или помощь инѣмъ даѭтъ съѩзь и чоуѥниѥ польꙃѧ.
+- **Възъвратитє староѥ дѣланиѥ** или наоучитє сѧ новоуоумоу съ инѣми.
+- **Движитє сѧ съ инѣми.** Тѣлоупражнꙗитє сѧ съ дроугомъ или съ дроужьствомъ. Нашь [пѫть о тѣлоупражнєнии](/brain-health/exercise/) иматъ тихꙑѩ обраꙁꙑ.
+- **Помꙑслитє о животьнѣмъ**, ащє можєтє пєщи сѧ о н҄ємь.
+- **Оупотрѣбитє мѣстьнꙑѩ помощи.** Мѣста дѣлꙗ старъшихъ, слоужьбꙑ дѣлꙗ старъшихъ и „Eldercare Locator“ (800-677-1116) могѫтъ оуказати помощи и пѫти.
 
-## Why do shared activities matter in dementia?
+## Почьто обьщѧ дѣланиꙗ сѫтъ важьна при нєдоумьствѣ?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Чловѣкоу, ижє оужє живєтъ съ нєдоумьствомъ, съѩзь ѥстъ дѣлꙗ радости, оутѣхꙑ и чоуѥниꙗ быти съ инѣми, а нє дѣлꙗ оумалєниꙗ риска. Комисиꙗ „The Lancet“ глаголєтъ, ꙗко дѣланиꙗ помагаѭтъ чловѣкомъ съ нєдоумьствомъ дрьжати радость и смыслъ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) оуказоуѥтъ, ꙗко, къ томоу жє дѣлꙗ добрѣѥ житиꙗ, дѣланиꙗ могѫтъ оумалити нѣкоторꙑѩ троудꙑ, ꙗко блѫждєниѥ или нєпокои. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) прилагаѥтъ, ꙗко чловѣкомъ съ болѣзниѭ Альцхаимєра добро ѥстъ быти дѣꙗтєльномъ и творити то, ѥжє имъ любо.
 
-Ideas that work well:
+Мꙑсли, ꙗжє добрѣ помагаѭтъ:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Глѧдаитє образꙑ въкоупѣ.** [Conversation Cards](/games/conversation-cards/) даѭтъ отъврьстꙑ въпросꙑ бєꙁ испꙑтаниꙗ, ꙗко «Повѣждь ми о…». Видитє нашь [пѫть о въспоминании](/activities/reminiscence/).
+2. **Играитє рѧдомъ.** [Picture Pairs](/games/picture-pairs/) дрьжитъ образꙑ видимꙑ и нє иматъ врѣмєнє ни числа, тѣмьжє нѣстъ налѧганиꙗ. Нашь пѫть [како играти въкоупѣ](/caregiving/how-to-play-together/) иматъ съвѣтꙑ.
+3. **Оупотрѣбитє родьнꙑѩ образꙑ.** [Photo Pairs](/games/photo-pairs/) творитъ отъ образъ, ꙗжє вꙑ изъбєрєтє, игроу съвъкоуплєниꙗ, и образи прѣбꙑваѭтъ на вашємъ оурѧдѣ.
+4. **Събєрѣтє людии въкоупѣ.** [Picture Bingo](/games/picture-bingo/) добро ѥстъ дѣлꙗ родьнꙑихъ съборъ и [съборъ въ домоу попєчєниꙗ](/activities/care-home-groups/).
+5. **Раздѣлитє пѣсни, домашьнꙗѩ дѣла или врьтъ.** Видитє [дѣланиꙗ съ пѣсньми](/activities/music/), [домашьнꙗѩ дѣла](/activities/household-tasks/) и нашь пльнъ списъкъ [мꙑслии дѣлꙗ дѣлании](/activities/ideas/).
+6. **Оулєгьчитє посѣщєниꙗ.** Нашь [пѫть о посѣщєнии](/activities/visiting/) иматъ о кратъцѣхъ, тихꙑихъ посѣщєниихъ, ꙗжє добрѣ сѫтъ вьсѣмъ.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Дрьжитє дѣланиѥ мало и тихо. Тихаꙗ храмъ съ ѥдинымъ или дъвѣма чловѣкома чѧсто бываѥтъ лоучьши, нєжє вєликъ съборъ. Ащє чловѣкъ оутроудитъ сѧ или изгѹбитъ въниманиѥ, добро ѥстъ прѣстати. Сѣдѣти въкоупѣ съ чашєѭ чаꙗ тако жє ѥстъ добръ коньць.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Чловѣкоу, ижє живєтъ ѥдинъ съ нєдоумьствомъ, NIA съвѣтоуѥтъ обрѣсти вѣрьна чловѣка, ижє можетъ чѧсто приходити или видѣти сѧ и быти съвѧзьѭ въ нѫжди. Такожє поминаѥтъ мѣстьноѥ мѣсто памѧти, тихо мѣсто дѣлꙗ обьщєниꙗ чловѣкомъ съ троудꙑ памѧти и ихъ родоу.
 
-## Caregivers get lonely too
+## Попєчитєлє тако жє чоуѭтъ ѹѥдинєниѥ
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA мѣнитъ попєчєниѥ о ближьн҄ємъ ѥдиноѭ отъ винъ осамотєниꙗ. Съхранитє врѣмѧ дѣлꙗ своихъ дроугъ, подькрѣплꙗѭщиихъ съборъ и почиваниꙗ. Нашь [пѫть о попєчєнии о сєбѣ](/caregiving/caregiver-self-care/) иматъ простꙑѩ мꙑсли.
 
-## Talk with a doctor
+## Бєсѣдоуитє съ врачємъ
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ащє вꙑ или чловѣкъ, о н҄ємьжє пєчєтє сѧ, чѧсто чоуѥтє ѹѥдинєниѥ или осамотєниѥ, повѣждьтє врачєви. NIA съвѣтоуѥтъ глаголати о вєлицѣхъ измѣнахъ житиꙗ, ꙗко о съмрьти въ родоу, да врачь разоумѣѥтъ вьсє. Ащє чловѣкъ чоуѥтъ сѧ оунынълъ мъногꙑ нєдѣлѧ, сѥ можетъ быти оунын҄иѥ, ѥмоу жє можетъ быти помощь. Ащє старыи чловѣкъ ново отъстѫпи отъ дроугъ или дѣлании, ꙗжє прѣждє люблꙗашє, о томъ добро ѥстъ повѣдати врачєви. Чьтѣтє [ран҄иꙗ ꙁнамєниꙗ и къгда ити къ врачєви](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Си страница ѥстъ обьщє свѣдѣниѥ, а нє врачьскыи съвѣтъ. Видитє нашє [врачьскоѥ отърєчєниѥ](/medical-disclaimer/).

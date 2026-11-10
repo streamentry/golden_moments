@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Er hægt að koma í veg fyrir heilabilun?"
+seoTitle: "Er hægt að koma í veg fyrir heilabilun?"
+description: "Hvað Lancet-nefndin 2024 og stórar rannsóknir sýndu um minni áhættu á heilabilun, hvað þær sýndu ekki og hvað má ræða við lækni."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Enginn getur lofað að koma í veg fyrir heilabilun. Lancet-nefndin áætlaði
+  árið 2024 að tæplega helmingur tilfella heilabilunar um allan heim tengist 14
+  áhættuþáttum sem hugsanlega er hægt að breyta, svo sem háum blóðþrýstingi,
+  heyrnarskerðingu og hreyfingarleysi. Rannsóknir sýna litil áhrif á
+  hugrænar prófanir, en ekki sönnun fyrir færri tilfellum heilabilunar. Margir
+  sem gera allt „rétt“ fá samt heilabilun, og það er ekki neins að kenna.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet-nefndin tengdi árið 2024 um 45% tilfella heilabilunar um allan heim við 14 áhættuþætti sem hugsanlega er hægt að breyta. Þetta er mat á hópi, ekki persónuleg trygging."
+  - "Að draga úr áhættu þýðir að lækka líkurnar í heilum hópi. Það þýðir ekki að einstakur einstaklingur geti forðast heilabilun."
+  - "Stórar rannsóknir eins og FINGER, US POINTER og SPRINT MIND sýndu lítil áhrif á hugrænar prófanir eða væga vitræn skerðingu, en engin þeirra sannaði að lífsstílsbreytingar komi í veg fyrir heilabilun."
+  - "Aldur er stærsti þekkti áhættuþátturinn fyrir Alzheimer-sjúkdóm og ekki er hægt að breyta honum. Margir sem lifa heilbrigðum lífsstíl fá samt heilabilun."
+  - "Ráðstafanir sem oftast eru rannsakaðar, eins og að meðhöndla háan blóðþrýsting, nota heyrnartæki og hreyfa sig, er gott að ræða við lækni vegna þess að þær gagnast heilsunni á annan hátt líka."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Er hægt að koma í veg fyrir heilabilun?"
+    a: "Það er engin sönnuð leið til að koma í veg fyrir heilabilun hjá einstökum einstaklingi. Rannsóknir benda til þess að draga úr ákveðinni áhættu, svo sem háum blóðþrýstingi, ómeðhöndlaðri heyrnarskerðingu og reykingum, geti minnkað líkurnar á heilabilun í hópi fólks eða seinkað upphafi hennar. Þetta eru líkur, ekki loforð."
+  - q: "Hvað þýðir 45% talan frá Lancet-nefndinni?"
+    a: "Lancet-nefndin áætlaði árið 2024 að um 45% tilfella heilabilunar um allan heim tengist 14 áhættuþáttum sem fræðilega sé hægt að breyta. Matið gengur út frá því að þessir þættir valdi heilabilun, og höfundarnir benda á að sum tengsl kunni aðeins að vera að hluta til orsakasamhengi. Talan lýsir heilum hópum og segir ekkert um áhættu einstaks einstaklings."
+  - q: "Ef foreldri mitt lifði heilbrigðum lífsstíl, af hverju fékk það heilabilun?"
+    a: "Aldur, erfðir og margir þættir sem enginn ræður við hafa mikið að segja um heilabilun. Höfundar Lancet-skýrslunnar benda á að þótt dregið sé úr áhættu í hópi fólks sé engin trygging fyrir því að einstakur einstaklingur forðist heilabilun. Greining er ekki merki um að einhver hafi brugðist."
+  - q: "Er of seint að draga úr áhættu á heilabilun eftir 65 ára aldur?"
+    a: "Lancet-nefndin segir að það sé aldrei of snemma eða of seint að draga úr áhættu, þó að stór hluti gagnanna snúi að miðjum aldri. Meðferð á heyrnar- og sjónvandamálum, hreyfing og samskipti við annað fólk eru dæmi um ráðstafanir á síðari æviskeiðum sem hafa verið rannsakaðar. Ræddu við lækni hvað hentar þinni heilsu."
+  - q: "Koma heilaleikir eða sérstök mataræði í veg fyrir heilabilun?"
+    a: "Enginn leikur, matur, fæðubótarefni eða mataræði hefur verið sannað til að koma í veg fyrir heilabilun. Þriggja ára rannsókn á MIND-mataræði sýndi engan marktækan mun á vitrænni getu samanborið við samanburðarmataræði, og ekki hefur verið sýnt fram á að auglýst heilaleikjaforrit hafi sömu áhrif og þau sem sjást í rannsóknarprófum."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,139 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ef þú sinnir einhverjum sem lifir með heilabilun, eða hefur séð foreldri glíma við hana, hefur þú ef til vill velt því fyrir þér hvort hefði verið hægt að koma í veg fyrir hana og hvort þú getir komið í veg fyrir að þú fáir hana sjálf(ur). Á þessari síðu er fjallað um það sem rannsóknir sýna í raun og veru, í einföldu máli. Stutta svarið er: enginn getur lofað að koma í veg fyrir heilabilun, en rannsóknir benda til þess að hugsanlega sé hægt að draga úr ákveðinni áhættu og að ef dregið er úr henni í heilum hópi fólks gæti það þýtt að færri fái heilabilun eða fái hana síðar.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Þetta eru almennar upplýsingar, ekki læknisráð. Vinsamlegast lestu [yfirlýsingu okkar um læknisfræðilegar upplýsingar](/medical-disclaimer/) og ræddu þína heilsu við lækni.
 
-## Can dementia be prevented?
+## Er hægt að koma í veg fyrir heilabilun?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Það er engin sönnuð leið til að koma í veg fyrir heilabilun hjá einstökum einstaklingi. National Institute on Aging (NIA) segir að þó að
+[ekkert hafi enn verið sannað til að koma í veg fyrir Alzheimer-sjúkdóm](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+hafi rannsakendur fundið vænlegar leiðir og séu að læra hvað gæti virkað og hvað ekki.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Það sem rannsóknir *sýna* hins vegar er að ákveðnar heilsufarsaðstæður og venjur tengjast meiri líkum á heilabilun. Þegar þessi áhætta er minni í heilum hópi fólks gætu færri fengið heilabilun, eða fengið hana síðar á ævinni. Það er mjög ólíkt loforði.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Eitt jákvætt merki: Lancet-nefndin greindi frá því árið 2024 að í sumum hátekjulöndum, þar á meðal í Bandaríkjunum og Bretlandi, hafi hlutfall aldraðra með heilabilun lækkað. Höfundarnir telja að þetta stafi líklega að hluta til af betri menntun, betri heilbrigðisþjónustu og minni skaða á æðum yfir ævina, samkvæmt
+[yfirliti University College London yfir skýrsluna](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Hvað komst Lancet-nefndin að árið 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet-nefndin um forvarnir, inngrip og umönnun vegna heilabilunar er hópur 27 rannsakenda sem fara yfir gögnin á nokkurra ára fresti. Í skýrslu þeirra frá 2024 voru nefndir **14 áhættuþættir** sem hugsanlega er hægt að breyta, og áætlað var að þeir skýri samanlagt **tæplega helming (um 45%) tilfella heilabilunar um allan heim**. Að mati höfundanna væri *fræðilega* hægt að koma í veg fyrir þessi tilfelli eða seinka þeim ef áhættunni væri eytt
+([skýrsla Lancet-nefndarinnar 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Þessir 14 þættir, flokkaðir eftir því æviskeiði þar sem gögnin eru sterkust:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Snemma á ævinni:** skemmri menntun.
+- **Miðaldri (u.þ.b. 40 til 65 ára):** heyrnarskerðing, hátt LDL-kólesteról („slæmt“ kólesteról), þunglyndi, höfuðáverkar, hreyfingarleysi, sykursýki, reykingar, hár blóðþrýstingur, offita og mikil áfengisneysla.
+- **Síðari hluta ævinnar:** félagsleg einangrun, loftmengun og ómeðhöndluð sjónskerðing.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Þeir tveir þættir sem bættust við árið 2024 voru hátt LDL-kólesteról og ómeðhöndluð sjónskerðing. Þættirnir sem tengdust stærstum hluta tilfella voru heyrnarskerðing og hátt LDL-kólesteról (um 7% hvor), síðan skemmri menntun og félagsleg einangrun (um 5% hvor).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Leiðbeiningar okkar um áhættuþætti](/brain-health/risk-factors/) fara í gegnum alla 14 í töflu, með því sem rannsóknir tengja og því sem þú getur gert.
 
-### What the 45% figure does not mean
+### Hvað 45% talan þýðir ekki
 
-It is easy to misread this number, so it helps to be precise:
+Auðvelt er að misskilja þessa tölu, svo gott er að vera nákvæm(ur):
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Þetta er mat á hópi fólks.** Talan lýsir tilfellum heilabilunar um allan heim, ekki líkum þínum eða líkum foreldris þíns.
+- **Hún gerir ráð fyrir orsakasamhengi.** Höfundarnir segja að þeir hafi aðeins tekið með áhættuþætti með sannfærandi gögnum, en að sum tengsl kunni aðeins að vera að hluta til orsakasamhengi. Þunglyndi á síðari hluta ævinnar getur til dæmis stundum verið snemmtákn heilabilunar frekar en orsök.
+- **Hún tryggir ekkert fyrir einstakan einstakling.** Samantekt UCL bendir á að minni áhætta skili árangri á hópstigi og tryggir ekki að einstakur einstaklingur forðist heilabilun.
+- **Helmingurinn sem eftir er skýrist ekki af þessum þáttum.** Aldur, erfðir og orsakir sem vísindamenn skilja ekki að fullu mynda afganginn.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Hver er munurinn á „að draga úr áhættu“ og „forvörnum“?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Að draga úr áhættu** þýðir að lækka líkurnar. Ef stór hópur fólks lækkar blóðþrýstinginn sinn gætu færri í þeim hópi fengið heilabilun á mörgum árum en ella. Sumir í þeim hópi munu samt fá hana.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Forvarnir** gefa til kynna að hægt sé að stöðva eitthvað alveg. Þegar kemur að heilabilun er það ekki eitthvað sem rannsóknir geta lofað neinum í dag.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Rannsakendur tala líka um **seinkun**. Lancet-nefndin greinir frá nýjum vísbendingum um að minni áhætta geti seinkað upphafi heilabilunar og stytt þann tíma sem einstaklingur lifir með skerta heilsu. Jafnvel seinkun um nokkur ár getur skipt miklu máli fyrir einstaklinginn og fjölskyldu hans.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Á þessari síðu notum við viljandi „draga úr áhættu“ og „tengist“. Ef þú sérð vöru, fæðubótarefni eða forrit sem lofar að „koma í veg fyrir Alzheimer“, farðu þá varlega. NIA ráðleggur að ræða við lækni áður en þú prófar töflur eða meðferðir sem lofa að koma í veg fyrir Alzheimer, vegna þess að slíkar vörur geta verið hættulegar, peningasóun eða hvort tveggja.
 
-## What have large trials found?
+## Hvað hafa stórar rannsóknir sýnt?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Athugunarrannsóknir (sem fylgjast með fólki yfir tíma) geta sýnt tengsl. Slembiraðaðar rannsóknir, þar sem fólki er skipt af handahófi í íhlutunarhóp eða samanburðarhóp, eru sterkari próf. Hér er það sem nokkrar af þekktustu rannsóknunum sýndu.
 
-### FINGER (Finland)
+### FINGER (Finnland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Í FINGER-rannsókninni tóku þátt 1.260 fullorðnir á aldrinum 60 til 77 ára sem voru í meiri áhættu á heilabilun. Helmingur fékk tveggja ára íhlutun með ráðgjöf um mataræði, hreyfingu, tölvutengda heilaleiki og eftirlit með hjarta- og æðasjúkdómum; hinn helmingurinn fékk almennar heilbrigðisráðleggingar. Hópurinn sem fékk íhlutun stóð sig örlítið betur í hugrænum prófum, sem var lítill en tölfræðilega marktækur munur
+([FINGER-rannsóknin í The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Rannsóknin mældi niðurstöður prófa, ekki greiningar á heilabilun.
 
-### US POINTER (United States)
+### US POINTER (Bandaríkin)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+Í US POINTER tóku þátt 2.111 fullorðnir á aldrinum 60 til 79 ára sem hreyfðu sig lítið, höfðu óheilbrigðara mataræði og voru með aðra áhættuþætti. Báðir hópar voru hvattir til að hreyfa sig meira, virkja hugann, borða betur, vera í félagslegum samskiptum og fylgjast með hjartaheilsu. Annar hópurinn fékk skipulagða íhlutun með stuðningi; hinn stýrði sér sjálfur. Á tveimur árum batnaði frammistaða í hugrænum prófum hjá **báðum** hópum, og örlítið meira í skipulagða hópnum
+([US POINTER-rannsóknin í JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Höfundarnir segja að þörf sé á frekari eftirfylgd til að vita hvort munurinn skipti máli í daglegu lífi. Þar sem enginn „gera ekkert“ hópur var til staðar getur rannsóknin ekki sagt til um hversu mikið hvor íhlutun hjálpaði miðað við enga breytingu.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (blóðþrýstingur)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND rannsakaði 9.361 fullorðinn einstakling á aldrinum 50 ára og eldri með háan blóðþrýsting í Bandaríkjunum. Þeim var skipt í hóp með lægra markmið um blóðþrýsting (efri tala undir 120) eða venjulegt markmið (undir 140). Lægri markmiðið minnkaði marktækt **væga vitræn skerðingu**, sem er stig minnis- og hugsunarvandamála sem getur komið á undan heilabilun. Þegar kom að **líklegri heilabilun** voru færri tilfelli í hópnum með lægra markmið, en munurinn var ekki tölfræðilega marktækur. Rannsókninni lauk snemma og tilfelli heilabilunar voru færri en búist var við, svo hún gæti hafa verið of lítil til að svara þeirri spurningu
+([SPRINT MIND í JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Hvað yfirlitsgreinar sýna
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Yfirlitsgrein Cochrane frá 2021 tók saman níu stórar rannsóknir á íhlutunum sem vinna að fleiri en einum áhættuþætti í einu, með meira en 18.000 þátttakendum. Hún fann lítil áhrif á hugrænar prófanir, en **engan skýran mun á því hversu margir fengu heilabilun** í þeim tveimur rannsóknum sem mældu það
+([Cochrane-yfirlit um íhlutanir á mörgum sviðum](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Yfirlit bandarísku vísindaakademíanna (National Academies of Sciences, Engineering, and Medicine) frá 2017, sem NIA hefur dregið saman, fann „hvetjandi en ófullnægjandi“ gögn fyrir þremur aðferðum: meðferð á háum blóðþrýstingi, aukinni hreyfingu og hugrænni þjálfun.
 
-## Does it matter when you start?
+## Skiptir máli hvenær er byrjað?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Ráðlegging Lancet-nefndarinnar er að draga úr áhættu eins snemma og hægt er og halda henni lágri eins lengi og hægt er: „því fyrr, því betra“ og „því lengur, því betra“. Nefndin segir einnig að það sé aldrei of snemma eða of seint að draga úr áhættu. Stór hluti gagnanna snýr að miðjum aldri, u.þ.b. 40 til 65 ára, en sumir þættir, eins og sjónskerðing og félagsleg einangrun, eru áhættuþættir á síðari hluta ævinnar þar sem aðgerðir geta samt verið skynsamlegar.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Í skýrslunni segir að nú séu sterkari vísbendingar um að því lengur sem fólk sé útsett fyrir áhættuþætti, þeim mun meiri verði áhrifin. Sykursýki sem byrjar á miðjum aldri virðist til dæmis skipta meira máli en sykursýki sem byrjar síðar.
 
-## Is dementia risk the same for everyone?
+## Er áhættan á heilabilun sú sama hjá öllum?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nei. Nefndin komst að því að fólk í lág- og millitekjulöndum, fólk af minnihlutahópum og fólk með minni fjárhagslega burði beri oft meiri áhættu af þessum þáttum, svo heilabilun þróast gjarnan á yngri aldri. Margir áhættuþættir tengjast aðstæðum sem fólk valdi ekki sjálft, svo sem gæðum skólagöngu í æsku, loftgæðum þar sem það býr og hvort hollur matur er á viðráðanlegu verði og nálægur.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Þess vegna beinast ráðleggingar nefndarinnar jafnt að stjórnvöldum og einstaklingum: góð menntun fyrir öll börn, hreinna loft, ráðstafanir til að draga úr reykingum, minna sykur og salt í matvælum í verslunum og á veitingastöðum og heyrnartæki fyrir alla sem þurfa á þeim að halda. Átak einstaklinga skiptir máli, en það gerir umhverfið sem fólk býr við líka. Það er ein ástæða í viðbót fyrir því að kenna engum um greiningu.
 
-## What are the honest limits of this research?
+## Hver eru heiðarleg takmörk þessara rannsókna?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Heilabilun tekur áratugi að þróast**, en flestar rannsóknir standa yfir í tvö til fimm ár. Til að mæla heilabilun sjálfa, ekki bara niðurstöður prófa, þarf mjög langar og stórar rannsóknir.
+- **Flestar rannsóknir mæla frammistöðu í hugrænum prófum.** Lítil framför í prófi þýðir ekki endilega að færri fái heilabilun eða að daglegt líf verði auðveldara.
+- **Sjálfboðaliðar eru oft heilbrigðari** og með meiri menntun en almenningur. Lancet-nefndin bendir á að flest gögn komi enn frá hátekjulöndum og að minnihlutahópar séu vanfulltrúaðir.
+- **Sum tengsl virka í báðar áttir.** Minni hreyfing eða færri félagsleg samskipti geta verið snemmbúin áhrif heilabilunar, ekki aðeins orsök.
+- **Rannsóknir á mataræði hafa hingað til verið vonbrigði.** Þriggja ára rannsókn á MIND-mataræði sýndi engan marktækan mun á vitrænni getu samanborið við samanburðarmataræði. Sjá [leiðbeiningar okkar um mataræði](/brain-health/diet/).
+- **Ekki hefur verið sannað að heilaleikir komi í veg fyrir heilabilun.** Sjá leiðbeiningar okkar um [heilaleiki og heilabilun](/brain-health/brain-games/).
+- **Mjög takmarkaðar sannanir eru fyrir föstu hjá mönnum** og hún getur verið áhættusöm fyrir eldri einstaklinga. Sjá [leiðbeiningar okkar um föstu](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ef einhver gerði allt „rétt“, af hverju fékk hann samt heilabilun?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Vegna þess að heilabilun er ekki einfaldlega afleiðing valkosta. NIA segir að
+[aldur sé stærsti þekkti áhættuþátturinn fyrir Alzheimer-sjúkdóm](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+og enginn getur breytt honum. Erfðir skipta máli. Og vísindamenn skilja ekki enn að fullu hvað veldur Alzheimer-sjúkdómi hjá flestum. Jafnvel þótt öllum 14 áhættuþáttunum yrði eytt, þá skýrir mat Lancet-nefndarinnar ekki meira en helming tilfellanna.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Þannig að ef þú sinnir einhverjum sem hreyfði sig, borðaði hollt, reykti aldrei og fékk samt heilabilun, þá fór ekkert úrskeiðis hjá honum, né hjá þér. Ef þú lifir sjálf(ur) með heilabilun, þá er það ekki þér að kenna. Sektarkennd er algeng í fjölskyldum, en hún er ekki á rökum reist. Það sem skiptir máli núna er vellíðan, tengsl og góðir dagar, og [hugmyndir okkar að athöfnum](/activities/ideas/) og [leiðbeiningar um sjálfsumönnun aðstandenda](/caregiving/caregiver-self-care/) eru góður staður til að byrja.
 
-## What steps can you talk over with a doctor?
+## Hvaða ráðstafanir er hægt að ræða við lækni?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Þetta eru þau svið sem oftast hafa verið rannsökuð. Það er gott að taka þau upp í læknisskoðun vegna þess að flest þeirra gagnast hjartaheilsu, skapi og sjálfstæði líka, hver svo sem áhrifin á heilabilun reynast vera.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Blóðþrýstingur.** Spurðu hverjar tölurnar þínar eru og hvaða markmið hentar þér. Lancet-nefndin stingur upp á að miða við efri tölu 130 eða lægri frá um 40 ára aldri, en rétta markmiðið fyrir eldri einstakling fer eftir heilsufari hans í heild.
+2. **Heyrn.** Biððu um heyrnarpróf og spurðu hvort heyrnartæki gætu hjálpað. [Leiðbeiningar okkar um heyrn](/brain-health/hearing/) útskýra rannsóknirnar.
+3. **Sjón.** Farðu reglulega í augnskoðun og spurðu hvort hægt sé að meðhöndla vandamál eins og drer.
+4. **Kólesteról.** Spurðu hvort ætti að mæla LDL-kólesterólið þitt og hvort eitthvað þurfi að breytast.
+5. **Blóðsykur.** Ef þú ert með sykursýki, spurðu hvernig best sé að halda henni í skefjum á öruggan hátt.
+6. **Líðan.** Þunglyndi er algengt og hægt að meðhöndla það. Segðu lækninum þínum ef þú hefur verið dapur/döpur eða misst áhuga á hlutum í meira en nokkrar vikur.
+7. **Reykingar og áfengi.** Spurðu um stuðning við að hætta að reykja og um örugg mörk áfengisneyslu.
+8. **Hreyfing.** Spurðu hvers konar hreyfing er örugg fyrir þig. [Leiðbeiningar okkar um hreyfingu](/brain-health/exercise/) hafa hugmyndir.
+9. **Vernd höfuðs.** Notaðu hjálm þegar þú hjólar eða stundar tómstundasport með líkamsárekstri, og spurðu um forvarnir gegn byltum.
+10. **Að halda sambandi.** Tími með öðru fólki er hluti af heilbrigðu lífi. Sjá leiðbeiningar okkar um [félagsleg tengsl](/brain-health/social-connection/), og einnig um [svefn](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Áður en þú breytir lyfjum, mataræði, fæðubótarefnum, föstu eða hreyfingu skaltu ræða það fyrst við lækninn þinn, sérstaklega ef þú ert með hjartasjúkdóm, sykursýki, sögu um byltur eða ert þegar að lifa með heilabilun.
 
-## Talk with a doctor
+## Ræddu við lækni
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ef þú tekur eftir breytingum á minni eða hugsun sem valda þér áhyggjum, hjá þér sjálfum eða einhverjum öðrum, pantaðu tíma. NIA bendir á að
+[minnisvandamál geta átt sér aðrar orsakir](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+svo sem aukaverkanir lyfja, vandamál með skjaldkirtil, þunglyndi eða lágt B12-vítamín, og að sum þessara vandamála hverfi þegar orsökin er meðhöndluð. [Leiðbeiningar okkar um viðvörunarmerki](/brain-health/warning-signs/) útskýra hvað þarf að hafa í huga.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Leitaðu tafarlausrar hjálpar** ef breytingar koma skyndilega: skyndileg ruglingur, máttleysi eða dofi öðru megin í líkamanum, erfiðleikar með tal eða mikill höfuðverkur geta verið merki um heilablóðfall eða annað neyðarástand. Hringdu í 112.
 
-## Where Golden Moments fits
+## Hvar Golden Moments kemur inn
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments býður upp á einfaldar sameiginlegar athafnir, svo sem
+[spjallspjöld](/games/conversation-cards/),
+[myndabingó](/games/picture-bingo/) og
+[rólega öndunarhlé](/games/calm-breathing/). Þær eru ætlaðar til ánægju og samveru. Þær eru ekki meðferð og koma hvorki í veg fyrir né hægja á heilabilun.

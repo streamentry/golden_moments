@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "A yw gemau ymennydd yn atal dementia? Y dystiolaeth"
+seoTitle: "A yw gemau ymennydd yn atal dementia? Y dystiolaeth"
+description: "Beth mae ymchwil yn ei ddweud am gemau ymennydd a dementia: ysgogiad gwybyddol, hyfforddiant cyfrifiadurol, treial ACTIVE ac achos Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Nid oes unrhyw gêm ymennydd wedi dangos ei bod yn atal dementia. Mae
+  hyfforddiant ymennydd ar gyfrifiadur yn bennaf yn gwella'r tasgau mae pobl yn
+  eu hymarfer. Mewn un astudiaeth o dreial ACTIVE, roedd hyfforddiant cyflymder
+  penodol ynghyd â sesiynau atgyfnerthu yn gysylltiedig â llai o ddiagnosis o
+  ddementia dros 20 mlynedd, sef canfyddiad cul. I bobl sydd eisoes yn byw gyda
+  dementia, mae grwpiau ysgogiad gwybyddol yn dangos manteision bach,
+  tymor byr. Mae'n well mwynhau gemau am hwyl a chwmni.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Mae astudiaethau hyfforddiant ymennydd yn dangos bod pobl yn gwella ar y tasgau maen nhw'n eu hymarfer, gyda llawer llai o dystiolaeth bod hyn yn trosglwyddo i fywyd bob dydd."
+  - "Yn nhreial ACTIVE, dim ond y bobl a wnaeth hyfforddiant cyflymder penodol ynghyd â sesiynau atgyfnerthu a gafodd lai o ddiagnosis o ddementia dros 20 mlynedd. Ni ddangosodd hyfforddiant cyflymder heb sesiynau atgyfnerthu, na hyfforddiant cof na rhesymu, hyn."
+  - "Yn 2016, talodd gwneuthurwr Lumosity $2 filiwn i setlo cyhuddiadau gan yr FTC nad oedd ganddo'r wyddoniaeth i gefnogi honiadau am ohirio dementia."
+  - "I bobl â dementia ysgafn i gymedrol, mae grwpiau ysgogiad gwybyddol yn dangos manteision bach, tymor byr ar gyfer meddwl a manteision cliriach ar gyfer cyfathrebu a rhyngweithio cymdeithasol."
+  - "Mae gemau Golden Moments ar gyfer mwynhad ac amser gyda'ch gilydd. Nid ydynt yn driniaeth ac nid ydynt yn atal nac yn arafu dementia."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "A yw gemau ymennydd yn atal clefyd Alzheimer?"
+    a: "Nid oes unrhyw gêm ymennydd wedi profi ei bod yn atal clefyd Alzheimer na dementia arall. Mae'r National Institute on Aging yn dweud nad oes digon o dystiolaeth bod apiau hyfforddiant ymennydd masnachol yn cael yr un effeithiau â'r hyfforddiant a brofwyd mewn treialon ymchwil. Gall gemau fod yn ffordd braf o dreulio amser o hyd."
+  - q: "Beth ddarganfu treial ACTIVE am hyfforddiant cyflymder a dementia?"
+    a: "Mewn dadansoddiad yn 2026, cysylltwyd cyfranogwyr ACTIVE â chofnodion Medicare dros 20 mlynedd. Roedd gan y bobl a wnaeth hyfforddiant cyflymder prosesu ac o leiaf un sesiwn atgyfnerthu gyfradd is o ddementia a gafodd ddiagnosis na'r grŵp heb hyfforddiant. Ni ddangosodd hyfforddiant cyflymder heb sesiynau atgyfnerthu, na hyfforddiant cof na rhesymu, effaith sylweddol."
+  - q: "A yw posau a gemau'n dda i rywun sydd eisoes yn byw gyda dementia?"
+    a: "Gallant fod, os yw'r person yn eu mwynhau. Mae ysgogiad gwybyddol mewn grŵp, sy'n cynnwys gemau geiriau, posau, cerddoriaeth a sgwrs, yn dangos manteision bach, tymor byr ar gyfer meddwl a manteision cliriach ar gyfer cyfathrebu a rhyngweithio cymdeithasol. Mwynhad, nid canlyniad prawf, yw'r nod iawn."
+  - q: "Pam cafodd Lumosity ddirwy gan yr FTC?"
+    a: "Yn 2016, cyhuddodd y Federal Trade Commission fod Lumos Labs wedi gwneud honiadau am ei gemau, gan gynnwys ohirio dirywiad sy'n gysylltiedig ag oedran a dementia, heb yr wyddoniaeth i'w cefnogi. Cytunodd y cwmni i dalu $2 filiwn ac i gael tystiolaeth wyddonol ddibynadwy cyn gwneud honiadau o'r fath yn y dyfodol."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,93 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Mae gemau ymennydd i'w gweld ym mhobman, ac mae llawer ohonynt yn addo cadw'ch meddwl yn ifanc. Os ydych chi'n gofalu am rywun sy'n byw gyda dementia, neu'n poeni am eich cof eich hun, mae'n naturiol meddwl tybed a allai eu chwarae helpu. Dyma beth mae'r ymchwil yn ei ddangos mewn gwirionedd, gan gynnwys y rhannau sy'n galonogol a'r rhannau nad ydynt.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Gwybodaeth gyffredinol yw hon, nid cyngor meddygol. Gweler ein [hysbysiad meddygol](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## A yw gemau ymennydd yn atal dementia?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Nid oes unrhyw gêm ymennydd wedi profi ei bod yn atal dementia. Mae'r National Institute on Aging (NIA) yn cynghori pobl i fod yn ofalus o honiadau bod gemau cyfrifiadurol ac ar-lein yn gallu gwella cof, ac yn dweud nad oes digon o dystiolaeth bod unrhyw ap hyfforddiant ymennydd masnachol yn cael yr un effaith â'r hyfforddiant a brofwyd mewn treialon clinigol ([NIA ar atal clefyd Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Nid yw hynny'n golygu nad oes gwerth i gemau. Mae'n golygu bod eu gwerth mewn mwynhad, cwmni ac arferion, nid mewn amddiffyn unrhyw un rhag dementia.
 
-## What is "near transfer", and why does it matter?
+## Beth yw "trosglwyddo agos", a pham mae'n bwysig?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Pan fyddwch chi'n ymarfer tasg, rydych chi fel arfer yn gwella ar y dasg honno. Mae ymchwilwyr yn galw hyn yn effaith hyfforddi. Y cwestiwn anoddach yw a yw'r gwelliant yn **trosglwyddo** i bethau eraill: i dasgau tebyg (trosglwyddo agos) neu i fywyd bob dydd, fel cofio apwyntiadau neu reoli arian (trosglwyddo pell).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Archwiliodd adolygiad mawr yn 2016 yr astudiaethau yr oedd cwmnïau hyfforddiant ymennydd yn eu defnyddio fel eu tystiolaeth orau. Canfu dystiolaeth helaeth bod pobl yn gwella ar y tasgau maen nhw'n eu hyfforddi, llai o dystiolaeth eu bod yn gwella ar dasgau sydd â chysylltiad agos, ac ychydig iawn o dystiolaeth bod hyfforddiant yn gwella meddwl ym mywyd bob dydd. Roedd gan lawer o'r astudiaethau broblemau cynllun hefyd a oedd yn golygu nad oedd modd dod i gasgliadau cadarn
+([Simons a chydweithwyr, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Beth mae adolygiadau'n ei ddweud am hyfforddiant ymennydd ar gyfrifiadur?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Mae adolygiadau Cochrane, sy'n crynhoi'r treialon gorau sydd ar gael, wedi edrych ar hyfforddiant cyfrifiadurol a barodd o leiaf 12 wythnos:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Oedolion iach 65 oed a hŷn:** wyth treial gyda 1,183 o bobl. Roedd ansawdd y dystiolaeth yn isel neu'n isel iawn. Efallai bod budd bach yn syth ar ôl hyfforddi, heb dystiolaeth glir ei fod yn para
+  ([Adolygiad Cochrane, oedolion hŷn iach](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Pobl â nam gwybyddol ysgafn:** wyth treial gyda 660 o bobl. Ni nododd yr un treial a aeth pobl ymlaen i ddatblygu dementia, ac roedd y dystiolaeth yn rhy wan i ddod i gasgliadau
+  ([Adolygiad Cochrane, nam gwybyddol ysgafn](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Beth ddarganfu treial ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+Mae ACTIVE yn dreial mawr yn yr Unol Daleithiau a ddechreuodd yn 1998 gyda 2,802 o oedolion 65 oed a hŷn a oedd yn byw'n annibynnol ac nad oedd ganddynt broblemau cof neu feddwl sylweddol. Cafodd pobl eu rhoi ar hap i un o dri math o hyfforddiant grŵp bach (cyflymder prosesu, cof, neu resymu) neu i grŵp heb gyswllt. Roedd yr hyfforddiant yn cynnwys hyd at ddeg sesiwn dros bump i chwe wythnos. Cafodd rhai pobl a orffennodd y rhan fwyaf o'r sesiynau gynnig ar hap i fynychu **sesiynau atgyfnerthu** tua blwyddyn a thair blynedd yn ddiweddarach.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Roedd yr hyfforddiant cyflymder yn cynnwys sylwi ar wybodaeth weledol a'i phrosesu mewn cipolwg byrrach a byrrach, ar lefel a oedd yn addasu wrth i bobl wella.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Yn 2026, cysylltodd ymchwilwyr 2,021 o gyfranogwyr â'u cofnodion Medicare am 20 mlynedd ([Dadansoddiad 20 mlynedd ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Dyma'n union beth a ddarganfuwyd:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Hyfforddiant cyflymder ynghyd ag o leiaf un sesiwn atgyfnerthu:** cyfradd is o ddementia a gafodd ddiagnosis na'r grŵp heb gyswllt (cymhareb perygl o 0.75, sy'n golygu'n fras gyfradd 25% yn is).
+- **Hyfforddiant cyflymder heb sesiynau atgyfnerthu:** dim cyfradd is.
+- **Hyfforddiant cof neu resymu:** dim effaith sylweddol ar ddiagnosis o ddementia.
+- **Pob grŵp hyfforddiant yn ei gyfanrwydd o gymharu â'r grŵp heb gyswllt:** tuedd tuag at gyfraddau is, ond nid yn ystadegol arwyddocaol.
 
-### The limits of this finding
+### Cyfyngiadau'r canfyddiad hwn
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Mae'n berthnasol i **un math penodol o hyfforddiant cyflymder dan oruchwyliaeth gyda sesiynau atgyfnerthu**, nid i gemau ymennydd yn gyffredinol.
+- Daeth y canlyniad arwyddocaol o **is-grŵp** (pobl a orffennodd y rhan fwyaf o'r sesiynau cyntaf ac a gafodd gynnig sesiynau atgyfnerthu), nid o'r grŵp cyflymder cyfan.
+- Cafodd dementia ei fesur gan ddefnyddio **codau diagnosis mewn hawliadau Medicare**, nid drwy archwilio pob person. Cafodd tua chwarter y cyfranogwyr gwreiddiol eu gadael allan oherwydd eu bod wedi cofrestru ar Medicare Advantage, nad oes ganddo gofnodion hawliadau llawn.
+- Nid oedd gan y cyfranogwyr broblemau meddwl sylweddol pan ddechreuon nhw. Nid yw'r canlyniadau'n dweud dim am gemau i bobl **sydd eisoes yn byw gyda dementia**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Mae'n ganlyniad diddorol sy'n haeddu mwy o ymchwil. Nid yw'n dystiolaeth bod unrhyw ap yn atal dementia.
 
-## What did the FTC say about Lumosity?
+## Beth ddywedodd yr FTC am Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Ym mis Ionawr 2016, cytunodd Lumos Labs, gwneuthurwr Lumosity, i dalu $2 filiwn i setlo cyhuddiadau hysbysebu camarweiniol gan y Federal Trade Commission. Dywedodd yr FTC fod y cwmni wedi honni, heb wyddoniaeth ddigonol, y gallai ei gemau wella perfformiad yn y gwaith ac yn yr ysgol ac y gallent ohirio dirywiad sy'n gysylltiedig ag oedran, nam gwybyddol ysgafn, dementia a chlefyd Alzheimer. Mae'r gorchymyn yn ei gwneud yn ofynnol i'r cwmni gael tystiolaeth wyddonol gymwys a dibynadwy cyn gwneud honiadau o'r fath yn y dyfodol ([Datganiad i'r wasg yr FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Y wers i deuluoedd: byddwch yn amheus o unrhyw gêm, ap neu raglen sy'n addo amddiffyn cof neu atal dementia.
 
-## Can games help someone who already has dementia?
+## A all gemau helpu rhywun sydd eisoes yn byw gyda dementia?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Gallant ychwanegu at ddiwrnod da, ac mae hynny'n bwysig iawn. Y dull sydd wedi'i astudio orau yw **ysgogiad gwybyddol**: gweithgareddau grŵp pleserus fel trafod, hel atgofion, gemau geiriau, posau a cherddoriaeth, fel arfer mewn grŵp bach dan arweiniad hwylusydd.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Canfu adolygiad Cochrane yn 2023 o 37 o dreialon gyda 2,766 o bobl â dementia ysgafn i gymedrol
+([Adolygiad Cochrane o ysgogiad gwybyddol](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **budd bach, tymor byr** ar brofion meddwl (tystiolaeth o ansawdd cymedrol);
+- **gwelliannau clinigol berthnasol mewn cyfathrebu a rhyngweithio cymdeithasol** (tystiolaeth o ansawdd uchel, o nifer lai o astudiaethau);
+- **manteision bach** ar gyfer ansawdd bywyd, hwyliau ac ymddygiad.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Cafodd manteision eu mesur yn bennaf yn syth ar ôl rhaglenni o tua deg wythnos, ac ychydig o astudiaethau a wiriodd a oeddent yn para. Mae ysgogiad gwybyddol yn rhaglen grŵp strwythuredig, felly nid yw'r canlyniadau hyn yn berthnasol yn awtomatig i rywun sy'n chwarae gêm ar ei ben ei hun ar dabled.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Mae Comisiwn Lancet 2024 hefyd yn dweud bod rhaglenni gweithgaredd yn bwysig i bobl sy'n byw gyda dementia, er mwyn cynnal mwynhad a phwrpas
+([Comisiwn Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Beth yw gwerth gwirioneddol gemau?
 
-When chosen well, games can offer:
+Pan gânt eu dewis yn ofalus, gall gemau gynnig:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Mwynhad.** Mae hanner awr braf yn werth chweil ynddi'i hun.
+- **Cysylltiad.** Mae chwarae ochr yn ochr yn rhoi rhywbeth hawdd i'w rannu pan fo sgwrsio'n anodd. Gweler [sut i chwarae gyda'ch gilydd](/caregiving/how-to-play-together/).
+- **Trefn.** Gall gweithgaredd cyfarwydd ar yr un amser bob dydd ddod â chysur.
+- **Hyder.** Mae gweithgareddau sy'n cyd-fynd â'r hyn y gall person ei wneud yn dda o hyd yn helpu'r person i deimlo'n abl, nid fel pe bai'n cael ei brofi.
+- **Sgwrs.** Gall llun neu ddywediad cyfarwydd agor stori. Rhowch gynnig ar [gardiau sgwrsio](/games/conversation-cards/) neu [gorffen y dywediad](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Beth i'w osgoi: amseryddion, sgorau, cyfresi ac unrhyw beth sy'n teimlo fel prawf cof. Os bydd y person yn teimlo'n rhwystredig, stopiwch. Mae gorffen yn gynnar, neu eistedd gyda'ch gilydd yn syml, yn ganlyniad da. Mae gan ein canllaw i [ddewis apiau a gemau](/caregiving/choosing-apps-and-games/) restr wirio.
 
-## Where Golden Moments fits
+## Ble mae Golden Moments yn ffitio
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Mae gemau Golden Moments, fel [parau lluniau](/games/picture-pairs/), [pos lluniau](/games/picture-puzzle/) a [chwilio am eiriau print bras](/games/word-search/), wedi'u creu ar gyfer mwynhad ac amser gyda'ch gilydd. Nid oes cloc nac sgôr ynddynt. **Nid** triniaeth ydynt, ac **nid** ydynt yn atal nac yn arafu dementia. Byddai'n well gennym ddweud hynny'n blaen na gwneud addewid na all unrhyw gêm ei chyflawni.
 
-## Talk with a doctor
+## Siaradwch â meddyg
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Os ydych chi'n poeni am newidiadau cof yn chi'ch hun neu yn rhywun rydych chi'n gofalu amdano, gweler meddyg yn hytrach na dibynnu ar ap. Gall meddyg chwilio am achosion y gellir eu trin a thrafod y camau sydd â'r dystiolaeth orau, fel rheoli pwysedd gwaed a gwirio clyw. Gweler [A ellir atal dementia?](/brain-health/can-dementia-be-prevented/) am fwy. Os bydd dryswch sydyn neu newidiadau sydyn eraill, ffoniwch 999 i gael cymorth meddygol brys.

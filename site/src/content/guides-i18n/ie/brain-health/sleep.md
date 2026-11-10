@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Somnie e sanitá cerebral: quo li recerca suggeste"
+seoTitle: "Somnie e dementie: quo li recerca suggeste"
+description: "Quo li recerca suggeste pri somnie e risc de dementie, pro quo li recerca pri cerebral nettaction es ancor temporan, e practic habitudes de somnie."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Quelc long-termine studies liga curt somnie in li medie etá con un plu alt risc de dementie, e
+  recerca in laboratoria suggeste que somnie posse auxiliar li cerebre a remover desfacilages. Ti
+  evidentie es ancor temporan, e li Commission Lancet de 2024 ne listat somnie quam un modificabil
+  factor de risc. Regulari habitudes de somnie auxilia quam on senti se chascun die. Problemas de
+  somnie che persones queles vive con dementie es comun e merite esser parlat con un medico.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Un studie in li Reyatu Unit, quel sequet circa 8 000 persones durant 25 annus, ligat dormir six hores o minu in li medie etá con un plu alt risc de dementie."
+  - "Changes in li somnie posse anc esser un temporan signe de dementie, do it es desfacil dir quo es li cause e quo es li efecte."
+  - "Recerca pri li remotion de beta-amiloide del cerebre durant somnie es real ma temporan, e mult de it es fat che mures."
+  - "Apnee de somnie es comun, tractabil e ligat con dementie in studies; fort ronca e somnolentie durant li die merite esser controlat."
+  - "Ne comensa, ne cessa e ne changea jamá un medisine o un auxilie por somnie sin un medico."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Esque mal somnie causa Alzheimer?"
+    a: "To ne ha esset demonstrat. Quelc studies liga curt somnie con un plu alt risc de dementie, ma li dementie self perturba li somnie, sovente annus ante li diagnose. Li Commission Lancet de 2024 judicat li evidentie tro ínconsequent por listar somnie quam un modificabil factor de risc."
+  - q: "Quant somnie besona adult persones plu old?"
+    a: "Li National Institute on Aging di que adult persones plu old besona circa tam mult quam altri adultes, 7 til 9 hores chascun nocte. Mult persones plu old vade al lette e leva se plu frue quam antey, quo es comun."
+  - q: "Pro quo un person quel vive con dementie dormi durant li die e evelia se in li nocte?"
+    a: "Dementie posse afectar li horloge del córpor, do li témpores de somnie e de vigila deveni mixtet. Dolore, enoi, fame o lateral efectes de medicines posse anc have un rol. Lumine de die, activitá chascun die e un calm routine in li vésper posse auxiliar. Un medico posse serchar causes queles posse esser tractat."
+  - q: "Esque yo deve dar un auxilie por somnie al person por quel yo cuida?"
+    a: "Parla con su medico antey, anc pri productes sin recept. Li National Institute on Aging nota que quelc medicines por somnie posse augmentar li risc de vertígine, cadidas e confusion che persones con Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Somnie e sanitá cerebral es clarmen conexet, ma qualmen ili es conexet es ancor in exploration. Quelc studies liga curt somnie con un plu alt risc de dementie. Dementie, de su látere, perturba sovente li somnie. Ti págine explica quo li recerca monstra e quo it ne monstra, da practic habitudes de somnie e parla pri problemas de somnie queles es comun che dementie. It ne da consilies pri medicines por somnie; ti conversation apartene a un medico.
 
-## Is poor sleep linked with dementia?
+## Esque mal somnie es ligat con dementie?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Quelc long-termine studies liga curt somnie con un plu alt risc de dementie, ma li evidentie ne es clar.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Un studie de 25 annus in li Reyatu Unit.** Cercatores sequet circa 8 000 adultes in li [studie Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Persones queles dormit six hores o minu in li etá de 50 o 60 annus havet plu tard un plu alt risc de dementie quam tis queles dormit sett hores. Persones queles dormit six hores o minu in li etás de 50, 60 e 70 annus havet circa 30% plu alt risc quam tis queles regularimen dormit sett hores. To esset un observationale studie, do it monstra un ligament, ne un cause.
+- **Li vise-punctu del Commission Lancet.** Li [Commission Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ne adjuntet somnie a su liste de 14 modificabil factores de risc. It judicat li evidentie ne sat consequent. Un rason es li «revers causation»: changes in li cerebre pro dementie comensa annus ante li diagnose e posse perturbar li somnie. In un grand studie, un ligament inter long somnie e dementie desaparit quande li unesim quin annus de observation esset excludet.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Do un curt nocte de témpor a témpor ne es un rason por preocupar se. Regulari somnie de bon qualitá merite esser un scope, pro que it auxilia li humor, li alertitá e li securitá hodie.
 
-## What is the "brain-clearing" sleep research?
+## Quo es li recerca pri «cerebral nettaction»?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Vu fórsan ha leet que somnie «netta» li cerebre. Ti idé veni de real recerca, ma it es temporan.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Che mures.** Un studie de 2013, [descrit del NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), trovat que li spacie inter cerebral cellules crescet de circa 60% quande mures dormit. Fluid circulat plu facilmen tra li cerebre, tra to quo cercatores nomina li glifatic sistema. Beta-amiloide, un proteine ligat con Alzheimer, esset removet plu rapidmen del cerebres de dormient mures.
+- **Che homes.** Un micri [studie de 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) examinat per scannage 20 san adultes de 22 til 72 annus pos un normal nocte e pos un nocte sin somnie. Pos li nocte sin somnie, un signal de cerebral scannage por beta-amiloide crescet de circa 5% in un region quel includet li hippocampe, un region important por memorie. Li autores nominat to un preliminari evidentie. Ili ne savet esque li change desapari pos repose, o esque it monstra plu lent remotion o plu mult production de amiloide.
+- **It functiona in ambi directiones.** Li Commission Lancet nota que li acumulation de amiloide self posse perturbar li somnie che adult persones plu old.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Ti resultates auxilia explicar pro quo cercatores es interessat in somnie. Ili ne monstra que melior somnie prevente Alzheimer.
 
-## What sleep habits may help?
+## Quel habitudes de somnie posse auxiliar?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Adult persones plu old besona circa 7 til 9 hores de somnie chascun nocte, li sam quam altri adultes, secun li [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Su suggestiones include:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Mantene un regulari horarie.** Vade al lette e leva te in li sam témpor chascun die, anc in fines de semane.
+- **Crea un routine por calmar te.** Lee, escuta calm musica o prende un calid balne ante ear al lette.
+- **Fa li chambre comfortabil,** ne tro calid e ne tro frigid.
+- **Limita caffeina tard in li die.** Café, té, gaseosi beverages e chocolate posse impedir vos dormir.
+- **Evita alcohol,** mem micri quantitás, li NIA consilia.
+- **Evita grand repastes intra du til tri hores ante ear al lette,** e grand beverages tard in li die.
+- **Fa movement regularimen, ma ne intra 3 hores ante ear al lette.** Vide nor [guide pri movement](/brain-health/exercise/).
+- **Tene ecranes ex li chambre.** Li NIA suggeste ne regardar TV o usar un computator, telefon o tablette ta.
+- **Evita dormitas in li pos-midí o in li vésper** si vu posse.
 
-## Sleep problems in dementia
+## Problemas de somnie che dementie
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Changes in li somnie es comun che dementie. Li [NIA lista](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) dormir tro mult o tro poc, eveliar se mult vezes in li nocte e dormir mult durant li die. It anc descri li «sundowning»: ínquietitá, agitation o confusion quel comensa o deveni plu fort quande li luce de die desapari.
 
-Caregiver tips from the NIA include:
+Consilies por persones queles cuida, secun li NIA:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Recive luce de die e movement frue.** Vade exter o sede apu un fenestre durant li die, e auxilia li person esser activ chascun die. Clar luce posse auxiliar readjustar li horloge del córpor.
+2. **Plan activitás con plu energie por li matine.** Prova balnear in li matine o far li max grand repast ye midí.
+3. **Mantene dormitas curt e frue.** Limita dormitar tard in li die.
+4. **Fa li vésper calm.** Diminue li luces, reduce li bruida e lude calm musica si li person ama it. Nor guide pri [ínquietitá in li fine del die](/caregiving/late-day-restlessness/) have plu idés.
+5. **Mantene un stabil routine ante somnie.** Leer ad-alt in li sam témpor chascun nocte es un exemple del NIA. Un [stabil routine chascun die](/activities/daily-routine/) anc auxilia.
+6. **Limita caffeina e alcohol.**
+7. **Usa micri noct-luces** in li chambre, li corridor e li banea.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Por eveliation in li nocte, li [consilies del NIA pri securitá in hem](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include noct-luces o automatic sensores de luce, man-tenettes in li banea, bande de clar color sur li bordes de scalunes, e medicines in un serrat loc.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Un curt e quiet activitá in li vésper posse auxiliar vos ambi calmar vos. Prova un lent pause de [Calm Breathing](/games/calm-breathing/) o quelc relaxat [Conversation Cards](/games/conversation-cards/). Evita alquicos excitant proxim al témpor de somnie, e cessa sempre quande li person ha fat sat.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Interruptet somnie fatiga anc li persones queles cuida. Nor [guide pri suin self por cuidantes](/caregiving/caregiver-self-care/) da idés pri qualmen reciver repose e auxilie.
 
-## What about sleep apnea?
+## Quo pri apnee de somnie?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Apnee de somnie causa curt pauses in li respiration durant somnie, sovente mult vezes in un nocte. Li NIA di que si it ne es tractat, it posse ducter a problemas quam alt pression sanguin, apoplexie o perdite de memorie. Signes include fort ronca e sentir se somnolent durant li die, e mult persones ne save que ili have it. Li Commission Lancet descri un revise de 11 studies in queles persones con apnee de somnie havet circa 43% plu alt risc de dementie. Tamen poc de ti studies prendet in calcul li pése corporal, do li ligament es íncert.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Apnee de somnie posse esser diagnosticat e tractat. Li NIA nota que un machine CPAP presc sempre auxilia. Si vu o li person por quel vu cuida ronca fortmen, cessa respirar durant somnie, o es tre somnolent durant li die, parla con un medico.
 
-## A note about sleep medicines
+## Un nota pri medicines por somnie
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Noi ne da consilies pri medicines o suplements por somnie. Li NIA nota que medicines por somnie posse auxiliar por un curt témpor, ma ili ne es un cura por insomnie. It anc nota que quelc medicines dat por auxiliar persones con Alzheimer a dormir posse augmentar li risc de vertígine, cadidas e confusion. Ne comensa, ne cessa e ne changea alquel medisine por somnie, includente auxilies sin recept, sin parlar con un medico o un farmaciist.
 
-## Talk with a doctor
+## Parla con un medico
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Consulta un medico si vu o li person por quel vu cuida es sempre fatigat, have desfacilitá a dormir li pluparte del noctes, ronca fortmen, o have pauses in li respiration durant li nocte. Si problemas de somnie che dementie continua, li [NIA consilia](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) serchar medical consilie. Un control medical posse trovar causes quam dolore, un altri desórdine de somnie, un malada o un lateral efecte de un medisine. Subit confusion, o un subit change in somnie junt con confusion, besona urgent suin. Lee [quande consultar un medico](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ti págine es general information, ne medical consilie. Vide nor [medical declaration](/medical-disclaimer/).

@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Gratuita imprimebla aktivesi pri dementeso"
+seoTitle: "Gratuita imprimebla aktivesi: granda literi"
+description: "Gratuita imprimebla aktivesi pri dementeso: vort-sercho, kolorizo-pagini, konverso-karti e imajo-bingo en granda literi, kun konsili por imprimo."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments ofras gratuita imprimebla aktivesi pri dementeso: vort-sercho
+  en granda literi, kolorizo-pagini, imajo-konverso-karti e imajo-bingo-karti.
+  Apert ez irga lud-pagino e uzez olua butono Imprimar. Imprimez en granda,
+  simpla literi sur dika papero, mantenez un tasko po pagino, e plastifizez
+  pagini quin vu volas reuzar. Simpla heme facita imprimaji, quale pagino pri
+  la vivo-historio o diala horaro, anke helpas.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Nia imprimebla aktivesi esas gratuita: Word Search, Coloring, Conversation Cards e Picture Bingo. Singla lud-pagino havas butono Imprimar."
+  - "Imprimez en granda, simpla literi kun forta kontrasto, e mantenez un tasko po pagino."
+  - "Dika papero o kartono esas plu facile tenebla e plu malfacile frunsigebla. Plastifizez pagini por reuzar li kun seka-efacebla markili."
+  - "Heme facita imprimaji quale pagino pri la vivo-historio, diala horaro o imajo-etiketi por pordi esas simpla e utila."
+  - "Imprimita pagino esas invito, ne hemtasko. Facar parto de ol, o nulo, esas konvenanta."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Ka vua imprimebla aktivesi pri dementeso esas gratuita?"
+    a: "Yes. La pagini Word Search, Coloring, Conversation Cards e Picture Bingo en ica retoloko esas gratuita por uzar e imprimar. Apert ez la lud-pagino e uzez la butono Imprimar."
+  - q: "Qua imprimebla aktivesi esas maxim bona por dementeso?"
+    a: "La maxim bona imprimaji esas simpla, klara e adulta: vort-sercho en granda literi kun vorti nur horizontale e vertikale, kolorizo-pagini kun klara konturi, imajo-karti qui komencigas konverso, e imajo-bingo por grupi. Adaptez l’aktiveso a l’interesti e nuna kapablesi di la persono, e mantenez un tasko po pagino."
+  - q: "Quale me povas facar imprimaji plu facile videbla e uzebla?"
+    a: "Uzez granda, simpla literi, obskura inko sur blanka o kremo-kolora papero, e multa spaco. Imprimez sur dika papero o kartono por ke la pagino restas plata, selektez mata papero por diminutar reflekto, e uzez notiz-foliero o glit-nepermisanta mato por mantenar la pagino senmova. Plastifizo helpas ke pagini duros longe."
+  - q: "Ka me povas imprimar vua aktivesi por sorgo-domo o diala programo?"
+    a: "Yes. Personaro di aktivesi esas bonvena imprimar nia pagini por rezidanti e grupi. Picture Bingo esas projektita por grupi e inkluzas ekraneala vokanto, quan vu povas montrar sur televiziono o projektoro."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Kelkafoye la maxim bona aktiveso esas folio di papero e krayono an la koqueyo-tablo. Imprimaji ne bezonas charjo, pasovorti o ekrano, e li esas facile portebla a vizito o grupo. Ica pagino deskriptas la gratuita imprimebla aktivesi en nia retoloko, quale imprimar li por ke li esez facile videbla e tenebla, e kelka simpla heme facita imprimaji quin familii e personaro di aktivesi trovas utila.
 
-## What free printable activities do you offer?
+## Qua gratuita imprimebla aktivesi vu ofras?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Ni ofras quar gratuita imprimaji. Apert ez irga de ica lud-pagini e uzez la butono **Imprimar** por obtenar versiono facile imprimebla.
 
-| Printable | What it is | Good for |
+| Imprimajo | Quo ol esas | Bona por |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Vort-sercho en granda literi kun vorti nur horizontale e vertikale | Tranquila tempo kun krayono; ulu qua prizis puzli |
+| [Coloring](/games/coloring/) | Kolorizo-pagini por imprimar, o por kolorizar sur ekrano | Tranquila, kreiva tempo; irga stadio kun helpo |
+| [Conversation Cards](/games/conversation-cards/) | Imajo-karti kun apertita konverso-questioni sen quiz, segun temo | Viziti, telefon-voki, familia manjaji, rememor-grupi |
+| [Picture Bingo](/games/picture-bingo/) | Bingo-karti kun imaji vice nombri, plus ekraneala vokanto | Sorgo-domi, diala programi, familia renkontri |
 
-### Large-print word search
+### Vort-sercho en granda literi
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+La [Word Search](/games/word-search/) uzas granda literi e mantenas vorti nur horizontale e vertikale, sen diagonali o retroira vorti. Labor ez kune: un persono lektas vorto de la listo, l’altra serchas ol. Se trovar vorti divenas desfacila, probez cirklizar kune la unesma litero di singla vorto, o simple lektez la vort-listo laute e parolez pri singla vorto.
 
-### Coloring pages
+### Kolorizo-pagini
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Pagini di [Coloring](/games/coloring/) povas esar imprimita por markili o kolorizo-krayoni, o kolorizita sur tableto per tuchetar koloro, pose parto di l’imajo. Por imprimita pagini, ofrez dika markili e kelka kolori samtempe. Videz nia [guidilo pri arti e manuo-labori](/activities/arts-and-crafts/) por manieri mantenar kolorizo adulta e tranquila.
 
-### Conversation cards
+### Konverso-karti
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) kunigas klara imajo kun apertita questiono, quale «Rakontez a me pri...» o «Quon vu remarkas?». Li esas skribita kom apertita inviti, ne kom quiz-questioni. Imprimez serio, tranchez li aparte, e mantenez kelka en sako por viziti o proxim la telefono por voki. Li anke funcionas bone en grupi di [rememoro](/activities/reminiscence/).
 
-### Picture bingo cards
+### Imajo-bingo-karti
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Karti di [Picture Bingo](/games/picture-bingo/) uzas imaji vice nombri. Imprimez un karto por singla ludanto e uzez l’ekraneala vokanto sur portebla komputoro, televiziono o projektoro. Ni sugestas vokar til la karto di omni esas plena, por ke nulu sentes su exkluzita. Videz [grup-aktivesi por sorgo-domi](/activities/care-home-groups/) por quale direktar sesiono.
 
-## How do I print activities so they are easy to use?
+## Quale me imprimas aktivesi por ke li esez facile uzebla?
 
-Small changes in how you print make a big difference.
+Mikra chanji en vua maniero di imprimo facas granda diferi.
 
-### Make it easy to see
+### Facez ol facile videbla
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Granda, simpla literi.** Uzez la maxim granda imprimo-regulo qua ankore konvenas a la pagino. Evitez dekoriva o skripto-literformi.
+- **Forta kontrasto.** Obskura inko sur blanka o kremo-kolora papero. Evitez pal-griza o kolorita fundi.
+- **Mata papero** diminutas reflekto sub forta lumi.
+- **Kontrolez binokli e lumizo.** La Alzheimer’s Association remarkas ke problemi pri vido e audado povas facar komunikado plu desfacila, e sugestas regulara kontroli. Klara, egala lampo anke helpas.
 
-### Make it easy to hold
+### Facez ol facile tenebla
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Dika papero o kartono** restas plata, esas plu facile prenebla, e rezistas a ripetita uzo.
+- **Notiz-foliero** o glit-nepermisanta mato impedas ke la pagino glitas.
+- **Dika markili o grosa krayoni** esas plu facile tenebla kam tenua peni.
 
-### Make it reusable
+### Facez ol reuzebla
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Plastifizez pagini** o glitez li aden klara folio-protektili. Uzez seka-efacebla markili sur vort-serchi e bingo-karti, pose efacez.
+- **Selektez mata plastifizo** se reflekto esas problemo, e **rondigez l’anguli** di plastifizita karti per cizego por ke li esez komfortoza a tenar.
+- **Tenez dokumentuyo** di favorati por ke vu ne bezonas imprimar la sama pagino omna semano.
 
-### Keep it simple
+### Mantenez ol simpla
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Un tasko po pagino.** Un sola vort-sercho o un sola imajo, ne plura aktivesi kune sur la sama pagino.
+- **Suficanta blanka spaco.** Pagino tro plena povas semblar konfuzanta.
+- **Sen instrukti por lektar, se posible.** Montrez a la persono quo facar.
+- **Tranchez folii.** Se plena pagino esas tro multa, tranchez ol en duimo o faldez ol por ke nur parto montreses.
 
-## Other useful printables you can make at home
+## Altra utila imprimaji quin vu povas facar heme
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ne omna utila imprimajo esas ludo. Ica esas facile facabla per texto-redaktilo e imprimilo.
 
-### A life-story page
+### Pagino pri la vivo-historio
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Unpaginala folio «pri me» kun fotografuro, la nomo quan la persono preferas uzar, ube lu kreskis, lua laboro, familio, preferata manzaji, muziko e kozi qui komfortigas o trublas lu. Dementia Australia sugestas [memor-libro](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) kun detali pri la vivo, preferaji e importanta personi, por helpar vizitanti e sorganti e por stimular konverso.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Ol esas aparte utila en hospitali e nova sorgo-loki. La NIA rekomendas donar a hospitala personaro [personala inform-folio](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) qua inkluzas la rutinajo, preferata nomo, prizaji e ne-prizaji, posibla stimuli, e ne-vortala signi di doloro di la persono.
 
-### A daily schedule
+### Diala horaro
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Granda, simpla horaro por la dio kun hori, kelka vorti e mikra imajo por singla parto: dejuno, promeno, dineo, repozo, muziko, vesper-manjo. La [diala sorgo-plano](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) di la Alzheimer’s Association sugestas planar segun la maxim bona hori di la persono, kun regulara horo por vekar e kushar e ekuilibro inter aktiveso e repozo. Poz ez ol ye okulo-nivelo, exemple sur la frigidizilo, e mantenez ol flexebla. Videz nia [guidilo pri diala rutinajo](/activities/daily-routine/) por plu.
 
-### Picture labels for rooms and drawers
+### Imajo-etiketi por chambri e tir-kesteti
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+La NIA sugestas uzar brilante kolorita signi o simpla imaji por [etiketizar la banyo-chambro, dormo-chambro e koqueyo](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). La sama ideo funcionas por tir-kesteti e shoki: imajo di kalzi sur la kalzo-tir-kesto, tasi sur la taso-shoko. Imprimez, plastifizez e gluizez li.
 
-### A sorting set
+### Sortizo-serio
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Imprimez imaji de du simpla kategorii, quale frukti e flori o utensili e koqueyo-kozi, sur kartono. Tranchez li aparte e sortizez li kune en du korbi. La ekraneala versiono di to esas [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Folii kun kansono-texti
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Imprimez la vorti di kelka preferata kansoni en tre granda literi por komuna kantado. Mem personi qui ne plu lektas multe povas juar tenar la folio.
 
-### A family photo page
+### Familia-fotografuro-pagino
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Un sola pagino kun quar til sis granda familia fotografuri, singla kun prenomo sub ol. Ol povas restar sur la tablo por ke irgu povas prenar ol e parolar pri ol. Etiketi helpas vizitanti e personaro partoprenar la konverso, e nulu devas questionar «Qua esas ica?»
 
-### A recipe card
+### Recepto-karto
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Imprimez preferata familia recepto en granda literi. Uzez ol por koquar kune, o simple por parolar pri manjaji del pasinteco.
 
-## How do I offer a printable without it feeling like homework?
+## Quale me ofras imprimajo sen ke ol semblas kom hemtasko?
 
-Present it as something to share, not a test.
+Prezentez ol kom kozo por partigar, ne kom testo.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Sidez e komencez ol ipsa.** «Me facas ica vort-sercho. Ka vu volas helpar me trovar “gardeno”?»
+- **Labor ez kune.** Turnez vu, o un persono trovas e l’altra cirklizas.
+- **Nultempe markizez ol kom justa o nejusta.** La guidilo di la Alzheimer’s Association pri [aktivesi heme](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) konsilas fokusar la procedo, ne la rezulto, e la joyo, ne l’atingajo.
+- **Lasez pagini videbla.** La sama guidilo sugestas pozar albumi, fotografuro-albumi o anciena revui en facile atingebla loki. Imprimita karti e fotografuro-pagini povas restar sur laterala tablo en la sama maniero.
+- **Haltez kande vu volas.** Duimo di kolorizo-pagino esas bela posdimezo. Same anke forpozar la pagino e drinkar taso di teo.
 
-## Where to find more
+## Ube trovar plu
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Vid ez omna nia [ludi e imprimaji](/games/), o videz [aktivesi por omna stadii](/activities/ideas/) por plu idei, kun e sen papero.

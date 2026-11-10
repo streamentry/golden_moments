@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Váðaættir fyri demens: Teir 14 hjá Lancet-nevndini"
+seoTitle: "Váðaættir fyri demens: Teir 14 Lancet-ættirnir"
+description: "Teir 14 broytanligu váðaættirnir fyri demens, sum Lancet-nevndin nevndi í 2024, eftir lívsstigi, við tí gransking vísir á og hvat tú kanst tosa við lækna um."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Lancet-nevndin frá 2024 nevndi 14 váðaættir fyri demens, sum møguliga kunnu
+  broytast: minni útbúgving, hoyritap, høgt LDL-kolesterol, tunglyndi, høvuðsskaði,
+  ov lítið rørsl, diabetes, royking, høgur blóðtrýstur, yvirvekt, ov nógv alkohol,
+  sosialur einsemi, luftdálking og óviðgjørt sjónartap. Saman hava teir samband
+  við umleið 45% av tilburðum um allan heimin, men ongin trygd er fyri einstaka
+  persónin.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Teir 14 ættirnir fevna um alt lívið: ein í ungdómi, tíggju í miðlívi og tríggir í seinni lívi."
+  - "Hoyritap og høgt LDL-kolesterol í miðlívi hava hvørt sær samband við umleið 7% av demens-tilburðum um allan heimin, størsti parturin hjá nøkrum einstøkum ætti."
+  - "Hesi prosenttøl eru metingar fyri fólk í heild og ganga út frá orsakasambandi. Nøkur sambond kunnu bert vera partvís orsøkir."
+  - "Aldur og gen, sum eingin kann broyta, eru eisini stórir váðaættir. At minka um teir 14 váðaættirnar tryggjar ikki, at onkur sleppur undan demens."
+  - "Flestu stigini, sum koma upp í, so sum at kanna blóðtrýst, hoyrn og sjón, eru góð fyri heilsuna á aðrar mátar og verd at tosa við lækna um."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Hvørjir eru teir 14 broytanligu váðaættirnir fyri demens?"
+    a: "Lancet-nevndin frá 2024 nevndi minni útbúgving, hoyritap, høgt LDL-kolesterol, tunglyndi, høvuðsskaða, ov lítið rørsl, diabetes, royking, høgan blóðtrýst, yvirvekt, ov nógv alkohol, sosialan einsema, luftdálking og óviðgjørt sjónartap. Saman hava teir samband við næstan helvtina av demens-tilburðum um allan heimin."
+  - q: "Hvørjum váðaætti fyri demens hevur størst týdning?"
+    a: "Fyri fólk um allan heimin metti nevndin, at hoyritap og høgt LDL-kolesterol í miðlívi hvørt sær hava samband við umleið 7% av tilburðum, og síðani koma minni útbúgving og sosialur einsemi við umleið 5% hvørt. Hvørjir ættir hava størst týdning fyri einstaka persónin, veldst um heilsustøðuna hjá honum ella henni, so ein lækni er besti vegleiðari."
+  - q: "Eru tveir nýggir váðaættir lagdir afturat í 2024?"
+    a: "Ja. Frágreiðingin frá 2024 legði høgt LDL-kolesterol (tað ringa) í miðlívi og óviðgjørt sjónartap í seinni lívi afturat teimum 12 ættunum, sum vórðu nevndir í 2020. Nevndin knýtti teir at umleið 7% og 2% av tilburðum."
+  - q: "Er aldur ein broytanligur váðaættur?"
+    a: "Nei. Aldur er størsti kendu váðaætturin fyri Alzheimer, og hann kann ikki broytast. Gen hava eisini sín lut. Teir 14 ættirnir á hesi síðu eru teir, sum gransking bendir á, møguliga kunnu broytast."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,99 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Ein váðaættur er nakað, sum hevur samband við størri vanda fyri at fáa eina ávísa sjúku. Hann er ikki orsøk í øllum førum, og hevur tú ein váðaætt, merkir tað ikki, at tú fert at fáa demens. Á hesi síðu eru teir 14 váðaættirnir fyri demens, sum Lancet-nevndin í 2024 sigur møguliga kunnu broytast, hvat gransking knýtir teir at, og hvat tú kundi tosa við lækna um.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Fyri at fáa størri heildarmynd, eisini tað stórar royndir funnu, byrjið við
+[Kann demens fyribyrgjast? Hvat granskingin sigur](/brain-health/can-dementia-be-prevented/).
+Hetta eru almennar upplýsingar, ikki læknaráð; sí okkara
+[læknaliga frágreiðing](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Hvørjir eru teir 14 váðaættirnir fyri demens?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Lancet-nevndin frá 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+skrivað av 27 demensgranskarum, metti, at 14 møguliga broytanligir váðaættir
+saman standa fyri umleið 45% av demens-tilburðum um allan heimin. Prosenttalið
+hjá hvørjum ætti niðanfyri er metingin hjá nevndini av partinum av tilburðum um
+allan heimin, sum hevur samband við hann, avrundað til heil tøl. Tølini skarvast,
+tí nógv fólk hava fleiri váðaættir samstundis, og tí ger tað 45% heldur enn meira.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Váðaættur | Lívsstig | Partur av tilburðum | Hvat gransking vísir á | Hvat tú kanst gera |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Minni útbúgving | Ungdómur | 5% | Færri skúlaár hava samband við størri vanda. At vera andaliga virkin í miðlívi tykist eisini verjandi, sjálvt fyri tey, sum hava lítla skúlagongd. | Halt fram at læra og gera andaliga stimlandi ting í øllum aldri: lesa, frítíðarítriv, skeið, spæla saman við øðrum. |
+| Hoyritap | Miðlív | 7% | Óviðgjørt hoyritap hevur samband við størri vanda. Kanningar, sum fylgja fólki yvir tíð, knýta nýtslu av hoyritólum at lægri vanda. | Fá hoyrnina kannaða. Spyr, um hoyritól kundu hjálpt, og brúka tey, um tey verða ávíst. Verja oyruni fyri harðum ljóði. |
+| Høgt LDL-kolesterol | Miðlív (frá umleið 40 ára aldri) | 7% | Høgt LDL-kolesterol (tað ringa) í miðlívi hevur samband við størri vanda. Eygleiðingarkanningar knýta statinnýtslu at lægri vanda, men royndir í seinni lívi hava ikki víst hetta. | Spyr læknan, um kolesterolið hjá tær eigur at verða kannað, og hvat, um nakað, tú skalt gera við tað. |
+| Tunglyndi | Miðlív | 3% | Tunglyndi hevur samband við størri vanda. Í seinni lívi kann tunglyndi eisini vera eitt tíðligt tekin um demens. | Fortel einum lækna um lágt hugalag ella mistan áhuga, sum hevur vart í meira enn tvær vikur. Tunglyndi kann viðgerast. |
+| Høvuðsskaði | Miðlív | 3% | Høvuðsskaði í øllum aldri og av øllum orsøkum, eisini kropslig ítrótt, hevur samband við størri vanda. | Brúka hjálm, tá ið tú súkklar ella rekur kropsliga ítrótt. Spyr um, hvussu tú kanst fyribyrgja dottum. Hvíl og fá kannað eftir ein høvuðsskaða. |
+| Ov lítið rørsl | Miðlív | 2% | Fólk, sum røra seg og íðka ítrótt, fáa minni ofta demens. Próvtilfar frá royndum er enn avmarkað. | Spyr, hvat slag av rørslu er trygt hjá tær, og finn okkurt, sum tú dámar. Sí okkara [leiðbeining um rørslu](/brain-health/exercise/). |
+| Diabetes | Miðlív | 2% | Diabetes, serliga tá ið tað byrjar í miðlívi ella varir longur, hevur samband við størri vanda. | Fá blóðsukrið kannað. Hevur tú diabetes, arbeiðið saman við viðgerðarliðnum um at stýra tí á tryggan hátt. |
+| Royking | Míðlív | 2% | Royking hevur samband við størri vanda. Kanningar vísa, at fyrrverandi roykjarar ikki bera sama økta vanda sum tey, ið halda fram at roykja. | Spyr um stuðul til at steðga. Tað er vert at steðga í øllum aldri. |
+| Høgur blóðtrýstur | Miðlív | 2% | Høgur blóðtrýstur í miðlívi hevur samband við størri vanda. Royndir við blóðtrýstheilivági benda á eitt sindur lægri vanda fyri demens ella kognitivari veiklun. | Kennt tíni tøl. Nevndin mælir til eitt ovasta tal á 130 ella lægri frá umleið 40 ára aldri; spyr, hvat mál hóskar tær. |
+| Yvirvekt | Miðlív | 1% | Yvirvekt í miðlívi hevur samband við størri vanda, og tað økir eisini vandan fyri diabetes. | Spyr læknan um eina heilsugóða vekt hjá tær. Eldri vaksin skulu ikki fara á kúr fyri at missa vekt uttan læknaráð. |
+| Ov nógv alkohol | Miðlív | 1% | Tungur alkoholdrykkur hevur samband við størri vanda. At minka um tungan drykk hevur samband við lægri vanda. | Spyr, hvat ein trygg mørk er hjá tær, serliga í mun til heilivág tín. |
+| Sosialur einsemi | Seinni lív | 5% | Sjáldsomt sosialt samskifti hevur samband við størri vanda. | Halt samband við onnur á mátar, tú dámar. Sí okkara [leiðbeining um sosial sambond](/brain-health/social-connection/). |
+| Luftdálking | Seinni lív | 3% | At liva við meiri luftdálking hevur samband við størri vanda. Kanningar knýta reinari luft at lægri vanda. | Hetta snýr seg mest um almennar politiskar avgerðir. Kanna staðbundnar fráboðanir um luftgóðsku og avmarka tíðina uttandura á sera dálkaðum døgum. |
+| Óviðgjørt sjónartap | Seinni lív | 2% | Óleiðrétt sjónartrupulleikar hava samband við størri vanda. Ein stór amerikonsk kanning knýtti starroperatión at lægri vanda. | Fá regluligar eygnakanningar. Spyr, um trupulleikar sum stær kunnu viðgerast. |
 
-## How should I read these percentages?
+## Hvussu skal eg lesa hesi prosenttølini?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Við varsemi. Frágreiðingin hjá nevndini sjálvari leggur dent á fleiri ting, sum
+er vert at hava í huga:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Tey lýsa fólk í heild, ikki einstøk fólk.**
+  [Samandráttur University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  av frágreiðingini peikar á, at at minka um vanda virkar fyri fólk í heild og
+  tryggjar ikki, at nakar einstakur persónur sleppur undan demens.
+- **Tey ganga út frá orsakasambandi.** Høvundarnir tóku bert ættir við, har
+  prógvini vóru sannførandi, men siga, at nøkur sambond møguliga bert eru
+  partvís orsøkir.
+- **Tey eru tøl fyri allan heimin.** Flestu dáturnar koma frá londum við høgum
+  inntøkum, og tann rætti parturin fyri eitt ávíst land ella samfelag verður
+  øðrvísi.
+- **Smá prosenttøl kunnu kortini hava týdning.** Ein ættur, sum hevur samband
+  við 2% av tilburðum um allan heimin, rakar kortini eitt sera stórt tal av
+  fólki.
 
-## Which risk factors were added in 2024?
+## Hvørjir váðaættir vórðu lagdir afturat í 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Frágreiðingin frá 2024 legði tveir ættir afturat teimum 12, sum vórðu nevndir í
+2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Høgt LDL-kolesterol í miðlívi**, sum hevur samband við umleið 7% av
+  tilburðum.
+- **Óviðgjørt sjónartap í seinni lívi**, sum hevur samband við umleið 2% av
+  tilburðum.
 
-## What risk factors cannot be changed?
+## Hvørjir váðaættir kunnu ikki broytast?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging sigur, at
+[aldur er størsti kendu váðaætturin fyri Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+og eingin kann broyta hann. Gen havaeisini sín lut; eitt kent gen, sum ávirkar vandan fyri Alzheimer, eitur APOE. NIA leggur afturat, at vísindafólk enn ikki til fulnar skilja, hvat elvir til Alzheimer hjá flestu fólki. Lancet-nevndin viðmerkir, at teir váðaættirnir, sum møguliga kunnu broytast, kunnu minkast, uttan mun til genetiska vanda hjá einum persóni.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Av tí at aldur og gen hava so stóran lut, fáa nógv fólk, sum ongan av teimum 14 váðaættunum hava, kortini demens. Tað er ikki nakrans brek.
 
-## What does the trial evidence say about changing these risks?
+## Hvat sigur próvtilfarið frá royndum um at broyta hesar váðaættir?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+At knýta ein váðaætt at demens er ikki tað sama sum at prógva, at tað at broyta hann minkar um vandan fyri demens. Nøkur dømi um, hvar próvtilfarið frá royndum stendur:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Blóðtrýstur.** Í SPRINT MIND-royndini minkaði eitt lægri blóðtrýstmál munandi um vægan kognitivan veiklun. Tað minkaði ikki munandi um sannlíkan demens, tó so kundi royndin hava verið ov lítil til at vísa tað ([SPRINT MIND í JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Hoyritól.** Lancet-nevndin lýsir eina trý ára roynd við hoyritólum, sum ikki fann nakra heildarávirkan á hugsan, men eina ábøt í einum bólki av fólki við størri vanda. Kanningar, sum fylgja fólki yvir tíð, knýta nýtslu av hoyritólum at lægri vanda. Okkara [leiðbeining um hoyrn](/brain-health/hearing/) hevur meira.
+- **Kroppslig rørsla.** National Institute on Aging sigur, at tað ikki er nóg mikið próvtilfar frá kliniskum royndum til at staðfesta, at rørsla kann fyribyrgja ella steðga við vægari kognivari veiklun ella Alzheimer, tó at nakrar kanningar benda á, at tað kann hjálpa móti aldrarbundnari veiklun
+  ([NIA um at fyribyrgja Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Langar royndir, sum bíða eftir, at demens mennist, taka langa tíð og eru dýrar, so fyri nógv ættir fer besta próvtilfarið framvegis at koma frá kanningum, sum fylgja fólki yvir ár. Hetta próvtilfar er nyttuligt, men tað er veikari enn ein roynd.
 
-## What about sleep and diet?
+## Hvat við svevni og kosti?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Nevndin gjøgnumgekk svevn og kost, men legði tey ikki afturat listanum, tí próvtilfarið var ikki sterkt ella samsvarandi nokk. Okkara leiðbeiningar um
+[svevn](/brain-health/sleep/) og [kost](/brain-health/diet/) greiða frá tí, sum er kent.
 
-## Talk with a doctor
+## Tos við lækna
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Ein árlig heilsukanning er ein góður høvi at taka hesi evnini upp. Tú kundi havt henda listan við og spurt:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Hvørji eru míni tøl fyri blóðtrýst, blóðsukur og kolesterol, og tørvur nøkrum teirra á at verða tikin hond um?
+- Eigur eg at fáa hoyrn og eyguni kannaði?
+- Er tann rørslan, eg fái, trygg og nóg mikið hjá mær?
+- Kunnu nakar av mínum heilivági ávirka minni ella hugsan?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Áðrenn tú broytir heilivág, kost, føstu, rørslu ella kostískoyti, tosa fyrst við lækna. Um tú ella onkur, tú hevur umsorgan fyri, brádliga verður ørkymlaður, fær máttleysa í einari síðu ella fær trupulleikar við at tosa, ring 112.

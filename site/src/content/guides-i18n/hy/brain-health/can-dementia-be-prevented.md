@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Կարո՞ղ է դեմենցիան կանխարգելվել. ինչ է ասում հետազոտությունը"
+seoTitle: "Դեմենցիայի կանխարգելում. ինչ է ասում հետազոտությունը"
+description: "Ինչ են ցույց տվել 2024 թ. Lancet հանձնաժողովը և խոշոր փորձարկումները դեմենցիայի ռիսկը նվազեցնելու մասին, ինչ չեն ցույց տվել և ինչ քայլեր քննարկել բժշկի հետ։"
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Ոչ ոք չի կարող խոստանալ դեմենցիայի կանխարգելում։ 2024 թ. Lancet հանձնաժողովը
+  գնահատել է, որ ամբողջ աշխարհում դեմենցիայի դեպքերի գրեթե կեսը կապված է 14
+  ռիսկի գործոնների հետ, որոնք հնարավոր է փոխել, օրինակ՝ բարձր զարկերակային
+  ճնշումը, լսողության կորուստը և քիչ շարժվելը։ Փորձարկումները ցույց են տվել փոքր
+  ազդեցություն մտածողությունը ստուգող թեստերի վրա, բայց ոչ՝ դեմենցիայի ավելի քիչ
+  դեպքերի ապացույց։ Շատ մարդիկ, որոնք անում են ամեն ինչ «ճիշտ», միևնույն է
+  ունենում են դեմենցիա, և դա ոչ ոքի մեղքը չէ։
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 թ. Lancet հանձնաժողովը ամբողջ աշխարհում դեմենցիայի դեպքերի մոտ 45%-ը կապել է 14 հնարավոր փոփոխելի ռիսկի գործոնների հետ։ Դա ամբողջ բնակչության գնահատական է, ոչ թե անձնական երաշխիք։"
+  - "Ռիսկի նվազեցումը նշանակում է հավանականությունը փոքրացնել ամբողջ բնակչության մակարդակով։ Դա չի նշանակում, որ որևէ կոնկրետ մարդ կարող է խուսափել դեմենցիայից։"
+  - "Խոշոր փորձարկումները, ինչպիսիք են FINGER-ը, US POINTER-ը և SPRINT MIND-ը, ցույց են տվել փոքր օգուտ մտածողության թեստերում կամ թեթև ճանաչողական խանգարման դեպքում, բայց ոչ մեկը չի ապացուցել, որ կենսակերպի որևէ ծրագիր կանխարգելում է դեմենցիան։"
+  - "Տարիքը Ալցհայմերի հիվանդության ամենամեծ հայտնի ռիսկի գործոնն է, և այն հնարավոր չէ փոխել։ Առողջ սովորություններ ունեցող շատ մարդիկ միևնույն է ունենում են դեմենցիա։"
+  - "Ամենաշատ ուսումնասիրված քայլերը, օրինակ՝ բարձր զարկերակային ճնշման բուժումը, լսողական սարքերի օգտագործումը և ակտիվ մնալը, արժե քննարկել բժշկի հետ, քանի որ դրանք օգտակար են առողջության համար նաև այլ առումներով։"
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Կարո՞ղ է դեմենցիան կանխարգելվել։"
+    a: "Որևէ կոնկրետ մարդու համար դեմենցիան կանխարգելելու ապացուցված եղանակ չկա։ Հետազոտությունները հուշում են, որ որոշ ռիսկերի նվազեցումը, օրինակ՝ բարձր զարկերակային ճնշման, չբուժված լսողության կորստի և ծխելու, կարող է նվազեցնել դեմենցիայի հավանականությունը ամբողջ բնակչության մակարդակով կամ հետաձգել դրա սկսվելը։ Սրանք հավանականություններ են, ոչ թե խոստումներ։"
+  - q: "Ի՞նչ է նշանակում Lancet հանձնաժողովի 45% ցուցանիշը։"
+    a: "2024 թ. Lancet հանձնաժողովը գնահատել է, որ ամբողջ աշխարհում դեմենցիայի դեպքերի մոտ 45%-ը կապված է 14 ռիսկի գործոնների հետ, որոնք տեսականորեն կարող են փոխվել։ Գնահատականը ենթադրում է, որ այդ գործոնները առաջացնում են դեմենցիա, իսկ հեղինակները նշում են, որ որոշ կապեր կարող են լինել միայն մասամբ պատճառական։ Այն նկարագրում է ամբողջ բնակչությանը և չի ասում որևէ отдель մարդու ռիսկի մասին։"
+  - q: "Եթե իմ ծնողը առողջ կենսակերպ է վարել, ինչո՞ւ նա ունեցավ դեմենցիա։"
+    a: "Տարիքը, գեները և շատ գործոններ, որոնք ոչ ոք չի վերահսկում, մեծ դեր են խաղում դեմենցիայի մեջ։ Lancet հանձնաժողովի հեղինակները նշում են, որ ամբողջ բնակչության մակարդակով ռիսկի նվազեցումը չի երաշխավորում, որ որևէ отдель մարդ կխուսափի դեմենցիայից։ Ախտորոշումը չի նշանակում, որ ինչ-որ մեկը ձախողվել է։"
+  - q: "Արդյո՞ք 65 տարեկանից հետո ուշ չէ դեմենցիայի ռիսկը նվազեցնելու համար։"
+    a: "Lancet հանձնաժողովը նշում է, որ ռիսկը նվազեցնելու համար երբեք ոչ շատ շուտ է, ոչ շատ ուշ, թեև ապացույցների մեծ մասը վերաբերում է միջին տարիքին։ Լսողության և տեսողության խնդիրների բուժումը, ակտիվ մնալը և մարդկանց հետ կապ պահպանելը կյանքի ավելի ուշ շրջանի քայլերի օրինակներ են, որոնք ուսումնասիրվել են։ Խոսեք բժշկի հետ՝ ինչն է համապատասխանում ձեր առողջությանը։"
+  - q: "Արդյո՞ք ուղեղի խաղերը կամ հատուկ սննդակարգերը կանխարգելում են դեմենցիան։"
+    a: "Ոչ մի խաղ, սնունդ, հավելում կամ սննդակարգ ապացուցված չէ, որ կանխարգելում է դեմենցիան։ MIND սննդակարգի եռամյա փորձարկումը չի գտել մտածողության մեջ նշանակալի տարբերություն՝ համեմատած հսկիչ սննդակարգի հետ, իսկ առևտրային ուղեղի մարզման հավելվածների դեպքում չի ցուցադրվել, որ դրանք ունեն հետազոտական փորձարկումներում նկատված ազդեցությունները։"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Եթե դուք խնամում եք դեմենցիայով ապրող մարդու կամ տեսել եք, թե ինչպես է ծնողը ապրում դրա հետ, հավանաբար մտածել եք՝ հնարավո՞ր էր դա կանգնեցնել, և հնարավո՞ր է կանխել, որ դա պատահի ձեզ հետ։ Այս էջում պարզ լեզվով ներկայացված է, թե ինչ է իրականում ասում հետազոտությունը։ Կարճ պատասխանն այս է. ոչ ոք չի կարող խոստանալ դեմենցիայի կանխարգելում, բայց հետազոտությունները հուշում են, որ որոշ ռիսկեր հնարավոր է նվազեցնել, և դրանք ամբողջ բնակչության մակարդակով նվազեցնելը կարող է նշանակել, որ ավելի քիչ մարդիկ կունենան դեմենցիա կամ այն ավելի ուշ կունենան։
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Սա ընդհանուր տեղեկություն է, ոչ թե բժշկական խորհուրդ։ Խնդրում ենք կարդալ մեր [բժշկական հրաժարագիրը](/medical-disclaimer/) և ձեր առողջության մասին խոսել բժշկի հետ։
 
-## Can dementia be prevented?
+## Կարո՞ղ է դեմենցիան կանխարգելվել։
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Որևէ կոնկրետ մարդու համար դեմենցիան կանխարգելելու ապացուցված եղանակ չկա։ National Institute on Aging-ը (NIA) նշում է, որ թեև [դեռ ոչինչ ապացուցված չէ Ալցհայմերի հիվանդությունը կանխարգելելու համար](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), հետազոտողները գտել են հուսադրող մոտեցումներ և սովորում են, թե ինչն է կարող աշխատել, իսկ ինչը՝ ոչ։
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Այն, ինչ հետազոտությունները *իսկապես* ցույց են տալիս, այն է, որ որոշ առողջական վիճակներ և սովորություններ կապված են դեմենցիայի ավելի բարձր հավանականության հետ։ Երբ այդ ռիսկերն ավելի ցածր են ամբողջ բնակչության մեջ, հնարավոր է՝ ավելի քիչ մարդիկ ունենան դեմենցիա կամ այն ավելի ուշ ունենան։ Դա շատ տարբեր է երաշխիքից։
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Մեկ հուսադրող նշան. 2024 թ. Lancet հանձնաժողովը հայտնել է, որ որոշ բարձր եկամուտ ունեցող երկրներում, այդ թվում՝ ԱՄՆ-ում և Մեծ Բրիտանիայում, դեմենցիայով ապրող տարեց մարդկանց բաժինը նվազել է։ Հեղինակները կարծում են, որ դա հավանաբար մասամբ պայմանավորված է ավելի լավ կրթությամբ, ավելի լավ առողջապահությամբ և կյանքի ընթացքում արյունատար անոթներին հասցված ավելի քիչ վնասով, ըստ [University College London-ի՝ զեկույցի ամփոփման](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)։
 
-## What did the 2024 Lancet Commission find?
+## Ի՞նչ գտավ 2024 թ. Lancet հանձնաժողովը։
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Դեմենցիայի կանխարգելման, միջամտության և խնամքի Lancet հանձնաժողովը 27 դեմենցիայի հետազոտողներից բաղկացած խումբ է, որը մի քանի տարին մեկ վերանայում է ապացույցները։ Նրանց 2024 թ. զեկույցում նշված էին **14 ռիսկի գործոն**, որոնք հնարավոր է փոխել, և գնահատվում էր, որ միասին դրանք կազմում են **ամբողջ աշխարհում դեմենցիայի դեպքերի գրեթե կեսը (մոտ 45%)**։ Հեղինակների խոսքով՝ այս դեպքերը *տեսականորեն* կարող էին կանխարգելվել կամ հետաձգվել, եթե ռիսկերը վերացվեին ([2024 թ. Lancet հանձնաժողովի զեկույց](https://doi.org/10.1016/S0140-6736(24)01296-0))։
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 գործոնները՝ խմբավորված ըստ կյանքի այն փուլերի, որտեղ ապացույցներն ամենաուժեղն են.
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Վաղ կյանք.** ավելի քիչ կրթություն։
+- **Միջին տարիք (մոտավորապես 40-ից 65 տարեկան).** լսողության կորուստ, բարձր LDL («վատ») խոլեստերին, դեպրեսիա, գլխի վնասվածք, քիչ շարժվել, շաքարային դիաբետ, ծխել, բարձր զարկերակային ճնշում, ավելորդ քաշ և մեծ քանակությամբ ալկոհոլ օգտագործել։
+- **Կյանքի ավելի ուշ շրջան.** սոցիալական մեկուսացում, օդի աղտոտվածություն և չբուժված տեսողության կորուստ։
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 թ. ավելացված երկու նոր գործոններն էին բարձր LDL խոլեստերինը և չբուժված տեսողության կորուստը։ Դեպքերի ամենամեծ բաժնի հետ կապված գործոններն էին լսողության կորուստը և բարձր LDL խոլեստերինը (յուրաքանչյուրը՝ մոտ 7%), որին հաջորդում էին ավելի քիչ կրթությունը և սոցիալական մեկուսացումը (յուրաքանչյուրը՝ մոտ 5%)։
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Մեր [ռիսկի գործոնների ուղեցույցը](/brain-health/risk-factors/) ներկայացնում է բոլոր 14-ը աղյուսակով՝ ինչի հետ են դրանք կապված հետազոտությունների համաձայն և ինչ կարող եք անել։
 
-### What the 45% figure does not mean
+### Ինչ չի նշանակում 45% ցուցանիշը
 
-It is easy to misread this number, so it helps to be precise:
+Այս թիվը հեշտ է սխալ հասկանալ, ուստի օգտակար է ճշգրիտ լինել.
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Սա ամբողջ բնակչության գնահատական է։** Այն նկարագրում է դեմենցիայի դեպքերը ամբողջ աշխարհում, ոչ թե ձեր կամ ձեր ծնողի հնարավորությունները։
+- **Այն ենթադրում է պատճառ և հետևանք։** Հեղինակները ասում են, որ ներառել են միայն համոզիչ ապացույցներ ունեցող ռիսկի գործոններ, բայց որոշ կապեր կարող են լինել միայն մասամբ պատճառական։ Օրինակ՝ կյանքի ավելի ուշ շրջանում դեպրեսիան երբեմն կարող է լինել դեմենցիայի վաղ նշան, ոչ թե պատճառ։
+- **Այն որևէ մեկի համար ոչինչ չի երաշխավորում։** UCL-ի ամփոփումը նշում է, որ ռիսկի նվազեցումը գործում է բնակչության մակարդակով և չի երաշխավորում, որ որևէ отдель մարդ կխուսափի դեմենցիայից։
+- **Մյուս կեսը այս գործոններով չի բացատրվում։** Տարիքը, գեները և պատճառները, որոնք գիտնականները դեռ չեն հասկանում, կազմում են մնացածը։
 
-## What is the difference between "risk reduction" and "prevention"?
+## Ո՞րն է տարբերությունը «ռիսկի նվազեցման» և «կանխարգելման» միջև։
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Ռիսկի նվազեցումը** նշանակում է հավանականությունը փոքրացնել։ Եթե մարդկանց մեծ խումբը նվազեցնում է իր զարկերակային ճնշումը, հնարավոր է՝ նրանցից ավելի քչերը տարիների ընթացքում ունենան դեմենցիա, քան հակառակ դեպքում կունենային։ Այդ խմբի որոշ մարդիկ միևնույն է կունենան այն։
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Կանխարգելումը** հուշում է, որ ինչ-որ բան ամբողջությամբ կանխվում է։ Դեմենցիայի դեպքում այսօր հետազոտությունը դա ոչ ոքի չի կարող խոստանալ։
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Հետազոտողները խոսում են նաև **հետաձգման** մասին։ Lancet հանձնաժողովը հայտնում է նոր ապացույցների մասին, որ ռիսկի նվազեցումը կարող է հետաձգել դեմենցիայի սկսվելը և կրճատել այն ժամանակը, երբ մարդն ապրում է վատ առողջությամբ։ Նույնիսկ մի քանի տարվա հետաձգումը կարող է շատ կարևոր լինել մարդու և նրա ընտանիքի համար։
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Այս կայքում մենք միտումնավոր օգտագործում ենք «ռիսկը նվազեցնել» և «կապված է» ձևակերպումները։ Երբ տեսնում եք որևէ արտադրանք, հավելում կամ ծրագիր, որը խոստանում է «կանխարգելել Ալցհայմերի հիվանդությունը», վերաբերվեք դրան զգուշությամբ։ NIA-ն խորհուրդ է տալիս նախքան Ալցհայմերի հիվանդությունը կանխարգելելու խոստում տվող որևէ հաբ կամ բուժում փորձելը խորհրդակցել բժշկի հետ, քանի որ այդպիսի արտադրանքները կարող են լինել վտանգավոր, փողի անիմաստ վատնում կամ երկուսն էլ։
 
-## What have large trials found?
+## Ի՞նչ են գտել խոշոր փորձարկումները։
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Դիտողական հետազոտությունները (որոնք հետևում են, թե ժամանակի ընթացքում ինչ է պատահում մարդկանց հետ) կարող են ցույց տալ կապեր։ Պատահականացված փորձարկումները, որտեղ մարդիկ պատահականության սկզբունքով ընդգրկվում են ծրագրի կամ համեմատության խմբում, ավելի ուժեղ ստուգում են։ Ահա թե ինչ են գտել ամենահայտնի փորձարկումներից մի քանիսը։
 
-### FINGER (Finland)
+### FINGER (Ֆինլանդիա)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER փորձարկմանը մասնակցել է 60-ից 77 տարեկան 1260 մեծահասակ, որոնք ունեին դեմենցիայի ավելի բարձր ռիսկ։ Նրանց կեսը ստացել է երկամյա ծրագիր, որը ներառում էր սննդակարգի վերաբերյալ խորհուրդներ, շարժում, համակարգչով ուղեղի վարժություններ և սրտի ու արյունատար անոթների առողջության ստուգումներ. մյուս կեսը ստացել է առողջության վերաբերյալ ընդհանուր խորհուրդներ։ Ծրագրի խմբի արդյունքները մտածողությունը ստուգող թեստերի շարքում մի փոքր ավելի լավ էին՝ փոքր, բայց վիճակագրորեն նշանակալի տարբերությամբ ([FINGER փորձարկումը The Lancet-ում](https://pubmed.ncbi.nlm.nih.gov/25771249/))։ Փորձարկումը չափել է թեստերի արդյունքները, ոչ թե դեմենցիայի ախտորոշումները։
 
-### US POINTER (United States)
+### US POINTER (Միացյալ Նահանգներ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER փորձարկմանը մասնակցել է 60-ից 79 տարեկան 2111 մեծահասակ, որոնք քիչ էին շարժվում, ունեին պակաս առողջ սննդակարգ և այլ ռիսկի գործոններ։ Երկու խմբերն էլ խրախուսվում էին ավելի շատ ֆիզիկապես և մտավոր ակտիվ լինել, ավելի լավ սնվել, պահպանել սոցիալական կապերը և հետևել սրտի առողջությանը։ Մի խումբը ստացել է կառուցված, մարզչի աջակցությամբ ծրագիր, մյուսը՝ ինքնուրույն առաջնորդվող։ Երկու տարվա ընթացքում մտածողության թեստերի արդյունքները բարելավվել են **երկու** խմբերում էլ, և մի փոքր ավելի շատ՝ կառուցված ծրագրի խմբում ([US POINTER փորձարկումը JAMA-ում](https://pubmed.ncbi.nlm.nih.gov/40720610/))։ Հեղինակները նշում են, որ անհրաժեշտ է ավելի երկար հետևում՝ հասկանալու համար, թե արդյոք այդ տարբերությունը կարևոր է առօրյա կյանքում։ Քանի որ «ոչինչ չանել» խումբ չկար, փորձարկումը չի կարող ասել, թե որքան է օգնել որևէ ծրագիր՝ համեմատած vůbec փոփոխություն չանելու հետ։
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (զարկերակային ճնշում)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND-ը ուսումնասիրել է 50 տարեկան և ավելի բարձր տարիքի 9361 մեծահասակի՝ ԱՄՆ-ում, որոնք ունեին բարձր զարկերակային ճնշում։ Նրանց բաժանել են ավելի ցածր զարկերակային ճնշման նպատակի (վերին թիվը՝ 120-ից ցածր) կամ սովորական նպատակի (140-ից ցածր) խմբերի։ Ավելի ցածր նպատակը զգալիորեն նվազեցրել է **թեթև ճանաչողական խանգարումը**, որը հիշողության և մտածողության խնդիրների փուլ է և կարող է նախորդել դեմենցիային։ **Հավանական դեմենցիայի** դեպքում ավելի ցածր նպատակի խմբում դեպքերն ավելի քիչ էին, բայց տարբերությունը վիճակագրորեն նշանակալի չէր։ Փորձարկումը վաղ է դադարեցվել և ունեցել է սպասվածից ավելի քիչ դեմենցիայի դեպքեր, ուստի հնարավոր է, որ այն չափազանց փոքր էր այդ հարցին պատասխանելու համար ([SPRINT MIND-ը JAMA-ում](https://pubmed.ncbi.nlm.nih.gov/30688979/))։
 
-### What the reviews add up to
+### Ինչ են ցույց տալիս ընդհանուր վերանայումները
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 թ. Cochrane-ի վերանայումը միավորել է ինը խոշոր փորձարկումներ, որոնք միաժամանակ անդրադառնում էին մի քանի ռիսկի,՝ ավելի քան 18 000 մարդու մասնակցությամբ։ Այն գտել է փոքր օգուտ մտածողության թեստերում, բայց **ոչ մի հստակ տարբերություն այն բանում, թե քանի մարդ ունեցավ դեմենցիա** այն երկու փորձարկումներում, որոնք դա չափել էին ([Cochrane-ի վերանայում՝ բազմաբնույթ միջամտությունների մասին](https://pubmed.ncbi.nlm.nih.gov/34748207/))։
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 թ. National Academies of Sciences, Engineering, and Medicine-ի վերանայումը, որը ամփոփել է NIA-ն, գտել է «հուսադրող, բայց ոչ վերջնական» ապացույցներ երեք մոտեցման համար. բարձր զարկերակային ճնշման կառավարում, ֆիզիկական ակտիվության ավելացում և ճանաչողական մարզում։
 
-## Does it matter when you start?
+## Կարևո՞ր է, թե երբ եք սկսում։
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet հանձնաժողովի խորհուրդն է ռիսկերը նվազեցնել որքան հնարավոր է վաղ և հնարավորինս երկար պահել ցածր. «որքան շուտ, այնքան լավ» և «որքան երկար, այնքան լավ»։ Այն նաև ասում է, որ ռիսկը նվազեցնելու համար երբեք ոչ շատ շուտ է, ոչ շատ ուշ։ Ապացույցների մեծ մասը վերաբերում է միջին տարիքին՝ մոտավորապես 40-ից 65 տարեկան, բայց որոշ գործոններ, օրինակ՝ տեսողության կորուստը և սոցիալական մեկուսացումը, կյանքի ավելի ուշ շրջանի ռիսկեր են, որոնց դեպքում քայլեր ձեռնարկելն अभी կարող է իմաստ ունենալ։
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Զեկույցում ասվում է, որ այժմ ավելի ուժեղ ապացույցներ կան, որ ռիսկի ավելի երկար ազդեցությունը ավելի մեծ հետևանք է ունենում։ Օրինակ՝ միջին տարիքում սկսված շաքարային դիաբետը, ըստ երևույթին, ավելի մեծ նշանակություն ունի, քան ավելի ուշ սկսվածը։
 
-## Is dementia risk the same for everyone?
+## Արդյո՞ք դեմենցիայի ռիսկը նույնն է բոլորի համար։
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ոչ։ Հանձնաժողովը գտել է, որ ցածր և միջին եկամուտ ունեցող երկրներում ապրող մարդիկ, փոքրամասնությունների խմբերից մարդիկ և ավելի քիչ գումար ունեցող մարդիկ հաճախ կրում են այդ ռիսկերից ավելի շատը, ուստի դեմենցիան հակված է զարգանալ ավելի վաղ տարիքում։ Շատ ռիսկեր կապված են այն հանգամանքների հետ, որոնք մարդիկ չեն ընտրել, օրինակ՝ մանկության տարիներին ստացած կրթության որակը, այն օդը, որտեղ նրանք ապրում են, և արդյոք առողջ սնունդը մատչելի է ու մոտակա։
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Այդ պատճառով Հանձնաժողովի առաջարկները ուղղված են նույնքան կառավարություններին, որքան отдель մարդկանց. բոլոր երեխաների համար լավ կրթություն, ավելի մաքուր օդ, ծխելը նվազեցնելու միջոցներ, խանութներում և ռեստորաններում վաճառվող սննդի մեջ ավելի քիչ շաքար և աղ, ինչպես նաև լսողական սարքեր բոլորի համար, ում դրանք անհրաժեշտ են։ Անձնական ջանքերը կարևոր են, բայց կարևոր է նաև այն միջավայրը, որտեղ մարդիկ ապրում են։ Դա ևս մեկ պատճառ է, որ որևէ մեկին չմեղադրել ախտորոշման համար։
 
-## What are the honest limits of this research?
+## Որո՞նք են այս հետազոտության անկեղծ սահմանափակումները։
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Դեմենցիայի զարգացումը տևում է տասնամյակներ**, բայց փորձարկումների մեծ մասը տևում է երկու-հինգ տարի։ Դեմենցիան ինքնին չափելու համար, ոչ միայն թեստերի արդյունքները, անհրաժեշտ են շատ երկար և շատ լայնածավալ հետազոտություններ։
+- **Փորձարկումների մեծ մասը չափում է մտածողության թեստեր։** Թեստի վրա փոքր բարելավումը պարտադիր չէ, որ նշանակի, թե ավելի քիչ մարդիկ կունենան դեմենցիա կամ առօրյա կյանքն ավելի հեշտ կլինի։
+- **Կամավորները հաճախ ավելի առողջ են** և ավելի կրթված, քան ընդհանուր բնակչությունը։ Lancet հանձնաժողովը նշում է, որ ապացույցների մեծ մասը դեռ գալիս է բարձր եկամուտ ունեցող երկրներից, և փոքրամասնությունների խմբերը քիչ են ներկայացված։
+- **Որոշ կապեր գործում են երկու ուղղությամբ։** Ավելի քիչ ակտիվ կամ ավելի քիչ սոցիալական լինելը կարող է լինել դեմենցիայի վաղ հետևանք, ոչ միայն պատճառ։
+- **Սննդակարգի փորձարկումները մինչ այժմ հիասթափեցնող են եղել։** MIND սննդակարգի եռամյա փորձարկումը չի գտել մտածողության մեջ նշանակալի տարբերություն՝ համեմատած հսկիչ սննդակարգի հետ։ Տեսեք մեր [սննդակարգի ուղեցույցը](/brain-health/diet/)։
+- **Ուղեղի խաղերը ապացուցված չէ, որ կանխարգելում են դեմենցիան։** Տեսեք մեր ուղեցույցը [ուղեղի խաղերի և դեմենցիայի մասին](/brain-health/brain-games/)։
+- **Ծոմապահության մասին մարդկանց վրա ապացույցները շատ սահմանափակ են**, և այն կարող է ռիսկային լինել տարեց մեծահասակների համար։ Տեսեք մեր [ծոմապահության ուղեցույցը](/brain-health/fasting/)։
 
-## If someone did everything "right", why did they still get dementia?
+## Եթե ինչ-որ մեկը ամեն ինչ «ճիշտ» է արել, ինչո՞ւ նա միևնույն է ունեցավ դեմենցիա։
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Քանի որ դեմենցիան պարզապես ընտրությունների արդյունք չէ։ NIA-ն ասում է, որ [տարիքը Ալցհայմերի հիվանդության ամենամեծ հայտնի ռիսկի գործոնն է](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), և ոչ ոք չի կարող այն փոխել։ Գեները դեր են խաղում։ Եվ գիտնականները դեռ ամբողջությամբ չեն հասկանում, թե ինչն է առաջացնում Ալցհայմերի հիվանդությունը մարդկանց մեծ մասի մոտ։ Նույնիսկ եթե բոլոր 14 ռիսկի գործոնները վերացվեին, Lancet հանձնաժողովի սեփական գնահատականը դեպքերի կեսից ավելին թողնում է առանց բացատրության։
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Այսպիսով, եթե դուք խնամում եք մարդու, որը շարժվում էր, լավ էր սնվում, երբեք չէր ծխել և միևնույն է ունեցավ դեմենցիա, նրա կամ ձեր կողմից ոչինչ սխալ չի արվել։ Եթե դուք ինքներդ եք ապրում դեմենցիայով, դա ձեր մեղքը չէ։ Մեղքի զգացումը տարածված է ընտանիքների շրջանում, բայց այն արդարացված չէ։ Հիմա կարևոր են հարմարավետությունը, կապը և լավ օրերը, և մեր [գործունեության գաղափարները](/activities/ideas/) ու [խնամողի ինքնախնամքի ուղեցույցը](/caregiving/caregiver-self-care/) լավ տեղեր են սկսելու համար։
 
-## What steps can you talk over with a doctor?
+## Ի՞նչ քայլեր կարելի է քննարկել բժշկի հետ։
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Սրանք այն ոլորտներն են, որոնք ամենաշատն են ուսումնասիրվել։ Արժե դրանք բարձրացնել ստուգման այցելության ժամանակ, քանի որ դրանց մեծ մասը օգտակար է նաև սրտի առողջության, տրամադրության և ինքնուրույնության համար՝ անկախ նրանից, թե ինչ ազդեցություն կունենան դեմենցիայի վրա։
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Զարկերակային ճնշում։** Հարցրեք, թե որոնք են ձեր թվերը և ինչ նպատակ է ձեզ համապատասխանում։ Lancet հանձնաժողովը առաջարկում է մոտ 40 տարեկանից սկսած նպատակ ունենալ վերին թիվը 130 կամ ավելի ցածր, բայց տարեց մարդու համար ճիշտ նպատակը կախված է նրա ընդհանուր առողջությունից։
+2. **Լսողություն։** Խնդրեք լսողության ստուգում և հարցրեք՝ արդյոք լսողական սարքերը կօգնեն։ Մեր [լսողության ուղեցույցը](/brain-health/hearing/) բացատրում է հետազոտությունը։
+3. **Տեսողություն։** Պարբերաբար անցեք աչքի զննում և հարցրեք՝ արդյոք հնարավոր է բուժել այնպիսի խնդիրներ, ինչպիսին է կատարակտը։
+4. **Խոլեստերին։** Հարցրեք՝ արդյոք պետք է ստուգել ձեր LDL խոլեստերինը և արդյոք ինչ-որ բան պետք է փոխել։
+5. **Արյան շաքար։** Եթե ունեք շաքարային դիաբետ, հարցրեք՝ ինչպես կառավարել այն անվտանգ։
+6. **Տրամադրություն։** Դեպրեսիան տարածված է և բուժելի։ Ասեք բժշկին, եթե ավելի քան մի քանի շաբաթ զգացել եք ընկճվածություն կամ կորցրել եք հետաքրքրությունը տարբեր բաների նկատմամբ։
+7. **Ծխել և ալկոհոլ։** Հարցրեք ծխելը թողնելու համար աջակցության մասին և ալկոհոլի անվտանգ սահմանների մասին։
+8. **Շարժում։** Հարցրեք, թե ինչ տեսակի ակտիվությունն է ձեզ համար անվտանգ։ Մեր [շարժման ուղեցույցում](/brain-health/exercise/) կան գաղափարներ։
+9. **Գլխի պաշտպանություն։** Հեծանիվ վարելիս և կոնտակտային սպորտաձևերի ժամանակ կրեք սաղավարտ, և հարցրեք ընկնելուց պաշտպանվելու մասին։
+10. **Կապի պահպանում։** Այլ մարդկանց հետ ժամանակ անցկացնելը առողջ կյանքի մաս է։ Տեսեք մեր ուղեցույցը [սոցիալական կապի մասին](/brain-health/social-connection/), ինչպես նաև [քնի մասին](/brain-health/sleep/)։
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Նախքան դեղերը, սննդակարգը, հավելումները, ծոմապահությունը կամ շարժումը փոխելը, 먼저 խոսեք ձեր բժշկի հետ, հատկապես եթե ունեք սրտի հիվանդություն, շաքարային դիաբետ, ընկնելու պատմություն կամ արդեն ապրում եք դեմենցիայով։
 
-## Talk with a doctor
+## Խոսեք բժշկի հետ
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Եթե դուք կամ ձեր մտերիմներից մեկը նկատում եք հիշողության կամ մտածողության փոփոխություններ, որոնք անհանգստացնում են, գրանցվեք այցելության։ NIA-ն նշում է, որ [հիշողության խնդիրները կարող են ունենալ այլ պատճառներ](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), օրինակ՝ դեղերի կողմնակի ազդեցություններ, վահանաձև գեղձի խնդիրներ, դեպրեսիա կամ B12 վիտամինի ցածր մակարդակ, և որ այդ խնդիրներից մի քանիսը կարող են անցնել, երբ պատճառը բուժվում է։ Մեր [նախազգուշացնող նշանների ուղեցույցը](/brain-health/warning-signs/) բացատրում է, թե ինչի վրա ուշադրություն դարձնել։
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Անհապաղ օգնություն խնդրեք** հանկարծակի փոփոխությունների դեպքում. հանկարծակի շփոթությունը, մարմնի մի կողմի թուլությունը կամ թմրածությունը, խոսելու դժվարությունը կամ ուժեղ գլխացավը կարող են լինել կաթվածի կամ այլ արտակարգ իրավիճակի նշաններ։ Զանգահարեք 103։
 
-## Where Golden Moments fits
+## Որտեղ է տեղավորվում Golden Moments-ը
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments-ը առաջարկում է պարզ, միասին انجامվող գործունեություններ, օրինակ՝ [զրույցի քարտեր](/games/conversation-cards/), [նկարներով բինգո](/games/picture-bingo/) և [հանգիստ շնչառության դադար](/games/calm-breathing/)։ Դրանք նախատեսված են հաճույքի և միասին ժամանակ անցկացնելու համար։ Դրանք բուժում չեն և չեն կանխարգելում կամ դանդաղեցնում դեմենցիան։

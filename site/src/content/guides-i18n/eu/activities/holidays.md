@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Oporretako jarduerak dementzia duen norbaitentzat"
+seoTitle: "Oporretako eta Thanksgiving ideiak dementziarekin"
+description: "Oporretako jarduera errazak dementzia duen norbaitentzat: sukaldeko lanak, apaingarriak, musika, argazkiak eta bideo-deiak, eta Thanksgiving edo Gabon lasaiagoak antolatzeko aholkuak."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Oporrak txikiagoak, egunaren hasieran eta pertsonaren ohiko errutinatik
+  hurbil antolatu. Eman benetako lan seguru bat, hala nola mahaia jartzea,
+  barazkiak garbitzea, opari bat biltzea edo apaingarri bat jartzea. Partekatu
+  musika ezaguna eta argazki zaharrak, prestatu gonbidatuak aurretik, eta
+  prestatu gela lasai bat. Egin arrazoiz kudeatu dezakezuna bakarrik;
+  ospakizun labur eta lasai bat nahikoa ona da.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Ospatu egunaren hasieran, adibidez bazkari edo brunchean, arratsalde amaierako nahasmena ohikoa bada."
+  - "Eskaini benetako lanak: mahaia jartzea, produktuak garbitzea, opariak biltzea, apaintzea edo postreak prestatzea."
+  - "Musika ezaguna, gabon-kantak eta argazki-album zaharrak urtaroa partekatzeko modu errazak dira."
+  - "Esan gonbidatuei zer espero dezaketen, eta erakutsi pertsonari nor datorren argazkiekin."
+  - "Prestatu gela lasai bat manta edo jertse kutun batekin, eta jaso bisitariak gutxika."
+  - "Utzi alde batera gehiegizkoa izan daitekeen guztia, janaria diruditen apaingarriak eta keinu asko egiten duten argiak barne."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Zer egin dezake dementzia duen norbaitek Thanksgiving egunean?"
+    a: "Eman gaur egin dezakeenera egokitzen den lan erraz eta seguru bat: barazkiak garbitzea, ahabia-saltsa nahastea, mahaia jartzea, ezpainzapiak tolestea edo postreak plater batean jartzea. Ondoren, begiratu familiako argazki zaharrak edo abestu elkarrekin abesti ezagunak. Egunean parte hartzea garrantzitsuagoa da lana nola ateratzen den baino."
+  - q: "Familia-bilkura handi bat egin beharko genuke oraindik?"
+    a: "Kudeagarria bada soilik. Jendetzak eta zaratak gehiegizkoak izan daitezke; horregatik, familia askok bilkura txikiago eta informalago bat egiten dute, bazkari goiztiarrago bat, edo bisitariak talde txikitan etortzea aukeratzen dute. Alzheimer's Association erakundeak zaintzaileak arrazoiz eta segurtasunez kudeatu dezaketena soilik egitera animatzen ditu."
+  - q: "Nola presta ditzaket aspaldian bisitan egon ez diren senideak?"
+    a: "Heldu aurretik, esan nabaritu ditzaketen aldaketei buruz, eta aldaketa horiek gaixotasunetik datozela, ez pertsonarengandik. Eskatu ez dezatela zuzendu edo galdetu, banan-banan hitz egin dezatela eta erantzuteko denbora eman dezatela. Gonbidatuen argazkiak aurretik erakustea ere lagungarria izan daiteke."
+  - q: "Zein opari egokitzen zaizkio dementzia duen pertsona bati?"
+    a: "Orain gozatu ditzakeen gauza erraz eta seguruak: gustuko mokadu bat, manta edo jertse leun bat, musika ezaguna, edo familiako argazki-album bat. Saihestu elektronika konplikatua, tresnak eta mahai-joko zailak. Opariak ematen parte hartzea, adibidez opari bat biltzea edo berak egiten lagundutako gailetak paketatzea, berez opari bat izan daiteke."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Oporrek oroitzapen goxoak ekar ditzakete, baina baita zarata, jendea eta ohiko eguneko aldaketak ere. Dementzia duen pertsona batentzat, ospakizunik onenak txikiagoak, lasaiagoak eta oraindik gozatu ditzakeen gauzen inguruan eraikitakoak izaten dira. Ideia hauek Thanksgiving, Gabonak, Hanuka, Urte Berria eta familiako urtebetetzeetarako balio dute.
 
-## How do I plan a calmer holiday?
+## Nola antola dezaket oporraldi lasaiago bat?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Hasi pertsonaren errutinatik eta antolatu eguna horren arabera. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) erakundeak iradokitzen du ospakizuna egunaren hasieran egitea, nahasmena eta ezinegona askotan arratsalde amaieran eta gauean handitzen direlako (batzuetan «sundowning» esaten zaio). Oporretako bazkari edo brunch bat afari berantiar bat baino errazagoa izan daiteke.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Mantendu tamaina egokia.** Bilkura txikiago eta informalago bat, edo gonbidatuak gutxika iristea, askotan mahai jendez betea baino errazagoa izaten da.
+- **Banatu lanak.** Eskatu senideei plater bat ekartzeko, erosketak egiteko edo zurekin sukaldatzen duzun bitartean pertsonarekin denbora pasatzeko. Esan zehazki zer lagunduko lukeen.
+- **Mantendu apaingarriak sinple.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) erakundeak dio keinu egiten duten argiak nahasgarriak izan daitezkeela, eta apaingarri gisa erabiltzen diren gozokiak edo fruta artifizialak janaritzat har daitezkeela.
+- **Erabaki zer utzi.** Tradizio bat estresagarria edo arriskutsua bihurtu bada, ondo dago alde batera uztea edo lasaiago bat probatzea.
 
-## What holiday activities can we do together?
+## Zein oporretako jarduera egin ditzakegu elkarrekin?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Aukeratu pertsonak gaur egin dezakeenera egokitzen diren lanak eta denbora-pasak. Egunean parte hartzea garrantzitsuagoa da emaitza nola ateratzen den baino.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Jarri mahaia elkarrekin.** Jarri lehenik platerak, gero ezpainzapiak, gero edalontziak. Ezpainzapiak tolestea eserita egiteko lan ona da.
+2. **Garbitu eta sailkatu barazkiak.** Patatak garbitzea edo leka berdeak moztea sukaldeko mahaian segurua eta ezaguna izan daiteke sukaldatzen ohituta zeuden pertsona askorentzat.
+3. **Nahastu, irabiatu edo prestatu.** Ahabia-saltsa nahastea, ore erraz bat irabiatzea edo gailetak plater batean jartzea eskuak lanpetuta mantentzeko moduak dira, sukaldetik eta labanetatik urrun.
+4. **Bildu opari bat.** Moztu papera eta zinta aurretik, eta utzi pertsonari tolesten eta leuntzen. Ez da garrantzitsua perfektua geratzea.
+5. **Jarri apaingarri batzuk.** Aukeratu apurtzen ez diren apaingarriak eta eremu txiki bat, adibidez koroa bat edo zuhaitz txiki bat.
+6. **Egin eskulan erraz bat.** Paper-kateak, hosto-collage bat edo zigiludun opor-txartel bat ondo funtzionatzen dute. Gure [arte eta eskulanen gida](/activities/arts-and-crafts/)k ideia gehiago ditu.
+7. **Abestu eta entzun.** Gabon-kanta eta oporretako abesti ezagunak erraz jarrai daitezke, orain gutxiago hitz egiten duen norbaitek ere. Ikusi gure [musikaren gida](/activities/music/) erreprodukzio-zerrenda bat osatzeko.
+8. **Begiratu oporretako argazki zaharrak.** Atera iraganeko ospakizunen albumak eta gonbidatu istorioak kontatzera («Kontaidazu mahaia honi buruz») nor den galdetu beharrean. Gure [oroitzapenen gida](/activities/reminiscence/)k azaltzen du nola.
+9. **Jokatu talde-joko leun bat.** [Picture bingo](/games/picture-bingo/) minutu gutxitan inprimatzen da eta adin guztietarako egokia da, eta [conversation cards](/games/conversation-cards/)ek denei zerbait ematen die hitz egiteko.
+10. **Margotu elkarrekin.** [Margotzeko orri](/games/coloring/) errazak inprima daitezke haurrek eta aitona-amonek mahaian partekatzeko.
+11. **Ikusi gustuko oporretako film bat.** Film ezagun bat atseden hartzeko modua da, eta ondo dago zati bat bakarrik ikustea.
+12. **Eman paseo labur bat autoz argiak ikusteko.** Apaindutako etxeetatik lasai pasatzea ekitaldi jendetsu bat baino errazagoa izan daiteke.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Sukaldatzea pertsonaren bizitzako zati garrantzitsua izan bazen, gure [etxeko lanak jarduera gisa](/activities/household-tasks/) gidak sukaldeko lanak seguru eta atsegin egiteko modu gehiago eskaintzen ditu.
 
-## How do I prepare guests?
+## Nola presta ditzaket gonbidatuak?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Esan gonbidatuei zer espero dezaketen heldu aurretik, batez ere aspaldian bisitan egon ez diren senideei. Alzheimer's Association erakundeak iradokitzen du azaltzea memorian eta jokabidean izaten diren aldaketak gaixotasunetik datozela, ez pertsonarengandik.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Partekatu aholku erraz batzuk:** banan-banan hitz egin, denbora eman pentsamendu bat amaitzeko, ez zuzendu eta ez galdetu, eta erantzun pertsonaren tonuari hitzak jarraitzea zaila bada.
+- **Esan zer laguntzen duen eta zer asaldatzen duen.** Ahots ozenek, presak edo gai batzuek ondoeza eragiten badute, esan.
+- **Aurkeztu gonbidatuak aurretik.** Erakutsi pertsonari nor datorren argazkiekin eta kontatu istorio bat edo bi, edo egin telefono- edo bideo-dei labur bat eguna baino lehen.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Gure [komunikazio-aholkuek](/caregiving/communication-tips/) xehetasun gehiago ematen dituzte.
 
-## What if it gets to be too much?
+## Zer gertatzen da gehiegizkoa bada?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Prestatu gela lasai bat gonbidatuak heldu aurretik, zaratatik urrun, erosotasunerako gauza ezagunekin, hala nola manta kutun bat, jertse bat edo jarduera erraz bat. Eskaini goiz eta maiz: «Eseriko gara pixka batean leku lasaiago batean?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Mahaitik altzea, oheratzea goizago edo egunaren zati bat egiteari uztea emaitza ona da, ez porrota. Pertsona asaldatzen bada, ahots lasai batek, abesti ezagun batek edo beste gela batera joateak arrazoitzeak baino gehiago lagun dezake askotan. Gure [arratsalde amaierako ezinegonari](/caregiving/late-day-restlessness/) buruzko gidak ideia gehiago ditu arratsaldeetarako.
 
-## How can family far away take part?
+## Nola parte har dezake urrun dagoen familiak?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Bideo-deiek senideei batzea ahalbidetzen diete jendetza handitu gabe. Alzheimer's Association erakundeak iradokitzen du deiei egitura pixka bat ematea, adibidez urtaroko abestiak abestea, iraganeko bilkuretako argazkiak partekatzea, errezeta bera elkarrekin prestatzea edo oporretako film bera aldi berean ikustea. Mantendu deiak laburrak, eta eskatu jendeari banan-banan hitz egiteko, elkarren gainetik hitz egitea zaila baita jarraitzeko. Gure [telefono- eta bideo-deien gida](/activities/phone-and-video-calls/)k urratsez urratseko ideiak ditu.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Pertsona memoria-zainketako zentro batean bizi bada, egiaztatu bisita-araua eta eskatu langileei dei bat prestatzen laguntzeko. Gure [memoria-zainketan norbait bisitatzeari](/activities/visiting/) buruzko gidak azaltzen du zer eraman eta nola amaitu bisita ondo.
 
-## What gifts suit someone with dementia?
+## Zein opari egokitzen zaizkio dementzia duen pertsona bati?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Orain gozatu ditzakeen opari erraz eta seguruak izaten dira onenak: gustuko mokadu bat, manta edo kardigan leun bat, musika ezaguna, letra handiko egutegi bat, edo familiako argazkien album bat. Alzheimer's Association erakundeak aholkatzen du tresna arriskutsuak, elektronika konplikatua eta mahai-joko zailak saihestea.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Emateak jasotzeak bezainbeste garrantzia izan dezake. Pertsonak egiten lagundutako gailetak paketatzea, edo zuk erositako opari bat biltzen uztea, urtaroan parte hartzeko moduak dira. Familiako argazki-joko bat beste ideia bat da: [photo pairs](/games/photo-pairs/)ek aukeratutako argazki batzuk nabigatzailean parekatzeko joko leun bihurtzen ditu.
 
-## Look after yourself too
+## Zaindu zeure burua ere
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Oporrek lana gehitzen diote zaintzari. Utzi beste norbaiti etxea edo jana prestatzen, esan ez zailegia izango diren ekitaldiei, eta hartu atsedenak besteek pertsonarekin denbora pasatzen duten bitartean. Zu edo zaintzen duzun pertsona gaixorik bazaudete, bidetik agurtzea edo bideo-dei bat egitea ere bisita ona da. Gure [zaitzailearen autozaintzari](/caregiving/caregiver-self-care/) buruzko gidak laguntza gehiago eskaintzen du.

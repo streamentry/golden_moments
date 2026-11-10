@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Preparar tableto o telefonilo por persono kun demenso"
+seoTitle: "Preparar tableto o telefonilo por demenso"
+description: "Pasopa preparo di tableto o telefonilo por persono kun demenso: klozar a un programo, plu granda texto, min multa avizi, simpla hemo-skreno, sono e privateso."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Simpligez tableto o telefonilo ante donar ol. Klozez ol a un sola programo
+  per Guided Access che iPad ed iPhone o per programo-fixo che Android, o uzez
+  Assistive Access di Apple por plu simpla aranjo. Facitez la texto plu granda,
+  silencez avizi e pop-up-i, retenez nur kelka familiara programi sur un sola
+  hemo-skreno, ajustez la sono-volumo ante komencar, uzez stando, e limitez la
+  permisi di programi. Uzez ol kune, apud aktivesi sen skreno.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) e programo-fixo (Android) retenas la skreno en un sola programo til ke vu desklozas ol."
+  - "Assistive Access di Apple ofras simpligita aranjo projektita por personi kun kognitiva handikapi."
+  - "Facitez la texto plu granda ed extingez avizi e pop-up-i, por ke nulo interuptas o konfuzas."
+  - "Retenez nur kelka familiara programi sur un sola hemo-skreno, ed ajustez la sono-volumo ante komencar."
+  - "Stando e loko por charjar qua nultempe chanjas facas la aparato plu facila por uzar e trovar."
+  - "Revizez permisi e komunikado di datumi di programi: HIPAA generale ne protektas to quo konservesas sur personala aparato."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Quale me povas impedar ke persono vivanta kun demenso livas programo sur iPad?"
+    a: "Aktivez Guided Access en Settings > Accessibility > Guided Access e fixez pasokodo. Apertez la programo, triple-klikez la supera butono (o la Home-butono sur plu olda iPad-i), e tuchez Start. La iPad restas en ta programo til ke ulu enigas la pasokodo."
+  - q: "Quale me povas klozar Android-tableto a un sola programo?"
+    a: "Aktivez programo-fixo en la Settings-programo, ordinare sub Security (kelkafoye Security & location) > Advanced > App pinning. Pose apertez la programo, apertez Overview, tuchez l'ikono dil programo supre e tuchez Pin. Vua PIN, shemo o pasovorto necesas por desfixar."
+  - q: "Ka esas sekura uzar Guided Access sur la propra telefonilo dil persono?"
+    a: "Esas necesa esar prudenta. Apple dicas ke Crash Detection ed Emergency Services ne esas disponebla dum Guided Access esas aktiva. Se la persono dependas de sua telefonilo por urjanta vokigi, uzez Guided Access nur dum ke vu esas kun lu, o konsiderez Assistive Access vice."
+  - q: "Quanta skreno-tempo esas konvenanta por persono vivanta kun demenso?"
+    a: "Ne existas fixa nombro. Kurta, komuna sesioni miksita kun marchi, muziko, hemala taski e konversi povas facar dio plu kompleta kam longa periodi sola kun skreno. Se l'aparato kauzas frustracion o remplasas altra aktivesi, uzez ol min ofte."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tableto povas esar agreabla maniero por partigar imaji, muziko e simpla ludi. Ol anke povas esar konfuzanta: hazarda tucho apertas altra programo, avizo aparas, la texto esas mikra, o la skreno extingas su dum la ludo. Kelka preparo da vu korektigas la maxim parto de to.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Ca etapi uzas l'enigita ajusti sur iPhone, iPad ed Android. La nomi di menuo povas chanjar segun la versioni di softwaro e la fabrikanti di aparati, do se ulo aspektas diferanta, sequar la ligita pagino di Apple o Google por vua aparato. Facez la preparo vu ipsa, ante ke vu sidez kune.
 
-## Should someone with dementia use a tablet or phone?
+## Ka persono vivanta kun demenso debas uzar tableto o telefonilo?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+To dependas de la persono. Multa personi prizas uzar tableto kun ulu apud li, mem se li ne sucesus sola. Komencez uzar ol kune, kun un programo apertita, dum kelka minuti. Se to aportas joyo e konverso, durez. Se to aportas konfuzo o frustracion, foto-albumo, imprimita pagini o muziko forsan konvenos plu bone. Nia [imprimebla aktivesi](/activities/printable/) esas un alternativo.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tableto esas ordinare plu facila kam telefonilo: la skreno e l'imaji esas plu granda, e ol ne esas anke la moyeno dil persono por urjanta vokigi.
 
-## How do I lock a tablet or phone to one app?
+## Quale me povas klozar tableto o telefonilo a un sola programo?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Uzez Guided Access sur iPhone ed iPad, o programo-fixo sur Android. Amba retenas la skreno en un sola programo til ke vu enigas kodo, do hazarda tucho o frapo ne povas apertar altro.
 
-### iPad and iPhone: Guided Access
+### iPad ed iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Segun [l'instrukti di Apple pri Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Apertez **Settings**, tuchez **Accessibility**, pose tuchez **Guided Access** ed aktivez ol.
+2. Sub **Passcode Settings**, fixez pasokodo por Guided Access. Vu anke povas permisar Face ID o Touch ID.
+3. Fakultativa: sub **Display Auto-Lock**, selektez pos quanta tempo la skreno klozas su dum sesiono, por ke ol ne extingas su meze di ludo.
+4. Apertez la programo quan vu volas uzar.
+5. Triple-klikez la laterala butono (iPhone), la supera butono (iPad), o la Home-butono sur plu olda aparati.
+6. Fakultativa: cirklizez irga parti dil skreno quon vu volas igar netuchebla. Tuchez **Options** (o **Session Settings**) por extingar la sono-volumo-butoni o por impedar ke la skreno rotacas.
+7. Tuchez **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Por finar la sesiono, triple-klikez la sama butono itere, enigez la pasokodo, e tuchez **End**. Apple notas ke sur kelka plu olda versioni di softwaro vu duople klikas vice.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Importanta:** Apple dicas ke Crash Detection ed Emergency Services ne esas disponebla dum sesiono di Guided Access. Ne lasez Guided Access funcionanta sur telefonilo quan la persono forsan bezonos por urjanta vokigi.
 
-### Android: app pinning
+### Android: programo-fixo
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Segun [la helpo di Google Android pri fixar skreni](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Apertez la programo **Settings**.
+2. Tuchez **Security** (o **Security & location**), pose **Advanced**, pose **App pinning**. Se vu ne trovas ol, konsultar la helpo-pagini dil fabrikanto di vua aparato.
+3. Aktivez **App pinning**. Vua PIN, shemo o pasovorto necesos por desfixar.
+4. Apertez la programo quan vu volas. Frapez adsupre til la mezo dil skreno e tenez por apertar Overview (o tuchez Overview kun navigado per 3 butoni).
+5. Supre la previdajo dil programo, tuchez l'ikono dil programo, pose tuchez **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Por desfixar kun gesto-navigado, frapez adsupre e tenez. Kun navigado per 3 butoni, tuchez e tenez Back ed Overview. Kun navigado per 2 butoni, tuchez e tenez Back e Home. Pose enigez vua PIN, shemo o pasovorto.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Ka existas plu simpla modo por la tota iPhone o iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Yes. Assistive Access di Apple remplasas l'ordinara hemo-skreno per plu simpla. [Apple deskriptas ol](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) kom projektita por facar iPhone plu facila por personi kun kognitiva handikapi por uzar nedependante, kun plu granda elementi sur la skreno e plu fokusita funcioni. Apple ofras [la sama funciono sur iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Qua preparas ol.** Apple sugestas ke fidinda suporto-persono, quale familiano o sorganto qua konocas la persono, helpas selektar la programi e funcioni.
+- **Ube komencar.** Irez a **Settings > Accessibility > Assistive Access**, tuchez **Set Up Assistive Access**, pose **Continue**.
+- **Programi.** Vu selektas qua programi aparas. Kelka programi di Apple havas specala simpligita versioni, e la maxim parto di altra programi povas adjuntesar en lia ordinara aranjo.
+- **Aranjo.** Selektez **Rows** (facile lektebla listo) o **Grid** (plu granda elementi qui emfazas imaji ed ikoni).
+- **Pasokodo.** Vu fixas aparta pasokodo por Assistive Access por enirar, ekirar o chanjar ajusti. Apple rekomendas krear rekupero-Apple Account dum la preparo, pro ke sen ol, obliviita pasokodo signifikas riinicialigar l'aparato.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access povas konvenar a persono qua uzas sua propra aparato omnadie. Guided Access o programo-fixo esas plu rapida por komuna ludo-sesiono.
 
-## How do I make text and pictures bigger?
+## Quale me povas facar texto ed imaji plu granda?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Grandigez la texto e la montro-grandeso, pose kontrolez ke butoni ankore konvenas sur la skreno.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ed iPad.** Segun [l'instrukti di Apple pri texto-grandeso](https://support.apple.com/en-us/102453), irez a **Settings > Display & Brightness > Text Size** e movez la glitilo. Por mem plu granda texto, irez a **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notas ke tre granda texto povas facar kelka butoni plu desfacila por tuchar, do ajustez se necesa.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Segun [la helpo di Google pri texto- e montro-ajusti](https://support.google.com/accessibility/android/answer/11183305?hl=en), apertez **Settings** e serchez **Font size**, pose movez la glitilo. Serchez **Display size** por facar omno sur la skreno plu granda. Vu anke povas aktivigar **Bold text** sub **Accessibility > Display size and text**. Kelka programi ne sequas ca ajusti.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+En ludi quale [Picture Pairs](/games/picture-pairs/) e [Find the Same](/games/find-the-same/), vu anke povas selektar min multa kaheli o selekti, quo retenas la skreno plu simpla.
 
-## How do I stop notifications and pop-ups?
+## Quale me povas haltigar avizi e pop-up-i?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Extingez avizi por programi quon vu ne bezonas, ed uzez Do Not Disturb dum aktivesi.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ed iPad.** Irez a **Settings > Notifications**, tuchez programo sub **Notification Style**, ed extingez **Allow Notifications** ([la guidlibro di Apple pri avizo-ajusti](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Por silenciar vokigi, avizi e notifikuri dum kelka tempo, apertez Control Center ed aktivez **Do Not Disturb** per la butono **Focus** ([la helpo di Apple pri Do Not Disturb](https://support.apple.com/en-us/105112)). Vu povas planizar ol sub **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Frapez adinfre ek la supro dil skreno e tuchez **Do Not Disturb**, o irez a **Settings > Modes > Do Not Disturb** ([la helpo di Google pri Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Sub **Notification filters** vu povas selektar qua personi e programi ankore povas pasar. L'ajusti varias segun la fabrikanto dil aparato.
 
-## How do I make a simple home screen?
+## Quale me povas facar simpla hemo-skreno?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Retenez kelka familiara programi sur un skreno e movez la restajo for de la vido. Ne existas un sola ajusto por to; to esas pri forigar la kaoso.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Selektez tri til sis programi.** Exemple, fotografuri, muziko, programo por videovokigi ed un ludo.
+- **Pozar li sur l'unesma skreno,** en la sama loki omnatempe, e movez omno altra a duesma skreno o dosiero.
+- **Uzez simpla, alta-kontrasta muro-imajo,** quale un sola koloro o un familiara fotografuro, por ke ikoni esas facile videbla.
+- **Efacez programi quon vu ne bezonas.** Min multa programi signifikas min multa shanci por konfuzo e min multa datumi kolektata.
+- **Konsiderez Assistive Access** sur aparati di Apple se vu volas ke l'aparato facas to por vu.
 
-## What about volume and sound?
+## Quon pri sono-volumo e sono?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Ajustez komfortoza sono-volumo ante donar l'aparato. Kun Guided Access, vu povas extingar la sono-volumo-butoni por ke ol ne chanjas dum l'aktiveso. Kontrolez ke aud-helpili esas pozita e funcionas.
 
-## Where should the tablet live?
+## Ube la tableto devas restar?
 
-Give it a stand and a permanent charging spot.
+Donez a ol stando e permananta loko por charjar.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Stando o etuyo** qua tenas la tableto vertikale sur la tablo signifikas ke nulu bezonas tenar ol, ed esas plu facila indikar.
+- **Un sola loko por charjar** qua nultempe chanjas, ideale charjo-stando sur tablo en chambro quan vu uzas omnadie. La tableto esas sempre charjita e sempre en la sama loko.
+- **Reduktez brillumo.** Pozar la skreno for de lumoza fenestro.
 
-## How much screen time is okay?
+## Quanta skreno-tempo esas konvenanta?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Ne existas justa nombro di minuti. Celar kurta, komuna sesioni kom un parto di kompleta dio qua anke inkluzas movado, muziko, hemala taski, konverso e tempo extere. Pro ke okupita vesperi povas augmentar malquieteso en tarda posdimezo, vu povas konsiderar facar skreno-aktivesi plu frue en la dio. Videz [trankila aktivesi por tarda posdimezo](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Uzar tableto kune, prefere kam kom gardanto, retenas ol sociala. Nia guidlibro pri [ludar kune](/caregiving/how-to-play-together/) explikas quale.
 
-## How do I protect their privacy on the device?
+## Quale me povas protektar lua privateso sur l'aparato?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Limitez to quon programi povas kolektar, e ne supozez ke lego pri sanala privateso protektas ol. La U.S. Department of Health and Human Services (HHS) [explikas](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ke la reguli HIPAA generale ne protektas sanala informi konservita sur o acesita per personala telefonili e tableti. En la maxim multa kazi, HIPAA anke ne protektas datumi enigita en programi por personala uzo, ecepte se la programo venas de sanala provizanto, sanala asekur-planizo o un ek lia asociiti qua esas sub HIPAA.
 
-HHS suggests:
+HHS sugestas:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- evitar ne-necesa o hazarda programi, specale «gratuita» programi;
+- ne donar a programi aceso a loko, ecepte se li vere bezonas ol, quale mapo-programi.
 
-Also consider:
+Anke konsiderar:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Uzez pasokodo** sur l'aparato, e retenez noto pri ol en sekura loko.
+- **Revizez permisi** por fotografuri, kamero, mikrofono, kontakti e loko, ed extingez irga permiso quan programo ne bezonas.
+- **Kontrolez to quon programo kolektas** ante instalar ol. Nia guidlibro pri [selektar programi e ludi por demenso](/caregiving/choosing-apps-and-games/) havas kontrol-listo pri privateso.
+- **Esar prudenta kun familiala fotografuri.** Partigez nur fotografuri pri qui la persono sentus su komfortoza, e savez ube programo konservas li. En [Photo Pairs](/games/photo-pairs/), la fotografuri quan vu selektas restas en vua retnavigilo.
+- **Extingez kompri en programi** o forigez pago-detali de konti quin la persono uzas.

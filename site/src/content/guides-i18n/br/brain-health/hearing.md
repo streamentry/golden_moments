@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Kollet ar selaou ha riskoù ar c'hlenved"
+seoTitle: "Kollet ar selaou ha c'hlenved: petra a ziskouez ar studi"
+description: "Perak e c'hall kollet ar selaou bezañ ur riskl bennañ evit ar c'hlenved, petra a gavas an arnodiad ACHIEVE, ha penaos gwiriañ ho selaou ha kaozeal aesoc'h."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Komisioned Lancet 2024 a enrollas ar c'hollet selaou evel unan eus ar riskoù kemmadus brasañ evit ar c'hlenved.
+  Er c'hlask ACHIEVE, ne en deus ket skeudennoù-selaou harzet ar goulenn-kollet a-sav hag a-bezh, met ur strollad
+  uhel-riskl en deus diskouezet ur c'hollet nebeutoc'h. Skeudennoù-selaou a harp ar gaozeadenn hag ar vuhezegezh bemdez,
+  kement-se. Gwiriit ho selaou, soñjit en skeudennoù a vez roet gant ur gwerzher pe a vez prenet hep resev, hag kaozit
+  gant ur medisin.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Komisioned Lancet a gonta e vez ar c'hollet selaou da gont war-dro 7% eus ar c'hlenved er bed a-bezh, ha da-heul a-dal gant ar rann brasañ e-touez 14 abeg."
+  - "E-pad an arnodiad ACHIEVE gant 977 den kozh, ne en deus ket skeudennoù-selaou kemmet ar goulenn-kollet a bep tri bloaz e-tro pep hini."
+  - "Ur strollad bihanoc'h, uhel-riskl e-barzh ACHIEVE, en deus kollet 48% nebeutoc'h gant skeudennoù-selaou; ret eo kadarnaat se."
+  - "Abaoe miz Here 2022, e c'hall oadourien Stadoù-Unanet kenderc'hel skeudennoù-selaou FDA hep resev, ma vez ur c'hollet selaou ysel pe kreiz."
+  - "Ouzhpennet e voe kollet gweled dibaouezet evel riskl c'hlenved e 2024, ­ret eo ivez gwiriañ ho lagad."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Ha skeudennoù-selaou a harz ar c'hlenved?"
+    a: "N'eo ket bet diskouezet. Ar c'hlask ACHIEVE n'en deus ket kavet effet hollek war ar goulenn-kollet a-dreuz tri bloaz, n'eo ket bet ken evit ur strollad uhel-riskl a oa gwelloc'h. Gallout a reer soñjal c'hoazh e skeudennoù-selaou, rak ez a ar gaozeadenn, ar surentez hag ar vuhezegezh bemdez aesoc'h."
+  - q: "Piv a c'hall prenañ skeudennoù-selaou OTC?"
+    a: "Aotreet eo gant FDA d'an oadourien 18 vloaz ha muioc'h o deus kollet selaou evel ma soñj dezho, ledan pe bihan, da brenañ skeudennoù-selaou en ti-gwerzhañ pe war internet hep resev. N'int ket evit ur c'hollet selaou bras. Ra gwelo an hini a zo gant poan ar skouarn, dour a red eus ar skouarn, goulloù pe kemmoù prim er selaou, unan a vedisin a-raok."
+  - q: "Ha kollet ar selaou a c'hall heñvel ouzh ar c'hlenved?"
+    a: "Weithiau. Notennañ a ra Institouezh Nasionel an Oad (NIA) e vez soñjet a-fazi e-keit ha ne c'hall ket an oadourien kozh selaou mat bezañ dizoare pe nebeut gouzout-kompren. Ur gwiriadenn selaou a zo ur stad mat pa vez gwelet unan o tennañ kuit pe o chom hep kemer ar pezh a vez lavaret."
+  - q: "Pegement a vezh e tle an oadourien kozh gwiriñ o daouzar?"
+    a: "Kuzuliañ a ra an NIA ur gwiriadenn lagad dre ledan bep bloaz pe daou bloaz goude 60 vloaz, pe evel ma kuzul ho kuzulier lagad. An dud gant diabetes pe pression uhel a vez ret dezho eo ur gwiriadenn bep bloaz d'an nebeutañ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Boutin eo kollet ar selaou e-pad an oad, hag ar studierien a gemer anezhañ en-dro evel ur riskl evit ar c'hlenved. Met n'eo ket ar skeudennoù-selaou ur doare sur da harzañ ar c'hlenved : an arnodiad gwellañ betek-henn en deus roet disoc'hoù kemesk. Ar pajenn-mañ a ziskouez petra a ziskouez ar studi, penaos kaout ho selaou gwiriet, petra eo skeudennoù-selaou ar Stadoù-Unanet, ha penaos kaozeal aesoc'h.
 
-## Why does hearing matter for brain health?
+## Perak eo pouezus ar selaou evit ar yec'hed ar spered?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Kollet ar selaou a zo liammet gant ur riskl uheloc'h a c'hlenved. Komisioned Lancet 2024 a gont war-dro 7% eus ar c'hlenved er bed a-bezh, [hervez ar gontadenn-mañ](https://doi.org/10.1016/S0140-6736(24)01296-0), hag ar c'hollet selaou a zo gant ar rann brasañ eus an 14 abeg a c'haller kemmañ, hervez model ar Gomisioned. Hervez [kontadenn UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors), e vez kavet ar c'holesterol LDL uhel gantañ e heul.
 
-Key findings from the Commission:
+Kavoù pennañ ar Gomisioned :
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Riskl uheloc'h gant kollet ar selaou.** E dadansadenn a-stroll eus c'hwec'h studi a-vat, e oa tua 37% a riskl uheloc'h evit ar c'hlenved gant an dud a oa kollet selaou eget an dud gant ur selaou normal.
+- **Ar gwashoc'h, ar muioc'h a riskl.** Ar studioù a welas pegen fall e oa ar c'hollet a rae ar riskl kreskiñ a-fed ma tiskoe ar selaou.
+- **Abegoù posupl, n'int ket bet diskouezet c'hoazh.** Ezhomm a zo da gaout an unigezhded, ar spered pounner, an dibour a stimadur evit ar c'herc'h, hag an efedus kreizhenn a ra ar selaou.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Kollet ar selaou a zo boutin. Hervez an [Institouezh Nasionel an Oad (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults), e kollo tri-hanter an oadourien kozh o selaou, ha kreskiñ a ra ar c'hans gant an oad.
 
-## What did the ACHIEVE hearing aid trial find?
+## Petra a gavas an arnodiad ACHIEVE gant skeudennoù-selaou?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE a oa an arnodiad kentañ en doare randomized war skeudennoù-selaou ha kollet ar goulenn-kollet. Aliesañ e vez dic'hallet an disoc'hoù, setu amañ an neuze eus [an danevell embannet](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Piv a oa e-barzh :** 977 den etre 70 ha 84 vloaz gant kollet selaou dizoloet ha hep kudennoù bras war ar soc'hder, e pevar lec'h kumuniezh e Stadoù-Unanet.
+- **Petra a oa keñveriet :** Un hanter a resevas skeudennoù-selaou ha kendrec'hioù kuzuliañ gant un audiologour. Ar re all a resevas ur programm skoazell war an oad iac'h.
+- **Disoc'h pennañ :** Goude tri bloaz, n'oa **disheñvelder ebet** etre ar stroll·ioù war ar goulenn-kollet a-bezh.
+- **Disoc'h ar strollad bihan :** Eus daou vammenn e voe dibabet an dud. 238 den a zeuas eus ur studi kalon a veze graet dija pell zo (ARIC), ha, a-hevelep, e oant e riskl uheloc'h a goulenn-kollet. E ar strollad-se, e oa ar goulenn-kollet **48% nebeutoc'h** gant skeudennoù-selaou. Ouzh ar 739 gwirvoullad iac'h eus ar c'humuniezh, ne oa ket effet soñj.
 
-How to read this honestly:
+Penaos lenn an disoc'hoù en un doare onest :
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Ne oa effet ebet war-fed.
+- Kavet e voe disoc'h ar strollad bihan en un analizh eilrenk eus ur strollad bihanoc'h, ha ret eo kadarnaat anezhañ gant studioù all.
+- Ar re a oa o kemer perzh a oa anat peseurt programm a oa dezho, ha gallout a ra se kemmañ an disoc'hoù.
+- Lenn Komisioned Lancet an testennoù evel skeudenn e vez skoazellet an dud gant skeudennoù-selaou dreist-holl pa vez ganto kollet ar selaou ha reizhder ar riskloù c'hlenved all.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Gwir eo n'eo ket skeudennoù-selaou ur doare sur da harzañ ar c'hlenved. Met skoazellañ a reont an dud da glevet, da gemer perzh er gaozeadennoù ha da chom e darempred, ha se a ra reizh ar soñj da glask anezhe.
 
-## How do I know if hearing should be checked?
+## Penaos ouzhpenn e vez gwiriet ma selaou?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+Kuzuliañ a ra an NIA mont da welet ur medisin ma'z eo ac'hanoc'h pe an hini a bleguit ­outañ :
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Gant an dra o deus poan da gompren an dud war an telefon
+- Gant an dra o deus poan da heuliñ ar gaozeadennoù pa vez daou pe muioc'h o kaozeal
+- A c'houlenn alies ouzh an dud lavarout a-nevez
+- A lak an TV da vezañ ken uhel ma kasont kuzh an dud all
+- A zo poan dezhañ kompren ar gomzoù gant sonerezh war-dro
+- A soñj e kaozeal an dud all gant mouchoù-sul
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Kregiñ a reer gant ur medisin kentañ, a c'hall ho kas da ur audiologour (un arbenner eus ar selaou) pe da ur medisin skouarn, fri ha gorre. Ur stad boutin eus kollet ar selaou eo prenn-skouarn a c'hall ur medisin gwiriañ. **Kollet ar selaou prim a zo ur fazi a yec'hed**, ha kuzuliañ a ra an NIA mont da welet ur medisin war-eeun.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Gallout a ra kollet ar selaou bezañ kemmesket gant dizoare. Notennañ a ra an NIA e vez soñjet a-fazi weithiau e-keit ha ne c'hall ket an oadourien kozh selaou mat bezañ dizoare, dizengan pe reizhdiell. Ma welit unan a ya en e-unan pe a chom hep kemer ar pezh a vez lavaret, ur gwiriadenn selaou a zo ur stad kentañ mat.
 
-## What are over-the-counter hearing aids?
+## Petra eo ar skeudennoù-selaou OTC?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Abaoe 17 a viz Here 2022, en deus aotreet an [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ur rummad skeudennoù-selaou dre ar gontrol (OTC) hep resev. Setu penaos e keveriont gant skeudennoù-selaou gant resev :
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Dre ar fizi | Skeudennoù-selaou OTC | Skeudennoù-selaou gant resev |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Evit piv int | Oadourien 18 vloaz ha muioc'h o deus kollet selaou ledan pe bihan evel ma soñj dezho | Pep live a gollo selaou, pep oad |
+| Penaos ec'h emprenter anezho | En ti-gwerzhañ pe war internet, hep arnodiad na resev | Dre ur c'hoarvezer selaou aotreet |
+| Kempenn | Kempenn an arventennoù ho-unan, alies gant un arload | Un den a-vicher a ra o c'hempenn evit ho selaou |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+Lavarout a ra an FDA n'int ket evit ar c'hollet selaou bras pe fonnus. Kuzuliañ a ra mont da welet ur medisin, dreist-holl ur medisin skouarn, fri ha gorre, a-raok prenañ mar hoc'h eus :
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Poan pe enkrezh er skouarn
+- Dour, pus pe gwad a zeu eus ar skouarn e-pad an 6 miz diwezhañ
+- Kemmoù prim pe dre-blij er selaou
+- Selaou gwashoc'h en unan eus ar skouarnoù, pe kanadenn e unan eus ar skouarnoù hepken
+- Fiñvoc'h pe gwasoc'h
+- Kalz a eozh er skouarn
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Gouzout a ra an dud ober gant ar skeudennoù-selaou a dalvez pleustr, neuze gwiriit ar reolennoù distreiñ a-raok prenañ, evel ma kuzul an FDA. Kuzuliañ a ra an NIA goulenn ha kemer ar c'hostezh gant ho asurañs, mar kav ganeoc'h ur rann eus ar c'hostezh. Evit an hini a chom gant ar c'hlenved, ur audiologour a c'hall skoazellañ da zibab peseurt seurt skeudenn-selaou ha kempenn a vo aesañ ar gwellañ ganti bemdez.
 
-## How can I talk more easily with someone who has hearing loss?
+## Penaos kaozeal aesoc'h gant an hini a zo kollet e selaou?
 
-The NIA suggests:
+Kuzuliañ a ra an NIA :
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Tro ho tremen d'an hini ha derc'hel ho daoulagad war-zu,** en ur sklaerijenn vat, evit ma c'hall gwelet ho minoù ha ho fizioù.
+2. **Kavit ul lec'h dibar.** Diffoezit an TV pe tennit kuit diouzh ar sonerezh.
+3. **Komzit un tamm uhelloc'h, met na grit ket kaout.** Komzit en un doare naturel ha gant un dizhenn resis.
+4. **Derc'hit ho c'henoù digor.** Na zebrit ket, na gnaouit ket ar gomz, na guzhit ket ho genoù pa gomzit.
+5. **Adlavarit gant geriou all mar ne vez ket komprenet.** Gwelloc'h eo lavarout un dra all eget lavarout an hini kentañ en-dro.
+6. **Unan ouzh unan.** En ur strollad, ober un dra da vezañ an hini a vez degemeret.
+7. **Bezit pasiant ha goulennit penaos e c'hallit skoazellañ.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ar c'hunuzhioù-mañ a vank ket da labourat mat a-stroll gant [hor c'hunuzhioù kaozeal evit ar c'hlenved](/caregiving/communication-tips/). Ar skeudennoù a ro ivez ur skoazell evit ar selaou. [Pared skeudennoù](/games/picture-pairs/) ha [Kartenn ar gaozeadenn](/games/conversation-cards/) a sell ouzh ar pezh a welit, ha [Echuit al lavar](/games/finish-the-saying/) a laka ac'hanoc'h da ziskouez an dibenn en ur lavarout anezhañ. Evit ar galvoù, sellit ouzh hor gwidenn [galvoù telefon ha video](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Ar gweled a bouez ivez
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Er bloavezh 2024, ouzhpennet en deus Komisioned Lancet ar gollet gweled dibaouezet evel ur riskl nevez. Hervez kontadenn UCL, e vez tua 2% eus an degouezhioù c'hlenved abalamour da se, ha kuzuliañ a ra ar Gomisioned ma vefe an dud en ur c'hallout kaout ur wiriadenn ha ur c'hempenn evit kudennoù gweled. Kuzuliañ a ra an [NIA](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ur gwiriadenn lagad dre ledan bep bloaz pe daou bloaz goude 60 vloaz, ha gwiriañ ivez ar presk gant ar sperlunoù. Kement a jeu, ma vez kemmoù bihan en ur welet, e c'hall kreskiñ ar riskl a gouezhadennoù.
 
-## Talk with a doctor
+## Kaozit gant ur medisin
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Goulennit ur medisin diwar-benn gwiriadennoù selaou ha gweled ma welit unan eus an arwezioù a-us. Gortozit tuioc'h da vezañ soinget ma vez kollet ar selaou prim, poan skouarn pe dour a zeu eus ar skouarn. Ma tegemerit kont eus unan all a chom gant ar c'hlenved, lavarit d' e Medisin kemmoù ar selaou pe ar gweled, a c'hall kemmañ ar c'hiz, ar surentez ha penaos e c'hall an den kemer perzh.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Titour generel eo ar pajenn-mañ, n'eo ket kuzul medisinel. Gwelit hor [disklaeriad medisinel](/medical-disclaimer/). Lenn muioc'h diwar-benn [darempred sokial ha yec'hed ar spered](/brain-health/social-connection/).

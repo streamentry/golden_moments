@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Дѣла помина́ниꙗ: скри́нѧ, повѣ́сть житїꙗ̀ и҆ зра́кы"
+seoTitle: "Дѣла помина́ниꙗ при помрачє́нїи оу́ма"
+description: "Ка́ко дѣли́тисѧ па́мѧтїю съ человѣ́комъ живꙋ́щимъ съ помрачє́нїємъ оу́ма безъ и҆спыта́нїѧ: бесѣ́да о҆ зра́цѣхъ, скри́нѧ па́мѧти и҆ кни́га житїѧ̀."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Помина́нїє є҆́сть ра́достно дѣли́тисѧ ми́нꙋвшимъ врѣ́менємъ чре́зъ зра́кы, вє́щи,
+  пѣ́сни и҆ повѣ́сти. Сътвори́ скри́ню па́мѧти, ᲂу҆стро́й про́стꙋю кни́гꙋ житїѧ̀, и҆лѝ
+  зри́те зра́кы рѧ́домъ. Николи́же и҆спыта́й: ѡ҆ста́ви въпро́сы «По́мниши ли;» и҆ «Кто̀
+  сє́ є҆́сть;» и҆ ᲂу҆потрєблѧ́й ѿкрꙋ́тыѧ призы́вы, ꙗ҆́коже «Повѣ́ждь ми ѡ҆ сє́мъ».
+  Тєпла́ѧ бесѣ́да важьнѣ́йши є҆́сть, нє́жє и҆́стиньнаѧ точьнѡ́сть.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Помина́нїє є҆́сть бесѣ́да, а҆ нє и҆спыта́нїє. Точьнѡ́сть нє ва́жна; ра́дость ва́жна."
+  - "Въ мѣ́сто «По́мниши ли…;» и҆ «Кто̀ сє́ є҆́сть;» ᲂу҆потрєблѧ́й примѣча́нїѧ и҆ призы́вы, ꙗ҆́коже «Повѣ́ждь ми ѡ҆ сє́мъ дьнѝ»."
+  - "Скри́нѧ па́мѧти съ вє́щьми ѿ житїѧ̀ чл҃овѣ́ка дає́тъ рꙋка́ма и҆ бесѣ́дѣ ѡ҆ чє́мъ дрьжа́тисѧ."
+  - "Кни́га житїѧ̀ помага́ѥтъ ро́дꙋ, посѣти́тєлємъ и҆ слꙋжа́щимъ позна́ти чл҃овѣ́ка, а҆ нє то́чїю болѣ́знь."
+  - "А҆́ще па́мѧть прино́ситъ печа́ль, прѣ́ждє ᲂу҆тѣ́ши и҆ ти́хо прєйдѝ къ и҆но́мꙋ."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Что̀ є҆́сть помина́нїє длѧ̀ чл҃овѣ́къ живꙋ́щихъ съ помрачє́нїємъ оу́ма;"
+    a: "Помина́нїє є҆́сть дѣлє́нїє па́мѧти и҆ ми́нꙋвшихъ прїклю́чєній, ча́сто съ по́мощїю зра́къ, вєщє́й, пѣ́сній и҆лѝ видѣ́ній. Сїѐ мо́жєтъ бы́ти на ѥ҆ди́нѣ и҆лѝ въ дрꙋжи́нѣ. Цѣ́ль є҆́сть прїѧ́тна и҆ зн҆амени́та бесѣ́да, а҆ нє и҆спыта́нїє тогѡ̀, є҆́же чл҃овѣ́къ мо́жєтъ воспомѧнꙋ́ти."
+  - q: "Почто̀ нє подоба́ѥтъ въпраша́ти «По́мниши ли;»"
+    a: "Въпро́си, и҆̀же и҆спыта́ютъ па́мѧть, могꙋ́тъ сътвори́ти, да чл҃овѣ́къ чꙋ́ѥтъ стꙋ́дъ и҆лѝ тревогꙋ̀, є҆гда̀ ѿвѣ́тъ нє прихо́дитъ. National Institute on Aging и҆менꙋ́ѥтъ въпраша́нїє, по́мнитъ ли кто̀ нѣ́что и҆лѝ кого̀, мє́ждꙋ тѣ́мъ, є҆гѡ́жє подоба́ѥтъ и҆збѣга́ти. Примѣча́й то̀, є҆́же ви́диши, и҆ ѡ҆ста́ви чл҃овѣ́кꙋ приложи́ти, є҆́же хо́щєтъ."
+  - q: "Что̀ положи́ти въ скри́ню па́мѧти;"
+    a: "И҆збєрѝ бєзбѣ́дьныѧ и҆ крѣ́пкыѧ вє́щи, свѧза́ныѧ съ житїе́мъ чл҃овѣ́ка: дѣ́ла трꙋда̀, орꙋ́дїѧ хобїѧ̀, люби́мый пла́тъ, писани́ѧ, ли́сты ꙗ҆́ствъ, па́мѧти и҆́гръ и҆лѝ съѡ҆бразы̀ зра́къ. И҆збѣга́й ѻ҆́стрыхъ вєщє́й, ма́лыхъ, ꙗ҆̀же могꙋ́тъ бы́ти пожьрє́ны, и҆ нєзамѣни́мыхъ първоѡ҆бра́зъ."
+  - q: "Что̀ твори́ти, а҆́ще погрѣша́ютъ въ и҆́стинѣ;"
+    a: "Ѡ҆ста́ви то̀. А҆́ще ма́ти твоѧ̀ глаго́лєтъ, ꙗ҆́ко зра́къ показꙋ́ѥтъ сєстрꙋ̀ є҆ѧ̀, а҆ то̀ є҆́сть братꙋ́чеда є҆ѧ̀, до́брѣ є҆́сть. И҆справлє́нїє ѡ҆браща́ѥтъ тєплꙋ́ю годи́нꙋ въ и҆спыта́нїє. Послѣ́дꙋй повѣ́сти, ю҆́же глаго́лєтъ, и҆ ра́дꙋйтєсѧ вкꙋ́пѣ."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Помина́нїє про́сто є҆́сть ра́достно дѣли́тисѧ ми́нꙋвшимъ врѣ́менємъ. Мно́зѣмъ чл҃овѣ́кѡмъ живꙋ́щимъ съ помрачє́нїємъ оу́ма па́мѧть ѿ десѧтилѣ́тій прє́ждє пребыва́ѥтъ ꙗ҆снѣ́йши, нє́жє то̀, є҆́же бы́сть ᲂу҆́тромъ. Зра́ци, зна́ѥмыѧ вє́щи, пѣ́сни и҆ повѣ́сти могꙋ́тъ ѿврѣстѝ ты́ѧ па́мѧти и҆ да́ти ва́мъ нѣ́что тєпло̀ дѣли́ти. Є҆ди́но пра́вило: сїѐ є҆́сть бесѣ́да, а҆ николи́же и҆спыта́нїє.
 
-## What is reminiscence, and how is it different from quizzing?
+## Что̀ є҆́сть помина́нїє, и҆ чи́мъ разли́чьствꙋѥтъ ѿ и҆спыта́нїѧ;
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Помина́нїє є҆́сть дѣлє́нїє па́мѧти чре́зъ зра́кы, вє́щи, пѣ́сни и҆лѝ видѣ́нїѧ, въ своє́мъ тє́мпѣ чл҃овѣ́ка. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ѡ҆писꙋ́ѥтъ сїѐ ꙗ҆́ко дѣлє́нїє ми́нꙋвшихъ прїклю́чєній и҆ повѣ́стій съ по́мощїю зра́къ, вєщє́й, видѣ́ній и҆лѝ пѣ́сній, въ кни́зѣ и҆лѝ на скрижа́ли. И҆спыта́нїє и҆́но є҆́сть: про́ситъ ѿ чл҃овѣ́ка пра́вый ѿвѣ́тъ, и҆ сїѐ мо́жєтъ принєстѝ стꙋ́дъ вмѣ́сто ра́дости.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) и҆менꙋ́ѥтъ въпраша́нїє чл҃овѣ́ка, по́мнитъ ли нѣ́что и҆лѝ кого̀, мє́ждꙋ тѣ́мъ, є҆гѡ́жє подоба́ѥтъ и҆збѣга́ти. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) съвѣ́тꙋѥтъ и҆збѣга́ти въпро́съ, и҆̀же ѡ҆пира́ютсѧ на кра́ткꙋю па́мѧть, и҆ глаго́лати ѡ҆ да́льнѣмъ ми́нꙋвшємъ.
 
-| Instead of | Try |
+| Вмѣ́сто | Покꙋша́йсѧ |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «По́мниши ли сїѐ;» | «Сїѐ ви́дитсѧ ꙗ҆́ко ра́достный дє́нь. Повѣ́ждь ми ѡ҆ нє́мъ». |
+| «Кто̀ сє́ є҆́сть;» | «Сѐ тє́тка Rose на брѣ́зѣ. Ви́ждь тꙋ̀ шлѧ́пꙋ». |
+| «Ко́ѥ лѣ́то бѣ̀ сїѐ;» | «Сїѐ ви́дитсѧ ꙗ҆́ко ста́рый до́мъ. Каково̀ бѣ̀ жи́ти та́мѡ;» |
+| «Нѣ́тъ, сє́ нє Bill, нъ Frank». | «Ви́дитсѧ, ꙗ҆́ко бѣ̀ вєсє́лъ». |
+| «Ты̀ ᲂу҆жє̀ мѝ сїѐ повѣ́далъ є҆сѝ». | «Люблю̀ сїю̀ повѣ́сть». |
 
-## How do you talk about photos without quizzing?
+Длѧ̀ гото́выхъ зра́чныхъ призы́въ и҆спыта́й [карты бесѣ́ды](/games/conversation-cards/). Да прєврати́ши своѧ̀ родьствьныѧ зра́кы въ ти́хꙋю и҆́грꙋ сличє́нїѧ, и҆спыта́й [зра́чьныѧ дво́ицѣ](/games/photo-pairs/); зра́ци, ꙗ҆̀же и҆збира́ѥши, пребыва́ютъ въ твоє́мъ прѣглѧда́лищи.
 
-Lead with what you see, then leave room for the person to add something if they wish.
+## Ка́ко глаго́лати ѡ҆ зра́цѣхъ безъ и҆спыта́нїѧ;
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+Начьнѝ ѿ тогѡ̀, є҆́же ви́диши, та́же ѡ҆ста́ви мѣ́сто, да чл҃овѣ́къ приложи́тъ нѣ́что, а҆́ще хо́щєтъ.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+1. **Сѧди́тє рѧ́домъ.** Дрьжи́тє кни́гꙋ мєждꙋ̀ ва́ма, да зритє̀ вкꙋ́пѣ, а҆ нє и҆спыта́ѥтє чре́зъ трапє́зꙋ.
+2. **И҆збєрѝ ма́лѡ зра́къ.** Пѧ́ть до́брыхъ зра́къ лꙋ́чше сꙋ́ть, нє́жє цѣ́ла скри́нѧ. Вєли́цїи и҆ ꙗ҆́снїи зра́ци дѣ́йствꙋютъ лꙋ́чше.
+3. **И҆менꙋ́й лю́ди са́мъ.** «Сѐ ты̀ и҆ ѻ҆тє́цъ въ дє́нь бра́ка ва́ю» ѿє́млєтъ тѧготꙋ̀.
+4. **Примѣча́й подрѡ́бности.** Ѻ҆дє́ждꙋ, колєсни́цѧ, ꙗ҆́ствꙋ, пого́дꙋ, ли́ца. «Какова̀ колєсни́ца. Ка́кѡ свѣтлѧ́щисѧ ви́дитсѧ».
+5. **Призовѝ, а҆ нє и҆стѧжѝ.** «Повѣ́ждь ми ѡ҆…» и҆лѝ «Что̀ примѣча́ѥши;» Молча́нїє до́бро є҆́сть.
+6. **Послѣ́дꙋй є҆мꙋ̀.** А҆́ще глаго́лєтъ ѡ҆ и҆но́мъ, и҆дѝ съ ни́мъ.
+7. **Прєста́ни, є҆гда̀ є҆щє̀ прїѧ́тно.** Затворѝ кни́гꙋ прє́ждє, да́жє прїи́дєтъ ᲂу҆томлє́нїє.
 
-## How do you make a memory box?
+## Ка́ко сътвори́ти скри́ню па́мѧти;
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Скри́нѧ па́мѧти є҆́сть сꙋ́дъ съ вє́щьми ѿ житїѧ̀ чл҃овѣ́ка, ꙗ҆̀же мо́жно дрьжа́ти и҆ ѡ҆ ни́хъ глаго́лати.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **И҆збєрѝ крѣ́пкꙋю скри́ню**, ю҆́же ле́гкѡ ѿврѣстѝ, ꙗ҆́коже скри́ню ѿ сапо́гъ, шлѧ́пьнꙋю скри́ню и҆лѝ ма́лъ дрєвѧ́нъ ковчє́гъ.
+2. **И҆збєрѝ є҆ди́нꙋ тє́мꙋ и҆лѝ смѣшє́нїє.** Трꙋ́дъ, хобїє̀, мѣ́сто, десѧтилѣ́тїє, и҆лѝ ма́лѡ ѿ всѣ́хъ.
+3. **Събєрѝ бєзбѣ́дьныѧ вє́щи.** Пѧ́ть до десѧтѝ вєщє́й довлѣ́ютъ въ нача́лѣ.
+4. **Оу҆потрєблѧ́й съѡ҆бразы̀ драги́хъ вєщє́й.** Съѡ҆бразѝ нєзамѣни́мыѧ зра́кы и҆ писа́нїѧ, а҆ първоѡ҆бразы̀ съхранѝ въ бєзбѣ́дьнѣ.
+5. **И҆зима́й вє́щи по є҆ди́ной.** Пода́й є҆ди́нꙋ, рьцѝ нѣ́что ѡ҆ нє́й, и҆ ви́ждь, ка́мѡ и҆́дєтъ бесѣ́да.
 
-Ideas to include:
+Мꙋ́сли, ꙗ҆̀же приложи́ти:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Трꙋ́дъ:** зна́мѧ и҆́мєнє, ма́ло ѻ҆рꙋ́дїє, запла́та ѿ ѻ҆дє́ждꙋ, кни́гꙋ, и҆́глꙋ цѣли́тєлѧ, поварє́ньнꙋю кни́гꙋ ѿ ꙗ҆дє́нїѧ.
+- **До́мъ:** ли́стъ ꙗ҆́ствъ рꙋко́ю є҆гѡ̀, пла́тъ, люби́мый шаль и҆лѝ ѻ҆поѧ́скꙋ.
+- **Хобїѧ̀:** ᲂу҆́дꙋ безъ крючька̀, мѧ́чь, клꙋбько̀ ни́тей, сѣ́мѧ въ мѣ́шцѣ.
+- **Мѣ́ста:** писани́ѧ, ка́рты, па́мѧть пꙋтєшє́ствїѧ, ѿрѣ́зокъ газє́ты ѿ ро́днагѡ гра́да.
+- **Ро́дъ:** съѡ҆бразы̀ зра́къ, ри́съ дѣтѧ́тє, зва́нїє на бра́къ.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Нє полага́й ѻ҆́стрыхъ вєщє́й, ма́лыхъ, ꙗ҆̀же могꙋ́тъ бы́ти пожьрє́ны, и҆ ничто́же, є҆́же мо́жєтъ принєстѝ болѣ́зньныѧ па́мѧти, а҆́ще нє вѣ́си, ꙗ҆́ко прїѧ́тно є҆́сть.
 
-## How do you make a life-story book?
+## Ка́ко сътвори́ти кни́гꙋ житїѧ̀;
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Кни́га житїѧ̀ є҆́сть про́стаѧ кни́га зра́къ и҆ кра́ткыхъ надписа́ній ѡ҆ житїѝ чл҃овѣ́ка. Сїѐ є҆́сть нѣ́что, є҆́же мо́жно зрѣ́ти вкꙋ́пѣ, и҆ помага́ѥтъ посѣти́тєлємъ и҆ слꙋжа́щимъ ви́дѣти цѣ́лагѡ чл҃овѣ́ка.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **И҆збєрѝ ѡ҆́бразъ.** Свѧ́зкꙋ съ храни́лищи, печа́танꙋю кни́гꙋ зра́къ, и҆лѝ пока́зъ на скрижа́ли.
+2. **Оу҆мы́сли ма́лѡ ча́стій.** Дѣ́тьство, ᲂу҆чи́лищє, трꙋ́дъ, ро́дъ, мѣ́ста житїѧ̀, вѣ́ра, хобїѧ̀, люби́маѧ ꙗ҆́ства и҆ пѣ́сни.
+3. **Приложѝ є҆ди́нъ и҆лѝ два̀ зра́ка на страни́цꙋ** съ кра́ткимъ надписа́нїємъ вєли́кимъ писмє́нємъ: «Mary, 22 лѣ́тъ, нача̀ трꙋди́тисѧ въ трапє́зѣ».
+4. **Въложѝ люби́маѧ и҆ ѻ҆бы́чаи.** «Пїє́тъ ка́вꙋ съ млѣко́мъ. Лю́битъ недѣ́льныѧ пѣ́сни. Нє лю́битъ гла́снагѡ видѣ́нїѧ». Сїѐ помага́ѥтъ всѧ́комꙋ, и҆́же пєчє́тсѧ ѡ҆ нє́мъ.
+5. **Въвєдѝ чл҃овѣ́ка**, є҆ли́ко хо́щєтъ, и҆збира́ѧ зра́кы, повѣ́даѧ повѣ́сти и҆лѝ про́сто зрѧ̀, ка́кѡ сълага́ѥтсѧ.
+6. **Приложѝ є҆щє̀.** Нє трѣ́бꙋѥтъ бы́ти съвєршє́но, да бꙋ́дєтъ полє́зно.
 
-## More reminiscence ideas
+## И҆́ныѧ мꙋ́сли помина́нїѧ
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **И҆гра́й пѣ́сни ѿ є҆гѡ̀ ю҆́ности** и҆ глаго́ли, ка́мѡ тѧ̀ нєсꙋ́тъ. Зрѝ [дѣла съ пѣ́сньми](/activities/music/).
+- **Зрѝ до́машьнѧѧ видѣ́нїѧ и҆лѝ показа́нїѧ** ѿ люби́мыхъ десѧтилѣ́тій.
+- **Сътворѝ ꙗ҆́дь ѿ дѣ́тьства** и҆ ѡ҆ста́ви вонѧ́мъ вєстѝ бесѣ́дꙋ.
+- **Зрѝ на ка́ртꙋ** ро́днагѡ гра́да и҆ слѣдѝ зна́ємыѧ пꙋ́ти.
+- **Дрьжѝ ста́рыѧ кни́ги и҆лѝ писа́нїѧ** и҆ глаго́ли ѡ҆ цѣ́нахъ, ѻ҆дє́ждахъ и҆ колєсни́цахъ.
+- **Запишѝ є҆гѡ̀ повѣ́сти** на гла́съ, съ є҆гѡ̀ и҆зволє́нїємъ, длѧ̀ родꙋ̀.
+- **Дѣли́сѧ въ зва́нїихъ.** Покажѝ є҆ди́нъ зра́къ въ видѣ́нїи; зрѝ [зва́нїѧ гла́сомъ и҆ видѣ́нїємъ](/activities/phone-and-video-calls/).
+- **Принєсѝ зра́къ и҆лѝ вє́щь, є҆гда̀ посѣща́ѥши.** Сїѐ дає́тъ посѣщє́нїю ле́гкꙋю цѣ́ль; зрѝ [посѣщє́нїѧ](/activities/visiting/).
 
-## What if a memory is painful?
+## Что̀ твори́ти, а҆́ще па́мѧть болѣ́зньна;
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Нѣ́котѡрыѧ па́мѧти прино́сѧтъ печа́ль, ка́ѧнїє и҆лѝ стра́хъ. А҆́ще чл҃овѣ́къ смꙋща́ѥтсѧ, прєста́ни, ᲂу҆тѣ́ши є҆го̀ и҆ ти́хо и҆змѣнѝ рѣ́чь и҆лѝ дѣ́ло. Нє прєпи́рисѧ ѡ҆ то́мъ, є҆́же бы́сть. Family Caregiver Alliance съвѣ́тꙋѥтъ нє покꙋша́тисѧ ᲂу҆вѣ́рити чл҃овѣ́ка, ꙗ҆́ко погрѣша́ѥтъ, и҆ прєдлага́ѥтъ ѿвѣща́ти на чꙋ́вьства, ꙗ҆̀же показꙋ́ѥтъ, понє́жє сꙋ́ть и҆́стиньна. А҆́ще глаго́лєтъ ѡ҆ ᲂу҆ме́ршемъ, ꙗ҆́коже ѡ҆ живѣ́, ѿвѣща́й на чꙋ́вьство: «Скꙋча́ѥши по нє́й. Повѣ́ждь ми ѡ҆ нє́й».
 
-## What does the research say?
+## Что̀ глаго́лєтъ и҆зслѣ́дованїє;
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Прєглѧ́дъ Cochrane ѡ҆ помина́нїи](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), и҆́жє ѡ҆б̾ѧ́тъ 22 и҆спыта́нїѧ и҆ 1,972 чл҃овѣ́ка, ѡ҆брѣ́тє, ꙗ҆́ко дѣ́йствїѧ бѣ́ша нєпостоѧ́ньна, ма́ла и҆ разли́чна по мѣ́стꙋ и҆ ѡ҆́бразꙋ. Нє ѡ҆брѣ́тє свѣдѣ́тєльства врє́да чл҃овѣ́кѡмъ съ помрачє́нїємъ оу́ма. Мы̀ прєдлага́ємъ помина́нїє, понє́жє мо́жєтъ бы́ти тє́пло и҆ зн҆амени́то врѣ́мѧ вкꙋ́пѣ, а҆ нє ꙗ҆́ко цѣлє́нїє. Длѧ̀ бо́льшаго ѡ҆ ле́гцѣй бесѣ́дѣ зрѝ [съвѣ́ты ѡ҆ бесѣ́дѣ](/caregiving/communication-tips/).

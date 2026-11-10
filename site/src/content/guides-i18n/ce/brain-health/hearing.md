@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Ларалла ва деменци: исбаьхьа тешам"
+seoTitle: "Ларалла ва деменци: тешам"
+description: "Цхьаьна ларалла деменцин хатар ву, ACHIEVE хьежаран кхетам мила ву, хьо ларалла ма-дарра хьожуш ву ва церан дешан дика яц."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024-чу Lancet-н Комиссин доклад лараллин ца хьовзаш кхузахь деменцин эзарчу хатарийн цхьа хьалха
+  хьехам бу. ACHIEVE хьежаран хьалхара, ларалла дарс ма-дарра деменцин хьехар дацара, амма
+  шира хатар волу адамаш хьалха дохийна. Ларалла дарс даьхьа-кхеташ ва деньган кхетаман нисдар
+  дарраш дика ю. Лараллин кхетам хьакха, рецептан ва дешан ларалла дарс хьахо, ва докторан дешан
+  хьоьх.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Комиссин кхетамаш: лараллин хатар деменцин 7%-на дожа, 14 хатаран юкъара массазчу дешана."
+  - "ACHIEVE хьежаран 977 стаж яьлла адаман юкъара, дарсан кхетам ма-дарра кхетам хуьлда кхетар уха."
+  - "Цхьа жима, шира хатар волу тайпара ACHIEVE-чу, хьаьжарин кхетам 48%-на диса дохаш ю; ха доьгIна ма-дарра."
+  - "2022-чу шо октябран 17-чу дийна, АЦШ-н 18 шо тӀе даьхкина адамаш ларалла дарсан лар ду, кхин лараллин лар хьоьлла, рецептан дешан бегара."
+  - "Бедан хатар ма-дарра ларалла 2024-чу шерашан деменцин хатар яьлла, цуьнан зулам кхетамна дийна."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Ларалла дарс деменци ма хьаькхарза?"
+    a: "Иза тешам бац. ACHIEVE хьежаран дешан кхетам шо кхеташ тесна хьо дарс ма дарра дохар, амма цхьа шира хатар волу тайпара дика дохийна. Ларалла дарс хьакха ю, хьала дешан, кхетаман ва ойланца хьакхаш даьхьа."
+  - q: "Рецептан дешан ларалла дарс хьо хуьлда?"
+    a: "ФДА-н дешана, 18 шо тӀе даьхкина адамаш, цхьана ларалла хьоьлла цхьана амма хала дешан, рецепт дацар магазина ё интернетара дарс хьо хуьлда. Иза цхьана кхетар хьакхахь яц. Хьо бIаьргаш, стаца тIехь доьш, ювхо ё кхетаман эрш вохуьлаш дохар хьехам дарре. Хьо доктора хьаьжа."
+  - q: "Ларалла деменци ма хуьлда?"
+    a: "Цхьана. НIА (Национальный институт старения) хьехар, даьхкина адамаш цхьана ларалла хьо хийна ма-дарра кхетар хуьлда доза, ца хьоьзна. Хьо ха дийр ву, ма-дарра кхетам хьакха даьхкина адамаш ма-дарра ца кхетар ва ма-дарра лараллин хьаькхам."
+  - q: "Даьхкина адамаш бIаьргаш мила хьаьжа хьо?"
+    a: "НIА хьехар, 60 шо тIехь даьхкина адамаш шо ё шо кхеташ бIаьргаш хьо хьаьжа, бIаьргаш докторан дешан тайпара. Диабет ё тохаран дагIа хуьлда адамаш шо дуьйна цхьа дуьйна хьо хьаьжа."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Ларалла хьо ха дукха адамаш лаьттина, цуьнан деменцин хатар дика тешам бу. Цуьнан дешан тешам хьала тайпара хуьлда ца ю; цхьаьна хьалха хьехам дикка вуьйцу. Кхузахь хьо тешам кхеташ ду: иштта лараллин кхетамаш, хьо хьаьжа ло, АЦШ-н рецептан дешан дарсан ма-дарра, ва дешан ларалла дика хуьлда иштта.
 
-## Why does hearing matter for brain health?
+## Лараллин кхетам ойланан дикан тIехь мила ю?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Ларалла деменцин хатарца лаьттина. [2024-чу Lancet Комиссин](https://doi.org/10.1016/S0140-6736(24)01296-0) доклад хьехар, иза деменцин 7%-на дожа дуьйна. [UCL-н доклада кечам](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) хьехар, ха ца кхетам юкъара 14 хатаран юкъара иза цхьа хьалха хьехам ю, ЛDL тохаран дагIа кхетам хьоьлла.
 
-Key findings from the Commission:
+Комиссин кхетамаш:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Ларалла, деменци шира.** Шира хатар волу зама шесш шира адамаш ларалла хьоьлла, деменци ма-дарра дохуш ю.
+- **Шира ларалла, шира хатар.** Тешам дохуш хьо ларалла деменцин хатар шира ю.
+- **Цхьана хьехар, цхьана ца тешам.** Ойланаш: хьоькхнаш, ювхо, ойланан хьехар дукх дацар, ва ойланан зуьйна.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Ларалла дукха адамаш лаьттина. [Национальный институт старения (НIА)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) хьехар, даьхкина адамаш кхеташ цхьа дуьйна ларалла ю, ва шерашан даха дукха дохуш ю.
 
-## What did the ACHIEVE hearing aid trial find?
+## ACHIEVE дешан хьежаран кхетам мила ю?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE цхьаьна лараллин дешан хьежар бу, лараллин хьаькхам хуьлда кхетаман хьалха. Цуьнан кхетамаш [хьежаран кхетамах](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) хьо тешам.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Гулдин адамаш:** 977 адам, 70-84 шо, дешан дарсан ца хьоьлла ларалла, кхетаман хьалха хала ца ду, АЦШ-н дийна четаш.
+- **Хьеза:** Цхьа тайпа дарсан ва кхетаман хьакхаш дешан специалистехь, кхин тайпа дешан цхьа хьахоьшу программа.
+- **Юкъара кхетам:** Шо кхеташ тесна, хьаькхам ву, тайпара юкъара ца дохийна.
+- **Цхьа тайпа кхетам:** Хьежар хьо ARIC хьехам, 238 адам, шира хатар волу; церан юкъара хьаьжарин кхетам **48%** диса дохаш ю. 739 доьзалан даьхкина адамаш юкъара цхьана кхетам ца хуьлда.
 
-How to read this honestly:
+Ойланца кхетам:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Юкъара кхетам дешан дохар ю.
+- Цхьа тайпа кхетам хьехар ца хьакха, амма хьежарин жима кхеташ дохийна, хьаьжа ма ду, кхин хьежарашца тешам хуьлда.
+- Гулдин адамаш хьо программа ма тешна, иза кхетам ма-дарра дохийна хуьлда.
+- Lancet Комиссин кхетам, ларалла дарс шира хатар волу адамашна хьо дика хуьлда.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Цхьа дика кхетам: ларалла дарс деменцин хьехар тешам бац. Амма иза хьо дохаш, дешан ларалла хьакха, шира ойланаш ва доьзалан ойланца хьакхаш дохар хьо дарс хуьлда.
 
-## How do I know if hearing should be checked?
+## Хьо ларалла хьаьжа хьо ма хьеза?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+НIА хьехар, хьо ё хьо тохаш адам дика ма ду, докторан дешан хьо:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Телефонан дешан хьа ма дукха хьоьзна
+- Цхьана адам дийна ма ойланаш хьехар кхеташ хьо
+- Дукха ма-дарра хьо дешан ма хьехам
+- Телевизор шира ма хьехам хьо, кхин адамаш ма-дарра цуьнца
+- Фонан ма кхеташ, шира хатар волу дешан хьехар
+- Адамаш шира кхеташ ма кхетар
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Первичный докторан дешан кхетам хьо, хьо audiologist (ларалла специалист) ё ЛОР доктор хьехар. Стаца тIехь доьш дайра ларалла хьоьлла цхьа дукха кхетам бу, докторан дешан хьаьжа. **Цхьана ларалла хьоьлла — кхетаман эрш,** НIА хьехар, докторан дешан дуьйна ма-дарра.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Ларалла хьо дуьйна хьо кхетам хуьлда ца хьоьлла. НIА хьехар, даьхкина адамаш ма-дарра ца кхетар хьо ларалла, иза ма-дарра кхетам ца хуьлда. Тохаш адам ма-дарра ма кхетар ё хьо ма кхетам кхеташ, ларалла хьаьжа дика ду.
 
-## What are over-the-counter hearing aids?
+## Рецептан дешан ларалла дарс мила ю?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+2022-чу шо октябран 17-чу дийна, [ФДА](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) рецепт дацар ларалла дарс (OTC) дешан дийна. Рецептан дарсах ала кхеташ:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Хьоьлла | OTC дарс | Рецептан дарс |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Церан кхетам | 18 шо тӀе даьхкина адамаш, шира ё жима ларалла | Хьо ларалла дарс, ма шо ё иза |
+| Дешан ма | Магазин ё интернетара, докторан ё рецепт дацар | Лицензе яьлла ларалла специалистана тIаьхьа |
+| Дешан дикан | Хьо боьшу хьо тIаьхьа, амма апп хьакха | Специалист хьо тIаьхьа дикан ма дешна |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+ФДА хьехар, OTC дарс шира ё шира хала ларалла дарсан лар ца ду. Хьо дарс дешан даьхьа, ЛОР специалиста, докторан дешан хьо хьаьжа, хьо дешна хьо:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Стаца тIехь доьш ё дайна
+- Стаца, ювхо ё кхетаман 6 баттахь ва дукха ма дохийна
+- Ларалла хьехам ё хьеза ма дуьйна, цхьана дуьйна кхетам
+- Цхьа бIаьргаш ма дохар ё дуьйна ма кхетам
+- Дукхан ма дохар ё хьо бIаьргаш хьо дайна
+- Дукха стаца тIехь доьш
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Ларалла дарс лар хьо хьаьжа ма ду, ФДА хьехар, дешан ма тIехь дешан ма кхетар хьо. НIА хьехар, хьо дешан шира дехар ма дуьйна. Деменцин хатар хуьлда адамаш, audiologist дарс хьакха хьехар хьо дика хуьлда.
 
-## How can I talk more easily with someone who has hearing loss?
+## Ларалла адамца хьо дика дешан мила ю?
 
-The NIA suggests:
+НIА хьехар:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Адам ма хьаькха, бIаьргаш хьо дешан дика ма.** Хьо дика ма хьа, хьо хьо бIаьргаш хьо кхетам хуьлда.
+2. **Цхьана жима дешан хьо.** Телевизор дайна ё шовда хьо ма дохуш.
+3. **Дукха хьо ма дешан, амма ма хьеза.** Цхьана дешан, дика тайпара.
+4. **Хьо ма хьакха.** Дешан ма, ювхо ма, бIаьргаш ма хьо.
+5. **Ма дешан дийр, хьехар дешан.** Кхетам ма дуьйна, цхьана хьехар дешан.
+6. **Цхьана адам цхьана.** Юкъара адам, ма-дарра хьо кхетам дешан.
+7. **Хьо ла, хьо дешан хьехар.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Иштта хьехам [деменцин дешан хьехар](/caregiving/communication-tips/) цхьана дика хуьлда. Сурат хьакхаш ларалла дешан хьо дохуш. [Picture Pairs](/games/picture-pairs/) ва [Conversation Cards](/games/conversation-cards/) хьакха хьо бIаьргаш кхетам дешан, [Finish the Saying](/games/finish-the-saying/) хьо хьакха хьо дешан ма. Фонан дешан, хьо [фонан ва видео дешан](/activities/phone-and-video-calls/) гайд хьо хьаьжа.
 
-## Vision matters too
+## Бедан хьехам ма-дарра хуьлда
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024-чу шо Lancet Комиссин ларалла бедан хатар яьлла. UCL-н хьехар, иза деменцин 2% хьехам ю, ва Комиссин хьехар, бедан тошар дешан ма дешна, кхин адамаш дика ма-дарра. [НIА хьехар](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes), 60 шо тIехь даьхкина адамаш шо ё шо кхеташ бIаьргаш хьо хьаьжа, ва бIаьргаш хьо хьаьжа, бIаьргаш докторан дешан хьо. Жима бедан кхетам ма-дарра юхахь хуьлда.
 
-## Talk with a doctor
+## Докторан дешан хьо
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Ларалла ё беде хьаьжа хьо, хьо кхетам хьо ма дохуш, докторан дешан дийр ду. Ларалла хьо, стаца тIехь доьш ё ювхо дайна, тIаьхьа докторан дешан хьо. Хьо деменцин адамца хьо дешан ма дохуш, адамаш ларалла ё беде хьо, докторан дешан хьо: иза дуьйна кхетам хуьлда, дешан ва адамаш дика хуьлда.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Иза дешан ларалла бу, медицинан хьехам ца бу. [Медицинан хьехам](/medical-disclaimer/) хьо хьаьжа. Дика хьо хьаьжа [доьзалан дешан ва хьоьзна](/brain-health/social-connection/).

@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Gníomhaíochtaí Grúpa do Néaltrú: Treoir do Thithe Cúraim"
+seoTitle: "Gníomhaíochtaí Grúpa do Néaltrú: Biongó, Amhráin"
+description: "Gníomhaíochtaí grúpa do chúram cuimhne, tithe altranais agus cláir lae: biongó pictiúr, amhránaíocht agus ciorcail chuimhne, le leideanna suíocháin."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Is fearr gníomhaíochtaí grúpa gearra, eolacha agus éasca le páirt a ghlacadh
+  iontu ag aon leibhéal i gcúram cuimhne agus i gcláir lae d’aosaigh: biongó
+  pictiúr, amhránaíocht, ciorcail chuimhne, gluaiseacht shimplí agus cluichí
+  focal le chéile. Coinnigh grúpaí beag más féidir, socraigh suíocháin ionas
+  go bhfeiceann agus go gcloiseann gach duine, tabhair céim shoiléir amháin ag
+  an am, agus bí ullamh le ról níos éasca agus slí amach chiúin do dhuine ar
+  bith a bhfuil gá acu leo.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Is minic a oibríonn grúpaí níos lú níos fearr ná imeacht mór amháin, agus tugann siad deis do níos mó daoine páirt ghníomhach a ghlacadh seachas féachaint amháin."
+  - "Cuir daoine ina suí i gciorcal nó i gcruth capaill, gar don treoraí, agus riachtanais éisteachta agus radhairc san áireamh, agus an torann cúlra múchta."
+  - "Pleanáil gach gníomhaíocht ag dhá nó trí leibhéal ionas gur féidir le daoine a bhfuil cumais éagsúla acu páirt a ghlacadh le chéile."
+  - "Seachain ceistiúchán, scóráil agus buaiteoirí. Is féidir biongó pictiúr a imirt ionas go mbeidh cárta iomlán ag gach duine sa deireadh."
+  - "Tá sé ceart go leor imeacht go luath, féachaint nó codladh beag. Bíodh ball foirne ar fáil chun tacú le duine ar bith ar mhaith leo spás níos ciúine."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Cén méid grúpa atá oiriúnach do ghníomhaíochtaí néaltrú?"
+    a: "Níl uimhir cheart amháin ann, agus braitheann sé ar na cónaitheoirí, ar an seomra agus ar an líon foirne atá agat. Faigheann go leor foirne amach go ligeann grúpaí beaga do gach duine feiceáil, cloisteáil agus páirt a ghlacadh, agus go mbíonn níos mó daoine ag féachaint ag imeachtaí i seomraí móra. Má reáchtálann tú imeacht mór, cuir baill foirne nó oibrithe deonacha leis a fhéadfaidh suí i measc na gcónaitheoirí agus cabhrú le duine nó beirt an ceann."
+  - q: "Conas is féidir liom grúpa le cumais mheasctha a reáchtáil?"
+    a: "Pleanáil níos mó ná bealach amháin le páirt a ghlacadh i ngach gníomhaíocht. I seisiún amhránaíochta, canann daoine áirithe gach focal, buaileann daoine eile bosa nó cromann siad, agus coinníonn daoine eile croithire. I mbiongó pictiúr, aimsíonn daoine áirithe a bpictiúir féin agus díríonn cúntóir do dhaoine eile. Suigh daoine a bhfuil tuilleadh cabhrach de dhíth orthu in aice le ball foirne nó oibrí deonach."
+  - q: "Conas is féidir liom biongó pictiúr a imirt gan é a dhéanamh iomaíoch?"
+    a: "Glaoigh gach pictiúr go dtí go bhfuil cárta iomlán ag gach duine, ionas nach bhfágtar aon duine ar lár. Labhair faoi gach pictiúr de réir mar a thagann sé aníos, agus ná tabhair duaiseanna do bhuaiteoirí nó tabhair an cóir bheag chéanna do gach duine. Is é an aidhm ná aird chomhroinnte agus comhrá, ní cé a chríochnaíonn ar dtús."
+  - q: "An féidir liom bhur gcuid cluichí a úsáid ar scáileán mór i ngrúpa?"
+    a: "Is féidir. Ritheann ár gcuid cluichí i mbrabhsálaí gréasáin, mar sin is féidir leat iad a oscailt ar ríomhaire glúine nó ar tháibléad atá ceangailte le teilifís nó le teilgeoir. Cuimsíonn Picture Bingo cártaí inphriontáilte agus glaoiteoir ar an scáileán. Oibríonn Finish the Saying agus Picture Pairs go maith freisin ar scáileán mór le duine amháin ag tapáil don ghrúpa."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Tá an treoir seo do stiúrthóirí gníomhaíochtaí, d’fhoirne cúraim chuimhne agus do cheannairí clár lae d’aosaigh. Clúdaíonn sí formáidí grúpa a oibríonn go maith, socrú an tseomra, conas gníomhaíocht amháin a oiriúnú do chumais mheasctha, agus conas ár gcártaí biongó inphriontáilte agus ár gcluichí ar scáileán mór a úsáid. Tá gach rud anseo dírithe ar chompord, ar nasc agus ar rogha. Ní tástáil é aon rud anseo.
 
-## What makes a group activity work in memory care?
+## Cad a fhágann go n-oibríonn gníomhaíocht ghrúpa i gcúram cuimhne?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Bíonn gníomhaíocht ghrúpa mhaith eolach, gearr, éasca le páirt a ghlacadh inti ag aon leibhéal agus saor ó bhrú. Déanann [Moltaí Cleachtais Chúraim Néaltrú](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) de chuid Alzheimer’s Association cur síos ar rannpháirtíocht bhríoch mar rud a thacaíonn le leasanna agus roghanna duine agus a thugann deis rogha agus rathúlachta, fiú nuair a bhíonn néaltrú an-dona. Tugann an cháipéis chéanna le fios go mbraitheann cláir thraidisiúnta go minic ar imeacht mór grúpa nó dhó in aghaidh an lae ina mbíonn cónaitheoirí ag glacadh páirte éighníomhaí go minic.
 
-That points to a few practical rules:
+Tugann sé sin roinnt rialacha praiticiúla dúinn:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Is fearr an rud eolach ná an rud nua.** Bíonn sé níos éasca páirt a ghlacadh in amhráin, seanfhocail, pictiúir agus rudaí ó bhlianta óige na gcónaitheoirí.
+- **Is fearr an rud gearr ná an rud fada.** Pleanáil thart ar fhad na haire is gnách do do ghrúpa, le pointe stad nádúrtha leath bealaigh tríd.
+- **Is fearr déanamh ná féachaint.** Tabhair rud éigin le coinneáil, le tapáil, le roghnú nó le rá do gach duine.
+- **Leibhéil éagsúla, gníomhaíocht amháin.** Cuir bealaí níos éasca agus níos deacra le páirt a ghlacadh san áireamh.
+- **Gan buaiteoirí, gan scóir.** Fágann formáidí iomaíocha daoine áirithe ag mothú gur theip orthu.
 
-## How big should the group be?
+## Cén méid ba chóir don ghrúpa a bheith?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Is gnách gurb é an grúpa níos lú an rogha is éasca. Tugann Alzheimer’s Association le fios go bhféadfadh duine a mbíonn imeacht mór ró-dheacair dó nó di páirt a ghlacadh níos rathúla i ngrúpa níos lú. Níl uimhir cheart amháin ann. Braitheann sé ar na cónaitheoirí, ar an seomra agus ar an líon foirne agus oibrithe deonacha atá ar fáil.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Tástáil úsáideach: an féidir le gach duine aghaidh an treoraí a fheiceáil, cloisteáil go soiléir agus cabhair a fháil ó chúntóir laistigh de chúpla soicind? Mura féidir, roinn an grúpa, cuir cúntóirí leis, nó bog go seomra níos lú.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+I gcás imeachta mhóir, ar nós ceolchoirme do shéasúr féile, suigh baill foirne agus oibrithe deonacha i measc na gcónaitheoirí, ní cois na mballaí.
 
-## How should I set up the room and seating?
+## Conas ba chóir dom an seomra agus na suíocháin a shocrú?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Ciorcal nó cruth capaill.** Déanann na moltaí cleachtais cur síos ar chiorcal comhroinnte mar an rogha is fearr i spás atá mór go leor chun go bhféadfaidh gach duine suí i gciorcal, gan aon torann cúlra.
+- **An treoraí gar agus ar leibhéal na súl.** Suigh síos seachas seasamh nuair is féidir.
+- **Éisteacht agus radharc ar dtús.** Suigh daoine a bhfuil caillteanas éisteachta orthu is gaire don treoraí, ar a taobh is fearr. Bí cinnte go bhfuil spéaclaí agus áiseanna éisteachta á gcaitheamh. Tugann Alzheimer’s Association le fios gur féidir le fadhbanna radhairc agus éisteachta cumarsáid a dhéanamh níos deacra.
+- **Solas ó chúl na gcónaitheoirí, ní ó do chúl féin.** Ná cuir aon duine ina shuí os comhair fuinneoige gheal.
+- **Múch an teilifís agus an raidió.** Molann Alzheimer’s Association torann iomaíoch a bhaint le linn gníomhaíochtaí ceoil.
+- **Comhrá amháin ag an am.** Bíonn cros-chainteanna deacra do dhaoine atá ag maireachtáil le néaltrú agus do dhaoine a bhfuil caillteanas éisteachta orthu, mar a luann Alzheimer’s Association ina [threoir don séasúr féile](https://www.alz.org/help-support/caregiving/holidays).
+- **Bealaí amach soiléire agus cúinne ciúin.** Ba chóir go mbeadh sé éasca do dhuine ar bith atá ag iarraidh imeacht é sin a dhéanamh, le ball foirne chun siúl leo.
 
-## Group activity ideas
+## Smaointe do ghníomhaíochtaí grúpa
 
-### Picture bingo
+### Biongó pictiúr
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Úsáideann biongó pictiúr pictiúir shoiléire in ionad uimhreacha, ar nós taephota, madra nó rós, ionas nach gá d’aon duine uimhir fhada a leanúint ná cló beag a léamh.
 
-**How to run it:**
+**Conas é a reáchtáil:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Priontáil cárta amháin do gach duine ó ár leathanach [Picture Bingo](/games/picture-bingo/) ag baint úsáide as an gcnaipe Priontáil. Bíonn páipéar trom níos éasca le láimhseáil. Lamineáil iad le húsáid arís.
+2. Tabhair marcóirí móra amach atá éasca le piocadh suas, ar nós sceallóga pócair, caipíní buidéal nó cearnóga beaga cártaí.
+3. Úsáid an glaoiteoir ar an scáileán ar theilifís nó ar theilgeoir ionas go bhfeiceann gach duine an pictiúr agus tú ag rá a ainm.
+4. Stad tar éis gach pictiúir agus tabhair cuireadh do thráchtaireacht ghearr: “Ar mhaith le haon duine scéal a insint dúinn faoi mhadra a raibh aithne acu air?” nó “Cad a thugann sibh faoi deara faoin gceann seo?”
+5. Lean ort ag glaoch go dtí go bhfuil cárta iomlán ag gach duine. Críochnaíonn gach duine.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**É a oiriúnú:** Úsáid níos lú cearnóg do dhaoine a mbraitheann cárta iomlán ró-ghnóthach dóibh. Is féidir le cúntóir díriú ar an bpictiúr ceart do dhuine a bhfuil cabhair de dhíth air nó uirthi. B’fhéidir gur fearr le daoine áirithe cárta pictiúir an ghlaoiteora a choinneáil agus é a thaispeáint don ghrúpa.
 
-### Sing-alongs
+### Amhránaíocht le chéile
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Tá ceol ar cheann de na gníomhaíochtaí grúpa is mó a thaitníonn le daoine. Tugann Alzheimer’s Association le fios go bhféadfadh duine, fiú sna céimeanna deireanacha, a bheith in ann [buille a bhualadh nó amhrán óna óige a chanadh](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Conas é a reáchtáil:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Roghnaigh amhráin a raibh na cónaitheoirí ag éisteacht leo agus iad óg, ní roghanna pearsanta an treoraí. Fiafraigh de theaghlaigh cad a thaitin le gach duine.
+- Úsáid ceol gan fhógraí, mar a thugann an Cumann le fios gur féidir leo a bheith mearbhall.
+- Priontáil liricí i gcló mór dóibh siúd a léann, ach ná bí ag éileamh é.
+- Cuir croithreoirí, drumaí láimhe nó scaifeanna ar fáil le croith nó le croitheadh.
+- Spreag bualadh bos agus gluaiseacht, agus coinnigh an toirt compordach.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**É a oiriúnú:** Canfaidh daoine áirithe gach focal, cromfaidh daoine eile, buailfidh daoine eile cos, agus éisteoidh daoine eile go simplí. Tá luach ag gach ceann díobh seo. Féach ár [dtreoir ar ghníomhaíochtaí ceoil](/activities/music/) le haghaidh tuilleadh.
 
-### Reminiscence groups
+### Ciorcail chuimhne
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Tagann grúpa cuimhne le chéile timpeall ar théama, ar nós laethanta scoile, chéad ghluaisteáin, cistineacha nó an samhradh, ag baint úsáide as grianghraif, rudaí agus ceol. Is é an aidhm ná comhrá taitneamhach, ní cuimhne cruinn.
 
-**How to run it:**
+**Conas é a reáchtáil:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Roghnaigh téama amháin agus tabhair leat cúpla rud is féidir le daoine a choinneáil: meascthóir láimhe, lámhainní baseball, hata, catalóg síolta.
+2. Tabhair rud amháin timpeall ag an am. Cuir ceisteanna oscailte: “Inis dom faoin rud seo,” “Cad a thugann tú faoi deara?” “Cé a d’úsáid rud mar seo?”
+3. Fáilte roimh gach freagra. Ná ceartaigh dáta ná fíric riamh.
+4. Treoraigh an comhrá i dtreo cuimhní teo. Tugann na moltaí cleachtais le fios gur chóir do sholáthraithe cúraim cuimhneachán a threorú i dtreo cuimhní dearfacha seachas cinn a d’fhéadfadh anacair a chruthú.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+Cuireann [Conversation Cards](/games/conversation-cards/) cártaí pictiúr inphriontáilte ar fáil le leideanna oscailte de réir téama a oibríonn go maith mar thosaithe comhrá. Tá tuilleadh smaointe inár [dtreoir ar chuimhneachán](/activities/reminiscence/).
 
-### Finish the saying
+### Críochnaigh an seanfhocal
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Tugann seanfhocail eolacha (“Is fearr leath ná...”) cuireadh do gach duine an deireadh a rá le chéile. Taispeáin [Finish the Saying](/games/finish-the-saying/) ar scáileán mór agus lig don ghrúpa freagairt mar ghuth amháin. Bíonn leid chainte ann tar éis gach seanfhocail. Mura ndeir aon duine an deireadh, taispeáin é agus bog ar aghaidh. Níl aon fhreagra ceart ná mícheart ann.
 
-### Large-print word search, together
+### Cuardach focal i gcló mór, le chéile
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Teilg an [Word Search](/games/word-search/) i gcló mór ar scáileán agus féach ar fhocail mar ghrúpa, nó priontáil cóipeanna dóibh siúd ar maith leo oibriú leo féin ag an mbord. Ní ritheann focail ach trasna agus síos.
 
-### Gentle movement
+### Gluaiseacht shocair
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Síneadh agus tú i do shuí, liathróid bhog nó balún a chur timpeall, nó damhsa cathaoireach le ceol eolach. Taispeáin gach gluaiseacht seachas í a mhíniú.
 
-### Sorting and matching at the table
+### Sórtáil agus meaitseáil ag an mbord
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Is féidir le boird bheaga de thriúr nó ceathrar pictiúir, swatches fabraice nó sceanra a shórtáil le chéile. Ar an scáileán, is féidir [Picture Pairs](/games/picture-pairs/) a imirt agus na pictiúir fágtha le feiceáil, le duine amháin ag tapáil agus an bord ag caint faoi gach pictiúr.
 
-## How do I use your games on a big screen?
+## Conas is féidir liom bhur gcuid cluichí a úsáid ar scáileán mór?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ritheann ár gcuid cluichí i mbrabhsálaí gréasáin, mar sin is féidir leat iad a úsáid ar theilifís nó ar theilgeoir gan aon rud a shuiteáil.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Oscail an cluiche ar ríomhaire glúine nó ar tháibléad atá ceangailte leis an scáileán le cábla nó trí theilgean.
+2. Cuir an brabhsálaí ar lánscáileán agus socraigh an fhuaim ag leibhéal compordach.
+3. Bíodh treoraí amháin ag déanamh na tapála agus an grúpa ag glaoch amach a roghanna. Nó tabhair táibléad do chónaitheoir ar mhaith leo deis a fháil.
+4. Stad nuair a bhíonn an grúpa réidh. Níl aon lasc ama, scór ná críoch éigeantach ar na cluichí.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+Is minic a oireann [Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) agus [Conversation Cards](/games/conversation-cards/) do ghrúpaí is fearr. Féach na roghanna go léir ar ár [leathanach cluichí](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Conas is féidir liom gníomhaíocht amháin a oiriúnú do chumais mheasctha?
 
-Plan at least three ways to join every activity.
+Pleanáil ar a laghad trí bhealach le páirt a ghlacadh i ngach gníomhaíocht.
 
-| Activity | More independent | Some support | Most support |
+| Gníomhaíocht | Níos neamhspleáiche | Le roinnt tacaíochta | Le tacaíocht mhór |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Biongó pictiúr | Aimsíonn agus clúdaíonn a phictiúir féin | Díríonn cúntóir; clúdaíonn an duine | Coinníonn cárta pictiúir; éisteann agus féachann |
+| Amhránaíocht | Canann, roghnaíonn an chéad amhrán eile | Cromann, buaileann bos, úsáideann croithire | Éisteann, coinníonn scaif, buaileann lámh |
+| Ciorcal cuimhne | Insíonn scéalta | Freagraíonn le tá nó níl nó díríonn | Coinníonn agus mothaíonn an rud |
+| Cuardach focal | Oibríonn ar a chóip phriontáilte féin | Aimsíonn focail ar an scáileán mór le cúntóir | Éisteann agus na focail á léamh amach |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Do chónaitheoirí atá sna céimeanna níos déanaí, tugann an NHS le fios gur gnách go mbíonn gá le gníomhaíochtaí níos simplí a dhíríonn níos mó ar na céadfaí, ar nós ceoil, rudaí le teagmháil a dhéanamh leo agus suathaireacht láimhe. D’fhéadfadh nóiméad duine le duine le linn an ghrúpa nó ina dhiaidh a bheith níos oiriúnaí dóibh ná an grúpa féin. Féach [gníomhaíochtaí do chéimeanna déanacha](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Conas ba chóir do threoraithe labhairt le linn grúpa?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Cuir tú féin in aithne gach uair, agus úsáid an t-ainm is fearr le gach duine.
+- Labhair go mall, tabhair céim amháin ag an am, agus taispeáin sula ndeir tú.
+- Iarr cuirí oscailte (“Inis dom faoi...”) nó roghanna simplí, ní ceisteanna cuimhne (“An cuimhin leat...?”).
+- Ná ceartaigh. Gabha buíochas le daoine as gach ranníocaíocht.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Tá tuilleadh faoi seo inár [leideanna cumarsáide](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Críoch mhaith a chur leis, agus ligean do dhaoine imeacht
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Is toradh maith é stopadh. Bí ag faire ar chomharthaí go bhfuil duine tuirseach, míshuaimhneach nó trína chéile, agus bíodh cúntóir ann chun siúlóid nó suíochán ciúin áit éigin eile a thairiscint. D’fhéadfadh sé go bhfuil duine ag codladh beag le linn amhránaíochta go simplí compordach.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Críochnaigh gach grúpa ar an mbealach céanna, le hamhrán eolach nó le buíochas simplí, ionas go mbraitheann an deireadh socair agus ionchais. Ina dhiaidh sin, déan nótaí gearra faoi cad a d’oibrigh agus cé bhain taitneamh as cad. Cabhraíonn na nótaí sin leis an gcéad seisiún eile a bheith níos fearr.

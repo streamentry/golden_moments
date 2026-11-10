@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Iḷisimaniksraq: Aalakkaaŋiññiq, Ikayuqtit, Suŋiḷḷu"
+seoTitle: "Dementia Naipiqtuaqtuam Iḷisimaniksraŋa"
+description: "Suŋiḷḷiq nalunaiqsautit, aalakkaaŋiññiq ikayuqtillu paqinniksrat, akiḷḷaŋitchuat ikayuutit US-mi, Alzheimer's Association 24/7 Helpline (1-800-272-3900) Eldercare Locator-lu (1-800-677-1116)."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Iñuk dementia-lik naipiqtuaġniq savaaġnaqtuq, ilviññiḷu iḷisimaniq
+  suliagni iḷaŋuruq. Naipiqsaaġuk nalunaiqsautinik suŋiḷḷiq, uqautchimmaaġniq,
+  sinikpiññiq, iḷaŋatlu iñuutqunmiñiñiq. Apiqsruġiñ ikayuutinik nalaunŋaruanik,
+  atuġlugu aalakkaaŋiññiq, iḷautiḷḷutitlu ikayuqtit qanuqtuat. Akiḷḷaŋitchuat
+  ikayuutit US-mi ilaqaqtut Alzheimer's Association 24/7 Helpline-mik
+  1-800-272-3900-mi Eldercare Locator-miklu 1-800-677-1116-mi.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Suŋiḷḷiq nalunaiqsaġniġaa suŋiḷḷiq, uqautchimmaaġniq, sinikpiññiq, aliasuŋniq, ilviññiḷu aŋalatchiññiq."
+  - "Aalakkaaŋiññiq iḷḷivut aaḷakkaaŋiḷḷiġniqaqtuq, ikarraanik qiḷginit iḷaŋnut piviuttaaqpallu, iglumini tavraunmiḷu."
+  - "Apiqsruġiñ ikayuutinik nalaunŋaruanik suliakkunik; amihut ikayuġumagaluat nalupqisuktuat qanuq ikayuġniaqłutik."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) akiḷḷaŋitchuaq, iñuuniaġutimiglu iñiqsraq, ikayuutaqtuq aluaḷḷuata."
+  - "Eldercare Locator (1-800-677-1116) iḷḷivut iḷautitkaa nunagni ikayuutinik, Area Agency on Aging ilaqaqługu."
+  - "Anniqsuutiqaġuvin, quviasukłutin uqalukłutinlu 988-mun. Anniqsuutiqpaqaġumi, quviasuk 911-mun."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Sunatit suŋiḷḷiq nalunaiqsautai?"
+    a: "Nalunaiqsautat ilagaat suŋiḷḷiq, annaksraq, uqautchimmaaġniq, sinikpiññiq, aliasuŋniq, piŋasugiksuŋiññiq, iñuutqunmiñiñiq, niaquŋmiñiq anniqsuŋniḷḷu, niġiññiq, savaaqataunilḷu, aŋalatchinillu ilviññiq iḷisimanaġutin. Nalunaiqsautat taakkua aglaan iḷitchuġumi, uqautigilugu aŋalatchi."
+  - q: "Qanuq aalakkaaŋiññiq paqinniġiga nunamni?"
+    a: "Aullaġniġuk Eldercare Locator-mik (1-800-677-1116 uvvalu eldercare.acl.gov) Area Agency on Aging-ŋnun, ARCH National Respite Locator Service-mun, uvvalu Alzheimer's Association Helpline-mun 1-800-272-3900-mi. Iḷagiit, iñuutqutit ikayuqtillu aalakkaaŋiqsrautiginiġaat."
+  - q: "Medicare akiḷḷivaa aalakkaaŋiññiq?"
+    a: "Iñuum hospice-mik ikayuqtauġumi, Medicare akiḷḷivaa amihuniŋa akiḷḷiutaa tallimanun uvlunut aalakkaaŋiññiq aŋalatchivianni uvvalu skilled nursing facility-mi, National Institute on Aging uqausiġigaa. Amihut private health insurance akiḷḷiġaitchut aalakkaaŋiññiq; Medicaid iḷaŋillu long-term care insurance ikayuutausinnaaqtut."
+  - q: "Iḷumun Alzheimer's Association Helpline akiḷḷaŋitchuaq unnuamiḷu atuqtauniaqtuq?"
+    a: "Iġḷiq. Alzheimer's Association uqallaktuq Helpline-ŋa 1-800-272-3900-mi akiḷḷaŋitchuaq, iñuuniaġutimiglu iñiqsraq, suliqaqtuq aluaḷḷuata, 365 uvluni ukiutqusiq, ikayuutiqaqtuq amihuni uqausini. Relay service-mun 711-mik quviasuk."
+  - q: "Iḷisimaniŋa iḷḷivut aasiiññiqpa?"
+    a: "Naagga. Aalakkaaŋiññiq ikayuġniġaat naipiqtuaniq suli, aalakkaaŋiññiḷḷu iñuum naipiqtuaqpich allanik iñuŋnik savaaniklu atuqsrauniaqtuq. Amihut naipiqtuaqtuat kingumun uqaqtut ikayuutinik apiqsruġumiñaqtut sivulliq."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Iñuk dementia-lik naipiqtuaqpiñ, una makpiġaaq taiguaqtuġigikput unnuami, suŋiqsraḷuutiḷłutin, suliakkallu suli iḷitchuiññaitchut. Taamna nalaunŋaruq. Ilviññiq iḷisimaniq suliqutauñġitchuq, suliakkallu iñiqsiñġaŋŋuŋatillu akiḷḷautauñġitchuq. Taamna ikayuġniġaat suli.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Una makpiġaaq uqallaktuq suŋiḷḷiq nalunaiqsautinik, qanuq aalakkaaŋiññiq paqinniġilugu, nani ikayuqtit paqinniġilugit, akiḷḷaŋitchuaniklu ikayuutinik US-mi uvlaakun quviasugniqsaġnik.
 
-## What are the signs of caregiver burnout?
+## Sunatit suŋiḷḷiq nalunaiqsautai?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Suŋiḷḷiq aglaan tupiŋaruq, taamna iḷitchuġniq nalunaiqsautinik ikayuutausinnaaqtuq. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) titiraqtuq suŋiḷḷiq nalunaiqsautinik, ilagaat:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- suŋiḷḷiq, annaksraq uqautchimmaaġniḷḷu;
+- uqautchimmaaġniq tuqłuŋaruq;
+- iñuuniaġutiminiñiq iñuutqunmiñiñiḷḷu;
+- sinikpiññiq, uvvalu siniktuŋiññiq;
+- aliasuŋniq piŋasugiksuŋiññiḷḷu, quviasuŋiññiḷḷu savaanik quviasuktuaqtaŋnik;
+- niaquŋmiñiq, anniqsuŋniq, timiññiḷḷu allanik anniqsuutinik;
+- piviuttaqanngiññiq savaaqataunmun niġiñmullu nalaunŋaruanun ilviññun;
+- igḷutchiññiq ilviññiq iḷisimanaġutin;
+- imigluqł̣uł̣iq uqaluktuŋiḷḷu atuqługit, aŋalatchim ikayuutiŋiḷḷu ilaqaqługit.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ilaqaqtuq nalunaiqsautinik, iḷitchuġuiññiq annaurutit, uqautchimmaaġniq iñuumun naipiqtuaqpich („pisuġumiñaruq“), uqautchimmaaġniq sivunmun, isumaliuqpiññiq, timiññiḷḷu anniqsuutit. Uqautiqsuqtuq aŋalatchi uqautigilugu nalunaiqsautat taakkua aglaan iḷitchuġumi.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA-m uqausiŋa utaqqiġuiññaq iḷḷivut suŋiqpaŋŋuł̣utin. Nalunaiqsautatin iḷitchuġilugit sivulliq, savaallutiḷḷu.
 
-## What can I do today, in five minutes?
+## Sumik savaaqtuksraŋa uvlaakun, tallimanik minutinik?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Mikiḷḷu aalakkaaŋiññiq ikayuutausinnaaqtuq. Ukua suŋiḷḷiq piiqsraqł̣iġaitchuat, aglaan ikayuġniġaat uvluakun savaaġnaqtuakun.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Ani.** Igḷumi aquvit uvvalu pisuglutin iglum savaaŋanun, iñuk naipiqtuaqpin annaurraqaġumi aquvigaġumiḷu.
+- **Anŋiqsaun saŋiqsaaġlugu.** Anŋiqsaun saŋiqsaaq tallimat qiḷgit sivunġani apiqqutaaq savaaġnaqtuaq kiugikpan. [Calm Breathing](/games/calm-breathing/) atullasikput iñuum naipiqtuaqpich iḷḷatigun.
+- **Imiq imiqtuq, niġiḷḷutiḷḷu.** Niġiñiq ilviññiq puqtusruġnaqtuq.
+- **Iñuutqunmun uqaluk.** Apiqsruŋiññiq, uqaqatigiigñiqsraq.
+- **Ilviññun uqautiḷḷutin nakuuruakun.** NIA-m [makpiġaaqa iḷisimaniqmik ilviññik](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) uqautinik atausiqsrautchiqsuq: „Savaaġniġiga nalaunŋaruakun“, „Iñuguŋiññaqtuna, naammagiruq“, „Quviasuglugiŋniaqtakka piviuttaqqat iñuulluta naglikkutiġiluta.“
 
-## What is respite care, and how do I get it?
+## Suna aalakkaaŋiññiq, qanuqł̣u paqinniġiga?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Aalakkaaŋiññiq sivitchuŋitchuq iḷisimaniq iñuumun naipiqtuaqpich, iḷḷivut aalakkaaŋiññiqsraġuviñ. NIA-m [makpiġaaqa aalakkaaŋiññiqmik](https://www.nia.nih.gov/health/caregiving/what-respite-care) uqallaktuq ikarraanik qiḷginit iḷaŋnut piviuttaaqpallu, iglumini, aŋalatchivianni uvvalu adult day care center-mi.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) uqallaktuq atausiqsrautinik:
 
-| Type | What it is |
+| Qanuq | Suna |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Iglumi ikayuut | Iḷagiñ, iñuutqun, ikayuqti uvvalu akiḷḷiutaq ikayuġniqaqtuq iglumi |
+| Uvluakun naipiqtuaqtiq | Savaat pitqusiraġḷugit, atuqtit, sanaugaqł̣iutit iñuŋni annaurani; aullaaġutit niġiḷḷu iḷḷagiiñiaġataqtut |
+| Unnuami uvvalu sivitchuŋitchuq | Long-term care community iñuk naipiqtuġniġaa unnuaq, uvlaŋnik iḷaŋnik uvvalu piviuttaaqpallu |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Kia akiḷḷivaa?** NIA-m uqausiġigaa, iḷagiit, iñuutqutit ikayuqtillu akiḷḷaŋitchuaq. Suliqaqtuat akiḷḷiġaat ikarraamik uvvalu uvlumik. Iñuum hospice-mik ikayuqtauġumi, Medicare akiḷḷivaa amihuniŋa akiḷḷiutaa tallimanun uvlunut aalakkaaŋiññiq aŋalatchivianni uvvalu skilled nursing facility-mi. Medicaid ikayuutausinnaaqtuq. Amihut private health insurance akiḷḷiġaitchut aalakkaaŋiññiq, aglaan iḷaŋat long-term care insurance ikayuutausinnaaqtut.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Isumagiksraq:** Alzheimer's Association uqautiqsuqtuq aalakkaaŋiññiq ikayuqtit atuġlugu anniqsuutiqpaŋŋuŋani, piŋasugiñaqsraġuviñ tuqłuŋaruakun ikayuutinik.
 
-## Where can I find help near me?
+## Nani ikayuutinik paqinniġniqsaŋa nunamni?
 
-Several free US services can point you to local help.
+Akiḷḷaŋitchuat ikayuutit US-mi iḷḷivut tikitchiġniġaat nunagni ikayuutinut.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) akiḷḷaŋitchuaq, iñuuniaġutimiglu iñiqsraq, suliqaqtuq aluaḷḷuata uvluni tamaini, ikayuutiqaqtuq 200-nik avataani uqausini. Relay service-mun 711-mik quviasuk. Uqautigisinnaġikpiñ allaniqsuutit, naipiqtuaqtuam suŋiḷḷiŋa, aalakkaaŋiññiq, nunagni savaallu, apiqsruġiḷḷutiḷḷu sivisuaġnigraanik uqaqatigiiksraq care consultant-miñ. Suliqaqtuat aŋalatchiñiq uqautiqsraqł̣iġaitchuat.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), ikayuutaa Administration for Community Living, iḷḷivut iḷautitkaa ikayuutinut utuqaqtuanun iḷagiŋnunlu. Quviasugniqsaġikput, uqalugniqsaġikput, uqaqatigiigniqsaġikput online-mi uvvalu allakkaqsiġilugit, uvvalu nunamni ivvaqł̣iġilugu. Tikitchiġniġaa Area Agency on Aging nunagni.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) ikayuġniġaat aalakkaaŋiññiq ikayuqtit paqinniġlugit state-mi, uqautiqsuqtuq State Respite Coalition uvvalu Lifespan Respite program sivulliq quviasuġlugu, state-giñ iḷaŋuruġumi. ARCH uqallaktuq ikayuqtit nalupqisuŋaitchait, taamna ilviññiq nalupqisuġilugit suliat iḷitchuġniŋallu.
 
-## How do I find a support group?
+## Qanuq ikayuqtit qanuqtuat paqinniġilugit?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Helpline quviasuġlugu uvvalu online-mi ivvaqł̣iġiñ nunagni. Alzheimer's Association [savaaqaqtuq ikayuqtit qanuqtuanik](https://www.alz.org/help-support/community/support-groups) naipiqtuaqtuanut dementia-lignullu iñuŋnun, tautukkun online-milu, iḷisimanik suliqaqtuat aullaqtitkaat. Nunani amihuni iḷaŋat qanuqtuaqtuat savaaqaqtut, aullarriñ naipiqtuaqtuanut uvvalu inutuqanik Alzheimer's-lik uvvalu sivulliq. ALZConnected-lu savaaqaqtuq, akiḷḷaŋitchuaq online-mi qanuqtuaq, naipiqtuaqtuat uqaqatigiiktuat.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ikayuqtit qanuqtuat piviuttauniaqtuq uqallagniaġuvin nalupqisuŋiññiq, iḷitchuġniq iḷaŋniñ suliqaniktuanit, iñuuniaġutmiñiññiḷḷu. Sivulliq qanuqtuat nalaunŋaŋił̣ł̣uni, alla atuġuk.
 
-## How do I ask family and friends for help?
+## Qanuq iḷagiŋnik iñuutqunniklu ikayuutinik apiqsruġniqsaŋa?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Nalaunŋaruakun suliakkunik uqallak. Amihut ikayuġumagaluat nalupqisuktuat sunik ikayuġniġmik. NIA uqautiqsuqtuq:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Titiraġilugit suliakkun** allanit savaaqtaugnaqtut, iñuŋnik piŋasuaqługit.
+- **Mikiniñ aullaq** apiqsruġniq savaaġnaqaġumi.
+- **Suliak iñuumun nalaunŋaruakun**. Anaiyyuvin niġiuruq niġiḷḷiugniqaqtuq sisamanun uvlunut. Nunagni iñuuqpa titiraġniqmik ikayuġniaqtuq.
+- **Uqaluk uvvalu allakkaqsiq** tautukkun uqallakpiññiq savaaġnaqaġumi.
+- **Sivuniqsaq kiugiksraq** iñuum ikayuġumaġaŋa: „Quyanaq apiqsruġaviñ. Uvva ikayuġniqsaġitin.“
+- **Naagga uqaġumi utaqqiġuk** aliasuŋiḷḷuŋiññiq.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Allat isumagiksrat: iñuumik apiqsruġilugu iñuk naipiqtuaqpin iḷisimaġlugu uvluakun atauchimi piviuttaami, aullaqtitlugu sivitchuŋitchuakun, uvvalu tautukkami savaaqatigiiklugu. [Makpiġaaqput savaaqatigiiksramik](/caregiving/how-to-play-together/) tautuktuanun aitchuutiginiqsaġikput.
 
-## What if something happened to me?
+## Sumik iḷḷiŋniaqpa ilvich?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Sivulliq sivuniqsaq savak. NIA uqautiqsuqtuq iḷagiŋnik iñuutqunniklu isumaliuqł̣utik kia ikayuġniaqłuni, titiraqł̣utiḷḷu makpiġaami anniqsuutiqpaqaġumi quviasugniqsaġnik, aŋalatchiñiq ikayuutiŋiḷḷu, savaat ikayuutaqtut, quviasuutillu iñuum. Alzheimer's Association-lu uqautiqsuqtuq iñuum aŋalatchiŋi quviasugniqsaġit aŋalatchiñiġḷu ikayuutiŋi nutaaq paqinnasuġnaqługit.
 
-## When should I get professional or urgent help?
+## Qakugu aŋalatchim ikayuutiŋa uvvalu anniqsuutiqpaqaġumi ikayuutiq piñiaġiga?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Aŋalatchi uqautigilugu suŋiḷḷiq nalunaiqsautat aglaan iḷitchuġumi, aliasuŋniq iḷitchuġuvin, uvvalu ikayuqsraqpaŋŋuł̣utin. Aŋalatchiun uqautigilugu naipiqtuaqtutin. NIA uqallaktuq counselor-t social worker-tlu ikayuġniġaat isumani savaaġnaqtuanik sivuniqsaġniqmiklu, Medicare, Medicaid iḷaŋillu private insurance iḷaŋinik ikayuutinik akiḷḷiġniġaat.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Anniqsuutiqaġuvin uvvalu ilviññiq annaurrautikun isumaliuqtuġuvin, quviasuk uvvalu uqaluk 988-mun [988 Suicide & Crisis Lifeline](https://988lifeline.org/) tikitchuġlugu, akiḷḷaŋitchuaq atuqtauniaqtuq 24/7. Kiñaliqaa anniqsuutiqpaqaġumi, quviasuk 911-mun.
 
-## Can shared activities give me a break too?
+## Savaat savaaqatigiiktuat ikayuġniġaat ilviññiḷu?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Iḷaŋni. Savaat naglikkutigiqsaġikpiñ iḷḷivutlu iñuumlu naipiqtuaqpich naglikkutauniaqtuq uvluakun: atuutit atuqtuat naalaktuat, aglagviit tautuktuat, uvvalu savaaq [Conversation Cards](/games/conversation-cards/) kiugiksraqpaŋŋitchuaq. Iñuk iñuŋnik quviasukkuviuŋ, qanuqtuaq [Picture Bingo](/games/picture-bingo/) atullugu utuqaqtuanun igluani uvvalu adult day program-mi iḷḷivut ikarraamik aalakkaaŋiqsrauniaqtuq. Tautuk [savaat naipiqtuaqtiq igluani iñuŋnun](/activities/care-home-groups/) isumagiksranik.

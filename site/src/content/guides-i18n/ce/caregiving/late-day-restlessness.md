@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Сандаунинг: дийнан тӏаьхьара сакъера активносташ"
+seoTitle: "Сандаунинг: сакъера тӏаьхьарчу хенан активносташ"
+description: "Регуляран дийнахь, ювлан кеп, сакъера активносташ. Дукхахьа гӏо дан мегар ду дийнан тӏаьхьарчу хенахь лаам-хьостам лакха. Керлачу симптомаш хилча доктор кхьашде хьаьжар."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Сандаунинг — дийнан тӏаьхьара е дийнахь, сарахь гуттар хенахь, лаам, дош-дӏаяккхар е дӏакхуьучу лакхаман гуттар хилла. Практически гӏо дан мегар ду: регуляран дийнахь, дийнан тӏаьхьарчу хенахь дийнахь хьоьгуш, сийсаза кортаваьлла, дӏаяьккхина кайлаш, тӏаьхьарчу хенахь кофеин дукха йоцуш, дӏаяьхьа сийнан хьаьжарш, гайтина йоцу кхеташ, ювлан-сакъера хинца кхиабарш — музыка, суьрташ е лелар. Керлачу а, хийцаш а хилча доктор кхьашде хьаьжар.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Сандаунинг — дийнан тӏаьхьара хенахь лаам е дӏакхуьучу гуттар хилла, сарахь бен дӏа-йолу хенахь."
+  - "Декхарш, дӏаюккхуш ювлар а, къонахь бӏаьстар а дийнахь е дийнан сийсаза тӏаьхьарчу хенахь дӏаяккхар."
+  - "Сийсаза, дийнахь ювлан дийнахь, тӏаьхьарчу хенахь кортаваьлла дийнахь кофеин дукха йоцуш гӏо дан мегар ду дийнаха сакъера."
+  - "Дийнан тӏаьхьарчу хенахь хьоьгуш лаьмнаш, дош-дӏаяккхар сийсаза, сакъера, хьоьжуш активносташ."
+  - "Лаам хилча хьажар дагахь дӏатаха, дукха тӏаьхьара дагахь, кхиабар хилла гӏаь хилча, сакъера, гӏо дӏа-йолу дешнаш."
+  - "Керлачу симптомаш е хийцаш хилча доктор кхьашде: гурташ, инфекци е дарбанаш гӏо дан мегар ду."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Сандаунинг хенан тӏаьхьарчу хенахь мегар ду?"
+    a: "Дукхахьа дийнан тӏаьхьарчу хенахь е дийнахь сарахь, сийсаза кортаваьлла, хилла лаам. Хенан тӏаьхьарчу хенахь адамах адам йоцуш ду, шайна хьоьжуш, цхьа-ши кхин тӏаьхьа хьостам дагахь тӏехьа дан мегар ду."
+  - q: "Сандаунинга гӏо дан мегар ду мел активносташ?"
+    a: "Сакъера, хьоьжуш, цхьа-ши мацахь хилла хьостам дукхахьа гӏо дан мегар ду тӏаьхьарчу хенахь: сакъера музыка, суьрташ хьаьжар, дагахь вина кино е телевизор, лелар, мел дукха кхин хьостам е шудахьа цхьа ахь. Керлачу а, ницкъ ца хилла активносташ дийнахь хенахь хьаьжар."
+  - q: "Сандаунинг хилла ца ло медицинан хьостам?"
+    a: "Аьлла хилла гӏаь — дарба, инфекци, дукха йоцуш къонахь бӏаьстар е дарбан тесташа хьоьгуш. Керлачу хийцаш, дӏакхуьу е кхиабар хилча, ларам йолчу адамах доктор кхьашде."
+  - q: "Сандаунингах медицинан дарбан ойла доктора кхьашде?"
+    a: "Иза доктора кхьаш долу хьостам ду. Alzheimer's Association аьлла: дарбан бен йолу гӏо-кепаш дукхахьа хьаьжаш ду, дарба дӏа-хенахь тӏаьхьарчу хенахь лаам-хьостам лакхарш хилча, цуьнан пайда-дӏаяьккхар хьаьжаш. Иза дӏаабалар йоцу дарбан тема ду."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Дукха адамаш хьаьжар: дийнахь сакъера ю, амма дийнан хенан тӏаьхьарчу хенахь деменци йолу адам лаам, дӏакхуьу, дукха дӏакхуьу е дош-дӏаяккхар хилла. Иза кхаьчна лелар, «кхьо сийсаза» аьлла хьоьгуш (хьо дера хьоьжуш а), е оьздангалла йоцу дийнахь. Иза дукхахьа сандаунинг аьлла дуьйцу.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Цхьаьна дарба йоцу. Амма дийнан тӏехьар, цкъа, дийнахь хилла хьостам е дӏакхуьучу ювлар хийцар дукхахьа тӏаьхьарчу хенахь сакъера дан мегар ду. Иза хуьлу National Institute on Aging а, Alzheimer's Association а хьаьжаш долу дарба йоцу, медицинан бен йоцу кеп. Иза медицинан кхеташ цхьа ду. Керлачу симптомаш, хийцаш е кхиабар хилча, ларам йолчу адамах доктор кхьашде.
 
-## What is sundowning?
+## Сандаунинг хьо мел ду?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Сандаунинг — лаам, дӏакхуьу, дош-дӏаяккхар е дӏакхуьу, дийнахь ювхо сийсаза кортаваьлла, дийнан тӏаьхьарчу хенахь е дийнахь сарахь. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) аьлла: тӏаьхьара дукха кортаваьлла хилла адам дийнахь лаам дукха хилла.
 
-## What can make late-day restlessness worse?
+## Тӏаьхьарчу хенахь лаам мел хийцаш ду?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Цхьа-ши хийцаш хилла, дукхахьа цхьаьна. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) лакхарш ду:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- дийнахь дукха кортаваьлла ювлар;
+- ницкъ ца хилла е дуьхьала хилла мехалли;
+- «дегнашхьа сахьта» кхаьна, дийнахь сийсаза, къонахь охьа хьоьгуш;
+- сакъа юккъера е йолу тӏехьар, цуьнан шадерш дӏаяккхар;
+- ларам йолчу адамах дукхах ювлар е дӏакхуьу лелар;
+- къонахь бӏаьстар дукха йоцуш, дукхахьа оьлдар.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA аьлла дӏаяккхар мел хийцаш ду, цуьнан тӏехьара: дарба, дукха дийнахь е къонахь хьоьгуш, дукха юккъера дош, е дарбан тесташа хьоьгуш.
 
-## How can I plan the day to make evenings calmer?
+## Дийнахь хенан тӏехьар мел ... ювлан хьостам?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Декхарш тӏаьхьарчу хенахь дӏатаха, тӏаьхьарчу хенахь сакъера, хьоьжуш хилар дӏатаха. Регуляран дийнахь гӏо дан мегар ду — NIA а, Alzheimer's Association а иштта аьлла. Дийнан хьостам, шуна тӏехьа долу:
 
-| Time | What may help |
+| Хен | Мел гӏо дан мегар ду |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Дийнахь | Кхаьнашаш, бӏаьстар, ювлар а, цхьа декхар а, — адам дукхахьа кехат хилча |
+| Къонахь тӏаьхьара | Дега е сийлахь кӏел юккъера; лелар е кхин активность |
+| Юккъера | Дукха оьздангалла йолу дӏаяккхар; дукха дега е хьоьгуш; кофеин йоцуш |
+| Дуьххьара тӏаьхьара | Сакъера хилла, сийсаза кортаваьлла, ... ювлар |
+| Юккъера сийсаза | Сакъера, хьоьжуш активносташ; дега е хьоьгуш; кофеин йоцуш |
+| Дийнан тӏаьхьара | Цхьа ахь дийнахь мел, тӏаьхьарчу хенахь хьоьгуш; ювхо дӏа-хьоьжуш |
+| Дийнан тӏаьхьара | Тӏехьа, сакъера дегнаш; дийнахь сакъера ювлар |
 
-A few specific points from the sources:
+Иза хьо дукхахьа ювхо сийсаза хьоьгуш:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Дийнахь.** NIA аьлла: дийнахь сийсаза дийнахь е кӏелахь хьоьгуш гӏо дан мегар ду.
+- **Дукха ювлар, амма дукха йоцуш.** Дийнахь ювлар дукха йоцуш, хьоьгуш ювлар дӏаяккхар. NIA аьлла.
+- **Тӏаьхьарчу хенахь хьоьгуш.** Алкоголь а, кофеин дукха йолу хьоьгуш (кофе, кола) тӏаьхьарчу хенахь ца тоьхьар (NIA). Alzheimer's Association никотин а дуьйцу.
+- **Сийсаза.** Тӏаьхьарчу хенахь дукха, дукха сийсаза йолу къонахь бӏаьстар ца хилар (NIA). Alzheimer's Association аьлла: къонахь лаам хилча, дийнахь къонахь бӏаьстар ца дӏаяккхар.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Регуляран дийнан тӏехьар хьаьжар, хьо [дийнан тӏехьара активносташ](/activities/daily-routine/) хьоьжуш.
 
-## How can I make the home calmer in the late afternoon?
+## Тӏаьхьарчу хенахь хьоьгуш сакъера мел дан мегар ду?
 
-Reduce noise, add light and keep familiar things close.
+Дош-дӏаяккхар дукха йоцуш, сийсаза кортаваьлла, дийнахь сакъера дан.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Сакъера, дегнаш сийсаза.** Alzheimer's Association аьлла: къонахь сийсаза кортаваьлла дийнахь гӏо. Сийсаза сийсаза кортаваьлла, хилла юхь лакхарш.
+- **Дош-дӏаяккхар дукха йоцуш.** Телевизор, радио дӏаяккхар е тӏаьхьарчу хенахь хьоьгуш. Alzheimer's Association аьлла: тӏаьхьарчу хенахь телевизор, декхарш, дукха музыка дӏа-дукха йоцуш.
+- **Ювлан-сакъера хинца.** NIA аьлла: сакъера музыка, дукха ларам ювлан хьостам, суьрташ дийнахь кортаваьлла.
+- **Тӏехьа адам дийнахь хьаьжар.** Alzheimer's Association аьлла: лаам, дӏакхуьу, хьоьгуш, къонахь бӏаьстар, сийсаза, инфекци, кожа дӏакхуьу шайна хьажар; дийнахь сакъера адам тӏехьа.
+- **Шуна дагахь.** Адамах дукха дагахь дӏатаха. NIA аьлла: шуна дукха дӏатаха, дагахь гайтина ца дӏатаха.
 
-## What calm activities can we do in the late afternoon?
+## Тӏаьхьарчу хенахь мел сакъера активносташ дан мегар ду?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Ницкъ ца хилла, хьоьжуш, сийсаза кортаваьлла активносташ хьаьжар. Alzheimer's Association аьлла: сакъера музыка, суьрташ е дагахь вина кино, цкъа лелар, сакъера дега. NIA аьлла: хьоьгуш, дагахь телевизор, музыка, лелар, дешар, е цхьа ахь — ахь-лакха кхаьнаш, масала, лелар.
 
-Ideas to try:
+Ахь хьоьжуш ювлар:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Ахь лелар.** NIA аьлла иштта ахь. Ахь мел йолу хьостам дукха, хьоьгуш.
+2. **Дагахь вина музыка.** Цхьана кхаьнашаш-дешнаш, сакъера даьхьа. Дӏаюккхуш, дукха даха. Мел музыкан активносташ — [музыкан активносташ](/activities/music/).
+3. **Суьрташ хьаьжар.** Суьрташ-туьйра, е [Photo Pairs](/games/photo-pairs/) гӏо дан, суьрташ гайтина, цхьа дешар.
+4. **Сийсаза лелар.** Кӏел, дег, е коридор, сийсаза кортаваьлла.
+5. **Хьоьгуш, дега.** Дукха йоцуш, дега, кофеин йоцуш, мехалли-юккъера.
+6. **Сакъера цхьа ахь.** [Picture Pairs](/games/picture-pairs/), цхьа кийча суьрташ гайтина, юха ца хьоьжуш.
+7. **Колоринг.** [Coloring](/games/coloring/) — экранахь е кехатахь, дӏаяьккхина ца дан.
+8. **Хьаьжар, дешар.** [Conversation Cards](/games/conversation-cards/): суьрт а, дешар а. Хьаьжар кхин мел дан.
+9. **Тӏаьхьара дехар.** [Calm Breathing](/games/calm-breathing/) — сакъера дехар, шуна дӏаюккхуш.
+10. **Кийчара хьостам.** Тӏехьа кнопкаш, е шарна, дегнаш, е дагахь вина хӏума. Вода: [сенсорни активносташ](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Тӏаьхьарчу хенахь ницкъ ца хилла хьостам, дукха дӏа-йолу кехаташ, е дагахь ювлар дукха ... ца дан. Иза дийнахь дан.
 
-## What should I do when restlessness starts?
+## Лаам хилча мел дан мегар ду?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Сакъера хилла, гӏо дӏа-хилла, дӏа-хьоьгуш. NIA аьлла: дешар сакъера, дош-дӏаяккхар ца дан, ларам йолчу адамах дешнаш дагахь, шуна дӏаюккхуш, дегнаш тӏехьа. Тӏаьхьарчу хенахь дегнаш: хьоьгуш, дега, е дукха сийсаза.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association аьлла: «Бертахь хьо дика ю» е «Сан хьоьга гӏаь ду, хьо доьхна ву» иштта дешнаш. Сакъера дегнаш: ларам йолчу адамах ца кхачар, ца дӏатаха, ца хьоьгуш, ца дош-дӏаяккхар.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Адам агрессивни хилча, NIA аьлла: цкъа дийнахь ца кхачар, ахь-лакха кхаьнаш ца дан. Кхин хенахь, 112 кхьашде е аьлла: адам деменци йолу.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Шу [дешан хьостам](/caregiving/communication-tips/) а, [хьо «ца» аьлла хилча мел дан мегар ду](/caregiving/when-they-say-no/) а хьаьжар — хӏинца дешнаш.
 
-## How do I find the triggers?
+## Гӏо дӏа-хилла мел хьостам хьаьжар?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Цхьа-ши кхин тӏаьхьа хьаьжар: дийнахь, хенан тӏаьхьарчу хенахь хилла лаам. Цхьа-ши кхин дийнахь хьо дагахь дӏатаха — хенан, дагахь хилла хӏума: лаам хилла хенахь, цуьнан хьалхара хенахь, сийсаза кортаваьлла, дийнахь е къонахь хьоьгуш, дош-дӏаяккхар, дегнаш. Ахь ларам йолчу адамах доктор гайтина. NIA аьлла: адамах дукха хьо дагахь кхиабар хилла цуьнан дукха йоцу, лакхарш хьо дукха тӏаьхьара.
 
-## When should I call a doctor about sundowning?
+## Доктора кхьашде мел хенахь?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Доктора кхьашде, лаам хилча кхиабар, е дукха хийцаш хилча. NIA аьлла: дукха йолу тӏехьар, инфекци е дарбан хийцаш тӏаьхьара, доктора даьхьа дукха дӏатаха.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Доктора хьаьжар хьо мел дӏа-хилла: Alzheimer's Association аьлла: инфекци (коьрта гӏо бӏаьстар), къонахь бӏаьстар ца тӏехьар, кхин тӏехьа дукха, апноэ. Иза аьлла: дарбан хенахь хьоьгуш мел дӏа.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association аьлла: Alzheimer's-ан къонахь лаам дарбан бен гӏо-кепаш дукхахьа хьаьжаш ду, дарба тӏаьхьарчу хенахь лаам-хьостам дукха хилла, пайда-дӏаяккхар хьаьжар. Иза доктора кхьаш долу хьостам ду. Дарба, къонахь дарба, е кхин дарба ца дӏаяьккхар, ца хийцар доктора йоцуш.
 
-## How do I get through the evenings myself?
+## Тӏаьхьарчу хенахь ларам йолчу адамах мел хилла дӏа?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Тӏаьхьарчу хенахь дукха ларам йолчу адамах кхин дукха дӏа хилла. Хьо хилча, дукха дийнахь цхьана дехар, дукха дегнаш — иштта цхьа-ши сахьт кхиа. Цхьа дийнахь сахьт, цхьа дукха дош, ларам йолчу адамах. Хьо дукха дӏа-хилла [ларам йолчу адамах оьздангалла](/caregiving/caregiver-self-care/) тӏехьа: иза дегнаш, оьздангалла, Alzheimer's Association 24/7 Helpline, ахь дӏа-хьоьгуш хилла.

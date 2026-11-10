@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Деменци йолчу наха лело хӀуманаш: 101 атта хьехам"
+seoTitle: "Деменци йолчу наха лело хӀуманаш: 101 хьехам"
+description: "Деменци йолчу баккхийчу наха лело 101 атта хӀума: кхачанаш дохкар тӀера музыке а суьрташка а хьажар тӀекхаччалц, хӀоранна хала хилча муха атта дан деза а дуьйцуш."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Деменци йолчу наха лело дика хӀуманаш — уьш девзаш долу, баккхийчарна йогӀуш,
+  цхьаьна атта лело йиш йолуш хуьлу: бедарш дохкар, вовшахтохар, яа кечдар,
+  музыка ладегӀар, суьрташка хьажар, гӀаш лелар, бошмашлелор, дийнаташца хан
+  йаккхар, атта ловзарш. Хьо хьожуш волчу стеган даиманна хазахетта хӀуманаш
+  харжа, хала долу дакъош хьайна тӀе эца, цуьнан умор йийча сацо. Муьлххачу а
+  хӀуманах чекхваларел хьалха цхьаьна хазахетта хан йаккхар мехала ду.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Хьо хьожуш волчу стеган шен дахарах доладе: цуьнан болх, хобби, дин, дукхахезаш долу музыка — уггаре дика новкъ хьожуьйтург уьш бу."
+  - "Оьшучу хенахь муьлхха а хӀума жима де: гӀулчаш кӀезиг хилийта, харжамаш кӀезиг хилийта, хала долу дакъа хьайна тӀеэца."
+  - "Терго яр, хӀума карахь латтор, йа уллохь цхьана хилар а — дакъалацар ду."
+  - "Умор, оьгӀазалла, йа самукъане ца хилар гича, сацо йа кхечу хӀуманна тӀе вола. Хьалха сацар — дика жамӀ ду."
+  - "Нийса дарел хьалха цхьаьна дар мехала ду."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Деменци йолчу стагана муьлха хӀуманаш мегар ду?"
+    a: "Хьо хьожуш волчу стага дуккха шерашкахь дина девзаш долу хӀуманаш, жимма атта дина: бедарш дохкар, стоьл хӀоттор, яа кечдар, музыка ладегӀар, суьрташка хьажар, гӀаш лелар, бошмашлелор, дийнатца хан йаккхар. Баккхийчарна йогӀуш, пайдехь хеташ долу хӀуманаш харжа, цхьаьна де уьш."
+  - q: "ХӀума мел хан йойуш лело деза?"
+    a: "Нийса хан цхьа а дац. Цхьацца дийнахь масех минот кхачанаш дохкар тоьуш хила тарло, ткъа кхечу дийнахь бошмашкахь сахьт даьккхича а атта хета тарло. Хьо хьожуш волчу стагана шен сихалла харжа бакъхийла, хӀинца а хаза хетачу хенахь сацо."
+  - q: "Нагахь санна хьо хьожуш волчу стага хӀума дан лаа ца хилахь?"
+    a: "Ницкъ ма бе. «ХӀан-хӀа» бохучу дашо билгалдаккха тарло хӀума чӀогӀа хала хеташ хилар, хан нийса ца хилар, йа цуьнан умор йина хилар, йа цунах там ца хеташ хилар. ТӀаьхьа хьажа, жима кеп кховда, йа хьо ша уллохь доладе, гӀо деха цуьнга."
+  - q: "Деменци йолчу наха лело коьртан ловзарш дика дуй?"
+    a: "Ловзарш цхьаьна хаза хан йаккха тарло, амма цхьа а ловзаро деменци дарбан ца до, меллаша ца йо, сацо а ца йо аьлла гайтина дац. Хенан доза а, очкош а, гӀалатах лаьцна аз а доцуш ловзарш харжа, уьш цхьаьна лело хӀума санна леладе, зиер санна ма леладе."
+  - q: "ХӀуманаш бераш санна ца хетийта муха до?"
+    a: "Бакъдолу, баккхийчарна йогӀу гӀирсаш лелабе: бакъдолу кхачанаш, бакъдолу рецепташ, баккхийчарна лерина музыка а исбаьхьаллин гӀирсаш а, баккхийчарна йогӀу суьрташ. ХӀуманаш хьайна бакъ долуш оьшуш долу гӀо санна дӀахьедаде, хьо хьожуш волчу стагаца иза волу баккхий стаг санна къамел де."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Деменци йолчу стагана уггаре дика хӀума дукха хьолахь иза ша хууш йолу хӀума хуьлу — жимма атта дина, цуо тешаш волчу стагаца цхьаьна лелош. Лахахь 101 хьехам бу, тайпанашца декъна, хӀоранна муха кечдан деза а, хала хилча муха атта дан деза а дуьйцуш. Башха гӀирс оьшуш бац, муьлххачу а хӀуманах чекхвала а ца оьшу. Дика делкъе — цхьа тускар кхачанаш а, цхьаьна къаьхьа кофе а хила тарло.
 
-## How do you choose the right activity?
+## Нийса хӀума муха харжа деза?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+МогӀамах ца хьоьжуш, хьо хьожуш волчу стагах хьоьжуш харжа: цуьнан даиманна хазахетта хӀуманех, тахана цунна атта хетачу хӀуманех доладе.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Цуьнан болхе а хоббина а хьажа.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) боху, хьалха офисехь болхбина стагана ахча вовшахтохар йа кехаташ вовшахтохар хазахета тарло, ткъа бошмашлелорхочунна арахь болх хазахета тарло.
+- **Цо хӀинцале ден долу хӀуманаш тидаме эца.** Нагахь санна хьан дас хӀора Ӏуьйрана шена ца а элира гӀант цӀанйеш хилча, иза дийнан декъе даккха.
+- **Дозанаш лоруш хӀоттаде.** Умор, бӀаьрса, хазар, куьйгийн лазам, тера хиларан хьал — дерриге а мехала ду.
+- **Цуьнан синан хьал тидаме эца.** Цхьаболчу нахана сиха, гӀовгӀанца долу хӀуманаш догӀу, ткъа кхечарна уьш кхераме хуьлу.
+- **Ӏалашо йалийта.** Килсан суьйренна салфеткаш дохкар ша-шена лерина упражнениел пайдехь хета.
 
-### A rough guide by stage
+### Муьрашца боьзна йоца хьехам
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Деменцех лаьцна дукха хьолахь хьалхара, йуккъера, тӀаьхьара муьраш олу. Уьш луьра дозанаш дац, дуккхачу наха атта а, хала а денош хуьлу, цундела тахана хьо гуш дерг ларбе. [Alzheimer's Foundation of America-н муьрашца йоьзна могӀамо](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) иштта кеп лелайо.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Тема | Хьалхара мур | Йуккъера мур | ТӀаьхьара мур |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Хьуна гуш хила тарлуш дерг | Алсама шена тӀехь; план хӀоттор, керла цӀераш, сийна меттигаш хала хуьлу | Долорехь а, гӀулчашкахь а гӀо оьшу; дешнаш хала каро | Дукхаха долчу хӀора дийнан гӀуллакхехь гӀо оьшу; синхаамаш алсама мехала хуьлу |
+| Дукха хьолахь догӀуш долу хӀуманаш | Карташ, ловзаран у, яа кечдар, бошмашлелор, дневник йаздар, арахь гӀаш лелар, тобанаш | Бедарш дохкар, вовшахтохар, яа кечдаран атта гӀулчаш, иллеш алар, фотоальбомаш, цхьаьна гӀаш лелар | Дукхахезаш долу музыка, куьйгашна массаж, кӀеда хӀуманаш карахь латто, йоьшуш ладегӀар, арахь ховшар |
+| Хьан роль | Накъост: цуьнга муьлха гӀо оьшу хаьа | Кечде, гайта, хала долу дакъош тӀеэца | ХӀума цуьнга тӀе кхачаде; хьо уллохь хилар — хӀума ду |
+| Кхин а хьехамаш | [Хьалхара мур](/activities/early-stage/) | [Йуккъера мур](/activities/middle-stage/) | [ТӀаьхьара мур](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Деменци йолчу стагаца хӀума муха доло деза?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Жима доладе, цуьнца цхьаьна доладе, «хаъ» ала атта хилийта. Дуккха нахана дакъалаца лаахь а, план хӀотто йа доло хала хуьлу.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Цуьнан уггаре дика хан харжа,** дукха хьолахь Ӏуьйре.
+2. **Дерриг хьалха дӀахӀоттаде,** сихха доло йиш хилийта.
+3. **ГӀо деха, зиер ма де:** «ХӀокхуьнца жимма гӀо дийр дарий суна?»
+4. **Хьо ша доладе.** Хьалхара кхач деха, цуьнга тӀаккха кхета бакъхийла. Гайтар кхеторел атта ду.
+5. **Цкъацца цхьа гӀулч бен ма кховда.**
+6. **Уггаре хала дакъа тӀеэца.** Alzheimer's Association боху, хьо ша барам билгалбаккха, тӀаккха цуьнга Ӏовшаран кӀеда дӀалаца.
+7. **Цуьнан кепара дита.** Кхечу кепара дехкина кхачанаш мегар ду.
+8. **Хаза хетар сацча сацо.** Меттах ца хилар, цӀенга хадор, йа «суна ца ло» алар — хийца йа садаӀа хан хилар гойту.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Кхин а хьажа: [цхьаьна муха ловза деза](/caregiving/how-to-play-together/) а, [къамелан хьехамаш](/caregiving/communication-tips/) а.
 
-## Everyday tasks at home
+## ЦӀахь ден долу хӀора дийнан гӀуллакхаш
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+ЦӀера гӀуллакхаш девзаш а, пайдехь а ду, цундела уьш дика йуьхьиг хуьлу. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) боху, пхьегӀаш дар, стоьл хӀоттор, гӀант цӀанйар, пошт вовшахтохар, бедарш дохкар — нахана хазахета хила тарлуш долу хӀуманаш ду. Кхин а [цӀера гӀуллакхашкахь](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Йовха кхачанаш деха.** Йоккхучу машенера тускар стоьлана тӀе дӀабилла, цхьаьна деха. ТӀаьхьа, кхачанаш нийса а деш, вовшахтухуш а гӀо дало мегар ду.
+2. **Мочкъаш вовшахтуха.** ЧӀогӀа башха басарш йолчеран тӀера доладе. ТӀаьхьа, сирлачарна а боданечарна а декъар тоьуш ду.
+3. **Стоьл хӀоттабе.** Цкъацца цхьана тайпана хӀума дӀалаца. Хьо ша цхьа меттиг хӀоттаде, масал санна.
+4. **ПхьегӀаш дӀадаха йа декъа.** Йовха, сапоне хи а, доха ца ло пхьегӀаш а. Ховшуш декъар когашна атта ду.
+5. **Стоьл дӀацӀанде.** Даар мел делча тӀеда кӀади дӀалаца. Меттах ца хуьлу куьйгашна иза бакъ болх бу.
+6. **Пошт вовшахтоха.** Каталогаш а, оьшуш йоцу кехаташ а «Ӏалашдан дезарш» а, «йуха лело дезарш» а бохуш декъа. Бакъдолу чоьташ цигахь ма дитаде.
+7. **Купонаш хадо.** Гоьрга йуьхьиг йолу мӀараш а, туьканийн газеташ а леладе. ТӀаьхьа, дукхахезаш долу яаршна го баккхар а мегар ду.
+8. **Ахча вовшахтоха.** Ахча кедаш чу йа рулонаш чу дӀахӀиттаде. ХӀума баттахь тухучарна жима хӀуманаш ма леладе.
+9. **ГӀант цӀанйе йа чан цӀанйе.** ГӀант тӀехь йайн гӀад, йа гӀант тӀехь ховшуш лелош йолу деха тӀам.
+10. **Яа кечдеш гӀо де.** Хасстоьмаш дӀадахар, салат дагор, Ӏовшар. Урсаш а, йовхо а хьо леладе.
+11. **Доьзалан рецептца хӀума дага.** Нагахь санна цуьнан куьйгаца йаздина карточка йелахь, иза леладе. ТӀаьхьа, цо зиер дан мегар ду.
+12. **Офисан болх бе.** Кехаташ деха, конверташ чу дӀахӀиттаде, маркаш тӀетоха, йа цхьаьна эцарийн могӀам йазбе.
 
-## Music
+## Музыка
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Девзаш долу музыка дукха хьолахь нахана тӀекхочу, дешнаш хала делча а. [Alzheimer's Association-н музыках лаьцна хьехамаша](https://www.alz.org/help-support/caregiving/daily-care/art-music) боху, девзаш долу иллеш лелайе, рекламаш йоцуш, телевизор дӀайайийна. Хьажа [музыкин хӀуманаш](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Шен долу плейлист хӀоттайе.** Цуьнан жималлехь а, къоначу хенахь а ладегӀна музыка, цуьнан ловзаран дийнахь хезна иллеш, килсера а, оьздангаллера а музыка.
+14. **Цхьаьна илли ала.** Хьо ша доладе илли олуьйтуш. КӀажар йа ладегӀар а тоьуш ду.
+15. **Ритм ларбе.** Караш детта, голашна детта, йа жима вотана тӀе тоха. Ховшуш а, тӀаьхьарчу муьрехь а мегар ду.
+16. **Хелхар де.** Кухнехь меллаша хелхар, йа караш лаьцна ховшуш лестар.
+17. **Йерриг альбом ладегӀа.** Дукхахезаш долу альбом йуьхьанцара чаккхенга кхаччалц, кофеца, кхин хӀума а доцуш.
+18. **Музыках лаьцна къамел де.** Бакъдолу жоьпаш ца доьхуш, дийцарш кховда: «Хьо хелхаре муха воьдуш хилла, схьадийца суна.»
+19. **Фильме йаьккхина мюзикл йа концерт хьажа.** Цуьнан йезаш йолу гӀуллакх дика суьйре хила тарло. Муьлххачу хенахь а сацо.
+20. **Девзаш долу пондур лакха.** Хьалха пианино лакхош хиллачу стагана атта дакъош хазахета тарло; тӀаьхьа, цхьаьна масех аз лакха.
+21. **Дийна музыка ладегӀа.** Йоца йукъараллин концерт йа хоро репетици. Араволучохь уллохь ховша.
 
-## Reminiscence: photos, objects and stories
+## Дагалецамаш: суьрташ, хӀуманаш, дийцарш
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+ДӀадаханчу хенах цхьаьна хазахета, зиер а ца деш. «ДагадогӀий хьуна...?» йа «ХӀара мила ву?» бохучу хаттарех ларло, ткъа къамеле кхойкху дешнаш леладе. Хьажа [дагалецаман хӀуманаш](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Фотоальбоме хьажа.** Хьуна гуш дерг ала: «Мел хаза духар ду. ХӀокху дийнех лаьцна схьадийца суна.» Цо лелош долчу муьлххачу а цӀаршна реза хила.
+23. **Дагалецаман коробка хӀоттайе.** Цуьнан дахарах долу хӀуманаш йолу мачийн коробка, масала белхан тӀехь лелийна карточка йа рецептан карточка. ХӀуманаш цкъацца цхьаъ дӀайахьа.
+24. **Дахаран историн жима книга доладе.** АгӀонна масех суьрт, доккха зорбанца йаздина куьйгашца. Керла гӀо деш болчу нахана и стаг довза гӀо до иза.
+25. **Къамелан карточкаш леладе.** [Къамелан карточкаш](/games/conversation-cards/) суьртан тӀехь къамеле кхойкху хаттар ло.
+26. **Доьзалан суьртийн ловзар хӀоттаде.** [Суьртийн шиъ цхьатерра](/games/photo-pairs/) хьан суьрташ вовшахтуху ловзаре доьрзу.
+27. **Доьзалан фильмаш йа шира телевизионан передачаш хьажа.** Хаттарш ца луш, цхьаьна къамел де.
+28. **Цуьнан белхан дахарах долу хӀуманаш карахь латтаде.** Гаьннаш, стетоскоп, журнал. Дукха хьолахь куьйгаша дийцар дӀадоладо.
+29. **Бераллехь яьккхина яа кечде.** Цо Ӏовша йа зиер дан мегар ду, йа хьоьца кухнехь хила мегар ду.
+30. **Цо Ӏийна меттигийн картине хьажа.** Доккхачу атласан тӀехь девзаш долу некъаш билгалбоху, цхьаьна къамел а деш.
 
-## Creative activities
+## Кхоллараллин хӀуманаш
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Исбаьхьалла — иза дар ду, чекхдаьккхина хӀума дац. ГӀирсаш баккхийчарна йогӀуш а, кхерамза а хилийта. Хьажа [исбаьхьалла а, куьйга говзалла а](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Хин басаршца сурт дилла.** Стомма кехат, масех бос. Доло хала хилча, хьалхара сизаш цхьаьна дехка.
+32. **Баккхийчарна лерина сурт дилла.** Зезагаш йа вуьш саннарш, мультфильмаш дац. Тхан [басаршца дуттуш йолу агӀонаш](/games/coloring/) экран тӀехь а, зорба тоьхна а лело мегар ду.
+33. **Коллаж хӀоттайе.** Журналшкара бошмийн, машенийн, яарх лаьцна суьрташ дага, тӀелато. ТӀаьхьа, суьрташ харжар бен тоьуш ду.
+34. **Зезагаш дӀахӀиттаде.** Туьканера зезагийн букет а, ваза а. ТӀаьхьа, масех зезаг жимачу банки чу.
+35. **Цхьаьна плетени йа крючокца болх бе.** Доккхачу Ӏуьргашца атта могӀанаш. ТӀаьхьа, тайнаш топашка тохар.
+36. **Доьзална открыткаш хӀиттае.** Бакъдолу нахана вина де йа могушаллина лаьцна открыткаш тӀе куьг йазде, штампаш йа хаздарш хӀиттаде.
+37. **ХӀаваэхь йакъало поппар кечде.** Жима бошхап кепе бе. ДӀовш доцу гӀирсаш леладе, уллохь хила.
+38. **Дечиг цӀанде, кечде.** Хьалха хадийна олхазарийн цӀийнан комплект а, наждакъан кехат а, электро-гӀирсаш йоцуш. Хьажа [божаршна лерина хӀуманаш](/activities/for-men/).
+39. **Кехат йазде йа дӀадийцийта.** Берийн берна йа шира доттагӀчунна. Йаздар хала хилча, цо дийца, хьо йазде.
 
-## Outdoors and gardening
+## Арахь а, бошмашкахь а
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+ЦӀена хӀаваъ а, дийнан серло а дика накъост бу. Хьажа [арахь а, бошмашкахь а лело хӀуманаш](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Ораматашна хи дилла.** Жима лейка а, масех кхаба а. ХӀора дийнахь хи дилларо дийнан низам латтадо.
+41. **Кхаьба чу дийгӀа.** Стоьлана тӀе хӀоттаде, цхьанне а голаш тӀе ца ховшийта. Кегий ораматаш хӀу дийнел атта ду.
+42. **Коьллаш дӀадаха йа йаьлла зезагаш дӀадаха.** Каранаш йохуш, цкъацца жима меттиг.
+43. **ГӀаш вовшахйаха.** Жима меттиг. ТӀаьхьа, тӀоьрмиг схьайиллина латтор а бакъ болх бу.
+44. **Девзачу некъаца гӀаш лела.** ЦӀенон гонаха йа поштан яьшкан тӀе. Йоцург а тоьу.
+45. **Арахь цхьаьна ховша.** КӀеда дийнахь гӀант тӀехь. Мархашка йа дӀа-хьа боьдучу нахана хьажа.
+46. **Олхазаршна кхача бе.** Цхьаьна кхачанийн меттиг дузаде, корехула хьажа.
+47. **Машен дӀайила.** Хорха, губка, йовха делкъе. Чкъургаш дӀадар атта цхьа гӀулч ду.
 
-## Sensory activities
+## Синхаамийн хӀуманаш
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Деменци чӀогӀа мел йолу, барам хьакхар, хьожа йар, чам хьакхар, хазар, бӀаьрса хилар алсама мехала хуьлу. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) хьахайо музыка, карахь латто хӀуманаш, тӀаьхьарчу муьрашкахь куьйгашна массаж. Хьалха аллергеш а, батта йохаран кхерам а талла; хьажа [синхаамийн хӀуманаш](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Куьйгашна массаж йе.** Хьалха хатта, жимма лосьон леладе. ЦӀоканан йа аллергин хаттарш хилахь, хьожа йоцург харжа.
+49. **КӀадийн тайпанаш хьакха.** Бархат, вельвет, тӀаргӀа, атлас йолу тускар — дӀахилла, деха.
+50. **Бецашна а кофена а хьожа йе.** Керла мята йа розмарин пӀелгашца Ӏовта. СадоӀу халонаш йолчарна чӀогӀа хьожа йиш йоцург леладе.
+51. **Цуьнан месаш хилар де.** Меллаша, кӀеда, цунна хазахетахь.
+52. **Йовха тӀеда кӀади дӀалаца.** Шийлачу дийнахь куьйгашна а, йуьхьана а. Хьалха температура хьажа.
+53. **Белхан фартукца болх бе.** ЧӀогӀа тӀетоьхна доккха нуьйдарш а, молниеш а йолуш. ХӀума дӀа ца йолуш хилар талла.
+54. **Дукхахезаш долу мерза хӀума ло.** Жима Ӏайг, цунна кхерамза текстурица.
+55. **Ӏаламан азаш ладегӀийта.** ДогӀа, тулгӀенаш, йа олхазарийн аз — лахарчу барамехь.
+56. **Меллаша хуьлучу хӀуманна хьажа.** ЧӀерийн аквариум, Ӏаламан видео, йа охьаоьху ло.
 
-## Games and puzzles
+## Ловзарш а, головоломкаш а
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Ловзарш болх бо, хенан доза, очкош, йа тӀеӀаткъам ца хилча. Зиер санна хетачу хенахь, дӀахӀоттаде. Хьажа [приложенеш а, ловзарш а муха харжа деза](/caregiving/choosing-apps-and-games/) а, [коьртан ловзарш](/brain-health/brain-games/) а.
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Суьрташ вовшахтуха.** [Суьртийн шиъ цхьатерра](/games/picture-pairs/) суьрташ хьала а йиллина йуьту, цундела и дагалацар дац, тидам бар ду.
+58. **Цхьатерра сурт каро.** [Цхьатерра сурт лаха](/games/find-the-same/) шиъ тӀера диъ кхаччалц харжам ло. ХӀора суьртах лаьцна къамел де.
+59. **Тускараш чу вовшахтоха.** [Цхьаьна вовшахтохар](/games/sort-together/) — мачкъаш вовшахтохаран экранан кеп ю.
+60. **Доккха дакъош долу пазл хӀоттае.** Баккхийчарна йогӀу суьрташ, атта дакъойн барам. [Суьртан пазл](/games/picture-puzzle/) йерриг сурт гуш йуьту. Кхин а [деменци йолчарна лерина пазлашкахь](/activities/puzzles/).
+61. **Шира картин ловзар ловза.** Шерашкахь ловзийна ловзар. ТӀаьхьа, картийн колода басарца вовшахтохар ша ловзар хуьлу.
+62. **Домино ловза.** Йуьхьигаш вовшахтуха. ТӀаьхьа, тайнаш могӀане дӀахӀиттор а тоьу.
+63. **Доккха зорбанца дешнийн лехам хьажа.** Тхан [дешнийн лехамехь](/games/word-search/) дешнаш аьтту агӀор а, охьа а бен дац, зорба а тоха мегар ду.
+64. **Девзаш долу кицанаш чекхдаккха.** [Кица чекхдаккхарехь](/games/finish-the-saying/) муьлххачу хенахь а чаккхе гайта мегар ду.
+65. **Суьртийн бинго ловза.** [Суьртийн бинго](/games/picture-bingo/) доьзалшна а, тобанашна а мегар ду. Карташна билгало йахарехь маьрша гӀо де.
+66. **Шашкаш ловза.** Бакъонаш луьра ма де. Хьоьца къамел а деш дакъош дӀасалелор тоьу.
 
-## Movement
+## Лелар
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA боху, гӀаш лелар, меттах ца йолу велосипед, садоӀу резинаш, кӀеда буьрка йа шарик кхийсор, шурин банки айар, баккхийчарна лерина упражненийн видеош. Керла хӀума долале, лоьран хатта, башха тера хиларан бала белахь.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Шарик кхийса.** Вовшен дуьхьала ховша. Иза меллаша лела, цундела схьаэца атта ду.
+68. **Баккхийчарна лерина ховшуш лело упражненийн видеоне тӀаьхьа хьажа,** цхьаьна.
+69. **Резинаца садоӀар де.** Йайн резинаца куьйгаш меллаша садоӀа, ховшуш.
+70. **Шурин банки айа.** Музыке ладоьгӀна, меллаша куьйгаш айар.
+71. **Меттах ца йолчу велосипеде ховха.** Масех атта минот, хьо уллохь а волуш.
+72. **КӀадешца хелхар де.** Музыке ладоьгӀна йайн кӀадеш лестаде, ховшуш йа лаьтташ.
+73. **Ӏалашонца гӀаш лела.** Кехат дӀакхачо йа кофе эца. ДӀавала бахьана хилар Ӏаламан ду.
+74. **Цхьаьна садаӀаран пауза йе.** [Тийна садоӀарца](/games/calm-breathing/) цхьаьна меллаша хила.
 
-## Social activities
+## Юкъараллин хӀуманаш
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+ЦӀераш хала делча а, уллохь нах хилар мехала ду, ткъа жима тобанаш яккхийчарел атта ду. NIA билгалдоккху, стагана хьаша мила ву ца дагадогӀуш хилча а, дукха хьолахь цуьнан йукъаралла хазахета. Хьажа [хьешаш тӀеэцар](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Цкъацца цхьаъ йа шиъ хьаша тӀеэца.** Йоца хьешаш тийна чохь, цхьаьна хьажа суьрташ а долуш.
+76. **Доьзалца видео-зӀе хӀоттайе.** Йоца зӀенаш, цкъацца цхьа аз. Хьажа [телефонан а, видео-зӀенан а къамелаш](/activities/phone-and-video-calls/).
+77. **Дагалецаман кафе хьажа.** Деменци йолчу нахана а, царна хьожуш болчарна а лерина маьрша вовшахкхетарш. Уллохь хӀун ду хаа, шайн меттигерчу Area Agency on Aging-е хатта.
+78. **Тийначу хенахь арахь даа.** NIA боху, девзаш йолу, тийна ресторан харжа сийначу хенахь, хьаштан чоьнан уллохь стоьл а эцна.
+79. **Баккхийчарна лерина йукъ йа дийнан программа хьажа.** Царна йукъаралла, хьуна садаӀа хан.
+80. **Берашца хан йаккха.** Берийн берашца йоца, тийна цхьаьнакхетар, йа жимачу берна суьрташ долу книга йеша.
+81. **Кофе молуш цхьаьна газет йеша.** Корта дешнаш хезаш йеша. Ламаст мехала ду керлачул.
+82. **Кхечунна гӀо де.** Килсан программаш деха йа лулахочунна открытка хӀоттайе.
 
-## Faith and spiritual activities
+## Динан а, синан а хӀуманаш
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Хьо хьожуш волчу стеган шен ламаст ларбе, йа иза ца хилар а лерам бе. NIA боху, девзаш долу гӀуллакхаш, йешарш, динан музыка, ламазаш, медитаци, даздаран ламасташ лело мегар ду.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Девзачу гӀуллакхе ваха.** Алсама тийна хан харжа, агӀонан уллохь ховша, цигахь болчарна деминцех лаьций хаийта.
+84. **Арахвала хала хилча, гӀуллакх онлайн хьажа.**
+85. **Цхьаьна ламаз де йа йеша.** Девзаш долу дешнаш, меллаша. Цо хуучехь дакъа лаца тарло.
+86. **Шен ламастера эшарш йа динан музыка ала.**
+87. **Даздаран ламасташ ларбе.** Батарейца йогу зезагаш, декъалвар, цо даиманна лелийна хаздарш.
+88. **Цхьаьна тийна хан йаккха.** Бошмашкахь ховша йа цхьаьна малх чубуьзуш хьажа.
 
-## Pets and animals
+## Дийнаташ
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA боху, дийнатна кхача бала, цуьнан месаш хила, цуьнца гӀаш лела, йа уллохь ховша, карахь латто мегар ду.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Тийна жӀаьла йа цициг хилар де,** деха, меллаша леларшца.
+90. **Цхьаьна дийнатна кхача бе.** Хьо барам билгалбоккху; цо дотту.
+91. **Цхьаьна жӀаьлица гӀаш лела.** ТӀадам хьо латтабо.
+92. **Дийнат голаш тӀе ховшийта.** ТӀехь кӀеда цициг хилар чӀогӀа паргӀато луш хила тарло.
+93. **ХьешалгӀа еина дийнаташ тӀеэца.** Цхьайолчу Ӏуналлин цӀеношкахь а, дийнан программашкахь а дийнаташ даладо. Шайн махкахь хаьа.
+94. **Бакъдолчух тера кӀеда дийнат кховда.** Дийнат дацахь, цхьаболчу нахана бакъдолчух тера кӀеда цициг йа жӀаьла карахь латто хазахета. Атта кховда, ловзаран хӀума санна ма кховда, «хӀан-хӀа» а тӀеэца.
 
-## Seasonal activities
+## Шеран заманца йоьзна хӀуманаш
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Ламасташ ларбе, амма атта а деш. NIA боху, сийначу даздаршкахь бакъдолчунна хьежа, садаӀа тийна меттиг а хилийта.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Шеран замане хьаьжжина хазде.** Наб, венок, йа стоьлана тӀехь керла зезагаш.
+96. **Даздаран мерза хӀума кечде.** Бод чагӀде йа печенешна глазур хьакха. Пеш хьо лелайо.
+97. **Хаздарш дӀахӀиттае.** Доха ца ло ловзаран хӀуманаш, цкъацца цхьаъ дӀалуш.
+98. **Серлонга хьажа ара вала.** Суьйренна йоца новкъ — йукъараллехь бен хӀума ца оьшу.
+99. **БӀаьстенан хӀунаш дийгӀа.** Гуьйренна кхаьбан чу хӀунаш дӀахӀиттаде, кхийсалуш хьажа.
+100. **Аьхка хьаьжкӀаш дӀадаха йа кхоьш дӀадаха.** ГӀант тӀехь голаш тӀехь кад а болуш.
+101. **Даздаран открыткашна адресаш йазде.** Цо куьг йаздо, марка йа тӀе хӀоттайо; адресаш хьо лелайо.
 
-## What if an activity is not working?
+## Нагахь санна хӀума ца нислахь?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Сацо, кхечу хенахь кхин хӀума хьажа. NIA боху, оьгӀазалла тидаме эца, цунна хьажа лаахь, маьрша хьоьжуш Ӏа бакъхийла. «ХӀан-хӀа» бохург дукха хьолахь билгалдоккху хӀума чӀогӀа хала хилар, хан нийса ца хилар, йа кхин хӀума новкъарло йеш хилар — масала, лазам, мацалла, йа гӀовгӀа. Жима де, Ӏуьйранна хьалха хьажа, йа хьо ша доладе, цо дакъа лоцуьй хьажа. Хьажа [цунна «хӀан-хӀа» алахь](/caregiving/when-they-say-no/) а, [суьйренна меттах ца хилар](/caregiving/late-day-restlessness/) а.
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+ХӀуманаш дааран а, садаӀаран а йукъахь муха дӀахӀитто деза хаа лаахь, хьажа [кӀеда хӀора дийнан низам](/activities/daily-routine/). Кечйина хӀуманаш оьшуш хилча, хьажа [зорба тоха йиш йолу хӀуманаш](/activities/printable/), ткъа тобанца болх беш хилча — [Ӏуналлин цӀийнан тобанан хӀуманаш](/activities/care-home-groups/). Хьан шен садаӀар а мехала ду: хьажа [хьожуш волчун шена хьажар](/caregiving/caregiver-self-care/).

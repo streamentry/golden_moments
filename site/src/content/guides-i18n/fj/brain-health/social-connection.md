@@ -1,32 +1,34 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Veiwekani kei na Bula ni Monalivaliva: Tiko Duadua"
+seoTitle: "Tiko Duadua, Tawasei kei na Rerevaki ni Mate ni Guilecavi"
+description: "Na isema ni tiko duadua kei na tawasei mai vei ira tale eso ki na rerevaki ni mate ni guilecavi, na ka e kaya na ivakasala ni Surgeon General, kei na sala rawarawa mo ni veitaratara vata."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Na vakadidike e vakaraitaka ni tiko duadua kei na tawasei mai vei ira tale eso ena gauna ni
+  qase e semati kei na rerevaki levu cake ni mate ni guilecavi. Na iVolavola ni Komiti ni Lancet
+  ena 2024 e vakadretaka ni rawa ni semati na tawasei ki na rauta ni 5% na kena, ia e so na isema
+  oqo e rawa ni vu mai na mate ni guilecavi taumada e vakavuna na tamata me vakayawa. Na
+  veitaratara wasoma, na ka ni marau dou caka vata, kei na veivuke ena rogoca e tokona na
+  veiwekani. Vua o ira era tiko vata kei na mate ni guilecavi, na itaviqaravi dou caka vata e
+  bibi ena marau kei na vinaka ni bula; na inaki o ya na veiwekani, sega ni nodra cakacaka.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Na Komiti ni Lancet e volai kina na tawasei mai vei ira tale eso ena gauna ni qase me dua na 14 na ka ni rerevaki ni mate ni guilecavi e rawa ni veisautaki, e rauta ni 5% na kena."
+  - "Na ivakasala ni Surgeon General kei Amerika ena 2023 e semata na tiko duadua kei na tawasei vakadede kei na rauta ni 50% na rerevaki levu cake ni mate ni guilecavi vei ira na qase."
+  - "Vuqa na ivakadinadina oqo e yavutaki ena vakadidike ni raica, ia na mate ni guilecavi taumada e rawa ni vakavuna na tamata me vakayawa."
+  - "Na leqa ni rogoca kei na raica, na tiko duadua, kei na qaravi ira tale eso e rawa ni vakalevutaka na rerevaki ni tawasei."
+  - "Vua o ira era tiko vata kei na mate ni guilecavi, na itaviqaravi marautaki dou caka vata e tokona na vinaka ni bula; na inaki o ya na veiwekani, sega ni nodra cakacaka."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "E vakavuna beka na tiko duadua na mate ni guilecavi?"
+    a: "O ya e sega ni vakadinadinataki. E levu na vakadidike e semata na tiko duadua kei na tawasei ki na rerevaki levu cake ni mate ni guilecavi, ia na veisau taumada ena monalivaliva e rawa tale ga ni vakavuna na tamata me vakayawa mai vei ira tale eso. Na veitaratara wasoma e kauta mai e vuqa tale na ka vinaka ki na lomamu kei na bula ni yago, oqo gona e vinaka me tokoni ga."
+  - q: "Na cava na duidui ni tiko duadua kei na tawasei mai vei ira tale eso?"
+    a: "Na tawasei mai vei ira tale eso e kena ibalebale ni lailai na tamata mo ni veitaratara kei ira wasoma. Na tiko duadua e na yalo rarawa ni nanuma ni o tiko duadua se o tawasei. E rawa ni o tiko duadua ia o sega ni yalorarawa, se o yalorarawa ni tiko duadua dina ga ni o wavoliti ira e levu na tamata."
+  - q: "Au rawa ni vukea vakacava e dua na itubutubuqu e tiko vata kei na mate ni guilecavi me veitaratara tiko?"
+    a: "Na veitaratara lekaleka, wasoma, e dau yaga. Tovolea me dua na gauna tudei ena macawa mo ni qiri se veitaratara ena vidio, e dua na itaviqaravi dou caka vata ena teveli ni kana, e dua na memory cafe, se e dua na sikovi vata kei na manumanu se na makubutubu. Maroroya na ilawalawa me lailai ka vakacegu, ka laiva na tamata o ni qarava me lewa na totolo ni ka."
+  - q: "Au rawa ni kunea vakacava na veivuke voleka vei e dua na qase e tawasei?"
+    a: "Na Eldercare Locator, e dua na veiqaravi raraba, e semata na matavuvale kei na tabana ni qase kei na parokaramu ni itikotiko. E rawa ni qiri ena 800-677-1116 se sikovi ena eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +56,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Eda dau vinakata na tiko vata kei ira tale eso, ka na ka oqo e sega ni veisau ena noda qase. Na vakadidike e vakaraitaka ni tiko duadua kei na tawasei mai vei ira tale eso ena gauna ni qase e semati kei na rerevaki levu cake ni mate ni guilecavi, vata kei na mate ni uto kei na lomabibi. Na vakadidike e se bera ni rawa ni tukuna vakamatata na levu ni isema oqo e vu mai na dua na ka se na kena revurevu. Na tabana oqo e vakamacalataka na ka e vakaraitaka na ivakadinadina, na sala rawarawa mo ni veitaratara tiko, kei na vuna e bibi kina na itaviqaravi dou caka vata vei ira era sa tiko vata kei na mate ni guilecavi.
 
-## Are loneliness and isolation linked with dementia?
+## E semati beka na tiko duadua kei na tawasei ki na mate ni guilecavi?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Io, e levu na vakadidike e semata, ia na kena sala e se bera ni matata taucoko. Na [Komiti ni Lancet ena 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) e volai kina na tawasei mai vei ira tale eso ena gauna ni qase me dua na 14 na ka ni rerevaki e rawa ni veisautaki. Na [ivakamacala lekaleka ni UCL me baleta na ripote](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) e tukuna ni rauta ni 5% na mate ni guilecavi e vuravura raraba.
 
-What the evidence shows:
+Na ka e vakaraitaka na ivakadinadina:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Lailai na veitaratara, levu cake na rerevaki.** Na Komiti e vakamacalataka e rua na railesu ni vakadidike e semata na veitaratara wasoma lailai kei na rerevaki levu cake ni mate ni guilecavi. E dua e kunea e rauta ni 57% na rerevaki levu cake, ka dua tale e rauta ni 18%.
+- **Na tiko duadua tale ga.** Na tiko duadua, na yalo ni nanuma ni o tawasei, e semati tale ga kei na rerevaki levu cake ni mate ni guilecavi ena vuqa na railesu ni vakadidike.
+- **Na rai ni Surgeon General.** Ena Me 2023, na Surgeon General kei Amerika a tabaka e dua na [ivakasala me baleta na tiko duadua kei na tawasei](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). E kaya kina ni tiko duadua kei na tawasei vakadede e rawa ni vakalevutaka na rerevaki ni mate ni guilecavi me rauta ni 50% vei ira na qase. E semata tale ga na veiwekani malumalumu kei na 29% na rerevaki levu cake ni mate ni uto kei na 32% na rerevaki levu cake ni stroke.
+- **Na levu ni kena yaco.** E dua na [ripote ni National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) e kunea ni rauta ni 24% na kai Amerika yabaki 65 se sivia era tiko ena itikotiko era tawasei mai vei ira tale eso.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+E dua na ka bibi me nanumi: na Komiti ni Lancet e kaya ni tamata e rawa ni vakalailaitaka na nodra itaviqaravi vakaveiwekani ena gauna taumada ni mate ni guilecavi, ni bera ni kilai. Oqo e kena ibalebale ni so na isema e rawa ni vu mai na mate ni guilecavi e vakavuna na vakayawa, sega ni vakayawa duadua e vakalevutaka na rerevaki. Vuqa sara na ivakadinadina oqo e lako mai na vakadidike ni raica.
 
-## What is the difference between loneliness and isolation?
+## Na cava na duidui ni tiko duadua kei na tawasei?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Na [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) e vakamacalataka vakaoqo. **Na tawasei mai vei ira tale eso** e kena ibalebale ni lailai na tamata mo ni veitaratara kei ira se lailai na tamata mo ni veimaliwai kei ira wasoma. **Na tiko duadua** e na yalo rarawa ni nanuma ni o tiko duadua se o tawasei. E dua e rawa ni tiko duadua ka marau, ka dua tale e rawa ni yalorarawa ni tiko duadua dina ga ni wavolita e levu na tamata.
 
-The NIA lists factors that raise the risk of both:
+Na NIA e volai kina na ka e vakalevutaka na rerevaki ni rua oqo:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Na leqa ni rogoca se raica
+- Na dredre ni toso, se sega na sala ni veilakoyaki
+- Na tiko duadua, se e dua na yali levu me vaka na mate ni watimu se na vakacegu mai na cakacaka
+- Na veisau ena nanuma se vakasama
+- Na qaravi e dua o lomana e tauvimate
+- Na leqa ni lavo se na dredre ni vosa
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Na rogoca e ka bibi. Na NIA e kaya ni o ira era sega ni rogoca vinaka e rawa ni ra vakayawa baleta ni veivosaki e dau veivakararawataki se veivakamaduataki. Na noda [idusidusi me baleta na rogoca kei na bula ni monalivaliva](/brain-health/hearing/) e kovuta na vakadikevi ni rogoca kei na iyaya ni rogoca e voli wale.
 
-## Practical ways to stay connected
+## Na sala rawarawa mo ni veitaratara tiko
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+Na NIA e vakatura e vica na vakasama. Digitaka e dua se rua e veiganiti kei kemuni:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Vakarautaka na veitaratara wasoma.** Tuvanaka e dua na gauna ena veisiga se veimacawa mo ni qiri, vakauta na itukutuku, imeli, se vakauta e dua na kadi vei ira na lewe ni matavuvale, itokani se itikotiko.
+- **Vakayagataka na qiri ena vidio se na smart speakers.** Kevaka e vou na tekinolaji, e levu na valenivolavola raraba kei na valenivakavuli ni itikotiko era vakarautaka na kalasi. Raica na noda [idusidusi me baleta na qiri ena talevoni kei na vidio](/activities/phone-and-video-calls/).
+- **Curuma e dua na ka.** E dua na kalasi, ilawalawa ni lotu, ilawalawa ni taubale, se itavi ni voleka e solia vei iko na veitaratara kei na yalo ni inaki.
+- **Tekivuna tale e dua na ka ni marau makawa** se vulica e dua na ka vou vata kei ira tale eso.
+- **Toso vata kei ira tale eso.** Vakaukauayago vata kei e dua na itokani se ilawalawa. Na noda [idusidusi me baleta na vakaukauayago](/brain-health/exercise/) e tu kina na digidigi malumu.
+- **Nanuma e dua na manumanu** kevaka o rawa ni qarava.
+- **Vakayagataka na veiqaravi ni vanua.** Na valenisorosoro ni qase, na Area Agencies on Aging, kei na Eldercare Locator (800-677-1116) era rawa ni dusimuki iko ki na parokaramu kei na veilakoyaki.
 
-## Why do shared activities matter in dementia?
+## Na cava na vuna e bibi kina na itaviqaravi dou caka vata ena mate ni guilecavi?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Vua e dua e sa tiko vata kei na mate ni guilecavi, na veiwekani e baleta na marau, na vakacegu, kei na yalo ni okati kina, sega ni baleta na vakalailaitaka na rerevaki. Na Komiti ni Lancet e kaya ni itaviqaravi e vukei ira era tiko vata kei na mate ni guilecavi me ra maroroya na marau kei na inaki. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e tukuna ni, me ikuri ni vakavinakataka na vinaka ni bula, na itaviqaravi e rawa ni vakalailaitaka na itovo me vaka na veilakoyaki vakawasoma se na lomaleqa. Na [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e kuria ni o ira era tiko vata kei na Alzheimer's e gadrevi me ra bula vakayavalati ka cakava na ka era marautaka.
 
-Ideas that work well:
+Na vakasama e dau yaga vinaka:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Raica vata na iyaloyalo.** Na [Conversation Cards](/games/conversation-cards/) e solia na taro dola, sega ni veitarogi, me vaka "Tukuna vei au me baleta..." Raica na noda [idusidusi me baleta na vakananumi](/activities/reminiscence/).
+2. **Qito vata vakatautauvata.** Na [Picture Pairs](/games/picture-pairs/) e maroroya na iyaloyalo me ra laurai, ka sega na gauna se na sikoa, ka sega kina na veivakasaurarataki. Na noda idusidusi me baleta na [qito vata](/caregiving/how-to-play-together/) e tu kina na ivakasala.
+3. **Vakayagataka na iyaloyalo ni matavuvale.** Na [Photo Pairs](/games/photo-pairs/) e vakavuna na iyaloyalo o ni digitaka me qito ni veiganiti, ka na iyaloyalo e tiko ga ena nomuni misini.
+4. **Kauti ira vata na tamata.** Na [Picture Bingo](/games/picture-bingo/) e yaga ena soqoni ni matavuvale kei na [ilawalawa ena vale ni qaravi](/activities/care-home-groups/).
+5. **Wasea na sere, na itavi ni vale, se na teitei.** Raica na [itaviqaravi ni sere](/activities/music/), na [itavi ni vale](/activities/household-tasks/), kei na noda lisi taucoko ni [vakasama ni itaviqaravi](/activities/ideas/).
+6. **Vakawarawarautaka na sikovi.** Na noda [idusidusi me baleta na sikovi](/activities/visiting/) e kovuta na sikovi lekaleka, vakacegu e vinaka vei ira kece.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Maroroya me lailai ka vakacegu. E dua na rumu vakanomodi vata kei e dua se rua na tamata e dau vinaka cake mai na ilawalawa levu. Kevaka e oca se yali na nona taleitaka na tamata o ni qarava, e vinaka ga me cegu. Na tiko vata ka gunu ti e dua tale ga na ka vinaka.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Vua e dua e tiko duadua ka tiko vata kei na mate ni guilecavi, na NIA e vakatura me kunei e dua na tamata nuitaki e rawa ni sikovi se qiri ena vidio wasoma ka veiqaravi me tamata ni veitaratara ena gauna ni leqa. E cavuta tale ga e dua na memory cafe ena vanua o tiko kina, e dua na vanua ni veimaliwai vakacegu vei ira era leqa ena vakananumi kei na nodra matavuvale.
 
-## Caregivers get lonely too
+## O ira era qaravi ira tale eso era dau yalorarawa tale ga ni tiko duadua
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+Na NIA e volai kina na qaravi e dua o lomana me dua na ka e vakalevutaka na rerevaki ni tawasei. Maroroya eso na gauna me baleta na nomu veitokani, na ilawalawa ni veitokoni, kei na vakacegu. Na noda [idusidusi me baleta na nodra maroroi ira era qaravi ira tale eso](/caregiving/caregiver-self-care/) e tu kina na vakasama rawarawa.
 
-## Talk with a doctor
+## Veivosaki kei e dua na vuniwai
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Kevaka o iko se na tamata o ni qarava e dau nanuma ni tiko duadua se tawasei vakawasoma, tukuna vei e dua na vuniwai. Na NIA e vakayaloqaqataki ira na tamata me ra wasea na veisau levu ni bula, me vaka na mate ena matavuvale, me kila vinaka na vuniwai na ituvaki taucoko. Na yalo e bibibi ena vica na macawa e rawa ni lomabibi, ka e rawa ni qaravi. Kevaka e dua na qase e sa tekivu vakayawa mai vei ira na itokani se itaviqaravi e dau marautaka, na veisau oqo e vinaka me cavuti vei e dua na vuniwai tale ga. Wilika na [ivakatakilakila taumada kei na gauna mo raici vuniwai kina](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Na tabana oqo e itukutuku raraba, sega ni ivakasala vakavuniwai. Raica na noda [ivakadeitaki vakavuniwai](/medical-disclaimer/).

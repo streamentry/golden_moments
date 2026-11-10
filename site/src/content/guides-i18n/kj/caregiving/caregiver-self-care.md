@@ -1,36 +1,37 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Okulifila oshisho: Efudepo, ekwatho nomadidiliko"
+seoTitle: "Okulifila oshisho nge to file omunhu oudu wokudimbwa"
+description: "Omadidiliko eloloko lavafi voshisho, nghee to mono efudepo neengudu dekwatho, neengodi doku kwafela doshali moAmerika ngaashi 1-800-272-3900 na 1-800-677-1116."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
+  Okufila oshisho omunhu ta kala noudu wokudimbwa oshidjuu, nokulifila oshisho
+  mwene oshi li yo oshitukulwa shoilonga ei. Tala omadidiliko oshiponga ngaashi
+  okwenye, okuhanduka diva, eemhofi dii nokulietela kokule nookaume. Pula
+  ekwatho li na sha noilonga yonhumba, longifa efudepo loshisho, ndele to waimine
+  ongudu yekwatho. Ekwatho loshali moAmerika ola kwatela mo Alzheimer's
+  Association 24/7 Helpline ko 1-800-272-3900 nosho yo Eldercare Locator ko
   1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Eloloko ohali holoka luhapu ongokwenye, okuhanduka diva, eemhofi dii, oluhodi nokweefa po okufila oshisho oukolele woye mwene."
+  - "Efudepo loshisho ohali ku pe efudepo, okudja peevili dinini fiyo opeeviki dihapu, keumbo ile monhele yoshipangelo."
+  - "Pula ekwatho li na sha noilonga yonhumba; ovanhu vahapu ova hala okukwafela ashike kave shii nghee ve na oku shi ninga."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) ohai yandje ekwatho loshali noliholekwa efimbo keshe."
+  - "Eldercare Locator (1-800-677-1116) ohai ku kwatakanifa nomayakulo opomudingonoko, mwa kwatelwa Area Agency on Aging yoye."
+  - "Ngeenge ou udite wa kwatwa konghuwo onene, ifana ile tuma etumwalaka ko 988. Moshikumungu shomeendelelo, ifana 112."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Omadidiliko eloloko lomufilishisho oelipi?"
+    a: "Omadidiliko a monika luhapu otaa kwatele mo okuudite wenye, wa wililwa po ile wa limbililwa, okuhanduka diva ile okuhe na outalanheni, oudjuu wokukofa, okuudite oluhodi ile wa teka omukumo, okulietela kokule nookaume, omutwe tau ehama luhapu ile ouyahame, nokweefa po oikulya yoye mwene, omadeulo olutu ile epango lopaunamiti. Ngeenge omadidiliko a fa aa ohaa holoka pandjikilile, popya nandokotola woye."
+  - q: "Ohandi mono ngahelipi efudepo loshisho popepi naame?"
+    a: "Hovela na Eldercare Locator (1-800-677-1116 ile eldercare.acl.gov) opo u mone Area Agency on Aging yeni, ARCH National Respite Locator Service, ile Alzheimer's Association Helpline ko 1-800-272-3900. Ovapambele, ookaume novaliyambi navo otava dulu okuyandja efudepo loshisho."
+  - q: "Medicare ohai futile efudepo loshisho?"
+    a: "Komunhu ta mono oshisho shokuhulifa (hospice), Medicare ohai futile oshipewa shinene shondado yomafiku atano taa landula efudepo loshisho moshipangelo ile monhele yoshipangelo shoukwatya wopombada, pamahokololo a National Institute on Aging. Oinshurense yopaumwene youkolele ihapu hai futile efudepo loshisho; Medicaid nomalongekido amwe oinshurense yoshipangelo shefimbo lile otashi dulika a kwafele."
+  - q: "Alzheimer's Association Helpline oya oshali lela nohadi longo nokonguloshi?"
+    a: "Heeno. Alzheimer's Association otai ti kutya Helpline yayo ko 1-800-272-3900 oi li oshali, oiholekwa nohai yakulwa efimbo alishe, omafiku 365 omudo, nekwatho tali monika momalaka mahapu. Ifana 711 u mone ekwatho lokutoloka."
+  - q: "Osha puka ngeno okuninga efudepo okufila oshisho?"
+    a: "Ahowe. Efudepo ohali ku kwafele u twikile okufila oshisho, nefudepo loshisho otali dulu yo okuyandja komunhu to file oshisho omhito yokumona ovanhu vakwao noilonga ya yooloka. Ovafilishisho vahapu ohava ti konima kutya ngeno va pula ekwatho nale."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +68,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Ngeenge oto file oshisho omunhu ta kala noudu wokudimbwa, otashi dulika to lesha ei epandja onguloshi, wa loloka nowa humbata omusholondodo woinima inai longwa natango. Osho oshinima shii. Okulifila oshisho mwene kashi fi oukwatya wopombada ile ondjabi eshi wa mane ashishe. Osho tashi ku kwafele u twikile.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Epandja eli otali popi omadidiliko eloloko, nghee to mono efudepo lashili, apa to mono ekwatho, neengodi doku kwafela doshali moAmerika to dulu okufifa nena.
 
-## What are the signs of caregiver burnout?
+## Omadidiliko eloloko lomufilishisho oelipi?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Eloloko ohali uya kanini nakanini, onghee osha fimana okushiiva omadidiliko oye mwene. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) oya tumbula omadidiliko oudjuu womufilishisho, mwa kwatelwa:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- okuudite wenye, wa wililwa po ile wa limbililwa;
+- okuhanduka diva ile okuhe na outalanheni;
+- okuudite u li owike ile wa tukuka ko kuvamwe;
+- oudjuu wokukofa, ile ino mona eemhofi da wana;
+- okuudite oluhodi ile wa teka omukumo, ile wa kanifa ohokwe moinima wa li u hole nale;
+- omutwe tau ehama luhapu, ouyahame ile omaupyakadi amwe olutu;
+- uhe na efimbo lokuninga omadeulo olutu ile okulilongekidila oikulya i na oukolele;
+- okweefa po okukosha ile okufila oshisho olutu loye mwene;
+- okulongifa nayi oalkoholi ile oingangamifi, mwa kwatelwa omiti da pewa kundokotola.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) oya weda ko omadidiliko ngaashi okushilika oudu, okuhandukila omunhu to file oshisho ("ota ningi ashike owina"), okutila onakwiiwa, oudjuu wokuyandja elitulemo, nomaupyakadi oukolele taa eta oudjuu. Otai ladipike u popye nandokotola woye ngeenge omadidiliko a fa aa ohaa holoka pandjikilile.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Omayele a NIA okwa ti ino teelela fiyo wa wililwa po filufilu. Didilika omadidiliko oye diva ndele to katuka onghatu.
 
-## What can I do today, in five minutes?
+## Oshike handi dulu okuninga nena, moule weemhito nhano?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Omafudepo manini nao ohaa kwafele. Kape na shimwe shomoinima ei tashi xulifa po eloloko, ashike otai dulu oku ku kwafela u pita mefiku lidjuu.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Inda pondje.** Kala omutumba pondje ile enda u ye koshiketha shomaposita fimbo omunhu to file oshisho e li meameno nota tulumukwa.
+- **Fuda nawa.** Fuda kanini noukeka ofimbo ino nyamukula epulo lidjuu. Oto dulu yo okuhafela efimbo lokufuda pamwe nomunhu to file oshisho okupitila mu [Calm Breathing](/games/calm-breathing/).
+- **Nwa omeva ndele to li sha.** Oshipu okudimbwa oikulya yoye mwene.
+- **Tumina kaume koye umwe etumwalaka.** Haku mu pula sha, ashike okukala mu kwatakanifwa.
+- **Lipopila eendjovo diwa.** [Ewilikonghatu la NIA lokulifila oshisho mwene](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) otali yandje omaetepo eendjovo ngaashi "Ohandi ningi ngaashi handi dulu," "Aame inandi wanenena, naasho oshi li nawa," nosho yo "Ohandi ka hafela oitwa oyo hatu kala pamwe nombili."
 
-## What is respite care, and how do I get it?
+## Efudepo loshisho oshike, nohandi li mono ngahelipi?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Efudepo loshisho osho oshisho shopakafimbo shomunhu to file oshisho, opo u mone efudepo. [Epandja la NIA kombinga yefudepo loshisho](https://www.nia.nih.gov/health/caregiving/what-respite-care) otali yelifa kutya otali dulu okukala okudja peevili dinini fiyo opeeviki dihapu notali dulu okuningwa keumbo, monhele youhaku ile ponhele yovakulunhu yefiku.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) oya yelifa omaludi a monika luhapu:
 
-| Type | What it is |
+| Oludi | Osho shi li |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Ekwatho keumbo | Kaume, omupambele, omaliyambi ile omukwafi a futwa ote uya keumbo |
+| Onhele yovakulunhu yefiku | Oilonga ya longekidwa ngaashi omusika nouhongo meongalo li li meameno; olweendo noikulya ohai yandjwa luhapu |
+| Okukala oufiku ile omafiku manini | Onhele yoshipangelo shefimbo lile ohai file oshisho omunhu oufiku umwe, omafiku manini ile oivike inini |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Olyelye ta futile?** Pamahokololo a NIA, efudepo loshisho tali di kovapambele, kookaume ile kovaliyambi otashi dulika li kale loshali. Omayakulo opaukalele ohaa futifwa povili ile pefiku. Komunhu ta mono oshisho shokuhulifa (hospice), Medicare ohai futile oshipewa shinene shondado yomafiku atano taa landula efudepo moshipangelo ile monhele yoshipangelo shoukwatya wopombada. Medicaid otashi dulika i kwafele. Oinshurense ihapu yopaumwene youkolele ihai futile efudepo loshisho, nonande omalongekido amwe oinshurense yoshipangelo shefimbo lile ohae shi ningi.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Etipululo:** Alzheimer's Association otai ladipike u kendabale ovayandji vefudepo loshisho pefimbo opo inapa holoka oshikumungu shomeendelelo, opo va kale ve lilongekida ngeenge wa pumbwa ekwatho ombadilila.
 
-## Where can I find help near me?
+## Openi handi dulu okumona ekwatho popepi naame?
 
-Several free US services can point you to local help.
+Omayakulo oshali amwe moAmerika otaa dulu oku ku ulikila ekwatho lopomudingonoko.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) oi li oshali noiholekwa, ohai yakulwa efimbo alishe efiku keshe odula aishe, nekwatho momalaka e dulife 200 okupitila movayakuli hava popi omalaka avali ile ovatoloki. Ifana 711 u mone ekwatho lokutoloka. Oto dulu okupopya kombinga yomalukaleko elihumbato, oudjuu womufilishisho, eemhito defudepo loshisho, omalongekido opomudingonoko nosho tuu, ndele to pula yo eenghundafana dile nomuyandjimayele woshisho. Ovayakuli ihava yandje omayele opaunamiti.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), elongekido lopashiwana la Administration for Community Living, ohali ku kwatakanifa nomayakulo ovakulunhu nomaukwaneumbo avo. Oto dulu okufifa ongodi, okutuma etumwalaka, okupopya paindaneti ile okutuma o-email kovayakuli va deulwa, ile okukonga pamudingonoko. Otali dulu oku ku ulikila Area Agency on Aging yeni.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) otali ku kwafele u mone ovayandji vefudepo loshisho koshilongo keshe, notali ladipike u kwatafane tete na State Respite Coalition ile Lifespan Respite program yoshilongo sheni ngeenge oi li po. ARCH otai dimbulukifa kutya ihai konakona ovayandji, onghee tala owino wavo nondjokonona yavo ove mwene.
 
-## How do I find a support group?
+## Ohandi mono ngahelipi ongudu yekwatho?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Pula ko Helpline ile konga paindaneti eengudu di li popepi naave. Alzheimer's Association [ohai longekida eengudu dekwatho](https://www.alz.org/help-support/community/support-groups) dovafilishisho novanhu tava kala noudu wokudimbwa, komesho ile paindaneti, tadi wilikwa kovawiliki va deulwa. Eendodo dihapu oda yandja yo eengudu donhumba, ngaashi dovafilishisho ovakulunhu ile dovanhu tava kala noudu wa Alzheimer's wopefimbo lounyasha ile wopehovelo. Oya longekida yo ALZConnected, oukwaneumbo wopaindaneti woshali omo ovafilishisho hava tukulilwa omayele.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Eengudu dekwatho otadi dulu okukala onhele yokupopya wa manguluka nopehe na okutokolwa, okulihonga omayele taa longo okudja kwaava va pita nale mo, nokuuudite ino kala owike. Ngeenge ongudu yotete inai ku wapalela, kendabala imwe.
 
-## How do I ask family and friends for help?
+## Ohandi pula ngahelipi ovapambele nookaume va kwafele?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Popya naanaa osho wa hala. Ovanhu vahapu ova hala okukwafela ashike kave shii osho ve na okuyandja. NIA otai yandje omayele aa:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Ninga omusholondodo** woilonga oyo vamwe tava dulu okukwafela, ndele to efa ovanhu va hoolole.
+- **Hovela noinima inini** ngeenge okupula oshidjuu.
+- **Wapeka oshilonga nomunhu.** Omupambele oo e hole okuteleka ota eta ouvalelo mEtitano. Omushiinda oo e shi nawa okufila oinima omapepa ote ku kwafele noilonga yomapepa.
+- **Tuma etumwalaka ile o-email** ngeenge okupopya komesho yoshinima kashi fi shipu kwoove.
+- **Lideula enyamukulo** ngeenge umwe te ku pula a kwafele: "Onda pandula eshi wa pula. Osho to dulu okuninga osho eshi."
+- **Teelela vamwe va tye ahowe** ndele ino shi tala ko wa fa we shi ningilwa owina.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Omadiladilo amwe: pula umwe a kale nomunhu ou efimbo loshivike limwe komatango, e mu twale pondje kanini, ile e uye va danauke pamwe. [Ewilikonghatu letu lokudanauka pamwe](/caregiving/how-to-play-together/) oli li puu okulitumina ovaenda.
 
-## What if something happened to me?
+## Ongahelipi ngeenge opa holoka sha kwaame?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Ninga elongekido li li puu paife. NIA otai ladipike mu tokole pamwe novapambele ile nookaume vopofingo kutya olyelye ta kufa po oilonga, nokukwata embo li na eengodi domeendelelo, omiti, omayele elihumbato oo haa longo, noilonga oyo omunhu e hole. Alzheimer's Association otai ladipike yo u tule eenomola dovayakuli vouhaku vomunhu nosho yo omusholondodo womiti tau endele pamwe peenhele di li puu okumona.
 
-## When should I get professional or urgent help?
+## Onaini ndi na okupula ekwatho lopaungoba ile lomeendelelo?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Popya nandokotola woye ngeenge omadidiliko oudjuu ohaa holoka pandjikilile, ngeenge ou udite oluhodi ile ngeenge oto mono oshidjuu okuungaunga noinima. Lombwela ndokotola woye kutya ove omufilishisho. NIA otai ti kutya ovayandjimayele novalongi vopanghalafano otava dulu okukwafela nomaliudo madjuu nomalongekido, nosho yo kutya Medicare, Medicaid noinshurense imwe yopaumwene otashi dulika i futile oinima imwe yopamadiladilo.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Ngeenge ou udite wa kwatwa konghuwo onene ile u na omadiladilo okulietela oshiponga, ifana ile tuma etumwalaka ko 988 u mone [988 Suicide & Crisis Lifeline](https://988lifeline.org/), oi li oshali noi li po efimbo alishe omutenya noufiku. Ngeenge ope na umwe e li moshiponga shomeendelelo, ifana 112.
 
-## Can shared activities give me a break too?
+## Oilonga yokudanauka pamwe otai dulu yo okupa efudepo?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Omafimbo amwe heeno. Oshilonga shombili tamu hafele amushe otashi dulu okukala oshitukulwa shipu shefiku kwoove nokomunhu to file oshisho: okupwilikina komusika yonale, okutala omafano, ile omudano ngaashi [Conversation Cards](/games/conversation-cards/) oo inau pumbwa omanyamukulo a yuka. Ngeenge omunhu oha hafele okukala novanhu, okudanauka pamwe mongudu ngaashi [Picture Bingo](/games/picture-bingo/) ponhele yovakulunhu ile melongekido lounona wovakulunhu otashi dulu oku ku pa efudepo loshisho lovili imwe. Tala [oilonga yeengudu domomaumbo ovakulunhu](/activities/care-home-groups/) u mone omaetepo.

@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "At seta eitt teldil ella telefon upp til onkran við demens"
+seoTitle: "Set teldil ella telefon upp til onkran við demens"
+description: "Stig fyri stig: set teldil og telefon upp til onkran við demens. Stong fyri eitt forrit, størri tekst, færri fráboðanir, einfaldur heimaskíggi og privatlív."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Ger eitt teldil ella telefon einfaldari, áðrenn tú rekkur tað víðari. Stong
+  fyri eitt forrit við Guided Access á iPad og iPhone ella app pinning á
+  Android, ella brúka Assistive Access hjá Apple til eina einfaldari uppseting.
+  Ger tekstin størri, sløkk fráboðanir, hav bert fá kend forrit á einum
+  heimaskíggja, stilla ljóðstyrkina, brúka eitt stativ og avmarka loyvi hjá
+  forritum. Brúka tað saman, saman við virksemi uttan skíggja.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) og app pinning (Android) halda skíggjan í einum forriti, til tú læsir upp."
+  - "Assistive Access hjá Apple bjóðar eina einfaldari uppseting, sum er gjørd til fólk við kognitivum avmarkingum."
+  - "Ger tekstin størri og sløkk fráboðanir og sprettigluggar, so einki órógvar ella forvirrar."
+  - "Hav bert fá kend forrit á einum heimaskíggja, og stilla ljóðstyrkina, áðrenn tit byrja."
+  - "Eitt stativ og eitt løðistað, sum ongantíð flytur seg, gera tað lættari at brúka og finna tólið."
+  - "Kanna loyvi og deiling av dátum hjá forritum: HIPAA verjir vanliga ikki tað, sum er goymt á einum persónligum tóli."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Hvussu forði eg onkrum við demens at fara úr einum forriti á einum iPad?"
+    a: "Slá Guided Access til í Settings > Accessibility > Guided Access og set eina loyniorð. Opna forritið, trýst tríggjar ferðir á ovasta knøttin (ella Home-knøttin á eldri iPad'um), og trýst á Start. iPad'in verður verandi í forritinum, til onkur skrivar loyniorðið."
+  - q: "Hvussu stongi eg eitt Android-teldil fyri eitt forrit?"
+    a: "Slá app pinning til í Settings-appini, vanliga undir Security (stundum Security & location) > Advanced > App pinning. Opna síðan forritið, opna Overview, trýst á ímyndina hjá forritinum ovast og trýst á Pin. PIN-kodi, mynstur ella loyniorð hjá tær skal brúkast fyri at loysa tað."
+  - q: "Er tað trygt at brúka Guided Access á telefonini hjá viðkomandi?"
+    a: "Ver varin. Apple sigur, at Crash Detection og Emergency Services ikki eru tøk, meðan Guided Access er á. Um viðkomandi er bundin at telefonini til neyðarkall, brúka so bert Guided Access, meðan tú ert hjá, ella umhugsa Assistive Access í staðin."
+  - q: "Hvussu nógv skíggjatíð er í lagi fyri onkran við demens?"
+    a: "Einki ávíst tal er til. Stuttar løtur saman, blandaðar við túrum, tónleiki, húsarhaldi og samrøðu, geva ein ríkari dag enn langar tíðir einsamallur við einum skíggja. Um tólið elvir til frustratión ella tekur pláss frá øðrum virksemi, brúka tað so minni."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Eitt teldil kann vera ein hugnaligur máti at deila myndir, tónleik og einfald spøl. Tað kann eisini vera forvirrandi: eitt óvart pík opnar eitt annað forrit, ein fráboðan sprettur upp, teksturin er pínulítil, ella skíggjan sloknar mitt í spælinum. Eitt sindur av uppseting frá tær loysir tað mesta av hesum.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Hesi stigini brúka innbygdu stillingarnar á iPhone, iPad og Android. Navn á valmyndum kunnu broytast millum ritbúnaðarútgávur og framleiðarar, so um nakað sær øðrvísi út, fylg so leinkjaðu síðunum hjá Apple ella Google til títt tól. Ger uppsetingina sjálvur, áðrenn tit seta tykk niður saman.
 
-## Should someone with dementia use a tablet or phone?
+## Skal onkur við demens brúka teldil ella telefon?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Tað veldst um persónin. Nógv hava stuttleika av at brúka eitt teldil við onkrum við síðuna av sær, sjálvt um tey ikki kundu klára tað einsamøll. Byrja við at brúka tað saman, við einum opnum forriti, í nakrar fáar minuttir. Um tað gevur gleði og samrøðu, halt so áfram. Um tað elvir til forvirring ella frustratión, kann eitt fotoalbum, prentaðar síður ella tónleikur passa betri. Okkara [prentanliga virksemi](/activities/printable/) er ein annar møguleiki.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Eitt teldil er vanliga lættari enn ein telefon: skíggjan og myndirnar eru størri, og tað er ikki eisini lívlínan hjá viðkomandi til neyðarkall.
 
-## How do I lock a tablet or phone to one app?
+## Hvussu stongi eg eitt teldil ella telefon fyri eitt forrit?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Brúka Guided Access á iPhone og iPad, ella app pinning á Android. Bæði halda skíggjan í einum forriti, til tú skrivar ein koda, so eitt óvart pík ella strúk kann ikki opna nakað annað.
 
-### iPad and iPhone: Guided Access
+### iPad og iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Sambært [leiðbeiningunum hjá Apple um Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Opna **Settings**, trýst á **Accessibility**, trýst síðan á **Guided Access** og slá tað til.
+2. Undir **Passcode Settings** setur tú eitt loyniorð til Guided Access. Tú kanst eisini loyva Face ID ella Touch ID.
+3. Valfrítt: undir **Display Auto-Lock** velur tú, hvussu skjótt skíggjan læsir seg í einari løtu, so hon ikki sloknar mitt í spælinum.
+4. Opna forritið, tú vilt brúka.
+5. Trýst tríggjar ferðir á síðuknøttin (iPhone), ovasta knøttin (iPad) ella Home-knøttin á eldri tólum.
+6. Valfrítt: drag ein ring um teir partar av skíggjanum, sum ikki skulu svara nertur. Trýst á **Options** (ella **Session Settings**) fyri at sløkkja fyri ljóðstyrkiknøttunum ella steðga skíggjanum í at snúgva sær.
+7. Trýst á **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Fyri at enda løtuna trýstur tú tríggjar ferðir á sama knøttin aftur, skrivar loyniorðið og trýstir á **End**. Apple viðmerkir, at á summum eldri ritbúnaðarútgávum trýstur tú dupult í staðin.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Umráðandi:** Apple sigur, at Crash Detection og Emergency Services ikki eru tøk í eini Guided Access-løtu. Lat ikki Guided Access koyra á einum telefoni, sum viðkomandi møguliga hevur tørv á til neyðarkall.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Sambært [hjálpini hjá Google til Android um at festa skíggjar](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Opna **Settings**-appina.
+2. Trýst á **Security** (ella **Security & location**), síðan **Advanced**, síðan **App pinning**. Finnur tú tað ikki, kanna so hjálparsíðurnar hjá framleiðaranum av tínum tóli.
+3. Slá **App pinning** til. PIN-kodi, mynstur ella loyniorð hjá tær skal brúkast fyri at loysa tað.
+4. Opna forritið, tú vilt hava. Strúk upp til mitt á skíggjanum og halt fyri at opna Overview (ella trýst á Overview við 3-knappa stýring).
+5. Ovast á undansýningini av forritinum trýstur tú á ímyndina hjá forritinum og síðani á **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Fyri at loysa við strúkistýring strýkur tú upp og heldur. Við 3-knappa stýring heldur tú inni á Back og Overview. Við 2-knappa stýring heldur tú inni á Back og Home. Skriva síðan PIN-koda, mynstur ella loyniorð.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Er ein einfaldari standur til alla iPhone'ina ella iPad'in?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ja. Assistive Access hjá Apple skiftir vanligu heimaskíggjuna út við eina einfaldari. [Apple lýsir tað](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) sum gjørt til at gera iPhone lættari hjá fólki við kognitivum avmarkingum at brúka sjálvstøðugt, við størri lutum á skíggjanum og meira savnaðum funktiónum. Apple bjóðar [somu funktión á iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Hvør setur upp.** Apple mælir til, at ein álítandi stuðulsfólk, til dømis eitt familjulimur ella onkur, sum hevur umsorgan fyri viðkomandi og kennir viðkomandi, hjálpir við at velja forrit og funktiónir.
+- **Hvar byrja.** Far til **Settings > Accessibility > Assistive Access**, trýst á **Set Up Assistive Access** og síðan á **Continue**.
+- **Forrit.** Tú velur, hvørji forrit síggjast. Nøkur Apple-forrit hava serligar einfaldar útgávur, og tey flestu onnur forrit kunnu leggjast afturat í vanligu sniðgeving síni.
+- **Uppseting.** Vel **Rows** (ein lættlisin listi) ella **Grid** (størri lutir, sum leggja dent á myndir og ímyndir).
+- **Loyniorð.** Tú setur eitt serstakt loyniorð til Assistive Access fyri at fara inn, fara út ella broyta stillingar. Apple mælir til at seta eina endurvinningar-Apple-konto upp undir uppsetingini, tí uttan hana merkir eitt gloymt loyniorð, at tólið skal nullstillast.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access kann passa onkrum, sum brúkar sítt egna tól hvønn dag. Guided Access ella app pinning er skjótari til eina felags spæliløtu.
 
-## How do I make text and pictures bigger?
+## Hvussu geri eg tekst og myndir størri?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Ger tekstin og skíggjastøddina størri, og kanna síðani, at knapparnir framvegis rúmast á skíggjanum.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone og iPad.** Sambært [leiðbeiningunum hjá Apple um skriftstødd](https://support.apple.com/en-us/102453) fert tú til **Settings > Display & Brightness > Text Size** og dregur sleðan. Fyri enn størri tekst fert tú til **Settings > Accessibility > Display & Text Size > Larger Text**. Apple viðmerkir, at sera stórur tekstur kann gera summar knappir truplari at trýsta á, so stilla eftir tørvi.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Sambært [hjálpini hjá Google um tekst- og skíggjastillingar](https://support.google.com/accessibility/android/answer/11183305?hl=en) letur tú **Settings** upp og leitar eftir **Font size**, og flytir síðan sleðan. Leita eftir **Display size** fyri at gera alt á skíggjanum størri. Tú kanst eisini slá **Bold text** til undir **Accessibility > Display size and text**. Summi forrit fylgja ikki hesum stillingum.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Í spølum sum [Picture Pairs](/games/picture-pairs/) og [Find the Same](/games/find-the-same/) kanst tú eisini velja færri flísar ella val, sum heldur tað einfaldari á skíggjanum.
 
-## How do I stop notifications and pop-ups?
+## Hvussu steðgi eg fráboðanum og sprettigluggum?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Sløkk fráboðanir fyri forrit, tú ikki hevur tørv á, og brúka Do Not Disturb undir virksemi.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone og iPad.** Far til **Settings > Notifications**, trýst á eitt forrit undir **Notification Style**, og sløkk fyri **Allow Notifications** ([leiðbeiningin hjá Apple um fráboðanastillingar](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Fyri at doyva kall, ávaringar og fráboðanir eina løtu letur tú Control Center upp og slær **Do Not Disturb** til frá **Focus**-knappinum ([hjálpin hjá Apple um Do Not Disturb](https://support.apple.com/en-us/105112)). Tú kanst leggja eina skrá undir **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Strúk niður frá ovasta parti av skíggjanum og trýst á **Do Not Disturb**, ella far til **Settings > Modes > Do Not Disturb** ([hjálpin hjá Google um Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Undir **Notification filters** kanst tú velja, hvør fólk og forrit framvegis kunnu sleppa ígjøgnum. Stillingar kunnu vera ymiskar eftir framleiðara.
 
-## How do I make a simple home screen?
+## Hvussu geri eg ein einfaldan heimaskíggja?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Hav fá kend forrit á einum skíggja og flyt hini burtur. Ongin einastilling er til hetta; tað snýr seg um at rudda burtur.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Vel tríggjar til seks forrit.** Til dømis myndir, tónleikur, eitt videoopkallsforrit og eitt spæl.
+- **Set tey á fyrsta skíggjan,** á somu plássum hvørja ferð, og flyt alt annað til ein annan skíggja ella faldara.
+- **Brúka ein slættan bakgrund við góðum kontrasti,** til dømis ein einkultan lit ella eina kenda mynd, so ímyndirnar stinga seg út.
+- **Strika forrit, tú ikki hevur tørv á.** Færri forrit merkja færri møguleikar fyri forvirring og færri dátur savnaðar.
+- **Umhugsa Assistive Access** á Apple-tólum, um tú vilt, at tólið skal gera hetta fyri teg.
 
-## What about volume and sound?
+## Hvat við ljóðstyrki og ljóði?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Set ein hóskandi ljóðstyrki, áðrenn tú rekkur tólið víðari. Við Guided Access kanst tú sløkkja fyri ljóðstyrkiknøttunum, so hann ikki broytist mitt í virkseminum. Kanna, at hoyritólini sita rætt og virka.
 
-## Where should the tablet live?
+## Hvar skal teldilin vera?
 
-Give it a stand and a permanent charging spot.
+Gevið tí eitt stativ og eitt fast løðistað.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Eitt stativ ella húsa,** sum heldur teldilinum upprættum á borðinum, merkir, at eingin skal halda á tí, og tað er lættari at vísa á skíggjan.
+- **Eitt løðistað,** sum ongantíð flytur seg, helst eitt løðistativ á einum borði í einum rúmi, tit brúka hvønn dag. Teldilin er altíð lødd og altíð á sama stað.
+- **Minka um glampa.** Set skíggjan so, at hon ikki vendir beint móti einum bjartum vindeyga.
 
-## How much screen time is okay?
+## Hvussu nógv skíggjatíð er í lagi?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Einki rætt minuttatal er til. Røk eftir stuttum, felags løtum sum ein partur av einum fultum degi, sum eisini fevnir um rørslu, tónleik, húsarhald, samrøðu og tíð uttandura. Av tí at ein strævnar kvøldstund kann økja um órógv seinni um dagin, kanst tú umhugsa at hava skíggjavirksemi tíðliga um dagin. Sí [róliga virksemi seint um eftirmiðdagin](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+At brúka eitt teldil saman, heldur enn sum eitt barnaansing, ger tað sosialt. Leiðbeiningin okkara um [at spæla saman](/caregiving/how-to-play-together/) greiðir frá, hvussu.
 
-## How do I protect their privacy on the device?
+## Hvussu verji eg privatlívið hjá viðkomandi á tólinum?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Avmarka tað, sum forrit kunnu savna, og rokna ikki við, at lógin um heilsuprivatlív verjir tað. U.S. Department of Health and Human Services (HHS) [greiðir frá](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), at HIPAA-reglurnar vanliga ikki verja heilsuupplýsingar, sum eru goymdar á ella atkomuligar gjøgnum persónligar telefonir og teldil. Í flestu førum verjir HIPAA heldur ikki dátur, sum verða lagdar inn í forrit til persónliga nýtslu, uttan so at forritið kemur frá einum fevndum heilsuveitara, eini heilsuskipan ella einum av teirra samstarvsfeløgum.
 
-HHS suggests:
+HHS mælir til:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- at sleppa undan óneyðugum ella tilvildarligum forritum, serliga "ókeypis" forritum;
+- ikki at geva forritum atgongd til staðseting, uttan tey veruliga hava tørv á henni, sum til dømis kort.
 
-Also consider:
+Umhugsa eisini:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Brúka eina loyniorð** á tólinum, og goym eina notat um tað á einum tryggum staði.
+- **Kanna loyvi** til myndir, myndatól, mikrofon, kontaktir og staðseting, og sløkk fyri øllum, sum eitt forrit ikki hevur tørv á.
+- **Kanna, hvat eitt forrit savnar,** áðrenn tú setur tað inn. Leiðbeiningin okkara um [at velja demens-forrit og spøl](/caregiving/choosing-apps-and-games/) hevur ein tjeklista um privatlív.
+- **Ver varin við familjumyndum.** Deil bert myndir, sum viðkomandi hevði verið væl nøgdur við, og vit, hvar eitt forrit goymir tær. Í [Photo Pairs](/games/photo-pairs/) verða myndirnar, tú velur, verandi í kagarinum hjá tær.
+- **Sløkk fyri keypum í forritum** ella tak gjaldsupplýsingar burtur frá kontum, sum viðkomandi brúkar.

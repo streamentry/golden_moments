@@ -1,34 +1,36 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Ntangu muntu yina ke na maladi ya kuvila mambu ke buya"
+seoTitle: "Ntangu muntu yina ke na maladi ya kuvila mambu ke buya"
+description: "Sambu na nki muntu yina ke na maladi ya kuvila mambu lenda buya to kuwa makasi na kisalu, mambu ya kusala, ya kuevita, mpi ntangu ya kutala munganga."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Ntangu muntu yina ke na maladi ya kuvila mambu ke tuba ve, ndima yo na
+  pima mpi meka diaka na nima to pesa kisalu ya nkaka. Kubuya kevandaka
+  mbala mingi ti kikuma: kisalu kele mpasi mingi to bonso ya bana, yandi ke
+  na kulemba, mpasi, nzala, to yandi ke waka mambu mingi. Kufwa ve mpe
+  kukwamina ve. Kukisa yo pete, pesa ba nzila zole, to lomba lusadisu na
+  yandi. Nsoba yina ke kwisa na mbalakata to ke soba nswalu, mingi-mingi na
+  nima ya maladi ya kubasika to nkisi ya mpa, kelomba nge kutala munganga
+  nswalu.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "« Ve » kele mvutu ya kufwana kuzitisa, kele ve diambu ya kununga."
+  - "Mbuya mingi kevandaka ti kikuma: mpasi mingi, bonso ya bana, kulemba, kimbevo, kuyokana ve mbote, to mambu mingi."
+  - "Katuka, vanda, mpi meka diaka na nima, na ntangu ya nkaka, to na mutindu ya pete."
+  - "Kulomba lusadisu na yandi kesalaka mbote kuluta kulomba yandi kusala bonso nsosa."
+  - "Kufwa ve, kukwamina ve, kuyula biyuvu bonso nsosa to kusoba ve. Tala kana nge ke sala nswalu to nge ke finama mingi."
+  - "Nsoba ya mbalakata to yina ke soba nswalu, mingi-mingi ti maladi ya kubasika to bankisi ya mpa, fwete kwenda na munganga nswalu."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Keti kele mbote kubika yandi kubuya bisalu yonso?"
+    a: "Ee, na konso kilumbu. Kuvanda kumosi, kuwa miziki to kutala mambu yina ke salama pene lenda lunga. Kana muntu ke yamba ve diaka kusepela na kima mosi na bamposo mingi, tubila yo na munganga na yandi, sambu mawi ya mbi, mpasi to mambu ya nkaka ya mavimpi lenda vanda na kati."
+  - q: "Sambu na nki yandi ke buya mambu yina yandi vandaka kuzola ntama?"
+    a: "Kisalu ya ntama lenda kuma mpasi ntangu yo ke lomba mayele yina maladi ya kuvila mambu me kumisa mpasi, mpi muntu lenda kuwa nsoni. Meka kitini ya pete ya kisalu ya mutindu mosi, bonso kuyidika babouton na kisika ya kusona bilamba, to kutala bafoto ya bilanga na kisika ya kukuna."
+  - q: "Keti mfwete meka kundimisa yandi?"
+    a: "Ve. Kupusa muntu kusala kima yina maladi ya kuvila mambu me kumisa mpasi kele kikuma ya kuzaba ya mavwanga ya mbi. Ndima « ve », soba masolo, mpi pesa diaka na nima to na mutindu ya nkaka."
+  - q: "Ntangu nki nsoba ya bikalulu kekumaka diambu ya lukanu ya nswalu?"
+    a: "Binga nimero ya lukanu ya nswalu ya kisika na nge (bonso 112) kana muntu kele na kigonsa to kele ti bidimbu ya diambu ya nswalu ya mavimpi. Sambu na kisangasanga ya mbalakata to bikalulu yina ke soba nswalu na bangunga to bilumbu, mingi-mingi ti fièvre, maladi ya kubasika to nkisi ya mpa, tubila munganga na yandi nswalu."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +52,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Nge me yidika mambu yonso, nge me pesa nsaka to kutambula, mpi nge ke wa « Ve ». To kisalu keyantikaka mbote mpi kensukaka ti tableti yina bo me pusa mpi ndinga ya ngolo. Yo ke lembisaka, mpi yo ke salama mingi. Kubuya mpi kuwa makasi kevandaka mbala mingi nsangu, kele ve ntu-ngolo. Kuzaba nsangu yina yo ke lomba kutuba lenda monisa nge kima ya kusala.
 
-## Why does someone with dementia refuse activities?
+## Sambu na nki muntu yina ke na maladi ya kuvila mambu ke buya bisalu?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Mbuya mingi kevandaka ti kikuma, ata kana muntu lenda tuba yo ve na mambu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ke tuba nde kukanga nzila lenda monisa nde muntu lenda sala ve kisalu yina to ke wa boma ya kumeka yo. Bikuma ya mbala mingi kele:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Yo ke monana mpasi mingi.** Kisalu ke lomba mayele yina maladi ya kuvila mambu me kumisa mpasi, mpi kununga ve na ntwala ya muntu ya nkaka ke pesa nsoni.
+- **Yo ke monana bonso ya bana.** Bambuta ke monaka bafoto ya bonso ya bana, bandinga ya kusakana mpi bisalu yina ke monana bonso bo me sala yo sambu na bana.
+- **Kulemba.** Bantu mingi kevandaka ti ngolo fioti na nima ya midi. Tala [bisalu ya pima na nima ya midi](/caregiving/late-day-restlessness/).
+- **Mpasi ya nitu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ke tanga mpasi, kukonda mpongi, mpasi ya kumona to kuwa, kukonda kukaka, nzala, kiwuka ya masa mpi bampasi ya nkisi ya mpa bonso bikuma yina lenda pesa mpasi.
+- **Mambu mingi ke salama.** Televizio ya makelele, masolo mingi to kisika ya bantu mingi lenda lembisa muntu.
+- **Kuwa bonso bo ke pusa yandi.** NIA ke tanga kupusa muntu kusala kima yina maladi ya Alzheimer me kumisa mpasi mingi, to kuyibuka mambu to bantu, bonso kikuma ya mavwanga ya mbi.
+- **Mawi ya mbi.** Kukonda diaka luzolo na mambu lenda vanda kidimbu ya mawi ya mbi, mpi yo fwete tubama na munganga.
+- **Yandi ke zola ve kaka.** Bambuta kele ti nswa ya kutuba ve.
 
-## What should I try when they say no?
+## Inki mfwete sala ntangu yandi ke tuba ve?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Ndima « ve » na pima, na nima soba kima mosi: ntangu, kisalu, mpasi na yo to mutindu yina nge ke yula.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Bika yo sambu na ntangu yai.** « Yo kele mbote. Mebika na nima. » Na nima kwenda na kima ya nkaka kukonda kupema ngolo.
+2. **Meka diaka na nima.** Alzheimer's Association ke pesa ndongisila ya kumeka diaka na nima, to na ntangu ya nkaka ya kilumbu.
+3. **Kumisa yo fioti.** Kima mosi ya kufwanisa na kisika ya nsaka ya mvimba. Tawoli mosi na kisika ya paniere ya bilamba. Bafoto fioti, ba nzila fioti, bika bafoto kumonana.
+4. **Pesa ba nzila zole.** « Nge ke zola kutala bafoto ya bandeke to kuwa miziki mosi? » Nzila ke pesa diaka mawi ya kuyala.
+5. **Lomba lusadisu na kisika ya kusosa.** « Nge lenda sadisa mono kuyidika mambu yai? » to « Nge lenda tuba mono mukubu yina ke monana mbote? » Kuwa mfunu ke monana kuswaswana ti kusalama nsosa.
+6. **Yantika yo nge mosi.** Yantika kisalu pene-pene na yandi kukonda kuyula. Bantu mingi ke kwelaka ntangu kima kele na kusalama, mpi kana ve, beno me luta ntangu kumosi.
+7. **Soba na kima ya nitu to ya kupesa pima.** Kutambula fioti, miziki, kima ya kudia, kupeta bilamba, to kupema [na pima kumosi](/games/calm-breathing/). NIA ke pesa ndongisila ya kubalula dikebi na miziki, mukanda to kutambula.
+8. **Bika yandi kusala yo na mutindu na yandi.** Kana yandi ke zola kusakana na mutindu ya nkaka na bansiku, ndima yo. Alzheimer's Association ke ndongisa kuvanda pete.
 
-## What should I say when they get frustrated?
+## Inki mfwete tuba ntangu yandi ke wa makasi?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Sala malembe, kulumusa ndinga na nge mpi pesa kikesa. [Ndongisila ya Alzheimer's Association sambu na mavwanga ya mbi](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ke pesa ndongisila ya kukatuka mpi kulomba nswa, kusadila bandinga ya pima mpi ya mbote, mpi kupesa nzila ya kulombola kati na ba nzila zole. Bandinga ya mutindu yai:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- « Lolula, yai ke yangisa. Bika beto yambula yo. »
+- « Nge ke sala mbote. Mono kele awa. »
+- « Nge kele ti ntangu ya kusadisa mono na kima ya nkaka? »
+- « Beto nwa tii na kisika ya yai? »
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Na nima manisa kisalu kukonda kusala yo diambu ya nene. [Bandongisila na beto ya kusolola](/caregiving/communication-tips/) kele ti mambu ya nkaka ya kutuba.
 
-## What should I avoid?
+## Inki mfwete kuevita?
 
-Some natural reactions tend to make things worse.
+Mvutu ya nkaka ya mbala mingi lenda kuma mbi.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Kufwa to kukwamina.** « Kwisa, diaka mosi kaka » to « Nge ke zolaka yai » ke sadisaka ve mingi.
+- **Kuyula bonso nsosa to kusoba.** « Nge me zaba yai kele inki » to « Ve, yina kele mbi » ke yika kilo.
+- **Kubaka yo bonso diambu ya nge mosi.** NIA ke yibusa bakebi nde maladi, kele ve muntu, ke salaka bansoba yai.
+- **Kufinama mingi to kusala nswalu.** Alzheimer's Association ke ndongisa kubikisa kutombula ndinga, kumonisa boma, kukanga nzila, kufinama mingi, kukanga, kufunda, kukonda kutala to kufwa ti muntu, mpi kuevita bansoba ya mbalakata yina muntu ke mona ve.
+- **Kusadila nsoni.** « Mono me yidika mambu yonso sambu na nge » ke pesa nge beno zole mawi ya mbi.
+- **Kupesa balulukumu ya mbi.** « Ntu-ngolo » to « mpasi » ke bumba kikuma ya kieleka mpi ke kumisa mpasi kusoba yo.
 
-## How can I find out what is behind repeated refusals?
+## Inki mutindu lenda zabaka kikuma ya mambuya mingi?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Sonika bansangu ya pete na mposo mosi to zole. NIA ke tuba nde kulandila bansoba ya bikalulu lenda sadisa bakebi mpi bantu ya mavimpi kuzaba mutindu mpi kumona kikuma.
 
-Jot down:
+Sonika:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ntangu ya kilumbu;
+- inki nge me pesa mpi mutindu nge me yula;
+- inki vandaka kusalama pene na nge (makelele, bambeni, televizio);
+- mutindu yandi me lala, me dia mpi me nwa, mpi ntangu ya nsuka yandi me kwenda na kabine;
+- nkisi ya mpa to maladi ya mpa.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Mitindu ke monanaka nswalu: kubuya yina ke salama kaka na nima ya 4 ya nkokila, kaka ti nsaka mosi, to kaka ntangu televizio kele na kusala. [Ndongisila ya Family Caregiver Alliance sambu na bikalulu ya maladi ya kuvila mambu](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ke tuba na mutindu ya pete: beto lenda soba ve muntu, kansi beto lenda soba bikalulu na beto mpi kisika.
 
-## When should I talk to a doctor about refusal or frustration?
+## Ntangu nki mfwete tubila munganga sambu na kubuya to kuwa makasi?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Tubila munganga ntangu bikalulu ke soba na mbalakata, nswalu, to kumosi ti bidimbu ya maladi. NIA ke tuba nde bansoba ya mbalakata to yina ke soba nswalu na bikalulu, mingi-mingi kana muntu me baka maladi ya kubasika to nsoba ya nkisi ya mpa, fwete zabisa munganga nswalu.
 
-Contact their doctor promptly if you notice:
+Tubila munganga na yandi nswalu kana nge ke mona:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- kisangasanga ya mbalakata to nsoba ya nene na bangunga to bilumbu;
+- bidimbu ya mpasi, bonso kuyinana, kukanga kitini mosi ya nitu, to mpasi ya mpa ya kunikana;
+- fièvre to bidimbu ya nkaka ya maladi ya kubasika;
+- nkisi ya mpa to yina bo me soba na nima ya nsoba ya bikalulu;
+- kukonda luzolo na mambu mingi, mansanga to kukatuka na bantu na bamposo zole to kuluta;
+- kubuya kudia to kunwa.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association ke pesa ndongisila ya nsosa ya mvimba ya mavimpi sambu na konso muntu yina kele ti bikalulu ya mutindu yai, mingi-mingi kana yo ke monana na mbalakata. Family Caregiver Alliance ke ndongisa mpi kutala ntete na munganga, sambu mambu ya bikalulu lenda vanda ti kikuma ya mavimpi. Kuyantika ve, kuyambula ve to kusoba ve nkisi mosi kukonda kutubila munganga to muntu ya bankisi.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Kana muntu kele na kigonsa to kele ti bidimbu ya diambu ya nswalu ya mavimpi, binga nimero ya lukanu ya nswalu ya kisika na nge (bonso 112). NIA ke pesa ndongisila ya kuzabisa muntu yina ke baka mbila nde muntu kele na maladi ya kuvila mambu.
 
-## Is it okay if we do nothing at all?
+## Keti kele mbote kana beto sala kima ve?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ee. Bilumbu ya nkaka kisalu ya kuluta mbote kele kukonda kisalu: kuvanda kumosi, kusimba maboko, kuwa miziki yina nge ke zolaka, to kutala bandeke na fenetre. Yina kele ve kununga ve. [Ndongisila na beto ya kusakana kumosi](/caregiving/how-to-play-together/) ke tendula sambu na nki kuyambula ntete, to kukonda kuyantika, lenda vanda nzila ya mbote.

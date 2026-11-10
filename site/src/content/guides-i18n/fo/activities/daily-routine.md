@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Ein blíður dagligur vani hjá einum, sum livir við demensu"
+seoTitle: "Dagligur vani við demensu: Ein smidigur royndardag"
+description: "Ein smidigur royndardagur hjá einum, sum livir við demensu, við máltíðum, virksemi og hvíld í einum støðugum rútmu, pluss hvussu tú gert tín egna og tillagar hann torførari dagar."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Ein blíður dagligur vani heldur uppvaking, máltíðir, persónliga røkt og legutíð
+  á umleið somu tíð, leggur høvuðsvirksemið tá, persónurin er mest vakin, og
+  javnvigar virksemi og hvíld. Ger vanan út frá lívslanga siðvenjum persónsins,
+  halt hann leysan heldur enn ov fullan, fá dagsljós og rørslu hvønn dag, og
+  broyt ætlanina frítt, tá dagurin krevur tað.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Støðugar tíðir til uppvaking, máltíðir, røkt og legutíð geva degnum eina kendan karm."
+  - "Legg høvuðsvirksemið á besta tíðspunkti persónsins á degnum, ofta um morgunin."
+  - "Fyll ikki hvønn minutt. Hvíld og løgd eru partur av vananum."
+  - "Dagsljós, daglig rørsla og at sleppa langt seint blundi og seinum koffein kann hjálpa við óró seint um dagin."
+  - "Ein vani er ein vegleiðing, ikki ein regla. Skift, stytt ella slept alt á torførari døgum."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Hví er ein vani hjálpsamur hjá einum við demensu?"
+    a: "Ein fyrisígiligur dagur merkir færri avgerðir og óvæntaðar hendingar, sum nógv, ið liva við demensu, finna tryggjandi. Alzheimer's Association vísir á, at ein ætlaður dagur letur teg brúka minni tíð at finna útav, hvat tú skalt gera, og meiri tíð til ting, tit bæði hava gleði av. Tað hjálpir eisini teimum, sum røkja, at stýra sínum egna degi."
+  - q: "Hvussu sær ein góður dagligur skrá hjá einum við demensu út?"
+    a: "Tað finst eingin einast rætt skrá. Ein góður vani heldur uppvaking, máltíðir og legutíð á umleið somu tíð, leggur persónliga røkt og høvuðsvirksemið tá, persónurin hevur tað best, fevnir um tíð uttandura ella við einum vindeyga, og gevur pláss fyri hvíld. Ger hann út frá, hvussu persónurin altíð hevur livað."
+  - q: "Skal ein persónur við demensu blunda um dagin?"
+    a: "Ein stutt hvíld kann hjálpa, serliga eftir døgurða. National Institute on Aging mælir til at sleppa longum blundi og dúrungi seint um dagin, tí at vera ov troyttur ella illa hvíldur kann økja um óró seint um dagin. Um svevnur er ein álvarsligur trupulleiki, tosa tá við læknan."
+  - q: "Hvat, um tey nokta at fylgja vananum?"
+    a: "Lat tað liggja nú og royn aftur seinni ella á ein annan hátt. At nokta kann merkja, at tey eru troytt, ikki frísk, hava pínu ella bara ikki eru klár. Vanin er til fyri at gera dagin lættari, so boyg hann heldur enn at noyða hann fram."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Ein blíður vani gevur degnum eina kenda karm: at standa upp, máltíðir, eitt sindur av virksemi, hvíld og song umleið á somu tíð. Tað minkar um avgerðir og óvæntaðar hendingar, og tað gevur tær eina ætlan til teir løtur, tá tú annars hevði hugsað um, hvat tú skalt gera nú. Vanin niðanfyri er eitt dømi, ikki ein regla. Brúka hann sum byrjanarstøði, og laga hann síðani til persónin, tú røkir um.
 
-## Why does a daily routine help?
+## Hví hjálpir ein dagligur vani?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ein støðugur vani hjálpir, tí kend mynstur eru lættari at fylgja enn nýggj. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) sigur, at ein ætlaður dagur merkir minni tíð brúkt at avgera, hvat skal gerast, og meiri tíð til stuttleikafullt virksemi, og viðmerkir, at regluligar tíðir til at vakna og fara at sova kunnu hjálpa við svevntrupulleikum og óró seint um dagin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) mælir til at baða, klæða seg og eta á somu tíð hvønn dag sum part av einum róligum heimi, og [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) mælir eisini til at halda somu vanar.
 
-## A sample gentle day
+## Ein royndur blíður dagur
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Tíðirnar eru bert dømi. Flyt allan dagin fram ella aftur, so hann passar til egna rútmu persónsins.
 
-| Time | What happens | Ideas | On a harder day |
+| Tíð | Hvat hendir | Hugskot | Á einum torførari degi |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 | Vakna, vaska seg, klæða seg | Somu røð hvønn dag; legg klæði fram í røðini, tey skulu takast á | Halt røktina einfalda; ein reinur stakki er nóg mikið |
+| 8:45 | Morgunmatur | Kaffi og blaðið lisið upp, ella útvarpið | Et saman í løgd, ongan trýst at tosa |
+| 9:30 | Høvuðsvirksemi | Falda vaski, baka, arbeiða í urtagarði, ein stutt túr ella ein spasutur | Ein styttri útgáva, ella lat tey hyggja at, meðan tú gert tað |
+| 10:30 | Løgd | Tónleikur, ein myndaalbum ella at sita við einum vindeyga | Hvíl í yndisstólinum |
+| 11:00 | Hjálp við døgurða | Vaska grønmeti, seta borðið | Tú gert mat; tey halda tær við felag |
+| 12:00 | Døgurði og rudda av | Turrka borðið, turrka nøkur fá uppvaskiføt | Slept húsligu arbeiðunum |
+| 13:00 | Stutt hvíld | Føtur upp, spakulig tónleikur | Sama |
+| 14:00 | Uttandura ella virkin | Spasutur, tíð á verandi, vatna urtir, blása ein ballón | Sit við einum sólskínum vindeyga |
+| 15:00 | Sosialt ella skapandi | Vitjan, ein samrøða, [myndapør](/games/picture-pairs/), at lita, kort | Ein drekka og ein bita saman |
+| 16:30 | Róartíð | Gardinur fyri, ljós tendrað, eitt róligt arbeiði sum at falda vaskiklutar | Kend tónleikur, lítið av ljóði |
+| 17:30 | Kvøldmatur | Hjálp við at røra ella seta borðið | Einfaldur, kendur matur |
+| 18:30 | Kvøld saman | Minnast saman yvir eftirrættinum, kort, ein yndisrøð ella ein handamassasja | Róligt felag |
+| 20:00 | Leguvanir | Bað ella vasking, náttbúni, spakulig tónleikur, deyvd ljós | Stytt alt; hugnaður fyrst |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Hetta dømið fylgir byggnaðinum í egna royndarætlanini hjá Alzheimer's Association fyri tíðliga og miðstig, sum fer frá persónligari røkt og morgunmati gjøgnum húslig arbeiði, spasuturar, tónleik, hvíld og vitjanir til kvøldmat, at minnast saman og at gera seg kláran at fara at sova.
 
-## How do you build your own routine?
+## Hvussu gert tú tín egna vana?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Byrja við, hvussu persónurin altíð hevur livað, ikki við eini talvu. Alzheimer's Association mælir til at hugsa um hetta, áðrenn tú leggur til rættis:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Hvat honum dámar og ikki dámar, styrkir og áhugamál.**
+- **Hvussu hann plagdi at brúka dagin.** Ein, sum altíð stóð tíðliga upp og gekk túr við hundinum, eigur framvegis at ganga tíðliga. Ein náttarfugl fer kanska ongantíð at dáma ein byrjan kl. 8:00.
+- **Besta tíð hansara á degnum.** Legg bað, túrar og høvuðsvirksemið har.
+- **Nóg mikið av tíð** til máltíðir, vasking og at klæða seg, so einki verður hastverk.
+- **Regluligar tíðir** at vakna og fara at sova.
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Sama kelda mælir til at hava eina blanding av húsligum arbeiðum, máltíðum, persónligari røkt, skapandi virksemi, kropsligum virksemi, sosialari tíð, andaligum virksemi og spontanum løtum, so sum tá ein vinur kemur á óvart inn um.
 
-### Try it for a week, then adjust
+### Royn tað í eina viku, og tillaga síðani
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Skriva eina stutta viðmerking hvønn dag. Alzheimer's Association mælir til at spyrja, hvørji virksemi riggaðu best og hví, um tað vóru tíðir við ov nógv gangandi ella ov lítið at gera, og um spontanar ætlanir vóru hugnaligar ella elvdu til stúran. Halt tað, sum riggar, og broyt tað, sum ikki riggar.
 
-### Make it visible
+### Ger tað sjónligt
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Um persónurin enn kann lesa, kann ein túsjtalva ella eitt kort við stórum bókstavum við ætlanini fyri dagin virka tryggjandi. Halt tað stutt: «Morgunmatur. Spasutur við Saru. Døgurði. Hvíld.» Summi klára seg betur uttan at vita langt frammanundan; Family Caregiver Alliance mælir til ikki at umrøða ætlanir fyrr enn beint áðrenn, um tað elvir til stúran.
 
-## How to adapt the routine
+## Hvussu tillagar tú vanan
 
-### Leave room to breathe
+### Lat vera pláss at anda
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Fyll ikki hvønn minutt. Alzheimer's Association leggur dent á, at persónurin hevur brúk fyri javnvág millum virksemi og hvíld og kann hava brúk fyri fleiri steðgum. Um hann sýnist at keðast, verður distraheraður ella illur, skift tá virksemi ella hvíl.
 
-### Protect the late afternoon
+### Verð um seinseftirmiðdagin
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Nógv gerast meira órógv, tá dagsljósið hvørvur. NIA mælir til tíð uttandura ella við einum vindeyga fyri sólskin hvønn dag, at vera virkin hvønn dag uttan at leggja ov nógv til rættis, at sleppa koffein og alkohol seint um dagin, og at sleppa longum blundi seint um dagin. Summar familjur finna eisini, at tað hjálpir at draga gardinurnar fyri og tendra ljós áðrenn myrkið. Sí [óró seint um dagin](/caregiving/late-day-restlessness/) og [svevnur](/brain-health/sleep/).
 
-### Change it as needs change
+### Broyt hann, tá tørvurin broytist
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Tíðligt stig:** legg vanan til rættis saman. Persónurin vil kanska hava eina skrivaða skrá, sum hann stýrir sjálvur.
+- **Miðstig:** tú leiðir meira. Styttri virksemi, meira hvíld og nógv kend arbeiði; sí [virksemi á miðstigi](/activities/middle-stage/).
+- **Seint stig:** vanin snýr seg um hugna, máltíðir og røkt, við stuttum sansalutum sum tónleiki ella handamassasju ímillum; sí [virksemi á seinum stigi](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Broyt virkseminið, ikki karmin
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Halt máltíðir, hvíld og legutíð støðugar, og skift um virkseminið ímillum. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mælir til at royna ymisk virksemi ymsar dagar fyri at halda tingini áhugaverd. Tú kanst baka mánadag, arbeiða í urtagarði týsdag og hyggja at myndum mikudag. Okkara [101 hugskot til virksemi](/activities/ideas/) og [húslig arbeiði](/activities/household-tasks/) kunnu fylla plássini.
 
-## When the day goes sideways
+## Tá dagurin ikki fer sum ætlað
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Nakrir dagar fara ikki eftir nakrari ætlan. Sjúka, ein vánalig nátt, ein læknavitjan ella broytt veður kunnu kasta øllum av lagi. Slepp ætlanini, halt tað grundleggjandi (matur, drekka, hvíld, hugnaður) og royn aftur í morgin. Um persónurin noktar nakað, sí [tá tey siga nei](/caregiving/when-they-say-no/). Ein løgd steðgur við róligari anding saman, sum [rólig anding](/games/calm-breathing/), kann hjálpa tykkum báðum at finna róina aftur.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Tín egni vani hevur eisini týdning. Bygg steðgar inn til tín sjálvs, og bið familju ella eina avloysingartænastu um at taka yvir regluliga frítíð. Sí [egnumsjón hjá teimum, sum røkja](/caregiving/caregiver-self-care/).

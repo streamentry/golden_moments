@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Mũtaratara Mũhũthũ wa O Mũthenya"
+seoTitle: "Mũtaratara wa Mũthenya kũrĩ Mũrimũ wa Kũriganĩrwo"
+description: "Mũtaratara mũhũthũ wa mũthenya kũrĩ mũndũ ũrĩa ũtũũraga na mũrimũ wa kũriganĩrwo, ũrĩ na irio, maũndũ ma gwĩka na kũhurũka, na ũrĩa ũngĩũgarũra."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Mũtaratara mũhũthũ wa o mũthenya ũtũmaga kwĩyũkĩria, irio, kwĩmenyerera na
+  gũkoma gũkoragwo mahinda na kũndũ kumwe ta kwĩrĩ, ũiga ũndũ ũrĩa mũnene wa
+  gwĩkwo rĩrĩa mũndũ arĩ na hinya, na ũkaringanĩria maũndũ ma gwĩka na
+  kũhurũka. Wũmbi ũringane na mĩtugo ya mũndũ ya mũtũũrĩre wake wothe, ndũkaũhĩe
+  maũndũ maingĩ, wone ũtheri wa riũa na wĩgarũragarũrie o mũthenya, na ũgarũre
+  mũbango hingo ciothe rĩrĩa mũthenya ũkũbatara ũguo.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Mahinda marĩa maringaine ma kwĩyũkĩria, irio, kwĩmenyerera na gũkoma matũmaga mũthenya ũgĩe na mũtaratara ũrĩa mũndũ amenyerete."
+  - "Iga ũndũ ũrĩa mũnene wa gwĩkwo ihinda rĩrĩa mũndũ arĩ na hinya mũingĩ, kaingĩ rũciinĩ."
+  - "Ndũkaiyũrie o kĩndũ gĩothe. Kũhurũka na ihinda rĩa ũhooreri no gĩcunjĩ kĩa mũtaratara."
+  - "Ũtheri wa riũa, kwĩgarũragarũria o mũthenya, na kwĩrigĩrĩria gũkoma mũno hwaĩ-inĩ kana kũnyua kafeini hwaĩ-inĩ no gũteithie na kũaga ũhurũku hwaĩ-inĩ."
+  - "Mũtaratara nĩ kĩonereria, ti watho. Garũra, nyihia kana tiganĩria ũndũ o wothe mĩthenya ĩrĩa mĩritũ."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Nĩ kĩĩ gĩtũmaga mũtaratara ũteithie mũndũ ũrĩa ũtũũraga na mũrimũ wa kũriganĩrwo?"
+    a: "Mũthenya ũrĩa ũngĩmenyeka ũnyiihagia itua na maũndũ ma kũgegia, na ũndũ ũcio andũ aingĩ arĩa matũũraga na mũrimũ wa kũriganĩrwo nĩmawonaga ũrĩ kĩhooreria. Alzheimer's Association yugaga atĩ mũthenya ũrĩ na mũbango ũtũmaga mũtigage ihinda inene mũgĩtua ũrĩa mũgwĩka, no mũrũmanĩrĩre na maũndũ marĩa mũkenagĩra inyuothe. Ningĩ ũteithagia arĩa mamenyagĩrĩra andũ kũrũmĩrĩra mũthenya wao wega."
+  - q: "Mũtaratara mwega wa mũthenya kũrĩ mũndũ ũrĩa ũtũũraga na mũrimũ wa kũriganĩrwo nĩ ũrĩkũ?"
+    a: "Gũtirĩ mũtaratara ũmwe tu ũrĩa mwagĩrĩru. Mwega nĩ ũrĩa ũigaga kwĩyũkĩria, irio na gũkoma mahinda marĩa maringaine, ũkaiga kwĩmenyerera na ũndũ ũrĩa mũnene wa gwĩkwo ihinda rĩrĩa mũndũ arĩ na hinya, ũkagĩa na ihinda rĩa gũthiĩ nja kana gũikara hakuhĩ na ndirica, na ũkagĩa na ihinda rĩa kũhurũka. Wũmbi ũringane na ũrĩa mũndũ ũcio atũũrĩte mũtũũrĩre wake wothe."
+  - q: "Mũndũ ũrĩa ũtũũraga na mũrimũ wa kũriganĩrwo nĩagĩrĩirwo nĩ gũkoma mũthenya?"
+    a: "Kũhurũka gwa kahinda kanini no gũteithie, makĩria thutha wa irio cia mũthenya. National Institute on Aging ĩtaaraga andũ matikanakome mũno kana mahĩndĩre mũno hwaĩ-inĩ, tondũ kũnoga mũno kana kwaga kũhurũka wega no kwongererie kũaga ũhurũku hwaĩ-inĩ. Angĩkorwo toro nĩ thĩĩna mũnene, arĩrĩria na ndagĩtarĩ wake."
+  - q: "Atĩ angĩrega kũrũmĩrĩra mũtaratara?"
+    a: "Reke ũndũ ũcio rĩu, na ũgerie rĩngĩ thutha kana na njĩra ĩngĩ. Kũrega no kuonanie atĩ nĩanogete, ndarĩ na ũgima mwega, arĩ na ruo, kana tiarĩ haarĩ. Mũtaratara ũkoragwo ho nĩguo mũthenya ũhũthe, nĩ ũndũ ũcio wũgarũre handũ ha kũmũhatĩrĩria."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Mũtaratara mũhũthũ ũheaga mũthenya mũtaratara ũrĩa mũndũ amenyerete: kwĩyũkĩria, irio, ũndũ mũnini wa gwĩka, kũhurũka, na gũkoma mahinda marĩa makuhanĩte. Ũnyiihagia itua na maũndũ ma kũgegia, na ũkũheaga mũbango wa mahinda marĩa ũngĩkorwo ũkĩyũria ũrĩa ũngĩĩka. Mũtaratara ũrĩ haha nĩ kĩonereria, ti watho. Ũhũthĩre ta handũ ha kwambĩrĩria, ũcooke ũũmbie ũringane na mũndũ ũrĩa ũmenyagĩrĩra.
 
-## Why does a daily routine help?
+## Nĩ kĩĩ gĩtũmaga mũtaratara wa o mũthenya ũteithie?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Mũtaratara ũrĩa mũrũmu ũteithagia tondũ mĩtugo ĩrĩa mĩmenyereku nĩ mĩhũthũ kũrũmĩrĩra gũkĩra mĩerũ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) yugaga atĩ mũthenya ũrĩ na mũbango ũnyiihagia ihinda rĩa gũtua ũrĩa ũngĩĩka na ũkongerera ihinda rĩa maũndũ marĩa makenagia, na ĩkoiga atĩ mahinda marĩa maringaine ma kwĩyũkĩria na gũkoma no mateithie na mathĩĩna ma toro na kũaga ũhurũku hwaĩ-inĩ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ĩtaaraga gwĩthamba, kwĩhumba na kũrĩa irio mahinda o macio o mũthenya ta gĩcunjĩ kĩa mũciĩ ũtarĩ na inegene, na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) o nayo ĩtaaraga kũiga mĩtaratara ĩyo ĩmwe.
 
-## A sample gentle day
+## Kĩonereria kĩa mũthenya mũhũthũ
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Mahinda nĩ cionereria tu. Garũra mũthenya wothe ũthiĩ tene kana ũthiĩ thutha nĩguo ũringane na mũtaratara wa mũndũ ũcio.
 
-| Time | What happens | Ideas | On a harder day |
+| Ihinda | Ũrĩa kũreeka | Mawoni | Mũthenya mũritũ |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Kwĩyũkĩria, gwĩthamba, kwĩhumba | Rũgendo rũmwe o mũthenya; iga nguo na mũtaratara ũrĩa igũhumba | Reke kwĩmenyerera gũkorwo kũhũthũ; shati njerũ nĩ ya kũigana |
+| 8:45 a.m. | Irio cia rũciinĩ | Kahũa na ngathĩti ĩgĩthomwo na mũgambo mũnene, kana redio | Rĩanĩrai hamwe mũhooreire, hatarĩ na kũhatĩrĩrio gwa kwaria |
+| 9:30 a.m. | Ũndũ ũrĩa mũnene wa gwĩkwo | Kũgotha nguo, kũruga, kũrĩma mũgũnda, gũthiĩ handũ hakuhĩ kana gũtembũka | Njĩra nyihia, kana ũreke akũrore ũgĩĩka |
+| 10:30 a.m. | Ihinda rĩa ũhooreri | Nyĩmbo, ibuku rĩa mahinda, kana gũikara hakuhĩ na ndirica | Hurũka gĩtĩ-inĩ kĩrĩa endete |
+| 11:00 a.m. | Gũteithia kũhaarĩria irio cia mũthenya | Gũthambia mboga, kũhaarĩria metha | Wee ũkaruga; we agĩkorwo hamwe nawe |
+| 12:00 p.m. | Irio cia mũthenya na gũtheria | Gũhura metha, kũhuura thaani nini | Tiganĩria mawĩra macio |
+| 1:00 p.m. | Kũhurũka gwa kahinda kanini | Kũhurũkia magũrũ, nyĩmbo cia ũhooreri | O ũguo |
+| 2:00 p.m. | Nja kana wĩra wa mwĩrĩ | Gũtembũka, gũikara baranda, kũitĩrĩria mĩmera maaĩ, gũikĩa mũpuira | Ikaraga hakuhĩ na ndirica ĩrĩ na riũa |
+| 3:00 p.m. | Gũcemania kana wĩra wa ũũmbi | Kũceerwo, kwaragia thimũ, [picture pairs](/games/picture-pairs/), gũhaka rangi, karati | Kũnyua na kũrĩa kĩndũ gĩnini hamwe |
+| 4:30 p.m. | Ihinda rĩa kũhoorera | Kũhinga mĩkingo, gwakia matawa, wĩra mũhooru ta kũgotha tauro | Nyĩmbo iria mũndũ amenyerete, inegene nini |
+| 5:30 p.m. | Irio cia hwaĩ-inĩ | Gũteithia gũkoroga kana kũhaarĩria metha | Irio nyoroku, iria mũndũ amenyerete |
+| 6:30 p.m. | Hwaĩ-inĩ hamwe | Kũririkana maũndũ ma tene thutha wa irio, karati, kĩonereria kĩrĩa endete, kũmĩra moko | Gũikara hamwe mũhooreire |
+| 8:00 p.m. | Mũtaratara wa gũkoma | Gwĩthamba kana gwĩthambia, nguo cia toro, nyĩmbo cia ũhooreri, matawa manini | Nyihia maũndũ mothe; kĩhooreria kĩambe |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Kĩonereria gĩkĩ kĩrũmagĩrĩra mũtaratara wa kĩonereria wa Alzheimer's Association wa icunjĩ cia mbere na cia gatagatĩ, ũrĩa wambĩrĩria na kwĩmenyerera na irio cia rũciinĩ, ũgacooka mawĩra ma mũciĩ, gũtembũka, nyĩmbo, kũhurũka na gũceerwo, ũgakinya irio cia hwaĩ-inĩ, kũririkana maũndũ ma tene na kwĩhaarĩria gũkoma.
 
-## How do you build your own routine?
+## Ũngĩaka mũtaratara waku mwene atĩa?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Ambĩrĩria na ũrĩa mũndũ atũũrĩte mũtũũrĩre wake wothe, ti na chati. Alzheimer's Association ĩtaaraga gwĩcũrania maũndũ maya mbere ya kũbanga:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Maũndũ marĩa endaga, marĩa atendetie, hinya wake na maũndũ marĩa amwendagia.**
+- **Ũrĩa aahũthagĩra mũthenya wake mbere.** Mũndũ ũrĩa wokĩraga tene na agatembea na ngui yake no agĩrĩirwo nĩ gũtembea tene. Mũndũ ũrĩa wendaga gũikara awake hwaĩ-inĩ ndangĩkenio nĩ kwambĩrĩria 8 a.m.
+- **Ihinda rĩrĩa mwega harĩ we mũthenya-inĩ.** Iga gwĩthamba, gũthiĩ nja na ũndũ ũrĩa mũnene wa gwĩkwo ihinda rĩu.
+- **Ihinda rĩa kũigana** rĩa irio, gwĩthamba na kwĩhumba, nĩguo gũtikagĩe na ihenya.
+- **Mahinda marĩa maringaine ma kwĩyũkĩria na gũkoma.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ihinda-inĩ o rĩu ĩtaaraga kũingĩria mawĩra ma mũciĩ, irio, kwĩmenyerera, maũndũ ma ũũmbi, kwĩgarũragarũria kwa mwĩrĩ, gũcemania na andũ, maũndũ ma kĩĩroho na mahinda matarĩ ma mũbango, ta mũrata agĩũka gũceera.
 
-### Try it for a week, then adjust
+### Geria kiumia kĩmwe, ũcooke ũgarũre
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Andĩka ũhoro mũhũthũ o mũthenya. Alzheimer's Association ĩtaaraga kwĩyũria maũndũ marĩa maahingire wega na nĩ kĩĩ, kana kwarĩ na mahinda ma maũndũ maingĩ mũno kana manini mũno, na kana mĩbango ĩtarĩ ya mũtaratara nĩyakenirie kana ĩkĩrehe mĩtangĩko. Iga ũrĩa ũkũruta wega na ũgarũre ũrĩa ũtarahinga.
 
-### Make it visible
+### Ũtũme wonagwo
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Mũndũ angĩkorwo no athome, kabati ka kwandĩkwo kana karatathi ka ndemwa nene karĩ na mũbango wa mũthenya no kamũhoorerie. Gĩtũũre kĩhũthũ: „Irio cia rũciinĩ. Gũtembũka na Sarah. Irio cia mũthenya. Kũhurũka.” Andũ amwe magĩaga wega mamenya maũndũ mbere mũno; Family Caregiver Alliance ĩtaaraga kwaga kwaria ũhoro wa mĩbango nginya rĩrĩa ĩkuhĩrĩria, angĩkorwo ũndũ ũcio nĩũrehaga mĩtangĩko.
 
-## How to adapt the routine
+## Ũrĩa ũngĩgarũra mũtaratara
 
-### Leave room to breathe
+### Tiga ihinda rĩa kũhũthia
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ndũkaiyũrie o kĩndũ gĩothe. Alzheimer's Association yugaga atĩ mũndũ abataraga kũringania maũndũ ma gwĩka na kũhurũka, na no abatare kũhurũka kaingĩ. Aoneka ta arĩ na mĩrimũ, ndarũmbũiya maũndũ, kana arakara, garũra ũndũ ũrĩa mũreeka kana mũhurũke.
 
-### Protect the late afternoon
+### Menyerera ihinda rĩa hwaĩ-inĩ
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Andũ aingĩ magĩaga ũhurũku riũa rĩgĩthũa. NIA ĩtaaraga gũthiĩ nja kana gũikara hakuhĩ na ndirica nĩguo mũgĩe na ũtheri wa riũa o mũthenya, kwĩgarũragarũria o mũthenya mũtikaige maũndũ maingĩ mũno, kwĩrigĩrĩria kafeini na njoohi hwaĩ-inĩ, na kwĩrigĩrĩria gũkoma mũno hwaĩ-inĩ. Ciana cia mũciĩ imwe nĩcionaga ũteithio wa kũhinga mĩkingo na gwakia matawa mbere ya gũtuka. Rora [kũaga ũhurũku hwaĩ-inĩ](/caregiving/late-day-restlessness/) na [toro](/brain-health/sleep/).
 
-### Change it as needs change
+### Ũgarũre mabataro magĩcenjia
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Icunjĩ cia mbere:** bangai mũtaratara hamwe. Mũndũ no ende mũtaratara wandĩkĩtwo ũrĩa angĩĩrutĩra we mwene.
+- **Icunjĩ cia gatagatĩ:** wee nĩwe ũtongoragia makĩria. Maũndũ ma gwĩka manyihi, kũhurũka kũngĩ na mawĩra maingĩ marĩa mũndũ amenyerete; rora [maũndũ ma gwĩka icunjĩ-inĩ cia gatagatĩ](/activities/middle-stage/).
+- **Icunjĩ cia mũthia:** mũtaratara ũcokerera kĩhooreria, irio na kwĩmenyerera, na mahinda manini ma gũkenia maitho ta nyĩmbo kana kũmĩra moko gatagatĩ-inĩ; rora [maũndũ ma gwĩka icunjĩ-inĩ cia mũthia](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Garũra maũndũ ma gwĩka, no ndũkagarũre mũtaratara
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Iga irio, kũhurũka na gũkoma maringaine, na ũgarũrage maũndũ marĩa mũgwĩka gatagatĩ-inĩ. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ĩtaaraga kũgeria maũndũ ngũrani mĩthenya ngũrani nĩguo maũndũ magĩe na ũkenu. No ũrũge mũthenya wa Jumatatũ, ũrĩme mũgũnda mũthenya wa Jumanne, na ũrore mahinda mũthenya wa Jumatatũ. [Mawoni maitũ 101 ma maũndũ ma gwĩka](/activities/ideas/) na [mawĩra ma mũciĩ](/activities/household-tasks/) no maiyũrie mahinda macio.
 
-## When the day goes sideways
+## Rĩrĩa mũthenya ũtarathiĩ wega
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Mĩthenya ĩmwe ndĩkarũmĩrĩra mũbango o na ũrĩkũ. Ndwari, gũtaama toro wega, gũceerwo nĩ ndagĩtarĩ kana kũgarũrũka kwa riera no cionũhe maũndũ mothe. Tiganĩria mũbango, ũige maũndũ ma bata (irio, kũnyua, kũhurũka, kĩhooreria) na ũgerie rĩngĩ rũciũ. Mũndũ angĩrega ũndũ, rora [rĩrĩa oiga aca](/caregiving/when-they-say-no/). Kũhuhia mĩhũmũ mũhooreire hamwe, ta [kũhuhia mũhooreire](/games/calm-breathing/), no gũteithie inyuothe kwambĩrĩria rĩngĩ.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Mũtaratara waku mwene o naguo nĩ wa bata. Ingĩria mahinda ma kwĩhurũkia, na ũrie andũ a famĩlĩ kana ũteithio wa kũhurũkia arĩa mamenyagĩrĩra magũteithie kũgĩa na ihinda rĩaku. Rora [kwĩmenyerera kwa mũmenyereri](/caregiving/caregiver-self-care/).

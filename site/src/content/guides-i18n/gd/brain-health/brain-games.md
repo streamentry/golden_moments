@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "A bheil geamannan eanchainn a’ casg trom-inntinn?"
+seoTitle: "Geamannan eanchainn is trom-inntinn: am fianais"
+description: "Na tha rannsachadh ag ràdh mu gheamannan eanchainn is trom-inntinn: brosnachadh inntinneil, trèanadh eanchainn air coimpiutair, deuchainn ACTIVE is cùis FTC Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Cha deach sealltainn gu bheil geama eanchainn sam bith a’ casg trom-inntinn.
+  Mar as trice, bidh trèanadh eanchainn air coimpiutair a’ leasachadh nan
+  gnìomhan a bhios daoine a’ cleachdadh. Ann an aon sgrùdadh bho dheuchainn
+  ACTIVE, bha ceangal eadar trèanadh astair sònraichte le seiseanan neartachaidh
+  agus nas lugha de bhreithneachaidhean trom-inntinn thar 20 bliadhna, toradh
+  cumhang. Do dhaoine a tha mu thràth a’ fuireach le trom-inntinn, tha
+  buannachdan beaga, geàrr-ùine aig brosnachadh inntinneil ann am buidhnean.
+  Tha e nas fheàrr geamannan a mhealtainn airson spòrs is companas.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Tha sgrùdaidhean trèanaidh eanchainn a’ sealltainn gu bheil daoine a’ fàs nas fheàrr air na gnìomhan a bhios iad a’ cleachdadh, le mòran nas lugha de dh’fhianais gu bheil seo a’ gluasad gu beatha làitheil."
+  - "Ann an deuchainn ACTIVE, cha robh ach aig na daoine a rinn trèanadh astair sònraichte le seiseanan neartachaidh a bha nas lugha de bhreithneachaidhean trom-inntinn thar 20 bliadhna. Cha do sheall trèanadh astair gun neartachadh, no trèanadh cuimhne is reusanachaidh, seo."
+  - "Ann an 2016, phàigh companaidh Lumosity $2 mhillean gus cùisean FTC a rèiteach a bha ag ràdh nach robh an saidheans aca airson tagraidhean mu bhith a’ cur dàil air trom-inntinn."
+  - "Do dhaoine le trom-inntinn meadhanach gu meadhanach, tha buannachdan beaga, geàrr-ùine aig buidhnean brosnachaidh inntinneil airson smaoineachadh agus buannachdan nas soilleire ann an conaltradh is eadar-obrachadh shòisealta."
+  - "Tha geamannan Golden Moments ann airson tlachd is ùine còmhla. Chan eil iad nan leigheas agus chan eil iad a’ casg no a’ slaodadh trom-inntinn."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "A bheil geamannan eanchainn a’ casg galar Alzheimer?"
+    a: "Cha deach dearbhadh gu bheil geama eanchainn sam bith a’ casg galar Alzheimer no trom-inntinn eile. Tha an Institiud Nàiseanta air Aosda (National Institute on Aging) ag ràdh nach eil fianais gu leòr ann gu bheil an aon bhuaidh aig aplacaidean malairteach trèanaidh eanchainn ris an trèanadh a chaidh a dhearbhadh ann an deuchainnean rannsachaidh. Faodaidh geamannan a bhith nan dòigh thaitneach fhathast air ùine a chur seachad."
+  - q: "Dè lorg deuchainn ACTIVE mu thrèanadh astair is trom-inntinn?"
+    a: "Ann an sgrùdadh ann an 2026, chaidh com-pàirtichean ACTIVE a cheangal ri clàran Medicare thar 20 bliadhna. Bha ìre nas ìsle de throm-inntinn a chaidh a bhreithneachadh aig na daoine a rinn trèanadh luaths-giollachd agus co-dhiù aon seisean neartachaidh na aig a’ bhuidheann gun trèanadh. Cha do sheall trèanadh astair gun neartachadh, no trèanadh cuimhne no reusanachaidh, buaidh chudromach."
+  - q: "A bheil tòimhseachain is geamannan math do chuideigin a tha mu thràth a’ fuireach le trom-inntinn?"
+    a: "Faodaidh iad a bhith, ma tha an neach a’ còrdadh riutha. Tha buannachdan beaga geàrr-ùine aig brosnachadh inntinneil ann am buidhnean, a tha a’ gabhail a-steach geamannan facal, tòimhseachain, ceòl is còmhradh, airson smaoineachadh agus buannachdan nas soilleire airson conaltradh is eadar-obrachadh shòisealta. Is e tlachd, chan e toradh deuchainn, an amas ceart."
+  - q: "Carson a chaidh càin a chur air Lumosity leis an FTC?"
+    a: "Ann an 2016, chuir an Coimisean Malairt Feadarail (Federal Trade Commission) casaid air Lumos Labs gun robh iad a’ dèanamh thagraidhean mu na geamannan aca, a’ gabhail a-steach dàil a chur air crìonadh co-cheangailte ri aois agus trom-inntinn, gun an saidheans airson taic a thoirt dhaibh. Dh’aontaich a’ chompanaidh $2 mhillean a phàigheadh agus fianais shaidheansail earbsach a bhith aca mus dèan iad tagraidhean mar sin san àm ri teachd."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,99 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Tha geamannan eanchainn anns gach àite, agus tha mòran dhiubh a’ gealltainn gun cùm iad d’ inntinn òg. Ma tha thu a’ toirt cùram do chuideigin a tha a’ fuireach le trom-inntinn, no ma tha dragh ort mu do chuimhne fhèin, tha e nàdarrach a bhith a’ faighneachd am faodadh cluich leotha cuideachadh. Seo na tha an rannsachadh dha-rìribh a’ sealltainn, a’ gabhail a-steach na pàirtean a tha misneachail agus na pàirtean nach eil.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Is e fiosrachadh coitcheann a tha seo, chan e comhairle mheidigeach. Faic an [àicheadh meidigeach](/medical-disclaimer/) againn.
 
-## Do brain games prevent dementia?
+## A bheil geamannan eanchainn a’ casg trom-inntinn?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Cha deach dearbhadh gu bheil geama eanchainn sam bith a’ casg trom-inntinn. Tha an Institiud Nàiseanta air Aosda (NIA) a’ comhairleachadh do dhaoine a bhith faiceallach mu thagraidhean gum faod geamannan coimpiutair is air-loidhne cuimhne a leasachadh, agus tha iad ag ràdh nach eil fianais gu leòr ann gu bheil an aon bhuaidh aig aplacaid malairteach trèanaidh eanchainn sam bith ris an trèanadh a chaidh a dhearbhadh ann an deuchainnean clionaigeach ([NIA mu bhith a’ casg galar Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Chan eil sin a’ ciallachadh nach eil feum sam bith ann an geamannan. Tha e a’ ciallachadh gu bheil an luach ann an tlachd, companas is cleachdadh àbhaisteach, chan ann ann a bhith a’ dìon duine sam bith bho throm-inntinn.
 
-## What is "near transfer", and why does it matter?
+## Dè th’ ann an “gluasad faisg”, agus carson a tha e cudromach?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Nuair a bhios thu a’ cleachdadh gnìomh, mar as trice bidh thu a’ fàs nas fheàrr air a’ ghnìomh sin. Canaidh luchd-rannsachaidh buaidh trèanaidh ris an seo. Is e a’ cheist as duilghe a bheil an leasachadh a’ **gluasad** gu rudan eile: gu gnìomhan coltach ris (gluasad faisg) no gu beatha làitheil, leithid a bhith a’ cuimhneachadh coinneamhan no a’ riaghladh airgead (gluasad fad às).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Rinn ath-sgrùdadh cudromach ann an 2016 sgrùdadh air na rannsachaidhean a bha companaidhean trèanaidh eanchainn ag ainmeachadh mar an fhianais as fheàrr aca. Lorg e fianais fharsaing gu bheil daoine a’ fàs nas fheàrr air na gnìomhan air an do rinn iad trèanadh, nas lugha de dh’fhianais gu bheil iad a’ fàs nas fheàrr air gnìomhan dlùth-cheangailte, agus glè bheag de dh’fhianais gu bheil trèanadh a’ leasachadh smaoineachadh làitheil. Bha duilgheadasan dealbhaidh aig mòran de na sgrùdaidhean cuideachd a rinn e do-dhèanta co-dhùnaidhean cinnteach a tharraing
+([Simons agus co-obraichean, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Dè tha ath-sgrùdaidhean ag ràdh mu thrèanadh eanchainn air coimpiutair?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Tha ath-sgrùdaidhean Cochrane, a tha a’ cruinneachadh nan deuchainnean as fheàrr a tha rim faighinn, air coimhead air trèanadh coimpiutair a mhaireas co-dhiù 12 seachdainean:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Inbhich fallain 65 is nas sine:** ochd deuchainnean le 1,183 neach. Bha càileachd na fianais ìosal no glè ìosal. Dh’fhaodadh gum bi buannachd bheag ann dìreach às dèidh trèanaidh, gun fhianais shoilleir gu mair e
+  ([ath-sgrùdadh Cochrane, inbhich nas sine fallain](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Daoine le lagachadh inntinneil meadhanach:** ochd deuchainnean le 660 neach. Cha do dh’aithris deuchainn sam bith an do leasaich trom-inntinn air daoine às dèidh làimhe, agus bha an fhianais ro lag airson co-dhùnaidhean a tharraing
+  ([ath-sgrùdadh Cochrane, lagachadh inntinneil meadhanach](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Dè lorg deuchainn ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+Is e deuchainn mhòr sna Stàitean Aonaichte a th’ ann an ACTIVE a thòisich ann an 1998 le 2,802 inbheach aois 65 is nas sine a bha a’ fuireach gu neo-eisimeileach agus aig nach robh duilgheadasan mòra cuimhne no smaoineachaidh. Chaidh daoine a shònrachadh air thuaiream gu aon de thrì seòrsaichean trèanaidh ann am buidhnean beaga (luaths giollachd, cuimhne, no reusanachadh) no gu buidheann gun cheangal. Bha trèanadh suas ri deich seiseanan thairis air còig gu sia seachdainean. Chaidh **seiseanan neartachaidh** a thabhann air thuaiream cuideachd mu aon bhliadhna is trì bliadhna an dèidh sin do chuid de na daoine a chrìochnaich a’ mhòr-chuid de na seiseanan.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Bha an trèanadh astair a’ toirt a-steach a bhith a’ faicinn is a’ giollachd fiosrachaidh lèirsinneach ann an seallaidhean a bha a’ fàs nas giorra is nas giorra, aig ìre a dh’atharraich mar a bha daoine a’ fàs nas fheàrr.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Ann an 2026, cheangail luchd-rannsachaidh 2,021 com-pàirtiche ri na clàran Medicare aca airson 20 bliadhna ([sgrùdadh 20 bliadhna ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Seo dìreach na lorg iad:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Trèanadh astair le co-dhiù aon seisean neartachaidh:** ìre nas ìsle de throm-inntinn a chaidh a bhreithneachadh na a’ bhuidheann gun cheangal (co-mheas cunnart de 0.75, a tha gu ìre mhòr a’ ciallachadh ìre 25% nas ìsle).
+- **Trèanadh astair gun neartachadh:** cha robh ìre nas ìsle ann.
+- **Trèanadh cuimhne no reusanachaidh:** cha robh buaidh chudromach air breithneachaidhean trom-inntinn.
+- **Gach buidheann trèanaidh gu h-iomlan an coimeas ris a’ bhuidheann gun cheangal:** claonadh gu ìrean nas ìsle, ach cha robh e cudromach gu staitistigeil.
 
-### The limits of this finding
+### Crìochan an toraidh seo
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Tha e a’ buntainn ri **aon seòrsa sònraichte de thrèanadh astair fo stiùir le seiseanan neartachaidh**, chan ann ri geamannan eanchainn san fharsaingeachd.
+- Thàinig an toradh cudromach bho **fho-bhuidheann** (daoine a chrìochnaich a’ mhòr-chuid de na ciad sheiseanan agus aig an deach neartachadh a thabhann), chan ann bhon bhuidheann astair gu lèir.
+- Chaidh trom-inntinn a thomhas le bhith a’ cleachdadh **còdan breithneachaidh ann an tagraidhean Medicare**, chan ann le bhith a’ sgrùdadh gach neach. Chaidh mu chairteal de na com-pàirtichean tùsail fhàgail a-mach leis gun robh iad clàraichte ann am Medicare Advantage, aig nach eil làn chlàran thagraidhean.
+- Cha robh duilgheadasan mòra smaoineachaidh aig na com-pàirtichean nuair a thòisich iad. Chan eil na toraidhean ag ràdh dad mu gheamannan do dhaoine a tha **mu thràth a’ fuireach le trom-inntinn**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Is e toradh inntinneach a tha seo a tha airidh air tuilleadh rannsachaidh. Chan eil e na fhianais gu bheil aplacaid sam bith a’ casg trom-inntinn.
 
-## What did the FTC say about Lumosity?
+## Dè thuirt an FTC mu Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Anns an Fhaoilleach 2016, dh’aontaich Lumos Labs, companaidh Lumosity, $2 mhillean a phàigheadh gus casaidean sanasachd mheallta bhon Choimisean Malairt Feadarail a rèiteach. Thuirt an FTC gun do rinn a’ chompanaidh tagraidhean, gun saidheans iomchaidh, gum faodadh na geamannan aca coileanadh aig obair is sgoil a leasachadh agus gum faodadh iad dàil a chur air crìonadh co-cheangailte ri aois, lagachadh inntinneil meadhanach, trom-inntinn agus galar Alzheimer. Tha an òrdugh ag iarraidh air a’ chompanaidh fianais shaidheansail comasach is earbsach a bhith aca mus dèan iad tagraidhean mar sin san àm ri teachd ([brath-naidheachd an FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+An leasan do theaghlaichean: bi teagmhach mu gheama, aplacaid no prògram sam bith a tha a’ gealltainn cuimhne a dhìon no trom-inntinn a chasg.
 
-## Can games help someone who already has dementia?
+## An urrainn do gheamannan cuideachadh cuideigin a tha mu thràth a’ fuireach le trom-inntinn?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Faodaidh iad cur ri latha math, agus tha sin gu math cudromach. Is e **brosnachadh inntinneil** an dòigh-obrach as motha a chaidh a sgrùdadh: gnìomhan tlachdmhor ann am buidhnean leithid deasbad, ath-chuimhneachadh, geamannan facal, tòimhseachain is ceòl, mar as trice ann am buidheann bheag air a stiùireadh le neach-cuideachaidh.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Lorg ath-sgrùdadh Cochrane ann an 2023 air 37 deuchainnean le 2,766 neach le trom-inntinn meadhanach gu meadhanach
+([ath-sgrùdadh Cochrane air brosnachadh inntinneil](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **buannachd bheag, geàrr-ùine** air deuchainnean smaoineachaidh (fianais de chàileachd meadhanach);
+- **leasachaidhean buntainneach gu clionaigeach ann an conaltradh is eadar-obrachadh shòisealta**
+  (fianais de chàileachd àrd, bho àireamh nas lugha de sgrùdaidhean);
+- **buannachdan beaga** airson càileachd beatha, sunnd is giùlan.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Chaidh buannachdan a thomhas sa mhòr-chuid dìreach às dèidh phrògraman de mu dheich seachdainean, agus cha do rinn ach glè bheag de sgrùdaidhean sgrùdadh an do mhair iad. Is e prògram buidhne structaraichte a th’ ann am brosnachadh inntinneil, agus mar sin chan eil na toraidhean seo gu fèin-obrachail a’ buntainn ri neach a tha a’ cluich geama leis fhèin air tablaid.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Tha Coimisean Lancet 2024 cuideachd ag ràdh gu bheil prògraman gnìomhachd cudromach do dhaoine a tha a’ fuireach le trom-inntinn, gus tlachd is adhbhar a chumail suas
+([Coimisean Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Dè tha geamannan dha-rìribh math air a shon?
 
-When chosen well, games can offer:
+Nuair a thèid an taghadh gu math, faodaidh geamannan na leanas a thabhann:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Tlachd.** Tha leth-uair thaitneach luachmhor air a shon fhèin.
+- **Ceangal.** Tha cluich taobh ri taobh a’ toirt dhuibh rudeigin furasta a cho-roinn nuair a tha còmhradh doirbh. Faic [mar a chluicheas sibh còmhla](/caregiving/how-to-play-together/).
+- **Cleachdadh àbhaisteach.** Faodaidh gnìomhachd eòlach aig an aon àm gach latha fois-inntinn a thoirt.
+- **Misneachd.** Leigidh gnìomhan a tha freagarrach do na comasan a tha fhathast aig neach leotha faireachdainn comasach, chan ann air an deuchainneachadh.
+- **Còmhradh.** Faodaidh dealbh no abairt eòlach sgeulachd fhosgladh. Feuch [cairtean còmhraidh](/games/conversation-cards/) no [crìochnaich an abairt](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Na tha ri sheachnadh: timers, sgòran, sreathan leantainneach agus rud sam bith a tha a’ faireachdainn mar dheuchainn cuimhne. Ma dh’fhàsas an neach frionasach, stad. Tha crìochnachadh tràth, no dìreach suidhe còmhla, na thoradh math. Tha liosta-sgrùdaidh aig an stiùireadh againn air [taghadh aplacaidean is gheamannan](/caregiving/choosing-apps-and-games/).
 
-## Where Golden Moments fits
+## Càite a bheil Golden Moments a’ freagairt
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Tha geamannan Golden Moments, leithid [paidhrichean dhealbhan](/games/picture-pairs/),
+[tòimhseachan dhealbhan](/games/picture-puzzle/) agus
+[lorg fhaclan le clò mòr](/games/word-search/), air an dèanamh airson tlachd is
+ùine còmhla. Chan eil gleoc no sgòr aca. **Chan eil** iad nan leigheas, agus
+**chan eil** iad a’ casg no a’ slaodadh trom-inntinn. B’ fheàrr leinn sin innse gu soilleir na rudeigin a ghealltainn nach urrainn do gheama sam bith a lìbhrigeadh.
 
-## Talk with a doctor
+## Bruidhinn ri dotair
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Ma tha dragh ort mu atharrachaidhean cuimhne annad fhèin no ann an cuideigin air a bheil thu a’ toirt cùram, faic dotair an àite a bhith an urra ri aplacaid. Faodaidh dotair coimhead airson adhbharan a ghabhas làimhseachadh agus bruidhinn tro na ceumannan leis an fhianais as fheàrr, leithid a bhith a’ riaghladh bruthadh-fala agus a’ sgrùdadh claisneachd. Faic
+[A bheil e comasach trom-inntinn a chasg?](/brain-health/can-dementia-be-prevented/) airson tuilleadh fiosrachaidh. Airson troimh-chèile obann no atharrachaidhean obann eile, faigh cuideachadh meidigeach èiginneach.

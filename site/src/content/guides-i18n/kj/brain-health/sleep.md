@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Eemhofi noukolele womutwe: Osho omapekapeko taa ulike"
+seoTitle: "Eemhofi noudu wokudimbwa: Omapekapeko"
+description: "Osho omapekapeko taa ulike kombinga yeemhofi noshisho shokukwatwa koudu wokudimbwa, nomayele opaumwene eemhofi kovakulunhu nokwaavo tava file oshisho."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Omapekapeko amwe a talela efimbo lile okwa kwatakanifa okukala neemhofi dishona pokati konghalamwenyo
+  noshisho sha kula shokukwatwa koudu wokudimbwa, nomapekapeko omolabolatoli otaa ulike kutya eemhofi otadi
+  dulu okukwafela omutwe u kombe po oinima ihe na oshilonga. Oumbangi ou natango ou li pehovelo, nOkomitiye ya
+  Lancet yo 2024 inai tula eemhofi momusholondodo woinima oyo tai dulu okulundululwa. Omikalo diwa deemhofi
+  ohadi kwafele omaliudo oye efiku keshe. Omaupyakadi eemhofi moudu wokudimbwa ohaa holoka luhapu notaa dulu
+  okupopiwa nandokotola.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Ekonakono lomuUK la landula ovanhu ve fike 8 000 oule weedula 25 ola kwatakanifa okukala neemhofi deevili hamano ile dishona pokati konghalamwenyo noshisho sha kula shoudu wokudimbwa."
+  - "Elunduluko meemhofi otali dulu yo okukala edidiliko lopehovelo loudu wokudimbwa, onghee oshidjuu okutya osho tashi etifa ile oshilanduliko."
+  - "Omapekapeko kombinga yeemhofi tadi kombo mo beta-amyloid momutwe oshili, ashike natango opehovelo, mahapu omuo okwa ningilwa eembuku."
+  - "Okufuda noudjuu pefimbo lokukofa oku li apeshe, otaku dulu okuhakulwa nokwa kwatakanifwa noudu wokudimbwa momapekapeko; okungonaana unene noutalala momutenya oshi na okutalwa."
+  - "Ino hovela, ino efa ile ino lundulula omiti deemhofi ile ekwafo leemhofi nopehe na ndokotola."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Eemhofi dii ohadi etifa tuu oudu waAlzheimer?"
+    a: "Osho inashi ulikwa natango. Omapekapeko amwe okwa kwatakanifa eemhofi dishona noshisho sha kula shoudu wokudimbwa, ashike oudu wokudimbwa ou luhapu hau piyaaneke eemhofi, luhapu eedula dihapu ofimbo inaku ningwa etestululo. Okomitiye ya Lancet yo 2024 oya tala kutya oumbangi kau li nawa u tulwe momusholondodo woinima oyo tai dulu okulundululwa."
+  - q: "Ovakulunhu ova pumbwa eemhofi eevili ngapi?"
+    a: "National Institute on Aging oya ti ovakulunhu ova pumbwa eevili di fike pamwe novanhu vakwao, eevili 7 fiyo 9 oufiku. Ovakulunhu vahapu ohava ka nangala nokupenduka diva shi dulife nale, osho oshinima shi li apeshe."
+  - q: "Omolwashike omunhu ta kala noudu wokudimbwa ha kofa momutenya ndele ta penduka oufiku?"
+    a: "Oudu wokudimbwa otau dulu okukuma ewiliko lefimbo lomolutu, onghee omafimbo eemhofi nokupenduka otaa vundakana. Ouyehame, okweefa po sha, ondjala ile oilanduliko yomiti otai dulu yo okukufa ombinga. Ouyelele wetango, oilonga yakeshe efiku nelandulafano la ngungumana konguloshi otali dulu okukwafela. Ndokotola ota dulu okutala kutya opena omatomheno oo taa dulu okuhakulwa."
+  - q: "Nandi pe tuu omunhu handi file oshisho ekwafo leemhofi?"
+    a: "Popya tete nandokotola waye, mwa kwatelwa oinima oyo hai landwa nopehe na omukanda wondokotola. National Institute on Aging oya ti kutya omiti dimwe deemhofi otadi dulu okuwedela oshisho shokukala wa tengauka, okuwila po nokukala wa piyaana movanhu ovo ve na oudu waAlzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Eemhofi noukolele womutwe okwa kwatakanifwa filufilu, ashike onghedi omo a kwatakanifwa natango otai konakonwa. Omapekapeko amwe okwa kwatakanifa eemhofi dishona noshisho sha kula shoudu wokudimbwa. Oudu wokudimbwa, kombinga ikwao, oluhapu ohau piyaaneke eemhofi. Epandja eli otali yelifa osho omapekapeko taa ulike naasho inaa ulika, otali yandje omayele opaumwene eemhofi, notali popi omaupyakadi eemhofi oo haa holoka luhapu moudu wokudimbwa. Itali yandje omayele kombinga yomiti deemhofi; osho oshi na okupopiwa nandokotola.
 
-## Is poor sleep linked with dementia?
+## Eemhofi dii oda kwatakanifwa tuu noudu wokudimbwa?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Omapekapeko amwe a talela efimbo lile okwa kwatakanifa eemhofi dishona noshisho sha kula shoudu wokudimbwa, ashike oumbangi inau pwa natango.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Ekonakono lomuUK leedula 25.** Ovanongononi ova landula ovanhu ve fike 8 000 [mekonakono la Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Ovanhu ovo va li hava kofa eevili hamano ile dishona peedula 50 ile 60 ova li ve na oshisho sha kula shokukwatwa koudu wokudimbwa lwanima shi dulife ovo va li hava kofa eevili heyali. Ovo va li hava kofa eevili hamano ile dishona peedula 50, 60 no 70 ova li ve na oshisho sha kula shi fike peepelesenda 30 shi dulife ovo va li hava kofa eevili heyali pandjikilile. Eli ola li ekonakono lokutala, onghee otali ulike ekwatakanifo, haloshitukulwa tashi etifa.
+- **Etaleko lOkomitiye ya Lancet.** [Okomitiye ya Lancet yo 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) inai weda eemhofi momusholondodo wayo woinima 14 oyo tai dulu okulundululwa. Oya tala kutya oumbangi kau li nawa. Etomheno limwe olo “okwaaluka kwoshitukulwa”: omalunduluko omomutwe omoudu wokudimbwa ohaa hovele eedula dihapu ofimbo inaku ningwa etestululo notaa dulu okupiyaaneka eemhofi. Mekonakono limwe linene, ekwatakanifo pokati kokukofa efimbo lile noudu wokudimbwa ola kana eshi eedula nhano dotete dokulandula da kufwa mo.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Onghee oufiku umwe ile ivali yeemhofi dishona kau na okukala etomheno lokulipula unene. Eemhofi diwa pandjikilile oda wana okulalakanenwa molwaashi ohadi kwafele omaliudo, oupafi neameno nena.
 
-## What is the "brain-clearing" sleep research?
+## Omapekapeko “okukomba omutwe” otaa ti shike?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Otashi dulika wa lesha kutya eemhofi ohadi “kosho” omutwe. Ediladilo olo otali di momapekapeko oshili, ashike natango opehovelo.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Meembuku.** Ekonakono lo 2013 [ola yelifwa kuNIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ola mona kutya onhele pokati koitopolwa yomutwe oya kula neepelesenda 60 eshi eembuku da kofa. Omeva okwa enda noupu momutwe, okupitila moshinima osho ovanongononi hava ifana onghandangala ya glymphatic. Beta-amyloid, oprotein oyo ya kwatakanifwa noudu waAlzheimer, oya kombwa mo diva momitwe deembuku odo da kofa.
+- **Movanhu.** [Ekonakono linini lo 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) ola tala ovanhu 20 va kola nawa ve na eedula 22 fiyo 72 konima youfiku wa yuka nokonima youfiku inava kofa nandenande. Konima youfiku inava kofa, edidiliko lekwateko lomutwe la beta-amyloid ola londa neepelesenda 5 monhele ya kwatela mo hippocampus, oshitopolwa sha fimana komadiladilo. Ovashangi ova ti oumbangi ou wopehovelo. Kava li ve shii ngeenge elunduluko eli ohali xulu po konima yokufuda po, ile ngeenge otali ulike okukomba kwa ende kashona ile beta-amyloid ihapu tai ningwa.
+- **Ohai longo keembinga adishe.** Okomitiye ya Lancet oya ti kutya okulongekida kwa amyloid nako otaku dulu okupiyaaneka eemhofi movakulunhu.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Omatululo aa otaa kwafele okuuda ko kutya omolwashike ovanongononi ve na ohokwe meemhofi. Inaa ulika kutya eemhofi diwa ohadi kelele oudu waAlzheimer.
 
-## What sleep habits may help?
+## Omikalo dilipi deemhofi tadi dulu okukwafela?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Ovakulunhu ova pumbwa eevili 7 fiyo 9 deemhofi oufiku, ngaashi ovanhu vakwao, pamadiladilo [aNational Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Omayele ayo otaa kwatele mo:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Kaleka efimbo limwe alike.** Ka nangala nokupenduka pefimbo limwe efiku keshe, nokuli omafiku omafudo.
+- **Kala nelandulafano lokufuda po.** Lesha, pwilikina komusika tai ngungumaneke ile koga omeva mafiya ofimbo ino ka nangala.
+- **Ninga ondunda yeemhofi i kale iwa,** hai pupyala unene ile hai talala unene.
+- **Ninipika caffeine lwanima mefiku.** Okofi, otee, osoda noshokolati otai dulu okukukaleka wa pashuka.
+- **Henuka oalkoholi,** nokuli mounini, NIA osho tai ti.
+- **Henuka oikulya ihapu moule weevili mbali fiyo nhatu ofimbo ino ka nangala,** noinima ihapu yokunwa lwanima mefiku.
+- **Ninga omadeulo pandjikilile, ashike hamoule weevili 3 ofimbo ino ka nangala.** Tala [ewiliko letu lomadeulo](/brain-health/exercise/).
+- **Kaleka oikwaelektronika kondje yondunda yeemhofi.** NIA otai ti ino tala oTV ile ino longifa okompiuta, ongodi ile otablet omo.
+- **Henuka okukofa omutenya lwanima ile konguloshi** ngeenge tashi shiiva.
 
-## Sleep problems in dementia
+## Omaupyakadi eemhofi moudu wokudimbwa
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Elunduluko meemhofi oli li apeshe moudu wokudimbwa. [NIA oya tumbula](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) okukofa unene ile kashona, okupenduka luhapu oufiku, nokukofa omutenya unene. Oya yelifa yo “sundowning”: okuhenoumwena, okuhandukila ile okupiyaaneka okuhovela ile okunyanya eshi ouyelele wetango tau ninipala.
 
-Caregiver tips from the NIA include:
+Omayele okwaavo tava file oshisho okudja kuNIA otaa kwatele mo:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Mona ouyelele wetango nokweenda ongula.** Inda pondje ile kala omutumba popepi nekende momutenya, nokukwafela omunhu a kale e na oilonga efiku keshe. Ouyelele wa yela otau dulu okukwafela okuwapaleka ewiliko lefimbo lomolutu.
+2. **Longekida oilonga i na eenghono ongula.** Kendabala okukoga ongula ile okukala noshikulia shinene pokati komutenya.
+3. **Kaleka eemhofi domutenya dixupi nodongula.** Ninipika okukofa lwanima mefiku.
+4. **Ninga onguloshi i kale ya ngungumana.** Ninipika ouyelele, shunifa omundundumo pedu nokudana omusika tai ngungumaneke ngeenge omunhu ote i hafele. Ewiliko letu kombinga [yokuhenoumwena konguloshi](/caregiving/late-day-restlessness/) oli na omadiladilo mahapu.
+5. **Kaleka elandulafano limwe leemhofi.** Okuleshela mokule pefimbo limwe oufiku keshe oshihopaenenwa shaNIA. [Elandulafano la yuka efiku keshe](/activities/daily-routine/) nalo otali kwafele.
+6. **Ninipika caffeine noalkoholi.**
+7. **Longifa ouyelele uunini oufiku** mondunda yeemhofi, meendjila nomokandjuwo kokukoga.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Okupenduka oufiku, [omayele eameno meumbo aNIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) otaa kwatele mo ouyelele uunini oufiku ile omalamba haa xwameke oo vene, oikwatelifo mokandjuwo kokukoga, otepala i na omalwaa a yela kominghulo doshitungo, nomiti da tulwa monhele ya patwa nelapi.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Oshilonga shixupi, sha mwena konguloshi otashi dulu okukwafela nye amushe mu ngungumane. Kendabala okufuda po kashona neendelelo dinini [Calm Breathing](/games/calm-breathing/) ile oukalata vanini va ngungumana [Conversation Cards](/games/conversation-cards/). Henuka keshe osho tashi pendula unene popepi nefimbo lokukofa, nokweefa po alushe ngeenge omunhu a mono sha wana.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Eemhofi da teywa otadi lolokifa yo ovo tava file oshisho. [Ewiliko letu lokulifila oshisho](/caregiving/caregiver-self-care/) otali popi eenghedi dokumona efudepo nekwafelo.
 
-## What about sleep apnea?
+## Ongahelipi kombinga yokufuda noudjuu pefimbo lokukofa?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Okufuda noudjuu pefimbo lokukofa ohaku eta omakateko okufuda maxupi pefimbo lokukofa, oluhapu luhapu oufiku. NIA oya ti ngeenge inaku hakulwa, otaku dulu okweeta omaupyakadi ngaashi ombada yopombada, ostroke ile okudimbwa. Oididiliko oya kwatela mo okungonaana unene nokukala wa fya outalala momutenya, novanhu vahapu kave shi shii kutya ove na oupyakadi ou. Okomitiye ya Lancet oya yelifa ekonakono lomapekapeko 11 omo ovanhu ovo ve na okufuda noudjuu pefimbo lokukofa va li ve na oshisho sha kula shi fike peepelesenda 43 shoudu wokudimbwa. Omapekapeko mahapu aa inaa tala ondjudo yolutu, onghee ekwatakanifo inali yela filufilu.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Okufuda noudjuu pefimbo lokukofa otaku dulu okumonika nokuhakulwa. NIA oya ti kutya omashina aCPAP oluhapu ohaa kwafele. Ngeenge ove ile omunhu to file oshisho oha ngonaana unene, oha efa okufuda pefimbo lokukofa, ile oha kala a fya outalala unene momutenya, lombwela ndokotola.
 
-## A note about sleep medicines
+## Eendjovo kombinga yomiti deemhofi
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ihatu yandje omayele kombinga yomiti deemhofi ile oikwaikwafo. NIA oya ti kutya omiti deemhofi otadi dulu okukwafela oule wokafimbo kanini ashike kadi fi ehakulo lokuhakofa. Oya ti yo kutya omiti dimwe odo hadi pewa ovanhu ovo ve na oudu waAlzheimer va kofa otadi dulu okuwedela oshisho shokukala wa tengauka, okuwila po nokukala wa piyaana. Ino hovela, ino efa ile ino lundulula omuti keshe deemhofi, mwa kwatelwa eekwafo leemhofi olo hali landwa nopehe na omukanda, nopehe na okupopya nandokotola ile omunangeli womiti.
 
-## Talk with a doctor
+## Popya nandokotola
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Moneni ndokotola ngeenge ove ile omunhu to file oshisho oha kala a loloka alushe, oha mono oudjuu wokukofa oufiku vahapu, oha ngonaana unene, ile oha efa okufuda oufiku. Ngeenge omaupyakadi eemhofi moudu wokudimbwa otaa twikile, [NIA otai kumaida](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) mu pule omayele opaunamiti. Etaleko otali dulu okumona omatomheno ngaashi ouyehame, oupyakadi umwe valwa weemhofi, oudu ile oshilanduliko shomuti. Okupiyaaneka okwa haluka, ile elunduluko la haluka meemhofi pamwe nokupiyaaneka, ola pumbwa ekwafo lopaunamiti meendelelo. Lesha [onaini u na okumona ndokotola](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Epandja eli omauyelele opashiwana, ha omayele opaunamiti. Tala [elondwelo letu lopaunamiti](/medical-disclaimer/).

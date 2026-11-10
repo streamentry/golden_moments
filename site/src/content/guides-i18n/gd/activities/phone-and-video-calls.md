@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Gnìomhan fòn is gairm bhidio do chuideigin le dementia"
+seoTitle: "Gnìomhan gairm bhidio airson dementia"
+description: "Gnìomhan gairm bhidio is fòn do theaghlaichean fad às aig a bheil cuideigin le dementia: seall-is-inns, leughadh a-mach, seinn, geamannan air sgrìn cho-roinnte agus molaidhean do luchd-cuideachaidh."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Bidh gairmean le neach a tha a’ fuireach le dementia a’ dol nas fheàrr nuair
+  a tha iad goirid, cunbhalach agus stèidhichte air rudeigin a dhèanamh còmhla,
+  leithid peata no gàrradh a shealltainn, coimhead air dealbhan, leughadh
+  a-mach, seinn òran as toil leat, no geama socair a chluich air sgrìn
+  cho-roinnte. Ma ghabhas e dèanamh, cuir fòn aig an aon àm gach latha, cùm e
+  gu aon ghuth aig an aon àm, agus iarr air cuideigin a tha an làthair cuideachadh.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Bheir gnìomh cruth do ghairm agus bheir e cuideam far còmhradh. Planaich aon rud sìmplidh a cho-roinn."
+  - "Gu tric bidh gairmean goirid, cunbhalach aig an aon àm den latha nas fheàrr na feadhainn fhada, corra-uair."
+  - "Aon neach a’ bruidhinn aig an aon àm. Tha gairmean buidhne le daoine a’ bruidhinn thairis air a chèile duilich a leantainn, gu h-àraidh ma tha call èisteachd ann."
+  - "Faodaidh cuideigin a tha an làthair an inneal a chur air dòigh, suidhe ri taobh an neach, agus a bhith nan ‘làmhan’ airson geama no dealbh sam bith."
+  - "Mura h-eil gairm ag obair an-diugh, cuir crìoch oirre gu blàth. Tha e ceart gu leòr feuchainn a-rithist a-màireach."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Dè as urrainn dhomh a dhèanamh air gairm bhidio le cuideigin le dementia?"
+    a: "Planaich aon ghnìomh sìmplidh: seall do ghàrradh, do pheata no do chidsin; coimhead air seann dealbhan còmhla; leugh dàn no litir ghoirid a-mach; seinn òran air a bheil iad measail; bruich an aon reasabaidh aig an aon àm; no cluich geama dealbh socair air sgrìn cho-roinnte. Bheir gnìomhan fòcas don ghairm, agus mar sin chan fheum an neach an còmhradh a ghiùlan iad fhèin."
+  - q: "Dè cho fada ’s a bu chòir gairm bhidio a bhith?"
+    a: "Mar as trice nas giorra na shaoileas tu. Faodaidh beagan mhionaidean blàth a bhith gu leòr, gu h-àraidh ma dh’fhàsas an neach sgìth gu sgiobalta. Faodaidh e a bhith nas cudromaiche fònadh gu cunbhalach aig an aon àm den latha na dè cho fada ’s a mhaireas gach gairm."
+  - q: "Dè ma dh’fhàsas iad troimh-chèile no fo bhròn le gairmean bhidio?"
+    a: "Tha cuid de dhaoine a’ faighinn aodann air sgrìn troimh-chèile. Feuch gairm fòn àbhaisteach, teachdaireachd bhidio clàraichte as urrainn don neach-cuideachaidh a chluich aig àm socair, no cairtean is dealbhan sa phost. Ma thèid gairm gu dona, cuir crìoch oirre gu coibhneil agus feuch a-rithist latha eile no aig àm eile."
+  - q: "Ciamar as urrainn dhomh mo mhàthair a chuideachadh le gairm bhidio nuair nach urrainn dhi am fòn a chleachdadh?"
+    a: "Iarr air ball den teaghlach, cuideachdaiche dachaigh no neach-obrach ann an dachaigh-chùraim an gairm a thòiseachadh agus an inneal a chumail no a chur suas. Bidh iomadh àite cùraim a’ cuideachadh theaghlaichean le gairmean bhidio, mar sin faighnich dè a tha iad a’ tabhann. Tha tablaid air seasamh, le sgrìn mhòr agus fuaim àrd gu leòr airson a cluinntinn, nas fhasa dhan a h-uile duine."
+  - q: "An urrainn dhuinn geama a chluich còmhla thairis air bhidio?"
+    a: "’S urrainn. Is e an dòigh as fhasa do aon neach an sgrìn aca a cho-roinn san aplacaid bhidio fhad ’s a tha an neach eile ag innse dhaibh dè an dealbh air am bu chòir gnogadh. No faodaidh an neach-cuideachaidh a tha an làthair an aon gheama fhosgladh air tablaid agus gnogadh air son an neach fhad ’s a tha thu a’ bruidhinn troimhe còmhla. Tagh geamannan gun timer no sgòr."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Faodaidh e a bhith a’ faireachdainn gun chuideachadh a bhith a’ fuireach fad air falbh bho chuideigin le dementia. Cha chuir gairmean fòn is bhidio àite fàilteachadh, ach faodaidh iad fhathast amannan fìor de cheangal a thoirt nuair a chuireas tu air dòigh iad gu math. Is e an cleas stad a bhith a’ feuchainn ri còmhradh àbhaisteach a dhèanamh agus rudeigin sìmplidh a phlanadh airson a cho-roinn na àite. Tha an duilleag seo a’ mìneachadh gnìomhan a bhios ag obair thairis air bhidio is fòn, mar a chuireas tu a’ ghairm air dòigh, agus dè as urrainn don neach a tha an làthair a dhèanamh gus cuideachadh.
 
-## Why plan an activity for a call?
+## Carson a bu chòir gnìomh a phlanadh airson gairm?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Bheir gnìomh cruth don ghairm. Tha “Ciamar a tha thu? Dè rinn thu an-diugh?” ag iarraidh air an neach cuimhneachadh agus innse, agus faodaidh sin a bhith doirbh is duilich. Chan eil “Seall, tha na tomatoeagan abaich” ag iarraidh dad orra.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Tha Alzheimer’s Association a’ toirt fa-near gum faod còmhraidhean le buidhnean nas motha thairis air bhidio a bhith doirbh, agus tha iad a’ moladh [structar a chur ris a’ ghairm](https://www.alz.org/help-support/caregiving/holidays) le rudan mar òrain a sheinn no dealbhan a cho-roinn.
 
-## What activities work on a video call?
+## Dè na gnìomhan a bhios ag obair air gairm bhidio?
 
-### Show and tell
+### Seall is innis
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Thoir do shaoghal thuca. Gluais an camara gu slaodach timcheall do ghàrraidh, cuir an cù an aithne, seall dè tha thu a’ còcaireachd, cum suas dealbh a tharraing ogha, no cuir am fòn chun na h-uinneige a dh’fhaicinn an sneachd. Mìnich na chì thu ann am faclan sìmplidh agus fàg beàrnan airson freagairt. Chan eil feum air ceistean.
 
-### Look at photos together
+### Coimhead air dealbhan còmhla
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Cum seann dealbh clò-bhuailte suas ris a’ chamara, no roinn do sgrìn gus beagan dhealbhan mòra a shealltainn, aon aig an aon àm. Bruidhinn mu na chì thu: “Seall ad a’ sheanair.” Seachain “Cò tha seo?” no “A bheil cuimhne agad?” Ma dh’ainmicheas an neach cuideigin ceàrr, rach leis. Faic an [stiùireadh cuimhneachaidh](/activities/reminiscence/) againn airson molaidhean socair.
 
-### Read aloud
+### Leugh a-mach
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Leugh dàn goirid, salm, leabhar cloinne as toil leat le ogha air an aon ghairm, litir bho charaid, no duilleag à leabhar air an robh iad measail. Bheir leughadh a-mach rudeigin socair don neach èisteachd ris gun fheum air freagairt.
 
-### Sing or listen to music together
+### Seinn no èist ri ceòl còmhla
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Seinn òran air a bheil iad eòlach, no cluich clàr as toil leat air do cheann fhèin. Tha e nas fhasa do mhòran dhaoine seinn còmhla na bruidhinn. Faic an [stiùireadh againn air gnìomhan ciùil](/activities/music/).
 
-### Cook or bake at the same time
+### Bruich no bèic aig an aon àm
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Tha Alzheimer’s Association a’ moladh gairm bhidio a phlanadh gus reasabaidh sònraichte a bhruich no a bhèicearachd còmhla. Cuir a’ ghairm air dòigh anns an dà chidsin. Dh’fhaodadh an neach a tha an làthair rud a thionndadh no blasadh fhad ’s a tha thu a’ leantainn an t-seann chairt reasabaidh aca.
 
-### Watch something together
+### Coimhead air rudeigin còmhla
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Tha an Comann cuideachd a’ moladh coimhead air film no prògram as toil leat aig an aon àm bho dhachaighean eadar-dhealaichte fhad ’s a tha sibh a’ bruidhinn air fòn no bhidio. Do chuideigin le dementia, dh’fhaodadh earrann ghoirid, seann phrògram Tbh no geama ball a bhith nas fheàrr na film slàn.
 
-### Play a gentle game on a shared screen
+### Cluich geama socair air sgrìn cho-roinnte
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Leigidh iomadh aplacaid gairm bhidio leat do sgrìn a cho-roinn. Fosglaidh tu an geama agus gnogaidh tu; innsidh an neach dhut no comharraichidh iad dè an dealbh a thaghas tu. No fosglaidh an neach-cuideachaidh a tha an làthair an aon gheama air tablaid agus gnogaidh iad air an son fhad ’s a tha sibh a’ cabadaich.
 
-Games that work well this way:
+Geamannan a bhios ag obair gu math mar seo:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** leughaidh tu an abairt aithnichte, canaidh iadsan an deireadh, agus an uair sin bidh brosnachadh labhairteach ann.
+- **[Picture Pairs](/games/picture-pairs/):** geama maidseadh socair le dealbhan mòra a dh’fhaodas fuireach ri fhaicinn, gun timer agus gun sgòr.
+- **[Conversation Cards](/games/conversation-cards/):** dealbh agus brosnachadh fosgailte airson bruidhinn mu dheidhinn còmhla.
+- **[Photo Pairs](/games/photo-pairs/):** geama maidseadh air a dhèanamh le dealbhan a thaghas tu air an inneal agad fhèin. Bidh na dealbhan a’ fuireach sa bhrabhsair agad, agus chì an neach iad tron sgrìn cho-roinnte agad.
 
-### Recorded messages
+### Teachdaireachdan clàraichte
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Nuair a tha gairmean beò doirbh, clàraich bhidio goirid: fàilte, òran, no cuairt timcheall do ghàrraidh. Faodaidh an neach-cuideachaidh a chluich aig àm socair, cho tric ’s a tha an neach a’ còrdadh ris. Tha Alzheimer’s Association a’ toirt iomradh air amannan sònraichte a chlàradh is a chur, leithid clann a’ fosgladh thiodhlacan.
 
-## What about plain phone calls?
+## Dè mu ghairmean fòn àbhaisteach?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Tha gairmean fòn fhathast cudromach. Tha Dementia Australia a’ moladh [fònadh aig an aon àm gach latha](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) agus gun a bhith a’ dèanamh cabhag, oir dh’fhaodadh e ùine a thoirt do dhaoine le dementia a thighinn a-steach don chòmhradh. Air a’ fòn:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Abair d’ ainm agus do dhàimh sa bhad: “Halò, a Dhadaidh, ’s mise Jenny, do nighean.”
+- Bruidhinn gu slaodach, ann an seantansan goirid, aon bheachd aig an aon àm.
+- Thoir naidheachdan seach a bhith gan iarraidh: “Rinn mi do reasabaidh ròsta oidhche an-raoir.”
+- Leugh dàn goirid, no seinn rann de dh’òran as toil leat.
+- Cùm e goirid agus cuir crìoch air le fàilte bhlàth.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Tha Dementia Australia cuideachd a’ toirt fa-near gum faod gairmean bhidio cuideachadh nuair a dh’fhàsas bruidhinn nas duilghe, oir chì an neach d’ aodann. Ma dh’fhàsas gairmean fòn troimh-chèile, feuch bhidio, no an caochladh.
 
-## How do I set up a video call that works?
+## Ciamar a chuireas mi gairm bhidio air dòigh a bhios ag obair?
 
-**Before the call:**
+**Ro ghairm:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Tagh àm cunbhalach** nuair a bhios an neach mar as trice aig fois, agus cùm ris. Cuidichidh cleachdadh.
+2. **Cuir air dòigh leis an neach-cuideachaidh a tha an làthair.** Cuidichidh teachdaireachd an latha roimhe iad a phlanadh.
+3. **Thoir sùil air an inneal.** Tha tablaid air seasamh nas fhasa na fòn air a chumail san làimh. Dèan cinnteach gu bheil i air a cur fo chasaid, gu bheil an sgrìn soilleir, agus gu bheil an fhuaim àrd gu leòr. Cuir fo-thiotalan air ma tha an aplacaid gan tabhann agus ma leughas an neach gu math.
+4. **Planaich aon ghnìomh** agus bi deiseil leis a h-uile rud.
 
-**During the call:**
+**Rè na gairm:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Suidh faisg air a’ chamara** ann an solas math, le d’ aghaidh ri uinneag seach leatha air do chùlaibh.
+- **Cuir thu fhèin an aithne** gach turas, le d’ ainm agus do dhàimh.
+- **Aon ghuth aig an aon àm.** Tha Alzheimer’s Association a’ toirt fa-near gu bheil daoine a’ bruidhinn thairis air a chèile doirbh do dhaoine a tha a’ fuireach le dementia agus do dhaoine le call èisteachd. Ma thig grunn chàirdean còmhla, gabhaibh cothrom mu seach no cùm e gu dithis no triùir.
+- **Faighnich aon cheist aig an aon àm.** Tha Family Caregiver Alliance a’ moladh [ceistean sìmplidh le freagairtean tha no chan eil](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), agus roghainnean a shealltainn nuair as urrainn dhut.
+- **Leig le beàrnan fada.** Fuirich airson freagairt. Tha e ceart gu leòr facal a mholadh ma tha iad ga lorg.
+- **Cleachd d’ aodann is do ghuth.** Dèan gàire, aontaich le d’ cheann, agus cùm do thòn blàth. Gu tric bidh faireachdainn ag innse barrachd na faclan.
+- **Na ceartaich.** Ma chanas an neach rudeigin nach eil ceart, leig leis.
 
-**Ending the call:**
+**A’ cur crìoch air a’ ghairm:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Cuir crìoch oirre mus fàs an neach sgìth, mas fheàrr air nota mhath.
+- Cleachd an aon t-soraidh-slàn gach turas: “Cuiridh mi fòn thugad a-màireach aig àm lòin. Tha gaol agam ort.”
+- Na sìn a-mach e.
 
-## Tips for the helper on site
+## Molaidhean don neach-cuideachaidh a tha an làthair
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Mas tusa an cèile, an cuideachdaiche, am piuthar no am bràthair, no an neach-obrach a tha a’ cuideachadh leis a’ ghairm, is tusa a nì e comasach.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Cuir àite sàmhach air dòigh.** Cuir dheth an telebhisean agus dùin an doras.
+- **Tòisich a’ ghairm thu fhèin,** agus an uair sin thoir tablaid air seasamh don neach no cum i aig ìre na sùla.
+- **Suidh ri an taobh, chan ann air am beulaibh.** Tha do làthaireachd misneachail. Thoir brosnachadh socair ma tha feum air: “Seall, ’s i Jenny a th’ ann.”
+- **Bi nad làmhan.** Cum suas dealbhan, gnog an geama, tionndaidh an tablaid gus an seòmar a shealltainn.
+- **Thoir an aire do sgìths no troimh-chèile,** agus innis don neach a tha a’ fònadh nuair a tha e àm crìochnachadh.
+- **Innis don neach a tha a’ fònadh dè a dh’obraich.** Cuidichidh “Chòrd an cù rithe gu mòr” leis an ath ghairm a phlanadh.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Tha an NIA a’ moladh gum faod càirdean fad às cuideachadh le seann duine [feartan an fhòn aca ionnsachadh](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), leithid gairmean bhidio. Ann an ìrean nas fhaide air adhart, mar as trice bidh aig an neach-cuideachaidh ris an inneal a làimhseachadh gu tur. Tha sin ceart gu leòr.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Ma tha an neach a’ fuireach ann an dachaigh-chùraim, tha Alzheimer’s Foundation of America a’ moladh faighneachd a bheil an goireas a’ cuideachadh theaghlaichean le gairmean bhidio. Tha an AFA cuideachd a’ toirt iomradh air teaghlaichean a’ cur dealbhan air ais is air adhart le luchd-obrach cùraim, agus a’ cur biadhan no rudan beaga comhfhurtail as toil leo, an dèidh faighneachd dè a tha ceadaichte san goireas.
 
-## What if the call doesn't go well?
+## Dè mura tèid a’ ghairm gu math?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Bidh cuid de ghairmean troimh-chèile, rèidh no duilich. Chan e do choire-sa a tha ann, agus chan eil e a’ ciallachadh nach fhiach gairmean.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Ma tha coltas gu bheil an neach troimh-chèile leis an sgrìn, atharraich gu gairm fòn no teachdaireachd chlàraichte.
+- Ma dh’fhàsas iad fo bhròn, aithnich am faireachdainn, can rudeigin misneachail, agus cuir crìoch oirre gu socair.
+- Ma thèid gairmean gu dona gu tric aig aon àm den latha, feuch àm eile.
+- Ma tha iad den bheachd gur e cuideigin eile a th’ annad, rach leis gu coibhneil.
 
-It is fine to end early. A short, warm call is a good outcome.
+Tha e ceart gu leòr crìochnachadh tràth. ’S e toradh math a th’ ann an gairm ghoirid, bhlàth.
 
-## Between calls
+## Eadar ghairmean
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Fuirich an làthair ann an dòighean eile. Tha Dementia Australia a’ moladh cairtean, puist-d, dealbhan no tiodhlacan beaga a chur. Faodar cairt-phuist sheachdaineil le aon dealbh mòr agus nota goirid a leughadh a-rithist is a-rithist. Faodaidh [cairtean còmhraidh](/games/conversation-cards/) a chlò-bhualadh agus a chur chun an neach-cuideachaidh cuspair deiseil a thoirt don ath ghairm.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Airson molaidhean mu thablaid a thaghadh is a chur air dòigh, faic [tablaidean is sgrìnichean](/caregiving/tablets-and-screens/). Airson ùine còmhla an làthair a chèile, faic an stiùireadh againn mu [thadhal](/activities/visiting/).

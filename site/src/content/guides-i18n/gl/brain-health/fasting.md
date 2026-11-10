@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Xaxún intermitente e demencia: que di a ciencia"
+seoTitle: "Xaxún intermitente e demencia: que di a ciencia"
+description: "Os datos en humanos sobre o xaxún intermitente e a demencia son limitados. Coñeza os riscos para persoas maiores e por que comer abondo importa máis."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Non hai boas probas de que o xaxún intermitente previna ou ralentice a
+  demencia. Gran parte da investigación fíxose en animais, e os estudos en
+  persoas maiores son pequenos e curtos. O xaxún pode ser arriscado para
+  persoas maiores: perda de peso e de masa muscular, baixada de azucre no
+  sangue con algúns medicamentos para a diabetes, deshidratación e caídas. Nas
+  persoas que viven con demencia, comer e beber abondo adoita ser a
+  preocupación máis importante. Consulte primeiro cun médico.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "O National Institute on Aging afirma que non hai probas suficientes para recomendar ningunha dieta de xaxún ou de restrición de calorías, sobre todo para persoas maiores."
+  - "Gran parte da investigación sobre o xaxún e o envellecemento procede de estudos en animais, e eses resultados non teñen por que aplicarse ás persoas."
+  - "Entre os posibles riscos para persoas maiores están a perda de peso non desexada, a perda de masa muscular, a baixada de azucre no sangue con algúns medicamentos para a diabetes, a deshidratación, os mareos e as caídas."
+  - "As persoas que viven con demencia ás veces esquecen comer ou beber, ou pensan que xa o fixeron. Axudalas a comer e beber abondo adoita importar moito máis que a hora á que o fan."
+  - "Non use o xaxún con alguén que vive con demencia. Consulte cun médico ou cun dietista-nutricionista antes de calquera cambio nos hábitos de alimentación."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "O xaxún intermitente prevén o alzhéimer?"
+    a: "Non hai boas probas de que o faga. Gran parte da investigación fíxose en animais, e os ensaios en humanos foron na súa maioría curtos, en persoas máis novas ou con sobrepeso, e centrados na perda de peso. O National Institute on Aging afirma que non hai probas suficientes para recomendar dietas de xaxún ao público."
+  - q: "O xaxún intermitente é seguro para as persoas maiores?"
+    a: "Pode que non o sexa. O xaxún pode provocar perda de peso e de masa muscular non desexadas, deshidratación, mareos e caídas, e pode causar unha baixada perigosa do azucre no sangue en persoas que toman insulina ou outros medicamentos para a diabetes. Mayo Clinic sinala que pode non ser adecuado para persoas con alto risco de perda ósea e caídas. Consulte cun médico antes de probalo."
+  - q: "Debería probar o xaxún unha persoa con demencia?"
+    a: "Non. As persoas que viven con demencia adoitan ter dificultades para comer e beber abondo, e unha mala nutrición pode aumentar os síntomas de comportamento e causar perda de peso. O xaxún engade riscos sen beneficios demostrados. Céntrese en comidas regulares, petiscos que lle gusten e líquidos suficientes."
+  - q: "Cales son os sinais de que unha persoa con demencia non come nin bebe abondo?"
+    a: "Estea atento á perda de peso, á roupa que queda máis solta, ao cansazo, á debilidade, ao estrinximento ou a que rexeite a comida. Entre os sinais de deshidratación que indica o National Institute on Aging están a boca seca, os mareos, un ritmo cardíaco rápido e as alucinacións. Coménteo co seu médico se nota estes sinais."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,145 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+O xaxún intermitente, como comer só nun intervalo de oito horas ou reducir
+moito as calorías dous días á semana, recibe moita atención, e algúns artigos
+suxiren que podería protexer o cerebro. Se é unha persoa maior, ou coida dunha
+persoa que vive con demencia, aquí ten o que realmente amosan as investigacións
+e por que importa ser prudente.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Esta é información xeral, non un consello médico. Non comece un xaxún nin cambie
+a forma de comer da persoa que coida sen falar antes cun médico ou cun
+dietista-nutricionista. Consulte o noso [aviso médico](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## O xaxún intermitente prevén a demencia?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Non hai boas probas de que o xaxún intermitente previna ou ralentice a
+demencia. O National Institute on Aging (NIA) afirma que non hai probas
+suficientes para recomendar ningún tipo de dieta de restrición de calorías ou de
+xaxún, e que aínda hai moito que aprender sobre a súa eficacia e seguridade,
+sobre todo en persoas maiores ([NIA sobre restrición de calorías e xaxún](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Por que as probas son tan limitadas
 
-The NIA gives several reasons:
+O NIA dá varias razóns:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **A maioría dos estudos son en animais.** A investigación en vermes, moscas,
+  ratos e monos deu resultados interesantes, pero estes achados non teñen por
+  que aplicarse ás persoas. Mesmo en animais, os resultados son variados; nalgunhas
+  liñas de ratos, a restrición de calorías acurtou a vida.
+- **Os ensaios en humanos foron curtos.** A maioría duraron unhas semanas ou
+  uns meses.
+- **A maioría dos ensaios en humanos centráronse na perda de peso** en persoas
+  adultas con sobrepeso, non na memoria nin na demencia.
+- **As persoas maiores case non participan.** En moitos ensaios recrutáronse
+  persoas de 60 anos ou menos.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Unha revisión sistemática de 2026 analizou especificamente o xaxún intermitente
+en persoas adultas de 60 anos ou máis. Concluíu que as probas neste grupo de
+idade seguen sendo limitadas, con estudos pequenos, seguimentos curtos e
+deseños variados. Os achados sobre o pensamento e a memoria procedían de estudos
+individuais, non de resultados agrupados de ensaios. A revisión tamén sinalou
+que algúns estudos relacionaron xanelas de alimentación moi curtas ou xaxúns
+longos con peores resultados, e os autores pediron prudencia para as persoas
+maiores ([revisión de 2026 en Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Algunhas persoas investigadoras pensan que o cambio do corpo a queimar graxa
+durante un xaxún pode afectar o cerebro, pero isto segue a ser unha teoría que
+se está a estudar. O NIA indica que a ciencia aínda non é clara.
 
-## What are the risks of fasting for older adults?
+## Cales son os riscos do xaxún para as persoas maiores?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+O xaxún non é unha proba inofensiva para moitas persoas maiores. Entre os
+posibles riscos están:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
+- **Perda de peso non desexada.** Comer menos do que o corpo necesita pode
+  provocar perda de peso e menos forza muscular, o que pode deixar a persoa máis
+  fráxil.
+- **Perda de masa muscular e ósea.** Nun ensaio de dous anos apoiado polo NIA
+  sobre restrición de calorías en persoas adultas novas e de mediana idade, as
+  persoas participantes tiveron lixeiros descensos na densidade ósea e na masa
+  corporal magra.
+- **Baixada de azucre no sangue con medicamentos para a diabetes.** As persoas
+  que toman insulina ou outros medicamentos para a diabetes poden ter unha
+  baixada excesiva do azucre no sangue se saltan ou atrasan comidas, segundo o
   [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+  A baixada de azucre no sangue pode causar mareos, confusión e irritabilidade.
+- **Deshidratación.** Se tamén se deixan de tomar líquidos xunto coas comidas,
+  a persoa pode deshidratarse.
+- **Mareos e caídas.** Mayo Clinic indica que o xaxún intermitente pode facer
+  que as persoas se sintan moi cansadas e con mareos, e que pode non ser un
+  patrón saudable para persoas con alto risco de perda ósea e caídas
+  ([Mayo Clinic sobre o xaxún intermitente](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Outros efectos.** Mayo Clinic tamén menciona dor de cabeza, cambios de humor
+  e estrinximento, e sinala algunhas probas de que un xaxún de 16 horas cunha
+  xanela de alimentación de 8 horas pode aumentar o risco de enfermidade
+  cardíaca en comparación con outras xanelas de alimentación. Estas probas aínda
+  non son concluíntes.
 
-## Why is eating enough the bigger concern with dementia?
+## Por que comer abondo é a maior preocupación na demencia?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Nas persoas que viven con demencia, o problema habitual é tomar **abondo** alimento
+e líquido, non demasiado. A Alzheimer's Association explica que as persoas nas
+fases intermedias e avanzadas poden sentirse abrumadas polas opcións de comida,
+esquecer comer ou pensar que xa comeron. Engade que unha mala nutrición pode
+aumentar os síntomas de comportamento e causar perda de peso
+([Alzheimer's Association sobre comida e alimentación](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+A Alzheimer's Society indica que non comer abondo pode provocar perda de peso,
+menos forza muscular, cansazo e debilidade, o que deixa a persoa máis fráxil e
+con menos capacidade para recuperarse de infeccións
+([Alzheimer's Society sobre o apetito](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Por estas razóns, o xaxún non é unha boa idea para unha persoa que vive con
+demencia.** As comidas saltadas poden converterse facilmente en comidas
+perdidas. Calquera cambio na forma de comer dunha persoa con demencia debe
+facerse coa orientación do seu médico ou dun dietista-nutricionista.
 
-## What are the warning signs of poor eating or drinking?
+## Cales son os sinais de alerta dunha mala alimentación ou hidratación?
 
-Watch for:
+Estea atento a:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Perda de peso**, ou roupa que queda máis solta.
+- **Deixar comida ou rexeitar as comidas**, ou gardar comida na boca.
+- **Cansazo ou debilidade.**
+- **Estrinximento**, que pode estar relacionado coa alimentación e coa
+  deshidratación.
+- **Sinais de deshidratación.** O NIA menciona boca seca, mareos, ritmo
+  cardíaco rápido e alucinacións, que tamén poden ser causadas pola propia
+  demencia
+  ([NIA sobre problemas médicos comúns](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+A falta de apetito pode ter moitas causas posibles: dor de dentes ou dentaduras
+soltas, medicamentos novos, depresión, estrinximento, menos actividade ou
+cambios no gusto e no olfacto. Coménteo co médico da persoa. Pode buscar a causa
+e, se é necesario, suxerir un dietista-nutricionista ou suplementos.
 
-## How can you help someone eat and drink enough?
+## Como pode axudar a que alguén coma e beba abondo?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Ofreza comidas pequenas e petiscos a miúdo**, en lugar de tres comidas
+  grandes.
+- **Sirva alimentos favoritos** e sexa flexible cando cambien os gustos. Os
+  alimentos doces poden ser benvidos se o apetito é baixo; pregunte ao médico se
+  hai motivos de saúde para limitar o azucre.
+- **Manteña as bebidas ao alcance** e ofreza vasos pequenos ao longo do día. As
+  sopas, a froita, os batidos e os batidos de leite tamén contan.
+- **Coma en compañía** cando sexa posible. As comidas son unha oportunidade para
+  compartir un momento, non unha tarefa que hai que apurar.
+- **Probe con alimentos para comer coa man**, como bocadillos, anacos de froita
+  ou anaquiños de polo, se usar cubertos se fixo difícil.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+A nosa [guía sobre alimentación](/brain-health/diet/) ten máis ideas para as
+comidas. Axudar a preparar a comida tamén pode ser unha actividade compartida
+agradable; consulte [tarefas da casa](/activities/household-tasks/).
 
-## Talk with a doctor
+## Fale cun médico
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Antes de probar calquera plan de xaxún, fale co seu médico ou cun
+dietista-nutricionista, sobre todo se toma medicamentos para a diabetes ou a
+presión arterial, se perdeu peso recentemente ou se tivo caídas. No caso dunha
+persoa que vive con demencia, pregunte ao seu médico canto debería comer e beber
+cada día, en lugar de preguntar sobre o xaxún.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Busque atención médica urxente se hai confusión repentina, desmaios ou sinais
+dunha baixada moi forte do azucre no sangue que non melloran axiña. Se é
+necesario, chame ao 112.

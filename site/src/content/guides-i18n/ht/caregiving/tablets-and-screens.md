@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Prapare yon tablèt oswa telefòn pou moun ki gen demans"
+seoTitle: "Prapare yon tablèt oswa telefòn pou moun ki gen demans"
+description: "Etap pa etap pou prepare yon tablèt oswa telefòn: bloke sou yon sèl app, pi gwo tèks, mwens notifikasyon, ekran senp, volim ak vi prive."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Fè yon tablèt oswa yon telefòn pi senp anvan ou bay moun nan li. Bloke li
+  sou yon sèl app ak Guided Access sou iPad ak iPhone oswa app pinning sou
+  Android, oswa itilize Assistive Access Apple a pou yon layout ki pi senp. Fè
+  tèks la pi gwo, fèmen notifikasyon yo, kite sèlman kèk app ou abitye sou yon
+  sèl ekran lakay, regle volim nan anvan ou kòmanse, sèvi ak yon sipò, epi
+  limite otorizasyon app yo. Itilize li ansanm, bò kote aktivite ki pa sou ekran.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ak app pinning (Android) kenbe ekran an sou yon sèl app jiskaske ou debloke li."
+  - "Assistive Access Apple a bay yon layout ki pi senp ki fèt pou moun ki gen andikap koyitif."
+  - "Fè tèks la pi gwo epi fèmen notifikasyon ak fenèt ki parèt pou anyen pa entèwonp oswa konfonn."
+  - "Kenbe sèlman kèk app ou abitye sou yon sèl ekran lakay, epi regle volim nan anvan ou kòmanse."
+  - "Yon sipò ak yon kote pou chaje ki pa janm chanje fè aparèy la pi fasil pou itilize epi pou jwenn."
+  - "Verifye otorizasyon app yo ak pataj done: an jeneral HIPAA pa pwoteje sa ki estoke sou yon aparèy pèsonèl."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Kijan pou mwen anpeche yon moun ki gen demans soti nan yon app sou yon iPad?"
+    a: "Louvri Guided Access nan Settings > Accessibility > Guided Access epi mete yon modpas. Louvri app la, klike twa fwa sou bouton anlè a (oswa bouton Home sou pi ansyen iPad yo), epi tape Start. iPad la rete nan app sa a jiskaske yon moun antre modpas la."
+  - q: "Kijan pou mwen bloke yon tablèt Android sou yon sèl app?"
+    a: "Louvri app pinning nan app Settings la, an jeneral anba Security (pafwa Security & location) > Advanced > App pinning. Apre sa, louvri app la, louvri Overview, tape ikòn app la anlè epi tape Pin. Ou pral bezwen PIN ou, modèl oswa modpas ou pou retire l."
+  - q: "Èske li an sekirite pou itilize Guided Access sou pwòp telefòn moun nan?"
+    a: "Fè atansyon. Apple di Crash Detection ak sèvis ijans pa disponib pandan Guided Access limen. Si moun nan konte sou telefòn li pou rele sèvis ijans, sèvi ak Guided Access sèlman lè ou avè l, oswa konsidere Assistive Access pito."
+  - q: "Konbyen tan sou ekran ki bon pou yon moun ki gen demans?"
+    a: "Pa gen yon kantite fiks. Kout sesyon nou fè ansanm, melanje ak pwomnad, mizik, ti travay lakay ak konvèsasyon, ka fè jounen an pi plen pase lontan pase poukont li devan yon ekran. Si aparèy la lakòz fristrasyon oswa pran plas lòt aktivite, sèvi ak li mwens."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Yon tablèt ka yon bèl fason pou pataje foto, mizik ak jwèt senp. Li ka konfonn tou: yon ti tape pa aksidan ouvri yon lòt app, yon notifikasyon parèt, tèks la twò piti, oswa ekran an vin nwa nan mitan jwèt la. Yon ti preparasyon bò kote ou ka regle pi fò nan sa.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Etap sa yo sèvi ak paramèt ki deja sou iPhone, iPad ak Android. Non meni yo ka chanje selon vèsyon lojisyèl ak mak aparèy la, kidonk si yon bagay parèt diferan, swiv paj Apple oswa Google ki gen lyen an pou aparèy ou a. Fè preparasyon an ou menm, anvan nou chita ansanm.
 
-## Should someone with dementia use a tablet or phone?
+## Èske yon moun ki gen demans ta dwe itilize yon tablèt oswa yon telefòn?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Sa depann de moun nan. Anpil moun renmen itilize yon tablèt ak yon moun bò kote yo, menm si yo pa t ap jere l poukont yo. Kòmanse sèvi ak li ansanm, ak yon sèl app ouvè, pandan kèk minit. Si sa pote plezi ak konvèsasyon, kontinye. Si sa pote konfizyon oswa fristrasyon, yon albòm foto, paj enprime oswa mizik ka pi bon pou yo. [Aktivite nou yo ou ka enprime](/activities/printable/) se yon lòt opsyon.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Yon tablèt anjeneral pi fasil pase yon telefòn: ekran an ak foto yo pi gwo, epi li pa sèvi tou kòm liy ijans prensipal moun nan.
 
-## How do I lock a tablet or phone to one app?
+## Kijan pou mwen bloke yon tablèt oswa yon telefòn sou yon sèl app?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Sèvi ak Guided Access sou iPhone ak iPad, oswa app pinning sou Android. Toude kenbe ekran an sou yon sèl app jiskaske ou antre yon kòd, konsa yon ti tape oswa glise pa aksidan pa ka ouvri lòt bagay.
 
-### iPad and iPhone: Guided Access
+### iPad ak iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Dapre [enstriksyon Apple pou Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Louvri **Settings**, tape **Accessibility**, apre sa tape **Guided Access** epi limen li.
+2. Anba **Passcode Settings**, mete yon modpas Guided Access. Ou ka pèmèt Face ID oswa Touch ID tou.
+3. Si ou vle: anba **Display Auto-Lock**, chwazi konbyen tan ekran an bloke pandan yon sesyon, pou li pa vin nwa nan mitan jwèt la.
+4. Louvri app ou vle itilize a.
+5. Klike twa fwa sou bouton bò a (iPhone), bouton anlè a (iPad), oswa bouton Home sou pi ansyen aparèy yo.
+6. Si ou vle: fè yon sèk sou nenpòt pati ekran an ou pa vle reponn ak manyen. Tape **Options** (oswa **Session Settings**) pou fèmen bouton volim yo oswa anpeche ekran an vire.
+7. Tape **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Pou fini sesyon an, klike twa fwa sou menm bouton an ankò, antre modpas la, epi tape **End**. Apple fè konnen sou kèk ansyen vèsyon lojisyèl ou klike de fwa pito.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Enpòtan:** Apple di Crash Detection ak sèvis ijans pa disponib pandan yon sesyon Guided Access. Pa kite Guided Access limen sou yon telefòn moun nan ka bezwen pou rele sèvis ijans.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Dapre [èd Android Google sou bloke ekran yo](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Louvri app **Settings** la.
+2. Tape **Security** (oswa **Security & location**), apre sa **Advanced**, epi **App pinning**. Si ou pa jwenn li, tcheke paj èd mak aparèy ou a.
+3. Limen **App pinning**. Ou pral bezwen PIN ou, modèl oswa modpas ou pou retire l.
+4. Louvri app ou vle a. Glise anlè rive nan mitan ekran an epi kenbe pou louvri Overview (oswa tape Overview ak navigasyon 3 bouton).
+5. Anlè apèsi app la, tape ikòn app la, apre sa tape **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Pou retire app la ak navigasyon pa jès, glise anlè epi kenbe. Ak navigasyon 3 bouton, manyen epi kenbe Back ak Overview. Ak navigasyon 2 bouton, manyen epi kenbe Back ak Home. Apre sa, antre PIN ou, modèl oswa modpas ou.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Èske gen yon mòd ki pi senp pou tout iPhone oswa iPad la?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Wi. Assistive Access Apple a ranplase ekran lakay abityèl la ak youn ki pi senp. [Apple dekri li](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) kòm yon bagay ki fèt pou rann iPhone pi fasil pou moun ki gen andikap koyitif itilize poukont yo, ak eleman ki pi gwo sou ekran an ak fonksyon ki pi konsantre. Apple ofri [menm fonksyon an sou iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Ki moun ki prepare li.** Apple sijere yon moun ou fè konfyans, tankou yon manm fanmi oswa yon moun k ap ede ki konnen moun nan, ede chwazi app yo ak fonksyon yo.
+- **Kote pou kòmanse.** Ale nan **Settings > Accessibility > Assistive Access**, tape **Set Up Assistive Access**, apre sa **Continue**.
+- **App yo.** Se ou ki chwazi ki app ki parèt. Gen kèk app Apple ki gen vèsyon espesyal ki pi senp, epi pifò lòt app yo ka ajoute nan fòm abityèl yo.
+- **Layout.** Chwazi **Rows** (yon lis ki fasil pou li) oswa **Grid** (eleman ki pi gwo ki mete plis aksan sou foto ak ikòn).
+- **Modpas.** Ou mete yon modpas Assistive Access apa pou antre, soti oswa chanje paramèt yo. Apple rekòmande pou mete yon kont Apple pou rekiperasyon pandan preparasyon an, paske san li, si ou bliye modpas la ou pral oblije reyajiste aparèy la.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access ka bon pou yon moun ki itilize pwòp aparèy li chak jou. Guided Access oswa app pinning pi rapid pou yon sesyon jwèt nou pataje.
 
-## How do I make text and pictures bigger?
+## Kijan pou mwen fè tèks ak foto pi gwo?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Ogmante gwosè tèks ak afichaj la, apre sa verifye bouton yo toujou byen sou ekran an.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ak iPad.** Dapre [enstriksyon Apple sou gwosè polis](https://support.apple.com/en-us/102453), ale nan **Settings > Display & Brightness > Text Size** epi deplase kurseur a. Pou tèks ki pi gwo toujou, ale nan **Settings > Accessibility > Display & Text Size > Larger Text**. Apple fè konnen tèks ki twò gwo ka fè kèk bouton pi difisil pou tape, kidonk ajiste si sa nesesè.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Dapre [èd Google sou paramèt tèks ak afichaj](https://support.google.com/accessibility/android/answer/11183305?hl=en), louvri **Settings** epi chèche **Font size**, apre sa deplase kurseur a. Chèche **Display size** pou fè tout bagay sou ekran an pi gwo. Ou ka limen **Bold text** tou anba **Accessibility > Display size and text**. Gen kèk app ki pa swiv paramèt sa yo.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Nan jwèt tankou [Picture Pairs](/games/picture-pairs/) ak [Find the Same](/games/find-the-same/), ou ka chwazi tou mwens kare oswa mwens chwa, sa ki kenbe bagay yo pi senp sou ekran an.
 
-## How do I stop notifications and pop-ups?
+## Kijan pou mwen anpeche notifikasyon ak fenèt ki parèt?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Fèmen notifikasyon pou app ou pa bezwen yo, epi sèvi ak Do Not Disturb pandan aktivite yo.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ak iPad.** Ale nan **Settings > Notifications**, tape yon app anba **Notification Style**, epi fèmen **Allow Notifications** ([gid Apple sou paramèt notifikasyon](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Pou fèmen son apèl, alèt ak notifikasyon pou yon ti tan, louvri Control Center epi limen **Do Not Disturb** nan bouton **Focus** la ([èd Apple sou Do Not Disturb](https://support.apple.com/en-us/105112)). Ou ka pwograme li anba **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Glise anba soti anlè ekran an epi tape **Do Not Disturb**, oswa ale nan **Settings > Modes > Do Not Disturb** ([èd Google sou Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Anba **Notification filters** ou ka chwazi ki moun ak ki app ki ka toujou pase. Paramèt yo varye selon mak aparèy la.
 
-## How do I make a simple home screen?
+## Kijan pou mwen fè yon ekran lakay ki senp?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Kenbe kèk app ou abitye sou yon sèl ekran epi deplase rès yo pou yo pa parèt. Pa gen yon sèl paramèt pou sa; se retire sa ki twòp ki enpòtan.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Chwazi twa a sis app.** Pa egzanp, foto, mizik, yon app pou apèl videyo ak yon jwèt.
+- **Mete yo sou premye ekran an,** nan menm kote yo chak fwa, epi deplase tout lòt yo sou yon dezyèm ekran oswa nan yon dosye.
+- **Sèvi ak yon foto fond ki senp ak gwo kontras,** tankou yon sèl koulè oswa yon foto ou abitye, pou ikòn yo parèt byen.
+- **Efase app ou pa bezwen yo.** Mwens app vle di mwens chans pou konfizyon epi mwens done yo kolekte.
+- **Konsidere Assistive Access** sou aparèy Apple si ou vle aparèy la fè sa pou ou.
 
-## What about volume and sound?
+## E pou volim ak son?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Regle yon volim ki konfòtab anvan ou bay moun nan aparèy la. Ak Guided Access, ou ka fèmen bouton volim yo pou li pa chanje pandan aktivite a. Verifye aparèy oditif yo nan plas epi yo ap mache.
 
-## Where should the tablet live?
+## Ki kote tablèt la ta dwe rete?
 
-Give it a stand and a permanent charging spot.
+Bay li yon sipò ak yon kote fiks pou chaje.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Yon sipò oswa yon ka** ki kenbe tablèt la dwat sou tab la vle di pèsonn pa bezwen kenbe li, epi li pi fasil pou montre bagay sou ekran an.
+- **Yon sèl kote pou chaje** ki pa janm chanje, pi bon si se yon sipò chajman sou yon tab nan yon chanm nou itilize chak jou. Tablèt la toujou chaje epi toujou nan menm kote a.
+- **Diminye ekla.** Mete ekran an pou li pa anfas yon fenèt ki klere.
 
-## How much screen time is okay?
+## Konbyen tan sou ekran ki bon?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Pa gen yon bon kantite minit. Vize kout sesyon nou fè ansanm kòm yon pati nan yon jounen ki plen, ki gen ladan mouvman, mizik, ti travay lakay, konvèsasyon ak tan deyò. Paske fen jounen ki chaje ka ajoute sou ajitasyon pita nan jounen an, ou ka konsidere kenbe aktivite sou ekran yo pi bonè nan jounen an. Gade [aktivite kalm pou fen aprèmidi](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Sèvi ak yon tablèt ansanm, olye pou w kite li sèvi kòm yon gadò, kenbe li sosyal. Gid nou sou [jwe jwèt ansanm](/caregiving/how-to-play-together/) eksplike kijan.
 
-## How do I protect their privacy on the device?
+## Kijan pou mwen pwoteje vi prive yo sou aparèy la?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Limite sa app yo ka kolekte, epi pa sipoze lwa sou vi prive sante yo kouvri li. U.S. Department of Health and Human Services (HHS) [eksplike](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ke an jeneral Règleman HIPAA yo pa pwoteje enfòmasyon sou sante ki estoke sou oswa ki jwenn aksè atravè telefòn ak tablèt pèsonèl. Nan pifò ka, HIPAA pa pwoteje done ou antre nan app pou itilizasyon pèsonèl tou, sof si app la soti nan yon founisè swen sante ki kouvri, yon plan sante oswa youn nan asosye biznis yo.
 
-HHS suggests:
+HHS sijere:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- evite app ki pa nesesè oswa ki pran o aza, sitou sa ki «gratis»;
+- pa bay app aksè a kote ou ye sof si yo vrèman bezwen li, tankou kat.
 
-Also consider:
+Konsidere tou:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Sèvi ak yon modpas** sou aparèy la, epi kenbe yon nòt sou li yon kote ki an sekirite.
+- **Verifye otorizasyon yo** pou foto, kamera, mikwofòn, kontak ak kote ou ye, epi fèmen sa yon app pa bezwen.
+- **Tcheke sa yon app kolekte** anvan ou enstale li. Gid nou sou [chwazi app ak jwèt pou demans](/caregiving/choosing-apps-and-games/) gen yon lis pou verifye vi prive.
+- **Fè atansyon ak foto fanmi.** Pataje sèlman foto moun nan ta alèz avèk yo, epi konnen ki kote yon app estoke yo. Nan [Photo Pairs](/games/photo-pairs/), foto ou chwazi yo rete nan navigatè ou a.
+- **Fèmen acha nan app** oswa retire enfòmasyon sou peman nan kont moun nan itilize yo.

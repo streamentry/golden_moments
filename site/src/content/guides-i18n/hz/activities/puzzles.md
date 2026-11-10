@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Omapuzzle kovandu mbe kara nouzeu wokuzemburuka"
+seoTitle: "Omapuzzle nouzeu wokuzemburuka"
+description: "Omuano wokutoorora omapuzzle wo jigsaw, omambo nomozongaro, kutja mu ungure pamwe, nokutja mu yarurure tjimuna tji ya rire ouzeu."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Epuzzle ewa kovandu mbe kara nouzeu wokuzemburuka oro ndi ve yenena okumana
+  nombatero onḓiṱi nokunyanda tji ve ri mu ro. Toorora ojigsaw novipupu oviṱiṱi
+  mbi ri ominene notjiperendero otjiwa tjomundu omunene, kara notjiperendero
+  tjokambumba pomurungu woye, nu u ute nokutoorora ovipupu vyominda. Omakonḓononeno
+  womambo noma crossword ye ungura nawa momambo omanene. Omapuzzle omapupu
+  mozongaro novipupu 4 ye ṱuna nawa moruveze rwopokati. Imba tji mape kara
+  nondjoroka.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Toorora otja tji mai i, ka otja ketjangwa rouzeu: epuzzle tji ra munika otja otjiungura, rora ndi ri novipupu oviṱiṱi."
+  - "Ovipupu ominene noviṱikame nu notjiperendero otjikahu novipupeze vyombunikiro omihlukile vi pupire povipupu oviṱiṱi neyuru enene."
+  - "Oviperendero vyovandu ovanene mavi hepa. Ovikunino, omazuviro wokurongera, ozohiha nozonyama, ka oviperendero vyovanatje."
+  - "Okuungura pamwe oyo ondando. Yandja ovipupu, toorora ovyominda, kara netjangwa rokambumba pomurungu."
+  - "Omakonḓononeno womambo omanene nomapuzzle omapupu mozongaro novipupu 4 poo 9 ye ri omungandjo porutjandja ndwi."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Ovipupu vingapi vyepuzzle mbi ṱuna komundu ngu kara nouzeu wokuzemburuka?"
+    a: "Kape notjivaro tjimwe uriri tji tji ri otjisemba. Omundu ngwaa ungura omapuzzle novipupu 1,000 mape ya a kara nonḓero movipupu omasere omatenga, ngunda varwe ve kara nawa novipupu ominene omurongo uriri. Epuzzle tji ra munika otja otjiungura poo tji mari eta ombinḓu, yarura kovipupu oviṱiṱi. Epuzzle retu rOtjiperendero mozongaro ri novipupu 4 poo 9."
+  - q: "Omajigsaw ye ri nawa kovandu mbe kara nouzeu wokuzemburuka?"
+    a: "Ovandu ovengi ve nyanda mo, tjinene tji va suverere omapuzzle rukuru. Epuzzle ri yandja omake otjiṋa okutjita, ondando ondikahu notjiperendero okutjipopya. Kape nepuzzle ndi ra raisirwa okutjivara, okurundurura poo okutjaera ouzeu wokuzemburuka, okutja toorora wo kondjoroka nokukara pamwe."
+  - q: "Hi nokutjita tjike omundu tje hi nokuyenena okuungura ojigsaw rukwao?"
+    a: "I yarura ouṱiṱi nu u ungure ovingi ove omuini: mu pa otjipupu tjimwe pekepeke, poo mu sye ovipupu ovisupi vyasenina uriri. Rora epuzzle rozongaro novipupu 4, okutoorora ovipupu otja kombunikiro, poo okutara pamwe kotjiperendero tji tja manwa."
+  - q: "Oma crossword nomakonḓononeno womambo ye ṱuna nouzeu wokuzemburuka?"
+    a: "Ye yenena moruveze rwokutenga, momambo omanene. Omakonḓononeno womambo nomambo nge ri komanene nokokehi uriri ye pupire punga pe nomambo nge ri onḓekenda poo kombunda. Lesa omapuriro poo oruteto rwomambo mokuposa nu mu ungure pamwe."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Ojigsaw ndja tarwa potjiriro tjomerirokero otjimwe tjoviṋa oviwa okuungura pamwe. Mamu yenene okukara pamwe nokuhinokupopya tjinene, otjiperendero tji mu pa otjiṋa okutjihungirira, nu okutwa otjipupu otjisenina ku yorokisa. Omapuzzle ye soku runduruka ouzeu wokuzemburuka tji mau runduruka. Epuzzle ndi ri ouzeu tjinene ri yenena okurundurura omutenya omuwa mouzeu. Omukanda mbwi mau hungirire komuano wokutoorora nokurongerisa omajigsaw, omapuzzle womambo nomapuzzle omapupu mozongaro, nokutja mu sokutjita vi tji ye ya rire ouzeu.
 
-## Are puzzles good for people with dementia?
+## Omapuzzle ye ri nawa kovandu mbe kara nouzeu wokuzemburuka?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Ovandu ovengi ve nyanda mo, tjinene imba mbaa ve ungura omapuzzle rukuru. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mai tja omakonḓononeno womambo, omaunyando womakarata nomauyando wokotjiriro mokati koviṋa vyoruveze rwokutenga, nu [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mai hungirire komauyando nomapuzzle mozongaro kozotablet otja omuano wokukara motjiṋa.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Omapuzzle kawe ri omiti. Kape nepuzzle ndi ra raisirwa okurundurura poo okutjaera ouzeu wokuzemburuka; omuhunga wetu [womauyando wozondunge nouzeu wokuzemburuka](/brain-health/brain-games/) mau kahurura ozongonḓononeno. Ondando yokutjita epuzzle oyo kutja ri yenena okurira oiri ombwa yokukara pamwe. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) mai tja nai: yandja ombango kondjoroka, ka kondjandero.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Mu toorora vi ojigsaw komundu ngu kara nouzeu wokuzemburuka?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Kongorera tji omundu ma nyandere notja epuzzle esenina ra ri, ka otja ketjangwa rouzeu.
 
-### Number of pieces
+### Otjivaro tjovipupu
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Kape notjivaro tji tji ri otjisemba. Omundu ngwa nyanda omapuzzle oruveze aruhe mape ya a kara nonḓero movipupu omasere omatenga, ngunda omukwao ma kara nawa novipupu omurongo uriri. Omurari omuwa: epuzzle esenina tji ra ri otja otjiungura, toorora ndi ri novipupu mbya hungama pokati. Tji ra manwa tjimanga nu eye aa vanga ovingi, kurisa ouṱiṱi.
 
-### Piece size and feel
+### Ounene nomuano wovipupu
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Ovipupu ominene** vi kamunika, okutoorwa nokutjivirika nawa.
+- **Ovipupu ovinene novikukutu** vi kara moruveze nu vi yenena okuṱiza tji vya wa.
+- **Omuano mbu hi nokuyenena** u ṱiza omunyeṋe kehi yozomuriro nozomahoa.
+- **Rira kokure novipupu oviṱiṱi** omundu tje na omuano wokutwa oviṋa motjinyo, tji tji yenena okukara ko kombunda mouzeu wokuzemburuka.
 
-### The picture
+### Otjiperendero
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Oviṋa vyovandu ovanene.** Ovikunino, omazuviro wokurongera, ozohiha ozakuru, ozonyama zepunda, otjihuro tjokomeva, poo omanyando nga suverere. Ka oviperendero vyovanatje poo oviṋa mbi munika otja ovinyandisiwa vyovanatje.
+- **Ovipupeze vyombunikiro omihlukile.** Ondjuwo osere, owato omburau nehi ehinga mavi pupire peyuru ndi ri pokati kepuzzle.
+- **Oviṋa omundu mbya tjiwa nawa.** Otjiperendero tjoruveze pu a turire poo otjiṋa tjaa suverere tji mu pa ovingi okutjihungirira. Omazuviro tjiva wokunyomisa ye yenena okurundurura otjiperendero tjeṱunḓu ojigsaw.
 
-## How do you do a puzzle together?
+## Mu ungura vi epuzzle pamwe?
 
-Set it up so the person can get straight to the enjoyable part.
+Rongerisa kutja omundu ma yenene okuuta motjiṋa otjiwa.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Toorora oruveze oruwa.** Ondjerera ombwa, otjihavero nomarama, notjiriro poo otjiyaha pu epuzzle mari yenena okukara.
+2. **Kuramisa ekopakopa rokambumba** pu amuyevari mamu yenene okumuna.
+3. **Tjivirika ovipupu notjipara kombanda** ngunda amu hiya uta.
+4. **Toorora ovipupu vyominda** ove omuini, poo ungura ominda rutenga nu u sye pokati ku ye.
+5. **Toorora ovipupu otja kombunikiro** moviyaha poo moviyaha ovipapuke.
+6. **Yandja otjipupu tjimwe pekepeke** otjimbamba tji tja ri otjingi. «Ami me ripura kutja hi otjokondjuwo.»
+7. **Hungirira kotjiperendero,** ka komurungu. «Ihi matji munika otja owato tate ngwaa ri na wo.»
+8. **Tji sya po.** Yaruka ku tjo momayuva omengi. Kape nombango.
+9. **Imba moruveze oruwa,** otjipupu tji tja twa mo, ngunda tji tji ri nondjoroka.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mai tunduuza okuvatera omundu okuuta, okutara ombinḓu nokumuyandjera okutara uriri tje ri nonḓero mu tjo. Okutara ove tji mo twa ovipupu nokuraisa pu tjimwe matji i, wina oku kara norupa.
 
-## Easy online puzzles
+## Omapuzzle omapupu mozongaro
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Epuzzle rotablet ri noviwa tjiva: kape novipupu mbi mavi pandjara, oviperendero ominene mbi urisa orutjandja, nu kape notjiriro okutjikoha.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[Epuzzle retu rOtjiperendero](/games/picture-puzzle/) omungandjo ri kondo otjiperendero movipupu 4 poo 9. Ṱuna ovipupu vivari okutjivipirisa ngandu otjiperendero tji tja rire otjiṱiṱi. Otjiperendero otjiṱiṱi tji kara porutjandja otja omuhunga, kape noruveze ndu maze tjiwa, nu mo yenene okuimba poruveze ngamwa. Ovipupu 4 vi ṱuna kovandu ovengi moruveze rwopokati nomundu ngu ri popezu.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Komanyando omapupu woviperendero, rora [Vaza otjiṋa tjimwe](/games/find-the-same/), pu mo ṱunu otjiperendero tji matji sana ku tjimwe kombanda, poo [Toorora pamwe](/games/sort-together/), pu oviperendero mavi twiwa movimbamba otja mezuviro wokurongera poo motjikunino.
 
-## Word puzzles: word searches and crosswords
+## Omapuzzle womambo: omakonḓononeno womambo noma crossword
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Omapuzzle womambo ye ṱuna kovandu mba suverere wo aruhe, potuingi rukuru mouzeu wokuzemburuka.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Omakonḓononeno womambo omanene.** [Ekonḓononeno retu romambo](/games/word-search/) omungandjo ri ungurisa ozonḓera ozonene nomambo omaṱiṱi uriri, nge ryanga komanene nokokehi, kape ruyu onḓekenda poo kombunda. Nyanda ro porutjandja poo ri nyomisa.
+- **Lesa oruteto mokuposa.** Omundu umwe ma lese embo, omukwao me ri paha. Okuzingurura onḓera ondenga uriri ku ri nawa.
+- **Oma crossword womambo omanene** mozombapira zomapuzzle ye yenena okuungura rukuru. Lesa omapuriro mokuposa, mu ungurire opena pamwe nu mu tjange omaziriro pamwe. Oma crossword omapupu, nge notjiuru, ye ri nawa pu inga omauzeu.
+- **Hungirira komambo.** «Otjikunino» matji yenena okueta oure wominute omurongo wokuhungirira komatomate.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Koviṋa vyombapira ovingi nomuano wokuvinyomisa kutja vi kamunike nokukamburwa nawa, tara [oviungura vyouzeu wokuzemburuka mbi nyomisewa omungandjo](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Omapuzzle yeṋe ngu maye ṱunu moruveze aruhe?
 
-Stages overlap, and good and hard days are normal.
+Omaruveze ye tuurungana, nu omayuva omawa nomauzeu ya ri otjiṋa otjitjavari.
 
-| Stage | Puzzles that often fit | Your role |
+| Oruveze | Omapuzzle ngu maye ṱunu potuingi | Oruvara roye |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Rwokutenga | Omajigsaw omatjiukwa novipupu oviṱiṱi pu rukuru, oma crossword nomakonḓononeno womambo omanene, omapuzzle rozongaro novipupu 9 | Omukwetu: mu yandjera okutoorora, vatera tja ningire |
+| Rwopokati | Omajigsaw novipupu ominene omurongo uriri, omapuzzle rozongaro novipupu 4, ekonḓononeno romambo ndi lesewa mokuposa pamwe | Rongerisa, toorora ovipupu, yandja tjimwe pekepeke |
+| Rwokomaandero | Okutara pamwe kotjiperendero tji tja manwa, Vaza otjiṋa tjimwe noviperendero vivari, okukambura ovipupu ominene oviṱiṱi | Tji eta ku ye; okukara pamwe kwoye otjo otjiungura |
 
-## When should you make a puzzle easier, or stop?
+## Oruveze ruṋe mu sokuyarurura epuzzle, poo okuimba?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Tara omasuviro, okupinga ovipupu, «hi nokuyenena» tji tja tjiukwa potuingi poo omirungu vyomeriworonganisiro. Ovyo ovihorera okutja mu rundurure otjiṋa, ka okuramba.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Tji yarura ouṱiṱi.** Ovipupu oviṱiṱi, poo mu syere ovipupu vyasenina uriri.
+- **Ungura ovingi ove omuini** nu u mu ṋanga okuvatera moviṋa ovipupu.
+- **Tjita otjiṋa otjikwao tjiri popezu:** okutoorora ovipupu otja kombunikiro, epuzzle rozongaro novipupu 4, poo [okupenda](/games/coloring/).
+- **Imba.** Tji twa pendje nu mu nwe ote. Mamu yenena okuyaruka eyuva rarwe, poo kamu nokuhepa.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Omapuzzle tji ye uta okumuzemburukisa tji tji ri ouzeu, ku ri navi okuyeesa. Pe noviṋa vyarwe ovingi okutjita oruveze oruwa pamwe; [omazuviro wetu woviungura 101](/activities/ideas/) oruveze oruwa okutara.

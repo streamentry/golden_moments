@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Attività sensuriali per e persone cù dimenza"
+seoTitle: "Attività sensuriali per a dimenza: idee è sicurità"
+description: "Attività sensuriali per e persone chì campanu cù a dimenza, da u massaghju di e mani à i pani di tessuti è i soni di a natura, cù cunsiglii chjari di sicurità."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  L'attività sensuriali usanu u toccu, l'odori, u gustu, u sonu è a vista: un
+  massaghju lentu di e mani, un pani di tessuti dolci, erbe fresche da sente,
+  soni di a natura, o fighjà l'acelli à a finestra. Si adattanu à ogni tappa è
+  sò soprattuttu preziose più tardi. Verificate prima i risichi di suffucazione,
+  l'allergie, i prublemi di pelle è a sensibilità à l'odori, prupunite una cosa
+  à a volta, è fermatevi s'è a persona pare micca à l'agiu.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "L'attività sensuriali ùn anu micca bisognu di risposte ghjuste, ciò chì li face adattate à ogni tappa, ancu à lettu o in una sedia."
+  - "Prupunite un sensu à a volta in una stanza tranquilla, è dumandate o avvisate prima di tuccà."
+  - "Evitate l'ogetti chjuchi è tuttu ciò chì pare o sente cum'è manghjà ma ùn l'hè micca, perchè e persone ponu mette e cose in bocca."
+  - "Verificate l'allergie, i prublemi di pelle è i prublemi di respirazione prima d'usà lozioni, odori o alimenti."
+  - "Ùn ci hè micca prove cunvincente chì l'aromaterapia aiuti cù i sintomi di a dimenza; aduprate l'odori solu per un piacè simplice, s'è vo vulete."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Chì sò boni attività sensuriali per una persona cù dimenza?"
+    a: "Trà l'idee simplici ci sò un massaghju lentu di e mani cù lozione, toccà tessuti dolci, sente erbe fresche o caffè, ascultà musica preferita o soni di a natura, fighjà l'acelli o un acquariu, è tastà un alimentu preferitu in una cunsistenza sicura. Prupunite una cosa à a volta è fighjate cumu a persona risponde."
+  - q: "L'attività sensuriali sò sicure per qualchissia chì mette e cose in bocca?"
+    a: "Ponu esse, cù attenzione. Aduprate solu oggetti grandi chì ùn ponu micca esse inghiuttiti, lasciate perde tuttu ciò chì hè chjucu o fragile, è dopu l'usu tenite fora di portata lozioni, saponi è prudutti prufumati, perchè ponu parè o sente cum'è manghjà. State cù a persona tuttu u tempu."
+  - q: "L'aromaterapia aiuta cù a dimenza?"
+    a: "Una rivista Cochrane ùn hà trovu prove cunvincente chì l'aromaterapia aiuti e persone cù dimenza, ancu s'è i studii eranu chjuchi è pocu coerenti. S'è a persona gode un odore dolce è familiare, ùn ci hè prublema, ma evitate l'olii essenziali forti, soprattuttu s'ellu ci sò prublemi di respirazione o allergie."
+  - q: "Chì ghjè un grembiule o una coperta d'attività?"
+    a: "Hè un pezzu di tela, un grembiule o una coperta per e ghjinochje cù cose da manighjà cusite bè sopra, cum'è buttoni grandi, cerniere, nastri è pezzi di tessuti diversi. Dà à e mani occupate qualcosa da scopre. Verificatelu spessu per vede s'ellu ci hè qualcosa staccatu."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+L'attività sensuriali usanu i cinque sensi: u toccu, l'odore, u gustu, u sonu è a vista. Ùn anu micca bisognu di memoria, di passi da seguità nè di risposte ghjuste, cusì ponu andà bè in ogni tappa. Sò soprattuttu impurtanti più tardi. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) nota chì in l'ultima tappa u mondu hè vissutu soprattuttu attraversu i sensi, è chì pudete mustrà a vostra attenzione attraversu u toccu, u sonu, a vista, u gustu è l'odore. Qualchì verificazione simplice di sicurità pò rende st'attività rilassanti per tutti.
 
-## What are sensory activities for dementia?
+## Chì sò l'attività sensuriali per a dimenza?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+L'attività sensuriali sò spirienze simplici custruite intornu à un sensu à a volta, cum'è sente a tela, annusà erbe o ascultà a piogia. U [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dice chì l'attività di l'ultime tappe devenu spessu cuncentrassi nantu à i sensi, è cita a musica, l'ogetti da tuccà è manighjà, è u massaghju di e mani. L'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nota chì e persone in l'ultima tappa ponu avè un forte bisognu di tene qualcosa vicinu per cunfortu.
 
-## Sensory ideas, sense by sense
+## Idee sensuriali, sensu per sensu
 
-### Touch
+### Toccu
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Massaghju di e mani.** Scaldate un pocu di lozione in e vostre mani è fate movimenti lenti da u polsu finu à a punta di e dite. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) cita u massaghju cù lozione senza prufumu per dà cunfortu.
+- **Pani di tessuti.** Pezzi grandi di vellutu, vellutu à coste, pile, satin è lana da accarezzà, piegà è cummentà.
+- **Pannu caldu.** Un pannu caldu è umitu per e mani in una ghjurnata fredda. Pruvate prima a temperatura nantu à u vostru polsu.
+- **Grembiule o coperta d'attività.** Buttoni grandi, cerniere, nastri è pezzi di tessuti diversi cusiti bè.
+- **Piegà è liscià.** Un pani di pannetti o tovaglioli puliti da piegà, mette in pila è piegà torna.
+- **Qualcosa di dolce da tene.** Una coperta di pile, un cuscinu o un animale dolce è realisticu, prupostu in modu simplice, mai cum'è un ghjoculu.
 
-### Smell
+### Odore
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Erbe fresche.** Sfregate foglie di menta, ramerinu, basilicu o lavanda trà e vostre dite è purtatele vicinu à a persona.
+- **Odori di cucina.** Caffè chì si face, pane chì si tosta, cannella o una arancia sbucciata vicinu.
+- **Fiori.** Purtrate uni pochi di fiori freschi da u giardinu o da u magazinu.
+- **Un pruduttu familiare.** U sapone o a lozione chì a persona hà sempre adupratu, s'è a so pelle u tollera.
 
-### Taste
+### Gustu
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Un sapore preferitu.** Una piccula cucchiaiata di qualcosa chì li piace assai, cum'è cumposta di mela, crema o ghjacciu, in una cunsistenza chì a persona pò gestisce in sicurità.
+- **Aiutà à fà i dolci.** Tastà frutta o un pocu di crema mentre vo preparate inseme qualcosa da manghjà.
+- **Piaceri di stagione.** Anguria d'istate, sidru caldu d'autunnu, serviti à una temperatura sicura.
 
-### Sound
+### Sonu
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Musica preferita.** Canzone familiari à un vulume dolce; fighjate [attività musicali](/activities/music/).
+- **Soni di a natura.** Piogia, onde o canti d'acelli. U NIA nota chì a musica, i rumori bianchi è i soni di a natura parenu rilassà certe persone.
+- **A vostra voce.** Leghje à voce alta, murmurià, o cuntà una storia.
+- **Strumenti simplici.** Un tamburellu, una maraca o una campanella per accumpagnà a musica.
 
-### Sight
+### Vista
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Fighjà fora da a finestra.** Una manghjatoia per l'acelli fora di a finestra, i zitelli chì tornanu in casa, o a neve chì casca.
+- **Un acquariu o un video lentu.** Movimentu dolce senza sonu forte.
+- **Foto grandi.** Una sola stampa chjara à a volta, tenuta à l'altezza di l'ochji.
+- **Culori è motivi.** Scelta di pezzi di tela culuriti, fiori o tovaglioli culuriti, o una pagina simplice da culurisce da a nostra raccolta [culurisce](/games/coloring/).
+- **Fora.** U NHS prupone giardini sensuriali cù piante prufumate, tessiture è elementi d'acqua. Fighjate [attività fora è in giardinu](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Cumu preparà una scatula sensuriale
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Sceglite un tema** ligatu à a vita di a persona: a spiaggia, u giardinu, a cucina, l'atelier, a costura.
+2. **Sceglite cinque o sei oggetti grandi è sicuri,** cum'è una grande cunchiglia, una cucchiara di legnu, una sciarpa dolce, un sacchettu di lavanda secca cusitu chjosu, o un bloccu di legnu lisciu.
+3. **Verificate ogni oggettu** per vede s'ellu hà pezzi chjuchi, bordi taglienti, fili staccati o qualcosa di fragile.
+4. **Prupunite un oggettu à a volta.** Datelu à a persona, descrivitelu, è lasciatela scopre.
+5. **Mettite a scatula da cantu dopu** per ch'ella resti speciale è per verificà torna l'ogetti prima di a prossima volta.
 
-## Safety first
+## A sicurità prima di tuttu
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+L'attività sensuriali sò dolci, ma certi risichi sò impurtanti. Alcune persone chì campanu cù a dimenza ponu scambià oggetti chì ùn sò micca alimenti per manghjà, è cù u tempu inghiuttì pò diventà più difficiule; u NIA avvisa chì i prublemi d'inghiuttitura in l'ultima tappa aumentanu u risicu di suffucazione.
 
-| Risk | What to do |
+| Risicu | Ciò chì fà |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Suffucazione | Aduprate solu oggetti troppu grandi per esse inghiuttiti. Nunda di buttoni, perle, munete, biglie o ghjoculi chjuchi sciolti in una scatula. Prupunite alimenti solu in cunsistenze chì a squadra di cura dice chì sò sicure. |
+| Cose chì parenu manghjà | U NIA cunsiglia di chjude à chjave lozioni, saponi, shampoo è prufumi, chì ponu parè o sente cum'è manghjà, è di caccià a frutta artificiale. Mettite i prudutti sensuriali da cantu dopu l'usu. |
+| Allergie | Verificate prima s'ellu ci sò allergie à e noci, à u lattice, à a lana, à e piante o à i prufumi. |
+| Odori forti | Evitate i prufumi forti è l'olii essenziali, soprattuttu in casu d'asma o d'altri prublemi di respirazione. L'odori dolci è naturali sò più sicuri. |
+| Pelle | Verificate s'ellu ci hè pelle dulente, ferita o fragile prima di un massaghju. Aduprate una pressione dolce è fermatevi s'è a persona face una smorfia. |
+| Temperatura | Pruvate prima i panni caldi è e bevande nantu à u vostru polsu. |
+| Oggetti taglienti o tossichi | Nunda d'attrezzi taglienti, vetru o materiale di creazione tossicu. |
 
-## Does aromatherapy help?
+## L'aromaterapia aiuta?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Probabilmente micca in un modu misurabile. Una [rivista Cochrane nantu à l'aromaterapia per a dimenza](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) hà guardatu 13 studii cù 708 persone, tutti in case di cura, è ùn hà trovu prove cunvincente di benefiziu. I studii eranu chjuchi, i risultati ùn eranu micca d'accordu, è l'effetti secundarii eranu pocu descritti. S'è a persona gode un odore dolce è familiare, cum'è a lavanda di u giardinu, hè una bella ragione per sparte lu. Ùn hè micca un trattamentu.
 
-## How to offer a sensory activity
+## Cumu prupone un'attività sensuriale
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Sceglite un mumentu tranquillu** è spenghje a televisione.
+- **Avvicinatevi da davanti,** dite u so nome, è dumandate o avvisate prima di tuccà: « Aghju un pocu di lozione. Vi piacerebbe un massaghju di e mani? »
+- **Prupunite una cosa à a volta** per ùn sopraffà a persona.
+- **Fighjate a reazione.** Un visu più distesu, mani rilassate o un surrisu sò boni segni. Tirassi in daretu, aggrottà a fronte o esse inquietu vole dì chì hè megliu fermassi.
+- **Fatela corta.** Cinque minuti tranquilli sò digià una bella sessione.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Una pausa lenta di respirazione inseme, cum'è [respirazione calma](/games/calm-breathing/), pò esse un modu dolce per finisce. Per più idee vicinu à u lettu, fighjate [attività per l'ultime tappe](/activities/late-stage/), è per l'inquietudine di a fine di ghjurnata, fighjate [inquietudine à a fine di u ghjornu](/caregiving/late-day-restlessness/).

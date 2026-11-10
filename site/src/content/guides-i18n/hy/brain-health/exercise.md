@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Շարժում և ուղեղի առողջություն. ինչ ասում է գիտությունը"
+seoTitle: "Շարժում և դեմենցիա. ինչ ասում է գիտությունը"
+description: "Ինչ են ցույց տալիս հետազոտությունները ֆիզիկական ակտիվության և դեմենցիայի կապի մասին, և ինչպես անվտանգ շարժվել տարեցների ու դեմենցիայով ապրող մարդկանց համար։"
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Հետազոտությունները կանոնավոր ֆիզիկական ակտիվությունը կապում են դեմենցիայի ավելի ցածր ռիսկի
+  հետ, և Lancet-ի 2024 թվականի հանձնաժողովը ֆիզիկական անգործությունը նշում է որպես 14 փոփոխելի
+  ռիսկի գործոններից մեկը։ Փորձարկումները չեն ապացուցել, որ մարմնամարզությունը կանխում է
+  դեմենցիան։ Շարժումը միևնույն է օգնում է ուժին, հավասարակշռությանը, տրամադրությանը և քնին,
+  ուստի քայլքը, աթոռային վարժությունները և պարը արժե անել հանուն իրենց։ Նոր բան սկսելուց առաջ
+  խորհրդակցեք բժշկի հետ։
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Ֆիզիկապես ակտիվ մարդկանց մոտ միջինում դեմենցիայի ռիսկն ավելի ցածր է, սակայն դա հիմնականում գալիս է դիտողական հետազոտություններից, ոչ թե փորձարկումներից։"
+  - "Տարեցների շրջանում հինգամյա մարզական փորձարկումը խմբերի միջև մտածողության հմտությունների հստակ տարբերություն չգտավ։"
+  - "CDC-ի ուղեցույցը 65 և ավելի տարեկան մեծահասակների համար ընդգրկում է աէրոբիկ, մկաններն ամրացնող և հավասարակշռության զբաղմունքներ, և ասում է, որ որոշակի ակտիվությունը լավ է, քան ոչ մեկը։"
+  - "Դեմենցիայով ապրող մարդկանց համար կարճ, ծանոթ, համատեղ շարժումը, ինչպիսին է ամենօրյա քայլքը կամ նստած խաղերը, ավելի կարևոր է, քան ցանկացած նպատակ։"
+  - "Տարեց մեծահասակների չորսից մեկից ավելին ամեն տարի ընկնում է, ուստի հավասարակշռության աշխատանքը և անվտանգ տարածքը առաջին տեղում են։"
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Կարո՞ղ է մարմնամարզությունը կանխել դեմենցիան։"
+    a: "Ոչ ոք չի կարող դա խոստանալ։ Շատ հետազոտություններ ակտիվ լինելը կապում են դեմենցիայի ավելի ցածր ռիսկի հետ, սակայն կլինիկական փորձարկումները չեն ցույց տվել, որ մարմնամարզությունը կանխում է այն։ Մարմնամարզությունն ունի բազմաթիվ այլ ապացուցված օգուտներ, ուստի այն դեռ արժե անել։"
+  - q: "Անվտա՞նգ է դեմենցիայով ապրող մարդու համար մարզվելը։"
+    a: "Սովորաբար այո՝ որոշակի պլանավորմամբ։ Ծերացման ազգային ինստիտուտը խորհուրդ է տալիս նոր ռեժիմ սկսելուց առաջ խորհրդակցել մարդու բժշկի հետ, ընտրել հարմար կոշիկներ, առաջարկել ջուր և կարճ պահել պարապմունքները։ Դադարեցրեք, եթե մարդը հոգնած, անկայուն կամ դժգոհ է երևում։"
+  - q: "Ի՞նչ վարժություններ կարելի է անել նստած։"
+    a: "Նստած տարբերակները ներառում են աթոռային ձգումներ կամ աթոռային յոգա, փուչիկ կամ փափուկ գնդակ նետելը, լոբու տոպրակ նետելը, ապուրի տուփեր բարձրացնելը, ձգվող ռետինները և ոտնակային մարզիչները։ Սրանք լավ ընտրություն են, երբ քայլելը դժվար է։"
+  - q: "Ի՞նչ անել, եթե մարդը չի ուզում շարժվել։"
+    a: "Մի՛ ստիպեք։ Փորձեք ավելի ուշ, ինքներդ միացեք, ավելացրեք ծանոթ երաժշտություն կամ շարժումը դարձրեք առաջադրանք, ինչպիսին է ավլելը կամ բույսերը ջրելը։ Փոստարկղը հասնելու կարճ քայլքը հաշվվում է, և դրսում միասին ուղղակի նստելը նույնպես։"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Ակտիվ լինելը ուղեղի առողջության հետազոտությունների ամենաուսումնասիրված սովորություններից մեկն է։ Հետազոտությունները այն կապում են դեմենցիայի ավելի ցածր ռիսկի հետ, սակայն չեն ապացուցել, որ մարմնամարզությունը կանխում է դեմենցիան։ Հստակ է մեկը՝ շարժումն օգնում է ուժին, հավասարակշռությանը, տրամադրությանը և քնին ցանկացած տարիքում։ Այս էջում ներկայացված է, թե ինչ են ասում հետազոտությունները, որքան ակտիվություն է խորհուրդ տրվում տարեցներին, և ինչպես մեղմ ձևով շարժվել դեմենցիայով ապրող մարդու հետ միասին։
 
-## Does exercise lower the risk of dementia?
+## Արդյո՞ք մարմնամարզությունը նվազեցնում է դեմենցիայի ռիսկը։
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Հետազոտությունները հուշում են, որ ֆիզիկապես ակտիվ մարդկանց մոտ դեմենցիայի զարգացման հավանականությունն ավելի ցածր է, սակայն ապացույցները սահմանափակ են։ [Դեմենցիայի վերաբերյալ Lancet-ի 2024 թվականի հանձնաժողովը](https://doi.org/10.1016/S0140-6736(24)01296-0) ֆիզիկական անգործությունը նշում է որպես 14 փոփոխելի ռիսկի գործոններից մեկը։ Այս 14 գործոնները միասին, ըստ նրա մոդելի, կազմում են աշխարհում դեմենցիայի դեպքերի մոտ 45%-ը։
 
-Here is what the evidence looks like:
+Ահա թե ինչ տեսք ունեն ապացույցները.
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Դիտողական հետազոտությունները ցույց են տալիս մի ուղղություն։** Հանձնաժողովի քննարկած 58 հետազոտությունների վերանայումը պարզել է, որ ֆիզիկապես ակտիվ մարդկանց մոտ դեմենցիայի ռիսկը մոտ 20%-ով ավելի ցածր էր։ Ամենամեծ տարբերությունը եղել է գրեթե ամբողջովին անգործ մարդկանց և գոնե որոշակի ակտիվություն ունեցողների միջև։
+- **Կապը կարող է գործել երկու ուղղությամբ։** Հանձնաժողովը նշում է, որ անգործությունը կարող է բարձրացնել ռիսկը։ Այն նաև նշում է, որ դեմենցիայի վաղ ուղեղային փոփոխությունները, որոնք սկսվում են ախտորոշումից տարիներ առաջ, կարող են մարդկանց ավելի քիչ ակտիվ դարձնել։
+- **Փորձարկումներն ավելի պարզ չեն։** Մի փորձարկման ժամանակ 945 տարեց մարդու, որոնց միջին տարիքը 78 էր, հինգ տարի շարունակ շաբաթը երկու անգամ հսկվող մարմնամարզությամբ զբաղվելու կամ համեմատական խմբում ընդգրկվելու հանձնարարություն տրվեց։ Վերջում խմբերի միջև մտածողության հմտությունները հստակ չէին տարբերվում։ Համեմատական խմբի շատ մարդիկ նույնպես ակտիվ էին, ինչը դժվարացնում է արդյունքի մեկնաբանումը։
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Ծերացման ազգային ինստիտուտը (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ուղղակի ասում է. Ֆիզիկական ակտիվության և Ալցհայմերի կանխարգելման միջև հստակ կապ չի ցուցադրվել, և բավարար փորձարկումային ապացույցներ չկան, որ մարմնամարզությունը կանխում կամ դանդաղեցնում է այն։ Մարմնամարզությունը միևնույն է նվազեցնում է ընկնելու, դեպրեսիայի, դիաբետի, բարձր ճնշման և կաթվածի ռիսկը։ Այդ վիճակներից ոմանք իրենք են կապված ճանաչողական անկման հետ։
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Անկեղծ եզրակացությունն այն է՝ շարժվեք, որովհետև դա օգնում է ձեզ այսօր ավելի լավ զգալ և գործել։ Ուղեղին տրվող ցանկացած օգուտ հնարավոր լրավճար է, ոչ թե խոստում։
 
-## How much activity do older adults need?
+## Որքա՞ն ակտիվություն է անհրաժեշտ տարեցներին։
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC-ի ուղեցույցը 65 և ավելի տարեկան մեծահասակների համար](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) առաջարկում է ամեն շաբաթ ակտիվության երեք տեսակ.
 
-| Type | Weekly amount | Examples |
+| Տեսակ | Շաբաթական քանակը | Օրինակներ |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Աէրոբիկ | Առնվազն 150 րոպե չափավոր ակտիվություն, օրինակ՝ 30 րոպե՝ 5 օր | Արագ քայլք, պար, ջրային աէրոբիկա |
+| Մկանների ամրապնդում | Առնվազն 2 օր՝ ներգրավելով բոլոր հիմնական մկանային խմբերը | Թեթև ծանրությունների կամ ապուրի տուփերի բարձրացում, ձգվող ռետիններ |
+| Հավասարակշռություն | Կանոնավոր | Քայլք կրունկից մատ, աթոռից վեր կենալը |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Սրանք նպատակներ են, ոչ թե մուտքի պահանջներ։ CDC-ն ասում է, որ եթե չեք կարողանում հասնել դրանց, պետք է ակտիվ լինեք այնքան, որքան թույլ են տալիս ձեր ունակությունները և առողջությունը։ Որոշակի ակտիվությունը լավ է, քան ոչ մեկը։
 
-## Gentle ways to move for older adults
+## Շարժվելու մեղմ եղանակներ տարեցների համար
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Քայլեք ընկերակցությամբ։** Ամենօրյա քայլքը ընկերոջ, հարևանի կամ քայլքի խմբի հետ ավելացնում է զրույց և անվտանգություն։
+- **Աթոռի վարժություններ։** Նստած ձեռքերի բարձրացումը, կրունկի պտույտները, տեղում քայլելը և աթոռային յոգան ամրացնում են ուժը՝ առանց հավասարակշռությունը վտանգելու։
+- **Պարեք խոհանոցում։** Միացրեք երաժշտություն մարդու պատանեկության և քսանականների տարիներից ու օրորվեք, ոտքով հարվածեք կամ քայլեր արեք։ Մեր [երաժշտական զբաղմունքների ուղեցույցը](/activities/music/) ունի գաղափարներ։
+- **Ուժ տնային իրերով։** Սիրելի հաղորդումը դիտելիս բարձրացրեք լցված ջրի շշեր կամ ապուրի տուփեր։
+- **Զբաղվեք այգով կամ տնային գործերով։** Բույսերի ջրելը, տերևները հավաքելը, ավլելը և լվացքը ծալելը բոլորը հաշվվում են։ Տեսեք [բացօթյա և այգեգործական զբաղմունքները](/activities/outdoor-and-gardening/) և [տնային գործերը](/activities/household-tasks/)։
+- **Վարժություն ջրում։** NIA-ն ջրային աէրոբիկայի դասերը նշում է որպես տարբերակ այն մարդկանց համար, ում ցամաքային վարժությունները ծանր են հոդերի համար։
 
-## How to exercise with someone living with dementia
+## Ինչպես մարմնամարզվել դեմենցիայով ապրող մարդու հետ
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Դեմենցիայով ապրող մարդու համար նպատակը հարմարավետությունն է, հաճույքը և ամենօրյա ունակությունները պահպանելը, ոչ թե ինչ-որ թվի հասնելը։ NIA-ն ասում է, որ ֆիզիկական ակտիվությունն օգնում է Ալցհայմեր ունեցող մարդու մկանները, հոդերը և սիրտը լավ վիճակում պահել և կարող է նաև բարելավել տրամադրությունն ու քունը։ Նոր ռեժիմ սկսելուց առաջ խորհրդակցեք նրանց բժշկի հետ։ [NIA-ի խնամակալի ուղեցույցի](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) խորհուրդներից են.
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Ամեն օր քայլեք միասին։** Ընտրեք անվտանգ, ծանոթ ուղի՝ առանց խոչընդոտների։ Եթե մարդը մենակ է քայլում, ձեր հեռախոսահամարով ID ապարանջանը լավ գաղափար է։
+2. **Փորձեք մարմնամարզության տեսանյութեր տարեցների համար։** Կրկնեք միասին՝ նստած կամ կանգնած։
+3. **Կարճ պահեք պարապմունքները։** Մի քանի կարճ «մինի-մարզումներ» կարող են ավելի լավ աշխատել, քան մեկ երկարը։
+4. **Ավելացրեք երաժշտություն։** Ծանոթ երգերը շարժումը դարձնում են զբաղմունք, ոչ թե առաջադրանք։ Պարեք, եթե մարդը հաճույք է ստանում դրանից։
+5. **Առաջարկեք ջուր և հարմար կոշիկներ։** Առաջարկեք ջուր կամ հյութ ընթացքում և հետո, և ընտրեք հարմար հագուստ ու լավ տեղավորվող կոշիկներ, որոնք նախատեսված են մարմնամարզության համար։
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Եթե քայլելը դժվար է, [Ալցհայմեր ունեցող մարդու խնամքի վերաբերյալ NIA-ի ուղեցույցը](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) առաջարկում է նստած տարբերակներ։ Դրանք ներառում են աթոռային վարժություններ կամ յոգա, լոբու տոպրակ նետելը, փափուկ գնդակ կամ փուչիկ նետելը, ձգվող ռետիններ, թեթև տնային իրերի բարձրացումը և ոտնակային մարզիչները։ Պարզ գործերը, ինչպիսիք են ավլելը և փոշին սրբելը, նույնպես հաշվվում են։
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Եղեք իրատես, թե ինչ կարող է անել շարժումը։ Lancet-ի հանձնաժողովը չգտավ ապացույց, որ մարմնամարզությունը նվազեցնում է վարքային փոփոխությունները, ինչպիսին է գրգռվածությունը։ Շարժվեք միասին, որովհետև դա կարող է լավ զգացում տալ, ոչ թե որպես դժվար կեսօրը ուղղելու միջոց։ Եթե մարդը ասում է ոչ, դա նորմալ է։ Մեր ուղեցույցը [երբ նրանք ասում են ոչ](/caregiving/when-they-say-no/) պարունակում է մեղմ եղանակներ ավելի ուշ նորից փորձելու համար։ Վաղ ավարտելը կամ ուղղակի միասին դրսում նստելը նույնպես լավ արդյունք է։
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Շարժվելուց հետո հանգիստ դադարը, ինչպիսին է [Հանգիստ շնչառությունը](/games/calm-breathing/), կարող է օգնել երկուսիդ էլ հանգստանալ։ Նստած զբաղմունքի համար՝ ձեռքերի մեղմ շարժումով, [Միասին դասավորելը](/games/sort-together/) և [Նկարների բինգոն](/games/picture-bingo/) լավ են աշխատում սեղանի շուրջ։
 
-## Balance and fall safety
+## Հավասարակշռություն և ընկնելու անվտանգություն
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Ընկնելը հաճախակի և լուրջ է։ [CDC-ի տվյալներով](https://www.cdc.gov/falls/data-research/facts-stats/index.html) տարեց մեծահասակների չորսից մեկից ավելին ամեն տարի ընկնում է, սակայն կեսից պակասը դրա մասին ասում է իր բժշկին։ Մեկ անգամ ընկնելը կրկնապատկում է նորից ընկնելու հավանականությունը։ CDC-ի նշած ռիսկի գործոնները ներառում են.
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Ոտքերի և ազդրերի թուլություն
+- Քայլելու և հավասարակշռության դժվարություն
+- Որոշ դեղամիջոցներ, ներառյալ հանգստացնողները և որոշ հակադեպրեսանտներ
+- Տեսողության խնդիրներ
+- Ոտքի ցավ կամ անհարմար կոշիկ
+- Տանը եղած վտանգներ, ինչպիսիք են իրարանցքը, փռված գորգերը և կոտրված աստիճանները
 
-To move more safely:
+Ավելի անվտանգ շարժվելու համար.
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Օգտագործեք ամուր աթոռ**՝ առանց անիվների, և կանգնած վարժությունների համար ձեռքի տակ պահեք սեղան կամ բազրիք։
+- **Ազատեք տարածքը** գորգերից, լարերից և իրարանցքից նախապես։
+- **Դանդաղ վեր կացեք**, և դադարեցրեք, եթե մարդը գլխապտույտ կամ անկայունություն է զգում։
+- **Կրեք կայուն կոշիկներ**, ոչ թե գուլպաներ կամ լայն հողաթափեր։
+- **Մարզեք հավասարակշռությունը հենարանի մոտ։** Աթոռից վեր կենալը և կրունկից մատ քայլելը CDC-ի հավասարակշռության վարժությունների օրինակներ են։
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC-ն խորհուրդ է տալիս, որ ընկած և գլուխը հարվածած տարեց մարդը անմիջապես դիմի բժշկի, հատկապես եթե արյունը նոսրացնող դեղեր է ընդունում։
 
-## Talk with a doctor
+## Խոսեք բժշկի հետ
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Նոր մարզական ռեժիմ սկսելուց առաջ խորհրդակցեք բժշկի հետ, հատկապես եթե մարդն ունի սրտի կամ թոքերի խնդիրներ, հոդացավ, հավասարակշռության խնդիրներ կամ դեմենցիա։ Բժիշկը կամ ֆիզիոթերապևտը կարող են առաջարկել անվտանգ զբաղմունքներ և ստուգել, թե արդյոք դեղամիջոցները ազդում են հավասարակշռության վրա։ Պատմեք բժշկին ցանկացած ընկնելու մասին, նույնիսկ առանց վնասվածքի։ Եթե մարմնամարզության ժամանակ ինչ-որ բան ցավում է կամ սխալ է զգացվում, դադարեցրեք։ Հանկարծակի կրծքավանդակի ցավի, շնչելու դժվարության կամ հանկարծակի շփոթության դեպքում զանգահարեք 112։
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Այս էջը ընդհանուր տեղեկատվություն է, ոչ թե բժշկական խորհրդատվություն։ Տեսեք մեր [բժշկական հրաժարումը](/medical-disclaimer/)։ Ավելի լայն պատկերի համար կարդացեք [ինչ են ասում հետազոտությունները դեմենցիայի ռիսկի գործոնների մասին](/brain-health/risk-factors/) և [արդյոք դեմենցիան կարելի է կանխել](/brain-health/can-dementia-be-prevented/)։

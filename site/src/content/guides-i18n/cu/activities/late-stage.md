@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Дѣꙗниꙗ при поздьнѣмь забѫдѣнии, въ ложи и на сѣдалищи"
+seoTitle: "Дѣꙗниꙗ при поздьнѣмь забѫдѣнии: ложє и сѣдалищє"
+description: "Тихаа дѣꙗниꙗ при поздьнѣмь забѫдѣнии, въ ложи и на сѣдалищи: пѣсни, прикоснованиѥ, чьтєниѥ въслоухъ, гласꙑ и съпрѣбꙑваниѥ, съ съхранєниѥмь."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  При поздьнѣмь забѫдѣнии дѣꙗниꙗ строѭтъ сѧ на чоуствьствѣхъ и на вашємь
+  съпрѣбꙑвании: любимаꙗ пѣсни, дрьжаниѥ рѫкꙑ, тихоѥ помазаниѥ рѫкꙑ,
+  чьтєниѥ въслоухъ, зрѣниѥ образъ, гласꙑ природꙑ и сѣдѣниѥ оу окна или внѣ.
+  Сиѥ подобаѥтъ въ ложи и на сѣдалищи. Дрьжитє врѣмѧ мало, смотритє лица и
+  рѫкꙑ о покои, и помьнитє, ꙗко вашє прѣбꙑваниѥ ѥстъ само дѣꙗниѥ.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Съвѧзь ѥщє възможьна. Въ поздьнѣи стєпєни миръ поимаѥтъ сѧ пачє чрѣзъ чоуствьства."
+  - "Пѣсни, тихоѥ прикоснованиѥ, знаѥмꙑи гласъ и мѧкъкаꙗ вєщь въ рѫкоу часто доходитъ, ѥгда словєса оуꙗє нє доходитъ."
+  - "Почти вьсꙗ сиꙗ мꙑсли подобаѭтъ чловѣкоу въ ложи или на сѣдалищи."
+  - "Съмотритє на лицє, рѫцѣ и дꙑханиѥ о покои и нєпокои, и прѣстанитє при вьсꙗкомь знамєнии тревогꙑ."
+  - "Нє даваитє малꙑихъ вєщии, а брашьно и питиѥ даваитє тъкъмо по съвѣтоу пєчальникъ, понєжє глътаниѥ можєтъ бꙑти нєбєзъопасьно."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Чьто можєтъ творити съ чловѣкомь живѫщьмь съ поздьньмь забѫдѣниѥмь, ижє лєжитъ въ ложи?"
+    a: "Поуститє ѥмоу любимаꙗ пѣсни, дрьжитє ѥго рѫкѫ, тихо помажитє рѫкѫ мастиѭ, чьтитє въслоухъ отъ любимаꙗ кънигꙑ или молитвꙑ, покажитє образꙑ, или поуститє тихꙑꙗ гласꙑ природꙑ. Отврьзитє завѣсꙑ, да видитъ внѣ. Кратъкаꙗ и тихаꙗ врѣмєна, по ѥдинои вєщи, обꙑчьно добрѣ слоужатъ."
+  - q: "Могѫтъ ли чловѣци живѫщє съ поздьньмь забѫдѣниѥмь ѥщє радовати сѧ пѣсньмъ?"
+    a: "Мъноꙃи могѫтъ. Alzheimer's Association глаголєтъ, ꙗко и въ поздьнѣи стєпєни чловѣкъ можєтъ оударꙗти въ мѣрѫ или пѣти съ пѣсниѭ отъ дѣтьства. Избєритє пѣсни, ꙗжє люблꙗашє въ юности, и дрьжитє гласъ тихъ."
+  - q: "Како разоумѣти, аштє дѣꙗниѥ ѥмоу оугодьно?"
+    a: "Съмотритє малꙑꙗ знамєниꙗ: съпоѭштє сѧ рамєна, тихѣишє лицє, възьрѣниѥ очима, гѫдєниѥ, стисканиѥ рѫкꙑ или тихѣишє дꙑханиѥ. Съкрꙑчєниѥ лица, отътѧгнѫти сѧ, нєпокоиниѥ или стєнаниѥ могѫтъ ꙗвлꙗти нєпокои или болѣꙁнь. Аште видитє сиѥ, прѣстанитє и повѣждьтє пєчальникомъ, аштє прѣбꙑваѥтъ."
+  - q: "Подобаѥтъ ли посѣщати, аштє мєнє оуꙗє нє познаѥтъ?"
+    a: "Ѥи. National Institute on Aging глаголєтъ, ꙗко просто прѣбꙑваниѥ можєтъ оутѣшати, и ꙗко прикоснованиѥ, пѣсни и повѣсти могѫтъ ѥщє дати оутѣхѫ въ тѧжьцѣ забѫдѣнии. Вашь гласъ и прикоснованиѥ могѫтъ бꙑти знаѥма, аштє и имѧ вашє нє помьнитъ сѧ."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Въ поздьнѣи стєпєни забѫдѣниꙗ чловѣкъ можєтъ мало глаголати, трѣбовати помощи въ вьсѣи дьньнѣи пєчали и прѣбꙑвати мъногъ дьнь въ ложи или на сѣдалищи. Можєтъ сѧ мнѣти, ꙗко нѣстъ чьто творити въкоупѣ. Нъ ѥстъ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) глаголєтъ, ꙗко нѣкаꙗ часть чловѣка можєтъ прѣбꙑвати, и ꙗко въ си стєпєни миръ поимаѥтъ сѧ пачє чрѣзъ чоуствьства. Пѣсни, прикоснованиѥ, знаѥмꙑи гласъ и вашє тихоѥ съпрѣбꙑваниѥ могѫтъ ѥщє дати оутѣхѫ и малоѥ съвѧꙁаниѥ.
 
-## What activities help in late-stage dementia?
+## Каꙗ дѣꙗниꙗ помагаѭтъ при поздьнѣмь забѫдѣнии?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Простаꙗ чоуствьнаꙗ дѣꙗниꙗ и тихоѥ съпрѣбꙑваниѥ пачє помагаѭтъ въ поздьнѣи стєпєни. Alzheimer's Association съвѣтоуѥтъ поущати любимаꙗ пѣсни, чьсти части дражаиѩ кънигꙑ, помазати кожѫ мастиѭ съ любимоѭ вониѭ и сѣдѣти въкоупѣ внѣ въ добрꙑи дьнь. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) прилагаѥтъ повѣсти, показаниѥ образъ, тихоѥ прикоснованиѥ или помазаниѥ, пѣсни, бѣлꙑи шѹмъ или гласꙑ природꙑ, и глаголєтъ, ꙗко само вашє прѣбꙑваниѥ можєтъ оутѣшати.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) глаголєтъ, ꙗко чловѣци въ поздьнѣи стєпєни часто имѫтъ сильнѫ потрѣбѫ дрьжати чьто блиꙃъ сєбє оутѣхꙑ ради, и съвѣтоуѥтъ простаꙗ чоуствьнаꙗ дѣꙗниꙗ, тихоѥ протѧгнѫтиѥ, движєниѥ платъмь, пѣсни, посѣщєниѥ ꙁвѣрии, чловѣчьскоѥ прикоснованиѥ и свободьноѥ творєниѥ.
 
-## Activities for someone in bed or a chair
+## Дѣꙗниꙗ чловѣкоу въ ложи или на сѣдалищи
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Поуститє ѥго пѣсни.** Избєритє пѣсни отъ ѥго юности, отъ вѣрꙑ или отъ рода. Дрьжитє гласъ тихъ и сѣдитє блиꙃъ. И нꙑнѣ нѣции людьѥ оударꙗѭтъ пьрстъмь или гѫдѫтъ. Виждь [дѣꙗниꙗ съ пѣсньми](/activities/music/).
+2. **Дрьжитє рѫкѫ.** Просто дрьжати рѫкѫ, съ тихъмь движєниѥмь пальца, ѥстъ дѣꙗниѥ. Прѣждє рьцѣтє, чьто творитє.
+3. **Тихо помажитє рѫкѫ.** Съгрѣитє мало масти въ дланьхъ и помажитє отъ ꙁапѧстиꙗ до коньць пьрстъ. Избєритє масть бєꙁ вони, или вониѭ, ѭжє въсєгда люблꙗашє, аштє кожа тръпитъ.
+4. **Чьтитє въслоухъ.** Любимаꙗ пѣснь словєсьна, часть дражаиѩ кънигꙑ, молитва или страница о играхъ. Мѣра вашєго гласа важьнѣиша ѥстъ словєсъ.
+5. **Повѣждьтє повѣсть.** Глаголитє о родьнѣмь пѫти или о дьни брака. Нє трѣбоуѥтє отвѣта.
+6. **Покажитє образꙑ.** Дрьжитє по ѥдиномоу вєликъмь образоу на оуровьни очию и тепло опишитє. Нє въпрашаитє, къто на н҄ємь ѥстъ.
+7. **Даитє мѧкъкоѥ дрьжати.** Съгънѫтъ платъ, мѧкъкъ коусъ или мѧкъкоѥ ꙁвѣрѧ. NIA съвѣтоуѥтъ дати чловѣкоу платъ дрьжати, ѥгда прѣмѣщаѭтъ и, да нє имєтъ за васъ или за мєбєль.
+8. **Поуститє гласꙑ природꙑ.** Дъждь, вълънꙑ или пѣниѥ птиць тихо могѫтъ оумѧкъчити шоумьнѫ мѣсто.
+9. **Принєситє внѣшънєѥ вънѫтрь.** Отврьзитє завѣсꙑ, поставитє кормилищє птицамъ прѣдъ окънъмь, или принєситє нѣколико свѣжихъ цвѣтъ или листвиꙗ зрѣти и коснѫти сѧ.
+10. **Иꙃидѣтє внѣ.** Аште чловѣкъ можєтъ сѣдѣти на колєсьнѣмь сѣдалищи, нѣколико мало врѣмєнє въ сѣни въ тихъ дьнь можєтъ бꙑти добро.
+11. **Оучєшитє власꙑ или даитє тєплъ платъ.** Тихоѥ и мѧкъкоѥ оукрашєниѥ и тєплъ платъ за рѫцѣ и лицє можєтъ чоути сѧ съ любовиѭ.
+12. **Тихо движитє сѧ съ пѣсниѭ.** Махаитє лєгъкъмь платъмь въкоупѣ или колѣбаитє рѫцѣ въ мѣрѫ пѣсни. О протѧгнѫтии и движєнии съставъ въпрашаитє лѣчьца тѣла или пєчальника, да покажєтъ бєꙁопасьнꙑ пѫти прѣждє.
+13. **Творитє свободьно.** Простьрѣтє нєврѣдьнѫ краскѫ на вєлицѣи бѹмагѣ гѫбою или рѫкою, водимою вашєю. Нѣстъ правааго коньца.
+14. **Приимитє посѣщєниѥ ꙁвѣрии.** Тихъ ꙁвѣрь на ложи или на колѣноу, аштє чловѣкъ люблꙗашє ꙁвѣри и мѣсто допоущаѥтъ.
+15. **Дꙑшитє тихо въкоупѣ.** Сѣдитє блиꙃъ и дꙑшитє тихо и слꙑшимо. [Тихоѥ дꙑханиѥ](/games/calm-breathing/) можєтъ мѣрити васъ обою, и вꙑ начинаѥтє и прѣстаѥтє.
+16. **Просто прѣбꙑваитє.** Сѣдитє блиꙃъ, гѫдитє, плєтитє или чьтитє тихо. Прѣбꙑваниѥ довьлѣѥтъ.
 
-## How to share an activity at this stage
+## Како дѣлити дѣꙗниѥ въ си стєпєни
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Пристѫпаитє съ прѣда.** Рьцѣтє ѥго имѧ и вашє имѧ, и глаголитє тихо и мѧкъко прѣждє прикоснованиꙗ.
+- **Прѣдълагаитє по ѥдинои вєщи.** Оугаситє видѣниѥ прѣждє пѣснии. По ѥдиномоу чоуствьствоу.
+- **Дрьжитє мало врѣмѧ.** Нѣколико мало врѣмєнє можєтъ довьлѣти. Нѣколико кратъкъихъ врѣмєнъ въ дьни лоучє ѥстъ ѥдиного дългааго.
+- **Прьвѣѥ оустроитє покои.** Съмотритє, да чловѣкъ добро подъпьртъ ѥстъ. NIA съвѣтоуѥтъ дъскѫ на колѣноу, да рѫцѣ почиваѭтъ и тѣло подъпираѥтъ сѧ, ѥгда сѣдитъ.
+- **Съмотритє отвѣтъ.** Съпоѭштє сѧ рѫцѣ, тихѣишє лицє, възьрѣниѥ очима или гѫдєниѥ ꙗвлꙗѭтъ покои. NIA глаголєтъ, ꙗко стєнаниѥ, съкрꙑчєниѥ лица, хранєниѥ чѧсти тѣла или вънєꙁаапьноѥ нєпокоиниѥ могѫтъ бꙑти знамєниꙗ болѣꙁни. Прѣстанитє и повѣждьтє пєчальникомъ.
 
-## A quick guide by sense
+## Кратъкъ пѫть по чоуствьствомъ
 
-| Sense | Ideas | Take care |
+| Чоуствьство | Мꙑсли | Съхранєниѥ |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Слꙑшаниѥ | Любимаꙗ пѣсни, вашь гласъ чьтѫщь, гласꙑ природꙑ | Дрьжитє гласъ тихъ; по ѥдиномоу гласоу |
+| Прикоснованиѥ | Помазаниѥ рѫкꙑ, дрьжаниѥ рѫкꙑ, мѧкъкъ платъ, тєплъ платъ | Прѣждє въпроситє или повѣждьтє; съмотритє, да кожа нє болитъ и нє ранєна |
+| Зрѣниѥ | Образꙑ, цвѣти, видъ изъ окна, тихоѥ видѣниѥ природꙑ | Дрьжитє вєщи на оуровьни очию; добръ свѣтъ, бєꙁ блистаниꙗ |
+| Обонꙗниѥ | Любимаꙗ масть, свѣжии цвѣти, вонꙗ кавꙑ блиꙃъ | Нє силънꙑꙗ вони; съмотритє о бѣдахъ отъ вони и дꙑханиꙗ |
+| Въкоушєниѥ | Малоѥ въкоушєниѥ любимааго брашьна | Тъкъмо брашьна и видꙑ, ꙗжє пєчальници глаголѭтъ бєꙁопасьна |
 
-## Safety at this stage
+## Съхранєниѥ въ си стєпєни
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Глътаниѥ можєтъ бꙑти тѧжько въ поздьнѣи стєпєни, и NIA прѣдъостєрєгаѥтъ, ꙗко сиѥ оумъножаѥтъ бѣдѫ оудавлєниꙗ. Нє оставлꙗитє малꙑихъ вєщии блиꙃъ, и даваитє брашьно и питиѥ тъкъмо въ видѣхъ и положєнии, ꙗжє пєчальници съвѣтоуѭтъ. Тихо съмотритє кожѫ при прикосновании, понєжє кожа можєтъ лєгъко разъдьрати сѧ или посинѣти. О бєꙁопасьнъихъ чоуствьнъихъ мꙑсльхъ виждь [чоуствьнаꙗ дѣꙗниꙗ](/activities/sensory/).
 
-## Looking after yourself too
+## Пєцѣтє сѧ и о сєбѣ
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Пєчаль въ поздьнѣи стєпєни тѧжька ѥстъ тѣломь и дѹшєю, въ домоу или при посѣщєнии домоу пєчали. Помощьници оутѣшєниꙗ и коньчьнаꙗ пєчали могѫтъ помагати съ покоѥмь, подъпорою и оустроѥниѥмь, и NIA поминаѥтъ ѩ ꙗко помощь. Кратъкаꙗ и тихаꙗ посѣщєниꙗ имѫтъ цѣнѫ; виждь [посѣщєниѥ чловѣка живѫща съ забѫдѣниѥмь](/activities/visiting/). Аште водитє съборꙑ, [дѣꙗниꙗ събора въ домоу пєчали](/activities/care-home-groups/) иматъ мꙑсли о приспособлєнии. И прочьтитє [пєчаль о сєбѣ](/caregiving/caregiver-self-care/): почиваниѥ ѥстъ часть добрꙑꙗ пєчали.

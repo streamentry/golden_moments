@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "So neɗɗo nguurɗo e majjere hakkil salii walla seŋii e kuuɗe"
+seoTitle: "So neɗɗo nguurɗo e majjere hakkil salii kuuɗe"
+description: "Hol ko saabata neɗɗo nguurɗo e majjere hakkil salaade walla seŋaade e kuuɗe, ko mbaaw-ɗaa etaade, ko fotaa ɗaɓɓude, e nde waylowre jaawnde foti yahde to safroowo."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  So neɗɗo nguurɗo e majjere hakkil wiʼii « alaa », jaɓ heen e deeƴre, eti
+  kadi so ɓooyii walla hokkude huunde woɗnde. Salaare ina foti wonde sabu:
+  kuuɗe ɗee ina metti walla ina nanndi e kuuɗe sukaaɓe, o tampii, ina naawa,
+  ina weelaa, ina ɗomɗaa, walla ina heewi dille e hito. Woto yeddondir
+  walla tiiɗin. Newnan, hokkude cuɓe ɗiɗi, walla tor mo ballal. Waylowre
+  jaawnde walla bayɗunde no feewi, tentinii caggal nyawu naatnuɗo walla
+  lekki keso, foti yahde to safroowo ko yaawi.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "« Alaa » ko jaabawol foti teddineede, wonaa caɗeele foti foolaade."
+  - "Salaare ina heewi wonde sabu: ina metti, ina nanndi e kuuɗe sukaaɓe, tampere, nyawu, ɓeydagol weeyo, walla ko heewi."
+  - "Rutto seeɗa, sabbo, eti kadi so ɓooyii, e waktu goɗɗo, walla e no newi."
+  - "Toragol mo ballal ina ɓuri moƴƴude e toragol mo waɗde."
+  - "Woto yeddondir, woto tiiɗin, woto ƴeewndo walla feewnindo. Ƴeewto hoore maa: aɗa yaawa walla aɗa ɓatta mo."
+  - "Waylowre jaawnde walla bayɗunde no feewi, tentinii e nyawu naatnuɗo walla lekki kesi, foti yahde to safroowo ko yaawi."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ena moƴƴi waɗde mo ɓooya kala kuuɗe haa laaɓa?"
+    a: "Eey, ñalnde kala e hoore mum. Jooɗaade e maɓɓe, heɗaade yimre walla ƴeewde ko woni yaajde ena foti yonude. So neɗɗo woppii weltaade e fof e nder jonte, haalan heen safroowo makko, sabu mettinal, naawre walla caɗeele cellal goɗɗe ena mbaawi jeyeede heen."
+  - q: "Hol ko saabata o saloo ko o yiɗnoo?"
+    a: "Kuuɗe ɓooyɗe ena mbaawi mettaade so ɗe ena naamnii karallaagal majjere hakkil newnani mo, tee neɗɗo oo ena foti hersude. Eto geɓal newingal e kuuɗe ɗe gootum, yeru cuɓindaade butoŋaaji tawo ñoottaade, walla ƴeewde nate gese tawo remde."
+  - q: "Mi foti etaade jaɓɓinde mo?"
+    a: "Alaa. Tiɗɗingol neɗɗo yo o waɗ ko majjere hakkil newnani mo ena anndiraa ko hurminta seŋaare. Jaɓ « alaa », waylu yewtere ndee, tee hokkude kadi so ɓooyii walla e no woɗɗo."
+  - q: "Ndeye waylowre jikku woni haaju kisal jaawɗo?"
+    a: "Noddu limoore kisal nokku maa so neɗɗo ina e caɗeele walla ina jogii maande kisal jaawɗo. So hakkil mum jiiɓii walla jikku mum waylii ko yaawi e nder waktuuji walla balɗe, tentinii e pawi walla nyawu naatnuɗo walla lekki keso, jokkondir e safroowo makko ko yaawi."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+A hebbin fof, a hokkude fijo walla yaadu, a nan « Alaa ». Walla kuuɗe ɗee puɗɗii no moƴƴi kono timmii e taablet duppaaɗo e konngol sattungol. Ɗum ina mettina, tee ina heewi. Salaare e seŋaare ko heewi wonaa caggal mum, kono ko ɓatakuure. Ƴeewde ko ɓatakuure ndee woni ina foti hollude ma ko mbaaw-ɗaa etaade caggal ɗuum.
 
-## Why does someone with dementia refuse activities?
+## Hol ko saabata neɗɗo nguurɗo e majjere hakkil salaade kuuɗe?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Ko heewi ina woodi sabu, hay so neɗɗo oo waawaa wowlude ɗum. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) hollitii wonde salaare ena foti firtude neɗɗo oo waawaa waɗde kuuɗe ɗee walla ina huli etaade. Sabuuji keewɗi ina heen:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Ena metti no feewi.** Kuuɗe ɗee ena naamnii jooni karallaagal majjere hakkil newnani, tee roŋkaade yeeso neɗɗo ina hersina.
+- **Ena nanndi e kuuɗe sukaaɓe.** Mawɓe ina teskoo nate nannduɗe e nate sukaaɓe, daaɗe nannduɗe e ɗe sukaaɓe, e kuuɗe nannduɗe e waɗanaaɗe sukaaɓe.
+- **Tampere.** Yimɓe heewɓe ina ɓuri waasde doole caggal kikiiɗe. Ƴeew [kuuɗe deeƴɗe e kikiiɗe](/caregiving/late-day-restlessness/).
+- **Weeyo ɓandu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) innitii naawre, waasde ɗaanagol, caɗeele yiyde walla nannde, reedu sattunde, weelaare, ɗomka, e battane lekki kesi ko sabuuji baawɗi saabaade mettinal.
+- **Ko heewi ina waɗi.** Tele nanngudo, yewtereeji keewɗi walla suudu heewnde yimɓe ena foti heewde.
+- **Hakkille tiiɗinaama.** NIA innitii tiiɗingol neɗɗo yo o waɗ huunde majjere hakkil newnani mo no feewi, walla yo o siftor joljole walla yimɓe, ko saabotooɗe seŋaare.
+- **Mettinal hakkille.** Woppude welaade e geɗe ena foti wonde maande mettinal hakkille, ɗum ena foti haalaade e safroowo.
+- **O yiɗaa tan.** Mawɓe ena njogii hakke wiyde « alaa ».
 
-## What should I try when they say no?
+## Ko mbaaw-mi etaade so o wiʼii « alaa »?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Jaɓ « alaa » e deeƴre, caggal ɗuum waylu huunde: waktu, kuuɗe, no ɗe newiri walla no naamnir-ɗaa.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Accu ɗum jooni.** « Alaa caɗeele. Walla so ɓooyii. » Caggal ɗuum yah e huunde woɗnde tawa a ƴiiƴaani.
+2. **Eti kadi so ɓooyii.** Alzheimer's Association wasiyii etaade kadi so ɓooyii, walla e waktu goɗɗo e ñalawma.
+3. **Newnan ɗum.** Jahdingol gootol tawo fijo fof. Tawulo gooto tawo leɗɗe loonde fof. Nate seeɗa, cuɓe seeɗa, nate ɗaccaaɗe e yeeso.
+4. **Hokkude cuɓe ɗiɗi.** « Aɗa yiɗi ƴeewde nate colli walla heɗaade yimre? » Cuɓal ina ruttina hakkille jogagol laamu.
+5. **Toro ballal tawo naamnude yo o waɗ.** « Aɗa waawi wallude kam cuɓindaade ɗee? » walla « Aɗa waawi wiyde kam hol noone ɓuri labde? » Hakkille jogaade nafoore ina woɗɗi no feewi e hakkille ƴeewndaade.
+6. **Fuɗɗo ɗum hoore maa.** Fuɗɗo kuuɗe ɗee sara maɓɓe tawa a naamnaaki. Yimɓe heewɓe ina naata heen so huunde fuɗɗiima, tee so ɓe naataaki, onon mbaɗiima waktu e maɓɓe kadi.
+7. **Yah to huunde ɓandu walla deeƴnde.** Yaadu juutuɗo, yimre, naamnde, taggude comci, walla [foofaango deeƴngo](/games/calm-breathing/) e ndenndaandi. NIA wasiyii waylude hakkille to yimre, deftere walla yaadu.
+8. **Accu mo waɗira no o yiɗiri.** So o yiɗii fijirde no woɗɗiri e sarɗiiji, yah e mum. Alzheimer's Association wasiyii wonde newaajo.
 
-## What should I say when they get frustrated?
+## Ko fot-mi wiyde so o seŋiima?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Leeltin, lesnu daaɗe maa tee deƴƴin mo. [Hakkunde Alzheimer's Association dow seŋaare](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) wasiyii ruttagol seeɗa e naamnaade yamiroore, huutoraade konnguɗi deeƴɗi e moƴƴuɗi, e hokkude cuɓal peewnungal hakkunde cuɓe ɗiɗi. Konnguɗi nannduɗi e ɗuum:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- « A yafam, ɗum ina mettinnde. En ndartoo. »
+- « Aɗa waɗi no moƴƴi. Miɗo ɗoo. »
+- « Aɗa jogii waktu ngam wallude kam huunde woɗnde? »
+- « En njara teewu tawo ɗuum? »
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Caggal ɗuum dartin kuuɗe ɗee tawa a waɗaani ɗum huunde mawnde. [Tinndinooje amen jokkondiral](/caregiving/communication-tips/) ina jogii goɗɗe dow ko foti wiyde.
 
-## What should I avoid?
+## Ko fot-mi ɗaɓɓude?
 
-Some natural reactions tend to make things worse.
+Won e jaabawuuji weebi ina foti ɓeydaade caɗeele.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Yeddondirde walla tiiɗinde.** « Wadde gootol tan kadi » walla « Aɗa yiɗi ɗum » ina heewi wallude.
+- **Ƴeewndugol walla feewnitagol.** « Aɗa anndi ko ɗum woni » walla « Alaa, ɗum moƴƴaani » ina ɓeyda tiiɗal.
+- **Ɗaɓɓude ɗum e hoore maa.** NIA ina siftina toppitooɓe wonde nyawu nguu, wonaa neɗɗo oo, saabi ɗii waylowe.
+- **Ɓattude mo walla yaawnude mo.** Alzheimer's Association wasiyii woto ɓantu daaɗe, woto hollu kulol, woto sok mo, woto ɓatto mo, woto haɗ mo, woto fel, woto faalkiso, woto yeddondir e makko, tee woto waɗ dillere jaawnde ɗo o yiyaani.
+- **Huutoraade hersinirde.** « Mi hebbinanii ma fof ɗum » ina mettina onon fof.
+- **Innirde mo.** « Caggal mum tiiɗi » walla « ina metti » ina suuɗa sabu goonga oo tee ina saɗtina ƴeewndugol.
 
-## How can I find out what is behind repeated refusals?
+## Hol no mi faamira ko woni caggal salaare jokkiinde?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Winndu tesko famɗungo e nder yontere walla ɗiɗi. NIA wiʼi rewindaade waylowe jikku ena foti wallude toppitooɓe e safrooɓe cellal heftinde mbaadi tee ɓe ndaara sabu mum.
 
-Jot down:
+Winndu:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- waktu ñalawma oo;
+- ko hokkuno-ɗaa e no naamnirno-ɗaa;
+- ko wonnoo woni e maɓɓe (hito, gaste, tele);
+- no o ɗaanori, no o naamiri e no o yari, e ndeye o yahnoo yeeyirde caggal ɗuum;
+- lekki kesi kala walla nyawu keso.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Ko heewi mbaadiiji ina peeña ko yaawi: salaare waɗata tan caggal waktu 4 kikiiɗe, tan e fijo wooto, walla tan so tele ina huɓɓi. [Hakkunde Family Caregiver Alliance dow jikku majjere hakkil](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) wiyi no laaɓiri: en mbaawaa waylude neɗɗo oo, kono en mbaawi waylude jikku amen e weeyo ngo.
 
-## When should I talk to a doctor about refusal or frustration?
+## Ndeye mi foti haalde e safroowo dow salaare walla seŋaare?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Haal e safroowo so jikku waylii ko jaawi, no yaawiri, walla e maande nyawu. NIA wiʼi waylowe jikku jaawɗe walla bayɗuɗe no feewi, tentinii so neɗɗo oo heɓii nyawu naatnuɗo walla waylowe lekki cakkitiiɗe, foti yettineede hakkille safroowo ko yaawi.
 
-Contact their doctor promptly if you notice:
+Jokkondir e safroowo makko ko yaawi so a teskiima:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- jiiɓru hakkil jaawndu walla waylowre mawnde e nder waktuuji walla balɗe;
+- maande naawre, wano tiiɗude yeeso, reende geɓal ɓandu, walla caɗeele kese dillude;
+- pawi walla maande nyawu naatnuɗo;
+- lekki kesi walla waylaaɗi caggal mum waylowre jikku;
+- woppude welaade e ko wonaa fof, yoomaade walla suuɗaade ɓoowi yontere ɗiɗi walla ko ɓuri;
+- salaade ñamde walla yarde.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association wasiyii ƴeewndugol cellal timmungol kala neɗɗo jogiiɗo maande jikku, tentinii so ɗe peeñii ko jaawi. Family Caregiver Alliance kadi wasiyii ƴeewtaade safroowo tawo, sabu caɗeele jikku ena mbaawi jogde sabu cellal. Woto fuɗɗo, woto dartin walla woto waylu lekki tawa a haalanaaki safroowo walla sarɗo lekki.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+So won e caɗeele walla ina woodi maande kisal jaawɗo, noddu limoore kisal nokku maa. NIA wasiyii wiyde jaabotooɗo oo wonde neɗɗo oo ina nguurdi e majjere hakkil.
 
-## Is it okay if we do nothing at all?
+## Ena moƴƴi so en mbaɗaani hay huunde?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Eey. Won e ñalaaɗe kuuɗe ɓurɗe moƴƴude ko alaa kuuɗe: jooɗaade e maɓɓe, jogondirde juuɗe, heɗaade yimre yiɗaaɗe, walla ƴeewde colli ka henorde. Ɗum wonaa roŋkude. [Hakkunde amen dow fijirde e ndenndaandi](/caregiving/how-to-play-together/) ina ƴeewta hol ko saabata dartinde ko yaawi, walla fuɗɗaade hay fus, ena foti wonde pellital moƴƴungal.

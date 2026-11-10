@@ -1,32 +1,28 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "លំហាត់ប្រាណ និងសុខភាពខួរក្បាល៖ អ្វីដែលការស្រាវជ្រាវរកឃើញ"
+seoTitle: "លំហាត់ប្រាណ និងជំងឺបំភ្លេចបំភ្លាំង៖ អ្វីដែលការស្រាវជ្រាវនិយាយ"
+description: "អ្វីដែលការស្រាវជ្រាវរកឃើញអំពីសកម្មភាពរាងកាយ និងហានិភ័យជំងឺបំភ្លេចបំភ្លាំង រួមជាមួយវិធីធ្វើចលនាប្រកបដោយសុវត្ថិភាព និងរីករាយសម្រាប់មនុស្សវ័យចំណាស់ និងមនុស្សដែលមានជំងឺបំភ្លេចបំភ្លាំង។"
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  ការសិក្សាជាច្រើនបានបង្ហាញថា សកម្មភាពរាងកាយជាប្រចាំមានទំនាក់ទំនងជាមួយហានិភ័យទាបជាងនៃជំងឺបំភ្លេចបំភ្លាំង ហើយរបាយការណ៍ Lancet Commission ឆ្នាំ 2024 ក៏បានចាត់ទុកការមិនសូវមានសកម្មភាពរាងកាយថាជាកត្តាហានិភ័យមួយក្នុងចំណោម 14 កត្តាដែលអាចផ្លាស់ប្ដូរបាន។ ការសាកល្បងមិនទាន់បានបង្ហាញថា លំហាត់ប្រាណអាចការពារជំងឺបំភ្លេចបំភ្លាំងបានទេ។ ទោះជាយ៉ាងណា ចលនានៅតែជួយដល់កម្លាំង សមតុល្យ អារម្មណ៍ និងការគេង ដូច្នេះការដើរ លំហាត់នៅលើកៅអី និងការរាំគឺមានតម្លៃសម្រាប់ធ្វើដោយខ្លួនឯង។ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតមុននឹងចាប់ផ្ដើមសកម្មភាពថ្មីមួយ។
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "ជាមធ្យម មនុស្សដែលមានសកម្មភាពរាងកាយមានហានិភ័យជំងឺបំភ្លេចបំភ្លាំងទាបជាង ប៉ុន្តែភស្តុតាងនេះភាគច្រើនមកពីការសិក្សាសង្កេត មិនមែនមកពីការសាកល្បងទេ។"
+  - "ការសាកល្បងលំហាត់ប្រាណរយៈពេលប្រាំឆ្នាំលើមនុស្សវ័យចំណាស់មិនបានរកឃើញភាពខុសគ្នាច្បាស់លាស់នៃសមត្ថភាពគិតរវាងក្រុមនានាទេ។"
+  - "ការណែនាំរបស់ CDC សម្រាប់មនុស្សវ័យចាប់ពី 65 ឆ្នាំឡើងទៅគ្របដណ្តប់សកម្មភាពបង្កើនចង្វាក់បេះដូង ការពង្រឹងសាច់ដុំ និងសមតុល្យ ហើយបញ្ជាក់ថា សកម្មភាពតិចៗក៏ប្រសើរជាងគ្មានអ្វីសោះ។"
+  - "សម្រាប់មនុស្សដែលមានជំងឺបំភ្លេចបំភ្លាំង ចលនាខ្លីៗ ស្គាល់ និងធ្វើរួមគ្នា ដូចជាការដើររាល់ថ្ងៃ ឬល្បែងអង្គុយ មានសារៈសំខាន់ជាងការស្វែងរកគោលដៅណាមួយ។"
+  - "មនុស្សវ័យចំណាស់ច្រើនជាងម្នាក់ក្នុងចំណោមបួននាក់ដួលក្នុងមួយឆ្នាំ ដូច្នេះការហ្វឹកហាត់សមតុល្យ និងកន្លែងដែលមានសុវត្ថិភាពគួរមកមុនគេ។"
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "តើលំហាត់ប្រាណអាចការពារជំងឺបំភ្លេចបំភ្លាំងបានទេ?"
+    a: "គ្មាននរណាម្នាក់អាចសន្យាបានទេ។ ការសិក្សាជាច្រើនបង្ហាញថា ការមានសកម្មភាពមានទំនាក់ទំនងជាមួយហានិភ័យជំងឺបំភ្លេចបំភ្លាំងទាបជាង ប៉ុន្តែការសាកល្បងព្យាបាលមិនទាន់បានបង្ហាញថា លំហាត់ប្រាណអាចការពារបានទេ។ លំហាត់ប្រាណមានអត្ថប្រយោជន៍ជាក់ស្ដែងជាច្រើនផ្សេងទៀត ដូច្នេះវានៅតែមានតម្លៃសម្រាប់ធ្វើ។"
+  - q: "តើវាមានសុវត្ថិភាពទេ សម្រាប់មនុស្សដែលមានជំងឺបំភ្លេចបំភ្លាំងក្នុងការធ្វើលំហាត់ប្រាណ?"
+    a: "ជាទូទៅមានសុវត្ថិភាព ប្រសិនបើមានការរៀបចំខ្លះៗ។ National Institute on Aging ណែនាំឱ្យពិគ្រោះជាមួយវេជ្ជបណ្ឌិតរបស់មនុស្សនោះមុននឹងចាប់ផ្ដើមទម្លាប់ថ្មី ជ្រើសរើសស្បែកជើងដែលស្រួលផាសុក ផ្តល់ទឹកឱ្យផឹក និងរក្សាពេលវេលាឱ្យខ្លី។ សូមបញ្ឈប់ ប្រសិនបើមនុស្សនោះហាក់ដូចជាហត់ មិនមានសមតុល្យ ឬមិនសប្បាយចិត្ត។"
+  - q: "តើលំហាត់អ្វីខ្លះដែលអាចធ្វើនៅពេលអង្គុយ?"
+    a: "ជម្រើសពេលអង្គុយរួមមាន ការពingtសាច់ដុំលើកៅអី ឬយូហ្គាលើកៅអី ការបោះប៊ូឡុង ឬបាល់ទន់ ការបោះកាបូបគ្រាប់ ការលើកកំប៉ុងស៊ុប ការពingtដោយខ្សែយឺត និងឧបករណ៍ជិះកង់ពេលអង្គុយ។ ទាំងនេះជាជម្រើសល្អ នៅពេលដែលការដើរពិបាក។"
+  - q: "ចុះបើមនុស្សនោះមិនចង់ធ្វើចលនាវិញ?"
+    a: "កុំបង្ខំ។ សូមសាកល្បងម្តងទៀតនៅពេលក្រោយ ចូលរួមធ្វើជាមួយគាត់ បើកតន្ត្រីដែលគាត់ស្គាល់ ឬបម្លែងចលនាទៅជាការងារមួយ ដូចជាការបោស ឬការស្រោចផ្កា។ ការដើរខ្លីៗទៅកាន់ប្រអប់សំបុត្រក៏រាប់បញ្ចូលដែរ ហើយការអង្គុយនៅខាងក្រៅជាមួយគ្នាក៏មានតម្លៃដែរ។"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +47,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+ការធ្វើចលនាជាទម្លាប់មួយដែលត្រូវបានសិក្សាច្រើនបំផុតក្នុងការស្រាវជ្រាវអំពីសុខភាពខួរក្បាល។ ការសិក្សាបង្ហាញថា វាមានទំនាក់ទំនងជាមួយហានិភ័យទាបជាងនៃជំងឺបំភ្លេចបំភ្លាំង ប៉ុន្តែមិនទាន់បានបញ្ជាក់ថា លំហាត់ប្រាណអាចការពារជំងឺបំភ្លេចបំភ្លាំងបានទេ។ អ្វីដែលច្បាស់គឺថា ចលនាជួយដល់កម្លាំង សមតុល្យ អារម្មណ៍ និងការគេងក្នុងគ្រប់វ័យ។ ទំព័រនេះនិយាយអំពីអ្វីដែលការស្រាវជ្រាវបានរកឃើញ ចំនួនសកម្មភាពដែលមនុស្សវ័យចំណាស់គួរធ្វើ និងវិធីសាស្ត្រទន់ភ្លន់ក្នុងការធ្វើចលនាជាមួយមនុស្សដែលមានជំងឺបំភ្លេចបំភ្លាំង។
 
-## Does exercise lower the risk of dementia?
+## តើលំហាត់ប្រាណអាចបន្ថយហានិភ័យជំងឺបំភ្លេចបំភ្លាំងបានទេ?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+ការស្រាវជ្រាវបង្ហាញថា មនុស្សដែលមានសកម្មភាពរាងកាយមានទំនោរតិចជាងក្នុងការកើតជំងឺបំភ្លេចបំភ្លាំង ប៉ុន្តែភស្តុតាងនៅមានកម្រិត។ [របាយការណ៍ Lancet Commission ឆ្នាំ 2024 អំពីជំងឺបំភ្លេចបំភ្លាំង](https://doi.org/10.1016/S0140-6736(24)01296-0) បានចាត់ទុកការមិនសូវមានសកម្មភាពរាងកាយជាកត្តាហានិភ័យមួយក្នុងចំណោម 14 កត្តាដែលអាចផ្លាស់ប្ដូរបាន។ ក្នុងគំរូរបស់ខ្លួន កត្តាទាំង 14 នេះមានចំណែកប្រហែល 45% នៃករណីជំងឺបំភ្លេចបំភ្លាំងនៅទូទាំងពិភពលោក។
 
-Here is what the evidence looks like:
+នេះជារូបភាពនៃភស្តុតាង៖
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **ការសិក្សាសង្កេតចង្អុលទៅទិសដៅតែមួយ។** ការពិនិត្យឡើងវិញនៃការសិក្សាចំនួន 58 ដែលបាននិយាយដល់ដោយគណៈកម្មការ បានរកឃើញថា មនុស្សដែលមានសកម្មភាពរាងកាយមានហានិភ័យជំងឺបំភ្លេចបំភ្លាំងទាបជាងប្រហែល 20%។ ភាពខុសគ្នាធំបំផុតគឺរវាងមនុស្សដែលស្ទើរតែមិនមានសកម្មភាពសោះ និងអ្នកដែលមានសកម្មភាពខ្លះៗ។
+- **ទំនាក់ទំនងនេះអាចមានទាំងពីរទិស។** គណៈកម្មការកត់សម្គាល់ថា ការមិនសូវមានសកម្មភាពអាចបង្កើនហានិភ័យ។ វាក៏កត់សម្គាល់ផងដែរថា ការផ្លាស់ប្ដូរដំបូងនៃខួរក្បាលក្នុងជំងឺបំភ្លេចបំភ្លាំង ដែលចាប់ផ្ដើមជាច្រើនឆ្នាំមុនពេលធ្វើរោគវិនិច្ឆ័យ អាចធ្វើឱ្យមនុស្សមានសកម្មភាពតិចជាងមុន។
+- **ការសាកល្បងមិនច្បាស់លាស់เท่า។** ក្នុងការសាកល្បងមួយ មនុស្សវ័យចំណាស់ចំនួន 945 នាក់ដែលមានអាយុមធ្យម 78 ឆ្នាំ ត្រូវបានចាត់ឱ្យធ្វើលំហាត់ប្រាណក្រោមការគ្រប់គ្រងពីរដងក្នុងមួយសប្តាហ៍រយៈពេលប្រាំឆ្នាំ ឬចូលរួមក្នុងក្រុមប្រៀបធៀប។ នៅចុងបញ្ចប់ សមត្ថភាពគិតមិនមានភាពខុសគ្នាច្បាស់លាស់រវាងក្រុមទាំងពីរទេ។ មនុស្សជាច្រើនក្នុងក្រុមប្រៀបធៀបក៏មានសកម្មភាពដែរ ដែលធ្វើឱ្យលទ្ធផលពិបាកយល់។
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) បាននិយាយយ៉ាងច្បាស់ថា មិនមានទំនាក់ទំនងច្បាស់លាស់រវាងសកម្មភាពរាងកាយ និងការការពារជំងឺអាល់ហ្សៃម័រ ហើយមិនមានភស្តុតាងគ្រប់គ្រាន់ពីការសាកល្បងដើម្បីបញ្ជាក់ថា លំហាត់ប្រាណអាចការពារ ឬពន្យឺតវាបានទេ។ ទោះជាយ៉ាងណា លំហាត់ប្រាណនៅតែជួយបន្ថយហានិភ័យនៃការដួល ជំងឺធ្លាក់ទឹកចិត្ត ជំងឺទឹកនោមផ្អែម សម្ពាធឈាមខ្ពស់ និងជំងឺដាច់សរសៃឈាមខួរក្បាល។ លក្ខខណ្ឌមួយចំនួនទាំងនេះក៏មានទំនាក់ទំនងជាមួយការថយចុះនៃសមត្ថភាពគិតផងដែរ។
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+សារសំខាន់គឺត្រូវធ្វើចលនាព្រោះវាជួយឱ្យអ្នកមានអារម្មណ៍ល្អ និងអាចធ្វើសកម្មភាពប្រចាំថ្ងៃបានល្អជាងមុន។ អត្ថប្រយោជន៍ណាមួយចំពោះខួរក្បាលគឺអាចជាប្រាក់រង្វាន់បន្ថែម មិនមែនជាការសន្យាទេ។
 
-## How much activity do older adults need?
+## មនុស្សវ័យចំណាស់ត្រូវការសកម្មភាពប៉ុន្មាន?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[ការណែនាំរបស់ CDC សម្រាប់មនុស្សវ័យចាប់ពី 65 ឆ្នាំឡើងទៅ](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) ណែនាំសកម្មភាពបីប្រភេទក្នុងមួយសប្តាហ៍៖
 
-| Type | Weekly amount | Examples |
+| ប្រភេទ | ចំនួនក្នុងមួយសប្តាហ៍ | ឧទាហរណ៍ |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| បង្កើនចង្វាក់បេះដូង | យ៉ាងហោចណាស់ 150 នាទីនៃសកម្មភាពកម្រិតមធ្យម ដូចជា 30 នាទីក្នុង 5 ថ្ងៃ | ដើរលឿន រាំ ហាត់អេរ៉ូប៊ិចក្នុងទឹក |
+| ពង្រឹងសាច់ដុំ | យ៉ាងហោចណាស់ 2 ថ្ងៃ ហាត់ក្រុមសាច់ដុំសំខាន់ៗទាំងអស់ | លើកទម្ងន់ស្រាល ឬកំប៉ុងស៊ុប ប្រើខ្សែយឺត |
+| សមតុល្យ | ធ្វើជាទៀងទាត់ | ដើរដោយដាក់កែងជើងពីមុខក្រោយ លើងពីកៅអី |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+ទាំងនេះគឺជាគោលដៅ មិនមែនជាតម្រូវការចាំបាច់សម្រាប់ចាប់ផ្ដើមទេ។ CDC បញ្ជាក់ថា ប្រសិនបើអ្នកមិនអាចសម្រេចបានទាំងនេះទេ អ្នកគួរធ្វើសកម្មភាពតាមដែលសមត្ថភាព និងសុខភាពរបស់អ្នកអនុញ្ញាត។ សកម្មភាពតិចៗក៏ប្រសើរជាងគ្មានអ្វីសោះ។
 
-## Gentle ways to move for older adults
+## វិធីធ្វើចលនាទន់ភ្លន់សម្រាប់មនុស្សវ័យចំណាស់
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **ដើរជាមួយអ្នកផ្សេង។** ការដើររាល់ថ្ងៃជាមួយមិត្តភក្តិ អ្នកជិតខាង ឬក្រុមដើរជួយបន្ថែមការសន្ទនា និងសុវត្ថិភាព។
+- **លំហាត់នៅលើកៅអី។** ការលើកដៃពេលអង្គុយ ការបង្វិលកជើង ការដើរនៅនឹងកន្លែង និងយូហ្គាលើកៅអីជួយពង្រឹងកម្លាំងដោយមិនបង្កើនហានិភ័យសមតុល្យ។
+- **រាំនៅក្នុងផ្ទះបាយ។** បើកតន្ត្រីពីវ័យជំទង់របស់មនុស្សនោះ ហើយយោល បុកជើង ឬហែកជើងតាម។ មើល [មគ្គុទ្ទេសក៍សកម្មភាពតន្ត្រី](/activities/music/) សម្រាប់គំនិតបន្ថែម។
+- **ពង្រឹងកម្លាំងដោយប្រើវត្ថុនៅផ្ទះ។** លើកដបទឹកដែលមានទឹក ឬកំប៉ុងស៊ុប ពេលកំពុងមើលកម្មវិធីដែលចូលចិត្ត។
+- **ថែសួន ឬធ្វើការងារផ្ទះ។** ការស្រោចផ្កា ការបោសស្លឹកឈើ ការបោសផ្ទះ និងការបត់សម្លៀកបំពាក់ទាំងអស់រាប់បញ្ចូលដែរ។ សូមមើល [សកម្មភាពនៅខាងក្រៅ និងថែសួន](/activities/outdoor-and-gardening/) និង [ការងារផ្ទះ](/activities/household-tasks/)។
+- **លំហាត់ក្នុងទឹក។** NIA បានរៀបរាប់ថា ថ្នាក់ហាត់អេរ៉ូប៊ិចក្នុងទឹកជាជម្រើសមួយសម្រាប់មនុស្សដែលមានការលំបាកក្នុងការធ្វើលំហាត់នៅលើដីដោយសារសន្លាក់។
 
-## How to exercise with someone living with dementia
+## របៀបធ្វើលំហាត់ប្រាណជាមួយមនុស្សដែលមានជំងឺបំភ្លេចបំភ្លាំង
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+សម្រាប់មនុស្សដែលមានជំងឺបំភ្លេចបំភ្លាំង គោលបំណងគឺភាពស្រួលស្រាយ ការរីករាយ និងការរក្សាសមត្ថភាពប្រចាំថ្ងៃ មិនមែនការឈានដល់លេខណាមួយទេ។ NIA បញ្ជាក់ថា សកម្មភាពរាងកាយជួយរក្សាសាច់ដុំ សន្លាក់ និងបេះដូងរបស់មនុស្សដែលមានជំងឺអាល់ហ្សៃម័រឱ្យនៅល្អ ហើយអាចជួយឱ្យអារម្មណ៍ និងការគេងប្រសើរឡើងផងដែរ។ សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតរបស់គាត់មុននឹងចាប់ផ្ដើមទម្លាប់ថ្មី។ គន្លឹះពី [មគ្គុទ្ទេសក៍អ្នកថែទាំរបស់ NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) រួមមាន៖
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **ដើរជាមួយគ្នារាល់ថ្ងៃ។** ជ្រើសរើសផ្លូវដែលមានសុវត្ថិភាព និងស្គាល់ស្រាប់ ដោយគ្មានឧបសគ្គ។ ប្រសិនបើមនុស្សនោះដើរតែម្នាក់ឯង ខ្សែដៃមានអត្តសញ្ញាណប័ណ្ណដែលមានលេខទូរស័ព្ទរបស់អ្នកគឺជាគំនិតល្អ។
+2. **សាកល្បងវីដេអូលំហាត់ប្រាណសម្រាប់មនុស្សវ័យចំណាស់។** ធ្វើតាមជាមួយគ្នា ដោយអង្គុយ ឬឈរ។
+3. **រក្សាពេលវេលាឱ្យខ្លី។** ការធ្វើលំហាត់ខ្លីៗច្រើនដងអាចប្រសើរជាងការធ្វើវែងម្តង។
+4. **បន្ថែមតន្ត្រី។** ចម្រៀងដែលស្គាល់ធ្វើឱ្យចលនាមានអារម្មណ៍ដូចជាសកម្មភាព មិនមែនជាកិច្ចការទេ។ រាំ ប្រសិនបើមនុស្សនោះចូលចិត្ត។
+5. **ផ្តល់ទឹក និងស្បែកជើងស្រួល។** ផ្តល់ទឹក ឬទឹកផ្លែក្នុងអំឡុង និងក្រោយពេលហាត់ប្រាណ ហើយជ្រើសរើសសម្លៀកបំពាក់ស្រួល និងស្បែកជើងដែលសមស្របសម្រាប់ហាត់ប្រាណ។
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+ប្រសិនបើការដើរពិបាក [មគ្គុទ្ទេសក៍របស់ NIA អំពីការថែទាំមនុស្សដែលមានជំងឺអាល់ហ្សៃម័រ](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) បានណែនាំជម្រើសពេលអង្គុយ។ ទាំងនេះរួមមាន លំហាត់នៅលើកៅអី ឬយូហ្គា ការបោះកាបូបគ្រាប់ ការបោះបាល់ទន់ ឬប៊ូឡុង ការពingtដោយខ្សែយឺត ការលើកវត្ថុស្រាលៗនៅផ្ទះ និងឧបករណ៍ជិះកង់ពេលអង្គុយ។ ការងារសាមញ្ញៗដូចជា ការបោស និងការជូតធូលីក៏រាប់បញ្ចូលដែរ។
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+សូមមានការរំពឹងទុកដែលសមហេតុផលអំពីអ្វីដែលចលនាអាចធ្វើបាន។ Lancet Commission មិនបានរកឃើញភស្តុតាងថា លំហាត់ប្រាណអាចបន្ថយការផ្លាស់ប្ដូរឥរិយាបថដូចជាការថប់បារម្ភ ឬមិនស្ងប់ទេ។ សូមធ្វើចលនាជាមួយគ្នាព្រោះវាអាចធ្វើឱ្យមានអារម្មណ៍ល្អ មិនមែនជាវិធីដើម្បីដោះស្រាយពេលវេលាលំបាកទេ។ ប្រសិនបើមនុស្សនោះនិយាយថាទេ វាមិនអីទេ។ មគ្គុទ្ទេសក៍របស់យើងអំពី [ពេលពួកគេនិយាយថាទេ](/caregiving/when-they-say-no/) មានវិធីទន់ភ្លន់ដើម្បីសាកល្បងម្តងទៀតនៅពេលក្រោយ។ ការបញ្ចប់មុនពេលកំណត់ ឬគ្រាន់តែអង្គុយនៅខាងក្រៅជាមួយគ្នា ក៏ជាលទ្ធផលល្អដែរ។
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+បន្ទាប់ពីធ្វើចលនា ការសម្រាកស្ងប់ស្ងាត់ដូចជា [Calm Breathing](/games/calm-breathing/) អាចជួយឱ្យអ្នកទាំងពីរស្ងប់ចិត្ត។ សម្រាប់សកម្មភាពពេលអង្គុយដែលមានចលនាដៃទន់ភ្លន់ [Sort Together](/games/sort-together/) និង [Picture Bingo](/games/picture-bingo/) សាកសមសម្រាប់ធ្វើនៅតុ។
 
-## Balance and fall safety
+## សមតុល្យ និងសុវត្ថិភាពពីការដួល
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+ការដួលគឺជារឿងធម្មតា និងអាចធ្ងន់ធ្ងរ។ [CDC រាយការណ៍](https://www.cdc.gov/falls/data-research/facts-stats/index.html) ថា មនុស្សវ័យចំណាស់ច្រើនជាងម្នាក់ក្នុងចំណោមបួននាក់ដួលក្នុងមួយឆ្នាំ ប៉ុន្តែតិចជាងពាក់កណ្តាលបានប្រាប់វេជ្ជបណ្ឌិតរបស់ពួកគេ។ ការដួលម្តងបង្កើនឱកាសដួលម្តងទៀតទ្វេដង។ កត្តាហានិភ័យដែល CDC បានរៀបរាប់រួមមាន៖
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- ភាពខ្សោយនៅជើង និងត្រគាក
+- បញ្ហាក្នុងការដើរ និងសមតុល្យ
+- ថ្នាំមួយចំនួន រួមទាំងថ្នាំបន្ធូរអារម្មណ៍ និងថ្នាំប្រឆាំងនឹងជំងឺធ្លាក់ទឹកចិត្តមួយចំនួន
+- បញ្ហាចក្ខុវិស័យ
+- ការឈឺជើង ឬការស្លៀកស្បែកជើងមិនសមរម្យ
+- គ្រោះថ្នាក់ក្នុងផ្ទះដូចជា វត្ថុរញ៉េរញ៉ៃ កម្រាលជើង និងជណ្តើរខូច
 
-To move more safely:
+ដើម្បីធ្វើចលនាបានកាន់តែមានសុវត្ថិភាព៖
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **ប្រើកៅអីរឹងមាំ** ដែលគ្មានកង់ ហើយរក្សាកន្លែងដូចជា ទូឈើ ឬរនុកឱ្យនៅជិតសម្រាប់លំហាត់ពេលឈរ។
+- **សម្អាតកន្លែង** ដោយយកកម្រាលជើង ខ្សែភ្លើង និងវត្ថុរញ៉េរញ៉ៃចេញជាមុន។
+- **ក្រោកឡើងយឺតៗ** ហើយបញ្ឈប់ ប្រសិនបើមនុស្សនោះមានអារម្មណ៍វិលមុខ ឬមិនមានសមតុល្យ។
+- **ពាក់ស្បែកជើងដែលមានការគាំទ្រ** មិនមែនស្រោមជើង ឬស្បែកជើងផ្ទះរលុងទេ។
+- **ហ្វឹកហាត់សមតុល្យនៅជិតកន្លែងមានការគាំទ្រ។** ការលើងពីកៅអី និងការដើរដោយដាក់កែងជើងពីមុខក្រោយ គឺជាឧទាហរណ៍សកម្មភាពសមតុល្យរបស់ CDC។
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC ណែនាំថា មនុស្សវ័យចំណាស់ដែលដួល ហើយប៉ះក្បាលគួរទៅជួបវេជ្ជបណ្ឌិតភ្លាមៗ ជាពិសេសប្រសិនបើពួកគេកំពុងប្រើថ្នាំរាវឈាម។
 
-## Talk with a doctor
+## ពិគ្រោះជាមួយវេជ្ជបណ្ឌិត
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតមុននឹងចាប់ផ្ដើមទម្លាប់លំហាត់ប្រាណថ្មី ជាពិសេសសម្រាប់មនុស្សដែលមានបញ្ហាបេះដូង ឬសួត ឈឺសន្លាក់ បញ្ហាសមតុល្យ ឬមានជំងឺបំភ្លេចបំភ្លាំង។ វេជ្ជបណ្ឌិត ឬអ្នកព្យាបាលរោគដោយចលនាអាចណែនាំសកម្មភាពដែលមានសុវត្ថិភាព និងពិនិត្យមើលថាតើថ្នាំមានផលប៉ះពាល់ដល់សមតុល្យដែរឬទេ។ សូមប្រាប់វេជ្ជបណ្ឌិតអំពីការដួលណាមួយ ទោះបីជាមិនមានរបួសក៏ដោយ។ ប្រសិនបើមានអ្វីមួយឈឺ ឬមានអារម្មណ៍មិនប្រក្រតីអំឡុងពេលហាត់ប្រាណ សូមបញ្ឈប់។ សម្រាប់ការឈឺទ្រូងភ្លាមៗ ពិបាកដកដង្ហើម ឬច្របូកច្របល់ភ្លាមៗ សូមហៅលេខ 119។
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+ទំព័រនេះជាព័ត៌មានទូទៅ មិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ។ សូមមើល [ការបដិសេធផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/) របស់យើង។ សម្រាប់ទិដ្ឋភាពទូទៅ សូមអាន [អ្វីដែលការស្រាវជ្រាវនិយាយអំពីកត្តាហានិភ័យជំងឺបំភ្លេចបំភ្លាំង](/brain-health/risk-factors/) និង [ថាតើជំងឺបំភ្លេចបំភ្លាំងអាចការពារបានដែរឬទេ](/brain-health/can-dementia-be-prevented/)។

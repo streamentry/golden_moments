@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzels foar minsken mei demintens: leg-, wurd- en online puzels"
+seoTitle: "Puzels by demintens: leg- en wurdpuzels"
+description: "Hoe't jo legpuzels, wurdpuzels en online puzels kieze foar immen mei demintens: stikgrutte, ôfbyldings, grutte letters, tegearre dwaan en makliker meitsje."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  De bêste puzel foar immen mei demintens is ien dy't de persoan mei in bytsje
+  help ôfmeitsje kin en dêr't er of sy ûnderweis fan genietet. Kies legpuzels
+  mei minder, gruttere stikken en in dúdlike ôfbylding foar folwoeksenen, hâld
+  de ôfbylding op de doaze yn sicht en sortearje earst de rânstikken.
+  Wurdsikers en krúswurdpuzels wurkje it bêste mei grutte letters. Ienfâldige
+  online puzels mei fjouwer stikken passe faak by it middelste stadium. Stopje
+  wylst it noch leuk is.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Kies op hoe't it giet, net op in stadiumlabel: as in puzel as wurk fielt, besykje dan ien mei minder stikken."
+  - "Grutte, stevige stikken en in dúdlike ôfbylding mei ûnderskate kleurgebieten binne makliker as lytse stikken en in grutte loft."
+  - "Ofbyldings foar folwoeksenen binne wichtich. Tunen, keukens, auto's en bisten, net tekenfilms."
+  - "It tegearre dwaan is it wichtichste. Jou stikken oan, sortearje de rânen en hâld it deksel fan de doaze yn sicht."
+  - "Wurdsikers mei grutte letters en ienfâldige online puzels mei 4 of 9 stikken binne fergees op dizze side."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Hoefolle puzelstikken passe it bêste by immen mei demintens?"
+    a: "Der is gjin inkeld goed tal. Ien dy't earder puzels fan 1.000 stikken makke, kin yn it begjin noch genietsje fan in pear hûndert, wylst oaren it bêste oerwei kinne mei in tsiental grutte stikken. As in puzel as wurk fielt of frustraasje jout, gean dan oer op minder stikken. Us online ôfbyldingspuzel hat 4 of 9 stikken."
+  - q: "Binne legpuzels goed foar minsken mei demintens?"
+    a: "In protte minsken genietsje derfan, benammen as se earder ek al graach puzels diene. In puzel jout de hannen wat te dwaan, in dúdlik doel en in ôfbylding om oer te praten. Fan gjin inkelde puzel is oantoand dat er demintens behannelet of fertraget, dus kies se foar nocht en selskip."
+  - q: "Wat kin ik dwaan as immen gjin legpuzel mear oan kin?"
+    a: "Meitsje it lytser en doch sels mear: jou ien stik tagelyk oan, of lit allinnich de lêste pear stikken foar dy persoan oer. Besykje in online puzel mei 4 stikken, it sortearjen fan stikken op kleur, of gewoan tegearre nei de ôfmakke ôfbylding sjen."
+  - q: "Pasje krúswurdpuzels en wurdsikers by demintens?"
+    a: "Dat kin yn it iere stadium, mei grutte letters. Wurdsikers mei wurden dy't allinnich fan links nei rjochts en fan boppen nei ûnderen rinne binne makliker as puzels mei diagonaal of efterstefoarsteande wurden. Lês de oanwizings of de wurdlist lûd op en wurkje der tegearre oan."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+In legpuzel op 'e eettafel is ien fan 'e maklikste aktiviteiten om te dielen. Jo kinne tegearre sitten sûnder dat jo in protte hoege te praten, de ôfbylding jout wat om oer te petearjen, en it lêste stikje der yn lizzen fielt goed. Puzels moatte wol feroarje as de demintens feroaret. In puzel dy't te dreech is, kin in rêstige middei feroarje yn in middei fol frustraasje. Dizze side giet oer hoe't jo legpuzels, wurdpuzels en ienfâldige online puzels kieze en klearsette, en wat jo dwaan kinne as it dreech wurdt.
 
-## Are puzzles good for people with dementia?
+## Binne puzels goed foar minsken mei demintens?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+In protte minsken genietsje derfan, benammen as se earder ek graach puzels diene. De [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) neamt wurdsikers, kaartspultsjes en boerdspultsjes ûnder aktiviteiten foar it iere stadium, en it [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) neamt online spultsjes en puzels op in tablet as ien manier om dwaande te bliuwen.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzels binne gjin behanneling. Fan gjin inkelde puzel is oantoand dat er demintens fertraget of stopet; ús hantlieding oer [harsensspultsjes en demintens](/brain-health/brain-games/) leit it ûndersyk út. De reden om in puzel te dwaan is dat it in noflik, boeiend oere tegearre wêze kin. De [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) seit it sa: rjochtsje jo op nocht, net op prestaasje.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Hoe kieze jo in legpuzel foar immen mei demintens?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Sjoch nei wat de persoan leuk fynt en hoe't de lêste puzel gie, net nei in stadiumlabel.
 
-### Number of pieces
+### Tal stikken
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Der is gjin goed tal. Ien dy't syn of har hiele libben puzels makke hat, kin yn it begjin noch genietsje fan in pear hûndert stikken, wylst immen oars it bliidst is mei in tsiental. In praktyske rige: as de lêste puzel as wurk fielde, kies dan ien mei sawat de helte fan 'e stikken. As de puzel gau klear wie en de persoan mear woe, gean dan in bytsje omheech.
 
-### Piece size and feel
+### Grutte en gefoel fan 'e stikken
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Gruttere stikken** binne makliker te sjen, op te pakken en te draaien.
+- **Dikke, stevige stikken** bliuwe lizzen en kinne wol tsjin in stuit.
+- **In matte ôfwerking** jout minder glâns ûnder lampen en by finsters.
+- **Mij lytse stikken** as de persoan dingen yn 'e mûle dwaan kin, wat letter by demintens foarkomme kin.
 
-### The picture
+### De ôfbylding
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Ofbyldings foar folwoeksenen.** Tunen, keukens, âlde auto's, boerderijdieren, in doarpke oan see, in favorite sport. Gjin tekenfilms en neat wat op boartersguod foar bern liket.
+- **Dúdlike kleurgebieten.** In reade skuorre, in blauwe boat en in grien fjild binne makliker as in loft dy't de helte fan 'e puzel ynnimt.
+- **Bekend en persoanlik.** In ôfbylding fan in plak dêr't de persoan wenne hat of in hobby dêr't er of sy fan hâlde, jout in protte om oer te praten. Guon printwinkels kinne fan in famyljefoto in legpuzel meitsje.
 
-## How do you do a puzzle together?
+## Hoe dogge jo in puzel tegearre?
 
-Set it up so the person can get straight to the enjoyable part.
+Set it sa klear dat de persoan daliks mei it leuke diel begjinne kin.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Kies in goede plak.** Goed ljocht, in stoel mei leuningen en in tafel of bak dêr't de puzel lizzen bliuwe kin.
+2. **Set it deksel fan 'e doaze** sa del dat jim it beide sjen kinne.
+3. **Draai de stikken mei de ôfbylding omheech** foardat jo begjinne.
+4. **Sortearje de rânstikken** sels, of meitsje earst de râne en lit it midden foar de oare persoan.
+5. **Set stikken op kleur byinoar** yn in pear ûndjippe bakjes of borden.
+6. **Jou ien stik tagelyk oan** as de heap te folle is. „Ik tink dat dizze by de skuorre heart.”
+7. **Praat oer de ôfbylding,** net oer de foarútgong. „Dat liket op de boat dy't myn heit hie.”
+8. **Lit de puzel lizzen.** Kom der ferskate dagen op werom. Der is gjin haast.
+9. **Stopje op in goed momint,** nei't der in stik yn leit, wylst it noch noflik fielt.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+It [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advisearret om de persoan te helpen begjinne, op frustraasje te letten en de persoan gewoan te litten sjen as er of sy dat leuker fynt. Tasjen wylst jo stikken ynlizze, en oanwize wêr't in stik passe kin, is ek meidwaan.
 
-## Easy online puzzles
+## Ienfâldige online puzels
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+In puzel op in tablet hat echte foardielen: gjin kwytrekke stikken, grutte ôfbyldings dy't it skerm folje, en gjin tafel dy't jo romme hoege.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Us fergese [ôfbyldingspuzel](/games/picture-puzzle/) snijt in ôfbylding yn 4 of 9 stikken. Tik op twa stikken om se te wikseljen oant de ôfbylding hiel is. De folsleine ôfbylding bliuwt as hantlieding op it skerm te sjen, der is gjin tiidklok, en jo kinne op elk momint stopje. Fjouwer stikken passe faak by in protte minsken yn it middelste stadium mei immen neist har.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Foar noch ienfâldiger spieljen mei ôfbyldings kinne jo [Syk itselde](/games/find-the-same/) besykje, dêr't jo op de ôfbylding tikke dy't by dy boppeoan past, of [Tegearre sortearje](/games/sort-together/), dêr't ôfbyldings yn karren geane lykas de keuken of de tún.
 
-## Word puzzles: word searches and crosswords
+## Wurdpuzels: wurdsikers en krúswurdpuzels
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Wurdpuzels passe by minsken dy't der altyd fan hâlden, meast yn in earder stadium fan demintens.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Wurdsiker mei grutte letters.** Us fergese [wurdsiker](/games/word-search/) brûkt grutte letters en mar in pear wurden, dy't allinnich fan links nei rjochts en fan boppen nei ûnderen rinne, nea diagonaal of efterstefoar. Spylje it op it skerm of print it út.
+- **Lês de list lûd op.** Ien persoan lêst in wurd, de oar siket dernei. Allinnich de earste letter omsirkelje is ek goed.
+- **Krúswurdpuzels mei grutte letters** út puzelboekjes kinne yn it begjin wurkje. Lês de oanwizings lûd op, diel de pinne en folje de antwurden tegearre yn. Ienfâldige krúswurdpuzels mei in tema binne better as kryptyske puzels.
+- **Praat oer de wurden.** „Tún” kin liede ta tsien minuten petear oer tomaten.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Foar mear aktiviteiten op papier en hoe't jo se sa printsje kinne dat se maklik te sjen en fêst te hâlden binne, sjoch [fergese prinbere aktiviteiten by demintens](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Hokker puzels passe by elk stadium?
 
-Stages overlap, and good and hard days are normal.
+Stadia rinne yninoar oer, en goede en drege dagen binne gewoan.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadium | Puzels dy't faak passe | Jo rol |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Iere stadium | Bekende legpuzels mei minder stikken as earder, krúswurdpuzels en wurdsikers mei grutte letters, online puzels mei 9 stikken | Partner: lit de persoan kieze, help as derom frege wurdt |
+| Middelste stadium | Legpuzels mei in tsiental grutte stikken, online puzels mei 4 stikken, in wurdsiker dy't tegearre lûd oplêzen wurdt | Set klear, sortearje stikken, jou ien stik tagelyk oan |
+| Lêste stadium | Tegearre nei in ôfmakke ôfbylding sjen, Syk itselde mei twa ôfbyldings, in pear grutte stikken beetpakke | Bring it nei de persoan ta; jo oanwêzigens is de aktiviteit |
 
-## When should you make a puzzle easier, or stop?
+## Wannear moatte jo in puzel makliker meitsje, of stopje?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Let op suchtsjen, stikken fuortskowe, werhelle „ik kin it net” of soarge blikken. Dat binne sinjalen om wat te feroarjen, net om troch te gean.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Meitsje it lytser.** Minder stikken, of lit allinnich de lêste pear foar dy persoan oer.
+- **Doch sels mear** en freegje oft de persoan mei de maklike dielen helpe wol.
+- **Gean oer op wat yn 'e buert:** stikken op kleur sortearje, in online puzel mei 4 stikken, of [ynkleurje](/games/coloring/).
+- **Stopje.** Set it oan 'e kant en drink in bakje tee. Jo kinne in oare dei weromkomme, of hielendal net.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+As puzels begjinne te fielen as in herinnering oan wat dreech is, is it goed om se los te litten. Der binne in protte oare manieren om goede tiid tegearre troch te bringen; ús [101 ideeën foar aktiviteiten](/activities/ideas/) is in goede plak om te sjen.

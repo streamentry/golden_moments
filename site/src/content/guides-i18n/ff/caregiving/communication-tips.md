@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Hakkilal haala e mo woodi dementia"
+seoTitle: "Hakkilal haala dementia: ko kaalataa e ko haɗataa"
+description: "Laabi ɓurɗi moƴƴude ngam haalde e mo woodi dementia: no feewnirtaa haala, ko kaalataa so wonaa ƴeewndo maa feewtinde, e no heɗortoo."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Haalir nokku deeyngu, tiiɗno e mo ngon-ɗaa, huutoro innde makko, kadi haal
+  sifa e leɗɗe juutɗe, laaɓtuɗe. Naamno gootel tan e saaha gooto, hokku
+  cuɓe ɗiɗi so wonaa naamne udditiiɗe, kadi sabbo ɓurɗo ko miijoto-ɗaa. Woto
+  yeddondir, feewtin maa ƴeewndo. Jaabo e miijo gonɗo caggal konngol makko,
+  kadi huutoro memmugol, nate e maandeeji so konnguɗe ɓeydi saɗtude.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Ittu hoolaare cakkitiiɗe kadi heɓ humpito gite makko hade maa fuɗɗaade haalde."
+  - "Huutoro leɗɗe juutɗe, miijo gooto e saaha gooto, e inɗe so wonaa kanko, kaŋko maa kamɓe."
+  - "Hokku cuɓagol hakkunde ɗiɗi, walla naamnal eey/alaa, so wonaa naamne udditiiɗe."
+  - "Sabbo jaabawol. So o faamaaka, fillito konngol ngol gootol, caggal mum eto konnguɗe kese."
+  - "Woto yeddondir walla feewtin. Jaabo e miijo gonɗo caggal ko o wiʼi."
+  - "So konnguɗe ustii, jokkondir e memmugol, daande, yeeso e nate lollirɗe."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Hol ko fotaani wiʼede mo woodi dementia?"
+    a: "Reen e ƴeewndagol (\"A siftorii...?\"), feewtingol (\"Ɗum moƴƴaani\"), siftinde mo ko o majji (\"Mi wiyii ma ɗum\"), e haalde dow makko hono no o alaa ɗoon. Reen e haala paykoy. Ɗuum ena waawi addude hersa walla mettu tawa wallataa."
+  - q: "Mi haani feewtinde mo so o fokkiti goonga?"
+    a: "Heewi wonde alaa. So goonga fokkitaaɗo bonnataako, accu ɗum. Yeddondirgol heewi waylude miijo makko, kadi ena waawi mettin mo. Tiɗɗin e no o woniri jooni e ko o haajiri."
+  - q: "Ko mi waɗata so o heɓaani konngol?"
+    a: "Hokku mo sahaa tawo. So a yiʼii omo ŋakkude no feewi, ena moƴƴi wallude mo e konngol e nder newaare walla miijaade ko o faandii kadi ƴeewtaade. Tinngol, maandeeji e nate ena mbaawi kadi wallude."
+  - q: "Hol no haaldortoo mi e mo woodi dementia ɓurɗo yawtude, mo haaldaani heewi?"
+    a: "Ɓado mo yeeso, wiʼ ko aan hombo, huutoro daande deeƴnde e memmugol newiingol. Ƴeew yeeso e maandeeji ɓandu ngam faamde miijooji makko. Wonnde maa sara makko, yimre nde o anndi walla jogondiral juŋngo ena mbaawi yaltinde ko heewi tawa alaa konnguɗi."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +43,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia ena waawi saɗtinde heɓde konnguɗe, faamde leɗɗe juutɗe, walla haɗde hoolaare cakkitiiɗe. Ɗuum fow e wiʼde wonde mo toppittoɗaa accii yiɗde jokkondirde. Bayle tokose e no feewnirtaa haala, no kaalirtaa e no heɗortoo ena mbaawi newnande on fof haalde e deeƴre.
 
-## What are the most important tips for talking with someone who has dementia?
+## Hol hakkilal ɓurɗo himmude so aɗa haalda e mo woodi dementia?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Heɓ hakkille makko, newnan ko kaalataa, kadi muñ. So a siftorii geɗe jowi tan:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Deeynin nokku ngoo kadi tiiɗno e makko.** Ñif tele, jooɗo to tolno gite, kadi huutoro innde makko.
+2. **Wiʼ huunde wootere e saaha gooto.** Leɗɗe juutɗe, miijo gooto, naamnal gootal.
+3. **Hokku cuɓe ɗiɗi.** "Te maa kafe?" ena newi ɓurɗe "Hol ko njiɗ-ɗaa?"
+4. **Sabbo.** Hokku sahaa ɓurɗo ko miijoto-ɗaa ngam jaabaade, kadi eto haɗde taƴde haala makko.
+5. **Woto yeddondir walla ƴeewndo.** Jaabo e no o woniri, wonaa so goonga ena e majjum.
 
-## How should I start a conversation?
+## Hol no mi fuɗɗortoo haala?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Feewniraa ɗum no mo toppittoɗaa waawi tiiɗnoraade e maa. [Deftere Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ena wasiyaa ustude hoolaare tawo: ñif raajo walla tele, ombo rido walla damal, walla yah nokku ɓurɗo deeƴde.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Ɓado mo yeeso.** Arde caggal walla saɗa ena waawi huluɓinde mo.
+- **Wiʼ ko aan hombo.** "Jam baaba, ko miin Sarah, ɓiy maa debbo." Ɗuum ena walla mo waɗde ɗaɓɓaade innde maa.
+- **Jippo to tolno makko.** So omo jooɗii, jooɗo walla jicco haa gite mon tolondira.
+- **Ƴeew yeeso maa e daande maa.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ena wasiyaa faamde daande maa, toowgol, maandeeji yeeso e ɓandu maa, kadi ƴellitaade e sifa newiingu, moƴƴo.
+- **Ƴeewto so lunette e kaɓirɗe nanugol ena e makko.** Ena saɗi faamde haala nde a waawaa yiʼde walla nannde no feewi.
 
-## How should I phrase what I say?
+## Hol no mi fefindortoo ko mi wiʼata?
 
-Use simple words, short sentences and a calm, low voice.
+Huutoro konnguɗe newɗe, leɗɗe juutɗe e daande deeƴnde, lesnde.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Miijo gooto e lefol gootol.** "En ɓorna dolokke maa. Caggal mum en njaha yaasi." Wonaa ɗiɗi fof e fooftere wootere.
+- **Huutoro inɗe, wonaa lomtinooje.** "Mamma Jean noddi" ena ɓuri laaɓde "Kanko noddi."
+- **Lesɗin daande, wonaa toownude nde.** Family Caregiver Alliance ena wasiyaa daande lesnde so wonaa toownde.
+- **Fillito, caggal mum waylu konnguɗe.** So o faamaani, fillito konnguɗi ɗin gootol. So ɗum waɗaani, sabbo seeɗa kadi eto konnguɗe goɗɗe.
+- **Hollu kadi wiʼ.** Tinngo jaddu, joggu doliiji ɗiɗi ɗii, walla hollu feere aranere.
+- **Haal e makko, wonaa dow makko.** NIA ena reentinde haalde dow mo toppittoɗaa hono no o alaa ɗoon, e "haala paykoy".
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ena wasiyaa no newnintoo naamne ɓurɗe huutoreede. Ɗii ko yeruuji e nder miijo ngoo:
 
-| Instead of | Try |
+| So wonaa | Eto |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Hol ko njiɗ-ɗaa ñaamde e kikiiɗe?" | "Aɗa yiɗi liingu maa gertogal?" |
+| "Hol no wonir-ɗaa?" | "Aɗa tampi?" |
+| "Aɗa weelaa?" | "Ñaamdu kikiiɗe maa heboy e hojomaaji jowi." |
+| "Wonaa nii waɗirtee." | "En etoɗen nii." |
+| "A siftorii njillu amen to weendu?" | "Miɗo miijoo njillu amen to weendu. Haalan am ko njiɗno-ɗaa heen." |
+| "Mi wiyii ma ɗum." | Jaabo kadi, e newaare, hono no adannde. |
 
-## How do I listen well?
+## Hol no mi heɗortoo no feewi?
 
-Listen for the meaning and the feeling, not just the words.
+Heɗo fannu e miijo, wonaa konnguɗi tan.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Sabbo.** Deeƴre ena heewi wonde sahaa miijaade. Limo sifa haa sappo hade maa naatde.
+- **Hokku konngol tan so o dartii.** Family Caregiver Alliance ena wiʼi ena moƴƴi wasiyaade konnguɗi so mo toppittoɗaa ena ŋakkude.
+- **Ƴeewto ko nan-ɗaa.** [Deftere Alzheimer's Association e jokkondiral](https://www.alz.org/help-support/caregiving/daily-care/communications) ena wasiyaa ƴeewde fannu gonɗo caggal konngol makko kadi fillitde ɗum ngam ƴeewtaade so a faamii. "Aɗa hulani oto?"
+- **Ƴeew yeeso makko e ɓandu makko.** So haala ɓeydi saɗtude, NIA ena wiʼi, maandeeji yeeso ena mbaawi hollude suno, tikkere walla mettu ɓurɗe konnguɗi laaɓde.
+- **Njaɓ kulhule makko no tiiɗi.** Hay so kulol ngol tuugii e goonga fokkitaaɗo, miijo makko ko goonga.
 
-## What if they say something that is not true?
+## Hol ko waɗetee so o wiʼi huunde nde wonaa goonga?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Woto yeddondir. A heɓataa foolde, kadi mo toppittoɗaa ena waawi wonde hersuɗo walla huluɗo. So ɗuum waɗi, jokkondir e miijo makko, caggal mum ɓennu mo e newaare.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance ena wasiyaa jaɓde miijo makko hade maa ɓennude haala. Yeru, so yumma maa ena tiiɗi omo foti ƴettude ɓiɓɓe to duɗal:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- So wonaa: "Yumma, ɓiɓɓe maa mawɓii. Ɗuum ko duuɓi cappanɗe nay weeɓi."
+- Eto: "A wonnoo yumma jurmotooɗo no feewi. Haalan am no ƴettirno-ɗaa ɓe. En ñaamtaani seeɗa tawo?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association kadi ena wasiyaa woto yeddondir e konguɗi ɗi a jaɓaani. Suɓo sahaa maa: so ngoon miijo fokkitaaɗo bonnataako, accu ɗum.
 
-## How does communication change as dementia progresses?
+## Hol no jokkondiral waylirtaa so dementia ɓeydi yawde?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Hajuuji ena mbayla e sahaa, ɗuum noon waylu laawol maa. Alzheimer's Association ena sifaa fannuuji tati jaajɗi:
 
-| Stage | What helps |
+| Fannu | Ko wallata |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Fuɗɗoode | Woto miijo wonde o waawaa haalde. Naatnu mo e jeewte, haal e makko kakkil, naamno hol ballal mo o yiɗi, kadi huutoro weltaare so ena walla. |
+| Hakkunde | Jeewte hakkunde mon ɗiɗo tan e nokku deeyngu. Haal sifa, joggu humpito gite, huutoro naamne eey/alaa, hokku yamirooje feere e feere, kadi woto fel walla feewtin. |
+| Sakkitorɗe | Ɓado mo yeeso kadi wiʼ ko aan hombo. Ɓeydu tiiɗnude tinngol e maandeeji. Huutoro memmugol, daɗe, ko yiʼetee e ko uurnetee. Woto haal abada hono no o alaa ɗoon. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Kala neɗɗo ena heeri, kadi neɗɗo gooto ena waawi jogde ñalɗe moƴƴe e ñalɗe saɗɗe. Jaabo e no o woniri jooni, wonaa e innde.
 
-## Can pictures and activities make conversation easier?
+## Nate e kuuɓal ena mbaawi newnande haalde?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Eey. Natal lollirte ngal ena ittude satteende kadi ena hokka on fof huunde nde ndaaron kadi tinngon.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Tinndinooje nate.** [Conversation Cards](/games/conversation-cards/) ena hokka nate e naamne udditiiɗe ɗe ƴeewndataa abada.
+- **Nate ɓesngu.** [Photo Pairs](/games/photo-pairs/) ena wayla nate ɗe cuɓ-ɗaa e fijo jokkondirngo newiingo, ngo ena heewi umminde daartol.
+- **Konuɗi anndaaɗi.** [Finish the Saying](/games/finish-the-saying/) ena huutora konuɗi Amerik anndaaɗi, caggal mum tinndinoore haala.
+- **Fijooji jokkondirɗi no caggal leydi.** [Picture Pairs](/games/picture-pairs/) ena hokka juuɗe maa huunde nde mbaɗataa tawa on njaaldude.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Yah [hol no fijirtee e wondude](/caregiving/how-to-play-together/) e [kuuɓal siftorde](/activities/reminiscence/) ngam ɓeydaade. Ngam njillu e noddaango, tar defte amen dow [njillu](/activities/visiting/) e [noddaango telefoŋ e widewoo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Hol ko waɗetee so mi heɓii muñal?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Ɗum ena heewi waɗde fof. NIA ena wasiyaa so a tikkii, aɗa foti ƴettude sahaa ngam deeƴtude. Yah suudu woɗndu, foofa sifa seeɗa, kadi artu so a waawii. Aɗa waawi fuɗɗitaade haala nde kadi, tee mo toppittoɗaa ena waawi jaabaade no moƴƴiri e daande maa deeƴnde. So muñal ngal wontii sahaa kala, ɗum ko maandeeji wonde aɗa haani ballal goɗngal, wonaa wonde aɗa ŋakkude. Deftere amen dow [toppitagol hoore maa](/caregiving/caregiver-self-care/) ena jogii nokkuuji ɗo njahataa.

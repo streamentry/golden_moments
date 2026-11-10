@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Trankilu na aktibidåt gi pupuengi para i taotao ni manlå'la' yan i dementia"
+seoTitle: "Sundowning: Trankilu na aktibidåt gi pupuengi"
+description: "Suåbi na rutina, tinilaika gi kuåtto, yan trankilu na aktibidåt ni siña u ayuda gi inestotba gi pupuengi gi dementia, yan ngai'an para un ågang i mediku."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  I sundowning kumekeilekña na inestotba, kinonfuson, pat binibu ni
+  matutuhon pat mas chumåtgi gi pupuengi. I fina'tinas siña ni siña u ayuda
+  guaha: metton na rutina kada ha'åni, atdao yan aktibidåt mas åntes gi
+  ha'åni, menos maigo' gi pupuengi, menos kafeina, ma'lak na kandet gi sanhalom
+  åntes di u homhom, mas trankilu na gima', yan trankilu na aktibidåt taiguihi
+  músika, litratu, pat i mandobla magagu. I nuebu pat mas chumåtgi na siniente
+  nisisita na u cheki i mediku.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "I sundowning kumekeilekña na inestotba pat kinonfuson ni matutuhon pat mas chumåtgi annai humomhom i atdao."
+  - "Na'i i mappot na che'cho', biahi, yan ma'påmpångi gi ega'an pat åntes di talo'åni."
+  - "I atdao, mamokkat kada ha'åni, menos maigo' gi pupuengi, yan menos kafeina gi pupuengi siña u ayuda para u mas suåbi i pupuengi."
+  - "Na'on i kandet åntes di u homhom, na'båba i boruka, yan tulaika para trankilu yan abituåt na aktibidåt."
+  - "Manten un lista para un ripara i kosas ni muna'fa'tinas, ya såga trankilu yan na'ånimu annai matutuhon i inestotba."
+  - "Atan i mediku para nuebu pat mas chumåtgi na siniente: i piniti, infekson, pat åmot siña gai patte."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Ki ora gi ha'åni mas åmenu na masusedi i sundowning?"
+    a: "Mas åmenu na matutuhon pat mas chumåtgi gi pupuengi, annai humomhom i atdao. I ora ti parehu para kada taotao, put enao siña u ayuda yanggen un nota håfa masusedi gi un pat dos simåna."
+  - q: "Håfa na aktibidåt siña u ayuda gi sundowning?"
+    a: "I trankilu, abituåt, yan libiånu na aktibidåt mas maolek gi pupuengi: suåbi na músika, manatan litratu, un priferidu na prugråman TV pat pelikula, mandobla magagu, díkike' na mamokkat, pat meryenda yan hågu. Na'såhngi i nuebu pat mappot na aktibidåt para mas åntes gi ha'åni."
+  - q: "Siña ha i sundowning senyåt put håfa gi salåppe'?"
+    a: "Siña mas chumåtgi sa' guaha prublema gi salåppe' taiguihi i piniti, infekson taiguihi i infekson gi urinary tract, prublema gi maigo', pat efektun åmot. Yanggen nuebu, derepente, pat mas chumåtgi i inestotba, ågang i medikun i taotao."
+  - q: "Debi di hu faisen i mediku put åmot para i sundowning?"
+    a: "Ayu na kombetsasion para un chogue yan i mediku. I Alzheimer's Association ilek-ña na i fina'tinas sin åmot mas maolek para u ma'espiha fine'na, ya i åmot para i inestotba gi pupuengi debi di u makonsidera ha' yanggen esta ma'tasa i prublema yan i probechu. Este na påhina ti ha nå'i konsehun åmot."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Meggai familia manripara i parehu na kostumbre: trankilu i ega'an, låo annai mumampos i pupuengi, i taotao ni un kuidadu ni manlå'la' yan i dementia siña manestotba, nina'ma'åñao, nakonfusu, pat nina'bibu. Siña mamomokkat, mamaisen para u "hånao para i gima'" achokka' gaigi gi gima', pat sen libiånu para u lalalu. Este mas åmenu na ma'a'ågang sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Tåya' un solu na remedio, låo i tinilaika gi ritmun i ha'åni, i kuåtto, yan i klåsen aktibidåt ni un ofresi siña muna'fanmas trankilu i pupuengi. Este na påhina ha na'danña' junto pråktiku na ideha, ti put åmot, ginen i National Institute on Aging yan i Alzheimer's Association. Ti konsehun mediku este. Yanggen nuebu, derepente, pat mas chumåtgi i siniente, kuentusi yan i medikun i taotao.
 
-## What is sundowning?
+## Håfa i sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+I sundowning kumekeilekña na inestotba, binibu, nina'bibu, pat kinonfuson ni matutuhon pat mas chumåtgi annai humomhom i atdao, gi pupuengi. I [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ha nota na i gos yayas siña muna'lamas i inestotba gi pupuengi.
 
-## What can make late-day restlessness worse?
+## Håfa siña muna'lamas i inestotba gi pupuengi?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Guaha meggai na kosas ni siña gai patte, mas åmenu na manadanña' junto. I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ha lista faktot taiguihi:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- yayas dispues di un lå'on na ha'åni;
+- nuebu pat nakonfusu na lugåt;
+- un "internal body clock" ni ti parehu, ya muna'fanmaigo' gi ha'åni ya manmåkpo' gi puengi;
+- kåtma na kandet yan anineng, ni siña nakonfusu;
+- marisibi i inestotba pat linachi gi taotao gi uriya-ña;
+- nisisita menos maigo', ni komún gi manåmko'.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+I NIA lokkue' ha sångan håfa siña muna'fa'tinas binibu, guaha piniti, triniste pat inestotba, ti nahong maigo', kostipao, meggai boruka pat meggai taotao, yan palu åmot pat i chetnudan åmot.
 
-## How can I plan the day to make evenings calmer?
+## Taimanu siña hu plånea i ha'åni para u mas trankilu i pupuengi?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Na'i i mappot na kosas mas åntes ya na'såhngi i pupuengi suåbi yan magåhet. Parehu i NIA yan i Alzheimer's Association manrekumenda un abituåt na rutina. Un ehemplon ha'åni, ni siña un tulaika para hågu:
 
-| Time | What may help |
+| Ora | Håfa siña u ayuda |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Ega'an | Sita, ma'påmpångi, biahi, yan maseha håfa na che'cho' ni nisisita chinemma', annai mas åmenu na manalertu i taotao |
+| Tatti di ega'an | Tiempo gi sanhiyong pat gi fi'on un bentåna yan atdao; mamokkat pat otro aktibidåt |
+| Talo'åni | Mas dångkulo na amotsa (i Alzheimer's Association ha sodda' mas dångkulo na amotsa yan mas libiånu na sena gi pupuengi) |
+| Tatti di talo'åni | Deskånsa yanggen nisisita, låo chagi mungnga maigo' åpmam gi pupuengi |
+| Tatti di pupuengi | Trankilu yan abituåt na aktibidåt; meryenda yan gimen; tåya' kafeina |
+| Åntes di u homhom | Na'on i kandet gi sanhalom ya huchom i kåtdenas åntes di u homhom |
+| Pupuengi | Mas libiånu na sena, trankilu na músika, menos chinatsaga, metton na rutina åntes di maigo' |
 
-A few specific points from the sources:
+Unos kuantos na punto ginen i fuenten:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Atdao.** I NIA ha sodda' na un na'guaha tiempo kada ha'åni gi sanhiyong pat gi fi'on bentåna para u risibi atdao.
+- **Mumuebi kada ha'åni, låo ti meggai.** Chagi para un aktibu kada ha'åni sin u masusedi meggai na aktibidåt, ilek-ña i NIA.
+- **Gimen gi pupuengi.** Chagi munga gumimen ålkohol yan gimen ni gai kafeina, taiguihi kafe pat kola, gi pupuengi (NIA). I Alzheimer's Association lokkue' ha mensiona i nikotina.
+- **Maigo' gi ha'åni.** Munga na'fanmaigo' åpmam gi ha'åni (NIA). I Alzheimer's Association ha sodda' na un na'menos i maigo' gi ha'åni yanggen guaha prublema gi maigo' gi puengi.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Para mas infotmasion put taimanu para un fatinas un metton na ha'åni, atan [aktibidåt para i rutina kada ha'åni](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Taimanu siña hu na'trankilu i gima' gi pupuengi?
 
-Reduce noise, add light and keep familiar things close.
+Na'båba i boruka, na'mås ma'lak i kandet, ya na'såhngi i abituåt na kosas gi fi'on.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Ma'lak yan parehu na kandet.** I Alzheimer's Association ha rekumenda na u gaige i gima' ma'lak gi pupuengi. Na'on i kandet åntes di u fanmatutuhon i anineng.
+- **Menos boruka.** Puno' pat na'båba i TV yan i rediu, ya na'menos i bisita pat i chaddek na che'cho' gi gima' gi este na ora. I Alzheimer's Association ha sodda' na un na'menos i chinatsaga gi pupuengi taiguihi i TV, che'cho' gi gima', yan ågang na músika.
+- **Abituåt na minagof.** I NIA ha sodda' na u maolek i suåbi na músika yan i managuaiya na kosas yan litratu gi uriya gi gima'.
+- **Chek i minagof.** I Alzheimer's Association ha rekumenda na un chek kao guaha piniti, ñalang, minahalom, kostipao, buchi i pachot-ña, yayas, infekson, yan irritasion gi kåtni, ya na'konfotme i tempuråturan i kuåtto.
+- **I hinasso-mu.** I taotao siña marisibi i inestotba. I NIA ha sodda' na un despåsio ya chagi un deskånsa yanggen i inestotba-mu siña muna'lamas i situasion.
 
-## What calm activities can we do in the late afternoon?
+## Håfa na trankilu na aktibidåt siña in chogue gi pupuengi?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Ayek i aktibidåt ni abituåt, ti ma'apura, yan libiånu para u mapåra. I Alzheimer's Association ha sodda' na u maolek i suåbi na aktibidåt taiguihi trankilu na músika, litratu, pat un priferidu na pelikula, yan mamokkat yan hågu para u na'suåbi i inestotba. I NIA ha sodda' na u maolek i meryenda pat gimen, un priferidu na prugråman TV, músika, mamokkat, manaitai, pat un simple na che'cho' gi gima' taiguihi mandobla magagu.
 
-Ideas to try:
+Ideha para un chagi:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Mandobla magagu yan hågu.** I NIA ha sodda' este na klåsen simple na che'cho' gi gima'. Libiånu para u machule' i toåya, ya guaha klaru na finakpo'-ña i che'cho'.
+2. **Toka priferidu na músika.** Abituåt na kanta ginen i tiempon-ñiha åntes, gi båba na bos. Maolek ha lokkue' i kumånta pachot. Mas ideha gi [aktibidåt put músika](/activities/music/).
+3. **Atan litratu.** Un ålbun litratu, pat unos kuantos na litratu familia gi [Photo Pairs](/games/photo-pairs/) ya u maså'pet i litratu, siña muna'guaha trankilu na kuentusi.
+4. **Mamokkat díkike'.** Gi hatdin, gi chalan, pat gi pasiyo, åntes di u homhom.
+5. **Fanmerienda yan fangimen.** Håfa na simple, må'pe', yan tåya' kafeina, gi lamasa yan hågu.
+6. **Suåbi na mana'danña'.** [Picture Pairs](/games/picture-pairs/) yan kuåttro na tile ya u maså'pet i litratu libiånu para u matutuhon yan libiånu para u mapåra.
+7. **Kulot.** [Coloring](/games/coloring/) gi pantåya pat gi papet ni ma'imprenta, sin meta para u makumple.
+8. **Manatan yan manguentusi.** [Conversation Cards](/games/conversation-cards/) ha ofresi litratu yan un abiettu na fino'. Nahong ha' i manatan.
+9. **Un deskånsa para i hinagong.** [Calm Breathing](/games/calm-breathing/) un despåsio yan trankilu na råtu ni hågu para un tutuhon yan un para.
+10. **Che'cho' put kannai.** Manasoti boton pat medias, muna'suåbi un manyuk na åfong, pat machule' un abituåt na kosas. Atan [aktibidåt gi sensasion](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Chagi munga chochogue nuebu na huegu, biahi ni guaha meggai taotao, pat maseha håfa ni mamaisen meggai na hinasso pat atension gi pupuengi. Na'såhngi ayu para i ega'an.
 
-## What should I do when restlessness starts?
+## Håfa debi di hu cho'gue annai matutuhon i inestotba?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Såga trankilu, na'ånimu, ya tulaika suåbi. I NIA ha sodda' na un kuentusi trankilu, un ekungok i chinatsaga-ña i taotao, munga åguaguat, na'seguru na gaigi gi sagån minå'åse', ya usa suåbi na inachak yanggen u ayuda. Despues chagi un na'tulaika i atension: meryenda, gimen, músika, pat mamokkat.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+I Alzheimer's Association ha sodda' na siña un usa fino' taiguihi "Gaigi hao gi sagån minå'åse' guini" yan "Dispensa sa' nina'triste hao", ya ha sodda' lokkue' na un na'mås ma'lak, un despåsio, ya un na'menos i chinatsaga. Munga enkåhon, inechong, pat mapigåo i taotao, pat åguaguat yan guiya.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Yanggen nina'agresibu i taotao, i NIA ha konseha na un såga gi sagån distånsia asta ki u para i aksion. Gi un emerhensia, ågang 911 ya eksplika na i taotao manlå'la' yan i dementia.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+I guiya-måmi gi [kinuentusi](/caregiving/communication-tips/) yan [håfa para un cho'gue yanggen ilek-ña na ti malago'](/caregiving/when-they-say-no/) guaha mas put trankilu na fino'.
 
-## How do I find the triggers?
+## Taimanu siña hu sodda' i kosas ni muna'fa'tinas?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Manten un díkike' na lista gi un pat dos simåna. I Alzheimer's Association ha rekumenda na un nota håfa masusedi åntes di i sundowning para un ripara i kosas ni muna'fa'tinas. Nota i ora ni matutuhon i inestotba, håfa masusedi gi ora åntes, maigo' gi ha'åni, nengkanno' yan gimen, bisita, boruka, yan kandet. Chule' i lista para i mediku. I NIA ha nota na i manota i tinilaika gi aksion siña u ayuda i para u kuidadu yan i prufesionåt gi salåppe' para u maripara un kostumbre.
 
-## When should I call a doctor about sundowning?
+## Ngai'an debi di hu ågang i mediku put i sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Ågang i medikun i taotao yanggen nuebu i inestotba, derepente mas chumåtgi, pat umachetton yan otro na tinilaika. I NIA ilek-ña na i derepente pat chaddek na tinilaika gi aksion, espesiatmente dispues di un infekson pat nuebu na tinilaikan åmot, debi di u masångan gi mediku ensegidas.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Faisen i mediku para u chek håfa siña muna'lamas i pupuengi. I Alzheimer's Association ha mensiona prublema gi salåppe' taiguihi i infekson gi urinary tract, incontinence, restless legs, yan sleep apnea, ya ha sodda' na un faisen håfa na ora gi ha'åni mas maolek para kada åmot. I NIA ha lista piniti, kostipao, yan efektun åmot pat i chetnudan åmot entre i siña na rason put binibu.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+I Alzheimer's Association ilek-ña na i fina'tinas sin åmot mas maolek fine'na para prublema gi maigo' ni uchetton yan i Alzheimer's, ya i åmot para i inestotba gi pupuengi debi di u makonsidera ha' yanggen ti u fonhayan ayu, yan despues di ma'tasa i prublema yan i probechu. Ayu na desision para i mediku. Munga tutuhon, munga para, pat munga tulaika maseha håfa na åmot, åmot maigo', pat supplemento sin konsehun mediku.
 
-## How do I get through the evenings myself?
+## Taimanu siña hu sotporta yu' gi pupuengi?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+I pupuengi siña i mas mappot na patte gi ha'ånin i para u kuidadu. Yanggen siña, gagao un membron familia, amigu, pat ayudånti ni ma'apåsi para u kubre i pupuengi unos kuantos na diha gi simåna, achokka' un ora ha'. I guiya-måmi put [ina'atendi i para u kuidadu](/caregiving/caregiver-self-care/) ha lista opsion para deskånsa yan i libre na Alzheimer's Association 24/7 Helpline.

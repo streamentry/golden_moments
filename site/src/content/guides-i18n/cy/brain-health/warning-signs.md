@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Arwyddion cynnar o ddementia a phryd i weld meddyg"
+seoTitle: "Arwyddion cynnar o ddementia a phryd i weld meddyg"
+description: "Arwyddion cynnar cyffredin dementia, sut maent yn wahanol i heneiddio arferol, achosion y gellir eu trin o broblemau cof, a sut i baratoi ar gyfer apwyntiad meddyg."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Gall colli cof sy'n amharu ar fywyd bob dydd, anhawster gyda thasgau cyfarwydd, dryswch am amser neu le,
+  a newidiadau mewn hwyliau neu farn fod yn arwyddion cynnar o ddementia. Gall nifer o gyflyrau eraill, gan gynnwys
+  problemau'r thyroid, diffyg fitamin B12, sgîl-effeithiau meddyginiaeth, iselder ysbryd a phroblemau cysgu, achosi
+  newidiadau tebyg. Dim ond clafwr cymwys all wneud diagnosis. Mae dryswch sydyn angen gofal brys.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Mae anghofio o dro i dro yn gyffredin wrth heneiddio; mae newidiadau sy'n amharu ar fywyd bob dydd yn werth cael eu gwirio."
+  - "Mae Cymdeithas Alzheimer yn disgrifio 10 arwydd rhybudd, gyda chymhariaeth o'r hyn sy'n fwy cyffredin wrth heneiddio ar gyfer pob un."
+  - "Gall problemau'r thyroid, diffyg fitamin B12, sgîl-effeithiau meddyginiaeth, iselder ysbryd, heintiau a phroblemau cysgu i gyd effeithio ar gof, a gall rhai ohonynt gael eu trin."
+  - "Dim ond clafwr cymwys all wneud diagnosis o ddementia; ni all cwisiau ar-lein na hunan-brofiadau wneud hynny."
+  - "Gall dryswch sy'n codi'n sydyn, dros oriau neu ddyddiau, fod yn delirwm ac mae angen gofal meddygol brys arno."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "A yw anghofio yn rhan arferol o heneiddio?"
+    a: "Mae peth o hynny. Dywed y Sefydliad Cenedlaethol ar Heneiddio ei bod fel arfer yn anghofio mân bethau neu roi trefn ar goll yn amserol ac yna ei chofio wedyn yn rhan ysgafn o heneiddio. Nid yw dementia yn rhan arferol o heneiddio. Mae problemau cof sy'n gwneud tasgau bob dydd fel gyrru, defnyddio'r ffôn neu ddod o hyd i'r ffordd adref yn anodd yn werth cael eu gwirio gyda meddyg."
+  - q: "A all problemau cof gael eu hachosi gan rywbeth heblaw dementia?"
+    a: "Gallant. Mae'r Sefydliad Cenedlaethol ar Heneiddio yn rhestru problemau'r thyroid, yr arennau neu'r afu, sgîl-effeithiau meddyginiaeth, iselder ysbryd a phryder, diffyg fitamin B12, camddefnyddio alcohol, problemau cysgu, heintiau ac anafiadau i'r pen, ymhlith eraill. Gall rhai o'r rhain wella pan gânt eu trin, dyna un rheswm pam mae gwirio meddygol yn bwysig."
+  - q: "A gaf i brofi rhywun am ddementia gartref?"
+    a: "Na allwch. Dim ond clafwr cymwys all wneud diagnosis o ddementia, gan ddefnyddio hanes meddygol, archwiliad corfforol, profion cof a meddwl, profion labordy ac weithiau sganiau o'r ymennydd. Nid yw hyd yn oed y profion byr y mae meddygon yn eu defnyddio yn ddigon ar eu pennau eu hunain i wneud diagnosis o ddementia."
+  - q: "Beth ddylwn i ei wneud os bydd rhywun yn mynd yn ddryslyd yn sydyn?"
+    a: "Ceisiwch help meddygol ar unwaith. Gall dryswch sydyn fod yn delirwm, ac mae'r Adran Materion Veteranau yn ei ddisgrifio fel argyfwng meddygol. Ffoniwch ddarparwr gofal iechyd y person ar unwaith neu ffoniwch 999, arhoswch gydag ef neu hi, a nodwch unrhyw feddyginiaethau y mae'n eu cymryd."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Gall sylwi ar newidiadau yn eich cof chi eich hun, neu gof y person rydych yn gofalu amdano, fod yn frawychus. Gall y dudalen hon eich helpu i benderfynu pryd i wneud apwyntiad gyda meddyg a sut i baratoi ar ei gyfer. Ni all ddweud wrthych a oes gan neb dementia. **Dim ond clafwr cymwys all wneud diagnosis o ddementia**, a gall llawer o gyflyrau sy'n achosi problemau cof fod yn wahanol i ddementia. Peidiwch â dibynnu ar gwisiau ar-lein na hunan-brofiadau.
 
-## What are the early signs of dementia?
+## Beth yw arwyddion cynnar dementia?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+Mae [Cymdeithas Alzheimer](https://www.alz.org/alzheimers-dementia/10_signs) yn disgrifio 10 arwydd cynnar. Mae'n paru pob un â'r hyn sy'n fwy cyffredin wrth heneiddio fel cymhariaeth. Yn ein geiriau ni:
 
-| Sign worth checking | More typical with age |
+| Arwydd sy'n werth ei wirio | Yn fwy cyffredin wrth heneiddio |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Colli cof sy'n amharu ar fywyd bob dydd, fel anghofio digwyddiadau diweddar neu ofyn yr un peth dro ar ôl tro | Weithiau anghofio enw neu apwyntiad a'i gofio'n ddiweddarach |
+| Anhawster cynllunio neu ddatrys problemau, fel dilyn rysáit gyfarwydd neu gadw golwg ar filiau | Camgymeriad achlysurol gyda biliau'r cartref |
+| Anhawster gorffen tasgau cyfarwydd gartref, yn y gwaith neu wrth fod allan | O dro i dro angen help gyda gosodiad microdon neu recordio rhaglen deledu |
+| Colli golwg ar ddyddiadau, tymhorau neu lle rydych chi | Camgymeriad ynghylch diwrnod yr wythnos, yna ei ddatrys |
+| Trafferth newydd gweld pellter, darllen neu wahaniaethu rhwng lliwiau | Newidiadau i'r golwg oherwydd cataractau |
+| Problemau newydd gyda geiriau, fel stopio yn ystod sgwrs neu alw pethau wrth yr enw anghywir | O dro i dro cael trafferth dod o hyd i'r gair iawn |
+| Rhoi pethau mewn lleoedd anarferol a methu â mynd yn ôl dros y camau i'w cael | Camgolli pethau o dro i dro a'u cael trwy fynd yn ôl dros eich camau |
+| Barn wael, fel gyda arian neu ofal personol | Gwneud penderfyniad gwael o dro i dro |
+| Tynnu'n ôl o hobïau, gwaith neu weithgareddau cymdeithasol | O dro i dro ddim eisiau mynd i ddigwyddiad teuluol neu gymdeithasol |
+| Newidiadau mewn hwyliau neu bersonoliaeth, fel mynd yn ddryslyd, amheus, ofnus neu bryderus | Cael ffyrdd sefydlog o wneud pethau a theimlo'n anniddig pan fydd trefn yn cael ei newid |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Nid yw un arwydd ar ei ben ei hun yn golygu dementia. Y pwynt yw **newid o'r hyn sy'n arferol i'r person hwnnw**, yn enwedig os yw'n gwneud bywyd bob dydd yn anoddach.
 
-## How is normal aging different from dementia?
+## Sut mae heneiddio arferol yn wahanol i ddementia?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+Dywed y [Sefydliad Cenedlaethol ar Heneiddio](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) fod llawer o oedolion hŷn yn sylwi eu bod yn cofio pethau yn arafach, neu o dro i dro'n camgolli pethau neu anghofio bil. Mae'r rhain fel arfer yn arwyddion o anghofio ysgafn. **Nid yw dementia yn rhan arferol o heneiddio.** Mae problemau cof difrifol yn gwneud tasgau bob dydd yn anodd, fel gyrru, defnyddio'r ffôn neu ddod o hyd i'r ffordd adref.
 
-The NIA suggests talking with a doctor if someone:
+Mae'r Sefydliad Cenedlaethol ar Heneiddio yn awgrymu siarad â meddyg os yw rhywun:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Yn gofyn yr un cwestiynau dro ar ôl tro
+- Yn mynd ar goll mewn lleoedd yr oedd yn eu hadnabod yn dda gynt
+- Yn cael trafferth dilyn rysáitiau neu gyfarwyddiadau
+- Yn mynd yn fwy dryslyd am amser, pobl a lleoedd
+- Yn stopio gofalu amdano'i hun, fel bwyta'n wael, peidio ymolchi neu ymddwyn mewn ffordd anniogel
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Mae gan rai pobl **nam gwybyddol ysgafn (MCI)**. Mae hynny'n golygu mwy o broblemau cof neu feddwl na phobl eraill o'r un oed, ond eu bod yn dal i allu rheoli bywyd bob dydd. Dywed y Sefydliad Cenedlaethol ar Heneiddio y gall MCI fod yn arwydd cynnar o glefyd Alzheimer, ond nid yw pawb â MCI yn datblygu'r clefyd.
 
-## What else can cause memory problems?
+## Beth arall all achosi problemau cof?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Gall nifer o bethau heblaw dementia effeithio ar gof, a gall rhai ohonynt wella gyda thriniaeth. Mae'r Sefydliad Cenedlaethol ar Heneiddio yn rhestru:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Problemau'r thyroid, yr arennau neu'r afu**
+- **Sgîl-effeithiau meddyginiaeth**
+- **Iselder ysbryd a phryder**
+- **Diffyg fitamin B12** neu beidio â bwyta digon o fwyd iach
+- **Problemau cysgu**
+- **Camddefnyddio alcohol neu gyffuriau**
+- **Heintiau, clotiau gwaed neu diwmorau** yn yr ymennydd
+- **Anaf i'r pen**, fel cyfergyd
+- **Straen mawr neu brofedigaeth**, fel ymddeoliad neu golli priod
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Gall problemau clyw a golwg hefyd gael eu camgymryd am ddryswch; gweler ein [canllaw clyw](/brain-health/hearing/). Dyna pam mae gwirio meddygol yn bwysig. Yn ôl [Cymdeithas Alzheimer](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), mae meddygon yn aml yn archebu profion gwaed i wirio am broblemau'r thyroid, diffygion fitamin a haint. Mae'n werth codi [cysgu](/brain-health/sleep/) da a thrin iselder ysbryd hefyd.
 
-## Sudden confusion is an emergency
+## Mae dryswch sydyn yn argyfwng
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Mae dryswch sy'n codi'n gyflym, dros oriau neu ddyddiau, angen gofal meddygol brys.** Gall fod yn delirwm. Mae'r [Adran Materion Veteranau](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) yn ei ddisgrifio fel argyfwng meddygol ac yn cynghori ffonio darparwr gofal iechyd y person ar unwaith neu ffonio 999. Mae arwyddion yn cynnwys:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Newidiadau yn y gallu i feddwl yn glir
+- Trafferth canolbwyntio
+- Meddwl anhrefnus
+- Bod yn anarferol o gysglyd, neu'n anarferol o bryderus ac ysgubol
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Gall hyn ddigwydd i unrhyw un, gan gynnwys pobl sy'n byw gyda dementia eisoes. Yn ôl y [GIG](https://www.nhs.uk/symptoms/confusion/), mae achosion cyffredin yn cynnwys heintiau (mae heintiau llwybr wrinol yn gyffredin ymhlith pobl hŷn a phobl â dementia), strôc, siwgr gwaed isel mewn pobl â diabetes, anaf i'r pen a rhai meddyginiaethau. Tra'ch bod yn aros am help, arhoswch gyda'r person a'i sicrhau ag eiriau byr a syml. Peidiwch â gofyn llawer o gwestiynau, a nodwch unrhyw feddyginiaethau y mae'n eu cymryd.
 
-## How do I prepare for the doctor's appointment?
+## Sut i baratoi ar gyfer apwyntiad y meddyg?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Mae apwyntiad da yn dechrau gydag nodiadau da. Mae [Cymdeithas Alzheimer](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) yn awgrymu dod â'r canlynol:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Rhestr o newidiadau** mewn cof, hwyliau ac ymddygiad, gydag enghreifftiau penodol a rhyw syniad o pryd y dechreuon nhw
+2. **Problemau iechyd yn y gorffennol a'r presennol**, gan gynnwys unrhyw hanes teuluol o broblemau cof
+3. **Pob presgripsiwn a meddyginiaeth dros y cownter**
+4. **Unrhyw fitaminau neu atchwanegion**
+5. **Eich cwestiynau**, fel pa brofion a wneir, pa mor hir y byddant yn cymryd a phryd y daw canlyniadau
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Mae hefyd yn helpu i ddod â aelod o'r teulu neu ffrind sy'n adnabod y person yn dda. Mae'r [Sefydliad Cenedlaethol ar Heneiddio yn egluro](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) y gall meddygon ofyn i'r person a aelod o'r teulu am iechyd, meddyginiaethau, gweithgareddau bob dydd a newidiadau mewn ymddygiad. Gall meddygon hefyd:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Roi profion o gof, datrys problemau, sylw, cyfrif a iaith
+- Archebu profion gwaed, wrin a phrofion eraill i edrych am achosion eraill
+- Gwirio am iselder ysbryd neu gyflwr iechyd meddwl arall
+- Archebu sganiau o'r ymennydd fel CT neu MRI
+- Anfon at arbenigwr, fel meddyg geriatrig, niwrolegydd, seiciatrydd geriatrig neu niwroseicolegydd
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+Mae'r Sefydliad Cenedlaethol ar Heneiddio yn nodi bod asesiad gwybyddol yn rhan ofynnol o ymweliad Blynyddol Iechyd Meddicare, a gall hwnnw fod yn amser naturiol i godi pryderon. Nid yw hyd yn oed y profion byr y mae meddygon yn eu defnyddio yn ddigon ar eu pennau eu hunain i wneud diagnosis o ddementia. Maent yn gam cyntaf tuag at asesu llawnach, a gall y diagnosis gymryd mwy nag un ymweliad. Mae'r Sefydliad Cenedlaethol ar Heneiddio yn cynghori i bobl â phroblemau cof ddychwelyd i'r meddyg bob 6 i 12 mis.
 
-## Raising the subject kindly
+## Codi'r pwnc yn garedig
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Os ydych yn poeni am rywun arall, dewiswch foment dawel a phreifat. Siaradwch am bethau penodol rydych wedi'u sylwi, gan eu fframio fel pryder am eu hiechyd yn hytrach na beirniadaeth. Gall awgrymu archwiliad cyffredinol deimlo'n llai dychrynllyd. Dylech gynnwys y person mewn penderfyniadau a siarad ag ef neu hi fel yr oedolyn y mae. Gall ein [canllaw cyfathrebu](/caregiving/communication-tips/) helpu gyda hynny.
 
-## Talk with a doctor
+## Siarad â meddyg
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Os ydych yn sylwi ar newidiadau mewn cof, meddwl, hwyliau neu alluoedd bob dydd sy'n newydd ac yn parhau, gwnewch apwyntiad gyda meddyg teulu. Mewn achos o ddryswch sydyn, ffoniwch 999 neu ddarparwr gofal iechyd y person ar unwaith. Mae cael gwirio'n gynnar yn golygu y gellir dod o hyd i achosion y gellir eu trin, ac os yw'n ddementia, mae mwy o amser i gynllunio a dod o hyd i gefnogaeth. Gofalwch amdanoch chi eich hun hefyd trwy hyn; gweler ein [canllaw gofalwr hunan-ofal](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Mae'r dudalen hon yn wybodaeth gyffredinol, nid cyngor meddygol. Gweler ein [ymwadiad meddygol](/medical-disclaimer/).

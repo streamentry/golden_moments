@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "ᐋᐱᓯᐢ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᐆᑌ ᐁᑲ ᐊᔭᐢᑭᐩ ᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ"
+seoTitle: "ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᑭᐢᑭᓄᐦᐊᒪᑲᓂᐘᐠ, ᐊᐢᑭ ᓇᐢᑲᒧᐏᓇ"
+description: "50 ᐋᐱᓯᐢ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᑭᐢᑭᓄᐦᐊᒪᑲᓂᐘᐠ ᐅᐦᒋ, ᐊᐢᑭ ᓇᐢᑲᒧᐏᓇ ᒥᓇ ᐋᑐᐢᑫᐏᓇ, ᒥᓇ ᑖᓂᓯ ᑲ ᐃᓯ ᒥᑖᐟ ᐁᑲ ᐊᐘᐠ ᑲ ᑯᐢᑕᒋᐦᐃᐟ ᒪᑲ ᐁᑲ ᑲ ᐘᓂᐦᐃᐟ."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  ᐋᐱᓯᐢ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᑭᐢᑭᓄᐦᐊᒪᑲᓂᐘᐠ ᐅᐦᒋ ᒥᔼᓯᐣ ᐋᐱᐦᑕᐘᐠ, ᐱᒥᐸᔨᒧᐏᐣ ᐃᑕᐢᑲᒥᑲᐣ ᒪᑲ ᓇᒨᐘ ᑯᐢᑕᒋᐦᐃᐌᐏᐣ. ᑲᑭᐢᑭᓄᐦᐊᒪᑫ ᑫᑲᐣ ᑲ ᑭᐢᑭᓄᐦᐊᒪᑭᐣ ᑳ ᒥᐦᑕᐟ ᐊᐢᑭᕀ, ᑖᐱᐢᑯᐨ ᑳ ᑭᔭᐢᐠ ᓂᑲᒧᓇ, ᐋᑐᐢᑫᐏᓇ, ᐦᐋᐱ ᑭᓯᑲᐘ ᒥᓇ ᑖᐱᐢᑯᐨ ᐱᒫᑎᓯᐏᐣ, ᒥᓇ ᑳᑭᑫ ᓃᓱ ᐊᐸ ᓂᐢᑐ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᒦᔭ. ᐑᐦᑖᒋᒧ ᓇᐢᑲᒧᐏᐣ, ᐁᑲ ᐊᐘᐠ ᐯᔭᑯ ᑲ ᐅᐦᒋ ᓈᐢᑕᐍᔭᐟ, ᐁᑲ ᐊᑲᒥᒋᐦᐃᑫ, ᒥᓇ ᑕᐱᐢᑯᐨ ᓇᐢᑲᒧᐏᐣ ᐅᐦᒋ ᐋᑐᐢᑫᐏᐣ ᒪᒋᐦᑖ. ᐆᒪ ᐊᐸ ᐆᒪ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᐁᑲ ᑲ ᐅᐦᒋ ᐸᑭᒋᓈᐢᑲᒥᑲᐣ ᓇᐢᑲᒧᐏᐣ ᓈᐢᐱᐨ ᒥᔼᓯᐘᐠ.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "ᑲᑭᐢᑭᓄᐦᐊᒪᑫ ᑫᑲᐣ ᑲ ᑭᐢᑭᓄᐦᐊᒪᑭᐣ ᑳ ᒥᐦᑕᐟ ᐊᐢᑭᕀ: ᓂᑲᒧᓇ, ᐋᑐᐢᑫᐏᓇ, ᐦᐋᐱ ᑭᓯᑲᐘ, ᒦᒋᐏᐣ ᒥᓇ ᑖᐱᐢᑯᐨ ᐱᒫᑎᓯᐏᐣ."
+  - "ᓃᓱ ᐊᐸ ᓂᐢᑐ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᒦᔭ ᑲ ᐃᓯ ᐅᐦᒋ ᓇᐢᑭᐢᑯᐦᐊᒧᐟ ᓇᐢᑲᒧᐏᐣ ᒪᑲ ᓇᒨᐘ ᑲ ᐅᐦᒋ ᑭᐢᑭᓯᐟ."
+  - "ᐑᐦᑖᒋᒧ ᓇᐢᑲᒧᐏᐣ ᒥᓇ ᐊᐦᑯᓯ ᐃᑐᐦᑖ. ᑕᐱᐢᑯᐨ ᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᑲ ᐅᐦᒋ ᒪᒋᐦᑖᑭᐣ ᐋᑐᐢᑫᐏᐣ ᒥᔼᐢᐸᔨᐏᐣ ᐁᐦ ᐃᐢᐸᔨᐦᑖᑭᐣ."
+  - "ᓇᒨᐘ ᐊᑲᒥᒋᐦᐃᑫᐏᐣ, ᓇᒨᐘ ᑲ ᐱᒥᐸᔨᑐᐦᑖᐟ ᐅᑎᐦᒋ, ᓇᒨᐘ ᐯᔭᑯ ᐊᐘᐠ ᑲ ᐅᐦᒋ ᓇᐢᑕᐍᔭᐟ. ᓇᐢᑲᒧᐏᓇ ᑲᐦᑭᔭᐤ ᐅᐦᒋ ᐯᔭᑯᐢᑲᓂᐏᐘᐠ."
+  - "ᐋᐱᐦᑕᐘᐠ ᐊᔭᐢᑭᓂᐘᐠ ᓇᐢᑲᒧᐏᐣ ᐅᐦᒋ ᐃᐢᐸᔨᐦᑖᑫᐏᐣ, ᑭᐍᐦᑎᓇᒧ ᐆᒪ ᐊᐸ ᐆᒪ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᐁᑲ ᑲ ᐅᐦᒋ ᐸᑭᒋᓈᐢᑲᒥᑲᐣ ᓇᐢᑲᒧᐏᐣ."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "ᓇᒨᐘ ᒥᔼᐢᐸᔨᐏᐣ ᐃᐢᐸᔨᐦᑖᑫᐏᐣ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᐊᐘ ᑲ ᐑᒋᐦᐃᐌᐟ ᑲ ᐊᔭᐟ ᑭᐢᑫᔭᐦᑕᒧᐏᐣ ᐊᔭᐢᑭᕀ?"
+    a: "ᑲ ᑭ ᐃᐢᐸᔨᐦᑖᑲᐣ, ᐋᐱᐦᑕᐘᐠ ᒥᑖᐟ ᐃᓯ ᐃᐢᐸᔨᐦᑕᒪᕽ. Alzheimer's Foundation of America ᐃᑌᐤ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᐱᐦᒋ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᓂᑲᓂᐦᑳᔭᐠ ᐅᐦᒋ. ᑲᑭᐢᑭᓄᐦᐊᒪᑫ ᑫᑲᐣ ᑲ ᑭᐢᑭᓄᐦᐊᒪᑭᐣ ᑳ ᒥᐦᑕᐟ ᐊᐢᑭᕀ, ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᒦᔭ, ᐁᑲ ᐊᐘᐠ ᐯᔭᑯ ᑲ ᐅᐦᒋ ᑯᐢᑕᒋᐦᐃᐟ, ᒥᓇ ᓇᐢᑲᒧᐏᓇ ᐅᐦᒋ ᐊᐸᒋᐦᐃᐟ ᐱᒥᐸᔨᒧᐏᐣ ᒪᑲ ᓇᒨᐘ ᑯᐢᑕᒋᐦᐃᐌᐏᐣ."
+  - q: "ᑖᓂᐦᑌ ᐋᑐᐢᑫᐏᓇ ᒥᔼᓯᐘᐠ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᐅᐦᒋ?"
+    a: "ᑫᑲᐣ ᑲ ᑭᐢᑭᓄᐦᐊᒪᑭᐣ ᑳ ᒥᐦᑕᐟ ᐊᐢᑭᕀ ᒥᔼᓯᐘᐠ: ᓂᑲᒧᓇ ᒥᓇ ᓂᑲᒧᐘᐠ ᐅᐦᒋ ᐅᐢᑭᓂᑭᐏᐣ, ᐋᑐᐢᑫᐏᓇ ᑲ ᑭᐢᑭᓄᐦᐊᒪᑭᐣ, ᐦᐋᐱ ᑭᓯᑲᐘ, ᒦᒋᐏᐣ, ᒣᑕᐍᐏᐣ, ᒥᓇ ᑖᐱᐢᑯᐨ ᐱᒫᑎᓯᐏᐣ. ᐁᑲ ᐅᐢᑭ ᐊᒋᒧᐏᓇ ᐊᐸᒋᐦᐃᐟ ᒥᓇ ᑫᑲᐣ ᑲ ᐅᐦᒋ ᑭᐢᑭᓯᐟ ᐅᒪ ᒥᑖᐟ ᐱᐦᒋ."
+  - q: "ᑖᓂᓯ ᑲ ᐃᓯ ᒥᑖᐟ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᑲᓇᐍᔨᐦᑖᑲᓂᕽ ᐁᑲ ᐊᐘᐠ ᑲ ᐅᐦᒋ ᓈᐢᑕᐍᔭᐟ?"
+    a: "ᑲᐦᑭᔭᐤ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᐊᔭᒥᐦᐃ, ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᐘᐋᐸᐦᑖ ᐊᐸ ᐃᑌ, ᒥᓇ ᓇᐢᑲᒧᐏᓇ ᐅᐦᒋ ᐅᑖᐱᓈᒧ ᑲᐦᑭᔭᐤ. ᐁᑲ ᐯᔭᑯ ᐊᐘᐠ ᑲ ᐅᐦᒋ ᓇᐢᑕᐍᔭᐟ ᒥᓇ ᐁᑲ ᐊᑲᒥᒋᐦᐃᑫ. ᐑᐦᑖᒋᒧ ᓇᐢᑲᒧᐏᐣ ᑕᐱᐢᑯᐨ ᐃᐢᐸᔨᐦᑖᑭᐣ, ᒥᓇ ᑲᑭᐢᑭᓄᐦᐊᒪᑫ ᒣᒋᐨ ᑖᐱᐢᑯᐨ ‹ᐊᐌᓀ ᐆᑌ ᑭ ᐃᑐᐦᑖᐤ?› ᐋᑐᐢᑫᐏᓇ ᐅᐦᒋ ᒪᒋᐦᑖᐟ."
+  - q: "ᑫᑯᐣ ᑲ ᑭ ᐃᐢᐸᔨᐦᑕᒪᐣ ᒣᒋᐨ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᐃᐢᑯᓯᐦᑳᔭᐠ ᐱᐦᒋ?"
+    a: "ᑭᐍᐦᑎᓇᒧ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᐁᑲ ᑲ ᐅᐦᒋ ᐸᑭᒋᓈᐢᑲᒥᑲᐣ ᓇᐢᑲᒧᐏᐣ, ᑖᐱᐢᑯᐨ ‹ᐱᐦᑲᑌᐚᐳᐩ ᐊᐸ ᒪᐢᑭᐦᑭᐚᐳᐩ?› ᐊᐸ ‹ᐎᔮᐢ ᐊᐸ ᐊᓯᐦᑭ?›, ᒥᓇ ᒫᒫᐏ ᑮᐢᐦᑕᔭᐣ ᐋᑐᐢᑫᐏᓇ ᐊᐸ ᓂᑲᒧᓇ. ᒫᒫᐏ ᒪᓯᓇᐦᐃᑲᓇ ᐘᐋᐸᐦᑕᒪᕽ ᒥᓇ ᐊᑐᐢᑫᒪᕽ ᒥᓇ ᒥᔼᓯᐣ."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᒥᐢᑕᐦᐃ ᓂᑕᐍᔨᐦᑖᑲᐣ ᒫᒫᐏ ᒣᑕᐍᐏᐣ ᑲᓇᐍᔨᐦᑖᑲᓂᕽ ᒥᓇ ᑭᓯᑲᐏ ᐅᐦᒋ ᒣᑕᐍᐏᓂᕽ, ᒥᓇ ᐘᐦᔭᐤ ᐚᐦᑯᐦᑐᐏᑲᒥᕽ ᒣᑕᐍᐘᐠ. ᑖᐱᐢᑯᐨ ᐃᓯ ᒣᑕᐍᐘᐠ, ᐊᐢᑭ ᐊᑲᒥᒋᐦᐃᑫᐏᐣ ᒥᓇ ᐯᔭᑯ ᐊᐘᐠ ᑲ ᓇᐢᑲᒧᐟ, ᐊᐘ ᑲ ᐑᒋᐦᐃᐌᐟ ᑲ ᐊᔭᐟ ᑭᐢᑫᔭᐦᑕᒧᐏᐣ ᐊᔭᐢᑭᕀ ᑲ ᑭ ᒥᐢᑲᐍᔨᒧᐤ ᐁ ᑯᐢᑕᒋᐦᐃᐟ. ᐋᐱᐦᑕᐘᐠ ᒥᑖᐟ ᐃᓯ ᒣᑕᐍᐘᐠ, ᒥᔼᓯᐣ ᐃᐢᐸᔨᐦᑖᑫᐏᐣ ᐋᑐᐢᑫᐏᓇ ᐅᐦᒋ ᐯᐦᑖᑲᐣ. ᐊᐢᑖᒧᐦᐨ 50 ᐋᐱᓯᐢ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᐊᐢᑭ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᒥᓇ ᑫᑲᐣ ᐅᐦᒋ ᐱᒥᐸᔨᒪᕽ, ᒥᓇ ᒣᒋᐨ ᑖᓂᓯ ᑲ ᐃᓯ ᒥᑖᐟ.
 
-## How do you make trivia work for someone with dementia?
+## ᑖᓂᓯ ᑲ ᐃᓯ ᒥᔼᐢᐸᔨᐦᑕᒪᕽ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᐊᐘ ᑲ ᐑᒋᐦᐃᐌᐟ ᑲ ᐊᔭᐟ ᑭᐢᑫᔭᐦᑕᒧᐏᐣ ᐊᔭᐢᑭᕀ?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+ᐃᐢᐸᔨᐦᑖ ᓇᐢᑭᐢᑯᐦᐊᒧᐏᐣ ᒥᓇ ᑭᐢᑭᓯᐏᐣ ᑳ ᒥᐦᑕᐟ ᐊᐢᑭᕀ ᑫᑲᓇ, ᒥᓇ ᑕᐱᐢᑯᐨ ᓇᐢᑲᒧᐏᐣ ᐅᑖᐱᓈᒧ.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **ᑲᑭᐢᑭᓄᐦᐊᒪᑫ ᑳ ᒥᐦᑕᐟ ᐊᐢᑭᕀ ᐅᐦᒋ.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ᐃᑌᐤ ᓂᑲᓂᐦᑳᔭᐠ ᐅᐢᑭ ᑭᐢᑭᓄᐦᐊᒪᑲᐣ ᐊᔭᐢᑭᓂᐘᐠ ᐅᐢᑭ ᑫᑲᓇ ᑲ ᐅᐦᒋ ᑭᐢᑭᓯᐟ. ᓂᑲᒧᓇ, ᐋᑐᐢᑫᐏᓇ ᒥᓇ ᑖᐱᐢᑯᐨ ᐱᒫᑎᓯᐏᐣ ᑳ ᒥᐦᑕᐟ ᐊᐢᑭᕀ ᐋᐱᐦᑕᐘᐠ ᐋᐱᓯᐢ ᐃᐢᐸᔨᐦᑖᑲᓂᐘᐘᐠ.
+2. **ᑳᑭᑫ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᒦᔭ.** ᓃᓱ ᐊᐸ ᓂᐢᑐ ᐅᐦᒋ ᓇᐢᑭᐢᑯᐦᐊᒧᐏᐣ ᐋᐱᐦᑕᐘ ᐋᐱᓯᐢ ᐃᐢᐸᔨᐦᑖᑲᐣ ᒪᑲ ᓇᒨᐘ ᑲ ᐅᐦᒋ ᑭᐢᑭᓯᐟ.
+3. **ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᐊᔭᒥᐦᐃ ᒥᓇ ᒥᐢᑖ ᐘᐋᐸᐦᑖ.** ᒥᐢᑖ ᒪᓯᓇᐦᐃᑲᐣ ᐊᐸ ᑕᐸᐢᑭᓯᑲᐣ ᐑᒋᐦᐃᐌᐤ ᐊᐘᐠ ᐋᐱᐦᑕᐘ ᓇᒨᐘ ᒥᔼ ᑲ ᐯᐦᑕᐟ.
+4. **ᐑᐦᑖᒋᒧ ᓇᐢᑲᒧᐏᐣ.** ᐊᐘᐠ ᐁᑲ ᑭᐢᑭᓄᐦᐊᒪᑭᐟ, ᐑᐦᑖᒋᒧ ᒥᓇ ᐊᐦᑯᓯ ᐃᑐᐦᑖ. ᐁᑲ ᐃᑌ ᐆᒪ ᐃᑐᐦᑖ ‹ᐑᐦᑖ, ᑭᑭᐢᑭᓄᐦᐊᒪᑖᐣ.›
+5. **ᓇᒨᐘ ᐊᑲᒥᒋᐦᐃᑫᐏᐣ.** ᓇᒨᐘ ᐯᔭᑯ ᐊᐘᐠ, ᓇᒨᐘ ᑕᐱᐢᑯᐨ. ᐊᑲᒥᒋᐦᐃᑫᐏᐣ ᓂᑕᐍᔨᒪᐘᐠ, ᐯᔭᑯ ᒫᒫᐏ ᐊᑲᒥᒋᐦᐃᑫᐏᐣ ᑲᓇᐍᔨᐦᑖ.
+6. **ᐁᑲ ᐯᔭᑯ ᐊᐘᐠ ᑲ ᐅᐦᒋ ᓇᐢᑕᐍᔭᐟ.** ᑲᐦᑭᔭᐤ ᐅᐦᒋ ᓇᐢᑲᒧᐏᐘᐠ. ᐯᔭᑯ ᐊᐘ ᐊᐢᑭ, ᒫᒫᐏ ᓇᐢᑲᒧ: ‹ᓂᑕᐃᑌᐦᑖᐣ ᐱᔭᓄ ᐁ ᐃᐢᐸᔨᐦᑖᑭᐣ. ᑮᔭ ᑖᓂᓯ ᑭᑕᐃᑌᐦᑖᐣ?›
+7. **ᐊᐸᒋᐦᐃ ᐱᒥᐸᔨᒧᐏᐣ.** ᓇᐢᑲᒧᐏᐣ ᒪᒋᐦᑖᐏᐣ ᐃᐢᐸᔨᐦᑖᑲᐣ, ᓇᒨᐘ ᐃᐢᑯᓯᐦᑖᐏᐣ. ᐋᑐᐢᑫᐏᓇ ᑖᐸᐦᑌ ᓂᑕᐍᔨᐦᑖᑲᓇ.
+8. **ᒋᒥᐢ ᐃᐢᐸᔨᐦᑖ.** ᒥᑖᐦ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᐊᐢᑭ ᐋᑐᐢᑫᐏᓇ ᑖᐱᐢᑰᐨ ᐦᐋᐱ ᐃᐢᐸᔨᐦᑖᑲᓇ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ᐋᐱᓯᐢ ᐃᑌᐤ ᐅᒪ ᐅᐦᒋ: ᑲᓇᐸᒥ ᐁᑲ ᑲ ᐅᐦᒋ ᒥᐢᑲᐍᔨᒪᐟ, ᒥᓇ ᑲᓇᐍᔨᐦ ᐊᐘ ᐁ ᒥᔼᐢᐸᔨᐦᑕᐟ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ᐃᑌᐤ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᐱᐦᒋ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᓂᑲᓂᐦᑳᔭᐠ ᐅᐦᒋ. ᑖᐱᐢᑰᐨ ᐱᐦᒋ, ᓃᓱ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᒦᔭ ᒥᓇ ᐊᐸᒋᐦᐃ ᐱᒥᐸᔨᒧᐏᓇ. ᐃᐢᑯᓯᐦᑳᔭᐠ ᐱᐦᒋ, ᑭᐍᐦᑎᓇᒧ ᐆᒪ ᐊᐸ ᐆᒪ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᐊᐢᑖᒧᐦᐨ.
 
-## Music and entertainment trivia
+## ᓂᑲᒧᐏᐣ ᒥᓇ ᒥᑖᐟ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+ᓇᐢᑲᒧᐏᐣ **ᒥᐢᑿᐦᑖᐢᑯᓯᐣ** ᐃᐢᐸᔨᐦᑖᑲᐣ. ᐊᐘ ᑲ ᐑᒋᐦᐃᐌᐟ ᐅᐦᒋ ᐃᓯ ᐊᔭ: ᐊᐘ ᑳ ᐅᐦᐱᑭᐦᐃᐟ ᒧᑕᐘᐣ ᓂᑲᒧᐏᓂᕽ ᑯᑕᑭᔭ ᓂᑲᒧᐘᐠ ᓂᑕᐍᔨᒪᐤ ᒪᑲ ᐊᐘ ᑳ ᐅᐦᐱᑭᐦᐃᐟ ᒥᐢᑖ ᓂᑲᒧᐏᓂᕽ.
 
-| Question | Choices | Talk about |
+| ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ | ᐃᐢᐸᔨᐦᑖᑫᐏᓇ | ᐱᒥᐸᔨᒧᐏᐣ |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| ᐊᐌᓀ ᑳ ᐃᓯ ᐏᐦᑖᐟ ᐅᑭᒫᐤ Rock and Roll ᐅᐦᒋ? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ᑭᑭ ᐘᐋᐸᒫᐤ ᓇ Elvis ᑕᐸᐢᑭᓯᑲᓂᕽ? |
+| ᐊᐌᓀ ᓂᑲᒧᐤ ᑳ ᐃᓯ ᐏᐦᑖᐟ Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | ᑖᓂᒪ Sinatra ᐅᓂᑲᒧᐣ ᒥᔼᓯᐣ? |
+| Bing Crosby ᑭ ᐸᐚᐱᐦᑖᐤ ᐚᐱᐢᑲᐤ... | **Christmas**, wedding, house | ᒫᒫᐏ ᓂᑲᒧᑕᐣ ᐯᔭᑯ ᐃᑌᐏᐣ |
+| Louis Armstrong ᑭ ᓂᑲᒧᐤ "What a Wonderful..." | Day, **World**, Life | ᑫᑯᐣ ᑲ ᐅᐦᒋ ᒥᔼᐢᐸᔨᐦᑖᑭᐣ ᐊᐢᑭ? |
+| "Over the Rainbow" Judy Garland ᑭ ᓂᑲᒧᐤ ᑖᓂᒪ ᒪᓯᓇᐦᐃᑲᓇᐦᑎᑯᐏᓂᕽ? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | ᑖᓂᑌ ᑭᑭ ᐘᐋᐸᐦᑖᐘᐠ ᒪᓯᓇᐦᐃᑲᓇᐦᑎᑯᐏᓇ ᑲ ᒥᔼᓯᔭᐣ? |
+| ᐊᐌᓀ Lucy ᑭ ᐃᐢᐸᔨᐦᐃᐤ "I Love Lucy" ᐱᐦᒋ? | **Lucille Ball**, Doris Day, Betty White | ᑖᓂᒪ ᐘᐋᐸᐦᑖᑲᓇ ᑭᑭ ᒫᒫᐏ ᐘᐋᐸᐦᑖᒻ? |
+| ᐊᐌᓀ ᒥᐢᑎᑯᓯᐤ ᑳ ᐯᒪᐦᐅᐦᐊᐟ Trigger ᐃᓯ ᒥᐢᑕᑎᒼ? | **Roy Rogers**, Gene Autry, John Wayne | ᑭᑭ ᒣᑕᐍᐤ ᒥᐢᑎᑯᓯᐘᐠ ᑳ ᐊᐚᓯᓯᔮᐣ? |
+| ᐊᐌᓀ ᑳ ᓂᑲᓂᐦᐃᐟ "The Tonight Show" 30 ᐊᐢᑭᐏᐣ? | Ed Sullivan, **Johnny Carson**, Bob Hope | ᑭᑭ ᐯᐢᑯᓯᐣ ᑕᐸᐢᑭᓯᑲᐣ ᐅᐦᒋ ᐘᐋᐸᐦᑕᒪᐣ? |
+| ᑖᓂᒪ ᓂᑲᒧᐦᐃᑲᐣ 88 ᐃᐢᑲᓇ ᐊᔭᐘ? | Guitar, **piano**, trumpet | ᐊᐘᐠ ᓇ ᑭᐚᐦᑯᐦᑐᐏᑲᒥᕽ ᑭ ᓂᑲᒧᐤ? |
+| ᑖᓂᒪ ᓃᒥᐦᐃᑐᐏᐣ ᐯᔭᑯ-ᓃᓱ-ᓂᐢᑐ, ᐯᔭᑯ-ᓃᓱ-ᓂᐢᑐ ᐃᓯ ᐊᑲᒥᒋᐦᐃᑲᑌᐤ? | **Waltz**, twist, tango | ᑖᓂᑌ ᑭᑭ ᐃᑐᐦᑖᐣ ᓃᒥᐦᐃᑐᐏᐣ ᐅᐦᒋ? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+ᓂᑲᒧᐏᐣ ᐅᐦᒋ ᒥᓇ ᐊᔭ ᐘᐋᐸᐦᑕ, [ᓂᑲᒧᐏᐣ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᐊᐘᐠ ᑲ ᐑᒋᐦᐃᐌᐟ ᑲ ᐊᔭᐟ ᑭᐢᑫᔭᐦᑕᒧᐏᐣ ᐊᔭᐢᑭᕀ ᐅᐦᒋ](/activities/music/).
 
-## Everyday life trivia
+## ᑖᐱᐢᑯᐨ ᐱᒫᑎᓯᐏᐣ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ
 
-| Question | Choices | Talk about |
+| ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ | ᐃᐢᐸᔨᐦᑖᑫᐏᓇ | ᐱᒥᐸᔨᒧᐏᐣ |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| ᑲ ᒪᐢᑭᓈᐚᐸᐣ ᐁᑲ ᐅᐦᒋ ᐅᓯᐦᑖᑲᓂᐘᐠ, ᒦᒋᐏᐣ ᑕᐦᑭᐱᐏᓂᕽ ᑭ ᐊᐢᑕᐘᐠ... | **ᒪᐢᑯᐚᐳᐩ**, ᐸᑭᓯᑲᐣ, ᐃᐢᐸᒥᕽ | ᐊᐌᓀ ᑳ ᐱᑖᐟ ᒪᐢᑯᐚᐳᐩ? |
+| ᐊᐌᓀ ᑳ ᐱᑖᐟ ᑐᑐᐢᐋᐳᐩ ᐚᐱᒧᑯᒋᑲᓂᕽ ᐃᐢᑿᐦᑖᒥᓂᕽ? | ᒪᓯᓇᐦᐃᑲᓐ ᐅᐦᒋ, **ᑐᑐᐢᐋᐳᐚᐤ**, ᒪᓯᓇᐦᐃᑲᓐ ᐅᐢᑭᓂᑭᐤ | ᑫᑯᐣ ᒥᓇ ᐘᐦᑯᐦᑐᐏᑲᒥᕽ ᑭ ᐱᑖᑲᐣ? |
+| ᑖᓂᓯ ᑭᑭ ᐃᓯ ᑲᐏᓯᓇᐦᐊᒪᐤ ᐱᒥᐱᔨᑲᐣ? | ᒪᒥᐦᑭᓇᐦᐊᒪᐣ, **ᐱᒥᐱᔨᑫᐏᐣ**, ᐱᐦᑯ ᐃᑌᐣ | ᐋᑐᐢᑯᒧ ᐱᒥᐱᔨᑲᐣ ᑭᐘᐦᑯᐦᑐᐏᑲᒥᕽ ᐅᐦᒋ |
+| ᑖᓂᒪ ᒪᐚᐨ ᑳ ᐅᓯᐦᑖᐟ Model T ᐅᑖᐹᐢᑯᐤ? | **Ford**, Chevrolet, Buick | ᐋᑐᐢᑯᒧ ᐅᑖᐹᐢᑯᐤ ᑲ ᒥᔼᓯᔭᐣ |
+| ᑖᓂᑌ ᑲ ᑭ ᒥᑲᐘᐟ soda jerk? | **soda fountain ᐱᐦᒋ**, ᐸᐦᑵᓯᑲᓂᕽ, ᓲᓂᔮᐏᑲᒥᕽ | ᑫᑯᐣ ᑭᑭ ᓂᑕᐍᔨᐦᑖᐣ ᐊᐱᐦᑕ ᐁ ᓂᐹᔭᐣ? |
+| ᑖᓂᒪ ᒣᑕᐍᐏᐣ ᐱᐚᐱᐢᑯ ᑲ ᐃᓯ ᐱᒥᐸᐦᐟ ᐊᒥᐢᐸᒋᐦᑖᐤ? | Yo-yo, **Slinky**, hula hoop | ᑖᓂᒪ ᒣᑕᐍᐏᓇ ᑭᑭ ᓵᑭᐦᑖᐘ? |
+| drive-in ᑖᓂᑌ ᑲ ᐘᐋᐸᐦᑕᒪᐣ... | **ᒪᓯᓇᐦᐃᑲᓇᐦᑎᑯᐏᓇ ᑭᑖᐹᐢᑰᕽ ᐅᐦᒋ**, ᒣᑕᐍᐏᓇ, ᐱᒥᐸᔨᐏᓇ | ᐊᐌᓀ ᐊᐢᑭ ᑭᑭ ᐑᒋᐦᐃᐤ? |
+| ᐊᐌᓀ ᐅᒥᐦᑎᐣ ᐯᔭᑯ ᓲᓂᔮᐤ ᐅᐦᒋ? | Lincoln, **George Washington**, Jefferson | ᑫᑯᐣ ᐯᔭᑯ ᓲᓂᔮᐤ ᑭ ᐊᑖᐍᐦᑖᐤ ᐊᐦᑯᓯᕽ? |
+| ᐊᐌᓀ ᐅᒥᐦᑎᐣ penny ᐅᐦᒋ? | **Abraham Lincoln**, Washington, Franklin | ᑭᑭ ᑲᓇᐍᔨᐦᑖᐘᐠ ᓇ pennies ᒧᐢᑭᒧᐦᑯᒋᑲᓂᕽ? |
+| ᑖᓂᒪ ᐃᓯᓈᑯᓯᐤ ᑭᐢᑭᓄᐦᐊᒪᑖᐏ ᐅᑖᐹᐢᑯᐤ ᒥᐢᑕᐦᐃ? | ᒥᐦᑯ, **ᐅᓵᐚᐤ**, ᐊᐢᑭᐸᑿᐤ | ᑖᓂᓯ ᑭᑭ ᐃᑐᐦᑖᐣ ᑭᐢᑭᓄᐦᐊᒪᑖᐏᑲᒥᕽ? |
 
-## Holidays, nature and places
+## ᐦᐋᐱ ᑭᓯᑲᐘ, ᐊᐢᑭ ᒥᓇ ᐃᑌᐘ
 
-| Question | Choices | Talk about |
+| ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ | ᐃᐢᐸᔨᐦᑖᑫᐏᓇ | ᐱᒥᐸᔨᒧᐏᐣ |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| ᑖᓂᒪ ᐦᐋᐱ ᑭᓯᑲᐤ ᓀᐓ ᑭᓯᑲᐏ ᐊᔭᒥᐦᐁᐏᑭᓯᑲᐤ ᐱᐦᒋ November? | Labor Day, **Thanksgiving**, Memorial Day | ᑫᑯᐣ ᑳᑭᑫ ᐊᑐᐦᑎᑯᔮᐣ ᑭᑎᐱᐢᑯᐦᑯᒥᕽ? |
+| Jack-o'-lanterns ᑖᓂᒪ ᐦᐋᐱ ᑭᓯᑲᐤ ᐅᐦᒋ ᐅᓯᐦᑖᑲᓂᐘᐘᐠ? | **Halloween**, Easter, Christmas | ᐋᑐᐢᑯᒧ Halloween ᑖᓂᑌ ᑳ ᐅᐦᐱᑭᔭᐣ |
+| Fourth of July ᒥᑭᐢᑯᓯᐦᑖᐤ Declaration of... | Rights, **Independence**, Freedom | ᑖᓂᑌ ᑭᑭ ᐘᐋᐸᐦᑖᐘᐠ ᐃᐢᑯᑌᐘ? |
+| Mother's Day ᑖᓂᒪ ᐱᐢᐱᓂᕽ ᐃᐢᐸᔨᐦᑖᑲᐣ? | April, **May**, June | ᑖᓂᓯ ᑭᐚᐦᑯᐦᑐᐏᑲᒥᐚᐤ ᑭ ᐃᓯ ᒥᑭᐢᑯᓯᐦᑖᐘᐠ? |
+| ᑖᓂᑌᐦ ᐊᒑᐦᑯᓴ ᐊᒥᐦᐁᕑᐃᑲ ᑭᐢᑫᐏᓂᑲᓂᕽ ᐊᔭᐘᐠ? | 48, **50**, 52 | ᑭᐢᑫᐏᓂᑲᐣ 48 ᐊᒑᐦᑯᓴ ᑭ ᐊᔭᐚᐘ ᐱᑯ 1959. ᑕᐱᐢᑯᐨ ᓇᐢᑲᒧᐏᐣ ᒥᔼ ᑭᐢᑭᓯᐏᐣ ᐃᐢᐸᔨᐦᑖᑲᐣ |
+| ᑖᓂᒪ ᒥᐢᑕᐦᐋᑲᒥ ᐚᐸᓄᕽ ᐊᔭᐤ? | Pacific, **Atlantic**, Arctic | ᑭᑭ ᐃᑐᐦᑖᐣ ᓇ ᐎᔮᐢ ᐃᑌ? |
+| ᑖᓂᒪ ᐆᑌᓈᐤ ᐱᐦᒋ ᐊᔭᐤ Statue of Liberty? | Boston, **New York**, Philadelphia | ᑭᑭ ᐃᑐᐦᑖᐣ ᓇ New York ᐃᑌ? |
+| ᑫᑯᐣ ᐋᒨᐘᐠ ᐅᓯᐦᑖᐘᐠ? | ᑐᑐᐢᐋᐳᐩ, **ᐋᒧ ᓰᐚᐳᐩ**, ᓰᐢᑲᐤ | ᐋᒧ ᓰᐚᐳᐩ ᐸᐦᑵᓯᑲᓂᕽ ᐊᐸ ᒪᐢᑭᐦᑭᐚᐳᕽ? |
+| ᐅᐢᑭᓯᓯᐢ ᒧᐢᑐᐢ ᐃᓯ ᐏᐦᑖᐤ... | Foal, **calf**, kid | ᑭᑭ ᐑᑭᐣ ᓇ ᐦᐋᐱ ᑭᐢᑎᑲᓂᕽ ᒋᑲᐦᐃᑲᓂᕽ? |
+| ᑖᓂᒪ ᑭᓄᓯᐤ ᐅᓵᐚᐤ ᐚᐢᑲᐦᐅᐣ ᑳ ᐱᒥᑯᐢᑿᐟ ᐱᓯᒧᐤ ᐅᐦᒋ? | Rose, **sunflower**, tulip | ᑫᑯᐣ ᑭᑭ ᓂᑖᐏᑭᐦᑖᐣ ᑭᑭᐢᑕᑲᓂᕽ? |
+| ᑖᓂᑌᐦ ᑭᓯᑲᐘ ᐊᔭᐘ leap year ᐱᐦᒋ? | 365, **366**, 360 | ᐋᑐᐢᑯᒧ ᓂᐱ ᑭᓯᑲᐤ ᑲ ᑭᐢᑭᓯᔭᐣ |
+| ᑖᓂᒪ ᐱᐳᐣ ᐱᐳᓂᕽ ᒥᒋᐨ ᐯᔭᑯᐢᑲᐣ? | ᑕᑿᑭᐣ, **ᒥᔪᐢᑲᒥᐣ**, ᓃᐱᐣ | ᑖᓂᒪ ᐱᐳᐣ ᒥᔼᓯᐣ? |
 
-## Food and sports trivia
+## ᒦᒋᐏᐣ ᒥᓇ ᒣᑕᐍᐏᐣ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ
 
-| Question | Choices | Talk about |
+| ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ | ᐃᐢᐸᔨᐦᑖᑫᐏᓇ | ᐱᒥᐸᔨᒧᐏᐣ |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| ᐹᐢᑕᑯ ᓲᒥᓇ ᐅᐦᒋ ᐅᓯᐦᑖᑲᓂᐘᐘᐠ... | ᐸᑳᓇ, **ᓲᒥᓇ**, ᐅᑭᐏᒥᓇ | ᑭᑭ ᐊᔭᐘᐠ ᓇ ᐹᐢᑕᑯ ᓲᒥᓇ ᒦᒋᐏᓂᕽ? |
+| ᐹᐢᑕᑯ ᐸᑳᓇ ᐅᐦᒋ ᐅᓯᐦᑖᑲᓂᐘᐘᐠ... | **ᐸᑳᓇ**, ᐸᑳᓇᑎᐠ, ᐚᐱᒥᓇ | ᐊᐌᓀ ᑭᐚᐦᑯᐦᑐᐏᑲᒥᕽ ᑭ ᓵᑭᐦᑖᐤ ᐹᐢᑕᑯ ᐸᑳᓇ? |
+| Peanut butter ᒥᓇ... | **ᓰᐚᐱᐢ**, ᑐᑐᐢᐋᐳᓯᐢ, ᑯᐦᑯᐢ ᐘᔮᐢ | ᒥᐢᑯᓯᐤ ᐊᐸ ᓱᓴᐤ? |
+| Guacamole ᒥᐢᑕᐦᐃ ᐅᐦᒋ ᐅᓯᐦᑖᑲᐣ... | ᐱᐢᑿᐤ, **avocados**, ᐅᑭᐢᑯᒧᐣ | ᑖᓂᒪ ᑲ ᑎᐸᐦᐃᑲᑌᐠ ᒣᑕᐍᐏᓂᕽ ᐅᐦᒋ? |
+| ᑖᓂᒪ ᐸᐦᑵᐢ ᒥᔼᓯᐣ Thanksgiving ᐅᐦᒋ? | **ᐅᐢᑭᑌᓯᐸᑯᐦᑯᐢ**, ᐅᓵᐚᐸᑯᐦᑯᐢ, ᐅᑭᐏᒥᐸᑯᐦᑯᐢ | ᑖᓂᒪ ᐸᐦᑵᐢ ᑭᑭ ᐅᓯᐦᑖᐣ? |
+| ᑖᓂᑌᐦ ᐊᐘᐠ ᒣᑕᐍᐤ baseball ᐅᑎᐦᒋ ᐊᐢᑭᕽ? | 7, **9**, 11 | ᑖᓂᒪ ᐅᑎᕽ ᑭᑭ ᐑᒋᐦᐃᐤ ᒣᑕᐍᐏᐣ ᐅᐦᒋ? |
+| ᑖᓂᑌᐦ strikes ᐯᔭᑯ ᐅᐦᒋ ᐊᐚᐱᐦᐃᑲᐣ baseball ᐱᐦᒋ? | ᓃᓱ, **ᓂᐢᑐ**, ᓀᐓ | ᑭᑭ ᒣᑕᐍᐣ ᓇ ᐸᐠ? |
+| Babe Ruth ᑖᓂᒪ ᒣᑕᐍᐏᐣ ᐅᐦᒋ ᑭᐢᑭᓄᐦᐊᒪᑲᓂᐤ? | ᐸᑯᐦᐊᒧᐏᐣ, **baseball**, golf | ᑭᑭ ᐃᑐᐦᑖᐣ ᓇ ᒣᑕᐍᐏᓂᕽ? |
+| ᑖᓂᑌᐦ ᐘᑎᑲᓇ ᒥᐢᑕᐦᐃ ᐊᔭᐘ golf ᐃᑌ? | 9, **18**, 24 | ᑭᑭ ᒣᑕᐍᐣ ᓇ golf, ᐊᐸ ᒋᒥᐢ golf? |
+| ᑖᓂᒪ ᒣᑕᐍᐏᐣ ᐱᐦᒋ touchdown ᑲ ᐅᐦᒋ ᐊᑲᒥᒋᐦᐃᑲᑌᐠ? | **Football**, hockey, basketball | ᐊᐌᓀ ᑭᐘᐦᑯᐦᑐᐏᑲᒥᕽ ᑭ ᐘᐋᐸᐦᑕᐤ football? |
 
-## Familiar sayings
+## ᐋᑐᐢᑫᐏᓇ ᑲ ᑭᐢᑭᓄᐦᐊᒪᑭᐣ
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+ᐋᑐᐢᑫᐏᐣ ᑮᐢᐦᑕᔭᐣ ᑭᐢᑭᓯᐏᐣ ᑳ ᒥᐦᑕᐟ ᐊᐢᑭᕀ ᐅᐦᒋ ᐊᐸᒋᐦᐃᑲᐣ ᒥᓇ ᐋᐱᐦᑕᐘ ᐋᐱᓯᐢ ᐯᔭᑯᐢᑲᐣ. [Finish the saying](/games/finish-the-saying/) ᒣᑕᐍᐏᐣ ᒥᓇ ᒥᐢᑕᐦᐃ ᐊᔭᐘ, ᑕᐸᐦᐊᒧᐏᐣ ᐊᐢᑭ ᑮᐢᐦᑕᔭᐣ ᐅᐦᒋ ᐘᐋᐸᐦᑕᒪᐣ.
 
-| Saying | Choices | Talk about |
+| ᐋᑐᐢᑫᐏᐣ | ᐃᐢᐸᔨᐦᑖᑫᐏᓇ | ᐱᒥᐸᔨᒧᐏᐣ |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| ᐯᔭᑯ ᐚᐱᒥᐣ ᑕᐱᐢᑯᐨ ᑭᓯᑲᐤ ᐊᐚᐸᐦᑖᐤ... | **ᒪᐢᑭᐦᑭᐏᓂᓂᐘ**, ᑭᒧᐘᐣ, ᒥᓅᐢ | ᐊᐌᓀ ᑭ ᐃᑎᐢᑯᐤ ᐆᒪ? |
+| ᑭᑭᓭᐹ ᐱᐦᔦᓯᐢ ᐅᑎᓂᒻ... | ᐅᑖᐹᐢᑯ, **ᒪᓀᐦᓯᐢ**, ᐃᐢᑯᑌᐤ | ᑭᑭᓭᐹᐤ ᓇ ᐃᔨᓂᐤ ᑭᔭ? |
+| ᐁᑲ ᐊᑲᒥᒪᐟ ᑭᐹᑲᐦᐠᐚᑯᐘᐠ ᐁᑲ ᒪᐢᑿᐨ ᐅᐦᒋ... | **ᐹᑭᓯᐘᐠ**, ᓂᐹᐘᐠ, ᓂᑲᒧᐘᐠ | ᑭᐚᐦᑯᐦᑐᐏᑲᒥᐚᐤ ᑭ ᑲᓇᐍᔨᒪᐘᐠ ᓇ ᐹᑲᐦᐠᐚᑯᐘᐠ? |
+| ᐯᔭᑯ ᓲᓂᔮᓯᐢ ᑲ ᑲᓇᐍᔨᐦᑕᒪᐣ ᐯᔭᑯ ᓲᓂᔮᓯᐢ... | **ᑲ ᑭ ᐅᐦᒋ ᐊᔭᔭᐣ**, ᑲ ᐘᓂᐦᑕᔭᐣ, ᑲ ᒣᐢᑎᓇᔭᐣ | ᐊᐌᓀ ᑳ ᑲᓇᐍᔨᐦᑖᐟ ᑭᐚᐦᑯᐦᑐᐏᑲᒥᕽ? |
+| ᐘᐦᑯᐦᑐᐏᐣ ᐃᑌ ᐊᔭᐤ ᑖᓂᑌ... | ᑭᐢᑕᑲᐣ ᐁ ᐃᑌᑭᐣ, **ᒥᑖᐦᐃ ᐁ ᐃᑌᑭᐣ**, ᑭᐦᒋ ᐘᐦᑯᐦᑐᐏᑲᒥᕽ ᐁ ᐃᑌᑭᐣ | ᑫᑯᐣ ᑲ ᐅᐦᒋ ᐘᐦᑯᐦᑐᐏᐣ ᒥᔼᐢᐸᔨᐦᑖᑭᐣ? |
+| ᓈᐢᐸᐨ ᐱᐢᑯᐨ ᒪᑲ ᓇᒨᐘ... | ᐑᐸᐦ, **ᒨᓇ**, ᒥᐢᑲᐍᔨᒧᐏᐣ | ᐊᐌᓀ ᑳᑭᑫ ᓈᐢᐸᐟ? |
+| ᑕᐱᐢᑯᐨ ᐩᐦᑯᐢ ᐊᔭᐤ ᓲᓂᔮᐤ... | **ᐊᐢᐸᐱᐢ**, ᐁᒥᐦᑯᓇᑲᐣ, ᓲᓂᔮᓯᐢ | ᐋᑐᐢᑯᒧ ᒥᔼ ᑲ ᐃᐢᐸᔨᐦᑖᑭᐣ |
+| ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᐊᐦᑯᓯ ᐱᐦᑯ ᐃᑌᐘ ᒪᑲ... | **ᐃᑌᐏᓇ**, ᓂᑲᒧᐏᐣ, ᐱᐦᑭᓯᒧᐏᐣ | ᐋᑐᐢᑯᒧ ᐊᐘ ᑳ ᑭ ᐃᑌᐟ ᐆᒪ |
 
-## This-or-that questions with no wrong answer
+## ᐆᒪ ᐊᐸ ᐆᒪ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᐁᑲ ᑲ ᐅᐦᒋ ᐸᑭᒋᓈᐢᑲᒥᑲᐣ ᓇᐢᑲᒧᐏᐣ
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+ᐆᑭ ᑲᐦᑭᔭᐤ ᐱᐦᒋ ᒥᔼᓯᐘᐠ, ᐃᐢᑯᓯᐦᑳᔭᐠ ᐱᐦᒋ ᒥᓇ ᐃᐢᐸᔨᐦᑖᑲᓂᐘᐘᐠ, ᒪᐚᐨ ᓇᒨᐘ ᐸᑭᒋᓈᐢᑲᒥᑲᐣ ᓇᐢᑲᒧᐏᐣ ᐊᔭᐤ. ᑲᑭᐢᑭᓄᐦᐊᒪᑫ, ᓈᑕᐍᔭ, ᒥᓇ ᑮᔭ ᒥᓇ ᐑᐦᑖᒋᒧ.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- ᐱᐦᑲᑌᐚᐳᐩ ᐊᐸ ᒪᐢᑭᐦᑭᐚᐳᐩ?
+- ᐎᔮᐢ ᐊᐸ ᐊᓯᐦᑭ?
+- ᐊᑎᒧᐘᐠ ᐊᐸ ᒥᓅᓴᐠ?
+- ᓃᐱᐣ ᐊᐸ ᐱᐳᐣ?
+- ᐸᐦᑵᐢ ᐊᐸ ᑫᑭᐢ?
+- ᓃᒥᐦᐃᑐᐏᐣ ᐊᐸ ᐘᐋᐸᐦᑕᒧᐏᐣ?
+- ᐚᐸᐣ ᐊᐸ ᐸᑭᓯᒧᐤ?
+- ᓂᑲᓂᐦᑳᐣ ᐊᐸ ᐅᑖᐣ ᑭᐢᑕᑲᐣ?
+- ᓇᐢᑕᐍᔨᐦᑖᑲᐣ ᐊᐸ ᒪᓯᓇᐦᐃᑲᓇ?
+- ᐸᐦᑵᓯᑲᓇ ᐊᐸ ᐚᐘ?
+- ᐅᑭᓂᐚᐢᑲᐦᑯᓇ ᐊᐸ ᐚᐢᑲᐦᐅᓇ?
+- ᐃᐢᑯᑌᐏ ᐱᒥᐸᔨᐏᐣ ᐊᐸ ᒣᐢᑲᓇᐤ ᐱᒥᐸᔨᐏᐣ?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+ᐱᒥᐸᔨᒧᐏᓇ ᐊᐢᑭ ᒪᓯᓇᐦᐃᑲᓇ ᐅᐦᒋ, ᒪᓯᓇᐦᐃᑲᐣ ᐅᐦᒋ [Conversation cards](/games/conversation-cards/) ᑯᒋᐦᑖ.
 
-## How do you run a trivia session in a care home or group?
+## ᑖᓂᓯ ᑲ ᐃᓯ ᒥᑖᐟ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᑲᓇᐍᔨᐦᑖᑲᓂᕽ ᐊᐸ ᒫᒫᐏ ᒣᑕᐍᐏᓂᕽ?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **ᐊᐱᐦᐊ ᐊᐘᐠ ᑲ ᑭ ᐘᐋᐸᐦᑕᐟ ᒥᓇ ᑲ ᑭ ᐯᐦᑕᐟ.** ᐯᐦᑕᒧᐦᐃᑲᓇ ᐱᐦᒋ, ᐘᐋᐸᐦᑖᒧᐦᐃᑲᓇ ᐱᐦᒋ, ᑕᐸᐢᑭᓯᑲᐣ ᑭᐱᐦᐊ.
+2. **ᐱᒥᐸᔨᒧᐏᐣ ᐃᓯ ᐏᐦᑖᒋᒧ.** ‹ᓂᑕᔭᐚᐘᐠ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ ᑳ ᒥᐦᑕᐟ ᐊᐢᑭᕀ ᐅᐦᒋ, ᒥᓇ ᓂᑕᐃᑌᐦᑖᐣ ᐊᐦᑯᓯ ᑭᑭᐢᑭᓄᐦᐊᒪᑖᓈᐚᐤ ᒪᑲ ᓃᔭ.›
+3. **ᑕᐱᐢᑯᐨ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᓃᓱᐤ ᐊᔭᒥᐦᐃ ᒥᓇ ᒥᐢᑖ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᐘᐋᐸᐦᑖ.**
+4. **ᐅᑖᐱᓈᒧ ᓇᐢᑲᒧᐏᐣ ᑖᓂᑌ ᐅᐦᒋ.** ᒥᔼ ᓇᐢᑲᒧᐏᓇ ᒥᓇ ᐃᑌ ᑲᐦᑭᔭᐤ ᑲ ᐯᐦᑕᐟ.
+5. **ᑲᐦᑭᔭᐤ ᐅᐦᒋ ᐑᐦᑖᒋᒧ ᓇᐢᑲᒧᐏᐣ,** ᒥᓇ ᒣᒋᐨ ᐱᒥᐸᔨᒧᐏᐣ ᑲᑭᐢᑭᓄᐦᐊᒪᒧ.
+6. **ᐸᒥᐦᑖ ᒪᐢᑭᐦᑭᔭᐤ.** ᐯᔭᑯ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᒥᑖᐦ ᒥᓂᐢ ᐋᑐᐢᑫᐏᓇ ᒪᒋᐦᑖᑭᐣ, ᐱᐦᑯ ᐃᑌ.
+7. **ᓂᑲᒧᐏᐣ ᐊᐸ ᐆᒪ ᐊᐸ ᐆᒪ ᐅᐦᒋ ᐃᐢᑯᓯᐦᑖ,** ᑲᐦᑭᔭᐤ ᐋᐱᓯᐢ ᑫᑲᐣ ᐅᐦᒋ ᑲ ᐃᐢᑯᓯᐦᑖᐟ.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+ᒥᓇ ᒫᒫᐏ ᒣᑕᐍᐏᓇ ᐅᐦᒋ, ᑖᐱᐢᑯᐨ ᒪᓯᓇᐦᐃᑲᐣ ᐯᐦᑯᐦᐃᑫᐏᐣ ᒥᓇ ᒫᒫᐏ ᓂᑲᒧᐏᐣ, ᐘᐋᐸᐦᑕ [ᒫᒫᐏ ᒣᑕᐍᐏᓇ ᑲᓇᐍᔨᐦᑖᑲᓂᕽ ᐅᐦᒋ](/activities/care-home-groups/).
 
-## When to change the plan
+## ᑖᓂᐦᑌ ᑲ ᐃᓯ ᒥᐢᑕ ᐊᔭᔭᐣ
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+ᐊᐘ ᒥᐢᑲᐍᔨᒧᐤ ᐘᐋᐸᐦᑕᒪᐣ, ᐸᐦᐱᐤ, ᐊᐸ ᓃᓱᐤ ᐃᑌᐤ ‹ᓇᒨᐘ ᓂᑭᐢᑭᓄᐦᐊᒪᑖᐣ›, ᐋᐱᓯᐢ ᐃᓯ ᐃᐢᐸᔨᐦᑖ: ᓃᓱ ᐃᐢᐸᔨᐦᑖᑫᐏᓇ ᐱᑯ ᒦᔭ, ᒫᒫᐏ ᓇᐢᑲᒧ, ᐊᐸ ᑭᐍᐦᑎᓇᒧ ᐆᒪ ᐊᐸ ᐆᒪ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᓇ. ᒫᒫᐏ ᒣᑕᐍᐘᐠ ᐯᔭᑯ ᑲᑭᐢᑭᓄᐦᐊᒪᑫᐏᐣ ᐅᐦᒋ ᑭᓯᑲᐤ ᐊᐱᐦᑕ ᐱᒥᐸᔨᒧᐘᐠ, ᒥᔼᐢᐸᔨᐏᐣ ᐁᐦ ᐃᐢᐸᔨᐦᑖᑭᐣ. ᓇᐢᑲᒧᐏᓇ ᑲ ᑕᐱᐢᑯᓯᐘᐠ ᓇᒨᐘ ᐅᒪ ᓂᑕᐍᔨᐦᑖᑲᓐ. ᒥᔼ ᐑᒋᐦᐃᐌᐏᐣ ᐅᒪ ᓂᑕᐍᔨᐦᑖᑲᐣ.

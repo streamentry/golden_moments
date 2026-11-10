@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "សកម្មភាព និងល្បែងសម្រាប់អ្នកដែលមានជំងឺអាល់ហ្សៃមឺ"
+seoTitle: "សកម្មភាពនិងល្បែងសម្រាប់ជំងឺអាល់ហ្សៃមឺតាមដំណាក់កាល"
+description: "សកម្មភាព និងល្បែងសម្រាប់អ្នកដែលមានជំងឺអាល់ហ្សៃមឺតាមដំណាក់កាល ផ្អែកលើជំនាញនិងអនុស្សាវរីយ៍ដែលនៅសេសសល់ និងល្បែងឥតគិតថ្លៃសម្រាប់លេងជាមួយគ្នា។"
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  សកម្មភាពល្អៗសម្រាប់អ្នកដែលមានជំងឺអាល់ហ្សៃមឺ គួរផ្អែកលើអ្វីដែលនៅសេសសល់យូរជាងគេ៖
+  ជំនាញដែលបានធ្វើអស់រយៈពេលយូរ បទចម្រៀងចាស់ៗ កិច្ចការផ្ទះដែលធ្លាប់ស្គាល់
+  និងការប្រើប្រាស់ប្រសាទទាំងប្រាំ។ នៅដំណាក់កាលដំបូង ការលេងបៀ ល្បែងក្តារ
+  ការធ្វើម្ហូប និងការចេញទៅក្រៅ ជាញឹកញាប់នៅតែអាចធ្វើបាន។ នៅដំណាក់កាលកណ្តាល
+  អ្នកអាចសាកល្បងបត់សម្លៀកបំរើ តម្រៀប ច្រៀង មើលអាល់ប៊ុមរូបថត
+  និងលេងល្បែងរូបភាពសាមញ្ញៗ។ នៅដំណាក់កាលចុងក្រោយ តន្ត្រី ការប៉ះ
+  និងការនៅជាមួយគ្នា គឺជាអ្វីសំខាន់បំផុត។ សូមជ្រើសរើសតាមស្ថានភាពរបស់អ្នកនៅថ្ងៃនេះ។
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "ជំងឺអាល់ហ្សៃមឺគឺជាមូលហេតុទូទៅបំផុតនៃជំងឺវង្វេង ដូច្នេះគំនិតសកម្មភាពសម្រាប់ជំងឺវង្វេងក៏អាចអនុវត្តបានសម្រាប់ជំងឺនេះដែរ។"
+  - "ជាធម្មតាព័ត៌មានថ្មីៗគឺពិបាកចងចាំជាងគេ ខណៈជំនាញនិងបទចម្រៀងដែលបានរៀនពីយូរមកហើយជាញឹកញាប់នៅសេសសល់យូរជាង។ សូមផ្អែកលើអ្វីទាំងនោះ។"
+  - "ដំណាក់កាលនីមួយៗអាចត្រួតស៊ីគ្នា ហើយការមានថ្ងៃល្អនិងថ្ងៃពិបាកគឺជារឿងធម្មតា។ សូមជ្រើសរើសតាមអ្វីដែលអ្នកអាចធ្វើបាននិងរីករាយនាថ្ងៃនេះ។"
+  - "សូមជ្រើសរើសល្បែងដែលគ្មានម៉ោងកំណត់ គ្មានពិន្ទុ និងគ្មានការសាកសួរចាំ ដោយទុកឲ្យរូបភាពនៅបង្ហាញឲ្យឃើញ។"
+  - "ការមើល ការកាន់អ្វីមួយ ឬគ្រាន់តែអង្គុយជាមួយគ្នា ក៏រាប់ថាជាការចូលរួមដែរ។"
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "សកម្មភាពអ្វីខ្លះដែលសាកសមសម្រាប់អ្នកដែលមានជំងឺអាល់ហ្សៃមឺ?"
+    a: "សកម្មភាពដែលធ្លាប់ស្គាល់ ហើយធ្វើឲ្យសាមញ្ញជាងមុនបន្តិច៖ បត់សម្លៀកបំរើ រៀបចំតុ ធ្វើម្ហូបជាមួយគ្នា ស្តាប់តន្ត្រីនិងច្រៀង មើលរូបថត ដើរលំហែកាយ ធ្វើសួន និងចំណាយពេលជាមួយសត្វចិញ្ចឹម។ ល្បែងរូបភាពសាមញ្ញៗ ល្បែងផ្គុំរូបងាយៗ និងកាតសន្ទនាក៏សាកសមសម្រាប់មនុស្សជាច្រើនដែរ។ សូមជ្រើសរើសអ្វីដែលអ្នកតែងតែចូលចិត្តធ្វើ ហើយធ្វើវាជាមួយគ្នា។"
+  - q: "តើល្បែងមានប្រយោជន៍សម្រាប់អ្នកដែលមានជំងឺអាល់ហ្សៃមឺដែរឬទេ?"
+    a: "ល្បែងអាចជាវិធីមួយដ៏រីករាយក្នុងការចំណាយពេលជាមួយគ្នា ប្រសិនបើអ្នកចូលចិត្តលេង។ មិនមានល្បែងណាមួយដែលបានបង្ហាញថាអាចព្យាបាល ធ្វើឲ្យយឺត បញ្ឈប់ ឬ \"ហ្វឹកហាត់\" អ្វីមួយបាននោះទេ ដូច្នេះសូមជ្រើសរើសល្បែងសម្រាប់ការរីករាយ៖ រូបភាពធំ ជម្រើសតិច និងគ្មានម៉ោងកំណត់ គ្មានពិន្ទុ ឬសំឡេងបញ្ជាក់ថាខុស។"
+  - q: "តើមានភាពខុសគ្នារវាងសកម្មភាពសម្រាប់ជំងឺវង្វេង និងសកម្មភាពសម្រាប់ជំងឺអាល់ហ្សៃមឺដែរឬទេ?"
+    a: "ភាគច្រើនគឺមិនខុសគ្នាទេ។ ជំងឺអាល់ហ្សៃមឺគឺជាមូលហេតុទូទៅបំផុតនៃជំងឺវង្វេង ហើយគំនិតសកម្មភាពដូចគ្នាក៏អាចអនុវត្តបានដែរ។ អ្វីដែលមានប្រយោជន៍ក្នុងការយល់ដឹងអំពីជំងឺអាល់ហ្សៃមឺគឺថា អនុស្សាវរីយ៍ថ្មីៗជាធម្មតារលាយបាត់មុនគេ ដូច្នេះសកម្មភាពដែលផ្អែកលើជំនាញចាស់ៗ បទចម្រៀង និងទម្លាប់ប្រចាំថ្ងៃ ជាញឹកញាប់ដំណើរការបានរលូនជាង។"
+  - q: "តើអ្នកដែលមានជំងឺអាល់ហ្សៃមឺដំណាក់កាលចុងក្រោយនៅតែអាចរីករាយនឹងអ្វីខ្លះបាន?"
+    a: "តន្ត្រីដែលពួកគេចូលចិត្ត ការម៉ាស្សាដៃយ៉ាងទន់ភ្លន់ វត្ថុទន់ៗសម្រាប់កាន់ ការអានឲ្យស្តាប់ ការអង្គុយនៅខាងក្រៅ និងការនៅជាមួយអ្នកដែលពួកគេទុកចិត្ត។ សូមរក្សាឱ្យខ្លីនិងស្ងប់ ហើយសង្កេតមើលមុខនិងរាងកាយរបស់ពួកគេ ដើម្បីដឹងថាពួកគេចូលចិត្តអ្វី។"
+  - q: "តើខ្ញុំអាចជួយឲ្យអ្នកដែលមានជំងឺអាល់ហ្សៃមឺចាប់អារម្មណ៍នឹងសកម្មភាពមួយបានដូចម្តេច?"
+    a: "សូមសុំជំនួយជំនួសការប្រកាសថាជាសកម្មភាពមួយ រៀបចំអ្វីៗទាំងអស់ជាមុនសិន ហើយចាប់ផ្តើមធ្វើដោយខ្លួនឯងមុន ដើម្បីឲ្យពួកគេអាចចូលរួមបាន។ ការជ្រើសរើសពេលវេលានៃថ្ងៃដែលពួកគេស្រួលខ្លួនបំផុតក៏មានប្រយោជន៍ខ្លាំងណាស់។ ប្រសិនបើពួកគេបដិសេធ សូមសាកល្បងម្តងទៀតនៅពេលក្រោយ ឬសូមស្នើជម្រើសសាមញ្ញជាងនេះ។"
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+ប្រសិនបើអ្នកដែលអ្នកស្រឡាញ់មានជំងឺអាល់ហ្សៃមឺ អ្នកប្រហែលជាបានកត់សម្គាល់រួចហើយថា មានរឿងខ្លះដែលបាត់បង់យ៉ាងលឿន ខណៈរឿងផ្សេងទៀតនៅតែស្ថិតស្ថេរ។ ពួកគេអាចភ្លេចការហៅទូរសព្ទនៅព្រឹកនេះ ប៉ុន្តែនៅតែអាចច្រៀងបទចម្រៀងសាសនាបានគ្រប់ពាក្យ បត់កន្សែងដូចដែលធ្លាប់ធ្វើជានិច្ច ឬចែកបៀបានដោយមិនបាច់គិតច្រើន។ សកម្មភាពល្អៗគឺត្រូវបានបង្កើតឡើងដោយផ្អែកលើជំនាញដែលនៅសេសសល់ទាំងនេះ។ ទំព័រនេះនឹងពន្យល់ពីមូលហេតុ បន្ទាប់មកផ្តល់គំនិតសម្រាប់ដំណាក់កាលនីមួយៗ និងល្បែងឥតគិតថ្លៃនៅលើគេហទំព័រនេះដែលសាកសមនឹងពួកវា។
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## តើសកម្មភាពសម្រាប់ជំងឺអាល់ហ្សៃមឺខុសពីសកម្មភាពសម្រាប់ជំងឺវង្វេងដែរឬទេ?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+មិនខុសគ្នាច្រើនទេ។ ជំងឺវង្វេងគឺជាពាក្យទូទៅ ហើយជំងឺអាល់ហ្សៃមឺគឺជាមូលហេតុទូទៅបំផុតនៃវា៖ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) បញ្ជាក់ថាវាមានចំណែកពី 60 ទៅ 80 ភាគរយនៃករណីជំងឺវង្វេងទាំងអស់។ ស្ទើរតែអ្វីគ្រប់យ៉ាងដែលសរសេរអំពីសកម្មភាពសម្រាប់ជំងឺវង្វេងក៏អាចអនុវត្តបានសម្រាប់ជំងឺអាល់ហ្សៃមឺដែរ រួមទាំង[គំនិតសកម្មភាពចំនួន 101](/activities/ideas/) របស់យើងផងដែរ។
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+អ្វីដែលមានប្រយោជន៍ក្នុងការយល់ដឹងគឺលំដាប់នៃការផ្លាស់ប្តូរជាទូទៅ។ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) ពន្យល់ថា ជំងឺអាល់ហ្សៃមឺបំផ្លាញផ្នែកនៃខួរក្បាលដែលទាក់ទងនឹងអនុស្សាវរីយ៍ជាមុនសិន ហើយក្រោយមកប៉ះពាល់ដល់ភាសា ការវិនិច្ឆ័យ និងអាកប្បកិរិយាសង្គម។ Alzheimer's Association ក៏បញ្ជាក់ថា រោគសញ្ញាដំបូងដែលជួបញឹកញាប់បំផុតគឺការពិបាកចងចាំព័ត៌មានដែលទើបបានរៀនថ្មីៗ។ មនុស្សម្នាក់ៗខុសគ្នា ហើយមនុស្សជាច្រើនមានមូលហេតុចម្រុះ ប៉ុន្តែលំនាំនេះអាចជួយឲ្យយើងដឹងថាអ្វីដែលមានแนวโน้มដំណើរការល្អ។
 
-## What kinds of activities suit Alzheimer's best?
+## សកម្មភាពប្រភេទណាខ្លះដែលសាកសមបំផុតសម្រាប់ជំងឺអាល់ហ្សៃមឺ?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+សកម្មភាពដែលផ្អែកលើចំណេះដឹងចាស់ៗ និងជំនាញដែលបានអនុវត្តយូរមកហើយ ជាធម្មតាដំណើរការបានរលូនជាង សកម្មភាពដែលតម្រូវឲ្យរៀនអ្វីថ្មីហើយចងចាំវានៅក្នុងចិត្ត។
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **ជំនាញដែលបានអនុវត្តយូរមកហើយ។** Alzheimer's Association កត់សម្គាល់ថា អ្នកម្នាក់អាចនៅតេលេងបទចម្រៀងសាមញ្ញៗដែលបានរៀននៅលើព្យាណូកាលពីឆ្នាំមុនៗបាន។ ការចាក់សម្លៀកបំរើ ការខាត់ឈើ ការកូរបៀ ការច្របាច់ម្សៅ និងការបត់សម្លៀកបំរើ ក៏ស្រដៀងគ្នាដែរ។
+- **បទចម្រៀងចាស់ៗ និងតន្ត្រីដែលធ្លាប់ស្គាល់។** មនុស្សជាច្រើននៅតែចាំបានគ្រប់ពាក្យនៃបទចម្រៀងពីវ័យជំទង់ បទចម្រៀងសាសនា និងបទចម្រៀងក្នុងថ្ងៃរៀបការ។ សូមមើល[សកម្មភាពតន្ត្រី](/activities/music/)។
+- **កិច្ចការប្រចាំថ្ងៃដែលមានអត្ថន័យ។** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) រាប់បញ្ចូលការលាងចាន រៀបចំតុ តម្រៀបស្រោមជើង និងបត់សម្លៀកបំរើ ជាសកម្មភាពដែលមនុស្សអាចរីករាយ។ អារម្មណ៍ថាខ្លួនមានប្រយោជន៍មានសារៈសំខាន់ណាស់។
+- **ការទទួលស្គាល់ជាងការនឹកចាំ។** ការចង្អុលទៅរូបភាពដែលត្រូវគ្នាគឺងាយស្រួលជាងការនិយាយឈ្មោះវាពីការចងចាំ។ នេះជាមូលហេតុដែលល្បែងរូបភាពដែលបង្ហាញអ្វីៗទាំងអស់ឲ្យឃើញ ដំណើរការបានល្អជាងការសាកសួរចម្លើយ។
+- **ការប្រើប្រាស់ប្រសាទទាំងប្រាំ។** ការប៉ះ ក្លិន កម្ដៅ រសជាតិ និងសំឡេង នៅតែមានន័យយូរ បន្ទាប់ពីពាក្យសម្ដីចាប់ផ្តើមពិបាក។ សូមមើល[សកម្មភាពប្រើប្រសាទទាំងប្រាំ](/activities/sensory/)។
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+អ្វីដែលជាធម្មតាពិបាកជាង៖ អ្វីៗដែលមានម៉ោងកំណត់ ច្បាប់ថ្មីៗដែលត្រូវរៀន ជំហានច្រើនដែលត្រូវចាំ ឬសំណួរដែលសាកល្បងអនុស្សាវរីយ៍ ដូចជា «តើអ្នកចាំបានទេថានេះជានរណា?» អ្វីទាំងនេះធ្វើឲ្យផ្នែកដែលពិបាកបំផុតនៃជំងឺអាល់ហ្សៃមឺកាន់តែលេចឡើង។
 
-## Activities for early-stage Alzheimer's
+## សកម្មភាពសម្រាប់ជំងឺអាល់ហ្សៃមឺដំណាក់កាលដំបូង
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+នៅដំណាក់កាលដំបូង [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) បញ្ជាក់ថា អ្នកម្នាក់អាចនៅតែបើកបរ ធ្វើការ និងចូលរួមសកម្មភាពសង្គមបាន ខណៈពេលដែលចាប់ផ្តើមមានការភ្លេចភ្លាំង ដូចជាភ្លេចពាក្យដែលធ្លាប់ស្គាល់ ឬភ្លេចថាអ្វីៗនៅទីណា។ វិធីល្អបំផុតគឺការធ្វើជាដៃគូ៖ សួរថាពួកគេចង់បន្តធ្វើអ្វីខ្លះ និងចង់បានជំនួយបែបណា។
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **បន្តចំណង់ចំណូលចិត្តដែលមានស្រាប់។** ការលេងកូនហ្គោល បៀ បំណះ ខួរក្បាលក្រុមចម្រៀង និងក្រុមព្រះវិហារ ដោយមានការកែសម្រួលតិចតួច ដូចជាក្រុមតូចជាងមុន និងពេលវេលាស្ងប់ជាងមុន។
+2. **លេងល្បែងបៀនិងល្បែងក្តារដែលធ្លាប់ស្គាល់។** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) រាប់បញ្ចូលល្បែងសំណួរចម្លើយ ល្បែងរកពាក្យ ល្បែងបៀ និងល្បែងក្តារ សម្រាប់ដំណាក់កាលដំបូង។ សូមលេងជាក្រុម ប្រសិនបើការរាប់ពិន្ទុចាប់ផ្តើមធ្វើឲ្យពួកគែមិនស្រួល ឬក៏អាចលុបការរាប់ពិន្ទុចោលទាំងស្រុង។
+3. **ធ្វើម្ហូបជាមួយគ្នា។** អនុញ្ញាតឲ្យពួកគេធ្វើមុខម្ហូបដែលពួកគេចាំបានពីចិត្ត ខណៈអ្នកជួយអានជំហាននីមួយៗ។
+4. **ចាប់ផ្តើមគម្រោងរៀបរាប់រឿងជីវិត។** រូបថត មុខម្ហូប និងរឿងរ៉ាវក្នុងសៀវភៅចងក្រងដែលពួកគេជាអ្នកដឹកនាំ។ សូមមើល[សកម្មភាពរំលឹកអនុស្សាវរីយ៍](/activities/reminiscence/)។
+5. **ចេញទៅក្រៅ។** ទៅភោជនីយដ្ឋានដែលពួកគេចូលចិត្តនៅពេលស្ងប់ ទៅសារមន្ទីររយៈពេលខ្លី ឬដើរលេងនៅឧទ្យាន។
+6. **សាកល្បងល្បែងផ្គុំពាក្យឬរូបដែលពួកគេជ្រើសរើស។** ល្បែងបំពេញពាក្យកាត់អក្សរធំៗ ល្បែងរកពាក្យ និងល្បែងផ្គុំរូប។ សូមមើល[ល្បែងផ្គុំសម្រាប់ជំងឺវង្វេង](/activities/puzzles/)។
 
-More ideas: [early-stage activities](/activities/early-stage/).
+គំនិតបន្ថែម៖ [សកម្មភាពសម្រាប់ដំណាក់កាលដំបូង](/activities/early-stage/)។
 
-## Activities for middle-stage Alzheimer's
+## សកម្មភាពសម្រាប់ជំងឺអាល់ហ្សៃមឺដំណាក់កាលកណ្តាល
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association ពិពណ៌នាថា ដំណាក់កាលកណ្តាលជាធម្មតាគឺវែងជាងគេ ហើយអាចមានរយៈពេលជាច្រើនឆ្នាំ។ ពាក្យសម្ដីចាប់ផ្តើមច្របូកច្របល់ អារម្មណ៍មិនស្រួលកើតឡើងបានកាន់តែងាយស្រួល ហើយអ្នកត្រូវការការថែទាំបន្ថែមទៀត។ Alzheimer's Foundation of America បន្ថែមថា មនុស្សជាច្រើនត្រូវការជំនួយដើម្បីចាប់ផ្តើមឬបន្តសកម្មភាព។ តួនាទីរបស់អ្នកប្រែទៅជាការរៀបចំអ្វីៗជាមុន បង្ហាញជំនួសការពន្យល់ និងជួយធ្វើផ្នែកដែលពិបាក។
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **បត់ តម្រៀប និងផ្គូផ្គង។** កន្សែង ស្រោមជើង សម្ភារៈចានចង្ក្រាន ប៊ូតុងតាមពណ៌។ ជាកិច្ចការពិតប្រាកដដែលធ្វើជាមួយគ្នា។
+2. **ច្រៀង និងធ្វើចលនាតាមតន្ត្រី។** ទះដៃ ញ័រ ឬរាំនៅក្នុងផ្ទះបាយ។ ចាប់ផ្តើមច្រៀងដោយខ្លួនឯងមុន ហើយទុកឲ្យពួកគេចូលរួម។
+3. **មើលអាល់ប៊ុមរូបថតជាមួយគ្នា។** ពណ៌នាអ្វីដែលអ្នកឃើញ ហើយស្នើឲ្យពួកគែនិយាយរឿង៖ «ឡាននេះស្អាតណាស់។ សូមប្រាប់ខ្ញុំអំពីវាបន្តិចបានទេ?» សូមយល់ព្រមតាមឈ្មោះណាដែលពួកគេប្រើ។
+4. **លេងល្បែងរូបភាពសាមញ្ញៗ។** [Picture pairs](/games/picture-pairs/) ជាមួយក្រឡា 4 ទៅ 6 ហើយទុករូបភាពបង្ហាញឲ្យឃើញ ឬ [Find the same](/games/find-the-same/) ជាមួយជម្រើស 2 ឬ 3។
+5. **បំពេញសុភាសិតដែលធ្លាប់ស្គាល់។** «ញ៉ាំផ្លែប៉ោមមួយផ្លែរាល់ថ្ងៃ...» សុភាសិតដែលបានរៀនពីយូរមកហើយជាញឹកញាប់និយាយបានយ៉ាងងាយស្រួល។ សាកល្បង [Finish the saying](/games/finish-the-saying/) ដែលអ្នកអាចបង្ហាញចុងបញ្ចប់ណាមួយបានដោយចុចតែម្តង។
+6. **ស្រោចទឹក និងថែទាំរុក្ខជាតិ។** ដាំក្នុងផើងក្នុងផ្ទះ ឬគ្រែដាំខ្ពស់ៗ ដោយប្រើធុងស្រោចទឹកតូចមួយ។
+7. **បង្កើតល្បែងផ្គូផ្គងពីរូបថតគ្រួសារ។** [Photo pairs](/games/photo-pairs/) ប្រើរូបភាពដែលអ្នកជ្រើសរើសនៅលើឧបករណ៍របស់អ្នក ហើយរូបភាពទាំងនោះមិនចេញពីឧបករណ៍ឡើយ។
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+គំនិតបន្ថែម៖ [សកម្មភាពសម្រាប់ដំណាក់កាលកណ្តាល](/activities/middle-stage/)។
 
-## Activities for late-stage Alzheimer's
+## សកម្មភាពសម្រាប់ជំងឺអាល់ហ្សៃមឺដំណាក់កាលចុងក្រោយ
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+នៅដំណាក់កាលចុងក្រោយ Alzheimer's Association បញ្ជាក់ថា មនុស្សបាត់បង់សមត្ថភាពក្នុងការឆ្លើយតបទៅនឹងបរិយាកាសជុំវិញ និងមិនអាចបន្តការសន្ទនាបានទៀតទេ ទោះបីជាពួកគេនៅតែអាចនិយាយពាក្យឬឃ្លាខ្លះៗបានក៏ដោយ។ នៅពេលនេះ សកម្មភាពមានន័យថាការផ្តល់ភាពស្រួលស្រាលនិងការតភ្ជាប់ ជូនទៅកន្លែងដែលអ្នកកំពុងសម្រាក។
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **ចាក់តន្ត្រីដែលពួកគេចូលចិត្ត** ឲ្យស្ងប់ៗ ដោយមិនឲ្យទូរទស្សន៍រំខាន។
+2. **ម៉ាស្សាដៃយ៉ាងទន់ភ្លន់** ដោយប្រើឡេលាបដែលមានក្លិនដែលពួកគេចូលចិត្ត។
+3. **ផ្តល់វត្ថុទន់ៗឲ្យកាន់៖** ភួយកក់ក្តៅ អំបោះរោមសត្វ ឬថ្មរលោងមួយ។
+4. **អានឲ្យស្តាប់** ទំនុកតម្កើង កំណាព្យ ឬរឿងដែលធ្លាប់ស្គាល់។ ចង្វាក់សំខាន់ជាងអត្ថន័យ។
+5. **អង្គុយនៅខាងក្រៅ** ក្រោមម្លប់ ឬនៅក្បែរបង្អួចដែលអាចមើលបក្សីបាន។
+6. **មើលរូបភាពធំមួយជាមួយគ្នា។** ផ្កាឈូករ័ត្ន ឬឆ្កែមួយដែលបង្ហាញពេញអេក្រង់ថេប្លេត ខណៈអ្នកពណ៌នាអ្វីដែលអ្នកឃើញ។
 
-More ideas: [late-stage activities](/activities/late-stage/).
+គំនិតបន្ថែម៖ [សកម្មភាពសម្រាប់ដំណាក់កាលចុងក្រោយ](/activities/late-stage/)។
 
-## Which games work for someone with Alzheimer's?
+## ល្បែងណាខ្លះដែលសាកសមសម្រាប់អ្នកដែលមានជំងឺអាល់ហ្សៃមឺ?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+សូមជ្រើសរើសល្បែងដែលមិនអាចចាញ់បាន។ ល្បែងទាំងអស់នៅលើគេហទំព័រនេះគឺឥតគិតថ្លៃ ដំណើរការនៅក្នុងកម្មវិធីរុករក ហើយគ្មានម៉ោងកំណត់ គ្មានពិន្ទុ ឬការចុះឈ្មោះទេ។
 
-| Game | What you do | Often suits |
+| ល្បែង | អ្វីដែលត្រូវធ្វើ | ជាទូទៅសាកសមសម្រាប់ |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | ផ្គូផ្គងរូបភាពធំៗ រូបភាពអាចបង្ហាញបើកចំហបាន | ដំណាក់កាលដំបូង និងកណ្តាល |
+| [Find the same](/games/find-the-same/) | ចុចលើរូបភាពដែលដូចនឹងរូបភាពនៅខាងលើ | ដំណាក់កាលកណ្តាល និងចុងក្រោយ ដោយមានជំនួយ |
+| [Finish the saying](/games/finish-the-saying/) | ជ្រើសរើសពាក្យចុងក្រោយនៃសុភាសិតដែលធ្លាប់ស្គាល់ ឬបង្ហាញវា | ដំណាក់កាលដំបូង និងកណ្តាល |
+| [Picture puzzle](/games/picture-puzzle/) | ប្តូរបំណែក 4 ឬ 9 ឲ្យត្រឡប់ទៅទីតាំងវិញ ដោយមានរូបភាពបង្ហាញ | ដំណាក់កាលដំបូង និងកណ្តាល |
+| [Conversation cards](/games/conversation-cards/) | រូបភាពមួយនិងសំណួរបើកចំហសម្រាប់និយាយគ្នា | គ្រប់ដំណាក់កាល ដោយមានអ្នកនិយាយជាមួយ |
+| [Photo pairs](/games/photo-pairs/) | ល្បែងផ្គូផ្គងដែលបង្កើតពីរូបថតរបស់អ្នកផ្ទាល់ | ដំណាក់កាលដំបូង និងកណ្តាល |
+| [Coloring](/games/coloring/) | ចុចជ្រើសរើសពណ៌ រួចចុចលើផ្នែកនៃរូបភាព ឬបោះពុម្ពវា | គ្រប់ដំណាក់កាល ដោយមានជំនួយ |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+សម្រាប់វិធីអង្គុយជាមួយគ្នា កម្រិតជំនួយដែលគួរផ្តល់ និងពេលណាគួរបញ្ឈប់ សូមអាន[របៀបលេងល្បែងជាមួយអ្នកដែលមានជំងឺវង្វេង](/caregiving/how-to-play-together/)។ ប្រសិនបើអ្នកកំពុងឆ្ងល់អំពី «ល្បែងអនុស្សាវរីយ៍» សូមមើល[ល្បែងអនុស្សាវរីយ៍សម្រាប់មនុស្សចាស់ដែលមានជំងឺវង្វេង](/activities/memory-games/)។
 
-## How to make any activity easier
+## របៀបធ្វើឲ្យសកម្មភាពណាមួយកាន់តែងាយស្រួល
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+ដំបូន្មានរបស់ NIA អាចសង្ខេបបានជាទម្លាប់មួយចំនួន៖ ជ្រើសរើសសកម្មភាពឲ្យសមនឹងអ្វីដែលអ្នកអាចធ្វើបាន ជួយពួកគេចាប់ផ្តើម សង្កេតមើលអារម្មណ៍មិនស្រួល ធានាថាពួកគាមានអារម្មណ៍ជោគជ័យ ហើយអនុញ្ញាតឲ្យពួកគេគ្រាន់តែមើល ប្រសិនបើនោះជាអ្វីដែលពួកគេចូលចិត្ត។
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **ជ្រើសរើសពេលវេលានៃថ្ងៃដែលពួកគេស្រួលខ្លួនបំផុត** ហើយរក្សាការធ្វើសកម្មភាពឲ្យខ្លី។
+- **រៀបចំអ្វីៗទាំងអស់ជាមុន** ដើម្បីឲ្យអ្នកអាចចាប់ផ្តើមបានភ្លាមៗ។
+- **សូមអញ្ជើញ មិនមែនបញ្ជា។** «តើអ្នកអាចជួយខ្ញុំបន្តិចបានទេ?» ដំណើរការបានល្អជាង «ដល់ពេលធ្វើសកម្មភាពហើយ»។
+- **ធ្វើជំហានដំបូងដោយខ្លួនឯងមុន** ហើយទុកឲ្យពួកគេចូលរួម។
+- **ស្នើជំហានម្តងមួយ និងជម្រើសម្តងមួយ។**
+- **អនុញ្ញាតឲ្យពួកគេធ្វើតាមរបៀបរបស់ពួកគេ។** កន្សែងបត់មិនស្មើគ្នាក៏មិនអីដែរ។
+- **បញ្ឈប់នៅពេលដែលនៅតែរីករាយ។** ការបញ្ចប់មុនពេលគឺជាលទ្ធផលល្អ មិនមែនជាការបរាជ័យទេ។ ប្រសិនបើពួកគេបដិសេធ សូមមើល[នៅពេលដែលអ្នកដែលមានជំងឺវង្វេងនិយាយថាទេ](/caregiving/when-they-say-no/)។
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) និយាយយ៉ាងសាមញ្ញថា៖ សូមផ្តោតលើការរីករាយ មិនមែនលើសមិទ្ធផលទេ។

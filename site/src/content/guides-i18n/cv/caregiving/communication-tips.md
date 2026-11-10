@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Деменци пур ҫынпа калаҫма пулӑшакан сӗнӳсем"
+seoTitle: "Деменци тӗлӗшпе калаҫу сӗнӗвӗсем: мӗн каламалла"
+description: "Деменци пур ҫынпа калаҫма пулӑшакан тӗп меслетсем: калаҫӑва мӗнле хатӗрлемелли, ыйтусемпе тӳрлетӳсӗр мӗн каламалли тата мӗнле итлемелли."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Шӑпрах вырӑнта калаҫӑр, ҫын патне пӑхӑр, ун ятне каларӑр тата кӗскен,
+  ансат предложенисемпе вӑрах калӑр. Пӗр вӑхӑтра пӗр ыйту ыйтӑр, уҫӑ
+  ыйтӑвсем вырӑнне икӗ вариант парӑр тата килӗшӳллӗнчен ытларах кӗтӗр.
+  Тавлашмарӑр, тӳрлетмерӗр, ыйтса тӗрӗслемерӗр. Сӑмахсем хыҫӗнчи туйӑма
+  пӑхӑр. Сӑмахсем йывӑрлансан, тытӑмлӑх, сӑнарсемпе ал пӗлтерӗвӗсемпе
+  пӗр-пӗринпе ҫыхӑнӑр.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Калаҫма пуҫламас умӗн фонри сассӑсене чакарӑр та ҫынпа куҫпа ҫыхӑнӑр."
+  - "Кӗске предложенисемпе, пӗр вӑхӑтра пӗр шухӑшпа калаҫӑр; «вӑл», «вӗсем» вырӑнне ятсемпе усӑ курӑр."
+  - "Уҫӑ ыйтӑвсем вырӑнне икӗ вариант парӑр е «ҫапла/ҫук» ыйтӑвӗпе ыйтӑр."
+  - "Хуравне кӗтӗр. Ҫынна ӑнланман пулсан, малтан ҫав сӑмахсене тепӗр хут калӑр, кайран урӑх сӑмахсемпе хӑтланӑр."
+  - "Тавлашмарӑр, тӳрлетмерӗр. Ҫын мӗн каланине мар, мӗн туйнине пӑхӑр."
+  - "Сӑмахсем чакнӑ май, тытӑмлӑх, сас ӗнерӗ, пит куҫӑмӗ тата пӗрле пӑхнӑ сӑнарсем урлӑ пӗр-пӗринпе ҫыхӑнӑр."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Деменци пур ҫын патне мӗн каламалла мар?"
+    a: "Ыйтса тӗрӗслеврен («Аса илтетӗр-и...?»), тӳрлетӳрен («Ку тӗрӗс мар»), ҫухалнӑ япалана аса илтернине («Эп сана ҫавна каланӑччӗ») тата ҫын унта ҫук пек ун пирки калаҫнинчен пӑрӑнӑр. Ачасемпе калаҫнӑ пек калаҫмарӑр. Кунашкалсем чылай чухне пулӑшмасӑр намӑс кӳрtereҫҫӗ е ыраттаҫҫӗ."
+  - q: "Ҫын факта йӑнӑш илсен, ӑна тӳрлетмелле-и?"
+    a: "Чылай чухне ҫук. Йӑнӑш факт ҫынна хӑрушлӑх кӳрмест пулсан, ӑна ан хыпар. Тавлашу ҫын шухӑшне сайра мар улӑштарать, анчах та чылай чухне ӑна ыраттарать. Халь ӑна мӗн туйнипе мӗн кирлӗ пулнине пӑхӑр."
+  - q: "Ҫын сӑмах тупайман чухне мӗн тумалла?"
+    a: "Малтан вӑхӑт парӑр. Вӑл чӑннипех йывӑрланса тӑни курӑнса тӑрать пулсан, сӑмаха аякран сӗнсе пама е ун шухӑшне тепӗр хут ыйтса тӗрӗслеме юрать. Пӑхса кӑтартни, ал пӗлтерӗвӗсемпе сӑнарсем те пулӑшма пултараҫҫӗ."
+  - q: "Юлашки шайри деменци пур, сахал калаҫакан ҫынпа мӗнле калаҫмалла?"
+    a: "Умӗнчен пырӑр, хӑвӑна палӑртӑр, лӑпкӑ саспа тата аякран тытӑмлӑхпа калаҫӑр. Туйӑмсене йӗркелеме питне тата ҫын хусканӑвне сӑнаса пӑхӑр. Сирӗн ун патӗнче пулни, паллӑ юрӑ е алӑмран тытни сӑмахсӑр та нумай япала пӗлтерме пултарать."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Деменци вӑл сӑмах тупма, вӑрӑм предложенине ӑнланма е фонри сассӑсене пӑрахӑҫлама йывӑрлатма пултарать. Ку ҫын ҫыхӑну кӑмӑлне ҫухатнӑ тени мар. Калаҫӑва мӗнле хатӗрлени, мӗнле калани тата мӗнле итлени пирки пӗчӗк улшӑнусем иккӗшӗ валли те калаҫӑва ансатрах тата лӑпкарах тума пултараҫҫӗ.
 
-## What are the most important tips for talking with someone who has dementia?
+## Деменци пур ҫынпа калаҫнӑ чухне чи паллӑ сӗнӳсем мӗнсем?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Ҫын тимлӗхне илӗр, ансатрах калӑр тата чӑтӑмлӑ пулӑр. Пиллӗк япалана ҫеҫ аса илсе юлсан:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Вырӑна шӑпрах тӑвӑр та ун патне пӑхӑр.** Телевизора сӳнтерӗр, куҫсем пӗр шайра тӑрас тесен ларӑр тата ун ятне каларӑр.
+2. **Пӗр вӑхӑтра пӗр япала калӑр.** Кӗске предложенисем, пӗр шухӑш, пӗр ыйту.
+3. **Икӗ вариант парӑр.** «Чей е кофе?» — «Мӗн ӗҫес килет?» ыйтӑвӗнчен ансатрах.
+4. **Кӗтӗр.** Хурав валли килӗшӳллӗнчен ытларах вӑхӑт парӑр, сӑмахӗ хыҫӗнчен татса илме хӑтланмарӑр.
+5. **Нихӑҫан та тавлашмарӑр, ыйтса тӗрӗслемерӗр.** Фактсем тӗрӗс-и тенипе мар, ҫын мӗн туйнипе калаҫӑр.
 
-## How should I start a conversation?
+## Калаҫӑва мӗнле пуҫламалла?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Ҫын сирӗн ҫине тимлӗне тӑрса илме пултарнине тӑвӑр. [Family Caregiver Alliance сӗнӗвӗ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) малтан сассӑсене чакарма сӗнет: радио е телевизора сӳнтерӗр, чаршавсене е алӑка хупӑр е шӑпрах вырӑна куҫӑр.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Умӗнчен пырӑр.** Хыҫалтан е аялтан килни ҫынна хӑратма пултарать.
+- **Хӑвӑна палӑртӑр.** «Салам, Атте, эпӗ Сара, санӑн хӗрӳ.» Ку ҫынна сирӗн ята шырама кирлӗ мар тӑвать.
+- **Ун шайӗнче тӑрӑр.** Ҫын ларать пулсан, куҫсем пӗр шайра тӑрас тесен ларар е чӗрккесленӗр.
+- **Питне тата сас ӗнерне тӗрӗслӗр.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) сас ӗнерне, вӑйлӑхне, пит куҫӑмне тата ҫын хусканӑвне сӑнаса тӑма, ӑшӑ та тӳрӗ калаҫу майне кӑмӑл тумалла тет.
+- **Куҫлӑх тата илтӳ хатӗрӗсемпе тӗрӗслӗр.** Лайӑх курманнине е илтменнине ӑнланма йывӑр.
 
-## How should I phrase what I say?
+## Мӗн каланине мӗнле йӗркелемелле?
 
-Use simple words, short sentences and a calm, low voice.
+Анат сӑмахсемпе, кӗске предложенисемпе, лӑпкӑ та аялти саспа калаҫӑр.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Пӗр предложенире пӗр шухӑш.** «Курткана тахӑнпар. Кайран тула тухӑпӑр.» Иккӗшне те пӗр вӑхӑтра ан каларӑр.
+- **Местоименисем вырӑнне ятсемпе усӑ курӑр.** «Инке Жан шӑнкӑравланӑ» — «Вӑл шӑнкӑравланӑ» тенипех уҫӑрах.
+- **Саса аялтарах тӑвӑр, янратса мар.** Family Caregiver Alliance янратнӑ сассӑн вырӑнне аялтарах саспа калаҫма сӗнет.
+- **Малтан тепӗр хут калӑр, кайран улӑштарӑр.** Ҫын ӑнланман пулсан, ҫав сӑмахсене пӗрре тепӗр хут калӑр. Ку пулӑшмать пулсан, кӑшт кӗтӗр те урӑх сӑмахсемпе хӑтланӑр.
+- **Кӑтартӑр та калӑр.** Куркана пӑхса кӑтартӑр, икӗ свитера кӑтартӑр е пӗрремӗш утӑма пурнӑҫласа парӑр.
+- **Унпа калаҫӑр, ун пирки мар.** NIA ҫын унта ҫук пек ун пирки калаҫма тата ачасемпе калаҫнӑ пек калаҫма сӗнмест.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA яхӑн ыйтӑвсене ансатрах калама сӗнет. Ку шухӑшпа тӗслӗхсем:
 
-| Instead of | Try |
+| Ҫавӑн вырӑнне | Ҫапла хӑтланӑр |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Каҫхи апат валли мӗн ӗҫес килет?» | «Пулӑ е чӗпӗ-ташка ӗҫес килет-и?» |
+| «Хӑвӑра мӗнле туятӑр?» | «Ывӑннине туятӑр-и?» |
+| «Выҫӑтӑр-и?» | «Каҫхи апат пиллӗк минутран хатӗр пулӗ.» |
+| «Кунашкал ӑна ҫапла тӑвассинче мар.» | «Айда ҫапла туса пӑхӑпӑр.» |
+| «Кӳл ҫинчи ҫулҫӳреве аса илтетӗр-и?» | «Эп кӳл ҫинчи ҫулҫӳреве шухӑшлатӑп. Сана унта мӗн килӗшнине каласа пар-ха.» |
+| «Эп сана ҫавна каланӑччӗ.» | Пӗрремӗш хут пек ӑшӑлӑхпа тепӗр хут каласа парӑр. |
 
-## How do I listen well?
+## Мӗнле лайӑх итлемелле?
 
-Listen for the meaning and the feeling, not just the words.
+Сӑмахсене ҫеҫ мар, ун хыҫӗнчи пӗлтерӗшпе туйӑма итлӗр.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Кӗтӗр.** Шӑплӑх чылай чухне шухӑшлав вӑхӑчӗ. Хутшӑнма пуҫламас умӗн вӑрах вуннӑ шутласа тухӑр.
+- **Сӑмах ҫеҫ йывӑр чухне парӑр.** Family Caregiver Alliance ҫын йывӑрланнӑ чухне сӑмах сӗнме юрать тет.
+- **Илтнине тӗрӗслӗр.** [Alzheimer's Association калаҫу сӗнӗвӗ](https://www.alz.org/help-support/caregiving/daily-care/communications) сӑмахсем хыҫӗнчи пӗлтерӗше тупма тата ӑнланнине тӗрӗслеме валли тепӗр хут каласа пама сӗнет. «Эсир машина пирки хумханатӑр-и?»
+- **Питне тата ҫын хусканӑвне сӑнаса пӑхӑр.** Калаҫу йывӑрланнӑ май, NIA палӑртнӑ тӑрӑх, пит куҫӑмӗ хуйхӑлӑх, ҫилленӳ е йывӑрлӑх туйӑмне сӑмахран уҫӑрах кӑтартма пултарать.
+- **Хумханӑва чӑнлӑха илӗр.** Хумхану йӑнӑш факта ҫирӗпленнӗ пулин те, туйӑм чӑн.
 
-## What if they say something that is not true?
+## Ҫын тӗрӗс мар каланӑ чухне мӗн тумалла?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ан тавлашӑр. Ҫӗнтерӳ илме май сахал, ҫын вара намӑсланма е хӑрама пултарать. Ун вырӑнне туйӑмпа ҫыхӑнӑр, кайран аякран урӑх шухӑша куҫарӑр.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance урӑх шухӑша куҫарас умӗн туйӑма палӑртма сӗнет. Тӗслӗхрен, анне шкула ачасене илме каймаллине каласа ҫине тӑрать пулсан:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Ҫапла мар: «Анне, сан ачасем пысӑкланнӑ. Ку хӗрӗх утӑм ҫул кайнӑ.»
+- Ҫапла хӑтланӑр: «Эсӗ яланах питӗ пӑхӑнакан анне пулнӑ. Вӗсене мӗнле илнине каласа пар-ха. Малтан пӗчӗк апатланатпӑр-и?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association та сирӗн килӗшменнипе тавлашма сӗнмест. Самантне суйлӑр: йӑнӑш шухӑш ҫынна хӑрушлӑх кӳрмест пулсан, ӑна ан хыпар.
 
-## How does communication change as dementia progresses?
+## Вӑхӑт иртнӗ май калаҫу мӗнле улшӑнать?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ыйтусем вӑхӑтпа улшӑнаҫҫӗ, ҫавна май хӑвӑрӑн майне улӑштарӑр. Alzheimer’s Association тӗплӗн виҫӗ тапхӑра уйӑрать:
 
-| Stage | What helps |
+| Тапхӑр | Мӗн пулӑшать |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Малтанхи | Ҫын калаҫаймасть тесе ан шутлӑр. Ӑна калаҫӑва кӗртӗр, унпа тӳрремӗн калаҫӑр, мӗнле пулӑшу кирлӗне ыйтӑр; пур пулсан, кулкалӑх та кирлӗ пулма пултарать. |
+| Вӑта | Шӑпрах вырӑнта пӗр-пӗринпе калаҫӑр. Вӑрах калӑр, куҫпа ҫыхӑнса тӑрӑр, «ҫапла/ҫук» ыйтӑвӗсемпе усӑ курӑр, утӑм май тӗрлӗ ыйтӑр; ан ятласа илӗр, ан тӳрлетӗр. |
+| Юлашки | Умӗнчен пырӑр, хӑвӑна палӑртӑр. Пӑхса кӑтартма тата ал пӗлтерӗвӗсемпе усӑ курма хавхалантарӑр. Тытӑмлӑх, сассӑсем, курӑмлӑх тата ырӑ сасӑсемпе калаҫӑр. Ҫын унта ҫук пек нихӑҫан та ан калаҫӑр. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Кашни ҫын уйрӑм, ҫав ҫынрах та лайӑх тата йывӑр кунсем пулма пултараҫҫӗ. Ятпа мар, ҫын халь мӗнле пулнине пӑхса калаҫӑр.
 
-## Can pictures and activities make conversation easier?
+## Сӑнарсемпе ӗҫ-хӗлсем калаҫӑва ансатлатма пултараҫҫӗ-и?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ҫапла. Пӗрле пӑхнӑ сӑнар йывӑрлӑха чакарнӑ май, иккӗшӗ валли те пӑхма тата пӑхса кӑтартма май парать.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Сӑнар хатӗрӗсем.** [Conversation Cards](/games/conversation-cards/) ыйтса тӗрӗслемен уҫӑ ыйтӑвсемлӗ сӑнарсем парнелеҫҫӗ.
+- **Ҫемье сӑнӗсем.** [Photo Pairs](/games/photo-pairs/) сирӗн суйланӑ сӑнӳксене лӑпкӑ пӗр килтерӳ выльине улӑштарать; ку чылай чухне аса илӳсене уҫма пулӑшать.
+- **Паллӑ калӑшсем.** [Finish the Saying](/games/finish-the-saying/) паллӑ калӑшсемпе усӑ курать, кайран калаҫма хатӗр парать.
+- **Пӗр килтерӳ выльисем.** [Picture Pairs](/games/picture-pairs/) калаҫнӑ чухне алӑсене ӗҫпе тивӗрлентерме май парать.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Ытларах пӗлме [пӗрле вылӑмалли](/caregiving/how-to-play-together/) тата [аса илӳ ӗҫ-хӗлӗсем](/activities/reminiscence/) страницисене пӑхӑр. Пуллашусемпе шӑнкӑравсем валли [пуллашу](/activities/visiting/) тата [телефонпа видео шӑнкӑравсем](/activities/phone-and-video-calls/) сӗнӗвӗсене вуласа пӑхӑр.
 
-## What if I lose my patience?
+## Чӑтӑмлӑх ҫухалать пулсан мӗн тумалла?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Ку пуринпе те пулать. NIA йӗркене хӑваласа ҫитерсен, лӑпланма вӑхӑт илме сӗнет. Урӑх пӳлӗме куҫӑр, темиҫе хут вӑрах сывламалла тӑвӑр, лӑпланнӑ хыҫҫӑн тепӗр хут таврӑнӑр. Калаҫӑва яланах тепӗр хут пуҫлама пулать, ҫын сирӗн лӑпкӑрах майна илтме те пултарать. Йӗркене хӑваласси яланхи пулса тӑрать пулсан, ку сирӗн йӑнӑш пулнинче мар, ытларах пулӑшу кирлӗ пулнинче. [Пӑхса тӑракан ҫын валли хӑй пирки пӑхмалли](/caregiving/caregiver-self-care/) страницӑра мӗнле пулӑшу тупма пултаракан вырӑнсем пур.

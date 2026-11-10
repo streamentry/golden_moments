@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ: 14 Lancet ᑲᐃᑕᐦᑭᒋᑲᑌᑭ"
+seoTitle: "ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ: 14 Lancet ᑲᐃᑕᐦᑭᒋᑲᑌᑭ"
+description: "2024 Lancet ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ 14 ᑲᑭᒪᔭᑭᓯᐦᑭᐣ ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ, ᑕᐱᐢᑯᐨ ᐱᒪᑎᓯᐃᐧᐣ, ᓇᓇᑐᐦᑖᐏᐣ ᑲᐃᑌᒋᑲᑌᐠ, ᒥᓇ ᑲᑭᐊᔭᒥᐦᒋᑲᑌᐠ ᒪᐢᑭᐦᑭᐃᐧᓂᓂᐘ."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 Lancet ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ 14 ᑲᑭᒪᔭᑭᓯᐦᑭᐣ ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐃᑕᐦᑭᒋᑲᑌᐤ:
+  ᓇᒧᐃᐧᓇ ᑭᐢᑭᓄᐦᐊᒪᑲᐃᐧᐣ, ᓇᒧᐃᐧᓇ ᐯᐦᑕᒧᐃᐧᐣ, ᐃᐢᐸᒋᐣ LDL ᒥᐢᑯ ᐅᐦᒋ, ᓇᒧᐃᐧᓇ
+  ᒥᔪᐸᒪᑎᓯᐃᐧᐣ, ᐅᐢᑎᑿᐣ ᐃᐢᑯᑌᐃᐧᐣ, ᓇᒧᐃᐧᓇ ᒫᒋᐦᐃᐧᐣ, ᓲᑳᐤ ᐊᑯᓯᐃᐧᐣ, ᐱᐦᑕᐘᐠ ᒥᓂᑯᐢᑿᐤ,
+  ᐃᐢᐸᒋᐣ ᒥᐢᑯ ᒥᑭᐢᑲᐣ, ᐅᓱᐊᒥᐢᑭᐏᐣ, ᒥᐢᑕᐦᐃ ᒥᓂᐦᑵᐏᐣ, ᐯᔭᑯ ᐃᔑᐱᒪᑎᓯᐃᐧᐣ, ᐊᐢᑭᕀ ᒪᔭᑕᐦᐠ
+  ᔫᑎᐣ, ᒥᓇ ᓇᒧᐃᐧᓇ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ ᐘᐱᒧᐃᐧᐣ. ᒫᒪᐏ 45% ᑲᐏᓇᑲᐦᑭᐏᐣ ᐊᐢᑭᕀ ᐅᐦᒋ ᐅᐦᐃ
+  ᐃᑌᐦᑖᐘᑭᓄᐘᐠ, ᒫᑲ ᓇᒧᐘᐣ ᐯᔭᑯ ᐊᐘᐃᐧᐣ ᑲᑭᓭᐦᑭᒪᑭᐣ.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "14 ᐅᐦᐃ ᒥᓯᐁᐧ ᐱᒪᑎᓯᐃᐧᐣ ᐊᔭᐘᑭᓄᐘᐠ: ᐯᔭᐠ ᐅᐢᑭᐱᒪᑎᓯᐃᐧᐣ, ᒥᑖᑕᐟ ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ, ᒥᓇ ᓂᐢᑐ ᑭᔮᓯᐱᒪᑎᓯᐃᐧᐣ."
+  - "ᓇᒧᐃᐧᓇ ᐯᐦᑕᒧᐃᐧᐣ ᒥᓇ ᐃᐢᐸᒋᐣ LDL ᒥᐢᑯ ᐅᐦᒋ ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ ᐯᔭᑯ ᐊᔭᐃᐧ 7% ᑲᐏᓇᑲᐦᑭᐏᐣ ᐊᐢᑭᕀ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ, ᒫᐘᐨ ᐁᐃᐢᐸᓂᐠ ᐯᔭᑯ ᐅᐦᒋ."
+  - "ᐅᐦᐃ ᐊᑭᐦᑕᓱᐏᓇ ᐊᐢᑭᕀ ᐅᐦᒋ ᐃᑕᓇ ᑲᐃᓯᓇᐦᑭᐣ ᐁᐃᑌᐦᑖᐘᑭᓄᐘᐠ. ᑲᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᐁᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐊᑯᑕ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ, ᒫᑲ ᑲᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᓇᒧᐃᐧᓇ ᒫᒪᐏ ᑕᐱᐢᑯᐨ ᑲᐃᓯᓇᐦᑭᐣ ᑲᐃᔑᐃᐧᐸᑭᓄᐘᐠ."
+  - "ᐅᐢᑭᐏᐣ ᒥᓇ ᐅᐦᒋᐱᒪᑎᓯᐃᐧᐣ, ᑲᐃᑭ ᓇᒧᐘᐣ ᑲᒪᔭᑭᓯᐦᑭᐣ, ᒥᓇ ᒥᐢᑕᐦᐃ ᐅᐦᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐃᑕᓇ. 14 ᐅᐦᐃ ᑲᐊᐱᓯᐦᑖᑭᐣ ᓇᒧᐘᐣ ᐯᔭᑯ ᐊᐘᐃᐧᐣ ᑭᓭᐦᑭᒪᑭᐣ ᓇᒧᐘᐣ ᑲᐏᓇᑲᐦᑭᐏᐣ ᑲᐅᒋᐱᒪᑎᓯᐟ."
+  - "ᒥᐦᒋᑲᐣ ᐅᐦᐃ ᑲᐃᑕᐦᑭᒋᑲᑌᑭ, ᑖᐱᐢᑯᐨ ᒥᐢᑯ ᒥᑭᐢᑲᐣ, ᐯᐦᑕᒧᐃᐧᐣ, ᒥᓇ ᐘᐱᒧᐃᐧᐣ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ, ᒥᓇ ᒥᔪᐸᒥᐦᒋᑲᓂᐘᐣ ᑯᑕᑭᐦᐃ ᒥᔪᐦᑖᑯᓯᐃᐧᐣ ᐅᐦᒋ, ᒥᓇ ᒥᔪᐸᒥᐦᒋᑲᓂᐘᐣ ᒪᐢᑭᐦᑭᐃᐧᓂᓂᐘ ᑲᐊᔭᒥᐦᒋᑲᑌᐠ."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "ᑖᓂᐦᐃ 14 ᑲᑭᒪᔭᑭᓯᐦᑭᐣ ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ?"
+    a: "2024 Lancet ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ ᐃᑕᐦᑭᒋᑲᑌᐤ: ᓇᒧᐃᐧᓇ ᑭᐢᑭᓄᐦᐊᒪᑲᐃᐧᐣ, ᓇᒧᐃᐧᓇ ᐯᐦᑕᒧᐃᐧᐣ, ᐃᐢᐸᒋᐣ LDL ᒥᐢᑯ ᐅᐦᒋ, ᓇᒧᐃᐧᓇ ᒥᔪᐸᒪᑎᓯᐃᐧᐣ, ᐅᐢᑎᑿᐣ ᐃᐢᑯᑌᐃᐧᐣ, ᓇᒧᐃᐧᓇ ᒫᒋᐦᐃᐧᐣ, ᓲᑳᐤ ᐊᑯᓯᐃᐧᐣ, ᐱᐦᑕᐘᐠ ᒥᓂᑯᐢᑿᐤ, ᐃᐢᐸᒋᐣ ᒥᐢᑯ ᒥᑭᐢᑲᐣ, ᐅᓱᐊᒥᐢᑭᐏᐣ, ᒥᐢᑕᐦᐃ ᒥᓂᐦᑵᐏᐣ, ᐯᔭᑯ ᐃᔑᐱᒪᑎᓯᐃᐧᐣ, ᐊᐢᑭᕀ ᒪᔭᑕᐦᐠ ᔫᑎᐣ, ᒥᓇ ᓇᒧᐃᐧᓇ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ ᐘᐱᒧᐃᐧᐣ. ᒫᒪᐏ ᐋᐱᐦᑖᐤ ᑲᐏᓇᑲᐦᑭᐏᐣ ᐊᐢᑭᕀ ᐅᐦᒋ ᐅᐦᐃ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ."
+  - q: "ᑖᓇ ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ ᒫᐘᐨ ᐁᐃᐢᐸᓂᐠ?"
+    a: "ᐊᐢᑭᕀ ᐅᐦᒋ, ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᓇᒧᐃᐧᓇ ᐯᐦᑕᒧᐃᐧᐣ ᒥᓇ ᐃᐢᐸᒋᐣ LDL ᒥᐢᑯ ᐅᐦᒋ ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ ᐯᔭᑯ ᐊᔭᐃᐧ 7% ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ, ᒥᓇ ᓇᒧᐃᐧᓇ ᑭᐢᑭᓄᐦᐊᒪᑲᐃᐧᐣ ᒥᓇ ᐯᔭᑯ ᐃᔑᐱᒪᑎᓯᐃᐧᐣ ᐯᔭᑯ ᐊᔭᐃᐧ 5%. ᑖᓇ ᒫᐘᐨ ᐁᐃᐢᐸᓂᐠ ᐯᔭᑯ ᐊᐘᐃᐧᐣ ᐅᐦᒋ ᐅᒥᔪᐦᑖᑯᓯᐃᐧᐣ ᐅᐦᒋ ᐃᓯᓇᐦᑭᐣ, ᒪᐢᑭᐦᑭᐃᐧᓂᓂᐤ ᒫᐘᐨ ᑲᑭᐏᒋᐦᐃᑯᐟ."
+  - q: "2024 ᐅᐦᒋ ᓃᓱ ᐅᐢᑭ ᑲᐃᑕᐦᑭᒋᑲᑌᑭ ᓇ?"
+    a: "ᐁᐦᐁ. 2024 ᐅᒪᓯᓇᐦᐃᑲᐣ ᓃᓱ ᐊᐦᑕᐢᑯᓯᓂᐤ: ᐃᐢᐸᒋᐣ LDL ᒥᐢᑯ ᐅᐦᒋ ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ (ᐯᔭᑯ ᐊᔭᐃᐧ 7%) ᒥᓇ ᓇᒧᐃᐧᓇ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ ᐘᐱᒧᐃᐧᐣ ᑭᔮᓯᐱᒪᑎᓯᐃᐧᐣ (ᐯᔭᑯ ᐊᔭᐃᐧ 2%), 12 ᐁᑕᐦᑭᒋᑲᑌᑭ 2020 ᐅᐦᒋ ᐊᐦᑕᐢᑯᓯᓂᐤ."
+  - q: "ᐅᐢᑭᐏᐣ ᑲᑭᒪᔭᑭᓯᐦᑭᐣ ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ ᓇ?"
+    a: "ᓇᒧᐃᐧᓇ. ᐅᐢᑭᐏᐣ ᒫᐘᐨ ᒥᐢᑕᐦᐃ ᑭᐢᑫᔭᐦᑖᐘᑭᓄᐘᐠ Alzheimer ᐊᑯᓯᐃᐧᐣ ᐅᐦᒋ, ᒥᓇ ᓇᒧᐘᐣ ᑲᒪᔭᑭᓯᐦᑭᐣ. ᐅᐦᒋᐱᒪᑎᓯᐃᐧᐣ ᒥᓇ ᐊᔭᐘᐠ. 14 ᐅᐦᐃ ᐅᒪ ᒪᓯᓇᐦᐃᑲᐣ ᐅᐦᒋ ᑲᐃᑕᐦᑭᒋᑲᑌᑭ ᐁᑭ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᑲᑭᒪᔭᑭᓯᐦᑭᐣ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐁᑭ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᐁᐊᔭᐘᐠ ᑲᑭᒋ ᐃᐢᐸᓂᐠ ᑲᐏᓇᑲᐦᑭᐏᐣ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᓇᒧᐃᐧᓇ ᑕᐦᑭᓂᒋᑲᑌᐤ ᐊᐘᐃᐧᐣ ᐅᐦᒋ, ᒥᓇ ᐁᑭ ᐊᔭᐘᐠ ᓇᒧᐃᐧᓇ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᑭᑲᐏᓇᑲᐦᑭᐏᐣ. ᐅᒪ ᒪᓯᓇᐦᐃᑲᐣ ᐅᐦᒋ 14 ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ 2024 Lancet ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ ᑲᐃᑕᐦᑭᒋᑲᑌᑭ ᑲᑭᒪᔭᑭᓯᐦᑭᐣ, ᑖᓂᐦᐃ ᓇᓇᑐᐦᑖᐏᐣ ᑲᐃᑌᒋᑲᑌᐠ, ᒥᓇ ᑖᓂᐦᐃ ᑲᑭᐊᔭᒥᐦᒋᑲᑌᐠ ᒪᐢᑭᐦᑭᐃᐧᓂᓂᐘ.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+ᒥᐢᑕᐦᐃ ᑲᐃᔑᓇᐦᑭᐣ ᐅᐦᒋ, ᒥᓇ ᑖᓂᐦᐃ ᒥᐢᑕᐦᐃ ᑲᓇᓇᑐᐦᑖᐏᓇ ᑲᐃᑌᒋᑲᑌᑭ, ᒪᒋᑕ ᐅᒪ [ᑲᐏᓇᑲᐦᑭᐏᐣ ᑲᑭᒪᔭᑭᓯᐦᑭᐣ ᓇ? ᓇᓇᑐᐦᑖᐏᐣ ᑲᐃᑌᐠ](/brain-health/can-dementia-be-prevented/). ᐅᐦᐃ ᒥᓯᐁᐧ ᑭᐢᑫᔭᐦᑖᑯᓯᐃᐧᐣ ᐃᑕᓇ, ᓇᒧᐃᐧᓇ ᒪᐢᑭᐦᑭᐃᐧ ᐅᐦᒋ ᐊᔭᒥᐦᐃᐁᐧᐃᐧᐣ; ᓇᓇᑕ [ᒪᐢᑭᐦᑭᐃᐧ ᐅᐦᒋ ᐊᔭᒥᐦᐃᐁᐧᐃᐧᐣ](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## ᑖᓂᐦᐃ 14 ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᐦᒋ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 Lancet ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ](https://doi.org/10.1016/S0140-6736(24)01296-0), 27 ᑲᐏᓇᑲᐦᑭᐏᐣ ᑲᓇᓇᑐᐦᑖᐘᒋᐠ ᑲᐅᔑᐦᐋᒋᐠ, ᐃᑌᐦᑖᐘᑭᓄᐘᐠ 14 ᑲᑭᒪᔭᑭᓯᐦᑭᐣ ᒫᒪᐏ 45% ᑲᐏᓇᑲᐦᑭᐏᐣ ᐊᐢᑭᕀ ᐅᐦᒋ ᐁᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᐯᔭᑯ ᐊᔭᐃᐧ ᐊᑭᐦᑕᓱᐏᐣ ᐅᑖᐱᐢᑯᐨ ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ ᐅᐃᑌᐦᑖᑯᓯᐃᐧᐣ ᐃᑕᓇ. ᐊᑭᐦᑕᓱᐏᓇ ᓇᐦᐃᐸᐦᑖᐘᑭᓄᐘᐠ, ᒥᐦᒋᑲᐣ ᐊᐘᐃᐧᐠ ᒥᐦᒋᑲᐣ ᐊᔭᐘᐘᐠ, ᐁᑿ ᐅᐦᒋ 45% ᐃᑌᐦᑖᐘᑭᓄᐘᐠ.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ | ᑕᐱᐢᑯᐨ ᐱᒪᑎᓯᐃᐧᐣ | ᐊᑭᐦᑕᓱᐏᐣ | ᓇᓇᑐᐦᑖᐏᐣ ᑲᐃᑌᐠ | ᑖᓂᐦᐃ ᑲᑭᑑᑕᒪᐣ |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| ᓇᒧᐃᐧᓇ ᑭᐢᑭᓄᐦᐊᒪᑲᐃᐧᐣ | ᐅᐢᑭᐱᒪᑎᓯᐃᐧᐣ | 5% | ᓇᒧᐃᐧᓇ ᒥᐦᒋᑲᐣ ᐱᐳᐣ ᑭᐢᑭᓄᐦᐊᒪᑲᐃᐧᐣ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ ᒥᑖᑎᓯᐃᐧᐣ ᐊᑐᐢᑫᐃᐧᐣ ᒥᓇ ᒥᔪᐸᒥᐦᒋᑲᓂᐘᐣ. | ᑕᐱᐢᑯᐨ ᑭᐢᑭᓄᐦᐊᒪᓱ ᒥᓇ ᒥᑖᑎᓯᐃᐧᐣ ᐊᑐᐢᑫ: ᐊᔭᒥᐦᒋᑫᐃᐧᐣ, ᒥᑖᑎᓯᐃᐧᐣ, ᑭᐢᑭᓄᐦᐊᒪᑲᐃᐧᐣ, ᑯᑕᑭᐠ ᐊᐘᐃᐧᐠ ᐊᐢᑭ ᒥᑕᐘᐦᐃᒋᑲᐣ. |
+| ᓇᒧᐃᐧᓇ ᐯᐦᑕᒧᐃᐧᐣ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ | 7% | ᓇᒧᐃᐧᓇ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ ᐯᐦᑕᒧᐃᐧᐣ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᓇᓇᑐᐦᑖᐏᓇ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᐯᐦᑕᒧᐃᐧ ᐊᐸᒋᐦᐃᑲᐣ ᐊᐸᒋᐦᐃᐁᐧᐃᐧᐣ ᐊᐱᓯᐢ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ. | ᑭᐯᐦᑕᒧᐃᐧᐣ ᓇᓇᑕᐦᐃᐠ. ᑲᑭᐘᒋᐦᐃᑯᐣ ᓇ ᐯᐦᑕᒧᐃᐧ ᐊᐸᒋᐦᐃᑲᐣ, ᒥᓇ ᐊᐸᒋᐦ. ᑭᑕᐘᔭᓂᐢᑲᐣ ᒥᐢᑕᐦᐃ ᐱᐦᑖᑯᓯᐃᐧᐣ ᐅᐦᒋ. |
+| ᐃᐢᐸᒋᐣ LDL ᒥᐢᑯ ᐅᐦᒋ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ (ᐯᔭᑯ ᐊᔭᐃᐧ 40 ᐅᐦᒋ) | 7% | ᐃᐢᐸᒋᐣ LDL ᒥᐢᑯ ᐅᐦᒋ ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᓇᓇᑐᐦᑖᐏᓇ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ statin ᐊᐸᒋᐦᐃᐁᐧᐃᐧᐣ ᐊᐱᓯᐢ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ, ᒫᑲ ᑭᔮᓯᐱᒪᑎᓯᐃᐧᐣ ᓇᓇᑐᐦᑖᐏᓇ ᓇᒧᐃᐧᓇ ᐅᐦᐃ ᐘᐸᐦᑖᐘᑭᓄᐘᐠ. | ᑲᑭᐘᒋᐦᐃᑯᐣ ᓇ ᑭᒥᐢᑯ ᐅᐦᒋ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ, ᒥᓇ ᑖᓂᐦᐃ ᑲᑭᑑᑕᒪᐣ. |
+| ᓇᒧᐃᐧᓇ ᒥᔪᐸᒪᑎᓯᐃᐧᐣ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ | 3% | ᓇᒧᐃᐧᓇ ᒥᔪᐸᒪᑎᓯᐃᐧᐣ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᑭᔮᓯᐱᒪᑎᓯᐃᐧᐣ ᒥᓇ ᓂᑲᓄᐏᐣ ᑲᐏᓇᑲᐦᑭᐏᐣ ᑲᐃᔑᐸᑭᐣ. | ᐃᑕ ᒪᐢᑭᐦᑭᐃᐧᓂᓂᐘ ᑭᓯᐯ ᓇᒧᐃᐧᓇ ᒥᔪᐸᒪᑎᓯᐃᐧᐣ ᓃᓱ ᐊᔭᒥᐦᐁᐧᑭᓯᒪᐣ ᐅᐦᒋ ᐊᔭᐘᐠ. ᓇᒧᐃᐧᓇ ᒥᔪᐸᒪᑎᓯᐃᐧᐣ ᐘᒋᐦᐃᐦᐃᐁᐧᐃᐧᐣ ᐊᔭᐘᐠ. |
+| ᐅᐢᑎᑿᐣ ᐃᐢᑯᑌᐃᐧᐣ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ | 3% | ᐅᐢᑎᑿᐣ ᐃᐢᑯᑌᐃᐧᐣ ᑕᐱᐢᑯᐨ ᐅᐢᑭᐏᐣ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. | ᐅᐢᑎᑿᐣ ᑲᓇᐘᔭᐣ ᐱᐢᑯᐦᐋᒋᑲᐣ ᒥᓇ ᒥᑕᐘᐦᐃᒋᑲᐣ ᐅᐦᒋ. ᑲᑭᐘᒋᐦᐃᑯᐣ ᑲᐸᑭᓯᐣ ᑲᓇᐘᔭᐣ ᐅᐦᒋ. ᐊᔭᐦᐅᐏ ᒥᓇ ᓇᓇᑕᐦᐃᐠ ᐅᐢᑎᑿᐣ ᐃᐢᑯᑌᐃᐧᐣ ᑭᔮᐢᐠ. |
+| ᓇᒧᐃᐧᓇ ᒫᒋᐦᐃᐧᐣ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ | 2% | ᐊᐘᐃᐧᐠ ᑲᒫᒋᐦᐃᒋᐠ ᐊᐱᓯᐢ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ. ᓇᓇᑐᐦᑖᐏᐣ ᑲᑭᓭᐦᑭᒋᑲᑌᐠ ᓇᒧᐃᐧᓇ ᒥᐢᑕᐦᐃ ᐊᔭᐘᐠ. | ᑲᑭᐘᒋᐦᐃᑯᐣ ᑖᓂᐦᐃ ᒫᒋᐦᐃᐧᐣ ᑲᒥᔪᐸᒥᐦᒋᑲᑌᐠ, ᒥᓇ ᑲᒥᔪᐸᒪᑕᒪᐣ ᐊᑐᐢᑫ. ᓇᓇᑕ [ᒫᒋᐦᐃᐧᐣ ᐅᐦᒋ ᐊᔭᒥᐦᐃᐁᐧᐃᐧᐣ](/brain-health/exercise/). |
+| ᓲᑳᐤ ᐊᑯᓯᐃᐧᐣ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ | 2% | ᓲᑳᐤ ᐊᑯᓯᐃᐧᐣ, ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ ᑲᒪᒋᐸᑭᐣ, ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. | ᒥᐢᑯ ᓲᑳᐤ ᓇᓇᑕᐦᐃᐠ. ᓲᑳᐤ ᐊᑯᓯᐃᐧᐣ ᑭᔭᐘᐣ ᑭᐢᐱᐣ, ᑭᐘᒋᐦᐃᑯᐘᐠ ᐊᐢᑭ ᑲᓇᐘᔭᒋᐠ ᒥᔪᐸᒥᐦᒋᑲᑌᐠ. |
+| ᐱᐦᑕᐘᐠ ᒥᓂᑯᐢᑿᐤ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ | 2% | ᐱᐦᑕᐘᐠ ᒥᓂᑯᐢᑿᐤ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᑲᐴᓂᒋᐠ ᓇᒧᐃᐧᓇ ᐁᑿ ᐃᐢᐸᓂᐠ ᐊᔭᐘᐘᐠ. | ᑲᑭᐘᒋᐦᐃᑯᐣ ᐘᒋᐦᐃᐁᐧᐃᐧᐣ ᐅᐦᒋ ᑲᐴᓂᐣ. ᑕᐱᐢᑯᐨ ᐅᐢᑭᐏᐣ ᒥᔪᐸᒥᐦᒋᑲᓂᐘᐣ. |
+| ᐃᐢᐸᒋᐣ ᒥᐢᑯ ᒥᑭᐢᑲᐣ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ | 2% | ᐃᐢᐸᒋᐣ ᒥᐢᑯ ᒥᑭᐢᑲᐣ ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᓇᓇᑐᐦᑖᐏᓇ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᐊᐱᓯᐢ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. | ᑭᓭᐦᑭᑕ ᑭᒥᐢᑯ ᒥᑭᐢᑲᐣ ᐊᑭᐦᑕᓱᐏᓇ. ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ ᐃᑌᐤ 130 ᐅᐦᒋ ᐊᐱᓯᐢ ᐯᔭᑯ ᐊᔭᐃᐧ 40 ᐅᐦᒋ; ᑲᑭᐘᒋᐦᐃᑯᐣ ᑖᓂᐦᐃ ᑲᒥᔪᐸᒥᐦᒋᑲᑌᐠ. |
+| ᐅᓱᐊᒥᐢᑭᐏᐣ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ | 1% | ᐅᓱᐊᒥᐢᑭᐏᐣ ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ, ᒥᓇ ᓲᑳᐤ ᐊᑯᓯᐃᐧᐣ ᒥᓇ ᐊᐦᑯᐢᑕᐤ. | ᑲᑭᐘᒋᐦᐃᑯᐣ ᑖᓂᐦᐃ ᒥᔪᐸᒥᐦᒋᑲᑌᐠ ᑭᔭᐢᑭᐏᐣ ᐅᐦᒋ. ᑭᔮᓯᐊᐘᐃᐧᐠ ᓇᒧᐃᐧᓇ ᑲᐊᐱᓯᐦᐃᑯᓯᒋᐠ ᒪᐢᑭᐦᑭᐃᐧᓂᓂᐘ ᐅᐦᒋ ᐃᑕᐦᑭᒋᑲᑌᐠ. |
+| ᒥᐢᑕᐦᐃ ᒥᓂᐦᑵᐏᐣ | ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ | 1% | ᒥᐢᑕᐦᐃ ᒥᓂᐦᑵᐏᐣ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᐊᐱᓯᐢ ᒥᓂᐦᑵᐏᐣ ᐊᐱᓯᐢ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ. | ᑲᑭᐘᒋᐦᐃᑯᐣ ᑖᓂᐦᐃ ᑲᒥᔪᐸᒥᐦᒋᑲᑌᐠ, ᒥᐦᒋᑲᐣ ᑭᒪᐢᑭᐦᑭᐃᐧᐣ ᐊᐸᒋᐦᐃᑲᓇ ᐅᐦᒋ. |
+| ᐯᔭᑯ ᐃᔑᐱᒪᑎᓯᐃᐧᐣ | ᑭᔮᓯᐱᒪᑎᓯᐃᐧᐣ | 5% | ᓇᒧᐃᐧᓇ ᒥᐦᒋᑲᐣ ᐊᐘᐃᐧᐠ ᐊᐢᑭ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. | ᐊᐘᐃᐧᐠ ᐊᐢᑭ ᑲᒥᔪᐸᒪᑕᒪᐣ ᐃᑕᓯ. ᓇᓇᑕ [ᐊᐘᐃᐧᐠ ᐊᐢᑭ ᐅᐦᒋ ᐊᔭᒥᐦᐃᐁᐧᐃᐧᐣ](/brain-health/social-connection/). |
+| ᐊᐢᑭᕀ ᒪᔭᑕᐦᐠ ᔫᑎᐣ | ᑭᔮᓯᐱᒪᑎᓯᐃᐧᐣ | 3% | ᒪᔭᑕᐦᐠ ᔫᑎᐣ ᐊᐢᑭᕀ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᑲᓇᑕᐦᐠ ᔫᑎᐣ ᐊᐱᓯᐢ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ. | ᒥᐦᒋᑲᐣ ᐅᑭᒫᐏᐣ ᐅᐦᒋ ᐊᑐᐢᑫᐃᐧᐣ ᐃᑕᓇ. ᑲᓇᑕᐦᐠ ᔫᑎᐣ ᑭᐢᑫᔭᐦᑖᑯᓯᐃᐧᐣ ᓇᓇᑕ, ᒥᓇ ᒪᔭᑕᐦᐠ ᑭᓯᑲᐤ ᐘᔭᐑᑎᒥᐦᐠ ᐊᐱᓯᐢ ᐃᑕ. |
+| ᓇᒧᐃᐧᓇ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ ᐘᐱᒧᐃᐧᐣ | ᑭᔮᓯᐱᒪᑎᓯᐃᐧᐣ | 2% | ᓇᒧᐃᐧᓇ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ ᐘᐱᒧᐃᐧᐣ ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᒥᐢᑕᐦᐃ ᓇᓇᑐᐦᑖᐏᐣ ᐃᑌᐤ cataract ᐊᑐᐢᑫᐃᐧᐣ ᐊᐱᓯᐢ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. | ᑭᐢᑮᓯᑯᐣ ᓇᓇᑕᐦᐃᐠ. ᑲᑭᐘᒋᐦᐃᑯᐣ ᓇ cataract ᑲᐃᓯᓇᐦᑭᐣ ᑲᑭᓇᓇᑕᐦᑭᒋᑲᑌᐠ. |
 
-## How should I read these percentages?
+## ᑖᓂᐢᐱ ᐅᐦᐃ ᐊᑭᐦᑕᓱᐏᓇ ᑲᐃᔑᓇᐦᑭᐣ?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+ᐘᔭᐦᑕᐢᑯᐨ ᓇᓇᑕ. ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ ᐅᒪᓯᓇᐦᐃᑲᐣ ᐅᐦᒋ ᐅᐦᐃ ᐃᑌᐤ:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **ᐊᐢᑭᕀ ᐅᐦᒋ ᐃᑕᓇ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ, ᓇᒧᐃᐧᓇ ᐯᔭᑯ ᐊᐘᐃᐧᐣ.** University College London [ᐅᐦᒋ ᐊᔭᒥᐦᐃᐁᐧᐃᐧᐣ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ᐃᑌᐤ ᑲᐊᐱᓯᐦᑖᑭᐣ ᐊᐢᑭᕀ ᐅᐦᒋ ᐘᒋᐦᐃᐦᐃᐁᐧᐃᐧᐣ ᐃᑕᓇ, ᒫᑲ ᓇᒧᐘᐣ ᐯᔭᑯ ᐊᐘᐃᐧᐣ ᑭᓭᐦᑭᒪᑭᐣ ᓇᒧᐘᐣ ᑲᐏᓇᑲᐦᑭᐏᐣ ᑲᐅᒋᐱᒪᑎᓯᐟ.
+- **ᐁᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ.** ᐅᔑᐦᐃᐁᐧᐘᐠ ᑲᓭᐦᑭᒋᑲᑌᐠ ᓇᓇᑐᐦᑖᐏᓇ ᐊᑐᐢᑲᒧᐘᐠ, ᒫᑲ ᑲᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᓇᒧᐃᐧᓇ ᒫᒪᐏ ᑕᐱᐢᑯᐨ ᑲᐃᓯᓇᐦᑭᐣ ᑲᐃᔑᐃᐧᐸᑭᓄᐘᐠ ᐃᑌᐘᐠ.
+- **ᐊᐢᑭᕀ ᐅᐦᒋ ᐊᑭᐦᑕᓱᐏᓇ ᐃᑕᓇ.** ᒥᐦᒋᑲᐣ ᑭᐢᑫᔭᐦᑖᑯᓯᐃᐧᓇ ᐅᑭᒫᐏᓇ ᐅᐦᒋ ᐯᔭᑭᓄᐘᐠ, ᒥᓇ ᐯᔭᑯ ᐊᐢᑭᕀ ᐅᐦᒋ ᐱᑐᐢ ᐃᓯᓇᐦᑭᐣ.
+- **ᐊᐱᓯᐢ ᐊᑭᐦᑕᓱᐏᓇ ᒥᓇ ᒥᐢᑕᐦᐃ ᐃᐢᐸᓂᐘᐠ.** 2% ᐊᐢᑭᕀ ᐅᐦᒋ ᒥᐦᒋᑲᐣ ᐊᐘᐃᐧᐠ ᐊᔭᐘᐘᐠ.
 
-## Which risk factors were added in 2024?
+## 2024 ᐅᐦᒋ ᑖᓂᐦᐃ ᐅᐢᑭ ᑲᐃᑕᐦᑭᒋᑲᑌᑭ?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 ᐅᒪᓯᓇᐦᐃᑲᐣ ᓃᓱ ᐊᐦᑕᐢᑯᓯᓂᐤ 12 2020 ᐅᐦᒋ ᑲᐃᑕᐦᑭᒋᑲᑌᑭ:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **ᐃᐢᐸᒋᐣ LDL ᒥᐢᑯ ᐅᐦᒋ ᑖᐱᐢᑳᐤ ᐱᒪᑎᓯᐃᐧᐣ**, ᐯᔭᑯ ᐊᔭᐃᐧ 7% ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ.
+- **ᓇᒧᐃᐧᓇ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ ᐘᐱᒧᐃᐧᐣ ᑭᔮᓯᐱᒪᑎᓯᐃᐧᐣ**, ᐯᔭᑯ ᐊᔭᐃᐧ 2% ᐅᐦᒋ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ.
 
-## What risk factors cannot be changed?
+## ᑖᓂᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᓇᒧᐃᐧᓇ ᑲᒪᔭᑭᓯᐦᑭᐣ?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging ᐃᑌᐤ [ᐅᐢᑭᐏᐣ ᒫᐘᐨ ᒥᐢᑕᐦᐃ ᑭᐢᑫᔭᐦᑖᐘᑭᓄᐘᐠ Alzheimer ᐊᑯᓯᐃᐧᐣ ᐅᐦᒋ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), ᒥᓇ ᓇᒧᐘᐣ ᑲᒪᔭᑭᓯᐦᑭᐣ. ᐅᐦᒋᐱᒪᑎᓯᐃᐧᐣ ᒥᓇ ᐊᔭᐘᐠ; ᐯᔭᐠ ᐅᐦᒋᐱᒪᑎᓯᐃᐧᐣ APOE ᐃᓯᓇᑲᓱᐤ ᐁᐊᔭᐘᐠ Alzheimer ᐅᐦᒋ. NIA ᒥᓇ ᐃᑌᐤ ᓇᓇᑐᐦᑖᐘᒋᐠ ᓇᒧᐃᐧᓇ ᒫᒪᐏ ᑭᐢᑫᔭᐦᑖᐘᐠ ᑖᓂᐦᐃ ᐅᐦᒋ Alzheimer ᐁᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᒥᐦᒋᑲᐣ ᐊᐘᐃᐧᐠ ᐅᐦᒋ. Lancet ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ ᐃᑌᐤ 14 ᑲᑭᒪᔭᑭᓯᐦᑭᐣ ᐊᐱᓯᐢ ᑲᑭᐃᔑᐸᑭᐣ ᐅᐦᒋᐱᒪᑎᓯᐃᐧᐣ ᐅᐦᒋ ᐊᑯᑕ.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+ᐅᐢᑭᐏᐣ ᒥᓇ ᐅᐦᒋᐱᒪᑎᓯᐃᐧᐣ ᒥᐢᑕᐦᐃ ᐁᐃᐢᐸᓂᐠ ᐅᐦᒋ, ᒥᐦᒋᑲᐣ ᐊᐘᐃᐧᐠ 14 ᐅᐦᐃ ᓇᒧᐃᐧᓇ ᑲᐊᔭᐘᒋᐠ ᒥᓇ ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᒋᐱᒪᑎᓯᐘᐠ. ᓇᒧᐘᐣ ᐊᐘᐃᐧᐣ ᐅᐸᐢᑖᐦᐅᐃᐧᐣ ᐃᑕᓇ.
 
-## What does the trial evidence say about changing these risks?
+## ᓇᓇᑐᐦᑖᐏᐣ ᑖᓂᐦᐃ ᐃᑌᐤ ᐅᐦᐃ ᑲᒪᔭᑭᓯᐦᑭᐣ ᐅᐦᒋ?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐁᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᓇᒧᐃᐧᓇ ᐁᑿ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ᑲᒪᔭᑭᓯᐦᑭᐣ ᐊᐱᓯᐢ ᑲᐏᓇᑲᐦᑭᐏᐣ ᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ. ᑕᐢᑭ ᐅᐦᐃ ᑲᐃᔑᓇᐦᑭᐣ:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **ᒥᐢᑯ ᒥᑭᐢᑲᐣ.** SPRINT MIND ᓇᓇᑐᐦᑖᐏᐣ ᐅᐦᒋ, ᐊᐱᓯᐢ ᒥᐢᑯ ᒥᑭᐢᑲᐣ ᐊᐱᓯᐢ ᒪᒋ ᒥᑖᑎᓯᐃᐧᐣ ᐊᐱᓯᐦᑖᐤ. ᑲᐏᓇᑲᐦᑭᐏᐣ ᓇᒧᐃᐧᓇ ᒥᐢᑕᐦᐃ ᐊᐱᓯᐦᑖᐤ, ᒫᑲ ᓇᓇᑐᐦᑖᐏᐣ ᐊᐱᓯᐢ ᑲᐃᔑᐸᑭᐣ ([SPRINT MIND ᐅᐦᒋ JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **ᐯᐦᑕᒧᐃᐧ ᐊᐸᒋᐦᐃᑲᐣ.** Lancet ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ ᐃᑌᐤ ᓂᐢᑐ ᐊᐢᑭᕀ ᓇᓇᑐᐦᑖᐏᐣ ᓇᒧᐃᐧᓇ ᒥᓯᐁᐧ ᐘᐸᐦᑖᐤ ᒥᑖᑎᓯᐃᐧᐣ ᐅᐦᒋ, ᒫᑲ ᐘᒋᐦᐃᐦᐃᐁᐧᐃᐧᐣ ᐘᐸᐦᑖᐤ ᐊᐘᐃᐧᐠ ᒥᐢᑕᐦᐃ ᑲᐅᒋᐱᒪᑎᓯᒋᐠ ᐅᐦᒋ. ᐊᐘᐃᐧᐠ ᑲᐘᐸᒥᒋᐠ ᐊᐱᓯᐢ ᑲᐅᒋᐱᒪᑎᓯᓇᐦᑭᐣ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ. [ᐯᐦᑕᒧᐃᐧᐣ ᐅᐦᒋ ᐊᔭᒥᐦᐃᐁᐧᐃᐧᐣ](/brain-health/hearing/) ᒥᓇ ᐃᑌᐤ.
+- **ᒫᒋᐦᐃᐧᐣ.** National Institute on Aging ᐃᑌᐤ ᓇᒧᐃᐧᓇ ᒥᐢᑕᐦᐃ ᓇᓇᑐᐦᑖᐏᐣ ᐊᔭᐘᐠ ᒫᒋᐦᐃᐧᐣ ᑲᐏᓇᑲᐦᑭᐏᐣ ᑲᒪᔭᑭᓯᐦᑭᐣ ᐅᐦᒋ ᐁᑭ ᐃᑌᐠ, ᒫᑲ ᑲᐃᑌᒋᑲᑌᑭ ᓇᓇᑐᐦᑖᐏᓇ ᐊᐱᓯᐢ ᐘᒋᐦᐃᐦᐃᐁᐧᐃᐧᐣ ᐃᑌᐦᑖᐘᑭᓄᐘᐠ ([NIA ᐅᐦᒋ ᑲᒪᔭᑭᓯᐦᑭᐣ Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+ᒥᐢᑕᐦᐃ ᓇᓇᑐᐦᑖᐏᓇ ᑲᐴᔭᑭᐣ ᐃᑕᓇ, ᐁᑿ ᐅᐦᒋ ᒥᐦᒋᑲᐣ ᐊᐘᐃᐧᐠ ᑲᐘᐸᒥᒋᐠ ᐊᐢᑭᕀ ᐅᐦᒋ ᒥᐢᑕᐦᐃ ᓇᓇᑐᐦᑖᐏᐣ ᐃᑕᓇ. ᐅᐦᐃ ᓇᓇᑐᐦᑖᐏᓇ ᒥᔪᐸᒥᐦᒋᑲᓂᐘᐣ, ᒫᑲ ᓇᒧᐃᐧᓇ ᐁᑿ ᐃᐢᐸᓂᐠ ᑲᑭᓭᐦᑭᒋᑲᑌᐠ ᓇᓇᑐᐦᑖᐏᐣ.
 
-## What about sleep and diet?
+## ᓂᐸᐃᐧᐣ ᒥᓇ ᒦᒋᒧᐃᐧᐣ ᑖᓂᐦᐃ?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+ᐅᑲᓇᐘᐸᐦᑕᒧᐃᐧᐣ ᓂᐸᐃᐧᐣ ᒥᓇ ᒦᒋᒧᐃᐧᐣ ᓇᓇᑕᐦᑖᐤ, ᒫᑲ ᓇᒧᐃᐧᓇ ᒥᐢᑕᐦᐃ ᓭᐦᑭᒋᑲᑌᐤ ᓇᓇᑐᐦᑖᐏᐣ ᐅᐦᒋ ᐊᐦᑕᐢᑯᓯᓂᐤ. [ᓂᐸᐃᐧᐣ](/brain-health/sleep/) ᒥᓇ [ᒦᒋᒧᐃᐧᐣ](/brain-health/diet/) ᐅᐦᒋ ᐊᔭᒥᐦᐃᐁᐧᐃᐧᓇ ᒥᓇ ᐃᑌᐘᐠ ᑖᓂᐦᐃ ᑲᑭᐢᑫᔭᐦᑖᑭᐣ.
 
-## Talk with a doctor
+## ᐊᔭᒥᐦ ᒪᐢᑭᐦᑭᐃᐧᓂᓂᐘ
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+ᐊᐢᑭᕀ ᐅᐦᒋ ᓇᓇᑕᐦᐃᐁᐧᐃᐧᐣ ᒥᔪᐸᒥᐦᒋᑲᓂᐘᐣ ᐅᐦᐃ ᐅᐦᒋ ᑲᐊᔭᒥᐦᒋᑲᑌᐠ. ᐅᐦᐃ ᒪᓯᓇᐦᐃᑲᐣ ᐯᓯᐘ ᒥᓇ ᑲᑭᐘᒋᐦᐃᑯᐣ:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- ᑖᓂᐦᐃ ᓂᒥᐢᑯ ᒥᑭᐢᑲᐣ, ᒥᐢᑯ ᓲᑳᐤ, ᒥᓇ ᒥᐢᑯ ᐅᐦᒋ ᐊᑭᐦᑕᓱᐏᓇ, ᒥᓇ ᓇ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ?
+- ᓇ ᓂᑭᐯᐦᑕᒧᐃᐧᐣ ᒥᓇ ᓂᐢᑮᓯᑯᐣ ᑲᓇᓇᑕᐦᑭᒋᑲᑌᐠ?
+- ᓂᒫᒋᐦᐃᐧᐣ ᓇ ᒥᔪᐸᒥᐦᒋᑲᓂᐘᐣ ᒥᓇ ᑖᐱᓯᐸᔭᐣ ᓂᔭ ᐅᐦᒋ?
+- ᓇ ᓂᒪᐢᑭᐦᑭᐃᐧᐣ ᐊᐸᒋᐦᐃᑲᓇ ᑲᐃᔑᐸᑭᐣ ᒥᑖᑎᓯᐃᐧᐣ ᐅᐦᒋ?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+ᒪᐢᑭᐦᑭᐃᐧᐣ ᐊᐸᒋᐦᐃᑲᓇ, ᒦᒋᒧᐃᐧᐣ, ᒫᒋᐦᐃᐧᐣ, ᐅᐦᒋ ᒥᓇ ᑲᒪᔭᑭᓯᐣ ᒥᐢᑕᐦᐃ ᐊᔭᒥᐦ ᒪᐢᑭᐦᑭᐃᐧᓂᓂᐘ. ᑭᔭ ᐅᐦᒋ ᐅᐦᒋ ᐊᐘ ᑲᐱᒪᑎᓯᐟ ᑲᐏᓇᑲᐦᑭᐏᐣ ᐁᔭᐘᐟ ᓭᐦᑫᐨ ᒪᒋ ᒥᑖᑎᓯᐃᐧᐣ, ᐯᔭᑯ ᐅᐢᐱᑐᐣ ᓇᒧᐃᐧᓇ ᒪᐢᑭᐦᑭᐏᐣ, ᐅᐦᒋ ᒥᓇ ᓇᒧᐃᐧᓇ ᐱᒥᐸᒋᐣ, ᓯᒪᑲᐣ 911.

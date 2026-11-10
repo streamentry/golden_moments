@@ -1,35 +1,39 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Dementia-app-it amerlasuut toqqarnissaat"
+seoTitle: "Dementia-app-it amerlasuut: Malittarisassanik toqqagassaq"
+description: "Paarsisumut malittarisassanik toqqagassaq dementia-app-it amerlasuullu toqqarniarlugit: siunertaq aallaqqaataavoq, piffissalersuutit annonserillu pinagit, isertaatsat misissukkit, aluagassallu uppernarsaatit mianersorlugit."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Aallaqqaataavoq suna app-imik qanoq iliorsinnaasoq pillugu: sakkussaanermik
+  qitiutinngitsumik, eqqaatsinermik, eqqissinermik imaluunniit ataqatigiinnermik.
+  Taava toqqaruk inuit isumagisat ullumi pisinnaasaannut tulluartoq,
+  assinik angisunik takujuminaatsunik, piffissalersuutinik, nalunaarsuiffiinik
+  imaluunniit annonserinik pinngitsoq, aammalu unitsitsinissaq
+  ajornanngitsumik. Misissukkit paasissutissanik katersorsarneranik,
+  agguaanerinillu piiaanerillu. Mianersoruk app-it dementia-pinaveersaartitsisinnaasut
+  imaluunniit katsorsartitsisinnaasut pillugit uqariarnerinik; misissuinermik
+  ataasiakkaamik uppernarsaatitaqanngilaq.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Siunertaq aaliussaraaruk: sakkussaanermik, eqqaatsinermik, eqqissinermik imaluunniit ataqatigiinnermik app-it assigiinngitsut pisariaqartinneqarsinnaapput."
+  - "Inuit isumagisat ullumi pisariaqartitaanut tulluarsaruk, atorneqarnertut taaguuserneq pinnagu, aqunneqarusunnerillu ajornanngitsukkit."
+  - "App-it piffissalersuutinik, nalunaarsuiffiinik, inissiisarfinnik, tuttuaqqutissanik, annonserinik imaluunniit pisiniarnermut kajumissaarutinik imallit pinagit."
+  - "Paasissutissanik katersorsarneranik, agguaanerinillu piiaanerillu misissukkit. HIPAA nalinginnaasumik atuisartut app-iinut atuuteqanngilaq."
+  - "“Dementia pinaveersaartitsisoq” pillugit uqariarnernik uppernarsassanngoruk. Misileraanermi ataaseq, imaluunniit app-imi angusarneq pitsaaneruneq, uppernarsaatitaqanngilaq."
+  - "Golden Moments inuummut atatillugu nuannisaanermut sammisassaqavoq. Nakorsaatit pillugit uqariarneqanngilaq."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Qarasaq timersornikkut dementia pinaveersaarneqarsinnaava?"
+    a: "App-it qarasaq timersornikkut dementia pinaveersaartitsisinnaasut imaluunniit arratsaatsinnaasut pillugit uppernarsaatit pitsaat nutaatillit soqanngilaq. National Institute on Aging oqarpoq, akiliutinik neqarfinnik qarasaq timersornikkut app-it misissuinermi annertumi misileraaffigineqarsimasup assinganik sunniuteqarsinnaasut uppernarsaatitaqassutigisinnaasut amigaateqartut. App-it nuannaarniarnermik ataqatigiinnermillu atorneqarnissaat pilluarpoq, nakorsaataaninngortinnagu."
+  - q: "Dementia-app HIPAA-mit illersorneqartarpaa?"
+    a: "Nalinginnaasumik naamik. HIPAA nalinginnaasumik pilersaarusiornermut imminnut, peqqissutsimut sillimmasiissutinik kiisalu suliffeqaqatigiinnut atuuppoq. App nammineq aallerfissat nalinginnaasumik illersorneqanngilaq, tassaataallutik ilaasortaqatigiinnit tunniunneqarsimanngippat. FTC-p Health Breach Notification Rule tassaavoq HIPAA-mit illersorneqanngitsut peqqissutsimut tunngasut app-it amerlasuut illersorneqartartaat."
+  - q: "Dementia-amik pinngitsaalisaanermut app pitsak qanoq isaanersoqartarpa?"
+    a: "Assit allallu angisuut erseqqissaallu, iserfigisaq ataaseq erseqqilluni suna pisariaqarnersoq, piffissalersuutinik nalunaarsuiffiinillu pinngitsoq, kukkusummut nipinik allanik ersersuinngitsoq, annonserinik pinngitsoq, aammalu unitsitsinissaq imaluunniit unitsilluarneq ajornanngitsoq. Inunnut inersimasunut sanaajuvoq takuneqassasoq, immikkut ilaasortaqataasoq ataasiakkaaq ilanngullugit peqatigiuminaassasoq."
+  - q: "Golden Moments eqqasitsilluni iluaqutaasinnaasoq nalunaarutigivaa?"
+    a: "Naamik. Golden Moments sammisassanik ajornanngitsunik peqatigiinnikkut nuannaarniarnernut oqaloqatigiinnernullu neqerooruteqartunik neqerooruteqarpoq. Dementia paasisoqaaseqanngilaq, katsorsarneqanngilaq, pinaveersaartinneqanngilaq imaluunniit uuttorneqanngilaq, aammalu eqqasitsinermik eqqarsartaanermilluunniit pillugit uqariarneqanngilaq."
+  - q: "Dementia-app-imut akiliisoqarsinnaavunga?"
+    a: "Akilermik piiaasunik imaluunniit misileraanermik akeqanngitsunik misileqqaariarit, sapaatit marluk missaanni inuit isumagisat qanoq pisoqartarnersut malinnaavigilugit. App-imut akilerneq pitsanngorsaanermik uppernarsaatitaqanngilaq. Akileraarutit unitsinniarnissaat qanoq ingerlarnissaanut misissoruk."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +64,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+App-niuffiit utoqqalinernut, eqqasitsinermut imaluunniit dementia-mut tunngassuteqartunik taaguuserneqartunik amerlasuunik ulikkaarpoq. Ilaannikkut isumannaatsumik sanaajupput. Allat nakorsaatit pillugu uqariarnernik, piffissalersuutinik timersornermik misileraatitut isikkoqartitsisunik, imaluunniit annonserinik paasissutissanillu katersorsuinermik imaqarsinnaapput. Qupperneq manna app-it tamaasa nammineq qanoq nalilersorsinnaanerannut periaaseqersuinermik neqerooruteqarpoq. Allanik nioqqutissanik nalilersuisuussanngilagut imaluunniit nassuiaassanngilagut.
 
-## What should I decide before choosing a dementia app?
+## Dementia-app toqqartinnagu suna aalajangissavarpara?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Suna app-imik qanoq iliorsinnaasoq eqqarsaatigisariaqarpat. “Anaana-mut pinngitsaalisaanermik” assigiinngitsunik imaqarpoq, siunertaq ataaseq toqqagaqarnissaa allat toqqagaqarneranut ajunnginnerusumik pisoqarsinnaavoq.
 
-| Goal | What it looks like | What to look for |
+| Siunertaq | Qanoq takuneqarsinnaavoq | Suna ujaassavaa |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Sakkussaanermik qitiutinngitsumik | Assinik naapitsisaarneq, immikkoortiterineq, ajornanngitsunik pinngitsaalisat, oqaatsinik pinngitsaalisat | Tulluarsartinneqarsinnaasoq, assit ersittarnerat ingerlaannaq, piffissap kianarsuaatiginneq |
+| Eqqaatsineq | Assit pisoqaassusilinnik, oqaatsit nalinginnaasut, inuusukkami nipilersuutit | Nammineerlutit assitit, ammasunik kajumissaarutit, aperinermi akissuteqarnikkut pinngitsoq |
+| Eqqissineq | Arriitsumik takussaq, nipaarluinnaq, anersaartarnermik, pinngortitamik | Aallarniarnissaq unitsinniarnerlu ajornanngitsumik, qaamasunik qammasunik pinngitsoq, aalajangiisunik pinngitsoq |
+| Ataqatigiinneq | Peqatigiinnikkut pinngitsaaliineq imaluunniit oqaloqatigiinneq, imminnut qaninnerusukkut imaluunniit videokut | Inunnut marlunnut sanaajusoq, oqaloqatigiinnermut kajumissaarutit |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Misissuinerit “kognitive stimulation”-imik ilitsersuisinnaasunik dementia-mik napparsimaneqartut atorneqarnerannut, nalinginnaasumik ataasiakkaatigisinnaanngillat, kisianni inunnik ilisimasaqaqatigiinnik ingerlatsisoqartunik sammisassanik attaveqarfigineqarput, oqaloqatigiinnernik, oqaatsinik pinngitsaalisarnik, pinngitsaalisarnik, nipilersuinermik aamma pilersitsinermik imallit. [Cochrane-mit nalilersuineq](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) immikkoortuni nalinginnaasuni pisinnaanerinut ikiuutaasinnaasoq mikisoq nassaarivaa, kisianni misissuinerni assigiinngitsuni assigiinngitsut. Taamaattumillu inooqatigiinnik, assigiinngitsunillu sammisaasoq aningaasarsiorlutik app-imik ataasiakkaamik assingusoqanngilaq, taamaattumillu app taamaallaat sammisassanik peqatigiinnut allanut ilanngullugu eqqarsaatigisariaqarpat.
 
-## How do I know if an app fits the person's abilities?
+## App inuit isumagisat pisinnaasaannut tulluartutut qanoq paasiniassavara?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Qanoq akisarnersoq malinnaavigiuk, taamaattumillu peqqinnissamut uppernarsaatinut imaluunniit killiffinnut taaguuserneqarnissanut sanilliullugu. Inuit “killiffimmi assingusumi” marlui erseqqissumik takuneqarsinnaapput isigisinnaanerannik, tusarnaarnerannik, assanik aqunneqarsinnaanerannik, oqaatsinik atornerannik aammalu skærm-it atornerannut misiginarnerannik. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) siunnersuuppoq soqutigisartakkani kingornussami aammalu maanna pisinnaasai eqqarsaatiginiarlugit, aammalu angusaqarnianut sanilliullugu nuannaarneq pingaartitsillugu.
 
-Signs of a good fit:
+Tulluarnermik ersiutaasut:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- kajumissaarutiginngikkaluarunik aallartillutik imaluunniit peqataallutik;
+- qungujullutillu, oqaaseqarlutik imaluunniit oqaluttualiorlutik;
+- kukkussutit annilaangassaanngitsutut isiginarlugit;
+- piffissaq naavoq unitsittoqartillugit nuannaartumik.
 
-Signs it is a poor fit:
+Tulluarnanngitsumik ersiutaasut:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- arlaleriarlutillu “ajunngilanga” imaluunniit “soqutiginngilaa” oqarunik;
+- suna toorsinnaanersoq paasiuminaatsinneqarluni;
+- kammaallaarneq, kanngunartinneq imaluunniit atortussaq ungasinngorlugu pisillugu;
+- tamatigoortunik imminnut suliassanngikkaangat taamaallaat pisoqartarpoq.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Annilaanganeq ersiutaavoq, pinaveersaartinniarneqartussaanngilaq. Takukkit [naamik oqarunik suna iliuuseqartariaqarpit](/caregiving/when-they-say-no/). Killiffinnut tunngasunik app-init avatangiisinik siunnersuutinik takukkit [siulliutillugu](/activities/early-stage/) aammalu [kingulliit](/activities/late-stage/) sammisassat.
 
-## What design features should I look for or avoid?
+## Sananeq qanoq ittumik ujaassavara imaluunniit pinissavara?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Eqqissisimanermik, ajornanngitsunik aammalu inunnut inersimasunut naleqquttumik sanaajusunik ujaassagit, aammalu kianarsuaammik ilanngussisinnaasunik pinagit.
 
-| Look for | Be wary of |
+| Ujaassavaa | Mianersoruk |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Assit allallu angisuut, ersarinnerusut | Ikonit mikisut, iserfigisat ulappiaat |
+| Iserfigisami ataaseq suliassaq ataaseq erseqqilluni | Toortagassat amerlasuut, menu-it, imaluunniit malittarisassat arlaleriarluni |
+| Piffissalersuutinngitsoq, imaluunniit piffissalersuut kamineqarsinnaasoq | Kisitsisit aggorneqartartut, sukkatsinerup angusaqarnissaa, “piffissarit artorsinnaallugu” |
+| Nalunaarsuiffiinngitsoq, imaluunniit qitiutinngitsunik utertitsisoq | Point-it, inuunerit, tuttuaqqutissat, tulleriiaarnerit, “qaratsap ukiua” |
+| Kukkussutit nipaarluinnartumik pisoqartillugit | Nipit, aappalaammik qalipaatinik ersersuutit, “Kukkuvoq” nalunaarutit |
+| Inunnut inersimasunut assit pisuunermi nalinginnaasut | Cartoon-itut imaluunniit meeqqanut naleqqussasut |
+| Internettimik pisariaqartitsinngitsoq, nammineq nalunaarsuineqarnissaq aallarniarnissamut pisariaqanngitsoq | Aallarniarnissaq siornagut nalunaarsuineq, iserniaraq imaluunniit aallerfissaq pisariaqarpoq |
+| Unittitsineq unitsinniarnerlu ajornanngitsumik | Qaammatit ingerlaqqittarnissamut imaluunniit app-imut nalilersuinissamut kajumissaarutit |
+| Annoncerinik pinngitsoq, ataatsikkut imaluunniit akileraarutitigut akeq erseqqilluni | Annoncerit, pisiniutit, amerlasoorlutillu pisiniarnermut kajumissaarutit |
+| Ataaseq peqatigisinnaasoq ajornanngitsumik | Kisiinnut ataatsimut pinngitsaalisaq, unammillernermi sanaajusoq |
 
-Ads and purchase prompts are easy to tap by accident.
+Annoncerit pisiniarnerullu kajumissaarutit akuerisanngikkaluarlugit toorneqarsinnaavoq.
 
-## How do I check an app's privacy?
+## App-ip paasissutissat qanoq misissussavakka?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Suna katersorneqarnersoq, kimmut agguaanersoq aammalu piiaaneqarsinnaanersoq misissukkit. Aallerfinnagu:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Tunngaveqarfimmi paasissutissanut nassuiaatit atuaruk.** Google Play-p [Paasissutissanut nakkutigisat immikkoortua](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) aammalu App Store-p [paasissutissanut immikkoortua](https://support.apple.com/en-us/102399) nalunaarutigaarput sorliit paasissutissat app-ip katersorsinnaagai aammalu agguaartarsinnaagai. Ataatsimoortukkuuuvoq sananermi suleqatigiittut nammineq paasissutissanik taaneqartunik neqerooruteqartut, taamaattumillu aallaqqaataavoq, misissuinermik nalilersuineraanngilaq.
+2. **Konto-mik pisariaqartitsineranik aperiigit.** App assinik takutitsinermik imaluunniit pinngitsaalisarnik ajornanngitsunik neqerooruteqarpat, nammineq aatit, e-mail-it imaluunniit inunngorfissat ilisimasaqarnissaanut pisariaqanngitsoq.
+3. **Akuersissutit misissukkit.** Assinik naapitsisaanermi pinngitsaalisaq sumiiffimmut, attaveqaqatigiinnut, nipimik tigusaanermut imaluunniit assinut tamanut pisariaqartinnerpa? Piumasaqaataanngitsut atorunnaarsikkit.
+4. **Annoncerinik aammalu uuttuinernik misissuigit.** Annoncerinik uuttuinernillu atortussat app qanoq atorneqarnersoq pillugit paasissutissanik suliffeqarfiunut allanut nassiuteqartarsinnaapput.
+5. **Assit sumiinneri paasiniakkit.** Ilaquttat assiinik ilanngussaguit, atortussami innarpat imaluunniit serverimut ikkunneqartarpas? Peerneqarsinnaappat?
+6. **Piiaanermik misissukkit.** Paasissutissanut politikkimi imaluunniit paasissutissanut nassuiaatimi ujaruk qanoq paasissutissat kontolu peerneqarsinnaanersut. App-ip paasissutissat peerneqarsinnaanngitsut nalunaarutigai assinik imaluunniit peqqissutsimut tunngasunik paasissutissanik imaqaraangat mianersoqqusaasoq.
+7. **Paasissutissanut politikkia atuaruk** erseqqilluinnartumik akissutit nassaariniarlugit: suna katersorneqarnersoq, suna pisut, sivisussuseq qanoq ittoq, kimmullu agguaanersoq.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA dementia-app-inik paasissutissanik illersuisarpa?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Nalinginnaasumik naamik, amerlanernut tupinnartumik. U.S. Department of Health and Human Services [nassuiaavoq](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA pilersaarusiornermut imminnut, peqqissutsimut sillimmasiissutinik amerlanernut, peqqissutsimut aaqqissuisarfiit aammalu suliffeqaqatigiinnut atuulluni. Amerlanertigut paasissutissat app-imut nammineq atornermut allakkat illersorneqanngillat, tassanngaannaq app illersorneqartumit imaluunniit suliffeqaqatigiinnit tunniunneqarsimanngippat. “Dementia-app” app-niuffimmit nalinginnaasumik HIPAA-p avataanutillugu, peqqissutsimut tunngassuteqartumik oqaluttuaraangat.
 
-### What protects health data in apps that HIPAA does not cover?
+### HIPAA-mit illersorneqanngitsut peqqissutsimut paasissutissat suna illersuaartarpai?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission-ip Health Breach Notification Rule-i amerlasuunut atuuppoq. 2024-imi FTC [angerlarsimavoq](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) erseqqissallugit malittarisassat peqqissutsimut app-inut HIPAA-mit illersorneqanngitsunut aammalu teknologiinut assingusunut atuuttut. “Asiorneqartoq” akuersinneqanngitsumik agguaanermik imaqarpoq, tillinniarnerunngitsoq kisiat, suliffeqarfillu sunnerneqartunut FTC-mullu nalunaaruteqartariaqarput. Tamanna ajornartorsiut qaangiuppat illersuinermik kinguneqartuuvoq, kisianni app-ip pineqartup kisimi pisariaqartitaanik katersuinissaa uppernarsaatitaqanngilaq.
 
-## How should I read claims about research and evidence?
+## Misissuinerit uppernarsaatillu pillugit uqariarnerit qanoq atuarneqartariaqarpat?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Upernarsaatitsineq pillugu uqariarnerit arriitsumik atuaruk, pingaarnersaallu anginerusut angiusinnaasumik uppernarsassanngorlugit. Aperisassat uku soorlu:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Suna erseqqissumik misissorneqareerpa?** Misileraaneq ataaseq siunnersuutinut tunngasumik aalajangersimasumik pinngitsaalisaanermi app-imi pinngitsaalisat tamarmik assingusumik ingerlallutik takutinneqaqqaanngilaq.
+- **Kikkut misissorneqarput?** Inunut inersimasunut peqqissutsimut tunngasunik paasisimasanut angusakkat inuit dementia-mik napparsimaneqartunut atuuttuunneq ajorput.
+- **Suna uuttorneqareerpa?** Pitsanngoriartorneq pinngitsaalisaani nammineq ullutsinni inuuneqarnermut, oqaloqatigiinnermut, misigissutsimut imaluunniit namminersornermut allannguisumik assigisinnaanngilaq.
+- **Misissuinermi nakussatsinneq qanorippa?** Randomiseret misissueriaaseq (RCT) app atuisut ataatsimoortut atuisunngitsunut sanilliuttarpaa. Tamanna periaaseq iluaqutaasinnaavoq, kisianni RCT ataaseq mikisoq imaluunniit sivikittoq uppernarsaatitaqanngilaq. Misissuinernik amerlasuunik, kimmitsinneqaratik, suleqatigiillutik misissuisut aallaavigisaannik ujaassigit.
+- **Napparsissutit allanngortinnissaanut uqariarnerpa?** Misileraanermi mikro misissueqqissaarnermi pitsanngoriartorneq app-ip dementia arratsaatiginissaa, pinaveersaartiginissaa imaluunniit katsorsartiginissaa uppernarsaatitaqanngilaq.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging-ip quppernera [inuttut inersimasut qaratsamikkut peqqissutsimut](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) pillugit NIH-mit aningaasaqarnikkut misileraaneq ilitsersuisinnaasoq ilanngullugu saqqummiuppaa, kingorna atuartunik mianersoqquivoq immikkut qarasaasiakkut internettikkullu pinngitsaalisat eqqasitsinerup eqqarsartaanermillu pitsanngorsinnaanera pillugit uqariarnerinik. Taanna oqarpoq akiliutinik neqarfinnik qarasaq timersornikkut app-it misileraanermi atorneqartup assinganik sunniuteqarsinnaasut uppernarsaatit amigaateqartut. Aammattaaq atuarneqarsinnaavoq [qarasaq timersornikkut uppernarsaatillu pillugit ilitsersuut](/brain-health/brain-games/) aammalu [dementia pinaveersaarnissaanut misissuinernit qanoq oqarnersut](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Qanoq ersiutaasinnaasoq tamanna tammartinneqaraluartoq?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Januaarimi 2016-imi, FTC [nalunaarutigaa angerlaarneq](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity-mik “qarasaq timersortitsisumik” sanaartuisunut. FTC-p nalunaarutigaa saqqummiussaqartumik uppernarsaatinik naammattunik naammaginnginnikkut pinngitsaalisat ukua utoqqaliartortillugu qaratsami arratsaalernermik kingusinnerusinnaasut, aammalu mild cognitive impairment, dementia kiisalu Alzheimer-nnermik illersuisinnaasut. Suliffeqarfik 2 million dollarinik akilernissani angerlaqarpoq, kiisalu siunissami tamatumuuna uqariarniarluni uppernarsaatinik ilisimasaqarnartunik tatigiisinnaasunillu nassuiaateqarnissaminik piumasaqalerpoq. Tamanna maluginiagaq ilisimatitsisinnaasoq, oqaaseqaat nammineq uppernarsaatinnginnamik.
 
-### Which words are red flags?
+### Oqaatsit sorliit mianersoqqusaasutut isigisariaqarpat?
 
-Be cautious when an app or ad says it:
+Mianersoruk app-imik imaluunniit nalunaarutimik ima oqarutta:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- dementia imaluunniit Alzheimer “pinaveersaartarpoq,” “utertinniarpoq,” “unittarpaa” imaluunniit “katsorsartarpoq”;
+- “nakorsaatitigut uppernarsarneqarpoq” misissuinermik, kikkunnut aammalu suna uuttorneqarsimanersoq erseqqissaatiginnagu;
+- “qaratsap ukiua” imaluunniit eqqasitsinermut nalunaarsuiffik siunnersuutigalugu;
+- qarasaq “ipitseriarlugu,” “pitsanngorsarlugu” imaluunniit “timersorlugu”;
+- uppernarsaatitut inuit uppernarsaataasut atorlugit.
 
-If you are unsure about a claim, ask the person's doctor.
+Uqariarnerup qularutigineraa nalorninngippat, inuit isumagisat nakorsaat aperiuk.
 
-## Where does Golden Moments fit?
+## Golden Moments sumiippoq?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments sammisassanik ajornanngitsunik peqatigiinnut neqerooruteqarpoq, eqqasitsinermut misileraaneraanngilaq, katsorsaaneq imaluunniit nakorsaatit siunnersuutaatiginngilaat. Pinngitsaalisavut, soorlu [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) aammalu [Calm Breathing](/games/calm-breathing/), nuannaarniarnermut oqaloqatigiinnermullu sanaajupput. Dementia paasisoqaaseqanngillat, katsorsarneqanngillat, pinaveersaartinneqanngillat imaluunniit uuttorneqanngillat, aammalu eqqasitsinermik eqqarsartaanermilluunniit pillugit uqariarneqanngilaq.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Aamma app akeqanngitsoq sanaaripput, [Golden Moments iPhone-mut, iPad-imut aammalu Android-imut](/app/). Assinik angisunik naapitsisaanermik qitiutinngitsumik imaqarpoq, nammineq assitit toqqakkat atorlugit pinngitsaalisat, aammalu assinik pakkerinik internettimik pisariaqartitsinngitsunik, kontomik, annonserinik, piffissalersuutinik imaluunniit nalunaarsuiffiinik pinngitsoq. Malittarisassat assingusut atuupput: App Store-mi paasissutissat nalunaaqutaa oqarpoq “Paasissutissanik katersorneqanngilaq”, aammalu [app-ip paasissutissanut politikkia](/app-privacy/) nassuiaavoq assinut kopeeriat sumi toqqorsimasarnerat.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Uppernarnissarput siunertarinerusumik nalilersornarnissarput pisariaqarnerusumik isigaarput. Quppernermi matumani malittarisassanik atorneqartalissaatit, [paasissutissat quppernera](/privacy/) aammalu [nakorsaatit pillugit erseqqissaataa](/medical-disclaimer/) atuaruk, aammalu, uagut ilanngullugit, inuit isumagisat tulluarnngippat unitsiguk.
 
-## What is a sensible way to try a new app?
+## App nutaaq misileraarniarlugu qanoq iliuuseqarnissaq iluaqutaasarpa?
 
-Try it together for a couple of weeks and watch what happens.
+Sapaatit marluk missaanni peqatigalugu misiliguk, aammalu suna pisoqartarneranik malinnaavigiuk.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Siullermik aaqqiguk** [tablet aamma telefonimut aaqqersuineq pillugu ilitsersuut](/caregiving/tablets-and-screens/) atorlugu, aammalu ajornannginnerpaamik aallartillutit.
+2. **Misileraatit sivisussusaannut mikisikkit,** qungujunneq, oqaloqatigiinneq eqqissinerlu malinnaavigilugit, aammalu piffissaq nuannerulluni unitsiguk.
+3. **Kammaallaatitaappat unitsiguk,** qangatsinneqarluaraluarpalluunniit.

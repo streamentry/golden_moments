@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Деменципе пурӑнакансем валли сенсор хӑнӑхтарӑвӗсем"
+seoTitle: "Деменци тӗлӗшпе сенсор хӑнӑхтарӑвӗсем"
+description: "Деменципе пурӑнакан ҫынсем валли сенсор хӑнӑхтарӑвӗсем: алӑ массажӗ, ҫемҫе вулавӑш корзинӗпе тата ҫут ҫанталӑк сассисемпе, чӗрмекен, аллерги тата ырӑ шӑршӑ хӑрушлӑхӗсем пирки асӑрхаттарусемпе."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Сенсор хӑнӑхтарӑвӗсем пиллӗк туйӑма усӑ кураҫҫӗ: алӑсене майӗпен ҫемҫен
+  сӑпӑлтарни, ҫемҫе вулавӑшсен корзинӗ, ҫӗрӗ курӑк шӑршине шӑтни, ҫут
+  ҫанталӑк сассисене итлени е чӳречерен кайри кайӑксене пӑхни. Вӗсем пур
+  тапхӑрта та усӑллӑ, кайранхи вӑхӑтра тата вырӑнтан та лайӑх пулма
+  пултараҫҫӗ. Малтан чӗрмекен япаласене, аллерги, ҫунат йывӑрлӑхӗсене тата
+  ырӑ шӑршӑна хӑрушлӑхне тӗрӗслӗр, пӗрре пӗр япалана кӑтартӑр тата ҫын
+  канӑҫсӑр пулнине курсан, чарӑнӑр.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Сенсор хӑнӑхтарӑвӗсенче тӗрӗс хурав ҫук, ҫавна май вӗсем пур тапхӑрта та, вырӑнта е пуканта выртса та, пулма пултараҫҫӗ."
+  - "Лӑпкӑ вырӑнта пӗр вӑхӑтра пӗр туйӑма кӑтартӑр, тытӑнмалла пулсан малтан ыйтӑр е пӗлтерӗр."
+  - "Пӗчӗк япаласенчен тата апат пек курӑнакан, анчах апат маррисенчен тарӑнӑр, мӗншӗн тесен ҫынсем вӗсене ҫӑвара илме пултараҫҫӗ."
+  - "Сӳлевҫӗ, ырӑ шӑршӑллӑ е апат усӑ курмалли чухне малтан аллерги, ҫунат йывӑрлӑхӗсем тата сывлани мӗнле пулнине тӗрӗслӗр."
+  - "Ароматерапи деменци симптомӗсене пулӑшать тесе ӗнентерӳллӗ ҫирӗплетӳ ҫук; ырӑ шӑршӑсене ҫын килӗшсе йӑл кӑмӑлланать пулсан кӑна усӑ курӑр."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Деменципе пурӑнакан ҫын валли мӗнле сенсор хӑнӑхтарӑвӗсем лайӑх?"
+    a: "Ансат сӑнсем: алӑсене сӳлевҫӗпе майӗпен ҫемҫен сӑпӑлтарни, ҫемҫе вулавӑшсене тытса пӑхни, ҫӗрӗ курӑк е кофе шӑршине шӑтни, юратнӑ кӗвӗсене е ҫут ҫанталӑк сассисене итлени, кайӑксене е пулӑсен аквариумне пӑхни, хӑрушсӑр текстурӑллӑ юратнӑ апатран тутӑрни. Пӗрре пӗр япалана кӑтартӑр тата ҫын мӗнле реакциленине сӑнаса тӑрӑр."
+  - q: "Япаласене ҫӑвара илекен ҫын валли сенсор хӑнӑхтарӑвӗсем хӑрушсӑр-и?"
+    a: "Астуллӑха усӑ курсассӑн, хӑрушсӑр пулма пултараҫҫӗ. Ҫӑвара анма май килмен пысӑк япаласене кӑна усӑ курӑр, пӗчӗк е ҫӗмӗрӗлекен япаласене ан илӗр. Сӳлевҫӗсене, саппунсене тата ырӑ шӑршӑллӑ япаласене кайран ҫитмен вырӑнта упрар, мӗншӗн тесен вӗсем апат пек курӑнма е шӑршӑлама пултараҫҫӗ. Пӗтӗм вӑхӑтра ҫын патӗнче пулӑр."
+  - q: "Ароматерапи деменци пирки пулӑшать-и?"
+    a: "Cochrane тӗрӗсӗ ароматерапи деменципе пурӑнакан ҫынсене пулӑшать тесе ӗнентерӳллӗ ҫирӗплетӳ тупман, тӗпчевсем пӗчӗк тата пӗр пек мар пулнӑ. Ҫын ҫемҫе, паллӑ ырӑ шӑршӑна йӑл кӑмӑлланать пулсан, ҫавна пайланма юрӑхлӑ, анчах вӑйли эфир майӗсенчен, уйрӑмах сывлани йывӑр е аллерги пур чухне, тарӑнӑр."
+  - q: "Ҫӗклев е хӑнӑхтару фартукӗ мӗнле япала?"
+    a: "Ку — ҫинче ҫӗклеме ҫӳмне ҫирӗп ҫыпӑҫтарнӑ япаласем пур вулавӑш, фартук е пукан ҫинчи витре: пысӑк пуҫӑмсем, тимерҫӗсем, йӗпписем тата текстурӑллӑ пусмасем. Ӑна алӑсем тытса ӗҫлеме май парать. Ҫӳллӗн илме пултаракан ирӗк япаласем пур-и тесе тӑтӑшах тӗрӗслӗр."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Сенсор хӑнӑхтарӑвӗсем пиллӗк туйӑма усӑ кураҫҫӗ: сисни, шӑтни, тутӑрни, итлени тата курни. Вӗсенче аса илӳ те, мелсем те, тӗрӗс хурав та кирлӗ мар, ҫавна май вӗсем пур тапхӑрта та пулма пултараҫҫӗ. Кайранхи вӑхӑтра вӗсем пекех пӗлтерӗшлӗ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) палӑртнӑ тӑрӑх, кайранхи тапхӑрта тӗнче тӗпчевҫӗшӗн туйӑмсем урлӑ курӑнать, тата эсир пӑхнине сисӳ, сасӑ, курӑм, тутӑрнипе тата шӑршӑпа кӑтартма пултаратӑр. Пӗр-ик хӑрушсӑрлӑх тӗрӗсӗвӗ ку хӑнӑхтарӑвсене кашнине валли лӑпкӑ тума пулӑшать.
 
-## What are sensory activities for dementia?
+## Деменци вӑхӑтӗнчи сенсор хӑнӑхтарӑвсем мӗн вӗсем?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Сенсор хӑнӑхтарӑвӗсем — пӗр вӑхӑтра пӗр туйӑм ҫине кӑна хӑтланнӑ ансат ӗҫсем, сӑмахран, вулавӑш сисни, курӑк шӑршине шӑтни е ҫумӑр сассине итлени. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) палӑртнӑ тӑрӑх, кайранхи тапхӑрти хӑнӑхтарӑвсем ытларах туйӑмсем ҫине хӑтланмалла, тата вӑл кӗвӗ, тытса пӑхма пултаракан япаласемпе алӑ массажне аса илеть. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) палӑртнӑ тӑрӑх, кайранхи тапхӑрти ҫынсем лӑпкӑшланас тесен хӑш-пӗр япалана ҫывӑхра тытас кӑмӑл туйма пултараҫҫӗ.
 
-## Sensory ideas, sense by sense
+## Туйӑмсем тӑрӑх сенсор сӑнсем
 
-### Touch
+### Сисӳ
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Алӑ массажӗ.** Алӑра пӗчӗк сӳлевҫӗ вӗлетӗр те чӗререн пӳрнесем патне ҫемҫен сӑпӑлтартӑр. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) лӑпкӑшланасшӑн ырӑ шӑршӑсӑр сӳлевҫӗпе алӑ массажне калать.
+- **Вулавӑш корзинӗ.** Пархат, вельвет, флис, сатин тата ҫӑм вулавӑшсен пысӑк вырӑмӗсем: сисме, хучӗлеме, ҫинчен калаҫма.
+- **Вӗри тӑла.** Сивӗ кун алӑсем валли вӗри, нӗм тӑла. Малтан хӑвӑн чӗрере вӗрилинче тӗрӗслӗр.
+- **Хӑнӑхтару фартукӗ е пукан витри.** Ҫирӗп ҫыпӑҫтарнӑ пысӑк пуҫӑмсем, тимерҫӗсем, йӗпписем тата текстурӑллӑ пусмасем.
+- **Хучӗлесси тата тӳрлетесси.** Таса тӑласене е салфеткасене хучӗлеме, вырӑнластарама тата тепре хучӗлеме корзинка.
+- **Ҫемҫе япала тытма.** Флис витри, минтер е ҫут ҫанталӑк чӗрчунӗ пек ҫемҫе япала. Ӑна вӑййипе вылям япали пек ан кӑтартӑр.
 
-### Smell
+### Шӑтни
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Ҫӗрӗ курӑксем.** Мӑтта, розмарин, базилик е лаванда ҫулҫисене пӳрнесем хушшинчи сӑпса ҫын умне илсе ҫитӗр.
+- **Кухня шӑршисем.** Пӗшекен кофе, тутӑрланакан ҫӑкӑр, корица е ҫывӑхрах хатӗрленекен апельсин.
+- **Чечексем.** Садран е магазина илнӗ ҫӗрӗ чечексенчен пӗр-иккӗшне илсе килӗр.
+- **Паллӑ япала.** Ҫын яланах усӑ курнӑ саппун е сӳлевҫӗ, ҫунатӗ килӗшет пулсан.
 
-### Taste
+### Тутӑрни
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Юратнӑ тутӑрӑм.** Ҫын юратнӑ апатран пӗчӗк кашӑк, сӑмахран, яблӑк пюре, пудинг е мороженӑй, хӑрушсӑр ҫима пултаракан текстурӑпа.
+- **Пӗҫерме пулӑшни.** Пӗрле пӗҫернӗ чухне улма-ҫырли е пӗчӗк крем тутӑрни.
+- **Вӑхӑтри япаласем.** Ҫулла арбуз, кӗркунне вӗри сидр — хӑрушсӑр температурӑпа.
 
-### Sound
+### Итлени
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Юратнӑ кӗвӗсем.** Паллӑ кӗвӗсене ҫемҫе янравлӑ итлӗр; [кӗвӗпе хӑнӑхтарӑвсене](/activities/music/) пӑхӑр.
+- **Ҫут ҫанталӑк сассисем.** Ҫумӑр, хум сассисем е кайӑксем. NIA палӑртнӑ тӑрӑх, кӗвӗ, шурӑ сасӑ тата ҫут ҫанталӑк сассисем хӑш-пӗр ҫынсене лӑпкӑштарма пултараҫҫӗ.
+- **Санӑн сасу.** Вуласси, шӑпӑртатасси е калав каласси.
+- **Ансат инструментсем.** Кӗвӗпе пӗрле калатма алӑ парапанӗ, чӗтрес е шӑнкӑрав.
 
-### Sight
+### Курни
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Чӳречерен пӑхни.** Чӳрече айӗнчи кайӑк тӑракан вырӑн, киле таврӑнакан ачасем е ӳкекен юр.
+- **Пулӑсен аквариумӗ е ҫемҫе видео.** Янравсӑр, ҫемҫе хускану.
+- **Пысӑк сӑн ӳкерчӗксем.** Пӗрре пӗр ҫутӑ сӑн ӳкерчӗке куҫ шайӗнче тытса кӑтартӑр.
+- **Тӗс тата йӗрке.** Йӑлтӑр вулавӑш вырӑмӗсене, чечексене е тӗслӗ салфеткасене уйӑрасси, е пирӗн [сӑрласси](/games/coloring/) пуххинчен ансат сӑн ӳкерчӗк.
+- **Урамра.** NHS ырӑ шӑршӑллӑ ӳсен-тӑрансем, текстурӑсем тата шыв ӗҫлӗхӗсемпе сенсор садсене сӗнет. [Урамри тата садри хӑнӑхтарӑвсене](/activities/outdoor-and-gardening/) пӑхӑр.
 
-## How to make a sensory box
+## Сенсор коробка мӗнле хатӗрлемелли
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Ҫын пурнӑҫӗпе ҫыхӑннӑ темӑна суйлӑр**: тинӗс айӗ, сад, кухня, мастерской, ҫӗклев.
+2. **Пилӗк-улттӑ пысӑк, хӑрушсӑр япала суйлӑр**: пысӑк рак куҫӗ, йывӑҫ кашӑк, ҫемҫе шарф, ҫирӗп ҫӗкленӗ типӗтнӗ лаванда сӑкки е ҫемҫен йывӑҫ блокӗ.
+3. **Кашни япалана тӗрӗслӗр**: пӗчӗк пайӗсем, ҫивӗч айӗсем, ирӗк йӗпписем е ҫӗмӗрӗлекен япаласем пур-и.
+4. **Пӗрре пӗр япалана кӑтартӑр.** Ҫынна парӑр, мӗнле япала пулнине калӑр тата тытса тӗрӗслеме май парӑр.
+5. **Кайран коробкӑна хурса хӑварӑр**, ҫапла вӑл кӑсӑклӑх пулса юлӗ тата тепӗр хут усӑ куриччен япаласене тепре тӗрӗсленӗ.
 
-## Safety first
+## Хӑрушсӑрлӑх малтан
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Сенсор хӑнӑхтарӑвӗсем ҫемҫе, анчах пӗр-ик хӑрушлӑха шута илмелле. Деменципе пурӑнакан хӑш-пӗр ҫынсем апат мар япаласене апат пек йӑнӑшма пултараҫҫӗ, ҫытса яни те вӑхӑтпа йывӑрланма пултарать. NIA кайранхи тапхӑрти ҫытса яни йывӑрлӑхӗсем чӗрмекен хӑрушлӑха пысӑклатнине палӑртать.
 
-| Risk | What to do |
+| Хӑрушлӑх | Мӗн тумалла |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Чӗрмекенни | Ҫӑвара анма пысӑк япаласене кӑна усӑ курӑр. Коробкӑра пуҫӑм, пӗрчи, укҫа, шӑркӑ е пӗчӗк вылям япалисем ирӗк ан юлччӑр. Пӑхса тӑракан ушкӑн хӑрушсӑр тенӗ текстурӑра кӑна апат парӑр. |
+| Апат пек курӑнакан япаласем | NIA сӳлевҫӗсене, саппунсене, шампуньсене тата духисене ҫӗксе хурма сӗнет, мӗншӗн тесен вӗсем апат пек курӑнма е шӑршӑлама пултараҫҫӗ. Искуҫҫӗн тунӑ улма-ҫырлисене те кӑларса пӑрахӑр. Сенсор япаласене усӑ курнӑ хыҫҫӑн упрар. |
+| Аллерги | Пуҫламас умӗн ҫӗмӗрт, латекс, ҫӑм, ӳсен-тӑран е ырӑ шӑршӑ ҫине аллерги пур-и тесе тӗрӗслӗр. |
+| Вӑйли шӑршӑсем | Вӑйли духисенчен тата эфир майӗсенчен, уйрӑмах астма е ытти сывлани йывӑрлӑхӗсем пур чухне, тарӑнӑр. Ҫемҫе, ҫут ҫанталӑк шӑршисем хӑрушсӑрах. |
+| Ҫунат | Массаж умӗн ыратнӑ, ҫӗмӗрӗлнӗ е ҫемҫе ҫуната тӗрӗслӗр. Ҫемҫен пусӑр тата ҫын чӑтӑлать пулсан чарӑнӑр. |
+| Температура | Вӗри тӑласене тата ӗҫмелли япаласене малтан хӑвӑн чӗрере тӗрӗслӗр. |
+| Ҫивӗч е ядовитӑ япаласем | Ҫивӗч хатӗрсем, кӗленче е ядовитӑ творчество япалисем ан усӑ курӑр. |
 
-## Does aromatherapy help?
+## Ароматерапи пулӑшать-и?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Тӗрӗсленекен майпа, ҫук. [Cochrane тӗрӗсӗ: деменци тӗлӗшпе ароматерапи](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) пӑхса тӑракан пӳлӗмсенче пурӑнакан 708 ҫынпа ирттернӗ 13 тӗпчеве пӑхнӑ, анчах ӗнентерӳллӗ усӑ тупман. Тӗпчевсем пӗчӗк пулнӑ, результачӗсем пӗр-пӗринпе пӗр килмен, унсӑр пуҫне хӑрушлӑх енчен реакцисем те лайӑх ҫырса хунӑ мар. Ҫын садри лаванда шӑршӑ пек ҫемҫе, паллӑ шӑршӑна йӑл кӑмӑлланать пулсан, ҫавна пайланма юрӑхлӑ. Ку емлеме средство мар.
 
-## How to offer a sensory activity
+## Сенсор хӑнӑхтарӑва мӗнле сӗнмелли
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Лӑпкӑ самант суйлӑр** тата телевизора сӳнтерӗр.
+- **Малтан умӗнчен ҫитӗр**, ятне чӗнӗр тата тытӑнмас умӗн ыйтӑр е пӗлтерӗр: «Манӑн сӳлевҫӗ пур. Алӑсене ҫемҫен сӑпӑлтараймар-и?»
+- **Пӗрре пӗр япалана кӑтартӑр**, ҫапла ытла нумай пулмӗ.
+- **Реакцине сӑнаса тӑрӑр.** Ҫемҫенекен пит, лӑпкӑ алӑсем е кулӑшла ҫамрӑк — лайӑх паллӑсем. Каялла тӑни, пит чӑтӑлни е канӑҫсӑрлӑх — чарӑнмалли паллӑсем.
+- **Кӗскерех тытӑр.** Пилӗк лӑпкӑ минут та лайӑх хӑнӑхтару.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Пӗрле ҫемҫен сывланисси, сӑмахран, [ҫемҫен сывлани](/games/calm-breathing/) пек, вӗҫлеме ҫемҫе май пулма пултарать. Вырана хушма ытти сӑнсем валли [кайранхи тапхӑрти хӑнӑхтарӑвсене](/activities/late-stage/) пӑхӑр, каҫхи вӑхӑтра канӑҫсӑрлӑх пирки [каҫхи канӑҫсӑрлӑх](/caregiving/late-day-restlessness/) страницине пӑхӑр.

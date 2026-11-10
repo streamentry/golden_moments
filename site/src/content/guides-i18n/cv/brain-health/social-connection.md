@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Ҫыхӑну тата пуҫ миме: юратусӑрлӑх, уйрӑмлӑх, деменци"
+seoTitle: "Юратусӑрлӑх, уйрӑмлӑх тата деменци риски"
+description: "Юратусӑрлӑхпа уйрӑмлӑх деменци рискипе мӗнле ҫыхӑннӑ, Ҫӗнӗ Штатсен ґенерал хирурги мӗн каланӑ, пӗрле ҫыхӑнма май килекен ансат мелсем."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Тӗпчевсем ваталнӑ чухнехи уйрӑмлӑхпа юратусӑрлӑх деменци риски ытларах пулнипе ҫыхӑннӑ
+  тесе кӑтартать. 2024 ҫулхи Lancet комиссийӗ уйрӑмлӑх случаесен 5% ҫывӑхне йышӑнать тесе
+  хакланӑ, анчах та ку ҫыхӑну пайӗ деменцин малтанхи паллисене ҫынсен пӗр-пӗринчен
+  тартса кайнипе ҫыхӑнма пултарать. Ҫыхӑнса тӑрасси, пӗрле хӑнасем тата илтӗве пулӑшасси
+  ҫыхӑнӑва упрама пулӑшать. Деменципе пурӑнакан ҫынсем валли пӗрле ӗҫлеме килӗшекен ӗҫсем
+  пурӑнӑҫ пахалӑхӗ валли пӗлтерӗшлӗ; тӗллев — ҫыхӑну, результат мар.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet комиссийӗ ваталнӑ чухнехи уйрӑмлӑха деменци рискне чакарма май килекен 14 факторӑн пӗри тесе йышӑнать, вӑл случаесен 5% ҫывӑхне тивӗҫтерет."
+  - "Ҫӗнӗ Штатсен ґенерал хирурги 2023 ҫулхи пӗлтерӗвӗнче вӑрӑм юратусӑрлӑхпа уйрӑмлӑх ватӑ ҫынсенче деменци рискине 50% ҫывӑх ӳстерме пултарнине палӑртнӑ."
+  - "Ку свидетельствосен чылайӑшӗ сӑнавсем ҫине никӗсленнӗ, тата деменцин малтанхи паллисӗсем ҫынна ыттисемпе ҫыхӑнӑвӗнчен чикме пултараҫҫӗ."
+  - "Илтӗв тата курӑну йывӑрлӑхӗсем, пӗччен пурӑнасси тата ытти ҫынна пӑхса тӑрасси уйрӑмлӑх рискине ӳстереҫҫӗ."
+  - "Деменципе пурӑнакан ҫынсем валли килӗшекен пӗрле ӗҫсем пурӑнӑҫ пахалӑхне пулӑшаҫҫӗ; тӗллев — ҫыхӑну, результат мар."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Юратусӑрлӑх деменци кӑларса тӑрат-и?"
+    a: "Ку ҫинчен ҫирӗп доказательство ҫук. Нумай тӗпчевсем юратусӑрлӑхпа уйрӑмлӑха деменци риски ытларах пулнипе ҫыхӑнтараҫҫӗ, анчах та пуҫ мимин малтанхи улшӑнӑвӗсем те ҫынна ыттисемпе ҫыхӑнӑвӗнчен чикме пултараҫҫӗ. Ҫыхӑнса тӑрасси кӑмӑл тата сывлӑх валли ытти усӑллӑ та, ҫавна май унпа пулӑшасси кирлӗ."
+  - q: "Юратусӑрлӑхпа уйрӑмлӑх хушшинче мӗнле уйрӑмлӑх пур?"
+    a: "Уйрӑмлӑх — куллен ҫыхӑнма ҫынсем сахал пулни. Юратусӑрлӑх — пӗчченлӗх туйӑмӗ е ыттисемпе ҫыхӑнусӑрлӑх туйӑмӗ. Ҫын пӗччен пурӑнма та, юратусӑрлӑх туйма та пултарать; ҫынсем хушшинче те юратусӑрлӑх туйма пултарать."
+  - q: "Деменципе пурӑнакан ашшӗпе-амӑшӗпе ҫыхӑнса тӑма мӗнле пулӑшмалла?"
+    a: "Кӗскен тата йӗркеллӗ ҫыхӑну лайӑх ӗҫлет. Эрнере пӗр хут шӑнкӑрав е видео ҫыхӑну, пӗрле ӗҫ, асра юлса кафе е ачапа-пӑчапа, тӑварпа тӗл пулу усӑллӑ пулма пултарать. Ушкӑнсене пӗчӗк тата шӑплӑх тытӑр, ҫынна хӑй темпне палӑртма май парӑр."
+  - q: "Уйрӑмлӑхра пурӑнакан ватӑ ҫын валли вырӑнти пулӑшу ӑҫтан тупмалла?"
+    a: "Eldercare Locator — ҫемьесене вырӑнти ватӑ ҫынсем агентствисемпе тата пӗрлӗх программисемпе ҫыхӑнтаракан халӑх сервисӗ. Унпа 800-677-1116 номерпа е eldercare.acl.gov сайт урлӑ ҫыхӑнма пулать."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Ҫынсем ҫыхӑнура пурӑнма йӗркеленнӗ, ку ваталнӑ чухне те улшӑнмасть. Тӗпчевсем ваталнӑ чухнехи юратусӑрлӑхпа уйрӑмлӑха деменци риски ытларах пулнипе ҫыхӑнтараҫҫӗ, ҫавӑн пекех чӗре ывӑнӑвӗсемпе депрессипе те. Анчах та ку ҫыхӑну мӗн чухлӗ сӑлтавпа следстви пулнине тӗпчевсем халӗ те тӗрӗс калама пултараҫҫӗ. Ку страницӑра свидетельствосем мӗн кӑтартни, ҫыхӑнса тӑма пулӑшакан практикӑ мелсем тата деменципе пурӑнакан ҫынсем валли пӗрле ӗҫлеме мӗншӗн пӗлтерӗшлӗ ҫинчен каланать.
 
-## Are loneliness and isolation linked with dementia?
+## Юратусӑрлӑхпа уйрӑмлӑх деменципе ҫыхӑннӑ-и?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Ҫапла, нумай тӗпчевсем вӗсене ҫыхӑнтараҫҫӗ, анчах та йӗрки тӗрӗс уҫӑлман-ха. [2024 ҫулхи Lancet комиссийӗ](https://doi.org/10.1016/S0140-6736(24)01296-0) ваталнӑ чухнехи уйрӑмлӑха деменци рискне чакарма май килекен 14 факторӑн пӗри тесе йышӑнать. [UCL отчётӑн кӗске ӑнлантарӑвӗ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ку фактор тӗнче тӗлӗнчи деменци случаесен 5% ҫывӑхне тивӗҫтерет тесе палӑртать.
 
-What the evidence shows:
+Свидетельствосем мӗн кӑтартать:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Ҫыхӑну сахалрах — риск ытларах.** Комисси икӗ пӗтӗмлетӳ ҫинчен калать: вӗсенче ҫыхӑну сахалрах пулни деменци рискипе ҫыхӑннӑ. Пӗр тӗпчевре риск 57% ҫывӑх ытларах, тепринче 18% ҫывӑх ытларах пулнӑ.
+- **Юратусӑрлӑх та.** Юратусӑрлӑх, вӑл ыттисемпе ҫыхӑнусӑрлӑх туйӑмӗ, темиҫе пӗтӗмлетӳре те деменци риски ытларах пулнипе ҫыхӑннӑ.
+- **Ҫӗнӗ Штатсен ґенерал хирурги сӑмахӗ.** 2023 ҫулхи ҫу уйӑхӗнче Ҫӗнӗ Штатсен ґенерал хирурги [юратусӑрлӑхпа уйрӑмлӑх ҫинчен пӗлтерӳ](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) туса кӑларнӑ. Унта вӑрӑм юратусӑрлӑхпа уйрӑмлӑх ватӑ ҫынсенче деменци рискине 50% ҫывӑх ӳстерме пултарни палӑртнӑ. Ҫавӑн пекех ҫыхӑну йывӑрлӑхӗсем чӗре ывӑнӑвӗ рискне 29% ытларах, инсульт рискне 32% ытларах пулнипе ҫыхӑннӑ.
+- **Ку мӗн чухлӗ тӗл пулать.** [Патшалӑх академийӗсен отчёчӗ](https://www.ncbi.nlm.nih.gov/books/NBK557972/) пӗрлӗхре пурӑнакан 65 ҫултан ытла Америкӑ ҫыннисене 24% ҫывӑхӗ уйрӑмлӑхра пурӑнать тесе кӑтартнӑ.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Пӗлтерӗшлӗ асӑрхаттару: Lancet комиссийӗ палӑртнӑ тӑрӑх, ҫынсем деменцин малтанхи, палӑрман тапхӑрӗнче пӗр-пӗринпе ҫыхӑнӑва чакарма пултараҫҫӗ. Ҫавна май ку ҫыхӑнӑвӑн пайӗ уйрӑмлӑх риске ӳстернинчен мар, деменци уйрӑмлӑха кӳртнипе ҫыхӑнма пултарать. Ку свидетельствосен чылайӑшӗ сӑнавсем ҫине никӗсленнӗ.
 
-## What is the difference between loneliness and isolation?
+## Юратусӑрлӑхпа уйрӑмлӑх хушшинче мӗнле уйрӑмлӑх пур?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Ваталӑха ҫитме тивекен ҫынсем патшалӑх институтӗ (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) ҫапла ӑнлантарать. **Уйрӑмлӑх** — куллен ҫыхӑнма ҫынсем сахал пулни е ҫынсемпе куллен тӗл пулма май сахал пулни. **Юратусӑрлӑх** — пӗчченлӗх туйӑмӗ е ыттисемпе ҫыхӑнусӑрлӑх туйӑмӗ. Ҫын пӗччен те телейлӗ пурӑнма пултарать, ҫынсем хушшинче те юратусӑрлӑх туйма пултарать.
 
-The NIA lists factors that raise the risk of both:
+NIA иккӗшне те йывӑрлатакан факторсене палӑртать:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Илтӗв е курӑну йывӑрлӑхӗсем
+- Ҫӳреме йывӑрлӑх е транспорта ҫукки
+- Пӗччен пурӑнасси, е пысӑк ҫухату (юлашкин вилни, ӗҫрен тухни)
+- Аса илӳ е шухӑшлав улшӑнӑвӗсем
+- Чирлӗ ҫынна пӑхса тӑрасси
+- Укҫа йывӑрлӑхӗсем е чӗлхе чарӑвӗсем
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Илтӗв — пӗлтерӗшлӗ фактор. NIA палӑртнӑ тӑрӑх, лайӑх илтмен ҫынсем калаҫу йывӑр е именчӗклӗ пулса тӑнине пула ыттисемпе ҫыхӑнӑвӗнчен тартса кайма пултараҫҫӗ. [Илтӗв тата пуҫ миме ҫинчен кулленхи страницӑра](/brain-health/hearing/) илтӗве тӗрӗслесси тата рецепсӑр илме пултаракан илтӳ хатӗрӗсем ҫинчен каланать.
 
-## Practical ways to stay connected
+## Ҫыхӑнса тӑма пулӑшакан мелсем
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA темиҫе сӗнӳ парать. Сире килӗшекен пӗр-иккӗшне суйлӑр:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Йӗркеллӗ ҫыхӑну йӗркелӗр.** Кунсерен е эрнесерен пӗр вӑхӑт палӑртӑр: ҫемьепе, туссемпе е сусӑрсемпе шӑнкӑравлашас, ҫыру ямас, электронлӑ ҫыру ямас е открытка ямас тесе.
+- **Видео ҫыхӑнӑва е хӑварт сасӑллӑ хатӗрсене усӑ курӑр.** Технологи ҫӗнӗ пулсан, нумай халӑх вулавӑшӗсемпе пӗрлӗх центрӗсем вӗренӳ курсӗсем ирттереҫҫӗ. [Телефонпа видео ҫыхӑну ҫинчен кулленхи страницӑра](/activities/phone-and-video-calls/) тӗплӗнрех паллашӑр.
+- **Пӗр-пӗр ӗҫе хутшӑнӑр.** Курс, тӗн ушкӑнӗ, уҫӑлса ҫӳрев ушкӑнӗ е волонтёр ӗҫӗ ҫыхӑну тата кирлӗлӗх туйӑмӗ парать.
+- **Авалхи хӑнана тепӗр хут пуҫлӑр** е ыттисемпе пӗрле ҫӗнӗ хӑна вӗренӗр.
+- **Ыттисемпе пӗрле хускатӑр.** Туспа е ушкӑнпа хӑнӑхтару тӑвӑр. [Хӑнӑхтару ҫинчен кулленхи страницӑра](/brain-health/exercise/) ҫемҫе вариантсем пур.
+- **Пӑхма пултаратӑр пулсан, чӗр-чун тытма шухӑшлӑр.**
+- **Вырӑнти сервиссене усӑ курӑр.** Ватӑ ҫынсем центрӗсем, Area Agencies on Aging тата Eldercare Locator (800-677-1116) программӑсемпе транспорт ҫинчен пӗлтерме пултараҫҫӗ.
 
-## Why do shared activities matter in dementia?
+## Деменципе пурӑнакан ҫынсем валли пӗрле ӗҫлеме мӗншӗн пӗлтерӗшлӗ?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Деменципе пурӑнакан ҫын валли ҫыхӑну — телей, хӑтлӑх тата пӗрлӗхре туйӑмӗ, риск чакарни мар. Lancet комиссийӗ ӗҫсем деменципе пурӑнакан ҫынсене телейпе тӗллевлӗх туйӑмӗ упрама пулӑшнине палӑртать. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) пурӑнӑҫ пахалӑхне лайӑхлатнинчен уйрӑх, ӗҫсем ҫӳреме тухас, хытӑ ҫекленес май килекен хӑтланусене чакарма пултарнине калать. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) Альцгеймер чирӗпе пурӑнакан ҫынсене хастар тата вӗсене килӗшекен ӗҫсемпе ӗҫлеме кирлӗ тесе хушать.
 
-Ideas that work well:
+Лайӑх ӗҫлекен сӗнӳсем:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Пӗрле сӑн ӳкерчӗксене пӑхӑр.** [Conversation Cards](/games/conversation-cards/) уҫӑ, экзаменсӑр ыйтусем парать, сӑмахран: «Манпа ҫакна ҫинчен каласа пар…» [Аса илӳ ӗҫӗсем ҫинчен кулленхи страницӑра](/activities/reminiscence/) ытларах информаци пур.
+2. **Пӗр-пӗрин аякра вылӑр.** [Picture Pairs](/games/picture-pairs/) сӑн ӳкерчӗксене курӑмлӑ тытать, вӑхӑт е очко ҫук, ҫавна май пысӑклатассишӗн ҫук. [Пӗрле мӗнле вылямалли ҫинчен кулленхи страницӑра](/caregiving/how-to-play-together/) сӗнӳсем пур.
+3. **Ҫемье сӑн ӳкерчӗкӗсене усӑ курӑр.** [Photo Pairs](/games/photo-pairs/) эсир суйланӑ сӑн ӳкерчӗксене пӗр-пӗрне тупас выляна куҫарать, тата сӑн ӳкерчӗксем сирӗн хатӗрте юлать.
+4. **Ҫынсене пӗрле пухӑр.** [Picture Bingo](/games/picture-bingo/) ҫемье пухӑнӑвӗсем валли те, [пӑхса тӑракан учреждени ушкӑнӗсем](/activities/care-home-groups/) валли те килӗшет.
+5. **Пӗрле кӗвӗ итлӗр, кил ӗҫӗсем тӑвӑр е пахчара ӗҫлӗр.** [Кӗвӗ ӗҫӗсем](/activities/music/), [кил ӗҫӗсем](/activities/household-tasks/) тата [ӗҫ сӗнӳвӗсен тулли списокӗ](/activities/ideas/) ҫинчен паллашӑр.
+6. **Куҫа ҫӳресе пынине ҫӑмӑллатӑр.** [Куҫа ҫӳресе пыни ҫинчен кулленхи страницӑра](/activities/visiting/) кӗскен, лӑпкӑ тӗл пулусем пуррисем валли те лайӑх пуласси ҫинчен каланать.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Ӗҫсене пӗчӗк тата лӑпкӑ тытӑр. Шӑплӑх пӳлӗмре пӗр-ик ҫынпа пулни час-часах пысӑк ушкӑнран лайӑхрах ӗҫлет. Ҫын ывӑнсан е кӑмӑлӗ тухсан, чарӑнни ним те мар. Пӗрле ларса чей ӗҫни те лайӑх результат.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Деменципе пӗччен пурӑнакан ҫын валли NIA шанчӑклӑ ҫын тупма сӗнет: вӑл йӗркеллӗн куҫа ҫӳреме пырса каяс е видео ҫыхӑнӑв туса каяс, тата хӑтлӑх чухне ҫыхӑнмалли ҫын пулас. Ҫавӑн пекех NIA вырӑнти асра юлса кафе (memory cafe) ҫинчен калать — ас улшӑнӑвӗпе пурӑнакан ҫынсемпе вӗсен ҫемьисем валли лӑпкӑ тӗл пулу вырӑнӗ.
 
-## Caregivers get lonely too
+## Пӑхса тӑракан ҫынсем те юратусӑрлӑх туйма пултараҫҫӗ
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA чирлӗ ҫынна пӑхса тӑрассине уйрӑмлӑх факторӗ тесе палӑртать. Хӑвӑрӑн туслӑхсем, пулӑшу ушкӑнӗсем тата кану валли вӑхӑт хӑварӑр. [Пӑхса тӑракан ҫынсем хӑйсене мӗнле пӑхмалли ҫинчен кулленхи страницӑра](/caregiving/caregiver-self-care/) практикӑ сӗнӳсем пур.
 
-## Talk with a doctor
+## Тухтӑрпа калаҫӑр
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Эсир е эсир пӑхса тӑракан ҫын час-часах юратусӑрлӑх е уйрӑмлӑх туйсан, тухтӑра пӗлтерӗр. NIA пурӑнӑҫри пысӑк улшӑнӑвсем ҫинчен, сӑмахран ҫемьере вилӗм пулсан, калама сӗнет, ҫапла тухтӑр тулли сӑнӳка ăнланма пултарать. Темиҫе эрне хушши пӑрах кӑмӑл селӗк пулни депресси палли пулма пултарать, ун валли пулӑшу пур. Енчен те ватӑ ҫын маларах килӗшекен туссенчен е ӗҫсенчен вӑрттӑн тартса кайса пуҫласан, ку улшӑнӑв ҫинчен тухтӑра калани усӑллӑ. [Малтанхи паллисене тата мӗн чухне тухтӑр патне каймаллине](/brain-health/warning-signs/) вуласа паллашӑр.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ку страница пӗрлехи информаци парать, медика пулӑшӑвӗ мар. [Медицинӑ пӗлтерӗвне](/medical-disclaimer/) пӑхӑр.

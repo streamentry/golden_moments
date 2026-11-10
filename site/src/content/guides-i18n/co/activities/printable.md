@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Attività da stampà per a dimenza"
+seoTitle: "Attività da stampà per a dimenza, grandi"
+description: "Attività gratis da stampà per a dimenza: parolle à circà in grande, pagine da culurisce, carte per parlà è tombula cù imagine, cù cunsigli."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments prupone attività gratis da stampà per a dimenza: una ricerca
+  di parolle in grande, pagine da culurisce, carte cù imagine per parlà inseme
+  è carte di tombula cù imagine. Aprite a pagina di un ghjocu è aduprate u so
+  buttone Stampà. Stampate in caratteri grandi è semplici, nantu à carta
+  spessa, cù una sola attività per pagina, è plastificate e pagine chì vulete
+  riutilizà. Ancu e stampe simplici fatte in casa, cum’è una pagina di storia
+  di vita o un prugramma di a ghjurnata, ponu esse utili.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "E nostre attività da stampà sò gratis: Ricerca di parolle, Culuritura, Carte per parlà è Tombula cù imagine. Ogni pagina di ghjocu hà un buttone Stampà."
+  - "Stampate in caratteri grandi è simplici, cù un bon cuntrastu, è tene una sola attività per pagina."
+  - "A carta spessa o u cartone sò più faciuli da tene è si stropiccianu menu. Plastificate e pagine per riutilizalle cù marcatori chì si cancellanu."
+  - "E stampe simplici fatte in casa, cum’è una pagina di storia di vita, un prugramma di a ghjurnata o etichette cù imagine per e porte, sò faciule è utile."
+  - "Una pagina stampata hè un invitu, micca un duvere. Fà una parte, o nunda, va bè."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "E vostre attività da stampà per a dimenza sò gratis?"
+    a: "Iè. E pagine Ricerca di parolle, Culuritura, Carte per parlà è Tombula cù imagine nant’à stu situ sò gratis da aduprà è da stampà. Aprite a pagina di u ghjocu è aduprate u buttone Stampà."
+  - q: "Chì attività da stampà sò più adatte per a dimenza?"
+    a: "E stampe più adatte sò simplici, chjare è per adulti: una ricerca di parolle in grande cù parolle solu in orizuntale è in verticale, pagine da culurisce cù contorni chjari, carte cù imagine chì danu u via à una cunversazione, è tombula cù imagine per i gruppi. Sceglite l’attività secondu i gusti è e capacità attuali di a persona, è tene una sola attività per pagina."
+  - q: "Cumu possu fà e stampe più faciule à vede è à aduprà?"
+    a: "Aduprate caratteri grandi è simplici, inchjostru scuru nantu à carta bianca o crema, è assai spaziu. Stampate nantu à carta spessa o cartone per chì a pagina resti piana, sceglite carta opaca per riduce i riflessi, è aduprate un tavulettu cù pinza o un tappetinu antiscivulu per tene a pagina ferma. A plastificazione aiuta e pagine à durà."
+  - q: "Possu stampà e vostre attività per una casa di riposu o un prugramma di ghjornu?"
+    a: "Iè. U persunale di l’attività pò stampà e nostre pagine per i residenti è i gruppi. Tombula cù imagine hè pensata per i gruppi è include un presentatore nant’à u screnu chì pudete mustrà nant’à una televisione o un pruiettore."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Qualchì volta, l’attività più simplice hè un fogliu di carta è una penna à u tavulinu di a cucina. E stampe ùn anu bisognu nè di carica, nè di password, nè di screnu, è sò faciule da purtà durante una visita o in un gruppu. Questa pagina descrive l’attività gratis da stampà nant’à u nostru situ, cumu stampalle per ch’elli sianu faciule à vede è à tene, è qualchì stampa simplice fatta in casa chì e famiglie è u persunale di l’attività trovanu utile.
 
-## What free printable activities do you offer?
+## Chì attività gratis da stampà prupunite?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Prupunimu quattru stampe gratis. Aprite una di ste pagine di ghjocu è aduprate u buttone **Stampà** per uttene una versione faciule da stampà.
 
-| Printable | What it is | Good for |
+| Stampa | Cosa hè | Adatta per |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Ricerca di parolle](/games/word-search/) | Una ricerca di parolle in grande, cù parolle solu in orizuntale è in verticale | Un mumentu tranquillu cù una penna; una persona chì li piacianu i ghjochi di parolle |
+| [Culuritura](/games/coloring/) | Pagine da stampà, o da culurisce nant’à u screnu | Un mumentu calmu è creativu; à ogni tappa, cù un pocu d’aiutu |
+| [Carte per parlà](/games/conversation-cards/) | Carte cù imagine è dumande aperte per parlà inseme, per tema | Visite, chjame, pasti in famiglia, gruppi di ricordi |
+| [Tombula cù imagine](/games/picture-bingo/) | Carte di tombula cù imagine invece di numeri, cù un presentatore nant’à u screnu | Case di riposu, prugrammi di ghjornu, riunioni di famiglia |
 
-### Large-print word search
+### Ricerca di parolle in grande
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+A [Ricerca di parolle](/games/word-search/) adopra lettere grandi è tene e parolle solu in orizuntale è in verticale, senza diagonale nè parolle à l’inversu. Fà la inseme: una persona leghje una parolla di a lista, l’altra a cerca. S’ella diventa difficiule di truvà e parolle, pruvate à circundà inseme a prima lettera d’ogni parolla, o simpliciamente à leghje a lista à voce alta è à parlà d’ogni parolla.
 
-### Coloring pages
+### Pagine da culurisce
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+E pagine di [Culuritura](/games/coloring/) si ponu stampà per aduprà marcatori o matite culurite, o si ponu culurisce nant’à una tavuletta tuccendu un culore, poi una parte di l’imagine. Per e pagine stampate, prupunite marcatori grossi è pochi culori à a volta. Vidite a nostra [guida à l’arti è à i travagli manuali](/activities/arts-and-crafts/) per modi di mantene a culuritura simplice è rilassante per un adultu.
 
-### Conversation cards
+### Carte per parlà
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+E [Carte per parlà](/games/conversation-cards/) assucianu una imagine chjara cù una dumanda aperta, cum’è « Parlatemi di... » o « Chì rimarcate? ». Sò scritte cum’è inviti aperti, micca cum’è dumande di quiz. Stampate un inseme, tagliate e carte, è tenitene qualchì una in una borsa per e visite o accantu à u telefunu per e chjame. Funzionanu bè ancu in i gruppi di [ricordi](/activities/reminiscence/).
 
-### Picture bingo cards
+### Carte di tombula cù imagine
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+E carte di [Tombula cù imagine](/games/picture-bingo/) adopranu imagine invece di numeri. Stampate una carta per ghjucadore è aduprate u presentatore nant’à u screnu nant’à un urdinatore purtèvule, una televisione o un pruiettore. Vi cunsigliemu di chjamà finu à chì a carta d’ognunu sia piena, per chì nimu si senti messu da cantu. Vidite [attività in gruppu per e case di riposu](/activities/care-home-groups/) per sapè cumu urganizà una sessione.
 
-## How do I print activities so they are easy to use?
+## Cumu possu stampà l’attività per ch’elle sianu faciule da aduprà?
 
-Small changes in how you print make a big difference.
+Picculi cambiamenti in a manera di stampà ponu fà una grande differenza.
 
-### Make it easy to see
+### Rendela faciule à vede
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Caratteri grandi è simplici.** Aduprate a dimensione di stampa più grande chì entra sempre in a pagina. Evitate i caratteri fantasiosi o scritti à manu.
+- **Bon cuntrastu.** Inchjostru scuru nantu à carta bianca o crema. Evitate u grisgiu chjaru o i fondi culuriti.
+- **A carta opaca** riduce i riflessi sottu à luci forte.
+- **Verificate l’ochjali è a luce.** L’Alzheimer’s Association rimarca chì i prublemi di vista è d’uditu ponu rende a cumunicazione più difficiule, è cunsiglia di falle verificà regularmente. Una lampa luminosa è uniforme aiuta dinù.
 
-### Make it easy to hold
+### Rendela faciule à tene
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **A carta spessa o u cartone** resta pianu, hè più faciule da piglià è resiste megliu à un usu ripetutu.
+- **Un tavulettu cù pinza** o un tappetinu antiscivulu impedisce à a pagina di sculiscià.
+- **Marcatori grossi o matite spesse** sò più faciule da tene ch’è e penne fine.
 
-### Make it reusable
+### Rendela riutilizèvule
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Plastificate e pagine** o mettitele in custodie trasparenti. Aduprate marcatori chì si cancellanu nant’à e ricerche di parolle è e carte di tombula, poi asciuvate.
+- **Sceglite custodie opache** s’è i riflessi sò un prublema, è **arrotondate l’anguli** di e carte plastificate cù e forbice per ch’elle sianu più piacevule à tene.
+- **Tenite un cartulare** di i vostri favuriti per ùn stampà micca a listessa pagina ogni settimana.
 
-### Keep it simple
+### Tenela simplice
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Una sola attività per pagina.** Una sola ricerca di parolle o una sola imagine, micca parechje attività inseme nant’à a listessa pagina.
+- **Assai spaziu biancu.** Una pagina troppu piena pò parè troppu carica.
+- **Poche istruzzioni da leghje, quandu hè pussibule.** Mustrate à a persona ciò chì ci hè da fà.
+- **Tagliate i fogli.** S’è una pagina sana hè troppu, tagliatela à metà o piegatela per ch’ella si vega solu una parte.
 
-## Other useful printables you can make at home
+## Chì altre stampe utili possu fà in casa?
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ùn sò micca tutti i ghjochi e stampe utili. Sti stampe sò faciule da fà cù un prugramma di testu è una stampante.
 
-### A life-story page
+### Una pagina di storia di vita
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Un fogliu d’una pagina « nantu à mè » cù una foto, u nome chì a persona preferisce, induve hè cresciuta, u so travagliu, a so famiglia, i so cibi è a so musica preferiti, è ciò chì a calma o a disturba. Dementia Australia suggerisce un [libru di ricordi](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) cù detaglii nant’à a vita di a persona, ciò ch’ella li piace è e persone impurtante, per aiutà i visitori è e persone chì accudiscenu è per dà u via à a cunversazione.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Hè soprattuttu utile in l’uspidali è in i lochi novi di cura. U NIA cunsiglia di dà à u persunale di l’uspidale un [fogliu d’infurmazioni persunali](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) chì copre a rutina di a persona, u nome preferitu, ciò chì li piace è ciò chì ùn li piace micca, ciò chì pò disturballa, è i segni di dulore chì ùn sò micca verbali.
 
-### A daily schedule
+### Un prugramma di a ghjurnata
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Un prugramma simplice di a ghjurnata, in grande, cù l’ore, poche parolle è una piccula imagine per ogni mumentu: colazione, spasseggiata, pranzu, riposu, musica, cena. U [prugramma di cura cutidianu](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) di l’Alzheimer’s Association suggerisce d’urganizà a ghjurnata secondu i mumenti in chì a persona si sente megliu, cù ore regulare per svegliassi è per andà à dorme, è un equilibriu trà attività è riposu. Mettitelu à l’altura di l’ochji, per esempiu nant’à u frigorifiru, è lasciatelu flessibile. Vidite a nostra [guida à a rutina cutidiana](/activities/daily-routine/) per sapenne di più.
 
-### Picture labels for rooms and drawers
+### Etichette cù imagine per e camere è i cassetti
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+U NIA suggerisce d’aduprà cartelli di culori vivi o imagine simplici per [etichettà u bagnu, a camera è a cucina](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). A listessa idea funziona per i cassetti è l’armarii: una imagine di calzette nant’à u cassettu di e calzette, di tazze nant’à l’armariu di e tazze. Stampate, plastificate è appiccicatele.
 
-### A sorting set
+### Un inseme da classificà
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Stampate imagine di duie categurie simplici, cum’è frutti è fiori o arnesi è oggetti di cucina, nantu à cartone. Tagliatele è classificatele inseme in dui panieri. A versione nant’à u screnu hè [Classificà inseme](/games/sort-together/).
 
-### Song lyric sheets
+### Fogli cù e parolle di e canzone
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Stampate e parolle di qualchì canzona preferita in caratteri assai grandi per cantà inseme. Ancu e persone chì leghjenu menu ponu esse cuntente di tene u fogliu.
 
-### A family photo page
+### Una pagina di foto di famiglia
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Una sola pagina cù quattru à sei grandi foto di famiglia, ognuna cù un nome sottu. Pò stà nant’à u tavulinu per chì ognunu a possa piglià è parlà ne. L’etichette aiutanu i visitori è u persunale à entre in a cunversazione, è nimu hà bisognu di dumandà « Quale hè? ».
 
-### A recipe card
+### Una ricetta
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Stampate una ricetta di famiglia preferita in caratteri grandi. Pudete adupralla per cucinà inseme, o simpliciamente per parlà di i pasti d’una volta.
 
-## How do I offer a printable without it feeling like homework?
+## Cumu possu prupone una stampa senza ch’ella pari un duvere?
 
-Present it as something to share, not a test.
+Prisintatela cum’è qualcosa da sparte, micca cum’è una prova.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Pusatevi è cuminciate voi.** « Sò à fà sta ricerca di parolle. Mi vulete aiutà à truvà “giardinu”? »
+- **Fà la inseme.** Fate à turnu, o una persona cerca è l’altra circunda.
+- **Ùn a marcate mai cum’è ghjusta o sbagliata.** A guida di l’Alzheimer’s Association nant’à l’[attività in casa](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) cunsiglia di mette l’accentu nant’à u mumentu spartutu, micca nant’à u risultatu, è nant’à u piacè piuttostu ch’è nant’à a riescita.
+- **Lasciate e pagine fora.** A listessa guida suggerisce di mette album, album di foto o vechje riviste in lochi faciule da ghjunghje. E carte stampate è e pagine di foto ponu stà nant’à un tavulinu accantu di listessa manera.
+- **Fermatevi quandu vulete.** Meza pagina culurita pò esse un bellu dopu meziornu. Vale ancu di mette a pagina da cantu è di piglià una tazza di tè.
 
-## Where to find more
+## Induve truvà di più
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Scuprite tutti i nostri [ghjochi è stampe](/games/), o vidite [attività per ogni tappa](/activities/ideas/) per altre idee, cù carta è senza.

@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Kisalu ya nitu mpi mavimpi ya butu: Mambu ya balukilukulu"
+seoTitle: "Kisalu ya nitu mpi kimbevo ya kuvila mambu"
+description: "Mambu yina balukilukulu ke monisaka na kati ya kisalu ya nitu mpi kigonsa ya kimbevo ya kuvila mambu, mpi bandlela ya kulenduka ya kukwenda."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Balukilukulu ke monisaka nde kusala kisalu ya nitu mbala na mbala ke vukana ti kigonsa ya fioti
+  ya kukwata kimbevo ya kuvila mambu. Raporo ya 2024 ya Komisio ya Lancet ke tanga kukonda kusala
+  kisalu ya nitu na kati ya bima 14 ya kigonsa yina muntu lenda soba. Bameka me monisa ve nde kisalu
+  ya nitu ke tanina kimbevo ya kuvila mambu. Kukwenda ke sadisaka ngolo ya nitu, kutelama mbote,
+  kikalulu mpi mpongi, yo yina kutambula nzila, bisalu ya nitu na kiti mpi kukina me fwana kusalama
+  sambu na mambote na yo. Solula ti munganga na ntwala ya kuyantika kima ya mpa.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Bantu yina ke salaka kisalu ya nitu mingi ke vandaka mbala mingi ti kigonsa ya fioti ya kimbevo ya kuvila mambu, kansi mambu yai ke katuka mingi na balukilukulu ya kutala, ve na bameka."
+  - "Meka mosi ya bamvula tanu na bibuti me monisa ve luswaswanu ya pwelele na mayele ya kuyindula na kati ya bimvuka."
+  - "Lutwadisu ya CDC sambu na bantu ya bamvula 65 ti kuluta ke tadila bisalu ya kupema mbote, ya kukumisa misisa ngolo mpi ya kutelama mbote, mpi ke tuba nde kisalu ya fioti me luta kukonda mvimba."
+  - "Sambu na muntu yina ke zingilaka ti kimbevo ya kuvila mambu, kukwenda ya nkufi, ya mezabana mpi ya kisalu na zole, bonso kutambula nzila konso kilumbu to kusakana na kiti, ke na mfunu kuluta ntalu yonso."
+  - "Kuluta ndambu ya nkama ya bibuti mosi na kati ya iya ke bwaka konso mvula, yo yina kusala sambu na kutelama mbote mpi kisika ya luvunu ke fwa ntete."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Keti kisalu ya nitu lenda tanina kimbevo ya kuvila mambu?"
+    a: "Muntu mosi ve lenda sila mambu yai. Balukilukulu mingi ke monisaka nde kusala kisalu ya nitu ke vukana ti kigonsa ya fioti ya kukwata kimbevo ya kuvila mambu, kansi bameka ya munganga me monisa ve nde kisalu ya nitu ke taninaka yo. Kisalu ya nitu ke na bambote mingi ya nkaka, yo yina yo me fwana kusalama."
+  - q: "Keti yo ke na kigonsa ve sambu na muntu yina ke zingilaka ti kimbevo ya kuvila mambu kusala kisalu ya nitu?"
+    a: "Mbala mingi, kana nge me yidika mbote. National Institute on Aging ke pesa ndongisila ya kusolula ti munganga ya muntu na ntwala ya kuyantika kisalu ya mpa, kupona basapatu ya mbote, kupesa masa, mpi kubumba ntangu ya bisalu nkufi. Yambula kana muntu me monana mpasi, ke telama ve mbote to ke na kiese ve."
+  - q: "Inki bisalu ya nitu muntu lenda sala na kuvanda na kiti?"
+    a: "Bima yina muntu lenda sala na kiti kele: kunwanisa mikono to makulu na kiti to yoga ya kiti, kubula ballon to balle ya pete, kubula basaki ya fioti, kunangula mabuki ya konserve, kunwanisa bande élastique mpi kisadilu ya kutambwisa makulu na kuvanda. Mambu yai me fwana kana kutambula nzila ke mpasi."
+  - q: "Muntu ke zola ve kukwenda, ebuna inki kusala?"
+    a: "Kupusa ve. Meka diaka na nima, sala yo ti yandi, yika miziki ya mezabana, to kumisa kukwenda kisalu bonso kukomba to kutekila banti masa. Kutambula nzila ya nkufi tii na bwatu ya mikanda ke na mfunu, mpi kuvanda kaka na nganda ti yandi mpi ke mbote."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Kuvanda na kisalu ya nitu kele mambu mosi ya bantu ke longukaka mingi na balukilukulu ya mavimpi ya butu. Balukilukulu ke monisaka nde yo ke vukana ti kigonsa ya fioti ya kukwata kimbevo ya kuvila mambu, kansi yo me monisa ve nde kisalu ya nitu ke taninaka yo. Mambu ya pwelele kele nde kukwenda ke sadisaka ngolo ya nitu, kutelama mbote, kikalulu mpi mpongi na bamvula yonso. Lutiti yai ke tubila mambu yina balukilukulu ke monisaka, kisalu ya nitu ya kufwana sambu na bibuti, mpi bandlela ya kulenduka ya kukwenda ti muntu yina ke zingilaka ti kimbevo ya kuvila mambu.
 
-## Does exercise lower the risk of dementia?
+## Keti kisalu ya nitu ke kulumusa kigonsa ya kimbevo ya kuvila mambu?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Balukilukulu ke monisaka nde bantu yina ke salaka kisalu ya nitu mingi ke kwataka fioti kimbevo ya kuvila mambu, kansi bambandu ya mambu yai kele. [Komisio ya Lancet ya 2024 sambu na kimbevo ya kuvila mambu](https://doi.org/10.1016/S0140-6736(24)01296-0) ke tanga kukonda kusala kisalu ya nitu na kati ya bima 14 ya kigonsa yina muntu lenda soba. Na kimvuka, bima yai 14 ke tendula kiteso ya 45% ya bantu yina ke kwataka kimbevo ya kuvila mambu na ntoto ya mvimba na ntalu na yo.
 
-Here is what the evidence looks like:
+Tala mutindu mambu yai ke monana:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Balukilukulu ya kutala ke monisa ndambu mosi.** Ntalu ya balukilukulu 58, yina Komisio ke tubila, me monisa nde bantu yina ke salaka kisalu ya nitu vandaka ti kigonsa ya fioti ya kiteso ya 20% ya kukwata kimbevo ya kuvila mambu. Luswaswanu ya nene vandaka na kati ya bantu yina ke salaka ve ata fioti mpi bantu yina ke salaka ata kisalu ya fioti.
+- **Kuvukana yai lenda tambula na bandambu zole.** Komisio ke monisa nde kukonda kisalu ya nitu lenda matisa kigonsa. Yo ke monisa mpi nde bansoba ya ntete ya butu, yina ke yantikaka bamvula mingi na ntwala ya kuzaba kimbevo, lenda sala nde bantu kusala fioti kisalu ya nitu.
+- **Bameka ke monisa ve mambu ya pwelele mingi.** Na meka mosi, bibuti 945 yina bamvula na bo ya kati-kati vandaka 78 bakabulaka na bimvuka zole: kimvuka mosi salaka kisalu ya nitu mbala zole na mposo na lutwadisu bamvula tanu, kimvuka ya nkaka ve. Na nsuka, mayele ya kuyindula swaswanaka ve mingi na kati ya bimvuka. Bantu mingi ya kimvuka ya nkaka vandaka mpi kusala kisalu ya nitu, yo yina yo ke mpasi ya kutendula mbote.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ke tuba yo na pwelele. Kuvukana ya pwelele na kati ya kisalu ya nitu mpi kutanina kimbevo ya Alzheimer me monana ve, mpi bambandu ya bameka me lunga ve sambu na kutuba nde kisalu ya nitu ke taninaka to ke lembikaka yo. Ata mpidina, kisalu ya nitu ke kulumusaka kigonsa ya kubwa, ya kyadi, ya diabete, ya tension ya nene mpi ya avc. Bimbevo yankaka na kati ya yai ke vukana mpi ti kukonda mayele ya kuyindula.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Dibanza ya kwikama kele kusala kisalu ya nitu sambu yo ke sadisa nge kuwa mbote mpi kusala mambu mbote bubu. Konso mambote sambu na butu lenda vanda dikabu ya nkaka, kansi ve nsilulu.
 
-## How much activity do older adults need?
+## Kiteso ya kisalu ya nitu ya kufwana sambu na bibuti
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Lutwadisu ya CDC sambu na bantu ya bamvula 65 ti kuluta](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) ke pesa mitindu tatu ya kisalu ya nitu konso mposo:
 
-| Type | Weekly amount | Examples |
+| Mutindu | Kiteso na mposo | Bambandu |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Kisalu ya kupema mbote (aérobique) | Ata minuti 150 ya kisalu ya kati-kati, bonso minuti 30 na bilumbu 5 | Kutambula nzila ya nswalu, kukina, bisalu ya nitu na masa |
+| Kukumisa misisa ngolo | Ata bilumbu 2, kusala na bimvuka yonso ya minene ya misisa | Kunangula bima ya kilo ya fioti to mabuki ya konserve, kunwanisa bande élastique |
+| Kutelama mbote (équilibre) | Mbala na mbala | Kutambula dikulu na nima ya dikulu ya nkaka, kutelama na kiti |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Yai kele bakani, kansi ve banzila ya kuyantika. CDC ke tuba nde kana nge lenda lungisa ve yo, sala kisalu ya nitu mingi mutindu ngolo ya nitu mpi mavimpi na nge ke pesaka nzila. Kusala ata fioti me luta kukonda kusala mvimba.
 
-## Gentle ways to move for older adults
+## Bandlela ya kulenduka ya kukwenda sambu na bibuti
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Kutambula nzila ti muntu ya nkaka.** Kutambula nzila konso kilumbu ti nduku, mpeve to kimvuka ya kutambula ke yikaka masolo mpi lutaninu.
+- **Bisalu ya nitu na kiti.** Kunangula maboko, kuzungisa makulu, kutambula na kisika to yoga ya kiti ke kumisaka misisa ngolo kukonda kigonsa ya kubwa.
+- **Kukina na kikuku.** Yika miziki ya ntangu yina muntu vandaka kileke to leke, mpi nikinika, niema makulu to tambula fioti. Lutwadisu na beto ya [bisalu ya miziki](/activities/music/) ke na bandongisila.
+- **Ngolo ti bima ya nzo.** Nangula maboteli ya masa ya me fuluka to mabuki ya konserve ntangu nge ke talaka programe ya nge ke zolaka.
+- **Kusala bilanga to bisalu ya nzo.** Kutekila banti masa, kuvukisa matiti, kukomba mpi kupika bilele yonso ke tadilama. Tala [bisalu ya nganda mpi ya bilanga](/activities/outdoor-and-gardening/) mpi [bisalu ya nzo](/activities/household-tasks/).
+- **Bisalu ya nitu na masa.** NIA ke monisa bakelasi ya bisalu ya nitu na masa bonso nzila sambu na bantu yina ke monaka mpasi ya kusala na ntoto sambu na makonko.
 
-## How to exercise with someone living with dementia
+## Mutindu ya kusala kisalu ya nitu ti muntu yina ke zingilaka ti kimbevo ya kuvila mambu
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Sambu na muntu yina ke zingilaka ti kimbevo ya kuvila mambu, lukanu kele kiese, kuwakana mbote mpi kubumba mayele ya kilumbu na kilumbu, kansi ve kulungisa ntalu mosi. NIA ke tuba nde kisalu ya nitu ke sadisaka kubumba misisa, makonko mpi ntima ya muntu yina ke na kimbevo ya Alzheimer na mvindu ya mbote, mpi lenda tomisa mpi kikalulu ti mpongi. Solula ti munganga na yandi na ntwala ya kuyantika kisalu ya mpa. Bandongisila ya [lutwadisu ya NIA sambu na bansadi](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) kele:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Tambula nzila konso kilumbu ti yandi.** Pona nzila ya luvunu mpi ya mezabana, ya kukonda bima ya kutanina. Kana muntu ke tambulaka yandi mosi, bracelet ya ID ti nimero ya nge ya telefone ke mbote.
+2. **Meka bavideo ya bisalu ya nitu sambu na bibuti.** Landa yo ti yandi, na kuvanda na kiti to na kutelama.
+3. **Bumba ntangu ya bisalu nkufi.** « Mini-bisalu » mingi ya nkufi lenda fwana kuluta kisalu mosi ya nda.
+4. **Yika miziki.** Bankunga ya mezabana ke kumisa kukwenda kisalu ya kiese, kansi ve kisalu ya mpasi. Kina kana muntu ke sepelaka na yo.
+5. **Pesa masa mpi basapatu ya mbote.** Pesa masa to jus ntangu ya kisalu mpi na nima, mpi pona bilele ya mbote mpi basapatu ya kufwana sambu na kisalu ya nitu.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Kana kutambula nzila ke mpasi, [lutwadisu ya NIA sambu na kusansa muntu yina ke na kimbevo ya Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ke pesa bandongisila ya kusala na kiti. Mambu yai kele bisalu ya nitu na kiti to yoga, kubula basaki ya fioti, kubula balle ya pete to ballon, kunwanisa bande élastique, kunangula bima ya fioti ya nzo, mpi bisadilu ya kutambwisa makulu. Bisalu ya pete bonso kukomba mpi kukatula mvindu mpi ke tadilama.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Vanda ti dibanza ya mbote na mambu yina kukwenda lenda sala. Komisio ya Lancet me zwa ve bambandu ya ke monisa nde kisalu ya nitu ke kulumusaka bansoba ya bikalulu bonso kimpeve ya mbi. Kwenda ti yandi sambu yo lenda pesa kiese, kansi ve sambu na kuyidika ntangu ya mpasi. Kana muntu ke tuba nde ve, yo ke mbote. Lutwadisu na beto ya [ntangu yina yandi ke tuba nde ve](/caregiving/when-they-say-no/) ke na bandlela ya kulenduka ya kumeka diaka na nima. Kumanisa nswalu, to kuvanda kaka ti yandi na nganda, kele mpi mbote.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Na nima ya kukwenda, kupema fioti na pima bonso [Calm Breathing](/games/calm-breathing/) lenda sadisa beno zole na kuvunda ntima. Sambu na kisalu ya kukwenda fioti maboko na kuvanda na kiti, [Sort Together](/games/sort-together/) mpi [Picture Bingo](/games/picture-bingo/) me fwana mbote na mesa.
 
-## Balance and fall safety
+## Kutelama mbote mpi lutaninu na kubwa
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Kubwa ke salamaka mingi mpi lenda vanda kigonsa ya nene. [CDC ke monisa](https://www.cdc.gov/falls/data-research/facts-stats/index.html) nde kuluta ndambu ya nkama ya bibuti mosi na kati ya iya ke bwaka konso mvula, kansi fioti na kati ya bo ke songaka yo na munganga. Kubwa mbala mosi ke zola kubwisa mbala zole diluaku ya kubwa diaka. Bima ya kigonsa yina CDC ke tanga kele:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Kukonda ngolo na makulu mpi na luketo
+- Mpasi ya kutambula mpi ya kutelama mbote
+- Bankisi yankaka, na kati na yo bankisi ya kupemisa mpi bankisi yankaka ya kyadi
+- Mpasi ya kumona
+- Mpasi ya makulu to basapatu ya mbi
+- Bigonsa na nzo bonso bima ya me panzana, bitoko ya ntoto mpi bimatelo ya me fwa
 
-To move more safely:
+Sambu na kukwenda na lutaninu mingi:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Sadila kiti ya ngolo** ya kukonda baroulette, mpi bumba ndambu ya kubakama bonso comptoir to kibende ntangu ya kutelama.
+- **Katula na kisika** bitoko, bansinga mpi bima ya me panzana na ntwala.
+- **Kwenda malembe ntangu ya kutelama**, mpi yambula kana muntu ke wa nde ntu na yandi ke baluka to yandi ke telama ve mbote.
+- **Lwata basapatu ya ke simba mbote**, kansi ve bachasette to basapatu ya ke kangama ve.
+- **Longuka kutelama mbote pene-pene ya kisika ya kusimba.** Kutelama na kiti mpi kutambula dikulu na nima ya dikulu ya nkaka kele bambandu ya CDC sambu na bisalu ya kutelama mbote.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC ke pesa ndongisila nde muntu ya mununu yina me bwa mpi me bwana na ntu fwete kwenda kutala munganga nswalu, mingi-mingi kana yandi ke nwaka bankisi ya kukanga menga.
 
-## Talk with a doctor
+## Solula ti munganga
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Solula ti munganga na ntwala ya kuyantika kisalu ya mpa ya nitu, mingi-mingi sambu na muntu yina ke na bampasi ya ntima to ya bapoumon, mpasi ya makonko, mpasi ya kutelama mbote, to kimbevo ya kuvila mambu. Munganga to kinesiologe lenda pesa bandongisila ya bisalu ya luvunu mpi kutala kana bankisi ke sobaka kutelama mbote. Songaka munganga konso kubwa, ata yo me sala ve mpasi. Kana kima mosi ke pesa mpasi to ke monana ve mbote ntangu ya kisalu ya nitu, yambula. Sambu na mpasi ya ntima ya kuyituka, mpasi ya kupema, to kukonda kuzaba kisika ya kuyituka, binga 112.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Lutiti yai kele bansangu ya kuluta, kansi ve ndongisila ya munganga. Tala [ndongisila na beto ya munganga](/medical-disclaimer/). Sambu na kuzaba mambu mingi, tanga [mambu yina balukilukulu ke tuba sambu na bima ya kigonsa ya kimbevo ya kuvila mambu](/brain-health/risk-factors/) mpi [kana kimbevo ya kuvila mambu lenda taninama](/brain-health/can-dementia-be-prevented/).

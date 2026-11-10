@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Gnáthamh Socair Laethúil do Dhuine atá ag Maireachtáil le Néaltraithe"
+seoTitle: "Gnáthamh Laethúil le Néaltraithe: Sampla Solúbtha"
+description: "Sampla solúbtha de lá do dhuine atá ag maireachtáil le néaltraithe, le béilí, gníomhaíochtaí agus scíth i rithim sheasta, chomh maith le conas do ghnáthamh féin a thógáil agus é a oiriúnú ar laethanta níos deacra."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Coinníonn gnáthamh socair amanna an duine a dhúiseacht, a bhéilí, a chúraim phearsanta
+  agus a chodladh thart ar na hamanna céanna. Cuirtear an príomhghníomhaíocht ar siúl
+  nuair is aireachúla an duine, agus cothromaítear gníomhaíocht le scíth. Tóg an gnáthamh
+  ó nósanna saoil an duine, coinnigh é scaoilte seachas plódaithe, faigh solas an lae
+  agus gluaiseacht gach lá, agus athraigh an plean go saor nuair a éilíonn an lá é sin.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Tugann amanna seasta don dúiseacht, do bhéilí, don chúram agus don chodladh cruth eolach don lá."
+  - "Cuir an príomhghníomhaíocht ag an am den lá is fearr don duine, go minic sa mhaidin."
+  - "Ná líon gach nóiméad. Is cuid den ghnáthamh iad an scíth agus an t-am ciúin."
+  - "D’fhéadfadh solas an lae, gluaiseacht laethúil, agus staonadh ó chodladh fada déanach sa lá nó ó chaiféin déanach cuidiú le suaiteacht déanach tráthnóna."
+  - "Is treoir é an gnáthamh, ní riail. Is féidir aon rud a mhalartú, a ghiorrú nó a scipeáil ar laethanta níos deacra."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Cén fáth a bhfuil gnáthamh cabhrach do dhuine atá ag maireachtáil le néaltraithe?"
+    a: "Ciallaíonn lá intuartha níos lú cinntí agus níos lú iontas, rud a bhíonn suaimhneach do go leor daoine atá ag maireachtáil le néaltraithe. Deir Cumann Alzheimer go dtugann lá pleanáilte deis duit níos lú ama a chaitheamh ag smaoineamh cad le déanamh agus níos mó ama a chaitheamh ar rudaí a thaitníonn libh araon. Cabhraíonn sé freisin le duine a thugann aire a lá féin a eagrú."
+  - q: "Cén cineál sceideal laethúil a oireann do dhuine atá ag maireachtáil le néaltraithe?"
+    a: "Níl aon sceideal amháin ceart ann. Oireann ceann maith ina gcoinnítear amanna an dúiseachta, na mbéilí agus an chodladh thart ar na hamanna céanna, ina gcuirtear cúram pearsanta agus an príomhghníomhaíocht ar siúl nuair is fearr don duine é, ina gcuimsítear am amuigh nó in aice le fuinneog, agus ina bhfágtar seomra don scíth. Tóg é bunaithe ar an tslí ar mhair an duine i gcónaí."
+  - q: "Ar chóir do dhuine atá ag maireachtáil le néaltraithe codladh sa lá?"
+    a: "Is féidir le scíth ghearr cabhrú, go háirithe tar éis lóin. Molann an Institiúid Náisiúnta um Aosú codladh fada nó codladh déanach sa lá a dhíspreagadh, mar is féidir le bheith ró-thuirseach nó gan codladh maith cur le suaiteacht déanach tráthnóna. Má tá trioblóid mhór chodlata ag an duine, labhair lena dhochtúir faoi."
+  - q: "Cad a dhéanann tú má dhiúltaíonn an duine an gnáthamh a leanúint?"
+    a: "Lig é imeacht faoi láthair agus bain triail as arís níos déanaí nó ar bhealach eile. D’fhéadfadh go mbeadh an duine tuirseach, tinn, i bpian nó nach bhfuil sé/sí réidh. Tá an gnáthamh ann chun an lá a dhéanamh níos éasca, mar sin lúb é seachas iallach a chur air/uirthi."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Tugann gnáthamh socair cruth eolach don lá: dúiseacht, béilí, beagán gníomhaíochta, scíth agus dul a chodladh thart ar na hamanna céanna. Laghdaíonn sé líon na gcinntí agus na n-iontas, agus tugann sé plean duit do na chuimhneacháin nuair nach bhfuil a fhios agat cad le déanamh ina dhiaidh sin. Níl sa ghnáthamh thíos ach sampla, ní riail é. Úsáid mar phointe tosaigh é, agus múnlaigh é i gcomhréir leis an duine a bhfuil tú ag tabhairt aire dó.
 
-## Why does a daily routine help?
+## Cén fáth a bhfuil gnáthamh laethúil cabhrach?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Tá gnáthamh seasta cabhrach mar gur fusa patrúin eolacha a leanúint ná cinn nua. Deir an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) go gciallaíonn lá pleanáilte níos lú ama a chaitheamh ag cinneadh cad le déanamh agus níos mó ama ar ghníomhaíochtaí taitneamhacha, agus go bhféadfadh amanna seasta don dúiseacht agus don chodladh cabhrú le trioblóidí codlata agus le suaiteacht déanach tráthnóna. Molann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) folcadh, gléasadh agus ithe ag na hamanna céanna gach lá mar chuid de theach ciúin, agus molann an [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gnáthaimh sheasta a choinneáil freisin.
 
-## A sample gentle day
+## Sampla de lá socair
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Níl sna hamanna ach samplaí. Bog an lá ar fad níos luaithe nó níos déanaí chun oiriúnú do rithim féin an duine.
 
-| Time | What happens | Ideas | On a harder day |
+| Am | Cad a tharlóidh | Smaointe | Ar lá níos deacra |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Dúiseacht, níochán, gléasadh | An t-ord céanna gach lá; cuir na héadaí amach san ord ina gcaithfear iad | Coinnigh an chúram simplí; is leor léine úr |
+| 8:45 a.m. | Bricfeasta | Caife agus nuacht á léamh os ard, nó an raidió | Ithigí le chéile go ciúin, gan brú ar bith chun labhairt |
+| 9:30 a.m. | Príomhghníomhaíocht | Níochán éadaí, bácáil, garraíodóireacht, turas gairid nó siúlóid | Leagan níos giorra, nó lig dó/di féachaint ort agus é á dhéanamh |
+| 10:30 a.m. | Am ciúin | Ceol, albam grianghraf, nó suí in aice le fuinneog | Scíth i gcathaoir is fearr leis/léi |
+| 11:00 a.m. | Cuidiú leis an lón | Glasraí a ní, an tábla a chur | Déan an cócaireacht; bí ag comhrá leis/léi agus é á dhéanamh |
+| 12:00 p.m. | Lón agus glanadh suas | An tábla a nigh, cúpla mias a thriomú | Scipeáil na chores |
+| 1:00 p.m. | Scíth ghearr | Cosa suas, ceol bog | Mar an gcéanna |
+| 2:00 p.m. | Amuigh nó gníomhach | Siúlóid, am ar an staighre ag fáil gaoithe, plandaí a uisce, balún a chaitheamh | Suí in aice le fuinneog ghrianmhar |
+| 3:00 p.m. | Sóisialta nó cruthaitheach | Cuairt, glao, [péirí pictiúr](/games/picture-pairs/), daubáil, cártaí | Deoch agus sneaiceanna le chéile |
+| 4:30 p.m. | Socrú síos | Curtains dúnta, soilse ar, tasc ciúin cosúil le ciarsúirí níocháin a fhilleadh | Ceol eolach, torann íseal |
+| 5:30 p.m. | Dinnéar | Cuidiú ag corraí nó ag cur an tábla | Bia simplí eolach |
+| 6:30 p.m. | Tráthnóna le chéile | Cuimhní a roinnt thar milseog, cártaí, seó is fearr, massage láimhe | Comhlacht ciúin |
+| 8:00 p.m. | Gnáthamh codlata | Folcadh nó níochán, pajamaí, ceol bog, soilse ísle | Giorraigh gach rud; compord ar an gcéad áit |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Leanann an sampla seo cruth phlean samplach an Alzheimer’s Association do na céimeanna luatha agus lár, ag dul ó chúram pearsanta agus bricfeasta trí chores, siúlóidí, ceol, scíth agus cuairteanna go dtí dinnéar, cuimhní a roinnt agus ullmhú don leaba.
 
-## How do you build your own routine?
+## Conas do ghnáthamh féin a thógáil?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Tosaigh ón tslí ar mhair an duine i gcónaí, ní ó chairt. Molann an Alzheimer’s Association na rudaí seo a smaoineamh sula bpleanálann tú:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Na rudaí is fearr leo/léi, na rudaí nach maith leo/léi, a gcuid neart agus a leasanna.**
+- **An tslí ar chaith siad a lá.** Ba chóir do dhuine a bhíodh ag éirí go luath agus ag siúl an mhadra siúl go luath fós. D’fhéadfadh nach mbeadh duine oícheúil sásta tosú ag 8:00 a.m. riamh.
+- **An t-am den lá is fearr dóibh.** Cuir folcadh, turais agus an príomhghníomhaíocht ansin.
+- **Go leor ama** do bhéilí, do níochán agus do ghléasadh, ionas nach mbeidh aon ghéarchéim ann.
+- **Amanna seasta don dúiseacht agus don chodladh.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Molann an fhoinse chéanna meascán a bheith san áireamh de chores tí, béilí, cúram pearsanta, gníomhaíochtaí cruthaitheacha, gníomhaíocht choirp, am sóisialta, gníomhaíocht spioradálta agus chuimhneacháin spontáineacha, cosúil le cara ag teacht chuig an doras.
 
-### Try it for a week, then adjust
+### Bain triail as ar feadh seachtaine, ansin coigeartaigh
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Coinnigh nóta simplí gach lá. Molann an Alzheimer’s Association fiafraí cén ghníomhaíocht a d’oibrigh is fearr agus cén fáth, an raibh an iomarca nó an gannchuid ar siúl ag amanna áirithe, agus ar thaitin pleananna spontáineacha nó ar chuir siad imní orthu. Coinnigh an méid a oibríonn agus athraigh an méid nach n-oibríonn.
 
-### Make it visible
+### Déan é infheicthe
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Má tá an duine in ann léamh fós, is féidir le clár bán nó cárta mórchlóite le plean an lae a bheith suaimhneach. Coinnigh gairid é: "Bricfeasta. Siúlóid le Sarah. Lón. Scíth." Bíonn daoine áirithe níos fearr gan a fhios a bheith acu i bhfad roimh ré; molann an Family Caregiver Alliance gan pleananna a phlé ach díreach roimh a ndéanamh má chuireann sé imní orthu.
 
-## How to adapt the routine
+## Conas an gnáthamh a oiriúnú
 
-### Leave room to breathe
+### Fág seomra le haghaidh análaithe
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ná líon gach nóiméad. Leagann an Alzheimer’s Association béim ar go bhfuil cothromaíocht idir gníomhaíocht agus scíth ag teastáil ón duine agus go bhféadfadh siad sosanna níos minice a bheith ag teastáil. Má bhfuil cuma leadránach, seachránach nó irritable orthu, athraigh an ghníomhaíocht nó lig dóibh scíth a ghlacadh.
 
-### Protect the late afternoon
+### Cosain an tráthnóna déanach
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Éiríonn go leor daoine níos suaite nuair a théann an solas ag dul in olcas. Molann an NIA am amuigh nó in aice le fuinneog le haghaidh solais an lae gach lá, a bheith gníomhach gach lá gan an iomarca a phleanáil, caiféin agus alcól a sheachaint déanach sa lá, agus codladh fada déanach sa lá a dhíspreagadh. Bíonn sé cabhrach do go leor teaghlach na cuirtíní a dhúnadh agus na soilse a chur ar siúl roimh dhuibhe. Féach [suaiteacht déanach tráthnóna](/caregiving/late-day-restlessness/) agus [codladh](/brain-health/sleep/).
 
-### Change it as needs change
+### Athraigh é de réir mar a athraíonn riachtanais
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Céim luath:** pleanáil an gnáthamh le chéile. D’fhéadfadh go mbeadh an duine ag iarraidh sceideal scríofa a bhainistiú dó féin.
+- **Céim lár:** is tusa a threoróidh níos mó. Gníomhaíochtaí níos giorra, níos mó scítha agus go leor jabanna eolacha; féach [gníomhaíochtaí don chéim lár](/activities/middle-stage/).
+- **Céim déanach:** dírítear an gnáthamh ar chompord, ar bhéilí agus ar chúram, le chuimhneacháin céadfacha gearra mar cheol nó massage láimhe eatarthu; féach [gníomhaíochtaí don chéim déanach](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Athraigh na gníomhaíochtaí, ní an creatlach
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Coinnigh béilí, scíth agus codladh seasta, agus athraigh na gníomhaíochtaí eatarthu. Molann an [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) iarracht a dhéanamh ar ghníomhaíochtaí éagsúla ar laethanta éagsúla chun rud éigin nua a choinneáil. D’fhéadfá bácáil Dé Luain, garraíodóireacht Dé Máirt agus grianghraif a fheiceáil Dé Céadaoin. Is féidir le ár [101 smaoineamh gníomhaíochta](/activities/ideas/) agus [tascanna tí](/activities/household-tasks/) na sliotáin a líonadh.
 
-## When the day goes sideways
+## Nuair a imíonn an lá as an áireamh
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Tarlaíonn sé go mbeidh laethanta nach leanann aon phlean. Is féidir le breoiteacht, oíche olc, cuairt ón dochtúir nó athrú aimsire gach rud a chur as a riocht. Scaoil an plean, coinnigh na bunrudaí (bia, deoch, scíth, compord) agus bain triail as arís amárach. Má dhiúltaíonn an duine rud éigin, féach [nuair a deir siad "níl"](/caregiving/when-they-say-no/). Is féidir le sos análaithe mall le chéile, cosúil le [análú socair](/games/calm-breathing/), cabhrú libh araon athshocrú.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Tá tábhacht ag baint le do ghnáthamh féin freisin. Cuir sosanna ar fáil duit féin, agus iarr ar theaghlach nó ar sheirbhís scíthe am rialta saor a chlúdach. Féach [cúram do chúramóir féin](/caregiving/caregiver-self-care/).

@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzleak dementzia dutenentzat: piezak eta hitzak"
+seoTitle: "Puzzleak dementzia dutenentzat: piezak eta hitzak"
+description: "Nola aukeratu pieza-puzzleak, hitz-puzzleak eta lineako puzzleak dementzia duen norbaitentzat: piezen tamaina, irudiak, letra handia eta elkarrekin egitea."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Dementzia duen norbaitentzat puzzle onena laguntza pixka batekin amaitu
+  dezakeena da, eta bidean gozatzen duena. Aukeratu pieza-puzzleak pieza
+  gutxiago eta handiagoekin eta helduentzako irudi argi batekin, mantendu
+  kutxako irudia ikusgai, eta sailkatu lehenik ertzeko piezak. Hitz-sopak eta
+  gurutzegramak hobeak dira letra handiarekin. Lau piezako lineako puzzle
+  errazak egokiak izan daitezke erdiko fasean. Gelditu ondo pasatzen ari
+  zareten bitartean.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Aukeratu nola doan kontuan hartuta, ez fase-etiketa baten arabera: puzzle bat lana bezala sentitzen bada, probatu pieza gutxiagoko bat."
+  - "Pieza handi eta sendoak eta kolore-eremu bereiziak dituen irudi argi bat errazagoak dira pieza txikiak eta zeru zabalak baino."
+  - "Helduentzako irudiek garrantzia dute. Lorategiak, sukaldeak, autoak eta animaliak, ez marrazki bizidunak."
+  - "Elkarrekin egitea da garrantzitsuena. Eman piezak, sailkatu ertzak, mantendu kutxaren tapa ikusgai."
+  - "Letra handiko hitz-sopak eta 4 edo 9 piezako lineako puzzle errazak doan daude webgune honetan."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Zenbat pieza ditu puzzle egokiena dementzia duen norbaitentzat?"
+    a: "Ez dago zenbaki zuzen bakarra. 1.000 piezako puzzleak egiten zituen norbaitek ehunka pieza gozatu ditzake oraindik hasieran, eta beste batzuek dozena bat pieza handi ingururekin moldatzen dira hobeto. Puzzle bat lana bezala sentitzen bada edo ezinegona eragiten badu, pasatu pieza gutxiagoko batera. Gure lineako Picture puzzle jokoak 4 edo 9 pieza ditu."
+  - q: "Onak al dira pieza-puzzleak dementzia duten pertsonentzat?"
+    a: "Pertsona askok gozatzen dute haiekin, batez ere lehenago puzzleak gustuko bazituzten. Puzzle batek eskuei zerbait egitea ematen die, helburu argi bat eta irudi bati buruz hitz egiteko aukera. Ez da frogatu puzzle batek dementzia tratatzen edo moteltzen duenik; beraz, aukeratu gozatzeko eta elkarrekin egoteko."
+  - q: "Zer egin dezaket norbaitek jada pieza-puzzle bat ezin duenean egin?"
+    a: "Egin txikiagoa eta egin zuk zati handiagoa: eman pieza bat aldi berean, edo utzi azken pieza batzuk berarentzat. Probatu 4 piezako lineako puzzle bat, piezak kolorearen arabera sailkatzea, edo, besterik gabe, amaitutako irudiari elkarrekin begiratzea."
+  - q: "Egokiak al dira gurutzegramak eta hitz-sopak dementziarako?"
+    a: "Hasierako fasean egokiak izan daitezke, letra handiarekin. Soilik zeharka eta behera doazen hitzak dituzten hitz-sopak errazagoak dira zeharka edo atzerantz doazen hitzak dituztenak baino. Irakurri pistak edo hitz-zerrenda ozenki eta egin elkarrekin."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jangelako mahaian zabaldutako pieza-puzzle bat elkarrekin partekatzeko jarduera errazenetako bat da. Elkarrekin eseri zaitezkete hitz egin beharrik gabe, irudiak hizketarako gai bat ematen du, eta azken pieza jartzeak sentsazio ona sortzen du. Hala ere, puzzleek aldatu egin behar dute dementzia aldatzen den heinean. Zailtzailegia den puzzle batek arratsalde lasai bat ezinegonezkoa bihur dezake. Orrialde honetan azaltzen da nola aukeratu eta prestatu pieza-puzzleak, hitz-puzzleak eta lineako puzzle errazak, eta zer egin zailtzen direnean.
 
-## Are puzzles good for people with dementia?
+## Onak al dira puzzleak dementzia duten pertsonentzat?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Pertsona askok gozatzen dute haiekin, batez ere lehenago puzzleak egiten zituztenek. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) erakundeak hitz-bilaketak, karta-jokoak eta mahai-jokoak aipatzen ditu hasierako faseko jardueren artean, eta [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) erakundeak tabletetako lineako jokoak eta puzzleak aipatzen ditu arduratuta egoteko modu gisa.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzzleak ez dira tratamendu bat. Ez da frogatu puzzle batek dementzia moteltzen edo geldiarazten duenik; gure [garuneko jokoak eta dementzia](/brain-health/brain-games/) gidak ikerketa azaltzen du. Puzzle bat egiteko arrazoia elkarrekin ordu atsegin eta arduratu bat pasa daitekeela da. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) erakundeak honela laburbiltzen du: jarri arreta gozamenari, ez lorpenari.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Nola aukeratu pieza-puzzle bat dementzia duen norbaitentzat?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Kontuan hartu zaintzen duzun pertsonak zer gozatzen duen eta azken puzzlea nola joan zen, ez fase-etiketa bat.
 
-### Number of pieces
+### Pieza kopurua
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ez dago zenbaki zuzenik. Bizitza osoan puzzleak egin dituen norbaitek ehunka pieza gozatu ditzake oraindik hasieran, eta beste norbait pozikago egon daiteke dozena batekin. Arau praktiko bat: azken puzzlea lana bezala sentitu bazen, aukeratu gutxi gorabehera pieza erdiak dituen bat. Azkar amaitu bazen eta gehiago nahi bazuen, igo pixka bat.
 
-### Piece size and feel
+### Piezen tamaina eta ukitua
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Pieza handiagoak** errazago ikusten, hartzen eta biratzen dira.
+- **Pieza lodi eta sendoak** bere lekuan geratzen dira eta erortzean ondo jasaten dute.
+- **Akabera mateak** lanparen eta leihoen distira murrizten du.
+- **Saihestu pieza txikiak** zaintzen duzun pertsonak gauzak ahora eraman ditzakeen kasuetan; hori gertatu daiteke dementzia aurreratuagoan.
 
-### The picture
+### Irudia
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Helduentzako gaiak.** Lorategiak, sukaldeak, auto zaharrak, baserriko animaliak, itsasoko herri bat, gustuko kirol bat. Ez marrazki bizidunak edo haurrentzako jostailu itxura duen ezer.
+- **Kolore-eremu bereiziak.** Ukuilu gorri bat, itsasontzi urdin bat eta zelai berde bat errazagoak dira puzzlearen erdia betetzen duen zeru bat baino.
+- **Ezaguna eta pertsonala.** Bizi izan den leku baten irudiak edo maite zuen zaletasun batek hizketarako aukera asko ematen ditu. Inprimategi batzuek familia-argazki bat pieza-puzzle bihur dezakete.
 
-## How do you do a puzzle together?
+## Nola egin puzzle bat elkarrekin?
 
-Set it up so the person can get straight to the enjoyable part.
+Prestatu dena zaintzen duzun pertsona zuzenean atal atseginenera pasa dadin.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Aukeratu leku egokia.** Argi ona, besodun aulki bat, eta puzzlea kanpoan utzi daitekeen mahai edo erretilu bat.
+2. **Jarri kutxaren tapa zutik**, biek ikus dezazuen.
+3. **Biratu piezak gora begira** hasi aurretik.
+4. **Sailkatu ertzak** zuk zeuk, edo egin lehenik ertza eta utzi erdia berarentzat.
+5. **Taldekatu piezak kolorearen arabera** erretilu edo plater sakon batzuetan.
+6. **Eman pieza bat aldi berean** pila handiegia bada. «Uste dut hau ukuiluaren zatia dela».
+7. **Hitz egin irudiari buruz,** ez aurrerapenari buruz. «Honek nire aitak zuen itsasontziaren antza du».
+8. **Utzi kanpoan.** Itzuli bertara hainbat egunez. Ez dago presarik.
+9. **Gelditu une on batean,** pieza bat sartzen denean, oraindik atsegina den bitartean.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) erakundeak gomendatzen du zaintzen duzun pertsonari hasten laguntzea, ezinegonaren zantzuei arreta jartzea eta, nahiago badu, besterik gabe begiratzen uztea. Zu piezak jartzen ikustea eta non joan litekeen adieraztea ere parte hartzea da.
 
-## Easy online puzzles
+## Lineako puzzle errazak
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tableteko puzzle batek abantaila errealak ditu: ez dago pieza galdurik, pantaila betetzen duten irudi handiak daude, eta ez dago mahaia jasotzeko beharrik.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Gure doako [Picture puzzle](/games/picture-puzzle/) jokoak irudi bat 4 edo 9 piezatan mozten du. Ukitu bi pieza haiek trukatzeko, irudia osatu arte. Irudi osoa pantailan geratzen da gida gisa, ez dago denboragailurik, eta edozein unetan gelditu zaitezke. Lau pieza egokiak izan daitezke erdiko fasean dauden pertsona askorentzat, norbait ondoan dutela.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Irudiekin oraindik ere jolasteko modu errazagoa nahi baduzu, probatu [Find the same](/games/find-the-same/), goikoarekin bat datorren irudia ukitzen duzuna, edo [Sort together](/games/sort-together/), irudiak sukaldea edo lorategia bezalako saskietan jartzen diren jokoa.
 
-## Word puzzles: word searches and crosswords
+## Hitz-puzzleak: hitz-sopak eta gurutzegramak
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Hitz-puzzleak beti gustuko izan dituzten pertsonentzat egokiak dira, gehienetan dementziaren hasieran.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Letra handiko hitz-sopa.** Gure doako [Word search](/games/word-search/) jokoak letra handiak eta hitz gutxi batzuk erabiltzen ditu, zeharka eta behera soilik, inoiz ez zeharka diagonalean edo atzerantz. Pantailan jolastu edo inprimatu dezakezu.
+- **Irakurri zerrenda ozenki.** Pertsona batek hitz bat irakurtzen du, eta besteak bilatzen du. Lehen letra soilik inguratzea ere balio du.
+- **Letra handiko gurutzegramak**, puzzle-liburuetakoak, hasieran erabilgarriak izan daitezke. Irakurri pistak ozenki, partekatu boligrafoa eta bete erantzunak elkarrekin. Gai errazetako gurutzegramak hobeak dira kriptikoak baino.
+- **Hitz egin hitzei buruz.** «Lorategia» hitzak tomateei buruzko hamar minutuko elkarrizketa ekar dezake.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Paperezko jarduera gehiagorako eta nola inprimatu erraz ikusteko eta hartzeko, ikusi [doako inprimatzeko dementzia-jarduerak](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Zein puzzle egokitzen dira fase bakoitzera?
 
-Stages overlap, and good and hard days are normal.
+Faseak gainjartzen dira, eta egun onak eta zailak izatea normala da.
 
-| Stage | Puzzles that often fit | Your role |
+| Fasea | Askotan egokiak diren puzzleak | Zure eginkizuna |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Hasiera | Lehen baino pieza gutxiago dituzten pieza-puzzle ezagunak, letra handiko gurutzegramak eta hitz-sopak, 9 piezako lineako puzzleak | Bikotea: utzi berari aukeratzen, lagundu eskatzen duenean |
+| Erdikoa | Dozena bat pieza handi inguruko pieza-puzzleak, 4 piezako lineako puzzleak, elkarrekin ozen irakurritako hitz-sopak | Prestatu, sailkatu piezak, eman bat aldi berean |
+| Aurreratua | Amaitutako irudi bati elkarrekin begiratzea, bi irudirekin Find the same, pieza handi batzuk eskuetan hartzea | Eraman jarduera berarengana; zure presentzia da jarduera |
 
-## When should you make a puzzle easier, or stop?
+## Noiz egin puzzle bat errazagoa, edo noiz gelditu?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Adi egon hasperenei, piezak alde batera bultzatzeari, behin eta berriz «Ezin dut» esateari edo kezkazko begiradei. Horiek zerbait aldatzeko seinaleak dira, ez aurrera jarraitzekoak.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Egin txikiagoa.** Pieza gutxiago, edo utzi azken batzuk soilik berarentzat.
+- **Egin zuk zati handiagoa** eta gonbidatu zati errazetan laguntzera.
+- **Aldatu hurbileko zerbaitera:** piezak kolorearen arabera sailkatzea, 4 piezako lineako puzzle bat, edo [coloring](/games/coloring/).
+- **Gelditu.** Utzi alde batera eta hartu tea edo kafe bat. Beste egun batean itzul zaitezkete, edo ez itzuli.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Puzzleak zaila denaren oroigarri bezala sentitzen hasten badira, ondo dago alde batera uztea. Elkarrekin denbora ona pasatzeko beste modu asko daude; gure [101 jarduera-ideia](/activities/ideas/) lekua ona da begiratzeko.

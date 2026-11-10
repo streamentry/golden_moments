@@ -1,35 +1,37 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "E Rawa ni Tarovi na Dementia? Na Ka e Kaya na Dikevi"
+seoTitle: "E Rawa ni Tarovi na Dementia? Na Ka e Kaya na Dikevi"
+description: "Na ka a kunea na iVola ni 2024 Lancet Commission kei na veitarogi lelevu me baleta na kena vakalailaitaki na ririko ni dementia, kei na ka me veivosakitaki kei na dokita."
 section: brain-health
 order: 1
-updated: 2026-10-25
 translatedFrom: 2026-10-25
+updated: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  E sega e rawa ni yalataka ni na tarovi na dementia. Na iVola ni 2024 Lancet
+  Commission e vakadiria ni volekata ni dua na veimama ni leqa ni dementia e
+  vuravura raraba e semati ki na 14 na ka ni ririko e rawa ni veisautaki, me
+  vaka na toto cecere, na leqa ni rogoca kei na sega ni vakayagataka na yago.
+  Na veitarogi e vakaraitaka ni lailai na kena yaga ena veitarogi ni vakanananu,
+  ia sega ni ivakadinadina ni lailai na leqa ni dementia. E levu era cakava na
+  ka kece „dodonu“ era se tauvimate tale ga ena dementia, ia e sega na cala ni
+  dua.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Na iVola ni 2024 Lancet Commission e semata rauta ni 45% na leqa ni dementia e vuravura raraba ki na 14 na ka ni ririko e rawa ni veisautaki. Oqo na ivakadidike ni lewe levu, sega ni yalayala vua e dua."
+  - "Na kena vakalailaitaki na ririko e kena ibalebale na kena vakalailaitaki na vinaka ena dua na ilawalawa levu. E sega ni kena ibalebale ni dua e rawa ni levea na dementia."
+  - "Na veitarogi lelevu me vaka na FINGER, US POINTER kei na SPRINT MIND e kunea na yaga lailai ena veitarogi ni vakanananu se na leqa lailai ni vakanananu, ia e sega e vakadinadinataka ni dua na parokaramu ni bula e tarova na dementia."
+  - "Na yabaki na ka ni ririko levu duadua e kilai me baleta na Alzheimer, ia e sega ni rawa ni veisautaki. E levu era tu na nodra itovo vinaka ni bula era se tauvimate ena dementia."
+  - "Na ikalawa e dau dikevi vakalevu, me vaka na qaravi ni toto cecere, na vakayagataki ni iyaya ni rogoca kei na tiko vakayago, e vinaka me veivosakitaki kei na dua na dokita baleta ni ra vukea tale ga na bula ena so tale na sala."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "E rawa ni tarovi na dementia?"
+    a: "E sega na sala e vakadinadinataki me tarova na dementia vua e dua. Na dikevi e vakaraitaka ni na vakalailaitaki ni so na ririko, me vaka na toto cecere, na leqa ni rogoca sega ni qaravi kei na vakatavako, e rawa ni vakalailaitaka na vinaka ni dementia ena dua na ilawalawa levu se vakaberataka na kena tekivu. Oqo na vinaka ga, sega ni yalayala."
+  - q: "Na cava na ibalebale ni naba 45% mai na Lancet Commission?"
+    a: "Na iVola ni 2024 Lancet Commission e vakadiria ni rauta ni 45% na leqa ni dementia e vuravura raraba e semati ki na 14 na ka ni ririko e rawa, ena vakasama, me veisautaki. Na ivakadidike e nanuma ni na ka oqo e vakavuna na dementia, ia na dauvolaivola e kaya ni so na isema e rawa ni sega ni vakavuna taucoko. E tukuna na ka me baleta na ilawalawa levu, ia e sega ni tukuna na ririko ni dua yadua."
+  - q: "Kevaka e vinaka na bula nei tamaqu se tinaqu, na cava e tauvimate kina ena dementia?"
+    a: "Na yabaki, na kawa kei na levu na ka e sega ni rawa ni lewai e dua e vakaitavi levu ena dementia. Na dauvolaivola ni Lancet Commission e kaya ni na vakalailaitaki ni ririko ena dua na ilawalawa levu e sega ni yalataka ni dua e na levea na dementia. Na tauvimate e sega ni ivakatakilakila ni dua e druka."
+  - q: "Sa bera vinaka beka me vakalailaitaki na ririko ni dementia ni oti na yabaki 65?"
+    a: "Na Lancet Commission e kaya ni sega ni bera se biu me vakalailaitaki na ririko, dina ga ni levu na ivakadinadina e baleta na gauna ni bula e loma (midlife). Na qaravi ni leqa ni rogoca kei na rai, na tiko vakayago kei na veitaratara kei ira tale eso na ivakaraitaki ni ikalawa ena gauna ni bula e muri a dikevi. Veivosakitaka kei na dua na dokita na ka e veiganiti kei na nomu bula."
+  - q: "Na qito ni vakanananu se na kakana digitaki e tarova na dementia?"
+    a: "E sega na qito, kakana, wainimate me vaka na supplement se kakana digitaki e vakadinadinataki me tarova na dementia. E dua na veitarogi ni tolu na yabaki me baleta na kakana MIND e sega ni kunea e dua na duidui levu ena vakanananu ni vakatauvatani kei na kakana lewai, ia na app ni vakaukauataki ni vakanananu me voli e sega ni vakaraitaki ni yaco kina na yaga a laurai ena veitarogi ni dikevi."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +65,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Kevaka o qarava e dua e bula tiko kei na dementia, se o a raica e dua na nomu itubutubu e bula vata kaya, e rairai o sa bau nanuma beka se rawa ni a tarovi, kei na kena rawa ni o tarova me yaco vei iko. Na tabana oqo e vakaraitaka na ka dina e kaya na dikevi, ena vosa rawarawa. Na isau lekaleka: e sega e rawa ni yalataka ni na tarova na dementia, ia na dikevi e vakaraitaka ni so na ririko e rawa ni vakalailaitaki, kei na kena rawa ni vakalailaitaki ena dua na ilawalawa levu e rawa ni kena ibalebale ni lailai era na tauvimate ena dementia se bera toka na kena yaco.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Oqo na itukutuku raraba, sega ni ivakasala ni veiqaravi vakavuniwai. Kerea mo wilika na neitou [ivakadeitaki vakavuniwai](/medical-disclaimer/) ka veivosakitaka kei na dua na dokita na nomu bula.
 
-## Can dementia be prevented?
+## E rawa ni tarovi na dementia?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+E sega na sala e vakadinadinataki me tarova na dementia vua e dua yadua. Na National Institute on Aging (NIA) e kaya ni dina ga ni [e sega e vakadinadinataki me tarova na Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), na dauvakadidike e ra sa kunea eso na sala e nuitaki ka ra sa vulica na ka e rawa ni yaga kei na ka e sega.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Na ka e vakaraitaka dina na dikevi oya ni so na ituvaki ni bula kei na itovo e semati ki na levu cake ni vinaka me tauvimate ena dementia. Ni lailai na ririko oqo ena dua na ilawalawa levu, e lailai beka era na tauvimate ena dementia, se bera toka na kena yaco ena nodra bula. Oqo e duidui sara mai na yalayala.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+E dua na ka e vakanuinui vinaka: na iVola ni 2024 Lancet Commission e tukuna ni ena so na vanua vakailavo torocake, oka kina na Amerika kei Peritania Levu, sa lutu na iwiliwili ni qase era tauvimate ena dementia. Na dauvolaivola e ra nanuma ni oqo e rawa ni vakavuna na vuli vinaka cake, na veiqaravi ni bula vinaka cake kei na lailai ni vakacacani ni sala ni dra ena bula taucoko, me vaka na [ivakamacala ni University College London me baleta na ivola](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Na cava a kunea na iVola ni 2024 Lancet Commission?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Na Lancet Commission me baleta na tarovi, na veivuke kei na qaravi ni dementia e dua na ilawalawa ni 27 na dauvakadidike ni dementia era dau railesu ena ivakadinadina ena veiyabaki vica. Na nodra ivola ni 2024 e vakamacalataka e **14 na ka ni ririko** e rawa ni veisautaki, ka vakadiria ni vata kece e ra vakavuna **voleka ni dua na veimama (rauta ni 45%) na leqa ni dementia e vuravura raraba**. Ena nodra vosa na dauvolaivola, na leqa oqo e rawa *ena vakasama* me tarovi se vakaberataki kevaka e kau tani na ririko ([iVola ni 2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Na 14 na ka oqo, e tuvai me vaka na gauna ni bula e kaukauwa kina na ivakadinadina:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Gauna ni gone:** lailai na vuli.
+- **Gauna ni bula e loma (rauta ni yabaki 40 ki na 65):** leqa ni rogoca, LDL („ca“) cholesterol cecere, lomabibi, mavoa ni ulumu, sega ni vakayagataka na yago, mate ni suka, vakatavako, toto cecere, bibi sivia kei na gunu vakasivia.
+- **Gauna ni bula e muri:** tu duadua, dukadukali ni cagi kei na leqa ni rai sega ni qaravi.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Na rua na ka vou a curu ena 2024 oya na LDL cholesterol cecere kei na leqa ni rai sega ni qaravi. Na ka e semati ki na levu duadua ni leqa oya na leqa ni rogoca kei na LDL cholesterol cecere (rauta ni 7% yadua), tarava na lailai na vuli kei na tu duadua (rauta ni 5% yadua).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Na neitou [idusidusi me baleta na ka ni ririko](/brain-health/risk-factors/) e lako curuma na 14 kece ena dua na teveli, kei na ka e semata na dikevi kei na ka o rawa ni cakava.
 
-### What the 45% figure does not mean
+### Na ka e sega ni ibalebale ni naba 45%
 
-It is easy to misread this number, so it helps to be precise:
+E rawarawa me cala na kena kila na naba oqo, o koya gona e vinaka me matata:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Na ivakadidike ni ilawalawa levu.** E tukuna na leqa ni dementia e vuravura raraba, sega ni nomu vinaka se na vinaka nei tamamu se tinamu.
+- **E nanuma ni dua na vakavuna kei na revurevu.** Na dauvolaivola e kaya ni ra digitaka ga na ka ni ririko e kaukauwa na ivakadinadina, ia ni so na isema e rawa ni sega ni vakavuna taucoko. Me kena ivakaraitaki, na lomabibi ena gauna ni bula e muri e so na gauna e rawa ni ivakatakilakila taumada ni dementia, sega ni vakavuna.
+- **E sega ni yalataka e dua na ka vua e dua.** Na ivakamacala ni UCL e kaya ni na vakalailaitaki ni ririko e cakacaka ena ivakatagedegede ni ilawalawa levu ia e sega ni yalataka ni dua e na levea na dementia.
+- **Na veimama tale e sega ni vakamacalataki ena ka oqo.** Na yabaki, na kawa kei na vakavuna era se bera ni kila na tamata vakadidike e ra lewena na kena vo.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Na cava na duidui ni „vakalailaitaki ni ririko“ kei na „tarovi“?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Na vakalailaitaki ni ririko** e kena ibalebale na kena vakalailaitaki na vinaka. Kevaka e dua na ilawalawa levu e vakalailaitaka na nodra toto cecere, e lailai beka ena nodra tauvimate ena dementia ena vica na yabaki ni vakatauvatani kei na ka e a rawa ni yaco. Eso ena ilawalawa oya era na se tauvimate.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Na tarovi** e vakaibalebaletaki ni na tarova sara e dua na ka me yaco. Me baleta na dementia, oqori e sega ni ka e rawa ni yalataka na dikevi vei dua ena gauna oqo.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Na dauvakadidike e ra vosa tale ga me baleta na **vakaberataki**. Na Lancet Commission e tukuna ni ivakadinadina vou ni na vakalailaitaki ni ririko e rawa ni tosoya ki muri na gauna e tekivu kina na dementia ka vakalekalekataka na gauna e bula kina e dua kei na leqa ni bula. Na vakaberataki ni vica wale ga na yabaki e rawa ni yaga vakalevu vua e dua kei na nona matavuvale.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Ena vanua oqo, keitou vakayagataka na „vakalailaitaka na ririko“ kei na „semati ki“ ena inaki. Ni o raica e dua na iyaya, wainimate se parokaramu e yalataka me „tarova na Alzheimer“, mo qarauna. Na NIA e vakasalataki mo veitaratara kei na dua na dokita ni bera ni tovolea e dua na wainimate se veiqaravi e yalataka me tarova na Alzheimer, baleta ni iyaya vaka oqo e rawa ni veivakararawataki, e vakayalia na ilavo, se ruarua.
 
-## What have large trials found?
+## Na cava e ra kunea na veitarogi lelevu?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Na dikevi ni vakaraica (era raica na ka e yaco vei ira na tamata ena gauna) e rawa ni vakaraitaka na isema. Na veitarogi vakadidike (randomized trials), e lesi kina na tamata ki na dua na parokaramu se ki na dua na ilawalawa ni vakatauvatani ena veilecayaki, na veitarogi kaukauwa cake. Oqo na ka e kunei ena so na veitarogi kilai levu.
 
-### FINGER (Finland)
+### FINGER (Finiladi)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Na veitarogi FINGER e curu kina e 1,260 na tamata yabaki 60 ki na 77 era tiko ena ririko levu ni dementia. E dua na veimama e ciqoma e rua na yabaki na parokaramu ni ivakasala ni kakana, vakaukauataki ni yago, qito ni vakanananu ena kompiuta kei na vakadikevi ni bula ni uto kei na sala ni dra; na veimama tale e ciqoma na ivakasala raraba ni bula. Na ilawalawa ni parokaramu e cakacaka vinaka vakalailai ena so na veitarogi ni vakanananu, e dua na duidui lailai ia e vakadinadinataki vakasaqaqara ([veitarogi FINGER ena The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Na veitarogi e vakarautaka na macala ni veitarogi, sega ni tauvimate ni dementia.
 
-### US POINTER (United States)
+### US POINTER (Amerika)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+Na US POINTER e curu kina e 2,111 na tamata yabaki 60 ki na 79 era sega ni vakayagataka vakalevu na yago, e sega soti ni vinaka na nodra kakana kei na so tale na ka ni ririko. Na ilawalawa ruarua e uqeti me rau vakayagataka vakalevu cake na yago kei na vakanananu, kana vinaka, veimaliwai kei na lewai ni bula ni uto. E dua na ilawalawa e ciqoma e dua na parokaramu tuvai ka vakatulewataki; na kena ikarua e liutaki koya ga. Ena loma ni rua na yabaki, na macala ni veitarogi ni vakanananu e vinaka cake ena **ilawalawa ruarua**, ka vakalailai cake ena ilawalawa tuvai ([veitarogi US POINTER ena JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Na dauvolaivola e kaya ni gadrevi tale na kena muri me kilai se na duidui oqo e yaga ena bula ni veisiga. Ni sega na ilawalawa „me kakua ni cakava e dua na ka“, na veitarogi e sega ni rawa ni kaya na levu ni vuke ni dua na parokaramu ni vakatauvatani kei na sega ni veisau.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (toto cecere)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+Na SPRINT MIND e dikevi ira e 9,361 na tamata ena Amerika era yabaki 50 se sivia ka tiko vei ira na toto cecere. E ra lesi ki na takete lailai ni toto cecere (naba e cake me lailai sobu na 120) se na takete tudei (lailai sobu na 140). Na takete lailai e vakalailaitaka vakalevu na **leqa lailai ni vakanananu**, e dua na ivakatagedegede ni leqa ni nanuma kei na vakanananu e rawa ni yaco ni bera na dementia. Me baleta na **dementia e rairai**, e lailai na leqa ena ilawalawa ni takete lailai, ia na duidui e sega ni vakadinadinataki vakasaqaqara. Na veitarogi e cegu taumada ka lailai na leqa ni dementia ni nanumi, o koya e rairai lailai me sauma na taro oya ([SPRINT MIND ena JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Na ka e vakasoqona vata na railesu ni dikevi
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+E dua na railesu ni Cochrane ena 2021 e cokovata e ciwa na veitarogi lelevu ni parokaramu era qarava vica na ririko vata, e sivia na 18,000 na tamata. A kunea e dua na yaga lailai ena veitarogi ni vakanananu, ia **e sega na duidui matata ena iwiliwili era tauvimate ena dementia** ena rua na veitarogi a vakarautaka ([railesu ni Cochrane me baleta na veivuke ni veika vica](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+E dua na railesu ni 2017 mai na National Academies of Sciences, Engineering, and Medicine, e vakalekalekataki mai na NIA, e kunea na ivakadinadina „e vakanuinui ia sega ni taucoko“ me baleta na tolu na sala: qaravi ni toto cecere, vakalevutaki ni vakayagataki ni yago kei na vakaukauataki ni vakanananu.
 
-## Does it matter when you start?
+## E yaga beka na gauna o tekivu kina?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Na ivakasala ni Lancet Commission me vakalailaitaki na ririko vakatotolo ka maroroya me lailai me balavu na gauna e rawa: „na totolo, na vinaka cake“ kei na „na balavu, na vinaka cake“. E kaya tale ga ni sega ni bera se biu me vakalailaitaki na ririko. E levu na ivakadinadina e baleta na gauna ni bula e loma, rauta ni yabaki 40 ki na 65, ia eso na ka, me vaka na leqa ni rai kei na tu duadua, e ririko ena gauna ni bula e muri ka e rawa ni yaga tiko ga na cakacaka.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Na ivola e kaya ni sa kaukauwa cake na ivakadinadina ni na veika balavu ni ririko e vakavuna na revurevu levu cake. Me kena ivakaraitaki, na mate ni suka e tekivu ena gauna ni bula e loma e vaka me bibi cake mai na mate ni suka e tekivu ena gauna e muri.
 
-## Is dementia risk the same for everyone?
+## E tautauvata beka na ririko ni dementia vei ira kece?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Sega. Na Komisini e kunea ni o ira ena vanua e lailai se e loma na ilavo, o ira mai na ilawalawa lailai kei ira era lailai na ilavo e levu cake na ririko oqo vei ira, o koya gona e dau tekivu kina na dementia ena yabaki lailai cake. E levu na ririko e semati ki na ituvaki era sega ni digitaka na tamata, me vaka na ivakatagedegede ni vuli era a rawata ni ra gone, na cagi ena vanua era tiko kina, kei na kena rawarawa se sau levu na kakana bulabula.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Oqo na vuna e dusia kina na Komisini na nona ivakatutu ki na matanitu me vaka tale ga kina ki na tamata yadua: vuli vinaka vei ira kece na gone, cagi savasava, na ivakarau me vakalailaitaki na vakatavako, lailai na suka kei na masima ena kakana e volitaki ena sitoa kei na vale ni kana, kei na iyaya ni rogoca vei ira kece era gadreva. Na sasaga ni tamata yadua e yaga, ia e yaga tale ga na vuravura era bula kina. Oqo tale ga e dua na vuna me kakua ni beitaki e dua ena tauvimate.
 
-## What are the honest limits of this research?
+## Na cava na iyalayala dina ni dikevi oqo?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Na dementia e vakatorocaketaki ena vica vata na yabaki**, ia e levu na veitarogi e rua ki na lima na yabaki. Na vakarautaki ni dementia, sega wale ga na macala ni veitarogi, e gadrevi kina na dikevi balavu sara ka levu sara.
+- **E levu na veitarogi e vakarautaka na veitarogi ni vakanananu.** Na vinaka lailai ena dua na veitarogi e sega ni kena ibalebale ni lailai era na tauvimate ena dementia se na rawarawa cake na bula ni veisiga.
+- **O ira era dau vakaitavi ena veitarogi e ra dau bulabula cake** ka levu cake na nodra vuli mai na lewe ni vanua raraba. Na Lancet Commission e kaya ni levu na ivakadinadina e lako mai na vanua vakailavo torocake kei na ilawalawa lailai era sega ni vakaitavi vakalevu.
+- **Eso na isema e veisau ruarua.** Na sega ni vakayagataka na yago se na sega ni veimaliwai e rawa ni revurevu taumada ni dementia, sega wale ga ni vakavuna.
+- **Na veitarogi ni kakana e sega soti ni vakanuinui me yacova mai oqo.** E dua na veitarogi ni tolu na yabaki ni kakana MIND e sega ni kunea e dua na duidui levu ena vakanananu ni vakatauvatani kei na kakana lewai. Raica na neitou [idusidusi me baleta na kakana](/brain-health/diet/).
+- **Na qito ni vakanananu e sega ni vakadinadinataki me tarova na dementia.** Raica na neitou idusidusi me baleta na [qito ni vakanananu kei na dementia](/brain-health/brain-games/).
+- **Na lolo e lailai sara na ivakadinadina ena tamata**, ka e rawa ni veivakararawataki vei ira na qase. Raica na neitou [idusidusi me baleta na lolo](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Kevaka e dua e cakava na ka kece „dodonu“, na cava e se tauvimate kina ena dementia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Baleta ni na dementia e sega wale ga ni revurevu ni digidigi. Na NIA e kaya ni [na yabaki na ka ni ririko levu duadua e kilai me baleta na Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), ia e sega e rawa ni veisautaka. Na kawa e vakaitavi. Ia na tamata vakadidike era se bera ni kila taucoko na ka e vakavuna na Alzheimer vei ira e levu. Kevaka e kau tani na 14 kece na ka ni ririko, na ivakadidike ni Lancet Commission e biuta na sivia ni dua na veimama ni leqa me sega ni vakamacalataki.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+O koya gona, kevaka o qarava e dua a vakayagataka na yago, kana vinaka, sega ni vakatavako ia a se tauvimate ena dementia, e sega e dua na ka e cala ena nona yasana, se ena nomu. Kevaka o bula tiko vata kei na dementia, e sega nomu cala. Na veibeitaki e dau yaco vei ira na matavuvale, ia e sega ni dodonu. Na ka bibi ena gauna oqo na vakacegu, na isema kei na veisiga vinaka, ka na neitou [vakasama ni itaviqaravi](/activities/ideas/) kei na [idusidusi ni qaravi koya ena qaravi ira tale eso](/caregiving/caregiver-self-care/) e vanua vinaka me tekivu kina.
 
-## What steps can you talk over with a doctor?
+## Na cava na ikalawa mo veivosakitaka kei na dua na dokita?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Oqo na veika e dau dikevi vakalevu. E vinaka me cavuti ena dua na sikovi baleta ni levu vei ira e ra vukea na bula ni uto, na yalo kei na tu vakataki koya, se cava tale na kena revurevu ena dementia.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Toto cecere.** Taroga na nomu naba kei na takete e veiganiti kei iko. Na Lancet Commission e vakatutuya me tovolea na naba e cake me 130 se lailai sobu mai na rauta ni yabaki 40, ia na takete dodonu vua e dua na qase e vakatau ena nona bula taucoko.
+2. **Rogoca.** Kerea e dua na veitarogi ni rogoca, kei na kena yaga beka na iyaya ni rogoca. Na neitou [idusidusi me baleta na rogoca](/brain-health/hearing/) e vakamacalataka na dikevi.
+3. **Rai.** Cakava na vakadikevi ni mata wasoma ka taroga se rawa ni qaravi na leqa me vaka na cataract.
+4. **Cholesterol.** Taroga se dodonu me vakadikevi na nomu LDL cholesterol kei na ka me veisautaki.
+5. **Suka ni dra.** Kevaka e tiko vei iko na mate ni suka, taroga na sala me qaravi vinaka.
+6. **Yalo.** Na lomabibi e dau yaco ka e rawa ni qaravi. Tukuna vua na nomu dokita kevaka o sa lomabibi se yali na nomu taleitaka na veika me sivia e rua na macawa.
+7. **Vakatavako kei na gunu.** Kerea na veivuke me muduka na vakatavako kei na iyalayala vinaka ni gunu.
+8. **Toso.** Taroga na mataqali vakayagataki ni yago e vinaka vei iko. Na neitou [idusidusi me baleta na vakaukauataki ni yago](/brain-health/exercise/) e tiko kina eso na vakasama.
+9. **Taqomaki ni ulumu.** Darama na isala ni ulumu ni o vodo basikeli se qito veitaravi, ka taroga me baleta na tarovi ni bale.
+10. **Veimaliwai.** Na gauna vata kei ira tale eso e tiki ni bula vinaka. Raica na neitou idusidusi me baleta na [veisema kei ira tale eso](/brain-health/social-connection/), kei na [moce](/brain-health/sleep/) tale ga.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Ni bera ni veisautaka na wainimate, kakana, supplement, lolo se vakaukauataki ni yago, veivosakitaka taumada kei na nomu dokita, vakauasivi kevaka e tiko vei iko na mate ni uto, mate ni suka, a bale oti, se o sa bula tiko vata kei na dementia.
 
-## Talk with a doctor
+## Veivosakitaka kei na dua na dokita
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Kevaka o raica na veisau ni nanuma se vakanananu e vakavuna na nomu lomaleqa, vei iko se vua e dua tale, tuvanaka e dua na sikovi. Na NIA e kaya ni [na leqa ni nanuma e rawa ni vu mai na so tale na vuna](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), me vaka na revurevu ni wainimate, leqa ni thyroid, lomabibi se lailai na vitamin B12, ka ni so na leqa oqo e yali ni sa qaravi na vuna. Na neitou [idusidusi me baleta na ivakatakilakila](/brain-health/warning-signs/) e vakamacalataka na ka mo raica.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Kerea na veivuke totolo** ena veisau vakasauri: na veilecayaki vakasauri, malumalumu se sega ni rogoca ena dua na yasana, dredre ni vosa, se mosi levu ni ulu e rawa ni ivakatakilakila ni stroke se dua tale na leqa tubukoso. Qiri na naba ni leqa tubukoso ena nomu vanua.
 
-## Where Golden Moments fits
+## Na itavi nei Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Na Golden Moments e caka na itaviqaravi rawarawa me caka vata, me vaka na [kadi ni veivosaki](/games/conversation-cards/), [bingo ni iyaloyalo](/games/picture-bingo/) kei na [cegu ni icegu ni cegu](/games/calm-breathing/). Era me baleta na marau kei na gauna vata. Era sega ni veiqaravi, ka era sega ni tarova se vakaberataka na dementia.

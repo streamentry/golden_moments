@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Memorludoj por pliaĝuloj kun demenco: sen testo"
+seoTitle: "Mildaj memorludoj por demenco, ideoj"
+description: "Parigaj, bildaj kaj kartaj ludoj por pliaĝuloj kun demenco, kaj kiel ludi por ke neniu sentiĝu testata: bildoj supre, malpli da paroj, sen poentoj, kune."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Memorludoj por pliaĝuloj kun demenco plej bone funkcias kiam ili ne dependas
+  de memoro. Ludu parigajn ludojn kun la bildoj supre, uzu kvar ĝis ses
+  kahelojn, ludu kiel teamo kaj forlasu la poentojn. Rekoni bildon estas pli
+  facile ol rememori ĝin, do elektu ludojn en kiuj ĉio restas videbla. Ĝuo,
+  ne rezulto, estas la celo.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Klasikaj memorludoj kaŝas la kartojn, kio ĝuste testas tion, kion demenco malfaciligas. Anstataŭe lasu la bildojn supre."
+  - "Malpli da pecoj, pli grandaj bildoj kaj unu elekto samtempe helpas teni la ludon agrabla."
+  - "Ludu kiel teamo, laŭvice helpu kaj forlasu la poentojn. Neniu devus esti metita sub premon."
+  - "Neniu memorludo montriĝis trakti, malrapidigi aŭ haltigi demencon. Ludu ĉar ĝi estas agrabla tempo kune."
+  - "Ĉesu dum ĝi ankoraŭ estas amuza. Paroli pri la bildoj estas bona rezulto."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Kiu estas bona memorludo por iu kun demenco?"
+    a: "Pariga ludo kun grandaj, konataj bildoj, kiuj povas resti supre, ekzemple Bildaj paroj agordita al kvar aŭ ses kaheloj. Trovi la ĝemelon de bildo, kiun vi povas vidi, estas kontentiga sen testi mallongan memoron. Trovu la saman estas eĉ pli simpla, kun unu bildo por kongruigi el du ĝis kvar elektoj."
+  - q: "Ĉu memorludoj helpas pri demenco?"
+    a: "Neniu memorludo montriĝis trakti, malrapidigi aŭ haltigi demencon; revizio de Cochrane trovis, ke la pruvoj pri komputila cerbotrejnado estas tro limigitaj por diri, ĉu ĝi helpas preventi demencon. Ludoj tamen povas esti varma maniero pasigi tempon kune. Elektu ilin pro ĝuo kaj kunesto."
+  - q: "Ĉu mi ludu klasikan Koncentriĝon kun iu, kiu havas demencon?"
+    a: "Komence iuj homoj ankoraŭ ĝuas ĝin, precipe kun malgranda nombro da kartoj. Se memori, kie estas la kartoj, komencas kaŭzi ĉagrenon, turnu la kartojn supre kaj simple trovu la parojn kune. Tio konservas la parigadon kaj forigas la memoroteston."
+  - q: "Kiuj memorludoj taŭgas por pliaĝuloj en grupo?"
+    a: "Bilda bingo kun surekrana vokanto, laŭtvoĉa kompletigo de konataj diraĵoj kaj konversaciaj kartoj ĉiuj funkcias por grupoj. Ludu ĝis ĉiu karto estas plena kaj evitu elvoki, kiu ricevis respondon, por ke neniu sentiĝu aparte elstarigita."
+  - q: "Ĉu ekzistas senpagaj memorludoj por pliaĝuloj enrete?"
+    a: "Jes. La ludoj en ĉi tiu retejo, inkluzive de Bildaj paroj, Trovu la saman, Fotaj paroj kaj Bilda puzlo, estas senpagaj, bezonas neniun registriĝon kaj funkcias en telefonoj, tabuletoj kaj komputiloj. Neniu havas tempomezurilon aŭ poentojn."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Serĉu „memorludoj por pliaĝuloj” kaj plej multaj rezultoj estis faritaj por homoj, kiuj volas mensan ekzercon: kaŝitaj kartoj, retronombradoj, niveloj kaj poentoj. Por iu, kiu vivas kun demenco, tiuj trajtoj faras ludon testo pri ĝuste tio, kio fariĝis malfacila. La samajn ludojn eblas ludi pli milde. Ĉi tiu paĝo montras kiel, kaj listigas ludojn, kiuj bone funkcias en ĉiu etapo.
 
-## Why do classic memory games frustrate people with dementia?
+## Kial klasikaj memorludoj ĉagrenas homojn kun demenco?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Ĉar ili dependas de tenado de novaj informoj en la menso, kio kutime estas la unua afero, kiun Alchajmera malsano, la plej ofta kaŭzo de demenco, tuŝas. La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) diras, ke la plej ofta frua simptomo de Alchajmera malsano estas malfacilo memori ĵus lernitajn informojn. En klasika Koncentriĝo vi turnas du kartojn, memoras kie ili estis kaj uzas tion minuton poste. Tio estas novaj informoj, tenataj kaj rememorataj.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Aldonu tempomezurilon, poentojn aŭ sonoron por malĝustaj respondoj, kaj la homo estas rememorigita pri tio, kion li aŭ ŝi ne povas fari, antaŭ iu, kiun li aŭ ŝi amas. Multaj homoj kviete ĉesas voli ludi.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Rekoni ion, kion vi povas vidi, estas alia kaj kutime pli facila tasko. Montri la duan tekruĉon, kiam ambaŭ estas videblaj, povas sentiĝi bone. Do la ideo estas konservi la parigadon kaj forigi la memoroteston.
 
-## How do you make a memory game gentle?
+## Kiel fari memorludon milda?
 
-These adjustments work for card games, board games and games on a screen.
+Ĉi tiuj adaptoj funkcias por kartludoj, tabulludoj kaj ludoj en ekrano.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Lasu la bildojn supre.** Parigi bildojn, kiujn vi povas vidi, ankoraŭ estas vera ludo, kaj ofte kontentiga.
+2. **Uzu malpli da pecoj.** Komencu per du aŭ tri paroj. Aldonu pli nur se ĝi ŝajnas tro facila kaj la homo volas pli.
+3. **Elektu grandajn, konatajn, plenkreskulajn bildojn.** Tekruĉo, sunfloro, velboato. Ne bildstriaj, kaj ne tro plenaj scenoj.
+4. **Ludu kiel teamo.** „Ni trovu la hundojn” anstataŭ „via vico”. Laŭvice montru kaj helpu.
+5. **Forlasu la poentojn.** Neniu bezonas venki. Se iu demandas, simpla „ni faris ĝin” sufiĉas.
+6. **Neniam rapidigu per horloĝo.** Neniuj tempomezuriloj, kaj neniu rapidado inter vicoj.
+7. **Parolu pri la bildoj.** „Rigardu tiun boaton. Ĉu vi iam velis?” La konversacio ofte estas la plej bona parto.
+8. **Ĉesu je bona momento.** Finu post kongruo, dum ĝi ankoraŭ sentiĝas agrabla.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) donas la saman spiriton kiel ĝeneralan konsilon: adaptu la agadon al tio, kion la homo povas fari, atentu pri ĉagreno kaj certigu, ke li aŭ ŝi sentas sin sukcesa.
 
-## Gentle memory and matching games to try
+## Mildaj memoraj kaj parigaj ludoj por provi
 
-### Picture pairs (matching with pictures showing)
+### Bildaj paroj (parigado kun videblaj bildoj)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) estas pariga ludo kun grandaj bildoj kaj 4 ĝis 12 kaheloj. La bildoj povas resti videblaj, do temas pri trovado de ĝemeloj, ne pri memorado kie ili estis. Komencu per kvar kaheloj. Por iu en frua etapo, kiu ĝuas iom pli da defio, vi povas ŝanĝi al **Kaŝitaj bildoj**, sed revenu al montrado de bildoj tuj kiam ĝi ĉesas esti amuza.
 
-### Find the same
+### Trovu la saman
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) montras unu bildon supre kaj du ĝis kvar elektojn malsupre. Tuŝetu tiun, kiu kongruas. Ĝi estas la plej simpla pariga ludo en la retejo kaj taŭgas por homoj, kiuj trovas plenan kradon tro plena, inkluzive de multaj en pli postaj etapoj kun iu apud si.
 
-### Photo pairs (family photo memory game)
+### Fotaj paroj (memorludo kun familiaj fotoj)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) faras el fotoj, kiujn vi elektas, parigan ludon: la hundo, la ĝardeno, la domo ĉe la lago. Konataj vizaĝoj kaj lokoj ofte ekigas konversacion pli ol iu ajn preta bildo. La fotoj restas en via retumilo kaj neniam estas alŝutitaj.
 
-### Sort together
+### Ordigu kune
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) petas vin meti ĉiun bildon en la korbon, kien ĝi apartenas, ekzemple la kuirejo aŭ la ĝardeno. Ordigo uzas longe konatan scion pri kiel la mondo funkcias, ne mallongan memoron.
 
-### Picture puzzle
+### Bilda puzlo
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) tranĉas bildon en 4 aŭ 9 pecojn. Tuŝetu du pecojn por interŝanĝi ilin ĝis la bildo estas kompleta. La kompleta bildo restas sur la ekrano kiel gvidilo.
 
-### Real cards on the table
+### Veraj kartoj sur la tablo
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Vi ne bezonas ekranon. Prenu kongruajn parojn el du kartaroj aŭ el bildkarta aro. Metu ilin supre en du vicojn kaj trovu la parojn kune. Poste, anstataŭe ordigu laŭ koloro aŭ emblemo. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) listas kartludojn kaj tabulludojn inter agadoj por la frua etapo.
 
-## Which memory games suit each stage?
+## Kiuj memorludoj taŭgas por ĉiu etapo?
 
-Stages are loose labels. Go by what the person enjoys today.
+Etapoj estas lozaj etikedoj. Gvidu vin laŭ tio, kion la homo ĝuas hodiaŭ.
 
-| Stage | Games that often fit | How to set them up |
+| Etapo | Ludoj, kiuj ofte taŭgas | Kiel agordi ilin |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Frua | Bildaj paroj, Fotaj paroj, Bilda puzlo kun 9 pecoj, konataj kartludoj | Lasu la homon elekti. Kaheloj povas turniĝi, se li aŭ ŝi ĝuas tion; forlasu la poentojn, se tio ĝenas |
+| Meza | Bildaj paroj kun 4 ĝis 6 kaheloj supre, Trovu la saman, Ordigu kune | Bildoj ĉiam videblaj. Sidu apud la homo kaj laŭvice helpu |
+| Malfrua | Trovu la saman kun 2 elektoj, rigardi unu grandan bildon kune | Tre mallonga. Vi tenas la tabuleton; la homo montras, aŭ simple rigardas kaj aŭskultas |
 
-## Do memory games help with dementia?
+## Ĉu memorludoj helpas pri demenco?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Neniu memorludo montriĝis trakti, malrapidigi aŭ haltigi demencon. [Revizio de Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) pri komputilizita kogna trejnado por homoj kun milda kogna difekto trovis, ke la pruvoj estas tro limigitaj por diri, ĉu ĝi helpas preventi demencon. Nia gvidilo pri [cerboludoj kaj demenco](/brain-health/brain-games/) klarigas, kion studoj montras kaj ne montras.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Tio ne estas kialo preterlasi ludojn. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) konsilas fokusiĝi pri ĝuo, ne pri atingoj. Dek minutoj da parigado de bildoj kaj parolado pri ili povas esti vere bona parto de la tago.
 
-## What about memory games for seniors without dementia?
+## Kaj memorludoj por pliaĝuloj sen demenco?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Se pli aĝa plenkreskulo sen memorproblemoj ĝuas tempomezuritajn puzlojn, poentojn kaj pli malfacilajn nivelojn, tio estas tute en ordo. Nur ne fidu, ke tio protektos kontraŭ demenco; neniu ludo tion montris. La mildaj versioj supre ankaŭ bone funkcias, kiam generacioj ludas kune: avo aŭ avino kun demenco kaj juna nepo aŭ nepino povas parigi bildojn kiel teamo, sen ke iu el ili estu testata.
 
-## When should you stop or change the game?
+## Kiam vi devus ĉesi aŭ ŝanĝi la ludon?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Suspiroj, forpuŝo de la tabuleto, diroj kiel „mi ne povas fari tion” aŭ zorgoplena mieno estas ĉiuj signoj por fari ĝin pli facila aŭ ĉesi. Provu malpli da kaheloj, turnu la bildojn supre, ŝanĝu al [Find the same](/games/find-the-same/), aŭ simple rigardu la bildojn kaj babilu. Se la homo tute ne volas ludi, ankaŭ tio estas en ordo. Nia gvidilo pri [kiel ludi kune](/caregiving/how-to-play-together/) havas pli da informoj pri ritmo kaj helpado.

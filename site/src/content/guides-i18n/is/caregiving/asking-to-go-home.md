@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Þegar einstaklingur með heilabilun vill fara heim"
+seoTitle: "Heilabilun og löngun til að fara heim: Hvað á að segja"
+description: "Af hverju einstaklingur sem lifir með heilabilun biður um að fara heim þótt hann sé heima, hvað á að segja, róandi athafnir og hvernig hægt er að tryggja öryggi."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Þegar einhver sem lifir með heilabilun biður ítrekað um að fara heim merkir
+  „heim“ oft tilfinningu fyrir öryggi eða stað frá fyrri tíð, ekki byggingu.
+  Ekki rífast um að viðkomandi sé heima. Viðurkennið tilfinninguna, fullvissið
+  hann um að hann sé öruggur, spyrjið um heimilið og færið síðan umræðuna
+  varlega yfir í ljósmyndir, tónlist, snarl, göngutúr eða einfalt verkefni.
+  Athugið hvort viðkomandi sé svangur, þyrstur, þurfi á salerni að halda eða
+  sé með verki. Ef þetta byrjar skyndilega skal hringja í lækni.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "„Ég vil fara heim“ þýðir oft „Mér líður ekki öruggt eða rólega“, ekki beiðni um heimilisfang."
+  - "Rifrildi eða tilraunir til að sanna að viðkomandi sé heima gera vanalega vanlíðan verra. Svarið tilfinningunni í staðinn."
+  - "Biðjið viðkomandi að segja ykkur frá heimilinu og bjóðið síðan upp á ljósmyndir, tónlist, snarl, göngutúr eða einfalt verkefni."
+  - "Athugið hvort eitthvað sé hægt að laga: hungur, þorsti, salernisþörf, verkir, of heitt eða kalt, hávaði, þreyta."
+  - "Ef þetta gerist á hverju síðdegisverði gæti verið um sólsetursóeirð að ræða; fastur dagsrútína og gott ljós geta hjálpað."
+  - "Skipuleggið öryggi ef viðkomandi reynir að fara út og hringið í lækni ef skyndileg breyting verður."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Af hverju biður mamma mín sem lifir með heilabilun stöðugt um að fara heim þótt hún sé heima?"
+    a: "Heilabilun getur látið kunnugleg herbergi virðast framandi og fólk finnur stundum fyrir því að vera á fyrri æviskeiði. „Heim“ getur átt við barnaheimili eða einfaldlega tilfinninguna fyrir því að vera öruggt og hafa það þægilegt. Yfirleitt virkar betur að svara þeirri tilfinningu en að benda á hvar viðkomandi er."
+  - q: "Hvað á ég að segja þegar viðkomandi biður um að fara heim?"
+    a: "Prófið að segja: „Þú ert örugg/öruggur hér og ég er hjá þér,“ og síðan „Segðu mér frá heimilinu þínu.“ Hlýðið á, deilið ljósmynd eða lagi og bjóðið upp á drykk eða stuttan göngutúr. Forðist að segja „Þú ert heima“ sem leiðréttingu, því það getur látið viðkomandi finna fyrir því að honum sé sagt að hann hafi rangt fyrir sér."
+  - q: "Er í lagi að segja að við förum heim seinna?"
+    a: "Fjölskyldur og samtök um heilabilun eru ekki öll á sama máli um þetta. Margir byrja á heiðarlegum hughreystandi orðum og því að beina athyglinni að öðru og nota milda ósannindi aðeins þegar sannleikurinn myndi valda vanlíðan sem viðkomandinn getur ekki unnið úr. Hvað sem þið veljið, verið kærleiksrík og samkvæm sjálfum ykkur og gerið aldrei grín að veruleika viðkomandans."
+  - q: "Hvað ef viðkomandi reynir að fara út úr húsinu?"
+    a: "Verið róleg og gangið með viðkomandi frekar en að hindra hann; stuttur göngutúr róar oft löngunina. Gerið öryggisráðstafanir fyrirfram, svo sem auðkennisarmband, dyrabjöllur og nýlega ljósmynd. Ef viðkomandi týnist skal byrja að leita strax og hringja í 112 ef hann hefur ekki fundist innan 15 mínútna og segja að viðkomandinn lifi með heilabilun."
+  - q: "Hvenær ætti ég að hringja í lækni?"
+    a: "Hringið í lækni viðkomandans sem fyrst ef beiðnirnar eða ruglingurinn byrja skyndilega eða versna mikið á nokkrum klukkustundum eða dögum, sérstaklega ef um hita, ný lyf eða einkenni þvagfærasýkingar er að ræða. Skyndilegur ruglingur getur verið óráð, sem kallar á tafarlausa aðstoð. Hringið í 112 ef einhver er í hættu."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+„Ég vil fara heim.“ Fyrir margar fjölskyldur er þetta eitt af því erfiðasta sem hægt er að heyra, sérstaklega þegar sá sem þú annast situr í eigin stofu. Þetta er algengt, getur gerst á hvaða stigi heilabilunar sem er og það eru rólegar og hagnýtar leiðir til að bregðast við. Á þessari síðu er fjallað um hvað orðin þýða oft, hvað á að segja, athafnir sem geta hjálpað í augnablikinu og hvernig hægt er að tryggja öryggi.
 
-## Why does someone with dementia keep asking to go home?
+## Af hverju biður einstaklingur sem lifir með heilabilun stöðugt um að fara heim?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Venjulega er „heim“ tilfinning fremur en staður. Alzheimer's Society lýsir því sem tilfinningu fyrir þægindum og öryggi, eða heimili frá fyrri tíð, frekar en húsinu sjálfu. Heilabilun getur látið kunnugleg herbergi líta framandi út og viðkomandi getur fundið fyrir því að hann sé á fyrri æviskeiði, þegar heimilið var barnaheimilið eða staðurinn þar sem hann ól upp börnin sín.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Orðin geta líka verið merki um að eitthvað annað sé að núna: viðkomandi er svangur, þyrstur, þarf á salerni að halda, er með verki, of heitt eða kalt, þreyttur, einmana, hræddur eða yfirþyrmdur af hávaða. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) telur verk, hávaða, einmanaleika, breytingar á rútínu og lyf meðal orsaka óróleika.
 
-## What should I say when they ask to go home?
+## Hvað á ég að segja þegar viðkomandi biður um að fara heim?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Svarið tilfinningunni, ekki orðunum. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ráðleggur gegn því að reyna að sannfæra viðkomandann um að hann hafi rangt fyrir sér: tilfinningar hans eru raunverulegar, svo svarið fyrst með huggun og fullvissu og beinið athyglinni síðan varlega að öðru.
 
-Phrases that often help:
+Setningar sem hjálpa oft:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Setjið orð á tilfinninguna.** „Það heyrist í þér að þig langi heim.“
+- **Fullvissið viðkomandann.** „Þú ert örugg/öruggur hér og ég er hjá þér.“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) stingur upp á einföldu orðunum „Þú ert örugg/öruggur hér.“
+- **Bjóðið upp á minningar.** „Segðu mér frá heimilinu þínu. Hvernig var eldhúsið þitt?“ Oft er þægilegra að spyrja um fjarlæga fortíð en um daginn í dag.
+- **Bjóðið upp á eitthvað saman.** „Förum og fáum okkur fyrst tebolla,“ eða „Viltu hjálpa mér með þessi handklæði?“
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Hlýlegur tónn og hönd á handlegg, ef viðkomandi líkar við snertingu, getur sagt meira en orðin.
 
-## What should I avoid?
+## Hvað ætti ég að forðast?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Rifrildi eða útskýringar.** „Þú átt heima hér núna“ eða „Þetta hefur verið heimili þitt í 40 ár“ krefst þess að viðkomandinn samþykki eitthvað sem heilabilun gerir erfitt að samþykkja og það getur látið honum líða eins og honum sé sagt að hann hafi rangt fyrir sér.
+- **Spurningar til að prófa minni.** „Manstu það ekki?“ eða „Hvert er heimilisfangið?“ eykur álagið.
+- **Að loka dyrunum í reiði.** Ef viðkomandinn stefnir út, verið róleg og gangið með honum. Stuttur göngutúr saman róar oft löngunina.
+- **Að flýta sér.** Gefið viðkomanda tíma til að tala um heimilið áður en þið breytið umræðuefninu.
 
-## Activities that can help in the moment
+## Athafnir sem geta hjálpað í augnablikinu
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Eftir að þið hafið viðurkennt tilfinninguna getur róleg og kunnugleg athöfn fært athyglina án þess að hunsa hana.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Skoðið ljósmyndir af heimilinu og fjölskyldunni.** Flettið síðunum og bendið á hluti („Sjáðu þennan garð“) frekar en að spyrja spurninga. Í síma eða spjaldtölvu breytir [Photo pairs](/games/photo-pairs/) ykkar eigin fjölskylduljósmyndum í rólegt samstæduleik og myndirnar eru áfram í tækinu ykkar.
+2. **Talið um heimilið.** [Conversation cards](/games/conversation-cards/) bjóða upp á opin spurningaefni um hús, eldhús, nágranna og hátíðir, án réttra svara.
+3. **Spilið tónlist sem viðkomandinn elskar.** National Institute on Aging telur róandi tónlist meðal leiða til að draga úr óróleika. Sjáið [tónlistaratvinnu](/activities/music/) okkar.
+4. **Bjóðið upp á snarl eða drykk.** Hungur og þorsti geta litið út eins og óróleiki. Tebolli eða uppáhaldsmatur er líka lítil athöfn sem minna á heimilisfriðinn.
+5. **Farið í göngutúr eða sitjið úti.** Hreyfing og dagsbirta hjálpa, sérstaklega fyrr á deginum.
+6. **Gefið kunnuglegt verkefni.** Að brjóta saman þvott, raða hnífapörum eða vökva plöntur getur vakið tilfinninguna fyrir því að sjá um heimilið.
+7. **Hægið á öllu.** Slökkvið á sjónvarpinu, minnkið hávaða og skært ljós og prófið sameiginlega róandi stund með [calm breathing](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Ef ein hugmynd virkar ekki, prófið aðra síðar. Að sitja saman í kyrrð er líka góður árangur.
 
-## Check for a cause you can fix
+## Athugið hvort hægt sé að laga orsökina
 
-| Check | What to try |
+| Athugið | Hvað má prófa |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Svengdart eða þyrst | Bjóðið upp á drykk og lítið snarl |
+| Þarf á salerni að halda | Bjóðið upp á salernisferð, rólega og án þess að gera mikið úr því |
+| Verkir eða óþægindi | Leitið eftir merkjum eins og grettum, því að halda um líkamshluta eða hægðatregðu og segið lækni viðkomandans frá því |
+| Of heitt eða of kalt | Bætið við fati eða breytið hitastigi í herberginu |
+| Hávaði eða margmenni | Farið í rólegra herbergi, slökkvið á sjónvarpinu |
+| Þreyta eða of mikil örvun | Hvílið, dimmið í herberginu, spilið rólega tónlist |
+| Síðdegis | Sjáið kaflann um sólsetursóeirð hér að neðan |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society stingur upp á að halda stutta skrá um hvenær beiðnirnar koma fram, til dæmis fyrir máltíðir, eftir heimsóknir eða í rökkri. Mynstur auðvelda að skipuleggja sig fyrirfram.
 
-## Is it okay to tell a white lie?
+## Er í lagi að segja milda ósannindi?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Þetta er raunveruleg umræða og fjölskyldur sem hugsa vel um sína geta lent á mismunandi stað. Alzheimer's Society segir að ekkert eitt rétt svar sé til: ósannindi geta gert sumt fólk tortryggnara, svo ákvarðið hvað er í þágu viðkomandans og verið samkvæm. Hjá Penn Memory Center er sjónarmið meðstjórnanda þess að sannleikurinn sé sjálfgefið val og að mild ósannindi séu aðeins ásættanleg þegar viðkomandinn getur ekki unnið úr ákveðnum sannleika og að aldrei eigi að gera grín að veruleika hans.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Margir sem annast aðstandendur finna milliveg sem virkar: heiðarleg hughreystandi orð og að beina athyglinni að öðru fyrst („Við verðum hér í nótt og ég er hérna hjá þér“), án þess að rífast um hvar heimilið er.
 
-## What if it happens every afternoon or evening?
+## Hvað ef þetta gerist á hverju síðdegi eða kvöldi?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Óróleiki sem byrjar eða versnar síðdegis er oft kallaður sólsetursóeirð. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) stingur upp á fastri dagskrá, daglegu sólarljósi og virkni, færri blundum seint á degi og að forðast kaffín og áfengi síðdegis. Það getur líka hjálpað að kveikja ljós áður en rökkva tekur. Leiðbeiningar okkar um [róandi athafnir síðdegis](/caregiving/late-day-restlessness/) fjalla nánar um þetta.
 
-## Keeping them safe if they try to leave
+## Að tryggja öryggi ef viðkomandi reynir að fara út
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Að biðja um að fara heim getur leitt til þess að viðkomandi reiki af stað. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) áætlar að sex af hverjum tíu einstaklingum sem lifa með heilabilun muni reika af stað að minnsta kosti einu sinni.
 
-**Prepare ahead:**
+**Undirbúið fyrirfram:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Auðkennis- eða sjúkraarmband með nafni viðkomandans og símanúmeri ykkar og merki í fötunum hans. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nefnir MedicAlert og Alzheimer's Association Safe and Found program, sem geta kostað peninga.
+- Dyrabjöllu eða viðvörunarkerfi og læsingar sem eru settar hátt eða lágt. Látið aldrei viðkomandann vera læstan inni einn.
+- Nýlega andlitsmynd og lista yfir staði sem viðkomandinn gæti farið á, svo sem fyrra heimili eða vinnustað.
+- Látið nágranna sem þið treystið vita og gefið þeim símanúmerið ykkar.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ef viðkomandi týnist:** Byrjið að leita strax; Alzheimer's Association bendir á að margir finnast innan við 2,4 kílómetra. Ef hann hefur ekki fundist innan 15 mínútna skal hringja í 112 og segja að viðkomandinn lifi með heilabilun. Hringið strax í 112 ef einhver er í hættu.
 
-## When should I call a doctor?
+## Hvenær ætti ég að hringja í lækni?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Hringið í lækni viðkomandans sem fyrst ef beiðnirnar eða ruglingurinn byrja skyndilega eða versna mikið á nokkrum klukkustundum eða dögum. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) segir að athuga eigi skyndilegar eða hratt breytilegar hegðunarbreytingar strax, sérstaklega eftir sýkingu eða breytingu á lyfjum. Skyndilegur ruglingur getur verið óráð, sem [NHS](https://www.nhs.uk/symptoms/confusion/) segir að kalli á tafarlausa aðstoð; þvagfærasýkingar eru algeng orsök hjá eldra fólki.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Það hjálpar líka að nefna viðvarandi mynstur í næsta læknistíma, þar sem verkir, depurð, svefnvandamál eða aukaverkanir lyfja geta öll átt þátt.

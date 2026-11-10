@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Quande un person con dementie vole ear a hem"
+seoTitle: "Dementie e li desire ear a hem: quo dir"
+description: "Pro quo un person con dementie demanda ear a hem mem in su hem, quo dir, calm activitás a provar e qualmen mantener securitá."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Quande un person con dementie sovente demanda ear a hem, «hem» significa
+  sovente un sentiment de securitá o un loc del passat, ne un dom. Ne
+  contradí que il es a hem. Recone li sentiment, certifia que il es secur, demanda
+  pri su hem, e poy passa lentmen a fotos, musica, un manjada, un promenada o
+  un simplic tache. Controla fame, sete, li beson ear al toilette o dolore. Si
+  it comensa subitmen, telefona su medico.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Yo vole ear a hem» significa sovente «Yo ne senti me secur o tranquil», ne un demande pri un adresse."
+  - "Contradir o provar que li person es a hem usually fa li aflicte plu grand. Responde al sentiment."
+  - "Peti que il raconta pri su hem, e poy proposi fotos, musica, un manjada, un promenada o un simplic tache."
+  - "Controla alquicos quel on posse soluer: fame, sete, li toilette, dolore, tro calore o frigiditá, bruida, fatiga."
+  - "Si it eveni chascun posmidí tard, it posse esser sundowning; un stabil rutina e bon luce posse ayudar."
+  - "Planifica securitá si li person prova exear, e telefona su medico si alquicos cambia subitmen."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Pro quo mi matre con dementie sovente demanda ear a hem, quande ella ja es a hem?"
+    a: "Dementie posse far que conosset chambres senti se strangi, e persones a vezes senti se in un plu temporan epoca de lor vive. «Hem» posse significar li dom de infantie o simplicmen li sentiment de esser secur e comfortabil. Responder a ti sentiment usually functiona plu bon quam dir u ella es."
+  - q: "Quo yo deve dir quande li person demanda ear a hem?"
+    a: "Prova dir: «Vu es secur ci, e yo resta con vu», e poy «Raconta me pri vor hem». Escuta, monstra un foto o canta un canzon, e proposi un trinca o un curt promenada. Evita dir «Vu es a hem» quam un correction, proque to posse far sentir li person que il erra."
+  - q: "Es it bon dir que noi va ear a hem plu tard?"
+    a: "Families e organisationes pri dementie have diferent opiniones pri to. Multes comensa per honest consolation e un gentil change de atention, e reserva un micri non-veritá por momentos quande li veritá solmen causara aflicte quel li person ne posse superar. Qualmenque vu decide, esse afabil e constant, e nequande mocca su sense de realitá."
+  - q: "E si li person prova exear del dom?"
+    a: "Resta calm e promena con il in vice de blocar le; un curt promenada sovente calma li desire. Prepara passos de securitá antey, quam un bracelet de identification, sonettes a portes e un recent foto. Si il desapari, comensa serchar strax, e telefona li local numeró de urgentie si vu ne ha trovat le pos 15 minutes, e di que li person have dementie."
+  - q: "Quande yo deve telefonar un medico?"
+    a: "Telefona su medico bentost si li demandes o li confusion comensa subitmen o deveni mult plu mal in hores o dies, specialmen con febre, un nov medicina o signes de un infection del via urinari. Subit confusion posse esser delirium, quel besona urgent cura. Telefona li local numeró de urgentie si alquí es in dangere."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Yo vole ear a hem.» Por mult families, to es un del max desfacil coses a audir, specialmen quande li person por qui vu cuida sede in su propri chambre. To es comun, it posse evenir in quelcunc stadiu de dementie, e hay calm e practic manieres de responder. Ti págine explica quo li paroles sovente significa, quo dir, activitás quel posse ajudar in li moment, e qualmen restar secur.
 
-## Why does someone with dementia keep asking to go home?
+## Pro quo un person con dementie sovente demanda ear a hem?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+In maxim casus, «hem» es plu un sentiment quam un loc. Li Alzheimer's Society descri it quam un sense de comfort e securitá, o un hem del passat, e ne li dom self. Dementie posse far que conosset chambres sembla strangi, e un person posse sentir se in un plu temporan epoca de su vive, quande hem esset li dom de infantie o li loc u il educat su infantes.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Li paroles posse anc indicar que alquicos altri ne es bon nu: li person es famosi o sedosi, besona ear al toilette, have dolore, es tro calid o frigid, fatigat, solitari, timet o tro excitat pro bruida. Li [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) mentiona dolore, bruida, solitaritá, changes in rutina e medicines inter li causes de agitation.
 
-## What should I say when they ask to go home?
+## Quo yo deve dir quande li person demanda ear a hem?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Responde al sentiment, ne al paroles. Li [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) consilia ne provar convicter li person que il erra: su sentimentes es real, do responde unesimmen con comfort e certitude, e poy ducte gentilmen su atention a alquicos altri.
 
-Phrases that often help:
+Frases quel sovente ajuda:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Nomina li sentiment.** «It sembla que vu senti mancantie de vor hem.»
+- **Certifia securitá.** «Vu es secur ci, e yo resta con vu.» Li [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) proposi li simplic paroles «Vu es secur ci.»
+- **Invita memores.** «Raconta me pri vor hem. Qual esset vor cocine?» Questionar pri li distant passat es usually plu comfortabil quam questionar pri hodie.
+- **Proposi far alquicos junt.** «Lass nos unesimmen prender un tasse de té», o «Esque vu posse auxiliar me con ti linage?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Un calid ton e un manu sur li brasse, si li person ama to, posse dir plu quam li paroles.
 
-## What should I avoid?
+## Quo yo deve evitar?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Contradir o explicar.** «Vu habita ci nu» o «To ha esset vor hem durant 40 annus» demanda que li person accepta alquicos quel dementie fa desfacil a acceptar, e to posse far sentir le que il erra.
+- **Examinar.** «Esque vu ne memora?» o «Quel es li adresse?» aumenta li pression.
+- **Blocar li porta con colere.** Si li person vole exear, resta calm e promena con il. Un curt promenada junt sovente calma li desire.
+- **Hastar.** Da le témpor por parlar pri hem ante que vu changea li tema.
 
-## Activities that can help in the moment
+## Activitás quel posse ayudar in li moment
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Pos que vu ha reconet li sentiment, un calm e familiar activitá posse changear li atention sin rejecter it.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Regarda fotos de hem e familie.** Turna li págines e fa remarcas («Regarda ti jardin») in vice de questionar. Sur un telefon o tablette, [Photo pairs](/games/photo-pairs/) transforma vor propri fotos de familie in un gentil lude de corespondentie, e li fotos resta sur vor aparate.
+2. **Parla pri hem.** [Conversation cards](/games/conversation-cards/) oferta apert questiones pri domes, cocines, vicines e festa-dies, sin rect o fals responses.
+3. **Lude musica quel il ama.** Li National Institute on Aging mentiona calmant musica inter li manieres de calmar agitation. Vide nor [activitás con musica](/activities/music/).
+4. **Da un manjada o un trinca.** Fame e sete posse semblar quam ínquietitá. Un tasse de té o un favorit manjada es anc un micri ritual de hem.
+5. **Fa un promenada o sede exter.** Movement e luce del die ajuda, specialmen plu temporan in li die.
+6. **Da un familiar tache.** Plicar linage, ordinar cuillieres e furkettes o aquar plantes posse redonar li sentiment de cuidar un hem.
+7. **Fa omnicos plu lent.** Extinte li television, diminui bruida e tro fort luce, e prova un curt pause de [calm respiration](/games/calm-breathing/) junt.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Si un idé ne functiona, prova un altri plu tard. Seder quietmen junt es anc un bon resultate.
 
-## Check for a cause you can fix
+## Controla un cause quel vu posse soluer
 
-| Check | What to try |
+| Controlar | Quo provar |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Fame o sete | Oferta un trinca e un micri manjada |
+| Beson ear al toilette | Proposi un visite al toilette, calm e sin hast |
+| Dolore o ínconfort | Sercha signes quam grimassar, tener un parte del córpor o constipation, e informa su medico |
+| Tro calid o tro frigid | Changea un stratum de vestimentes o li temperatura del chambre |
+| Bruida o tro mult persones | Ea a un plu quiet chambre, extinte li television |
+| Fatigat o tro excitat | Reposa, fa li chambre plu obscur, lude quiet musica |
+| Posmidí tard | Vide li section pri sundowning ci infra |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Li Alzheimer's Society recomanda tener un curt note pri quande li demandes eveni, por exemple ante manjadas, pos visites o al crepuscule. Tal mustres facilita planation.
 
-## Is it okay to tell a white lie?
+## Es it bon dir un micri non-veritá?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+To es un real question, e afabil families decide diferentmen. Li Alzheimer's Society di que ne existe un sol rect response: non-veritás posse far quelc persones plu suspetosi, do decide quo es in li maxim bon interesse del person e esse constant. Al Penn Memory Center, li opinion del co-director es que veritá es li normal via, e que un gentil non-veritá es acceptabil solmen quande li person ne posse comprender un cert veritá, e que on nequande deve moccar su realitá.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Mult persones qui cuida trova un medie via: unesimmen honest consolation e un change de atention («Noi va restar ci ho-nocte, e yo es ci con vu»), sin contradir pri u es li hem.
 
-## What if it happens every afternoon or evening?
+## E si it eveni chascun posmidí o vésper?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Ínquietitá quel comensa o deveni plu fort in li tard posmidí es sovente nominat sundowning. Li [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) proposi un stabil horari, luce del sole e activitá chascun die, minu tard siestas, e null cafeina o alcohol tard in li die. Acender luces ante li crepuscule posse anc ayudar. Nor guide pri [calm activitás in li tard posmidí](/caregiving/late-day-restlessness/) have plu information.
 
-## Keeping them safe if they try to leave
+## Mantener securitá si li person prova exear
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Li demande ear a hem posse ducter a vagation. Li [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estima que six ex deci persones qui vive con dementie va vagar adminim un vez.
 
-**Prepare ahead:**
+**Prepara antey:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Un bracelet de identification o medical con su nómine e vor telefon-numeró, e etiquettes in su vestimentes. Li [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentiona li programme MedicAlert e Alzheimer's Association Safe and Found, quel posse custar moné.
+- Un sonette o alarm a portes, e serrures posit alt o bass. Nequande serra li person sol intra.
+- Un recent foto de proxim e un liste de locs u il posse ear, quam un anterior hem o loc de labor.
+- Informa fidet vicines e da les vor numeró.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Si li person desapari:** comensa serchar strax; li Alzheimer's Association nota que mult persones es trovat intra 1,5 millias. Si vu ne ha trovat le pos 15 minutes, telefona li local numeró de urgentie e di que li person have dementie. Telefona li local numeró de urgentie immediatmen si alquí es in dangere.
 
-## When should I call a doctor?
+## Quande yo deve telefonar un medico?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Telefona su medico bentost si li demandes o li confusion comensa subitmen, o deveni mult plu mal in hores o dies. Li [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) di que subit o rapidmen changeant conduida, specialmen pos un infection o un change de medicina, deve esser controlat strax. Subit confusion posse esser delirium, pri quel li [NHS](https://www.nhs.uk/symptoms/confusion/) di que it besona urgent auxilie; infectiones del via urinari es un comun cause che old persones.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+It anc ajuda mentionar un stabil mustre al proxim visite medical, proque dolore, bass moral, problemes de dorme o lateral efectes de medicines posse omni haver un rol.

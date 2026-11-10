@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Oviungura vyombepo komatango"
+seoTitle: "Sundowning: Oviungura vyombepo komatango"
+description: "Omitjise vyeyuva, omarundurukiro mondjuwo noviungura vyombepo mbi mavi vatere okurunduruka komatango, na indu tji wa sokukahaka kondohotora."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning okurunduruka, okuripura ovizeu poo okuyumana tji ku uta poo tji ku
+  rira ouvi komatango, eyuva tji ri yenda okukahita. Oviṋa mbi mavi vatere mape
+  ya: omitjise vyeyuva mbi ri tjingee, ondjerera noviungura komuhuka, okukara
+  na ozombuṱu ozonḓiṱi komatango, okunywa okofi nomaviṋa vyarwe mbi nomasa komatango,
+  okumunika ozonyutji mondjuwo ngunda eyuva a hi ya hita, okuṱiza ondjuwo, noviungura
+  vyombepo tjimuna omizumbi, oviperendero poo okuzara ozombanda. Oviraisiro ovipe
+  poo mbi mavi rire ouvi vi hepa okutara kondohotora.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning okutja okurunduruka poo okuripura ovizeu tji ku uta poo tji ku rira ouvi eyuva tji ri yenda okukahita."
+  - "Oviungura ovinanḓengu, omayenda nokurikoha vi twa komuhuka poo pokati keyuva."
+  - "Ondjerera yeyuva, okukaenda eyuva arihe, ozombuṱu ozonḓiṱi komatango nokunywa oviṋa oviṱiṱi mbi nomasa komatango mavi vatere omatango ye kare nawa."
+  - "Munika ozonyutji ngunda eyuva a hi ya hita, ṱiza ombosiro, nu u yarukire koviungura vyombepo mbi tjiukwa."
+  - "Tjanga oviṋa mbi tjiitwa kutja u mune imbi mbi eta ouzeu, nu kara nombepo nomazeva omatendero indu okurunduruka tji kwa utu."
+  - "Kahaka kondohotora tji pe noviraisiro ovipe poo mbi mavi rire ouvi: ouyehame, omitjise poo omitjise vyomiti mavi kara norupa."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Sundowning potuingi u tjitwa oruveze ruṋe meyuva?"
+    a: "Potuingi u uta poo u rira ouvi komatango, eyuva tji ri yenda okukahita. Oruveze ru panguka komundu nomundu, notji tji ri otjiṋa otjiwa okutjanga okaṱiṱi kouṱiṱiṱiṱi kuṋa kuṱa kuvari kutja u mune."
+  - q: "Oviungura viṋe mbi mavi vatere ku Sundowning?"
+    a: "Oviungura vyombepo, mbi tjiukwa nu mbi hi nokuhepa omasa omengi vi ungura nawa komatango: omizumbi vyombepo, okutarera oviperendero, otjiprograma tjoterereke tji wa suvera, okuzara ozombanda, okukaenda okaṱiṱi poo okurya pamwe. Oviungura ovipe poo ovinanḓengu vi undjira komuhuka."
+  - q: "Sundowning ma rire otjiraisiro tjouzeu woutjitu?"
+    a: "Ou mau yenene okurirwa ouvi i youzeu woutjitu tjimuna ouyehame, omitjise tjimuna omitjise vyomomeva womahundju, ouzeu wokurara poo ozondjira ozombi zoviti. Okurunduruka tji ku ri okupe, tji kwa tjitwa tjimanga poo tji ku rira ouvi, hakaena nondohotora yomundu ngo."
+  - q: "Hi sokupura ondohotora ohunga nomiti vya Sundowning?"
+    a: "Indo ehungi ndi mo sokutjita nondohotora. Alzheimer’s Association i tja omiano mbi hi noviti potuingi vi sokurorwa rutenga, nu omiti ngamwa avihe vyokurunduruka komatango vi sokuripuurwa uriri kombunda yokuripura oumba nozondjira ozombi. Orupa ndwi ka ru yandja omaronga ohunga noviti."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Omazeva omengi ye muna otjitjitwa tjimwe: omuhuka u kara nawa, posi yokutja omatango tji ye ya, omundu ngu nomutjise wokuzemba u uta okurunduruka, okurikenda, okuripura ovizeu poo okuyumana. Eye ma yenene okukaendaenda, okupura kutja ma "yarukire konganda" nandarire tji e ri ponganda, poo okuyumana tjimanga. Ihi potuingi tji isanewa Sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Kape notjiṋa tjimwe uriri tji tji yama, posi omarundurukiro momuano weyuva, mondjuwo nomoviungura mbi mo yandja mape ya ye vatere omatango ye rire omapozu. Orupa ndwi ru wongerisa omiano vyokutjita okuza ku National Institute on Aging na Alzheimer’s Association. Kaye ri omaronga woutjitu. Oviraisiro tji vi ri ovipe, tji vya tjitwa tjimanga poo tji mavi rire ouvi, hungira nondohotora yomundu ngo.
 
-## What is sundowning?
+## Sundowning otjikwaye?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning okurunduruka, okuyumana, okuripura ovizeu poo okuzuva navi tji ku uta poo tji ku rira ouvi eyuva tji ri yenda okukahita, komatango. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) i tja okur wearya tjinene ku yenena okueta okurunduruka komatango.
 
-## What can make late-day restlessness worse?
+## Otjikwaye tji tji yenena okurira okurunduruka komatango ouvi?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Oviṋa ovingi mavi kara norupa, potuingi pamwe. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) i tamuna oviṋa tjimuna:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- okur wearya kombunda yeyuva arihe;
+- oruveze orupe poo ndu ru rikurira;
+- "owatche worutu" ndji hi ri nawa, ndji tjita kutja omundu a rare omutenya nu a penduke ouṱuku;
+- ondjerera onḓiṱi nozondjimbi, mbi mavi rikurire;
+- okuzuva ombameno poo ombiri yovandu mbe ri popezu;
+- okuhepa ozombuṱu ozonḓiṋe, otjiṋa tji tji tjitwa potuingi kovandu ovanene.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA wina i tamuna oviṋa mbi eta okuyumana, tjimuna ouyehame, omutima omuvi poo ombiri, ozombuṱu ozonḓiṱi, ombundo, ombosiro onyingi poo ovandu ovengi, nomiti tjiva poo omiti mbi hi nokuyenda pamwe.
 
-## How can I plan the day to make evenings calmer?
+## Me yenene vi okurongerisa eyuva kutja omatango ye rire omapozu?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Oviungura ovinanḓengu vi twa komuhuka nu omatango ye kare omapozu nu ye tjiukwa. NIA na Alzheimer’s Association ayevari ve ronga omitjise vyeyuva mbi ri tjingee. Otjihorera tjeyuva, tji mo yenene okurundurura:
 
-| Time | What may help |
+| Oruveze | Otjiṋa tji tji yenena okuvatera |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Omuhuka | Omazuvasaneno, okurikoha, omayenda noviungura ngamwa avihe mbi hepa omasa, indu ovandu ovengi tji ve ri noupaturuke |
+| Kombunda yomuhuka | Oruveze pendje poo porutjito rwondjerera; okukaenda poo otjiungura tjarwe |
+| Pokati keyuva | Okurya okunene kwomutenya (Alzheimer’s Association i tja okurya okunene kwomutenya nokurya okureruka komatango) |
+| Komatango omatenga | Okusuva tji pa hepa, posi yanda ozombuṱu ozonde komatango |
+| Pokati komatango | Oviungura vyombepo mbi tjiukwa; okurya okaṱiṱi nokunwa; kape noviṋa mbi nomasa |
+| Ngunda eyuva a hi ya hita | Munika ozonyutji mondjuwo nu u pate omakuturiro ngunda ku hi ya zorerwa |
+| Komatango | Okurya okureruka, omizumbi vyombepo, oviṋa oviṱiṱi mbi eta ombosiro, omitjise vyokurara mbi ri tjingee |
 
-A few specific points from the sources:
+Omapu tjiva okuza kozondjiviro:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Ondjerera yeyuva.** NIA i tja rongerisa oruveze pendje poo porutjito eyuva arihe.
+- **Okunyandera eyuva arihe, posi ka tjinene.** Kara nomasa worutu eyuva arihe nokuhina okurongerisa oviungura ovingi, NIA mai tja.
+- **Ovinwa komatango.** Yanda omalovu noviṋa mbi nomasa tjimuna okofi poo okola komatango (NIA). Alzheimer’s Association wina i tamuna omakaya.
+- **Ozombuṱu.** Yanda ozombuṱu ozonde nokurarara komatango (NIA). Alzheimer’s Association i tja ṱiza ozombuṱu zomutenya tji okurara ouṱuku ku ri ouzeu.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Ohunga nokutunga eyuva ndi ri tjingee, tara [oviungura vyomitjise vyeyuva arihe](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Me yenene vi okutjita kutja ondjuwo i kare nombepo komatango?
 
-Reduce noise, add light and keep familiar things close.
+Ṱiza ombosiro, weda ondjerera nu kara noviṋa mbi tjiukwa popezu.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Ondjerera ombwa.** Alzheimer’s Association i tja ondjuwo i kare nondjerera ombwa komatango. Munika ondjuwo ozondjimbi ngunda a ze hi ye ya.
+- **Ombosiro onḓiṱi.** Zepa poo ṱiza oterereke noradio, nu ṱiza ovayenda poo oviungura vyonganda ovingi oruveze ndwi. Alzheimer’s Association i tja ṱiza oviṋa mbi eta ombosiro komatango tjimuna oterereke, oviungura vyonganda nomizumbi ominene.
+- **Oviṋa mbi huhumiṋa.** NIA i tja omizumbi vyombepo noviṋa noviperendero mbi suverwa vi kare mondjuwo.
+- **Okutarera ouhupise.** Alzheimer’s Association i tja tara ouyehame, ondjara, onyota, ombundo, omatundu nge ura, okur wearya, omitjise nomikova vyomukova, nu kara nondjuwo moupyu mbu ri nawa.
+- **Omuinyo woye omuini.** Ovandu ve zuva ombiri. NIA i tja ritiza nu kondja okusuva tji ozongendo zoye maze yenene okuweda ombiri.
 
-## What calm activities can we do in the late afternoon?
+## Oviungura viṋe vyombepo mbi matu yenene okutjita komatango?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Toorora oviungura mbi tjiukwa, mbi hi nokuhakahana nu mbi ri uriri okuyarwa. Alzheimer’s Association i tja oviungura vyombepo tjimuna omizumbi vyombepo, oviperendero poo otjimuvi tji wa suvera, nokukaenda pamwe kutja okurunduruka ku rire okupu. NIA i tja okurya okaṱiṱi poo okunwa, otjiprograma tjoterereke tji wa suvera, omizumbi, okukaenda, okuresa, poo otjiungura otjiṱiṱi tjonganda tjimuna okuzara ozombanda.
 
-Ideas to try:
+Omayuva wokurora:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Zara ozombanda pamwe.** NIA i tja otjiungura hi otjiṱiṱi tjonganda. Ozoutaera ze ri uriri okupukurwa, notjiungura tji nomaherero omapaturuke.
+2. **Nyanda omizumbi mbi wa suvera.** Ovizumbi mbi tjiukwa okuza kouṱiṱi, nombosiro onḓiṱi. Okutoora pamwe ku yenena. Omayuva warwe mo [oviungura vyomizumbi](/activities/music/).
+3. **Tarera oviperendero.** Embo roviperendero, poo oviperendero oviṱiṱi vyeṱunḓu mu [Photo Pairs](/games/photo-pairs/) noviperendero tji vya raisiwa, mavi eta ehungi eṱiṱi.
+4. **Kaenda okaṱiṱi.** Motjikunino, moruveze rwopopezu poo mondjira yondjuwo, ngunda ku hi ya zorerwa.
+5. **Rya okaṱiṱi nu mu nwe pamwe.** Otjiṋa otjiṱiṱi, otjipyu nu tji hi noviṋa mbi nomasa, potjiti pamwe.
+6. **Okusasaneka nombepo.** [Picture Pairs](/games/picture-pairs/) nozoṱaera ine noviperendero tji vya raisiwa vi ri uriri okuuta nokuyarwa.
+7. **Okutjita ozombara.** [Coloring](/games/coloring/) motjivaho poo porutuu, nokuhina ondando yokumana.
+8. **Okutarera nokuhungira.** [Conversation Cards](/games/conversation-cards/) ve yandja otjiperendero nepuro ndi ri uriri. Okutarera uriri ku yenena.
+9. **Okusuva okaṱiṱi.** [Calm Breathing](/games/calm-breathing/) okusuva okuṱiṱi nu okuzikira ku mo utu nokuyarura omuini.
+10. **Oviungura vyomake.** Okutoorora ozombandi poo ozosokisi, okutyara eṋanga etarazu, poo okukwatera otjiṋa tji tji tjiukwa. Tara [oviungura vyomazuviro](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Yanda ovinyando ovipe, omayenda omengi noviṋa mbi hepa okuzemburuka tjinene poo okuripurira ko komatango. Vi undjira komuhuka.
 
-## What should I do when restlessness starts?
+## Hi sokutjita vi indu okurunduruka tji kwa utu?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Kara nombepo, yandja omazeva omatendero, nu u vyarurire ko nombepo. NIA i tja hungira nombepo, puratena kozongendo zomundu, yanda omar disputo, mu raera kutja u ri mondjeverero, nu ungurisa okukwata nombepo tji tji mu vatera. Okuzambo rora okumutjaera komurungu: okurya okaṱiṱi, okunwa, omizumbi poo okukaenda.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer’s Association i tja omambo tjimuna "Ove u ri mondjeverero mba" na "Mbi nombahemena kutja wa hihamwa," nu i rongo okuweda ondjerera, okuritiza nokutjiza oviṋa mbi eta ombosiro. O hinga omundu mokona, o mu tumbisa popezu tjinene, o mu ṋiṋikiza poo o mu pata.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Omundu tje rira nomazenge, NIA i rongo okukara kokure ku ri mondjeverero ngandu omazenge tji ye ya pokuyarura. Motjiponga, ŋuna onomora yomeyama, tjimuna 112, nu u kahurura kutja omundu ngo u nomutjise wokuzemba.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Omikanda vyetu ohunga [nokuvatera okuhungira](/caregiving/communication-tips/) na [tji ve tja kako](/caregiving/when-they-say-no/) vi nomambo omengi omapozu.
 
-## How do I find the triggers?
+## Me yenene vi okumuna imbi mbi eta ouzeu?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Tjanga okaṱiṱi kouṱiṱiṱiṱi kuṋa kuṱa kuvari. Alzheimer’s Association i tja tjanga imbi mbi tjitwa komurungu yoviṋa vya Sundowning kutja u mune imbi mbi eta ouzeu. Tjanga oruveze okurunduruka tji kwa uta, imbi mbya tjitwa moure owomba komurungu, ozombuṱu, ovikurya novinwa, ovayenda, ombosiro nondjerera. Twa embo ndi kondohotora. NIA i tja okutjanga omarundurukiro womitjise ku vatera ovatarere novandu vouhaku okumuna omuano.
 
-## When should I call a doctor about sundowning?
+## Me sokukahaka ruṋe kondohotora ohunga na Sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Hakaena nondohotora yomundu ngo okurunduruka tji ku ri okupe, tji kwa rire ouvi tjimanga, poo tji ku ya pamwe nomarundurukiro warwe. NIA i tja omarundurukiro womitjise nge tjitwa tjimanga poo nge runduruka tjimanga, tjinenenene kombunda yomutjise poo omarundurukiro omape moviti, ye sokuraerwa kondohotora tjimanga.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Pura ondohotora i tare oviṋa mbi mavi tjiti omatango ye rire omauzeu. Alzheimer’s Association i tamuna ouzeu worutu tjimuna omitjise vyomomeva womahundju, okuhinokukara nouvara komatundu, omaṱupa nge hi nokusuva nawa nokusuva ouzeu ouṱuku, nu i tja pura kutja oruveze ruṋe meyuva ndu ri oruwa komuti auhe. NIA i tamuna ouyehame, ombundo nozondjira ozombi zoviti poo omiti mbi hi nokuyenda pamwe otjoviṋa mbi eta okuyumana.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer’s Association i tja omiano mbi hi noviti potuingi vi toororwa rutenga kouzeu wokurara mbu notjina na Alzheimer, nu omiti vyokuyumana komatango vi sokuripuurwa uriri tji mbi hi ya ungura, kombunda yokuripura oumba nozondjira ozombi. Ondyero ndjo i ri nondohotora. O uta, o yeka poo o rundurura omuti ngamwa auhe, otjiyameto tjokurara poo otjiwedero nokuhina omaronga woutjitu.
 
-## How do I get through the evenings myself?
+## Me yenene vi okutuurunga omatango omuini?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Omatango mape ya ye rire oruveze oruzeu tjinene komutjevere. Tji mo yenene, ningira omuṋepo weṱunḓu, epanga poo omuvatere ngu suta a tare ko omatango omayuva tjiva motjivike, nandarire koure owomba imwe. Embo retu ndi [okuritjevera omuini otjomutjevere](/caregiving/caregiver-self-care/) ri nomiano vyokusuva na o-Helpline ya Alzheimer’s Association ndji ri uriri, 24/7.

@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "ཉན་ཤུགས་ཉམས་པ་དང་དྲན་ཤེས་ཉམས་ཉེན། ཞིབ་འཇུག་གི་གསལ་བཤད།"
+seoTitle: "ཉན་ཤུགས་ཉམས་པ་དང་དྲན་ཤེས་ཉམས་པ། ཞིབ་འཇུག"
+description: "ཉན་ཤུགས་ཉམས་པ་དྲན་ཤེས་ཉམས་པའི་ཉེན་ཁ་གཙོ་བོ་ཅིག་ཡིན་དོན། ACHIEVE བརྟག་དཔྱད་ཀྱི་གྲུབ་འབྲས། ཉན་ཞིབ་དང་གླེང་མོལ་གྲ་སྒྲིག།"
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  ༢༠༢༤ ལོའི་ Lancet Commission གིས་ཉན་ཤུགས་ཉམས་པ་འདི་དྲན་ཤེས་ཉམས་པའི་ཉེན་ཁ་
+  བསྒྱུར་བཅོས་འབད་བཏུབ་པའི་རྒྱུ་རྐྱེན་གཙོ་བོ་གྲས་ཤིག་ལུ་བརྩི་ཡོདཔ་ཨིན། ACHIEVE བརྟག་དཔྱད་ནང་
+  སྤྱིར་བཏང་ལུ་ཉན་རོགས་འཕྲུལ་ཆས་ཀྱིས་དྲན་ཤེས་ཉམས་འགྱོ་མེདཔ་བཟུང་། ཉེན་ཁ་མཐོ་བའི་ཚོགས་ཆུང་ནང་
+  ཉམས་འགྱོ་ཉུང་སུ་འགྱོ་བའི་རྟགས་ཚུད་ཡོད། གང་ལྟར་ཡང་། ཉན་རོགས་འཕྲུལ་ཆས་ཀྱིས་གླེང་མོལ་དང་
+  ཉིན་རེའི་འཚོ་བ་ལུ་ཕན་ཐོགས་ཡོདཔ་ཨིན། ཉན་ཤུགས་ཞིབ་དཔྱད་འབད། སྨན་བཅོས་ལག་ཁྱེར་ཡང་ན་
+  ཚོང་ཁང་ནང་ལས་ཉོ་བཏུབ་པའི་ཉན་རོགས་བསམ་བཞག་འབད། སྨན་པ་དང་གྲོས་བསྡུར་འབད།
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission གིས་ཉན་ཤུགས་ཉམས་པ་འདི་འཛམ་གླིང་ཡོངས་ཀྱི་དྲན་ཤེས་ཉམས་པའི་བརྒྱ་ཆ་༧ ཙམ་དང་འབྲེལ་བ་ཡོདཔ་སྦེ་ཚོད་དཔག་འབད་ཡོད། འདི་རྒྱུ་རྐྱེན་༡༤ ནང་གི་མཐོ་ཤོས་གྲས་དང་མཉམ་སྦེ་ཡོད།"
+  - "ACHIEVE བརྟག་དཔྱད་ནང་ལོ་ཆེ་བའི་མི་༩༧༧ ལུ་བལྟ་བའི་སྐབས། ལོ་༣ གྱི་རིང་ལུ་ཉན་རོགས་འཕྲུལ་ཆས་ཀྱིས་སྤྱིར་བཏང་གི་དྲན་ཤེས་ཉམས་འགྱོ་ལུ་འགྱུར་བ་མེདཔ་བཟུང་།"
+  - "ACHIEVE ནང་གི་ཉེན་ཁ་མཐོ་བའི་ཚོགས་ཆུང་ཞིག་ནང་། ཉན་རོགས་ལག་ལེན་འཐབ་པའི་སྐབས་དྲན་ཤེས་ཉམས་འགྱོ་བརྒྱ་ཆ་༤༨ ལྷོད་སུ་འགྱོ་ཡོད། འདི་ལུ་ཞིབ་འཇུག་གཞན་གྱིས་ངེས་དཔྱད་དགོཔ་ཨིན།"
+  - "༢༠༢༢ ལོའི་ཟླ་༡༠ པ་ལས་འགོ་བཟུང་། ཨ་རིའི་ལོ་༡༨ ལས་ལྷག་པའི་མི་ཚུ་གིས་རང་ཉིད་ཀྱིས་ཉན་ཤུགས་ཉུང་ཙམ་ལས་འབྲིང་ཙམ་ཉམས་ཡོདཔ་སྦེ་ཚོར་བ་ཅིན། FDA གིས་ངོས་ལེན་འབད་ཡོད་པའི་ཉན་རོགས་འཕྲུལ་ཆས་ཚོང་ཁང་ནང་ལས་སྨན་འབྲི་མེད་པར་ཉོ་ཚུགས།"
+  - "༢༠༢༤ ལོར་སྨན་བཅོས་མ་འབད་བའི་མིག་ཤེལ་ཉམས་པ་ཡང་དྲན་ཤེས་ཉམས་པའི་ཉེན་ཁ་གཅིག་སྦེ་ཁ་སྐོང་འབད་ཡོད། དེ་འབདཝ་ལས་མིག་གི་ཞིབ་དཔྱད་ཡང་གལ་ཆེ།"
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "ཉན་རོགས་འཕྲུལ་ཆས་ཀྱིས་དྲན་ཤེས་ཉམས་པ་སྔོན་བཀག་འབད་ཚུགས་ག?"
+    a: "ད་ལྟོ་དེ་ངེས་བདེན་སྦེ་གསལ་བཤད་མ་འབད་བས། ACHIEVE བརྟག་དཔྱད་ཀྱིས་ལོ་༣ གྱི་རིང་ལུ་སྤྱིར་བཏང་གི་དྲན་ཤེས་ཉམས་འགྱོ་ལུ་ཕན་གནོད་གནད་དོན་མ་བྱུང་། དེ་འབདཝ་ད་ཉེན་ཁ་མཐོ་བའི་ཚོགས་ཆུང་ཞིག་ནང་ལུ་གནས་སྟངས་ཡག་སུ་འགྱོ་ཡོད། ཉན་རོགས་འཕྲུལ་ཆས་ཀྱིས་གླེང་མོལ། ཉེན་སྲུང་། དང་ཉིན་རེའི་འཚོ་བ་གྲོགས་རམ་འབདཝ་ལས། བསམ་བཞག་འབད་ནི་རན་ཏོག་ཡོད།"
+  - q: "སྨན་འབྲི་མེད་པར་ཉོ་བཏུབ་པའི་ཉན་རོགས་འཕྲུལ་ཆས་ག་གིས་ཉོ་ཚུགས་ག?"
+    a: "FDA གི་ལམ་སྟོན་ལྟར། ལོ་༡༨ ལས་ལྷག་པའི་མི་ཚུ་གིས་རང་ཉིད་ཀྱིས་ཉན་ཤུགས་ཉུང་ཙམ་ལས་འབྲིང་ཙམ་ཉམས་ཡོདཔ་སྦེ་ཚོར་བ་ཅིན། ཚོང་ཁང་ནང་ཡང་ན་དྲ་ཐོག་ལས་སྨན་འབྲི་མེད་པར་ཉོ་ཚུགས། ཉན་ཤུགས་ཤུགས་ཆེན་པོ་ཉམས་པའི་དོན་ལུ་འདི་མི་འོས། རྣ་བ་ན་ནི། རྣ་ནང་ལས་ཆུ་ཡང་ན་གསོག་ཆགས་ཐོན་ནི། མགོ་འཁོར་ནི། ཡང་ན་ཉན་ཤུགས་གློ་བུར་དུ་འགྱུར་བ་ཅིན། ཧེ་མ་ལས་སྨན་པ་ལུ་སྟོན་དགོ།"
+  - q: "ཉན་ཤུགས་ཉམས་པ་འདི་དྲན་ཤེས་ཉམས་པ་བཟུམ་སྦེ་མཐོང་ཚུགས་ག?"
+    a: "ནམ་རང་འབད་མཐོང་ཚུགས། National Institute on Aging གིས་ལོ་ཆེ་བའི་མི་ཚུ་ལེགས་ཤོམ་སྦེ་མ་གོ་ཚེ། ནམ་རང་འབད་ཁོང་ལུ་སེམས་ཁྲལ་ཡོད་པའི་བཟུམ་ཡང་ན་མཉམ་ལས་མི་འབད་མི་བཟུམ་སྦེ་ནོར་འཁྲུལ་འབྱུང་སྲིདཔ་སྦེ་བཤད་ཡོད། ག་ཅི་ཅིག་བཤད་མི་མ་གོ་བའམ་མི་དང་མཉམ་ལས་ལས་ཐག་རིང་སུ་འགྱོ་བཞིན་དུ་འབད་བ་ཅིན། ཉན་ཤུགས་ཞིབ་དཔྱད་འབད་ནི་འདི་གོ་རིམ་ཡག་པོ་ཅིག་ཨིན།"
+  - q: "ལོ་ཆེ་བའི་མི་ཚུ་གིས་མིག་གི་ཞིབ་དཔྱད་ག་དེ་སྦེ་རེ་འབད་དགོ་ག?"
+    a: "National Institute on Aging གིས་ལོ་༦༠ ལས་ལྷག་སྟེ། ལོ་རེ་ཡང་ན་ལོ་༢ རེ་ནང་མིག་མཐོང་ཤེལ་རྒྱབ་ཞིབ་དཔྱད་འབད་ནི་ལུ་བསླབ་བྱ་བྱིན་ཡོད། ཡང་ན་མིག་སྨན་པ་གིས་བསླབ་ཡོད་པའི་ལྟར་དུ་འབད་དགོ། ཁྲག་ཤེད་ནད་ཡང་ན་ཁྲག་གནོན་མཐོ་བའི་མི་ཚུ་ལུ་ལོ་རེ་ཉུང་མཐའ་ཚར་གཅིག་དགོཔ་ཨིན།"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+ལོ་ཆེ་རུ་འགྱོ་བའི་སྐབས་ཉན་ཤུགས་ཉམས་པ་འདི་མངོན་གསལ་ཅིག་ཨིན། ཞིབ་འཇུགཔ་ཚུ་གིས་འདི་དྲན་ཤེས་ཉམས་པའི་ཉེན་ཁ་དང་འབྲེལ་བ་ཡོདཔ་སྦེ་གལ་ཆེཝ་སྦེ་བརྩི་དོ་ཡོད། དེ་འབདཝ་ད་། ཉན་རོགས་འཕྲུལ་ཆས་ཀྱིས་དྲན་ཤེས་ཉམས་པ་སྔོན་བཀག་འབད་ཚུགསཔ་སྦེ་ངེས་བདེན་གསལ་བཤད་མ་འབད་བས། ད་ལྟོའི་བརྟག་དཔྱད་གཙོ་བོ་ནང་གྲུབ་འབྲས་མ་འདྲཝ་ཐོན་ཡོད། ཤོག་ལེབ་འདི་ནང་། ཞིབ་འཇུག་གིས་ག་ཅི་སྟོནམ་ཨིན་ན། ཉན་ཤུགས་ཞིབ་དཔྱད་ག་དེ་སྦེ་འབད་ནི། ཨ་རིའི་ཚོང་ཁང་ནང་ལས་ཉོ་བཏུབ་པའི་ཉན་རོགས་འཕྲུལ་ཆས་ག་ཅི་ཨིན་ན། དང་། གླེང་མོལ་གྲ་སྒྲིག་སྟབས་བདེ་སྦེ་ག་དེ་སྦེ་འབད་ནི་གི་སྐོར་ལས་འགྲེལ་བཤད་འབད་ཡོད།
 
-## Why does hearing matter for brain health?
+## ཀླད་པའི་གསོ་བའི་དོན་ལུ་ཉན་ཤུགས་ག་དེ་སྦེ་གལ་ཆེ་སྨོ?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+ཉན་ཤུགས་ཉམས་པ་འདི་དྲན་ཤེས་ཉམས་པའི་ཉེན་ཁ་མཐོ་རུ་འགྱོ་ནི་དང་འབྲེལ་བ་ཡོད། [༢༠༢༤ Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) གིས་འདི་འཛམ་གླིང་ཡོངས་ཀྱི་དྲན་ཤེས་ཉམས་པའི་བརྒྱ་ཆ་༧ ཙམ་དང་འབྲེལ་བ་ཡོདཔ་སྦེ་ཚོད་དཔག་འབད་ཡོད། [UCL གི་སྙན་ཞུ་](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ནང་བཤད་དོ་བཟུམ། Commission གི་དཔེ་གཞི་ནང་བསྒྱུར་བཅོས་འབད་བཏུབ་པའི་རྒྱུ་རྐྱེན་༡༤ གི་ནང་ལས་འདི་གིས་ LDL cholesterol མཐོ་བ་དང་མཉམ་སྦེ་མཐོ་ཤོས་གྲས་སུ་ཡོད།
 
-Key findings from the Commission:
+Commission གི་གནད་དོན་གཙོ་བོ་ཚུ།
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **ཉན་ཤུགས་ཉམས་པ་དང་ཉེན་ཁ་མཐོ་བ།** སྤུས་ཚད་ཡག་པའི་ཞིབ་འཇུག་༦ བསྡོམས་ཏེ་བལྟ་བའི་སྐབས། ཉན་ཤུགས་ཉམས་པའི་མི་ཚུ་ལུ་ཉན་ཤུགས་སྤྱིར་བཏང་ཡོད་མི་ལས་དྲན་ཤེས་ཉམས་པའི་ཉེན་ཁ་བརྒྱ་ཆ་༣༧ ཙམ་མཐོ།
+- **ཉམས་ཚད་མཐོ་སྐབས་ཉེན་ཁ་ཡང་མཐོ།** ཉམས་ཚད་ལུ་བལྟ་བའི་ཞིབ་འཇུག་ཚུ་ནང་། ཉན་ཤུགས་ཉམས་ཚད་མཐོ་སྟེ་འགྱོ་བའི་སྐབས་ཉེན་ཁ་ཡང་འཕར་འགྱོ་ཡོད།
+- **འབྲེལ་ཡོད་པའི་རྒྱུ་མཚན་ཚུ་ད་ལྟོ་ངེས་བདེན་མེན།** གཅིག་པོ་སྡོད་ནི་དང་མི་དང་མཉམ་ལས་ལས་ཐག་རིང་སུ་འགྱོ་ནི། སེམས་ཁྲལ། ཀླད་པ་ལུ་སྐུལ་སློང་ཉུང་སུ་འགྱོ་ནི། དང་། ཉན་ནི་ལུ་སེམས་ཀྱི་འབད་བརྩོན་ལྷག་སྟེ་དགོཔ་ལ་སོགས་པའི་རྒྱུ་མཚན་ཚུ་བསམ་བཞག་འབད་ཡོད།
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+ཉན་ཤུགས་ཉམས་པ་འདི་མངོན་གསལ་ཅིག་ཨིན། [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) གིས་ལོ་ཆེ་བའི་མི་གསུམ་ཆ་གཅིག་ཙམ་ལུ་འདི་འབྱུང་ཞིནམ་ལས། ལོ་རིམ་མཐོ་སྟེ་འགྱོ་བའི་སྐབས་གོ་སྐབས་ཡང་མཐོ་རུ་འགྱོཝ་ཨིན་ཟེར་སྦེ་བཤད་ཡོད།
 
-## What did the ACHIEVE hearing aid trial find?
+## ACHIEVE ཉན་རོགས་བརྟག་དཔྱད་ཀྱིས་ག་ཅི་ཐོབ་ཡོད་ག?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE འདི་ཉན་རོགས་འཕྲུལ་ཆས་དང་དྲན་ཤེས་ཉམས་འགྱོ་གི་སྐོར་ལས་རིམ་མཐུན་སྦེ་སྡེ་བགོ་འབད་ཡོད་པའི་བརྟག་དཔྱད་དང་པོ་ཨིན། འདི་གི་གྲུབ་འབྲས་ནམ་རང་འབད་ནོར་འཁྲུལ་སྦེ་བཤདཔ་ལས། [པར་སྐྲུན་འབད་ཡོད་པའི་བརྟག་དཔྱད་སྙན་ཞུ་](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) ནང་ལས་གནས་ཚུལ་གཙོ་བོ་ཚུ་འོག་ལུ་བཀོད་ཡོད།
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **མཉམ་ཞུགས་འབད་མི།** ཨ་རིའི་མི་སྡེ་ས་ཁོངས་བཞི་ནང་། ཉན་ཤུགས་ཉམས་ཡོད་རུང་སྨན་བཅོས་མ་འབད་བའི་ལོ་༧༠ ལས་༨༤ བར་གྱི་མི་༩༧༧། ཁོང་ཚུ་ལུ་དྲན་ཤེས་ཀྱི་དཀའ་ངལ་ཆེན་པོ་མེད།
+- **ག་ཅི་བསྡུར་ཡོདཔ།** ཕྱེད་ཀ་ལུ་ཉན་རོགས་འཕྲུལ་ཆས་དང་ཉན་ཤུགས་ཆེད་ལས་པ་དང་མཉམ་གྲོས་བསྡུར་ལཱ་ཁག་ལག་ལེན་འཐབ་བཅུག། ཕྱེད་ཀ་གཞན་ལུ་ལོ་ཆེ་རུ་འགྱོ་བའི་གསོ་བའི་ཤེས་ཡོན་ལས་རིམ་བྱིན་ཡོད།
+- **སྤྱིའི་གྲུབ་འབྲས།** ལོ་༣ གི་ཤུལ་ལས། སྡེ་ཚན་གཉིས་ཀྱི་བར་ན་དྲན་ཤེས་ཉམས་འགྱོ་ལུ་**ཁྱད་པར་མེད**པ་ཐོན་ཡོད།
+- **ཚོགས་ཆུང་གི་གྲུབ་འབྲས།** བརྟག་དཔྱད་འདི་ནང་མི་འབྱུང་ཁུངས་གཉིས་ལས་ལེན་ཡོད། མི་༢༣༨ འདི་སྙིང་གི་གསོ་བའི་ཞིབ་འཇུག་རིང་ལུ་ཡོད་པའི་ ARIC ལས་ཡོད་མི་ཨིན་རུང་། ཚོགས་སྡེ་འདི་ནང་དྲན་ཤེས་ཉམས་འགྱོའི་ཉེན་ཁ་མཐོ་བ་སྦེ་མཐོང་ཡོད། ཚོགས་སྡེ་འདི་ནང་། ཉན་རོགས་འཕྲུལ་ཆས་ལག་ལེན་འཐབ་པའི་སྐབས་ཉམས་འགྱོ་**བརྒྱ་ཆ་༤༨ ལྷོད་སུ་**འགྱོ་ཡོད། མི་སྡེའི་ནང་ལས་འོས་བསྡུ་འབད་ཡོད་པའི་གསོ་བ་ཡག་པའི་མི་༧༣༩ ནང་ལུ་གསལ་ཏོག་ཏོ་སྦེ་ཕན་གནོད་མ་མཐོང་།
 
-How to read this honestly:
+འདི་དྲང་བདེན་སྦེ་ལྟ་ནི་ལུ།
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- སྤྱིའི་ལན་འདི་ཕན་གནོད་མེདཔ་ཨིན།
+- ཚོགས་ཆུང་གི་གྲུབ་འབྲས་འདི་སྔོན་མ་ལས་རིམ་བཞག་ཡོད་རུང་། འདི་ཚོགས་ཆུང་ཞིག་གི་གཞི་ཁུངས་ལས་ཐོན་ཡོདཔ་ལས། ཞིབ་འཇུག་གཞན་གྱིས་ངེས་དཔྱད་འབད་དགོཔ་ཨིན།
+- མཉམ་ཞུགས་པ་ཚུ་གིས་ཁོང་ར་ག་དེའི་ལས་རིམ་ནང་ཡོད་མི་ཤེས་ཡོདཔ་ལས། དེ་གིས་གྲུབ་འབྲས་ལུ་ཤུགས་རྐྱེན་བཏང་འོང་།
+- Lancet Commission གིས་ཉན་ཤུགས་ཉམས་པ་དང་དྲན་ཤེས་ཉམས་པའི་ཉེན་ཁ་གཞན་ཡང་མཉམ་དུ་ཡོད་པའི་མི་ཚུ་ལུ། ཉན་རོགས་འཕྲུལ་ཆས་ཀྱིས་ལྷག་པར་དུ་ཕན་ཐོགས་འབྱུང་སྲིདཔ་སྦེ་བལྟ་དོ་ཡོད།
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+མཇུག་གི་གནས་ཚུལ་འདི། ཉན་རོགས་འཕྲུལ་ཆས་ཀྱིས་དྲན་ཤེས་ཉམས་པ་སྔོན་བཀག་འབད་ཚུགསཔ་སྦེ་ངེས་བདེན་སྦེ་གསལ་བཤད་མ་འབད་བས། དེ་འབདཝ་ད་ཁོང་གིས་མི་ཚུ་ལུ་ལེགས་ཤོམ་སྦེ་གོ་བཏུབཔ་དང་། གླེང་མོལ་ནང་མཉམ་ཞུགས་འབད་བཏུབཔ། མི་དང་འབྲེལ་བ་རྒྱུན་སྐྱོང་འཐབ་བཏུབཔ་སྦེ་ཕན་ཐོགས་ཡོདཔ་ལས། བསམ་བཞག་འབད་ནིའི་རྒྱུ་མཚན་ལངམ་སྦེ་ཡོད།
 
-## How do I know if hearing should be checked?
+## ཉན་ཤུགས་ཞིབ་དཔྱད་འབད་དགོཔ་ཨིན་ན་མེན་ན་ག་དེ་སྦེ་ཤེས་ནི?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA གིས་ཁྱོད་རང་ཡང་ན་ཁྱོད་ཀྱིས་བདག་འཛིན་འཐབ་མི་ལུ་འོག་གི་གནས་སྟངས་ཚུ་མཐོང་བ་ཅིན་སྨན་པ་ལུ་སྟོན་ནི་ལུ་བསླབ་བྱ་བྱིན་ཡོད།
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- ཁ་པར་ནང་མི་གིས་ག་ཅི་སླབ་མི་ལེགས་ཤོམ་སྦེ་མ་གོ་ནི།
+- མི་གཉིས་ལས་ལྷག་པ་གླེང་མོལ་འབད་བའི་སྐབས་ག་ཅི་སླབ་མི་རྗེས་འབྲང་འབད་ཁར་དཀའ་ནི།
+- མི་ལུ་ལོག་སླབ་དགོཔ་སྦེ་འཕྲལ་འཕྲལ་ཞུ་ནི།
+- མི་གཞན་གྱིས་སྐད་ཆེ་དྲགས་ཟེར་ཚུན་དུ་ཊི་ཝི་གི་སྐད་མཐོ་རུ་བཟོ་ནི།
+- རྒྱབ་ལྗོངས་ཀྱི་སྒྲ་ཡོད་པའི་ས་ཁོངས་ནང་ཁ་སླབ་མི་ལེགས་ཤོམ་སྦེ་མ་གོ་ནི།
+- མི་གཞན་གྱིས་ཁ་ནང་ལས་མུར་ཏེ་སླབ་དོ་བཟུམ་སྦེ་ཚོར་ནི།
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+གཙོ་བོ་སྨན་པ་ལུ་སྟོན་ནི་ལས་འགོ་བཟུང་། དགོ་དོན་ལྟར་ཉན་ཤུགས་ཆེད་ལས་པ་ (audiologist) ཡང་ན་རྣ་བ། སྣ་ཁུང་། མགྲིན་པའི་སྨན་པ་ལུ་གཏང་འོང་། རྣ་ཁུང་ནང་རྣ་རྒྱགས་བསགས་ཡོད་མི་འདི་ཡང་ཉན་ཤུགས་ཉམས་ནིའི་རྒྱུ་མཚན་མངོན་གསལ་ཅིག་ཨིན་རུང་། སྨན་པ་གིས་ཞིབ་དཔྱད་འབད་ཚུགས། **ཉན་ཤུགས་གློ་བུར་དུ་ཉམས་པ་འདི་སྨན་བཅོས་ཀྱི་གནས་སྟངས་ཛ་དྲག་ཅིག་ཨིན**། NIA གིས་དེ་འབད་བ་ཅིན་འཕྲལ་ལས་སྨན་པ་ལུ་སྟོན་དགོཔ་སྦེ་བཤད་ཡོད།
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+ཉན་ཤུགས་ཉམས་པ་འདི་སེམས་ཁྲལ་དང་ནོར་འཁྲུལ་འབྱུང་སྲིད། NIA གིས་ལོ་ཆེ་བའི་མི་ཚུ་ལེགས་ཤོམ་སྦེ་མ་གོ་ཚེ། ནམ་རང་འབད་ཁོང་ཚུ་ལུ་སེམས་ཁྲལ་ཡོད་པའི་བཟུམ། ལན་མི་འདེབས་པའི་བཟུམ། ཡང་ན་མཉམ་ལས་མི་འབད་མི་བཟུམ་སྦེ་ནོར་འཁྲུལ་འབྱུང་སྲིདཔ་སྦེ་བཤད་ཡོད། ཁྱོད་ཀྱི་དགའ་བའི་མི་གཅིག་གིས་མི་དང་མཉམ་ལས་ལས་ཐག་རིང་སུ་འགྱོ་བཞིན་དུ་ཡོདཔ་ཡང་ན་ག་ཅི་སླབ་མི་མ་གོ་བ་ཅིན། ཉན་ཤུགས་ཞིབ་དཔྱད་འབད་ནི་འདི་གོ་རིམ་སྔོན་མ་ཡག་པོ་ཅིག་ཨིན།
 
-## What are over-the-counter hearing aids?
+## སྨན་འབྲི་མེད་པར་ཉོ་བཏུབ་པའི་ཉན་རོགས་འཕྲུལ་ཆས་ག་ཅི་ཨིན་ན?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+༢༠༢༢ ལོའི་ཟླ་༡༠ པའི་ཚེས་༡༧ ལས་འགོ་བཟུང་། [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) གིས་སྨན་འབྲི་མེད་པར་ཉོ་བཏུབ་པའི་ (OTC) ཉན་རོགས་འཕྲུལ་ཆས་ཀྱི་དབྱེ་ཁག་ཅིག་ཆོག་མཆན་བྱིན་ཡོད། སྨན་འབྲི་དགོ་པའི་ཉན་རོགས་དང་བསྡུར་ན།
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| ཁྱད་ཆོས | OTC ཉན་རོགས་འཕྲུལ་ཆས | སྨན་འབྲི་དགོ་པའི་ཉན་རོགས་འཕྲུལ་ཆས |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| ག་གི་དོན་ལུ་ཨིན་ན | ལོ་༡༨ ལས་ལྷག་པའི་མི། ཉན་ཤུགས་ཉུང་ཙམ་ལས་འབྲིང་ཙམ་ཉམས་ཡོདཔ་སྦེ་ཚོར་མི། | ཉན་ཤུགས་ཉམས་ཚད་ག་ཅི་ར་ཡོད་རུང་། ལོ་ཚད་ག་ཅི་ར་ཨིན་རུང་། |
+| ག་ཏེ་ལས་ལེན་ནི | ཚོང་ཁང་ཡང་ན་དྲ་ཐོག་ལས། ཞིབ་དཔྱད་དང་སྨན་འབྲི་མི་དགོ། | ཆོག་མཆན་ཡོད་པའི་ཉན་ཤུགས་ཆེད་ལས་པ་བརྒྱུད་དེ། |
+| སྒྲིག་བཀོད་འབད་ཐངས | རང་གིས་སྒྲིག་སྟངས་བསྒྱུར་བཅོས་འབད་ནི། མང་ཤོས་རང་མཉེན་ཆས་ལག་ལེན་འཐབ་ནི། | ཆེད་ལས་པ་གིས་ཁྱོད་ཀྱི་ཉན་ཤུགས་དང་མཐུན་སྦེ་སྒྲིག་བཀོད་འབད་ནི། |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA གིས་ OTC ཉན་རོགས་འདི་ཉན་ཤུགས་ཤུགས་ཆེན་པོ་ཡང་ན་ཧ་ཅང་ཉམས་པའི་དོན་ལུ་མི་འོསཔ་སྦེ་བཤད་ཡོད། འོག་གི་གནས་སྟངས་ཡོད་པ་ཅིན། ཉོ་ནིའི་ཧེ་མ་སྨན་པ། ལྷག་པར་དུ་རྣ་བ། སྣ་ཁུང་། མགྲིན་པའི་ཆེད་ལས་པ་ལུ་སྟོན་དགོཔ་སྦེ་བསླབ་བྱ་བྱིན་ཡོད།
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- རྣ་བ་ན་ནི་ཡང་ན་མི་བདེ་བ།
+- ཟླཝ་༦ གི་ནང་འཁོད་ལུ་རྣ་ནང་ལས་ཆུ། རྣག ཡང་ན་ཁྲག་ཐོན་ཡོད་མི།
+- ཉན་ཤུགས་གློ་བུར་དུ་འགྱུར་བ་ཡང་ན་ཡར་མར་འབད་ནི།
+- རྣ་བ་གཅིག་ནང་ཉན་ཤུགས་ལྷག་པར་དུ་ཉམས་པ། ཡང་ན་རྣ་བ་གཅིག་ནང་རྐྱངམ་ཅིག་སྒྲ་འཐོན་ནི།
+- མགོ་འཁོར་ནི་ཡང་ན་ཉིང་སེང་ཚོར་ནི།
+- རྣ་རྒྱགས་མང་པོ་ཡོད་མི།
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+ཉན་རོགས་འཕྲུལ་ཆས་ལུ་གོམས་འདྲིས་འབད་ནི་ལུ་དུས་ཚོད་དང་ལཱ་འབད་ནི་དགོཔ་ལས། FDA གིས་བསླབ་དོ་བཟུམ། ཉོ་ནིའི་ཧེ་མ་ལོག་སླར་གཏང་ནིའི་སྒྲིག་གཞི་ཞིབ་དཔྱད་འབད། NIA གིས་ཉེན་སྲུང་རིན་འབབ་ཀྱིས་ག་ཅི་ར་གནོང་ཚུགས་ག་ཡིན་ན་དྲི་དགོཔ་སྦེ་བསླབ་བྱ་བྱིན་ཡོད། དྲན་ཤེས་ཉམས་པའི་དཀའ་ངལ་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་ཅིག་གི་དོན་ལུ། ཉིན་རེ་ལུ་ལག་ལེན་འཐབ་སྟབས་བདེ་ཤོས་ཡོད་པའི་ཉན་རོགས་དབྱེ་བ་དང་སྒྲིག་ཐངས་གདམ་ཁ་རྐྱབ་ནི་ལུ་ཉན་ཤུགས་ཆེད་ལས་པ་གིས་གྲོགས་རམ་འབད་ཚུགས།
 
-## How can I talk more easily with someone who has hearing loss?
+## ཉན་ཤུགས་ཉམས་པའི་མི་དང་གླེང་མོལ་གྲ་སྒྲིག་སྟབས་བདེ་སྦེ་ག་དེ་སྦེ་འབད་ནི?
 
-The NIA suggests:
+NIA གིས་འོག་གི་ལམ་སྟོན་ཚུ་བྱིན་ཡོད།
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **མི་དེ་ལུ་ཁ་ཕྱོགས་ཏེ་མིག་གི་འབྲེལ་བ་བཞག**། འོད་ཡག་པོ་ཡོད་པའི་ས་ཁོངས་ནང་སྡོདཔ་ལས། ཁོང་གིས་ཁ་མཆུ་དང་གདོང་གི་རྣམ་འགྱུར་མཐོང་ཚུགས།
+2. **སྒྲ་ཉུང་སའི་ས་ཁོངས་ཅིག་འཐུ།** ཊི་ཝི་ཁ་བསྡམ་པའམ་སྒྲ་ཡོད་ས་ལས་ཐག་རིང་སུ་སོང་།
+3. **སྐད་ཏོག་ཙམ་མཐོ་རུ་སླབ། དེ་འབདཝ་ད་སྐད་མ་བཏོན།** སྤྱིར་བཏང་གི་མགྱོགས་ཚད་དང་སྐད་ཀྱི་ཚད་ནང་སླབ།
+4. **ཁ་གསལ་ཏོག་ཏོ་སྦེ་བཞག**། གླེང་མོལ་འབད་བའི་སྐབས་ཟ་མ་མ་ཟ། ཁུ་གམ་མ་ཟོ། ཡང་ན་ཁ་མ་ཁེབས།
+5. **མ་གོ་བ་ཅིན་ཚིག་ཐོག་ལས་སླར་མ་སླབ་པར་ཚིག་སྦྱོར་སོར་སླབ།**
+6. **དུས་རྐྱེན་གཅིག་ལུ་མི་གཅིག་རྐྱངམ་ཅིག་སླབ་བཅུག།** ཚོགས་སྡེ་ནང་མི་དེ་ཡང་མཉམ་ཞུགས་འབད་ཚུགས་པའི་གོ་སྐབས་བྱིན།
+7. **བཟོད་སྒོམ་འབད་ཞིནམ་ལས་ག་དེ་སྦེ་གྲོགས་རམ་འབད་ནི་ཨིན་ན་དྲི།**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+ལམ་སྟོན་འདི་ཚུ་ང་བཅས་ཀྱི་ [དྲན་ཤེས་ཉམས་པའི་མི་དང་གླེང་མོལ་གྱི་ལམ་སྟོན་](/caregiving/communication-tips/) དང་མཉམ་དུ་ལག་ལེན་འཐབ་བཏུབ། པར་རིས་ལུ་གཞི་བཞག་པའི་བྱེད་ལས་ཚུ་གིས་ཉན་ནིའི་ཤུགས་བཀོལ་ཉུང་སུ་བཟོཝ་ཨིན། [Picture Pairs](/games/picture-pairs/) དང་ [Conversation Cards](/games/conversation-cards/) འདི་ཚུ་མཐོང་མི་ལུ་གཞི་བཞག་སྟེ་སྤྱོད་ཚུགས། [Finish the Saying](/games/finish-the-saying/) ནང་མཇུག་འདི་སླབ་ནི་གི་ཚབ་ལུ་སྟོན་བཏུབ། ཁ་པར་གླེང་མོལ་གྱི་དོན་ལུ་ [ཁ་པར་དང་ཝི་ཌིའོ་གླེང་མོལ་](/activities/phone-and-video-calls/) གྱི་ལམ་སྟོན་ལྟ།
 
-## Vision matters too
+## མིག་གི་གསོ་བ་ཡང་གལ་ཆེ
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+༢༠༢༤ ལོར་ Lancet Commission གིས་སྨན་བཅོས་མ་འབད་བའི་མིག་ཤེལ་ཉམས་པ་འདི་ཉེན་ཁ་གསརཔ་ཅིག་སྦེ་ཁ་སྐོང་འབད་ཡོད། UCL གི་སྙན་ཞུ་ནང་འདི་དྲན་ཤེས་ཉམས་པའི་གནད་དོན་བརྒྱ་ཆ་༢ ཙམ་དང་འབྲེལ་བ་ཡོདཔ་སྦེ་བཀོད་ཡོད་རུང་། Commission གིས་མིག་གི་དཀའ་ངལ་གྱི་ཞིབ་དཔྱད་དང་སྨན་བཅོས་ག་ར་ལུ་ཐོབ་ཚུགསཔ་འབད་དགོཔ་སྦེ་བསླབ་བྱ་བྱིན་ཡོད། [NIA གིས་](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ལོ་༦༠ ལས་ལྷག་སྟེ་ལོ་རེ་ཡང་ན་ལོ་༢ རེ་ནང་མིག་མཐོང་ཤེལ་རྒྱབ་ཞིབ་དཔྱད་འབད་ནི་དང་། མིག་ཤེལ་གྱི་ཚད་གཞི་ཡང་ཞིབ་དཔྱད་འབད་དགོཔ་སྦེ་བསླབ་བྱ་བྱིན་ཡོད། མཐོང་ཤུགས་ནང་འགྱུར་བ་ཆུང་ཀུ་ཅིག་ཡང་འབྱུང་བ་ཅིན། གཡང་ལུ་བརྡབ་སྲིད་པའི་ཉེན་ཁ་ཡར་སེང་འགྱོ་སྲིད།
 
-## Talk with a doctor
+## སྨན་པ་དང་གྲོས་བསྡུར་འབད
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+གོང་ལུ་བཤད་ཡོད་པའི་རྟགས་ཚུལ་ག་ཅི་ར་མཐོང་བ་ཅིན། ཉན་ཤུགས་དང་མིག་གི་ཞིབ་དཔྱད་ཀྱི་སྐོར་ལས་སྨན་པ་ལུ་དྲི། ཉན་ཤུགས་གློ་བུར་དུ་ཉམས་པ། རྣ་བ་ན་ནི། ཡང་ན་རྣ་ནང་ལས་ཆུ་ཐོན་ནི་ལ་སོགས་པ་འབྱུང་བ་ཅིན། འཕྲལ་ལས་སྨན་བཅོས་འབད་དགོ། དྲན་ཤེས་ཉམས་པའི་དཀའ་ངལ་དང་མཉམ་དུ་འཚོ་བཞིན་པའི་མི་ཅིག་ལུ་བདག་འཛིན་འཐབ་པ་ཅིན། ཉན་ཤུགས་ཡང་ན་མིག་གི་འགྱུར་བ་གི་སྐོར་ལས་ཁོང་གི་སྨན་པ་ལུ་སླབ། འདི་གིས་སེམས་ཁམས། ཉེན་སྲུང་། དང་མི་དང་མཉམ་དུ་བྱེད་ལས་ནང་མཉམ་ཞུགས་ཚུད་ཚུགས་ནི་ལུ་ཤུགས་རྐྱེན་བཏང་འོང་།
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+ཤོག་ལེབ་འདི་སྤྱིར་བཏང་གི་བརྡ་དོན་ཨིན། སྨན་བཅོས་ཀྱི་བསླབ་བྱ་མེན། ང་བཅས་ཀྱི་ [སྨན་བཅོས་ཁས་མི་ལེན་གསལ་བསྒྲགས་](/medical-disclaimer/) ལྟ། [མི་དང་འབྲེལ་བ་དང་ཀླད་པའི་གསོ་བ་](/brain-health/social-connection/) གི་སྐོར་ལས་ལྷག་སྟེ་ལྷབ།

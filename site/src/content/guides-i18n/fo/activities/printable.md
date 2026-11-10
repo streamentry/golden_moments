@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Ókeypis prentvinarligt virksemi við demens"
+seoTitle: "Ókeypis prentvinarligt: stór skrift"
+description: "Ókeypis prentvinarligt virksemi við demens: orðaleit við stórari skrift, litimyndir, samrøðukort og myndubingo, umframt góð ráð til prenting."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments bjóðar ókeypis prentvinarligt virksemi við demens:
+  orðaleit við stórari skrift, litimyndir, samrøðukort við myndum og
+  myndubingokort. Opna eina leiksíðu og brúka Prent-knappin. Prenta við
+  stórari, greiðari skrift á tjúkt pappír, hav bert eina uppgávu á hvørjari
+  síðu, og laminer síður, sum tú vilt brúka aftur. Einfaldar heimagjørdar
+  prentíløg, sum ein lívssøgusíða ella ein dagsskrá, kunnu eisini hjálpa.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Okkara prentvinarligu virksemi eru ókeypis: Word Search, Coloring, Conversation Cards og Picture Bingo. Hvør leiksíða hevur ein Prent-knapp."
+  - "Prenta við stórari, greiðari skrift og góðum kontrasti, og hav bert eina uppgávu á hvørjari síðu."
+  - "Tjúkt pappír ella kortpappír er lættari at halda og minni lætt at krumpa. Laminer síður, so tær kunnu brúkast aftur við tússum, sum kunnu strikast út."
+  - "Heimagjørd prentíløg sum ein lívssøgusíða, ein dagsskrá ella myndamerki á hurðar eru einfald og hent."
+  - "Ein prentað síða er ein boð, ikki heimaarbeiði. Tað er heilt í lagi at gera ein part av henni, ella einki."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Eru tykkara prentvinarligu virksemi við demens ókeypis?"
+    a: "Ja. Síðurnar Word Search, Coloring, Conversation Cards og Picture Bingo á hesi heimasíðuni eru ókeypis at brúka og prenta. Opna leik síðuna og brúka Prent-knappin."
+  - q: "Hvørji prentvinarlig virksemi hóska best við demens?"
+    a: "Bestu prentíløgini eru einfald, greið og fyri vaksin: ein orðaleit við stórari skrift, har orðini bert ganga tvørtur um og niður, litimyndir við greiðum linjum, myndukort, sum byrja eina samrøðu, og myndubingo til bólkar. Vel virksemið eftir áhuga og førimunum hjá persóninum, tú tekur tær av, og hav bert eina uppgávu á hvørjari síðu."
+  - q: "Hvussu geri eg prentíløg lættari at síggja og brúka?"
+    a: "Brúka stóra, greiða skrift, myrkt blekk á hvítum ella kremgulum pappíri og nógvan pláss. Prenta á tjúkt pappír ella kortpappír, so síðan liggur fløt, vel matt pappír fyri at minka um glampi, og brúka eitt skriviborð ella eitt undirlag, sum ikki glíður, so síðan liggur still. Laminering hjálpir síðunum at halda longur."
+  - q: "Kann eg prenta tykkara virksemi til eitt røktarheim ella dagtilhald?"
+    a: "Ja. Starvsfólk, sum skipa fyri virksemi, eru vælkomin at prenta okkara síður til búfólk og bólkar. Picture Bingo er gjørt til bólkar og hevur ein uppropara á skermin, sum tú kanst vísa á ein sjónvarpsskerm ella projektor."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Summatíðir er besta virksemið eitt pappírsark og ein pennur við kjøkinborðið. Prentíløg hava ikki brúk fyri løðing, loyniorðum ella skermi, og tey eru lætt at hava við á vitjan ella í ein bólk. Hendan síðan greiðir frá ókeypis prentvinarligu virkseminum á okkara heimasíðu, hvussu tú prentar tey, so tey eru løtt at síggja og halda, og nøkur einfald heimagjørd prentíløg, sum familjur og starvsfólk, ið skipa fyri virksemi, ofta hava gagn av.
 
-## What free printable activities do you offer?
+## Hvørji ókeypis prentvinarlig virksemi bjóða tit?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Vit bjóða fýra ókeypis prentíløg. Opna eina av hesum leiksíðunum og brúka **Prent**-knappin fyri at fáa eina útgávu, sum er gjørd til prenting.
 
-| Printable | What it is | Good for |
+| Prentílag | Hvat tað er | Hóskar væl til |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Ein orðaleit við stórari skrift, har orðini bert ganga tvørtur um og niður | Rólig løta við einum penni; onkran, sum dámdi gáður |
+| [Coloring](/games/coloring/) | Litimyndir at prenta ella lita á skermin | Avslappað, skapandi tíð; øll stig við hjálp |
+| [Conversation Cards](/games/conversation-cards/) | Myndukort við opnum samrøðuboðum eftir evni, uttan spurningar | Vitjanir, samrøður, familiumáltíðir, bólkar við endurminningum |
+| [Picture Bingo](/games/picture-bingo/) | Bingokort við myndum í staðin fyri tølum, umframt ein uppropara á skermin | Røktarheim, dagtilhald, familjusamankomingar |
 
-### Large-print word search
+### Orðaleit við stórari skrift
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) brúkar stórar bókstavir og letur orðini bert ganga tvørtur um og niður, uttan skák orð ella orð aftureftir. Arbeiðið saman: ein persónur lesur eitt orð úr listanum, hin leitar eftir tí. Um tað gerst trupult at finna orðini, roynið so at seta ein ring um fyrsta bókstavin í hvørjum orði saman, ella lesið bara orðalistan hart og tosið um hvørt orð.
 
-### Coloring pages
+### Litimyndir
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Coloring](/games/coloring/) síður kunnu prentast til tússar ella litblýantar, ella litast á einum teldli við at trýsta á ein lit og síðani á ein part av myndini. Til prentaðar síður kanst tú bjóða tjúkkar tússar og fáar litir í senn. Sí okkara [leiðbeining um list og handverk](/activities/arts-and-crafts/) fyri hugskot um, hvussu litingin kann vera fyri vaksin og avslappandi.
 
-### Conversation cards
+### Samrøðukort
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) seta eina greiða mynd saman við eitt opið boð, sum til dømis „Greið mær frá...“ ella „Hvat leggur tú til merkis?“ Tey eru skrivað sum opin boð, ikki sum spurningar. Prenta eitt sett, klipp kortini sundur, og hav nakrar fá við í eini tasku til vitjanir ella við telefonina til samrøður. Tey hóska eisini væl í bólkum við [endurminningum](/activities/reminiscence/).
 
-### Picture bingo cards
+### Myndubingokort
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Picture Bingo](/games/picture-bingo/) kort brúka myndir í staðin fyri tølum. Prenta eitt kort til hvønn luttakara og brúka upproparan á skermin á eini farteldu, sjónvarpi ella projektori. Vit mæla til at halda fram, til øll kortini eru full, so eingin verður útihýstur. Sí [bólkavirksemi fyri røktarheim](/activities/care-home-groups/) fyri ráð um, hvussu ein løta kann skipast.
 
-## How do I print activities so they are easy to use?
+## Hvussu prenti eg virksemi, so tey eru løtt at brúka?
 
-Small changes in how you print make a big difference.
+Smáar broytingar í, hvussu tú prentar, gera stóran mun.
 
-### Make it easy to see
+### Ger tað lætt at síggja
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Stór, greið skrift.** Brúka størstu prentstilling, sum enn rúmast á síðuni. Lat vera við snirklaðar stavir.
+- **Góður kontrastur.** Myrkt blekk á hvítum ella kremgulum pappíri. Lat vera við ljósagrát ella litaðar bakgrundir.
+- **Matt pappír** minkar um glampi undir bjartum ljósi.
+- **Kanna brillur og ljós.** Alzheimer's Association vísir á, at trupulleikar við sjón og hoyrn kunnu gera samskifti truplari, og mælir til at fáa tey kannað javnan. Ein bjørt, jøvn lampa hjálpir eisini.
 
-### Make it easy to hold
+### Ger tað lætt at halda
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Tjúkt pappír ella kortpappír** liggur fløt, er lættari at taka upp og tolar at verða brúkt ofta.
+- **Eitt skriviborð** ella eitt undirlag, sum ikki glíður, heldur síðuni á staðnum.
+- **Tjúkkar tússar ella tjúkkir blýantar** eru lættari at halda um enn tunnir pennar.
 
-### Make it reusable
+### Ger tað møguligt at brúka aftur
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Laminer síður** ella set teir í glærar plastlommar. Brúka tússar, sum kunnu strikast út, á orðaleitir og bingokort, og strika so út aftur.
+- **Vel mattar lommar**, um glampi er ein trupulleiki, og **runda hornini** á lamineruðum kortum við Saks, so tey eru góð at halda um.
+- **Hav eina mappu** við yndisíløgum, so tú sleppur undan at prenta somu síðu hvørja viku.
 
-### Keep it simple
+### Halt tað einfalt
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Ein uppgáva á hvørjari síðu.** Ein einstøk orðaleit ella ein einstøk mynd, ikki fleiri virksemi trýst saman.
+- **Nógvur hvítt pláss.** Ein ov upptikin síða kann kenna tyngjandi.
+- **Um møguligt, eingar vegleiðingar at lesa.** Vís heldur persóninum, hvat skal gerast.
+- **Klipp síðuna niður.** Um ein heil síða er ov nógv, klipp hana í helvt ella brett hana, so bert ein partur sæst.
 
-## Other useful printables you can make at home
+## Onnur hent prentíløg, sum tú kanst gera heima
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ikki øll hent prentíløg eru leikir. Hesi eru løtt at gera við einum tekstviðgeri og einum prentara.
 
-### A life-story page
+### Ein lívssøgusíða
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Ein síða „um meg“ við mynd, navninum, persónurin ynskir at verða nevndur við, hvar hann vaks upp, arbeiði, familju, yndismat, tónleiki og tí, sum gevur trygd ella kann órógva. Dementia Australia mælir til eina [minnisbók](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) við upplýsingum um lívið, áhugar og týdningarmikil fólk hjá persóninum, sum kann hjálpa teimum, ið vitja, og teimum, sum taka sær av persóninum, og sum kann geva íblástur til samrøðu.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Hon er serliga hent á sjúkrahúsum og á nýggjum røktarstøðum. NIA mælir til at geva starvsfólki á sjúkrahúsinum eitt [persónligt upplýsingarblað](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) við gerandisdegnum hjá persóninum, ynskta navni, tí, hann dámar og ikki dámar, møguligum viðurskiftum, sum kunnu elva til strongd, og merkjum um pínu uttan orð.
 
-### A daily schedule
+### Ein dagsskrá
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Ein stór, einfald dagsskrá við tíðum, fáum orðum og einari lítlari mynd til hvønn part: morgunmatur, túrur, døgurði, hvíld, tónleikur, nátturði. [Dagsskráin](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) hjá Alzheimer's Association mælir til at leggja ætlanir eftir bestu tíðum hjá persóninum á degnum, við føstum tíðum at vakna og fara at sofa og javnvág millum virksemi og hvíld. Set hana í eyguhædd, til dømis á køliskápið, og halt hana smidliga. Sí okkara [leiðbeining um gerandisdagin](/activities/daily-routine/) fyri meira.
 
-### Picture labels for rooms and drawers
+### Myndamerki til rúm og skuffur
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA mælir til at brúka bjartlit skelti ella einfaldar myndir til at [merkja baðirúm, sovikamar og køk](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Sama hugskot riggar til skuffur og skap: ein mynd av sokkum á sokkaskuffuna, koppum á koppskapið. Prenta, laminer og fest tey upp.
 
-### A sorting set
+### Eitt bólkingarsett
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Prenta myndir úr tveimum einfaldum bólkum, sum til dømis frukt og blómur ella amboð og køkslutir, á kortpappír. Klipp teir sundur og bólkið teir saman í tvær kurvir. Á skermin finst hetta sum [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Sangtekstir
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Prenta orðini til nakrar fáar yndissangir við sera stórari skrift til felagssong. Sjálvt fólk, sum ikki longur lesa nógv, kunnu hava hug at halda um arkið.
 
-### A family photo page
+### Ein familjumyndasíða
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Ein einstøk síða við fýra til seks stórum familjumyndum, hvør við einum fornavni undir. Hon kann liggja á borðinum, so øll kunnu taka hana upp og tosa um myndirnar. Tekstir hjálpa teimum, ið vitja, og starvsfólki at vera við í samrøðuni, og eingin noyðist at spyrja: „Hvør er hetta?“
 
-### A recipe card
+### Eitt uppskriftarkort
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Prenta eina yndisuppskrift hjá familjuni við stórari skrift. Brúka hana til at gera mat saman, ella bara til at tosa um máltíðir frá fyrr.
 
-## How do I offer a printable without it feeling like homework?
+## Hvussu bjóði eg eitt prentílag, uttan at tað kennist sum heimaarbeiði?
 
-Present it as something to share, not a test.
+Bjóða tað sum okkurt at gera saman, ikki sum eina roynd.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Set teg niður og byrja sjálv/ur.** „Eg siti við hesi orðaleitini. Vilt tú hjálpa mær at finna ‚havið‘?“
+- **Arbeiðið saman.** Skiftist um, ella lat ein leita og hin seta ring um.
+- **Merk ongantíð sum rætt ella skeivt.** Vegleiðingin hjá Alzheimer's Association um [virksemi heima](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) mælir til at leggja dent á tilgongdina, ikki úrslitið, og á gleði heldur enn avrik.
+- **Lat síður liggja frammi.** Sama vegleiðing mælir til at leggja klippibøkur, myndaalbum ella gomul bløð á støð, har tey eru løtt at náa. Prentað kort og myndasíður kunnu liggja á einum borði á sama hátt.
+- **Steðga, tá tit hava hug.** Ein hálv litimynd er ein fínur seinnapartur. Tað er eisini heilt í lagi at leggja síðuna burtur og fáa sær eina kopp av te.
 
-## Where to find more
+## Finn meira
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Hygg eftir øllum okkara [leikum og prentíløgum](/games/), ella sí [virksemi til øll stig](/activities/ideas/) fyri fleiri hugskot, við og uttan pappír.

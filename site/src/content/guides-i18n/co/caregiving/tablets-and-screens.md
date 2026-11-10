@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Preparà una tableta o un telefunu per a dimenza"
+seoTitle: "Preparà tableta o telefunu per una persona cù dimenza"
+description: "Cumu preparà una tableta o un telefunu passu à passu: bluccà una sola app, testu più grande, menu nutificazioni, schermu simplice, vulume è vita privata."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Rendite una tableta o un telefunu più simplice nanzu di dallu in manu.
+  Bluccatelu nantu à una sola app cù Accessu guidatu nant'à iPad è iPhone o
+  cù u fissamentu di l'app nant'à Android, o aduprate Accessu assistitu
+  d'Apple per una presentazione più simplice. Fighjulite u testu, chjudite e
+  nutificazioni, lasciate solu qualchì app nant'à un unicu schermu d'accolta,
+  regulate u vulume, aduprate un supportu è limitate i permessi di l'app.
+  Adupratelu inseme, à cantu à attività senza schermu.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Accessu guidatu (iPhone, iPad) è u fissamentu di l'app (Android) mantenenu u schermu nant'à una sola app finu à chì vo u sbluccate."
+  - "Accessu assistitu d'Apple prupone una presentazione più simplice pensata per e persone cù difficultà cognitive."
+  - "Fighjulite u testu è disattivate nutificazioni è finestrine pop-up per chì nunda ùn interrompi è ùn cunfonda."
+  - "Lasciate solu qualchì app cunnisciuta nant'à un unicu schermu d'accolta, è regulate u vulume nanzu di principià."
+  - "Un supportu è un postu di carica chì ùn si cambia mai rendenu l'apparechju più faciule à aduprà è à truvà."
+  - "Verificate i permessi di l'app è a spartera di i dati: in generale, HIPAA ùn prutege micca ciò chì hè arregistratu nant'à un apparechju persunale."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Cumu impedisce à una persona chì campa cù a dimenza di sorte d'una app nant'à un iPad?"
+    a: "Attivate Accessu guidatu in Impustazioni > Accessibilità > Accessu guidatu è definite un codice. Aprite l'app, fate un triplu cliccu nant'à u buttone superiore (o nant'à u buttone Home nant'à l'iPad più vechji), è tuccate Principià. L'iPad ferma in st'app finu à chì qualchissia entre u codice."
+  - q: "Cumu bluccà una tableta Android nant'à una sola app?"
+    a: "Attivate u fissamentu di l'app in l'app Impustazioni, di solitu sottu Sicurezza (qualchì volta Sicurezza è lucalizazione) > Avanzatu > Fissamentu di l'app. Dopu aprite l'app, aprite Panoramica, tuccate l'icona di l'app in cima è tuccate Fissà. U vostru PIN, schema o parola hè necessariu per caccià u fissamentu."
+  - q: "Hè sicuru d'aduprà Accessu guidatu nant'à u telefunu persunale di a persona?"
+    a: "Fate attenzione. Apple dice chì a Rilevazione d'incidenti è i Servizii d'urgenza ùn sò micca dispunibuli mentre Accessu guidatu hè attivu. S'è a persona conta nant'à u so telefunu per e chjame d'urgenza, aduprate Accessu guidatu solu quandu site cun ella, o pensate piuttostu à Accessu assistitu."
+  - q: "Quantu tempu di schermu hè adattu per una persona chì campa cù a dimenza?"
+    a: "Ùn ci hè micca un numeru fissatu. Mumenti brevi è spartuti, mischjati cù passeggiate, musica, faccende è cunversazione, rendenu a ghjurnata più piena chè longhi mumenti soli davanti à un schermu. S'è l'apparechju crea frustrazione o piglia troppu postu, adupratelu menu."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Una tableta pò esse un bellu modu per sparte ritratti, musica è ghjoculi simplici. Pò dinù esse cunfusa: un toccu per sbagliu apre un'altra app, una nutificazione apparisce, u testu hè troppu chjucu, o u schermu si spegne à mezu ghjocu. Qualchì piccula regulazione da a vostra parte risolve a maiò parte di sti prublemi.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Sti passi adupranu l'impustazioni integrate in iPhone, iPad è Android. I nomi di i menù ponu cambià secondu e versioni di u sistema è i fabricanti, dunque s'è qualcosa pare sfarente, seguitate a pagina di Apple o Google ligata per u vostru apparechju. Fate a regulazione voi, nanzu di pusà inseme.
 
-## Should someone with dementia use a tablet or phone?
+## Una persona chì campa cù a dimenza duveria aduprà una tableta o un telefunu?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Dipende da a persona. Parechje persone si piacenu d'aduprà una tableta cù qualchissia accantu à elle, ancu s'elle ùn a puderianu manighjà sole. Principiate aduprendula inseme, cù una sola app aperta, per qualchì minutu. S'ella porta piacè è cunversazione, cuntinuate. S'ella porta cunfusione o frustrazione, un album di ritratti, pagine stampate o musica ponu andà megliu. E nostre [attività da stampà](/activities/printable/) sò una alternativa.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Una tableta hè di solitu più faciule chè un telefunu: u schermu è e fiure sò più grandi, è ùn hè micca ancu u mezzu d'urgenza di a persona.
 
-## How do I lock a tablet or phone to one app?
+## Cumu bluccà una tableta o un telefunu nant'à una sola app?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Aduprate Accessu guidatu nant'à iPhone è iPad, o u fissamentu di l'app nant'à Android. Tramindui mantenenu u schermu nant'à una sola app finu à chì vo entre un codice, cusì un toccu o un gestu per sbagliu ùn pò micca apre altru.
 
-### iPad and iPhone: Guided Access
+### iPad è iPhone: Accessu guidatu
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Secondu [l'istruzzioni d'Apple per Accessu guidatu](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Aprite **Impostazioni**, tuccate **Accessibilità**, dopu tuccate **Accessu guidatu** è attivatelu.
+2. Sottu **Impostazioni di u codice**, definite un codice per Accessu guidatu. Pudete ancu permette Face ID o Touch ID.
+3. Facoltativu: sottu **Bloccamentu automaticu di u schermu**, sceglite dopu quantu tempu u schermu si blocca durante una sessione, per ch'ellu ùn si spegni micca à mezu ghjocu.
+4. Aprite l'app chì vo vulete aduprà.
+5. Fate un triplu cliccu nant'à u buttone laterale (iPhone), nant'à u buttone superiore (iPad), o nant'à u buttone Home nant'à l'apparechji più vechji.
+6. Facoltativu: circundate e parte di u schermu chì vo ùn vulete micca ch'elle rispondinu à u toccu. Tuccate **Opzioni** (o **Impostazioni di a sessione**) per disattivà i buttoni di u vulume o impedisce chì u schermu giri.
+7. Tuccate **Principià**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Per finisce a sessione, fate torna un triplu cliccu nant'à u listessu buttone, entre u codice è tuccate **Fine**. Apple nota chì nant'à certe versioni più vechje di u sistema si face un doppiu cliccu invece.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Impurtante:** Apple dice chì a Rilevazione d'incidenti è i Servizii d'urgenza ùn sò micca dispunibuli durante una sessione d'Accessu guidatu. Ùn lasciate micca Accessu guidatu attivu nant'à un telefunu chì a persona pò avè bisognu per e chjame d'urgenza.
 
-### Android: app pinning
+### Android: fissamentu di l'app
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Secondu [l'aiutu d'Android di Google nant'à u fissamentu di i schermi](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Aprite l'app **Impostazioni**.
+2. Tuccate **Sicurezza** (o **Sicurezza è lucalizazione**), dopu **Avanzatu**, dopu **Fissamentu di l'app**. S'è vo ùn a truvate micca, verificate e pagine d'aiutu di u fabricante di u vostru apparechju.
+3. Attivate **Fissamentu di l'app**. U vostru PIN, schema o parola serà necessariu per caccià u fissamentu.
+4. Aprite l'app chì vo vulete. Scurrite in su finu à u mezu di u schermu è mantenite per apre Panoramica (o tuccate Panoramica cù a navigazione à 3 buttoni).
+5. In cima à l'anteprima di l'app, tuccate l'icona di l'app, dopu tuccate **Fissà**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Per caccià u fissamentu cù a navigazione à gesti, scurrite in su è mantenite. Cù a navigazione à 3 buttoni, tuccate è mantenite Indietro è Panoramica. Cù a navigazione à 2 buttoni, tuccate è mantenite Indietro è Accolta. Dopu entre u vostru PIN, schema o parola.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Ci hè un modu più simplice per tuttu l'iPhone o l'iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Iè. Accessu assistitu d'Apple rimpiazza u solitu schermu d'accolta cù unu più simplice. [Apple u descrive](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) cum'è pensatu per rende l'iPhone più faciule à aduprà da solu per e persone cù difficultà cognitive, cù elementi più grandi nant'à u schermu è funzioni più chjare. Apple prupone [a listessa funzione nant'à l'iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Quale a prepara.** Apple suggerisce chì una persona di fiducia, cum'è un membru di a famiglia o una persona chì accudisce è chì cunnosce bè a persona, aiuti à sceglie l'app è e funzioni.
+- **Induve principià.** Andate in **Impostazioni > Accessibilità > Accessu assistitu**, tuccate **Configurà Accessu assistitu**, dopu **Cuntinuà**.
+- **App.** Sceglite voi quali app appariscenu. Certe app Apple anu versioni simplificate speziali, è a maiò parte di l'altre app ponu esse aghjunte cù a so presentazione abituale.
+- **Presentazione.** Sceglite **Linee** (una lista faciule à leghje) o **Griglia** (elementi più grandi chì mettenu in risaltu fiure è icone).
+- **Codice.** Definite un codice separatu per Accessu assistitu per entre, sorte o cambià l'impostazioni. Apple ricumanda di cunfigurà un contu Apple di recuperu durante a cunfigurazione, perchè senza ellu, un codice scurdatu vole dì rimette l'apparechju à zeru.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Accessu assistitu pò cunvene à una persona chì adopra u so propiu apparechju ogni ghjornu. Accessu guidatu o u fissamentu di l'app hè più rapidu per una sessione di ghjocu spartuta.
 
-## How do I make text and pictures bigger?
+## Cumu rende u testu è e fiure più grandi?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Aumentate a dimensione di u testu è di l'affissera, dopu verificate chì i buttoni entranu sempre in u schermu.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone è iPad.** Secondu [l'istruzzioni d'Apple nant'à a dimensione di u caratteru](https://support.apple.com/en-us/102453), andate in **Impostazioni > Schermu è luminosità > Dimensione di u testu** è trascinate u cursore. Per un testu ancu più grande, andate in **Impostazioni > Accessibilità > Schermu è dimensione di u testu > Testu più grande**. Apple nota chì un testu assai grande pò rende certi buttoni più difficiuli à tuccà, dunque aghjustate s'ellu ci vole.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Secondu [l'aiutu di Google nant'à i parametri di testu è d'affissera](https://support.google.com/accessibility/android/answer/11183305?hl=en), aprite **Impostazioni** è circate **Dimensione di u caratteru**, dopu muvite u cursore. Circate **Dimensione di l'affissera** per fighjulà tuttu ciò chì hè nant'à u schermu. Pudete ancu attivà **Testu grassu** sottu **Accessibilità > Dimensione di l'affissera è di u testu**. Certe app ùn seguitanu micca st'impustazioni.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+In ghjoculi cum'è [Picture Pairs](/games/picture-pairs/) è [Find the Same](/games/find-the-same/), pudete ancu sceglie menu carte o menu scelte, ciò chì rende u schermu più simplice.
 
-## How do I stop notifications and pop-ups?
+## Cumu piantà nutificazioni è finestrine pop-up?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Disattivate e nutificazioni per l'app chì vo ùn avete micca bisognu, è aduprate Ùn disturbà durante l'attività.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone è iPad.** Andate in **Impostazioni > Nutificazioni**, tuccate una app sottu **Stilu di nutificazione**, è disattivate **Permette nutificazioni** ([guida d'Apple nant'à i parametri di nutificazione](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Per silenzià per un mumentu chjame, avvisi è nutificazioni, aprite u Centru di cuntrollu è attivate **Ùn disturbà** da u buttone **Cuncentrazione** ([aiutu d'Apple per Ùn disturbà](https://support.apple.com/en-us/105112)). Pudete prugrammallu sottu **Impostazioni > Cuncentrazione > Ùn disturbà > Definisce un prugramma**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Scurrite in ghjò da a cima di u schermu è tuccate **Ùn disturbà**, o andate in **Impostazioni > Modi > Ùn disturbà** ([aiutu di Google per Ùn disturbà](https://support.google.com/android/answer/9069335?hl=en)). Sottu **Filtri di nutificazione** pudete sceglie quali persone è app ponu sempre passà. L'impostazioni cambianu secondu u fabricante.
 
-## How do I make a simple home screen?
+## Cumu creà un schermu d'accolta simplice?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Lasciate qualchì app cunnisciuta nant'à un schermu è cacciate l'altre da a vista. Ùn ci hè micca una sola impostazione per què; si tratta di caccià ciò chì hè di troppu.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Sceglite da trè à sei app.** Per esempiu, ritratti, musica, una app per e videuchjame è un ghjocu.
+- **Mettitele nant'à u primu schermu,** sempre à i listessi posti, è move tuttu u restu nant'à un secondu schermu o in un cartulare.
+- **Aduprate un sfondulu simplice è cuntrastu forte,** cum'è un culore unicu o un ritrattu cunnisciutu, per chì l'icone si vedanu bè.
+- **Sguassate l'app chì vo ùn avete micca bisognu.** Menu app vole dì menu risichi di cunfusione è menu dati raccolti.
+- **Pensate à Accessu assistitu** nant'à l'apparechji Apple s'è vo vulete chì l'apparechju faccia què per voi.
 
-## What about volume and sound?
+## È u vulume è u sonu?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Regulate un vulume còmudu nanzu di dà l'apparechju in manu. Cù Accessu guidatu, pudete disattivà i buttoni di u vulume per ch'ellu ùn cambi micca durante l'attività. Verificate chì l'apparechji auditivi sianu messi è ch'elli funziuninu.
 
-## Where should the tablet live?
+## Induve deve stà a tableta?
 
-Give it a stand and a permanent charging spot.
+Date li un supportu è un postu fissu per caricalla.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Un supportu o una cuperta** chì tene a tableta dritta nant'à a tavula vole dì chì nimu ùn hà bisognu di tenela, è hè più faciule di mustrà qualcosa cù u ditu.
+- **Un solu postu per caricalla** chì ùn si cambia mai, l'ideale hè un supportu di carica nant'à una tavula in una stanza chì vo aduprate ogni ghjornu. A tableta hè sempre carica è sempre à u listessu postu.
+- **Riducite i riflessi.** Punate u schermu luntanu da una finestra luminosa.
 
-## How much screen time is okay?
+## Quantu tempu di schermu hè adattu?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Ùn ci hè micca un numeru ghjustu di minuti. Circate di fà mumenti brevi è spartuti, cum'è una parte di una ghjurnata piena chì include ancu muvimentu, musica, faccende di casa, cunversazione è tempu fora. Siccomu e serate carche ponu aghjunghje un pocu d'agitazione in fin di ghjurnata, pò esse utile di tene l'attività nant'à u schermu piuttostu prima in a ghjurnata. Vidite [attività calme per a fini di dopu meziornu](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Aduprà una tableta inseme, invece di lascialla fà da sola, a mantene cum'è un mumentu spartutu. A nostra guida per [ghjucà inseme](/caregiving/how-to-play-together/) spiega cumu fà.
 
-## How do I protect their privacy on the device?
+## Cumu prutege a vita privata di a persona nant'à l'apparechju?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Limitate ciò chì l'app ponu raccoglie, è ùn pensate micca chì a lege nant'à a vita privata in salute a copri sempre. U Dipartimentu di a Salute è di i Servizii Umani di i Stati Uniti (HHS) [spiega](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) chì e regule HIPAA in generale ùn prutegenu micca l'infurmazioni di salute arregistrate o accidute nant'à telefunini è tablete persunale. In a maiò parte di i casi, HIPAA ùn prutege mancu i dati entrati in app per un usu persunale, for di s'è l'app vene da un furnitore di cure di salute, da un pianu di salute o da unu di i so partenarii.
 
-HHS suggests:
+HHS suggerisce:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- d'evità app inutili o scelte à l'azardu, soprattuttu quelle « gratiste »;
+- di ùn dà micca à l'app l'accessu à a lucalizazione for di s'elle ne anu veramente bisognu, cum'è e carte.
 
-Also consider:
+Pensate ancu à:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Aduprà un codice** nant'à l'apparechju, è tenelu nutatu in un locu sicuru.
+- **Verificà i permessi** per ritratti, camera, microfonu, cuntatti è lucalizazione, è disattivà quelli chì una app ùn hà micca bisognu.
+- **Verificà ciò chì una app raccoglie** nanzu d'installalla. A nostra guida per [sceglie app è ghjoculi per a dimenza](/caregiving/choosing-apps-and-games/) hà una lista di verificazione per a vita privata.
+- **Fà attenzione cù i ritratti di famiglia.** Spartite solu ritratti cù i quali a persona si sente à l'agiu, è sapete induve una app li arregistreghja. In [Photo Pairs](/games/photo-pairs/), i ritratti chì vo sceglite fermanu in u vostru navigatore.
+- **Disattivà l'acquisti in l'app** o caccià i dati di pagamentu da i conti chì a persona adopra.

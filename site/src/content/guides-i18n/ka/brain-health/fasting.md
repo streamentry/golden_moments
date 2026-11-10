@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "წყვეტილი მარხვა და დემენცია: რას ამბობს კვლევა"
+seoTitle: "წყვეტილი მარხვა და დემენცია: რას ამბობს კვლევა"
+description: "ადამიანებზე მონაცემები წყვეტილი მარხვისა და დემენციის შესახებ მცირეა. გაიგეთ რისკები ხანდაზმულებისთვის და რატომ არის საკმარისი კვება wichtiger."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  არ არსებობს სანდო მტკიცებულება, რომ წყვეტილი მარხვა დემენციის თავიდან აცილებას
+  ან შენელებას იწვევს. კვლევების დიდი ნაწილი ცხოველებზეა ჩატარებული, ხოლო
+  ხანდაზმულ ადამიანებზე ჩატარებული კვლევები მცირე და ხანმოკლეა. მარხვამ
+  ხანდაზმულებისთვის რისკები შეიძლება შექმნას: წონისა და კუნთების დაკარგვა,
+  სისხლში შაქრის დაქვეითება დიაბეტის ზოგიერთი წამლის მიღებისას, გაუწყლოება და
+  დაცემა. დემენციით მცხოვრები ადამიანებისთვის, როგორც წესი, უფრო მნიშვნელოვანია
+  საკმარისად ჭამა და სმა. კვების რეჟიმის შეცვლამდე ჯერ ექიმს გაესაუბრეთ.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "დაბერების ეროვნული ინსტიტუტის (National Institute on Aging) თქმით, არ არის საკმარისი მტკიცებულება, რომ მარხვის ან კალორიების შეზღუდვის რომელიმე დიეტა რეკომენდებული იყოს, განსაკუთრებით ხანდაზმულებისთვის."
+  - "მარხვისა და დაბერების შესახებ კვლევების დიდი ნაწილი ცხოველებზეა ჩატარებული და ეს შედეგები აუცილებლად არ ვრცელდება ადამიანებზე."
+  - "ხანდაზმულებისთვის შესაძლო რისკებია: გაუთვალისწინებელი წონის დაკარგვა, კუნთების დაკარგვა, სისხლში შაქრის დაქვეითება დიაბეტის ზოგიერთი წამლის მიღებისას, გაუწყლოება, თავბრუსხვევა და დაცემა."
+  - "დემენციით მცხოვრები ადამიანები ხშირად ჭამას ან სმას ივიწყებენ, ან ფიქრობენ, რომ ეს უკვე გააკეთეს. მათთვის საკმარისი კვებისა და სითხის მიღებაში დახმარება, ჩვეულებრივ, ბევრად უფრო მნიშვნელოვანია, ვიდრე კვების დრო."
+  - "არ გამოიყენოთ მარხვა დემენციით მცხოვრები ადამიანისათვის. კვების ჩვევების ნებისმიერ ცვლილებამდე ექიმს ან რეგისტრირებულ დიეტოლოგს გაესაუბრეთ."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "იცავს თუ არა წყვეტილი მარხვა ალცჰაიმერის დაავადებისგან?"
+    a: "არ არსებობს სანდო მტკიცებულება, რომ ასე ხდება. კვლევების დიდი ნაწილი ცხოველებზეა ჩატარებული, ხოლო ადამიანებზე ჩატარებული კვლევები ძირითადად ხანმოკლე იყო, უფრო ახალგაზრდა ან ჭარბწონიან მოზრდილებზე და წონის დაკლებაზე იყო ორიენტირებული. დაბერების ეროვნული ინსტიტუტი ამბობს, რომ არ არის საკმარისი მტკიცებულება მარხვის დიეტების ფართოდ რეკომენდებისთვის."
+  - q: "უსაფრთხოა თუ არა წყვეტილი მარხვა ხანდაზმულებისთვის?"
+    a: "შეიძლება არა. მარხვამ შეიძლება გამოიწვიოს გაუთვალისწინებელი წონისა და კუნთების დაკარგვა, გაუწყლოება, თავბრუსხვევა და დაცემა, ასევე სისხლში შაქრის სახიფათოდ დაქვეითება იმ ადამიანებში, რომლებიც იღებენ ინსულინს ან დიაბეტის ზოგ სხვა წამალს. Mayo Clinic აღნიშნავს, რომ ეს შესაძლოა არ იყოს შესაფერისი ადამიანებისთვის, ვისაც ძვლების დაკარგვისა და დაცემის მაღალი რისკი აქვს. სანამ სცდით, ექიმს გაესაუბრეთ."
+  - q: "უნდა სცადოს თუ არა მარხვა დემენციით მცხოვრებმა ადამიანმა?"
+    a: "არა. დემენციით მცხოვრებ ადამიანებს ხშირად უჭირთ საკმარისად ჭამა და სმა, ხოლო არასაკმარისმა კვებამ შეიძლება გააძლიეროს ქცევითი სიმპტომები და წონის დაკარგვა გამოიწვიოს. მარხვა რისკს მატებს დამტკიცებული სარგებლის გარეშე. ამის ნაცვლად, ყურადღება გაამახვილეთ რეგულარულ კვებაზე, მათთვის სასიამოვნო საჭმელებსა და საკმარის სითხეზე."
+  - q: "რა ნიშნებით შეიძლება მივხვდეთ, რომ დემენციით მცხოვრები ადამიანი საკმარისად არ ჭამს და არ სვამს?"
+    a: "ყურადღება მიაქციეთ წონის დაკლებას, უფრო თავისუფლად მჯდარ ტანსაცმელს, დაღლილობას, სისუსტეს, ყაბზობას ან საკვებზე უარს. დაბერების ეროვნული ინსტიტუტის მიერ ჩამოთვლილი გაუწყლოების ნიშნებია პირის სიმშრალე, თავბრუსხვევა, გულის აჩქარებული ცემა და ჰალუცინაციები. თუ ამ ნიშნებს შეამჩნევთ, აცნობეთ მის ექიმს."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+წყვეტილი მარხვა, მაგალითად მხოლოდ რვასაათიან შუალედში ჭამა ან კვირაში ორი დღის განმავლობაში კალორიების მკვეთრად შემცირება, დიდ ყურადღებას იპყრობს და ზოგიერთი სტატია მიუთითებს, რომ მას შესაძლოა ტვინი დაიცვას. თუ ხანდაზმული ადამიანი ხართ ან დემენციით მცხოვრებ ადამიანზე ზრუნავთ, ქვემოთ იხილავთ, რას აჩვენებს სინამდვილეში კვლევები და რატომ არის მნიშვნელოვანი სიფრთხილე.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+ეს არის ზოგადი ინფორმაცია და არა სამედიცინო რჩევა. არ დაიწყოთ მარხვა და არ შეცვალოთ იმ ადამიანის კვება, რომელზეც ზრუნავთ, მანამ სანამ ექიმს ან რეგისტრირებულ დიეტოლოგს არ გაესაუბრებით. იხილეთ ჩვენი [სამედიცინო პასუხისმგებლობის უარყოფა](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## იცავს თუ არა წყვეტილი მარხვა დემენციისგან?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+არ არსებობს სანდო მტკიცებულება, რომ წყვეტილი მარხვა დემენციის თავიდან აცილებას ან შენელებას იწვევს. დაბერების ეროვნული ინსტიტუტი (NIA) ამბობს, რომ არ არის საკმარისი მტკიცებულება კალორიების შეზღუდვის ან მარხვის რომელიმე დიეტის რეკომენდებისთვის და რომ მათი შედეგიანობისა და უსაფრთხოების შესახებ, განსაკუთრებით ხანდაზმულებში, ჯერ კიდევ ბევრი რამ არის გასარკვევი ([NIA კალორიების შეზღუდვისა და მარხვის შესახებ](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### რატომ არის მტკიცებულებები ასე შეზღუდული
 
-The NIA gives several reasons:
+NIA რამდენიმე მიზეზს ასახელებს:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **კვლევების უმეტესობა ცხოველებზეა ჩატარებული.** ჭიებზე, ბუზებზე, თაგვებსა და მაიმუნებზე ჩატარებულმა კვლევებმა საინტერესო შედეგები აჩვენა, მაგრამ ეს დასკვნები აუცილებლად არ ვრცელდება ადამიანებზე. ცხოველებშიც კი შედეგები არათანმიმდევრულია; თაგვების ზოგიერთ შტამში კალორიების შეზღუდვამ სიცოცხლის ხანგრძლივობა კი შეამცირა.
+- **ადამიანებზე ჩატარებული კვლევები ხანმოკლე იყო.** უმეტესობა რამდენიმე კვირას ან თვეს გრძელდებოდა.
+- **ადამიანებზე ჩატარებული კვლევების უმეტესობა წონის დაკლებაზე იყო ორიენტირებული** ჭარბწონიან მოზრდილებში და არა მეხსიერებაზე ან დემენციაზე.
+- **ხანდაზმული ადამიანები იშვიათად მონაწილეობენ.** ბევრ კვლევაში მონაწილეები 60 წლის ან უფრო ახალგაზრდა იყვნენ.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026 წლის სისტემატურმა მიმოხილვამ წყვეტილი მარხვა სპეციალურად 60 წლის და უფროს მოზრდილებში შეისწავლა. დადგინდა, რომ ამ ასაკობრივ ჯგუფში მტკიცებულებები კვლავ შეზღუდულია: კვლევები მცირეა, დაკვირვების პერიოდი ხანმოკლე და კვლევის ფორმები განსხვავებული. აზროვნებასა და მეხსიერებაზე დასკვნები ცალკეული კვლევებიდან მოდიოდა და არა გაერთიანებული შედეგებიდან. მიმოხილვაში ასევე აღნიშნულია, რომ ზოგ კვლევაში ძალიან მოკლე საკვები შუალედები ან ხანგრძლივი მარხვა უარეს შედეგებთან იყო დაკავშირებული, და ავტორები ხანდაზმულებს სიფრთხილისკენ მოუწოდებენ ([2026 წლის მიმოხილვა ჟურნალში Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+ზოგიერთი მკვლევარი ფიქრობს, რომ მარხვის დროს ცხიმის წვის რეჟიმზე გადასვლამ შესაძლოა ტვინზე იმოქმედოს, მაგრამ ეს ჯერ კიდევ შესასწავლი თეორიაა. NIA აღნიშნავს, რომ მეცნიერება ამ საკითხში კვლავ გაურკვეველია.
 
-## What are the risks of fasting for older adults?
+## რა რისკები აქვს მარხვას ხანდაზმულებისთვის?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+მარხვა ბევრ ხანდაზმულ ადამიანისთვის უვნებელი ცდა არ არის. შესაძლო რისკებია:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **გაუთვალისწინებელი წონის დაკლება.** საჭიროებაზე ნაკლები ჭამა შეიძლება იწვევს წონის დაკლებას და კუნთების ძალის შემცირებას, რის გამოც ადამიანი შეიძლება უფრო დაუცველი გახდეს.
+- **კუნთების და ძვლების დაკარგვა.** NIA-ის მხარდაჭერით ჩატარებულ ორწლიან კვლევაში, სადაც ახალგაზრდა და შუახნის მოზრდილები კალორიებს ზღუდავდნენ, მონაწილეებს ძვლების სიმკვრივისა და კუნთოვანი მასის მცირე შემცირება აღენიშნათ.
+- **სისხლში შაქრის დაქვეითება დიაბეტის წამლების მიღებისას.** ადამიანებს, რომლებიც იღებენ ინსულინს ან დიაბეტის ზოგ სხვა წამალს, კვების გამოტოვების ან გადადებისას სისხლში შაქარი შეიძლება სახიფათოდ დაეცეს, აღნიშნავს [დიაბეტის, საჭმლის მომნელებელი და თირკმლის დაავადებების ეროვნული ინსტიტუტი](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). სისხლში შაქრის დაბალმა დონემ შეიძლება გამოიწვიოს თავბრუსხვევა, დაბნეულობა და გაღიზიანება.
+- **გაუწყლოება.** თუ ჭამასთან ერთად სითხესაც გამოტოვებენ, ადამიანს გაუწყლოება შეიძლება განუვითარდეს.
+- **თავბრუსხვევა და დაცემა.** Mayo Clinic აღნიშნავს, რომ წყვეტილმა მარხვამ შეიძლება გამოიწვიოს ძლიერი დაღლილობა და თავბრუსხვევა და რომ ეს შესაძლოა არ იყოს ჯანსაღი კვების რეჟიმი იმ ადამიანებისთვის, ვისაც ძვლების დაკარგვისა და დაცემის მაღალი რისკი აქვს ([Mayo Clinic წყვეტილი მარხვის შესახებ](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **სხვა გავლენები.** Mayo Clinic ასევე ასახელებს თავის ტკივილს, გუნება-განწყობის ცვალებადობასა და ყაბზობას და აღნიშნავს, რომ არსებობს მონაცემები, რომ 16-საათიანმა მარხვამ 8-საათიანი საკვები შუალედით შესაძლოა გულის დაავადების რისკი გაზარდოს სხვა რეჟიმებთან შედარებით. ეს მტკიცებულება ჯერ საბოლოო არ არის.
 
-## Why is eating enough the bigger concern with dementia?
+## რატომ არის საკმარისი კვება უფრო მნიშვნელოვანი დემენციის დროს?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+დემენციით მცხოვრები ადამიანებისთვის ჩვეულებრივი პრობლემა არის **საკმარისი** საკვებისა და სითხის მიღება და არა ზედმეტი. Alzheimer’s Association ხსნის, რომ საშუალო და გვიან სტადიებზე მყოფ ადამიანებს საკვების არჩევანი შეიძლება აინტერესებთ, ჭამა დაავიწყდეთ ან იფიქრონ, რომ უკვე ჭამეს. ასევე აღნიშნულია, რომ არასაკმარისმა კვებამ შეიძლება გააძლიეროს ქცევითი სიმპტომები და წონის დაკარგვა გამოიწვიოს ([Alzheimer’s Association საკვებსა და კვებაზე](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer’s Society აღნიშნავს, რომ არასაკმარისმა კვებამ შეიძლება გამოიწვიოს წონის დაკლება, კუნთების ძალის შემცირება, დაღლილობა და სისუსტე, რის გამოც ადამიანი შეიძლება უფრო დაუცველი გახდეს და ინფექციებისგან აღდგენა გაუჭირდეს ([Alzheimer’s Society მადის შესახებ](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**ამ მიზეზების გამო, მარხვა დემენციით მცხოვრები ადამიანისათვის კარგი იდეა არ არის.** გამოტოვებული კვება მარტივად შეიძლება სრულად შეუმჩნეველ კვებად იქცეს. დემენციით მცხოვრები ადამიანის კვების ნებისმიერი ცვლილება მის ექიმს ან რეგისტრირებულ დიეტოლოგს უნდა შეთანხმდეს.
 
-## What are the warning signs of poor eating or drinking?
+## რა არის არასაკმარისი კვებისა და სმის საფრთხის ნიშნები?
 
-Watch for:
+ყურადღება მიაქციეთ შემდეგს:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **წონის დაკლება** ან უფრო თავისუფლად მჯდარი ტანსაცმელი.
+- **საკვების დატოვება ან კვებაზე უარი**, ან საკვების პირში დიდი ხნით შენარჩუნება.
+- **დაღლილობა ან სისუსტე.**
+- **ყაბზობა**, რომელიც შეიძლება კვებასა და გაუწყლოებასთან იყოს დაკავშირებული.
+- **გაუწყლოების ნიშნები.** NIA ასახელებს პირის სიმშრალეს, თავბრუსხვევას, გულის აჩქარებულ ცემას და ჰალუცინაციებს, რაც თავად დემენციითაც შეიძლება იყოს გამოწვეული ([NIA გავრცელებული სამედიცინო პრობლემების შესახებ](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+მადის დაქვეითებას ბევრი შესაძლო მიზეზი აქვს: კბილის ტკივილი ან ცუდად მჯდარი პროთეზები, ახალი წამლები, დეპრესია, ყაბზობა, ნაკლები აქტივობა ან გემოსა და ყნოსვის ცვლილებები. ამ ნიშნების შესახებ აცნობეთ ადამიანის ექიმს. მათ შეუძლიათ მიზეზის დადგენა და შესაძლოა დიეტოლოგთან კონსულტაცია ან დამატებითი საკვები საშუალებები შემოგთავაზონ.
 
-## How can you help someone eat and drink enough?
+## როგორ დავეხმაროთ ადამიანს საკმარისად ჭამასა და სმაში?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **სთავაზეთ მცირე ულუფებით და ხშირად**, სამი დიდი კვების ნაცვლად.
+- **მიირთვით მისი საყვარელი საკვები** და მზად იყავით გემოვნების ცვლილებებზე. თუ მადა დაბალია, ტკბილი საკვებიც შეიძლება მისასალმებელი იყოს; ჰკითხეთ ექიმს, არის თუ არა შაქრის შეზღუდვის სამედიცინო მიზეზი.
+- **სასმელი ხელმისაწვდომ ადგილას ჰქონდეთ** და დღის განმავლობაში ხშირად შესთავაზეთ მცირე ზომის ჭიქებით. წვნიანი, ხილი, სმუზი და რძიანი კოქტეილებიც ითვლება.
+- **შეეცადეთ ერთად იჭამოთ**, როცა ამის შესაძლებლობა არის. კვება ერთობლივი დროა და არა საჩქარო საქმე.
+- **სცადეთ ხელით ასაღები საკვები**, როგორიცაა სენდვიჩები, ხილის ნაჭრები ან ქათმის პატარა ნაწილები, თუ დანაჩანგლის გამოყენება გართულდა.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+მეტი იდეისთვის იხილეთ ჩვენი [კვების სახელმძღვანელო](/brain-health/diet/). საკვების მომზადებაში დახმარება ასევე შეიძლება იყოს სასიამოვნო ერთობლივი აქტივობა; იხილეთ [საყოფაცხოვრებო საქმეები](/activities/household-tasks/).
 
-## Talk with a doctor
+## ესაუბრეთ ექიმს
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+სანამ მარხვის რომელიმე გეგმას თავად სცდით, გაესაუბრეთ თქვენს ექიმს ან რეგისტრირებულ დიეტოლოგს, განსაკუთრებით თუ იღებთ დიაბეტის ან არტერიული წნევის წამლებს, ბოლო დროს წონა დაგიკლდათ ან დაცემის შემთხვევები gehabt. დემენციით მცხოვრები ადამიანის შემთხვევაში, ჰკითხეთ მის ექიმს, რამდენი საკვები და სითხე სჭირდება მას ყოველდღიურად, მარხვის ნაცვლად.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+დაუყოვნებლივ მიმართეთ სასწრაფო დახმარებას (112), თუ ადამიანი მოულოდნელად დაბნეული გახდა, გონება დაკარგა ან სისხლში შაქრის ძალიან დაბალი დონის ნიშნები აქვს, რომლებიც სწრაფად არ უმჯობესდება.

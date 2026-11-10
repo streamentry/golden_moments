@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Gweithgareddau ar gyfer Dementia Hwyr, yn y Gwely neu Gadair"
+seoTitle: "Gweithgareddau Dementia Hwyr: Syniadau Gwely a Chadair"
+description: "Gweithgareddau tyner ar gyfer dementia hwyr, gan gynnwys i rywun yn y gwely neu ar gadair: cerddoriaeth, cyffwrdd, darllen yn uchel, seiniau a bod gyda'ch gilydd."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Ar gyfer dementia hwyr, mae gweithgareddau'n canolbwyntio ar y synhwyrau ac ar
+  eich cwmni: chwarae hoff gerddoriaeth, dal dwylo, tylino'r dwylo'n araf,
+  darllen yn uchel, edrych ar luniau, seiniau natur ac eistedd wrth y ffenestr
+  neu'r tu allan. Mae'r rhain yn gweithio yn y gwely neu ar gadair. Cadwch y
+  sesiynau'n fyr, gwyliwch yr wyneb a'r dwylo am arwyddion o gysur, a chofiwch
+  fod bod yn bresennol yn weithgaredd ynddo'i hun.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Mae cysylltiad yn dal yn bosibl. Yn y cam hwyr, profir y byd yn bennaf drwy'r synhwyrau."
+  - "Mae cerddoriaeth, cyffyrddiad tyner, lleisiau cyfarwydd a phethau meddal i'w dal yn aml yn cyrraedd pobl pan nad yw geiriau'n gwneud hynny bellach."
+  - "Mae bron pob syniad yma'n gweithio i rywun yn y gwely neu ar gadair."
+  - "Gwyliwch am gysur ac anghysur yn yr wyneb, y dwylo a'r anadlu, a stopiwch os gwelwch unrhyw arwydd o drallod."
+  - "Osgowch bethau bach a chynnigwch fwyd neu ddiod dim ond fel y mae'r tîm gofal yn ei gynghori, oherwydd gall llyncu ddod yn anniogel."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Pa weithgareddau allwch chi eu gwneud gyda rhywun â dementia hwyr sy'n y gwely?"
+    a: "Chwaraewch eu hoff gerddoriaeth, daliwch eu llaw, rhowch dyliniad araf i'w dwylo gyda hufen, darllenwch yn uchel o lyfr neu weddi y maen nhw'n ei charu, dangoswch luniau, neu chwaraewch seiniau natur tyner. Agorwch y llenni fel eu bod yn gallu gweld y tu allan. Fel arfer, mae sesiynau byr, tawel gydag un peth ar y tro yn gweithio orau."
+  - q: "A all pobl â dementia hwyr fwynhau cerddoriaeth o hyd?"
+    a: "Gall llawer ohonyn nhw. Mae'r Alzheimer's Association yn nodi, hyd yn oed yn y cam hwyr, y gall person allu tapio curiad neu ganu gyda chân o'u plentyndod. Dewiswch gerddoriaeth yr oeddent yn ei charu pan oedden nhw'n iau a chadwch y sain yn isel."
+  - q: "Sut ydw i'n gwybod a ydyn nhw'n mwynhau gweithgaredd?"
+    a: "Gwyliwch am arwyddion bach: ysgwyddau hamddenol, wyneb mwy meddal, cyswllt llygad, hymian, gwasgu llaw neu anadlu arafach. Gall gwgu, tynnu'n ôl, aflonyddwch neu gwyno olygu anghysur neu boen. Os gwelwch y rhain, stopiwch a dywedwch wrth y tîm gofal os ydyn nhw'n parhau."
+  - q: "A yw'n werth ymweld os nad ydyn nhw'n fy adnabod i bellach?"
+    a: "Ydy. Mae'r National Institute on Aging yn nodi y gall bod yn bresennol yn syml fod yn dawelu, ac y gall cyffyrddiad, cerddoriaeth a straeon ddarparu cysur o hyd mewn dementia datblygedig. Gall eich llais a'ch cyffyrddiad fod yn gyfarwydd hyd yn oed pan nad yw eich enw."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Yn y cam hwyr o ddementia, efallai na fydd person yn siarad llawer, bydd angen help gyda phob agwedd ar ofal dyddiol a bydd yn treulio llawer o'r dydd yn y gwely neu ar gadair. Gall deimlo fel nad oes dim byd ar ôl i'w wneud gyda'ch gilydd. Mae yna. Mae'r [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) yn nodi y gall rhywfaint o graidd hunaniaeth y person barhau, ac yn y cam hwn profir y byd yn bennaf drwy'r synhwyrau. Gall cerddoriaeth, cyffyrddiad, llais cyfarwydd a'ch cwmni tawel ddod â chysur ac eiliadau o gysylltiad o hyd.
 
-## What activities help in late-stage dementia?
+## Pa weithgareddau sy'n helpu gyda dementia hwyr?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Gweithgareddau synhwyraidd syml a chwmni tawel sy'n helpu fwyaf yn y cam hwyr. Mae'r Alzheimer's Association yn awgrymu chwarae hoff gerddoriaeth, darllen rhannau o lyfrau ystyrlon, rhwbio hufen gyda hoff arogl ar y croen, ac eistedd y tu allan gyda'ch gilydd ar ddiwrnod braf. Mae'r [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) yn ychwanegu adrodd straeon, dangos lluniau, cyffyrddiad tyner neu dyliniad, a cherddoriaeth, sŵn gwyn neu seiniau natur, ac yn dweud y gall eich presenoldeb yn unig fod yn dawelu.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+Mae'r [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yn nodi bod gan bobl yn y cam hwyr anghenion cryf yn aml i ddal rhywbeth yn agos am gysur, ac yn awgrymu gweithgareddau synhwyraidd syml, ystwythiadau tyner, symud sgarff, cerddoriaeth, ymweliadau anifeiliaid, cyffyrddiad dynol a chelf ar ffurf rydd.
 
-## Activities for someone in bed or a chair
+## Gweithgareddau i rywun yn y gwely neu ar gadair
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Chwaraewch eu cerddoriaeth.** Dewiswch ganeuon o'u blynyddoedd fel oedolion ifanc, o'u ffydd neu o'u teulu. Cadwch y sain yn isel ac eisteddwch yn agos. Hyd yn oed nawr, gall rhai pobl dapio bys neu hymian. Gweler [gweithgareddau cerddoriaeth](/activities/music/).
+2. **Daliwch ddwylo.** Mae dal llaw, gyda strôc tyner â'r bawd, yn weithgaredd ynddo'i hun. Dywedwch beth rydych chi'n ei wneud yn gyntaf.
+3. **Rhowch dyliniad araf i'r dwylo.** Cynheswch ychydig o hufen yn eich cledrau a strôciwch o'r arddwrn i flaenau'r bysedd. Dewiswch hufen heb arogl, neu arogl yr oeddent bob amser yn ei garu os yw eu croen yn ei oddef.
+4. **Darllenwch yn uchel.** Hoff gerdd, darn o lyfr annwyl, ysgrythur neu dudalen chwaraeon. Mae rhythm eich llais yn bwysicach na'r geiriau.
+5. **Adroddwch stori.** Siaradwch am daith deulu neu'r diwrnod y priodon nhw. Nid oes angen atebion.
+6. **Dangoswch luniau.** Daliwch un llun mawr ar y tro ar lefel y llygaid a disgrifiwch ef yn gynnes. Osgowch ofyn pwy sydd ynddo.
+7. **Cynigiwch rywbeth meddal i'w ddal.** Clyt golchi wedi'i blygu, darn o ffliis neu anifail meddal. Mae'r NIA yn awgrymu rhoi clyt golchi i'r person ei ddal wrth gael ei symud, fel eu bod yn llai tebygol o afael ynddoch chi neu'r dodrefn.
+8. **Chwaraewch seiniau natur.** Gall glaw, tonnau neu gân adar ar sain isel leddfu ystafell swnllyd.
+9. **Dewch â'r tu allan i mewn.** Agorwch y llenni, rhowch fwydo adar y tu allan i'r ffenestr, neu dewch â rhai blodau ffres neu ddail i mewn i edrych arnyn nhw a'u cyffwrdd.
+10. **Ewch y tu allan.** Os gall y person eistedd mewn cadair olwyn, gall ychydig funudau yn y cysgod ar ddiwrnod mwyn fod yn hyfryd.
+11. **Brwsiwch eu gwallt neu cynigiwch liain cynnes.** Gall ymolchi araf, tyner a lliain cynnes ar gyfer y dwylo a'r wyneb deimlo'n ofalgar.
+12. **Symudwch yn dyner gyda cherddoriaeth.** Chwifiwch sgarff ysgafn gyda'ch gilydd, neu sigloch ddwylo yn amser â chân. Ar gyfer ystwythiadau a symud cymalau, gofynnwch i ffisiotherapydd neu nyrs ddangos ffyrdd diogel i chi yn gyntaf.
+13. **Gwnewch gelf ar ffurf rydd.** Taenwch baent nad yw'n wenwynig ar bapur mawr gyda sbyng neu law, dan arweiniad eich llaw chi. Does dim canlyniad cywir.
+14. **Croesewch ymweliadau anifeiliaid.** Anifail anwes tawel ar y gwely neu'r glin, os oedd y person yn mwynhau anifeiliaid ac os yw'r lleoliad yn caniatáu hynny.
+15. **Anadlwch yn araf gyda'ch gilydd.** Eisteddwch yn agos ac anadlwch yn araf ac yn hyglyw. Gall [anadlu tawel](/games/calm-breathing/) eich helpu chi'ch dau i gadw amser, a chi sy'n ei ddechrau a'i stopio.
+16. **Byddwch yno'n syml.** Eisteddwch gerllaw, hymiwch, gwnewch waith gwau neu ddarllenwch yn dawel. Mae bod yn bresennol yn ddigon.
 
-## How to share an activity at this stage
+## Sut i rannu gweithgaredd yn y cam hwn
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Ewch ato o'r tu blaen.** Dywedwch eu henw a'ch enw chi, a siaradwch yn araf ac yn feddal cyn i chi gyffwrdd.
+- **Cynigiwch un peth ar y tro.** Diffoddwch y teledu cyn chwarae cerddoriaeth. Gwnewch un synnwyr ar y tro.
+- **Cadwch yn fyr.** Gall ychydig funudau fod yn ddigon. Mae sawl eiliad fer drwy'r dydd yn well nag un sesiwn hir.
+- **Gwnewch yn gyfforddus yn gyntaf.** Gwiriwch fod y person wedi'i gynnal yn dda. Mae'r NIA yn awgrymu bwrdd glin i orffwys y breichiau ac i gynnal rhan uchaf y corff wrth eistedd i fyny.
+- **Gwyliwch yr ymateb.** Mae dwylo hamddenol, wyneb mwy meddal, cyswllt llygad neu hymian yn awgrymu cysur. Mae'r NIA yn nodi y gall cwynfan, gwgu, gwarchod rhan o'r corff neu gythrwfl sydyn fod yn arwyddion o boen. Stopiwch, a dywedwch wrth y tîm gofal.
 
-## A quick guide by sense
+## Canllaw cyflym yn ôl synnwyr
 
-| Sense | Ideas | Take care |
+| Synnwyr | Syniadau | Gofalwch |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Clyw | Hoff gerddoriaeth, eich llais yn darllen, seiniau natur | Cadwch y sain yn isel; un sain ar y tro |
+| Cyffyrddiad | Tylino'r dwylo, dal dwylo, ffabrig meddal, lliain cynnes | Gofynnwch neu rhowch wybod yn gyntaf; gwiriwch nad yw'r croen yn ddolurus nac wedi torri |
+| Golwg | Lluniau, blodau, yr olygfa o'r ffenestr, fideo natur araf | Daliwch bethau ar lefel y llygaid; golau da, dim llacharedd |
+| Arogl | Hoff hufen, blodau ffres, coffi'n cael ei fragu gerllaw | Osgowch arogleuon cryf; gwiriwch am alergeddau ac anawsterau anadlu |
+| Blas | Blas bach o hoff flas | Dim ond bwydydd a gweadau y mae'r tîm gofal yn dweud eu bod yn ddiogel |
 
-## Safety at this stage
+## Diogelwch yn y cam hwn
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Gall llyncu ddod yn anodd yn y cam hwyr, ac mae'r NIA yn rhybuddio bod hyn yn codi'r risg o dagu. Peidiwch â gadael pethau bach o fewn cyrraedd, a chynigiwch fwyd neu ddiod dim ond yn y gweadau a'r safleoedd y mae'r tîm gofal yn eu hargymell. Gwiriwch y croen yn dyner yn ystod gweithgareddau cyffyrddiad, gan y gall y croen rwygo neu gleisio'n hawdd. Am ragor o wybodaeth am syniadau synhwyraidd diogel, gweler [gweithgareddau synhwyraidd](/activities/sensory/).
 
-## Looking after yourself too
+## Gofalu amdanoch chi'ch hun hefyd
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Gall gofalu am rywun â dementia hwyr fod yn heriol yn gorfforol ac yn emosiynol, boed gartref neu yn ystod ymweliadau â chartref gofal. Gall timau gofal hosbis a gofal lliniarol helpu gyda chysur, cefnogaeth a chynllunio, ac mae'r NIA yn eu rhestru fel ffynhonnell gymorth. Mae ymweliadau byr, tawel yn werth chweil; gweler [ymweld â rhywun â dementia](/activities/visiting/). Os ydych chi'n arwain grwpiau, mae [gweithgareddau grŵp mewn cartref gofal](/activities/care-home-groups/) yn cynnwys syniadau ar gyfer addasu sesiynau. A darllenwch [hunangofal i ofalwyr](/caregiving/caregiver-self-care/): mae gorffwys yn rhan o ofalu'n dda.

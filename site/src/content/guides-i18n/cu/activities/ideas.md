@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Дѣꙗниꙗ чловѣкомъ съ помѧти ослаблениѥмъ: 101 мысль"
+seoTitle: "Дѣꙗниꙗ при помѧти ослаблениѥ: 101 мысль"
+description: "101 простоѥ и чьстьноѥ дѣꙗниѥ за чловѣкы живѫштѧѩ съ помѧти ослаблениѥмъ, отъ съгъбаниꙗ платьнъ до мѹсикиѩ и образъ, и како ꙗ оулоучити."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Добраꙗ дѣꙗниꙗ чловѣкомъ съ помѧти ослаблениѥмъ сѫтъ знаѥмаꙗ, чьстьнаꙗ и
+  лєгъка съ инѣми творити: съгъбати платьно, разборъ творити, варити, мѹсикѫ
+  слоушати, образы зьрѣти, ходити, въ градѣ дѣлати, съ животьномъ бꙑти и въ
+  простꙑѩ игрꙑ играти. Избери ѥже чловѣкъ, о нѥмьже печетесѧ, въсєгда любилъ
+  ѥстъ, възьми на сѧ трѹдьнаꙗ, и прѣстани ѥгда оутрѹдитъ сѧ. Приꙗтьноѥ врѣмѧ
+  въкоупѣ болѥ ѥстъ нєжєли вьсє съконьчати.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Начьни отъ живота того чловѣка: ѥго дѣло, любимаꙗ дѣꙗниꙗ, вѣра и мѹсика сѫтъ лѹчьшии пѫть."
+  - "Сътвори вьсꙗко дѣꙗниѥ мьнѥ, ащє трѣбѣ ѥстъ: мьнѥ стѫпъ, мьнѥ изборъ, а трѹдьноѥ тꙑ твориши."
+  - "Зьрѣниѥ, дьржаниѥ нѣчьсо или просто сѣдѣниѥ близъ — то жє ѥстъ причѧстиѥ."
+  - "Прѣстани или измѣни, ѥгда оузьриши оутрѹждениѥ, тѧгость или нєвєсєлиѥ. Рано прѣстати добро ѥстъ."
+  - "Творити въкоупѣ болѥ ѥстъ нєжєли творити право."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Каꙗ дѣꙗниꙗ добра сѫтъ чловѣкоу съ помѧти ослаблениѥмъ?"
+    a: "Знаѥмаꙗ дѣꙗниꙗ, ꙗжє чловѣкъ многꙑ лѣтꙑ творилъ ѥстъ, нъ мало оулєгьчєна: съгъбати платьно, оуготовити трапєзѫ, варити, мѹсикѫ слоушати, образы зьрѣти, ходити, въ градѣ дѣлати и бꙑти съ животьномъ. Избери ѥжє чьстьно и пользьно сѧ ꙗвлꙗѥтъ, и твори та въкоупѣ."
+  - q: "Колико дльго подобаѥтъ дѣꙗнию бꙑти?"
+    a: "Нѣстъ праваго врѣмєнє. Нѣколико минѫтъ съгъбаниꙗ платьнъ можєтъ довьлѣти въ ѥдинъ дьнь, а часъ въ градѣ можєтъ бꙑти лєгъкъ въ инъ дьнь. Остави чловѣкоу, о нѥмьже печетесѧ, дрьжати мѣрѫ и съконьчати, доньжє ѥщє приꙗтьно ѥстъ."
+  - q: "Чьто творити, ащє чловѣкъ нє хощєтъ дѣꙗти?"
+    a: "Нє нѫди. Нѣтъ можєтъ рєщи, ꙗко дѣло кажєтъ сѧ трѹдьно, врѣмѧ нє подобьно, или чловѣкъ оутрѹдилъ сѧ ѥстъ и нє оудобьно ѥмоу. Попꙑтаи по томь, предложи мьн҄ьшєѥ, или начьни самъ близъ и позови ѥго помощи."
+  - q: "Добри ли сѫтъ оумьнꙑѩ игрꙑ чловѣкомъ съ помѧти ослаблениѥмъ?"
+    a: "Игрꙑ могѫтъ бꙑти приꙗтьно врѣмѧ въкоупѣ, нъ ни ѥдина игра нє показа сѧ лѣчити, оумѧлꙗти или оуставити помѧти ослаблениѥ. Избери игрꙑ бєзъ часа, бєзъ числа побѣдъ и бєзъ гласа о погрѣшєнии, и приими ѩ ꙗко обьщєѥ дѣꙗниѥ, а нє ꙗко искоушєниѥ."
+  - q: "Како сътворити, да дѣꙗниꙗ нє чѫѭтъ сѧ дѣтьска?"
+    a: "Оупотрѣблꙗи истиньнꙑѩ, чьстьнꙑѩ вєщи: истиньна платьна, истиньнꙑ сънѣди, мѹсикѫ и хѹдожьнꙑѩ вєщи за въздрастънꙑѩ, и образы съ чьстьнꙑмъ съдрьжаниѥмъ. Проси помощи, ѥѩжє истиньно трѣбоуѥши, и глаголи къ чловѣкоу ꙗко къ чьстьноу въздрастъноу."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Лѹчьшєѥ дѣꙗниѥ за чловѣка живѫща съ помѧти ослаблениѥмъ чѧсто ѥстъ то, ѥжє оужє оумѣѥтъ творити, мало оулєгьчєно и творимо съ кꙑмь-то, ѥмоу жє довѣрꙗѥтъ. Нижє сѫтъ 101 мысль, по родомъ раздѣлєнꙑ, и при кождои како начѧти и како оулєгьчити, ѥгда бѫдєтъ трѹдьнѣѥ. Нє трѣбоуѥши особьнꙑихъ вєщии, ни трѣбоуѥши вьсєго съконьчати. Добро пополѹдьниѥ можєтъ бꙑти ѥдина кошьница платьнъ и чаша питии въкоупѣ.
 
-## How do you choose the right activity?
+## Како избьрати право дѣꙗниѥ?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Избьраи по чловѣкоу, а нє по съписъкоу: начьни отъ того, ѥжє въсєгда любилъ ѥстъ и ѥжє дьньсь можєтъ оудобьно творити.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Помꙑсли о ѥго дѣлѣ и любимиихъ дѣꙗнииихъ.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) глаголєтъ, ꙗко прѣжьнии дѣлатєль въ писании можєтъ любити разборъ пѣнѧѕь или събираниѥ писмъ, а дѣлатєль въ градѣ можєтъ любити дѣло вънѣ.
+- **Зьри, чьто оужє творитъ.** Ащє отьць твои по оутроу мєтєтъ крꙑльцо бєзъ прошєниꙗ, въложи то въ дьнь.
+- **Съмотри о прѣдѣлѣхъ.** Оутрѹждениѥ, зьрѣниѥ, слоушаниѥ, боль въ рѫкахъ и стоꙗниѥ вьсє важьно ѥстъ.
+- **Зьри на ѥго дѹхъ.** Мъногꙑѩ и шоумьнꙑѩ дѣꙗниꙗ инѣмъ подобаѭтъ, а инꙑѩ оустрашаѭтъ.
+- **Даждь цѣль.** Съгъбати платьна за обьщѫѭ тръпєзѫ болѣ подобьно ѥстъ нєжєли дѣло само о сєбѣ.
 
-### A rough guide by stage
+### Простъи пѫть по стѫпєнємъ
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Помѧти ослаблениѥ чѧсто глаголютъ въ раньнѥмь, срѣдьнѥмь и поздьнѥмь стѫпєни. Си имєна сѫтъ широкꙑ, а нє затворꙑ, и мъноѕи имѫтъ лѹчьшѧ и трѹдьнѣишѧ дьни, тѣмьжє дьржи сѧ того, ѥжє дьньсь видиши. [Съписъкъ по стѫпєнємъ отъ Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) идєтъ по подобьноу пѫти.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Чьто | Раньнии стѫпєнь | Срѣдьнии стѫпєнь | Поздьнии стѫпєнь |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Чьто можєши видѣти | Чѧстиѭ самъ о сєбѣ; трѹдьнѣѥ ѥстъ оумꙑслити, помьнѣти нова имєна и бꙑти въ мъноголюдьнꙑихъ мѣстѣхъ | Трѣбоуѥтъ помощи начѧти и съ стѫпы; словєса идѫтъ трѹдьнѣѥ | Трѣбоуѥтъ помощи въ мъноѕѣхъ дьньнꙑихъ дѣлѣхъ; чѫвьства наипачє важьна сѫтъ |
+| Дѣꙗниꙗ, ꙗжє чѧсто подобаѭтъ | Карътꙑ, игрꙑ на дъсцѣ, варєниѥ, дѣло въ градѣ, писаниѥ, исходъ, съборъ | Съгъбати платьно, разборъ, простꙑ стѫпи въ варєнии, пѣти, съмотрѣти образꙑ, ходъ съ водиєніємъ | Любима мѹсика, тихо мѧсити рѫцѣ, мѧгъкꙑѩ вєщи дьржати, слоушати чьтєниѥ, сѣдѣти вънѣ |
+| Твоꙗ часть | Съподроужьникъ: въпроси, каковꙑ помощи хощєтъ | Оуготови, покажи, възьми трѹдьнаꙗ на сѧ | Принєси дѣꙗниѥ къ нємоу; твоѥ пришьствиѥ ѥстъ дѣꙗниѥ |
+| Болѥ мыслии | [Раньнии стѫпєнь](/activities/early-stage/) | [Срѣдьнии стѫпєнь](/activities/middle-stage/) | [Поздьнии стѫпєнь](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Како начѧти дѣꙗниѥ съ чловѣкомъ, ижє иматъ помѧти ослаблениѥ?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Начьни мало, начьни подлѣ нєго, и сътвори лєгъко рєщи «да». Мъноѕи ѥщє хотѧтъ причѧстити сѧ, нъ трѹдьно имъ оумꙑслити или начѧти.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Избери лѹчьшєѥ врѣмѧ,** чѧсто оутро.
+2. **Оуготови вьсє прѣждє,** да можєши абиѥ начѧти.
+3. **Проси помощи, а нє показаниꙗ:** «Можєши ли ми помошти съ симь?»
+4. **Начьни самъ.** Съгъни прьвоѥ платьно и остави ѥмоу приити. Показаниѥ болѥ ѥстъ нєжєли обꙗснєниѥ.
+5. **Даждь по ѥдиномоу стѫпоу.**
+6. **Възьми на сѧ наитрѹдьнѣишєѥ.** Alzheimer's Association съвѣтоуѥтъ измѣрити самоу вєщи, а потомь дати лъжьицѫ мѣшати.
+7. **Остави бꙑти по ѥго.** Инако съгъбєна платьна добра сѫтъ.
+8. **Прѣстани, ѥгда оужє нє приꙗтьно.** Нєпокои, намръщєниѥ или «нє могѫ» сѫтъ знамєниꙗ измѣнити или почити.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Виждь такожє [како творити въкоупѣ](/caregiving/how-to-play-together/) и [съвѣтꙑ о бєсѣдѣ](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Домашьнꙗѩ дѣла
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Домашьнꙗѩ дѣла сѫтъ знаѥма и пользьна, тѣмьжє добра сѫтъ за начѧло. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) поминаѥтъ мꙑтиѥ съсѫдъ, оуготовлєниѥ трапєзꙑ, мєтєниѥ, разборъ писмъ и съгъбаниѥ платьнъ. Болѥ въ [домашьнꙑихъ дѣлѣхъ](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Съгъбати тєпла платьна.** Исꙑпи кошьницѫ на трапєзѫ и съгъбаита въкоупѣ. По томь и просто погладити и положити ѥстъ помощь.
+2. **Съпарити чорапꙑ.** Начьни отъ зѣло различьнꙑихъ цвѣтъ. По томь раздѣлити свѣтло отъ тьмьна довьлѣѥтъ.
+3. **Оуготовити трапєзѫ.** Даваи по ѥдиномоу родоу вєщии. Оуготови ѥдино мѣсто самъ ꙗко образъ.
+4. **Мꙑти или отирати съсѫдꙑ.** Тєпла вода съ мꙑломь и нєломьни съсѫди. Отираниѥ сѣдѧ лєгъчє ѥстъ за ногꙑ.
+5. **Отирати трапєзѫ.** Даждь влажьнѫ платъ по ꙗдєнии. То ѥстъ истиньно дѣло за нєпокои рѫцѣ.
+6. **Разбьрати писма.** Съписъци и излишьнаꙗ писма въ «съхранити» и «отъврѣщи». Истиньнꙑѩ платєжьнꙑѩ писма дьржи прочь.
+7. **Рѣзати отърѣзъкꙑ.** Ножицѧ съ тѫпꙑмъ коньцємь и кѹпьнꙑ листъ. По томь и обькрѫжити любимаꙗ брашьна можєтъ бꙑти.
+8. **Разбьрати пѣнѧѕи.** Разложи пѣнѧѕи въ чашѧ или въврьзи въ обєрътъкꙑ. Остави малꙑѩ вєщи, ащє чловѣкъ влагaѥтъ вєщи въ оуста.
+9. **Мєсти или чистити прахъ.** Лєгъка мєтьла на крꙑльци или дльга чистилка отъ сѣдала.
+10. **Помагати варити.** Мꙑти ꙁєлиѥ, дьрати салатъ, мѣшати. Тꙑ дрьжиши ножь и огнь.
+11. **Пєщи родьноѥ брашьно.** Оупотрѣби картѫ съ ѥго рѫкописаниѥмь, ащє имаши. По томь можєтъ бꙑти въкоуситєль.
+12. **Творити писаньноѥ дѣло.** Съгъбати писма, вложити въ обєрътъкꙑ, положити пєчать, или писати кѹпьнъи съписъкъ въкоупѣ.
 
-## Music
+## Мѹсика
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Знаѥма мѹсика можєтъ досѧщи до чловѣка и тъгда, ѥгда словєса сѫтъ трѹдьна. [Съвѣти о мѹсицѣ отъ Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) съвѣтоуѭтъ знаѥмꙑѩ пѣсни, бєзъ обꙗвлєнии и съ оугашєнꙑмъ видѣниѥмь. Виждь [дѣꙗниꙗ съ мѹсикоѭ](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Съставити особьнъи съписъкъ мѹсикꙑ.** Мѹсика отъ ѥго юности, отъ брака, отъ ѥго вѣрꙑ и отъ ѥго народа.
+14. **Пѣти въкоупѣ.** Начьни пѣти самъ. Пѣниѥ бєзъ словєсъ или слоушаниѥ такожє ѥстъ причѧстиѥ.
+15. **Дьржати мѣрѫ.** Плєскати, оударꙗти по колѣнома или по рѫчьноу бѫбьноу. Бꙑваѥтъ и сѣдѧ, и въ поздьнѥмь стѫпєни.
+16. **Плѧсати.** Тихо плѧсати въ кѹхыни, или колѣбати сѧ сѣдѧ и дьржати сѧ за рѫцѣ.
+17. **Слоушати цѣлѫ мѹсикѫ.** Любима мѹсика отъ начѧла до коньца, съ чашєѭ и бєзъ иного.
+18. **Бєсѣдовати о мѹсицѣ.** Зови къ повѣсти, а нє къ истинѣ: «Повѣжь ми о плѧсаниихъ, на нѧжє ходилъ ѥси.»
+19. **Зьрѣти мѹсичьноѥ видѣниѥ или съборъ.** Любимоѥ видѣниѥ добро ѥстъ за вєчєръ. Можєши оуставити въ вьсꙗко врѣмѧ.
+20. **Играти на знаѥмѣмь орѫдии.** Прѣжьнии игрьць можєтъ любити простꙑѩ пѣсни; по томь и нѣколико гласъ въкоупѣ.
+21. **Слоушати живѫ мѹсикѫ.** Кратъкъ обьщии съборъ или пѣниѥ хора. Сѧди близъ исхода.
 
-## Reminiscence: photos, objects and stories
+## Въспоминаниѥ: образы, вєщи и повѣсти
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Наслаждаи сѧ прѣшьдьшимь въкоупѣ, а нє искоушаи ѥго. Остави «Помьниши ли…?» и «Къто сє ѥстъ?» и оупотрѣблꙗи отъврьстꙑ зъваниꙗ. Виждь [дѣꙗниꙗ въспоминаниꙗ](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Съмотрѣти събьранъ образъ.** Рьци, чьто видиши: «Кака риꙁа. Повѣжь ми о сємь дьни.» Приими вьсꙗка имєна, ꙗжє оупотрѣблꙗѥтъ.
+23. **Сътворити съкрꙑниѥ въспоминании.** Ковьчєгъ съ вєщьми отъ ѥго живота, ꙗко знамѧ дѣла или карта сънѣди. Изимаи вєщи по ѥдинои.
+24. **Начѧти книгы живота.** Нѣколико образъ на странѣ съ вєликꙑмъ писмомь. Си помагаѥтъ новꙑмъ помоштьникомъ оувѣдѣти чловѣка.
+25. **Оупотрѣблꙗти карътꙑ бєсѣдꙑ.** [Карътꙑ бєсѣдꙑ](/games/conversation-cards/) съчєтаѭтъ образъ съ отъврьстъмь въпросомь.
+26. **Сътворити игрѫ съ родьнꙑми образы.** [Съпарєниѥ образъ](/games/photo-pairs/) прѣтвори твоꙗ образы въ игрѫ съпадєниꙗ.
+27. **Зьрѣти домашьнꙗ видѣниꙗ или старꙑѩ пєрєдачѧ.** Бєсѣдоуитє въкоупѣ, а нє въпрашаитє.
+28. **Дьржати вєщи отъ ѥго дѣла.** Ключь, слоушало, кънига дѣла. Рѫцѣ чѧсто водѧтъ повѣсть.
+29. **Варити брашьно отъ дѣтьства.** Можєтъ мѣшати, въкоусити или просто сѣдѣти въ кѹхыни съ тобоѭ.
+30. **Зьрѣти картѫ мѣстъ, идєжє жилъ ѥстъ.** Води по знаѥмꙑихъ пѫтєхъ въ вєлицѣи картѣ, ѥгда бєсѣдоуѥта.
 
-## Creative activities
+## Хѹдожьнаꙗ дѣꙗниꙗ
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Хѹдожьство ѥстъ о дѣлании, а нє о съконьчанѣи вєщи. Дрьжи вєщи чьстьнꙑ и бєзбѣдьнꙑ. Виждь [хѹдожьство и рѫкодѣлиѥ](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Рисовати водьнꙑми цвѣтꙑ.** Тльста боумага, нѣколико цвѣтъ. Ащє трѹдьно начѧти, води прьвꙑѩ чрьтꙑ въкоупѣ.
+32. **Цвѣтити чьстьнꙑ образы.** Цвѣтꙑ или оузорꙑ, а нє дѣтьскꙑѩ образы. Нашѧ [страницѧ за цвѣтєниѥ](/games/coloring/) дѣлаѭтъ на лици или на боумагѣ.
+33. **Сътворити съложєниѥ.** Дьри образы градъ, колєсъницъ или брашьнъ отъ кънигъ и прилѣпи. По томь и просто избьрати образы довьлѣѥтъ.
+34. **Оустрoити цвѣтꙑ.** Кѹпьнъ сънопъ и съсѫдъ. По томь нѣколико стєбль въ съсѫдьци.
+35. **Плєсти въкоупѣ.** Простꙑ рѧдъ на вєлицѣхъ иглахъ. По томь съвивати прѧжѫ въ клѫбъкꙑ.
+36. **Сътворити карътꙑ за родъ.** Пєчатати, подписати или оукрасити карътꙑ за рожьство или за оутѣшєниѥ истиньнꙑмъ чловѣкомъ.
+37. **Оубраꙁити съхнѫщѫѭ глинѫ.** Сътвори малъ съсѫдъ. Оупотрѣблꙗи нєврѣдьнꙑѩ вєщи и бѫди близъ.
+38. **Гладити и оустрoити дрѣво.** Оуготовлєнъ малъ домъ за птицѧ и хартии ꙁа глажєниѥ, бєзъ силънꙑихъ орѫдии. Виждь [дѣꙗниꙗ за мѫжє](/activities/for-men/).
+39. **Писати или диктовати писмо.** Къ вънѹкоу или староу дроугоу. Ащє писаниѥ трѹдьно, онъ глаголєтъ, а тꙑ пишєши.
 
-## Outdoors and gardening
+## Вънѣ и въ градѣ
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Свѣжь въздѹхъ и свѣтъ дьнє сѫтъ добри дроуѕи. Виждь [дѣꙗниꙗ вънѣ и въ градѣ](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Поливати растєниꙗ.** Малъ съсѫдъ и нѣколико съсѫдъ съ растєнии. Дьньно поливаниѥ даѥтъ дьни мѣрѫ.
+41. **Насадити въ съсѫдъ.** Положи на трапєзѫ, да никъто нє клѧкаѥтъ. Младꙑѩ растєниꙗ лєгъчє сѫтъ нєжєли сѣмєна.
+42. **Плѣти или отъимати оувѧдъшєѥ.** Рѫкавицѧ, и по малои грѧдѣ.
+43. **Грєбати листиѥ.** Ѥдинъ малъ оучѧстъкъ. По томь дьржати мѣхъ отъврьстъ ѥстъ истиньно дѣло.
+44. **Ходити по знаѥмоу пѫти.** Окрьстъ домоу или до писмьнаго мѣста. И кратъко добро ѥстъ.
+45. **Сѣдѣти вънѣ въкоупѣ.** Сѣдало на крꙑльци въ тихъи дьнь. Зьрѣти облакꙑ или людии.
+46. **Кръмити птицѧ.** Напльнити кръмило въкоупѣ и зьрѣти отъ окъна.
+47. **Мꙑти колєсъницѫ.** Вѣдро, гѫба, тєплъ дьнь. Поливати колєса ѥстъ добро дѣло о ѥдиномь стѫпѣ.
 
-## Sensory activities
+## Чѫвьствьнаꙗ дѣꙗниꙗ
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Осѧꙁаниѥ, вонꙗ, въкоусъ, слоухъ и зьрѣниѥ болѣ важьни бꙑваѭтъ, ѥгда помѧти ослаблениѥ растєтъ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) поминаѥтъ мѹсикѫ, вєщи за рѫцѣ и тихо мѧсити рѫцѣ въ поздьнꙑихъ стѫпєнєхъ. Прѣждє провѣри о зълꙑихъ отвѣтѣхъ тѣла и о бѣдѣ подавлєниꙗ; виждь [чѫвьствьнаꙗ дѣꙗниꙗ](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Тихо мѧсити рѫцѣ.** Прѣждє въпроси и оупотрѣби мало масти. Избери бєзъ вонѩ, ащє нє вѣси о кожѣ или о отвѣтѣхъ тѣла.
+49. **Осѧꙁати тканьѥ.** Кошьница съ мѧгъкꙑми, рѧбꙑми и гладъкꙑми тканьми, ѩжє гладити и съгъбати.
+50. **Вонꙗти ꙁєлиꙗ и кафє.** Потри свѣжѫ мѧтѫ или роꙁмаринъ мєждоу прьстꙑ. Остави сильнꙑѩ вонѩ при трѹдьнѣмь дꙑхании.
+51. **Чєсати власꙑ.** Тихо и мѧгъко, ащє любѧтъ то.
+52. **Подати тєплѫ платъ.** За рѫцѣ и лице въ стоудєнъ дьнь. Прѣждє искоуси тєплотѫ.
+53. **Оусьмотрѣти дѣлатєльнѫѭ прѣдъницѫ.** Вєлицѩ пѫговицѧ и ꙁатворъ, крѣпъко пришити. Провѣри, да ничьто нє отъпадєтъ.
+54. **Въкоусити любимоѥ брашьно.** Мала лъжица, въ видѣ, ижь можєтъ бєзбѣдьно приѩти.
+55. **Слоушати гласꙑ природꙑ.** Дъждь, вльнꙑ или пѣниѥ птиць тихо.
+56. **Зьрѣти нѣчьто тихо.** Рꙑбꙑ въ водѣ, видѣниѥ природꙑ или падаѭщь снѣгъ.
 
-## Games and puzzles
+## Игрꙑ и съложєниꙗ
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Игрꙑ бꙑваѭтъ добрꙑ, ѥгда нѣстъ часа, числа побѣдъ ни тѧгости. Ащє игра начьнєтъ чѫти сѧ ꙗко искоушєниѥ, отъложи ѭ. Виждь [како избьрати приложєниꙗ и игрꙑ](/caregiving/choosing-apps-and-games/) и [оумьнꙑѩ игрꙑ](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Съпадати образы.** [Съпарєниѥ образъ](/games/picture-pairs/) оставлꙗѥтъ образы отъврьстꙑ, тѣмьжє то ѥстъ о зьрѣнии, а нє о помьнѣнии.
+58. **Наити тъждє образъ.** [Наити тъждє](/games/find-the-same/) даѥтъ дъва до чєтꙑръ изборъ. Бєсѣдоуитє о кождомь образѣ.
+59. **Разбирати въ кошьницѧ.** [Разборъ въкоупѣ](/games/sort-together/) ѥстъ ꙗко разборъ чорапъ на лици.
+60. **Съложити съложєниѥ съ вєликꙑми чѧстьми.** Чьстьни образы, мало чѧстии. [Образьно съложєниѥ](/games/picture-puzzle/) дьржитъ вьсь образъ видимъ. Болѣ въ [съложєнии за помѧти ослаблениѥ](/activities/puzzles/).
+61. **Играти старѫ карътьнѫѭ игрѫ.** Тѫ, въ нѭжє играли сѫтъ многꙑ лѣтꙑ. По томь и разборъ карътъ по цвѣтоу ѥстъ игра.
+62. **Играти въ кости.** Съпадати коньцѧ. По томь и просто положити кости въ рѧдъ добро ѥстъ.
+63. **Искати словєса вєликꙑмъ писмомь.** Нашє [исканіѥ словєсъ](/games/word-search/) иматъ словєса тъкъмо по прѧмоу, и можєтъ сѧ пєчатати.
+64. **Съконьчати знаѥмꙑѩ словєса.** [Съконьчаи словєса](/games/finish-the-saying/) даѥтъ показати коньць въ вьсꙗко врѣмѧ.
+65. **Играти въ образьно бинго.** [Образьно бинго](/games/picture-bingo/) подобьно ѥстъ родоу и събороу. Помагаи съ знамєниꙗми свободьно.
+66. **Играти въ дамꙑ.** Дрьжи правила лєгъко. Двиꙁати чѧсти и бєсѣдовати довьлѣѥтъ.
 
-## Movement
+## Движєниѥ
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA съвѣтоуѥтъ ходъ, стоꙗщєѥ колєсо, тѧгълимꙑѩ прѧжѧ, мєтаниѥ мѧгъка мѧча или надѫта мѧча, подиꙁаниѥ коньсєрвъ и видѣниꙗ движєниꙗ за старьцѧ. Въпроси врачє прѣждє новаго, наипачє ащє ѥстъ трѹдьно стоꙗти.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Мєтати надѫтъ мѧчь.** Сѧдитє лицємь къ лицоу. Движєтъ сѧ тихо, тѣмьжє лєгъко ѥстъ ꙗти.
+68. **Ити по видѣнию движєниꙗ за старьцѧ,** сѣдѧ и въкоупѣ.
+69. **Протѧгати сѧ съ прѧжєѭ.** Тихо тѧгнѫти рѫцѣ съ лєгъкоѭ прѧжєѭ сѣдѧ.
+70. **Подиꙁати коньсєрвꙑ.** Тихо подиꙁати рѫцѣ, можєтъ бꙑти при мѹсицѣ.
+71. **Ѥхати на стоꙗщємь колєси.** Нѣколико лєгъкꙑихъ минѫтъ, а тꙑ близъ.
+72. **Плѧсати съ платꙑ.** Махати лєгъкꙑми платꙑ при мѹсицѣ, сѣдѧ или стоѩ.
+73. **Ходити съ цѣлиѭ.** Посълати писмо или кѹпити питиѥ. Цѣль творитъ исходъ єстьствьнъ.
+74. **Сътворити тихѫ паузѫ дꙑханиꙗ.** Оутишитє сѧ въкоупѣ съ [тихъмь дꙑханиѥмь](/games/calm-breathing/).
 
-## Social activities
+## Обьщьнаꙗ дѣꙗниꙗ
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Събытиѥ важьно ѥстъ, ащє и имєна трѹдьна сѫтъ, и малꙑ съборъ лєгъчє ѥстъ нєжєли вєликъ. NIA глаголєтъ, ꙗко чловѣкъ можєтъ нє помьнѣти, къто ѥстъ гость, нъ чѧсто ѥщє радоуѥтъ сѧ събытию. Виждь [посѣщєниѥ](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Имѣти по ѥдиномоу или дъвѣма гостєма.** Кратъко посѣщєниѥ въ тихои храминѣ, съ образы за зьрѣниѥ.
+76. **Зъвати родъ видѣниѥмь.** Кратъци зъви, по ѥдиномоу гласоу. Виждь [гласъ и видѣниѥ](/activities/phone-and-video-calls/).
+77. **Посѣтити мѣсто въспоминаниꙗ.** Простꙑ съборъ за чловѣкꙑ живѫштѧѩ съ помѧти ослаблениѥмъ и тѣхъ, ижє о нихъ пєкѫтъ сѧ. Въпроси мѣстънѫѭ слоужьбѫ о помошти старьцємъ, чьто ѥстъ близъ.
+78. **Ꙗсти вънѣ въ тихо врѣмѧ.** NIA съвѣтоуѥтъ знаѥмо и тихо мѣсто въ нємъноголюдьно врѣмѧ, съ мѣстомь близъ оумꙑвалъницѧ.
+79. **Посѣтити мѣсто за старьцѧ или дьньнѫѭ слоужьбѫ.** Събытиѥ за нѥго и почиваниѥ за тѧ.
+80. **Бꙑти съ дѣтьми.** Кратъко и тихо посѣщєниѥ вънѹкъ, или чьтєниѥ образьнꙑѩ кънигꙑ малоу дѣтищоу.
+81. **Чисти вѣсти при кафє.** Чьти написьнаꙗ словєса въслоухъ. Обычаи важьнѣи ѥстъ нєжєли вѣсть.
+82. **Помагати иномоу.** Съгъбати обьщьнꙑѩ листꙑ или сътворити карътѫ за съсѣда.
 
-## Faith and spiritual activities
+## Дѹховьнаꙗ дѣꙗниꙗ
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Иди по вѣрѣ того чловѣка, или по ничєсомоу. NIA поминаѥтъ знаѥмꙑѩ слоужьбꙑ, чьтєниꙗ, свѧтѫѭ мѹсикѫ, молитвѫ, тихо помꙑшлєниѥ и праздникънꙑѩ обычаѩ.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Посѣтити знаѥмѫ слоужьбѫ.** Избери тихѹѭ, сѧди близъ пѫти, и скажи людьмъ тамо о помѧти ослаблении.
+84. **Зьрѣти слоужьбѫ видѣниѥмь** въ дьни, ѥгда исходъ трѹдьнъ ѥстъ.
+85. **Молити сѧ или чьсти въкоупѣ.** Знаѥма словєса, чьтєна тихо. Можєтъ причѧстити сѧ въ тѣхъ, ꙗжє знаѥтъ.
+86. **Пѣти пѣсни или свѧтѫ мѹсикѫ** отъ ѥго вѣрꙑ.
+87. **Дьржати праздникънꙑѩ обычаѩ.** Свѣщѧ съ силoѭ, благословєниѥ, оукрашєниꙗ, ꙗжє въсєгда оупотрѣблꙗлъ ѥстъ.
+88. **Имѣти тихо врѣмѧ.** Сѣдѣти въ градѣ или зьрѣти ꙁаходъ слъньца въкоупѣ.
 
-## Pets and animals
+## Животьнаꙗ
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA съвѣтоуѥтъ кръмити, чєсати, водити, или сѣдѣти и дьржати животьноѥ.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Чєсати тихо пьса или котъкоу** дльгꙑми и тихꙑми двиꙁєнии.
+90. **Кръмити животьноѥ въкоупѣ.** Тꙑ измѣрꙗѥши; онъ сꙑплєтъ.
+91. **Водити пьса въкоупѣ.** Тꙑ дрьжиши оужє.
+92. **Дьржати животьноѥ на колѣноу.** Тихъ котъкъ на платѣ можєтъ бꙑти зѣло оутишьнъ.
+93. **Приѩти приходѧща животьнаꙗ.** Нѣкаꙗ мѣста и дьньнꙑѩ слоужьбꙑ имѫтъ посѣщєниꙗ животьнꙑихъ. Въпроси близъ.
+94. **Дати мѧгъко животьноѥ, подобьно истиньноу.** Ащє нѣстъ животьнаго, нѣции любѧтъ дьржати мѧгъкꙑи образъ котъка или пьса. Даждь ѥ просто, а нє ꙗко игрѫ, и приими «нѣтъ».
 
-## Seasonal activities
+## Дѣꙗниꙗ по врѣмєнємъ
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Дрьжи обычаѩ, нъ простѣѥ. NIA съвѣтоуѥтъ бꙑти истиньноу и имѣти тихо мѣсто за почиваниѥ въ мъногочловѣчьнꙑѩ праздникꙑ.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Оукрасити по врѣмєни.** Тꙑкъва, вѣньць или свѣжии цвѣтꙑ на трапєзѣ.
+96. **Сътворити праздникъноѥ брашьно.** Катати тѣсто или оукрасити хлѣбьцѧ. Тꙑ дрьжиши пєщь.
+97. **Повѣсити оукрашєниꙗ.** Нєломьна оукрашєниꙗ, даѥма по ѥдиномоу.
+98. **Поѣхати зьрѣти свѣтилъ.** Кратъкъ вєчєрьнии исходъ трѣбоуѥтъ тъкъмо събытиꙗ.
+99. **Насадити вєсьнꙑѩ лѹковицѧ.** Въложи лѹковицѧ въ съсѫдъ осєниѭ и жьди ростъкъ.
+100. **Очищати царьско жито или горохъ.** Лѣтьно дѣло на крꙑльци съ чашєѭ на колѣноу.
+101. **Писати праздникънꙑѩ карътꙑ.** Онъ подписоуѥтъ, полагаѥтъ пєчать или ꙁатвараѥтъ; тꙑ дрьжиши имєна и мѣста.
 
-## What if an activity is not working?
+## Чьто, ащє дѣꙗниѥ нє идєтъ?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Прѣстани и попꙑтаи ино въ дроуго врѣмѧ. NIA съвѣтоуѥтъ зьрѣти на тѧгость и оставити чловѣкоу просто зьрѣти, ащє хощєтъ. «Нѣтъ» чѧсто рєчєтъ, ꙗко дѣло трѹдьно, врѣмѧ нє подобьно, или нѣчьто ино мѫчитъ, ꙗко боль, гладъ или шоумъ. Сътвори мьнѥ, попꙑтаи ранѣѥ въ дьни, или начьни самъ и виждь, ащє причѧститъ сѧ. Виждь [ѥгда глаголєтъ нѣтъ](/caregiving/when-they-say-no/) и [нєпокои въ коньць дьнє](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Да оустрoиши дѣꙗниꙗ мєждоу ꙗдєниѥмь и почиваниѥмь, виждь [тихъи дьньнъи чинъ](/activities/daily-routine/). За вєщи, ѩжє подобаѥтъ имѣти готовꙑ, виждь [дѣꙗниꙗ за пєчатаниѥ](/activities/printable/), а ащє водиши съборъ, [дѣꙗниꙗ за съборъ въ домоу](/activities/care-home-groups/). Твоѥ почиваниѥ такожє важьно ѥстъ: виждь [попєчєниѥ о сєбѣ](/caregiving/caregiver-self-care/).

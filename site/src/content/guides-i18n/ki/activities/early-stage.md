@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Maũndũ ma Gwĩkenia Kĩambĩrĩria-inĩ"
+seoTitle: "Maũndũ ma Gwĩkenia Kĩambĩrĩria-inĩ"
+description: "Mabataro ma maũndũ ma gwĩkenia harĩ andũ arĩa matũũraga na ndwari ya kwaga kũririkana kĩambĩrĩria-inĩ, na mĩgarũrũko mĩnini ya kũmateithia gũikara makenete na metongoretie."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Kĩambĩrĩria-inĩ kĩa ndwari ya kwaga kũririkana, andũ aingĩ no mathiĩ na mbere
+  gwĩka maũndũ marĩa makenagĩra: maũndũ marĩa mendete, tũthaka twa karati na
+  twa metha, kũruga, kũrĩma mũgũnda, gũceera, ikundi, maũndũ ma wĩtĩkio na
+  kwĩrutĩra. Mĩgarũrũko mĩnene nĩ ikundi nini, mathii makuhĩ, mĩbango mĩhũthũ
+  ĩandĩkĩtwo na mũndũ wa gũteithia arĩ hakuhĩ. Ũria mũndũ ũcio ũteithio ũrĩa
+  endete, na ũreke atongorie.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Andũ aingĩ marĩ ikinya rĩa mbere matũũraga metoimete na mwanya mũingĩ. Maũndũ ma gwĩkenia no mabataire kũgarũrwo hanini, no ti kũgarũrwo mothe."
+  - "Ũria mũndũ ũcio ũteithio ũrĩa endete, na mwĩtĩkĩre kĩmenyithia kĩoroku gĩa rĩrĩa ũteithio ũngĩamũkĩrwo."
+  - "Ikundi nini, mahinda matarĩ na inegene rĩingĩ na mathii makuhĩ maingĩ nĩmateithagia mũno."
+  - "Rĩĩrĩ nĩ ihinda rĩega rĩa mũndũ ũcio gũtongoria mĩbango ĩkoniĩ muoyo wake, ta ibuku rĩa kwandĩka maũndũ ma o mũthenya kana rũgano rwa muoyo wake."
+  - "Thuura tũthaka nĩ ũndũ wa gwĩkenia. Tiga kĩndũ o gĩothe kĩambĩrĩria kuoneka ta kĩgerio."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Nĩ maũndũ marĩkũ mega ma gwĩkenia harĩ mũndũ ũrĩ ikinya rĩa mbere rĩa ndwari ya kwaga kũririkana?"
+    a: "Kaingĩ nĩ o macio mũndũ ũcio akenagĩra: karati, tũthaka twa metha, kũruga, kũrĩma mũgũnda, gũceera, mũziki, maũndũ ma wĩtĩkio, ikundi na kwĩrutĩra. No mabataire gũtuuo makuhĩ, matarĩ na inegene rĩingĩ kana mahũthũ. Kwandĩka maũndũ ma o mũthenya, kwandĩka marũa na gũthondeka ibuku rĩa rũgano rwa muoyo nĩmaagĩrĩire ikinya rĩĩrĩ."
+  - q: "Ndingĩteithia atĩa itekũmwĩyĩra wĩra wothe?"
+    a: "Ũria mũndũ ũcio ũteithio ũrĩa endete, na ũmũũrie kaingĩ. Mwĩtĩkĩre kiugo kana kũinamĩrĩra mũtwe kuonania atĩ nĩ wega gũtoonya kũmũteithia, kwa ngerekano rĩrĩa kiugo kana rĩĩtwa rĩrarema kuoneka. Angĩkorwo gũtirĩ ũgwati, reke eke ũrĩa ekuona kwagĩrĩire, o na angĩhũthĩra ihinda inene."
+  - q: "Mũndũ ũrĩ na ndwari ya kwaga kũririkana kĩambĩrĩria-inĩ nĩagĩrĩirwo nĩ kũgeria maũndũ merũ?"
+    a: "Ĩĩ, angĩkorwo nĩekwenda. Maũndũ marĩa amenyerete maingĩ nĩmo mahũthũ, no andũ aingĩ nĩmakenagĩra kĩndũ kĩerũ, ta gĩkundi kĩa gũceera kĩagĩrĩire andũ arĩa matũũraga na ndwari ya kwaga kũririkana, kirathi kĩa ũcori kana gĩkundi kĩa kũina. Geria riita rĩmwe hatarĩ ũritũ, na muone ũrĩa kũigana."
+  - q: "Tũthaka twa „gũtungata“ meciiria nĩ twega kĩambĩrĩria-inĩ?"
+    a: "Andũ amwe nĩmakenagĩra tũmĩrũri na tũthaka twa ciugo, na gwĩkenia kũu nĩkũiganu. Gũtirĩ app kana mũthako wonanĩtio ũrĩ na ũhoti wa kũhonia, gũkirĩrĩria, kana kũrũgamia ndwari ya kwaga kũririkana. Mũthako ũngĩrehe mĩtangĩko kana ũtũme mũndũ eigue ta nĩararema, ũtige."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Ikinya-inĩ rĩa mbere rĩa ndwari ya kwaga kũririkana, andũ aingĩ no mathiĩ na mbere gũtũũra o ta mbere. No mathiage wĩra, merutĩre, monane na arata na mathugunde mũthenya wao mũingĩ. Maũndũ ma gwĩkenia kaingĩ ti mabataire kũgarũrwo mothe; mabataire tu mĩgarũrũko mĩnini nĩguo magĩe na gĩkeno. Wĩra waku nĩ ta wa mũrata wa gũteithanĩria gũkĩra wa mũmenyereri: mũndũ ũrĩa ũteithagia, ũbangaga hamwe nao na ũgatoonya o rĩrĩa ũringĩtwo.
 
-## What activities are good in early-stage dementia?
+## Nĩ maũndũ marĩkũ mega ma gwĩkenia kĩambĩrĩria-inĩ?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Maũndũ marĩa mega mũno kĩambĩrĩria-inĩ maingĩ nĩ macio mũndũ ũcio endete, mekĩrwo mahũthũ hanini. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nĩ ĩheanaga mabataro ta tũthaka twa karati na twa metha, gũcaria ciugo, gũceera, kũina, kũrĩma mũgũnda, kũbangaga mahũa, kũheana ng’ano, gũkurura, mũziki, kwandĩka maũndũ ma o mũthenya, kwandĩka marũa, gũthondeka mabuku ma mahinda, kũruga na mĩtugo ya ciathĩ.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Ũndũ ũrĩa mũingĩ ũgarũragwo nĩ harĩa na ũrĩa wekagwo, no ti wĩra wĩ igũrũ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) nĩ yugaga atĩ andũ arĩ ikinya rĩa mbere no mambĩrĩrie gwĩthema kuuma maũndũ-inĩ marĩa makenagĩra, na ĩkoiga ngerekano ya mũndũ ũrĩa wĩiguaga aritũhĩtio nĩ gĩathĩ kĩnene no ekenere mũno arĩ gĩkundi-inĩ kĩnini. Aranĩriai ũhoro ũcio na ũhooreri ũkoniĩ maũndũ marĩa maritũhĩte, na mũgarũre hamwe.
 
-## Ask first, and agree on how to help
+## Amba kũũria, na mwĩtĩkĩre ũrĩa mũgũteithania
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Ũtongoria wa Alzheimer's Association wa ikinya rĩa mbere](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) nĩ ũheanaga mĩtugo ĩngĩ ĩrĩa ĩngĩteithia o na maũndũ-inĩ ma gwĩkenia:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Ũria ũhoro wega.** Kũũria atĩ „Nĩ kĩĩ kĩngĩtũma gĩkundi kĩa gũthoma mabuku kĩorohere?“ nĩkũheanaga macokio mega gũkĩra gũtaarĩria.
+- **Wĩtĩkie atĩ no ahote.** Angĩkorwo gũtirĩ ũgwati, reke mũndũ ũcio agerie, na ũmũhe hinya handũ ha kwĩyĩra wĩra.
+- **Mwĩtĩkĩre kĩmenyithia.** Thuurai kiugo kana kũinamĩrĩra mũtwe kuonania atĩ „nĩ wega kũmũteithia rĩu“, kwa ngerekano rĩrĩa rĩĩtwa rĩrarema kuoneka rĩrĩa mũrahaicia karati.
+- **Ũria kaingĩ.** Mũũrie kana ũteithio ũrĩa ũrenda nĩ mũiganu, nĩ mũingĩ mũno, kana nĩ mũnini.
 
-## Activity ideas for the early stage
+## Mabataro ma maũndũ ma gwĩkenia ikinya-inĩ rĩa mbere
 
-### Keep up roles and hobbies
+### Thiĩ na mbere na wĩra na maũndũ marĩa mendete
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Ikara na wĩra wa mũtugo.** Kwĩrutĩra o kiumia, kũina thĩinĩ wa kĩoiru kana gĩkundi nĩkũheanaga kiumia mũbango. Ũngĩambĩrĩria kũritũha, wĩra mũkuhĩ kana ũtarĩ na inegene rĩingĩ no ũagĩrĩre.
+- **Bangai irio hamwe.** Gũthii gũgũra indo kũngĩambĩrĩria kũritũha, Alzheimer's Association ĩrĩathaga kũũria mũndũ ũcio ateithie gũbanga irio cia kiumia na kwandĩka mũtaratara.
+- **Ruga na ũtheke keki.** Rũmagĩrĩrai njĩra ya irio iria mwendete hamwe. Igai indo cia kũruga mbere na mũtaratara nĩguo makinya monagwo.
+- **Rĩma mũgũnda.** Bangai handũ ha kũhaanda, thuurai mbeũ kana mĩmera na mũrute wĩra hamwe. Mũtaratara wandĩkĩtwo wa mawĩra ma mũgũnda wa kiumia nĩũteithagia.
+- **Thiĩ na mbere na wĩra wa moko.** Wĩra wa mbaũ, gũtuma nguo, gũthondeka na ndigi kana gwaka tũndũ tũnini no ũthiĩ na mbere na mĩbango mĩhũthũ na ũtheri mwega.
 
-### Games for enjoyment
+### Tũthaka twa gwĩkenia
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Haiciai karati na tũthaka twa metha.** Tũthaka tũrĩa mũmenyerete nĩtuo tũhũthũ. Haiciai mũrĩ ikundi nĩguo gũtikagĩe mũndũ ũritũhĩtio we wiki, na mũtare gũtarania maheni mũno kana mũtige biũ.
+- **Geria gũcaria ciugo na ndemwa nene.** [Word search](/games/word-search/) witũ no ũhaicĩrwo thĩinĩ wa kĩgĩcicio kana ũkũrũrwo nĩguo mũgwate kahinda gatarĩ na inegene.
+- **Ruga tũmĩrũri twa mbica.** Thuura mũigana wa icunjĩ ũrĩa ũrehaga ũhurũko, no ti ũritũ. [Picture puzzle](/games/picture-puzzle/) nĩ mũthako mũkuhĩ wa thĩinĩ wa kĩgĩcicio, na mũtongoria witũ wa [tũmĩrũri twa mbica harĩ andũ arĩa matũũraga na ndwari ya kwaga kũririkana](/activities/puzzles/) nĩũteithagia gũthuura.
+- **Ingĩra mĩthako ya ciũria nĩ ũndũ wa gwĩkenia.** Andũ amwe nĩmakenagĩra ciũria cia ikundi. Ingĩambĩrĩria kuoneka ta kĩgerio, thuura ũndũ ũngĩ, kana mũgerie [ciũria ciitũ cioroku](/activities/trivia/), iria irĩ na macokio ma gũthuura na itarĩ na gũtarania maheni.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Tũthaka tũno nĩ twa gũkenania. Gũtirĩ mũthako wonanĩtio ũrĩ na ũhoti wa kũhonia kana gũkirĩrĩria ndwari ya kwaga kũririkana; thoma makĩria harĩ [tũthaka twa meciiria: ũrĩa ũtuĩria wonanagia](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Andĩka, wĩcũranie na ũige maũndũ ma bata
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Andĩka maũndũ ma o mũthenya.** Alzheimer's Association ĩrĩathaga kwandĩka maũndũ ma o mũthenya ta njĩra ĩmwe ya gũtooria maũndũ marĩa mũndũ aiguaga thutha wa kũmenya ũrĩa ahaana. Mĩstari mĩnini o mũthenya nĩ mĩiganu.
+- **Tongoria ibuku rĩa rũgano rwa muoyo.** Ikinya rĩa mbere nĩ ihinda rĩega rĩa mũndũ ũcio gũthuura mbica ciake we mwene na aandĩke kana aheane ng’ano iria ciumanĩte nacio. Rora [maũndũ ma gwĩkenia ma kũririkana](/activities/reminiscence/).
+- **Andĩka marũa.** Marũa kũrĩ mwĩcũkũrũ, mũrata wa tene kana mũrata wa wĩra wa tene no makorwo marĩ na bata mũno harĩ mĩena yeerĩ.
+- **Aranĩriai mbica.** [Photo pairs](/games/photo-pairs/) ĩgarũraga mbica cia famĩlĩ gũtuĩka mũthako mũhooreri wa kũringithania, na [conversation cards](/games/conversation-cards/) nĩiheanaga njĩra cioroku cia kwambĩrĩria mĩario.
 
-### Go out and move
+### Uma nja na wĩnyonyie mwĩrĩ
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ĩrĩathaga gũthiĩ na mbere na mathii marĩa mũmenyerete ihinda rĩothe rĩrĩa inyuĩ eerĩ mũrĩ na ũhurũko. Mabangage mahinda-inĩ marĩa mega ma mũndũ ũcio, na mũtigatũme mathii maraihie mũno.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Mathii makuhĩ ma gũkenerera.** Nyũmba ya kũonania maũndũ ma tene, filimu ya mũthenya kana kĩonere kĩa ũcori, akorwo no kũhoteke mahinda-inĩ matarĩ na andũ aingĩ.
+- **Gũthambĩra.** NIA ĩrĩathaga gũthiĩ karia-inĩ ka gũthambĩra mahinda-inĩ matarĩ na andũ aingĩ.
+- **Ikundi cia gũceera na mĩthako ya kũina.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nĩ ĩgwetaga kũina, tai chi, yoga, gũthambĩra na ikundi cia gũceera, na mathomo magĩrĩire andũ arĩa matũũraga na ndwari ya kwaga kũririkana harĩa mangĩoneka.
+- **Ikundi cia kũina na „memory cafés“.** Ikundi cihurũku harĩa andũ arĩa matũũraga na ndwari ya kwaga kũririkana na arĩa mamamenyagĩrĩra mangĩcemania na andũ angĩ marĩ na ũndũ ũhaanaine.
 
-## Small changes that keep activities enjoyable
+## Mĩgarũrũko mĩnini ĩrĩa ĩtũmaga maũndũ ma gwĩkenia mathiĩ na mbere
 
-| If this is getting harder | Try this |
+| Angĩkorwo ũndũ ũyũ nĩũraretwo mũritũ | Geria ũũ |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Kũndũ kũrĩ na andũ aingĩ kana inegene rĩingĩ | Thiĩ mahinda-inĩ matarĩ na andũ aingĩ, thuura ikundi nini, ikara mũthia-inĩ wa nyũmba |
+| Kũririkana marĩĩtwa merũ | Ĩta andũ na marĩĩtwa mao hĩndĩ ciothe; ũrie ikundi ihũthĩre tũkaratĩ twa marĩĩtwa |
+| Kũrũmĩrĩra mĩbango ĩrĩ na makinya maingĩ | Andĩka makinya macio, kana igai indo ciothe na mũtaratara mbere |
+| Kũnoga mũno | Mathii makuhĩ, kũhurũka thutha ũcio, na gũtikagĩe na ũndũ ũngĩ mũbangĩtwo mũthenya ũcio |
+| Kũrũmĩrĩra mũthako | Haiciai mũrĩ ikundi, hũthiai mĩthako mĩhũthũ, kana mũtige gũtara maheni |
+| Kwaga ciugo | Heana ihinda; heana kiugo tu angĩkorwo kĩmenyithia kĩanyu gĩetĩkĩrĩtie |
 
-## When to slow down
+## Rĩrĩa mũkwagĩrĩirwo nĩ kũnyihia mĩtũkĩ
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Tiga kana garũra wĩra wa gwĩkenia rĩrĩa ũrehe mĩtangĩko mũingĩ gũkĩra gĩkeno. Gũthĩĩnĩka kaingĩ, gwĩthema maũndũ marĩa mendete kana kuuga atĩ „ndingĩhota biũ“ nĩ maũndũ ma kwaranĩrio na ũhooreri, no ti kũhatĩrĩria. Kaingĩ macokio nĩ kũruta ũndũ o ũcio ũrĩ mũnini. Rĩrĩa mũndũ ũcio abataire ũteithio mũingĩ wa kwambĩrĩria na kũrũmĩrĩra makinya, mabataro marĩ [maũndũ ma gwĩkenia ma ikinya rĩa gatagatĩ](/activities/middle-stage/) no makorwo magĩrĩire mũno. Nĩ ũndũ wa ũhoro makĩria wa kwaranĩria na ũteithio, rora [mataaro ma kwaranĩria](/caregiving/communication-tips/), na nĩ ũndũ wa mabataro mangĩ maingĩ, rora [maũndũ 101 ma gwĩkenia](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Arĩa mateithanagia nao nĩmabataire ũteithio. Ikinya rĩa mbere nĩ ihinda rĩega rĩa gwaka ũteithio waku we mwene; rora [kwĩmenyerera kwa mũmenyereri](/caregiving/caregiver-self-care/).

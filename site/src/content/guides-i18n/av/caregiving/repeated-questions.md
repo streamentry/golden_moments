@@ -1,36 +1,38 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Деменциягун инсан цо гьаб хӀалтӀи-хӀалтӀи гьабулеб мехалъ"
+seoTitle: "Деменция: хӀалтӀи-хӀалтӀи гьабулел хӀалтӀаби"
+description: "Деменциягун инсан щиб хӀалтӀи-хӀалтӀи цо гьаб хӀалтӀи гьабулеб, гӀодобе жавабал кьезе кинал кӀолелги, кверал кумекалги, тӀоцебесеб хисизаби тохтарго ракӀалда."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Деменциялъул заманалда хӀалтӀи-хӀалтӀи гьабулел хӀалтӀаби гӀемерал руго:
+  инсанасда гьеб хӀалтӀи гьабунааниги ракӀалъ чӀезе батӀи-батӀулареб, гьединго
+  хӀалтӀиялда хӀинкъи букӀине бегьула. ТӀоцебесебго, къокъабго жаваб кье,
+  гьеб тӀоцебесеб нухалъ гьабулеб куцалъ, хӀалтӀиялда хадуб букӀунеб
+  рекӀел-ракъдалъухъ жаваб кье, «нуж гьеб цебего гьабана» абунгутӀе. Жаваб
+  гьезда беразда бихьулеб бакӀалда хъвазе, гӀадамал лъугьунел лъалхъал
+  гьелъул хӀакъалъухъ цохӀо лъазабе, ракӀарехун гьабулеб гӀемер бихье.
+  ТӀоцебесеб хисизаби тохтарго ракӀалда.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Инсанасда гьеб хӀалтӀи гьабунааниги ракӀалъ чӀезе батӀи-батӀулареб; гьеб бокьараб амалалда гьабулеб гьечӀо."
+  - "ХӀалтӀиялда хадуб рекӀел-ракъа букӀине бегьула, масала лъугьинеб лъалхъалъул хӀакъалъул хӀинкъи яги рахатлъиялъул бажари."
+  - "ТӀоцебесебго, къокъабго, рахатго жаваб кье, тӀоцебесеб нухалъ гьабулеб куцалъ. «Нуж гьеб цебего гьабана» абунгутӀе."
+  - "Хъвай-хъвагӀай, хъахӀаб тахта, сагӀат яги календар бербала бихьулеб бакӀалда нужеца жаваб кьезе бегьула."
+  - "ЗахӀматаб лъугьинеб лъалхъалъул хӀакъалъухъ гьел гьабизе ругел заманалда цохӀо лъазабе."
+  - "Нужее рагьараб мехалъ къокъаб хӀалтӀи гьабе, тӀоцебесеб хисизабиги тохтарго ракӀалда."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Деменциягун дир вацас щиб цо гьаб хӀалтӀи хӀалтӀи-хӀалтӀи гьабулеб?"
+    a: "Деменциялда гьоркьохъаб ракӀалъул хӀакъалъулъ мугьуб гьабула, гьелъул гьеб хӀалтӀи гьабунааниги яги жаваб ракӀанааниги унго ракӀалъ чӀезе бегьула. ГӀемерисеб мехалъ хӀалтӀиялда хадуб рекӀел-ракъа букӀула, масала хадусеб щиб лъугьинебалъул хӀинкъи яги цӀунизабиялъул бажари. Гьеб рекӀел-ракъдалъухъ жаваб кьей лъугьа-бахъин цӀикӀкӀун хӀалтӀи-жагӀи такраралдаса кумек гьабула."
+  - q: "Гьезда гьеб хӀалтӀи цебего гьабун букӀанаан абизе кколебищ?"
+    a: "Гуро. Гьелъ гьезда ракӀалъ чӀезе кумек гьабизе кӀоларо, гьединго гьеб гъорлъе бахъинабизе гӀадин лъазе бегьула. Деменциялъул тӀадегӀанлъиялъул организациязул рекомендациязда рекъон, щибаб нухалъго тӀоцебесебго жаваб кьезе, тӀоцебесеб нухалъ гьабулеб куцалъ, жавабги къокъаб гьабизе."
+  - q: "Жаваб хъвазе кумек гьабулебищ?"
+    a: "Инсанас цӀализе жеги кӀолеб мехалъ, кумек гьабизе бегьула. Хъвай-хъвагӀай, жакъасеб жо лъугьинеб бугеб хъахӀаб тахта, чӀахӀияб сагӀат яги календар гьез гӀемерисеб мехалъ балагьулеб бакӀалда гьезе жибго жаваб бихьзе рес кьола. «Дун мунго лъазабун вукӀана» абун гуреб, рахатго гьеб бакӀалде биччазе."
+  - q: "Встречаязул ва цебехун ине гӀадамал лъугьунел лъалхъазул хӀакъалъухъ кидан лъазабизе бугеб?"
+    a: "Заман букӀанигӀан. Тохтаралде ине яги къоялъе ине гӀадамал кӀиялго къоялда цебе лъазабиялдалъун, хӀинкъиялъул хӀалтӀаби сагӀатзазде сверун ратизе бегьула. ЛъугьинегӀан цохӀо цебе, тӀоцебесебго лъазабе, хадусеб щиб лъугьинебиги."
+  - q: "ХӀалтӀи-жагӀи такрарал кидан тохтарасе ахӀизе бугеб?"
+    a: "ХӀалтӀаби, валалъулги яги гӀамалазулги хисизаби тӀоцебесебго гьабулеб мехалъ яги сагӀатзазда яги къоязда кӀудиябго бетӀерлъулеб мехалъ, гьезда тохтар цӀикӀкӀун ахӀе. Инфекция, цӀияб дару, унти, релъин гьечӀого яги гьиниялъул ками делириум абураб тӀоцебесеб чӀагоялъул хисизаби гьаризе бегьула, гьелъе хехго кумек къваригӀуна."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +60,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+«Тохтар кидан бугеб?» АнцӀила минуталда хадуб: «Тохтар кидан бугеб?» Деменциягун инсаналъул хал гьабулеб заманалда, цо гьаб хӀалтӀи хӀалтӀи-хӀалтӀи ракӀаралъул бищунго кӀвархӀараб жо гьеб буго. Гьеб жеги гӀемераб буго, бокьараб амалалда гьабулеб гьечӀо, кӀиябго киналъухъги къо рахатго гьабизе кумек гьабулел тӀоцебесел нухал руго.
 
-## Why does someone with dementia ask the same question over and over?
+## Деменциягун инсанас щиб цо гьаб хӀалтӀи хӀалтӀи-хӀалтӀи гьабулеб?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Бищунго ракӀалъулъ гьелъин. Деменциялда гьоркьохъаб ракӀалъул хӀакъалъулъ мугьуб гьабула, гьелъул инсанасда гьеб хӀалтӀи гьабунааниги яги жаваб ракӀанааниги ракӀалъ чӀезе батӀи-батӀулареб. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) гьеб хӀалтӀи гӀемерисел нухазда хӀалтӀи-хӀалтӀи гьаби гӀемерабго, гьелдаса ракӀалде щвезегӀанабго лъугьула.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+ГӀемерисеб мехалъ хӀалтӀиялда хадуб рекӀел-ракъа букӀула. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) лъугьула, такрар гьабулеб хӀалтӀиялъ хӀинкъи, кумекалъе къваригӀи яги рахатлъиялъул ками бихьизе бегьула, инсанас ракӀарехунгӀеб ва лъалареб жо рагьулеб бугин. «Ниж кидан инегӀан?» — гьеб жо батӀи-батӀула «Дун инелъул хӀинкъулаан» абуниги. Ялъуни, хириялъи, гъугъа ва къокъаб къагӀидаялъул хисизабиги гьеб бахъизе бегьула, гьединго такрар гьабулеб хӀалтӀиялъ бажари бихьизе бегьула, масала туалеталде ине кколеб ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Дун щиб абизе бугеб?
 
-Answer calmly and briefly, as if it were the first time.
+ТӀоцебесебго, къокъабго жаваб кье, тӀоцебесеб нухалъ гьабулеб куцалъ.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Жаваб къокъабго, цого гьабго гьабе.** «Тохтар кӀи сагӀаталда буго. Дун нужедаца вуго.» Цого гьаб жаваб къваригӀи рахатго буго.
+- **РекӀел-ракъдалъухъ жаваб кье.** «Мун тохтаралъул хӀакъалъухъ пикру гьабула. Гьеб жакъасехун буго, дун нижги нуцӀа. Дуе щибги гьабизе кколаро.»
+- **Рахатаб гьаракь ва гӀодобе кверчӀвай хӀалтӀизабе,** гьезда гьеб бокьулеб батани. Alzheimer's Association тӀоцеб лъугьине ва логика хӀалтӀизабизегӀан яги нух бацӀцӀинегӀан лъазабула.
+- **Гьезда рагьулеб жаваб кье,** кӀаниги къваригӀун батани. Alzheimer's Association лъугьула, гьез хӀалтӀи гьабулеб кутакабго жаваб такрар гьабизе.
 
-## What should I avoid?
+## Щиб гьабизегӀан?"
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **«Мун гьеб дие цебего гьабана.»** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) лъугьула, гьезда гьабсагӀат хӀалтӀи гьабун букӀанаан биччазегӀан. Гьелъ гьезда ракӀалъ чӀезе кумек гьабизе кӀоларо, гъорлъе бахъинабизе гӀадин лъазе бегьула.
+- **Халатал лъугьа-бахъинал.** РагӀи цӀикӀкӀун ругониги, гьелъухъ чӀезабизе жеги цӀикӀкӀун буго.
+- **АхӀдола гьаби, беразулъул иши яги кӀудияб гьаракь.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) гьоркьохлъиялъе ва рищалъи бихьизегӀан лъазабула. Гьеб захӀматаб буго; гъоркьехун хӀалтӀизе кколел нухалъул хӀакъалъухъ балагье.
 
-## Simple tools that answer the question for you
+## Нужеца жаваб кьолел гӀадатал алатал
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Инсанас цӀализе жеги кӀолеб мехалъ, гьезда бихьулеб хъвараб жаваб, рагьараб рагӀалдаса, гӀемерисеб мехалъ лъикӀго кумек гьабула.
 
-| Tool | How to use it |
+| Алат | Кин хӀалтӀизабизе бугеб |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| ЧӀахӀияз хӀарпазда хъвараб хъвай-хъвагӀай | «Жакъа тохтар кӀи сагӀаталда. Мариялъ нуцӀа.» Гьез гӀемерисеб мехалъ балагьулеб бакӀалда чӀезабе |
+| ХъахӀаб тахта | Жакъасеб жо лъабго яги ункъого мухъалда; щибаб къого чӀвазе, цӀиябго хъвазе |
+| Къоялъул ва заманалъул къадаргун чӀахӀияб сагӀат | «Жакъа щиб къо бугеб?» ва «Заман батана иш?» абурал хӀалтӀазухъ кумек гьабула |
+| Календар | Щибаб къо чӀвачӀого гьабе; хадусеб вахъине горде гьабе |
+| Лъаларел суратал | Инеб бугеб инсанасул сураталъ «ЛъикӀ щив вугев?» абураб хӀалтӀиялъе жаваб кьезе бегьула |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Гьел идеябал [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ва [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) кьун руго. «Дун мунго хъвабун вукӀана» абун гуреб, рахатго хъвай-хъвагӀаялде биччазе («Тахта цадахъ балагьила»).
 
-## Tell them about events close to the time
+## Лъалхъазул хӀакъалъухъ заман букӀанигӀан лъазабе
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Встречаялъул яги цебехун инелъул хӀакъалъухъ кӀиялго къоялда цебе лъазабиялдалъун, хӀинкъиялъул хӀалтӀаби сагӀатзазде сверун ратизе бегьула. Family Caregiver Alliance-ги, Alzheimer's Los Angeles-ги жеги лъазабула, планазул хӀакъалъухъ, бахьизе, захӀматаб лъалхъазул хӀакъалъухъ — масала тохтаралде ине яги чурхун вачӀине — гьел гьабизе ругел заманалда цохӀо цебе лъазабизе. Хадуб, цо-цо къадамалда, хадусеб щиб лъугьинебиги бихьизабе.
 
-## Activities that can shift attention
+## Пикру сверизабизе бегьулел гӀемерал
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Жаваб кьун, рекӀел-ракъалъухъ пикру кьун хадуб, рахатаб, рокьулеб гӀемералъ кумек гьабизе бегьула, бахьизе хӀалтӀабазул гьоркьохъялъуни. ТӀад лъугьараб щибаб мицӀиги лъазабула, инсанас рокьулеб жоялде пикру сверизабизе.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Цадахъ гьабулеб къокъаб хӀай.** [Picture pairs](/games/picture-pairs/) суратал бербала чӀвала, гьелъул щибги ракӀалда чӀезабизе кколаро.
+2. **Лъалареб хӀалтӀи.** ТӀалабазул кучӀдул рацӀцӀи, носкиял рати, стол хӀадур гьаби. [Sort together](/games/sort-together/) гьеб экраналда гьабулеб куц буго.
+3. **Гьезда рокьулеб жоялъул хӀакъалъухъ гьоркьоб лъугьай.** [Conversation cards](/games/conversation-cards/) битӀараб жаваб гьечӀел рагӀаразде ругьун гьабулел хӀалтӀаби кьола.
+4. **КечӀ, гьуинлъи яги бакьулъи.** National Institute on Aging гьел пикру сверизабизел гӀадатал нухазда лъугьула.
+5. **ТӀоцебесеб хӀалтӀи.** Цадахъ къанхъе, гордулда балагье, яги цадахъ [calm breathing](/games/calm-breathing/) гьабе.
 
-If they return to the question, answer it again, kindly. That is fine.
+Гьезда гьеб хӀалтӀиялде тӀадруссун инеб батани, цӀидасан жаваб кье, рахатго. Гьеб лъикӀ буго.
 
-## Look for patterns
+## КъагӀида ралагье
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association лъазабула, хӀалтӀаби къоялъул батӀи-батӀияб заманалда, батӀи-батӀиял гӀадамалда гьоркьох яги батӀи-батӀияб бакӀалда гьабулелиги балагьизе. Гьел гьоркӀкӀохъелал рачӀунел мехалъ цебе яги ахӀи-кахӀиялда гьоркьох байбихьулеб батани, цебехун хӀадурлъизе бегьула: гьоркӀкӀохъелазул хӀакъалъухъ хъвай-хъвагӀай, лъалареб гӀемер хӀадураб, тӀоцебесеб бакӀ. Сорол ахӀи-кахӀи бищунго захӀматаб букӀун батани, нижер [ахӀи-кахӀиялъул рахатаб гӀемеразул хӀакъалъухъ нух-мехалъул](/caregiving/late-day-restlessness/) кумек гьабизе буго.
 
-## Take care of yourself
+## Живго жиндир хал гьабе
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Цо гьаб хӀалтӀиялъе кӀудиябго нухалъ жаваб кьей кӀвархӀабула. Гьоркьохлъиялъул ками лъугьунгутӀизе байбихьулеб мехалъ, инсанасда лъугьун чӀого букӀун батани, [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) лъазабулеб куцалъ, анцӀила минуталъе батӀияб рукъалде ине ва ахӀи гьабе. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) хал гьабулезе кумек къваригӀизе ва хӀалтӀи гьабулеб заманалда цохӀо пикру гьабизе ругьун гьабула. ЦӀидасан идеябал нижер [хал гьабулезе жинцаго хал гьабиялъул](/caregiving/caregiver-self-care/) рахъалда руго.
 
-## When should I call a doctor?
+## Кидан тохтарасе ахӀизе бугеб?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+ХӀалтӀаби, валалъулги яги гӀамалазулги хисизаби тӀоцебесебго гьабулеб мехалъ яги сагӀатзазда яги къоязда кӀудиябго бетӀерлъулеб мехалъ, гьезда тохтар цӀикӀкӀун ахӀе. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) лъугьула, тӀоцебесел яги хехал хисулел гӀамал, бахьизе инфекциялда хадуб яги дару хисизабулелъул хадуб, хехго тохтаралда бихьизабизе. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) лъугьула, инфекция, даруял, гьиниялъул ками, унти яги релъин гьечӀого делириум гьаризе бегьула — гьеб хехго кумек къваригӀунеб тӀоцебесеб, кӀудияб чӀагоялъул хисизаби буго. ЛъикӀ щибниги хӀинкъиялда букӀун батани, 112 ахӀе.

@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Gweithgareddau i Ddynion â Dementia"
+seoTitle: "Gweithgareddau i Ddynion â Dementia: Syniadau Bywyd Go Iawn"
+description: "Syniadau gweithgareddau i ddynion sy'n byw gyda dementia, yn seiliedig ar waith, diddordebau ac arferion y gorffennol, gyda chyngor ar eu haddasu'n ddiogel."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Daw'r gweithgareddau gorau i ddyn sy'n byw gyda dementia o'i fywyd ei hun:
+  y gwaith a wnaeth, y diddordebau yr oedd yn eu caru a'r arferion dyddiol a
+  gadwodd. Efallai y bydd cyn-weithiwr swyddfa yn mwynhau trefnu papurau, gall
+  mecanydd fwynhau trin offer glân, a gall cefnogwr chwaraeon fwynhau hen gêm.
+  Mae diddordebau'n amrywio o ddyn i ddyn, felly dechreuwch gyda'r person, nid
+  gyda'i rywedd.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Dechreuwch gyda hanes y dyn hwn: ei swydd, ei ddiddordebau, ei arferion a'r pethau yr oedd yn falch ohonynt."
+  - "Yn aml, mae tasgau sydd â phwrpas go iawn, fel trefnu caledwedd, golchi'r car neu lyfnu pren, yn apelio'n fwy na gweithgareddau sy'n teimlo fel dosbarth."
+  - "Nid yw pob dyn yn hoffi offer na chwaraeon. Mae llawer yn mwynhau coginio, cerddoriaeth, garddio, celf neu ofalu am eraill. Gofynnwch, sylwch, a dilynwch ei arweiniad."
+  - "Gwnewch dasgau sy'n debyg i waith yn ddiogel drwy dynnu offer miniog a goruchwylio, a'u symleiddio wrth i alluoedd newid."
+  - "Mae cael dweud na yn iawn. Cynigiwch rôl, nid aseiniad, a cheisiwch eto ddiwrnod arall."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Pa weithgareddau mae dynion â dementia yn eu mwynhau?"
+    a: "Does dim un rhestr, oherwydd mae diddordebau dynion yn amrywio cymaint ag unrhyw un arall. Mae mannau cychwyn da yn cynnwys tasgau sy'n gysylltiedig â'i waith yn y gorffennol, fel trefnu papurau neu ddidoli cnau a bolltau, ynghyd â diddordebau yr oedd yn eu caru, fel pysgota, ceir, cerddoriaeth, coginio neu chwaraeon. Sylwch ar yr hyn y mae'n ei wneud ar ei liwt ei hun ac adeiladwch ar hynny."
+  - q: "Mae fy nhad yn gwrthod gweithgareddau grŵp. Beth alla i ei wneud?"
+    a: "Mae llawer o bobl, dynion a menywod fel ei gilydd, yn gwrthod gweithgareddau sy'n teimlo fel dosbarth neu sy'n ymddangos yn blentynnaidd. Rhowch gynnig ar gynnig swydd yn lle hynny: 'Alli di helpu fi i drefnu'r rhain?' Gall grwpiau llai neu amser un i un hefyd deimlo'n fwy cyfforddus nag ystafell fawr."
+  - q: "A yw'n ddiogel gadael iddo ddefnyddio offer?"
+    a: "Dim ond gyda goruchwyliaeth ac offer diogel. Tynnwch offer pŵer, llafnau ac unrhyw beth miniog, a chynigiwch dasgau fel lyfnu bloc o bren, trefnu caledwedd glân, neu dynhau bolltau mawr â llaw. Mae Cymdeithas Alzheimer yn awgrymu tynnu eitemau peryglus o weithdy fel bod tasg fel llyfnu yn dal i fod yn rhywbeth y gellir ei fwynhau'n ddiogel."
+  - q: "Roedd yn weithiwr proffesiynol. A fydd tasgau syml yn teimlo'n sarhaus?"
+    a: "Gallant, os cânt eu cyflwyno fel gwaith diangen. Cyflwynwch y dasg fel cymorth go iawn, defnyddiwch ddeunyddiau i oedolion, a dewiswch rywbeth sy'n agos at ei hen rôl, fel adolygu rhestr, trefnu ffeil neu helpu i baratoi postiad. Os oedd yn fedrus iawn mewn rhywbeth, gall gweithgaredd cysylltiedig ond gwahanol deimlo'n llai fel cymhariaeth."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Mae pobl yn aml yn chwilio am "weithgareddau i ddynion â dementia" oherwydd nad yw'r awgrymiadau arferol i'w gweld yn addas i'r dyn yn eu bywyd. Mae hynny'n bryder teg. Ond nid rhestr o weithgareddau "gwrywaidd" yw'r ateb. Y peth pwysig yw dechrau gyda'r dyn penodol hwn: beth roedd yn ei wneud am fywoliaeth, beth roedd yn ei wneud ar benwythnosau, a beth oedd yn gwneud iddo deimlo'n ddefnyddiol. Mae diddordebau'n amrywio i bawb. Mae llawer o ddynion wrth eu bodd yn coginio, garddio, peintio neu ganu, ac mae llawer o fenywod wrth eu bodd gyda cheir a phêl-fas.
 
-## How do I find activities he will actually enjoy?
+## Sut alla i ddod o hyd i weithgareddau y bydd yn eu mwynhau go iawn?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Dechreuwch gyda stori ei fywyd. Mae Cymdeithas Alzheimer yn awgrymu adeiladu [cynllun dyddiol](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) o amgylch hoff bethau, cas bethau, cryfderau a diddordebau'r person, ac o amgylch sut roedd yn arfer trefnu ei ddiwrnod. Gofynnwch i chi'ch hun:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Beth oedd ei waith?** Swyddfa, fferm, ffatri, crefft, y lluoedd arfog, gwerthu, addysgu, gyrru, y cartref?
+- **Beth oedd yn ei wneud yn ei amser hamdden?** Pysgota, cardiau, gwaith coed, chwaraeon, eglwys, cerddoriaeth, coginio, car yn y garej?
+- **Beth oedd ei arferion?** Coffi a'r papur bob bore? Gwirio'r tywydd? Golchi'r car ar ddydd Sadwrn?
+- **Beth mae'n dal i'w ddechrau ar ei liwt ei hun?** Mae'r Gymdeithas yn nodi, os yw person yn dechrau tasgau heb gael cais, fel ysgubo'r llawr, gall y tasgau hynny ddod yn rhan o'r drefn.
+- **Beth mae'n ei osgoi?** Mae rhai pobl yn mwynhau gwylio chwaraeon; mae eraill yn ei chael hi'n gythryblus oherwydd y cyflymder a'r sŵn. Sylwch pryd mae'n ymddangos yn hapus, yn bryderus neu'n bigog.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Siaradwch â theulu a hen ffrindiau hefyd. Efallai y byddant yn cofio diddordebau sydd wedi pylu o fywyd bob dydd.
 
-## Activity ideas based on past work
+## Syniadau gweithgareddau yn seiliedig ar waith yn y gorffennol
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Mae Cymdeithas Alzheimer yn rhoi enghraifft glir: efallai y bydd cyn-weithiwr swyddfa yn mwynhau tasgau trefnu, fel rhoi darnau arian mewn daliwr, helpu i baratoi postiad neu wneud rhestr o bethau i'w gwneud, tra gallai cyn-ffermwr neu arddwr fwynhau gweithio yn yr iard. Mae'r un syniad yn berthnasol i lawer o swyddi.
 
-| Past work | Activity ideas | Simpler version |
+| Gwaith yn y gorffennol | Syniadau gweithgareddau | Fersiwn symlach |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Swyddfa neu fusnes | Trefnu papurau mewn ffolderi, stampio amlenni, adolygu rhestr, trefnu drôr desg | Pentyrru amlenni; rhoi clipiau papur mewn bocs |
+| Crefftau neu fecaneg | Trefnu cnau, bolltau a golchwyr glân; tynhau bolltau mawr â llaw; edrych ar gatalogau offer | Trefnu yn ôl maint i ddau gwpan |
+| Ffermio neu dirweddu | Dyfrio, potio planhigion, rhacio dail, edrych ar yr ardd | Eistedd y tu allan tra byddwch chi'n gweithio; dal pecynnau hadau |
+| Y lluoedd arfog | Sgleinio esgidiau, trefnu drôr, edrych ar luniau o'i gyfnod yn y gwasanaeth os yw'n eu mwynhau | Gwrando ar gerddoriaeth o'r cyfnod hwnnw |
+| Gwerthu neu wasanaeth cwsmeriaid | Cyfarch ymwelwyr, rhoi byrbrydau allan, trefnu cwponau | Eistedd wrth y drws i ddweud helo |
+| Addysgu | Darllen yn uchel, trefnu llyfrau, trefnu lluniau yn ôl thema | Edrych drwy lyfr lluniau gyda'ch gilydd |
+| Gyrru neu gludiant | Edrych ar fapiau neu hen gylchgronau ceir, golchi'r car | Gwylio ceir yn mynd heibio o'r cyntedd |
+| Cartref a theulu | Plygu dillad golchi, gosod y bwrdd, helpu gyda swper | Llyfnhau napcynau; troi cymysgedd |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Gall rhai atgofion, fel gwasanaeth milwrol, godi teimladau cryf. Dilynwch ei arweiniad, cadwch y sgwrs am y gorffennol yn bositif, a newidiwch y pwnc yn dyner os yw'n ymddangos yn ofidus.
 
-## Activity ideas based on hobbies
+## Syniadau gweithgareddau yn seiliedig ar ddiddordebau
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Gwaith coed.** Llyfnu bloc llyfn o bren neu baentio pecyn tŷ adar. Mae Cymdeithas Alzheimer yn awgrymu tynnu deunyddiau ac offer peryglus o'r gweithdy fel bod gweithgaredd fel llyfnu yn gallu bod yn bleserus ac yn ddiogel.
+2. **Pysgota.** Trefnu blwch offer pysgota heb y bachau, edrych drwy gylchgronau pysgota, neu eistedd gyda'ch gilydd wrth bwll.
+3. **Ceir.** Golchi'r car, sgleinio crom, edrych ar luniau o geir clasurol, neu fynd am daith yn y car fel teithiwr.
+4. **Chwaraeon.** Gwylio hen gêm neu uchafbwyntiau, taflu pêl feddal, rhoi peli golff ar garped, neu drefnu cardiau pêl-fas.
+5. **Cardiau a gemau.** Llaw syml o gêm gardiau gyfarwydd, dominos, neu droi cardiau i ddod o hyd i bâr. Cadwch bethau'n hamddenol a pheidiwch â chadw sgôr.
+6. **Cerddoriaeth.** Caneuon o'i arddegau a'i ugeiniau, hoff fand, neu emyn. Gweler ein [canllaw gweithgareddau cerddoriaeth](/activities/music/).
+7. **Coginio a grilio.** Golchi llysiau, troi saws, siapio byrgyrs, neu ddisgrifio sut roedd yn gwneud ei tsiili enwog tra byddwch chi'n ei goginio.
+8. **Y papur newydd.** Mae Cymdeithas Alzheimer yn nodi y gall person a oedd bob amser yn darllen y papur barhau i fwynhau gwneud hynny, hyd yn oed os na all ddilyn y cynnwys yn llawn. Gall coffi a'r papur aros yn rhan o'r bore.
+9. **Adeiladu.** Pecynnau model â darnau mawr neu setiau adeiladu syml i oedolion. Dewiswch ddarnau sy'n hawdd eu gafael.
+10. **Gofalu am rywbeth.** Bwydo anifail anwes, llenwi'r bwydwr adar, neu ddyfrio planhigion. Mae'r NIA yn rhestru [bwydo, trin neu fynd â anifail anwes am dro](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ymhlith gweithgareddau y gall pobl eu mwynhau.
 
-## How do I offer an activity without it feeling like busywork?
+## Sut alla i gynnig gweithgaredd heb iddo deimlo fel gwaith diangen?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Cyflwynwch ef fel cymorth go iawn. Mae Cymdeithas Alzheimer yn awgrymu gofyn "Alli di fy helpu, os gweli di'n dda?" a chysylltu tasgau â phwrpas. Cymharwch:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "Wyt ti eisiau trefnu'r bolltau hyn?" (yn swnio fel prawf)
+- "Prynais i fag cymysg o galedwedd ac mae angen i mi eu trefnu cyn trwsio'r silff. Alli di roi help llaw i mi?" (yn swnio fel swydd)
 
-Other tips:
+Awgrymiadau eraill:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Defnyddiwch ddeunyddiadau i oedolion.** Offer go iawn heb ymylon miniog, catalogau go iawn, amlenni go iawn.
+- **Gweithiwch ochr yn ochr.** Mae dau berson yn gweithio ar swydd gyda'i gilydd yn gwmni. Mae un person yn gwylio'r llall yn oruchwyliaeth.
+- **Peidiwch â chywiro.** Os yw bolltau'n mynd i'r cwpan anghywir, gadewch iddo fod. Yr hyn sy'n bwysig yw'r amser gyda'ch gilydd a'r teimlad o fod yn ddefnyddiol.
+- **Helpwch ef i ddechrau.** Mae Cymdeithas Alzheimer yn nodi bod llawer o bobl yn dal i fod eisiau gwneud pethau ond yn ei chael hi'n anodd trefnu a dechrau. Gwnewch y cyntaf gyda'ch gilydd.
 
-## How do I adapt as things change?
+## Sut alla i addasu wrth i bethau newid?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Wrth i dementia ddatblygu, mae Cymdeithas Alzheimer yn awgrymu cyflwyno tasgau symlach, mwy ailadroddus a bod yn barod i'r person gymryd rôl lai gweithredol. Efallai y bydd dyn a oedd unwaith yn ailadeiladu injans bellach yn mwynhau dal wrench glân a siarad am geir, neu eich gwylio chi'n gweithio. Mae gwylio yn ffordd o gymryd rhan.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Os oedd yn fedrus iawn mewn rhywbeth, gall gweithgaredd cysylltiedig deimlo'n well na'i hen grefft. Mae'r Gymdeithas yn nodi y gallai artist proffesiynol deimlo'n rhwystredig oherwydd newidiadau yn ei waith, tra gallai rhywun amatur fwynhau ffordd newydd o fynegi ei hun. Mae'r un peth yn wir am saer coed medrus.
 
-## Safety with work-style tasks
+## Diogelwch gyda thasgau sy'n debyg i waith
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Tynnwch offer pŵer, llafnau, hoelion a sgriwiau gyda blaenau miniog.
+- Rhowch deneuwydd paent, petrol a chemegion dan glo.
+- Cadwch allweddi'r car o'r golwg os nad yw'n gyrru mwyach.
+- Goruchwyliwch bob tasg yn y gweithdy a'r iard.
+- Dewiswch ddarnau mawr na ellir eu llyncu.
 
-## What if he says no?
+## Beth os yw'n dweud na?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Parchwch hynny. Gall na olygu bod y dasg yn teimlo'n rhy anodd, yn rhy blentynnaidd neu ddim yn iawn heddiw. Mae Cymdeithas Alzheimer yn rhybuddio i beidio â gorfodi. Rhowch gynnig ar dasg wahanol, amser gwahanol, neu eisteddwch gyda'ch gilydd. Gweler [beth i'w wneud pan fydd yn dweud na](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Gemau a sgwrs sy'n addas
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+Mae [Finish the Saying](/games/finish-the-saying/) yn defnyddio dywediadau cyfarwydd ac yn arwain at sgwrs. Mae gan [Conversation Cards](/games/conversation-cards/) gwestiynau agored, heb gwis, yn ôl thema, a all agor straeon am waith a diddordebau. Mae [Picture Puzzle](/games/picture-puzzle/) yn cadw'r llun cyfan i'w weld tra byddwch chi'n cyfnewid darnau, a gellir argraffu'r [Word Search](/games/word-search/) print bras a'i wneud gyda beiro wrth fwrdd y gegin. Am ffyrdd o siarad am ei orffennol heb ei brofi, gweler ein [canllaw hel atgofion](/activities/reminiscence/).

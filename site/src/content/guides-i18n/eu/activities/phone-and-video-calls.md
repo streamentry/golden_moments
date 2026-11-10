@@ -1,34 +1,36 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Telefono- eta bideo-deiak dementzia duen norbaitentzat"
+seoTitle: "Bideo-deien jarduerak dementziarako"
+description: "Bideo-deietarako eta telefonorako jarduerak dementzia duen norbaiten senideentzat: erakutsi eta kontatu, ozen irakurri, abestu, pantaila partekatuko jolasak eta laguntzaileentzako aholkuak."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Dementzia duen pertsona batekin egindako deiek hobeto funtzionatzen dute
+  laburrak, erregularrak eta elkarrekin zerbait egiteko asmoz antolatzen
+  direnean; adibidez, maskota edo lorategia erakustea, argazkiak elkarrekin
+  begiratzea, ozen irakurtzea, gogoko abesti bat abestea edo jolas lasai bat
+  pantaila partekatuan jokatzea. Deitu egunero ordu berean, ahal baduzu,
+  mantendu aldi berean pertsona bakarra hizketan, eta eskatu bertan dagoen
+  norbaiti laguntzeko.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Jarduera batek deiari egitura ematen dio eta elkarrizketaren presioa arintzen du. Antolatu partekatzeko gauza sinple bat."
+  - "Dei labur eta erregularrak, eguneko ordu berean egindakoak, askotan hobeto funtzionatzen dute dei luze eta noizbehinkakoak baino."
+  - "Aldi berean pertsona batek hitz egiten du. Elkarrizketa gurutzatuak dituzten talde-deiak zailak dira jarraitzeko, batez ere entzumen-arazoak daudenean."
+  - "Bertan dagoen laguntzaile batek gailua prestatu, pertsonaren ondoan eseri eta edozein jolas edo argazkitarako «eskuak» izan daitezke."
+  - "Dei bat gaur ondo ateratzen ez bada, amaitu modu atseginean. Bihar berriro saiatzea ondo dago."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Zer egin dezaket bideo-dei batean dementzia duen norbaitekin?"
+    a: "Antolatu jarduera sinple bat: erakutsi zure lorategia, maskota edo sukaldea; begiratu argazki zaharrak elkarrekin; irakurri ozen poema edo gutun labur bat; abestu maite duen abesti bat; prestatu errezeta bera aldi berean; edo jokatu irudi-jolas lasai bat pantaila partekatuan. Jarduerek deiari ardatz bat ematen diote, pertsonak ez dezan elkarrizketa eraman behar."
+  - q: "Zenbat iraun beharko luke bideo-dei batek?"
+    a: "Normalean uste duzuna baino gutxiago. Minutu atsegin batzuk nahikoa izan daitezke, batez ere pertsona azkar nekatzen bada. Egunero ordu berean deitzea askotan garrantzitsuagoa izan daiteke dei bakoitzak zenbat irauten duen baino."
+  - q: "Zer gertatzen da bideo-deiekin nahastu edo ezinegon hartzen badu?"
+    a: "Pertsona batzuei nahasgarria iruditzen zaie aurpegi bat pantailan ikustea. Saiatu telefono-dei arrunt batekin, laguntzaileak une lasai batean jar dezakeen grabatutako bideo-mezu batekin, edo postaz bidalitako txartel eta argazkiekin. Dei bat gaizki ateratzen bada, amaitu adeitasunez eta saiatu berriro beste egun batean edo beste ordu batean."
+  - q: "Nola lagun diezaioket amari bideo-dei bat egiten, telefonoa erabiltzen ez badaki?"
+    a: "Eskatu senideren bati, etxeko laguntzaile bati edo egoitzako langile bati deia hasteko eta gailua eusteko edo bermatzeko. Zaintza-ingurune askok familiei bideo-deietan laguntzen diete; beraz, galdetu zer eskaintzen duten. Euskarri batean jarritako tableta bat, pantaila handiarekin eta ondo entzuteko moduko bolumenarekin, errazagoa da guztientzat."
+  - q: "Elkarrekin jolas dezakegu bideoz?"
+    a: "Bai. Modurik errazena pertsona batek bideo-aplikazioan pantaila partekatzea da, besteak zein irudi ukitu esaten dion bitartean. Edo bertan dagoen laguntzaileak jolas bera ireki dezake tabletan eta pertsonaren ordez ukitu, zuk hitzez gidatzen duzun bitartean. Aukeratu tenporizadorerik edo puntuaziorik gabeko jolasak."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +52,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Dementzia duen norbaitengandik urrun bizitzeak ezinegon handia sor dezake. Telefono- eta bideo-deiek ez dute besarkada bat ordezkatuko, baina oraindik ere lotura-une errealak ekar ditzakete ondo prestatzen badira. Gakoa da ohiko eguneroko elkarrizketa bat izaten saiatzea utzi eta, horren ordez, elkarrekin partekatzeko zerbait sinplea antolatzea. Orrialde honetan bideoz eta telefonoz ondo funtzionatzen duten jarduerak azalduko ditugu, deia nola prestatu, eta bertan dagoen pertsonak nola lagun dezakeen.
 
-## Why plan an activity for a call?
+## Zergatik antolatu jarduera bat dei baterako?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Jarduera batek deiari egitura ematen dio. «Zer moduz zaude? Zer egin duzu gaur?» galdetzeak pertsonari gogoratzea eta kontatzea eskatzen dio, eta hori zaila eta estresagarria izan daiteke. «Begira, tomateak heldu dira» esateak, berriz, ez dio ezer eskatzen.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association elkarteak adierazi du talde handiekin bideoz egindako elkarrizketak zailak izan daitezkeela, eta [deiari egitura ematea](https://www.alz.org/help-support/caregiving/holidays) iradokitzen du, adibidez abestiak abestuz edo irudiak partekatuz.
 
-## What activities work on a video call?
+## Zein jarduerak funtzionatzen dute bideo-dei batean?
 
-### Show and tell
+### Erakutsi eta kontatu
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Eraman zure mundua haiengana. Mugitu kamera poliki zure lorategian zehar, aurkeztu txakurra, erakutsi zer prestatzen ari zaren, erakutsi biloba baten marrazkia edo zuzendu telefonoa leihotik elurrera. Deskribatu ikusten duzuna hitz sinpleekin eta utzi tarteak erreakzionatzeko. Ez da galderarik egin behar.
 
-### Look at photos together
+### Begiratu argazkiak elkarrekin
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Eutsi argazki inprimatu zahar bati kameraren aurrean, edo partekatu pantaila argazki handi batzuk banan-banan erakusteko. Hitz egin antzematen duzunaz: «Begira aitonaren kapela». Saihestu «Nor da hau?» edo «Gogoratzen zara?» bezalako galderak. Pertsonak norbait gaizki izendatzen badu, jarraitu hari. Begiratu gure [oroitzapenei buruzko gida](/activities/reminiscence/) galdera leunetarako.
 
-### Read aloud
+### Irakurri ozen
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Irakurri ozen poema labur bat, salmo bat, haurrentzako liburu gogoko bat dei berean dagoen biloba bati, senide baten gutun bat, edo maite zuen liburu bateko orrialde bat. Ozen irakurtzeak zerbait lasaia eskaintzen dio pertsonari entzuteko, erantzun beharrik gabe.
 
-### Sing or listen to music together
+### Abestu edo entzun musika elkarrekin
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Abestu ondo ezagutzen duen abesti bat, edo jarri zure aldetik gogoko disko bat. Askori errazagoa zaie abestea hitz egitea baino. Begiratu gure [musika-jardueren gida](/activities/music/).
 
-### Cook or bake at the same time
+### Sukaldatu edo gozogintza egin aldi berean
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association elkarteak iradokitzen du bideo-dei bat antolatzea errezeta berezi bat elkarrekin prestatzeko edo labean egiteko. Prestatu deia bi sukaldeetan. Bertan dagoen pertsonak nahastu edo dastatu dezake, zuk haren errezeta-txartel zaharrari jarraitzen diozun bitartean.
 
-### Watch something together
+### Ikusi zerbait elkarrekin
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Elkarteak ere iradokitzen du gogoko film bat aldi berean ikustea etxe banatatik, telefonoz edo bideoz hitz egiten duzun bitartean. Dementzia duen norbaitentzat, klip labur batek, telebistako atal zahar batek edo kirol-partida batek hobeto funtziona dezake film oso batek baino.
 
-### Play a gentle game on a shared screen
+### Jokatu jolas lasai bat pantaila partekatuan
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Bideo-dei aplikazio askok pantaila partekatzeko aukera ematen dute. Zuk jokoa ireki eta ukitu egiten duzu; pertsonak esaten dizu edo adierazten dizu zein irudi aukeratu. Edo bertan dagoen laguntzaileak jolas bera ireki dezake tabletan eta haren ordez ukitu, zuk berarekin hitz egiten duzun bitartean.
 
-Games that work well this way:
+Horrela ondo funtzionatzen duten jolasak:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Esaldia osatu](/games/finish-the-saying/):** zuk esaera ezaguna irakurtzen duzu, pertsonak amaiera esaten du, eta ondoren ahozko laguntza bat dator.
+- **[Irudi bikoteak](/games/picture-pairs/):** irudi handiekin parekatzeko jolas lasaia; irudiak ikusgai gera daitezke, tenporizadorerik eta puntuaziorik gabe.
+- **[Elkarrizketa-txartelak](/games/conversation-cards/):** irudi bat eta elkarrekin hitz egiteko galdera ireki bat.
+- **[Argazki bikoteak](/games/photo-pairs/):** zuk zure gailuan aukeratutako argazkiekin egindako parekatze-jolasa. Argazkiak zure nabigatzailean geratzen dira, eta pertsonak zure pantaila partekatuan ikusten ditu.
 
-### Recorded messages
+### Grabatutako mezuak
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Zuzeneko deiak zailak direnean, grabatu bideo labur bat: agur bat, abesti bat, zure lorategian ibilaldi bat. Laguntzaileak une lasai batean jar dezake, pertsonak gozatzen duen aldi guztietan. Alzheimer's Association elkarteak aipatzen du une bereziak grabatu eta bidaltzea, adibidez haurrak opariak irekitzen.
 
-## What about plain phone calls?
+## Eta telefono-dei arruntak?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Telefono-deiek oraindik ere garrantzia dute. Dementia Australia erakundeak iradokitzen du [egunero ordu berean deitzea](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) eta ez presarik egitea, dementzia duten pertsonek denbora behar baitute parte hartzeko. Telefonoz:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Esan zure izena eta harremana hasieratik: «Kaixo aita, Jenny naiz, zure alaba».
+- Hitz egin poliki, esaldi laburretan, aldi bakoitzean ideia bat.
+- Eman berriak eskatu beharrean: «Bart gauean zure erregosi-errezeta prestatu nuen».
+- Irakurri poema labur bat, edo abestu gogoko abesti baten bertso bat.
+- Mantendu laburra eta amaitu modu beroan.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia erakundeak ere adierazten du bideo-deiek lagun dezaketela hitz egitea zailagoa denean, pertsonak zure aurpegia ikus dezakeelako. Telefono-deiak nahasgarriak bihurtzen badira, saiatu bideoz, edo alderantziz.
 
-## How do I set up a video call that works?
+## Nola prestatu ondo funtzionatzen duen bideo-dei bat?
 
-**Before the call:**
+**Deiaren aurretik:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Aukeratu ordu erregular bat**, pertsona normalean atseden hartuta egoten den unea, eta mantendu. Ohiturak laguntzen du.
+2. **Koordinatu bertan dagoen laguntzailearekin.** Aurreko egunean mezu bat bidaltzeak planifikatzen laguntzen dio.
+3. **Egiaztatu gailua.** Euskarri batean jarritako tableta bat errazagoa da eskutan eutsitako telefono bat baino. Ziurtatu kargatuta dagoela, pantaila argia dela eta soinua nahikoa ozen entzuten dela. Aktibatu azpitituluak, aplikazioak eskaintzen baditu eta pertsonak ondo irakurtzen badu.
+4. **Antolatu jarduera bat** eta eduki dena prest.
 
-**During the call:**
+**Deian zehar:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Eseri kameratik gertu**, argi onean, leihora begira eta ez leihoa bizkarrean duzula.
+- **Aurkeztu zure burua** aldi bakoitzean, izenaz eta harremanaz.
+- **Aldi berean ahots bat.** Alzheimer's Association elkarteak adierazten du elkarrizketa gurutzatuak zailak direla dementzia duten pertsonentzat eta entzumen-arazoak dituztenentzat. Hainbat senide batzen badira, txandakatu edo mantendu bi edo hiru pertsonatan.
+- **Egin galdera bat aldi bakoitzean.** Family Caregiver Alliance erakundeak iradokitzen du [galdera sinpleak egitea, bai edo ez erantzuteko modukoak](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), eta aukerak erakustea ahal denean.
+- **Utzi etenaldi luzeak.** Itxaron erantzuna. Ondo dago hitz bat iradokitzea bilatzen ari bada.
+- **Erabili aurpegia eta ahotsa.** Irribarre egin, keinuak egin eta mantendu tonu beroa. Adierazkortasunak askotan hitzek baino gehiago esaten du.
+- **Ez zuzendu.** Pertsonak zehatza ez den zerbait esaten badu, utzi horrela.
 
-**Ending the call:**
+**Deia amaitzean:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Amaitu pertsona nekatzen hasi aurretik, ahal bada une on batean.
+- Erabili agur bera aldi bakoitzean: «Bihar bazkaltzeko orduan deituko dizut. Maite zaitut».
+- Ez luzatu.
 
-## Tips for the helper on site
+## Aholkuak bertan dagoen laguntzailearentzat
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Deian laguntzen duen bikotea, laguntzailea, senidea edo langilea bazara, zuk egiten duzu posible.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Prestatu leku lasai bat.** Itzali telebista eta itxi atea.
+- **Hasi deia zuk**, eta ondoren eman tabletari euskarria duela edo eutsi begien parean.
+- **Eseri haren ondoan, ez aurrean.** Zure presentziak lasaitasuna ematen du. Animatu leunki behar izanez gero: «Begira, Jenny da».
+- **Izan eskuak.** Eutsi argazkiak, ukitu jokoa, biratu tableta gela erakusteko.
+- **Adi egon nekea edo ezinegona ikusten baduzu**, eta jakinarazi deitzaileari amaitzeko unea denean.
+- **Esan deitzaileari zer funtzionatu duen.** «Txakurra asko gustatu zaio» esateak hurrengo deia planifikatzen laguntzen du.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA erakundeak iradokitzen du urrun bizi diren senideek pertsona nagusi bati lagun diezaioketela [telefonoaren aukerak ikasten](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), adibidez bideo-deiak. Geroagoko faseetan, normalean laguntzaileak gailua erabat kudeatu beharko du. Ondo dago horrela.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Pertsona egoitza batean bizi bada, Alzheimer's Foundation of America erakundeak iradokitzen du galdetzea zentroak familiei bideo-deietan laguntzen dien. AFAk ere aipatzen du familiek argazkiak truka ditzaketela zentroko langileen bidez, eta gogoko pintxoak edo gauza txiki lasaitzaileak bidal ditzaketela, betiere zentroak zer onartzen duen egiaztatu ondoren.
 
-## What if the call doesn't go well?
+## Zer gertatzen da deia ondo ateratzen ez bada?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Dei batzuk nahasgarriak, lauak edo ezinegona sortzekoak izango dira. Ez da zure errua, eta ez du esan nahi deiak merezi ez dutenik.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Pertsonak pantailarekin nahastuta dirudiela, aldatu telefono-dei batera edo grabatutako mezu batera.
+- Ezinegon hartzen badu, aitortu sentimendua, esan zerbait lasaigarria eta amaitu leunki.
+- Deiek sarritan gaizki funtzionatzen badute eguneko ordu jakin batean, saiatu beste ordu batean.
+- Beste norbait zarela uste badu, jarraitu adeitasunez.
 
-It is fine to end early. A short, warm call is a good outcome.
+Ondo dago lehenago amaitzea. Dei labur eta atsegin bat emaitza ona da.
 
-## Between calls
+## Deien artean
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Mantendu harremana beste modu batzuetan. Dementia Australia erakundeak iradokitzen du txartelak, mezu elektronikoak, argazkiak edo opari txikiak bidaltzea. Astero postal bat bidaltzea, argazki handi batekin eta ohar labur batekin, behin eta berriro irakur daiteke. Inprimatzeko [elkarrizketa-txartelak](/games/conversation-cards/) laguntzaileari bidaltzeak hurrengo deirako gai prest bat eman dezake.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Tableta bat aukeratzeko eta konfiguratzeko aholkuak lortzeko, begiratu [tabletak eta pantailak](/caregiving/tablets-and-screens/). Aurrez aurreko denborarako, begiratu gure [bisitei buruzko gida](/activities/visiting/).

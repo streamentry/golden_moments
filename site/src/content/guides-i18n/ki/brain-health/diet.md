@@ -1,33 +1,35 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Irio cia MIND na Mediterranean na gũkua meciiria"
+seoTitle: "Irio cia MIND na gũkua meciiria: Ũrĩa ũtaũri uugaga"
+description: "Ũrĩa ũtaũri uugaga igũrũ rĩa irio cia MIND na Mediterranean, kĩrĩa kĩgeranio kĩonire, na ũrĩa ũngĩteithia mũndũ ũrĩa ũtũũraga na mĩrimũ ya gũkua meciiria kũrĩa wega."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Ũtaũri ũmwe ũrĩa ũrũmagĩrĩra andũ ihinda iraaya wonanagia atĩ mĩtugo ya kũrĩa
+  ya mũthemba wa Mediterranean na MIND no ĩkoragwo na ũhĩngĩciano na ũhoro wa
+  mũndũ gũkua meciiria, no ti hĩndĩ ciothe. Kĩgeranio kĩmwe kĩa mĩaka ĩtatũ gĩa
+  irio cia MIND, kĩarĩtio 2023, gĩtionire ngũũrani nene ya gwĩciria kana ya
+  mĩhiano ya thikĩrĩrio igũrũ rĩa arĩa maarĩĩaga irio icio na arĩa maarĩĩaga
+  irio ingĩ. Gũtirĩ irio kana ndawa cia kũongerera hinya iria cionanĩtio atĩ
+  nĩ irigagĩrĩria mĩrimũ ya gũkua meciiria. Kũrĩ andũ arĩa matũũraga na mĩrimũ
+  ya gũkua meciiria, kũrĩa na kũnyua maĩ maiganĩire nĩkũo kũrĩ bata makĩria.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Ũtaũri ũmwe, no ti wothe, ũrĩa ũrũmagĩrĩra andũ ihinda iraaya wonanagia atĩ mĩtugo ya kũrĩa ya Mediterranean na MIND no ĩkoragwo na ũhĩngĩciano na ũhoro wa mũndũ gũkua meciiria."
+  - "Thĩinĩ wa kĩgeranio kĩa 2023 kĩa andũ akũrũ 604, arĩa maarĩĩaga irio cia MIND matiekire wega gũkĩra arĩa maarĩĩaga irio ingĩ thĩinĩ wa mageethi ma gwĩciria kana mĩhiano ya thikĩrĩrio thutha wa mĩaka ĩtatũ."
+  - "National Institute on Aging yugaga atĩ gũtirĩ ũira wonanagia atĩ kũrĩa kana kwĩrigĩrĩria irio imwe ciũmbe nĩ kũrigagĩrĩria Alzheimer, na gũtirĩ vitamini kana ndawa cia kũongerera hinya cionanĩtio atĩ nĩ irigagĩrĩria Alzheimer."
+  - "Irio irĩ na mboga nyingĩ, matunda, mboco, ngano itarĩ mĩtherie na thamaki nĩ iteithagia ũgima wa ngoro na no iteithie na mĩtino ta thakame mĩingĩ na mũrimũ wa cukari."
+  - "Kũrĩ andũ arĩa matũũraga na mĩrimũ ya gũkua meciiria, irio cia kũnyiita na guoko, thaani cia rangi mũtiganu, mahinda ma kũrĩa mahooreire na kũnyua maĩ kaingĩ kaingĩ maingĩ nĩ mabata gũkĩra mũtugo ũmwe mũũmbe wa kũrĩa."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Irio cia MIND nĩ irigagĩrĩria gũkua meciiria?"
+    a: "Gũtionanĩtio ũguo. Ũtaũri ũrĩa ũrũmagĩrĩra andũ wonanirie ũhĩngĩciano wa irio cia MIND na ũhoro wa mũndũ gũkua meciiria, no kĩgeranio kĩa mĩaka ĩtatũ kĩarĩtio 2023 gĩtionire ngũũrani nene ya macokio ma mageethi ma gwĩciria kana mĩhiano ya thikĩrĩrio gatagatĩ ka arĩa maarĩĩaga irio cia MIND na arĩa maarĩĩaga irio ingĩ. Ikundi cierĩ nĩ ciakũririe hanini na ikĩnyiihia mwĩrĩ mũiganaine."
+  - q: "Ngũũrani ĩrĩkũ gatagatĩ ka irio cia MIND na irio cia Mediterranean?"
+    a: "Irio cia Mediterranean ciĩkagĩrĩra hinya mboga, matunda, ngano itarĩ mĩtherie, mboco, thamaki na maguta ma mĩtamaiyũ, na irio nini cia nyama ndune kana cia mũrĩo. Irio cia MIND nĩ mũtukanio wa irio cia Mediterranean na irio cia DASH cia thakame mĩingĩ, na ciĩkagĩrĩra hinya makĩria mboga cia mathangũ maruru na matunda ta tũberry, o na ikĩrigĩrĩria nyama ndune, irio cia mũrĩo, chisi, thiagĩ, maguta ma mĩrĩo na irio cia kũruga kana cia mĩtũkĩ."
+  - q: "Nĩ kũrĩ irio kana ndawa cia kũongerera hinya iria irigagĩrĩria Alzheimer?"
+    a: "Aca. National Institute on Aging yugaga atĩ gũtirĩ ũira wonanagia atĩ kũrĩa kana kwĩrigĩrĩria irio imwe ciũmbe nĩ kũrigagĩrĩria Alzheimer kana gũkua meciiria kũrĩa kũrehagwo nĩ ũkũrũ, na gũtirĩ vitamini kana ndawa cia kũongerera hinya cionanĩtio atĩ nĩ irigagĩrĩria Alzheimer. Arĩria ndagĩtarĩ mbere ya kũhũthĩra ndawa cia kũongerera hinya."
+  - q: "Nĩ irio irĩkũ irahũthĩka wega kũrĩ mũndũ ũrĩa ũtũũraga na mĩrimũ ya gũkua meciiria?"
+    a: "Irio nini cia kũnyiita na guoko ta tũcunjĩ twa sandwich, tũcunjĩ twa ngũkũ, icunjĩ cia macungwa kana tũcunjĩ twa mboga itherũkĩtio kaingĩ nĩ irahũthĩka gũkĩra kũhũthĩra hũma na mũcengi. Angĩkorwo gũtanya kana kũmeria nĩ kũritũ, irio nyororo ta matumbĩ mahurĩtwo, applesauce kana cottage cheese no iteithie. Arĩria ndagĩtarĩ igũrũ rĩa gũthimwo ũrĩa mũndũ ameragia angĩkorwo nĩ arakororaga kana akanyiĩta rĩrĩa ararĩa."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +60,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+No ũkorwo ũthomete atĩ irio „cia kũgitĩra thikĩrĩrio” no irigĩrĩrie Alzheimer. Ũhoro wa ma nĩ mũnini gũkĩra ũguo. Mĩtugo ĩmwe ya kũrĩa nĩ ĩkoragwo na ũhĩngĩciano na ũhoro wa mũndũ gũkua meciiria thĩinĩ wa ũtaũri ũrĩa ũrũmagĩrĩra andũ ihinda iraaya, no kĩgeranio kĩrĩa kĩega mũno nginya rĩu gĩtionire uumithio mũtaũku. Gĩcunjĩ gĩkĩ nĩ gĩtaaragĩria maũndũ macio meerĩ, gĩcoke gĩerekeire harĩ ũrĩa kaingĩ ũrĩ bata makĩria kũrĩ mũndũ ũrĩa ũtũũraga na mĩrimũ ya gũkua meciiria: kũrĩa na kũnyua maĩ maiganĩire, na gũkenagĩra irio.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Ũũ nĩ ũhoro wa kũmenyithania, ti ũtaaro wa ndagĩtarĩ. Arĩria ndagĩtarĩ kana mũtaarani wa irio ũrĩa mwandĩkĩtwo mbere ya kũgarũra irio ciaku kana cia mũndũ ũngĩ. Rora [kĩmenyithia giitũ kĩa ũrigiti wa ũgima wa mwĩrĩ](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Irio cia Mediterranean na MIND nĩ irio irĩkũ?
 
-The National Institute on Aging (NIA) describes them this way
+National Institute on Aging (NIA) nĩ ĩcitaaragĩria ũũ
 ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Irio cia Mediterranean:** matunda maingĩ, mboga, ngano itarĩ mĩtherie, mboco, thamaki na ciũmbe cia iria-inĩ, na maguta ma mĩtamaiyũ, na irio nini cia nyama ndune, matumbĩ na irio cia mũrĩo.
+- **Irio cia MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): mũtukanio wa irio cia Mediterranean na irio cia DASH cia thakame mĩingĩ. Ciĩkagĩrĩra hinya mboga, makĩria iria irĩ na mathangũ maruru; matunda ta tũberry; ngano itarĩ mĩtherie; mboco; njũgũ; thamaki o na rimwe thĩinĩ wa kiumia; na maguta ma mĩtamaiyũ. Nĩ irigĩrĩria nyama ndune, irio cia mũrĩo, chisi, thiagĩ kana maguta ma mĩrĩo, na irio cia kũruga kana cia mĩtũkĩ.
 
-## Do these diets lower dementia risk?
+## Irio ici nĩ inyihagia ũhoro wa gũkua meciiria?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Ũira ũcio nĩ mũtukanĩku. NIA yugaga atĩ ũtaũri ũmwe, no ti wothe, ũrĩa ũrũmagĩrĩra andũ wonanĩtie ũhĩngĩciano wa irio cia Mediterranean na MIND na ũhoro wa mũndũ gũkua meciiria, ũkaringithanio na irio cia mũthemba wa kĩ-Magharibi irĩ na nyama ndune nyingĩ, maguta ma hinya na cukari.
 
-The 2024 Lancet Commission reviewed the research in more detail
+Ripooti ya 2024 ya Lancet Commission nĩ yacũũranirie ũtaũri ũcio na ũndũ mũingĩ makĩria
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Gũcũũrania kũmwe kwa ũtaũri wa ikundi cia andũ kwonanirie ũhĩngĩciano wa irio njega na gũkinyia 20% gĩa ũhoro wa gũkua meciiria.
+- Gũcũũrania kũngĩ kũnene kwa ikundi ithatũ kwonanirie ũhĩngĩciano wa kũrũmĩrĩra irio cia MIND na ũhoro wa mũndũ gũkua meciiria.
+- No ũtaũri wa Sweden ũrĩa warũmagĩrĩire andũ 28,025 arĩa mataarĩ akũrũ mũno ihinda ta mĩaka 20 ũtionire ũhoro mũnini wa gũkua meciiria harĩ arĩa maarũmagĩrĩra irio iria ciataarĩtwo kana irio cia mũthemba wa Mediterranean.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Ũtaũri ũrĩa ũrũmagĩrĩra andũ ndũngĩonanagia ma na ma atĩ ũndũ ũmwe nĩguo ũrehaga ũrĩa ũngĩ. Andũ arĩa marĩĩaga ũguo kaingĩ nĩ matiganĩte na njĩra ingĩ, ta ũthii wa mbeeca, gĩthomo, kwĩruta mwĩrĩ na kũhota gũkinyĩra ũtungata wa ũgima wa mwĩrĩ. Commission ĩgĩkinyia mũthia atĩ gũtirĩ ũira mũiganu wa kuuga atĩ irio njega nĩ irigagĩrĩria mĩrimũ ya gũkua meciiria, o na gũtuĩka kũrĩa matunda na mboga nyingĩ na kũnyiihia irio iria ithondeketwo mũno nĩ kwega kũrĩ mĩrimũ mĩingĩ ya mwĩrĩ na nĩ kũhutagia maũndũ ma ũgwati ta ũnoru, mũrimũ wa cukari na thakame mĩingĩ. Nditiĩkĩrire irio thĩinĩ wa mũtaratara wayo wa [maũndũ 14 ma ũgwati](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Kĩgeranio kĩa irio cia MIND kĩa 2023 kĩonire atĩa?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
+Kĩgerio kĩrĩa kĩarĩ hinya mũno nginya rĩu kĩarĩ kĩgeranio kĩarĩtio thĩinĩ wa New England Journal of Medicine 2023
 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Nĩ a arĩa?** Andũ akũrũ 604 arĩa maarĩ na mĩaka 65 na makĩria kuuma icigo-inĩ cia Chicago na Boston, matarĩ na thĩna wa gwĩciria, maarĩ na mũndũ wa nyũmba wa hakuhĩ warĩ na mĩrimũ ya gũkua meciiria, maarĩ na mwĩrĩ mũritũ gũkĩra ũrĩa kwagĩrĩire, na matuĩkaga na irio itarĩ njega mũno.
+- **Nĩ atĩa gwekĩkire?** Ihinda rĩa mĩaka ĩtatũ, nuthu ĩmwe ĩkĩrũmĩrĩra irio cia MIND na nuthu ĩyo ĩngĩ ĩgĩthiĩ na mbere na irio ciayo cia ndũire. Ikundi cierĩ cierirwo kũrĩa ta karori 250 nini gũkĩra mbere o mũthenya na ikĩheo ũtaaro kaingĩ nĩ ataarani a irio arĩa maandĩkĩtwo.
+- **Macokio:** macokio ma mageethi ma gwĩciria nĩ makũririe hanini thĩinĩ wa ikundi **cierĩ**. Ngũũrani gatagatĩ ka ikundi icio yarĩ nini na **ndĩarĩ nene kũringana na ũtaũri**. Mĩhiano ya thikĩrĩrio o nayo nĩ yonanirie magarũrũko mahanaine thĩinĩ wa ikundi cierĩ.
+- **Ũritũ wa mwĩrĩ:** ikundi cierĩ nĩ cianyiihirie ta kilo 5 (ta ratiri 11).
 
-### Why might the trial have found no difference?
+### Nĩ kĩĩ gĩtũmĩte kĩgeranio kĩage kuona ngũũrani?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Ataũri moigire atĩ no gũkorwo kwarĩ na maũndũ maya. Gĩkundi kĩrĩa kĩarĩĩaga irio cia ndũire no gũkorwo nĩ kĩagũririe irio ciakĩo o nakĩo, tondũ nĩ kĩanyihirie ũritũ wa mwĩrĩ mũiganaine. Kũgerio kaingĩ no gũtũme macokio makũre, tondũ andũ nĩ mamenyeraga mageethi. Mĩaka ĩtatũ no ĩkorwo ĩrĩ mĩnini mũno. Andũ aingĩ arĩa maarĩ thĩinĩ wa kĩgeranio maarĩ na gĩthomo kĩnene na maarĩ a rũciaro rwa Mĩrungu, nĩ ũndũ ũcio macokio no matikinyĩre andũ othe.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Nĩ ũndũ ũcio, ũhoro wa ma na ma nĩ atĩ: irio cia MIND itiakĩririe irio njega cia kũnyiihia karori hanini ihinda rĩa mĩaka ĩtatũ. Ũndũ ũcio ti kuuga atĩ kũrĩa irio njega gũtirĩ bata. Nĩ kuuga atĩ gũtirĩ mũndũ wagĩrĩirwo nĩ kwĩrĩgĩrĩra atĩ mũtugo ũmwe wa kũrĩa nĩ ũrigagĩrĩria mĩrimũ ya gũkua meciiria.
 
-## What about specific foods and supplements?
+## Ĩ irio imwe ciũmbe kana ndawa cia kũongerera hinya?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
+NIA yugaga atĩ gũtirĩ ũira wonanagia atĩ kũrĩa kana kwĩrigĩrĩria irio imwe ciũmbe nĩ kũrigagĩrĩria Alzheimer kana gũkua meciiria kũrĩa kũrehagwo nĩ ũkũrũ. Tũberry, mboga cia mathangũ maruru na turmeric ciothe nĩ cĩtaũrĩtwo, hatarĩ ũira. NIA o nayo yugaga atĩ gũtirĩ vitamini kana ndawa cia kũongerera hinya cionanĩtio atĩ nĩ irigagĩrĩria Alzheimer, na gũtirĩ ĩrĩa ĩtaarĩtwo nĩ ũndũ wa ũguo. NIA nĩ ĩkaanagia atĩ indo itarĩ na ũira iria ciendagio nĩguo irigĩrĩrie Alzheimer no ikorwo itarĩ njega, no ikorwo irĩ kũhũthĩra mbeeca tũhũ, kana cierĩ, na no ithũkie ũrĩa ndawa iria ũheetwo nĩ ndagĩtarĩ irutaga wĩra, nĩ ũndũ ũcio arĩria ndagĩtarĩ mbere ya kũgeria o ĩrĩkũ
 ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Mũndũ angĩhota atĩa gũthiĩ na mbere kũrĩa irio njega na akenagĩre?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Kũrĩ andũ aingĩ akũrũ, muoroto nĩ irio iria irĩ na hinya, iria mamenyerete na iria ikenagia, no ti mũbango mũritũ:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Andĩka irio ciaku na irio iria wendete** kuuma harĩ mũtugo wa Mediterranean: mboga, matunda, mboco, ngano itarĩ mĩtherie, thamaki na maguta ma mĩtamaiyũ.
+- **Ikaragia na irio cia mũrĩo iria wendete.** Gũkenagĩra irio na wendi wa kũrĩa nĩ ma bata, makĩria thutha-inĩ wa muoyo.
+- **Rĩĩaga na andũ angĩ** rĩrĩa kũhoteka. Kũrĩanĩra nĩ mũtaratara mwega wa gũkorwo hamwe.
+- **Rugaga irio mũrĩ hamwe.** Gũthambia mboga kana gũkoroga irio nyũngũ-inĩ nĩ wĩra mwega wa kũruta mũrĩ hamwe; rora [mawĩra ma mũciĩ](/activities/household-tasks/). Irio imwe cia nyũmba iria mwendete no ihote o nacio kũriũkia [kũririkana maũndũ ma tene](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Andũ akũrũ matikwagĩrĩirwo nĩ kũnyiihia karori kana gũnyiihia mwĩrĩ matarĩtie kũaria na ndagĩtarĩ, na kwĩima kũrĩa irio kũrĩ na ũgwati wa mwanya. Rora [mworoto witũ wa kwĩima kũrĩa irio](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Ũngĩteithia atĩa mũndũ ũrĩa ũtũũraga na mĩrimũ ya gũkua meciiria kũrĩa wega?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
+Kũrĩ andũ arĩa matũũraga na mĩrimũ ya gũkua meciiria, kũrĩa na kũnyua **maiganĩire** kaingĩ nĩkũo kũrĩ thĩna inene. Alzheimer’s Association yugaga atĩ andũ no mariganĩrwo nĩ kũrĩa, mecirie atĩ nĩ marĩkĩtie kũrĩa, kana moigwe maritũhĩtwo nĩ gũthuura irio nyingĩ, na atĩ irio itarĩ njega no ciongerere mĩtugo mĩũru na itũme mũndũ anyiihie mwĩrĩ
 ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Mataaro maya moimĩte kũrĩ Alzheimer’s Association, NIA na Alzheimer’s Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
+1. **Heana irio cia kũnyiita na guoko.** Tũcunjĩ tũnini tũrahũthĩka kũnyiita, ta tũcunjĩ twa sandwich, tũcunjĩ twa ngũkũ, tũcunjĩ twa thamaki, icunjĩ cia macungwa kana broccoli ĩtherũkĩtio, nĩ itũmaga mũndũ ahote kwĩrĩithia ategũhũthĩra hũma na mũcengi.
+2. **Hũthĩra rangi mũtiganu metha-inĩ.** Magarũrũko ma kuona no matũme kũritũ gũkũũrana irio na thaani. Thaani njerũ kana mbakũri njerũ igũrũ rĩa kĩndũ kĩa rangi ũngĩ no iteithie. Theema thaani na mataũra marĩ na mahũũri maingĩ.
+3. **Heana irio ĩmwe kana igĩrĩ o ihinda.** Thaani ĩiyũrĩte mũno no ĩritũhie mũndũ.
+4. **Tũma mahinda ma kũrĩa makorwo mahooreire.** Horia TV, tũma metha ĩkorwo ĩtarĩ na indo nyingĩ, na ũheanage ihinda rĩiganĩire. NIA ĩtaaraga atĩ ndũkahiũhage kana ũkahatĩrĩrie.
+5. **Heana irio nini na tũmio kaingĩ.** NIA ĩtaaraga irio nini, kaingĩ maita maingĩ na tũmio tũrĩ na hinya mũingĩ wa mwĩrĩ angĩkorwo mũndũ ti kũrĩa araarĩa maiganĩire
    ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+6. **Teithia na kũnyua maĩ.** Heana tũkombe tũnini twa maĩ kana kĩndũ kĩngĩ gĩa kũnyua mũthenya wothe, hamwe na irio irĩ na maĩ maingĩ ta matunda, thũbũ, milkshake na smoothie. Angĩkorwo mũndũ ndekũenda maĩ, NIA ĩtaaraga ũgerie jũsĩ, maĩ marĩ na mũcamo, thũbũ ya mũrĩo, iria, kana kahũa kana chai ĩtarĩ na caffeine.
+7. **Rora ũrugarĩ.** Mũndũ no aremwo nĩ kuona atĩ irio kana kĩndũ kĩa kũnyua nĩ kĩhiũ mũno.
+8. **Hũthĩra indo cia kũrĩa na ikombe iria irahũthĩka.** Mbakũri handũ ha thaani, iciko irĩ na mĩtĩ mĩnene, na ikombe irĩ na mĩhumbĩre no itũme kũrĩa kũhũthĩke. Ndũkamake nĩ ũtheru mũnene.
+9. **Tũma irio irahũthĩke gũtanya na kũmeria.** Tinia irio tũcunjĩ tũnini kana ũheane irio nyororo. Angĩkorwo mũndũ nĩ arakororaga kana akanyiĩta rĩrĩa ararĩa, ĩra ndagĩtarĩ wake.
+10. **Theema kũmũhatĩrĩria kũrĩa.** NIA yugaga atĩ wendi wa kũrĩa nĩ ũnyiihaga kĩũmbe hĩndĩ ya mĩthia ya Alzheimer.
 
-### Signs to tell the doctor about
+### Marũũri marĩa wagĩrĩirwo nĩ kwĩra ndagĩtarĩ
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
+Kũnyiihia mwĩrĩ, kũrega kũrĩa, kũnogio kana kwaga hinya no ikorwo irĩ marũũri ma kuonania atĩ mũndũ ti kũrĩa araarĩa maiganĩire. Alzheimer’s Society yugaga atĩ magego marũaru kana magego ma gũcuurio, kĩeha kĩa ngoro, kũuma kũrũmĩte nda na magarũrũko ma ndawa ciothe no inyihie wendi wa kũrĩa
 ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
+Marũũri ma kwaga maĩ mwĩrĩ marĩa NIA ĩgwetete nĩ ta kanua gakarũ, kũrungũrĩra mũtwe, ngoro kũhũra na ihenya na kuona maũndũ matarĩ ho
 ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Arĩria ndagĩtarĩ
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Mbere ya kũgarũra irio ciaku mũno, kana cia mũndũ ũngĩ, arĩria ndagĩtarĩ kana mũtaarani wa irio ũrĩa mwandĩkĩtwo, makĩria angĩkorwo ũrĩ na mũrimũ wa cukari, mũrimũ wa higo, thĩna wa kũmeria kana ũnyihĩtie mwĩrĩ o rĩu. Kũrĩ mũndũ ũrĩa ũtũũraga na mĩrimũ ya gũkua meciiria, ũria atĩ nĩ irio na maĩ aigana atĩa aragĩrĩirwo nĩ kũrĩa na kũnyua o mũthenya, na kana mũtaarani wa irio kana ndawa cia kũongerera hinya no iteithie.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Caria ũteithio wa narua angĩkorwo mũndũ nĩ aranyiĩta, kana angĩkorwo nĩ oimĩirwo nĩ kũrigiica o rĩmwe, nĩ ararungũrĩrwo mũno nĩ mũtwe kana nĩ aragũa.

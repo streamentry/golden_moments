@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Makkelike trivia foar âlderen mei demintens, sûnder druk"
+seoTitle: "Triviafragen foar âlderen mei demintens, mei antwurden"
+description: "50 maklike triviafragen foar âlderen mei demintens, mei antwurdopsjes en petearen, plus hoe't jo trivia spylje sûnder dat ien him toetst of bûtensletten fielt."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Makkelike trivia foar âlderen mei demintens wurket it bêste as it oanfielt as
+  in petear, net as in toets. Stel fragen oer dingen dy't lang lyn leard binne,
+  lykas âlde ferskes, sprekwurden, feestdagen en it deistich libben, en bied
+  altyd twa of trije opsjes. Jou it antwurd frijmoedich, helje nea ien nei
+  foaren, lit de skoare fuort, en brûk elk antwurd om in ferhaal op gong te
+  bringen. Fragen mei "dit of dat" sûnder ferkeard antwurd passe goed by lettere
+  stadia.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Stel fragen oer bekende dingen fan eartiids: ferskes, sprekwurden, feestdagen, iten en it deistich libben fan jierren lyn."
+  - "Bied twa of trije opsjes, sadat it antwurd werkenber wurdt ynstee fan dat it oproppen wurde moat."
+  - "Jou it antwurd waarm en gean fierder. Elke gok dy't in ferhaal op gong bringt, is in goede gok."
+  - "Gjin punten, gjin teams dy't tsjin inoar race, gjin persoan oanwize. Lit antwurden út de hiele keamer komme."
+  - "As kieze tusken antwurden dreger wurdt, skeakelje dan oer op fragen mei dit of dat sûnder goed antwurd."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Is trivia in goede aktiviteit foar minsken mei demintens?"
+    a: "It kin, as jo it sêft oanpakke. De Alzheimer's Foundation of America neamt trivia ûnder aktiviteiten foar it iere stadium. Hâld fragen oer lang bekende ûnderwerpen, bied opsjes, set ien persoan nea foar it blok, en sjoch de antwurden as in manier om in petear te begjinnen ynstee fan as in toets."
+  - q: "Hokker ûnderwerpen wurkje it bêste foar trivia by demintens?"
+    a: "Dingen dy't lang lyn leard binne, wurkje faaks it bêste: populêre ferskes en sjongers út de jongeretiid fan de persoan, bekende sprekwurden, feestdagen, iten, sport en it deistich libben, lykas de boer dy't molke brocht of in tillefoan mei draaiskiif. Mij nij nijs en alles wêrtroch't men earder yn it petear wat ûnthâlde wurde moat."
+  - q: "Hoe kin ik trivia yn in soarchhûs dwaan sûnder dat ien him ferlegen fielt?"
+    a: "Lês elke fraach foar oan de hiele groep, lit de opsjes sjen of sis se, en wolkom antwurden fan elkenien. Wize gjin persoanen oan en hâld gjin skoare by. Jou it antwurd mei in glimke, wat der ek rieden is, en stel in oanfollende fraach lykas 'Wa hat hjir ea nei in drive-inbioskoop west?' om it yn ferhalen te feroarjen."
+  - q: "Wat kin ik yn lettere stadia dwaan ynstee fan trivia?"
+    a: "Skeakelje oer op fragen sûnder ferkeard antwurd, lykas 'Kofje of tee?' of 'Strân of bergen?', en op it tegearre ôfmeitsjen fan bekende sprekwurden of ferskes. Tegearre nei ôfbyldings sjen en deroer prate wurket ek goed."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Trivia is ien fan de meast frege groepsaktiviteiten yn soarchhuzen en deiprogramma's, en in protte famyljes spylje it ek oan de keukentafel. As jo it op 'e gewoane manier dogge, mei punten en ien persoan dy't antwurdet, kin dat ien mei demintens it gefoel jaan dat er of sy foar it blok set wurdt. As jo it sêft oanpakke, is it in fleurige manier om ferhalen te hearren. Hjirûnder steane 50 maklike fragen mei antwurdopsjes en wat om oer te petearjen by elke fraach, folge troch hoe't jo sa'n sesje dwaan kinne.
 
-## How do you make trivia work for someone with dementia?
+## Hoe meitsje jo trivia geskikt foar ien mei demintens?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Lit it gean oer werkennen en ûnthâlden fan dingen fan lang lyn, en lit elk antwurd wolkom wêze.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Stel fragen oer it fiere ferline.** De [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) seit dat it meast foarkommende iere symptoom fan de sykte fan Alzheimer muoite is mei it ûnthâlden fan nije ynformaasje. Ferskes, sprekwurden en it deistich libben fan tsientallen jierren lyn binne faaks makliker om oer te petearjen.
+2. **Jou altyd opsjes.** It goede antwurd út twa of trije opsjes kieze is folle makliker as it sels betinke.
+3. **Lês fragen hurdop foar en lit se grut sjen.** In wyt boerd of in tablet dy't jo omheech hâlde, helpt minsken dy't minder goed hearre.
+4. **Jou it antwurd frijmoedich.** As gjinien it wit, sis it waarm en gean fierder. Sis nea "Kom, dat wite jo wol."
+5. **Gjin skoare.** Net foar persoanen en net foar tafels. As minsken in nûmer wolle, hâld dan ien totaal foar de groep.
+6. **Helje nea ien persoan nei foaren.** Lit antwurden fan elkenien komme. Yn in ien-op-ien-petear kinne jo tegearre antwurdzje: "Ik tink dat it de piano is. Wat tinke jo?"
+7. **Brûk it petearpunt.** It antwurd is it begjin, net it ein. Ferhalen binne it echte doel.
+8. **Hâld it koart.** Tsien fragen mei dêrtusken ferhalen is genôch.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+It [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) bringt de kearnregel ienfâldich: let op frustraasje en soargje derfoar dat de persoan him suksesfol fielt. De [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) neamt trivia ûnder aktiviteiten foar it iere stadium. Yn it middelste stadium kinne jo it by twa opsjes hâlde en mear brûkmeitsje fan de petearpunten. Letter kinne jo oerskeakelje op de fragen mei dit of dat dy't hjirûnder steane.
 
-## Music and entertainment trivia
+## Trivia oer muzyk en ferdivedaasje
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+It antwurd stiet yn **fet**. Pas dizze fragen oan de persoan oan: ien dy't opgroeid is mei Motown, sil oare sjongers wolle as ien dy't opgroeid is mei bigbandmuzyk.
 
-| Question | Choices | Talk about |
+| Fraach | Opsjes | Praat oer |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Wa waard de King of Rock and Roll neamd? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Hawwe jo Elvis ea op 'e tv sjoen? |
+| Hokker sjonger krige de bynamme Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Hokker ferske fan Sinatra fine jo it moaiste? |
+| Bing Crosby dreamde fan in wite... | **kryst**, brulloft, hûs | Sjong tegearre in rigeltsje |
+| Louis Armstrong song "What a Wonderful..." | Day, **World**, Life | Wat makket de wrâld foar jo moai? |
+| "Over the Rainbow" waard songen troch Judy Garland yn hokker film? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Wêr seagen jo jo favorite films? |
+| Wa spile Lucy yn "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Nei hokker programma's seagen jo famylje tegearre? |
+| Hokker cowboy ried op in hynder mei de namme Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Spilen jo as bern cowboytsje? |
+| Wa presintearre 30 jier lang "The Tonight Show"? | Ed Sullivan, **Johnny Carson**, Bob Hope | Bleauwen jo let op om tv te sjen? |
+| Hokker ynstrumint hat 88 toetsen? | Gitaar, **piano**, trompet | Spile ien yn jo famylje in ynstrumint? |
+| Hokker dûns wurdt teld as ien-twa-trije, ien-twa-trije? | **Wals**, twist, tango | Wêr gienen jo hinne om te dûnsjen? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Foar mear oer muzyk, sjoch [muzykaktiviteiten by demintens](/activities/music/).
 
-## Everyday life trivia
+## Trivia oer it deistich libben
 
-| Question | Choices | Talk about |
+| Fraach | Opsjes | Praat oer |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Foardat der koelkasten wiene, holden in protte huzen iten kâld yn in... | **Iiskast**, oven, souder | Wa brocht it iis? |
+| Wa brocht molke yn glêzen flessen by de doar? | De postbode, **de boer mei molke**, de krantejonge | Wat waard der noch mear thús brocht? |
+| Hoe draaien jo in tillefoannûmer op in tillefoan mei draaiskiif? | Troch op knoppen te drukken, **troch in skyf te draaien**, troch dermei te praten | Fertel my oer de tillefoan yn jo hûs |
+| Hokker bedriuw makke de Model T-auto? | **Ford**, Chevrolet, Buick | Fertel my oer in auto dy't jo moai fûnen |
+| Wêr fûnen jo in soda jerk? | **By in frisdrankbalie**, yn in bakkerij, yn in bank | Wat bestelden jo oan de balie? |
+| Hokker boartersguod is in metalen fear dat in trep del rinne kin? | Jojo, **Slinky**, hoelahoep | Mei hokker boartersguod spilen jo graach? |
+| In drive-in wie in plak om te sjen nei... | **Films fanút jo auto**, balwedstriden, optochten | Mei wa gienen jo dêrhinne? |
+| Wa stiet op it briefke fan ien euro? | In skriuwer, **in ferskaat oan persoanen yn ferskillende lannen**, de kening | Hokken munten of briefkes ûnthâlde jo fan eartiids? |
+| Wa stiet op in âlde gulden? | **Keninginne Juliana of Wilhelmina**, Rembrandt, in molen | Bewarren jo ea jild yn in pot? |
+| Hokker kleur hat in skoallebus meast? | Read, **giel**, blau | Hoe gienen jo nei skoalle? |
 
-## Holidays, nature and places
+## Trivia oer feestdagen, natuer en plakken
 
-| Question | Choices | Talk about |
+| Fraach | Opsjes | Praat oer |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Op hokker datum wurdt Sint-Maarten fierd? | 5 desimber, **11 novimber**, 31 oktober | Hoe fierden jo dat as bern? |
+| Jack-o'-lanterns wurde makke foar hokker feest? | **Halloween**, Peaske, Kryst | Fertel my oer verklaaien as bern |
+| De Fjirde fan maaie is yn Nederlân in dei om te betinken oan... | Nijjiersdei, **de deaden**, de simmer | Hokker tradysjes hearden dêr by jo by? |
+| Memmedei is yn hokker moanne? | April, **maaie**, juny | Hoe fierde jo famylje dat? |
+| Hoefolle provinsjes hat Nederlân? | 10, **12**, 14 | Yn hokker plak of provinsje groeiden jo op? |
+| Hokker see leit oan de westkant fan Nederlân? | De Eastsee, **de Noardsee**, de Middellânske See | Hawwe jo ea oan strân west? |
+| Yn hokker stêd stiet de Domtoer? | Amsterdam, **Utrecht**, Rotterdam | Hawwe jo dêr ea west? |
+| Wat meitsje bijen? | Molke, **huning**, side | Huning op bôle of yn tee? |
+| In jong kouke hjit in... | Foal, **keal**, lam | Hawwe jo ea tichtby in pleats wenne? |
+| Hokker hege giele blom draait faak nei de sinne? | Roas, **sinneblom**, tulp | Wat groeide der yn jo tún? |
+| Hoefolle dagen hat in skrikkeljier? | 365, **366**, 360 | Fertel my oer in jierdei dy't jo ûnthâlde |
+| Hokker seizoen komt nei de winter? | Hjerst, **maitiid**, simmer | Hokker seizoen fine jo it moaiste? |
 
-## Food and sports trivia
+## Trivia oer iten en sport
 
-| Question | Choices | Talk about |
+| Fraach | Opsjes | Praat oer |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rozinen binne droege... | Prommen, **druven**, kersen | Namen jo ea rozinen mei as lunch? |
+| Prommen binne faaks droege... | **Prommen**, figen, appels | Wa yn jo famylje hâldde fan droege prommen? |
+| Pindakaa en... | **Jam**, tsiis, ham | Mei stikjes of glêd? |
+| Guacamole wurdt benammen makke fan... | Earte, **avocado's**, komkommers | Hokker hapkes kamen op tafel by feestjes? |
+| Hokker taart is populêr by in feest? | **Appeltaart**, sitroentaart, kersetaart | Hokker taart makken jo sels? |
+| Hoefolle spilers hat in fuotbalteam op it fjild? | 9, **11**, 7 | Foar hokker team wiene jo? |
+| Hoefolle punten jout in treffer yn it fuotbal? | Twa, **ien**, trije | Hawwe jo ea sels fuotballe? |
+| Johan Cruijff waard ferneamd om hokker sport? | Boksen, **fuotbal**, golf | Hawwe jo ea nei in wedstriid west? |
+| Hoefolle banen hat in standert swimbad yn in wedstriidbad faaks? | 6, **8**, 10 | Hawwe jo ea swommen? |
+| Yn hokker sport skoardere jo in touchdown? | **Amerikaansk fuotbal**, hockey, basketbal | Wa seach sport by jo thús? |
 
-## Familiar sayings
+## Bekende sprekwurden
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+It ôfmeitsjen fan in sprekwurd giet oer taal dy't lang lyn leard is en komt faaks maklik. Us spultsje [Meitsje it sprekwurd ôf](/games/finish-the-saying/) hat der noch folle mear, mei in tik om elk ein sjen te litten.
 
-| Saying | Choices | Talk about |
+| Sprekwurd | Opsjes | Praat oer |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Oan 'e ein fan 'e reinboage leit in... | **Potsje mei goud**, beam, hûs | Wa sei dit eartiids tsjin jo? |
+| De moarnsiten hat... | De bus, **goud yn 'e mûle**, de trein | Binne jo in moarnmins? |
+| Beter let as... | Ieri, **nea**, spitich | Wa wie altyd te let? |
+| Wa't goed docht, goed... | **Mochtet**, ferliest, sliept | Fertel my oer ien dy't dat sei |
+| East, west,... | Noard is best, **thús best**, de wyn is rest | Wat makket in plak thús? |
+| Al is de leagen noch sa fluch, de wierheid efterhellet... | **Har op 'e hichte**, har noait, har letter | Wa brûkte sokke sprekwurden? |
+| Nei rein komt... | **Sinneskyn**, wyn, snie | Fertel my oer in momint dat goed ôfrûn |
+| Dwaande... | Sliept men, **leart men**, ferjit men | Fertel my oer wat jo leard hawwe troch te dwaan |
 
-## This-or-that questions with no wrong answer
+## Fragen mei dit of dat sûnder ferkeard antwurd
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Dizze fragen passe by elk stadium, ek letter, omdat der neat goed of ferkeard is. Stel de fraach, harkje, en diel ek jo eigen antwurd.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kofje of tee?
+- Strân of bergen?
+- Hûnen of katten?
+- Simmer of winter?
+- Taart of koeke?
+- Dûnsje of sjen?
+- Sinneopgong of sinneûndergong?
+- Foartún of eftertún?
+- Radio of platen?
+- Pankoeken of aaien?
+- Roazen of madeliefkes?
+- Treinreis of autoreis?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Foar petearfragen mei ôfbyldings kinne jo ús prinbere [Petearkaarten](/games/conversation-cards/) probearje.
 
-## How do you run a trivia session in a care home or group?
+## Hoe dogge jo in triviasesje yn in soarchhûs of groep?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Lit minsken sa sitten dat se sjen en hearre kinne.** Gehoarapparaten oan, bril op, de tv út.
+2. **Yntrodusearje it as in petear.** "Ik haw wat fragen oer eartiids, en ik tink dat jimme der mear fan witte as ik."
+3. **Lês elke fraach twa kear foar en lit de opsjes grut sjen.**
+4. **Wolkom antwurden fan oeral yn 'e keamer.** Werhelje goede antwurden, sadat elkenien se heart.
+5. **Jou it antwurd foar elkenien,** en stel dan de petearfraach oan de keamer.
+6. **Folgje de enerzjy.** As ien fraach tsien minuten ferhalen opleveret, lit it gean.
+7. **Einigje mei in ferske of in rûnte mei dit of dat,** sadat elkenien op wat makliks ôfslút.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Foar oare groepsfoarmen, lykas ôfbyldingsbingo en tegearre sjonge, sjoch [groepsaktiviteiten foar soarchhuzen](/activities/care-home-groups/).
 
-## When to change the plan
+## Wannear't jo it plan oanpasse
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+As ien soargen liket te meitsjen, stil wurdt of mear as ien kear "Ik wit it net" seit, meitsje it dan makliker: gean werom nei twa opsjes, antwurdzje tegearre, of skeakelje oer op fragen mei dit of dat. As de groep graach in hiele middei oer ien fraach prate wol, dan is dat in sukses. It doel wiene nea de goede antwurden. It wie tiid tegearre trochbringe.

@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "དྲན་ཤེས་ཉམས་པའི་བར་རིམ་ལུ་བྱེད་ལས།"
+seoTitle: "དྲན་ཤེས་ཉམས་པའི་བར་རིམ་ལུ་བྱེད་ལས་འཇམ་སམ།"
+description: "དྲན་ཤེས་ཉམས་པའི་བར་རིམ་ལུ་བྱེད་ལས་འཇམ་སམ་ཚུ། ཁྱིམ་གྱི་ལས་ཀ་ གླུ་གཞས་ པར་དང་རྩེདམོ་འཇམ་སམ་ཚུ་ གོ་རིམ་དང་བཅས་པ་སྦེ་གྲ་སྒྲིག་འབད་ཐངས་དང་ གནས་མེད་སྦེ་འགྱོ་འགུལ་འབད་མི་ལུ་བྱེད་ལས་ཅིག་སྤྲོད་ཐངས་བཀོད་ཡོད།"
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  དྲན་ཤེས་ཉམས་པའི་བར་རིམ་ནང་ བྱེད་ལས་ལེགས་ཤོམ་ཚུ་ཐུང་ཀུ་ གོམས་འདྲིས་ཡོད་མི་ དེ་ལས་
+  གོ་རིམ་རེ་རེ་སྦེ་བཏོན་མི་ཨིན། གྱོན་ཆས་བཀྲུམ་ མུ་ཟུག་ཆ་སྒྲིག་འབད་ ཐོབ་བཀྲུ་བ་ གླུ་གཞས་ལེན་
+  ལམ་སྟོན་དང་བཅས་པའི་འགྲུལ་བཞུད་ པར་དེབ་ དེ་ལས་པར་གྱི་རྩེདམོ་འཇམ་སམ་ཚུ། གྲ་སྒྲིག་འབད་
+  གོ་རིམ་དང་པ་སྟོན་ དཀའ་ཁག་ཚུ་ཁྱོད་ཀྱིས་རོགས་རམ་འབད་ དེ་ལས་བྱེད་ལས་དེ་ལུ་དམིགས་ཡུལ་ཅིག་སྤྲོད།
+  བྱེད་ལས་དེ་སྐྱིད་པོ་མེདཔ་འགྱོ་བའི་སྐབས་བཀག།
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "ཁྱིམ་གྱི་ལས་ཀ་གོམས་འདྲིས་ཡོད་མི་ཚུ་མང་ཤོས་རང་ལེགས་ཤོམ་འབད་ཚུགས། ག་ཅི་སྦེ་ཟེར་བ་ཅིན་ དེ་ཚུ་ཕན་ཐོགས་ཡོད་མི་དང་རྒས་མཁན་གྱི་ཚོར་བ་སྤྲོདཔ་ཨིན།"
+  - "བཤད་ནི་ལས་སྟོན་ གོ་རིམ་རེ་རེ་སྦེ་སྤྲོད་ དེ་ལས་དྲི་བ་ཁ་ཕྱེ་བའི་ཚབ་ལུ་གདམ་ཁ་འཇམ་སམ་གཉིས་སྤྲོད།"
+  - "དཀའ་ཤོས་ཀྱི་ཆ་ཤས་དེ་ཁྱོད་ཀྱིས་ལེན་ དེ་འབདཝ་ལས་ཁོང་གིས་སྐྱིད་པོ་ཚོར་ས་ཅིག་འབད་ཚུགས།"
+  - "གནས་མེད་སྦེ་འགྱོ་འགུལ་འབད་མི་འདི་ མང་ཤོས་རང་བྱེད་ནི་ཅིག་དགོཔ་ཨིན་པའི་རྟགས་ཨིན་སྲིད། མ་འབད་ཟེར་ནི་གི་ཚབ་ལུ་འོས་འབབ་ཡོད་པའི་བྱེད་ལས་ཅིག་སྤྲོད།"
+  - "བལྟ་སྡོད་ནི་ ཉུང་ཙམ་རོགས་རམ་འབད་ནི་ ཡང་ན་སྔོན་ལས་བཀག་ནི་ཚུ་ག་ར་ལེགས་ཤོམ་ཨིན།"
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "དྲན་ཤེས་ཉམས་པའི་བར་རིམ་ལུ་བྱེད་ལས་ག་ཅི་ཚུ་ལེགས་ཤོམ་ཨིན་ན?"
+    a: "ཐུང་ཀུ་ གོམས་འདྲིས་ཡོད་མི་ ལག་པ་ལག་ལེན་འཐབ་སའི་བྱེད་ལས་ཚུ་མང་ཤོས་རང་ལེགས་ཤོམ་འབད་ཨིན། དཔེར་ན་ གོས་བཀྲུམ་ མུ་ཟུག་ཆ་སྒྲིག་འབད་ ཐོབ་བཀྲུ་བ་ ཁ་ལག་གི་ཅ་ཆས་བཙུགས་ སྔོན་མའི་དགའ་ཤོས་གླུ་གཞས་ལེན་ ལམ་སྟོན་དང་བཅས་པའི་འགྲུལ་བཞུད་ པར་དེབ་བལྟ་བ་ དེ་ལས་པར་གྱི་རྩེདམོ་འཇམ་སམ་ཚུ། བྱེད་ལས་རེ་རེ་བཞིན་གོ་རིམ་རེ་རེ་སྦེ་བཏོན་ཏེ་ མཉམ་དུ་འབད་གནང་།"
+  - q: "དྲན་ཤེས་ཉམས་ཡོད་པའི་གང་ཟག་ཅིག་གིས་བྱེད་ལས་འགོ་བཙུགས་དགོ་པ་ཅིན་ ག་དེ་སྦེ་རོགས་རམ་འབད་ནི?"
+    a: "དགོ་པའི་ཅ་ཆས་ག་ར་གྲ་སྒྲིག་འབད་ཚར་ཞིནམ་ལས་ ཁྱོད་ར་གིས་བྱེད་ལས་དེ་འགོ་བཙུགས་ཏེ་ ཁོང་ལུ་རོགས་རམ་འབད་དགོ་པ་སྦེ་ཞུ་གནང་། དཔེར་ན་ «གོས་བཀྲུམ་འདི་ཚུ་ལུ་རོགས་རམ་ཅིག་གནང་ན?» ཟེར་སྦེ། མང་ཤོས་རང་མཉམ་ཞུགས་འབད་དགོ་པའི་འདོད་པ་ཡོད་རུང་ འགོ་བཙུགས་ནི་དཀའ་བ་ཚོར་སྲིད། གོ་རིམ་དང་པ་སྟོན་ནི་འདི་ རྒྱས་པ་སྦེ་བཤད་ནི་ལས་ལེགས་ཤོམ་འབད་ཨིན།"
+  - q: "ཁོང་གིས་ཅིག་འདྲའི་བྱེད་ལས་རེ་རེ་སྦེ་འབད་བཞིན་པ་ཅིན་ ག་དེ་འབད་ནི?"
+    a: "བསྐྱར་ལོག་འབད་མི་འདི་གནོད་པ་མེདཔ་ཨིན་སྲིད། དེ་ལས་ ཁོང་གིས་བྱེད་ནི་ཅིག་ཡོད་པའི་ཚོར་བ་ཡང་ན་བློ་བདེ་པོ་དགོཔ་ཨིན་པའི་རྟགས་ཨིན་སྲིད། སྐྱོན་བརྗོད་མ་འབད་པར་ འགུལ་སྟངས་དེ་དང་མཐུན་པའི་བྱེད་ལས་ཅིག་སྤྲོད་གནང་། དཔེར་ན་ བཀྲུམ་ནིའི་གོས་ཕྲུག་ཅིག་ཡང་ན་མཉམ་དུ་ལེན་ནིའི་གླུ་གཞས་ཅིག།"
+  - q: "ཁོང་གིས་བྱེད་ལས་དེ་ནོར་འཁྲུལ་སྦེ་འབད་བ་ཅིན་ ག་དེ་འབད་ནི?"
+    a: "གནོད་པ་མེད་པ་ཅིན་ དེ་ལྟར་སྦེ་བཞག་གནང་། གོས་བཀྲུམ་ཐངས་མ་འདྲ་བ་ཡང་ན་ཐུར་མ་ས་གནས་ནོར་བ་དེ་ གལ་ཆེཝ་མེན། བཟོ་བཅོས་འབད་མི་འདི་ སྐྱོན་བརྗོད་བཟུམ་སྦེ་ཚོར་སྲིདཔ་ལས་ ཁོང་གི་ཐངས་ཀྱིས་འབད་བཅུག་མི་འདི་གིས་ཁོང་ལུ་ནུས་པ་ཡོད་པའི་ཚོར་བ་སྤྲོདཔ་ཨིན།"
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+དྲན་ཤེས་ཉམས་པའི་བར་རིམ་འདི་ མང་ཤོས་རང་རིང་ཤོས་ཨིན། དེ་ལས་འ་ནི་དུས་ནང་ བྱེད་ལས་ཚུ་ལུ་དངོས་གནས་ཀྱི་རོགས་རམ་དགོཔ་འགོ་བཙུགསཔ་ཨིན། ཚིག་བཤད་ནི་ལས་སླ་པོ་མེདཔ་འགྱོ་སྲིད་ གོ་རིམ་ཚུ་མཉམ་འདྲེས་འགྱོ་སྲིད་ དེ་ལས་ཅི་རང་འབད་རུང་འགོ་བཙུགས་ནི་དཀའ་བ་ཚོར་སྲིད། དེ་འབདཝ་ད་ ཕན་ཐོགས་ཡོད་མི་ཅིག་སྦེ་ཡོད་དགོ་པའི་དང་མཉམ་ཞུགས་འབད་དགོ་པའི་འདོད་པ་འདི་ མང་ཤོས་རང་ལུས་ཡོདཔ་ཨིན། ཉུང་ཙམ་གྲ་སྒྲིག་འབད་བ་ཅིན་ དྲན་ཤེས་ཉམས་ཡོད་པའི་གང་ཟག་གིས་བར་རིམ་འདི་ནང་ མང་ཤོས་རང་སྐྱིད་པོ་ཚོར་ཚུགས། ལེ་ཤ་རང་ཁྱོད་དང་མཉམ་དུ་ གོམས་འདྲིས་ཡོད་པའི་ལས་ཀ་ གླུ་གཞས་ དེ་ལས་པར་ཚུ་ལུ།
 
-## What activities work well in middle-stage dementia?
+## དྲན་ཤེས་ཉམས་པའི་བར་རིམ་ལུ་བྱེད་ལས་ག་ཅི་ཚུ་ལེགས་ཤོམ་ཨིན་ན?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+ཐུང་ཀུ་ གོམས་འདྲིས་ཡོད་མི་ ལག་པ་ལག་ལེན་འཐབ་སའི་བྱེད་ལས་ཚུ་ གོ་རིམ་རེ་རེ་སྦེ་བཏོན་མི་ཚུ་ལེགས་ཤོམ་འབད་ཨིན། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) གིས་ཟེར་མི་ལུ་ བྱེད་ལས་གསརཔ་བཟོ་དགོ་པའི་དགོས་མཁོ་མེད། བྱེད་ལས་ཚུ་ཉིན་རེའི་འཚོ་བའི་ནང་ལུ་ཡོད་ཚུགས། དཔེར་ན་ མཉམ་དུ་ཁ་ལག་བཟོ་བ་ ས་དོན་འབད་བ་ གླུ་གཞས་ཉན་ ཡང་ན་འགྲུལ་བཞུད་འགྱོ་བ་བཟུམ།
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) གིས་ཟེར་མི་ལུ་ བར་རིམ་འདི་ནང་ཡོད་པའི་མི་ཚུ་ལུ་ དམིགས་ཡུལ་ཡོད་པའི་ཚོར་བ་ཡང་ན་གང་རུང་ཅིག་ལུ་བདག་འཛིན་འབད་དགོ་པའི་འདོད་པ་སྟོབས་ཅན་ཡོད་སྲིད། དེ་ལས་ བྱེད་ལས་འགོ་བཙུགས་ནི་དང་མུ་མཐུད་འབད་ནི་ལུ་རོགས་རམ་དགོཔ་ཨིན། བར་རིམ་འདི་གི་ཐོ་ཡིག་ནང་ གྱོན་ཆས་བཀྲུམ་ ཐོབ་བཀྲུ་བ་ མུ་ཟུག་ཆ་སྒྲིག་འབད་ ལུས་རྩལ་འཇམ་སམ་ གོམས་འདྲིས་ཡོད་པའི་གླུ་གཞས་དང་བཅས་པའི་ཞབས་བྲོ་ ལམ་སྟོན་དང་བཅས་པའི་འགྲུལ་བཞུད་ མཉམ་དུ་གླུ་གཞས་ལེན་ ཚོས་གཞི་འཇམ་སམ་ དེ་ལས་པར་དེབ་བལྟ་བ་ཚུ་ཚུདཔ་ཨིན།
 
-## How do you set up an activity so it works?
+## བྱེད་ལས་ཅིག་ལེགས་ཤོམ་སྦེ་འབད་ནི་ལུ་ ག་དེ་སྦེ་གྲ་སྒྲིག་འབད་ནི?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+བྱེད་ལས་མང་ཤོས་རང་ལེགས་ཤོམ་འབད་ནི་ཡང་ན་མ་འབད་ནི་འདི་ གྲ་སྒྲིག་ལུ་རག་ལསཔ་ཨིན། [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) དང་ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ལས་ལེན་ཡོད་པའི་ལམ་ལུགས་འོག་གི་ཚུ་གིས་ ཕན་ཐོགས་ཆེ་ཤོས་སྤྲོདཔ་ཨིན།
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **ས་གནས་གསལ་ཏོག་ཏོ་བཟོ།** བརྙན་འཕྲིན་བཀག་ སྒོ་ཁ་བཅད་ དེ་ལས་བྱེད་ལས་དེ་ལུ་དགོ་པའི་ཅ་ཆས་རྐྱངམ་ཅིག་བཞག།
+2. **ཁྱོད་ར་གིས་འགོ་བཙུགས།** གྱོན་ཆས་བཀྲུམ་ནི་ཡང་ན་མཉམ་བསྲེས་འབད་ནི་འགོ་བཙུགས་ཏེ་ ཁོང་ལུ་མཉམ་ཞུགས་འབད་དགོ་པ་སྦེ་ཞུ། «འདི་ལུ་རོགས་རམ་ཅིག་གནང་ན?»
+3. **སྟོན་ཞིནམ་ལས་བསྒུག།** གོ་རིམ་རེ་སྟོན། མཛུབ་མོ་སྟོན་པའམ་ལག་པ་གིས་ལམ་སྟོན་འབད། དཔེར་ན་ ཐོབ་ག་ཏེ་བཞག་དགོཔ་སྦེ་སྟོན་ནི་བཟུམ།
+4. **གོ་རིམ་རེ་རེ་སྦེ་སྤྲོད།** «ཕྱེད་ཀ་སྦེ་བཀྲུམ» ཟེར་མི་འདི་ «འདི་ཚུ་བཀྲུམ་ཞིནམ་ལས་ཚོས་གཞི་ལུ་བསྟུན་ཏེ་བརྩེགས» ཟེར་མི་ལས་ལས་སླཔ་ཨིན།
+5. **དྲི་བ་ཁ་ཕྱེ་བའི་ཚབ་ལུ་ གདམ་ཁ་གཉིས་སྤྲོད།** «གོས་བཀྲུམ་སྔོན་པོ་ཡང་ན་དཀར་པོ?» ཟེར་མི་འདི་ «ག་ཅི་འབད་དགོ་མི་སྨོ?» ཟེར་མི་ལས་ལན་སླབ་ནི་ལས་སླཔ་ཨིན།
+6. **དཀའ་བའི་ཆ་ཤས་ཁྱོད་ཀྱིས་འབད།** ཁྱོད་ཀྱིས་འཇལ་ ཁོང་གིས་མཉམ་བསྲེས་འབད། ཁྱོད་ཀྱིས་ཁབ་བཙུགས་ ཁོང་གིས་སྐུདཔ་བསྒྱིལ།
+7. **དམིགས་ཡུལ་ཅིག་སྤྲོད།** «གོས་ཕྲུག་འདི་ཚུ་ཟླཝ་གཟའ་ཉི་མའི་ཁ་ལག་གི་དོན་ལུ་ཨིན» ཟེར་མི་འདི་གིས་ ལས་ཀ་དེ་ངོ་མ་སྦེ་ཚོར་བཅུགཔ་ཨིན།
+8. **ཁོང་གིས་བལྟ་དགོ་ཟེར་བ་ཅིན་ བལྟ་བཅུག།** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) གིས་ཟེར་མི་ལུ་ བལྟ་སྡོད་ནི་རྐྱངམ་ཅིག་ཡང་སྐྱིད་པོ་འབད་ཚུགས།
 
-## Activity ideas for the middle stage
+## བར་རིམ་འདི་གི་དོན་ལུ་བྱེད་ལས་ཀྱི་བསམ་འཆར།
 
-### Useful jobs
+### ཕན་ཐོགས་ཡོད་པའི་ལས་ཀ
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **གོས་བཀྲུམ་དང་གོས་ཕྲུག་བཀྲུམ།** ཆུང་ཀུ་དང་ལེབ་ཏོག་ཏོ་ཡོད་མི་ཚུ་ལས་སླ་ཤོས་ཨིན། དྲོད་སྐྱིད་ཅན་གྱི་གོས་ཕྲུག་གི་སློག་ཅིག་བཀྲུམ་ཚུགས་ ལེབ་བཟོ་ཚུགས་ དེ་ལས་ལོག་བཀྲུམ་ཚུགས།
+- **མུ་ཟུག་ཆ་སྒྲིག་འབད།** མ་འདྲཝ་ཧ་ཅང་ཆེ་བའི་ཆ་ཉུང་ཀུ་ཅིག་ལས་འགོ་བཙུགས། ཚོས་གཞི་ལུ་བསྟུན་ཏེ་སྒྲིག་ནི་རྐྱངམ་ཅིག་ཡང་ལེགས་ཤོམ་ཨིན།
+- **མ་ཆག་པའི་ཐོབ་བཀྲུ་བ་ཡང་ན་བསྐམ།** དྲོད་པོ་དང་ཞབས་ས་ཅན་གྱི་ཆུ་འདི་ ལག་པ་ལུ་སྐྱིད་པོ་འབད་ཚུགས། སྡོད་དེ་བསྐམ་མི་འདི་ རྐང་པ་ལུ་ལས་སླཔ་ཨིན།
+- **ཁ་ལག་གི་ཅ་ཆས་བཙུགས།** ཅ་ཆས་ཀྱི་རིགས་རེ་རེ་སྦེ་སྤྲོད་ དེ་ལས་དཔེ་སྟོན་ནི་ལུ་ས་གནས་རེ་ཁྱོད་ར་གིས་བཙུགས།
+- **ཁ་ལག་བཟོ་ནི་ལུ་རོགས་རམ་འབད།** ཞོག་ཁོག་བཀྲུ་ སྒོང་ཙོག་གཤོག་ ཡང་ན་སློག་ཅིག་ནང་མཉམ་བསྲེས་འབད་ནི་བཟུམ། གྲི་དང་ཚ་དྲོད་ཁྱོད་ཀྱིས་ལེན།
+- **གད་རྡར་ ཐལ་མདག་འབད་ ཡང་ན་ཕྱིས།** ཅོག་ཙེའི་གོས་ཕྲུག་ཅིག་ ཡང་ན་བར་ཁྱམ་གྱི་གད་རྡར་ཡང་བ་ཅིག།
 
-See [household tasks](/activities/household-tasks/) for many more.
+དེ་ལས་མངམ་ཁ་ཁ་ནང་ [ཁྱིམ་གྱི་ལས་ཀ](/activities/household-tasks/) བལྟ་གནང་།
 
-### Music and movement
+### གླུ་གཞས་དང་འགུལ་སྟངས།
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **སྔོན་མའི་དགའ་ཤོས་གླུ་གཞས་ལེན།** ཁྱོད་ར་གིས་འགོ་བཙུགས་ཏེ་ལེན། མི་མང་ཤོས་ཅིག་གིས་ ལོ་མང་པོའི་རིང་ལུ་ཤེས་ཡོད་པའི་གླུ་གཞས་ཚུ་ལུ་མཉམ་ཞུགས་འབད་ཚུགས། [གླུ་གཞས་ཀྱི་བྱེད་ལས](/activities/music/) བལྟ་གནང་།
+- **རང་དབང་སྦེ་ཞབས་བྲོ་འཁྲབ།** འདེགས་མར་འབད་ ཐལ་མོ་རྡེབ་ ཡང་ན་སྐྱིད་པོ་ཚོར་ས་ལུ་འགུལ། སྡོད་དེ་འབད་ནི་ཡང་ལེགས་ཤོམ་ཨིན།
+- **ལྒང་ཕུག་རྐྱབ།** འདི་ལྷོད་ལྷོད་འགུལ་ནི་དང་ རྐུབ་ཁྲི་ནང་ལས་ཡང་ཟིན་ནི་ལས་སླཔ་ཨིན།
+- **ལམ་སྟོན་དང་བཅས་པའི་འགྲུལ་བཞུད་འགྱོ།** གོམས་འདྲིས་ཡོད་པའི་ལམ་ཐུང་ཀུ་ཅིག་མཉམ་དུ་འགྱོ། ཕན་ཐོགས་ཡོད་པ་ཅིན་ ལག་པ་ཟུང་སྦེ་འགྱོ།
 
-### Pictures and stories
+### པར་དང་སྒྲུང་
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **པར་དེབ་བལྟ།** དྲི་བ་མ་འདྲི་བར་ མཐོང་མི་གུ་བསམ་བཀོད་འབད། «མོ་ཊ་དེ་ལུ་བལྟ་གནང་། དེ་གི་སྐོར་ལས་བཤད་གནང་།» [དྲན་གསོའི་བྱེད་ལས](/activities/reminiscence/) བལྟ་གནང་།
+- **གླེང་མོལ་བྱེད་ཤོག་ལག་ལེན་འཐབ།** [གླེང་མོལ་བྱེད་ཤོག](/games/conversation-cards/) གིས་ པར་ཅིག་དང་ ཡིག་ཚད་མེད་པའི་དྲི་བ་ཁ་ཕྱེ་བ་ཅིག་མཉམ་དུ་སྟོནཔ་ཨིན།
+- **སྔོན་མའི་གློག་བརྙན་མཉམ་དུ་བལྟ།** གོམས་འདྲིས་ཡོད་པའི་གློག་བརྙན་ཅིག་གདམ་ ཉེ་འཁོར་ལུ་སྡོད་ དེ་ལས་ངལ་གསོ་དགོ་པའི་སྐབས་བཀག།
 
-### Simple, pressure-free games
+### གནོན་ཤུགས་མེད་པའི་རྩེདམོ་འཇམ་སམ
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **པར་སྟོན་སྟེ་ཡོད་པའི་པར་ཆ་སྒྲིག།** [པར་ཆ་སྒྲིག](/games/picture-pairs/) གིས་ པར་ཚུ་མཐོང་སྟེ་བཞག་ཚུགས། དེ་འབདཝ་ལས་ འདི་དྲན་གསོ་མ་འབད་པར་ མཐོང་ནི་ལུ་དམིགས་པ་ཨིན།
+- **འདྲ་མིང་འཚོལ།** [འདྲ་མིང་འཚོལ](/games/find-the-same/) གིས་ པར་རེ་དང་གདམ་ཁ་གཉིས་ལས་བཞིའི་བར་སྟོནཔ་ཨིན།
+- **མཉམ་དུ་སྒྲིག།** [མཉམ་དུ་སྒྲིག](/games/sort-together/) འདི་ གློག་ཐོག་ནང་གོས་ཐུམ་སྒྲིག་ནི་བཟུམ་ཨིན། པར་ཅིག་ལུ་ཨེབ་ དེ་ལས་དེ་གི་སློག་ལུ་ཨེབ།
+- **པར་གྱི་བིང་གོ།** [པར་གྱི་བིང་གོ](/games/picture-bingo/) འདི་ ཁྱིམ་ཚང་གི་ཚོགས་འཛོམས་དང་སྡེ་ཚན་ནང་ལུ་ལེགས་ཤོམ་འབད་ཨིན།
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+རྩེདམོ་གིས་སེམས་ཁྲལ་བཟོ་མི་འགོ་བཙུགས་པ་ཅིན་ བཀག་སྟེ་གཞན་ཅིག་འབད་གནང་། [མཉམ་དུ་རྩེ་ཐངས](/caregiving/how-to-play-together/) བལྟ་གནང་།
 
-## Turning restlessness into an activity
+## གནས་མེད་སྦེ་འགྱོ་འགུལ་འབད་མི་ལུ་ བྱེད་ལས་ཅིག་སྤྲོད་ནི
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+གནས་མེད་སྦེ་འགྱོ་འགུལ་འབད་མི་ཡང་ན་བསྐྱར་ལོག་འབད་མི་ལུ་ རྒྱུ་མཚན་ཡོད་སྲིད། Family Caregiver Alliance གིས་ཟེར་མི་ལུ་ གོས་ཀྱི་སྒྲོམ་སྟོངམ་བཟོ་བཞིན་པའི་གང་ཟག་ཅིག་གིས་ བྱེད་ནི་ཅིག་ཡོད་པའི་ཚོར་བ་དང་ཕན་ཐོགས་ཡོད་པའི་ཚོར་བ་དགོ་པའི་འབད་རྩོལ་འབད་དོ་ཡོདཔ་ཨིན། Alzheimer's Association གིས་ དེ་བཟུམ་མའི་ནུས་པ་དེ་བཀག་ནི་གི་ཚབ་ལུ་ འོས་འབབ་ཡོད་པའི་བྱེད་ལས་ཅིག་ནང་ལམ་སྟོན་འབད་ནི་ལུ་བསླབ་སྟོན་འབདཝ་ཨིན།
 
-| What you see | Something to offer |
+| ཁྱོད་ཀྱིས་མཐོང་མི | སྤྲོད་ཆོག་པའི་བྱེད་ལས |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| ཅོག་ཙེ་ལུ་བཙོག་པའམ་འཛིན་ནི | ཆུ་ཐོམ་གྱི་གོས་ཕྲུག་ཅིག་དང་ ཅོག་ཙེ་ཕྱིས་དགོ་པའི་ཞུ་བ |
+| རྐང་པ་གནས་མེད་འགུལ་ནི་ཡང་ན་རྡེབ་ནི | དཀྲོགས་སྒྲ་གསལ་པོ་ཡོད་པའི་གླུ་གཞས་ཅིག་དང་མཉམ་དུ་རྡེབ་ནི་ཡང་ན་ཐལ་མོ་རྡེབ་ནི |
+| སྒྲོམ་ཡང་ན་གོས་ཀྱི་སྒྲོམ་སྟོངམ་བཟོ་ནི | བཀྲུམ་ནི་དང་སྒྲིག་ནིའི་གོས་ཡང་ན་གོས་ཕྲུག་གི་སློག |
+| དྲི་བ་འདྲ་མིང་ལོག་ལོག་འདྲི་ནི | བློ་བདེ་པོ་སྤྲོད་ དེ་ལས་མཉམ་དུ་ལེན་ནིའི་གླུ་གཞས་ཡང་ན་མཉམ་འབད་ནིའི་ལས་ཀ་ཅིག |
+| འགྲུལ་བཞུད་རྐྱངམ་ཅིག་འབད་ནི | མཉམ་དུ་འགྲུལ་བཞུད་འགྱོ་ནི་ ཡང་ན་ཅ་ཆས་འཁྱེར་ནིའི་ལས་ཀ་ཅིག |
+| ཕྱི་དྲོའི་མཇུག་ལུ་བདེ་ཏོག་ཏོ་མེདཔ་ཚོར་ནི | འོད་ལེགས་ཤོམ་ཅིག་ནང་ ཞི་འཇམ་དང་གོམས་འདྲིས་ཡོད་པའི་ལས་ཀ་ཅིག། [ཕྱི་དྲོའི་མཇུག་གི་གནས་མེད་སྤྱོད་པ](/caregiving/late-day-restlessness/) བལྟ་གནང་། |
 
-## When to stop or change course
+## ག་དུས་བཀག་ནི་ཡང་ན་ལམ་བསྒྱུར་ནི?
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+ངལ་དུབ་ སེམས་ཁྲལ་ ངོ་ཚ་ ཡང་ན་སྐྱོ་བའི་རྟགས་མཐོང་པ་ཅིན་བཀག། དཔེར་ན་ གནས་མེད་འགུལ་ནི་ གདོང་བསྲེས་འབད་ནི་ ཅ་ཆས་ཕར་ཕུདཔ་འབད་ནི་ ཡང་ན་ «ང་གིས་མི་ཚུགས» ཟེར་སླབ་ནི་བཟུམ། Alzheimer's Association གིས་ ཉིནམ་གྱི་དུས་ཚོད་གཞན་ཅིག་ལུ་ལོག་འབད་ནི་ཡང་ན་ བྱེད་ལས་དེ་ལས་སླ་རུ་བཟོ་ནི་ལུ་བསླབ་སྟོན་འབདཝ་ཨིན། བང་བཙོང་མ་འབད། ངོས་ལེན་མ་འབད་མི་འདི་ འཇིགས་པ་ཡང་ན་ལས་ཀ་དེ་དཀའ་དྲགས་པའི་དོན་ལས་འབྱུང་སྲིད། [ཁོང་གིས་མི་འབད་ཟེར་བའི་སྐབས](/caregiving/when-they-say-no/) བལྟ་གནང་།
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+སྔོན་ལས་བཀག་ནི་འདི་ལེགས་ཤོམ་ཨིན། ཇ་ཕོར་ཅིག་དང་བཅས་པར་ མཉམ་དུ་སྡོད་ནི་རྐྱངམ་ཅིག་ཡང་ལེགས་ཤོམ་ཨིན། ནུས་པ་ཚུ་མུ་མཐུད་འགྱུར་བ་འགྱོ་བའི་སྐབས་ [མཇུག་རིམ་གྱི་བྱེད་ལས](/activities/late-stage/) ནང་གི་བསམ་འཆར་ཚུ་ལེགས་ཤོམ་འབད་སྲིད། དེ་ལས་ [བྱེད་ལས་ ༡༠༡](/activities/ideas/) ནང་ལུ་ལྟ་ནིའི་བྱེད་ལས་མངམ་ཡོད།

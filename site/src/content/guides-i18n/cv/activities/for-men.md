@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Деменципе пурӑнакан арҫынсем валли ӗҫ-хӗл"
+seoTitle: "Деменципе пурӑнакан арҫынсем валли ӗҫ-хӗл"
+description: "Деменципе пурӑнакан арҫынсен унӑн пурнӑҫӗпе, ӗҫӗпе тата хӑйсене килӗшекен ӗҫ-хӗл сӗнӗвӗсем, кашнине хӑрушсӑрлӑха пӑхса майлаштармалли сӗнӳсемпе."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Деменципе пурӑнакан арҫын валли чи лайӑх ӗҫ-хӗлсем — унӑн хӑйӗн пурнӑҫӗнчен
+  килекеннисем: вӑл тунӑ ӗҫ, юратнӑ хӑвасӗсем тата кулленхи ӗҫ-йӗркисем. Офисра
+  ӗҫленӗ ҫын каҫӑсем уйӑрма юратма пултарать, механик таса хатӗрсемпе ӗҫлеме
+  килӗшме пултарать, спорт юратакан ҫын кайранхи вӑййине курма хавхаланма
+  пултарать. Кӑсӑкланусем кашни арҫынра тӗрлӗ, ҫавна май ҫынран пуҫла, унӑн
+  арҫын пулнинчен мар.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Ку арҫынӑн хӑйӗн историйӗнчен пуҫлӑр: унӑн ӗҫӗ, хӑвасӗсем, ӗҫ-йӗркисем тата мӗнпе вӑл мухтаннӑ."
+  - "Тӗрӗс усӑллӑ ӗҫсем — сӑмахран, хатӗрсене уйӑрни, машины шуни е йывӑша шӑлни — час-часах урок пек курӑнакан ӗҫсенчен ытларах килӗшет."
+  - "Кашни арҫын та хатӗрсемпе е спортпа кӑсӑklanмасть. Нумайӑшӗ апат пӗҫерме, кӗвӗ лартма, пахча ӗҫне, ӳнере е ыттисем ҫине пӑхма юратать. Ыйтӑр, сӑнаса тӑрӑр тата ун патӗнче пырӑр."
+  - "Ӗҫ пек ӗҫсене хӑрушсӑр тӑвӑр: ҫивӗч хатӗрсене кӑларса пӑрахӑр, пӑхса тӑрӑр тата пултарулӑх улшӑннӑ май ансатлатӑр."
+  - "«Ҫук» теме ирӗк пур. Ӗҫ пар, ырӑ мар, тата тепӗр кун тепре сӗнӗр."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Деменципе пурӑнакан арҫынсем мӗнле ӗҫ-хӗлсене юратаҫҫӗ?"
+    a: "Пӗртен-пӗр список ҫук, мӗншӗн тесен арҫынсен кӑсӑкланӑвӗсем пуринпе пӗрех тӗрлӗ. Лайӑх пуҫламӑшсем — унӑн малтанхи ӗҫӗпе ҫыхӑннӑ ӗҫсем, сӑмахран, каҫӑсем йӗркелени е гайкӑсене тата шайбӑсене уйӑрни, ҫавӑн пекех унӑн юратнӑ хӑвасӗсем — пулӑ лартасси, машинысем, кӗвӗ, апат пӗҫерни е спорт. Хӑй тӗллӗн мӗн тунине сӑнаса тӑрӑр тата ҫавӑн ҫине ӗҫ тӑвӑр."
+  - q: "Аттем ушкӑнри ӗҫ-хӗлсенчен анкарать. Мӗн тума пулать?"
+    a: "Нумай ҫынсем, арҫынсем те хӗрарӑмсем те, урок пек е ачасен пек курӑнакан ӗҫ-хӗлсене йышӑнмаҫҫӗ. Ӗҫ ыйтса пӑхӑр: «Кусене уйӑрма пулӑшас-и манӑн?» Пӗчӗк ушкӑнсем е пӗр-пӗр патӗнче пурӑнасси пысӑк пӳлӗмрен лайӑхрах туйӑнма пултарать."
+  - q: "Хатӗрсемпе ӗҫлеме ирӗк парни хӑрушсӑр-и?"
+    a: "Пӑхса тӑнипе тата хӑрушсӑр хатӗрсемпе кӑна. Электро хатӗрсене, ҫивӗчсемпе кашни ҫивӗч япалана кӑларса пӑрахӑр, йывӑҫ кусне шӑлни, таса хатӗрсене уйӑрни е пысӑк гайкӑсене алӑпа ҫунтарни пек ӗҫсем сӗнӗр. Альцгеймер ассоциацийӗ мастерскойран хӑрушлӑх кӳлепе япаласене кӑларса пӑрахма сӗнет, ҫапла шӑлни пек ӗҫ хӑрушсӑррах юлма пултарать."
+  - q: "Вӑл специалист пулнӑ. Ансат ӗҫсем ӳпкелеҫҫӗ-и?"
+    a: "Вӗсене тӳрех вӑрттӑнлӑх пек палӑртсан, ҫапла пулма пултарать. Ӗҫе тӗрӗс пулӑшу пек калӑр, ҫынсен валли хатӗрленӗ япаласемпе усӑ курӑр тата унӑн малтанхи ӗҫӗне ҫывӑх килекен япала суйлӑр — сӑмахран, список тӗрӗслени, папка йӗркелени е ҫырусем пухма пулӑшни. Енчен те вӑл хӑш-пӗр ӗҫре питӗ пӗлӳллӗ пулнӑ пулсан, ҫывӑх, анчах урӑх ӗҫ танлаштару пек туйӑнмасӑр пулма пулӑшма пултарать."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Нумай ҫын «Деменципе пурӑнакан арҫынсем валли ӗҫ-хӗлсем» тесе шырать, мӗншӗн тесен чи тулли сӗнӳсем вӗсен пурнӑҫӗнчи арҫын патне килӗшмест пек туйӑнать. Ку — ӑнланмалла шухӑш. Анчах хуравӗ «арҫынсен ӗҫ-хӗлӗсем» списокӗ мар. Ҫак арҫынран пуҫламалла: вӑл мӗнле ӗҫпе ӗҫленӗ, ыранкунӗсене мӗн тунӑ тата хӑйне кирлӗ туйма мӗн пулӑшнӑ. Кӑсӑкланусем пур ҫынра та тӗрлӗ. Нумай арҫын апат пӗҫерме, пахчара ӗҫлеме, ӳкерме е юрлама юратать, нумай хӗрарӑм та машинӑсене тата бейсболпа кӑсӑкланать.
 
-## How do I find activities he will actually enjoy?
+## Вӑл чӑнах та юратакан ӗҫ-хӗле эпӗ мӗнле тупмалла?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Унӑн пурнӑҫ историйӗнчен пуҫлӑр. Альцгеймер ассоциацийӗ [кулленхи план](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ҫынӑн юратнипе, юратманнипе, вӑйӗпе тата кӑсӑкланӑвӗпе, ҫавӑn пекех малтан вӑл кунне мӗнле йӗркеленӗ тата вырнаҫтарнӑ тесе шухӑшлама сӗнет. Хӑвӑнтан ыйтӑр:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Вӑл мӗнле ӗҫпе ӗҫленӗ?** Офисра, ял хуҫалӑхӗнче, заводра, мастерствӑра, ҫар службӗнче, суту-илӳре, вӗрентӳре, транспортра е килте?
+- **Ирӗклӗх вӑхӑтра мӗн тунӑ?** Пулӑ лартасси, карта вӑййисем, йывӑҫ ӗҫӗ, спорт, чиркӳ, кӗвӗ, апат пӗҫерни, гаражри машина?
+- **Мӗнле ӗҫ-йӗркисем пулнӑ?** Кашни ирхи кофе тата хаҫат? Ҫанталӑка тӗрӗслени? Шӑмат кунӗ машине шуни?
+- **Халь те ыйтмасӑрах мӗн туса пуҫларать?** Ассоциаци палӑртнӑ тӑрӑх, ҫын хӑш-пӗр ӗҫе, сӑмахран, урай шӑлнине, ыйтмасӑрах пуҫласан, вӗсем кулленхи йӗркене кӗме пултараҫҫӗ.
+- **Мӗнрен вӑл пӑрӑнать?** Хӑш-пӗрисем спорт пӑхма юратаҫҫӗ, ыттисемшӗн хӑвӑртлӑхӗпе сассисем йывӑр туйӑнма пултараҫҫӗ. Вӑл хӑҫан савӑннӑ, хӑҫан канӑҫсӑрланнӑ е кӑшкӑрнӑ пек курӑннине асӑрхарӑр.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Ҫемье ҫынӗсемпе авалхи туссемпе те калаҫӑр. Вӗсем кулленхи пурнӑҫран манса кайнӑ кӑсӑкланусене аса илме пултараҫҫӗ.
 
-## Activity ideas based on past work
+## Малтанхи ӗҫӗпе ҫыхӑннӑ ӗҫ-хӗл сӗнӗвӗсем
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Альцгеймер ассоциацийӗ уҫӑ сӑмах парать: малтан офисра ӗҫленӗ ҫын йӗркелӳ ӗҫӗсене юратма пултарать — укҫа контейнерне хурни, ҫырусем пухма пулӑшни е тумаллисен списокӗ тӑвни; малтан ял хуҫалӑхӗнче е пахчара ӗҫленӗ ҫын урайра ӗҫлеме хавхаланма пултарать. Ҫак шухӑш нумай ӗҫ тӗсне те пырса тӑрать.
 
-| Past work | Activity ideas | Simpler version |
+| Малтанхи ӗҫ | Ӗҫ-хӗл сӗнӗвӗсем | Ансатрах вариант |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Офис е бизнеса | Каҫӑсене папкӑсене уйӑрни, конвертсене печатлани, список тӗрӗслени, ҫыру сӗтелӗн яшникне йӗркелени | Конвертсене йӑвали; скрепкӑсене коробкӑна хурни |
+| Мастерство е механика | Таса гайкӑсене, болтсене тата шайбӑсене уйӑрни; пысӑк болтсене алӑпа ҫунтарни; хатӗрсен каталогӗсене пӑхни | Икӗ куркӑна калӑпӑшӗпе уйӑрни |
+| Ял хуҫалӑхӗ е ландшафт | Шыв акни, ӳсентӑрансене йышӑнтарни, ҫулҫӑ пухни, пахчана тӗрӗслени | Эсир ӗҫленӗ чухне унта ларасси; ӳсентӑран пакетӗсене тытса тӑни |
+| Ҫар служби | Туфлисене йӑл-тӑр тӑвни, яшникри япаласене тӳрӗ тӑвни, унӑн валли килӗшет пулсан, служба вӑхӑтӗнчи сӑнӳкерчӗксене пӑхни | Ҫав вӑхӑтӗн кӗввисене итлени |
+| Суту-илӳ е клиентсемпе ӗҫ | Хӑнасене сывлани, ҫӑкӑр пайлани, купонсене уйӑрни | Сывлӑх сунма алӑк умӗнче ларасси |
+| Вӗрентӳ | Саспа вулани, кӗнекесене йӗркелени, сӑнӳкерчӗксене темӑпа уйӑрни | Пӗрле сӑнӳкерчӗклӗ кӗнеке пӑхни |
+| Транспорт е шоферлӑх | Карттӑсене е кивӗ машина журналӗсене пӑхни, машине шуни | Крыльцара лараса иртекен машинӑсене сӑнни |
+| Кил тата ҫемье | Тумтирсене ҫӗрни, сӗтел хатӗрлени, каҫхи апата пулӑшни | Салфеткӑсене тӳрӗ тӑвни; соуса пӑтратни |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Хӑш-пӗр аса илӳсем, сӑмахран, ҫар служби, вӑйлӑ туйӑмсем ҫитерме пултараҫҫӗ. Ун патӗнче пырӑр, иртнине ҫапла килӗшӳллӗ калаҫӑр тата вӑл йывӑрланнӑ пек курӑнсан, калаҫӑва ҫемҫех ытти енне куҫарӑр.
 
-## Activity ideas based on hobbies
+## Хӑвасӗсемпе ҫыхӑннӑ ӗҫ-хӗл сӗнӗвӗсем
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Йывӑҫ ӗҫӗ.** Яка йывӑҫ кусне шӑлни е кайӑк пӳртӗ комплекчӗне сарни. Альцгеймер ассоциацийӗ мастерскойран хӑрушлӑх кӳлепе хатӗрсене тата япаласене кӑларса пӑрахма сӗнет, ҫапла шӑлни пек ӗҫ килӗшӳллӗ те хӑрушсӑр та пулма пултарать.
+2. **Пулӑ лартасси.** Кармаксене кӑларнӑ пулӑ лартмалли яшник йӗркелени, пулӑ лартасси журналӗсене пӑхни е шыв хӗрринче пӗрле ларасси.
+3. **Машинӑсем.** Машине шуни, хром пайӗсене йӑл-тӑр тӑвни, классика машинӑсен сӑнӳкерчӗкӗсене пӑхни е пассажир пулса ҫӳресси.
+4. **Спорт.** Классика вӑййӑна е хайлайтсене пӑхни, ҫемҫе мячпа ыткӑласси, ковёр ҫинче гольф мӑкӗсене хурни е бейсбол карттисене уйӑрни.
+5. **Картӑсем тата вӑййӑсем.** Паллаш карта вӑййин ансат партине, домино е пӗр пеккисене тупас тесе картӑсене ҫавӑрни. Куҫӑмсӑр ирӗклӗ тытӑр тата очкосене шутлама пӑрахӑр.
+6. **Кӗвӗ.** Унӑн ҫамрӑклӑхӗнчи юрӑсем, юратнӑ ушкӑн е псалм. Пирӗн [кӗвӗ ӗҫ-хӗлӗсем ҫинчен руководствӑпа](/activities/music/) паллашӑр.
+7. **Апат пӗҫерни тата гриль.** Пахча ҫимӗҫне шуни, соуса пӑтратни, котлетсене шӑплатни е эсир апат хатӗрленӗ чухне, вӑл хӑйӗн чилийӗне мӗнле пӗҫернӗне калани.
+8. **Хаҫат.** Альцгеймер ассоциацийӗ палӑртнӑ тӑрӑх, яланах хаҫат вуланӑ ҫын, мӗнпурне туллин тӳпе хӗмескерех, вуласа савӑнма пултарать. Ирхи кофе тата хаҫат ӗҫ-йӗрки пулса юлма пултараҫҫӗ.
+9. **Туни.** Ҫынсен валли пысӑк пайрӑмлӑ модель комплектӗсем е ансат конструкторсем. Тытса ҫӑмӑл пайрӑмсем суйлӑр.
+10. **Хӑш-пӗр япала ҫине пӑхни.** Чӗр-чун çитерни, кайӑк валли апат кӳртне тултарни е ӳсентӑрансене шывлани. NIA [чӗр-чун çитерни, тирпейлени е уҫӑ ҫӳрени](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ҫынсем юратма пултаракан ӗҫсен шутне кӗртет.
 
-## How do I offer an activity without it feeling like busywork?
+## Ӗҫ-хӗле вӑрттӑнлӑх пек курӑнмасӑр мӗнле сӗнмелле?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Ӑна тӗрӗс пулӑшу пек палӑртӑр. Альцгеймер ассоциацийӗ «Тархасшӑн, пулӑшас-и манӑн?» тесе ыйтма тата ӗҫе тӗллевпе ҫыхӑнтарма сӗнет. Танлаштарӑр:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Ку болтсене уйӑрас-и?» (тӗрӗслени пек илтӗнет)
+- «Эпӗ хатӗрсен хутӑшмӑшне илтӗм, полкӑна тӳрлетиччен вӗсене уйӑрмалла. Пулӑшма пултаратӑн-и?» (ӗҫ пек илтӗнет)
 
-Other tips:
+Ытти сӗнӳсем:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Ҫынсен валли хатӗрленӗ япаласемпе усӑ курӑр.** Ҫивӗч пайӗсене кӑларнӑ тӗрӗс хатӗрсем, тӗрӗс каталогсем, тӗрӗс конвертсем.
+- **Пӗр-пӗрин айӗнче ӗҫлӗр.** Икӗ ҫын пӗрле ӗҫлени — пӗрлех пурӑнасси. Пӗр ҫын теприне сӑнаса тӑни — пӑхса тӑни.
+- **Тӳрлетмӗр.** Болтсем тӗрӗс мар куркӑна кӗссе пӗр-пӗр ҫын кӗсен, юлашкин пултӑр. Пӗрле ирттернӗ вӑхӑт тата кирлӗ туйӑни пысӑкрах.
+- **Пуҫлама пулӑшӑр.** Альцгеймер ассоциацийӗ палӑртнӑ тӑрӑх, нумай ҫынсен япалана тума кӑмӑл пур, анчах йӗркелеme тата пуҫлама йывӑр. Пӗрремӗшне пӗрле тӑвӑр.
 
-## How do I adapt as things change?
+## Япаласем улшӑннӑ май мӗнле майлаштармалла?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Деменци вӗҫленнӗ май Альцгеймер ассоциацийӗ ансатрах, тепӗр хут калакан ӗҫсене кӗртме тата ҫын сахалрах хутшӑнма пултарассине шута илме сӗнет. Малтан двигательсене тӳрлетнӗ арҫын халь таса гаечкӗна тытса машинӑсем ҫинчен калаҫма е эсир ӗҫленине пӑхма килӗшме пултарать. Пӑхни те — хутшӑнни.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Енчен те вӑл хӑш-пӗр ӗҫре питӗ пӗлӳллӗ пулнӑ пулсан, унӑн малтанхи ӗҫӗнчен ытларах ҫывӑх ӗҫ лайӑхрах туйӑнма пултарать. Ассоциаци палӑртнӑ тӑрӑх, професси художникӗ хӑйӗн ӗҫӗнчи улшӑнӑва кура йывӑрланма пултарать, анчах ӑмӑртуллӑхпа ӗҫлекен ҫын ҫӗнӗ вырӑн тупса савӑнма пултарать. Ҫакӑ пысӑк пӗлӳллӗ платник валли те ҫапла.
 
-## Safety with work-style tasks
+## Ӗҫ пек ӗҫсенче хӑрушсӑрлӑх
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Электро хатӗрсене, ҫивӗчсемпе, ҫивӗч вӗҫлӗ чикӗсемпе шурӳсене кӑларса пӑрахӑр.
+- Сӑрӑ сыватмалли япаласене, бензинпа химипе усӑ курмалли япаласене ҫакса хурӑр.
+- Енчен те вӑл урӑх машина ҫӳремест пулсан, машина ачкисене курӑнмасӑр вырӑнта тытӑр.
+- Мастерскойра тата урайра пур ӗҫе те пӑхса тӑрӑр.
+- Ҫилеме май ҫук пысӑк пайрӑмсем суйлӑр.
 
-## What if he says no?
+## Енчен те вӑл «ҫук» тесен мӗн тумалла?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Ку шутне илӗр. «Ҫук» тенӗ сӑмах ӗҫ ытла йывӑр, ачасен пек е паян кунах килӗшмест терӗн пулма пултарать. Альцгеймер ассоциацийӗ ҫӳнтерме юрамасть тесе асӑрхаттара. Урӑх ӗҫ, урӑх вӑхӑт сӗнӗр е пӗрле ларар. [Вӗсем «ҫук» тенӗ чухне мӗн тумаллине](/caregiving/when-they-say-no/) пӑхӑр.
 
-## Games and conversation that fit
+## Килӗшекен вӑййӑсем тата калаҫусем
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) Америкӑра паллӑ сӑмах майлашӑвӗсемпе усӑ курать тата калаҫӑва илсе пырать. [Conversation Cards](/games/conversation-cards/) темӑпа пайланӑ, тӗрӗсленӳсӗр уҫӑ ыйтусем парать; вӗсем ӗҫпе хӑвас ҫинчен аса илӳсене уҫма пулӑшаҫҫӗ. [Picture Puzzle](/games/picture-puzzle/) тӳрӗ сӑнне тулли курӑнмалла тытать, эсир пайрӑмсене вырӑнӗпе улӑштарнӑ чухне; пысӑк саспалли [Word Search](/games/word-search/) вара пичетлесе, кухньӑ сӗтелӗнче ручкӑпа тунӑ май пур. Унӑн иртнине тӗрӗслемесӗр мӗнле калаҫмалли ҫинчен пирӗн [аса илӳ ӗҫ-хӗлӗсем ҫинчен руководствӑпа](/activities/reminiscence/) паллашӑр.

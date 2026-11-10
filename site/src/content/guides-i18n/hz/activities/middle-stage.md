@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Oviungura pokati komutjise wokuzemba"
+seoTitle: "Oviungura pokati komutjise wokuzemba"
+description: "Oviungura ovipupu pokati komutjise wokuzemba: oviungura vyomeumbo, omizumbi, oviperendero noviṋa vyoviperendero, nondjira yokuvituna nokurundurura okuhinokusuva."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Pokati komutjise wokuzemba, oviungura oviwa vyokutjita ovikutu, ovitwirisiwa
+  na vyahaṋwa momikambo vyokutja kamwe: okupeta ozombanda, okutwaa ozosokisi,
+  okukooha oviyaha, okuimbura, okukayenda pamwe, okutara omambo woviperendero
+  noviṋa vyoviperendero ovipupu. Tuna oviṋa, raisa omukambo wotenga, kambura
+  po ovikutu oviṱiṱi nu yandjera omundu a tjite otjiṋa otjinyandisiwa. Kurama
+  indu tji tji hi nokuyorokisa rukwao.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Oviungura vyomeumbo omundu mbya tjiwa potuingi vi ungura nawa, mena rokutja vi mu pa ondjingonekero yokutja u nondjamo nu omundu omunene."
+  - "Raisa, ha tjaerere uriri; yandja omukambo umwe poruveze, nu yandja ozondyero mbari ozipupu pendje yokupura epuriro ndi hina omaandero."
+  - "Kambura po orupa oruṱiṱi, kokutja omundu ma yenene okutjita orupa ndu ri mu yorokisa."
+  - "Ongaro yokuhinokusuva potuingi mai hee kutja omundu ma hepa otjiṋa okutjita. Mu pa otjiungura tji tji hitasana, pendje yokutja \" indee\"."
+  - "Okutara uriri, okuvatera katiti, poo okukurama rukuru avihe vi ri nawa."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Oviungura viṋe mbi ri oviwa pokati komutjise wokuzemba?"
+    a: "Oviungura ovikutu, oviṱiṱi, vyomake na vyomundu ma tjiwa potuingi vi ungura nawa: okupeta ozotauwa, okutwaa ozosokisi, okukooha oviyaha, okutuna otjihavero, okuimbura pamwe novizumbi ovikuru, okukayenda pamwe, okutara omambo woviperendero noviṋa vyoviperendero ovipupu. Haṋa atjihe momikambo vyokutja kamwe nu tjite pamwe."
+  - q: "Me yenene vi okuvatera omundu ngu nomutjise wokuzemba okutameka otjiungura?"
+    a: "Tuna oviṋa avihe, nu u tameke otjiungura oveni nu mu ningire a ku vatere: 'Mo yenene okundjivatera nozotauwa nda?' Ovandu ovengi va vanga okukara norupa, posi ya tjita ouzeu okutameka. Okuraisa omukambo wotenga potuingi ku ungura nawa okukapita okutjivisa."
+  - q: "Hi nokutjita vi indu tji ma tjiti otjiṋa tjimwe povikando ovingi?"
+    a: "Okutjita otjiṋa povikando ovingi potuingi ka tji na oumba nu matji raisa kutja omundu ma vanga okukara nondjamo poo ma hepa omahuhumiṋino. Pendje yokumuṱuna, mu pa otjiungura tji tji hitasana nongaro ndjo, tjimuna okambiya kozombanda zokupeta poo otjizumbi okutjimbura pamwe."
+  - q: "Nu tji ma tjiti otjiungura navi?"
+    a: "Tji tji hi na oumba, tji esa nao. Ozotauwa nda petwa momuano warwe poo oviiyaha mbi ri poruveze rwarwe ka vi na tjinene. Okumuṱuna maku munika tjimuna omberero, posi ya okumu yandjera a tjite momuano we ku mu pa ondjingonekero yokutja ma yenene nu u nondjamo."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Oruveze rwopokati komutjise wokuzemba potuingi oru rwa karerera, nu hapo oviungura vi uta okuhepa ombatero yatjiri. Omambo ye ya tjita ouzeu, omikambo vi vangavangwa, nu okutameka otjiṋa atjihe maku yenene okutjita ouzeu. Posi ya ozonduma zokuvanga okukara nondjamo nokukara norupa potuingi ze kara po. Netunino ekwao, omundu ngu ri pokati komutjise wokuzemba ma yenene okukara nondjoroka moviṋa ovingi, tjinenenene moviungura mbya tjiwa, momizumbi na moviperendero mbi mu ungura pamwe na ove.
 
-## What activities work well in middle-stage dementia?
+## Oviungura viṋe mbi ungura nawa pokati komutjise wokuzemba?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Oviungura ovikutu, oviṱiṱi, vyomake na vyomundu mbya tjiwa, mbi haṋwa momikambo vyokutja kamwe, vi ungura nawa tjinene. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) i tja ka u hepa okutunga oviṋa ovipe okutjita: oviungura mavi yenene okukara orupa rwomuinyo weyuva arihe, tjimuna okurongera ovikurya pamwe, okutuna otjikunino, okupuratena komizumbi poo okukayenda pamwe.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i tja ovandu moruveze ndwi potuingi ve nonduma onyingi yokuvanga okumuna kutja ve nondjamo poo okutjevera otjiṋa, nu ve hepa ombatero okutameka poo okutwikira noviungura. Omutanda wayo woruveze rwopokati u kamburira mo okupeta ozombanda, okukooha oviyaha, okutwaa ozosokisi, omanyando omapupu worutu, okupunda komizumbi mbi va tjiwa, okukayenda pamwe nombatero, okuimbura pamwe, okupenda okupupu nokutara omambo woviperendero.
 
-## How do you set up an activity so it works?
+## Mo tunu vi otjiungura kokutja tji ungure?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Oviungura ovingi vi toṋa poo vi pandjara morutunino. Omitiro mbi, mbi za k[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) na k[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), vi eta ombangu onene:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Kohorora oruveze.** Zepa o-TV, pata omuvero nu twa po imbi otjiungura mbi tji hepa uriri.
+2. **Tameka oveni.** Uta okupeta poo okuṱukisa nu mu ningire a hite mo: "Mo yenene okundjivatera na tji?"
+3. **Raisa, nu undja.** Raisa omukambo umwe. Tuurunga poo mu vatere neke, tjimuna okumuraisa kutja opuete ri twa pi.
+4. **Yandja omukambo umwe poruveze.** "Peta pokati" omapupu okukapita "peta mbi nu u vi twa pamwe otja kombara."
+5. **Yandja ozondyero mbari, ha omapuriro womurungu.** "Ozotauwa ozomburau poo ozingirine?" omapupu okuzira okukapita "Mo vanga okutjita tjike?"
+6. **Tjita orupa oruṱiṱi oveni.** Ove u saneka, eye u ṱukisa. Ove u hinda onane, eye u dingirisa ongoze.
+7. **Pa otjiungura etjitire.** "Ozonapukine nda ozovikurya vyOsondaha" ze tjita kutja otjiungura tji kare notjipuka.
+8. **Mu yandjera a tare tji ma vanga.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i tja okutara uriri wina maku yenene okukara nondjoroka.
 
-## Activity ideas for the middle stage
+## Omiano vyoviungura moruveze rwopokati
 
-### Useful jobs
+### Oviungura vyomuinyo
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Peta ozotauwa nozombanda zokurikohona.** Oviṋa ovikutu novitereze ovyo oviṋepu tjinene. Okambiya kozombanda ozomasa zokurikohona make yenene okupetwa, okuserwa nokupetwa rukwao.
+- **Twaa ozosokisi.** Uta novikutu vikwao oviṱiṱi uriri. Okutwaa kombara uriri wina ku ri nawa.
+- **Kooha poo punguhurura oviyaha mbi hi nokutekera.** Omeva omasa neyuva potuingi ye yorokisa komake. Okupunguhurura tji wa haama omapupu komarama.
+- **Tuna otjihavero.** Yandja otjiṋa tjimwe poruveze, nu tuna oruveze rumwe oveni otjotjihorera.
+- **Vatera noviṋa vyovikurya.** Okukooha ozombatata, okuteya ovivare poo okuṱukisa mokayaha. Ove u ṱakamisa omitiye nomuriro.
+- **Komba, pungurura oruuṱi poo koha.** Ombanda yotjihavero, okakombo okapupu korupanda.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Tara [oviungura vyomeumbo](/activities/household-tasks/) komiano vyarwe ovingi.
 
-### Music and movement
+### Omizumbi nomanyando
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Imbura ovizumbi ovikuru.** Uta okuimbura oveni; ovandu ovengi ve hita mo movizumbi mbi va tjiwa oure wozombura ozengi. Tara [oviungura vyomizumbi](/activities/music/).
+- **Punda momuano omupupu.** Nyinganyinga, tona omake poo nyanda otja tji tji ku yorokisa. Okuhaama ku ri nawa.
+- **Yumba otjimbundu tjomhepo.** Tji kayenda kouwana nu omapupu okutjambura tji wa haama.
+- **Kayenda pamwe nombatero.** Kayenda pamwe mondjira onḓupi omundu ndje tjiwa, nu kamburirena pomake tji tji ku vatera.
 
-### Pictures and stories
+### Oviperendero nomahungi
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Tara embo roviperendero.** Hungirira ku imbi mbi mo munu, pendje yokupura omapuriro: "Tara otjihende hi. Ndji serekarera otjawo." Tara [oviungura vyokuzemburuka](/activities/reminiscence/).
+- **Ungurisa oukarata womahungi.** [Conversation cards](/games/conversation-cards/) ve waneka otjiperendero nepuriro ndi hina omakonḓononeno.
+- **Tarera otjiperendero otjikuru pamwe.** Toorora otjiṋa omundu tja tjiwa, kara popezu nu kuramisa okusuva.
 
-### Simple, pressure-free games
+### Oviṋa vyokunyanda ovipupu, mbi hina ombambu
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Picture pairs noviperendero mbi ri poruha.** [Picture pairs](/games/picture-pairs/) vi yandjera oviperendero okukara poruha, kokutja oviṋa vyokumuna, ha okuzemburuka.
+- **Find the same.** [Find the same](/games/find-the-same/) vi raisa otjiperendero tjimwe nozondyero mbari nga ku ine uriri.
+- **Sort together.** [Sort together](/games/sort-together/) vi ri tjimuna okutwaa ozombanda mokombiyuta: ṱuna kotjiperendero, nu okambiya katjo.
+- **Picture bingo.** [Picture bingo](/games/picture-bingo/) vi ungura nawa pomawongezano weṱunḓu na momikutu.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Otjiṋa tjokunyanda tji tja uta okuzepa, kurama nu tjita otjiṋa tjarwe. Tara [okunyanda pamwe](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Okurundurura okuhinokusuva kutje rire otjiungura
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Ongaro yokuhinokusuva poo okutjita otjiṋa povikando ovingi potuingi i netjitire. Family Caregiver Alliance i tja omundu ngu ma twikire okutura ovikutu mokakase mape ya ma kondjo okuṱakamisa onduma yokuvanga okukara nondjamo. Alzheimer's Association i tunduuza okurundurura omasa ngo kotjiungura tji tji hitasana, pendje yokutjitjaerera.
 
-| What you see | Something to offer |
+| Tji mo munu | Otjiṋa tji mo yenene okuyandja |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Okuzora poo okupata potjihavero | Ombanda ombore neŋingiro rokukoha otjihavero |
+| Ozombaze nḓe hi nokusuva poo okutona | Omizumbi mbya raisa omuteto omuṱiṱi okutona poo okuṋaṋa ko |
+| Okutura ovikutu mozokakase poo mozondundu | Okambiya kozombanda poo kozombanda zokurikohona okupeta nokutwaa |
+| Okupura epuriro rimwe povikando | Omahuhumiṋino, nu okuzambo otjizumbi poo otjiungura okutjita pamwe |
+| Okukawondja | Okukayenda pamwe, poo otjiungura tji tji kamburira mo okutjinda oviṋa |
+| Okuhinokusuva komuhuka | Otjiungura otjipupu nomundu tja tjiwa mondjerera ombwa; tara [okuhinokusuva komuhuka](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Oruveze rwokukurama poo okurundurura ondjira
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Kurama tji wa munu omayaukero womb fatigue, ombamu, ohoṋi poo okururuma, tjimuna okunyanyauka, okuripeta motjipara, okutundurura oviṋa poo okutja "Hi nokuyenena." Alzheimer's Association i tunduuza okurora rukwao poruveze rwarwe meyuva poo okutjita otjiungura tji rire otjipupu. O tji ṋiṋikiza. Okupanda maku yenene okuzira koumba poo kotjiṋa tji tja tjita ouzeu; tara [indu tji ma tja indee](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Okumana rukuru ku ri nawa. Okukara pamwe uriri nokanwino katee wina ku ri nawa. Ozondunge tji za runduruka komurungu, omiano mu [oviungura vyoruveze rwokomaandero](/activities/late-stage/) mavi yenene okuhitasa nawa, nu [101 oviungura](/activities/ideas/) vi nozongaro ozengi zarwe okurora.

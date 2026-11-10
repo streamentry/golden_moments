@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Èske demans ka evite? Sa rechèch di"
+seoTitle: "Èske demans ka evite? Sa rechèch di"
+description: "Sa Komisyon Lancet 2024 la ak gwo etid yo jwenn sou diminye risk demans, sa yo pa jwenn, ak etap pou diskite ak yon doktè."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Pèsonn pa ka pwomèt pou evite demans. Komisyon Lancet 2024 la estime
+  ke prèske mwatye ka demans atravè lemond gen rapò ak 14 faktè risk
+  ki ka chanje, tankou tansyon wo, pèt tande ak pa fè ase aktivite.
+  Etid yo montre ti efè sou tès panse, pa prèv ke gen mwens ka demans.
+  Anpil moun ki fè tout bagay «byen» toujou devlope demans, epi se pa
+  fòt pèsonn.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Komisyon Lancet 2024 la te lye anviwon 45% ka demans atravè lemond ak 14 faktè risk ki ka chanje. Sa se yon estimasyon pou tout popilasyon an, pa yon garanti pou yon sèl moun."
+  - "Diminye risk vle di bese chans yo nan tout yon popilasyon. Sa pa vle di nenpòt moun ka evite demans."
+  - "Gwo etid tankou FINGER, US POINTER ak SPRINT MIND te jwenn ti benefis sou tès panse oswa sou twoub mantal modere, men okenn pa te pwouve ke yon pwogram vi ka evite demans."
+  - "Laj se pi gwo faktè risk yo konnen pou maladi alzaymè, epi li pa ka chanje. Anpil moun ki gen bon abitid sante toujou devlope demans."
+  - "Etap yo plis etidye, tankou trete tansyon wo, sèvi ak aparèy oditif ak rete aktif, vo lapèn diskite ak yon doktè paske yo ede sante nan lòt fason tou."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Èske demans ka evite?"
+    a: "Pa gen okenn fason ki pwouve pou evite demans pou nenpòt moun. Rechèch sijere ke diminye sèten risk, tankou tansyon wo, pèt tande ki pa trete ak fimen, ka diminye chans demans nan yon popilasyon oswa retade lè li kòmanse. Sa yo se chans, pa pwomès."
+  - q: "Kisa chif 45% Komisyon Lancet la vle di?"
+    a: "Komisyon Lancet 2024 la estime ke anviwon 45% ka demans atravè lemond gen rapò ak 14 faktè risk ki ta ka, an teyori, chanje. Estimasyon an sipoze faktè sa yo lakòz demans, epi otè yo note kèk lyen ka sèlman an pati lakòz. Li dekri tout popilasyon yo epi li pa di ou risk nenpòt moun an patikilye."
+  - q: "Si paran mwen te gen yon vi ki an sante, poukisa yo te gen demans?"
+    a: "Laj, jèn ak anpil faktè pèsonn pa kontwole jwe yon gwo wòl nan demans. Otè Komisyon Lancet la note ke diminye risk nan yon popilasyon pa garanti okenn moun pap devlope demans. Yon dyagnostik pa vle di okenn moun te echwe."
+  - q: "Èske li twò ta pou diminye risk demans apre laj 65 an?"
+    a: "Komisyon Lancet la di li pa janm twò bonè oswa twò ta pou diminye risk, menmsi anpil nan prèv yo konsène mitan lavi. Trete pwoblèm tande ak vizyon, rete aktif ak kenbe kontak ak lòt moun se egzanp etap nan laj avanse yo te etidye. Pale ak yon doktè sou sa ki anfòm ak sante ou."
+  - q: "Èske jwèt pou sèvo oswa rejim espesyal evite demans?"
+    a: "Pa gen okenn jwèt, manje, konpleman oswa rejim ki pwouve pou evite demans. Yon etid sou twa ane sou rejim MIND pa t jwenn okenn diferans enpòtan nan panse konpare ak yon rejim kontwòl, epi aplikasyon komèsyal pou antrene sèvo pa montre yo gen efè yo wè nan etid rechèch yo."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Si w ap pran swen yon moun k ap viv ak demans, oswa si w te wè yon paran w viv ak li, ou pwobableman mande tèt ou si yo te ka evite li, epi si ou ka evite li rive w. Paj sa a prezante sa rechèch aktyèlman di, nan langaj klè. Repons kout la: pèsonn pa ka pwomèt pou evite demans, men rechèch sijere ke kèk risk ka diminye, epi diminye yo nan yon popilasyon ka vle di mwens moun devlope demans oswa yo devlope li pi ta.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Sa a se enfòmasyon jeneral, se pa konsèy medikal. Tanpri li [avi medikal nou an](/medical-disclaimer/) epi pale ak yon doktè sou sante w.
 
-## Can dementia be prevented?
+## Èske demans ka evite?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Pa gen okenn fason ki pwouve pou evite demans pou yon sèl moun. National Institute on Aging (NIA) di pandan ke [anyen poko pwouve pou evite maladi alzaymè](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), chèchè yo jwenn estrateji ki bay espwa epi yo ap aprann sa ki ka ede ak sa ki ka pa ede.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Sa rechèch *montre* se ke sèten pwoblèm sante ak abitid gen rapò ak yon pi gwo chans pou devlope demans. Lè risk sa yo pi ba nan tout yon popilasyon, mwens moun ka devlope demans, oswa yo ka devlope li pi ta nan lavi. Sa diferan anpil ak yon garanti.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Yon siy ki bay espwa: Komisyon Lancet 2024 la rapòte ke nan kèk peyi ki gen gwo revni, tankou Etazini ak Wayòm Ini, pati nan moun ki pi granmoun ki gen demans te diminye. Otè yo panse sa pwobableman an pati akòz pi bon edikasyon, pi bon swen sante ak mwens domaj nan veso sangen pandan tout lavi, dapre [rezime University College London sou rapò a](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Kisa Komisyon Lancet 2024 la te jwenn?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Komisyon Lancet sou prevansyon, entèvansyon ak swen demans se yon gwoup 27 chèchè sou demans ki revize prèv yo chak kèk ane. Rapò 2024 yo te nonmen **14 faktè risk** ki ka chanje, epi yo te estime ke ansanm yo reprezante **prèske mwatye (anviwon 45%) ka demans atravè lemond**. Dapre pawòl otè yo, ka sa yo ta *an teyori* ka evite oswa retade si risk yo te retire ([rapò Komisyon Lancet 2024 la](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 faktè yo, gwoupe dapre etap lavi kote prèv yo pi fò:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Lavi bonè:** mwens edikasyon.
+- **Mitan lavi (apeprè laj 40 a 65 an):** pèt tande, kolestewòl LDL wo («move» kolestewòl), depresyon, blesi nan tèt, pa fè ase aktivite fizik, dyabèt, fimen, tansyon wo, obezite, ak bwè twòp alkòl.
+- **Laj avanse:** izòlman sosyal, polisyon lè a, ak pèt vizyon ki pa trete.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+De nouvo faktè ki te ajoute an 2024 se kolestewòl LDL wo ak pèt vizyon ki pa trete. Faktè ki te lye ak pi gwo pati ka yo se pèt tande ak kolestewòl LDL wo (anviwon 7% chak), apre sa mwens edikasyon ak izòlman sosyal (anviwon 5% chak).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Gid nou sou faktè risk yo](/brain-health/risk-factors/) prezante tout 14 yo nan yon tablo, ak sa rechèch la lye ak sa ou ka fè.
 
-### What the 45% figure does not mean
+### Kisa chif 45% la pa vle di
 
-It is easy to misread this number, so it helps to be precise:
+Li fasil pou mal konprann nimewo sa a, kidonk li itil pou presi:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Se yon estimasyon pou tout popilasyon an.** Li dekri ka demans atravè lemond, pa chans ou oswa chans paran ou.
+- **Li sipoze koz ak efè.** Otè yo di yo te sèlman mete faktè risk ki gen prèv konvenkan, men ke kèk lyen ka sèlman an pati lakòz. Pa egzanp, depresyon nan laj avanse ka pafwa yon siy bonè demans olye ke yon kòz.
+- **Li pa garanti anyen pou yon sèl moun.** Rezime UCL la note ke diminye risk mache nan nivo yon popilasyon epi li pa garanti okenn moun pap devlope demans.
+- **Lòt mwatye a pa eksplike pa faktè sa yo.** Laj, jèn ak kòz syantis yo poko konprann fè pati rès la.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Ki diferans ki genyen ant «diminye risk» ak «prevansyon»?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Diminye risk** vle di bese chans yo. Si yon gwo gwoup moun diminye tansyon yo, mwens nan yo ka devlope demans pandan plizyè ane pase sa ki t ap rive sinon. Gen kèk moun nan gwoup sa a ki ap toujou devlope li.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Prevansyon** sijere sispann yon bagay rive nèt. Pou demans, se pa yon bagay rechèch ka pwomèt okenn moun jodi a.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Chèchè yo pale tou de **reta**. Komisyon Lancet la rapòte nouvo prèv ki montre diminye risk ka ranvwaye lè demans kòmanse epi diminye tan yon moun pase ap viv ak move sante. Menm yon reta kèk ane ka enpòtan anpil pou yon moun ak fanmi li.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Sou sit sa a, nou sèvi ak «diminye risk» ak «gen rapò ak» espre. Lè ou wè yon pwodwi, konpleman oswa pwogram ki pwomèt «evite maladi alzaymè», pran prekosyon. NIA konseye pale ak yon doktè anvan ou eseye nenpòt grenn oswa tretman ki pwomèt evite maladi alzaymè, paske pwodwi sa yo ka pa an sekirite, ka gaspiye lajan, oswa toulede.
 
-## What have large trials found?
+## Kisa gwo etid yo te jwenn?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Etid obsèvasyon (ki gade sa k ap rive moun pandan tan) ka montre lyen. Etid owaza, kote yo bay moun yon pwogram oswa yon gwoup konparezon pa aza, se tès ki pi solid. Men sa kèk nan etid ki pi byen konnen yo te jwenn.
 
-### FINGER (Finland)
+### FINGER (Fenlann)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Etid FINGER te enskri 1 260 granmoun ki te gen laj 60 a 77 an ki te gen pi gwo risk demans. Mwatye nan yo te resevwa yon pwogram de zan ki te gen konsèy sou manje, egzèsis, egzèsis sèvo sou òdinatè ak kontwòl sou sante kè ak veso sangen; lòt mwatye a te resevwa konsèy jeneral sou sante. Gwoup pwogram nan te fè yon ti kras pi byen sou yon seri tès panse, yon ti diferans ki te enpòtan estatistikman ([etid FINGER nan The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Etid la te mezire rezilta tès, pa dyagnostik demans.
 
-### US POINTER (United States)
+### US POINTER (Etazini)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER te enskri 2 111 granmoun ki te gen laj 60 a 79 an ki pa t aktif, ki te gen yon manje mwens an sante epi ki te gen lòt faktè risk. Yo te ankouraje toude gwoup yo pou yo vin pi aktif fizikman ak mantalman, manje pi byen, rete sosyal epi kontwole sante kè. Yon gwoup te resevwa yon pwogram estriktire ak yon antrenè; lòt la te gide tèt li. Pandan de zan, rezilta tès panse yo te amelyore nan **toude** gwoup yo, epi yon ti kras plis nan gwoup estriktire a ([etid US POINTER nan JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Otè yo di yo bezwen plis suiv pou konnen si diferans lan enpòtan nan lavi chak jou. Paske pa t gen yon gwoup ki pa t fè anyen, etid la pa ka di konbyen nenpòt pwogram te ede konpare ak pa fè okenn chanjman ditou.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (tansyon)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND te etidye 9 361 granmoun Ozetazini ki te gen 50 an oswa plis ki te gen tansyon wo. Yo te plase yo nan yon objektif tansyon ki pi ba (nimewo anwo a anba 120) oswa objektif estanda (anba 140). Objektif ki pi ba a te diminye **twoub mantal modere** yon fason enpòtan, yon etap pwoblèm memwa ak panse ki ka vini anvan demans. Pou **demans pwobab**, te gen mwens ka nan gwoup ki te gen objektif pi ba a, men diferans lan pa t enpòtan estatistikman. Etid la te sispann bonè epi li te gen mwens ka demans pase sa yo te atann, kidonk li ka te twò piti pou reponn kesyon sa a ([SPRINT MIND nan JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Kisa revizyon yo montre ansanm
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Yon revizyon Cochrane 2021 te rasanble nèf gwo etid sou pwogram ki atake plizyè risk an menm tan, ak plis pase 18 000 moun. Li te jwenn yon ti benefis sou tès panse, men **pa gen okenn diferans klè nan konbyen moun ki te devlope demans** nan de etid ki te mezire li ([revizyon Cochrane sou entèvansyon plizyè domèn](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Yon revizyon 2017 pa National Academies of Sciences, Engineering, and Medicine, rezime pa NIA, te jwenn prèv «ankourajan men ki pa klè» pou twa apwòch: kontwole tansyon wo, ogmante aktivite fizik, ak antrènman mantal.
 
-## Does it matter when you start?
+## Èske li enpòtan ki lè ou kòmanse?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Konsèy Komisyon Lancet la se diminye risk pi bonè posib epi kenbe yo ba pou pi lontan posib: «pi bonè, se pi bon» ak «pi lontan, se pi bon». Li di tou li pa janm twò bonè oswa twò ta pou diminye risk. Anpil nan prèv yo konsène mitan lavi, apeprè laj 40 a 65 an, men kèk faktè, tankou pèt vizyon ak izòlman sosyal, se risk nan laj avanse kote aksyon ka toujou itil.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Rapò a di kounye a gen prèv ki pi solid ke plis tan yon moun ekspoze a yon risk, pi gwo efè a ye. Pa egzanp, dyabèt ki kòmanse nan mitan lavi sanble enpòtan plis pase dyabèt ki kòmanse pi ta.
 
-## Is dementia risk the same for everyone?
+## Èske risk demans se menm bagay pou tout moun?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Non. Komisyon an te jwenn ke moun nan peyi ki gen revni ba ak mwayen, moun ki soti nan gwoup minorite ak moun ki gen mwens lajan souvan pote plis nan risk sa yo, kidonk demans gen tandans devlope nan yon laj ki pi jèn. Anpil risk gen rapò ak sikonstans moun pa t chwazi, tankou kalite lekòl yo te resevwa lè yo te timoun, lè yo respire kote yo abite, ak si manje ki an sante abòdab epi toupre.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Se poutèt sa rekòmandasyon Komisyon an vize gouvènman yo otan ke moun yo: bon edikasyon pou tout timoun, lè ki pi pwòp, mezi pou diminye fimen, mwens sik ak sèl nan manje yo vann nan magazen ak restoran, ak aparèy oditif pou tout moun ki bezwen yo. Efò pèsonèl enpòtan, men mond kote moun ap viv la enpòtan tou. Se yon lòt rezon pou pa blame okenn moun pou yon dyagnostik.
 
-## What are the honest limits of this research?
+## Ki limit onèt rechèch sa a genyen?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demans pran plizyè dizèn ane pou devlope**, men pifò etid dire de a senk ane. Mezire demans li menm, pa sèlman rezilta tès, mande etid ki trè long ak trè gwo.
+- **Pifò etid mezire tès panse.** Yon ti amelyorasyon nan yon tès pa nesesèman vle di mwens moun ap devlope demans oswa lavi chak jou ap pi fasil.
+- **Volontè yo souvan pi an sante** ak plis edike pase popilasyon an jeneral. Komisyon Lancet la note ke pifò prèv yo toujou soti nan peyi ki gen gwo revni epi ke gwoup minorite yo pa reprezante ase.
+- **Kèk lyen mache nan toude direksyon.** Lè yon moun mwens aktif oswa mwens sosyal ka yon efè bonè demans, pa sèlman yon kòz.
+- **Etid sou manje pa t bay bon rezilta jiska prezan.** Yon etid sou twa ane sou rejim MIND pa t jwenn okenn diferans enpòtan nan panse konpare ak yon rejim kontwòl. Gade [gid nou sou manje](/brain-health/diet/).
+- **Jwèt pou sèvo pa pwouve pou evite demans.** Gade gid nou sou [jwèt pou sèvo ak demans](/brain-health/brain-games/).
+- **Jèn gen prèv trè limite sou moun**, epi li ka riske pou granmoun ki pi aje. Gade [gid nou sou jèn](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Si yon moun te fè tout bagay «byen», poukisa yo te toujou devlope demans?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Paske demans pa senpleman rezilta chwa moun fè. NIA di [laj se pi gwo faktè risk yo konnen pou maladi alzaymè](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), epi pèsonn pa ka chanje li. Jèn jwe yon wòl. Epi syantis yo poko konprann nèt sa ki lakòz maladi alzaymè nan pifò moun. Menmsi yo te retire tout 14 faktè risk yo, pwòp estimasyon Komisyon Lancet la kite plis pase mwatye ka yo san eksplikasyon.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Kidonk si w ap pran swen yon moun ki te fè egzèsis, ki te manje byen, ki pa t janm fimen epi ki te toujou devlope demans, pa gen anyen ki te mal bò pa yo, oswa bò pa w. Si ou menm w ap viv ak demans, se pa fòt ou. Santiman kilpabilite komen nan fanmi yo, men li pa merite. Sa ki enpòtan kounye a se konfò, koneksyon ak bon jou, epi [lide aktivite nou yo](/activities/ideas/) ak [gid nou sou pran swen tèt ou lè w ap ede yon lòt moun](/caregiving/caregiver-self-care/) se bon kote pou kòmanse.
 
-## What steps can you talk over with a doctor?
+## Ki etap ou ka diskite ak yon doktè?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Sa yo se domèn yo plis etidye. Li vo lapèn pale de yo nan yon vizit tchekap paske pifò nan yo ede sante kè, atitid ak endepandans tou, kèlkeswa efè yo sou demans.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tansyon.** Mande ki chif ou yo epi ki objektif ki anfòm pou ou. Komisyon Lancet la sijere vize yon nimewo anwo 130 oswa pi ba apati anviwon laj 40 an, men bon sib la pou yon granmoun ki pi aje depann de sante jeneral li.
+2. **Tande.** Mande pou fè yon tès tande, epi si aparèy oditif ta ede. [Gid nou sou tande](/brain-health/hearing/) eksplike rechèch la.
+3. **Vizyon.** Fè egzamen je regilyèman epi mande si pwoblèm tankou katarak ka trete.
+4. **Kolestewòl.** Mande si yo ta dwe tcheke kolestewòl LDL ou epi si anyen ta dwe chanje.
+5. **Sik nan san.** Si ou gen dyabèt, mande kijan pou jere li san danje.
+6. **Atitid.** Depresyon komen epi li ka trete. Di doktè ou si ou santi w tris oswa si ou pèdi enterè nan bagay yo pandan plis pase kèk semèn.
+7. **Fimen ak alkòl.** Mande èd pou sispann fimen ak sou limit ki an sekirite pou alkòl.
+8. **Mouvman.** Mande ki kalite aktivite ki an sekirite pou ou. [Gid nou sou egzèsis](/brain-health/exercise/) gen ide.
+9. **Pwoteksyon tèt.** Mete yon kas pou monte bisiklèt ak espò kontak, epi mande sou prevansyon tonbe.
+10. **Rete konekte.** Pase tan ak lòt moun se yon pati nan yon lavi ki an sante. Gade gid nou sou [koneksyon sosyal](/brain-health/social-connection/), ak [dòmi](/brain-health/sleep/) tou.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Anvan ou chanje medikaman, manje, konpleman, jèn oswa egzèsis, pale ak doktè ou anvan, sitou si ou gen maladi kè, dyabèt, istwa tonbe, oswa si ou deja ap viv ak demans.
 
-## Talk with a doctor
+## Pale ak yon doktè
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Si ou remake chanjman nan memwa oswa panse ki enkyete w, nan tèt ou oswa nan yon lòt moun, pran yon randevou. NIA note ke [pwoblèm memwa ka gen lòt kòz](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), tankou efè segondè medikaman, pwoblèm tiwoyid, depresyon oswa nivo vitamin B12 ki ba, epi ke kèk nan pwoblèm sa yo disparèt lè yo trete kòz la. [Gid nou sou siy avètisman yo](/brain-health/warning-signs/) eksplike sa pou w gade.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Chèche èd ijan** pou chanjman toudenkou: konfizyon toudenkou, feblès oswa pèt sansasyon sou yon bò kò a, difikilte pou pale, oswa yon gwo maltèt ka siy yon konjesyon serebral oswa yon lòt ijans. Rele 114 (lapolis) oswa 116 (anbilans).
 
-## Where Golden Moments fits
+## Ki kote Golden Moments antre
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments ofri aktivite senp pou fè ansanm, tankou [kat konvèsasyon](/games/conversation-cards/), [bingo foto](/games/picture-bingo/) ak yon [poz pou respire dousman](/games/calm-breathing/). Yo fèt pou plezi ak tan ansanm. Yo pa yon tretman, epi yo pa evite oswa ralanti demans.

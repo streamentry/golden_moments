@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Ꙗди MIND и Срѣдиземьнаꙗ и оумьноѥ ослаблениѥ"
+seoTitle: "Ꙗдь MIND и оумьноѥ ослаблениѥ: чьто глаголѭтъ изысканиꙗ"
+description: "Чьто изысканиꙗ глаголѭтъ о ꙗди MIND и Срѣдиземьнѣи и оумьнѣмь ослаблении, чьто великоѥ искоушениѥ не ꙗви ꙗснꙑ пол҄ьзꙑ, и како помощи ꙗсти добрѣ."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Нѣкотораꙗ изысканиꙗ, ꙗже слѣдѭтъ людии съ врѣменемь, съвѧзꙋѭтъ
+  Срѣдиземьнꙑи и MIND образы ꙗдениꙗ съ мьньшимь ризикомь оумьнаго
+  ослаблениꙗ, нъ не вьсегда. Трилѣтьноѥ слоучаиноѥ искоушениѥ ꙗди MIND,
+  изданоѥ въ 2023, не обрѣте нарочита различиꙗ въ мꙑшлении или образѣхъ
+  мозга съравьнено съ дрꙋгоѭ ꙗдиѭ. Ни ꙗдь ни притъкъ не показани сѫтъ
+  оудрьжати оумьноѥ ослаблениѥ. Людьмъ живѫщиимъ съ оумьнымъ ослаблениѥмь
+  паче вьсего важьно ѥстъ ꙗсти и пити довол҄ьно.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Нѣкотораꙗ, нъ не вьса, изысканиꙗ, ꙗже слѣдѭтъ людии съ врѣменемь, съвѧзꙋѭтъ Срѣдиземьнꙑи и MIND образы ꙗдениꙗ съ мьньшимь ризикомь оумьнаго ослаблениꙗ."
+  - "Въ искоушении 2023 лѣта о 604 старѣишиихъ людьхъ, людьѥ на ꙗди MIND не сътворишѧ лоуче на искоушениихъ мꙑшлениꙗ или образѣхъ мозга, неже людьѥ на дрꙋзѣи ꙗди, по трьхъ лѣтѣхъ."
+  - "National Institute on Aging глаголѥтъ, ꙗко нѣстъ свѣдѣтельства, ꙗко ꙗдениѥ или оуклонениѥ отъ нѣкоѥѩ ꙗди можетъ оудрьжати болѣзнь Альцгеймера, и ни ѥдинъ витаминъ или притъкъ не показанъ оудрьжати ѭ."
+  - "Ꙗдь богата зелии, овощи, бобꙑ, цѣльными зърнꙑ и рꙑбами помагаѥтъ сьрдьчьноуоумоу зьдравию и можетъ помагати при ризицѣхъ, ꙗко высоцѣ кръви тлачениѥ и диꙗбетъ."
+  - "Людьмъ живѫщиимъ съ оумьнымъ ослаблениѥмь кѫсъци за рѫкѫ, блюда разна цвѣта, тихꙑ трапезꙑ и чѧста питиꙗ чѧсто важьнѣиша сѫтъ, неже коꙗ любо особьна ꙗдь."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Оудрьжитъ ли ꙗдь MIND оумьноѥ ослаблениѥ?"
+    a: "Се не показано ѥстъ. Наблюдьнаꙗ изысканиꙗ съвѧзовашѧ ꙗдь MIND съ мьньшимь ризикомь, нъ трилѣтьноѥ слоучаиноѥ искоушениѥ, изданоѥ въ 2023, не обрѣте нарочита различиꙗ въ искоушениихъ мꙑшлениꙗ или образѣхъ мозга мєждоу людьми на ꙗди MIND и людьми на дрꙋзѣи ꙗди. Оба събора мало оулоучиста сѧ и потєрꙗста подобьно тѧжьсть."
+  - q: "Коꙗ разлика мєждоу ꙗдиѭ MIND и Срѣдиземьноѭ ꙗдиѭ?"
+    a: "Срѣдиземьнаꙗ ꙗдь иматъ много зелии, овощи, цѣльнъ зърнъ, бобъ, рꙑбъ и маслиньна масла, съ маломь чрьвена мѧса и сладака. Ꙗдь MIND съчетаѥтъ ѭ съ ꙗдиѭ DASH за кръвьноѥ тлачениѥ и прилагаѥтъ зеленоѥ листвиѥ и ꙗгодꙑ, а оумалꙗѥтъ чрьвеноѥ мѧсо, сладакоѥ, сꙑръ, масло и пряженоѥ брашьно."
+  - q: "Имѫтъ ли ꙗди или притъци, иже оудрьжатъ болѣзнь Альцгеймера?"
+    a: "Ни. National Institute on Aging глаголѥтъ, ꙗко нѣстъ свѣдѣтельства, ꙗко ꙗдениѥ или оуклонениѥ отъ нѣкоѥѩ ꙗди можетъ оудрьжати болѣзнь Альцгеймера или оумьноѥ ослаблениѥ съ старостиѭ, и ни ѥдинъ витаминъ или притъкъ не показанъ оудрьжати болѣзнь Альцгеймера. Прѣжде приѧтиꙗ притъкъ поглаголи съ врачемь."
+  - q: "Кꙑѩ ꙗди оудобьнѣише ꙗсти чловѣкоу живѫщоуоумоу съ оумьнымъ ослаблениѥмь?"
+    a: "Малꙑ кѫсъци за рѫкѫ, ꙗко чѧсти хлѣба, чѧсти коурици, чѧсти помараньча или варена зелии, чѧсто оудобьнѣише сѫтъ, неже ножь и вилица. Аще жьвати или глътати трꙋдьно ѥстъ, мѧкъкꙑ ꙗди, ꙗко мѧтена ꙗица, ꙗблъчьноѥ пюре или мѧкъкъ сꙑръ, могѫтъ помагати. Въпроси врача о искоушении глътаниꙗ, аще бꙑваѥтъ кашль или задавлениѥ."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Можеши чьсти, ꙗко «ꙗдь за мозгъ» можетъ оудрьжати болѣзнь Альцгеймера. Истина ѥстъ скромьнѣиша. Нѣкотории образы ꙗдениꙗ съвѧзани сѫтъ съ мьньшимь ризикомь въ изысканиихъ, ꙗже слѣдѭтъ людии съ врѣменемь, нъ лоучеѥ искоушениѥ до селѣ не обрѣте ꙗснꙑ пол҄ьзꙑ. Си страница обꙗснꙗѥтъ обое, потомь же обрачаѥтъ сѧ къ томоу, ѥже обꙑчьно важьнѣише ѥстъ чловѣкоу живѫщоуоумоу съ оумьнымъ ослаблениѥмь: ꙗсти и пити довол҄ьно, и съ радостиѭ.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Се ѥстъ обьще свѣдѣниѥ, а не врачьскꙑи съвѣтъ. Поглаголи съ врачемь или оученꙑмь о ꙗди прѣжде измѣнениꙗ своѥѩ ꙗди или ꙗди дроугаго чловѣка. Виждь наше [врачьскоѥ отъречениѥ](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Чьто сѫтъ Срѣдиземьнаꙗ ꙗдь и ꙗдь MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) описоуѥтъ ѩ сице ([NIA о ꙗди и болѣзни Альцгеймера](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Срѣдиземьнаꙗ ꙗдь:** много овощи, зелии, цѣльнъ зърнъ, бобъ, рꙑбъ и морьскъ ꙗдии, и маслиньна масла, съ маломь чрьвена мѧса, ꙗицъ и сладака.
+- **Ꙗдь MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): съмѣшениѥ Срѣдиземьнꙑѩ ꙗди и ꙗди DASH за кръвьноѥ тлачениѥ. Имать зелии, паче зеленоѥ листвиѥ; ꙗгодꙑ; цѣльна зърна; бобꙑ; орѣхꙑ; рꙑбꙑ понѣ ѥдинъ краты въ седмицѫ; и маслиньноѥ масло. Оумалꙗѥтъ чрьвеноѥ мѧсо, сладакоѥ, сꙑръ, масло или маргаринъ, и пряженоѥ или бръзоѥ брашьно.
 
-## Do these diets lower dementia risk?
+## Оумалꙗѭтъ ли си ꙗди ризикъ оумьнаго ослаблениꙗ?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Свѣдѣтельства сѫтъ съмѣшена. NIA глаголѥтъ, ꙗко нѣкотораꙗ, нъ не вьса, наблюдьнаꙗ изысканиꙗ съвѧзашѧ Срѣдиземьнѫѭ и MIND ꙗди съ мьньшимь ризикомь оумьнаго ослаблениꙗ, съравьнено съ западьнымъ образомь ꙗдениꙗ, иже иматъ боле чрьвена мѧса, насꙑчена масти и сахара.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Ланцетова комисиꙗ 2024 лѣта разъмотрѣ изысканиꙗ подробьнѣѥ ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Ѥдино съмотрѣниѥ съборьнъ изыскании съвѧза добрѫѭ ꙗдь съ оумалѥниѥмь ризика оумьнаго ослаблениꙗ околъ 20%.
+- Бол҄ьши разборъ триѥхъ съборъ людии съвѧза ближьнѥѥ дрьжаниѥ ꙗди MIND съ мьньшимь ризикомь.
+- Нъ швєдьскоѥ изысканиѥ, ѥже слѣдѣ 28,025 срѣдьн҄ихъ лѣтъ людии околъ 20 лѣтъ, не обрѣте мьньша ризика ни при прѣпорѫчєнъ ꙗдѣхъ, ни при Срѣдиземьнѣ ꙗди.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Наблюдьнаꙗ изысканиꙗ не могѫтъ показати винꙑ и слѣдъства. Людьѥ, иже тако ꙗдѭтъ, чѧсто различьни сѫтъ и въ иномь: въ имѣнии, оучении, движении и достѫпѣ къ врачьскои помощи. Комисиꙗ съвѧза, ꙗко нѣстъ довол҄ьна свѣдѣтельства рещи, ꙗко здраваꙗ ꙗдь прѧмо оудрьжитъ оумьноѥ ослаблениѥ, хотѧ ꙗдениѥ много овощи и зелии и мьнѣѥ прѣмного оустрьѥнъ брашьнъ добро ѥстъ за мъного зьдравьнъ състоꙗнии и дѣѥтъ на ризикꙑ, ꙗко тлъстота, диꙗбетъ и высоцѣ кръви тлачениѥ. Комисиꙗ не приложи ꙗди къ своѥмоу списъкоу [14 ризикъ](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Чьто обрѣте искоушениѥ ꙗди MIND въ 2023 лѣтѣ?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Сил҄ьнѣише искоушениѥ до селѣ бѣ слоучаиноѥ искоушениѥ, изданоѥ въ New England Journal of Medicine въ 2023 лѣтѣ ([искоушениѥ ꙗди MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Къто:** 604 чловѣка 65 лѣтъ и старѣише въ окрѣстъ Чикага и Бостона, безъ трꙋда въ мꙑшлении, съ близъкꙑмь родьникомь живѫщиимъ съ оумьнымъ ослаблениѥмь, съ прѣвꙑше тѧжьстиѭ и съ мьнѣѥ здравоѭ ꙗдиѭ на чѧло.
+- **Чьто:** за три лѣта половина дрьжаше ꙗдь MIND, а дроугаꙗ половина дрьжаше обꙑчьнѫѭ ꙗдь. Оба събора просиста ꙗсти околъ 250 мьнѣѥ калории на дьнь и приимаста чѧстꙑ съвѣтꙑ отъ оученъ о ꙗди.
+- **Исходъ:** искоушениꙗ мꙑшлениꙗ мало оулоучишѧ сѧ въ **обою** събороу. Разлика мєждоу съборома бѣ мала и **не бѣ нарочита** по мѣрѣ. Образи мозга такожде показашѧ подобьнꙑ измѣнꙑ въ обою събороу.
+- **Тѧжьсть:** оба събора потєрꙗста околъ 5 килограмъ (околъ 11 фоунтъ).
 
-### Why might the trial have found no difference?
+### Чьсо ради искоушениѥ не обрѣте различиꙗ?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Изыскателє помѧнѫшѧ нѣколикꙑ винꙑ. Съборъ обꙑчьнꙑѩ ꙗди вѣроꙗтьно оулоучи свою ꙗдь, понєже потєрꙗ подобьнѫѭ тѧжьсть. Чѧста искоушениꙗ могѫтъ сама оулоучити исходꙑ, ꙗко людьѥ привыкнѫтъ къ искоушениѥмъ. Три лѣта могѫтъ бꙑти мало. Мъноѕи оучѧстьници бѣшѧ добрѣ оучени и отъ Ѥвропꙑ родомь, тѣмьже исходи не могутъ прилѣжати вьсѣмъ.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Чистъ отъвѣтъ ѥстъ: ꙗдь MIND не прѣспѣ разоумьнꙑѩ ꙗди съ мьньшими калориꙗми въ три лѣта. Се не глаголѥтъ, ꙗко здраваꙗ ꙗдь ѥстъ безъ пол҄ьзꙑ. Се глаголѥтъ, ꙗко никътоже не длъжьнъ чаяти, ꙗко ѥдина особьна ꙗдь оудрьжитъ оумьноѥ ослаблениѥ.
 
-## What about specific foods and supplements?
+## А чьто о особьнъ ꙗдѣхъ и притъцѣхъ?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA глаголѥтъ, ꙗко нѣстъ свѣдѣтельства, ꙗко ꙗдениѥ или оуклонениѥ отъ нѣкоѥѩ ꙗди можетъ оудрьжати болѣзнь Альцгеймера или оумьноѥ ослаблениѥ съ старостиѭ. Чрьника, зеленоѥ листвиѥ и куркоума изыскаеми бѣшѧ, нъ безъ доказаньꙗ. NIA такожде глаголѥтъ, ꙗко ни ѥдинъ витаминъ или притъкъ не показанъ оудрьжати болѣзнь Альцгеймера, и ни ѥдинъ не прѣпорѫчаѥтъ сѧ за то. NIA прѣдъострѣгаѥтъ, ꙗко непоказаниѥ вещи, продаѥмꙑѩ за оудрьжаниѥ болѣзни Альцгеймера, могѫтъ бꙑти небезбѣдьнꙑ, трата имѣниꙗ, или обое, и могѫтъ мѣшати сѧ съ прѣписанꙑми лѣкꙑ, тѣмьже въпроси врача прѣжде искоушениꙗ коѥго любо ([NIA о оудрьжании болѣзни Альцгеймера](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Како можетъ ꙗдениѥ бꙑти здраво и радостьно?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+За мъногꙑ старѣишѧ людии цѣль ѥстъ брашьно питатєльно, знаѥмо и приꙗтьно, а не жєстокꙑи оуставъ:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Твори трапезꙑ отъ ꙗдии, ꙗже любиши,** отъ Срѣдиземьнаго образа: зелии, овощи, бобꙑ, цѣльна зърна, рꙑбꙑ и маслиньноѥ масло.
+- **Съхрани любимꙑѩ сладакꙑѩ ꙗди.** Радость и похоть къ ꙗди важьни сѫтъ, паче въ старости.
+- **Ꙗжьдь съ инѣми,** аще можеши. Обьщаꙗ трапеза ѥстъ доброѥ дроужьство.
+- **Варите въкоупѣ.** Мꙑти зелии или мѣшати въ котьлѣ ѥстъ доброѥ обьщеѥ дѣло; виждь [домашьнѧꙗ дѣла](/activities/household-tasks/). Любимаꙗ родьнаꙗ ꙗдь можетъ такожде пробоудити [въспоминаниѥ](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Старѣишии людьѥ не длъжьни сѫтъ оумалꙗти калориѩ или тѧжьсть безъ съвѣта съ врачемь, а постъ иматъ особьнꙑ ризикꙑ. Виждь нашь [пѫть о постѣ](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Како помагати чловѣкоу живѫщоуоумоу съ оумьнымъ ослаблениѥмь ꙗсти добрѣ?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Людьмъ живѫщиимъ съ оумьнымъ ослаблениѥмь обꙑчьно важьнѣише ѥстъ ꙗсти и пити **довол҄ьно**. Alzheimer's Association глаголѥтъ, ꙗко людьѥ могѫтъ забꙑти ꙗсти, мьнѣти ꙗко оуже ꙗли сѫтъ, или чоути сѧ отѧжьчени изборомь, и ꙗко хоудоѥ питаниѥ можетъ оумножити трꙋдьноѥ повєдєниѥ и сътворити оубꙑваниѥ тѧжьсти ([Alzheimer's Association о брашьнѣ и ꙗдении](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Си съвѣти сѫтъ отъ Alzheimer's Association, NIA и Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Подаваи кѫсъци за рѫкѫ.** Малꙑ чѧсти, ꙗже лєгъко възѧти, ꙗко чѧсти хлѣба, чѧсти коурици, рꙑбьнꙑ кѫсъци, чѧсти помараньча или вареноѥ броколи, даѭтъ чловѣкоу ꙗсти самомоу безъ ножа и вилицѧ.
+2. **Оупотрѣби разнъ цвѣтъ на трапезѣ.** Измѣнꙑ въ видѣнии могѫтъ сътворити трꙋдьно разлоучити брашьно отъ блюда. Бѣлаꙗ блюда на цвѣтьнѣ подълозѣ могѫтъ помагати. Оукланꙗи сѧ отъ пьстръ блюда и оустилъкъ.
+3. **Подаваи ѥдино или двѣ ꙗди въ врѣмѧ.** Плъноѥ блюдо можетъ бꙑти отѧжьчьно.
+4. **Дрьжи трапезꙑ тихꙑ.** Оугаси образьницѫ, дрьжи трапезѫ просто, и даи довол҄ьно врѣмене. NIA съвѣтоуѥтъ не тъщати сѧ и не нѫдити.
+5. **Подаваи малꙑ трапезꙑ и закѫскꙑ чѧсто.** NIA съвѣтоуѥтъ мьньшѧ и чѧстѣишѧ трапезꙑ и закѫскꙑ съ бол҄ьше калории, аще чловѣкъ не ꙗстъ довол҄ьно ([съвѣти NIA о добрѣ ꙗдении](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Помагаи съ питиѥмь.** Подаваи малꙑ чашѧ водꙑ или инъ питии чрѣсъ дьнь, и ꙗди съ много водꙑ, ꙗко овощи, чорбꙑ, млѣчьнꙑ питиꙗ и гладькꙑ питиꙗ. Аще чловѣкъ не хощетъ водꙑ, NIA съвѣтоуѥтъ искоусити сокъ, водѫ съ въкоусомь, юхѫ, млѣко, или кафе или чаи безъ кофеина.
+7. **Съмотри топлотѫ.** Чловѣкъ можетъ не чоути, ꙗко брашьно или питиѥ прѣгорѧче ѥстъ.
+8. **Приспособи приборꙑ и чашѧ.** Чашѧ вьмѣсто блюдъ, лъжици съ великꙑми дрьжалꙑ, и чашѧ съ покровꙑ могѫтъ оулєгчити ꙗдениѥ. Не пєци сѧ о чистотѣ.
+9. **Сътвори брашьно лєгъко жьвати и глътати.** Рѣжи брашьно на малꙑ кѫсъци или подаваи мѧкъкꙑ ꙗди. Аще чловѣкъ кашлꙗѥтъ или задавлꙗѥтъ сѧ при ꙗдении, рьци врачоу ѥго.
+10. **Оукланꙗи сѧ отъ нѫждена ꙗдениꙗ.** NIA глаголѥтъ, ꙗко похоть къ ꙗди ѥстьствомь оумалꙗѥтъ сѧ въ поздьнъ стєпєнєхъ болѣзни Альцгеймера.
 
-### Signs to tell the doctor about
+### Знамениꙗ, о нихъже подобаѥтъ рещи врачоу
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Оубꙑваниѥ тѧжьсти, отъречениѥ брашьна, оутомлѥниѥ или слабость могѫтъ бꙑти знамениꙗ, ꙗко чловѣкъ не ꙗстъ довол҄ьно. Alzheimer's Society глаголѥтъ, ꙗко болѧщии зѫби или зѫбьнꙑ оурѧдꙑ, оуныниѥ, запьртиѥ и измѣнꙑ лѣкъ вьсѧ могѫтъ оумалити похоть къ ꙗди ([Alzheimer's Society о похоти къ ꙗди](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Знамениꙗ безводиꙗ, ꙗже NIA поминаѥтъ, сѫтъ соухость оустъ, главоболиѥ съ вьрчениѥмь, бръзъ биѥниѥ сьрдьца и видѣниꙗ, ꙗже нѣстъ ([NIA о обьщихъ врачьскъ бѣдахъ](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Поглаголи съ врачемь
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Прѣжде великъ измѣнъ въ своѥи ꙗди или въ ꙗди дроугаго чловѣка поглаголи съ врачемь или оученꙑмь о ꙗди, паче аще имаши диꙗбетъ, бѣдѫ бъбрєкъ, трꙋдъ глътаниꙗ или новоѥ оубꙑваниѥ тѧжьсти. О чловѣцѣ живѫщиимь съ оумьнымъ ослаблениѥмь въпроси, колико ѥмоу подобаѥтъ ꙗсти и пити на дьнь, и аще оученъ о ꙗди или притъци могѫтъ помагати.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Ищи скороѭ помощь, аще къто задавлꙗѥтъ сѧ, или иматъ напрасноѥ съмѧтениѥ, лютѫ слабость съ вьрчениѥмь или падениѥ въ беспамѧть.

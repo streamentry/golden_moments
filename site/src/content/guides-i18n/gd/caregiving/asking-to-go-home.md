@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Nuair a bhios cuideigin le trom-inntinn ag iarraidh a dhol dhachaigh"
+seoTitle: "Trom-inntinn ag iarraidh a dhol dhachaigh: dè a their thu"
+description: "Carson a bhios neach le trom-inntinn ag iarraidh a dhol dhachaigh fiù 's nuair a tha e/ise dhachaigh, dè a their thu, gnìomhan ciùine ri fheuchainn, agus mar a chumas tu sàbhailte ma dh'fheuchas iad ri falbh."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Nuair a bhios cuideigin le trom-inntinn ag iarraidh a dhol dhachaigh, tha "dachaigh" gu tric a' ciallachadh faireachdainn sàbhailteachd no àite bhon àm a dh'fhalbh, chan e togalach. Na dèan argamaid gur e seo an dachaigh dhaibh. Aithnich an fhairendachd, dèan cinnteach dhaibh gu bheil iad sàbhailte, faighnich mun dachaigh, agus an uairsin gluais gu socair gu dealbhan, ceòl, greim-bìdh, cuairt no gnìomh sìmplidh. Thoir sùil a bheil iad ocrach, tartmhor, feumach air an taigh-beag no le pian. Ma thòisicheas e gu h-obann, cuir fios chun dotair aca.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "Tha \"tha mi airson a dhol dhachaigh\" gu tric a' ciallachadh \"chan eil mi a' faireachdainn sàbhailte no socair\", chan e iarraidh air seòladh."
+  - "Mar as trice bidh argamaid no a bhith a' dearbhadh gu bheil iad dhachaigh a' dèanamh an trioblaid nas miosa. Freagair an fhairendachd seach na faclan."
+  - "Faighnich dhaibh innse dhut mun dachaigh aca, an uairsin thoir seachad dealbhan, ceòl, greim-bìdh, cuairt no gnìomh sìmplidh."
+  - "Thoir sùil airson rudeigin as urrainnear a chàradh: acras, tart, an taigh-beag, pian, cus teth no fionnar, fuaim, sgìths."
+  - "Ma tha e a' tachairt a h-uile feasgar, dh'fhaodadh gur e briseadh-grèine a tha ann; faodaidh cleachdadh seasmhach agus solas math cuideachadh."
+  - "Dèan plana airson sàbhailteachd ma dh'fheuchas iad ri falbh, agus cuir fios chun dotair aca ma thig atharrachadh obann."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Carson a bhios mo mhàthair le trom-inntinn ag iarraidh a dhol dhachaigh nuair a tha i dhachaigh mu thràth?"
+    a: "Faodaidh trom-inntinn seòmraichean eòlach a dhèanamh coimheach, agus bidh daoine uaireannan a' faireachdainn gu bheil iad ann an àm na beatha nas tràithe. Dh'fhaodadh \"dachaigh\" ciallachadh taigh òige no dìreach an fhairendachd a bhith sàbhailte agus comhfhurtail. Mar as trice bidh a bhith a' freagairt na faireachdainn sin nas fheàrr na bhith a' sealltainn dhi far a bheil i."
+  - q: "Dè bu chòir dhomh a ràdh nuair a bhios iad ag iarraidh a dhol dhachaigh?"
+    a: "Feuch ri \"tha thu sàbhailte an seo, agus bidh mise còmhla riut\", an uairsin \"innis dhomh mun dachaigh agad\". Èist, roinn dealbh no òran, agus thoir deoch no cuairt ghoirid seachad. Seachain \"tha thu dhachaigh\" mar cheartachadh, oir faodaidh sin a bhith coltach ri innse dhaibh gu bheil iad ceàrr."
+  - q: "An eil e ceart gu leòr a ràdh gun tèid sinn dhachaigh nas fhaide air adhart?"
+    a: "Tha diofar bheachdan aig teaghlaichean agus buidhnean trom-inntinn air seo. Bidh mòran a' tòiseachadh le comhfhurtachd onarach agus ath-stiùireadh, agus bidh iad a' cleachdadh breug mhilis ann an amannan far nach urrainn don neach an fhìrinn a ghiùlan gun trioblaid. Ge bith dè a roghnaicheas tu, bi coibhneil agus cunbhalach, agus na dèan fealla-dhà air am mothachadh air an fhìrinn aca."
+  - q: "Dè ma dh'fheuchas iad ri falbh bhon taigh?"
+    a: "Fan socair agus coisich còmhla riutha seach a bhith gan casg; faodaidh cuairt ghoirid an t-iarrtas a lughdachadh. Dèan ceumannan sàbhailteachd ro-làimh, leithid bratach-aithneachaidh, glagan dorais agus dealbh ùr o chionn ghoirid. Ma thèid iad air chall, tòisich a' lorg sa bhad, agus cuir fios gu 999 ma chan eil thu air an lorg taobh a-staigh 15 mionaidean, ag innse gu bheil trom-inntinn orra."
+  - q: "Cuin bu chòir dhomh fios a chuir chun dotair?"
+    a: "Cuir fios chun dotair aca gu sgiobalta ma thòisicheas an t-iarraidh no am mì-chinnt gu h-obann no ma dh'fhàsas e mòran nas miosa thar uairean no làithean, gu sònraichte le fiabhras, leigheas ùr no comharran galair slighe-fuail. Faodaidh mì-chinnt obann a bhith na delirium, agus tha feum air cùram èiginneach air. Cuir fios gu 999 ma tha duine ann an cunnart."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +62,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"Tha mi airson a dhol dhachaigh." Airson mòran theaghlaichean, 's e seo aon de na rudan as duilghe ri chluinntinn, gu h-àraidh nuair a tha an neach air a bheil thu a' toirt cùraim na shuidhe anns an t-seòmar-suidhe aca fhèin. Tha e cumanta, faodaidh e tachairt aig ìre sam bith de throm-inntinn, agus tha dòighean socair practaigeach ann airson freagairt.
 
-## Why does someone with dementia keep asking to go home?
+## Carson a bhios cuideigin le trom-inntinn ag iarraidh a dhol dhachaigh a-rithist agus a-rithist?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Mar as trice, tha "dachaigh" na fhairendachd seach àite. Tha Comann Alzheimer na h-Alba a' toirt cunntas air mar mhothachadh air comhfhurtachd agus sàbhailteachd, no mar dhachaigh bhon àm a dh'fhalbh, seach an taigh fhèin. Faodaidh trom-inntinn seòmraichean eòlach a dhèanamh coimheach, agus dh'fhaodadh neach a bhith a' faireachdainn gu bheil iad beò ann an àm na beatha nas tràithe, nuair a bha dachaigh aca na thaigh òige no an t-àite far an do thog iad an teaghlach.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Faodaidh na faclan cuideachd a bhith nan comharradh gu bheil rudeigin eile ceàrr an-dràsta: tha iad ocrach, tartmhor, feumach air an taigh-beag, ann am pian, cus teth no fionnar, sgìth, aonaranach, eagalach, no fo uallach le fuaim. Tha an [Institiud Nàiseanta airson Seasgair](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) a' cur ris gu bheil pian, fuaim, aonarachd, atharrachaidhean ann an cleachdadh-beatha agus leigheasan am measg nan adhbharan airson buaireas.
 
-## What should I say when they ask to go home?
+## Dè bu chòir dhomh a ràdh nuair a bhios iad ag iarraidh a dhol dhachaigh?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Freagair an fhairendachd, chan e na faclan. Tha [Caidreachas Luchd-cùraim Teaghlaich](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a' comhairleachadh gun a bhith a' feuchainn ri toirt air an neach gabhail ris gu bheil iad ceàrr: tha am faireachdainnean fìor, mar sin thoir comhfhurtachd agus misneachadh an toiseach, agus an uairsin ath-stiùirich gu socair iad.
 
-Phrases that often help:
+Seo abairtean a bhios gu tric gu feum:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Ainmich an fhairendachd.** "Tha e coltach gu bheil thu ag ionndrainn dachaigh."
+- **Dèan cinnteach dhaibh.** "Tha thu sàbhailte an seo, agus bidh mise còmhla riut." Tha [Comann Alzheimer Ameireagaidh](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) a' moladh nam faclan sìmplidh "Tha thu sàbhailte an seo."
+- **Thoir cuireadh dhaibh cuimhneachain a roinn.** "Innis dhomh mun dachaigh agad. Cò ris a bha do chidsin coltach?" Mar as trice tha ceistean mun àm a dh'fhalbh nas comhfhurtail na ceistean mun latha an-diugh.
+- **Thoir rudeigin ri dhèanamh còmhla.** "A-nis, gabhamaid cupan tì," no "Am bu toil leat mo chuideachadh leis na seacaidean seo?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Faodaidh tòna blàth agus làmh air a' ghàirdean, ma tha iad a' còrdadh ri suathadh, barrachd a ràdh na na faclan fhèin.
 
-## What should I avoid?
+## Dè bu chòir dhomh a sheachnadh?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Argamaid no mìneachadh.** "Tha thu a' fuireach an seo a-nis" no "Bha seo nad dachaigh agad airson 40 bliadhna" tha iad ag iarraidh orra gabhail ri rudeigin a tha trom-inntinn ga dhèanamh duilich a ghabhail, agus faodaidh sin a bhith coltach ri innse dhaibh gu bheil iad ceàrr.
+- **Ceasnachadh.** "Nach cuimhnich thu?" no "Dè an seòladh a th' agad?" tha sin a' cur cuideam orra.
+- **An doras a chasg ann an fearg.** Ma thòisicheas iad a' dol a-mach, fan socair agus coisich còmhla riutha. Faodaidh cuairt ghoirid còmhla an t-iarrtas a lughdachadh.
+- **Cabhag.** Thoir ùine dhaibh bruidhinn mun dachaigh aca mus atharraich thu cuspair.
 
-## Activities that can help in the moment
+## Gnìomhan a dh'fhaodas cuideachadh anns a' mhionaid
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Às dèidh dhut an fhairendachd a bhith air aithneachadh, faodaidh gnìomh socair eòlach aire a thionndadh gun a bhith ga dhiùltadh.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Coimhead air dealbhan dachaigh is teaghlaich.** Thoir sùil air na duilleagan agus dèan beachdan ("Coimhead air a' ghàrradh sin") seach ceistean a chur. Air fòn no tablaid, faodaidh [Pàraidean dhealbhan](/games/photo-pairs/) na dealbhan teaghlaich agad fhèin a thionndadh gu geama maidsidh socair, agus bidh na dealbhan air an inneal agad fhèin.
+2. **Bruidhinn mun dachaigh.** Tha [Cairtean còmhraidh](/games/conversation-cards/) a' tabhann brosnachaidhean fosgailte mu thaighean, cidsinean, nàbaidhean is saor-làithean, gun fhreagairt cheart ann.
+3. **Cluich ceòl a tha gràdhach dhaibh.** Tha an Institiud Nàiseanta airson Seasgair a' cur ceòl soothing am measg nan dòighean gus buaireas a lughdachadh. Faic na [gnìomhan ciùil](/activities/music/) againn.
+4. **Gabhaidh greim-bìdh no deoch.** Faodaidh acras is tart nochdadh mar mhì-shocair. Tha cupan tì no làimhseach gràdhach cuideachd na dheas-ghnàth bheag a bhith dhachaigh.
+5. **Gabh cuairt no suidh a-muigh.** Bidh gluasad is solas latha gu feum, gu h-àraidh nas tràithe san latha.
+6. **Thoir obair eòlach dhaibh.** Faodaidh pasgadh aodach, seòrsachadh shìobhairean no uisge a thoirt do lusan an fhairendachd a thoirt air ais gu bhith a' ruith dachaigh.
+7. **Dèan a h-uile rud nas slaodaiche.** Cuir dheth an telebhisean, lughdaich fuaim is deàrrsadh, agus feuch stad [anail socair](/games/calm-breathing/) còmhla.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Mura obraich aon bheachd, feuch fear eile nas fhaide air adhart. 'S e toradh math a th' ann cuideachd a bhith nan suidhe gu sàmhach còmhla.
 
-## Check for a cause you can fix
+## Thoir sùil airson adhbhar as urrainnear a chàradh
 
-| Check | What to try |
+| Thoir sùil air | Dè ri dhèanamh |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Acarach no tartmhor | Thoir deoch seachad agus greim-bìdh beag |
+| Feumach air an taigh-beag | Tairg turas chun taigh-bheag, gu socair gun iomagain |
+| Pian no mì-chofhurtachd | Thoir sùil airson comharran mar sgreuch, grèim air pàirt den chorp no constipation, agus innis don dotair aca |
+| Cus teth no fionnar | Cuir atharrachadh air còmhdach no teothachd an t-seòmair |
+| Fuaim no sluagh | Gluais gu seòmar nas sàmhaiche, cuir dheth an telebhisean |
+| Sgìth no cus brosnachaidh | Gabh fois, dorchadaich an seòmar, cluich ceòl bog |
+| Feasgar | Faic an earrann mu bhriseadh-grèine gu h-ìosal |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Tha Comann Alzheimer na h-Alba a' moladh clàr goirid a chumail de cuin a tha an t-iarraidh a' tachairt, leithid ro bhiadh, às dèidh luchd-tadhail, no aig ciaradh an latha. Bidh pàtrain gan dèanamh nas fhasa planadh ro-làimh.
 
-## Is it okay to tell a white lie?
+## An eil e ceart gu leòr breug mhilis a ràdh?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Tha deasbad fìor ann mu seo, agus tha teaghlaichean coibhneil a' tighinn gu diofar àiteachan. Tha Comann Alzheimer na h-Alba ag ràdh nach eil aon fhreagairt cheart ann: faodaidh breugan làmhachadh cuideigin a dhèanamh nas amharasaiche, mar sin dèan co-dhùnadh a tha ann an dòigh as fheàrr airson an neach agus bi cunbhalach. Aig Ionad Cuimhneachaidh Penn, tha beachd a' cho-stiùiriche gur e an fhìrinn a' bhunait a bu chòir a bhith ann, agus nach bu chòir breug mhilis a chleachdadh ach nuair nach urrainn don neach am fìrinn shònraichte sin a ghiùlan, agus nach bu chòir fealla-dhà a dhèanamh air am mothachadh air an fhìrinn aca.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Bidh mòran luchd-cùraim a' faighinn gu bheil slighe eadar-mheadhanach ag obair: comhfhurtachd onarach agus ath-stiùireadh an toiseach ("Fuirichidh sinn an seo a-nochd, agus bidh mise dìreach còmhla riut"), gun a bhith ag argamaid far a bheil dachaigh.
 
-## What if it happens every afternoon or evening?
+## Dè ma tha e a' tachairt a h-uile feasgar no feasgar is oidhche?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Tha mì-shocair a thòisicheas no a dh'fhàsas nas miosa anns an fheasgar gu tric air a bheil briseadh-grèine. Tha an [Institiud Nàiseanta airson Seasgair](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) a' moladh clàr-ama seasmhach, solas na grèine is gnìomh gach latha, nas lugha de chadal anmoch, agus gun chofaidh no deoch-làidir anmoch san latha. Faodaidh solais a chuir air mus tèid an latha fodha cuideachd cuideachadh. Tha barrachd fiosrachaidh anns a' stiùireadh againn mu [gnìomhan ciùine san fheasgar](/caregiving/late-day-restlessness/).
 
-## Keeping them safe if they try to leave
+## A' cumail sàbhailte ma dh'fheuchas iad ri falbh
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Faodaidh iarraidh a dhol dhachaigh leantainn gu fàrsan. Tha [Comann Alzheimer Ameireagaidh](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) a' meas gun tèid sia a-mach à deich de dhaoine le trom-inntinn air chall co-dhiù aon turas.
 
-**Prepare ahead:**
+**Dèan ullachadh ro-làimh:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Bratach-aithneachaidh no bratach mheidigeach le an ainm agus d' àireamh fòn, agus bileagan anns an aodach. Tha an [Institiud Nàiseanta airson Seasgair](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) a' toirt iomradh air prògram MedicAlert agus Alzheimer's Association Safe and Found, a dh'fhaodadh cosgais a bhith aca.
+- Glag dorais no inneal-rabhadh, agus glasan air an cur àrd no ìosal. Na cuir glas orra leotha fhèin gun duine eile.
+- Dealbh ùr o chionn ghoirid agus liosta de àiteachan far am faodadh iad a dhol, leithid seann dachaigh no àite-obrach.
+- Inns do nàbaidhean earbsach, agus thoir d' àireamh fòn dhaibh.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ma thèid iad air chall:** tòisich a' lorg sa bhad; tha Comann Alzheimer Ameireagaidh a' toirt fa-near gun lorgar mòran taobh a-staigh 1.5 mìle. Ma chan eil thu air an lorg taobh a-staigh 15 mionaidean, cuir fios gu 999 agus innis gu bheil trom-inntinn orra. Cuir fios gu 999 sa bhad ma tha duine ann an cunnart.
 
-## When should I call a doctor?
+## Cuin bu chòir dhomh fios a chuir chun dotair?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Cuir fios chun dotair aca gu sgiobalta ma thòisicheas an t-iarraidh no am mì-chinnt gu h-obann, no ma dh'fhàsas e mòran nas miosa thar uairean no làithean. Tha an [Institiud Nàiseanta airson Seasgair](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ag ràdh gum bu chòir sùil a thoirt air giùlan obann no a tha ag atharrachadh gu luath, gu sònraichte às dèidh galaire no atharrachadh ann an leigheas. Faodaidh mì-chinnt obann a bhith na delirium, agus tha an [NHS](https://www.nhs.uk/symptoms/confusion/) ag ràdh gu bheil feum air cuideachadh èiginneach air; tha galairean slighe-fuail nam adhbhar cumanta am measg daoine nas sine.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Bidh e cuideachd feumail pàtran seasmhach a thoirt iomradh aig an ath cheann-latha, oir faodaidh pian, droch mhisneachd, duilgheadasan cadail no fo-bhuaidhean leigheis pàirt a ghabhail anns a' chùis.

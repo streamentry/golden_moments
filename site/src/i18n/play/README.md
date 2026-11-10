@@ -1,9 +1,10 @@
 # Game text and content, per language
 
-The 12 browser games read all their words from here. `en.json` is the English
-source. A translation is `<code>.json` in this folder, named with a code from
-`LOCALES` in `../locales.ts` (for example `es.json`, `pt-BR.json`, `ar.json`,
-`vi.json`).
+The 12 browser games read their words from here. The mobile app's exporter also
+reads the `illustrations` names from these files to build screen-reader labels
+for its bundled pictures. `en.json` is the English source. A translation is
+`<code>.json` in this folder, named with a code from `LOCALES` in
+`../locales.ts` (for example `es.json`, `pt-BR.json`, `ar.json`, `vi.json`).
 
 `../play.ts` merges a translation over English key by key, so a missing key shows
 English rather than nothing. **Arrays are replaced whole**: if you give
@@ -39,13 +40,19 @@ member or carer. Write plain, warm, adult language.
 
 | Key | How many | What it is |
 | --- | --- | --- |
-| `ui` | 189 strings in 16 sections | Guidance, buttons, chips, live messages, labels, print headings |
-| `pictures` | 33 names | One name per picture id (list below) |
+| `ui` | 193 strings in 16 sections | Guidance, buttons, chips, live messages, labels, print headings |
+| `pictures` | 83 names | One name per drawing id (list below) |
+| `illustrations` | 100 names | One short spoken label per mobile-only raster illustration id, copied from `assets/images/illustrations/manifest.json` |
 | `content.sayings` | at least 30; aim for 40–50 (English has 50) | Finish the saying |
 | `content.wordSearch` | `fill` + at least 4 themes (English has 6) × at least 6 words (English has 9) | Word search |
 | `content.conversation` | 9 theme labels + at least 2 cards per theme (English has 43 cards) | Conversation cards |
 | `content.coloring` | 5 page names + 47 region names | Coloring |
 | `content.sorting` | 3 themes × (label + 2 basket names) | Sort together |
+
+The 20 low-confidence locales with incomplete `pictures` names keep their
+existing English fallback, as recorded in `docs/improvements/TRACKING.md`.
+The app-only `illustrations` map is translated in the 44 app locales that
+already have all 83 drawing names; it is not used by the browser games.
 
 ### `ui`
 
@@ -70,6 +77,11 @@ member or carer. Write plain, warm, adult language.
   needs all six; Japanese, Korean, Chinese, Thai, Vietnamese and Indonesian
   need only `other`). The test checks this with `Intl.PluralRules`.
 - `photoPairs.intro`: text between `**` is shown in bold. Keep one bold run.
+- `photoPairs.photoComfort` is a short reminder to follow the person's response
+  to selected photos. It is an English fallback until translated.
+- `photoPairs.captionSummary`, `captionHelp` and `captionLabel` label optional,
+  page-only photo captions. They remain English fallbacks on translated pages
+  until reviewed translations are added; caption text is not stored or uploaded.
 - `finishTheSaying.gap` is what goes between the start of a saying and the
   blank: a space in English, `""` in Chinese, Japanese and Thai.
   `finishTheSaying.ending` is the revealed last word with its sentence mark
@@ -87,17 +99,19 @@ member or carer. Write plain, warm, adult language.
 
 ### `pictures`
 
-A short, concrete name for each drawing (look at `/pictures/<id>.svg` on the
-site): `teacup`, `kettle`, `bread` (loaf of bread), `frying-pan` (with an egg),
-`cake` (birthday cake), `sunflower`, `tulip` (red), `watering-can`,
-`potted-plant`, `tree`, `bird` (robin on a branch), `butterfly`, `dog`, `cat`,
-`fish` (goldfish), `apple` (red), `pear`, `strawberry`, `banana`, `lemon`,
-`cherries`, `house`, `lamp` (table lamp), `armchair`, `key` (old key),
-`umbrella`, `sailboat`, `car` (classic car), `bicycle`, `balloon` (hot air
-balloon), `lighthouse`, `sun`, `moon` (moon and stars).
+A short, concrete name for each of the 83 hand-drawn pictures in
+`site/src/data/pictures.ts`. The ids are the filenames under `/pictures/`.
+Names are read aloud as tile labels ("Teacup, tile 3"), so use the everyday
+noun people would say first.
 
-Names are also read aloud as tile labels ("Teacup, tile 3"), so start with
-the noun people would say first.
+### `illustrations`
+
+Short labels for the 100 raster illustrations listed in
+`assets/images/illustrations/manifest.json`. These are used by the mobile app's
+screen-reader labels; the exporter combines them with the hand-drawn picture
+names. Use one familiar, concrete name per id. Keep distinguishing details
+such as "wooden", "old" or "with a lid" when they make the picture clearer.
+These labels are machine-made until a native speaker reviews them.
 
 ### `content.sayings` (Finish the saying)
 
@@ -119,7 +133,8 @@ Each item is `{ "start", "end", "others": [two words], "prompt" }`.
 
 ### `content.wordSearch`
 
-- `available`: leave `true` unless a letter grid does not suit the script.
+- `available`: use `true` only when a letter grid suits the script and every
+  theme has at least six familiar 3–6 grapheme words; otherwise use `false`.
   It is already `false` for Chinese (both scripts), Japanese, Korean and Thai
   (`NO_LETTER_GRID` in `../play.ts`); delete `content.wordSearch` from those
   files, or copying `"available": true` from English would turn it back on.

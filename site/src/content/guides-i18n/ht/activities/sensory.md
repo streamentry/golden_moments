@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Aktivite sansoryèl pou moun k ap viv ak demans"
+seoTitle: "Aktivite sansoryèl pou demans: Ide ak sekirite"
+description: "Aktivite sansoryèl pou moun k ap viv ak demans, soti nan masaj men rive nan panyen twal ak son lanati, ak nòt sekirite sou toufe, alèji ak sant."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Aktivite sansoryèl sèvi ak touche, sant, gou, son ak vizyon: yon masaj men
+  dousman, yon panyen twal mou, fèy fre pou santi, son lanati, oswa gade zwazo
+  nan yon fenèt. Yo bon pou tout etap epi yo itil anpil pita. Verifye anvan pou
+  risk toufe, alèji, pwoblèm po ak sansiblite ak sant, ofri yon sèl bagay alafwa,
+  epi kanpe si moun w ap pran swen an sanble pa alèz.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Aktivite sansoryèl pa mande bon repons, kidonk yo ka mache nan tout etap, menm nan kabann oswa sou yon chèz."
+  - "Ofri yon sèl sans alafwa nan yon chanm trankil, epi mande oswa avèti anvan ou touche."
+  - "Evite ti objè ak tout bagay ki sanble oswa ki santi tankou manje men ki pa manje, paske moun ka mete bagay sa yo nan bouch yo."
+  - "Verifye pou alèji, pwoblèm po ak pwoblèm respirasyon anvan ou itilize losyon, sant oswa manje."
+  - "Pa gen prèv solid ki montre aromaterapi ede ak sentòm demans; sèvi ak sant sèlman pou senp plezi, si ou vle."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Ki bon aktivite sansoryèl pou yon moun k ap viv ak demans?"
+    a: "Kèk ide senp se yon masaj men dousman ak losyon, manyen twal mou, santi fèy fre oswa kafe, tande mizik yo renmen oswa son lanati, gade zwazo oswa yon akwaryòm, epi goute yon manje yo renmen nan yon teksti ki an sekirite. Ofri yon sèl bagay alafwa epi gade kijan moun nan reyaji."
+  - q: "Èske aktivite sansoryèl an sekirite pou yon moun ki mete bagay nan bouch li?"
+    a: "Yo ka an sekirite, si ou fè atansyon. Sèvi sèlman ak gwo objè ki pa ka vale, pa sèvi ak anyen ki piti oswa ki ka kase, epi mete losyon, savon ak pwodwi ki gen sant lwen apre sa, paske yo ka sanble oswa santi tankou manje. Rete ak moun nan pandan tout aktivite a."
+  - q: "Èske aromaterapi ede ak demans?"
+    a: "Yon revizyon Cochrane pa jwenn prèv solid ki montre aromaterapi ede moun k ap viv ak demans, men etid yo te piti epi rezilta yo pa t toujou menm. Si moun nan renmen yon sant dou li abitye, sa pa gen pwoblèm, men evite lwil esansyèl ki fò, sitou si gen pwoblèm respirasyon oswa alèji."
+  - q: "Kisa yon tabliye oswa yon dra pou okipe men ye?"
+    a: "Se yon moso twal, yon tabliye oswa yon ti dra pou janm ki gen bagay pou manyen koud byen sou li, tankou gwo bouton, zip, riban ak moso twal ki gen diferan teksti. Li bay men ki okipe yon bagay pou eksplore. Verifye li souvan pou wè si pa gen anyen ki lach ki ta ka rache."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +47,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Aktivite sansoryèl sèvi ak senk sans yo: touche, sant, gou, son ak vizyon. Yo pa mande memwa, pa gen etap pou suiv, epi pa gen bon repons, kidonk yo ka mache nan nenpòt ki etap. Yo pi enpòtan pita. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) fè remake ke nan dènye etap la, moun nan viv mond lan sitou atravè sans yo, epi ou ka montre ou pran swen atravè touche, son, vizyon, gou ak sant. Kèk ti verifikasyon sekirite ka fè aktivite sa yo vin plis repoze pou tout moun.
 
-## What are sensory activities for dementia?
+## Kisa aktivite sansoryèl pou demans ye?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Aktivite sansoryèl se eksperyans senp ki chita sou yon sèl sans alafwa, tankou manyen twal, santi fèy fre oswa tande lapli. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) di aktivite nan etap pita souvan bezwen konsantre sou sans yo, epi li mansyone mizik, objè pou touche ak manyen, ak masaj men. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) fè remake ke moun ki nan dènye etap la ka gen yon gwo bezwen kenbe yon bagay pre yo pou yo santi yo alèz.
 
-## Sensory ideas, sense by sense
+## Ide sansoryèl, sans pa sans
 
-### Touch
+### Touche
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Masaj men.** Chofe yon ti kras losyon nan men ou epi fwote dousman soti nan ponyèt rive nan pwent dwèt. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mansyone masaj ak losyon ki pa gen sant pou konfò.
+- **Panyen twal.** Gwo moso velou, kòdroy, twal mou, saten ak lenn pou fwote, pliye epi pale sou yo.
+- **Twal mouye tyèd.** Yon twal tyèd, yon ti kras mouye, pou men yo lè fè frèt. Tcheke tanperati a sou pwòp ponyèt ou anvan.
+- **Tabliye oswa dra pou okipe men.** Gwo bouton, zip, riban ak moso twal ki gen diferan teksti koud byen sou li.
+- **Pliye ak lis.** Yon panyen ti sèvyèt oswa nap pwòp pou pliye, anpile epi pliye ankò.
+- **Yon bagay mou pou kenbe.** Yon dra mou, yon kousen oswa yon bèt mou ki sanble ak yon bèt reyèl, ofri senpman, pa janm tankou yon jwèt.
 
-### Smell
+### Sant
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Fèy fre.** Fwote fèy mant, romaren, bazilik oswa lavand ant dwèt ou epi pase yo toupre moun nan.
+- **Sant lakizin.** Kafe k ap prepare, pen k ap griye, kannèl oswa yon zoranj y ap kale toupre.
+- **Flè.** Pote kèk flè fre soti nan jaden an oswa nan mache a.
+- **Yon pwodwi abitye.** Savon oswa losyon moun nan te toujou itilize, si po li sipòte li.
 
-### Taste
+### Gou
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Yon gou yo renmen.** Yon ti kiyè yon bagay yo renmen, tankou konpòt pòm, pouding oswa krèm glase, nan yon teksti yo ka jere san danje.
+- **Ede nan kwit manje.** Goute fwi oswa yon ti glas pandan n ap fè patisri ansanm.
+- **Ti plezi sezon an.** Melon dlo nan ete, sid tyèd nan otòn, sèvi nan yon tanperati ki an sekirite.
 
-### Sound
+### Son
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Mizik yo renmen.** Chante yo abitye ak yon volim dous; gade [aktivite mizik](/activities/music/).
+- **Son lanati.** Lapli, vag oswa chante zwazo. NIA fè remake ke mizik, bri blan ak son lanati sanble ede kèk moun detann.
+- **Vwa ou.** Li awotvwa, chante dousman, oswa rakonte yon istwa.
+- **Enstriman senp.** Yon ti tanbou, yon shakè oswa yon klòch pou jwe ansanm ak mizik.
 
-### Sight
+### Vizyon
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Gade nan fenèt.** Yon manje pou zwazo deyò fenèt la, timoun k ap mache lakay yo, oswa nèj k ap tonbe.
+- **Yon akwaryòm oswa yon videyo dous.** Mouvman dous san son fò.
+- **Gwo foto.** Yon sèl foto klè alafwa, kenbe nan nivo je.
+- **Koulè ak modèl.** Tri moso twal klere, flè oswa nap ki gen koulè, oswa yon paj senp pou kolorye nan seri [koloryaj](/games/coloring/) nou an.
+- **Deyò.** NHS sijere jaden sansoryèl ak plant ki gen sant, diferan teksti ak eleman dlo. Gade [aktivite deyò ak jadinaj](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Kijan pou fè yon bwat sansoryèl
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Chwazi yon tèm** ki gen rapò ak lavi moun nan: plaj la, jaden an, lakizin nan, atelye a, koud.
+2. **Chwazi senk oswa sis gwo objè ki an sekirite,** tankou yon gwo koki lanmè, yon kiyè an bwa, yon foula mou, yon ti sache lavand sèch ki koud fèmen, oswa yon blòk an bwa ki lis.
+3. **Verifye chak objè** pou ti pati, kwen ki file, fil ki lach ak nenpòt bagay ki ka kase.
+4. **Soti yon sèl objè alafwa.** Lonje li bay moun nan, dekri li, epi kite moun nan eksplore li.
+5. **Mete bwat la lwen apre sa** pou li rete espesyal epi pou objè yo verifye ankò anvan pwochen fwa.
 
-## Safety first
+## Sekirite anvan tout bagay
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Aktivite sansoryèl yo dous, men gen kèk risk ki enpòtan. Gen kèk moun k ap viv ak demans ki ka pran objè ki pa manje pou manje, epi vale ka vin pi difisil ak tan; NIA avèti ke pwoblèm pou vale nan dènye etap la ogmante risk pou toufe.
 
-| Risk | What to do |
+| Risk | Kisa pou fè |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Toufe | Sèvi sèlman ak objè ki twò gwo pou vale. Pa kite bouton, pèl, pyès monnen, mab oswa ti jwèt lach nan yon bwat. Ofri manje sèlman nan teksti ekip swen an di ki an sekirite. |
+| Bagay ki sanble ak manje | NIA konseye fèmen losyon, savon, chanpou ak pafen ak kle, paske yo ka sanble oswa santi tankou manje, epi retire fwi atifisyèl. Mete pwodwi sansoryèl yo lwen apre ou fin sèvi ak yo. |
+| Alèji | Verifye pou alèji ak nwa, latèks, lenn, plant oswa sant anvan ou kòmanse. |
+| Sant fò | Evite pafen fò ak lwil esansyèl, sitou si gen opresyon oswa lòt pwoblèm respirasyon. Sant natirèl ki dou pi an sekirite. |
+| Po | Verifye si gen po ki fè mal, ki kase oswa ki frajil anvan masaj. Sèvi ak yon presyon dou epi kanpe si moun nan fè grimas. |
+| Tanperati | Tcheke twal tyèd ak bwason sou pwòp ponyèt ou anvan. |
+| Objè ki file oswa toksik | Pa sèvi ak zouti ki file, vè oswa pwodwi atizana ki toksik. |
 
-## Does aromatherapy help?
+## Èske aromaterapi ede?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Petèt pa nan okenn fason nou ka mezire klèman. Yon [revizyon Cochrane sou aromaterapi pou demans](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) te gade 13 etid ak 708 moun, tout nan kay swen, epi li pa jwenn okenn prèv solid ki montre benefis. Etid yo te piti, rezilta yo pa t dakò, epi efè segondè yo pa t byen rapòte. Si moun nan renmen yon sant dou li abitye, tankou lavand nan jaden an, se yon bon rezon pou pataje li. Se pa yon tretman.
 
-## How to offer a sensory activity
+## Kijan pou ofri yon aktivite sansoryèl
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Chwazi yon moman trankil** epi etenn televizyon an.
+- **Pwoche pa devan,** di non moun nan, epi mande oswa di li anvan ou touche: « Mwen gen yon ti losyon. Èske ou ta renmen yon ti masaj men? »
+- **Ofri yon sèl bagay alafwa** pou sa pa twòp.
+- **Gade reyaksyon an.** Yon figi ki vin pi dous, men ki detann oswa yon souri se bon siy. Si moun nan rale kò li, fronse oswa vin ajite, kanpe.
+- **Kenbe l kout.** Senk minit kalm se yon bon sesyon.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Yon ti poz pou respire dousman ansanm, tankou [respirasyon kalm](/games/calm-breathing/), ka yon bon fason pou fini. Pou plis ide bò kabann, gade [aktivite pou dènye etap](/activities/late-stage/), epi pou malèz nan fen jounen an, gade [ajitasyon nan fen jounen](/caregiving/late-day-restlessness/).

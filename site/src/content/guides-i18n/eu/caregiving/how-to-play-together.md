@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Nola jokatu dementzia duen norbaitekin"
+seoTitle: "Nola jokatu dementzia duen norbaitekin"
+description: "Dementzia duen pertsona batekin jokoak jolasteko gida praktikoa: prestatzea, erritmoa, ez zuzentzea, erraztea eta noiz gelditu jakitea."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Jolasa elkarrekin denbora pasatzeko arrazoitzat hartu, ez proba gisa. Aukeratu eguneko
+  une lasai bat, elkarrekin alboan eserita gela isil batean, eta joko sinple bakarra eskaini.
+  Utzi zaintzen duzun pertsonari bere erritmoa jartzen, ez zuzendu akats inozoak, zailtasunen
+  lehen seinaleetan erraztu jokoa, eta erabili irudiak elkarrizketarako abiapuntu gisa. Gelditu
+  oraindik lasai eta ondo sentitzen denean. Goiz amaitzea edo elkarrekin bakarrik irudiak
+  begiratzea ere emaitza ona izan daiteke.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Helburua gozatu eta elkarrekin egotea da, ez amaitzea edo erantzun zuzenak ematea."
+  - "Lehenik prestatu: gela isila, argi ona, betaurrekoak eta entzungailuak jantzita, telebista itzalita, eta joko bakarra prest."
+  - "Ez zuzendu akats inozoak. Esan \"Honela saiatu gaitezen\" edo jarraitu besterik gabe."
+  - "Jokoa erraztu frustrazioa sortu aurretik: irudi gutxiago, aukera gutxiago, edo irudiak ikusgai utzi."
+  - "Erabili irudiak istorioak sortzeko abiapuntu gisa, \"Kontaidazu honi buruz...\" bezalako galderak eginez, \"Gogoratzen al duzu...?\" baino."
+  - "Gelditu nekea edo larritasunaren lehen seinaleetan. Goiz gelditzea arrakasta da, ez porrota."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Zenbat denbora jolastu beharko genuke?"
+    a: "Ez dago denbora zehatzik. Pertsona askorentzat minutu batzuk nahikoa izaten dira, eta egun batzutan txanda bakarra ere aski da. Begiratu pertsonari erlojua baino gehiago, eta gelditu oraindik lasai dagoenean."
+  - q: "Utzi beharko nioke irabazten edo akatsak ez ikusi egitean?"
+    a: "Elkarrekin, presiorik gabeko joko batean, ez dago irabazi edo galtzerik. Akatsak ez badio kezkarik sortzen, utzi lasai. Kezkatzen badu, isilean lagundu edo jokoa erraztu, hori seinalatu gabe."
+  - q: "Nahiago badu nire jokoa ikusten geratu beharrean?"
+    a: "Ondo dago. Aholkuen arabera, pertsonak gustura ikusten badu bakarrik, utzi egin diezaioke. Zer ikusten duzun komentatu eta, nahi duenean, seinalatzeko edo aukeratzeko gonbita egin diezaioke."
+  - q: "Joko hauek memoria neurtzeko modukoak al dira?"
+    a: "Ez. Gure jokoak gozatzeko eta elkarrizketatzeko elkarrekin egiteko jarduera sinpleak dira. Ez dira memoria proba bat, ez dute ezer neurtzen, eta ez dira dementziaren tratamendurako."
+  - q: "Zein joko da egokiena hasteko?"
+    a: "Hasi pertsonarentzat errazena denarekin. Lau fitxa dituen Picture Pairs jokoa, irudiak ikusgai utzita, edo bi aukera dituen Find the Same jokoa, abiapuntu leunak dira. Elkarrizketak gehiago gustatzen bazaizkio, Conversation Cards ere oso egokia da."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Dementzia duen pertsona batekin jolastea ez da lehiaketa baten antzekoa izan behar. Bi pertsona elkarri hurbil eserita, irudiei seinalatzen, esaera bati barre eginez eta etortzen zaigun edozerri buruz hitz egiten duten bi pertsonaren antzekoa baizik. Jokoa elkarrekin denbora pasatzeko arrazoia besterik ez da.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Gida honetan ikasiko duzu nola prestatu, nola egokitu erritmoa, zer esan zerbait gaizki iruditzen denean, nola erraztu edo pixka bat zaildu edozein joko, nola bihurtu elkarrizketan, eta noiz gelditu jakitea. Gure [jokoetan](/games/) erabil daiteke, baita dagoeneko dituzun karta, puzzle edo mahai-jokoetan ere.
 
-## What is the best way to play a game with someone who has dementia?
+## Zein da modurik onena dementzia duen norbaitekin jolasteko?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Gozamena eta elkarrekin egotea izan behar dira helburu, ez lorpenak. Horixe da [Alzheimer's Association-ek jarduerei buruz ematen duen aholkuaren](https://www.alz.org/help-support/caregiving/daily-care/activities) oinarria: oinarritu pertsonak oraindik badituen gaitasunetan, hasi egiten lagundu, zailak diren zatiak zuk egin, eta ez kritikatu edo zuzendu jarduera inozoak.
 
-In practice that means:
+Praktikan, horrek honakoa esan nahi du:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Eseri alboan, ez aurrez aurre.** Alboan esertzean, biok pantailan edo mahai gainean ikus dezakegu, eta laguntza lankidetzatzat hartuko da, gainbegiratze gisa baino gehiago.
+- **Joko bakarra eskaini aldi bakoitzean.** Aukera anitzeko menu batek proba bat dirudi hasi aurretik.
+- **Jarraitu bere bidetik.** Irudiak bere ordenan ukitu nahi baditu, irudi bati buruz hamar minutuz hitz egin nahi badu, edo bi txanda egin ondoren gelditu nahi badu, hori da gaurko jokoa.
+- **Kontatu une onak, ez osatutako txandak.** Irribarre bat, istorio bat edo lasai pasatako ordu erdi bat dira bilatzen ari zaren emaitzak.
 
-## How do I set up before we start?
+## Nola prestatu jolasa hasi aurretik?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Prestaketa minutu batzuek jokoaren beraren erruz egotzi ohi diren frustrazio gehienak saihesten dituzte.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Aukeratu eguneko une egokiena.** [Osasunaren Institutu Nazionalak (NIA) jarduerak egokitzeari buruzko gidaren](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) arabera, planifikatu jarduerak pertsonak hoberen sentitzen den unean. Askorentzat goizaldean izaten da hori. Arratsalde berantiarra zailagoa izan ohi da; ikus [arratsalde berantiarreko jarduera lasaiak](/caregiving/late-day-restlessness/).
+2. **Egin gela isil.** Itzali telebista eta irratia, eta ahal baduzu, atea itxi. [Family Caregiver Alliance-k](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gomendatzen du zarata eta distrakzioak murriztea hitz egin aurretik.
+3. **Ziurtatu eroso dagoela.** Eduki edaria eskura, egin komunera joateko bisita aurretik, aukeratu aulki erosoa, eta jarri betaurrekoak eta entzungailuak.
+4. **Argiztatu ondo espazioa.** Argitasun uniformea, pantailan distirarik gabe, irudiak hobeto ikusteko lagunduko du.
+5. **Prestatu jokoa eserita hasi aurretik.** Ireki jokoa, aukeratu ezarpenak eta doitu bolumena zeuk. Ondoren, biratu pantaila berarengana. Tableten aholkuetarako, ikus [tableta edo telefonoa prestatzea](/caregiving/tablets-and-screens/).
+6. **Eutsi gailua altxatuta.** Eutsi-euskarri edo zorro batek tablet gainean finkatuta mantentzen badu, inork ez du eutsi behar, eta seinalatzea errazagoa da.
 
-## How do I invite them without pressure?
+## Nola gonbidatu presiorik gabe?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Gonbidapena lasai egin eta erraz uko egiteko aukera utzi. Normalean ondo hartzen diren esaldi batzuk:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Lore-irudi batzuk aurkitu ditut. Nirekin begiratu nahi dituzu?"
+- "Lagunduko didazu puzzle honetan? Itsatsita nago."
+- "Gaur loreak edo txoriak nahi dituzu?" (bi aukera ematea errazagoa da galdera irekia baino)
+- "Zure ahizparentzat txartel bat egiten ari naiz. Zein kolore jarri beharko nioke?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association-ek jardueraren helburua azaltzea gomendatzen du, adibidez lagun bati txartel bat egitea, zeren horrek zentzua ematen baitio. Laguntza eskatzea ere ondo funtzionatzen du, pertsonak erabilgarria sentitzea ahalbidetzen duelako.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ezetz esaten badu, onartu. Geroago berriro saiatu edo beste zerbait eskaini. Gure gida [ezetz esaten dutenean zer egin](/caregiving/when-they-say-no/) sakonago azaltzen da.
 
-## How long should a game last, and how fast should we go?
+## Zenbat iraun behar du jokatuak, eta zein erritmoan?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Utzi pertsonari erritmoa jartzen, eta planifikatu saio laburrak. Ez dago frogatutako iraupen ideala elkarrekin jolasteko. Bi eta bost minutu lasai nahikoa izan daitezke jarduera osoa izateko.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Itxaron naturala iruditzen zaizuna baino gehiago.** NIAk gomendatzen du denbora gehiago uztea erantzuteko eta ahaleginik gabe etetea saihestea. Zenbatu hamar arte zure baitan lagundu aurretik.
+- **Urrats bakar batera.** Eman argibide labur eta bakarra ("Ukitu irudi bat"), eta itxaron. Erakutsi azaldu beharrean: seinalatu non ukitu behar den.
+- **Gelditu nahi duenean utzi.** Irudi bati buruz hitz egiten hasten bada, jokoa itxaron daiteke. Ez dago presarik.
+- **Utzi ikusten.** NIAk adierazten du pertsona batzuek ikusi nahiago dutela, eta hori aukeraketa baliozkoa dela.
 
-## Should I correct wrong answers?
+## Zuzendu behar al ditut erantzun okerrak?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ez. Pertsona bat behin eta berriz leunki zuzentzeak porrot egiten ari dela sentitzea eragin diezaioke, ondo pentsatuta egon arren. Alzheimer's Association-ek gomendatzen du ez kritikatu edo zuzendu jarduera inozoak. Joko batean, ia akats guztiak inozoak dira.
 
-| Instead of | Try |
+| Horren ordez... | Saiatu honekin... |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Ez, oker dago." | "Honela saiatu gaitezen." (NIAk ematen duen adibidea) |
+| "Ez da parekoa. Begiratu berriro." | Ezer esan gabe hurrengo txandara pasa, edo "Biak gorriak dira." |
+| "Gogoratzen al duzu nor den hau?" | "Kontaidazu irudi honi buruz." |
+| "Dagoeneko egin duzu hori." | "Oso ondo dago hau. Berriro egin dezagun." |
+| "Ea, badakizu hau." | "Amaiera erakutsi nahi dizut?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Akats batek frustrazioa sortzen badio argi eta garbi, lagundu isilean. Seinalatu irudi zuzena, zeuk txanda bat hartu, edo hurrengo txandan jokoa erraztu. Esaera batek amaiera dibertigarri eta okerra badu, barre egin elkarrekin. Agian bere amaiera hobea da.
 
-## How do I make a game easier or harder?
+## Nola erraztu edo pixka bat zaildu jokoa?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Egunaren arabera egokitu jokoa pertsonari, ez etapa-etiketaren arabera. Pertsona berak goizean errazagoa behar izatea eta arratsaldean zailagoa izatea gerta daiteke. NIAren lehen aholkua da jarduera pertsonak egin dezakeenaren arabera egokitzea eta arrakasta sentitzea lortzea.
 
-| Game | Make it easier | Make it a little harder |
+| Jokoa | Erraztu | Pixka bat zaildu |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Hasi 4 fitxarekin eta utzi irudiak ikusgai | Fitxa gehiago gehitu, edo irudiak ezkutatu eroso sentitzen bada |
+| [Find the Same](/games/find-the-same/) | 2 aukera | 4 aukerara arte |
+| [Sort Together](/games/sort-together/) | Zeuk heldu irudia eta berak saskira seinalatu | Berak ukitu irudia eta saskia bere kabuz |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 pieza, hitz egin irudi osoari buruz lehenik | 9 pieza |
+| [Finish the Saying](/games/finish-the-saying/) | Erakutsi amaiera, gero elkarrekin esan | Utzi amaiera esan diezaiola ukitu aurretik |
+| [Word Search](/games/word-search/) | Inprimatu, bilatu hitz bat elkarrekin, seinalatu bere lehen letra | Utzi berari hurrengo bilatzeko hitza aukeratzen |
+| [Coloring](/games/coloring/) | Zeuk aukeratu bi kolore, berak bat aukeratu | Utzi kolore guztiak aukeratzen |
+| [Conversation Cards](/games/conversation-cards/) | Begiratu irudia elkarrekin bakarrik | Erabili txartelean dauden galdera irekiak |
+| [Photo Pairs](/games/photo-pairs/) | Erabili maite dituzuen familia-irudi batzuk | Gehiago gehitu |
+| [Picture Bingo](/games/picture-bingo/) | Laguntzaile bat jarri jokalari bakoitzaren ondoan | Jokalariek beren txartelak markatu |
+| [Calm Breathing](/games/calm-breathing/) | Eseri eta ikusi elkarrekin bakarrik | Arnasa elkarrekin poliki egin |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Jokoa zaila dela adierazten duten seinaleak: lasaitasunaren ordez kezka dirudien isilune luzeak, "Ezin dut" errepikatzea, gailua urruntzea, edo frustrazioa eragiten dioten akatsak. Erraza dela adierazten duten seinaleak: aspertzea edo haurren jolas moduko zerbait dela iruditzea. Hori gertatzen bada, errespetatu eta helduagoa dirudien zerbaitetara aldatu, adibidez hitz-bilaketa batera, benetako argazki baten puzzle batera, edo irudi bati buruz hitz egitera.
 
-## How do I turn a game into a conversation?
+## Nola bihurtu jokoa elkarrizketan?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Erabili irudi bakoitza hitz egiteko gonbita gisa, eta esan duena beti erantzun egoki gisa hartu. Askotan, familia askorentzat hori da jolastearen zatirik onena.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Egin galdera irekiak, erantzun okerrik gabekoak.** "Zer nabaritzen duzu?" "Zein gustatzen zaizu gehien?" "Kontaidazu sukalde honen antzeko batena."
+- **Partekatu zeuk lehenik.** "Nire amonak txakur hau bezalako bat zuen." Zure istorioak berari errazago egingo dio berea partekatzea.
+- **Jarraitu desbideraketari.** Auto baten irudiak bidaia bati buruzko istorio bat ekartzen badu, istorioa da jarduera. Utzi jokoa pausatuta.
+- **Ez zuzendu datuak.** Oroitzapenen elkarrizketan, elkarrizketa atsegina izatea garrantzitsuagoa da xehetasun zehatzak izatea baino. Istorioa aurreko aldian ez bezalakoa bada, gozatu bertsio berriaz.
+- **Erabili barneratutako gonbitak.** [Finish the Saying](/games/finish-the-saying/) jokoak esaera bakoitzaren ondoren hitz egiteko gonbita dakar, eta [Conversation Cards](/games/conversation-cards/) berariaz horretarako diseinatuta daude. [Photo Pairs](/games/photo-pairs/) zure familiako argazki propioak erabiltzen ditu, eta askotan istorio aberatsenak sortzen dituzte.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Ideia gehiago aurki ditzakezu [oroitzapenei buruzko jardueren](/activities/reminiscence/) eta [komunikazio-aholkuen](/caregiving/communication-tips/) gidetan.
 
-## When should we stop?
+## Noiz gelditu beharko genuke?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Gelditu nekea edo larritasunaren lehen seinaleetan, eta ahal izanez gero, pixka bat lehenago. Alzheimer's Association-ek gomendatzen du jarduera aldatzea edo gelditzea arreta gutxitzen hasten denean edo frustrazioa agertzen denean.
 
-Watch for:
+Begiratu seinale hauei:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- aharrausiak, makurtzea edo begiak pantailatik urruntzea;
+- mugimendu asko, altxatzea edo joatea eskatzea;
+- hasperenak, erantzun laburrak, edo "Ez naiz ona horretan";
+- ausaz ukitzea edo gailua urruntzea;
+- malkoak, haserrea, edo umore-aldaketa bat bat-batean.
 
-How to stop well:
+Nola gelditu ondo:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Amaitu zerbait errazarekin.** Utzi azken pare bat egiten, edo azken irudi bat miresgarri bezala ikusten.
+- **Jarri zeure buruari erreferentzia.** "Tea bat hartzeko gogoa dut. Hemen utziko dugu?" esateak ez du bere errurik egonaren inpresiorik sortuko.
+- **Aldatu beste jarduera fisiko edo lasaigarri batera.** Paseo labur bat, pintxo bat, eskuoihalak tolestea edo musika entzutea.
+- **Esan zerbait bero.** "Gustatu zait zurekin horrelakorik egitea." Ez zoriondu "zuzen egiteagatik", elkarrekin egon izanaz gozatu izanagatik baizik.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Goiz amaitzea, planak aldatzea, edo jokoa alde batera utzi eta elkarrekin eserita geratzea guztiak emaitza onak dira.
 
-## Can we play in a group or over a video call?
+## Taldean edo bideo-dei bidez jokatu al dezakegu?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Bai, prestaketa pixka batekin. Taldean, mantendu pertsona gutxirekin, jarri laguntzaileak behar duen edonoren ondoan, eta aukeratu elkarrekin ardatz argia duen joko bat. [Picture Bingo](/games/picture-bingo/) jokoak txartel inprimagarriak eta pantailako deitzaile bat ditu taldeetarako. Ikus [zaintza-etxeetako taldeentzako jarduerak](/activities/care-home-groups/) informazio gehiagorako.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Bideo-dei bidez, deian dagoen pertsonak irudi bat deskriba dezake, gelako norbaitek seinalatu edo ukitu bitartean. Egin dei laburrak eta ezagunak. Gure gida [telefono eta bideo-deiei](/activities/phone-and-video-calls/) aholku gehiago ematen ditu.
 
-## What if a game just isn't working?
+## Zer egin jokoa ez badabil inolaz ere?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Egun batzutan ezer ez da ondo ateratzen, eta hori ez da ez zure ez beraren errua. Utzi jokoa alde batera eta saiatu beste eguneko une batean, beste joko batekin, edo inolako jokorik gabe. Jolas askok ez dute pantailarik behar: musika, eskuoihalak tolestea, argazki-album bat begiratzea, edo paseo labur bat. Begiratu gure [jarduera-ideiak](/activities/ideas/) gehiago aurkitzeko.

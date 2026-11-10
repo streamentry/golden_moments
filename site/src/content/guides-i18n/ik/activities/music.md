@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Atuagaq atuġniq puqtusriļiġmik iḷisimaruanun"
+seoTitle: "Atuagaq atuġniq puqtusriļiġmik iḷisimaruanun"
+description: "Qanuq atuagaq atuġlugu iñuum puqtusriļiġmik iḷisimaruam ilaanun: naipiqtuŋ nalunaiqsautinik, 15 atuġaġniq, qiñiġutit atausiŋŋuaġmiḷu."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Atuagaq atuġniq ilaani aŋiḷhaalluaġnaqtuq iñuum puqtusriļiġmik iḷisimaruam
+  ilaanik atuġaġnianik. Naipiqtuq atuagaq nalunaiqsautinik iñuuviaŋanit,
+  ukpiġivianiŋanit, iḷagiitniŋanillu. Atuġaġlugu niġiḷḷaŋŋaitchuanik TV-lu
+  kamilluaŋŋaitchuanik, atuġlugu ataatchimun, atuġaġlusiḷḷu. Atuġaġivsi
+  nipaiļḷuk anunialuuniit, nalunaiqsiuŋ itqanaiqługu iñuk. Nipaa mikłiqsaqpaŋ,
+  nutqaqtitlu atuagaq qiñiġutaaŋa iñuŋmun piyaunġitpat.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Iñuum nalunaiqsautaa atuagaq piviuttaqaqtuq: iñuusuktuami nalunaiqsautaa, ukpiġivianiŋanit, iñuguġmiŋaniŋanillu atausiŋŋuagun nalunaiqsautaa."
+  - "Atausiq atuġaġlugu, niġiḷḷaŋŋaitchuaq TV-lu kamilluaŋŋaitchuaq."
+  - "Atuutiniq, patittiqiniq, aullaqatagiiniq, naalagiiniġlu ilautitaaqtut."
+  - "Nipaiļḷuk atuġaġlugu qiñiġumiñaqtillugu, nipitqiaq atuġaġlugu quviasuktillugu, iñuum qanusiataa qiñiġlugu."
+  - "Iluqatiqsiuqtut atuagaq atuġniŋat qiñiqsiaqtaat ikitpallaat; atuagaq atuġniq atuġaġigaat quviasuutaulluaq, iñuusiuġutiŋŋuŋituaq."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Qanuq atuagaq piviuttaqaqpaa iñuum puqtusriļiġmik iḷisimaruam?"
+    a: "Iñuum taimaniŋaniaq nalunaiqsautaa piviuttaqaqtuq, iñuusuktualluaniani, ukpiġivianiŋani, iñuguġmiŋaniŋani, quviasuutiŋaniŋanillu. Pisuktuŋa, iñuk nalunaiqsinniqsauŋ. Qiñiġlugu qiñiġaŋa timiŋalu qanuq quviasuġniŋa, atuagaq piyaunġitpallu nutqaqtitlugu."
+  - q: "Siuŋagut naalautinik atuġniaġivsiuk?"
+    a: "Iḷaŋit siuŋagut naalautinik quviasuġaat nipinik nutqaqtittaqtuġik, iḷaŋiḷḷu piyaunġitchaat nalunaiqsuiñġitḷutiglu. Siuŋanŋiqsaaq naalautimik atuġivsi naalaglusi. Siuŋagut naalautinik atuġuvsi, nipaa mikłiqsaqsiuŋ, qaninniiḷḷusi."
+  - q: "Atuagaq ikayuutaunġinnavaa aullaqatagiḷḷuuniit qiñiġunmiḷḷuuniit?"
+    a: "Nipaiļḷuk nalunaiqsautaq atuagaq qiñiġumiñaqtitsisuq, Alzheimer's Association-lu uqaqtuq atuagaq atuġlugu isumaaġivlutigiñiaqsi qiñiġutaa. Atausiŋŋuaq qaŋa piŋituaq. Iñuk qiñiġumiñaitpat, qiñiġivsiuŋ anniqsuqpa, kaŋiqsuqpa, nipituqpa, itqunġiqsuqpa uuktuun."
+  - q: "Iñuit puqtusriļiġmik iḷisimaruat akuniḷaaq quviasuġniġik atuġaaqpalluk atuaganik?"
+    a: "Amigaitchuat quviasuġniaqtut. Alzheimer's Association uqaqtuq akuniḷaaq iñuk patittiqiniqsauq atuagaq nalunaiqsautaa atuġumiñaqługu nutaqqami atuġamiŋa. Qanitchiaglusi, atuagaq nipaiļḷuglugu atuġaġlugu, argagiŋallu tigumiaġlugu aullaqatagivluguluuniit."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Atuagaq atuġniq ilaani aŋiḷhaalluaġnaqtuq iñuum puqtusriļiġmik iḷisimaruam ilaanun atuġaġnianik. Apiqhuġutiqaiññaqtuq: kiuviniq nalaunġitchuaq pisaġuiññaqtuq, maliguagaksraqaqtuŋitchuaq. Atuagaq nalunaiqsautaq quviasuktitsisuq, itigaġnik patittiqiļḷaġmiñaqtuq, uqausiŋnik iḷaŋnik atuġaġmiñaqtuq, uqaqatigiiniq sapiqnaqtualluata. Pisuġigaat atuagaq iñuŋmun nalunaiqtaq, qiñiġutaaŋalu nipaiļḷuk atuġaġlugu.
 
-## What music activities work for people with dementia?
+## Qanuq atuagaq atuġniq piviuttaqaqpaa iñuum puqtusriļiġmik iḷisimaruam?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Naalagiiniq, atuutiniq, patittiqiniq, aullaqatagiiniq, atuagaġmiḷḷu uqaqatigiiniq piviuttaqaqtut. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) uqautigaa atuagaq atuġlugu, atuagaġmik atuagaq iḷisimaruaġmiḷḷu uqaqatigiġlugu, atuutiniq mumiktiniġlu atuagaq nalunaiqsautanik, atuagaq atuġaġniŋniḷḷu nunaaqqimi isiqtiniq. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) uqaqtuq aullaqatagiiniq, patittiqiniq mumiktiniġlu quviasuġniŋmik ilasuaqtuq, atuagaġlu atausiŋŋuliġniŋmik ikayuqtuq uqausiq sapiġnaqtualluata.
 
-## How do you build a personal playlist?
+## Qanuq naipiqniaġivsiuŋ atuagaq nalunaiqsautinik?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Piviuttaqaqtuaq savaaq naipiqtuŋ atuagaq nalunaiqsautinik iñuum iñuuniani piviuttaqaqtuanik. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) uqautigaa atuagaq iñuum nalunaiqsautaa. Una aŋiḷhaalluaq maliguagaq.
 
-### Start with their life
+### Iñuunianiŋanit aullaqtillusi
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Iñuusuktualluaniaŋani.** Isumagiñiaqsigik sunik atuagaq naalaktuat, mumiktuat, tautuktuaġmiḷḷu tautuktuaq iñuusuktuaq.
+- **Piviuttaqaqtut uvluat.** Katitniġmi atuagaq, mumiktuaq sivulliq, iḷagiitniḷḷu aullaaqatautimi atuagaq nalunaiqsautaq.
+- **Ukpiġiviat iñuguġmiŋalu.** Atuutit, atuagaq ukpiġiviaq, atuagaq uqausimiŋani sivulliqpaani.
+- **Savaaq suliqutailu.** Atuagaq pisuqtut, savaam atuagait, suliqutaim atuagaiḷḷu.
+- **Iḷagiit itqaqtaat.** Apiqsriñiaqsigit aŋayuqaaġit, nutarait, piqatigilḷu qaŋa atuġumiñaqtuaŋannik atuutilluaŋanniġlu.
 
-### Think in genres, not just songs
+### Isumaġivsi atuagaq suŋŋuata, atuagaq atausiŋŋuaŋŋituaq
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Naliġmik aullaqsaaq nalunaiŋitkuvsi, atuġaġivsi atausiŋŋuaq ikitqumik makinnamiin, iñuum qanusiataa qiñiġlugu: big band, swing, doo-wop, Motown, soul, rock and roll, country, western, bluegrass, gospel, atuutit, Broadway atuagait, jazz, Latin atuagait boleros-luuniit mariachi-luuniit, polka, folk, classical-lu. Piqsraqsiuŋ quviasuktitkuaq, patittiqtitkuaq, nutqaqtitlu qiñiġaqniqsaaqpallu.
 
-### Make it easy to play
+### Aŋiḷhaalluaq atuġaġnianik
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Niġiḷḷaŋŋaitchuaq.** Alzheimer's Association uqaqtuq niġiḷḷat nalunaiqsuŋŋaisuut. Atuġaġivsi atuagaq piḷiŋaruat, CD-t, records-luuniit, niġiḷḷaŋŋaitchuaq atuġaġviḷḷuuniit.
+- **Atausiq aŋiḷhaalluaq naalautaq.** Naalautaq atausimik mikimik naġuġutimik, nalunaiqsautiqsauġlu piḷiŋaruaq, kiñaliqaak atuġaġniŋa aŋiḷhaalluaq.
+- **Maluġnik nalunaiqsautinik.** Atausiq nipaiļḷuk qiñiġumiñaqtillugu, aipaa nipitqiaq quviasuktillugu.
+- **Nalunaiqsautiqsiuŋ.** Aglaksigik iñuum atqa, “atuagaq nalunaiqsautaa”, iḷagiit kamakkutilu atuġaġniŋat aŋiḷhaalluaġumiñaqługu.
 
-## 15 music activities to try
+## 15 atuagaq atuġniq uuktuutiksrat
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Atautchikun naalagiñiq.** Avasiksrakkun itillusi, alla suliŋŋaitchuaq. Naalagiiniq atuġniq iñiġnaqtuq.
+2. **Ilauqatigiŋŋiq atuutiniq.** Iḷivsi aullaqtillusi atuġlusi. Aŋmaqsiḷḷuuniit, uqausiq iḷaŋiḷḷuuniit atuġlugit ilautitaaqtut.
+3. **Patittiqiniq mumiktiniġlu.** Siviŋnik patittiqiḷḷusi, iġġavik patittiqiḷḷugu, mikimigluuniit patittiqutit atuġlugu.
+4. **Sukataaniġmik mumiktiniq.** Argak tigumiaġlugik aullaqatagillusi iglumini, aquvitluniḷḷuuniit, argak aullaqatigiḷḷugit.
+5. **Uligausiġmik mumiktiniq.** Uligausinik aullaqatigilugit atuagaq maliglugu, naŋġullusi aquvitluniḷḷuuniit.
+6. **Atuagaġmik uqaqatigiiniq.** Apiqsriñiq, uuktuutiginŋaitchuaq: “Una mumiktun tuvaaqtuq. Mumiktuniġmik uqautillaaŋŋa.” Apiqhuġuiññaitchusi “Itqaqpiuŋ una atuagaq?”
+7. **Atausiq album atuġaġlugu.** Records nalunaiqsautaa atuġaġlugu, aullaqtillugu naammagniŋanun, kaffimik tigumiaġlusi.
+8. **Album-m aŋiŋa qiñiġlugu.** Records aŋiit piviuttaqaqtut annugaq, qamutik, kiñalu uqautigiġlugit.
+9. **Musical tautuġlugu.** Musical-luuniit atuagaq atuġaġniġluuniit taimaniŋani piviuttaqaqtuq unnugmi. Nutqaqtitlusi aniqsaaġiagni.
+10. **Atuġutit nalunaiqsautaa atuġlugu.** Piano-luuniit guitar-luuniit atuġiḷḷuaq piuraaġmiñaqtuq. Kinguani, ikitqumik atuġniq naammagisuuq.
+11. **Savaqatigivlugu atuagaq.** Atuagaq nalunaiqsautaq atuġaġlugu annugaq imuġlugu, niqiḷḷiurviḷḷuuniit savaglugu.
+12. **Uvlup atuagaa.** Uvlut tamaasa aullaqtitchisigiuk atauchimik atuagaq quviasuktumik maliguagaksrami.
+13. **Atuutit ukpiġiviam atuagait atuġlugit.** Atuagaq ukpiġivianiŋanit atuġaġlugu atuutivlugulu.
+14. **Atuutimun iḷagiagniq.** NHS uqaqtuq atuutimun iḷagiagniq quviasuġniġmun piviuttaqaqtuq. Apiqsriñiaqsigik nunaaqqimi atuutit iḷagiit.
+15. **Atuagaq atuġaġniŋmun isiqtiniq.** Nunaaqqimi atuagaq atuġaġniq ikitqumik, silamiḷḷuuniit. Aniqsaaqviup qaninni aquviġlusi, aniqsaalausi pisukkaġuvsi.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Uqausinik quviasuutaulluanik atuġaġukkuvsi, uuktuutigisigik [finish the saying](/games/finish-the-saying/), naammaġniŋa tautukniaqsi atausiŋŋuaq.
 
-## Matching music to the moment
+## Atuagaq nalunaiqniq uvluup qiñiġutaanun
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association uqaqtuq atuagaq atuġlugu isumaaġivlutigiñiaqsi qiñiġutaa: nipaiļḷuk atuagaq qiñiġumiñaqtillugu, nipitqiaġlu atuagaq iñuusuktualluaniaŋanit quviasuktillugu.
 
-| Moment | Try | Tip |
+| Qiñiġutaq | Uuktuutigilugu | Qiñiġutaq |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Makiñiq | Atuagaq nalunaiqsautaq quviasuktuq | Uvlut tamaasa atauchimi atuagaq maliguagaq aŋiḷhaalluaq |
+| Savaaq | Atuagaq quviasuktit | Atuagaq savaaq piqatigilugu iḷisimanaqtuq |
+| Niġiñiq | Nipaiļḷuk atuagaq savaŋŋaitchuamik | Nipaiļḷuglugu niġiñiq akimaitqulugu |
+| Unnuksaaq | Nipaiļḷuk atuagaq nalunaiqsautaq qaummaġumi | Tautuġlugu [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Siñiñiq | Nipaiļḷuk sukataaniq atuagaq | Nipaa qaummaġutilu mikłiqsraqpagik |
+| Akuniḷaaq | Atuagaq nalunaiqsautaa piviuttaqaqtuaq, nipaiḷḷuglugu | Qanitchiaglusi argak tigumiaġlugu |
 
-## Tips for a good experience
+## Qiñiġutit piviuttaqaqtunik atuġaġnianik
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Allanik nipinik nutqaqtittilusi.** Alzheimer's Association uqaqtuq igalaanik, upkuaŋnik umiklusi, TV-lu kamilluaġlugu atuagaq kisiŋŋuaŋani naalautillugu.
+- **Nipaa mikłiqsaqsiuŋ.** Atuagaq naammaktilaaqługu, nipitqiŋaitchuaq. Iñuk siuġutiqaqpallu, siuġutit iluatun ittuat qiñiġlugit; tautuġlugu [hearing](/brain-health/hearing/).
+- **Qiñiġivsiuŋ aliasuġniġmik.** Iḷaŋit atuagaq aliasuktitkaaqtut, suliqutaiḷḷuuniit, annaurraiḷḷuuniit. Iñuk qiñiġumiñaitpallu, qiñiġumiñaqtitlugu, atuagaġlu asiksilugu.
+- **Iñuk sivulliqtitilugu.** Pisuktuŋa, iñuk nalunaiqsinniqsauŋ atuagaq, “naagga”-lu nalunaiġlugu.
+- **Nutqaqtitlusi qaŋaliqaak.** Tallimanik minutes-nik atuagaq atuġniq naammagisuuq. Kamilluaġlugu nipaiļḷuglusilu aquviiniġlu naammagisuuq.
 
-## What does the research say about music and dementia?
+## Sumik qiñiqsiaqtat uqautigaat atuagaq atuġniġmiḷḷu puqtusriļiġmiḷḷu?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Qiñiqsiaqtaat ikitpallaat. [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) qiñiqsiaqtuq 30-nik qiñiqsiaġniŋnik iluqatiqsiuqtunik atuagaq atuġniŋnik, amigaitqiat iñuich nunaaqqata iḷagiinni. Nalunaiqtuq atuagaq atuġniq ikitqumik aliasuġniġmik ikayuutausungnaqtuq, aglaan savaktuatun ittuatun itqaumaniġlugit, aglaan nalunaiqsiññaitchuat aullaqatagiiniġmik, quviasuġniġmik, isumaniġmiḷḷu itqaumaniġmiḷḷu, atuġaġniq naammagniŋani kinguani ikayuutaitchuat.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Atuagaq atuġigaat quviasuutaulluaq atausiŋŋuġluta, iñuusiuġutiŋŋuŋituaq. Iḷagiit atuġaġniŋanni, tautuġlugu [care home group activities](/activities/care-home-groups/); atuagaq piksraŋniḷḷu uqausiŋniḷḷu atuġaġukkuvsi, tautuġlugu [reminiscence activities](/activities/reminiscence/).

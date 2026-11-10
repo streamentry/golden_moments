@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Hooldaja enesehool: hingetõmme, tugi ja väsimuse märgid"
+seoTitle: "Dementsuse hooldaja enesehool: hingetõmme ja tugi"
+description: "Hooldaja läbipõlemise märgid, hingetõmbe ja tugirühmade leidmine ning tasuta abiliinid USA-s, sealhulgas Alzheimer's Associationi ööpäevaringne abiliin ja Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Dementsusega inimese eest hoolitsemine on raske ning enda eest hoolitsemine on
+  osa sellest tööst. Pöörake tähelepanu hoiatavatele märkidele, nagu kurnatus,
+  ärrituvus, halb uni ja sõpradest eemaldumine. Paluge konkreetset abi,
+  kasutage hingetõmbeabi ja liituge tugirühmaga. Tasuta abi USA-s hõlmab
+  Alzheimer's Associationi ööpäevaringset abiliini numbril 1-800-272-3900 ja
+  Eldercare Locatori teenust numbril 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Läbipõlemine ilmneb sageli kurnatusena, ärrituvusena, halva unena, kurbusena ja enda tervisehoolduse hooletusse jätmisena."
+  - "Hingetõmbeabi annab Teile pausi mõnest tunnist mitme nädalani, kas kodus või hooldusasutuses."
+  - "Paluge abi konkreetsete ülesannete jaoks; paljud inimesed tahavad aidata, kuid ei tea, kuidas."
+  - "Alzheimer's Associationi ööpäevaringne abiliin (1-800-272-3900) pakub igal ajal tasuta ja konfidentsiaalset tuge."
+  - "Eldercare Locator (1-800-677-1116) ühendab Teid kohalike teenustega, sealhulgas Teie piirkondliku vanurite agentuuriga."
+  - "Kui tunnete, et olete kriisis, helistage või saatke sõnum numbril 988. Hädaolukorras helistage 112."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Millised on hooldaja läbipõlemise märgid?"
+    a: "Tavalised märgid on kurnatuse, ülekoormatuse või ärevuse tunne, kerge vihastumine või kannatuse kaotus, uneprobleemid, kurbus või lootusetus, sõpradest eemaldumine, sagedased peavalud või valud ning enda söögikordade, liikumise või arstiabi vahelejätmine. Kui sellised märgid esinevad regulaarselt, rääkige oma arstiga."
+  - q: "Kuidas leida oma lähedalt hingetõmbeabi?"
+    a: "Alustage Eldercare Locatori teenusest (1-800-677-1116 või eldercare.acl.gov), et jõuda oma kohaliku vanurite agentuurini, ARCH National Respite Locator Service'ini või Alzheimer's Associationi abiliinini numbril 1-800-272-3900. Ka pere, sõbrad ja vabatahtlikud saavad hingetõmbeabi pakkuda."
+  - q: "Kas Medicare katab hingetõmbeabi?"
+    a: "Inimese puhul, kes saab hooldusravi, katab Medicare National Institute on Agingi andmetel suurema osa kuni viie järjestikuse hingetõmbeabi päeva kuludest haiglas või oskusliku hoolduse asutuses. Enamik erarakenduslikke ravikindlustusi hingetõmbeabi ei kata; Medicaid ja mõned pikaajalise hoolduse kindlustusplaanid võivad aidata."
+  - q: "Kas Alzheimer's Associationi abiliin on tõesti tasuta ja öösel kättesaadav?"
+    a: "Jah. Alzheimer's Association ütleb, et tema abiliin numbril 1-800-272-3900 on tasuta, konfidentsiaalne ja avatud ööpäevaringselt, 365 päeva aastas, ning abi on saadaval paljudes keeltes. Vahendusteenuse kasutamiseks valige 711."
+  - q: "Kas on isekas hooldamisest pausi võtta?"
+    a: "Ei. Puhkus aitab Teil hooldamist jätkata ning hingetõmme võib anda ka inimesele, kelle eest hoolitsete, vaheldust seltskonnas ja tegevustes. Paljud hooldajad ütlevad hiljem, et nad soovivad, et oleksid abi varem palunud."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Kui hoolitsete dementsusega inimese eest, loed seda tõenäoliselt hilja, väsinuna ja tegemata asjade nimekirjaga peas. See on normaalne. Enda eest hoolitsemine ei ole luksus ega preemia kõige tegemise eest. See on see, mis aitab Teil jätkata.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Sellel lehel leiate läbipõlemise hoiatusmärke, nõuandeid tõelise pausi saamiseks, teavet toe leidmise kohta ja tasuta abiliine USA-s, kuhu saate juba täna helistada.
 
-## What are the signs of caregiver burnout?
+## Millised on hooldaja läbipõlemise märgid?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Läbipõlemine hiilib sageli sisse tasapisi, seetõttu on kasulik tunda oma hoiatusmärke. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) loetleb hooldaja stressi märke, sealhulgas:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- kurnatuse, ülekoormatuse või ärevuse tunne;
+- kerge vihastumine või kannatuse kaotus;
+- üksilduse tunne või eemaldumine teistest;
+- uneprobleemid või ebapiisav uni;
+- kurbus või lootusetus või huvi kaotamine asjade vastu, mis varem rõõmu pakkusid;
+- sagedased peavalud, valud või muud kehalised vaevused;
+- pole aega liikumiseks ega enda jaoks tervisliku toidu valmistamiseks;
+- duši või muu enesehoolduse vahelejätmine;
+- alkoholi või uimastite, sealhulgas retseptiravimite kuritarvitamine.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) lisab selliseid märke nagu haiguse eitamine, viha inimese peale („ta on lihtsalt kangekaelne”), ärevus tuleviku pärast, keskendumisraskused ja terviseprobleemid, mis mõju avaldavad. Organisatsioon soovitab rääkida arstiga, kui sellised märgid esinevad regulaarselt.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA nõuanne on mitte oodata, kuni olete täiesti ülekoormatud. Märkake märke varakult ja tehke midagi.
 
-## What can I do today, in five minutes?
+## Mida saan täna teha viie minutiga?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Ka väikesed pausid loevad. Ükski neist läbipõlemist ei lahenda, kuid need võivad aidata raskest pärastlõunast üle saada.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Minge korraks õue.** Istuge verandal või kõndige postkastini, kui inimene on turvaliselt paigal.
+- **Hingake aeglaselt.** Tehke paar aeglast hingetõmmet enne raskele küsimusele vastamist. Võite jagada [Rahulik hingamine](/games/calm-breathing/) pausi ka inimesega, kelle eest hoolitsete.
+- **Jooge vett ja sööge midagi.** Enda söögikordi on kerge unustada.
+- **Saatke ühele sõbrale sõnum.** Mitte millegi palumiseks, vaid ühenduse hoidmiseks.
+- **Öelge endale midagi head.** NIA [juhend enda eest hoolitsemiseks](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) soovitab näiteks lauseid: „Teen parimat, mis suudan”, „Ma ei ole täiuslik ja see on normaalne” ning „Naudin hetki, mil saame rahus koos olla”.
 
-## What is respite care, and how do I get it?
+## Mis on hingetõmbeabi ja kuidas seda saada?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Hingetõmbeabi on lühiajaline hooldus inimesele, kelle eest hoolitsete, et saaksite puhata. NIA [hingetõmbeabi leht](https://www.nia.nih.gov/health/caregiving/what-respite-care) selgitab, et see võib kesta mõnest tunnist mitme nädalani ning toimuda kodus, tervishoiuasutuses või päevakeskuses.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) kirjeldab levinumaid liike:
 
-| Type | What it is |
+| Liik | Mis see on |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Abi kodus | Sõber, sugulane, vabatahtlik või tasuline saatja või abiline tuleb koju |
+| Päevakeskus | Plaanitud tegevused, nagu muusika ja kunst, turvalises rühmas; sageli pakutakse transporti ja toitlustust |
+| Ööbimine või lühiajaline viibimine | Pikaajalise hoolduse asutus hoolitseb inimese eest öö, mõne päeva või mõne nädala jooksul |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Kes maksab?** NIA andmetel võib pere, sõprade või vabatahtlike antud hingetõmme olla tasuta. Professionaalsed teenused küsivad tasu tunni või päeva kaupa. Inimese puhul, kes saab hooldusravi, katab Medicare suurema osa kuni viie järjestikuse hingetõmbeabi päeva kuludest haiglas või oskusliku hoolduse asutuses. Medicaid võib aidata. Enamik erarakenduslikke ravikindlustusi hingetõmbeabi ei kata, kuigi mõned pikaajalise hoolduse kindlustusplaanid seda teevad.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Nõuanne:** Alzheimer's Association soovitab proovida hingetõmbeabi pakkujaid olukorras, mis ei ole hädaolukord, et nad oleksid valmis, kui vajate ootamatult abi.
 
-## Where can I find help near me?
+## Kust leida abi enda lähedalt?
 
-Several free US services can point you to local help.
+Mitu tasuta teenust USA-s võivad Teid suunata kohaliku abi juurde.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Associationi ööpäevaringne abiliin: 1-800-272-3900.** [Abiliin](https://www.alz.org/help-support/resources/helpline) on tasuta ja konfidentsiaalne, avatud ööpäevaringselt igal päeval aastas, ning abi on saadaval enam kui 200 keeles kakskeelsete töötajate või tõlkide vahendusel. Vahendusteenuse kasutamiseks valige 711. Saate rääkida käitumise muutustest, hooldaja stressist, hingetõmbevõimalustest, kohalikest programmidest ja muust ning paluda pikemat vestlust hooldusnõustajaga. Töötajad ei anna meditsiinilisi nõuandeid.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Administration for Community Livingi avalik teenus, ühendab Teid vanemate täiskasvanute ja nende perede teenustega. Saate helistada, saata sõnumi, vestelda veebis või kirjutada koolitatud töötajatele e-kirja või otsida asukoha järgi. Teenus võib suunata Teid kohaliku vanurite agentuuri juurde.
+- **ARCH National Respite Locator Service.** [ARCHi hingetõmbeabi otsing](https://archrespite.org/caregiver-resources/respitelocator/) aitab leida hingetõmbeabi pakkujaid osariigi kaupa ning soovitab esmalt ühendust võtta oma osariigi hingetõmbe koalitsiooni või Lifespan Respite programmiga, kui see on olemas. ARCH märgib, et ta pakkujaid ei kontrolli, seega vaadake nende kogemus ja taust ise üle.
 
-## How do I find a support group?
+## Kuidas leida tugirühma?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Küsige abiliinilt või otsige veebist rühmi enda lähedalt. Alzheimer's Association [korraldab tugirühmi](https://www.alz.org/help-support/community/support-groups) hooldajatele ja dementsusega inimestele nii kohapeal kui ka veebis, neid juhivad koolitatud juhendajad. Paljudes kohtades on ka erirühmi, näiteks täiskasvanud hooldajatele või inimestele, kes elavad varajase algusega või varajases staadiumis Alzheimeri tõvega. Samuti on olemas ALZConnected, tasuta veebikogukond, kus hooldajad jagavad nõuandeid.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Tugirühm võib olla koht, kus saate oma tundeid ilma hukkamõistmiseta jagada, saada praktilisi nõuandeid inimestelt, kes on seda kogenud, ja tunda end vähem üksi. Kui esimene rühm ei sobi, proovige teist.
 
-## How do I ask family and friends for help?
+## Kuidas paluda perelt ja sõpradelt abi?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Olge konkreetne. Paljud inimesed tahavad aidata, kuid ei tea, mida pakkuda. NIA soovitab:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Pidage nimekirja** ülesannetest, mida teised saaksid teha, ja laske inimestel valida.
+- **Alustage väikesest**, kui palumine tundub raske.
+- **Sobitage ülesanne inimesega.** Nõbu, kellele meeldib süüa teha, toob neljapäeviti õhtusöögi. Naaber, kes on hea vormide täitmisel, aitab paberimajandusega.
+- **Saatke sõnum või e-kiri**, kui silmast silma palumine on ebamugav.
+- **Harjutage vastust**, kui keegi abi pakub: „Aitäh, et küsisid. Siin on see, millega saad aidata.”
+- **Arvestage mõne eitava vastusega** ja püüdke seda isiklikult mitte võtta.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Teised ideed: paluge kellelgi olla inimesega koos üks pärastlõuna nädalas, viia ta lühikesele jalutuskäigule või külla tulla ja koos mängida. Meie [juhend koos mängimiseks](/caregiving/how-to-play-together/) on külastajatega lihtne jagada.
 
-## What if something happened to me?
+## Mis siis, kui minuga midagi juhtub?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Tehke juba praegu lihtne varuplaan. NIA soovitab otsustada koos pere või lähedaste sõpradega, kes astuks asendusse, ning hoida märkmikku hädaabinumbrite, ravimite, toimivate käitumisnõuannete ja lemmiktegevustega. Alzheimer's Association soovitab ka hoida inimese arsti kontaktandmed ja ajakohane ravimite nimekiri kergesti leitaval kohal.
 
-## When should I get professional or urgent help?
+## Millal peaksin pöörduma professionaalse või kiire abi poole?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Rääkige oma arstiga, kui stressi märgid on regulaarsed, kui tunnete end masendunult või kui teil on raske hakkama saada. Öelge arstile, et olete hooldaja. NIA märgib, et nõustajad ja sotsiaaltöötajad saavad aidata raskete tunnete ja planeerimisega ning et Medicare, Medicaid ja mõned erarakenduslikud kindlustused võivad katta osa vaimse tervise kuludest.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Kui tunnete, et olete kriisis, või teil on mõtteid enese vigastamisest, helistage või saatke sõnum numbril 988, et jõuda [988 Suicide & Crisis Lifeline'i](https://988lifeline.org/) juurde; teenus on tasuta ja avatud ööpäevaringselt. Kui keegi on vahetus ohus, helistage 112.
 
-## Can shared activities give me a break too?
+## Kas ühised tegevused võivad anda ka Teile pausi?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Mõnikord. Rahulik tegevus, mis teile mõlemale meeldib, võib muuta päeva osa ka Teie jaoks leebemaks: vanade laulude kuulamine, fotode vaatamine või mäng nagu [Vestluskaardid](/games/conversation-cards/), kus pole õigeid vastuseid. Kui inimesele meeldib seltskond, võib rühmasessioon mänguga [Pildibingo](/games/picture-bingo/) seeniorikeskuses või päevaprogrammis anda Teile tunnise hingetõmbe. Vaadake ideid lehelt [tegevused hooldekodu rühmadele](/activities/care-home-groups/).

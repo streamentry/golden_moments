@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Foun na Bidio Toea Gaukara dementia taudia edia"
+seoTitle: "Bidio toea gaukara dementia taudia edia"
+description: "Bidio toea na foun toea gaukara dementia tauna e nohova taudia edia ruma e nohova daudau dekenai: itaia hahedinaraia, duahiduahi, ane abia, na gaukara ma hahediba herevadia."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Dementia tauna ida toea be namo herea bema e kwadogi, e laolao noho, na
+  tamona ai gaukara ta e karaia, hegeregere ai manumanu o uma e hahedinaraia,
+  laulau e itaia, duahiduahi ta e duahiduahia, ane namona ta e abia, o gaukara
+  maragi ta e karaia screen ta ai. Namo bema dina ibounai nega ta ai oi toea,
+  ta ta be sibona e hereva, na unuseniai tauna ta ese device e haginia.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Gaukara ta ese toea e durua na hereva hekwakwanai e habada. Gaukara maragi ta oi hadoa."
+  - "Toea kwadogi, dina ibounai nega ta ai, e namo bada, toea daudau na nega momo to edia."
+  - "Ta ta be sibona e hereva. Taunimanima momo edia toea ai hereva e heau, e auka bada, bema taia kamonai e auka."
+  - "Unuseniai tauna ta ese device e haginia, dementia tauna dekenai e noho, na gaukara o laulau dekenai imana ai e durua."
+  - "Bema toea hari ia namo lasi, mai lalokau oi dokona. Kerukeru oi torea lou."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Dahaka lau karaia diba bidio toea ai dementia tauna ida?"
+    a: "Gaukara maragi ta oi hadoa: emu uma, manumanu o gadara e hahedinaraia; gunalaulaudia oi itaia hebou; sisi o revareva kwadogi ta e duahiduahia; ia ura henia ane ta e abia; nega ta ai aniani ta oi nadua hebou; o gaukara maragi ta screen ta ai oi karaia hebou. Gaukara ese toea e durua, unai tauna ese hereva ibounai ia abia lasi."
+  - q: "Bidio toea be nega daudau ai?"
+    a: "Nega momo lasi. Nega kwadogi namona be e namo, bema unai tauna e hemarai haraga. Dina ibounai nega ta ai toea be nega daudau ena hereva bada."
+  - q: "Bema ia e auka o e badu bidio toea ai, dahaka lau karaia?"
+    a: "Taunimanima haida be screen ai vairana e itaia, e auka diba. Foun toea sibona oi tohoa, o vidio ta oi haheaua unu tauna ese nega namona ai e hahedinaraia, o revareva na laulau oi siaia. Bema toea ia namo lasi, mai lalokau oi dokona, na dina ma ta ai o nega ma ta ai oi tohoa lou."
+  - q: "Edena lau sinagu lau durua diba, ia foun ia gaukaralaia diba lasi?"
+    a: "Ruma tauna, hesiai tauna o naria rumana tauna ta oi noia toea ia hamatamaia na device ia dogoatao o ia atoa. Naria rumadia momo ese ruma taudia e durua bidio toea ai, unai dainai oi nanadaia. Tablet ta atoa gauna ai, screen badana na kamonai namona ida, e namo bada."
+  - q: "Ita gaukara ta karaia diba bidio ai hebou?"
+    a: "Oibe. Dala maragina be, tauna ta ese ena screen e hahedinaraia bidio app ai, ma ta ese e gwauhamata dahaka laulau e tatau. O unuseniai tauna ese tablet ai gaukara ta ia kehoa na ia tatau, oi ia durua hereva ai. Nega o poin lasi gaukara oi abia hidi."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Dementia tauna ida daudau ai oi nohova neganai, oi laloa oi durua diba lasi. Foun na bidio toea ese herevadavari ia abia lasi, to namona bema oi hadoa namonamo, e hebou negadia namodia e havaraia diba. Namo dalana be, hereva tauna ta oi karaia lasi, to gaukara maragi ta oi hadoa hebou. Ina rau ai, gaukara haida bidio na foun ai e karaia diba, toea oi haginia dalana, na unuseniai tauna ese ia durua dalana e herevalaia.
 
-## Why plan an activity for a call?
+## Dahaka dainai gaukara ta oi hadoa toea dekenai?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Gaukara ta ese toea e durua. "Oi ede? Hari dahaka oi karaia?" unai henanadai ese dementia tauna e noia ia laloatao na ia hamaoroa, unai be e auka na e hekwakwanai diba. "Oi itaia, tamato e maduna vadaeni" unai be gaukara ta ia noia lasi.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association e gwau, taunimanima momo ida bidio ai hereva be e auka diba, na e gwauraia [toea ai dalana ta oi atoa](https://www.alz.org/help-support/caregiving/holidays), hegeregere ai ane abia o laulau hahedinaraia.
 
-## What activities work on a video call?
+## Dahaka gaukara e namo bidio toea ai?
 
-### Show and tell
+### Hahedinaraia na hereva
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Emu mauri oi hahedinaraia. Camera oi abia maragimaragi emu uma ai, sisia oi hahedinaraia, oi nadua aniani oi hahedinaraia, natuna ena dro ta oi abia isi, o foun oi atoa windo kahana dekenai sinaia oi hahedinaraia. Oi itaia gaudia oi gwauraia hereva maragi ai, na nega kwadogi oi atoa ia ia hereva totona. Henanadai e be namo lasi.
 
-### Look at photos together
+### Laulau oi itaia hebou
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Gunalaulau ta oi abia camera vairanai, o emu screen oi hahedinaraia laulau badadia ta ta oi hahedinaraia. Oi itaia gaudia oi herevalaia: "Oi itaia, Tubuna ena kwarana." "Ina be daika?" o "Oi laloatao?" oi henanadaia lasi. Bema ia ladana ia gwau kerere, oi abia dae namonamo. Laulau hereva dekenai durua, emai [laloatao durua rau](/activities/reminiscence/) oi itaia.
 
-### Read aloud
+### Duahiduahi bada
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Sisi kwadogi ta, ane ta, natuna ida revareva ta, ruma tauna ena revareva, o ia ura henia bukana rau ta oi duahiduahia. Duahiduahi ese dementia tauna e durua ia kamonai noho, ia haere henia be gaukara lasi.
 
-### Sing or listen to music together
+### Ane abia o musika kamonai hebou
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Ia diba namonamo ane ta oi abia, o ia ura henia ane ta oi abia. Ane abia hebou be hereva ena auka e habada taunimanima haida edia. Emai [musika gaukara rau](/activities/music/) oi itaia.
 
-### Cook or bake at the same time
+### Nega ta ai nadua o aniani karaia
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association e gwauraia, bidio toea ai aniani ta oi nadua hebou. Toea oi haginia ruaoti gadara ai. Unuseniai tauna ese e haloao o e tohoa diba, oi ia ena gunalaulau karana oi badinaia.
 
-### Watch something together
+### Gaukara ta oi itaia hebou
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association e gwauraia danu, ruma ruaoti ai oi nohova to foun o bidio ai oi hereva, na nega ta ai movie ta oi itaia. Dementia tauna dekenai, vidio kwadogi, gunalaulau TV karana, o pila gaukara ta be movie daudau ena namo diba.
 
-### Play a gentle game on a shared screen
+### Gaukara maragi ta screen ai oi karaia hebou
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Bidio toea app momo ese emu screen e hahedinaraia diba. Oi gaukara oi kehoa na oi tatau; dementia tauna ese e gwauhamata o e hahedinaraia dahaka laulau oi abia. O unuseniai tauna ese tablet ai gaukara ta ia kehoa na ia tatau, oi ia durua hereva ai.
 
-Games that work well this way:
+Ina gaukara e namo:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** oi hereva gunana oi duahiduahia, ia dokona e gwau, na hereva durua ta e vara.
+- **[Picture Pairs](/games/picture-pairs/):** laulau badadia hegeregere ai abia gaukara, laulau e itaia noho diba, nega o poin lasi.
+- **[Conversation Cards](/games/conversation-cards/):** laulau ta na henanadai ta, hebou ai hereva totona.
+- **[Photo Pairs](/games/photo-pairs/):** oi abia hidi laulau amo gaukara ta oi karaia. Laulau be emu browser ai e noho, na dementia tauna ese emu screen hahedinaraia ai e itaia.
 
-### Recorded messages
+### Vidio hahedinaraia
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Bema toea mauri ai e auka, vidio kwadogi ta oi haheaua: hereva henia, ane ta, o emu uma lalonai oi lao. Unuseniai tauna ese nega namona ai e hahedinaraia diba, nega daudau unai tauna ia moale neganai.
 
-## What about plain phone calls?
+## Foun toea sibona be ede?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Foun toea sibona be e namo noho. Dementia Australia e gwauraia [dina ibounai nega ta ai oi toea](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) na oi haraga lasi, badina dementia taudia be nega e abia diba. Foun ai:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Emu ladana na emu dala oi gwauraia matama: "Bema Tamagu, lau be Jenny, oi natumu hahine."
+- Maragimaragi oi hereva, hereva kwadogi ai, lalo ta ta.
+- Sivarai oi henia, henanadai lasi: "Kerukeru lau emu pot roast karana lau nadua."
+- Sisi kwadogi ta oi duahiduahia, o ane ta ena kahana ta oi abia.
+- Nega kwadogi ai oi dokona mai lalokau.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia e gwau danu, bema hereva e auka, bidio toea e durua diba, badina ia emu vairana e itaia. Bema foun toea e auka, bidio oi tohoa, o ma ta ai oi karaia lou.
 
-## How do I set up a video call that works?
+## Edena bidio toea lau haginia namonamo?
 
-**Before the call:**
+**Toea ia vara lasi neganai:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Nega ta oi abia hidi** dementia tauna e lagani namonamo neganai, na unai nega oi badinaia. Dalana e durua.
+2. **Unuseniai tauna ida oi hereva hebou.** Dina ta guna ai hereva ta e durua.
+3. **Device oi itaia namonamo.** Tablet ta atoa gauna ai be e namo, foun imana ai e dogoatao ena. Ia charge, screen e diari, na kamonai e namo. Bema app ese captions e henia na ia duahiduahi diba, oi kehoa.
+4. **Gaukara ta oi hadoa** na gaudia ibounai oi haginia.
 
-**During the call:**
+**Toea neganai:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Camera kahana dekenai oi noho** diari namona ai, windo vairanai, gabena ai lasi.
+- **Emu ladana oi gwauraia** toea ibounai ai, ladana na dala ida.
+- **Ta ta be sibona e hereva.** Alzheimer's Association e gwau, hereva heau be e auka dementia taudia na taia kamonai auka taudia edia. Bema ruma taudia momo e vareai, ta ta e hereva o rua o toi sibona.
+- **Henanadai ta ta oi henia.** Family Caregiver Alliance e gwauraia [henanadai maragi, oibe o lasi haere](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), na diba neganai abia hidi gaudia oi hahedinaraia.
+- **Nega daudau oi naria.** Ia haere totona oi naria. Bema ia hereva e tahua, hereva ta oi durua diba.
+- **Emu vairana na emu gado oi gaukaralaia.** Oi kiri, oi gwauhamata, na emu gado e maragi. Vairana e hereva bada, hereva ena.
+- **Oi hamaoromaoroa lasi.** Bema ia hereva ta e kerere, oi atoa namonamo.
 
-**Ending the call:**
+**Toea oi dokona neganai:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Ia e hemarai lasi neganai oi dokona, negana namona ai.
+- Doko hereva ta oi gaukaralaia nega ibounai: "Kerukeru lau toea lou, aniani neganai. Lau oi ura henia."
+- Nega daudau ai oi dokona lasi.
 
-## Tips for the helper on site
+## Unuseniai tauna dekenai hahediba herevadia
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Bema oi adavana, hesiai tauna, tadina o naria tauna, oi toea oi durua, oi ese unai toea oi hamatamaia.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Gabuna maragi ta oi hadoa.** TV oi hakaua na iduara oi koua.
+- **Toea oi hamatamaia,** bena tablet ta atoa gauna ai oi henia o ia vairana badina ai oi dogoatao.
+- **Ia badibadina ai oi noho, vairanai lasi.** Oi noho be e hagoadaia. Bema e be namo, maragimaragi oi durua: "Oi itaia, Jenny."
+- **Imana ai oi durua.** Laulau oi abia isi, gaukara oi tatau, tablet oi giroa rumana oi hahedinaraia.
+- **Ia e hemarai o e badu be oi itaia,** na toea tauna oi hamaoroa dokona negana e vara.
+- **Dahaka e namo be toea tauna oi hamaoroa.** "Ia sisia e moalelaia bada" unai ese toea ma ta e haginia.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA e gwauraia, daudau ai ruma taudia ese tauanina ta e durua diba [ena foun gaukarana ia diba](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), hegeregere ai bidio toea. Gabeai negadia ai, unuseniai tauna ese device ibounai ia gaukaralaia be mai namo.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Bema dementia tauna be naria rumana ai e nohova, Alzheimer's Foundation of America e gwauraia, oi nanadaia bema ruma taudia e durua bidio toea ai. AFA e gwau danu, ruma taudia ese laulau e siaia naria taudia ida, na aniani maragi o gaudia namodia e siaia diba, guna rumana edia taravatu oi nanadaia.
 
-## What if the call doesn't go well?
+## Bema toea ia namo lasi, dahaka lau karaia?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Toea haida be e auka, e maragi lasi, o e badu. Unai be emu kerere lasi, na toea be e namo lasi lasi.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Bema ia screen e itaia e auka, foun toea sibona o vidio hahedinaraia oi abia hidi.
+- Bema ia e badu, ena lalohadai oi abia, hereva hagoadana oi gwau, na mai maragi oi dokona.
+- Bema nega ta ai toea e auka noho, nega ma ta oi tohoa.
+- Bema ia e gwau oi be tauna ma ta, mai lalokau oi abia dae.
 
-It is fine to end early. A short, warm call is a good outcome.
+Nega kwadogi ai dokona be e namo. Toea kwadogi namona be gaukara namona.
 
-## Between calls
+## Toea huanai
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Dala ma haida ai oi hebou noho. Dementia Australia e gwauraia, revareva, email, laulau o herahera maragi oi siaia. Wiki ta ai poskad ta, laulau badana ta na hereva kwadogi ida, e duahiduahi lou diba. [Conversation Cards](/games/conversation-cards/) oi prinia na unuseniai tauna dekenai oi siaia, toea ma ta dekenai hereva kahana e henia diba.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Tablet abia hidi na haginia daladia dekenai, [tablet na screen](/caregiving/tablets-and-screens/) oi itaia. Hebou vairai negadia dekenai, emai [vadivadi](/activities/visiting/) rau oi itaia.

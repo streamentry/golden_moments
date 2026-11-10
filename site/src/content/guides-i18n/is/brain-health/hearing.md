@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Heyrnarskerðing og heilabilun: Hvað sýna rannsóknir"
+seoTitle: "Heyrnarskerðing og heilabilun: Hvað sýna rannsóknir"
+description: "Af hverju heyrnarskerðing er áhættuþáttur heilabilunar, hvað ACHIEVE-rannsóknin sýndi í raun og hvernig hægt er að láta athuga heyrn og auðvelda samtöl."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Í skýrslu Lancet-nefndarinnar frá 2024 er heyrnarskerðing talin einn stærsti breytanlegi
+  áhættuþáttur heilabilunar. Í ACHIEVE-rannsókninni hægðu heyrnartæki ekki á vitrænni hnignun
+  í heildina, þó að minni hópur með meiri áhættu sýndi minni hnignun. Heyrnartæki hjálpa samt
+  við samtöl og daglegt líf. Látið athuga heyrn, íhugið heyrnartæki með eða án lyfseðils og
+  ræðið við lækni.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet-nefndin áætlar að heyrnarskerðing eigi þátt í um 7% tilfella heilabilunar um allan heim, sem er stærsti hluturinn meðal 14 þátta."
+  - "Í ACHIEVE-rannsókninni á 977 eldri fullorðnum breyttu heyrnartæki ekki vitrænni hnignun á þremur árum í heildina."
+  - "Í minni áhættuhópi innan ACHIEVE-rannsóknarinnar var vitræn hnignun 48% hægari hjá þeim sem notuðu heyrnartæki; það þarf að staðfesta þetta frekar."
+  - "Frá október 2022 geta fullorðnir í Bandaríkjunum sem telja sig hafa væga til miðlungs heyrnarskerðingu keypt heyrnartæki sem FDA hefur eftirlit með, án lyfseðils."
+  - "Ómeðhöndluð sjónskerðing var bætt við sem áhættuþátt heilabilunar árið 2024, svo sjónprófanir skipta líka máli."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Koma heyrnartæki í veg fyrir heilabilun?"
+    a: "Það hefur ekki verið sannað. ACHIEVE-rannsóknin sýndi engin heildaráhrif á vitræna hnignun á þremur árum, þó að einum áhættuhópi gengi betur. Það getur samt verið þess virði að íhuga heyrnartæki, því þau gera samtöl, öryggi og daglegt líf auðveldari."
+  - q: "Hverjir geta keypt heyrnartæki án lyfseðils?"
+    a: "FDA leyfir fullorðnum, 18 ára og eldri, sem telja sig hafa væga til miðlungs heyrnarskerðingu að kaupa heyrnartæki án lyfseðils í verslunum eða á netinu án lyfseðils. Þau eru ekki ætluð fólki með mikla heyrnarskerðingu. Allir sem finna fyrir eyrnaverkjum, vökva úr eyra, svima eða skyndilegum breytingum á heyrn ættu að fara til læknis fyrst."
+  - q: "Getur heyrnarskerðing líkst heilabilun?"
+    a: "Stundum. Landstofnun Bandaríkjanna um öldrun (NIA) bendir á að stundum sé ranglega talið að eldra fólk sem heyrir illa sé ruglað eða óviljugt til samstarfs. Heyrnarpróf er skynsamlegt skref þegar einhver virðist draga sig í hlé eða missir af því sem sagt er."
+  - q: "Hversu oft ættu eldri fullorðnir að láta athuga sjónina?"
+    a: "NIA mælir með augnskoðun með víkkaðar sjáöldur á eins til tveggja ára fresti eftir 60 ára aldur, eða eins og augnlæknirinn eða sjóntækjafræðingurinn mælir með. Fólk með sykursýki eða háþrýsting þarf yfirleitt skoðun að minnsta kosti einu sinni á ári."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Heyrnarskerðing er algeng á síðari æviskeiðum og rannsakendur líta alvarlega á hana sem áhættuþátt heilabilunar. Það þýðir ekki að sannað sé að heyrnartæki komi í veg fyrir heilabilun; besta rannsóknin sem hefur verið gerð hingað til gaf blandaðar niðurstöður. Á þessari síðu er útskýrt hvað rannsóknirnar sýna, hvernig hægt er að láta athuga heyrn, hvað heyrnartæki án lyfseðils í Bandaríkjunum eru og hvernig hægt er að gera samtöl auðveldari.
 
-## Why does hearing matter for brain health?
+## Af hverju skiptir heyrn máli fyrir heilbrigði heilans?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Heyrnarskerðing tengist meiri áhættu á heilabilun. [Lancet-nefndin 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) áætlar að hún eigi þátt í um 7% tilfella heilabilunar um allan heim. Það setur hana jafnhliða háu LDL-kólesteróli sem stærsta hlutinn meðal 14 breytanlegra áhættuþátta í líkani nefndarinnar, samkvæmt [samantekt UCL um skýrsluna](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Helstu niðurstöður nefndarinnar:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Meiri áhætta með heyrnarskerðingu.** Í sameinuðu mati á sex vönduðum rannsóknum var um 37% meiri hætta á heilabilun hjá fólki með heyrnarskerðingu en hjá fólki með eðlilega heyrn.
+- **Meiri skerðing, meiri áhætta.** Rannsóknir sem skoðuðu alvarleika sýndu að áhættan jókst eftir því sem heyrnin versnaði.
+- **Mögulegar ástæður, ekki enn sannaðar.** Hugmyndir eru meðal annars einmanaleiki og félagsleg einangrun, þunglyndi, minni örvun fyrir heilann og aukin andleg áreynsla sem hlustun krefst.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Heyrnarskerðing er algeng. [Landstofnun Bandaríkjanna um öldrun (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) segir að um þriðjungur eldri fullorðinna sé með hana og líkurnar aukist með aldrinum.
 
-## What did the ACHIEVE hearing aid trial find?
+## Hvað sýndi ACHIEVE-rannsóknin á heyrnartækjum?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE var fyrsta slembiraðaða rannsóknin á heyrnartækjum og vitrænni hnignun. Niðurstöðum hennar er oft rangt lýst, svo hér eru upplýsingarnar úr [birtri rannsóknarskýrslu](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Hverjir tóku þátt:** 977 fullorðnir á aldrinum 70 til 84 ára með ómeðhöndlaða heyrnarskerðingu og án verulegra vandamála með hugsun, á fjórum stöðum í samfélögum í Bandaríkjunum.
+- **Hvað var borið saman:** Helmingur fékk heyrnartæki auk ráðgjafarfunda hjá heyrnarfræðingi. Hinn helmingurinn fékk fræðslu um heilbrigt öldrunarlíf.
+- **Aðalniðurstaða:** Eftir þrjú ár var **enginn munur** á vitrænni hnignun milli hópanna í heildina.
+- **Niðurstaða undirhóps:** Þátttakendur komu úr tveimur áttum. 238 manns komu úr langtímarannsókn á hjartaheilsu (ARIC) og höfðu sem hópur meiri áhættu á vitrænni hnignun. Í þessum hópi var hnignunin **48% hægari** hjá þeim sem notuðu heyrnartæki. Hjá 739 heilbrigðum þátttakendum úr samfélaginu voru engin skýr áhrif.
 
-How to read this honestly:
+Hvernig á að lesa þetta af heiðarleika:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Heildarsvarið var engin áhrif.
+- Niðurstaðan fyrir undirhópinn var fyrirfram ákveðin, en hún kom úr síðari greiningu á minni hópi. Hana þarf að staðfesta í öðrum rannsóknum.
+- Þátttakendur vissu í hvaða úrræði þeir voru, sem getur haft áhrif á niðurstöður.
+- Lancet-nefndin túlkar gögnin þannig að heyrnartæki virðist sérstaklega gagnleg fyrir fólk sem er með heyrnarskerðingu ásamt öðrum áhættuþáttum heilabilunar.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Niðurstaðan er sú að heyrnartæki eru ekki sönnuð leið til að koma í veg fyrir heilabilun. Þau hjálpa fólki að heyra, taka þátt í samtölum og halda sambandi, sem er næg ástæða til að íhuga þau.
 
-## How do I know if hearing should be checked?
+## Hvernig veit ég hvort athuga eigi heyrn?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA mælir með því að fara til læknis ef þú eða einstaklingurinn sem þú annast:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Á erfitt með að skilja fólk í síma
+- Á erfitt með að fylgjast með samtölum þegar tveir eða fleiri tala
+- Biður oft um að fá það sem sagt var endurtekið
+- Hækkað í sjónvarpinu svo að aðrir kvarti
+- Á erfitt með að skilja tal þegar bakgrunnshljóð er til staðar
+- Heldur að aðrir virðist muldra
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Byrjið hjá heimilislækni, sem getur vísað áfram til heyrnarfræðings (heyrnarsérfræðings) eða eyrna-, nef- og hálssérfræðings. Eyrnamergur er ein algeng orsök heyrnarskerðingar sem læknir getur athugað. **Skyndileg heyrnarskerðing er læknisfræðilegt neyðartilvik** og NIA ráðleggur að leita læknis strax.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Heyrnarskerðingu má rugla saman við rugl. NIA bendir á að stundum sé ranglega talið að eldra fólk sem heyrir illa sé ruglað, svari illa eða sé óviljugt til samstarfs. Ef einhver sem þið eigið kær virðist draga sig í hlé eða missir af því sem sagt er, er heyrnarpróf gott fyrsta skref.
 
-## What are over-the-counter hearing aids?
+## Hvað eru heyrnartæki án lyfseðils?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Frá 17. október 2022 hefur [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) leyft flokk heyrnartækja sem seljast án lyfseðils (OTC). Svona er þeim samanborið við heyrnartæki með lyfseðli:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Eiginleiki | Heyrnartæki án lyfseðils | Heyrnartæki með lyfseðli |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Fyrir hverja | Fullorðna 18 ára og eldri sem telja sig hafa væga til miðlungs heyrnarskerðingu | Hvers konar heyrnarskerðingu, hvaða aldur sem er |
+| Hvar fást þau | Í verslunum eða á netinu, án prófs eða lyfseðils | Hjá löggiltum heyrnarsérfræðingi |
+| Aðlögun | Þið stillið tækin sjálf, oft með appi | Sérfræðingur forritar þau eftir heyrninni |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA segir að heyrnartæki án lyfseðils séu ekki ætluð fólki með mikla eða mjög mikla heyrnarskerðingu. Stofnunin ráðleggur að fara til læknis, helst eyrna-, nef- og hálssérfræðings, áður en keypt er ef þú:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Finnur fyrir verkjum eða óþægindum í eyra
+- Hefur haft vökva, gröft eða blóð úr eyra á síðustu sex mánuðum
+- Upplifir skyndilegar eða sveiflukenndar breytingar á heyrn
+- Heyrir verr í öðru eyranu, eða finnur fyrir suði eingöngu í öðru eyra
+- Finnur fyrir svima eða svimalömun
+- Ert með mikinn eyrnamerg
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Það tekur tíma að venjast heyrnartækjum, svo athugið skilareglur áður en þið kaupið, eins og FDA stingur upp á. NIA mælir með því að spyrjast fyrir um hvort tryggingar nái yfir hluta kostnaðarins. Fyrir einstakling sem lifir með heilabilun getur heyrnarfræðingur hjálpað til við að ákveða hvaða tegund tækis og aðlögun verður auðveldust í daglegu lífi.
 
-## How can I talk more easily with someone who has hearing loss?
+## Hvernig getum við auðveldað samtöl við einhvern með heyrnarskerðingu?
 
-The NIA suggests:
+NIA stingur upp á eftirfarandi:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Snúið ykkur að viðkomandi og haldið augnsambandi**, í góðri birtu, svo hann geti séð varir ykkar og svipbrigði.
+2. **Finnið rólegan stað.** Slökkvið á sjónvarpinu eða færið ykkur frá hávaða.
+3. **Talið aðeins hærra, en ekki hrópið.** Talið eðlilega og í hæfilegum hraða.
+4. **Hafið munninn lausan.** Forðist að borða, tyggja tyggjó eða hylja munninn á meðan þið talið.
+5. **Umorðið frekar en að endurtaka** þegar eitthvað misskilst.
+6. **Einn í einu.** Í hópi er gott að huga sérstaklega að því að hafa viðkomandi með.
+7. **Sýnið þolinmæði og spyrjið hvernig þið getið hjálpað.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Þessi ráð virka vel ásamt [ráðum okkar um samskipti við fólk með heilabilun](/caregiving/communication-tips/). Myndatengdar stundir draga líka úr álagi á hlustun. [Picture Pairs](/games/picture-pairs/) og [Conversation Cards](/games/conversation-cards/) byggja á því sem þið sjáið, og [Finish the Saying](/games/finish-the-saying/) gerir ykkur kleift að sýna endinn í stað þess að segja hann. Fyrir símtöl, sjáið leiðbeiningar okkar um [símtöl og myndsímtöl](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Sjónin skiptir líka máli
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Árið 2024 bætti Lancet-nefndin ómeðhöndlaðri sjónskerðingu við sem nýjum áhættuþætti. Samantekt UCL telur hana um 2% tilfella heilabilunar og nefndin mælir með því að gera skimun og meðferð sjónvandamála aðgengilega öllum. [NIA mælir með](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) augnskoðun með víkkaðar sjáöldur á eins til tveggja ára fresti eftir 60 ára aldur og einnig að láta athuga gleraugnastyrk. Jafnvel litlar breytingar á sjón geta aukið hættuna á byltum.
 
-## Talk with a doctor
+## Ræðið við lækni
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Biðjið lækni um að láta athuga heyrn og sjón ef þið takið eftir einhverjum af merkjunum hér að ofan. Leitið læknis strax vegna skyndilegrar heyrnarskerðingar, eyrnaverkja eða vökva úr eyra. Ef þið annist einstakling sem lifir með heilabilun, segið lækni hans frá breytingum á heyrn eða sjón, því þær geta haft áhrif á skap, öryggi og hversu vel viðkomandi getur tekið þátt.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Þessi síða eru almennar upplýsingar, ekki læknisfræðileg ráðgjöf. Sjá [yfirlýsingu okkar um læknisfræðilegar upplýsingar](/medical-disclaimer/). Lesið meira um [félagsleg tengsl og heilbrigði heilans](/brain-health/social-connection/).

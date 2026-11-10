@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Dementia kytĩha: 14 mbaʼe Lancet omombeʼúva"
+seoTitle: "Dementia kytĩha: 14 mbaʼe Lancet omombeʼúva"
+description: "Umi 14 mbaʼe ikatúva oñemoambue oñembojoajúva dementia rehe, Lancet Commission 2024 omombeʼúva, tekove ary reheve, ha mbaʼépa ikatu oñeñomongeta pohanohára ndive."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Lancet Commission 2024 omombeʼu 14 mbaʼe ikatúva oñemoambue oñembojoajúva
+  dementia rehe: mboʼe michĩve, ehendu vai, colesterol LDL yvate, ñekoʼõi
+  pyʼaguapy, akã jeharu, jejapoʼỹ, diabetes, pitarã, tuguy yvate, tete tuicháva,
+  kayʼu hetaiterei, jeikoveʼỹ ambue ndive, yvytu ñembyai ha tesa vai
+  oñepohanoʼỹva. Opavave oñembojoaju 45% rupi umi caso rehe yvy ape ári,
+  ha ndahaʼéi peteĩteĩ tapicha-pe ojeʼe hag̃ua opaite ára.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Umi 14 mbaʼe oho tekove pukukue jave: peteĩ mitãme, pa mitãrusu / kakuaáme ha mbohapy tujakue guare."
+  - "Ehendu vai ha colesterol LDL yvate mitãrusu / kakuaáme oñembojoaju peteĩteĩ 7% rupi umi caso de dementia rehe yvy ape ári; haʼe umi hetave oñembojoajúva peteĩ mbaʼégui."
+  - "Koʼã papapy haʼe jehechajey yvypóra aty rehegua ha oimoʼã oñembojoajuha. Heta joaju ikatu noĩmbáiri opaite hendápe."
+  - "Ary ha herencia, ndaikatúiva oñemoambue, avei haʼe umi mbaʼe tuicháva oñembojoajúva kytĩ rehe. Oñemomichĩramo jepe koʼã 14 mbaʼe, ndaikatúi ojeʼe avave ndoguerahamoʼãiha dementia."
+  - "Heta mbaʼe ikatúva ojejapo, techapyrã ehajey hag̃ua tuguy, ehendu ha tesa, iporã avei ambue tekove resãi hag̃ua ha iporã oñeñomongeta pohanohára ndive."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Mbaʼe mbaʼépa umi 14 mbaʼe ikatúva oñemoambue oñembojoajúva dementia rehe?"
+    a: "Lancet Commission 2024 omombeʼu mboʼe michĩve, ehendu vai, colesterol LDL yvate, ñekoʼõi pyʼaguapy, akã jeharu, jejapoʼỹ, diabetes, pitarã, tuguy yvate, tete tuicháva, kayʼu hetaiterei, jeikoveʼỹ ambue ndive, yvytu ñembyai ha tesa vai oñepohanoʼỹva. Opavave oñembojoaju opa rire 50% rupi umi caso de dementia rehe yvy ape ári."
+  - q: "Máva mbaʼe oñembojoajúva dementia rehe tuichavéva?"
+    a: "Yvypóra aty rehegua, Comisión oimoʼã ehendu vai ha colesterol LDL yvate mitãrusu / kakuaáme oñembojoajuha peteĩteĩ 7% rupi umi caso rehe, upéi mboʼe michĩve ha jeikoveʼỹ ambue ndive 5% rupi peteĩteĩ. Peteĩ tapicha-pe g̃uarã, mbaʼe tuichavéva odepende hese ha itekove rehe, upévare pohanohára haʼe iporãvéva ohechaukáva."
+  - q: "Mokõi mbaʼe pyahu oñembojoajúpa 2024-pe?"
+    a: "Hẽe. Marandu 2024 ombojoaju colesterol LDL (ñaña) yvate mitãrusu / kakuaáme ha tesa vai oñepohanoʼỹva tujakue guare umi 12 mbaʼe 2020-pe omombeʼupyre rehe. Comisión omombeʼu oñembojoajuha 7% ha 2% rupi umi caso rehe."
+  - q: "Ary haʼe peteĩ mbaʼe ikatúva oñemoambuepa?"
+    a: "Nahániri. Ary haʼe pe mbaʼe ojekuaavéva oñembojoajúva Alzheimer rehe, ha ndaikatúi oñemoambue. Herencia avei oikuaa hendápe. Umi 14 mbaʼe ko kuatiaroguépe haʼe umi jehapepyre ohechaukáva ikatúva oñemoambue."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,122 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Peteĩ mbaʼe oñembojoajúva kytĩ rehe haʼe peteĩ mbaʼe ojehecháva oĩ javeve ikatu hag̃uáicha oñeguenohẽ peteĩ mbaʼasy. Ndahaʼéi oikóva opaite jave, ha oĩramo peteĩva ndahaʼéi katuete ogueraháta dementia. Ko kuatiarogue omombeʼu umi 14 mbaʼe oñembojoajúva dementia rehe, ikatúva oñemoambue, Lancet Commission 2024 heʼíva rehegua, mbaʼépa oñembojoaju jehapepyre ndive, ha mbaʼépa ikatu oñeñomongeta pohanohára ndive.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Eikuaa hag̃ua porãve, ha mbaʼe umi jehapepyre tuicháva ojuhúva, eñepyrũ koʼápe
+[Ikatúpa oñemboyke dementia? Mbaʼe ojeʼe jehapepyrépe](/brain-health/can-dementia-be-prevented/).
+Kóva haʼe marandu opaichagua, ndahaʼéi pohanohára ñemomarandu; ehecha ore
+[marandu pohanohára rehegua](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Mbaʼe mbaʼépa umi 14 mbaʼe oñembojoajúva dementia rehe?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
+27 tapicha dementia rehegua ohaivaʼekue, oimoʼã 14 mbaʼe ikatúva oñemoambue
+oñembojoajuha 45% rupi umi caso de dementia rehe yvy ape ári. Peteĩteĩ papapy
+koʼápe haʼe Comisión oimoʼãva mbaʼeichaitépa umi caso yvy ape ári oñembojoaju
+hendive, oñembohysýiva papapy entero-pe. Koʼã papapy ojoaju, hetaiterei tapicha
+oguerekógui heta mbaʼe oñembojoajúva peteĩ jave, upévare oñembojoaju 45% ha
+ndahaʼéi hetave.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Mbaʼe oñembojoajúva kytĩ rehe | Tekove ára | Mboýpa caso | Mbaʼe oñembojoaju jehapepyrépe | Mbaʼe ikatu rejapo |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Mboʼe michĩve | Mitãme | 5% | Saʼive ary mboʼeha peguápe oñembojoaju kytĩ tuichave rehe. Ojejapo heta mbaʼe akãme guarã mitãrusu / kakuaáme avei oipytyvõkuaa, oĩramo jepe mboʼe saʼive. | Eikuaa ha ejapo meme mbaʼe ombohéra vaʼerã akã, oimeraẽ aryme: ñemoñeʼẽ, tembiaporã, mboʼe aty, ñembosarái ambue ndive. |
+| Ehendu vai | Mitãrusu / kakuaáme | 7% | Ehendu vai oñepohanoʼỹva oñembojoaju kytĩ tuichave rehe. Jehapepyre ohecháva tapichakuérape ára pukukue jave omombeʼu umi oipurúva ehenduha pytyvõha oguerekoha kytĩ michĩve. | Ejapo peteĩ jehechauka ehendu rehegua. Eporandu ikatúpa oipytyvõ ehenduha pytyvõha, ha eipuru ojerure ramo. Eñangareko nde apysa tyapu hatãgui. |
+| Colesterol LDL yvate | Mitãrusu / kakuaáme (40 ary rupi) | 7% | Colesterol LDL ("ñaña") yvate mitãrusu / kakuaáme oñembojoaju kytĩ tuichave rehe. Jehapepyre omañáva rehe omombeʼu umi oipurúva estatina oguerekoha kytĩ michĩve, ha katu jehaipyre tujakue guare ndohechaukái upéva. | Eporandu nde pohanohára ikatúpa ojehechajey nde colesterol ha mbaʼe ikatu ojejapo, oĩramo mbaʼe. |
+| Ñekoʼõi pyʼaguapy | Mitãrusu / kakuaáme | 3% | Ñekoʼõi pyʼaguapy oñembojoaju kytĩ tuichave rehe. Tujakue guare, ñekoʼõi pyʼaguapy ikatu avei haʼe dementia ñepyrũ raʼy. | Emombeʼu pohanohárape nde pyʼaguapy térã nderesaráiramo mbaʼevére, opytáramo mokõi arapokõindyve. Ñekoʼõi pyʼaguapy ikatu oñepohano. |
+| Akã jeharu | Mitãrusu / kakuaáme | 3% | Akã jeharu oimeraẽ aryme ha oimeraẽ hendágui, ñembosarái ojohuetéva avei, oñembojoaju kytĩ tuichave rehe. | Eipuru akãngao embaʼapóvo vici rehe térã ñembosarái ojohuetévape. Eporandu mbaʼeichaitépa ikatu eñangareko jeʼa rehe. Epytuʼu ha ejehechaukáke akã jeharu rire. |
+| Jejapoʼỹ | Mitãrusu / kakuaáme | 2% | Umi ojapóva ejercicio ha oñembosaráiva saʼive oguereko dementia. Jehapepyre jehaipyre guive ndahetái gueteri. | Eporandu mbaʼe tembiapo tekove rehegua hesãiha ndéve g̃uarã, ha eheka peteĩ nderayhúva. Ehecha ore [guía ejercicio rehegua](/brain-health/exercise/). |
+| Diabetes | Mitãrusu / kakuaáme | 2% | Diabetes, oñepyrũramo mitãrusu / kakuaáme térã opytáramo are, oñembojoaju kytĩ tuichave rehe. | Ejehechaukáke nde tuguy asuka. Erekóramo diabetes, embaʼapo nde pohanohára aty ndive emonguʼe hag̃ua hesãi hag̃uáicha. |
+| Pitarã | Mitãrusu / kakuaáme | 2% | Pitarã oñembojoaju kytĩ tuichave rehe. Jehapepyre ohechauka umi ohejámava pitarã ndojoguái pe kytĩ tuichave umi opitáva gueteri ndive. | Eporandu mbaʼe pytyvõ ikatu eheja hag̃ua. Iporã jeheja oimeraẽ aryme. |
+| Tuguy yvate | Mitãrusu / kakuaáme | 2% | Tuguy yvate mitãrusu / kakuaáme oñembojoaju kytĩ tuichave rehe. Pohã tuguy yvate rehegua jehaipyre omyesakã kytĩ michĩve dementia térã ñeimoʼã vai rehe. | Eikuaa nde papapy. Comisión omyesakã pe papapy yvategua 130 térã michĩve 40 ary rupi; eporandu mbaʼe jehupytyrã iporãvéva ndéve g̃uarã. |
+| Tete tuicháva | Mitãrusu / kakuaáme | 1% | Tete tuicháva mitãrusu / kakuaáme oñembojoaju kytĩ tuichave rehe, ha avei ombotuicha diabetes kytĩ. | Eporandu nde pohanohára mbaʼeichagua pohýi iporã ndéve g̃uarã. Tujakuéra ani ohoʼu pohýi hag̃ua pohanohára heʼiʼỹre chupekuéra. |
+| Kayʼu hetaiterei | Mitãrusu / kakuaáme | 1% | Kayʼu hetaiterei oñembojoaju kytĩ tuichave rehe. Oñemomichĩramo kayʼu hetaiterei, oñembojoaju kytĩ michĩve rehe. | Eporandu mbaʼe huʼã hesãiha ndéve g̃uarã, avei nde pohã reheháicha. |
+| Jeikoveʼỹ ambue ndive | Tujakue guare | 5% | Oñomongetaʼỹ térã ojehechaʼỹ meme ambue ndive oñembojoaju kytĩ tuichave rehe. | Eime joaju ambue tapicha ndive nde vyʼáicha. Ehecha ore [guía jeikove ambue ndive rehegua](/brain-health/social-connection/). |
+| Yvytu ñembyai | Tujakue guare | 3% | Oiko yvytu ñembyaípe oñembojoaju kytĩ tuichave rehe. Jehapepyre omombeʼu yvytu potĩve oñembojoajuha kytĩ michĩve rehe. | Hetave jey kóva haʼe mbaʼe opavave guarã ha tendota guarã. Ehecha marandu yvytu rehegua nde tendaguápe ha eime michĩve okápe ára ñembyaípe. |
+| Tesa vai oñepohanoʼỹva | Tujakue guare | 2% | Tesa apañuãi oñemyatyrõʼỹva oñembojoaju kytĩ tuichave rehe. Peteĩ jehapepyre tuicháva Estados Unidos-pe omombeʼu catarata ñemonguʼe oñembojoajuha kytĩ michĩve rehe. | Ejapo tesa jehechauka meme. Eporandu ikatúpa oñepohano apañuãi catarata-icha. |
 
-## How should I read these percentages?
+## Mbaʼeichaitépa añemoñeʼẽvaʼerã koʼã papapy?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Pyʼaguapýpe. Comisión marandu voi omombeʼu heta mbaʼe iporãva ñanemanduʼa hag̃ua:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Ohechauka yvypóra aty, ndahaʼéi peteĩteĩ tapicha.**
+  [University College London mombeʼu mbykymi](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  omombeʼu oñemomichĩramo kytĩ oipytyvõha yvypóra aty-pe ha ndaikatúiha ojeʼe
+  peteĩteĩ tapicha ndoguerahamoʼãiha dementia.
+- **Oimoʼã oĩha peteĩ mbaʼe omoheñóiva ambue.** Ohaívaʼekue oike umi mbaʼe
+  orekóva marandu mbarete, ha katu omombeʼu heta joaju ikatu noĩmbáiri opaite
+  hendápe.
+- **Haʼe papapy yvy ape ári rehegua.** Hetave marandu ou tetã hekoresãi porãvagui,
+  ha pe mboýpa añete ikatu iñambue peteĩteĩ tetã térã avaʼaty rehe.
+- **Papapy michĩva ikatu avei tuicha.** Peteĩ mbaʼe oñembojoajúva 2% umi caso rehe
+  yvy ape ári oñembojoaju gueteri hetaiterei tapicha rehe.
 
-## Which risk factors were added in 2024?
+## Mbaʼe mbaʼépa oñembojoapy 2024-pe?
 
-The 2024 report added two factors to the 12 named in 2020:
+Marandu 2024 ombojoaju mokõi mbaʼe umi 12-pe 2020-pe omombeʼupyrévare:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Colesterol LDL yvate mitãrusu / kakuaáme**, oñembojoaju 7% rupi umi caso rehe.
+- **Tesa vai oñepohanoʼỹva tujakue guare**, oñembojoaju 2% rupi umi caso rehe.
 
-## What risk factors cannot be changed?
+## Mbaʼe mbaʼe oñembojoajúva kytĩ rehe ndaikatúi oñemoambue?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging heʼi
+[ary haʼeha pe mbaʼe ojekuaavéva oñembojoajúva Alzheimer rehe](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ha avave ndaikatúi omoambue. Herencia avei oikuaa hendápe; peteĩ gen ojekuaáva
+oñembojoajúva Alzheimer kytĩ rehe haʼe APOE. NIA omombeʼu avei kuaarãhára
+ndoikuaái porã gueteri mbaʼépa omoheñói Alzheimer hetave tapichápe. Lancet
+Commission omombeʼu umi mbaʼe ikatúva oñemoambue ikatuha oñemomichĩ, oimeraẽva
+hérava tapicha herencia kytĩ.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Ary ha herencia tuichágui, hetaiterei tapicha ndorekóiva koʼã 14 mbaʼe
+oñembojoajúva kytĩ rehe oguereko gueteri dementia. Ndahaʼéi avave jejavy.
 
-## What does the trial evidence say about changing these risks?
+## Mbaʼe heʼi jehaipyre oñemoambue ramo koʼã mbaʼe?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Oñembojoaju peteĩ mbaʼe oñembojoajúva kytĩ rehe dementia ndive ndahaʼéi peteĩcha
+ojehechauka hag̃ua oñemoambue ramo omomichĩha dementia kytĩ. Peteĩ mbaʼe michĩ
+mbaʼéichapa oĩ jehaipyre koʼápe:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Tuguy yvate.** SPRINT MIND jehaipyrépe, peteĩ jehupytyrã tuguy michĩvéva
+  omomichĩ porã ñeimoʼã vai michĩva. Ndomomichĩi porã dementia ikatúva, ha katu
+  ikatu pe jehaipyre ndaipokuaái ohechauka hag̃ua upéva
+  ([SPRINT MIND JAMA-pe](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Ehenduha pytyvõha.** Lancet Commission omombeʼu peteĩ jehaipyre mbohapy ary
+  pukukue ehenduha pytyvõha rehegua ndojuhúiva mbaʼe tuicháva opaite tapichápe
+  ñeimoʼã rehe, ha katu oĩ pytyvõ peteĩ aty tapicha orekóva kytĩ tuichave.
+  Jehapepyre ohecháva tapichakuérape ára pukukue jave omombeʼu umi oipurúva
+  ehenduha pytyvõha oguerekoha kytĩ michĩve. Ore [guía ehendu rehegua](/brain-health/hearing/)
+  oguereko hetave.
+- **Tembiapo tekove rehegua.** National Institute on Aging heʼi ndaipóriha
+  jehaipyre jehaipyre guive hetaiterei ojeʼe hag̃ua ejercicio ikatuha omboyke térã
+  omombegue ñeimoʼã vai michĩva térã Alzheimer, oĩramo jepe jehapepyre omyesakãva
+  ikatuha oipytyvõ ñembogue ary rehegua
+  ([NIA oñemboyke hag̃ua Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Jehaipyre ipukúva oñehaʼãrõva dementia ñeguenohẽ ikatu imbeguete ha hepyeterei,
+upévare heta mbaʼépe pe marandu iporãvéva oútava gueteri jehapepyre ohecháva
+tapichakuérape ary pukukue jave. Ko marandu iporã, ha katu saʼive imbaretéva peteĩ
+jehaipyrégui.
 
-## What about sleep and diet?
+## Mbaʼépa ke ha tembiʼu rehegua?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Comisión ojesareko ke ha tembiʼu rehe, ha katu nombojoapái tysýipe, pe marandu
+ndaipóri gueteri mbarete térã ojoajúiva hag̃uáicha. Ore guía
+[ke rehegua](/brain-health/sleep/) ha [tembiʼu rehegua](/brain-health/diet/)
+omyesakã mbaʼe ojekuaáva.
 
-## Talk with a doctor
+## Eñemongeta pohanohára ndive
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Peteĩ jehechauka ary pukukue jave haʼe ára iporãva emombeʼu hag̃ua koʼã mbaʼe.
+Ikatu regueru ko tysýi ha eporandu:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Mbaʼeichaitépa che tuguy, che tuguy asuka ha che colesterol papapy, ha oĩpa
+  oikotevẽva jehechauka?
+- Ikatúpa ajehechaukáke che apysa ha che resa rehe?
+- Pe tembiapo ajapóva hesãipa ha hetáma chéve g̃uarã?
+- Oĩpa che pohã apytégui ikatúva oñembojoaju ñemanduʼa térã ñeimoʼã rehe?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Emoambuéramo nde pohã, tembiʼu, jejoko tembiʼu, ejercicio térã pohã yvypóra
+oipurúva, eñemongeta raẽ pohanohára ndive. Nde térã pe ava peñangarekóva
+rerokuaáramo sapyʼa jeheʼa ñemokañy, kangue peteĩ ykére, térã hasy ñeʼẽ, ehenói
+pe número emergencia oĩva nde tendaguápe.

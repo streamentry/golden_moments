@@ -1,33 +1,33 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Fyribyrgja heila-spøl demens? Hvat granskingin vísir"
+seoTitle: "Fyribyrgja heila-spøl demens? Granskingin"
+description: "Hvat granskingin sigur um heila-spøl og demens: vitborin stimbran, telduvenjing av heilanum, ACTIVE-royndin og FTC-málið um Lumosity, greiðliga greitt frá."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ongin heila-spøl hava sannað seg at fyribyrgja demens. Telduvenjing av
+  heilanum betrar mest um uppgávurnar, fólk venja. Ein kanning úr
+  ACTIVE-royndini knýtti eina ávísa ferðvenjing saman við uppfrískingarøkturnar
+  at færri demens-greiningum yvir 20 ár, ein avmarkaður fundur. Hjá fólki, sum
+  longu livir við demens, vísir bólka-grundað vitborin stimbran smáar,
+  stutt-tíðar ágóðar. Spøl eru best at njóta til stuttleika og felagsskap.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Kanningar av heilavenjing vísa, at fólk gerast betri til uppgávurnar, tey venja, við munandi minni prógvi fyri, at hetta flytir seg til gerandisdagin."
+  - "Í ACTIVE-royndini høvdu bert tey, sum gjørdu eina ávísa ferðvenjing saman við uppfrískingarøkturnar, færri demens-greiningar yvir 20 ár. Ferðvenjing uttan uppfrískingar, minnis- og hugsanarvenjing vístu ikki hetta."
+  - "Í 2016 rindaði felagið handan Lumosity 2 milliónir dollarar fyri at gera av FTC-ákærur um, at tey ikki høvdu vísindalig prógv fyri pástandum um at seinka demens."
+  - "Hjá fólki við mildari til miðal demens vísa bólkar við vitborinari stimbran smáar, stutt-tíðar ágóðar fyri hugsan og greiðari ágóðar fyri samskifti og sosialt samspæl."
+  - "Spølini í Golden Moments eru til stuttleika og felagstíð. Tey eru ikki viðgerð og fyribyrgja ella seinka ikki demens."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Fyribyrgja heila-spøl Alzheimer?"
+    a: "Eingin heila-spøl eru prógvað at fyribyrgja Alzheimer ella onnur sløg av demens. National Institute on Aging sigur, at tað ikki eru nóg nógvar prógv fyri, at handilslig heilavenjingar-app hava somu ávirkan sum venjingin, ið varð roynd í granskingarroyndum. Spøl kunnu kortini vera ein hugnaligur háttur at brúka tíð saman."
+  - q: "Hvat fann ACTIVE-royndin út um ferðvenjing og demens?"
+    a: "Ein greining frá 2026 knýtti luttakarar í ACTIVE at Medicare-skrám yvir 20 ár. Fólk, sum gjørdu ferð-viðgerðarvenjing og høvdu minst eina uppfrískingarøkt, høvdu lægri talið av greinaðum demensum enn bólkurin uttan venjing. Ferðvenjing uttan uppfrískingar, og minnis- ella hugsanarvenjing, vístu ikki nakra týðandi ávirkan."
+  - q: "Eru putlispøl og onnur spøl góð fyri ein, sum longu hevur demens?"
+    a: "Tey kunnu vera tað, um persónurin hevur hug at spæla tey. Bólka-grundað vitborin stimbran, sum fevnir um orðaspøl, putlispøl, tónleik og samtalu, vísir smáar stutt-tíðar ágóðar fyri hugsan og greiðari ágóðar fyri samskifti og sosialt samspæl. Gleði, ikki úrslit á einum royndi, er rætti málsetningurin."
+  - q: "Hví fekk Lumosity sekt frá FTC?"
+    a: "Í 2016 ákærdi Federal Trade Commission, at Lumos Labs kom við pástandum um spølini síni, millum annað um at seinka aldurstengda afturgongd og demens, uttan at hava vísindalig prógv fyri tí. Felagið samtykti í at rinda 2 milliónir dollarar og í at hava álítandi vísindalig prógv, áðrenn tey koma við slíkum pástandum í framtíðini."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +58,170 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Heila-spøl eru allastaðni, og nógv lova at halda huga tínun ungum. Um tú tekur
+tær av onkrum, sum livir við demens, ella stúrir fyri tínum egna minni, er tað
+skilligt at undrast um, hvørt tað kann hjálpa at spæla tey. Her er tað, sum
+granskingin veruliga vísir, bæði tað, sum er uggandi, og tað, sum ikki er tað.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Hetta eru almennar upplýsingar, ikki læknaráðgeving. Sí okkara
+[læknaliga ábyrgdarfrafallið](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Fyribyrgja heila-spøl demens?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ongin heila-spøl eru prógvað at fyribyrgja demens. National Institute on
+Aging (NIA) ráðgevur fólki at vera varin við pástandum um, at teldu- og
+netspøl kunnu betra um minnið, og sigur, at tað ikki eru nóg nógvar prógv fyri,
+at nakar handilslig heilavenjingar-app hevur somu ávirkan sum venjingin, ið varð
+roynd í kliniskum royndum ([NIA um at fyribyrgja Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Hetta ger ikki spøl ónýtilig. Tað merkir, at virðið liggur í gleði, felagsskapi
+og gerandisvani, ikki í at verja nakran fyri demens.
 
-## What is "near transfer", and why does it matter?
+## Hvat er „nærflyting“, og hví hevur tað týdning?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Tá tú venur eina uppgávu, gerst tú vanliga betri til júst ta uppgávuna.
+Granskarar kalla hetta ein venjingarávirkan. Tann torførari spurningurin er,
+um framgongdin **flytir seg** til annað: til líknandi uppgávur (nærflyting)
+ella til gerandisdagin, til dømis at minnast avtalur ella at halda skil á
+pengum (fjarflyting).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Ein týðandi kanning frá 2016 tók stóra støðið í teimum kanningunum, sum
+heilavenjingarfeløg vístu til sum síni bestu prógv. Hon fann nógvar prógv fyri,
+at fólk gerast betri til tær uppgávurnar, tey venja, færri prógv fyri, at tey
+gerast betri til tætt skyldar uppgávur, og lítil prógv fyri, at venjing betrar
+um hugsan í gerandisdegnum. Nógvar av kanningunum høvdu eisini lýti í
+uppsetingini, sum gjørdu tað ómøguligt at draga fastar niðurstøður
+([Simons og onnur, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Hvat siga kanningaryvirlit um telduvenjing av heilanum?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane-yvirlit, sum savna tær bestu royndirnar, sum finnast, hava kannað
+teldubaseraða venjing, sum hevur vart í minst 12 vikur:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Frísk vaksin 65 ár og eldri:** átta royndir við 1.183 fólkum. Prógvini vóru
+  av lágum ella sera lágum góðskustigi. Tað kann vera ein lítil ávinning beint
+  eftir venjingina, uttan greið prógv fyri, at hon varir
+  ([Cochrane-yvirlit, frísk eldri](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Fólk við lítlum vitbornum veikleika:** átta royndir við 660 fólkum. Ongin
+  roynd fráboðaði, um fólk seinni fingu demens, og prógvini vóru ov veik til at
+  draga niðurstøður
+  ([Cochrane-yvirlit, lítil vitborin veikleiki](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Hvat fann ACTIVE-royndin út?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE er ein stór amerikonsk roynd, sum byrjaði í 1998 við 2.802 vaksnum 65 ár
+og eldri, sum livdu sjálvstøðugt og ikki høvdu týðandi minnis- ella
+hugsanartrupulleikar. Fólk vórðu tilvildarliga vald til ein av trimum sløgum
+av bólkavenjing í smábólkum (ferð viðgerð, minni ella hugsan) ella til ein
+bólk uttan samskifti. Venjingin hevði upp til tíggju økturnar yvir fimm til
+seks vikur. Nøkur, sum gjørdu flestu økturnarnar lidnar, fingu eisini tilboð um
+**uppfrískingarøkturnar** umleið eitt og trý ár seinni eftir tilvildarligum vali.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Ferðvenjingin snúði seg um at síggja og viðgera sjónligar upplýsingar á styttri
+og styttri løtum, á einum stigi, sum lagaði seg eftir, sum fólk gjørdust betri.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Í 2026 knýttu granskarar 2.021 luttakarar at Medicare-skráum teirra í 20 ár
+([ACTIVE 20-ára greining](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Her er nágreiniliga tað, tey funnu:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Ferðvenjing saman við minst einari uppfrískingarøkt:** eitt lægri tal av
+  greinaðum demensum enn bólkurin uttan samskifti (eitt vandalutfall á 0,75, sum
+  umleið merkir 25% lægri tal).
+- **Ferðvenjing uttan uppfrískingar:** einki lægri tal.
+- **Minnis- ella hugsanarvenjing:** eingin týðandi ávirkan á demens-greiningar.
+- **Hvør venjingarbólkur sum heild samanborin við bólkin uttan samskifti:** ein
+  lynd til lægri tøl, men ikki hagfrøðiliga týðandi.
 
-### The limits of this finding
+### Avmarkingarnar í hesum fundi
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Hann fevnir um **eitt ávíst slag av eftirlitnari ferðvenjing við
+  uppfrískingarøkturnum**, ikki um heila-spøl sum heild.
+- Tann týðandi úrslitið kom frá einum **undirbólki** (fólk, sum gjørdu flestu av
+  fyrstu økturnunum lidnar og fingu tilboð um uppfrískingar), ikki frá øllum
+  ferðbólkinum.
+- Demens varð mátað við **greiningarkotum í Medicare-krøvum**, ikki við at
+  kanna hvørt einasta persón. Umleið ein fjórðingur av upprunaligu luttakarunum
+  varð latin úti, tí teir vóru skrásettir í Medicare Advantage, sum ikki hevur
+  fullar kravskrár.
+- Luttakararnir høvdu ikki týðandi hugsanartrupulleikar, tá teir byrjaðu.
+  Úrslitini siga einki um spøl hjá fólki, sum **longu livir við demens**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Tað er ein áhugaverdur fundur, sum er verdur meiri gransking. Tað eru ikki
+prógv fyri, at nakar app fyribyrgir demens.
 
-## What did the FTC say about Lumosity?
+## Hvat segði FTC um Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Í januar 2016 samtykti Lumos Labs, sum ger Lumosity, í at rinda 2 milliónir
+dollarar fyri at gera av ákærur frá Federal Trade Commission um villleiðandi
+lýsingar. FTC segði, at felagið kom við pástandum, uttan nóg góð vísindalig
+prógv, um at spølini kundu betra um avrikið á arbeiðsplássi og í skúla og kundu
+seinka aldurstengda afturgongd, mildan vitbornan veikleika, demens og Alzheimer.
+Úrskurðurin krevur, at felagið hevur før og álítandi vísindalig prógv, áðrenn
+tað kemur við slíkum pástandum í framtíðini ([FTC tíðindaskriv](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Lærdómurin til familjur er: ver ivaleyst/ur um øll spøl, appir ella skipanir,
+sum lova at verja minnið ella fyribyrgja demens.
 
-## Can games help someone who already has dementia?
+## Kunnu spøl hjálpa onkrum, sum longu hevur demens?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Tey kunnu gera ein góðan dag enn betri, og tað hevur stóran týdning. Tað best
+kannaða tilmælið er **vitborin stimbran**: hugnaligar bólkavirksemi so sum
+tos, at minnast aftur, orðaspøl, putlispæl, tónleikur og samtala, vanliga í
+einum lítlum bólki við einum leiðara.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Ein Cochrane-yvirlit frá 2023 av 37 royndum við 2.766 fólkum við mildari til
+miðal demens fann
+([Cochrane-yvirlit um vitborna stimbran](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- ein **lítil, stutt-tíðar ávinning** á hugsanarroyndum (prógv av miðal góðsku);
+- **klinisk týðandi framgongd í samskifti og sosialum samspæli** (prógv av høgari
+  góðsku, frá færri kanningum);
+- **smáar ágóðar** fyri lívsdygd, sinnalagi og atburði.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Ágóðarnir vórðu mest mátaðir beint eftir skipanir, sum vórðu umleið tíggju
+vikur, og fáar kanningar hugdu eftir, um teir vóru varandi. Vitborin stimbran
+er ein skipað bólkaskipan, so hesar úrslit kunnu ikki sjálvvirkandi flytast til
+ein persón, sum spælir eitt spøl einsamallur á eini teldil.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet-nevndin frá 2024 sigur eisini, at virksemisskipanir eru týðandi fyri
+fólk, sum livir við demens, fyri at halda á gleði og endamáli
+([Lancet-nevndin](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Hvat eru spøl veruliga góð til?
 
-When chosen well, games can offer:
+Tá tey eru væl vald, kunnu spøl bjóða:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Gleði.** Ein hugnalig hálvtími er verd at hava fyri sítt egna virði.
+- **Samband.** At spæla lið um lið gevur tykkum okkurt lætt at gera saman, tá
+  samtala er torfør. Sí [hvussu tit spæla saman](/caregiving/how-to-play-together/).
+- **Gerandisvani.** Ein kend virksemi á sama tíð hvønn dag kann geva trygd.
+- **Sjálvsálit.** Virksemi, sum passa til tað, ein persónur enn megnar væl, lata
+  hann kenna seg føran, ikki royndan.
+- **Samtalu.** Ein mynd ella eitt kent orðatak kann lata eina søgu byrja. Royn
+  [samtalukort](/games/conversation-cards/) ella
+  [ger orðatakið liðugt](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Tað, tú eigur at sleppa: tíðarstýring, stig, røðir og alt, sum kennist sum ein
+minnisroynd. Verður persónurin órógvaður, steðga so. At enda tíðliga, ella bara
+at sita saman, er eitt gott úrslit. Vegleiðingin okkara um
+[at velja appir og spøl](/caregiving/choosing-apps-and-games/) hevur ein gátlista.
 
-## Where Golden Moments fits
+## Hvar Golden Moments passar inn
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Spølini í Golden Moments, so sum [myndapør](/games/picture-pairs/),
+[myndaputl](/games/picture-puzzle/) og
+[orðaleiting við stórari skrift](/games/word-search/), eru gjørd til stuttleika
+og felagstíð. Tey hava onga klokku og eingi stig. Tey eru **ikki** viðgerð, og
+tey **fyribyrgja** ella **seinka ikki** demens. Vit vilja heldur
+siga tær tað beint fram enn at lova nakað, sum einki spæl kann veita.
 
-## Talk with a doctor
+## Tos við ein lækna
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Ert tú stúrin/ur fyri broytingum í minninum hjá tær sjálvum/sjálvari ella
+onkrum, tú tekur tær av, far so til lækna heldur enn at líta á eina app. Ein
+lækni kann kanna eftir orsøkum, sum kunnu viðgerast, og tosa um tey stigini,
+sum hava bestu prógvini, so sum at halda skil á blóðtrýsti og at kanna hoyrnina.
+Sí
+[Kann demens fyribyrgjast?](/brain-health/can-dementia-be-prevented/) fyri
+meira. Verður onkur brádliga ringur við ella onnur bráð broyting henda, fá so
+skjóta læknahjálp.

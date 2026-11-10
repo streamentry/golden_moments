@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "សកម្មភាពប្រើប្រសាទสัมผัสសម្រាប់មនុស្សមានជំងឺវង្វេង"
+seoTitle: "សកម្មភាពប្រើប្រសាទสัมผัส និងសុវត្ថិភាព"
+description: "គំនិតសកម្មភាពប្រើប្រសាទสัมผัสសម្រាប់មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង ពីការម៉ាស្សាដៃ រហូតដល់សំឡេងធម្មជាតិ រួមជាមួយកំណត់ចំណាំសុវត្ថិភាព។"
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  សកម្មភាពប្រើប្រសាទสัมผัสប្រើការប៉ះ ក្លិន រសជាតិ សំឡេង និងការមើល៖ ដូចជា ការម៉ាស្សាដៃយឺតៗ
+  កន្ត្រកក្រណាត់ទន់ ក្លិនឱសថបៃតង សំឡេងធម្មជាតិ ឬការមើលបក្សីនៅបង្អួច។ វាសាកសមសម្រាប់គ្រប់ដំណាក់កាល
+  និងមានប្រយោជន៍ជាពិសេសនៅដំណាក់កាលក្រោយ។ សូមពិនិត្យជាមុនអំពីហានិភ័យស្ទះ បញ្ហាអាឡែហ្ស៊ី
+  បញ្ហាស្បែក និងភាពរសើបនឹងក្លិន ផ្តល់របស់តែមួយមុខក្នុងពេលតែមួយ និងឈប់ប្រសិនបើមនុស្សនោះ
+  ហាក់ដូចជាមិនស្រួល។
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "សកម្មភាពប្រើប្រសាទสัมผัสមិនតម្រូវឱ្យមានចម្លើយត្រឹមត្រូវទេ ដូច្នេះវាអាចសាកសមសម្រាប់គ្រប់ដំណាក់កាល រួមទាំងពេលដេកលើគ្រែ ឬអង្គុយលើកៅអី។"
+  - "ផ្តល់បទពិសោធន៍តែមួយប្រសាទสัมผัสក្នុងពេលតែមួយ នៅក្នុងបន្ទប់ស្ងាត់ ហើយសួរ ឬប្រាប់ជាមុនមុននឹងប៉ះ។"
+  - "ជៀសវាងវត្ថុតូចៗ និងអ្វីដែលមើលទៅ ឬមានក្លិនដូចអាហារ ប៉ុន្តែមិនមែនជាអាហារ ព្រោះមនុស្សអាចដាក់ទៅក្នុងមាត់។"
+  - "ពិនិត្យអំពីអាឡែហ្ស៊ី បញ្ហាស្បែក និងបញ្ហាដង្ហើម មុននឹងប្រើឡេលION ក្លិន ឬអាហារ។"
+  - "មិនមានភស្តុតាងគួរឱ្យជឿជាក់ថា ក្លិនបំបាត់អារម្មណ៍ (aromatherapy) ជួយដល់រោគសញ្ញាជំងឺវង្វេងទេ។ ប្រើក្លិនសម្រាប់ការរីករាយសាមញ្ញតែប៉ុណ្ណោះ ប្រសិនបើមាន។"
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "តើសកម្មភាពប្រើប្រសាទสัมผัสអ្វីខ្លះដែលល្អសម្រាប់មនុស្សមានជំងឺវង្វេង?"
+    a: "គំនិតសាមញ្ញៗរួមមាន ការម៉ាស្សាដៃយឺតៗដោយប្រើឡេលION ការកាន់ក្រណាត់ទន់ ក្លិនឱសថបៃតង ឬកាហ្វេ ការស្តាប់ចម្រៀងដែលចូលចិត្ត ឬសំឡេងធម្មជាតិ ការមើលបក្សី ឬធុងត្រី និងការភ្លក្សរសជាតិអាហារដែលចូលចិត្តក្នុងទម្រង់ដែលមានសុវត្ថិភាព។ ផ្តល់តែមួយមុខក្នុងពេលតែមួយ ហើយសង្កេតមើលការឆ្លើយតបរបស់មនុស្សនោះ។"
+  - q: "តើសកម្មភាពប្រើប្រសាទสัมผัสមានសុវត្ថិភាពសម្រាប់មនុស្សដែលដាក់របស់ទៅក្នុងមាត់ដែរឬទេ?"
+    a: "អាចមានសុវត្ថិភាព បើប្រុងប្រយ័ត្ន។ ប្រើតែវត្ថុធំៗដែលមិនអាចលេបទេ ជៀសវាងវត្ថុតូចៗ ឬងាយបែក និងរក្សាឡេលION សាប៊ូ និងផលិតផលមានក្លិនឱ្យឆ្ងាយបន្ទាប់ពីប្រើ ព្រោះវាអាចមើលទៅ ឬមានក្លិនដូចអាហារ។ សូមនៅជាមួយមនុស្សនោះពេញមួយពេល។"
+  - q: "តើក្លិនបំបាត់អារម្មណ៍ (aromatherapy) ជួយដល់ជំងឺវង្វេងដែរឬទេ?"
+    a: "ការពិនិត្យឡើងវិញរបស់ Cochrane រកមិនឃើញភស្តុតាងគួរឱ្យជឿជាក់ថា aromatherapy ជួយមនុស្សមានជំងឺវង្វេងទេ ទោះបីការសិក្សាទាំងនោះមានទំហំតូច និងមិនស្របគ្នាក៏ដោយ។ ប្រសិនបើមនុស្សនោះចូលចិត្តក្លិនស្រាលៗដែលធ្លាប់ស្គាល់ វាមិនអីទេ ប៉ុន្តេសូមជៀសវាងប្រេងក្លិនខ្លាំងៗ ជាពិសេសនៅពេលមានបញ្ហាដង្ហើម ឬអាឡែហ្ស៊ី។"
+  - q: "តើអាវ ឬភួយសម្រាប់កាន់កាប់ (fidget or activity apron) គឺជាអ្វី?"
+    a: "វាជាបំណែកក្រណាត់ អាវមុខ ឬភួយលើភ្លៅដែលមានវត្ថុសម្រាប់កាន់កាប់ ដេរតោងជាប់យ៉ាងរឹងមាំ ដូចជាប៊ូតុងធំៗ ហ្ស៊ីប ខ្សែបូ និងបំណះក្រណាត់ផ្សេងៗ។ វាផ្តល់អ្វីមួយឱ្យដៃដែលចង់មានចលនារុករក។ សូមពិនិត្យវាជាប្រចាំ ដើម្បីមើលថាតើមានអ្វីរលុងដែលអាចដកចេញបានដែរឬទេ។"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +47,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+សកម្មភាពប្រើប្រសាទสัมผัสប្រើប្រាស់ប្រសាទสัมผัสទាំងប្រាំ៖ ការប៉ះ ក្លិន រសជាតិ សំឡេង និងការមើល។ វាមិនតម្រូវឱ្យប្រើការចងចាំ មិនត្រូវធ្វើតាមជំហានច្រើន និងមិនមានចម្លើយត្រឹមត្រូវ ឬខុសទេ ដូច្នេះវាអាចសាកសមនៅគ្រប់ដំណាក់កាល។ វាមានសារៈសំខាន់ជាពិសេសនៅដំណាក់កាលក្រោយ។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ចង្អុលបង្ហាញថា នៅដំណាក់កាលចុងក្រោយ មនុស្សជារឿយៗទទួលបទពិសោធន៍ពិភពលោកតាមរយៈប្រសាទสัมผัส ហើយអ្នកអាចបង្ហាញការថែទាំតាមរយៈការប៉ះ សំឡេង ការមើល រសជាតិ និងក្លិន។ ការពិនិត្យសុវត្ថិភាពមួយចំនួនអាចជួយឱ្យសកម្មភាពទាំងនេះមានភាពស្ងប់ស្ងាត់សម្រាប់ទាំងអស់គ្នា។
 
-## What are sensory activities for dementia?
+## តើសកម្មភាពប្រើប្រសាទสัมผัสសម្រាប់ជំងឺវង្វេងជាអ្វី?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+សកម្មភាពប្រើប្រសាទสัมផัสគឺជាបទពិសោធន៍សាមញ្ញៗដែលផ្តោតលើប្រសាទสัมផัสតែមួយក្នុងពេលតែមួយ ដូចជាការស្ទាបក្រណាត់ ក្លិនឱសថបៃតង ឬស្តាប់សំឡេងភ្លៀង។ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) បញ្ជាក់ថា សកម្មភាពនៅដំណាក់កាលក្រោយជារឿយៗត្រូវផ្តោតលើប្រសាទสัมផัส ហើយបានលើកឡើងអំពីតន្ត្រី វត្ថុសម្រាប់ប៉ះ និងកាន់កាប់ និងការម៉ាស្សាដៃ។ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ក៏បានកត់សម្គាល់ថា មនុស្សនៅដំណាក់កាលចុងក្រោយអាចមានតម្រូវការខ្លាំងក្នុងការកាន់អ្វីមួយឱ្យជិតខ្លួនសម្រាប់ភាពផាសុកភាព។
 
-## Sensory ideas, sense by sense
+## គំនិតសកម្មភាពប្រើប្រសាទสัมផัส តាមប្រភេទ
 
-### Touch
+### ការប៉ះ
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **ការម៉ាស្សាដៃ។** ដាក់ឡេលION បន្តិចក្នុងដៃរបស់អ្នកឱ្យកក់ក្តៅ ហើយម៉ាស្សាយឺតៗពីកដៃទៅចុងម្រាមដៃ។ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) បានលើកឡើងអំពីការម៉ាស្សាដោយប្រើឡេលION គ្មានក្លិនសម្រាប់ភាពផាសុកភាព។
+- **កន្ត្រកក្រណាត់។** ក្រណាត់ធំៗពីសម្ភារៈដូចជា ក្រណាត់កម្ញី ក្រណាត់ corduroy ក្រណាត់ fleece ក្រណាត់សាតាំង និងរោមចៀម សម្រាប់ស្ទាប បត់ និងនិយាយអំពីវា។
+- **កន្សែងទឹកក្តៅ។** កន្សែងសើមក្តៅសម្រាប់កាន់ក្នុងដៃនៅថ្ងៃត្រជាក់។ សូមសាកសីតុណ្ហភាពលើកដៃរបស់អ្នកជាមុនសិន។
+- **អាវ ឬភួយសម្រាប់កាន់កាប់។** ប៊ូតុងធំៗ ហ្ស៊ីប ខ្សែបូ និងបំណះក្រណាត់ផ្សេងៗដែលត្រូវបានដេរតោងជាប់យ៉ាងរឹងមាំ។
+- **ការបត់ និងរាបឱ្យเรียบ។** កន្ត្រកកន្សែង ឬកន្សែងតុស្អាតៗសម្រាប់បត់ ដាក់ជាជង់ និងបត់ម្តងទៀត។
+- **អ្វីមួយទន់ៗសម្រាប់កាន់។** ភួយក្រណាត់ fleece ខ្នើយ ឬតុក្កតាទន់ៗដែលមើលទៅស្រដៀងរបស់ពិត ដែលផ្តល់ឱ្យយ៉ាងសាមញ្ញ មិនមែនដូចជាការរបស់លេងទេ។
 
-### Smell
+### ក្លិន
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **ឱសថបៃតងស្រស់ៗ។** ខ្ជះស្លឹក mint rosemary basil ឬ lavender រវាងម្រាមដៃរបស់អ្នក រួចយកទៅឱ្យគាត់ក្រអូប។
+- **ក្លិនពីផ្ទះបាយ។** ក្លិនកាហ្វេដែលកំពុងឆុង នំប៉័ងកំពុងអាំង អំបិលដី ឬក្រូចដែលកំពុងបកនៅជិតៗ។
+- **ផ្កា។** យកផ្កាស្រស់ៗមួយចំនួនពីសួន ឬពីហាងមកដាក់។
+- **ផលិតផលដែលធ្លាប់ស្គាល់។** សាប៊ូ ឬឡេលION ដែលគាត់ធ្លាប់ប្រើ ប្រសិនបើស្បែករបស់គាត់អត់ធ្មត់។
 
-### Taste
+### រសជាតិ
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **រសជាតិដែលចូលចិត្ត។** អ្វីមួយដែលគាត់ចូលចិត្តមួយស្លាបព្រាតូចៗ ដូចជា ប៉ោមខ្ទិះ ក្រែម ឬការ៉េម ក្នុងទម្រង់ដែលគាត់អាចទទួលទានបានដោយសុវត្ថិភាព។
+- **ជួយធ្វើនំ។** ភ្លក្សផ្លែឈើ ឬក្រែមតិចៗពេលអ្នកធ្វើនំជាមួយគ្នា។
+- **អាហារតាមរដូវកាល។** ឪឡឹកនៅរដូវក្តៅ ឬទឹកផ្លែឈើក្តៅៗនៅរដូវស្លឹកឈើជ្រុះ ដែលបម្រើនៅសីតុណ្ហភាពមានសុវត្ថិភាព។
 
-### Sound
+### សំឡេង
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **ចម្រៀងដែលចូលចិត្ត។** ចម្រៀងដែលធ្លាប់ស្គាល់ក្នុងកម្រិតសំឡេងស្រាលៗ។ សូមមើល [សកម្មភាពតន្ត្រី](/activities/music/)។
+- **សំឡេងធម្មជាតិ។** សំឡេងភ្លៀង រលកសមុទ្រ ឬសំឡេងបក្សីច្រៀង។ NIA កត់សម្គាល់ថា តន្ត្រី សំឡេងរំខានស្រាលៗ (white noise) និងសំឡេងធម្មជាតិ ហាក់ដូចជាធ្វើឱ្យមនុស្សមួយចំនួនស្រួលអារម្មណ៍។
+- **សំឡេងរបស់អ្នក។** អានឱ្យស្តាប់ ញញឹមច្រៀង ឬនិទានរឿង។
+- **ឧបករណ៍តន្ត្រីសាមញ្ញៗ។** ស្គរដៃ កន្ទ្រឹម ឬកណ្តឹងតូចសម្រាប់លេងតាមតន្ត្រី។
 
-### Sight
+### ការមើល
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **មើលតាមបង្អួច។** មើលបក្សីនៅឧបករណ៍ដាក់ចំណីក្រៅបង្អួច កុមារដើរត្រឡប់ពីសាលា ឬព្រិលធ្លាក់។
+- **ធុងត្រី ឬវីដេអូយឺតៗ។** ចលនាស្រួលៗដោយគ្មានសំឡេងខ្លាំង។
+- **រូបថតធំៗ។** មើលរូបថតច្បាស់លាស់ម្តងមួយៗ ដាក់នៅកម្ពស់ភ្នែក។
+- **ពណ៌ និងលំនាំ។** រៀបចំក្រណាត់កំណាត់ពណ៌ភ្លឺៗ ផ្កា ឬកន្សែងតុពណ៌ ឬទំព័រគូរពណ៌សាមញ្ញមួយពីសំណុំ [ការគូរពណ៌](/games/coloring/) របស់យើង។
+- **នៅខាងក្រៅ។** NHS ណែនាំអំពីសួនប្រើប្រសាទสัมផัสដែលមានរុក្ខជាតិមានក្លិន វាយនភាពផ្សេងៗ និងលក្ខណៈពិសេសទឹក។ សូមមើល [សកម្មភាពនៅខាងក្រៅ និងការថែសួន](/activities/outdoor-and-gardening/)។
 
-## How to make a sensory box
+## របៀបរៀបចំប្រអប់ប្រើប្រសាទสัมផัส
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **ជ្រើសរើសប្រធានបទ** ដែលទាក់ទងនឹងជីវិតរបស់មនុស្សនោះ៖ ឆ្នេរ សួន ផ្ទះបាយ រោងជាង ឬការដេរ។
+2. **ជ្រើសរើសវត្ថុធំៗដែលមានសុវត្ថិភាពប្រាំ ឬប្រាំមួយមុខ** ដូចជា ខ្យងសមុទ្រធំ ស្លាបព្រាបាយឈើ កន្សែងទន់ ថង់ក្លិន lavender ស្ងួតដែលដេរបិទជិត ឬដុំឈើរលោង។
+3. **ពិនិត្យវត្ថុគ្រប់មុខ** សម្រាប់បំណែកតូចៗ គែមមុត ខ្សែស្រឡាយរលុង និងអ្វីដែលងាយបែក។
+4. **យកវត្ថុចេញម្តងមួយៗ។** ដាក់ឱ្យគាត់កាន់ ពិពណ៌នាអំពីវា ហើយអនុញ្ញាតឱ្យមនុស្សនោះរុករក។
+5. **រក្សាទុកប្រអប់វិញបន្ទាប់ពីប្រើ** ដើម្បីឱ្យវានៅតែពិសេស ហើយពិនិត្យវត្ថុម្តងទៀតមុនពេលប្រើលើកក្រោយ។
 
-## Safety first
+## សុវត្ថិភាពជាមុនសិន
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+សកម្មភាពប្រើប្រសាទสัมផัสមានលក្ខណៈស្រាលៗ ប៉ុន្តែមានហានិភ័យមួយចំនួនដែលគួរយកចិត្តទុកដាក់។ មនុស្សមួយចំនួនដែលរស់នៅជាមួយជំងឺវង្វេងអាចច្រឡំវត្ថុដែលមិនមែនជាអាហារថាជាអាហារ ហើយការលេបអាចកាន់តែលំបាកទៅៗ។ NIA ព្រមានថា បញ្ហាលេបនៅដំណាក់កាលចុងក្រោយអាចបង្កើនហានិភ័យនៃការស្ទះ។
 
-| Risk | What to do |
+| ហានិភ័យ | អ្វីដែលគួរធ្វើ |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| ការស្ទះ | ប្រើតែវត្ថុដែលធំពេកមិនអាចលេបបាន។ កុំដាក់ប៊ូតុង គ្រាប់តូចៗ កាក់ បាល់ ឬក្មេងលេងតូចៗនៅក្នុងប្រអប់។ ផ្តល់អាហារតែនៅក្នុងទម្រង់ដែលក្រុមថែទាំបញ្ជាក់ថាមានសុវត្ថិភាព។ |
+| វត្ថុដែលមើលទៅដូចអាហារ | NIA ណែនាំឱ្យចាក់សោរក្សាឡេលION សាប៊ូ សាប៊ូកក់សក់ និងទឹកអប់ ដែលអាចមើលទៅ ឬមានក្លិនដូចអាហារ និងដកផ្លែឈើសិប្បនិម្មិតចេញ។ សូមរក្សាទុកផលិតផលប្រើប្រសាទสัมផัสវិញបន្ទាប់ពីប្រើ។ |
+| អាឡែហ្ស៊ី | ពិនិត្យអំពីអាឡែហ្ស៊ីនឹងគ្រាប់ឈើ យ៉ាង ក្រណាត់រោមចៀម រុក្ខជាតិ ឬក្លិន មុននឹងចាប់ផ្តើម។ |
+| ក្លិនខ្លាំង | ជៀសវាងទឹកអប់ខ្លាំងៗ និងប្រេងក្លិន ជាពិសេសប្រសិនបើមានជំងឺហឺត ឬបញ្ហាដង្ហើមផ្សេងទៀត។ ក្លិនធម្មជាតិស្រាលៗមានសុវត្ថិភាពជាង។ |
+| ស្បែក | ពិនិត្យមើលស្បែកដែលឈឺ រហែក ឬផុយស្រួយមុននឹងម៉ាស្សា។ ប្រើសម្ពាធស្រាលៗ ហើយឈប់ប្រសិនបើគាត់ហាក់ដូចជាឈឺ។ |
+| សីតុណ្ហភាព | សាកសីតុណ្ហភាពកន្សែងក្តៅ និងភេសជ្ជៈលើកដៃរបស់អ្នកជាមុនសិន។ |
+| វត្ថុមុត ឬមានពិស | កុំប្រើឧបករណ៍មុត កញ្ចក់ ឬសម្ភារៈសិប្បកម្មដែលមានពិស។ |
 
-## Does aromatherapy help?
+## តើ aromatherapy ជួយដែរឬទេ?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+ប្រហែលជាមិនមានប្រយោជន៍ដែលអាចវាស់វែងបានទេ។ [ការពិនិត្យឡើងវិញរបស់ Cochrane អំពី aromatherapy សម្រាប់ជំងឺវង្វេង](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) បានពិនិត្យមើលការសិក្សាចំនួន 13 ដែលមានមនុស្សចូលរួម 708 នាក់ ទាំងអស់នៅក្នុងមណ្ឌលថែទាំ ហើយរកមិនឃើញភស្តុតាងគួរឱ្យជឿជាក់នៃអត្ថប្រយោជន៍ទេ។ ការសិក្សាទាំងនោះមានទំហំតូច លទ្ធផលមិនស្របគ្នា ហើយផលរំខានត្រូវបានរាយការណ៍មិនគ្រប់គ្រាន់។ ប្រសិនបើមនុស្សនោះចូលចិត្តក្លិនស្រាលៗដែលធ្លាប់ស្គាល់ ដូចជាក្លិន lavender ពីសួន វាជាមូលហេតុល្អក្នុងការចែករំលែកជាមួយគ្នា។ ប៉ុន្តែវាមិនមែនជាការព្យាបាលទេ។
 
-## How to offer a sensory activity
+## របៀបផ្តល់សកម្មភាពប្រើប្រសាទสัมផัส
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **ជ្រើសរើសពេលវេលាស្ងប់ស្ងាត់** ហើយបិទទូរទស្សន៍។
+- **ចូលទៅជិតពីខាងមុខ** ហៅឈ្មោះរបស់គាត់ ហើយសួរ ឬប្រាប់ជាមុនមុននឹងប៉ះ៖ «ខ្ញុំមានឡេលION មួយ។ តើអ្នកចង់ឱ្យខ្ញុំម៉ាស្សាដៃឱ្យទេ?»
+- **ផ្តល់តែមួយមុខក្នុងពេលតែមួយ** ដើម្បីកុំឱ្យមានអារម្មណ៍លើសលប់។
+- **សង្កេតមើលការឆ្លើយតប។** មុខស្រួលឡើង ដៃសម្រាក ឬស្នាមញញឹម គឺជាសញ្ញាល្អ។ ការដកខ្លួនចេញ មុខមួម៉ៅ ឬភាពមិនស្ងប់ មានន័យថាគួរឈប់។
+- **រក្សាពេលវេលាឱ្យខ្លី។** ប្រាំនាទីនៃភាពស្ងប់ស្ងាត់ក៏ជាពេលវេលាល្អមួយ។
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+ការឈប់សម្រាកដកដង្ហើមយឺតៗជាមួយគ្នា ដូចជា [ការដកដង្ហើមឱ្យស្ងប់](/games/calm-breathing/) អាចជាវិធីបញ្ចប់យ៉ាងស្រួលៗមួយ។ សម្រាប់គំនិតបន្ថែមនៅក្បែរគ្រែ សូមមើល [សកម្មភាពដំណាក់កាលចុងក្រោយ](/activities/late-stage/) ហើយសម្រាប់អារម្មណ៍មិនស្រួលនៅពេលល្ងាច សូមមើល [អារម្មណ៍មិនស្ងប់នៅពេលល្ងាច](/caregiving/late-day-restlessness/)។

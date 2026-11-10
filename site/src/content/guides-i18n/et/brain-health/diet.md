@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND ja Vahemere dieet ning dementsus: mida uuringud näitavad"
+seoTitle: "MINDi dieet ja dementsus: mida uuringud näitavad"
+description: "Mida uuringud ütlevad MINDi ja Vahemere dieedist dementsuse puhul, miks üks suur uuring selget kasu ei leidnud ja kuidas aidata dementsusega inimesel hästi süüa."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Vaatlusuuringud seovad Vahemere stiilis ja MINDi toitumismustreid väiksema
+  dementsuseriskiga, kuid mitte järjekindlalt. Kolmeaastane MINDi dieedi
+  randomiseeritud uuring, mis avaldati 2023. aastal, ei leidnud mõtlemises ega
+  aju-uuringutes olulist erinevust võrreldes kontrollrühmaga. Ükski toit ega
+  toidulisand ei ole tõestatult dementsust ennetav. Dementsusega elavate
+  inimeste jaoks on kõige olulisem süüa ja juua piisavalt.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Mõned, kuid mitte kõik, inimesi aja jooksul jälgivad uuringud seovad Vahemere ja MINDi toitumismustreid väiksema dementsuseriskiga."
+  - "2023. aasta uuringus, milles osales 604 vanemat täiskasvanut, ei saavutanud MINDi dieeti pidanud inimesed kolme aasta pärast mõtlemistestides ega aju-uuringutes paremaid tulemusi kui kontrollrühma inimesed."
+  - "National Institute on Aging ütleb, et puuduvad tõendid selle kohta, et mingi kindla toidu söömine või vältimine ennetaks Alzheimeri tõbe, ning ükski vitamiin ega toidulisand ei ole tõestatult Alzheimeri tõbe ennetav."
+  - "Köögivilja-, puuvilja-, uba-, täisteratoitude- ja kalarikas toitumine toetab südame tervist ning võib aidata selliste riskide puhul nagu kõrge vererõhk ja diabeet."
+  - "Dementsusega elavate inimeste jaoks on näputoit, kontrastsed taldrikud, rahulikud söögiajad ja regulaarne joomine sageli olulisemad kui mõni kindel dieet."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Kas MINDi dieet ennetab dementsust?"
+    a: "Seda ei ole näidatud. Vaatlusuuringud seostasid MINDi dieeti väiksema riskiga, kuid 2023. aastal avaldatud kolmeaastane randomiseeritud uuring ei leidnud MINDi dieeti pidanud inimeste ja kontrollrühma inimeste vahel olulist erinevust mõtlemistestide tulemustes ega aju-uuringutes. Mõlema rühma tulemused paranesid veidi ja nad kaotasid sarnases koguses kaalu."
+  - q: "Mis vahe on MINDi dieedil ja Vahemere dieedil?"
+    a: "Vahemere dieet rõhutab köögivilju, puuvilju, täisteratooteid, ube, kala ja oliiviõli ning sisaldab vähe punast liha ja maiustusi. MINDi dieet ühendab selle vererõhu jaoks mõeldud DASH-dieediga ning lisab rõhu rohelistele lehtköögiviljadele ja marjadele, piirates samal ajal punast liha, maiustusi, juustu, võid ja praetud toitu."
+  - q: "Kas on toite või toidulisandeid, mis ennetavad Alzheimeri tõbe?"
+    a: "Ei. National Institute on Aging ütleb, et puuduvad tõendid selle kohta, et mingi kindla toidu söömine või vältimine ennetaks Alzheimeri tõbe või vanusega seotud mõtlemisvõime langust, ning ükski vitamiin ega toidulisand ei ole tõestatult Alzheimeri tõbe ennetav. Enne toidulisandite võtmist rääkige arstiga."
+  - q: "Milliseid toite on dementsusega inimesel kõige lihtsam süüa?"
+    a: "Suu-suurused näputoidud, näiteks võileivatükid, kanatükid, apelsinilõigud või aurutatud köögiviljatükid, on sageli lihtsamad kui söögiriistade kasutamine. Kui närimine või neelamine on raske, võivad aidata pehmed toidud, näiteks seguhuuptäid, õunakaste või kodujuust. Kui esineb köhimist või lämbumist, küsige arstilt neelamise hindamise kohta."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,175 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Võib-olla olete lugenud, et „ajule kasulik” dieet hoiab Alzheimeri tõbe eemal.
+Tegelik pilt on tagasihoidlikum. Mõned toitumismustrid on seotud väiksema
+riskiga uuringutes, mis jälgivad inimesi aja jooksul, kuid seni parim uuring ei
+leidnud selget kasu. See leht selgitab mõlemat ning pöördub seejärel selle
+poole, mis on tavaliselt kõige olulisem inimese jaoks, kes juba elab
+dementsusega: süüa ja juua piisavalt ning nautida seda.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+See on üldine teave, mitte meditsiiniline nõuanne. Enne oma või kellegi teise
+toitumise muutmist rääkige arsti või toitumisspetsialistiga. Vaadake ka meie
+[meditsiinilist lahtiütlust](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Mis on Vahemere ja MINDi dieet?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) kirjeldab neid nii
+([NIA dieedist ja Alzheimeri tõvest](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Vahemere dieet:** rohkelt puu- ja köögivilju, täisteratooteid, ube, kala
+  ja mereande ning oliiviõli, vähesel määral punast liha, mune ja maiustusi.
+- **MINDi dieet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  Vahemere dieedi ja vererõhu jaoks mõeldud DASH-dieedi segu. Selle keskmes on
+  köögiviljad, eriti rohelised lehtköögiviljad; marjad; täisteratooted; oad;
+  pähklid; kala vähemalt kord nädalas; ja oliiviõli. See piirab punast liha,
+  maiustusi, juustu, võid või margariini ning praetud või kiirtoitu.
 
-## Do these diets lower dementia risk?
+## Kas need dieedid vähendavad dementsuseriski?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Tõendusmaterjal on ebaühtlane. NIA ütleb, et mõned, kuid mitte kõik,
+vaatlusuuringud on seostanud Vahemere ja MINDi dieeti väiksema dementsuseriskiga
+võrreldes läänepärase toitumisega, mis sisaldab rohkem punast liha, küllastunud
+rasvu ja suhkrut.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024. aasta Lanceti komisjon vaatas uuringud üksikasjalikumalt läbi
+([Lanceti komisjon](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Üks kohortuuringute ülevaade seostas kõrget toitumise kvaliteeti umbes 20%
+  väiksema dementsuseriskiga.
+- Suurem analüüs, mis hõlmas kolme kohorti, seostas MINDi dieedi rangemat
+  järgimist väiksema riskiga.
+- Kuid Rootsi uuring, mis jälgis 28 025 keskealist inimest umbes 20 aasta
+  jooksul, ei leidnud väiksemat riski ei soovitatud toitumise ega Vahemere
+  stiilis dieedi puhul.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Vaatlusuuringud ei saa põhjust ja tagajärge tõestada. Inimesed, kes nii toituvad,
+erinevad sageli ka muul viisil, näiteks sissetuleku, hariduse, liikumise ja
+tervishoiuteenuste kättesaadavuse poolest. Komisjon järeldas, et tervisliku
+toitumise kohta ei ole piisavalt tõendeid, et väita selle otsest dementsust
+ennetavat mõju, kuigi rohkelt puu- ja köögiviljade söömine ning vähem
+ülitöödeldud toitude tarbimine on paljude terviseseisundite jaoks kasulik ja
+mõjutab riskitegureid nagu ülekaal, diabeet ja kõrge vererõhk. Dieeti ei lisatud
+[14 riskiteguri](/brain-health/risk-factors/) loetellu.
 
-## What did the 2023 MIND diet trial find?
+## Mida leidis 2023. aasta MINDi dieedi uuring?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Seni tugevaim katse oli randomiseeritud uuring, mis avaldati 2023. aastal ajakirjas New England
+Journal of Medicine
+([MINDi dieedi uuring](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Kes:** 604 täiskasvanut vanuses 65 ja vanemad Chicago ja Bostoni piirkonnas,
+  kellel polnud mõtlemisprobleeme, kellel oli lähedane sugulane dementsusega,
+  kes olid ülekaalulised ja kelle varasem toitumine oli vähem tervislik.
+- **Mida tehti:** kolme aasta jooksul järgis pool osalejatest MINDi dieeti ja
+  pool jätkas oma tavapärast toitumist. Mõlemal rühmal paluti süüa umbes 250
+  kilokalorit päevas vähem ning nad said regulaarselt nõustamist
+  toitumisspetsialistidelt.
+- **Tulemus:** mõtlemistestide tulemused paranesid veidi **mõlemas** rühmas.
+  Rühmade vaheline erinevus oli väike ja **statistiliselt ebaoluline**.
+  Aju-uuringud näitasid samuti mõlemas rühmas sarnaseid muutusi.
+- **Kaal:** mõlemad rühmad kaotasid umbes 5 kilogrammi.
 
-### Why might the trial have found no difference?
+### Miks ei pruukinud uuring erinevust leida?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Uurijad pakkusid välja mitu võimalikku põhjust. Ka kontrollrühm parandas
+tõenäoliselt oma toitumist, sest kaotas sarnase koguse kaalu. Korduv testimine
+võib tulemusi iseenesest parandada, sest inimesed harjuvad testidega. Kolm
+aastat võib olla liiga lühike aeg. Enamik osalejaid oli kõrgharidusega ja Euroopa
+päritolu, seega ei pruugi tulemused kõigi kohta kehtida.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Aus kokkuvõte on seega järgmine: MINDi dieet ei olnud kolme aasta jooksul parem
+kui mõistlik vähendatud kaloraažiga dieet. See ei tähenda, et tervislik
+toitumine oleks mõttetu. See tähendab, et keegi ei peaks ootama, et mõni kindel
+dieet dementsust ennetaks.
 
-## What about specific foods and supplements?
+## Kuidas on lood kindlate toitude ja toidulisanditega?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA ütleb, et puuduvad tõendid selle kohta, et mingi kindla toidu söömine või
+vältimine ennetaks Alzheimeri tõbe või vanusega seotud mõtlemisvõime langust.
+Mustikaid, lehtköögivilju ja kurkumat on uuritud, kuid tõendeid ei ole. Samuti
+ütleb NIA, et ükski vitamiin ega toidulisand ei ole tõestatult Alzheimeri tõbe
+ennetav ning ühtegi neist ei soovitata selleks otstarbeks. NIA hoiatab, et
+tõendamata tooted, mida müüakse Alzheimeri tõve ennetamiseks, võivad olla
+ebaturvalised, raha raiskamine või mõlemad ning võivad segada ettenähtud
+ravimeid, seega rääkige enne proovimist arstiga
+([NIA Alzheimeri tõve ennetamisest](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Kuidas hoida toitumist tervisliku ja nauditavana?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Enamiku vanemate täiskasvanute jaoks on eesmärk toit, mis on toitev, tuttav ja
+meeldiv, mitte range plaan:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Koostage toidukord lemmiktoitudest**, mis sobivad Vahemere toitumismustriga:
+  köögiviljad, puuviljad, oad, täisteratooted, kala ja oliiviõli.
+- **Jätke alles lemmikmaiustused.** Nauding ja isu on olulised, eriti hilisemas
+  eas.
+- **Sööge võimaluse korral koos teistega.** Ühised söögikorrad pakuvad head seltsi.
+- **Kokkake koos.** Köögiviljade pesemine või poti segamine on hea ühine
+  tegevus; vaadake [koduseid toimetusi](/activities/household-tasks/). Lemmik
+  pere retsept võib äratada ka [mälestusi](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Vanemad täiskasvanud ei peaks kaloreid vähendama ega kaalu langetama ilma
+arstiga rääkimata ning paastumisega kaasnevad lisariskid. Vaadake meie
+[paastumise juhendit](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Kuidas aidata dementsusega inimesel hästi süüa?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Dementsusega elavate inimeste puhul on tavaliselt peamine mure piisavalt
+söömine ja joomine. Alzheimer's Association märgib, et inimesed võivad unustada
+süüa, arvata, et on juba söönud, või tunda end valikute tõttu ülekoormatuna
+ning et ebapiisav toitumine võib suurendada käitumuslikke sümptomeid ja
+põhjustada kaalulangust
+([Alzheimer's Association toidust ja söömise kohta](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Need mõtted pärinevad Alzheimer's Associationilt, NIA-lt ja Alzheimer's Societylt:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Pakkuge näputoitu.** Suu-suurused tükid, mida on lihtne kätte võtta,
+   näiteks võileivatükid, kanatükid, kalapulgad, apelsinilõigud või aurutatud
+   brokoli, võimaldavad inimesel süüa ilma söögiriistadeta.
+2. **Kasutage laual kontrasti.** Nägemise muutused võivad raskendada toidu
+   eristamist taldrikust. Valged taldrikud või kausid kontrastse laualina peal
+   võivad aidata. Vältige mustrilisi nõusid ja laudlinu.
+3. **Serveerge korraga üks või kaks toitu.** Täis taldrik võib tunduda
+   ülekoormav.
+4. **Hoidke söögiajad rahulikud.** Lülitage teler välja, jätke laud lihtsaks ja
+   jätke piisavalt aega. NIA soovitab mitte kiirustada ega peale suruda.
+5. **Pakkuge sageli väikseid toidukordi ja vahepalasid.** NIA soovitab
+   väiksemaid, sagedasemaid toidukordi ja energiarikkaid vahepalasid, kui
+   inimene ei söö piisavalt
+   ([NIA nõuanded heaks toitumiseks](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Aidake joomisega.** Pakkuge päeva jooksul väikeseid tasse vett või muid
+   jooke ning rohkelt vett sisaldavaid toite, näiteks puuvilju, suppi,
+   piimakokteile ja smuutisid. Kui inimene ei taha vett, soovitab NIA proovida
+   mahla, maitsestatud vett, puljongit, piima või kofeiinivaba kohvi või teed.
+7. **Kontrollige temperatuuri.** Inimene ei pruugi märgata, et toit või jook on
+   liiga kuum.
+8. **Kohandage söögiriistu ja tasse.** Kausside kasutamine taldrikute asemel,
+   suurte käepidemetega lusikad ja kaanega tassid võivad söömist lihtsamaks
+   teha. Ärge muretsege korra pärast.
+9. **Muutke toit närimiseks ja neelamiseks lihtsamaks.** Lõigake toit väikesteks
+   tükkideks või pakkuge pehmeid toite. Kui inimene söömisel köhib või
+   lämbub, rääkige sellest tema arstile.
+10. **Vältige sundsöötmist.** NIA märgib, et isu väheneb Alzheimeri tõve
+    hilisemates staadiumides loomulikult.
 
-### Signs to tell the doctor about
+### Millest arstile rääkida
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Kaalulangus, toidust keeldumine, väsimus või nõrkus võivad olla märgid sellest,
+et inimene ei söö piisavalt. Alzheimer's Society märgib, et valusad hambad või
+hambaproteesid, masendus, kõhukinnisus ja ravimite muutused võivad kõik isu
+vähendada
+([Alzheimer's Society isust](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+NIA loetleb vedelikupuuduse tunnustena suukuivust, peapööritust, kiiret
+südamerütmi ja hallutsinatsioone
+([NIA levinud terviseprobleemidest](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Rääkige arstiga
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Enne suuremate muudatuste tegemist oma või kellegi teise toitumises rääkige
+arsti või toitumisspetsialistiga, eriti kui teil on diabeet, neeruhaigus,
+neelamisraskused või hiljutine kaalulangus. Dementsusega elava inimese puhul
+küsige, kui palju ta peaks päevas sööma ja jooma ning kas toitumisspetsialist
+või toidulisandid võiksid aidata.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Otsige kiiresti abi, kui keegi lämbub või tal tekib äkki segasus, tugev
+peapööritus või minestamine.

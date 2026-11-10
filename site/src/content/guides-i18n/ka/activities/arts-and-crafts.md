@@ -1,32 +1,34 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "ხელოვნება და ხელობა დემენციით მცხოვრები მოზრდილებისთვის"
+seoTitle: "ხელოვნება დემენციისას: მოზრდილურად, არა საბავშვოდ"
+description: "მოზრდილებისთვის შესაფერისი ხელოვნებისა და ხელობის იდეები დემენციით მცხოვრები ადამიანებისთვის: აკვარელი, კოლაჟი, ყვავილების მოწყობა და მარტივი რჩევები."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  დემენციით მცხოვრები მოზრდილებისთვის კარგი ხელოვნება და ხელობა გარეგნულადაც და
+  შეგრძნებითაც მოზრდილური უნდა იყოს: აკვარელი, ჟურნალებიდან გაკეთებული კოლაჟი,
+  ყვავილების მოწყობა, თიხა, მარტივი მისალოცი ბარათების დამზადება ან მოზრდილებისთვის
+  განკუთვნილი გასაფერადებელი გვერდები. წინასწარ მოამზადეთ რამდენიმე მასალა,
+  საჭიროების შემთხვევაში დაეხმარეთ პირველ მონასმში, იმუშავეთ საუბრის ფონზე და
+  ერთად გატარებულ დროს მიიჩნევდეთ მთავარ მნიშვნელობად. დასრულებული ნამუშევარი
+  სავალდებულო არ არის.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "აირჩიეთ მოზრდილური მასალები და თემები, მაგალითად აკვარელის ქაღალდი, ნამდვილი ყვავილები და ჟურნალის სურათები და არა ბრჭყვიალა, სტიკერები ან მულტფილმის სტილის ფურცლები."
+  - "ყურადღება გაამახვილეთ პროცესზე: ფერებზე, თიხის შეხების შეგრძნებაზე, საუბარზე. დასრულებული ნამუშევარი приятный დამატებაა და არა მთავარი მიზანი."
+  - "შეძლებისდაგვარად მიეცით საქმიანობას მიზანი, მაგალითად შვილიშვილისთვის ბარათის დამზადება ან მაგიდისთვის მორთულობის მომზადება."
+  - "დაეხმარეთ ადამიანს დაწყებაში, შემდეგ კი ცოტა უკან დაიხიეთ. ხშირად საკმარისია ფუნჯის პირველი მოძრაობა ერთად გააკეთოთ."
+  - "პროექტის ერთ ჯერზე დასრულება აუცილებელი არ არის და მისი ადრე შეწყვეტაც ყოველთვის მისაღებია."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "როგორ ავარიდო საქმიანობას საბავშვო შეგრძნება?"
+    a: "გამოიყენეთ ნამდვილი სამხატვრო მასალები, მოზრდილური თემები და პატივისცემით სავსე ტონი. ბრჭყვიალა და მულტფილმის სტილის გვერდები შეცვალეთ აკვარელის ქაღალდით, ქსოვილით, ყვავილებით, ჟურნალის ფოტოებით და მოზრდილებისთვის განკუთვნილი დეტალური გასაფერადებელი გვერდებით. არასდროს შეაქოთ ნამუშევარი ისე, როგორც ბავშვის ნახატს შეაქებდით; ისაუბრეთ მასზე ისე, როგორც ნებისმიერ მოზრდილ მეგობართან ისაუბრებდით."
+  - q: "რა სახის ხელოვნების საქმიანობები მუშაობს დემენციის მოგვიანო ეტაპზე?"
+    a: "მოგვიანო ეტაპზე ყველაზე კარგად მარტივი, შეგრძნებებზე ორიენტირებული პროექტები მუშაობს: დიდი ფუნჯით ფართო მონასმების გაკეთება, რბილი თიხის დაჭერა, ვაზაში რამდენიმე ყვავილის მოწყობა ან ქსოვილის ნაჭრების შეხებით დალაგება. შესაძლოა, საჭირო გახდეს მოძრაობის ერთად დაწყება. იმის ყურებაც, როგორ ხატავთ თქვენ, და ფერებზე საუბარიც მონაწილეობის ერთ-ერთი ფორმაა."
+  - q: "რა ვქნა, თუ ამბობს, რომ ხატვა არ შეუძლია?"
+    a: "წნეხი მოაცილეთ. სცადეთ ისეთი პროექტები, რომლებსაც სწორი პასუხი არ აქვს, მაგალითად აკვარელის თავისუფალი ლაქები, კოლაჟი ან ყვავილების მოწყობა. ასევე შეგიძლიათ უთხრათ, რომ კონკრეტულ საკითხში გჭირდებათ დახმარება, მაგალითად ბარათისთვის ფერების შერჩევაში, რათა საქმე გამოცდას არ ჰგავდეს, არამედ თხოვნას."
+  - q: "გასაფერადებელი გვერდები ძალიან საბავშვო არ არის მოზრდილებისთვის?"
+    a: "არა, თუ ისინი მოზრდილებისთვის არის შექმნილი. აირჩიეთ მოზრდილური თემების გვერდები, მაგალითად ბაღები, ნაქსოვი ნამუშევრები, მანქანები ან პეიზაჟები, და წარმოადგინეთ ისინი დასვენების საშუალებას და არა გაკვეთილად. ჩვენი გასაფერადებელი გვერდების ამობეჭდვა ან ტაბლეტზე გაფერადებაც შეიძლება."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +50,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+ხელოვნება და ხელობა დემენციით მცხოვრებ ადამიანებს თვითგამოხატვის საშუალებას აძლევს ისე, რომ ამას სწორი სიტყვების პოვნა არ სჭირდება. Alzheimer's Association აღნიშნავს, რომ ხელოვნების პროექტებმა შეიძლება მოიტანოს [მიღწევის და მიზნის შეგრძნება](https://www.alz.org/help-support/caregiving/daily-care/art-music), ასევე თვითგამოხატვის შესაძლებლობა როგორც მზრუნველისთვის, ისე დემენციით მცხოვრები ადამიანისთვის. მთავარი ის არის, რომ ყველაფერი მოზრდილური, მარტივი და წნეხისგან თავისუფალი დარჩეს. ეს გვერდი გთავაზობთ კონკრეტულ პროექტებს, მათი მომზადების გზებს და იმის მითითებებს, თუ როგორ მოვარგოთ ისინი ცვლილებებს.
 
-## What makes an art activity adult and not childish?
+## რა ხდის ხელოვნების საქმიანობას მოზრდილურად და არა საბავშვოდ?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+მოზრდილური ხელოვნების საქმიანობა იყენებს ნამდვილი მასალებს, მოზრდილურ თემებსა და პატივისცემით სავსე ტონს. Alzheimer's Association გვირჩევს, პროექტები მოზრდილურ დონეზე შევინარჩუნოთ და ავარიდოთ თავი ყველაფერს, რაც შეიძლება დამამცირებლად ან საბავშვოდ აღიქმებოდეს.
 
-| Feels childish | Feels adult |
+| საბავშვოდ ჟღერს | მოზრდილურად ჟღერს |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| ბრჭყვიალა, ქაფის სტიკერები, მოძრავი თვალები | აკვარელის ქაღალდი, ქსოვილი, გაპრესილი ყვავილები |
+| მულტფილმის სტილის გასაფერადებელი ფურცლები | ბაღების, ნაქსოვი ნამუშევრების, მანქანების ან პეიზაჟების გასაფერადებელი გვერდები |
+| „კარგია“ თითოეულ მონასმზე | ნამდვილი საუბარი: „ეს ლურჯი ძალიან ლამაზად გამოიყურება მწვანეს გვერდით“ |
+| ხელობა, რომელსაც გამოყენება არ აქვს | ბარათი მეგობრისთვის, მაგიდის მორთულობა, საჩუქარი |
+| ინსტრუქციები, რომლებიც გაკვეთილს ჰგავს | მოწვევა: „დამეხმარებით ამაში?“ |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+იფიქრეთ ადამიანის საკუთარ გემოვნებაზე. ადამიანს, რომელსაც ხელნაკეთი ნივთები უყვარდა, შესაძლოა ქსოვილთან მუშაობა სიამოვნებდეს. პენსიაზე გასულ ინჟინერს შეიძლება მოეწონოს დიდი ნაწილების მქონე მოდელის აწყობა ან პროექტისთვის წვრილი დეტალების დალაგება. ყოფილ მასწავლებელს შეიძლება ბარათების დამზადება სიამოვნებდეს.
 
-## Why focus on the process, not the product?
+## რატომ არის პროცესი უფრო მნიშვნელოვანი, ვიდრე შედეგი?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+იმიტომ, რომ ერთად გატარებული დრო თავად არის მთავარი. Alzheimer's Association-ის [სახლში გასაკეთებელი საქმიანობების სახელმძღვანელო](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) გვირჩევს, ყურადღება პროცესზე გავამახვილოთ და არა შედეგზე. ნახატი, რომელიც „უბრალოდ ლურჯია“, მაინც ნახატია. კოლაჟი სამი სურათითაც კოლაჟია.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+ასოციაცია ასევე აღნიშნავს, რომ პროფესიონალი მხატვარი შესაძლოა იმედგაცრუებული დარჩეს საკუთარი მუშაობის ცვლილებების გამო, მაშინ როცა მოყვარული ადამიანი ახალ შესაძლებლობას შეიძლება სიამოვნებით შეხვდეს. თუ ადამიანი გამოცდილ მხატვარს წარმოადგენდა, სცადეთ ის საშუალება, რომელიც მას კარგად არ დაუფლებია, რათა ეს თამაშს ჰგავდეს და არა შედარებას.
 
-## Arts and crafts ideas to try
+## ხელოვნებისა და ხელობის იდეები, რომელთა გამოცდაც შეგიძლიათ
 
-Each idea includes how to make it simpler if it becomes hard.
+თითოეულ იდეას თან ახლავს მითითება, თუ როგორ გავამარტივოთ იგი, თუკი რთული გახდა.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **აკვარელის თავისუფალი ლაქები.** დაასველეთ სქელი აკვარელის ქაღალდი და მიეცით ადამიანს საშუალება, დიდი ფუნჯით ფერი დააწვეთოს მასზე. ფერები თავისით ვრცელდება, ამიტომ არასწორი შედეგი არ არსებობს. *უფრო მარტივად:* შესთავაზეთ მხოლოდ ორი ფერი ან დახატეთ წყლით მუქ ქაღალდზე, სადაც სველი კვალი ჩანს.
+2. **კოლაჟი ჟურნალებიდან.** წინასწარ ამოჭერით სურათები ბაღების, სამზარეულოს, მანქანების, მოგზაურობის ან ადამიანის ძველი ჰობების შესახებ ჟურნალებიდან. მიეცით მას არჩევანის და სურათების მუყაოზე დაწებების შესაძლებლობა. *უფრო მარტივად:* შესთავაზეთ ოთხი წინასწარ ამოჭრილი სურათი და წებოვანი ფანქარი და დაწებება ერთად გააკეთეთ.
+3. **ყვავილების მოწყობა.** Alzheimer's Foundation of America გვთავაზობს [მოჭრილი ყვავილებისა და მწვანილის](https://alzfdn.org/dementia-activity-gardening/) მარტივ სეზონურ კომპოზიციებად მოწყობას. გამოიყენეთ მძიმე, მყარი ვაზა და წინასწარ მოჭრილი ღეროები. *უფრო მარტივად:* ჩასვით რამდენიმე ღერო პატარა ჭიქაში, თითო-თითოდ.
+4. **გაპრესილი ყვავილების ბარათები.** ერთი კვირის განმავლობაში დააპრესეთ თაიგულიდან ყვავილები წიგნის გვერდებს შორის, შემდეგ კი წებოთი მიამაგრეთ გადაკეცილ მუყაოზე. *უფრო მარტივად:* თქვენ დაადეთ წებო, მათ კი ყვავილი დააწვეს.
+5. **მოზრდილებისთვის განკუთვნილი გასაფერადებელი გვერდები.** აირჩიეთ მკაფიო კონტურების და რეალური თემების გვერდები. ჩვენი დასაბეჭდი [გასაფერადებელი გვერდების](/games/coloring/) გაფერადება ეკრანზეც შეიძლება ფერის და შემდეგ სურათის ნაწილის შეხებით. *უფრო მარტივად:* უფრო დიდი ნაწილები, ნაკლები ფერები, სქელი მარკერები.
+6. **თიხა ან რბილი ცომი.** გააბრტყელეთ, დააჭირეთ და მოაყალიბეთ ჰაერზე მშრალი თიხა ან რბილი პლასტილინის მსგავსი მასალა. ფოთლის თიხაზე დაჭერით მარტივი ანაბეჭდი მიიღება. *უფრო მარტივად:* მხოლოდ დაჭერა და გათხელებაც სრულფასოვანი საქმიანობაა. ყურადღება მიაქციეთ, რომ ადამიანი თიხას პირში არ ჩაიდოს.
+7. **ბარათების დამზადება.** Alzheimer's Association გვთავაზობს, ეს რეალურ დავალებად წარმოვაჩინოთ: „მეგობარს გამხმნევ ბარათს ვუგზავნით. დამეხმარებით?“ წინასწარ ამოჭრილი მუყაო და ყვავილების ან მარკების რამდენიმე სტიკერი კარგად გამოდგება.
+8. **ალბომის შექმნა.** ერთად მოათავსეთ ძველი ფოტოების ასლები, ღია ბარათები ან ბილეთები ალბომის გვერდებზე. თითოეულზე მსუბუქად ისაუბრეთ. წარსულზე ნაზი საუბრის იდეებისთვის იხილეთ ჩვენი [მოგონებების გზამკვლევი](/activities/reminiscence/).
+9. **ქსოვილისა და ტექსტურის დაფები.** მყარ მუყაოზე მიაწებეთ ველვეტის, ხავერდის, ჯუთის და აბრეშუმის ნაჭრები. მისი შექმნა უკვე საქმიანობაა; მოგვიანებით შეხებაც კიდევ ერთი შესაძლებლობაა. დამატებითი იდეები იხილეთ ჩვენს [შეგრძნებებზე ორიენტირებული საქმიანობების გზამკვლევში](/activities/sensory/).
+10. **ხის მარტივი დამუშავება.** ადამიანისთვის, რომელსაც ხის დამუშავება უყვარდა, გლუვი ხის ნაჭრის დაგლუვება ან ჩიტის სახლის ნაკრების შეღებვა ნაცნობ შეგრძნებას შეიძლება იძლეოდეს. მოაცილეთ ბასრი ხელსაწყოები და თვალყური ადევნეთ პროცესს.
+11. **ხატვა მუსიკის ფონზე.** ჩართეთ საყვარელი ჩანაწერი და დახატეთ ფორმები ან ფერები, რომლებიც განწყობას ერგება. ეს აერთიანებს ორ საქმიანობას, რომელსაც ბევრი ადამიანი სიამოვნებით აკეთებს. იხილეთ [მუსიკალური საქმიანობები](/activities/music/).
 
-## How do I set up an art session?
+## როგორ მოვამზადო ხელოვნების შეხვედრა?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **წინასწარ მოამზადეთ ყველაფერი.** ამოჭერით, მოჭერით და დალაგეთ ყველაფერი, სანამ ადამიანს მიიწვევთ. მაკრატლის ძებნისას ლოდინმა შეიძლება ინტერესი გააქროს.
+2. **მცირედით დაიწყეთ.** ორი ან სამი ფერი, ერთი ფუნჯი, ერთი ფურცელი. ზედმეტად ბევრმა არჩევანმა შესაძლოა გადატვირთოს ადამიანი.
+3. **დაიცავით მაგიდა.** პლასტმასის ტილო ან ძველი ზეწარი ნიშნავს, რომ სისუფთავეზე ნერვიულობა საჭირო არ იქნება.
+4. **დაჯექით გვერდიგვერდ.** იმუშავეთ თქვენს ნამუშევარზე მის გვერდით. ეს ერთობლივ საქმიანობას ჰგავს და არა ზედამხედველობას.
+5. **დაეხმარეთ დაწყებაში.** Alzheimer's Association აღნიშნავს, რომ შესაძლოა ფუნჯის მოძრაობის დაწყება ადამიანთან ერთად დაგჭირდეთ. დაწყების შემდეგ ბევრი ადამიანი თავად აგრძელებს.
+6. **იმუშავეთ საუბრის ფონზე.** ისაუბრეთ ფერებსა და ტექსტურებზე ან მიეცით ხელოვნებას საშუალება, მოგონებებამდე მიგიყვანოთ. მოერიდეთ გამოცდის მსგავს კითხვებს, მაგალითად „ეს რა არის?“
+7. **საკმარისი დრო დაუთმეთ.** პროექტის ერთ ჯერზე დასრულება აუცილებელი არ არის.
 
-## How do I adapt art as dementia changes?
+## როგორ მოვარგო ხელოვნება დემენციის ცვლილებებისას?
 
-| Stage | What tends to work | What to adjust |
+| ეტაპი | რა მუშაობს, როგორც წესი | რისი შეცვლაა საჭირო |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| ადრეული | ჯგუფური შეხვედრები, დეტალური გაფერადება, ალბომები, ბარათების დამზადება, ფოტოდან ხატვა | შესთავაზეთ პროექტის არჩევანი; შეინარჩუნეთ სოციალური გარემო |
+| საშუალო | წინასწარ ამოჭრილი კოლაჟი, აკვარელის თავისუფალი ლაქები, ყვავილების მოწყობა, დიდი ნაწილების გაფერადება | ერთდროულად ერთი ნაბიჯი; ჭრა და წებება თქვენ გააკეთეთ |
+| გვიანი | ფართო მონასმები, თიხის დაჭერა, ქსოვილის შეხება, თქვენი ხატვის ყურება | ყურადღება გაამახვილეთ შეგრძნებებზე; საჭიროების შემთხვევაში ნაზად მიუთითეთ ხელი |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS აღნიშნავს, რომ გვიან ეტაპებზე საქმიანობები ხშირად მარტივდება და შეგრძნებებზე ორიენტირდება. იმის ყურება, როგორ ხატავს სხვა ადამიანი, და ფერებზე საუბარი მონაწილეობის ნამდვილი გზაა. ეტაპების მიხედვით დამატებითი იდეებისთვის იხილეთ [საქმიანობები ყველა ეტაპისთვის](/activities/ideas/).
 
-## Safety with art supplies
+## უსაფრთხოება ხელოვნების მასალებთან მუშაობისას
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- აირჩიეთ არატოქსიკური საღებავები, მარკერები და წებოვანი ფანქრები.
+- მაკრატლები, საკანცელარიო დანები და ცხელი წებოს პისტოლეტები მიუწვდომელ ადგილას შეინახეთ. ნებისმიერ ჭრას წინასწარ და თქვენ თავად გააკეთეთ.
+- ყურადღება მიაქციეთ, არ ჩაიდოს თუ არა ვინმემ თიხა, საღებავი ან მცირე ნივთები პირში.
+- წყლისთვის და ვაზებისთვის გამოიყენეთ მყარი, მძიმე ჭურჭელი.
 
-## When should we stop?
+## როდის შევწყვიტოთ?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+შეწყვიტეთ მაშინ, როცა ყურადღება იფანტება ან იმედგაცრუება ჩანს. Alzheimer's Association გვთავაზობს, საქმიანობა შევწყვიტოთ ან შევცვალოთ, როცა ყურადღების ხანგრძლივობა მცირდება ან იმედგაცრუება იზრდება. პროექტი უსაფრთხო ადგილას დადეთ და შესთავაზეთ რამე დამამშვიდებელი. ხვალ შეგიძლიათ დაუბრუნდეთ ან საერთოდაც აღარ დაუბრუნდეთ. ორივე ვარიანტი მისაღებია.
 
-## Display the work, if the person wants
+## ნამუშევრის გამოჩენა, თუ ადამიანს სურს
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+ნახატის მაცივარზე დაკიდება ან კოლაჟის ჩარჩოში ჩასმა შეიძლება პატივისცემის მშვიდი გამოხატულება იყოს. ჯერ ჰკითხეთ. ზოგიერთ ადამიანს უყვარს საკუთარი ნამუშევრის კედელზე დანახვა; სხვებს შესაძლოა ეს არ სურდეთ.
 
-## Pair art with our games
+## შეუთავსეთ ხელოვნება ჩვენს თამაშებს
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+იმ დღეებში, როცა საღებავების მომზადება ზედმეტი ხდება, [Coloring](/games/coloring/) ტაბლეტზე მუშაობს უწვეთავად. [Picture Puzzle](/games/picture-puzzle/) მთელ სურათს ხედვად ტოვებს ორიენტირისთვის, სანამ ნაწილებს ცვლით. [Conversation Cards](/games/conversation-cards/) გთავაზობთ ღია შეკითხვებს, რომლებმაც სურათიდან საუბრამდე შეიძლება მიგიყვანოთ. ყველა მათგანს არ აქვს ტაიმერი და ქულები. ასევე შეგიძლიათ ამობეჭდოთ გვერდები ჩვენი [დასაბეჭდი საქმიანობების](/activities/printable/) კოლექციიდან.

@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Nola aukeratu dementziarako aplikazioak eta jokoak"
+seoTitle: "Nola aukeratu dementziarako aplikazioak: kontrol-zerrenda"
+description: "Dementzia duten pertsonak zaintzen dituztenentzat kontrol-zerrenda: helburua zehaztu, tenporizadoreak eta iragarkiak saihestu, pribatutasuna egiaztatu eta frogen baieztapenak kontuz irakurri."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Hasi aplikazioak zer egitea nahi duzun pentsatuz: estimulu leuna,
+  oroitzapenak, lasaitasuna edo harremana. Ondoren, aukeratu gaur egun
+  pertsonaren gaitasunetara egokitzen den bat: irudi handiak, tenporizadorerik,
+  punturik edo iragarkirik gabe, eta gelditzeko modu erraza. Egiaztatu zer
+  datu biltzen dituen eta ezaba ditzakezun. Kontuz ibili aplikazio batek
+  dementzia prebenitzen edo tratatzen duela dioten baieztapenekin; ikerketa
+  bakarra ez da froga.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Erabaki lehenik helburua: estimuluak, oroitzapenak, lasaitasunak edo harremanak aplikazio desberdinak behar dituzte."
+  - "Egokitu pertsonaren eguneko gaitasunetara, ez etapa-etiketa batera, eta mantendu kontrolak sinpleak."
+  - "Saihestu tenporizadoreak, puntuak, bizitzak, boladak, iragarkiak edo erosketa-mezuak dituzten aplikazioak."
+  - "Egiaztatu datuen bilketa, partekatzea eta ezabaketa. HIPAAk normalean ez ditu kontsumitzaileen aplikazioak estaltzen."
+  - "Mesfidatu «dementzia prebenitzen du» dioen baieztapenekin. Saiakera bakarra, edo aplikazioan puntuazio hobeak lortzea, ez da froga."
+  - "Golden Moments aisialdirako jarduera bat da. Ez du baieztapen klinikorik egiten."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Burmuin-jokoek dementzia prebeni dezakete?"
+    a: "Ez dago froga onik merkataritzako burmuin-jokoen aplikazioek dementzia prebenitzen edo moteltzen dutenik. National Institute on Aging erakundearen arabera, ez dago nahikoa frogarik esateko merkatuan dauden burmuin-entrenamenduko aplikazioek ikerketa-saiakuntza handi batean probatutako entrenamendu egituratuaren eragin bera dutenik. Aukeratu aplikazioak gozatzeko eta harremana indartzeko, ez botika gisa."
+  - q: "Dementziarako aplikazio bat HIPAAk estalita dago?"
+    a: "Normalean ez. HIPAA, oro har, osasun-hornitzaileei, osasun-planei eta haien bazkideei aplikatzen zaie. Zuk deskargatutako aplikazio bat normalean ez dago estalita, haietako batek ematen ez badu behintzat. FTCren Health Breach Notification Rule arauak HIPAAk estaltzen ez dituen osasun-aplikazio asko estaltzen ditu."
+  - q: "Nolakoa izan beharko luke dementziarako joko on batek?"
+    a: "Irudi eta testu handiak eta argiak, pantaila bakoitzean egiteko gauza bakarra eta nabaria, tenporizadorerik edo punturik gabe, akatsetarako burrunbarik gabe, iragarkirik gabe, eta pausatzeko edo gelditzeko modu erraza. Helduentzat egina dela eman beharko luke, eta bigarren pertsona bat erraz batu ahal izatea."
+  - q: "Golden Momentsek memoria laguntzen duela dio?"
+    a: "Ez. Golden Momentsek elkarrekin egiteko jarduera sinpleak eskaintzen ditu, gozatzeko eta hitz egiteko. Ez du dementzia diagnostikatzen, tratatzen, prebenitzen edo neurtzen, eta ez dugu memoriari edo pentsamenduari buruzko baieztapenik egiten."
+  - q: "Dementziarako aplikazio batengatik ordaindu beharko nuke?"
+    a: "Probatu lehenik doako aukerak edo doako probaldiak, eta ikusi nola erantzuten duen pertsonak pare bat astean zehar. Aplikazio batengatik ordaintzeak ez du eraginkorrago egiten. Begiratu nola bertan behera utzi harpidetu aurretik."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Aplikazio-dendak adinekoentzat, memoriarako edo dementziarako etiketatutako jokoz beteta daude. Batzuk arreta handiz eginda daude. Beste batzuek, berriz, itxura medikoa duten promesak, jolasa proba bihurtzen duten tenporizadoreak, edo iragarkiak eta datu-bilketa gehitzen dituzte. Orrialde honek edozein aplikazio zuk zeuk ebaluatzeko modua ematen dizu. Ez ditugu beste produktu batzuk sailkatzen edo berrikusten.
 
-## What should I decide before choosing a dementia app?
+## Zer erabaki beharko nuke dementziarako aplikazio bat aukeratu aurretik?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Erabaki aplikazioak zer egitea nahi duzun. «Amarentzako joko bat» gauza oso desberdinak izan daitezke, eta helburu baterako aukerarik onena beste baterako aukera eskasa izan daiteke askotan.
 
-| Goal | What it looks like | What to look for |
+| Helburua | Nolakoa den | Zer bilatu |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Estimulu leuna | Bikoteak aurkitzea, sailkatzea, puzzle sinpleak, hitz-jokoak | Zailtasun doigarria, ikusgai geratzen diren irudiak, denbora-presiorik gabe |
+| Oroitzapenak | Argazki zaharrak, esaera ezagunak, gaztaroko musika | Zure argazkiak, galdera irekiak, galdetegi-galderarik gabe |
+| Lasaitasuna | Irudi motelak, soinu lasaiak, arnasketa, natura | Hasteko eta gelditzeko erraza, ezer keinukarik gabe, ezustekorik gabe |
+| Harremana | Elkarrekin jolastea edo hitz egitea, aurrez aurre edo bideoz | Bi pertsonarentzat pentsatua, elkarrizketarako abiapuntuak |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Dementzia duten pertsonekin egindako «estimulu kognitibo» egituratuari buruzko ikerketek, gehienetan, langile trebatu batek gidatutako talde-saioak dituzte, eztabaidarekin, hitz-jokoekin, puzzleekin, musikarekin eta jarduera sortzaileekin. [Cochrane-ren berrikuspen](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) batek batez besteko onura txikiak aurkitu zituen, ikerketen artean desberdinak. Horrelako programa sozial eta anitza ez da aplikazio bakarti baten berdina; beraz, hartu edozein aplikazio elkarrekin egiteko jarduera bat gehiago bezala, ez bakarra.
 
-## How do I know if an app fits the person's abilities?
+## Nola jakin dezaket aplikazio bat pertsonaren gaitasunetara egokitzen den?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Begiratu nola erantzuten duen, diagnostiko edo etapa-etiketa batean oinarritu beharrean. «Etapa berean» dauden bi pertsona oso desberdinak izan daitezke ikusmenean, entzumenean, eskuen kontrolan, hizkuntzan eta pantailekin duten erosotasunean. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) erakundeak iradokitzen du lehengo zaletasunak eta oraingo gaitasunak kontuan hartzea, eta lorpenetan baino gozamenari lehentasuna ematea.
 
-Signs of a good fit:
+Ondo egokitzen denaren seinaleak:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- asko konbentzitu gabe hasten da edo bat egiten du;
+- irribarre egiten du, iruzkinak egiten ditu edo istorio bat kontatzen du;
+- akatsak ez dirudi kezkatzen dutenik;
+- pozik uzten du jolasteari garaia denean.
 
-Signs it is a poor fit:
+Gaizki egokitzen denaren seinaleak:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- behin eta berriz «ezin dut» edo «hori zentzugabea da» esatea;
+- non ukitu nahasten da;
+- frustrazioa, lotsa edo gailua baztertzea;
+- zuk ia dena egiten baduzu bakarrik funtzionatzea.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Onazezina seinale bat da, ez gainditu beharreko zerbait. Ikusi [ezetz esaten duenean zer egin](/caregiving/when-they-say-no/). Aplikazioez haragoko etaparen araberako ideietarako, ikusi [hasierako etapako](/activities/early-stage/) eta [etapa aurreratuko](/activities/late-stage/) jarduerak.
 
-## What design features should I look for or avoid?
+## Zer diseinu-ezaugarri bilatu edo saihestu beharko nituzke?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Bilatu diseinu lasaia, sinplea eta helduentzakoa, eta saihestu presioa gehitzen duen edozer.
 
-| Look for | Be wary of |
+| Zer bilatu | Kontuz ibili honekin |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Irudi eta testu handiak, kontraste handia | Ikono txikiak, pantaila beteak |
+| Pantaila bakoitzean ekintza argi bat | Botoi asko, menuak edo urrats anitzeko jarraibideak |
+| Tenporizadorerik ez, edo desaktiba dezakezun tenporizadorea | Atzerako kontaketa, abiadura-bonusa, «zure denbora gainditu» |
+| Punturik ez, edo feedback leuna | Puntuak, bizitzak, boladak, sailkapenak, «garun-adina» |
+| Akatsak lasai kudeatzea | Burrunbak, X gorriak, «Oker» mezuak |
+| Helduentzako benetako irudiak | Marrazki bizidunetako gaiak edo umeentzako itxurakoak |
+| Lineaz kanpo funtzionatzea, hasteko konturik behar ez izatea | Erregistratu, saioa hasi edo edukia deskargatu behar izatea lehenik |
+| Pausatzeko eta gelditzeko erraza | Jolasarekin jarraitzeko edo aplikazioa baloratzeko leiho agerkariak |
+| Iragarkirik ez, prezio argia (behin bakarrekoa edo harpidetza) | Iragarkiak, ordainpeko elementuak, maizko erosketa-mezuak |
+| Bigarren pertsona bat erraz batzea | Jokalari bakarra, diseinu lehiakorra |
 
-Ads and purchase prompts are easy to tap by accident.
+Iragarkiak eta erosketa-mezuak erraz saka daitezke ustekabean.
 
-## How do I check an app's privacy?
+## Nola egiaztatu dezaket aplikazio baten pribatutasuna?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Egiaztatu zer biltzen duen aplikazioak, norekin partekatzen duen eta ezaba dezakezun. Instalatu aurretik:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Irakurri dendaren pribatutasun-laburpena.** Google Play-ren [datuen segurtasun atalak](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) eta App Store-ren [pribatutasun-informazio atalak](https://support.apple.com/en-us/102399) aplikazio batek bil eta parteka ditzakeen datu motak zerrendatzen dituzte. Bi enpresek adierazten dute garatzaileek ematen dutela informazio hori; beraz, abiapuntu bat da, ez auditoria bat.
+2. **Galdetu kontua behar duen.** Aplikazio batek irudiak edo joko sinpleak erakusten baditu soilik, agian ez dago arrazoirik zure izena, posta elektronikoa edo urtebetetzea jakin dezan.
+3. **Egiaztatu baimenak.** Benetan behar al ditu bikoteak aurkitzeko joko batek kokapena, kontaktuak, mikrofonoa edo zure argazki-liburutegi osoa? Desaktibatu behar ez duen guztia.
+4. **Bilatu iragarkiak eta analitika.** Publizitate- eta jarraipen-tresnek aplikazioaren erabilerari buruzko datuak bidal ditzakete beste enpresetara.
+5. **Aurkitu argazkiak nora doazen.** Familiako argazkiak gehitzen badituzu, gailuan geratzen dira ala zerbitzari batera igotzen dira? Ken ditzakezu?
+6. **Egiaztatu ezabaketa.** Begiratu pribatutasun-politikan edo datuen laburpenean datuak eta kontua nola ezabatu. Datuak ezin direla ezabatu dioen aplikazio batek arreta berezia merezi du, batez ere argazkiak edo osasun-xehetasunak gordetzen baditu.
+7. **Irakurri pribatutasun-politika** erantzun argiak aurkitzeko: zer biltzen den, zergatik, zenbat denboraz eta norekin partekatzen den.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAAk babesten al du dementziarako aplikazioetako informazioa?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Normalean ez, eta hori askori harrigarria egiten zaie. U.S. Department of Health and Human Services erakundeak [azaltzen du](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA osasun-planei, osasun-hornitzaile gehienei, osasun-datuen trukatzaileei eta haien bazkideei aplikatzen zaiela. Kasu gehienetan, ez ditu babesten erabilera pertsonalerako aplikazio batean sartzen dituzun datuak, estalitako erakunde batek edo haren bazkide batek aplikazioa eman ez badu behintzat. Aplikazio-denda bateko «dementziarako aplikazio» bat HIPAAren mugetatik kanpo egon ohi da, osasunaz hitz egiten badu ere.
 
-### What protects health data in apps that HIPAA does not cover?
+### Zerk babesten ditu HIPAAk estaltzen ez dituen aplikazioetako osasun-datuak?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission erakundearen Health Breach Notification Rule arauak horietako asko estaltzen ditu. 2024an, FTCk [aldaketak amaitu zituen](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule), araua HIPAAk estaltzen ez dituen osasun-aplikazioei eta antzeko teknologiei aplikatzen zaiela argituz. «Urraketa» batek baimenik gabeko ezagutarazteak barne hartzen ditu, ez hackeatzeak bakarrik, eta enpresek kaltetutako pertsonei eta FTCri jakinarazi behar diete. Hori zerbait gaizki doanean dagoen segurtasun-sare bat da, ez aplikazio batek behar duena bakarrik biltzen duela dioen promesa bat.
 
-## How should I read claims about research and evidence?
+## Nola irakurri beharko nituzke ikerketari eta frogei buruzko baieztapenak?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Irakurri frogen baieztapenak lasai, eta izan mesfidati bereziki promesa handienekin. Egin beharreko galderak:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Zer aztertu zen zehazki?** Entrenamendu-programa bati buruzko ikerketa batek ez du erakusten aplikazio bateko joko guztiek modu berean funtzionatzen dutenik.
+- **Nor aztertu zen?** Adineko pertsona osasuntsuekin lortutako emaitzak agian ez zaizkio aplikatuko dementzia duen pertsona bati.
+- **Zer neurtu zen?** Jokoan bertan hobetzea ez da eguneroko bizitzan, elkarrizketan, aldartean edo autonomian izandako aldaketaren berdina.
+- **Zenbaterainokoa da ikerketaren sendotasuna?** Ausazko kontrolatutako saiakuntza batek (RCT) aplikazioa erabiltzen duen talde bat erabiltzen ez duen talde batekin alderatzen du. Diseinu ona da, baina RCT txiki edo labur bat ez da froga. Bilatu bat datozen hainbat ikerketa, ikertzaile independenteek egindakoak.
+- **Gaixotasuna aldatzea dio?** Proba batean hobekuntza txikiak erakusten dituen ikerketa bat ez da froga bat aplikazio batek dementzia moteltzen, prebenitzen edo tratatzen duenik.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging erakundearen [adinekoen osasun kognitiboari buruzko orrialdeak](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) NIHk finantzatutako entrenamendu kognitibo egituratuaren saiakuntza handi bat deskribatzen du, eta ondoren irakurleei ohartarazten die kontuz ibiltzeko ordenagailuko eta lineako joko batzuek memoria eta pentsamendua hobetu ditzaketela dioten baieztapenekin. Dio oraindik ez dagoela nahikoa frogarik esateko merkatuan dauden burmuin-entrenamenduko aplikazioek saiakuntza horretan probatutako entrenamenduaren eragin bera dutenik. Gehiago irakur dezakezu gure [burmuin-jokoen eta frogen gida](/brain-health/brain-games/)n eta [dementzia prebenitzeari buruz ikerketek diotena](/brain-health/can-dementia-be-prevented/) orrialdean.
 
-### What is a public example of a misleading claim?
+### Zein da baieztapen engainagarri baten adibide publikoa?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016ko urtarrilean, FTCk [akordio bat iragarri zuen](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity «burmuin-entrenamendu» programaren egileekin. FTCk salatu zuen enpresak, froga egokirik gabe, baieztatu zuela bere jokoek adinarekin lotutako narriadura kognitiboa atzeratu zezaketela eta narriadura kognitibo arina, dementzia eta Alzheimer gaixotasuna prebeni zitzaketela. Enpresak 2 milioi dolar ordaintzea onartu zuen, eta etorkizunean horrelako baieztapenak egin aurretik froga zientifiko sendo eta fidagarriak izan behar ditu. Kasua oroigarri baliagarria da: marketin-hizkera ez da froga.
 
-### Which words are red flags?
+### Zein hitz dira abisu-seinaleak?
 
-Be cautious when an app or ad says it:
+Kontuz ibili aplikazio edo iragarki batek hau esaten duenean:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- dementzia edo Alzheimer gaixotasuna «prebenitzen», «leheneratzen», «geldiarazten» edo «sendatzen» duela;
+- «klinikoki frogatuta» dagoela, ikerketa zein den, nor zegoen bertan eta zer neurtu zen esan gabe;
+- «garun-adina» edo diagnostiko bat iradokitzen duen memoria-puntuazioa ematen duela;
+- garuna «zorroztuko», «bultzatuko» edo «entrenatuko» duela;
+- lekukotasunak froga gisa erabiltzen dituela.
 
-If you are unsure about a claim, ask the person's doctor.
+Baieztapen bati buruz ziur ez bazaude, galdetu zaintzen duzun pertsonaren medikuari.
 
-## Where does Golden Moments fit?
+## Non kokatzen da Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Momentsek elkarrekin egiteko jarduera sinpleak eskaintzen ditu, ez memoria-proba bat, terapia edo aholku medikoa. Gure jokoak, hala nola [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) eta [Calm Breathing](/games/calm-breathing/), gozatzeko eta hitz egiteko eginda daude. Ez dute dementzia diagnostikatzen, tratatzen, prebenitzen edo neurtzen, eta ez dugu memoriari edo pentsamenduari buruzko baieztapenik egiten.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Doako aplikazio bat ere badugu, [Golden Moments iPhone, iPad eta Android-erako](/app/). Irudiak bikoteka lotzeko joko leuna du, lauza handiekin, zuk aukeratutako familiako argazkiekin jolasteko aukerak eta lineaz kanpo funtzionatzen duten irudi-paketeak; konturik, iragarkirik, tenporizadorerik edo punturik gabe. Kontrol-zerrenda bera aplikatzen zaio: App Store-ko pribatutasun-etiketak «Ez da daturik biltzen» dio, eta [aplikazioaren pribatutasun-politikak](/app-privacy/) argazkien kopiak non gordetzen diren azaltzen du.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Nahiago dugu gugatik fidatu beharrean zuk zeuk epaitzea. Erabili orrialde honetako kontrol-zerrenda, irakurri gure [pribatutasun-orria](/privacy/) eta [lege-oharra medikoa](/medical-disclaimer/), eta utzi erabiltzen zaintzen duzun pertsonari egokitzen ez zaion edozer, gurea barne.
 
-## What is a sensible way to try a new app?
+## Zein da aplikazio berri bat probatzeko modu zentzuzkoa?
 
-Try it together for a couple of weeks and watch what happens.
+Probatu elkarrekin pare bat astez eta ikusi zer gertatzen den.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Prestatu lehenik** gure [tableta eta telefonoa konfiguratzeko gida](/caregiving/tablets-and-screens/) erabiliz, eta hasi mailarik errazenean.
+2. **Mantendu saioak labur,** erreparatu irribarreei, elkarrizketari eta lasaitasunari, eta amaitu une on batean.
+3. **Utzi frustrazioa eragiten badu,** balorazio onak izan arren.

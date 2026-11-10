@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Omadidiliko opehovelo edimbuluko noshikando okuya kundokotola"
+seoTitle: "Omadidiliko opehovelo edimbuluko noshikando okuya kundokotola"
+description: "Omadidiliko opehovelo edimbuluko, eyooloko pokati kokukulupa kwopaushitwe nomaupyakadi, oinima imwe tai dulu okuwapalekwa, nanghee to lilongekidile okuya kundokotola."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Okudimbwa taku piyaaneke oilonga yakeshe efiku, oudjuu mokulonga oinima oyo wa ikilila, okukanifa efimbo ile onhele,
+  nelunduluko meenghedi ile metokolo otai dulu okukala omadidiliko opehovelo edimbuluko. Oinima ihapu, ngaashi omaupyakadi
+  othyroid, okuhe na vitamin B12 ya wana, oilanduli yomiti, oluhodi nomaupyakadi okukofa, otai dulu okweetifa omalunduluko a faafana.
+  Omunhu a pyokoka mouhaku oye ta dulu okuninga etokolo lopaunamiti. Okukwatwa kedimbuluko ombadilila okwa pumbwa ekwafo lopaulumomhumbwe diva.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Okudimbwa omalupita olusheshi oshinima shoshiwana eshi omunhu ta kulu; omalunduluko taa piyaaneke onghalamwenyo yakeshe efiku okwa wana okutalika."
+  - "Alzheimer's Association oya yelifa omadidiliko 10 elondwelo, keshe limwe noku li yelekanifa nomalunduluko a nyika okukulupa."
+  - "Oinima ngaashi omaupyakadi othyroid, okuhe na vitamin B12 ya wana, oilanduli yomiti, oluhodi, omikifi nomaupyakadi okukofa otai dulu okukuma edimbuluko, nohapu otai dulu okuwapalekwa."
+  - "Omunhu a pyokoka mouhaku oye ta dulu okutya omunhu oku na edimbuluko; omakonakono opaintaneta ile ouyelele woye mwene itaa dulu oku shi ninga."
+  - "Okukwatwa kedimbuluko ombadilila, moule weevili ile omafiku, otashi dulu okukala delirium notashi pumbwa ekwafo lopaulumomhumbwe diva."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Okudimbwa oshinima shoshiwana eshi omunhu ta kulu?"
+    a: "Osheshi. National Institute on Aging oya ti okukana omalupita oinima ile okudimbwa okufuta ondado oshinima shoshiwana shokudimbwa kwopakulupa. Edimbuluko inali kala oshinima shoshiwana shokukulupa. Omaupyakadi edimbuluko taa ningifa oilonga yakeshe efiku ngaashi okushinga, okulongifa ongodi ile okumona ondjila yokushuna keumbo idjuu okwa wana okutalika kundokotola."
+  - q: "Omapyakadi edimbuluko otaa dulu okweetifwa koinima imwe i lili, hayedimbuluko?"
+    a: "Heeno. National Institute on Aging oya tumbula omaupyakadi othyroid, oudu woshinhono ile woshikandja, oilanduli yomiti, oluhodi nelimbililo, okuhe na vitamin B12 ya wana, okulongifa oikolwifa sha pitilila, omaupyakadi okukofa, omikifi nomauvela omutwe, mokati koinima ikwao. Ihapu yomuyo otai dulu okuwapala ngeenge ya pangwa, osho shi li etomheno limwe kutya omakonakono opaunamiti a fimana."
+  - q: "Ohandi dulu okukonakona omunhu edimbuluko keumbo?"
+    a: "Ahowe. Omunhu a pyokoka mouhaku oye ta dulu okuninga etokolo ledimbuluko, ta longifa ondjokonona youhaku, ekonakono lolutu, omakonakono edimbuluko nokudiladila, omakonakono ohonde nokuli omalupita omakonakono omoule. Nokuli omakonakono maxupi oo eendokotola hadi longifa kae fi a wana oku aeke okutya omunhu oku na edimbuluko."
+  - q: "Ondi na okuninga shike ngeenge omunhu okwa kwatwa kedimbuluko ombadilila?"
+    a: "Konga ekwafo lopaunamiti diva. Okukwatwa kedimbuluko ombadilila otashi dulu okukala delirium, osho VA ya yelifa shi li onghalo yopaulumomhumbwe. Ifana omuyakuli wouhaku womunhu diva ile ifana 112, kala pamwe naye, ndele to shanga omiti adishe odo ta nu."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Okumona omalunduluko medimbuluko loye mwene, ile lomunhu oo u hole, otashi dulu okutilifa. Ependa eli otali dulu oku ku kwafela okutokola kutya onaini wa pumbwa okuya kundokotola nanghee to lilongekidile. Itali dulu oku ku lombwela ngeenge omunhu oku na edimbuluko ile ahawe. **Omunhu a pyokoka mouhaku oye ta dulu okutya omunhu oku na edimbuluko**, noinima ihapu oyo hai eta omaupyakadi edimbuluko kai fi edimbuluko. Ino lineekela omakonakono opaintaneta ile ouyelele woye mwene.
 
-## What are the early signs of dementia?
+## Omadidiliko opehovelo edimbuluko oelipi?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) oya yelifa omadidiliko 10 opehovelo. Keshe limwe oya li yelekanifa nomalunduluko a nyika okukulupa. Meendjovo detu vene:
 
-| Sign worth checking | More typical with age |
+| Edidiliko tali pumbwa okutalika | Osheshi shoshiwana eshi omunhu ta kulu |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Okudimbwa taku piyaaneke onghalamwenyo yakeshe efiku, ngaashi okudimbwa oiningwanima ipe ile okupula oshinima shelifa lwoikando | Okudimbwa omalupita edina ile efiku ndele to li dimbuluka konima |
+| Oudjuu mokulongekida ile okukandula omaupyakadi, ngaashi okulandula omusholondodo wokuteleka oo wa ikilila ile okuunganeka oifendela | Okuninga epuko limwe omalupita moifendela yomeumbo |
+| Oudjuu mokumanifa oilonga ya ikililwa keumbo, koilonga ile pondje | Okupumbwa ekwafo omalupita nokuunganeka omashina ile okushanga oshinima koutelevisi |
+| Okukanifa efimbo, omafiku ile onhele apa u li | Okupuka efiku loshivike ndele to li dimbuluka |
+| Oudjuu mupe mokutala oule, okulesha ile okutongola omaluvala | Omaupyakadi omesho taa etwa kokatarakta |
+| Omaupyakadi mape meendjovo, ngaashi okweehena pokati keenghundafana ile okwiifana oinima nomadina a puka | Okukonga omalupita ondjovo ya yuka |
+| Okutula oinima meenhele inadi ikililwa nokuhadulu okudimbuluka apa we i tula | Okukana oinima omalupita ndele to di mono eshi to landula apa wa enda |
+| Etokolo lihe li nawa, ngaashi moimaliwa ile mefiloshisho lopaumwene | Okuninga omalupita etokolo lihe li nawa |
+| Okweehena koilonga yomalihafifo, koilonga ile komakwatafano novanhu | Okuhakala omalupita wa hala okuya koshivilo shoukwaneumbo ile shovakwao |
+| Omalunduluko meenghedi ile momukalo, ngaashi okukala wa ngwangwana, wa limbililwa, wa tila ile wa limbililwa unene | Okukala u na omikalo doye ndele to udifwa nai ngeenge elandulafano ola lunduluka |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Edidiliko limwe alike itali ti kutya omunhu oku na edimbuluko. Oshinima sha fimana **elunduluko kwaasho sha li shoshiwana komunhu oo**, unene tuu ngeenge otali ningifa onghalamwenyo yakeshe efiku idjuu.
 
-## How is normal aging different from dementia?
+## Okukulupa kwopaushitwe okwa yooloka ngahelipi kedimbuluko?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) oya ti ovakulunhu vahapu ohava mono kutya ohava dimbuluka oinima kanini ile ohava kana omalupita oinima ile okudimbwa ondado. Oyo oi li omadidiliko okudimbwa kwopakulupa. **Edimbuluko inali kala oshinima shoshiwana shokukulupa.** Omaupyakadi edimbuluko a kwata moiti ohaa ningifa oilonga yakeshe efiku idjuu, ngaashi okushinga, okulongifa ongodi ile okumona ondjila yokushuna keumbo.
 
-The NIA suggests talking with a doctor if someone:
+NIA otai kumaida okupopya nandokotola ngeenge omunhu:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Oha pula omapulo amwe lwoikando
+- Oha kana meenhele odo a li e shii nawa nale
+- Oku na oudjuu okulandula omusholondodo wokuteleka ile omalombwelo
+- Oha kala a ngwangwana unene kombinga yefimbo, ovanhu neenhele
+- Oha efa okufila oshisho ye mwene, ngaashi okulya nai, okuhalikosha ile okukala monghalo ihe li nawa
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Ovanhu vamwe ove na **mild cognitive impairment (MCI)**. Osho tashi ti ove na omaupyakadi edimbuluko ile okudiladila e dule ovakwao vepupi lavo, ndele natango otava dulu okulonga oilonga yakeshe efiku. NIA oya ti MCI otashi dulika shi kale edidiliko lopehovelo la Alzheimer's, ashike havanhu aveshe ve na MCI tava ka kala ve na yo.
 
-## What else can cause memory problems?
+## Oshike vali tashi dulu okweetifa omaupyakadi edimbuluko?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Oinima ihapu i lili, hayedimbuluko alike, otai dulu okukuma edimbuluko, nohapu oya xwepopala ngeenge ya pangwa. NIA oya tumbula:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Omaupyakadi othyroid, oudu woshinhono ile woshikandja**
+- **Oilanduli yomiti**
+- **Oluhodi nelimbililo**
+- **Okuhe na vitamin B12 ya wana** ile okuhalya eendja diwa
+- **Omaupyakadi okukofa**
+- **Okulongifa oikolwifa ile omiti sha pitilila**
+- **Omikifi, oupambu wohonde ile eendudi** mouluvi
+- **Oshiponga shomutwe**, ngaashi concussion
+- **Oudjuu munene ile oluhodi**, ngaashi okweefa oilonga ile okufya kwakaume kopahombo
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Omaupyakadi okuuda nokumona nao otaa dulu okutalika ko a fa okungwangwana; tala ewiliko letu kombinga [yokuuda](/brain-health/hearing/). Osho shi li etomheno kutya omakonakono opaunamiti a fimana. Metwokumwe na [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), eendokotola olundji ohadi pula omakonakono ohonde okutala omaupyakadi othyroid, okuhe na ouvitamini nomikifi. Okukofa [nawa](/brain-health/sleep/) nokupanga oluhodi oinima ya fimana okupopya.
 
-## Sudden confusion is an emergency
+## Okukwatwa kedimbuluko ombadilila onghalo yopaulumomhumbwe
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Okukwatwa kedimbuluko taku holoka ombadilila, moule weevili ile omafiku, okwa pumbwa ekwafo lopaunamiti diva.** Otashi dulika shi kale delirium. [VA oya yelifa delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) i li onghalo yopaulumomhumbwe notai kumaida okufana omuyakuli wouhaku womunhu diva ile okufana 112. Omadidiliko otaa kwatele mo:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Elunduluko mokudula okudiladila nawa
+- Oudjuu mokuyandja elitulemo
+- Okudiladila inaku yela nawa
+- Okukala a kumwa unene, ile a he na ombili nokungwangwana unene
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Osho otashi dulu okuholoka komunhu keshe, mwa kwatelwa naavo tava kala nedimbuluko nale. Metwokumwe na [NHS](https://www.nhs.uk/symptoms/confusion/), oinima oyo hai eta olundji oyo omikifi (omikifi yomomihadi otai monika luhapu movakulunhu nomovanhu ve na edimbuluko), stroke, osuuka ya ninipala mohonde movanhu ve na diabetes, oshiponga shomutwe nomiti dimwe. Fimbo to teelele ekwafo, kala pamwe nomunhu oo ndele to mu hekeleke neendjovo di li pauxupi nodi li paunafangwa. Ino mu pula omapulo mahapu, ndele shanga omiti adishe odo ta nu.
 
-## How do I prepare for the doctor's appointment?
+## Ohandi lilongekida ngahelipi okuya kundokotola?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Eenghundafana diwa nandokotola ohadi tameke neeshangwa diwa. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) otai kumaida okutwala:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Omusholondodo womalunduluko** medimbuluko, meenghedi nomomikalo, pamwe noihopaenenwa ya yela nokutya okwa tameka lwaapo
+2. **Omaupyakadi ouhaku onale naa opaife**, mwa kwatelwa ondjokonona youkwaneumbo yomaupyakadi edimbuluko
+3. **Omiti adishe odo a pewa kundokotola naado hadi landwa nopehe na omushangwa**
+4. **Ouvitamini ile ouwedo keshe**
+5. **Omapulo oye**, ngaashi omakonakono elipi taa ka ningwa, otaa kufa efimbo li fike peni nonaini oidjemo tai uya
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Oshiwa yo okutwala oshilyo shoukwaneumbo ile kaume oo e shii omunhu oo nawa. [NIA oya yelifa](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) kutya eendokotola otadi dulu okupula omunhu oo nosho yo oshilyo shoukwaneumbo kombinga youhaku, omiti, oilonga yakeshe efiku nomalunduluko meenghedi. Eendokotola otadi dulu yo:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Okuninga omakonakono edimbuluko, okukandula omaupyakadi, okuyandja elitulemo, okuvalula nelaka
+- Okupula omakonakono ohonde, omakundungu nomakonakono amwe okutala oinima ikwao tai eta omaupyakadi
+- Okutala ngeenge ope na oluhodi ile omaupyakadi amwe opamadiladilo
+- Okupula omakonakono omoule ngaashi CT ile MRI
+- Okutuma komunhu a pyokoka mouhaku, ngaashi geriatrician, neurologist, geriatric psychiatrist ile neuropsychologist
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA oya ti ekonakono lokudiladila oli li oshitopolwa sha pumbiwa moshivilo shomudo shouhaku sha Medicare, osho tashi dulu okukala efimbo liwa okupopya kombinga yomalimbililo. Nokuli omakonakono maxupi oo eendokotola hadi longifa kae fi a wana oku aeke okutya omunhu oku na edimbuluko. Oo onghatu yotete yokuya kekonakono la kwata moiti, netokolo otali dulu okukufa eenghundafana dihapu. NIA otai kumaida ovanhu ve na omaupyakadi edimbuluko va shune kundokotola keshe eemwedi 6 fiyo 12.
 
-## Raising the subject kindly
+## Okupopya oshinima eshi nombili
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ngeenge ou na oshisho kombinga yomunhu umwe, hoolola efimbo la ngungumana nolopaumwene. Popya kombinga yoinima ya yela oyo wa mona, wa tala koshisho louhaku waye, ha kokutokola. Okupula ekonakono lopaunamiti laaveshe otashi dulu okuudika shihe na oumbada unene. Kwafela omunhu oo momatokolo ndele to popi naye ngaashi omunhu a kula e li. [Omayele etu okupopya](/caregiving/communication-tips/) otaa dulu okukwafela.
 
-## Talk with a doctor
+## Popya nandokotola
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ngeenge owa mono omalunduluko medimbuluko, mokudiladila, meenghedi ile moilonga yakeshe efiku oo mape nota twikile, ninga efiku okuya kundokotola. Ngeenge ope na okukwatwa kedimbuluko ombadilila, ifana 112 ile omuyakuli wouhaku womunhu oo diva. Okukonakonwa diva otashi kwafele okumona oinima tai dulu okuwapalekwa, nongeenge edimbuluko, ope na efimbo lihapu okulongekida nokumona ekwafo. Fila yo oshisho ove mwene pefimbo eli; tala [ewiliko letu lokufila oshisho ovafili voshisho](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ependa eli ouyelele wopaunafangwa, kau fi omayele opaunamiti. Tala [elondwelo letu lopaunamiti](/medical-disclaimer/).

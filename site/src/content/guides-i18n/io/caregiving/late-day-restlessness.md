@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Kalma aktivesi ye tarda posdimezo"
+seoTitle: "Sundowning: Kalma aktivesi ye tarda posdimezo"
+description: "Dolca rutini, chambro-chanji e kalma aktivesi qua povas helpar ye tarda di-jorno kun dementeso, e kande konsultar mediko pri nova o plu mala simptomi."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning esas senquieteso, konfuzeso o iritaceso qua komencas o plu malas
+  ye tarda posdimezo o vespero. Praktikal agi qua povas helpar inkluzas
+  konstanta diurna rutino, diurna lumo e aktiveso plu frue en la dio, min multa
+  tarda siesti, min multa kafeino, klara lumo en la chambro ante krepuskulo,
+  plu quieta hemo, e kalma aktivesi quale muziko, fotografuri o faldar lavuro.
+  Nova o plu mala simptomi bezonas kontrolo da mediko.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning signifikas senquieteso o konfuzeso qua komencas o plu malas kande la diurna lumo fadas."
+  - "Facez exiganta taski, ekiri e balno dum la matino o frua posdimezo."
+  - "Diurna lumo, diurna promenado, min multa tarda siesti e min multa kafeino ye tarda di-jorno povas helpar ke vesperi pasez plu calme."
+  - "Acendez la lumi ante krepuskulo, diminutez bruiso, e pasez a kalma, familiara aktivesi."
+  - "Tenez registro por remarkar kauzi, e restez kalma e trankuiliganta kande senquieteso komencas."
+  - "Konsultez mediko pri nova o plu mala simptomi: doloro, infekto o medikamenti povas havar rolo."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Ye qua horo diurne sundowning maxim ofte eventas?"
+    a: "Ol ordinare komencas o plu malas ye tarda posdimezo o frua vespero, kande la diurna lumo fadas. La exakta horo varias segun la persono, pro to tenar kurta registro dum un o du semani povas helpar."
+  - q: "Quala aktivesi helpas kontre sundowning?"
+    a: "Kalma, familiara, facile facenda aktivesi ordinare maxim bone funcionas ye tarda posdimezo: dolca muziko, regardar fotografuri, favorata televiziono-programo o filmo, faldar lavuro, kurta promenado, o komuna refrejoro. Reservez nova o desfacila aktivesi por plu frue en la dio."
+  - q: "Ka sundowning povas esar signo di ula medikal problemo?"
+    a: "Ol povas plu malas pro saneso-problemi quale doloro, infekti (exemple urin-voyo-infekti), dormo-problemi o laterala efekti di medikamenti. Se senquieteso esas nova, subita o plu mala, kontaktez la mediko di la persono."
+  - q: "Ka me devas questionar la mediko pri medikamenti por sundowning?"
+    a: "To esas konverso por facar kun la mediko. La Alzheimer's Association dicas ke sen-medikamenta metodi generale preferesas unesme, e ke irga medikamento por vespera agiteso devas konsideresar nur pos pezizar riski e benefici. Ica pagino ne donas konsilo pri medikamenti."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Multa familii remarkas la sama modelo: matini esas sat tranquila, ma dum la posdimezo progresas, la persono vivanta kun dementeso divenas senquieta, anxioza, konfuzita o iritacita. Lu povas marchar avan e retro, demandar por «irar a hemo» mem kande lu esas en hemo, o facile divenar chagrenita. To ofte nomizesas sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Ne existas un sola solvo, ma chanji en la ritmo di la dio, en la chambro e en la speco di aktivesi quin vu propozas povas facar tarda posdimezi plu kalma. Ica pagino kolektas praktikal, ne-medikal idei de la National Institute on Aging e la Alzheimer's Association. Ol ne esas medikal konsilo. Se simptomi esas nova, subita o plu mala, parolez kun la mediko di la persono.
 
-## What is sundowning?
+## Quo esas sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning esas senquieteso, agiteso, iritaceso o konfuzeso qua komencas o plu malas kande la diurna lumo fadas, ye tarda posdimezo o frua vespero. La [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notas ke esar tro fatigita povas augmentar senquieteso ye tarda di-jorno.
 
-## What can make late-day restlessness worse?
+## Quo povas plu maligar senquieteso ye tarda di-jorno?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Plura kozi povas kontributar, ofte kune. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) listigas faktori quale:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- exhausteso pos kompleta dio;
+- nova o konfuzanta cirkumaji;
+- «interna korpo-horlojo» qua ne esas en ritmo, lasante la persono dormema dum la dio e vekita dum la nokto;
+- malforta lumo e ombri, qui povas esar konfuzanta;
+- perceptar streso o frustrado de la personi cirkum lu;
+- bezonar min multa dormo, quo esas ofta che plu olda adulti.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+La NIA adjuntas plu generala kauzi di agiteso, inkluzante doloro, depreso o streso, tro poka repozo, konstipado, tro multa bruiso o tro multa personi, e certa medikamenti o interagi inter medikamenti.
 
-## How can I plan the day to make evenings calmer?
+## Quale me povas planar la dio por facar vesperi plu kalma?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Movez exiganta kozi a plu frua horo e mantenar tarda posdimezo dolca e previdebla. Tanto la NIA kam la Alzheimer's Association rekomendas konstanta rutino. Exemplo di dio, por adaptar a vua propra:
 
-| Time | What may help |
+| Horo | Quo povas helpar |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Matino | Rendevui, balno, ekiri e irga tasko qua postulas esforco, kande multa personi esas maxim alerta |
+| Tarda matino | Tempo extere o proxim sunoza fenestro; promenado o altra aktiveso |
+| Mezdio | Plu granda dejeuno (la Alzheimer's Association sugestas plu granda dejeuno e plu lejera vesper-manjajo) |
+| Frua posdimezo | Repozo se bezonata, ma evitez longa siesti tarde en la dio |
+| Meza til tarda posdimezo | Kalma, familiara aktivesi; refrejoro e drinkajo; sen kafeino |
+| Ante krepuskulo | Acendez la interna lumi e klozez la kurteni ante ke ol divenas obskura |
+| Vespero | Plu lejera manjajo, quieta muziko, poka stimulo, konstanta rutino ante dormo |
 
-A few specific points from the sources:
+Kelka specifika punti de la fonti:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Diurna lumo.** La NIA sugestas aranjar tempo extere o proxim fenestro por suno-lumo singla dio.
+- **Diurna movado, ma ne tro multa.** Probez esar fizikale aktiva singla dio sen planar tro multa aktivesi, dicas la NIA.
+- **Drinkaji ye tarda di-jorno.** Evitez alkoholo e drinkaji kun kafeino, quale kafeo o kola, tarde en la dio (NIA). La Alzheimer's Association mencionas anke nikotino.
+- **Siesti.** Deskurajez longa siesti e dormetar tarde en la dio (NIA). La Alzheimer's Association sugestas limitar diurna siesti se nokta dormo esas problemo.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Por plu pri konstruktar konstanta dio, videz [aktivesi por diurna rutino](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Quale me povas facar la hemo plu kalma ye tarda posdimezo?
 
-Reduce noise, add light and keep familiar things close.
+Diminutez bruiso, adjuntez lumo e mantenar familiara kozi proxime.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Klara, uniforma lumizo.** La Alzheimer's Association rekomendas mantenar la hemo bone lumizita dum la vespero. Lumizez la spaco ante ke ombri aparos.
+- **Min multa bruiso.** Extintez o diminutez la televiziono e radio, e limitez vizitanti o okupata hemo-labori ye ca horo. La Alzheimer's Association sugestas diminutar vespera stimulo quale televiziono, hemo-labori e lauta muziko.
+- **Familiara komforto-kozi.** La NIA sugestas dolca muziko e mantenar kare amata objekti e fotografuri cirkum la hemo.
+- **Kontrolo di komforto.** La Alzheimer's Association rekomendas kontrolar doloro, hungro, dursto, konstipado, plena veziko, fatigo, infekti e pel-irito, e mantenar la chambro ye komforta temperaturo.
+- **Vua propra stando.** Personi perceptas streso. La NIA sugestas lentigar e probar trankuilijar se vua propra sucii povas augmentar la tenso.
 
-## What calm activities can we do in the late afternoon?
+## Quala kalma aktivesi ni povas facar ye tarda posdimezo?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Selektez aktivesi qui esas familiara, sen hasto e facile haltigebla. La Alzheimer's Association sugestas trankuiliganta aktivesi quale kalma muziko, fotografuri o favorata filmo, e komuna promenado por diminutar senquieteso. La NIA sugestas refrejoro o drinkajo, favorata televiziono-programo, muziko, promenado, lektado, o simpla hemo-laboro quale faldar lavuro.
 
-Ideas to try:
+Idei por probar:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Faldar lavuro kune.** La NIA sugestas ca tipo di simpla hemo-laboro. Tukii esas facile manuebla, e la tasko havas klara fino.
+2. **Pleez favorata muziko.** Familiara kansoni de lua yuneso, ye basa sono. Murmurar kun la muziko anke kontas. Plu multa idei en [muzikala aktivesi](/activities/music/).
+3. **Regardar fotografuri.** Fotografuro-albumo, o kelka familia fotografuri en [Photo Pairs](/games/photo-pairs/) kun la imaji lasita videbla, povas duktar a quieta konverso.
+4. **Facar kurta promenado.** Cirkum la gardeno, la strado o koridoro, ante ke ol divenas obskura.
+5. **Dividar refrejoro e drinkajo.** Ulo simpla, varma e sen kafeino, kune che la tablo.
+6. **Dolca kombino-ludo.** [Picture Pairs](/games/picture-pairs/) kun quar karti e imaji videbla esas facile komencar e facile haltigar.
+7. **Kolorizo.** [Coloring](/games/coloring/) sur ekrano o sur imprimita pagino, sen celo finar.
+8. **Regardar e parolar.** [Conversation Cards](/games/conversation-cards/) ofertas imajo e apertita invito. Simple regardar esas suficanta.
+9. **Pauzo por respirar.** [Calm Breathing](/games/calm-breathing/) esas lenta, quieta pauzo quan vu komencas e haltigas ipsa.
+10. **Taski por la manui.** Selektar butoni o kalzi, glatigar mola kovrilo, o tenar familiara objekto. Videz [senso-aktivesi](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Evitez nova ludi, okupata ekiri e irgo qua postulas multa memorado o koncentreso tarde en la dio. Reservez ti por la matino.
 
-## What should I do when restlessness starts?
+## Quo me devas facar kande senquieteso komencas?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Restez kalma, trankuiligez, e dolce duktar a altra kozo. La NIA sugestas parolar kalme, askoltar la sucii di la persono, evitar disputi, trankuiligar lu ke lu esas sekura, e uzar dolca tucho se ol helpas. Pose probez distraktar: refrejoro, drinkajo, muziko o promenado.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+La Alzheimer's Association sugestas frazi quale «Vu esas sekura hike» e «Me regresas ke vu esas chagrenita», e konsilas adjuntar lumo, lentigar e limitar stimulo. Ne inkluzar, presar o retenar la persono, e ne disputar kun lu.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Se la persono divenas agresiva, la NIA konsilas restar ye sekura disto til la konduto haltas. En urjo-kazo, vokez vua lokala urjo-numero e explikez ke la persono havas dementeso.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Nia guidili pri [komunikado](/caregiving/communication-tips/) e [quo facar kande lu dicas no](/caregiving/when-they-say-no/) havas plu pri kalmiganta vorti.
 
-## How do I find the triggers?
+## Quale me povas trovar la kauzi?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Tenez kurta registro dum un o du semani. La Alzheimer's Association rekomendas notar quo eventas ante epizodi di sundowning por identifikar kauzi. Notez la horo kande senquieteso komencis, quo eventis dum la horo ante, siesti, manjaji e drinkaji, vizitanti, bruiso e lumo. Portez la registro a la mediko. La NIA notas ke registrar chanji en konduto povas helpar sorganti e saneso-profesionisti remarkar modelo.
 
-## When should I call a doctor about sundowning?
+## Kande me devas vokar mediko pri sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kontaktez la mediko di la persono se senquieteso esas nova, subite plu mala, o venas kun altra chanji. La NIA dicas ke subita o rapide varianta chanji en konduto, precipue pos infekto o recenta chanji di medikamenti, devas imediata komunikar a mediko.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Pedez la mediko kontrolar kozi qui povas facar vesperi plu desfacila. La Alzheimer's Association mencionas fizikala problemi quale urin-voyo-infekti, inkontinenteso, «senquieta kruri» e dormo-apneo, e sugestas questionar quala hori di la dio esas maxim bona por singla medikamento. La NIA listigas doloro, konstipado e laterala efekti o interagi di medikamenti inter posibla kauzi di agiteso.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+La Alzheimer's Association dicas ke sen-medikamenta metodi generale preferesas por dormo-problemi ligita a Alzheimer-morbo, e ke medikamenti por agiteso ye tarda di-jorno devas konsideresar nur se ti falias, pos pezizar riski e benefici. Ta decido apartenas a la mediko. Ne komencez, haltez o chanjez irga medikamento, dormo-helpo o suplemento sen medikal konsilo.
 
-## How do I get through the evenings myself?
+## Quale me ipsa povas suportar la vesperi?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Tarda posdimezi povas esar la maxim desfacila parto di la dio por sorganto. Se posibla, demandez membro di familio, amiko o pagita helpanto kovrar tarda posdimezo kelka dii en semano, mem dum un horo. Nia guidilo pri [sui-sorgo por sorganti](/caregiving/caregiver-self-care/) listigas repozo-opcioni e la gratuita 24/7 Helpline di la Alzheimer's Association.

@@ -1,33 +1,33 @@
 ---
 title: "Osjetilne aktivnosti za osobe s demencijom"
 seoTitle: "Osjetilne aktivnosti kod demencije: ideje i sigurnost"
-description: "Osjetilne aktivnosti za osobe koje žive s demencijom, od masaže ruku do košara s tkaninama i zvukova prirode, uz jasne napomene o gušenju, alergijama i mirisima."
+description: "Osjetilne aktivnosti za osobe koje žive s demencijom, od masaže ruku do košare s tkaninama i zvukova prirode, uz jasne napomene o sigurnosti."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Osjetilne aktivnosti koriste dodir, miris, okus, zvuk i vid: polaganu masažu
-  ruku, košaricu mekanih tkanina, svježe začine za mirisanje, zvukove prirode ili
-  promatranje ptica kroz prozor. Prikladne su za svaku fazu i osobito vrijedne
-  kasnije. Najprije provjerite rizike od gušenja, alergije, probleme s kožom i
-  osjetljivost na mirise, ponudite jednu stvar u isto vrijeme i stanite ako se
-  osoba čini nelagodno.
+  Osjetilne aktivnosti uključuju dodir, miris, okus, zvuk i vid: polaganu
+  masažu ruku, košaru s mekanim tkaninama, svježe začinsko bilje za mirisanje,
+  zvukove prirode ili promatranje ptica kraj prozora. Prikladne su u svim
+  fazama, a posebno su vrijedne u kasnijim fazama. Prvo provjerite postoji li
+  rizik od gušenja, alergije, tegobe s kožom i osjetljivost na mirise.
+  Ponudite jednu stvar odjednom i prekinite ako osoba djeluje nelagodno.
 keyPoints:
-  - "Osjetilne aktivnosti ne traže točne odgovore, pa funkcioniraju u svakoj fazi, uključujući u krevetu ili fotelji."
-  - "Nudite jedno osjetilo u isto vrijeme u mirnoj sobi i pitajte ili najavite prije dodirivanja."
-  - "Izbjegavajte male predmete i sve što izgleda ili miriše na hranu, a nije hrana, jer ljudi mogu stavljati stvari u usta."
-  - "Provjerite alergije, probleme s kožom i disanjem prije korištenja losiona, mirisa ili hrane."
-  - "Ne postoje uvjerljivi dokazi da aromaterapija pomaže simptomima demencije; mirise koristite samo za jednostavno uživanje, ako uopće."
+  - "Osjetilne aktivnosti ne traže točne odgovore, pa mogu biti prikladne u svim fazama, uključujući vrijeme provedeno u krevetu ili stolcu."
+  - "Ponudite jedno osjetilo odjednom u mirnoj prostoriji te prije dodira pitajte osobu ili najavite što ćete učiniti."
+  - "Izbjegavajte sitne predmete i sve što izgleda ili miriše kao hrana, a nije, jer bi osoba mogla staviti predmet u usta."
+  - "Prije upotrebe losiona, mirisa ili hrane provjerite postoje li alergije, tegobe s kožom ili poteškoće s disanjem."
+  - "Nema uvjerljivih dokaza da aromaterapija pomaže kod simptoma demencije; mirise koristite samo radi jednostavnog užitka, ako uopće."
 faq:
-  - q: "Koje su dobre osjetilne aktivnosti za osobu s demencijom?"
-    a: "Jednostavne ideje uključuju polaganu masažu ruku losionom, rukovanje mekanim tkaninama, mirisanje svježih začina ili kave, slušanje omiljene glazbe ili zvukova prirode, gledanje ptica ili akvarija te kušanje omiljene hrane u sigurnoj teksturi. Nudite jednu stvar u isto vrijeme i pratite kako osoba reagira."
+  - q: "Koje su osjetilne aktivnosti dobre za osobu s demencijom?"
+    a: "Jednostavne ideje uključuju polaganu masažu ruku losionom, dodirivanje mekanih tkanina, mirisanje svježeg začinskog bilja ili kave, slušanje omiljene glazbe ili zvukova prirode, promatranje ptica ili akvarija te kušanje omiljene hrane sigurne teksture. Ponudite jednu stvar odjednom i pratite kako osoba reagira."
   - q: "Jesu li osjetilne aktivnosti sigurne za osobu koja stavlja stvari u usta?"
-    a: "Mogu biti, uz pažnju. Koristite samo velike predmete koji se ne mogu progutati, izbjegavajte sve sitno ili lomljivo i nakon toga losione, sapune i parfimirane proizvode držite izvan dosega, jer mogu izgledati ili mirisati na hranu. Ostanite s osobom cijelo vrijeme."
+    a: "Mogu biti, uz pažnju. Koristite samo velike predmete koje nije moguće progutati, izbjegavajte sve što je sitno ili lomljivo i nakon aktivnosti držite losione, sapune i mirisne proizvode izvan dohvata, jer mogu izgledati ili mirisati kao hrana. Ostanite uz osobu cijelo vrijeme."
   - q: "Pomaže li aromaterapija kod demencije?"
-    a: "Cochrane pregled nije utvrdio uvjerljive dokaze da aromaterapija pomaže osobama s demencijom, iako su studije bile male i nedosljedne. Ako osoba uživa u blagom, poznatom mirisu, to je u redu, ali izbjegavajte jaka eterična ulja, osobito kod problema s disanjem ili alergija."
-  - q: "Što je 'fidget' ili aktivnosna pregača?"
-    a: "To je komad tkanine, pregača ili deka za krilo na koje su čvrsto prišiveni predmeti za rukovanje, poput velikih gumba, patentnih zatvarača, vrpci i teksturiranih zakrpa. Daje zauzetim rukama nešto za istraživanje. Često je provjeravajte za bilo što labavo što bi se moglo otkinuti."
+    a: "Cochraneov pregled nije pronašao uvjerljive dokaze da aromaterapija pomaže osobama s demencijom, iako su istraživanja bila mala i neujednačena. Ako osoba uživa u blagom, poznatom mirisu, to je u redu, ali izbjegavajte jaka eterična ulja, osobito ako postoje poteškoće s disanjem ili alergije."
+  - q: "Što je pregača ili dekica za aktivnost?"
+    a: "To je komad tkanine, pregača ili dekica za krilo na koju su čvrsto prišiveni predmeti za dodirivanje, poput velikih dugmadi, patentnih zatvarača, vrpci i dijelova različitih tekstura. Zauzetim rukama daje nešto za istraživanje. Često provjerite ima li labavih dijelova koji bi se mogli otkinuti."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Osjetilne aktivnosti koriste pet osjetila: dodir, miris, okus, zvuk i vid. Ne traže pamćenje, ni korake, ni točne odgovore, pa mogu funkcionirati u bilo kojoj fazi. Najvažnije su kasnije. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) navodi da se u kasnijoj fazi svijet doživljava uglavnom kroz osjetila te da njegu možete pokazati kroz dodir, zvuk, vid, okus i miris. Nekoliko sigurnosnih provjera čini ove aktivnosti opuštajućima za sve.
+Osjetilne aktivnosti uključuju pet osjetila: dodir, miris, okus, zvuk i vid. Ne zahtijevaju pamćenje, korake ni točne odgovore, pa mogu biti prikladne u bilo kojoj fazi. Najviše znače u kasnijim fazama. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) navodi da se u kasnoj fazi svijet uglavnom doživljava kroz osjetila te da pažnju možete pokazati dodirom, zvukom, vidom, okusom i mirisom. Nekoliko provjera sigurnosti može učiniti ove aktivnosti opuštajućima za sve.
 
-## Što su osjetilne aktivnosti za demenciju?
+## Što su osjetilne aktivnosti kod demencije?
 
-Osjetilne aktivnosti su jednostavna iskustva građena oko jednog osjetila u isto vrijeme, poput opipavanja tkanine, mirisanja začina ili slušanja kiše. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) kaže da se aktivnosti u kasnijoj fazi često trebaju usredotočiti na osjetila i spominje glazbu, predmete za dodir i rukovanje te masažu ruku. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) navodi da ljudi u kasnijoj fazi mogu imati snažnu potrebu držati nešto blizu sebe radi utjehe.
+Osjetilne aktivnosti su jednostavna iskustva usmjerena na jedno osjetilo odjednom, poput dodirivanja tkanine, mirisanja začinskog bilja ili slušanja kiše. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) navodi da se aktivnosti u kasnijoj fazi često trebaju usredotočiti na osjetila te spominje glazbu, predmete za dodirivanje i držanje te masažu ruku. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ističe da osobe u kasnoj fazi mogu imati snažnu potrebu držati nešto blizu sebe radi ugode.
 
-## Osjetilne ideje, osjetilo po osjetilo
+## Ideje za osjetila, jedno po jedno
 
 ### Dodir
 
-- **Masaža ruku.** Zagrijte malo losiona u rukama i polako prelazite od zapešća do vrhova prstiju. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) spominje masiranje losionom bez mirisa radi utjehe.
-- **Košara s tkaninama.** Velike kvadratne komade baršuna, štrukana, flisa, satena i vune za milovanje, savijanje i razgovor.
-- **Topla krpica.** Topla, vlažna krpica za ruke za hladnog dana. Prvo provjerite temperaturu na svom zapešću.
-- **Aktivnosna pregača ili deka za krilo.** Veliki gumbi, patentni zatvarači, vrpce i teksturirane zakrpe čvrsto prišiveni.
-- **Savijanje i glačanje.** Košara čistih krpica ili salveta za savijanje, slaganje i ponovno savijanje.
-- **Nešto mekano za držanje.** Flis pokrivač, jastuk ili realistična meka životinja, ponuđeni jednostavno, nikada kao igračka.
+- **Masaža ruku.** Zagrijte malo losiona u rukama i polagano prelazite od zapešća prema vrhovima prstiju. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) spominje masažu losionom bez mirisa radi ugode.
+- **Košara s tkaninama.** Veliki komadi baršuna, samta, flisa, satena i vune za glađenje, presavijanje i razgovor.
+- **Topla krpica.** Topla, vlažna krpica za ruke u hladnom danu. Prvo provjerite temperaturu na vlastitom zapešću.
+- **Pregača ili dekica za aktivnost.** Velika dugmad, patentni zatvarači, vrpce i dijelovi različitih tekstura čvrsto prišiveni na tkaninu.
+- **Presavijanje i glađenje.** Košara čistih krpica ili salveta za presavijanje, slaganje i ponovno presavijanje.
+- **Nešto mekano za držanje.** Flisna dekica, jastuk ili mekana životinjica realističnog izgleda, ponuđena jednostavno, nikad kao igračka.
 
 ### Miris
 
-- **Svježi začini.** Protrljajte listove mente, ružmarina, bosiljka ili lavande između prstiju i prinesite ih nosu.
-- **Kuhinjski mirisi.** Kuhana kava, tost, cimet ili narančina kora koja se guli u blizini.
-- **Cvijeće.** Donesite nekoliko svježih cvjetova iz vrta ili iz trgovine.
-- **Poznat proizvod.** Sapun ili losion koji su uvijek koristili, ako im koža to podnosi.
+- **Svježe začinsko bilje.** Protrljajte listove mente, ružmarina, bosiljka ili lavande među prstima i približite ih osobi.
+- **Mirisi iz kuhinje.** Kava koja se kuha, kruh koji se prži, cimet ili naranča koja se guli u blizini.
+- **Cvijeće.** Unesite nekoliko svježih cvjetova iz vrta ili trgovine.
+- **Poznati proizvod.** Sapun ili losion koji je osoba oduvijek koristila, ako ga koža dobro podnosi.
 
 ### Okus
 
-- **Omiljeni okus.** Mala žlica nečega što vole, poput pirea od jabuka, pudinga ili sladoleda, u teksturi koju mogu sigurno jesti.
-- **Pomoć pri pečenju.** Kušanje voća ili malo glazure dok pečete zajedno.
-- **Sezonske poslastice.** Lubenica ljeti, topla jabukovača u jesen, poslužene na sigurnoj temperaturi.
+- **Omiljeni okus.** Mala žličica nečega što osoba voli, poput pirea od jabuke, pudinga ili sladoleda, u teksturi koju može sigurno jesti.
+- **Pomoć pri pečenju.** Kušanje voća ili malo glazure dok zajedno pripremate kolače.
+- **Sezonske poslastice.** Lubenica ljeti, topli napitak od jabuke u jesen, posluženi na sigurnoj temperaturi.
 
 ### Zvuk
 
-- **Omiljena glazba.** Poznate pjesme nježnom glasnoćom; pogledajte [glazbene aktivnosti](/activities/music/).
-- **Zvukovi prirode.** Kiša, valovi ili pjev ptica. NIA navodi da glazba, bijeli šum i zvukovi prirode nekima pomažu da se opuste.
-- **Vaš glas.** Čitanje naglas, mumljanje ili pričanje priče.
-- **Jednostavni instrumenti.** Ručni bubanj, šejker ili zvono za sviranje uz glazbu.
+- **Omiljena glazba.** Poznate pjesme uz tihu glasnoću; pogledajte [glazbene aktivnosti](/activities/music/).
+- **Zvukovi prirode.** Kiša, valovi ili pjev ptica. NIA navodi da se čini kako glazba, bijeli šum i zvukovi prirode nekim osobama pomažu opustiti.
+- **Vaš glas.** Čitanje naglas, pjevušenje ili pričanje priče.
+- **Jednostavni instrumenti.** Ručni bubanj, zvečka ili zvono za sviranje uz glazbu.
 
 ### Vid
 
-- **Gledanje kroz prozor.** Hranilica za ptice ispred prozora, djeca koja idu kući ili padanje snijega.
-- **Akvarij ili polagan video.** Nježno kretanje bez glasnog zvuka.
-- **Velike fotografije.** Jedna jasna slika u isto vrijeme, držana u visini očiju.
-- **Boja i uzorak.** Razvrstavanje svijetlih komadića tkanine, cvijeća ili obojenih salveta, ili jednostavna stranica za bojanje iz našeg [bojanja](/games/coloring/) seta.
-- **Vani.** NHS predlaže osjetilne vrtove s mirisnim biljkama, teksturama i vodenim elementima. Pogledajte [aktivnosti na otvorenom i vrtlarstvo](/activities/outdoor-and-gardening/).
+- **Promatranje kroz prozor.** Hranilica za ptice ispred prozora, djeca koja se vraćaju kući ili snijeg koji pada.
+- **Akvarij ili spori video.** Lagano kretanje bez glasnog zvuka.
+- **Velike fotografije.** Jedna jasna slika odjednom, držana u razini očiju.
+- **Boja i uzorak.** Razvrstavanje svijetlih komadića tkanine, cvijeća ili salveta u boji ili jednostavna bojanka iz našeg skupa [bojanje](/games/coloring/).
+- **Na otvorenom.** NHS predlaže osjetilne vrtove s mirisnim biljkama, različitim teksturama i vodenim sadržajima. Pogledajte [aktivnosti na otvorenom i u vrtu](/activities/outdoor-and-gardening/).
 
 ## Kako napraviti osjetilnu kutiju
 
 1. **Odaberite temu** povezanu sa životom osobe: plaža, vrt, kuhinja, radionica, šivanje.
-2. **Izaberite pet ili šest velikih, sigurnih predmeta,** poput velike školjke, drvene žlice, mekanog šala, vrećice sušene lavande zašivene na rubu ili glatkog drvenog bloka.
-3. **Provjerite svaki predmet** za sitne dijelove, oštre rubove, labave niti i sve što se lomi.
-4. **Iznosite jedan predmet u isto vrijeme.** Dajte ga, opišite ga i pustite osobu da ga istraži.
-5. **Nakon toga spremite kutiju** da ostane posebna, a predmeti se ponovno provjere prije sljedećeg puta.
+2. **Odaberite pet ili šest velikih, sigurnih predmeta,** poput velike školjke, drvene žlice, mekanog šal, mirisne vrećice sa sušenom lavandom koja je zašivena ili glatkog drvenog kockastog predmeta.
+3. **Provjerite svaki predmet** ima li sitne dijelove, oštre rubove, labave niti i sve što je lomljivo.
+4. **Izvadite jedan predmet odjednom.** Pružite ga osobi, opišite ga i dopustite joj da ga istraži.
+5. **Nakon toga spremite kutiju** kako bi ostala posebna i kako biste predmete ponovno provjerili prije sljedećeg korištenja.
 
 ## Sigurnost na prvom mjestu
 
-Osjetilne aktivnosti su nježne, ali nekoliko rizika je važno. Neke osobe s demencijom mogu pogrešno shvatiti predmete koji nisu hrana kao hranu, a gutanje može s vremenom postati teže. NIA upozorava da problemi s gutanjem u kasnoj fazi povećavaju rizik od gušenja.
+Osjetilne aktivnosti su nježne, ali nekoliko rizika zahtijeva pažnju. Neke osobe koje žive s demencijom mogu zamijeniti predmete koji nisu hrana s hranom, a gutanje s vremenom može postati teže; NIA upozorava da poteškoće s gutanjem u kasnoj fazi povećavaju rizik od gušenja.
 
 | Rizik | Što učiniti |
 | --- | --- |
-| Gušenje | Koristite samo predmete prevelike da bi se progutali. Bez gumba, perli, novčića, kuglica ili sitnih igračaka labavo u kutiji. Hranu nudite samo u teksturama koje tim za skrb smatra sigurnima. |
-| Stvari koje izgledaju kao hrana | NIA savjetuje zaključavanje losiona, sapuna, šampona i parfema, koji mogu izgledati ili mirisati na hranu, te uklanjanje umjetnog voća. Osjetilne proizvode spremite nakon uporabe. |
-| Alergije | Prije početka provjerite alergije na orašaste plodove, lateks, vunu, biljke ili mirise. |
-| Jaki mirisi | Izbjegavajte jake parfeme i eterična ulja, osobito kod astme ili drugih problema s disanjem. Blagi, prirodni mirisi su sigurniji. |
-| Koža | Prije masaže provjerite je li koža bolna, oštećena ili krhka. Koristite nježan pritisak i stanite ako se osoba trza. |
-| Temperatura | Prvo provjerite tople krpe i pića na svom zapešću. |
+| Gušenje | Koristite samo predmete koji su preveliki da bi se progutali. U kutiji ne smiju biti slobodna dugmad, perlice, novčići, klikeri ili sitne igračke. Hranu nudite samo u teksturama koje tim za skrb smatra sigurnima. |
+| Predmeti koji izgledaju kao hrana | NIA savjetuje da se losioni, sapuni, šamponi i parfemi, koji mogu izgledati ili mirisati kao hrana, drže zaključani te da se ukloni umjetno voće. Mirisne proizvode spremite nakon upotrebe. |
+| Alergije | Prije početka provjerite postoje li alergije na orašaste plodove, lateks, vunu, biljke ili mirise. |
+| Jaki mirisi | Izbjegavajte jake parfeme i eterična ulja, osobito ako osoba ima astmu ili druge poteškoće s disanjem. Blagi, prirodni mirisi sigurniji su. |
+| Koža | Prije masaže provjerite ima li bolne, oštećene ili osjetljive dijelove kože. Nježno pritišćite i prestanite ako osoba pokaže nelagodu. |
+| Temperatura | Prvo provjerite toplinu krpica i pića na vlastitom zapešću. |
 | Oštri ili otrovni predmeti | Bez oštrih alata, stakla ili otrovnih materijala za rukotvorine. |
 
 ## Pomaže li aromaterapija?
 
-Vjerojatno ne na način koji se može izmjeriti. [Cochrane pregled aromaterapije kod demencije](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) obuhvatio je 13 studija s 708 osoba, sve u domovima za starije, i nije pronašao uvjerljive dokaze o koristi. Studije su bile male, rezultati se nisu slagali, a nuspojave su bile slabo prijavljene. Ako osoba uživa u blagom, poznatom mirisu, poput lavande iz vrta, to je dobar razlog da ga podijelite. To nije liječenje.
+Vjerojatno ne na mjerljiv način. [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) obuhvatio je 13 istraživanja sa 708 osoba, svih u domovima za skrb, i nije pronašao uvjerljive dokaze o koristi. Istraživanja su bila mala, rezultati se nisu slagali, a nuspojave su slabo bilježene. Ako osoba uživa u blagom, poznatom mirisu, poput lavande iz vrta, to je dobar razlog da ga podijelite. To nije liječenje.
 
 ## Kako ponuditi osjetilnu aktivnost
 
-- **Odaberite tihi trenutak** i isključite televizor.
-- **Prilazite spreda,** recite njezino ime i pitajte ili najavite prije dodirivanja: „Imam malo losiona. Biste li htjeli masažu ruku?“
-- **Nudite jednu stvar u isto vrijeme** da ne preplavi.
-- **Pratite reakciju.** Mekše lice, opuštene ruke ili osmijeh su dobri znakovi. Odmicanje, mrštenje ili nemir znače stanite.
-- **Držite kratko.** Pet mirnih minuta je dobar sat.
+- **Odaberite miran trenutak** i isključite televizor.
+- **Pristupite s prednje strane,** izgovorite ime osobe te prije dodira pitajte ili najavite što ćete učiniti: „Imam losion. Želite li da vam lagano protrljam ruke?”
+- **Ponudite jednu stvar odjednom** kako osoba ne bi bila preopterećena.
+- **Pratite reakciju.** Opušteno lice, opuštene ruke ili osmijeh dobri su znakovi. Povlačenje, mrštenje ili nemir znače da trebate prestati.
+- **Neka bude kratko.** Pet mirnih minuta dobra su aktivnost.
 
-Zajedničko polagano disanje, poput [mirnog disanja](/games/calm-breathing/), može biti nježan način završetka. Za više ideja uz krevet pogledajte [aktivnosti za kasniju fazu](/activities/late-stage/), a za večernju nelagodu pogledajte [nemir u kasnim popodnevnim satima](/caregiving/late-day-restlessness/).
+Zajednička kratka stanka za polagano disanje, poput [mirno disanje](/games/calm-breathing/), može biti nježan završetak. Za još ideja uz krevet pogledajte [aktivnosti za kasniju fazu](/activities/late-stage/), a za nemir predvečer pogledajte [nemir predvečer](/caregiving/late-day-restlessness/).

@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Fijirde hakkille ina haɗa yeebre hakkille? Ko ɗe kolli"
+seoTitle: "Fijirde hakkille e yeebre hakkille: Ko ɗe kolli"
+description: "Ko wiɗtooɓe mbiyi e fijirde hakkille e yeebre hakkille: ƴellitgol hakkille, elto hakkille e ordinateer, ƴeewndo ACTIVE e haala FTC e Lumosity."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Hay fijirde hakkille gooto holliraani ina haɗa yeebre hakkille. Elto hakkille
+  e ordinateer ina ɓeyda tan ko yimɓe ɓe ngollortoo. Ƴeewndo gooto e nder
+  wiɗto ACTIVE jokkondirii elto yaawngo keeringo e wallitde caggal mum e
+  ustagol limo yaltaare yeebre hakkille e nder duuɓi 20, ko ɗum hollirde
+  seeɗnde. Wonande yimɓe nguurndiiɓe e yeebre hakkille, ƴellitgol hakkille e
+  fedde ina hollira fannuuji pamarɗi, ɗi juutataa. Fijirɗe ina moƴƴi so tawii
+  ko weltaare e wondude.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Wiɗtooji elto hakkille ina kolli yimɓe ina ɓeydoo e ko ɓe ngollortoo, kono hollirde nde ɗum yaarata e nguurndam ñalnde kala ina famɗi."
+  - "E nder wiɗto ACTIVE, tan yimɓe ɓe mbaɗnoo elto yaawngo keeringo e wallitde caggal mum njogii yaltaare yeebre hakkille seeɗnde e nder duuɓi 20. Elto yaawngo keeringo tawa alaa wallitde, elto teskagol e elto miijagol kolliraani ɗum."
+  - "E hitaande 2016, joom Lumosity yoɓii miliyoŋaaji dolaar 2 ngam joofaade tuumaaji FTC wonde o alaa gannde timmunde ngam haalaaji makko e neɗɗinde yeebre hakkille."
+  - "Wonande yimɓe nguurndiiɓe e yeebre hakkille newiinde haa hakkunde, pelle ƴellitgol hakkille ina kollira fannuuji pamarɗi, ɗi juutataa, wonande miijagol, e fannuuji ɓurɗi laaɓde wonande jokkondiral e wondude e woɗɓe."
+  - "Fijirɗe Golden Moments ko ngam weltaare e waktu mo ngon-ɗon e wondude. Ɗe wonaa safrugol tee ɗe haɗataa walla ɗe neɗɗintaa yeebre hakkille."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Fijirde hakkille ina haɗa Alzheimer?"
+    a: "Hay fijirde hakkille gooto hoolaaka ina haɗa Alzheimer walla yeebre hakkille woɗnde. National Institute on Aging ina wi'a wonde hollirde ina ŋakki ngam wi'de jaaɓnirɗe elto hakkille jeeyaaɗe ina njogii battane ɗe wiɗtooji klinik kolli. Kono fijirɗe ena mbaawi wonde feere welnde ngam ɓennude waktu."
+  - q: "Hol ko wiɗto ACTIVE yiyti e elto yaawngo keeringo e yeebre hakkille?"
+    a: "Ƴeewndo 2026 jokkondirii tawtoraaɓe ACTIVE e dokkitanɗe Medicare e nder duuɓi 20. Yimɓe ɓe mbaɗnoo elto yaawngo jaɓgol kabaruuji e wallitde caggal mum ko famɗi fof, njogii keewal yaltaare yeebre hakkille ɓurnde famɗude e fedde nde eltaaka. Elto yaawngo keeringo tawa alaa wallitde, e elto teskagol walla miijagol, kolliraani battane teskinɗe."
+  - q: "Puzal e fijirɗe ina moƴƴani mo nguurndiiɗo e yeebre hakkille kisa?"
+    a: "Ena mbaawi, so tawii oɗon weltii heen. Ƴellitgol hakkille e fedde, waɗnde fijirɗe konnguɗi, puzal, jimɗi e yeewtere, ina hollira fannuuji pamarɗi, ɗi juutataa, wonande miijagol e fannuuji ɓurɗi laaɓde wonande jokkondiral e wondude e woɗɓe. Weltaare, wonaa njaltudi ƴeewndo, ko ɗum foti wonde faandaare."
+  - q: "Hol ko saabii Lumosity fawaa e FTC?"
+    a: "E lewru Saawiyee 2016, Federal Trade Commission tuumi wonde Lumos Labs waɗii haalaaji e fijirɗe mum, baɗte neɗɗinde ustagol jahdugol e duubi e yeebre hakkille, tawa alaa gannde timmunde ngam semmbinde ɗum. Gollorde nde jaɓii yoɓde miliyoŋaaji dolaar 2 tee ina foti jogaade gannde hoolaande hade waɗde haalaaji hono ɗii e jammaaji garooji."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,88 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Fijirɗe hakkille ena keewi, tee keewɗe e majje ina fodi reende hakkille maa no suka. So tawii on toppitiiɗo mo nguurndiiɗo e yeebre hakkille, walla on hulii teskagol mon, ina heewi naamnaade so fijirde majje ena waawi wallude. Ko ɗoo ko wiɗtooji kolli tigi, kañum e geɗe wallooje e geɗe ɗe ngalaa wallude.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Ɗum ko humpito kuuɓal tan, wonaa wasiyaaji neɗɗo safroojo. Ndeeƴo [renndo amen e humpito cellal](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Fijirde hakkille ina haɗa yeebre hakkille?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Hay fijirde hakkille gooto hoolaaka ina haɗa yeebre hakkille. National Institute on Aging (NIA) ina wasiyaa yimɓe yo ɓe reento e haalaaji wi'ooji fijirɗe ordinateer e enternet ena mbaawi ƴellitde teskagol, tee ina wi'a wonde hollirde ina ŋakki ngam wi'de hay jaaɓngal elto hakkille gootal jeeyaaɗe ina jogii battane nannduɗe e elto ngo ƴeewaa e wiɗtooji klinik ([NIA e haɗde Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Ɗum firtaani fijirɗe alaa nafo. Ɗum firti nafo majje ko weltaare, wondude e feere ñalnde kala, wonaa reende hay gooto e yeebre hakkille.
 
-## What is "near transfer", and why does it matter?
+## Hol ko woni «eggude ɓadiiɗe», tee hol ko saabii ɗum heewde nafo?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+So a gollortike e golle, a ɓurata heen heewde. Wiɗtooɓe ina noddira ɗum battane elto. Naamnal ɓurngal saɗtude ko so ƴellitaare nde **eggata** e geɗe goɗɗe: e golle nannduɗe (eggude ɓadiiɗe) walla e nguurndam ñalnde kala, hono teskagol nadeeji walla toppitagol jawle (eggude woɗɗitiiɗe).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Ƴeewndo mawndo 2016 ƴeewii wiɗtooji ɗi gollorɗe elto hakkille mbiyata ko ɗi ɓurɗe moƴƴude. Ɗe njiyii hollirde heewnde wonde yimɓe ina ɓeydoo e golle ɗe ɓe ngollortoo, hollirde famɗunde wonde ɓe ina ɓeydoo e golle ɓadiiɗe, tee hollirde seeɗnde wonde elto ina ƴellita miijagol ñalnde kala. Wiɗtooji keewɗi kadi njoginoo caɗeele e feere mum en, ɗum waɗi jokkude e pellital timmungol ina saɗa ([Simons e wondiiɓe mum, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Hol ko ƴeewte Cochrane mbi'i e elto hakkille e ordinateer?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Ƴeewte Cochrane, renndinooje wiɗtooji ɓurɗi moƴƴude, ƴeewii elto e ordinateer juutngo yontere 12 walla ɓurnde:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Yimɓe celluɓe duuɓi 65 e dow:** wiɗtooji 8 e yimɓe 1 183. Hollirde nde laatinoo famɗunde walla famɗunde no feewi. Ena gasa ina woodi nafo pamaro caggal elto, kono alaa hollirde laaɓnde wonde ina duumoo ([Ƴeewndo Cochrane, mawɓe celluɓe](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Yimɓe jogiiɓe ustagol teskagol pamaro:** wiɗtooji 8 e yimɓe 660. Hay wiɗto gooto haalanaani so yimɓe ɓe njaltiri e yeebre hakkille, tee hollirde nde laatinoo lo'unde no feewi ngam jokkude e pellital ([Ƴeewndo Cochrane, ustagol teskagol pamaro](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Hol ko wiɗto ACTIVE yiyti?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ko wiɗto mawngo Ameriknaajo fuɗɗiiɗo e hitaande 1998 e yimɓe 2 802 duuɓi 65 e dow ɓe nguurdi e hoore mum en tawa alaa caɗeele mawɗe e teskagol walla miijagol. Yimɓe ɓe mbaɗaa e muuyre e fedde wootere e pelle elto tati (yaawngo jaɓgol kabaruuji, teskagol, walla miijagol) walla e fedde nde jokkondiraaka. Elto ngoo laatinoo jonte haa 10 e nder yontere 5 haa 6. Yoga e yimɓe ɓe timminnoo jonte keewɗe kadi mbaɗaa e muuyre ngam heɓde **jonte wallitde** ko ɓooyii hitaande wootere e tati caggal mum.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Elto yaawngo keeringo ngoo wonnoo ko yiytude e jaɓde kabaruuji yi'ete e nder sahaa seeɗa seeɗa, e tolno mo waylotoo no mo teskata ɓeydirta.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+E hitaande 2026, wiɗtooɓe njokkondirii tawtoraaɓe 2 021 e dokkitanɗe Medicare mum en e nder duuɓi 20 ([Ƴeewndo ACTIVE duuɓi 20](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Ko ɗoo ko ɓe njiyti tigi:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Elto yaawngo keeringo e wallitde caggal mum ko famɗi fof:** keewal yaltaare yeebre hakkille ɓurnde famɗude e fedde nde jokkondiraaka (tolno ɓurtungol 0,75, ko firti ko ina tolnoo e 25% seeɗa).
+- **Elto yaawngo keeringo tawa alaa wallitde:** alaa ustagol keewal.
+- **Elto teskagol walla miijagol:** alaa battane teskinɗe e yaltaare yeebre hakkille.
+- **Kala fedde elto e kuuɓal mum yerondiraande e fedde nde jokkondiraaka:** ina wayi no keewal ustii seeɗa, kono wonaa teskinɗe e limto.
 
-### The limits of this finding
+### Kaaɗdi ngol ɗoo jiytugol
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Ina huutoree tan e **fannu elto yaawngo keeringo gooto, toppitaaɗo, e jonte wallitde caggal mum**, wonaa e fijirɗe hakkille fof.
+- Njaltudi teskinɗi ndii iwi e **fedde lesnde** (yimɓe ɓe timminnoo jonte keewɗe e fuɗɗorde ndee tee ɓe mbaɗaa e muuyre ngam wallitde), wonaa e fedde elto yaawngo fof.
+- Yeebre hakkille ɓetaa ko huutoraade **kode yaltaare e naamne Medicare**, wonaa ƴeewndo mo kala neɗɗo. Ko ina tolnoo e nayaɓal tawtoraaɓe adanɓe ɓe ngoppaaka sabu ɓe tawtoraa ko e Medicare Advantage, nde alanaa dokkitanɗe naamne timmuɗe.
+- Tawtoraaɓe ɓe ngonaano e caɗeele mawɗe miijagol so ɓe puɗɗiima. Njaltudi ndii haalataa hay huunde e fijirɗe wonande yimɓe **nguurndiiɓe e yeebre hakkille kisa**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Ko jiytugol hawrungol e wiɗto goɗɗo. Wonaa hollirde wonde hay jaaɓngal gootal ina haɗa yeebre hakkille.
 
-## What did the FTC say about Lumosity?
+## Hol ko FTC wi'i e Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+E lewru Saawiyee 2016, Lumos Labs, joom Lumosity, jaɓii yoɓde miliyoŋaaji dolaar 2 ngam joofaade tuumaaji Federal Trade Commission e ɓamtugol jannginɗo. FTC wi'i gollorde nde wiyii, tawa alaa gannde timmunde, wonde fijirɗe mum ena mbaawi ƴellitde golle e gollorɗe e jaaɓiɗe, tee ena mbaawi neɗɗinde ustagol jahdugol e duubi, ustagol teskagol pamaro, yeebre hakkille e Alzheimer. Yamiroore nde ina fawii gollorde nde yo jogii gannde hoolaande, timmunde hade waɗde haalaaji hono ɗii e jammaaji garooji ([Bayyinol FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Ekkitinol wonande ɓesngu: reeno e hay fijirde, jaaɓngal walla eɓɓoore fodoore reende teskagol walla haɗde yeebre hakkille.
 
-## Can games help someone who already has dementia?
+## Fijirɗe ena mbaawi wallude mo nguurndiiɗo e yeebre hakkille kisa?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Ena mbaawi ɓeydaade e ñalawma moƴƴo, tee ɗum ina himmi no feewi. Feere nde ɓurnde ƴeewteede ko **ƴellitgol hakkille**: golle fedde welɗe hono yeewtere, teskagol ko yawti, fijirɗe konnguɗi, puzal e jimɗi, ko heewi e fedde pamare nde ardiiɗo ardotoo.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Ƴeewndo Cochrane 2023 e wiɗtooji 37 e yimɓe 2 766 nguurndiiɓe e yeebre hakkille newiinde haa hakkunde yiyii ([Ƴeewndo Cochrane e ƴellitgol hakkille](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **nafo pamaro, mo juutataa** e ƴeewte miijagol (hollirde tolno hakkunde);
+- **ƴellitaare teskinnde e jokkondiral e wondude e woɗɓe** (hollirde toownde, iwrunde e wiɗtooji seeɗa);
+- **nafooji pamarɗi** wonande ngonka nguurndam, mettinde e jikku.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Nafooji ɗii ɓetaa ko heewi ko caggal eɓɓooje ko ina tolnoo e yontere 10, tee wiɗtooji seeɗa tan ƴeewii so ɗi nduumii. Ƴellitgol hakkille ko eɓɓoore fedde teeltaaɗo, ɗum waɗi njaltudi ndii waawataa huutoreede e hoore mum e neɗɗo fijotooɗo e tablett o gooto.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Komisiyoŋ Lancet 2024 ina wi'a kadi wonde eɓɓooji golle ina himmi wonande yimɓe nguurndiiɓe e yeebre hakkille, ngam hisnude weltaare e faandaare ([Komisiyoŋ Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Hol ko fijirɗe ngoni tigi e moƴƴinde?
 
-When chosen well, games can offer:
+So cuɓaa no moƴƴi, fijirɗe ena mbaawi hokkude:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Weltaare.** Waktu welngo feccere waktuuji ina jogii nafo e hoore mum.
+- **Jokkondiral.** Fijirde e sara mum ina hokku on huunde newnde nde lollir-ɗon so yeewtere ina saɗi. Ndeeƴo [no fijirtee e wondude](/caregiving/how-to-play-together/).
+- **Feere ñalnde kala.** Golle heeriinde e waktu gooto ñalnde kala ena waawi addude deeyre.
+- **Hoolaare.** Golle jahdooje e ko neɗɗo oo waawi waɗde haa jooni ina walla mo yoo sifo waawde, wonaa ƴeewteede.
+- **Yeewtere.** Natal walla konngol heeriingol ena waawi udditde taali. Etoɗee [karte yeewtere](/games/conversation-cards/) walla [timmin konngol ngol](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Ko foti reeneede: limtooji waktu, keɓal toɓɓe, jokkorɗe keɓal e kala huunde waynde ƴeewndo teskagol. So mo toppit-ɗon oo mettike, dartinee. Dartingol law law, walla jooɗaade tan e sara mum, ko njaltudi moƴƴiri. Daliilu amen e [cuɓagol jaaɓirɗe e fijirɗe](/caregiving/choosing-apps-and-games/) ina jogii doggol ƴeewto.
 
-## Where Golden Moments fits
+## Hol to Golden Moments woni
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Fijirɗe Golden Moments, hono [jokke nate](/games/picture-pairs/), [puzal natal](/games/picture-puzzle/) e [yiytude konnguɗi binndi mawɗi](/games/word-search/), ina waɗiraa ngam weltaare e waktu mo ngon-ɗon e wondude. Ɗe alaa limtoojo waktu tee ɗe alaa keɓal toɓɓe. Ɗe **wonaa** safrugol, tee ɗe **haɗataa** walla ɗe **neɗɗintaa** yeebre hakkille. Amin ɓuri yiɗde haalande on ɗum no laaɓiri, ɓuri fodaade huunde nde hay fijirde waawataa waɗde.
 
-## Talk with a doctor
+## Yeewto e neɗɗo safroojo
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+So on hulii bayle teskagol e mon onon walla e mo toppit-ɗon, yeewee neɗɗo safroojo, hoto faw bo e jaaɓngal. Neɗɗo safroojo ena waawi ƴeewde saabuuji baawɗi safrude tee yeewtidde e mon peeje ɓurɗe jogaade hollirde, hono toppitagol tiɗɗugol ƴiiƴam e ƴeewndo nanaango. Ndeeƴo [Yeebre hakkille ina waawi haɗeede?](/brain-health/can-dementia-be-prevented/) ngam ɓeydaade humpito. So jiiɓruyayru heɓii law walla bayle goɗɗe keɓii law, ƴettu ballal safroowo jaawɗo.

@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Mahuta bona Kwalimu Kerere: Stadi ia gwauraia bona ia heduru"
+seoTitle: "Mahuta bona Dementia: Stadi ia gwauraia"
+description: "Stadi ia gwauraia mahuta bona dementia risk, kwalimu ia hagoevaia stadi ia matamata, bona mahuta dalana namodia taunimanima buruka bona naria taudia."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Lagani momo stadi haida ia gwauraia, taunimanima edia lagani namonamo lalonai mahuta kwadogi
+  (hour 6 eiava ma kwadogi) be dementia risk ia bada. Lab stadi haida ia gwauraia, mahuta be
+  kwalimu ia hagoevaia diba momokani idia noho. Inai stadi be ia matamata, bona 2024 Lancet
+  Commission ese mahuta ia abia lasi modifiable risk factor ai. Mahuta dalana namodia be dina
+  ta ta ai oi namo. Dementia lalonai mahuta hekwakwanai be ia vara momo, bona dokta dekenai oi
+  gwauraia be namo.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "UK stadi ta ese taunimanima 8,000 bamona ia dibaia lagani 25 lalonai, bona ia gwauraia lagani namonamo ai hour 6 eiava ma kwadogi mahuta be dementia risk ia bada."
+  - "Mahuta idauidau be dementia ena matamata toana diba, unai dainai dahaka ese dahaka ia havaraia be ia auka."
+  - "Mahuta ese kwalimu amo beta-amyloid ia hagoevaia stadi be momokani, to ia matamata, momo be mouse lalonai."
+  - "Sleep apnea be ia vara momo, ia namo diba, bona stadi haida ai dementia ida ia hebou; gururu badana bona dina ai mahuta be dokta ese ia itaia be namo."
+  - "Mahuta muramura eiava heduru gauna ta do oi abia, do oi hadokoa, eiava do oi haidaua lasi, dokta ida oi hereva lasi."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Mahuta dika ese Alzheimer’s ia havaraia?"
+    a: "Unai be ia hahedinaraia lasi. Stadi haida ia gwauraia mahuta kwadogi be dementia risk ia bada, to dementia sibona ese mahuta ia hadikaia, momo be diagnosis ia vara lasi neganai lagani haida gunanai. 2024 Lancet Commission ia itaia stadi be ia hegeregere lasi, unai dainai mahuta ia abia lasi modifiable risk factor ai."
+  - q: "Taunimanima buruka be hour hida mahuta?"
+    a: "National Institute on Aging ia gwauraia, taunimanima buruka be taunimanima ma haida bamona, hanuaboi ta ai hour 7 do 9. Taunimanima buruka momo be guna ai ia mahuta bona ia toreisi negana ia haidaua, unai be ia vara momo."
+  - q: "Dahaka dainai dementia lalonai tau ta be dina ai ia mahuta bona hanuaboi ai ia toreisi?"
+    a: "Dementia ese tauanina ena nega (body clock) ia hadikaia diba, unai dainai mahuta bona toreisi negadia idia heirokero. Hisihisi, lalokau lasi, hitolo, eiava muramura dika be danu idia heduru diba. Dina diari, dina ta ta ai kara, bona adorahi ai dalana manada be idia heduru diba. Dokta ese namo diba daladia ia tahua diba."
+  - q: "Lau naria tau ta dekenai mahuta heduru gauna lau henia be namo?"
+    a: "Ginigunana dokta ida oi hereva, over-the-counter gaudia danu. National Institute on Aging ia gwauraia, mahuta muramura haida ese Alzheimer’s lalonai taunimanima dekenai gini siri, keto, bona lalona heirokero risk ia bada diba."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Mahuta bona kwalimu kerere edia hebou be ia maoro, to edia hebou dalana be stadi ese ia tahua noho. Stadi haida ia gwauraia mahuta kwadogi be dementia risk ia bada. Dementia ese danu mahuta ia hadikaia momo. Inai pepana ia hahedinaraia stadi ia gwauraia bona ia gwauraia lasi gaudia, mahuta dalana namodia ia henia, bona dementia lalonai mahuta hekwakwanai ia herevalaia. Mahuta muramura toana ia henia lasi; unai hereva be dokta ida oi karaia.
 
-## Is poor sleep linked with dementia?
+## Mahuta dika be dementia ida ia hebou?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Stadi momo lagani ai ia gwauraia, mahuta kwadogi be dementia risk ia bada, to stadi be ia heto lasi.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **UK lagani 25 stadi.** Stadi taudia ese taunimanima 8,000 bamona idia dibaia [Whitehall II stadi](https://www.nature.com/articles/s41467-021-22354-2) lalonai. Taunimanima edia lagani 50 eiava 60 ai hour 6 eiava ma kwadogi idia mahuta, idia be dementia risk ia bada, hour 7 idia mahuta taudia ida oi hahegeregerea. Taunimanima edia lagani 50, 60 bona 70 ai hour 6 eiava ma kwadogi idia mahuta, idia be 30% bamona risk ia bada, nega momo hour 7 idia mahuta taudia ida oi hahegeregerea. Inai be observational stadi, unai dainai ia hebou ia hahedinaraia, to badina ia hahedinaraia lasi.
+- **Lancet Commission ena lalo.** [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) ese mahuta ia abia lasi ena 14 modifiable risk factors lalonai. Ia gwauraia stadi be ia hegeregere lasi. Badina ta be «reverse causation»: dementia ena kwalimu idauidau be diagnosis ia vara lasi neganai lagani haida ia matamaia, bona mahuta ia hadikaia diba. Stadi badana ta ai, mahuta daudau bona dementia edia hebou be ia ore, murinai dibaia lagani 5 matamatadia idia kokia.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Unai dainai, hanuaboi ta ai mahuta namo lasi be dagedage badina lasi. Nega momo mahuta namo oi tahua be namo, badina be dina harihari ai oi lalo namo, oi mata karaia, bona oi namo.
 
-## What is the "brain-clearing" sleep research?
+## «Kwalimu ia hagoevaia» mahuta stadi be dahaka?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Oi duahia diba, mahuta ese kwalimu ia «hagoevaia». Inai lalo be momokani stadi amo ia mai, to ia matamata.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Mouse lalonai.** 2013 stadi ta, [NIH ese ia hahedinaraia](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), ia davaria mouse idia mahuta neganai kwalimu cell huanai gabu be 60% bamona ia bada. Ranu be kwalimu lalonai ia lao namonamo, stadi taudia ese glymphatic system idia gwau. Beta-amyloid, Alzheimer’s ida ia hebou protein ta, be mahuta mouse edia kwalimu amo ia lao haraga.
+- **Taunimanima lalonai.** Maragina [2018 stadi](https://www.pnas.org/doi/10.1073/pnas.1721694115) ta ese taunimanima namodia 20, edia lagani 22 do 72, idia scan, mahuta namo murinai bona mahuta lasi hanuaboi murinai. Mahuta lasi hanuaboi murinai, kwalimu scan lalonai beta-amyloid toana be 5% bamona ia daekau, hippocampus ia noho gabuna lalonai, unai be laloatao karana gabuna badana ta. Stadi taudia ia gwauraia inai be matamata hahedinara. Idia diba lasi unai idauidau be mahuta murinai ia giroa eiava lasi, eiava unai be hagoevaia ia metau dainai eiava beta-amyloid ia vara momo dainai.
+- **Ia hebou rua.** Lancet Commission ia gwauraia, amyloid ia bada be taunimanima buruka edia mahuta ia hadikaia diba.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Inai davana ese ia hahedinaraia dahaka dainai stadi taudia be mahuta idia ura dibaia. Idia hahedinaraia lasi mahuta namo ese Alzheimer’s ia taravatua.
 
-## What sleep habits may help?
+## Mahuta dalana namodia edena be idia heduru diba?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Taunimanima buruka be hanuaboi ta ai hour 7 do 9 mahuta, taunimanima ma haida bamona, [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) ia gwauraia. Ena lalohaida:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Nega ta oi badinaia.** Dina ta ta ai nega tamona oi mahuta bona oi toreisi, wikeni danu.
+- **Mahuta ginigunana dalana ta oi karaia.** Mahuta lasi neganai buka oi duahia, manada musika oi kamonai, eiava ranu siahu ai oi digu.
+- **Mahuta rumana oi karaia ia namo,** ia siahu momo lasi eiava ia keru momo lasi.
+- **Dina dokona ai caffeine oi habadaia.** Kofi, ti, soda bona chocolate ese oi mahuta lasi diba.
+- **Alcohol oi kokia,** maragi momo danu, NIA ia gwau.
+- **Mahuta negana lasi ai hour rua do toi lalonai aniani badadia oi ania lasi,** bona dina dokona ai ranu badadia oi inua lasi.
+- **Nega momo tauanina kara oi karaia, to mahuta lasi ai hour 3 lalonai lasi.** Ita eda [tauanina kara dalana pepana](/brain-health/exercise/) oi itaia.
+- **Screen oi rakatania mahuta rumana amo.** NIA ia gwau, TV oi itaia lasi eiava computer, phone eiava tablet unai rumana ai oi gaukaralaia lasi.
+- **Dina dokona eiava adorahi ai mahuta kwadogidia oi kokia** bema oi diba.
 
-## Sleep problems in dementia
+## Dementia lalonai mahuta hekwakwanai
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Dementia lalonai mahuta idauidau be ia vara momo. [NIA ia gwauraia](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) mahuta momo eiava mahuta maragi lasi, hanuaboi ai toreisi momo, bona dina ai mahuta momo. Ia herevalaia danu sundowning: dina diari ia diho neganai hemarai, heau, eiava lalona heirokero ia matamaia eiava ia dika.
 
-Caregiver tips from the NIA include:
+NIA ena naria taudia edia lalohaida:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Dina matamatana ai dina diari bona kara.** Dina ai oi lao kahana eiava windo badinai oi helai, bona tau oi naria tauna ese dina ta ta ai kara ia karaia. Diari goada ese body clock ia haidaua diba.
+2. **Dabai karadia oi abia daba ai.** Daba ai digu oi karaia eiava aniani badana dina huanai oi henia.
+3. **Dina ai mahuta kwadogidia oi habadaia.** Dina dokona ai mahuta oi habadaia.
+4. **Adorahi oi karaia ia manada.** Diari oi habadaia, regerege oi habadaia, bona tau oi naria tauna ese ia ura bema manada musika oi hamatamaia. Ita eda [dina dokona hemarai](/caregiving/late-day-restlessness/) dalana pepana ai lalohaida ma haida oi davaria.
+5. **Mahuta ginigunana dalana ta oi badinaia.** Hanuaboi ta ta ai nega tamona duahiduahi oi karaia be NIA ena haheitalai ta. [Dina ta ta dalana badinaia](/activities/daily-routine/) be danu ia heduru.
+6. **Caffeine bona alcohol oi habadaia.**
+7. **Diari maragidia oi gaukaralaia** mahuta rumana, dalana bona digu rumana ai.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Hanuaboi ai toreisi toana, NIA ena [ruma namo daladia](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ia gwauraia hanuaboi diari eiava automatic diari, digu rumana ai dogoatau gabudia, steps isena ai kala badana tape, bona muramura be loku rumana ai oi atoa.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Adorahi ai kara kwadogi manada ta ese umui ruaosi ia hamanadaia diba. [Calm Breathing](/games/calm-breathing/) metau eiava [Conversation Cards](/games/conversation-cards/) haida oi karaia. Mahuta lasi neganai kara goada oi kokia, bona tau oi naria tauna ia mauri bema oi dokona.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Mahuta ia hadikaia be naria taudia danu ia hadikaia. Ita eda [naria taudia sibodia naria dalana](/caregiving/caregiver-self-care/) ai mahuta bona heduru daladia oi davaria.
 
-## What about sleep apnea?
+## Sleep apnea be ede?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sleep apnea ese mahuta neganai hoho ia dokona negadia kwadogidia ia havaraia, hanuaboi ta ai nega momo. NIA ia gwauraia, bema ia namo lasi, ia havaraia diba hekwakwanai, rara goada, stroke eiava laloatao dika. Toana be gururu badana bona dina ai mahuta bada, bona taunimanima momo idia diba lasi. Lancet Commission ia herevalaia stadi 11 ai, sleep apnea idia abia taudia be 43% bamona dementia risk ia bada. To stadi momo idia itaia lasi tauanina metau, unai dainai hebou be ia maoro lasi.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sleep apnea be dokta ese ia itaia bona ia namoa diba. NIA ia gwauraia CPAP machine ese ia heduru momo. Bema oi eiava tau oi naria tauna be gururu bada, mahuta neganai hoho ia dokona, eiava dina ai mahuta bada, dokta dekenai oi gwauraia.
 
-## A note about sleep medicines
+## Mahuta muramura toana
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ai be mahuta muramura eiava supplement toana ai henia lasi. NIA ia gwauraia, mahuta muramura be nega kwadogi ai ia heduru diba, to insomnia ena namo dalana lasi. Ia gwauraia danu, Alzheimer’s idia abia taudia edia mahuta toana ai muramura haida idia henia, unai ese gini siri, keto, bona lalona heirokero risk ia bada diba. Mahuta muramura ta do oi abia, do oi hadokoa, eiava do oi haidaua lasi, over-the-counter mahuta heduru danu, dokta eiava pharmacist ida oi hereva lasi.
 
-## Talk with a doctor
+## Dokta ida oi hereva
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Dokta oi itaia bema oi eiava tau oi naria tauna be nega momo ia hemarai, hanuaboi momo ia mahuta lasi, gururu bada, eiava hanuaboi ai hoho ia dokona. Bema dementia lalonai mahuta hekwakwanai ia noho, [NIA ia gwau](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) dokta ena heduru oi tahua. Dokta ena itai ese badina ia davaria diba, hisihisi, mahuta dika ma ta, gorere, eiava muramura dika. Lalona heirokero harihari, eiava mahuta idauidau harihari lalona heirokero ida, be harihari dokta heduru ia ura. [Dokta edana negai oi itaia](/brain-health/warning-signs/) oi duahia.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Inai pepana be sivarai namo, to dokta ena lalohaida lasi. Ita eda [medical disclaimer](/medical-disclaimer/) oi itaia.

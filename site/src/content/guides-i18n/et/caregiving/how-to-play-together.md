@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Kuidas mängida dementsusega inimesega"
+seoTitle: "Mängimine dementsusega inimesega: juhend"
+description: "Praktiline juhend mängimiseks dementsusega inimesega: ettevalmistus, tempo, vigade parandamisest hoidumine, mängude lihtsustamine ja lõpetamine."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Suhtuge mängu kui ühisesse aega, mitte proovile. Valige rahulik päevane aeg,
+  istuge kõrvuti vaikses ruumis ja pakkuge ühte lihtsat mängu. Laske inimesel
+  ise tempot määrata, ärge parandage kahjutuid eksimusi, tehke mäng esimesel
+  pingetundel lihtsamaks ja kasutage pilte vestluse alustamiseks. Lõpetage
+  siis, kui on veel hea tunne. Varasem lõpetamine või lihtsalt koos vaatamine
+  on hea tulemus.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Eesmärk on rõõm ja koosolemine, mitte lõpetamine või õiged vastused."
+  - "Valmistage kõigepealt ette: vaikne ruum, hea valgus, prillid ja kuuldeaparaadid peas, teler väljas, üks mäng valmis."
+  - "Ärge parandage kahjutuid eksimusi. Öelge „Proovime nii” või lihtsalt jätkake."
+  - "Tehke mäng lihtsamaks enne, kui pettumus kasvab: vähem pilte, vähem valikuid, pildid nähtaval."
+  - "Kasutage pilte lugude jutustamise alustalana küsimusega „Räägi mulle sellest...” küsimuse „Kas sa mäletad...?” asemel."
+  - "Lõpetage esimeste väsimuse või rahutuse märkide korral. Varasem lõpetamine on edu, mitte ebaõnnestumine."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Kui kaua peaksime mängima?"
+    a: "Õiget kestust ei ole. Paljudele inimestele piisab mõnest minutist ja mõnel päeval on piisav ka üks ring. Jälgige inimest, mitte kella, ja lõpetage siis, kui ta tundub endiselt rahulik."
+  - q: "Kas peaksin laskma tal võita või tegema näo, et ei märka eksimusi?"
+    a: "Ühises ja pingevabas mängus ei ole midagi võita ega kaotada. Kui eksimus inimest ei häiri, laske sellel olla. Kui see tundub teda häirivat, aidake vaikselt või tehke mäng lihtsamaks ilma sellele tähelepanu juhtimata."
+  - q: "Mis siis, kui ta eelistab hoopis vaadata, kuidas mina mängin?"
+    a: "See on täiesti sobiv. National Institute on Aging soovitab lasta inimesel lihtsalt vaadata, kui talle see rohkem meeldib. Rääkige sellest, mida näete, ja kutsuge teda alati, kui ta soovib, osutama või valima."
+  - q: "Kas need mängud on mõeldud mälu kontrollimiseks?"
+    a: "Ei. Meie mängud on lihtsad ühised tegevused rõõmu ja vestluse jaoks. Need ei ole mälutest, ei mõõda midagi ega ole dementsuse ravi."
+  - q: "Millise mänguga on kõige parem alustada?"
+    a: "Alustage kõige lihtsamast mängust, mis inimesele sobib. Picture Pairs nelja plaadiga ja piltidega nähtaval või Find the Same kahe valikuga on leebed algusvõimalused. Conversation Cards sobib hästi, kui inimesele meeldib rohkem rääkida kui ekraanile puudutada."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Hea mäng dementsusega inimesega ei sarnane võistlusele. See näeb välja nii, et kaks inimest istuvad lähestikku, osutavad piltidele, naeravad vanasõna üle ja räägivad kõigest, mis jutuks tuleb. Mäng on lihtsalt põhjus koos aega veeta.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+See juhend käsitleb, kuidas ette valmistuda, kuidas mängu tempot hoida, mida öelda, kui midagi läheb „valesti”, kuidas mis tahes mängu lihtsamaks või veidi keerulisemaks muuta, kuidas mäng vestluseks pöörata ja kuidas aru saada, millal lõpetada. See sobib nii meie [mängude](/games/) kui ka kaartide, puslede ja lauamängude jaoks, mis teil juba kodus on.
 
-## What is the best way to play a game with someone who has dementia?
+## Kuidas on kõige parem mängida dementsusega inimesega?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Pöörake tähelepanu rõõmule, mitte saavutusele. See on [Alzheimer's Association juhiste tegevuste kohta](https://www.alz.org/help-support/caregiving/daily-care/activities) põhinõuanne: toetuge oskustele, mis inimesel veel on, aidake tal alustada, tehke keerulisemad osad ise ära ja ärge kritiseerige ega parandage kahjutuid tegevusi.
 
-In practice that means:
+Praktikas tähendab see järgmist:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Istuge tema kõrvale, mitte tema vastu.** Kõrvuti istudes näete mõlemad ekraani või lauda ning abistamine tundub koostööna, mitte järelevalvena.
+- **Pakkuge korraga ühte mängu.** Valikute loetelu võib tunduda nagu proovilepanek juba enne, kui midagi algab.
+- **Järgige tema juhatust.** Kui ta tahab pilte puudutada omas järjekorras, rääkida ühest pildist kümme minutit või lõpetada kahe käigu järel, siis ongi see tänane mäng.
+- **Pidage lugu headest hetkedest, mitte lõpetatud ringidest.** Naeratus, lugu või rahulik pool tundi on see tulemus, mida otsite.
 
-## How do I set up before we start?
+## Kuidas enne alustamist ette valmistuda?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Mõni minut ettevalmistust aitab vältida enamikku pettumusi, mida inimesed kipuvad mängu süüks panema.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Valige tema parim päevane aeg.** [National Institute on Aging (NIA) juhised tegevuste kohandamiseks](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) soovitavad planeerida tegevusi ajaks, mil inimesel on kõige parem olla. Paljudele sobib kõige paremini hilishommik. Hiline pärastlõuna on sageli raskem; vaadake [rahustavaid hilispärastlõuna tegevusi](/caregiving/late-day-restlessness/).
+2. **Tehke ruum vaikseks.** Lülitage teler ja raadio välja ning sulgege võimaluse korral uks. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) soovitab enne vestluse alustamist müra ja segajaid vähendada.
+3. **Kontrollige esmalt mugavust.** Jook käeulatuses, enne tegevust käik tualettruumis, mugav tool ning prillid ja kuuldeaparaadid peas.
+4. **Tagage hea valgus.** Hele ja ühtlane valgus ilma ekraanil helkimiseta muudab pildid paremini nähtavaks.
+5. **Seadke mäng valmis enne, kui maha istute.** Avage see, valige seaded ja reguleerige helitugevus ise. Seejärel pöörake ekraan tema poole. Tahvelarvuti nõuannete jaoks vaadake [tahvelarvuti või telefoni seadistamist](/caregiving/tablets-and-screens/).
+6. **Toetage seade püsti.** Alus või kate, mis hoiab tahvelarvutit püsti, tähendab, et keegi ei pea seda käes hoidma ja osutamine on lihtsam.
 
-## How do I invite them without pressure?
+## Kuidas kutsuda teda kaasa ilma surveta?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Tehke kutse loomulikuks ja lihtsalt keeldutavaks. Mõned viisid, mis sageli sobivad:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- „Leidsin mõned aiapildid. Kas vaatame neid koos?”
+- „Kas sa aitaksid mind selle puslega? Ma ei saa hakkama.”
+- „Kas sulle meeldivad täna rohkem lilled või linnud?” (kahe valiku vahel on lihtsam otsustada kui avatud küsimuse puhul)
+- „Teen sinu õele kaarti. Mis värvi see võiks olla?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association soovitab selgitada tegevuse eesmärki, näiteks kaardi tegemist sõbrale, sest põhjus annab tegevusele tähenduse. Abi palumine toimib samuti, sest see aitab inimesel tunda end kasulikuna.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Kui ta ütleb ei, võtke seda vastu. Proovige hiljem uuesti või pakkuge midagi muud. Meie juhend [mida teha, kui ta ütleb ei](/caregiving/when-they-say-no/) annab rohkem nõu.
 
-## How long should a game last, and how fast should we go?
+## Kui kaua peaks mäng kestma ja kui kiiresti peaksime liikuma?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Laske inimesel tempot määrata ja planeerige lühikesi hetki. Ühise mängu jaoks ei ole tõenduspõhist ideaalset kestust. Kaks kuni viis rahulikku minutit võib olla terviklik tegevus.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Oodake kauem, kui tundub loomulik.** NIA soovitab anda inimesele vastamiseks rohkem aega ja püüda mitte vahele segada. Loendage mõttes kümneni, enne kui appi lähete.
+- **Üks samm korraga.** Andke üks lühike juhis („Puuduta pilti”) ja seejärel oodake. Näidake, ärge selgitage: osutage, kuhu puudutada.
+- **Tehke vabalt pause.** Kui ta peatub pildi kohta rääkima, võib mäng oodata. Kiirustada pole vaja.
+- **Laske tal vaadata.** NIA märgib, et mõned inimesed eelistavad vaadata, ja see on täiesti sobiv valik.
 
-## Should I correct wrong answers?
+## Kas ma peaksin valesid vastuseid parandama?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Ei. Kellegi õrn, kuid korduv parandamine annab talle teada, et ta eksib, isegi kui teil on head kavatsused. Alzheimer's Association soovitab mitte kritiseerida ega parandada kahjutuid tegevusi. Mängus on peaaegu iga eksimus kahjutu.
 
-| Instead of | Try |
+| Selle asemel | Proovige nii |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| „Ei, see on vale.” | „Proovime nii.” (näide, mille NIA toob) |
+| „Need ei sobi kokku. Vaata uuesti.” | Ärge öelge midagi ja tehke järgmine käik või „Need on mõlemad punased.” |
+| „Kas sa mäletad, kes see on?” | „Räägi mulle sellest pildist.” |
+| „Sa tegid selle juba ära.” | „See on hea valik. Teeme selle uuesti.” |
+| „No tule nüüd, sa ju tead seda.” | „Kas soovid, et ma näitan lõppu?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Kui eksimus teda selgelt häirib, aidake vaikselt. Osutage õigele pildile, tehke ise käik või tehke järgmises ringis mäng lihtsamaks. Kui vanasõna saab naljaka vale lõpu, naerge kaasa. Tema lõpp võib olla veel parem.
 
-## How do I make a game easier or harder?
+## Kuidas muuta mängu lihtsamaks või keerulisemaks?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Kohandage mängu päeva ja inimese järgi, mitte mõne sildi järgi. Sama inimene võib õhtul vajada lihtsamat varianti kui hommikul. NIA esimene nõuanne on sobitada tegevus sellega, mida inimene suudab teha, ja tagada, et tal oleks edu tunne.
 
-| Game | Make it easier | Make it a little harder |
+| Mäng | Tehke lihtsamaks | Tehke veidi keerulisemaks |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Alustage 4 plaadiga ja jätke pildid nähtavale | Rohkem plaate või peitke pildid, kui see tundub mugav |
+| [Find the Same](/games/find-the-same/) | 2 valikut | Kuni 4 valikut |
+| [Sort Together](/games/sort-together/) | Teie hoiate pilti, tema osutab korvile | Tema puudutab ise nii pilti kui ka korvi |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 tükki, rääkige enne tervest pildist | 9 tükki |
+| [Finish the Saying](/games/finish-the-saying/) | Näidake lõppu ja öelge see siis koos | Laske tal öelda lõpp enne puudutamist |
+| [Word Search](/games/word-search/) | Printige see välja, otsige koos ühte sõna, osutage selle esimesele tähele | Laske tal valida järgmine sõna, mida otsida |
+| [Coloring](/games/coloring/) | Teie valite kaks värvi, tema valib nende vahel | Tema valib kõik värvid ise |
+| [Conversation Cards](/games/conversation-cards/) | Lihtsalt vaadake pilti koos | Kasutage kaardil olevaid avatud küsimusi |
+| [Photo Pairs](/games/photo-pairs/) | Mõned armsad perefotod | Lisage rohkem fotosid |
+| [Picture Bingo](/games/picture-bingo/) | Iga mängija kõrval istub abistaja | Mängijad märgivad oma kaardid ise |
+| [Calm Breathing](/games/calm-breathing/) | Lihtsalt istuge ja vaadake koos | Hingake aeglaselt kaasa |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Märgid, et mäng on liiga raske: pikad pausid, mis näivad pigem murelikud kui mõtlikud, korduv „ma ei oska”, seadme eemale lükkamine või eksimused, mis inimest kurvastavad. Märgid, et mäng võib olla liiga lihtne: igavus või ütlus, et see on lapsik. Kui nii juhtub, võtke seda austavalt ja valige midagi, mis tundub täiskasvanulik, näiteks sõnaotsing, pärisfoto pusle või vestlus pildist tema varasemast tööst.
 
-## How do I turn a game into a conversation?
+## Kuidas muuta mäng vestluseks?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Kasutage iga pilti vestluse alustamiseks ja võtke kõike, mida inimene ütleb, hea vastusena. Paljude perede jaoks on see mängimise kõige parem osa.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Esitage avatud küsimusi, millel pole valet vastust.** „Mida sa märkad?” „Milline sulle meeldib?” „Räägi mulle sellisest köögist.”
+- **Jagage kõigepealt ise.** „Minu vanaemal oli selline koer.” Teie lugu teeb tal lihtsamaks oma loo jagada.
+- **Järgige kõrvalepõikeid.** Kui auto pilt viib jutuni reisist, on lugu ise tegevus. Jätke mäng pausile.
+- **Ärge kontrollige fakte.** Mälestuste jagamisel on meeldiv vestlus tähtsam kui täpsed üksikasjad. Kui lugu muutub võrreldes eelmise korraga, nautige uut versiooni.
+- **Kasutage mängusiseseid jutujuhte.** [Finish the Saying](/games/finish-the-saying/) pakub iga vanasõna järel vestluse alustamise küsimust ja [Conversation Cards](/games/conversation-cards/) on mõeldud just selleks. [Photo Pairs](/games/photo-pairs/) kasutab teie enda perefotosid, mis toovad sageli esile kõige rikkalikumad lood.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Rohkem ideid leiate meie juhenditest [mälestuste jagamise tegevuste](/activities/reminiscence/) ja [suhtlemise nõuannete](/caregiving/communication-tips/) kohta.
 
-## When should we stop?
+## Millal peaksime lõpetama?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Lõpetage esimeste väsimuse või rahutuse märkide korral ning ideaaljuhul veidi varem. Alzheimer's Association soovitab tegevus lõpetada või muuta siis, kui tähelepanu hajub või pettumus kasvab.
 
-Watch for:
+Pöörake tähelepanu järgmisele:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- haigutamine, longus istumine või pilgu ära libisemine ekraanilt;
+- rahutu liigutamine, püsti tõusmine või soov lahkuda;
+- ohkimine, lühikesed vastused või „ma ei oska seda”;
+- juhuslik puudutamine või seadme eemale lükkamine;
+- pisarad, ärritus või järsk tuju muutus.
 
-How to stop well:
+Kuidas hästi lõpetada:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Lõpetage millegi lihtsaga.** Üks viimane sobiv paar või viimane pilt, mida koos imetleda.
+- **Pange see enda arvele.** „Mul oleks nüüd tee aega. Kas lõpetame siinkohal?” aitab vältida muljet, et tal ei läinud hästi.
+- **Liikuge millegi füüsilise või rahustava juurde.** Lühike jalutuskäik, suupiste, pesu voltimine või muusika.
+- **Öelge midagi sooja.** „Mulle meeldis seda sinuga koos teha.” Ärge kiitke „õigete vastuste” eest, vaid rõõmustage koos veedetud aja üle.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Varasem lõpetamine, plaanide muutmine või mängust loobumine ja lihtsalt koos istumine on kõik head tulemused.
 
-## Can we play in a group or over a video call?
+## Kas saame mängida rühmas või videokõne teel?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Jah, natukese lisakorraldusega. Rühmas hoidke see väikese seltskonna juures, pange abistajad istuma nende kõrvale, kes abi vajavad, ja valige mäng, millel on selge ühine fookus. [Picture Bingo](/games/picture-bingo/) pakub prinditavaid kaarte ja ekraanil mängujuhti rühmadele. Rohkem infot leiate lehelt [tegevused hooldekodu rühmadele](/activities/care-home-groups/).
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Videokõne ajal saab kõnes osaleja pilti kirjeldada, samal ajal kui keegi toas osutab ja puudutab. Hoidke kõned lühikesed ja tuttavad. Meie juhend [telefoni- ja videokõnede](/activities/phone-and-video-calls/) kohta annab rohkem nõu.
 
-## What if a game just isn't working?
+## Mis siis, kui mäng lihtsalt ei suju?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Mõnel päeval ei sobi miski ja see ei räägi halvasti ei teist ega temast. Pange mäng ära ja proovige teisel kellaajal, teist mängu või üldse mitte mängida. Paljud head tegevused ei ole seotud ekraaniga: muusika, rätikute voltimine, fotoalbumi vaatamine või lühike jalutuskäik. Rohkem ideid leiate meie [tegevuste ideede](/activities/ideas/) lehelt.

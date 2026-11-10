@@ -1,32 +1,32 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Деменцин пазлаш: кӏортий пазлаш, харфийн хьаьжжар, онлайн пазлаш"
+seoTitle: "Деменци: пазлаш ва харфийн хьаьжжар"
+description: "Деменци долу адамна пазл, харфийн хьаьжжар ва онлайн пазл хӏун хӏара дӏаэвала: кӏортий ӏаьдлан, суьрт, йоӏад шрифт, юкъара хилар, хьалха даккхийла."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Деменци долу адамна хӏара пазл у, шен кӏаънан тӏехь хӏоьттина йолу, ӏаьдлан
+  дӏаяхь дӏа хилар. Кӏортий ӏаьдлан, мелла кӏортий ӏаьдлан, адамийн суьрт
+  долу пазл харжа. Харфийн хьаьжжар а, кроссворд а йоӏад шрифтехь дика ву.
+  Четыре кӏортий онлайн пазл дуьхьало хенан хӏоьттинчу адамна дика ву.
+  Дика хилча дӏаяздан.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Хӏокху пазл дӏаелча харжа: пазл сан кӏаьнта йоӏ, цунна хӏокху кӏортий пазл дӏаэвала."
+  - "Кӏорт тӏаьхьа, мотт тӏехь ворхӏ стаг дӏахьоьхуш: сийсаза, цӏа-юкъар тӏаьхьа цӏакъа."
+  - "Адамийн суьрт харжа. Ӏаьдлан, кухня, машина, хӏаьк ӏаьхтар; мультфильм йоцу."
+  - "Юкъара хилар хӏокху доьзна ву. Кӏорт дӏаяхь, кӏорт тӏаьхьа, суьртан ӏаьнта кехат хӏокха тӏехь хӏоьттар."
+  - "Йоӏад шрифтан харфийн хьаьжжар а, 4 йа 9 кӏорт долу онлайн пазлаш а хӏун хӏара ву."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Деменци долу адамна мера кӏорт пазл дика ву?"
+    a: "Ма-хӏасса дожар йоцу. Шо хьалха 1000-кӏорт пазл даьхьа хилчу адамна шен хӏуъа 200-300 кӏорт дика ду, амма кхидеш цхьа дуъ йолу кӏорт тӏаьхьа дика хилла. Пазл болх йолча йа кхиаш долча, кӏорт тӏаьхьа хьо. Тхан сайтан онлайн Суьрт-пазл 4 йа 9 кӏорт долу ду."
+  - q: "Пазлаш деменци долу адамна дика ду?"
+    a: "Дукха адамаш дӏахьоьхуш ду, поьлла шен пазлаш хьоьхкина хилча. Пазл кӏаьнан хӏоьттина йолу болх, цхьаьна мотт а, хенан суьрт а дӏакхуьлу. Пазл деменцин тӏом йа кхиар дӏахьоьхуш дӏакхуьлу цхьа а дакъа йоцуш; тӏехь хӏоьттар хӏокху дика хилар йа юкъара хилар дукха."
+  - q: "Кӏорт пазл маре вуй йолча, хӏун дӏаэвала?"
+    a: "Жима дӏаэвала, шун дукха шена дӏаэвала: кӏорт-кӏорт дӏадайа, йа цхьа тӏаьхьа кӏорт шунна ӏаьнта. Четыре кӏортий онлайн пазл, кӏорт тӏаьхьа ӏаьнта йа суьрт тӏаьхьа тӏехь хьаьжжар хӏун дӏаэвала."
+  - q: "Кроссворд а, харфийн хьаьжжар а деменцин хенан адамна дика ду?"
+    a: "Кхиар хьалха дика ду, йоӏад шрифтехь. Харфаш тӏехь а, аьхка а тӏехь хьаьжжар дика ду; диагональ йа кӏаьдна дешнаш йолу харфийн хьаьжжар дукха жимаяр ду. Тӏехь хӏоьттина дешнаш, дешнан ӏаьнта цхьана ӏаьнта дӏаяздан."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +45,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Кӏорт пазл стол тӏехь дӏаоьцу — юкъара болх дӏакхуьлу. Шун тӏехь тӏехьа дийца хьакъала дац, суьрт хьакъала дӏаэвала, а кӏорт дӏаяхь дика ву. Амма пазлаш деменци кхиархьа дӏахӏоьттина. Тӏаьхьа пазл, маре хӏун хуьлу, ца хьоьхкина, а даьхьа тӏом кхиар дӏакхуьлу. Хӏокху агӏо дӏаоьцу пазлаш, харфийн хьаьжжар, онлайн пазлаш хӏун харжа, а хӏокху хенан дӏаэвала дӏа.
 
-## Are puzzles good for people with dementia?
+## Пазлаш деменци долу адамна дика ду?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Дукха адамаш дӏахьоьхуш ду, цхьаьна хьалха пазлаш хьоьхкина хилча. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) кхиар хьалха хӏоьттина йолу болх тӏехь харфийн хьаьжжар, карти, цхьана тӏом-болх сию, а [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) онлайн болх а, планшетан пазл а шен кхиар дӏахьоьхуш дика ду.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Пазл лечение дац. Пазл деменцин кхиар цхьа а дакъа йоцуш дӏаяхьа дуъ. Хьо [брейн-игранан а, деменцин а](/brain-health/brain-games/) тӏехь хӏоьттина, хьехам хьакъала дӏаяздан. Пазл дӏахьоьхуш хилар — дика хенан хьо юкъара, хьо дийна дӏа. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) шен хьехамна: дика дӏаэвала, тӏом дац.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Деменци долу адамна пазл мегара харжа?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Адам мегара дӏахьоьхуш ву, а кхиар хенан стаг мегара ву, хӏумнах дӏахьоьхуш доцучу цуьнан мийла.
 
-### Number of pieces
+### Кӏортий ӏаьдлан
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ма-хӏасса дожар йоцу. Шо хьалха дукха кӏорт хьоьхкина адам шен хӏуъа дукха кӏорт дӏахьоьхуш ву, а цхьа адам цхьа дуъ кӏорт тӏехь дика ву. Хьехам: кхидеш пазл болх хилча, кӏорт тӏаьхьа дӏаоьц. Дика хилча а, дӏаэвала ца хьоьхкина хилча, кӏорт дӏаоьц.
 
-### Piece size and feel
+### Кӏорт ӏаьдлан, мотт
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Дукха кӏорт** дӏаэвала ва, цхьана хӏара ӏаьнта дӏакхуьлу.
+- **Дӏаяздан, тӏехь кӏорт** хьалха тӏехь ду, дӏаяхьа дӏакхуьлу.
+- **Матовый мотт** цӏаьхьа тӏехь йа галан тӏехь чӏаг дӏакхуьлу.
+- **Жима кӏорт харжа йоцу,** стаг кхиар тӏехь хӏоьттина хилча, кӏорт шен мийлан тӏехь дӏахьоьхуш хилар дӏакхуьлу.
 
-### The picture
+### Суьрт
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Адамийн тема.** Ӏаьдлан, кухня, хьалха машина, фермин хӏаьк, юкъаралла дийна шен болх. Мультфильм йа бӏаьхо дӏатоьхна кӏорт йоцу.
+- **Тӏаьхьа-тӏаьхьа ӏаьнта.** Цӏа хӏаьк, кийрийн хӏаьк, а кӏаьнан ӏаьнта, цхьана ӏаьнта ӏаьнта. Кӏаъ дукха адам тӏехь йолу кӏорт тӏаьхьа дӏаэвала.
+- **Хӏокху тӏехь, мелла хӏаьк.** Шун кхиар тӏехь хӏоьттина ӏаьнта, йа шо хӏоьттина хобби, дукха цуьнан хӏуъ дика. Цхьаьна суьрт фото тӏехь пазл дӏатоьхна ма-хӏасса дожар йоцу.
 
-## How do you do a puzzle together?
+## Пазл юкъара хӏара дӏаэвала?
 
-Set it up so the person can get straight to the enjoyable part.
+Ша хӏара дӏакхуьлу, стаг дика кӏорт тӏаьхьа дӏаэвала.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Дика кхин ӏаьнта хӏоьттар.** Дика гӏо, ӏаьнта йолу стул, стол йа поднос, пазл дӏаоьцу.
+2. **Кӏорт тӏаьхьа хӏокху** тӏехь хӏоьттар, шуна дукха дӏаэвала.
+3. **Кӏорт дӏаэвала,** суьрт тӏехь дӏахьоьхуш.
+4. **Кӏорт-кӏорт дӏаэвала** шена, йа шуна кхиар тӏехь, а дукха ӏаьнта хӏоьттар стагна.
+5. **Кӏорт тӏехь цвет тӏехь дӏаоьцу** жима тарелка йа поднос тӏехь.
+6. **Цхьа кӏорт дӏаэвала,** пазл дукха хилча. «Хӏара дӏатоьхна кӏорт, хӏаьк хьо мийла?»
+7. **Суьрт тӏехь дийца,** хӏокху дукхах. «Цхьа хьо поьлла дӏаэвала дика».
+8. **Дӏаоьцу,** дукха дийнах кхин ӏаьнта. Хӏара ма-хӏасса.
+9. **Дика дӏаэвала тӏехь дӏаяхь,** кӏорт дӏаяхь хӏокху дика хилча, дукха дӏаэвала.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) хьехам: стагна дӏаэвала, тӏом хилча ӏаьнта, йа шун кхиар тӏехь, хӏумнах хӏокху дика хилча. Шу кӏорт дӏаяхьа, хӏара кӏорт тӏехь ӏаьнта — хӏокху а болх ву.
 
-## Easy online puzzles
+## Онлайн пазлаш, жима
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Планшетан пазлаш хӏун дика ду: кӏорт дӏаяхьа доцу, суьрт экран тӏехь дукха, стол дӏаэвала ца хьоьхкина.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Тхан сайтан бесплатан [Суьрт-пазл](/games/picture-puzzle/) суьрт 4 йа 9 кӏорт тӏехь дӏаэвала. Хьо кӏорт хӏара тӏехь дӏаэвала, суьрт тӏехь цхьаьна хилла. Суьрт экран тӏехь дукха, хенан таймер йоцу, а хьо дӏаэвала дика хилча. Четыре кӏорт дукха адамна хенан хӏоьттинчу тӏехь дика ду, шуна цхьаьна хьалха хилча.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Жима суьрт-болх, [Find the same](/games/find-the-same/) тӏехь хьо суьрт тӏехь хӏоьттина суьрт тӏехь мекха дӏахьоьхуш дӏакхуьлу, йа [Sort together](/games/sort-together/) тӏехь суьрт корзинан тӏехь дӏаоьцу: кухня, а ӏаьдлан.
 
-## Word puzzles: word searches and crosswords
+## Дешнан пазлаш: харфийн хьаьжжар, кроссворд
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Дешнан пазлаш дика ду стага, шен хьалха дукха хӏоьттина, деменцин хенан хьалха.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Йоӏад шрифтан харфийн хьаьжжар.** Тхан бесплатан [Харфийн хьаьжжар](/games/word-search/) йоӏад харфаш, жима дешнаш, харфаш тӏехь а, аьхка а, цӏа-юкъар дӏакхуьлу; диагональ йа кӏаьдна дешнаш доцу. Экран тӏехь, йа кехат тӏехь дӏаяздан.
+- **Дешнан ӏаьнта цхьана ӏаьнта.** Цхьана дешан ӏаьнта, цхьана хьаьжжа. Цхьа харф тӏехь, хӏумнах дика ду.
+- **Йоӏад шрифтан кроссворд,** кехат тӏехь хьалха дика. Жима хӏоьттина, хенан кроссворд — ӏаьнта, сийсаза. Йоьхна кроссворд дукха дӏакхуьлу.
+- **Дешнаш тӏехь дийца.** «Ӏаьдлан» дешан тӏехь дукха дийца хьакъала дӏакхуьлу: ом, мотт, цӏа.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Кехат тӏехь хӏоьттинчу болхан а, хӏара кехат дӏаяздан дика дӏаэвала тӏехь, [деменцин кехат болх](/activities/printable/) тӏехь хьехам.
 
-## Which puzzles suit each stage?
+## Цхьаьна хенан пазлаш, стагна ма?
 
-Stages overlap, and good and hard days are normal.
+Хенан кхиар дукха хилча, цхьа-цхьа дӏакхуьлу. Хӏара а, дика а дукха дӏакхуьлу.
 
-| Stage | Puzzles that often fit | Your role |
+| Хенан | Пазл дика | Шун болх |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Хьалха | Дукха кӏорт йолу дӏахьоьхуш пазлаш, йоӏад шрифтан кроссворд а, харфийн хьаьжжар а, 9 кӏорт онлайн пазл | Ӏаьнта: стаг шен хьехар; хӏара тӏом дӏаэвала |
+| Тӏехь | Ворхӏ-кӏорт кӏортий пазлаш, 4 кӏорт онлайн пазл, харфийн хьаьжжар цхьаьна дийца | Хӏоьттар, кӏорт дӏаоьцу, цхьа-цхьа дӏаэвала |
+| Тӏаьхьа | Хӏокху суьрт цхьаьна хьаьжжар, ши суьрт долу Find the same, жима кӏорт хӏара | Стагна дӏаэвала; шун ӏаьнта — болх ду |
 
-## When should you make a puzzle easier, or stop?
+## Пазл жима дӏаэвала йа дӏаяхьа?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Пхьарса, кӏорт дӏаяхьа, «ца хӏун» хенан, а шун тӏом. Ца дӏаэвала: хӏокху хенан хӏара хилча, цхьа кхин дӏаэвала.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Жима дӏаэвала.** Дукха кӏорт, йа цхьа-пхьа кӏорт шуна.
+- **Шун дукха шена дӏаэвала,** дика болх стагна ӏаьнта.
+- **Кхин болх тӏехь дӏаэвала:** цвет тӏехь кӏорт, 4 кӏорт онлайн пазл, йа [раскраска](/games/coloring/).
+- **Дӏаяхьа.** Пазл дӏаяхьа, чай дӏаэвала. Дукха дийнах кхин, йа дӏаяхьа.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Пазл деменцин тӏом хӏокху ма йолча, цхьаьна дӏаяхьа дика ду. Цхьа кхин дика болх цхьаьна долу: тхан [101 ӏаьнта](/activities/ideas/) тӏехь дукха болх дӏахьоьхуш ду.

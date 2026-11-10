@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "សកម្មភាពតាមទូរសព្ទ និងវីដេអូសម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង"
+seoTitle: "សកម្មភាពវីដេអូសម្រាប់ជំងឺវង្វេង"
+description: "សកម្មភាពតាមទូរសព្ទ និងវីដេអូសម្រាប់គ្រួសារនៅឆ្ងាយ៖ បង្ហាញរបស់ៗ អានឱ្យស្តាប់ ច្រៀង លេងហ្គេមលើអេក្រង់រួម និងគន្លឹះសម្រាប់អ្នកជួយ។"
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  ការហៅទូរសព្ទជាមួយអ្នកដែលរស់នៅជាមួយជំងឺវង្វេង នឹងល្អបំផុតនៅពេលវាខ្លី
+  ទៀងទាត់ និងមានអ្វីមួយធ្វើរួមគ្នា ដូចជាបង្ហាញសត្វចិញ្ចឹម ឬសួនច្បារ
+  មើលរូបថត អានឱ្យស្តាប់ ច្រៀងបទចម្រៀងដែលពេញចិត្ត ឬលេងហ្គេមស្រាលៗ
+  នៅលើអេក្រង់រួម។ ប្រសិនបើអាច សូមហៅនៅម៉ោងដដែលៗជារៀងរាល់ថ្ងៃ
+  និយាយម្តងម្នាក់ៗ និងសុំឱ្យអ្នកនៅក្បែរនោះជួយ។
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "សកម្មភាពមួយអាចជួយឱ្យការហៅមានទម្រង់ និងកាត់បន្ថយសម្ពាធនៃការសន្ទនា។ សូមរៀបចំរឿងសាមញ្ញមួយដើម្បីចែករំលែក។"
+  - "ការហៅខ្លីៗ និងទៀងទាត់នៅម៉ោងដដែលៗក្នុងថ្ងៃ ជាញឹកញាប់មានប្រសិទ្ធភាពជាងការហៅយូរៗ តែម្តងម្កាល។"
+  - "និយាយម្តងម្នាក់ៗ។ ការហៅជាក្រុមដែលមានមនុស្សច្រើននិយាយលាយគ្នា ពិបាកតាមទាន់ ជាពិសេសប្រសិនបើមានបញ្ហាការស្តាប់។"
+  - "អ្នកជួយនៅក្បែរអាចរៀបចំឧបករណ៍ អង្គុយក្បែរអ្នកដែលអ្នកថែទាំ និងធ្វើជា «ដៃ» សម្រាប់ហ្គេម ឬរូបថតណាមួយ។"
+  - "ប្រសិនបើការហៅមិនដំណើរការល្អនៅថ្ងៃនេះ សូមបញ្ចប់ដោយក្តីកក់ក្ដៅ។ អ្នកអាចសាកល្បងម្តងទៀតនៅថ្ងៃស្អែកបាន។"
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "តើខ្ញុំអាចធ្វើអ្វីខ្លះនៅពេលវីដេអូហៅជាមួយអ្នកដែលរស់នៅជាមួយជំងឺវង្វេង?"
+    a: "សូមរៀបចំសកម្មភាពសាមញ្ញមួយ៖ បង្ហាញសួនច្បារ សត្វចិញ្ចឹម ឬផ្ទះបាយរបស់អ្នក មើលរូបថតចាស់ៗជាមួយគ្នា អានកំណាព្យខ្លី ឬសំបុត្រមួយឱ្យស្តាប់ ច្រៀងបទចម្រៀងដែលគាត់ចូលចិត្ត ធ្វើម្ហូបតាមរូបមន្តដូចគ្នានៅពេលតែមួយ ឬលេងហ្គេមរូបភាពស្រាលៗនៅលើអេក្រង់រួម។ សកម្មភាពទាំងនេះជួយឱ្យការហៅមានចំណុចផ្តោត ដើម្បីកុំឱ្យអ្នកនោះត្រូវទទួលបន្ទុកការសន្ទនា។"
+  - q: "ការហៅវីដេអូគួរមានរយៈពេលប៉ុន្មាន?"
+    a: "ជាធម្មតាខ្លីជាងអ្វីដែលអ្នកគិត។ ពេលប៉ុន្មាននាទីដែលកក់ក្ដៅក៏អាចគ្រប់គ្រាន់ហើយ ជាពិសេសប្រសិនបើអ្នកនោះងាយនឿយហត់។ ការហៅទៀងទាត់នៅម៉ោងដដែលៗក្នុងថ្ងៃ អាចសំខាន់ជាងរយៈពេលនៃការហៅនីមួយៗ។"
+  - q: "ចុះប្រសិនបើគាត់ច្រឡំ ឬមិនសប្បាយចិត្តនៅពេលហៅវីដេអូ?"
+    a: "មនុស្សខ្លះអាចយល់ថាមុខនៅលើអេក្រង់គួរឱ្យច្រឡំ។ សូមសាកល្បងហៅទូរសព្ទធម្មតា ផ្ញើសារវីដេអូដែលបានថតទុកឱ្យអ្នកជួយបើកនៅពេលស្ងប់ ឬផ្ញើកាត និងរូបថតតាមប្រៃសណីយ៍។ ប្រសិនបើការហៅមិនល្អ សូមបញ្ចប់ដោយក្តីសប្បុរស ហើយសាកល្បងម្តងទៀតនៅថ្ងៃផ្សេង ឬនៅម៉ោងផ្សេង។"
+  - q: "តើខ្ញុំអាចជួយម៉ាក់ខ្ញុំហៅវីដេអូបានយ៉ាងដូចម្តេច ប្រសិនបើគាត់មិនអាចប្រើទូរសព្ទបាន?"
+    a: "សូមសុំសមាជិកគ្រួសារ អ្នកជួយថែទាំនៅផ្ទះ ឬបុគ្គលិកមជ្ឈមណ្ឌលថែទាំជួយចាប់ផ្តើមការហៅ និងកាន់ ឬដាក់ឧបករណ៍ឱ្យនឹង។ មជ្ឈមណ្ឌលថែទាំជាច្រើនជួយគ្រួសារធ្វើការហៅវីដេអូ ដូច្នេះសូមសួរថាពួកគេមានជំនួយអ្វីខ្លះ។ ថេប្លេតដែលដាក់លើជើងទ្រ មានអេក្រង់ធំ និងសម្លេងគ្រប់គ្រាន់ នឹងធ្វើឱ្យកាន់តែងាយស្រួលសម្រាប់គ្រប់គ្នា។"
+  - q: "តើយើងអាចលេងហ្គេមជាមួយគ្នាតាមវីដេអូបានទេ?"
+    a: "បាន។ វិធីងាយស្រួលបំផុតគឺឱ្យមនុស្សម្នាក់ចែករំលែកអេក្រង់របស់គាត់ក្នុងកម្មវិធីវីដេអូ ខណៈដែលម្នាក់ទៀតប្រាប់គាត់ថាត្រូវចុចរូបភាពមួយណា។ ឬអ្នកជួយនៅក្បែរអាចបើកហ្គេមដូចគ្នានៅលើថេប្លេត ហើយចុចជំនួសអ្នកនោះ ខណៈដែលអ្នកនិយាយជាមួយគាត់។ សូមជ្រើសរើសហ្គេមដែលគ្មានម៉ោងកំណត់ ឬពិន្ទុ។"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+ការរស់នៅឆ្ងាយពីអ្នកដែលរស់នៅជាមួយជំងឺវង្វេង អាចធ្វើឱ្យអ្នកមានអារម្មណ៍ថាគ្មានលទ្ធភាពជួយអ្វីបាន។ ការហៅទូរសព្ទ និងវីដេអូមិនអាចជំនួសការឱបបានទេ ប៉ុន្តែវានៅតែអាចនាំមកនូវពេលវេលានៃការទាក់ទងគ្នាយ៉ាងពិតប្រាកដ ប្រសិនបើអ្នករៀបចំបានល្អ។ គន្លឹះសំខាន់គឺឈប់ព្យាយាមសន្ទនាធម្មតាដូចធម្មតា ហើយរៀបចំអ្វីមួយសាមញ្ញដើម្បីធ្វើរួមគ្នាជំនួសវិញ។ ទំព័រនេះនិយាយអំពីសកម្មភាពដែលស័ក្តិសមសម្រាប់វីដេអូ និងទូរសព្ទ វិធីរៀបចំការហៅ និងអ្វីដែលអ្នកនៅក្បែរអាចធ្វើដើម្បីជួយ។
 
-## Why plan an activity for a call?
+## ហេតុអ្វីគួររៀបចំសកម្មភាពសម្រាប់ការហៅ?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+សកម្មភាពមួយជួយឱ្យការហៅមានទម្រង់។ សំណួរដូចជា «សុខសប្បាយជាទេ? អ្នកបានធ្វើអ្វីខ្លះថ្ងៃនេះ?» សុំឱ្យអ្នកនោះចងចាំ និងរៀបរាប់ឡើងវិញ ដែលអាចពិបាក និងបង្កភាពតានតឹង។ ចំណែកឃ្លាដូចជា «មើលនេះ ម្ទេសប៉េងប៉ោះទុំហើយ» មិនសុំអ្វីពីគាត់ទាល់តែសោះ។
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association ចង្អុលបង្ហាញថា ការសន្ទនាជាក្រុមធំតាមវីដេអូអាចពិបាក ហើយបានណែនាំឱ្យ[បន្ថែមទម្រង់ឱ្យការហៅ](https://www.alz.org/help-support/caregiving/holidays) ដូចជាការច្រៀងបទចម្រៀង ឬចែករំលែករូបភាពជាដើម។
 
-## What activities work on a video call?
+## តើសកម្មភាពអ្វីខ្លះដែលស័ក្តិសមនៅលើវីដេអូ?
 
-### Show and tell
+### បង្ហាញ និងប្រាប់
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+នាំពិភពលោករបស់អ្នកមកឱ្យគាត់ឃើញ។ យកកាមេរ៉ាដើរយឺតៗជុំវិញសួនច្បារ ណែនាំសត្វឆ្កែ បង្ហាញអ្វីដែលអ្នកកំពុងចំអិន លើកគំនូររបស់ចៅឡើងបង្ហាញ ឬចង្អុលទូរសព្ទទៅក្រៅបង្អួចឱ្យឃើញព្រិល។ ពិពណ៌នាអ្វីដែលអ្នកឃើញដោយពាក្យសាមញ្ញៗ ហើយទុកពេលឱ្យគាត់មានប្រតិកម្ម។ មិនចាំបាច់សួរសំណួរទេ។
 
-### Look at photos together
+### មើលរូបថតជាមួយគ្នា
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+លើករូបថតបោះពុម្ពចាស់មួយទៅមុខកាមេរ៉ា ឬចែករំលែកអេក្រង់ដើម្បីបង្ហាញរូបថតធំៗម្តងមួយៗ។ និយាយអំពីអ្វីដែលអ្នកកត់សម្គាល់៖ «មើលមួករបស់លោកតា»។ សូមជៀសវាងសំណួរដូចជា «នេះជានរណា?» ឬ «អ្នកចាំទេ?» ប្រសិនបើអ្នកនោះហៅឈ្មោះនរណាម្នាក់ខុស សូមគ្រាន់តែយល់ព្រមតាម។ សូមមើល[មគ្គុទ្ទេសក៍រំលឹកអនុស្សាវរីយ៍](/activities/reminiscence/)របស់យើងសម្រាប់ការជម្រុញដោយទន់ភ្លន់។
 
-### Read aloud
+### អានឱ្យស្តាប់
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+អានកំណាព្យខ្លីមួយ អត្ថបទសាសនា សៀវភៅកុមារដែលអ្នកចូលចិត្តឱ្យចៅស្តាប់ក្នុងការហៅតែមួយ សំបុត្រពីសាច់ញាតិ ឬទំព័រមួយពីសៀវភៅដែលគាត់ធ្លាប់ស្រឡាញ់។ ការអានឱ្យស្តាប់ផ្តល់ឱ្យអ្នកនោះនូវអ្វីមួយស្ងប់ស្ងាត់ដើម្បីស្តាប់ ដោយមិនចាំបាច់ត្រូវឆ្លើយតបទេ។
 
-### Sing or listen to music together
+### ច្រៀង ឬស្តាប់តន្ត្រីជាមួយគ្នា
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+ច្រៀងបទចម្រៀងដែលគាត់ស្គាល់ច្បាស់ ឬបើកបទចម្រៀងដែលគាត់ចូលចិត្តនៅខាងអ្នក។ សម្រាប់មនុស្សជាច្រើន ការច្រៀងតាមងាយស្រួលជាងការនិយាយ។ សូមមើល[មគ្គុទ្ទេសក៍សកម្មភាពតន្ត្រី](/activities/music/)របស់យើង។
 
-### Cook or bake at the same time
+### ចំអិន ឬដុតនំក្នុងពេលតែមួយ
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association ណែនាំឱ្យរៀបចំការហៅវីដេអូដើម្បីចំអិន ឬដុតនំតាមរូបមន្តពិសេសជាមួយគ្នា។ រៀបចំការហៅនៅក្នុងផ្ទះបាយទាំងពីរ។ អ្នកនៅក្បែរអាចកូរ ឬភ្លក់ ខណៈដែលអ្នកធ្វើតាមកាតរូបមន្តចាស់របស់គាត់។
 
-### Watch something together
+### មើលអ្វីមួយជាមួយគ្នា
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+សមាគមក៏ណែនាំឱ្យមើលភាពយន្តដែលពេញចិត្តក្នុងពេលតែមួយពីផ្ទះផ្សេងគ្នា ខណៈដែលនិយាយតាមទូរសព្ទ ឬវីដេអូ។ សម្រាប់អ្នកដែលរស់នៅជាមួយជំងឺវង្វេង វីដេអូខ្លីៗ វគ្គកម្មវិធីទូរទស្សន៍ចាស់ៗ ឬការប្រកួតកីឡាមួយ អាចស័ក្តិសមជាងភាពយន្តពេញមួយเรื่อง។
 
-### Play a gentle game on a shared screen
+### លេងហ្គេមស្រាលៗនៅលើអេក្រង់រួម
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+កម្មវិធីវីដេអូជាច្រើនអនុញ្ញាតឱ្យអ្នកចែករំលែកអេក្រង់របស់អ្នក។ អ្នកបើកហ្គេម ហើយចុច ខណៈដែលអ្នកនោះប្រាប់ ឬចង្អុលថាគួរជ្រើសរើសរូបភាពមួយណា។ ឬអ្នកជួយនៅក្បែរអាចបើកហ្គេមដូចគ្នានៅលើថេប្លេត ហើយចុចជំនួសគាត់ ខណៈដែលអ្នកនិយាយជាមួយគាត់។
 
-Games that work well this way:
+ហ្គេមដែលស័ក្តិសមសម្រាប់វិធីនេះ៖
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** អ្នកអានសុភាសិតដែលគេស្គាល់ច្បាស់ គាត់និយាយបន្តចប់ ហើយបន្ទាប់មកមានការជម្រុញដោយសម្លេង។
+- **[Picture Pairs](/games/picture-pairs/):** ហ្គេមផ្គូផ្គងស្រាលៗដែលមានរូបភាពធំៗ អាចបង្ហាញឱ្យមើលឃើញនៅដដែល គ្មានម៉ោងកំណត់ និងគ្មានពិន្ទុ។
+- **[Conversation Cards](/games/conversation-cards/):** រូបភាពមួយ និងសំណួរបើកចំហដើម្បីនិយាយគ្នា។
+- **[Photo Pairs](/games/photo-pairs/):** ហ្គេមផ្គូផ្គងដែលបង្កើតពីរូបថតដែលអ្នកជ្រើសរើសនៅលើឧបករណ៍របស់អ្នកផ្ទាល់។ រូបថតនៅតែមានក្នុងកម្មវិធីរុករករបស់អ្នក ហើយអ្នកនោះមើលឃើញតាមរយៈអេក្រង់រួមរបស់អ្នក។
 
-### Recorded messages
+### សារដែលបានថតទុក
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+នៅពេលការហៅផ្ទាល់ពិបាក សូមថតវីដេអូខ្លីមួយ៖ ការស្វាគមន៍ បទចម្រៀងមួយ ឬការដើរជុំវិញទីធ្លារបស់អ្នក។ អ្នកជួយអាចបើកវានៅពេលស្ងប់ៗ បានច្រើនដងតាមដែលអ្នកនោះចូលចិត្ត។ Alzheimer's Association បានលើកឡើងអំពីការថត និងផ្ញើពេលវេលាពិសេសៗ ដូចជាកុមារបើកអំណោយជាដើម។
 
-## What about plain phone calls?
+## ចុះចំពោះការហៅទូរសព្ទធម្មតាវិញ?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+ការហៅទូរសព្ទធម្មតានៅតែមានសារៈសំខាន់។ Dementia Australia ណែនាំឱ្យ[ហៅនៅម៉ោងដដែលៗជារៀងរាល់ថ្ងៃ](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ហើយកុំប្រញាប់ ព្រោះមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេងអាចត្រូវការពេលដើម្បីឆ្លើយតប។ នៅពេលនិយាយតាមទូរសព្ទ៖
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- និយាយឈ្មោះ និងទំនាក់ទំនងរបស់អ្នកភ្លាមៗ៖ «សួស្តីប៉ា នេះជាអ្នកស្រី Jenny កូនស្រីរបស់ប៉ា»។
+- និយាយយឺតៗ ប្រើប្រយោគខ្លីៗ និងនិយាយម្តងមួយគំនិត។
+- ផ្តល់ព័ត៌មានជំនួសការសួររកព័ត៌មាន៖ «ម្សិលមិញខ្ញុំបានធ្វើម្ហូបសាច់ជ្រូកខតាមរូបមន្តរបស់ប៉ា»។
+- អានកំណាព្យខ្លីមួយ ឬច្រៀងក Couplet មួយនៃបទចម្រៀងដែលគាត់ចូលចិត្ត។
+- និយាយឱ្យខ្លី ហើយបញ្ចប់ដោយពាក្យកក់ក្ដៅ។
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia ក៏ចង្អុលបង្ហាញថា ការហៅវីដេអូអាចជួយបាន នៅពេលការនិយាយកាន់តែពិបាក ព្រោះអ្នកនោះអាចមើលឃើញមុខរបស់អ្នក។ ប្រសិនបើការហៅទូរសព្ទធម្មតាចាប់ផ្តើមច្រឡំ សូមសាកល្បងវីដេអូ ឬផ្ទុយទៅវិញ។
 
-## How do I set up a video call that works?
+## តើខ្ញុំត្រូវរៀបចំការហៅវីដេអូឱ្យមានប្រសិទ្ធភាពយ៉ាងដូចម្តេច?
 
-**Before the call:**
+**មុនពេលហៅ៖**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **ជ្រើសរើសម៉ោងទៀងទាត់** ដែលជាធម្មតាអ្នកនោះបានសម្រាកហើយ ហើយរក្សាឱ្យបានដដែលៗ។ ទម្លាប់ប្រចាំថ្ងៃអាចជួយបាន។
+2. **សម្របសម្រួលជាមួយអ្នកជួយនៅក្បែរ។** ការផ្ញើសារមួយថ្ងៃមុន អាចជួយឱ្យគាត់រៀបចំបាន។
+3. **ពិនិត្យឧបករណ៍។** ថេប្លេតដែលដាក់លើជើងទ្រងាយស្រួលជាងទូរសព្ទដែលកាន់ក្នុងដៃ។ សូមប្រាកដថាវាមានថ្មពេញ អេក្រង់ភ្លឺ និងសម្លេងគ្រប់គ្រាន់។ បើកចំណងជើងរង ប្រសិនបើកម្មវិធីមាន និងអ្នកនោះអាចអានបាន។
+4. **រៀបចំសកម្មភាពមួយ** ហើយរៀបចំអ្វីៗទាំងអស់ឱ្យរួចរាល់។
 
-**During the call:**
+**កំឡុងពេលហៅ៖**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **អង្គុយឱ្យជិតកាមេរ៉ា** នៅកន្លែងដែលមានពន្លឺល្អ ហើយหันមុខទៅរកបង្អួច មិនមែនឱ្យបង្អួចនៅពីក្រោយអ្នកទេ។
+- **ណែនាំខ្លួនអ្នក** រាល់ពេល ដោយប្រាប់ឈ្មោះ និងទំនាក់ទំនង។
+- **និយាយម្តងម្នាក់ៗ។** Alzheimer's Association ចង្អុលបង្ហាញថា ការនិយាយលាយគ្នាពិបាកសម្រាប់មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង និងមនុស្សដែលមានបញ្ហាការស្តាប់។ ប្រសិនបើសាច់ញាតិច្រើននាក់ចូលរួម សូមនិយាយម្តងម្នាក់ៗ ឬរក្សាឱ្យមានតែពីរ ឬបីនាក់ប៉ុណ្ណោះ។
+- **សួរម្តងមួយសំណួរ។** Family Caregiver Alliance ណែនាំឱ្យប្រើ[សំណួរសាមញ្ញៗដែលអាចឆ្លើយថាបាទ/ចាស ឬទេ](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) ហើយបង្ហាញជម្រើសនៅពេលដែលអាចធ្វើបាន។
+- **ទុកពេលស្ងៀមយូរបន្តិច។** សូមរង់ចាំចម្លើយ។ បើគាត់កំពុងស្វែងរកពាក្យមួយ អ្នកអាចស្នើពាក្យនោះបាន។
+- **ប្រើមុខ និងសម្លេងរបស់អ្នក។** ញញឹម ងក់ក្បាល និងរក្សាសម្លេងឱ្យកក់ក្ដៅ។ ការបង្ហាញអារម្មណ៍ជាញឹកញាប់មានន័យច្រើនជាងពាក្យសម្ដី។
+- **កុំកែតម្រូវ។** ប្រសិនបើអ្នកនោះនិយាយអ្វីមួយដែលមិនត្រឹមត្រូវ សូមទុកវាចោល។
 
-**Ending the call:**
+**ពេលបញ្ចប់ការហៅ៖**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- បញ្ចប់មុនពេលអ្នកនោះនឿយហត់ ហើយប្រសិនបើអាច សូមបញ្ចប់នៅពេលមានអារម្មណ៍ល្អ។
+- ប្រើពាក្យលាគ្នាដដែលៗរាល់ពេល៖ «ខ្ញុំនឹងហៅទៅអ្នកថ្ងៃស្អែកនៅម៉ោងអាហារថ្ងៃត្រង់។ ខ្ញុំស្រឡាញ់អ្នក»។
+- កុំអូសបន្លាយយូរពេក។
 
-## Tips for the helper on site
+## គន្លឹះសម្រាប់អ្នកជួយនៅក្បែរ
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+ប្រសិនបើអ្នកជាប្តី ឬប្រពន្ធ អ្នកជួយថែទាំ បងប្អូន ឬបុគ្គលិកដែលជួយក្នុងការហៅ អ្នកគឺជាអ្នកធ្វើឱ្យការហៅនេះអាចកើតឡើងបាន។
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **រៀបចំកន្លែងស្ងប់ស្ងាត់មួយ។** បិទទូរទស្សន៍ និងបិទទ្វារ។
+- **ចាប់ផ្តើមការហៅដោយខ្លួនអ្នក** បន្ទាប់មកប្រគល់ថេប្លេតដែលដាក់លើជើងទ្រឱ្យអ្នកនោះ ឬកាន់វាឱ្យស្មើកម្ពស់ភ្នែក។
+- **អង្គុយក្បែរគាត់ មិនមែននៅពីមុខទេ។** វត្តមានរបស់អ្នកផ្តល់អារម្មណ៍ស្ងប់ចិត្ត។ អ្នកអាចរំលឹកដោយទន់ភ្លន់បើចាំបាច់៖ «មើលនេះ អ្នកស្រី Jenny»។
+- **ធ្វើជាដៃជំនួយ។** លើករូបថត ចុចហ្គេម បង្វែរថេប្លេតដើម្បីបង្ហាញបន្ទប់។
+- **សម្គាល់មើលភាពនឿយហត់ ឬការមិនសប្បាយចិត្ត** ហើយប្រាប់អ្នកហៅនៅពេលដល់ពេលត្រូវបញ្ចប់។
+- **ប្រាប់អ្នកហៅថាអ្វីដែលមានប្រសិទ្ធភាព។** «គាត់ពេញចិត្តនឹងសត្វឆ្កែខ្លាំងណាស់» ជួយក្នុងការរៀបចំការហៅលើកក្រោយ។
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA ណែនាំថា សាច់ញាតិដែលរស់នៅឆ្ងាយអាចជួយមនុស្សចាស់ម្នាក់[ស្វែងយល់អំពីមុខងាររបស់ទូរសព្ទ](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) ដូចជាការហៅវីដេអូជាដើម។ នៅដំណាក់កាលក្រោយៗ ជាធម្មតាអ្នកជួយនឹងត្រូវគ្រប់គ្រងឧបករណ៍ទាំងស្រុង។ នោះមិនមែនជាបញ្ហាទេ។
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+ប្រសិនបើអ្នកនោះរស់នៅក្នុងមជ្ឈមណ្ឌលថែទាំ Alzheimer's Foundation of America ណែនាំឱ្យសួរថាតើគ្រឹះស្ថាននោះជួយគ្រួសារធ្វើការហៅវីដេអូដែរឬទេ។ AFA ក៏បានលើកឡើងថា គ្រួសារអាចផ្ញើរូបថតទៅមកជាមួយបុគ្គលិកថែទាំ និងផ្ញើអាហារសម្រន់ ឬរបស់សម្អាតចិត្តតូចៗដែលពេញចិត្ត បន្ទាប់ពីពិនិត្យមើលអ្វីដែលគ្រឹះស្ថានអនុញ្ញាត។
 
-## What if the call doesn't go well?
+## ចុះប្រសិនបើការហៅមិនដំណើរការល្អ?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+ការហៅខ្លះអាចធ្វើឱ្យច្រឡំ មិនសូវមានអារម្មណ៍ ឬបង្កការមិនសប្បាយចិត្ត។ នោះមិនមែនជាកំហុសរបស់អ្នកទេ ហើយវាក៏មិនមានន័យថាការហៅមិនមានតម្លៃដែរ។
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- ប្រសិនបើអ្នកនោះហាក់ដូចជាច្រឡំដោយសារអេក្រង់ សូមប្តូរទៅការហៅទូរសព្ទធម្មតា ឬសារដែលបានថតទុក។
+- ប្រសិនបើគាត់មិនសប្បាយចិត្ត សូមទទួលស្គាល់អារម្មណ៍នោះ និយាយពាក្យលើកទឹកចិត្ត ហើយបញ្ចប់ដោយទន់ភ្លន់។
+- ប្រសិនបើការហៅជាញឹកញាប់មិនល្អនៅម៉ោងណាមួយ សូមសាកល្បងម៉ោងផ្សេង។
+- ប្រសិនបើគាត់គិតថាអ្នកជាអ្នកផ្សេង សូមយល់ព្រមតាមដោយក្តីសប្បុរស។
 
-It is fine to end early. A short, warm call is a good outcome.
+ការបញ្ចប់មុនកំណត់ក៏មិនអីដែរ។ ការហៅខ្លីៗ និងកក់ក្ដៅ គឺជាលទ្ធផលល្អមួយ។
 
-## Between calls
+## នៅចន្លោះការហៅ
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+សូមរក្សាការទាក់ទងតាមវិធីផ្សេងទៀត។ Dementia Australia ណែនាំឱ្យផ្ញើកាត អ៊ីមែល រូបថត ឬអំណោយតូចៗ។ កាតប្រៃសណីយ៍ប្រចាំសប្តាហ៍ដែលមានរូបថតធំមួយ និងសារខ្លីៗ អាចអានម្តងហើយម្តងទៀតបាន។ [Conversation Cards](/games/conversation-cards/) ដែលអាចបោះពុម្ពបាន ហើយផ្ញើទៅឱ្យអ្នកជួយ អាចផ្តល់ប្រធានបទស្រេចសម្រាប់ការហៅលើកក្រោយ។
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+សម្រាប់គន្លឹះក្នុងការជ្រើសរើស និងរៀបចំថេប្លេត សូមមើល[ថេប្លេត និងអេក្រង់](/caregiving/tablets-and-screens/)។ សម្រាប់ពេលវេលាជួបផ្ទាល់ សូមមើលមគ្គុទ្ទេសក៍របស់យើងអំពី[ការទៅលេង](/activities/visiting/)។

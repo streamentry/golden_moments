@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "ޑިމެންޝިއާ ހުރި މީހަކު ގެއަށް ދާން އަނގަމުން ދަނީނަމަ"
+seoTitle: "ޑިމެންޝިއާ: ގެއަށް ދާން އެދޭނަމަ ކީކޭ ބުނަންތަ؟"
+description: "ޑިމެންޝިއާ ހުރި މީހަކު އަމިއްލަ ގޭގައި ހުރެދާނެ ކަމަށް ވިޔަސް ގެއަށް ދާން އެދޭ ސަބަބު، ކިޔަންވީ ބަސް، ހަމަޖެހޭ މަސައްކަތްތައް، އަދި ނުކުމެދާން މަސައްކަތް ކުރާނަމަ ރައްކާތެރިކަން ބެހެއްޓުން."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  ޑިމެންޝިއާ ހުރި މީހަކު ގެއަށް ދާން އަނގަމުން ދަނީނަމަ، ”ގެ“ އަކީ ގިނަވެގެން ރައްކާތެރިކަމުގެ އިހުސާސެއް ނުވަތަ މާޒީގެ ތަނެއް ކަމަށް ވެދާނެ، އިމާރާތެއް ނޫން. އެމީހަކު މިހާރު ގޭގައި ތިބި ކަން އަރުވައި ނުބުނާށެވެ. އެމީހެއްގެ އިހުސާސް ޤަބޫލުކޮށް، ރައްކާތެރިކަން އަންގާ، ގެއާ ބެހޭ ގޮތުން ސުވާލުކޮށް، ދެން ފޮޓޯ، ލަވަ، ކާންތަކެއް، ހިނގާލުމެއް ނުވަތަ ސާދާ މަސައްކަތަކަށް މަޑުމައިތިރިން ގެންދާށެވެ. ބަނޑުހައިކަން، ފެންބުއިމުގެ ބޭނުން، ގުސްލްކޮޓަރީގެ ބޭނުން ނުވަތަ ވޭނެއް އޮންނަތޯ ބަލާށެވެ. މިކަން އެކަހެން ފެށިއްޖެނަމަ އެމީހެއްގެ ޑޮކްޓަރަށް ގުޅާށެވެ.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "”އަހަރެން ގެއަށް ދާނަން“ އޭ ބުނުމުން ގިނަވެގެން މާނަވަނީ ”އަހަރެން ރައްކާތެރިކަމެއް ނުވަތަ ހަމަޖެހުމެއް ނުފެނޭ“، އެޑްރެހެއް އެދުމެއް ނޫން."
+  - "އެމީހަކު މިހާރު ގޭގައި ތިބި ކަން އަރުވައި ސާބިތުކުރުމުން ގިނަވެގެން ހާލު އިތުރަށް ނުރައްކަލުވެދާނެ. އޭގެ ބަދަލުގައި އިހުސާސަށް ޖަވާބު ދީށެވެ."
+  - "ގެއާ ބެހޭ ގޮތުން ވާހަކަ ދައްކަން އެދުމަށް ފަހު، ފޮޓޯ، ލަވަ، ކާންތަކެއް، ހިނގާލުމެއް ނުވަތަ ސާދާ މަސައްކަތެއް ހުށަހަޅާށެވެ."
+  - "ހައްލުކުރެވޭ ކަމެއް އޮންނަތޯ ބަލާށެވެ: ބަނޑުހައިކަން، ފެންބުއިމުގެ ބޭނުން، ގުސްލްކޮޓަރީގެ ބޭނުން، ވޭނެއް، މާ ހޫނު ނުވަތަ މާ ފިނި، އަޑު، ވަރަށް ދަތިވުން."
+  - "ކޮންމެ ހަވީރެއް ފަހުކޮޅު މިކަން ވެނަމަ، އެއީ ހަވީރު ނުރައްކަލުވުމެއް (sundowning) ކަމަށް ވެދާނެ؛ ތަރުތީބުކޮށްފައިވާ ދުވަސްކުރާ ގޮތަކާއި ރަނގަޅު އަލިކަމުން އެހީތެރިވެދާނެ."
+  - "ނުކުމެދާން މަސައްކަތް ކުރާނަމަ ރައްކާތެރިކަމަށް ކުރިން ތައްޔާރުވާށެވެ، އަދި އެކަހެން ބަދަލެއް ފެނިއްޖެނަމަ އެމީހެއްގެ ޑޮކްޓަރަށް ގުޅާށެވެ."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "ޑިމެންޝިއާ ހުރި މަންމަ އަމިއްލަ ގޭގައި ހުރެދާނެ ކަމަށް ވިޔަސް ގެއަށް ދާން އަނގަމުން ދަނީ ކީއްވެ؟"
+    a: "ޑިމެންޝިއާގެ ސަބަބުން އާދަކޮށްފައިވާ ކޮޓަރިތައް ވެސް ތަފާތު ގޮތަކަށް ފެނިދާނެ، އަދި ބައެއް ފަހަރަށް މީހުން އުމުރުގެ ކުރީގެ ދުވަސްވަރެއްގައި ތިބި ގޮތަށް ހީވެދާނެ. ”ގެ“ އަކީ ކުޑައިރު ދިރިއުޅުނު ގެއެއް ނުވަތަ ހަމައެކަނި ރައްކާތެރިކަމާއި ހަމަޖެހުމުގެ އިހުސާސެއް ކަމަށް ވެދާނެ. އެމީހަކު މިހާރު ތިބި ތަން ދައްކާލުމަށް ވުރެ، އެ އިހުސާސަށް ޖަވާބުދިނުމުން ގިނަވެގެން ރަނގަޅު ނަތީޖާ ލިބެދާނެ."
+  - q: "ގެއަށް ދާން އެދޭނަމަ ކީކޭ ބުނަން އެންމެ ރަނގަޅު؟"
+    a: "”ތިޔަ މިތަނުގައި ރައްކާތެރިވެ ތިބި، އަޅުގަނޑު ތިޔައާ އެކު މިތިބޭނަން“ އޭ ބުނެ، ދެން ”ތިޔަބޭފުޅާގެ ގެއާ ބެހޭ ގޮތުން އަހަންނަށް ކިޔައިދެއްވާލައްވާ“ އޭ ބުނާށެވެ. އަޑުއަހައި، ފޮޓޯއެއް ނުވަތަ ލަވަކެއް ހިއްސާކޮށް، ބުއިމެއް ނުވަތަ ކުރު ހިނގާލުމެއް ހުށަހަޅާށެވެ. ”ތިޔަ މިހާރު ތިބީ ގޭގައި“ އޭ ރަނގަޅުކުރާ ބަހަކަށް ބުނުމުން، އެމީހަކަށް ނުބައި ކަމެއް ކުރަނީ ކަމަށް ހީވެދާނެ."
+  - q: "ފަހުން ގެއަށް ދާނަން ކަމަށް ބުނުމުގައި ކުށެއް ނެތްތަ؟"
+    a: "މިކަމާ ބެހޭ ގޮތުން އާއިލާތަކާއި ޑިމެންޝިއާ ޖަމިއްޔާތަކުގެ ނިންމުން ތަފާތުވެދާނެ. ގިނަ މީހުން ފުރަތަމަ ތެދުވެރި ހަމަޖެހުމާއި ވައްޓާލުމުން ފަށައި، ތެދުކަން ބުނުމުން އެމީހަކަށް ބޮޑު ހާލެއް ނުރައްކަލަށް އަންނަ ހާލަތްތަކުގައި މަޑުމައިތިރި ދޮގު ބަހެއް ބޭނުން ކުރެއެވެ. ތިޔަ ނަގާ ނިންމުމެއް ކަމުގައި ވީނަމަވެސް، އިހުތިރާމާ އެކު ބުނަންވާނެ، އެއްގޮތަކަށް ހުރަންވާނެ، އަދި އެމީހެއްގެ ހަގީގަތާ މެދު ފުރައްސާރައެއް ނުކުރަންވާނެ."
+  - q: "ގެއިން ނުކުމެދާން މަސައްކަތް ކުރާނަމަ ކީކުރަން އެންމެ ރަނގަޅު؟"
+    a: "ހަމަޖެހިގެން ތިބެ، ދޮރު ބަންދުކޮށް ހުއްޓުވައި ނުބަހައްޓައި އެމީހާ އެކު ހިނގާށެވެ؛ ކުރު ހިނގާލުމަކުން ގިނަވެގެން އެ ހެޔޮ ހަމަޖެހެދާނެ. ކުރިން ރައްކާތެރިކަމުގެ ފިޔަވަޅުތައް އެޅުމަށް މަސައްކަތް ކުރާށެވެ، މިސާލަކަށް ނަމާއި ފޯނު ނަންބަރު ލިޔެފައިވާ ބޭންޑެއް، ދޮރު ހުޅުވުމުން އަޑުކުރާ ޗައިމެއް، އަދި އެންމެ ފަހުގެ ފޮޓޯއެއް. ގެލިއްޖެނަމަ ވަގުތުން ހޯދަން ފަށާށެވެ، އަދި 15 މިނެޓު ތެރޭގައި ނުފެނިއްޖެނަމަ 119 އަށް ގުޅައި، އެމީހަކަށް ޑިމެންޝިއާ ހުރި ކަން ބުނާށެވެ."
+  - q: "ޑޮކްޓަރަށް ގުޅަންޖެހޭނީ ކޮން އިރަކުން؟"
+    a: "މި ގޮތުގެ ސުވާލު ކުރުމެއް ނުވަތަ ހަލުވިކަން އެކަހެން ފެށިއްޖެނަމަ، ނުވަތަ ގަޑިއިރު ކުޑަ މުއްދަތެއްގެ ތެރޭގައި ވަރަށް ބޮޑަށް ބަދަލުވެއްޖެނަމަ، ވަގުތުން ޑޮކްޓަރަށް ގުޅާށެވެ. ޚާއްޞަކޮށް ހުންގެ ބަލިކަމެއް، އާ ބޭސެއް ފަށާފައިވުން ނުވަތަ ކުދިންގެ މަގުގެ އިންފެކްޝަންގެ އަލާމާތްތަކާ އެކު މިކަން ދިމާވެއްޖެނަމަ ސަމާލުވާށެވެ. އެކަހެން ހަލުވިކަމަކީ ޑިލީރިއަމް ކަމަށް ވެދާނެ، އެއީ ވަގުތުން ފަރުވާ ބޭނުންވާ ޙާލަތެކެވެ. ކޮންމެ މީހަކަށްވެސް ނުރައްކާކަން އޮންނަނަމަ 119 އަށް ގުޅާށެވެ."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +62,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+”އަހަރެން ގެއަށް ދާނަން.“ ގިނަ އާއިލާތަކަށް މީގެން އަންނަ އެންމެ ބޮޑު ދަތިކަމެއް ކަމުގައި ވެދާނެ، ޚާއްޞަކޮށް ތިޔަ ބެލެހެއްޓެވޭ މީހާ އިންނަނީ އެމީހެއްގެ އަމިއްލަ ސަލާމްކޮޓަރީގައި ކަމަށް ވީނަމަ. މިއީ އާންމު ކަމެއް، ޑިމެންޝިއާގެ ކޮންމެ ފިޔަވަޅެއްގައި ވެސް ދިމާވެދާނެ، އަދި ހަމަޖެހިގެން، ކުރެވޭ ގޮތަކަށް ޖަވާބު ދިނުމަށް މަގުތަކެއް އެބައޮތެވެ. މި ޞަފްޙާގައި މި ބަސްތަކުން ގިނަވެގެން މާނަވާ ކަން، ކިޔަންވީ ބަސް، އެވަގުތު އެހީތެރިވެދާނެ މަސައްކަތްތައް، އަދި ރައްކާތެރިކަން ބެހެއްޓުން ބަޔާންކޮށްދެނީއެވެ.
 
-## Why does someone with dementia keep asking to go home?
+## ޑިމެންޝިއާ ހުރި މީހަކު ގެއަށް ދާން އަނގަމުން ދަނީ ކީއްވެ؟
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+ގިނަވެގެން ”ގެ“ އަކީ ތަނަކަށް ވުރެ އިހުސާސެކެވެ. Alzheimer's Society ބުނަނީ މީގެ މާނައަކީ ހަމަޖެހުމާއި ރައްކާތެރިކަމުގެ އިހުސާސެއް، ނުވަތަ މާޒީގެ ގެއެއް ކަމަށެވެ. ޑިމެންޝިއާގެ ސަބަބުން އާދަކޮށްފައިވާ ކޮޓަރިތައް ވެސް ތަފާތު ގޮތަކަށް ފެނިދާނެ، އަދި މީހަކު އުމުރުގެ ކުރީގެ ދުވަސްވަރެއްގައި، މިސާލަކަށް ކުޑައިރު ދިރިއުޅުނު ގޭގައި ނުވަތަ ދަރިން ބޮޑުކުރި ގޭގައި ތިބި ގޮތަށް ހީވެދާނެ.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+މި ބަސްތަކަކީ މިހާރު އެހެން ކަމެއް ދިމާވެފައިވާ އަލާމާތެއް ވެސް ކަމަށް ވެދާނެ: ބަނޑުހައިކަން، ފެންބުއިމުގެ ބޭނުން، ގުސްލްކޮޓަރީގެ ބޭނުން، ވޭނެއް، މާ ހޫނު ނުވަތަ މާ ފިނި، ވަރަށް ދަތިވުން، އެކަނިވުން، ބިރުވެރިވުން، ނުވަތަ އަޑުގެ ސަބަބުން ހާލު ނުރައްކަލުވުން. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ބުނަނީ ވޭނެއް، އަޑު، އެކަނިވުން، ދުވަސްކުރާ ގޮތުގައި އަންނަ ބަދަލު، އަދި ބޭސްތަކަށް ވެސް ނުރައްކަލުވުމުގެ ސަބަބުތަކުގެ ތެރޭގައި ހިމެނެދާނެ ކަމަށެވެ.
 
-## What should I say when they ask to go home?
+## ގެއަށް ދާން އެދޭނަމަ ކީކޭ ބުނަން އެންމެ ރަނގަޅު؟
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+ބަސްތަކަށް ވުރެ އިހުސާސަށް ޖަވާބު ދީށެވެ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ލަފާ ދެނީ އެމީހަކު ނުބައި ކަން ޤަބޫލުކުރަން މަސައްކަތް ނުކުރުމަށެވެ: އެމީހެއްގެ އިހުސާސް ހަގީގީ ކަމަށްވާތީ، ފުރަތަމަ ހަމަޖެހުމާއި އިތުބާރު ދީ، ދެން މަޑުމައިތިރިން ވައްޓާލާށެވެ.
 
-Phrases that often help:
+އެހީތެރިވެދާނެ ބަސްތައް:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **އިހުސާސް ނަންދީށެވެ.** ”ތިޔަބޭފުޅާއަށް ގެއަށް ހިތް ގޮސްފައި ވާނެ ކަމަށް އެނގެނީ.“
+- **ރައްކާތެރިކަން އަންގާށެވެ.** ”ތިޔަ މިތަނުގައި ރައްކާތެރިވެ ތިބި، އަޅުގަނޑު ތިޔައާ އެކު މިތިބޭނަން.“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ލަފާ ދެނީ ”ތިޔަ މިތަނުގައި ރައްކާތެރިވެ ތިބި“ ފަދަ ސާދާ ބަސްތަކެވެ.
+- **ހަނދާންތަކަށް ދައުވަތު ދީށެވެ.** ”ތިޔަބޭފުޅާގެ ގެއާ ބެހޭ ގޮތުން އަހަންނަށް ކިޔައިދެއްވާލައްވާ. ބަދިގޭ ކޮން ގޮތެއްގައި ހުރިތޯ؟“ މިއަދާ ބެހޭ ސުވާލުތަކަށް ވުރެ، ވަރަށް ކުރިން ދިމާވި ކަންކަމާ ބެހޭ ސުވާލުތަކުން ގިނަވެގެން ފަސޭހަކަން ލިބެދާނެ.
+- **އެކުގައި ކުރެވޭ ކަމެއް ހުށަހަޅާށެވެ.** ”ކުރިން ސައި ބޯކޮށް ނަގަންހާ،“ ނުވަތަ ”މި ފޮތިތައް ތަކެތިކުރުމަށް އަހަންނަށް އެހީތެރިވެދެއްވާނަންތޯ؟“
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+ހިތްހަމަޖެހޭ އަޑަކާއި، އެމީހަކަށް އެކަން ރަނގަޅުވާނަމަ އަތްޕުޅަށް މަޑުމައިތިރިން އަތްލުމަކީ، ބަސްތަކަށް ވުރެ ގިނަ ކަންތައް ބުނެދޭނެ ކަމެކެވެ.
 
-## What should I avoid?
+## ކުރުމުން ދުރުހެލިވާންޖެހޭ ކަންތައްތައް ކޮބައިތޯ؟
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **އަރުވައި ބޭއްވުމާއި ތަފްސީލު ދިނުން.** ”ތިޔަ މިހާރު ދިރިއުޅެނީ މިތަނުގައި“ ނުވަތަ ”މިއީ 40 އަހަރު ތިޔަ ދިރިއުޅުނު ގެ“ އޭ ބުނުމަކީ، ޑިމެންޝިއާގެ ސަބަބުން ޤަބޫލުކުރަން އުނދަގޫވާ ކަމެއް ޤަބޫލުކުރަން އެދުމެއް، އަދި އެކަމުން އެމީހަކަށް ނުބައި ކަމެއް ކުރަނީ ކަމަށް ހީވެދާނެ.
+- **އިމްތިހާނު ނަގާ ގޮތަށް ސުވާލުކުރުން.** ”ހަނދާން ނެތްތަ؟“ ނުވަތަ ”އެޑްރެސް ކޮބައިތޯ؟“ އޭ ބުނުމުން އިތުރު ބުރަކަމެއް އުފެދެދާނެ.
+- **ރުޅިއަށް ދޮރު ހުއްޓުވުން.** ނުކުމެދާން ދިޔަނަމަ، ހަމަޖެހިގެން ތިބެ އެމީހާ އެކު ހިނގާށެވެ. އެކުގައި ކުރު ހިނގާލުމަކުން ގިނަވެގެން އެ ހެޔޮ ހަމަޖެހެދާނެ.
+- **އަވަސް އަވަހަށް ނުކުރުން.** މައުޟޫޢު ބަދަލުކުރުމުގެ ކުރިން، ގެއާ ބެހޭ ގޮތުން ވާހަކަ ދެއްކުމަށް ވަގުތު ދީށެވެ.
 
-## Activities that can help in the moment
+## އެވަގުތު އެހީތެރިވެދާނެ މަސައްކަތްތައް
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+އިހުސާސް ޤަބޫލުކުރުމަށް ފަހު، ހަމަޖެހޭ، އާދަކޮށްފައިވާ މަސައްކަތަކުން އެމީހެއްގެ އިހުސާސް ދޫކޮށްނުލައި ސަމާލުކަން ވައްޓާލެވިދާނެ.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **ގެއާއި އާއިލާގެ ފޮޓޯތައް ބަލާށެވެ.** ސުވާލު ކުރުމަށް ވުރެ، ޞަފްޙާތައް އަނބުރާލައި ފޮޓޯއާ ބެހޭ ކޮމެންޓް ކުރާށެވެ (”އެ ބަގީޗާ ބަލާލައްވާ“). ފޯނު ނުވަތަ ޓެބްލެޓުގައި، [Photo pairs](/games/photo-pairs/) އިން ތިޔަބޭފުޅުންގެ އަމިއްލަ ފޮޓޯތައް މަޑުމައިތިރި ގުޅުވައިލުމުގެ ކުޅެއްކަށް ހަދައެވެ، އަދި ފޮޓޯތައް ތިބެނީ ތިޔަ ޑިވައިސްގައެވެ.
+2. **ގެއާ ބެހޭ ގޮތުން ވާހަކަ ދައްކާށެވެ.** [Conversation cards](/games/conversation-cards/) އިން ގެތަކާ، ބަދިގެތަކާ، އަވަށްޓެރިންނާއި ބޮންދުތަކާ ބެހޭ ހުޅުވާލެވިފައިވާ ސުވާލުތައް ލިބެން ހުންނާނެ، އެއީ ރަނގަޅު ނުވަތަ ނުބައި ޖަވާބެއް ނެތް ސުވާލުތަކެކެވެ.
+3. **އެމީހަކަށް ކަމުދާ ލަވައެއް ޖައްސާށެވެ.** National Institute on Aging ބުނަނީ ހަމަޖެހޭ ލަވައަކީ ނުރައްކަލުވުން ކުޑަކުރުމަށް އެހީތެރިވެދާނެ ގޮތްތަކުގެ ތެރެއިން ކަމަށެވެ. [ލަވައާ ގުޅޭ މަސައްކަތްތައް](/activities/music/) ވެސް ބައްލަވާށެވެ.
+4. **ކާންތަކެއް ނުވަތަ ބުއިމެއް ދީށެވެ.** ބަނޑުހައިކަމާއި ފެންބުއިމުގެ ބޭނުމަކީ ހަމަޖެހުން ނުލިބުމެއް ގޮތަށް ފެނިދާނެ. ސައިއެއް ނުވަތަ ކަމުދާ ކާތަކެތިއަކީ ވެސް ގޭގައި ތިބުމުގެ ކުޑަ އާދަކަމެކެވެ.
+5. **ހިނގާލައިގެން ނުވަތަ ބޭރުގައި އިށީނދެލާށެވެ.** ހަރަކާތާއި ދުވާލުގެ އަލި، ޚާއްޞަކޮށް ދުވަހުގެ ކުރީގެ ވަގުތުތަކުގައި، އެހީތެރިވެދާނެ.
+6. **އާދަކޮށްފައިވާ މަސައްކަތެއް ދީށެވެ.** އަނދުންތައް ތަކެތިކުރުން، ކާބޯތަކެތި ތަރުތީބުކުރުން ނުވަތަ ގަސްތަކަށް ފެންދިނުމުން ގެ ބެލެހެއްޓުމުގެ އިހުސާސް އަލުން އައިދާނެ.
+7. **ހުރިހާ ކަމެއް މަޑުކުރާށެވެ.** ޓީވީ ނިއްވާލާ، އަޑާއި ބޮޑު އަލި ކުޑަކުރާ، އަދި އެކުގައި [ހަމަޖެހޭ ނޭވާލުން](/games/calm-breathing/) ކުރިއަށް ގެންދާށެވެ.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+އެއް ގޮތެއް ރަނގަޅަށް ނުދިޔަނަމަ، ފަހުން އެހެން ގޮތެއް މަސައްކަތް ކުރާށެވެ. އެކުގައި ހަމަޖެހިގެން އިށީނދެލުމަކީ ވެސް ރަނގަޅު ކަމެކެވެ.
 
-## Check for a cause you can fix
+## ހައްލުކުރެވޭ ސަބަބެއް އޮންނަތޯ ބަލާށެވެ
 
-| Check | What to try |
+| ބަލަންވީ ކަން | މަސައްކަތް ކުރެވޭ ގޮތް |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| ބަނޑުހައިކަން ނުވަތަ ފެންބުއިމުގެ ބޭނުން | ބުއިމެއް އަދި ކުޑަ ކާންތަކެއް ދީށެވެ |
+| ގުސްލްކޮޓަރީގެ ބޭނުން | ހަމަޖެހިގެން، ދަތިކަމެއް ނުދީ ގުސްލްކޮޓަރިއަށް ދިއުމަށް އެދުމަށް ފަހު ދީށެވެ |
+| ވޭނެއް ނުވަތަ ނުރައްކަލުން | މޫނު ގޮށްލުން، ހަށިގަނޑެއް ދަބަށް އަރާ ފެނުން ނުވަތަ ބަނޑު ހުއްޓުން ފަދަ އަލާމާތްތައް ބަލައި، ޑޮކްޓަރަށް ދަންނާށެވެ |
+| މާ ހޫނު ނުވަތަ މާ ފިނި | އަނދުންތަކެއް ބަދަލުކޮށް ނުވަތަ ކޮޓަރީގެ ހޫނުމިން އެޖެސްޓް ކުރާށެވެ |
+| އަޑު ނުވަތަ މީހުން ގިނަވުން | ހަމަޖެހޭ ކޮޓަރިއަކަށް ބަދަލުކޮށް، ޓީވީ ނިއްވާލާށެވެ |
+| ވަރަށް ދަތިވުން ނުވަތަ ގިނަ ކަންތައްތަކުން ހާލު ބުރެވުން | އަރާމުކޮށް، ކޮޓަރީގެ އަލި ދަށްކޮށް، މަޑު އަޑުން ލަވަ ޖައްސާށެވެ |
+| ހަވީރު ފަހުކޮޅު | ތިރީގައިވާ ހަވީރު ނުރައްކަލުވުމާ ބެހޭ ބައި ބައްލަވާށެވެ |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society ލަފާ ދެނީ މި ސުވާލު ކުރަނީ ކޮން އިރަކުން ކަމަށް ކުރު ނޯޓެއް ލިޔެ ބެހެއްޓުމަށެވެ، މިސާލަކަށް ކެއުމުގެ ކުރިން، މެހެމާނުން ދިޔުމަށް ފަހު، ނުވަތަ ހަވީރު އަނދިރިވުމުގެ ވަގުތު. މި ގޮތުގެ ޕެޓަރންތަކުން ކުރިން ތައްޔާރުވަން ފަސޭހަވެދާނެ.
 
-## Is it okay to tell a white lie?
+## ކުޑަ ދޮގެއް ދެއްކުމުގައި ކުށެއް ނެތްތަ؟
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+މިއީ ހަގީގަތުގައި ބަހުސް އޮންނަ ކަމެއް، އަދި އިހުތިރާމްތެރި އާއިލާތަކުން ތަފާތު ނިންމުންތަކަށް އައެވެ. Alzheimer's Society ބުނަނީ މިކަމަށް އެންމެ ރަނގަޅު އެއް ޖަވާބެއް ނެތް ކަމަށެވެ: ދޮގު ބަހެއް ބޭނުން ކުރުމުން ބައެއް މީހުން އިތުރަށް ޝައްކު ކުރެދާނެ، އެހެންކަމުން އެމީހެއްގެ މަޞްލަޙަތަށް އެންމެ ރަނގަޅުވާ ގޮތް ނިންމައި، އެއްގޮތަކަށް ހުރަންވާނެ. Penn Memory Center ގައި ކޯ-ޑިރެކްޓަރުގެ ނިންމުމަކީ، ތެދުކަން ބުނުމަކީ އާންމު ގޮތް، އަދި މީހަކަށް ވަކި ތެދެއް ޤަބޫލުކުރަން ނުކުޅޭ ހާލަތްތަކުގައި އެކަނި މަޑުމައިތިރި ދޮގެއް ދެއްކުމަށް އެއްބަސްވެވޭނެ ކަމަށެވެ. އަދި އެމީހެއްގެ ހަގީގަތާ މެދު އެއްވެސް ހާލެއްގައި ފުރައްސާރައެއް ނުކުރަންވާނެ.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+ގިނަ ބެލެހެއްޓެނިވެރިންނަށް މެދުމަގެއް ރަނގަޅުވެދާނެ: ފުރަތަމަ ތެދުވެރި ހަމަޖެހުމާއި ވައްޓާލުން (”މިރޭ އަޅުގަނޑުމެން މިތަނުގައި ހުންނާނަން، އަޅުގަނޑު ތިޔައާ އެކު މިތިބޭނަން“)، އެއީ ގެއަކީ ކޮން ތަނެއް ކަމާ މެދު އަރުވައި ނުބޭވި.
 
-## What if it happens every afternoon or evening?
+## ކޮންމެ ހަވީރެއް ފަހުކޮޅު ނުވަތަ ރޭގަނޑު މިކަން ވެނަމަ ކީކުރަން އެންމެ ރަނގަޅު؟
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+ހަވީރު ފަހުކޮޅު ފެށިގެން ނުވަތަ އިތުރަށް ބޮޑުވާ ހަމަޖެހުން ނުލިބުމަށް ގިނަވެގެން ”ހަވީރު ނުރައްކަލުވުން“ (sundowning) އޭ ކިޔައެވެ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) ލަފާ ދެނީ ތަރުތީބުކޮށްފައިވާ ދުވަސްކުރާ ގޮތެއް، ކޮންމެ ދުވަހަކު އަލިކަމާއި ހަރަކާތްތެރިކަން، ހަވީރު ފަހުކޮޅު އަރާމުކުރުން ކުޑަކުރުން، އަދި ދުވަހުގެ ފަހުކޮޅު ކެފީން ނުވަތަ އަލްކޮހޮލް ނުބުއިމަށެވެ. އަނދިރިކަން ފެށުމުގެ ކުރިން ބޮޑި އަންދައިދިނުމުން ވެސް އެހީތެރިވެދާނެ. [ހަވީރު ފަހުކޮޅަށް ހަމަޖެހޭ މަސައްކަތްތައް](/caregiving/late-day-restlessness/) އާ ބެހޭ އަޅުގަނޑުމެންގެ ލިޔުމުގައި އިތުރު މައުލޫމާތު ހުރެއެވެ.
 
-## Keeping them safe if they try to leave
+## ނުކުމެދާން މަސައްކަތް ކުރާނަމަ ރައްކާތެރިކަން ބެހެއްޓުން
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+ގެއަށް ދާން އެދުމުން ވަންދެވޭ ގޮތަކަށް (wandering) ދިޔުމަށް ދިމާވެދާނެ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) ގެ އަންދާޒާއަކީ ޑިމެންޝިއާ ހުރި 10 މީހުންގެ ތެރޭގައި 6 މީހަކު އެންމެ ކުޑަމިނުން އެއްފަހަރަކު ވަންދެވޭ ގޮތަކަށް ދާނެ ކަމަށެވެ.
 
-**Prepare ahead:**
+**ކުރިން ތައްޔާރުވާށެވެ:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- ނަމާއި ތިޔަ ފޯނު ނަންބަރު ލިޔެފައިވާ އައިޑީ ނުވަތަ މެޑިކަލް ބޭންޑެއް، އަދި އަނދުންތަކުގައި ލޭބަލްތައް. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) ބުނަނީ MedicAlert އަދި Alzheimer's Association Safe and Found ޕްރޮގްރާމް ފަދަ ޚިދުމަތްތަކާ ބެހޭ ގޮތުން، މިތަކަށް އަގެއް ދައްކަން ޖެހިދާނެ ކަމަށެވެ.
+- ދޮރު ހުޅުވުމުން އަޑުކުރާ ޗައިމެއް ނުވަތަ އެލާމެއް، އަދި ދޮރުގެ ތަޅުތައް މަތީގައި ނުވަތަ ތިރީގައި ޖައްސާށެވެ. އެމީހަކު އެކަނި ހުރި ގޭގެ ތެރޭގައި އެއްވެސް ހާލެއްގައި ތަޅުޖަހާފައި ނުބަހައްޓާށެވެ.
+- އެންމެ ފަހުގެ ސާފު ފޮޓޯއެއް، އަދި އެމީހަކު ދާން އިހުވެދާނެ ތަންތަނުގެ ލިސްޓެއް، މިސާލަކަށް ކުރިން ދިރިއުޅުނު ގެ ނުވަތަ މަސައްކަތް ކުރި ތަން.
+- އިތުބާރު ކުރެވޭ އަވަށްޓެރިންނަށް މިކަން ދަންނައި، ތިޔަ ނަންބަރު ދީށެވެ.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**ގެލިއްޖެނަމަ:** ވަގުތުން ހޯދަން ފަށާށެވެ؛ Alzheimer's Association ބުނަނީ ގިނަ މީހުން ފެންނަނީ 1.5 މޭލްގެ ތެރޭގައި ކަމަށެވެ. 15 މިނެޓު ތެރޭގައި ނުފެނިއްޖެނަމަ 119 އަށް ގުޅައި، އެމީހަކަށް ޑިމެންޝިއާ ހުރި ކަން ބުނާށެވެ. ކޮންމެ މީހަކަށްވެސް ނުރައްކާކަން އޮންނަނަމަ ވަގުތުން 119 އަށް ގުޅާށެވެ.
 
-## When should I call a doctor?
+## ޑޮކްޓަރަށް ގުޅަންޖެހޭނީ ކޮން އިރަކުން؟
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+މި ގޮތުގެ ސުވާލު ކުރުމެއް ނުވަތަ ހަލުވިކަން އެކަހެން ފެށިއްޖެނަމަ، ނުވަތަ ގަޑިއިރު ކުޑަ މުއްދަތެއްގެ ތެރޭގައި (ގަޑިތަކެއް ނުވަތަ ދުވަސްތަކެއް ތެރޭގައި) ވަރަށް ބޮޑަށް ބަދަލުވެއްޖެނަމަ، ވަގުތުން ޑޮކްޓަރަށް ގުޅާށެވެ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ބުނަނީ އެކަހެން ނުވަތަ ވަރަށް އަވަހަށް ބަދަލުވާ އުޅުން، ޚާއްޞަކޮށް އިންފެކްޝަނެއް ނުވަތަ ބޭސް ބަދަލުކުރުމަށް ފަހު ފެނިއްޖެނަމަ، ވަގުތުން ބަލަން ޖެހޭ ކަމަށެވެ. އެކަހެން ހަލުވިކަމަކީ ޑިލީރިއަމް ކަމަށް ވެދާނެ؛ [NHS](https://www.nhs.uk/symptoms/confusion/) ބުނަނީ މިއީ ވަގުތުން އެހީ ބޭނުންވާ ޙާލަތެއް ކަމަށާއި، އުމުރުން ދުވަސްވީ މީހުންގެ ތެރޭގައި ކުދިންގެ މަގުގެ އިންފެކްޝަންތަކަކީ އާންމު ސަބަބެއް ކަމަށެވެ.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+ދެން އަންނަ އެޕޮއިންޓްމަންޓެއްގައި މިކަން މެދުނުކެނޑި ދިމާވާ ގޮތެއް އޮތް ކަން ދަންނައިދިނުމުން ވެސް ފައިދާ ހުރެދާނެ، އެހެނީ ވޭނެއް، ހިތްޕުޅު ފާޅުވުން، ނިދުމުގެ މައްސަލަތައް ނުވަތަ ބޭސްގެ އަސަރުތަކަށް ވެސް މިކަމާ ގުޅުން ހުރެދާނެ ކަމަށެވެ.

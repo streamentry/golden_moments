@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Etxeko lanak dementzia duten pertsonentzako jarduera gisa"
+seoTitle: "Etxeko jarduerak dementziarekin: eguneroko lanak"
+description: "Arropak tolestea, gauzak sailkatzea, mahaia jartzea eta sukaldaritza sinplea jarduera esanguratsuak izan daitezke. Nola prestatu, egokitu eta seguru mantendu."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Eguneroko lanek, hala nola eskuoihalak tolesteak, galtzerdiak parekatzeak,
+  mahaia jartzeak, gainazalak garbitzeak, landareak ureztatzeak edo sukaldaritza
+  sinplean laguntzeak, dementzia duen pertsonari benetako laguntza emateko modua
+  eman diezaiokete. Aukeratu ezagutzen dituen lanak, banatu urrats bakarrean
+  bakoitza, kendu tresna zorrotzak edo beroak, eta baloratu parte hartzea lana
+  «ondo» egitea baino gehiago.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Lanak ezagunak egiteak lagun dezake pertsona bat baliagarri eta etxeko kide sentitzen, eta hori askotan garrantzitsuagoa da lana zein ondo egiten den baino."
+  - "Banatu lan bakoitza urrats bakarretan, erakutsi hitz egin beharrean, eta hartu isilean neure gain zaildu zaion edozein urrats."
+  - "Gorde giltzapean labanak, garbiketa-produktuak eta detergente-kapsulak, eta jarri sukaldeko botoietarako babesak edo itzaltze automatikoa elkarrekin sukaldatu aurretik."
+  - "Tolestutako eskuoihalak ez dira berriro tolestu behar pertsonaren aurrean. Zerbait berriro egin behar baduzu, egin geroago eta ikus ez dezan."
+  - "Lan batek haserrea sortzen badu, aldatu urrats errazago batera, saiatu beste une batean, edo eseri elkarrekin, besterik gabe."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Zein lanetan lagun dezake oraindik dementzia duen pertsona batek?"
+    a: "Pertsona askok oraindik arropa tolestu, galtzerdiak parekatu, mahai-tresnak sailkatu, mahaia jarri, gainazal bat garbitu, hautsa kendu, erratza pasatu, landareak ureztatu edo ore bat nahas dezakete. Aukeratu pertsonak lehen egiten zituen lanak, eta egokitu orain egin dezakeenera. Geroagoko faseetan, mugimendu errepikatu bakar bat, hala nola zapikinak leuntzea, nahikoa izan daiteke."
+  - q: "Segurua al da dementzia duen norbaitek sukaldean laguntzea?"
+    a: "Bai izan daiteke, arreta handiz eta prestaketa egokiarekin. Mantendu labanak, garbiketa-produktuak eta bero dagoen edozer eskura ez dauden lekuetan; erabili sukaldeko botoietarako babesak edo itzaltze automatikoa; eta eman pertsonari lan seguru bat, hala nola barazkiak garbitzea, nahastea edo platerak prestatzea. Ez utzi inoiz bakarrik sukaldea piztuta dagoela."
+  - q: "Zer egin gauzak gaizki tolesten baditu edo nahaspila sortzen badu?"
+    a: "Utzi horrela. Helburua elkarrekin denbora pasatzea eta baliagarri sentitzea da, ez emaitza perfektua lortzea. Zerbait benetan berriro egin behar bada, itxaron geroagora eta egin pertsonak ikusten ez duenean, zuzenduta sentitu ez dadin."
+  - q: "Zer egin laguntzeari uko egiten badio?"
+    a: "Ezezko batek esan nahi du lana zailegia, nahasgarria edo neketsuegia dela oraintxe. Ez bultzatu. Saiatu bertsio errazago batekin, gonbidatu zuri lagun egiteko, edo galdetu berriro eguneko une hobe batean."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Dementzia duten pertsona askok hamarkadak eman zituzten etxe bat eramaten, familia bat hazten edo lantoki bat antolatuta mantentzen. Benetako lanetan laguntzeko eskatzeak «oraindik etxe honetako kide zara» esan dezake, beste jarduera askok baino argiago. Orrialde honetan azaltzen da zein lanek funtzionatzen duten askotan, nola prestatu, nola egokitu gauzak aldatzen diren heinean eta nola mantendu sukaldea eta arropa-gela seguru.
 
-## Why do everyday chores work well as activities?
+## Zergatik dira eguneroko lanak jarduera onak?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Lanek ondo funtzionatzen dute ezagunak direlako eta helburu argia dutelako. National Institute on Aging erakundeak platerak garbitzea, mahaia jartzea, erratza pasatzea, hautsa kentzea, posta sailkatzea, arropa tolestea eta birziklagarriak sailkatzea aipatzen ditu [Alzheimerra duten pertsonek gozatu ditzaketen eguneroko jardueren](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) artean. Alzheimer’s Association erakundeak dio mahaia jartzea bezalako lanek pertsona [etxeko kide baliotsu sentiarazten](https://www.alz.org/help-support/caregiving/daily-care/activities) lagun dezaketela.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Gainera, lan batek berez ematen du hasteko arrazoia. «Lagunduko didazu eskuoihal hauekin?» esatea errazagoa da baiezkoa jasotzeko «Jarduera bat egin nahi duzu?» esatea baino.
 
-## Which household tasks are good to try?
+## Zein etxeko lan probatu ditzakegu?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Hasi pertsonak lehen egiten zituen lanekin, eta egokitu gaur egun egin dezakeenera.
 
-### Laundry and linens
+### Arropa eta etxeko oihalak
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Eskuoihalak eta esku-zapiak tolestea.** Eman objektu txiki eta lauez betetako saski bat. Eskuoihalak errazak dira: ez dago gaizki tolesteko modu bakarra.
+- **Galtzerdiak parekatzea.** Jarri pila nahasi bat mahai gainean. Bikoteak ikustea zaila bada, erabili bi edo hiru kolore oso desberdin bakarrik.
+- **Leuntzea eta pilatzea.** Zapiak, burko-zorroak edo sukaldeko eskuoihalak lautu eta pilatu daitezke. Hau ondo doa geroago, tolesteak urrats gehiegi dituenean.
 
-### Table and kitchen
+### Mahaia eta sukaldea
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Mahaia jartzea.** Jarri mahai-tresneria bat eredu gisa, eta utzi pertsonari kopiatzeko. Gehiegi bada, eman gauza bat aldi bakoitzean: «Hona hemen sardexka bat plater bakoitzerako».
+- **Mahai-tresnak sailkatzea.** Nahastu sardexka, koilara eta gurin-labana garbiak ontzi batean, eta sailkatu banatutako erretilu batean. Utzi labana zorrotzak kanpoan.
+- **Platerak lehortzea.** Plastikozko platerak edo apurtzen ez direnak eta eskuoihal leun bat lan segurua dira.
+- **Mahaia edo gainazalak garbitzea.** Zapi heze bat eta gainazal garbi bat. Alzheimer’s Association erakundeak iradokitzen du zapi bat eskaintzea norbait dagoeneko eskua mahaian igurzten ari bada; horrela, mugimendu urduri bat lan erabilgarri bihur daiteke.
 
-### Around the house
+### Etxe osoan
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Hautsa kentzea.** Hauts-kentzeko tresna leun bat eta gainazal sendo batzuk, hala nola mahai txiki bat edo apalategi bat.
+- **Posta sailkatzea.** Eman publizitatea eta katalogoak pilatan sailkatzeko: gorde, birziklatu, gero ireki. Gorde faktura eta txeke errealak beste nonbait.
+- **Birziklagarriak sailkatzea.** Lata, botila eta paper garbiak ontzi bereizietan.
+- **Erratza pasatzea.** Erratza txiki bat patioan edo sukaldeko zoruan, oreka egonkorra bada.
+- **Landareak ureztatzea.** Ureztontzi txiki eta arin bat eta eskura erraz dauden landare batzuk.
 
-### Simple cooking with supervision
+### Sukaldaritza sinplea, gainbegiratuta
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Sukaldatzeak oroitzapen eta sentipen atseginak ekar ditzake. NIAk iradokitzen du pertsonari osagaiak biltzen, neurtzen, nahasten eta botatzen uztea, edo besterik gabe errezeta gogoko bat nola egiten den azaltzen uztea. Lan egokiak hauek dira:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- barazkiak edo fruta garbitzea
+- orea edo entsalada hotz bat nahastea
+- letxuga urratzea
+- ogi txigortua gantzutzea labana kamuts batekin
+- gaileta-orea erretilu batean jartzea
+- pizza baten gaineko osagaiak jartzea
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Neurtzea zaila bihurtzen bada, Alzheimer’s Association erakundeak iradokitzen du zuk neurtzea amaitu eta gero beste urrats bat ematea, adibidez nahastea.
 
-## How do I set up a chore so it goes well?
+## Nola prestatu lan bat ondo joan dadin?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Aukeratu une egokia.** Aukeratu pertsona atseden hartuta eta lasai egoten den eguneko zatia. Pertsona askorentzat, goiza izaten da.
+2. **Garbitu espazioa.** Lan bat, gainazal bat, mahai gainean ezer soberan gabe.
+3. **Gonbidatu, ez agindu.** «Esku bat emango didazu honekin?» hobeto doa «Arropa tolesteko ordua da» esatea baino.
+4. **Erakutsi lehenengoa.** Tolestu eskuoihal bat poliki, eta gero eman hurrengoa. Erakustea azaltzea baino argiagoa da.
+5. **Eman urrats bat aldi bakoitzean.** Aldi berean jarraibide gehiegi emateak nahas dezake. Itxaron urrats bat amaitu arte hurrengoa esan aurretik.
+6. **Egin lana elkarrekin, alboz albo.** Elkarrekin lan bera egitea laguntasuna da, ez gainbegiratzea.
+7. **Hitz egin lanaz, ez emaitzaz.** «Oso leunak dira» edo «Nola gustatzen zitzaizun arropa-zapia gordeta edukitzea?» esateak elkarrizketa gonbidatzen du, inor probatu gabe.
 
-## How do I adapt chores as abilities change?
+## Nola egokitu lanak gaitasunak aldatzen diren heinean?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Gaitasunak aldatu egiten dira denborarekin, eta baita egunetik egunera ere. Alzheimer’s Association erakundeak iradokiten du gaixotasunak aurrera egin ahala lan sinpleagoetara eta errepikakorragoetara jotzea.
 
-| If this has become hard | Try this instead |
+| Hau zaila bihurtu bada | Saiatu honekin |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Izara handiak tolestea | Esku-zapiak tolestea edo zapikinak leuntzea |
+| Mahaia osoa jartzea | Zapi bat jartzea eserleku bakoitzean |
+| Posta motaren arabera sailkatzea | Gutun-azalak pila bakarrean pilatzea |
+| Errezeta bati jarraitzea | Nahastea, edo zuk sukaldatzen duzun bitartean begiratzea eta dastatzea |
+| Zoru osoa garbitzea | Mahai txiki bat garbitzea |
+| Lana egitea | Zure ondoan esertzea eta zuk egiten duzun bitartean lagun egitea |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Begiratzea ere parte hartzea da. NIAk dio pertsona batzuek besterik gabe begiratzea gozatzen dutela, eta hori ere parte hartzeko modu ona dela.
 
-## How do I keep household tasks safe?
+## Nola mantendu etxeko lanak seguru?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Segurtasuna da lehenengo gauza, batez ere sukaldean. NIAren [Alzheimerra duten pertsonen zaintzaileentzako etxeko segurtasun-aholkuetan](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) hauek ageri dira:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Gorde giltzapean edo kendu garbiketa-produktuak, arropa garbitzeko detergente-kapsulak barne; gozokiak diruditelako.
+- Gorde labanak, guraizeak eta tresna elektrikoak giltzadun leku batean.
+- Jarri segurtasun-botoiak eta itzaltze automatikoa sukaldean.
+- Jarri «Gelditu» edo «Oso bero» seinaleak labearen, txigorgailuaren eta lisaren ondoan, su hartu ezin duten lekuetan.
+- Jarri ur-berogailua 49 °C-tan, erredura-arriskua murrizteko.
+- Kendu fruta artifizialak eta janari itxura duten imanak, jangarriak diruditelako.
 
-A few more practical habits help:
+Beste ohitura praktiko batzuek ere laguntzen dute:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Egon gelan sukaldea, labea edo tresna zorrotz bat erabiltzen ari denean.
+- Erabili apurtzen ez diren platerak lehortzeko eta mahaia jartzeko.
+- Mantendu zoruak lehor eta garbi erratza pasatzen edo garbitzen ari zarenean.
+- Pertsonak lehen tresnak erabiltzen bazituen, Alzheimer’s Association erakundeak iradokiten du elementu arriskutsuak tailerretik kentzea, lan seguru bat, hala nola egur zati bat lixatzea, egiten jarraitu ahal izateko.
 
-## What if they do it "wrong"?
+## Zer egin «gaizki» egiten badu?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Utzi horrela. Hiru zatitan tolestutako eskuoihal bat, erditan tolestu beharrean, tolestutako eskuoihala da oraindik. Alzheimer’s Association erakundeak argi dio: garrantzitsuena elkarrekin denbora pasatzea eta pertsonak baliagarri sentitzea da, ez eskuoihalak ondo tolestuta dauden. Zerbait benetan berriro egin behar bada, itxaron geroagora eta egin ikus ez dezan.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Une horretan zuzentzeak lan atsegin bat galdutakoaren oroigarri bihur dezake. «Eskerrik asko, laguntza handia da» esatea ia beti da erantzun egokia.
 
-## When should we stop?
+## Noiz gelditu beharko genuke?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Gelditu edo aldatu, haserrea, nekea edo interesa galtzea ikusten duzunean. Goiz amaitzea emaitza ona da, ez porrota. Hauek egin ditzakezu:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- aldatu urrats errazago batera
+- egin zerbait lasaigarriagoa, hala nola musika entzun edo kafe bat hartu
+- saiatu berriro geroago edo beste egun batean
+- eseri elkarrekin, besterik gabe
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Pertsonak ezetz esaten badu, ez bultzatu. Ikusi [ezetz esaten duenean zer egin](/caregiving/when-they-say-no/) modu leunean erantzuteko.
 
-## Low-effort extras for a quieter moment
+## Aukera errazak une lasaiagoetarako
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Lan fisikoak posible ez direnean, gauzak sailkatu eta parekatu eserita ere egin daitezke. [Sort Together](/games/sort-together/) jardueran irudiak ukitu eta sukaldeko edo lorategiko saskietan jar daitezke, eta [Picture Pairs](/games/picture-pairs/) irudi handiekin parekatzeko joko lasaia da, kronometrorik gabe. [Conversation Cards](/games/conversation-cards/) jarduerak etxeari eta familiari buruzko galdera irekiak ditu, lana amaitu ondoren kafe bat hartzeko unearekin ondo doazenak.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Lanak egunean nola txertatu jakiteko, ikusi gure [eguneroko errutina lasaia](/activities/daily-routine/) gida. Fasearen araberako ideia gehiagorako, ikusi [erdiko faseko jarduerak](/activities/middle-stage/).

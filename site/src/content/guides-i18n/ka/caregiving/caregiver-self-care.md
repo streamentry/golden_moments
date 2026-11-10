@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "მზრუნველის თავის მოვლა: შესვენება და მხარდაჭერა"
+seoTitle: "დემენციის მზრუნველის თავის მოვლა და მხარდაჭერა"
+description: "მზრუნველის გადაღლილობის ნიშნები, შესვენებისა და მხარდაჭერის პოვნა, ასევე უფასო დახმარება აშშ-ში, მათ შორის Alzheimer’s Association-ის 24/7 ცხელი ხაზი და Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  დემენციით ცხოვრების მქონე ადამიანზე ზრუნვა რთულია და საკუთარ თავზე ზრუნვაც
+  ამ საქმის ნაწილია. დააკვირდით გაფრთხილების ნიშნებს, როგორიცაა დაღლილობა,
+  გაღიზიანება, ცუდი ძილი და მეგობრებისგან დაშორება. სთხოვეთ კონკრეტული დახმარება,
+  გამოიყენეთ შესვენების Möglichkeit (respite care) და შეუერთდით მხარდაჭერის ჯგუფს.
+  აშშ-ში უფასო დახმარება მოიცავს Alzheimer’s Association-ის 24/7 ცხელ ხაზს
+  1-800-272-3900 ნომერზე და Eldercare Locator-ს 1-800-677-1116 ნომერზე.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "გადაღლილობა ხშირად ვლინდება დაღლილობით, გაღიზიანებით, ცუდი ძილით, სევდითა და საკუთარი ჯანმრთელობის მოვლაზე ხელის აღებით."
+  - "შესვენების მოვლა (respite care) გაძლევთ დასვენების შესაძლებლობას — რამდენიმე საათიდან რამდენიმე კვირამდე, სახლში ან მოვლის დაწესებულებაში."
+  - "სთხოვეთ დახმარება კონკრეტულ საქმეებში; ბევრს სურს დაგეხმაროთ, მაგრამ არ იცის, როგორ."
+  - "Alzheimer’s Association-ის 24/7 ცხელი ხაზი (1-800-272-3900) გთავაზობთ უფასო, კონფიდენციალურ მხარდაჭერას ნებისმიერ დროს."
+  - "Eldercare Locator (1-800-677-1116) გაკავშირებთ ადგილობრივ სერვისებთან, მათ შორის თქვენი რეგიონის მოხუცთა სააგენტოსთან."
+  - "თუ კრიზისს განიცდით, დარეკეთ ან მისწერეთ 988-ზე. გადაუდებელ შემთხვევაში დარეკეთ 112-ზე."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "რა არის მზრუნველის გადაღლილობის ნიშნები?"
+    a: "ხშირი ნიშნებია ძლიერი დაღლილობა, გადატვირთულობის ან შფოთვის შეგრძნება, ადვილად გაბრაზება ან მოუთმენლობა, ძილის პრობლემები, სევდა ან იმედგაცრუება, მეგობრებისგან დაშორება, ხშირი თავის ტკივილი ან სხვა ტკივილები და საკუთარი კვების, ვარჯიშის ან სამედიცინო მოვლის გამოტოვება. თუ მსგავსი ნიშნები ხშირად გ.have, ესაუბრეთ თქვენს ექიმს."
+  - q: "როგორ ვიპოვო შესვენების მოვლა ჩემთან ახლოს?"
+    a: "დაიწყეთ Eldercare Locator-ით (1-800-677-1116 ან eldercare.acl.gov), რომ დაუკავშირდეთ თქვენი რეგიონის მოხუცთა სააგენტოს, ARCH National Respite Locator Service-ს ან Alzheimer’s Association-ის ცხელ ხაზს 1-800-272-3900 ნომერზე. ოჯახმა, მეგობრებმა და მოხალისეებმაც შეიძლება უზრუნველყონ შესვენება."
+  - q: "ფარავს თუ არა Medicare შესვენების მოვლას?"
+    a: "National Institute on Aging-ის მიხედვით, იმ ადამიანისთვის, რომელიც ჰოსპისურ მოვლას იღებს, Medicare ფარავს ზედიზედ ხუთ დღემდე შესვენების მოვლის ხარჯის უმეტეს ნაწილს საავადმყოფოში ან სპეციალიზებულ საექთნო დაწესებულებაში. კერძო ჯანმრთელობის დაზღვევა, როგორც წესი, ამას არ ფარავს; Medicaid-მა და ზოგიერთმა ხანგრძლივი მოვლის სადაზღვევო გეგმამ შეიძლება დაგეხმაროთ."
+  - q: "Alzheimer’s Association-ის ცხელი ხაზი ნამდვილად უფასოა და ღამითაც მუშაობს?"
+    a: "დიახ. Alzheimer’s Association აცხადებს, რომ მისი ცხელი ხაზი 1-800-272-3900 ნომერზე უფასო და კონფიდენციალურია, მუშაობს მთელი საათის განმავლობაში, წელიწადში 365 დღე და დახმარება ბევრ ენაზეა ხელმისაწვდომი. რელეს სერვისისთვის აკრიფეთ 711."
+  - q: "ეგოისტურია, თუ ზრუნვიდან შესვენებას ავიღებ?"
+    a: "არა. დასვენება გეხმარებათ ზრუნვის გაგრძელებაში და შესვენებამ შეიძლება იმ ადამიანსაც მისცეს ახალი თანასაზოგადოება და საქმიანობა, რომელზეც ზრუნავთ. ბევრი მზრუნველი მოგვიანებით ამბობს, რომ ადრე რომ ეთხოვათ დახმარება, უკეთესი იქნებოდა."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+თუ თქვენ ზრუნავთ დემენციით ცხოვრების მქონე ადამიანზე, ალბათ ამ გვერდს გვიან, დაღლილი კითხულობთ და იმ საქმეების სია გაქვთ, რაც ვერ успეით. ეს ნორმალურია. საკუთარ თავზე ზრუნვა არ არის ფუფუნება და არც ჯილდო ყველაფრის დასრულებისთვის. ეს არის ის, რაც გაძლევთ ძალას, გააგრძელოთ.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+ეს გვერდი მოგიყვებათ გადაღლილობის გაფრთხილების ნიშნებზე, ნამდვილ შესვენებაზე, მხარდაჭერის პოვნაზე და უფასო ცხელი ხაზებზე აშშ-ში, რომლებზეც დღესვე შეგიძლიათ დარეკოთ.
 
-## What are the signs of caregiver burnout?
+## რა არის მზრუნველის გადაღლილობის ნიშნები?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+გადაღლილობა ხშირად ნელა გროვდება, ამიტომ კარგია იცოდეთ თქვენი საკუთარი გაფრთხილების ნიშნები. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ასახელებს მზრუნველის სტრესის ისეთ ნიშნებს, როგორიცაა:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- ძლიერი დაღლილობა, გადატვირთულობის ან შფოთვის შეგრძნება;
+- ადვილად გაბრაზება ან მოუთმენლობა;
+- მარტოობის შეგრძნება ან სხვებისგან დაშორება;
+- ძილის პრობლემები ან არასაკმარისი ძილი;
+- სევდა ან იმედგაცრუება, ან იმ საქმეებისადმი ინტერესის დაკარგვა, რომლებითაც ადრე ტკბობოდით;
+- ხშირი თავის ტკივილი, ტკივილი ან სხვა ფიზიკური პრობლემები;
+- დროის არ ქონა ვარჯიშისთვის ან საკუთარი თავისთვის ჯანსაღი საკვების მოსამზადებლად;
+- душის მიღების ან სხვა პირადი მოვლის გამოტოვება;
+- ალკოჰოლის ან ნარკოტიკული საშუალებების, მათ შორის დანიშნული წამლების, ბოროტად გამოყენება.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ასევე აღნიშნავს ისეთ ნიშნებს, როგორიცაა დაავადების უარყოფა, ბრაზი იმ ადამიანზე („ის უბრალოდ ჯიუტობს“), მომავალთან დაკავშირებული შფოთვა, კონცენტრაციის სირთულე და ჯანმრთელობის პრობლემები, რომლებიც თქვენს მდგომარეობაზე მოქმედებს. იგი გირჩევთ, ესაუბროთ ექიმს, თუ მსგავსი ნიშნები ხშირად გაქვთ.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA-ის რჩევაა, არ დაელოდოთ სრულ ამოწურვას. შეამჩნიეთ ნიშნები ადრე და მოიმოქმედეთ.
 
-## What can I do today, in five minutes?
+## რა შემიძლია გავაკეთო დღეს, ხუთ წუთში?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+პატარა შესვენებებიც მნიშვნელოვანია. ეს არცერთი გადაღლილობას არ მოაგვარებს, მაგრამ შეიძლება დაგეხმაროთ რთული დღის გადატანაში.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **გადით გარეთ.** დაჯექით აივანზე ან გაისეირნეთ საფოსტო ყუთამდე, სანამ ის ადამიანი, რომელზეც ზრუნავთ, უსაფრთხოდ და მშვიდად არის.
+- **ისუნთქეთ ნელა.** რამდენიმე ნელი ამოსუნთქვა, სანამ რთულ კითხვას უპასუხებთ. შეგიძლიათ [მშვიდი სუნთქვის](/games/calm-breathing/) პატარა შესვენება იმ ადამიანთან ერთადაც გააკეთოთ, რომელზეც ზრუნავთ.
+- **დალიეთ წყალი და რაღაცის ჭამა.** საკუთარ კვებაზე ყურადღების გამახვილება ადვილად ივიწყება.
+- **მისწერეთ ერთ მეგობარს.** არა რაიმეს სათხოვნელად, უბრალოდ დასაკავშირებლად.
+- **უთხარით საკუთარ თავს რაღაც კეთილი.** NIA-ის [საკუთარ თავზე ზრუნვის სახელმძღვანელო](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) გვთავაზობს ისეთ ფრაზებს, როგორიცაა: „მე ვაკეთებ ყველაფერს, რაც შემიძლია“, „მე არ ვარ სრულყოფილი და ეს ნორმალურია“ და „მე მივიღებ სიამოვნებას იმ მომენტებით, როცა ერთად მშვიდად ყოფნა შეგვიძლია“.
 
-## What is respite care, and how do I get it?
+## რა არის შესვენების მოვლა და როგორ მივიღო იგი?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+შესვენების მოვლა არის მოკლევადიანი მოვლა იმ ადამიანისთვის, რომელზეც ზრუნავთ, რათა თქვენ შეძლოთ დასვენება. NIA-ის [გვერდი შესვენების მოვლის შესახებ](https://www.nia.nih.gov/health/caregiving/what-respite-care) ხსნის, რომ ეს შეიძლება გაგრძელდეს რამდენიმე საათიდან რამდენიმე კვირამდე და შეიძლება განხორციელდეს სახლში, ჯანდაცვის დაწესებულებაში ან დღის ცენტრში.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) აღწერს გავრცელებულ სახეებს:
 
-| Type | What it is |
+| სახეობა | რა არის ეს |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| დახმარება სახლში | სახლში მოდის მეგობარი, ნათესავი, მოხალისე ან ანაზღაურებადი თანმხლები ან დამხმარე |
+| დღის ცენტრი | დაგეგმილი საქმიანობები, როგორიცაა მუსიკა და ხელოვნება, უსაფრთხო ჯგუფურ გარემოში; ხშირად предлагается ტრანსპორტი და კვებაც |
+| ღამისთევა ან მოკლე სტაციონარი | ხანგრძლივი მოვლის დაწესებულება ზრუნავს ადამიანზე ერთი ღამით, რამდენიმე დღით ან რამდენიმე კვირით |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**ვინ იხდის?** NIA-ის მიხედვით, ოჯახის, მეგობრების ან მოხალისეებისგან მიღებული შესვენება შეიძლება უფასო იყოს. პროფესიონალური სერვისები ფასს საათობრივად ან დღიურად იღებენ. იმ ადამიანისთვის, რომელიც ჰოსპისურ მოვლას იღებს, Medicare ფარავს ზედიზედ ხუთ დღემდე შესვენების მოვლის ხარჯის უმეტეს ნაწილს საავადმყოფოში ან სპეციალიზებულ საექთნო დაწესებულებაში. Medicaid-მა შეიძლება დაგეხმაროთ. კერძო ჯანმრთელობის დაზღვევა, როგორც წესი, შესვენების მოვლას არ ფარავს, თუმცა ზოგიერთი ხანგრძლივი მოვლის სადაზღვევო გეგმა ფარავს.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**რჩევა:** Alzheimer’s Association გირჩევთ, შესვენების სერვისის მომწოდებლები სცადოთ არა გადაუდებელ სიტუაციაში, რათა მზად იყვნენ, თუ დახმარება მოულოდნელად დაგჭირდათ.
 
-## Where can I find help near me?
+## სად ვიპოვო დახმარება ჩემთან ახლოს?
 
-Several free US services can point you to local help.
+რამდენიმე უფასო სერვისი აშშ-ში შეგიძლიათ დაგეხმაროთ ადგილობრივი დახმარების პოვნაში.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer’s Association 24/7 ცხელი ხაზი: 1-800-272-3900.** [ცხელი ხაზი](https://www.alz.org/help-support/resources/helpline) უფასო და კონფიდენციალურია, მუშაობს მთელი საათის განმავლობაში, წელიწადის ყველა დღეს, და დახმარებას სთავაზობს 200-ზე მეტ ენაზე ორენოვანი თანამშრომლების ან თარჯიმნების მეშვეობით. რელეს სერვისისთვის აკრიფეთ 711. შეგიძლიათ ესაუბროთ ქცევის ცვლილებებზე, მზრუნველის სტრესზე, შესვენების შესაძლებლობებზე, ადგილობრივ პროგრამებზე და სხვა თემებზე, ასევე მოითხოვოთ უფრო ხანგრძლივი საუბარი მოვლის კონსულტანტთან. თანამშრომლები სამედიცინო რჩევებს არ იძლევიან.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) არის Administration for Community Living-ის საჯარო სერვისი, რომელიც გაკავშირებთ ხანდაზმული ადამიანებისა და მათი ოჯახებისთვის განკუთვნილ სერვისებთან. შეგიძლიათ დარეკოთ, მისწეროთ, ონლაინ ჩათი გამოიყენოთ ან ელფოსტა გაუგზავნოთ მომზადებულ თანამშრომლებს, ან მოძებნოთ სერვისები თქვენი მდებარეობის მიხედვით. მას შეუძლია მიგასწავლოთ თქვენი რეგიონის მოხუცთა სააგენტოსკენ.
+- **ARCH National Respite Locator Service.** [ARCH-ის შესვენების მოძებნი](https://archrespite.org/caregiver-resources/respitelocator/) გეხმარებათ შტატის მიხედვით იპოვოთ შესვენების სერვისის მომწოდებლები და გირჩევთ, ჯერ დაუკავშირდეთ თქვენი შტატის State Respite Coalition-ს ან Lifespan Respite პროგრამას, თუ ასეთი თქვენს შტატში არსებობს. ARCH აღნიშნავს, რომ მომწოდებლებს არ ამოწმებს, ამიტომ მათი გამოცდილება და წარსული თავად შეაფასეთ.
 
-## How do I find a support group?
+## როგორ ვიპოვო მხარდაჭერის ჯგუფი?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+ჰკითხეთ ცხელ ხაზს ან მოძებნეთ ჯგუფები ინტერნეტში თქვენთან ახლოს. Alzheimer’s Association [ატარებს მხარდაჭერის ჯგუფებს](https://www.alz.org/help-support/community/support-groups) მზრუნველებისთვის და დემენციით ცხოვრების მქონე ადამიანებისთვის, როგორც პირადად, ისე ონლაინ, მომზადებული ფასილიტატორების ხელმძღვანელობით. ბევრ ადგილზე ასევე არის სპეციალიზებული ჯგუფები, მაგალითად, ზრდასრული მზრუნველებისთვის ან ადრეულ ასაკში ან ადრეულ სტადიაზე ალცჰაიმერით ცხოვრების მქონე ადამიანებისთვის. ასევე არსებობს ALZConnected — უფასო ონლაინ საზოგადოება, სადაც მზრუნველები ერთმანეთს რჩევებს უზიარებენ.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+მხარდაჭერის ჯგუფი შეიძლება იყოს ადგილი, სადაც განტვირთვას განსჯის გარეშე, მიიღებთ პრაქტიკულ რჩევებს მათგან, ვინც ამას უკვე გადის, და თავს ნაკლებად მარტო იგრძნობთ. თუ პირველი ჯგუფი вам არ შეგეფერათ, სცადეთ სხვა.
 
-## How do I ask family and friends for help?
+## როგორ ვითხოვო დახმარება ოჯახისგან და მეგობრებისგან?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+იყავით კონკრეტული. ბევრს სურს დახმარება, მაგრამ არ იცის, რა შესთავაზოს. NIA გირჩევთ:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **შეადგინეთ სია** იმ საქმეების, რომლებიც სხვებს შეუძლიათ აიღონ, და მიეცით людям არჩევანის საშუალება.
+- **დაიწყეთ მცირედით**, თუ თხოვნა вам რთულად გეჩვენებათ.
+- **შეახამეთ საქმე ადამიანს.** ბიძაშვილი, რომელსაც cozinhar უყვარს, ხუთშაბათს ვახშამს მოიტანს. მეზობელი, რომელსაც ფორმებთან მუშაობა ეხერხება, დოკუმენტებში დაგეხმარებათ.
+- **მისწერეთ ან ელფოსტა გაუგზავნეთ**, თუ პირადად თხოვნა вам არასასიამოვნოა.
+- **წინასწარ მოემზადეთ პასუხისთვის**, როცა ვინმე დახმარებას გთავაზობთ: „გმადლობთ, რომ მკითხეთ. აი, რით შეგიძლიათ დამეხმაროთ.“
+- **დაემზადეთ უარებისთვისაც** და ეცადეთ, ეს პირადად არ მიიღოთ.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+სხვა იდეები: სთხოვეთ ვინმეს, კვირაში ერთი დღისით დარჩეს იმ ადამიანთან, გაისეირნოს მასთან ერთად ან ეწვიოს და ერთად ითამაშონ. ჩვენი [ერთად თამაშის სახელმძღვანელო](/caregiving/how-to-play-together/) მარტივია სტუმრებისთვის გასაზიარებლად.
 
-## What if something happened to me?
+## რა მოხდება, თუ ჩემს თავთან რამე მოხდა?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+ახლავე შეადგინეთ მარტივი სარეზერვო გეგმა. NIA გირჩევთ, ოჯახთან ან ახლო მეგობრებთან ერთად გადაწყვიტოთ, ვინ ჩაგენაცვლებათ, და შეინახოთ რვეული, სადაც ჩაწერილი იქნება საგანგებო ნომრები, წამლები, ქცევის შესახებ ის რჩევები, რაც მუშაობს, და საყვარელი საქმიანობები. Alzheimer’s Association ასევე გირჩევთ, იმ ადამიანის სამედიცინო კონტაქტები და განახლებული წამლების სია ადვილად საპოვნელ ადგილას შეინახოთ.
 
-## When should I get professional or urgent help?
+## როდის უნდა მივმართო პროფესიონალურ ან გადაუდებელ დახმარებას?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+ესაუბრეთ თქვენს ექიმს, თუ სტრესის ნიშნები რეგულარულად გაქვთ, თუ დეპრესიას გრძნობთ ან თუ გიჭირთ cope. უთხარით ექიმს, რომ თქვენ მზრუნველი ხართ. NIA აღნიშნავს, რომ კონსულტანტებსა და სოციალურ მუშაკებს შეუძლიათ დაგეხმარონ რთულ გრძნობებთან და დაგეგმვასთან დაკავშირებით, და რომ Medicare-ს, Medicaid-სა და ზოგიერთ კერძო დაზღვევას შეიძლება ფსიქიკური ჯანმრთელობის ზოგიერთი ხარჯი დაფაროს.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+თუ კრიზისს განიცდით ან გაქვთ საკუთარი თავის დაზიანების ფიქრები, დარეკეთ ან მისწერეთ 988-ზე, რათა დაუკავშირდეთ [988 Suicide & Crisis Lifeline](https://988lifeline.org/)-ს, რომელიც უფასოა და ხელმისაწვდომია 24/7. თუ ვინმე უშუალო საფრთხეშია, დარეკეთ 112-ზე.
 
-## Can shared activities give me a break too?
+## შეიძლება თუ არა საერთო საქმიანობებმა ჩემთვისაც შემქმნას შესვენება?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+ზოგჯერ კი. მშვიდი საქმიანობა, რომლითაც ორივე ტკბებით, შეიძლება დღის უფრო რბილი ნაწილი იყოს როგორც თქვენთვის, ისე იმ ადამიანისთვის, რომელზეც ზრუნავთ: ძველი სიმღერების მოსმენა, ფოტოების ერთად დათვალიერება ან ისეთი თამაში, როგორიცაა [სასაუბრო ბარათები](/games/conversation-cards/), რომელსაც სწორი პასუხები არ სჭირდება. თუ ადამიანს თანასაზოგადოება უხარია, ჯგუფური სესია [სურათების ბინგოთი](/games/picture-bingo/) ხანდაზმულთა ცენტრში ან დღის პროგრამაში შეიძლება вам ერთი საათით შესვენება მოგცეთ. იდეებისთვის იხილეთ [საქმიანობები მოვლის სახლის ჯგუფებისთვის](/activities/care-home-groups/).

@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Nasc Sóisialta agus Sláinte na hinchinne"
+seoTitle: "Uaigneas, Iargúltacht agus Baol Néaltraithe"
+description: "An nasc idir uaigneas, iargúltacht shóisialta agus baol néaltraithe, chomh maith le bealaí simplí le fanacht i dteagmháil le chéile."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Léiríonn taighde go bhfuil nasc idir iargúltacht shóisialta agus uaigneas níos déanaí sa saol
+  agus baol níos airde néaltraithe. Measann Coimisiún Lancet 2024 go mbaineann thart ar 5% de
+  chásanna le hiargúltacht, ach d’fhéadfadh sé go bhfuil cuid den nasc mar gheall ar néaltrú
+  luath a fhágann go dtarraingíonn daoine siar. Cuidíonn teagmháil rialta, caitheamh aimsire i
+  bpáirt agus cabhair leis an éisteacht le nasc a choinneáil. I gcás daoine atá ina gcónaí le
+  néaltrú, tá gníomhaíochtaí comhroinnte tábhachtach don taitneamh agus don cháilíocht saoil.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Liostaíonn Coimisiún Lancet iargúltacht shóisialta níos déanaí sa saol mar cheann de 14 thoisc riosca néaltraithe is féidir a mhodhnú, ag thart ar 5% de chásanna."
+  - "Cheangail comhairle Máinlia Ginearálta na Stát Aontaithe in 2023 uaigneas agus iargúltacht ainsealach le baol néaltraithe thart ar 50% níos airde i measc daoine fásta níos sine."
+  - "Is fianaise bhreathnaitheach í an chuid is mó den fhianaise seo, agus d’fhéadfadh néaltrú luath féin a chur faoi deara go dtarraingíonn daoine siar."
+  - "Méadóidh fadhbanna éisteachta nó radhairc, maireachtáil ina haonar agus cúram a thabhairt an baol iargúlachta."
+  - "I gcás daoine atá ina gcónaí le néaltrú, tacaíonn gníomhaíochtaí taitneamhacha comhroinnte le cáilíocht saoil; is é an nasc, ní an fheidhmíocht, an sprioc."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "An mbíonn uaigneas ina chúis le néaltrú?"
+    a: "Níl sé sin cruthaithe. Léiríonn go leor staidéar nasc idir uaigneas agus iargúltacht agus baol níos airde néaltraithe, ach d’fhéadfadh athruithe luatha san inchinn a chur faoi deara go dtarraingíonn daoine siar ó dhaoine eile freisin. Tá buntáistí eile go leor ag baint le fanacht i dteagmháil don ghiúmar agus don tsláinte, mar sin is fiú tacaíocht a thabhairt dó cibé scéal é."
+  - q: "Cad é an difríocht idir uaigneas agus iargúltacht shóisialta?"
+    a: "Ciallaíonn iargúltacht shóisialta nach mbíonn mórán daoine agat le teagmháil rialta a dhéanamh leo. Is é an t-uaigneas an mothú cráite a bheith leat féin nó scoite amach. Is féidir leat maireachtáil leat féin gan uaigneas a mhothú, nó uaigneas a mhothú agus tú timpeallaithe ag daoine."
+  - q: "Conas is féidir liom cabhrú le tuismitheoir atá ina chónaí le néaltrú fanacht i dteagmháil?"
+    a: "Oibríonn teagmháil ghearr rialta go maith. Bain triail as glao nó físghlao seachtainiúil socraithe, gníomhaíocht chomhroinnte ag an mbord cistine, caifé cuimhne, nó cuairt le peata nó le garmhac nó gariníon. Coinnigh grúpaí beag agus ciúin, agus lig don duine an luas a shocrú."
+  - q: "Cá bhfaighidh mé cabhair áitiúil do dhuine fásta níos sine atá iargúlta?"
+    a: "Ceanglaíonn an Eldercare Locator, seirbhís phoiblí, teaghlaigh le gníomhaireachtaí áitiúla ar aosú agus le cláir phobail. Is féidir teagmháil a dhéanamh leis ag 800-677-1116 nó ag eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Tá daoine déanta don chomhlachtas, agus ní athraíonn sé sin le haois. Léiríonn taighde go bhfuil nasc idir uaigneas agus iargúltacht shóisialta níos déanaí sa saol agus baol níos airde néaltraithe, chomh maith le galar croí agus dúlagar. Ní féidir leis an taighde a rá go fóill cé mhéad den nasc sin is cúis agus is éifeacht. Clúdaíonn an leathanach seo a léiríonn an fhianaise, bealaí praiticiúla le fanacht i dteagmháil, agus an fáth a bhfuil gníomhaíochtaí comhroinnte chomh tábhachtach sin do dhaoine atá ina gcónaí le néaltrú cheana féin.
 
-## Are loneliness and isolation linked with dementia?
+## An bhfuil nasc idir uaigneas, iargúltacht agus néaltrú?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Tá, léiríonn go leor staidéar nasc eatarthu, ach níl an treo soiléir go hiomlán. Liostaíonn [Coimisiún Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) iargúltacht shóisialta níos déanaí sa saol mar cheann de 14 thoisc riosca is féidir a mhodhnú. Cuireann [achoimre UCL ar an tuarascáil](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) í ag thart ar 5% de chásanna néaltraithe ar fud an domhain.
 
-What the evidence shows:
+A léiríonn an fhianaise:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Níos lú teagmhála, baol níos airde.** Déanann an Coimisiún cur síos ar dhá athbhreithniú a cheangail teagmháil shóisialta nach raibh chomh minic sin le baol néaltraithe níos airde. Fuair ceann acu baol thart ar 57% níos airde agus fuair an ceann eile thart ar 18%.
+- **Uaigneas freisin.** Bhí nasc idir uaigneas, an mothú a bheith scoite amach, agus baol néaltraithe níos airde i roinnt athbhreithnithe.
+- **Dearcadh an Máinlia Ghinearálta.** I mí na Bealtaine 2023, d’eisigh Máinlia Ginearálta na Stát Aontaithe [comhairle faoi uaigneas agus iargúltacht](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Deir sé go bhféadfadh uaigneas agus iargúltacht ainsealach an baol néaltraithe a ardú thart ar 50% i measc daoine fásta níos sine. Cheangail sé nasc sóisialta lag le baol 29% níos airde de ghalar croí agus baol 32% níos airde de stróc freisin.
+- **Cé chomh coitianta atá sé.** Fuair [tuarascáil de chuid na nAcadamh Náisiúnta](https://www.ncbi.nlm.nih.gov/books/NBK557972/) go bhfuil thart ar 24% de Mheiriceánaigh 65 bliana d’aois agus níos sine atá ina gcónaí sa phobal iargúlta go sóisialta.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Rabhadh tábhachtach: tugann Coimisiún Lancet faoi deara go bhféadfadh daoine a ngníomhaíochtaí sóisialta a laghdú le linn chéim luath, neamh-dhiagnóisithe néaltraithe. Ciallaíonn sé sin go bhféadfadh sé go bhfuil cuid den nasc mar gheall ar néaltrú a fhágann go dtarraingíonn daoine siar, ní hamháin go n-ardaíonn tarraingt siar an baol. Tagann beagnach an fhianaise seo ar fad ó staidéir bhreathnaitheacha.
 
-## What is the difference between loneliness and isolation?
+## Cad é an difríocht idir uaigneas agus iargúltacht?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Míníonn an [Institiúid Náisiúnta um Aosú (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) é mar seo. Ciallaíonn **iargúltacht shóisialta** nach mbíonn mórán teagmhálacha sóisialta agat nó nach mbíonn mórán daoine agat le teagmháil rialta a dhéanamh leo. Is é **uaigneas** an mothú cráite a bheith leat féin nó scartha amach. Is féidir le duine maireachtáil ina aonar go sona sásta, agus is féidir le duine uaigneas a mhothú i seomra lán.
 
-The NIA lists factors that raise the risk of both:
+Liostaíonn an NIA tosca a ardaíonn an baol don dá cheann:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Fadhbanna éisteachta nó radhairc
+- Deacracht bogadh thart, nó gan iompar
+- Maireachtáil ina haonar, nó caillteanas mór ar nós bás céile nó scor ón obair
+- Athruithe cuimhne nó smaointeoireachta
+- Cúram a thabhairt do dhuine muinteartha atá tinn
+- Imní airgid nó bacainní teanga
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Is ceist mhór í an éisteacht. Tugann an NIA faoi deara go bhféadfadh daoine nach gcloiseann go maith tarraingt siar mar go mbíonn comhrá frustrach nó náireach. Clúdaíonn ár [dtreoir ar éisteacht agus sláinte na hinchinne](/brain-health/hearing/) seiceálacha éisteachta agus áiseanna éisteachta thar an gcuntar.
 
-## Practical ways to stay connected
+## Bealaí praiticiúla le fanacht i dteagmháil
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+Molann an NIA réimse smaointe. Roghnaigh ceann nó dhó a oireann duit:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Socraigh teagmháil rialta.** Am socraithe gach lá nó gach seachtain le glaoch, teachtaireacht a sheoladh, ríomhphost a chur nó cárta a sheoladh chuig teaghlach, cairde nó comharsana.
+- **Bain úsáid as físghlaonna nó cainteoirí cliste.** Má tá an teicneolaíocht nua duit, cuireann go leor leabharlann phoiblí agus ionad pobail ranganna ar fáil. Féach ár [dtreoir ar ghlaonna gutháin agus físghlaonna](/activities/phone-and-video-calls/).
+- **Bí páirteach i rud éigin.** Tugann rang, pobal creidimh, club siúil nó ról deonach teagmháil duit agus mothú cuspóra.
+- **Tosaigh arís le seanchaitheamh aimsire** nó foghlaim ceann nua le daoine eile.
+- **Bog le daoine eile.** Déan aclaíocht le cara nó le grúpa. Tá roghanna réidhe inár [dtreoir ar aclaíocht](/brain-health/exercise/).
+- **Smaoinigh ar pheata** más féidir leat aire a thabhairt dó.
+- **Bain úsáid as seirbhísí áitiúla.** Is féidir le hionaid do dhaoine sinsearacha, le Gníomhaireachtaí Ceantair ar Aosú agus leis an Eldercare Locator (800-677-1116) tú a threorú chuig cláir agus iompar.
 
-## Why do shared activities matter in dementia?
+## Cén fáth a bhfuil gníomhaíochtaí comhroinnte tábhachtach i néaltrú?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+I gcás duine atá ina chónaí le néaltrú cheana féin, baineann an nasc le taitneamh, compord agus mothú a bheith páirteach, ní le baol a laghdú. Deir Coimisiún Lancet go gcuidíonn gníomhaíochtaí le daoine atá ina gcónaí le néaltrú taitneamh agus cuspóir a choinneáil. Tugann [Cumann Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) faoi deara gur féidir le gníomhaíochtaí, chomh maith le cáilíocht saoil a fheabhsú, iompraíochtaí ar nós fánaíocht nó corraí a laghdú. Cuireann an [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) leis go bhfuil gá ag daoine le galar Alzheimer a bheith gníomhach agus rudaí a thaitníonn leo a dhéanamh.
 
-Ideas that work well:
+Smaointe a oibríonn go maith:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Féach ar phictiúir le chéile.** Tugann [Conversation Cards](/games/conversation-cards/) leideanna oscailte gan tráth na gceist, ar nós „Inis dom faoi...“. Féach ár [dtreoir ar chuimhneachán](/activities/reminiscence/).
+2. **Imir taobh le taobh.** Coinníonn [Picture Pairs](/games/picture-pairs/) pictiúir le feiceáil agus níl amadóir ná scór ann, mar sin níl aon bhrú ann. Tá leideanna inár dtreoir faoi [conas imirt le chéile](/caregiving/how-to-play-together/).
+3. **Bain úsáid as grianghraif teaghlaigh.** Déanann [Photo Pairs](/games/photo-pairs/) cluiche meaitseála de ghrianghraif a roghnaíonn tú, agus fanann na grianghraif ar do ghléas.
+4. **Tabhair daoine le chéile.** Oibríonn [Picture Bingo](/games/picture-bingo/) do chruinnithe teaghlaigh agus do [ghrúpaí i dtithe cúraim](/activities/care-home-groups/).
+5. **Roinn ceol, tascanna tí nó an gairdín.** Féach [gníomhaíochtaí ceoil](/activities/music/), [tascanna tí](/activities/household-tasks/) agus ár liosta iomlán de [smaointe gníomhaíochta](/activities/ideas/).
+6. **Déan cuairteanna níos éasca.** Clúdaíonn ár [dtreoir ar chuairteanna](/activities/visiting/) cuairteanna gearra ciúine a mhothaíonn go maith do gach duine.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Coinnigh rudaí beag agus suaimhneach. Is minic a oibríonn seomra ciúin le duine nó beirt níos fearr ná grúpa mór. Má éiríonn an duine tuirseach nó má chailleann sé nó sí spéis, tá sé ceart go leor stopadh. Is toradh maith é suí le chéile le cupán tae freisin.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+I gcás duine atá ina chónaí ina aonar le néaltrú, molann an NIA duine iontaofa a aimsiú a fhéadfaidh cuairt nó físghlao rialta a dhéanamh agus a bheith ina theagmháil éigeandála. Luann sé caifé cuimhne áitiúil freisin, spás sóisialta suaimhneach do dhaoine le caillteanas cuimhne agus dá dteaghlaigh.
 
-## Caregivers get lonely too
+## Bíonn uaigneas ar chúramóirí freisin
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+Liostaíonn an NIA cúram a thabhairt do dhuine muinteartha mar thoisc riosca iargúlachta. Coinnigh roinnt ama duit féin le haghaidh do chairdeas féin, grúpaí tacaíochta agus scíthe. Tá smaointe praiticiúla inár [dtreoir ar fhéinchúram do chúramóirí](/caregiving/caregiver-self-care/).
 
-## Talk with a doctor
+## Labhair le dochtúir
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Má mhothaíonn tú féin nó an duine a dtugann tú cúram dó uaigneach nó iargúlta go minic, inis do dhochtúir. Spreagann an NIA daoine athruithe móra saoil a roinnt, ar nós bás sa teaghlach, ionas go mbeidh an pictiúr iomlán ag an dochtúir. D’fhéadfadh dúlagar a bheith i gceist má mhothaíonn tú íseal ar feadh seachtainí, agus is féidir cóireáil a fháil dó. Má tharraingíonn duine fásta níos sine siar ó chairde nó ó ghníomhaíochtaí a thaitníodh leo roimhe seo le déanaí, is fiú an t-athrú sin a lua le dochtúir freisin. Léigh [comharthaí luatha agus cathain dul chuig dochtúir](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Is eolas ginearálta é an leathanach seo, ní comhairle leighis. Féach ár [séanadh leighis](/medical-disclaimer/).

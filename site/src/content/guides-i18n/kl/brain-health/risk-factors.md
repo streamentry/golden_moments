@@ -1,33 +1,28 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Dementia navianartorsiutai: Lancet-ip 14-i"
+seoTitle: "Dementia navianartorsiutai: Lancet-ip 14-i"
+description: "2024-imi Lancet Kommissionip dementia navianartorsiutai 14-it allanngortinneqarsinnaasut, inooqatigiit nalaanni, ilisimatusarnermik ataqatigiissaarneri nakorsamullu oqaloqatigineqarsinnaasut."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024-imi Lancet Kommissionip dementia navian-associated 14-it allanngortinneqarsinnaasut imaluunniit ikinnerusunneqarsinnaasut aalajangerpai: ilinniagaqannginnerussineq, tusilartuunneq, LDL-kolesteroli qaffasinnerussimasoq, kingunerisassarsiorneq, niaqumut ajoqusiineq, timimik nuussinneq amigaateq, sukkorissaarneq, pujortarneq, aappariit tatineqarnerat qaffasinnerussimasoq, uminngarnersuaq, imigassamik imeqarnerujooq, kisimiinneq, silaannaap mingutsinnera isigilernermillu ajornartorsiutit aaqqinneqarsimanngitsut. Nunarsuarmit katillugit tamakkua dementia annaasa 45 procentii missaannik ataqatigiissagaapput, kisiannili inummut ataasiakkaamut qulakkeerneqanngilaq.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Navianartorsiutit 14-it inooqatigiit tamarmik nalaanniipput: ataaseq inuusuttualluni, qulit inuttoqqalluarnermi pingasullu utoqqalinermi."
+  - "Inuttoqqalluarnermi tusilartuunneq LDL-kolesterolilu qaffasinnerussimasoq tamarmik dementia annaasa 7 procentii missaannik nunarsuaq tamakkerlugu ataqatigiissagaapput, navianartorsiutit ataasiakkaat annersaat."
+  - "Procentit taakku nuna tamakkerlugu naatsorsuutigineqarput, pisoqalernissamullu ataqatigiinneranut pisteqarput. Ataqatigiinnerit ilai nalunaaqutaqanngitsumik imaannaannginnaapput."
+  - "Utoqqalinneq kingornussuserlu, allanngortinneqarsinnaanngitsut, navianartorsiutini pingaarutilersaarput. Navianartorsiutit 14-it ikinnerusunnerat inummut ataasiakkaamut dementia pinaveersaarnissaa qulakkeernaanngilaq."
+  - "Ilanersaanni sulinerit, soorlu aappariit tatineqarnerat, tusilartuunneq isigilernermillu misissorneqartarnerat, peqqissutsimut allatulluunniit iluaqutigisinnaapput nakorsamullu oqaloqatigineqartariaqarput."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Dementia navianartorsiutai allanngortinneqarsinnaasut 14-it suut-ua?"
+    a: "2024-imi Lancet Kommissionip kalaalliliaavai ilinniagaqannginnerussineq, tusilartuunneq, LDL-kolesteroli qaffasinnerussimasoq, kingunerisassarsiorneq, niaqumut ajoqusiineq, timimik nuussinneq amigaateq, sukkorissaarneq, pujortarneq, aappariit tatineqarnerat qaffasinnerussimasoq, uminngarnersuaq, imigassamik imeqarnerujooq, kisimiinneq, silaannaap mingutsinnera isigilernermillu ajornartorsiutit aaqqinneqarsimanngitsut. Nunarsuarmit katillugit tamakkua dementia annaasa agguaqatigiissillugit affaat ataqatigiissagaapput."
+  - q: "Dementia navianartorsiutai arlaanna piunerpaava?"
+    a: "Nunarsuaq tamakkerlugu Kommissionip naatsorsuerpai inuttoqqalluarnermi tusilartuunneq LDL-kolesterolilu qaffasinnerussimasoq tamarmik annaasa 7 procentii missaannik ataqatigiissagaat, kingornatigut ilinniagaqannginnerussineq kisimiinnerlu tamarmik 5 procentii missaannik. Inummut ataasiakkaamut suut pingaarnersaat peqqissutsimut personalesumut tunngapput, nakorsarlu siunnersuilluni iluaqutaasinnaalluni."
+  - q: "2024-imi navianartorsiutit marlunnik nutaanik ilanngunneqarpa?"
+    a: "Aap. 2024-imi nalunaarusiaq inuttoqqalluarnermi LDL-kolesteroli („ajortoq“) qaffasinnerussimasoq utoqqalinermilu isigilernermi ajornartorsiutit aaqqinneqarsimanngitsut, 2020-imi navianartorsiutinut 12-inut ilannguppai. Kommissionip tamakkua annaasa 7 procentii 2 procentiillu missaannik ataqatigiissagai."
+  - q: "Utoqqalinneq navianartorsiutaava allanngortinneqarsinnaasoq?"
+    a: "Naamik. Utoqqalinneq Alzheimersimik nappaatinut navianartorsiutaavoq nalunnginneqartunit annersaanersoq, allanngortinneqarsinnaanani. Kingornussuserlu sunniuteqarsinnaavoq. Quppernermi matumani navianartorsiutit 14-it tassaapput ilisimatusarnermi paasissutissanik allanngortinneqarsinnaasutut isigineqartut."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +44,83 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Navianartorsiut tassaavoq suna tamaat ajornartorsiutimik pilersitsisinnaanerup qaffasinneruneranik ataqatigiisoq. Tamanna pisoqarsinnaasoq tamatigut nassuiarissanngilaq, tassaasumillu navianartorsiuteqartoqarnissaa dementiaqarumaarnissaanik uppernarsaanngilaq. Qupperneq una 2024-imi Lancet Kommissionip dementia navianartorsiutai 14-it allanngortinneqarsinnaasutut imaluunniit ikinnerusunneqarsinnaasutut nalunaarutigai nassuiarai, ilisimatusarnermik qanoq ataqatigiinnerat aammalu nakorsamut suna oqaloqatigineqarsinnaasoq.
 
-For the bigger picture, including what large trials found, start with
+Isumaliornermik tamakkiisumik paasisaqarusukkuit, aammalu misissueqqissaarnerit annertuut qanoq paasisimanerat, aallarit
 [Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
+Tamanna paasisimasanik nalinginnaasunik paasissutissiivoq, nakorsaanermut siunnersuutinngilaq; takukkit
 [medical disclaimer](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Dementia navianartorsiutai 14-it suut-ua?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024-imi Lancet Kommissionip](https://doi.org/10.1016/S0140-6736(24)01296-0),
+dementiamik ilisimatusartunut 27-inik allagaq, naatsorsuerpaa navian-associated 14-it allanngortinneqarsinnaasut nunarsuaq tamakkerlugu dementia annaasa 45 procentii missaannik ataqatigiissagaat. Navianartorsiutit ataasiakkaat ataani procentii takuneqarsinnaasut tassaapput Kommissionip nunarsuaq tamakkerlugu annaasanut ataqatigiinerannik naatsorsuutai, kisitsisinik amerlassusilinnik amerlisinneqarlutik. Kisitsisit taakku imminnut akulerupput, inuit amerlasuut navian-associated arlalinnik ataasiaqatigiisartarmata, taamaasillutillu 45 procentimut katillugit amerlanermut allaanngillat.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Navianartorsiut | Inooqatigiit nalaanni | Annaasanit %-ia | Ilisimatusarnermik ataqatigiinneq | Suna iliuuseqarsinnaasavit |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Ilinniagaqannginnerussineq | Meeranermi | 5% | Ilinniarnerup sivisussusia annikinnerussimasoq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. Inuttoqqalluarnermilu ilisimasaqarnikkut iluaqutaasumik inuuneqarneq illersornaateqartitsisinnaasutut isigisinnaavoq, ilinniartitsineq annikitsuinnaagaluartoq. | Utoqqaanermut sungiusaatillugit ilinniarnerit isumallu atorfii soqutigisat ingerlatikkit: atuarneq, sunngiffiit, ilinniartitsinernut peqataaneq, allanillu nalinginnaasumik nuannaarutigisartakkatit. |
+| Tusilartuunneq | Inuttoqqalluarnermi | 7% | Tusilartuunneq aaqqinneqarsimanngitsoq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. Misissueqqissaarnerit inuit piffissap ingerlanerani malittarisarpaat tusilartitsisinnaasunut atuisut navianartorsiutaat ikinnerusinnaasutut ataqatigiissagaapput. | Tusilartuunnerit misissoqqissaaruk. Tusilartitsisinnaasut iluaqutigisinnaanersut nakorsamit apeqqutikkit, aammalu toqqaanegukkit atuakkit. Siutit nipituujusut illersukkit. |
+| LDL-kolesteroli qaffasinnerussimasoq | Inuttoqqalluarnermi (40-it missaanniit) | 7% | Inuttoqqalluarnermi LDL-kolesteroli („ajortoq“) qaffasinnerussimasoq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. Malinnitsinni misissueqqissaarnerit statininik atuisut navianartorsiutaat ikinnerusinnaasutut ataqatigiissagaapput, kisiannili utoqqalinermi misissueqqissaarnerit tamanna takutisimanngilaat. | Nakorsatit aperiuk kolesterolitit misissorneqartariaqarnersut, aammalu suna, qanoq iliuuseqarnissarlu, pisariaqartinneqarnersoq. |
+| Kingunerisassarsiorneq | Inuttoqqalluarnermi | 3% | Kingunerisassarsiorneq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. Utoqqalinermi kingunerisassarsiorneq dementiap siullermeernerani ilisimaneqarsinnaavoq. | Nikallunganeq soqutiginninnerlu unitsinneq sapaatit marluk sinnerlugit atorlugit nakorsamut nalunaarfigiuk. Kingunerisassarsiorneq aaqqinneqarsinnaavoq. |
+| Niaqumut ajoqusiineq | Inuttoqqalluarnermi | 3% | Ukiup naanerani niaqumut ajoqusiineq, timersornernilu attuumassuteqarnerni ajoqusiinerit ilanngullugit, navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. | Cycleqarluni timersornernilu attuumassuteqarnerni niaqumut illersuut atukkat. Nammaginnerup pinaveersaarnissaanik apeqqutit. Niaqumut ajoqusiguit kassuerit nakorsamullu misissorneqartaarit. |
+| Timimik nuussinneq amigaateq | Inuttoqqalluarnermi | 2% | Inuit timersorlutik attuumassuteqartartut dementiaqalernermik annikinnerusumik nalilersugaapput. Misissueqqissaarnerit uppernarsaatit suli amigarnerupput. | Suna ilinnukkut isumannaatsumik nuussineqarsinnaanersoq nakorsatit apeqqutigiuk, taamaalillutillu nuannaarutigissat nassaaruk. Takukkit [timersornermut ilitsersuut](/brain-health/exercise/). |
+| Sukkorissaarneq | Inuttoqqalluarnermi | 2% | Sukkorissaarneq, ingammik inuttoqqalluarnermi aallartikkaangat imaluunniit sivisunerusumik atugaangat, navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. | Aammut sukku misissoqqissaaruk. Sukkorissaarteqaruit isumaginnittoortatit peqatigiiffii tamarmik ataqatigiillugit isumannaatsumik aaqqissuussigit. |
+| Pujortarneq | Inuttoqqalluarnermi | 2% | Pujortarneq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. Misissueqqissaarnerit takutippaat pujortarneq unitsikkat inuit pujortarnerannik ingerlaqqittartutut navianartorsiuteqanngitsumik. |
+| Aappariit tatineqarnerat qaffasinnerussimasoq | Inuttoqqalluarnermik | 2% | Inuttoqqalluarnermi aappariit tatineqarnerat qaffasinnerussimasoq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. Aappariit tatineqarnerannut nakorsaati pillugit misissueqqissaarnerit dementia imaluunniit eqqarsartaatsikkut nukingernermik navianartorsiut ikittuinnaasumik annikinnerussinnaasoq oqaatigaat. | Kisitsisitit ilisimakkit. Kommissionip siunnersuuppaa qulaani kisitsit 130-imiittussanngortinneqarnissaa imaluunniit ikinnerussinnaassasoq 40-inik ukioqareerlutit; suut ilinnut eqqorluartut apeqqutikkit. |
+| Uminngarnersuaq | Inuttoqqalluarnermi | 1% | Inuttoqqalluarnermi uminngarnersuaq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq, sukkorissaarnermullu navianartorsiut qaffanneqartitsisarpoq. | Nakorsatit aperiuk ilinnut timip oqimaassusaa nuannersoq. Inuppassuit utoqqaanerusuttut nakorsamit siunnersuinngikkunik timimik annikillisarnissaat suleriaqanngilaq. |
+| Imigassamik imeqarnerujooq | Inuttoqqalluarnermi | 1% | Imigassamik imeqarnerujussuaq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. Imigassanik imeqarnerujussuaraluartoq ikinnerusullugu imeqarneq navianarnerup ikinnerusinnaaneranik ataqatigiinneqarpoq. | Imigassap killinga ilinnut isumannaatsoq apeqqutigiuk, ingammik nakorsaaterpassuit atorlugit. |
+| Kisimiinneq | Utoqqalinermi | 5% | Inunnik attaveqarneq amalaateq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. | Inunnik attaveqaatit ilinnut nuannaarutigisatit atorlugit. Takukkit [inunnik attaveqarnermi ilitsersuut](/brain-health/social-connection/). |
+| Silaannaap mingutsinnera | Utoqqalinermi | 3% | Silaannaq minguttorsuanngorlugu inuuneq navianarnerup qaffasinneruneranik ataqatigiinneqarpoq. Misissueqqissaarnerit silaannaap immikkuullarineranik navianarnerup ikinnerusinnaaneranik ataqatigiissagaapput. | Tamannalu amerlanertigut aqutsinermik tunngaveqarpoq. Sumiiffimmi silaannaap peqqussusia malinnaavigiuk, ullullu silaannaq mingutsitsineq annertuusoq silami sivisuumik orniginagu. |
+| Isigilernermi ajornartorsiutit aaqqinneqarsimanngitsut | Utoqqalinermi | 2% | Isigilernermi ajornartorsiutit aaqqinneqarsimanngitsut navianarnerup qaffasinneruneranik ataqatigiinneqarput. Amerikami ilisimatusarnermik misissuinermi annertuusumi isikkivik ilanngunneqarsimasoq navianarnerup ikinnerusinnaaneranik ataqatigiinneqarpoq. | Isinnik misilittarneq malittaruk. Isikkiviup atorlugu ajornartorsiutit, soorlu lensi taartoq, aaqqinneqarsinnaanersut apeqqutikkit. |
 
-## How should I read these percentages?
+## Procentit ukua qanoq paasiniarlugit?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Mianersorluni. Kommissionip nalunaarutaa nammineq erseqqissakkani erseqqissaateqarpoq:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Nunat tamakkerlugit paasineqartut, inuit ataasiakkaat pinnagit.** University College London-ip
+  [nalunaarusiaq nassuiaataa](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  erseqqissaavaa navianartorsiutit ikinnerusunneqarnerat nunat tamakkerlugit iluaqutissasoq, kisiannili inummut ataasiakkaamut dementia pinaveersaarnissaa qulakkeernanngilaq.
+- **Pisoqalerneraannartunut tunngassuteqarlutik naatsorsuutigineqarput.** Allakkat navianartorsiutit uppernarsaatinik toqqammavimmik nassueriaatsinik ittuut peerput, kisiannili ataqatigiinnerit ilai nalunaaqutaqanngitsumik imaannaannginnaasut oqaatigaat.
+- **Nunarsuaq tamakkerlugu kisitsisaapput.** Paasissutissat amerlanersaat nunanit aningaasaqarnikkut pigsaanerusunit pisuupput, tamatumuunarlu nunap imaluunniit inuiaqatigiinni ataasiakkaani procentit taakku allanngorsinnaapput.
+- **Procentit mikisut pingaaruteqarsinnaapput.** Navianartorsiut nunarsuaq tamakkerlugu annaasa 2 procentii missaannik ataqatigiisoq inuit amerlasuunngitsuunnik sunniuteqartarsinnaavoq.
 
-## Which risk factors were added in 2024?
+## 2024-imi navian-associated suut nutaat ilanngunneqarpat?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024-imi nalunaarusiaq 2020-imi navianartorsiutinut 12-inut marluk ilannguppai:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Inuttoqqalluarnermi LDL-kolesteroli qaffasinnerussimasoq**, annaasa 7 procentii missaannik ataqatigiisoq.
+- **Utoqqalinermi isigilernermi ajornartorsiutit aaqqinneqarsimanngitsut**, annaasa 2 procentii missaannik ataqatigiisoq.
 
-## What risk factors cannot be changed?
+## Navianartorsiutit suut allanngortinneqarsinnaanngillat?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging oqaluttuarpoq
+[utoqqalinneq Alzheimersimut navian-associated annersaatut ilisimaneqartoq](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+taannaarluni allanngortinneqarsinnaanngilaq. Kingornussuserlu sunniuteqartarsinnaavoq; kingornussuseq ilisimaneqarluartoq Alzheimersimut navianarneranik sunniuteqartoq APOE-mik taaneqartarpoq. NIA ilannguppoq ilisimatusartut suli inuit amerlanersaat Alzheimersimut qanoq pisoqartarnersut pillugit paasisimanninnerussisoq. Lancet Kommissionip erseqqissaavaa navian-associated allanngortinneqarsinnaasut ikinnerusunneqarsinnaasut, inummut kingornussusikkut navianarnera qanoq ippaaluarlunilu.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Utoqqalinneq kingornussuserlu pingaaruteqaqimata, inuit amerlasuut navian-associated 14-inik soqanngitsut dementialerput. Tamanna arlaannilluunniit pisuunngilaq.
 
-## What does the trial evidence say about changing these risks?
+## Misissueqqissaarnerit navian-associated ukua allanngortinnerannik suut paasisaqarpa?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Navianartorsiut dementiaqarnermut ataqatigiilersinneq allanngortinneqarneranut dementia navianarnera ikinnerusussasoq uppernarsarneqanngilaq. Misissueqqissaarnerit qanoq inissisimanerat assersuutai ilai:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Aappariit tatineqarnerat.** SPRINT MIND misissueqqissaarnerani aappariit tatineqarnerannut angusaq ikinnerussimasoq eqqarsartaatsikkut nukingernermik mikisunik annikillisitsinermik erseqqissumik paasinarsivoq. Dementia ilimanarnera erseqqissumik annikillisissimanngilaa, misissueqqissaarnerli tamanna takutinniarlugu mikinerujussaasinnaalluni ([SPRINT MIND, JAMA-mi](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Tusilartitsisinnaasut.** Lancet Kommissionip tusilartitsisinnaasunik misissueqqissaarneq ukiunik pingasunik sivisussuseqartoq nassuiaavaa, tamarmik immikkut eqqarsartaatsimut sunniuteqanngitsoq, kisiannili inuit navianarnerannik qaffasinnerusumik peqartunut iluaqutaasoq. Inuit piffissap ingerlanerani malittarisarpai tusilartitsisinnaasunik atuisut navianarneranik ikinnerusumik ataqatigiissagaapput. Uani [tusilarnermut ilitsersuut](/brain-health/hearing/) amerlanernik paasissutissiivoq.
+- **Timimik nuussineq.** National Institute on Aging oqaluttuarpoq misissueqqissaarnerit uppernarsaatit amigaatiginngitsut timersorneq mild cognitive impairment imaluunniit Alzheimersimik pinaveersaarneqarsinnaasoq imaluunniit kinguneqartarnera arrasarsinnaasoq naliliisinnaanngikkaat, misissueqqissaarnerit ilai utoqqalinermi allanngoriartorneranik ikiuuteqartarsinnaasutut isumaqaraluartut
+  ([NIA, Alzheimersimik pinaveersaaneq](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Misissueqqissaarnerit sivisuit dementiap pilersarneranik utaqqisartut sivisuupput akisullu qaffasippata, navian-associated amerlanerisa iluani uppernarsaatit pitsaanersaat inuit ukioqartut ingerlaneranni malittarisarnerannit pissapput. Paasissutissat taakku atorneqarsinnaavoq, kisiannili misissueqqissaarnernit sannilerneqannginnerupput.
 
-## What about sleep and diet?
+## Sininneq nerisassallu qanoq-ippat?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Kommissionip sininneq nerisassallu misissorpai, kisiannili titarnerannut ilanngussimanngilai, uppernarsaatit sakkortunerussinnaammata imaluunniit tulluarumasinnaammata. Ilitsersuutivut [sinninneq](/brain-health/sleep/) [nerisassallu](/brain-health/diet/) pillugit ilisimaneqartut nassuiarpaat.
 
-## Talk with a doctor
+## Nakorsaq oqaloqatigissavat
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Ukiumoortumik misissorneq eqqarsaatigisinnaavat isumasioqatigiinniarlugit. Titarneq una nassatarisinnaavat, aammalu aperisinnaavatit:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Aappariit tatineqarnerat, aammut sukku kolesterolillu kisitsisa qanoq-ippat, ilarluunniit malinnaavigineqariaqarpa?
+- Tusilartuunnera isinnillu misissorneqartariaqarpat?
+- Nuussinnera isumannaatsorluunnerpa naammalluinnarpa?
+- Nakorsaaterpassuakka ilai eqqarsartaatsimut isummamullu sunniuteqartarsinnaappat?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Nakorsaaterpassuit, nerisassat, nerisassarsiorneq unitsitsineq, timersorneq imaluunniit iluatitsissutit allanngortinnagit nakorsaq siulliullutit oqaloqatigissavat. Illit imaluunniit asannittussaq isumannaanngitsumik puigorpat, timip affaata sanneqarnissaa ajorpat, imaluunniit oqaatsinik nassuiaateqarsinnaajunnaarpat, 112-imut sianerfiginnigit.

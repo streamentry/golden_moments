@@ -1,33 +1,34 @@
 ---
-title: "Aistitoiminnat dementiaa sairastaville"
-seoTitle: "Aistitoiminnat dementiaan: ideoita ja turvallisuus"
-description: "Aistitoimintoja dementiaa sairastaville käsihieronnasta kangaskoriin ja luonnon ääniin, sekä selkeät turvallisuusohjeet tukehtumisen, allergioiden ja tuoksujen varalta."
+title: "Aistitoimintaa muistisairaalle läheiselle"
+seoTitle: "Muistisairaan aistitoimintaa: ideoita ja turvallisuus"
+description: "Aistitoimintaa muistisairauden kanssa eläville: käsihieronta, kangaskori ja luonnon äänet sekä turvallisuusohjeet tukehtumisesta, allergioista ja tuoksuista."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Aistitoiminnat käyttävät kosketusta, tuoksua, makua, ääntä ja näköä: hidasta
-  käsihierontaa, koria pehmeitä kankaita, tuoreita yrttejä tuoksuteltavaksi,
-  luonnon ääniä tai lintujen katselua ikkunasta. Ne sopivat jokaiseen vaiheeseen ja
-  ovat erityisen arvokkaita myöhemmin. Tarkistakaa ensin tukehtumisriskit,
-  allergiat, ihon kunto ja herkkyys tuoksuille, tarjotkaa yksi asia kerrallaan ja
-  lopettakaa, jos henkilö vaikuttaa levottomalta.
+  Aistitoiminnoissa hyödynnetään kosketusta, hajua, makua, ääntä ja näköä:
+  rauhallista käsihierontaa, pehmeiden kankaiden koria, tuoreita yrttejä
+  haisteltavaksi, luonnon ääniä tai lintujen katselua ikkunasta. Ne sopivat
+  sairauden kaikkiin vaiheisiin ja ovat erityisen arvokkaita myöhemmässä
+  vaiheessa. Tarkista ensin tukehtumisriskit, allergiat, iho-ongelmat ja
+  herkkyys tuoksuille, tarjoa yksi asia kerrallaan ja lopeta, jos läheisesi
+  vaikuttaa levottomalta.
 keyPoints:
-  - "Aistitoiminnoissa ei ole oikeita vastauksia, joten ne toimivat kaikissa vaiheissa, myös sängyssä tai tuolissa."
-  - "Tarjotkaa yksi aisti kerrallaan hiljaisessa huoneessa ja kysykää tai ilmoittakaa ennen koskettamista."
-  - "Vältä pieniä esineitä ja kaikkea, mikä näyttää tai tuoksuu ruoalta mutta ei ole ruokaa, koska ihmiset voivat laittaa asioita suuhunsa."
-  - "Tarkistakaa allergiat, ihon ongelmat ja hengitysvaikeudet ennen voiteiden, tuoksujen tai ruokien käyttöä."
-  - "Ei ole vakuuttavaa näyttöä siitä, että aromaterapia auttaisi dementian oireisiin. Käyttäkää tuoksuja vain yksinkertaiseen nautintoon, jos lainkaan."
+  - "Aistitoiminnoissa ei ole oikeita vastauksia, joten ne sopivat sairauden kaikkiin vaiheisiin, myös vuoteessa tai tuolissa."
+  - "Tarjoa yksi aisti kerrallaan rauhallisessa tilassa ja kysy tai kerro etukäteen, ennen kuin kosketat."
+  - "Vältä pieniä esineitä ja kaikkea, mikä näyttää tai tuoksuu ruoalta mutta ei ole sitä, sillä läheisesi saattaa laittaa asioita suuhunsa."
+  - "Tarkista allergiat, iho-ongelmat ja hengitysvaivat ennen voiteiden, tuoksujen tai ruokien käyttöä."
+  - "Ei ole vakuuttavaa näyttöä siitä, että aromaterapia auttaisi muistisairauden oireisiin; käytä tuoksuja vain nautinnon vuoksi, jos lainkaan."
 faq:
-  - q: "Mitkä ovat hyviä aistitoimintoja dementiaa sairastavalle?"
-    a: "Yksinkertaisia ideoita ovat hidas käsihieronta voiteella, pehmeiden kankaiden käsitteleminen, tuoreiden yrttien tai kahvin tuoksuttelu, lempimusiikin tai luonnon äänien kuunteleminen, lintujen tai kalaakvaarion katseleminen ja lempiruoan maistaminen turvallisessa koostumuksessa. Tarjotkaa yksi asia kerrallaan ja seuratkaa, miten henkilö reagoi."
-  - q: "Ovatko aistitoiminnat turvallisia, jos henkilö laittaa asioita suuhunsa?"
-    a: "Voivat, huolellisuudella. Käyttäkää vain isoja esineitä, joita ei voi niellä, jättäkää pois kaikki pieni tai hajoava, ja pitäkää voiteet, saippuat ja tuoksutuotteet toiminnan jälkeen poissa ulottuvilta, koska ne voivat näyttää tai tuoksua ruoalta. Olkaa henkilön kanssa koko ajan."
-  - q: "Auttaako aromaterapia dementiaan?"
-    a: "Cochrane-katsauksen mukaan ei ole vakuuttavaa näyttöä siitä, että aromaterapia auttaisi dementiaa sairastavia, vaikka tutkimukset olivat pieniä ja niiden tulokset ristiriitaisia. Jos henkilö pitää lievästä, tutusta tuoksusta, se on hyvä, mutta välttäkää voimakkaita eteerisiä öljyjä, erityisesti hengitysvaivojen tai allergioiden kanssa."
-  - q: "Mikä on kätteily- tai aktiviteettiesiliina?"
-    a: "Se on kangaspala, esiliina tai syliin asetettava peitto, johon on ommeltu tukevasti esineitä käsiteltäväksi, kuten isoja nappeja, vetoketjuja, nauhoja ja pinnaltaan rosoisia palasia. Se antaa levottomille käsille jotakin tutkittavaa. Tarkistakaa se usein ja varmistakaa, ettei mikään irtoa ja voi jäädä kiinni."
+  - q: "Millaisia aistitoimintoja muistisairas ihminen voi tehdä?"
+    a: "Yksinkertaisia ideoita ovat rauhallinen käsihieronta voiteella, pehmeiden kankaiden hypistely, tuoreiden yrttien tai kahvin tuoksuttelu, suosikkimusiikin tai luonnon äänten kuuntelu, lintujen tai akvaarion katselu sekä suosikkiruuan maistelu turvallisessa muodossa. Tarjoa yksi asia kerrallaan ja seuraa, miten läheisesi reagoi."
+  - q: "Ovatko aistitoiminnot turvallisia, jos läheiseni laittaa asioita suuhunsa?"
+    a: "Voivat olla, kun toimit varovasti. Käytä vain suuria esineitä, joita ei voi niellä, jätä pois pienet ja rikkoutuvat esineet ja laita voiteet, saippuat ja tuoksutuotteet pois ulottuvilta käytön jälkeen, sillä ne voivat näyttää tai tuoksua ruoalta. Pysy läheisesi luona koko ajan."
+  - q: "Auttaako aromaterapia muistisairauteen?"
+    a: "Cochrane-katsaus ei löytänyt vakuuttavaa näyttöä siitä, että aromaterapia auttaisi muistisairaita ihmisiä, vaikka tutkimukset olivat pieniä ja epäjohdonmukaisia. Jos läheisesi nauttii miedosta, tutusta tuoksusta, se sopii hyvin, mutta vältä vahvoja eteerisiä öljyjä etenkin hengitysvaivojen tai allergioiden yhteydessä."
+  - q: "Mikä on hypistelyesiliina tai -peitto?"
+    a: "Se on kangaspala, esiliina tai sylipeitto, johon on ommeltu tiukasti kiinni hypisteltäviä asioita, kuten suuria nappeja, vetoketjuja, nauhoja ja eri tuntuisia kankaita. Se antaa levottomille käsille tekemistä. Tarkista se usein siltä varalta, että jokin osa on irtoamassa."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Aistitoiminnat käyttävät viittä aistia: kosketusta, tuoksua, makua, ääntä ja näköä. Ne eivät vaadi muistia, askelia tai oikeita vastauksia, joten ne voivat toimia missä vaiheessa tahansa. Ne ovat tärkeimpiä myöhemmin. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) huomauttaa, että myöhäisvaiheessa maailma koetaan pääasiassa aistien kautta ja että huolenpitoa voi osoittaa kosketuksella, äänellä, näöllä, maulla ja tuoksulla. Muutama turvallisuustarkistus tekee näistä toiminnoista rentouttavia kaikille.
+Aistitoiminnoissa hyödynnetään viittä aistia: kosketusta, hajua, makua, ääntä ja näköä. Niihin ei tarvita muistia, vaiheita eikä oikeita vastauksia, joten ne voivat sopia sairauden kaikkiin vaiheisiin. Ne ovat tärkeimpiä myöhemmässä vaiheessa. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) toteaa, että loppuvaiheessa maailma koetaan pääasiassa aistien kautta ja että voit osoittaa välittämistä kosketuksen, äänen, näön, maun ja hajun avulla. Muutamalla turvallisuustarkistuksella nämä hetket voivat olla rauhoittavia kaikille.
 
-## Mitä aistitoiminnat ovat dementiassa?
+## Mitä aistitoiminnot ovat muistisairauden yhteydessä?
 
-Aistitoiminnat ovat yksinkertaisia kokemuksia, jotka rakentuvat yhden aistin ympärille, kuten kankaan tuntemisesta, yrttien tuoksuttelusta tai sateen kuuntelemisesta. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) sanoo, että myöhempien vaiheiden toiminnan on usein keskityttävä aisteihin, ja mainitsee musiikin, esineet käsiteltäviksi ja käsihieronnan. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) huomauttaa, että myöhäisvaiheessa olevilla voi olla vahva tarve pitää jotakin lähellä lohdutukseksi.
+Aistitoiminnot ovat yksinkertaisia kokemuksia, joissa keskitytään yhteen aistiin kerrallaan, kuten kankaan tunnusteluun, yrttien tuoksutteluun tai sateen kuunteluun. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) kertoo, että myöhemmän vaiheen toiminnat keskittyvät usein aisteihin, ja mainitsee esimerkkeinä musiikin, hypisteltävät esineet ja käsihieronnan. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) huomauttaa, että loppuvaiheessa olevalla ihmisellä voi olla vahva tarve pitää jotakin lähellään lohdun vuoksi.
 
-## Aistitoimintoja aisti kerrallaan
+## Aisti-ideoita aisteittain
 
 ### Kosketus
 
-- **Käsihieronta.** Lämmittäkää vähän voidetta käsissänne ja silitelkää hitaasti ranteesta sormenpäihin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mainitsee hieronnan tuoksuttomalla voiteella mukavuuden lähteenä.
-- **Kangaskori.** Isoja neliöitä samettia, manchesteria, fleeceä, satiinia ja villaa silittämään, taittamaan ja keskustelemaan niistä.
-- **Lämmin pesulappu.** Lämmin, kostea liina käsille kylmänä päivänä. Testatkaa lämpötila ensin omaa ranteenne päällä.
-- **Aktiviteettiesiliina tai syliin asetettava peitto.** Isot napit, vetoketjut, nauhat ja rosoiset palat ommeltuina tukevasti kiinni.
-- **Taittaminen ja tasoittaminen.** Kori puhtaita pesulappuja tai lautasliinoja taitettavaksi, pinottavaksi ja uudelleen taitettavaksi.
-- **Jotakin pehmeää pidettäväksi.** Fleecepeite, tyyny tai todentuntuinen pehmoeläin, tarjottuna yksinkertaisesti, ei koskaan leluna.
+- **Käsihieronta.** Lämmitä pieni määrä voidetta käsissäsi ja sivelyä rauhallisesti ranteesta sormenpäihin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mainitsee hieronnan hajusteettomalla voiteella mukavuuden lisäämiseksi.
+- **Kangaskori.** Suuria paloja samettia, vakosamettia, fleecekangasta, satiinia ja villaa hypisteltäväksi, taiteltavaksi ja yhdessä ihmeteltäväksi.
+- **Lämmin pesulappu.** Lämmin, kostea liina käsiin kylmänä päivänä. Testaa lämpö ensin omalla ranteellasi.
+- **Hypistelyesiliina tai -peitto.** Suuria nappeja, vetoketjuja, nauhoja ja eri tuntuisia kankaita tiukasti kiinni ommeltuna.
+- **Taittelu ja silittely.** Kori puhtaita pesulappuja tai lautasliinoja taiteltavaksi, pinottavaksi ja uudelleen taiteltavaksi.
+- **Jotakin pehmeää pideltäväksi.** Fleecepeitto, tyyny tai aidon tuntuinen pehmolelu, tarjottuna sellaisenaan, ei leluksi.
 
-### Tuoksu
+### Haju
 
-- **Tuoreet yrtit.** Hiertäkää minttu-, rosmariini-, basilika- tai laventelilehteä sormienne välissä ja antakaa sen kiertää.
-- **Keittiön tuoksut.** Kahvin tuoksu, leivän paahtuminen, kanelin tai appelsiinin kuoriminen lähellä.
-- **Kukat.** Tuokaa sisälle muutama tuore kukka puutarhasta tai kaupasta.
-- **Tuttu tuote.** Saippua tai voide, jota he aina käyttivät, jos heidän ihonsa sietää sitä.
+- **Tuoreet yrtit.** Hiero mintun, rosmariinin, basilikan tai laventelin lehtiä sormiesi välissä ja anna läheisesi haistaa niitä.
+- **Keittiön tuoksut.** Kahvin poriseminen, paahtoleivän tuoksu, kaneli tai appelsiinin kuoriminen lähellä.
+- **Kukat.** Tuo sisään muutama tuore kukka puutarhasta tai kaupasta.
+- **Tuttu tuote.** Saippua tai voide, jota läheisesi on aina käyttänyt, jos hänen ihonsa sietää sitä.
 
 ### Maku
 
-- **Lempimaku.** Pieni lusikallinen jotakin, mistä he pitävät, kuten omenasosetta, vanukasta tai jäätelöä, turvallisessa koostumuksessa.
-- **Apu leivonnassa.** Hedelmän tai pienen kuorrutuksen maistaminen, kun leivotte yhdessä.
-- **Kausiherkut.** Vesimeloni kesällä, lämmin siideri syksyllä, turvallisessa lämpötilassa tarjottuna.
+- **Lempimaku.** Pieni lusikallinen jotakin, mistä läheisesi pitää, kuten omenasosetta, vanukasta tai jäätelöä, sellaisessa muodossa, jonka hän voi nauttia turvallisesti.
+- **Leipomisen avustaminen.** Hedelmien tai pienen määrän kuorrutetta maistelu, kun leivotte yhdessä.
+- **Vuodenajan herkut.** Vesimelonia kesällä, lämmintä mehua syksyllä, turvallisen lämpöisinä.
 
-### Ääni
+### Kuulo
 
-- **Lempimusiikki.** Tuttuja lauluja hellällä äänellä; katso [musiikkitoiminnat](/activities/music/).
-- **Luonnon äänet.** Sade, aallot tai lintujen laulu. NIA huomauttaa, että musiikki, valkoinen kohina ja luonnon äänet tuntuvat rauhoittavan joitakin ihmisiä.
-- **Teidän äänenne.** Ääneen lukeminen, hyräileminen tai tarinan kertominen.
-- **Yksinkertaiset soittimet.** Käsirumpu, helistin tai kello soitettavaksi musiikin mukana.
+- **Lempimusiikki.** Tuttuja kappaleita hiljaisella äänenvoimakkuudella; katso [musiikkitoiminnat](/activities/music/).
+- **Luonnon äänet.** Sadetta, aaltoja tai linnunlaulua. NIA toteaa, että musiikki, taustahäly ja luonnon äänet saattavat rentouttaa joitakin ihmisiä.
+- **Sinun äänesi.** Ääneen lukeminen, hyräily tai tarinan kertominen.
+- **Yksinkertaiset soittimet.** Käsirumpu, marakassi tai kello, joilla voi soittaa musiikin mukana.
 
 ### Näkö
 
-- **Ikkunasta katseleminen.** Linturuokinta ikkunan ulkopuolella, lasten kävely kotiin tai lumisade.
-- **Kalaakvaario tai hidas video.** Lempeää liikettä ilman kovaa ääntä.
-- **Isot valokuvat.** Yksi selkeä kuva kerrallaan silmien tasolla.
-- **Väri ja kuvio.** Kirkkaiden kangaspalojen, kukkien tai värillisten lautasliinojen lajittelu, tai yksinkertainen [värityskuva](/games/coloring/) sivustomme valikoimasta.
-- **Ulkona.** NHS ehdottaa aistipuutarhoja, joissa on tuoksuvia kasveja, pintoja ja vesiominaisuuksia. Katso [ulkoilu- ja puutarhatoiminnat](/activities/outdoor-and-gardening/).
+- **Ikkunasta katselu.** Lintulauta ikkunan ulkopuolella, koululaisia kävelemässä kotiin tai lunta satamassa.
+- **Akvaario tai rauhallinen video.** Hitaasti liikkuvaa kuvaa ilman kovaa ääntä.
+- **Suuret valokuvat.** Yksi selkeä kuva kerrallaan, silmien korkeudella.
+- **Värit ja kuviot.** Kirkkaiden kangastilkujen, kukkien tai värillisten lautasliinojen lajittelu tai yksinkertainen värityskuva [väritys](/games/coloring/)-valikoimastamme.
+- **Ulkoilu.** NHS ehdottaa aistipuutarhoja, joissa on tuoksuvia kasveja, erilaisia pintoja ja vesiaiheita. Katso [ulkoilu- ja puutarhatoiminnot](/activities/outdoor-and-gardening/).
 
-## Miten teen aistilaatikon?
+## Miten teet aistilaatikon
 
-1. **Valitkaa teema,** joka liittyy henkilön elämään: ranta, puutarha, keittiö, työpaja, ompelu.
-2. **Valitkaa viisi tai kuusi isoa, turvallista esinettä,** kuten iso simpukka, puinen lusikka, pehmeä huivi, ommeltu laventelipussi tai sileä puupalikka.
-3. **Tarkistakaa jokainen esine** pienten osien, terävien reunojen, irtolankojen ja hajoavien osien varalta.
-4. **Ottakaa esille yksi esine kerrallaan.** Ojentakaa se, kuvailkaa ja antakaa henkilön tutkia sitä.
-5. **Laittakaa laatikko sen jälkeen pois,** jotta se pysyy erityisenä ja esineet tarkistetaan uudelleen seuraavaa kertaa varten.
+1. **Valitse teema**, joka liittyy läheisesi elämään: ranta, puutarha, keittiö, verstas tai ompelu.
+2. **Valitse viisi tai kuusi suurta ja turvallista esinettä**, kuten iso simpukankuori, puinen lusikka, pehmeä huivi, kiinni ommeltu kuivattua laventelia sisältävä pussukka tai sileä puupalikka.
+3. **Tarkista jokainen esine** pienten osien, terävien reunojen, löysien lankojen ja rikkoutuvien kohtien varalta.
+4. **Ota esiin yksi esine kerrallaan.** Anna se läheisellesi, kuvaile sitä ja anna hänen tutkia sitä rauhassa.
+5. **Laita laatikko pois käytön jälkeen**, jotta se säilyy erityisenä ja esineet voidaan tarkistaa uudelleen ennen seuraavaa kertaa.
 
 ## Turvallisuus ensin
 
-Aistitoiminnat ovat lempeitä, mutta muutama riski on tärkeä. Jotkut dementiaa sairastavat voivat sekoittaa ei-ruokaa ruokaan, ja nieleminen voi käydä vaikeammaksi ajan myötä. NIA varoittaa, että myöhäisvaiheen nielemisvaikeudet lisäävät tukehtumisriskiä.
+Aistitoiminnot ovat lempeitä, mutta muutama riski on hyvä huomioida. Jotkut muistisairauden kanssa elävät ihmiset saattavat luulla muita kuin ruokaan tarkoitettuja esineitä ruoaksi, ja nieleminen voi vaikeutua ajan myötä. NIA varoittaa, että loppuvaiheen nielemisvaikeudet lisäävät tukehtumisriskiä.
 
 | Riski | Mitä tehdä |
 | --- | --- |
-| Tukehtuminen | Käyttäkää vain esineitä, jotka ovat liian isoja nieltäviksi. Ei nappeja, helmiä, kolikoita, marmoreita tai pieniä leluja irrallaan laatikossa. Tarjotkaa ruokaa vain koostumuksissa, jotka hoitotiimi sanoo turvallisiksi. |
-| Ruoan näköiset esineet | NIA neuvoo lukitsemaan voiteet, saippuat, shampoot ja hajuvedet, jotka voivat näyttää tai tuoksua ruoalta, ja poistamaan keinohedelmät. Laittakaa aistituotteet pois käytön jälkeen. |
-| Allergiat | Tarkistakaa allergiat pähkinöille, lateksille, villalle, kasveille tai tuoksuille ennen aloittamista. |
-| Voimakkaat tuoksut | Vältä voimakkaita hajuvesiä ja eteerisiä öljyjä, erityisesti astmaa tai muita hengitysvaivoja sairastavilla. Lievät, luonnolliset tuoksut ovat turvallisempia. |
-| Iho | Tarkistakaa, onko iho arka, haavainen tai hauras ennen hierontaa. Käyttäkää lempeää painetta ja lopettakaa, jos henkilö irvistää. |
-| Lämpötila | Testatkaa lämpimät liinat ja juomat ensin omalla ranteellanne. |
-| Terävät tai myrkylliset esineet | Ei teräviä työkaluja, lasia tai myrkyllisiä askartelutarvikkeita. |
+| Tukehtuminen | Käytä vain esineitä, jotka ovat liian suuria nieltäviksi. Älä jätä nappeja, helmiä, kolikoita, kuulia tai pieniä leluja irrallisiksi laatikkoon. Tarjoa ruokaa vain sellaisessa muodossa, jonka hoitotiimi on todennut turvalliseksi. |
+| Ruoalta näyttävät asiat | NIA neuvoo lukitsemaan voiteet, saippuat, shampoot ja hajuvedet, jotka voivat näyttää tai tuoksua ruoalta, sekä poistamaan tekokukat ja -hedelmät. Laita aistitoimintoihin käytetyt tuotteet pois käytön jälkeen. |
+| Allergiat | Tarkista ennen aloittamista allergiat pähkinöille, lateksille, villalle, kasveille tai hajusteille. |
+| Voimakkaat tuoksut | Vältä vahvoja hajusteita ja eteerisiä öljyjä, etenkin jos läheiselläsi on astma tai muita hengitysvaivoja. Miedot, luonnolliset tuoksut ovat turvallisempia. |
+| Iho | Tarkista ennen hierontaa, onko iholla aristavia, rikkoutuneita tai hauraita kohtia. Käytä kevyttä painetta ja lopeta, jos läheisesi irvistää. |
+| Lämpötila | Testaa lämpimät liinat ja juomat ensin omalla ranteellasi. |
+| Terävät tai myrkylliset esineet | Ei teräviä välineitä, lasia tai myrkyllisiä askartelutarvikkeita. |
 
 ## Auttaako aromaterapia?
 
-Luultavasti ei mitattavalla tavalla. [Cochrane-katsaus aromaterapiasta dementiassa](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) tarkasteli 13 tutkimusta, joihin osallistui 708 ihmistä, kaikki hoivakodeissa, eikä löytänyt vakuuttavaa näyttöä hyödystä. Tutkimukset olivat pieniä, tulokset olivat ristiriitaisia ja haittavaikutuksia raportoitiin huonosti. Jos henkilö pitää lievästä, tutusta tuoksusta, kuten puutarhan laventelista, se on hyvä syy jakaa se. Se ei ole hoito.
+Tuskin mitenkään mitattavalla tavalla. [Cochrane-katsaus aromaterapiasta muistisairauden yhteydessä](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) tarkasteli 13 tutkimusta, joissa oli yhteensä 708 osallistujaa, kaikki hoivakodeissa, eikä löytänyt vakuuttavaa näyttöä hyödystä. Tutkimukset olivat pieniä, tulokset olivat ristiriitaisia ja haittavaikutuksista kerrottiin puutteellisesti. Jos läheisesi nauttii miedosta, tutusta tuoksusta, kuten puutarhan laventelista, se on hyvä syy jakaa hetki yhdessä. Se ei ole hoito.
 
-## Miten tarjoan aistitoimintaa?
+## Miten aistitoiminto tarjotaan
 
-- **Valitkaa hiljainen hetki** ja sammuttakaa televisio.
-- **Lähestykää edestä,** sanokaa nimi ja kysykää tai kertokaa ennen koskettamista: ”Minulla on voidetta. Haluaisitko käsihieronnan?”
-- **Tarjotkaa yksi asia kerrallaan,** ettei se ylivoimaista.
-- **Seuratkaa reaktiota.** Pehmeämpi ilme, rentot kädet tai hymy ovat hyviä merkkejä. Pois vetäytyminen, rypistäminen tai levottomuus tarkoittavat, että pitää lopettaa.
-- **Pitäkää lyhyenä.** Viisi rauhallista minuuttia on hyvä istunto.
+- **Valitse rauhallinen hetki** ja sammuta televisio.
+- **Tule läheisesi eteen,** sano hänen nimensä ja kysy tai kerro ennen koskettamista: ”Minulla on voidetta. Haluaisitko hieronnan käsiin?”
+- **Tarjoa yksi asia kerrallaan**, jotta tilanne ei tunnu kuormittavalta.
+- **Seuraa reaktiota.** Pehmenneet kasvot, rennot kädet tai hymy ovat hyviä merkkejä. Jos läheisesi vetäytyy pois, kurtistaa kulmiaan tai muuttuu levottomaksi, lopeta.
+- **Pidä hetki lyhyenä.** Viisi rauhallista minuuttia on hyvä alku.
 
-Yhdessä tehty hidas hengityshetki, kuten [rauhallinen hengitys](/games/calm-breathing/), voi olla lempeä tapa päättää istunto. Lisää vuoteen ääressä tehtäviä ideoita löydätte [myöhäisvaiheen toiminnoista](/activities/late-stage/), ja iltaisin ilmenevään levottomuuteen [iltaisin ilmenevä levottomuus](/caregiving/late-day-restlessness/).
+Yhdessä tehty rauhallinen hengitystauko, kuten [rauhallinen hengitys](/games/calm-breathing/), voi olla lempeä tapa päättää hetki. Lisää ideoita löydät sivuilta [toiminnot myöhäisessä vaiheessa](/activities/late-stage/) ja [illan levottomuus](/caregiving/late-day-restlessness/).

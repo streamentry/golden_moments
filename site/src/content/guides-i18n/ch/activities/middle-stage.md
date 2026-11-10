@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Aktibidåt Para Demensia Gi Mediu na Tiempo"
+seoTitle: "Aktibidåt Para Demensia Gi Mediu na Tiempo: Simpre na Ideas"
+description: "Simpre na aktibidåt para demensia gi mediu na tiempo: tinaotao na trabiha, musika, litratu yan simpre na hugo, ayuda para i setup yan manera para ma sedi i inkietut gi finatinas."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Gi mediu na tiempon demensia, i pinakamaolek na aktibidåt sina kotta, familiår
+  yan ma ekspia gi kada step: ma fa'tinas i tenda, ma sepåra i kalsetnes, ma hugas
+  i pinggan, ma kanta, ma pasiheyi ni guiya, litratu album yan simpre na hugon
+  litratu. Ma setup i aktibidåt, ensenya i primet na step, hagu gumáyi i
+  mamaisen na parte yan dådu i propósitu. Pára kao ti tumaitai.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Familiår na trabiha gi kuttura siña ma'usa sa ma sienti ti ma'ñå ya adulto."
+  - "Ensenya ni' i sumåsaga, ofrese kada step, yan dos simple na chuli' ni' ti hafa na pregunta ti ma'ñå."
+  - "Hagu gumáyi i mas mamaisen na parte para i taotao siña gumuyi i mas satisfaksion na parte."
+  - "I inkietut muna' sa i taotao nisisita tiempo para tumutugi. Ofrese aktibidåt ni' ma kumpli ni' i hagu, ti ma'åfa'ñå."
+  - "Ma tatiyan, ayuda ligi, pat pumåra tinaotao i aktibidåt, todu esta ma'ñå."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Hafa na aktibidåt ma'ñå para gi mediu na tiempon demensia?"
+    a: "Kotta, familiår, na aktibidåt ni' ma usa mamaisen ma'ñå: ma fa'tinas i tiniente, ma sepåra i kalsetnes, ma hugas i pinggan, ma sinåsanga i meså, ma kanta ti kantan para ni' manhaggan, pasiheyi siha ni' ma gilak, litratu album, yan simpre na hugo ni' litratu. Ma sepåra kada aktibidåt gi tiningo'-tiningo na step yan ma ma'gas hagu."
+  - q: "Kao siña hu fa'na' para i taotao ni' gaige demensia para ma kumomenta i aktibidåt?"
+    a: "Hacha todu ma'ñå, tåya hagu ma kumomenta i aktibidåt yan ma invita siha ni' ayuda: \"Siña hågu ayuda yu' gi esti na tiniente?\" Mamaisen na taotao gana ma parte, lao ti håfa mafa'tinas ni' para kumomenta. Ma ensenya i primet na step siempre mås ma'ñå ki ma explika."
+  - q: "Hafa para hu fa'na' kuandu siha ma ripiti i ma'ñå mamaisen?"
+    a: "I ripiti sigi ti dañu yan siña sigi sumen-ña i taotao gana ma sienti okupådu pat nisisita sigurångon. Ti ma'gaige ya ti ma'na'ña'; ofrese aktibidåt ni' ma kumpli i muibimiento, kumu un basket ni' tinidor ni' para ma fa'tinas pat un kanta para kumanta hamyo."
+  - q: "Kao sina ma fa'na' bula i aktibidåt?"
+    a: "Kuandu ti dañu, dehe' na ti hu fa'na'. I tenda ni' ma fa'tinas diferente pat kuchåra ni' gaige gi ti maolek na lugåt ti importante. Ma ta'lo' ma sen ti manakuenta, lao ma gugot ni' kumu guiya gana siha ma sienti kapås yan útil."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+I mediu na tiempon demensia muna' na sigi pat lao, yan esta i tiempo ni' manesesita ayuda ma'ñå para i aktibidåt. I palabra ma'å'ñå, i steps ma'ma'lo', yan ma'ñå ma kumomenta håfa. Lao i gana ni' ma sedi i útil yan mapu'lalo' ginen sigi. Ginen un poko na setup, i taotao gi mediu na tiempo siña gumugot ya' ma'ñå, espesiålmente i familiår na trabiha, musika yan litratu ni' ma'ñå hao.
 
-## What activities work well in middle-stage dementia?
+## Hafa na aktibidåt ma'ñå gi mediu na tiempon demensia?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Kotta, familiår, hugon mamaisen yan ma sepåra gi kada step ti manaolek. I [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) ma'gasi na ti nisisita un fa'tinas hafa ti bulan: i aktibidåt siña ma'ñå parte gi tinaotao na mamaisen, kumu ma nå'i dinanña yan hao, mamaisen gi tinaotao, musika pat lakton.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+I [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ma'gasi na i taotao gi esta na tiempo gi mahålang na gana para sumåsatisfatu pat ma kuida taotao, yan nisisita ayuda para kumomenta pat sigi i aktibidåt. I lista para mediu na tiempo ma'ñå trabiha kumu tiniente, hugas pinggan, sepåra kalsetnes, ehetsisio sensilyo, baile gi musika familiår, lakton, kanta hamyo, pinta sensilyo yan litratu album.
 
-## How do you set up an activity so it works?
+## Kao ta ayuda para i aktibidåt ma'ñå?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Ma'ñå na aktibidåt ma'ñå ti ma'ñå gi setup. Esta siha na ma'gasi, ma sakåta gi [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yan [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), ma'ñå i pinakadåkkulu na diferensia:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Fa'tinas i lugåt.** Apaga i TV, sera i puetta yan pone sulo i manisisita para i aktibidåt.
+2. **Hagu primet ma kumomenta.** Kumomenta ma tiniente pat hånao, yan invita siha: "Siña hågu ayuda yu' gi esti?"
+3. **Ensenya, despues ma espera.** Hagu i un step. Tutuka pat gia' i hånom para ma gusto, pananaitåno, kumu ensenya gi hånom para hålom na pinggan.
+4. **Un step gi kada tiempo.** "Dobla gi ma'lo'" ma'ñå ki "dobla esta siha yan ma'lågu ginen kulot."
+5. **Dos chuli', ti pregunta ti ma'ñå.** "I blue na tenda pat i sigu?" ma'ñå ki "Hafa hagu gana ma fa'tinas?"
+6. **Hagu gumáyi i mas mamaisen na parte.** Hagu ma'sukat, hao ma'tugi. Hagu ma'tutuka i aguha, hao ma'hålom i lana.
+7. **Un rason para i trabiha.** "Esti na nåpkin para i Dominggo na chalan" ma hacha i trabiha ma sientin tinetnu.
+8. **Dåkna' hao ma'taitai kao gana.** I [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ma'gasi na sen taitai siña fina' ma'ñå.
 
-## Activity ideas for the middle stage
+## Ideas para aktibidåt gi mediu na tiempo
 
-### Useful jobs
+### Trabiha ni' útil
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Dobla tenda yan washcloth.** Kiheng pat patigo na lugåt i ma'ñå. Un basket ni' kalientin washcloth siña ma dobla, ma sumaplån yan ma dobla ya' ni' ti.
+- **Sepåra kalsetnes.** Hålom ni' pareha ti siha pumalu. Ma sepåra gi kolot solu siña ma'ñå.
+- **Hugas pat nå'mamanu pinggan ni' ti ma buten.** Kalientin tubu yan sabon ma'ñå para ha na mañimo. Nå'mamanu gi silia ti ma'ñå gi chatan.
+- **Sinåsanga meså.** Hånao un klasen gamai dies, yan sinåsanga un lugåt hao ma'ñå para ehemplo.
+- **Ayuda gi chalan.** Hugas patatas, faha'lom letuga pat tuniha un lalaguan. Hao ma'ñå kuchåra yan kalot.
+- **Ha'ñao, ha'pulu pat ha'huga.** Un tenda para meså, un ligi na kosas para i patio.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Ha'dåkna' ni' mås gi [household tasks](/activities/household-tasks/).
 
-### Music and movement
+### Musika yan muibimiento
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Kanta i ma'ñå ni' ma gusto.** Hånao hao ma kanta; manmåsa taotao ma sigi kumanta i kanta ni' ma'ñå desde dos dies na tiempo. Ha'dåkna' ni' [music activities](/activities/music/).
+- **Baile libre.** Ma'gå', ma'palma pat muibe kumu ma gusto. Ma'sentao ma'ñå.
+- **Ma'tira globo.** Dinanña ma'ñå muna' ya ma'gasgas ma kåtkat gi sentao.
+- **Lakton ni' ma gaige gui'.** Lakton un kortu, ma'ñå kumu ma'ñå, kao ma'ñå ma'palao'an.
 
-### Pictures and stories
+### Litratu yan kuento
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Tatiyan litratu album.** Ma'tutungo i ma'ñå ti ma'fanmanu pregunta: "Hanao'i karakter na chinatli'. Kuentos hao ginen esta." Ha'dåkna' ni' [reminiscence activities](/activities/reminiscence/).
+- **Usa conversation cards.** [Conversation cards](/games/conversation-cards/) ma ha'ñåda litratu yan un kuestion ni' ti ma'ñå ni' ti pruebas.
+- **Ma'chichiri un pilikula ni' ma'ñå.** Pili un ma'gasi, sigi gi kanton yan para ma'ñå.
 
-### Simple, pressure-free games
+### Simpre na hugo, ti ma'ñå ni' presion
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Litratu pareha ni' ma biha i litratu.** [Picture pairs](/games/picture-pairs/) ma ha'ñåda i litratu para ma biha, ya i hugo ma'ñå sa' mamaisen ma taitai, ti memoria.
+- **Hånao i mismo.** [Find the same](/games/find-the-same/) ma biha un litratu yan dos pat kuåtro na chuli'.
+- **Sepåra kumuntos.** [Sort together](/games/sort-together/) ma'ñå kumu sumepåra i tenda gi kuåtto: tutuka un litratu, despues i basket.
+- **Picture bingo.** [Picture bingo](/games/picture-bingo/) ma'ñå para gi fiestan familia yan grupu.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Kuandu un hugo ma'fa'na' frustrasion, para yan hagu hålom otro na aktibidåt. Ha'dåkna' ni' [how to play together](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Ma kambia i inkietut ginen aktibidåt
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+I inkietut pat ma'repiti na aktibidåt ma'ñå sa' guaha rason. I Family Caregiver Alliance ma'gasi na i taotao ni' ma'ñå ma'sasatpi i armåriu siña ma'ñå nisisita para ma sienti okupådu yan útil. I Alzheimer's Association ma'gasi na ma fanmanu i enerhia ginen aktibidåt ni' ma ha'ñåda, lugåt ti para ma tatalåm.
 
-| What you see | Something to offer |
+| Håfa ma'biha | Håfa ma'ofrese |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Ma'tangi pat ma'tutuka i meså | Un basa'ñe ni' tenda yan petision para ma'lempia i meså |
+| Inkietut i aigu pat ma'tatapak | Musika ni' ma'ñå tiempo para tatapak pat palma |
+| Ma'bokka kahon pat armåriu | Un basket ni' tenda pat washcloth para ma dobla yan sepåra |
+| Ma'na'li' i mismo na pregunta | Sinånsanos, despues un kanta pat chuchuli' para ma sisiha |
+| Ma'tutungo | Un lakton hamyo, pat un trabiha ni' ma'gåfa'an |
+| Inkietut gi tatdi | Un tinaotao kalkilo ni' familiår gi maolek na lugåt; ha'dåkna' ni' [late-day restlessness](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Kuåndo para pumåra pat kambia
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Pára kuandu ma'biha sinyåt ni' kansåo, mamaisen, ma'chocha pat chumålek, kumu ma'tinanga, ma'puni i kosas pat ma'na' "Ti siña yu'." I Alzheimer's Association ma'gasi na sigi ma tatiyan gi otro tiempon ginen gi påsa pat ma'hacha i aktibidåt mås simple. Ti ma'fuetsa. I ma'na'ti' siña ginen gi mañaigu pat ginen i trabiha ni' ti maolek; ha'dåkna' ni' [when they say no](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Ma'pára ma'ñå gi mamaisen na tiempo. Ma'ñå taiguini na sumentao hamyo yan un tasa tè. Kuandu i abilidåt ma'chånda, i ideas gi [late-stage activities](/activities/late-stage/) siña ma'ñå mås marikon, yan [101 activities](/activities/ideas/) guaha mås para tatiyan.

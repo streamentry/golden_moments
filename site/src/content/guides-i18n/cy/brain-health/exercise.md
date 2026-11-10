@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Ymarfer Corff a Dementia: Beth mae'r Ymchwil yn ei Ddangos"
+seoTitle: "Ymarfer Corff a Dementia: Beth mae'r Ymchwil yn ei Ddweud"
+description: "Beth mae ymchwil yn ei gysylltu rhwng gweithgarwch corfforol a risg dementia, a ffyrdd diogel, pleserus i oedolion hŷn symud."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Mae astudiaethau'n cysylltu gweithgarwch corfforol rheolaidd â risg is o dementia, ac mae
+  Comisiwn Lancet 2024 yn rhestru anweithgarwch corfforol fel un o 14 o ffactorau risg y gellir
+  eu newid. Nid yw treialon wedi profi bod ymarfer corff yn atal dementia. Mae symud yn dal i
+  helpu gyda chryfder, cydbwysedd, hwyliau a chwsg, felly mae cerdded, ymarferion cadair a
+  dawnsio yn werth eu gwneud er eu lles eu hunain. Gwiriwch gyda meddyg cyn dechrau rhywbeth
+  newydd.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Ar gyfartaledd, mae gan bobl sy'n gorfforol actif risg is o dementia, ond daw hyn yn bennaf o astudiaethau arsylwi, nid treialon."
+  - "Ni chanfu treial pum mlynedd ymhlith oedolion hŷn unrhyw wahaniaeth clir mewn sgiliau meddwl rhwng grwpiau."
+  - "Mae canllawiau CDC ar gyfer oedolion 65 oed a hŷn yn cwmpasu gweithgareddau aerobig, cryfhau cyhyrau a chydbwysedd, ac yn dweud bod rhywfaint o weithgarwch yn well na dim."
+  - "I bobl sy'n byw gyda dementia, mae symudiad byr, cyfarwydd, ar y cyd fel taith gerdded ddyddiol neu gemau wrth eistedd yn bwysicach nag unrhyw darged."
+  - "Mae mwy nag un o bob pedwar oedolyn hŷn yn cwympo bob blwyddyn, felly daw gwaith cydbwysedd a lle diogel yn gyntaf."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "A all ymarfer corff atal dementia?"
+    a: "Ni all neb addo hynny. Mae llawer o astudiaethau'n cysylltu bod yn actif â risg is o dementia, ond nid yw treialon clinigol wedi dangos bod ymarfer corff yn ei atal. Mae gan ymarfer corff lawer o fanteision eraill sydd wedi'u profi, felly mae'n dal yn werth ei wneud."
+  - q: "A yw'n ddiogel i rywun sy'n byw gyda dementia ymarfer corff?"
+    a: "Fel arfer, gyda rhywfaint o gynllunio. Mae'r National Institute on Aging yn awgrymu gwirio gyda meddyg y person cyn dechrau trefn newydd, dewis esgidiau cyfforddus, cynnig dŵr, a chadw sesiynau'n fyr. Rhowch y gorau iddi os yw'r person yn ymddangos yn flinedig, yn ansad neu'n anhapus."
+  - q: "Pa ymarferion y gellir eu gwneud wrth eistedd?"
+    a: "Mae opsiynau wrth eistedd yn cynnwys ymestyn neu ioga cadair, taflu balŵn neu bêl feddal, taflu bagiau ffa, codi caniau cawl, bandiau ymestyn ac ymarferwyr pedal. Mae'r rhain yn ddewisiadau da pan fo cerdded yn anodd."
+  - q: "Beth os nad yw'r person eisiau symud?"
+    a: "Peidiwch â gwthio. Rhowch gynnig arall arni'n ddiweddarach, ymunwch chi eich hun, ychwanegwch gerddoriaeth gyfarwydd, neu newidiwch symudiad yn dasg fel ysgubo neu ddyfrio planhigion. Mae taith gerdded fer i'r blwch post yn cyfrif, ac mae eistedd y tu allan gyda'ch gilydd hefyd yn cyfrif."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Mae bod yn actif yn un o'r arferion a astudir amlaf mewn ymchwil ar iechyd yr ymennydd. Mae astudiaethau'n ei gysylltu â risg is o dementia, ond nid ydynt wedi profi bod ymarfer corff yn atal dementia. Yr hyn sy'n glir yw bod symud yn helpu gyda chryfder, cydbwysedd, hwyliau a chwsg ar unrhyw oed. Mae'r dudalen hon yn esbonio beth mae'r ymchwil yn ei ddweud, faint o weithgarwch y cynghorir oedolion hŷn i'w gael, a ffyrdd ysgafn o symud gyda rhywun sy'n byw gyda dementia.
 
-## Does exercise lower the risk of dementia?
+## A yw ymarfer corff yn lleihau'r risg o dementia?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Mae ymchwil yn awgrymu bod pobl sy'n gorfforol actif yn llai tebygol o ddatblygu dementia, ond mae terfynau i'r dystiolaeth. Mae [Comisiwn Lancet 2024 ar ddementia](https://doi.org/10.1016/S0140-6736(24)01296-0) yn rhestru anweithgarwch corfforol fel un o 14 o ffactorau risg y gellir eu newid. Gyda'i gilydd, mae'r 14 ffactor hyn yn cyfrif am tua 45% o achosion dementia ledled y byd yn ei fodel.
 
-Here is what the evidence looks like:
+Dyma sut mae'r dystiolaeth yn edrych:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Mae astudiaethau arsylwi'n pwyntio i'r un cyfeiriad.** Canfu adolygiad o 58 o astudiaethau, a drafodwyd gan y Comisiwn, fod gan bobl sy'n gorfforol actif risg o dementia tua 20% yn is. Roedd y gwahaniaeth mwyaf rhwng pobl a oedd bron yn hollol anweithgar a'r rhai a oedd yn gwneud o leiaf rhywfaint o weithgarwch.
+- **Gall y cysylltiad redeg y ddwy ffordd.** Mae'r Comisiwn yn nodi y gall bod yn anweithgar godi risg. Mae hefyd yn nodi y gall newidiadau cynnar yn yr ymennydd sy'n gysylltiedig â dementia, sy'n dechrau flynyddoedd cyn diagnosis, wneud pobl yn llai actif.
+- **Mae treialon yn llai clir.** Mewn un treial, cafodd 945 o oedolion hŷn â chyfartaledd oedran o 78 eu neilltuo i bum mlynedd o ymarfer corff dan oruchwyliaeth ddwywaith yr wythnos neu i grŵp cymharu. Ar y diwedd, nid oedd gwahaniaeth clir mewn sgiliau meddwl rhwng y grwpiau. Roedd llawer o bobl yn y grŵp cymharu hefyd yn actif, sy'n gwneud y canlyniad yn anoddach ei ddehongli.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+Mae'r [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) yn ei roi'n blaen. Nid oes cysylltiad clir wedi'i ddangos rhwng gweithgarwch corfforol ac atal clefyd Alzheimer, ac nid oes digon o dystiolaeth o dreialon i ddweud bod ymarfer corff yn ei atal neu'n ei arafu. Mae ymarfer corff yn dal i leihau'r risg o gwympiadau, iselder, diabetes, pwysedd gwaed uchel a strôc. Mae rhai o'r cyflyrau hyn eu hunain yn gysylltiedig â dirywiad gwybyddol.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Y neges onest yw symud oherwydd ei fod yn eich helpu i deimlo ac i weithredu'n well heddiw. Mae unrhyw fudd posibl i'r ymennydd yn fonws posibl, nid addewid.
 
-## How much activity do older adults need?
+## Faint o weithgarwch sydd ei angen ar oedolion hŷn?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+Mae [canllawiau CDC ar gyfer oedolion 65 oed a hŷn](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) yn awgrymu tri math o weithgarwch bob wythnos:
 
-| Type | Weekly amount | Examples |
+| Math | Swm wythnosol | Enghreifftiau |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobig | O leiaf 150 munud o weithgarwch cymedrol, fel 30 munud ar 5 diwrnod | Cerdded yn egnïol, dawnsio, aerobeg dŵr |
+| Cryfhau cyhyrau | O leiaf 2 ddiwrnod, gan weithio pob prif grŵp cyhyrau | Codi pwysau ysgafn neu ganiau cawl, bandiau ymestyn |
+| Cydbwysedd | Yn rheolaidd | Cerdded sawdl wrth droed, sefyll i fyny o gadair |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Nodau yw'r rhain, nid gofynion i ddechrau. Mae CDC yn dweud, os na allwch eu cyrraedd, y dylech fod mor actif ag y mae eich galluoedd a'ch iechyd yn caniatáu. Mae rhywfaint o weithgarwch yn well na dim.
 
-## Gentle ways to move for older adults
+## Ffyrdd ysgafn o symud i oedolion hŷn
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Cerddwch gyda chwmni.** Mae taith gerdded ddyddiol gyda ffrind, cymydog neu grŵp cerdded yn ychwanegu sgwrs a diogelwch.
+- **Ymarferion cadair.** Mae codi breichiau wrth eistedd, cylchoedd ffêr, gorymdeithio yn eich unfan ac ioga cadair yn cryfhau heb risg i gydbwysedd.
+- **Dawnsio yn y gegin.** Rhowch gerddoriaeth o arddegau a hugeiniau'r person ymlaen ac ysgwyd, tapio neu gamu. Mae gan ein [canllaw gweithgareddau cerddoriaeth](/activities/music/) syniadau.
+- **Cryfder gyda phethau o'r cartref.** Codwch boteli dŵr llawn neu ganiau cawl wrth wylio hoff raglen.
+- **Garddio neu wneud tasgau.** Mae dyfrio planhigion, rhacio, ysgubo a phlygu dillad i gyd yn cyfrif. Gweler [gweithgareddau awyr agored a garddio](/activities/outdoor-and-gardening/) a [thasgau'r cartref](/activities/household-tasks/).
+- **Ymarfer yn y dŵr.** Mae NIA yn rhestru dosbarthiadau aerobeg dŵr fel un opsiwn i bobl sy'n ei chael hi'n anodd ymarfer ar dir oherwydd eu cymalau.
 
-## How to exercise with someone living with dementia
+## Sut i ymarfer gyda rhywun sy'n byw gyda dementia
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+I berson sy'n byw gyda dementia, y nod yw cysur, mwynhad a chadw galluoedd bob dydd, nid cyrraedd rhif. Mae NIA yn dweud bod gweithgarwch corfforol yn helpu i gadw cyhyrau, cymalau a chalon rhywun â chlefyd Alzheimer mewn cyflwr da, a gall hefyd wella hwyliau a chwsg. Gwiriwch gyda'u meddyg cyn dechrau trefn newydd. Mae awgrymiadau o [ganllaw NIA i ofalwyr](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) yn cynnwys:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Cerddwch gyda'ch gilydd bob dydd.** Dewiswch lwybr diogel, cyfarwydd heb rwystrau. Os yw'r person yn cerdded ar ei ben ei hun, mae breichled adnabod gyda'ch rhif ffôn yn syniad da.
+2. **Rhowch gynnig ar fideos ymarfer i oedolion hŷn.** Dilynwch gyda'ch gilydd, wrth eistedd neu sefyll.
+3. **Cadwch sesiynau'n fyr.** Gall sawl "sesiwn fer" weithio'n well nag un hir.
+4. **Ychwanegwch gerddoriaeth.** Mae caneuon cyfarwydd yn gwneud symud deimlo fel gweithgaredd, nid tasg. Dawnsiwch os yw'r person yn ei fwynhau.
+5. **Cynigiwch ddŵr ac esgidiau cyfforddus.** Cynigiwch ddŵr neu sudd yn ystod ac ar ôl, a dewiswch ddillad cyfforddus ac esgidiau sy'n ffitio'n dda ac wedi'u gwneud ar gyfer ymarfer.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Os yw cerdded yn anodd, mae [canllaw NIA ar ofalu am berson â chlefyd Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) yn awgrymu opsiynau wrth eistedd. Mae'r rhain yn cynnwys ymarferion cadair neu ioga, taflu bagiau ffa, taflu pêl feddal neu falŵn, bandiau ymestyn, codi eitemau ysgafn o'r cartref, ac ymarferwyr pedal. Mae tasgau syml fel ysgubo a thynnu llwch hefyd yn cyfrif.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Byddwch yn realistig am yr hyn y gall symud ei wneud. Ni chanfu Comisiwn Lancet unrhyw dystiolaeth bod ymarfer corff yn lleihau newidiadau mewn ymddygiad fel cyffro. Symudwch gyda'ch gilydd oherwydd y gall deimlo'n dda, nid fel ffordd o drwsio prynhawn anodd. Os yw'r person yn dweud na, mae hynny'n iawn. Mae gan ein canllaw ar [pan fyddant yn dweud na](/caregiving/when-they-say-no/) ffyrdd caredig o roi cynnig arall arni'n ddiweddarach. Mae gorffen yn gynnar, neu ddim ond eistedd y tu allan gyda'ch gilydd, hefyd yn ganlyniad da.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Ar ôl symud, gall saib tawel fel [Anadlu'n Dawel](/games/calm-breathing/) helpu'r ddau ohonoch i ymlacio. Ar gyfer gweithgaredd wrth eistedd gyda symudiad ysgafn yn y breichiau, mae [Trefnu Gyda'ch Gilydd](/games/sort-together/) a [Bingo Lluniau](/games/picture-bingo/) yn gweithio'n dda wrth fwrdd.
 
-## Balance and fall safety
+## Cydbwysedd a diogelwch rhag cwympiadau
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Mae cwympiadau'n gyffredin ac yn ddifrifol. Mae [CDC yn adrodd](https://www.cdc.gov/falls/data-research/facts-stats/index.html) bod mwy nag un o bob pedwar oedolyn hŷn yn cwympo bob blwyddyn, ond bod llai na hanner yn dweud wrth eu meddyg. Mae cwympo unwaith yn dyblu'r siawns o gwympo eto. Mae'r ffactorau risg y mae CDC yn eu rhestru yn cynnwys:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Gwendid yn y coesau a'r cluniau
+- Anhawster wrth gerdded a chydbwyso
+- Rhai meddyginiaethau, gan gynnwys tawelyddion a rhai gwrth-iselder
+- Problemau gyda'r golwg
+- Poen yn y traed neu esgidiau gwael
+- Peryglon yn y cartref fel annibendod, rygiau bach a grisiau wedi torri
 
-To move more safely:
+I symud yn fwy diogel:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Defnyddiwch gadair gadarn** heb olwynion, a chadwch cownter neu reilen o fewn cyrraedd ar gyfer ymarferion sefyll.
+- **Cliriwch y lle** o rygiau, gwifrau ac annibendod yn gyntaf.
+- **Ewch yn araf wrth sefyll i fyny**, a rhowch y gorau iddi os yw'r person yn teimlo'n benysgafn neu'n ansad.
+- **Gwisgwch esgidiau cynhaliol**, nid sanau na sliperi rhydd.
+- **Ymarferwch gydbwysedd yn agos at rywbeth i ddal gafael ynddo.** Mae sefyll i fyny o gadair a cherdded sawdl wrth droed yn enghreifftiau CDC o weithgareddau cydbwysedd.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+Mae CDC yn cynghori y dylai person hŷn sy'n cwympo ac yn taro ei ben weld meddyg ar unwaith, yn enwedig os yw'n cymryd meddyginiaethau teneuo gwaed.
 
-## Talk with a doctor
+## Siaradwch â meddyg
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Gwiriwch gyda meddyg cyn dechrau trefn ymarfer corff newydd, yn enwedig i rywun sydd â phroblemau gyda'r galon neu'r ysgyfaint, poen yn y cymalau, problemau cydbwysedd, neu ddementia. Gall meddyg neu ffisiotherapydd awgrymu gweithgareddau diogel a gwirio a yw meddyginiaethau'n effeithio ar gydbwysedd. Dywedwch wrth y meddyg am unrhyw gwymp, hyd yn oed un heb anaf. Os yw rhywbeth yn brifo neu'n teimlo'n anghywir yn ystod ymarfer, rhowch y gorau iddi. Am boen sydyn yn y frest, trafferth anadlu, neu ddryswch sydyn, ffoniwch 999.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Mae'r dudalen hon yn wybodaeth gyffredinol, nid cyngor meddygol. Gweler ein [ymwadiad meddygol](/medical-disclaimer/). I gael y darlun ehangach, darllenwch [beth mae ymchwil yn ei ddweud am ffactorau risg dementia](/brain-health/risk-factors/) ac [a ellir atal dementia](/brain-health/can-dementia-be-prevented/).

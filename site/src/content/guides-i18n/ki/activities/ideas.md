@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Maũndũ 101 ma Gwĩka na Andũ marĩ na Dementia"
+seoTitle: "Maũndũ 101 ma Gwĩka na Mũndũ ũrĩ na Dementia"
+description: "Maũndũ 101 mahũthũ ma gwĩka na andũ arĩa matũũraga na mũrimũ wa gũkua mwĩciirĩrie, hamwe na ũrĩaũngĩmahũthĩra rĩrĩa maũndũ maritũha."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Maũndũ mega ma gwĩka na andũ arĩa matũũraga na mũrimũ wa gũkua mwĩciirĩrie nĩ
+  marĩa mamenyereire, ma andũ agima, na mahũthũ gwĩkwo hamwe: kũgotha nguo,
+  gũtherania indo, kũruga, gũthikĩrĩria nyĩmbo, kũrora mbica, gũceera, kũrĩma,
+  gũikara na nyamũ cia mũciĩ na tũtũra tũhũthũ. Ambĩrĩria na maũndũ marĩa
+  mũndũ ũcio endete kuuma tene, wee wĩke maũndũ marĩa maritũ, na mũtige rĩrĩa
+  anoga. Ihinda rĩega rĩa gũikara hamwe nĩ rĩa bata gũkĩra kũrĩkia ũndũ o wothe.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Ambĩrĩria na muoyo wa mũndũ ũcio mwene: wĩra wake, maũndũ marĩa eendete gwĩka, wĩtĩkio wake na nyĩmbo iria endete nĩcio itongoragia wega."
+  - "Hũthia ũndũ o wothe ũtuĩke mũhũthũ rĩrĩa kũbataire: matigari makuhĩ, mĩthuuro mĩnini, wee wĩke gĩcunjĩ kĩrĩa kĩritũ."
+  - "Kũrora, kũnyiita kĩndũ kana gũikara hakuhĩ nĩ njĩra cia gũikinyĩra."
+  - "Tigai kana mũgarũre rĩrĩa mũkuona anoga, araakara kana akaaga kũigua wega. Gũtiga tene nĩ ũndũ mwega."
+  - "Gwĩka maũndũ hamwe nĩ kwa bata gũkĩra kũmeka wega biũ."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Nĩ maũndũ marĩkũ mega harĩ mũndũ ũrĩ na mũrimũ wa gũkua mwĩciirĩrie?"
+    a: "Maũndũ marĩa mũndũ ũcio amenyerete gwĩka mĩaka mĩingĩ, mahothetwo hanini: kũgotha nguo, kũhaarĩria metha, kũruga, gũthikĩrĩria nyĩmbo, kũrora mbica, gũceera, kũrĩma na gũikara na nyamũ ya mũciĩ. Thuura maũndũ marĩa mekũigua marĩ ma andũ agima na marĩa magĩte na bata, na mũmeke hamwe."
+  - q: "Ũndũ ũmwe wagĩrĩirũo gũikara ihinda rĩigana atĩa?"
+    a: "Gũtirĩ ihinda rĩagĩrĩire. Ndakika nini cia kũgotha matauro no ciume kũiganĩra mũthenya ũmwe, na ithaa rĩmwe mũgũnda-inĩ rĩkĩigue rĩrĩ rĩhũthũ mũthenya ũngĩ. Reke mũndũ ũcio etongorie na mũtigane ihinda rĩrĩa maũndũ megũkĩigua mega."
+  - q: "Ĩ mangĩkorũo mũndũ ũcio nĩarega gwĩka ũndũ ũmwe?"
+    a: "Ndũkamũhatĩrĩrie. Kũrega no kuonanie atĩ wĩra ũcio nĩ mũritũ, ihinda ti rĩega, kana nĩ anogete kana ndarĩ na ũhoro. Geria rĩngĩ thutha, mũhe ũndũ mũhũthũ makĩria, kana wee mwene wambĩrĩrie wĩra ũcio hakuhĩ nake na ũmũĩre oke amũteithie."
+  - q: "Tũtũra twa kwĩroria nĩ twega harĩ andũ arĩa marĩ na mũrimũ wa gũkua mwĩciirĩrie?"
+    a: "Tũtũra no tũtuĩke njĩra njega ya gũikara hamwe, no gũtirĩ kĩara kĩonanĩtie atĩ kĩngĩhonia, gĩtĩrie kana gĩtĩkĩrĩrie mũrimũ wa gũkua mwĩciirĩrie. Thuura tũtũra tũtarĩ na thaa ya gũtarania, tũtarĩ na ciatira kana mũgambo wa kwonania atĩ nĩ kwĩhia, na mũtuone ta ũndũ wa gwĩka hamwe, ti kĩgerio."
+  - q: "Ingĩtũma maũndũ maya matige kuoneka ta ma twana?"
+    a: "Hũthĩra indo cia ma, cia andũ agima: matauro ma ma, njĩra cia kũruga cia ma, nyĩmbo cia andũ agima, indo cia wĩra wa moko, na mbica cia andũ agima. Ta ũndũ ũcio ta ũteithio ũrĩa ũbataire kũna, na waragĩria mũndũ ũcio ta mũndũ mũgima ũrĩa arĩ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Ũndũ ũrĩa mwega mũno harĩ mũndũ ũrĩa ũtũũraga na mũrimũ wa gũkua mwĩciirĩrie kaingĩ nĩ ũndũ ũrĩa amenyerete gwĩka, wahũthio hanini na ũgekwo hamwe na mũndũ ũrĩa ehokete. Haha harĩ na meciiria 101, magayanĩtio kũringana na mũthemba, o hamwe na ũrĩa ũngĩũhaarĩria na ũrĩa ũngĩũhũthia rĩrĩa wĩra ũritũha. Ndũbataire indo cia mwanya, na ndũbataire kũrĩkia ũndũ o wothe. Mĩaraho mĩega no ĩkorũo ĩrĩ kĩondo kĩmwe kĩa matauro na gĩkombe kĩa kahũa hamwe.
 
-## How do you choose the right activity?
+## Ũthuuraga atĩa ũndũ ũrĩa mwagĩrĩire?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Thuura kũringana na mũndũ ũcio, ti rũrenda rũrũ: ambĩrĩria na maũndũ marĩa eendete kuuma tene na marĩa angĩhota gwĩka wega ũmũthĩ.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Wĩciirie wĩra wake na maũndũ marĩa eendete.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ĩtaaragia atĩ mũndũ warutaga wĩra wa ofisi no ekenio nĩ gũtherania mbeeca kana gũhaarĩria marũa, nake mũrĩmi no ekenio nĩ wĩra wa mũgũnda.
+- **Rora maũndũ marĩa ekaga we mwene.** Angĩkorũo thoguo ahataga gĩthaku kĩarĩ o rũciinĩ atarĩ mũndũ ũmũũrĩtie, hũthĩra ũndũ ũcio mũthenya-inĩ.
+- **Bangaga kũringana na ũrĩa ahotaga.** Kũnoga, kũona, kũigua, kũrũara kwa moko na kũrũgama nĩ maũndũ ma bata.
+- **Rora mũikarĩre wake.** Andũ amwe mendaga maũndũ maingĩ na inegene, angĩ magĩĩtigĩra.
+- **He ũndũ ũcio gĩtũmi.** Kũgotha matauro nĩ ũndũ wa iruga rĩa kanitha gũkoragwo na bata gũkĩra ũndũ wa gwĩkenia tu.
 
-### A rough guide by stage
+### Ũtongoria wa kũhũthĩra kũringana na ikinya
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Mũrimũ wa gũkua mwĩciirĩrie kaingĩ ũgayagwo ikinya rĩa mbere, rĩa gatagatĩ na rĩa kũrigĩrĩria. Maya nĩ marĩĩtwa ma kũhũthĩra tu, ti mabox, na andũ aingĩ magĩaga na mĩthenya mĩega na mĩritũ, nĩ ũndũ ũcio rũmagĩrĩra ũrĩa ũkuona ũmũthĩ. [Rũrenda rwa Alzheimer's Foundation of America kũringana na ikinya](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) rũrũmagĩrĩra njĩra ĩyo.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Ũhoro | Ikinya rĩa mbere | Ikinya rĩa gatagatĩ | Ikinya rĩa kũrigĩrĩria |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Ũrĩa ũngĩona | Arahota gwĩka maũndũ maingĩ we mwene; kũbanga, marĩĩtwa merũ na kũndũ kũrĩ na andũ aingĩ gũtuĩkaga kũritũ | Abataire ũteithio wa kwambĩrĩria na kũrũmĩrĩra matigari; ciugo nĩ iritũhaga | Abataire ũteithio maũndũ-inĩ maingĩ ma o mũthenya; maũndũ ma kuona, kũigua na kũhutia nĩmo ma bata mũno |
+| Maũndũ marĩa mahotaga kũagĩrĩra | Karati, tũtũra twa metha, kũruga, kũrĩma, kwandĩka, gũceera, ikundi | Kũgotha nguo, gũtherania indo, matigari mahũthũ ma kũruga, kũina, ibuku cia mbica, gũceera hamwe | Nyĩmbo iria endete, kũmĩrĩra moko, indo njoroku cia kũnyiita, gũthomerwo, gũikara nja |
+| Wĩra waku | Mũrata wa gwĩka nake: mũũrie ũteithio ũrĩa endaga | Haarĩria, onania, wĩke gĩcunjĩ kĩrĩa kĩritũ | Tware ũndũ ũcio harĩ we; gũkorũo hamwe nake nĩkuo ũndũ ũcio |
+| Meciiria mangĩ | [Ikinya rĩa mbere](/activities/early-stage/) | [Ikinya rĩa gatagatĩ](/activities/middle-stage/) | [Ikinya rĩa kũrigĩrĩria](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Ũambĩrĩragia atĩa ũndũ na mũndũ ũrĩ na mũrimũ wa gũkua mwĩciirĩrie?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Ambĩrĩria na ũndũ mũnini, wambĩrĩrie hamwe nake, na ũtũme gũtuĩke ũhũthũ gwĩtĩkĩra. Andũ aingĩ no meriragĩrie gũikinyĩra no makona kũbanga kana kwambĩrĩria kũrĩ kũritũ.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Thuura ihinda rĩrĩa arĩ na hinya,** kaingĩ rũciinĩ.
+2. **Haarĩria indo ciothe mbere** nĩguo mũhote kwambĩrĩria o hĩndĩ ĩyo.
+3. **Mũũrie ũteithio, ti ũndũ wa kwĩonania:** «No ũndeithie na ici?»
+4. **Wee mwene wambĩrĩrie.** Gotha tauru rĩa mbere na ũreke anyiitanĩre nawe. Kuonania nĩ kwega gũkĩra gũtaarĩria.
+5. **Mũhe itigari rĩmwe o ihinda.**
+6. **Wĩke gĩcunjĩ kĩrĩa kĩritũ mũno.** Alzheimer's Association ĩtaaragia atĩ no ũthime indo wee mwene, ũcooke ũmũnengere rũciko ahuragie.
+7. **Reke eke wega wake.** Matauro magothĩtwo na njĩra ĩngĩ nĩ mega.
+8. **Tigai rĩrĩa maũndũ magũtiga gũkenia.** Kwĩnyogonya, kũnyarara mothiũ kana kuuga «ndingĩhota» nĩ cionereria cia kũgarũra kana kũhurũka.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Rora makĩria [ũrĩa mũngĩĩka hamwe](/caregiving/how-to-play-together/) na [mataaro ma kwaria](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Mawĩra ma o mũthenya mũciĩ
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Mawĩra ma mũciĩ nĩ maũndũ marĩa mamenyereire na marĩ na bata, na nĩ ũndũ ũcio nĩ kũndũ kwega gwa kwambĩrĩria. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ĩtaaragia wĩra wa kũhũũra thaani, kũhaarĩria metha, kũhata, gũtherania marũa na kũgotha nguo ta maũndũ marĩa andũ mangĩkenio nĩmo. Meciiria mangĩ harĩ [mawĩra ma mũciĩ](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Gotha matauro mahiũ.** Ita kĩondo kiumĩte mũthithũ-inĩ ũkĩige metha-inĩ na mũgothage mũrĩ hamwe. Thutha-inĩ, kũmaringithia na kũmaigĩrĩra nĩ ũteithio mũnene o naguo.
+2. **Gũcookereria thogithi.** Ambĩrĩria na rangi mũno itiganĩte. Thutha-inĩ, gũtherania iria njerũ na iria ndune nĩ kũiganĩra.
+3. **Haarĩria metha.** Mũnengere mũthemba ũmwe wa indo o ihinda. Haarĩria handũ hamwe wee mwene ta kĩonereria.
+4. **Oga kana ũhũũre thaani.** Maaĩ mahiũ marĩ na thabuni na thaani itangĩũrĩka. Kũhũũra ũikarĩte nĩ ũhũthũ harĩ magũrũ.
+5. **Kũgũta metha.** Mũnengere taama nyiigĩte thutha wa kũrĩa. Nĩ wĩra wa ma harĩ moko marĩa matarĩ ũhurũko.
+6. **Gũtherania marũa.** Ibuku cia matangazo na marũa ma gũte mathenya-inĩ ma «kũiga» na «gũte». Tiga marũa ma mbeeca ma ma kũndũ kũraya.
+7. **Gũtinia makuponi.** Makasi matarĩ mũthia mũũgĩ na maratathi ma matangazo ma thoko. Thutha-inĩ, gũthiũrũrũkĩria irio iria endete nĩ wega o naguo.
+8. **Gũtherania mbeeca cia tũcunjĩ.** Therania mbeeca ikombe-inĩ kana ũciĩkĩre mĩkanda-inĩ. Tiga indo nini angĩkorũo mũndũ ũcio ekĩraga indo kanua.
+9. **Kũhata kana kũgũta rũkũngũ.** Kĩhato kĩhũthũ gĩthaku-inĩ, kana kĩndũ kĩa kũgũta rũkũngũ kĩrĩ na mũtĩ mũraihu mũikarĩte.
+10. **Kũteithia kũruga irio.** Kũthambia mboga, gũtambũrũra nyeni, kũhuria. Wee wĩke wĩra wa kahiũ na wa mwaki.
+11. **Kũruga irio cia mũciĩ cianyu.** Hũthĩra karatathi karĩa kandĩkĩtwo na guoko gwake, korũo ũkarĩ nakuo. Thutha-inĩ, no atuĩke mũcami.
+12. **Gwĩka mawĩra ma ofisi.** Kũgotha marũa, kũmekĩra mabahasha na kũmaĩkĩra stempu, kana kwandĩka rũrenda rwa gũgũra indo hamwe.
 
-## Music
+## Nyĩmbo
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Nyĩmbo iria mamenyereire no ihikĩre andũ o na rĩrĩa ciugo iritũha. [Mataaro ma nyĩmbo ma Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) mataaragia nyĩmbo iria mamenyereire, gũtarĩ matangazo na TV ĩhorereirio. Rora [maũndũ ma nyĩmbo](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Haarĩria rũrenda rwa nyĩmbo ciake.** Nyĩmbo cia ũnini wake, cia ũhiki wake, cia kanitha na cia mũtũũrĩre wake.
+14. **Inai hamwe.** Ambĩrĩria wee mwene kũina. Kũhuhũra kana gũthikĩrĩria no kũiganĩre.
+15. **Rũmagĩrĩra mũgambo.** Hũũra hĩ, hũũra maru kana hũũra ngoma nini. Nĩ kwega mũikarĩte na ikinya rĩa kũrigĩrĩria.
+16. **Rũgarũga.** Rũgarũga kahora riiko-inĩ, kana mũĩnyogonyage mũrĩ mũikarĩte mũnyiitĩte moko.
+17. **Thikĩrĩria albamu yothe.** Nyĩmbo ĩrĩa endete kuuma kĩambĩrĩria nginya mũthia, hamwe na kahũa na gũtarĩ ũndũ ũngĩ.
+18. **Aranĩriai ũhoro wa nyĩmbo.** Mũĩre eerane ng’ano, ti maũndũ ma kũririkana tu: «Njĩĩra ũhoro wa marũgarũga marĩa mwathiaga.»
+19. **Rorai nyĩmbo cia video kana kĩgomano.** Kĩonetio kĩrĩa eendete no kĩtuĩke hwaĩini mwega. No mũtithie ihinda o rĩothe.
+20. **Hũũra kĩndũ kĩa nyĩmbo kĩrĩa amenyerete.** Mũndũ wahũũraga piano tene no akenio nĩ nyĩmbo nguhĩ; thutha-inĩ, mĩgambo mĩnini hamwe.
+21. **Thikĩrĩria nyĩmbo iria irainagwo hakuhĩ.** Kĩgomano kĩnini kĩa itũũra kana kĩa kwaya. Ikarai hakuhĩ na mũrango.
 
-## Reminiscence: photos, objects and stories
+## Kũririkana: mbica, indo na ng’ano
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Kenai mahinda ma tene hamwe mũtarĩ kũgerania. Tiga ciũria ta «Nĩũririkanaga...?» na «Ũyũ nũũ?», hũthĩra ciugo cia gwĩta ng’ano handũ ha ũguo. Rora [maũndũ ma kũririkana](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Rorai ibuku rĩa mbica.** Uga ũrĩa ũrona: «Kaĩ nguo ĩyo nĩ njega-ĩ. Njĩĩra ũhoro wa mũthenya ũcio.» Ĩtĩkĩra marĩĩtwa marĩa arahũthĩra.
+23. **Thondekai kĩboxi kĩa kũririkania.** Kĩboxi kĩa iraatũ kĩrĩ na indo cia muoyo wake, ta karatĩ ka wĩra kana karatathi ka irio. Ruta kĩndũ kĩmwe o ihinda.
+24. **Thondekai ibuku rĩa ng’ano ya muoyo.** Mbica nini o karatathi hamwe na ũtaũri wa ndemwa nene. Nĩ ũteithagia arĩa angĩ mamũmenye wega.
+25. **Hũthĩrai tũkaratĩ twa kwaranĩria.** [Tũkaratĩ twa kwaranĩria](/games/conversation-cards/) tũnyiitanagia mbica na kĩũria kĩa kwaria ũhoro.
+26. **Thondekai kĩara kĩa mbica cia famĩlĩ.** [Photo pairs](/games/photo-pairs/) itũmaga mbica cianyu mwene ituĩke kĩara kĩa kũringithania.
+27. **Rorai sinema cia mũciĩ kana TV cia tene.** Aranĩriai ũhoro hamwe handũ ha kũũrania ciũria.
+28. **Hutiai indo cia wĩra wake wa tene.** Kĩbanga, stethoscope, ibuku rĩa mahesabu. Kaingĩ moko nĩmo matongoragia ng’ano.
+29. **Rugai irio iria aarĩaga arĩ mũnini.** No ahurie, acame kana aikare riiko-inĩ hamwe nawe.
+30. **Rora ibuku rĩa mabũrũri ma kũndũ aarĩ.** Rũmagĩrĩra njĩra iria amenyerete ibuku-inĩ inene rĩa mabũrũri mũkĩaranĩria.
 
-## Creative activities
+## Maũndũ ma kwĩka na moko
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Wĩra wa moko nĩ wa gwĩka, ti wa gũthondeka kĩndũ kĩega mũno. Hũthĩra indo cia andũ agima na irĩ na ũgitĩri. Rora [wĩra wa moko na ũthondeki](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Haka mbica na rangi wa maaĩ.** Karatathi gakaramu, rangi nini. Kũambĩrĩria kũngĩkorũo kũrĩ kũritũ, tongoriai mĩcoro ya mbere hamwe.
+32. **Haka rangi mĩcoro ya andũ agima.** Mahũa kana mĩcoro ya nguo, ti tũrũme twa twana. [Mabuku maitũ ma kũhaka rangi](/games/coloring/) mekaga thimũ-inĩ kana makĩrintwo.
+33. **Thondekai kolagi.** Tiniai mbica cia mũgũnda, ngari kana irio kuuma ibuku-inĩ cia matangazo mũcinyiitithie. Thutha-inĩ, gũthuura mbica tu no kũiganĩre.
+34. **Haarĩria mahũa.** Mahũa ma thoko na ndigithũ. Thutha-inĩ, mathĩgĩ manini ndigithũ-inĩ.
+35. **Tuma kana hũũra koroshe hamwe.** Mĩhari mĩhũthũ na sindano nene. Thutha-inĩ, kũgĩa ndigi tũbira.
+36. **Thondekai tũkaratĩ twa famĩlĩ.** Hũũra stempu, wĩandĩke kana ũgemie tũkaratĩ twa gũciarwo na twa kũhonio harĩ andũ a ma.
+37. **Ũmba rĩũmba rĩa kwĩumĩria rĩo rĩene.** Haka thaani nini. Hũthĩra indo itarĩ na ũũru na ũikare hakuhĩ.
+38. **Noora na ũthondeke mbaũ.** Kĩboxi kĩa nyũmba ya nyoni kĩrĩ kĩarĩ gĩatinetwo na ibati rĩa kũnoora, hatarĩ mashini. Rora [maũndũ ma arũme](/activities/for-men/).
+39. **Andĩka kana warie marũa.** Harĩ mũcũkũrũ kana mũrata wa tene. Kwandika kũngĩkorũo kũrĩ kũritũ, mũndũ ũcio no aarie nawe ũkĩandĩka.
 
-## Outdoors and gardening
+## Nja na mũgũnda
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Riera rĩega na ũtheri wa mũthenya nĩ mĩrata mĩega. Rora [maũndũ ma nja na mũgũnda](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Itĩrĩra mĩmera maaĩ.** Ndoo nini na nyũngũ nini. Kũitĩrĩra maaĩ o mũthenya gũteithagia mũthenya ũgĩe na mũtaratara.
+41. **Handa mũmera nyũngũ-inĩ.** Mĩige metha-inĩ nĩguo gũtikagĩe mũndũ wa gũturia maru. Tũmera tũnini nĩ tũhũthũ gũkĩra mbeũ.
+42. **Kũruta riya kana kũruta mahũa marĩa momĩte.** Wĩkĩre mogorobũ, na wĩke handũ hanini o ihinda.
+43. **Kũhũrũra mathangũ.** Handũ hanini tu. Thutha-inĩ, kũnyiita mũhuko ũhingũke nĩ wĩra wa ma o naguo.
+44. **Gũceera njĩra ĩrĩa mamenyerete.** Gũthiũrũrũkĩria kũndũ mũtũũraga kana nginya kĩboxi-inĩ kĩa marũa. Njĩra nguhĩ nĩ njega.
+45. **Gũikara nja hamwe.** Gĩtĩ gĩthaku-inĩ mũthenya mũrĩu. Rorai matu kana andũ marahĩtũka.
+46. **Kũhe nyoni irio.** Iyũriai kĩndũ kĩa irio cia nyoni hamwe na mũcirorage kuuma ndirica-inĩ.
+47. **Kũthambia ngari.** Ndoo, thibũnji, hwaĩini ũrĩ na ũrugarĩ. Kũhoro mĩrĩmo ya magũrũ nĩ wĩra mwega wa itigari rĩmwe.
 
-## Sensory activities
+## Maũndũ ma mahĩndĩ
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Kũhutia, kũnungĩra, kũcama, kũigua na kuona ituĩkaga cia bata mũno rĩrĩa mũrimũ wa gũkua mwĩciirĩrie ũthiaga na mbere. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ĩgwetaga nyĩmbo, indo cia kũnyiita na kũmĩrĩra moko harĩ ikinya rĩa kũrigĩrĩria. Rora mbere kana harĩ na mĩrimũ ya kũgwatwo nĩ kĩndũ kana ũgwati wa kũgĩa mũmero; rora [maũndũ ma mahĩndĩ](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Kũmĩrĩra moko.** Mũũrie mbere na ũhũthĩre maguta manini. Hũthĩra matarĩ mũnungo mũingĩ ndũmenyete ũhoro wa ngothi kana wa mĩrimũ ya kũgwatwo.
+49. **Kũhutia nguo cia mĩthemba.** Kĩondo kĩrĩ na nguo cia velvet, corduroy, guoya na satin cia kũhutia na kũgotha.
+50. **Kũnungĩra mboga cia mũtararĩko na kahũa.** Kũnya mũkũndũ kana rosemary moko-inĩ. Tiga mĩnungo mĩingĩ harĩ mũndũ ũrĩ na thĩĩna wa kũhuhia.
+51. **Kũmũcanũra njuĩrĩ.** Kahora na ũhooreri, angĩkorũo nĩakenagio nĩ ũguo.
+52. **Kũhũthĩra taama ĩhiũ.** Ya moko na ũthiũ mũthenya wa heho. Geria ũrugarĩ mbere.
+53. **Kũgeria ebironi ya gwĩkenia.** Tũboci tũnene na zipu cinyiitithĩtio wega. Rora gũtirĩ kĩndũ kĩngĩruta.
+54. **Kũcama kĩndũ kĩega kĩrĩa endete.** Gĩciko kĩnini, kĩrĩ mũthemba ũrĩa angĩhota kũrĩa na ũgitĩri.
+55. **Gũthikĩrĩria mĩgambo ya indo cia kũũmbwo.** Mbura, ndiihũ cia iria kana nyoni ikĩina na mũgambo mũniini.
+56. **Kũrora kĩndũ kĩrathiĩ kahora.** Thamaki thũngũrũrũ-inĩ, video ya indo cia kũũmbwo kana ira rĩkĩgwa.
 
-## Games and puzzles
+## Tũtũra na mĩthako
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Tũtũra tũkoragwo twega rĩrĩa gũtarĩ thaa ya gũtarania, ciatira kana gĩthĩnĩkio. Kĩmwe kĩambĩrĩria kuoneka ta kĩgerio, kĩige. Rora [gũthuura mapu na tũtũra](/caregiving/choosing-apps-and-games/) na [tũtũra twa kwĩroria](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Kũringithania mbica.** [Picture pairs](/games/picture-pairs/) nĩ ĩrekaga mbica cionekage, nĩ ũndũ ũcio nĩ ũndũ wa kuona, ti wa kũririkana.
+58. **Kuona mbica ĩhaanaine.** [Find the same](/games/find-the-same/) ĩheanaga mĩthuuro ĩĩrĩ nginya ĩna. Aranĩriai ũhoro wa o mbica.
+59. **Gũtherania ikondo-inĩ.** [Sort together](/games/sort-together/) nĩ ta gũtherania thogithi thimũ-inĩ.
+60. **Kũrũmia mĩthako ya icunjĩ inene.** Mbica cia andũ agima, na icunjĩ nini. [Picture puzzle](/games/picture-puzzle/) ĩrekaga mbica yothe ĩonekage. Meciiria mangĩ harĩ [mĩthako ya andũ arĩ na mũrimũ wa gũkua mwĩciirĩrie](/activities/puzzles/).
+61. **Kũruta kĩara kĩa karati kĩa tene.** Kĩrĩa marutaga mĩaka mĩingĩ. Thutha-inĩ, gũtherania karati kũringana na rangi no gũtuĩke kĩara.
+62. **Kũruta domino.** Ringithania mĩthia. Thutha-inĩ, kũmĩrũmia mũhari no kũiganĩre.
+63. **Gũcaria ciugo cia ndemwa nene.** [Word search](/games/word-search/) ĩrĩ na ciugo cia gũthiĩ na mwena wa ũrĩo na wa thĩ tu, na no ĩrintwo.
+64. **Kũrĩkia thimo iria mamenyerete.** [Finish the saying](/games/finish-the-saying/) nĩ ĩrekaga muone mũthia ihinda o rĩothe.
+65. **Kũruta mbica bingo.** [Picture bingo](/games/picture-bingo/) nĩ njega harĩ famĩlĩ na ikundi. Teithiai gũcooka tũrũũri hatarĩ thĩĩna.
+66. **Kũruta damu.** Tiga mawatho marũhĩĩgio mũno. Kũruta mbaara-inĩ mũkĩaranĩria no kũiganĩre.
 
-## Movement
+## Kwĩnyogonia mwĩrĩ
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA ĩtaaragia gũceera, kũhũũra baiskeli ĩtarathiĩ kũndũ, kũrũngĩrĩria tũbande, gũikania mũbira mũororo kana balũni, kũoya tũkopo twa thũpu na video cia kwĩroria mwĩrĩ cia andũ akũrũ. Aria na ndagĩtarĩ mbere ya kwambĩrĩria ũndũ mwerũ, makĩria harĩ na thĩĩna wa kũrũgama.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Gũikania balũni.** Ikarai mũkĩũnganaga. Ĩthiaga kahora, nĩ ũndũ ũcio nĩ ĩhũthũ kũnyiita.
+68. **Rũmagĩrĩrai video ya kwĩroria mwĩrĩ mũikarĩte** ĩthondekeirũo andũ akũrũ, mũrĩ hamwe.
+69. **Kwĩrũngĩrĩria na kabande.** Kũgucia moko kahora na kabande kahũthũ mũikarĩte.
+70. **Kũoya tũkopo twa thũpu.** Kũambararia moko kahora, no mũhote kũmekĩra nyĩmbo.
+71. **Kũhũũra baiskeli ĩtarathiĩ kũndũ.** Ndakika nini na hinya mũnini, ũrĩ hakuhĩ.
+72. **Kũrũgarũga na itambaya.** Inyogonia itambaya ihũthũ kũringana na nyĩmbo, mũikarĩte kana mũrũgamĩte.
+73. **Gũceera mũrĩ na gĩtũmi.** Gũtwara marũa kana kũgũra kahũa. Gĩtũmi kĩa gũthiĩ gĩkoragwo kĩrĩ kĩa ndũire.
+74. **Kũhurũka na kũhuhia hamwe.** Hoorera hamwe na [kũhuhia na ũhooreri](/games/calm-breathing/).
 
-## Social activities
+## Maũndũ ma gũkorũo na andũ angĩ
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Gũkorũo na andũ nĩ kwa bata o na rĩrĩa marĩĩtwa maritũha, na ikundi nini nĩ ihũthũ gũkĩra nene. NIA yugaga atĩ mũndũ no akorũo ataririkanaga mũgeni nũũ, no akenio nĩ gũkorũo hamwe nake. Rora [gũceerera](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Gĩa na mũgeni ũmwe kana eerĩ o ihinda.** Gũceerera kwa ihinda inini nyũmba ĩtarĩ na inegene, mũrĩ na mbica cia kũrora.
+76. **Aria na famĩlĩ na video.** Mĩario mĩkuhĩ, mũgambo ũmwe o ihinda. Rora [mĩario ya thimũ na ya video](/activities/phone-and-video-calls/).
+77. **Geria gĩceerera kĩa kũririkania.** Mĩcemanio ya kwĩyendera harĩ andũ arĩa matũũraga na mũrimũ wa gũkua mwĩciirĩrie na arĩa mamamenyagĩrĩra. Ũria kĩrĩndĩ kĩa gũteithia andũ akũrũ kũu mũtũũraga kana harĩ kĩndũ ta ũguo hakuhĩ.
+78. **Rĩa nja ihinda rĩtarĩ andũ aingĩ.** NIA ĩtaaragia mũkawa ũrĩa mumenyerete, ũtarĩ na inegene, ihinda rĩtarĩ andũ aingĩ, na metha hakuhĩ na kanyũmba ka ũthiũ.
+79. **Ceerera kĩrĩndĩ kĩa andũ akũrũ kana handũ ha gũikinyĩra mũthenya.** Nĩ ũndũ wa gũkorũo na andũ harĩ we na kũhurũka harĩ wee.
+80. **Gũikara na ciana.** Gũceerera gũkuhĩ na kũhooreire kwa twana twa ciana cianyu, kana gũthomera mwana mũnini ibuku rĩa mbica.
+81. **Rora ngathĩti hamwe mũkĩnyua kahũa.** Thoma mĩtwe ya ngathĩti na mũgambo. Mũtugo ũcio nĩ wa bata gũkĩra ũhoro ũcio mwene.
+82. **Teithia mũndũ ũngĩ.** Gotha maratathi ma kanitha kana thondeka gũkaratĩ harĩ mũndũ wa itũũra.
 
-## Faith and spiritual activities
+## Maũndũ ma wĩtĩkio na ma roho
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Rũmagĩrĩra mũtugo wa wĩtĩkio wa mũndũ ũcio, kana ũndũ ũngĩ o wothe ũngĩmwagĩrĩra. NIA ĩgwetaga mathomo marĩa mamenyereire, gũthoma Maandĩko, nyĩmbo cia wĩtĩkio, mahooya, gwĩcũrania na mĩtugo ya mĩthenya mĩnene.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Thiĩ mathomo-inĩ marĩa mamenyerete.** Thuura marĩa matarĩ na andũ aingĩ, ikarai hakuhĩ na njĩra, na ũmenyithie andũ arĩa marĩ kuo ũhoro wa mũrimũ wa gũkua mwĩciirĩrie.
+84. **Rora mathomo na thimũ** mĩthenya ĩrĩa gũthiĩ nja kũritũha.
+85. **Hoyai kana mũthome hamwe.** Ciugo iria mamenyereire, mũkĩthomaga kahora. No anyiitanĩre nacio harĩ gĩcunjĩ kĩrĩa amenyerete.
+86. **Inai nyĩmbo cia kanitha kana cia wĩtĩkio** cia mũtugo wake.
+87. **Rũmagia mĩtugo ya mĩthenya mĩnene.** Matawa ma bateri, kĩrathimo, na mathaga marĩa maahũthagĩra hĩndĩ ciothe.
+88. **Ikarai na ũhooreri hamwe.** Ikarai mũgũnda-inĩ kana mũrorage riũa rĩkĩriga kũhũa hamwe.
 
-## Pets and animals
+## Nyamũ cia mũciĩ na nyamũ ingĩ
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA ĩtaaragia kũhe nyamũ irio, kũmĩcanũra, kũmĩceerithia, kana gũikara na gũmĩnyiita.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Canũra ngui kana kanyau gatarĩ na ngũĩ** na mĩkonjo mĩraihu na mĩhooreire.
+90. **He nyamũ irio hamwe.** Wee thima irio; we aikĩrĩre.
+91. **Ceerithia ngui hamwe.** Wee nyiita mũkwa.
+92. **Kũnyiita nyamũ maru-inĩ.** Kanyau gatarĩ na ngũĩ karĩ ibarũgũ-inĩ no kahoorerie mũndũ.
+93. **Amũkĩra nyamũ iria iciarĩirũo.** Mĩciĩ ya kũrũmbũiya andũ na handũ ha gũikinyĩra mũthenya ĩmwe ĩkoragwo na mĩceera ya nyamũ. Ũria kũu mũtũũraga.
+94. **He nyamũ ya nguo ĩhaanaine na ya ma.** Gũtarĩ nyamũ ya ma, andũ amwe nĩmakenagio nĩ kũnyiita kanyau kana ngui ya nguo ĩhaanaine na ya ma. Mĩhe o ũguo, ti ta kĩndũ gĩa gwĩkenia gĩa twana, na ĩtĩkĩra angĩrega.
 
-## Seasonal activities
+## Maũndũ ma imera
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Rũmagia mĩtugo, no ũmĩhũthie makĩria. NIA ĩtaaragia gũtua maũndũ marĩa mangĩhoteka na kũgĩa na handũ ha ũhooreri ha kũhurũkĩra mĩthenya-inĩ mĩnene ĩrĩ na andũ aingĩ.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Gemagia mũciĩ kũringana na imera.** Ihenya, mũrĩnga wa mũrango kana mahũa merũ metha-inĩ.
+96. **Ruga kĩndũ kĩega kĩa mũthenya ũcio.** Kũgĩa mũtu kana kũhaka biskuti icing. Wee wĩke wĩra wa riko.
+97. **Kũhamba mathaga.** Mathaga matangĩũrĩka, ũkamũnengera ĩmwe o ihinda.
+98. **Gũthiĩ na ngari kuona matawa.** Gũthiĩ na ngari hwaĩini kwa ihinda inini gũtiendaga ũndũ ũngĩ tiga gũkorũo hamwe.
+99. **Handa tũbũbũ twa gĩthimo.** Handa tũbũbũ nyũngũ-inĩ hĩndĩ ya gĩathĩ na weterere tũmĩre.
+100. **Kũruta mahuti ma mbembe kana kũruta njegũ mboco-inĩ.** Wĩra wa gĩthaku-inĩ hĩndĩ ya riũa, mũrĩ na mbakũri maru-inĩ.
+101. **Kwĩandĩkĩra tũkaratĩ twa mĩthenya mĩnene.** We ekĩandĩke, ekĩre stempu kana ahinge; wee wĩke wĩra wa marandĩresĩ.
 
-## What if an activity is not working?
+## Ĩ mangĩkorũo ũndũ ũcio ndũrathiĩ wega?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Tiga, na ũgerie ũndũ ũngĩ ihinda rĩngĩ. NIA ĩtaaragia kũrora kũrakara na kũreka mũndũ ũcio arorage tu angĩkorũo nĩguo endete. Kũrega kaingĩ kuonagia atĩ wĩra ũcio nĩ mũritũ, ihinda ti rĩega, kana harĩ na ũndũ ũngĩ ũramũthĩĩnia, ta ruo, ng’aragu kana inegene. Ũtue mũhũthũ makĩria, geria tene mũthenya, kana wee mwene wambĩrĩrie na ũrone kana nĩegũnyiitanĩra nawe. Rora [rĩrĩa arega](/caregiving/when-they-say-no/) na [kũaga ũhurũko hwaĩini](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Nĩguo ũmenye ũrĩa ũngĩiganĩra maũndũ maya gatagatĩ ka irio na kũhurũka, rora [mũtaratara mũhooreire wa mũthenya](/activities/daily-routine/). Nĩguo ũmenye indo iria ũngĩkorũo wĩhaarĩirie nacio, rora [maũndũ ma kũrinta](/activities/printable/), na angĩkorũo ũtongoragia gĩkundi, rora [maũndũ ma ikundi cia kũndũ gwa kũrũmbũiya](/activities/care-home-groups/). Kũhurũka gwaku nawe nĩ kwa bata: rora [kwĩmenyagĩrĩra harĩ mũrori](/caregiving/caregiver-self-care/).

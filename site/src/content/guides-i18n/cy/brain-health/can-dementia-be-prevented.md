@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "A oes modd atal dementia? Beth mae'r ymchwil yn ei ddweud"
+seoTitle: "Atal dementia? Beth mae'r ymchwil yn ei ddweud"
+description: "Beth ganfu Comisiwn Lancet 2024 a phrif dreialon am ostwng risg dementia, beth na wnaethant ei ganfod, a chamau i'w trafod gyda meddyg."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Ni all neb addo atal dementia. Amcangyfrifodd Comisiwn Lancet 2024 fod bron i
+  hanner yr achosion o ddementia ledled y byd yn gysylltiedig â 14 ffactor risg y
+  gellir eu newid o bosibl, fel pwysedd gwaed uchel, colli clyw ac anweithgarwch.
+  Mae treialon yn dangos effeithiau bach ar brofion meddwl, nid prawf o lai o
+  achosion dementia. Mae llawer o bobl sy'n gwneud popeth “yn iawn” yn dal i
+  ddatblygu dementia, ac nid bai neb ydyw.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Cysylltodd Comisiwn Lancet 2024 tua 45% o achosion dementia ledled y byd â 14 o ffactorau risg y gellir eu newid o bosibl. Amcangyfrif ar gyfer poblogaethau yw hynny, nid addewid bersonol."
+  - "Mae lleihau risg yn golygu gostwng y tebygolrwydd ar draws poblogaeth gyfan. Nid yw'n golygu y gall unrhyw un person osgoi dementia."
+  - "Canfu treialon mawr fel FINGER, US POINTER a SPRINT MIND fanteision bach ar brofion meddwl neu nam gwybyddol ysgafn, ond ni phrofodd yr un ohonynt fod rhaglen ffordd o fyw yn atal dementia."
+  - "Oedran yw'r ffactor risg mwyaf hysbys ar gyfer clefyd Alzheimer, ac ni ellir ei newid. Mae llawer o bobl ag arferion iach yn dal i ddatblygu dementia."
+  - "Mae'n werth trafod y camau sy'n cael eu hastudio amlaf, fel trin pwysedd gwaed uchel, defnyddio cymhorthion clyw a chadw'n egnïol, gyda meddyg oherwydd eu bod yn helpu iechyd mewn ffyrdd eraill hefyd."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "A oes modd atal dementia?"
+    a: "Nid oes ffordd brofedig o atal dementia i unrhyw un person. Mae ymchwil yn awgrymu y gallai gostwng rhai risgiau, fel pwysedd gwaed uchel, colli clyw heb ei drin ac ysmygu, ostwng y siawns o ddementia ar draws poblogaeth neu ohirio pryd mae'n dechrau. Tebygolrwyddau yw'r rhain, nid addewidion."
+  - q: "Beth mae'r ffigur o 45% o Gomisiwn Lancet yn ei olygu?"
+    a: "Amcangyfrifodd Comisiwn Lancet 2024 fod tua 45% o achosion dementia ledled y byd yn gysylltiedig â 14 o ffactorau risg y gellid, mewn damcaniaeth, eu newid. Mae'r amcangyfrif yn tybio bod y ffactorau hynny'n achosi dementia, ac mae'r awduron yn nodi y gallai rhai cysylltiadau fod yn rhannol achosol yn unig. Mae'n disgrifio poblogaethau cyfan ac nid yw'n dweud wrthych beth yw risg unrhyw unigolyn."
+  - q: "Os oedd gan fy rhiant ffordd iach o fyw, pam wnaethant ddatblygu dementia?"
+    a: "Mae oedran, genynnau a llawer o ffactorau nad oes gan neb reolaeth drostynt yn chwarae rhan fawr mewn dementia. Mae awduron Comisiwn Lancet yn nodi nad yw lleihau risg ar draws poblogaeth yn gwarantu y bydd unrhyw unigolyn yn osgoi dementia. Nid yw diagnosis yn arwydd bod unrhyw un wedi methu."
+  - q: "A yw'n rhy hwyr i ostwng risg dementia ar ôl 65 oed?"
+    a: "Mae Comisiwn Lancet yn dweud nad yw byth yn rhy gynnar nac yn rhy hwyr i leihau risg, er bod llawer o'r dystiolaeth yn ymwneud â chanol oed. Mae trin problemau clyw a golwg, cadw'n egnïol a chadw mewn cysylltiad â phobl yn enghreifftiau o gamau yn ddiweddarach mewn bywyd a astudiwyd. Siaradwch â meddyg am yr hyn sy'n addas i'ch iechyd."
+  - q: "A yw gemau ymennydd neu ddeietau arbennig yn atal dementia?"
+    a: "Nid oes unrhyw gêm, bwyd, atodiad na deiet wedi'i brofi i atal dementia. Ni chanfu treial tair blynedd ar ddeiet MIND unrhyw wahaniaeth sylweddol mewn meddwl o'i gymharu â deiet rheoli, ac nid yw apiau hyfforddi'r ymennydd masnachol wedi dangos yr effeithiau a welwyd mewn treialon ymchwil."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Os ydych chi'n gofalu am rywun sy'n byw gyda dementia, neu os ydych chi wedi gweld rhiant yn byw ag ef, mae'n debyg eich bod wedi meddwl tybed a ellid bod wedi'i atal, ac a allwch chi atal iddo ddigwydd i chi. Mae'r dudalen hon yn egluro'r hyn mae'r ymchwil yn ei ddweud mewn gwirionedd, mewn iaith glir. Yr ateb byr: ni all neb addo atal dementia, ond mae ymchwil yn awgrymu y gellir gostwng rhai risgiau, ac y gallai eu gostwng ar draws poblogaeth olygu bod llai o bobl yn datblygu dementia neu'n ei ddatblygu'n hwyrach.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Gwybodaeth gyffredinol yw hon, nid cyngor meddygol. Darllenwch ein [hysbysiad meddygol](/medical-disclaimer/) a siaradwch â meddyg am eich iechyd eich hun.
 
-## Can dementia be prevented?
+## A oes modd atal dementia?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Nid oes ffordd brofedig o atal dementia i unrhyw un person. Mae'r National Institute on Aging (NIA) yn dweud, er [nad oes dim wedi'i brofi eto i atal clefyd Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), fod ymchwilwyr wedi canfod strategaethau addawol ac yn dysgu beth all weithio a beth na all.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Yr hyn y mae ymchwil *yn* ei ddangos yw bod rhai cyflyrau iechyd ac arferion yn gysylltiedig â siawns uwch o ddementia. Pan fydd y risgiau hynny'n is ar draws poblogaeth gyfan, gallai llai o bobl ddatblygu dementia, neu gallent ei ddatblygu'n hwyrach mewn bywyd. Mae hynny'n wahanol iawn i warant.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Un arwydd gobeithiol: adroddodd Comisiwn Lancet 2024, mewn rhai gwledydd incwm uchel, gan gynnwys yr Unol Daleithiau a'r DU, fod cyfran y bobl hŷn â dementia wedi gostwng. Mae'r awduron yn meddwl bod hyn yn debyg oherwydd addysg well, gofal iechyd gwell a llai o niwed i bibellau gwaed dros oes, yn ôl [crynodeb University College London o'r adroddiad](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Beth ganfu Comisiwn Lancet 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Mae Comisiwn Lancet ar atal, ymyrryd a gofalu am ddementia yn grŵp o 27 o ymchwilwyr dementia sy'n adolygu'r dystiolaeth bob ychydig flynyddoedd. Enwodd eu hadroddiad yn 2024 **14 o ffactorau risg** y gellir eu newid o bosibl, ac amcangyfrifodd eu bod gyda'i gilydd yn cyfrif am **bron i hanner (tua 45%) o achosion dementia ledled y byd**. Yng ngeiriau'r awduron, gellid *yn ddamcaniaethol* atal neu ohirio'r achosion hyn pe bai'r risgiau'n cael eu dileu ([adroddiad Comisiwn Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Y 14 ffactor, wedi'u grwpio yn ôl y cam bywyd lle mae'r dystiolaeth gryfaf:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Bywyd cynnar:** llai o addysg.
+- **Canol oed (tua 40 i 65 oed):** colli clyw, colesterol LDL (“drwg”) uchel, iselder, anaf i'r pen, anweithgarwch corfforol, diabetes, ysmygu, pwysedd gwaed uchel, gordewdra ac yfed trwm.
+- **Yn ddiweddarach mewn bywyd:** unigedd cymdeithasol, llygredd aer, a cholli golwg heb ei drin.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Y ddau ychwanegiad newydd yn 2024 oedd colesterol LDL uchel a cholli golwg heb ei drin. Y ffactorau a oedd yn gysylltiedig â'r gyfran fwyaf o achosion oedd colli clyw a colesterol LDL uchel (tua 7% yr un), wedi'u dilyn gan lai o addysg ac unigedd cymdeithasol (tua 5% yr un).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Mae ein [canllaw ffactorau risg](/brain-health/risk-factors/) yn mynd drwy bob un o'r 14 mewn tabl, gyda'r hyn y mae'r ymchwil yn ei gysylltu a'r hyn y gallwch ei wneud.
 
-### What the 45% figure does not mean
+### Beth nad yw'r ffigur o 45% yn ei olygu
 
-It is easy to misread this number, so it helps to be precise:
+Mae'n hawdd camddarllen y rhif hwn, felly mae'n help bod yn fanwl gywir:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Amcangyfrif ar gyfer poblogaethau ydyw.** Mae'n disgrifio achosion dementia ledled y byd, nid eich siawns chi na siawns y person rydych chi'n gofalu amdano.
+- **Mae'n tybio achos ac effaith.** Mae'r awduron yn dweud eu bod wedi cynnwys dim ond ffactorau risg gyda thystiolaeth argyhoeddiadol, ond y gallai rhai cysylltiadau fod yn rhannol achosol yn unig. Er enghraifft, gallai iselder yn ddiweddarach mewn bywyd weithiau fod yn symptom cynnar o ddementia yn hytrach nag achos.
+- **Nid yw'n gwarantu dim i un person.** Mae crynodeb UCL yn nodi bod lleihau risg yn gweithio ar lefel poblogaeth ac nad yw'n gwarantu y bydd unrhyw unigolyn yn osgoi dementia.
+- **Nid yw'r hanner arall yn cael ei esbonio gan y ffactorau hyn.** Mae oedran, genynnau ac achosion nad yw gwyddonwyr yn eu deall eto yn cyfrif am y gweddill.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Beth yw'r gwahaniaeth rhwng “lleihau risg” ac “atal”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+Mae **lleihau risg** yn golygu gostwng y tebygolrwydd. Os bydd grŵp mawr o bobl yn gostwng eu pwysedd gwaed, gallai llai ohonynt ddatblygu dementia dros lawer o flynyddoedd nag a fyddai fel arall. Bydd rhai unigolion yn y grŵp hwnnw'n dal i'w ddatblygu.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+Mae **atal** yn awgrymu stopio rhywbeth rhag digwydd o gwbl. Ar gyfer dementia, nid yw hynny'n rhywbeth y gall ymchwil ei addo i unrhyw un heddiw.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Mae ymchwilwyr hefyd yn sôn am **ohirio**. Mae Comisiwn Lancet yn adrodd tystiolaeth newydd y gallai lleihau risg wthio'n ôl pryd mae dementia'n dechrau a byrhau'r amser y mae person yn byw gydag iechyd gwael. Gall hyd yn oed oedi o ychydig flynyddoedd wneud gwahaniaeth mawr i berson a'u teulu.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Ar y wefan hon, rydym yn defnyddio “lleihau risg” ac “yn gysylltiedig â” yn fwriadol. Pan welwch chi gynnyrch, atodiad neu raglen sy'n addo “atal clefyd Alzheimer”, byddwch yn ofalus. Mae'r NIA yn cynghori siarad â meddyg cyn rhoi cynnig ar unrhyw bilsen neu driniaeth sy'n addo atal clefyd Alzheimer, oherwydd gall cynhyrchion o'r fath fod yn anniogel, yn wastraff arian, neu'r ddau.
 
-## What have large trials found?
+## Beth mae treialon mawr wedi'i ganfod?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Gall astudiaethau arsylwi (sy'n gwylio'r hyn sy'n digwydd i bobl dros amser) ddangos cysylltiadau. Treialon ar hap, lle mae pobl yn cael eu neilltuo i raglen neu grŵp cymharu ar hap, yw'r prawf cryfach. Dyma beth ganfu rhai o'r treialon mwyaf adnabyddus.
 
-### FINGER (Finland)
+### FINGER (Y Ffindir)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Cofrestrodd treial FINGER 1,260 o oedolion 60 i 77 oed a oedd â risg uwch o ddementia. Cafodd hanner raglen ddwy flynedd o gyngor ar ddeiet, ymarfer corff, ymarferion ymennydd ar gyfrifiadur a gwiriadau ar iechyd y galon a'r pibellau gwaed; cafodd yr hanner arall gyngor iechyd cyffredinol. Gwnaeth grŵp y rhaglen ychydig yn well ar set o brofion meddwl, gwahaniaeth bach ond ystadegol arwyddocaol ([treial FINGER yn The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Mesurodd y treial ganlyniadau profion, nid diagnosis dementia.
 
-### US POINTER (United States)
+### US POINTER (Unol Daleithiau)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+Cofrestrodd US POINTER 2,111 o oedolion 60 i 79 oed a oedd yn anweithgar, â deiet llai iach ac â ffactorau risg eraill. Anogwyd y ddau grŵp i fod yn fwy egnïol yn gorfforol ac yn feddyliol, bwyta'n well, cadw'n gymdeithasol a monitro iechyd y galon. Cafodd un grŵp raglen strwythuredig gyda hyfforddwr; arweiniodd y llall ei hun. Dros ddwy flynedd, gwellodd canlyniadau profion meddwl yn **y ddau** grŵp, ac ychydig yn fwy yn y grŵp strwythuredig ([treial US POINTER yn JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Mae'r awduron yn dweud bod angen mwy o ddilyniant i wybod a yw'r gwahaniaeth yn bwysig mewn bywyd bob dydd. Gan nad oedd grŵp “gwneud dim”, ni all y treial ddweud faint y gwnaeth y naill raglen neu'r llall helpu o'i gymharu â dim newid o gwbl.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (pwysedd gwaed)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+Astudiodd SPRINT MIND 9,361 o oedolion 50 oed a hŷn yn yr Unol Daleithiau gyda phwysedd gwaed uchel. Cawsant eu neilltuo i nod pwysedd gwaed is (rhif uchaf o dan 120) neu'r nod safonol (o dan 140). Fe wnaeth y nod is leihau **nam gwybyddol ysgafn** yn sylweddol, cam o broblemau cof a meddwl a all ddod cyn dementia. Ar gyfer **dementia tebygol**, roedd llai o achosion yn y grŵp nod is, ond nid oedd y gwahaniaeth yn ystadegol arwyddocaol. Stopiodd y treial yn gynnar ac roedd ganddo lai o achosion dementia na'r disgwyl, felly efallai ei fod yn rhy fach i ateb y cwestiwn hwnnw ([SPRINT MIND yn JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Beth mae'r adolygiadau'n ei ddangos gyda'i gilydd
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Cyfunodd adolygiad Cochrane yn 2021 naw treial mawr ar raglenni sy'n mynd i'r afael â sawl risg ar unwaith, gyda mwy na 18,000 o bobl. Canfu fudd bach ar brofion meddwl, ond **dim gwahaniaeth clir yn nifer y bobl a ddatblygodd ddementia** yn y ddau dreial a fesurodd hynny ([adolygiad Cochrane o ymyriadau aml-barth](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Canfu adolygiad yn 2017 gan Academïau Cenedlaethol y Gwyddorau, Peirianneg a Meddygaeth, a grynhowyd gan yr NIA, dystiolaeth “galonogol ond amhendant” ar gyfer tri dull: rheoli pwysedd gwaed uchel, cynyddu gweithgarwch corfforol, a hyfforddiant gwybyddol.
 
-## Does it matter when you start?
+## A yw'n bwysig pryd rydych chi'n dechrau?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Cyngor Comisiwn Lancet yw lleihau risgiau cyn gynted â phosibl a'u cadw'n isel am gyn hired â phosibl: “po gynharaf, gorau” a “po hiraf, gorau”. Mae hefyd yn dweud nad yw byth yn rhy gynnar nac yn rhy hwyr i leihau risg. Mae llawer o'r dystiolaeth yn ymwneud â chanol oed, tua 40 i 65 oed, ond mae rhai ffactorau, fel colli golwg ac unigedd cymdeithasol, yn risgiau'n ddiweddarach mewn bywyd lle gall gweithredu barhau i wneud synnwyr.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Mae'r adroddiad yn dweud bod tystiolaeth gryfach bellach fod dod i gysylltiad â risg am gyfnod hirach yn cael effaith fwy. Er enghraifft, mae'n ymddangos bod diabetes sy'n dechrau yng nghanol oed yn bwysicach na diabetes sy'n dechrau'n hwyrach.
 
-## Is dementia risk the same for everyone?
+## A yw risg dementia yr un peth i bawb?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nac ydy. Canfu'r Comisiwn fod pobl mewn gwledydd incwm isel a chanolig, pobl o grwpiau lleiafrifol a phobl â llai o arian yn aml yn cario mwy o'r risgiau hyn, felly mae dementia'n tueddu i ddatblygu'n iau. Mae llawer o risgiau'n gysylltiedig ag amgylchiadau na ddewisodd pobl, fel ansawdd yr addysg a gawsant yn blant, yr aer lle maent yn byw, ac a yw bwyd iach yn fforddiadwy ac yn agos.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Dyna pam mae argymhellion y Comisiwn wedi'u hanelu at lywodraethau gymaint ag at unigolion: addysg dda i bob plentyn, aer glanach, camau i leihau ysmygu, llai o siwgr a halen mewn bwyd a werthir mewn siopau a bwytai, a chymhorthion clyw i bawb sydd eu hangen. Mae ymdrech unigol yn bwysig, ond felly hefyd y byd y mae pobl yn byw ynddo. Mae'n rheswm arall i beidio â beio unrhyw un am ddiagnosis.
 
-## What are the honest limits of this research?
+## Beth yw terfynau gonest yr ymchwil hwn?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Mae dementia'n cymryd degawdau i ddatblygu**, ond mae'r rhan fwyaf o dreialon yn para dwy i bum mlynedd. Mae mesur dementia ei hun, nid dim ond canlyniadau profion, angen astudiaethau hir iawn a mawr iawn.
+- **Mae'r rhan fwyaf o dreialon yn mesur profion meddwl.** Nid yw gwelliant bach ar brawf o reidrwydd yn golygu y bydd llai o bobl yn datblygu dementia nac y bydd bywyd bob dydd yn haws.
+- **Mae gwirfoddolwyr yn aml yn iachach** ac yn fwy addysgedig na'r cyhoedd yn gyffredinol. Mae Comisiwn Lancet yn nodi bod y rhan fwyaf o'r dystiolaeth yn dal i ddod o wledydd incwm uchel a bod grwpiau lleiafrifol wedi'u tangynrychioli.
+- **Mae rhai cysylltiadau'n gweithio'r ddwy ffordd.** Gall bod yn llai egnïol neu'n llai cymdeithasol fod yn effaith gynnar o ddementia, nid dim ond achos.
+- **Mae treialon deiet wedi bod yn siomedig hyd yma.** Ni chanfu treial tair blynedd ar ddeiet MIND unrhyw wahaniaeth sylweddol mewn meddwl o'i gymharu â deiet rheoli. Gweler ein [canllaw deiet](/brain-health/diet/).
+- **Nid yw gemau ymennydd wedi'u profi i atal dementia.** Gweler ein canllaw ar [gemau ymennydd a dementia](/brain-health/brain-games/).
+- **Mae tystiolaeth ddynol gyfyngedig iawn ar ymprydio**, a gall fod yn beryglus i oedolion hŷn. Gweler ein [canllaw ymprydio](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Os gwnaeth rhywun bopeth “yn iawn”, pam wnaethant ddal i ddatblygu dementia?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Oherwydd nid dewis yw dementia yn unig. Mae'r NIA yn dweud mai [oedran yw'r ffactor risg mwyaf hysbys ar gyfer clefyd Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), ac ni all neb ei newid. Mae genynnau'n chwarae rhan. Ac nid yw gwyddonwyr eto'n deall yn llawn beth sy'n achosi clefyd Alzheimer yn y rhan fwyaf o bobl. Hyd yn oed pe bai pob un o'r 14 ffactor risg yn cael eu dileu, mae amcangyfrif Comisiwn Lancet ei hun yn gadael mwy na hanner yr achosion heb eu hesbonio.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Felly os ydych chi'n gofalu am rywun a oedd yn ymarfer corff, yn bwyta'n dda, byth yn ysmygu ac yn dal i ddatblygu dementia, ni aeth dim o'i le ar eu rhan hwy, nac ar eich rhan chi. Os ydych chi'n byw gyda dementia eich hun, nid eich bai chi ydyw. Mae euogrwydd yn gyffredin ymhlith teuluoedd, ond nid yw'n haeddiannol. Yr hyn sy'n bwysig nawr yw cysur, cysylltiad a diwrnodau da, ac mae ein [syniadau am weithgareddau](/activities/ideas/) a'n [canllaw hunanofal i ofalwyr](/caregiving/caregiver-self-care/) yn lle da i ddechrau.
 
-## What steps can you talk over with a doctor?
+## Pa gamau allwch chi eu trafod gyda meddyg?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Dyma'r meysydd sy'n cael eu hastudio amlaf. Mae'n werth eu codi mewn apwyntiad oherwydd bod y rhan fwyaf ohonynt yn helpu iechyd y galon, hwyliau ac annibyniaeth hefyd, beth bynnag fydd eu heffaith ar ddementia yn y pen draw.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Pwysedd gwaed.** Gofynnwch beth yw eich rhifau a pha nod sy'n addas i chi. Mae Comisiwn Lancet yn awgrymu anelu at rif uchaf o 130 neu is o tua 40 oed, ond mae'r targed iawn i oedolyn hŷn yn dibynnu ar eu hiechyd cyffredinol.
+2. **Clyw.** Gofynnwch am brawf clyw, ac a fyddai cymhorthion clyw o gymorth. Mae ein [canllaw clyw](/brain-health/hearing/) yn egluro'r ymchwil.
+3. **Golwg.** Ewch am archwiliadau llygaid rheolaidd a gofynnwch a ellir trin problemau fel cataractau.
+4. **Colesterol.** Gofynnwch a ddylid gwirio eich colesterol LDL ac a ddylai unrhyw beth newid.
+5. **Siwgr yn y gwaed.** Os oes gennych ddiabetes, gofynnwch sut i'w reoli'n ddiogel.
+6. **Hwyliau.** Mae iselder yn gyffredin ac yn gallu cael ei drin. Dywedwch wrth eich meddyg os ydych chi wedi teimlo'n isel neu wedi colli diddordeb mewn pethau am fwy na chwpl o wythnosau.
+7. **Ysmygu ac alcohol.** Gofynnwch am gymorth i roi'r gorau i ysmygu ac am derfynau diogel ar gyfer alcohol.
+8. **Symud.** Gofynnwch pa fath o weithgarwch sy'n ddiogel i chi. Mae gan ein [canllaw ymarfer corff](/brain-health/exercise/) syniadau.
+9. **Amddiffyn y pen.** Gwisgwch helmed wrth feicio ac wrth chwarae chwaraeon cyswllt, a gofynnwch am atal cwympiadau.
+10. **Cadw mewn cysylltiad.** Mae amser gyda phobl eraill yn rhan o fywyd iach. Gweler ein canllaw ar [gysylltiad cymdeithasol](/brain-health/social-connection/), a [chysgu](/brain-health/sleep/) hefyd.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Cyn newid meddyginiaethau, deiet, atodiadau, ymprydio neu ymarfer corff, siaradwch â'ch meddyg yn gyntaf, yn enwedig os oes gennych glefyd y galon, diabetes, hanes o gwympiadau, neu os ydych chi eisoes yn byw gyda dementia.
 
-## Talk with a doctor
+## Siaradwch â meddyg
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Os byddwch chi'n sylwi ar newidiadau cof neu feddwl sy'n eich poeni, ynoch chi eich hun neu mewn rhywun arall, gwnewch apwyntiad. Mae'r NIA yn nodi y gall [problemau cof gael achosion eraill](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), fel sgil-effeithiau meddyginiaethau, problemau thyroid, iselder neu lefel isel o fitamin B12, ac y gall rhai o'r problemau hyn ddiflannu unwaith y bydd yr achos yn cael ei drin. Mae ein [canllaw arwyddion rhybudd](/brain-health/warning-signs/) yn egluro beth i edrych amdano.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Mynnwch help brys** ar gyfer newidiadau sydyn: gall dryswch sydyn, gwendid neu ddiffyg teimlad ar un ochr, trafferth siarad, neu gur pen difrifol fod yn arwyddion o strôc neu argyfwng arall. Ffoniwch 999.
 
-## Where Golden Moments fits
+## Lle mae Golden Moments yn ffitio
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Mae Golden Moments yn cynnig gweithgareddau syml i'w gwneud gyda'ch gilydd, fel [cardiau sgwrs](/games/conversation-cards/), [bingo lluniau](/games/picture-bingo/) ac [egwyl anadlu tawel](/games/calm-breathing/). Maent ar gyfer mwynhad ac amser gyda'ch gilydd. Nid ydynt yn driniaeth, ac nid ydynt yn atal nac yn arafu dementia.

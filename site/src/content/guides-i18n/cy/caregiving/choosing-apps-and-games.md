@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Sut i Ddewis Apiau a Gemau Dementia"
+seoTitle: "Sut i Ddewis Apiau a Gemau Dementia: Rhestr Wirio"
+description: "Rhestr wirio i ofalwyr ar gyfer dewis apiau a gemau dementia: dechreuwch gyda'ch nod, osgowch amseryddion a hysbysebion, gwiriwch breifatrwydd, a darllenwch honiadau am dystiolaeth yn ofalus."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Dechreuwch gyda'r hyn rydych chi am i'r ap ei wneud: ysgogiad ysgafn,
+  atgofio, tawelu neu gysylltu. Yna dewiswch un sy'n addas i alluoedd y person
+  heddiw, gyda lluniau mawr, dim amseryddion, sgoriau na hysbysebion, a ffordd
+  hawdd i stopio. Gwiriwch pa ddata y mae'n ei gasglu ac a allwch chi ei
+  ddileu. Byddwch yn ofalus o honiadau bod ap yn atal neu'n trin dementia;
+  nid yw un astudiaeth yn brawf.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Penderfynwch ar y nod yn gyntaf: mae angen apiau gwahanol ar gyfer ysgogi, atgofio, tawelu neu gysylltu."
+  - "Addaswch i alluoedd y person ar y diwrnod, nid label cam, a chadwch y rheolyddion yn syml."
+  - "Hepgorwch apiau gydag amseryddion, sgoriau, bywydau, cyfresi, hysbysebion neu negeseuon prynu."
+  - "Gwiriwch gasglu, rhannu a dileu data. Fel arfer nid yw HIPAA yn berthnasol i apiau defnyddwyr."
+  - "Byddwch yn amheus o honiadau \"yn atal dementia\". Nid yw un treial, na sgoriau gwell yn yr ap, yn brawf."
+  - "Mae Golden Moments yn weithgaredd hamdden. Nid yw'n gwneud unrhyw honiadau clinigol."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "A all gemau ymennydd atal dementia?"
+    a: "Nid oes tystiolaeth dda bod apiau gemau ymennydd masnachol yn atal neu'n arafu dementia. Mae'r National Institute on Aging yn dweud nad oes digon o dystiolaeth bod apiau hyfforddi'r ymennydd sydd ar gael yn fasnachol yn cael yr un effaith â'r hyfforddiant strwythuredig a brofwyd mewn treial ymchwil mawr. Dewiswch apiau ar gyfer mwynhad a chysylltiad, nid fel meddyginiaeth."
+  - q: "A yw ap dementia wedi'i gynnwys gan HIPAA?"
+    a: "Fel arfer na. Yn gyffredinol, mae HIPAA yn berthnasol i ddarparwyr gofal iechyd, cynlluniau iechyd a'u cymdeithion busnes. Fel arfer nid yw ap rydych chi'n ei lawrlwytho eich hun wedi'i gynnwys oni bai ei fod yn cael ei ddarparu gan un ohonynt. Mae Rheol Hysbysu Torri Iechyd yr FTC yn berthnasol i lawer o apiau iechyd nad yw HIPAA yn eu cynnwys."
+  - q: "Sut olwg ddylai fod ar gêm dementia dda?"
+    a: "Lluniau a thestun mawr, clir, un peth amlwg i'w wneud ar bob sgrin, dim amserydd na sgôr, dim synau swnllyd am gamgymeriadau, dim hysbysebion, a ffordd hawdd i oedi neu stopio. Dylai edrych fel ei bod wedi'i gwneud ar gyfer oedolion a bod yn hawdd i ail berson ymuno."
+  - q: "A yw Golden Moments yn honni ei fod yn helpu cof?"
+    a: "Na. Mae Golden Moments yn cynnig gweithgareddau syml ar y cyd ar gyfer mwynhad a sgwrs. Nid yw'n gwneud diagnosis, yn trin, yn atal nac yn mesur dementia, ac nid ydym yn gwneud unrhyw honiadau am gof na meddwl."
+  - q: "A ddylwn i dalu am ap dementia?"
+    a: "Rhowch gynnig ar opsiynau am ddim neu dreialon am ddim yn gyntaf, a gwyliwch sut mae'r person yn ymateb dros ychydig wythnosau. Nid yw talu am ap yn ei gwneud yn fwy effeithiol. Gwiriwch sut i ganslo cyn i chi danysgrifio."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Mae siopau apiau'n llawn gemau sydd wedi'u labelu ar gyfer pobl hŷn, cof neu dementia. Mae rhai wedi'u gwneud yn feddylgar. Mae eraill yn ychwanegu addewidion sy'n swnio'n feddygol, amseryddion sy'n troi chwarae'n brawf, neu hysbysebion a chasglu data. Mae'r dudalen hon yn rhoi ffordd i chi farnu unrhyw ap eich hun. Nid ydym yn rhestru nac yn adolygu cynhyrchion eraill.
 
-## What should I decide before choosing a dementia app?
+## Beth ddylwn i ei benderfynu cyn dewis ap dementia?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Penderfynwch beth rydych chi am i'r ap ei wneud. Gallai "gêm i Mam" olygu pethau gwahanol iawn, ac mae'r dewis gorau ar gyfer un nod yn aml yn ddewis gwael ar gyfer nod arall.
 
-| Goal | What it looks like | What to look for |
+| Nod | Sut olwg sydd arno | Beth i chwilio amdano |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Ysgogiad ysgafn | Paru, didoli, posau syml, gemau geiriau | Anhawster addasadwy, lluniau sy'n aros yn weladwy, dim pwysau amser |
+| Atgofio | Hen luniau, dywediadau cyfarwydd, cerddoriaeth o'u hieuenctid | Eich lluniau eich hun, awgrymiadau agored, dim cwestiynau cwis |
+| Tawelu | Delweddau araf, synau tawel, anadlu, natur | Hawdd i ddechrau a stopio, dim byd sy'n fflachio, dim syrpreisys |
+| Cysylltu | Chwarae neu siarad gyda'ch gilydd, wyneb yn wyneb neu drwy fideo | Wedi'i gynllunio ar gyfer dau berson, awgrymiadau ar gyfer sgwrs |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Mae'r ymchwil ar "ysgogiad gwybyddol" strwythuredig i bobl sy'n byw gyda dementia yn cynnwys sesiynau grŵp dan arweiniad staff hyfforddedig yn bennaf, gyda thrafodaeth, gemau geiriau, posau, cerddoriaeth a gweithgareddau creadigol. Canfu [adolygiad Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) fanteision bach ar gyfartaledd, gan amrywio rhwng astudiaethau. Nid yw'r math hwnnw o raglen gymdeithasol, amrywiol yr un peth ag ap unigol, felly ystyriwch unrhyw ap fel un gweithgaredd ar y cyd ymhlith llawer.
 
-## How do I know if an app fits the person's abilities?
+## Sut ydw i'n gwybod a yw ap yn addas i alluoedd y person?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Gwyliwch sut maen nhw'n ymateb, yn hytrach na mynd yn ôl diagnosis neu label cam. Gall dau berson ar yr "un cam" fod yn wahanol iawn o ran golwg, clyw, rheolaeth llaw, iaith a chysur gyda sgriniau. Mae [Cymdeithas Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) yn awgrymu cadw diddordebau'r gorffennol a galluoedd presennol mewn cof a chanolbwyntio ar fwynhad yn hytrach na chyflawniad.
 
-Signs of a good fit:
+Arwyddion ei fod yn addas:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- maen nhw'n dechrau neu'n ymuno heb lawer o berswâd;
+- maen nhw'n gwenu, yn gwneud sylw neu'n adrodd stori;
+- nid yw'n ymddangos bod camgymeriadau'n eu poeni;
+- maen nhw'n hapus i stopio pan ddaw'r amser.
 
-Signs it is a poor fit:
+Arwyddion nad yw'n addas:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- dweud "Alla i ddim" neu "mae hyn yn wirion" dro ar ôl tro;
+- dryswch ynghylch beth i'w dapio;
+- rhwystredigaeth, embaras neu wthio'r ddyfais i ffwrdd;
+- dim ond os ydych chi'n gwneud bron popeth y mae'n gweithio.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Mae trallod yn arwydd, nid rhywbeth i'w wthio drwyddo. Gweler [beth i'w wneud pan fyddan nhw'n dweud na](/caregiving/when-they-say-no/). Am syniadau yn ôl cam y tu hwnt i apiau, gweler gweithgareddau [cam cynnar](/activities/early-stage/) a [cham hwyr](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Pa nodweddion dylunio ddylwn i edrych amdanynt neu eu hosgoi?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Chwiliwch am ddyluniad tawel, syml ac oedolyn, ac osgowch unrhyw beth sy'n ychwanegu pwysau.
 
-| Look for | Be wary of |
+| Chwiliwch am | Byddwch yn ofalus o |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Lluniau a thestun mawr, cyferbyniad uchel | Eiconau bach, sgriniau gorlawn |
+| Un weithred glir ar bob sgrin | Llawer o fotymau, dewislenni, neu gyfarwyddiadau aml-gam |
+| Dim amserydd, neu amserydd y gallwch ei ddiffodd | Cyfrif i lawr, bonysau cyflymder, "curwch eich amser" |
+| Dim sgôr, neu adborth ysgafn | Pwyntiau, bywydau, cyfresi, safleoedd, "oedran ymennydd" |
+| Camgymeriadau'n cael eu trin yn dawel | Synau swnllyd, marciau X coch, negeseuon "Anghywir" |
+| Lluniau oedolyn, o'r byd go iawn | Themâu cartŵn neu blentynnaidd |
+| Yn gweithio all-lein, dim angen cyfrif i ddechrau | Rhaid cofrestru, mewngofnodi neu lawrlwytho cynnwys yn gyntaf |
+| Hawdd oedi a stopio | Ffenestri naid yn gofyn i barhau i chwarae neu raddio'r ap |
+| Dim hysbysebion, pris clir unwaith neu danysgrifiad | Hysbysebion, blychau loot, negeseuon prynu aml |
+| Hawdd i ail berson ymuno | Un chwaraewr yn unig, dyluniad cystadleuol |
 
-Ads and purchase prompts are easy to tap by accident.
+Mae'n hawdd tapio hysbysebion a negeseuon prynu ar ddamwain.
 
-## How do I check an app's privacy?
+## Sut ydw i'n gwirio preifatrwydd ap?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Gwiriwch beth mae'r ap yn ei gasglu, gyda phwy y mae'n ei rannu, ac a allwch chi ei ddileu. Cyn i chi osod:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Darllenwch grynodeb preifatrwydd y siop.** Mae [adran Diogelwch Data Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ac [adran gwybodaeth breifatrwydd yr App Store](https://support.apple.com/en-us/102399) yn rhestru'r mathau o ddata y gall ap eu casglu a'u rhannu. Mae'r ddau gwmni'n nodi mai datblygwyr sy'n darparu'r wybodaeth hon eu hunain, felly mae'n fan cychwyn, nid archwiliad.
+2. **Gofynnwch a oes angen cyfrif arno.** Os mai dim ond dangos lluniau neu gemau syml y mae ap yn ei wneud, efallai nad oes angen iddo wybod eich enw, e-bost na'ch pen-blwydd.
+3. **Gwiriwch ganiatadau.** A oes gwir angen lleoliad, cysylltiadau, meicroffon neu'ch holl lyfrgell luniau ar gêm baru? Diffoddwch unrhyw beth nad oes ei angen arno.
+4. **Chwiliwch am hysbysebion a dadansoddeg.** Gall offer hysbysebu ac olrhain anfon data am sut mae'r ap yn cael ei ddefnyddio at gwmnïau eraill.
+5. **Darganfyddwch ble mae lluniau'n mynd.** Os ydych chi'n ychwanegu lluniau teulu, a ydyn nhw'n aros ar y ddyfais neu'n cael eu huwchlwytho i weinydd? Allwch chi eu tynnu?
+6. **Gwiriwch ddileu.** Chwiliwch yn y polisi preifatrwydd neu'r crynodeb data am sut i ddileu data a'r cyfrif. Mae ap sy'n dweud na ellir dileu data yn haeddu gofal ychwanegol, yn enwedig os yw'n cadw lluniau neu fanylion iechyd.
+7. **Darllenwch y polisi preifatrwydd** am atebion plaen ar beth sy'n cael ei gasglu, pam, am ba mor hir, a gyda phwy y caiff ei rannu.
 
-### Does HIPAA protect information in dementia apps?
+### A yw HIPAA yn diogelu gwybodaeth mewn apiau dementia?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Fel arfer na, sy'n syndod i lawer o bobl. Mae Adran Iechyd a Gwasanaethau Dynol yr Unol Daleithiau [yn egluro](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) bod HIPAA yn berthnasol i gynlluniau iechyd, y rhan fwyaf o ddarparwyr gofal iechyd, cliriadau gofal iechyd a'u cymdeithion busnes. Yn y rhan fwyaf o achosion nid yw'n diogelu data rydych chi'n ei roi mewn ap at ddefnydd personol, oni bai bod endid dan sylw neu ei gymar busnes wedi darparu'r ap. Mae "ap dementia" o siop apiau yn aml y tu allan i HIPAA, hyd yn oed os yw'n sôn am iechyd.
 
-### What protects health data in apps that HIPAA does not cover?
+### Beth sy'n diogelu data iechyd mewn apiau nad yw HIPAA yn eu cynnwys?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Mae Rheol Hysbysu Torri Iechyd y Comisiwn Masnach Ffederal yn berthnasol i lawer ohonynt. Yn 2024, [cwblhaodd yr FTC newidiadau](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) gan egluro bod y rheol yn berthnasol i apiau iechyd a thechnolegau tebyg nad ydynt wedi'u cynnwys gan HIPAA. Mae "tor" yn cynnwys datgeliadau heb awdurdod, nid hacio yn unig, ac mae'n rhaid i gwmnïau hysbysu'r bobl yr effeithir arnynt a'r FTC. Mae hynny'n rhwyd ddiogelwch ar ôl i rywbeth fynd o'i le, nid addewid bod ap yn casglu dim ond yr hyn sydd ei angen.
 
-## How should I read claims about research and evidence?
+## Sut ddylwn i ddarllen honiadau am ymchwil a thystiolaeth?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Darllenwch honiadau am dystiolaeth yn araf, a byddwch fwyaf amheus o'r addewidion mwyaf. Cwestiynau i'w gofyn:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Beth yn union a astudiwyd?** Nid yw astudiaeth o un rhaglen hyfforddi yn dangos bod pob gêm mewn ap yn gweithio yn yr un ffordd.
+- **Pwy a astudiwyd?** Efallai na fydd canlyniadau mewn oedolion hŷn iach yn berthnasol i rywun sy'n byw gyda dementia.
+- **Beth a fesurwyd?** Mae gwella yn y gêm ei hun yn wahanol i newidiadau mewn bywyd bob dydd, sgwrs, hwyliau neu annibyniaeth.
+- **Pa mor gadarn yw'r astudiaeth?** Mae treial rheoledig ar hap (RCT) yn cymharu grŵp sy'n defnyddio'r ap â grŵp nad yw. Mae'n ddyluniad da, ond nid yw un RCT bach neu fyr yn brawf. Chwiliwch am sawl astudiaeth, gan ymchwilwyr annibynnol, sy'n cytuno.
+- **A yw'n honni newid y clefyd?** Nid yw astudiaeth sy'n dangos gwelliannau bach ar brawf yn dystiolaeth bod ap yn arafu, yn atal nac yn trin dementia.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Mae tudalen y National Institute on Aging ar [iechyd gwybyddol ac oedolion hŷn](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) yn disgrifio treial mawr a ariannwyd gan yr NIH ar hyfforddiant gwybyddol strwythuredig, ac yna'n rhybuddio darllenwyr i fod yn ofalus o honiadau y gall rhai gemau cyfrifiadurol ac ar-lein wella cof a meddwl. Mae'n dweud nad oes digon o dystiolaeth eto bod apiau hyfforddi'r ymennydd sydd ar gael yn fasnachol yn cael yr un effaith â'r hyfforddiant a brofwyd yn y treial hwnnw. Gallwch ddarllen mwy yn ein canllaw i [gemau ymennydd a'r dystiolaeth](/brain-health/brain-games/) a [beth mae ymchwil yn ei ddweud am atal dementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Beth yw enghraifft gyhoeddus o honiad camarweiniol?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Ym mis Ionawr 2016, [cyhoeddodd yr FTC setliad](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) gyda gwneuthurwyr Lumosity, rhaglen "hyfforddi'r ymennydd". Honnodd yr FTC fod y cwmni, heb dystiolaeth ddigonol, wedi honni y gallai ei gemau ohirio dirywiad gwybyddol sy'n gysylltiedig ag oedran ac amddiffyn rhag nam gwybyddol ysgafn, dementia a chlefyd Alzheimer. Cytunodd y cwmni i dalu $2 miliwn ac mae'n rhaid iddo gael tystiolaeth wyddonol gymwys a dibynadwy cyn gwneud honiadau o'r fath yn y dyfodol. Mae'r achos yn atgoffa defnyddiol nad yw iaith farchnata yn dystiolaeth.
 
-### Which words are red flags?
+### Pa eiriau sy'n arwyddion rhybudd?
 
-Be cautious when an app or ad says it:
+Byddwch yn ofalus pan fydd ap neu hysbyseb yn dweud ei fod yn:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- "atal", "gwrthdroi", "stopio" neu "gwella" dementia neu glefyd Alzheimer;
+- wedi'i "brofi'n glinigol" heb enwi'r astudiaeth, pwy oedd ynddi, a beth a fesurwyd;
+- rhoi "oedran ymennydd" neu sgôr cof sy'n awgrymu diagnosis;
+- yn "miniogi", "rhoi hwb i" neu "hyfforddi" yr ymennydd;
+- defnyddio tystebau fel prawf.
 
-If you are unsure about a claim, ask the person's doctor.
+Os nad ydych chi'n siŵr am honiad, gofynnwch i feddyg y person.
 
-## Where does Golden Moments fit?
+## Ble mae Golden Moments yn ffitio?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Mae Golden Moments yn cynnig gweithgareddau syml ar y cyd, nid prawf cof, therapi na chyngor meddygol. Mae ein gemau, fel [Parau Lluniau](/games/picture-pairs/), [Cardiau Sgwrs](/games/conversation-cards/), [Parau Lluniau o'r Teulu](/games/photo-pairs/), [Bingo Lluniau](/games/picture-bingo/) ac [Anadlu Tawel](/games/calm-breathing/), wedi'u gwneud ar gyfer mwynhad a sgwrs. Nid ydynt yn gwneud diagnosis, yn trin, yn atal nac yn mesur dementia, ac nid ydym yn gwneud unrhyw honiadau am gof na meddwl.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Rydym hefyd yn gwneud ap am ddim, [Golden Moments ar gyfer iPhone, iPad ac Android](/app/). Mae ganddo baru lluniau ysgafn gyda theils mawr, gemau gyda lluniau teulu rydych chi'n eu dewis a phecynnau lluniau sy'n gweithio all-lein, heb gyfrif, hysbysebion, amserydd na sgôr. Mae'r un rhestr wirio yn berthnasol: mae ei label preifatrwydd yn yr App Store yn dweud "Dim Data'n Cael ei Gasglu", ac mae [polisi preifatrwydd yr ap](/app-privacy/) yn egluro ble mae copïau o luniau'n cael eu cadw.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Byddai'n well gennym i chi ein barnu ni nag ymddiried ynom ni. Defnyddiwch y rhestr wirio ar y dudalen hon, darllenwch ein [tudalen breifatrwydd](/privacy/) a'n [hymwadiad meddygol](/medical-disclaimer/), a rhowch y gorau i ddefnyddio unrhyw beth, gan gynnwys ein pethau ni, nad yw'n addas i'r person rydych chi'n gofalu amdano.
 
-## What is a sensible way to try a new app?
+## Beth yw ffordd synhwyrol o roi cynnig ar ap newydd?
 
-Try it together for a couple of weeks and watch what happens.
+Rhowch gynnig arno gyda'ch gilydd am ychydig wythnosau a gwyliwch beth sy'n digwydd.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Gosodwch ef yn gyntaf** gan ddefnyddio ein [canllaw gosod tabledi a ffonau](/caregiving/tablets-and-screens/), a dechreuwch ar y lefel hawsaf.
+2. **Cadwch sesiynau'n fyr,** sylwch ar wenu, sgwrs a thawelwch, a gorffennwch ar funud da.
+3. **Rhowch y gorau iddo os yw'n achosi rhwystredigaeth,** waeth pa mor uchel yw ei sgôr.

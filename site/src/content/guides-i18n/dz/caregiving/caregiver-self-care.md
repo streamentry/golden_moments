@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "བདག་སྐྱོང་པའི་རང་གི་གཟིགས་སྐྱོང་: ངལ་གསོ་དང་རོགས་རམ།"
+seoTitle: "དྲན་ཤེས་ཉམས་མེད་བདག་སྐྱོང་པའི་རང་གཟིགས་སྐྱོང་།"
+description: "བདག་སྐྱོང་པ་ངལ་དུབ་ཀྱི་མཚོན་རྟགས། ངལ་གསོ་དང་རོགས་སྐྱོར་ཚོགས་པ་འཚོལ་སྟངས། ཨ་རིའི་རིན་མེད་རོགས་རམ་ཁ་པར་ཨང་གྲངས་ཚུ།"
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  དྲན་ཤེས་ཉམས་མེད་དང་མཉམ་འབྲལ་སྡོད་མི་ལུ་བདག་སྐྱོང་འབད་མི་འདི་ལས་ཀ་ཁག་ཅིག་ཨིན། རང་གི་གཟིགས་སྐྱོང་འབད་མི་འདི་ཡང་ལས་ཀའི་ཆ་ཤས་ཅིག་ཨིན། ངལ་དུབ་དང་། སྤྲོ་སྣང་མེདཔ། གཉིད་མ་ཁུགཔ། གྲོགས་པོ་ཚུ་ལས་ཐག་རིང་འགྱོ་མི་བཟུམ་མའི་ཉེན་བརྡའི་མཚོན་རྟགས་ཚུ་ལུ་བལྟ། ལས་ཀ་གསལ་ཏོག་ཏོ་ཅིག་གི་དོན་ལུ་རོགས་རམ་ཞུ། ངལ་གསོའི་བདག་སྐྱོང་ལག་ལེན་འཐབ། རོགས་སྐྱོར་ཚོགས་པ་ནང་འཛུལ། ཨ་རི་ནང་རིན་མེད་རོགས་རམ་ལུ་ Alzheimer's Association ཉིན་མཚན་ ༢༤/༧ རོགས་རམ་ཁ་པར་ 1-800-272-3900 དང་ Eldercare Locator 1-800-677-1116 ཚུ་ཡོད།
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "ངལ་དུབ་འདི་མངོན་གསལ་ཅིག་ལུ་ ངལ་དུབ་དང་། སྤྲོ་སྣང་མེདཔ། གཉིད་མ་ཁུགཔ། སེམས་ཁྲལ། རང་གི་གཟིགས་སྐྱོང་བཞག་ནི་ཚུ་སྦེ་འབྱུང་འོང་།"
+  - "ངལ་གསོའི་བདག་སྐྱོང་གིས་ ཆུ་ཚོད་ཉུང་ཤོས་ལས་བདུན་ཕྲག་འགའ་ཚུན་ ཁྱིམ་ནང་ཡང་ན་གཟིགས་སྐྱོང་ས་ཁོངས་ནང་ངལ་གསོ་བཏང་བཅུགཔ་ཨིན།"
+  - "ལས་ཀ་གསལ་ཏོག་ཏོ་ཅིག་གི་དོན་ལུ་རོགས་རམ་ཞུ། མི་མང་ཤོས་ཀྱིས་རོགས་རམ་འབད་ནི་འདོད་རུང་ ག་དེ་སྦེ་འབད་ནི་ཨིན་ན་མ་ཤེསཔ་འབད་འོང་།"
+  - "Alzheimer's Association ཉིན་མཚན་ ༢༤/༧ རོགས་རམ་ཁ་པར་ (1-800-272-3900) གིས་ དུས་ཚོད་ག་དེ་ར་ཨིན་རུང་ རིན་མེད་དང་གསང་བའི་རོགས་རམ་བྱིནམ་ཨིན།"
+  - "Eldercare Locator (1-800-677-1116) གིས་ ཁྱོད་རའི་ས་ཁོངས་ཀྱི་རྒས་ཡོལ་ལས་སྡེ་ཚུ་དང་འཁྲིལ་ཏེ་ ས་གནས་ཀྱི་ཞབས་ཏོག་ཚུ་དང་མཐུདཔ་ཨིན།"
+  - "ཁྱོད་ལུ་དཀའ་ངལ་ཆེན་པོ་འཕྲད་པ་ཅིན་ 988 ལུ་ཁ་པར་ཡང་ན་འཕྲིན་ཡིག་གཏང་། ཛ་དྲག་གནས་སྐབས་ལུ་ ༡༡༢ ལུ་ཁ་པར་འབད།"
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "བདག་སྐྱོང་པ་ངལ་དུབ་ཀྱི་མཚོན་རྟགས་ཚུ་ག་ཅི་ཨིན་ན?"
+    a: "སྤྱིར་བཏང་གི་མཚོན་རྟགས་ཚུ་ནང་ ངལ་དུབ་དང་། ལྗིད་ཚད་ལས་བརྒལ་བའི་ཚོར་བ། སེམས་ཁྲལ། ལམ་སེང་ཁོང་ཁྲོ་ལང་ནི། གཉིད་ཁུག་མ་ཚུགསཔ། སེམས་སྐྱོ་བའམ་རེ་བ་མེད་པའི་ཚོར་བ། གྲོགས་པོ་ཚུ་ལས་ཐག་རིང་འགྱོ་ནི། མགོ་ན་ནི་དང་གཟུགས་པོ་ན་ནི། རང་གི་ཟས་དང་ལུས་རྩལ། སྨན་བཅོས་བཞག་ནི་ཚུ་འོང་སྲིད། འདི་བཟུམ་མའི་མཚོན་རྟགས་ཚུ་རྒྱུན་ཏུ་འབྱུང་བ་ཅིན་ ཁྱོད་རའི་སྨན་པ་ལུ་གྲོས་བསྡུར་འབད།"
+  - q: "ང་གི་ཉེ་འགྲམ་ནང་ངལ་གསོའི་བདག་སྐྱོང་ག་འདི་ལས་འཚོལ་ནི?"
+    a: "Eldercare Locator (1-800-677-1116 ཡང་ན eldercare.acl.gov) ལས་འགོ་བཙུགས་ཏེ་ ཁྱོད་རའི་ས་གནས་ཀྱི་རྒས་ཡོལ་ལས་སྡེ་ལུ་འབྲེལ་བ་འཐབ། ARCH National Respite Locator Service ཡང་ན་ Alzheimer's Association རོགས་རམ་ཁ་པར་ 1-800-272-3900 ལུ་ཡང་འབྲེལ་བ་འཐབ་ཆོག ནང་མི་དང་གྲོགས་པོ། དྲིལ་བསྒྲགས་པ་ཚུ་གིས་ཀྱང་ངལ་གསོའི་རོགས་རམ་བྱིན་ཚུགས།"
+  - q: "Medicare གིས་ངལ་གསོའི་བདག་སྐྱོང་གི་རིན་གོང་སྤྲོད་དོ་ཡ?"
+    a: "National Institute on Aging གི་གསུང་དོན་ལྟར་ མཇུག་རིམ་གཟིགས་སྐྱོང་ལེན་མི་ལུ་ Medicare གིས་ སྨན་ཁང་ཡང་ན་རིགས་ལྡན་གཟིགས་སྐྱོང་ཁང་ནང་ ཉིན་མ་ལྔ་རིམ་མཐུད་ཀྱི་ངལ་གསོའི་བདག་སྐྱོང་གི་རིན་གོང་མང་ཆེ་ཤོས་སྤྲོདཔ་ཨིན། སྒེར་གྱི་འཕྲོད་བསྟེན་ཉེན་སྲུང་མང་ཆེ་ཤོས་ཀྱིས་ངལ་གསོ་མི་སྤྲོད། Medicaid དང་ཡུན་རིང་གཟིགས་སྐྱོང་ཉེན་སྲུང་ལ་ལོ་ཅིག་གིས་རོགས་རམ་འབད་ཚུགས།"
+  - q: "Alzheimer's Association རོགས་རམ་ཁ་པར་འདི་ངོ་མ་སྦེ་རིན་མེད་དང་མཚན་མོའི་སྐབས་ཡང་ཡོདཔ་ཨིན་ན?"
+    a: "ཨིན། Alzheimer's Association གིས་ ཁོང་གི་རོགས་རམ་ཁ་པར་ 1-800-272-3900 འདི་ རིན་མེད་དང་གསང་བ། ལོ་རྒྱུས་ཉིན་མཚན་ ༣༦༥ ཉིནམ་རོགས་རམ་ཡོདཔ། སྐད་ཡིག་མང་པོའི་ནང་རོགས་རམ་ཡོདཔ་སྦེ་གསུངམ་ཨིན། སྐད་ཡིག་བརྒྱུད་སྐྱེལ་ཞབས་ཏོག་གི་དོན་ལུ་ 711 ལུ་ཁ་པར་འབད།"
+  - q: "བདག་སྐྱོང་ལས་ངལ་གསོ་འབད་ནི་འདི་རང་དོན་རྐྱངམ་ཅིག་ཨིན་ན?"
+    a: "མེན། ངལ་གསོ་འབད་མི་འདི་གིས་ ཁྱོད་ཀྱིས་བདག་སྐྱོང་འཕྲོ་མཐུད་འབད་ནི་ལུ་རོགས་རམ་འབདཝ་ཨིན། ངལ་གསོའི་བདག་སྐྱོང་གིས་ ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་མི་ལུ་ཡང་ མི་གཞན་དང་མཉམ་འབྲལ་དང་བྱེད་ལས་གསརཔ་ཅིག་བྱིན་ཚུགས། བདག་སྐྱོང་པ་མང་ཤོས་ཅིག་གིས་ སྔ་པོ་རང་རོགས་རམ་ཞུ་བ་ཅིན་བཟང་སྦེ་ཟེར་སླབ་འོང་།"
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+ཁྱོད་ཀྱིས་དྲན་ཤེས་ཉམས་མེད་དང་མཉམ་འབྲལ་སྡོད་མི་ལུ་བདག་སྐྱོང་འབད་བའི་སྐབས་ ཕལ་ཆེར་མཚན་མོ་ཕྱི་པོར་ལྷག་སྟེ་འདི་ལྷག་དོ་ཡོདཔ་དང་ ངལ་དུབ་སྟེ་ མ་འབད་ཚུགས་པའི་ལས་ཀ་ཐོ་ཡིག་ཅིག་ཡོདཔ་འོང་། འདི་སྤྱིར་བཏང་ཅིག་ཨིན། རང་གི་གཟིགས་སྐྱོང་འབད་མི་འདི་ ལས་ཀ་ཚངམ་མཇུག་བསྡུ་ཞིནམ་ལས་རྐྱབ་ལས་ཐོབ་མི་རྔན་པ་ཅིག་མེན། འདི་ཁྱོད་ཀྱིས་མུ་མཐུད་འབད་ཚུགས་པའི་རྒྱུ་མཚན་ཨིན།
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+ཤོག་ལེབ་འདི་ནང་ ངལ་དུབ་ཀྱི་ཉེན་བརྡའི་མཚོན་རྟགས། ངོ་མ་སྦེ་ངལ་གསོ་ལེན་སྟངས། རོགས་རམ་འཚོལ་ས། དང་ དེངས་ཁ་རང་ཁ་པར་འབད་བཏུབ་པའི་ཨ་རིའི་རིན་མེད་རོགས་རམ་ཁ་པར་ཚུ་གི་སྐོར་ལས་འབད་དེ་ཡོད།
 
-## What are the signs of caregiver burnout?
+## བདག་སྐྱོང་པ་ངལ་དུབ་ཀྱི་མཚོན་རྟགས་ཚུ་ག་ཅི་ཨིན་ན?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+ངལ་དུབ་འདི་ལོགས་ལོགས་སྦེ་འབྱུང་སྲིདཔ་ལས་ རང་གི་ཉེན་བརྡའི་མཚོན་རྟགས་ཚུ་ཤེས་ཏེ་བཞག་མི་འདི་ཕན་ཐོགས་འོང་། [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) གིས་ བདག་སྐྱོང་པའི་དྲག་ཤུགས་ཀྱི་མཚོན་རྟགས་ཚུ་འདི་བཟུམ་སྦེ་བཀོད་དེ་ཡོད།
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- ངལ་དུབ་དང་། ལྗིད་ཚད་ལས་བརྒལ་བའི་ཚོར་བ། ཡང་ན་སེམས་ཁྲལ་ཚོར་ནི།
+- ལམ་སེང་ཁོང་ཁྲོ་ལང་ནི་ཡང་ན་བཟོད་སྒོམ་ཉུང་ནི།
+- སྐད་ཆ་འབད་ས་མེད་པའམ་གཞན་ཚུ་ལས་ཐག་རིང་ཚོར་ནི།
+- གཉིད་ཁུག་མ་ཚུགསཔ་ཡང་ན་གཉིད་ལངམ་སྦེ་མ་ཁུགཔ།
+- སེམས་སྐྱོ་བའམ་རེ་བ་མེད་པའི་ཚོར་བ། ཡང་ན་སྔོན་མ་དགའ་མི་ལུ་ད་ལྟོ་སྤྲོ་བ་མེདཔ་འགྱོ་ནི།
+- མགོ་ན་ནི་དང་། གཟུགས་པོ་ན་ནི། ཡང་ན་གཟུགས་པོའི་དཀའ་ངལ་གཞན་ཚུ་རྒྱུན་ཏུ་འབྱུང་ནི།
+- རང་གི་དོན་ལུ་ལུས་རྩལ་འབད་ནི་དང་འཕྲོད་བསྟེན་ཟས་བཟོ་ནིའི་དུས་ཚོད་མེདཔ་འགྱོ་ནི།
+- ཁྲུས་འཁྲུད་དང་རང་གི་གཟིགས་སྐྱོང་གཞན་ཚུ་བཞག་ནི།
+- ཆང་དང་སྨན་གཞན། སྨན་པས་སྤྲད་མིའི་སྨན་ཚུ་ཡང་རྩིས་ཏེ་ ཚུལ་མིན་ལག་ལེན་འཐབ་ནི།
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) གིས་ ནད་གཞི་ལུ་ངོས་ལེན་མ་འབད་ནི། བདག་སྐྱོང་འབད་མི་ལུ་ཁོང་ཁྲོ་ (དཔེར་ན་ «ཁོ་རང་སྤྲོ་བ་མེདཔ་ལས་ཨིན་»)། མ་འོངས་པ་ལུ་སེམས་ཁྲལ། དྲན་ཤེས་གཏན་འཁེལ་འབད་མ་ཚུགསཔ། དང་གཟུགས་པོའི་དཀའ་ངལ་གྱིས་གནོད་པ་བྱིན་མི་ཚུ་ཡང་ཁ་སྐོང་འབད་དེ་ཡོད། འདི་བཟུམ་མའི་མཚོན་རྟགས་ཚུ་རྒྱུན་ཏུ་འབྱུང་བ་ཅིན་ ཁྱོད་རའི་སྨན་པ་ལུ་སླབ་ནིའི་བསླབ་བྱ་བྱིན་དེ་ཡོད།
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA གི་བསླབ་བྱ་འདི་ ཁྱོད་རང་ཤུགས་ཆེ་སྦེ་ལྗིད་ཚད་ལས་བརྒལ་ཚུན་ཚོད་མ་སྒུག་ མཚོན་རྟགས་ཚུ་སྔ་པོ་རང་ཧ་གོ་ཞིནམ་ལས་ལག་ལེན་འཐབ་དགོཔ་ཨིན།
 
-## What can I do today, in five minutes?
+## དེངས་ཁ་ སྐར་མ་ལྔའི་ནང་ང་གིས་ག་ཅི་འབད་ཚུགས?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+ངལ་གསོ་ཆུང་ཀུ་ཚུ་ཡང་གལ་ཆེ། འོག་གི་ལཱ་ཚུ་གིས་ངལ་དུབ་སེལ་མི་ཚུགས་རུང་ དཀའ་ཁག་ཅན་གྱི་ཕྱི་དྲོ་ཅིག་བརྒྱུད་དེ་འགྱོ་ནི་ལུ་རོགས་རམ་འབད་ཚུགས།
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **ཕྱི་ཁར་འགྱོ།** ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་མི་འདི་ཉེན་སྲུང་དང་ཞི་འཇམ་སྦེ་སྡོད་པའི་སྐབས་ ཕྱི་ཁར་སྡོད་པའམ་ཡིག་འཕྲིན་སྒམ་ཚུན་འགྲོ།
+- **དལ་མོ་སྦེ་རླུང་འཐེན།** དཀའ་ཁག་ཅན་གྱི་དྲི་བ་ལུ་ལན་མ་འདེབས་པའི་ཧེ་མ་ དལ་མོ་སྦེ་རླུང་འཐེན་འཐེན་ཐེངས་འགའ་འབད། ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་མི་དང་མཉམ་དུ་ [ཞི་འཇམ་རླུང་འཐེན་](/games/calm-breathing/) ངལ་གསོ་ཅིག་ཡང་འབད་ཚུགས།
+- **ཆུ་འཐུང་ཞིནམ་ལས་ཅིག་ཟ།** རང་གི་ཟས་བརྗེད་ནི་འདི་ལས་སླ།
+- **གྲོགས་པོ་གཅིག་ལུ་འཕྲིན་ཡིག་གཏང་།** ག་ནི་ཡང་ཞུ་ནིའི་དོན་ལུ་མེན་པར་ འབྲེལ་མཐུད་ཙམ་ཅིག་འབད་ནི།
+- **རང་ལུ་བཟང་སྐད་ཅིག་སླབ།** NIA གི་ [རང་གི་གཟིགས་སྐྱོང་གི་ལམ་སྟོན་](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ནང་ «ང་གིས་ང་རའི་ནུས་ཤུགས་གང་ཡོད་འབད་དོ་»། «ང་འདྲ་མཉམ་མེན། དེ་འབདཝ་བཏུབ་»། «ང་བཅས་ཞི་འཇམ་སྦེ་མཉམ་དུ་སྡོད་ཚུགས་པའི་སྐབས་ཀྱི་ལེ་ཚན་ཚུ་ལུ་སྤྲོ་བ་འབད་འོང་» ཟེར་མི་ཚིག་ཚུ་བསླབ་བྱ་སྦེ་བྱིན་དེ་ཡོད།
 
-## What is respite care, and how do I get it?
+## ངལ་གསོའི་བདག་སྐྱོང་ཟེར་མི་ག་ཅི་ཨིན་ན? འདི་ག་འདི་ལས་ལེན་ནི?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+ངལ་གསོའི་བདག་སྐྱོང་ཟེར་མི་འདི་ ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་མི་ལུ་ དུས་ཡུན་ཐུང་ཀུའི་བདག་སྐྱོང་བྱིན་ཏེ་ ཁྱོད་ར་ངལ་གསོ་འབད་ཚུགས་པའི་གོ་སྐབས་ཨིན། NIA གི་ [ངལ་གསོའི་བདག་སྐྱོང་གི་ཤོག་ལེབ་](https://www.nia.nih.gov/health/caregiving/what-respite-care) ནང་ འདི་ཆུ་ཚོད་ཉུང་ཤོས་ལས་བདུན་ཕྲག་འགའ་ཚུན་འབད་ཚུགསཔ་དང་ ཁྱིམ་ནང་། གཟིགས་སྐྱོང་ས་ཁོངས། ཡང་ན་ཉིན་གུང་གཟིགས་སྐྱོང་ལྟེ་བ་ནང་འབད་ཚུགསཔ་སྦེ་འགྲེལ་བཤད་འབད་དེ་ཡོད།
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) གིས་ སྤྱིར་བཏང་གི་དབྱེ་བ་ཚུ་འདི་བཟུམ་སྦེ་འགྲེལ་བཤད་འབདཝ་ཨིན།
 
-| Type | What it is |
+| དབྱེ་བ་ | འདི་ག་ཅི་ཨིན་ན |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| ཁྱིམ་ནང་རོགས་རམ་ | གྲོགས་པོ། ནང་མི། དྲིལ་བསྒྲགས་པ། ཡང་ན་རིན་སྤྲོད་འབད་མིའི་རོགས་པ་ཡང་ན་ལས་གཡོག་ཁྱིམ་ནང་འོང་ནི་ |
+| ཉིན་གུང་གཟིགས་སྐྱོང་ལྟེ་བ་ | ཉེན་སྲུང་ཅན་གྱི་ཚོགས་པའི་ནང་ རོལ་དབྱངས་དང་རི་མོ་བཟུམ་མའི་གོ་སྒྲིག་འབད་ཡོད་པའི་བྱེད་ལས། སྐྱེལ་འདྲེན་དང་ཟས་ཀྱང་མང་ཤོས་རང་བྱིན་འོང་ |
+| མཚན་མོ་ཡང་ན་དུས་ཐུང་གནས་སྡོད་ | ཡུན་རིང་གཟིགས་སྐྱོང་ཚོགས་པ་གིས་ མཚན་མོ་གཅིག་། ཉིན་མ་འགའ་། ཡང་ན་བདུན་ཕྲག་འགའི་དོན་ལུ་བདག་སྐྱོང་འབད་ནི་ |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**སུ་གིས་རིན་གོང་སྤྲོད་ག?** NIA གི་གསུང་དོན་ལྟར་ ནང་མི་དང་གྲོགས་པོ། དྲིལ་བསྒྲགས་པ་ཚུ་གིས་བྱིན་མིའི་ངལ་གསོ་ལུ་རིན་གོང་མི་དགོཔ་འབད་ཚུགས། ཆེད་ལས་ཞབས་ཏོག་ཚུ་གིས་ཆུ་ཚོད་ཡང་ན་ཉིན་མའི་རིན་གོང་ལེནམ་ཨིན། མཇུག་རིམ་གཟིགས་སྐྱོང་ལེན་མི་ལུ་ Medicare གིས་ སྨན་ཁང་ཡང་ན་རིགས་ལྡན་གཟིགས་སྐྱོང་ཁང་ནང་ ཉིན་མ་ལྔ་རིམ་མཐུད་ཀྱི་ངལ་གསོའི་བདག་སྐྱོང་གི་རིན་གོང་མང་ཆེ་ཤོས་སྤྲོདཔ་ཨིན། Medicaid གིས་རོགས་རམ་འབད་ཚུགས། སྒེར་གྱི་འཕྲོད་བསྟེན་ཉེན་སྲུང་མང་ཆེ་ཤོས་ཀྱིས་ངལ་གསོ་མི་སྤྲོད་རུང་ ཡུན་རིང་གཟིགས་སྐྱོང་ཉེན་སྲུང་ལ་ལོ་ཅིག་གིས་སྤྲོད་འོང་།
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**བསླབ་བྱ་:** Alzheimer's Association གིས་ ཛ་དྲག་གནས་སྐབས་མེན་པའི་སྐབས་ལས་ ངལ་གསོའི་ཞབས་ཏོག་བྱིན་མི་ཚུ་ལག་ལེན་འཐབ་ཏེ་བལྟ་ནིའི་བསླབ་བྱ་བྱིན་དེ་ཡོད། དེ་འབད་བ་ཅིན་ ཁྱོད་ལུ་མགྱོགས་པོ་རོགས་རམ་དགོཔ་འབྱུངམ་ད་ ཁོང་ཚུ་གྲ་སྒྲིག་འབད་ཚུགས།
 
-## Where can I find help near me?
+## ངའི་ཉེ་འགྲམ་ནང་རོགས་རམ་ག་འདི་ལས་འཚོལ་ཚུགས?
 
-Several free US services can point you to local help.
+ཨ་རིའི་རིན་མེད་ཞབས་ཏོག་ལེ་ཤ་ཅིག་གིས་ ས་གནས་ཀྱི་རོགས་རམ་ལུ་ལམ་སྟོན་འབད་ཚུགས།
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association ཉིན་མཚན་ ༢༤/༧ རོགས་རམ་ཁ་པར་: 1-800-272-3900།** [རོགས་རམ་ཁ་པར་](https://www.alz.org/help-support/resources/helpline) འདི་ རིན་མེད་དང་གསང་བ་ཨིན། ལོ་རྒྱུས་ཉིན་མཚན་ ༢༤ ཆུ་ཚོད་རོགས་རམ་ཡོདཔ་དང་ སྐད་ཡིག་གཉིས་སྐད་ཅན་དང་སྐད་སྒྱུར་པའི་རོགས་རམ་ཐོག་ལས་ སྐད་ཡིག་ ༢༠༠ ལས་ལྷག་པའི་ནང་རོགས་རམ་ཡོདཔ་ཨིན། སྐད་ཡིག་བརྒྱུད་སྐྱེལ་ཞབས་ཏོག་གི་དོན་ལུ་ 711 ལུ་ཁ་པར་འབད། བྱ་སྤྱོད་ཀྱི་འགྱུར་བ། བདག་སྐྱོང་པའི་དྲག་ཤུགས། ངལ་གསོའི་གདམ་ཁ། ས་གནས་ཀྱི་ལས་རིམ་ཚུ་གི་སྐོར་ལས་གྲོས་བསྡུར་འབད་ཚུགསཔ་དང་ གཟིགས་སྐྱོང་བསླབ་བྱ་སྤྲོད་མི་དང་ཡུན་རིང་གྲོས་བསྡུར་ཡང་ཞུ་ཚུགས། ལས་བྱེདཔ་ཚུ་གིས་སྨན་བཅོས་ཀྱི་བསླབ་བྱ་མི་བྱིན།
+- **Eldercare Locator: 1-800-677-1116།** [Eldercare Locator](https://eldercare.acl.gov/) འདི་ Administration for Community Living གི་མི་མང་ཞབས་ཏོག་ཅིག་ཨིན། འདི་གིས་ རྒས་ཡོལ་དང་ཁོང་གི་ནང་མི་ཚུ་ལུ་ཞབས་ཏོག་དང་མཐུད་བཅུགཔ་ཨིན། ཁ་པར། འཕྲིན་ཡིག་། དྲ་ཐོག་གླེང་མོལ། ཡང་ན་གློག་འཕྲིན་གྱི་ཐོག་ལས་སྦྱོང་བརྡར་ཡོད་པའི་ལས་བྱེདཔ་དང་འབྲེལ་བ་འཐབ་ཚུགསཔ་དང་ ས་ཁོངས་ལྟར་འཚོལ་ཚུགས། འདི་གིས་ ཁྱོད་རའི་ས་གནས་ཀྱི་རྒས་ཡོལ་ལས་སྡེ་ (Area Agency on Aging) ལུ་ལམ་སྟོན་འབད་ཚུགས།
+- **ARCH National Respite Locator Service།** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) གིས་ མངའ་སྡེ་ལྟར་ངལ་གསོའི་ཞབས་ཏོག་བྱིན་མི་འཚོལ་ནི་ལུ་རོགས་རམ་འབདཝ་ཨིན། ཁྱོད་རའི་མངའ་སྡེ་ནང་ཡོད་པ་ཅིན་ སྔོན་མ་ State Respite Coalition ཡང་ན་ Lifespan Respite ལས་རིམ་ལུ་འབྲེལ་བ་འཐབ་ནིའི་བསླབ་བྱ་ཡང་བྱིན་དེ་ཡོད། ARCH གིས་ ཞབས་ཏོག་བྱིན་མི་ཚུ་ཞིབ་དཔྱད་མི་འབད་ཟེར་སླབ་དེ་ཡོདཔ་ལས་ ཁོང་གི་ཉམས་མྱོང་དང་རྒྱབ་ལོག་ཁྱོད་ར་གིས་ཞིབ་དཔྱད་འབད་དགོ།
 
-## How do I find a support group?
+## རོགས་སྐྱོར་ཚོགས་པ་ག་འདི་ལས་འཚོལ་ནི?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+རོགས་རམ་ཁ་པར་ལུ་དྲི་བ་འདྲི་བའམ་ ཁྱོད་ཀྱི་ཉེ་འགྲམ་གྱི་ཚོགས་པ་ཚུ་དྲ་ཐོག་ནང་འཚོལ། Alzheimer's Association གིས་ བདག་སྐྱོང་པ་དང་ དྲན་ཤེས་ཉམས་མེད་དང་མཉམ་འབྲལ་སྡོད་མི་ཚུ་གི་དོན་ལུ་ [རོགས་སྐྱོར་ཚོགས་པ་](https://www.alz.org/help-support/community/support-groups) ཚུ་གོ་སྒྲིག་འབདཝ་ཨིན། འདི་ཚུ་ངོ་ཐུག་དང་དྲ་ཐོག་ནང་ཡོདཔ་དང་ སྦྱོང་བརྡར་ཡོད་པའི་འགོ་ཁྲིདཔ་གིས་འཛིན་སྐྱོང་འཐབ་ཨིན། ས་ཁོངས་མང་ཤོས་ནང་ དཔེར་ན་ ལོ་ན་ཚོད་ཆེ་བའི་བདག་སྐྱོང་པ་ཡང་ན་ ལོ་ན་ཚོད་ཆུང་ཀུ་ནས་འགོ་བཟུང་མི་ཡང་ན་འགོ་ཐོག་གི་ Alzheimer's དང་མཉམ་འབྲལ་སྡོད་མི་ཚུ་གི་དོན་ལུ་དམིགས་བསལ་ཚོགས་པ་ཚུ་ཡང་ཡོདཔ་ཨིན། དེ་མ་ཚད་ ALZConnected ཟེར་མི་ བདག་སྐྱོང་པ་ཚུ་གིས་བསླབ་བྱ་བརྗེ་སོར་འབད་སའི་རིན་མེད་དྲ་ཐོག་ཚོགས་སྡེ་ཅིག་ཡང་གོ་སྒྲིག་འབདཝ་ཨིན།
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+རོགས་སྐྱོར་ཚོགས་པ་འདི་ བརྟག་དཔྱད་མེད་པར་སེམས་ཁྲལ་བཤད་ས་། ཉམས་མྱོང་ཡོད་མི་ཚུ་ལས་ཉེར་སྤྱོད་ཀྱི་བསླབ་བྱ་ལེན་ས་། དང་རང་ཉིད་གཅིག་པུ་མེན་པའི་ཚོར་བ་འཐོབ་ས་ཅིག་འོང་སྲིད། ཚོགས་པ་དང་པ་འདི་མ་འབྱུང་པ་ཅིན་ གཞན་ཅིག་ལུ་ཚོད་ལྟ་འབད།
 
-## How do I ask family and friends for help?
+## ནང་མི་དང་གྲོགས་པོ་ཚུ་ལུ་རོགས་རམ་ག་དེ་སྦེ་ཞུ་ནི?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+གསལ་ཏོག་ཏོ་སྦེ་ཞུ། མི་མང་ཤོས་ཀྱིས་རོགས་རམ་འབད་ནི་འདོད་རུང་ ག་ཅི་ཕུལ་ནི་ཨིན་ན་མ་ཤེསཔ་འབད་འོང་། NIA གིས་འདི་བཟུམ་སྦེ་བསླབ་བྱ་བྱིན་དེ་ཡོད།
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **གཞན་གྱིས་འབད་བཏུབ་པའི་ལས་ཀའི་ཐོ་ཡིག་ཅིག་བཞག** དེ་ལས་མི་ཚུ་ལུ་གདམ་ཁ་རྐྱབ་བཅུག
+- **ཞུ་ནི་ཁག་པོ་འོང་བ་ཅིན་ ཆུང་ཀུ་ཅིག་ལས་འགོ་བཙུགས།**
+- **ལས་ཀ་འདི་མི་དེ་དང་མཐུན་པར་འབད།** ཟ་མ་བཟོ་ནི་ལུ་དགའ་མི་གིས་ ལྷགཔ་ཉིནམ་ཟས་ཕྱི་དྲོ་འཁྱེར་འོང་། ཡིག་ཆའི་ལས་ཀ་ལུ་ལྷག་པོ་ཡོད་མི་གིས་ ཡིག་ཆའི་ལས་ཀ་ནང་རོགས་རམ་འབདཝ་ཨིན།
+- **ངོ་ཐུག་ཞུ་ནི་མ་འཇམ་པ་ཅིན་ འཕྲིན་ཡིག་ཡང་ན་གློག་འཕྲིན་གཏང་།**
+- **མི་གིས་རོགས་རམ་ཕུལམ་ད་ ལན་འདེབས་སྟངས་སྦྱོང་བརྡར་འབད།** «དྲི་བ་འདྲི་མི་ལུ་བཀའ་དྲིན་ཆེ། ཁྱོད་ཀྱིས་འདི་འབད་བཏུབ་»།
+- **མི་ལ་ལོ་ཅིག་གིས་ མི་ཚུགས་ཟེར་སླབ་འོང་།** དེ་ལུ་སེམས་ནང་མ་བཞག་པར་ཚོད་ལྟ་འབད།
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+བསམ་འཆར་གཞན་ཚུ་: བདུན་ཕྲག་རེ་ནང་ཕྱི་དྲོ་གཅིག་ ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་མི་དང་མཉམ་དུ་སྡོད་ནིའི་དོན་ལུ་མི་གཅིག་ལུ་ཞུ། ཁོང་དང་མཉམ་དུ་ཕྱི་ཁར་ཐུང་ཀུ་འགྲོ་ནི་ཡང་ན་འོང་སྟེ་རྩེདམོ་རྩེ་ནི། ང་བཅས་ཀྱི་ [མཉམ་དུ་རྩེ་སྟངས་ཀྱི་ལམ་སྟོན་](/caregiving/how-to-play-together/) འདི་ ལྟ་སྐོར་པ་ཚུ་དང་མཉམ་དུ་བརྗེ་སོར་འབད་ནི་ལུ་ལས་སླ།
 
-## What if something happened to me?
+## ང་ལུ་ག་ནི་ཅིག་བྱུང་བ་ཅིན་ག་དེ་སྦེ?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+ད་ལྟོ་རང་ཉེར་སྲུང་གི་འཆར་གཞི་འཇམ་སམ་ཅིག་བཟོ། NIA གིས་ ནང་མི་ཡང་ན་ཉེ་འཁོར་གྱི་གྲོགས་པོ་ཚུ་དང་མཉམ་དུ་ སུ་གིས་ཚབ་འབད་ནི་ཨིན་ན་གྲོས་བསྡུར་འབད་ནི་དང་ ཛ་དྲག་ཁ་པར་ཨང་། སྨན། ཕན་ཐོགས་ཡོད་པའི་བྱ་སྤྱོད་ཀྱི་བསླབ་བྱ། དང་དགའ་མིའི་བྱེད་ལས་ཚུ་དེབ་ཆུང་ཅིག་ནང་བཙུགས་ཏེ་བཞག་ནིའི་བསླབ་བྱ་བྱིན་དེ་ཡོད། Alzheimer's Association གིས་ཡང་ བདག་སྐྱོང་འབད་མིའི་སྨན་བཅོས་འབྲེལ་མཐུད་དང་ དུས་མཐུན་སྨན་ཐོ་ཡིག་ལམ་སེང་འཚོལ་ཚུགས་པའི་ས་ནང་བཞག་ནིའི་བསླབ་བྱ་བྱིན་དེ་ཡོད།
 
-## When should I get professional or urgent help?
+## ཆེད་ལས་ཡང་ན་ཛ་དྲག་རོགས་རམ་ག་དུས་ལེན་དགོ?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+དྲག་ཤུགས་ཀྱི་མཚོན་རྟགས་ཚུ་རྒྱུན་ཏུ་འབྱུང་བ་ཅིན། སེམས་སྐྱོ་ཚོར་བ་ཅིན། ཡང་ན་ཁྱོད་རང་གིས་མགོ་ཐོགས་མ་ཚུགས་པར་ཚོར་བ་ཅིན་ ཁྱོད་རའི་སྨན་པ་ལུ་སླབ། ཁྱོད་བདག་སྐྱོང་པ་ཅིག་ཨིན་ཟེར་སྨན་པ་ལུ་སླབ་དགོ། NIA གིས་ སེམས་ཁམས་ཀྱི་བསླབ་བྱ་པ་དང་སྤྱི་ཚོགས་ལས་བྱེདཔ་ཚུ་གིས་ དཀའ་ཁག་ཅན་གྱི་ཚོར་བ་དང་འཆར་གཞི་ནང་རོགས་རམ་འབད་ཚུགསཔ་སྦེ་སླབ་དེ་ཡོདཔ་དང་ Medicare, Medicaid དང་སྒེར་གྱི་ཉེན་སྲུང་ལ་ལོ་ཅིག་གིས་ སེམས་ཁམས་གཟིགས་སྐྱོང་གི་རིན་གོང་ལ་ལོ་ཅིག་སྤྲོད་འོང་།
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+ཁྱོད་ལུ་དཀའ་ངལ་ཆེན་པོ་འཕྲད་དེ་ཡོད་པའམ་ རང་ལུ་གནོད་པ་བྱིན་ནིའི་བསམ་བློ་འོང་བ་ཅིན་ 988 ལུ་ཁ་པར་འབད་བའམ་འཕྲིན་ཡིག་གཏང་སྟེ་ [988 Suicide & Crisis Lifeline](https://988lifeline.org/) ལུ་འབྲེལ་བ་འཐབ། འདི་རིན་མེད་དང་ཉིན་མཚན་ ༢༤/༧ ཡོདཔ་ཨིན། མི་གང་རུང་ལུ་མགྱོགས་པོ་ཉེན་ཁ་འཕྲད་པ་ཅིན་ ༡༡༢ ལུ་ཁ་པར་འབད།
 
-## Can shared activities give me a break too?
+## མཉམ་དུ་འབད་མིའི་བྱེད་ལས་ཀྱིས་ ང་ལུ་ཡང་ངལ་གསོ་བྱིན་ཚུགས་ག?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+ཚུར་ལ་ལོ་ཅིག་བྱིན་འོང་། ཁྱོད་གཉིས་ཀྱིས་དགའ་མི་ཞི་འཇམ་གྱི་བྱེད་ལས་ཅིག་གིས་ ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་མི་དང་ཁྱོད་ར་གཉིས་ཆ་རང་གི་དོན་ལུ་ ཉིནམ་གྱི་ཆ་ཤས་ཞི་འཇམ་ཅིག་འོང་སྲིད། དཔེར་ན་ རྙིང་པའི་གླུ་གཞས་ཉན་ནི། པར་རིས་ལུ་བལྟ་ནི། ཡང་ན་ལན་འཐུས་དགོ་པའི་དྲི་བ་མེད་པའི་ [གླེང་མོལ་ཤོག་བྱང་](/games/conversation-cards/) བཟུམ་མའི་རྩེདམོ། ཁྱོད་ཀྱིས་བདག་སྐྱོང་འབད་མི་གིས་མི་གཞན་དང་མཉམ་དུ་སྡོད་ནི་ལུ་དགའ་བ་ཅིན་ རྒས་ཡོལ་ལྟེ་བ་ཡང་ན་ཉིན་གུང་གཟིགས་སྐྱོང་ལས་རིམ་ནང་ [པར་རིས་བིང་གོ་](/games/picture-bingo/) དང་མཉམ་དུ་ཚོགས་པའི་བྱེད་ལས་ཅིག་གིས་ ཁྱོད་ལུ་ཆུ་ཚོད་གཅིག་གི་ངལ་གསོ་བྱིན་ཚུགས། བསམ་འཆར་གྱི་དོན་ལུ་ [གཟིགས་སྐྱོང་ཁང་ཚོགས་པའི་བྱེད་ལས་](/activities/care-home-groups/) ལུ་བལྟ།

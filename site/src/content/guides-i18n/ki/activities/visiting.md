@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Gũceerera Mũndũ Ũrĩ na Rĩĩhia rĩa Kwĩririkania"
+seoTitle: "Gũceerera Mũndũ Ũrĩ na Rĩĩhia rĩa Kwĩririkania"
+description: "Ũrĩa ũngĩĩka rĩrĩa ũgũceerera mũndũ ũrĩ na rĩĩhia rĩa kwĩririkania kũrĩa atũũraga, nyũmba ya ũteithio kana thibitarĩ: kũinũkia, maũndũ mũhũthũ na ũrĩa ũngĩĩha."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Rĩrĩa ũgũceerera mũndũ ũrĩ na rĩĩhia rĩa kwĩririkania kũrĩa atũũraga kana
+  thibitarĩ, tũma maũndũ makorwo mahũthũ: mwĩre rĩĩtwa rĩaku rĩrĩa wahika,
+  inũkia kĩndũ mũrĩgayanaga ta mbica, nyĩmbo kana irio ciendete, na mũrute
+  ũndũ ũmwe mũhũthũ mũrĩ hamwe. Maceera makuhĩ ma kaingĩ kaingĩ nĩ mega gũkĩra
+  maraihu ma mahinda maraya. Banga ũrĩa ũngĩĩha na ũhooreri nĩguo gũthiĩ
+  gũkorwo kũhũthũ harĩ inyuĩ eerĩ.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Geithia mũndũ ũcio na rĩĩtwa rĩake na wĩĩre wee nũũ rĩrĩa wahika, nĩguo ndakabatarĩke gwĩciria: „Ũhoro waku, Maitũ, nĩ niĩ Susan, mwarĩ waku.“"
+  - "Inũkia kĩndũ kĩmwe kana igĩrĩ mũrĩgayanaga, ta ibuku rĩa mbica, nyĩmbo ciendete, nguo njega ya kũigĩrĩria kana irio iria aruti a wĩra metĩkĩrĩtie."
+  - "Maceera makuhĩ ma kaingĩ kaingĩ nĩ mega gũkĩra maraihu ma mahinda maraya. Gũkorwo ho gwaku nĩ kwa bata gũkĩra ũrĩa ũkuuga."
+  - "Thibitarĩ-inĩ, he aruti a wĩra karatathi ka ũhoro wa mũndũ ũcio na ũĩre ndagĩtarĩ o narua ũngĩona harĩ na kĩgarũrũku kĩa o rĩmwe."
+  - "Banga ũrĩa ũngĩĩha: uga ihinda rĩrĩa ũngĩikara, hũthĩra ciugo o ro icio cia gũkũhoya rĩrĩa wothe ũgũthiĩ, na ũthiĩ ũtekũikarania."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Nĩ kĩĩ ingĩinũkia rĩrĩa ngũceerera mũndũ ũrĩ na rĩĩhia rĩa kwĩririkania?"
+    a: "Inũkia kĩndũ mũrĩgayanaga handũ ha kĩndũ gĩa kwaria ũhoro wakĩo. Ibuku inini rĩa mbica, mũtaratara wa nyĩmbo ciendete, nguo njega ya kũigĩrĩria, maguta ma moko, jarida ya wĩra ũrĩa eendete tene, kana irio iria aruti a wĩra metĩkĩrĩtie ciothe nĩ njega. Kũrĩa atũũraga na ũteithio, mbica cia famĩlĩ na indo iria amenyereire no itũme nyũmba ĩigue ta mũciĩ."
+  - q: "Nĩ ihinda rĩigana atĩa ingĩikara rĩrĩa ngũceerera mũndũ ũrĩ na rĩĩhia rĩa kwĩririkania?"
+    a: "Gũtirĩ ihinda rĩagĩrĩire rĩa kuoneka. Famĩlĩ nyingĩ cionaga atĩ maceera makuhĩ ma kaingĩ kaingĩ nĩ mega gũkĩra maraihu ma mahinda maraya, tondũ mũndũ ũcio no anoge narua na no akorwo ndaririkanaga ihinda rĩrĩa waikarire. Rora mũndũ ũcio amenyithanie atĩ nĩ anogete na ũthiĩ rĩrĩa gũceera gũgĩkoragwo kũrĩ kwega."
+  - q: "Nguuga atĩa rĩrĩa ahooya gũcoka mũciĩ?"
+    a: "Cokia ũhoro ũrĩa arĩĩkwĩrwo, ti ciugo ciake o icio. „Ndĩrenda gũcoka mũciĩ“ kaingĩ kuuga nĩ „Ndirĩ na ũhurũko kana ndikwĩigua ndĩ na ũgitĩri.“ Geria kuuga, „He ũhoro wa mũciĩ wanyu,“ mũrore mbica hamwe, kana mũringe gũthiĩ gũceera kana kũrĩa kĩndũ. Kũgana kana kũmũtaarĩria gĩtũmi kĩrĩa atangĩthiĩ kaingĩ gũonganagĩrĩria kĩeha."
+  - q: "Atĩa angĩaga kũmenya nĩ niĩ?"
+    a: "No kĩũmĩrĩrie, no geria ndũkamũrũngie kana ũmũũrie „Ndũũĩ nĩ niĩ ũũ?“ Wĩyumĩrie na ũrĩ na ũhooreri na mũkene ihinda rĩu mũrĩ hamwe. Andũ aingĩ no mathiĩ na mbere gũkena gũkorwo hamwe na andũ arĩa angĩ na maigue ũrugarĩ wa gũceera o na rĩrĩa matangĩhota gũkũririkana."
+  - q: "Ndingĩteithia atĩa rĩrĩa arĩ thibitarĩ?"
+    a: "Ikara hamwe na mũndũ ũcio rĩrĩa ũngĩhota, mũteithie kũrĩa na kũnyua, na ũinũkie indo iria amenyereire ta mbica. He aruti a wĩra karatathi karĩ na mũtaratara wake, rĩĩtwa rĩrĩa eendete gwĩtwo, maũndũ marĩa eendete na marĩa atendetete, na mamenyithia ma ruo. Ĩra ndagĩtarĩ o narua ũngĩona mũndũ ũcio akĩoneka arĩ mũũru mũno kana arĩ na ũgarũrũku wa o rĩmwe, tondũ kĩrigiicano kĩa o rĩmwe no kĩonanie thĩna wa mwĩrĩ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Gũceerera mũndũ wendete kũrĩa atũũraga arĩ na ũteithio wa rĩĩhia rĩa kwĩririkania, nyũmba ya gũtũũra andũ akũrũ arĩa mabataraga ũteithio kana thibitarĩ no kũrehe mawĩciirio maingĩ. No wĩyũrie ũrĩa ũngiuga, kĩrĩa ũngĩinũkia, kana gũceera kũu kũrĩ na bata o na angĩkorwo ndarĩkũririkana. Nĩ kũrĩ na bata. National Institute on Aging yugaga atĩ andũ arĩa marĩ na Alzheimer's [kaingĩ nĩ makenaga gũkorwo na andũ arĩa angĩ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) o na rĩrĩa matangĩririkana mũndũ ũrĩa ũmaceerete nũũ. Karatathi gaka nĩ gaheaga mĩthiĩre ya gwĩka mbere ya gũceera, hĩndĩ ya gũceera na thutha wa gũceera, hamwe na mataaro ma thibitarĩ.
 
-## How do I get ready for a visit?
+## Ndingĩĩhaarĩria atĩa mbere ya gũceera?
 
-A little planning makes the visit easier for both of you.
+Kũbanga hanini gũtũmaga gũceera kũhũthũ harĩ inyuĩ eerĩ.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Thuura ihinda rĩega.** Dementia Australia ĩtaaraga atĩ ũceerere rĩrĩa mũndũ ũcio akoragwo arĩ mũhũgũku, na kũrĩ andũ aingĩ nĩ rũciinĩ kana mĩaraho-inĩ. Family Caregiver Alliance ĩtaaraga atĩ ũmenye mũtaratara wa kũu atũũraga na ũceerere hĩndĩ ya [ihinda rĩa kwĩyendera handũ ha ihinda rĩa maũndũ ma gũthiiya](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Ũria aruti a wĩra.** Ũria mũndũ ũcio atariĩ ũmũthĩ, na ũmenye kana kũrĩ na mawatho ma irio, nyamũ cia mũciĩ kana gũthiĩ nja.
+- **Haarĩria mũhuko mũnini wa gũceera.** Kĩndũ kĩmwe kana igĩrĩ mũrĩgayanaga nĩ kĩiganĩte (rora mũtaratara ũrĩa ũrĩ thĩinĩ).
+- **Banga maũndũ manini ma kwaria.** Mũndũ ũcio no akorwo atarĩ na ũhoro mwerũ wa kũheana, nĩ ũndũ ũcio ũka na waku: ũhoro wa famĩlĩ, rĩera, mũtavano wa mũbira, kana rũgano rũkene.
+- **Ĩkĩra meciiria maku mũhaka.** Maceera mamwe megũkorwo marĩ na ũrugarĩ na ma kwaria. Mangĩ megũkorwo marĩ o gĩũ quiet kana maritũ. Mothe nĩ ma ndũire.
 
-## What should I bring?
+## Nĩ kĩĩ ingĩinũkia?
 
-Bring things to share, not things that test. Good choices include:
+Inũkia indo cia kũgayana, ti indo cia kũgeria. Indo njega nĩ ta:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Ibuku inini rĩa mbica** rĩrĩ na mbica nene, ionekaga wega. Andĩka ũhoro thutha warĩo nĩ ũndũ wa aruti a wĩra.
+- **Mũtaratara wa nyĩmbo** iria eendete thĩinĩ wa thimũ, hamwe na thikĩrĩrio njega kana kĩgamba kĩnini.
+- **Kĩndũ kĩororo gĩa kũnyiita,** ta nguo ya kũigĩrĩria, gitambaya kana bundi ĩrĩa amenyereire.
+- **Maguta ma moko** ma kũhihinya moko na ũhooreri, angĩkorwo nĩ eendete kũhutio.
+- **Jarida kana ibuku rĩa mbica** rĩa ũndũ ũrĩa eendete tene, ta ũrĩmi, ngari, nyoni kana kũruga.
+- **Irio iria eendete,** angĩkorwo aruti a wĩra moiga nĩ njega.
+- **Indo iria amenyereire cia nyũmba.** Family Caregiver Alliance ĩtaaraga mahũa, mĩmera, mbica cia famĩlĩ na wĩra wa moko, kana mbica nene ya famĩlĩ ya tene.
+- **Kabati ka kompiũta,** nĩ ũndũ wa kũrora mbica cia famĩlĩ kana kũruta mũtũũrĩre mũhũthũ mũrĩ hamwe.
 
-## What can we do together during a visit?
+## Nĩ maũndũ marĩkũ tũngĩruta hamwe hĩndĩ ya gũceera?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Kũruta ũndũ hamwe kũniinagia mĩritũ ya kwaria. Dementia Australia ĩtaaraga kũrora mbica, wĩra mũhũthũ wa moko, kũhanda tũmera, nyĩmbo, kũgayana irio, kana gũthiĩ gũceera hanini nja-inĩ. Meciiria mangĩ:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Rorai mbica.** Onania kĩrĩa ũrona: „Rora ngũbia ĩyo.“ „Mũrĩmo ũcio wa iria nĩ mwega.“ Reke mũndũ ũcio atongorie. Tigana na kũũria „Ũyũ nũũ?“
+2. **Hũgũrai nyĩmbo na mũine.** Nyĩmbo iria amenyereire no ciambatie ngoro na irehere ihinda rĩega rĩa hamwe, o na rĩrĩa kwaria kũrĩ na hinya.
+3. **Thiĩi gũceera hanini.** Family Caregiver Alliance ĩtaaraga gũthiĩ gũceera kũu atũũraga, makĩria mũgũnda-inĩ ũngĩkorwo ho. Gũthiĩ na gĩtĩ gĩa mĩgwate o nakĩo nĩ kwega.
+4. **Hihinya moko na ũhooreri.** Maguta manini na kũhihinya moko kahora no kũhoorerie.
+5. **Teithia wĩmenyerie.** Dementia Australia yugaga ũhoro wa gũcanũra njuĩrĩ, kũhaka maguta ma ciara kana kũmũteithia kwĩhumba nguo ĩrĩa eendete, angĩkorwo nĩ eendete ũguo.
+6. **Rutai mũtũũrĩre mũhũthũ.** Family Caregiver Alliance ĩtaaraga karati, domino, kana mũtũũrĩre ũrĩa wothe aarutaga tene. Thĩinĩ wa kabati ka kompiũta, [Picture Pairs](/games/picture-pairs/) no ũrutwo na mbica irĩ o ho na gũtarĩ mũthima wa ihinda. [Photo Pairs](/games/photo-pairs/) ĩtũmaga mbica iria wathuurire ituĩke mũtũũrĩre wa kũringithania, na mbica icio igĩikara thĩinĩ wa kĩhũthĩri kĩa wĩbũ.
+7. **Rorai kĩndũ hamwe.** Family Caregiver Alliance ĩtaaraga maithori ma gũthekania na sinema cia tene. O na mũndũ ũcio angĩaga kũrũmĩrĩra rũgano, no mũikare hakuhĩ mũgĩkenagĩra ihinda rĩu hamwe.
+8. **Thoma na mũgambo.** Rwĩmbo rũkuhĩ, karatathi kendete, kana marũa kuuma kũrĩ mũndũ wa famĩlĩ.
+9. **Ikarai hamwe o ũguo.** Kũnyiitana moko kana gũikara mũhooreire hamwe nĩ gũceera kwa ma. Alzheimer's Association yugaga atĩ nĩ wega kũaga ũrĩa ũngiuga, na atĩ gũkorwo ho gwaku nĩkuo kũrĩ bata mũno.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) no ĩgũteithie rĩrĩa wahũũna maũndũ ma kwaria. Karati o kamwe karĩ na mbica na kĩũria gĩa kwambĩrĩria ũhoro.
 
-## How should I talk during the visit?
+## Ngũkwaria atĩa hĩndĩ ya gũceera?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Wĩyumĩrie hĩndĩ ciothe.** „Ũhoro waku, Baba, nĩ niĩ Mark, mũrũ waku.“ NIA ĩtaaraga atĩ arĩa magũceerera meyumĩrie na njĩra nguhĩ nĩguo kwambĩrĩria ũhoro.
+- **Thiĩ mbere yake** na ũikare mũiganaine na maitho make.
+- **Tiga kũmũrũngia kana kũgana.** NIA ĩtaaraga arĩa magũceerera matikamũrũngie angĩhĩtia kana akariganĩrwo nĩ kĩndũ.
+- **Gĩa na wetereri** rĩrĩa ciugo irakara kuona. Mũhe ihinda rĩiganĩte.
+- **Cokia ũhoro kũrĩ ũrĩa arĩĩkwĩrwo.** Angĩoneka arĩ na kĩeha kana mĩtangĩko, etĩkĩra ũguo mbere ya kũgarũra ũhoro.
+- **Tigana na ciũria ta cia kĩgeranio** ta „Nĩũũkũririkana nĩ niĩ ũũ?“ kana „Warĩire kĩĩ mĩaraho-inĩ?“
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Rora [mataaro ma kwaria](/caregiving/communication-tips/) nĩ ũndũ wa maũndũ mangĩ.
 
-## What do I do when they say "I want to go home"?
+## Ngwĩka atĩa rĩrĩa oiga „Ndĩrenda gũcoka mũciĩ“?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Cokia ũhoro kũrĩ ũrĩa arĩĩkwĩrwo thutha wa ciugo icio (mũtaratara witũ wa [rĩrĩa mũndũ aikaraga akĩũria gũcoka mũciĩ](/caregiving/asking-to-go-home/) ũrĩ na ũhoro makĩria). Family Caregiver Alliance ĩtaarĩirie atĩ „Ndĩrenda gũcoka mũciĩ“ kaingĩ nĩ njĩra ya kuuga „Ndirĩ na ũhurũko,“ na ĩgatahwo macokio ta „He ũhoro wa mũciĩ wanyu“ kana „Nĩ kĩĩ wendetete mũno mũciĩ?“ Dementia Australia yongerera atĩ „mũciĩ“ no kuuge ihinda kana handũ harĩa mũndũ ũcio eiguaga arĩ na ũgitĩri, ta ũnini-inĩ wake.
 
-Try:
+Geria:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- gwĩtĩkĩra ũrĩa arĩĩkwĩrwo: „Nĩndĩrona ta ũkĩririria mũciĩ.“
+- kũmũhooreria na kũmũhutia, angĩkorwo nĩ etĩkĩrĩtie
+- kũrora mbica kana kwaria ũhoro wa mũciĩ wa famĩlĩ
+- kũmũũria mũthiĩ gũceera, mũnyue kĩndũ kana mũrĩe kĩndũ
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Tigana na kũgana kana kũmũtaarĩria gĩtũmi kĩrĩa atangĩthiĩ. Kaingĩ gũti teithagia na no kwongere kĩeha.
 
-## How long should a visit be?
+## Gũceera kũigana atĩa?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Maceera makuhĩ na ma kaingĩ kaingĩ kaingĩ nĩ mega. Family Caregiver Alliance yugaga atĩ mũndũ ũcio kaingĩ ndaririkanaga kana waikarire ndagĩka ithano kana mathaa matano, na ĩgatahwo atĩ maceera matatũ makuhĩ kiumia nĩ mega gũkĩra rĩmwe iraihu. Dementia Australia yugaga atĩ gũtirĩ mũigana ũrĩa wagĩrĩire wa maceera kana ihinda rĩagĩrĩire.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Ciumia cia mbere thutha wa gũthamĩra kũrĩa arĩ na ũteithio wa rĩĩhia rĩa kwĩririkania, Family Caregiver Alliance ĩtaaraga gũceera kaingĩ, ũcooke ũmĩenyereire mũtaratara wa ndũire kahora kahora. Ũria aruti a wĩra ũrĩa marona.
 
-## How do I leave without upsetting them?
+## Ndingĩĩha atĩa itekũmũthĩĩnia?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Kũthiĩ no gũkorwo nĩ gĩcunjĩ kĩrĩa kĩritũ mũno. Dementia Australia ĩtaaraga:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Uga ihinda rĩrĩa ũngĩikara rĩrĩa wahika.** „No ngĩikare ihinda rĩa thaa, ngacoke thiĩ kũgũra indo.“
+- **Hũthĩra wĩra ũmwe ta mũthia wa ndũire.** „Twarĩkia rwĩmbo rũrũ, nĩngũthiĩ.“
+- **Banga ihinda rĩu rĩringane na irio kana wĩra ũngĩ,** kana ũrie aruti a wĩra mateithie mũndũ ũcio kwambĩrĩria ũndũ ũngĩ.
+- **Tũma kũhoya gũkorwo gũkuhĩ na o kumwe hĩndĩ ciothe.** Kũikarania, kwĩra mũndũ „ndacera“ kana gũikara „hanini makĩria“ no gũtũme kũhoya kwa mahinda marĩa magooka gũkorwo na hinya makĩria.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Thutha wa gũthiĩ, nĩ ndũire kwĩigua ũrĩ na kĩeha. Wĩtĩkĩrie kũhurũka. Angĩkorwo mũndũ ũcio nĩ athĩĩnĩtio, aruti a wĩra kaingĩ no mamũhoorerie narua thutha ũcio.
 
-## Visiting someone with dementia in the hospital
+## Gũceerera mũndũ ũrĩ na rĩĩhia rĩa kwĩririkania arĩ thibitarĩ
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Thibitarĩ nĩ handũ harĩ na inegene, hatamenyereirwo na harĩ na andũ aingĩ atooĩ, na ũndũ ũcio no ũkorwo ũrĩ mũritũ mũno kũrĩ mũndũ ũrĩ na rĩĩhia rĩa kwĩririkania. Mũtaratara wa NIA wa [gũtwara mũndũ ũrĩ na Alzheimer's thibitarĩ](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ũtaaraga:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Reke mũndũ aikare hamwe na mũndũ ũcio** kaingĩ rĩrĩa kũhotekete: mũndũ wa famĩlĩ, mũrata wĩhokeku kana mũndũ wa kũmũteithagia.
+- **He aruti a wĩra karatathi ka ũhoro wa mũndũ ũcio** karĩ na mũtaratara wake, rĩĩtwa rĩrĩa eendete gwĩtwo, maũndũ marĩa eendete na marĩa atendetete, maũndũ marĩa mangĩmũthĩĩnia, na mamenyithia ma ruo matarĩ na ciugo. Iga kopi nyũmba-inĩ na harĩa anesi maikaraga.
+- **Teithia kũrĩa na kũnyua.** Andũ akũrũ no maagĩrwo nĩ irio thibitarĩ. Hingũra indo, teithia hĩndĩ ya irio, rĩanĩrai hamwe, na mũhe kĩndũ gĩa kũnyua.
+- **Inũkia indo cia kũhooreria** ta mbica kana indo cia mahooya.
+- **Niinia inegene.** Horia TV na ũniinie mũgambo wa thimũ na wa mĩario.
+- **Geria mĩtugo ya kũhooreria,** ta nyĩmbo njega, gũthoma, kũhooya, kũina kana kũrora mbica cia tene.
+- **Mũringĩrĩrie kwĩgarũra** rĩrĩa rĩothe kũrĩ na ũgitĩri, na kwĩtĩkĩrio nĩ aruti a wĩra.
+- **Ĩra ndagĩtarĩ o narua ũngĩona mũndũ ũcio akĩoneka arĩ mũũru mũno kana arĩ na ũgarũrũku wa o rĩmwe.** NIA ĩtaarĩirie atĩ kĩrigiicano kĩnene kĩa o rĩmwe, gĩĩtwo delirium, no kĩrehwo nĩ maũndũ ta mĩrimũ, homa, kwaga maaĩ mwĩrĩ-inĩ kana mĩthiro ya ndawa, na kĩbataire ũteithio wa ndagĩtarĩ.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Gũceera gũkuhĩ, gũtarĩ na inegene hamwe na ũthiũ ũmenyereirwo na rwĩmbo rwendete no kũkorwo nĩ ihinda rĩa kũhooreria mũno mũthenya-inĩ wa thibitarĩ.
 
-## Bringing children on a visit
+## Gũtwara ciana gũceera
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Ciana no cirehe ũrugarĩ mũingĩ. Cihaarĩrie mbere na ciugo njega, cia ma, tũma gũceera gũkorwo gũkuhĩ, na ũcihe wĩra, ta kuonania mũcoro kana kũnengera mbica. NIA yugaga atĩ ciana na andũ arĩa marĩ na Alzheimer's no makenagĩre maũndũ mahũthũ hamwe, ta kũrora ibuku rĩa mbica kana gũthikĩrĩria nyĩmbo. Dementia Australia ĩtaaraga kũhaarĩria mũhuko mũnini wa tũndũ tũnini kana indo cia gũikara nacio gĩũ nĩguo ciana nini ikorwo na kĩndũ gĩa gwĩka.
 
-## Take care of yourself too
+## Wĩmenyerere wee mwene o nawe
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Gũceera no kũnogie na kũhinyĩrĩria ngoro, makĩria angĩkorwo mũndũ ũcio nĩ agarũrũkĩte mũno. Nĩ wega gũceera kaingĩ hanini ũngĩkorwo ũkũbataraga ũguo, gũtwara mũrata mũteithie, kana gũthiĩ tene mũthenya ũrĩa mũritũ. Nĩ ũndũ wa meciiria ma kwĩmenyerera, rora [kwĩmenyerera kwa mũndũ ũrĩa ũmenyagĩrĩra](/caregiving/caregiver-self-care/). Ũngĩkorwo ũtũũraga kũraya, rora mũtaratara witũ wa [mecera ya thimũ na ya mbica](/activities/phone-and-video-calls/).

@@ -1,32 +1,28 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Obererezhioù evit gwazed gant dementia"
+seoTitle: "Obererezhioù evit gwazed gant dementia: Ideoù gwir"
+description: "Ideoù obererezhioù evit gwazed o vevañ gant dementia, diazezet war o micher, o c'hoarierezhioù hag o zanvezioù, gant aliesoù evit en em addasaat pep hini a-surentez."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  An obererezhioù gwellañ evit ur gwaz o vevañ gant dementia a zeu eus e vuhez e unan: al labour en deus graet, ar c'hoarierezhioù a garas ha ar boazioù deiz-ha-deiz a jomas ganeñ. Un den bet o labourat en ofis a c'hallfe plijout dezhañ lakaat an teuliadoù e-barzh, ur mekanikour a c'hallfe plijout dezhañ dornskeiñ ostilhoù glan, ha ur gwarer sport a c'hallfe plijout dezhañ ur c'hoari kozh. An dra a blij a zo disheñvel a wazed da wazed, neuze kregit diwar ar person, ha n'eo ket diwar e zoare gwaz.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Kregit gant istor an gwaz-mañ: e labour, e c'hoarierezhioù, e voazioù, ha kement a oa fier outañ."
+  - "Al labourioù gant ur pal gwir, evel lakaat ferramantoù e-unan, golchañ ar c'harr pe bren ur pezh koad, a blij muioc'h eget obererezhioù a seblant ur skol."
+  - "Ne blij ket ar ferramantoù pe ar sport d'an holl wazed. Kalz a blij dezho kevrin, sonerezh, leurenn, arz pe skoazellañ tud all. Goulennit, gwelit ha heuilhit e blijadur."
+  - "Ober al labourioù a-seurt-labour surentoc'h o tennañ ar ferramantoù lemm kuit ha o kemer evezh, ha simpla anezho pa vez kemmet galloud an den."
+  - "Lavarout nann a zo aotreet. Kinnig ur rol, n'eo ket ur gefridi, ha klaskit en-dro un deiz all."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Pe obererezhioù a blij d'ar gwazed gant dementia?"
+    a: "N'eus roll unan ebet, rak plijadurioù ar gwazed a zo disheñvel evel re an holl. Pennoù kentañ mat eo al labourioù a zo liammet ouzh e vicher kozh, evel urzhiañ paperioù pe dibab bolzoù ha stlejoù, ha c'hoarierezhioù a garas, evel pesketa, karr, sonerezh, kenaozañ pe sport. Gwelit petra a ra en-unan ha lakait war-raok diwar-benn se."
+  - q: "Va zad a nac'h ober kevrinoù. Petra a c'hallan ober?"
+    a: "Kalz a dud, gwazed ker ha gragez, a nac'h obererezhioù a seblant ur skol pe a zo dic'hwiliet dezho. Klaskit kinnig ul labour en lec'h: « Ha c'hwi a c'hallfe skoazellañ ac'hanon da urzhiañ an dra-se ? » Kevrinoù bihanoc'h pe amzer unan-ha-unan a c'hallfe bezañ muioc'h a eeunter eget ur gwel bras."
+  - q: "Mat eo laezhañ anezhañ ober gant ferramantoù?"
+    a: "Hepken dindan evezh ha gant ferramantoù diogel. Tennit ferramantoù dre elektrik, lemmoù ha pep tra lemm, ha kinnigit labourioù evel livañ ur stlejenn koad, urzhiañ ferramantoù glan, pe staeñ bolzoù bras dre zorn. Kevredigezh Alzheimer a lavar tennañ an traoù perilus eus ur stalig-labour, evit ma c'hallo bezañ plijet ar labour evel livañ en a-surentez."
+  - q: "Bet eo ur micherour. Ha ne vo ket fallagnek evit an dra-se?"
+    a: "Ya, ma vez kinniget evel labour dic'houzañv. Diskouezit ar labour evel skoazell gwir, implijit kefluniadur ogaloc'h evit tud fonnus, ha dibabit ul labour tost d'e rol kozh, evel gwelet ur roll, urzhiañ ur restr pe skoazellañ da strewiñ ur postadenn. Ma oa dismegañs bras e-keñver ul labour, un obererezh kevelerien a c'hallfe bezañ muioc'h a blijadur eget kemmesk."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +41,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Tud a glask « obererezhioù evit gwazed gant dementia » peogwir n'int ket mat gant ar sell-se a vez kinniget ordinal. Ur fret reizh eo. Met n'eo ket ur roll « obererezhioù gwazed » a zo ar respont. Kregit a rankit gant an den-mañ dibarzh: an micher en deus graet, ar pezh a rae e fin-the'ioù, ha ar pezh a lakae anezhañ da santout dienezhus. An dra a blij a zo disheñvel evit an holl. Kalz a wazed a gar kaout ar boued, labourat gant al louzaouenn, livañ pe kanañ, ha kalz a wragez a gar ar c'harrioù pe ar baseball.
 
-## How do I find activities he will actually enjoy?
+## Penaos kavout obererezhioù a blijo dezhañ e gwir?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Kregit gant istor e vuhez. Kevredigezh Alzheimer a lavar e tle ar [plan-deiz](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) bezañ savet a-enep plijadurioù, dizplijadurioù, nerzhioù ha c'hoarierezhioù ar person, hag a-enep penaos e kempenne e zeizioù kent. Goulennit ac'hanoc'h:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Petra oa e labour?** Ofis, kae, uzin, micher, soudarded, gwerzh, kelenn, gidal, an ti?
+- **Petra ree en amzer dieub?** Pesketa, kartoù, koad-labour, sport, kelc'h, sonerezh, boued, ur c'harr er c'harc'hell?
+- **Petra oa e voazioù?** Kafe hag ar gazeta bemde? Gwelet an amzer? Golchañ ar c'harr d'ar Sadorn?
+- **Petra gomz a ra c'hoazh en-unan?** Kevredigezh a noter e vez tapet an labourioù a vez graet en-unan, evel skubañ al leur, gant ar re-se a c'hallo dont da vezañ ur pezh eus ar boazioù.
+- **Petra zeu a-enep dezhañ?** Tud zo a blij dezho gwelet sport; re all a gav an dizh ha ar son a zo dic'hwiliet dezho. Notit pa vez laouen, pa vez fret pe pa vez kounaezus.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Kaozeit ivez gant ar familh hag an tud kozh a oa mignoned dezhañ. Dre ma vefe kemmet ar pezh a blije dezhañ, ar re-se a c'hallfe kof a-zoare.
 
-## Activity ideas based on past work
+## Ideoù obererezhioù diazezet war al labour kozh
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Kevredigezh Alzheimer a ro un skouer dezhañ: un den bet o labourat en ofis a c'hallfe plijout dezhañ urzhiañ traoù, evel lakaat pemp lur e ur bod, skoazellañ da strewiñ ur postadenn pe skrivañ ur roll traoù da ober, ha ur c'helenner koz pe ur labourer douar a c'hallfe plijout dezhañ labourat en e liorzh. Ar memes sell a dalv evit kalz a labourioù.
 
-| Past work | Activity ideas | Simpler version |
+| Micher kozh | Ideoù obererezhioù | Stumm dre-just |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Ofis pe ti-busnes | Lakaat paperioù en restroù, stampañ envelopoù, gwelet ur roll, urzhiañ ur verenn | Pentañ envelopoù; lakaat troadennoù paper e ur boest |
+| Mesterioù pe mekanikerezh | Urzhiañ kraoù, bolzoù ha rondelloù glan; staeñ bolzoù bras dre zorn; sellet ouzh katalogoù ostilhoù | Urzhiañ dre ment e daou bod |
+| Labour douar pe liorzhdiegezh | Dourañ, plantañ e potoù, rastellañ delioù, mirout al liorzh | Azezañ er-maez p'ho pezh labouret; daliañ pakadoù hadoù |
+| Soudarded | Lustrañ skodennoù, urzhiañ ur strewer, sellet ouzh skeudennoù eus ar servij ma c'hoant ganti | Harzhañ sonerezh eus ar prantad-se |
+| Gwerzh pe servij d'ar c'hwerourien | Degemer an dud, roiñ tamm boued, urzhiañ kuponoù | Azezañ tost d'an dor evit lavarout demat |
+| Kelenn | Lenn en uhelder, urzhiañ levrioù, lakaat skeudennoù en urzhioù dre zoareoù | Sellet ouzh ul levr skeudennoù asambles |
+| Gidal pe hent | Sellet ouzh kartoù pe gazetennoù karr kozh, golchañ ar c'harr | Gwelet ar c'harioù o tremen eus ur porched |
+| Ti ha familh | Plegañ dilhad, lakaat ar foeltr, skoazellañ evit ar merenn | Ledañ ar gwiñsoù; kirc'hiañ |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Memorioù zo, evel ar servij soudarded, a c'hall dihuniñ fromoù kreñv. Heuilhit e dro, lakait ar gomzoù diwar-benn ar c'hentañ a zo dic'hwiliet ha cheñchit an danvez doucik ma seblant bezañ trist.
 
-## Activity ideas based on hobbies
+## Ideoù obererezhioù diazezet war c'hoarierezhioù
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Koadegezh.** Lemmañ ur stlejenn koad lis pe livañ ur ster evezh-skrin. Kevredigezh Alzheimer a lavar e tlefe tennañ an danvezioù ha ferramantoù perilus eus ar stal-labour, evit ma vo plijet ha diogel an obererezh evel lemmañ.
+2. **Pesketa.** Urzhiañ ur boest pesk gant ar hamezed tennet kuit, lenn kazetennoù pesketa, pe azezañ asambles tro ur stank.
+3. **Karr.** Golchañ ar c'harr, lustrañ ar metalioù, sellet ouzh skeudennoù karr kozh, pe mont en ur veajiñ evel tremener.
+4. **Sport.** Gwelet ur c'hoari kozh pe ar pennadoù uhelañ, taolet ur bal sae, lakaat balioù golf war ur plenvenn, pe urzhiañ kartennoù baseball.
+5. **Kartoù ha c'hoarioù.** Ur c'hoari kartoù anavezet, domino, pe troiañ kartennoù evit kavout par. Diwallit ar pezh a vez gant ar pennoù ha ne vezit ket o tistreiñ ar pozioù.
+6. **Sonerezh.** Ganaouennoù eus e vugale ha e ugentvedoù, ur strollad a blij dezhañ, pe ur salm. Gwelit hon [gidenn an obererezhioù sonerezh](/activities/music/).
+7. **Kuisinerezh ha greuzañ.** Golchañ legumaj, stignañ ar saus, furmañ kiggoù, pe deskrivañ penaos e ra e chili brudet p'hoc'h e kuisinañ.
+8. **Ar gazeta.** Kevredigezh Alzheimer a notenn e c'hall un den a lenne ar gazeta bemde c'hoazh en em blijout o ober se, dre ma ne c'hall ket heuilhañ an danvez en holl. Ar c'hafe hag ar gazeta a c'hall chom e-kerzh ar mintin.
+9. **Savadurezh.** Modelloù bloavezh bras pe stummoù-savadurezh simpl evit tud a-vras. Dibabit tamm a zo aesañ da gemer gant an dorn.
+10. **Mirout un dra bennak.** Bourrañ ul loen-anaon, leuniañ an daol evit an evned, pe dourañ al loened. Ar NIA a ziwar [bourrañ, pennañ pe gerzhañ ul loen-anaon](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e-touez an obererezhioù a c'hall plijout d'an dud.
 
-## How do I offer an activity without it feeling like busywork?
+## Penaos kinnig un obererezh hep ma vefe da vezañ un labour dic'houzañv?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Diskouezit ez eo skoazell gwir. Kevredigezh Alzheimer a lavar goulenn « Ha c'hwi a c'hallfe skoazellañ ac'hanon, mar plij ? » ha kevreañ al labourioù ouzh ur pal. Keñveriit:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- « Fellout a ra dit urzhiañ ar bolzoù-mañ ? » (a seblant un examen)
+- « Prenet em eus ur sac kemmesk a ferramantoù hag e rankan urzhiañ ar re-mañ a-raok kreizhañ ar silf. Ha c'hwi a c'hallfe rannañ ouzh-me ? » (a seblant ul labour)
 
-Other tips:
+Aliesoù all:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Implijit danvezioù tud a oad.** Ostilhoù gwir gant an arvarlennoù lemm tennet kuit, katalogoù gwir, envelopoù gwir.
+- **Labourit kichen-ha-kichen.** Daou den o labourat war ul labour a zo kevredigezh. Unan o sellet ouzh unan all a zo gwelet.
+- **Na reizhit ket.** Ma vez bolzoù e-lec'h fall, lezit kement-se. Ar pezh a bouez eo an amzer asambles ha santout e vez implijet.
+- **Skoazellit e loc'h kregiñ.** Kevredigezh Alzheimer a notenn e c'hall kalz a dud c'hoant c'hoazh ober traoù met e reont dichañs da urzhiañ ha kregiñ. Gwnewch ar c'hentañ asambles.
 
-## How do I adapt as things change?
+## Penaos en em addasaat pa gemm an traoù?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Pa vez mont en-dro an dementia, Kevredigezh Alzheimer a lavar dont gant labourioù simpl ha liesfurmet, ha bezañ prest da lezel ar person da vezañ un tamm nebeutoc'h a-gweladenn. Ur gwaz a oa gwall vrav da adober gerdoù a c'hall plijout dezhañ bremañ tremen ur wrenchenn glan hag e kaozeal ouzh ar c'harioù, pe gwelet ac'hanoc'h o labourat. Gwelet a zo kemer perzh.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Ma oa bet ur micherour kreñv en un dra bennak, un obererezh kevelerien a c'hallfe bezañ gwelloc'h eget e grefteg kozh. Kevredigezh a notenn e c'hallfe bezañ fonnus ur arzour pro gant kemmoù e labour, tra ma c'hallfe ur c'harner-amatour kavout ur brezeliñ nevez. Heñvel eo gant ur zaerezh-ti o vezañ mestr.
 
-## Safety with work-style tasks
+## Diogelded gant labourioù a-seurt-labour
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Tennit ferramantoù dre elektrik, lemmoù hag ivinell, ha kozhioù ha sking gant pennoù lemm.
+- Serret ar stank, gazolin ha kimiezhioù.
+- Kuzhit alc'hwezioù ar c'harr p'ez eus ar gwir ne c'hall ket kas ar c'harr ken.
+- Heuilhit pep labour en stalig-labour pe en liorzh.
+- Dibabit tammoù bras na c'hallont ket bezañ lounet.
 
-## What if he says no?
+## Petra ober ma lavar nann?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Degemerit. Un nann a c'hall tegouezhañ peogwir a zo ar labour re galet, re vabeg pe n'eo ket mat hiziv. Kevredigezh Alzheimer a c'hourc'hemenn na vezer ket o ren. Klaskit ul labour all, un amzer all, pe azezit asambles hepken. Gwelet [petra ober pa lavaront nann](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## C'hoarioù ha kaozeadennoù a glot ganti
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Echuiñ al lazh](/games/finish-the-saying/) a implij lazhennoù boutin e Stadoù-Unanet ha kas d'ar gaozeadenn. [Kartennoù kaozeadenn](/games/conversation-cards/) a zo digor, hep kwizioù, dre zoareoù, ha gallout a reont digeriñ istorioù diwar-benn al labour hag ar c'hoarierezhioù. [Puzzle ar skeudenn](/games/picture-puzzle/) a gadw ar skeudenn a-bezh da welout p'hoc'h eilfasket ar pezhioù, ha [Klask ar gerioù](/games/word-search/) gant lizherenn bras a c'hall bezañ moullet ha graet gant ur pennad-skrivañ war an taol-boued. Evit c'hwezhañ e vuhez kozh hep e brouiñ, gwelet hon [gidenn an dastumadennoù](/activities/reminiscence/).

@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Golle deeyɗe jamma kiikiiɗe wonande yimɓe wuurɓe e dementia"
+seoTitle: "Sundowning: Golle deeyɗe jamma kiikiiɗe"
+description: "Dawirgol deeyngol, waylude nokku e golle jamma kiikiiɗe baawɗe wallude ustude jiiɓru kiikiiɗo e dementia, e ndeen tuma noddirta doktoor."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning ko jiiɓru, jiiɗgol walla seytinde fuɗɗoowo walla ɓeydoowo
+  kiikiiɗo walla jamma. Peeje baawɗe wallude ena jeyaa heen: dawirgol
+  ñalawma gootol, ndaygu e golle e adan kiikiiɗo, ustude ɗaanagol kiikiiɗo,
+  ustude kafee, huɓɓude annoore nder suudu ado jamma naatude, suudu deeƴɗo,
+  e golle jamma kiikiiɗe wano gaaci, nate walla taggude conci. Maandeeji
+  kesi walla ɓurɗi bonɗude ena foti ƴeewteede e doktoor.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning firti ko jiiɓru walla jiiɗgol fuɗɗoowo walla ɓeydoowo nde ndaygu ustata."
+  - "Waɗ golle tedduɗe, yillooje e lootugol subaka walla law kiikiiɗo."
+  - "Ndaygu, yah-ngartaa ñalawma kala, ustude ɗaanagol kiikiiɗo e ustude kafee kiikiiɗo ena mbaawi wallude jammaaji ɓurde jamma."
+  - "Huɓɓin annooje ado jamma naatude, usto hito, tee mbaylitaa e golle jamma kiikiiɗe, anndaaɗe."
+  - "Mooftu winndere ngam yi’de ko saabata ɗum, tee heddo jamma e deeƴre nde jiiɓru fuɗɗii."
+  - "Yah to doktoor so maandeeji kesi walla ɓurɗi bonɗude ngarii: nawnaare, ñawu walla lekki ena mbaawi jeyeede heen."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Hol sahaa e ñalawma sundowning heewi waɗde?"
+    a: "Heewi fuɗɗaade walla ɓeydaade kiikiiɗo walla fuɗɗorde jamma, nde ndaygu ustata. Sahaa mum ina wayla mo woni kala e mo woni kala; ko ɗum waɗi mooftude winndere seeɗa e nder yontere walla ɗiɗi ena waawi wallude."
+  - q: "Hol golle baawɗe wallude e sundowning?"
+    a: "Golle jamma kiikiiɗe, anndaaɗe, newiiɗe ina golla no feewi kiikiiɗo: gaaci deeyɗi, ndaarde nate, hiirde tele walla fiilde mo yiɗi, taggude conci, yah-ngartaa juutɗo, walla ñamdugo e mon. Mooftu golle kese walla sattiiɗe haa adan ñalawma."
+  - q: "Sundowning ena waawi wonde maande cellal?"
+    a: "Ena waawi ɓeydeede sabu caɗeele cellal wano nawnaare, ñabbuuli wano ñawu laawol cojji, caɗeele ɗaanagol walla battane lekki. So jiiɓru hesi, arii kisan walla ina ɓeydoo, jokkondir e doktoor neɗɗo on."
+  - q: "Mi foti naamnaade doktoor lekki ngam sundowning?"
+    a: "Ɗuum ko yeewtere potnde waɗdeede e doktoor. Alzheimer’s Association ina wi’a peeje ɗe ngonaa lekki ina poti ardineede, tee kala lekki ngam jiiɓru jamma foti ƴeewteede tan caggal miijtaade caɗeele e nafoore mum. Hello ngo alanaa huunde e lekki."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Ko heewi e galleeji ina teskoo mbaydi gooti: subakaaji ina njamma seeɗa, kono nde kiikiiɗo ina ɓada, neɗɗo wuurɗo e dementia ina fuɗɗoo jiiɓaade, hulde, jiiɗaade walla seytinde. Omo waawi yahde-ngartaade, naamnaade « yahde ka suudu » hay so o woni ka suudu, walla seytinde no newori. Ɗuum ina wiyee heewi sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Alaa safaara gooto, kono waylude yah-ngartaa ñalawma, nokku e fannu golle ɗe ndokkaa ena mbaawi waɗde kiikiiɗe ɓurde jamma. Hello ngo ina roondii miijooji gollotooɗi, ɗi ngonaa lekki, iwɗi e National Institute on Aging e Alzheimer’s Association. Ɗuum wonaa huunde e lekki. So maandeeji kesi, ngarii kisan walla ina ɓeydoo, yeewtu e doktoor neɗɗo on.
 
-## What is sundowning?
+## Ko woni sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning ko jiiɓru, seytinde, tikkaare walla jiiɗgol fuɗɗoowo walla ɓeydoowo nde ndaygu ustata, kiikiiɗo walla fuɗɗorde jamma. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ina hollita wonde tampude no feewi ena waawi ɓeydude jiiɓru kiikiiɗo.
 
-## What can make late-day restlessness worse?
+## Ko baawi ɓeydude jiiɓru kiikiiɗo?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Geɗe keewɗe ena mbaawi wallitde, heewi ko e go’o. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ina limta huunde wano:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- tampere caggal ñalawma timmuka;
+- nokkuuji kesi walla jiiɗooji;
+- « montoor ɓandu nder » mo yahdaani no feewi, waɗa neɗɗo o ɗaano ñalawma tee finno jamma;
+- annoore famɗunde e dowdiiji, baawɗi jiiɗinde;
+- nanngude annde walla seytinde yimɓe wonɓe sara mum;
+- soklude ɗaanagol seeɗa, ko heewi e mawɓe.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA ina ɓeyda sabuuji seytinde e kuuɓal, ena jeyaa heen nawnaare, ŋakkeende weltaare walla annde, ɗaanagol seeɗa, reedu sattuɗo, hito keewɗo walla yimɓe heewɓe, e won lekki walla jokkondiral lekki.
 
-## How can I plan the day to make evenings calmer?
+## Hol no mi feewnira ñalawma ngam jammaaji ɓurde jamma?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Sottin geɗe tedduɗe adan tee ngoppa kiikiiɗo jamma e deeƴre e anndaande. NIA e Alzheimer’s Association fof ina wasiyaa dawirgol ñalawma gootol. Yeru ñalawma, potɗo feewniteede e maa:
 
-| Time | What may help |
+| Sahaa | Ko baawi wallude |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Subaka | Njillu, lootugol, yillooje e kala golle ɗe ina poti semmbe, nde yimɓe heewɓe ɓuri finude |
+| Subaka cakkitiiɗo | Waktu yaasin walla takko henorde naange; yah-ngartaa walla golle goɗɗe |
+| Niiwto | Ñaamdu ngu ɓuri mawnude (Alzheimer’s Association ina wasiyaa ñaamdu mawndu e kiirol e ñaamdu famɗundu jamma) |
+| Kiikiiɗo gadano | Foftaade so ina foti, kono reen e ɗaanagol juutngol kiikiiɗo |
+| Hakkunde e cakkitiiɗo kiikiiɗo | Golle jamma kiikiiɗe, anndaaɗe; ñamdugel e njaram; alaa kafee |
+| Ado jamma naatude | Huɓɓin annooje nder suudu tee ombiraa dariiɗe ado niɓɓere heewde |
+| Jamma | Ñaamdu famɗundu, gaaci deeyɗi, ustitgol geɗe, dawirgol ɗaanagol gootol |
 
-A few specific points from the sources:
+Huunde seeɗa keeriiɗe iwɗe e cewle ɗee:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Ndaygu.** NIA ina wasiyaa feewnude waktu yaasin walla takko henorde ngam naange ñalawma kala.
+- **Dillere ñalawma kala, kono wonaa no feewi.** Eto wonde dillotooɗo ñalawma kala kono hoto feewniraa golle keewɗe, wiya NIA.
+- **Njaram kiikiiɗo.** Reen e njaram kadi e njaram jogiiɗam kafee, wano kafee walla kola, kiikiiɗo (NIA). Alzheimer’s Association ina jeya heen kadi sigaar.
+- **Ɗaanagol.** Ustit ɗaanagol juutngol e ɗaanagol kiikiiɗo (NIA). Alzheimer’s Association ina wasiyaa famɗinde ɗaanagol ñalawma so ɗaanagol jamma ina waɗi caɗeele.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Ngam ɓeydaade humpito e feewnude ñalawma gootol, yah to [golle dawirgol ñalawma](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Hol no mi waɗirta suudu ndu deeƴira kiikiiɗo?
 
-Reduce noise, add light and keep familiar things close.
+Ustit hito, ɓeydu annoore tee ngoppa geɗe anndaaɗe sara.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Annoore jalbunde, laaɓnde.** Alzheimer’s Association ina wasiyaa waɗde suudu ndu ina jalbi no feewi jamma. Huɓɓin nokku o ado dowdiiji feeñde.
+- **Ustit hito.** Ñif walla ustit tele e raajo, tee famɗin yilloowoɓe walla golle suudu keewɗe e sahaa oo. Alzheimer’s Association ina wasiyaa ustude geɗe ɓeydooje jamma wano tele, golle suudu e gaaci ubbiiɗi.
+- **Geɗe deeyɗe anndaaɗe.** NIA ina wasiyaa gaaci deeyɗi tee moofta geɗe e nate yiɗaaɗe takko suudu ndu.
+- **Ƴeewtagol weleede.** Alzheimer’s Association ina wasiyaa ƴeewtaade nawnaare, heege, ɗomka, reedu sattuɗo, ɓandu heewndu, tampere, ñabbuuli e tikkaare ɓandu, tee moofta suudu ndu e nguleendi weleendi.
+- **Haalirde maa.** Yimɓe ina nannga annde. NIA ina wasiyaa leeltude tee etaade deeyde so anndeeji maa ena mbaawi ɓeydude satteende ndee.
 
-## What calm activities can we do in the late afternoon?
+## Hol golle jamma kiikiiɗe men mbaawi waɗde kiikiiɗo?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Suɓo golle anndaaɗe, ɗe ngonaa kisan e newiiɗe dartinde. Alzheimer’s Association ina wasiyaa golle deeyɗe wano gaaci jamma, nate walla fiilde yiɗaande, e yah-ngartaa e mon ngam wallude jiiɓru. NIA ina wasiyaa ñamdugel walla njaram, hiirde tele mo yiɗi, gaaci, yah-ngartaa, janngude, walla golle suudu newiiɗe wano taggude conci.
 
-Ideas to try:
+Miijooji ngam etaade:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Taggude conci e mon.** NIA ina wasiyaa fannu golle suudu newiiɗe nii. Tawle ina newi jogoraade, tee golle ɗee ina ngoodi joofnirde laaɓnde.
+2. **Fijinde gaaci yiɗaaɗe.** Gaaci anndaaɗe gila e sukaaku mum, e sawto famɗungo. Huumaade e mum ena woodi. Miijooji goɗɗi ina nder [golle gaaci](/activities/music/).
+3. **Ndaarde nate.** Deftere nate, walla nate galle seeɗa e [Photo Pairs](/games/photo-pairs/) tawa nate ɗee ina kollaa, ena mbaawi addude yeewtere deeƴnde.
+4. **Yah-ngartaa juutɗo.** Nder ngesa, sara leydi walla e nder koridor, ado niɓɓere naatude.
+5. **Lollirde ñamdugel e njaram.** Huunde newnde, wulnde e nde aldaa kafee, e taabal e mon.
+6. **Jokkondiral newngal.** [Picture Pairs](/games/picture-pairs/) e tayle nay tawa nate ɗee ina kollaa ina newi fuɗɗaade e dartinde.
+7. **Diŋngol.** [Coloring](/games/coloring/) e yaynirde walla e hello winndaaɗo, tawa alaa faandaare timminde.
+8. **Ndaarde e yewtude.** [Conversation Cards](/games/conversation-cards/) ina ndokka natal e naamnal udditiingal. Ndaarde tan ena yonii.
+9. **Foftaare fooftere.** [Calm Breathing](/games/calm-breathing/) ko foftaare leelnde, deeƴnde nde kurminta-ɗaa tee ndartin-ɗaa hoore maa.
+10. **Golle juuɗe.** Suɓaade butoŋaaji walla calze, noorude dolokke meheere, walla jogoraade huunde anndaande. Yah to [golle meeɗɗugol](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Reen e fijirɗe kese, yillooje keewɗe e kala huunde naamnoowo teskagol walla hakkille keewɗo kiikiiɗo. Mooftu ɗe haa subaka.
 
-## What should I do when restlessness starts?
+## Ko mi foti waɗde nde jiiɓru fuɗɗii?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Heddo jamma, deeyɗin, tee mbaylitaa no newori. NIA ina wasiyaa yewtude e jamma, heɗaade haalaaji neɗɗo on, reenude e yeddondiral, hollude mo wonde o hisii, tee huutoraade meemugol mehergol so ina wallita. Caggal ɗuum eto waylude hakkille mum: ñamdugel, njaram, gaaci walla yah-ngartaa.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer’s Association ina wasiyaa konngol wano « A hisii ɗoo » e « Miɗo yoomi sabu a seytike », tee ina wasiyaa ɓeydude annoore, leeltude e ustude geɗe ɓeydooje. Hoto ombiraa, hoto ɓada no feewi, hoto haɗaa neɗɗo on walla yeddondir e makko.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+So neɗɗo on fuɗɗii murtude, NIA ina wasiyaa heddoraade woɗɗi haa nde mbaydi ndii dartii. E caɗeele njamndi, noddu limoore njamndi nokkuure maa tee haal wonde neɗɗo on ina wuurdi e dementia.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Koolaaɗe amen dow [jokkondiral](/caregiving/communication-tips/) e [ko waɗaa so o wi’i alaa](/caregiving/when-they-say-no/) ina ngoodi ɓeydaande e konngol deeyngol.
 
-## How do I find the triggers?
+## Hol no mi yiyirta ko saabata ɗum?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Mooftu winndere juutnde e nder yontere walla ɗiɗi. Alzheimer’s Association ina wasiyaa rewindaade ko waɗi ado jiiɓru ngam anndude ko saabata ɗum. Winndu sahaa jiiɓru fuɗɗi, ko waɗi e waktu gooto ado mum, ɗaanagol, ñaamdu e njaram, yilloowoɓe, hito e annoore. Nawru winndere ndee to doktoor. NIA ina hollita wonde rewindaade wayle mbaydi ena waawi wallude toppitiiɓe e sarwiisiyankooɓe cellal teskaade mbaydi.
 
-## When should I call a doctor about sundowning?
+## Hol tuma mi noddira doktoor baɗte sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Jokkondir e doktoor neɗɗo on so jiiɓru hesi, ɓeydi kisan, walla ina yahda e wayle goɗɗe. NIA ina wi’a wayle mbaydi ngariiɗe kisan walla mbaylotooɗe no yaawiri, tentinii caggal ñawu walla wayle lekki cakkitiiɗe, ina poti yaltineede to doktoor e kisan.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Naamnu doktoor yo ƴeewtu geɗe baawɗe saattinde jammaaji. Alzheimer’s Association ina jeya heen caɗeele ɓandu wano ñawu laawol cojji, jogagol cojji, koyɗe ndeenkaaki e ɗaanagol pof-pofngol, tee ina wasiyaa naamnaade hol sahaa e ñalawma ɓuri moƴƴude wonande lekki kala. NIA ina limta nawnaare, reedu sattuɗo e battane lekki walla jokkondiral lekki e nder sabuuji seytinde.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer’s Association ina wi’a peeje ɗe ngonaa lekki ina poti ardineede e caɗeele ɗaanagol jokkondirɗe e Alzheimer, tee lekki ngam jiiɓru kiikiiɗo foti ƴeewteede tan so ɗeen ngollaani, caggal miijtaade caɗeele e nafoore mum. Feere ndee ina foti waɗdeede e doktoor. Hoto fuɗɗo, hoto dartin walla hoto waylu hay lekki gooto, wallitorde ɗaanagol walla ɓeydital tawa alaa huunde doktoor.
 
-## How do I get through the evenings myself?
+## Hol no mi ɓennirta jammaaji kam ne?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Kiikiiɗe ena mbaawi wonde sahaa ɓurɗo sattude wonande toppitiɗo ñalawma. So ina waawi, naamno terɗe galle, musidɗo walla balloowo yoɓaaɗo yo toppito kiikiiɗo ñalɗi seeɗa e yontere, hay so waktu gooto tan. Koolaaɗe amen dow [toppitagol hoore maa neɗɗo toppitiiɗo](/caregiving/caregiver-self-care/) ina limta cuɓe foftaare e noddirgel dokkal ngal yoɓetaake ngal Alzheimer’s Association 24/7.

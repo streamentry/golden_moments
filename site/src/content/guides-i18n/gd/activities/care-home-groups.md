@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Gnìomhan Buidhne le Trom-inntinn: Stiùireadh"
+seoTitle: "Gnìomhan Buidhne le Trom-inntinn: Bingo, Òrain"
+description: "Gnìomhan buidhne airson cùram cuimhne is prògraman latha: bingo dhealbhan, seinn còmhla is cearcallan cuimhne, le molaidhean mu shuidheachadh is meud."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Bidh deagh ghnìomhan buidhne ann an cùram cuimhne agus ann am prògraman latha
+  goirid, eòlach agus furasta a ghabhail pàirt annta aig ìre sam bith: bingo
+  dhealbhan, seinn còmhla, cearcallan cuimhne, gluasad sìmplidh agus geamannan
+  facail còmhla. Cùm buidhnean beag far an urrainn dhut, suidhich daoine gus am
+  faic is an cluinn a h-uile duine, thoir aon cheum soilleir aig an aon àm, agus
+  planaich pàirt nas fhasa agus slighe shàmhach a-mach airson neach sam bith a
+  dh’fheumas sin.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Bidh buidhnean nas lugha gu tric ag obair nas fheàrr na aon tachartas mòr, agus leigidh iad le barrachd dhaoine pàirt ghnìomhach a ghabhail an àite dìreach a bhith a’ coimhead."
+  - "Suidhich daoine ann an cearcall no ann an cumadh each-chrùbain, faisg air an neach-stiùiridh, le feumalachdan claisneachd is lèirsinn san amharc agus fuaim cùlaibh air a cur dheth."
+  - "Planaich gach gnìomh aig dhà no trì ìrean gus an urrainn do dhaoine le comasan eadar-dhealaichte pàirt a ghabhail còmhla."
+  - "Seachain ceistean deuchainn, sgòran agus buannaichean. Faodar bingo dhealbhan a chluich gus am bi cairt làn aig a h-uile duine aig an deireadh."
+  - "Tha e ceart gu leòr falbh tràth, coimhead, no tuiteam nad chadal. Biodh ball den sgioba deiseil taic a thoirt do neach sam bith a tha ag iarraidh àite nas sàmhaiche."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Dè am meud buidhne a tha math airson gnìomhan trom-inntinn?"
+    a: "Chan eil aon àireamh cheart ann, agus bidh e an urra ris na daoine a tha an làthair, an t-seòmar agus cia mheud neach-obrach a tha agaibh. Tha mòran sgiobaidhean a’ faighinn a-mach gu bheil buidhnean beaga a’ leigeil le a h-uile duine faicinn, cluinntinn agus pàirt a ghabhail, agus gu bheil tachartasan ann an seòmraichean mòra gu tric a’ fàgail barrachd dhaoine a’ coimhead. Ma bhios sibh a’ ruith tachartas mòr, cuir luchd-obrach no saor-thoilich ris a shuidheas am measg nan daoine agus a chuidicheas aon no dithis gach fear."
+  - q: "Ciamar a ruitheas mi buidheann le comasan measgaichte?"
+    a: "Planaich barrachd air aon dòigh airson pàirt a ghabhail anns gach gnìomh. Ann an seinn còmhla, seinnidh cuid a h-uile facal, buailidh cuid am basan no seinnidh iad gu h-ìosal, agus cumaidh cuid inneal-ciùil beag. Ann am bingo dhealbhan, lorgaidh cuid na dealbhan aca fhèin agus comharraichidh cuideigin eile na dealbhan airson cuid. Suidhich daoine a dh’fheumas barrachd taic ri taobh neach-obrach no saor-thoileach."
+  - q: "Ciamar a chluicheas mi bingo dhealbhan gun a bhith farpaiseach?"
+    a: "Gairm a h-uile dealbh gus am bi cairt a h-uile duine làn, gus nach bi duine air fhàgail a-mach. Bruidhinn mu gach dealbh mar a thig e suas, agus seachain duaisean do bhuannaichean no thoir an aon rud beag do gach neach. ’S e an amas aire cho-roinnte agus còmhradh, chan e cò a chrìochnaicheas an toiseach."
+  - q: "An urrainn dhomh na geamannan agaibh a chleachdadh air scrion mhòr ann am buidheann?"
+    a: "’S urrainn. Bidh na geamannan againn a’ ruith ann am brabhsair-lìn, agus mar sin faodaidh sibh am fosgladh air laptop no tablaid ceangailte ri Tbh no proiseactar. Tha cairtean clò-bhuailte agus gairmeir air an sgrion ann am Picture Bingo. Bidh Finish the Saying agus Picture Pairs cuideachd ag obair gu math air scrion mhòr le aon neach a’ tapadh airson na buidhne."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Tha an stiùireadh seo airson stiùirichean gnìomhan, sgiobaidhean cùraim cuimhne agus stiùirichean phrògraman latha. Tha e a’ mìneachadh dòighean buidhne a bhios ag obair, suidheachadh an t-seòmair, mar a dh’atharraicheas tu aon ghnìomh airson comasan measgaichte, agus mar a chleachdas tu na cairtean bingo clò-bhuailte againn agus na geamannan air scrion mhòr. Tha a h-uile càil an seo ag amas air comhfhurtachd, ceangal agus roghainn. Chan eil dad an seo na dheuchainn.
 
-## What makes a group activity work in memory care?
+## Dè a nì gnìomh buidhne math ann an cùram cuimhne?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Tha gnìomh buidhne math eòlach, goirid, furasta a ghabhail pàirt ann aig ìre sam bith agus gun chuideam. Tha [Molaidhean Cleachdaidh Cùraim Trom-inntinn](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) aig Alzheimer’s Association a’ mìneachadh com-pàirt bhrìoghmhor mar rudeigin a tha a’ toirt taic do dh’ùidhean is roghainnean neach agus a leigeas leotha roghainn a dhèanamh agus a bhith soirbheachail, eadhon nuair a tha trom-inntinn aig an ìre as cruaidhe. Tha an aon sgrìobhainn ag innse gu bheil prògraman traidiseanta gu tric an urra ri aon no dhà thachartas buidhne mòr gach latha far nach bi daoine a tha an làthair ach gu ìre bheag an sàs gu gnìomhach.
 
-That points to a few practical rules:
+Tha sin a’ comharrachadh beagan riaghailtean practaigeach:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Tha eòlas nas fheàrr na rud ùr.** Tha òrain, seanfhacail, dealbhan agus nithean bho bhliadhnaichean òige nan daoine nas fhasa a ghabhail pàirt annta.
+- **Tha goirid nas fheàrr na fada.** Planaich airson timcheall air an ùine aire a bhios aig a’ bhuidheann agad mar as trice, le àite nàdarra airson stad sa mheadhan.
+- **Tha dèanamh nas fheàrr na coimhead.** Thoir rudeigin do gach neach airson a chumail, a thapadh, a thaghadh no a ràdh.
+- **Iomadh ìre, aon ghnìomh.** Tog a-steach dòighean nas fhasa agus nas duilghe airson pàirt a ghabhail.
+- **Gun bhuannaichean, gun sgòran.** Bidh cruthan farpaiseach a’ fàgail cuid de dhaoine a’ faireachdainn gun do dh’fhàillig iad.
 
-## How big should the group be?
+## Dè cho mòr ’s a bu chòir don bhuidheann a bhith?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Mar as trice tha nas lugha nas fhasa. Tha Alzheimer’s Association ag innse gum faod neach a tha a’ faighinn cus cuideam bho chruinneachadh mòr conaltradh nas soirbheachaile a dhèanamh ann am buidheann nas lugha. Chan eil aon àireamh cheart ann. Tha e an urra ris na daoine a tha an làthair, an t-seòmar agus cia mheud neach-obrach is saor-thoileach a tha ri fhaighinn.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Deuchainn fheumail: an urrainn do gach neach aghaidh an neach-stiùiridh fhaicinn, cluinntinn gu soilleir agus cuideigin a ruighinn taobh a-staigh beagan dhiog? Mura h-urrainn, roinn am buidheann, cuir barrachd luchd-cuideachaidh ris, no gluais gu seòmar nas lugha.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Airson tachartas mòr, leithid cuirm-ciùil saor-làithean, suidhich luchd-obrach is saor-thoilich am measg nan daoine, chan ann ri taobh nam ballachan.
 
-## How should I set up the room and seating?
+## Ciamar a shuidhicheas mi an seòmar agus na suidheachain?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Cearcall no cumadh each-chrùbain.** Tha na molaidhean cleachdaidh a’ mìneachadh cearcall roinneadh mar an dòigh as fheàrr ann an àite mòr gu leòr airson a h-uile duine suidhe ann an cearcall, gun fhuaim cùlaibh.
+- **Neach-stiùiridh faisg agus aig ìre nan sùl.** Suidh seach seas nuair as urrainn dhut.
+- **Claisneachd is lèirsinn an toiseach.** Suidhich daoine le call claisneachd as fhaisge air an neach-stiùiridh, air an taobh as fheàrr aca. Dèan cinnteach gu bheil speuclairean agus innealan-claisneachd orra. Tha Alzheimer’s Association ag innse gum faod duilgheadasan lèirsinn is claisneachd conaltradh a dhèanamh nas duilghe.
+- **Solas air cùl nan daoine, chan ann air do chùl-sa.** Seachain suidheachadh neach sam bith mu choinneimh uinneig shoilleir.
+- **Cuir dheth an telebhisean agus an rèidio.** Tha Alzheimer’s Association a’ moladh fuaim farpaiseach a thoirt air falbh aig gnìomhan ciùil.
+- **Aon chòmhradh aig an aon àm.** Tha tar-bhruidhinn doirbh do dhaoine a tha a’ fuireach le trom-inntinn agus do dhaoine le call claisneachd, mar a tha Alzheimer’s Association a’ comharrachadh san [stiùireadh saor-làithean](https://www.alz.org/help-support/caregiving/holidays) aca.
+- **Slighean a-mach soilleir agus oisean sàmhach.** Bu chòir do neach sam bith a tha ag iarraidh falbh a bhith comasach air sin a dhèanamh gu furasta, le ball den sgioba a’ coiseachd còmhla riutha.
 
-## Group activity ideas
+## Beachdan airson gnìomhan buidhne
 
-### Picture bingo
+### Bingo dhealbhan
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bidh bingo dhealbhan a’ cur dealbhan soilleir an àite àireamhan, leithid teapot, cù no ròs, gus nach fheum duine àireamh fhada a leantainn no clò beag a leughadh.
 
-**How to run it:**
+**Mar a ruitheas tu e:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Clò-bhuail aon chairt do gach neach bho dhuilleag [Picture Bingo](/games/picture-bingo/) againn leis a’ phutan Clò-bhuail. Tha pàipear nas truime nas fhasa a làimhseachadh. Dèan lannanachadh airson ath-chleachdadh.
+2. Thoir seachad comharran mòra a tha furasta an togail, leithid sliseagan pòcair, caiptean botal no ceàrnagan cairt.
+3. Cleachd an gairmeir air an sgrion air Tbh no proiseactar gus am faic a h-uile duine an dealbh fhad ’s a chanas tu ainm.
+4. Stad às dèidh gach dealbh agus cuir fàilte air beachd goirid: "Am bu toil le duine sam bith innse dhuinn mu chù air an robh iad eòlach?" no "Dè a chì sibh an seo?"
+5. Cùm a’ gairm gus am bi a h-uile cairt làn. Crìochnaichidh a h-uile duine.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Atharrachadh:** Cleachd nas lugha de cheàrnagan do dhaoine a tha a’ faighinn cairt làn ro thrang. Faodaidh cuideigin comharrachadh an dealbh a tha a’ freagairt do neach a dh’fheumas sin. Is dòcha gum b’ fheàrr le cuid cairt-dhealbh an gairmeir a chumail agus a shealltainn don bhuidheann.
 
-### Sing-alongs
+### Seinn còmhla
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+’S e ceòl aon de na gnìomhan buidhne as mòr-chòrdte. Tha Alzheimer’s Association ag innse gum faod neach, eadhon aig ìrean nas fhaide air adhart, [bualadh ri buille no òran bho òige a sheinn](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Mar a ruitheas tu e:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Tagh òrain a dh’fhàs na daoine a tha an làthair suas leotha, chan e na roghainnean as fheàrr leis an neach-stiùiridh. Faighnich do theaghlaichean dè a bha measail air gach neach.
+- Cleachd ceòl gun shanasan, a tha an Comann ag innse a dh’fhaodadh a bhith troimh-chèile.
+- Clò-bhuail faclan ann an clò mòr dhaibhsan a leughas, ach na dèan sin riatanach.
+- Tairg innealan-ciùil beaga, drumaichean làimhe no sgarfaichean airson an crathadh.
+- Brosnaich bualadh basan is gluasad, agus cùm an fhuaim aig ìre chofhurtail.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Atharrachadh:** Seinnidh cuid a h-uile facal, seinnidh cuid gu h-ìosal, buailidh cuid cas, agus èistidh cuid dìreach. Tha iad uile iomchaidh. Faic an [stiùireadh againn mu ghnìomhan ciùil](/activities/music/) airson tuilleadh.
 
-### Reminiscence groups
+### Buidhnean cuimhne
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Bidh buidheann cuimhne a’ cruinneachadh timcheall air cuspair, leithid làithean sgoile, a’ chiad chàraichean, cidsinean no samhradh, le dealbhan, nithean agus ceòl. ’S e an amas còmhradh tlachdmhor, chan e cuimhneachadh ceart.
 
-**How to run it:**
+**Mar a ruitheas tu e:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Tagh aon chuspair agus thoir leat beagan nithean a dh’fhaodas daoine a chumail: measgaichear làimhe, miotag ball-coise, ad, catalog sìl.
+2. Thoir seachad aon rud aig an aon àm. Faighnich ceistean fosgailte: "Innis dhomh mu dheidhinn seo," "Dè a chì thu?" "Cò a chleachd rudeigin mar seo?"
+3. Cuir fàilte air a h-uile freagairt. Na ceartaich ceann-latha no fìrinn.
+4. Stiùirich a’ chòmhradh gu cuimhneachain bhlàth. Tha na molaidhean cleachdaidh ag innse gum bu chòir do luchd-cùraim cuimhneachadh a stiùireadh gu cuimhneachain thlachdmhor seach feadhainn a dh’fhaodadh àmhghar a chruthachadh.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+Tha cairtean dealbh clò-bhuailte le ceistean fosgailte a rèir cuspair ann an [Conversation Cards](/games/conversation-cards/) a tha ag obair gu math mar thoiseach-tòiseachaidh còmhraidh. Tha barrachd bheachdan san [stiùireadh cuimhneachaidh](/activities/reminiscence/) againn.
 
-### Finish the saying
+### Crìochnaich an seanfhacal
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Bidh seanfhacail eòlach ("Is fheàrr teicheadh math na...") a’ toirt cuireadh don bhuidheann a’ chrìoch a ràdh còmhla. Seall [Finish the Saying](/games/finish-the-saying/) air scrion mhòr agus leig leis a’ bhuidheann freagairt mar aon ghuth. Tha ceist labhairt ann às dèidh gach seanfhacail. Mura can duine an deireadh, seall e agus gluais air adhart. Chan eil freagairt cheart no ceàrr ann.
 
-### Large-print word search, together
+### Lorg fhaclan ann an clò mòr, còmhla
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Seall an [Word Search](/games/word-search/) ann an clò mòr air scrion agus coimhead airson fhaclan mar bhuidheann, no clò-bhuail lethbhric dhaibhsan as toil leotha obrachadh leotha fhèin aig a’ bhòrd. Bidh faclan a’ dol dìreach tarsainn is sìos.
 
-### Gentle movement
+### Gluasad socair
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Sìneadh nan suidhe, ball bog no bailiùn a chur timcheall, no dannsa cathair le ceòl eòlach. Seall gach gluasad an àite a mhìneachadh.
 
-### Sorting and matching at the table
+### Seòrsachadh is maidseadh aig a’ bhòrd
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Faodaidh bùird bheaga le triùir no ceathrar dealbhan, pìosan aodaich no sgeinean is forcaichean a sheòrsachadh còmhla. Air an sgrion, faodar [Picture Pairs](/games/picture-pairs/) a chluich le dealbhan air am fàgail fosgailte, le aon neach a’ tapadh fhad ’s a tha am bòrd a’ bruidhinn mu gach dealbh.
 
-## How do I use your games on a big screen?
+## Ciamar a chleachdas mi na geamannan agaibh air scrion mhòr?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Bidh na geamannan againn a’ ruith ann am brabhsair-lìn, agus mar sin faodaidh sibh an cleachdadh air Tbh no proiseactar gun dad a stàladh.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Fosgail an geama air laptop no tablaid ceangailte ris an sgrion le càball no le tilgeadh gun uèir.
+2. Dèan am brabhsair làn-sgrion agus suidhich an fhuaim aig ìre chofhurtail.
+3. Faodaidh aon neach-stiùiridh an tapadh a dhèanamh fhad ’s a tha a’ bhuidheann ag èigheachd roghainnean. No thoir tablaid do neach a tha ag iarraidh cothrom.
+4. Stad uair sam bith a tha a’ bhuidheann deiseil. Chan eil timer, sgòr no crìoch èigneachail anns na geamannan.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+Bidh [Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) agus [Conversation Cards](/games/conversation-cards/) gu tric freagarrach do bhuidhnean. Faic a h-uile roghainn air [duilleag nan geamannan](/games/) againn.
 
-## How do I adapt one activity for mixed abilities?
+## Ciamar a dh’atharraicheas mi aon ghnìomh airson comasan measgaichte?
 
-Plan at least three ways to join every activity.
+Planaich co-dhiù trì dòighean airson pàirt a ghabhail anns gach gnìomh.
 
-| Activity | More independent | Some support | Most support |
+| Gnìomh | Nas neo-eisimeileach | Beagan taic | Barrachd taic |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo dhealbhan | Lorgaidh is còmhdaichidh na dealbhan fhèin | Comharraichidh cuideigin; còmhdaichidh an neach | Cumaidh cairt-dhealbh; èistidh is coimheadas |
+| Seinn còmhla | Seinnidh, taghaidh an ath òran | Seinnidh gu h-ìosal, buailidh basan, cleachdaidh inneal beag | Èistidh, cumaidh sgarf, buailidh làmh |
+| Cuimhneachadh | Innsidh sgeulachdan | Freagraidh le tha/chan eil no comharraichidh | Cumaidh is mothaichidh an nì |
+| Lorg fhaclan | Obraichidh air lethbhreac clò-bhuailte fhèin | Lorgaidh faclan air an scrion mhòr le cuideigin | Èistidh fhad ’s a thèid faclan a leughadh a-mach |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Do dhaoine aig ìrean nas fhaide air adhart, tha an NHS ag innse gum feum gnìomhan mar as trice a bhith nas sìmplidh agus barrachd fòcas a chur air na ciadfathan, leithid ceòl, nithean ri an suathadh agus massage làimhe. Dh’fhaodadh gum bi mionaid aon-ri-aon rè na buidhne no às dèidh làimhe nas freagarraiche dhaibh na a’ bhuidheann fhèin. Faic [gnìomhan aig ìrean nas fhaide air adhart](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Ciamar a bu chòir do luchd-stiùiridh bruidhinn rè buidhne?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Cuir thu fhèin an aithne gach turas, agus cleachd an t-ainm as fheàrr le gach neach.
+- Bruidhinn gu slaodach, thoir aon cheum aig an aon àm, agus seall mus innis thu.
+- Faighnich cuiridhean fosgailte ("Innis dhomh mu dheidhinn...") no roghainnean sìmplidh, chan e ceistean deuchainn ("A bheil cuimhne agad...?").
+- Na ceartaich. Thoir taing do dhaoine airson gach com-pàirt.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Tha tuilleadh mu dheidhinn seo san [stiùireadh againn mu mholaidhean conaltraidh](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Crìochnachadh gu math, agus leigeil le daoine falbh
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Tha stad na thoradh math. Thoir an aire do chomharran gu bheil cuideigin sgìth, mì-fhoisneach no troimh-chèile, agus biodh cuideigin deiseil cuairt-choiseachd no suidheachan sàmhach a thabhann ann an àite eile. Dh’fhaodadh cuideigin a tha a’ tuiteam na chadal rè seinn còmhla a bhith dìreach comhfhurtail.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Dùin a h-uile buidheann san aon dòigh, le òran eòlach no taing shìmplidh, gus am bi an deireadh socair is ris am biodh dùil. An dèidh làimhe, sgrìobh sìos na dh’obraich agus cò a chòrd e riutha. Nì na notaichean sin an ath sheisean nas fheàrr.

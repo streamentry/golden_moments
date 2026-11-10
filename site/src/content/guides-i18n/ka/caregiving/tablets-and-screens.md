@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "პლანშეტის ან ტელეფონის მომართვა დემენციის მქონე ადამიანისათვის"
+seoTitle: "პლანშეტის ან ტელეფონის მომართვა დემენციისას"
+description: "პლანშეტის და ტელეფონის მომართვა დემენციისას: ერთი აპით შეზღუდვა, დიდი ტექსტი, fewer შეტყობინებები, მარტივი მთავარი ეკრანი, ხმა და კონფიდენციალურობა."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  გაამარტივეთ პლანშეტი ან ტელეფონი, სანამ მას სხვას გადასცემთ. შეზღუდეთ ერთი
+  აპით iPad-სა და iPhone-ზე Guided Access-ის, ხოლო Android-ზე აპის ჩამაგრების
+  საშუალებით, ან გამოიყენეთ Apple-ის Assistive Access გამარტივებული ხედისთვის.
+  გაზარდეთ ტექსტი, გათიშეთ შეტყობინებები, მთავარ ეკრანზე მხოლოდ რამდენიმე აპი
+  დატოვეთ, წინასწარ დააყენეთ ხმის დონე, გამოიყენეთ სადგამი და შეზღუდეთ აპების
+  ნებართვები. გამოიყენეთ ერთად, ეკრანის გარეშე აქტივობებთან ერთად.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) და აპის ჩამაგრება (Android) ეკრანს ერთ აპში ტოვებს, სანამ თქვენ არ გახსნით."
+  - "Apple-ის Assistive Access სთავაზობს გამარტივებულ ხედს, რომელიც კოგნიტური სირთულეების მქონე ადამიანებისთვისაა შექმნილი."
+  - "გაზარდეთ ტექსტი და გათიშეთ შეტყობინებები და ამომხტარი ფანჯრები, რათა არაფერი შეაფერხოს და არ აგერიოთ."
+  - "მთავარ ეკრანზე მხოლოდ რამდენიმე ნაცნობი აპი დატოვეთ და ხმის დონე დაწყებამდე დააყენეთ."
+  - "სადგამი და ერთი მუდმივი დასატენი ადგილი მოწყობილობის გამოყენებასა და პოვნას ამარტივებს."
+  - "გადახედეთ აპების ნებართვებსა და მონაცემთა გაზიარებას: HIPAA, როგორც წესი, არ იცავს პირად მოწყობილობაზე შენახულ ინფორმაციას."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "როგორ ავუკრძალო დემენციის მქონე ადამიანს iPad-ზე აპიდან გასვლა?"
+    a: "ჩართეთ Guided Access გზით Settings > Accessibility > Guided Access და დააყენეთ საიდუმლო კოდი. გახსენით აპი, სამჯერ დააჭირეთ ზედა ღილაკს (ან Home ღილაკს ძველ iPad-ზე) და შეეხეთ Start-ს. iPad იმავე აპში დარჩება, სანამ ვინმე საიდუმლო კოდს არ შეიყვანს."
+  - q: "როგორ შევზღუდო Android პლანშეტი ერთი აპით?"
+    a: "ჩართეთ აპის ჩამაგრება Settings აპში, ჩვეულებრივ გზით Security (ზოგჯერ Security & location) > Advanced > App pinning. შემდეგ გახსენით აპი, გახსენით Overview, შეეხეთ აპის ხატულას ზემოთ და აირჩიეთ Pin. ჩამაგრების მოსახსნელად საჭირო იქნება თქვენი PIN-კოდი, ნიმუში ან პაროლი."
+  - q: "უსაფრთხოა თუ არა Guided Access-ის გამოყენება ადამიანის საკუთარ ტელეფონზე?"
+    a: "ფრთხილად იყავით. Apple-ის თქმით, Crash Detection და გადაუდებელი დახმარების სერვისები მიუწვდომელია, როცა Guided Access ჩართულია. თუ ადამიანი საგანგებო ზარებისთვის საკუთარ ტელეფონს იყენებს, Guided Access მხოლოდ მაშინ გამოიყენეთ, როცა მასთან ერთად ხართ, ან სანაცვლოდ Assistive Access განიხილეთ."
+  - q: "რამდენი ეკრანთან გატარებული დრო მისაღებია დემენციის მქონე ადამიანისთვის?"
+    a: "ზუსტი რაოდენობა არ არსებობს. მოკლე, ერთად გატარებული დრო, შერეული სასეირნო Spazier-ებთან, მუსიკასთან, სახლის საქმეებთან და საუბართან, დღის უკეთეს შევსებას უწყობს ხელს, ვიდრე ეკრანთან მარტო გატარებული ხანგრძლივი დრო. თუ მოწყობილობა იმედგაცრუებას იწვევს ან სხვა აქტივობებს ავიწროვებს, ნაკლებად გამოიყენეთ."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+პლანშეტი შეიძლება იყოს სურათების, მუსიკისა და მარტივი თამაშების ერთად გასაზიარებლად სასიამოვნო გზა. ზოგჯერ ის დამაბნეველიც შეიძლება იყოს: შემთხვევით შეხებას სხვა აპი ხსნის, შეტყობინება ჩნდება, ტექსტი ძალიან პატარაა ან თამაში შუაშია, როცა ეკრანი ქრება. მცირე მომართვა ამ პრობლემების უმეტესობას აგვარებს.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+ეს ნაბიჯები იყენებს iPhone-ის, iPad-ისა და Android-ის ჩაშენებულ პარამეტრებს. მენიუს სახელები შეიძლება განსხვავდებოდეს პროგრამული ვერსიისა და მოწყობილობის მწარმოებლის მიხედვით, ამიტომ თუ რამე განსხვავებულად გამოიყურება, მიჰყევით მოცემულ Apple-ის ან Google-ის ბმულს თქვენი მოწყობილობისთვის. მომართვა თავად გააკეთეთ, სანამ ერთად დაჯდებით.
 
-## Should someone with dementia use a tablet or phone?
+## უნდა გამოიყენოს თუ არა დემენციის მქონე ადამიანმა პლანშეტი ან ტელეფონი?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+ეს ადამიანს დამოკიდებულია. ბევრ ადამიანს სიამოვნებს პლანშეტის გამოყენება, როცა გვერდით ვინმე უზის, მაშინაც კი, თუ დამოუკიდებლად ვერ გაუმკლავდებოდა. დაიწყეთ ერთად გამოყენებით, ერთი გახსნილი აპით, რამდენიმე წუთით. თუ ეს სიამოვნებასა და საუბარს მოაქვს, გააგრძელეთ. თუ დაბნეულობას ან იმედგაცრუებას იწვევს, შესაძლოა ფოტოალბომი, დაბეჭდილი ფურცლები ან მუსიკა უკეთ შეესაბამებოდეს. ჩვენი [დასაბეჭდი აქტივობები](/activities/printable/) ერთ-ერთი ალტერნატივაა.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+პლანშეტი, როგორც წესი, ტელეფონზე მარტივია: ეკრანი და სურათები უფრო დიდია და ის არ არის იმავდროულად ადამიანის გადაუდებელი კავშირის საშუალება.
 
-## How do I lock a tablet or phone to one app?
+## როგორ შევზღუდო პლანშეტი ან ტელეფონი ერთი აპით?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+iPhone-სა და iPad-ზე გამოიყენეთ Guided Access, ხოლო Android-ზე — აპის ჩამაგრება. ორივე ეკრანს ერთ აპში ტოვებს, სანამ კოდს არ შეიყვანთ, ასე რომ შემთხვევითი შეხება ან გასმა სხვა რამეს ვერ გახსნის.
 
-### iPad and iPhone: Guided Access
+### iPad და iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple-ის Guided Access-ის ინსტრუქციის](https://support.apple.com/en-us/111795) მიხედვით:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. გახსენით **Settings**, შეეხეთ **Accessibility**-ს, შემდეგ შეეხეთ **Guided Access**-ს და ჩართეთ.
+2. **Passcode Settings**-ში დააყენეთ Guided Access-ის საიდუმლო კოდი. ასევე შეგიძლიათ Face ID-ის ან Touch ID-ის ჩართვა.
+3. სურვილისამებრ: **Display Auto-Lock**-ში აირჩიეთ, რამდენ ხანში ჩაიკეტოს ეკრანი სესიის დროს, რათა თამაში შუაში არ გაქრეს.
+4. გახსენით აპი, რომლის გამოყენებაც გსურთ.
+5. სამჯერ დააჭირეთ გვერდით ღილაკს (iPhone), ზედა ღილაკს (iPad) ან Home ღილაკს ძველ მოწყობილობებზე.
+6. სურვილისამებრ: შემოხაზეთ ეკრანის ის ნაწილები, რომლებზეც შეხება არ გსურთ იმოქმედოს. შეეხეთ **Options**-ს (ან **Session Settings**-ს), რომ გათიშოთ ხმის ღილაკები ან ეკრანის ტრიალი.
+7. შეეხეთ **Start**-ს.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+სესიის დასასრულებლად კვლავ სამჯერ დააჭირეთ იმავე ღილაკს, შეიყვანეთ საიდუმლო კოდი და შეეხეთ **End**-ს. Apple აღნიშნავს, რომ ზოგიერთ ძველ პროგრამულ ვერსიაზე ორჯერ დაჭერა არის საჭირო.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**მნიშვნელოვანი:** Apple-ის თქმით, Crash Detection და გადაუდებელი დახმარების სერვისები Guided Access-ის სესიის დროს მიუწვდომელია. არ დატოვოთ Guided Access ჩართული ტელეფონზე, რომელიც ადამიანს საგანგებო ზარებისთვის შეიძლება დასჭირდეს.
 
-### Android: app pinning
+### Android: აპის ჩამაგრება
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google-ის Android დახმარების გვერდის მიხედვით ეკრანების ჩამაგრების შესახებ](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. გახსენით **Settings** აპი.
+2. შეეხეთ **Security**-ს (ან **Security & location**-ს), შემდეგ **Advanced**-ს, შემდეგ **App pinning**-ს. თუ ვერ პოულობთ, შეამოწმეთ თქვენი მოწყობილობის მწარმოებლის დახმარების გვერდები.
+3. ჩართეთ **App pinning**. ჩამაგრების მოსახსნელად საჭირო იქნება თქვენი PIN-კოდი, ნიმუში ან პაროლი.
+4. გახსენით სასურველი აპი. Overview-ის გასახსნელად აასწიეთ თითი ეკრანის შუამდე და დააყოვნეთ (ან 3-ღილაკიანი ნავიგაციისას შეეხეთ Overview-ს).
+5. აპის წინასწარი ხედის ზემოთ შეეხეთ აპის ხატულას, შემდეგ შეეხეთ **Pin**-ს.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+ჟესტური ნავიგაციით ჩამაგრების მოსახსნელად აასწიეთ თითი ზემოთ და დააყოვნეთ. 3-ღილაკიანი ნავიგაციით შეეხეთ და დააყოვნეთ Back-სა და Overview-ზე. 2-ღილაკიანი ნავიგაციით შეეხეთ და დააყოვნეთ Back-სა და Home-ზე. შემდეგ შეიყვანეთ თქვენი PIN-კოდი, ნიმუში ან პაროლი.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## არის თუ არა მთელი iPhone-ის ან iPad-ისთვის უფრო მარტივი რეჟიმი?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+დიახ. Apple-ის Assistive Access ჩვეულებრივ მთავარ ეკრანს უფრო მარტივით ანაცვლებს. [Apple აღწერს მას](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios), როგორც ფუნქციას, რომელიც iPhone-ის დამოუკიდებლად გამოყენებას ამარტივებს კოგნიტური სირთულეების მქონე ადამიანებისთვის — ეკრანზე უფრო დიდი ელემენტებითა და უფრო კონკრეტული ფუნქციებით. Apple [იგივე ფუნქციას iPad-ზეც სთავაზობს](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **ვინ აკეთებს მომართვას.** Apple გვთავაზობს, რომ სანდო მხარდამჭერმა, მაგალითად ოჯახის წევრმა ან მზრუნველმა, ვინც ადამიანს კარგად იცნობს, დაეხმაროს აპებისა და ფუნქციების შერჩევაში.
+- **საიდან დავიწყოთ.** გადადით **Settings > Accessibility > Assistive Access**-ში, შეეხეთ **Set Up Assistive Access**-ს, შემდეგ **Continue**-ს.
+- **აპები.** თქვენ ირჩევთ, რომელ აპები გამოჩნდება. ზოგიერთ Apple-ის აპს აქვს სპეციალური გამარტივებული ვერსია, ხოლო სხვა აპების უმეტესობის დამატება მათი ჩვეულებრივი სახით შეიძლება.
+- **განლაგება.** აირჩიეთ **Rows** (ადვილად წასაკითხი სია) ან **Grid** (უფრო დიდი ელემენტები, სადაც სურათები და ხატულები უფრო გამოკვეთილია).
+- **საიდუმლო კოდი.** თქვენ ცალკე Assistive Access-ის საიდუმლო კოდს აყენებთ შესასვლელად, გამოსასვლელად ან პარამეტრების შესაცვლელად. Apple გირჩევთ, მომართვისას აღდგენის Apple Account-იც დააყენოთ, რადგან მის გარეშე დავიწყებული კოდი მოწყობილობის თავიდან დაყენებას მოითხოვს.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access შეიძლება შეეფეროს ადამიანს, რომელიც საკუთარ მოწყობილობას ყოველდღე იყენებს. Guided Access ან აპის ჩამაგრება უფრო სწრაფია ერთობლივი თამაშის დროისთვის.
 
-## How do I make text and pictures bigger?
+## როგორ გავადიდო ტექსტი და სურათები?
 
-Increase the text and display size, then check that buttons still fit on screen.
+გაზარდეთ ტექსტისა და ეკრანის ზომა, შემდეგ შეამოწმეთ, რომ ღილაკები ეკრანზე მაინც ეტევა.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone და iPad.** [Apple-ის შრიფტის ზომის ინსტრუქციის](https://support.apple.com/en-us/102453) მიხედვით, გადადით **Settings > Display & Brightness > Text Size**-ში და გადაადგილეთ სლაიდერი. კიდევ უფრო დიდი ტექსტისთვის გადადით **Settings > Accessibility > Display & Text Size > Larger Text**-ში. Apple აღნიშნავს, რომ ძალიან დიდმა ტექსტმა შეიძლება ზოგიერთი ღილაკის შეხება გაართულოს, ამიტომ საჭიროებისამებრ მოარგეთ.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google-ის ტექსტისა და ეკრანის პარამეტრების დახმარების](https://support.google.com/accessibility/android/answer/11183305?hl=en) მიხედვით, გახსენით **Settings** და მოძებნეთ **Font size**, შემდეგ გადაადგილეთ სლაიდერი. მოძებნეთ **Display size**, რომ ეკრანზე ყველაფერი გაადიდოთ. ასევე შეგიძლიათ ჩართოთ **Bold text** გზით **Accessibility > Display size and text**. ზოგიერთი აპი ამ პარამეტრებს არ მიჰყვება.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+თამაშებში, როგორიცაა [Picture Pairs](/games/picture-pairs/) და [Find the Same](/games/find-the-same/), ასევე შეგიძლიათ აირჩიოთ ნაკლები ფილა ან არჩევანი, რაც ეკრანზე ყველაფერს უფრო მარტივს ხდის.
 
-## How do I stop notifications and pop-ups?
+## როგორ შევაჩერო შეტყობინებები და ამომხტარი ფანჯრები?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+გამორთეთ არასაჭირო აპების შეტყობინებები და აქტივობების დროს გამოიყენეთ Do Not Disturb.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone და iPad.** გადადით **Settings > Notifications**-ში, **Notification Style**-ის ქვემოთ შეეხეთ აპს და გამორთეთ **Allow Notifications** ([Apple-ის შეტყობინებების პარამეტრების გზამკვლევი](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). ზარების, გაფრთხილებებისა და შეტყობინებების დროებით დასადუმებლად გახსენით Control Center და **Focus** ღილაკიდან ჩართეთ **Do Not Disturb** ([Apple-ის Do Not Disturb დახმარება](https://support.apple.com/en-us/105112)). მისი დაგეგმვა შეგიძლიათ გზით **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** ჩამოსწიეთ თითი ეკრანის ზემოდან და შეეხეთ **Do Not Disturb**-ს, ან გადადით **Settings > Modes > Do Not Disturb**-ში ([Google-ის Do Not Disturb დახმარება](https://support.google.com/android/answer/9069335?hl=en)). **Notification filters**-ში შეგიძლიათ აირჩიოთ, რომელ ადამიანებსა და აპებს შეეძლოს კვლავ შემოტანა შეტყობინებების. პარამეტრები მოწყობილობის მწარმოებლის მიხედვით განსხვავდება.
 
-## How do I make a simple home screen?
+## როგორ შევქმნა მარტივი მთავარი ეკრანი?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+დატოვეთ რამდენიმე ნაცნობი აპი ერთ ეკრანზე და დანარჩენი მხედველობიდან გადაინაცვლეთ. ამისთვის ერთი კონკრეტული პარამეტრი არ არსებობს; საქმე ზედმეტის მოცილებაშია.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **აირჩიეთ სამი-ექვსი აპი.** მაგალითად, ფოტოები, მუსიკა, ვიდეოზარის აპი და ერთი თამაში.
+- **განათავსეთ ისინი პირველ ეკრანზე,** ყოველ ჯერზე ერთსა და იმავე ადგილებში, ხოლო დანარჩენი მეორე ეკრანზე ან საქაღალდეში გადაიტანეთ.
+- **გამოიყენეთ უბრალო, მაღალი კონტრასტის ფონი,** მაგალითად ერთი ფერი ან ერთი ნაცნობი ფოტო, რათა ხატულები კარგად ჩანდეს.
+- **წაშალეთ არასაჭირო აპები.** ნაკლები აპი ნიშნავს ნაკლებ დაბნეულობას და ნაკლებ შეგროვებულ მონაცემს.
+- **განიხილეთ Assistive Access** Apple-ის მოწყობილობებზე, თუ გსურთ, რომ მოწყობილობამ ეს თქვენთვის გააკეთოს.
 
-## What about volume and sound?
+## რა უნდა გავითვალისწინო ხმისა და ბგერისას?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+მოწყობილობის გადაცემამდე დააყენეთ კომფორტული ხმის დონე. Guided Access-ით შეგიძლიათ ხმის ღილაკები გათიშოთ, რათა აქტივობის დროს არ შეიცვალოს. შეამოწმეთ, რომ სმენის აპარატები ჩართული და გამართულია.
 
-## Where should the tablet live?
+## სად უნდა ინახებოდეს პლანშეტი?
 
-Give it a stand and a permanent charging spot.
+მიეცით მას სადგამი და მუდმივი დასატენი ადგილი.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **სადგამი ან ბუდე,** რომელიც პლანშეტს მაგიდაზე სწორმდგომი держ-ს, ნიშნავს, რომ არავის უწევს მისი დაჭერა და თითის მითითებაც უფრო მარტივია.
+- **ერთი დასატენი ადგილი,** რომელიც არასდროს იცვლება — სასურველია დამტენი სადგამი იმ ოთახის მაგიდაზე, რომელსაც ყოველდღე იყენებთ. ასე პლანშეტი ყოველთვის დამუხტული და ყოველთვის ერთ ადგილზე იქნება.
+- **შეამცირეთ არეკვლა.** ეკრანი ისე მოათავსეთ, რომ კაშკაშა ფანჯარას არ უყურებდეს.
 
-## How much screen time is okay?
+## რამდენი ეკრანთან გატარებული დრო მისაღებია?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+წუთების სწორი რაოდენობა არ არსებობს. მიზნად დაისახეთ მოკლე, ერთად გატარებული დრო, როგორც სავსე დღის ერთი ნაწილი, რომელიც ასევე მოიცავს მოძრაობას, მუსიკას, სახლის საქმეებს, საუბარსა და გარეთ გატარებულ დროს. რადგან დატვირთულმა საღამოებმა შეიძლება დღის ბოლოს მოუსვენრობა გააძლიეროს, ეკრანთან დაკავშირებული აქტივობები დღის ადრეულ საათებში განიხილეთ. იხილეთ [მშვიდი აქტივობები დღის მეორე ნახევრის ბოლოსთვის](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+პლანშეტის ერთად გამოყენება, და არა მისი „ძიძად“ გამოყენება, მას სოციალურს ინარჩუნებს. ჩვენი გზამკვლევი [თამაშების ერთად თამაშის შესახებ](/caregiving/how-to-play-together/) ამის ხერხებს განმარტავს.
 
-## How do I protect their privacy on the device?
+## როგორ დავიცვა მისი კონფიდენციალურობა მოწყობილობაზე?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+შეზღუდეთ, რა შეიძლება შეაგროვოს აპებმა, და ნუ ჩათვლით, რომ ჯანმრთელობის კონფიდენციალურობის კანონი ამას იცავს. აშშ-ის ჯანმრთელობისა და ადამიანური მომსახურების დეპარტამენტი (HHS) [განმარტავს](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), რომ HIPAA-ის წესები, როგორც წესი, არ იცავს ჯანმრთელობის ინფორმაციას, რომელიც პირად ტელეფონებსა და პლანშეტებზე ინახება ან მათით გამოიყენება. უმეტეს შემთხვევაში HIPAA არც იმ მონაცემებს იცავს, რომლებიც პირადი გამოყენებისთვის აპებში შეჰყავთ, თუ აპი არ არის მოწოდებული დაფარული ჯანდაცვის მიმწოდებლის, ჯანმრთელობის გეგმის ან მათი ბიზნეს პარტნიორის მიერ.
 
-HHS suggests:
+HHS გვთავაზობს:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- არასაჭირო ან შემთხვევითი აპების, განსაკუთრებით „უფასო“ აპების, თავიდან აცილებას;
+- აპებისთვის მდებარეობაზე წვდომის არ მიცემას, თუ მას ნამდვილად არ საჭიროებენ, მაგალითად რუკები.
 
-Also consider:
+ასევე გაითვალისწინეთ:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **გამოიყენეთ საიდუმლო კოდი** მოწყობილობაზე და შეინახეთ იგი უსაფრთხო ადგილას.
+- **გადახედეთ ნებართვებს** ფოტოებზე, კამერაზე, მიკროფონზე, კონტაქტებსა და მდებარეობაზე და გამორთეთ ყველაფერი, რაც აპს არ სჭირდება.
+- **შეამოწმეთ, რას აგროვებს აპი** დაყენებამდე. ჩვენს გზამკვლევს [დემენციისთვის აპებისა და თამაშების არჩევის შესახებ](/caregiving/choosing-apps-and-games/) აქვს კონფიდენციალურობის ჩამონათვალი.
+- **ფრთხილად იყავით ოჯახურ ფოტოებთან.** გააზიარეთ მხოლოდ ის ფოტოები, რომლებიც ადამიანისთვის მისაღები იქნება, და იცოდეთ, სად ინახავს მათ აპი. [Photo Pairs](/games/photo-pairs/)-ში თქვენ მიერ არჩეული ფოტოები თქვენს ბრაუზერში რჩება.
+- **გამორთეთ აპისშიდა შენაძენები** ან წაშალეთ გადახდის მონაცემები იმ ანგარიშებიდან, რომელსაც ადამიანი იყენებს.

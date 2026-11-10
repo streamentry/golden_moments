@@ -1,34 +1,36 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Gweithgareddau i Bobl â Dementia: 101 o Syniadau Syml"
+seoTitle: "Syniadau Gweithgareddau Dementia: 101 Gweithgaredd"
+description: "101 o weithgareddau syml i oedolion i bobl sy’n byw gyda dementia, o blygu tywelion i gerddoriaeth a lluniau, gyda sut i’w haddasu wrth i bethau fynd yn anoddach."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Mae gweithgareddau da i bobl sy’n byw gyda dementia yn gyfarwydd, yn addas
+  i oedolion ac yn hawdd eu rhannu: plygu dillad, didoli, coginio, gwrando ar
+  gerddoriaeth, edrych ar luniau, cerdded, garddio, treulio amser gydag
+  anifeiliaid anwes a gemau syml. Dewiswch yr hyn y mae’r person wedi mwynhau
+  erioed, cymerwch yr adnodd yr elfennau anodd, a rhowch y gorau iddi pan fydd
+  y person yn blino. Mae treulio amser pleserus gyda’ch gilydd yn bwysicach na
+  gorffen unrhyw beth.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Dechreuwch o fywyd y person ei hun: eu gwaith, eu diddordebau, eu ffydd a’u hoff gerddoriaeth yw’r canllaw gorau."
+  - "Gwnewch unrhyw weithgaredd yn llai os oes angen: llai o gamau, llai o ddewisiadau, a chi’n gwneud y rhan anodd."
+  - "Mae gwylio, dal rhywbeth neu eistedd gerllaw yn cyfrif fel cymryd rhan."
+  - "Stopiwch neu newidiwch pan welwch flinder, rhwystredigaeth neu ddiflastod. Mae dod i ben yn gynnar yn ganlyniad da."
+  - "Mae gwneud pethau gyda’ch gilydd yn bwysicach na’u gwneud yn iawn."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Pa weithgareddau sy’n dda i rywun â dementia?"
+    a: "Gweithgareddau cyfarwydd y mae’r person wedi’u gwneud ers blynyddoedd, wedi’u gwneud ychydig yn haws: plygu dillad, gosod y bwrdd, coginio, gwrando ar gerddoriaeth, edrych ar luniau, cerdded, garddio a threulio amser gydag anifail anwes. Dewiswch bethau sy’n teimlo’n addas i oedolion ac yn ddefnyddiol, a gwnewch nhw gyda’ch gilydd."
+  - q: "Am faint y dylai gweithgaredd bara?"
+    a: "Does dim hyd iawn. Gall ychydig funudau o blygu tywelion fod yn ddigon un diwrnod, a gall awr yn yr ardd deimlo’n hawdd ddiwrnod arall. Gadewch i’r person osod y cyflymder a dod i ben tra bod pethau’n dal i deimlo’n braf."
+  - q: "Beth os yw’r person yn gwrthod gwneud gweithgaredd?"
+    a: "Peidiwch â gwasgu. Gall ‘na’ olygu bod y dasg yn teimlo’n rhy anodd, nad yw’r amseru’n iawn, neu fod y person wedi blino neu’n anghyfforddus. Rhowch gynnig arall arni’n ddiweddarach, cynigiwch fersiwn lai, neu dechreuwch y dasg eich hun gerllaw a gwahodd y person i helpu."
+  - q: "A yw gemau ymennydd yn dda i bobl â dementia?"
+    a: "Gall gemau fod yn ffordd bleserus o dreulio amser gyda’ch gilydd, ond nid oes unrhyw gêm wedi dangos ei bod yn trin, yn arafu nac yn atal dementia. Dewiswch gemau heb amserydd, sgôr na synau ateb anghywir, a’u trin fel gweithgaredd ar y cyd, nid prawf."
+  - q: "Sut alla i gadw gweithgareddau rhag teimlo’n blentynnaidd?"
+    a: "Defnyddiwch ddeunyddiau go iawn, addas i oedolion: tywelion go iawn, ryseitiau go iawn, cerddoriaeth ac offer celf i oedolion, a lluniau gyda themâu oedolion. Cyflwynwch dasgau fel cymorth rydych chi wir ei angen, a siaradwch â’r person fel yr oedolyn y mae."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +52,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Y gweithgaredd gorau i berson sy’n byw gyda dementia fel arfer yw rhywbeth y mae eisoes yn gwybod sut i’w wneud, wedi’i wneud ychydig yn haws a’i wneud ochr yn ochr â rhywun y mae’n ymddiried ynddo. Isod mae 101 o syniadau, wedi’u grwpio yn ôl math, gyda sut i’w trefnu a sut i’w gwneud yn haws pan fydd pethau’n mynd yn anoddach. Does dim angen offer arbennig arnoch chi, a does dim angen gorffen dim byd. Gall prynhawn da fod yn ddim mwy na basged o dywelion a phaned o goffi gyda’ch gilydd.
 
-## How do you choose the right activity?
+## Sut ydych chi’n dewis y gweithgaredd iawn?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Dewiswch yn ôl y person, nid y rhestr: dechreuwch gyda’r hyn y mae wedi mwynhau erioed a’r hyn y gall ei wneud yn gyfforddus heddiw.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Meddyliwch am eu gwaith a’u diddordebau.** Mae [Cymdeithas Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) yn awgrymu y gallai cyn-weithiwr swyddfa fwynhau didoli darnau arian neu baratoi llythyrau, ac y gallai garddwr fwynhau gwaith yn yr ardd.
+- **Sylwch ar yr hyn y maen nhw eisoes yn ei wneud.** Os yw eich tad yn ysgubo’r porth bob bore heb gael cais, gwnewch hynny’n rhan o’r diwrnod.
+- **Cynlluniwch o amgylch cyfyngiadau.** Mae blinder, golwg, clyw, dwylo poenus a chydbwysedd i gyd yn bwysig.
+- **Gwyliwch eu hwyliau.** Mae gweithgareddau prysur, swnllyd yn addas i rai pobl ac yn codi ofn ar eraill.
+- **Rhowch bwrpas iddo.** Mae plygu napcynau ar gyfer swper yn yr eglwys yn teimlo’n fwy gwerth chweil nag ymarfer er ei fwyn ei hun.
 
-### A rough guide by stage
+### Canllaw bras yn ôl cam
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Mae dementia yn aml yn cael ei ddisgrifio mewn camau cynnar, canol a hwyr. Labeli bras yw’r rhain, nid blychau, ac mae gan lawer o bobl ddyddiau gwell a dyddiau anoddach, felly ewch yn ôl yr hyn rydych chi’n ei weld heddiw. Mae [rhestr Sefydliad Alzheimer America yn ôl cam](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yn dilyn patrwm tebyg.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Pwnc | Cam cynnar | Cam canol | Cam hwyr |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Yr hyn y gallech ei sylwi | Yn annibynnol ar y cyfan; mae cynllunio, enwau newydd a lleoedd prysur yn mynd yn anoddach | Angen cymorth i ddechrau ac gyda chamau; mae geiriau’n dod yn llai rhwydd | Angen cymorth gyda’r rhan fwyaf o ofal dyddiol; y synhwyrau sy’n bwysicaf |
+| Gweithgareddau sy’n aml yn addas | Cardiau, gemau bwrdd, coginio, garddio, cadw dyddiadur, mynd allan, clybiau | Plygu dillad, didoli, camau coginio syml, canu, albymau lluniau, teithiau cerdded dan arweiniad | Hoff gerddoriaeth, tylino dwylo, pethau meddal i’w dal, cael rhywbeth wedi’i ddarllen, eistedd y tu allan |
+| Eich rôl chi | Partner: gofynnwch pa gymorth y maen nhw eisiau | Paratowch, dangoswch, cymerwch yr adnodd y rhannau anodd | Dewch â’r gweithgaredd atyn nhw; eich cwmni chi yw’r gweithgaredd |
+| Rhagor o syniadau | [Cam cynnar](/activities/early-stage/) | [Cam canol](/activities/middle-stage/) | [Cam hwyr](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Sut ydych chi’n dechrau gweithgaredd gyda rhywun â dementia?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Dechreuwch yn fach, dechreuwch ochr yn ochr â’r person, a gwnewch hi’n hawdd dweud ie. Mae llawer o bobl yn dal i fod eisiau cymryd rhan ond yn ei chael hi’n anodd cynllunio neu ddechrau.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Dewiswch eu hamser gorau,** yn aml y bore.
+2. **Rhowch bopeth allan ymlaen llaw** fel y gallwch ddechrau ar unwaith.
+3. **Gofynnwch am help, nid perfformiad:** “Allwch chi roi help llaw i mi gyda’r rhain?”
+4. **Dechreuwch y dasg eich hun.** Plygwch y tywel cyntaf a gadewch iddyn nhw ymuno. Mae dangos yn gweithio’n well nag esbonio.
+5. **Cynigiwch un cam ar y tro.**
+6. **Cymerwch yr adnodd y rhan anoddaf.** Mae Cymdeithas Alzheimer yn awgrymu mesur y cynhwysion eich hun, yna rhoi’r llwy i’r person i droi’r cymysgedd.
+7. **Gadewch iddo gael ei wneud yn eu ffordd nhw.** Mae tywelion wedi’u plygu’n wahanol yn iawn.
+8. **Stopiwch pan fydd yn peidio â bod yn braf.** Mae symud yn aflonydd, crychu talcen neu “alla i ddim” yn arwyddion i newid neu orffwys.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Gweler hefyd [sut i chwarae gyda’ch gilydd](/caregiving/how-to-play-together/) ac [awgrymiadau cyfathrebu](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Tasgau bob dydd yn y cartref
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Mae swyddi’r cartref yn gyfarwydd ac yn ddefnyddiol, sy’n eu gwneud yn lle naturiol i ddechrau. Mae [Sefydliad Cenedlaethol ar Heneiddio](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yn rhestru golchi llestri, gosod y bwrdd, ysgubo, didoli post a phlygu dillad ymhlith gweithgareddau y gallai pobl eu mwynhau. Rhagor yn [tasgau’r cartref](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Plygu tywelion cynnes.** Trowch fasged o’r sychwr dillad ar y bwrdd a phlygwch ochr yn ochr. Yn ddiweddarach, mae llyfnu a stacio yr un mor ddefnyddiol.
+2. **Paru sanau.** Dechreuwch gyda lliwiau gwahanol iawn. Yn ddiweddarach, mae didoli golau oddi wrth dywyll yn ddigon.
+3. **Gosod y bwrdd.** Rhowch un math o eitem ar y tro. Gosodwch un lle eich hun fel enghraifft.
+4. **Golchi neu sychu llestri.** Dŵr cynnes, sebonllyd a llestri di-dor. Mae sychu wrth eistedd yn haws ar y coesau.
+5. **Sychu’r bwrdd.** Rhowch liain llaith ar ôl prydau bwyd. Mae’n waith go iawn i ddwylo aflonydd.
+6. **Didoli’r post.** Catalogau a phost diangen i “gadw” ac “ailgylchu”. Cadwch filiau go iawn allan o’r ffordd.
+7. **Torri cwponau.** Siswrn â blaenau crwn a thaflenni bwyd. Yn ddiweddarach, mae cylchu hoff fwydydd yn gweithio hefyd.
+8. **Didoli darnau arian.** Didolwch newid mân i gwpanau neu’i rolio i bapurau. Hepgorwch eitemau bach os yw’r person yn rhoi pethau yn ei geg.
+9. **Ysgubo neu lwch**. Ysgub ysgafn ar y porth, neu lwchwr â choes hir o gadair.
+10. **Helpu i baratoi pryd bwyd.** Golchi llysiau, rhwygo letys, troi. Chi sy’n trin cyllyll a gwres.
+11. **Pobi rysáit deuluol.** Defnyddiwch y cerdyn yn eu llawysgrifen os oes un gennych chi. Yn ddiweddarach, gallant fod yn flaswr.
+12. **Gwneud gwaith swyddfa.** Plygu llythyrau, eu rhoi mewn amlenni a’u stampio, neu ysgrifennu’r rhestr siopa gyda’ch gilydd.
 
-## Music
+## Cerddoriaeth
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Gall cerddoriaeth gyfarwydd gyrraedd pobl hyd yn oed pan fydd geiriau’n anodd. Mae [awgrymiadau cerddoriaeth Cymdeithas Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/art-music) yn awgrymu caneuon cyfarwydd, dim hysbysebion a diffodd y teledu. Gweler [gweithgareddau cerddoriaeth](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Creu rhestr chwarae bersonol.** Cerddoriaeth o’u harddegau a’u hugeiniau, eu priodas, eu heglwys a’u diwylliant.
+14. **Canu gyda’ch gilydd.** Dechreuwch ganu eich hun. Mae hymian neu wrando yn cyfrif.
+15. **Cadw’r curiad.** Curo dwylo, patio’r pengliniau neu dapio drwm llaw. Mae’n gweithio wrth eistedd ac yng nghamau hwyr.
+16. **Dawnsio.** Dawns araf yn y gegin, neu siglo wrth eistedd tra’n dal dwylo.
+17. **Chwarae albwm cyfan.** Hoff record o’r dechrau i’r diwedd, gyda phaned o goffi a dim byd arall yn digwydd.
+18. **Siarad am y gerddoriaeth.** Gwahoddwch straeon, nid ffeithiau: “Dywedwch wrtha i am y dawnsfeydd roeddech chi’n mynd iddyn nhw.”
+19. **Gwylio sioe gerdd neu gyngerdd wedi’i ffilmio.** Mae sioe roedden nhw’n ei charu yn gwneud noson dda. Oedwch unrhyw bryd.
+20. **Chwarae offeryn cyfarwydd.** Gallai cyn-bianydd fwynhau darnau syml; yn ddiweddarach, ychydig nodau gyda’ch gilydd.
+21. **Gwrando ar gerddoriaeth fyw.** Cyngerdd cymunedol byr neu ymarfer côr. Eisteddwch yn agos at yr allanfa.
 
-## Reminiscence: photos, objects and stories
+## Hel atgofion: lluniau, gwrthrychau a straeon
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Mwynhewch y gorffennol gyda’ch gilydd heb ei brofi. Hepgorwch “Ydych chi’n cofio...?” a “Pwy yw hwn?” a defnyddiwch wahoddiadau agored yn lle. Gweler [gweithgareddau hel atgofion](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Edrych drwy albwm lluniau.** Dywedwch yr hyn rydych chi’n ei weld: “Am wisg. Dywedwch wrtha i am y diwrnod hwn.” Ewch gyda’r enwau y maen nhw’n eu defnyddio.
+23. **Gwneud blwch atgofion.** Blwch esgidiau o bethau o’u bywyd, fel bathodyn gwaith neu gerdyn rysáit. Tynnwch eitemau allan un ar y tro.
+24. **Dechrau llyfr stori bywyd.** Ychydig luniau ar bob tudalen gyda chapsiynau print bras. Mae’n helpu cynorthwywyr newydd i adnabod y person.
+25. **Defnyddio cardiau sgwrs.** Mae [cardiau sgwrs](/games/conversation-cards/) yn paru llun ag anogaeth agored.
+26. **Gwneud gêm lluniau teulu.** Mae [parau lluniau](/games/photo-pairs/) yn troi eich lluniau chi eich hun yn gêm baru.
+27. **Gwylio ffilmiau cartref neu hen raglenni teledu.** Gwnewch sylwadau gyda’ch gilydd yn hytrach na gofyn cwestiynau.
+28. **Trin gwrthrychau o’u bywyd gwaith.** Sbaner, stethosgop, cyfriflyfr. Yn aml, y dwylo sy’n arwain y stori.
+29. **Coginio pryd o’u plentyndod.** Gallant droi, blasu neu eistedd yn y gegin gyda chi.
+30. **Edrych ar fap o leoedd y maen nhw wedi byw ynddynt.** Olrheiniwch ffyrdd cyfarwydd mewn atlas print bras wrth i chi siarad.
 
-## Creative activities
+## Gweithgareddau creadigol
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Mae celf yn ymwneud â gwneud, nid y darn gorffenedig. Cadwch ddeunyddiau’n addas i oedolion ac yn ddiogel. Gweler [celf a chrefft](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Paentio â dyfrlliwiau.** Papur trwchus ac ychydig liwiau. Os yw dechrau’n anodd, arweiniwch y strôc cyntaf gyda’ch gilydd.
+32. **Lliwio dyluniadau i oedolion.** Blodau neu gwiltiau, nid cartwnau. Mae ein [tudalennau lliwio](/games/coloring/) yn gweithio ar y sgrin neu wedi’u hargraffu.
+33. **Gwneud coláis.** Rhwygwch luniau o erddi, ceir neu fwyd o gylchgronau a’u gludo i lawr. Yn ddiweddarach, mae dewis lluniau yn ddigon.
+34. **Trefnu blodau.** Tusw o’r siop fwyd a fâs. Yn ddiweddarach, ychydig goesynnau mewn jar.
+35. **Gwau neu grosio gyda’ch gilydd.** Rhesi syml ar nodwyddau mawr. Yn ddiweddarach, dirwyn edafedd yn beli.
+36. **Gwneud cardiau i’r teulu.** Stampio, llofnodi neu addurno cardiau pen-blwydd ac iechyd da i bobl go iawn.
+37. **Siapio clai sy’n sychu yn yr aer.** Gwasgwch ddysgl fach. Defnyddiwch ddeunyddiau diwenwyn ac arhoswch gerllaw.
+38. **Sychdywio a gorffen pren.** Cit tŷ adar wedi’i dorri ymlaen llaw a phapur tywod, dim offer pŵer. Gweler [gweithgareddau i ddynion](/activities/for-men/).
+39. **Ysgrifennu neu ddweud llythyr ar lafar.** At ŵyr neu wyres neu hen ffrind. Os yw ysgrifennu’n anodd, mae’r person yn siarad a chi’n ysgrifennu.
 
-## Outdoors and gardening
+## Tu allan a garddio
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Mae awyr iach a golau dydd yn gwmni da. Gweler [gweithgareddau tu allan a garddio](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Dyfrio planhigion.** Can dyfrio bach ac ychydig botiau. Mae dyfrio bob dydd yn rhoi rhythm i’r diwrnod.
+41. **Plannu pot.** Gosodwch ef ar fwrdd fel nad oes angen penlinio. Mae eginblanhigion yn haws na hadau.
+42. **Chwynnu neu dynnu blodau wedi gwywo.** Menig ymlaen, un gwely bach ar y tro.
+43. **Cribo dail.** Un darn bach. Yn ddiweddarach, mae dal y bag ar agor yn swydd go iawn.
+44. **Cerdded llwybr cyfarwydd.** O amgylch y bloc neu at y blwch post. Mae llwybr byrrach yn iawn.
+45. **Eistedd y tu allan gyda’ch gilydd.** Cadair ar y porth ar ddiwrnod mwyn. Gwyliwch y cymylau neu bobl yn pasio.
+46. **Bwydo’r adar.** Llenwch fwydo adar gyda’ch gilydd a gwyliwch o sedd wrth y ffenestr.
+47. **Golchi’r car.** Bwced, sbyng a phrynhawn cynnes. Mae rinsio capiau’r olwynion yn swydd un cam dda.
 
-## Sensory activities
+## Gweithgareddau synhwyraidd
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Mae cyffwrdd, arogl, blas, sain a golwg yn dod yn bwysicach wrth i dementia ddatblygu. Mae’r [GIG](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) yn sôn am gerddoriaeth, gwrthrychau i’w trin a thylino dwylo ar gyfer camau hwyr. Gwiriwch am alergeddau a risgiau tagu yn gyntaf; gweler [gweithgareddau synhwyraidd](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Rhoi tyliniad dwylo.** Gofynnwch yn gyntaf a defnyddiwch ychydig o eli. Dewiswch eli heb arogl os nad ydych yn siŵr am groen neu alergeddau.
+49. **Teimlo ffabrigau.** Basged o felfed, corduroi, gwlân a satin i’w strôcio a’u plygu.
+50. **Arogleuo perlysiau a choffi.** Rhwbiwch fintys neu rosmari ffres rhwng eich bysedd. Hepgorwch arogleuon cryf os oes problemau anadlu.
+51. **Brwsio eu gwallt.** Yn araf ac yn dyner, os ydyn nhw’n mwynhau.
+52. **Rhannu lliain cynnes.** Ar gyfer dwylo ac wyneb ar ddiwrnod oer. Profwch y tymheredd yn gyntaf.
+53. **Archwilio ffedog weithgaredd.** Botymau mawr a sipiau wedi’u gwnïo’n gadarn. Gwiriwch nad oes dim yn gallu dod yn rhydd.
+54. **Blasu hoff ddanteithfwyd.** Llond llwy fach, mewn ansawdd y gall y person ei reoli’n ddiogel.
+55. **Chwarae synau natur.** Glaw, tonnau neu gân adar ar sain isel.
+56. **Gwylio rhywbeth araf.** Tanc pysgod, fideo natur neu eira’n cwympo.
 
-## Games and puzzles
+## Gemau a phosau
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Mae gemau’n gweithio pan nad oes amserydd, sgôr na phwysau. Os yw un yn dechrau teimlo fel prawf, rhowch hi o’r neilltu. Gweler [dewis apiau a gemau](/caregiving/choosing-apps-and-games/) a [gemau ymennydd](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Paru lluniau.** Mae [Parau lluniau](/games/picture-pairs/) yn gadael i luniau aros wyneb i fyny, felly mae’n ymwneud â sylwi, nid cofio.
+58. **Dod o hyd i’r un llun.** Mae [Dod o hyd i’r un](/games/find-the-same/) yn cynnig dau i bedwar dewis. Sgwrsiwch am bob llun.
+59. **Didoli i fasgedi.** Mae [Didoli gyda’ch gilydd](/games/sort-together/) fel didoli sanau ar y sgrin.
+60. **Gwneud jig-so â darnau mawr.** Delweddau i oedolion, â nifer hawdd o ddarnau. Mae [Pos llun](/games/picture-puzzle/) yn cadw’r llun cyfan i’w weld. Rhagor yn [posau ar gyfer dementia](/activities/puzzles/).
+61. **Chwarae hen gêm gardiau.** Beth bynnag y maen nhw wedi’i chwarae ers blynyddoedd. Yn ddiweddarach, mae didoli’r pecyn yn ôl lliw yn gêm ynddo’i hun.
+62. **Chwarae dominos.** Paru’r pennau. Yn ddiweddarach, mae gosod y teils mewn rhes yn iawn.
+63. **Rhoi cynnig ar chwiliad geiriau print bras.** Mae ein [chwiliad geiriau](/games/word-search/) â geiriau ar draws ac i lawr yn unig, ac mae’n bosibl ei argraffu.
+64. **Gorffen dywediadau cyfarwydd.** Mae [Gorffen y dywediad](/games/finish-the-saying/) yn gadael i chi ddangos y diweddglo unrhyw bryd.
+65. **Chwarae bingo lluniau.** Mae [Bingo lluniau](/games/picture-bingo/) yn addas i deuluoedd a grwpiau. Helpwch i farcio cardiau yn rhydd.
+66. **Chwarae drafftiau.** Cadwch y rheolau’n ysgafn. Mae symud darnau wrth i chi sgwrsio yn cyfrif.
 
-## Movement
+## Symud
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+Mae’r NIA yn awgrymu teithiau cerdded, beic llonydd, bandiau ymestyn, taflu pêl feddal neu falŵn, codi caniau cawl a fideos ymarfer corff ar gyfer oedolion hŷn. Gofynnwch am gyngor meddyg cyn dechrau unrhyw beth newydd, yn enwedig os oes problemau cydbwysedd.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Taflu balŵn.** Eisteddwch yn wynebu eich gilydd. Mae’n symud yn araf, felly mae’n hawdd ei ddal.
+68. **Dilyn fideo ymarfer corff wrth eistedd** sydd wedi’i wneud ar gyfer oedolion hŷn, ochr yn ochr.
+69. **Ymestyn gyda band.** Tynnu breichiau’n ysgafn gyda band ysgafn wrth eistedd.
+70. **Codi caniau cawl.** Codi breichiau’n araf, efallai i gerddoriaeth.
+71. **Marchogaeth beic llonydd.** Ychydig funudau hawdd, gyda chi gerllaw.
+72. **Dawnsio gyda sgarffiau.** Chwifio sgarffiau ysgafn i gerddoriaeth, wrth eistedd neu sefyll.
+73. **Cerdded gyda phwrpas.** I bostio llythyr neu brynu paned. Mae rheswm i fynd yn teimlo’n naturiol.
+74. **Rhannu saib anadlu.** Arafwch gyda’ch gilydd gydag [anadlu tawel](/games/calm-breathing/).
 
-## Social activities
+## Gweithgareddau cymdeithasol
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Mae cwmni’n bwysig hyd yn oed pan fydd enwau’n anodd, ac mae grwpiau bach yn haws na rhai mawr. Mae’r NIA yn nodi efallai na fydd person yn cofio pwy yw ymwelydd ond yn aml yn dal i fwynhau’r cwmni. Gweler [ymweliadau](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Cael un neu ddau ymwelydd ar y tro.** Ymweliadau byr mewn ystafell dawel, gyda lluniau i edrych arnyn nhw.
+76. **Galw fideo gyda’r teulu.** Galwadau byr, un llais ar y tro. Gweler [galwadau ffôn a fideo](/activities/phone-and-video-calls/).
+77. **Rhoi cynnig ar gaffi cof.** Cyfarfodydd anffurfiol galw heibio i bobl sy’n byw gyda dementia a’r rhai sy’n gofalu amdanynt. Gofynnwch i wasanaethau cymdeithasol eich cyngor lleol neu Age Cymru beth sydd ar gael yn eich ardal.
+78. **Bwyta allan ar adeg dawel.** Mae’r NIA yn awgrymu bwyty cyfarwydd, tawel ar adegau llai prysur, gyda bwrdd yn agos at y toiled.
+79. **Ymweld â chanolfan hŷn neu raglen ddydd i oedolion.** Cwmni iddyn nhw ac egwyl i chi.
+80. **Treulio amser gyda phlant.** Ymweliad byr, tawel gan wyrion neu wyresau, neu ddarllen llyfr lluniau i blentyn bach.
+81. **Rhannu’r papur newydd dros baned.** Darllenwch benawdau ar lafar. Mae’r ddefod yn bwysicach na’r newyddion.
+82. **Helpu rhywun arall.** Plygu rhaglenni’r eglwys neu wneud cerdyn i gymydog.
 
-## Faith and spiritual activities
+## Gweithgareddau ffydd ac ysbrydol
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Dilynwch draddodiad y person ei hun, neu ddim un. Mae’r NIA yn awgrymu gwasanaethau cyfarwydd, darlleniadau, cerddoriaeth gysegredig, gweddi, myfyrdod a defodau gwyliau.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Mynychu gwasanaeth cyfarwydd.** Dewiswch un tawelach, eisteddwch yn agos at y llwybr, a gadewch i bobl yno wybod am y dementia.
+84. **Gwylio gwasanaeth ar-lein** ar ddyddiau pan fydd mynd allan yn ormod.
+85. **Gweddïo neu ddarllen gyda’ch gilydd.** Geiriau cyfarwydd, wedi’u darllen yn araf. Efallai y byddant yn ymuno ar rannau y maen nhw’n eu hadnabod.
+86. **Canu emynau neu gerddoriaeth gysegredig** o’u traddodiad.
+87. **Cadw defodau gwyliau.** Canhwyllau batri, bendith, yr addurniadau roedden nhw bob amser yn eu defnyddio.
+88. **Rhannu amser tawel.** Eisteddwch mewn gardd neu gwyliwch yr haul yn machlud gyda’ch gilydd.
 
-## Pets and animals
+## Anifeiliaid anwes ac anifeiliaid
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+Mae’r NIA yn awgrymu bwydo, brwsio, cerdded, neu eistedd gyda dal anifail anwes.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Brwsio ci neu gath dawel** gyda strôc hir, araf.
+90. **Bwydo’r anifail anwes gyda’ch gilydd.** Chi sy’n mesur; nhw sy’n arllwys.
+91. **Cerdded y ci gyda’ch gilydd.** Chi sy’n dal y dennyn.
+92. **Dal anifail anwes ar yr arffed.** Gall cath dawel ar flanced fod yn gysurus iawn.
+93. **Croesawu anifeiliaid sy’n ymweld.** Mae rhai cartrefi gofal a rhaglenni dydd yn cynnal ymweliadau gan anifeiliaid. Gofynnwch yn lleol.
+94. **Cynnig anifail meddal tebyg i’r go iawn.** Os nad oes anifail anwes, mae rhai pobl yn mwynhau dal cath neu gi meddal realistig. Cynigiwch ef yn syml, byth fel tegan, a derbyniwch ‘na’.
 
-## Seasonal activities
+## Gweithgareddau tymhorol
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Cadwch draddodiadau, ond yn symlach. Mae’r NIA yn awgrymu bod yn realistig a chael lle tawel i gymryd egwyl yn ystod gwyliau prysur.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Addurno ar gyfer y tymor.** Pwmpen, torch neu flodau ffres ar y bwrdd.
+96. **Gwneud danteithyn gwyliau.** Rholio toes neu eisinio bisgedi. Chi sy’n trin y popty.
+97. **Hongian addurniadau.** Addurniadau di-dor, wedi’u rhoi drosodd un ar y tro.
+98. **Mynd am dro i weld y goleuadau.** Mae taith fer gyda’r nos yn gofyn am ddim ond cwmni.
+99. **Plannu bylbiau’r gwanwyn.** Gwasgwch fylbiau i bot yn yr hydref a gwyliwch am egin.
+100. **Plicio indrawn neu godlys.** Gwaith ar y porth yn yr haf gyda phowlen ar yr arffed.
+101. **Cyfeirio cardiau gwyliau.** Maen nhw’n llofnodi, stampio neu selio; chi sy’n trin y cyfeiriadau.
 
-## What if an activity is not working?
+## Beth os nad yw gweithgaredd yn gweithio?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Stopiwch, a rhowch gynnig ar rywbeth gwahanol dro arall. Mae’r NIA yn awgrymu gwylio am rwystredigaeth a gadael i’r person wylio’n unig os yw’n well ganddyn nhw. Mae ‘na’ yn aml yn golygu bod y dasg yn rhy anodd, nad yw’r amser yn iawn, neu fod rhywbeth arall yn bod, fel poen, newyn neu sŵn. Gwnewch y dasg yn llai, rhowch gynnig arni’n gynharach yn y dydd, neu dechreuwch eich hun a gweld a ydyn nhw’n ymuno. Gweler [pan fyddan nhw’n dweud na](/caregiving/when-they-say-no/) ac [anesmwythder yn hwyr yn y dydd](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+I ffitio gweithgareddau rhwng prydau bwyd ac egwyliau, gweler [trefn ddyddiol dyner](/activities/daily-routine/). Am bethau i’w cael yn barod, gweler [gweithgareddau i’w hargraffu](/activities/printable/), ac os ydych chi’n arwain grŵp, [gweithgareddau grŵp mewn cartref gofal](/activities/care-home-groups/). Mae eich gorffwys chi hefyd yn bwysig: gweler [hunangofal i ofalwyr](/caregiving/caregiver-self-care/).

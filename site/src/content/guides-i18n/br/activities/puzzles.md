@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Pozzlioù evit tud gant dementia: pozzlioù-berzh ha gerioù"
+seoTitle: "Pozzlioù evit dementia: pozzlioù-berzh ha gerioù"
+description: "Dibab pozzlioù-berzh, gerioù ha pozzlioù war-linenn evit an hini a sikourit: ment ar standoù, skeudennoù, skritur bras, ha pegoulz e vez graet asambles."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Ar pozzl gwellañ evit an hini a sikourit gant dementia zo unan a c'hell
+  echuiñ gant un tammig a skoazell hag en em gaout c'hoant dezhañ en-dro.
+  Dibabit pozzlioù-berzh gant standoù brasoc'h ha skeudenn adweladus, lakait
+  skeudenn ar voest war-lerc'h, ha lakait ar standoù a-dal da gentañ. Gerioù-kuzh
+  ha kroazgerioù a labour gwelloc'h gant skritur bras. Pozzlioù war-linenn gant
+  pevar pezh a glot ouzh ar mare kreizek. Chomit pa vez c'hoant.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Dibabit diouzh penaos e vez graet, ha n'eo ket diouzh ur c'hamm bennak: ma sko ar pozzl evel labour, klaskit unan gant standoù nebeutoc'h."
+  - "Standoù brasoc'h ha kreñv ha ur skeudenn klok gant rannoù liv distinct a zo aesoc'h eget standoù bihan ha merioù bras."
+  - "Skeudennoù tud brasoc'h a bouez: liorzhoù, kegin, karrigoù kozh, loened ferm, ha n'eus ket bagoù bugale."
+  - "Ober asambles eo ar pal. Roit ar standoù, dibabit ar blenier, lakait ar gevrenn ar voest en-dro."
+  - "Gerioù-kuzh gant skritur bras ha pozzlioù war-linenn gant 4 pe 9 pezh a zo digoust war al lec'hienn-mañ."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Pet pezh pozzl a zo gwellañ evit an hini gant dementia?"
+    a: "N'eus ket un niver reizh. Un den a oa karet pozzlioù 1 000 pezh a c'hell c'hoazh c'hoant kaout pozzlioù kant pezh en deroù, ha reoù all a gaver mat gant ur banne standoù brasoc'h. Ma sko ar pozzl evel labour pe ma vez fiñvus, kit d'ar pezhioù nebeutoc'h. Hon pozzl war-linenn Skeudenn en deus 4 pe 9 pezh."
+  - q: "Ha mat eo ar pozzlioù-berzh evit tud gant dementia?"
+    a: "Kalz a blij dezho, dreist-holl ma oa c'hoant dezho kentoc'h. Ur pozzl a ro un dra da labourat d'an daouarn, ur pal sklaer ha ur skeudenn da gaozeal dezhi. Ne'eus bet diskouezet hini ebet e c'hall ur pozzl gwellaat pe lentaat dementia, neuze dibabit anezho evit al lipadenn hag an darempred."
+  - q: "Petra a c'hallan ober pa na c'hall an hini gant dementia mui ober gant ur pozzl-berzh?"
+    a: "Lakait anezhi berroc'h: roit ur standenn d'ur wech, pe lezit an diwezhañ pezhioù deoc'h. Klaskit ur pozzl war-linenn gant 4 pezh, dispartiañ ar standoù dre liv, pe gwelet asambles ar skeudenn echuet."
+  - q: "Ha mat eo kroazgerioù ha klaskoù gerioù evit dementia?"
+    a: "Gallout a reont bezañ mat er c'hamm kentañ, gant skritur bras. Klaskoù gerioù gant gerioù war-wel hag a-ziwar hepken a zo aesoc'h eget re gant gerioù a-zioc'h pe a-gil. Lennit ar gwiskadennoù pe ar roll gerioù gant ur vouezh ha labourit asambles."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Ur pozzl-berzh bet staget war an daol e-kreiz ar debr zo unan eus ar c'hemmoù ar brasañ da rannañ. Gallout a reer en em gaout asambles hep kaozeal kalz, ar skeudenn a ro un dra da gaozeal dezhi, hag ez eo kaer lakaat ar standenn diwezhañ. Ar pozzlioù a rank tamm ha tamm cheñch e-keit ha ma cheñch an dementia. Ur pozzl re galet a c'hall troi un abardaez calm e-unan fuilhus. Ar bajenn-mañ a ziskouez penaos dibab ha lakaat pozzlioù-berzh, gerioù ha pozzlioù war-linenn aes, ha petra a rankit ober pa vont da vezañ kalet.
 
-## Are puzzles good for people with dementia?
+## Ha pozzlioù a zo mat evit tud gant dementia?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Kalz a blij dezho, dreist-holl re a oa karet pozzlioù kent. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a enrolla kergerioù, c'hoariva kartoù ha c'hoariva bourdoù e-touez an obererioù evit ar c'hamm kentañ, hag [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a adlavar c'hoariva war-linenn ha pozzlioù war ur tablez evel un doare da vezañ c'hoazh en-dro.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Pozzlioù n'int ket un dramm-stad. Ne'eus bet diskouezet hini ebet e c'hall ur pozzl lentaat pe paouez dementia; hon pajenn [gwerzhioù an dremmwel hag an dementia](/brain-health/brain-games/) a ziskouez ar pezh a lâr ar skiantoù. Abeg ober ur pozzl eo e c'hall bezañ un eurvad plijus ha kenstrollet asambles. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a lavar an dra-se a-berr: talvezit ouzh al lipadenn, n'eo ket ouzh ar gwellañ.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Penaos dibab ur pozzl-berzh evit an hini gant dementia?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Dibabit diouzh ar pezh a blij d'an den hag evel ma oa aet ar pozzl diwezhañ, n'eo ket diouzh ur c'hamm bennak.
 
-### Number of pieces
+### Niver a standoù
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+N'eus niver mat ebet. Un den a oa pozzlerien all hirhir a c'hall c'hoazh c'hoant kaout kant pezh en deroù, ha reoù all a blij dezho an nebeud. Reolenn praktikel: ma oa ar pozzl diwezhañ labour dezho, dibabit unan gant hanter ar pezhioù. Ma oa echuet buan ha ma oa c'hoant dezho muioc'h, mont a zo a-raok.
 
-### Piece size and feel
+### Ment ha fred ar standoù
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Standoù brasoc'h** a zo aesoc'h da welet, kemer ha tro.
+- **Standoù tev ha kreñv** a chom e-lec'h ha tizh o vont dre ar c'hwezh.
+- **Ur c'hlazh mat** a grap ar gwallstrewlamp hag ar fenestrennoù.
+- **Kit ar pezhioù bihan** ma c'hall an den lakaat traoù en e c'hof, ar pezh a c'hoarvez diwezhatoc'h e-pad an dementia.
 
-### The picture
+### Ar skeudenn
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Testennoù tud brasoc'h.** Liorzhoù, kegin, karrigoù kozh, loened ferm, kêr-mor, ur sport karet. N'eo ket bagoù pe tra a vefe evel ur c'hoari bugale.
+- **Rannoù liv distinct.** Ur sell ruz, ur vag glas ha ur park glas a zo aesoc'h eget un oabl a leun an hanter eus ar pozzl.
+- **Anavezet hag a-berzh.** Ur skeudenn eus ul lec'h m'int bet o chom pe ul labour karet a ro kalz da gaozeal dezhi. Ur re a zouaroù-moullañ a c'hall troi ur skeudenn familhel e pozzl.
 
-## How do you do a puzzle together?
+## Penaos ober ur pozzl asambles?
 
-Set it up so the person can get straight to the enjoyable part.
+Lakait anezhi evit ma c'hall an den mont war-raok war-eeun d'ar pezh a blij dezhañ.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Dibabit ul lec'h mat.** Sklaerder vat, ur gador gant brazioù ha ul lusterenn pe ur voullenn m'hall ar pozzl chom er-maez.
+2. **Lakait kevrenn ar voest da welet** dre ma c'hallit gwelet an eil d'egile.
+3. **Troit ar standoù gant an tu gwenn war-wel** a-raok kregiñ.
+4. **Dispartiit ar bordoù** ho-unan, pe grit ar bord kentañ hag e lezit ar greizenn dezhañ.
+5. **Strollit ar standoù dre liv** e meur a blat bihan pe ur banne platoù.
+6. **Roit ur standenn d'ur wech** ma'z eo re bras ar pil. "Soñj a ran e vefe rann al lodenn-mañ eus ar gweredi."
+7. **Kaozeal diwar-benn ar skeudenn,** n'eo ket diwar-benn an distro. "Hen a sell ouzh ar vag a oa gant va zad."
+8. **Lezit anezhi er-maez.** Tizhit ober ur pezh dezhi a-hed un nebeud devezhioù. N'eus ket a brouezh.
+9. **Paouezit pa vez ur pezh mat,** goude mont ur standenn en e blas, p'emañ c'hoazh plijus.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a argenn ac'hanta sikour an den da gregiñ, da welet ar fiñvusted, ha da lezel anezhañ da welet hepken ma'z eo kaeroc'h dezhañ. Gwelet ar pezhioù a lakait en o lec'h, ha diskouez el lec'h m'hall unan mont, a zo c'hoazh un doare da vezañ e-barzh.
 
-## Easy online puzzles
+## Pozzlioù war-linenn aes
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Ur pozzl war ur gwenneg a zo lodenn a dalvoudegezhioù real: pezhioù ne vezont ket kollet, skeudennoù bras a leun ar skramm, ha n'eus ket a vaez da lemel ar daol.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Hon [pozzl war-linenn](/games/picture-puzzle/) digoust a dorr ur skeudenn e 4 pe 9 pezh. Pokit daou bezh evit cheñch anezho betek ma vo ar skeudenn a-bezh. An niver a-bezh a chom war an skramm evel skoazell, n'eus ket a amzer-kont, hag e c'hallit paouez an eil pe an hini. Pevar pezh a zo mat d'ur memes niver a dud er c'hamm kreizek ma'z eus unan en o-zost.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Evit ur c'hoari skeudenn c'hoazh aesoc'h, klaskit [Kavout ar memes](/games/find-the-same/), ma pokit ar skeudenn a glot ouzh ur skeudenn en traoñ, pe [Lakaat asambles](/games/sort-together/), m'ez a ar skeudennoù e basketennoù evel ar gegin pe al liorzh.
 
-## Word puzzles: word searches and crosswords
+## Gerioù-kuzh ha kroazgerioù
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Ar pozzlioù gerioù a glot ouzh tud a oa karet pep tra ganto, a-viskoazh e kentoc'h en dementia.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Klaskoù gerioù gant skritur bras.** Hon [klask gerioù](/games/word-search/) digoust a implij lizherennoù bras ha nebeud a gerioù, e-kerzh hag en-dro, biskoazh diagonal pe war-gil. Lennit anezhañ war an skramm pe moullit anezhañ.
+- **Lennit al listenn a-uhel.** Unan a lenn ur ger, an eil a glask anezhañ. Gwiskañ ar lizher kentañ hepken a zo ivez mat.
+- **Kroazgerioù skritur bras** eus al levrioù pozzlioù a c'hall labourat kentoc'h. Lennit an diskoulmoù a-uhel, rannit ar plun ha leugnit ar respontoù asambles. Kroazgerioù aes ha dre gentelioù a zo gwelloc'h eget ar re gant tro.
+- **Kaozeal diwar-benn ar gerioù.** "Liorzh" a c'hall kas deoc'h dek munud diwar-benn tomatezed.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Evit muioc'h a c'hoariva paper ha penaos moullañ anezho evit ma vefe aes o gwelet ha dalc'hal, gwelit [oberennoù digoust evit dementia da voullañ](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Pe pozzlioù a glot ouzh pep kam?
 
-Stages overlap, and good and hard days are normal.
+Ar c'hamm a gor an eil ouzh egile, ha deiz mat ha deiz fall a zo normal.
 
-| Stage | Puzzles that often fit | Your role |
+| Kam | Pozzlioù a glot alies | Ho roll |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Kentañ | Pozzlioù-berzh anavezet gant nebeutoc'h a standoù eget gwechall, kroazgerioù ha klaskoù gerioù skritur bras, pozzlioù war-linenn gant 9 pezh | Kevelerien: laoskit anezhañ dibab, sikourit pa c'houlenn |
+| Kreiz | Pozzlioù-berzh gant ur banne standoù brasoc'h, pozzlioù war-linenn gant 4 pezh, klask gerioù lennet asambles | Lakaat e-lec'h, dispartiañ ar standoù, roit unan d'ur wech |
+| Diwezhañ | Gwelet ur skeudenn echuet asambles, Kavout ar memes gant daou skeudenn, dalc'hal ur banne standoù brasoc'h | Degasit anezhi d'an den; ho kenstroll eo ar c'hoari |
 
-## When should you make a puzzle easier, or stop?
+## Pryd e tlefe ober ur pozzl aesoc'h, pe paouez?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Sellit ouzh an hanaloù, ouzh an dilammoù standoù, ouzh an "ne c'hallan ket" a zo lavaret liesek pe ouzh an dremmoù a zo a-hend an dra. Arwerzhioù eo a ranker kemmañ un dra, n'eo ket pousañ pelloc'h.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Ober anezhi berroc'h.** Nebeutoc'h a standoù, pe lezit an diwezhañ hepken dezhañ.
+- **Ober muioc'h anezhi ho-unan** ha pedit an den da skoazellañ gant ar pezhioù aesañ.
+- **Cheñch d'un dra tost:** dispartiañ ar standoù dre liv, ur pozzl war-linenn gant 4 pezh, pe [livañ](/games/coloring/).
+- **Paouezit.** Lakait anezhi da-heul ha kemerit ur banne te. Gallout a rit distreiñ un deiz all, pe n'ho pefe ket.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ma kregiñ ar pozzlioù da vezañ ur c'hemenn eus an traoù a zo diaes, a-vihanik e c'hall bezañ ret dileuzañ anezho. Kalz a zoareoù all zo da dremen ur mare vat asambles; hon [101 sonj evit oberennoù](/activities/ideas/) a zo ul lec'h mat evit klask.

@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Ominyanda vyokuzemburuka kovakurundu mbe hupa nouvera wokuzemba"
+seoTitle: "Ominyanda vyomawa vyokuzemburuka nouvera wokuzemba"
+description: "Ominyanda vyokusaneka, oviperendero nozokarte kovakurundu mbe hupa nouvera wokuzemba, nokuvinyanda kutja ape ha kara omundu ngu ma rorwa: oviperendero kombanda, oupapi ouṱiṱi, kapa ri ombango, nyandeye pamwe."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Ominyanda vyokuzemburuka kovakurundu mbe hupa nouvera wokuzemba vi ungura
+  nawa tji vi hi nokuvanga okuzemburuka. Nyanda ominyanda vyokusaneka
+  noviperendero kombanda, ungurisa outile vone poo hamboumwe, nyandeye otjotjimbumba
+  nu imbireye ombango. Okutjiwa otjiperendero tji mo munu otjipupu okukapita
+  okuzemburuka otji tji he ri po, okutja toorora ominyanda mu mu munina avihe.
+  Ondjoroka, ka i ri otjiṋa tji mwa munu, oyo ondando.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Ominyanda vyokuzemburuka ovisemba vi horeka ozokarte, nu ihi tji rora nawa imbi ouvera wokuzemba mbi tjita kutja vi rire ovizeu. Yandja oviperendero vi kare kombanda."
+  - "Oviṋa oviṱiṱi, oviperendero ovinene nondyero imwe poruveze ri ṱiza omunyanda u kare nouwa."
+  - "Nyandeye otjotjimbumba, rundasana okuyandja ombatero nu imbireye ombango. Ape sokukara omundu ngu ma twaerwa pokati."
+  - "Kape nomunyanda wokuzemburuka mbwa raisirwa kutja u verukisa, u kuramisa poo u yandisa ouvera wokuzemba. Nyandeye mena rokutja oruveze oruwa poyenu."
+  - "Kurameye ngunda tji mamu nyanda nawa. Okuhungira ohunga noviperendero otjiṋa otjiwa."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Omunyanda uṋe wokuzemburuka mbu ri omuwa komundu ngu hupa nouvera wokuzemba?"
+    a: "Omunyanda wokusaneka noviperendero ovinene, mbi tjiukwa nawa, mbi mavi yenene okukara kombanda, tjimuna Picture pairs pu wa twa po outile vone poo hamboumwe. Okumuna epanga rotjiperendero tji mo munu ku yorokisa nokuhinokurora ozondunge zokuzemburuka oupupu. Find the same otjipupu tjinene, notjiperendero tjimwe okutusanekwa nozondyero mbari nga kozoune."
+  - q: "Hapo ominyanda vyokuzemburuka vi vatera ouvera wokuzemba?"
+    a: "Kape nomunyanda wokuzemburuka mbwa raisirwa kutja u verukisa, u kuramisa poo u yandisa ouvera wokuzemba; omakonḓononeno wa Cochrane ya muna kutja omahongononeno ohunga nomahongero wozondunge mokombiuta omaṱiṱi tjinene okuyakura kutja ye tjaera ouvera wokuzemba. Nandarire nao, ominyanda vi yenena okurira omuano omuwa wokukara pamwe. Vi toorora mena rondjoroka noupanga."
+  - q: "Hapo mbi sokunyanda Concentration ongaro ya tjiva nomundu ngu nouvera wokuzemba?"
+    a: "Pomautiro, ovandu tjiva ve kayenda komurungu okunyorokera, tjinene nozokarte ozonḓiṱi. Tji okuzemburuka kutja ozokarte za ri pi tji uta okuyeta ombanguriro, tanaukira ozokarte kombanda nu mu pahe oupapi pamwe uriri. Ihi tji ṱiza okusaneka nu tji isa po ororero rozondunge."
+  - q: "Ominyanda viṋe vyokuzemburuka mbi ri oviwa kovakurundu motjimbumba?"
+    a: "Picture bingo nomuṋange we raisa pomurungu, okumana omambo nga tjiukwa nawa nondaka yokombanda, nomapuriro wohungiriro avihe vi ungura motjimbumba. Nyandeye ngandu karte aihe tji ya ura nu mu ha serekarere omundu ngwa muna eziriro, kutja ape ha kara ngu ma fula okutaraerwa."
+  - q: "Hapo pe na ominyanda vyokuzemburuka kovakurundu oviyandjewa morungovi?"
+    a: "Ii. Ominyanda pomukutu mbwi, mu muna Picture pairs, Find the same, Photo pairs na Picture puzzle, oviyandjewa, kavi hepa okurizikamisira nu vi ungura mozongoze, mozomberere na mozokombiuta. Kape notjimwe tji notjiṋa tjokuraisa oruveze poo ombango."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Tji wa paha “memory games for seniors” imbi ovingi mbi mo munu vya ungurirwa ovandu mbe vanga okuhonga ozondunge zawo: ozokarte nda horekwa, ozombura zokuraisa oruveze, omiano nomambango. Komundu ngu hupa nouvera wokuzemba, oviṋa mbi vi tjita omunyanda u rire ororero rotjiṋa tji tja rira otjizeu. Ominyanda ovyo mbyo mavi yenene okunyandwa momuano omupore. Omukuma mbwi mau raisa kutja vi, nu mau tja ominyanda mbi ungura nawa porupa aruhe.
 
-## Why do classic memory games frustrate people with dementia?
+## Ongwaye ominyanda vyokuzemburuka ovisemba tji vi pandjarisa ovandu mbe hupa nouvera wokuzemba?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Mena rokutja vi zikamena kokukambura ondjiviro ombe motjiuru, nu ihi potuingi otjiṋa otjitenga tji tji ṱunwa i Alzheimer's, omburo ndji mai eta ouvera wokuzemba tjinene. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) mai tja otjiraisiro otjitenga tja Alzheimer's tji tji munika potuingi ouzeu wokuzemburuka ondjiviro ndja hongwa oupe. Mu Concentration ongaro ya tjiva, u tanaukira ozokarte mbari, u zemburuka kutja za ri pi, nu u ungurisa indjo kombunda yominute. Indjo ondjiviro ombe, ndja kamburwa nokuzemburukwa.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Wedera ko otjiṋa tjokuraisa oruveze, ombango poo ombosiro yozirumbu, nu omundu ma zemburukisiwa imbi mbi ha yenene okutjita, komurungu womundu ngwa suvera. Ovandu ovengi ve isa okunyorokera okunyanda nokuhina okuposa.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Okutjiwa otjiṋa tji mo munu otjiungura tjarwe nu potuingi otjipupu. Okuraisa okakopi okatjavari ku ri po tji ku yorokisa. Omakende okutja tu ṱize okusaneka nu tu ise po ororero rozondunge.
 
-## How do you make a memory game gentle?
+## Omomuano uṋe mu mo tjiti omunyanda wokuzemburuka u rire omupore?
 
-These adjustments work for card games, board games and games on a screen.
+Omarundurukiro nga ye ungura nominyanda vyokarte, ominyanda vyopoteṱu nominyanda vyopomurungu wotjiraisiro.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Yandja oviperendero vi kare kombanda.** Okusaneka oviperendero mbi mo munu nangarire nao omunyanda watjiri, nu potuingi u yorokisa.
+2. **Ungurisa oviṋa oviṱiṱi.** Uta noupapi uvari poo utatu. Wedera ko uriri tji tji munika otjipupu tjinene nu tji mave vanga ovingi.
+3. **Toorora oviperendero ovinene, mbi tjiukwa nawa, vyovandu ovakuru.** Okakopi, otjihwa tjouyera, owato. Kavi ri oviperendero vyovanatje, nu kavi ri oviperendero mbi nozongondjero ozengi.
+4. **Nyandeye otjotjimbumba.** “Ngatu pahe ozombwa” pendje na “oruveze roye.” Rundasana okuraisa nokuyandja ombatero.
+5. **Imbireye ombango.** Kape nomundu ngu ma hepa okutona. Tji umwe ma pura, okutja uriri “twe tji tjiti” kwa yenene.
+6. **O hakahana noruveze.** Kape noviṋa vyokuraisa oruveze, nu o hakahana pokati kozondyero.
+7. **Hungireye ohunga noviperendero.** “Tara owato mbwo. Wa rora okukayenda mowato?” Ehingiriro potuingi oro orupa oruwa tjinene.
+8. **Kurama noruveze oruwa.** Mana kombunda yokusaneka, ngunda tji mamu kayenda komurungu okuyoroka.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i yandja ombepo tjingeyo otjomirari vyarwe: saneka otjiungura ku imbi omundu mbya yenene okutjita, tara ombanguriro, nu tjita kutja a fule okutja wa toṋa.
 
-## Gentle memory and matching games to try
+## Ominyanda vyokuzemburuka nokusaneka omipore okurora
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (okusaneka noviperendero mbi ri po)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) omunyanda wokusaneka noviperendero ovinene noutile 4 nga ku 12. Oviperendero mavi yenene okukara mbi ri po, okutja ovi hungira okupaha omapanga, ka vi ri okuzemburuka kutja vya ri pi. Uta noutile vone. Komundu ngu ri porupa rwopomautiro nu ngwa suvera otjiṋa tjokurora tjinene ouṱiṱi, mo yenene okutanaukira ku **Hidden pictures**, posi yaruka kokuraisa oviperendero tji tja isa okuyorokisa.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) i raisa otjiperendero tjimwe kombanda nozondyero mbari nga kozoune kehi. Ṱuna ku tji tji sana. Oyo omunyanda omupupu tjinene wokusaneka pomukutu mbwi nu u pwira ovandu mbe muna oruteto aruhe ru ri nozongondjero ozengi, mu muna ovengi porupa rwokomaandero nomundu pu ve ri pamwe.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (omunyanda wokuzemburuka noviperendero vyomuhoko)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) i tjita oviperendero mbi wa toorora omunyanda wokusaneka: ombwa, otjikunino, ondjuwo pondjira yomeva. Omirungu novirongo mbi tjiukwa potuingi vi uta ehungiriro okukapita otjiperendero ngamwa atjihe. Oviperendero vi kara moruteto roye rwomambo nu kavi yandjewa ko.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) i ningira kutja u twe otjiperendero atjihe motjimbamba mu tja sokukara, tjimuna mokombisa poo motjikunino. Okutuurunga ku ungurisa ondjiviro ndja kara orure yokutja ouye u ungura vi, ka ku ri ozondunge zokuzemburuka oupupu.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) i konda otjiperendero moviṱiṱi 4 poo 9. Ṱuna oviṱiṱi vivari kutja u vi rundurure nga tji tji ya ura. Otjiperendero atjihe tji kara pomurungu otjomuṋango.
 
-### Real cards on the table
+### Ozokarte zatjiri pombata
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ko hepa otjiraisiro. Toora oupapi mbu mau sana mozombata mbari zoviperendero poo mozokarte zoviperendero. Vi twa kombanda momizaro vivari nu mu pahe oupapi pamwe. Kombunda, vi tuurunga momavara poo momihoko. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i tja ominyanda vyokarte novyopoteṱu mokati koviungura vyoporupa rwopomautiro.
 
-## Which memory games suit each stage?
+## Ominyanda viṋe vyokuzemburuka mbi pwira orupa aruhe?
 
-Stages are loose labels. Go by what the person enjoys today.
+Ozongaro nḓa ozombango nda ha kamatwa nawa. Zikamena ku imbi omundu mbya nyorokera ndino.
 
-| Stage | Games that often fit | How to set them up |
+| Orupa | Ominyanda mbi pwira potuingi | Omuano wokuvitwapo |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Pomautiro | Picture pairs, Photo pairs, Picture puzzle noviṱiṱi 9, ominyanda vyokarte mbi tjiukwa | Mu yandjera a toorore. Outile mau yenene okutanauka tji me vi nyorokere; isa po ombango tji mai mu kendisa |
+| Pokati | Picture pairs noutile 4 nga ku 6 kombanda, Find the same, Sort together | Oviperendero aruhe vi ri po. Kara popezu na ye nu mu rundasane okuyandja ombatero |
+| Komaandero | Find the same nozondyero 2, okutara otjiperendero tjimwe otjinene pamwe | Oupupu tjinene. Ove u kambura okomberere; eye ma raisa, poo ma tara nokupuratena uriri |
 
-## Do memory games help with dementia?
+## Hapo ominyanda vyokuzemburuka vi vatera nouvera wokuzemba?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Kape nomunyanda wokuzemburuka mbwa raisirwa kutja u verukisa, u kuramisa poo u yandisa ouvera wokuzemba. [Omakonḓononeno wa Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) ohunga nomahongero wozondunge mokombiuta kovandu mbe nozondunge nda tjitwa ouṱiṱi ya muna kutja omahongononeno omaṱiṱi tjinene okuyakura kutja ye tjaera ouvera wokuzemba. Omuhunga wetu ohunga [nominyanda vyomongo nouvera wokuzemba](/brain-health/brain-games/) u kahurura imbi omakonḓononeno mbi ye raisa na imbi mbi hi nokuraisa.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Ihi katji ri ombango yokunyanda. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i tunduuza okuzikamena kondjoroka, ka i ri kombandukiro. Ominute omurongo zokusaneka oviperendero nokuhungira ohunga na vyo maze yenene okurira orupa oruwa tjiri meyuva.
 
-## What about memory games for seniors without dementia?
+## Nu hapo ominyanda vyokuzemburuka kovakurundu mbe hi nouvera wokuzemba?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Tji omukurundu ngu hi nouzeu wokuzemburuka ma nyorokere ozondjendje zoruveze, omambango nomiano omizeu, kape notjiṋa otjivi mu imbi. Posi o sepa okurihonga kutja mavi ku yama kouvera wokuzemba; kape nomunyanda mbwa raisirwa nao. Omuano omupore mbwi kombanda wina u ungura nawa tji omihoko mavi nyanda pamwe: omukurundu ngu nouvera wokuzemba nomutekulu omuṱiṱi mave yenene okusaneka oviperendero otjotjimbumba, nokuhinokurorwa.
 
-## When should you stop or change the game?
+## Ruṋe tji mo sokukurama poo okurundurura omunyanda?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Okusuva, okupusha okomberere kokure, okutja “hi nokuyenena okutjita ihi” poo okumunika nombameno avihe oviyaukise vyokutjita kutja vi rire ovipupu poo okukurama. Rora outile ouṱiṱi, tanaukira oviperendero kombanda, rundurura ku [Find the same](/games/find-the-same/), poo tara oviperendero uriri nu mu hungire. Tji ve hi nokuvanga okunyanda kaparukaze, wina oukahu. Omuhunga wetu ohunga [nokunyanda pamwe](/caregiving/how-to-play-together/) u na omaronga omengi ohunga nomuano noruveze nokuyandja ombatero.

@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Мозгъан ловзарш деменцех дозалла дан хуьлу?"
+seoTitle: "Мозгъан ловзарш деменцех дозалла: кхетам"
+description: "Изледованийн хаам мозгъан ловзарш деменцин ц1ахь: когнитивни стимуляци, компьютеран мозгъан тренинг, ACTIVE опыт, FTC-н Lumosity дело, сацо дешаман."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Цхьа мозгъан ловзар а деменцех дозалла дан хьа дакъа ца хуьлу. Компьютеран
+  мозгъан тренинг, в1аьлла, кхин тайина дукха хьарадерзар дукха. ACTIVE
+  опытан цхьа изледован гойтуш, цхьа тайина скоростан тренинг, цул тера
+  "бустер" сессиш 20 шарахь деменцин диагнозаш дукха ца хуьлу. Деменцин
+  бахьна кхеташ адамаш 4ах хиллачу групповой когнитивни стимуляци гойтуш,
+  жима, сацо дахана хьарадерзар. Ловзарш цхьаьна даха, я садоьцуш вовшах
+  хуьлу.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Мозгъан тренингийн изледованаш гойтуш, адамаш дахаран ловзарш дукха хьаьжна, амма ди кхин дахаран дакъашца ца дагуш."
+  - "ACTIVE опыте, цхьа тайина скоростан тренинг а, бустер сессиш а йолу адамаш 20 шарахь деменцин диагнозаш дукха ца хилла. Бустеран йоцу скоростан тренинг, дагадар а, кхетам а тренинг бен ца гойтуш."
+  - "2016 шарахь, Lumosity-н хьостам 2 миллион доллар тохар йолуш FTC-н дело тайина дийшна, деменцин хьалхара ца хуьлу аьллачу хилларан хьарадерзар ца хилла."
+  - "Жима деменцин хала-мотт дукха деменцин бахьна адамаш, когнитивни стимуляцин группаш жима, сацо дахана хьарадерзар гойтуш, кхетам а, садоьцуш а хьарадерзар дукха."
+  - "Golden Moments ловзарш садоьцуш а, хьаннаша кхуьуш а ю. Цу ловзарш терапи ца ю, деменцин дозалла ца дан а, даха ца дан а."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Мозгъан ловзарш Альцгеймеран дозалла дан хуьлу?"
+    a: "Цхьа мозгъан ловзар а Альцгеймеран я кхин деменцин дозалла дан хьа дакъа ца хуьлу. АНА-н Национальни институт аьлла, коммерцийн мозгъан тренингийн приложенеш изледованийн тренингийн эффекташ ца кхуьу, цхьаьна бен кхуьуш ца хуьлу. Ловзарш хьалха дукха кхин де хьалхарчу хилларан хьарадерзар ю."
+  - q: "ACTIVE опыт скоростан тренингах я деменцех мила гойтуш?"
+    a: "2026 шарахь изледованан ACTIVE адамаш Medicare кхетамех 20 шарахь бина. Скоростан тренинг я цуьнан тера бустер сессиш йолу адамаш тренинг йоцу групповой дукха деменцин диагнозаш ца хилла. Бустеран йоцу скоростан тренинг, дагадар я кхетам а тренинг, мила дакъа ца гойтуш."
+  - q: "Деменцин бахьна адамаш ловзарш я кроссворд дукха дохкуш хуьлу?"
+    a: "Хуьлу, адам цуьнан дукха хилча. Групповой когнитивни стимуляци, цу чохь сийсар, кроссворд, юкъара дешнаш а, кхин дешар а хуьлу, жима, сацо дахана кхетам а, садоьцуш а хьарадерзар гойтуш. Хьалхара хиъар, тесташкахь хьаьжначу бен, садоьцуш."
+  - q: "Lumosity-на FTC шайн хьастам тохар хьарадерзар ца хилла?"
+    a: "2016 шарахь Федеральни торговли комиссий (FTC) аьлла, Lumos Labs-н ловзарш кхетар йолу хилларан шайн хьарадерзар гойтуш, цхьа деменцин дозалла дан хуьлу аьлла, бер ца хуьлу хьалха изледованийн кхетам ца йолуш. Компани 2 миллион доллар тохар йолу, и хьарадерзар кхуьуш цхьа мелла изледованийн кхетам хилча кхуьуш."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,153 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Мозгъан ловзарш хьалха хиллачу дашна кхетам, амма дукха адамаш хьаша мозг
+кхеташ хилла аьлла дагадеш. Деменци долу адам гӀо дира хьо, я шен дагадар
+хийла, цхьа хьалха ловзарш дохкуш хуьлу я ца хуьлу, — ма хилла дагадеш.
+Изледованийн хаам мишта ю, сацо дахана а, кхин дахана а дакъа кхуьуш.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Ди хаам медицинан консультаци ца ю. Гойтуш ву [медицинан дешар](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Мозгъан ловзарш деменцех дозалла дан хуьлу?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Цхьа мозгъан ловзар а деменцех дозалла дан хьа дакъа ца хуьлу. Национальни
+институт Нийа (NIA) адамех аьлла, компьютеран я интернетан ловзарш дагадар
+кхийла хьа дакъа ца хуьлу, — и хаам кхуьуш хуьлу. Коммерцийн мозгъан
+тренингийн приложенешан изледованийн тренингийн эффекташ ца кхуьу
+([NIA-н Альцгеймеран дозалла](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Цу хьалха ловзарш ца дийр, амма цуьнан кхетам садоьцуш, юкъара дахарехь,
+деменцин хьалха адам дозаш ца хуьлу.
 
-## What is "near transfer", and why does it matter?
+## Мила ду "жима дехар" (near transfer), и мила дукха?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Цхьа ловзар дохкуш, цу ловзарехь дукха хьаьжна хуьлу. Изледованийн
+дешахаш ду тренингийн эффект. Зуламе хаам — кхин ловзарш я дахарехь
+(дагадаро, сумма хийца) кхин хьарадерзар хуьлу я ца хуьлу (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 шарахь, мозгъан тренинг компанийн изледованийн дакъа хьостам хилла,
+цу изледованаш. Тайина: тренинг ловзарехь адамаш хьаьжна, цу ловзарех
+жима кхин ловзарехь, дахаран кхетам кхин ца хуьлу. Дукха изледованаш
+кхетам ца хилла ([Simons та коллеги, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Мила гойтуш компьютеран мозгъан тренингехь Cochrane опыташ?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane опыташ, цхьа мелла изледованаш яздеш, 12 шарахь я дукха дохкуш
+компьютеран тренинг хьалха дийцинарш:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Сацо адамаш 65 шарахь я дукха:** 8 изледован, 1 183 адам. Кхетам
+  жима я дукха жима. Тренингийн хьалха жима хьарадерзар хуьлу, амма кхетам
+  ца хуьлу, цхьа шира ду я ца ду
+  ([Cochrane опыт, сацо адамаш](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Жима когнитивни ца дехар (MCI):** 8 изледован, 660 адам. Цхьа изледован
+  ца гойтуш, адамаш деменци дуьйцуш ду я ца ду, кхетам жима ю, цхьа
+  бечар дукха ца ю ([Cochrane опыт, MCI](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## ACTIVE изледован мила гойтуш?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE — АЦШ-н дукха изледован, 1998 шарахь хьалха лаьцна, 2 802 адам 65
+шарахь я дукха, цу чохь адамаш шен дахаран, дагадар, я кхетам дагадеш
+ца хилла. Адамаш дийцина гIанах, цхьа хьо группа тренинг: скорост (processing),
+дагадар я кхетам, я контрол группа, цуьнан кхин тренинг ца хилла. Тренинг 5-6
+ишарехь 10 сессиш дукха.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Цу тренингах хьакхарна, даймахкахь ду, даймахкахь эхь ду, дагадар ду — адамаш
+хьалха хьаьжна, хан ца хуьлу.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 шарахь, изледованаш 2 021 адамах Medicare кхетамаш 20 шарахь бина
+([ACTIVE 20 шарахь анализ](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Хаам:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Скоростан тренинг, цхьа я цул тера бустер сессиш:** контрол группа
+  дукха деменцин диагноз ца хилла (hazard ratio 0,75, цуьнан маьнаш: 25%
+  дукха ца).
+- **Бустеран йоцу скоростан тренинг:** дукха ца хилла.
+- **Дагадаран я кхетаман тренинг:** деменцин диагнозехь мила эффект ца хилла.
+- **Тренинг группа цхьаьна контрол группах:** дукха ца хилла хьалха, амма
+  статистикин мила ца хилла.
 
-### The limits of this finding
+### Цу хаамийн дукха шатайпа
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Ди хаам **цхьа тайина тренингах**, бустеран сессишца, мозгъан ловзарш
+  юкъара ца ю.
+- Мила хаам **группан дакъа** (хьалхара сессиш дукха дохкуш, бустер хилла
+  адамаш) хилла, групп юкъара ца.
+- Деменци хьаьжначу **Medicare диагнозан кодашца** дийцина, адам-адамца ца
+  хьаьжна. Дукха дакъа, Medicare Advantage чохь хилла, цу чохь кхетам
+  дукха ца дохкуш.
+- Адамаш хьалха деменци ца хилла. Хаам **деменци долу адамаш** дагадеш ца ю.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Цу хаам мила ю, изледован дукха хьаьжна хуьлу. Амма цу хаам аьлла, цхьа
+приложени деменцех дозалла дан хуьлу ца ю.
 
-## What did the FTC say about Lumosity?
+## FTC Lumosity-н дакъа мила аьлла?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016 шарахь Января, Lumos Labs (Lumosity-н хьостам) 2 миллион доллар тохар
+йолуш, FTC-н дело тайина дийшна. Компани дийцина, хьалха кхетам ца йолуш,
+шен ловзарш вайн кхетам, дахаран кхетам, деменцин хьалха, Альцгеймеран
+хьалха дозалла дан хуьлу аьлла. Аьлла "сайн изледован" йоцу дакъа,
+хьалхарчу хьарадерзар дийцинарш ца дехар. Гойтуш ду, компани хьалха
+изледован хилча аьлла кхуьуш
+([FTC-н пресс-релиз](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Кхин дахан, хаам: мозгъан дозалла дан, я деменцин хьалха даха аьлла
+хилла ловзар, приложени, я программа гӀо дацар.
 
-## Can games help someone who already has dementia?
+## Деменци долу адам ловзарш дохкуш хуьлу?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Ловзарш дахан дукха дохкуш хуьлу, и мила ю. Изледован хьалха дукха
+дохкуш ду **когнитивни стимуляци**: садоьцуш юкъара группан ловзарш, гӀо
+дийцинарш, дешнаш, сийсар, зам, хьалхара дешнаш — цхьа дукха жима группа,
+цу хьалха адам кхеташ хилла.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 шарахь Cochrane опыт 37 изледованах, 2 766 адам деменци долу (жима я
+дукха) гайтина ([Cochrane опыт когнитивни стимуляцин](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- кхетаман тестехь **жима, сацо дахана** хьарадерзар (мелла кхетам);
+- юкъарадаларехь я садоьцуш дешаман дукха хьарадерзар (дукха кхетам,
+  жима изледованаш);
+- жима хьарадерзар дахан хилар, садоьцуш я хийцам чохь.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Хьарадерзар хьаьжна 10 кӏирас дукха программан хьалхара, жима изледованаш
+цуьнан дукха хилла ца дийцина. Когнитивни стимуляци структурированный
+группан программа ю, цу хаам ца ду, адам планшетехь цхьа ловзар дохкуш
+хилча.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
+2024 шарахь Lancet Commission аьлла, деменци долу адамаш ловзарш даха
+дукха мила ю, садоьцуш а, маьнах а хилар яхь.
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Ловзарш даха дукха мила ю?
 
-When chosen well, games can offer:
+Дукха йолуш ловзарш хилча, мила хуьлу:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Садоьцуш.** Тхан дехар деза, цуьнан маьнах цхьа.
+- **Юкъара.** Цхьаьна яцар, кхетам хилча дешнаш ца дохкуш, ловзар юкъара
+  хилар. ГӀо дийр [юкъара ловзар](/caregiving/how-to-play-together/).
+- **Хан.** Цхьа хан, цхьа ловзар, дахан хилар хьалха мила ю.
+- **Кхетам.** Цхьа адам кхеташ хилла ловзарш даха, — и хилар ца, тест ца.
+- **Дешнаш.** Сурт я дукха хилла дешнаш хьалха. Хьахийна
+  [юкъаран карташ](/games/conversation-cards/) я
+  [дешнаш дийцар](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Ма дийр: таймер, балл, серия, я тест гӀо дира. Адам ца дагадеш я
+хьалхарчу хьарадерзар ца хилча, хьо тохар. Хан ешна я цхьаьна юкъара
+хиннарш, мила ю. ГӀо дийр [приложенешан я ловзарийн харжар](/caregiving/choosing-apps-and-games/)
+хьалха дацар.
 
-## Where Golden Moments fits
+## Golden Moments хилла дакъа
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments ловзарш, — [сурт-жамаш](/games/picture-pairs/),
+[сурт-хьалхара](/games/picture-puzzle/) а, [жима-нийсан кроссворд](/games/word-search/)
+а, — садоьцуш а, юкъара хан а дукха хилла хьалха. Таймер ца, балл ца.
+Ди **терапи ца ю**, деменцин дозалла дан ца, хьалха ца хийцар. Ди хаам
+хьалха ца хьаьжна, цуьнан даражар дийр.
 
-## Talk with a doctor
+## Докторан консультаци
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Хо я хьо деменци гӀо дийр адам деменцин хала дагадеш, — докторан дукха
+хуьлу, приложени дукха ца. Доктор хьалха жима хьарадерзар ца хилла бахьна
+харжа, цуьнан кхетам. Хьалха, юкъара даза, меттигахь диагноз: цхьа
+хьарадерзар, садоьцуш. ГӀо дийр [Деменци дозалла дан хуьлу?](/brain-health/can-dementia-be-prevented/).
+Ма хьоьжу: кинехь цхьаьна деменци дукха, я хьалха дахаран хийцам дукха —
+дерриг, хьалха медицинан гӀо дийр.

@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "དུས་མཚམས་ཟས་མི་ཟ་བ་དང་དྲན་ཤེས་ཉམས་པ། ཞིབ་འཇུག་གི་གནས་ཚུལ།"
+seoTitle: "དུས་མཚམས་ཟས་མི་ཟ་བ་དང་དྲན་ཤེས་ཉམས་པ། ཞིབ་འཇུག"
+description: "དུས་མཚམས་ཟས་མི་ཟ་བ་དང་དྲན་ཤེས་ཉམས་པའི་སྐོར་ལུ་མིའི་སྒང་གི་སྦྱོང་བརྡར་ཉུང་དང་འགོ་བཙུགས་པའི་རིངམོ་ཨིན། རྒས་ཤོས་ལུ་ཉེན་ཁ་དང་ལངམ་སྦེ་ཟ་བའི་གལ་ཆེ་བ་ཤེས།"
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  དུས་མཚམས་ཟས་མི་ཟ་བ་གིས་དྲན་ཤེས་ཉམས་པ་སྔོན་བཀག་འབད་ཚུགསཔ་ ཡང་ན་ ལྷོད་ཚུགསཔ་
+  ཟེར་བའི་སྦྱོང་བརྡར་ལེགས་ཤོམ་མེད། ཞིབ་འཇུག་མང་ཤོས་རང་སེམས་ཅན་གྱི་སྒང་ལུ་འབད་ཡོདཔ་དང་།
+  རྒས་ཤོས་ལུ་འབད་མི་མིའི་ཞིབ་འཇུག་ཚུ་ཆུང་ཀུ་དང་དུས་ཡུན་ཐུང་ཀུ་ཨིན། རྒས་ཤོས་ལུ་
+  ཟས་མི་ཟ་བ་འདི་གིས་ལུས་སྦྱོང་ཉམས་ནི་ ཤ་ཚོད་ཉམས་ནི་ ཁྲག་ནང་མངར་ཚད་མར་འབབ་ནི་
+  ཆུ་ཉུང་ནི་ དང་བརྡབ་འཐོམ་ནི་བཟུམ་གྱི་ཉེན་ཁ་འབྱུང་སྲིདཔ་ཨིན། དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་
+  ཡོད་མི་ཚུ་གིས་ཟ་ནི་འཐུང་ནི་བརྗེད་ཚུགསཔ་ལས་ ལངམ་སྦེ་ཟ་ནི་འཐུང་ནི་འབད་བཅུག་ནི་འདི་
+  ལྷག་པར་གལ་ཆེ། ཧེ་མ་ལས་སྨན་པ་དང་གྲོས་བསྡུར་འབད།
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging གིས་ ལྷག་པར་རྒས་ཤོས་ཚུ་གི་དོན་ལུ་ དུས་མཚམས་ཟས་མི་ཟ་བ་ ཡང་ན་ ཟས་ཉུང་བཟའ་བའི་ལམ་ལུགས་གང་རུང་ངོས་ལན་འབད་ནིའི་སྦྱོང་བརྡར་ལངམ་སྦེ་མེད་ཟེར་སླབ་ཨིན།"
+  - "དུས་མཚམས་ཟས་མི་ཟ་བ་དང་རྒས་སོ་བའི་སྐོར་གྱི་ཞིབ་འཇུག་མང་ཤོས་རང་སེམས་ཅན་གྱི་སྒང་ལུ་འབད་ཡོདཔ་ལས་ གྲུབ་འབྲས་དེ་ཚུ་མི་ལུ་ག་ར་འཇུག་མི་ཆོགཔ་ཨིན།"
+  - "རྒས་ཤོས་ལུ་འབྱུང་སྲིད་པའི་ཉེན་ཁ་ནང་ ལུས་སྦྱོང་རང་བཞིན་ཉམས་ནི་ ཤ་ཚོད་ཉམས་ནི་ ཁྲག་སྐྱེས་སྨན་ལ་ལོ་ཅིག་ཟ་མི་ཚུ་ལུ་ཁྲག་ནང་མངར་ཚད་མར་འབབ་ནི་ ཆུ་ཉུང་ནི་ མགོ་འཁོར་ནི་ དང་བརྡབ་འཐོམ་ནི་ཚུ་ཚུད།"
+  - "དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་ཚུ་གིས་ཟ་ནི་འཐུང་ནི་བརྗེད་ཚུགསཔ་ ཡང་ན་ ཟ་ཚར་ཟེར་བསམ་ཚུགས། ཁོང་ཚུ་ལུ་ལངམ་སྦེ་ཟ་ནི་འཐུང་ནི་འབད་བཅུག་ནི་འདི་ ག་དུས་ཟ་ནི་ལས་ལྷག་པར་གལ་ཆེ།"
+  - "དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་ལུ་ཟས་མི་ཟ་བའི་ཐབས་ཤེས་མ་ལག་ལེན་འཐབ། ཟས་ཟའ་བའི་ལམ་ལུགས་ག་ཅི་འབད་རུང་བསྒྱུར་བཅོས་མ་འབད་བའི་ཧེ་མ་ སྨན་པ་ ཡང་ན་ ཟས་རིགས་ཆེད་ལས་པ་དང་གྲོས་བསྡུར་འབད།"
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "དུས་མཚམས་ཟས་མི་ཟ་བ་གིས་ Alzheimer's སྔོན་བཀག་འབད་ཚུགས་ག?"
+    a: "དེ་འབད་ཚུགསཔ་ཟེར་བའི་སྦྱོང་བརྡར་ལེགས་ཤོམ་མེད། ཞིབ་འཇུག་མང་ཤོས་རང་སེམས་ཅན་གྱི་སྒང་ལུ་འབད་ཡོདཔ་དང་། མིའི་སྒང་ལུ་འབད་མི་ཚུ་དུས་ཡུན་ཐུང་ཀུ་ ལོ་ཆུང་མི་ ཡང་ན་ ལུས་སྦྱོང་མཐོ་མི་ལུ་རྐྱངམ་ཅིག་དམིགས་ཏེ་ ལུས་སྦྱོང་ཉུང་བཟོ་ནི་ལུ་དམིགས་ཡོདཔ་ཨིན། National Institute on Aging གིས་ མི་མང་ལུ་དུས་མཚམས་ཟས་མི་ཟ་བའི་ལམ་ལུགས་ངོས་ལན་འབད་ནིའི་སྦྱོང་བརྡར་ལངམ་སྦེ་མེད་ཟེར་སླབ་ཨིན།"
+  - q: "རྒས་ཤོས་ལུ་དུས་མཚམས་ཟས་མི་ཟ་བ་ཉེན་མེད་ཨིན་ན?"
+    a: "ཉེན་མེད་མིན་འདུག། ཟས་མི་ཟ་བ་འདི་གིས་ ལུས་སྦྱོང་དང་ཤ་ཚོད་རང་བཞིན་ཉམས་ནི་ ཆུ་ཉུང་ནི་ མགོ་འཁོར་ནི་ དང་བརྡབ་འཐོམ་ནི་འབྱུང་ཚུགས། དེ་ལས་ ཨིན་སུ་ལིན་ ཡང་ན་ ཁྲག་སྐྱེས་སྨན་ལ་ལོ་ཅིག་ཟ་མི་ཚུ་ལུ་ ཁྲག་ནང་མངར་ཚད་ཧ་ཅང་མར་འབབ་ཚུགས། Mayo Clinic གིས་ རུས་པ་ཉམས་ནི་དང་བརྡབ་འཐོམ་ནིའི་ཉེན་ཁ་མཐོ་མི་ཚུ་ལུ་འོས་མི་འོས་སྲིད་ཟེར་སླབ་ཨིན། མ་འབད་བའི་ཧེ་མ་ སྨན་པ་དང་གྲོས་བསྡུར་འབད།"
+  - q: "དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་གིས་ཟས་མི་ཟ་བ་འབད་ནི་འབད་ག?"
+    a: "མི་འབད། དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་ཚུ་ལུ་ ལངམ་སྦེ་ཟ་ནི་འཐུང་ནི་འབད་མ་ཚུགསཔ་འབྱུང་སྲིདཔ་དང་། ཟས་གོམ་མ་ལངམ་པ་འདི་གིས་སྤྱོད་ལམ་གྱི་དཀའ་ངལ་ཡར་སེང་འབད་ཚུགསཔ་ད་ ལུས་སྦྱོང་ཉམས་ཚུགས། ཟས་མི་ཟ་བ་འདི་གིས་ཕན་ཐོགས་ངེས་གཏན་མེད་པར་ཉེན་ཁ་རྐྱངམ་ཅིག་ཡར་སེང་འབདཝ་ཨིན། དེ་གི་ཚབ་ལུ་ དུས་ཚོད་ལྟར་ཟས་དང་ཁ་ལས་ དགའ་མི་ཟས་རིགས་ དང་ལངམ་སྦེ་འཐུང་ནི་ལུ་གཟབ་སྐྱོང་འཐབ།"
+  - q: "དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་གིས་ལངམ་སྦེ་མི་ཟ་མི་འཐུང་བའི་རྟགས་ཚུ་ག་ཅི་ཨིན་ན?"
+    a: "ལུས་སྦྱོང་ཉམས་ནི་ གྱོན་ཆས་རྒྱ་ཆེར་སོང་ནི་ ངལ་གསོ་ཉམས་ནི་ སྟོབས་ཤུགས་ཉུང་ནི་ བཤང་གཅིན་འགག་ནི་ ཡང་ན་ ཟས་མི་ཟ་ནི་ལུ་བལྟ། National Institute on Aging གིས་སླབ་མི་ཆུ་ཉུང་གི་རྟགས་ནང་ ཁ་སྐམ་ནི་ མགོ་འཁོར་ནི་ སྙིང་གི་རྒྱུགས་ཚད་མགྱོགས་དྲགས་ནི་ དང་མིག་ལམ་མཐོང་ནི་ཚུ་ཚུད། རྟགས་འདི་ཚུ་མཐོང་པ་ཅིན་ ཁོང་གི་སྨན་པ་ལུ་སླབ།"
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+དུས་མཚམས་ཟས་མི་ཟ་བ་ དཔེར་ན་ ཆུ་ཚོད་ ༨ གི་ནང་འཁོད་ལུ་རྐྱངམ་ཅིག་ཟ་ནི་ ཡང་ན་ བདུན་ཕྲག་ནང་ཉིནམ་གཉིས་ལུ་ཟས་ཧ་ཅང་ཉུང་ཀུ་ཟ་ནི་ཟེར་མི་འདི་ མི་མང་གིས་གཟིགས་དོ་ཡོདཔ་དང་། གནས་ཚུལ་ལ་ལོ་ཅིག་ནང་ འདི་གིས་ཀླད་པ་སྲུང་ཚུགས་ཟེར་སླབ་ཨིན། ཁྱོད་རྒས་ཤོས་ཅིག་ཨིན་པ་ཅིན་ ཡང་ན་ དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་ལུ་གཟབ་སྐྱོང་འཐབ་མི་ཨིན་པ་ཅིན་ ཞིབ་འཇུག་གིས་ངོ་མ་ག་ཅི་སྟོནམ་ཨིན་ན་ དེ་ལས་ གཟབ་གཟབ་འབད་དགོ་པའི་རྒྱུ་མཚན་ག་ཅི་ཨིན་ན་འོག་ལུ་བཀོད་ཡོད།
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+འདི་སྤྱིར་བཏང་གི་གནས་ཚུལ་རྐྱངམ་ཅིག་ཨིན་ སྨན་བཅོས་ཀྱི་སླབ་སྟོན་མེན། ཁྱོད་རང་གིས་ཟས་མི་ཟ་བ་འགོ་མ་བཙུགས་པའི་ཧེ་མ་ ཡང་ན་ ཁྱོད་ཀྱིས་གཟབ་སྐྱོང་འཐབ་མི་གི་ཟས་ཟའ་བའི་ལམ་ལུགས་མ་བསྒྱུར་བའི་ཧེ་མ་ སྨན་པ་ ཡང་ན་ ཐོ་བཀོད་འབད་ཡོད་པའི་ཟས་རིགས་ཆེད་ལས་པ་དང་གྲོས་བསྡུར་འབད། ང་བཅས་ཀྱི་ [སྨན་བཅོས་ཁས་མི་ལེན་པའི་གསལ་བསྒྲགས](/medical-disclaimer/) ལྟ།
 
-## Does intermittent fasting prevent dementia?
+## དུས་མཚམས་ཟས་མི་ཟ་བ་གིས་དྲན་ཤེས་ཉམས་པ་སྔོན་བཀག་འབད་ཚུགས་ག?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+དུས་མཚམས་ཟས་མི་ཟ་བ་གིས་དྲན་ཤེས་ཉམས་པ་སྔོན་བཀག་འབད་ཚུགསཔ་ ཡང་ན་ ལྷོད་ཚུགསཔ་ཟེར་བའི་སྦྱོང་བརྡར་ལེགས་ཤོམ་མེད། National Institute on Aging (NIA) གིས་ ཟས་ཉུང་བཟའ་བ་ ཡང་ན་ དུས་མཚམས་ཟས་མི་ཟ་བའི་ལམ་ལུགས་གང་རུང་ངོས་ལན་འབད་ནིའི་སྦྱོང་བརྡར་ལངམ་སྦེ་མེདཔ་དང་། ལྷག་པར་རྒས་ཤོས་ཚུ་གི་དོན་ལུ་ ཕན་ཐོགས་དང་ཉེན་མེད་ཀྱི་སྐོར་ལུ་ཤེས་དགོ་པ་མང་དྲགས་ཡོད་ཟེར་སླབ་ཨིན། ([NIA གི་ཟས་ཉུང་བཟའ་བ་དང་དུས་མཚམས་ཟས་མི་ཟ་བའི་སྐོར།](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know))
 
-### Why the evidence is so limited
+### སྦྱོང་བརྡར་འདི་ཉུང་དྲགས་སོང་མི་ག་ཅི་ཨིན་ན?
 
-The NIA gives several reasons:
+NIA གིས་རྒྱུ་མཚན་ལ་ལོ་ཅིག་སླབ་ཨིན།
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **ཞིབ་འཇུག་མང་ཤོས་སེམས་ཅན་གྱི་སྒང་ལུ་འབད་ཡོད།** འབུ་ཆུང་ཀུ་ སྦྲང་བུ་ བྱི་ཙི་ དང་སྤྲེའུ་ཚུ་གི་སྒང་ལུ་འབད་མི་ཞིབ་འཇུག་ནང་ སྙིང་འདོད་ཅན་གྱི་གྲུབ་འབྲས་ཐོབ་ཡོད་རུང་། གྲུབ་འབྲས་དེ་ཚུ་མི་ལུ་ག་ར་འཇུག་མི་ཆོགཔ་ཨིན། སེམས་ཅན་གྱི་ནང་རང་ཡང་ གྲུབ་འབྲས་མི་འདྲཝ་སྦེ་ཐོབ་ཅི་ བྱི་ཙི་གི་རིགས་ལ་ལོ་ཅིག་ནང་ཟས་ཉུང་བཟའ་བ་གིས་མི་ཚེ་ཐུང་ཀུར་བཟོ་ཡོདཔ་ཨིན།
+- **མིའི་སྒང་ལུ་འབད་མི་ཞིབ་འཇུག་ཚུ་དུས་ཡུན་ཐུང་ཀུ་ཨིན།** མང་ཤོས་རང་བདུན་ཕྲག་ ཡང་ན་ ཟླཝ་ཁ་ཤས་རྐྱངམ་ཅིག་འབད་ཡོདཔ་ཨིན།
+- **མིའི་ཞིབ་འཇུག་མང་ཤོས་རང་ལུས་སྦྱོང་ཉུང་བཟོ་ནི་ལུ་དམིགས་ཡོད།** ལུས་སྦྱོང་མཐོ་མི་ཚུ་ལུ་འབད་ཡོདཔ་ལས་ དྲན་ཤེས་ ཡང་ན་ དྲན་ཤེས་ཉམས་པ་ལུ་མ་དམིགས།
+- **རྒས་ཤོས་ཚུ་ཉུང་དྲགས་སྦེ་ཚུད་ཡོད།** ཞིབ་འཇུག་མང་ཤོས་རང་ལོ་ ༦༠ དང་དེ་ལས་ཉུང་མི་ཚུ་ལུ་འབད་ཡོདཔ་ཨིན།
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+༢༠༢༦ ལོའི་ཞིབ་འཇུག་བསྡུ་སྒྲིག་ཅིག་གིས་ ལོ་ ༦༠ དང་དེ་ལས་མཐོ་མི་ཚུ་གི་སྒང་ལུ་དུས་མཚམས་ཟས་མི་ཟ་བ་ལུ་དམིགས་ཏེ་ཞིབ་འཇུག་འབད་ཡོདཔ་ཨིན། དེ་ནང་ ལོ་ཚད་འདིའི་ནང་སྦྱོང་བརྡར་ད་ལྟོ་ཡང་ཉུང་དྲགས་ཡོདཔ་དང་། ཞིབ་འཇུག་ཚུ་ཆུང་ཀུ་ དུས་ཡུན་ཐུང་ཀུ་ དང་བཟོ་རྣམ་མི་འདྲཝ་སྦེ་ཐོབ་ཡོདཔ་ཨིན། བསམ་གཞིག་དང་དྲན་ཤེས་ཀྱི་གྲུབ་འབྲས་ཚུ་ ཞིབ་འཇུག་རེ་རེ་ལས་ཐོབ་ཡོདཔ་ལས་ མཉམ་བསྡོམས་འབད་མི་གྲུབ་འབྲས་ལས་མེན། དེ་ལས་ ཞིབ་འཇུག་ལ་ལོ་ཅིག་གིས་ ཟ་བའི་དུས་ཚོད་ཧ་ཅང་ཐུང་ཀུ་ ཡང་ན་ ཟས་མི་ཟ་བའི་དུས་ཡུན་རིངམོ་འདི་ གྲུབ་འབྲས་ངན་པ་དང་འབྲེལ་བ་ཡོད་ཟེར་སྟོན་ཡོདཔ་ལས་ རྩོམ་པ་པོ་ཚུ་གིས་རྒས་ཤོས་ཚུ་ལུ་གཟབ་གཟབ་འབད་དགོཔ་སྦེ་སླབ་ཡོདཔ་ཨིན། ([Nutrients ནང་གི་ ༢༠༢༦ ལོའི་བསྐྱར་ཞིབ།](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/))
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+ཞིབ་འཇུག་པ་ལ་ལོ་ཅིག་གིས་ ཟས་མི་ཟ་བའི་སྐབས་ལུས་ཀྱིས་ཚིལ་ཤུགས་ལག་ལེན་འཐབ་ནི་འདི་གིས་ཀླད་པ་ལུ་ཤུགས་རྐྱེན་འབྱུང་སྲིད་ཟེར་བསམ་དོ་ཡོད་རུང་། འདི་ད་ལྟོ་ཞིབ་འཇུག་འབད་དོ་ཡོད་པའི་བསམ་ཚུལ་རྐྱངམ་ཅིག་ཨིན། NIA གིས་ ཚན་རིག་གི་སྦྱོང་བརྡར་འདི་ངེས་གཏན་མེན་ཟེར་སླབ་ཨིན།
 
-## What are the risks of fasting for older adults?
+## རྒས་ཤོས་ལུ་ཟས་མི་ཟ་བའི་ཉེན་ཁ་ག་ཅི་ཚུ་ཡོད?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+རྒས་ཤོས་མང་ཤོས་ལུ་ ཟས་མི་ཟ་བ་འདི་ཉེན་ཁ་མེད་པའི་ཚོད་ལྟ་མེན། འབྱུང་སྲིད་པའི་ཉེན་ཁ་ནང་།
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **ལུས་སྦྱོང་རང་བཞིན་ཉམས་ནི།** ལུས་ཀྱིས་དགོ་པའི་ལས་ཉུང་སྦེ་ཟ་བ་ཅིན་ ལུས་སྦྱོང་དང་ཤ་ཚོད་ཀྱི་སྟོབས་ཤུགས་ཉམས་ཏེ་ ལུས་པོ་ཉམ་ཆུང་བཟོ་ཚུགས།
+- **ཤ་ཚོད་དང་རུས་པ་ཉམས་ནི།** NIA གི་རྒྱབ་སྐྱོར་འོག་ལུ་ ལོ་ཆུང་དང་བར་མའི་མི་ཚུ་ལུ་ལོ་ ༢ རིང་ཟས་ཉུང་བཟའ་བའི་ཚོད་ལྟ་ནང་ རུས་པའི་སྟུག་ཤུགས་དང་ཤ་ཚོད་ཉུང་ཙམ་ཉམས་ཡོདཔ་ཐོབ་ཅི།
+- **ཁྲག་སྐྱེས་སྨན་དང་འབྲེལ་བའི་ཁྲག་ནང་མངར་ཚད་མར་འབབ་ནི།** ཨིན་སུ་ལིན་ ཡང་ན་ ཁྲག་སྐྱེས་སྨན་ལ་ལོ་ཅིག་ཟ་མི་ཚུ་གིས་ ཟས་མ་ཟ་པར་ ཡང་ན་ ཕྱིར་བཤོལ་འབད་བ་ཅིན་ ཁྲག་ནང་མངར་ཚད་ཧ་ཅང་མར་འབབ་ཚུགས་ཟེར་ [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia) གིས་སླབ་ཨིན། ཁྲག་ནང་མངར་ཚད་མར་འབབ་པ་ཅིན་ མགོ་འཁོར་ནི་ སེམས་ཁྲལ་ནི་ དང་ཁོང་ཁྲོ་ལང་ནི་ཚུ་འབྱུང་ཚུགས།
+- **ཆུ་ཉུང་ནི།** ཟས་དང་མཉམ་དུ་འཐུང་ནི་ཡང་མ་འཐུང་པ་ཅིན་ ལུས་ནང་ཆུ་ཉུང་ཚུགས།
+- **མགོ་འཁོར་ནི་དང་བརྡབ་འཐོམ་ནི།** Mayo Clinic གིས་ དུས་མཚམས་ཟས་མི་ཟ་བ་གིས་མི་ལ་ངལ་གསོ་ཆེན་པོ་དང་མགོ་འཁོར་ཚོར་ཚུགསཔ་ད་ རུས་པ་ཉམས་ནི་དང་བརྡབ་འཐོམ་ནིའི་ཉེན་ཁ་མཐོ་མི་ཚུ་ལུ་འོས་ཤིང་འབྲིང་མེན་འདུག་ཟེར་སླབ་ཨིན། ([Mayo Clinic གི་དུས་མཚམས་ཟས་མི་ཟ་བའི་སྐོར།](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303))
+- **གཞན་གྱི་ཤུགས་རྐྱེན།** Mayo Clinic གིས་ མགོ་ན་ནི་ སེམས་ཁམས་འགྱུར་ལྡོག་འབྱུང་ནི་ དང་བཤང་གཅིན་འགག་ནི་ཚུ་ཡང་སླབ་ཨིན། དེ་ལས་ ཆུ་ཚོད་ ༡༦ ཟས་མི་ཟ་སྟེ་ཆུ་ཚོད་ ༨ གི་ནང་ཟ་བའི་ལམ་ལུགས་འདི་ ཟ་བའི་དུས་ཚོད་གཞན་དང་བསྡུར་བ་ཅིན་ སྙིང་ནད་ཀྱི་ཉེན་ཁ་ཡར་སེང་འབད་ཚུགས་ཟེར་བའི་སྦྱོང་བརྡར་ལ་ལོ་ཅིག་ཡོད་རུང་། དེ་ངེས་གཏན་མ་ཆགས།
 
-## Why is eating enough the bigger concern with dementia?
+## དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ལངམ་སྦེ་ཟ་ནི་འཐུང་ནི་ག་དེ་ཅིག་གལ་ཆེ?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་ཚུ་ལུ་ སྤྱིར་བཏང་གི་དཀའ་ངལ་འདི་ ཟས་དང་ཆུ་མང་དྲགས་མི་ཟ་ནི་མེན་པར་ ལངམ་སྦེ་ **མ་ཟ་མ་འཐུང་བ་ཨིན།** Alzheimer's Association གིས་ བར་མ་དང་མཇུག་གི་གནས་སྟངས་ནང་ཡོད་མི་ཚུ་ལུ་ ཟས་ཀྱི་གདམ་ཁ་མང་བ་ཅིན་སེམས་ཁྲལ་ཚུགསཔ་ད་ ཟ་ནི་བརྗེད་ཚུགསཔ་ ཡང་ན་ ཟ་ཚར་ཟེར་བསམ་ཚུགས་ཟེར་སླབ་ཨིན། དེ་ལས་ ཟས་གོམ་མ་ལངམ་པ་འདི་གིས་ སྤྱོད་ལམ་གྱི་དཀའ་ངལ་ཡར་སེང་འབད་ཚུགསཔ་ད་ ལུས་སྦྱོང་ཉམས་ཚུགས་ཟེར་ཡང་སླབ་ཨིན། ([Alzheimer's Association གི་ཟས་དང་ཟ་ནིའི་སྐོར།](https://www.alz.org/help-support/caregiving/daily-care/food-eating))
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society གིས་ ལངམ་སྦེ་མ་ཟ་བ་ཅིན་ ལུས་སྦྱོང་ཉམས་ནི་ ཤ་ཚོད་ཀྱི་སྟོབས་ཤུགས་ཉམས་ནི་ ངལ་གསོ་ཉམས་ནི་ དང་སྟོབས་ཤུགས་ཉུང་ནི་འབྱུང་སྟེ་ ལུས་པོ་ཉམ་ཆུང་དང་ནད་ལས་སླར་གསོ་འབད་མ་ཚུགསཔ་འགྱུར་ཚུགས་ཟེར་སླབ་ཨིན། ([Alzheimer's Society གི་ཟས་འདོད་ཀྱི་སྐོར།](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia))
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**རྒྱུ་མཚན་འདི་ཚུའི་དོན་ལུ་ དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་ལུ་ཟས་མི་ཟ་བའི་ཐབས་ཤེས་འདི་ལེགས་ཤོམ་མེན།** ཟས་ཐེངས་རེ་མ་ཟ་བ་ཅིན་ ཟས་མང་ཤོས་མ་ཟ་བར་ལུས་ཚུགས། དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་གི་ཟས་ཟའ་བའི་ལམ་ལུགས་ག་ཅི་འབད་རུང་བསྒྱུར་བཅོས་འབད་ནི་འདི་ ཁོང་གི་སྨན་པ་ ཡང་ན་ ཐོ་བཀོད་འབད་ཡོད་པའི་ཟས་རིགས་ཆེད་ལས་པའི་ལམ་སྟོན་འོག་ལུ་འབད་དགོ།
 
-## What are the warning signs of poor eating or drinking?
+## ལངམ་སྦེ་མ་ཟ་མ་འཐུང་བའི་ཉེན་བརྡའི་རྟགས་ཚུ་ག་ཅི་ཨིན་ན?
 
-Watch for:
+འོག་གི་རྟགས་ཚུ་ལུ་བལྟ།
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **ལུས་སྦྱོང་ཉམས་ནི་** ཡང་ན་ གྱོན་ཆས་རྒྱ་ཆེར་སོང་ནི།
+- **ཟས་ལུས་བཞག་ནི་ ཟས་མི་ཟ་ནི་** ཡང་ན་ ཟས་ཁ་ནང་ལུ་བཞག་ནི།
+- **ངལ་གསོ་ཉམས་ནི་ ཡང་ན་ སྟོབས་ཤུགས་ཉུང་ནི།**
+- **བཤང་གཅིན་འགག་ནི།** འདི་ཟས་ཟའ་བ་དང་ཆུ་ཉུང་ནི་དང་འབྲེལ་བ་ཡོད།
+- **ཆུ་ཉུང་གི་རྟགས།** NIA གིས་ ཁ་སྐམ་ནི་ མགོ་འཁོར་ནི་ སྙིང་གི་རྒྱུགས་ཚད་མགྱོགས་དྲགས་ནི་ དང་མིག་ལམ་མཐོང་ནི་ཚུ་སླབ་ཨིན་ འདི་ཚུ་དྲན་ཤེས་ཉམས་པ་ལས་ཡང་འབྱུང་ཚུགས། ([NIA གི་སྤྱིར་བཏང་སྨན་བཅོས་ཀྱི་དཀའ་ངལ།](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers))
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+ཟས་འདོད་ཉུང་ནི་ལུ་རྒྱུ་མཚན་མང་ཤོས་ཡོད་སྲིད། སོ་ན་ནི་ སོ་རྫི་ལྷོད་ནི་ སྨན་གསརཔ་ཟ་ནི་ སེམས་སྐྱོ་ནི་ བཤང་གཅིན་འགག་ནི་ ལུས་སྦྱོང་ཉུང་ནི་ ཡང་ན་ བྲོ་བ་དང་དྲི་བའི་ཚོར་བ་འགྱུར་ནི་ཚུ་ཨིན། རྟགས་འདི་ཚུ་མཐོང་པ་ཅིན་ ཁོང་གི་སྨན་པ་ལུ་སླབ། སྨན་པ་གིས་རྒྱུ་མཚན་འཚོལ་ནི་དང་ ཟས་རིགས་ཆེད་ལས་པ་ ཡང་ན་ ཟས་ཁ་སྐོང་ཚུ་སླབ་ཚུགས།
 
-## How can you help someone eat and drink enough?
+## ལངམ་སྦེ་ཟ་ནི་འཐུང་ནི་འབད་བཅུག་ནི་ལུ་ག་དེ་སྦེ་གྲོགས་རམ་འབད?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **ཟས་ཆུང་ཀུ་དང་ཁ་ལས་ཚུ་ ཐེངས་མངམ་སྦེ་ཕུལ།** ཟས་ཆེན་པོ་ཐེངས་གསུམ་ལས་ ཉུང་ཙམ་རེ་ཐེངས་མངམ་སྦེ་ཕུལ་མི་ལེགས་ཤོམ་ཨིན།
+- **དགའ་མི་ཟས་རིགས་ཕུལ།** བྲོ་བ་འགྱུར་བ་ཅིན་ འགྱུར་བ་དང་མཐུན་སྦེ་འབད། ཟས་འདོད་ཉུང་བ་ཅིན་ མངར་མོ་དགའ་སྲིད་ མངར་ཆ་ཉུང་བཟོ་དགོ་པའི་རྒྱུ་མཚན་ཡོད་མེད་སྨན་པ་ལུ་དྲི།
+- **འཐུང་ནི་ལག་ཐོག་ལུ་བཞག** དེ་ལས་ ཉིནམ་བརྒྱུད་ཕོར་པ་ཆུང་ཀུ་ནང་ཐེངས་མངམ་སྦེ་ཕུལ། ཐུག་པ་ ཤིང་འབྲས་ ཤིང་འབྲས་འཐུང་ནི་ དང་འོ་མའི་འཐུང་ནི་ཚུ་ཡང་ཚུདཔ་ཨིན།
+- **ཚུགས་ཚོད་ཅིག་མཉམ་དུ་ཟ།** ཟས་ཟའ་བ་འདི་ མགྱོགས་དྲགས་སྦེ་མཇུག་བསྡུ་དགོ་པའི་ལས་ཀ་མེན་པར་ མཉམ་དུ་སྡོད་སའི་གོ་སྐབས་ཅིག་ཨིན།
+- **ལགཔ་གིས་ཟ་ཆོག་པའི་ཟས་ཚུ་ཚོད་ལྟ་འབད།** ཐུར་མ་དང་ཕོར་བ་ལག་ལེན་འཐབ་མ་ཚུགས་པ་ཅིན་ སེན་ཌི་ཝིཅ་ ཤིང་འབྲས་ཀྱི་དུམ་བུ་ ཡང་ན་ བྱ་ཤའི་དུམ་བུ་བཟུམ་ཕུལ།
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+ཟས་དུས་ཀྱི་བསམ་འཆར་ཁ་གསལ་ང་བཅས་ཀྱི་ [ཟས་ཟའ་བའི་ལམ་སྟོན](/brain-health/diet/) ནང་ལྟ། ཟས་བཟོ་ནི་ནང་གྲོགས་རམ་འབད་ནི་འདི་ཡང་ མཉམ་དུ་དགའ་སྤྲོ་ཡོད་པའི་བྱ་བ་ཅིག་འོང་ཚུགས། [ཁྱིམ་གྱི་ལས་ཀ](/activities/household-tasks/) ལྟ།
 
-## Talk with a doctor
+## སྨན་པ་དང་གྲོས་བསྡུར་འབད།
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+ཁྱོད་རང་གིས་ཟས་མི་ཟ་བའི་ལམ་ལུགས་གང་རུང་མ་འབད་བའི་ཧེ་མ་ སྨན་པ་ ཡང་ན་ ཐོ་བཀོད་འབད་ཡོད་པའི་ཟས་རིགས་ཆེད་ལས་པ་དང་གྲོས་བསྡུར་འབད། ལྷག་པར་དུ་ ཁྲག་སྐྱེས་ ཡང་ན་ ཁྲག་ཤུགས་ཀྱི་སྨན་ཟ་མི་ ཉེ་ཆར་ལུས་སྦྱོང་ཉམས་མི་ ཡང་ན་ བརྡབ་འཐོམ་ཡོད་མི་ཨིན་པ་ཅིན་གལ་ཆེ། དྲན་ཤེས་ཉམས་པའི་གནས་སྟངས་ནང་ཡོད་མི་གི་དོན་ལུ་ ཟས་མི་ཟ་བའི་སྐོར་མ་འདྲི་བར་ ཉིནམ་རེ་ལུ་ག་དེམ་ཅིག་ཟ་དགོཔ་དང་འཐུང་དགོཔ་ཨིན་ན་སྨན་པ་ལུ་དྲི།
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+གློ་བུར་དུ་སེམས་ཁྲལ་ནི་ ཧང་སངས་འཐོམ་ནི་ ཡང་ན་ ཁྲག་ནང་མངར་ཚད་ཧ་ཅང་མར་འབབ་སྟེ་མགྱོགས་དྲགས་སྦེ་ལེགས་ཤོམ་མ་འགྱུར་བ་ཅིན་ མགྱོགས་པར་སྨན་བཅོས་གྲོགས་རམ་ལེན།

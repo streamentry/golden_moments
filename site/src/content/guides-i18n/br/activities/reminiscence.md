@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Oberiantizoù kof: boestoù, istorioù buhez ha luc'hedoù"
+seoTitle: "Oberiantizoù kof evit an dementiezh: idoù hep kwiz"
+description: "Penaos rannañ kofadennoù gant an hini a vev gant an dementiezh hep kwiz: kaozeal diwar-benn luc'hedoù, boestoù kof ha levrioù buhez."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Ar c'hof a dalvez rannañ an dremenet asambles dre luc'hedoù, traoù, sonerezh ha
+  istorioù. Lakit ur boest kof, savit ul levr istorioù buhez simpl, pe sellit ouzh
+  luc'hedoù asambles. Na c'hwizit ket: lezit kuit « Ho c'hofad ac'hanta? » ha « Piv
+  eo? » ha implijit pedadennoù digor evel « Lavarit din diwar-benn. » Ur gaozeadenn
+  kaer a bouez muioc'h eget gouzout an holl wirioù.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Ar c'hof a zo ur gaozeadenn, ket ur prouenn. Ar reizhder n'eo ket a bouez; al lipadenn a zo."
+  - "Lamit « Ho c'hofad ac'hanta? » ha « Piv eo? » ha lakit en o lec'h evezhiadennoù ha pedadennoù evel « Lavarit din diwar-benn an deiz-se. »"
+  - "Ur boest kof gant traoù eus buhez an hini a ro un dra da zal ha da gaozeal diwar-benn."
+  - "Ul levr istorioù buhez a sikour ar familh, an dud a zeu da weladennañ ha ar re a labour da zalc'hiñ evezh outañ da anavezout an den, ket hepken an diagnoz."
+  - "Ma tenn ur c'hof glac'har, konfortit en ur gentañ, ha kemmit an dra doucik en un doare dous."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Petra eo ar c'hof evit an dud o vevañ gant an dementiezh?"
+    a: "Ar c'hof a zo rannañ kofadennoù ha profoù dremenet, aliesañ gant skoazell luc'hedoù, traoù, sonerezh pe videoioù. Gallout a ra c'hoarvezout unan-ouzh-unan pe e strollad. Ar pal a zo ur gaozeadenn plijus ha talvoudus, ket klask pelec'h e c'hell an hini kofiñ."
+  - q: "Perak n'eo ket mat goulenn « Ho c'hofad ac'hanta? »"
+    a: "Goulennoù a vrev kof a c'hall lakaat un den da vezañ c'hwezhet pe fiñvet pa ne zeu ket ar respont. Ar National Institute on Aging a rollas hag an hini a gof ur sell pe unan bennak en-dro d'ar pezhioù da ziwall. Lavarit ar pezh a welit en ho lec'h, ha lezit an hini da ouzhpennañ ar pezh a fell dezhañ."
+  - q: "Petra a zlefe mont e ur boest kof?"
+    a: "Dibabit traoù surt, kreñv, liammet ouzh buhez an hini: traoù labour, traoù hobioù, ur sall karet, kartennoù postel, kartennoù resevoù, sorigoù chaseal pe eilnaouegoù luc'hedoù. Miret kuit traoù tresadus, traoù bihan a c'hallfe bezañ lounket, ha orin dianav na ellit ket adkaout."
+  - q: "Ha mar a gemm ar fazioù?"
+    a: "Lezit kont. Ma lavar ho mamm e tiskouez al luc'hed he c'hoar, pa vez he c'hefnder, ne vez ket gwall. Reizhañ a dro d'ur gaozeadenn kaer a ro un kwiz. Heuilhit an istor a gont hag ober plijadur ganti asambles."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Ar c'hof a dalvez kenrannañ an dremenet asambles. Evit kalz tud o vevañ gant an dementiezh, ar c'hofadennoù eus kant bloavezh a chom c'hoazh mat-tre, peogwir e vezont aesoc'h da gaout evit an dra o deus c'hoarvezet an deiz-mañ. Luc'hedoù, traoù a vez gwelet alies, sonerezh ha istorioù a c'hall digeriñ ar memes-se ha reiñ deoc'h un dra kaer da rannañ. Un reolenn nemetañ: ur gaozeadenn eo, ket ur c'hwiz.
 
-## What is reminiscence, and how is it different from quizzing?
+## Petra eo ar c'hof, ha penaos a zisheg diouzh ar c'hwiz?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Ar c'hof a dalvez rannañ kofadennoù dre luc'hedoù, traoù, sonerezh pe video, d'ar pazenn a fell d'an hini. An [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a zeskrif anezhañ evel rannañ eus an dremenet hag istorioù gant skoazell luc'hedoù, traoù, videoioù pe sonerezh, e levr pe war ur tablez. Ar c'hwiz a zo disheñvel: goulenn a ra an hini da gavout ur respont reizh, hag an dra-se a c'hall degas c'hwezhder en-lec'h al lipadenn.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+Ar [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) a rollas hag an hini a gof ur sell pe unan bennak evel un dra da ziwall. Ar [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a bropoz skarzhañ ar goulennoù a dalv ouzh ar c'hof berr, ha kaozeal diwar-benn an dremenet pellrannek.
 
-| Instead of | Try |
+| Kent | Klaskit |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Ho c'hofad hennezh?" | "Setu un deiz laouen. Lavarit din diwar-benn." |
+| "Piv eo hennezh?" | "Setu tante Rose er traezenn. Sellit ouzh ar c'hapell-se." |
+| "Pe bloavezh e oa?" | "Se a sell ouzh an ti kozh. Penaos e oa bevañ enni?" |
+| "Ket, ne vez ket Bill, Frank eo." | "Gwelout a ra en deus kalz a blijadur." |
+| "Lavaret ec'h eus d'in an istor-se dija." | "Me a gar an istor-se." |
 
-## How do you talk about photos without quizzing?
+## Penaos kaozeal diwar-benn luc'hedoù hep kwiz?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Kregiñ gant an dra a welit, ha lezit ur plijadur d'an hini da ouzhpennañ un dra ma fell dezhañ.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Azezit a-gostez.** Digorit al levr etre c'hwi, evel ma sellfec'h asambles, ha n'emaoc'h ket o tiskuizhañ dre ur taol.
+2. **Dibabit un nebeud luc'hedoù.** Pemp luc'hed mat a zo gwell eget ur boest a-bezh. Ar pennoù bras ha sklaer a dalvez gwelloc'h.
+3. **Lavarit c'hwi an anv.** "Setu ac'hanoc'h hag ho tad en deiz ho priedi" a lemm ar pouezh.
+4. **Displegit an nebeuta munudoù.** Dilhad, karr, boued, tro. "Ur c'harr brav, ha sell lufrus en deus."
+5. **Pedit, na ginnit ket.** "Lavarit din diwar-benn..." pe "Petra a welit?" Ar sioulder a zo mat ivez.
+6. **Heuilhit o c'hontadenn.** Mar kaozont a dra all da fin, kit gant-han.
+7. **Sachit pa vez c'hoazh plijus.** Serrit al levr a-raok ma vo skuizhded.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Evit kinnig luc'hedoù parfet, e c'hallit tremen d'ar [kartennoù kaozeadenn](/games/conversation-cards/). Evit trein da c'hem ho luc'hedoù familh e ur c'hoari heñvelder, klaskit [lodennoù luc'hedoù](/games/photo-pairs/); al luc'hedoù a zibabit a chom e ho merdeer web.
 
-## How do you make a memory box?
+## Penaos ober ur boest kof?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Ur boest kof a zo ul lodenn traoù eus buhez an hini, evit o zoug hag o kaozeal diwar-benn.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Dibabit ur boest kreñv** a zo aes digeri, evel ur voest-botoù, ur voest-chapel pe ur c'hest koad bihan.
+2. **Dibabit un danvez pe kemmesk.** Labour, ur c'hoarierezh, ul lec'h, ur bloavezh, pe un nebeud eus an holl.
+3. **Dastumit traoù surt.** Pemp pe zek pezh a zo lezet mat evit kregiñ.
+4. **Implijit eiladoù traoù talvoudus.** Eilit al luc'hedoù ha paperioù dic'hallus, ha mirit ar re-orin diogel.
+5. **Tennit ur pezh ur wech.** Roit unan, lavarit tra diwar-benn, ha gwelet penaos e tremen ar gaozeadenn.
 
-Ideas to include:
+Idoù da ouzhpennañ:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Labour:** ur skritell anv, un ostilh bihan, ul lodenn gwiskamant, ul levr kont, ur bazh ar mezour, ul levr boued eus ur gavarn.
+- **Ti:** ur gartenn resevoù skrivet gant e zorn, ul lenn-platoù, ur sall pe ur gravat karet.
+- **Hobioù:** ul lur pesked hep an hamouk, ur voul-baol, ur voullenn gleuziad, ur baket hadoù.
+- **Lec'hioù:** kartennoù postel, mapaoù, ur souvenir a dourist, ur pennad kazetenn eus ar vro.
+- **Familh:** eiladoù luc'hedoù, ur lunedenn ur bugel, ur gwaouegenn priedi.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Lezit e-maez tresadoù lemm, traoù bihan a c'hallfe bezañ lounket, ha traoù a c'hallfe degas poan-kalon, mar ne ouzoc'h ket e vefe plijus.
 
-## How do you make a life-story book?
+## Penaos ober ul levr istorioù buhez?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Ul levr istorioù buhez a zo un albom simpl a luc'hedoù ha berradennoù diwar-benn buhez an hini. Un dra da gaout asambles eo, hag a sikour an dud a weladennañ ha ar re a labour evit gwelet an den a-bezh.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Dibabit ur furm.** Ur fichenn gant gwarezerioù, ul levr luc'hedoù moulet, pe ur sewenn war ur tablez.
+2. **Kemerit un nebeud rannoù.** Yaouankiz, skol, labour, familh, lec'hioù tremenet, feiz, hobioù, boued hag sonerezh a blij.
+3. **Ouzhpennit ul luc'hed pe daou dudalenn** gant ur berradenn berr, e skritur bras: "Mari, 22 vloaz, o kregiñ labour er banque."
+4. **Ouzhpennit plijadurioù ha fentoù.** "Yfed kafe gant laezh. Karout a ra salmoù Sul. Diaes-bras ganti an TV bruderus." Se a sikour an holl re a zo o talc'hiñ evezh outañ.
+5. **Lakit an hini da gannen** kement a fell dezhañ, pe dibabit al luc'hedoù, pe lavarit istorioù, pe sellit nemetañ ouzh an dra o vont en-dro.
+6. **Kendalc'h da ouzhpennañ.** Ne rank ket bezañ peurechu evit servijout.
 
-## More reminiscence ideas
+## Idoù kof all
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Lakit sonerezh eus o yaouankiz** ha kaozit diwar-benn ar pezh a zegas dezho. Sellit ouzh [oberiantizoù sonerezh](/activities/music/).
+- **Gwelet filmoù familh pe programoù TV** eus o zeizioù muiañ plijus.
+- **Kanaouennañ ur gwriad** eus o yaouankiz ha lezit an arogonoù da gas ar gaozeadenn.
+- **Sellet ouzh ur mapa** eus o gêr-genedigezh ha heuilhit an hentoù anavezet.
+- **Lenn katalogoù koz pe kelc'hiadennoù** ha kaozit diwar-benn prizioù, mod, karr.
+- **Enrollit o istorioù** war ur pellgomzer, gant aotre, evit ar familh.
+- **Rannit e-pad ar galvoù.** Diskouezit ul luc'hed e-pad ur galv video; sellit ouzh [galvoù pellgomz ha video](/activities/phone-and-video-calls/).
+- **Degasit ul luc'hed pe un dra pa weladennit.** Ur fokus eeun a ro d'ar weladenn; sellit ouzh [weladennoù](/activities/visiting/).
 
-## What if a memory is painful?
+## Petra ober mar a zo ur gof poanius?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Kalz kofadennoù a degas glac'har, gwall-c'hoant pe aoun. Mar kreñv an hini, sachit, konfortit anezhañ ha kemmit an dra doucik. Na striwit ket diwar-benn petra a zo bet. Ar Family Caregiver Alliance a zoug ne rankit ket ober emrann ouzh an hini ez eo fall e gredenn, ha respont d'ar fromoù a ziskouez, a zo gwir. Ma komz ouzh unan bennak a zo marvet evel pa vije beo, respontit d'ar fromoù: "Kollet hi ac'hanout. Lavarit din diwar-benn anezhi."
 
-## What does the research say?
+## Petra lavar an enklaskerezh?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Un [adreizh Cochrane war ar c'hof](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), a gompren 22 klaskerezh ha 1,972 den, a gavas e oa an effetoù diskenn, bihan ha disheñvel a-rèst al lec'h hag ar furm. Ne gavas kement a zroug ebet d'an dud o vevañ gant an dementiezh. Ni a gemer ar c'hof abalamour ma c'hall degas amzer kaer ha kenrannet asambles, ha n'eo ket ur dra evit adsevel. Evit muioc'h war ur gaozeadenn hep poan, sellit ouzh [aliesterioù kaozeal](/caregiving/communication-tips/).

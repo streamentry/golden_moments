@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Kutunga bitini sambu na bantu ya kubunga mabanza"
+seoTitle: "Kutunga bitini mpi kubunga mabanza"
+description: "Mutindu ya kupona ba jigsaw, bisalu ya bangogo mpi bisalu ya kutunga bitini na internet sambu na muntu yina ke na kubunga mabanza: bunene ya bitini, bifwanisu, nsonama ya nene, kusala yo kintwadi, mpi ntangu ya kukitula yo pete."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Kisalu ya kutunga bitini ya mbote sambu na muntu yina ke na kubunga mabanza
+  kele yina yandi lenda manisa ti lusadisu ya fioti mpi sepela na ntangu ya
+  kusala yo. Pona ba jigsaw ti bitini ya fioti, ya nene mpi kifwanisu ya pwelele
+  sambu na bantu ya nene, bika kifwanisu ya zeke na ntwala ya meso, mpi yantika
+  na kutula bitini ya nseke. Kusosa bangogo mpi ba mots croisés ke salama mbote
+  na nsonama ya nene. Bisalu ya pete ya kutunga bitini na internet ti bitini 4
+  lenda fwana na kitamina ya kati. Yambula ntangu yo ke natila ntete kiese.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Pona na kutadila mutindu yo ke kwenda, kansi ve na kutadila zina ya kitamina: kana kisalu kele mpasi, meka yina ke na bitini ya fioti."
+  - "Bitini ya nene, ya ngolo mpi kifwanisu ya pwelele ti bisika ya mikubu ya kuswaswana kele pete kuluta bitini ya fioti mpi bifwanisu ya nene ya zulu."
+  - "Bifwanisu sambu na bantu ya nene kele mfunu. Bilanga, bikuku, bakamio mpi bambisi, kansi ve bifwanisu ya bana."
+  - "Kusala yo kintwadi kele mfunu mosi. Pesa bitini, yidika bitini ya nseke, bika mukubu ya zeke na ntwala ya meso."
+  - "Kusosa bangogo na nsonama ya nene mpi bisalu ya pete ya kutunga bitini na internet ti bitini 4 to 9 kele ya ofele na site yayi."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Bitini kiteso ya mbi kele mbote sambu na muntu yina ke na kubunga mabanza?"
+    a: "Ntalu mosi ya sikisiki ya mbote kele ve. Muntu mosi yina vandaka kusala ba puzzle ya bitini 1 000 lenda sepelaka ntete ti bankama ya bitini, kansi bankaka ke salaka mbote ti bitini kumi na kumi ya nene. Kana kisalu kele bonana mpasi to ke natila kimbeni, sabuka na kisalu yina ke na bitini ya fioti. Kisalu na beto ya Picture puzzle na internet kele na bitini 4 to 9."
+  - q: "Keti ba jigsaw kele mbote sambu na bantu yina ke na kubunga mabanza?"
+    a: "Bantu mingi ke sepelaka na yo, mingi-mingi kana bo vandaka kuzola ba puzzle na ntwala. Kisalu ya kutunga bitini ke pesa maboko kima ya kusala, lukanu ya pwelele mpi kifwanisu ya kutubila. Kisalu mosi ve ya kutunga bitini me monisama nde yo ke belula, ke lembika, ke kangama to ke « longisa » kubunga mabanza, yo yina pona yo sambu na kiese mpi kusala yo kintwadi."
+  - q: "Inki nge lenda sala ntangu muntu lenda diaka ve kusala jigsaw?"
+    a: "Kitula yo fioti mpi sala nge mosi ndambu ya mingi: pesa yandi kitini mosi na mbala mosi, to bika kaka bitini ya nsuka sambu na yandi. Meka kisalu ya kutunga bitini ya bitini 4 na internet, kuyidika bitini na kutadila mikubu, to kutala kaka kifwanisu ya memana kintwadi."
+  - q: "Keti mots croisés mpi kusosa bangogo lenda fwana sambu na muntu yina ke na kubunga mabanza?"
+    a: "Yo lenda fwana na kitamina ya luyantiku, na nsonama ya nene. Kisalu ya kusosa bangogo yina bangogo ke tambulaka kaka na balabala mpi na makonzi kele pete kuluta yina ke na bangogo ya diagonale to ya nima. Tanga bangyufula to lisiti ya bangogo na ndinga ya ngolo mpi sala yo kintwadi."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jigsaw ya me yalumuka na mesa ya kudia kele mosi ya bisalu ya pete ya kusala kintwadi. Beno lenda vanda kintwadi kukonda mfunu ya kutuba mingi, kifwanisu ke pesa kima ya kusolula, mpi kutula kitini ya nsuka ke natila kiese. Kansi, bisalu ya kutunga bitini fwete soba ntangu kubunga mabanza ke soba. Kisalu yina kele mpasi mingi lenda soba nkokila ya pima na nkokila ya kimbeni. Lutiti yayi ke tendula mutindu ya kupona mpi kuyidika ba jigsaw, bisalu ya bangogo mpi bisalu ya pete ya kutunga bitini na internet, mpi inki ya kusala ntangu yo ke kuma mpasi.
 
-## Are puzzles good for people with dementia?
+## Keti bisalu ya kutunga bitini kele mbote sambu na bantu yina ke na kubunga mabanza?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Bantu mingi ke sepelaka na yo, mingi-mingi bantu yina vandaka kusala ba puzzle na ntwala. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ke tanga kusosa bangogo, bansaka ya bakarte mpi bansaka ya mesa na kati ya bisalu sambu na kitamina ya luyantiku, mpi [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ke tubila bansaka mpi bisalu ya kutunga bitini na internet na batablette bonso mutindu mosi ya kuvanda ti kisalu.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Bisalu ya kutunga bitini kele ve nkisi. Kisalu mosi ve ya kutunga bitini me monisama nde yo ke lembika to ke yambula kubunga mabanza; lutwadisu na beto na yina me tala [bansaka ya mabanza mpi kubunga mabanza](/brain-health/brain-games/) ke tendula bansosa. Kikuma ya kusala kisalu ya kutunga bitini kele nde yo lenda vanda ntangu ya mbote mpi ya kiese ya kusala kintwadi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ke vutukila dyambu yayi: tula dikebi na kiese, kansi ve na nsuka ya kisalu.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Mutindu ya kupona jigsaw sambu na muntu yina ke na kubunga mabanza?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Landila mambu yina muntu ke sepelaka na yo mpi mutindu kisalu ya nsuka kwendaka, kansi ve zina ya kitamina.
 
-### Number of pieces
+### Ntalu ya bitini
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ntalu mosi ya sikisiki kele ve. Muntu yina ke salaka ba puzzle banda ntama lenda sepelaka kaka ti bankama ya bitini na luyantiku, kansi muntu yankaka ke vandaka na kiese ti bitini kumi na kumi. Musiku mosi ya pete: kana kisalu ya nsuka vandaka mpasi, pona kisalu yina ke na nduka-nduka ndambu ya bitini. Kana yo manaka nswalu mpi yandi zolaka diaka, baka fioti mingi.
 
-### Piece size and feel
+### Bunene mpi mpila ya bitini
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Bitini ya nene** kele pete ya kumona, ya kubaka mpi ya kubalula.
+- **Bitini ya ngolo mpi ya nene na nene** ke vandaka mbote na kisika na yo mpi ke bunganaka ve ntangu yo ke bwa.
+- **Nsongi ya ke semaka ve** ke salaka nde yo ke sema ve mingi na nsi ya mwinda ya lampe to ya fenetre.
+- **Tina bitini ya fioti mingi** kana muntu lenda tula bima na munoko, dyambu yina lenda salama na nima na kubunga mabanza.
 
-### The picture
+### Kifwanisu
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Bima sambu na bantu ya nene.** Bilanga, bikuku, bakamio ya ntama, bambisi ya bilanga, mbanza mosi pene-pene ya nzadi-mungwa, to nsaka mosi yina yandi vandaka kuzola. Ve bifwanisu ya bana to bima yina ke monana bonso bima ya bana ya kusakana.
+- **Bisika ya mikubu ya kuswaswana.** Nzo ya fioti ya mbwaki, maswa ya bleu mpi ntoto ya vert kele pete kuluta zulu yina ke fulusa ndambu ya kisalu.
+- **Bima ya kuyikana mpi ya muntu yandi mosi.** Kifwanisu ya kisika mosi yina yandi vandaka kuzinga to kisalu mosi ya kiese yina yandi vandaka kuzola ke pesa beno mambu mingi ya kusolula. Bantu ya ke imprimaka bifwanisu lenda soba foto ya dibuta na jigsaw.
 
-## How do you do a puzzle together?
+## Mutindu ya kusala kisalu ya kutunga bitini kintwadi?
 
-Set it up so the person can get straight to the enjoyable part.
+Yidika yo na mutindu nde muntu lenda yantika mbala mosi na ndambu yina ke natila kiese.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Pona kisika ya mbote.** Mwinda ya mbote, kiti yina ke na maboko, mpi mesa to plato mosi yina kisalu lenda bikala.
+2. **Tula mukubu ya zeke** na kisika yina beno nyonso zole lenda mona yo.
+3. **Balula bitini nyonso na luse** na ntwala ya kuyantika.
+4. **Yidika bitini ya nseke** nge mosi, to sala nseke ya ntete mpi bika kati sambu na yandi.
+5. **Vukisa bitini na kutadila mikubu** na baplato to bamasani ya fioti.
+6. **Pesa kitini mosi na mbala mosi** kana ndonga ya bitini kele mingi. « Mono ke banza nde kitini yayi kele ndambu ya nzo ya bambisi. »
+7. **Tubila kifwanisu,** kansi ve ntangu yo ke kwenda. « Yayi ke monana bonso maswa yina tata na mono vandaka na yo. »
+8. **Bika yo na mesa.** Beno lenda vutuka na yo na bilumbu mingi. Kukonda ntinu ve.
+9. **Yambula na ntangu ya mbote,** na nima ya kutula kitini mosi, ntangu yo ke natila ntete kiese.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ke pesa ndongisila ya kusadisa muntu na kuyantika, kutala kana kimbeni ke basika, mpi kubika yandi kaka kutala kana yandi ke sepelaka mingi na yo. Kutala nge ntangu nge ke tula bitini, mpi kusonga kisika kitini lenda kota, kele mpi kuvukana na kisalu.
 
-## Easy online puzzles
+## Bisalu ya pete ya kutunga bitini na internet
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Kisalu ya kutunga bitini na tablette kele na mambote ya kieleka: bitini ke vilaka ve, bifwanisu ya nene ke fulusaka écran, mpi mesa ya kulongula kele ve.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Kisalu na beto ya ofele [Picture puzzle](/games/picture-puzzle/) ke kabula kifwanisu na bitini 4 to 9. Niema na bitini zole sambu na kusoba bisika na yo tii kifwanisu ke kuma ya mvimba. Kifwanisu ya memana ke bikala na écran bonso lutwadisu, ntangu ya ntalu kele ve, mpi nge lenda yambula na ntangu yonso. Bitini 4 lenda fwana sambu na bantu mingi na kitamina ya kati ntangu muntu mosi kele pene-pene na bo.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Sambu na kisalu ya pete mingi ya bifwanisu, meka [Find the same](/games/find-the-same/), kisika nge ke niema kifwanisu yina ke fwanana ti yina kele na zulu, to [Sort together](/games/sort-together/), kisika bifwanisu ke kotaka na bapani bonso kikuku to bilanga.
 
-## Word puzzles: word searches and crosswords
+## Bisalu ya bangogo: kusosa bangogo mpi mots croisés
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Bisalu ya bangogo ke fwanaka sambu na bantu yina vandaka kuzola yo ntangu nyonso, mingi-mingi na luyantiku ya kubunga mabanza.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Kusosa bangogo na nsonama ya nene.** Kisalu na beto ya ofele [Word search](/games/word-search/) ke sadila basono ya nene mpi bangogo ya fioti kaka, yina ke tambulaka na balabala mpi na makonzi, ata mbala mosi ve na diagonale to na nima. Sala yo na écran to imprima yo.
+- **Tanga lisiti na ndinga ya ngolo.** Muntu mosi ke tanga ngogo, muntu ya nkaka ke sosa yo. Kuzungisa kaka sono ya ntete kele mbote.
+- **Mots croisés ya nsonama ya nene** ya mikanda ya ba puzzle lenda fwana na luyantiku. Tanga bangyufula na ndinga ya ngolo, kabula stylo mpi fulusa bamvutu kintwadi. Mots croisés ya pete, ya ke tadila mambu mosi, kele mbote kuluta yina ya mpasi mingi.
+- **Tubila bangogo.** Ngogo « bilanga » lenda nata masolo ya minute kumi na yina me tala tomate.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Sambu na bisalu mingi ya papie mpi mutindu ya ku imprima yo na mutindu ya pete ya kumona mpi ya kusimba, tala [bisalu ya ofele ya ku imprima sambu na bantu yina ke na kubunga mabanza](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Ba puzzle ya nki mutindu ke fwanaka na konso kitamina?
 
-Stages overlap, and good and hard days are normal.
+Bitamina ke kutanaka, mpi bilumbu ya mbote ti bilumbu ya mpasi kele mambu ya mbote.
 
-| Stage | Puzzles that often fit | Your role |
+| Kitamina | Ba puzzle yina lenda fwana mingi | Kisalu na nge |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Luyantiku | Ba jigsaw ya kuyikana ti bitini ya fioti kuluta na ntwala, mots croisés mpi kusosa bangogo na nsonama ya nene, ba puzzle ya bitini 9 na internet | Nduku ya kisalu: bika yandi pona, sadisa ntangu yandi ke lomba |
+| Kati | Ba jigsaw ti bitini kumi na kumi ya nene, ba puzzle ya bitini 4 na internet, kusosa bangogo yina nge ke tanga na ndinga ya ngolo kintwadi | Yidika yo, yidika bitini, pesa kitini mosi na mbala mosi |
+| Nsuka | Kutala kifwanisu ya memana kintwadi, Find the same ti bifwanisu zole, kusimba bitini fioti ya nene | Nata yo pene-pene na yandi; kuvanda na nge pene-pene kele kisalu |
 
-## When should you make a puzzle easier, or stop?
+## Ntangu ya mbi nge fwete kitula kisalu ya kutunga bitini pete, to kuyambula yo?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Tala kana muntu ke pema ngolo, ke pusa bitini, ke vutukila kutuba « mono lenda ve » to ke monisa ntanta. Yina kele bidimbu ya kusoba kima mosi, kansi ve ya kupusa na ngolo.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Kitula yo fioti.** Bitini ya fioti, to bika kaka bitini ya nsuka sambu na yandi.
+- **Sala ndambu ya mingi nge mosi** mpi binga yandi na kusadisa na bandambu ya pete.
+- **Soba na kisalu ya nkaka ya pene-pene:** kuyidika bitini na kutadila mikubu, kisalu ya kutunga bitini ya bitini 4 na internet, to [coloring](/games/coloring/).
+- **Yambula.** Bika yo na lweka mpi nwa tii to kafe. Beno lenda vutuka na kilumbu ya nkaka, to ve.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Kana bisalu ya kutunga bitini ke yantika kuvanda bonso mbikudulu ya mambu yina kele mpasi, kele mbote na kuyambula yo. Banzila mingi ya nkaka kele sambu na kulutisa ntangu ya mbote kintwadi; lutiti na beto ya [101 bangindu ya bisalu](/activities/ideas/) kele kisika ya mbote ya kutala.

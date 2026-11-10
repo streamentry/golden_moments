@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Льгъкыи въпросъ и отвѣтъ, безъ тѧгости"
+seoTitle: "Въпроси и отвѣти о старьцихъ съ помѧтьнымъ недѫгомъ"
+description: "50 льгъкъихъ въпросъ съ отвѣты и избъраниѥмъ, и како бесѣдовати о нихъ, да никтоже чоуетъ сѧ акы испытаѥмъ."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Льгъкыи въпросъ и отвѣтъ бѫдетъ добръ, аще естъ акы бесѣда, а не
+  испытаниѥ. Въпрашаите о томь, еже издавьна оувѣдѣно: о старъихъ пѣснехъ,
+  притъчахъ, праздникъхъ и житии на вьсѧкъ дьнь. Вьсегда даите дъва или три
+  избърана отвѣта. Отвѣтъ даите съ любовьѭ, никогоже не отълоучаите, числа не
+  чьтѣте, и отъ коегождо отвѣта начинаите повѣсть. Въпросъ «се ли, или оно»,
+  идеже нѣстъ лиха отвѣта, подобаѥтъ и поꙁдьнѣишимъ врѣменемъ.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Въпрашаите о добро знаѥмыхъ вещехъ: о пѣснехъ, притъчахъ, праздникъхъ, брашьнѣ и житии прѣжьнихъ лѣтъ."
+  - "Даите дъва или три избърана отвѣта, да можетъ чловѣкъ поꙁнати отвѣтъ, а не искати ѥго изъ памѧти."
+  - "Рьцѣте отвѣтъ тихо и съ радостиѭ, и идѣте далѣ. Кождо мнѣниѥ, еже родитъ повѣсть, добро естъ."
+  - "Безъ числа, безъ сътѧꙁаниꙗ чрѣдъ, безъ въпрашаниꙗ ѥдиного. Да отвѣщаѥтъ вьсь съборъ."
+  - "Аще иꙁбираниѥ отвѣта бѫдетъ тѧжько, прѣидѣте къ въпросомъ «се ли, или оно», идеже нѣстъ права отвѣта."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Добро ли естъ въпросъ и отвѣтъ чловѣкомъ, живѫщиимъ съ помѧтьнымъ недѫгомъ?"
+    a: "Можетъ быти добро, аще творите то кротъко. Alzheimer's Foundation of America поминаѥтъ въпросъ и отвѣтъ междоу дѣланиѥмъ раниꙗго врѣмене. Дрьжите въпросы о издавьна знаѥмыхъ вещехъ, даите иꙁбираниѥ, никогоже не поставлꙗите на испытаниѥ, и имѣите отвѣты акы пѫть къ бесѣдѣ, а не акы испыта."
+  - q: "Кыѩ вещьниѥ словеса сѫтъ наилѫчьша за таковъи въпросъ и отвѣтъ?"
+    a: "Наипаче подобаѭтъ вещь, оувѣдѣнъи издавьна: пѣсни и пѣвьци юности чловѣка, знаѥмъи притъчѧ, праздникъ, брашьно, спортъ и житие на вьсѧкъ дьнь, акы нощениѥ млѣка и телефонъ съ коломъ. Оставите новъии вѣсти и вьсе, еже трѣбоуѥтъ помнѣти нѣчто отъ сего събора."
+  - q: "Како творити въпросъ и отвѣтъ въ домоу попечениꙗ, да никтоже постыдитъ сѧ?"
+    a: "Чьтѣте кождо въпросъ вьсемоу събороу, покажите или рьцѣте иꙁбираниѥ, и приимите отвѣтъ отъ когождо. Не въпрашаите ѥдиного чловѣка и не чьтѣте числа. Рьцѣте отвѣтъ съ оусмѣхомъ, чьтоже кто рече, и въпросите пакы, на примѣръ: «Кто ꙁдѣ ходилъ ѥстъ на кино въ колѣхъ?», да обратитъ сѧ бесѣда въ повѣсти."
+  - q: "Чьто творити въмѣсто въпроса и отвѣта въ поꙁдьнѣишихъ врѣменехъ?"
+    a: "Прѣидѣте къ въпросомъ беꙁ лиха отвѣта, акы «кава ли, или чаи?», «море ли, или горы?», и къ коньчанию знаѥмъихъ притъчь или пѣснии въкоупѣ. Добро естъ и ꙁьрѣти на образъ и глаголати о нємь въкоупѣ."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Въпросъ и отвѣтъ чѧсто просѧтъ въ домѣхъ попечениꙗ и въ дьневьнъихъ съборѣхъ, и родинъ мъноꙁи творѧтъ то оу трепеꙁы. Аще творите то обычаѥмь, съ числомъ и ѥдинымъ отвѣщаѭщиимъ, чловѣкъ, живѧи съ помѧтьнымъ недѫгомъ, можетъ чоути сѧ акы на испыта. Аще творите то кротъко, то бѫдетъ живъ пѫть къ повѣстемъ. Ниже сѫтъ 50 льгъкъихъ въпросъ съ иꙁбираниѥмъ и бесѣдоѭ къ коемоуждо, и потомь како творити съборъ.
 
-## How do you make trivia work for someone with dementia?
+## Како творити въпросъ и отвѣтъ добръ чловѣкоу съ помѧтьнымъ недѫгомъ?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Да бѫдетъ о поꙁнании и о памѧти давьнъихъ вещии, и вьсѧкъ отвѣтъ да бѫдетъ приѩтъ.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Въпрашаите о давьнѣмь врѣмени.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) глаголѥтъ, ꙗко наичѧстѣиши ранъ ꙁнакъ болѣꙁни Альцгеймера ѥстъ трѫдъ помнѣти ново оувѣдѣноѥ. Пѣсни, притъчѧ и житие прѣдъ мъногъими лѣтъ мъногощи сѫтъ льгъчѣиши пѫть.
+2. **Вьсегда даите иꙁбираниѥ.** Иꙁбьрати правъ отвѣтъ отъ дъвою или трии ѥстъ льгъчѣѥ, неже родити ѥго отъ ничесогоже.
+3. **Чьтѣте въпросъ въслоухъ и покажите ѥго велико.** Дъска или плочица, дрьжима въꙁвъишено, помагаѥтъ тѣмъ, иже хоужде слъишѧтъ.
+4. **Даите отвѣтъ съ любовьѭ.** Аще никтоже вѣстъ, рьцѣте отвѣтъ тихо и идѣте далѣ. Николиже не рьцѣте: «Вѣси оубо се».
+5. **Безъ числа.** Ни за чловѣка, ни за трепеꙁѫ. Аще людие хотѧтъ число, дрьжите ѥдино число вьсего събора.
+6. **Николиже не въпрашаите ѥдиного.** Да отвѣтъ приходить отъ когождо. Аще ѥсте съ ѥдинимъ чловѣкомъ, отвѣщаите въкоупѣ: «Мьнѭ, ꙗко клавиръ. Чьто ты мьниши?»
+7. **Потрѣбите бесѣдѫ.** Отвѣтъ ѥстъ начало, а не коньць. Повѣсти сѫтъ истиньна цѣль.
+8. **Дрьжите кротъко.** Десѧть въпросъ съ повѣстьми междоу ими довьлѣѥтъ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) глаголѥтъ просто: съмотри, аще чловѣкъ чоуѥтъ тѧгость, и сътвори, да чоуѥтъ сѧ оуспѣвъ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) поминаѥтъ въпросъ и отвѣтъ междоу дѣланиѥмъ раниꙗго врѣмене. Въ срѣдьнѣмь врѣмени дрьжите дъва иꙁбираниꙗ и боль паче потрѣбите бесѣдѫ. Поꙁдѣѥ прѣидѣте къ въпросомъ «се ли, или оно» нижьѥ.
 
-## Music and entertainment trivia
+## Въпроси о пѣснехъ и видѣнии
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Отвѣтъ ѥстъ **чрьнъими словесъ**. Пристроите въпросъ къ чловѣкоу: иже раслъ ѥстъ съ Motown, въсхощетъ инъихъ пѣвьць, неже иже раслъ ѥстъ съ великъими съборъ.
 
-| Question | Choices | Talk about |
+| Въпросъ | Иꙁбираниѥ | Бесѣдоуи о семъ |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Кого нарицахѫ цѣсарѣмъ рока и рола? | **Елвис Пресли**, Франк Синатра, Бинг Кросби | Видѣ ли ѥси Елвиса на видѣнии? |
+| Которъи пѣвьць бѣ нареченъ Ol' Blue Eyes? | Дин Мартин, **Франк Синатра**, Пери Комо | Каꙗ пѣснь Синатръı ти люба ѥстъ? |
+| Бинг Кросби мечьтааше о бѣлѣмь... | **Рождьствѣ**, брацѣ, домоу | Въꙁпоита съврьшениѥ въкоупѣ |
+| Луис Армстронгъ пѣаше «What a Wonderful...» | Дьнь, **Миръ**, Житие | Чьто творитъ миръ чоудьнъ тебѣ? |
+| Пѣснь «Over the Rainbow» пѣ Джуди Гарландъ въ коѥмь видѣнии? | **Чаровьникъ отъ Оꙁа**, Отишедъшеѥ съ вѣтромъ, Поѭще въ дъждеви | Къде ꙁьрѣлъ ѥси любима видѣниꙗ? |
+| Къто играаше Луси въ «I Love Lucy»? | **Лусиль Бал**, Дорис Деи, Бети Ваит | Каꙗ видѣниꙗ ꙁьрѣаше ваша родина въкоупѣ? |
+| Которъи пастоухъ ѣздꙗаше на кони, именемъ Trigger? | **Рои Роџерс**, Џин Отри, Џон Веин | Игра ли ѥси въ пастоухъ ꙗко отрочѧ? |
+| Къто водꙗаше «The Tonight Show» 30 лѣтъ? | Ед Съливан, **Џони Карсон**, Боб Хоуп | Бьдѣ ли ѥси поꙁдѣ, да ꙁьриши видѣние? |
+| Которъи строи иматъ 88 клавишъ? | Гѫсли, **клавиръ**, трѫба | Играаше ли кто въ твоѥи родинѣ? |
+| Которъи плѧсъ чьтетъ сѧ ѥдино, дъва, три, ѥдино, дъва, три? | **Вальсъ**, твист, танго | Къде ходилъ ѥси плѧсати? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Болѣѥ о пѣснехъ виждь [music activities for dementia](/activities/music/).
 
-## Everyday life trivia
+## Въпроси о житии на вьсѧкъ дьнь
 
-| Question | Choices | Talk about |
+| Въпросъ | Иꙁбираниѥ | Бесѣдоуи о семъ |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Прѣжде хладильникъ мъноꙁи хранинѫ брашьно въ... | **Ледовьницѣ**, пещи, подъкровии | Къто ношааше ледъ? |
+| Къто ношааше млѣко къ двьремъ въ стьклѣнъихъ съсѫдѣхъ? | Пощьникъ, **млѣчьникъ**, ношачь листовъ | Чьто ино ношахѫ въ домъ? |
+| Како ꙁъвасте на телефонѣ съ коломъ? | Тиснѫще кнопъ, **врьтѧще коло**, глаголѭще къ нѥмоу | Повѣжь ми о телефонѣ въ вашемъ домоу |
+| Каꙗ дроужина сътвори кола Model T? | **Форд**, Шевроле, Буик | Повѣжь ми о колѣхъ, ꙗже любилъ ѥси |
+| Къде обрѣтааше сѧ продавачь питии? | **Оу стола питии**, въ пекарници, въ хранилищи | Чьто просилъ ѥси оу стола? |
+| Каꙗ играчька ѥстъ мѣдьна прѫжина, могѫщи ходити по стѫпенехъ? | Йо-йо, **Слинки**, оброучь | Каꙗ играчька любилъ ѥси? |
+| Кино въ колѣхъ бѣ мѣсто, идеже ꙁьрѣахѫ... | **Видѣниꙗ отъ колъ**, игръ, ходовъ | Съ кымь ходилъ ѥси? |
+| Чие лице ѥстъ на папирѣ ѥдиного долара? | Линкольн, **Џорџ Вашингтон**, Џеферсон | Чьто можаше коупити доларъ тъгда? |
+| Чие лице ѥстъ на пени? | **Авраамъ Линкольн**, Вашингтон, Франклин | Събира ли ѥси пени въ съсѫдъ тъгда? |
+| Коѥѥ цвѣта обычаи ѥстъ оучилищьнъи автобусъ? | Чрьвена, **жьлта**, синꙗ | Како ходилъ ѥси въ оучилище? |
 
-## Holidays, nature and places
+## Въпроси о праздникъхъ, природѣ и мѣстѣхъ
 
-| Question | Choices | Talk about |
+| Въпросъ | Иꙁбираниѥ | Бесѣдоуи о семъ |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Которъи праꙁдьникъ ѥстъ въ четврьтъи четврьтъкъ ноѥмбрꙗ? | Дьнь троуда, **Дьнь благодарениꙗ**, Дьнь памѧти | Чьто вьсегда бѣ на вашеи трепеꙁѣ? |
+| Тъкъвънъи свѣтильникъ творѧтъ за которъи праꙁдьникъ? | **Хеловин**, Пасха, Рождьство | Повѣжь ми о Хеловинѣ, идеже раслъ ѥси |
+| Четврьтъи июлиꙗ славитъ изꙗвлениѥ... | Правъ, **Независимости**, Свободъ | Къде ꙁьрѣлъ ѥси огньнъи цвѣтъ? |
+| Дьнь матере ѥстъ въ коѥмь мѣсѧци? | Априль, **Маи**, Июнь | Како ваша родина славиꙗаше? |
+| Колико ꙁвѣꙁдъ ѥстъ на амѣриканьсцѣмь ꙁнамени? | 48, **50**, 52 | Ꙁнамѧ имѣаше 48 ꙁвѣꙁдъ до лѣта 1959. Обою отвѣта сѫтъ добра памѧть |
+| Котороѥ море ѥстъ на въсточьнѣмь брѣꙁѣ? | Тихоѥ, **Атлантьскоѥ**, Сѣверьноѥ | Ходилъ ли ѥси къ морю? |
+| Въ коѥмь градѣ ѥстъ образъ Свободъ? | Бостон, **Ню Иоркъ**, Филаделфиꙗ | Бъıлъ ли ѥси въ Ню Иорцѣ? |
+| Чьто творѧтъ пьчелъ? | Млѣко, **медъ**, свилѫ | Медъ на хлѣбѣ или въ чаи? |
+| Младо крава нарицаѥтъ сѧ... | Жрѣбѧ, **тельць**, коꙁьлѧ | Жилъ ли ѥси блиꙁъ села? |
+| Которъи въıсокъи жьлтъи цвѣтъ знаѥмъ ѥстъ, ꙗко обращаѥтъ сѧ къ сълньцоу? | Роꙁа, **слъньчьникъ**, лала | Чьто растиаше въ твоѥмь врьтѣ? |
+| Колико дьнии ѥстъ въ прѣстѫпьнѣмь лѣтѣ? | 365, **366**, 360 | Повѣжь ми о дьни рождениꙗ, ѥже помниши |
+| Коѥ врѣмѧ лѣта приходить по ꙁимѣ? | Ѥсень, **весна**, лѣто | Коѥ врѣмѧ лѣта любиши? |
 
-## Food and sports trivia
+## Въпроси о брашьнѣ и спортѣ
 
-| Question | Choices | Talk about |
+| Въпросъ | Иꙁбираниѥ | Бесѣдоуи о семъ |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Иꙁюмъ сѫтъ соушенъи... | Сливъ, **гроꙁдие**, вишьнѧ | Кладѣше ли ѥси иꙁюмъ въ обѣдъ? |
+| Соухыѥ сливъ сѫтъ соушенъи... | **Сливъ**, смокъвъ, ꙗблъка | Къто въ твоѥи родинѣ любиꙗаше соухъи сливъ? |
+| Масло отъ орѣхъ и... | **Желе**, съръ, свинина | Хрѫпаво или мѧкъко? |
+| Гвакамоле творитъ сѧ паче отъ... | Горошька, **авокадо**, огурьць | Каꙗ омочениꙗ бывахѫ на пироу? |
+| Которъи пирогъ любъ ѥстъ на Дьнь благодарениꙗ? | **Тъкъвьнъ**, лимоньнъ, вишьневъ | Которъи пирогъ творилъ ѥси? |
+| Колико игрьць иматъ чрѣда игръı въ беисболѣ на поли? | 7, **9**, 11 | За коѭ чрѣдѫ дрьжалъ ѥси? |
+| Колико оударъ творѧтъ иꙁходъ въ беисболѣ? | Дъва, **три**, четыри | Игра ли ѥси въ мѧчь? |
+| Беиб Рутъ бѣ славьнъ въ коѥмь спортѣ? | Пьрьниѥ, **беисбол**, голф | Ходилъ ли ѥси на игръ? |
+| Колико ꙗмъ ѥстъ на обычаинѣмь поли голфа? | 9, **18**, 24 | Игра ли ѥси голфъ или малъ голфъ? |
+| Въ коѥмь спортѣ твориши тачдаунъ? | **Футбол**, хокеи, кошьница | Къто ꙁьрѣаше футболъ въ вашемъ домоу? |
 
-## Familiar sayings
+## Ꙁнаѥмъи притъчѧ
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Коньчание притъчѧ чрьплетъ отъ ѩꙁъıка, оувѣдѣна издавьна, и чѧсто приходить льгъко. Наша игра [Finish the saying](/games/finish-the-saying/) иматъ мъного болѣѥ, съ тъканємь за ꙗвлениѥ коегождо коньца.
 
-| Saying | Choices | Talk about |
+| Притъча | Иꙁбираниѥ | Бесѣдоуи о семъ |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Ꙗблъко на дьнь дрьжитъ... | **Лѣчьца далече**, дъждь далече, котъ далече | Къто глаголааше се тебѣ? |
+| Раньна птица ловитъ... | Автобусъ, **чрьвь**, поѣꙁдъ | Ѥси ли чловѣкъ оутра? |
+| Не чьти коуръ прѣжде иже сѧ иꙁлѣгѫтъ... | **Ѥица**, сънъ, пѣсни | Имѣаше ли ваша родина коуръ? |
+| Съхранѥна пѣнѧꙁь ѥстъ пѣнѧꙁь... | **Стѧжанъ**, погубенъ, иꙁдаꙗнъ | Къто бѣ хранитель въ вашеи родинѣ? |
+| Домъ ѥстъ, идеже ѥстъ... | Врьтъ, **срьдьце**, поварьница | Чьто творитъ мѣсто акы домъ? |
+| Лоуче поꙁдѣ, неже... | Рано, **николиже**, жалость | Къто вьсегда опаꙁди? |
+| Вьсѧкъ облакъ иматъ срѣбрьно... | **Подъшитиѥ**, лъжицѫ, пѣнѧꙁь | Повѣжь ми о добрѣ приключении |
+| Дѣла глаголѭтъ громьчѣѥ, неже... | **Словеса**, пѣсни, громъ | Повѣжь ми о чловѣцѣ, иже се глаголааше |
 
-## This-or-that questions with no wrong answer
+## Въпроси «се ли, или оно» беꙁ лиха отвѣта
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Сии подобаѭтъ вьсѧкомоу врѣмени, и поꙁдѣѥ, понеже нѣстъ что съгрѣшити. Въпросите, послоушаите, и рьцѣте своѥ мнѣниѥ.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Кава ли, или чаи?
+- Море ли, или горъ?
+- Пьси ли, или котъ?
+- Лѣто ли, или ꙁима?
+- Пирогъ ли, или тортъ?
+- Плѧсати ли, или ꙁьрѣти?
+- Въсходъ ли, или ꙁаходъ?
+- Прѣдьнии притворъ ли, или ꙁадьнии дворъ?
+- Радио ли, или плочѧ?
+- Блинъ ли, или ꙗица?
+- Роꙁъ ли, или марьгаритъ?
+- Пѫть поѣꙁдомъ ли, или колъ?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+За въпросъ бесѣдъ съ образъ, види нашѧ печатаѥмъи [Conversation cards](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Како творити съборъ въпроса и отвѣта въ домоу попечениꙗ или въ съборѣ?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Посадите людии, да могѫтъ видѣти и слъишати.** Слоуховъи строи въ оушию, очила на очию, видѣние оугашено.
+2. **Начьните акы бесѣдѫ.** «Имамъ нѣколико въпросъ о старъихъ дьнехъ, и мьнѭ, ꙗко въ вѣсте болѣѥ мене».
+3. **Чьтѣте кождо въпросъ дъващи и покажите иꙁбираниѥ велико.**
+4. **Приимите отвѣтъ отъ вьсего мѣста.** Повторите добръи отвѣтъ, да вьси слъишѧтъ.
+5. **Рьцѣте отвѣтъ вьсѣмъ,** потомь въпросите въпросъ бесѣдъ къ събороу.
+6. **Послѣдоуите силѣ.** Аще ѥдинъ въпросъ родитъ десѧть часъ повѣстии, оставите ѥго.
+7. **Коньчаите пѣсниѭ или въпросомъ «се ли, или оно»,** да вьси коньчаѭтъ на льгъцѣмь.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+За инъи образъ събора, съ образьнъıмъ бинго и съ пѣниѥмъ въкоупѣ, виждь [group activities for care homes](/activities/care-home-groups/).
 
-## When to change the plan
+## Къгда иꙁмѣнити пѫть
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Аще чловѣкъ ꙗвитъ сѧ печальнъ, оумлькнетъ или речетъ «не вѣмъ» боль ѥдиногощи, сътворите льгъчѣѥ: оставите дъва иꙁбираниꙗ, отвѣщаите въкоупѣ, или прѣидѣте къ въпросомъ «се ли, или оно». Аще съборъ хощетъ глаголати о ѥдиномь въпросѣ вьсь дьнь, то ѥстъ оуспѣхъ. Цѣль не бѣахѫ правии отвѣти. Цѣль бѣ врѣмѧ въ добрѣ дроужинѣ.

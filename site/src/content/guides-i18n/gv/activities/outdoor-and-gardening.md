@@ -1,32 +1,34 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Obbraghyn cheu-mooie as gareydys da sleih lesh mee-hushtey"
+seoTitle: "Gareydys as obbraghyn cheu-mooie son mee-hushtey"
+description: "Earrooyn obbree gareydys as cheu-mooie da sleih ta cummal lesh mee-hushtey, lesh lhiabbeeyn troggit, gareydyn pot, as coyrleyn sauçhey son chiass, grian as shooyl ersooyl."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Foddee gareydys as traa cheu-mooie ve ny obbyr sheeoil, ennagh da’n
+  phersoon t’ou kiarail er, ta cummal lesh mee-hushtey. Jean eab er ushtey
+  chur da lossreeyn, cuirrey rassyn, blaaghyn feddynit y gheddyn ersooyl ny
+  shooyl giare ayns garey fencit. Jean ymmyd jeh lhiabbeeyn troggit ny
+  boayrd nagh jean peiagh erbee glioon, shaghney greienyn geyre as lossreeyn
+  puyshoonagh, gow magh ‘sy traa s’feayrey jeh’n laa, as fann hames marish
+  y phersoon dy kinjagh.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Foddee obbraghyn garey aashagh lheid as ushtey chur, rassyn y chuirrey, rassyn y hoyrt as blaa-ghyn y hroggal ve jeant nyn shassoo ny nyn soie."
+  - "Ta lhiabbeeyn troggit, potyn as boayrd fo chooilleeney cur lesh y gharey gys yrjid y veyl as cur sheese yn aggle dy huittym."
+  - "Shaghney greienyn geyre, lossreeyn lesh drineyn ny ta cur corree er y chrackan, as red erbee puyshoonagh. Cur tastey nagh vel ooir er ny ghoaill son bee."
+  - "Foddee chiass ve danjeyragh da sleih shinney. Gow magh moghrey ny fastyr, cur lesh ushtey as scaa, as gow stiagh ec y chied cowrey dy vel ad neu-chesh."
+  - "Ta ymmodee sleih ta cummal lesh mee-hushtey shooyl ersooyl ec traa ennagh. Fann hames marish y phersoon cheu-mooie as freill jalloo noa as enney persoonagh ry-laue."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Cre ny obbraghyn gareydys oddys peiagh lesh mee-hushtey jannoo?"
+    a: "Ta ushtey chur da lossreeyn, rassyn y chuirrey ayns potyn beggey, rassyn y hoyrt as y vennaghtyn, blaaghyn feddynit y gheddyn ersooyl, lossreeyn-garey y hroggal, blaa-ghyn giare y chiartaghey as raad y scuabey ooilley reihyn mie. Cheusthie, ta pot rassyn er uinnag ny clea ooir er boayrd coodit gobbraghey dy mie. Jean reih y churrym lurg shen ren y persoon goaill soylley jeh roie as oddys ad jannoo nish dy couyral."
+  - q: "Kys oddym freayll sauchey peiagh lesh mee-hushtey ‘sy chiass?"
+    a: "Jean traa cheu-mooie son y voghrey ny’n astyr feayr, cum eh giare, as cur ushtey daue dy mennick. Jean reih scaa, edd mooar, eaddagh aashagh as scammylt-grieney. Ta sleih shinney ayns gaue smoo jeh doghan chiass, as foddee mee-ourys, mearey ny doghan ve nyn gowraghyn, myr shen gow stiagh as lhig daue feayraghey er y chooyl my hee oo ad."
+  - q: "Kys oddys mayd goll magh my t’ad cliaghtey shooyl ersooyl?"
+    a: "Fann marish y phersoon ooilley’n traa, jean ymmyd jeh garey fencit lesh giat fo ghlass, as jean shickyr dy vel bracelet enney persoonagh oc ny enney persoonagh maroo. Freill jalloo noa ry-laue. My ta’n persoon ersooyl, ta’n Cheshaght Alzheimer coyrlaghey dy eam 999 mannagh vel ad er nyn geddyn cheusthie jeh 15 minnid."
+  - q: "Cre my ta gyn garey ain?"
+    a: "Ta kuse dy photyn er porch, kishtey-uinnag, ny clea rassyn er boayrd y choggyl dy liooar. Foddee oo myrgeddin goll dys pairk, garey theayagh ny garey co-phobble. Ta soie cheu-mooie as geaishtagh rish eeanlee ny obbyr cheu-mooie myrgeddin."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +53,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Da ymmodee sleih, she yn gharey ynnyd jeh ny ynnydyn s’ennaghey t’oc. Ta cleiy, ushtey chur as blaa-ghyn y hroggal jannoo ymmyd jeh schleiyn ynsit foddey er dy henney, as ta ve cheu-mooie cur lhieu aer glen, soilshey ny greiney as kiaull eeanlee. Ta’n Oik Ashoonagh son Shennaghey cur stiagh kiarail lossreeyn, blaa-ghyn as lossreeyn-garey y chuirrey, as [loayrt mychione kys ta ny lossreeyn gaase](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mastey obbraghyn foddee sleih lesh Galar Alzheimer goaill soylley jeu. Ta’n duillag shoh cur-my-ner cre dy eab, kys dy yannoo garey ny sassey dy ymmyd, as kys dy hannaghtyn sauchey lesh chiass, grian as shooyl ersooyl.
 
-## What outdoor and gardening activities work well?
+## Cre ny obbraghyn cheu-mooie as gareydys ta gobbraghey dy mie?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+She ny curmyn share adsyn ta aashagh, ennagh, as foddee ad ve jeant nyn shassoo ny nyn soie. Jean reih lurg shen ren y persoon goaill soylley jeh roie.
 
-### In the garden
+### ‘Sy gharey
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Ushtey chur.** Cannyss ushtey beg, eddrym ny roie ushtey meein as kuse dy photyn faggys daue. Ta toshiaght as jerrey baghtal ec ushtey chur, as s’doillee eh y yannoo marran.
+2. **Rassyn y chuirrey ayns potyn.** Ta Undin Alzheimer ny Steatyn Unnaneysit coyrlaghey rassyn y chuirrey ayns potyn beggey as [fakin ad gaase](https://alzfdn.org/dementia-activity-gardening/). Ta rassyn mooarey lheid as poanrey, lus ny greiney ny piss sassey dy lhiettal.
+3. **Blaaghyn feddynit y gheddyn ersooyl.** Ta pluckey magh blaa-ghyn as ad er jeet goll sheear lesh dty laueyn obbyr meein, aareaghey. Jean reih lossreeyn gyn drineyn.
+4. **Lossreeyn-garey ny rassyn y hroggal.** Ta tomatoeyn beggey, poanrey as rassyn aashagh dy hroggal as mie dy vlashtyn. Cur lhieu stiagh ad dy ymmyd ec lhong.
+5. **Rassyn y hoyrt as y vennaghtyn.** Ta soar millish, lajer ec rosemary, minta as lavender. Jean duillag y vlasshey eddyr dty veyragyn as cur harrish eh.
+6. **Raad ny cooyrt y scuabey.** Scuab eddrym er eaghtyr rea, chirrym, my ta’n chooilleeney shickyr.
+7. **Bee-inn eeanlee y lhieeney.** Eisht soie cooidjagh as jeeaghyn quoi ta cheet dy yeeaghyn.
 
-### Indoors, when going out is not possible
+### Cheusthie, tra nagh vod oo goll magh
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Garey rassyn er uinnag** lesh basil, perslee ny lus y chibbyr.
+- **Cuirrey er boayrd coodit.** Ta’n AFA coyrlaghey ymmyd y yannoo jeh cleaghyn lheid as adsyn ‘sy chaffee dy reayll ooir ayns un voayl, as ooir y ghleashaghey lesh cuppyn beggey.
+- **Blaa-ghyn giare y chiartaghey** lesh blaa-ghyn as duillagyn ass y gharey ny shapp.
+- **Blaaghyn pressit** ass bouquet, as ny s’anmey gludit er caarjyn. Jeeagh er [obbyr ellyn as keirdyn](/activities/arts-and-crafts/) son tooilley.
+- **Poagey lavender ny rose y yannoo**, eie elley veih’n AFA ta freayll soar y gharey cheusthie.
 
-### Getting out and about
+### Goll magh as mygeayrt
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Shooyl giare** mygeayrt y voayl, ayns pairk ny ayns shapp ghareydys, dy moal as lesh boayl dy hoie.
+- **Soie cheu-mooie** er porch ny boayrd dy eaishtagh rish eeanlee as dy ennaghtyn y gheay. She obbyr slane shoh er-lheh.
+- **Keayrt gys garey theayagh** ‘sy traa s’feayrey jeh’n laa. Ta’n NHS gra dy vel gareydyn ennaghtagh ec paart dy ynnydyn lesh lossreeyn soaral, lhottyn dy vennaghtyn as ushtey.
+- **Eeanlee y veeaghey ny jeeaghyn orroo** ec loughyn ynnydagh, freayll foddey dy liooar veih oirr y ushtey.
 
-## How do I make a garden easier to use?
+## Kys oddym garey y yannoo ny sassey dy ymmyd?
 
-Bring the garden up to the person, not the other way around.
+Cur lesh y gharey seose gys y phersoon, cha nee yn aght elley.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Lhiabbeeyn troggit ny potyn ardey** ec mysh yrjid y veyl, myr shen cha lhiass daue glioon ny crommey.
+- **Potyn er boayrd** ta gobbraghey da sleih ta jannoo ymmyd jeh caair-chleigh ny ta by vie lhieu soie.
+- **Raadyn lhean, rea** gyn claghyn scughit ny piobyn ushtey nyn lhie harrystoo, ta cur sheese yn aggle dy huittym.
+- **Soieaghyn lesh laueyn as scaa** er y raad, myr shen ta aash dy kinjagh ry-gheddyn.
+- **Greienyn lesh laueyn lheeah, bog** ta aashagh dy chumail. Ny jean ymmyd jeh bearryn, skynnyn ny red erbee geyre.
+- **Boayl fencit lesh giat fo ghlass** oddys y persoon ronsaghey dy seyr choud’s t’ou faggys daue.
 
-## Which plants should I avoid?
+## Cre ny lossreeyn lhisagh mee shaghney?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Jean reih lossreeyn ta sauchey dy vennaghtyn, as share foast my t’ad sauchey dy vlass. Ta’n AFA coyrlaghey dy ymmyd y yannoo jeh lossreeyn nagh vel dy mennick cur corree er y chrackan, dy yeeaghyn son aleyssyn, as dy chur tastey mie da peiagh erbee oddys goaill ooir son bee. Ta coyrle sauçhey thie yn NIA goaill stiagh geddyn rey rish ny cur fo ghlass lossreeyn puyshoonagh.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Shaghney roosyn lesh drineyn, cactusyn, as lossreeyn lesh soo ta cur corree er y chrackan.
+- My ta meeourys ort mychione lossrey erbee, jean briaght jeh laue-chooney puyshoon ny shapp ghareydys ynnydagh roish eh y chuirrey.
+- Foddee lossreeyn ennagh cur lesh er-ash ennaghtyn mie. Ta’n AFA cur enmys er roosyn as cactus y Nollick myr sampleyryn. Jean reih sorchyn gyn drineyn.
+- Freill messan, puyshoonyn as stoo geddyn rey rish faiyr fo ghlass, as ny jean ymmyd jeu ayns boaylyn oddys y persoon roshtyn.
 
-## How do I stay safe in the heat and sun?
+## Kys oddym tannaghtyn sauchey ‘sy chiass as ‘sy ghrian?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Jean traa cheu-mooie cordail rish yn emshir. Ta’n NIA cur magh dy vel sleih shinney ayns gaue smoo jeh [doghan bentyn rish chiass](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), ayns ayrn er-yn-oyr nagh vel y corp chyndaa cha mie rish caghlaaghyn çhiassid as ta paart dy chummaltee gobbraghey er yn aght ta’n corp dellal rish chiass.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Gow magh moghrey ny fastyr.** Shaghney mean y laa ayns meeaghyn cheh. Jean-jeeaghyn er yn earroo chiass, cha nee yn çhiassid ny lomarcan.
+- **Cur ushtey dy mennick.** Ny fuirree derrey jir y persoon dy vel paays orroo. Shaghney alcohol as joughyn lesh caffeine ‘sy chiass.
+- **Jean coamrey son shen.** Eaddagh aalin, sollys, edd mooar as speckleyryn greiney.
+- **Jean ymmyd jeh scammylt-grieney.** Ta’n NIA coyrlaghey SPF 15 ny syrjey, as eh y chur er reesht ayns y laa.
+- **Jean reih scaa.** Cur y voayrd chuirrey fo villey ny scaa-dorrys.
+- **Cum eh giare.** Foddee tammylt beg cheu-mooie ve dy liooar, er-lheh er laghyn cheh.
+- **Cur tastey da cowraghyn.** Ta’n NIA cur stiagh kione cramp, mee-ourys, mearey ny doghan myr cowraghyn foddee ve jeh doghan chiass. Foddee nagh jean peiagh lesh mee-hushtey ginsh dhyt dy vel ad neu-chesh, myr shen cur tastey da’n eddin as da’n ymmyrkey oc. Gow stiagh, lhig daue feayraghey lesh ushtey as eaddagh feayr, as fow cooney leigh my nagh vel ad ny share dy tappee. Ta builley chiass, lesh cowraghyn lheid as meehene, mee-ourys, ny crackan chirrym, jiarg, ny stayd er-lheh: cur eam da 999.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Ta emshir feayr scanshoil myrgeddin. ‘Sy gheurey, cum traa cheu-mooie giare as jean shickyr dy vel laueyn as cassyn çheh as chirrym.
 
-## How do I handle wandering when we go outside?
+## Kys oddym dellal rish shooyl ersooyl tra ta shin magh?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Fann marish y phersoon dy kinjagh tra t’ad cheu-mooie. Ta’n Cheshaght Alzheimer gra dy jean [shey ass dagh jeih dy leih ta cummal lesh mee-hushtey](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) shooyl ersooyl un cheayrt ec y chooid sloo, as ta ymmodee jeu jannoo eh ny smoo na un cheayrt. Foddee eh taghyrt ec traa erbee.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Ta [coyrleyn yn NIA mychione shooyl ersooyl as goll er stray](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) goaill stiagh:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Jean shickyr dy vel enney persoonagh ny bracelet leigh ec y phersoon lesh yn ennym, yn enmys as dty earroo çhellvane, ny cowraghey yn eaddagh oc.
+- Freill jalloo ny feeshan noa jeh’n phersoon.
+- Insh da naboonyn dy vod y persoon shooyl ersooyl.
+- Jean y garey shickyr lesh cleigh as giat fo ghlass.
+- Ny faag peiagh lesh eachdraaid dy hooyl ersooyl nyn lomarcan.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Ta’n Cheshaght Alzheimer coyrlaghey myrgeddin boaylyn cheusthie as cheu-mooie y chroo oddys ve er nyn ronsaghey dy sauchey, as obbraghyn y phleanal son y traa jeh’n laa tra ta mee-veeaynid smoo liklee. Foddee shooyl ayns garey sauchey, fencit ve cooie son mee-veeaynid fastyragh. Jeeagh er nyn giuide mychione [mee-veeaynid fastyragh](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+My ta’n persoon ersooyl, ta’n Cheshaght Alzheimer coyrlaghey dy ronsaghey yn boayl faggys er y chooyl as cur eam da 999 mannagh vel ad er nyn geddyn cheusthie jeh 15 minnid. Insh da ny meoiryn-shee dy vel mee-hushtey er y phersoon.
 
-## How do I adapt gardening as things change?
+## Kys oddym gareydys y chaghlaa myr ta reddyn caghlaa?
 
-| If this has become hard | Try this instead |
+| My ta shoh er jeet ny s’doillee | Jean eab er shoh ayns ynnyd jeh |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Lhiabbee slane y chuirrey | Un rass y chuirrey ayns un phot |
+| Faiyr y hayrn (scarrey faiyr as lossreeyn) | Ushtey chur, ny blaa-ghyn feddynit soilshagh y gheddyn ersooyl |
+| Shooyl mygeayrt y gharey | Soie ec boayrd lesh clea ooir as lossrey |
+| Goll magh er chor erbee | Pot rassyn er boayrd y choggyl, ny soie ec uinnag foshlit |
+| Jannoo currym erbee | Soie cheu-mooie cooidjagh, geaishtagh as jeeaghyn |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Ta paart dy leih ny s’fondooree jeeaghyn ort gobbraghey. Ta’n NIA gra dy vel eh mie lhiggey da peiagh jeeaghyn ny lomarcan my she shen ta cur taitnys daue.
 
-## When should we head inside?
+## C’uin lhisagh shin goll stiagh reesht?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Gow stiagh tra ta’n persoon jeeaghyn skee, cheh, feayr, neu-chesh ny er nyannoo dy liooar. Ta jeih minnidyn giare, taitnyssagh ny share na fastyr liauyr ta jerrey lesh trimshey. She torçh mie eh dy scuirr dy leah.
 
-## Bring the garden indoors on screen
+## Cur lesh y gharey stiagh er y scaailean
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Er laghyn fliugh, ta kishtey gharey ec [Sort Together](/games/sort-together/) son sortal jallooyn, as ta cooishyn foshlit ec [Conversation Cards](/games/conversation-cards/) oddys leeideil gys skeealyn gharey. My hig oo stiagh veih’n chiass as oo braew siyragh, ta [Calm Breathing](/games/calm-breathing/) cur tammylt moal, sheeoil oddys oo rheynn. Son tooilley eieyn bentyn rish bentyn, soar as sheean, jeeagh er nyn [giuide obbraghyn ennaghtagh](/activities/sensory/).

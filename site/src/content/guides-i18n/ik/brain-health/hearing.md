@@ -1,31 +1,34 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Tusaqtuun Naanutqaqtuqlu Nalunaiqsautinun: Qanuq Qaujimatiqaqtuq"
+seoTitle: "Tusaqtuun Naanutqaqtuq Nalunaiqsautinun"
+description: "Suna tusaqtuunaanutqaqtuq nalunaiqsautinun sapqilriaqaqtillugu, ACHIEVE tusaqtuun ikayuutaq qanuq suliqaqtillugu, qanuq tusaqtausimainaqtutlu."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024-mi Lancet Commission-ip uqausiqaqtuq tusaqtuunaanutqaqtuq nalunaiqsautinun
+  aatchuqtuq suliqsautigun nalunaiqsautinun qasuirumi. ACHIEVE-p tusaqtuun
+  ikayuutaaminik qaujimautaa isuma suuqatiqaqtuq iluani piumaqtuq,
+  aaqqiksuutiqaqtut nalunaiqsuqtuat iluani, isumaq suuqatiqaqtuq naaggaqtuaq.
+  Tusaqtuun ikayuutaq ikayuqaqtuq uqausiksrauqnilu inuuniagluunniit.
+  Tusaqtauqatiq, tusaqtuun ikayuutaq piyumaguvit nalunaiqsuqarluni,
+  annguayullunilu uqausilaaqtitaq.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission-ip qaujimatiqaqtuq tusaqtuunaanutqaqtuq 7%-mik nalunaiqsautinik silarsuarmi, malgukpiaq nalunaiqsautinik 14-nik nalunaiqsiqaqtut iluani."
+  - "ACHIEVE-p qaujimautaanik 977-nik ukiuqtaqtun nalunaiqsigun, tusaqtuun ikayuutaq pingasun uqausiinnik isumaq suuqatiqaqtuq aaqqiksuutiqanngittuq."
+  - "ACHIEVE-mi nalunaiqsuqtuat pingahuni, nalunaiqsautinun aatchuqaqtut, isumaq suuqatiqaqtuq 48%-mik naaggaqtuaq tusaqtuun ikayuutaq atuqtillugu; una qaujimautiqaqqajauraqtuq aaqqiksuutiqaqtilunilu."
+  - "2022-mi Oktober 17-aatigut, Alaska-mi nunangani inupiat 18-nik ukiuqaqtut nalunaiqsuqtuat tusaqtuunaanutqaqtuat ikayuutiqaqtuq tusaqtuun ikayuutaq nalunaiqsiqanngittumik piyariaqanngittut atuqtauniaqtut."
+  - "Tainna 2024-mi, qiñiuqtuunaanutqaqtuq nalunaiqsautinun aatchuulluni nalunaiqsiqaqtuq, taima qiñiqtausimautaanik ikayuutiqaqtuq."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Tusaqtuun ikayuutaq nalunaiqsautinik aannuraqtauniaqtuq?"
+    a: "Una aaqqiksuutiqaqqanngilaq. ACHIEVE-p qaujimautaa pingasun uqausiinnik isumaq suuqatiqaqtuq aaqqiksuutiqanngittuq, qanuqtaaq nalunaiqsuqtuat aatchuqaqtut pingahuni isumainnaqtuq. Tusaqtuun ikayuutaq suli ikayuqaqtuq uqausiksrauqni, sapqiuqsautini, inuuniagluunniit qanuqtuuminaqtittillugu."
+  - q: "Kina tusaqtuun ikayuutaq nalunaiqsiqanngittumik piksraqtauniaqtuq?"
+    a: "FDA-p permisiaqaqtuq inupiat 18-nik ukiuqaqtut nalunaiqsuqtuat tusaqtuunaanutqaqtuat ikayuutiqaqtut, nalunaiqsuqtuat ikayuutiqanngittut tusaqtuun ikayuutaq nalunaiqsiqanngittumik niaqquani aglaanlu piksraqtauniaqtut. Una nalunaiqsuqtuat tusaqtuunaanutqaqtut pingaqqaaqtuat ikayuqtauniaqtuqanngilaq. Siqiñiqtuq, imaqqut tuquunaqtuq siutikun, ququsiuqtuq, tusaqtuun aaqqiksrautaaqtuq atauhiq siutikun, tusaqtuun qaangiqtuaq, atausiq siut ququsiqtuq imaluunniit niuvik inmiaruqtuaq tautungnaqtuaq anngutinnaqtuq tikisiguvit."
+  - q: "Tusaqtuunaanutqaqtuq nalunaiqsautimun ittumainaqtuaq?"
+    a: "Ima ittumainaqtuq. National Institute on Aging-ip uqausiqaqtuq ukiuqtaqtun tusaqtuun naammanaqtuat ilangit isumaksraungittut nalunaiqsigun, ikayuqtitauniaqtuatlu atauhiqpauraqtumik. Tusaqtausimautaanik ikayuutiqaqtuq nalunaiqsautimik piginnaaqtillugit nalunaiqsuqtuat qimugniaqtuat, uqausiq naammanaqtuat, imaluunniit piginnaasigun isumaksraungittut."
+  - q: "Qanuq qailaaqni qangiqtillugu ukiuqtaqtun qiñiqtausimautiqaqqajauraqtut?"
+    a: "National Institute on Aging-ip uqausiqaqtuq qiñiqtausimautaaq 60-nik ukiuqtaangiguvit atauhiq ukiuq atauhiq malġuk ukiuqnut iluani, atauhiq qiñiqtausimautaanik annguayuq nalunaiqtausigun uqausiqaqtiguvit. Sukkutaaqtuat sukkaqtuatlu taakkunani aitchuqtut atauhiqmi ukiuqmi qiñiqtausimautaaqtauniarlugit."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +53,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Tusaqtuunaanutqaqtuq ukiuqtaqtunit qangiqtillugu qagitpauraqtuq, qaujimatiqaqtullu nalunaiqsautinun aatchuqarluni nalunaiqsiqaqtuq. Una isumaqanngilaq tusaqtuun ikayuutaq nalunaiqsautinik aannuraqtauqariaqanngittuq; qaujimautaaq siqiñiqtuq aaqqiksuutiqaqtuq nalunaiqsiqaqtuq. Una makpiraq uqausiqaqtuq qanuq qaujimatiqaqtillugu, qanuq tusaqtausimautaaqtauniaqtillugu, nunaaqtumi nalunaiqsiqanngittumi tusaqtuun ikayuutaq qanuq atuqtauniaqtillugu, qanuq uqausilaaqtiqtauniaqtillugulu.
 
-## Why does hearing matter for brain health?
+## Suna tusaqtuun nalunaiqsautinun ikayuuttuq?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Tusaqtuunaanutqaqtuq nalunaiqsautinun aatchuulluni nalunaiqsiqaqtuq. [2024-mi Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)-ip qaujimatiqaqtuq silarsuarmi nalunaiqsautinik 7%-mik tusaqtuunaanutqaqtuq piginnaaqtuq. Una malgukpiaq nalunaiqsautinik aatchuqaqtut LDL cholesterol-mik nalunaiqsiqaqtut iluani, 14-nik nalunaiqsautinun aatchuqaqtut Commission-ip qaujimautaanik, [UCL-ip makpiraqaanik tusaqtuq](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Commission-ip qaujimautiqat:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Aatchuulluni nalunaiqsiqaqtuq tusaqtuunaanutqaqtillugu.** Tallimat ukunani qaujimautiqat nalunaiqsiqaqtut, tusaqtuunaanutqaqtut nalunaiqsuqtuat 37%-mik nalunaiqsautinun aatchuulluni nalunaiqsiqaqtut tusaqtuun naammanaqtuat iluani.
+- **Tusaqtuunaanutqaqtuq pingahutinnaq, aatchuulluni nalunaiqsiqaqtuq.** Qaujimautiqat tusaqtuunaanutqaqtuq qanuqtuuminaqtittillugu nalunaiqsiqaqtut, nalunaiqsautinun aatchuq qailaaqtuq tusaqtuunaanutqaqtuq qangiqtillugu.
+- **Suna piginnaaqtillugu, aaqqiksuutiqaqqanngilaq suli.** Qaujimautiqat isumaqaqtut ilagiikni qimugniaqni, uumiguninnaqtuq, isumaq naammanaqtuq, nalunaiqsautinun ikayuutiqanngittuq, tusaqtauqsautinun suli piginnaasigun akiliqtuq suli.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Tusaqtuunaanutqaqtuq qagitpauraqtuq. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults)-ip uqausiqaqtuq pingasun ukiuqtaqtuni ilaa tusaqtuunaanutqaqtuq, aitchuqtuqlu ukiuq qailaaqtigun.
 
-## What did the ACHIEVE hearing aid trial find?
+## Qanuq ACHIEVE-p tusaqtuun ikayuutaq qaujimautaa?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE una siqiñiqtuq qaujimautaaq tusaqtuun ikayuutaq isumaq suuqatiqaqtillugu qaujimaniqaqtuq. Ilangit aaqqiksuutiqanngittut, taima una uqausiqaqtuq [qaujimautaaq makpiraqaanik](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/):
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Kina atqaumaniqaqtuq:** 977-nik inupiat ukiuqaqtut 70-mit 84-nut, tusaqtuunaanutqaqtut tusaqtuun ikayuutaq atuqtaunngittut, isumaq suuqatiqaqtuq naammanaqtuq, sisamat nunagani Alaska-mi qaujimautiqarami.
+- **Qanuq aaqqiksuutiqaqtuq:** Ilangit tusaqtuun ikayuutaq pigiaqtut, audiologist-miklu uqausilaaqtiqtut. Ilangit nalunaiqsiqaqtut inuuniagni qanuqtuaniaqtiqaqtiluni ikayuutaq pigiaqtut.
+- **Qaujimautaaq nakuuyuq:** Pingasun uqausiinnik, isumaq suuqatiqaqtuq **malgukni ilaa aaqqiksuutiqanngittuq** tamarmik iluani.
+- **Pingahuni nalunaiqsuqtuat:** Qaujimautaaq malgukni qanuqtuuminaqtittilluni piginnaaqtuq. 238-nik nalunaiqsuqtuat uumaqatigiinut sapqiuqsautinun qaujimautaa (ARIC)-mi atqaumaniqaqtut, taakkua nalunaiqsautinun aatchuulluni nalunaiqsiqaqtut. Taakkunani, isumaq suuqatiqaqtuq **48%-mik naaggaqtuaq** tusaqtuun ikayuutaq atuqtillugu. 739-nik nunagani inuuniagtut nalunaiqsuqtuat, naammanaqtuq aaqqiksuutiqaqqanngittuq.
 
-How to read this honestly:
+Una qanuq nalunaiqtauniaqtillugu:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Tamarmik iluani aaqqiksuutiqaqqanngittuq.
+- Pingahuni nalunaiqsuqtuat qaujimautaaq siqiñiqtuq nalunaiqsiqaqtuq, qanuqtaaq pingahuni ilaa piginnaaqtuq qaujimautaaqmalunilu. Asingit qaujimautiqat aaqqiksuutiqaqtitauniaqtut.
+- Atqaumaniqaqtut nalunaiqsiqaqtut qanuq qaujimautaanut atuqtauniaqtillugu, una aaqqiksuutiqaqtillugu ikayuunniaqtuq.
+- Lancet Commission-ip uqausiqaqtuq tusaqtuun ikayuutaq nalunaiqsuqtuat ikayuqaqtillugu tusaqtuunaanutqaqtut nalunaiqsautinun asinginnik aatchuqaqtut.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Nakuuyuq isumaqaqtuq: tusaqtuun ikayuutaq nalunaiqsautinik aannuraqtauniaqtuqanngilaq. Tusaqtauqpiaq, uqausilaaqtiq, ilagiillu qagitpauraqtitauniaqtut, taima una ikayuutiqaqtuq nalunaiqtausigun piginnaaqtuq.
 
-## How do I know if hearing should be checked?
+## Qanuq nalunaiqtausimainaqtunga tusaqtauqatiqaqtillugu?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA-ip uqausiqaqtuq annguayullunilu atauhiq anngutitauniaqtillugu:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Qailaaqtuq nalunaiqsuqtuq aaqqiksuutiqanngittuq uqausiksrauqni tilimikun
+- Qailaaqtuq nalunaiqsuqtuq naammanaqtuq aaqqiksuutiqanngittuq malgukluunniit qangiqtillugu inupiat uqausiksrauqnigik
+- Qailaaqtuq nalunaiqsuqtuq nutaami apqutauniaqtut uqausiq aaqqiksuutiqaqtillugu
+- Qailaaqtuq nalunaiqsuqtuq TV-q suli qaffiinnaqtuq asingit uummiqatigiillu
+- Qailaaqtuq nalunaiqsuqtuq uqausiq naammanaqtuq aaqqiksuutiqanngittuq nipiinnaqtuq iluani
+- Qailaaqtuq nalunaiqsuqtuq inupiat nipiksauraqtut isumaqaqtillugit
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Siqiñiqtuq nalunaiqtausimautaaq annguayuq tikitauqatiqaqtillugu, qanuqtaaq audiologist-mik (tusaqtuun nalunaiqtausimautaaq) atauhiq siuti, qinngaq, qungaq nalunaiqtausimautaanik apqutauniaqtut. Siutimik paluqtuq qagitpauraqtuq tusaqtuunaanutqaqtiluni, annguayullunilu nalunaiqtausimautaaq aaqqiksuutiqaqtitauniaqtuq. **Tusaqtuun qaangiqtuaq** sapqiuqsautaaqtuq, NIA-ip uqausiqaqtuq annguayullunilu nutaami nalunaiqtausimautaaqtauniaqtillugu.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Tusaqtuunaanutqaqtuq nalunaiqsautimun ittumainaqtuq. NIA-ip uqausiqaqtuq ukiuqtaqtun tusaqtuun naammanaqtuat ilangit nalunaiqsigun isumaksraungittut, ikayuqtitauniaqtuatlu, atauhiqpauraqtumiklu uqausiqattaqtaunngittut. Ilagiit nalunaiqsuqtuat qimugniaqtuat, uqausiq naammanaqtuat, imaluunniit piginnaasigun isumaksraungittut, tusaqtausimautaaq siqiñiqtuq nalaumaniqaqtiluni.
 
-## What are over-the-counter hearing aids?
+## Suna nalunaiqsiqanngittumi tusaqtuun ikayuutaq?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+2022-mi Oktober 17-aatigut, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know)-ip permisiaqaqtuq nalunaiqsiqanngittumi tusaqtuun ikayuutaq atuqtauniaqtillugu. Una malgukni sanigik:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Piginnaaq | Nalunaiqsiqanngittumi tusaqtuun ikayuutaq | Tusaqtausimautaanun tusaqtuun ikayuutaq |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Kina ikayuqtauniaqtuq | Inupiat 18-nik ukiuqaqtut nalunaiqsuqtuat tusaqtuunaanutqaqtut ikayuutiqaqtut | Tusaqtuunaanutqaqtut qanuqtuuminaqtittillugit, ukiuq qanuqtuuminaqtittillugu |
+| Qanuq piksraqtauniaqtuq | Niaqquani aglaanlu, nalunaiqtauniaqtuqanngittuq, permisiaqaqtuqanngittuq | Tusaqtausimautaanun nalunaiqtausimautaaulluni, tunngaviqaqtuq |
+| Qanuq atuqtauniaqtuq | Ipgagluunniit aapp-mik aaqqiksuutiqaqtitauniaqtut | Nalunaiqtausimautaaq aaqqiksuutiqaqtitauniaqtuq tusaqtuunaanutqaqtulluni |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA-ip uqausiqaqtuq nalunaiqsiqanngittumi tusaqtuun ikayuutaq pingaqqaaqtuat nalunaiqsuqtuat ikayuqtauniaqtuqanngilaq. Uqausiqaqtuq annguayullunilu anngutitauniaqtillugu siuti, qinngaq, qungaq nalunaiqtausimautaanun, piksraqtaangiguvit:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Siutiq siqiñiqtuq
+- Imaqqut, aullaqtuq, atauhiq auk tuquunaqtuq siutikun qangiqtillugu 6-nik tatqiinik
+- Tusaqtuun qaangiqtuaq atauhiq qaangiqtuinnaqtuq
+- Tusaqtuun naammanaqtuq atauhiq siutikun, atauhiq siutikunlu ququsiuqtuq
+- Niuvik inmiaruqtuaq
+- Paluqtuq siutikun qaffiinnaqtuq
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Tusaqtuun ikayuutaq atuqtauqsautigun pingasuuniaqtuq, taima ukunani nalunaiqtausimautaanun aaqqiksuutiqaqtillugu FDA-ip uqausiqaqtuq. NIA-ip uqausiqaqtuq apqutauniaqtillugu qanuqtuuminaqtillugu isumaksrautiqaqtillugu. Ilagiit nalunaiqsigun inuuniagtut nalunaiqsuqtuat, audiologist-mik ikayuutiqaqtuq qanuq tusaqtuun ikayuutaq atauhiq atuqtauniaqtillugu nalunaijaqtitauniaqtillugu.
 
-## How can I talk more easily with someone who has hearing loss?
+## Qanuq uqausilaaqtiqtauniaqtillugu tusaqtuunaanutqaqtuq inupiaq?
 
-The NIA suggests:
+NIA-ip uqausiqaqtuq:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Qinauqatiq, iñuqsautilunilu qiñiqatiq.** Qailannguq, qinuqatiq, taima tusaqtuq qainiqtuq kiinani nipiqtuq nalunaiqtitauniaqtillugu.
+2. **Nipinnaqtuq nalaunani.** TV-q nikaitaqtillugu atauhiq nipinnaqtuq nalunani aullaqtitillugu.
+3. **Nipiksauraqtuq uqausiq, aullaqtitaunngittailunilu.** Nipiinnaqtuq atauhiq nalunaiqtuq nalunani uqausiqatiq.
+4. **Qainiqtuq takunaiqtaq.** Nerrunngittailunilu, qimmiqtuqtuq atauhiq qainiqtuq tunniitailunilu uqausiqaqtiguvit.
+5. **Uqausiq aaqqiksuutiqaqtiguvit, nutaamik uqausilaaqtiq.** Qailaaqtuq naammanaqtuq apqutauniaqtuq, nutaamik uqausilaaqtiq suli ikayuqaqtuq.
+6. **Atausiq uqausilaaqtiqaqtiluni.** Ilangit qangiqtiguvit, nalunaiqsuqtuq ilauqatauniaqtillugu ikayuutiqaqtillugu.
+7. **Uumiguninnaqtuq, apqutaqatiqlu qanuq ikayuqtauniaqtillugu.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Una ikayuutaq suli ikayuqaqtuq [uqausilaaqtiqinun ikayuutaannik](/caregiving/communication-tips/)-nik. Aġġuiqsautigun qanuqtuuminaqtittillunilu uqausilaaqtiq naaggaqtitauniaqtut. [Picture Pairs](/games/picture-pairs/) aamma [Conversation Cards](/games/conversation-cards/) takuniaqtuq atuqtillugu uqausiq akiliqtuq ikayuutauniaqtuq, [Finish the Saying](/games/finish-the-saying/)-lu nalunaiqsuqtuq nipiqtuq nutaamik uqausilaaqtiq akiliqtuq. Tilimikun uqausilaaqtiqinun, [tilimimik aglaanlu video-mik uqausilaaqtiqinun](/activities/phone-and-video-calls/) makpiraq atuqtaq.
 
-## Vision matters too
+## Qiñiuqtuunalu ikayuutaqaqtuq
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024-mi Lancet Commission-ip qiñiuqtuunaanutqaqtuq nalunaiqsautinun aatchuulluni nalunaiqsiqaqtuq. UCL-ip uqausiqaqtuq 2%-mik nalunaiqsautinik silarsuarmi una piginnaaqtuq, Commission-iplu uqausiqaqtuq qiñiqtausimautaaq aamma nalunaiqtausimautaaq tamarmik nalunaiqtauniaqtillugit. [NIA-ip uqausiqaqtuq](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) qiñiqtausimautaaq dilated-mik 60-nik ukiuqtaangiguvit atauhiq ukiuq atauhiq malġuk ukiuqnut, qiñiqtausimautaaniklu nalunaiqtausimautiqaramik. Qiñiqtuun naammanaqtuqlu sapqiuqsautinun aatchuulluni nalunaiqsiqaqtuq.
 
-## Talk with a doctor
+## Annguayullunilu uqausilaaqtiq
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Annguayullunilu uqausilaaqtiq tusaqtausimautaaq aamma qiñiqtausimautaaq nalunaiqtauniaqtillugit nalunaiqtaangiguvit makkunani nalunaiqsiqaqtuni. **Tusaqtuun qaangiqtuaq, siuti siqiñiqtuq, atauhiq imaqqut tuquunaqtuq siutikun** nutaami nalunaiqtausimautaaqtauniaqtillugu. Ilagiit nalunaiqsigun inuuniagtut nalunaiqsuqtuat ikayuqatiguvit, annguayullunilu uqausiqaqtillugu tusaqtuunaanutqaqni, qiñiuqtuunaanutqaqnilu, una isumaanutqaqni, sapqiuqsautini, ilauqataunianilu ikayuqtauniaqtuq.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Una makpiraq nalunaiqtausimautaanik qaujimautaaq, nalunaiqtausimautaanik ikayuutaunngilaq. [Nalunaiqtausimautaanik nalunaiqsiqaqtuq](/medical-disclaimer/)-mi takuniaqtaq. [Ilagiikni qagitpauraqni nalunaiqsautinun](/brain-health/social-connection/)-lu atuqtaq.

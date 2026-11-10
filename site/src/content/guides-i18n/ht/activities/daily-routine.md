@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Yon woutin dou chak jou pou yon moun k ap viv ak demans"
+seoTitle: "Woutin chak jou pou demans: yon egzanp fleksib"
+description: "Yon egzanp jounen fleksib pou yon moun k ap viv ak demans, ak repa, aktivite ak repo nan yon ritm estab, epi kijan pou w bati pa w epi adapte l nan jou ki pi difisil."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Yon woutin dou chak jou kenbe lè pou leve, repa, swen pèsonèl ak kouche a
+  apeprè menm lè yo, mete aktivite prensipal la lè moun nan pi alèt, epi
+  balanse aktivite ak repo. Bati l apati abitid moun nan te genyen tout lavi l,
+  kenbe l soupl olye pou l chaje, pran limyè solèy la ak mouvman chak jou, epi
+  chanje plan an libreman lè jounen an mande sa.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Lè ki estab pou leve, repa, swen ak kouche bay jounen an yon fòm ki abitye."
+  - "Mete aktivite prensipal la nan pi bon moman jounen an pou moun nan, souvan nan maten."
+  - "Pa ranpli chak minit. Repo ak tan trankil fè pati woutin nan."
+  - "Limyè solèy la, mouvman chak jou, ak evite dòmi long anreta nan jounen an ak kafeyin ta, ka ede ak ajitasyon ki vini nan fen jounen an."
+  - "Yon woutin se yon gid, se pa yon règ. Chanje, vin pi kout oswa sote nenpòt bagay nan jou ki pi difisil."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Poukisa yon woutin itil pou yon moun ki gen demans?"
+    a: "Yon jounen ou ka prevwa vle di mwens desizyon ak mwens sipriz, sa anpil moun k ap viv ak demans jwenn rasire. Alzheimer’s Association fè remake ke yon jounen ki planifye pèmèt ou pase mwens tan ap chèche kisa pou w fè epi plis tan sou bagay nou tou de jwi. Sa ede moun k ap bay swen yo tou òganize pwòp jounen yo."
+  - q: "Ki bon orè chak jou pou yon moun ki gen demans?"
+    a: "Pa gen yon sèl bon orè pou tout moun. Yon bon orè kenbe lè pou leve, repa ak kouche a apeprè menm lè yo, mete swen pèsonèl ak aktivite prensipal la lè moun nan pi anfòm, gen tan deyò oswa bò yon fenèt, epi kite plas pou repo. Bati l selon jan moun nan te toujou viv."
+  - q: "Èske yon moun ki gen demans ta dwe fè yon ti dòmi pandan jounen an?"
+    a: "Yon ti repo kout ka ede, sitou apre manje midi. National Institute on Aging sijere pou nou pa ankouraje dòmi long ak ti dòmi anreta nan jounen an, paske twò fatig oswa move repo ka ajoute sou ajitasyon nan fen jounen an. Si dòmi se yon vrè pwoblèm, pale ak doktè li."
+  - q: "E si moun nan refize swiv woutin nan?"
+    a: "Kite sa pou kounye a epi eseye ankò pita oswa nan yon lòt fason. Lè moun nan refize, sa ka vle di li fatige, li malad, li gen doulè oswa li pa pare tou senpleman. Woutin nan la pou rann jounen an pi fasil, kidonk pliye l olye pou w fòse l."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Yon woutin dou bay jounen an yon fòm ki abitye: leve, repa, yon ti aktivite, repo, ak kouche a apeprè menm lè yo. Li diminye kantite desizyon ak sipriz, epi li ba ou yon plan pou moman kote ou ta ap mande tèt ou kisa pou w fè apre sa. Woutin ki anba a se yon egzanp, se pa yon règ. Sèvi avè l kòm yon pwen depa, epi fòme l selon moun ou ap pran swen an.
 
-## Why does a daily routine help?
+## Poukisa yon woutin chak jou ede?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Yon woutin ki estab ede paske modèl ki abitye pi fasil pou swiv pase sa ki nouvo. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) di yon jounen ki planifye vle di mwens tan pase ap deside kisa pou w fè ak plis tan pou aktivite ki agreyab, epi li fè remake ke lè regilye pou leve ak pou kouche ka ede ak pwoblèm dòmi ak ajitasyon nan fen jounen an. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) sijere pou benyen, abiye ak manje menm lè yo chak jou kòm yon pati nan yon kay ki kalm, epi [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rekòmande tou pou kenbe menm woutin yo.
 
-## A sample gentle day
+## Yon egzanp jounen dou
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Lè yo se sèlman egzanp. Avanse oswa ranvwaye tout jounen an pou l matche ak pwòp ritm moun nan.
 
-| Time | What happens | Ideas | On a harder day |
+| Lè | Kisa k ap pase | Lide | Nan yon jou ki pi difisil |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Leve, lave, abiye | Menm lòd chak jou; mete rad yo deyò nan lòd pou mete yo | Kenbe swen an senp; yon chemiz pwòp ase |
+| 8:45 a.m. | Dejene | Kafe ak jounal la li awotvwa, oswa radyo a | Manje ansanm trankilman, san presyon pou pale |
+| 9:30 a.m. | Aktivite prensipal | Pliye rad, kwit, jaden, yon ti soti oswa yon ti mache | Yon vèsyon ki pi kout, oswa kite moun nan gade ou fè l |
+| 10:30 a.m. | Tan trankil | Mizik, yon albòm foto, oswa chita bò yon fenèt | Repo nan yon chèz li renmen |
+| 11:00 a.m. | Ede ak manje midi | Lave legim, mete tab la | Ou kwit; moun nan fè w konpayi |
+| 12:00 p.m. | Manje midi ak ranmase | Siye tab la, siye kèk asyèt | Sote ti travay yo |
+| 1:00 p.m. | Ti repo kout | Leve pye yo, mizik dou | Menm bagay la |
+| 2:00 p.m. | Deyò oswa aktif | Mache, tan sou galri, wouze plant, voye yon balon | Chita bò yon fenèt ki gen solèy |
+| 3:00 p.m. | Sosyal oswa kreyatif | Yon vizit, yon apèl, [picture pairs](/games/picture-pairs/), koloryaj, kat | Yon bwason ak yon ti goute ansanm |
+| 4:30 p.m. | Tan pou poze | Fèmen rido yo, limen limyè yo, yon travay kalm tankou pliye ti sèvyèt | Mizik abitye, bri ba |
+| 5:30 p.m. | Dine | Ede brase oswa mete tab la | Manje senp, abitye |
+| 6:30 p.m. | Aswè ansanm | Sonje ansyen bagay sou desè, kat, yon emisyon yo renmen, yon ti masaj men | Konpayi trankil |
+| 8:00 p.m. | Woutin pou kouche | Beny oswa lave, pijama, mizik dou, limyè ba | Vin pi kout nan tout bagay; konfò anvan |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Egzanp sa a suiv fòm pwòp egzanp plan Alzheimer’s Association bay pou etap bonè ak mitan yo, ki soti nan swen pèsonèl ak dejene, pase nan ti travay, mache, mizik, repo ak vizit, rive nan dine, sonje ansyen bagay ak prepare pou kouche.
 
-## How do you build your own routine?
+## Kijan ou bati pwòp woutin ou?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Kòmanse ak jan moun nan te toujou viv, pa ak yon tablo. Alzheimer’s Association sijere pou panse ak bagay sa yo anvan ou planifye:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Sa li renmen, sa li pa renmen, fòs li ak enterè li.**
+- **Kijan li te konn pase jounen li.** Yon moun ki te konn leve bonè epi ki te toujou mache ak chen an ta dwe toujou mache bonè. Yon moun ki te konn dòmi ta ka pa janm jwi kòmanse a 8:00 a.m.
+- **Pi bon moman jounen an pou li.** Mete beny, ti soti ak aktivite prensipal la nan moman sa a.
+- **Ase tan** pou repa, lave ak abiye, pou anyen pa fèt prese.
+- **Lè regilye pou leve ak pou kouche.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Menm sous la sijere pou mete yon melanj ti travay lakay, repa, swen pèsonèl, aktivite kreyatif, aktivite fizik, tan sosyal, aktivite espirityèl ak ti moman espontane, tankou yon zanmi ki pase we ou.
 
-### Try it for a week, then adjust
+### Eseye l pandan yon semèn, epi ajiste
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Kenbe yon ti nòt senp chak jou. Alzheimer’s Association sijere pou mande ki aktivite ki te mache pi byen epi poukisa, si te gen moman kote te gen twòp bagay ap pase oswa twò piti bagay pou fè, epi si plan espontane yo te agreyab oswa si yo te lakòz enkyetid. Kenbe sa ki mache epi chanje sa ki pa mache.
 
-### Make it visible
+### Fè l vizib
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Si moun nan ka toujou li, yon tablo blan oswa yon kat ak gwo lèt ki montre plan jounen an ka rasire. Kenbe l kout: « Dejene. Mache ak Sarah. Manje midi. Repo. » Gen kèk moun ki pi anfòm lè yo pa konnen plan yo lontan davans; Family Caregiver Alliance sijere pou pa pale de plan yo jiskaske jis anvan yo rive si sa lakòz enkyetid.
 
-## How to adapt the routine
+## Kijan pou adapte woutin nan
 
-### Leave room to breathe
+### Kite plas pou respire
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Pa ranpli chak minit. Alzheimer’s Association ensiste sou bagay sa a: moun nan bezwen yon balans ant aktivite ak repo epi li ka bezwen repo pi souvan. Si li sanble li annwiye, distrè oswa irite, chanje aktivite oswa pran yon repo.
 
-### Protect the late afternoon
+### Pwoteje fin apremidi a
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Anpil moun vin pi ajite pandan limyè lajounen an ap diminye. NIA sijere pou pase tan deyò oswa bò yon fenèt pou limyè solèy la chak jou, rete aktif chak jou san planifye twòp bagay, evite kafeyin ak alkòl anreta nan jounen an, epi pa ankouraje dòmi long anreta nan jounen an. Gen kèk fanmi ki jwenn li itil tou pou fèmen rido yo epi limen limyè yo anvan solèy kouche. Gade [ajitasyon nan fen jounen an](/caregiving/late-day-restlessness/) ak [dòmi](/brain-health/sleep/).
 
-### Change it as needs change
+### Chanje l pandan bezwen yo ap chanje
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Etap bonè:** planifye woutin nan ansanm. Moun nan ka vle yon orè ekri li jere poukont li.
+- **Etap mitan:** ou pran plis direksyon. Aktivite ki pi kout, plis repo ak anpil travay abitye; gade [aktivite pou etap mitan](/activities/middle-stage/).
+- **Etap avanse:** woutin nan konsantre sou konfò, repa ak swen, ak ti moman sansoryèl tankou mizik oswa yon ti masaj men ant yo; gade [aktivite pou etap avanse](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Chanje aktivite yo, pa kad la
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Kenbe repa, repo ak lè pou kouche a estab, epi chanje aktivite ki vini ant yo. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sijere pou eseye diferan aktivite nan diferan jou pou kenbe bagay yo enteresan. Ou ka kwit lendi, fè jaden madi epi gade foto mèkredi. [101 ide aktivite](/activities/ideas/) nou yo ak [travay lakay](/activities/household-tasks/) ka ranpli plas sa yo.
 
-## When the day goes sideways
+## Lè jounen an pa ale jan ou te planifye a
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Gen kèk jou ki pap swiv okenn plan. Maladi, yon move nwit, yon vizit nan doktè oswa yon chanjman nan tan an ka boulvèse tout bagay. Kite plan an, kenbe sa ki esansyèl yo (manje, bwè, repo, konfò) epi eseye ankò demen. Si moun nan refize yon bagay, gade [lè yo di non](/caregiving/when-they-say-no/). Yon ti poz pou respire dousman ansanm, tankou [respirasyon kalm](/games/calm-breathing/), ka ede nou tou de rekòmanse.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Pwòp woutin ou enpòtan tou. Mete ti repo pou tèt ou, epi mande fanmi oswa yon sèvis repi pou kouvri tan regilye pou ou repoze. Gade [pran swen tèt ou kòm moun k ap bay swen](/caregiving/caregiver-self-care/).

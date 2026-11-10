@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Vizite yon moun ki gen demans nan yon kay swen oswa lopital"
+seoTitle: "Vizite yon moun ki gen demans: kisa pou w fè ak pote"
+description: "Kisa pou w fè lè w ap vizite yon moun ki gen demans nan yon kay swen oswa lopital: kisa pou w pote, aktivite senp, vizit kout ak fason pou w kite byen."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Lè w ap vizite yon moun ki gen demans nan yon kay swen oswa lopital, kenbe li senp: di non w lè w rive, epi di l kiyès ou ye. Pote youn oswa de bagay pou pataje tankou foto, mizik oswa yon ti goute yo apwouve. Fè yon sèl bagay fasil ansanm. Vizit ki pi kout epi regilye souvan pase pi byen pase vizit long ak ra. Planifye kòmsadwa pou w kite pou tou de nou pi fasil.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Di moun nan non li epi di l kiyès ou ye, pou l pa oblije devine: 'Bonjou Manman, se Susan, pitit fi w.'"
+  - "Pote youn oswa de bagay pou pataje, tankou albòm foto, mizik li renmen, dra mou oswa yon ti goute anplwaye yo apwouve."
+  - "Vizit kout ak regilye souvan pi bon pase vizit long ak ra. Prezans w pi enpòtan pase sa w di."
+  - "Nan lopital, bay anplwaye yo yon ti fèy enfòmasyon sou moun nan, epi di doktè a touswit si gen nenpòt chanjman toudenkou."
+  - "Planifye depa w: di konbyen tan w ka rete, sèvi ak menm mo pou di orevwa chak fwa, epi kite san w pa rete twòp."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Kisa pou m pote lè m ap vizite yon moun ki gen demans?"
+    a: "Pote yon bagay pou pataje olye de yon bagay pou teste l. Yon ti albòm foto, yon lis mizik li renmen sou telefòn w, dra mou, losyon pou men, magazin sou yon bagay li te renmen fè lontan, oswa yon ti goute anplwaye yo apwouve tout ka bon. Nan kay swen, foto fanmi ak objè li abitye ka fè chanm nan santi pi tankou lakay li."
+  - q: "Konbyen tan pou m rete lè m ap vizite yon moun ki gen demans?"
+    a: "Pa gen yon bon longè fikse. Anpil fanmi jwenn vizit ki pi kout ak pi souvan pi bon pase vizit long ak ra, paske moun nan ka fatige vit epi li ka pa sonje konbyen tan w te rete. Gade siy fatig epi kite lè vizit la toujou santi bon."
+  - q: "Kisa pou m di lè l mande pou l ale lakay?"
+    a: "Reponn santiman ki dèyè mo yo, pa mo yo menm. 'M vle ale lakay' souvan vle di 'M pa santi m alèz oswa an sekirite.' Ou ka di, 'Rakonte m sou lakay ou,' gade foto ansanm, oswa pwopoze yon ti pwomnad oswa yon ti goute. Diskite oswa eksplike poukisa l pa ka ale souvan fè l plis detrès."
+  - q: "Kisa si l pa rekonèt mwen?"
+    a: "Sa ka fè w mal, men pa korije l oswa mande l 'Ou pa konnen kiyès mwen ye?' Prezante w ak chalè ak senplisite, epi jwi tan an ansanm. Anpil moun toujou jwi konpayi ak santi chalè vizit la menm si yo pa ka mete figi w ak non w ansanm."
+  - q: "Kijan pou m ede pandan l nan lopital?"
+    a: "Rete ak moun nan lè w ka, ede l manje ak bwè, epi pote bagay abitye tankou foto. Bay anplwaye yo yon fèy ki gen woutin li, non li prefere yo rele l, sa l renmen, sa l pa renmen, ak siy doulè li ka montre san mo. Di doktè a touswit si moun nan sanble pi mal oswa diferan toudenkou, paske konfizyon toudenkou ka vle di yon pwoblèm medikal."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Vizite yon moun ou renmen nan yon kay swen, kay rezidans oswa lopital ka fè anpil santiman leve anndan w. Ou ka mande w kisa pou w di, kisa pou w pote, oswa si vizit la menm enpòtan si moun nan p ap sonje l. Li enpòtan. Selon National Institute on Aging, moun ki gen Alzayme [ka toujou jwi konpayi](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) menm si yo pa sonje kiyès ki vin vizite yo. Paj sa a ba w etap pratik pou anvan, pandan ak apre vizit la, ansanm ak konsèy espesifik pou vizit lopital.
 
-## How do I get ready for a visit?
+## Kijan pou m prepare pou vizit la?
 
-A little planning makes the visit easier for both of you.
+Yon ti preparasyon ka fè vizit la pi fasil pou tou de nou.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Chwazi bon moman an.** Dementia Australia sijere vizite lè moun nan pi ejere, sa ki pou anpil moun se nan maten oswa ozalantou midi. Family Caregiver Alliance sijere aprann orè etablisman an epi vizite pandan [tan lib olye de tan aktivite](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Tcheke ak anplwaye yo.** Mande kijan moun nan ye jounen an, epi verifye règ yo konsènan manje, bèt kay oswa pwomnad.
+- **Pake ti sak vizit la.** Youn oswa de bagay pou pataje ase (gade lis anba a).
+- **Panse sou kèk sijè.** Moun nan ka pa gen nouvèl pou pataje, kidonk pote pwòp nouvèl ou: nouvèl fanmi, tan an, yon match, oswa yon istwa komik.
+- **Kenbe atant w reyalistik.** Gen vizit ki ka cho ak bèl. Gen lòt ki ka trankil oswa difisil. Tou de nòmal.
 
-## What should I bring?
+## Kisa pou m pote?
 
-Bring things to share, not things that test. Good choices include:
+Pote bagay pou pataje, pa pou teste. Kèk bon chwa se:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Yon ti albòm foto** ak foto gwo ak klè. Ou ka make non yo dèyè pou anplwaye yo ka ede.
+- **Yon lis mizik** li renmen sou telefòn w, ak kas ekout senp oswa ti enpalan.
+- **Yon bagay mou pou l kenbe,** tankou dra abitye, echarp oswa chemiz li renmen.
+- **Losyon pou men** pou yon ti masaj dous sou men yo, si l renmen touche.
+- **Yon magazin oswa liv foto** sou yon bagay li te renmen fè lontan, tankou jadenaj, machin, zwazo oswa manje.
+- **Yon ti goute li renmen,** si anplwaye yo di li an sekirite.
+- **Bagay abitye pou chanm nan.** Family Caregiver Alliance sijere flè, plant, foto fanmi, travay atistik, oswa yon gwo afich ak foto fanmi nan tan lontan.
+- **Yon tablèt,** pou gade foto fanmi ansanm oswa jwe yon jwèt dous ansanm.
 
-## What can we do together during a visit?
+## Kisa nou ka fè ansanm pandan vizit la?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Fè yon bagay ansanm diminye presyon pale a. Dementia Australia sijere gade foto, fè yon ti atizana fasil, plante ti plant, koute mizik, pataje yon ti goute, oswa fè yon ti pwomnad nan lakou a. Kèk lòt lide:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Gade foto ansanm.** Montre sa w wè: "Gade chapo sa a." "Plaj sa bèl anpil." Kite moun nan dirije. Evite mande "Kiyès sa a?"
+2. **Koute mizik ak chante.** Mizik li konnen ka fè l santi pi byen ak kreye yon moman pataje, menm lè li difisil pou pale.
+3. **Fè yon ti pwomnad.** Family Caregiver Alliance sijere mache ozalantou etablisman an, espesyalman nan jaden an si genyen. Fè pwomnad nan chèz woulo konte tou.
+4. **Fè ti masaj sou men.** Yon ti losyon ak mouvman dous sou men ka kalme.
+5. **Ede l fè swen pèsonèl.** Dementia Australia mansyone bwose cheve, pentire zong oswa ede l mete yon bagay li renmen mete, si l anvi.
+6. **Jwe yon jwèt senp.** Family Caregiver Alliance sijere kat, domino, oswa sa l te konn jwe lontan. Sou tablèt, [Picture Pairs](/games/picture-pairs/) ka jwe ak foto ki toujou vizib ak san kontè. [Photo Pairs](/games/photo-pairs/) fè foto w chwazi tounen jwèt matche, epi foto yo rete nan navigatè w.
+7. **Gade yon bagay ansanm.** Family Caregiver Alliance sijere komedi oswa fim ansyen. Menm si l pa ka swiv istwa a, l ka chita bò kote w epi pataje tan an.
+8. **Li wotvè.** Yon ti powèm, yon pasaj li renmen, oswa yon lèt fanmi.
+9. **Chita ansanm tou senpleman.** Kenbe men ansanm oswa chita an silans se tou yon vizit reyèl. Alzheimer’s Association fè konnen li nòmal pou w pa konnen kisa pou w di, e prezans w se sa ki pi enpòtan.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) ka ede lè w manke sijè pou pale. Chak kat gen yon foto ak yon kesyon ouvè.
 
-## How should I talk during the visit?
+## Kijan pou m pale pandan vizit la?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Prezante w chak fwa.** "Bonjou Papa, se Mark, pitit gason w." NIA sijere vizitè prezante yo yon ti fason pou kòmanse pale.
+- **Pwoche devan l** epi chita nan nivo je l.
+- **Pa korije oswa diskite.** NIA konseye pa korije moun nan si l fè yon erè oswa bliye yon bagay.
+- **Fè pasyans** lè mo yo difisil pou l jwenn. Bay l tan ase.
+- **Reponn santiman yo.** Si l sanble tris oswa enkyete, rekonèt sa anvan w chanje sijè a.
+- **Evite kesyon egzamen** tankou "Ou sonje kiyès mwen ye?" oswa "Kisa w te manje midi?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Gade [konsèy kominikasyon](/caregiving/communication-tips/) nou yo pou plis detay.
 
-## What do I do when they say "I want to go home"?
+## Kisa pou m fè lè l di "M vle ale lakay"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Reponn santiman ki dèyè mo yo (gid nou sou [lè yon moun toujou mande pou ale lakay](/caregiving/asking-to-go-home/) ale pi lwen). Family Caregiver Alliance eksplike ke "M vle ale lakay" souvan vle di "M pa santi m alèz", epi sijere repons tankou "Rakonte m sou lakay ou" oswa "Kisa w pi renmen lakay ou?" Dementia Australia ajoute ke "lakay" ka vle di yon tan oswa yon kote kote moun nan te santi l an sekirite, tankou anfans li.
 
-Try:
+Eseye:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- rekonèt santiman an: "Sanble w sonje lakay anpil."
+- ofri konfò atravè touche, si l dakò
+- gade foto oswa pale sou kay fanmi an
+- pwopoze yon ti pwomnad, yon bwason oswa yon ti goute
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Evite diskite oswa eksplike poukisa l pa ka ale. Sa pa souvan ede epi souvan ajoute detrès.
 
-## How long should a visit be?
+## Konbyen tan yon vizit ta dwe dire?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Vizit ki pi kout ak pi souvan souvan pi bon. Family Caregiver Alliance fè remake moun nan anjeneral pa sonje si w te rete senk minit oswa senk èdtan, epi sijere twa vizit kout pa semèn ka pi bon pase youn sèl vizit long. Dementia Australia di pa gen kantite vizit oswa longè ki dwe respekte.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Nan premye semèn apre l deplase nan kay swen, Family Caregiver Alliance sijere vizite souvan, epi piti piti etabli yon woutin regilye. Mande anplwaye yo sa yo obsève.
 
-## How do I leave without upsetting them?
+## Kijan pou m kite san w pa boulvèse l?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Kite ka pi difisil la. Dementia Australia sijere:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Di konbyen tan w ka rete lè w rive.** "M ka rete inèdtan, apre sa m ale fè makèt."
+- **Sèvi ak aktivite kòm fen natirèl la.** "Lè nou fini chante chante sa a, m pral ale."
+- **Chwazi moman pou kite ak repa oswa aktivite,** oswa mande anplwaye yo ede moun nan kòmanse yon lòt bagay.
+- **Kenbe orevwa a kout ak menm jan chak fwa.** Rete twòp, eskize w twòp oswa di "jis yon ti tan ankò" ka fè depa yo vin pi difisil nan lavni.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Apre w kite, li nòmal pou w santi w tris. Kite tèt ou repoze. Si moun nan te boulvèse, anplwaye yo ka ede l kalme byen vit apre w fin ale.
 
-## Visiting someone with dementia in the hospital
+## Vizite yon moun ki gen demans nan lopital
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Lopital la briyan, etranj ak plen moun etranj, sa ka trè difisil pou yon moun ki gen demans. Gid NIA sou [mennen yon moun ki gen Alzayme nan lopital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) rekòmande:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Gen yon moun ki rete avèk li** otank posib: yon manm fanmi, yon zanmi ou fè konfyans oswa yon moun ki okipe l.
+- **Bay anplwaye yo yon fèy enfòmasyon pèsonèl** ak woutin li, non li prefere, sa l renmen ak sa l pa renmen, sa ki ka dekonpoze l, ak siy doulè ki pa fèt ak mo. Mete kopi nan chanm nan ak nan pòs enfimyè yo.
+- **Ede l manje ak bwè.** Granmoun ka vin manje twòp piti nan lopital. Louvri veso yo, ede l ak repa, manje ansanm ak l, epi ofri l bwason.
+- **Pote bagay ki ba l konfò** tankou foto oswa objè espirityèl.
+- **Diminye bri a.** Fèmen televizyon an epi bese volim telefòn ak entèkom yo.
+- **Eseye rituèl ki kalme,** tankou mizik dous, li, lapriyè, chante oswa gade foto ansyen ansanm.
+- **Ankouraje l deplase** otank li an sekirite, avèk apwobasyon anplwaye yo.
+- **Di doktè a touswit si moun nan sanble pi mal oswa diferan toudenkou.** NIA eksplike ke konfizyon grav ak toudenkou, yo rele delirium, ka koze pa pwoblèm tankou enfeksyon, lafyèv, dezidratasyon oswa efè segondè medikaman, epi li bezwen atansyon medikal touswit.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Yon vizit kout ak kalm ak yon figi abitye ak yon chante li renmen ka pi konfòtab nan jounen lopital la.
 
-## Bringing children on a visit
+## Mennen timoun vizite
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Timoun ka pote anpil chalè. Prepare yo davans ak mo senp ak onèt, kenbe vizit la kout, epi ba yo yon ti travay tankou montre yon desen oswa bay yon foto. NIA sijere timoun ak moun ki gen Alzayme ka jwi aktivite senp ansanm, tankou gade albòm foto oswa koute mizik. Dementia Australia sijere pote yon ti sak ak bagay senp pou timoun jwe oswa okipe yo pandan vizit la.
 
-## Take care of yourself too
+## Pran swen tèt ou tou
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Vizite ka fatigan ak emosyonèl, espesyalman si moun nan chanje anpil. Li nòmal pou w vizite mwens si w bezwen, pote yon zanmi pou sipò, oswa kite bonè yon jou difisil. Pou lide sou kijan pou w pran swen tèt ou, gade [pran swen moun k ap bay swen an](/caregiving/caregiver-self-care/). Si w byen lwen, gade gid nou sou [apèl ak vizit videyo](/activities/phone-and-video-calls/).

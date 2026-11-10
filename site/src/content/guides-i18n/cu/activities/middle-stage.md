@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Дѣла при срѣдьнѣи памѧти оскѫдѣнии"
+seoTitle: "Дѣла при срѣдьнѣи памѧти оскѫдѣнии: простыѥ мысли"
+description: "Простыѥ дѣла при срѣдьнѣи памѧти оскѫдѣнии: домашьнѧѩ работы, пѣсни, образы и лєгъкыѩ игры, съ оуготованиѥмь по стѫпькамъ."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  При срѣдьнѣи памѧти оскѫдѣнии добрѣишаѩ дѣла сѫтъ кратъка, знаѥма и
+  раздѣлѥна на ѥдинѫ стѫпькѫ: съвиваниѥ ризъ, събираниѥ чьлънъ, мытиѥ
+  съсѫдъ, пѣниѥ, хождєниѥ съ проводьникъмь, образьныѩ кънигы и простыѩ
+  игры съ образы. Оуготоваи, покажи пръвѫ стѫпькѫ, приими на сѧ трѫдьнѣишаѩ
+  и дажь дѣлоу цѣль. Прѣстани, ѥгда оуже нѣстъ приѩтьно.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Знаѥмыѩ домашьнѧѩ работы чѧсто добрѣише подобають, понєжє чѫѩтъ сѧ пользьны и достоины възрастьна чловѣка."
+  - "Покажи пачє нєжєли глаголи, подаждь по ѥдинои стѫпьцѣ и прѣдъложи дъвѣ простѣ изъборѣ вьмѣсто отъврьста въпроса."
+  - "Приими на сѧ трѫдьнѣишѫѭ чѧсть, да чловѣкъ сътворитъ радостьнѫѭ чѧсть."
+  - "Нєпокоиноѥ повєдєниѥ чѧсто можетъ казати, ꙗко чловѣкъ хощєтъ имѣти дѣло. Прѣдъложи подобьно дѣло вьмѣсто отърєчєниꙗ."
+  - "Съмотрѣти, помагати мало или рано прѣстати вьсє добро ѥстъ."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Каꙗ дѣла подобають при срѣдьнѣи памѧти оскѫдѣнии?"
+    a: "Кратъка, знаѥма, рѫкама творимаѩ дѣла обꙑчьно добрѣише подобають: съвиваниѥ платънъ, събираниѥ чьлънъ, мытиѥ съсѫдъ, оуготованиѥ трапєзы, пѣниѥ старыихъ любъимыихъ пѣснии, хождєниѥ съ проводьникъмь, съмотрѣниѥ образьныихъ кънигъ и простыѩ игры съ образы. Раздѣли кождо на ѥдины стѫпькы и твори ѥ въкоупѣ."
+  - q: "Како помогоу чловѣкоу съ памѧти оскѫдѣниѥмь начѧти дѣло?"
+    a: "Оуготоваи вьсє прѣждє, потомь самъ начьни дѣло и призови и на помошть: «Можєши ли ми помошти съ сими платъны?» Мънози хотѧтъ приѩти чѧсть, нъ трѫдьно имъ ѥстъ начѧти. Показаниѥ пръвыѩ стѫпькы обꙑчьно лоучє ѥстъ нєжєли изъяснѥниѥ."
+  - q: "Чьто творити, ѥгда чловѣкъ творитъ тожде пакы и пакы?"
+    a: "Повторѥниѥ чѧсто нє врѣдитъ и можетъ ꙗвлꙗти, ꙗко чловѣкъ хощєтъ чѫти сѧ занѧтъ или потрѣбоуѥтъ оутѣшєниꙗ. Вьмѣсто исправлѥниꙗ прѣдъложи дѣло, ѥжє подобитъ сѧ движєнию, на примѣръ кошьницѫ платънъ на съвиваниѥ или пѣснь пѣти въкоупѣ."
+  - q: "Чьто творити, ащє чловѣкъ творитъ дѣло инако?"
+    a: "Ащє то нє врѣдитъ, остави тако. Платъна съвита инако или лъжицы нє на своѥмь мѣстѣ нє сѫтъ важьна. Исправлѥниѥ можетъ чѫти сѧ ꙗко оукоръ, а творити по своѥмоу даѥтъ чловѣкоу чѫти сѧ сильна и пользьна."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Срѣдьнѧ стѫпєнь памѧти оскѫдѣниꙗ чѧсто ѥстъ наидлъжаиша, и тъгда дѣла начьнѫтъ трѣбовати истиньныѩ помощи. Словєса приходѧтъ трѫдьнѣѥ, стѫпькы мѣшаѭтъ сѧ, и начѧти чьто любо можетъ быти трѫдьно. Нъ жєланиѥ быти пользьноу и причѧстьноу обꙑчьно прѣбываѥтъ. Съ малъмь оуготованиѥмь чловѣкъ, живыи съ памѧти оскѫдѣниѥмь въ срѣдьнѣи стѫпєни, ѥщє можетъ радовати сѧ мъногомоу, пачє жє знаѥмымъ работамъ, пѣснѧмъ и образомъ, творимымъ при тебѣ.
 
-## What activities work well in middle-stage dementia?
+## Каꙗ дѣла добрѣ подобають при срѣдьнѣи памѧти оскѫдѣнии?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Кратъка, знаѥма, рѫкама творимаѩ дѣла, раздѣлѥна на ѥдины стѫпькы, добрѣише подобають. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) глаголѥтъ, ꙗко нє трѣбоуѥши изобрѣтати нова дѣла: дѣла могѫтъ быти чѧсть обꙑчьна житии, ꙗкожє въкоупѣ творити вєчєрѭ, дѣлати въ садѣ, слоушати пѣсни или ити на хождєниѥ.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) замѣчаѥтъ, ꙗко чловѣци въ сеи стѫпєни чѧсто имѫтъ сильнѫ потрѣбѫ чѫти сѧ пользьны или пєщи сѧ о чємь, и трѣбоуѭтъ помощи начѧти или продължити дѣло. Въ ѥго списъцѣ дѣлъ срѣдьнѧѩ стѫпєни сѫтъ съвиваниѥ ризъ, мытиѥ съсѫдъ, събираниѥ чьлънъ, лєгъкоѥ движєниѥ, плѧсаниѥ подъ знаѥмыѩ пѣсни, хождєниѥ съ проводьникъмь, пѣниѥ въкоупѣ, простоѥ живописаниѥ и съмотрѣниѥ образьныихъ кънигъ.
 
-## How do you set up an activity so it works?
+## Како оуготовати дѣло, да съпѣѥтъ?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Мънога дѣла съпѣѭтъ или нє съпѣѭтъ въ оуготовании. Си обꙑчаи, взѧти отъ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) и [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), наиболѥ помагаѭтъ:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Оустрои мѣсто.** Оугаси образьницѫ, затвори двьри и положи тъчьѭ то, ѥжє трѣбоуѥтъ дѣло.
+2. **Начьни самъ.** Начьни съвивати или мѣшати и призови чловѣка: «Можєши ли ми съ симь помошти?»
+3. **Покажи, потомь пожьди.** Покажи ѥдинѫ стѫпькѫ. Покажи рѫкоѭ или тихо направи, на примѣръ къде положити блюдо.
+4. **Даждь по ѥдинои стѫпьцѣ.** «Съви наполы» лєгчѣ ѥстъ нєжєли «съви си и положи ꙗ по цвѣтоу».
+5. **Прѣдъложи дъвѣ изъборѣ, а нє отъврьстъ въпросъ.** «Синѧѩ платъна или бѣлаꙗ?» лєгчѣ отвѣщати нєжєли «Чьто хощєши творити?»
+6. **Сътвори трѫдьнѫѭ чѧсть самъ.** Ты мѣриши, чловѣкъ мѣшаѥтъ. Ты продѣваѥши нить, чловѣкъ съвиваѥтъ прѧжѫ.
+7. **Даждь винѫ.** «Си платъна на нєдѣльнѫѭ вєчєрѭ» творитъ дѣло истиньно.
+8. **Остави съмотрѣти, ащє тако хощєтъ.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) замѣчаѥтъ, ꙗко простое съмотрѣниѥ такожє можетъ быти приѩтьно.
 
-## Activity ideas for the middle stage
+## Мысли о дѣлѣхъ за срѣдьнѭ стѫпєнь
 
-### Useful jobs
+### Пользьныѩ работы
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Съвиваниѥ платънъ и малыкъ ризъ.** Малыѩ, ровьныѩ вєщи сѫтъ наилєгчѣишѧ. Кошьница тєплъихъ платънъ можетъ быти съвита, оуглажєна и пакы съвита.
+- **Събираниѥ чьлънъ.** Начьни отъ нѣколикъ зѣло различьнъихъ паръ. Събираниѥ тъчьѭ по цвѣтоу такожє добро ѥстъ.
+- **Мытиѥ или соушєниѥ нєломимыихъ съсѫдъ.** Тєпла, мыльна вода приѩтьна ѥстъ рѫкама. Соушити сѣдѧ лєгчѣ ѥстъ ногама.
+- **Оуготованиѥ трапєзы.** Подаваи по ѥдиномоу видоу вєщии, и самъ оуготови ѥдино мѣсто ꙗко образъ.
+- **Помошть при вєчєри.** Мытиѥ кромпира, трьзаниѥ зєлиꙗ или мѣшаниѥ въ чаши. Ножєвє и огнь дрьжи ты.
+- **Мєтєниѥ, отираниѥ или чистєниѥ.** Платъ за трапєзѫ, лєгъка мєтла за притворъ.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Виждь [домашьнѧѩ работы](/activities/household-tasks/) за болѥ мысли.
 
-### Music and movement
+### Пѣсни и движєниѥ
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Пѣти старыѩ любъимыѩ пѣсни.** Начьни пѣти самъ; мънози людьѥ присъѥдинѧѭтъ сѧ къ пѣснѧмъ, ꙗжє знаѭтъ отъ мъногъ лѣтъ. Виждь [дѣла съ мѹсикиѭ](/activities/music/).
+- **Свободьно плѧсати.** Качати сѧ, плєскати или двигати сѧ, ꙗкожє добро ѥстъ. Сѣдѧ такожє добро ѥстъ.
+- **Мєтати мѧчь отъ въздѹха.** Онъ двигнєтъ сѧ тихо и лєгъко ѥстъ и прияти сѣдѧ.
+- **Ходити съ проводьникъмь.** Идѣта въкоупѣ кратъкъ, знаѥмъ пѫть, рѫка въ рѫкоу, ащє то помагаѥтъ.
 
-### Pictures and stories
+### Образы и повѣсти
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Съмотрѣти образьнѫѭ кънигѫ.** Глаголи о томь, ѥжє видиши, вьмѣсто въпрошаниꙗ: «Виждь сию колєсницѫ. Повѣждь ми о нєи.» Виждь [дѣла съ въспоминаниѥмь](/activities/reminiscence/).
+- **Оупотрѣбити карты за бєсѣдѫ.** [Карты за бєсѣдѫ](/games/conversation-cards/) съчєтаѭтъ образъ съ отъврьстъмь призъваньѥмь бєзъ искоушєниꙗ.
+- **Съмотрѣти старъ образъ въкоупѣ.** Избєри знаѥмъ, бѫди близъ и оустанови за отъдъхновєниѥ.
 
-### Simple, pressure-free games
+### Простыѩ игры бєзъ напѧжєниꙗ
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Пары образъ съ ꙗвьными образы.** [Пары образъ](/games/picture-pairs/) оставлꙗѥтъ образы видимы, тако да дѣло ѥстъ замѣчати, а нє помьнити.
+- **Наиди тожде.** [Наиди тожде](/games/find-the-same/) показоуѥтъ ѥдинъ образъ и тъчьѭ дъва до чєтыри изъбора.
+- **Събираи въкоупѣ.** [Събираи въкоупѣ](/games/sort-together/) ѥстъ ꙗкожє събираниѥ ризъ на образьници: косни сѧ образа, потомь ѥго кошьницѧ.
+- **Образьноѥ лото.** [Образьноѥ лото](/games/picture-bingo/) добрѣ подобаѥтъ за родиныѩ съборы и събраниꙗ.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ащє игра начьнєтъ творити трѫдъ, прѣстани и сътвори ино. Виждь [како играти въкоупѣ](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Обратити нєпокои въ дѣло
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Нєпокоиноѥ или повторьноѥ повєдєниѥ чѧсто иматъ винѫ. Family Caregiver Alliance замѣчаѥтъ, ꙗко чловѣкъ, ижє пакы и пакы испражднꙗѥтъ съкровищє, можетъ искати исплънити потрѣбѫ чѫти сѧ занѧтъ и пользьнъ. Alzheimer's Association съвѣтоуѥтъ направити таковѫ силѫ къ подобьноу дѣлоу, а нє ѥ оуставити.
 
-| What you see | Something to offer |
+| Чьто видиши | Чьто можєши прѣдъложити |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Трьниѥ или щипаниѥ трапєзы | Мокръ платъ и прошєниѥ отрѣти трапєзѫ |
+| Нєпокоиныѩ ногы или плєсканиѥ | Пѣснь съ ꙗснымъ оударєниѥмь за плєсканиѥ или стѫпаниѥ |
+| Испражднѥниѥ ꙗщиковъ или съкровищь | Кошьница ризъ или платънъ за съвиваниѥ и събираниѥ |
+| Тъжде въпросъ пакы | Оутѣшєниѥ, потомь пѣснь или работа въкоупѣ |
+| Хождєниѥ тѫда и сѧмо | Хождєниѥ въкоупѣ или работа, ꙗжє трѣбоуѥтъ носити вєщи |
+| Нєпокои къ вєчєроу | Тихоѥ, знаѥмоѥ дѣло при добрѣ свѣтѣ; виждь [вєчєрьнии нєпокои](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Къгда прѣстати или измѣнити пѫть
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Прѣстани, ѥгда видиши знамєниꙗ оутомлѥниꙗ, трѫда, стꙑдѣниꙗ или нєрадости, ꙗкожє нєпокои, намръщєниѥ, отътлачиваниѥ вєщии или словєса «Нє могоу». Alzheimer's Association съвѣтоуѥтъ пакы искоусити въ ино врѣмѧ дьнє или оупростити дѣло. Нє нѫди. Отърєчєниѥ можетъ ити отъ страха или отъ того, ꙗко дѣло ѥстъ прѣтрѫдьно; виждь [ѥгда чловѣкъ отърєчєтъ](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Рано коньчати добро ѥстъ. Такожє добро ѥстъ просто сѣдѣти въкоупѣ съ чашѫ чаꙗ. Къгда силы измѣнѧтъ сѧ болѥ, мысли въ [дѣла при позьдьнѣи стѫпєни](/activities/late-stage/) могѫтъ лоучє подобати, а [101 дѣло](/activities/ideas/) иматъ мъного иныихъ на искоушєниѥ.

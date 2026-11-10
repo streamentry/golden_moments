@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Хӑнӑхлавпа миме сывлӑхӗ: тӗпчевсем мӗнле ҫыхӑннӑ тата мӗнле хӑрушсӑр хускӑлмалла"
+seoTitle: "Хӑнӑхлавпа деменци: тӗпчевсем мӗн каланӑ"
+description: "Хӑнӑхлавпа деменци рискӗ ҫыхӑннине тӗпчевсем мӗнле кӑтартнӑ тата ватӑ ҫынсем валли хӑрушсӑр, килӗшӳллӗ хускану меслетӗсем."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Тӗпчевсем яланхи хӑнӑхлавпа деменци рискӗ чакнине ҫыхӑнтараҫҫӗ. 2024 ҫулти Ланцет
+  комиссийӗ те хӑнӑхламасть ҫынсен 14 улшӑнмалли риск факторӗсенчен пӗри пек палӑртнӑ.
+  Анчах та хӑнӑхлав деменцирен сыхланине экспериментсем ҫирӗплетмен. Хускану вӑйне,
+  виҫене, кӑмӑл туйӑмне тата ҫывӑрма пулӑшать, ҫавна май утма ҫӳрев, пуканпа упражненисем
+  тата ташӑ унтан тата кирлӗ. Ҫӗнӗ ӗҫе пуҫламас умӗн врачпа сӳтсе явӑр.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Хӑнӑхланакан ҫынсен деменци рискӗ ытларах чак, анчах та ку сӑн вӑл сӑмахсене пӑхса тӑнисенчен килет, экспериментсенчен мар."
+  - "Ватӑ ҫынсемпе ирттернӗ пилӗк ҫуллӑ хӑнӑхлав экспериментӗ ушкӑнсем хушшинче шухӑшлав хӑвӑлӗсемпе уҫӑмлӑ уйрӑмлӑх тупман."
+  - "65 ҫултан иртнӗ ҫынсем валли CDC рекомендацийӗсем аэробика, мускул вӑйне тата виҫе хӑвӑртлатакан ӗҫсене парса панӑ; кашни пекех хӑнӑхлав хӑнӑхламаннирен лайӑхрах, тенӗ."
+  - "Деменципе пурӑнакан ҫынсем валли кӗске, паллӑ, пӗрле хускану — сӑмахран, кулленхи утма ҫӳрев е ларса вылйӑссем — хисепсенчен пӗлтерӗшлӗрех."
+  - "Нумай пулмасть тӑваттӑ ватӑ ҫынран пӗрри кашни ҫул ӳкет, ҫавна май виҫе ӗҫӗсемпе хӑрушсӑр вырӑн малтанах пырасси кирлӗ."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Хӑнӑхлав деменцирен сыхлатма пултарать-и?"
+    a: "Ку пирки шанчӑклӑ калама май ҫук. Нумай тӗпчевӗ хӑнӑхлавпа деменци рискӗ чакнине ҫыхӑнтарать, анчах клиника экспериментӗсем хӑнӑхлав деменцирен сыхланине кӑтартман. Хӑнӑхлавӑн ытти усӑлли пайӗсем нумай, ҫавна май вӑл кирлӗ ӗҫ."
+  - q: "Деменципе пурӑнакан ҫын валли хӑнӑхлама хӑрушсӑр-и?"
+    a: "Чылай чухне, малтанах йӗркелесе, хӑрушсӑр. Millӗт Авалланнин институчӗ (NIA) ҫӗнӗ режима пуҫламас умӗн ҫынӑн врачӗпе сӳтсе явма, килӗшӳллӗ атӑ-тупа суйлама, шыв сӗнме тата вӑхӑта кӗскен тытма сӗнет. Ҫын ывӑннӑ, виҫенмест, е кӑмӑлӗсӗр курӑннӑ чухне чарӑнмалла."
+  - q: "Ларса мӗнле упражненисем тума пулать?"
+    a: "Ларса тума пулакан вариантсем: пукан ҫинче ҫӑмӑлтатнисем е пукан йоги, шарикпа е ҫӑмӑл мячпа выляни, пуҫмак ҫаккине ырӑни, суп консервисене ҫӗклени, ҫӑмӑлтату йӗрӗсем тата педаль тренажёрӗ. Утма йывӑр пулсан, ку вариантсем лайӑх."
+  - q: "Ҫын хускӑласшӑн мар пулсан мӗн тумалла?"
+    a: "Ан тытар. Каярах тепӗр хут туса пӑхӑр, хамӑр та хутшӑнӑр, паллӑ кӗвӗсем лартӑр е хусканӑва ҫӳп-ҫап ӗҫе — сӑмахран, шӑллама е ӳсен-тӑран ӑшӑтма — куҫарӑр. Почта яшикне каялла кӗске ҫӳрев те кирлӗ, тата тулашра пӗрле ларасси те кирлӗ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Хӑнӑхлав — миме сывлӑхӗ тӗпчевӗсенче чи нумай тишкернӗ хӑнӑхусенчен пӗри. Тӗпчевсем ӑна деменци рискӗ чакнипе ҫыхӑнтараҫҫӗ, анчах хӑнӑхлав деменцирен сыхланине ҫирӗплетмен. Паллаканни: хускану кашни вӑхӑтра та вӑйне, виҫене, кӑмӑл туйӑмне тата ҫывӑрма пулӑшать. Ку страница тӗпчевсем мӗн каланине, ватӑ ҫынсем валли мӗн чухлӗ хускану сӗннине тата деменципе пурӑнакан ҫынпа мӗнле ҫӑмӑл хускӑлма пултарнине кӑтартать.
 
-## Does exercise lower the risk of dementia?
+## Хӑнӑхлав деменци рискне чакарма пултарать-и?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Тӗпчевсем хӑнӑхланакан ҫынсен деменци сивӗчлен пултарни сахалрах пулнине кӑтартма пултараҫҫӗ, анчах ҫак сӑнсен те чикӗсем пур. [2024 ҫулти Ланцет деменци комиссийӗ](https://doi.org/10.1016/S0140-6736(24)01296-0) хӑнӑхламасть ҫынсене улшӑнмалли 14 риск факторӗсенчен пӗри пек палӑртать. Вӑл моделӗ тӑрӑх, ҫак 14 фактор пӗрле тӗнчери деменци случакасен 45% ҫывӑхне тивӗҫтерме пултараҫҫӗ.
 
-Here is what the evidence looks like:
+Ҫак сӑнсем мӗнле курӑнаҫҫӗ:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Сӑнаса пӑхнисем пӗр енне кӑтартма пултараҫҫӗ.** Комисси сӳтсе явнӑ 58 тӗпчеве пӑхни тӑрӑх, хӑнӑхланакан ҫынсен деменци рискӗ 20% ҫывӑх чакрах. Чи пысӑк уйрӑмлӑх нихӑҫан та хускӑлман ҫынсемпе сахалта пулсан та хускӑлакан ҫынсем хушшинче пулнӑ.
+- **Ҫыхӑну икӗ енлӗ те пулма пултарать.** Комисси палӑртни тӑрӑх, хӑнӑхламасси риска ӳстерме те пултарать. Тата деменци диагнозӗ умӗн ҫулсем кая пуҫланакан миме улшӑнӑвӗсем ҫынна сахалрах хускӑнма та май пама пултараҫҫӗ.
+- **Экспериментсем чи уҫӑмсӑррах.** Пӗр экспериментра вӑтамӗ 78 ҫул танлаш пулнӑ 945 ватӑ ҫынна пилӗк ҫул хушши эрнере икӗ хут тӗрӗслевпе хӑнӑхлав е танлаштару ушкӑнне пайланӑ. Вӗҫӗнче шухӑшлав хӑвӑлӗсем хушшинчи уҫӑмлӑ уйрӑмлӑх курӑнман. Танлаштару ушкӑнӗнче те нумай ҫын хӑнӑхланӑ, ҫавна май результата йӗркелеме йывӑррах.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Millӗт Авалланнин институчӗ (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) куна уҫӑмлӑн калать. Хӑнӑхлавпа Альцгеймер чирӗрен сыхланни хушшинчи уҫӑмлӑ ҫыхӑну курӑнман, тата хӑнӑхлав ӑна сыхлать е чакарть теме эксперимент сӑнӗсем те ҫителӗксӗр. Анчах та хӑнӑхлав ӳкнине, депресси, сахарлӑ диабета, пысӑк артери пусӑмне тата инсульта чакарма пулӑшать. Ҫак хальсен хӑш-пӗрисем шухӑшлав чакнипе те ҫыхӑннӑ.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Чӑн сӑмах: хускӑнӑр, мӗншӗн тесен вӑл паян хамӑра лайӑхрах туйма тата лайӑхрах ӗҫлеме пулӑшать. Миме валли усӑлӗ пулма пултарать, анчах ку шанчӑк мар.
 
-## How much activity do older adults need?
+## Ватӑ ҫынсем мӗн чухлӗ хускӑнмалла?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[65 ҫултан иртнӗ ҫынсем валли CDC рекомендацийӗсем](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) кашни эрне виҫӗ тӗсӗл хӑнӑхлав сӗнеҫҫӗ:
 
-| Type | Weekly amount | Examples |
+| Тӗс | Эрнере миҫе | Тӗслӗхсем |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Аэробика | Вӑтамран вӑтам хӑнӑхлав 150 минут, сӑмахран, 5 кун 30 минут | Хӑвӑрт утма ҫӳрев, ташӑ, шывра аэробика |
+| Мускул вӑйне | Тинех 2 кун, мускулсен пӗтӗм пӗрлехисем валли | Ҫӑмӑл гирӗсем е суп консервисене ҫӗклени, ҫӑмӑлтату йӗрӗсем |
+| Виҫе | Яланах | Тупӑн ҫӗр хыҫҫӑн утни, пуканран тӑни |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Кусем — тӗллевсем, пуҫламалли условисем мар. Ҫак тӗллевсене ҫитме май ҫук пулсан, CDC хӑвӑрӑн хӑватпа сывлӑх тивӗҫнӗ чухне хускӑлма ыйтать. Кашни пекех хӑнӑхлав хӑнӑхламаннирен лайӑхрах.
 
-## Gentle ways to move for older adults
+## Ватӑ ҫынсем валли ҫӑмӑл хускану меслетӗсем
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Пӗрле утма ҫӳрӗр.** Туспа, кӳршӗпе е утма ҫӳрекен ушкӑнпа кулленхи ҫӳрев калаҫма тата хӑрушсӑр пулма пулӑшать.
+- **Пуканпа упражненисем.** Ларса алӑсене ҫӗклени, ура тупӑнне унккӑра ҫавӑрни, вырӑнта ҫӳрени тата пукан йоги виҫене хӑрушсӑр вӑй параҫҫӗ.
+- **Кухньӑра ташӑр.** Ҫын ҫамрӑклӑхӗнче илтнӗ кӗвӗсене лартӑр та ӑнлантарса, алӑпа тап туса е утса хускӑлӑр. [Кӗвӗ ӗҫ-хӗлӗсем пирки руководствӑра](/activities/music/) сӗнӳсем пур.
+- **Килти япаласемпе вӑй ӗҫӗ.** Юратнӑ передачӑна пӑхнӑ чухне шыв тулли бутылкӑсене е суп консервисене ҫӗклеттерӗр.
+- **Садра ӗҫлӗр е кил ӗҫне тӑвӑр.** Ӳсен-тӑран ӑшӑтни, сапӑ-сухалӑк ҫумни, шӑлани тата кӗмӗл ҫӗмлени те хӑнӑхлав шутланать. [Тулашри тата садри ӗҫ-хӗлсем](/activities/outdoor-and-gardening/) тата [килти ӗҫсем](/activities/household-tasks/) страницисемпе паллашӑр.
+- **Шывра хӑнӑхлав.** Ҫӗр ҫинче хӑнӑхлав сӑмсене ыратнӑ ҫынсем валли NIA шывра аэробика занятийӗсене вариант пек палӑртать.
 
-## How to exercise with someone living with dementia
+## Деменципе пурӑнакан ҫынпа мӗнле хускӑлмалла
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Деменципе пурӑнакан ҫын валли тӗп тӗллев — хисепе ҫитесси мар, хӑтлӑх, килӗшӳ тата кулленхи хӑвӑлӗсене упрамасси. NIA каланӑ тӑрӑх, хӑнӑхлав Альцгеймер чирӗпе аптарнӑ ҫынӑн мускулӗсене, сӑмсене тата чӗрене лайӑх халӗпе упрама пулӑшать, кӑмӑл туйӑмне тата ҫывӑрма та лайӑхлатма пултарать. Ҫӗнӗ режима пуҫламас умӗн врачӗпе сӳтсе явӑр. [NIA пӑхса тӑракансем валли руководство](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ҫак сӗнӳсене парать:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Кашни кун пӗрле утма ҫӳрӗр.** Хӑрушсӑр, паллӑ, чӑрмавсӑр ҫул суйлӑр. Ҫын хӑй тӗллӗн ҫӳрет пулсан, ун ҫинче телефон номерӳллӗ ID-браслет лайӑх пулӗ.
+2. **Ватӑ ҫынсем валли хӑнӑхлав видеосене туса пӑхӑр.** Пӗрле, ларса е тӑраса тӑвӑр.
+3. **Вӑхӑта кӗскен тытӑр.** Темиҫе кӗске «мини-хӑнӑхлав» пӗр вӑрӑмринчен лайӑхрах пулма пултарать.
+4. **Кӗвӗ хушӗр.** Паллӑ юрӑсем хусканӑва ӗҫ мар, ӗҫ-хӗл тума пулӑшаҫҫӗ. Ҫын килӗшсен, ташӑр.
+5. **Шыв тата килӗшӳллӗ атӑ-тупа парӑр.** Хӑнӑхлав вӑхӑтӗнче тата ун хыҫҫӑн шыв е сок сӗнӗр, хӑтлӑ кӗмӗл тата хӑнӑхлава тивӗҫтернӗ атӑ суйлӑр.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Утма йывӑр пулсан, [NIA Альцгеймер чирӗпе аптарнӑ ҫын пирки пӑхмалли руководстви](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ларса тума пултаракан вариантсене сӗнет. Вӗсем хушшинче: пукан ҫинче упражненисем е йога, пуҫмак ҫаккине ырӑни, ҫӑмӑл мяч е шарикпа выляни, ҫӑмӑлтату йӗрӗсем, ҫӑмӑл килти япаласене ҫӗклени тата педаль тренажёрӗ. Шӑлани, тӑпранни пек ансат ӗҫсем те шутланаҫҫӗ.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Хускану мӗн тума пултарнине тӗрӗс йышӑнӑр. Ланцет комиссийӗ хӑнӑхлав хытӑ хускану е канӑҫсӑрланни пек хӑвӑртлӑх улшӑнӑвӗсене чакарть тенӗ сӑн тупман. Пӗрле хускӑнӑр, мӗншӗн тесен вӑл ҫынна лайӑх туйӑм парать, йывӑр каҫа тӳрлетес тесе мар. Ҫын ҫук тесе каласан, вӑл та юрӑхлӑ. [Ҫын ҫук тенӗ чухне](/caregiving/when-they-say-no/) пирки страницӑра каярах тепре туса пӑхмалли ҫӑмӑл меслетсем пур. Малтанах чарӑнни е тулашра пӗрле ларасси те лайӑх результат.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Хускӑннӑ хыҫҫӑн иккӗшӗ те лӑпланма [Лӑпкӑ сывлани](/games/calm-breathing/) пек кӗске тынӑ пауза пулӑшма пултарать. Ларса, алӑсене ҫӑмӑл хускӑлатакан ӗҫ-хӗл валли [Пӗрле уйӑрӑр](/games/sort-together/) тата [Сӑнлӑх бинго](/games/picture-bingo/) сӗтел хушшинче лайӑх пыраҫҫӗ.
 
-## Balance and fall safety
+## Виҫе тата ӳкнинчен сыхланни
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Ӳкни час-часах пулать тата йывӑрлӑх кӑларма пултарать. [CDC хыпарлавӗ](https://www.cdc.gov/falls/data-research/facts-stats/index.html) тӑрӑх, нумай пулмасть тӑваттӑ ватӑ ҫынран пӗрри кашни ҫул ӳкет, анчах ҫурринчен те сахалрах ҫын ҫакна врачне пӗлтерет. Пӗрре ӳкни тепӗр хут ӳкме май парать. CDC палӑртнӑ риск факторӗсем:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Урапа пӗҫӗ ҫӑмӗнченни
+- Утнӑ чухне тата виҫенӗ чухне йывӑрлӑх
+- Хӑш-пӗр эмелсем, сӑмахран, ҫывӑртакансемпе хӑш-пӗр антидепрессантсем
+- Куҫпа курма йывӑрланни
+- Ура ыратни е лайӑх мар атӑ-тупа
+- Килти хӑрушлӑхсем: йӗркесӗр вырнаҫнӑ япаласем, вылякакан килемсем, ҫӗмрӗк вырӑнсем
 
-To move more safely:
+Хӑрушсӑрах хускӑлма:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Чӑтлӑхсӑр пукан** усӑ курӑр, тата тӑнӑ чухне упражненисем валли сӗтел е йӗр айӗнче тытмалли вырӑн пултӑр.
+- **Вырӑна малтанах тирпейлӗр**: килемсене, сутӑсемпе йӗрсене, йӗркесӗр япаласене кӑларӑр.
+- **Тӑнӑ чухне майӗпен иртӗр**; ҫын пуҫӗ ҫаврӑнса е виҫенмесӗр туйӑнсан, чарӑнӑр.
+- **Чӑтлӑхлӑ атӑ-тупа тӑхӑнӑр**, нускипе е ҫӑмӑл тапочкӑсемпе мар.
+- **Тытмалли вырӑн айӗнче виҫене хӑвӑртлатӑр.** Пуканран тӑни тата тупӑн ҫӗр хыҫҫӑн утни — CDC палӑртнӑ виҫе упражненийӗсем.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC ӳкнӗ чухне пуҫне сукнӑ ватӑ ҫын хӑй тӗлнех врач патне каймалла тет, уйрӑмах юн сирӗплетекен эмелсем ӗҫнӗ чухне.
 
-## Talk with a doctor
+## Врачпа сӳтсе явӑр
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Ҫӗнӗ хӑнӑхлав режима пуҫламас умӗн врачпа сӳтсе явӑр, уйрӑмах чӗре е ӳпкев чирӗсемпе, сӑм ыратӑвӗпе, виҫе йывӑрлӑхӗпе е деменципе пурӑнакан ҫын валли. Врач е физиотерапевт хӑрушсӑр хӑнӑхлавсене сӗнме тата эмелсем виҫене витӗм кӳмеҫҫӗ-и тесе тӗрӗслеме пултарать. Кашни ӳкнине, сусӑр пулсан та, врачне пӗлтерӗр. Хӑнӑхлав вӑхӑтӗнче мӗн те пулин ыратать е йӗркесӗр туйӑнать пулсан, чарӑнӑр. Кӗтменни чӗре ыратни, сывлама йывӑрланни е кӗтменни шухӑш пӑтӑлни пулсан, 112 номерӗпе шӑнкӑравлӑр.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Ку страница — пӗтӗмӗшле информаци, медицина сӗнӗвӗ мар. [Медицина ятарлӑхӗ](/medical-disclaimer/) страницине пӑхӑр. Анлӑрах паллашма [деменци риск факторӗсем пирки тӗпчевсем мӗн каланине](/brain-health/risk-factors/) тата [деменцирен сыхланма пулать-и](/brain-health/can-dementia-be-prevented/) страницисене вуласа пӑхӑр.

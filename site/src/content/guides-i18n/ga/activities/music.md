@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Gníomhaíochtaí Ceoil do Dhaoine le Néaltrú"
+seoTitle: "Gníomhaíochtaí Ceoil agus Néaltrú: Smaointe"
+description: "Conas ceol a roinnt le duine atá ina gcónaí le néaltrú: seinmliosta pearsanta a thógáil, 15 ghníomhaíocht shimplí ceoil, agus leideanna."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Tá an ceol ar cheann de na gníomhaíochtaí is éasca a roinnt le duine atá
+  ina gcónaí le néaltrú. Tóg seinmliosta pearsanta as ceol a n-óige, a
+  gcreidimh agus a muintire. Seinn é gan fógraí ná torann sa chúlra, agus
+  can, buail bosa, luasc nó éist le chéile. Roghnaigh ceol ciúin nó ceol
+  beoga a oireann don nóiméad, coinnigh an toirt íseal, agus stop má chuireann
+  amhrán isteach ar an duine.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Is fearr a oibríonn ceol pearsanta: na stíleanna a thaitin leo mar dhuine óg fásta, chomh maith le ceol óna gcreideamh, a gcultúr agus imeachtaí teaghlaigh."
+  - "Seinn rud amháin ag an am, gan fógraí agus an teilifís múchta."
+  - "Is bealaí páirte a ghlacadh iad canadh, bualadh bos, luascadh agus éisteacht shimplí."
+  - "Bain úsáid as ceol níos ciúine chun suaimhneas a chruthú agus ceol níos beo chun an giúmar a ardú, agus tabhair faoi deara conas a fhreagraíonn an duine."
+  - "Tá an taighde ar sheisiúin cheoil struchtúrtha teoranta; molaimid ceol mar rud taitneamhach le roinnt le chéile, ní mar chóireáil."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Cén cineál ceoil is fearr do dhuine le néaltrú?"
+    a: "Ceol a bhfuil aithne mhaith ag an duine air le fada agus a thaitníonn leo, go minic óna ndéaga agus óna bhfichidí, mar aon le ceol óna gcreideamh, a gcultúr agus ceiliúrtha teaghlaigh. Más féidir, lig dóibh an ceol a roghnú. Breathnaigh ar a n-aghaidh agus ar a gcorp le fáil amach cad a thaitníonn leo, agus fág ar lár aon rud a chuireann isteach orthu."
+  - q: "Ar cheart dom cluasáin a úsáid?"
+    a: "Baineann daoine áirithe taitneamh as cluasáin mar go gcuireann siad torann as an áireamh, ach mothaíonn daoine eile míchompordach nó mearbhall leo. Bain triail as callaire ar dtús ionas gur féidir libh éisteacht le chéile. Má úsáideann tú cluasáin, coinnigh an toirt íseal agus fan in aice láimhe."
+  - q: "An féidir le ceol cuidiú le míshuaimhneas nó le corraíl?"
+    a: "Is féidir le ceol ciúin a bhfuil aithne air atmaisféar suaimhneach a chruthú, agus molann Cumann Alzheimer ceol a úsáid chun an giúmar atá uait a leagan síos. Ní oibríonn sé gach uair. Má tá an duine trína chéile, seiceáil freisin an bhfuil pian, ocras, torann nó tuirse air."
+  - q: "An féidir le daoine le néaltrú sa chéim dhéanach taitneamh a bhaint as ceol fós?"
+    a: "Is féidir le go leor acu. Tugann Cumann Alzheimer faoi deara go bhféadfadh duine sa chéim dhéanach buille a bhualadh nó canadh in éineacht le hamhrán óna óige fós. Suigh gar dóibh, seinn ceol go bog agus coinnigh a lámh nó luasc le chéile."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Tá an ceol ar cheann de na rudaí is simplí is féidir leat a roinnt le duine atá ina gcónaí le néaltrú. Ní iarrann sé tada: níl freagraí cearta ná céimeanna le leanúint. Is féidir le hamhrán a bhfuil aithne air meangadh gáire, cos ag bualadh nó cúpla focal á gcanadh a thabhairt, fiú ar lá a bhfuil comhrá deacair. Níl uait ach an ceol ceart don duine seo agus nóiméad ciúin chun é a sheinm.
 
-## What music activities work for people with dementia?
+## Cad iad na gníomhaíochtaí ceoil a oibríonn do dhaoine le néaltrú?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Oibríonn éisteacht, canadh, bualadh bos, luascadh agus caint faoin gceol go maith. Molann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ceol a sheinm, labhairt faoin gceol agus faoin ealaíontóir, canadh nó damhsa le hamhráin a bhfuil aithne mhaith orthu, agus dul chuig ceolchoirmeacha nó cláir cheoil sa phobal. Cuireann [Cumann Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/art-music) leis gur féidir le gluaiseacht ar nós bualadh bos nó damhsa cur leis an taitneamh, agus gur féidir leis an gceol a bheith ina bhealach ceangail nuair a bhíonn focail deacair.
 
-## How do you build a personal playlist?
+## Conas a thógann tú seinmliosta pearsanta?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+An rud is úsáidí is féidir leat a dhéanamh ná seinmliosta ceoil a bhfuil brí ag baint leis don duine seo. Cuireann an [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) béim freisin ar cheol a bhfuil brí phearsanta leis. Seo bealach simplí chun ceann a thógáil.
 
-### Start with their life
+### Tosaigh lena saol
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **A ndéaga agus a bhfichidí.** Smaoinigh ar a raibh ar an raidió, ag damhsaí agus sna scannáin nuair a bhí siad óg.
+- **Nóiméid mhóra.** An ceol ag a mbainis, an chéad damhsa, nó albam ab fhearr leo ar thurais teaghlaigh.
+- **Creideamh agus cultúr.** Iomainn, ceol soiscéil, ceol naofa, nó amhráin ina gcéad teanga.
+- **Obair agus seirbhís.** Bannaí máirseála, amhráin oibre, nó ceol a bhaineann le tréimhse san arm.
+- **Cuimhní an teaghlaigh.** Cuir ceist ar dheartháireacha, deirfiúracha, páistí agus seanchairde cad a bhí á sheinm nó á chanadh acu i gcónaí.
 
-### Think in genres, not just songs
+### Smaoinigh i seánraí, ní in amhráin amháin
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Mura bhfuil tú cinnte cá háit le tosú, bain triail as cúpla nóiméad as gach ceann díobh seo agus breathnaigh ar an bhfreagairt: big band agus swing, doo-wop, Motown agus soul, rac-cheol luath, ceol tíre, bluegrass, ceol soiscéil agus iomainn, amhráin seónna Broadway, caighdeáin snagcheoil, ceol Laidineach ar nós boleros nó mariachi, polca, ceol tíre traidisiúnta agus ceol clasaiceach. Coinnigh an rud a thugann meangadh gáire nó cos ag bualadh; fág ar lár an rud a thugann púicín.
 
-### Make it easy to play
+### Déan é éasca le seinm
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Gan fógraí.** Tugann Cumann Alzheimer rabhadh gur féidir le fógraí mearbhall a chruthú. Bain úsáid as ceol íoslódáilte, dlúthdhioscaí, taifid nó seirbhís gan fhógraí.
+- **Gléas simplí amháin.** Callaire le cnaipe mór amháin, nó seinmliosta sábháilte agus réidh, ionas gur féidir le haon duine é a thosú.
+- **Dhá liosta ghearra.** Liosta ciúin chun suaimhneas a thabhairt agus liosta beo chun an giúmar a ardú.
+- **Cuir lipéad air.** Scríobh ainm an duine agus „an ceol is fearr leo“ ar an ngléas ionas gur féidir le teaghlach ar cuairt agus le foireann chúraim é a úsáid freisin.
 
-## 15 music activities to try
+## 15 ghníomhaíocht cheoil le triail a bhaint astu
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Éist le chéile.** Suigh taobh le taobh gan aon rud eile ar siúl. Is gníomhaíocht iomlán í an éisteacht.
+2. **Can in éineacht.** Tosaigh ag canadh tú féin. Is leor cromadh nó na focail a bhogadh leis na liopaí.
+3. **Buail bosa nó buille.** Buail do ghlúine, tapáil an bord, nó bain úsáid as druma láimhe nó croithireán beag.
+4. **Damhsa mall.** Coinnigh lámha agus luasc sa chistin, nó damhsa agus tú i do shuí, ag bogadh na lámha le chéile.
+5. **Damhsa le scaif.** Croith scaif éadroma in am leis an gceol, agus tú i do sheasamh nó i do shuí.
+6. **Labhair faoin gceol.** Tabhair cuireadh, ná tástáil: „Tá fuaim halla damhsa ar seo. Inis dom faoi na damhsaí.“ Ná fiafraigh riamh „An cuimhin leat an t-amhrán seo?“
+7. **Seinn albam iomlán.** Cuir taifead a thaitin leo ar siúl, ó thús go deireadh, le cupán caife.
+8. **Féach ar chlúdaigh albam.** Is maith na sean-chlúdaigh taifead chun labhairt faoi fhaisean, gluaisteáin agus aghaidheanna.
+9. **Féach ar cheoldráma.** Is oíche mhaith í ceoldráma nó ceolchoirm scannánaithe óna ré. Cuir sosanna isteach.
+10. **Seinn uirlis a bhfuil aithne acu uirthi.** B’fhéidir go mbainfeadh iar-phianódóir nó iar-ghiotáraí taitneamh as seinm shimplí. Níos déanaí, is leor cúpla nóta a phiocadh le chéile.
+11. **Ceol agus tú ag obair.** Seinn amhráin is fearr leo agus tú ag fillteadh níocháin nó ag cur an bhoird.
+12. **Amhrán maidine.** Cuir tús le gach lá leis an amhrán ceanúil céanna mar chuid den ghnáthamh.
+13. **Can iomainn nó ceol naofa.** Seinn ceol óna traidisiún creidimh agus can le chéile.
+14. **Bí páirteach i ngrúpa amhránaíochta.** Déanann an NHS cur síos ar ghrúpaí amhránaíochta mar rud atá go maith don ghiúmar agus don fholláine. Cuir ceist go háitiúil faoi chóisir amhránaíochta atá cairdiúil do dhaoine le néaltrú.
+15. **Téigh chuig ceol beo.** Ceolchoirm phobail ghearr nó banna amuigh faoin aer. Suigh in aice leis an doras agus imigh am ar bith is mian leat.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Chun gníomhaíocht éadrom focal le frásaí a bhfuil aithne orthu, bain triail as [críochnaigh an seanfhocal](/games/finish-the-saying/), áit ar féidir leat an deireadh a thaispeáint i gcónaí.
 
-## Matching music to the moment
+## Ceol a oiriúnú don nóiméad
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Molann Cumann Alzheimer ceol a úsáid chun an giúmar atá uait a chruthú: ceol ciúin le haghaidh atmaisféar suaimhneach, agus amhrán beo ó óige duine chun an giúmar a ardú.
 
-| Moment | Try | Tip |
+| Nóiméad | Bain triail as | Leid |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Éirí | Amhrán aitheanta, ceanúil | Bíonn an t-amhrán céanna gach maidin ina leid mhín |
+| Gnóthaí tí | Ceoltáin bheoga is fearr leo | Is féidir leis an gceol mothú mar chuideachta a thabhairt don obair |
+| Béilí | Ceol bog uirlise | Coinnigh ciúin é ionas nach gcuireann sé isteach ar an ithe |
+| Tráthnóna déanach | Ceol ciúin a bhfuil aithne air i solas maith | Féach [míshuaimhneas tráthnóna déanach](/caregiving/late-day-restlessness/) |
+| Am codlata | Ceol mall, mín | Ísligh an toirt agus na soilse le chéile |
+| Céim dhéanach | Na hamhráin is fearr leo, an-bhog | Suigh gar dóibh agus coinnigh lámh leo |
 
-## Tips for a good experience
+## Leideanna le haghaidh eispéiris mhaith
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Múch torann eile.** Molann Cumann Alzheimer fuinneoga agus doirse a dhúnadh agus an teilifís a mhúchadh ionas gurb é an ceol an t-aon fhuaim.
+- **Coinnigh an toirt íseal.** Ba chóir go mbeadh an ceol compordach, ní ard. Má úsáideann an duine áiseanna éisteachta, déan cinnte go bhfuil siad istigh agus ag obair; féach [éisteacht](/brain-health/hearing/).
+- **Tabhair aire do chuimhní brónacha.** Tugann roinnt amhrán brón, cogadh nó caillteanas chun cuimhne. Má chuireann amhrán isteach orthu, tabhair sólás dóibh agus athraigh é.
+- **Lig dóibh an treo a thabhairt.** Más féidir, lig don duine an ceol a roghnú, agus glac le „níl“.
+- **Stop am ar bith.** Is gníomhaíocht mhaith í cúig nóiméad ceoil. Is amhlaidh freisin é a mhúchadh agus suí go ciúin.
 
-## What does the research say about music and dementia?
+## Cad a deir an taighde faoi cheol agus néaltrú?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Tá an fhianaise teoranta. D’fhéach [athbhreithniú Cochrane 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) ar 30 staidéar ar sheisiúin cheoil struchtúrtha, le grúpaí i dtithe altranais den chuid is mó. Fuair sé gur dócha gur mhaolaigh na seisiúin seo comharthaí dúlagair beagán i gcomparáid le gnáthchúram, ach ní bhfuair sé aon éifeacht shoiléir ar chorraíl, ar fholláine ná ar smaointeoireacht agus ar chuimhne, agus níor mhaireann aon éifeachtaí tar éis dheireadh na seisiún.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Roinnimid ceol toisc gur bealach taitneamhach, gan bhrú, é chun am a chaitheamh le chéile, ní mar chóireáil. Do shuíomhanna grúpa, féach [gníomhaíochtaí grúpa i dtithe cúraim](/activities/care-home-groups/); chun ceol a úsáid in éineacht le grianghraif agus scéalta, féach [gníomhaíochtaí cuimhneacháin](/activities/reminiscence/).

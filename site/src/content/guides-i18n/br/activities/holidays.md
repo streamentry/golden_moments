@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Gweredoù gouel gant ar demañs, adalek Thanksgiving"
+seoTitle: "Ideoù gouel ha Thanksgiving evit ar demañs"
+description: "Gweredoù gouel simpl evit an hini gant ar demañs: labourioù er c'hegin, arnozañ, sonerezh, skeudennoù ha galvoù video, ha penaos steraat ur gouel dizrusk."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Gwnit ar gouelioù nebeutoc'h, abaoe an deiz ha tost da vuhez pemdez an hini.
+  Roit dezhañ ur micher gwirion ha diogel, evel stlejañ an daol, golchañ
+  legumaj, pakañ ur fri pe lakaat ur strolad war ur bladenn. Rannit ar sonerezh
+  gouel hag ar skeudennoù kozh, lavarit d'ar vrasoù penaos e vezint degemeret,
+  hag aozit ur gambr dinerzh. Ober nemet ar pezh a c'hellit mirout; ur gouel
+  berr ha kalm zo mat.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Dalc'hit ar gouel a-raok, evel ur lein pe ur brinch, ma vez alies diskenn ar spered war-dro an abardaez."
+  - "Roit labourioù gwirion: stlejañ an daol, golchañ legumaj, pakañ, stignañ pe lakaat ar bisked war ur platez."
+  - "Ar sonerezh gouel, ar c'hanaouennoù kozh ha albomoù skeudennoù ar familh a zo ur doare aes da rannañ an amzer-gouel."
+  - "Lavarit d'ar vrasoù petra a c'hortozont, ha diskouezit d'an hini skeudennoù an dud a zeuio."
+  - "Aozit ur gambr dinerzh gant ur blanket pe ur sweater a blij dezhañ, ha lakit nebeud a dud en ur wech."
+  - "Tec'hit ouzh pep tra a sko warnañ, dreist-holl ar gourvezioù a sell ouzh boued ha ar gouloù a ginivel."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Petra a c'hell an hini gant ar demañs ober e Thanksgiving?"
+    a: "Roit dezhañ ul labour simpl ha diogel a glot gant ar pezh a c'hell ober hiziv: golchañ legumaj, dorchennañ ar saoser kraneberi, stlejañ an daol, pleañ ar napkined pe lakaat ar bisked war ur platez. Goude, sellit ouzh albomoù familh kozh pe kanit kanaouennoù anavezet asambles. Bezañ e-barzh ar gouel a bouez muioc'h eget penaos e tro ar micher."
+  - q: "Ha dleomp ober ur strollad familh bras c'hoazh?"
+    a: "Nemet mar eo mat evit an holl. Ar strobinelloù ha ar son a c'hall bezañ tromm, neuze kalz familhoù a dremen d'ur strollad bihanoc'h, un debriñ diwezhatoc'h pe vrasoù o tont un nebeud dre-unan. Kemennadur Alzheimer's Association a bousk an dud da reiñ nemet ar pezh a c'hellont mirout en un doare resonapl ha diogel."
+  - q: "Penaos paraat ar familh na welas ket an hini e-pad ur frapad amzer?"
+    a: "Lavarit dezhe a-raok ar c'hemmoù a c'hellfent gwelet, ha penaos e tle an dra-se bezañ digant ar mizv ha n'eo ket digant an den. Pedit anezhe na reizhfent ket ha na holfent ket, da gomz unan goude eben ha da reiñ amzer evit respont. Diskouezit skeudennoù an dud a zeuio d'an hini a-raok, a c'hall ivez sikour."
+  - q: "Petra zo ur fred gouel a glot gant an hini gant ar demañs?"
+    a: "Traoù simpl ha diogel a c'hall bezañ plijus bremañ: ur frikenn a blij dezhañ, ur blanket pe ur sweater meur, sonerezh anavezet, pe un albom skeudennoù ar familh. Lezit ar pezhioù kemplezh, an electroniked, an ostilhoù ha ar c'hêmoù tost. Kemer perzh en ur fred, evel pakañ kukuennoù a skoas ganto, a c'hall bezañ ur fred en he-unan."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Gouelioù a c'hall dougen kofad a zoujañs c'hoazh, met ivez tumult, pennadoù tud ha kemmoù en deiz arre. Evit an hini a chom gant ar demañs, ar gouelioù gwellañ a vez alies nebeutoc'h, gortozusoc'h ha savet en-dro d'an traoù a c'hall c'hoazh plijout dezhañ. Ar sonioù-mañ a glot gant Thanksgiving, Nedeleg, Hanukkah, Bloavezh Nevez ha deizioù-ganedigezh ar familh.
 
-## How do I plan a calmer holiday?
+## Penaos kempenn ur gouel dizrusk?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Kregit gant buhezreizh an hini ha kempenn an deiz diwar-benn. An [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) a ginnig lakaat ar gouel da vont en-dro a-raok, rak alies e vez kalz kollfed ha skuizhder war-dro an abardaez ha fin an deiz (nominet "sundowning" e saozneg). Ur lein gouel pe ur brinch a c'hall bezañ aesoc'h eget un debriñ diwezhat.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Derc'hit ouzh ar ment mat.** Ur strollad bihanoc'h ha dizrusk, pe vrasoù o tont un nebeud dre-unan, a zo alies aesoc'h eget ur vaolenn dic'hwec'h.
+- **Rannit al labourioù.** Goulennit digant ar c'herent kas ur plad, ober an ervezh pe chom gant an hini pa vez kempenn ar boued. Displegit penaos e c'hellfent skoazellañ.
+- **Dibab traoù simpl evit an arvest.** An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) a zisklêr e c'hell ar gouloù bleizus bezañ fazius, ha ne c'hell ket an dud sellet ouzh bonbonioù pe frouezh artifisiel evel boued.
+- **Dibab petra da zilezel.** Mar eo bet un hengounezh dic'hras pe riskl, mat eo ober hep anezhi pe klask unan dizrusk.
 
-## What holiday activities can we do together?
+## Pe labourioù a c'hallomp ober asambles evit ar gouel?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Dibabit labourioù ha c'hoarvezioù a glot gant tra a c'hall an hini ober hiziv. Bezañ e-barzh an deiz a bouez muioc'h eget penaos e tro.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Stlejit an daol asambles.** Lakit ar platoù da gentañ, goude ar napkined, ha neuze ar tazennoù. Pleañ ar napkined a zo ul labour mat evit azezañ.
+2. **Golchañ ha dibab legumaj.** Golchañ patatez pe tennañ fri ar fazoù war an daol-gegin a zo diogel ha dibar evit kalz tud a oa o kegin.
+3. **Dorchennañ, meskañ pe lakaat war ur platez.** Dorchennañ ar saoser kraneberi, meskañ ur pastez simpl pe lakaat ar bisked war ur platez a gadw an dorn o labourat pell diouzh ar stivell hag an taolioù.
+4. **Pakañ ur fri.** Torret ar paper hag ar skotch a-raok, ha lezit an hini da blegañ ha lakaat ar paper en-dro. Ar pakadur mat n'eo ket ar pwynt.
+5. **Kroget un nebeud arvest.** Dibabit arvest diskar ha ur c'hornad bihan, evel ur gwiskenn pe ur wezenn vihan.
+6. **Gwnit un dra simpl a gelf.** Chadennoù paper, ur c'hollaj delioù pe ur garta gouel gant stampoù a zo mat. Gidal hon [arzoù-dorn ha krafdoù](/activities/arts-and-crafts/) a roio muioc'h a notennoù.
+7. **Kanit ha selaouit.** Kanaouennoù Nedeleg ha kanaouennoù gouel anavezet a zo aes da gaout ganto, memes evit an hini a gomz nebeutoc'h bremañ. Sellit ouzh hon [gidal sonerezh](/activities/music/) evit sevel ur roll sonerezh.
+8. **Sellit ouzh skeudennoù gouel kozh.** Degasit albomoù eus ar gouelioù gwasoc'h ha pedit anezhañ kontañ istorioù ("Lâret din diwar-benn an daol-mañ") kentoc'h eget goulenn piv eo an hini. Hon [gidal kofadoù](/activities/reminiscence/) a ziskuez penaos.
+9. **Ur c'hêm strollad dizrusk.** [Bingo skeudennoù](/games/picture-bingo/) a vez embannet e kelc'h munudoù, ha mat eo evit an holl oadoù, hag [kartennoù kendalc'h](/games/conversation-cards/) a ro un dra da gomz diwar-benn d'an holl.
+10. **Liverañ asambles.** [Pajennoù liva](/games/coloring/) a c'hall bezañ embannet evit ar vugale hag an tadou-kozh da rannañ war an daol.
+11. **Gwelet ur film gouel a blij dezhañ.** Ur film anavezet a skuizh, ha n'eo ket diaes gwelet nemet un tamm anezhañ.
+12. **Mont un nebeud mik en kar da welet ar gouloù.** Un tremen dizrusk a-dreuz ti arvestet a c'hall bezañ aesoc'h eget un abadenn dic'hras.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Ma oa ar boulc'hadur ur pezh bras eus buhez an hini, hon [gidal labourioù an ti evel c'hoarvezioù](/activities/household-tasks/) a roio muioc'h a zoareoù da wenn al labourioù er c'hegin diogel ha plijus.
 
-## How do I prepare guests?
+## Penaos paraat ar vrasoù?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Lavarit d'ar vrasoù petra a c'hortozont a-raok ma vezint du, dreist-holl ar c'herent n'int ket bet e-kichen abaoe pell. An Alzheimer's Association a bropoz displegañ e tle ar c'hemmoù er c'hof hag en emzalc'h dont eus ar mizv, ha n'eus ket eus an den.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Roit un nebeud awennoù simpl:** komzit unan goude eben, roit amzer da echui ar soñj, na reizhit ket ha na holfit ket, ha respontit d'ar youl a dremen dre ar gomz ma'z eo diaes heuliañ ar geriou.
+- **Lavarit petra a skoaz ha petra a gont.** Ma'z eo ar mouezhioù uhel, ar prizhder pe danvezioù zo a ra droug, lavarit.
+- **Presantit ar vrasoù a-raok.** Diskouezit d'an hini skeudennoù an dud a zeuio ha rannit un istor pe zo, pe aozit ur galv bihan war ar valafon pe war ar video a-raok an deiz.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Hon [awennoù kenkomzoù](/caregiving/communication-tips/) a roio muioc'h a folennoù.
 
-## What if it gets to be too much?
+## Petra a rafe ma vez re-bras?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Aozit ur gambr dinerzh a-raok ma vezint du, pell diouzh an trouz, gant traoù a glot ganeoc'h evel ur blanket pe ur sweater a blij dezhañ pe ur labour simpl. Kinnigit anezhi peurliesañ ha buanoc'h: « Ha emaomp o chom en ur plas dinerzhoc'h un nebeud? »
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Kuitaat an daol, mont d'ar gwele abred pe lezel ur pezh eus an deiz a zo ur valan mat, n'eo ket ur fazi. Ma vez fuloret an hini, ur mouezh kalm, ur c'hanaouenn anavezet pe ur veaj d'ur gambr all a sikour alies gwelloc'h eget resonadennoù. Hon [gidal evit an dizur a zeuio an abardaez](/caregiving/late-day-restlessness/) a roio muioc'h a soñjoù evit an abardaezhioù.
 
-## How can family far away take part?
+## Penaos e c'hell ar familh a bell reiñ perzh?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Ar galvoù video a laka ar c'herent da vont en-dro hep ouzhpennañ d'ar vrasadelezh. An Alzheimer's Association a ginnig ober doare d'ar galvoù, da skouer kanañ kanaouennoù an amzer, rannañ skeudennoù eus strolladoù kozh, kempenn ur memes resis asambles pe gwelet ur film gouel en ur mare kenstag. Derc'hit ar galvoù berr, ha goulennit digant an dud komz unan goude eben, rak diaes eo heuliañ kement a gomzoù a-stroll. Hon [gidal galvoù telefon ha video](/activities/phone-and-video-calls/) a ro soñjoù pad-ouzh-pad.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Ma chom an hini en ur bajenn gellout-kof, gwiriit reolennoù ar weladennoù hag goulennit digant ar staff skoazellañ da aozañ ur galv. Hon [gidal evit gweladennoù en ur bajenn gellout-kof](/activities/visiting/) a lak da anavezout petra da zegas ha penaos mont kuit en un doare mat.
 
-## What gifts suit someone with dementia?
+## Pe fredoù a glot gant an hini gant ar demañs?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Fredoù simpl ha diogel a blij dezhañ bremañ a vez alies ar gwellañ: ur frikenn a blij dezhañ, ur blanket pe ur sweater meur, sonerezh anavezet, ur deizlevr gant skritur bras pe ul liv skeudennoù ar familh. An Alzheimer's Association a gemennas dont a-enep d'an ostilhoù riskl, d'an electroniked kemplet ha d'ar c'hêmoù tost.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Ar roiñ a c'hall bezañ pouezus memes evel ar c'hemer. Pakañ ar bisked a skoazellas an hini da bobañ, pe lakaat anezhañ da bakañ ur fri hoc'h eus prenet, a ro dezhañ perzh en amzer-gouel. Ur frizh all eo ar c'hêm skeudennoù ar familh: [skeudennoù par](/games/photo-pairs/) a droio un niver skeudennoù dibabet e ur c'hêm kemplezh dinerzh en ur merdeer.
 
-## Look after yourself too
+## Mirit ac'hanoc'h ivez
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Ar gouelioù a zegas labour d'ar bennoz a zo gant ar goulenn. Lezit unan all da embann ar gouel pe da gwezhañ ar c'higer-gwitell, na rit ket ya d'an abadennoù a vo kalet, ha kemerit un tu-hont e-pad ma vez an hini gant an dud all amzer. Ma'z oc'h c'hwi pe an hini a bourchasit en ur fazi, ur c'hwezh-dorn eus an hent-kerrez pe ur galv video a zo ur weladenn mat peurbet. Hon [gidal evit mirout ho yec'hed](/caregiving/caregiver-self-care/) a ro muioc'h a skoazell.

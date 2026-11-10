@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Дѣла за мѫжи съ оумьнымъ ослаблениемь"
+seoTitle: "Дѣла за мѫжи съ оумьнымъ ослаблениемь: мысли"
+description: "Мысли о дѣлѣхъ за мѫжи живѫщѧ съ оумьнымъ ослаблениемь, по ихъ житию и обычаѥмъ, съ съвѣты о безбѣдьнѣмь приспособлении."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Добрѣиша дѣла за мѫжа живѫща съ оумьнымъ ослаблениемь исходѧтъ отъ ѥго
+  жития: отъ дѣла ѥже дѣлаше, отъ любьныихъ забавъ и отъ дьньныихъ обычаѥвъ.
+  Бывъ писарь можетъ радовати сѧ о строении бумагъ, дѣлатєль може радовати
+  сѧ о чистыхъ орѫдиихъ, а любитель игръ може радовати сѧ о старѣ игрѣ.
+  Любьна сѫть различьна оу кождо мѫжа, тѣмьже начьни отъ чловѣка, а нє отъ
+  пола ѥго.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Начьни отъ жития сего мѫжа: отъ дѣла ѥго, забавъ, обычаѥвъ и того чимьже радоваше сѧ."
+  - "Дѣла съ истиньноѭ цѣлиѭ, ꙗко строити орѫдиꙗ, мыти колесницѫ или гладити дрѣво, чѧсто сѫть ближьша нєжєли дѣла ꙗко оучєниѥ."
+  - "Нє вьси мѫжи любѧтъ орѫдиꙗ или игры. Мънози любѧтъ варити, пѣти, дѣлати въ садѣ, творити или пєщи сѧ о инѣхъ. Въпрашаи, съмотри и послѣдоуи ѥмоу."
+  - "Дѣла подобьна работѣ сътвори безбѣдьна: отъими остра орѫдиꙗ и бѫди близъ, и оулєгъчаи ꙗ по мѣрѣ прѣмѣны силъ."
+  - "Рєщи «нє хощѫ» достоитъ. Прѣдъложи помощь, а нє заповѣдь, и пакы попытай въ инъ дьнь."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Кꙗꙗ дѣла мѫжи съ оумьнымъ ослаблениемь любѧтъ?"
+    a: "Нѣстъ ѥдиного съписъка, понєжє любьна мѫжьска сѫть различьна ꙗко и оу инѣхъ. Добръ почѧтъкъ сѫть дѣла съвѧзана съ прѣжьнимь дѣломь ѥго, ꙗко строити бумаги или избирати гвоздиѥ и гаикꙑ, и забавꙑ ѥгоже люблꙗше, ꙗко ловлєниѥ рꙑбъ, колесницѧ, пѣсни, варєниѥ или игры. Съмотри чьто творитъ самъ и на томь съзижи."
+  - q: "Отьць мои отъмєщєтъ съборьна дѣла. Чьто могоу сътворити?"
+    a: "Мънози чловѣци, мѫжи и жєнꙑ, отъмєщѫтъ дѣла ꙗжє мьнѧтъ сѧ ꙗко оучєниѥ или ꙗко дѣтьска. Покоуси сѧ прѣдъложити помощь: «Можєши ли ми помошти сиѥ строити?» Малъ съборъ или врѣмѧ съ ѥдинимь чловѣкомь може бꙑти оудобьнѣѥ нєжєли великъ чинъ."
+  - q: "Бєзбѣдьно ли ѥстъ дати ѥмоу орѫдиꙗ?"
+    a: "Тъкъмо съ надъзоромь и съ бєзбѣдьнꙑми орѫдии. Отъими силоваꙗ орѫдиꙗ, ножє и вьсє остро, и прѣдъложи дѣла ꙗко гладити дрѣво, строити чиста желѣза или заврътѣти вєликꙑ гаикꙑ рѫкоѭ. Alzheimerʼs Association съвѣтоуѥтъ отъимати опасьна отъ дѣлатєльницѧ, да дѣло ꙗко гладєниѥ можетъ бꙑти бєзбѣдьно и приꙗтьно."
+  - q: "Бѣ дѣлатєль нарочитъ. Нє бѫдѫтъ ли проста дѣла ѥмоу обидьна?"
+    a: "Могѫтъ бꙑти, ащє ꙗвлѧѭтъ сѧ ꙗко праздьно дѣло. Съкажи ѥ ꙗко истиньноу помощь, оупотрѣби орѫдиꙗ за въздрастънꙑ, и избєри нѣчьто близъко ѥго прѣжьню чинꙋ, ꙗко прѣзьрѣти съписъкъ, оустроити писаниѥ или помошти събьрати посъланиѥ. Ащє бѣ о чєсомь вєльми нарочитъ, съродьно нъ ино дѣло може бꙑти лєгъчє нєжєли съравьнєниѥ."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Чловѣци чѧсто ищѫтъ «дѣла за мѫжи съ оумьнымъ ослаблениемь», понєжє обычьнꙑ съвѣти нє ꙗвлѧѭтъ сѧ подобьни мѫжоу ихъ. Сиѥ разоумьно ѥстъ. Нъ отъвѣтъ нѣстъ съписъкъ «мѫжьскꙑихъ» дѣлъ. Подобаѥтъ начѧти отъ сего мѫжа: чьто дѣлаше въ житии, чьто твораше въ свободьно врѣмѧ и чьто даꙗше ѥмоу чоути сѧ потрѣбьна. Любьна различьна сѫть оу вьсѣхъ. Мънози мѫжи любѧтъ варити, дѣлати въ садѣ, писати образꙑ или пѣти, и мъногꙑ жєнꙑ любѧтъ колесницѧ и игры.
 
-## How do I find activities he will actually enjoy?
+## Како обрѣсти дѣла ꙗжє ѥмоу истиньно бѫдѫтъ люба?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Начьни отъ повѣсти жития ѥго. Alzheimerʼs Association съвѣтоуѥтъ строити [дьньнъ чинъ](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) по любьнꙑмъ и нєлюбьнꙑмъ чловѣка, по силѣ ѥго, по томоу чьто ѥмоу мило, и по томоу како прѣждє оустраꙗше свои дьнь. Въпрашаи сєбє:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Коѥ бѣ дѣло ѥго?** Писаниѥ, сєло, дѣлатєльница, рѫкодѣлиѥ, воинство, коуплꙗ, оучєниѥ, вожєниѥ или домъ?
+- **Чьто твораше въ свободьно врѣмѧ?** Ловлєниѥ рꙑбъ, игрꙑ, дрѣводѣлиѥ, игры на поли, црькꙑ, пѣсни, варєниѥ или колесницѫ?
+- **Кыꙗ бѣшѧ ѥго обычаи?** Питиѥ и чьтєниѥ по оутроу? Съмотрєниѥ врѣмєнє? Мытиѥ колесницѧ въ сѫботѫ?
+- **Чьто ѥщє начинаѥтъ самъ?** Association поминаѥтъ, ꙗко ащє чловѣкъ начинаѥтъ дѣла бєзъ прошєния, ꙗко мєсти подъ, та дѣла могѫтъ бꙑти чѧсть обычая.
+- **Чєго избѣгаѥтъ?** Нѣции любѧтъ съмотрѣти игрꙑ, а дроузии находѧтъ движєниѥ и шоумъ тѧжькъ. Съмотри когда ꙗвлꙗѥтъ сѧ радостьнъ, стрѧжьнъ или съмѫщєнъ.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Поглаголи и съ родомь и съ старыми дроугꙑ. Они могѫтъ помьнѣти любьна ꙗжє оустѫпишѧ отъ дьньнаго жития.
 
-## Activity ideas based on past work
+## Мысли о дѣлѣхъ по прѣжьнюмоу дѣлоу
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimerʼs Association даѥтъ ꙗвьнъ образъ: бывъ писарь може радовати сѧ о дѣлѣхъ строения, ꙗко полагати пѣнѧѕи въ дрьжало, помагати събьрати посъланиѥ или творити съписъкъ дѣлъ, а бывъ дѣлатєль на сєлѣ или въ садѣ може радовати сѧ о дѣлѣ въ дворѣ. Та мысль подобьна ѥстъ и за ина дѣла.
 
-| Past work | Activity ideas | Simpler version |
+| Прѣжьнєѥ дѣло | Мысли о дѣлѣхъ | Простьѥиша видьма |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Писаниѥ или коуплꙗ | Строити бумаги въ съвѧѕкꙑ, пєчатати писаниꙗ, прѣзьрѣти съписъкъ, оустроити скринькѫ стола | Съложити писаниꙗ; положити скрѣпꙑ въ ковъчєжьць |
+| Рѫкодѣлиѥ или дѣло съ колесницами | Строити чистꙑ гаикꙑ, гвоздиѥ и кольца; заврътѣти вєликꙑ гаикꙑ рѫкоѭ; съмотрѣти кънигꙑ орѫдии | Избьрати по мѣрѣ въ дъвѣ чаши |
+| Сєло или дѣло въ садѣ | Поливати, садити растєния, грєсти листвиѥ, съмотрѣти садъ | Сѣдѣти вънѣ ѥгда тꙑ дѣлаѥши; дрьжати сѣмєна |
+| Воинство | Чистити обувь, оустроити скринькѫ, съмотрѣти образꙑ отъ слоужьбꙑ, ащє ѥмоу то приꙗтьно | Слꙑшати пѣсни того врѣмєнє |
+| Коуплꙗ или слоужєниѥ людьмъ | Привѣтити приходѧщѧ, раздаꙗти ꙗди, строити листꙑ | Сѣдѣти оу двьрии и рєщи «добрѣ дошълъ» |
+| Оучєниѥ | Чьсти въслоухъ, строити кънигꙑ, избирати образꙑ по видоу | Съмотрѣти кънигѫ съ образꙑ вькоупѣ |
+| Вожєниѥ | Съмотрѣти картꙑ или старꙑ кънигꙑ о колесницахъ, мыти колесницѫ | Съмотрѣти колесницѧ мимоходѧщѧ отъ порога |
+| Домъ и родъ | Съгъбати риѕꙑ, оустроити тръпєзѫ, помагати о вєчєри | Оугладити платъ; размѣшати |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Нѣкотораꙗ памѧть, ꙗко воиньска слоужьба, можетъ въӡбоудити сильнꙑ чоутиꙗ. Послѣдоуи ѥмоу, дрьжи бєсѣдоу о прѣшьдьшихъ въ тиꙑ миръ, и тихо прѣмѣни слово, ащє ꙗвлꙗѥтъ сѧ съмѫщєнъ.
 
-## Activity ideas based on hobbies
+## Мысли о дѣлѣхъ по забавамъ
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Дрѣводѣлиѥ.** Гладити гладъко дрѣво или красити малъ домъ за птицѧ. Alzheimerʼs Association съвѣтоуѥтъ отъимати опасьна орѫдиꙗ и вєщи отъ дѣлатєльницѧ, да дѣло ꙗко гладєниѥ бѫдєтъ приꙗтьно и бєзбѣдьно.
+2. **Ловлєниѥ рꙑбъ.** Строити скринькѫ съ орѫдии бєзъ оудицъ, прѣлистати кънигꙑ о ловлєнии или сѣдѣти вькоупѣ оу водꙑ.
+3. **Колесницѧ.** Мыти колесницѫ, чистити свѣтъла мѣста, съмотрѣти образꙑ старꙑихъ колесницъ или ѣхати вькоупѣ ꙗко пѫтьникъ.
+4. **Игрꙑ.** Съмотрѣти старѫ игрѫ или изъбьранꙑ видꙑ, мєтати мѧкъкъ мѧчь, бити мѧчь по постилкѣ или строити листꙑ игръ.
+5. **Картꙑ и игрꙑ.** Проста игрa съ знаѥмꙑми картами, кости игрънꙑѧ или обрѣтєниѥ подобьнꙑихъ картъ. Дрьжи то тихо и остави съчьтєниѥ.
+6. **Пѣсни.** Пѣсни отъ юности ѥго, любима пѣснь или пѣснь црькъвьна. Вижь нашь [пѫть о пѣснѧхъ](/activities/music/).
+7. **Варєниѥ.** Мыти ꙁєлиѥ, размѣшати ꙗдь, творити хлѣбъ или повѣдати како твораше своѭ ꙗдь, ѥгда тꙑ ѭ готѡвиши.
+8. **Чьтєниѥ.** Alzheimerʼs Association поминаѥтъ, ꙗко чловѣкъ ижє чьтꙗше по вьсѧ дьни може ѥщє радовати сѧ о томь, ащє и нє можєтъ вьсєго разоумѣти. Питиѥ и чьтєниѥ могѫтъ остати чѧсть оутра.
+9. **Съложєниѥ.** Велицѧ чѧсти за съложєниѥ, подобьнꙑ въздрастънꙑмъ. Избєри чѧсти ꙗжє лєгъко дрьжати.
+10. **Пєщи сѧ о чєсомь.** Кърмити животъно, наполнити кърмьницѫ птицамъ или поливати растєния. NIA поминаѥтъ [кърмлєниѥ, чистєниѥ или вожєниѥ животъна](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) мєждоу дѣлꙑ ꙗжє чловѣци могѫтъ любити.
 
-## How do I offer an activity without it feeling like busywork?
+## Како прѣдъложити дѣло, да нє бѫдєтъ ꙗко праздьно дѣло?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Прѣдъложи ѥ ꙗко истиньноу помощь. Alzheimerʼs Association съвѣтоуѥтъ рєщи: «Можєши ли ми помошти?» и съвѧзати дѣло съ цѣлиѭ. Съравьни:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Хощєши ли сиѥ гаикꙑ строити?» (ꙗвлꙗѥтъ сѧ ꙗко искоушєниѥ)
+- «Коупихъ мѣшано желѣзо и потрѣбьно ми ѥ строити ѥ прѣждє дѣла. Можєши ли ми помошти?» (ꙗвлꙗѥтъ сѧ ꙗко дѣло)
 
-Other tips:
+Инꙑ съвѣти:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Оупотрѣби орѫдиꙗ за въздрастънꙑ.** Истиньна орѫдиꙗ бєзъ острꙑихъ краи, истиньнꙑ кънигꙑ, истиньна писаниꙗ.
+- **Дѣлаита въкоупѣ.** Дъва чловѣка дѣлаѭща ѥдино дѣло сѫть дроужьство. Ѥдинъ съмотрѧи инаго ѥстъ надъзоръ.
+- **Нє исправлꙗи.** Ащє гаикꙑ бѫдѫтъ въ инѣ чаши, остави тако. Важьно ѥстъ врѣмѧ вькоупѣ и чоутиѥ потрѣбьности.
+- **Помози начѧти.** Alzheimerʼs Association поминаѥтъ, ꙗко мънози ѥщє хотѧтъ дѣлати, нъ тѧжько имъ ѥстъ оустроити и начѧти. Сътворита пьрвоѥ вькоупѣ.
 
-## How do I adapt as things change?
+## Како приспособити дѣло, ѥгда врѣмѧ мѣнꙗѥтъ сѧ?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Ѥгда оумьноѥ ослаблєниѥ растєтъ, Alzheimerʼs Association съвѣтоуѥтъ прѣдълагати простѣиша и чѧсто повтарꙗѥма дѣла и бꙑти готовоу, да чловѣкъ приимєтъ тишии чинъ. Мѫжь ижє прѣждє строꙗше колесницѧ, нꙑнѣ може радовати сѧ дрьжѧ чистъ ключь и глаголѧ о колесницахъ, или съмотрѧ како тꙑ дѣлаѥши. Съмотрѣниѥ тожє ѥстъ оучѧстиѥ.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Ащє бѣ вєльми нарочитъ о чєсомь, съродьно дѣло може бꙑти лоучє нєжєли прѣжьнєѥ ѥго дѣло. Association поминаѥтъ, ꙗко нарочитъ творьць образъ може съмѫтити сѧ прѣмѣнами въ дѣлѣ своѥмь, а любитель може радовати сѧ новоу пѫти. Такожє и нарочитъ дрѣводѣлєць.
 
-## Safety with work-style tasks
+## Бєзбѣдьность при дѣлѣхъ подобьнꙑхъ работѣ
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Отъими силоваꙗ орѫдиꙗ, ножє, гвоздиѥ и острꙑ вєщи.
+- Съхрани въ затворѣ краскꙑ, масло и инꙑ вєщи.
+- Дрьжи ключє колесницѧ отъ очию, ащє оужє нє водитъ.
+- Бѫди близъ при вьсѣхъ дѣлѣхъ въ дѣлатєльници и въ дворѣ.
+- Избєри вєликꙑ чѧсти ꙗжє нєльѕѣ поглътити.
 
-## What if he says no?
+## Чьто ащє рєчєтъ «нє хощѫ»?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Почитаи то. «Нє» може рєщи, ꙗко дѣло ѥстъ тѧжько, ꙗко дѣтьско или просто нє подобьно дьньсь. Alzheimerʼs Association прѣдостєрєгаѥтъ нє ноудити. Покоуси сѧ съ инѣмь дѣломь, въ ино врѣмѧ или просто сѣдита вькоупѣ. Вижь [чьто творити, ѥгда рєчєтъ «нє»](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Игрꙑ и бєсѣдꙑ подобьнꙑ
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) оупотрѣблꙗѥтъ знаѥмꙑ рєчєния и въводитъ въ бєсѣдоу. [Conversation Cards](/games/conversation-cards/) иматъ отъкрꙑтꙑ въпросꙑ бєзъ искоушєния по видоу, и тѣмь могѫтъ отъкрꙑти сѧ повѣсти о дѣлѣ и о забавахъ. [Picture Puzzle](/games/picture-puzzle/) дрьжитъ вьсь образъ видимъ, ѥгда прѣмѣщаѥши чѧсти, а [Word Search](/games/word-search/) съ вєликꙑми боукъвами можетъ бꙑти пєчатанъ и дѣланъ съ тръстиѭ на тръпєзѣ. За пѫти бєсѣдовати о прѣшьдьшихъ бєзъ искоушєния вижь нашь [пѫть о памѧти](/activities/reminiscence/).

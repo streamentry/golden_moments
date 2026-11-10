@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Activitates per telephono e video pro dementia"
+seoTitle: "Activitates per appello video pro dementia"
+description: "Activitates per video e telephono pro familiares distante de un persona con dementia: monstrar cosas, leger in alte voce, cantar, jocos e consilios."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Le appellos con un persona vivente con dementia functiona melio quando illos
+  es curte, regular e basate sur qualcosa a facer insimul, como monstrar un
+  animal o un jardin, reguardar photos, leger in alte voce, cantar un canto
+  favorite o jocar un joco simple sur un schermo condividite. Si es possibile,
+  appella al mesme hora cata die, lassa parlar un sol persona al vice, e pete a
+  un persona sur loco de adjutar.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Un activitate da forma al appello e reduce le pression de conversar. Prepara un cosa simple a divider."
+  - "Appellos curte e regular al mesme hora del die sovente functiona melio que appellos longe e occasional."
+  - "Un sol persona parla al vice. Appellos de gruppo con plure voces insimul es difficile a sequer, specialmente con difficultates auditive."
+  - "Un persona sur loco pote preparar le apparato, seder juxta le persona, e esser le 'manos' pro un joco o un photo."
+  - "Si un appello non va ben hodie, fini lo con caliditate. Reprobar deman es in ordine."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Que pote io facer durante un appello video con un persona con dementia?"
+    a: "Prepara un activitate simple: monstra tu jardin, tu animal o tu cocina; reguarda vetere photos insimul; lege in alte voce un breve poema o un littera; canta un canto que le persona ama; coque le mesme recepta al mesme tempore; o joca un joco simple de imagines sur un schermo condividite. Le activitates da un foco al appello, assi le persona non debe sustener le conversation."
+  - q: "Quanto longe deberea esser un appello video?"
+    a: "Habitualmente plus curte que tu pensa. Alcun minutas calorose pote esser sufficiente, specialmente si le persona se fatiga rapidemente. Appellar regularmente al mesme hora del die pote importar plus que le duration de cata appello."
+  - q: "E si le persona se confunde o se altera con le appellos video?"
+    a: "Alcun personas trova confusive vider un facie sur un schermo. Proba un simple appello telephonic, un message video registrate que le persona sur loco pote monstrar in un momento calme, o cartas e photos per posta. Si un appello va mal, fini lo con gentilesse e reproba un altere die o a un altere hora."
+  - q: "Como pote io adjutar mi matre a facer un appello video si illa non pote usar le telephono?"
+    a: "Pete a un familiar, un assistente a domicilio o un membro del personal del centro de cura de initiar le appello e de tener o appoiar le apparato. Multe locos de cura adjuta le familias con appellos video, dunque demanda que illes offere. Un tabletta sur un supporto, con un grande schermo e un sono bastante forte, lo face plus facile pro totes."
+  - q: "Pote nos jocar un joco insimul per video?"
+    a: "Si. Le maniera plus facile es que un persona divide su schermo in le application de video, durante que le altere dice qual imagine toccar. O le persona sur loco pote aperir le mesme joco sur un tabletta e toccar pro le persona durante que tu parla con illa. Selige jocos sin chronometro e sin punctos."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Viver longe de un persona con dementia pote dar un sensation de impotentia. Le appellos telephonic e video non pote reimplaciar un imbraciamento, ma illos pote ancora apportar momentos real de connexion si tu los prepara ben. Le clave es cessar de tentar haber un conversation normal e, in vice, preparar qualcosa simple a divider. Iste pagina presenta activitates que functiona per video e telephono, como preparar le appello, e como le persona sur loco pote adjutar.
 
-## Why plan an activity for a call?
+## Proque preparar un activitate pro un appello?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Un activitate da forma al appello. "Como tu sta? Que ha tu facite hodie?" demanda al persona de recordar e reportar, lo que pote esser difficile e stressante. "Reguarda, le tomates es matur" non demanda nihil.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Le Alzheimer's Association nota que le conversationes con gruppos plus grande per video pote esser difficile, e suggere [adder structura al appello](https://www.alz.org/help-support/caregiving/holidays) con cosas como cantar cantos o divider imagines.
 
-## What activities work on a video call?
+## Qual activitates functiona in un appello video?
 
-### Show and tell
+### Monstrar e contar
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Porta tu mundo a ille. Move le camera lentemente circum tu jardin, presenta le can, monstra lo que tu coque, tene in alto un designo de un nepote, o puncta le telephono verso le fenestra pro monstrar le nive. Describe lo que tu vide con parolas simple e lassa pausas pro que le persona pote reagir. Nulle questiones es necessari.
 
-### Look at photos together
+### Reguardar photos insimul
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Tene un vetere photo imprimite davanti al camera, o divide tu schermo pro monstrar poc grande photos, un al vice. Parla de lo que tu nota: "Reguarda le cappello del avo." Evita "Qui es isto?" o "Te recorda tu?" Si le persona nomina alcuno incorrectemente, accepta lo. Vide nostre [guida al reminiscentia](/activities/reminiscence/) pro suggestiones gentil.
 
-### Read aloud
+### Leger in alte voce
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Lege un breve poema, un psalmo, un libro favorite pro infantes a un nepote durante le mesme appello, un littera de un familiar, o un pagina de un libro que le persona amava. Leger in alte voce offere al persona qualcosa calme a ascoltar, sin necessitate de responder.
 
-### Sing or listen to music together
+### Cantar o ascoltar musica insimul
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Canta un canto que le persona cognosce ben, o face ascoltar un registration favorite de tu latere. Cantar insimul es plus facile que parlar pro multe personas. Vide nostre [guida al activitates musical](/activities/music/).
 
-### Cook or bake at the same time
+### Coquer o cocer al mesme tempore
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Le Alzheimer's Association suggere de planificar un appello video pro coquer o cocer insimul un recepta special. Prepara le appello in ambe cocinas. Le persona sur loco pote miscer o gustar durante que tu seque su vetere carta de recepta.
 
-### Watch something together
+### Reguardar qualcosa insimul
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Le Association suggere etiam de reguardar un film favorite al mesme tempore in casas separate, durante que vos parla per telephono o video. Pro un persona con dementia, un curte fragmento, un vetere episodio de television o un partita pote functionar melio que un film complete.
 
-### Play a gentle game on a shared screen
+### Jocar un joco simple sur un schermo condividite
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Multe applicationes de appello video permitte divider tu schermo. Tu aperi le joco e tocca; le persona te dice o indica qual imagine seliger. O le persona sur loco aperi le mesme joco sur un tabletta e tocca pro le persona durante que vos conversa.
 
-Games that work well this way:
+Jocos que functiona ben de iste maniera:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** tu lege un expression familiar, le persona dice le fin, e un suggestion parlate seque.
+- **[Picture Pairs](/games/picture-pairs/):** un joco simple de association con grande imagines que pote restar visibile, sin chronometro e sin punctos.
+- **[Conversation Cards](/games/conversation-cards/):** un imagine e un suggestion aperte pro parlar insimul.
+- **[Photo Pairs](/games/photo-pairs/):** un joco de association facite con photos que tu selige sur tu proprie apparato. Le photos resta in tu navigator, e le persona los vide per tu schermo condividite.
 
-### Recorded messages
+### Messages registrate
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Quando le appellos in directo es difficile, registra un curte video: un salutation, un canto, un promenade circum tu jardin. Le persona sur loco pote reproducer lo in un momento calme, tante vices como le persona lo aprecia. Le Alzheimer's Association mentiona registrar e inviar momentos special, como infantes que aperi donos.
 
-## What about plain phone calls?
+## E le simple appellos telephonic?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Le appellos telephonic es ancora importante. Dementia Australia suggere [appellar al mesme hora cata die](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) e non hastar, pois personas con dementia pote haber besonio de tempore pro participar. Al telephono:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Dice tu nomine e tu relation immediatemente: "Salute, Papa, io es Jenny, tu filia."
+- Parla lentemente, in phrases curte, un idea al vice.
+- Da novas in loco de demandar los: "Heri io ha preparate tu recepta de rostito."
+- Lege un breve poema, o canta un stropha de un canto favorite.
+- Mantene lo curte e fini con un nota calorose.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia nota etiam que le appellos video pote adjutar quando parlar deveni plus difficile, pois le persona pote vider tu facie. Si le appellos telephonic deveni confuse, proba le video, o le contrario.
 
-## How do I set up a video call that works?
+## Como preparar un appello video que functiona ben?
 
-**Before the call:**
+**Ante le appello:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Selige un hora regular** quando le persona es habitualmente reposate, e mantene lo. Le routine adjuta.
+2. **Coordina con le persona sur loco.** Un message le die ante pote adjutar a planificar.
+3. **Verifica le apparato.** Un tabletta sur un supporto es plus facile que un telephono tenite in le mano. Assecura te que illo es cargate, que le schermo es clar, e que le sono es bastante forte. Activa le subtitulos si le application los offere e le persona lege ben.
+4. **Prepara un activitate** e habe toto preste.
 
-**During the call:**
+**Durante le appello:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sede presso del camera** con bon lumine, de fronte a un fenestra e non con le fenestra detra te.
+- **Presenta te** cata vice, con tu nomine e tu relation.
+- **Un sol voce al vice.** Le Alzheimer's Association nota que parlar al mesme tempore es difficile pro personas vivente con dementia e personas con difficultates auditive. Si plure familiares participa, parla per turnos o limita lo a duo o tres personas.
+- **Face un question al vice.** Le Family Caregiver Alliance suggere [questiones simple con responsas si o no](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), e monstrar optiones quando es possibile.
+- **Lassa longe pausas.** Attende un responsa. Es in ordine suggerer un parola si le persona cerca lo.
+- **Usa tu facie e tu voce.** Surride, inclina le capite e mantene un tono calorose. Le expression sovente dice plus que le parolas.
+- **Non corrige.** Si le persona dice qualcosa que non es accurate, lassa lo passar.
 
-**Ending the call:**
+**Finir le appello:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Fini ante que le persona se fatiga, idealmente in un bon momento.
+- Usa le mesme formula de adio cata vice: "Io te appellara deman al hora del prandio. Io te ama."
+- Non prolonga lo.
 
-## Tips for the helper on site
+## Consilios pro le persona sur loco
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Si tu es le conjuge, le assistente, un fratre o soror, o un membro del personal que adjuta con le appello, tu rende lo possibile.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Prepara un loco quiete.** Extingue le television e claude le porta.
+- **Initia tu mesme le appello,** postea da al persona un tabletta sur un supporto o tene lo al nivello del oculos.
+- **Sede juxta le persona, non davanti.** Tu presentia es confortante. Da un suggestion gentil si es necessari: "Reguarda, es Jenny."
+- **Sia le manos.** Tene photos, tocca le joco, gira le tabletta pro monstrar le camera.
+- **Observa signos de fatiga o malesser,** e informa le persona que appella quando es tempore de finir.
+- **Dice al persona que appella lo que ha functionate.** "A illa placeva multo le can" adjuta a preparar le proxime appello.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+Le NIA suggere que familiares distante pote adjutar un persona plus vetule a [apprender le functiones de su telephono](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), como le appellos video. In phases plus avantiate, le persona sur loco habitualmente debera manear le apparato completemente. Isto es in ordine.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Si le persona vive in un centro de cura, le Alzheimer's Foundation of America suggere de demandar si le loco adjuta le familias con appellos video. Le AFA mentiona etiam que familias pote inviar photos al personal e reciper los, e inviar snacks favorite o parve confortos, post verificar lo que le loco permitte.
 
-## What if the call doesn't go well?
+## E si le appello non va ben?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Alcun appellos essera confuse, poco vive o difficile. Isto non es tu culpa, e non significa que le appellos non vale le pena.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Si le persona sembla perplexe per le schermo, passa a un appello telephonic o a un message registrate.
+- Si le persona se altera, recognosce le sentimento, dice qualcosa rassicurante, e fini con gentilesse.
+- Si le appellos sovente va mal a un certe hora del die, proba un altere hora.
+- Si le persona pensa que tu es un altere persona, accepta lo con amabilitate.
 
-It is fine to end early. A short, warm call is a good outcome.
+Es in ordine finir plus tosto. Un appello curte e calorose es un bon resultato.
 
-## Between calls
+## Inter le appellos
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Resta presente in altere manieras. Dementia Australia suggere de inviar cartas, e-mail, photos o parve donos. Un carta postal cata septimana con un grande photo e un curte nota pote esser legite e relegite. Le [cartas de conversation](/games/conversation-cards/) imprimibile, inviate al persona sur loco, pote dar un thema preste pro le proxime appello.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Pro consilios sur como seliger e preparar un tabletta, vide [tablettas e schermos](/caregiving/tablets-and-screens/). Pro tempore in persona, vide nostre guida sur [visitas](/activities/visiting/).

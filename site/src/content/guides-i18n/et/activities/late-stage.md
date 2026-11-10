@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Tegevused dementsuse hilisstaadiumis, ka voodis või toolis"
+seoTitle: "Dementsuse hilisstaadium: tegevusi voodis ja toolis"
+description: "Rahulikud tegevused dementsuse hilisstaadiumis, ka voodis või toolis viibivale inimesele: muusika, puudutus, ette lugemine, helid ja koosolemine, turvanõuannetega."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Dementsuse hilisstaadiumis keskenduvad tegevused meeletele ja Teie
+  kohalolule: lemmikmuusika kuulamine, käest kinni hoidmine, aeglane
+  kätemassaaž, ette lugemine, fotode vaatamine, loodushääled ning akna juures
+  või õues istumine. Need sobivad ka voodis või toolis viibivale inimesele.
+  Hoidke tegevused lühikesed, jälgige näost ja kätest mugavuse märke ning
+  pidage meeles, et kohalolu on juba iseenesest tegevus.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Side on endiselt võimalik. Hilisstaadiumis kogetakse maailma peamiselt meelte kaudu."
+  - "Muusika, õrn puudutus, tuttavad hääled ja pehmed asjad, millest kinni hoida, jõuavad sageli inimesteni ka siis, kui sõnad enam ei ulatu."
+  - "Peaaegu kõik siin toodud ideed sobivad ka voodis või toolis viibivale inimesele."
+  - "Jälgige näost, kätest ja hingamisest mugavuse ja ebamugavuse märke ning lõpetage esimese ärevuse märgi korral."
+  - "Vältige väikseid esemeid ning pakkuge toitu või jooki ainult siis, kui hooldusmeeskond peab seda sobivaks, sest neelamine võib muutuda ohtlikuks."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Mida saab koos voodis viibiva dementsusega inimesega teha?"
+    a: "Mängige tema lemmikmuusikat, hoidke tal käest kinni, tehke kreemiga aeglast kätemassaaži, lugege ette raamatut või palvet, mida ta armastab, näidake fotosid või laske kuulata rahulikke loodushääli. Avage kardinad, et ta saaks välja vaadata. Tavaliselt sobivad kõige paremini lühikesed ja rahulikud hetked, kus korraga on keskendutud ühele asjale."
+  - q: "Kas dementsuse hilisstaadiumis inimesed saavad muusikast veel rõõmu tunda?"
+    a: "Paljud saavad. Alzheimer’s Association märgib, et ka hilisstaadiumis võib inimene suuta rütmi kaasa toksida või lapsepõlvelaulu kaasa laulda. Valige muusika, mida ta nooremana armastas, ja hoidke heli vaiksel tasemel."
+  - q: "Kuidas ma tean, kas tegevus talle meeldib?"
+    a: "Pöörake tähelepanu väikestele märkidele: lõdvestunud õlad, rahulikum näoilme, silmside, ümin, käe pigistamine või aeglasem hingamine. Grimass, eemale tõmbumine, rahutus või oigamine võivad viidata ebamugavusele või valule. Kui märkate neid, lõpetage tegevus ja rääkige hooldusmeeskonnaga, kui need jätkuvad."
+  - q: "Kas külastamine on ikka mõttekas, kui ta mind enam ära ei tunne?"
+    a: "Jah. National Institute on Aging märgib, et lihtsalt kohalolu võib rahustavalt mõjuda ning et puudutus, muusika ja lood võivad ka kaugelearenenud dementsuse korral lohutust pakkuda. Teie hääl ja puudutus võivad olla tuttavad ka siis, kui Teie nimi enam ei ole."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Dementsuse hilisstaadiumis võib inimene rääkida väga vähe, vajada igapäevases hoolduses igakülgset abi ning veeta suure osa päevast voodis või toolis. Võib tunduda, nagu poleks enam midagi, mida koos teha. Tegelikult on. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) märgib, et inimese minapildist võib osa alles jääda ning et selles staadiumis kogetakse maailma peamiselt meelte kaudu. Muusika, puudutus, tuttav hääl ja Teie rahulik kohalolu võivad endiselt pakkuda lohutust ning hetki, mil tunnete sidet.
 
-## What activities help in late-stage dementia?
+## Millised tegevused on dementsuse hilisstaadiumis abiks?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Hilisstaadiumis sobivad kõige paremini lihtsad meeletegevused ja rahulik koosolemine. Alzheimer’s Association soovitab mängida lemmikmuusikat, lugeda ette katkendeid tähenduslikest raamatutest, masseerida nahka lemmiklõhnaga kreemiga ning istuda koos ilusal päeval õues. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) lisab lugude rääkimise, fotode näitamise, õrna puudutuse või massaaži ning muusika, valge müra või loodushäälte kuulamise. Samuti märgitakse, et juba Teie kohalolu võib rahustavalt mõjuda.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) toob esile, et hilisstaadiumis inimestel on sageli tugev vajadus hoida lohutuseks midagi enda lähedal. Abiks võivad olla lihtsad meeletegevused, õrnad venitused, salliga liigutamine, muusika, loomade külastused, inimlik puudutus ja vaba vormiga kunstitegevus.
 
-## Activities for someone in bed or a chair
+## Tegevused voodis või toolis viibivale inimesele
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Mängige tema muusikat.** Valige laulud tema noorusest, usuelust või perekonna ajast. Hoidke heli vaiksel tasemel ja istuge lähedal. Mõni inimene toksib ka praegu sõrmega või ümiseb. Vaadake ka [muusikaga seotud tegevusi](/activities/music/).
+2. **Hoidke käest kinni.** Lihtsalt käest kinni hoidmine ja õrn pöidlaga silitamine on samuti tegevus. Öelge enne, mida teete.
+3. **Tehke aeglast kätemassaaži.** Soojendage peopesades natuke kreemi ja silitage randmest sõrmeotsteni. Valige lõhnatu kreem või lõhn, mida inimene on alati armastanud, kui tema nahk seda talub.
+4. **Lugege ette.** Lemmikluuletus, katkend armastatud raamatust, palve või spordiuudised. Teie hääle rütm on tähtsam kui sõnad.
+5. **Rääkige loost.** Rääkige perekonna reisist või päevast, mil ta abiellus. Vastuseid ei pea tulema.
+6. **Näidake fotosid.** Hoidke korraga ühte suurt fotot silmade kõrgusel ja kirjeldage seda soojalt. Vältige küsimust, kes fotol on.
+7. **Pakkuge midagi pehmet, millest kinni hoida.** Kokkuvolditud pesulapp, fliisist tükk või pehme loom. NIA soovitab anda inimesele liigutamise ajaks pesulapi, et tal oleks millest kinni hoida ja ta haaraks tõenäolisemalt mitte Teist ega mööblit.
+8. **Laske kuulata loodushääli.** Vihm, lained või linnulaul madalal helitugevusel võivad lärmakat ruumi pehmendada.
+9. **Tooge õueilu tuppa.** Avage kardinad, pange akna taha linnusöötja või tooge tuppa paar värsket lille või lehte, mida vaadata ja puudutada.
+10. **Minge õue.** Kui inimene saab ratastoolis istuda, võivad mõned minutid pehmel päeval varjus mõjuda väga hästi.
+11. **Kammige juukseid või pakkuge sooja lappi.** Aeglane ja õrn hoolitsus ning soe pesulapp kätele ja näole võivad tunda end hoolivalt.
+12. **Liigutage end muusika saatel õrnalt.** Lehvitage koos kerge salliga või liigutage käsi laulu rütmis. Venituste ja liigeseliigutuste jaoks paluge füsioterapeudil või õel kõigepealt turvalised viisid ette näidata.
+13. **Tehke vabas vormis kunsti.** Kandke mürgitu värv suurele paberile käsna või käega, juhatades seda oma käega. Õiget tulemust ei ole.
+14. **Lubage loomade külastusi.** Rahulik lemmikloom voodis või süles võib sobida, kui inimene on loomadest alati lugu pidanud ja keskkond seda võimaldab.
+15. **Hingake koos aeglaselt.** Istuge lähedal ja hingake aeglaselt ning kuuldavalt. [Rahulik hingamine](/games/calm-breathing/) võib teile mõlemale rütmi anda ning saate selle ise alustada ja lõpetada.
+16. **Lihtsalt olge kohal.** Istuge läheduses, ümisege, kuduge või lugege vaikselt. Kohalolu on piisav.
 
-## How to share an activity at this stage
+## Kuidas selles staadiumis tegevust jagada
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Lähenge eestpoolt.** Öelge tema nimi ja oma nimi ning rääkige aeglaselt ja vaikselt, enne kui puudutate.
+- **Pakkuge korraga ühte asja.** Lülitage muusika mängimiseks teler välja. Tehke korraga üht asja.
+- **Hoidke tegevus lühike.** Mõni minut võib olla täiesti piisav. Mitu lühikest hetke päeva jooksul sobivad paremini kui üks pikk tegevus.
+- **Tehke esmalt mugavaks.** Veenduge, et inimene on hästi toetatud. NIA soovitab istudes käte toetamiseks ja ülakeha hoidmiseks sülearvuti alust või sarnast tuge.
+- **Jälgige reageeringut.** Lõdvestunud käed, rahulikum näoilme, silmside või ümin viitavad mugavusele. NIA märgib, et oigamine, grimassitamine, kehaosa kaitsmine või äkiline rahutus võivad olla valu märgid. Lõpetage tegevus ja rääkige hooldusmeeskonnaga.
 
-## A quick guide by sense
+## Kiire ülevaade meelte kaupa
 
-| Sense | Ideas | Take care |
+| Meel | Ideed | Olge tähelepanelik |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Kuulmine | Lemmikmuusika, Teie hääl ettelugemisel, loodushääled | Hoidke heli vaiksel tasemel; korraga üks heli |
+| Kompimine | Kätemassaaž, käest kinni hoidmine, pehme kangas, soe lapp | Küsige või teatage enne; kontrollige, et nahk ei oleks valus ega vigastatud |
+| Nägemine | Fotod, lilled, vaade aknast, aeglane loodusvideo | Hoidke asju silmade kõrgusel; tagage hea valgus ilma pimestuseta |
+| Haistmine | Lemmikkreem, värsked lilled, läheduses valmiv kohv | Vältige tugevaid lõhnu; arvestage allergiate ja hingamisega |
+| Maitse | Väike maitsetükk lemmikmaitsest | Pakkuge ainult sellist toitu ja tekstuure, mida hooldusmeeskond peab ohutuks |
 
-## Safety at this stage
+## Ohutus selles staadiumis
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Hilisstaadiumis võib neelamine muutuda raskeks ning NIA hoiatab, et see suurendab lämbumisriski. Ärge jätke väikseid esemeid käeulatusse ning pakkuge toitu või jooki ainult hooldusmeeskonna soovitatud tekstuuride ja asenditega. Puudutustegevuste ajal kontrollige nahka õrnalt, sest nahk võib kergesti vigastuda või sinikaks minna. Turvalisemate meeletegevuste kohta leiate rohkem teavet lehelt [meeletegevused](/activities/sensory/).
 
-## Looking after yourself too
+## Hoolitsege ka enda eest
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Dementsusega inimese hooldamine hilisstaadiumis on füüsiliselt ja emotsionaalselt nõudlik, olgu see siis kodus või külastustel hooldekodus. Hooldus- ja leevendusravi meeskonnad võivad aidata mugavuse, toe ja planeerimisega ning NIA nimetab neid abiallikana. Lühikesed ja rahulikud külastused on väärtuslikud; vaadake ka lehte [dementsusega inimese külastamine](/activities/visiting/). Kui juhite rühmi, leiate lehelt [rühmategevused hooldekodus](/activities/care-home-groups/) ideid tegevuste kohandamiseks. Palun lugege ka lehte [hooldaja enesehool](/caregiving/caregiver-self-care/): puhkus on osa heast hoolest.

@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Obbraghyn Feyshtagh da Sleih lesh Meenaghtys Cooinaghtyn"
+seoTitle: "Obbraghyn Feyshtagh: Earrooyn as Sauçhys"
+description: "Obbraghyn feyshtagh da sleih ta beaghey lesh meenaghtys cooinaghtyn, veih massaghey laue gys baskadyn eaddeeyn, lesh noteyn sauçhys mychione plooid, alergaghyn as soar."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Ta obbraghyn feyshtagh gymmydey bentyn, soar, blashtyn, sheean as fakin: massaghey
+  laue dy moal, baskad dy eaddeeyn boggey, lossreeyn noa dy hoaral, sheeanyn
+  dooghys, ny jeeaghyn er eeanlee ec uinnag. T’ad cooie son dagh cheim as
+  feer ymmydoil ny s’anmey. Jeeagh ro-laue son gaueyn plooid, alergaghyn,
+  feyshtyn crackan as soar ro-lajer, cur un red ec y traa, as scuirr my ta’n
+  persoon jeeaghyn neu-ouryssagh.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Cha nel feme ec obbraghyn feyshtagh er freggyrtyn kiart, myr shen t’ad gobbraghey ec dagh cheim, eer ayns lhiabbee ny caair."
+  - "Cur un cheayll ec y traa ayns shamyr çhiu, as briaght ny cur raaue roish bentyn."
+  - "Shaghney reddyn beggey as red erbee ta jeeaghyn ny soaral gollrish bee agh nagh vel, er fa dy vod sleih cur reddyn ayns nyn meeal."
+  - "Jeeagh son alergaghyn, feyshtyn crackan as feyshtyn ennal roish gymmydey oyllyn, soar ny bee."
+  - "Cha nel feanish niartal ayn dy vel aromatherapy cooney lesh cowraghyn meenaghtys cooinaghtyn; jean ymmyd jeh soar, my t’ou, son taitnys aashagh ny lomarcan."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Cre ny obbraghyn feyshtagh ta mie da peiagh ta beaghey lesh meenaghtys cooinaghtyn?"
+    a: "Ta eieyn aashagh goaill stiagh massaghey laue dy moal lesh oyl, laueyn er eaddeeyn boggey, soaral lossreeyn noa ny coffey, geaishtagh rish kiaull ny sheeanyn dooghys by vie lhieu, jeeaghyn er eeanlee ny tank eeast, as blashtyn bee by vie lhieu ayns textyr sauçhey. Cur un red ec y traa as jeeagh kys ta’n persoon freggyrt."
+  - q: "Vel obbraghyn feyshtagh sauçhey da peiagh ta cur reddyn ayns e veeal?"
+    a: "Foddee ad ve, lesh kiarail. Jean ymmyd jeh reddyn mooarey ny lomarcan nagh vod ve sloggit, lhig shaghey red erbee beg ny brishey, as freill oyllyn, soap as stooghyn lesh soar ass roshtyn ny lurg, er fa dy vod ad jeeaghyn ny soaral gollrish bee. Fuirree marish y persoon traa y chooid."
+  - q: "Vel aromatherapy cooney lesh meenaghtys cooinaghtyn?"
+    a: "Hooar aaraase Cochrane nagh row feanish niartal ayn dy vel aromatherapy cooney lesh sleih ta beaghey lesh meenaghtys cooinaghtyn, ga dy row ny stooideryn beggey as neu-chorrym. My ta’n persoon goaill taitnys ayns soar meen, ennagh, ta shen mie dy liooar, agh shaghney oyllyn essensey lajer, er-lheh my ta feyshtyn ennal ny alergaghyn ayn."
+  - q: "Cre ta apron ny brellee obbree fidget?"
+    a: "She piece eaddee, apron ny brellee lhoob t’ayn lesh reddyn dy laueyn er whaaley dy shickyr er, myr sampleyr crammanyn mooarey, zipyn, ribbaneyn as patchyn lesh textyr. T’eh cur red ennagh da laueyn imneagh dy ronsaghey. Jeeagh er dy mennick son red erbee faasey oddagh ve tayrnit jeh."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Ta obbraghyn feyshtagh gymmydey ny queig cheayllyn: bentyn, soar, blashtyn, sheean as fakin. Cha nel feme oc er cooinaghtyn, er keimyn ny er freggyrtyn kiart, myr shen foddee ad gobbraghey ec dagh cheim. T’ad smoo scanshoil ny s’anmey. Ta’n [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) gra dy vel y theihll er ny h-ennaghtyn ayns y cheim s’jerree er bun ny cheayllyn, as dy vod oo soilshaghey kiarail trooid bentyn, sheean, fakin, blashtyn as soar. Ta kuse dy ronsaghtyn sauçhys jannoo ny h-obbraghyn shoh ny s’feayree da dagh peiagh.
 
-## What are sensory activities for dementia?
+## Cre ta obbraghyn feyshtagh da meenaghtys cooinaghtyn?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+She eiraghtyn aashagh ta ayns obbraghyn feyshtagh er un cheayll ec y traa, myr sampleyr feddyn eaddee, soaral lossreeyn ny geaishtagh rish fliaghey. Ta’n [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) gra dy lhisagh obbraghyn ayns ny keimyn s’anmey bentyn rish ny cheayllyn, as t’eh enmys kiaull, reddyn dy ventyn as dy laueyn, as massaghey laue. Ta’n [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) gra dy vod feme lajer ve ec sleih ayns y cheim s’jerree dy chummal red ennagh faggys er son gerjagh.
 
-## Sensory ideas, sense by sense
+## Earrooyn feyshtagh, rere dagh cheayll
 
-### Touch
+### Bentyn
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Massaghey laue.** Jean oyl beg dy çhiow ayns dty laueyn as stroie dy moal veih y roostey gys barraghyn ny meoiryn. Ta’n [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) enmys massaghey lesh oyl gyn soar son gerjagh.
+- **Baskad eaddeeyn.** Peeshyn mooarey dy velvet, corduroy, fleece, satin as ollan dy stroie, dy hilgey as dy loayrt mychione.
+- **Clout çhiow.** Clout çhiow, fliugh da ny laueyn er laa feayr. Prowal y çhiow er dty roostey hene hoshiaght.
+- **Apron ny brellee obbree.** Crammanyn mooarey, zipyn, ribbaneyn as patchyn lesh textyr whaaley dy shickyr er.
+- **Filley as meeley.** Baskad dy chloutyn glen ny naapkyn dy hilgey, dy chruinnaghey as dy hilgey reesht.
+- **Red bog dy chummal.** Brellee fleece, clooisag ny baagh bog rea-oayllagh, er ny choyrt dy aashagh, cha nee myr gaih.
 
-### Smell
+### Soar
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Lossreeyn noa.** Rub meaynt, rosemary, basil ny duillagyn lavender eddyr dty veoiryn as cur ad harrish.
+- **Soaryn coggyl.** Coffey goll er jannoo, arran goll er roastey, cinnamon ny oraange goll er rassey er-gerrey.
+- **Blaaghyn.** Cur stiagh kuse dy vlaaghyn noa veih’n gharey ny veih’n siop.
+- **Stoogh ennagh.** Yn soap ny oyl v’ad cliaghtey dy kinjagh, my ta’n crackan oc cur lesh eh.
 
-### Taste
+### Blashtyn
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Blashtyn by vie lhieu.** Spoyn veg jeh red ennagh s’gooidsave lhieu, myr sampleyr sauce ooyl, pudding ny ice cream, ayns textyr oddys ad dy sauçhey.
+- **Cooney lesh fuinney.** Blashtyn mess ny icing beg choud’s t’ou fuinney cooidjagh.
+- **Taitnysyn imbagh.** Watermelon ayns y tourey, cider çhiow ayns y fouyr, er ny chur ec çhiow sauçhey.
 
-### Sound
+### Sheean
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Kiaull by vie lhieu.** Arraneyn ennagh ec ard-voull meen; jeeagh [obbraghyn kiaullee](/activities/music/).
+- **Sheeanyn dooghys.** Fliaghey, tonnyn ny kiaull eeanlee. Ta’n NIA gra dy vel kiaull, feeyn gial as sheeanyn dooghys jeeaghyn dy chur fea er kuse dy leih.
+- **Dty choraa.** Lhaih magh, humming, ny insh skeeal.
+- **Greienyn-kiaullee aashagh.** Drum laue, shaker ny cling dy chloie marish kiaull.
 
-### Sight
+### Fakin
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Jeeaghyn ass y uinnag.** Bee er-eeanlee çheu-mooie jeh’n uinnag, paitçhyn shooyl thie, ny sniaghtey tuittym.
+- **Tank eeast ny feeshan moal.** Gleashaghey meen gyn sheean ard.
+- **Jallooyn mooarey.** Un jalloo cronnal ec y traa, er ny chummal ec leval ny sooillyn.
+- **Daah as patrane.** Sortal peeshyn eaddee sollys, blaaghyn ny naapkyn daahit, ny duillag daahit aashagh veih’n rheynn ain [daah](/games/coloring/).
+- **Cheu-mooie.** Ta’n NHS cur roish gareydyn feyshtagh lesh lossreeyn soaral, textyryn as feddanyn ushtey. Jeeagh [obbraghyn cheu-mooie as garey](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Kys dy yannoo kishtey feyshtagh
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Reih cooish** bentyn rish bea yn phersoon: y traie, y garey, y choggyl, y wurshey-obbee, whaaley.
+2. **Reih queig ny shey reddyn mooarey, sauçhey,** myr sampleyr bleaystan mooar, spoyn fuygh, scarrey bog, poagey beg dy lavender chirrym whaaley jeigh, ny block fuygh meein.
+3. **Jeeagh er dagh nhee** son peeshyn beggey, oirr ghiare, snaieyn faasey as red erbee oddagh brishey.
+4. **Cur magh un nhee ec y traa.** Cur eh daue, cur coontey jeh, as lhig da’n persoon ronsaghey.
+5. **Cur y kishtey ersooyl ny lurg** dy ve er-lheh as dy bee dagh nhee er ny ronsaghey reesht roish y cheayrt elley.
 
-## Safety first
+## Sauçhys hoshiaght
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Ta obbraghyn feyshtagh meen, agh ta kuse dy ghaueyn scanshoil. Ta paart dy leih ta beaghey lesh meenaghtys cooinaghtyn smooinaghtyn dy vel reddyn nagh vel bee ry ee, as foddee sloggey gaase ny s’doillee harrish traa; ta’n NIA cur raaue dy vel feyshtyn sloggee ayns y cheim s’jerree cur rish y ghaue dy phlooid.
 
-| Risk | What to do |
+| Gaue | Cre dy yannoo |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Plooid | Jean ymmyd jeh reddyn ny lomarcan ta ro vooar dy ve sloggit. Cha nel crammanyn, beidyn, cooiney, merbilyn ny gaihyn beggey faasey ayns kishtey. Cur bee ny lomarcan ayns textyryn ta’n skimmee kiarail gra dy vel sauçhey. |
+| Reddyn ta jeeaghyn gollrish bee | Ta’n NIA coyrlaghey dy ghlase stiagh oyllyn, soap, shampoo as soar-crauee, oddagh jeeaghyn ny soaral gollrish bee, as dy ghoaill ersooyl mess artifishal. Cur stooghyn feyshtagh ersooyl lurg ymmyd. |
+| Alergaghyn | Jeeagh son alergaghyn da croo, latex, ollan, lossreeyn ny soaraghyn roish toshiaght. |
+| Soaryn lajer | Shaghney soaraghyn lajer as oyllyn essensey, er-lheh my ta asthma ny feyshtyn ennal elley ayn. Ta soaraghyn meen, dooghyssagh ny s’sauçhey. |
+| Crackan | Jeeagh son crackan soar, brisht ny moal roish massaghey. Jean ymmyd jeh trimmid meen as scuirr my t’ad çhingey. |
+| Çhiow | Prowal cloutyn as joughyn çhiow er dty roostey hene hoshiaght. |
+| Reddyn giar ny nieunagh | Cha nel greienyn giar, glonney ny stoo crauee nieunagh. |
 
-## Does aromatherapy help?
+## Vel aromatherapy cooney?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Foddee nagh vel, ayns aght erbee oddys ve towshit. Ren [aaraase Cochrane jeh aromatherapy son meenaghtys cooinaghtyn](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) jeeaghyn er 13 stooideryn lesh 708 dy leih, ooilley ayns thieyn kiarail, as cha dooar eh feanish niartal dy vondeish. Va ny stooideryn beggey, va ny eiyrtyssyn anchasley, as cha row drogh-eiyrtyssyn er nyn goontey dy mie. My ta’n persoon goaill taitnys ayns soar meen, ennagh, myr sampleyr lavender veih’n gharey, ta shen oyr vie dy rheynn eh. Cha nee lheeys t’ayn.
 
-## How to offer a sensory activity
+## Kys dy chur obbyr feyshtagh roish
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Reih traa çhiu** as cur y çhellveeish er nyn doshiaght.
+- **Tar er y hoshiaght,** enmys ad, as briaght ny cur raaue roish bentyn: «Ta oyl beg aym. Jean oo geearree rub laue?»
+- **Cur un red ec y traa** nagh bee eh ro vooar.
+- **Jeeagh er y vreggyrt.** Ta eddin ny s’meein, laueyn feayr ny smiley cowraghyn mie. Ta tayrtyn ersooyl, cronnaghey ny mee-hurrys cowrey dy scuirr.
+- **Cum eh giare.** Ta queig minnidyn çhiu ny cooid mie.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Foddee pause ennal moal ry-cheilley, myr [ennal çhiu](/games/calm-breathing/), ve aght meen dy chur jerrey er. Son tooilley eieyn ry lhiattee lhiabbee, jeeagh [obbraghyn son y cheim s’jerree](/activities/late-stage/), as son mee-ourys ’syn astyr, jeeagh [mee-hurrys fastyr beg](/caregiving/late-day-restlessness/).

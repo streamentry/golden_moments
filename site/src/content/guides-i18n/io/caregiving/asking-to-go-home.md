@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Kande persono kun dementeso volas irar heme"
+seoTitle: "Dementeso: volo irar heme, quon dicar"
+description: "Pro quo persono vivanta kun dementeso ofte demandas irar heme, quon dicar, kalmiga agadi por probar, e quale sekurigar lu se lu provas forirar."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Kande persono kun dementeso ofte demandas irar heme, «heme» ofte signifikas
+  sento di sekureso o loko de la pasinto, ne konstrukturo. Ne disputez ke lu
+  esas heme. Agnoskez la sento, trankuiligez lu ke lu esas sekura, questionez
+  pri heme, e pose pasizez dolce a fotografuri, muziko, manjajo, promenado o
+  simpla tasko. Kontrolez hungro, dursto, bezono di tualeto o doloro. Se to
+  komencas subite, telefonez a lua mediko.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Me volas irar heme» ofte signifikas «Me ne sentas me sekura o trankuila», ne demando pri adreso."
+  - "Disputar o pruvar ke lu esas heme ordinare plubadigas la chagreno. Respondez a la sento vice."
+  - "Pregez lu naracar pri heme, pose ofrez fotografuri, muziko, manjajo, promenado o simpla tasko."
+  - "Kontrolez se existas ulo korektebla: hungro, dursto, bezono di tualeto, doloro, tro varma o tro kolda, bruiso, fatigo."
+  - "Se to eventas omna tarda posdimezo, to forsan esas vesperala malquieteso; stabila rutino e bona lumo povas helpar."
+  - "Planizez por sekureso se lu provas forirar, e telefonez a lua mediko pri omna subita chanjo."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Pro quo mea matro kun dementeso ofte demandas irar heme kande el esas heme?"
+    a: "Dementeso povas igar familiara chambri semblar stranja, e personi kelkafoye sentas ke li esas en plu frua periodo di lia vivo. «Heme» povas signifikar puerala domo o simple la sento di sekureso e komforto. Respondar a ta sento ordinare funcionas plu bone kam indikar ube el esas."
+  - q: "Quon me devas dicar kande lu demandas irar heme?"
+    a: "Probez dicar «Vu esas sekura hike, e me restos kun vu», pose «Naracez a me pri vua hemo». Askoltez, montrez fotografuro o kansono, e ofrez drinkajo o kurta promenado. Evitez dicar «Vu esas heme» kom korekto, nam to povas igar lu sentar ke lu eroras."
+  - q: "Ka esas aceptinda dicar ke ni iros heme pose?"
+    a: "Familii e organizuri pri dementeso diferas pri to. Multi komencas per honesta komfortigo e dolca chanjo di atento, e rezervas ne-tote-vera respondo por momenti kande la verajo nur kauzus chagreno quan la persono ne povas superar. Irge quon vu selektas, esez afabla e konsequanta, e nultempe mokez lua sento pri realeso."
+  - q: "Quon facar se lu provas forirar de la domo?"
+    a: "Restez kalma e promenez kun lu vice blokus lu; kurta promenado ofte kalmigas la deziro. Preparez sekureso-mezuri ante, exemple identeso-braceleto, pordo-sonili e recenta fotografuro. Se lu desaparas, komencez serchar quik, e vokez 112 se vu ne trovis lu pos 15 minuti, dicante ke la persono havas dementeso."
+  - q: "Kande me devas telefonar a mediko?"
+    a: "Telefonez a lua mediko balde se la demandado o konfuzo komencas subite o plubadijas multe dum hori o dii, precipue kun febro, nova medikamento o signi di urin-voyala infekto. Subita konfuzo povas esar deliro, qua bezonas urjanta sorgo. Vokez 112 se ulu esas en danjero."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Me volas irar heme.» Por multa familii, to esas un ek la maxim desfacila frazi por audar, precipue kande la persono quan vu sorgas sidas en lua propra salono. To esas ofta, to povas eventar en irga stadio di dementeso, e existas kalma, praktikal manieri por respondar. Ca pagino explikas quon la vorti ofte signifikas, quon dicar, agadi qui povas helpar en la momento, e quale restar sekura.
 
-## Why does someone with dementia keep asking to go home?
+## Pro quo persono kun dementeso ofte demandas irar heme?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Ordinare, «heme» esas plu sento kam loko. La Alzheimer's Society deskriptas ol kom sento di komforto e sekureso, o kom hemo de la pasinto, plu kam la domo ipsa. Dementeso povas igar familiara chambri aspektar stranja, e persono povas sentar ke lu vivas en plu frua periodo di sua vivo, kande «heme» esis puerala domo o la loko ube lu edukis sua infanti.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+La vorti anke povas esar signo ke altrulo ne funcionas bone nun: lu esas hungroza, durstanta, bezonas irar a la tualeto, havas doloro, sentas tro varma o tro kolda, esas fatigita, sola, timanta, o superchargita da bruiso. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) listigas doloro, bruiso, soleso, chanji en rutino e medikamenti inter la kauzi di agitizo.
 
-## What should I say when they ask to go home?
+## Quon me devas dicar kande lu demandas irar heme?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Respondez a la sento, ne a la vorti. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) konsilas ne probar konvinkar la persono ke lu eroras: lua senti esas reala, do respondez unesme per komforto e trankuiligo, e pose dolce chanjez l'atento.
 
-Phrases that often help:
+Frazi qui ofte helpas:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Nomizez la sento.** «Semblas ke vu nostalgias heme.»
+- **Trankuiligez.** «Vu esas sekura hike, e me restos kun vu.» La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) sugestas la simpla vorti «Vu esas sekura hike.»
+- **Invitez memoraji.** «Naracez a me pri vua hemo. Quala esis vua koqueyo?» Questionar pri la distanta pasinto ordinare esas plu komfortoza kam questionar pri cadia dio.
+- **Ofrez facar ulo kune.** «Ni drinkez taso di teo unesme», o «Ka vu volas helpar me kun ca mantili?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Varma tono e manuo sur la brakio, se lu prizas kontakto, povas dicar plu kam la vorti.
 
-## What should I avoid?
+## Quon me devas evitar?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Disputar o explikar.** «Vu vivas hike nun» o «To esas vua hemo depos 40 yari» postulas ke lu aceptas ulo quan dementeso facas desfacila aceptar, e to povas semblar kom dicar ke lu eroras.
+- **Questionadar.** «Ka vu ne memoras?» o «Qua esas l'adreso?» adjuntas preso.
+- **Blokusar la pordo kun iraco.** Se lu iras vers l'exiro, restez kalma e promenez kun lu. Kurta promenado kune ofte kalmigas la deziro.
+- **Hastar.** Lasuz lu tempo por parolar pri heme ante ke vu chanjas la temo.
 
-## Activities that can help in the moment
+## Agadi qui povas helpar en la momento
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Pos agnoskar la sento, kalma e familiara agado povas chanjar l'atento sen ignorar ol.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Regardez fotografuri pri hemo e familio.** Turnez la pagini e facez komenti («Regardez ta gardeno») vice pozar questioni. Sur telefonilo o tableto, [Pari di fotografuri](/games/photo-pairs/) transformas vua propra familiala fotografuri en dolca ludo di parigo, e la fotografuri restas en vua aparato.
+2. **Parolez pri heme.** [Konverso-karti](/games/conversation-cards/) ofras apertita temi pri domi, koqueyi, vicini e festi, sen justa respondi.
+3. **Pleez muziko quan lu amas.** La National Institute on Aging listigas kalmiga muziko inter la manieri por kalmigar agitizo. Videz nia [muzikala agadi](/activities/music/).
+4. **Donez manjajo o drinkajo.** Hungro e dursto povas aspektar kom malquieteso. Taso di teo o favorata manjajo anke esas mikra ritualo di esar heme.
+5. **Irez promenar o sidez extere.** Movo e diala lumo helpas, precipue plu frue en la dio.
+6. **Donez familiara tasko.** Faldar lavuro, ordinar kultelaro o aquizar planti povas ridonar la sento di sorgar pri hemo.
+7. **Plulenigez omno.** Extingez la televizilo, diminutez bruiso e tro forta lumo, e probez komuna pauzo di [kalma respiro](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Se un ideo ne funcionas, probez altra plu tarde. Sidadar trankile kune anke esas bona rezulto.
 
-## Check for a cause you can fix
+## Kontrolez kauzo quan vu povas korektigar
 
-| Check | What to try |
+| Kontrolez | Quon probar |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Hungro o dursto | Ofrez drinkajo e mikra manjajo |
+| Bezono di tualeto | Ofrez vizito a la tualeto, kalme e sen bruiso |
+| Doloro o malkomforto | Serchez signi quale grimaco, tenar parto di la korpo o konstipeso, e informez lua mediko |
+| Tro varma o tro kolda | Ajustez vesto o la chambro-temperaturo |
+| Bruiso o tro multa personi | Irez a plu trankuila chambro, extingez la televizilo |
+| Fatigo o tro multa stimulo | Ripozez, diminutez la lumo, pleez dolca muziko |
+| Tarda posdimezo | Videz la sekciono pri vesperala malquieteso infre |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+La Alzheimer's Society sugestas tenar kurta registro pri kande la demandado eventas, exemple ante manji, pos vizitanti, o krepuskle. Skemi helpas planizar plu bone.
 
-## Is it okay to tell a white lie?
+## Ka esas aceptinda dicar ne-tote-vera kozo?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+To esas reala questiono, e afabla familii venas a diferanta decidi. La Alzheimer's Society dicas ke ne existas un sola justa respondo: ne-veraji povas igar kelka personi plu suspektema, do decidez segun la maxim bona intereso di la persono e esez konsequanta. En la Penn Memory Center, la vidpunto di la ko-direktoro esas ke la verajo esas la normal afero, e dolca ne-verajo esas aceptinda nur kande la persono ne povas traktar certa verajo, e ke vu nultempe devas mokar lua realeso.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Multa sorganti trovas meza voyo qua funcionas: honesta komfortigo e dolca chanjo di atento unesme («Ni restos hike cadianokte, e me esas hike kun vu»), sen disputar pri ube esas «heme».
 
-## What if it happens every afternoon or evening?
+## Quon facar se to eventas omna posdimezo o vespero?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Malquieteso qua komencas o plubadijas en la tarda posdimezo ofte nomizesas vesperala malquieteso (sundowning). La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) sugestas stabila horaro, diala sunlumo e agado, min multa tarda dormeti, e nula kafeino o alkoholo tarde en la dio. Acendar la lumi ante krepuskulo anke povas helpar. Nia guidilo pri [kalma agadi por tarda posdimezo](/caregiving/late-day-restlessness/) havas plu multa informo.
 
-## Keeping them safe if they try to leave
+## Sekurigar lu se lu provas forirar
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Demandar irar heme povas duktar a vagado. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) kalkulas ke sis ek dek personi vivanta kun dementeso vagos adminime unfoye.
 
-**Prepare ahead:**
+**Preparez ante:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Identeso- o medikal braceleto kun lua nomo e vua telefon-numero, e etiketi en lua vesti. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mencionas la programo MedicAlert e Alzheimer's Association Safe and Found, qui povas kustar pekunio.
+- Pordo-sonilo o alarmilo, e seruri pozita alte o base. Nultempe klefez la persono sola interne.
+- Recenta proxim fotografuro, e listo di loki ube lu povus irar, exemple antea hemo o laboreyo.
+- Informez fidinda vicini, e donez a li vua telefon-numero.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Se lu desaparas:** komencez serchar quik; la Alzheimer's Association notas ke multa personi trovesas en cirkum 1,5 milii. Se vu ne trovis lu pos 15 minuti, vokez 112 e dicez ke la persono havas dementeso. Vokez 112 quik se ulu esas en danjero.
 
-## When should I call a doctor?
+## Kande me devas telefonar a mediko?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Telefonez a lua mediko balde se la demandado o konfuzo komencas subite, o plubadijas multe dum hori o dii. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dicas ke subita o rapide chanjanta konduto, precipue pos infekto o chanjo di medikamento, devas esar kontrolata quik. Subita konfuzo povas esar deliro, pri quo la [NHS](https://www.nhs.uk/symptoms/confusion/) dicas ke ol bezonas urjanta helpo; urin-voyala infekti esas ofta kauzo che plu olda personi.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Anke esas utila mencionar konstanta skemo dum la sequanta vizito, nam doloro, malgaya humoro, dormo-problemi o efekti di medikamenti anke povas havar rolo.

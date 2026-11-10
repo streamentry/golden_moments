@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Dieter MIND, dieter Mediterranea hag ar dementia"
+seoTitle: "Dieter MIND ha ar dementia: petra a lavar ar studerezh"
+description: "Petra a lavar ar studerezh diwar-benn dieter MIND ha dieter Mediterranea ha ar dementia, ha penaus skoazellañ unan a vev gant ar dementia da zebriñ mat."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Studioù a heul tud a-hed an amzer a gevreze stumm debriñ Mediterranea ha MIND
+  gant ur riskl dementia izeloc, met n'eo ket bepred. Un enklask hir a dri
+  bloaz diwar-benn dieter MIND, embannet e 2023, n'en deus ket kavet disheñvelder
+  bras er spered pe en skeudennoù an empenn, e-keñver ur dieter kontrol. Ne ved
+  ebet a zebr pe ur c'hempenn bet kadarnaet a stankfe ar dementia. Evit tud a vev
+  gant ar dementia, debriñ ha evañ a-walc'h a bouez moarvat afelloc'h.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Studioù a heul tud a-hed an amzer, hag a-wechoù met nann bepred, a gevreze stumm debriñ Mediterranea ha MIND gant ur riskl dementia izeloc."
+  - "En un enklask 2023 gant 604 den koshoc'h, ne oa ket aet gwelloc'h an tud a heuile dieter MIND evit an daolennoù spered pe evit skeudennoù an empenn, goude tri bloaz, e-keñver an dud a heuile ur dieter kontrol."
+  - "Ar Institut Nasionel evit an Henaag (NIA) a lavar n'eus ket a bruderezh a ziskouez e c'hall debriñ pe skuilhañ un dra bennak a stankfe Alzheimer, ha ne ved ebet a vitamin pe a eil-skoazell bet kadarnaet a stankfe anezhañ."
+  - "Un dieter a leun a legumaj, a frouezh, a bizi, a ed bras ha a besk a skoaz ar galon ha a c'hall skoazellañ kaozioù evel pression uhel ha diabetez."
+  - "Evit an dud a vev gant ar dementia, boued a c'hall bezañ tu da zebriñ e-unan, platoù a liv kontrastek, debriadoù tost ha dour bep tro a vez alies pouezusoc'h eget unan bennak eus an dieterioù."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Ha stankañ a ra ar dementia an dieter MIND?"
+    a: "N'eo ket bet diskouezet. Studioù evezhiet a gevreze an dieter MIND gant un display izelococ'h, met un enklask hir a dri bloaz embannet e 2023 n'en deus kavet disheñvelder bras ebet etre an dud a heuile an dieter MIND hag an dud a heuile un dieter kontrol, na gant an daolennoù spered na gant skeudennoù an empenn. Diouzh-tu e oa an daou strollad gwellaet ur sizhun, hag o devoa kollet pouez kenstrollek."
+  - q: "Petra eo an disheñvelder etre dieter MIND hag dieter Mediterranea?"
+    a: "Dieter Mediterranea a bleg war al legumaj, ar frouezh, ar brizh, ar bizi, ar pesk hag an olev, gant nebeut kig ruz hag a sukr. Dieter MIND a asamblez dieter Mediterranea gant dieter DASH evit ar pression, ha ouzhpenn a bleg war al legumaj glas, ar frouezh-greun, ha a stok kig ruz, sukr, kaoz, amann, hag boued frita."
+  - q: "Ez eus boued pe eil-skoazell a stankfe Alzheimer?"
+    a: "Ne ved ebet. Ar Institut Nasionel evit an Henaag a lavar n'eus ket a bruderezh a ziskouez e c'hall debriñ pe skuilhañ ur boued dibar stankfe Alzheimer pe an diskar anvioù ergerzh a sav gant an oad, ha ne ved ebet a vitamin pe a eil-skoazell bet kadarnaet a stankfe Alzheimer. Komz gant ur medisin a-raok kemer eil-skoazell ebet."
+  - q: "Pe boued a zo aesañ evit unan a vev gant ar dementia da zebriñ?"
+    a: "Boued a vrazh-dorn, evel pezhioù gwastell, pezhioù kailh, segmantoù orañjez pe pezhioù legumaj kuitet, a zo alies aesoc'h eget ober gant tamm-labour. Mar eo diaes kanañ pe lenkañ, boued malus evel vi wennet, saos avaleoù pe kaoz gwenn a c'hall skoazellañ. Goulenn gant ar medisin ur gwiriadur lenkañ ma vez tousad pe tagadenn."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,181 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Marteze hoc'h eus lennet e c'hall ur "dieter yec'hed-brein" derc'hel Alzheimer
+pell diouzh. Ar gwir a zo dielfennoc'h. Stummoù debriñ a zo kevredet gant riskl
+izelococ'h e studioù a heul tud a-hed an amzer, met ar studiadenn gwellañ betek
+bremañ n'en deus ket kavet disheñvelder spisus. Ar bajenn-mañ a ziskouez an
+div, ha neuze a zeu d'ar pezh a bouez moarvat afelloc'h evit unan a zo dija o
+vevañ gant ar dementia: debriñ ha evañ a-walc'h, ha tapout plijadur outañ.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Titouroù hollek int, na keleiñ ouzh ar vedisin ebet. Komzit gant ur medisin pe
+gant ur c'hoarvezer-debriñ enrollet a-raok cheñch ho tebriñ pe hini ur ren all.
+Gwelet a rit hon [dilez medisinel](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Petra eo an dieterioù Mediterranea ha MIND?
 
-The National Institute on Aging (NIA) describes them this way
+Ar Institut Nasionel evit an Henaag (NIA) a zeskrivo anezho evel-henn
 ([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Dieter Mediterranea:** kalz a frouezh, a legumaj, a ed bras, a bizi, a
+  besk ha a voulc'h, hag an olev, gant nebeut a gig ruz, a wiad hag a sukr.
+- **Dieter MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  kemmesk etre dieter Mediterranea ha dieter DASH evit ar pression. Al legumaj,
+  dreist-holl ar re glas, a zo pouezus, ha ganto ar frouezh-greun, ar pezh ed
+  bras, ar bizi, ar gnoenn, ar pesk unan wech dre lec'h ar sizhun lec'h, hag an
+  olev. Enno e vez stok ar c'hig ruz, ar sukr, ar c'householc'h, ar amann pe
+  ar margarin, ha ar boued frita pe ar boued prim.
 
-## Do these diets lower dementia risk?
+## Ha stankañ a ra an dieterioù-mañ ar riskl dementia?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Kemmesket eo an taolennoù. Ar NIA a lavar e kalz studioù evezhiet, met nann
+pep unan, a gevreze an dieterioù Mediterranea ha MIND gant riskl dementia
+izelococ'h, dre gemmesk gant un dieter stil Europa an Oest, leun a gig ruz, a
+genaezenn saotret ha a sukr.
 
-The 2024 Lancet Commission reviewed the research in more detail
+Lakaet en-dro gant Komision Lancet 2024 an enklaskoù en un doare fonnusoc'h
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Un adwelet war studioù a heul kohortoù a gevreze boued a stumm mat gant ur
+  riskl dementia tost da 20% izelococ'h.
+- Un dielfenn bras war dri kohort a gevreze heuliad tostoc'h ouzh an dieter MIND
+  gant ur riskl izelococ'h.
+- Met un studiadenn e Sveden, a heulias 28 025 den e-kreiz o bloavezhioù
+  a-hed war-dro 20 bloaz, n'en deus kavet riskl izelococ'h ebet, na gant an
+  dieterioù argymellet na gant un dieter stil Mediterranea.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Ne c'hall studioù evezhiet ebet diskouez kefrennadur kefre. An dud a zebr evel-se
+a zisheñvel alies e tu all ivez, evel an arc'hant, ar skol, ar sport ha
+gallout kaout ar yec'hed. Lavaret en deus Komision ne ved ket a dystenn a-walc'h
+evit lavared e stank an dieterioù yac'h ar dementia rik-tre, daoust ma sikour
+debriñ kalz a frouezh ha a legumaj, ha nebeutoc'h a voued kempenn-uhel, ur ster
+mat evit kalz a glenvedoù, hag a zo a dalvoudegezh evit danvezioù riskl evel an
+dismegañs, ar diabetez hag ar pression uhel. Ne c'hellas ket ouzhpenn ar
+debriñ d'o listenn a [14 danvez riskl](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Petra a gavas enklask 2023 war an dieter MIND?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
+Ar stêr kentañ betek bremañ a oa ur c'hwiladenn dargreizet embannet e
+New England Journal of Medicine e 2023
 ([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Piv:** 604 den koshoc'h a 65 vloaz pe'z int, e takadoù Chicago ha Boston,
+  hep kudennoù soc'h ar spered, a oa ur c'hoar nes kozh ganto gant ar
+  dementia, a oa re dreut, ha devoa dieter nebeutoc'h a yec'hed da gentañ.
+- **Petra:** dre dri bloaz, an hanter a heuilhas an dieter MIND ha an hanter
+  a heuilhas o dieter arferiel. Goulennet e oa d'an daou strollad debriñ war-dro
+  250 kalorienn nebeutoc'h bep devezh, ha skoazellet e oa gant dietourien
+  enrollet a-viskoazh.
+- **Disoc'h:** gwellaet e oa ar stigelloù ar spered a-zikour **an daou**
+  strollad. Disheñvelder vihan a oa etre ar strolladoù, ha **n'eo ket bet
+  kadarnaet dre ar stadegoù** ebet. Ar skeudennoù an empenn a ziskouezas
+  cheñchamantoù heñvel e-touez an daou strollad.
+- **Pouez:** kollet en devoa an daou strollad war-dro 5 kilogram (tro-dro 11
+  lur).
 
-### Why might the trial have found no difference?
+### Perak e c'hallfe an enklask n'en deus kavet disheñvelder ebet?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Lakaet en deus an ence-ober meur a abeg. An strollad kontrol a c'hall bezañ
+gwellaet he dieter ivez, peogwir kollet a oa ar memes pouez ganti. Gallout a
+ra an deskadurioù adkaset gwellaat an disoc'hoù hepken dre m'eo kinnig an dud
+d'an deskadurioù. Tri bloaz a c'hall bezañ re verr. Ar pezh a bouez, an
+dud a oa kalz a studioù ha a oa a orin europat, neuze ne c'hall ket bezañ
+lakaet da holl an dud.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Setu, ar gerioù eeun: ne drec'has ket an dieter MIND ur dieter kiviziek mat
+gant kalorienn nebeutoc'h e-pad tri bloaz. Ne laka ket se an debriñ yac'h da
+netra. Ne ra ket se ken nemet e ranker chom hep kredi e c'hall ur dieter
+dibar stankañ ar dementia.
 
-## What about specific foods and supplements?
+## Ha pezh diwar-benn un dra bennak pe eil-skoazell?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
+Lavaret en deus ar NIA n'eus ket a bruderezh a ziskouez e c'hall debriñ pe
+skuilhañ un dra bennak a stankfe Alzheimer pe an diskar anvioù ergerzh a sav
+gant an oad. Studiet eo bet ar mouezhed glas, al legumaj glas ha ar tirmerik,
+hep bezañ kadarnaet. Lavaret en deus ivez ne ved ebet a vitamin pe a eil-skoazell
+bet kadarnaet a stankfe Alzheimer, ha n'eo ket argymellet kemer hini ebet
+evit an dra-mañ. Chom a ra ar NIA gant ar c'hemennadur e c'hall ar produioù
+dibroved gwerzhet evit stankañ Alzheimer bezañ dic'hortoz, koll arc'hant, pe
+an daou, ha dont a-enep d'ar medisinoù rannet. Kemerit kont ganin, gant ur
+medisin a-raok kregiñ gant ur produ ebet
 ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Penaus e c'hall ar boued chom yac'h ha plijus?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Evit ar پlac'h-ro enn-ba, an dra pouezus eo boued a fell d'ar c'horf, a zo
+anavezet ha plijus, ha n'eo ket un hent dre-greiz:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Sevelit debriadoù gant ar boued a blij deoc'h**, eus ar stumm Mediterranea:
+  legumaj, frouezh, bizi, ed bras, pesk ha olev.
+- **Derc'hit ho lipajoù plijus.** Plijadur ha c'hoant debriñ a bouez, dreist-holl
+  pa vez an oad uheloc'h.
+- **Debrit gant re all** pa c'hallit. Debriadoù boas a zo mignoned mat.
+- **Kozhiit asambl.** Gwaskañ legumaj pe stlakañ ur bodig a zo ur ober
+  boas kenrannet; sellit ouzh [an dra-ti](/activities/household-tasks/). Ur
+  reseit a blij d'ar familh a c'hall ivez degas [kaozioù kent](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Ne dle ar re gozh ket lakaat da vont pizh ar c'hoarvezer-debriñ pe da
+gollañ pouez hep kaozeal gant ur medisin, ha dre-holl ne vez ket diarvar ar
+sifr-debriñ. Sellit ouzh hon [gid sifr-debriñ](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Penaus e c'hallit skoazellañ unan a vev gant ar dementia da zebriñ mat?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Evit an dud a vev gant ar dementia, debriñ ha evañ **a-walc'h** a vez alies an
+dra pouezusañ. Lavaret en deus Kevredigezh Alzheimer e c'hall an dud
+ankouaat debriñ, soñjal e'int dija debret, pe bezañ fallet gant re a
+zibaboù, ha e c'hall an dieter fall kreskiñ an arverioù emzalc'h ha kollet
+pouez ([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Ar sonjoù-mañ a zeu eus Kevredigezh Alzheimer, eus ar NIA hag eus Kevredigezh
+Alzheimer ar Roue-Unanet:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Proponit boued a vrazh-dorn.** Pezhioù bihan a zo aes da gemer, evel
+   pezhioù gwastell, pezhioù kailh, pesk-stik, segmantoù orañjez pe brokoli
+   kuitet, a laka un den da zebriñ e-unan hep tamm-labour ebet.
+2. **Implijit kontrast war an taol.** Kemmoù er gweled a c'hall lakaat diaes
+   distrujañ ar boued diwar ar plad. Platoù pe bolc'hioù gwenn war ur blanketenn
+   kontrastek a c'hall skoazellañ. Chomit hep implijout listri pe liennoù
+   bevennet.
+3. **Servit unan pe zaou boued dre wezh.** Ur plad leun a c'hall bezañ
+   dic'hortoz.
+4. **Derc'hit ar debriadoù digor.** Diskuizhit an TV, lakait ur voullenn
+   simpl, ha roit amzer. Ar NIA a lavar na zeu ket da vezañ prim, na da
+   c'houlenn.
+5. **Proponit debriadoù bihan ha lipajoù alies.** Ar NIA a argas debriadoù
+   bihanoc'h ha alies, ha lipajoù uhel a galorioù ma ne zebr ket an den
+   digenkoa ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Skoazellit evit evañ.** Proponit evaj bihan a zour pe a zeoc'h all dre an
+   deiz, ha boued karget gant dour, evel frouezh, sistr, lapous ha laezh-skuilhet.
+   Mar na fell ket d'an den dour, ar NIA a gav mat klask sukr-dour, dour
+   blaset, saos-kig, laezh, pe kafe pe te disukr.
+7. **Gwiriit an tomder.** Un den a c'hall ne welfe ket e vez tomm-kenañ ur
+   boued pe un evaj.
+8. **Addasit ar banne-debriñ hag ar gwerennoù.** Bolc'hioù a-lec'h platoù,
+   gwerennoù gant ur c'horf bras, hag ero gant gwilvan a c'hall lakaat
+   debriñ aesoc'h. Na vezit ket tamm-skuizh diwar-benn an netted.
+9. **Lakaat ar boued da vezañ aesoc'h da lenkañ ha da zroc'hañ.** Tamm-torret
+   pe boued malus a roit. Mar tousk pe tagañ an den dre ma debr, lavarit
+   d'e vedisin.
+10. **Chomit hep degas boued dre nerzh.** Ar NIA a notenn e vez divreget
+    ar c'hoant da zebriñ en degouezhioù diwezhañ ar gefliñvez Alzheimer.
 
-### Signs to tell the doctor about
+### Arwezioù da lavarout d'ar medisin
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
+Kollet pouez, nac'hañ d'ar boued, skuizh pe gwanaat a c'hall bezañ arwezioù
+ez eus unan na zebr ket a-walc'h. Lavaret en deus Kevredigezh Alzheimer ar
+Roue-Unanet e c'hall dent glac'haret pe dent-faos, goanv, diboan ha kemmoù
+medisinoù digreskiñ ar c'hoant da zebriñ
 ([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
+Arwezioù dic'hi ar corf a list ar NIA a gaw ar geg sec'het, gwalloù, kalon a
+bad buan, ha gwelet traoù ne vezont ket.
 ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Komzit gant ur medisin
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+A-raok lakaat cheñchamantoù bras en ho tebriñ pe en tebriñ un den all, komzit
+gant ur medisin pe ur c'hoarvezer-debriñ enrollet, dreist-holl ma'z oc'h klañv
+gant diabetez, klenved an arennoù, diaezamantoù lenkañ pe kollet pouez
+nevez. Evit un den a vev gant ar dementia, goulennit pegement a zle debriñ ha
+evañ bemdez, ha ma c'hallfe ur c'hoarvezer-debriñ pe eil-skoazell skoazellañ.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Gouilit war-lerc'h ur skoazell prim mar eo un den o taga, pe mar en deus ur
+c'hoarvezer diaes strishaet, pennglac'har a-vouezh pe diveriñ.

@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Coyrle Loayrt rish Persoon ta Bio lesh Meenaghtys"
+seoTitle: "Coyrle Loayrt: Meenaghtys"
+description: "Raaueyn yindyssagh son loayrt rish persoon ta bio lesh meenaghtys: kys dy ghra, cre dy yannoo, as kys dy eaishtagh."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Loayr ayns boayl feagh, jeeagh er y persoon, jean ymmyd jeh'n ennym oc, as
+  loayr dy moal ayns raaueyn giare as aashagh. Cur un eysht ec y traa, cur daa
+  reihyn ayns ynnyd jeh eyshtyn foshlit, as fuirree ny sodjey na s'cadjin. Ny
+  jean arganey, ny jean kiartaghey, ny jean quizzal. Cur freggyrt da'n ennaghtyn
+  cheu chooylloo ny focklyn, as jean ymmyd jeh bentyn, jallooyn as cowraghyn myr
+  ta loayrt goll ny s'doillee.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Jean y boayl ny s'feagh as gow sooilley-marish roish my toou goaill toshiaght."
+  - "Jean ymmyd jeh raaueyn giare, un smooinaght ec y traa, as enmyn ayns ynnyd jeh eh, ee ny ad."
+  - "Cur reih jeh jees, ny eysht ta/fegooish, ayns ynnyd jeh eyshtyn foshlit."
+  - "Fuirree son freggyrt. Mannagh vel ad toiggit, jean ny focklyn cheddin reesht, eisht prowal focklyn noa."
+  - "Ny jean arganey ny kiartaghey. Cur freggyrt da'n ennaghtyn cheu chooylloo ny t'ad gra."
+  - "Myr ta focklyn goll er-sooyl, loayr trooid bentyn, coraa, eddin, as jallooyn ry-akin ry-cheilley."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Cre nagh lhisagh oo gra rish persoon lesh meenaghtys?"
+    a: "Jean shaghnaghey quizzal (“Vel cooinaghtyn ayd...?”), kiartaghey (“Ta shen kiart”), cur cooinaghtyn daue jeh coayl (“Dinsh mee dhyt hannah”) as loayrt mychione oc myr nagh vel ad ayns shen. Jean shaghnaghey glare paitçhey. Ta reddyn myr shen cliaghtey cur orroo gennaghtyn nearey ny seaghnit, gyn cooney."
+  - q: "Lhisagh dou ad y chiartey tra t'ad kiart mychione fysseree?"
+    a: "Cha nel, son y chooid smoo. My ta fysseree neu-chiart gyn assee, lhig shaghey eh. S'goan ta arganey caghlaa aigney y persoon, as t'eh dy mennick cur orroo gennaghtyn trimshagh. Cur geill da kys t'ad gennaghtyn as cre t'ad laccal nish."
+  - q: "Cre nee'm tra nagh vod ad feddyn fockle?"
+    a: "Cur traa daue hoshiaght. My t'ad dy firrinagh goll er streeu, ta shen mie dy chur fockle daue dy meein ny dy hoiggal cre t'ad er-chee loayrt mychione as feysht y chur. Foddee cowraghyn, gesmadyn as jallooyn cooney myrgeddin."
+  - q: "Kys nee'm loayrt rish persoon ayns jerrey meenaghtys nagh vel loayrt agh beggan?"
+    a: "Tar er nyn doshiaght, abbyr quoi oo hene, as jean ymmyd jeh coraa feagh as bentyn meein. Jeeagh er eddinyn as glare y chorp son ennaghtyn. Foddee dty enish, arrane ennagh, ny greimmey laueyn loayrt mooar gyn focklyn."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Foddee meenaghtys jannoo eh ny s'doillee focklyn y gheddyn, raaue foddey y eiyrt, ny sheean y vogrey. Cha nel shen erbee gra nagh vel y persoon foast geearree kiangley. Foddee caghlaaghyn beggey ayns kys t'ou kiartaghey coloayrtys, kys t'ou loayrt as kys t'ou eaishtagh jannoo loayrt ny s'aashe as ny s'feagh diuish y vees.
 
-## What are the most important tips for talking with someone who has dementia?
+## Cre ny coyrleyn smoo scanshoil son loayrt rish persoon ta bio lesh meenaghtys?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Gow nyn geill, jean eh aashagh, as bee surransagh. My vel oo cooinaghtyn er queig reddyn ny lomarcan:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Jean y shamyr ny s'feagh as jeeagh orroo.** Cur yn çhellveeish ass, soie ec leval ny sooillyn, as jean ymmyd jeh'n ennym oc.
+2. **Abbyr un red ec y traa.** Raaueyn giare, un smooinaght, un eysht.
+3. **Cur reih jeh jees.** Ta “Tey ny key? as ny s'aashe na “Cre by vie lhiat?”
+4. **Fuirree.** Cur ny smoo traa son freggyrt na s'cadjin, as jean dty chooid share gyn brishey stiagh.
+5. **Ny jean arganey ny quizzal rieau.** Cur freggyrt da kys t'ad gennaghtyn, cha nee da vel ny fysseree kiart.
 
-## How should I start a conversation?
+## Kys lhisagh dou toshiaght er coloayrtys?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Jean eh aashagh da'n persoon cur geill ort. Ta [lioar Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) coyrlaghey dy yannoo ny sloo jeh'n sheean hoshiaght: cur yn radio ny çhellveeish ass, dooney ny curtanyn ny dorrys, ny gow dys boayl ny s'feagh.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Tar er nyn doshiaght.** Foddee cheet voish nyn gooyl ny veih'n lhiattee ad y ghoostey.
+- **Abbyr quoi oo hene.** “Hooar, Ayr, mish Sarah, dty inneen.” Ta shen sauail ad veih shirrey son dty ennym.
+- **Tar dys y leval oc.** My t'ad nyn soie, soie ny croym sheese myr dy bee ny sooillyn erriu ec yn un leval.
+- **Jeeagh er dty eddin as dty choraa.** Ta [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) coyrlaghey dy ve tastey jeh dty choraa, dty ard, eddin as glare y chorp, as dy ve çheh as dooghysagh.
+- **Jeagh dy vel speeikeyryn as claaseyn-cluashey orroo.** Ta eh doillee eiyrt er coloayrtys nagh vod oo fakin ny clashtyn dy kiart.
 
-## How should I phrase what I say?
+## Kys lhisagh dou ny focklyn aym y chummey?
 
-Use simple words, short sentences and a calm, low voice.
+Jean ymmyd jeh focklyn aashagh, raaueyn giare as coraa feagh, injil.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Un smooinaght dagh raaue.** “Lhig dooin dty chooat y chur ort. Eisht hed mayd magh.” Cha nee y daa red ayns un ennal.
+- **Jean ymmyd jeh enmyn, cha nee pronoonyn.** Ta “Ren Aunt Jean fone y chur” ny s'clear na “Ren ee fone y chur”.
+- **Jean dty choraa ny s'injil, cha nee ny s'ard.** Ta Family Caregiver Alliance coyrlaghey coraa ny s'injil ayns ynnyd jeh coraa ny s'ard.
+- **Abbyr reesht, eisht caghlaa ny focklyn.** Mannagh doig ad, abbyr ny focklyn cheddin un cheayrt. Mannagh jean shen gobbraghey, fuirree tammylt as prowal focklyn elley.
+- **Jean soilshaghey chammah as loayrt.** Jean cowrey dys y chappan, cum seose y daa jerkit, ny jean soilshaghey yn chied cheim.
+- **Loayr roo, cha nee mychione oc.** Ta NIA coyrlaghey nagh lhisagh oo loayrt mychione y persoon myr nagh vel ad ayns shen, as nagh lhisagh oo glare paitçhey y ymmyd.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+Ta NIA coyrlaghey cummaghyn ny s'aashe jeh eyshtyn cadjin. Shoh sampleyryn ayns y spirit shen:
 
-| Instead of | Try |
+| Ayns ynnyd jeh | Prowal |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “Cre by vie lhiat son jinnair?” | “Vel eeast ny kellagh by vie lhiat?” |
+| “Kys t'ou gennaghtyn?” | “Vel oo gennaghtyn skee?” |
+| “Vel accrys ort?” | “Bee jinnair aarloo ayns queig minnidyn.” |
+| “Cha nee shen yn aght t'ou jannoo eh.” | “Lhig dooin eh y phrowal myr shoh.” |
+| “Vel cooinaghtyn ayd er y turas gys y logh?” | “Va mee smooinaghtyn er y turas gys y logh. Insh dou cre by vie lhiat mychione.” |
+| “Dinsh mee dhyt hannah.” | Cur freggyrt reesht, dy kenjal, myr dy beagh eh yn chied cheayrt. |
 
-## How do I listen well?
+## Kys nee'm eaishtagh dy mie?
 
-Listen for the meaning and the feeling, not just the words.
+Eaisht son y cheeayl as yn ennaghtyn, cha nee ny focklyn ny lomarcan.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Fuirree.** Dy mennick she traa smooinaghtyn ta ayns tostid. Coont dy moal gys jeih roish my jig oo stiagh.
+- **Cur fockle ny lomarcan my t'ad dooint.** Ta Family Caregiver Alliance gra dy vel eh mie focklyn y chur tra ta persoon goll er streeu.
+- **Jeagh cre ren oo clashtyn.** Ta [lioar Alzheimer’s Association mychione loayrt](https://www.alz.org/help-support/caregiving/daily-care/communications) coyrlaghey dy yeeaghyn son y cheeayl cheu chooylloo ny focklyn as eh y ghra reesht dy hoiggal vel oo er hoiggal. “Vel oo imneagh mychione y ghleashtan?”
+- **Jeeagh er nyn eddin as y corp oc.** Myr ta loayrt goll ny s'doillee, ta NIA cur-my-ner, foddee eddinyn soilshaghey trimshey, corree ny seaghyn ny s'clear na focklyn.
+- **Gow imnea serioosagh.** Ga dy vel imnea er bun fysseree neu-chiart, ta'n ennaghtyn fior.
 
-## What if they say something that is not true?
+## Cre my t'ad gra red nagh vel fior?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ny jean arganey. Cha nel eh lickly dy jig oo er e hoshiaght, as foddee yn persoon gennaghtyn nearey ny agglit. Ayns ynnyd jeh shen, jean kiangley rish yn ennaghtyn, eisht gow er dy meein.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Ta Family Caregiver Alliance coyrlaghey dy ghoail rish yn ennaghtyn roish my vel oo caghlaa y cooish. Myr sampleyr, my ta dty voir gra dy vel ee laccal goll dy hroggal y paitçhyn veih scoill:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Ayns ynnyd jeh: “Voir, ta dty phaitçhyn aasit. Va shen da-eed blein er dy henney.”
+- Prowal: “V'ou rieau dty voir feer chiarailagh. Insh dou mychione troggal ad. Jean mayd gee red ennagh hoshiaght?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Ta Alzheimer’s Association myrgeddin coyrlaghey nagh lhisagh oo arganey harrish raaghyn nagh vel oo cordail roo. Reih dty traa: my ta credjue neu-chiart gyn assee, lhig da ve.
 
-## How does communication change as dementia progresses?
+## Kys ta loayrt caghlaa myr ta meenaghtys goll er?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ta femeyn caghlaa harrish traa, myr shen jean dty aght y chaghlaa. Ta Alzheimer’s Association cur-my-ner three aghtyn mooarey:
 
-| Stage | What helps |
+| Stayd | Cre ta cooney |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Toshiaght | Ny jean croo nagh vod ad loayrt. Cur stiagh ad ayns coloayrtyn, loayr roo dy jeeragh, feysht cre'n cooney by vie lhieu, as jean ymmyd jeh aittys my ta shen cooney. |
+| Mean | Coloayrtyn un-ry-un ayns boayl feagh. Loayr dy moal, cum sooilley-marish, jean ymmyd jeh eyshtyn ta/fegooish, cur sareyyn ayns cummaghyn keim-ry-keim, as ny jean criteeaghey ny kiartaghey. |
+| Jerrey | Tar er nyn doshiaght as abbyr quoi oo hene. Cur greinnaghey daue cowrey y yannoo as gesmadyn y ymmyd. Jean ymmyd jeh bentyn, sheean, fakinys as soar. Ny loayr rieau myr nagh vel ad ayns shen. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Ta dagh persoon er-lheh, as foddee yn un persoon laaghyn mie as laaghyn doillee y ve oc. Cur freggyrt da kys t'ad nish, cha nee da lipaid.
 
-## Can pictures and activities make conversation easier?
+## Vel jallooyn as cloie ry-cheilley cur cooney da coloayrtys?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ta. Ta jalloo ry-akin ry-cheilley goaill ersooyl yn chruaaghey as cur red ennagh diuish y vees dy yeeaghyn er as dy chowrey huggey.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Jallooyn son loayrt.** Ta [Conversation Cards](/games/conversation-cards/) cur jallooyn lesh eyshtyn foshlit nagh vel quizzal rieau.
+- **Jallooyn lught-thie.** Ta [Photo Pairs](/games/photo-pairs/) jannoo cloie cochiangley meein ass jallooyn t'ou reih, as t'eh dy mennick cur skeealyn er-ash.
+- **Raaghyn ennagh.** Ta [Finish the Saying](/games/finish-the-saying/) jannoo ymmyd jeh raaghyn ennagh, as eisht cur eysht son loayrt.
+- **Cloie cochiangley.** Ta [Picture Pairs](/games/picture-pairs/) cur red ennagh da ny laueyn y yannoo choud's t'ou loayrt.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Jeeagh er [kys dy chloie cloie ry-cheilley](/caregiving/how-to-play-together/) as [cooishyn cooinaghtyn](/activities/reminiscence/) son tooilley. Son keayrtyn as fónaghyn, lhaih nyn lioaryn mychione [keayrtyn](/activities/visiting/) as [fónaghyn as fónaghyn-fysseree](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Cre my ta mee coayl my hurranse?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+T'eh taghyrt da dy chooilley pheiagh. Ta NIA coyrlaghey, my t'ou cheet dy ve corree, dy ghow oo tammylt dy gholl feagh. Gow stiagh ayns shamyr elley, gow kuse dy ennalyn moal, as tar er ash tra oddys oo. Foddee oo toshiaght er y coloayrtys reesht rieau, as foddee dy jean y persoon freggyrt mie da dty choraa ny s'feagh. My ta corree cheet dy ve kinjagh, she cowrey eh dy vel feme ayd er ny smoo cooney, cha nee dy vel oo failleil. Ta boaylyn cooney ayns nyn lioar mychione [kiarail ort hene](/caregiving/caregiver-self-care/).

@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Biyuvula ya Pete, Kukonda Kuniokula"
+seoTitle: "Biyuvula ya Pete kwa Bantu ti Dementia, ti Bamvutu"
+description: "Biyuvula 50 ya pete kwa bantu badi ti dementia, ti mpono ya bamvutu mpi mambu ya kusolula, mpi mutindu ya kusala yo mbote."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Biyuvula ya pete yina ke sadisaka bantu badi ti dementia ke vandaka mbote
+  kana yo ke monanaka bonso masolo, kansi ve bonso ekzame. Yuvula mambu ya
+  ntama yina bo longukaka, bonso bankunga ya ntama, bingana, bafeti mpi
+  luzingu ya konso kilumbu, mpi pesa ntangu yonso mpono zole to tatu. Pesa
+  mvutu na mawete, kufwanisa ve muntu mosi, kulanda ve banti, mpi sadila
+  konso mvutu sambu na kuyantika disolo. Biyuvula ya “Yayi to yina” yina
+  kele ve ti mvutu ya mbi ke fwanaka mingi na bitambi ya nsuka.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Yuvula mambu yina bo me zabaka banda ntama: bankunga, bingana, bafeti, madia mpi luzingu ya konso kilumbu ya bamvula ya lutaka."
+  - "Pesa mpono zole to tatu sambu muntu kuzaba mvutu na kutala yo, kansi ve na kuyibuka yo na ntu."
+  - "Tuba mvutu na mawete mpi koba. Konso mvutu yina ke basisaka disolo kele mvutu ya mbote."
+  - "Banti ve, bitim ya kintinu ve, kubinga ve muntu mosi. Bika bamvutu kukatuka na bantu yonso."
+  - "Kana kupona na kati ya bamvutu me kuma mpasi, soba na biyuvula ya ‘Yayi to yina’ yina kele ve ti mvutu ya kulunga."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Keti biyuvula ya pete kele kisalu ya mbote kwa bantu badi ti dementia?"
+    a: "Yo lenda vanda, kana bo ke sala yo na mawete. Alzheimer's Foundation of America ke tanga biyuvula na kati ya bisalu ya kitambi ya luyantiku. Bumba biyuvula na mambu yina bo me zabaka banda ntama, pesa mpono, kutula ve muntu mosi na ntwala, mpi tadila bamvutu bonso nzila ya kuyantika masolo, kansi ve bonso ekzame."
+  - q: "Inki mitindu ya mambu ke sadisaka mingi na biyuvula ya dementia?"
+    a: "Mambu yina bo longukaka ntama mingi ke sadisaka mingi: bankunga mpi bayimbi ya ntangu yina muntu vandaka leke to mwana, bingana ya kuzaba, bafeti, madia, masano, mpi luzingu ya konso kilumbu bonso kunata miliki na nzo to batelefone ya kuzungisa. Buya bansangu ya mpa mpi mambu yonso yina ke lomba kuyibuka kima ya me lutaka na kisalu yina mosi."
+  - q: "Inki mutindu na kukangula kisalu ya biyuvula na nzo ya bansadi kukonda kusala muntu nsoni?"
+    a: "Tanga konso kiuvu na kimvuka ya mvimba, sonika to tuba mpono, mpi yamba bamvutu ya muntu yonso. Kubinga ve bantu mosi-mosi mpi kutula ve banti. Tuba mvutu na kuseka ata bo pesaka mvutu ya mbi, mpi yuvula diaka bonso ‘Nani awa vandaka ntete na kisika ya kutala bafilme na kamio?’ sambu na kukumisa yo masolo."
+  - q: "Inki na kusala na kisika ya biyuvula na bitambi ya nsuka?"
+    a: "Soba na biyuvula yina kele ve ti mvutu ya mbi, bonso ‘Kafe to ti?’ to ‘Mbu to bangomba?’, mpi na kumanisa bingana to bankunga ya kuzaba na kintwadi. Kutala bifwanisu mpi kutubila yo na kintwadi ke sadisaka mpi mingi."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Biyuvula ya pete kele kisalu yina bantu ke lombaka mingi na banzo ya bansadi mpi na baprogramme ya mwini. Mabuta mingi ke salaka yo mpi na mesa ya kikuku. Kana bo ke sala yo mutindu ya mbala na mbala, ti banti mpi muntu mosi ke pesa mvutu, yo lenda sala nde muntu yina kele ti dementia kuwa bonso bo me tula yandi na ntwala ya bantu. Kana bo ke sala yo na mawete, yo ke kumaka nzila ya kiese ya kuwa masolo. Na nsi, nge ta mona biyuvula 50 ya pete ti mpono ya bamvutu mpi kima ya kusolula na konso mosi, mpi na nima mutindu ya kukangula kisalu yai.
 
-## How do you make trivia work for someone with dementia?
+## Inki mutindu ya kusala biyuvula kusadisa muntu yina kele ti dementia?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Sala yo sambu na kuzaba mpi kuyibuka mambu ya ntama, mpi yamba konso mvutu na mawete.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Yuvula mambu ya ntama mingi.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ke tuba nde kidimbu ya luyantiku yina ke monanaka mingi na maladi ya Alzheimer kele mpasi ya kuyibuka mambu ya mpa yina bo longukaka. Bankunga, bingana mpi luzingu ya konso kilumbu ya bamvula mingi ya lutaka ke vandaka mbala mingi pete.
+2. **Pesa ntangu yonso mpono.** Kupona mvutu ya mbote na kati ya zole to tatu ke pete kuluta kusosa yo na ntu mosi.
+3. **Tanga biyuvula na ndinga ya ngolo mpi sonika yo mingi.** Tablo ya pembe to tablette yina bo ke nata na zulu ke sadisa bantu yina ke waka malembe.
+4. **Pesa mvutu na mawete.** Kana muntu mosi ve me zaba, tuba yo na mawete mpi koba. Kutuba ve « Keti nge ke zaba ve yai? ».
+5. **Banti ve.** Ve sambu na bantu mosi-mosi mpi ve sambu na bamesa. Kana bantu ke zola lutangu, bumba lutangu mosi ya kimvuka.
+6. **Kubinga ve muntu mosi.** Bika bamvutu kukatuka na konso muntu. Kana nge kele na muntu mosi, pesa mvutu na kintwadi: « Mono ke yindula nde yo kele piano. Nge ke yindula nki? »
+7. **Sadila kima ya kusolula.** Mvutu kele luyantiku, ve nsuka. Masolo kele kima ya mfunu mingi.
+8. **Bumba yo nkufi.** Biyuvula kumi ti masolo na kati ke fwana.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ke tuba nsiku ya mfunu na mutindu ya pete: tala kana muntu ke mona mpasi mpi sala sambu yandi kuwa bonso yandi ke nunga. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ke tanga biyuvula na kati ya bisalu ya kitambi ya luyantiku. Na kitambi ya kati, bumba mpono zole kaka mpi sadila mingi mambu ya kusolula. Na nima, soba na biyuvula ya « Yayi to yina » yina kele na nsi.
 
-## Music and entertainment trivia
+## Biyuvula ya miziki mpi ya bansaka
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Mvutu ya mbote kele na **nsonika ya ngolo**. Yidika biyuvula yai na muntu yina: muntu yina yelaka ti Motown ta zola bayimbi ya luswaswanu ti muntu yina yelaka ti big band.
 
-| Question | Choices | Talk about |
+| Kiuvu | Mpono | Kusolula |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Nani bo bingaka Ntinu ya Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Keti nge monaka ntete Elvis na televizio? |
+| Nani bo bingaka Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Nkunga ya Sinatra yina nge ke zolaka mingi kele inki? |
+| Bing Crosby vandaka kulota Noël ya… | **mpembe** (White Christmas), makwela, nzo | Yimbila ndambu ya nkunga na kintwadi |
+| Louis Armstrong yimbaka « What a Wonderful… » | Day, **World**, Life | Inki ke komisaka nsi kitoko sambu na nge? |
+| « Over the Rainbow » yimbamaka na Judy Garland na filme inki? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Nge vandaka kutala bafilme yina nge zolaka mingi wapi? |
+| Nani salaka Lucy na « I Love Lucy »? | **Lucille Ball**, Doris Day, Betty White | Inki baprogramme ya televizio dibuta na nge vandaka kutala na kintwadi? |
+| Cowboy inki vandaka kutambula na mpunda yina bo bingaka Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Keti nge vandaka kusakana bonso cowboy ntangu nge vandaka mwana? |
+| Nani kabilisaka « The Tonight Show » bamvula 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | Keti nge vandaka kuvanda ti meso ti mpimpa sambu na kutala televizio? |
+| Kisadilu ya miziki inki kele ti batouche 88? | Guitare, **piano**, trompette | Keti muntu mosi na dibuta na nge vandaka kubula? |
+| Makinu inki bo ke tangaka mosi-zole-tatu, mosi-zole-tatu? | **Valse**, twist, tango | Nge vandaka kukwenda kukina wapi? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Sambu na kuzaba mambu mingi ya miziki, tala [bisalu ya miziki sambu na dementia](/activities/music/).
 
-## Everyday life trivia
+## Biyuvula ya luzingu ya konso kilumbu
 
-| Question | Choices | Talk about |
+| Kiuvu | Mpono | Kusolula |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Na ntwala ya bafrigidaire, banzo mingi vandaka kubumba madia na madidi na… | **kisika ya glaçon (icebox)**, four, grenier | Nani vandaka kunata glaçon? |
+| Nani vandaka kunata miliki na mwelo na bambuta ya verre? | Muntu ya mikanda, **muntu ya miliki**, muntu ya bazulunalu | Inki mambu yankaka bo vandaka kunata na nzo? |
+| Inki mutindu nge vandaka kubula nimero na telefone ya kuzungisa? | Kufina batouche, **kuzungisa roue**, kutuba na yo | Tubila mono telefone ya nzo na beno |
+| Kompani inki salaka kamio Model T? | **Ford**, Chevrolet, Buick | Tubila mono kamio mosi yina nge zolaka |
+| Nge vandaka kukutana ti « soda jerk » wapi? | **Na kisika ya soda**, na boulangerie, na banki | Nge vandaka kulomba inki na comptoir? |
+| Kisalu ya kusakana inki kele ressort ya bibende yina lenda kukulumuka na bimatela? | Yo-yo, **Slinky**, hula hoop | Inki bisalu ya kusakana nge zolaka mingi? |
+| « Drive-in » vandaka kisika ya kutala… | **bafilme na kati ya kamio**, masano ya balle, baparade | Nge vandaka kukwenda ti nani? |
+| Zulu ya nani kele na mbongo ya dolo mosi ya États-Unis? | Lincoln, **George Washington**, Jefferson | Dolo mosi vandaka kusumba inki na ntangu yina? |
+| Zulu ya nani kele na mbongo ya penny? | **Abraham Lincoln**, Washington, Franklin | Keti nge vandaka kubumba bapenny na bocal na ntangu yina? |
+| Mpeke inki bus ya nzo-nkanda ke vandaka mingi ti yo? | Mbwaki, **jaune**, bleu | Nge vandaka kukwenda na nzo-nkanda na inki mutindu? |
 
-## Holidays, nature and places
+## Biyuvula ya bafeti, ya lugangu mpi ya bisika
 
-| Question | Choices | Talk about |
+| Kiuvu | Mpono | Kusolula |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Feti inki ke vandaka na kintanu ya iya ya ngonda ya Novembre? | Labor Day, **Thanksgiving**, Memorial Day | Inki madia vandaka ntangu yonso na mesa na beno? |
+| Ba jack-o'-lantern bo ke salaka yo sambu na feti inki? | **Halloween**, Pâques, Noël | Tubila mono Halloween na kisika yina nge yelaka |
+| Feti ya 4 Juillet ke sepela Declaration of… | Rights, **Independence**, Freedom | Nge vandaka kutala tiya ya ngonda wapi? |
+| Kilumbu ya Bamama ke vandaka na ngonda inki? | Avril, **Mai**, Juin | Inki mutindu dibuta na nge vandaka kusepela yo? |
+| Bambwetete kwa ke na drapo ya États-Unis? | 48, **50**, 52 | Drapo vandaka ti bambwetete 48 tii na 1959. Konso mvutu kele kiyibuka ya mbote |
+| Mbu inki kele na Este ya États-Unis? | Pacifique, **Atlantique**, Arctique | Keti nge kwendaka ntete na lweka ya mbu? |
+| Statue ya Kimpwanza kele na mbanza inki? | Boston, **New York**, Philadelphie | Keti nge kwendaka ntete na New York? |
+| Banzoyi ke salaka inki? | Miliki, **mafuta ya bwiki (miel)**, soie | Mafuta ya bwiki na mampa to na ti? |
+| Mwana ya ngombe bo ke bingaka yandi… | Foal, **calf**, kid | Keti nge zingaka ntete pene-pene ya ferme? |
+| Fololo inki ya nda mpi ya jaune me zabana sambu yo ke balukaka ntangu? | Rose, **tournesol**, tulipe | Inki banti vandaka kuyela na bilanga na nge? |
+| Bilumbu kwa kele na mvula ya bissextile? | 365, **366**, 360 | Tubila mono kilumbu mosi ya lubutuku yina nge ke yibukaka |
+| Nsungi inki ke landa nsungi ya madidi? | Automne, **printemps**, été | Nsungi inki nge ke zolaka mingi? |
 
-## Food and sports trivia
+## Biyuvula ya madia mpi ya masano
 
-| Question | Choices | Talk about |
+| Kiuvu | Mpono | Kusolula |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Raisins secs kele bambuma ya… | Prunes, **raisins (vigne)**, cerises | Keti nge vandaka kutula raisins secs na madia ya midi? |
+| Pruneaux kele bambuma ya… | **Prunes**, figues, pommes | Nani na dibuta na nge vandaka kuzola pruneaux mingi? |
+| Beurre ya arachide mpi… | **Confiture**, fromage, jambon | Ya kukonda kukonda to ya pete? |
+| Guacamole bo ke salaka mingi ti… | Petits pois, **avocats**, concombres | Inki madia ya kudipa bo vandaka kubasisa na bafeti? |
+| Tarte inki me zabana mingi na Thanksgiving? | **Citrouille**, citron, cerise | Tarte inki nge vandaka kulamba? |
+| Bantu kwa ya ekipi mosi ya baseball ke vandaka na terrain? | 7, **9**, 11 | Ekipi inki nge vandaka kusadisa? |
+| « Strikes » kwa ke basisaka « out » na baseball? | Zole, **tatu**, iya | Keti nge salaka ntete baseball? |
+| Babe Ruth me zabana mingi na disport inki? | Boxe, **baseball**, golf | Keti nge vandaka kukwenda kutala masano ya baseball? |
+| Mabulu kwa kele na terrain ya golf ya kawaida? | 9, **18**, 24 | Keti nge salaka ntete golf to mini-golf? |
+| Na disport inki nge ke baka « touchdown »? | **Football américain**, hockey, basketball | Nani vandaka kutala football na nzo na beno? |
 
-## Familiar sayings
+## Bingana ya kuzaba
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Kumanisa ngana ke sadila ndinga yina bo longukaka ntama mpi mbala mingi yo ke kwisaka na pete. Kisalu na beto [Kumanisa ngana](/games/finish-the-saying/) kele ti bingana mingi, ti nzila ya kufina sambu na kumonisa nsuka.
 
-| Saying | Choices | Talk about |
+| Ngana | Mpono | Kusolula |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Pomme mosi konso kilumbu ke tandulaka… | **Munganga**, mvula, niawu | Nani vandaka kutuba yai na nge? |
+| Ndeke yina ke telamaka na ntwala ke bakaka… | Bus, **mpambu**, train | Keti nge kele muntu ya suka? |
+| Kutanga ve bana ya nsusu na ntwala bo… | **Kubasika**, kulala, kuyimba | Keti dibuta na nge vandaka ti bansusu? |
+| Mbongo mosi ya kubumba kele mbongo mosi ya… | **Kuzwila**, kuzimbisa, kusadila | Nani vandaka muntu ya kubumba mbongo na dibuta na nge? |
+| Nzo kele kisika yina… | Bilanga kele, **ntima kele**, kikuku kele | Inki ke komisaka kisika mosi kuwa bonso nzo? |
+| Me luta mbote kukwisa na nima kuluta… | Kukwisa na ntwala, **kukwisa ve ata fioti**, kuwa mawa | Nani vandaka kukwisa ntangu yonso na nima? |
+| Konso dituti kele ti ndambu ya… | **Nsemo ya argent**, lutu, mbongo ya bibende | Tubila mono kiese mosi yina nge bakaka |
+| Bisalu ke tubaka ngolo kuluta… | **Mambu**, miziki, nzazi | Tubila mono muntu mosi yina vandaka kutuba yai |
 
-## This-or-that questions with no wrong answer
+## Biyuvula ya « Yayi to yina » yina kele ve ti mvutu ya mbi
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Biyuvula yai ke fwanaka na konso kitambi, ata na bitambi ya nsuka, sambu kima mosi ve ya mbi kele. Yuvula, wa, mpi kabula mpi mvutu na nge.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafe to ti?
+- Mbu to bangomba?
+- Bambwa to banya?
+- Mvula ya muini to mvula ya madidi?
+- Tarte to gâteau?
+- Kukina to kutala?
+- Ntangu ke basika to ntangu ke dinda?
+- Balcon ya ntwala to lumbu ya nima?
+- Radio to badisque?
+- Bapancake to maki?
+- Barose to marguerites?
+- Nzietelo na train to nzietelo na kamio?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Sambu na mambu ya kusolula yina ke wendaka ti bifwanisu, meka [Bakarte ya masolo](/games/conversation-cards/) na beto ya kuimprimer.
 
-## How do you run a trivia session in a care home or group?
+## Inki mutindu ya kukangula kisalu ya biyuvula na nzo ya bansadi to na kimvuka?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Vandisa bantu na mutindu bo lenda mona mpi kuwa.** Bantu kutula bisadilu ya kuwa, luneti, mpi kufwa televizio.
+2. **Yantika yo bonso masolo.** « Mono kele ti biyuvula ya mambu ya ntama, mpi mono ke yindula nde beno ke zaba mingi kuluta mono. »
+3. **Tanga konso kiuvu mbala zole mpi sonika mpono na nsonika ya nene.**
+4. **Yamba bamvutu ya konso kisika na suku.** Vutukila bamvutu ya mbote sambu bantu yonso kuwa.
+5. **Tuba mvutu sambu na bantu yonso,** na nima yuvula kiuvu ya kusolula na kimvuka.
+6. **Landa ngolo ya kimvuka.** Kana kiuvu mosi ke basisa masolo ya miniti kumi, bika yo.
+7. **Manisa ti nkunga to ti kimvuka ya biyuvula ya « Yayi to yina »,** sambu konso muntu kumanisa na kima ya pete.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Sambu na mitindu yankaka ya bisalu ya kimvuka, bakisa picture bingo mpi kuyimba na kintwadi, tala [bisalu ya kimvuka sambu na banzo ya bansadi](/activities/care-home-groups/).
 
-## When to change the plan
+## Ntangu ya kusoba manaka
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Kana muntu mosi ke monana bonso yandi ke kudiyangisa, yandi ke vanda pima to yandi ke tuba « Mono me zaba ve » mbala kuluta mosi, sala yo pete: kitisa na mpono zole, pesa mvutu na kintwadi, to soba na biyuvula ya « Yayi to yina ». Kana kimvuka ke zola kutubila kiuvu mosi nkokila ya mvimba, yina kele ndungunu. Lukanu vandaka ve kuzwa bamvutu ya mbote. Lukanu vandaka kulutisa ntangu ya mbote na kintwadi ti bantu yankaka.

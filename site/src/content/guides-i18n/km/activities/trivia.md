@@ -1,32 +1,31 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "សំណួរចំណេះដឹងងាយៗសម្រាប់មនុស្សចាស់មានជំងឺវង្វេង គ្មានសម្ពាធ"
+seoTitle: "សំណួរចំណេះដឹងសម្រាប់មនុស្សចាស់មានជំងឺវង្វេង មានចម្លើយ"
+description: "សំណួរចំណេះដឹងងាយៗចំនួន 50 សម្រាប់មនុស្សចាស់ដែលមានជំងឺវង្វេង មានជម្រើសចម្លើយ និងចំណុចសន្ទនា ព្រមទាំងវិធីលេងដោយគ្មានការប្រឡង ឬធ្វើឱ្យនរណាម្នាក់មានអារម្មណ៍ថាត្រូវបានគេមើលរំលង។"
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  សំណួរចំណេះដឹងងាយៗសម្រាប់មនុស្សចាស់ដែលមានជំងឺវង្វេង អាចដំណើរការបានល្អ នៅពេលវាមានអារម្មណ៍ដូចជាការសន្ទនា មិនមែនជាការប្រឡងទេ។
+  សូមសួរអំពីរឿងដែលបានស្គាល់ជាយូរមកហើយ ដូចជាបទចម្រៀងចាស់ៗ សុភាសិត បុណ្យ និងជីវិតប្រចាំថ្ងៃ ហើយតែងតែផ្តល់ជម្រើសពីរ ឬបី។
+  សូមប្រាប់ចម្លើយដោយក្តីកក់ក្តៅ កុំរើសមនុស្សណាម្នាក់ឱ្យឆ្លើយតែម្នាក់ឯង រំលងពិន្ទុ ហើយប្រើចម្លើយនីមួយៗដើម្បីចាប់ផ្តើមរឿងរ៉ាវ។
+  សំណួរប្រភេទ «នេះ ឬនោះ» ដែលគ្មានចម្លើយខុស សមស្របសម្រាប់ដំណាក់កាលក្រោយៗ។
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "សួរអំពីរឿងដែលស្គាល់ជាយូរមកហើយ៖ បទចម្រៀង សុភាសិត បុណ្យ អាហារ និងជីវិតប្រចាំថ្ងៃកាលពីមុន។"
+  - "ផ្តល់ជម្រើសពីរ ឬបី ដើម្បីឱ្យអាចស្គាល់ចម្លើយបាន ធៀបនឹងការត្រូវនឹកចេញពីគ្មានអ្វីសោះ។"
+  - "ប្រាប់ចម្លើយដោយក្តីកក់ក្តៅ រួចបន្តទៅមុខ។ ការស្មានណាដែលនាំទៅរករឿងរ៉ាវ គឺជាការស្មានល្អ។"
+  - "គ្មានពិន្ទុ គ្មានក្រុមប្រណាំង គ្មានការហៅឈ្មោះម្នាក់ៗ។ សូមឱ្យចម្លើយមកពីអ្នកទាំងអស់គ្នា។"
+  - "នៅពេលការជ្រើសរើសរវាងចម្លើយកាន់តែពិបាក សូមប្តូរទៅសំណួរប្រភេទ «នេះ ឬនោះ» ដែលគ្មានចម្លើយត្រឹមត្រូវ ឬខុស។"
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "តើសំណួរចំណេះដឹងជាសកម្មភាពល្អសម្រាប់មនុស្សដែលមានជំងឺវង្វេងដែរឬទេ?"
+    a: "អាចជាបាន ប្រសិនបើធ្វើដោយសន្សំសម្អាត។ Alzheimer's Foundation of America រាប់បញ្ចូលសំណួរចំណេះដឹងក្នុងចំណោមសកម្មភាពសម្រាប់ដំណាក់កាលដំបូង។ សូមរក្សាសំណួរឱ្យនៅលើប្រធានបទដែលស្គាល់ជាយូរ ផ្តល់ជម្រើស កុំធ្វើឱ្យមនុស្សម្នាក់មានអារម្មណ៍ថាត្រូវឆ្លើយតែម្នាក់ឯង ហើយចាត់ទុកចម្លើយជាវិធីចាប់ផ្តើមការសន្ទនា មិនមែនជាការប្រឡងទេ។"
+  - q: "ប្រធានបទអ្វីខ្លះដែលសមស្របបំផុតសម្រាប់សំណួរចំណេះដឹងសម្រាប់មនុស្សមានជំងឺវង្វេង?"
+    a: "រឿងដែលបានរៀនជាយូរមកហើយ ជារឿយៗដំណើរការបានល្អបំផុត៖ បទចម្រៀងពេញនិយម និងអ្នកចម្រៀងពីវ័យក្មេងរបស់មនុស្សនោះ សុភាសិតដែលស្គាល់ បុណ្យ អាហារ កីឡា និងជីវិតប្រចាំថ្ងៃ ដូចជាការដឹកទឹកដោះគោមកដល់ផ្ទះ ឬទូរស័ព្ទបង្វិលលេខ។ សូមជៀសវាងព័ត៌មានថ្មីៗ និងអ្វីៗដែលតម្រូវឱ្យចងចាំរឿងដែលបានកើតឡើងមុនក្នុងវគ្គនោះ។"
+  - q: "តើខ្ញុំអាចរៀបចំល្បែងសំណួរចំណេះដឹងនៅក្នុងមណ្ឌលថែទាំ ដោយមិនធ្វើឱ្យនរណាម្នាក់អាម៉ាសដែរឬទេ?"
+    a: "សូមអានសំណួរនីមួយៗឱ្យក្រុមទាំងមូលស្តាប់ បង្ហាញ ឬនិយាយជម្រើស ហើយស្វាគមន៍ចម្លើយពីអ្នកណាក៏បាន។ កុំហៅឈ្មោះមនុស្សជាក់លាក់ ឬកត់ពិន្ទុ។ សូមនិយាយចម្លើយដោយញញឹម មិនថាមនុស្សនោះបានស្មានយ៉ាងណាក៏ដោយ ហើយសួរបន្តដូចជា «តើមានអ្នកណានៅទីនេះធ្លាប់ទៅមើលភាពយន្តនៅក្នុងឡានទេ?» ដើម្បីប្រែក្លាយវាទៅជារឿងរ៉ាវ។"
+  - q: "តើខ្ញុំអាចធ្វើអ្វីជំនួសសំណួរចំណេះដឹងនៅដំណាក់កាលក្រោយៗ?"
+    a: "សូមប្តូរទៅសំណួរដែលគ្មានចម្លើយខុស ដូចជា «កាហ្វេ ឬតែ?» ឬ «ឆ្នេរ ឬភ្នំ?» និងការបំពេញសុភាសិត ឬបទចម្រៀងដែលស្គាល់ជាមួយគ្នា។ ការមើលរូបភាព និងពិពណ៌នាអំពីរូបភាពជាមួយគ្នាក៏អាចសមស្របផងដែរ។"
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +44,137 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+សំណួរចំណេះដឹងគឺជាសកម្មភាពក្រុមមួយដែលត្រូវបានស្នើសុំជាញឹកញាប់នៅក្នុងមណ្ឌលថែទាំ និងកម្មវិធីពេលថ្ងៃ ហើយគ្រួសារជាច្រើនក៏លេងវានៅតុផ្ទះបាយដែរ។ ប្រសិនបើលេងតាមវិធីធម្មតា ដោយមានពិន្ទុ និងឱ្យម្នាក់ៗឆ្លើយ វាអាចធ្វើឱ្យមនុស្សដែលមានជំងឺវង្វេងមានអារម្មណ៍ថាត្រូវបានដាក់ឱ្យនៅក្នុងស្ថានភាពលំបាក។ ប៉ុន្តែប្រសិនបើលេងដោយសន្សំសម្អាត វាអាចក្លាយជាវិធីដ៏រស់រវើកមួយក្នុងការស្តាប់រឿងរ៉ាវ។ ខាងក្រោមនេះមានសំណួរងាយៗចំនួន 50 ដែលមានជម្រើសចម្លើយ និងចំណុចសន្ទនាសម្រាប់សំណួរនីមួយៗ បន្ទាប់មកមានការណែនាំអំពីរបៀបរៀបចំវគ្គមួយ។
 
-## How do you make trivia work for someone with dementia?
+## តើអ្នកអាចធ្វើឱ្យសំណួរចំណេះដឹងសមស្របសម្រាប់មនុស្សដែលមានជំងឺវង្វេងដោយរបៀបណា?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+សូមធ្វើឱ្យវាទាក់ទងនឹងការស្គាល់ និងការចងចាំរឿងកាលពីយូរលង់ ហើយធ្វើឱ្យរាល់ចម្លើយទាំងអស់មានតម្លៃ។
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **សួរអំពីអតីតកាលដ៏ឆ្ងាយ។** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) បញ្ជាក់ថា រោគសញ្ញាដំបូងទូទៅបំផុតនៃជំងឺ Alzheimer គឺការពិបាកចងចាំព័ត៌មានដែលទើបរៀនថ្មីៗ។ បទចម្រៀង សុភាសិត និងជីវិតប្រចាំថ្ងៃកាលពីជាច្រើនទសវត្សរ៍មុន ជារឿយៗអាចជាប្រធានបទដែលងាយស្រួលជាង។
+2. **តែងតែផ្តល់ជម្រើស។** ការជ្រើសរើសចម្លើយត្រឹមត្រូវពីជម្រើសពីរ ឬបី គឺងាយស្រួលជាងការត្រូវនិយាយចម្លើយចេញពីគ្មានអ្វីសោះ។
+3. **អានសំណួរឱ្យឮៗ និងបង្ហាញជាអក្សរធំ។** ក្តារស ឬថេប្លេតដែលលើកបង្ហាញ អាចជួយមនុស្សដែលស្តាប់មិនសូវល្អ។
+4. **ប្រាប់ចម្លើយដោយសេរី។** ប្រសិនបើគ្មាននរណាម្នាក់ដឹងទេ សូមប្រាប់ចម្លើយដោយក្តីកក់ក្តៅ រួចបន្តទៅមុខ។ កុំនិយាយថា «មកនេះ អ្នកដឹងហើយតើ»។
+5. **គ្មានពិន្ទុ។** មិនមែនសម្រាប់មនុស្សម្នាក់ៗ និងមិនមែនសម្រាប់តុផ្សេងៗទេ។ ប្រសិនបើអ្នកចូលរួមចង់បានលេខ សូមរក្សាពិន្ទុសរុបរបស់ក្រុមតែមួយ។
+6. **កុំហៅឈ្មោះម្នាក់ៗឱ្យឆ្លើយ។** សូមឱ្យចម្លើយមកពីអ្នកណាក៏បាន។ នៅពេលលេងទល់មុខគ្នា សូមឆ្លើយជាមួយគ្នា៖ «ខ្ញុំគិតថាវាជាព្យាណូ។ ចុះអ្នកគិតយ៉ាងណាដែរ?»
+7. **ប្រើចំណុចសន្ទនា។** ចម្លើយគឺជាចំណុចចាប់ផ្តើម មិនមែនជាចំណុចបញ្ចប់ទេ។ រឿងរ៉ាវគឺជាគោលបំណងពិតប្រាកដ។
+8. **រក្សាវាឱ្យខ្លី។** សំណួរចំនួនដប់ ដែលមានរឿងរ៉ាវនៅចន្លោះ គឺគ្រប់គ្រាន់ហើយ។
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) សង្ខេបច្បាប់សំខាន់បែបនេះ៖ សូមសង្កេតមើលការខកចិត្ត ហើយធ្វើឱ្យប្រាកដថាមនុស្សនោះមានអារម្មណ៍ថាជោគជ័យ។ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) រាប់បញ្ចូលសំណួរចំណេះដឹងក្នុងចំណោមសកម្មភាពសម្រាប់ដំណាក់កាលដំបូង។ នៅដំណាក់កាលកណ្តាល សូមរក្សាជម្រើសតែពីរ ហើយពឹងផ្អែកលើចំណុចសន្ទនា។ ក្រោយមក សូមប្តូរទៅសំណួរប្រភេទ «នេះ ឬនោះ» ដែលមាននៅខាងក្រោម។
 
-## Music and entertainment trivia
+## សំណួរចំណេះដឹងអំពីតន្ត្រី និងកម្សាន្ត
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+ចម្លើយស្ថិតនៅក្នុងអក្សរ **ដិត**។ សូមកែសម្រួលសំណួរទាំងនេះឱ្យសមនឹងមនុស្សនោះ៖ អ្នកដែលធំឡើងជាមួយ Motown អាចចង់បានអ្នកចម្រៀងខុសពីអ្នកដែលធំឡើងជាមួយក្រុមតន្រ្តី big band។
 
-| Question | Choices | Talk about |
+| សំណួរ | ជម្រើស | ចំណុចសន្ទនា |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| តើនរណាត្រូវបានគេហៅថា ស្តេចនៃ Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | តើអ្នកធ្លាប់មើល Elvis នៅលើទូរទស្សន៍ទេ? |
+| តើអ្នកចម្រៀងណាដែលមានឈ្មោះហៅក្រៅថា Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | តើបទចម្រៀងរបស់ Sinatra មួយណាដែលអ្នកចូលចិត្តបំផុត? |
+| Bing Crosby បានស្រមៃអំពីពណ៌ស... | **ណូអែល (Christmas)**, អាពាហ៍ពិពាហ៍, ផ្ទះ | ច្រៀងមួយបន្ទាត់ជាមួយគ្នា |
+| Louis Armstrong បានច្រៀងថា "What a Wonderful..." | ថ្ងៃ (Day), **ពិភពលោក (World)**, ជីវិត (Life) | តើអ្វីខ្លះដែលធ្វើឱ្យពិភពលោកនេះអស្ចារ្យសម្រាប់អ្នក? |
+| Judy Garland បានច្រៀងបទ "Over the Rainbow" នៅក្នុងភាពយន្តរឿងណា? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | តើអ្នកធ្លាប់ទៅមើលភាពយន្តដែលអ្នកចូលចិត្តនៅឯណា? |
+| តើនរណាជាតារាសម្ដែង Lucy នៅក្នុងកម្មវិធី "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | តើកម្មវិធីទូរទស្សន៍អ្វីខ្លះដែលគ្រួសារអ្នកមើលជាមួយគ្នា? |
+| តើកវប៊យណាដែលជិះសេះឈ្មោះ Trigger? | **Roy Rogers**, Gene Autry, John Wayne | តើអ្នកធ្លាប់លេងជាកវប៊យនៅពេលកុមារភាពទេ? |
+| តើនរណាជាអ្នកដឹកនាំកម្មវិធី "The Tonight Show" អស់រយៈពេល 30 ឆ្នាំ? | Ed Sullivan, **Johnny Carson**, Bob Hope | តើអ្នកធ្លាប់នៅភ្ញាក់យឺតដើម្បីមើលទូរទស្សន៍ទេ? |
+| តើឧបករណ៍តន្រ្តីមួយណាដែលមានគ្រាប់ចុច 88? | ហ្គីតា, **ព្យាណូ**, ត្រែ |
+| តើអ្នកណានៅក្នុងគ្រួសារអ្នកធ្លាប់លេងតន្រ្តីទេ? |
+| តើរាំមួយណាដែលរាប់ថា មួយ-ពីរ-បី មួយ-ពីរ-បី? | **វាល់ត្ស (Waltz)**, ទ្វីស (twist), តាំងហ្គោ (tango) | តើអ្នកធ្លាប់ទៅរាំនៅឯណា? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+សម្រាប់ព័ត៌មានបន្ថែមអំពីតន្ត្រី សូមមើល [សកម្មភាពតន្ត្រីសម្រាប់មនុស្សមានជំងឺវង្វេង](/activities/music/)។
 
-## Everyday life trivia
+## សំណួរចំណេះដឹងអំពីជីវិតប្រចាំថ្ងៃ
 
-| Question | Choices | Talk about |
+| សំណួរ | ជម្រើស | ចំណុចសន្ទនា |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| មុនពេលមានទូទឹកកក គេជារឿយៗរក្សាអាហារឱ្យត្រជាក់នៅក្នុង... | **ធុងទឹកកក (Icebox)**, ចង្រ្កាន, ជាន់ខ្ពស់ក្រោមដំបូល | តើនរណាជាអ្នកដឹកទឹកកកមកផ្ទះ? |
+| តើនរណានាំទឹកដោះគោមកដល់មាត់ទ្វារក្នុងដបកែវ? | អ្នកបញ្ជូនសំបុត្រ, **អ្នកដឹកទឹកដោះគោ**, ក្មេងបញ្ជូនកាសែត | តើមានអ្វីផ្សេងទៀតដែលគេដឹកមកដល់ផ្ទះ? |
+| តើអ្នកចុចលេខទូរស័ព្ទបង្វិលដោយរបៀបណា? | ចុចប៊ូតុង, **បង្វិលកង់លេខ**, និយាយទៅកាន់វា | សូមប្រាប់ខ្ញុំអំពីទូរស័ព្ទនៅក្នុងផ្ទះរបស់អ្នក |
+| តើក្រុមហ៊ុនណាបានផលិតឡាន Model T? | **Ford**, Chevrolet, Buick | សូមប្រាប់ខ្ញុំអំពីឡានមួយដែលអ្នកចូលចិត្ត |
+| តើអ្នកអាចរកឃើញ soda jerk នៅឯណា? | **នៅហាង soda fountain**, នៅហាងនំប៉័ង, នៅធនាគារ | តើអ្នកធ្លាប់កម្ម៉ង់អ្វីនៅបញ្ជរ? |
+| តើប្រដាប់ក្មេងលេងមួយណាដែលជារនujetលោហៈ អាចដើរចុះជណ្តើរបាន? | Yo-yo, **Slinky**, hula hoop | តើប្រដាប់ក្មេងលេងអ្វីខ្លះដែលអ្នកចូលចិត្ត? |
+| Drive-in គឺជាកន្លែងសម្រាប់មើល... | **ភាពយន្តពីក្នុងឡានរបស់អ្នក**, ការប្រកួតបាល់, ក្បួនដង្ហែ | តើអ្នកទៅជាមួយនរណា? |
+| តើមុខអ្នកណានៅលើក្រដាសប្រាក់មួយដុល្លារ? | Lincoln, **George Washington**, Jefferson | តើមួយដុល្លារអាចទិញអ្វីបានខ្លះនៅសម័យនោះ? |
+| តើមុខអ្នកណានៅលើកាក់មួយសេន? | **Abraham Lincoln**, Washington, Franklin | តើអ្នកធ្លាប់សន្សំកាក់មួយសេនក្នុងដបកែវទេ? |
+| តើឡានក្រុងសាលាជាធម្មតាមានពណ៌អ្វី? | ក្រហម, **លឿង**, ខៀវ | តើអ្នកទៅសាលាដោយរបៀបណា? |
 
-## Holidays, nature and places
+## សំណួរចំណេះដឹងអំពីបុណ្យ ធម្មជាតិ និងទីកន្លែង
 
-| Question | Choices | Talk about |
+| សំណួរ | ជម្រើស | ចំណុចសន្ទនា |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| តើបុណ្យមួយណាដែលធ្លាក់នៅថ្ងៃព្រហស្បតិ៍ទីបួននៃខែវិច្ឆិកា? | Labor Day, **Thanksgiving**, Memorial Day | តើមានអ្វីខ្លះដែលតែងតែមាននៅលើតុរបស់អ្នក? |
+| Jack-o'-lanterns ត្រូវបានធ្វើឡើងសម្រាប់បុណ្យមួយណា? | **Halloween**, Easter, Christmas | សូមប្រាប់ខ្ញុំអំពីបុណ្យ Halloween នៅកន្លែងដែលអ្នកធំឡើង |
+| បុណ្យទី 4 ខែកក្កដា ប្រារព្ធការប្រកាសអំពី... | សិទ្ធិ (Rights), **ឯករាជ្យភាព (Independence)**, សេរីភាព (Freedom) | តើអ្នកធ្លាប់មើលកាំជ្រួចនៅឯណា? |
+| បុណ្យ Mother’s Day ស្ថិតនៅខែណា? | មេសា, **ឧសភា**, មិថុនា | តើគ្រួសារអ្នកបានប្រារព្ធយ៉ាងដូចម្តេច? |
+| តើមានផ្កាយប៉ុន្មាននៅលើទង់ជាតិអាមេរិក? | 48, **50**, 52 | ទង់ជាតិមានផ្កាយ 48 រហូតដល់ឆ្នាំ 1959។ ចម្លើយណាក៏ជាការចងចាំដ៏ល្អ |
+| តើមហាសមុទ្រមួយណាស្ថិតនៅឆ្នេរខាងកើត? | ប៉ាស៊ីហ្វិក, **អាត្លង់ទិក**, អាកទិក | តើអ្នកធ្លាប់ទៅឆ្នេរសមុទ្រទេ? |
+| តើរូបសំណាកសេរីភាព (Statue of Liberty) ស្ថិតនៅទីក្រុងណា? | Boston, **New York**, Philadelphia | តើអ្នកធ្លាប់ទៅ New York ទេ? |
+| តើឃ្មុំផលិតអ្វី? | ទឹកដោះគោ, **ទឹកឃ្មុំ**, សូត្រ | ទឹកឃ្មុំលាបនំប៉័ង ឬដាក់ក្នុងតែ? |
+| កូនគោត្រូវបានគេហៅថា... | Foal, **calf**, kid | តើអ្នកធ្លាប់រស់នៅជិតកសិដ្ឋានទេ? |
+| តើផ្កាពណ៌លឿងខ្ពស់មួយណាដែលល្បីក្នុងការបែរមុខទៅរកព្រះអាទិត្យ? | ផ្កាកុលាប, **ផ្កាឈូករ័ត្ន**, ផ្កាទួលីប | តើមានអ្វីខ្លះដុះនៅក្នុងសួនរបស់អ្នក? |
+| តើមានប៉ុន្មានថ្ងៃក្នុងឆ្នាំបង្គ្រប់? | 365, **366**, 360 | សូមប្រាប់ខ្ញុំអំពីថ្ងៃកំណើតមួយដែលអ្នកចងចាំ |
+| តើរដូវមួយណាមកបន្ទាប់ពីរដូវរងា? | រដូវស្លឹកឈើជ្រុះ, **រដូវផ្ការីក**, រដូវក្តៅ | តើរដូវណាដែលអ្នកចូលចិត្តបំផុត? |
 
-## Food and sports trivia
+## សំណួរចំណេះដឹងអំពីអាហារ និងកីឡា
 
-| Question | Choices | Talk about |
+| សំណួរ | ជម្រើស | ចំណុចសន្ទនា |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Raisins គឺជាទំពាំងបាយជូរ... | Plums, **ទំពាំងបាយជូរ**, Cherries | តើអ្នកធ្លាប់ដាក់ raisins ក្នុងអាហារថ្ងៃត្រង់ទេ? |
+| Prunes គឺជា... ស្ងួត | **Plums**, Figs, Apples | តើនរណានៅក្នុងគ្រួសារអ្នកចូលចិត្ត prunes? |
+| ប៊ឺសណៃ និង... | **ជេលលី (Jelly)**, ឈីស, ជ្រូក |
+| អ្នកចូលចិត្ត crunchy ឬ smooth? |
+| Guacamole ត្រូវបានធ្វើឡើងភាគច្រើនពី... | សណ្តែកបៃតង, **ផ្លែបឺរ (Avocados)**, ត្រសក់ | តើមានជ្រលក់អ្វីខ្លះនៅក្នុងពិធីជប់លៀង? |
+| តើនំផេះមួយណាដែលជាចំណង់ចំណូលចិត្តនៅថ្ងៃ Thanksgiving? | **ល្ពៅ (Pumpkin)**, ក្រូចឆ្មារ, Cherry | តើនំផេះមួយណាដែលអ្នកធ្លាប់ធ្វើ? |
+| តើក្រុមបេស្បលមួយមានអ្នកលេងប៉ុន្មាននាក់នៅលើទីលាន? | 7, **9**, 11 | តើក្រុមណាដែលអ្នកគាំទ្រ? |
+| តើត្រូវការ strikes ប៉ុន្មានដងដើម្បីបាន out មួយក្នុងកីឡាបេស្បល? | ពីរ, **បី**, បួន | តើអ្នកធ្លាប់លេងបាល់ទេ? |
+| Babe Ruth ល្បីល្បាញក្នុងកីឡាអ្វី? | ប្រដាល់, **បេស្បល**, កុនលើទឹកកក (Golf) | តើអ្នកធ្លាប់ទៅមើលការប្រកួតបាល់ទេ? |
+| តើមានរណ្តៅប៉ុន្មាននៅលើទីលានកុនលើទឹកកកស្តង់ដារ? | 9, **18**, 24 | តើអ្នកធ្លាប់លេងកុនលើទឹកកក ឬ mini golf ទេ? |
+| តើក្នុងកីឡាអ្វីដែលអ្នកអាចរកពិន្ទុ touchdown បាន? | **បាល់អោប (Football)**, ហុកគី, បាល់បោះ | តើនរណាមើលបាល់អោបនៅផ្ទះរបស់អ្នក? |
 
-## Familiar sayings
+## សុភាសិតដែលស្គាល់
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+ការបំពេញសុភាសិតអាស្រ័យលើភាសាដែលបានរៀនជាយូរមកហើយ ហើយជារឿយៗអាចធ្វើបានយ៉ាងងាយស្រួល។ ល្បែង [បំពេញសុភាសិត](/games/finish-the-saying/) របស់យើងមានសុភាសិតជាច្រើនទៀត ដោយអាចចុចដើម្បីបង្ហាញចុងបញ្ចប់នីមួយៗ។
 
-| Saying | Choices | Talk about |
+| សុភាសិត | ជម្រើស | ចំណុចសន្ទនា |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | តើនរណាធ្លាប់និយាយរឿងនេះទៅកាន់អ្នក? |
+| The early bird catches the... | Bus, **worm**, train | តើអ្នកជាមនុស្សភ្ញាក់ពីព្រលឹមទេ? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | តើគ្រួសារអ្នកធ្លាប់ចិញ្ចឹមមាន់ទេ? |
+| A penny saved is a penny... | **Earned**, lost, spent | តើនរណានៅក្នុងគ្រួសារអ្នកជាអ្នកចេះសន្សំ? |
+| Home is where the... | Garden is, **heart is**, kitchen is | តើអ្វីធ្វើឱ្យកន្លែងមួយមានអារម្មណ៍ដូចជាផ្ទះ? |
+| Better late than... | Early, **never**, sorry | តើនរណាដែលតែងតែមកយឺត? |
+| Every cloud has a silver... | **Lining**, spoon, coin | សូមប្រាប់ខ្ញុំអំពីរឿងល្អមួយដែលបានកើតឡើង |
+| Actions speak louder than... | **Words**, music, thunder | សូមប្រាប់ខ្ញុំអំពីអ្នកណាម្នាក់ដែលធ្លាប់និយាយបែបនេះ |
 
-## This-or-that questions with no wrong answer
+## សំណួរប្រភេទ «នេះ ឬនោះ» ដែលគ្មានចម្លើយខុស
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+សំណួរទាំងនេះសមស្របសម្រាប់គ្រប់ដំណាក់កាល រួមទាំងដំណាក់កាលក្រោយៗផងដែរ ព្រោះមិនមានអ្វីត្រូវ ឬខុសទេ។ សូមសួរ ស្តាប់ ហើយចែករំលែកចម្លើយរបស់អ្នកផងដែរ។
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- កាហ្វេ ឬតែ?
+- ឆ្នេរសមុទ្រ ឬភ្នំ?
+- ឆ្កែ ឬឆ្មា?
+- រដូវក្តៅ ឬរដូវរងា?
+- នំផេះ ឬនំខេក?
+- រាំ ឬគ្រាន់តែមើល?
+- ថ្ងៃរះ ឬថ្ងៃលិច?
+- រានហាលខាងមុខ ឬសួនខាងក្រោយ?
+- វិទ្យុ ឬថាសចម្រៀង?
+- នំផេនខេក ឬពង?
+- ផ្កាកុលាប ឬផ្កាដូចខ្វិត?
+- ដំណើរកំសាន្តតាមរថភ្លើង ឬដំណើរកំសាន្តតាមឡាន?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+សម្រាប់សំណួរជំរុញការសន្ទនាដែលមានរូបភាពភ្ជាប់ សូមសាកល្បង [កាតសន្ទនា](/games/conversation-cards/) ដែលអាចបោះពុម្ពបានរបស់យើង។
 
-## How do you run a trivia session in a care home or group?
+## តើអ្នកអាចរៀបចំវគ្គសំណួរចំណេះដឹងនៅក្នុងមណ្ឌលថែទាំ ឬក្នុងក្រុមដោយរបៀបណា?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **រៀបចំកន្លែងអង្គុយឱ្យមនុស្សអាចមើល និងស្តាប់បាន។** ពាក់ឧបករណ៍ជំនួយការស្តាប់ ពាក់វ៉ែនតា បិទទូរទស្សន៍។
+2. **ណែនាំវាជាការសន្ទនា។** «ខ្ញុំមានសំណួរមួយចំនួនអំពីអតីតកាល ហើយខ្ញុំជឿថាអ្នកដឹងច្រើនជាងខ្ញុំទៅទៀត។»
+3. **អានសំណួរនីមួយៗពីរដង និងបង្ហាញជម្រើសជាអក្សរធំ។**
+4. **ស្វាគមន៍ចម្លើយពីកន្លែងណាក៏បានក្នុងបន្ទប់។** សូមនិយាយចម្លើយល្អៗម្តងទៀត ដើម្បីឱ្យអ្នកទាំងអស់បានឮ។
+5. **ប្រាប់ចម្លើយសម្រាប់អ្នកទាំងអស់គ្នា** បន្ទាប់មកសួរចំណុចសន្ទនាទៅកាន់ក្រុម។
+6. **អនុវត្តតាមថាមពលរបស់ក្រុម។** ប្រសិនបើសំណួរមួយនាំឱ្យមានរឿងរ៉ាវរយៈពេលដប់នាទី សូមអនុញ្ញាតឱ្យបន្ត។
+7. **បញ្ចប់ដោយបទចម្រៀង ឬវគ្គសំណួរ «នេះ ឬនោះ»** ដើម្បីឱ្យអ្នកទាំងអស់បញ្ចប់ដោយអ្វីដែលងាយស្រួល។
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+សម្រាប់ទម្រង់ក្រុមផ្សេងទៀត រួមទាំង picture bingo និងការច្រៀងជាមួយគ្នា សូមមើល [សកម្មភាពជាក្រុមសម្រាប់មណ្ឌលថែទាំ](/activities/care-home-groups/)។
 
-## When to change the plan
+## ពេលណាដែលគួរផ្លាស់ប្តូរផែនការ
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+ប្រសិនបើអ្នកណាម្នាក់មើលទៅព្រួយបារម្ភ ស្ងៀមស្ងាត់ ឬនិយាយថា «ខ្ញុំមិនដឹងទេ» ច្រើនជាងម្តង សូមធ្វើឱ្យវាកាន់តែងាយស្រួល៖ បន្ថយទៅសល់ជម្រើសតែពីរ ឆ្លើយជាមួយគ្នា ឬប្តូរទៅសំណួរ «នេះ ឬនោះ»។ ប្រសិនបើក្រុមចង់និយាយអំពីសំណួរតែមួយពេញមួយរសៀល នោះវាក៏ជាជោគជ័យដែរ។ គោលបំណងមិនមែនជាចម្លើយត្រឹមត្រូវនោះទេ។ គោលបំណងគឺពេលវេលាដែលបានចំណាយជាមួយគ្នាដោយរីករាយ។

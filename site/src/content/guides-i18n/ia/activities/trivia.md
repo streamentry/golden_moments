@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Trivial facile pro personas con dementia, sin pression"
+seoTitle: "Trivial facile pro personas con dementia, con responsas"
+description: "50 questiones de trivial facile pro personas con dementia, con optiones de responsa e ideas pro parlar, plus como facer trivial sin poner alcuno al prova."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Le trivial facile pro personas con dementia functiona ben quando illo sembla
+  un conversation, non un prova. Demanda super cosas apprendite il ha multe
+  tempore, como vetere cantos, proverbios, dies feriate e vita quotidian, e
+  offere semper duo o tres optiones. Da le responsa con caliditate, nunquam
+  pone alcuno in difficultate, salta le punctos, e usa cata responsa pro
+  comenciar un historia. Questiones "isto o illo" sin responsa incorrecte
+  conveni ben in phases plus avantiate.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Demanda super cosas familiar desde longe tempore: cantos, proverbios, dies feriate, alimento e vita quotidian de annos passate."
+  - "Offere duo o tres optiones assi que le responsa pote esser recognoscite in loco de esser evocate."
+  - "Dice le responsa con caliditate e continua. Qualcunque tentativa que comencia un historia es un bon tentativa."
+  - "Sin punctos, sin equipas in competition, sin appellar un sol persona. Lassa que le responsas veni del gruppo integre."
+  - "Quando eliger inter responsas deveni difficile, passa a questiones isto-o-illo sin responsa correcte."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Es le trivial un bon activitate pro personas que vive con dementia?"
+    a: "Illo pote esser lo, si illo es facite con dulcitate. Le Alzheimer's Foundation of America include le trivial inter le activitates pro le phase initial. Mantene le questiones super themas familiar desde longe tempore, offere optiones, nunquam pone un persona sol al centro del attention, e tracta le responsas como un via a conversation in loco de un prova."
+  - q: "Qual themas functiona melio pro le trivial de dementia?"
+    a: "Le cosas apprendite il ha multe tempore tende a functionar melio: cantos e cantatores popular del juventute del persona, proverbios familiar, dies feriate, alimento, sport, e vita quotidian como le livration de lacte e telephonos a disco. Evita le novas recente e toto lo que require memorar alco de plus tosto in le mesme session."
+  - q: "Como pote io facer trivial in un residentia de cura sin embarassar alcuno?"
+    a: "Lege cata question al gruppo integre, monstra o dice le optiones, e recipe responsas de qualcunque persona. Non appella personas individual e non tene punctos. Dice le responsa con un surriso, sin reguardo a lo que esseva conjecturate, e pone un question de continuation como 'Qui hic ha jammais vadite a un cinema drive-in?' pro transformar lo in historias."
+  - q: "Que pote io facer in loco de trivial in phases plus avantiate?"
+    a: "Passa a questiones sin responsa incorrecte, como 'Caffe o the?' o 'Plagia o montanias?', e a completar insimul proverbios o cantos familiar. Reguardar imagines e describer los insimul functiona etiam ben."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Le trivial es un del activitates de gruppo le plus requestate in residentias de cura e programmas diurne, e multe familias lo joca etiam al tabula del cocina. Si illo es facite del maniera habitual, con punctos e un sol persona que responde, illo pote lassar un persona que vive con dementia sentir se sub pression. Si illo es facite con dulcitate, illo deveni un maniera vivace de audir historias. Infra tu trova 50 questiones facile con optiones de responsa e un idea pro parlar pro cata un, sequite per como conducer un session.
 
-## How do you make trivia work for someone with dementia?
+## Como facer que le trivial functiona pro un persona que vive con dementia?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Face lo un question de recognoscer e rememorar cosas de longe tempore passate, e recipe cata responsa con benvenita.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Demanda super le passato distante.** Le [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dice que le symptoma initial le plus commun de Alzheimer es le difficultate de memorar information apprendite recentemente. Cantos, proverbios e vita quotidian de decennios retro es sovente un terreno plus facile.
+2. **Offere semper optiones.** Eliger le responsa correcte inter duo o tres es multo plus facile que producer lo sin adjuta.
+3. **Lege le questiones a alte voce e monstra los in grande.** Un tabula blanc o un tabletta tenite in alto adjuta personas que audi minus ben.
+4. **Da le responsa liberemente.** Si nemo lo sape, dice lo con caliditate e continua. Nunquam "Vamos, tu lo sape."
+5. **Sin punctos.** Ni pro personas individual ni pro tabulas. Si le personas vole un numero, tene un total de gruppo.
+6. **Nunquam appella un sol persona.** Lassa que le responsas veni de qualcunque persona. In un activitate a duo, responde insimul: "Io pensa que es le piano. Que pensa tu?"
+7. **Usa le idea pro parlar.** Le responsa es le comencio, non le fin. Le historias es le ver objectivo.
+8. **Mantene lo curte.** Dece questiones con historias inter illos es sufficiente.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+Le [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) exprime le regula principal simplemente: observa si il ha frustration e face certo que le persona se senti con successo. Le [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) include le trivial inter le activitates pro le phase initial. In le phase medie, mantene te a duo optiones e appoia te sur le ideas pro parlar. Plus tarde, passa al questiones isto-o-illo plus infra.
 
-## Music and entertainment trivia
+## Trivial de musica e entertainmento
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Le responsa es in **grasse**. Adapta iste questiones al persona: alcuno qui cresceva con Motown volera cantatores differente de alcuno qui cresceva con le grande orchestras.
 
-| Question | Choices | Talk about |
+| Question | Optiones | Idea pro parlar |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Qui esseva appellate le Rege del Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Ha tu jammais vidite Elvis al television? |
+| Qual cantator esseva cognoscite como Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Qual canto de Sinatra te place le plus? |
+| Bing Crosby soniava un blanc... | **Natal**, sposalitia, casa | Canta insimul un linea |
+| Louis Armstrong cantava "What a Wonderful..." | Day, **World**, Life | Que rende le mundo meraviliose pro te? |
+| "Over the Rainbow" esseva cantate per Judy Garland in qual film? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Ubi videva tu tu filmes preferite? |
+| Qui interprendeva Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Qual programmas reguardava tu familia insimul? |
+| Qual cowboy cavalcava un cavallo nominate Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Joca tu a cowboys quando tu esseva infante? |
+| Qui presentava "The Tonight Show" durante 30 annos? | Ed Sullivan, **Johnny Carson**, Bob Hope | Restava tu eveliate tarde pro reguardar le television? |
+| Qual instrumento ha 88 claves? | Guitarra, **piano**, trompetta | Habeva alcuno in tu familia qui jocava? |
+| Qual dansa se conta un-duo-tres, un-duo-tres? | **Valse**, twist, tango | Ubi vadeva tu pro dansar? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Pro plus sur le musica, vide [activitates musical pro dementia](/activities/music/).
 
-## Everyday life trivia
+## Trivial super le vita quotidian
 
-| Question | Choices | Talk about |
+| Question | Optiones | Idea pro parlar |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Ante le refrigeratores, multe casas conservava le alimento frigide in un... | **Cassa de glacie**, furno, greniero | Qui livrava le glacie? |
+| Qui portava le lacte al porta in bottilias de vitro? | Le postero, **le livrator de lacte**, le livrator de jornales | Que altere cosas esseva livrate al casa? |
+| Como discava tu un telephono a disco? | Pressante buttones, **girante un rota**, parlante a illo | Conta me super le telephono in tu casa |
+| Qual compania fabricava le auto Model T? | **Ford**, Chevrolet, Buick | Conta me super un auto que te placeva |
+| Ubi trovarea tu un "soda jerk"? | **A un banco de soda**, a un paneteria, a un banca | Que commandava tu al banco? |
+| Qual joculo es un ressorto metallic que pote descender scalas? | Yo-yo, **Slinky**, hula hoop | Qual joculos te placeva multo? |
+| Un drive-in esseva un loco pro reguardar... | **Filmes ab tu auto**, jocos de sport, paradas | Con qui vadeva tu? |
+| Cujus facie es sur le billete de un dollar? | Lincoln, **George Washington**, Jefferson | Que poteva un dollar comprar in ille tempore? |
+| Cujus facie es sur le penny? | **Abraham Lincoln**, Washington, Franklin | Conservava tu pennies in un vaso in ille tempore? |
+| De qual color es generalmente un bus scholar? | Rubie, **jalne**, blau | Como vadeva tu al schola? |
 
-## Holidays, nature and places
+## Dies feriate, natura e locos
 
-| Question | Choices | Talk about |
+| Question | Optiones | Idea pro parlar |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Qual die feriate es le quarte jovedi de novembre? | Labor Day, **Thanksgiving**, Memorial Day | Que esseva semper sur tu tabula? |
+| Le jack-o'-lanterns es facite pro qual die feriate? | **Halloween**, Pascha, Natal | Conta me super Halloween ubi tu cresceva |
+| Le quarte de julio celebra le Declaration de... | Derectos, **Independentia**, Libertate | Ubi reguardava tu le focos de artificio? |
+| Le Die del Matre es in qual mense? | April, **maio**, junio | Como celebrava tu familia? |
+| Quante stellas ha le bandiera american? | 48, **50**, 52 | Le bandiera habeva 48 stellas usque 1959. Ambe responsas es un bon memoria |
+| Qual oceano es sur le costa est? | Pacific, **Atlantic**, Arctic | Ha tu jammais vadite al plagia? |
+| In qual citate es le Statua del Libertate? | Boston, **New York**, Philadelphia | Ha tu jammais essite in New York? |
+| Que produce le apes? | Lacte, **melle**, seta | Melle sur tosto o in the? |
+| Un parve vacca se appella un... | Pullo, **vitello**, capretto | Ha tu jammais vivite presso un ferma? |
+| Qual alte flor jalne es cognoscite pro tornar se verso le sol? | Rosa, **girasol**, tulipan | Que cresceva in tu jardin? |
+| Quante dies ha un anno bissextil? | 365, **366**, 360 | Conta me super un anniversario que tu rememora |
+| Qual saison veni post le hiberno? | Autumno, **primavera**, estate | Qual es tu saison preferite? |
 
-## Food and sports trivia
+## Trivial de alimento e sport
 
-| Question | Choices | Talk about |
+| Question | Optiones | Idea pro parlar |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Le uvas passate es... | Prunas, **uvas**, ceresias | Metteva tu uvas passate in le prandios? |
+| Le prunas siccate es... | **Prunas**, figos, pomos | Qui in tu familia amava le prunas siccate? |
+| Butyro de arachide e... | **Gelatina**, caseo, pernil | Crocante o lisie? |
+| Le guacamole es facite principalmente de... | Pisas, **avocados**, cucumeres | Qual salsas appareva al festas? |
+| Qual torta es un favorite de Thanksgiving? | **De cucurbita**, de limon, de ceresia | Qual torta faceva tu? |
+| Quante jocatores ha un equipa de baseball sur le campo? | 7, **9**, 11 | Pro qual equipa tu faceva le tifoseria? |
+| Quante strikes face un "out" in baseball? | Duo, **tres**, quatro | Ha tu jammais jocate a baseball? |
+| Babe Ruth esseva famose pro qual sport? | Boxa, **baseball**, golf | Vadeva tu a jocos de baseball? |
+| Quante bucos ha un campo de golf standard? | 9, **18**, 24 | Ha tu jammais jocate a golf, o a mini golf? |
+| In qual sport tu marca un touchdown? | **Football american**, hockey, basketball | Qui reguardava football american a tu casa? |
 
-## Familiar sayings
+## Proverbios familiar
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Completar un proverbio usa le lingua apprendite il ha longe tempore e sovente veni facilemente. Nostre joco [Completa le proverbio](/games/finish-the-saying/) ha multo plus, con un tocco pro monstrar cata fin.
 
-| Saying | Choices | Talk about |
+| Proverbio | Optiones | Idea pro parlar |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Un pomo per die tene lontan le... | **Medico**, pluvia, catto | Qui soleva dicer isto a te? |
+| Le ave matinal attrappa le... | Bus, **verme**, traino | Es tu un persona del matino? |
+| Non conta tu pullos ante que illos... | **Nasce**, dormi, canta | Habeva tu familia gallinas? |
+| Un penny sparniate es un penny... | **Ganiate**, perdite, spendite | Qui esseva le persona que sparniava in tu familia? |
+| Le casa es ubi es le... | Jardin, **corde**, cocina | Que face que un loco sembla como casa? |
+| Melio tarde que... | Tosto, **nunquam**, pardon | Qui esseva sempre in retardo? |
+| Cata nube ha un bordo de... | **Argento**, coclear, moneta | Conta me super un colpo de fortuna |
+| Le actiones parla plus forte que le... | **Parolas**, musica, tonitro | Conta me super alcuno qui diceva isto |
 
-## This-or-that questions with no wrong answer
+## Questiones isto-o-illo sin responsa incorrecte
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Iste questiones conveni a cata phase, etiam plus tarde, proque il ha nihil a indovinar correctemente. Demanda, ascolta, e divide etiam tu proprie responsa.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Caffe o the?
+- Plagia o montanias?
+- Canes o cattos?
+- Estate o hiberno?
+- Torta o torta dulce?
+- Dansar o reguardar?
+- Albor o poner del sol?
+- Veranda anterior o jardin detra?
+- Radio o discos?
+- Pancakes o ovos?
+- Rosas o margueritas?
+- Viage in traino o viage in auto?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Pro suggestiones de conversation que va con imagines, proba nostre [Cartas de conversation](/games/conversation-cards/) imprimibile.
 
-## How do you run a trivia session in a care home or group?
+## Como conducer un session de trivial in un residentia de cura o in gruppo?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Sede le personas assi que illes pote vider e audir.** Apparatos auditive in position, oculares portate, le television disactivate.
+2. **Presenta lo como un conversation.** "Io ha alcun questiones super le vetere dies, e io es secur que vos sape plus que io."
+3. **Lege cata question duo vices e monstra le optiones in grande.**
+4. **Recipe responsas de qualcunque parte del camera.** Repete le bon responsas assi que omnes audi.
+5. **Dice le responsa pro omnes,** postea pone le idea pro parlar al gruppo.
+6. **Seque le energia.** Si un question comencia dece minutas de historias, lassa lo continuar.
+7. **Termina con un canto o un ronda isto-o-illo,** assi que omnes fini con alco facile.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Pro altere formatos de gruppo, includente bingo de imagines e cantos insimul, vide [activitates de gruppo pro residentias de cura](/activities/care-home-groups/).
 
-## When to change the plan
+## Quando cambiar le plano
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Si alcuno sembla preoccupate, deveni silente o dice "Io non sape" plus de un vice, rende lo plus facile: reduce a duo optiones, responde insimul, o passa a questiones isto-o-illo. Si le gruppo prefere parlar super un question tote le postmeridie, illo es un successo. Le objectivo nunquam esseva le responsas correcte. Illo esseva passar tempore in bon compania.

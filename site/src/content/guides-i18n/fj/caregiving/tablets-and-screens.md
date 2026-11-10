@@ -1,34 +1,36 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Vakarautaka e Dua na Tablet se Talevoni"
+seoTitle: "Vakarautaka na Tablet se Talevoni me Baleta na Dementia"
+description: "iVakasala ni vakarautaki ni tablet se talevoni: lokataki ki na dua ga na app, vakalevutaka na volavola, vakaceguya na notisi, rawarawa na sikirini, ivakarau ni domo kei na itaba."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Vakarawarawataka na tablet se talevoni ni bera ni o solia yani. Lokataki ki
+  na dua ga na app ena Guided Access ena iPad kei na iPhone se ena app pinning
+  ena Android, se vakayagataka na Assistive Access ni Apple me rawarawa na
+  kena irairai. Vakalevutaka na volavola, bokoca na notisi, biuta ga e vica na
+  app kilai ena dua na sikirini ni itekitekivu, tuvanaka na domo ni bera ni
+  tekivu, vakayagataka e dua na itutu, ka yalani na veivakadonui ni app. Mo
+  vakayagataka vata, vata kei na so tale na ka sega ni vakayagataka na
+  sikirini.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Na Guided Access (iPhone, iPad) kei na app pinning (Android) e maroroya na sikirini ena dua ga na app me yacova ni o sivata."
+  - "Na Assistive Access ni Apple e vakarautaka e dua na irairai rawarawa me baleti ira era bula vata kei na guilecavi ni vakasama."
+  - "Vakalevutaka na volavola ka bokoca na notisi kei na pop-up me sega ni dua na ka e tarova se vak confuse taka."
+  - "Maroroya ga e vica na app kilai ena dua na sikirini ni itekitekivu, ka tuvanaka na domo ni bera ni tekivu."
+  - "E dua na itutu kei na vanua ni livaliva e sega ni veisau e vakarawarawataka na kena vakayagataki kei na kena kunei."
+  - "Raica lesu na veivakadonui kei na wasei ni itukutuku ni app: na HIPAA e sega ni dau taqomaka na ka e maroroi ena dua na misini vakaitaukei."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Au na tarova vakacava e dua e bula vata kei na guilecavi ni vakasama me kua ni biuta e dua na app ena iPad?"
+    a: "Vakayagataka na Guided Access ena Settings > Accessibility > Guided Access ka tuvanaka e dua na passcode. Dolava na app, tabaka vakatolu na bulukau e cake (se na bulukau ni Home ena iPad makawa), ka tabaka na Start. Na iPad e na tiko ga ena app o ya me yacova ni dua e volavoca na passcode."
+  - q: "Au na lokataki vakacava e dua na tablet ni Android ki na dua ga na app?"
+    a: "Vakayagataka na app pinning ena Settings app, e dau tiko ena Security (so na gauna ena Security & location) > Advanced > App pinning. Oti, dolava na app, dolava na Overview, tabaka na ivakatakarakara ni app e cake ka tabaka na Pin. E gadrevi na nomu PIN, ivakarau se password me vagalalataki."
+  - q: "E taqomaki beka na vakayagataki ni Guided Access ena talevoni vakataki koya?"
+    a: "Mo qarauna. E kaya na Apple ni na sega ni rawa ni vakayagataki na Crash Detection kei na Emergency Services ni sa waqa na Guided Access. Kevaka e vakararavi ki na nona talevoni me baleta na qiri ni leqa tubukoso, vakayagataka ga na Guided Access ni ko tiko vata kei koya, se nanuma na Assistive Access."
+  - q: "E vica na gauna ni sikirini e vinaka me baleta e dua e bula vata kei na guilecavi ni vakasama?"
+    a: "E sega ni dua na naba tudei. Na gauna lekaleka, vakayagataki vata kei na taubale, ivakatagi, cakacaka e vale kei na veitalanoa e rawa ni vakavutuniyautaka na siga mai na gauna balavu duadua ena sikirini. Kevaka e vakavuna na rarawa se e tarova na so tale na ka, vakayagataka vakalailai."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +67,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+E rawa ni dua na sala vinaka na tablet me wasea kina na iyaloyalo, ivakatagi kei na qito rawarawa. E rawa talega ni veivak confuse taki: e dua na tabaka cala e dolava tale e dua na app, e basika mai e dua na notisi, e lailai sara na volavola, se e buto na sikirini ni sa qito tiko. E vica na ka lailai o vakarautaka e rawa ni walia na levu ni ka oqo.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Na iKalawa oqo e vakayagataka na ituvatuva e tu rawa ena iPhone, iPad kei na Android. Na yaca ni menu e rawa ni veisau ena veimataqali software kei na misini, ia kevaka e dua na ka e duidui, muria na tabana ni Apple se Google e semati ki na nomu misini. Vakarautaka mada o iko, ni bera ni drau dabe vata.
 
-## Should someone with dementia use a tablet or phone?
+## E dodonu beka me vakayagataka e dua na tablet se talevoni o koya e bula vata kei na guilecavi ni vakasama?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+E vakatau ki na tamata yadua. E levu era marautaka na vakayagataki ni tablet vata kei e dua e tiko voleka, dina ga ni ra na sega ni rawata duadua. Tekivu ena kena vakayagataki vata, ena dua ga na app e dola, me vica ga na miniti. Kevaka e kauta mai na marau kei na veitalanoa, tomana. Kevaka e kauta mai na veivak confuse taki se na rarawa, e dua na ivola ni iyaloyalo, na tabana tabaki se na ivakatagi e rawa ni vinaka cake. Na noda [itaviqaravi tabaki](/activities/printable/) e dua na digidigi tale.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+E dau rawarawa cake na tablet mai na talevoni: e levu cake na sikirini kei na iyaloyalo, ka sega talega ni sala ni qiri ni leqa tubukoso me baleti koya.
 
-## How do I lock a tablet or phone to one app?
+## Au na lokataki vakacava e dua na tablet se talevoni ki na dua ga na app?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Vakayagataka na Guided Access ena iPhone kei na iPad, se na app pinning ena Android. E rau maroroya ruarua na sikirini ena dua ga na app me yacova ni o volavoca e dua na kodi, ia na tabaka se toso cala e sega ni rawa ni dolava e dua tale na ka.
 
-### iPad and iPhone: Guided Access
+### iPad kei na iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Muria na [ivakasala ni Guided Access mai na Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Dolava na **Settings**, tabaka na **Accessibility**, oti tabaka na **Guided Access** ka waqaca.
+2. Ena ruku ni **Passcode Settings**, tuvanaka e dua na passcode ni Guided Access. O rawa talega ni vakatarai na Face ID se Touch ID.
+3. Kevaka o vinakata: ena ruku ni **Display Auto-Lock**, digia na totolo ni loka ni sikirini ena gauna ni vakayagataki, me kua ni buto ni sa qito tiko.
+4. Dolava na app o vinakata mo vakayagataka.
+5. Tabaka vakatolu na bulukau e yasana (iPhone), na bulukau e cake (iPad), se na bulukau ni Home ena misini makawa.
+6. Kevaka o vinakata: droinitaka na veivanua ni sikirini o vinakata me sega ni tarai rawa. Tabaka na **Options** (se **Session Settings**) mo bokoca na bulukau ni domo se tarova na sikirini me kua ni vuki.
+7. Tabaka na **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Mo tinia na vakayagataki, tabaka vakatolu tale na bulukau o ya, volavoca na passcode, ka tabaka na **End**. E tukuna na Apple ni ena so na software makawa o tabaka vakarua ga.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Bibi:** E kaya na Apple ni na sega ni rawa ni vakayagataki na Crash Detection kei na Emergency Services ena gauna ni Guided Access. Kakua ni biuta na Guided Access me waqa tu ena talevoni e rawa ni gadreva o koya me baleta na qiri ki na 911 se 917.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Muria na [veivuke ni Android mai na Google me baleta na pinning ni sikirini](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Dolava na **Settings** app.
+2. Tabaka na **Security** (se **Security & location**), oti na **Advanced**, oti na **App pinning**. Kevaka o sega ni kunea, raica na tabana ni veivuke ni nomu misini.
+3. Waqaca na **App pinning**. E na gadrevi na nomu PIN, ivakarau se password me vagalalataki.
+4. Dolava na app o vinakata. Toso cake ki na lomadonu ni sikirini ka taura tu mo dolava na Overview (se tabaka na Overview ena 3-button navigation).
+5. Ena dela ni ivakaraitaki ni app, tabaka na ivakatakarakara ni app, oti tabaka na **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Mo vagalalataki ena gesture navigation, toso cake ka taura tu. Ena 3-button navigation, tabaka ka taura tu na Back kei na Overview. Ena 2-button navigation, tabaka ka taura tu na Back kei na Home. Oti volavoca na nomu PIN, ivakarau se password.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## E tiko beka e dua na sala rawarawa cake me baleta na iPhone se iPad taucoko?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Io. Na Assistive Access ni Apple e veisautaka na sikirini ni itekitekivu kei na dua e rawarawa cake. [E vakamacalataka na Apple](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ni caka me vakarawarawataka na vakayagataki ni iPhone me baleti ira era bula vata kei na guilecavi ni vakasama, ena veika lelevu cake ena sikirini kei na veika e vakatabakidua cake. E vakarautaka talega na Apple [na ka vata o ya ena iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **O cei e vakarautaka.** E vakatura na Apple me dua na veitokoni nuitaki, me vaka e dua na lewe ni vuvale se dauqaravi e kilai koya vinaka, me vukea na digidigi ni app kei na veika e gadrevi.
+- **Vanua mo tekivu kina.** Lako ki na **Settings > Accessibility > Assistive Access**, tabaka na **Set Up Assistive Access**, oti na **Continue**.
+- **Na app.** O digia na app me ra rairai. Eso na app ni Apple e tiko na kena ivakarau rawarawa, ia na levu tale ni app e rawa ni kuri ena nodra irairai tudei.
+- **Na irairai.** Digia na **Rows** (lisi rawarawa ni wiliwili) se na **Grid** (veika lelevu cake e vakabibitaka na iyaloyalo kei na ivakatakarakara).
+- **Passcode.** O tuvanaka e dua na passcode ni Assistive Access duatani me curu, biubiu se veisautaka na ituvatuva. E vakatura na Apple mo tuvanaka e dua na Apple Account ni vakalesui mai ena gauna ni vakarautaki, baleta kevaka e sega, na passcode e guilecavi kina e kena ibalebale ni sa na gadrevi mo vakavouya na misini.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Na Assistive Access e rawa ni ganita e dua e vakayagataka na nona misini ena veisiga. Na Guided Access se na app pinning e totolo cake me baleta na gauna ni qito vata.
 
-## How do I make text and pictures bigger?
+## Au na vakalevutaka vakacava na volavola kei na iyaloyalo?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Vakalevutaka na levu ni volavola kei na irairai, oti raica ni ra tiko vinaka na bulukau ena sikirini.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone kei na iPad.** Me vaka na [ivakasala ni Apple me baleta na levu ni volavola](https://support.apple.com/en-us/102453), lako ki na **Settings > Display & Brightness > Text Size** ka tosoya na slider. Me baleta na volavola levu cake sara, lako ki na **Settings > Accessibility > Display & Text Size > Larger Text**. E tukuna na Apple ni na volavola levu sara e rawa ni vakadredretaka na tabaki ni so na bulukau, ia mo veisautaka kevaka e gadrevi.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Me vaka na [veivuke ni Google me baleta na ituvatuva ni volavola kei na irairai](https://support.google.com/accessibility/android/answer/11183305?hl=en), dolava na **Settings** ka vakasaqara na **Font size**, oti tosoya na slider. Vakasaqara na **Display size** mo vakalevutaka na ka kece ena sikirini. O rawa talega ni waqaca na **Bold text** ena ruku ni **Accessibility > Display size and text**. Eso na app era sega ni muria na ituvatuva oqo.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Ena qito me vaka na [Picture Pairs](/games/picture-pairs/) kei na [Find the Same](/games/find-the-same/), o rawa talega ni digia e lailai sobu na tile se na digidigi, me rawarawa tikoga na sikirini.
 
-## How do I stop notifications and pop-ups?
+## Au na tarova vakacava na notisi kei na pop-up?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Bokoca na notisi ni app o sega ni gadreva, ka vakayagataka na Do Not Disturb ena gauna ni itaviqaravi.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone kei na iPad.** Lako ki na **Settings > Notifications**, tabaka e dua na app ena ruku ni **Notification Style**, ka bokoca na **Allow Notifications** ([idusidusi ni Apple me baleta na ituvatuva ni notisi](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Mo vakaceguya na qiri, ivakasala kei na notisi me dua na gauna, dolava na Control Center ka waqaca na **Do Not Disturb** mai na bulukau ni **Focus** ([veivuke ni Apple me baleta na Do Not Disturb](https://support.apple.com/en-us/105112)). O rawa ni tuvanaka na gauna ena **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Toso sobu mai na dela ni sikirini ka tabaka na **Do Not Disturb**, se lako ki na **Settings > Modes > Do Not Disturb** ([veivuke ni Google me baleta na Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Ena ruku ni **Notification filters** o rawa ni digia na tamata kei na app era rawa tikoga ni curu mai. Na ituvatuva e duidui ena veimataqali misini.
 
-## How do I make a simple home screen?
+## Au na caka vakacava e dua na sikirini ni itekitekivu rawarawa?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Biuta ga e vica na app kilai ena dua na sikirini ka tosoya tani na kena vo. E sega ni dua na ituvatuva duadua me baleta na ka oqo; e baleta ga na kena kau tani na veika e sega ni gadrevi.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Digia e tolu ki na ono na app.** Me kena ivakaraitaki, na iyaloyalo, ivakatagi, e dua na app ni veitaratara ena vidio kei na dua na qito.
+- **Biuta ena imatai ni sikirini,** ena vanua vata ga ena veigauna, ka tosoya na kena vo ki na ikarua ni sikirini se ki na dua na folder.
+- **Vakayagataka e dua na ivakatakarakara ni muri e rawarawa, matata vinaka,** me vaka e dua ga na roka se dua na iyaloyalo kilai, me matata na ivakatakarakara ni app.
+- **Bokoca na app o sega ni gadreva.** Na lailai ni app e kena ibalebale na lailai ni gauna ni veivak confuse taki kei na lailai ni itukutuku e kumuni.
+- **Nanuma na Assistive Access** ena misini ni Apple kevaka o vinakata me cakava na misini na ka oqo me baleti iko.
 
-## What about volume and sound?
+## Na cava me baleta na domo kei na rorogo?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Tuvanaka e dua na domo vinaka ni bera ni o solia yani na misini. Ena Guided Access, o rawa ni bokoca na bulukau ni domo me kua ni veisau ni sa vakayagataki tiko. Raica ni sa vakacurumi ka cakacaka vinaka na veivuke ni daliga.
 
-## Where should the tablet live?
+## Me tiko evei na tablet?
 
-Give it a stand and a permanent charging spot.
+Solia e dua na itutu kei na vanua ni livaliva e sega ni veisau.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **E dua na itutu se case** e taura na tablet me tu cake ena teveli e kena ibalebale ni sega ni gadrevi me dua e taura, ka rawarawa cake na dusia.
+- **Dua ga na vanua ni livaliva** e sega ni veisau, e vinaka me dua na itutu ni livaliva ena teveli ena dua na rumu o dau vakayagataka ena veisiga. E sa vakalivalivataki tu ga na tablet ka tiko ena vanua vata ga.
+- **Vakalailaitaka na rarama kaukauwa.** Biuta na sikirini me yawa mai na katubaleka e cila vakalevu.
 
-## How much screen time is okay?
+## E vica na gauna ni sikirini e vinaka?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+E sega na levu ni miniti e dodonu. Vakatovolea na gauna lekaleka, vakayagataki vata, me tiki ni dua na siga taucoko e tiko kina talega na toso, ivakatagi, cakacaka e vale, veitalanoa kei na gauna e tautuba. Ni na so na yakavi osooso e rawa ni vakalevutaka na sega ni dau tiko vakacegu ena yakavi, nanuma mo biuta na itaviqaravi ni sikirini ena itekitekivu ni siga. Raica na [itaviqaravi vakacegu ena yakavi](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Na vakayagataki ni tablet vata, sega ni biu tu duadua, e maroroya me vakaveiwekani. Na noda idusidusi me baleta na [qito vata](/caregiving/how-to-play-together/) e vakamacalataka na sala.
 
-## How do I protect their privacy on the device?
+## Au na taqomaka vakacava na nona itaba ena misini?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Yalani na ka e rawa ni kumuna na app, ka kakua ni nanuma ni na taqomaka na lawa ni itaba ni bula. Na U.S. Department of Health and Human Services (HHS) [e vakamacalataka](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ni na lawa ni HIPAA e sega ni dau taqomaka na itukutuku ni bula e maroroi se vakayagataki ena talevoni kei na tablet vakaitaukei. Ena levu ni gauna, na HIPAA e sega talega ni taqomaka na itukutuku e volai ena app me vakayagataki vakataki koya, vakavo ga kevaka e lako mai na app mai na dua na dauveiqaravi ni bula, tuvanaki ni bula se nodra veitokoni vakacakacaka.
 
-HHS suggests:
+E vakatura na HHS:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- me levei na app e sega ni gadrevi se vakaveitalia, vakauasivi na app “walega”;
+- me kakua ni soli vei na app na vanua o tiko kina vakavo ga kevaka e gadreva dina, me vaka na map.
 
-Also consider:
+Nanuma talega:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Vakayagataka e dua na passcode** ena misini, ka maroroya e dua na ivola ni kena ena vanua taqomaki.
+- **Raica lesu na veivakadonui** me baleta na iyaloyalo, kamera, maikorofoni, veikilai kei na vanua o tiko kina, ka bokoca na ka e sega ni gadreva na app.
+- **Raica na ka e kumuna na app** ni bera ni o vakacuruma. Na noda idusidusi me baleta na [digidigi ni app kei na qito ni dementia](/caregiving/choosing-apps-and-games/) e tiko kina e dua na lisi ni veisaqaqara ni itaba.
+- **Qarauna na iyaloyalo ni vuvale.** Wasea ga na iyaloyalo e na marautaka o koya, ka kila na vanua e maroroya kina na app. Ena [Photo Pairs](/games/photo-pairs/), na iyaloyalo o digia e tiko ga ena nomu browser.
+- **Bokoca na volivoli ena loma ni app** se kauta tani na itukutuku ni sausaumi mai na akaude o vakayagataka.

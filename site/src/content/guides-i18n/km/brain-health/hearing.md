@@ -1,31 +1,31 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "ការស្តាប់មិនល្អ និងហានិភ័យជម្ងឺវង្វេង៖ អ្វីដែលស្រាវជ្រាវបង្ហាញ"
+seoTitle: "ការស្តាប់មិនល្អ និងជម្ងឺវង្វេង៖ អ្វីដែលស្រាវជ្រាវបង្ហាញ"
+description: "មូលហេតុដែលការស្តាប់មិនល្អជាហានិភ័យនៃជម្ងឺវង្វេង អ្វីដែលការសាកល្បង ACHIEVE រកឃើញ និងរបៀបពិនិត្យការស្តាប់ និងនិយាយឱ្យកាន់តែងាយស្រួល។"
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  គណៈកម្មការឆ្នាំ 2024 របស់ Lancet ចាត់ទុកការស្តាប់មិនល្អជាហានិភ័យមួយដ៏សំខាន់ដែលអាចកែប្រែបានសម្រាប់ជម្ងឺវង្វេង។
+  នៅក្នុងការសាកល្បង ACHIEVE ឧបករណ៍ជំនួយការស្តាប់មិនបានពន្យឺតការថយចុះនៃការគិតជាទូទៅទេ ប៉ុន្តែក្រុមដែលមានហានិភ័យខ្ពស់មួយបានបង្ហាញការថយចុះតិចជាង។
+  ទោះជាយ៉ាងណាក៏ដោយ ឧបករណ៍ជំនួយការស្តាប់នៅតែជួយការសន្ទនា និងជីវិតប្រចាំថ្ងៃ។
+  គួរពិនិត្យការស្តាប់ ពិចារណាឧបករណ៍ជំនួយការស្តាប់ដែលមានវេជ្ជបញ្ជា ឬទិញដោយខ្លួនឯង និងពិគ្រោះជាមួយវេជ្ជបណ្ឌិត។
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "គណៈកម្មការ Lancet ប៉ាន់ស្មានថាការស្តាប់មិនល្អមានចំណែកប្រហែល 7% នៃករណីជម្ងឺវង្វេងទូទាំងពិភពលោក ស្មើនឹងចំណែកធំបំផុតក្នុងចំណោមកត្តាចំនួន 14។"
+  - "នៅក្នុងការសាកល្បង ACHIEVE លើមនុស្សចាស់ចំនួន 977 នាក់ ឧបករណ៍ជំនួយការស្តាប់មិនបានផ្លាស់ប្តូរការថយចុះនៃការគិតរយៈពេលបីឆ្នាំជាទូទៅទេ។"
+  - "នៅក្នុងក្រុមតូចមួយដែលមានហានិភ័យខ្ពស់ក្នុង ACHIEVE ការថយចុះនៃការគិតយឺតជាង 48% នៅពេលប្រើឧបករណ៍ជំនួយការស្តាប់។ ការរកឃើញនេះត្រូវការការបញ្ជាក់បន្ថែម។"
+  - "ចាប់តាំងពីខែតុលា ឆ្នាំ 2022 មនុស្សពេញវ័យនៅសហរដ្ឋអាមេរិកដែលគិតថាមានការស្តាប់មិនល្អកម្រិតស្រាលទៅមធ្យមអាចទិញឧបករណ៍ជំនួយការស្តាប់ដែលគ្រប់គ្រងដោយ FDA ដោយមិនចាំបាច់មានវេជ្ជបញ្ជា។"
+  - "ការមើលមិនច្បាស់ដែលមិនបានព្យាបាលត្រូវបានបន្ថែមជាហានិភ័យនៃជម្ងឺវង្វេងក្នុងឆ្នាំ 2024 ដូច្នេះការពិនិត្យភ្នែកក៏សំខាន់ដែរ។"
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "តើឧបករណ៍ជំនួយការស្តាប់អាចការពារជម្ងឺវង្វេងបានទេ?"
+    a: "រឿងនេះមិនទាន់ត្រូវបានបញ្ជាក់នៅឡើយទេ។ ការសាកល្បង ACHIEVE រកមិនឃើញឥទ្ធិពលជាទូទៅលើការថយចុះនៃការគិតក្នុងរយៈពេលបីឆ្នាំទេ ទោះបីជាក្រុមមួយដែលមានហានិភ័យខ្ពស់មានស្ថានភាពប្រសើរជាងក៏ដោយ។ ឧបករណ៍ជំនួយការស្តាប់នៅតែគួរឱ្យពិចារណា ព្រោះវាធ្វើឱ្យការសន្ទនា សុវត្ថិភាព និងជីវិតប្រចាំថ្ងៃកាន់តែងាយស្រួល។"
+  - q: "នរណាអាចទិញឧបករណ៍ជំនួយការស្តាប់ដោយមិនចាំបាច់មានវេជ្ជបញ្ជា?"
+    a: "FDA អនុញ្ញាតឱ្យមនុស្សពេញវ័យអាយុ 18 ឆ្នាំឡើងទៅ ដែលគិតថាមានការស្តាប់មិនល្អកម្រិតស្រាលទៅមធ្យម ទិញឧបករណ៍ជំនួយការស្តាប់ OTC នៅហាង ឬតាមអ៊ីនធឺណិតដោយមិនចាំបាច់មានវេជ្ជបញ្ជា។ ឧបករណ៍ទាំងនេះមិនមានបំណងសម្រាប់ការស្តាប់មិនល្អកម្រិតធ្ងន់ទេ។ អ្នកដែលមានការឈឺត្រចៀក មានសារធាតុហូរចេញពីត្រចៀក វិលមុខ ឬមានការផ្លាស់ប្តូរការស្តាប់ភ្លាមៗ គួរពិគ្រោះជាមួយវេជ្ជបណ្ឌិតជាមុនសិន។"
+  - q: "តើការស្តាប់មិនល្អអាចមើលទៅដូចជាជម្ងឺវង្វេងបានទេ?"
+    a: "ពេលខ្លះអាចដូច្នោះបាន។ វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) ចង្អុលបង្ហាញថា មនុស្សចាស់ដែលស្តាប់មិនល្អ ពេលខ្លះត្រូវបានគេយល់ច្រឡំថាច្របូកច្របល់ ឬមិនសហការ។ ការពិនិត្យការស្តាប់គឺជាជំហានដ៏សមស្រប នៅពេលនរណាម្នាក់ហាក់ដូចជាដកខ្លួនចេញ ឬមិនយល់អ្វីដែលគេនិយាយ។"
+  - q: "តើមនុស្សចាស់គួរពិនិត្យភ្នែកញឹកញាប់ប៉ុណ្ណា?"
+    a: "វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (National Institute on Aging) ណែនាំឱ្យពិនិត្យភ្នែកដោយពង្រីករូបក្រឡាប់ភ្នែកឆ្នាំម្តង ឬពីរឆ្នាំម្តង បន្ទាប់ពីអាយុ 60 ឆ្នាំ ឬតាមការណែនាំរបស់អ្នកជំនាញថែទាំភ្នែក។ មនុស្សដែលមានជំងឺទឹកនោមផ្អែម ឬសម្ពាធឈាមខ្ពស់ជាធម្មតាត្រូវពិនិត្យយ៉ាងហោចណាស់ឆ្នាំម្តង។"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +50,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+ការស្តាប់មិនល្អគឺជារឿងធម្មតានៅពេលមានអាយុច្រើន ហើយអ្នកស្រាវជ្រាវចាត់ទុកវាឱ្យខ្លាំងជាហានិភ័យមួយសម្រាប់ជម្ងឺវង្វេង។ ប៉ុន្តែរឿងនេះមិនមានន័យថាឧបករណ៍ជំនួយការស្តាប់ជាវិធីដែលបានបញ្ជាក់ថាអាចការពារជម្ងឺវង្វេងបាននោះទេ។ ការសាកល្បងល្អបំផុតរហូតមកដល់ពេលនេះមានលទ្ធផលចម្រុះ។ ទំព័រនេះពន្យល់ពីអ្វីដែលការស្រាវជ្រាវបង្ហាញ របៀបពិនិត្យការស្តាប់ អ្វីទៅជាឧបករណ៍ជំនួយការស្តាប់ដែលទិញដោយមិនចាំបាច់មានវេជ្ជបញ្ជានៅសហរដ្ឋអាមេរិក និងរបៀបធ្វើឱ្យការសន្ទនាកាន់តែងាយស្រួល។
 
-## Why does hearing matter for brain health?
+## ហេតុអ្វីបានជាការស្តាប់សំខាន់សម្រាប់សុខភាពខួរក្បាល?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+ការស្តាប់មិនល្អមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាងនៃជម្ងឺវង្វេង។ [គណៈកម្មការឆ្នាំ 2024 របស់ Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0) ប៉ាន់ស្មានថាវាមានចំណែកប្រហែល 7% នៃករណីជម្ងឺវង្វេងទូទាំងពិភពលោក។ តាម [សេចក្តីសង្ខេបរបស់ UCL អំពីរបាយការណ៍](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ចំណែកនេះស្មើនឹងកូឡេស្តេរ៉ុល LDL ខ្ពស់ ដែលជាចំណែកធំបំផុតក្នុងចំណោមកត្តាហានិភ័យចំនួន 14 ដែលអាចកែប្រែបានក្នុងគំរូរបស់គណៈកម្មការ។
 
-Key findings from the Commission:
+ការរកឃើញសំខាន់ៗពីគណៈកម្មការ៖
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **ហានិភ័យខ្ពស់ជាងនៅពេលស្តាប់មិនល្អ។** នៅក្នុងការវិភាគរួមនៃការសិក្សាគុណភាពខ្ពស់ចំនួនប្រាំមួយ មនុស្សដែលស្តាប់មិនល្អមានហានិភ័យជម្ងឺវង្វេងខ្ពស់ជាងមនុស្សដែលស្តាប់ធម្មតាប្រហែល 37%។
+- **ការស្តាប់កាន់តែខ្សោយ ហានិភ័យកាន់តែខ្ពស់។** ការសិក្សាដែលពិនិត្យមើលកម្រិតភាពធ្ងន់បានរកឃើញថា ហានិភ័យកើនឡើងនៅពេលការស្តាប់កាន់តែអាក្រក់។
+- **មូលហេតុដែលអាចមាន ប៉ុន្តែមិនទាន់បញ្ជាក់។** គំនិតដែលលើកឡើងរួមមានការឯកោ និងការដកខ្លួនចេញ ការធ្លាក់ទឹកចិត្ត ការរំញោចខួរក្បាលតិច និងការខិតខំផ្លូវចិត្តបន្ថែមនៅពេលស្តាប់។
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+ការស្តាប់មិនល្អគឺជារឿងធម្មតា។ [វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) បញ្ជាក់ថា មនុស្សចាស់ប្រហែលមួយភាគបីមានបញ្ហានេះ ហើយឱកាសនោះកើនឡើងតាមអាយុ។
 
-## What did the ACHIEVE hearing aid trial find?
+## តើការសាកល្បងឧបករណ៍ជំនួយការស្តាប់ ACHIEVE រកឃើញអ្វីខ្លះ?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE គឺជាការសាកល្បងចៃដន្យដំបូងអំពីឧបករណ៍ជំនួយការស្តាប់ និងការថយចុះនៃការគិត។ លទ្ធផលរបស់វាត្រូវបានរាយការណ៍ខុសជាញឹកញាប់ ដូច្នេះនេះជាព័ត៌មានលម្អិតពី [របាយការណ៍ការសាកល្បងដែលបានបោះពុម្ព](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/)។
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **អ្នកចូលរួម៖** មនុស្សពេញវ័យចំនួន 977 នាក់អាយុពី 70 ទៅ 84 ឆ្នាំ ដែលមានការស្តាប់មិនល្អមិនទាន់បានព្យាបាល និងមិនមានបញ្ហាគិតធ្ងន់ធ្ងរ នៅបណ្តាញសហគមន៍ចំនួនបួនក្នុងសហរដ្ឋអាមេរិក។
+- **អ្វីដែលប្រៀបធៀប៖** ពាក់កណ្តាលទទួលបានឧបករណ៍ជំនួយការស្តាប់រួមជាមួយការប្រឹក្សាជាមួយអ្នកជំនាញស្តាប់។ ពាក់កណ្តាលទៀតទទួលបានកម្មវិធីអប់រំសុខភាពអំពីភាពចាស់ដែលមានសុខភាពល្អ។
+- **លទ្ធផលសំខាន់៖** បន្ទាប់ពីបីឆ្នាំ **មិនមានភាពខុសគ្នា** នៃការថយចុះនៃការគិតរវាងក្រុមទាំងពីរជាទូទៅទេ។
+- **លទ្ធផលក្នុងក្រុមរង៖** ការសាកល្បងបានជ្រើសរើសអ្នកចូលរួមពីប្រភពពីរ។ មនុស្សចំនួន 238 នាក់មកពីការសិក្សាសុខភាពបេះដូងរយៈពេលវែង (ARIC) ហើយជាក្រុមពួកគេមានហានិភ័យខ្ពស់ជាងក្នុងការថយចុះនៃការគិត។ នៅក្នុងក្រុមនេះ ការថយចុះ **យឺតជាង 48%** នៅពេលប្រើឧបករណ៍ជំនួយការស្តាប់។ ចំណែកក្នុងចំណោមអ្នកស្ម័គ្រចិត្តសហគមន៍ដែលមានសុខភាពល្អចំនួន 739 នាក់ មិនមានឥទ្ធិពលច្បាស់លាស់ទេ។
 
-How to read this honestly:
+របៀបយល់លទ្ធផលនេះដោយស្មោះត្រង់៖
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- ចម្លើយជារួមគឺមិនមានឥទ្ធិពលទេ។
+- ការរកឃើញក្នុងក្រុមរងត្រូវបានគ្រោងទុកជាមុន ប៉ុន្តែវាមកពីការវិភាគបន្ទាប់បន្សំនៃក្រុមតូចមួយ។ វាត្រូវការការបញ្ជាក់នៅក្នុងការសិក្សាផ្សេងទៀត។
+- អ្នកចូលរួមដឹងថាពួកគេស្ថិតនៅក្នុងកម្មវិធីណា ដែលអាចប៉ះពាល់ដល់លទ្ធផល។
+- គណៈកម្មការ Lancet យល់ថា ភស្តុតាងបង្ហាញថាឧបករណ៍ជំនួយការស្តាប់អាចមានប្រយោជន៍ជាពិសេសសម្រាប់មនុស្សដែលមានការស្តាប់មិនល្អរួមជាមួយហានិភ័យផ្សេងទៀតនៃជម្ងឺវង្វេង។
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+សេចក្តីសន្និដ្ឋានគឺថា ឧបករណ៍ជំនួយការស្តាប់មិនមែនជាវិធីដែលបានបញ្ជាក់ថាអាចការពារជម្ងឺវង្វេងបាននោះទេ។ ប៉ុន្តែវាជួយឱ្យមនុស្សស្តាប់បានកាន់តែល្អ ចូលរួមក្នុងការសន្ទនា និងរក្សាទំនាក់ទំនង ដែលជាហេតុផលគ្រប់គ្រាន់ដើម្បីពិចារណា។
 
-## How do I know if hearing should be checked?
+## តើខ្ញុំដឹងដោយរបៀបណាថាគួរពិនិត្យការស្តាប់?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA ណែនាំឱ្យពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ប្រសិនបើអ្នក ឬមនុស្សដែលអ្នកថែទាំ៖
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- មានបញ្ហាយល់អ្វីដែលគេនិយាយតាមទូរស័ព្ទ
+- ពិបាកតាមទាន់ការសន្ទនា នៅពេលមានមនុស្សពីរនាក់ ឬច្រើនជាងនេះកំពុងនិយាយ
+- សុំឱ្យគេនិយាយម្តងទៀតជាញឹកញាប់
+- បើកសំឡេងទូរទស្សន៍ខ្លាំងរហូតដល់អ្នកផ្សេងត្អូញត្អែរ
+- ពិបាកយល់ការនិយាយនៅពេលមានសំឡេងរំខានជុំវិញ
+- គិតថាអ្នកផ្សេងហាក់ដូចជានិយាយមិនច្បាស់
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+ចាប់ផ្តើមជាមួយវេជ្ជបណ្ឌិតថែទាំបឋម ដែលអាចបញ្ជូនអ្នកទៅជួបអ្នកជំនាញស្តាប់ ឬវេជ្ជបណ្ឌិតឯកទេសត្រចៀក ច្រមុះ និងបំពង់ក។ ការកកកុញត្រចៀកគឺជាមូលហេតុទូទៅមួយនៃការស្តាប់មិនល្អដែលវេជ្ជបណ្ឌិតអាចពិនិត្យបាន។ **ការបាត់បង់ការស្តាប់ភ្លាមៗគឺជាករណីសង្គ្រោះបន្ទាន់ផ្នែកវេជ្ជសាស្ត្រ** ហើយ NIA ណែនាំឱ្យទៅជួបវេជ្ជបណ្ឌិតភ្លាមៗ។
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+ការស្តាប់មិនល្អអាចត្រូវបានយល់ច្រឡំថាជាការច្របូកច្របល់។ NIA ចង្អុលបង្ហាញថា មនុស្សចាស់ដែលស្តាប់មិនល្អ ពេលខ្លះត្រូវបានគេយល់ច្រឡំថាច្របូកច្របល់ មិនឆ្លើយតប ឬមិនសហការ។ ប្រសិនបើមនុស្សដែលអ្នកស្រឡាញ់ហាក់ដូចជាដកខ្លួនចេញ ឬមិនយល់អ្វីដែលគេនិយាយ ការពិនិត្យការស្តាប់គឺជាជំហានដំបូងដ៏ល្អមួយ។
 
-## What are over-the-counter hearing aids?
+## តើឧបករណ៍ជំនួយការស្តាប់ដែលទិញដោយមិនចាំបាច់មានវេជ្ជបញ្ជាជាអ្វី?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+ចាប់តាំងពីថ្ងៃទី 17 ខែតុលា ឆ្នាំ 2022 [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) បានអនុញ្ញាតឱ្យមានប្រភេទឧបករណ៍ជំនួយការស្តាប់ដែលទិញដោយមិនចាំបាច់មានវេជ្ជបញ្ជា (OTC)។ នេះជាការប្រៀបធៀបរវាងឧបករណ៍ OTC និងឧបករណ៍ដែលមានវេជ្ជបញ្ជា៖
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| លក្ខណៈ | ឧបករណ៍ជំនួយការស្តាប់ OTC | ឧបករណ៍ជំនួយការស្តាប់ដែលមានវេជ្ជបញ្ជា |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| សម្រាប់អ្នកណា | មនុស្សពេញវ័យអាយុ 18 ឆ្នាំឡើងទៅ ដែលគិតថាមានការស្តាប់មិនល្អកម្រិតស្រាលទៅមធ្យម | ការស្តាប់មិនល្អគ្រប់កម្រិត គ្រប់វ័យ |
+| ទិញនៅឯណា | នៅហាង ឬតាមអ៊ីនធឺណិត មិនចាំបាច់ពិនិត្យ ឬមានវេជ្ជបញ្ជា | តាមរយៈអ្នកជំនាញស្តាប់ដែលមានលិខិតអនុញ្ញាត |
+| ការកែតម្រូវ | អ្នកកែតម្រូវការកំណត់ដោយខ្លួនឯង ជារឿយៗតាមកម្មវិធី | អ្នកជំនាញកំណត់កម្មវិធីតាមការស្តាប់របស់អ្នក |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA បញ្ជាក់ថាឧបករណ៍ OTC មិនមានបំណងសម្រាប់ការស្តាប់មិនល្អកម្រិតធ្ងន់ ឬធ្ងន់ខ្លាំងទេ។ FDA ណែនាំឱ្យពិគ្រោះជាមួយវេជ្ជបណ្ឌិត ជាពិសេសវេជ្ជបណ្ឌិតឯកទេសត្រចៀក ច្រមុះ និងបំពង់ក មុនពេលទិញ ប្រសិនបើអ្នកមាន៖
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- ការឈឺ ឬមិនស្រួលក្នុងត្រចៀក
+- មានសារធាតុរាវ មន្ទិល ឬឈាមចេញពីត្រចៀកក្នុងរយៈពេលប្រាំមួយខែចុងក្រោយ
+- ការផ្លាស់ប្តូរការស្តាប់ភ្លាមៗ ឬឡើងចុះ
+- ស្តាប់អាក្រក់ជាងនៅត្រចៀកម្ខាង ឬមានសំឡេងរោទិ៍តែក្នុងត្រចៀកម្ខាង
+- វិលមុខ ឬមានអារម្មណ៍បង្វិល
+- មានកុញត្រចៀកច្រើន
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+ការស៊ាំនឹងឧបករណ៍ជំនួយការស្តាប់ត្រូវការការអនុវត្ត ដូច្នេះសូមពិនិត្យគោលការណ៍ប្តូរវិញមុនពេលទិញ ដូចដែល FDA បានណែនាំ។ NIA ណែនាំឱ្យសួរថាតើការធានារ៉ាប់រងរបស់អ្នកគ្របដណ្តប់ចំណែកណាមួយនៃតម្លៃដែរឬទេ។ សម្រាប់មនុស្សដែលរស់នៅជាមួយជម្ងឺវង្វេង អ្នកជំនាញស្តាប់អាចជួយសម្រេចថាប្រភេទឧបករណ៍ និងការកែតម្រូវមួយណាងាយស្រួលគ្រប់គ្រងក្នុងជីវិតប្រចាំថ្ងៃ។
 
-## How can I talk more easily with someone who has hearing loss?
+## តើខ្ញុំអាចនិយាយឱ្យកាន់តែងាយស្រួលជាមួយអ្នកដែលស្តាប់មិនល្អដោយរបៀបណា?
 
-The NIA suggests:
+NIA ណែនាំថា៖
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **หันមុខទៅរកមនុស្សនោះ ហើយរក្សាការសម្លឹងមើលគ្នា** នៅកន្លែងដែលមានពន្លឺល្អ ដើម្បីឱ្យគេមើលឃើញបបូរមាត់ និងកន្សោមមុខរបស់អ្នក។
+2. **ស្វែងរកកន្លែងស្ងប់ស្ងាត់។** បិទទូរទស្សន៍ ឬផ្លាស់ទីចេញពីសំឡេងរំខាន។
+3. **និយាយឱ្យខ្លាំងបន្តិច ប៉ុន្តែកុំស្រែក។** និយាយតាមធម្មតា និងក្នុងល្បឿនសមរម្យ។
+4. **រក្សាមាត់ឱ្យច្បាស់។** កុំញ៉ាំ ខាំស្ករកៅស៊ូ ឬបិទមាត់ពេលកំពុងនិយាយ។
+5. **ព្យាយាមពន្យល់ដោយប្រើពាក្យផ្សេង** ជាជាងនិយាយពាក្យដដែលៗ នៅពេលគេមិនយល់។
+6. **ឱ្យមនុស្សម្នាក់និយាយម្តងៗ។** នៅក្នុងក្រុម សូមព្យាយាមឱ្យមនុស្សនោះចូលរួមផង។
+7. **អត់ធ្មត់ ហើយសួរថាតើអ្នកអាចជួយបានរបៀបណា។**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+គន្លឹះទាំងនេះដំណើរការបានល្អជាមួយ [គន្លឹះក្នុងការប្រាស្រ័យទាក់ទងសម្រាប់ជម្ងឺវង្វេង](/caregiving/communication-tips/) របស់យើង។ សកម្មភាពដែលប្រើរូបភាពក៏អាចជួយកាត់បន្ថយភាពតានតឹងក្នុងការស្តាប់ផងដែរ។ [Picture Pairs](/games/picture-pairs/) និង [Conversation Cards](/games/conversation-cards/) ប្រើអ្វីដែលអ្នកឃើញក្នុងការចូលរួម ហើយ [Finish the Saying](/games/finish-the-saying/) អនុញ្ញាតឱ្យបង្ហាញចម្លើយជាសុទ្ធជាងការនិយាយ។ សម្រាប់ការហៅទូរស័ព្ទ សូមមើលមគ្គុទ្ទេសក៍របស់យើងអំពី [ការហៅទូរស័ព្ទ និងវីដេអូ](/activities/phone-and-video-calls/)។
 
-## Vision matters too
+## ការមើលឃើញក៏សំខាន់ដែរ
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+ក្នុងឆ្នាំ 2024 គណៈកម្មការ Lancet បានបន្ថែមការមើលមិនច្បាស់ដែលមិនបានព្យាបាលជាហានិភ័យថ្មីមួយ។ សេចក្តីសង្ខេបរបស់ UCL ប៉ាន់ស្មានថាវាមានចំណែកប្រហែល 2% នៃករណីជម្ងឺវង្វេង ហើយគណៈកម្មការណែនាំឱ្យមានការពិនិត្យ និងព្យាបាលបញ្ហាភ្នែកសម្រាប់មនុស្សគ្រប់គ្នា។ [NIA ណែនាំ](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ឱ្យពិនិត្យភ្នែកដោយពង្រីករូបក្រឡាប់ភ្នែកឆ្នាំម្តង ឬពីរឆ្នាំម្តង បន្ទាប់ពីអាយុ 60 ឆ្នាំ ហើយគួរពិនិត្យវ៉ែនតាផងដែរ។ សូម្បីតែការផ្លាស់ប្តូរតិចតួចក្នុងការមើលឃើញក៏អាចបង្កើនហានិភ័យនៃការដួលផងដែរ។
 
-## Talk with a doctor
+## ពិគ្រោះជាមួយវេជ្ជបណ្ឌិត
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+សូមសួរវេជ្ជបណ្ឌិតអំពីការពិនិត្យការស្តាប់ និងការមើលឃើញ ប្រសិនបើអ្នកកត់សម្គាល់ឃើញសញ្ញាណាមួយខាងលើ។ សូមស្វែងរកការថែទាំភ្លាមៗ ប្រសិនបើមានការបាត់បង់ការស្តាប់ភ្លាមៗ ឈឺត្រចៀក ឬមានសារធាតុហូរចេញពីត្រចៀក។ ប្រសិនបើអ្នកថែទាំមនុស្សដែលរស់នៅជាមួយជម្ងឺវង្វេង សូមប្រាប់វេជ្ជបណ្ឌិតរបស់ពួកគេអំពីការផ្លាស់ប្តូរការស្តាប់ ឬការមើលឃើញ ព្រោះវាអាចប៉ះពាល់ដល់អារម្មណ៍ សុវត្ថិភាព និងសមត្ថភាពរបស់ពួកគេក្នុងការចូលរួម។
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+ទំព័រនេះជាព័ត៌មានទូទៅ មិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ។ សូមមើល [ការបដិសេធផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/) របស់យើង។ អានបន្ថែមអំពី [ទំនាក់ទំនងសង្គម និងសុខភាពខួរក្បាល](/brain-health/social-connection/)។

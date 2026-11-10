@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Cysylltiad cymdeithasol ac iechyd yr ymennydd"
+seoTitle: "Unigrwydd, ynysu cymdeithasol a dementia"
+description: "Sut mae unigrwydd ac ynysu cymdeithasol yn gysylltiedig â risg dementia, beth ddywedodd cyngor y Prif Lawfeddyg, a ffyrdd syml o gadw mewn cysylltiad."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Mae ymchwil yn cysylltu ynysu cymdeithasol ac unigrwydd yn ddiweddarach mewn bywyd â risg uwch
+  o ddementia. Mae Comisiwn Lancet 2024 yn amcangyfrif bod ynysu yn cyfrif am tua 5% o achosion,
+  er y gallai rhywfaint o'r cysylltiad fod oherwydd dementia cynnar yn achosi i rywun dynnu'n ôl.
+  Mae cadw mewn cysylltiad, hobïau ar y cyd a chymorth gyda chlyw i gyd yn cefnogi cysylltiad.
+  I bobl sy'n byw gyda dementia, mae gweithgareddau ar y cyd yn bwysig ar gyfer mwynhad ac
+  ansawdd bywyd.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Mae Comisiwn Lancet yn rhestru ynysu cymdeithasol yn ddiweddarach mewn bywyd fel un o 14 ffactor risg dementia y gellir eu haddasu, sef tua 5% o achosion."
+  - "Roedd cyngor Prif Lawfeddyg yr Unol Daleithiau yn 2023 yn cysylltu unigrwydd ac ynysu cronig â risg dementia tua 50% yn uwch ymhlith oedolion hŷn."
+  - "Mae'r rhan fwyaf o'r dystiolaeth hon yn arsylwadol, a gall dementia cynnar ei hun wneud i bobl dynnu'n ôl."
+  - "Mae problemau clyw a golwg, byw ar eich pen eich hun a rhoi gofal i gyd yn cynyddu'r risg o ynysu."
+  - "I bobl sy'n byw gyda dementia, mae gweithgareddau ar y cyd pleserus yn cefnogi ansawdd bywyd; y nod yw cysylltiad, nid perfformiad."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Ydy unigrwydd yn achosi dementia?"
+    a: "Nid yw hynny wedi'i brofi. Mae llawer o astudiaethau yn cysylltu unigrwydd ac ynysu â risg uwch o ddementia, ond gall newidiadau cynnar yn yr ymennydd hefyd arwain pobl i dynnu'n ôl oddi wrth eraill. Mae cadw mewn cysylltiad â llawer o fuddion eraill i hwyliau ac iechyd, felly mae'n werth ei gefnogi beth bynnag."
+  - q: "Beth yw'r gwahaniaeth rhwng unigrwydd ac ynysu cymdeithasol?"
+    a: "Mae ynysu cymdeithasol yn golygu cael ychydig o bobl i ryngweithio â nhw'n rheolaidd. Unigrwydd yw'r teimlad poenus o fod ar eich pen eich hun neu wedi'ch torri i ffwrdd. Gallwch fyw ar eich pen eich hun heb deimlo'n unig, neu deimlo'n unig wrth fod yng nghanol pobl."
+  - q: "Sut gallaf helpu rhiant sy'n byw gyda dementia i gadw mewn cysylltiad?"
+    a: "Mae cysylltiad byr, rheolaidd yn gweithio'n dda. Rhowch gynnig ar alwad ffôn neu sgwrs fideo wythnosol benodol, gweithgaredd ar y cyd wrth fwrdd y gegin, caffi cof, neu ymweliad ag anifail anwes neu ŵyr neu wyres. Cadwch grwpiau'n fach ac yn dawel, a gadewch i'r person osod y cyflymder."
+  - q: "Ble gallaf ddod o hyd i gymorth lleol i oedolyn sy'n teimlo'n ynysig?"
+    a: "Gall Dewis Cymru eich cysylltu â gwasanaethau cymunedol lleol a chymorth i oedolion. Gallwch hefyd gysylltu â Llinell Gymorth Cymdeithas Alzheimer's ar 0333 150 3456 am wybodaeth a chyngor."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Mae pobl wedi'u gwneud i fod yng nghwmni eraill, ac nid yw hynny'n newid gydag oedran. Mae ymchwil yn cysylltu unigrwydd ac ynysu cymdeithasol yn ddiweddarach mewn bywyd â risg uwch o ddementia, yn ogystal â chlefyd y galon ac iselder. Ni all yr ymchwil ddweud eto faint o'r cysylltiad hwnnw sy'n achos ac effaith. Mae'r dudalen hon yn edrych ar yr hyn y mae'r dystiolaeth yn ei ddangos, ffyrdd ymarferol o gadw mewn cysylltiad, a pham mae gweithgareddau ar y cyd mor bwysig i bobl sydd eisoes yn byw gyda dementia.
 
-## Are loneliness and isolation linked with dementia?
+## A yw unigrwydd ac ynysu yn gysylltiedig â dementia?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Ydyn, mae llawer o astudiaethau yn eu cysylltu, er nad yw'r cyfeiriad yn hollol glir. Mae [Comisiwn Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) yn rhestru ynysu cymdeithasol yn ddiweddarach mewn bywyd fel un o 14 ffactor risg y gellir eu haddasu. Mae [crynodeb UCL o'r adroddiad](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) yn ei roi ar tua 5% o achosion dementia ledled y byd.
 
-What the evidence shows:
+Yr hyn y mae'r dystiolaeth yn ei ddangos:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Llai o gysylltiad, risg uwch.** Mae'r Comisiwn yn disgrifio dau adolygiad a oedd yn cysylltu cysylltiad cymdeithasol llai aml â risg uwch o ddementia. Canfu un risg tua 57% yn uwch a'r llall tua 18%.
+- **Unigrwydd hefyd.** Roedd unigrwydd, y teimlad o fod wedi'ch torri i ffwrdd, hefyd yn gysylltiedig â risg uwch o ddementia ar draws sawl adolygiad.
+- **Barn y Prif Lawfeddyg.** Ym mis Mai 2023, cyhoeddodd Prif Lawfeddyg yr Unol Daleithiau [gyngor ar unigrwydd ac ynysu](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Mae'n nodi y gall unigrwydd ac ynysu cronig godi'r risg o ddementia tua 50% ymhlith oedolion hŷn. Roedd hefyd yn cysylltu cysylltiad cymdeithasol gwael â risg 29% yn uwch o glefyd y galon a risg 32% yn uwch o strôc.
+- **Pa mor gyffredin ydyw.** Canfu [adroddiad gan yr Academïau Cenedlaethol](https://www.ncbi.nlm.nih.gov/books/NBK557972/) fod tua 24% o Americanwyr 65 oed a hŷn sy'n byw yn y gymuned wedi'u hynysu'n gymdeithasol.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Rhybudd pwysig: mae Comisiwn Lancet yn nodi y gall pobl leihau eu gweithgareddau cymdeithasol yn ystod cyfnod cynnar, heb ddiagnosis, dementia. Mae hynny'n golygu y gallai rhywfaint o'r cysylltiad fod oherwydd dementia yn achosi i rywun dynnu'n ôl, nid dim ond tynnu'n ôl yn codi risg. Daw bron y cyfan o'r dystiolaeth hon o astudiaethau arsylwadol.
 
-## What is the difference between loneliness and isolation?
+## Beth yw'r gwahaniaeth rhwng unigrwydd ac ynysu?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Mae'r [Sefydliad Cenedlaethol ar Heneiddio (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) yn ei esbonio fel hyn. Mae **ynysu cymdeithasol** yn golygu cael ychydig o gysylltiadau cymdeithasol neu ychydig o bobl i ryngweithio â nhw'n rheolaidd. **Unigrwydd** yw'r teimlad trallodus o fod ar eich pen eich hun neu ar wahân. Gall rhywun fyw ar ei ben ei hun yn hapus, a gall rhywun deimlo'n unig mewn ystafell lawn.
 
-The NIA lists factors that raise the risk of both:
+Mae'r NIA yn rhestru ffactorau sy'n codi'r risg o'r ddau:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Problemau clyw neu olwg
+- Anhawster symud o gwmpas, neu ddim cludiant
+- Byw ar eich pen eich hun, neu golled fawr fel marwolaeth partner neu ymddeol
+- Newidiadau cof neu feddwl
+- Gofalu am rywun annwyl sy'n sâl
+- Pryderon ariannol neu rwystrau iaith
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Mae clyw yn un pwysig. Mae'r NIA yn nodi y gall pobl nad ydynt yn clywed yn dda dynnu'n ôl oherwydd bod sgwrsio'n mynd yn rhwystredig neu'n annifyr. Mae ein [canllaw ar glyw ac iechyd yr ymennydd](/brain-health/hearing/) yn trafod archwiliadau clyw a chymhorthion clyw.
 
-## Practical ways to stay connected
+## Ffyrdd ymarferol o gadw mewn cysylltiad
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+Mae'r NIA yn awgrymu ystod o syniadau. Dewiswch un neu ddau sy'n addas i chi:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Trefnwch gysylltiad rheolaidd.** Amser penodol bob dydd neu bob wythnos i ffonio, anfon neges destun, e-bost neu gerdyn at deulu, ffrindiau neu gymdogion.
+- **Defnyddiwch sgyrsiau fideo neu siaradwyr clyfar.** Os yw technoleg yn newydd, mae llawer o lyfrgelloedd cyhoeddus a chanolfannau cymunedol yn cynnig dosbarthiadau. Gweler ein [canllaw ar alwadau ffôn a sgyrsiau fideo](/activities/phone-and-video-calls/).
+- **Ymunwch â rhywbeth.** Mae dosbarth, cymuned ffydd, clwb cerdded neu rôl wirfoddol yn rhoi cysylltiad i chi ac ymdeimlad o bwrpas.
+- **Ailgychwynnwch hen hobi** neu ddysgwch un newydd gyda phobl eraill.
+- **Symudwch gyda phobl eraill.** Ymarferwch gyda ffrind neu grŵp. Mae gan ein [canllaw ymarfer corff](/brain-health/exercise/) opsiynau ysgafn.
+- **Ystyriwch anifail anwes** os gallwch ofalu amdano.
+- **Defnyddiwch wasanaethau lleol.** Gall canolfannau hŷn, gwasanaethau cymdeithasol lleol a Dewis Cymru (dewis.wales) eich cyfeirio at raglenni a chludiant.
 
-## Why do shared activities matter in dementia?
+## Pam mae gweithgareddau ar y cyd yn bwysig mewn dementia?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+I rywun sydd eisoes yn byw gyda dementia, mae cysylltiad yn ymwneud â mwynhad, cysur a theimlo'n rhan o bethau, nid â lleihau risg. Mae Comisiwn Lancet yn nodi bod gweithgareddau yn helpu pobl sy'n byw gyda dementia i gadw mwynhad a phwrpas. Mae'r [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yn nodi, yn ogystal â gwella ansawdd bywyd, y gall gweithgareddau leihau ymddygiadau fel crwydro neu gynnwrf. Mae'r [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yn ychwanegu bod angen i bobl sy'n byw â chlefyd Alzheimer fod yn egnïol a gwneud pethau maen nhw'n eu mwynhau.
 
-Ideas that work well:
+Syniadau sy'n gweithio'n dda:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Edrychwch ar luniau gyda'ch gilydd.** Mae [Conversation Cards](/games/conversation-cards/) yn cynnig cwestiynau agored, heb gwis, fel „Dywedwch wrthyf am...”. Gweler ein [canllaw atgofion](/activities/reminiscence/).
+2. **Chwaraewch ochr yn ochr.** Mae [Picture Pairs](/games/picture-pairs/) yn cadw lluniau i'w gweld ac nid oes ganddo amserydd na sgôr, felly does dim pwysau. Mae gan ein canllaw ar [sut i chwarae gyda'ch gilydd](/caregiving/how-to-play-together/) awgrymiadau.
+3. **Defnyddiwch luniau teulu.** Mae [Photo Pairs](/games/photo-pairs/) yn troi lluniau rydych chi'n eu dewis yn gêm baru, ac mae'r lluniau'n aros ar eich dyfais.
+4. **Dewch â phobl at ei gilydd.** Mae [Picture Bingo](/games/picture-bingo/) yn gweithio i deuluoedd ac i [grwpiau mewn cartrefi gofal](/activities/care-home-groups/).
+5. **Rhannwch gerddoriaeth, tasgau tŷ neu'r ardd.** Gweler [gweithgareddau cerddoriaeth](/activities/music/), [tasgau'r cartref](/activities/household-tasks/) a'n rhestr lawn o [syniadau gweithgareddau](/activities/ideas/).
+6. **Gwnewch ymweliadau'n haws.** Mae ein [canllaw ymweld](/activities/visiting/) yn trafod ymweliadau byr, tawel sy'n teimlo'n dda i bawb.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Cadwch bethau'n fach ac yn hamddenol. Mae ystafell dawel gydag un neu ddau o bobl yn aml yn gweithio'n well na grŵp mawr. Os yw'r person yn blino neu'n colli diddordeb, mae stopio'n iawn. Mae eistedd gyda'ch gilydd gyda phaned yn ganlyniad da hefyd.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+I rywun sy'n byw ar ei ben ei hun gyda dementia, mae'r NIA yn awgrymu dod o hyd i berson dibynadwy a all ymweld neu wneud galwad fideo'n rheolaidd a bod yn gyswllt mewn argyfwng. Mae hefyd yn sôn am gaffi cof lleol, lle cymdeithasol hamddenol i bobl sy'n byw gyda cholled cof a'u teuluoedd.
 
-## Caregivers get lonely too
+## Gall pobl sy'n rhoi gofal deimlo'n unig hefyd
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+Mae'r NIA yn rhestru gofalu am rywun annwyl fel ffactor risg ar gyfer ynysu. Diogelwch ychydig o amser ar gyfer eich ffrindiau eich hun, grwpiau cymorth a gorffwys. Mae gan ein [canllaw hunanofal i bobl sy'n rhoi gofal](/caregiving/caregiver-self-care/) syniadau ymarferol.
 
-## Talk with a doctor
+## Siaradwch â meddyg
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Os ydych chi neu rywun rydych chi'n gofalu amdano yn teimlo'n unig neu wedi'ch ynysu lawer o'r amser, dywedwch wrth feddyg. Mae'r NIA yn annog pobl i rannu newidiadau bywyd mawr, fel marwolaeth yn y teulu, fel bod y meddyg yn deall y darlun llawn. Gall teimlo'n isel am wythnosau ar y tro fod yn iselder, y gellir ei drin. Os yw oedolyn wedi tynnu'n ôl yn ddiweddar oddi wrth ffrindiau neu weithgareddau yr oedd yn eu mwynhau o'r blaen, mae'r newid hwnnw'n werth ei grybwyll wrth feddyg hefyd. Darllenwch [arwyddion cynnar a phryd i weld meddyg](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Mae'r dudalen hon yn wybodaeth gyffredinol, nid cyngor meddygol. Gweler ein [ymwadiad meddygol](/medical-disclaimer/).

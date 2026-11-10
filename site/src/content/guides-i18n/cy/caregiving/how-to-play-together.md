@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Sut i Chwarae Gemau gyda Rhywun Sydd â Dementia"
+description: "Canllaw ymarferol i chwarae gemau gyda rhywun sy'n byw gyda dementia: paratoi, mynd ar eich cyflymder, peidio â chywiro, gwneud gemau'n haws, a gwybod pryd i stopio."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Meddyliwch am gêm fel amser gyda'ch gilydd, nid prawf. Dewiswch adeg dawel o'r
+  diwrnod, eisteddwch ochr yn ochr mewn ystafell dawel, a chynnig un gêm syml.
+  Gadewch i'r person benderfynu ar y cyflymder, peidiwch byth â chywiro camgymeriadau
+  diniwed, gwnewch y gêm yn haws ar yr arwydd cyntaf o straen, a throwch luniau'n
+  sgwrs. Stopiwch tra bod pethau'n dal i deimlo'n dda. Mae gorffen yn gynnar, neu
+  wylio gyda'ch gilydd, yn ganlyniad da.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Y nod yw mwynhau a chysylltu, nid gorffen na chael atebion yn iawn."
+  - "Paratowch yn gyntaf: ystafell dawel, golau da, sbectol a chymhorthion clyw ymlaen, y teledu i ffwrdd, ac un gêm yn barod."
+  - "Peidiwch â chywiro camgymeriadau diniwed. Dywedwch „Gadewch i ni roi cynnig arni fel hyn” neu ewch ymlaen heb ddweud dim."
+  - "Gwnewch gêm yn haws cyn i rwystredigaeth godi: llai o luniau, llai o ddewisiadau, neu adael y lluniau i'w gweld."
+  - "Defnyddiwch luniau fel man cychwyn ar gyfer straeon gyda „Dywedwch wrthyf am...” yn lle „Ydych chi'n cofio...?”"
+  - "Stopiwch ar yr arwyddion cyntaf o flinder neu ofid. Mae stopio'n gynnar yn llwyddiant, nid yn fethiant."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Am faint y dylem ni chwarae gêm?"
+    a: "Does dim hyd cywir. I lawer o bobl, mae ychydig funudau'n ddigon, ac ar rai dyddiau mae un rownd yn ddigon. Gwyliwch y person yn hytrach na'r cloc, a stopiwch tra eu bod yn dal i ymddangos yn hamddenol."
+  - q: "A ddylwn i adael iddyn nhw ennill neu esgus nad wyf yn sylwi ar gamgymeriadau?"
+    a: "Mewn gêm a rennir sy'n ysgafn ei naws, does dim byd i'w ennill na'i golli. Os nad yw camgymeriad yn poeni'r person, gadewch iddo fynd. Os yw'n ymddangos eu bod yn poeni, helpwch yn dawel neu gwnewch y gêm yn haws heb dynnu sylw ato."
+  - q: "Beth os byddai'n well ganddyn nhw fy ngwylio i'n chwarae?"
+    a: "Mae hynny'n iawn. Mae'r National Institute on Aging yn awgrymu gadael i berson wylio'n unig os yw'n ymddangos eu bod yn mwynhau hynny'n fwy. Siaradwch am yr hyn rydych chi'n ei weld a gwahoddwch nhw i bwyntio neu ddewis pryd bynnag y maen nhw'n dymuno."
+  - q: "A yw'r gemau hyn yn ffordd o brofi'r cof?"
+    a: "Nac ydynt. Mae ein gemau'n weithgareddau syml a rennir i'w mwynhau ac i sgwrsio. Nid prawf cof ydynt, nid ydynt yn mesur dim, ac nid ydynt yn driniaeth ar gyfer dementia."
+  - q: "Pa gêm sydd orau i ddechrau gyda hi?"
+    a: "Dechreuwch gyda'r un symlaf sy'n addas i'r person. Mae Picture Pairs gyda 4 teilsen a'r lluniau i'w gweld, neu Find the Same gyda dau ddewis, yn fannau cychwyn ysgafn. Mae Conversation Cards yn gweithio'n dda os yw'r person yn mwynhau siarad yn fwy na thapio."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Nid yw gêm dda gyda rhywun sy'n byw gyda dementia yn edrych fel cystadleuaeth. Mae'n edrych fel dau berson yn eistedd yn agos, yn pwyntio at luniau, yn chwerthin am ddywediad, ac yn siarad am beth bynnag sy'n codi. Dim ond rheswm i dreulio amser gyda'ch gilydd yw'r gêm.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Mae'r canllaw hwn yn esbonio sut i baratoi, sut i fynd ar eich cyflymder, beth i'w ddweud pan fydd rhywbeth yn mynd „o'i le”, sut i wneud unrhyw gêm yn haws neu ychydig yn anoddach, sut i'w throi'n sgwrs, a sut i wybod pryd i stopio. Mae'n gweithio ar gyfer ein [gemau](/games/) ac ar gyfer cardiau, posau a gemau bwrdd sydd gennych chi eisoes.
 
-## What is the best way to play a game with someone who has dementia?
+## Beth yw'r ffordd orau o chwarae gêm gyda rhywun sydd â dementia?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Canolbwyntiwch ar fwynhad, nid ar gyflawni. Dyna'r cyngor craidd o [ganllawiau'r Alzheimer's Association ar weithgareddau](https://www.alz.org/help-support/caregiving/daily-care/activities): adeiladwch ar y sgiliau sydd gan y person o hyd, helpwch nhw i ddechrau, gorffennwch y rhannau anodd eich hun, a pheidiwch â beirniadu na chywiro gweithgareddau diniwed.
 
-In practice that means:
+Yn ymarferol, mae hynny'n golygu:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Eisteddwch wrth eu hymyl, nid ar eu traws.** Ochr yn ochr, gallwch chi'ch dau weld y sgrin neu'r bwrdd, ac mae helpu'n teimlo fel gwaith tîm yn hytrach na goruchwyliaeth.
+- **Cynigiwch un gêm ar y tro.** Gall dewislen o opsiynau deimlo fel prawf cyn i unrhyw beth ddechrau.
+- **Dilynwch eu harweiniad.** Os ydynt am dapio'r lluniau yn eu trefn eu hunain, siarad am un llun am ddeng munud, neu stopio ar ôl dau dro, dyna'r gêm heddiw.
+- **Cyfrwch yr eiliadau da, nid y rowndiau gorffenedig.** Gwên, stori neu hanner awr dawel yw'r canlyniad rydych chi'n edrych amdano.
 
-## How do I set up before we start?
+## Sut mae paratoi cyn i ni ddechrau?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Mae ychydig funudau o baratoi'n atal y rhan fwyaf o'r rhwystredigaeth y mae pobl yn ei briodoli i'r gêm ei hun.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Dewiswch eu hamser gorau o'r diwrnod.** Mae [canllaw'r National Institute on Aging (NIA) ar addasu gweithgareddau](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yn awgrymu cynllunio gweithgareddau ar gyfer yr adeg o'r diwrnod pan fydd y person ar ei orau. I lawer o bobl, canol y bore yw hynny. Mae'n aml yn anoddach yn hwyr yn y prynhawn; gweler [gweithgareddau tawel yn hwyr yn y dydd](/caregiving/late-day-restlessness/).
+2. **Gwnewch yr ystafell yn dawel.** Diffoddwch y teledu a'r radio a chaewch y drws os gallwch. Mae'r [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) yn argymell lleihau sŵn a phethau sy'n tynnu sylw cyn i chi geisio siarad.
+3. **Gwiriwch eu bod yn gyfforddus yn gyntaf.** Diod gerllaw, taith i'r toiled ymlaen llaw, cadair gyfforddus, a sbectol a chymhorthion clyw ymlaen.
+4. **Goleuwch y lle'n dda.** Mae golau llachar, cyson heb ddisgleirio ar y sgrin yn gwneud lluniau'n haws i'w gweld.
+5. **Paratowch y gêm cyn i chi eistedd.** Agorwch hi, dewiswch y gosodiadau a gosodwch y sain eich hun. Yna trowch y sgrin tuag atynt. Am awgrymiadau ar gyfer llechen, gweler [paratoi llechen neu ffôn](/caregiving/tablets-and-screens/).
+6. **Rhowch y ddyfais ar sefyll.** Mae stand neu gas sy'n dal y llechen yn syth yn golygu nad oes angen i neb ei dal, ac mae'n haws pwyntio.
 
-## How do I invite them without pressure?
+## Sut mae eu gwahodd heb bwyso arnyn nhw?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Gwnewch y gwahoddiad yn ysgafn ac yn hawdd ei wrthod. Dyma rai ymadroddion sy'n tueddu i weithio'n dda:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- „Rwyf wedi dod o hyd i rai lluniau gardd. Hoffech chi edrych arnyn nhw gyda mi?”
+- „Allwch chi fy helpu i gyda'r pos hwn? Rwyf wedi mynd yn sownd.”
+- „Hoffech chi'r blodau neu'r adar heddiw?” (mae dewis rhwng dau yn haws na chwestiwn agored)
+- „Rwy'n gwneud cerdyn i'ch chwaer. Pa liw ddylai hwn fod?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Mae'r Alzheimer's Association yn awgrymu esbonio pwrpas gweithgaredd, fel gwneud cerdyn i ffrind, oherwydd mae rheswm yn rhoi ystyr iddo. Mae gofyn am help hefyd yn gweithio oherwydd ei fod yn gadael i'r person deimlo'n ddefnyddiol.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Os byddan nhw'n dweud na, derbyniwch hynny. Rhowch gynnig arall arni'n ddiweddarach neu cynigiwch rywbeth gwahanol. Mae ein canllaw ar [beth i'w wneud pan fyddan nhw'n dweud na](/caregiving/when-they-say-no/) yn mynd ymhellach.
 
-## How long should a game last, and how fast should we go?
+## Am faint y dylai gêm bara, a pha mor gyflym y dylem ni fynd?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Gadewch i'r person benderfynu ar y cyflymder, a chynlluniwch ar gyfer sesiynau byr. Does dim hyd delfrydol, wedi'i seilio ar dystiolaeth, ar gyfer gêm a rennir. Gall dwy i bum munud dawel fod yn weithgaredd cyflawn.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Arhoswch yn hirach nag sy'n teimlo'n naturiol.** Mae'r NIA yn cynghori rhoi mwy o amser i berson ymateb a cheisio peidio â thorri ar eu traws. Cyfrwch i ddeg yn eich pen cyn i chi helpu.
+- **Un cam ar y tro.** Rhowch un cyfarwyddyd byr („Tapiwch lun”), yna arhoswch. Dangoswch yn hytrach nag esbonio: pwyntiwch ble i dapio.
+- **Oedwch yn rhydd.** Os byddan nhw'n stopio i siarad am lun, gall y gêm aros. Does dim angen brysio.
+- **Gadewch iddyn nhw wylio.** Mae'r NIA yn nodi bod rhai pobl yn well ganddynt wylio, ac mae hynny'n ddewis dilys.
 
-## Should I correct wrong answers?
+## A ddylwn i gywiro atebion anghywir?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Na ddylech. Mae cywiro rhywun yn dyner dro ar ôl tro yn dweud wrthyn nhw eu bod yn methu, hyd yn oed pan fyddwch chi'n meddwl yn dda. Mae'r Alzheimer's Association yn cynghori peidio â beirniadu na chywiro gweithgareddau diniwed. Mewn gêm, mae bron pob camgymeriad yn ddiniwed.
 
-| Instead of | Try |
+| Yn lle | Rhowch gynnig ar |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| „Na, mae hynny'n anghywir.” | „Gadewch i ni roi cynnig arni fel hyn.” (enghraifft y mae'r NIA yn ei rhoi) |
+| „Dydy hynny ddim yn paru. Edrychwch eto.” | Peidiwch â dweud dim a chymerwch y tro nesaf, neu „O, mae'r ddau yn goch.” |
+| „Ydych chi'n cofio pwy yw hwn?” | „Dywedwch wrthyf am y llun hwn.” |
+| „Rydych chi eisoes wedi gwneud hwnna.” | „Mae hwnna'n un da. Gadewch i ni ei wneud eto.” |
+| „Dewch, rydych chi'n gwybod hwn.” | „Hoffech chi i mi ddangos y diweddglo?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Os yw camgymeriad yn amlwg yn eu rhwystro, helpwch yn dawel. Pwyntiwch at y llun cywir, cymerwch dro eich hun, neu gwnewch y gêm yn haws yn y rownd nesaf. Os yw dywediad yn cael diweddglo doniol ond anghywir, chwerthwch gyda nhw. Efallai bod eu diweddglo nhw'n well.
 
-## How do I make a game easier or harder?
+## Sut mae gwneud gêm yn haws neu'n anoddach?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Addaswch y gêm i'r person ar y diwrnod, nid i label cam. Gall yr un person fod angen fersiwn symlach gyda'r nos nag yn y bore. Cyngor cyntaf y NIA yw paru'r gweithgaredd â'r hyn y gall y person ei wneud a sicrhau eu bod yn teimlo eu bod yn llwyddo.
 
-| Game | Make it easier | Make it a little harder |
+| Gêm | Gwneud yn haws | Gwneud ychydig yn anoddach |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Dechreuwch gyda 4 teilsen a gadewch y lluniau i'w gweld | Mwy o deislenni, neu guddio'r lluniau os yw hynny'n teimlo'n gyfforddus |
+| [Find the Same](/games/find-the-same/) | 2 ddewis | Hyd at 4 dewis |
+| [Sort Together](/games/sort-together/) | Chi sy'n dal y llun, maen nhw'n pwyntio at y fasged | Maen nhw'n tapio'r llun a'r fasged eu hunain |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 darn, siaradwch am y llun cyfan yn gyntaf | 9 darn |
+| [Finish the Saying](/games/finish-the-saying/) | Dangoswch y diweddglo, yna dywedwch ef gyda'ch gilydd | Gadewch iddyn nhw ddweud y diweddglo cyn tapio |
+| [Word Search](/games/word-search/) | Argraffwch ef, chwiliwch am un gair gyda'ch gilydd, pwyntiwch at ei lythyren gyntaf | Gadewch iddyn nhw ddewis y gair nesaf i'w ganfod |
+| [Coloring](/games/coloring/) | Chi sy'n dewis dau liw, maen nhw'n dewis rhyngddynt | Maen nhw'n dewis yr holl liwiau |
+| [Conversation Cards](/games/conversation-cards/) | Edrychwch ar y llun gyda'ch gilydd yn unig | Defnyddiwch y cwestiynau agored ar y cerdyn |
+| [Photo Pairs](/games/photo-pairs/) | Ychydig o luniau teulu annwyl | Ychwanegwch fwy o luniau |
+| [Picture Bingo](/games/picture-bingo/) | Mae cynorthwyydd yn eistedd gyda phob chwaraewr | Mae'r chwaraewyr yn marcio'u cardiau eu hunain |
+| [Calm Breathing](/games/calm-breathing/) | Eisteddwch a gwyliwch gyda'ch gilydd yn unig | Anadlwch yn araf gyda'i gilydd |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Arwyddion bod y gêm yn rhy anodd: oedi hir sy'n edrych yn bryderus yn hytrach nag yn feddylgar, dweud „Fedra i ddim” dro ar ôl tro, gwthio'r ddyfais i ffwrdd, neu gamgymeriadau sy'n eu poeni. Arwyddion y gallai fod yn rhy hawdd: diflastod, neu eu bod yn dweud ei bod yn blentynnaidd. Os bydd hynny'n digwydd, parchwch hynny a newidiwch i rywbeth sy'n teimlo'n addas i oedolyn, fel chwilio am eiriau, pos o ffotograff go iawn, neu siarad am lun o'u hen waith.
 
-## How do I turn a game into a conversation?
+## Sut mae troi gêm yn sgwrs?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Defnyddiwch bob llun fel gwahoddiad i siarad, a chymerwch beth bynnag maen nhw'n ei ddweud fel ateb da. I lawer o deuluoedd, dyma'r rhan orau o chwarae.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Gofynnwch gwestiynau agored, heb ateb cywir nac anghywir.** „Beth ydych chi'n ei sylwi?” „Pa un ydych chi'n ei hoffi?” „Dywedwch wrthyf am gegin fel hon.”
+- **Rhannwch yn gyntaf.** „Roedd gan fy nain gi fel hwn.” Mae eich stori chi'n ei gwneud hi'n haws iddyn nhw rannu un.
+- **Dilynwch y stori.** Os yw llun o gar yn arwain at stori am daith, y stori yw'r gweithgaredd. Gadewch y gêm wedi'i hoedi.
+- **Peidiwch â gwirio ffeithiau.** Wrth hel atgofion, mae sgwrs braf yn bwysicach na manylion cywir. Os yw'r stori'n newid ers y tro diwethaf, mwynhewch y fersiwn newydd.
+- **Defnyddiwch y cwestiynau parod.** Mae [Finish the Saying](/games/finish-the-saying/) yn dilyn pob dywediad gyda chwestiwn i sgwrsio, ac mae [Conversation Cards](/games/conversation-cards/) wedi'u cynllunio ar gyfer hyn yn union. Mae [Photo Pairs](/games/photo-pairs/) yn defnyddio eich lluniau teulu chi, sy'n aml yn sbarduno'r straeon cyfoethocaf.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Mae mwy o syniadau yn ein canllawiau ar [weithgareddau hel atgofion](/activities/reminiscence/) ac [awgrymiadau cyfathrebu](/caregiving/communication-tips/).
 
-## When should we stop?
+## Pryd ddylem ni stopio?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Stopiwch ar yr arwyddion cyntaf o flinder neu ofid, ac yn ddelfrydol ychydig cyn hynny. Mae'r Alzheimer's Association yn cynghori stopio neu newid gweithgaredd pan fydd sylw'n pylu neu rwystredigaeth yn codi.
 
-Watch for:
+Gwyliwch am:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- dylyfu gên, suddo yn y gadair, neu lygaid yn crwydro oddi ar y sgrin;
+- symud yn aflonydd, codi, neu ofyn am adael;
+- ochneidio, atebion byr, neu „Dydw i ddim yn dda am hyn”;
+- tapio ar hap neu wthio'r ddyfais i ffwrdd;
+- dagrau, anniddigrwydd, neu newid sydyn mewn hwyliau.
 
-How to stop well:
+Sut i stopio'n dda:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Gorffennwch ar rywbeth hawdd.** Un paru olaf y gallan nhw ei wneud, neu lun olaf i'w edmygu.
+- **Gwnewch hi amdanoch chi.** Mae „Byddai paned yn gwneud lles i mi. A gawn ni stopio fan hyn?” yn osgoi unrhyw awgrym eu bod wedi gwneud yn wael.
+- **Symudwch at rywbeth corfforol neu dawel.** Taith fer, byrbryd, plygu dillad neu gerddoriaeth.
+- **Dywedwch rywbeth cynnes.** „Mi wnes i fwynhau gwneud hynny gyda chi.” Dim canmoliaeth am „ei gael yn iawn”, dim ond pleser yn yr amser gyda'ch gilydd.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Mae gorffen yn gynnar, newid cynlluniau, neu roi'r gorau i'r gêm ac eistedd gyda'ch gilydd yn ganlyniadau da i gyd.
 
-## Can we play in a group or over a video call?
+## A allwn ni chwarae mewn grŵp neu dros alwad fideo?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Gallwn, gydag ychydig o baratoi ychwanegol. Mewn grŵp, cadwch y nifer yn fach, eisteddwch gynorthwywyr wrth ymyl unrhyw un sydd eu hangen, a dewiswch gêm gyda ffocws clir a rennir. Mae gan [Picture Bingo](/games/picture-bingo/) gardiau i'w hargraffu a galwr ar y sgrin ar gyfer grwpiau. Gweler [gweithgareddau ar gyfer grwpiau mewn cartref gofal](/activities/care-home-groups/) am ragor.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Dros alwad fideo, gall y person ar yr alwad ddisgrifio llun tra bod rhywun yn yr ystafell yn pwyntio ac yn tapio. Cadwch yr galwadau'n fyr ac yn gyfarwydd. Mae mwy o awgrymiadau yn ein canllaw ar [alwadau ffôn a fideo](/activities/phone-and-video-calls/).
 
-## What if a game just isn't working?
+## Beth os nad yw gêm yn gweithio?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Ar rai dyddiau, does dim byd yn cydio, ac nid yw hynny'n adlewyrchiad arnoch chi nac arnyn nhw. Rhowch y gêm o'r neilltu a rhowch gynnig arall arni ar adeg wahanol o'r diwrnod, gyda gêm wahanol, neu heb gêm o gwbl. Mae llawer o weithgareddau da heb ddim cysylltiad â sgriniau: cerddoriaeth, plygu tywelion, edrych drwy albwm lluniau, neu daith fer. Porwch ein [syniadau am weithgareddau](/activities/ideas/) am ragor.

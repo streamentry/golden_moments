@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Bisalu ya kimvuka sambu na bantu yina ke na kimbefo ya kuvila mambu"
+seoTitle: "Bisalu ya kimvuka sambu na bantu yina ke na kimbefo ya kuvila mambu"
+description: "Bisalu ya kimvuka na banzo ya kusansa ti baprograma ya kilumbu: bingo ya bifwanisu, bankunga ti masolo, mpi malongi ya kuvukisa ti kutula bantu."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Bisalu ya mbote ya kimvuka na banzo ya kusansa ti na baprograma ya kilumbu
+  kele ya nkufi, ya kuzaba mbote, mpi ya pete sambu na kukota na konso mutindu:
+  bingo ya bifwanisu, kuyimba bankunga kumosi, masolo ya kuyibuka mambu ya ntama,
+  kunikana ya pete, mpi bansaka ya kutuba mambu kumosi. Vukisa bimvuka ya fioti
+  kana yo lenda salama, tula bantu na mutindu yonso muntu lenda mona mpi kuwa,
+  pesa ndongisila mosi ya pwelele na mbala mosi, mpi bongisa nzila ya pete ya
+  kusala ti kisika ya pima sambu na konso muntu yina kele na mfunu na yo.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Bimvuka ya fioti kevandaka mbala mingi ya mbote kuluta kisalu mosi ya nene, mpi yo kepesaka bantu mingi dibaku ya kusala mambu, kansi ve ya kutala mpamba."
+  - "Tula bantu na nzunga to na mutindu ya fer a cheval, pene-pene ya ntwadisi, na kutadila mfunu ya kuwa ti ya kumona, mpi zima makelele ya nima."
+  - "Bongisa konso kisalu na ba nzila zole to tatu sambu bantu yina kele na mayele ya kuswaswana nyonso bakota."
+  - "Buya kuyula bangyufula ya kumeka, kutanga bantuzi, mpi bandim. Bingo ya bifwanisu lenda salama ti konso muntu kumanisa karte na yandi."
+  - "Kubasika na ntwala, kutala, to kulala fioti kele mbote. Vanda ti muntu ya kisalu yina melamba kusadisa konso muntu yina kezola kisika ya pima mingi."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Ntalu ya bantu ikwa ya mbote sambu na kisalu ya kimvuka ya bantu yina ke na kimbefo ya kuvila mambu?"
+    a: "Ntalu mosi ya sikisiki ya mbote kele ve, mpi yo ketadilaka bantu yina kezingila kuna, nzo, mpi ntalu ya bantu ya kisalu yina kele. Bateam mingi kemonaka nde bimvuka ya fioti kepesaka konso muntu nzila ya kumona, ya kuwa, mpi ya kukota, kansi bisalu na banzo ya nene kebikaka bantu mingi na kutala mpamba. Kana nge kesala kisalu ya nene, yika bantu ya kisalu to bansadi ya luzolo sambu na kuvanda na kati-kati ya bantu mpi kusadisa muntu mosi to zole."
+  - q: "Inki mutindu na kusala kimvuka ti bantu yina kele na mayele ya kuswaswana?"
+    a: "Bongisa nzila kuluta mosi ya kukota na konso kisalu. Na kuyimba bankunga kumosi, bankaka keyimbaka mambu yonso, bankaka kebulaka maboko to keyimbaka na ndinga ya nsi, mpi bankaka kesimbaka kima ya kubula makelele. Na bingo ya bifwanisu, bankaka kesosaka bifwanisu na bo mosi, kansi nsadi kesonisaka sambu na bankaka. Tula bantu yina kele na mfunu ya lusadisu mingi pene-pene ya muntu ya kisalu to nsadi ya luzolo."
+  - q: "Inki mutindu na kusala bingo ya bifwanisu kukonda kusala yo bonso nsaka ya kundima?"
+    a: "Tanga konso kifwanisu tii konso muntu kumanisa karte na yandi, sambu muntu mosi ve kubika na nima. Tubila konso kifwanisu ntangu yo kebasika, mpi buya kupesa matabisi sambu na bandim to pesa konso muntu kima mosi ya fioti ya mutindu mosi. Lukanu kele ya kutula dikebi kumosi mpi kusolola, kansi ve nani me manisa na ntwala."
+  - q: "Keti mono lenda sadila bansaka na beno na ekran ya nene na kimvuka?"
+    a: "Ee. Bansaka na beto kesalaka na navigateur web, yo yina nge lenda kangula yo na ordinatere ya maboko to na tablete yina me kangama na televizio to na projecteur. [Picture Bingo](/games/picture-bingo/) kele ti bakarte ya kuimprima mpi mutangi ya bifwanisu na ekran. [Finish the Saying](/games/finish-the-saying/) ti [Picture Pairs](/games/picture-pairs/) mpi kesalaka mbote na ekran ya nene ntangu muntu mosi keniema sambu na kimvuka."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Lutwadisu yai kele sambu na bantwadisi ya bisalu, bateam ya banzo ya kusansa bantu yina ke na kimbefo ya kuvila mambu, mpi bantwadisi ya baprograma ya kilumbu. Yo ketubila mitindu ya bisalu ya kimvuka yina kesalaka mbote, mutindu ya kuyidika nzo, mutindu ya kuyidika kisalu mosi sambu na bantu yina kele na mayele ya kuswaswana, mpi mutindu ya kusadila bakarte na beto ya bingo ya kuimprima ti bansaka na ekran ya nene. Mambu yonso awa ketalaka kikesa ya nzutu, kuwakana, mpi mpona ya muntu. Kima mosi ve awa kele kimekamu.
 
-## What makes a group activity work in memory care?
+## Inki kesalaka kisalu ya kimvuka kuvanda ya mbote na kisika ya kusansa bantu yina ke na kimbefo ya kuvila mambu?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Kisalu ya mbote ya kimvuka kele ya kuzaba, ya nkufi, ya pete sambu na kukota na konso mutindu, mpi kukonda kuniema. [Malongi ya kusala ya Alzheimer's Association sambu na kusansa bantu yina ke na kimbefo ya kuvila mambu](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ketendula kukota na mambu ya mfunu bonso kima yina kesadisaka mambu yina muntu kezolaka mpi mpona na yandi, mpi kepesaka nzila ya mpona ti ya kulonga, ata ntangu kimbefo ya kuvila mambu kele ngolo mingi. Mukanda mosi yango ketuba mpi nde baprograma mingi ya ntama ketulaka kivuvu na kisalu mosi to zole ya kimvuka ya nene na kilumbu, kisika bantu kevandaka mingi kaka na kutala.
 
-That points to a few practical rules:
+Yo kepesa bansiku ya fioti ya kusadila:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Mambu ya kuzaba kele mbote kuluta mambu ya mpa.** Bankunga, binsamu, bifwanisu, mpi bima ya bamvula ya kileke ya bantu kevandaka pete mingi sambu na kukota.
+- **Nkufi kele mbote kuluta nda.** Bongisa ntangu ya kusala bonso ntangu yina kimvuka na nge kekangamaka mingi, ti kisika ya kuyambula na kati-kati.
+- **Kusala kele mbote kuluta kutala.** Pesa konso muntu kima ya kusimba, ya kuniema, ya kupona, to ya kutuba.
+- **Ba nzila mingi, kisalu mosi.** Tula na kati nzila ya pete mpi ya nkaka sambu na kukota.
+- **Kukonda bandim, kukonda bantuzi.** Mitindu ya kundima kebikisaka bankaka na kuwa nde bo menunga ve.
 
-## How big should the group be?
+## Kimvuka fwete vanda na bantu ikwa?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Ya fioti kevandaka mingi ya pete. Alzheimer's Association ketuba nde muntu yina kewaka lukutakanu ya nene bonso kilo mingi lenda wakana mbote mingi na kimvuka ya fioti. Ntalu mosi ya sikisiki ya mbote kele ve. Yo ketadilaka bantu yina kezingila kuna, nzo, mpi ntalu ya bantu ya kisalu ti bansadi ya luzolo yina kele.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Kimekamu mosi ya mbote: keti konso muntu lenda mona luse ya ntwadisi, kuwa mbote, mpi kuma pene-pene ya nsadi na masekondi fioti? Kana ve, kabula kimvuka, yika bansadi ya nkaka, to kwenda na nzo ya fioti.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Sambu na lukutakanu ya nene, bonso feti ya muziki, tula bantu ya kisalu ti bansadi ya luzolo na kati-kati ya bantu, kansi ve na bampembe ya nzo.
 
-## How should I set up the room and seating?
+## Inki mutindu na kuyidika nzo ti kutula bantu?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Nzunga to mutindu ya fer a cheval.** Malongi ya kusala ketendula nde kisika ya kusolola na nzunga kele ya mbote na kisika yina kele ya nene sambu na konso muntu kuvanda na nzunga, kukonda makelele ya nima.
+- **Ntwadisi pene-pene mpi na ntela ya meso.** Vanda na kiti kana yo lenda salama.
+- **Kuwa ti kumona na ntwala.** Tula bantu yina kekwaka mpasi ya kuwa pene-pene ya ntwadisi, na lweka ya mbote ya yandi. Tala nde balunete ti bima ya kusadisa kuwa kele na kisika na yo. Alzheimer's Association ketuba nde mambu ya kumona ti ya kuwa lenda sala nde kusolola kuvanda mpasi mingi.
+- **Mwinda na nima ya bantu, kansi ve na nima na nge.** Buya kutula muntu na ntwala ya fenetre yina kele ti mwinda ya ngolo.
+- **Zima televizio ti radio.** Alzheimer's Association kelomba kukatula makelele ya nkaka ntangu ya bisalu ya muziki.
+- **Disolo mosi na mbala mosi.** Masolo mingi na mbala mosi kele mpasi sambu na bantu yina ke na kimbefo ya kuvila mambu mpi bantu yina kekwaka mpasi ya kuwa, mutindu Alzheimer's Association ketubila yo na [ndongisila na yandi sambu na bafeti](https://www.alz.org/help-support/caregiving/holidays).
+- **Banzila ya kubasika ya pwelele ti kisika ya pima.** Konso muntu yina kezola kubasika fwete lenda sala yo na pete, ti muntu ya kisalu sambu na kutambula ti yandi.
 
-## Group activity ideas
+## Mabanza ya bisalu ya kimvuka
 
-### Picture bingo
+### Bingo ya bifwanisu
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo ya bifwanisu kesadilaka bifwanisu ya pwelele na kisika ya bantalu, bonso ketiele, mbwa to rose, yo yina muntu mosi ve kele na mfunu ya kulanda ntalu ya nda to ya kutanga masonama ya fioti.
 
-**How to run it:**
+**Mutindu ya kusala yo:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Imprima karte mosi sambu na konso muntu na lutiti [Picture Bingo](/games/picture-bingo/) na kusadila buto ya kuimprima. Papie ya ngolo kevandaka pete sambu na kusimba. Lamba yo na plastike sambu na kusadila yo diaka.
+2. Pesa bima ya kutula ya nene mpi ya pete sambu na kusimba, bonso ba jeton ya poker, bakapu ya milangi, to bakare ya fioti ya karton.
+3. Sadila mutangi ya bifwanisu na ekran na televizio to na projecteur sambu konso muntu amona kifwanisu ntangu nge ketuba zina na yo.
+4. Yambula ntangu fioti na nima ya konso kifwanisu mpi bingisa disolo ya nkufi: « Keti muntu mosi kezola kutubila beto mbwa mosi yina yandi zabaka? » to « Inki nge kemona na kifwanisu yai? »
+5. Landa kutanga tii konso karte kuvanda ya kumanisa. Konso muntu kumanisa.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Mutindu ya kuyidika yo:** Sadila bakare fioti sambu na bantu yina kemona karte ya mvimba bonso kima ya mingi. Nsadi lenda sonika kifwanisu yina kewakana sambu na muntu yina kele na mfunu ya yo. Bantu ya nkaka lenda zola kusimba karte ya kifwanisu ya mutangi mpi kulakisa yo na kimvuka.
 
-### Sing-alongs
+### Kuyimba bankunga kumosi
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Muziki kele mosi na kati ya bisalu ya kimvuka yina bantu kezolaka mingi. Alzheimer's Association ketuba nde ata na banzila ya nsuka, muntu lenda [kubula ritmo to kuyimba nkunga mosi ya kileke na yandi](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Mutindu ya kusala yo:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Pona bankunga yina bantu yazabaka na kileke na bo, kansi ve bankunga yina ntwadisi kezolaka. Yula mabuta mambu yina konso muntu zolaka.
+- Sadila muziki kukonda bapiblisite, yina Association ketuba nde lenda timbula bantu.
+- Imprima masonama ya nkunga na masonama ya nene sambu na bantu yina ketangaka, kansi lomba ve yo bonso kima ya mfunu.
+- Pesa bima ya kubula makelele, bandungu ya maboko to balenso ya kunikisa.
+- Pesa kikesa ya kubula maboko mpi kunikana, mpi bika ndinga ya muziki kuvanda ya mbote na matu.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Mutindu ya kuyidika yo:** Bankaka tayimba mambu yonso, bankaka tayimba na ndinga ya nsi, bankaka tabula dikulu na ntoto, mpi bankaka tawa kaka. Konso mutindu yai kele ya mbote. Tala [lutwadisu na beto ya bisalu ya muziki](/activities/music/) sambu na mambu ya nkaka.
 
-### Reminiscence groups
+### Bimvuka ya kuyibuka mambu ya ntama
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Kimvuka ya kuyibuka mambu ya ntama kevukana na ntu-dyambu mosi, bonso nzo-nkanda, bakamio ya ntete, bakizini to mvula ya ngolo, na kusadila bafoto, bima mpi muziki. Lukanu kele disolo ya kiese, kansi ve kuyibuka mambu yonso na sikisiki.
 
-**How to run it:**
+**Mutindu ya kusala yo:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Pona ntu-dyambu mosi mpi nata bima fioti yina bantu lenda simba: masini ya kusangisa na maboko, gan ya baseball, mpu, to kataloge ya bankeni.
+2. Leka kima mosi kupesa na mbala mosi. Yula bangyufula ya kukangula disolo: « Tubila mono mambu ya kima yai », « Inki nge kemona? » « Nani sadilaka kima ya mutindu yai? »
+3. Yamba konso mvutu. Buya kuyidika dati to kima mosi ve.
+4. Twadisa disolo na mabanza ya kiese. Malongi ya kusala ketuba nde bantu yina kesansaka fwete twadisa kuyibuka mambu na mabanza ya mbote, kansi ve na yina lenda pesa mpasi.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) kepesaka bakarte ya bifwanisu ya kuimprima ti bangyufula ya kukangula disolo na ntu-dyambu, yina kesalaka mbote sambu na kubanda disolo. Mabanza ya nkaka kele na [lutwadisu na beto ya kuyibuka mambu ya ntama](/activities/reminiscence/).
 
-### Finish the saying
+### Kumanisa nsamu ya kuzaba
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Binsamu ya kuzaba (« Mbongo ya fioti ya me bumbana kele mbongo... ») kebingisaka konso muntu kutuba nsuka kumosi. Lakisa [Finish the Saying](/games/finish-the-saying/) na ekran ya nene mpi bika kimvuka kupesa mvutu kumosi. Kele ti ngyufula ya kusolola na nima ya konso nsamu. Kana muntu mosi ve metuba nsuka, lakisa yo mpi kwenda na nsamu ya kulanda. Kukonda mvutu ya mbote to ya mbi.
 
-### Large-print word search, together
+### Kusosa mambu na masonama ya nene, kumosi
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Lakisa [Word Search](/games/word-search/) ya masonama ya nene na ekran mpi sosa mambu kumosi bonso kimvuka, to imprima bakopi sambu na bantu yina kezolaka kusala yo na meza. Mambu kekwendaka kaka na kitengi mpi na nsi.
 
-### Gentle movement
+### Kunikana ya malembe
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Kutandula maboko mpi mikolo na kiti, kupesa bima ya malembe bonso balle to ballon, to kukina na kiti na muziki ya kuzaba. Lakisa konso kunikana na kisika ya kutendula yo na mambu.
 
-### Sorting and matching at the table
+### Kuyidika ti kuwakana bima na meza
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Na bameza ya fioti ya bantu tatu to iya, bantu lenda yidika bifwanisu, bitini ya lele, to bima ya meza kumosi. Na ekran, [Picture Pairs](/games/picture-pairs/) lenda salama ti bifwanisu ya kukangula, ti muntu mosi yina keniema ntangu bameza ketubila konso kifwanisu.
 
-## How do I use your games on a big screen?
+## Inki mutindu na kusadila bansaka na beno na ekran ya nene?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Bansaka na beto kesalaka na navigateur web, yo yina nge lenda sadila yo na televizio to na projecteur kukonda kukotisa kima mosi.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Kangula nsaka na ordinatere ya maboko to na tablete yina me kangama na ekran na nsinga to na diffusion.
+2. Sala nde navigateur kuvanda na ekran ya mvimba mpi tula ndinga na ntela ya mbote.
+3. Bika ntwadisi mosi kusala kuniemisa ntangu kimvuka ketuba baponu na ndinga ya ngolo. To pesa tablete na muntu yina kezola kusala mbala na yandi.
+4. Yambula ntangu yonso kimvuka melamba. Bansaka kele ve ti ntangu ya kulanda, bantuzi, to nsuka ya kulomba.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) mpi [Conversation Cards](/games/conversation-cards/) kevandaka mingi ya mbote sambu na bimvuka. Tala baponu yonso na [lutiti ya bansaka na beto](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Inki mutindu na kuyidika kisalu mosi sambu na bantu yina kele na mayele ya kuswaswana?
 
-Plan at least three ways to join every activity.
+Bongisa ata ba nzila tatu ya kukota na konso kisalu.
 
-| Activity | More independent | Some support | Most support |
+| Kisalu | Kukonda lusadisu mingi | Ti lusadisu fioti | Ti lusadisu mingi |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo ya bifwanisu | Kesosaka mpi kevukisaka bifwanisu na yandi mosi | Nsadi kesonika; muntu ketula kima na zulu | Kesimbaka karte ya kifwanisu; kewaka mpi ketala |
+| Kuyimba bankunga kumosi | Keyimba, keponaka nkunga ya kulanda | Keyimba na ndinga ya nsi, kebula maboko, kesadila kima ya makelele | Kewaka, kesimbaka lenso, kebula diboko |
+| Kuyibuka mambu ya ntama | Ketuba masolo | Kepesa mvutu ya ee to ve to kesonika | Kesimbaka mpi kewaka kima na maboko |
+| Kusosa mambu | Kesalaka na kopi na yandi mosi ya kuimprima | Kesosaka mambu na ekran ya nene ti nsadi | Kewaka ntangu bantu ketanga mambu na ndinga ya ngolo |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Sambu na bantu yina kele na banzila ya nsuka ya kimbefo, NHS ketuba nde bisalu fwete vandaka mingi ya pete mpi kutula dikebi mingi na banzwa, bonso muziki, bima ya kusimba mpi kusansa maboko. Ntangu mosi ya muntu ti muntu na kati ya kimvuka to na nima ya yo lenda fwana mbote mingi sambu na bo kuluta kimvuka mosi. Tala [bisalu sambu na banzila ya nsuka](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Inki mutindu bantwadisi fwete tuba ntangu ya kimvuka?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Kukilakisa konso ntangu, mpi sadila zina yina konso muntu kezolaka.
+- Tuba malembe, pesa ndongisila mosi na mbala mosi, mpi lakisa na ntwala ya kutuba.
+- Yula na mutindu ya kukangula disolo (« Tubila mono mambu ya... ») to baponu ya pete, kansi ve bangyufula ya kumeka (« Keti nge keyibuka...? »).
+- Buya kuyidika. Pesa mersi sambu na konso makabu.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Mambu ya nkaka na dyambu yai kele na [malongi na beto ya kusolola](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Kusuka na mbote, mpi kubika bantu kubasika
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Kuyambula kele mbote. Tala bidimbu yina kelakisa nde muntu melemba, kele ve na kikesa, to kele na mpasi, mpi bika nsadi kupesa nzila ya kutambula fioti to ya kuvanda na kisika ya nkaka ya pima. Muntu yina kelala fioti ntangu ya kuyimba bankunga lenda vanda kaka na kikesa ya mbote.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Suka konso kimvuka na mutindu mosi, ti nkunga ya kuzaba to mersi ya pete, sambu nsuka kuvanda ya pima mpi ya kuzaba. Na nima, sonika fioti mambu yina mesalama mbote mpi mambu yina konso muntu mesepela na yo. Masonama yango tasala nde lukutakanu ya kulanda kuvanda ya mbote mingi.

@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Pripára i Tablet pat Tilifon para Taotao ni Gaige gi Demensia"
+seoTitle: "Pripára Tablet/Tilifon para Demensia"
+description: "Paso på'go para u mas fácil i tablet yan tilifon: na'suha gi un app, na'låk'lo' i litra, na'påra i nutisia, yan na'fotma i pantåya."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Na'fámmaolik i tablet pat tilifon åntes di un nå'i. Na'suha gi un app
+  ni Guided Access gi iPad yan iPhone pat app pinning gi Android, pat usa
+  i Assistive Access gi Apple para un mas simpli na itsura. Na'låk'lo' i
+  litra, na'påra i nutisia, na'suha todu låo un kuåttro na app gi un
+  pantåya, arekla i bos åntes di un tutuhon, usa un tånsan, yan
+  na'menor i petmiso siha. Usa må'gas yan i taotao ni un kuidadu, yan
+  chuli' lokkue' aktibidåt siha ni ti usa pantåya.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) yan app pinning (Android) ha na'suha i pantåya gi un app asta ki un baba."
+  - "Assistive Access gi Apple ha ofresi un mas simpli na itsura para taotao siha ni guaha inadelånta gi hinasso."
+  - "Na'låk'lo' i litra yan na'påra i nutisia yan pop-up para tåya ni u inteterumpe pat u na'chalek."
+  - "Na'suha ha' un kuåttro na app ni un tungo' gi un pantåya, yan arekla i bos åntes di un tutuhon."
+  - "Un tånsan yan un lugåt para u chåtsa ni ti u malakguaha ha na'fáfasil i che'cho' yan i hinanåo."
+  - "Atan i petmiso yan i inanutot app siha: i HIPAA kadalåk ti ha protehi håfa masåtba gi un dispositibu petsonåt."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Håfa bai hu cho'gue para u na'suha i app gi un iPad?"
+    a: "Na'funhåyan i Guided Access gi Settings > Accessibility > Guided Access yan na'po'lo i passcode. Baba i app, triple-click i boton sanhilo' (pat i boton Home gi mås amko' na iPad), pues pisa Start. I iPad u såga gi ayu na app asta ki guaha taotao ni ha po'lo i passcode."
+  - q: "Håfa bai hu cho'gue para u na'suha un Android tablet gi un app?"
+    a: "Na'funhåyan i app pinning gi Settings, kadalåk gi papa' Security (osino Security & location) > Advanced > App pinning. Pues baba i app, baba i Overview, pisa i ikonu i app gi sanhilo' yan pisa Pin. Nisisita i PIN, pattern, pat password para un na'suha."
+  - q: "Seguro ha' para u ma usa i Guided Access gi tilifon-ñiha?"
+    a: "Adahi. I Apple ha sångan na i Crash Detection yan i Emergency Services ti managuaha mientras gaige i Guided Access. Yanggen i taotao ha nisisita i tilifon-ña para å'agang emerhensia, usa i Guided Access ha' an gaige hao yan guiya, pat hasso i Assistive Access."
+  - q: "Kuånto na tiempo gi pantåya måolik para taotao ni gaige gi demensia?"
+    a: "Tåya ma'establesi na numiru. Kådada' na tiempo, ma usa må'gas, yan ma halu yan mamomokkat, musikå, che'cho' gi gima', yan kumentus siha, siña mas måolik kinu åpmam na tiempo ha' gi pantåya. Yanggen i dispositibu ha na'bubu pat ha na'påra otro na aktibidåt, usa menos."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Un tablet siña måolik na manera para u fanaitutungo' litråtu, musikå, yan simpli na huegu. Låo siña lokkue' na'chalek: un pineddong ha' ha baba otro app, un nutisia ha lumuftan, dikike' i litra, pat i pantåya ha måkpo' gi talu'lo' i huegu. Un didide' na priparasion siña ha arekla håfa tåya måolik.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Este na paso siha ma usa i setbisio ni gaige gi iPhone, iPad, yan Android. I na'an i menu siña ma tåtsi entre software yan klåsen dispositibu, pues yanggen ti parehu håfa un li'e', tattiyi i link gi Apple pat Google para i dispositibu-mu. Cho'gue hågu i priparasion åntes di un tåta'chong må'gas.
 
-## Should someone with dementia use a tablet or phone?
+## Siña ha usa i tablet pat tilifon un taotao ni gaige gi demensia?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Depende gi taotao. M eggaiña na taotao manmagof ma usa tablet an gaige otro taotao gi fi'on-ñiha, maskeseha ti siña ma usa på'go. Tutuhon må'gas, yan un app ha' mababa, pot unos kuåntos minutos. Yanggen ha na'magof yan ha na'guaha kumentus, sige ha'. Yanggen ha na'chalek pat ha na'chalek i siniente, siña mas måolik un ålbun litråtu, papet ni ma'imprenta, pat musikå. I [aktibidåt ni siña ma'imprenta](/activities/printable/) un otro na chalan.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Mås fáfasil i tablet kinu i tilifon: mås dångkolo i pantåya yan i litråtu, yan ti ha' i tilifon ni ha nisisita para å'agang emerhensia.
 
-## How do I lock a tablet or phone to one app?
+## Håfa bai hu cho'gue para u na'suha gi un app?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Usa i Guided Access gi iPhone yan iPad, pat app pinning gi Android. I dos ha na'suha i pantåya gi un app ha' asta ki un po'lo un kodigo, para un pineddong pat swipe ti siña ha baba otro na kosas.
 
-### iPad and iPhone: Guided Access
+### iPad yan iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Ginen i [instruksion Apple para i Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Baba i **Settings**, pisa **Accessibility**, pues pisa **Guided Access** yan na'funhåyan.
+2. Gi papa' **Passcode Settings**, na'po'lo un passcode para i Guided Access. Siña lokkue' un sedi i Face ID pat Touch ID.
+3. Opsionåt: gi papa' **Display Auto-Lock**, ayek håfa taimanu åpmam åntes di u måkpo' i pantåya mientras ma usa, para ti u måkpo' gi talu'lo' i huegu.
+4. Baba i app ni malago'-mu un usa.
+5. Triple-click i boton gi koståt (iPhone), i boton gi sanhilo' (iPad), pat i boton Home gi mås amko' na dispositibu.
+6. Opsionåt: na'ura håfa na pattida gi pantåya ni ti malago'-mu na u risponde gi pineddong. Pisa **Options** (pat **Session Settings**) para un na'påra i boton bos pat para ti u bira i pantåya.
+7. Pisa **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Para un funhåyan, triple-click tåtte' ayu na boton, po'lo i passcode, yan pisa **End**. I Apple ha sångan na gi palu na mås amko' na software, doble-click un usa.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Impottånte:** I Apple ha sångan na i Crash Detection yan i Emergency Services ti managuaha mientras gaige i Guided Access. Cha'-mu na'susun i Guided Access gi un tilifon ni siña ha nisisita i taotao para å'agang emerhensia.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Ginen i [ayuda Google Android para i pinning](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Baba i **Settings**.
+2. Pisa **Security** (pat **Security & location**), pues **Advanced**, pues **App pinning**. Yanggen ti un sodda', atan i påhina ayuda gi fámma' i dispositibu-mu.
+3. Na'funhåyan i **App pinning**. Manisisita i PIN, pattern, pat password para un na'suha.
+4. Baba i app ni malago'-mu. Swipe sanhilo' asta talu'lo' i pantåya yan na'guaha asta ki un li'e' i Overview (pat pisa i Overview yanggen 3-button navigation un usa).
+5. Gi sanhilo' i ripresentasion i app, pisa i ikonu i app, pues pisa **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Para un na'suha yanggen gesture navigation un usa, swipe sanhilo' yan na'guaha. Yanggen 3-button navigation, pacha yan na'guaha i Back yan i Overview. Yanggen 2-button navigation, pacha yan na'guaha i Back yan i Home. Pues po'lo i PIN, pattern, pat password-mu.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Guaha mas simpli na moda para todu i iPhone pat iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Hunggan. I Assistive Access gi Apple ha tulaika i pantåya yan mas simpli na pantåya. [I Apple ha deskribi](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) na ma fa'tinas para u mas fáfasil i iPhone para taotao siha ni guaha inadelånta gi hinasso, yan mås dångkolo na kosas gi pantåya yan mås enfokåo na funsion. I Apple ha ofresi [parehu na funsion gi iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Hayi para u pripåra.** I Apple ha suheri na un taotao ni un konfiånsa, kåsi un familiåt pat un taotao ni ha kuidadu, u ayuda mumayek håfa na app yan funsion.
+- **Manå'yi para u tutuhon.** Hånao gi **Settings > Accessibility > Assistive Access**, pisa **Set Up Assistive Access**, pues **Continue**.
+- **App siha.** Hågu un ayek håfa na app para u annok. Palu na app Apple guaha mas simpli na birsion-ñiha, yan i mås na otro na app siha siña ma po'lo gi normal na itsura-ñiha.
+- **Itsura.** Ayek **Rows** (lista ni mas fáfasil matåitai) pat **Grid** (mås dångkolo na kosas ni ma na'annok i litråtu yan ikonu).
+- **Passcode.** Un po'lo un otro na passcode para Assistive Access para un hålum, humånao, pat tulaika i setbisio. I Apple ha rekomenda na un na'listo un recovery Apple Account, sa' yanggen ti un hasso i passcode yan tåya ayu, debi di un reset i dispositibu.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+I Assistive Access siña måolik para taotao ni ha usa i dispositibu-ña kada ha'åni. I Guided Access pat app pinning mas åpmam para un raton huegu ni ma usa må'gas.
 
-## How do I make text and pictures bigger?
+## Håfa bai hu cho'gue para u mas dångkolo i litra yan i litråtu?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Na'låk'lo' i litra yan i mineddong i pantåya, pues chek yanggen i boton siha manhåhasso gi pantåya.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone yan iPad.** Sigun i [instruksion Apple para i mineddong i litra](https://support.apple.com/en-us/102453), hånao gi **Settings > Display & Brightness > Text Size** yan na'kalamtin i slider. Para mas dångkolo na litra, hånao gi **Settings > Accessibility > Display & Text Size > Larger Text**. I Apple ha sångan na yanggen gos dångkolo i litra, siña mas mafñot para un pacha i boton siha, pues arekla yanggen nisisita.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Sigun i [ayuda Google para i litra yan pantåya](https://support.google.com/accessibility/android/answer/11183305?hl=en), baba i **Settings** yan aligao **Font size**, pues na'kalamtin i slider. Aligao **Display size** para u mas dångkolo todu gi pantåya. Siña lokkue' un na'funhåyan i **Bold text** gi papa' **Accessibility > Display size and text**. Palu na app ti ma tattiyi este na setbisio.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Gi huegu siha tåtkumu [Picture Pairs](/games/picture-pairs/) yan [Find the Same](/games/find-the-same/), siña lokkue' un ayek menus na litråtu pat opsion, para u mas simpli gi pantåya.
 
-## How do I stop notifications and pop-ups?
+## Håfa bai hu cho'gue para u påra i nutisia yan pop-up?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Na'påra i nutisia para i app siha ni ti un nisisita, yan usa i Do Not Disturb mientras aktibidåt.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone yan iPad.** Hånao gi **Settings > Notifications**, pisa un app gi papa' **Notification Style**, yan na'påra i **Allow Notifications** ([giha Apple para nutisia](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Para un na'trangkilo i å'agang, alerta, yan nutisia pot un rato, baba i Control Center yan na'funhåyan i **Do Not Disturb** ginen i boton **Focus** ([ayuda Apple para Do Not Disturb](https://support.apple.com/en-us/105112)). Siña un na'iskedule gi **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Swipe papa' ginen sanhilo' i pantåya yan pisa **Do Not Disturb**, pat hånao gi **Settings > Modes > Do Not Disturb** ([ayuda Google para Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Gi papa' **Notification filters** siña un ayek håyi na taotao yan app siña ma fåtto. Manmåmboka i setbisio sigun i fámma' i dispositibu.
 
-## How do I make a simple home screen?
+## Håfa bai hu cho'gue para un simpli na pantåya?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Na'suha un kuåttro na app ni un tungo' gi un pantåya yan na'suha i otro siha. Tåya un setbisio ha' para este; put i nina'na'suha i linao.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Ayek tres asta sais na app.** Put ihemplo, litråtu, musikå, un app para bidiu å'agang, yan un huegu.
+- **Po'lo gi primet pantåya,** gi parehu na lugåt kada biåhi, yan na'lak i otro siha gi otro na pantåya pat folder.
+- **Usa un simpli na retråtu gi santatte,** kåsi un kulot ha' pat un litråtu ni un tungo', para u klaru i ikonu siha.
+- **Na'suha i app siha ni ti un nisisita.** Menos app, menos chånsan chalek yan menos infotmasion ma rikohi.
+- **Hasso i Assistive Access** gi dispositibu Apple yanggen malago'-mu na i dispositibu ha cho'gue este para hågu.
 
-## What about volume and sound?
+## Håfa put i bos yan i sonidu?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Arekla i bos ni kåmodo åntes di un nå'i i dispositibu. Yan i Guided Access, siña un na'påra i boton bos para ti u tåtsi mientras aktibidåt. Chek yanggen manma'on i hearing aid siha yan ma chocho'cho'.
 
-## Where should the tablet live?
+## Månu debi di u såga i tablet?
 
-Give it a stand and a permanent charging spot.
+Na'guaha tånsan yan un lugåt para u chåtsa ni ti u malak.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Un tånsan pat kåha** ni ha na'tóhge i tablet gi lamasa ha na'suha i nisisidåt na u ma gogotte, yan mas fáfasil para un turo'.
+- **Un lugåt ha' para u chåtsa** ni ti u malak, måolik un charging stand gi lamasa gi un kuåtto ni un usa kada ha'åni. I tablet siempre chåtsa yan siempre gi parehu na lugåt.
+- **Na'menor i inina.** Po'lo i pantåya tåya gi me'nan un kandet na bentåna.
 
-## How much screen time is okay?
+## Kuånto na tiempo gi pantåya måolik?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Tåya dinanchi na numiru na minutu. Penta kådada' na tiempo, ma usa må'gas, komo pattida gi un ha'åni ni guaha lokkue' movimiento, musikå, che'cho' gi gima', kumentus, yan tiempo gi sanhiyong. Sa' i pupuengi siha siña ma na'mås chalek i taotao gi tutuhon pupuengi, hasso na un usa i aktibidåt gi pantåya gi mañana pat tatalo' ha'åni. Atan [trangkilo na aktibidåt gi tatalo' pupuengi](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+An un usa i tablet må'gas, ti ha' para u na'okupåo, mas sosiaåt. I giha-måmi para [mambaila huegu må'gas](/caregiving/how-to-play-together/) ha esplika håfa taimanu.
 
-## How do I protect their privacy on the device?
+## Håfa bai hu cho'gue para u protehi i sekretu-ñiha gi dispositibu?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Na'menor håfa siña ma rikohi i app siha, yan cha'-mu hinasson na i lai put infotmasion salud ha protehi todu. I U.S. Department of Health and Human Services (HHS) [ha esplika](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) na i HIPAA Rules kadalåk ti ha protehi i infotmasion salud ni masåtba pat ma usa gi petsonåt na tilifon yan tablet. Kadadåkka, i HIPAA ti ha protehi i infotmasion ni un po'lo gi app para uso petsonåt, solu yanggen i app måtto ginen un taotao ni ha nå'i setbision salud, un planu salud, pat i asosiådu-ñiha.
 
-HHS suggests:
+I HHS ha suheri:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- cha'-mu mamaisin app ni ti nisisita, espesiatmente i "gratis";
+- cha'-mu nå'i i app ni aksesun lugåt solu yanggen nisisita, kåsi måppa.
 
-Also consider:
+Hasso lokkue':
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Usa passcode** gi dispositibu, yan na'såtba gi lugåt ni seguro.
+- **Atan i petmiso** para litråtu, kåmera, mic, kontak, yan lugåt, yan na'påra håfa ni ti nisisita i app.
+- **Atan håfa ha rikohi i app** åntes di un instala. I giha-måmi para [fumiliyi app yan huegu para demensia](/caregiving/choosing-apps-and-games/) guaha lista para sekretu.
+- **Adahi yan litråtu familiåt.** Na'suha ha' litråtu ni siña ma sen kåmodo i taotao, yan tungo' månu na lugåt i app ha na'såtba. Gi [Photo Pairs](/games/photo-pairs/), i litråtu ni un ayek mansåsåga gi browser-mu.
+- **Na'påra i fahan gi app** pat na'suha i infotmasion åpas gi kuenta ni ha usa i taotao.

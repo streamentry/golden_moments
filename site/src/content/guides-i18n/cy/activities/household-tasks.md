@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Tasgau Cartref fel Gweithgareddau ar gyfer Dementia"
+seoTitle: "Gweithgareddau Cartref ar gyfer Dementia"
+description: "Gall plygu, didoli, gosod y bwrdd a choginio syml fod yn weithgareddau ystyrlon i bobl sy'n byw gyda dementia. Sut i'w trefnu, eu haddasu a'u cadw'n ddiogel."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Gall tasgau bob dydd fel plygu tywelion, paru sanau, gosod y bwrdd, glanhau
+  byrddau gwaith, dyfrio planhigion a helpu gyda choginio syml roi ffordd
+  wirioneddol i rywun sy'n byw gyda dementia helpu. Dewiswch dasgau y mae'r
+  person yn eu hadnabod, eu rhannu'n un cam ar y tro, cael gwared ar beryglon
+  miniog neu boeth, a rhoi gwerth ar gymryd rhan yn hytrach na gwneud y peth
+  "yn iawn".
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Gall tasgau cyfarwydd helpu person i deimlo'n ddefnyddiol ac yn rhan o'r cartref, ac yn aml mae hynny'n bwysicach na pha mor dda y mae'r gwaith yn cael ei wneud."
+  - "Rhannwch bob tasg yn gamau unigol, dangoswch yn hytrach na dweud, a chymerwch drosodd yn dawel unrhyw gam sydd wedi mynd yn anodd."
+  - "Cadwch gyllyll, cynhyrchion glanhau a phodau golchi dillad dan glo, ac ychwanegwch orchuddion ar fotymau'r stôf neu ddull diffodd awtomatig cyn coginio gyda'ch gilydd."
+  - "Does dim angen ail-blygu tywelion o flaen y person. Os oes rhaid ichi ail-wneud rhywbeth, gwnewch hynny'n ddiweddarach ac allan o'r golwg."
+  - "Os yw tasg yn achosi rhwystredigaeth, newidiwch i gam haws, rhowch gynnig arall arni dro arall, neu eisteddwch gyda'ch gilydd."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Pa dasgau cartref y gall person â dementia ddal i helpu gyda nhw?"
+    a: "Gall llawer o bobl ddal i blygu dillad golchi, paru sanau, didoli cyllyll a ffyrc, gosod y bwrdd, sychu bwrdd gwaith, tynnu llwch, ysgubo, dyfrio planhigion neu droi cymysgedd mewn powlen. Dewiswch dasgau yr oedd y person yn eu gwneud yn y gorffennol a'u paru â'r hyn y gall ei wneud nawr. Yn nes ymlaen, gall un symudiad syml sy'n cael ei ailadrodd, fel llyfnu napcynau, fod yn ddigon."
+  - q: "A yw'n ddiogel i rywun â dementia helpu yn y gegin?"
+    a: "Gall fod, gyda goruchwyliaeth agos a'r trefniadau cywir. Cadwch gyllyll, cynhyrchion glanhau ac unrhyw beth poeth allan o gyrraedd, defnyddiwch orchuddion ar fotymau'r stôf neu ddull diffodd awtomatig, a rhowch swydd ddiogel i'r person, fel golchi llysiau, troi cymysgedd neu osod platiau allan. Peidiwch byth â'u gadael ar eu pen eu hunain gyda'r stôf ymlaen."
+  - q: "Beth os ydynt yn plygu pethau'n anghywir neu'n gwneud llanast?"
+    a: "Gadewch iddo fod. Yr nod yw treulio amser gyda'ch gilydd a rhoi teimlad o fod yn ddefnyddiol, nid cael canlyniad perffaith. Os oes gwir angen ail-wneud rhywbeth, arhoswch tan yn ddiweddarach a gwnewch hynny pan nad yw'r person yn gwylio, fel nad ydynt yn teimlo eu bod yn cael eu cywiro."
+  - q: "Beth os ydynt yn gwrthod helpu?"
+    a: "Gall 'na' olygu bod y dasg yn teimlo'n rhy anodd, yn ddryslyd neu'n flinedig ar hyn o bryd. Peidiwch â gwthio. Rhowch gynnig ar fersiwn symlach, gwahoddwch nhw i gadw cwmni ichi yn lle hynny, neu gofynnwch eto ar adeg well o'r dydd."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Treuliodd llawer o bobl sy'n byw gyda dementia ddegawdau'n rhedeg cartref, yn magu teulu neu'n cadw trefn ar waith. Gall cael gwahoddiad i helpu gyda thasgau go iawn ddweud "rydych chi'n dal yn rhan o'r cartref hwn" mewn ffordd nad yw llawer o weithgareddau eraill yn gallu ei gwneud. Mae'r dudalen hon yn trafod pa dasgau sy'n tueddu i weithio, sut i'w trefnu, sut i'w haddasu wrth i bethau newid, a sut i gadw'r gegin a'r ystafell olchi dillad yn ddiogel.
 
-## Why do everyday chores work well as activities?
+## Pam mae tasgau bob dydd yn gweithio'n dda fel gweithgareddau?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Mae tasgau'n gweithio oherwydd eu bod yn gyfarwydd a bod ganddynt bwrpas clir. Mae'r National Institute on Aging yn rhestru golchi llestri, gosod y bwrdd, ysgubo, tynnu llwch, didoli post, plygu dillad golchi a didoli eitemau ailgylchu ymhlith y [gweithgareddau dyddiol y gallai pobl ag Alzheimer eu mwynhau](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Mae'r Alzheimer's Association yn nodi y gall tasgau fel gosod y bwrdd helpu person i [deimlo fel rhan werthfawr o'r cartref](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Mae gan dasg hefyd ei rheswm ei hun i ddechrau. Mae "A allech chi roi help llaw gyda'r tywelion hyn?" yn haws dweud 'ie' iddo na "Hoffech chi wneud gweithgaredd?"
 
-## Which household tasks are good to try?
+## Pa dasgau cartref sy'n werth rhoi cynnig arnynt?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Dechreuwch gyda thasgau yr oedd y person yn eu gwneud yn y gorffennol, yna eu paru â'r hyn y gall ei wneud heddiw.
 
-### Laundry and linens
+### Dillad golchi a lliain
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Plygu tywelion a lliain golchi.** Rhowch fasged o eitemau bach, gwastad iddo. Mae tywelion yn faddaugar: does dim ffordd anghywir o blygu un.
+- **Paru sanau.** Rhowch bentwr cymysg ar y bwrdd. Os yw'n anodd gweld parau, defnyddiwch ddim ond dau neu dri lliw gwahanol iawn.
+- **Llyfnu a stacio.** Gellir llyfnu napcynau, casys gobenyddion neu dywelion llestri a'u stacio. Mae hyn yn gweithio'n dda yn nes ymlaen, pan fydd plygu wedi dod yn ormod o gamau.
 
-### Table and kitchen
+### Bwrdd a chegin
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Gosod y bwrdd.** Gosodwch un lleoliad fel model a gadewch i'r person ei gopïo. Os yw hynny'n ormod, rhowch un eitem ar y tro: "Dyma fforc i bob plât."
+- **Didoli cyllyll a ffyrc.** Cymysgwch ffyrc, llwyau a chyllyll menyn glân mewn twb a'u didoli i hambwrdd wedi'i rannu. Gadewch gyllyll miniog allan.
+- **Sychu llestri.** Mae llestri plastig neu rai na fyddant yn torri a thywel meddal yn gwneud hon yn swydd ddiogel.
+- **Sychu'r bwrdd neu'r byrddau gwaith.** Lliain llaith ac arwyneb clir. Mae'r Alzheimer's Association yn awgrymu cynnig lliain os yw rhywun eisoes yn rhwbio'r bwrdd â'i law, gan droi symudiad aflonydd yn un defnyddiol.
 
-### Around the house
+### O amgylch y tŷ
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Tynnu llwch.** Brwsh llwch meddal ac ychydig o arwynebau cadarn, fel bwrdd coffi neu silff lyfrau.
+- **Didoli'r post.** Rhowch bost sothach a chatalogau iddo i'w didoli'n bentyrrau: cadw, ailgylchu, agor yn nes ymlaen. Cadwch filiau go iawn a sieciau mewn man arall.
+- **Didoli eitemau ailgylchu.** Caniau, poteli a phapur glân i finiau gwahanol.
+- **Ysgubo.** Brwsh bach ar batio neu ar lawr y gegin, os yw'r person yn sefydlog ar ei draed.
+- **Dyfrio planhigion.** Can dyfrio bach, ysgafn ac ychydig o blanhigion o fewn cyrraedd hawdd.
 
-### Simple cooking with supervision
+### Coginio syml gyda goruchwyliaeth
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Gall coginio ddod â theimladau cryf, dymunol yn ôl. Mae'r NIA yn awgrymu gadael i'r person gasglu cynhwysion, mesur, cymysgu ac arllwys, neu'n syml ddweud wrth rywun arall sut i wneud hoff rysáit. Mae swyddi da yn cynnwys:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- golchi llysiau neu ffrwythau
+- troi cytew neu salad oer
+- rhwygo letys
+- taenu menyn ar dost gyda chyllell ddi-fin
+- gosod toes cwcis ar hambwrdd
+- rhoi topiau ar bitsa
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Os yw mesur yn mynd yn anodd, mae'r Alzheimer's Association yn awgrymu eich bod chi'n gorffen mesur ac yna'n rhoi cam gwahanol iddo, fel troi'r cymysgedd.
 
-## How do I set up a chore so it goes well?
+## Sut ydw i'n trefnu tasg fel ei bod yn mynd yn dda?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Dewiswch yr amser iawn.** Dewiswch ran o'r dydd pan fydd y person fel arfer wedi gorffwys ac yn dawel. I lawer o bobl, y bore yw hynny.
+2. **Cliriwch y lle.** Un dasg, un arwyneb, dim byd ychwanegol ar y bwrdd.
+3. **Gwahoddwch, peidiwch â rhoi gorchymyn.** Mae "Byddai help llaw yn ddefnyddiol gyda'r rhain" yn gweithio'n well na "Mae'n amser plygu'r dillad golchi."
+4. **Dangoswch y cyntaf.** Plygwch un tywel yn araf, yna rhowch y nesaf iddo. Mae dangos yn gliriach nag esbonio.
+5. **Rhowch un cam ar y tro.** Gall gormod o gyfarwyddiadau ar unwaith fod yn llethol. Arhoswch i un cam orffen cyn enwi'r nesaf.
+6. **Gweithiwch ochr yn ochr.** Mae gwneud yr un gwaith wrth ymyl eich gilydd yn teimlo fel cwmni, nid goruchwyliaeth.
+7. **Siaradwch am y dasg, nid am y canlyniad.** Mae "Mae'r rhain mor feddal" neu "Dywedwch wrthyf sut roeddech chi'n hoffi cadw'r cwpwrdd lliain" yn gwahodd sgwrs heb brofi neb.
 
-## How do I adapt chores as abilities change?
+## Sut ydw i'n addasu tasgau wrth i alluoedd newid?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Mae galluoedd yn newid dros amser a hyd yn oed o ddydd i ddydd. Mae'r Alzheimer's Association yn awgrymu symud tuag at dasgau symlach, mwy ailadroddus wrth i'r clefyd ddatblygu.
 
-| If this has become hard | Try this instead |
+| Os yw hyn wedi mynd yn anodd | Rhowch gynnig ar hyn yn lle hynny |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Plygu cynfasau mawr | Plygu lliain golchi neu lyfnu napcynau |
+| Gosod bwrdd llawn | Gosod un napcyn wrth bob sedd |
+| Didoli post yn gategorïau | Stacio amlenni mewn un pentwr |
+| Dilyn rysáit | Troi cymysgedd, neu wylio a blasu tra byddwch chi'n coginio |
+| Ysgubo llawr cyfan | Sychu un bwrdd bach |
+| Gwneud y dasg o gwbl | Eistedd gyda chi a chadw cwmni tra byddwch chi'n ei wneud |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Mae gwylio'n cyfrif. Mae'r NIA yn nodi bod rhai pobl yn mwynhau gwylio, ac mae hynny'n ffordd berffaith dda o gymryd rhan.
 
-## How do I keep household tasks safe?
+## Sut ydw i'n cadw tasgau cartref yn ddiogel?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Mae diogelwch yn dod gyntaf, yn enwedig yn y gegin. Mae [cynghorion diogelwch cartref y NIA ar gyfer pobl sy'n gofalu am rywun ag Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) yn cynnwys:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Cadwch gynhyrchion glanhau dan glo neu tynnwch nhw o'r ffordd, gan gynnwys podau golchi dillad, a all edrych fel losin.
+- Storiwch gyllyll, siswrn ac offer pŵer mewn man dan glo.
+- Ychwanegwch fotymau diogelwch a switsh diffodd awtomatig i'r stôf.
+- Rhowch arwyddion "Stop" neu "Poeth iawn" ger y popty, y tostiwr a'r haearn, wedi'u gosod fel na allant ddal tân.
+- Gosodwch y gwresogydd dŵr i 120°F (tua 49°C) i leihau'r risg o sgaldio.
+- Tynnwch ffrwythau artiffisial a magnetau siâp bwyd, a allai edrych yn fwytadwy.
 
-A few more practical habits help:
+Mae ychydig o arferion ymarferol eraill yn helpu:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Arhoswch yn yr ystafell pryd bynnag y mae'r stôf, y popty neu offeryn miniog yn cael ei ddefnyddio.
+- Defnyddiwch lestri na fyddant yn torri ar gyfer sychu a gosod y bwrdd.
+- Cadwch lawriau'n sych ac yn glir wrth ysgubo neu fopio.
+- Os oedd y person yn arfer defnyddio offer yn y gorffennol, mae'r Alzheimer's Association yn awgrymu tynnu eitemau peryglus o'r gweithdy fel y gellir dal i fwynhau tasg ddiogel, fel llyfnu darn o bren.
 
-## What if they do it "wrong"?
+## Beth os ydynt yn ei wneud "yn anghywir"?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Gadewch iddo fynd. Mae tywel wedi'i blygu'n draeanau yn lle'n haneri yn dal yn dywel wedi'i blygu. Mae'r Alzheimer's Association yn ei roi'n blaen: yr hyn sy'n bwysig yw treulio amser gyda'ch gilydd a bod y person yn teimlo'n ddefnyddiol, nid a yw'r tywelion wedi'u plygu'n iawn. Os oes gwir rhaid ail-wneud rhywbeth, arhoswch tan yn ddiweddarach a gwnewch hynny allan o'r golwg.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Gall cywiro ar y pryd droi swydd bleserus yn atgof o'r hyn sydd wedi'i golli. Bron bob amser, "Diolch, mae hynny o help mawr" yw'r peth iawn i'w ddweud.
 
-## When should we stop?
+## Pryd ddylen ni stopio?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Stopiwch neu newidiwch pan welwch chi arwyddion o rwystredigaeth, blinder neu ddiffyg diddordeb. Mae gorffen yn gynnar yn ganlyniad da, nid yn fethiant. Gallwch chi:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- newid i gam haws
+- symud at rywbeth tawelach, fel cerddoriaeth neu baned
+- rhoi cynnig arall arni'n nes ymlaen neu ddiwrnod arall
+- eistedd gyda'ch gilydd yn syml
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Os yw'r person yn dweud na, peidiwch â gwthio. Gweler [beth i'w wneud pan fyddan nhw'n dweud na](/caregiving/when-they-say-no/) am ffyrdd tyner o ymateb.
 
-## Low-effort extras for a quieter moment
+## Pethau bach ychwanegol ar gyfer eiliad dawelach
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Pan nad yw tasgau corfforol yn bosibl, mae'n dal yn bosibl didoli a paru wrth eistedd. Mae [Sort Together](/games/sort-together/) yn gadael i chi dapio lluniau i fasgedi cegin neu ardd, ac mae [Picture Pairs](/games/picture-pairs/) yn gêm baru dyner gyda lluniau mawr a dim cloc. Mae [Conversation Cards](/games/conversation-cards/) yn cynnwys cwestiynau agored am gartref a theulu sy'n cyd-fynd yn dda â phaned ar ôl gorffen.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Am help i ffitio tasgau i mewn i'r dydd, gweler ein canllaw i [drefn ddyddiol dawel](/activities/daily-routine/). Am fwy o syniadau yn ôl cam, gweler [gweithgareddau ar gyfer y cam canol](/activities/middle-stage/).

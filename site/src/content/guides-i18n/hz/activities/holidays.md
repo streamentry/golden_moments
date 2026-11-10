@@ -1,33 +1,35 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Oviungura vyomayuva omanene ku omundu ngu nomutjise wokuzemba"
+seoTitle: "Omiano vyomayuva omanene ku omundu ngu nomutjise wokuzemba"
+description: "Oviungura oviṱiṱi vyomayuva omanene ku omundu ngu nomutjise wokuzemba: oviungura vyokutereka, okuzirika, omizumbi, ozofoto novitjitwa vyomambo, nokurongerisa eyuva nda ṱuna."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Tjita omayuva omanene okaṱiṱi, omuhuka weyuva nokuri popezu nondyero
+  yomundu ndje ri nayo eyuva arihe. Mu pa otjiungura tjatjiri notjiṱiṱi
+  tjokutjita nawa, tjimuna okutwapo omitiṱiro, okukosa ovihape, okuputira
+  otjiyandjewa poo okuturika otjiriko. Hupa pamwe omizumbi nomafano
+  omakuru nge ri omatjiukwa, raera ovaenda komurungu woruveze, nu u tunine
+  ondjuwo ndji ṱuna. Tjita imbi uriri mbi mo yenene okutjita nawa; eyuva
+  esupi ndi ṱuna ri ri nawa.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Nyandera omuhuka weyuva, tjimuna omarya wokomutenya poo omarya womuhuka, indu tji pe kara oupanga wokuvanga okukangavara kongurova."
+  - "Yandja oviungura vyatjiri: okutwapo omitiṱiro, okukosa ovihape, okuputira, okuzirika poo okutwapo ovikurya vyomahando."
+  - "Omizumbi nomaimburiro nge ri omatjiukwa nomambo wozofoto omakuru oviṋa oviṱiṱi vyokuhupa pamwe oruveze rweyuva."
+  - "Raera ovaenda imbi mave kamuna komurungu woruveze, nu u raise omundu ozofoto za imba mave ya."
+  - "Tunina ondjuwo ndji ṱuna pu ne ekangungu poo otjombanda ndje suvera, nu yandjera ovaenda ovaṱiṱi poruveze rumwe."
+  - "Yandja imbi mbi mavi tjiti oupanga ounyingi, nandarire oviziriko mbi mavi munika otja ovikurya nomarama omengi nge tema nokuzima."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Omundu ngu nomutjise wokuzemba ma yenene okutjita tjike meyuva ra Thanksgiving?"
+    a: "Mu pa otjiungura otjiṱiṱi notjiṱiṱi tjokutjita nawa tji tji hitasana na imbi mbi ma yenene okutjita ndino: okukosa ovihape, okupirura ocranberry sauce, okutwapo omitiṱiro, okupeta ozonapikine poo okutwapo ovikurya vyomahando motjitjendje. Kombunda, tara pamwe ozofoto zomukuru zeṱunḓu poo imbura pamwe omaimburiro nge ri omatjiukwa. Okukara norupa meyuva otjinanḓengu tjinene okukapita kutja otjiungura tja piti vi."
+  - q: "Hapo tu sokukara nombongarero onene yeṱunḓu?"
+    a: "Indu uriri tji mai yenene okutjita nawa. Otjimbumba tjovandu nombosiro mavi yenene okurira omuzeu, ku nao omaṱunḓu omengi maye rundurura okuyenda kombongarero okaṱiṱi nomaryo omuhuka, poo ovaenda mave ya movimbumba oviṱiṱi. Alzheimer's Association mai tunduuza ovatarere kutja ve tjite imbi uriri mbi mave yenene okutjita nawa nokuhinombandarero."
+  - q: "Me rongerisa vi eṱunḓu ndi hiya ryere oruveze orure?"
+    a: "Ve raera komurungu woruveze ohunga nomarundurukiro ngu mave kamuna, nokutja omarundurukiro ngo maye zu komutjise, kaye zu komundu omuini. Ve ningira kutja ave ha vyurura poo okupura omapuriro omengi, kutja ve hungire umwe poruveze, nokutja ve yandje oruveze rwomaziriro. Okuraisa omundu ozofoto zovaenda komurungu woruveze wina mape yenene okuvatera."
+  - q: "Oviyandjewa viṋe mbi hitasana na omundu ngu nomutjise wokuzemba?"
+    a: "Oviṋa oviṱiṱi noviheṋu mbi ma yenene okunyanda nai: ovikurya mbye suvera, ekangungu poo otjombanda tjombaranga, omizumbi mbi ri omatjiukwa, poo embo rozofoto zeṱunḓu. Yepa oviṋa vyombunane mbi ri ovizeu, ovitjendje novinyandwa vyozombapa mbi ri ovizeu. Okumuhinga kutja a kare norupa mokuyandja, tjimuna okuputira otjiyandjewa poo okuṱuna ovikuki mbya vatera okutereka, wina mape yenene okurira otjiyandjewa."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +42,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Omayuva omanene maye yenene okutupwisa ozondjiviro ozombwa, nu wina maye eta ombosiro, otjimbumba tjovandu nomarundurukiro meyuva eṱiṋa. Ku omundu ngu nomutjise wokuzemba, omayuva omanene omawa potuingi ye kara okaṱiṱi, ye kayenda kouriri nu ye tungwa moviṋa mbi ma yenene okunyanda nai. Omiano mbi mavi ungura ku Thanksgiving, Christmas, Hanukkah, Ombeibela Ombwa nomayuva womazumo weṱunḓu.
 
-## How do I plan a calmer holiday?
+## Me rongerisa vi eyuva nda ṱuna?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Uta nondyero yomundu nu u rongerise eyuva okuhitasana na yo. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) mai tunduuza kutja omayuva omanene ye tjitwe omuhuka weyuva, mena rokutja ouvanga wokuvanga okukangavara potuingi u kurira ko kongurova nokomatundu (povikando tjiva u isanewa sundowning). Omarya wokomutenya poo womuhuka weyuva omanene mape yenene okurira omuṱiṱi okukapita omarya wongurova.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Tjita kutja otjivaro tjovandu tji rire otjisemba.** Ombongarero okaṱiṱi, poo ovaenda mave ya ovaṱiṱi poruveze rumwe, potuingi i rira omuṱiṱi okukapita otjiriro tjimwe tji tje ura ovandu.
+- **Yandja oviungura.** Ningira ovazamumwe okutjinda ovikurya, okukaranda poo okukara pu nomundu ngunda ove ama u tereka. Hungira oukahu kutja otjiṋe tji matji vatere.
+- **Tjita oviziriko oviṱiṱi.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) mai tja omarama nge tema nokuzima maye yenene okutjita ouvanga, nu ousuweṱe poo ovihape mbya ungurwa mbi mavi zikisiwa mavi yenene okumunikwa otja ovikurya.
+- **Toora kutja otjiṋe tji mo isa.** Indu otjir practise tje rira otjizeu poo tji nombandarero, o sema okutjiisa poo okurora otjiṋa tjarwe tji ṱuna.
 
-## What holiday activities can we do together?
+## Oviungura viṋe vyomayuva omanene mbi matu yenene okutjita pamwe?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Toorora oviungura novinyandwa mbi mavi hitasana na imbi omundu mbi ma yenene okutjita ndino. Okukara norupa meyuva otjinanḓengu tjinene okukapita kutja ovikurya vya piti vi.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Twapo omitiṱiro pamwe.** Twapo ovitjendje rutenga, okuzambo ozonapikine, nu okuzambo ozombiya. Okupeta ozonapikine otjiungura otjiwa okutjitira tji wa haama.
+2. **Kosa nu u haṋe ovihape.** Okukoha ozombatatate poo okutoora omakunde komitiṱiro wokuterekera oviṋa oviṱiṱi noviheṋu kovandu ovengi mbaave tereka rukuru.
+3. **Pirura, vanga poo twapo.** Okupirura ocranberry sauce, okuvanga otjiṋa otjiṱiṱi poo okutwapo ovikuki motjitjendje ku tjita omake kutja ye kare nomoṋa kokure nezuko nomiṋe.
+4. **Putira otjiyandjewa.** Teta orutjato notape komurungu woruveze, nu yandjera omundu a pete nokuporosa. Okutja tja putirwa nawa katjiṋa otjinanḓengu.
+5. **Turika oviziriko oviṱiṱi.** Toorora oviziriko mbi hi nokuteyika nondjuwo okaṱiṱi, tjimuna otjiringa poo omuti omuṱiṱi.
+6. **Ungura otjiṋa otjiṱiṱi tji tja ungurwa nomake.** Oruvanda rwomapepa, otjiperendero tjomayo poo okarambo keyuva omanene nozostampu mavi ungura nawa. [Embo retu rozoviungura vyomake](/activities/arts-and-crafts/) ri noviano vyarwe.
+7. **Imbura nu u puratene.** Omaimburiro womayuva omanene nge ri omatjiukwa omapupu okuhita mo, nandarire ku omundu ngu ma hungire okaṱiṱi nai. Tara [embo retu romizumbi](/activities/music/) kutja u ungure oruteto rwomizumbi.
+8. **Tara ozofoto zomakuru zomayuva omanene.** Eta omambo wozofoto womayuva omanene omakuru nu u ṋanga omahungi ("Ndji raera ohunga notjiriro hi") pendje nokupura kutja ouṋe ngu ri pi. [Embo retu rozondjiviro](/activities/reminiscence/) mari kahurura nawa.
+9. **Nyanda otjinyandwa otjiṱiṱi pamwe.** [Picture bingo](/games/picture-bingo/) i printwa moure womaminute nu i ungura kovandu avehe, nu [conversation cards](/games/conversation-cards/) ze yandja otjiṋa ku avehe okutjihungirira.
+10. **Randisa ozombara pamwe.** [Omapandje wokurandisa ozombara](/games/coloring/) omapupu maye yenene okuprintwa kutja ovanatje novakurundu ve yandje pamwe potjiriro.
+11. **Tarera otjiperendero tjeyuva omanene tji tji suverwa.** Otjiperendero tji tji ri otjatjiukwa tji suva, nu o sema okutara orupa rwatjo uriri.
+12. **Karyanga okaṱiṱi okutara omarama.** Okuryanga kouriri popezu nozondjuwo nda zirwa mape yenene okurira omuṱiṱi okukapita otjitjitwa tji tje ura ovandu.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Indu okutereka kwa ri otjiṋa otjinene mehupo romundu, embo retu [roviungura vyonganda otja ovingi vyokutjita](/activities/household-tasks/) ri noviano vyarwe vyokutjita oviungura vyokombinika kutja vi rire oviheṋu novinyandisiwa.
 
-## How do I prepare guests?
+## Me rongerisa vi ovaenda?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Raera ovaenda imbi mave kamuna komurungu woruveze, tjinene ovazamumwe mbe hiya ryere oruveze orure. Alzheimer's Association mai tunduuza kutja u kahurure kutja omarundurukiro mozondjiviro nomeritjindiro maye zu komutjise, kaye zu komundu omuini.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Yandja omiano oviṱiṱi:** ve hungire umwe poruveze, ve yandje oruveze rwokumana ombango, ave ha vyurura poo okupura omapuriro omengi, nu ve zire kOmbepo yomundu indu omambo tji ye ri ouzeu okuzuva.
+- **Tja kutja otjiṋe tji tji vatera notjiṋe tji tji hihamisa.** Indu omaraka omatungame, okutumbwa poo ovitjitwa tjiva tji vi eta ouzeu, tja nao.
+- **Tjiukisa ovaenda komurungu woruveze.** Raisa omundu ozofoto za imba mave ya nu u yandje ehungi rimwe poo yevari, poo u rongerise ehungi esupi rotjinghondo poo rotjiperendero komurungu weyuva.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[Omiano vyetu vyokuhungira](/caregiving/communication-tips/) vi nondjivisiro onyingi.
 
-## What if it gets to be too much?
+## Tjike indu tji tja rira otjizeu tjinene?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Tunina ondjuwo ndji ṱuna komurungu wokutja ovaenda ve ye, kokure nombosiro, pu noviṋa mbi ri omatjiukwa mbya suva tjimuna ekangungu, otjombanda poo otjiungura otjiṱiṱi. I yandja rukuru nu povikando ovingi: "Tu haama pi ṱina kOuṱiṱi?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Okupita potjiriro, okukarara rukuru poo okurira orupa rweyuva otjiṋa otjiwa, katjiṋa otjihihamise. Indu omundu tja hihamwa omutima, eraka nda ṱuna, eimburiro ndi ri otjatjiukwa poo okuryanga pondjuwo yarwe potuingi vi vatera okukapita omapukurukiro. Embo retu [rohungiriro yomongurova nokuhinokusuva](/caregiving/late-day-restlessness/) ri noviano vyarwe vyomangurova.
 
-## How can family far away take part?
+## Eṱunḓu ndi ri kokure mari yenene vi okukara norupa?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Ovitjitwa vyotjiperendero vi yandjera ovazamumwe okukara norupa nokuhinokuwedera kotjimbumba tjovandu. Alzheimer's Association mai tunduuza kutja ovitjitwa mbi vi kare nondyero, otjotjihorera okwiimbura omaimburiro womayuva omanene, okuyandja ozofoto zomayuva omanene omakuru, okutereka otjikurya tjimwe pamwe poo okutarera otjiperendero tjeyuva omanene poruveze rumwe. Tjita ovitjitwa ovisupi, nu ningira ovandu ve hungire umwe poruveze, mena rokutja omahungiriro omengi poruveze rumwe omauzeu okuyezuva. [Embo retu rovitjitwa vyotjinghondo notjiperendero](/activities/phone-and-video-calls/) ri noviano vyokutjita katjikeṱikeṱi.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Indu omundu tja tura motjivaro tjokuvatera ovandu mbozondjiviro, pura omirari vyomaryero nu u ningire ovakarere okutjivatera okurongerisa ehungi. Embo retu [rokuryera omundu motjivaro tjokuvatera ovandu mbozondjiviro](/activities/visiting/) mari hungire ohunga na imbi mbi mo sokutjinda nokutja mo piti vi nawa.
 
-## What gifts suit someone with dementia?
+## Oviyandjewa viṋe mbi hitasana na omundu ngu nomutjise wokuzemba?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Oviyandjewa oviṱiṱi noviheṋu mbi ma yenene okunyanda nai potuingi vi ungura nawa: ovikurya mbye suvera, ekangungu poo okandjesi kombaranga, omizumbi mbi ri omatjiukwa, okalindeli kozombara ozonene, poo embo rozofoto zeṱunḓu. Alzheimer's Association mai rongo kutja u yepe ovitjendje mbi nombandarero, oviṋa vyombunane mbi ri ovizeu novinyandwa vyozombapa mbi ri ovizeu.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Okuyandja mape yenene okurira otjinanḓengu tjimuna okuyangera. Okutuna ovikuki omundu mbya vatera okutereka, poo okumuyandjera okuputira otjiyandjewa tji wa randa, ku mu yandjera okukara norupa moruveze rweyuva. Otjinyandwa tjozofoto zeṱunḓu otjirongwa tjarwe: [photo pairs](/games/photo-pairs/) tji tjita ozofoto nḓa toororwa okaṱiṱi okurira otjinyandwa otjiṱiṱi tjokusanisa motjinternet.
 
-## Look after yourself too
+## Ritjevera wina ove omuini
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Omayuva omanene ye weda oviungura kovitarero. Yandjera omundu warwe a yakure ovaenda poo a tereke onḓera, tja kako kovitjitwa mbi mavi rire ovizeu, nu u toore orusuvo ngunda varwe amave kara pu nomundu. Indu ove poo omundu ngu u mu tarera tji mwa vera, okuvunga okuza pehaṋa poo ehungi rotjiperendero oryero oruwa tjinene. Embo retu [rokuritjevera kwomutjevere](/caregiving/caregiver-self-care/) ri nombatero yarwe.

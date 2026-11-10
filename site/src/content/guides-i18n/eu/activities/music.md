@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Musika jarduerak dementzia duten pertsonentzat"
+seoTitle: "Musika jarduerak dementziarekin: zerrendak eta ideiak"
+description: "Nola partekatu musika dementzia duen pertsona batekin: zerrenda pertsonala egitea, 15 musika jarduera erraz eta aholkuak etapa bakoitzerako."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Musika da dementzia duen pertsona batekin partekatzeko jarduerarik errazenetako
+  bat. Egin zerrenda pertsonal bat gaztaroan, fedean eta familian garrantzitsuak
+  izan ziren abestiekin, jarri iragarkirik eta atzeko zaratarik gabe, eta abestu,
+  txalo egin, kulunkatu edo, besterik gabe, entzun elkarrekin. Aukeratu musika
+  lasaia edo bizia momentuari egokitzeko, mantendu bolumena leun, eta gelditu
+  abestiren batek gogaitzen badu.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Musika pertsonala da egokiena: pertsona gaztea zenean maite zituen estiloak, bai eta bere fedearekin, kulturarekin eta familia-ekitaldiekin lotutako musika ere."
+  - "Jarri gauza bakarra aldi berean, iragarkirik gabe eta telebista itzalita."
+  - "Abestea, txalo egitea, kulunkatzea eta, besterik gabe, entzutea parte hartzeko moduak dira."
+  - "Erabili musika lasaiagoa giroa baretu nahi duzunean eta biziagoa giroa animatzeko, eta begiratu nola erantzuten duen pertsonak."
+  - "Musika saio egituratuei buruzko ikerketa mugatua da; musika elkarrekin gozatzeko zerbait gisa proposatzen dugu, ez tratamendu gisa."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Zein musika da egokiena dementzia duen pertsona batentzat?"
+    a: "Pertsonak aspalditik ezagutu eta maite duen musika, askotan nerabezaroan eta hogeita hamarreko hamarkadan entzundakoa, bai eta bere fedearen, kulturaren eta familia-ospakizunen musika ere. Posible bada, utzi berari aukeratzen. Begiratu aurpegira eta gorputzera zer gozatzen duen jakiteko, eta utzi alde batera gogaitzen duenaren itxura duen edozer."
+  - q: "Entzungailuak erabili behar al ditut?"
+    a: "Pertsona batzuek gustuko dituzte entzungailuak zarata blokeatzen dutelako, eta beste batzuei deserosoak edo nahasgarriak iruditzen zaizkie. Saiatu lehenik bozgorailu batekin, elkarrekin entzun ahal izateko. Entzungailuak erabiltzen badituzu, mantendu bolumena baxu eta egon gertu."
+  - q: "Musikak lagun dezake ezinegonean edo asaldatuta dagoenean?"
+    a: "Musika lasai eta ezagunak giro baketsua sortzen lagun dezake, eta Alzheimer’s Association erakundeak iradokitzen du musika erabiltzea nahi duzun giroa sortzeko. Hala ere, ez du beti balio. Pertsona asaldatuta badago, egiaztatu ea mina, gosea, zarata edo nekea dagoen."
+  - q: "Dementziaren azken etapako pertsonek ere goza dezakete musikaz?"
+    a: "Askok bai. Alzheimer’s Association erakundeak adierazten du azken etapako pertsona batek oraindik ere erritmoari jarraitu edo haurtzaroko abesti bat abestu dezakeela. Eseri gertu, jarri musika oso leun, eta heldu eskutik edo kulunkatu elkarrekin."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Musika da dementzia duen pertsona batekin partekatzeko gauzarik errazenetako bat. Ez du ezer eskatzen: ez erantzun zuzenik, ez jarraitu beharreko urratsik. Abesti ezagun batek irribarre bat, oinarekin erritmoa markatzea edo hitz batzuk abestea ekar dezake, baita elkarrizketa zaila den egunetan ere. Behar duzun guztia da pertsona horrentzat egokia den musika eta hura jartzeko une lasai bat.
 
-## What music activities work for people with dementia?
+## Zein musika jarduera dira egokiak dementzia duten pertsonentzat?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Entzutea, abestea, txalo egitea, kulunkatzea eta musikaz hitz egitea oso egokiak dira. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) erakundeak iradokitzen du musika jartzea, musikaz eta artistaz hitz egitea, abesti ezagunak abestea edo haiekin dantza egitea, eta komunitateko kontzertuetara edo musika ekitaldietara joatea. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) erakundeak gaineratzen du mugimenduak, hala nola txalo egiteak edo dantza egiteak, gozamena handitu dezakeela, eta musikak lotura sortzeko modua izan daitekeela hitzak zailtzen direnean.
 
-## How do you build a personal playlist?
+## Nola egin zerrenda pertsonal bat?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Egin dezakezun gauzarik erabilgarriena pertsona horrentzat esanahia duen musikaz osatutako zerrenda bat da. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) erakundeak ere azpimarratzen du esanahi pertsonala duen musika. Hona hemen egiteko modu erraz bat.
 
-### Start with their life
+### Hasi bere bizitzatik
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Nerabezaroa eta gaztaroa.** Pentsatu zer entzuten zen irratian, dantzetan eta filmetan gaztea zenean.
+- **Une garrantzitsuak.** Ezkontzako musika, lehen dantza edo familia-bidaia bateko disko gogokoena.
+- **Fedea eta kultura.** Ereserkiak, gospel musika, musika sakratua edo bere lehen hizkuntzako abestiak.
+- **Lana eta zerbitzua.** Martxa-bandak, laneko abestiak edo armadan igarotako garai batekin lotutako musika.
+- **Familiak gogoratzen duena.** Galdetu senideei, seme-alabei eta aspaldiko lagunei zer jartzen edo abesten zuten beti.
 
-### Think in genres, not just songs
+### Pentsatu generoetan, ez soilik abestietan
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ez badakizu nondik hasi, probatu genero hauetako bakoitzetik minutu batzuk eta begiratu nola erantzuten duen: *big band* eta swing, doo-wop, Motown eta soul, lehen rock and rolla, country eta western, bluegrass, gospel eta ereserkiak, Broadwayko abestiak, jazz estandarrak, musika latinoa —hala nola boleroak edo mariachi musika—, polka, folk eta musika klasikoa. Gorde irribarrea edo erritmoa markatzea eragiten duena; utzi alde batera keinu tristea eragiten duena.
 
-### Make it easy to play
+### Erraztu erreproduzitzea
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Iragarkirik gabe.** Alzheimer’s Association erakundeak ohartarazten du iragarkiek nahasmena sor dezaketela. Erabili deskargatutako musika, CDak, diskoak edo iragarkirik gabeko zerbitzu bat.
+- **Gailu erraz bat.** Botoi handi bakarra duen bozgorailu bat, edo prest gordetako zerrenda bat, edonork abiarazi ahal izateko.
+- **Bi zerrenda labur.** Bat lasaia, giroa baretzeko, eta bestea bizia, giroa animatzeko.
+- **Jarri etiketa.** Idatzi pertsonaren izena eta «musika gogokoena» gailuan, bisitan datozen senideek eta zainketako langileek ere erabili ahal izan dezaten.
 
-## 15 music activities to try
+## Probatzeko 15 musika jarduera
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Entzun elkarrekin.** Eseri ondoan, beste ezer egin gabe. Entzutea jarduera osoa da berez.
+2. **Abestu elkarrekin.** Hasi zuk abesten. Tarareatzea edo ezpainak mugitzea ere balio du.
+3. **Egin txalo edo markatu erritmoa.** Jo belaunak, kolpatu mahaia edo erabili eskuko danbor txiki bat edo txindata bat.
+4. **Dantza egin poliki.** Heldu elkarri eskutik eta kulunkatu sukaldean, edo dantza egin eserita, besoak elkarrekin mugituz.
+5. **Zapi-dantza.** Mugitu zapi arinak musikaren erritmoan, zutik edo eserita.
+6. **Hitz egin musikaz.** Gonbidatu, ez probatu: «Honek dantzaleku bat gogorarazten dit. Kontaidazu dantzei buruz». Ez galdetu inoiz «Abesti hau gogoratzen duzu?».
+7. **Jarri disko oso bat.** Jarri maite zuen disko bat, hasieratik amaierara, kafe bat hartzen duzuen bitartean.
+8. **Begiratu disko-azalak.** Disko zaharren azalak oso onak dira modaz, autoez eta aurpegiez hitz egiteko.
+9. **Ikusi musikal bat.** Bere garaiko musikal edo kontzertu filmatu bat iluntze polita izan daiteke. Egin atsedenaldiak behar denean.
+10. **Jo ezagutzen duen tresna bat.** Pianoa edo gitarra jotzen zuen pertsonak agian gozatu egingo du modu errazean jotzen. Geroago, elkarrekin nota batzuk ateratzea nahikoa da.
+11. **Musika lanak egiten dituzuen bitartean.** Jarri abesti gogokoenak arropa tolesten edo mahaia jartzen duzuen bitartean.
+12. **Goizeko abestia.** Hasi egunero abesti alai berarekin, errutinaren parte gisa.
+13. **Abestu ereserkiak edo musika sakratua.** Jarri bere fede-tradizioko musika eta abestu elkarrekin.
+14. **Bat egin abesbatza talde batekin.** NHS erakundeak dio abesbatza taldeak onak izan daitezkeela aldartearentzat eta ongizatearentzat. Galdetu zure inguruan dementzia duten pertsonentzat egokitutako abesbatzarik badagoen.
+15. **Joan musika zuzenera.** Komunitateko kontzertu labur batera edo kanpoko musika emanaldi batera. Eseri irteeratik gertu eta joan nahi duzunean.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Esaldi ezagunekin jolasteko hitz-jarduera arin bat nahi baduzu, probatu [bukatu esaera](/games/finish-the-saying/); bertan, amaiera erakusteko aukera dago beti.
 
-## Matching music to the moment
+## Musika momentuari egokitzea
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer’s Association erakundeak iradokitzen du musika erabiltzea nahi duzun giroa sortzeko: musika lasaia giro baketsu baterako, eta gaztaroko abesti bizi bat giroa animatzeko.
 
-| Moment | Try | Tip |
+| Momentua | Probatu hau | Aholkua |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Jaikitzean | Abesti ezagun eta alai bat | Goizero abesti bera erabiltzeak seinale leuna sor dezake |
+| Etxeko lanak | Abesti gogoko biziak | Musikak lana konpainia bihur dezake |
+| Otorduak | Musika instrumental leuna | Mantendu baxu, jatearekin lehiatu ez dadin |
+| Arratsalde amaieran | Musika lasai eta ezaguna, argi onean | Ikus [arratsalde amaierako ezinegona](/caregiving/late-day-restlessness/) |
+| Oheratzeko ordua | Musika motel eta leuna | Jaitsi bolumena eta argiak batera |
+| Azken etapa | Gehien maite dituen abestiak, oso leun | Eseri gertu eta heldu eskutik |
 
-## Tips for a good experience
+## Esperientzia ona izateko aholkuak
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Itzali beste zaratak.** Alzheimer’s Association erakundeak iradokiten du leihoak eta ateak ixtea eta telebista itzaltzea, musika entzuten den soinu bakarra izan dadin.
+- **Mantendu bolumena leun.** Musikak erosoa izan behar du, ez ozen. Pertsonak audifonoak erabiltzen baditu, ziurtatu jarrita eta ondo dabiltzala; ikus [entzutea](/brain-health/hearing/).
+- **Adi egon abesti tristeekin.** Abesti batzuek dolua, gerra edo galerak ekar ditzakete gogora. Abestiren batek gogaitzen badu, lasaitu eta aldatu.
+- **Utzi berari gidatzen.** Posible bada, utzi pertsonari musika aukeratzen, eta onartu ezezko bat.
+- **Gelditu edozein unetan.** Bost minutuko musika jarduera ona da. Musika itzali eta lasai eseri ere bai.
 
-## What does the research say about music and dementia?
+## Zer dio ikerketak musikaz eta dementziaz?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Ebidentzia mugatua da. [2025eko Cochrane berrikuspen](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) batek musika saio egituratuei buruzko 30 ikerketa aztertu zituen, gehienak zaharren egoitzetako taldeekin egindakoak. Aurkitu zuen saio horiek ziurrenik pixka bat arindu ditzaketela depresio-sintomak ohiko zainketarekin alderatuta, baina ez zuen ondorio argirik aurkitu asaldurari, ongizateari edo pentsamenduari eta memoriari buruz, ezta saioak amaitu ondoren iraun zuten ondoriorik ere.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Musika partekatzen dugu elkarrekin denbora pasatzeko modu atsegina eta presiorik gabea delako, ez tratamendu gisa. Talde-giroetarako, ikus [zahar-etxeetako talde-jarduerak](/activities/care-home-groups/); musika argazkiekin eta istorioekin uztartzeko, ikus [oroitzapen-jarduerak](/activities/reminiscence/).

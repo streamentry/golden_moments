@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Telefoni- ja videokõnetegevused dementsusega inimesele"
+seoTitle: "Videokõnetegevused dementsuse korral"
+description: "Videokõne- ja telefonitegevused kaugel elavatele pereliikmetele: näita ja jutuusta, ette lugemine, laulmine, ekraanijagamise mängud ja nõuanded abistajale."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Kõned dementsusega inimesega lähevad kõige paremini siis, kui need on
+  lühikesed, korrapärased ja keskenduvad millelegi, mida koos teha, näiteks
+  lemmiklooma või aia näitamine, fotode vaatamine, ette lugemine, lemmiklaulu
+  laulmine või rahuliku mängu mängimine jagatud ekraanil. Helistage võimaluse
+  korral igal päeval samal ajal, laske korraga rääkida ainult ühel inimesel ja
+  paluge kohalolijalt abi.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Tegevus annab kõnele raami ja võtab vestluselt surve. Planeerige üks lihtne asi, mida jagada."
+  - "Lühikesed ja korrapärased kõned igal päeval samal ajal töötavad sageli paremini kui pikad ja harvad kõned."
+  - "Korraga räägib üks inimene. Rühmakõned, kus kõik räägivad läbi, on raskesti jälgitavad, eriti kuulmisraskuse korral."
+  - "Kohalolev abistaja saab seadme valmis panna, istuda inimese kõrval ja olla mängu või fotode juures abikäeks."
+  - "Kui kõne täna ei suju, lõpetage see soojalt. Homme võib uuesti proovida."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Mida saan videokõnes dementsusega inimesega teha?"
+    a: "Planeerige üks lihtne tegevus: näidake oma aeda, lemmiklooma või kööki; vaadake koos vanu fotosid; lugege ette lühike luuletus või kiri; laulge laulu, mis talle meeldib; tehke samal ajal sama retsepti järgi süüa või mängige jagatud ekraanil rahulikku pilti kasutavat mängu. Tegevus annab kõnele fookuse, nii ei pea inimene vestlust üksi kandma."
+  - q: "Kui pikk peaks videokõne olema?"
+    a: "Tavaliselt lühem, kui arvate. Mõni soe minut võib olla täiesti piisav, eriti kui inimene väsib kiiresti. Korrapärane helistamine igal päeval samal ajal võib olla olulisem kui kõne pikkus."
+  - q: "Mis siis, kui videokõned ajavad ta segadusse või teevad kurvaks?"
+    a: "Mõnele inimesele tundub nägu ekraanil segadusse ajav. Proovige tavalist telefonikõnet, salvestatud videosõnumit, mida abistaja saab rahulikul hetkel mängida, või saatke kaarte ja fotosid postiga. Kui kõne läheb halvasti, lõpetage see lahkelt ja proovige teisel päeval või teisel ajal uuesti."
+  - q: "Kuidas aidata emal videokõnet teha, kui ta ei oska telefoni kasutada?"
+    a: "Paluge pereliikmel, koduabilisel või hooldekodu töötajal kõne alustada ning seadet hoida või toetada. Paljud hooldekohad aitavad peredel videokõnesid teha, seega küsige, mida nad pakuvad. Alusele pandud tahvelarvuti, millel on suur ekraan ja piisavalt vali heli, teeb asja kõigi jaoks lihtsamaks."
+  - q: "Kas me saame videokõne ajal koos mängida?"
+    a: "Jah. Lihtsaim viis on see, et üks inimene jagab videorakenduses oma ekraani ja teine ütleb, millisele pildile puudutada. Või avab kohalolev abistaja tahvelarvutis sama mängu ja puudutab inimese eest, samal ajal kui teie vestlust juhite. Valige mängud, milles pole taimerit ega punkte."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Kaugel elamine dementsusega inimesest võib tekitada abitustunnet. Telefoni- ja videokõned ei asenda kallistust, kuid hästi korraldatuna võivad need siiski tuua tõelisi ühenduse hetki. Oluline on lõpetada katse pidada tavalist vestlust ja planeerida selle asemel midagi lihtsat, mida koos jagada. Sellel lehel leiate tegevusi, mis sobivad video- ja telefonikõnedeks, nõuandeid kõne ettevalmistamiseks ja ideid selle kohta, kuidas kohalolija saab aidata.
 
-## Why plan an activity for a call?
+## Miks tasub kõneks tegevus planeerida?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Tegevus annab kõnele raami. „Kuidas sul läheb? Mida sa täna tegid?” palub inimesel meenutada ja rääkida, mis võib olla raske ja pingeline. „Vaata, tomatid on küpsed” ei nõua temalt midagi.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association märgib, et suuremate rühmadega videovestlused võivad olla keerulised, ja soovitab [anda kõnele struktuuri](https://www.alz.org/help-support/caregiving/holidays), näiteks lauldes või pilte jagades.
 
-## What activities work on a video call?
+## Millised tegevused sobivad videokõnesse?
 
-### Show and tell
+### Näita ja jutuusta
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Võtke oma maailm temani. Liigutage kaamerat aeglaselt oma aias, tutvustage koera, näidake, mida keedate, hoidke kaamera ees lapse joonistust või suunake telefon aknast välja lumele. Kirjeldage lihtsate sõnadega, mida näete, ja jätke pause, et inimene saaks reageerida. Küsimusi pole vaja.
 
-### Look at photos together
+### Vaadake koos fotosid
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Hoidke vana fotot kaamera ees või jagage ekraani ja näidake korraga ühte suurt fotot. Rääkige sellest, mida märkate: „Vaata vanaisa mütsi.” Vältige küsimusi „Kes see on?” või „Kas sa mäletad?” Kui inimene nimetab kedagi valesti, nõustuge temaga rahulikult. Õrnade küsimuste jaoks vaadake meie [meenutuste juhendit](/activities/reminiscence/).
 
-### Read aloud
+### Lugege ette
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Lugege ette lühike luuletus, psalm, lemmiklasteraamat lapselapsele samas kõnes, sugulase kiri või lehekülg raamatust, mis talle meeldis. Ette lugemine annab inimesele midagi rahulikku kuulata, ilma et ta peaks vastama.
 
-### Sing or listen to music together
+### Laulge või kuulake koos muusikat
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Laulge laulu, mida ta hästi teab, või mängige oma pool lemmikplaati. Paljudele inimestele on kaasa laulmine lihtsam kui rääkimine. Vaadake meie [muusikategevuste juhendit](/activities/music/).
 
-### Cook or bake at the same time
+### Tehke samal ajal süüa või küpsetage
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association soovitab planeerida videokõne, et koos erilist retsepti valmistada või küpsetada. Seadke kõne üles mõlemas köögis. Kohalolev inimene võib segada või maitsta, samal ajal kui teie järgite tema vana retseptikaarti.
 
-### Watch something together
+### Vaadake koos midagi
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Liit soovitab ka vaadata lemmikfilmi samal ajal eri kodudes, rääkides telefoni või video teel. Dementsusega inimesele võib täispika filmi asemel paremini sobida lühike klipp, vana telesaade või spordimäng.
 
-### Play a gentle game on a shared screen
+### Mängige jagatud ekraanil rahulikku mängu
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Paljud videokõnerakendused võimaldavad ekraani jagada. Teie avate mängu ja puudutate, inimene ütleb või näitab, millise pildi valida. Või avab kohalolev abistaja sama mängu tahvelarvutis ja puudutab tema eest, samal ajal kui teie vestlete.
 
-Games that work well this way:
+Mängud, mis sobivad selleks hästi:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Lõpeta vanasõna](/games/finish-the-saying/):** teie loete tuttava vanasõna, inimene ütleb lõpu ja järgneb kõnega vihje.
+- **[Pildipaarid](/games/picture-pairs/):** rahulik sobitamise mäng suurte piltidega, mis võivad jääda nähtavale, ilma taimeri ja punktideta.
+- **[Vestluskaardid](/games/conversation-cards/):** pilt ja avatud küsimus, millest koos rääkida.
+- **[Fotopaarid](/games/photo-pairs/):** sobitamise mäng fotodega, mille valite oma seadmes. Fotod jäävad teie brauserisse ja inimene näeb neid teie jagatud ekraanil.
 
-### Recorded messages
+### Salvestatud sõnumid
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Kui otsekõned on rasked, salvestage lühike video: tervitus, laul või jalutuskäik oma aias. Abistaja saab seda rahulikul hetkel mängida nii mitu korda, kui inimene sellest rõõmu tunneb. Alzheimer's Association mainib ka eriliste hetkede salvestamist ja saatmist, näiteks laste kingituste avamist.
 
-## What about plain phone calls?
+## Kuidas on lood tavaliste telefonikõnedega?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Tavalised telefonikõned on endiselt olulised. Dementia Australia soovitab [helistada igal päeval samal ajal](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ja mitte kiirustada, sest dementsusega inimesel võib vestlusega kaasa minemiseks aega kuluda. Telefonis:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Öelge kohe oma nimi ja suhe: „Tere, isa, siin on Jenny, sinu tütar.”
+- Rääkige aeglaselt, lühikeste lausetega ja korraga ühest asjast.
+- Andke uudiseid, mitte ei küsige neid: „Tegin eile õhtul sinu potiroa retsepti järgi süüa.”
+- Lugege ette lühike luuletus või laulge salm lemmiklaulust.
+- Hoidke kõne lühike ja lõpetage soojalt.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia märgib ka, et videokõned võivad aidata siis, kui rääkimine muutub raskemaks, sest inimene näeb teie nägu. Kui telefonikõned lähevad segaseks, proovige videot või vastupidi.
 
-## How do I set up a video call that works?
+## Kuidas videokõne hästi ette valmistada?
 
-**Before the call:**
+**Enne kõnet:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Valige korrapärane aeg**, mil inimene on tavaliselt puhanud, ja pidage sellest kinni. Rutiin aitab.
+2. **Leppige kokku kohaloleva abistajaga.** Eelmisel päeval saadetud sõnum aitab tal planeerida.
+3. **Kontrollige seadet.** Alusele pandud tahvelarvuti on lihtsam kui käes hoitav telefon. Veenduge, et see on laetud, ekraan on hele ja heli piisavalt vali. Lülitage subtiitrid sisse, kui rakendus neid pakub ja inimene loeb hästi.
+4. **Planeerige üks tegevus** ja pange kõik valmis.
 
-**During the call:**
+**Kõne ajal:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Istuge kaamerale lähedal** heas valguses, näoga akna poole, mitte nii, et aken jääb selja taha.
+- **Tutvustage end** igal korral nime ja suhte kaudu.
+- **Korraga üks hääl.** Alzheimer's Association märgib, et üksteisele vahele rääkimine on raske nii dementsusega inimestele kui ka kuulmisraskusega inimestele. Kui liitub mitu sugulast, rääkige kordamööda või hoidke kõne kahe või kolme inimese juures.
+- **Küsige korraga üks küsimus.** Family Caregiver Alliance soovitab [lihtsaid küsimusi, millele saab vastata „jah” või „ei”](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), ja võimaluse korral valikute näitamist.
+- **Jätke pikad pausid.** Oodake vastust. Kui inimene otsib sõna, võib sobiva sõna ette pakkuda.
+- **Kasutage oma nägu ja häält.** Naeratage, noogutage ja hoidke toon soe. Ilme ütleb sageli rohkem kui sõnad.
+- **Ärge parandage.** Kui inimene ütleb midagi ebatäpset, laske sellel olla.
 
-**Ending the call:**
+**Kõne lõpetamine:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Lõpetage enne, kui inimene väsib, võimaluse korral rõõmsa hetke peal.
+- Kasutage iga kord sama hüvastijättu: „Helistan sulle homme lõuna ajal. Ma armastan sind.”
+- Ärge venitage kõnet pikaks.
 
-## Tips for the helper on site
+## Nõuanded kohalolevale abistajale
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Kui olete abikaasa, hooldaja, õde, vend või töötaja, kes kõnet aitab läbi viia, teete selle võimalikuks.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Valige vaikne koht.** Lülitage teler välja ja sulgege uks.
+- **Alustage kõnet ise,** seejärel andke inimesele alusel tahvelarvuti või hoidke seda silmade kõrgusel.
+- **Istuge tema kõrval, mitte tema ees.** Teie kohalolu annab kindlust. Vajadusel julgustage õrnalt: „Vaata, see on Jenny.”
+- **Olge abikäed.** Hoidke fotosid, puudutage mängus ja keerake tahvelarvutit, et ruumi näidata.
+- **Jälgige väsimust või ärritust** ja andke helistajale märku, kui on aeg lõpetada.
+- **Öelge helistajale, mis toimis.** „Talle meeldis koer väga” aitab järgmist kõnet planeerida.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA soovitab, et kaugel elavad sugulased saavad aidata vanemal inimesel [õppida oma telefoni võimalusi](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), näiteks videokõnesid. Hilisemates etappides peab abistaja tavaliselt seadet täielikult ise kasutama. See on täiesti sobiv.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Kui inimene elab hooldekodus, soovitab Alzheimer's Foundation of America küsida, kas asutus aitab peredel videokõnesid teha. AFA mainib ka, et pered võivad hooldustöötajate kaudu fotosid vahetada ning saata lemmiksnäkke või väikseid mugavusesemeid, pärast seda, kui on kontrollitud, mida asutus lubab.
 
-## What if the call doesn't go well?
+## Mis siis, kui kõne ei lähe hästi?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Mõned kõned võivad olla segased, tuimad või kurvad. See ei ole teie süü ja ei tähenda, et kõnedest pole kasu.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Kui inimene näib ekraani pärast segaduses olevat, minge üle telefonikõnele või salvestatud sõnumile.
+- Kui ta muutub kurvaks või ärritunuks, tunnustage tunnet, öelge midagi rahustavat ja lõpetage õrnalt.
+- Kui kõned lähevad ühel kellaajal sageli halvasti, proovige teist aega.
+- Kui ta peab teid kellekski teiseks, nõustuge temaga lahkelt.
 
-It is fine to end early. A short, warm call is a good outcome.
+On täiesti sobiv kõne varem lõpetada. Lühike ja soe kõne on hea tulemus.
 
-## Between calls
+## Kõnede vahepeal
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Püsige kohal ka muul viisil. Dementia Australia soovitab saata kaarte, e-kirju, fotosid või väikseid kingitusi. Iganädalane postkaart ühe suure foto ja lühikese kirjaga võib pakkuda rõõmu ikka uuesti. Abistajale saadetud prinditavad [vestluskaardid](/games/conversation-cards/) võivad anda järgmisele kõnele valmis teema.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Nõuandeid tahvelarvuti valimiseks ja seadistamiseks leiate lehelt [tahvelarvutid ja ekraanid](/caregiving/tablets-and-screens/). Kohtumiste kohta näost näkku vaadake meie juhendit [külastamise](/activities/visiting/) kohta.

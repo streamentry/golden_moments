@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Grupala aktivesi por dementeso: guidilo por hemi"
+seoTitle: "Grupala aktivesi por dementeso: bingo, kanti, rakonti"
+description: "Grupala aktivesi por memorala sorgo, hemi e diurna programi: imajala bingo, komuna kanto e rememorala grupi, kun konsili pri sidado e grandeso di grupo."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Bona grupala aktivesi en memorala sorgo e diurna programi esas kurta,
+  familiara e facila por partoprenar a irga nivelo: imajala bingo, komuna kanto,
+  rememorala cirkli, simpla movado e komuna vortoludi. Tenez la grupi mikra
+  kande to esas posibla, sidez la personi tale ke omni povas vidar e audar, donez
+  un klara etapo singlatempe, e preparez plu facila rolo e tranquila voyo por
+  ekirar por irgu qua bezonas to.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Mikra grupi ofte funcionas plu bone kam un granda evento, e li permisas a plu multa personi aktive partoprenar vice nur spektar."
+  - "Sidez la personi en cirklo o hufumo-formo, proxim la guidanto, konsiderante bezoni pri audado e vidado, e extintez la bruo en la fono."
+  - "Preparez singla aktiveso a du o tri niveli, por ke personi kun diferanta kapablesi omna povos partoprenar."
+  - "Evitez questionado, puntizado e vinkanti. Imajala bingo povas ludesar tale ke omni finas kun plena karto."
+  - "Forirar frue, spektar o dormetar esas bone. Habez laboranto pronta por helpar irgu qua deziras plu tranquila loko."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Quala esas bona grandeso di grupo por aktivesi pri dementeso?"
+    a: "Ne existas un sola justa nombro, e to dependas de la rezidanti, la chambro e quanta laboranti vu havas. Multa equipi trovas ke mikra grupi permisas a omni vidar, audar e partoprenar, dum eventi en granda chambro ofte lasas plu multa personi nur spektar. Se vu facas granda evento, adjuntez laboranti o voluntarii qui povas sidar inter la rezidanti e helpar un o du personi singlu."
+  - q: "Quale me povas guidar grupo kun mixita kapablesi?"
+    a: "Preparez plu kam un maniero por partoprenar en singla aktiveso. Dum komuna kanto, kelka personi kantas omna vorti, kelka klakas o murmuras, e kelka tenas shakrilo. Dum imajala bingo, kelka personi trovas sua propra imaji dum helpanto indikas por altri. Sidez personi qui bezonas plu multa helpo proxim laboranto o voluntario."
+  - q: "Quale me povas ludar imajala bingo sen igar ol konkuranta?"
+    a: "Nomizez omna imaji til ke la karto di omnu esas plena, por ke nulu restes exkluzita. Parolez pri singla imajo kande ol aparas, e ne donez premii nur a vinkanti, o donez la sama mikra regalo a omni. La skopo esas komuna atenco e konverso, ne qua finas unesme."
+  - q: "Ka me povas uzar vua ludi sur granda ekrano en grupo?"
+    a: "Yes. Nia ludi funcionas en ret-navigilo, do vu povas apertar li sur portebla komputero o tableto konektita a televizilo o projektoro. Imajala bingo inkluzas printebla karti e ekranala nomizanto. Finigez la Diciro e Imajala Pari anke funcionas bone sur granda ekrano kun un persono qua klikas por la grupo."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ica guidilo esas por direktanti di aktivesi, equipi di memorala sorgo e guidanti di diurna programi por adulti. Ol traktas grupala formi qui funcionas, aranjo di chambro, quala adaptar un aktiveso por mixita kapablesi, e quala uzar nia printebla karti di bingo e ludi sur granda ekrano. Omno hike vizas komforto, konekto e elekto. Nulo hike esas testo.
 
-## What makes a group activity work in memory care?
+## Quo igas grupala aktiveso sucesar en memorala sorgo?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Bona grupala aktiveso esas familiara, kurta, facila por partoprenar a irga nivelo e sen preseso. La [rekomendi pri praktiko di sorgo por dementeso](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) dil Alzheimer's Association deskriptas signifikiva partopreno kom ulo qua subtenas la interesi e preferi di persono e permisas elekto e suceso, mem kande la dementeso esas tre severa. La sama dokumento notas ke tradicionala programi ofte dependas de un o du granda grupala eventi singladie, en qui la rezidanti ofte esas nur pasive partoprenanta.
 
-That points to a few practical rules:
+To montras kelka praktikal reguli:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Familiara esas plu bona kam nova.** Kanti, dici, imaji e objekti de la yuneso di la rezidanti esas plu facila por partoprenar.
+- **Kurta esas plu bona kam longa.** Planizez cirkum la tempo di atenco quan vua grupo havas ordinare, kun naturala halto-punto meze.
+- **Facar esas plu bona kam spektar.** Donez a singla persono ulo por tenar, klikar, selektar o dicar.
+- **Multa niveli, un aktiveso.** Inkluzez plu facila e plu desfacila manieri por partoprenar.
+- **Nula vinkanti, nula punti.** Konkuranta formi igas kelka personi sentar ke li faliis.
 
-## How big should the group be?
+## Quale granda la grupo devas esar?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Mikra esas ordinare plu facila. La Alzheimer's Association notas ke persono qua trovas granda renkontro tro pezoza povas interagar plu sucesoze en plu mikra grupo. Ne existas un sola justa nombro. To dependas de la rezidanti, la chambro e quanta laboranti e voluntarii esas disponebla.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Utila testo: ka singla persono povas vidar la vizajo dil guidanto, audar klare e esar atingebla da helpanto en kelka sekundi? Se no, dividez la grupo, adjuntez helpanti, o movez a plu mikra chambro.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Por granda evento, exemple ferio-koncerto, sidez laboranti e voluntarii inter la rezidanti, ne longe la muri.
 
-## How should I set up the room and seating?
+## Quale me devas aranjar la chambro e la sideyi?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Cirklo o hufumo-formo.** La rekomendi pri praktiko deskriptas partopreno-cirklo kom maxim bona en loko sat granda por ke omni sidez en cirklo, sen bruo en la fono.
+- **La guidanto proxim e ye okulo-nivelo.** Sidez vice stacar kande vu povas.
+- **Audado e vidado unesme.** Sidez personi kun audala desfacileso maxim proxim la guidanto, ye lia plu bona latero. Certigez ke binokli e aud-helpili esas pozita. La Alzheimer's Association notas ke problemi pri vidado e audado povas igar komunikado plu desfacila.
+- **Lumo de dop la rezidanti, ne de dop vu.** Evitez sidigar irgu front-e a lumoza fenestro.
+- **Extintez la televizilo e la radio.** La Alzheimer's Association konsilas forigar konkuranta bruo dum muzikala aktivesi.
+- **Un konverso singlatempe.** Parolar samtempe esas desfacila por personi qui vivas kun dementeso e personi kun audala desfacileso, kam la Alzheimer's Association indikas en sua [guidilo pri ferii](https://www.alz.org/help-support/caregiving/holidays).
+- **Klara ekiro-voyi e tranquila angulo.** Irgu qua deziras forirar devas povar facar to facile, kun laboranto por marchar kun lu.
 
-## Group activity ideas
+## Idei pri grupala aktivesi
 
-### Picture bingo
+### Imajala bingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Imajala bingo remplasas nombri per klara imaji, exemple teokruco, hundo o rozo, por ke nulu mustas sequar longa nombro o lektar mikra literi.
 
-**How to run it:**
+**Quale guidar ol:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Printez un karto por singla persono de nia pagino [Picture Bingo](/games/picture-bingo/) per la butono Print. Dika papero esas plu facila por tenar. Plastifizez por reuzo.
+2. Distribuez granda markili facile prenebla, exemple fichi di pokero, botelo-kovrili o quadrati de karto.
+3. Uzez la ekranala nomizanto sur televizilo o projektoro por ke omni videz la imajo dum vu dicas lua nomo.
+4. Pauzez pos singla imajo e invitez kurta komento: "Ka ulu deziras rakontar pri hundo quan lu konocis?" o "Quon vu remarkas pri ico?"
+5. Durigez nomizar til ke omna karto esas plena. Omni finas.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Adapto:** Uzez min multa quadrati por personi qua trovas plena karto tro chargita. Helpanto povas indikar la sama imajo por ulu qua bezonas to. Kelka personi forsan preferos tenar la imajo-karto dil nomizanto e montrar ol a la grupo.
 
-### Sing-alongs
+### Komuna kanto
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Muziko esas un ek la maxim prizata grupala aktivesi. La Alzheimer's Association notas ke mem en tarda etapi, persono povas [frapar ritmo o kantar kansono de sua infanteso](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Quale guidar ol:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Selektez kansoni kun qui la rezidanti kreskis, ne la favorati dil guidanto. Questionez la familii pri to quon singlu amis.
+- Uzez muziko sen reklamaji, qui, segun la Association, povas esar konfuziganta.
+- Printez la texti en granda literi por ti qui lektas, ma ne postulez to.
+- Ofrez shakrili, manua tamburi o shali por movar.
+- Inkurajez klakado e movado, e mantenez komfortoza sononivelo.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Adapto:** Kelka personi kantos omna vorti, kelka murmuros, kelka frapos per pedo, e kelka simple audos. Omni ici esas bona. Videz nia [guidilo pri muzikala aktivesi](/activities/music/) por plu multa informo.
 
-### Reminiscence groups
+### Rememorala grupi
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Rememorala grupo kunvenas cirkum temo, exemple lerneyo-dii, unesma automobili, koqueyi o somero, uzante fotografuri, objekti e muziko. La skopo esas agreabla konverso, ne exakta rememoro.
 
-**How to run it:**
+**Quale guidar ol:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Selektez un temo e portez kelka objekti quin la personi povas tenar: manua mixilo, basbalo-ganto, chapelo, semo-katalogo.
+2. Pasigez un objekto singlatempe. Facez apertita questioni: "Rakontez me pri ico", "Quon vu remarkas?" "Qua uzis ulo simila?"
+3. Bonvenigez omna respondi. Nultempe korektez dato o fakto.
+4. Guidar la konverso a varma rememori. La rekomendi pri praktiko notas ke sorganti devas guidar rememorado a pozitiva rememori, ne a ti qui povas kauzar chagreno.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) ofras printebla imajo-karti kun apertita questioni segun temo, qui funcionas bone kom komenco di konverso. Plu multa idei esas en nia [guidilo pri rememorado](/activities/reminiscence/).
 
-### Finish the saying
+### Finigez la diciro
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Familiara dici ("A penny saved is a penny...") invitas omni vokar la fino kune. Montrez [Finish the Saying](/games/finish-the-saying/) sur granda ekrano e lasez la grupo respondar kom un voco. Existas parolala invito pos singla diciro. Se nulu dicas la fino, montrez ol e pasez avan. Ne existas justa o nejusta respondo.
 
-### Large-print word search, together
+### Granda-litera vortotrovado, kune
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Projektizez la granda-litera [Word Search](/games/word-search/) sur ekrano e serchez vorti kom grupo, o printez kopii por ti qui prizas laborar sola ye la tablo. Vorti iras nur horizontale e vertikale.
 
-### Gentle movement
+### Dolca movado
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Sidanta strecaji, pasar mola balono o aerobalono, o dansar sur stulo kun familiara muziko. Montrez singla movo vice deskriptar ol.
 
-### Sorting and matching at the table
+### Ordinar e kombinar ye la tablo
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Mikra tabli de tri o quar personi povas ordinar imaji, stofo-peci o arjenti kune. Sur ekrano, [Picture Pairs](/games/picture-pairs/) povas ludesar kun imaji lasita videbla, kun un persono qua klikas dum la tablo parolas pri singla imajo.
 
-## How do I use your games on a big screen?
+## Quale me povas uzar vua ludi sur granda ekrano?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Nia ludi funcionas en ret-navigilo, do vu povas uzar li sur televizilo o projektoro sen instalar irgo.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Apertez la ludo sur portebla komputero o tableto konektita a la ekrano per kablo o senfila konekto.
+2. Facar la navigilo plena-ekrana e ajustez la sono a komfortoza nivelo.
+3. Habez un guidanto qua facas la kliki dum la grupo vokas selekti. O pasigez tableto a rezidanto qua deziras facar turno.
+4. Haltez kande la grupo esas pronta. La ludi havas nula kronometro, nula punti e nula fortita fino.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) e [Conversation Cards](/games/conversation-cards/) ordinare konvenas maxim bone por grupi. Videz omna selekti sur nia [pagino pri ludi](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Quale me povas adaptar un aktiveso por mixita kapablesi?
 
-Plan at least three ways to join every activity.
+Planizez adminime tri manieri por partoprenar en singla aktiveso.
 
-| Activity | More independent | Some support | Most support |
+| Aktiveso | Plu autonoma | Kelka helpo | Maxim helpo |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Imajala bingo | Trovas e kovras sua propra imaji | Helpanto indikas; la persono kovras | Tenas imajo-karto; audas e spektas |
+| Komuna kanto | Kantas, selektas sequanta kansono | Murmuras, klakas, uzas shakrilo | Audas, tenas shalo, frapas manuo |
+| Rememorado | Rakontas storii | Respondas per yes/no o indikas | Tenas e sentas la objekto |
+| Vortotrovado | Laboras sua propra printita kopio | Trovas vorti sur la granda ekrano kun helpanto | Audas dum la vorti lektesas |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Por rezidanti en plu tarda etapi, la NHS notas ke aktivesi ordinare mustas esar plu simpla e fokusar plu multe sur la sensi, exemple muziko, objekti por tushar e manuo-masajo. Un-a-un momento dum o pos la grupo forsan konvenos plu bone por li kam la grupo ipsa. Videz [aktivesi por tarda etapi](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Quale la guidanti devas parolar dum grupo?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Prezentez vu singlafoye, e uzez la preferata nomo di singlu.
+- Parolez lente, donez un etapo singlatempe, e montrez ante dicar.
+- Facez apertita inviti ("Rakontez me pri...") o simpla selekti, nultempe questioni por testar ("Ka vu memoras...?").
+- Ne korektez. Dankez omnu por singla kontributo.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Plu multa pri ico esas en nia [konsili pri komunikado](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Finar bone, e permisas ke personi foriras
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Haltar esas bona rezulto. Atencez signi ke ulu esas fatigita, senquieta o malfelica, e habez helpanto qua ofras marchado o tranquila sideyo altrube. Ulu qua dormetas dum komuna kanto forsan simple sentas su komfortoze.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Klozez singla grupo en la sama maniero, per familiara kansono o simpla danko, por ke la fino sentesez kalma e expektata. Pose, notizez quon funcionis bone e quo prizis singlu. Ica noti igos la sequanta kunveno plu bona.

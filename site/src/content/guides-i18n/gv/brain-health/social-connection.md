@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Kiangley Sheshoil as Slaynt yn Inçhyn: Lhomey as Scarrey"
+seoTitle: "Lhomey, Scarrey Sheshoil as Gaue Jarroo-enney"
+description: "Kys ta lhomey as scarrey sheshoil kianglt rish gaue jarroo-enney, cre dooyrt coyrle y Lhee-leigh Shirveishagh, as aghtyn aashagh dy hannaghtyn kianglt ry-cheilley."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Ta ronsaghey kiangley scarrey sheshoil as lhomey ’sy vea ny s’anmey rish gaue syrjey dy
+  jarroo-enney. Ta Commission Lancet 2024 coontey dy vel scarrey coontit son mysh 5% dy
+  chooishyn, ga dy vod paart jeh’n chiangle v’ayn tra ta jarroo-enney hoshiaght cur er sleih
+  goll ersooyl. Ta freayll ayns çhaghteraght, cummaltee ry-cheilley as cooney lesh clashtyn
+  cur cooney da kiangley. Son sleih ta cummal lesh jarroo-enney, ta reddyn ry-yannoo ry-cheilley
+  scanshoil son taitnys as kiarail-bea.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Ta Commission Lancet cur scarrey sheshoil ’sy vea ny s’anmey er y rolley myr nane jeh 14 reddyn gaue jarroo-enney oddys v’er nyn gaghlaa, ec mysh 5% dy chooishyn."
+  - "Ren coyrle Lhee-leigh Shirveishagh ny Steatyn Unnaneysit ayns 2023 kiangley lhomey as scarrey farraghtyn rish mysh 50% ny smoo dy ghaue jarroo-enney mastey sleih shinney."
+  - "Ta’n chooid smoo jeh’n fianys shoh cowreydagh, as foddee jarroo-enney hoshiaght hene cur er sleih goll ersooyl."
+  - "Ta drogh-hlashtyn as drogh-heeal, cummal ny lomarcan as kiarail cur er y gaue dy scarrey."
+  - "Son sleih ta cummal lesh jarroo-enney, ta reddyn taitnyssagh ry-yannoo ry-cheilley cur cooney da kiarail-bea; she kiangley, cha nee obbyr mie, yn aigney."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Vel lhomey cur er jarroo-enney?"
+    a: "Cha nel shen er ny phrowal. Ta ymmodee studeyryn kiangley lhomey as scarrey rish gaue syrjey dy jarroo-enney, agh foddee caghlaaghyn hoshiaght ’syn inçhyn myrgeddin cur er sleih goll ersooyl voish feallagh elley. Ta ymmodee vondeishyn elley ec freayll kianglt son cree as slaynt, myr shen t’eh feeu cur cooney da ’syn aght cheddin."
+  - q: "Cre’n anchaslys eddyr lhomey as scarrey sheshoil?"
+    a: "Ta scarrey sheshoil çheet er tra nagh vel monney sleih ayd dy loayrt roo dy mennick. She lhomey yn ennaghtyn trimsagh dy ve dty lomarcan ny scarrit magh. Foddee oo cummal dty lomarcan as gyn ennaghtyn lhome, ny ennaghtyn lhome ga dy vel oo mastey sleih."
+  - q: "Kys oddym cooney da ayr ny moir ta cummal lesh jarroo-enney dy hannaghtyn kianglt?"
+    a: "Ta çhaghteraght ghiare, mennick gobbraghey dy mie. Jean eab er eam ny çhat feanish dagh shiaghtin ec traa er lheh, red ennagh ry-yannoo ry-cheilley ec boayrd y choggyl, caffe chooinaghtyn, ny keayrt lesh baagh ny ogha. Cum possanyn beggey as sheeoil, as lhig da’n persoon reill y chea."
+  - q: "C’raad oddym cooney y gheddyn son persoon shinney ta ny lomarcan?"
+    a: "Ayns Mannin, foddee oo cur fys er Age Isle of Man ny er Manx Care Adult Social Care son cooney as claaghyn ynnydagh. My ta feme er-gerrey ayn, cur eam er 999 ny 112. My t’ou ayns ny Steatyn Unnaneysit, ta’n Eldercare Locator ry-gheddyn ec 800-677-1116 ny ec eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Ta sleih jeant son sheshaght, as cha jean shen caghlaa lesh eash. Ta ronsaghey kiangley lhomey as scarrey sheshoil ’sy vea ny s’anmey rish gaue syrjey dy jarroo-enney, chammah as galar cree as trimshey. Cha nod yn ronsaghey gra foast cre wheesh jeh’n chiangle shen ta oyr as eiyrtys. Ta’n duillag shoh cur stiagh cre ta’n fianys soilshaghey, aghtyn aashagh dy hannaghtyn kianglt, as cre’n fa ta reddyn ry-yannoo ry-cheilley cho scanshoil son sleih ta cummal lesh jarroo-enney hannah.
 
-## Are loneliness and isolation linked with dementia?
+## Vel lhomey as scarrey kianglt rish jarroo-enney?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Ta, ta ymmodee studeyryn dy ghooney ad, ga nagh vel yn raad lane soilshrit. Ta [Commission Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) cur scarrey sheshoil ’sy vea ny s’anmey er y rolley myr nane jeh 14 reddyn gaue oddys v’er nyn gaghlaa. Ta [giare-choontey UCL jeh’n choontey](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) cur eh ec mysh 5% dy chooishyn jarroo-enney harrish y theihll.
 
-What the evidence shows:
+Cre ta’n fianys soilshaghey:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Ny sloo çhaghteraght, ny smoo gaue.** Ta’n Commission cur sheese daa aavriwnys ren kiangley ny sloo taggloo sheshoil rish gaue syrjey dy jarroo-enney. Hooar nane mysh 57% ny smoo dy ghaue as y fer elley mysh 18%.
+- **Lhomey myrgeddin.** Va lhomey, yn ennaghtyn dy ve scarrit magh, kianglt rish gaue syrjey dy jarroo-enney ayns ymmodee aavriwnysyn.
+- **Redd y Lhee-leigh Shirveishagh.** Ayns Boaldyn 2023, hug Lhee-leigh Shirveishagh ny Steatyn Unnaneysit magh [coyrle mychione lhomey as scarrey](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). T’eh gra dy vod lhomey as scarrey farraghtyn troggal y ghaue dy jarroo-enney mysh 50% mastey sleih shinney. Ren eh myrgeddin kiangley drogh-chiangley sheshoil rish 29% ny smoo dy ghaue galar cree as 32% ny smoo dy ghaue stroak.
+- **Cre cha cadjin as t’eh.** Hooar [coontey ny National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) dy vel mysh 24% dy ’leih 65 bleeaney d’eash ny shinney ayns ny Steatyn Unnaneysit ta cummal ’sy cho-phobble scarrit magh dy sheshoil.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Raaue scanshoil: ta Commission Lancet gra dy vod sleih cur ny sloo traa er reddyn sheshoil ayns y traa hoshiaght, gyn feddyn magh, dy jarroo-enney. Ta shen çheet er dy vod paart jeh’n chiangle ve jarroo-enney cur er sleih goll ersooyl, cha nee ynrican goll ersooyl troggal gaue. Ta bunnys ooilley yn fianys shoh çheet veih studeyryn cowreydagh.
 
-## What is the difference between loneliness and isolation?
+## Cre’n anchaslys eddyr lhomey as scarrey?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Ta [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) soilshaghey eh myr shoh. **Scarrey sheshoil** çheet er tra nagh vel monney caarjyn sheshoil ayd ny nagh vel oo taggloo rish sleih dy mennick. **Lhomey** she yn ennaghtyn trimsagh dy ve dty lomarcan ny scarrit magh. Foddee persoon cummal ny lomarcan as ve maynrey, as foddee persoon ennaghtyn lhome ayns shamyr lane.
 
-The NIA lists factors that raise the risk of both:
+Ta’n NIA cur reddyn er y rolley ta troggal y ghaue jeh’n daa hene:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Drogh-hlashtyn ny drogh-heeal
+- Doilleeid goll mygeayrt, ny gyn aaght goll
+- Cummal ny lomarcan, ny coayl mooar lheid as baase sheshey ny faagail obbyr
+- Caghlaaghyn ayns cooinaghtyn ny smooinaghtyn
+- Kiarail er son persoon deyr t’ou graihagh er ta doghan
+- Imnea argid ny barraantyn çhengey
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Ta clashtyn feer scanshoil. Ta’n NIA gra dy vod sleih nagh vel clashtyn dy mie goll ersooyl er-yn-oyr dy vel taggloo goll er ve doillee ny neareyagh. Ta’n [lhiassaght ain mychione clashtyn as slaynt yn inçhyn](/brain-health/hearing/) cur stiagh scrutaghtyn clashtyn as cooneyderyn clashtyn harrish y chownter.
 
-## Practical ways to stay connected
+## Aghtyn aashagh dy hannaghtyn kianglt
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+Ta’n NIA cur stiagh ymmodee eieyn. Reih nane ny jees ta cooie dhyt:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Cuir traa er lheh son çhaghteraght.** Traa er lheh dagh laa ny dagh shiaghtin dy eam, dy chur çhaghteraght, post-l ny cairt da lught-thie, caarjyn ny naboonyn.
+- **Jean ymmyd jeh çhaghlymyn feanish ny loayreyderyn creeney.** My ta çhaghlym noa dhyt, ta ymmodee lioarlannyn as buill-phobble cur lessoonyn. Jeeagh er y [lhiassaght ain mychione eamyn as çhaghlymyn feanish](/activities/phone-and-video-calls/).
+- **Gow ayrn ayns red ennagh.** Ta brastyl, pobblaght chrauee, possan shooyl ny obbyr volee cur çhaghteraght dhyt as ennaght dy chooilleeney.
+- **Toshiaght reesht er shenn chummey** ny ynsaghey red noa marish feallagh elley.
+- **Jean gleck marish feallagh elley.** Jean cleaysh marish carrey ny possan. Ta eieyn meein ayns y [lhiassaght ain mychione gleck](/brain-health/exercise/).
+- **Smooinee er baagh** my oddys oo kiarail er y hon.
+- **Jean ymmyd jeh shirveishyn ynnydagh.** Foddee buill son sleih shinney, lught-reill ynnydagh as possanyn cooney cur stiagh claaghyn as aaght goll dhyt. Ayns Mannin, foddee oo cur fys er Age Isle of Man ny Manx Care Adult Social Care. My t’ou ayns ny Steatyn Unnaneysit, ta’n Eldercare Locator (800-677-1116) ry-gheddyn.
 
-## Why do shared activities matter in dementia?
+## Cre’n fa ta reddyn ry-yannoo ry-cheilley scanshoil ayns jarroo-enney?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Son persoon ta cummal lesh jarroo-enney hannah, ta kiangley mychione taitnys, gerjagh as ennaght dy ve goaill ayrn, cha nee mychione gaue y lheeadaghey. Ta Commission Lancet gra dy vel reddyn ry-yannoo cooney lhieu sleih ta cummal lesh jarroo-enney dy reayll taitnys as cooilleeney. Ta [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gra, marish cur kiarail-bea er y hoshiaght, dy vod reddyn ry-yannoo lhiettal ymmyrkey lheid as shooyl mygeayrt gyn aigney ny imnea. Ta [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gra myrgeddin dy lhisagh sleih lesh galar Alzheimer ve grianagh as jannoo reddyn ta taitnyssagh daue.
 
-Ideas that work well:
+Eieyn ta gobbraghey dy mie:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Jeeagh er jallooyn ry-cheilley.** Ta [Conversation Cards](/games/conversation-cards/) cur feyshtyn foshlit gyn quiz, lheid as «Insh dou mychione...». Jeeagh er y [lhiassaght ain mychione cooinaghtyn](/activities/reminiscence/).
+2. **Cloie rish y lhiattee.** Ta [Picture Pairs](/games/picture-pairs/) freayll jallooyn ry-akin as cha nel traa ny skoir ayn, myr shen cha nel tranlaase ayn. Ta coyrle ayns y lhiassaght ain mychione [kys dy chloie ry-cheilley](/caregiving/how-to-play-together/).
+3. **Jean ymmyd jeh jallooyn lught-thie.** Ta [Photo Pairs](/games/photo-pairs/) jannoo cloie cochiangley ass jallooyn t’ou reih, as ta ny jallooyn freaylt er dty stoo hene.
+4. **Cur sleih ry-cheilley.** Ta [Picture Bingo](/games/picture-bingo/) gobbraghey son çhaglymyn lught-thie as [possanyn ayns thieyn kiarail](/activities/care-home-groups/).
+5. **Rheynn kiaull, obbraghyn thie ny yn garey.** Jeeagh er [reddyn kiaull](/activities/music/), [obbyraghyn thie](/activities/household-tasks/) as yn rolley slane ain jeh [eieyn son reddyn ry-yannoo](/activities/ideas/).
+6. **Jean keayrtyn ny sassey.** Ta’n [lhiassaght ain mychione keayrtyn](/activities/visiting/) cur stiagh keayrtyn giare, sheeoil ta mie da dagh fer.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Cum eh beg as feagh. Ta shamyr sheeoil lesh un persoon ny jees gobbraghey ny share dy mennick na possan mooar. My ta’n persoon skee ny coayl anaase, ta scuirr mie dy liooar. Ta soie ry-cheilley lesh cappan tey ny vud cooish vie myrgeddin.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Son persoon ta cummal ny lomarcan lesh jarroo-enney, ta’n NIA cur coyrle dy gheddyn persoon treishteilagh oddys çheet er keayrt ny cur eam feanish dy mennick as ve myr ymmyrkey er-gerrey. T’eh myrgeddin gra mychione caffe chooinaghtyn ynnydagh, boayl sheshoil feagh son sleih lesh coayl cooinaghtyn as nyn lught-thie.
 
-## Caregivers get lonely too
+## Ta kiaraltee er-lheh lhome myrgeddin
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+Ta’n NIA cur kiarail er son persoon deyr t’ou graihagh er er y rolley myr red gaue son scarrey. Freill paart dy hraa er son dty chaarjyn hene, possanyn cooney as aash. Ta eieyn ymmydoil ayns y [lhiassaght ain son hene-kiarail kiaraltee](/caregiving/caregiver-self-care/).
 
-## Talk with a doctor
+## Loayr rish fer-lhee
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+My t’ou hene ny persoon t’ou kiarail er y hon ennaghtyn lhome ny scarrit magh ayns traa mooar, insh da fer-lhee. Ta’n NIA cur coyrle da sleih dy innse mychione caghlaaghyn mooarey bea, lheid as baase ’sy lught-thie, myr shen dy vel yn fer-lhee toiggal y coontey slane. Foddee ennaghtyn trimshagh rish shiaghtinyn ve trimshey, as foddee cooney ve ry-gheddyn er y hon. My ta persoon shinney er gholl ersooyl voish caarjyn ny reddyn v’eh goaill soylley jeu roie, t’eh feeu ginsh shen da fer-lhee myrgeddin. Lhaih [cowraghyn moghey as tra dy akin fer-lhee](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+She fysseree cadjin t’ayn er y duillag shoh, cha nee coyrle leigh. Jeeagh er y [raaue leigh ain](/medical-disclaimer/).

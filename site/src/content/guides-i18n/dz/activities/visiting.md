@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "སྒོར་བརྡར་ནད་དང་ལྷན་དུ་འཚོ་མཁན་ལ་ལྟ་སྐོར།"
+seoTitle: "སྒོར་བརྡར་ནད་ཡོད་མཁན་ལ་ལྟ་སྐོར་ལམ་སྟོན།"
+description: "སྒོར་བརྡར་ནད་དང་ལྷན་དུ་འཚོ་མཁན་ལ་དྲན་གསོའི་ཁྱིམ་ཚང་། ན་ཚང་། ཡང་ན་སྨན་ཁང་ནང་ལྟ་སྐོར་འགྲོ་སྐབས་ག་རེ་འཁྱེར་དགོ། ག་རེ་བྱེད་དགོ། དུས་ཡུན་ཐུང་ཀུའི་ལྟ་སྐོར་དང་ཞི་འཇམ་སྦེ་ཕར་འགྲོ་ཚུལ་གྱི་ལམ་སྟོན།"
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  ཁྱོད་ཀྱིས་དྲན་གསོའི་ཁྱིམ་ཚང་ཡང་ན་སྨན་ཁང་ནང་སྒོར་བརྡར་ནད་དང་ལྷན་དུ་འཚོ་མཁན་ལ་ལྟ་སྐོར་འགྲོ་སྐབས། འཇམ་ཏོག་ཏོ་བཟོ། ལྷོད་པའི་སྐབས་ཁྱོད་རང་གི་མིང་འབོད། པར་རིས། གླུ་དབྱངས། ཡང་ན་དགའ་མི་ཟས་རིགས་བཟུང་སྟེ་མཉམ་དུ་ལས་ཀ་ལས་སླ་པོ་གཅིག་བྱེད། དུས་ཡུན་རིངམོ་འགྲོ་མ་ཐུབ་པ་ལས། ཐུང་ཀུ་དང་འཕྲོད་ལྷན་འབྲེལ་ལྟ་སྐོར་འགྲོ་མི་དེ་ལེགས་ཤོམ་འབྱུང་སྲིད། ཕར་འགྲོ་སྐབས་ཞི་འཇམ་དང་རྟག་ཏུ་གཅིག་པའི་ཁ་བྱང་བེད་སྤྱོད་འབད་བ་ཅིན། གཉིས་ཆ་ར་ལུ་ལས་སླ་མོ་འབྱུང་།
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "ལྷོད་པའི་སྐབས་མིང་འབོད་དེ་ཁྱོད་ག་འདྲ་སྦེ་ཡིན་ཟེར་གསལ་ཏོག་ཏོ་སྦེ་སླབ། དཔེར་ན། ཨ་མ་ལགས། ང་ཨ་ལྷན་སུ་སན་ཨིན། ཁྱོད་ཀྱི་བུ་མོ།"
+  - "མཉམ་དུ་བལྟ་ནིའི་དོན་ལུ་པར་དེབ། དགའ་མི་གླུ་དབྱངས། འཇམ་པོའི་ཉལ་གདན། ཡང་ན་ལས་བྱེད་པ་གིས་ཆོག་མཆན་བྱིན་མི་ཟས་རིགས་ལ་སོགས་པ་གཅིག་ཡང་ན་གཉིས་འཁྱེར།"
+  - "དུས་ཡུན་རིངམོ་འགྲོ་མ་ཐུབ་པ་ལས། ཐུང་ཀུ་དང་འཕྲོད་ལྷན་འབྲེལ་ལྟ་སྐོར་འགྲོ་མི་དེ་ལེགས་ཤོམ་འབྱུང་སྲིད། ཁྱོད་ཀྱིས་ག་རེ་སླབ་མི་ལས། ཁྱོད་མཉམ་དུ་ཡོད་མི་དེ་གལ་ཆེ།"
+  - "སྨན་ཁང་ནང་ལྟ་སྐོར་འགྲོ་སྐབས་མི་དེ་གི་སྐོར་ཤོག་ལེབ་གཅིག་ལས་བྱེད་པ་ལུ་བྱིན། གློ་བུར་དུ་འགྱུར་བ་ཅིག་འབྱུང་པ་ཅིན་སྨན་པ་ལུ་འཕྲལ་ལུ་སླབ།"
+  - "ཕར་འགྲོ་ནི་གྲ་སྒྲིག་འབད། ཁྱོད་དུས་ཡུན་ག་དེ་ཅིག་སྡོད་ཚུགས་ཟེར་སླབ། ཚར་གཅིག་ཁ་བྱང་འདྲ་མཉམ་བེད་སྤྱོད་འབད། ཡུན་རིངམོ་མ་སྡོད་པར་ཕར་འགྲོ།"
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "སྒོར་བརྡར་ནད་དང་ལྷན་དུ་འཚོ་མཁན་ལ་ལྟ་སྐོར་འགྲོ་སྐབས་ག་རེ་འཁྱེར་དགོ?"
+    a: "སྐད་ཆ་བཤད་ནིའི་དངོས་པོ་ལས། མཉམ་དུ་བལྟ་ནིའི་དངོས་པོ་འཁྱེར། པར་དེབ་ཆུང་ཀུ། དགའ་མི་གླུ་གཞས་ཀྱི་ཐོ་ཡིག འཇམ་པོའི་ཉལ་གདན། ལགཔ་ལུ་བྱུག་ནིའི་སྣུམ། ཧེ་མའི་དགའ་ཤོས་ལས་རིམ་གྱི་དཔེ་དེབ། ཡང་ན་ལས་བྱེད་པ་གིས་ཆོག་མཆན་བྱིན་མི་ཟས་རིགས་ཚུ་ལེགས་ཤོམ་ཨིན། བདག་འཛིན་ཁྱིམ་ཚང་ནང་ནང་མིའི་པར་རིས་དང་གོམས་འདྲིས་ཡོད་པའི་དངོས་པོ་ཚུ་གིས་ཁང་མིག་དེ་ཁྱིམ་ཚང་བཟུམ་སྦེ་མཐོང་ཚུགས།"
+  - q: "སྒོར་བརྡར་ནད་དང་ལྷན་དུ་འཚོ་མཁན་ལ་ལྟ་སྐོར་འགྲོ་སྐབས་དུས་ཡུན་ག་དེ་ཅིག་སྡོད་དགོ?"
+    a: "འགྲིག་ཤོས་ཀྱི་དུས་ཡུན་ཟེར་མི་མེད། ནང་མི་མང་ཤོས་ཀྱིས་དུས་ཡུན་རིངམོ་འགྲོ་མ་ཐུབ་པ་ལས། ཐུང་ཀུ་དང་འཕྲོད་ལྷན་འབྲེལ་ལྟ་སྐོར་འགྲོ་མི་དེ་ལེགས་ཤོམ་སྦེ་མཐོངམ་ཨིན། ག་ཅི་སྦེ་ཟེར་བ་ཅིན་མི་དེ་མགྱོགས་པར་ཐང་ཆད་སྲིདཔ་དང་། ཁྱོད་དུས་ཡུན་ག་དེ་ཅིག་སྡོད་ཡི་ཡང་དྲན་མི་ཚུགས་སྲིད། ཐང་ཆད་མིའི་རྟགས་ལུ་བལྟ་ཞིནམ་ལས། ལྟ་སྐོར་དེ་ལེགས་ཤོམ་སྦེ་ཡོད་པའི་སྐབས་ལུ་ཕར་འགྲོ།"
+  - q: "ཁོང་གིས་ཁྱིམ་ལུ་འགྲོ་དགོ་ཟེར་སླབ་པ་ཅིན་ང་གིས་ག་རེ་སླབ་དགོ?"
+    a: "ཚིག་ལས་ཚོར་བ་ལུ་ལན་བརྐྱབ། ཁྱིམ་ལུ་འགྲོ་དགོ་ཟེར་མི་འདི་གིས་ང་བདེ་བོ་མིན་འདུག ཡང་ན་ཉེན་མེད་མིན་འདུག་ཟེར་མི་ཚོར་བ་ཅིག་ཨིན་སྲིད། ཁྱོད་ཀྱི་ཁྱིམ་གྱི་སྐོར་ལུ་སླབ་ཅི་ཟེར་བ་ཅིན། པར་རིས་མཉམ་དུ་བལྟ། ཡང་ན་འགྲུལ་བཞུད་འགྲོ་ནི་ ཡང་ན་ཟས་རིགས་ཅིག་བྱིན་ནི་འབད་བཏུབ། རྩོད་པ་རྐྱབ་ནི་དང་ག་ཅི་སྦེ་འགྲོ་མི་ཚུགས་ཟེར་འགྲེལ་བཤད་རྐྱབ་མི་དེ་གིས་སེམས་ཁྲལ་ལྷག་སྲིད།"
+  - q: "ཁོང་གིས་ང་ངོས་འཛིན་མ་འབད་བ་ཅིན་ག་དེ་སྦེ་འབད?"
+    a: "དེ་གིས་སེམས་ལུ་ཕོག་སྲིད་རུང་། ཁོང་ལུ་ཁྱོད་ང་ངོས་འཛིན་མི་འབད་ག་ཟེར་དྲི་ནི་ཡང་ན་བཅོས་ནི་མ་འབད། ཁྱོད་རང་ག་འདྲ་སྦེ་ཡིན་ཟེར་དྲོད་ཤུགས་དང་ལས་སླ་པོ་སྦེ་ངོ་སྤྲོད་འབད་ཞིནམ་ལས་མཉམ་དུ་དུས་ཚོད་སྤྱོད། མི་ལ་ལོ་ཅིག་གིས་ཁྱོད་ག་འདྲ་སྦེ་ཡིན་མ་ཤེས་རུང་། མཉམ་དུ་ཡོད་མི་དང་ལྟ་སྐོར་གྱི་དྲོད་ཤུགས་ལུ་དགའ་བ་ཚོར་ཚུགས།"
+  - q: "སྨན་ཁང་ནང་སྡོད་པའི་སྐབས་ང་གིས་ག་དེ་སྦེ་གྲོགས་རམ་འབད་ཚུགས?"
+    a: "ཚུགས་པ་ཅིན་མི་དེའི་འཁྲིས་ན་སྡོད། ཟས་དང་ཆུ་འཐུང་ནི་ལུ་གྲོགས་རམ་འབད། པར་རིས་ལ་སོགས་པའི་གོམས་འདྲིས་ཡོད་པའི་དངོས་པོ་འཁྱེར། མི་དེའི་ཉིན་རེའི་ལཱ། འབོད་ནིའི་མིང་། དགའ་མི་དང་མི་དགའ་མི། ན་ཚའི་རྟགས་ཚུ་ཡོད་པའི་ཤོག་ལེབ་ཅིག་ལས་བྱེད་པ་ལུ་བྱིན། མི་དེ་གློ་བུར་དུ་སྡུག་པོ་འབྱུང་བའམ་སྔར་ལས་འགྱུར་བ་ཅིག་འབྱུང་པ་ཅིན་སྨན་པ་ལུ་འཕྲལ་ལུ་སླབ། ག་ཅི་སྦེ་ཟེར་བ་ཅིན་གློ་བུར་གྱི་སེམས་འཁྲུགས་དེ་ནད་གཞིའི་དཀའ་ངལ་ཅིག་གི་རྟགས་ཨིན་སྲིད།"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+ཁྱོད་ཀྱིས་དགའ་མི་མི་ཅིག་ལུ་དྲན་གསོའི་ཁྱིམ་ཚང་། ན་ཚང་། ཡང་ན་སྨན་ཁང་ནང་ལྟ་སྐོར་འགྲོ་མི་འདི་གིས་ཚོར་བ་སྣ་ཚོགས་བཟོ་སྲིད། ག་རེ་སླབ་དགོ། ག་རེ་འཁྱེར་དགོ། ཁོང་གིས་དྲན་མི་ཚུགས་རུང་ལྟ་སྐོར་འདི་གལ་ཆེ་ག་ཟེར་བསམ་སྲིད། གལ་ཆེ་ཨིན། National Institute on Aging གིས་ Alzheimer's དང་ལྷན་དུ་འཚོ་མཁན་ཚུ་གིས་ལྟ་མཁན་ག་འདྲ་སྦེ་ཡིན་མ་དྲན་རུང་ [མཉམ་དུ་ཡོད་མི་ལུ་དགའ་བ་ཚོར་སྲིད](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ཟེར་སླབ་ཨིན། ཤོག་ལེབ་འདི་ནང་ལྟ་སྐོར་འགྲོ་ཧེ་མ། འགྲོ་བའི་སྐབས། ལོག་ཡོང་བའི་ཤུལ་ལས་བྱ་རིམ་དང་། སྨན་ཁང་ནང་སྡོད་པའི་དམིགས་བསལ་ལམ་སྟོན་ཡོད།
 
-## How do I get ready for a visit?
+## ལྟ་སྐོར་འགྲོ་ནིའི་དོན་ལུ་ག་དེ་སྦེ་གྲ་སྒྲིག་འབད་དགོ?
 
-A little planning makes the visit easier for both of you.
+གྲ་སྒྲིག་ཆུང་ཀུ་ཅིག་འབད་བ་ཅིན། གཉིས་ཆ་ར་ལུ་ལྟ་སྐོར་དེ་ལས་སླ་མོ་འབྱུང་།
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **དུས་ཚོད་ལེགས་ཤོམ་ཅིག་གདམ།** Dementia Australia གིས་མི་དེ་སྤྱིར་བཏང་དྲན་ཤུགས་ལེགས་ཤོམ་ཡོད་པའི་དུས་ཚོད་ལུ་ལྟ་སྐོར་འགྲོ་ནི་ལུ་བསམ་འཆར་བྱིན་མས། དེ་མི་མང་ཤོས་ལུ་དྲོ་པའམ་ཉིན་གུང་གི་སྐབས་ཨིན། Family Caregiver Alliance གིས་སྡེ་ཚན་གྱི་དུས་ཚོད་རེའུ་མིག་ཤེས་ཞིནམ་ལས་ [ལས་རིམ་གྱི་དུས་ཚོད་མེན་པར་སྟོང་ཆའི་དུས་ཚོད་](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) ལུ་ལྟ་སྐོར་འགྲོ་ནི་ལུ་བསམ་འཆར་བྱིན་མས།
+- **ལས་བྱེད་པ་ལུ་དྲི།** ད་རེས་མི་དེ་ག་དེ་སྦེ་འདུག་ག་དང་། ཟས། སེམས་ཅན། ཡང་ན་ཕྱིར་འགྲོ་ནིའི་སྐོར་ལུ་ལམ་ལུགས་ཡོད་མེད་དྲི།
+- **ལྟ་སྐོར་གྱི་གྲིམ་གཞི་ཆུང་ཀུ་ཅིག་འཁྱེར།** མཉམ་དུ་བལྟ་ནིའི་དངོས་པོ་གཅིག་ཡང་ན་གཉིས་ལངམ་སྦེ་ཆོག (འོག་གི་ཐོ་ཡིག་ལུ་བལྟ)།
+- **སྐད་ཆ་འབྲེལ་ནིའི་གནད་དོན་ཉུང་ཙམ་གྲ་སྒྲིག་འབད།** མི་དེ་ལུ་གསར་འགྱུར་བཤད་ནི་མེད་སྲིདཔ་ལས། ཁྱོད་ར་ལས་ནང་མིའི་གནས་ཚུལ། གནམ་གཤིས། རྩེདམོའི་གནས་ཚུལ། ཡང་ན་དགོད་བྲོ་བའི་ལོ་རྒྱུས་ཅིག་འཁྱེར།
+- **ཁྱོད་རའི་རེ་བ་གྲ་སྒྲིག་འབད།** ལྟ་སྐོར་ལ་ལོ་ཅིག་དྲོད་ཤུགས་ཅན་དང་སྐད་ཆ་མང་པོ་འབྱུང་སྲིད། གཞན་ལ་ལོ་ཅིག་ཁུ་སིམ་མེདཔ་ཡང་ན་དཀའ་ཁག་ཅན་འབྱུང་སྲིད། གཉིས་ཆ་ར་སྤྱིར་བཏང་ཨིན།
 
-## What should I bring?
+## ག་རེ་འཁྱེར་དགོ?
 
-Bring things to share, not things that test. Good choices include:
+བརྟག་དཔྱད་འབད་ནིའི་དངོས་པོ་མེན་པར། མཉམ་དུ་བལྟ་ནིའི་དངོས་པོ་འཁྱེར། ལེགས་ཤོམ་འདི་ཚུ་ཨིན།
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **པར་དེབ་ཆུང་ཀུ་ཅིག** གསལ་ཏོག་ཏོ་དང་ཆེ་བའི་པར་རིས་དང་བཅསཔ། ལས་བྱེད་པ་གི་དོན་ལུ་རྒྱབ་ཁར་འགྲེལ་བཤད་འབྲི།
+- **དགའ་མི་གླུ་གཞས་ཀྱི་ཐོ་ཡིག** ཁ་པར་ནང་། ལས་སླ་པོའི་རྣ་མཐུད་ཡང་ན་སྒྲ་སྐྱེད་ཆུང་ཀུ་དང་བཅསཔ།
+- **འཇམ་པོ་སྦེ་འཆང་ནིའི་དངོས་པོ་** གོམས་འདྲིས་ཡོད་པའི་ཉལ་གདན། སྐེ་དཀྲིས། ཡང་ན་གྱོན་ཆས་བཟུམ།
+- **ལགཔ་ལུ་བྱུག་ནིའི་སྣུམ** མི་དེ་ལུ་ལགཔ་འཇམ་པོ་སྦེ་བཙིར་ནི་དགའ་བ་ཅིན།
+- **དཔེ་དེབ་ཡང་ན་པར་དེབ་** ཧེ་མའི་དགའ་ཤོས་ལས་རིམ་ལྟ་བུ་ལྡུམ་ར་བཟོ་ནི། མོ་ཊ། བྱ། ཡང་ན་ཟ་མ་བཟོ་ནིའི་སྐོར།
+- **དགའ་མི་ཟས་རིགས་** ལས་བྱེད་པ་གིས་ཉེན་མེད་ཟེར་སླབ་པ་ཅིན།
+- **ཁང་མིག་ནང་གི་གོམས་འདྲིས་ཡོད་པའི་དངོས་པོ།** Family Caregiver Alliance གིས་མེ་ཏོག རྩི་ཤིང་། ནང་མིའི་པར་རིས་དང་རི་མོ། ཡང་ན་ཧེ་མའི་ནང་མིའི་པར་རིས་ཆེ་བ་ཅིག་བསམ་འཆར་བྱིན་མས།
+- **ཊེབ་ལེཊི་** ནང་མིའི་པར་རིས་བལྟ་ནི་དང་མཉམ་དུ་འཇམ་པོའི་རྩེདམོ་རྩེ་ནིའི་དོན་ལུ།
 
-## What can we do together during a visit?
+## ལྟ་སྐོར་གྱི་སྐབས་མཉམ་དུ་ག་རེ་བྱེད་ཚུགས?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+མཉམ་དུ་ལས་ཀ་ཅིག་བྱེད་བ་ཅིན། སྐད་ཆ་བཤད་དགོ་པའི་ཤུགས་ཉུང་མོ་འབྱུང་། Dementia Australia གིས་པར་རིས་བལྟ་ནི། ལས་སླ་པོའི་ལག་རྩལ། ས་བོན་བཙུགས་ནི། གླུ་དབྱངས། མཉམ་དུ་ཟས་བཏུང་། ཡང་ན་ཕྱི་ཁར་འགྲུལ་བཞུད་འགྲོ་ནི་ལ་སོགས་པ་བསམ་འཆར་བྱིན་མས། བསམ་འཆར་ལན་ཐེབས་འདི་ཚུ་ཡང་ཡོད།
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **པར་རིས་བལྟ།** ཁྱོད་ཀྱིས་མཐོང་མི་ལུ་སྟོན། ཞྭ་མོ་དེ་ལུ་བལྟ་གནང་། མཚོ་འགྲམ་འདི་མཛེས་པོ་འདུག མི་དེ་ལུ་སྔོན་འགྲོ་འབད་བཅུག འདི་ག་འདྲ་སྦེ་ཡིན་ཟེར་མ་དྲི།
+2. **གླུ་དབྱངས་གཏང་ཞིནམ་ལས་ལེན།** གོམས་འདྲིས་ཡོད་པའི་གླུ་གཞས་ཀྱིས་སེམས་པ་སྤོབས་པ་བཟོ་ཚུགསཔ་དང་། སྐད་ཆ་བཤད་ཁག་པོ་ཡོད་རུང་མཉམ་དུ་དུས་ཚོད་སྤྱོད་ཚུགས།
+3. **འགྲུལ་བཞུད་ཐུང་ཀུ་ཅིག་འགྲོ།** Family Caregiver Alliance གིས་སྡེ་ཚན་ནང་འགྲུལ་བཞུད་འགྲོ་ནི་ལུ་བསམ་འཆར་བྱིན་མས། ལྡུམ་ར་ཡོད་པ་ཅིན་ལྡུམ་ར་ནང་འགྲོ་ནི་ལེགས་ཤོམ་ཨིན། འཁོར་ལོ་ཅན་གྱི་གདན་ཐོག་ལས་འགྲུལ་བཞུད་འགྲོ་མི་ཡང་ཆོག
+4. **ལགཔ་ལུ་འཇམ་པོ་སྦེ་བཙིར།** སྣུམ་ཉུང་ཙམ་དང་ལགཔ་ལུ་ལྷོད་ལྷོད་སྦེ་བཙིར་བ་ཅིན་སེམས་པ་ཞི་འཇམ་འབྱུང་ཚུགས།
+5. **གཟུགས་པོ་བདེ་ཐང་ལུ་གྲོགས་རམ་འབད།** Dementia Australia གིས་མི་དེ་ལུ་དགའ་བ་ཅིན་སྐྲ་ཕྱིས་ནི། སེན་མོ་ལུ་ཚོས་གཞི་བཏང་ནི། ཡང་ན་དགའ་མི་གྱོན་ཆས་གྱོན་ནི་ལུ་གྲོགས་རམ་འབད་ཚུགས་ཟེར་སླབ་མས།
+6. **ལས་སླ་པོའི་རྩེདམོ་ཅིག་རྩེ།** Family Caregiver Alliance གིས་ཤོག་བྱང་། ཌོ་མི་ནོ། ཡང་ན་མི་དེ་གིས་ཧེ་མ་རྩེ་མྱོང་ཡོད་པའི་རྩེདམོ་བསམ་འཆར་བྱིན་མས། ཊེབ་ལེཊི་ནང་ [Picture Pairs](/games/picture-pairs/) འདི་པར་རིས་མཐོང་ཏེ་སྡོདཔ་དང་དུས་ཚོད་ཀྱི་ཚད་གཞི་མེད་པར་རྩེ་ཚུགས། [Photo Pairs](/games/photo-pairs/) གིས་ཁྱོད་ཀྱིས་གདམ་ཁ་རྐྱབ་མི་པར་རིས་ཚུ་མཐུན་པའི་རྩེདམོ་ལུ་བསྒྱུར་ཚུགསཔ་དང་། པར་རིས་ཚུ་ཁྱོད་ཀྱི་བརྡ་འཚོལ་ནང་རྐྱངམ་ཅིག་སྡོད།
+7. **མཉམ་དུ་ག་ཅི་ར་ཅིག་བལྟ།** Family Caregiver Alliance གིས་དགོད་བྲོ་བའི་གློག་བརྙན་དང་རྙིང་པའི་གློག་བརྙན་བསམ་འཆར་བྱིན་མས། མི་དེ་གིས་ལོ་རྒྱུས་མ་རྟོགས་རུང་། ཉེ་འགྲམ་ལུ་སྡོད་དེ་མཉམ་དུ་དུས་ཚོད་སྤྱོད་ཚུགས།
+8. **སྒྲ་སྒྲགས་ཏེ་ལྷག།** སྙན་ངག་ཐུང་ཀུ། དགའ་མི་ཡིག་ཆའི་དུམ་ཚན། ཡང་ན་ནང་མི་གིས་བྲིས་པའི་ཡི་གུ།
+9. **མཉམ་དུ་ཁུ་སིམ་སྦེ་སྡོད།** ལགཔ་འཆང་སྟེ་ཁུ་སིམ་སྦེ་སྡོད་མི་འདི་ཡང་ལྟ་སྐོར་ངོ་མ་ཅིག་ཨིན། Alzheimer's Association གིས་ག་རེ་སླབ་དགོ་མ་ཤེས་རུང་གནང་བ་ཆོགཔ་དང་། ཁྱོད་མཉམ་དུ་ཡོད་མི་དེ་གལ་ཆེ་ཤོས་ཨིན་ཟེར་སླབ་མས།
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+སྐད་ཆ་ག་རེ་སླབ་དགོ་མ་ཤེས་པའི་སྐབས་ [Conversation Cards](/games/conversation-cards/) གིས་གྲོགས་རམ་འབད་ཚུགས། ཤོག་བྱང་རེ་རེ་ལུ་པར་རིས་དང་ཁ་ཕྱེ་སྟེ་སྐད་ཆ་འབྲེལ་ནིའི་དྲི་བ་ཅིག་ཡོད།
 
-## How should I talk during the visit?
+## ལྟ་སྐོར་གྱི་སྐབས་ག་དེ་སྦེ་སྐད་ཆ་བཤད་དགོ?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **ཚར་རེ་ལུ་ཁྱོད་རང་ངོ་སྤྲོད་འབད།** ཨ་པ་ལགས། ང་ཨ་ལྷན་མཱརཀ་ཨིན། ཁྱོད་ཀྱི་བུ། NIA གིས་ལྟ་མཁན་ཚུ་གིས་སྐད་ཆ་འགོ་བཙུགས་པའི་སྐབས་ཁོང་རང་ག་འདྲ་སྦེ་ཡིན་ཟེར་ཐུང་ཀུ་སྦེ་ངོ་སྤྲོད་འབད་ནི་ལུ་བསམ་འཆར་བྱིན་མས།
+- **མདུན་ཁ་ལས་ཉེ་འགྲམ་ལུ་འགྲོ་ཞིནམ་ལས** མིག་གི་གནས་ཚད་ལུ་སྡོད།
+- **བཅོས་ནི་ཡང་ན་རྩོད་པ་མ་རྐྱབ།** NIA གིས་མི་དེ་གིས་འཛོལ་བ་འབད་བའམ་བརྗེད་པ་ཅིན། ལྟ་མཁན་ཚུ་གིས་བཅོས་ནི་མ་འབད་ཟེར་སླབ་ཨིན།
+- **ཚིག་འཚོལ་ཁག་པོ་ཡོད་པའི་སྐབས་བཟོད་སྒོམ་འབད།** དུས་ཚོད་ལངམ་སྦེ་བྱིན།
+- **ཚོར་བ་ལུ་ལན་བརྐྱབ།** མི་དེ་སེམས་ཁྲལ་ཡོདཔ་བཟུམ་མཐོང་པ་ཅིན། གནད་དོན་བསྒྱུར་ཧེ་མ་ངོས་ལེན་འབད།
+- **ཁྱོད་ང་ངོས་འཛིན་ཨིན་ན་ ཡང་ན་ཉིན་གུང་ག་རེ་ཟ་ཡི་ཟེར་བའི་དྲི་བ་བཟུམ་མ་དྲི།**
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+ཁ་གསལ་ཤུགས་ཆེའི་དོན་ལུ་ང་བཅས་ཀྱི་ [བརྡ་དོན་གྱི་ལམ་སྟོན་](/caregiving/communication-tips/) ལུ་བལྟ།
 
-## What do I do when they say "I want to go home"?
+## ཁོང་གིས་ང་ཁྱིམ་ལུ་འགྲོ་དགོ་ཟེར་སླབ་པ་ཅིན་ག་རེ་འབད་དགོ?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+ཚིག་གི་རྒྱབ་ལུ་ཡོད་པའི་ཚོར་བ་ལུ་ལན་བརྐྱབ། (ང་བཅས་ཀྱི་ [ག་དུས་ར་ཁྱིམ་ལུ་འགྲོ་དགོ་ཟེར་དྲི་བའི་སྐབས་](/caregiving/asking-to-go-home/) ལམ་སྟོན་ནང་ཁ་གསལ་ཡོད)། Family Caregiver Alliance གིས་ང་ཁྱིམ་ལུ་འགྲོ་དགོ་ཟེར་མི་འདི་སྤྱིར་བཏང་ང་བདེ་བོ་མིན་འདུག་ཟེར་སླབ་ནི་ལྟ་བུ་ཨིན་ཟེར་འགྲེལ་བཤད་རྐྱབ་སྟེ། ཁྱོད་ཀྱི་ཁྱིམ་གྱི་སྐོར་ལུ་སླབ་ཅི་ ཡང་ན་ཁྱིམ་ནང་ག་རེ་དགའ་ཤོས་ཡོད་ཟེར་བའི་ལན་བརྐྱབ་ནི་ལུ་བསམ་འཆར་བྱིན་མས། Dementia Australia གིས་ཁྱིམ་ཟེར་མི་འདི་མི་དེ་ཉེན་མེད་ཚོར་མྱོང་ཡོད་པའི་དུས་ཚོད་ཡང་ན་ས་གནས་ཅིག་ལུ་གོ་སྲིད་ཟེར་སླབ་མས། དཔེར་ན་བྱིས་པའི་དུས་ཚོད།
 
-Try:
+འབད་བཏུབ་པ་འདི་ཚུ་ཨིན།
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- ཚོར་བ་ལུ་ངོས་ལེན་འབད། ཁྱོད་ཀྱིས་ཁྱིམ་དྲན་གྱི་འདུག་བཟུམ།
+- མི་དེ་ལུ་འདོད་པ་ཡོད་པ་ཅིན། ལགཔ་འཛིན་ནི་བཟུམ་གྱིས་སེམས་གསོ་བྱིན།
+- པར་རིས་བལྟ་ནི་ཡང་ན་ནང་མིའི་ཁྱིམ་གྱི་སྐོར་ལུ་སྐད་ཆ་བཤད།
+- འགྲུལ་བཞུད། ཆུ། ཡང་ན་ཟས་རིགས་ཅིག་བྱིན།
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+རྩོད་པ་རྐྱབ་ནི་ཡང་ན་ག་ཅི་སྦེ་འགྲོ་མི་ཚུགས་ཟེར་འགྲེལ་བཤད་རྐྱབ་ནི་ལས་འཛེམ། དེ་གིས་ཕན་ཐོགས་ཉུང་ཤོས་རང་ཨིནམ་ལས། སེམས་ཁྲལ་ལྷག་སྲིད།
 
-## How long should a visit be?
+## ལྟ་སྐོར་གྱི་དུས་ཡུན་ག་དེ་ཅིག་འབད་དགོ?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+ཐུང་ཀུ་དང་འཕྲོད་ལྷན་འབྲེལ་འབད་མི་དེ་ལེགས་ཤོམ་ཨིན། Family Caregiver Alliance གིས་མི་དེ་གིས་ཁྱོད་སྐར་མ་ལྔ་སྡོད་ཡི་ཡང་ན་ཆུ་ཚོད་ལྔ་སྡོད་ཡི་དྲན་མི་ཚུགས་སྲིདཔ་ལས། བདུན་ཕྲག་ནང་ལུ་ཐེངས་གཅིག་རིངམོ་འགྲོ་མི་ལས། ཐེངས་གསུམ་ཐུང་ཀུ་སྦེ་འགྲོ་མི་དེ་ལེགས་ཤོམ་འབྱུང་སྲིད་ཟེར་སླབ་མས། Dementia Australia གིས་ལྟ་སྐོར་གྱི་གྱངས་ཁ་ཡང་ན་དུས་ཡུན་གྱི་ཚད་གཞི་འགྲིག་ཤོས་ཟེར་མི་མེད་ཟེར་སླབ་ཨིན།
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+དྲན་གསོའི་ཁྱིམ་ཚང་ནང་སྤོ་བའི་ཤུལ་ལས་བདུན་ཕྲག་དང་པོ་ཚུ་ནང་། Family Caregiver Alliance གིས་འཕྲོད་ལྷན་འབྲེལ་ལྟ་སྐོར་འགྲོ་ནི་དང་། ཤུལ་ལས་ལྷོད་ལྷོད་སྦེ་རྟག་ཏུ་གི་ལམ་ལུགས་ནང་འགྲོ་ནི་ལུ་བསམ་འཆར་བྱིན་མས། ལས་བྱེད་པ་ལུ་ག་ཅི་མཐོང་དོ་ཡོད་མེད་དྲི།
 
-## How do I leave without upsetting them?
+## ཁོང་ལུ་སེམས་ཁྲལ་མེད་པར་ག་དེ་སྦེ་ཕར་འགྲོ་དགོ?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+ཕར་འགྲོ་མི་འདི་དཀའ་ཁག་ཆེ་ཤོས་ཅིག་འབྱུང་སྲིད། Dementia Australia གིས་འདི་ཚུ་བསམ་འཆར་བྱིན་མས།
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **ལྷོད་པའི་སྐབས་དུས་ཡུན་ག་དེ་ཅིག་སྡོད་ཚུགས་ཟེར་སླབ།** ང་ཆུ་ཚོད་གཅིག་སྡོད་ཚུགས། དེ་ལས་ཚོང་ཁང་ནང་འགྲོ་ནི་ཨིན།
+- **ལས་ཀ་ཅིག་གིས་མཇུག་བསྡུ་བའི་དུས་ཚོད་བཟོ།** གླུ་གཞས་འདི་མཇུག་བསྡུ་ཚར་བ་ཅིན། ང་འགྲོ་ནི་ཨིན།
+- **ཟས་དུས་ཡང་ན་ལས་རིམ་གྱི་དུས་ཚོད་དང་མཐུན་པར་འབད།** ཡང་ན་ལས་བྱེད་པ་ལུ་མི་དེ་ལས་ཀ་གཞན་ཅིག་ནང་འཛུལ་བཅུག་ནི་ལུ་གྲོགས་རམ་ཞུ།
+- **ཁ་བྱང་ཐུང་ཀུ་དང་ཚར་གཅིག་ལུ་འདྲ་མཉམ་སྦེ་བེད་སྤྱོད་འབད།** ཡུན་རིངམོ་སྡོད་ནི། དགོངས་དག་ཞུ་ནི། ཡང་ན་ད་ལྟོ་ཡང་ཅུང་ཙམ་སྡོད་ནི་ཟེར་མི་དེ་གིས་ཤུལ་མའི་ཁ་བྱང་དཀའ་ཁག་ཅན་བཟོ་སྲིད།
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+ཁྱོད་ཕར་འགྲོ་ཞིནམ་ལས་སེམས་པ་སྐྱོ་བ་ཚོར་མི་འདི་སྤྱིར་བཏང་ཨིན། ཁྱོད་རང་ལུ་ངལ་གསོ་བྱིན། མི་དེ་སེམས་ཁྲལ་བྱུང་བ་ཅིན། ལས་བྱེད་པ་ཚུ་གིས་མགྱོགས་པར་གྲོགས་རམ་འབད་ཚུགས།
 
-## Visiting someone with dementia in the hospital
+## སྨན་ཁང་ནང་སྒོར་བརྡར་ནད་དང་ལྷན་དུ་འཚོ་མཁན་ལ་ལྟ་སྐོར་འབད་ནི།
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+སྨན་ཁང་ནི་སྒྲ་ཆེ་བ། གོམས་འདྲིས་མེད་པ། མི་གསརཔ་མང་པོ་ཡོདཔ་ལས། སྒོར་བརྡར་ནད་དང་ལྷན་དུ་འཚོ་མཁན་ལུ་དཀའ་ཁག་ཆེ་བ་འབྱུང་སྲིད། NIA གི་ [Alzheimer's ནད་དང་ལྷན་དུ་འཚོ་མཁན་ལུ་སྨན་ཁང་ནང་འཁྱེར་ནི་](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ལམ་སྟོན་ནང་འདི་ཚུ་བསམ་འཆར་བྱིན་མས།
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **ཚུགས་པ་ཅིན་མི་དེའི་འཁྲིས་ན་མི་ཅིག་སྡོད་བཅུག** ནང་མི། ཡིད་ཆེས་ཡོད་པའི་ཆ་རོགས། ཡང་ན་བདག་འཛིན་བྱེད་མཁན།
+- **ལས་བྱེད་པ་ལུ་མི་སྒེར་གྱི་གནས་ཚུལ་ཤོག་ལེབ་བྱིན།** ཉིན་རེའི་ལཱ། འབོད་ནིའི་མིང་། དགའ་མི་དང་མི་དགའ་མི། སེམས་ཁྲལ་བཟོ་མི། དང་ཚིག་མེད་པའི་ན་ཚའི་རྟགས་ཚུ་འབྲི། འདྲ་བཤུས་ཁང་མིག་དང་ནརས་མའི་ས་གནས་ལུ་བཞག
+- **ཟས་དང་ཆུ་འཐུང་ནི་ལུ་གྲོགས་རམ་འབད།** སྨན་ཁང་ནང་རྒས་ཤོས་ཚུ་ལུ་ཟས་ལངམ་སྦེ་མི་འཐོབ་པ་འབྱུང་སྲིད། སྣོད་ཆས་ཁ་ཕྱེ། ཟས་ལུ་གྲོགས་རམ་འབད། མཉམ་དུ་ཟ། དང་ཆུ་བྱིན།
+- **སེམས་གསོ་བའི་དངོས་པོ་འཁྱེར།** པར་རིས་ཡང་ན་ཆོས་ལུགས་ཀྱི་དངོས་པོ་བཟུམ།
+- **སྒྲ་ཉུང་མོ་བཟོ།** ཊི་བི་སྒོ་བསྡམ། ཁ་པར་དང་ཁྱབ་བསྒྲགས་ཀྱི་སྒྲ་ཉུང་མོ་བཟོ།
+- **སེམས་པ་ཞི་འཇམ་བཟོ་མི་ལམ་ལུགས་འབད་བཏུབ།** དཔེར་ན་འཇམ་པོའི་གླུ་དབྱངས། ལྷག་ནི། མོན་ལམ་འདེབས་ནི། གླུ་ལེན་ནི། ཡང་ན་རྙིང་པའི་པར་རིས་བལྟ་ནི།
+- **ཉེན་མེད་ཚུགས་པ་ཅིན་འགྲུལ་བཞུད་འབད་བཅུག** ལས་བྱེད་པ་ལུ་ཆོག་མཆན་ཞུ་ཞིནམ་ལས།
+- **མི་དེ་གློ་བུར་དུ་སྡུག་པོ་འབྱུང་བའམ་སྔར་ལས་འགྱུར་བ་ཅིག་འབྱུང་པ་ཅིན་སྨན་པ་ལུ་འཕྲལ་ལུ་སླབ།** NIA གིས་གློ་བུར་དུ་སེམས་འཁྲུགས་ཤུགས་ཆེན་པོ་འབྱུང་མི་དེ་ delirium ཟེར་སླབ་ཨིནམ་དང་། དེ་ནད་འབུ། ཚ་བ། ལུས་ཀྱི་ཆུ་ཉུང་མོ་འབྱུང་མི། ཡང་ན་སྨན་གྱི་ནུས་པ་ལ་སོགས་པའི་དཀའ་ངལ་ལས་འབྱུང་སྲིདཔ་ལས་སྨན་བཅོས་དགོཔ་ཨིན་ཟེར་འགྲེལ་བཤད་རྐྱབ་ཨིན།
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+གོམས་འདྲིས་ཡོད་པའི་གདོང་དང་དགའ་མི་གླུ་གཞས་དང་བཅས་པའི་ལྟ་སྐོར་ཐུང་ཀུ་དང་ཞི་འཇམ་ཅིག་གིས་སྨན་ཁང་ནང་གི་ཉིནམ་དེ་སེམས་གསོ་ཤོས་ཅིག་འབྱུང་སྲིད།
 
-## Bringing children on a visit
+## བྱིས་པ་ཚུ་ལྟ་སྐོར་ལུ་འཁྱེར་ནི།
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+བྱིས་པ་ཚུ་གིས་དྲོད་ཤུགས་མང་པོ་འཁྱེར་ཚུགས། འགྲོ་ཧེ་མ་ཁོང་ལུ་ལས་སླ་པོ་དང་དྲང་བདེན་གྱི་ཚིག་གིས་གྲ་སྒྲིག་འབད་བཅུག ལྟ་སྐོར་ཐུང་ཀུ་བཟོ། དང་རི་མོ་སྟོན་ནི་ཡང་ན་པར་རིས་བྱིན་ནི་བཟུམ་གྱི་ལས་ཀ་ཅིག་བྱིན། NIA གིས་བྱིས་པ་དང་ Alzheimer's དང་ལྷན་དུ་འཚོ་མཁན་ཚུ་གིས་པར་དེབ་བལྟ་ནི་ཡང་ན་གླུ་དབྱངས་ཉན་ནི་བཟུམ་གྱི་ལས་སླ་པོའི་ལས་ཀ་མཉམ་དུ་བྱེད་དེ་དགའ་བ་ཚོར་ཚུགས་ཟེར་སླབ་མས། Dementia Australia གིས་བྱིས་པ་ཆུང་ཀུ་ཚུ་གི་དོན་ལུ་ཟས་རིགས་ཡང་ན་ཁུ་སིམ་བཟོ་མི་དངོས་པོ་ཆུང་ཀུ་ཅིག་འཁྱེར་ནི་ལུ་བསམ་འཆར་བྱིན་མས།
 
-## Take care of yourself too
+## ཁྱོད་རང་ལུ་ཡང་བདག་འཛིན་འབད།
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+ལྟ་སྐོར་འགྲོ་མི་འདི་ཐང་ཆད་ཚུགསཔ་དང་སེམས་ཁར་ཕོག་སྲིད། ལྷག་པར་དུ་མི་དེ་ལུ་འགྱུར་བ་མང་པོ་འབྱུང་ཡོད་པ་ཅིན། དགོཔ་ཡོད་པ་ཅིན་ལྟ་སྐོར་ཉུང་མོ་འབད་ནི། གྲོགས་རམ་གྱི་དོན་ལུ་ཆ་རོགས་ཅིག་འཁྱེར་ནི། ཡང་ན་ཉིནམ་དཀའ་ཁག་ཅན་ཅིག་ལུ་སྔ་པོ་ཕར་འགྲོ་ནི་ཆོག ཁྱོད་རང་ལུ་བདག་འཛིན་འབད་ནིའི་བསམ་འཆར་གྱི་དོན་ལུ་ [བདག་འཛིན་བྱེད་མཁན་གྱི་རང་བདག་འཛིན་](/caregiving/caregiver-self-care/) ལུ་བལྟ། ཁྱོད་ཐག་རིང་ས་ཁུལ་ལུ་ཡོད་པ་ཅིན། ང་བཅས་ཀྱི་ [ཁ་པར་དང་བརྙན་ཐུང་བརྡ་འཕྲིན་](/activities/phone-and-video-calls/) གྱི་ལམ་སྟོན་ལུ་བལྟ།

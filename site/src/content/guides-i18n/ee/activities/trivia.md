@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Nyabiase Bɔbɔewo na Amegãwo kple Dementia, Nyanyra Manɔmee"
+seoTitle: "Nyabiase Bɔbɔewo na Amegãwo kple Dementia kple Ŋuɖoɖowo"
+description: "Nyabiase bɔbɔe 50 na amegã siwo le agbe kple dementia, kple ŋuɖoɖo tiatiawo kple nuƒoƒo ƒe susuwo, kpakple alesi woawɔe ale be ame aɖeke masese be wole dodokpɔm nɛ o."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Nyabiase bɔbɔewo wɔa dɔ nyuie na amegã siwo le agbe kple dementia ne wòle abe
+  dzeɖoɖo ene, menye dodokpɔ o. Bia nu tso nu siwo wosrɔ̃ gbe aɖe gbe ke ŋu,
+  abe ha xoxowo, lododowo, ŋkekenyuiwo kple gbesiagbe agbenɔnɔ ene, eye nàtsɔ
+  tiatia eve alo etɔ̃ ana ɣesiaɣi. Gblɔ ŋuɖoɖoa faa kple dɔmenyo, mègatia ame
+  ɖeka o, da akɔnta ɖi, eye nàzã ŋuɖoɖo ɖesiaɖe atsɔ adze ŋutinya gɔme. Nyabiase
+  siwo nye „Esia alo ekemɛ” siwo me vodada aɖeke mele o la sɔ kple ɣeyiɣi siwo
+  me nuwo sesẽna wu.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Bia nu tso nu siwo wonya nyuie tso gbe aɖe gbe ke: ha, lododowo, ŋkekenyuiwo, nuɖuɖu kple gbesiagbe agbenɔnɔ."
+  - "Tsɔ tiatia eve alo etɔ̃ ana ale be woate ŋu atia ŋuɖoɖoa, menye be woaɖo ŋku edzi le wo ɖokui si o."
+  - "Gblɔ ŋuɖoɖoa kple dɔmenyo eye nàyi edzi. Ŋuɖoɖo ɖesiaɖe si dzea ŋutinya gɔme nye ŋuɖoɖo nyui."
+  - "Akɔnta aɖeke manɔ anyi o, ƒuƒoƒowo maʋli ho o, mègayɔ ame ɖeka o. Na ŋuɖoɖowo natso ame sia ame gbɔ le xɔa me."
+  - "Ne ŋuɖoɖo tiatia sesẽna la, trɔ ɖe nyabiase siwo nye „esia alo ekemɛ” siwo me ŋuɖoɖo dzɔdzɔe aɖeke mele o ŋu."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Ðe nyabiase bɔbɔewo nye dɔwɔna nyui na ame siwo le agbe kple dementia?"
+    a: "Woate ŋu anye, ne wowɔe blewuu. Alzheimer's Foundation of America yɔ nyabiase bɔbɔewo be wonye dɔwɔna siwo sɔ na gɔmedzedze ƒe ɣeyiɣi. Na nyabiaseawo nanɔ nu siwo wonya tso gbe aɖe gbe ke ŋu, tsɔ tiatiawo na, mègana ame ɖeka nase le eɖokui me be ele dodokpɔm o, eye nàkpɔ ŋuɖoɖowo abe mɔ si dzi nato adze dzeɖoɖo gɔme ene, menye dodokpɔ o."
+  - q: "Nyati kawoe wɔa dɔ nyuie wu na nyabiase bɔbɔewo kple dementia?"
+    a: "Nu siwo wosrɔ̃ gbe aɖe gbe ke la wɔa dɔ nyuie wu zi geɖe: ha kple hadzilawo siwo bɔ le ame ƒe ɖekakpuime, lododo siwo wonya, ŋkekenyuiwo, nuɖuɖu, kamedefefewo, kple gbesiagbe agbenɔnɔ abe notsi tsɔtsɔ va aƒeme kple kaƒomɔ̃ xoxowo ene. Ƒo asa na nyadzɔdzɔ yeyewo kple nu sia nu si bia be woaɖo ŋku nu aɖe si dzɔ va yi le takpekpea me dzi."
+  - q: "Aleke mawɔ nyabiase bɔbɔewo le dzikpɔƒe alo ƒuƒoƒo me evɔ ŋu makpe ame aɖeke o?"
+    a: "Xlẽ nyabiase ɖesiaɖe na ƒuƒoƒo bliboa, fia alo gblɔ tiatiaawo, eye nàxɔ ŋuɖoɖo tso ame sia ame gbɔ. Mègayɔ ame ɖekaɖekawo o, eye mègaŋlɔ akɔnta o. Gblɔ ŋuɖoɖoa kple alɔgbɔnukoko, nu ka kee woɖo, eye nàbia nyabiase bubu abe ‘Ame kae kpɔe le afisia yi sinima kpɔƒe le ʋu me?’ ene be wòatrɔ zu ŋutinyawo."
+  - q: "Nu kae mate ŋu awɔ ɖe nyabiase bɔbɔewo teƒe le ɣeyiɣi siwo me nuwo sesẽna wu?"
+    a: "Trɔ ɖe nyabiase siwo me vodada aɖeke mele o ŋu, abe ‘Kɔfi alo tii?’ alo ‘Ƒuta alo towo?’ ene, kple lododowo alo ha siwo wonya ƒe nuwuwu ɖekae. Nɔnɔmetatawo kpɔkpɔ kple wo ŋuti nuƒoƒo ɖekae hã wɔa dɔ nyuie."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Nyabiase bɔbɔewo nye dɔwɔna siwo ƒomewo kple dzikpɔlawo biana enuenu le dzikpɔƒewo kple ŋkeke ƒe ɖoɖowo me, eye ƒome geɖe hã wɔa wo le aƒeme. Ne wowɔe abe alesi wowɔnɛ zi geɖe ene, kple akɔntabubu kple ame ɖeka ƒe ŋuɖoɖo, ate ŋu ana ame si le agbe kple dementia nase le eɖokui me be wole dodokpɔm nɛ. Ne wowɔe blewuu la, enyaa mɔ si dzi woato ase ŋutinyawo. Le ete la, nyabiase bɔbɔe 50 li kple ŋuɖoɖo tiatiawo kple nu si ŋu woaƒo nu tsoe na ɖesiaɖe, eye emegbe míakpɔ alesi woawɔ takpekpe aɖe.
 
-## How do you make trivia work for someone with dementia?
+## Aleke nàwɔ be nyabiase bɔbɔewo nawɔ dɔ na ame si le agbe kple dementia?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Na wòanɔ nu siwo wonya tso gbe aɖe gbe ke ŋu dzi, eye nàxɔ ŋuɖoɖo ɖesiaɖe nyuie.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Bia nu tso blema ŋutinya gbɔ.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) gblɔ be dzesi gbãtɔ si bɔna wu le Alzheimer ƒe dɔvɔ̃ me enye kuxi le nu yeyewo ŋu ɖoɖo ɖe susu me. Ha, lododowo kple gbesiagbe agbenɔnɔ tso ƒe geɖe siwo va yi la tea ŋu nɔa bɔbɔe wu.
+2. **Na tiatiawo ɣesiaɣi.** Ŋuɖoɖo dzɔdzɔea tiatia tso eve alo etɔ̃ dome le bɔbɔe wu tsɔ wu be woagblɔe le wo ɖokui si.
+3. **Xlẽ nyabiaseawo sesĩe eye nàfia wo gã.** Nuŋlɔƒe ɣi alo tablɛt si wodo ɖe dzi kpena ɖe ame siwo mesea nu nyuie o ŋu.
+4. **Gblɔ ŋuɖoɖoa faa.** Ne ame aɖeke menyae o la, gblɔe kple dɔmenyo eye nàyi edzi. Mègagblɔ gbeɖe be „Va ɖo, ènya esia.”
+5. **Akɔnta aɖeke manɔ anyi o.** Menye na ame ɖekaɖekawo o, menye na kplɔ̃wo hã o. Ne amewo di xexlẽdzesi aɖe la, lé akɔnta ɖeka na ƒuƒoƒo bliboa.
+6. **Mègayɔ ame ɖeka gbeɖe o.** Na ŋuɖoɖowo natso ame sia ame gbɔ. Ne mia kple ame ɖeka koe le dze ɖom la, miɖo ŋu ɖekae: „Mesusu be piano ye. Wò ya ɖe?”
+7. **Zã nuƒoƒo ƒe susua.** Ŋuɖoɖoa nye gɔmedzedze, menye nuwuwu o. Ŋutinyawo koe nye taɖodzinu ŋutɔŋutɔ.
+8. **Wɔe kpuitɔ.** Nyabiase ewo kple ŋutinyawo le wo dome sɔ gbɔ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gblɔ se vevitɔa bɔbɔe: kpɔ be dziku aɖe le dzɔdzɔm hã, eye nàkpɔ egbɔ be ame la sena le eɖokui me be yedze agbagba. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yɔ nyabiase bɔbɔewo be wonye dɔwɔna siwo sɔ na gɔmedzedze ƒe ɣeyiɣi. Le titina ƒe ɣeyiɣi me la, lé tiatia eve ko me, eye nàzã nuƒoƒo ƒe susuawo geɖe. Le emegbe la, trɔ ɖe nyabiase siwo nye „esia alo ekemɛ” siwo le ete ŋu.
 
-## Music and entertainment trivia
+## Ha kple modzakaɖeɖe ƒe nyabiasewo
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Ŋuɖoɖoa le **ŋɔŋlɔdzesi gãwo** me. Trɔ wo ɖe ame la ŋu: ame si tsi le Motown ha me adi hadzila vovovowo wu ame si tsi le ha gãwo me.
 
-| Question | Choices | Talk about |
+| Nyabiase | Tiatiawo | Ƒo nu tso eŋu |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Ame kae woyɔna be Rock and Roll ƒe Fia? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Èkpɔ Elvis le television dzi kpɔa? |
+| Hadzila kae woyɔna be Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Sinatra ƒe ha kae nèlɔ̃na wu? |
+| Bing Crosby ku drɔ̃e tso ɣi si nye... | **Christmas**, srɔ̃ɖeŋkeke, aƒe | Midzi ha ƒe fli ɖeka ɖekae |
+| Louis Armstrong dzi ha „What a Wonderful...” | Ŋkeke, **Xexeame**, Agbe | Nu kae wɔa xexeame nyuie na wò? |
+| Judy Garland dzie „Over the Rainbow” le sinima kae me? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Afikae nèkpɔ sinima siwo nèlɔ̃na wu le? |
+| Ame kae wɔ Lucy ƒe akpa le „I Love Lucy” me? | **Lucille Ball**, Doris Day, Betty White | Fefewɔwɔ kawoe miaƒe ƒomea kpɔna ɖekae? |
+| Nyitsuɖula kae nɔ sɔ si ŋkɔe nye Trigger dzi? | **Roy Rogers**, Gene Autry, John Wayne | Èwɔa nyitsuɖula ƒe fefe esime nènye ɖevi? |
+| Ame kae kpɔ „The Tonight Show” dzi ƒe 30? | Ed Sullivan, **Johnny Carson**, Bob Hope | Ènɔa anyi fɔfɔe be yeakpɔ television? | 
+| Haƒonu kae si safui 88 le eŋu? | Gita, **piano**, kpẽ | Ame aɖe le wò ƒomea mea ƒoa haƒonu aɖe? |
+| Ɖeɖe kae wodzidzea kple ɖeka-eve-etɔ̃, ɖeka-eve-etɔ̃? | **Waltz**, twist, tango | Afikae nèyia ɖeɖe le? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Ne èdi nu geɖe tso ha ŋu la, kpɔ [ha ƒe dɔwɔnawo na dementia](/activities/music/).
 
-## Everyday life trivia
+## Gbesiagbe agbenɔnɔ ƒe nyabiasewo
 
-| Question | Choices | Talk about |
+| Nyabiase | Tiatiawo | Ƒo nu tso eŋu |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Hafi nufamɔ̃wo nava la, aƒe geɖe dzraa nuɖuɖu ɖo ɖe... | **Tsikpeɖaka**, nuɖaze, xɔtaxɔ | Ame kae tsɔa tsikpe vaa aƒeme? |
+| Ame kae tsɔa notsi vaa ʋɔtru nu le ahuhɔ̃e goglowo me? | Posudɔwɔla, **notsitsɔla**, nyadzɔdzɔgbalẽtsɔla | Nu bubu kawoe wotsɔna vaa aƒeme? |
+| Aleke nèƒoa ka le kaƒomɔ̃ xoxo si ŋu kɔkɔ le dzi? | Abɔtawo teti, **kɔkɔa tɔtrɔ**, nuƒoƒo nɛ | Gblɔ kaƒomɔ̃ si nɔ miaƒe aƒeme ŋu nya nam |
+| Dɔwɔƒe kae wɔ Model T ʋua? | **Ford**, Chevrolet, Buick | Gblɔ ʋu si nèlɔ̃ ŋu nya nam |
+| Afikae nàkpɔ soda dzrala le? | **Soda dzraƒe**, abolodzrala, gadzraɖoƒe | Nu kae nèbia le kplɔ̃a ŋu? |
+| Fefenu kae nye ga ƒe atsiaƒu si ate ŋu azɔ ato atrakpuiwo dzi? | Yo-yo, **Slinky**, hula hoop | Fefenu kawoe nèlɔ̃na ŋutɔ? |
+| Drive-in nye teƒe si wokpɔa... | **Sinimawo le wò ʋu me**, bɔlƒoƒewo, azɔlizɔzɔwo | Ame kae nèyi kplii? |
+| Ame kae ƒe mo le dɔlar ɖeka ƒe gagbalẽ dzi? | Lincoln, **George Washington**, Jefferson | Nu kae dɔlar ɖeka ate ŋu aƒle ɣemaɣi? |
+| Ame kae ƒe mo le penny dzi? | **Abraham Lincoln**, Washington, Franklin | Èdzraa pennywo ɖo ɖe golo me ɣemaɣia? |
+| Amadede kae bɔ ɖe sukuʋu ŋu? | Dzĩ, **aŋutiɖiɖi**, blɔ | Aleke nèyia sukua? |
 
-## Holidays, nature and places
+## Ŋkekenyuiwo, dzɔdzɔme kple teƒewo
 
-| Question | Choices | Talk about |
+| Nyabiase | Tiatiawo | Ƒo nu tso eŋu |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Ŋkekenyui kae le November ƒe Yawoɖagbe enelia dzi? | Labor Day, **Thanksgiving**, Memorial Day | Nu kae nɔa miaƒe kplɔ̃ dzi ɣesiaɣi? |
+| Wotsɔa Jack-o'-lanternwo wɔa ŋkekenyui kae? | **Halloween**, Easter, Christmas | Gblɔ Halloween ŋu nya nam le afisi nètsi le |
+| July 4 lia ɖua Ŋutifafa ƒe Gbeɖeɖe ƒe... | Gomenɔamesiwo, **Ablɔɖe**, Ablɔɖenyenye | Afikae nèkpɔa dzobibiwo le? |
+| Vidada ƒe Ŋkeke le ɣleti kae me? | April, **May**, June | Aleke miaƒe ƒomea ɖunɛ? |
+| Ɣletivi nenie le Amerika ƒe aflaga dzi? | 48, **50**, 52 | Ɣletivi 48 nɔ aflaga la dzi va se ɖe 1959. Ŋuɖoɖo eveawo siaa nye ŋkuɖoɖo nyui |
+| Atsiaƒu kae le Ɣedzeƒeƒuta? | Pacific, **Atlantic**, Arctic | Èyi ƒuta kpɔa? |
+| Du kae me Ablɔɖe ƒe Legba le? | Boston, **New York**, Philadelphia | Èyi New York kpɔa? |
+| Nu kae anyitsiwo wɔna? | Notsi, **anyi**, ɖetsi | Anyi ɖe abolo dzi alo le tii mea? |
+| Nyivi woyɔna be... | Sɔvi, **nyivi**, gbɔ̃vi | Ènɔ agblegbɔ kpɔa? |
+| Seƒoƒo dzĩ gã kae wonya be etrɔna ɖe ɣe ŋu? | Rosi, **ɣeseƒoƒo**, tulip | Nu kae mie le wò abɔ me? |
+| Ŋkeke nenie le ƒe si me ŋkeke bubu kpena ɖe eŋu me? | 365, **366**, 360 | Gblɔ dzigbezã aɖe si èɖoa ŋku dzi ŋu nya nam |
+| Ɣeyiɣi kae vaa le vuvɔŋɔli megbe? | Keŋli, **adame**, dzomeŋɔli | Ɣeyiɣi kae nèlɔ̃na wu? |
 
-## Food and sports trivia
+## Nuɖuɖu kple kamedefefewo ƒe nyabiasewo
 
-| Question | Choices | Talk about |
+| Nyabiase | Tiatiawo | Ƒo nu tso eŋu |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Wein tsetse ƒuƒuwo nye... | Plumwo, **wein tsetsewo**, cheriwo | Ètsɔa wein tsetse ƒuƒuwo ɖe nuɖuɖu me kpɔa? |
+| Prune-wo nye... | **Plumwo**, gbotiwo, apple-wo | Ame kae le wò ƒomea me lɔ̃a prune-wo ŋutɔ? |
+| Azitɔmi kple... | **Jelly**, notsi babla, halã | Eƒe gbagbã alo fafɛ? |
+| Avokadoe nye nu vevitɔ le... | Aŋgba, **avokado**, kokumba | Nuɖuɖu tsaka kawoe miena le kplɔ̃ dzi le azãɖuɣiwo? |
+| Abolomegba kae bɔna le Thanksgiving dzi? | **Agu**, anyitsi, cheri | Abolomegba kae nèɖana? |
+| Fefewɔla nenie nɔa baseball ƒuƒoƒo aɖe me le fefewɔƒea? | 7, **9**, 11 | Ƒuƒoƒo kae nèdoa alɔe? |
+| Asitɔtɔ nenie wòhia hafi woaɖe ame le baseball me? | Eve, **etɔ̃**, ene | Èƒo bɔl kpɔa? |
+| Kamedefefe kae na Babe Ruth xɔ ŋkɔ? | Asibidɔwɔwɔ, **baseball**, golf | Èyi bɔlƒoƒewo kpɔa? |
+| Do nenie le golf fefewɔƒe dzɔdzɔe aɖe ŋu? | 9, **18**, 24 | Èƒo golf, alo mini golf kpɔa? |
+| Kamedefefe kae me nèxɔa touchdown le? | **Amerika bɔlƒoƒo**, hockey, basketball | Ame kae kpɔa Amerika bɔlƒoƒo le miaƒe aƒeme? |
 
-## Familiar sayings
+## Lododo siwo wonya
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Lododo aɖe ƒe nuwuwu nana míezãa gbegbɔgblɔ si míesrɔ̃ tso gbe aɖe gbe ke, eye zi geɖe enɔa bɔbɔe. Míaƒe [Wu lododoa nu](/games/finish-the-saying/) fefe la ƒe bubu geɖe le eme, eye àte ŋu azi edzi be yeakpɔ nuwuwu ɖesiaɖe.
 
-| Saying | Choices | Talk about |
+| Lododo | Tiatiawo | Ƒo nu tso eŋu |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Apple ɖeka gbesiagbe naa atikewɔla... | **Nɔa adzɔge**, nɔa tsi te, nɔa dadi te | Ame kae gblɔa esia na wò tsã? |
+| Xevi si fɔna kaba léa... | Ʋu, **nyɔvi**, keteke | Wòe nye ŋdi me ame? |
+| Mègaxlẽ wò koklo viwo hafi woa... | **Do go**, adɔ alɔ̃, adzi ha | Koklowo nɔ miaƒe ƒomea si kpɔa? |
+| Penny si wodzra ɖo nye penny si... | **Wokpɔ**, bu, zã | Ame kae nye nu dzraɖola le wò ƒomea me? |
+| Aƒe nye afisi... | Abɔ le, **dzi le**, nuɖakplɔ̃ le | Nu kae nana teƒe aɖe sena na ame abe aƒe ene? |
+| Enyo be woava megbe wu be... | Woava kaba, **womava kura o**, woaɖe kuku | Ame kae vaa megbe ɣesiaɣi? |
+| Alilikpo ɖesiaɖe ƒe... | **Kladoƒe klitsa le eŋu**, gatsi le eŋu, ganu le eŋu | Gblɔ dzɔgbenyui aɖe ŋu nya nam |
+| Nu wɔwɔ ƒoa nu sesĩe wu... | **Nyawo**, ha, dziɖegbe | Gblɔ ame aɖe si gblɔ esia ŋu nya nam |
 
-## This-or-that questions with no wrong answer
+## Nyabiase siwo nye „esia alo ekemɛ” siwo me vodada aɖeke mele o
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Esiawo sɔ na ɣeyiɣi ɖesiaɖe, va se ɖe emegbe ke, elabena naneke meli woawɔ wòasɔ o. Bia, se nu, eye nàgblɔ wò ŋutɔ wò ŋuɖoɖo hã.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kɔfi alo tii?
+- Ƒuta alo towo?
+- Avuwo alo dadewo?
+- Dzomeŋɔli alo vuvɔŋɔli?
+- Abolomegba alo abolo vivi?
+- Ɖeɖe alo kpɔkpɔ?
+- Ŋdɔkutsu alo ɣetrɔ?
+- Ŋgɔgbexɔ alo megbe abɔ?
+- Radio alo haƒoƒoɖakawo?
+- Pancake alo koklozi?
+- Rosiwo alo seƒoƒowo?
+- Keteke mɔzɔzɔ alo ʋu mɔzɔzɔ?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Ne èdi dzeɖoɖo ƒe nyawo siwo kpe ɖe nɔnɔmetatawo ŋu la, te míaƒe [Dzeɖoɖo ƒe agbalẽviwo](/games/conversation-cards/) siwo woate ŋu ata la kpɔ.
 
-## How do you run a trivia session in a care home or group?
+## Aleke nàwɔ nyabiase bɔbɔewo ƒe takpekpe le dzikpɔƒe alo ƒuƒoƒo me?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Na amewo nanɔ anyi ale be woate ŋu akpɔ nu ahase nu.** Tosemɔ̃wo le to me, ŋkumeɖakawo le ŋku dzi, television tsi.
+2. **Ɖee fia abe dzeɖoɖo ene.** „Nyabiase aɖewo le asinye tso blema ŋkekewo ŋu, eye mexɔe se be mienya nu wu ŋunye.”
+3. **Xlẽ nyabiase ɖesiaɖe zi eve eye nàfia tiatiaawo gã.**
+4. **Xɔ ŋuɖoɖo tso teƒe sia teƒe le xɔa me.** Gbugbɔ ŋuɖoɖo nyuiwo gblɔ ale be ame sia ame nase wo.
+5. **Gblɔ ŋuɖoɖoa na ame sia ame,** emegbe nàbia nuƒoƒo ƒe nyabiasea ƒuƒoƒoa.
+6. **Dze ŋusẽ si le eme la yome.** Ne nyabiase ɖeka dze ŋutinyawo gɔme miniti ewo la, na wòayi edzi.
+7. **Wu enu kple ha alo nyabiase siwo nye „esia alo ekemɛ”,** ale be ame sia ame nawu enu kple nu bɔbɔe aɖe.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Ne èdi ƒuƒoƒo ƒe mɔnu bubuwo, siwo me nɔnɔmetata bingo kple ha dzidzim ɖekae hã le la, kpɔ [ƒuƒoƒo ƒe dɔwɔnawo na dzikpɔƒewo](/activities/care-home-groups/).
 
-## When to change the plan
+## Ɣeyiɣi si nàtrɔ ɖoɖoa
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Ne ame aɖe le dzimaɖi ƒe dzesi fiam, zi ɖoɖoe, alo gblɔ be „Nyemenya o” wu zi ɖeka la, wɔe bɔbɔe wu: ɖiɖi tiatiawo ɖe eve, miɖo ŋu ɖekae, alo trɔ ɖe nyabiase siwo nye „esia alo ekemɛ” ŋu. Ne ƒuƒoƒoa di be yeaƒo nu tso nyabiase ɖeka ŋu ŋdɔ blibo la, edze agbagba. Taɖodzinu la menye ŋuɖoɖo dzɔdzɔeawo o. Enye ɣeyiɣi nyui aɖe zãzã le hadede nyui me.

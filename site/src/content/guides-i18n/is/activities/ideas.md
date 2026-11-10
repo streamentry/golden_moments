@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Athafnir fyrir fólk með heilabilun: 101 einföld hugmynd"
+seoTitle: "Athafnir við heilabilun: 101 einföld hugmynd"
+description: "101 einföld og fullorðinsleg athafnahugmynd fyrir fólk með heilabilun, frá þvottabrettingu til tónlistar og mynda, með ráðleggingum um aðlögun."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Góðar athafnir fyrir fólk með heilabilun eru kunnuglegar, fullorðinslegar og
+  auðvelt að deila þeim: að brjóta saman þvott, raða hlutum, elda, hlusta á
+  tónlist, skoða myndir, ganga, garðyrkja, vera með gæludýrum og spila einfalda
+  leiki. Veldu það sem viðkomandi hefur alltaf haft gaman af, taktu að þér erfiðu
+  hlutina og hættu þegar hann eða hún þreytist. Notalegur tími saman skiptir meira
+  máli en að klára eitthvað.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Byrjaðu út frá lífi viðkomandi: starf, áhugamál, trú og uppáhaldstónlist eru besti leiðarvísirinn."
+  - "Gerðu hvaða athöfn sem er minni eftir þörfum: færri skref, færri valkostir, þú sérð um erfiðu hlutina."
+  - "Að horfa á, halda á einhverju eða bara sitja nálægt telst allt sem þátttaka."
+  - "Hættu eða skiptu um ef þú sérð þreytu, pirring eða leiða. Að hætta snemma er góður árangur."
+  - "Að gera eitthvað saman skiptir meira máli en að gera það rétt."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Hvaða athafnir henta einhverjum með heilabilun?"
+    a: "Kunnuglegar athafnir sem viðkomandi hefur gert í mörg ár, gerðar aðeins einfaldari: að brjóta saman þvott, setja á borð, elda, hlusta á tónlist, skoða myndir, ganga, vinna í garði og vera með gæludýri. Veldu hluti sem virðast fullorðinslegir og gagnlegir, og gerið þá saman."
+  - q: "Hversu lengi ætti athöfn að vara?"
+    a: "Það er engin rétt lengd. Nokkrar mínútur við að brjóta saman handklæði geta verið nóg einn daginn, en klukkustund í garðinum getur liðið vel annan dag. Leyfðu viðkomandi að stjórna hraðanum og hættu á meðan það er enn notalegt."
+  - q: "Hvað ef viðkomandi neitar að taka þátt í athöfn?"
+    a: "Ekki þrýsta á. „Nei“ getur þýtt að verkefnið virðist of erfitt, tímasetningin er röng eða að viðkomandi er þreyttur eða líður illa. Prófaðu aftur síðar, bjóððu upp á einfaldari útgáfu eða byrjaðu sjálf(ur) á verkefninu nálægt og bjóddu viðkomandi að hjálpa til."
+  - q: "Eru heilaleikir góðir fyrir fólk með heilabilun?"
+    a: "Leikir geta verið skemmtileg leið til að eyða tíma saman, en það hefur ekki verið sýnt fram á að neinn leikur meðhöndli, hægi á eða stöðvi heilabilun. Veldu leiki án tímamælis, stiga eða hljóða við röng svör, og líttu á þá sem sameiginlega athöfn, ekki próf."
+  - q: "Hvernig get ég komið í veg fyrir að athafnir virðist barnalegar?"
+    a: "Notaðu alvöru, fullorðinsleg áhöld: alvöru handklæði, alvöru uppskriftir, tónlist og listgögn fyrir fullorðna og myndir með fullorðinslegu viðfangsefni. Kynntu verkefni sem hjálp sem þú þarft raunverulega á að halda, og talaðu við viðkomandi sem fullorðinn einstakling."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Besta athöfnin fyrir einstakling með heilabilun er yfirleitt eitthvað sem hann eða hún kann nú þegar að gera, gert aðeins einfaldara og unnið við hlið einhvers sem viðkomandi treystir. Hér að neðan eru 101 hugmynd, flokkaðar eftir tegund, hver með því hvernig á að undirbúa hana og hvernig á að gera hana auðveldari þegar erfiðara verður. Þú þarft hvorki sérstök áhöld né að klára neitt. Góður síðdegis getur verið ein karfa af handklæðum og kaffibolli saman.
 
-## How do you choose the right activity?
+## Hvernig velurðu réttu athöfnina?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Veldu út frá einstaklingnum, ekki listanum: byrjaðu á því sem hann eða hún hefur alltaf haft gaman af og getur gert þægilega í dag.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Hugsaðu um starf og áhugamál.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) bendir á að fyrrverandi skrifstofustarfsmanni gæti fundist gaman að flokka mynt eða útbúa póstsendingar, og garðyrkjumanni að vinna úti.
+- **Taktu eftir því sem viðkomandi gerir nú þegar.** Ef pabbi þinn sópar veröndina á hverjum morgni án þess að vera beðinn um það, láttu það vera hluta af deginum.
+- **Taktu mið af takmörkunum.** Þreyta, sjón, heyrn, aumir hendur og jafnvægi skipta öllu máli.
+- **Fylgstu með skapi viðkomandi.** Fiðrandi og háværar athafnir henta sumum en hræða aðra.
+- **Gefðu því tilgang.** Að brjóta saman servíettur fyrir kirkjusamkomu finnst gagnlegra en æfing fyrir æfingarinnar sakir.
 
-### A rough guide by stage
+### Gróf leiðbeining eftir stigi
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Heilabilun er oft lýst á frumstigi, miðstigi og síðstigi. Þetta eru laus merki, ekki kassar, og margir eiga betri og erfiðari daga, svo farðu eftir því sem þú sérð í dag. [Listi Alzheimer's Foundation of America eftir stigum](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) fylgir svipuðu mynstri.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Atriði | Frumstig | Miðstig | Síðstig |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Það sem þú gætir tekið eftir | Að mestu sjálfbjarga; skipulagning, ný nöfn og fjölförn staðir verða erfiðari | Þarfnast hjálpar við að byrja og með skref; orð koma síður auðveldlega | Þarfnast hjálpar við flestar daglegar athafnir; skynjunin skiptir mestu máli |
+| Athafnir sem oft henta | Spil, borðspil, eldun, garðyrkja, dagbókarskrif, útivera, félagasamtök | Að brjóta saman þvott, flokka hluti, einföld skref í eldun, syngja, myndaalbúm, stuttar gönguferðir með fylgd | Uppáhaldstónlist, handanudd, mjúkir hlutir til að halda á, lestur fyrir viðkomandi, að sitja úti |
+| Hlutverk þitt | Félagi: spurðu hvaða stuðning viðkomandi vill fá | Undirbúðu, sýndu, taktu að þér erfiðu hlutina | Færðu athöfnina að viðkomandi; félagsskapur þinn er athöfnin |
+| Fleiri hugmyndir | [Frumstig](/activities/early-stage/) | [Miðstig](/activities/middle-stage/) | [Síðstig](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Hvernig byrjar þú athöfn með einhverjum sem er með heilabilun?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Byrjaðu smátt, byrjaðu við hlið viðkomandi og gerðu það auðvelt að segja já. Margir vilja samt taka þátt en eiga erfitt með að skipuleggja eða byrja.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Veldu besta tíma dagsins,** oft morguninn.
+2. **Láttu allt vera tilbúið fyrirfram** svo hægt sé að byrja strax.
+3. **Biddu um hjálp, ekki frammistöðu:** „Gætirðu hjálpað mér aðeins með þetta?“
+4. **Byrjaðu sjálf(ur).** Brjóttu fyrsta handklæðið og leyfðu viðkomandi að taka þátt. Að sýna virkar betur en að útskýra.
+5. **Bjóððu upp á eitt skref í einu.**
+6. **Taktu að þér erfiðasta hlutann.** Alzheimer's Association leggur til að mæla hráefnin sjálf(ur) og rétta svo viðkomandi sleifina til að hræra.
+7. **Leyfðu því að vera gert á hans eða hennar hátt.** Handklæði sem eru brotin saman öðruvísi eru alveg í lagi.
+8. **Hættu þegar það hættir að vera notalegt.** Eirðarleysi, gretta eða „Ég get þetta ekki“ eru merki um að skipta um eða hvíla sig.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Sjá einnig [hvernig á að gera eitthvað saman](/caregiving/how-to-play-together/) og [ráð um samskipti](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Dagleg heimilisverk
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Heimilisstörf eru kunnugleg og gagnleg, sem gerir þau að góðum stað til að byrja á. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nefnir uppvask, að setja á borð, sópa, flokka póst og brjóta saman þvott meðal athafna sem fólk gæti haft gaman af. Meira í [heimilisverkum](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Brjóttu saman heit handklæði.** Helltu körfu úr þurrkaranum á borðið og brjótið saman hlið við hlið. Seinna er jafngagnlegt að slétta og stafla.
+2. **Paraðu saman sokka.** Byrjaðu á mjög ólíkum litum. Seinna nægir að flokka ljóst frá dökku.
+3. **Settu á borð.** Réttu viðkomandi eina tegund af hlutum í einu. Settu eitt borðpláss sjálf(ur) sem fyrirmynd.
+4. **Þvoðu eða þurrkaðu upp.** Volgt sápuvatn og óbrjótanlegir diskar. Að þurrka sitjandi er auðveldara fyrir fæturna.
+5. **Þurrkaðu af borðinu.** Réttu viðkomandi rakan klút eftir máltíðir. Það er alvöru verkefni fyrir eirðarlausar hendur.
+6. **Flokkaðu póstinn.** Bæklinga og ruslpóst í „geyma“ og „endurvinna“. Hafðu alvöru reikninga frá.
+7. **Klippðu út afsláttarmiða.** Skæri með rúnnuðum oddi og matvöruauglýsingar. Seinna er líka hægt að hringja utan um uppáhaldsmatinn.
+8. **Flokkaðu mynt.** Flokkaðu smápeninga í bolla eða rúllaðu þeim í pappírshylki. Slepptu litlum hlutum ef viðkomandi setur hluti í munninn.
+9. **Sópaðu eða rykþurrkaðu.** Léttur sópi á veröndinni, eða rykbursti með löngu skafti notaður úr stól.
+10. **Hjálpaðu til við að elda mat.** Þvo grænmeti, rífa salat, hræra. Þú sérð um hnífa og hita.
+11. **Bakaðu fjölskylduuppskrift.** Notaðu spjaldið með handskrift viðkomandi ef þú átt það. Seinna getur hann eða hún verið smakkarinn.
+12. **Gerðu skrifstofuvinnu.** Brjóttu saman bréf, settu í umslög og límdu frímerki, eða skrifið innkaupalistann saman.
 
-## Music
+## Tónlist
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Kunnugleg tónlist getur náð til fólks jafnvel þegar orð eru erfið. [Ráð Alzheimer's Association um tónlist](https://www.alz.org/help-support/caregiving/daily-care/art-music) leggja til kunnugleg lög, engar auglýsingar og slökkt á sjónvarpinu. Sjá [tónlistaratvinnutengd](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Settu saman persónulegan lagalista.** Tónlist frá tánings- og tvítugsaldri, brúðkaupinu, kirkjunni og menningarheimi viðkomandi.
+14. **Syngdu með.** Byrjaðu að syngja sjálf(ur). Að tauta eða hlusta telst líka.
+15. **Haltu takti.** Klappaðu, sláðu á hné eða bankaðu á handatrommu. Virkar sitjandi og á síðstigi.
+16. **Dansa.** Hægur dans í eldhúsinu, eða sveiflast sitjandi á meðan þið haldið höndum.
+17. **Hlustaðu á heila plötu.** Uppáhaldsplata frá upphafi til enda, með kaffi og engu öðru í gangi.
+18. **Talaðu um tónlistina.** Bjóddu upp á sögur, ekki staðreyndir: „Segðu mér frá dönsunum sem þú fórst á.“
+19. **Horfðu á söngleik eða tónleika á upptöku.** Sýning sem viðkomandi elskaði gerir gott kvöld. Gera má hlé hvenær sem er.
+20. **Spilaðu á kunnuglegt hljóðfæri.** Fyrrverandi píanóleikari gæti haft gaman af einföldum lögum; síðar nokkrir tónar saman.
+21. **Hlusta á lifandi tónlist.** Stuttur tónleikar í samfélaginu eða kóræfing. Sitjið nálægt útgangi.
 
-## Reminiscence: photos, objects and stories
+## Minningar: myndir, hlutir og sögur
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Njótið fortíðarinnar saman án þess að prófa hana. Slepptu spurningum eins og „Manstu...?“ og „Hver er þetta?“ og notaðu opnar boðsetningar í staðinn. Sjá [minningaratvinnutengd](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Skoðaðu myndaalbúm.** Segðu það sem þú sérð: „En fallegur kjóll. Segðu mér frá þessum degi.“ Fylgstu með nöfnunum sem viðkomandi notar.
+23. **Gerðu minningakassa.** Skókassi með hlutum úr lífi viðkomandi, eins og starfsmannaspjaldi eða uppskriftaspjaldi. Taktu hlutina upp einn í einu.
+24. **Byrjaðu á ævisögubók.** Nokkrar myndir á hverri síðu með skýrum texta í stóru letri. Hún hjálpar nýjum aðstoðarfólki að kynnast einstaklingnum.
+25. **Notaðu samtalsspjöld.** [Samtalsspjöld](/games/conversation-cards/) para mynd við opna spurningu.
+26. **Búðu til fjölskyldumyndaleik.** [Myndapör](/games/photo-pairs/) breyta eigin myndum ykkar í samstæduleik.
+27. **Horfðu á heimamyndir eða gamla sjónvarpsþætti.** Gerið athugasemdir saman frekar en að spyrja spurninga.
+28. **Farið með hluti úr vinnulífi viðkomandi.** Skiptilykil, hlustunarpípu, bókhald. Hendurnar leiða oft söguna.
+29. **Eldið rétt frá barnsaldri.** Viðkomandi getur hrært, smakkað eða einfaldlega setið í eldhúsinu með þér.
+30. **Skoðið kort af stöðum þar sem viðkomandi bjó.** Fylgið kunnuglegum vegum í stóru landakortabókinni á meðan þið talið saman.
 
-## Creative activities
+## Skapandi athafnir
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+List snýst um að gera, ekki um lokaútkomuna. Hafðu efni fullorðinsleg og örugg. Sjá [list og handverk](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Málaðu með vatnslitum.** Þykkur pappír, nokkrir litir. Ef erfitt er að byrja, leiðið fyrstu strokin saman.
+32. **Litaðu myndir fyrir fullorðna.** Blóm eða teppi, ekki teiknimyndir. [Litunarsíðurnar](/games/coloring/) okkar virka á skjá eða prentaðar.
+33. **Búðu til klippimynd.** Rífðu myndir af görðum, bílum eða mat úr tímaritum og límdu þær niður. Seinna nægir bara að velja myndirnar.
+34. **Raðaðu blómum.** Blómvöndull úr verslun og vasi. Seinna nokkrir stilkar í krukku.
+35. **Prjónið eða heklið saman.** Einfaldar umferðir á stórum prjónum. Seinna að vinda garn í hnykla.
+36. **Búðu til kort fyrir fjölskyldu.** Stimplaðu, skrifaðu undir eða skreyttu afmælis- og batakort fyrir alvöru fólk.
+37. **Mótaðu sjálfþornandi leir.** Þrýstu út litla skál. Notaðu eitruð laus efni og vertu nálægt.
+38. **Pússaðu og frágangið við.** Forunninn fuglahúsabúnaður og sandpappír, engin rafmagnsverkfæri. Sjá [athafnir fyrir karla](/activities/for-men/).
+39. **Skrifaðu eða segðu fyrir bréf.** Til barnabarns eða gamla vinar. Ef erfitt er að skrifa, talar viðkomandi og þú skrifar.
 
-## Outdoors and gardening
+## Útivera og garðyrkja
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Ferskt loft og dagsbirta eru gott fylgdarlið. Sjá [útiveru og garðyrkju](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Vökvaðu plöntur.** Lítil kanna og nokkrir pottar. Dagleg vökvun gefur deginum rútínu.
+41. **Plantaðu í pott.** Settu hann á borð svo enginn þurfi að hníga. Plöntur eru auðveldari en fræ.
+42. **Slíta illgresi eða fjarlægðu visin blóm.** Hanskar á, eitt lítið beð í einu.
+43. **Hræktu lauf.** Einn lítill blettur. Seinna er það alvöru verkefni að halda pokanum opnum.
+44. **Farið í kunnuglega gönguferð.** Í kringum húsið eða að póstkassanum. Styttra er í lagi.
+45. **Sitjið úti saman.** Verandarstóll á mildum degi. Fylgist með skýjum eða vegfarendum.
+46. **Gefið fuglum.** Fyllið fuglafóðurstöð saman og fylgist með úr glugga.
+47. **Þvoið bílinn.** Fata, svampur, hlýtt kvöld. Að skola felgur er gott verkefni í einu skrefi.
 
-## Sensory activities
+## Skynrænar athafnir
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Snerting, lykt, bragð, hljóð og sjón skipta meira máli eftir því sem heilabilunin versnar. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nefnir tónlist, hluti til að halda á og handanudd á síðari stigum. Athugaðu fyrst ofnæmi og köfnunarhættu; sjá [skynrænar athafnir](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Gefðu handanudd.** Spurðu fyrst og notaðu smá áburð. Veldu ilmlaust ef þú ert ekki viss um húð eða ofnæmi.
+49. **Finndu fyrir efnum.** Karfa með flaueli, bómullarfætum, ull og satíni til að strjúka og brjóta saman.
+50. **Ilmaðu af jurtum og kaffi.** Nuddaðu ferska myntu eða rósmarín milli fingranna. Forðastu sterk ilmefni ef viðkomandi á við öndunarvandamál að stríða.
+51. **Burstaðu hárið á viðkomandi.** Hægt og varlega, ef honum eða henni líkar það.
+52. **Deildu volgum þvottaklút.** Fyrir hendur og andlit á köldum degi. Prófaðu hitastigið fyrst.
+53. **Skoðaðu athafnasvuntu.** Stórir hnappar og rennilásar sem eru fastsaumaðir. Gakktu úr skugga um að ekkert geti losnað.
+54. **Smakkaðu uppáhaldsnammi.** Lítil skeið, í áferð sem viðkomandi ræður örugglega við.
+55. **Spilaðu náttúruhljóð.** Rigning, öldur eða fuglasöngur í lágum hljóðstyrk.
+56. **Horfðu á eitthvað rólegt.** Fiskabúr, náttúrumyndband eða snjókomu.
 
-## Games and puzzles
+## Leikir og þrautir
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Leikir virka þegar enginn tímamælir, stig eða þrýstingur er til staðar. Ef einhver þeirra fer að líða eins og próf skaltu leggja hann til hliðar. Sjá [að velja öpp og leiki](/caregiving/choosing-apps-and-games/) og [heilaleiki](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Paraðu saman myndir.** [Myndapör](/games/picture-pairs/) leyfir myndum að liggja upp, svo þetta snýst um að taka eftir, ekki um að muna.
+58. **Finndu sömu myndina.** [Finndu sömu](/games/find-the-same/) býður upp á tvo til fjóra valkosti. Spjallið um hverja mynd.
+59. **Flokkaðu í körfur.** [Flokkum saman](/games/sort-together/) er eins og að flokka sokka á skjá.
+60. **Leggðu stóra púsluspil.** Fullorðinslegar myndir, auðveldur fjöldi bita. [Myndapúsl](/games/picture-puzzle/) heldur allri myndinni sýnilegri. Meira í [púsl fyrir fólk með heilabilun](/activities/puzzles/).
+61. **Spilaðu gamlan spilaleik.** Hvað sem viðkomandi hefur spilað í mörg ár. Seinna er leikur í sjálfu sér að flokka spilastokkinn eftir lit.
+62. **Spilaðu dómínó.** Paraðu endana saman. Seinna er líka í lagi að raða bara kubbunum upp.
+63. **Prófaðu orðaleit í stóru letri.** [Orðaleitin](/games/word-search/) okkar hefur orð lárétt og lóðrétt eingöngu og hægt er að prenta hana.
+64. **Ljúktu við kunnugleg orðatiltæki.** [Ljúktu við málsháttinn](/games/finish-the-saying/) gerir þér kleift að sýna endinguna hvenær sem er.
+65. **Spilaðu myndabingó.** [Myndabingó](/games/picture-bingo/) hentar fjölskyldum og hópum. Hjálpaðu frjálslega til við að merkja spjöldin.
+66. **Spilaðu dam.** Hafðu reglurnar lausar. Að færa spil á meðan þið spjallið telst líka.
 
-## Movement
+## Hreyfing
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA stingur upp á gönguferðum, kyrrstæðum reiðhjóli, teygjuböndum, að kasta mjúkum bolta eða blöðru, að lyfta súpudósum og æfingamyndböndum fyrir eldri einstaklinga. Ráðfærðu þig við lækni áður en þú byrjar eitthvað nýtt, sérstaklega ef um er að ræða jafnvægisvandamál.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Kastaðu blöðru.** Sitjið andspænis hvort öðru. Hún hreyfist hægt, svo auðvelt er að grípa hana.
+68. **Fylgdu æfingamyndbandi í sæti** sem er gert fyrir eldri einstaklinga, hlið við hlið.
+69. **Teygðu með bandi.** Mildar handateygjur með léttu bandi í sæti.
+70. **Lyftu súpudósum.** Hæg handalyftingar, kannski við tónlist.
+71. **Hjólaðu á kyrrstæðu hjóli.** Nokkrar rólegar mínútur, með þér nálægt.
+72. **Dansa með klútum.** Veifaðu léttum klútum við tónlist, sitjandi eða standandi.
+73. **Farið í gönguferð með tilgangi.** Til að koma bréfi á póstinn eða kaupa kaffi. Ástæða til að fara út virðist eðlileg.
+74. **Takið rólega öndunarhvíld saman.** Hægið á ykkur saman með [rólegri öndun](/games/calm-breathing/).
 
-## Social activities
+## Félagslegar athafnir
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Félagsskapur skiptir máli jafnvel þegar nöfn eru erfið, og litlir hópar eru auðveldari en stórir. NIA bendir á að einstaklingur muni kannski ekki hver gestur er en njóti oft samt félagsskaparins. Sjá [heimsóknir](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Eigðu einn eða tvo gesti í einu.** Stuttar heimsóknir í rólegu herbergi, með myndir til að skoða.
+76. **Myndsímtal við fjölskyldu.** Stutt símtöl, ein rödd í einu. Sjá [símtöl og myndsímtöl](/activities/phone-and-video-calls/).
+77. **Prófaðu minningarkaffi.** Óformlegar samkomur fyrir fólk með heilabilun og aðstandendur þess. Spurðu hjá þjónustuveri sveitarfélagsins eða eldri borgara hvað er í boði nálægt þér.
+78. **Borðaðu úti á rólegum tíma.** NIA leggur til kunnulegan, rólegan veitingastað utan álagstíma, með borð nálægt salerni.
+79. **Farðu á félagsmiðstöð eldri borgara eða í dagþjónustu.** Félagsskapur fyrir viðkomandi og hlé fyrir þig.
+80. **Eyddu tíma með börnum.** Stutt, róleg heimsókn frá barnabörnum, eða lestur myndabókar fyrir smábarn.
+81. **Deildu morgunblaðinu yfir kaffi.** Lestu fyrirsagnir upphátt. Venjan skiptir meira máli en fréttirnar.
+82. **Hjálpaðu einhverjum öðrum.** Brjóttu saman dagskrár fyrir kirkjuna eða gerðu kort fyrir nágranna.
 
-## Faith and spiritual activities
+## Trúarlegar og andlegar athafnir
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Fylgdu eigin hefðum viðkomandi, eða engum. NIA leggur til kunnuglegar guðsþjónustur, lestur, helga tónlist, bæn, hugleiðslu og hátíðasiði.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Sæktu kunnuglega guðsþjónustu.** Veldu rólegri athöfn, sitjið nálægt ganginum og láttu fólk þar vita af heilabiluninni.
+84. **Horfðu á guðsþjónustu á netinu** þá daga þegar of mikið er að fara út.
+85. **Biðjið eða lesið saman.** Kunnugleg orð, lesin hægt. Viðkomandi gæti tekið þátt í hlutum sem hann eða hún kann.
+86. **Syngið sálma eða helga tónlist** úr eigin hefð.
+87. **Haldið í hátíðasiði.** Rafmagnskerti, blessun, skreytingar sem viðkomandi hefur alltaf notað.
+88. **Njótið kyrrðar saman.** Sitjið í garði eða horfið á sólsetrið saman.
 
-## Pets and animals
+## Gæludýr og dýr
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA leggur til að gefa, bursta, fara í göngutúr með, eða sitja hjá og halda á gæludýri.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Burstaðu rólegan hund eða kött** með löngum, hægum strokum.
+90. **Gefið gæludýrinu saman.** Þú mælir; viðkomandi hellir.
+91. **Farið í göngutúr með hundinn saman.** Þú heldur í taumana.
+92. **Hafðu gæludýr í kjöltunni.** Rólegur köttur á teppi getur verið mjög róandi.
+93. **Taktu á móti heimsóknum dýra.** Sum hjúkrunarheimili og dagþjónustur bjóða upp á heimsóknir dýra. Spurðu hvað er í boði nálægt þér.
+94. **Bjóðaðu upp á raunverulegt mjúkdýr.** Ef ekkert gæludýr er til staðar geta sumir haft gaman af að halda á raunverulegu bangsa eða mjúkum hundi. Bjóðaðu það fram á einfaldan hátt, aldrei sem leikfang, og virðtu „nei“.
 
-## Seasonal activities
+## Árstíðabundnar athafnir
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Haldið í hefðir, en gerið þær einfaldari. NIA leggur til að vera raunsær og hafa rólegt rými fyrir hlé í annasömum hátíðum.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Skreytið eftir árstíð.** Grasker, krans eða fersk blóm á borðið.
+96. **Búið til hátíðarnammi.** Rúllið deig eða setjið krema á smákökur. Þú sérð um ofninn.
+97. **Hengið upp skraut.** Óbrjótanleg skraut, rétt eitt í einu.
+98. **Farið í bílferð til að skoða ljós.** Stutt kvöldferð krefst ekki neins nema félagsskapar.
+99. **Plantið vorlaukum.** Setjið laukana í pott að hausti og fylgist með þegar sprotarnir koma upp.
+100. **Afhýðið maís eða baunir.** Sumarverkefni á veröndinni með skál í kjöltunni.
+101. **Skrifið utan á hátíðarkort.** Viðkomandi skrifar undir, límir frímerki eða lokar; þú sérð um heimilisföng.
 
-## What if an activity is not working?
+## Hvað ef athöfn gengur ekki vel?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Hættu og prófaðu eitthvað annað seinna. NIA leggur til að fylgjast með pirringi og leyfa viðkomandi einfaldlega að horfa á ef hann eða hún vill það frekar. „Nei“ þýðir oft að verkefnið er of erfitt, tíminn er rangur eða eitthvað annað truflar, eins og verkir, hungur eða hávaði. Gerðu það minni, prófaðu fyrr á degi eða byrjaðu sjálf(ur) og sjáðu hvort viðkomandi taki þátt. Sjá [þegar viðkomandi segir nei](/caregiving/when-they-say-no/) og [eirðarleysi síðdegis](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Til að passa athöfnum inn á milli máltíða og hvíldar, sjá [blíða daglega rútínu](/activities/daily-routine/). Fyrir hluti sem gott er að hafa tilbúna, sjá [prentanleg verkefni](/activities/printable/), og ef þú stýrir hópi, [hópathafnir á hjúkrunarheimili](/activities/care-home-groups/). Þín eigin hvíld skiptir líka máli: sjá [umhirða aðstandenda](/caregiving/caregiver-self-care/).

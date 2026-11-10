@@ -1,33 +1,32 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ: ᐅᐦᐃ ᑲ ᐸᒥᐦᐊᒋᐠ ᐊᐘᓂᐦᐃᐠ ᑲ ᐘᓂᐦᐃᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ"
+seoTitle: "ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ: ᒥᓯᓇᐦᐃᑲᐣ ᐯᐣᑯ, ᓂᑲᒧᐏᓇ"
+description: "ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᐅᐦᐃ ᑲ ᐸᒥᐦᐃᐍᐏᑲᒥᑯᐦᐠ ᐊᐘᓂᐦᐃᐠ ᑲ ᐘᓂᐦᐃᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ: ᒥᓯᓇᐦᐃᑲᐣ ᐯᐣᑯ, ᓂᑲᒧᐏᓇ, ᐊᒋᒧᐏᓇ, ᒥᓇ ᑌᐯᐦᐃᑲᓂᐘᐣ ᐃᐢᐱ ᐊᐱᐏᐣ᙮"
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  ᒥᔼᓯᓇ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᐅᐦᐃ ᑲ ᐸᒥᐦᐃᐍᐏᑲᒥᑯᐦᐠ ᒥᓇ ᑮᓯᑳᐏ ᐅᐦᒋ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ
+  ᒋᒥᐢᐠᐘᐦᐠ ᐃᐢᐱᔭᐣᐘ, ᑲ ᑭᐢᑭᓂᑲᑌᑭ, ᒥᓇ ᑲ ᐍᐦᒋ ᐑᒋᐦᐃᑖᑭ ᑕᓱᑭᐣ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ:
+  ᒥᓯᓇᐦᐃᑲᐣ ᐯᐣᑯ, ᒫᒫᐏ ᓂᑲᒧᐏᓇ, ᐊᒋᒧᐏ ᐘᐢᑳᐦᐃᑲᓂᐘ, ᓀᐦᐃᔭᐘᐠ ᐋᐦᑎᒧᐏᓇ, ᒥᓇ ᒫᒫᐏ
+  ᐃᑌᐍᐏᓇ᙮ ᒋᒥᐢᐠᐘᐦᐠ ᐊᐘᓂᐦᐃᐠ ᑲ ᐊᐱᒋᐠ, ᐁᑿ ᐊᐱᐦᐊᐤ ᑕᐦᑭ ᑲ ᐘᐸᒥᐦᐊᒋᐠ ᒥᓇ ᑲ ᐯᐦᑕᒋᐠ
+  ᑲᑭᔭᐤ, ᐯᔭᑯ ᐯᔭᐠ ᐃᑌᐦᑕᒧᐤ, ᒥᓇ ᑭᐍᔭᐦᑖ ᐍᐦᒋ ᐊᐘ ᑲ ᓇᑕᐍᔭᐦᑕᐠ ᐁᑿ ᑲ ᑭ ᓇᑲᑕᒧᐦᑖᐟ ᐸᐦᐱᐣ᙮
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "ᒋᒥᐢᐠᐘᐦᐠ ᐊᐘᓂᐦᐃᐠ ᑲ ᐊᐱᒋᐠ ᓇᐦᐃᔭᐘᐠ ᒥᔼᐢᐸᐩᓇ ᐃᐢᐸᐦᑖᐤ ᐁᑿ ᐯᔭᑯ ᒥᓯᐍ ᒫᒫᐏ, ᒥᓇ ᐊᔭᐘᐠ ᑲ ᐏᒋᐦᐃᐍᒋᐠ ᑭ ᐑᒋᐦᐃᐍᐘᐠ ᒫᑲ ᐁᑿ ᐯᔭᑯ ᑲ ᐃᑖᐱᒋᐠ᙮"
+  - "ᐊᐱᐦᐊᐤ ᐊᐘᓂᐦᐃᐠ ᐘᐢᑳᐦᐃᑲᓂᕽ ᒋᑲ ᐃᐢᐸᐦᑖᐤ, ᒥᓯᐍᐤᐦᐠ ᐁᑿ ᑲ ᓂᑲᓄᐍᐟ, ᒥᓇ ᑲᐢᑭᐦᑕ ᐃᐢᐱ ᐯᐦᑕᒧᐦᐠ ᒥᓇ ᐘᐸᒥᐦᐠ, ᒥᓇ ᑭᐸᐦᐊᒧᐤ ᑲ ᐸᐯᐦᐃᑲᑌᐠ ᐊᔭᒥᐦᒋᑫᐏᐣ᙮"
+  - "ᑭᐍᔭᐦᑖ ᓃᓱ ᒋᑲ ᓂᐢᑐ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᐯᔭᑯ ᐃᐢᐱᒋᐦᐃᐍᐏᐣᕽ, ᑕᐦᑭ ᑲᑭᔭᐤ ᑲ ᐃᐢᐱᒋᐦᐃᐍᒋᐠ ᑲ ᐸᐦᐱᐣ ᐃᐢᐱᐢᑯᓯᒋᐠ ᐁ ᐏᒋᐦᐃᐍᒋᐠ᙮"
+  - "ᐁᑿ ᑲᑿᒋᒧᐦᐃᑫᐏᓇ, ᐊᑭᐦᑕᓱᐏᓇ, ᒥᓇ ᐁᑿ ᑲ ᓴᑯᐦᐃᐟ᙮ ᒥᓯᓇᐦᐃᑲᐣ ᐯᐣᑯ ᑭ ᒥᐢᐠᐘᐦᐃᑲᓐ ᐃᐢᐸᐦᑖᐤ ᑲᑭᔭᐤ ᐁ ᒥᓯᐚᐦᑖᒋᐠ ᒥᓯᓇᐦᐃᑲᓇ᙮"
+  - "ᐁ ᓇᑲᑕᒧᐦᑖᐟ ᐊᐘ ᐸᐦᐱᐣ, ᐁ ᐃᑖᐱᐟ, ᒋᑲ ᐁ ᓂᐸᐟ ᒥᔼᓯᐣ᙮ ᐃᔭᐦᐊᐤ ᐊᐘ ᐅᑐᐢᑲᒧᐤ ᑲ ᐑᒋᐦᐊᐟ ᐊᐘ ᑲ ᓇᑕᐍᔭᐦᑕᐠ ᑲ ᐸᐦᐱᐣ ᐃᑖᐟ᙮"
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "ᑖᓂᐦᐃ ᐊᐘᓂᐦᐃᐠ ᒥᔼᓯᐘᐠ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᐣᕽ?"
+    a: "ᓇᒪᐘᐨ ᐯᔭᑯ ᑲ ᐃᐢᐸᐦᑖᐠ ᐊᑭᐦᑕᓱᐏᐣ, ᒥᓇ ᐊᓂᒪ ᐊᐘᓂᐦᐃᐠ, ᐊᓂᒪ ᐘᐢᑳᐦᐃᑲᐣ, ᒥᓇ ᑖᓂᐦᐃ ᐅᑐᐢᑲᒧᐘᐠ ᑲ ᐃᔭᐦᐊᒋᐠ ᐃᐢᐸᐦᑖᐤ᙮ ᒥᐦᒉᐟ ᒫᒫᐏ ᐅᑐᐢᑲᒧᐏᓇ ᐃᑌᐦᑕᒧᐘᐠ ᒋᒥᐢᐠᐘᐦᐠ ᐊᐘᓂᐦᐃᐠ ᒥᔼᐢᐸᐩᓇ, ᑕᐦᑭ ᑲᑭᔭᐤ ᐁ ᐘᐸᒥᐦᐊᒋᐠ, ᐁ ᐯᐦᑕᒋᐠ, ᒥᓇ ᐁ ᐏᒋᐦᐃᐍᒋᐠ, ᒫᑲ ᒥᓯᐍ ᒫᒫᐏ ᐊᔭᐘᐠ ᐯᔭᑯ ᑲ ᐃᑖᐱᒋᐠ᙮ ᑭᐢᐱᓐ ᒥᓯᐍ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᑫᔭᐣ, ᐊᐦᑕ ᐅᑐᐢᑲᒧᐘᐠ ᒋᑲ ᑲ ᐑᒋᐦᐃᐍᒋᐠ ᑲ ᐊᐱᒋᐠ ᐊᐘᓂᐦᐃᐠ ᒥᓇ ᑲ ᐏᒋᐦᐊᒋᐠ ᐯᔭᑯ ᒋᑲ ᓃᓱ ᐊᐘᓂᐦᐃᐠ᙮"
+  - q: "ᑖᓂᐢᐱ ᑭᑲ ᐃᐢᐱᒋᐦᐃᑫᓈᐤ ᒫᒫᐏ ᐊᐘᓂᐦᐃᐠ ᑲ ᐸᐦᐱᐣ ᐃᐢᐱᐢᑯᓯᒋᐠ?"
+    a: "ᑭᐍᔭᐦᑖ ᐊᔭᐘᐠ ᒋᑲ ᐯᔭᑯ ᐃᐢᐱ ᑲ ᐏᒋᐦᐃᐍᐟ ᑲᑭᔭᐤ ᐃᐢᐱᒋᐦᐃᐍᐏᐣᕽ᙮ ᒫᒫᐏ ᓂᑲᒧᐏᐣᕽ, ᐊᐘᓂᐦᐃᐠ ᓂᑲᒧᐘᐠ ᑲᑭᔭᐤ ᐃᑌᐍᐏᓇ, ᐊᐘᓂᐦᐃᐠ ᐸᐢᑯᐦᐊᒧᐘᐠ ᒋᑲ ᓂᑲᒧᐘᐠ ᐸᐦᐱᐣ, ᒥᓇ ᐊᐘᓂᐦᐃᐠ ᑕᐦᑯᓂᐦᐊᒪᐤ ᐋᐦᑎᒧᐏᐣ᙮ ᒥᓯᓇᐦᐃᑲᐣ ᐯᐣᑯᐦᐠ, ᐊᐘᓂᐦᐃᐠ ᒥᐢᑲᐤ ᐅᐦᐃ ᒥᓯᓇᐦᐃᑲᓇ ᒥᓇ ᐊᐘ ᑲ ᐑᒋᐦᐊᐟ ᐘᐸᐦᑌᐦᐊᐤ ᑯᑕᑲ᙮ ᐊᐱᐦᐊᐤ ᐊᐘᓂᐦᐃᐠ ᑲ ᓇᑕᐍᔭᐦᑕᒧᐦᐠ ᐊᔭᐦᑯ ᐑᒋᐦᐃᐍᐏᐣ ᒥᓯᐍᐤᐦᐠ ᐅᑐᐢᑲᒧᐤ ᒋᑲ ᑲ ᐑᒋᐦᐃᐍᐟ᙮"
+  - q: "ᑖᓂᐢᐱ ᑭᑲ ᒥᐢᐠᐘᐦᐃᑲᓐ ᒥᓯᓇᐦᐃᑲᐣ ᐯᐣᑯ ᐁᑿ ᑲ ᓴᑯᐦᐃᑖᑯᓯᐣ?"
+    a: "ᐃᑌᐤ ᑲᑭᔭᐤ ᒥᓯᓇᐦᐃᑲᓇ ᐃᐢᑯᐨ ᑲᑭᔭᐤ ᒥᓯᓇᐦᐃᑲᐣ ᑭᑲ ᒥᓯᐚᐤ, ᐁᑿ ᐊᐘ ᐯᔭᑯ ᑲ ᐃᐢᑯᓂᑲᓱᐟ᙮ ᐊᔭᒥᐦᒋᑫᐤ ᑲᑭᔭᐤ ᒥᓯᓇᐦᐃᑲᐣ ᐁ ᐘᐸᐦᑕᒪᐣ, ᒥᓇ ᐁᑿ ᒦᐦ ᒥᔦᐦᐃᐍᐏᐣ ᐅᐦᐃ ᑲ ᓴᑯᐦᐃᐟ ᒋᑲ ᒦᐦ ᑲᑭᔭᐤ ᐯᔭᑯ ᐊᐱᓯᐢ ᒥᔦᐦᐃᐍᐏᐣ᙮ ᐅᒪ ᐁ ᐃᐢᐸᐦᑖᐠ ᒫᒫᐏ ᐁ ᐘᐸᒥᐦᐃᑖᑯᓯᐣ ᒥᓇ ᐁ ᐊᔭᒥᐦᒋᑫᔭᐣ, ᐁᑿ ᐊᐘᐣ ᓂᑲᐣ ᑲ ᑭᓯᐦᑖᐟ᙮"
+  - q: "ᑭ ᑲ ᐊᐸᒋᐦᐋᐘᐠ ᒋᐦᐃ ᒥᐢᐠᐘᐦᐃᑫᐏᓇ ᒥᓯᐍ ᐘᐸᒥᐦᐃᑲᓂᕽ ᒫᒫᐏ?"
+    a: "ᐁᐦᐁ᙮ ᓂᐦᐃ ᒥᐢᐠᐘᐦᐃᑫᐏᓇ ᐃᐢᐱᒋᐦᐃᑫᐘᐠ ᐍᐸᒥᐦᐃᑲᓂᕽ, ᑭ ᑲ ᐸᐢᑭᓂᐦᐊᐘᐠ ᓇᐯᐢᑯᐸᕽ ᒋᑲ ᑕᐸᐢᑭᓯᑲᓂᕽ ᑲ ᐊᓴᒪᐦᑭᐟ ᑎᐱ ᒋᑲ ᒥᓯᐍ ᐘᐸᒥᐦᐃᑲᐣ᙮ Picture Bingo ᐊᔭᐤ ᒥᓯᓇᐦᐃᑲᓇ ᑲ ᑭ ᒪᓯᓇᐦᐃᑲᑌᑭ ᒥᓇ ᐘᐸᒥᐦᐃᑲᓂᕽ ᑲ ᐃᑌᐟ᙮ Finish the Saying ᒥᓇ Picture Pairs ᒥᓇ ᒥᔼᐢᐸᐩᓇ ᒥᓯᐍ ᐘᐸᒥᐦᐃᑲᓂᕽ ᐯᔭᑯ ᐊᐘ ᐁ ᑕᐸᐦᐊᒧᐦᐠ ᐅᐦᐃ ᒫᒫᐏ᙮"
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +51,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+ᐅᒪ ᐅᐦᐃ ᒪᓯᓇᐦᐃᑲᐣ ᐅᐦᐃ ᑲ ᐏᒋᐦᐊᒋᐠ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ, ᑲ ᐸᒥᐦᐃᐍᐏᑲᒥᑯᐦᐠ ᒫᒫᐏ ᐅᑐᐢᑲᒧᐘᐠ, ᒥᓇ ᑮᓯᑳᐏ ᐅᐦᒋ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᑲ ᓂᑲᓄᐍᒋᐠ᙮ ᐊᒋᒧᒪᑲᐣ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᑲ ᒥᔼᐢᐸᐩᑭ, ᐃᐢᐱ ᑲ ᑭᐍᔭᐦᑕᐦᐠ ᐘᐢᑳᐦᐃᑲᐣ, ᐃᐢᐱ ᑲ ᐃᐢᐱᒋᐦᐃᑫᔭᐣ ᐯᔭᑯ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ ᐅᐦᐃ ᐊᐘᓂᐦᐃᐠ ᑲ ᐸᐦᐱᐣ ᐃᐢᐱᐢᑯᓯᒋᐠ, ᒥᓇ ᐃᐢᐱ ᑲ ᐊᐸᒋᐦᐊᐟ ᓂᐦᐃ ᒥᓯᓇᐦᐃᑲᓇ ᑲ ᑭ ᒪᓯᓇᐦᐃᑲᑌᑭ ᐯᐣᑯ ᒥᓇ ᒥᓯᐍ ᐘᐸᒥᐦᐃᑲᓂᕽ ᒥᐢᐠᐘᐦᐃᑫᐏᓇ᙮ ᑲᑭᔭᐤ ᐅᑕ ᐁ ᐃᑌᐦᑕᒪᑲᐠ ᐃᐢᐸᐦᑖᐤ ᐅᐦᐃ ᒥᔪᐯᒪᑎᓯᐏᐣ, ᐑᒋᐦᐃᑐᐏᐣ, ᒥᓇ ᐅᐦᐃ ᓇᑕᐍᔭᐦᑕᒧᐏᐣ᙮ ᓇᒪᐘᐨ ᐅᑕ ᑲᑿᒋᒧᐦᐃᑫᐏᐣ᙮
 
-## What makes a group activity work in memory care?
+## ᑭᑭᓄᐦᐊᒫᑲᐣ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ ᑲ ᒥᔼᐢᐸᐩᐠ ᐅᐦᐃ ᑲ ᐸᒥᐦᐃᐍᐏᑲᒥᑯᐦᐠ?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+ᒥᔼᓯᐣ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ ᑲ ᑭᐢᑭᓂᑲᑌᐠ, ᒋᒥᐢᐠᐘᐦᐠ, ᑲ ᐍᐦᒋ ᐑᒋᐦᐃᑖᑭ ᑕᓱᑭᐣ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ, ᒥᓇ ᓇᒪᐘᐨ ᐊᔭᐦᑯᓯᐏᐣ᙮ Alzheimer's Association ᐅᐦᐃ [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) ᐃᑌᐤ ᐅᒪ ᑲ ᐃᐢᐸᐦᑖᐠ ᐑᒋᐦᐃᑐᐏᐣ ᐁ ᐑᒋᐦᐃᐟ ᐊᐘ ᐅᐦᐃ ᑲ ᒥᔪᐸᑭᐦᑖᐟ ᒥᓇ ᑲ ᓇᑕᐍᔭᐦᑕᐠ, ᒥᓇ ᐁ ᒦᐦᐃᐟ ᐅᐦᐃ ᓇᑕᐍᔭᐦᑕᒧᐏᐣ ᒥᓇ ᐅᐦᐃ ᑲ ᑭ ᐃᐢᐱᒋᐦᐃᐟ, ᐋᐱᐦᑕᐤ ᐁᑿ ᑭᐢᐱᓐ ᐊᔭᐦᑯᐢᐱᔭᐣ ᐁ ᐘᓂᐦᐃᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ᙮ ᐊᓂᒪ ᒫᑲ ᒪᓯᓇᐦᐃᑲᐣ ᐃᑌᐤ ᒥᐦᒉᐟ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᐊᐸᒋᐦᐃᑲᓂᐘᐣ ᐯᔭᑯ ᒋᑲ ᓃᓱ ᒥᓯᐍ ᒫᒫᐏ ᑮᓯᑳᐤ ᐯᔭᐠ, ᐁᑿ ᐊᐘᓂᐦᐃᐠ ᒥᐦᒉᐟ ᐯᔭᑯ ᐃᑖᐱᐘᐠ᙮
 
-That points to a few practical rules:
+ᐅᒪ ᐘᐸᐦᑌᐦᐃᑫᐤ ᐊᐱᓯᐢ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **ᑲ ᑭᐢᑭᓂᑲᑌᐠ ᒥᔼᐢᐸᐩᐣ ᐃᐢᐸᐦᑖᐤ ᐁᑿ ᐅᐢᑭ ᐁ ᐃᐢᐸᐦᑖᐠ᙮** ᓂᑲᒧᐏᓇ, ᐃᑌᐍᐏᓇ, ᒥᓯᓇᐦᐃᑲᓇ, ᒥᓇ ᐊᐱᓯᐢᐠ ᐅᐦᒋ ᐅᐦᐃ ᐅᐢᑭᓯᐏᓂᐘᕽ ᐍᐦᒋ ᓀᐦᐃᔭᐘᐠ ᐁ ᐑᒋᐦᐃᑖᑭ᙮
+- **ᒋᒥᐢᐠᐘᐦᐠ ᒥᔼᐢᐸᐩᐣ ᐃᐢᐸᐦᑖᐤ ᐁᑿ ᑭᓄᐍᐢᐠ᙮** ᑭᐍᔭᐦᑖ ᐃᐢᐸᐦᑖᐤ ᐊᓂᒪ ᐊᐘᓂᐦᐃᐠ ᑲ ᑭ ᓇᓈᑯᐦᐃᐟ, ᒥᓇ ᓇᑲᑕ ᐊᐱᓯᐢ ᐃᐢᐱ ᐯᔭᑯᐦᐠ᙮
+- **ᐁ ᐃᐢᐱᒋᐦᐃᐟ ᒥᔼᐢᐸᐩᐣ ᐃᐢᐸᐦᑖᐤ ᐁᑿ ᐯᔭᑯ ᐁ ᐃᑖᐱᐟ᙮** ᒦᐦ ᑲᑭᔭᐤ ᐊᐘ ᑭᑭᓄᐦᐊᒫᑲᐣ ᐁ ᑕᐦᑯᓂᐦᐠ, ᐁ ᑕᐸᐦᐊᒧᐦᐠ, ᐁ ᓇᑕᐍᓂᐦᐠ, ᒋᑲ ᐁ ᐃᑌᐟ᙮
+- **ᒥᐦᒉᐟ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ, ᐯᔭᑯ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ᙮** ᐊᐦᑕ ᐍᐦᒋ ᑲ ᓀᐦᐃᔭᐘᐠ ᒥᓇ ᑲ ᐊᔭᐦᑯᓯᐣ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ ᐁ ᐏᒋᐦᐃᐍᐟ᙮
+- **ᓇᒪᐘᐨ ᑲ ᓴᑯᐦᐃᐟ, ᓇᒪᐘᐨ ᐊᑭᐦᑕᓱᐏᓇ᙮** ᐅᐦᐃ ᑲ ᓴᑯᐦᐃᑖᑯᓯᐣ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᐊᐘᓂᐦᐃᐠ ᑭ ᐃᑌᐦᑕᒧᐦᐃᑯᐘᐠ ᐁ ᓇᑕᐘᐸᓯᒋᐠ᙮
 
-## How big should the group be?
+## ᑖᓂᐦᐃ ᐊᐘᓂᐦᐃᐠ ᑭᑲ ᐃᔭᐦᐊᐘᐠ ᒫᒫᐏ?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+ᒋᒥᐢᐠᐘᐦᐠ ᐊᐘᓂᐦᐃᐠ ᓇᐦᐃᔭᐘᐠ ᐍᐦᒋ ᓀᐦᐃᔭᐘᐠ ᒥᔼᐢᐸᐩᓇ᙮ Alzheimer's Association ᐃᑌᐤ ᐊᐘ ᑲ ᐘᐸᒥᐦᐟ ᒥᓯᐍ ᒫᒫᐏ ᐁ ᐊᔭᐦᑯᐢᐱᔭᐣ ᑭ ᒥᔼ ᐑᒋᐦᐃᐍᐤ ᒋᒥᐢᐠᐘᐦᐠ ᐊᐘᓂᐦᐃᐠ ᒫᒫᐏ᙮ ᓇᒪᐘᐨ ᐯᔭᑯ ᑲ ᐃᐢᐸᐦᑖᐠ ᐊᑭᐦᑕᓱᐏᐣ᙮ ᐊᓂᒪ ᐊᐘᓂᐦᐃᐠ, ᐊᓂᒪ ᐘᐢᑳᐦᐃᑲᐣ, ᒥᓇ ᑖᓂᐦᐃ ᐅᑐᐢᑲᒧᐘᐠ ᒥᓇ ᑲ ᐑᒋᐦᐃᐍᒋᐠ ᑲ ᐃᔭᐦᐊᒋᐠ ᐃᐢᐸᐦᑖᐤ᙮
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+ᒥᔼᓯᐣ ᐅᐦᐃ ᑲᑿᒋᒧᐦᐃᑫᐏᐣ: ᑭ ᑲ ᐘᐸᒥᐦᐋᐤ ᒋᐦᐃ ᑲᑭᔭᐤ ᐊᐘ ᐅᐦᐃ ᑲ ᓂᑲᓄᐍᐟ ᐅᐢᑭᐦᑯᐣ, ᑭ ᑲ ᐯᐦᑕᐤ ᒋᐦᐃ ᒥᔼᐢᐠ, ᒥᓇ ᑭ ᑲ ᐃᐢᐸᐦᑖᐤ ᒋᐦᐃ ᐊᐘ ᑲ ᐑᒋᐦᐊᐟ ᐯᔭᐠ ᒋᒥᐢᐠᐘᐦᐠ ᐃᐢᑯᓂᑲᓂᐘ? ᑭᐢᐱᓐ ᓇᒪᐘᐨ, ᐸᐦᑭᓂ ᒫᒫᐏ ᐊᐘᓂᐦᐃᐠ, ᐊᐦᑕ ᒥᓇ ᑲ ᐑᒋᐦᐃᐍᒋᐠ, ᒋᑲ ᐃᑐᐦᑖ ᒋᒥᐢᐠᐘᐦᐠ ᐘᐢᑳᐦᐃᑲᓂᕽ᙮
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+ᑭᐢᐱᓐ ᒥᓯᐍ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᑫᔭᐣ, ᑖᐱᐢᑯᐨ ᑮᓯᑳᐏ ᒫᒫᐏ ᓂᑲᒧᐏᐣ, ᐊᐱᐦᐊᐤ ᐅᑐᐢᑲᒧᐘᐠ ᒥᓇ ᑲ ᐑᒋᐦᐃᐍᒋᐠ ᐊᐘᓂᐦᐃᐠ ᑖᐦᑕᐘᕽ, ᐁᑿ ᐊᐢᑭᐦᑎᑯᕽ ᐁ ᓂᐸᐘᒋᐠ᙮
 
-## How should I set up the room and seating?
+## ᑖᓂᐢᐱ ᓂᑲ ᑭᐍᔭᐦᑖᐣ ᐘᐢᑳᐦᐃᑲᐣ ᒥᓇ ᐊᐱᐏᐣ?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **ᐘᐢᑳᐦᐃᑲᐣ ᒋᑲ ᐃᐢᐸᐦᑖᐤ᙮** ᐊᓂᒪ ᑭᐍᔭᐦᑕᐦᐃᑫᐏᐣ ᐃᑌᐤ ᒫᒫᐏ ᐊᔭᒥᐦᒋᑫᐏ ᐘᐢᑳᐦᐃᑲᐣ ᒥᔼᐢᐸᐩᐣ ᑕᐦᑭ ᑲᑭᔭᐤ ᐊᐘᓂᐦᐃᐠ ᐁ ᐊᐱᒋᐠ ᐘᐢᑳᐦᐃᑲᓂᕽ, ᒥᓇ ᓇᒪᐘᐨ ᐁ ᐸᐯᐦᐃᑲᑌᐠ ᐅᑖᐢᐱᕽ᙮
+- **ᑲ ᓂᑲᓄᐍᐟ ᒥᓯᐍᐤᐦᐠ ᒥᓇ ᒥᐢᑭᓯᕽ ᐁ ᐃᐢᐸᐦᑖᐟ᙮** ᐊᐱ ᑭᐢᐱᓐ ᑭ ᑭ ᐃᐢᐸᐦᑖᐣ, ᐁᑿ ᐁ ᓂᐸᐣ᙮
+- **ᓂᐢᑕᒼ ᐁ ᐯᐦᑕᒧᐦᐠ ᒥᓇ ᐁ ᐘᐸᒥᐦᐠ᙮** ᐊᐱᐦᐊᐤ ᐊᐘᓂᐦᐃᐠ ᑲ ᐊᔭᐦᑯᓯᐟ ᐁ ᐯᐦᑕᒧᐦᐠ ᒥᓯᐍᐤᐦᐠ ᑲ ᓂᑲᓄᐍᐟ, ᐅᐦᐃ ᒥᔪ ᐃᐢᐸᕽ᙮ ᑭᐢᑭᓭᐦ ᒥᐢᑭᓯᐦᑯᐣ ᒥᓇ ᐯᐦᑕᒧᐦᐃᑲᓇ ᐁ ᐊᔭᐦᑎᑭ᙮ Alzheimer's Association ᐃᑌᐤ ᐘᐸᒥᐦᐃᐍᐏᐣ ᒥᓇ ᐯᐦᑕᒧᐦᐃᑲᓇ ᐊᔭᐦᑯᐢᐱᔭᐣ ᑭ ᐃᐢᐸᐦᑖᐘᐣ ᐊᔭᒥᐦᒋᑫᐏᐣ᙮
+- **ᐘᐢᑕᐤ ᐅᑖᐢᐱᕽ ᐊᐘᓂᐦᐃᐠ ᐁ ᐃᔭᐦᐊᐟ, ᐁᑿ ᐅᑖᐢᐱᕽ ᑭᔭ᙮** ᐁᑿ ᐊᐱᐦᐊᐤ ᐊᐘ ᐁ ᐃᑖᐱᐟ ᑲ ᐘᐸᒥᐦᐟ ᐘᐢᑕᐤ ᑮᓯᑲᐣ᙮
+- **ᑭᐸᐦᐊᒧᐤ ᑎᐱ ᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ ᑲ ᐊᔭᒥᐦᒋᑫᒪᑲᐠ᙮** Alzheimer's Association ᐃᑌᐤ ᐁ ᑭᐸᐦᐊᒪᐣ ᑯᑕᐠ ᐸᐯᐦᐃᑲᓂᐘ ᐃᐢᐱ ᓂᑲᒧᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ᙮
+- **ᐯᔭᑯ ᐊᔭᒥᐦᒋᑫᐏᐣ ᐯᔭᐠ᙮** ᒫᒫᐏ ᐊᔭᒥᐦᒋᑫᐏᐣ ᐊᔭᐦᑯᐢᐱᔭᐣ ᐅᐦᐃ ᐊᐘᓂᐦᐃᐠ ᑲ ᐘᓂᐦᐃᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒥᓇ ᐊᐘᓂᐦᐃᐠ ᑲ ᐊᔭᐦᑯᓯᐟ ᐁ ᐯᐦᑕᒧᐦᐠ, ᑖᐱᐢᑯᐨ ᐁ ᐃᑌᐟ Alzheimer's Association ᐅᐦᐃ [ᑮᓯᑳᐏ ᒫᒫᐏ ᐅᐦᐃ ᑭᐍᔭᐦᑕᐦᐃᑫᐏᐣ](https://www.alz.org/help-support/caregiving/holidays)᙮
+- **ᑲ ᐍᐦᒋ ᓇᑲᑕᒧᐦᑖᑭ ᒥᓇ ᑲ ᐸᐦᐱᐣ ᐃᑖᐟ᙮** ᑲᑭᔭᐤ ᐊᐘ ᑲ ᓇᑕᐍᔭᐦᑕᐠ ᐁ ᓇᑲᑕᒧᐦᑖᐟ ᐍᐦᒋ ᑭ ᓇᑲᑕᒧᐦᑖᐤ, ᐁᑿ ᐊᐘ ᐅᑐᐢᑲᒧᐤ ᑲ ᐑᒋᐦᐊᐟ᙮
 
-## Group activity ideas
+## ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᑲ ᑭ ᐃᐢᐱᒋᐦᐃᑫᔭᐣ
 
-### Picture bingo
+### ᒥᓯᓇᐦᐃᑲᐣ ᐯᐣᑯ (Picture Bingo)
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+ᒥᓯᓇᐦᐃᑲᐣ ᐯᐣᑯ ᐊᐸᒋᐦᐃᑲᓂᐘᐣ ᐊᑭᐦᑕᓱᐏᓇ ᐅᐦᒋ ᑲ ᐘᐸᒥᐦᐃᑲᑌᑭ ᒥᓯᓇᐦᐃᑲᓇ, ᑖᐱᐢᑯᐨ ᒥᓂᐦᑿᒋᑲᐣ, ᐊᑎᒼ, ᒋᑲ ᐘᐢᑳᐦᐠ, ᐁᑿ ᐊᐘ ᓇᒪᐘᐨ ᐁ ᓇᑕᐍᔭᐦᑕᐠ ᑭᓄᐍᐢ ᐊᑭᐦᑕᓱᐏᐣ ᒋᑲ ᐊᐱᓯᐢ ᒪᓯᓇᐦᐃᑲᐣ᙮
 
-**How to run it:**
+**ᐃᐢᐱ ᑲ ᐃᐢᐱᒋᐦᐃᑫᔭᐣ:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. ᒪᓯᓇᐦ ᐯᔭᑯ ᒥᓯᓇᐦᐃᑲᐣ ᑲᑭᔭᐤ ᐊᐘ ᐅᐦᒋ ᓂᐦᐃ [Picture Bingo](/games/picture-bingo/) ᒪᓯᓇᐦᐃᑲᓂᕽ ᐊᐸᒋᐦᐃᑲᓐ Print ᐅᐦᒋ᙮ ᐊᔭᐦᑯᐢᑭᐣ ᒪᓯᓇᐦᐃᑲᐣ ᐍᐦᒋ ᓀᐦᐃᔭᐘᐠ ᒥᔼᐢᐸᐩᐣ ᐁ ᑕᐦᑯᓂᐦᐊᒪᐣ᙮
+2. ᒦᐦ ᒥᐦᒉᐟ ᑲ ᑭ ᑕᐦᑯᓂᐦᐊᒪᐣ ᐍᐦᒋ ᓀᐦᐃᔭᐘᐠ, ᑖᐱᐢᑯᐨ ᐸᑲᐣ ᐱᓯᐢᐠ, ᒥᓂᐦᑿᒋᑲᐣ ᐅᐢᑎᑿᐣ, ᒋᑲ ᒥᓯᓇᐦᐃᑲᐣ ᑲ ᑭᓯᑭᐦᐊᒪᐣ᙮
+3. ᐊᐸᒋᐦ ᐘᐸᒥᐦᐃᑲᓂᕽ ᑲ ᐃᑌᐟ ᑎᐱ ᒋᑲ ᒥᓯᐍ ᐘᐸᒥᐦᐃᑲᓂᕽ ᑕᐦᑭ ᑲᑭᔭᐤ ᐁ ᐘᐸᐦᑕᒧᐦᐠ ᒥᓯᓇᐦᐃᑲᐣ ᐃᐢᐱ ᐃᑌᔭᐣ ᐅᐦᐃ ᐃᐢᐸᐩᐏᐣ᙮
+4. ᐯᔭᑯᐦ ᐸᐦᐱᐣ ᑲᑭᔭᐤ ᒥᓯᓇᐦᐃᑲᐣ, ᒥᓇ ᑲᑿᒋᒧᐤ ᒋᒥᐢᐠᐘᐦᐠ ᐊᔭᒥᐦᒋᑫᐏᐣ: «ᐊᐘ ᒋᐦᐃ ᓇᑕᐘ ᐊᒋᒧᐤ ᐊᑎᒼ ᑲ ᑭᐢᑭᒪᐟ?» ᒋᑲ «ᑭᑭᓄᐦᐊᒫᑲᐣ ᐅᒪ ᐁ ᐘᐸᐦᑕᒪᐣ?»
+5. ᐃᑌ ᐃᐢᑯᐨ ᑲᑭᔭᐤ ᒥᓯᓇᐦᐃᑲᐣ ᑭᑲ ᒥᓯᐚᐤ᙮ ᑲᑭᔭᐤ ᑭᓯᐦᑖᐘᐠ᙮
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**ᐃᐢᐱ ᑲ ᐃᐢᐱᒋᐦᐃᑫᔭᐣ:** ᐊᐸᒋᐦ ᐊᐱᓯᐢ ᒋᒥᐢᐠᐘᐦᐠ ᓵᐤ ᐅᐦᐃ ᐊᐘᓂᐦᐃᐠ ᑲ ᐘᐸᒥᐦᐊᒋᐠ ᒥᓯᐍ ᒥᓯᓇᐦᐃᑲᐣ ᐁ ᒥᐦᒉᑎᐣ᙮ ᐊᐘ ᑲ ᐑᒋᐦᐊᐟ ᑭ ᐘᐸᐦᑌᐦᐊᐤ ᒥᓯᓇᐦᐃᑲᐣ ᑲ ᐃᐢᐸᐦᑖᐠ ᐅᐦᐃ ᐊᐘ ᑲ ᓇᑕᐍᔭᐦᑕᐠ᙮ ᐊᐘᓂᐦᐃᐠ ᑭ ᒥᔪᐸᑭᐦᑖᐤ ᐁ ᑕᐦᑯᓂᐦᐠ ᒥᓯᓇᐦᐃᑲᐣ ᒥᓇ ᐁ ᐘᐸᐦᑌᐦᐊᐟ ᒫᒫᐏ᙮
 
-### Sing-alongs
+### ᒫᒫᐏ ᓂᑲᒧᐏᓇ
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+ᓂᑲᒧᐏᐣ ᐯᔭᑯ ᐅᐦᐃ ᒥᐦᒉᐟ ᑲ ᒥᔪᐸᑭᐦᑖᒋᐠ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ᙮ Alzheimer's Association ᐃᑌᐤ ᐋᐱᐦᑕᐤ ᐁᑿ ᐃᐢᑯᓂᑲᓂᕽ ᐊᔭᐦᑯᐢᐱᔭᐣᕽ, ᐊᐘ ᑭ [ᐸᐢᑯᐦᐊᒧᐤ ᒋᑲ ᓂᑲᒧᐤ ᓂᑲᒧᐏᐣ ᐅᐦᒋ ᐅᐢᑭᓯᐏᐣ](https://www.alz.org/help-support/caregiving/daily-care/art-music)᙮
 
-**How to run it:**
+**ᐃᐢᐱ ᑲ ᐃᐢᐱᒋᐦᐃᑫᔭᐣ:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- ᓇᑕᐍᓂ ᓂᑲᒧᐏᓇ ᐊᐘᓂᐦᐃᐠ ᑲ ᐅᐦᐱᑭᐦᐋᒋᐠ ᐅᐦᒋ, ᐁᑿ ᐅᐦᐃ ᑲ ᓂᑲᓄᐍᐟ ᐁ ᒥᔪᐸᑭᐦᑖᐟ᙮ ᑲᑿᒋᒧ ᐅᐦᐃ ᐅᑖᐘᓯᒪᐘ ᑭᑭᓄᐦᐊᒫᑲᐣ ᐊᐘ ᑭᑭᓄᐦᐊᒫᑲᐣ ᐁ ᒥᔪᐸᑭᐦᑖᐟ᙮
+- ᐊᐸᒋᐦ ᓂᑲᒧᐏᐣ ᐁᑿ ᐊᑖᐍᐏᓇ ᑲ ᐸᐯᐦᐃᑲᑌᑭ, ᐊᓂᒪ Association ᐁ ᐃᑌᐟ ᐊᔭᐦᑯᐢᐱᔭᐣ ᑭ ᐘᓂᐦᐃᑯᐦᐃᑯᐘᐠ᙮
+- ᒪᓯᓇᐦ ᐃᑌᐍᐏᓇ ᒥᓯᐍ ᒪᓯᓇᐦᐃᑲᓂᕽ ᐅᐦᐃ ᑲ ᐃᑖᐱᒋᐠ ᑲ ᑭ ᐊᔭᒥᐦᑖᒋᐠ, ᒫᑲ ᐁᑿ ᓇᑕᐍᔭᐦᑕᒧ᙮
+- ᒦᐦ ᐋᐦᑎᒧᐏᓇ ᑲ ᑭ ᐸᐯᐦᐃᑲᑌᑭ, ᐸᐢᑯᐦᐊᒧᐦᐃᑲᓇ, ᒋᑲ ᐊᔭᐱᐦᑯᓇ ᐁ ᐍᐱᓂᐦᐊᒪᐣ᙮
+- ᑭᐢᑭᓭᐦ ᐁ ᐸᐢᑯᐦᐊᒧᐦᐠ ᒥᓇ ᐁ ᐋᐦᑎᒧᐦᐠ, ᒥᓇ ᒥᔪ ᐃᐢᐸᐦᑖ ᐸᐯᐦᐃᑲᐣ᙮
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**ᐃᐢᐱ ᑲ ᐃᐢᐱᒋᐦᐃᑫᔭᐣ:** ᐊᐘᓂᐦᐃᐠ ᓂᑲᒧᐘᐠ ᑲᑭᔭᐤ ᐃᑌᐍᐏᓇ, ᐊᐘᓂᐦᐃᐠ ᓂᑲᒧᐘᐠ ᐸᐦᐱᐣ, ᐊᐘᓂᐦᐃᐠ ᐸᐢᑯᐦᐊᒧᐤ ᐅᐢᑎᐟ, ᒥᓇ ᐊᐘᓂᐦᐃᐠ ᐯᔭᑯ ᐯᐦᑕᒧᐤ᙮ ᑲᑭᔭᐤ ᐅᐦᐃ ᒥᔼᓯᓇ᙮ ᐊᔭᐘᐠ ᒥᓇ ᐅᐦᐃ [ᓂᑲᒧᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᐅᐦᐃ ᒪᓯᓇᐦᐃᑲᐣ](/activities/music/)᙮
 
-### Reminiscence groups
+### ᐊᒋᒧᐏ ᒫᒫᐏ
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+ᐊᒋᒧᐏ ᒫᒫᐏ ᒫᐘᐱᐦᐃᑲᓂᐘᐣ ᐯᔭᑯ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ, ᑖᐱᐢᑯᐨ ᑭᐢᑭᓄᐦᐊᒫᑫᐏ ᑮᓯᑳᐘ, ᓂᑲᐣ ᐅᑖᐸᓈᐢᑿ, ᐅᑖᐱᐦᑫᐏᑲᒥᑯᐘ, ᒋᑲ ᓃᐱᐣ, ᐊᐸᒋᐦᐃᑲᓂᐘᐣ ᒥᓯᓇᐦᐃᑲᓇ, ᐊᐱᓯᐢᐠ, ᒥᓇ ᓂᑲᒧᐏᐣ᙮ ᐅᒪ ᐃᐢᐸᐦᑖᐤ ᒥᔪ ᐊᔭᒥᐦᒋᑫᐏᐣ, ᐁᑿ ᑲᑿᒋᒧᐦᐃᑫᐏᐣ ᑲ ᑕᐸᐢᑭᓯᐣ᙮
 
-**How to run it:**
+**ᐃᐢᐱ ᑲ ᐃᐢᐱᒋᐦᐃᑫᔭᐣ:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. ᓇᑕᐍᓐ ᐯᔭᑯ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ ᒥᓇ ᐯᐦᑖ ᐊᐱᓯᐢ ᐊᐱᓯᐢᐠ ᑲ ᑭ ᑕᐦᑯᓂᐦᐊᒪᐣ: ᑲ ᐊᐸᒋᐦᐃᑲᑌᐠ ᒪᒋᐦᐊᒧᐦᐃᑲᐣ, ᐸᐢᑭᓯᑲᐣ ᐊᐢᑎᐠ, ᐊᐢᑐᑲᐣ, ᒋᑲ ᑲᓇᐘᐢᑯᒋᑲᐣ ᒪᓯᓇᐦᐃᑲᐣ᙮
+2. ᒦᐦ ᐯᔭᑯ ᐊᐱᓯᐢ ᐯᔭᐠ᙮ ᑲᑿᒋᒧ ᐁ ᐸᐢᑭᓯᐣ ᑲᑿᒋᒧᐦᐃᑫᐏᓇ: «ᐊᒋᒧ ᐅᒪ ᐅᐦᒋ», «ᑭᑭᓄᐦᐊᒫᑲᐣ ᐁ ᐘᐸᐦᑕᒪᐣ?» «ᐊᐘᓐ ᐊᐸᒋᐦᐋᐤ ᐅᒪ ᑲ ᐃᐢᐸᐦᑖᐠ?»
+3. ᑕᐦᑯᓂᐦ ᑲᑭᔭᐤ ᓇᐢᑯᒧᐏᐣ᙮ ᐁᑿ ᒦᓇ ᑯᑕᐠ ᐊᑭᐦᑕᓱᐏᐣ ᒋᑲ ᑕᐸᐍᐏᐣ᙮
+4. ᐃᑐᐦᑖ ᐊᔭᒥᐦᒋᑫᐏᐣ ᐅᐦᐃ ᒥᔪ ᑭᐢᑭᓯᐏᓇ᙮ ᐊᓂᒪ ᑭᐍᔭᐦᑕᐦᐃᑫᐏᐣ ᐃᑌᐤ ᑲ ᐸᒥᐦᐃᐍᒋᐠ ᑭ ᐃᑐᐦᑖᐘᐠ ᐊᒋᒧᐏᐣ ᐅᐦᐃ ᒥᔪ ᑭᐢᑭᓯᐏᓇ ᒥᓇ ᐁᑿ ᐅᐦᐃ ᑲ ᑭ ᒥᐦᑯᑖᒋᑲᑌᑭ᙮
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) ᒦᐦᐃᑫᐤ ᒥᓯᓇᐦᐃᑲᓇ ᑲ ᑭ ᒪᓯᓇᐦᐃᑲᑌᑭ ᐊᔭᐘᐠ ᐸᐢᑭᓯᓇ ᑲᑿᒋᒧᐦᐃᑫᐏᓇ ᐅᐦᒋ ᐯᔭᑯ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ ᑲ ᒥᔼᐢᐸᐩᑭ ᐅᐦᐃ ᒫᒫᐏ ᐊᔭᒥᐦᒋᑫᐏᐣ᙮ ᐊᔭᐘᐠ ᒥᓇ ᐅᐦᐃ [ᐊᒋᒧᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᐅᐦᐃ ᒪᓯᓇᐦᐃᑲᐣ](/activities/reminiscence/)᙮
 
-### Finish the saying
+### ᑭᓯᐦᑖ ᐃᑌᐍᐏᐣ (Finish the Saying)
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+ᑲ ᑭᐢᑭᓂᑲᑌᑭ ᐃᑌᐍᐏᓇ («A penny saved is a penny…») ᑲᑭᔭᐤ ᐊᐘ ᐁ ᐃᑌᐟ ᐃᐢᑯᓂᑲᓂᕽ ᒫᒫᐏ ᐑᒋᐦᐃᐍᐤ᙮ ᐘᐸᐦᑌᐦ [Finish the Saying](/games/finish-the-saying/) ᒥᓯᐍ ᐘᐸᒥᐦᐃᑲᓂᕽ ᒥᓇ ᒫᒫᐏ ᓇᐢᑯᒧᐘᐠ ᐯᔭᑯ ᐅᐦᒋ᙮ ᐊᔭᐤ ᐊᔭᒥᐦᒋᑫᐏ ᑲᑿᒋᒧᐦᐃᑫᐏᐣ ᑲᑭᔭᐤ ᐃᑌᐍᐏᐣ ᐸᐦᐱᐣ᙮ ᑭᐢᐱᓐ ᓇᒪᐘᐨ ᐊᐘ ᐃᑌᐤ ᐃᐢᑯᓂᑲᐣ, ᐘᐸᐦᑌᐦ ᒥᓇ ᐃᑐᐦᑖ ᑯᑕᐠ᙮ ᓇᒪᐘᐨ ᑕᐸᐢᑭᓯᐣ ᒋᑲ ᓇᒪᐘᐨ ᓇᑕᐘᐸᓯᐣ᙮
 
-### Large-print word search, together
+### ᒥᓯᐍ ᒪᓯᓇᐦᐃᑲᐣ ᐃᑌᐍᐏ ᓇᑕᐍᓂᐦᐃᑫᐏᐣ, ᒫᒫᐏ
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+ᐘᐸᐦᑌᐦ ᒥᓯᐍ ᒪᓯᓇᐦᐃᑲᐣ [Word Search](/games/word-search/) ᐘᐸᒥᐦᐃᑲᓂᕽ ᒥᓇ ᓇᑕᐍᓂᐦ ᐃᑌᐍᐏᓇ ᒫᒫᐏ, ᒋᑲ ᒪᓯᓇᐦ ᐅᐦᐃ ᑲ ᒥᔪᐸᑭᐦᑖᒋᐠ ᐁ ᐃᐢᐱᒋᐦᐃᒋᐠ ᐊᑐᐢᐱᐏᐣᕽ᙮ ᐃᑌᐍᐏᓇ ᐯᔭᑯ ᐃᑐᐦᑌᐘᐠ ᐊᐢᑭᐦᑎᑯᕽ ᒥᓇ ᓇᒥᐦᑭᕽ᙮
 
-### Gentle movement
+### ᓀᐦᐃᔭᐘᐠ ᐋᐦᑎᒧᐏᐣ
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+ᐊᐱᐏᐣᕽ ᑲ ᓵᓵᐸᐱᓂᑲᑌᐠ, ᐁ ᒦᑎᐦᐃᑖᑯᓯᐣ ᔮᐢᑭᓂᐠ ᐸᑲᐣ ᒋᑲ ᐸᓯᐢᐠ, ᒋᑲ ᐊᐱᐏᐣᕽ ᓂᒥᐦᐃᑐᐏᐣ ᐊᔭᐘᐠ ᑲ ᑭᐢᑭᓂᑲᑌᑭ ᓂᑲᒧᐏᐣ᙮ ᐘᐸᐦᑌᐦ ᑲᑭᔭᐤ ᐋᐦᑎᒧᐏᐣ ᐁᑿ ᐁ ᐊᒋᒧᔭᐣ᙮
 
-### Sorting and matching at the table
+### ᐊᑐᐢᐱᐏᐣᕽ ᓇᑕᐍᓂᐦᐃᑫᐏᐣ ᒥᓇ ᓇᐢᐸᐩᐦᐃᑫᐏᐣ
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+ᒋᒥᐢᐠᐘᐦᐠ ᐊᑐᐢᐱᐏᓇ ᓂᐢᑐ ᒋᑲ ᓀᐓ ᐊᐘᓂᐦᐃᐠ ᑭ ᓇᑕᐍᓂᐦᐃᑯᐘᐠ ᒥᓯᓇᐦᐃᑲᓇ, ᐊᔭᐱᐦᑯᓇ, ᒋᑲ ᒦᒋᓱᐏ ᐊᐱᓯᐢᐠ ᒫᒫᐏ᙮ ᐘᐸᒥᐦᐃᑲᓂᕽ, [Picture Pairs](/games/picture-pairs/) ᑭ ᒥᐢᐠᐘᐦᐃᑲᐣ ᒥᓯᓇᐦᐃᑲᓇ ᐁ ᐘᐸᒥᐦᐃᑲᑌᑭ, ᐯᔭᑯ ᐊᐘ ᐁ ᑕᐸᐦᐊᒧᐦᐠ ᒥᓇ ᐊᑐᐢᐱᐏᐣ ᐁ ᐊᔭᒥᐦᒋᑫᒪᑲᐠ ᑲᑭᔭᐤ ᒥᓯᓇᐦᐃᑲᐣ᙮
 
-## How do I use your games on a big screen?
+## ᑖᓂᐢᐱ ᓂᑲ ᐊᐸᒋᐦᐋᐘᐠ ᒥᐢᐠᐘᐦᐃᑫᐏᓇ ᒥᓯᐍ ᐘᐸᒥᐦᐃᑲᓂᕽ?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+ᓂᐦᐃ ᒥᐢᐠᐘᐦᐃᑫᐏᓇ ᐃᐢᐱᒋᐦᐃᑫᐘᐠ ᐍᐸᒥᐦᐃᑲᓂᕽ, ᑭ ᑲ ᐊᐸᒋᐦᐋᐘᐠ ᑎᐱ ᒋᑲ ᒥᓯᐍ ᐘᐸᒥᐦᐃᑲᓂᕽ ᐁᑿ ᑭᑭᓄᐦᐊᒫᑲᐣ ᐁ ᐊᐦᑕᔭᐣ ᐁ ᐱᓯᐢᑭᓯᓇᐦᐊᒪᐣ᙮
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. ᐸᐢᑭᓐ ᐊᓂᒪ ᒥᐢᐠᐘᐦᐃᑫᐏᐣ ᓇᐯᐢᑯᐸᕽ ᒋᑲ ᑕᐸᐢᑭᓯᑲᓂᕽ ᑲ ᐊᓴᒪᐦᑭᐟ ᐘᐸᒥᐦᐃᑲᓂᕽ ᐱᒋᐦᑕᐦᐃᑲᓐ ᒋᑲ ᐁ ᐃᓯᓇᐦᐊᒪᐣ᙮
+2. ᒥᓯᐍᐦᑖ ᐘᐸᒥᐦᐃᑲᐣ ᒥᓇ ᑭᐍᔭᐦᑖ ᐸᐯᐦᐃᑲᐣ ᒥᔪ ᐃᐢᐸᐦᑖᐤ᙮
+3. ᐯᔭᑯ ᐊᐘ ᑲ ᓂᑲᓄᐍᐟ ᑕᐸᐦᐊᒧᐤ ᒥᓇ ᒫᒫᐏ ᐃᑌᐘᐠ ᐅᐦᐃ ᑲ ᓇᑕᐍᓂᐦᐊᒋᐠ᙮ ᒋᑲ ᒦᐦ ᑕᐸᐢᑭᓯᑲᐣ ᐊᐘ ᑲ ᓇᑕᐍᔭᐦᑕᐠ ᐁ ᐃᐢᐱᒋᐦᐃᐟ᙮
+4. ᐯᔭᑯᐦ ᐃᐢᐱ ᒫᒫᐏ ᑲ ᑭᓯᐦᑖᒋᐠ᙮ ᒥᐢᐠᐘᐦᐃᑫᐏᓇ ᓇᒪᐘᐨ ᐊᔭᐘᐤ ᐊᑭᐦᑕᓱᐏᐣ, ᐊᑭᐦᑕᓱᐏᐣ, ᒋᑲ ᓇᑕᐍᔭᐦᑕᒧᐏᐣ ᐁ ᑭᓯᐦᑖᑭ᙮
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) ᒥᓇ [Conversation Cards](/games/conversation-cards/) ᓇᐦᐃᔭᐘᐠ ᒥᔼᐢᐸᐩᓇ ᐅᐦᐃ ᒫᒫᐏ᙮ ᐘᐸᐦᑕ ᑲᑭᔭᐤ ᐅᐦᐃ [ᒥᐢᐠᐘᐦᐃᑫᐏ ᒪᓯᓇᐦᐃᑲᓂᕽ](/games/)᙮
 
-## How do I adapt one activity for mixed abilities?
+## ᑖᓂᐢᐱ ᓂᑲ ᐃᐢᐱᒋᐦᐃᑫᓈᐤ ᐯᔭᑯ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ ᐅᐦᐃ ᐊᐘᓂᐦᐃᐠ ᑲ ᐸᐦᐱᐣ ᐃᐢᐱᐢᑯᓯᒋᐠ?
 
-Plan at least three ways to join every activity.
+ᑭᐍᔭᐦᑖ ᒪᐘᐨ ᓂᐢᑐ ᐃᐢᐱ ᑲ ᐏᒋᐦᐃᐍᐟ ᑲᑭᔭᐤ ᐃᐢᐱᒋᐦᐃᐍᐏᐣᕽ᙮
 
-| Activity | More independent | Some support | Most support |
+| ᐃᐢᐱᒋᐦᐃᐍᐏᐣ | ᐊᔭᐘᐠ ᐑᒋᐦᐃᑐᐏᐣ | ᐊᐱᓯᐢ ᐑᒋᐦᐃᑐᐏᐣ | ᒥᐦᒉᐟ ᐑᒋᐦᐃᑐᐏᐣ |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| ᒥᓯᓇᐦᐃᑲᐣ ᐯᐣᑯ | ᒥᐢᑲᐤ ᒥᓇ ᐊᐦᑖᐤ ᐅᐦᐃ ᒥᓯᓇᐦᐃᑲᓇ | ᐊᐘ ᑲ ᐑᒋᐦᐊᐟ ᐘᐸᐦᑌᐦᐊᐤ; ᐊᐘ ᐊᐦᑖᐤ | ᑕᐦᑯᓂᐦᐊᒪᐤ ᒥᓯᓇᐦᐃᑲᐣ; ᐯᐦᑕᒧᐤ ᒥᓇ ᐘᐸᒥᐦᐊᒪᐤ |
+| ᒫᒫᐏ ᓂᑲᒧᐏᐣ | ᓂᑲᒧᐤ, ᓇᑕᐍᓂᐦᐊᒪᐤ ᓂᑲᒧᐏᐣ | ᓂᑲᒧᐤ ᐸᐦᐱᐣ, ᐸᐢᑯᐦᐊᒧᐤ, ᐊᐸᒋᐦᐊᐤ ᐋᐦᑎᒧᐏᐣ | ᐯᐦᑕᒧᐤ, ᑕᐦᑯᓂᐦᐊᒪᐤ ᐊᔭᐱᐦᑯᐣ, ᐸᐢᑯᐦᐊᒧᐤ ᒥᐢᐱᐨ |
+| ᐊᒋᒧᐏᐣ | ᐊᒋᒧᐤ ᐊᒋᒧᐏᓇ | ᓇᐢᑯᒧᐤ ᐁᐦᐁ ᒋᑲ ᓇᒪᐘᐨ ᒋᑲ ᐘᐸᐦᑌᐦᐊᒪᐤ | ᑕᐦᑯᓂᐦᐊᒪᐤ ᒥᓇ ᒧᒋᐢᐸᐦᑖᒪᐤ ᐊᐱᓯᐢ |
+| ᐃᑌᐍᐏ ᓇᑕᐍᓂᐦᐃᑫᐏᐣ | ᐃᐢᐱᒋᐦᐃᑫᐤ ᐅᐦᐃ ᒪᓯᓇᐦᐃᑲᐣ | ᓇᑕᐍᓂᐦᐊᒪᐤ ᐃᑌᐍᐏᓇ ᒥᓯᐍ ᐘᐸᒥᐦᐃᑲᓂᕽ ᐊᔭᐘ ᑲ ᐑᒋᐦᐊᐟ | ᐯᐦᑕᒧᐤ ᐃᐢᐱ ᐃᑌᐍᐏᓇ ᐁ ᐊᔭᒥᐦᑖᑭ |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+ᐅᐦᐃ ᐊᐘᓂᐦᐃᐠ ᐃᐢᑯᓂᑲᓂᕽ ᐁ ᐊᔭᐦᑯᐢᐱᔭᐣ ᐁ ᐘᓂᐦᐃᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ, NHS ᐃᑌᐤ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ ᓇᐦᐃᔭᐘᐠ ᑭ ᓀᐦᐃᔭᐘᐠ ᐍᐦᒋ ᒥᔼᓯᓇ ᒥᓇ ᑲ ᐃᑖᐱᑕᒧᐦᑖᑭ ᐅᐦᐃ ᑲ ᒧᒋᐢᐸᐦᑖᑭ, ᑖᐱᐢᑯᐨ ᓂᑲᒧᐏᐣ, ᐊᐱᓯᐢᐠ ᑲ ᑭ ᑕᐦᑯᓂᐦᐊᒪᐣ, ᒥᓇ ᒥᐢᐱᐨ ᑲ ᒧᒋᐢᐸᐦᐃᑲᑌᐠ᙮ ᐯᔭᑯ ᐊᐘ ᐊᔭᐘ ᐑᒋᐦᐃᑐᐏᐣ ᒫᒫᐏ ᐃᐢᐱᒋᐦᐃᐍᐏᐣ ᐸᐦᐱᐣ ᒋᑲ ᐸᐦᐱᐣ ᓇᐦᐃᔭᐘᐠ ᒥᔼᐢᐸᐩᐣ ᐃᐢᐸᐦᑖᐤ ᐁᑿ ᒫᒫᐏ ᒥᐦᒉᐟ ᐊᐘᓂᐦᐃᐠ᙮ ᐘᐸᐦᑕ [ᐃᐢᑯᓂᑲᓂᕽ ᐊᔭᐦᑯᐢᐱᔭᐣ ᐃᐢᐱᒋᐦᐃᐍᐏᓇ](/activities/late-stage/)᙮
 
-## How should leaders talk during a group?
+## ᑖᓂᐢᐱ ᑭᑲ ᐃᐢᐱ ᐊᔭᒥᐦᒋᑫᐘᐠ ᑲ ᓂᑲᓄᐍᒋᐠ ᒫᒫᐏ?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- ᐘᐃᐦᑖ ᑭᔭ ᐃᐢᐱ ᐁ ᐃᔭᐣ, ᒥᓇ ᐊᐸᒋᐦ ᐅᐦᐃ ᐃᐢᐸᐩᐏᐣ ᐊᐘ ᑲ ᒥᔪᐸᑭᐦᑖᐟ᙮
+- ᐸᐦᐱᐣ ᐊᔭᒥᐦᒋᑫ, ᒦᐦ ᐯᔭᑯ ᐯᔭᐠ ᐃᑌᐦᑕᒧᐏᐣ, ᒥᓇ ᐘᐸᐦᑌᐦ ᓂᐢᑕᒼ ᐁᑿ ᐁ ᐃᑌᔭᐣ᙮
+- ᑲᑿᒋᒧ ᐁ ᐸᐢᑭᓯᓂᑭ ᑲᑿᒋᒧᐦᐃᑫᐏᓇ («ᐊᒋᒧ ᐅᒪ ᐅᐦᒋ…») ᒋᑲ ᓀᐦᐃᔭᐘᐠ ᓇᑕᐍᓂᐦᐃᑫᐏᓇ, ᐁᑿ ᑲᑿᒋᒧᐦᐃᑫᐏᓇ ᑕᐱᐢᑯᐨ «ᑭᑭᐢᑭᓯᓐ ᒋᐦᐃ…?»
+- ᐁᑿ ᒦᓇ ᑯᑕᐠ᙮ ᓈᓯᑯᒧ ᑲᑭᔭᐤ ᐅᐦᐃ ᑲ ᐃᑌᐟ᙮
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+ᐊᔭᐘᐠ ᒥᓇ ᐅᐦᐃ [ᐊᔭᒥᐦᒋᑫᐏ ᑭᐍᔭᐦᑕᐦᐃᑫᐏᓇ](/caregiving/communication-tips/)᙮
 
-## Ending well, and letting people leave
+## ᒥᔪ ᐁ ᑭᓯᐦᑕᒪᐣ, ᒥᓇ ᐁ ᐸᑭᑎᓂᐦᐊᐟ ᐊᐘ ᐁ ᓇᑲᑕᒧᐦᑖᐟ
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+ᐁ ᐯᔭᑯᐦᐠ ᒥᔼᓯᐣ ᐃᐢᐸᐦᑖᐤ᙮ ᐘᐸᒥᐦ ᑭᐢᐱᓐ ᐊᐘ ᐊᔭᐢᑯᓯᐤ, ᓇᒪᐘᐨ ᒥᔪᐯᒪᑎᓯᐤ, ᒋᑲ ᒥᐦᑯᑖᑲᓱᐤ, ᒥᓇ ᐊᐘ ᐅᑐᐢᑲᒧᐤ ᑲ ᐑᒋᐦᐊᐟ ᑲᑿᒋᒧᐤ ᐁ ᐱᒧᐦᑌᐟ ᒋᑲ ᐁ ᐊᐱᐟ ᑲ ᐸᐦᐱᐣ ᐃᑖᐟ᙮ ᐊᐘ ᑲ ᓂᐸᐟ ᓂᑲᒧᐏᐣ ᐃᐢᐱᒋᐦᐃᐍᐏᐣᕽ ᑭ ᒥᔪᐯᒪᑎᓯᐤ ᐯᔭᑯ᙮
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+ᑭᓯᐦᑖ ᑲᑭᔭᐤ ᒫᒫᐏ ᐯᔭᑯ ᐃᐢᐱ, ᐊᔭᐘ ᑲ ᑭᐢᑭᓂᑲᑌᐠ ᓂᑲᒧᐏᐣ ᒋᑲ ᐸᐦᐱᐣ ᓈᓯᑯᒧᐏᐣ, ᑕᐦᑭ ᐁ ᑭᓯᐦᑕᒪᑲᐠ ᐁ ᐸᐦᐱᐣ ᐃᐢᐸᐦᑖᐠ ᒥᓇ ᐁ ᑭᐢᑭᓭᐦᐃᑲᑌᐠ᙮ ᐸᐦᐱᐣ, ᒪᓯᓇᐦ ᐊᐱᓯᐢ ᑭᑭᓄᐦᐊᒫᑲᐣ ᑲ ᒥᔼᐢᐸᐩᐠ ᒥᓇ ᐊᐘᓐ ᑲ ᒥᔪᐸᑭᐦᑖᐟ᙮ ᐊᓂᒪ ᒪᓯᓇᐦᐃᑲᐣ ᐑᒋᐦᐃᑯᐤ ᑯᑕᐠ ᒫᒫᐏ ᐁ ᒥᔼᐢᐸᐩᐠ᙮

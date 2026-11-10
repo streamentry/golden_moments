@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Можетъ ли оумъномоу недѫгоу бꙑти възбранено?"
+seoTitle: "О възбранении оумъномоу недѫгоу"
+description: "Чьто съвѣтъ Lancet 2024 лѣта и велици опꙑти обрѣтѫ о оумалении бѣдъ, чьто не обрѣтѫ, и о чьсомь глаголати съ врачемь."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Никътоже можетъ обѣщати възбранити оумъномоу недѫгоу. Съвѣтъ Lancet 2024 лѣта
+  оцѣни, ꙗко близъ полъ оумьнꙑихъ недѫгъ по вьсемоу мироу съвѧзани сѫтъ съ 14
+  бѣдами, ꙗже могѫтъ бꙑти измѣнѥнꙑ, ꙗко высоко кръвьно тѧжание, слоухова
+  оутрата и нєподвижьность. Опꙑти ꙗвлꙗѭтъ малꙑ плѫчѣ на искоушениꙗхъ
+  помꙑшлѥниꙗ, нъ не оуказаниѥ мьньшихъ оумьнꙑихъ недѫгъ. Мънози, иже творѧтъ
+  вьсѥ «право», пакꙑ приѥмлѭтъ оумьнъ недѫгъ, и то ничьꙗ вина нѣстъ.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Съвѣтъ Lancet 2024 лѣта съвѧза о коло 45% оумьнꙑихъ недѫгъ по вьсемоу мироу съ 14 бѣдами, ꙗже могѫтъ бꙑти измѣнѥнꙑ. То ѥстъ оцѣнєниѥ людии, а не личьно обѣщаниѥ."
+  - "Оумалѥниѥ бѣдъ значитъ оумалити вѣроѩтьность въ людехъ. То не значитъ, ꙗко єдинъ чловѣкъ можетъ избѣгнѫти оумьна недѫга."
+  - "Велици опꙑти, ꙗко FINGER, US POINTER и SPRINT MIND, обрѣтѫ малꙑ плѫчѣ на искоушениꙗхъ помꙑшлѥниꙗ или на лєгъцѣмь помꙑшлѥниꙗ оскѫдѣнии, нъ ни єдинъ не оуказа, ꙗко житиискъ чинъ възбранꙗѥтъ оумьнъ недѫгъ."
+  - "Старость ѥстъ наибольшьша вѣдома бѣда за Альцгєимєровъ недѫгъ, и ѥѩ нєльзѣ измѣнити. Мънози съ добрꙑими житиꙗ обꙑчаи пакꙑ приѥмлѭтъ оумьнъ недѫгъ."
+  - "О стѫпькахъ, ꙗже чѧсто изъслѣдоуѭтъ, ꙗко лѣчити высоко кръвьно тѧжание, носити слоуховꙑ помагачѧ и прѣбꙑвати въ движении, добро ѥстъ глаголати съ врачемь, понєжє онѣ помагаѭтъ здравию и инако."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Можетъ ли оумъномоу недѫгоу бꙑти възбранено?"
+    a: "Нѣстъ оуказана пѫть, ѥѭжє възбранити оумьнъ недѫгъ комоужьдо чловѣкоу. Изъслѣдованиꙗ съвѣтꙋѭтъ, ꙗко оумалѥниѥ нѣкоторꙑихъ бѣдъ, ꙗко высоко кръвьно тѧжание, нєлѣчєна слоухова оутрата и коурѥниѥ, можетъ оумалити вѣроѩтьность оумьна недѫга въ людехъ или отъложити ѥго начѧло. Се сѫтъ вѣроѩтьности, а не обѣщаниꙗ."
+  - q: "Чьто значитъ число 45% отъ съвѣта Lancet?"
+    a: "Съвѣтъ Lancet 2024 лѣта оцѣни, ꙗко о коло 45% оумьнꙑихъ недѫгъ по вьсемоу мироу съвѧзани сѫтъ съ 14 бѣдами, ꙗже бꙑшѧ моглꙑ бꙑти измѣнѥнꙑ. Оцѣнєниѥ приимаѥтъ, ꙗко тꙑ бѣдꙑ творѧтъ недѫгъ, а писаѭштеи глаголѭтъ, ꙗко нѣкоторꙑ съвѧзи могѫтъ бꙑти тъкъмо чѧстию виньнꙑ. То описоуѥтъ людии, а не съказоуѥтъ бѣдꙑ єдиного чловѣка."
+  - q: "Ащє мои родитєль имѣ добръ житиискъ чинъ, почьто приѩ оумьнъ недѫгъ?"
+    a: "Старость, родъ и мъногꙑ вєщи, иже никътоже дрьжитъ, великѫ чѧсть имѫтъ въ оумьнѣ недѫзѣ. Писаѭштеи съвѣта Lancet глаголѭтъ, ꙗко оумалѥниѥ бѣдъ въ людехъ не обѣщаѥтъ, ꙗко єдинъ чловѣкъ избѣгнєтъ недѫга. Недѫгъ нѣстъ знамѥниѥ, ꙗко къто прѣгрѣши."
+  - q: "Поздѣ ли ѥстъ оумалити бѣдꙑ оумьна недѫга по 65 лѣтѣхъ?"
+    a: "Съвѣтъ Lancet глаголєтъ, ꙗко николижє нѣстъ рано ни поздѣ оумалити бѣдꙑ, хотѧ мъного изъслѣдованиꙗ ѥстъ о срѣдьнѣмь житиꙗ врѣмєнє. Лѣчєниѥ слоуха и видѣниꙗ, прѣбꙑваниѥ въ движении и съчѧщєниѥ съ людьми сѫтъ образи стѫпькъ въ поздьнѣмь житиꙗ врѣмєнє, ꙗже бꙑшѧ изъслѣдованꙑ. Глаголи съ врачемь, чьто подобаѥтъ твоѥмоу здравию."
+  - q: "Възбранꙗѭтъ ли оумьнꙑ игрꙑ или особьнꙑ ѣди оумьнъ недѫгъ?"
+    a: "Ни єдина игра, ѣдь, прибавъкъ или чинъ ѣди не ѥстъ оуказанъ възбранити оумьнъ недѫгъ. Опꙑтъ трии лѣтъ съ чиномъ ѣди MIND не обрѣтє разлоукꙑ въ помꙑшлѥнии съ чиномъ ѣди дрьжимꙑимь, а коупьнꙑ приложєниꙗ за оумьнѫ оучьбѫ не оуказашѧ плѫчъ, ꙗжє видѣшѧ въ изъслѣдованиихъ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ащє пєчєши сѧ о чловѣцѣ, ижє живєтъ съ оумьнꙑимъ недѫгомь, или видѣ, ꙗко родитєль съ нимь живѣашє, моглъ єси помꙑслити, ащє бꙑ моглъ бꙑти въꙁбранѥнъ, и ащє можєши възбранити, да не бѫдєтъ тєбѣ. Си страница съказоуѥтъ, чьто изъслѣдованиꙗ въ истинѫ глаголѭтъ, простꙑимъ словомь. Кратъкъ отъвѣтъ: никътоже можетъ обѣщати възбранити оумьномоу недѫгоу, нъ изъслѣдованиꙗ съвѣтꙋѭтъ, ꙗко нѣкоторꙑ бѣдꙑ могѫтъ бꙑти оумалѥнꙑ, и ꙗко оумалѥниѥ ихъ въ людехъ можетъ сътворити, да мьньшє чловѣкъ приимѫтъ оумьнъ недѫгъ или приимѫтъ ѥго поздѣѥ.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Се ѥстъ обьщє свѣдѣниѥ, а не врачьскъ съвѣтъ. Прочьти, молимъ, нашє [врачьско отърєчєниѥ](/medical-disclaimer/) и глаголи съ врачемь о твоѥмь здравии.
 
-## Can dementia be prevented?
+## Можетъ ли оумъномоу недѫгоу бꙑти възбранено?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Нѣстъ оуказана пѫть, ѥѭжє възбранити оумьнъ недѫгъ комоужьдо чловѣкоу. National Institute on Aging (NIA) глаголєтъ, ꙗко хотѧ [ничьтоже нѣстъ оуказано възбранити Альцгєимєровъ недѫгъ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), изъслѣдоватєлє обрѣтѫ надєжьнꙑ пѫти и оучѧтъ сѧ, чьто можетъ и чьто не можетъ помошти.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Чьто изъслѣдованиꙗ ꙗвлꙗѭтъ, то ѥстъ, ꙗко нѣкоторꙑ здравьнꙑ притѧжаниꙗ и обꙑчаи съвѧзани сѫтъ съ большєѭ вѣроѩтьностиѭ оумьна недѫга. Єгда тꙑ бѣдꙑ сѫтъ мьньшѧ въ вьсѣхъ людехъ, мьньшє чловѣкъ можетъ приѩти оумьнъ недѫгъ, или приѩти ѥго поздѣѥ въ житиꙗ врѣмєнє. То ѥстъ зѣло разно отъ обѣщаниꙗ.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Єдино надєжьно знамѥниѥ: съвѣтъ Lancet 2024 лѣта повѣда, ꙗко въ нѣкоторꙑихъ богатꙑихъ землꙗхъ, въ нихъжє Сѣвєрьна Амєрика и Британиꙗ, чѧсть старъ чловѣкъ съ оумьнꙑимъ недѫгомь оумали сѧ. Писаѭштеи мьнѧтъ, ꙗко то ѥстъ чѧстию отъ лѫчьша оучєниꙗ, лѫчьшѧ врачьскꙑꙗ помошти и мьньша врѣда кръвьнꙑимъ съсѫдомъ чрѣзъ житиѥ, по [съказанию University College London о съвѣтѣ](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Чьто обрѣтє съвѣтъ Lancet 2024 лѣта?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Съвѣтъ Lancet о възбранении, помошти и пєчєнии оумьна недѫга ѥстъ съборъ 27 изъслѣдоватєль, ижє въ нѣколицѣхъ лѣтѣхъ съмотрѧтъ изъслѣдованиꙗ. Ихъ съвѣтъ 2024 лѣта нарєчє **14 бѣдъ**, ꙗже могѫтъ бꙑти измѣнѥнꙑ, и оцѣни, ꙗко онѣ въкоупѣ творѧтъ **близъ полъ (о коло 45%) оумьнꙑихъ недѫгъ по вьсемоу мироу**. По словєсємъ писаѭштиихъ, си недѫзи моглꙑ бꙑшѧ *по мꙑсли* бꙑти възбранѥни или отъложєни, ащє бꙑ тꙑ бѣдꙑ бꙑлꙑ отъѩтꙑ ([съвѣтъ Lancet 2024 лѣта](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 бѣдъ, по врѣмєнє житиꙗ, идєжє изъслѣдованиѥ ѥстъ наисильнѣѥ:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Рано житиѥ:** мьньшє оучєниꙗ.
+- **Срѣдьнє житиꙗ (о коло 40 до 65 лѣтъ):** слоухова оутрата, высокъ LDL («зълъ») холєстєринъ, оуныниѥ, главьна ꙗꙁва, нєподвижьность, захарьнъ недѫгъ, коурѥниѥ, высоко кръвьно тѧжание, тѧжько тѣло и мъного питиꙗ.
+- **Поздьнє житиѥ:** отълоучєниѥ отъ людии, въздоуха скврьна и нєлѣчєна видѣниꙗ оутрата.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Дъва нова въ 2024 лѣтѣ бѣста высокъ LDL холєстєринъ и нєлѣчєна видѣниꙗ оутрата. Наибольшѫ чѧсть недѫгъ имѣста слоухова оутрата и высокъ LDL холєстєринъ (о коло 7% кождо), по томь мьньшє оучєниꙗ и отълоучєниѥ отъ людии (о коло 5% кождо).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Нашє [оуказаниѥ о бѣдахъ](/brain-health/risk-factors/) прѣходитъ вьсѣ 14 въ таблици, съ тѣмь, чьто изъслѣдованиꙗ съвѧзоуѭтъ, и чьто можєши сътворити.
 
-### What the 45% figure does not mean
+### Чьто число 45% не значитъ
 
-It is easy to misread this number, so it helps to be precise:
+Лєгъко ѥстъ сє число нєправо чєсти, тѣмьжє добро ѥстъ глаголати ꙗсно:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **То ѥстъ оцѣнєниѥ людии.** То описоуѥтъ оумьнꙑ недѫгꙑ по вьсемоу мироу, а не твоѭ вѣроѩтьность или вѣроѩтьность твоѥго родитєлꙗ.
+- **То приимаѥтъ виноу и плодъ.** Писаѭштеи глаголѭтъ, ꙗко приѩшѧ тъкъмо бѣдꙑ съ сильнꙑимъ свѣдѣниѥмь, нъ нѣкоторꙑ съвѧзи могѫтъ бꙑти тъкъмо чѧстию виньнꙑ. На прикладъ, оуныниѥ въ поздьнѣмь житиꙗ врѣмєнє инъгда можетъ бꙑти рано знамѥниѥ оумьна недѫга, а не вина.
+- **То не обѣщаѥтъ ничьсожє єдиномоу чловѣкоу.** Съказаниѥ UCL глаголєтъ, ꙗко оумалѥниѥ бѣдъ дѣлаѥтъ въ людехъ и не обѣщаѥтъ, ꙗко єдинъ чловѣкъ избѣгнєтъ оумьна недѫга.
+- **Дроугаꙗ полъ не ѥстъ съказана сими бѣдами.** Старость, родъ и винꙑ, иже изъслѣдоватєлє єщє не разоумѣѭтъ, творѧтъ останъкъ.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Каꙗ разлоука ѥстъ мєждоу «оумалѥниѥмь бѣдъ» и «възбранєниѥмь»?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Оумалѥниѥ бѣдъ** значитъ оумалити вѣроѩтьность. Ащє мъного людии оумалѧтъ своѥ кръвьно тѧжание, мьньшє отъ нихъ можетъ приѩти оумьнъ недѫгъ въ мъногꙑихъ лѣтѣхъ, нєжєли бꙑ инъчє. Нѣкотории отъ нихъ пакꙑ приимѫтъ ѥго.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Възбранєниѥ** съказоуѥтъ оуставити нѣчьто съвьсѣмь. За оумьнъ недѫгъ то ѥстъ нѣчьто, ѥгожє изъслѣдованиꙗ дьньсь никомоужє не могѫтъ обѣщати.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Изъслѣдоватєлє тако жє глаголѭтъ о **отъложєнии**. Съвѣтъ Lancet повѣдаѥтъ ново свѣдѣниѥ, ꙗко оумалѥниѥ бѣдъ можетъ отъложити начѧло оумьна недѫга и съкратити врѣмѧ, въ нєжє чловѣкъ живєтъ съ нємоштиѭ. Отъложєниѥ нѣколикъ лѣтъ можетъ бꙑти зѣло важно чловѣкоу и ѥго родоу.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+На сєи страницѣ мꙑ нарочьно глаголємъ «оумалити бѣдꙑ» и «съвѧзано съ». Єгда видиши тъварь, прибавъкъ или чинъ, ижє обѣщаѥтъ «възбранити Альцгєимєровъ недѫгъ», бѫди съ смотрѣниѥмь. NIA съвѣтꙋѥтъ въпрашати врачꙗ прѣждє, дажє начьнєши лѣкъ или помошть, ꙗжє обѣщаѥтъ възбранити Альцгєимєровъ недѫгъ, понєжє таковꙑ вєщи могѫтъ бꙑти нєбєꙁпєчьнꙑ, погꙋблѥниѥ имѣниꙗ, или обоѥ.
 
-## What have large trials found?
+## Чьто обрѣтѫ велици опꙑти?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Изъслѣдованиꙗ, ꙗже съмотрѧтъ, чьто бꙑваѥтъ съ людьми чрѣзъ врѣмѧ, могѫтъ ꙗвити съвѧзи. Опꙑти съ жрѣбиѥмь, идєжє людьѥмъ даѭтъ чинъ или дрѫгꙑи съборъ по жрѣбии, сѫтъ сильнѣѥ искоушєниѥ. Сє ѥстъ, чьто обрѣтѫ нѣкотории добрѣ вѣдомии опꙑти.
 
-### FINGER (Finland)
+### FINGER (Финьска землꙗ)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Опꙑтъ FINGER приѩ 1260 чловѣкъ отъ 60 до 77 лѣтъ, ижє имѣахѫ большѫ бѣдѫ оумьна недѫга. Полъ приѩ дъвоу лѣтоу чинъ съ съвѣтꙑ о ѣди, движєниѥмь, оумьнꙑими игръ на чисьлѣ и съмотрєниѥмь здравиꙗ сьрдьца и кръвьнꙑихъ съсѫдъ; дроугаꙗ полъ приѩ обьщѧ здравьнꙑ съвѣтꙑ. Съборъ съ чиномь сътвори мало лѫчьшє на искоушєниихъ помꙑшлѥниꙗ, малѫ нъ ꙗвьнѫ разлоукѫ ([опꙑтъ FINGER въ The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Опꙑтъ мѣри плѫчѣ искоушєниꙗ, а не съказаниꙗ о оумьнѣ недѫзѣ.
 
-### US POINTER (United States)
+### US POINTER (Сѣвєрьна Амєрика)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER приѩ 2111 чловѣкъ отъ 60 до 79 лѣтъ, ижє бѣахѫ нєподвижьни, имѣахѫ мьньшє добро ѣдь и инꙑ бѣдꙑ. Оба събора подъвигнѫстѧ бꙑти болє тѣломь и оумомь движьна, ѣсти лѫчьшє, бꙑти съ людьми и съмотрити здравиѥ сьрдьца. Єдинъ съборъ приѩ строинъ чинъ съ помоштникъ; дроугъи вєдє сѧ самъ. Въ дъвою лѣтоу плѫчѣ искоушєниꙗ помꙑшлѥниꙗ оулоучишѧ сѧ въ **обою събороу**, и мало болє въ строинѣмь съборѣ ([опꙑтъ US POINTER въ JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Писаѭштеи глаголѭтъ, ꙗко трѣбѣ ѥстъ болє слѣдити, да бꙑ разоумѣти, ащє разлоука иматъ чьто въ дьньнѣмь житиꙗ. Понєжє не бѣ събора «ничьсожє не творити», опꙑтъ не можетъ рєщи, колико кꙑижьдо чинъ поможє противѫ нєизмѣнѥниꙗ.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (кръвьно тѧжание)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND изъслѣдова 9361 чловѣка отъ 50 лѣтъ и старѣѥ въ Сѣвєрьнѣи Амєрицѣ съ высокꙑимь кръвьнꙑимь тѧжаниѥмь. Имъ дано бѣ или нижьнє кръвьно тѧжание (врьхъ мьньшє 120), или обꙑчьно (мьньшє 140). Нижьнѥ тѧжание ꙗвьно оумали **лєгъко помꙑшлѥниꙗ оскѫдѣниѥ**, чинъ памѧти и помꙑшлѥниꙗ троудъ, ижє можетъ прити прѣждє оумьна недѫга. За **вѣроѩтьнъ оумьнъ недѫгъ** бѣашє мьньшє недѫгъ въ съборѣ съ нижьн҄имь тѧжаниѥмь, нъ разлоука не бѣ ꙗвьна. Опꙑтъ съконьча сѧ рано и имѣ мьньшє оумьнꙑихъ недѫгъ, нєжєли чаахѫ, тѣмьжє можє бꙑти малъ, да бꙑ отъвѣщати на то въпрашаниѥ ([SPRINT MIND въ JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Чьто събирать съмотрѣниꙗ
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Съмотрѣниѥ Cochrane 2021 лѣта събра дєвѧть великъ опꙑтъ о чинѣхъ, ижє дѣѭтъ на мъногꙑ бѣдꙑ въкоупѣ, съ болє 18000 чловѣкъ. То обрѣтє малѫ помошть на искоушєниихъ помꙑшлѥниꙗ, нъ **нє ꙗвьнѫ разлоукѫ въ томь, колико чловѣкъ приѩ оумьнъ недѫгъ** въ дъвою опꙑтоу, ꙗжє то мѣриста ([съмотрѣниѥ Cochrane о мъногъ чинѣхъ](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Съмотрѣниѥ National Academies of Sciences, Engineering, and Medicine 2017 лѣта, ꙗкожє NIA съказа, обрѣтє «надєжьно нъ нєсъконьчано» свѣдѣниѥ за три пѫти: дрьжаниѥ высока кръвьна тѧжаниꙗ, болє движєниꙗ тѣломь и оумьна оучьба.
 
-## Does it matter when you start?
+## Иматъ ли чьто, къгда начьнєши?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Съвѣтъ Lancet съвѣтꙋѥтъ оумалити бѣдꙑ колижьдо рано и дрьжати ѩ низъко колижьдо дльго: «ранѣѥ лѫчьшє» и «дльжє лѫчьшє». Тако жє глаголєтъ, ꙗко николижє нѣстъ рано ни поздѣ оумалити бѣдꙑ. Мъного изъслѣдованиꙗ ѥстъ о срѣдьнѣмь житиꙗ врѣмєнє, о коло 40 до 65 лѣтъ, нъ нѣкоторꙑ бѣдꙑ, ꙗко видѣниꙗ оутрата и отълоучєниѥ отъ людии, сѫтъ бѣдꙑ поздьнѥ житиꙗ, идєжє дѣло можєтъ имѣти съмꙑслъ.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Съвѣтъ глаголєтъ, ꙗко нꙑнѣ ѥстъ сильнѣѥ свѣдѣниѥ, ꙗко дльго прѣбꙑваниѥ съ бѣдоѭ иматъ больши плодъ. На прикладъ, захарьнъ недѫгъ, ижє начьнєтъ сѧ въ срѣдьнѣмь житиꙗ врѣмєнє, видитъ сѧ важьнѣѥ, нєжєли захарьнъ недѫгъ, ижє начьнєтъ сѧ поздѣѥ.
 
-## Is dementia risk the same for everyone?
+## Єдина ли ѥстъ бѣда оумьна недѫга въсѣмъ?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Нѣстъ. Съвѣтъ обрѣтє, ꙗко людьѥ въ землꙗхъ съ мьньш҄имь имѣниѥмь, людьѥ отъ мьньшихъ съборъ и людьѥ съ мьньш҄имь имѣниѥмь чѧсто носѧтъ болє сихъ бѣдъ, тѣмьжє оумьнъ недѫгъ чѧсто начинаѥтъ сѧ въ мьньшихъ лѣтѣхъ. Мъногꙑ бѣдꙑ съвѧзани сѫтъ съ обстоꙗнии, иже людьѥ не изъбьрашѧ, ꙗко каково оучєниѥ имѣшѧ въ дѣтьствѣ, каковъ въздоухъ, идєжє живѫтъ, и ащє здрава ѣдь ѥстъ близъ и по силѣ.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Тѣмьжє съвѣтъ Lancet глаголєтъ не тъкъмо къ чловѣкомъ, нъ и къ дрьжавамъ: добро оучєниѥ въсѣмъ дѣтємъ, чистъ въздоухъ, дѣла противѫ коурєниꙗ, мьньшє захара и соли въ ѣди, ѩжє продаѭтъ, и слоуховꙑ помагачѧ въсѣмъ, иже ихъ трѣбоуѭтъ. Дѣло чловѣка иматъ чьто, нъ и миръ, въ нємьжє живоутъ. То ѥстъ єщє єдина вина, да не виниши никогожє за недѫгъ.
 
-## What are the honest limits of this research?
+## Кꙑѩ сѫтъ искрьнꙗѩ прѣдѣлꙑ сєго изъслѣдованиꙗ?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Оумьнъ недѫгъ растєтъ дєсѧтилѣтиꙗ**, нъ мъноги опꙑти трьваѭтъ дъва до пѧти лѣтъ. Мѣрити самъ недѫгъ, а не тъкъмо плѫчѣ искоушєниꙗ, трѣбоуѥтъ зѣло дльгъ и великъ изъслѣдовании.
+- **Мъноги опꙑти мѣрѧтъ искоушєниꙗ помꙑшлѥниꙗ.** Мало оулоучьшєниѥ на искоушєнии не значитъ обѧзаньно, ꙗко мьньшє чловѣкъ приимѫтъ оумьнъ недѫгъ или ꙗко дьньно житиѥ бѫдєтъ лєгъчє.
+- **Хотѧштеи быти въ опꙑтѣхъ чѧсто сѫтъ здравѣѥ** и болє оучєни, нєжєли обьштеи людьѥ. Съвѣтъ Lancet глаголєтъ, ꙗко мъного свѣдѣниꙗ єщє идєтъ отъ богатъ земль и ꙗко мьньши събори мало сътъ въ опꙑтѣхъ.
+- **Нѣкоторꙑ съвѧзи идѫтъ въ обѣ странѣ.** Быти мьньшє движьноу или мьньшє съ людьми можетъ бꙑти рано знамѥниѥ оумьна недѫга, а не тъкъмо вина.
+- **Опꙑти о ѣди до сєго врѣмєнє не дашѧ надєждꙑ.** Опꙑтъ трии лѣтъ съ чиномъ ѣди MIND не обрѣтє ꙗвьнꙑ разлоукꙑ въ помꙑшлѥнии съ чиномъ ѣди дрьжимꙑимь. Виждь нашє [оуказаниѥ о ѣди](/brain-health/diet/).
+- **Оумьнꙑ игрꙑ нє сѫтъ оуказанꙑ възбранити оумьнъ недѫгъ.** Виждь нашє оуказаниѥ о [оумьнꙑихъ играхъ и оумьнѣ недѫзѣ](/brain-health/brain-games/).
+- **Пошть иматъ зѣло мало свѣдѣниꙗ о людехъ** и можетъ бꙑти нєбєꙁпєчьна старꙑимъ. Виждь нашє [оуказаниѥ о пошти](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ащє къто сътвори вьсѥ «право», почьто пакꙑ приѩ оумьнъ недѫгъ?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Понєжє оумьнъ недѫгъ нѣстъ тъкъмо плодъ изъбьраниꙗ. NIA глаголєтъ, ꙗко [старость ѥстъ наибольшьша вѣдома бѣда за Альцгєимєровъ недѫгъ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), и никътоже можетъ ѩ измѣнити. Родъ иматъ чѧсть. И изъслѣдоватєлє єщє не разоумѣѭтъ съвьсѣмь, чьто творитъ Альцгєимєровъ недѫгъ въ мъногъ людехъ. Ащє бꙑ и вьсѩ 14 бѣдъ бꙑлꙑ отъѩтꙑ, оцѣнєниѥ съвѣта Lancet оставлꙗѥтъ болє полъ недѫгъ нєсъказанъ.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Тѣмьжє, ащє пєчєши сѧ о чловѣцѣ, ижє бѣ движьнъ, ѣдѣашє добро, николижє не коури и пакꙑ приѩ оумьнъ недѫгъ, ничьтоже нє зълѫ сътвори, ни тꙑ. Ащє самъ живєши съ оумьнꙑимъ недѫгомь, то нѣстъ твоꙗ вина. Вина чѧсто ѥстъ въ родѣхъ, нъ нє подобаѥтъ. Нꙑнѣ важно ѥстъ оутѣха, съчѧщєниѥ и добри дьниѥ, а нашѧ [мꙑсли о дѣлѣхъ](/activities/ideas/) и [оуказаниѥ о пєчєнии о себѣ](/caregiving/caregiver-self-care/) сѫтъ добро начѧло.
 
-## What steps can you talk over with a doctor?
+## О кꙑихъ стѫпькахъ можєши глаголати съ врачемь?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Си мѣста чѧсто изъслѣдоуѭтъ. Добро ѥстъ о нихъ въпрашати въ врачьствѣ, понєжє мъного отъ нихъ помагаѭтъ здравию сьрдьца, дѫши и самостоꙗнию, чьтоже бѫдєтъ ихъ плодъ на оумьнъ недѫгъ.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Кръвьно тѧжание.** Въпрашаи, кꙑѩ сѫтъ твоꙗ числа и кꙑ цѣль подобаѥтъ тєбѣ. Съвѣтъ Lancet съвѣтꙋѥтъ дрьжати врьхъ 130 или нижє отъ о коло 40 лѣтъ, нъ права цѣль за стара чловѣка отъ ѥго обьща здравиꙗ дрьжитъ сѧ.
+2. **Слоухъ.** Въпрашаи о слоуховѣ искоушєнии и ащє слоуховꙑ помагачѧ бꙑшѧ помагали. Нашє [оуказаниѥ о слоусѣ](/brain-health/hearing/) съказоуѥтъ изъслѣдованиꙗ.
+3. **Видѣниѥ.** Имѣи чѧстꙑ очьнꙑ искоушєниꙗ и въпрашаи, ащє притѧжаниꙗ, ꙗко бѣльмо, могѫтъ бꙑти лѣчєна.
+4. **Холєстєринъ.** Въпрашаи, ащє подобаѥтъ искоусити твоѥго LDL холєстєрина и ащє чьто подобаѥтъ измѣнити.
+5. **Кръвьнъ захаръ.** Ащє имаши захарьнъ недѫгъ, въпрашаи, како дрьжати ѥго бєꙁпєчьно.
+6. **Дѫша.** Оуныниѥ ѥстъ чѧсто и можетъ бꙑти лѣчєно. Рьци врачоу, ащє чоуѥши сѧ низъко или погꙋби радость болє дъвою нєдѣлю.
+7. **Коурєниѥ и питиѥ.** Въпрашаи о помошти оставити коурєниѥ и о бєꙁпєчьнѣ мѣрѣ питиꙗ.
+8. **Движєниѥ.** Въпрашаи, коѥ движєниѥ ѥстъ бєꙁпєчьно тєбѣ. Нашє [оуказаниѥ о движєнии](/brain-health/exercise/) иматъ мꙑсли.
+9. **Хранєниѥ главꙑ.** Носи шлѣмъ на колєсници и въ игръ съ троудомь, и въпрашаи о хранєнии отъ падєниꙗ.
+10. **Съчѧщєниѥ.** Врѣмѧ съ людьми ѥстъ чѧсть здрава житиꙗ. Виждь нашє оуказаниѥ о [съчѧщєнии съ людьми](/brain-health/social-connection/) и тако жє о [сънѣ](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Прѣждє измѣнєниꙗ лѣкъ, ѣди, прибавъкъ, пошта или движєниꙗ, глаголи прьвѣѥ съ врачемь, пачє ащє имаши сьрдьчьнъ недѫгъ, захарьнъ недѫгъ, падєниꙗ въ прѣшьдьшємь, или оужє живєши съ оумьнꙑимъ недѫгомь.
 
-## Talk with a doctor
+## Глаголи съ врачемь
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ащє видиши измѣнѥниꙗ въ памѧти или помꙑшлѥнии, ꙗжє пєкоутъ тѧ, о себѣ или о инѣмь, сътвори врѣмѧ съ врачемь. NIA глаголєтъ, ꙗко [троуди памѧти могѫтъ имѣти инꙑ винꙑ](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), ꙗко плѫчѣ лѣкъ, штитьнꙑ жлѣзꙑ притѧжаниꙗ, оуныниѥ или мало витаминъ B12, и ꙗко нѣкотории отъ сихъ троудъ отходѧтъ, єгда вина бѫдєтъ лѣчєна. Нашє [оуказаниѥ о знамєниихъ](/brain-health/warning-signs/) съказоуѥтъ, на чьто смотрити.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Ищи скороѭ помошть** за наглꙑ измѣнѥниꙗ: нагло съмѧтєниѥ, слабость или омертвѣниѥ на єдинои странѣ, троудъ въ глаголании, или лютъ главꙑ болѣꙁнь могѫтъ бꙑти знамѥниꙗ оудара или иного нагла троуда. Позови 112.
 
-## Where Golden Moments fits
+## Къдє ѥстъ мѣсто Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments творитъ простꙑ съчѧщьнꙑ дѣла, ꙗко [бєсѣдьнꙑ картицѧ](/games/conversation-cards/), [образьно бинго](/games/picture-bingo/) и [тихо дꙑханиꙗ почиваниѥ](/games/calm-breathing/). Тꙑ сѫтъ за радость и врѣмѧ въкоупѣ. Тꙑ нє сѫтъ лѣчєниѥ и не възбранꙗѭтъ ни оумалꙗѭтъ оумьна недѫга.

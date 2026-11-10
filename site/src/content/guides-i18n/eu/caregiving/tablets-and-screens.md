@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Tableta edo telefonoa prestatzea dementzia duen norbaitentzat"
+seoTitle: "Presta ezazu tableta edo telefonoa dementzia duen norbaitentzat"
+description: "Tableta eta telefonoa prestatzeko urratsak dementzia duen norbaitentzat: aplikazio bakarrera mugatu, testu handiagoa, jakinarazpen gutxiago eta pribatutasuna."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Egin tableta edo telefonoa sinpleagoa eskura eman aurretik. Mugatu
+  aplikazio bakarrera iPad eta iPhone-n Guided Access erabiliz, edo Android-en
+  aplikazioak ainguratuz; edo erabili Apple-ren Assistive Access diseinu
+  sinpleago baterako. Handitu testua, isilarazi jakinarazpenak, utzi aplikazio
+  ezagun gutxi batzuk soilik hasierako pantaila batean, ezarri bolumena,
+  erabili euskarria eta mugatu aplikazioen baimenak. Erabili elkarrekin,
+  pantailarik gabeko jardueren ondoan.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access-ek (iPhone, iPad) eta aplikazioak ainguratzeak (Android) pantaila aplikazio bakarrean mantentzen dute zuk desblokeatu arte."
+  - "Apple-ren Assistive Access-ek desgaitasun kognitiboa duten pertsonentzat pentsatutako diseinu sinpleagoa eskaintzen du."
+  - "Handitu testua eta itzali jakinarazpenak eta leiho gainerakorrak, ezerk ez dezan eten edo nahasi."
+  - "Utzi aplikazio ezagun gutxi batzuk soilik hasierako pantaila bakarrean, eta ezarri bolumena hasi aurretik."
+  - "Euskarri batek eta inoiz lekuz aldatzen ez den kargatzeko leku batek gailua errazago erabiltzen eta aurkitzen laguntzen dute."
+  - "Berrikusi aplikazioen baimenak eta datuen partekatzea: HIPAAk, oro har, ez ditu babesten gailu pertsonal batean gordetako datuak."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Nola eragotzi dezaket dementzia duen norbaitek aplikazio batetik irtetea iPad batean?"
+    a: "Aktibatu Guided Access Ezarpenak > Irisgarritasuna > Guided Access atalean, eta ezarri pasakode bat. Ireki aplikazioa, sakatu hiru aldiz goiko botoia (edo Hasiera botoia iPad zaharragoetan) eta sakatu Hasi. iPada aplikazio horretan geratuko da norbaitek pasakodea sartu arte."
+  - q: "Nola blokea dezaket Android tableta bat aplikazio bakarrera?"
+    a: "Aktibatu aplikazioak ainguratzea Ezarpenak aplikazioan, normalean Segurtasuna (batzuetan Segurtasuna eta kokapena) > Aurreratua > Aplikazioak ainguratzea atalean. Ondoren, ireki aplikazioa, ireki Ikuspegi orokorra, sakatu aplikazioaren ikonoa goialdean eta sakatu Ainguratu. PINa, eredua edo pasahitza behar da aingura kentzeko."
+  - q: "Segurua al da Guided Access erabiltzea pertsonaren telefonoan?"
+    a: "Kontuz ibili. Apple-k dioenez, talka-detekzioa eta larrialdi-zerbitzuak ez daude erabilgarri Guided Access aktibatuta dagoen bitartean. Pertsonak larrialdi-deietarako telefonoa behar badu, erabili Guided Access berarekin zaudenean soilik, edo kontuan hartu Assistive Access erabiltzea."
+  - q: "Zenbat pantaila-denbora da egokia dementzia duen norbaitentzat?"
+    a: "Ez dago kopuru zehatzik. Saio labur eta partekatuek, paseoekin, musikarekin, etxeko lanekin eta elkarrizketarekin txandakatuta, egun osatuagoa ematen dute pantailaren aurrean bakarrik denbora luzez egoteak baino. Gailuak frustrazioa eragiten badu edo beste jarduerak alde batera uztea badakar, erabili gutxiago."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tableta bat modu atsegina izan daiteke irudiak, musika eta joko sinpleak elkarrekin partekatzeko. Baita nahasgarria ere: nahi gabe ukitze batek beste aplikazio bat irekitzen du, jakinarazpen bat agertzen da, testua txikia da, edo pantaila itzali egiten da jokoaren erdian. Zure aldetik prestaketa pixka batek horietako gehienak konpontzen ditu.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Urrats hauek iPhone, iPad eta Android-en berezko ezarpenak erabiltzen dituzte. Menuen izenak aldatu egin daitezke software-bertsioen eta gailu-egileen arabera; beraz, zerbait desberdin ikusten baduzu, jarraitu estekatutako Apple edo Google orria zure gailurako. Egin prestaketa zuk zeuk, elkarrekin eseri aurretik.
 
-## Should someone with dementia use a tablet or phone?
+## Erabili al dezake dementzia duen norbaitek tableta edo telefono bat?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Pertsonaren araberakoa da. Jende askori gustatzen zaio tableta erabiltzea norbait ondoan duela, nahiz eta bakarrik ez litzatekeen moldatuko. Hasi elkarrekin erabiltzen, aplikazio bakarra irekita, minutu batzuetan. Gozamena eta elkarrizketa ekartzen baditu, jarraitu. Nahasmena edo frustrazioa ekartzen baditu, argazki-album bat, inprimatutako orriak edo musika egokiagoak izan daitezke. Gure [inprimatzeko jarduerak](/activities/printable/) aukera bat dira.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tableta bat, normalean, telefono bat baino errazagoa da: pantaila eta irudiak handiagoak dira, eta ez da, gainera, pertsonaren larrialdietarako telefono-lerroa.
 
-## How do I lock a tablet or phone to one app?
+## Nola blokea dezaket tableta edo telefono bat aplikazio bakarrera?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Erabili Guided Access iPhone eta iPad-en, edo aplikazioak ainguratzea Android-en. Biek pantaila aplikazio bakarrean mantentzen dute kode bat sartu arte; horrela, nahi gabeko ukitze edo irristatze batek ezin du beste ezer ireki.
 
-### iPad and iPhone: Guided Access
+### iPad eta iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple-ren Guided Access argibideen](https://support.apple.com/en-us/111795) arabera:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Ireki **Ezarpenak**, sakatu **Irisgarritasuna**, gero sakatu **Guided Access** eta aktibatu.
+2. **Pasakodearen ezarpenak** atalean, ezarri Guided Access pasakode bat. Face ID edo Touch ID ere baimendu ditzakezu.
+3. Aukeran: **Pantailaren blokeatze automatikoa** atalean, aukeratu pantaila saio batean zenbat azkar blokeatuko den, jokoaren erdian ez dadin itzali.
+4. Ireki erabili nahi duzun aplikazioa.
+5. Sakatu hiru aldiz alboko botoia (iPhone), goiko botoia (iPad) edo Hasiera botoia gailu zaharragoetan.
+6. Aukeran: inguratu ukituei erantzutea eragotzi nahi diezun pantailaren edozein zati. Sakatu **Aukerak** (edo **Saioaren ezarpenak**) bolumen-botoiak itzaltzeko edo pantaila biratzea geldiarazteko.
+7. Sakatu **Hasi**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Saioa amaitzeko, sakatu hiru aldiz botoi bera berriro, sartu pasakodea eta sakatu **Amaitu**. Apple-k adierazten du software-bertsio zaharrago batzuetan bi aldiz sakatu behar dela.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Garrantzitsua:** Apple-k dioenez, talka-detekzioa eta larrialdi-zerbitzuak ez daude erabilgarri Guided Access saio batean. Ez utzi Guided Access martxan pertsonak larrialdi-deietarako (adibidez, 112ra deitzeko) behar lezakeen telefono batean.
 
-### Android: app pinning
+### Android: aplikazioak ainguratzea
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google-ren Android laguntzako pantailak ainguratzeari buruzko orriaren](https://support.google.com/android/answer/9455138?hl=en) arabera:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Ireki **Ezarpenak** aplikazioa.
+2. Sakatu **Segurtasuna** (edo **Segurtasuna eta kokapena**), gero **Aurreratua**, eta ondoren **Aplikazioak ainguratzea**. Aurkitzen ez baduzu, begiratu zure gailu-egilearen laguntza-orrietan.
+3. Aktibatu **Aplikazioak ainguratzea**. PINa, eredua edo pasahitza beharko da aingura kentzeko.
+4. Ireki nahi duzun aplikazioa. Irristatu hatza gora pantailaren erdiraino eta eutsi Ikuspegi orokorra irekitzeko (edo sakatu Ikuspegi orokorra 3 botoiko nabigazioarekin).
+5. Aplikazioaren aurrebistaren goialdean, sakatu aplikazioaren ikonoa eta, ondoren, sakatu **Ainguratu**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Aingura kentzeko keinu bidezko nabigazioarekin, irristatu hatza gora eta eutsi. 3 botoiko nabigazioarekin, ukitu eta eutsi Atzera eta Ikuspegi orokorra botoiei. 2 botoiko nabigazioarekin, ukitu eta eutsi Atzera eta Hasiera botoiei. Ondoren, sartu PINa, eredua edo pasahitza.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Ba al dago modu sinpleagorik iPhone edo iPad osoarentzat?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Bai. Apple-ren Assistive Access-ek ohiko hasierako pantaila sinpleago batekin ordezkatzen du. [Apple-k dioenez](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios), iPhone-a errazago erabiltzeko diseinatuta dago, desgaitasun kognitiboa duten pertsonentzat, pantailako elementu handiagoekin eta funtzio bideratuagoekin. Apple-k [ezaugarri bera eskaintzen du iPad-en](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Nork prestatzen du.** Apple-k iradokitzen du konfiantzazko laguntzaile batek, hala nola familiako kide batek edo pertsona ezagutzen duen zaintzaile batek, aplikazioak eta funtzioak aukeratzen laguntzea.
+- **Nondik hasi.** Joan **Ezarpenak > Irisgarritasuna > Assistive Access** atalera, sakatu **Konfiguratu Assistive Access** eta gero **Jarraitu**.
+- **Aplikazioak.** Zein aplikazio agertuko diren aukeratzen duzu. Apple-ren aplikazio batzuek bertsio sinplifikatu bereziak dituzte, eta beste aplikazio gehienak ohiko diseinuarekin gehi daitezke.
+- **Diseinua.** Aukeratu **Errenkadak** (irakurtzeko erraza den zerrenda) edo **Sareta** (irudiak eta ikonoak nabarmentzen dituzten elementu handiagoak).
+- **Pasakodea.** Assistive Access pasakode bereizi bat ezartzen duzu ezarpenetan sartzeko, irteteko edo aldatzeko. Apple-k gomendatzen du berreskuratzeko Apple kontu bat konfiguratzea prestaketan; kontu hori gabe, pasakodea ahazten bada, gailua berrezarri egin beharko da.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access egokia izan daiteke bere gailua egunero erabiltzen duen norbaitentzat. Guided Access edo aplikazioak ainguratzea azkarragoak dira elkarrekin jolasteko saio baterako.
 
-## How do I make text and pictures bigger?
+## Nola handitu ditzaket testua eta irudiak?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Handitu testuaren eta bistaratzearen tamaina, eta ondoren egiaztatu botoiak pantailan sartzen direla.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone eta iPad.** [Apple-ren letra-tamainari buruzko argibideen](https://support.apple.com/en-us/102453) arabera, joan **Ezarpenak > Pantaila eta distira > Testuaren tamaina** atalera eta mugitu graduatzailea. Testu are handiagorako, joan **Ezarpenak > Irisgarritasuna > Pantaila eta testuaren tamaina > Testu handiagoa** atalera. Apple-k adierazten du testu oso handiak botoi batzuk ukitzeko zailagoak bihur ditzakeela; beraz, egokitu behar izanez gero.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google-ren testu- eta bistaratze-ezarpenen laguntzaren](https://support.google.com/accessibility/android/answer/11183305?hl=en) arabera, ireki **Ezarpenak** eta bilatu **Letra-tamaina**, gero mugitu graduatzailea. Bilatu **Bistaratze-tamaina** pantailako guztia handiagoa izan dadin. **Testu lodia** ere aktiba dezakezu **Irisgarritasuna > Bistaratze-tamaina eta testua** atalean. Aplikazio batzuek ez dituzte ezarpen hauek jarraitzen.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+[Irudi bikoteak](/games/picture-pairs/) eta [Aurkitu berdina](/games/find-the-same/) bezalako jokoetan, lauki edo aukera gutxiago ere aukeratu ditzakezu; horrek pantaila sinpleago mantentzen du.
 
-## How do I stop notifications and pop-ups?
+## Nola gelditu ditzaket jakinarazpenak eta leiho gainerakorrak?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Itzali behar ez dituzun aplikazioen jakinarazpenak, eta erabili Ez molestatu modua jardueretan zehar.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone eta iPad.** Joan **Ezarpenak > Jakinarazpenak** atalera, sakatu aplikazio bat **Jakinarazpen-estiloa** azpian, eta itzali **Onartu jakinarazpenak** ([Apple-ren jakinarazpen-ezarpenen gida](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Deiak, alertak eta jakinarazpenak aldi baterako isilarazteko, ireki Kontrol-zentroa eta aktibatu **Ez molestatu** **Fokua** botoitik ([Apple-ren Ez molestatu laguntza](https://support.apple.com/en-us/105112)). Programatu dezakezu **Ezarpenak > Fokua > Ez molestatu > Ezarri ordutegia** atalean.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Irristatu hatza pantailaren goialdetik behera eta sakatu **Ez molestatu**, edo joan **Ezarpenak > Moduak > Ez molestatu** atalera ([Google-ren Ez molestatu laguntza](https://support.google.com/android/answer/9069335?hl=en)). **Jakinarazpen-iragazkiak** atalean, zein pertsona eta aplikaziok jarrai dezaketen aukeratu dezakezu. Ezarpenak alda daitezke gailu-egilearen arabera.
 
-## How do I make a simple home screen?
+## Nola egin dezaket hasierako pantaila sinple bat?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Utzi aplikazio ezagun gutxi batzuk pantaila batean, eta eraman gainerakoak bistatik kanpo. Ez dago horretarako ezarpen bakar bat; nahaspila kentzea da kontua.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Aukeratu hiru eta sei aplikazio artean.** Adibidez, argazkiak, musika, bideo-deietarako aplikazio bat eta joko bat.
+- **Jarri lehen pantailan,** beti toki beretan, eta eraman gainerako dena bigarren pantaila edo karpeta batera.
+- **Erabili horma-paper lau eta kontraste handikoa,** hala nola kolore bakarrekoa edo argazki ezagun bakarrekoa, ikonoak ondo nabarmentzeko.
+- **Ezabatu behar ez dituzun aplikazioak.** Aplikazio gutxiagok nahasteko aukera gutxiago eta bildutako datu gutxiago esan nahi dute.
+- **Kontuan hartu Assistive Access** Apple gailuetan, gailuak berak hori egitea nahi baduzu.
 
-## What about volume and sound?
+## Zer gertatzen da bolumenarekin eta soinuarekin?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Ezarri bolumen eroso bat gailua eskura eman aurretik. Guided Access-ekin, bolumen-botoiak itzal ditzakezu jardueran zehar ez dadin aldatu. Egiaztatu audifonoak jarrita eta martxan daudela.
 
-## Where should the tablet live?
+## Non egon beharko luke tabletak?
 
-Give it a stand and a permanent charging spot.
+Eman euskarri bat eta kargatzeko leku finko bat.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Euskarri edo zorro** batek tableta zutunik eusten badu mahai gainean, inork ez du eutsi beharko, eta hatzarekin seinalatzea errazagoa da.
+- **Kargatzeko leku bakarra** inoiz lekuz aldatzen ez dena; ahal dela, kargatzeko euskarri bat egunero erabiltzen duzun gelako mahai batean. Tableta beti egongo da kargatuta eta beti leku berean.
+- **Murriztu distira.** Jarri pantaila leiho argitsu batetik urrun.
 
-## How much screen time is okay?
+## Zenbat pantaila-denbora da egokia?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Ez dago minutu kopuru egokirik. Helburua saio labur eta partekatuak izatea da, egun oso baten zati gisa; egun horretan mugimendua, musika, etxeko lanak, elkarrizketa eta kanpoan denbora ere egon behar dute. Arratsalde amaierako ezinegona areagotu dezakeenez, kontuan hartu pantailako jarduerak egunaren hasieran egitea. Ikus [arratsalde amaierako jarduera lasaiak](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Tableta elkarrekin erabiltzeak, haurtzain gisa erabili beharrean, sozial mantentzen du. Gure [elkarrekin jolasteko](/caregiving/how-to-play-together/) gidak azaltzen du nola.
 
-## How do I protect their privacy on the device?
+## Nola babestu dezaket haren pribatutasuna gailuan?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Mugatu aplikazioek zer bil dezaketen, eta ez pentsa osasun-pribatasuneko legeek babesten dutenik. AEBetako Osasun eta Giza Zerbitzuen Sailak (HHS) [azaltzen duenez](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), HIPAA arauek, oro har, ez dute babesten telefono eta tableta pertsonaletan gordetako edo haietatik atzitutako osasun-informazioa. Kasu gehienetan, HIPAAk ez ditu babesten erabilera pertsonalerako aplikazioetan sartutako datuak, aplikazioa estalitako osasun-hornitzaile batetik, osasun-plan batetik edo haien negozio-kideetako batetik ez badator.
 
-HHS suggests:
+HHSk honako hau iradokitzen du:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- saihestu beharrezkoak ez diren edo ausazko aplikazioak, batez ere «doakoak»;
+- ez eman aplikazioei kokapenerako sarbidea benetan behar ez badute, adibidez mapek bezala.
 
-Also consider:
+Kontuan hartu, halaber:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Erabili pasakode bat** gailuan, eta gorde haren oharra leku seguru batean.
+- **Berrikusi baimenak** argazkietarako, kamerarako, mikrofonorako, kontaktuetarako eta kokapenerako, eta itzali aplikazio batek behar ez duen edozein baimen.
+- **Egiaztatu aplikazio batek zer biltzen duen** instalatu aurretik. Gure [dementziarako aplikazioak eta jokoak aukeratzeko](/caregiving/choosing-apps-and-games/) gidak pribatutasun-kontrol zerrenda bat du.
+- **Kontuz familia-argazkiekin.** Partekatu soilik pertsonak eroso sentituko lituzkeen argazkiak, eta jakin aplikazio batek non gordetzen dituen. [Argazki bikoteak](/games/photo-pairs/) jokoan, aukeratzen dituzun argazkiak zure nabigatzailean geratzen dira.
+- **Itzali aplikazio barruko erosketak** edo kendu ordainketa-datuak pertsonak erabiltzen dituen kontuetatik.

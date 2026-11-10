@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Heɗagol e caɗeele dementia: ko wiɗtooji kolli"
+seoTitle: "Heɗagol e dementia: ko wiɗtooji kolli"
+description: "Hol ko waɗi heɗagol waɗde caɗeele dementia, ko ƴeewndo ballal heɗagol ACHIEVE tigi kolli, e no heɗagol ƴeewirtee e no haaldirtee no newori."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Ciimtol Lancet 2024 innitii heɗagol gooto e caɗeele dementia ɓurɗe mawde ɗe mbaylotoo. E
+  ƴeewndo ACHIEVE, ballitte heɗagol haɗaani ustaade hakkille e kuuɓal, kono fedde woɗnde
+  jogiinde caɗeele ɓurɗe ɗuuɗude holli ustaagol seeɗa. Ballitte heɗagol ina mballa haala e
+  nguurndam ñalnde kala kadi. Ƴeew heɗagol maa, miijito ballitte heɗagol ɗe doktoor yamiri
+  walla ɗe coodetee tawa alaa yamiroore, tee haaldo e doktoor.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Ciimtol Lancet ina hiisa wonde heɗagol ina fawaade e ko ina abboo e 7% dementia e winndere ndee, ina fotnda e geɗal ɓurɗo mawnude e caɗeele 14."
+  - "E ƴeewndo ACHIEVE e yimɓe 977 mawɓe, ballitte heɗagol waylaani ustaade hakkille e duuɓi tati e kuuɓal."
+  - "E fedde tokoose, ɓurnde jogiinde caɗeele nder ACHIEVE, ustaagol hakkille deeƴi ko 48% e ballitte heɗagol; ɗum ina foti teeŋtineede."
+  - "Gila oktoobar 2022, mawɓe e Amerik jogiiɓe sikke heɗagol seeɗa walla hakkundeejo ena mbaawi coodde ballitte heɗagol ɗe FDA ƴeewi tawa alaa yamiroore."
+  - "Bonnannde yiide nde safaaka ɓeydaama e caɗeele dementia e 2024, ɗum noon ƴeewnde gite ina himmi kadi."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Mbar ballitte heɗagol ina haɗa dementia?"
+    a: "Ɗum teeŋtinaaka tawo. Ƴeewndo ACHIEVE yiyaani battane e ustaade hakkille e duuɓi tati e kuuɓal, hay so fedde woɗnde jogiinde caɗeele ɓurɗe waɗi no moƴƴi. Ballitte heɗagol ina poti miijiteede kadi sabu ina newnana haala, kisal e nguurndam ñalnde kala."
+  - q: "Hol ɓeen mbaawi coodde ballitte heɗagol tawa alaa yamiroore?"
+    a: "FDA ena yamira mawɓe duuɓi 18 e dow, jogiiɓe sikke heɗagol seeɗa walla hakkundeejo, coodde ballitte heɗagol OTC e jeeyngol walla e enternet tawa alaa yamiroore. Ɗe njanaaɗo wonande heɗagol tiidngol. Kala mo jogii muuseede noppi, ndiyam iwrude e noppi, jiibru walla bayle heɗagol jaawɗe foti yiyde doktoor tawo."
+  - q: "Mbar heɗagol ena waawi nannde wa dementia?"
+    a: "Sahaaji eey. National Institute on Aging ina hollita wonde mawɓe ɓe nanataa no moƴƴi ena mbaawi cikkireede no feewi ko ɓe njiiɓii walla ɓe njaɓaaki. Ƴeewnde heɗagol ko feere moƴƴere so neɗɗo ina fuɗɗiima woɗɗitaade walla ina ŋakki nannde ko wiyaa."
+  - q: "Nde ɗooftii foti mawɓe ƴeewde gite mum en?"
+    a: "National Institute on Aging ina wasiyaa ƴeewnde gite mawnunde hitaande kala walla duuɓi ɗiɗi kala caggal duuɓi 60, walla hono karallaagal gite maa wasiyiri. Yimɓe jogiiɓe ñabbuuli walla toƴƴere ƴiiƴam tiiɗnde keewi soklaade nde ko famɗi fof hitaande kala."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Heɗagol ina heewi e duuɓi sappo caggal, tee wiɗtooɓe ena njaɓɓa ɗum no caɗeele dementia nii. Ɗum firtaani wonde ballitte heɗagol ko feere teeŋtinaande ngam haɗde dementia; ƴeewndo ɓurngo moƴƴude haa jooni heɓi njeñtudi ceertuɗi. Hello ngo ngoo ina faammina ko wiɗtooji kolli, no heɗagol ƴeewirtee, ko ballitte heɗagol coodeteeɗe e Amerik tawa alaa yamiroore woni, e no haala newniraa.
 
-## Why does hearing matter for brain health?
+## Hol ko waɗi heɗagol himmude e cellal hakkille?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Heɗagol ina jokkondiri e ɓeydagol caɗeele dementia. [Ciimtol Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ina hiisa wonde ina fawaade e ko ina abboo e 7% dementia e winndere ndee. Ɗum ina fotnda e LDL kolesterool toowngol ngam geɗal ɓurɗo mawnude e caɗeele 14 mbaylotooɗe e model Ciimtol ngol, hono no [tonngol UCL e ciimtol ngol](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) holliri.
 
-Key findings from the Commission:
+Ko Ciimtol ngol tawi:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Caɗeele ɓurɗe e heɗagol.** E ƴeewtagol mum renndinngol e wiɗtooji 6 lobbi, yimɓe jogiiɓe heɗagol njoginoo caɗeele dementia ɓurɗe ko ina abboo e 37% e yimɓe heɗiiɓe no moƴƴi.
+- **Heɗagol ɓeydiima, caɗeele ɓeydii.** Wiɗtooji ƴeewɗi tiiɗgol kolli wonde caɗeele ɗee ina ɓeydoo so heɗagol ɓeydii.
+- **Sabaabu mum en ena mbaawi wonde, kono teeŋtinaaka tawo.** Miijooji ina jeyaa heen woɗɗitaade e teelteende, sokolaare hakkille, ustagol gollal hakkille, e golle hakkille ɓurɗe tiiɗde ɗe heɗagol nawi.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Heɗagol ina heewi. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) ina wiyee wonde ko ina abboo e feccere njoyo mawɓe ina jogii ɗum, tee fartaŋŋe ina ɓeydoo e duuɓi.
 
-## What did the ACHIEVE hearing aid trial find?
+## Ko ƴeewndo ballal heɗagol ACHIEVE tawi?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE ko ƴeewndo adanngo suɓaango e ballitte heɗagol e ustaade hakkille. Njeñtudi mum keewi jaŋtireede no feewaani, ɗum noon ko ɗii-ɗoo seeɗa e [jaŋtol ƴeewndo ngoo bayyinaaɗo](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Hol ɓeen tawtoraa:** yimɓe 977, duuɓi 70 haa 84, jogiiɓe heɗagol nde safaaka tawa alaa caɗeele hakkille mawɗe, e nokkuuji renndo nayi e Amerik.
+- **Ko yerondiraa:** feccere heɓi ballitte heɗagol e jokkondiral e karallaagal heɗagol. Feccere woɗnde ndee heɓi eɓɓoore jannginde cellal baɗte nguurndam moƴƴam e duuɓi.
+- **Njeñtudi tiiɗndi:** caggal duuɓi tati, **alaa ceertal** e ustaade hakkille hakkunde pelle ɗiɗi ɗee e kuuɓal.
+- **Njeñtudi fedde tokoose:** ƴeewndo ngoo suɓii e iwdiiji ɗiɗi. Yimɓe 238 iwruno e wiɗto ngo ɓernde juutngo (ARIC), tee e kuuɓal ɓe njoginoo caɗeele ɓurɗe ustaade hakkille. E fedde ndee, ustaagol ngol **deeƴi ko 48%** e ballitte heɗagol. Hakkunde 239 wallitooɓe renndo celluɓe, alaa battane laaɓtungo.
 
-How to read this honestly:
+No ɗum tarirtee e goonga:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Jaabawol kuuɓngol wonnoo alaa battane.
+- Njeñtudi fedde tokoose ndee eɓɓanooma law, kono nde iwruno e ƴeewtagol ɗimmol e fedde tokoose. Ina foti teeŋtineede e wiɗtooji goɗɗi.
+- Tawtoraaɓe ɓee ina nganndi eɓɓoore nde ɓe ngonnoo, ɗum ena waawi memde njeñtudi.
+- Ciimtol Lancet ina tarta seedanteeji ɗii ko hollirde wonde ballitte heɗagol ina nanndude e mballude ɓurɗe yimɓe jogiiɓe heɗagol kam e caɗeele dementia goɗɗe.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Taarol gadanol ko wonde ballitte heɗagol wonaa feere teeŋtinaande ngam haɗde dementia. Ɗe ena mballa yimɓe heɗaade, tawtoraade haala e heddiiɗe e jokkondiral, ɗum kadi ko dalillaaji tiiɗɗi ngam miijitaade ɗe.
 
-## How do I know if hearing should be checked?
+## Hol no anndirten mi so heɗagol foti ƴeewteede?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA ina wasiyaa yiyde doktoor so aan walla mo toppit-ɗaa:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Ina jogii caɗeele faamde yimɓe e noddirgel
+- Ina satti rewde e jeewte so yimɓe ɗiɗo walla ɓurɓe ina kaalda
+- Ena naamnoo yimɓe ɓe njoopta ko ɓe mbiʼi
+- Ena ɓeyda daande tele so ɓe woɗɓe ina ŋulla
+- Ina satti faamde haala so daande woɗnde ina woodi
+- Ena sikka wonde ɓe woɗɓe ina ŋoŋa
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Fuɗɗo e doktoor kuuɓɗo, mo ena waawi nelduɗe to karallaagal heɗagol (audiologist) walla to doktoor noppi, hinere e daaɗe. Heewde tuugnorgal e noppi ko gootol e sabaabu heɗagol keewngol mo doktoor ena waawi ƴeewde. **Heɗagol jaawngol ko caɗeele kisal jaawɗe**, tee NIA ina wasiyaa yiyde doktoor kisan kisan.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Heɗagol ena waawi cikkireede ko jiiɓru. NIA ina hollita wonde mawɓe ɓe nanataa no moƴƴi ena mbaawi cikkireede no feewi ko ɓe njiiɓii, ɓe njaabaaki walla ɓe mballaaka. So mo yiɗ-ɗaa ina fuɗɗiima woɗɗitaade walla ina ŋakki nannde ko wiyaa, ƴeewnde heɗagol ko feere moƴƴere law.
 
-## What are over-the-counter hearing aids?
+## Ko woni ballitte heɗagol coodeteeɗe tawa alaa yamiroore?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Gila 17 oktoobar 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) yamirii fannu ballitte heɗagol coodeteeɗe tawa alaa yamiroore (OTC). Ko nii ɗe yerondirtee e ballitte yamiraaɗe:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Fannu | Ballitte heɗagol OTC | Ballitte heɗagol yamiraaɗe |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Hol ɓeen ɗe njanaa | Mawɓe duuɓi 18 e dow jogiiɓe sikke heɗagol seeɗa walla hakkundeejo | Kala tolno heɗagol, kala duuɓi |
+| Hol to ɗe keɓetee | E jeeyngol walla e enternet, alaa ƴeewnde walla yamiroore | Rewde e karallaagal heɗagol yamiraaɗo |
+| No ɗe teeltiraa | A suɓoto teelte ɗee hoore maa, keewi wonde e jaaɓnirgal | Karallaagal ina teelta ɗe e heɗagol maa |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA ina wiyee wonde ballitte OTC njanaaɗo wonande heɗagol tiiɗngol walla tiiɗngol no feewi. Ena wasiyaa yiyde doktoor, ɓurɗo moƴƴude ko doktoor noppi, hinere e daaɗe, hade coodgol so aɗa jogii:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Muuseede walla caɗeele e noppi
+- Ndiyam, muusre walla ƴiiƴam iwrude e noppi e lebbi jeyi caggal
+- Bayle heɗagol jaawɗe walla waylooje
+- Heɗagol ɓurngo bonnde e noppi gootol, walla hito e noppi gootol tan
+- Jiibru walla yiiltagol
+- Tuugnorgal noppi heewngal
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Waawde huutoraade ballitte heɗagol ina naamnii gollal seeɗa, ɗum noon ƴeew sarɗiye ruttorde hade coodgol, hono no FDA wasiyiri. NIA ina wasiyaa naamnaade so kisal maa ina ubbira seeɗa e njoɓdi ndii. Wonande mo wuurɗo e dementia, karallaagal heɗagol ena waawi wallude suɓaade fannu ballitte e teeltagol ɓurngol newaade toppiteede ñalnde kala.
 
-## How can I talk more easily with someone who has hearing loss?
+## Hol no haaldirten no newori e mo jogiiɗo heɗagol?
 
-The NIA suggests:
+NIA ina wasiyaa:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Fewndo neɗɗo o tee joggo gite,** e annoore moƴƴere, ngam o waawa yiyde tonngaaɗe maa e yeeso maa.
+2. **Yiylo nokku deƴɗo.** Ñif tele walla woɗɗito daande.
+3. **Ɓeydu daande seeɗa, kono hoto ew.** Haaldu no newori e njaaweendi moƴƴiri.
+4. **Hoto uddo hunduko maa.** Hoto ñaam, hoto tac cuukulaas walla hoto uddo hunduko maa tawa aɗa haalda.
+5. **Waylu konguɗi ɗii** so huunde ŋakkaama, wonaa jokkude wiyde gootum.
+6. **Gooto e saawi fof.** E dental, ƴeew no neɗɗo o tawtoree.
+7. **Muññu tee naamno hol no mbaaw-ɗaa wallude.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ɗii wasiyaaji ena njogondira no moƴƴi e [wasiyaaji men jokkondiral baɗte dementia](/caregiving/communication-tips/). Golle tugiiɗe e nate ena ustude tiiɗgol heɗagol. [Picture Pairs](/games/picture-pairs/) e [Conversation Cards](/games/conversation-cards/) ena ngolla e ko njiy-ɗaa, tee [Finish the Saying](/games/finish-the-saying/) ena jaɓa hollirde timmoode ndee tawa wiyaa. Wonande noddaali, ƴeew [jannginol men baɗte noddaali telefoŋ e widewoo](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Yiide ina himmi kadi
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+E 2024 Ciimtol Lancet ɓeydi bonnannde yiide nde safaaka ko caɗeele kesol. Tonngol UCL ina waɗa ɗum ko ina abboo e 2% dementia, tee Ciimtol ngol ina wasiyaa waɗde ƴeewnde e safaara caɗeele yiide heɓoo e kala neɗɗo. [NIA ina wasiyaa](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ƴeewnde gite mawnunde hitaande kala walla duuɓi ɗiɗi kala caggal duuɓi 60, tee ƴeewde yamirooje lunette kadi. Hay bayle seeɗa e yiide ena mbaawi ɓeydude caɗeele janoaade.
 
-## Talk with a doctor
+## Haaldo e doktoor
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Naamno doktoor baɗte ƴeewnde heɗagol e yiide so a yiyii ɗii maande dow. Yiy doktoor kisan kisan ngam heɗagol jaawngol, muuseede noppi, walla ndiyam iwrude e noppi. So aɗa toppito mo wuurɗo e dementia, haalana doktoor mum baɗte bayle heɗagol walla yiide, ɗe ena mbaawi memde ngonka hakkille, kisal e no neɗɗo o waawiri tawtoraade.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Hello ngo ngoo ko humpito kuuɓngo tan, wonaa wasiya doktoor. Ƴeew [renndinde men baɗte cellal](/medical-disclaimer/). Tar humpito goɗngo baɗte [jokkondiral renndo e cellal hakkille](/brain-health/social-connection/).

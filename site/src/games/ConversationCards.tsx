@@ -3,6 +3,7 @@ import { pictureUrl } from '../data/pictures';
 import { TALK_THEME_ORDER, type TalkTheme } from '../data/prompts';
 import type { PlayProps } from '../i18n/play';
 import { fill } from '../i18n/play/format';
+import { conversationPromptPresentation } from '../lib/games/conversation-prompt';
 import { createRng, randomSeed, shuffle } from '../lib/games/random';
 import { ChoiceChips } from './shared/ChoiceChips';
 import { GameFrame } from './shared/GameFrame';
@@ -15,6 +16,7 @@ export default function ConversationCards(props: PlayProps) {
   const { cards, themes } = content.conversation;
   const pictureName = pictureNamer(props);
   const [theme, setTheme] = useState<TalkTheme | 'all'>('all');
+  const [showPrompt, setShowPrompt] = useState(false);
   const [seed, setSeed] = useState(0);
   const [index, setIndex] = useState(0);
 
@@ -27,6 +29,7 @@ export default function ConversationCards(props: PlayProps) {
   useEffect(() => setIndex(0), [theme]);
   const card = deck[index % deck.length];
   if (!card) return null;
+  const promptPresentation = conversationPromptPresentation(showPrompt, card.prompt, ui.conversationCards.guidance);
 
   const themeChoices = TALK_THEME_ORDER.map((value) => ({ value, label: themes[value] }));
 
@@ -36,9 +39,24 @@ export default function ConversationCards(props: PlayProps) {
         ui={ui}
         lang={lang}
         guidance={ui.conversationCards.guidance}
-        readAloudText={card.prompt}
+        readAloudText={promptPresentation.spokenText}
         message={fill(ui.conversationCards.position, { n: (index % deck.length) + 1, total: deck.length })}
-        options={<ChoiceChips legend={ui.conversationCards.themeLegend} choices={themeChoices} value={theme} onChange={setTheme} />}
+        options={
+          <>
+            <ChoiceChips legend={ui.conversationCards.themeLegend} choices={themeChoices} value={theme} onChange={setTheme} />
+            <label className="chip conversation-cards__prompt-toggle">
+              <input
+                type="checkbox"
+                checked={showPrompt}
+                onChange={(event) => {
+                  sounds.tap();
+                  setShowPrompt(event.currentTarget.checked);
+                }}
+              />
+              <span>{ui.conversationCards.showPrompt}</span>
+            </label>
+          </>
+        }
         footer={
           <div className="btn-row">
             <button
@@ -81,7 +99,9 @@ export default function ConversationCards(props: PlayProps) {
           <img src={pictureUrl(card.picture)} alt={pictureName(card.picture)} width={220} height={220} />
           <div>
             <p className="talk-card__theme">{themes[card.theme]}</p>
-            <p className="talk-card__prompt">{card.prompt}</p>
+            <div aria-live="polite" aria-atomic="true">
+              {promptPresentation.visiblePrompt ? <p className="talk-card__prompt">{promptPresentation.visiblePrompt}</p> : null}
+            </div>
           </div>
         </article>
       </GameFrame>

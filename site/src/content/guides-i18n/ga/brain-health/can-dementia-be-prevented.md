@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "An Féidir Néaltrú a Chosc? A Deir an Taighde"
+seoTitle: "An Féidir Néaltrú a Chosc? A Deir an Taighde"
+description: "A fuair Coimisiún Lancet 2024 agus mórthrialacha faoi riosca néaltrú a laghdú, cad nach bhfuair siad, agus céimeanna le plé le dochtúir."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Ní féidir le haon duine geallúint a thabhairt go gcoscfar néaltrú. Mheas
+  Coimisiún Lancet 2024 go bhfuil thart ar leath de na cásanna néaltrú ar fud
+  an domhain nasctha le 14 thoisc riosca a d’fhéadfadh a bheith inathraithe, mar
+  shampla brú fola ard, caillteanas éisteachta agus easpa gníomhaíochta.
+  Léiríonn trialacha éifeachtaí beaga ar thástálacha smaointeoireachta, ní cruthúnas
+  ar níos lú cásanna néaltrú. Forbraíonn go leor daoine néaltrú fiú má dhéanann
+  siad gach rud ‘i gceart’, agus ní fault aon duine é.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Cheangail Coimisiún Lancet 2024 thart ar 45% de chásanna néaltrú ar fud an domhain le 14 thoisc riosca a d’fhéadfadh a bheith inathraithe. Is meastachán pobail é sin, ní gealltanas pearsanta."
+  - "Ciallaíonn laghdú riosca an seans a ísliú ar fud pobal iomlán. Ní chiallaíonn sé gur féidir le haon duine amháin néaltrú a sheachaint."
+  - "Fuair mórthrialacha ar nós FINGER, US POINTER agus SPRINT MIND buntáistí beaga ar thástálacha smaointeoireachta nó ar lagú éadrom cognaíoch, ach níor chruthaigh aon cheann acu go gcosnaíonn clár stíl mhaireachtála néaltrú."
+  - "Is í aois an fachtóir riosca is mó atá ar eolas maidir le galar Alzheimer, agus ní féidir é a athrú. Forbraíonn go leor daoine a bhfuil nósanna sláintiúla acu néaltrú fós."
+  - "Is fiú na céimeanna is minice a ndéantar staidéar orthu, mar shampla brú fola ard a chóireáil, áiseanna éisteachta a úsáid agus fanacht gníomhach, a phlé le dochtúir mar go gcabhraíonn siad leis an tsláinte ar bhealaí eile freisin."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "An féidir néaltrú a chosc?"
+    a: "Níl aon bhealach cruthaithe ann chun néaltrú a chosc do dhuine ar bith. Tugann taighde le fios go bhféadfadh laghdú ar rioscaí áirithe, mar shampla brú fola ard, caillteanas éisteachta gan chóireáil agus caitheamh tobac, an seans néaltrú a ísliú ar fud pobal nó moill a chur ar an uair a thosaíonn sé. Is seansanna iad seo, ní gealltanais."
+  - q: "Cad a chiallaíonn an figiúr 45% ó Choimisiún Lancet?"
+    a: "Mheas Coimisiún Lancet 2024 go bhfuil thart ar 45% de chásanna néaltrú ar fud an domhain nasctha le 14 thoisc riosca a d’fhéadfaí, go teoiriciúil, a athrú. Glacann an meastachán leis go n-eascraíonn néaltrú ó na tosca sin, agus tugann na húdair faoi deara go bhféadfadh roinnt nasc a bheith páirteach cúiseach amháin. Déanann sé cur síos ar phobail iomlána agus ní insíonn sé duit riosca aon duine aonair."
+  - q: "Má bhí stíl mhaireachtála shláintiúil ag mo thuismitheoir, cén fáth ar fhorbair sé nó sí néaltrú?"
+    a: "Tá ról mór ag aois, ag géinte agus ag go leor tosca nach bhfuil smacht ag aon duine orthu i néaltrú. Tugann údair Choimisiún Lancet faoi deara nach dtugann laghdú riosca ar fud pobal gealltanas go seachnóidh aon duine néaltrú. Ní comhartha é diagnóis gur theip ar aon duine."
+  - q: "An bhfuil sé rómhall chun riosca néaltrú a laghdú tar éis 65 bliana d’aois?"
+    a: "Deir Coimisiún Lancet nach bhfuil sé rólua ná ró-mhall riamh chun riosca a laghdú, cé go mbaineann cuid mhór den fhianaise le lár na beatha. Is samplaí iad fadhbanna éisteachta agus radhairc a chóireáil, fanacht gníomhach agus teagmháil a choinneáil le daoine de chéimeanna níos déanaí sa saol ar rinneadh staidéar orthu. Labhair le dochtúir faoi na rudaí a oireann do do shláinte."
+  - q: "An gcosnaíonn cluichí inchinne nó aistí bia speisialta néaltrú?"
+    a: "Níl cruthúnas ann go gcosnaíonn aon chluiche, bia, forlíonadh nó aiste bia néaltrú. Ní bhfuair triail trí bliana ar aiste bia MIND aon difríocht shuntasach sa smaointeoireacht i gcomparáid le haiste bia rialaithe, agus níor léiríodh go bhfuil na héifeachtaí a fheictear i dtrialacha taighde ag aipeanna tráchtála traenála inchinne."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,151 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Má tá cúram á dhéanamh agat do dhuine atá ag maireachtáil le néaltrú, nó má chonaic tú tuismitheoir ag maireachtáil leis, is dócha gur smaoinigh tú an bhféadfaí é a stopadh, agus an féidir leat é a stopadh duit féin. Míníonn an leathanach seo a deir an taighde i ndáiríre, i dteanga shoiléir. An freagra gairid: ní féidir le haon duine geallúint a thabhairt go gcoscfar néaltrú, ach tugann taighde le fios gur féidir roinnt rioscaí a laghdú, agus go bhféadfadh níos lú daoine néaltrú a fhorbairt nó é a fhorbairt níos déanaí dá laghdófaí na rioscaí sin ar fud pobal.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Is eolas ginearálta é seo, ní comhairle leighis. Léigh ár
+[séanadh míochaine](/medical-disclaimer/) agus labhair le dochtúir faoi do
+shláinte féin.
 
-## Can dementia be prevented?
+## An féidir néaltrú a chosc?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Níl aon bhealach cruthaithe ann chun néaltrú a chosc do dhuine ar bith. Deir an Institiúid Náisiúnta um Aosú (NIA), cé nach bhfuil
+[aon rud cruthaithe fós chun galar Alzheimer a chosc](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+go bhfuil taighdeoirí tar éis straitéisí dóchasacha a aimsiú agus go bhfuil siad ag foghlaim cad a d’fhéadfadh oibriú agus cad nach bhféadfadh.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Is é a léiríonn an taighde áfach go bhfuil riochtaí sláinte agus nósanna áirithe
+nasctha le seans níos airde néaltrú. Nuair a bhíonn na rioscaí sin níos ísle ar fud
+pobal iomlán, d’fhéadfadh níos lú daoine néaltrú a fhorbairt, nó d’fhéadfaidís é a
+fhorbairt níos déanaí sa saol. Tá sé sin an-difriúil ó ghealltanas.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Comhartha dóchais amháin: thuairiscigh Coimisiún Lancet 2024 gur thit, i roinnt tíortha ardioncaim lena n-áirítear SAM agus an Ríocht Aontaithe, an sciar de dhaoine níos sine a bhfuil néaltrú orthu. Ceapann na húdair gur dócha go bhfuil sé seo mar gheall, go páirteach, ar oideachas níos fearr, cúram sláinte níos fearr agus níos lú damáiste do shoithigh fola thar shaolré, de réir
+[achoimre Choláiste na hOllscoile, Londain ar an tuarascáil](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Cad a fuair Coimisiún Lancet 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Is grúpa de 27 taighdeoir néaltrú é Coimisiún Lancet ar chosc, idirghabháil agus cúram néaltrú a dhéanann athbhreithniú ar an bhfianaise gach cúpla bliain. Ina thuarascáil in 2024 d’ainmnigh siad **14 thoisc riosca** a d’fhéadfadh a bheith inathraithe, agus mheas siad go bhfuil **beagnach leath (thart ar 45%) de chásanna néaltrú ar fud an domhain** mar thoradh orthu le chéile. I bhfocail na n-údar, d’fhéadfaí na cásanna seo a chosc nó moill a chur orthu *go teoiriciúil* dá mbainfí na rioscaí
+([tuarascáil Choimisiún Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Na 14 thoisc, grúpáilte de réir na tréimhse saoil ina bhfuil an fhianaise is láidre:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Luathshaol:** níos lú oideachais.
+- **Lár na beatha (timpeall 40 go 65 bliana d’aois):** caillteanas éisteachta, colaistéaról ard LDL (‘droch’), dúlagar, gortú cloiginn, easpa gníomhaíochta coirp, diaibéiteas, caitheamh tobac, brú fola ard, murtall, agus ól trom.
+- **Níos déanaí sa saol:** leithlisiú sóisialta, truailliú aeir, agus caillteanas radhairc gan chóireáil.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Ba iad an dá rud is nuaí in 2024 ná colaistéaról ard LDL agus caillteanas radhairc gan chóireáil. Ba iad na tosca a bhí nasctha leis an sciar is mó de chásanna ná caillteanas éisteachta agus colaistéaról ard LDL (thart ar 7% an ceann), agus ina dhiaidh sin níos lú oideachais agus leithlisiú sóisialta (thart ar 5% an ceann).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Téann ár [dtreoir ar thosca riosca](/brain-health/risk-factors/) trí na 14 thoisc ar fad i dtábla, leis an méid a nascann an taighde agus an méid is féidir leat a dhéanamh.
 
-### What the 45% figure does not mean
+### Cad nach gciallaíonn an figiúr 45%
 
-It is easy to misread this number, so it helps to be precise:
+Is furasta an uimhir seo a léamh mícheart, mar sin cabhraíonn sé a bheith beacht:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Is meastachán pobail é.** Déanann sé cur síos ar chásanna néaltrú ar fud an domhain, ní ar do sheans féin ná ar sheans do thuismitheora.
+- **Glacann sé le cúis agus éifeacht.** Deir na húdair nár chuimsigh siad ach tosca riosca a raibh fianaise láidir acu ina leith, ach go bhféadfadh roinnt nasc a bheith páirteach cúiseach amháin. Mar shampla, d’fhéadfadh dúlagar níos déanaí sa saol a bheith ina chomhartha luath néaltrú uaireanta seachas ina chúis.
+- **Ní thugann sé gealltanas ar bith do dhuine amháin.** Tugann achoimre UCL faoi deara go n-oibríonn laghdú riosca ar leibhéal an phobail agus nach dtugann sé gealltanas go seachnóidh aon duine néaltrú.
+- **Ní mhínítear an leath eile leis na tosca seo.** Is iad aois, géinte agus cúiseanna nach dtuigeann eolaithe go fóill a dhéanann suas an chuid eile.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Cad é an difríocht idir ‘laghdú riosca’ agus ‘cosc’?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+Ciallaíonn **laghdú riosca** an seans a ísliú. Má laghdaíonn grúpa mór daoine a mbrú fola, d’fhéadfadh níos lú acu néaltrú a fhorbairt thar roinnt blianta ná mar a bheadh murach sin. Forbróidh daoine aonair sa ghrúpa sin é fós.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+Tugann **cosc** le tuiscint rud éigin a stopadh ó tharlaíonn sé ar chor ar bith. Maidir le néaltrú, ní rud é sin ar féidir leis an taighde gealltanas a thabhairt d’aon duine inniu.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Labhraíonn taighdeoirí faoi **mhoill** freisin. Tuairiscíonn Coimisiún Lancet go bhfuil fianaise nua ann go bhféadfadh laghdú riosca an t-am a thosaíonn néaltrú a chur siar agus an tréimhse a chaitheann duine ag maireachtáil le drochshláinte a ghiorrú. D’fhéadfadh fiú moill cúpla bliain a bheith an-tábhachtach do dhuine agus dá theaghlach.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Ar an suíomh seo, úsáidimid ‘riosca a laghdú’ agus ‘nasctha le’ d’aon ghnó. Nuair a fheiceann tú táirge, forlíonadh nó clár a gheallann ‘Alzheimer a chosc’, bí cúramach. Molann an NIA dul i gcomhairle le dochtúir sula ndéanann tú triail as aon phiolla nó cóireáil a gheallann galar Alzheimer a chosc, mar d’fhéadfadh táirgí den sórt sin a bheith neamhshábháilte, ina gcur amú airgid, nó an dá rud.
 
-## What have large trials found?
+## Cad a fuair mórthrialacha?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Is féidir le staidéir bhreathnaithe (a bhreathnaíonn ar a tharlaíonn do dhaoine le himeacht ama) naisc a thaispeáint. Is tástáil níos láidre iad trialacha randamaithe, ina sanntar daoine do chlár nó do ghrúpa comparáide de réir seans. Seo a fuair cuid de na trialacha is mó aithne.
 
-### FINGER (Finland)
+### FINGER (an Fhionlainn)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Chláraigh triail FINGER 1,260 duine fásta idir 60 agus 77 bliana d’aois a raibh riosca níos airde néaltrú orthu. Fuair leath acu clár dhá bhliain de chomhairle aiste bia, aclaíocht, cleachtaí inchinne ar ríomhaire agus seiceálacha ar shláinte an chroí agus na soithí fola; fuair an leath eile comhairle ghinearálta sláinte. Bhí an grúpa cláir beagán níos fearr ar shraith tástálacha smaointeoireachta, difríocht bheag ach suntasach ó thaobh staitistice
+([triail FINGER in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Thomhais an triail torthaí tástálacha, ní diagnóisí néaltrú.
 
-### US POINTER (United States)
+### US POINTER (Stáit Aontaithe Mheiriceá)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+Chláraigh US POINTER 2,111 duine fásta idir 60 agus 79 bliana d’aois nach raibh gníomhach, a raibh aiste bia nach raibh chomh sláintiúil acu agus a raibh tosca riosca eile orthu. Spreagadh an dá ghrúpa a bheith níos gníomhaí go fisiciúil agus go meabhrach, ithe níos fearr, fanacht sóisialta agus monatóireacht a dhéanamh ar shláinte an chroí. Fuair grúpa amháin clár struchtúrtha le cóitseáil; threoraigh an grúpa eile iad féin. Thar dhá bhliain, tháinig feabhas ar thorthaí tástálacha smaointeoireachta sa **dá** ghrúpa, agus beagán níos mó sa ghrúpa struchtúrtha
+([triail US POINTER in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Deir na húdair go bhfuil gá le tuilleadh leantach chun a fháil amach an mbaineann an difríocht le saol laethúil. Toisc nach raibh grúpa ‘ná déan aon rud’ ann, ní féidir leis an triail a rá cé mhéad a chabhraigh ceachtar clár i gcomparáid le gan aon athrú ar chor ar bith.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (brú fola)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
+Rinne SPRINT MIND staidéar ar 9,361 duine fásta i SAM atá 50 bliain d’aois nó níos sine agus a raibh brú fola ard orthu. Sannadh iad do sprioc brú fola níos ísle (an uimhir uachtarach faoi 120) nó don sprioc chaighdeánach (faoi 140). Laghdaigh an sprioc níos ísle go suntasach **lagú éadrom cognaíoch**, céim d’fhadhbanna cuimhne agus smaointeoireachta a d’fhéadfadh teacht roimh néaltrú. Maidir le **néaltrú dóchúil**, bhí níos lú cásanna sa ghrúpa sprioc níos ísle, ach ní raibh an difríocht suntasach ó thaobh staitistice. Stopadh an triail go luath agus bhí níos lú cásanna néaltrú ann ná mar a bhíothas ag súil leis, mar sin d’fhéadfadh sé a bheith ró-bheag chun an cheist sin a fhreagairt
 ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Cad a chuireann na hathbhreithnithe le chéile
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Chuir athbhreithniú Cochrane in 2021 naoi mórthriala le chéile ar chláir a thugann aghaidh ar roinnt rioscaí ag an am céanna, le breis is 18,000 duine. Fuair sé buntáiste beag ar thástálacha smaointeoireachta, ach **ní raibh aon difríocht shoiléir sa líon daoine a d’fhorbair néaltrú** sa dá thriail a thomhais é
+([athbhreithniú Cochrane ar idirghabhálacha ilréimsí](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Fuair athbhreithniú in 2017 ó Acadamh Náisiúnta na nEolaíochtaí, na hInnealtóireachta agus an Leighis, a ndearna an NIA achoimre air, fianaise ‘spreagúil ach neamhdhearbhaithe’ do thrí chur chuige: brú fola ard a bhainistiú, gníomhaíocht choirp a mhéadú, agus traenáil chognaíoch.
 
-## Does it matter when you start?
+## An mbaineann sé nuair a thosaíonn tú?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Is é comhairle Choimisiún Lancet rioscaí a laghdú chomh luath agus is féidir agus iad a choinneáil íseal chomh fada agus is féidir: ‘dá luaithe, is amhlaidh is fearr’ agus ‘dá fhaide, is amhlaidh is fearr’. Deir sé freisin nach bhfuil sé rólua ná ró-mhall riamh chun riosca a laghdú. Baineann cuid mhór den fhianaise le lár na beatha, timpeall 40 go 65 bliana d’aois, ach is rioscaí níos déanaí sa saol iad roinnt tosca, mar shampla caillteanas radhairc agus leithlisiú sóisialta, áit ar féidir le gníomh a bheith fóinteach fós.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Deir an tuarascáil go bhfuil fianaise níos láidre ann anois go mbíonn éifeacht níos mó ag nochtadh níos faide do riosca. Mar shampla, is cosúil go mbaineann diaibéiteas a thosaíonn i lár na beatha níos mó ná diaibéiteas a thosaíonn níos déanaí.
 
-## Is dementia risk the same for everyone?
+## An ionann riosca néaltrú do gach duine?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ní hionann. Fuair an Coimisiún go mbíonn níos mó de na rioscaí seo ar dhaoine i dtíortha ísealioncaim agus meánioncaim, ar dhaoine ó ghrúpaí mionlaigh agus ar dhaoine a bhfuil níos lú airgid acu, agus mar sin is gnách go bhforbraíonn néaltrú ag aois níos óige. Tá baint ag go leor rioscaí le cúinsí nár roghnaigh daoine, mar shampla cáilíocht na scolaíochta a fuair siad agus iad ina leanaí, an t-aer ina gcónaíonn siad, agus an bhfuil bia sláintiúil inacmhainne agus in aice láimhe.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Sin an fáth a bhfuil moltaí an Choimisiúin dírithe ar rialtais chomh mór agus atá siad ar dhaoine aonair: oideachas maith do gach leanbh, aer níos glaine, bearta chun caitheamh tobac a laghdú, níos lú siúcra agus salainn i mbia a dhíoltar i siopaí agus i mbialanna, agus áiseanna éisteachta do gach duine a bhfuil siad de dhíth orthu. Tá tábhacht le hiarracht phearsanta, ach tá tábhacht freisin leis an saol ina gcónaíonn daoine. Is cúis eile é gan an milleán a chur ar aon duine as diagnóis.
 
-## What are the honest limits of this research?
+## Cad iad teorainneacha macánta an taighde seo?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Tógann néaltrú blianta fada le forbairt**, ach maireann formhór na dtrialacha dhá bhliain go cúig bliana. Teastaíonn staidéir an-fhada agus an-mhóra chun néaltrú féin a thomhas, ní torthaí tástálacha amháin.
+- **Tomhaiseann formhór na dtrialacha tástálacha smaointeoireachta.** Ní gá go gciallódh feabhas beag ar thástáil go bhforbródh níos lú daoine néaltrú nó go mbeadh an saol laethúil níos éasca.
+- **Is minic a bhíonn oibrithe deonacha níos sláintiúla** agus níos oideachasúla ná an pobal i gcoitinne. Tugann Coimisiún Lancet faoi deara go dtagann formhór na fianaise fós ó thíortha ardioncaim agus go bhfuil grúpaí mionlaigh faoi léirithe.
+- **Ritheann roinnt nasc an dá bhealach.** Is féidir le bheith níos lú gníomhach nó níos lú sóisialta a bheith ina éifeacht luath néaltrú, ní ina chúis amháin.
+- **Bhí trialacha aiste bia díomách go dtí seo.** Ní bhfuair triail trí bliana ar aiste bia MIND aon difríocht shuntasach sa smaointeoireacht i gcomparáid le haiste bia rialaithe. Féach ár [dtreoir ar aiste bia](/brain-health/diet/).
+- **Níl cruthúnas ann go gcosnaíonn cluichí inchinne néaltrú.** Féach ár dtreoir ar
+  [chluichí inchinne agus néaltrú](/brain-health/brain-games/).
+- **Tá fianaise dhaonna an-teoranta ar throscadh**, agus d’fhéadfadh sé a bheith contúirteach do dhaoine fásta níos sine. Féach ár [dtreoir ar throscadh](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Má rinne duine gach rud ‘i gceart’, cén fáth ar fhorbair sé nó sí néaltrú fós?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Toisc nach toradh ar roghanna amháin é néaltrú. Deir an NIA gurb í
+[aois an fachtóir riosca is mó atá ar eolas maidir le galar Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+agus ní féidir le haon duine é a athrú. Tá ról ag géinte. Agus ní thuigeann eolaithe go hiomlán fós cad is cúis le galar Alzheimer i bhformhór na ndaoine. Fiú dá mbainfí gach ceann de na 14 thoisc riosca, fágann meastachán Choimisiún Lancet féin níos mó ná leath de na cásanna gan mhíniú.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Mar sin, má tá cúram á dhéanamh agat do dhuine a rinne aclaíocht, a d’ith go maith, nár chaith tobac riamh agus a d’fhorbair néaltrú fós, níor chuaigh aon rud mícheart ar a thaobh siúd ná ar do thaobhsa. Má tá tú féin ag maireachtáil le néaltrú, ní fault thú é. Bíonn ciontacht coitianta i measc teaghlach, ach níl sí tuillte. Is é an rud is tábhachtaí anois ná compord, nasc agus laethanta maithe, agus is áit mhaith le tosú iad ár [smaointe gníomhaíochta](/activities/ideas/) agus ár
+[dtreoir ar fhéinchúram do chúramóirí](/caregiving/caregiver-self-care/).
 
-## What steps can you talk over with a doctor?
+## Cad iad na céimeanna ar féidir leat a phlé le dochtúir?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Seo iad na réimsí is minice a ndéantar staidéar orthu. Is fiú iad a lua ag seiceáil sláinte mar go gcabhraíonn formhór acu le sláinte an chroí, le giúmar agus le neamhspleáchas freisin, is cuma cén éifeacht a bhíonn acu ar néaltrú sa deireadh.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Brú fola.** Fiafraigh cad iad do chuid uimhreacha agus cén sprioc a oireann duit. Molann Coimisiún Lancet díriú ar uimhir uachtarach de 130 nó níos ísle ó thart ar 40 bliana d’aois, ach braitheann an sprioc cheart do dhuine fásta níos sine ar a shláinte iomlán.
+2. **Éisteacht.** Iarr tástáil éisteachta, agus fiafraigh an gcabhródh áiseanna éisteachta. Míníonn ár
+   [dtreoir ar éisteacht](/brain-health/hearing/) an taighde.
+3. **Radharc.** Faigh scrúduithe súl rialta agus fiafraigh an féidir fadhbanna ar nós catarachtaí a chóireáil.
+4. **Colaistéaról.** Fiafraigh ar cheart do colaistéaról LDL a sheiceáil agus an gcaithfear aon rud a athrú.
+5. **Siúcra fola.** Má tá diaibéiteas ort, fiafraigh conas é a bhainistiú go sábháilte.
+6. **Giúmar.** Tá dúlagar coitianta agus is féidir é a chóireáil. Inis do dhochtúir má mhothaigh tú íseal nó má chaill tú spéis i rudaí ar feadh níos mó ná cúpla seachtain.
+7. **Caitheamh tobac agus alcól.** Iarr tacaíocht chun éirí as tobac agus faoi theorainneacha sábháilte alcóil.
+8. **Gluaiseacht.** Fiafraigh cén cineál gníomhaíochta atá sábháilte duit. Tá smaointe inár
+   [dtreoir ar aclaíocht](/brain-health/exercise/).
+9. **Cosaint cloiginn.** Caith clogad agus tú ag rothaíocht nó ag imirt spóirt teagmhála, agus fiafraigh faoi chosc titimí.
+10. **Fanacht ceangailte.** Is cuid de shaol sláintiúil é am le daoine eile. Féach ár dtreoir ar
+    [nasc sóisialta](/brain-health/social-connection/), agus ar
+    [chodladh](/brain-health/sleep/) freisin.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Sula n-athraíonn tú cógais, aiste bia, forlíonta, troscadh nó aclaíocht, labhair le do dhochtúir ar dtús, go háirithe má tá galar croí, diaibéiteas, stair titimí ort, nó má tá tú ag maireachtáil le néaltrú cheana féin.
 
-## Talk with a doctor
+## Labhair le dochtúir
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Má thugann tú faoi deara athruithe cuimhne nó smaointeoireachta a chuireann imní ort, ionat féin nó i nduine eile, cuir coinne in áirithe. Tugann an NIA faoi deara gur féidir le
+[fadhbanna cuimhne cúiseanna eile a bheith acu](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+mar shampla fo-iarmhairtí cógais, fadhbanna thyroid, dúlagar nó leibhéal íseal vitimín B12, agus go n-imíonn roinnt de na fadhbanna sin nuair a chóireáiltear an chúis. Míníonn ár
+[dtreoir ar chomharthaí rabhaidh](/brain-health/warning-signs/) cad ba cheart a thabhairt faoi deara.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Faigh cabhair phráinneach** le haghaidh athruithe tobanna: is féidir le mearbhall tobann, laige nó numpachas ar thaobh amháin, deacracht cainte, nó tinneas cinn trom a bheith ina gcomharthaí stróc nó éigeandála eile. Glaoigh ar 112 nó 999.
 
-## Where Golden Moments fits
+## Cá háit a n-oireann Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Cuireann Golden Moments gníomhaíochtaí simplí roinnte ar fáil, mar shampla
+[cártaí comhrá](/games/conversation-cards/),
+[biongó pictiúr](/games/picture-bingo/) agus
+[sos anála suaimhneach](/games/calm-breathing/). Tá siad ann le haghaidh taitneamh agus ama le chéile. Ní cóireáil iad, agus ní choisceann ná ní mhoillíonn siad néaltrú.

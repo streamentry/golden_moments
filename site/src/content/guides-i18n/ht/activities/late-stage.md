@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Aktivite pou demans nan dènye etap, nan kabann oswa sou chèz"
+seoTitle: "Aktivite demans dènye etap: nan kabann ak sou chèz"
+description: "Aktivite dous pou demans nan dènye etap, menm pou yon moun ki nan kabann oswa sou chèz: mizik, manyen, lekti awotvwa, son ak prezans ansanm, ak nòt sekirite."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Nan dènye etap demans lan, aktivite yo chita sou sans yo ak sou prezans ou:
+  jwe mizik yo pi renmen, kenbe men, bay yon ti masaj men dousman, li awotvwa,
+  gade foto, tande son lanati epi chita bò yon fenèt oswa deyò. Tout sa yo ka
+  fèt nan kabann oswa sou yon chèz. Kenbe sesyon yo kout, gade figi ak men pou
+  wè si moun nan alèz, epi sonje ke prezans ou se deja yon aktivite.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Lyen toujou posib. Nan dènye etap la, se sitou atravè sans yo moun nan ap viv sa k ap pase bò kote l."
+  - "Mizik, manyen dous, vwa abitye ak bagay mou pou kenbe souvan rive touche moun menm lè mo yo pa la ankò."
+  - "Prèske tout lide ki isit la ka fèt pou yon moun ki nan kabann oswa sou yon chèz."
+  - "Gade figi, men ak respirasyon pou wè si moun nan alèz oswa si li gen malèz, epi kanpe nenpòt ki lè ou wè siy detrès."
+  - "Evite ti bagay, epi ofri manje oswa bwè sèlman jan ekip swen an konseye, paske vale ka vin pa an sekirite."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Ki aktivite ou ka fè ak yon moun k ap viv ak demans nan dènye etap ki nan kabann?"
+    a: "Jwe mizik yo pi renmen, kenbe men yo, bay yon ti masaj men dousman ak losyon, li awotvwa nan yon liv oswa yon lapriyè yo renmen, montre foto, oswa jwe son lanati dous. Louvri rido yo pou yo ka wè deyò. Sesyon kout ak kalm, ak yon sèl bagay alafwa, souvan pi bon."
+  - q: "Èske moun k ap viv ak demans nan dènye etap ka toujou pran plezi nan mizik?"
+    a: "Anpil ka toujou pran plezi ladan l. Alzheimer's Association fè remake ke menm nan dènye etap la, yon moun ka toujou kapab bat ritm oswa chante ansanm ak yon chante depi anfans. Chwazi mizik yo te renmen lè yo te pi jèn epi kenbe volim nan ba."
+  - q: "Kijan pou mwen konnen si yo ap pran plezi nan yon aktivite?"
+    a: "Gade ti siy: zepòl ki detann, figi ki pi dous, je ki fè kontak, moun ki ap fredone, yon ti peze nan men oswa respirasyon ki pi dousman. Lè figi yo grimase, yo rale kò yo, yo ajite oswa yo plenn, sa ka vle di malèz oswa doulè. Si ou wè sa, kanpe epi di ekip swen an si sa kontinye."
+  - q: "Èske sa vo lapèn vizite si yo pa rekonèt mwen ankò?"
+    a: "Wi. National Institute on Aging fè remake ke senpleman prezans ou ka pote kalm, epi ke manyen, mizik ak istwa ka toujou pote konfò nan demans ki avanse. Vwa ou ak manyen ou ka toujou abitye pou yo menm lè non ou pa abitye ankò."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Nan dènye etap demans lan, yon moun ka pale anpil anpil, bezwen èd pou tout swen chak jou epi pase anpil nan jounen an nan kabann oswa sou yon chèz. Li ka sanble pa gen anyen ankò pou nou fè ansanm. Men gen toujou. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) fè remake ke yon pati enpòtan nan moun nan ka toujou la, epi ke nan etap sa a se sitou atravè sans yo moun nan ap viv sa k ap pase bò kote l. Mizik, manyen, yon vwa abitye ak prezans kalm ou ka toujou pote konfò ak ti moman koneksyon.
 
-## What activities help in late-stage dementia?
+## Ki aktivite ki ka ede nan demans nan dènye etap?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Aktivite sansoryèl senp ak yon prezans trankil souvan ede pi plis nan dènye etap la. Alzheimer's Association sijere jwe mizik yo pi renmen, li kèk pati nan liv ki gen sans pou yo, fwote po yo ak yon ti losyon ki gen yon sant yo renmen, epi chita deyò ansanm nan yon bèl jounen. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ajoute rakonte istwa, montre foto, bay ti manyen dous oswa masaj, jwe mizik, bri blan oswa son lanati, epi li di prezans ou poukont li ka pote kalm.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) fè remake ke moun ki nan dènye etap la souvan gen yon gwo bezwen kenbe yon bagay pre yo pou yo santi yo alèz, epi li sijere aktivite sansoryèl senp, ti etireman dous, mouvman ak echap, mizik, vizit bèt, manyen moun ak atizay lib.
 
-## Activities for someone in bed or a chair
+## Aktivite pou yon moun ki nan kabann oswa sou yon chèz
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Jwe mizik yo.** Chwazi chante ki soti nan lè yo te jèn granmoun, ki gen rapò ak lafwa yo oswa ak fanmi yo. Kenbe volim nan ba epi chita pre yo. Menm kounye a, gen moun ki ka bat yon dwèt oswa fredone. Gade [aktivite mizik](/activities/music/).
+2. **Kenbe men yo.** Senpleman kenbe yon men, ak yon ti fwote dous ak pous, se yon aktivite. Di sa w ap fè anvan.
+3. **Bay yon ti masaj men dousman.** Chofe yon ti kras losyon nan pla men ou epi fwote soti nan ponyèt rive nan pwent dwèt. Chwazi losyon ki pa gen sant, oswa yon sant yo te toujou renmen si po yo sipòte li.
+4. **Li awotvwa.** Yon powèm yo renmen, yon pasaj nan yon liv yo te renmen anpil, yon tèks relijye oswa paj espò. Ritm vwa ou pi enpòtan pase mo yo.
+5. **Rakonte yon istwa.** Pale sou yon vwayaj an fanmi oswa jou yo te marye. Ou pa bezwen repons.
+6. **Montre foto.** Kenbe yon sèl gwo foto alafwa nan nivo je yo epi dekri li ak chalè. Evite mande ki moun ki ladan l.
+7. **Ofri yon bagay mou pou kenbe.** Yon twal ki pliye, yon moso twal molton oswa yon bèt mou. NIA sijere bay moun nan yon twal pou kenbe pandan y ap deplase li, konsa li gen mwens chans pou l kenbe ou oswa mèb yo.
+8. **Jwe son lanati.** Lapli, vag oswa chante zwazo nan volim ki ba ka fè yon chanm ki gen bri vin pi dous.
+9. **Fè deyò antre anndan.** Louvri rido yo, mete yon manjwa pou zwazo deyò fenèt la, oswa pote kèk flè fre oswa fèy anndan pou gade ak manyen.
+10. **Ale deyò.** Si moun nan ka chita nan yon chèz awoulèt, kèk minit nan lonbraj nan yon jounen ki pa twò cho ni twò frèt ka fè yo plezi.
+11. **Penye cheve yo oswa ofri yon twal tyèd.** Swen dous ak dousman, ak yon twal tyèd pou men ak figi, ka fè yo santi yo byen.
+12. **Fè ti mouvman dous ak mizik.** Fè mouvman ak yon echap lejè ansanm, oswa balanse men yo nan ritm yon chante. Pou etireman ak mouvman jwenti, mande yon fizyoterapis oswa yon enfimyè montre w fason ki an sekirite anvan.
+13. **Fè atizay lib.** Mete penti ki pa toksik sou yon gwo papye ak yon eponj oswa ak men, ak gid ou. Pa gen bon rezilta oswa move rezilta.
+14. **Akeyi vizit bèt.** Yon bèt kay ki kalm sou kabann nan oswa sou janm yo, si moun nan te renmen bèt epi si kote a pèmèt sa.
+15. **Respire dousman ansanm.** Chita pre yo epi respire dousman, pou yo ka tande l. [Calm breathing](/games/calm-breathing/) ka ede nou tou de pran ritm, epi se ou ki kòmanse ak kanpe li.
+16. **Senpleman rete la.** Chita bò kote yo, fredone, trikote oswa li dousman. Prezans ou ase.
 
-## How to share an activity at this stage
+## Kijan pou pataje yon aktivite nan etap sa a
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Pwoche pa devan.** Di non yo ak non ou, epi pale dousman ak yon vwa ba anvan ou manyen yo.
+- **Ofri yon sèl bagay alafwa.** Etenn televizyon an anvan ou jwe mizik. Fè yon sèl sans alafwa.
+- **Kenbe l kout.** Kèk minit ka ase. Plizyè ti moman kout pandan jounen an pi bon pase yon sèl sesyon long.
+- **Fè yo alèz anvan.** Tcheke si moun nan byen sipòte. NIA sijere yon tablo pou janm pou repoze bra yo epi sipòte pati anlè kò a lè yo chita.
+- **Gade repons yo.** Men ki detann, yon figi ki pi dous, je ki fè kontak oswa fredone ka montre konfò. NIA fè remake ke plenn, figi ki grimase, pwoteje yon pati nan kò a oswa ajitasyon toudenkou ka siy doulè. Kanpe, epi di ekip swen an.
 
-## A quick guide by sense
+## Yon gid rapid selon sans yo
 
-| Sense | Ideas | Take care |
+| Sans | Lide | Fè atansyon |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Tande | Mizik yo renmen, vwa ou k ap li, son lanati | Kenbe volim nan ba; yon sèl son alafwa |
+| Manyen | Masaj men, kenbe men, twal mou, twal tyèd | Mande oswa anonse anvan; tcheke si po a pa fè mal oswa pa blese |
+| Wè | Foto, flè, sa ou wè nan fenèt la, yon videyo lanati ki dous | Kenbe bagay yo nan nivo je; bon limyè, san ekla |
+| Sant | Yon losyon yo renmen, flè fre, kafe k ap prepare toupre | Evite sant fò; verifye alèji ak respirasyon |
+| Gou | Yon ti gout nan yon gou yo renmen | Sèlman manje ak teksti ekip swen an di ki an sekirite |
 
-## Safety at this stage
+## Sekirite nan etap sa a
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Vale ka vin difisil nan dènye etap la, epi NIA avèti ke sa ogmante risk pou moun nan toufe. Pa kite ti bagay kote yo ka rive jwenn yo, epi ofri manje oswa bwè sèlman nan teksti ak pozisyon ekip swen an rekòmande. Tcheke po a dousman pandan aktivite manyen, paske po a ka chire oswa vin boul fasil. Pou plis sou lide sansoryèl ki an sekirite, gade [aktivite sansoryèl](/activities/sensory/).
 
-## Looking after yourself too
+## Pran swen tèt ou tou
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Bay swen nan dènye etap la mande anpil nan kò ak nan emosyon, kit se lakay oswa pandan vizit nan yon kay swen. Ekip swen ospis ak swen palyatif ka ede ak konfò, sipò ak planifikasyon, epi NIA site yo kòm yon sous èd. Vizit kout ak kalm vo lapèn; gade [vizite yon moun k ap viv ak demans](/activities/visiting/). Si ou dirije gwoup, [aktivite an gwoup nan kay swen](/activities/care-home-groups/) gen lide pou adapte sesyon yo. Tanpri li tou [pran swen tèt ou kòm moun k ap bay swen](/caregiving/caregiver-self-care/): repo se yon pati nan bay bon swen.

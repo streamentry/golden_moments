@@ -1,33 +1,28 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "ᐃᓅᓯᕐᔪᐊᑦ ᐱᓕᕆᐊᖏᑦ ᐊᖏᕐᕋᓛᖑᓪᓗᑎᒃ ᐃᓄᐃᑦ"
+seoTitle: "ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ: ᐃᓱᒪᒋᐊᕐᓂᖅ ᐊᒻᒪᓗ ᓄᓇᓕᕆᓂᖅ"
+description: "ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᐊᖏᕐᕋᓛᖑᓪᓗᑎᒃ ᐃᓄᐃᑦ, ᐊᑭᖃᖅᑐᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᖅ ᐊᒻᒪᓗ ᐃᓄᑎᖃᖅᑎᑦᑎᓂᖅ, ᐊᐅᑦᑕᖅᑐᑦ ᐊᑑᑎᖅᓱᖕᓂᖅ, ᓂᕆᔭᐃᑦ ᐊᒻᒪᓗ ᐃᓱᒪᒋᐊᕐᓂᖅ ᓂᐅᕕᖅᓴᓂᕐᒧᓪᓗ ᐊᒻᒪᓗ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᑐᓴᐅᒪᑎᑦᑎᓂᖅ."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᐊᑐᖅᑕᐅᔪᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ ᐊᒻᒪᓗ ᑐᕌᖓᔪᑦ ᐃᓱᒪᒋᐊᕐᓂᖅ, ᓂᐅᕕᖅᓴᓂᖅ, ᓂᕆᓂᖅ, ᑎᑦᑎᓂᖅ ᐊᒻᒪᓗ ᑕᑯᓂᖅ: ᐊᑭᖃᖅᑐᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᖅ, ᓄᑲᕐᓂᖅᑕᖅᑎᒋᔭᐅᔪᑦ ᐊᐅᑦᑕᖅᑐᑦ ᐃᒻᒪᖅ, ᓇᒻᒥᓂᖅ ᐃᑭᐊᖅᑭᕕᒃᑯᑦ ᓂᐅᕕᖅᓴᖅ, ᐃᓄᐃᑦ ᓂᕆᔭᐃᑦ ᐃᓂᕐᔪᐊᖅ, ᐅᓪᓗᖅᓱᐃᑦ ᑐᓴᐅᒪᑎᑦᑎᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑎᑭᖅᑕᐅᓂᖅ ᑕᑯᓂᐊᖅᑐᓄᑦ ᐃᒃᑯᓐᓇᕐᒥ. ᑕᒪᐃᓐᓄᖅ ᐱᓕᕆᐊᑦ ᐱᔭᐅᔪᑦ ᑕᐃᒪᓐᓇ ᖃᓄᐃᓕᖓᓂᖏᓐᓂᒃ ᐊᒻᒪᓗ ᐱᒻᒪᕆᐅᔪᑦ ᐊᖏᖅᖠᓂᖓᓐᓂ ᐊᒥᓲᓂᖅᓴᐅᓪᓗᑎᒃ. ᓯᕗᓂᒃᓴᐅᑎᑦᑎᓗᒍ ᓂᐅᕕᖅᓴᖅ ᓂᒃᑯᐊᓂᕐᒧᑦ ᐊᔾᔨᓕᐅᕈᑎᖃᖅᑐᓂᒃ, ᑭᓲᑎᓪᓗᒍ ᓂᕆᓂᕐᒧᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ, ᐊᓂᕐᓇᖅᑐᑦ, ᐊᑎᖅᑲᓪᓚᕆᓂᖅ ᐊᒻᒪᓗ ᓂᐅᕕᖅᓴᖅ ᐃᓅᖃᑎᒋᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᖅ, ᐊᑕᐅᓯᕐᒥᒃ ᑐᕌᖓᓂᒃ ᑐᑭᓯᒋᐊᕐᓗᒍ, ᐊᒻᒪᓗ ᓄᖅᑲᕆᓗᒍ ᐃᓄᒃ ᐊᓯᖅᑎᕆᓪᓗᓂᕐᒧᑦ ᐃᓱᒪᒋᔭᖓᓂ.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᖏᑦ ᐱᔭᐅᙱᑦᑐᑦ ᑕᐅᖅᓰᓂᕐᒧᑦ ᑭᒃᑯᓕᒫᖅᑕᐅᓂᕐᒧᓪᓗ, ᑕᐃᒪᓐᓇᐃᑦ ᐱᓇᓱᐊᖅᑎᑦᑎᔪᑦ ᑕᐃᒪᓐᓇ ᖃᓄᐃᓕᖓᓂᖏᓐᓂ ᐃᓅᓯᕐᒥ, ᐃᓂᕐᔪᐊᒥᓪᓗ ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᑦᑕᖅᑐᒥ."
+  - "ᐊᑕᐅᓯᕐᒥᒃ ᑐᕌᖓᓂᒃ ᑐᑭᓯᒋᐊᕐᓗᒍ ᑲᔾᔮᖅᑖᕈᑎᒥᓂ, ᐊᐱᕆᓗᒍ ᐅᕝᕙᓘᓐᓃᑦ ᑐᓴᖅᑎᑦᑎᓗᒍ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᓯᕗᓂᒃᓴᐅᓪᓗᓂ."
+  - "ᐊᑐᖅᑕᐅᓗᒍ ᓂᐅᕕᖅᓴᖅ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑕᒪᐃᓐᓄᖅ ᐃᓪᓕᒋᔭᐅᔪᓐᓇᖅᑐᑦ ᓂᕆᔭᐅᓂᐊᖅᑐᑦ ᐃᓕᓴᐃᑎᑦᑎᒍᓐᓇᖅᑐᑦ ᓂᕆᔭᐅᙱᑦᑐᑦ, ᐃᓄᒃ ᐊᑐᖅᑕᐅᔪᑦ ᓂᐅᕕᖅᓴᖅ ᖃᖓᒍ ᓂᕆᔭᐅᓂᐊᖅᑐᓂᒃ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᐃᓗᓕᖅᓱᖅᑕᐅᓪᓗᑎᒃ."
+  - "ᓯᕗᓂᒃᓴᐅᑎᑦᑎᓗᒍ ᑭᓲᑎᓪᓗᒍ ᑎᖕᖒᑎᓪᓗᒍ ᐊᓂᕐᓇᖅᑐᓂᒃ, ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᐊᒻᒪᓗ ᓱᓕᓪᓗᓂᐊᕐᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᖅ ᐱᓇᓱᐊᖅᑎᑦᑎᓂᕐᒥ, ᓂᐅᕕᖅᓴᑦ, ᐃᓕᓴᐃᑎᑦᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓂᕆᔭᐃᑦ ᐊᑐᖅᑕᐅᓂᕐᒧᑦ ᓯᕗᓂᒃᓴᐅᓪᓗᓂ."
+  - "ᐊᕐᕌᒍᓄᑦ ᑲᑎᖅᓱᖅᑕᐅᔪᑦ ᑭᒡᒐᖅᑐᐃᓐᓇᐅᔪᑦ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ ᐃᓕᓴᐃᑎᑦᑎᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᔭᐅᙱᓐᓂᖅᑕᖅ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᕐᒧᑦ ᐃᓄᐃᑦ; ᐊᑕᐅᓯᕐᒥᒃ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᓂᐊᖅᑐᖅ ᓂᐅᕕᖅᓴᖅ ᐃᓅᓯᕐᒥ ᖁᕕᐊᓱᖕᓂᕐᒧᑦ ᑭᓯᐊᓂᕐᒥᒃ, ᐱᔭᐅᓗᓂᒃ ᑭᓯᐊᓂ."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "ᖃᓄᐃᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᐱᒃᑲᓪᓗᓂᐊᖅᑐᑦ ᐊᖏᕐᕋᓛᖑᓪᓗᑎᒃ ᐃᓄᒃ?"
+    a: "ᐃᓱᒪᒋᐊᕐᓗᒍ ᐃᓱᒪᒋᐊᕐᓂᖅ ᐊᑭᖃᖅᑐᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᖅ, ᐊᐅᑦᑕᖅᑐᑦ ᐊᑑᑎᖅᓱᖕᓂᖅ, ᓇᒻᒥᓂᖅ ᐃᑭᐊᖅᑭᕕᒃᑯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᖃᕆᑕᐅᔭᒃᑯᑦ, ᓂᐅᕕᖅᓴᖅ ᓇᐃᓈᖅᑐᑦ ᓂᕆᔭᐃᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓄᐃᑦ ᓇᐃᓈᖅᑐᑦ ᐊᑭᑦᑐᖅᑕᐅᓯᒪᔪᑦ, ᑐᓴᖅᑎᑦᑎᓂᖅ ᐃᓄᐃᑦ ᓇᐃᓈᖅᑐᑦ ᐱᖅᑯᓯᖏᑦ ᐊᒻᒪᓗ ᓄᓇᓕᕆᓂᖅ, ᑕᑯᓂᖅ ᑎᑭᖅᑕᐅᓂᐊᖅᑐᓄᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓄᕐᓄᑦ ᐃᒃᑯᓐᓇᕐᒥ, ᐊᒻᒪᓗ ᓂᕆᓂᖅ ᐃᓄᒃ ᓇᐃᓈᖅᑐᖅ ᓂᕆᔭᖅ ᐊᑑᑎᖅᓱᖕᓂᖅᑕᖅ ᐱᔭᐅᔪᓐᓇᖅᑐᒥ. ᐊᑕᐅᓯᕐᒥᒃ ᑐᕌᖓᓂᒃ ᑐᑭᓯᒋᐊᕐᓗᒍ, ᖃᐅᔨᒋᐊᕐᓗᒍᓗ ᐃᓄᒃ ᑭᐅᓂᖓᓂ."
+  - q: "ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᓄᓇᓕᕆᔭᐅᔪᓐᓇᖅᖢᑎᒃ ᐃᓄᐃᑦ ᓂᐅᕕᖅᓴᖅ ᖃᖓᒍ ᓂᕆᔭᐅᓂᐊᖅᑐᓂᒃ ᐅᓂᒃᑳᖅᑕᐅᔪᓂᒃ?"
+    a: "ᐱᔭᐅᔪᓐᓇᖅᖢᑎᒃ, ᑲᒪᒋᐊᕐᓗᒍ. ᐊᑐᖅᑕᐅᓗᒋᑦ ᓂᐅᕕᖅᓴᖅ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᐊᖏᐋᓚᐅᙱᑦᑐᑦ ᓂᕆᔭᐅᓂᐊᖅᑐᓐᓂᒃ. ᐃᓂᕐᔪᐊᑦ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᖅᑎᕆᓪᓗᑎᒃ ᓇᓗᓇᐃᖅᓯᖅᑕᐅᙱᑦᑐᑦ, ᐊᒻᒪᓗ ᓂᐅᕕᖅᓴᑦ, ᓱᑲᐳᑦ, ᐃᓕᓴᐃᑎᑦ ᐊᒻᒪᓗ ᓂᐅᕕᖅᓴᖅ ᐱᓐᓇᐅᑎᖃᖅᑐᑦ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᐊᖏᖅᖠᓂᕐᒥ ᐃᓂᖅᑎᑦᑎᓗᒋᑦ, ᐃᓄᒃ ᓂᕆᔭᐅᓂᐊᖅᑐᓂᒃ ᐃᓱᒪᒋᔭᐅᔪᓐᓇᖅᑐᑦ ᐃᓕᓴᐃᑎᑦᑎᓂᕐᒧᑦ. ᐊᒻᒪᓗ ᐃᓄᒃ ᐊᑭᖃᖅᑐᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒥ ᐃᑲᔪᕐᓗᒍ."
+  - q: "ᐃᓕᓴᐃᑎᑦᑎᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐃᑲᔪᕐᓯᒪᔪᓐᓇᖅᖢᑎᒃ?"
+    a: "ᐊᕐᕌᒍᓄᑦ ᑲᑎᖅᓱᖅᑕᐅᔪᑦ ᑭᒡᒐᖅᑐᐃᓐᓇᐅᔪᑦ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐃᑲᔪᕐᓯᒪᔪᓐᓇᖅᖢᑎᒃ ᐱᔭᐅᙱᓐᓂᖅᑕᖅ, ᖃᐅᔨᓴᐅᑎᑦ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᐅᓂᒃᑳᖅᑕᐅᓪᓗᑎᒃ ᐊᒻᒪᓗ ᐊᔾᔨᒌᙱᓐᓂᖅᑕᖅᓴᐅᓪᓗᑎᒃ. ᐊᒻᒪᓗ ᐃᓄᒃ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᓄᑦ ᖁᕕᐊᓱᖕᓂᖅᑕᖓ ᓂᐅᕕᖅᓴᖅ ᓇᐃᓈᖅᑐᖅ, ᐅᑯᐊᓐᓂᖅᑕᐅᔪᖅ, ᑕᐃᒪᓐᓇᐃᑦ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐱᔭᐅᔪᓐᓇᖅᖢᑎᒃ. ᓯᕗᓂᒃᓴᐅᓗᒍ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐃᓕᓴᐃᑎᑦᑎᖅᑕᐅᔪᑦ ᐊᐅᒪᒃᑯᑦ ᐊᒻᒪᓗ ᓱᓕᓪᓗᓂᐊᕐᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᖅ, ᐊᖏᖅᖠᓂᖅᓴᐅᓪᓗᑎᒃ ᐊᓂᕐᓇᖅᑐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓱᓕᓪᓗᓂᐊᕐᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᖅ."
+  - q: "ᖃᓄᐃᑦ ᐱᓕᕆᐊᖅ ᐊᑐᖅᑕᐅᔪᖅ ᐊᑭᖃᖅᑐᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓅᖃᑎᒋᓂᕐᒧᑦ ᐊᐅᑦᑕᖅᑐᑦ?"
+    a: "ᑕᐃᒪᐃᓐᓄᖅ ᐊᐅᑦᑕᖅᑐᑦ ᐃᒻᒪᖅ, ᐊᐅᑦᑕᖅᑐᑦ ᐃᒪᓕᒃᑯᑦ ᑕᖅᑲᐅᑎᑦᑎᑦ, ᐊᐅᑦᑕᖅᑐᑦ ᑎᑭᑦ, ᐊᒻᒪᓗ ᐊᐅᑦᑕᖅᑐᑦ ᐊᑐᖅᑕᐅᔪᑦ ᐊᑑᑎᖅᓱᖕᓂᖅ ᐊᖏᐋᖅᑕᐅᔪᑦ ᐊᐅᑦᑕᖅᑐᒥ ᐃᓂᖅᑎᑦᑎᓪᓗᒋᑦ ᐊᖏᖅᖠᓂᕐᒥ. ᑕᐃᒪᐃᓐᓄᖅ ᐱᓕᕆᐊᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᐱᔭᐅᔪᓐᓇᖅᖢᑎᒃ ᐊᑎᖅᑲᓪᓚᕆᓂᖅ ᐊᒻᒪᓗ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᖢᑎᒃ. ᑕᐃᒪᐃᓐᓄᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ ᖃᐅᔨᒋᐊᕐᓗᒍ ᑎᑭᖅᑕᐅᓂᖓᓂ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ, ᐃᓂᕐᔪᐊᖅ ᓄᖅᑲᖅᑕᐅᓪᓗᓂᕐᒧᑦ."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᐊᑐᖅᑕᐅᔪᑦ ᑕᓪᓕᒪᑦ ᐃᓱᒪᒋᐊᕐᓂᕐᒧᑦ: ᐊᑎᖅᑲᓪᓚᕆᓂᖅ, ᓂᐅᕕᖅᓴᓂᖅ, ᓂᕆᓂᖅ, ᑎᑦᑎᓂᖅ ᐊᒻᒪᓗ ᑕᑯᓂᖅ. ᐃᓅᓯᕐᒥ ᐃᖅᑲᓇᐃᔮᖅᑕᐅᙱᓐᓂᖅᑕᐅᓪᓗᑎᒃ, ᐊᑯᓂᐅᔪᑦ ᐊᒃᑐᐃᓐᓇᙱᓪᓗᑎᒃ ᐊᒻᒪᓗ ᑕᐅᖅᓰᓂᕐᒧᑦ ᑭᒃᑯᓕᒫᖅᑕᐅᙱᓐᓂᖅᑕᐅᓪᓗᑎᒃ, ᑕᐃᒪᓐᓇᐃᑦ ᐱᓇᓱᐊᖅᑎᑦᑎᔪᑦ ᑕᐃᒪᓐᓇ ᖃᓄᐃᓕᖓᓂᖏᓐᓂ ᐃᓅᓯᕐᒥ. ᐱᒻᒪᕆᐅᔪᑦ ᐊᖏᖅᖠᓂᖓᓐᓂ ᐊᒥᓲᓂᖅᓴᐅᓪᓗᑎᒃ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage)-ᒥ ᐅᖃᐅᓯᖅᑕᐅᔪᖅ ᐊᖏᖅᖠᓂᖓᓐᓂ ᐃᓅᓯᕐᒥ ᓄᓇᐃᑦ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᑭᓯᐊᓂ ᐃᓱᒪᒋᐊᕐᓯᒪᔪᖅ, ᐊᒻᒪᓗ ᐃᑲᔪᖅᑐᐃᔪᓐᓇᖅᖢᑎᒃ ᐃᑲᔪᕐᓗᒍ ᐊᑎᖅᑲᓪᓚᕆᓂᖅ, ᑎᑦᑎᓂᖅ, ᑕᑯᓂᖅ, ᓂᕆᓂᖅ ᐊᒻᒪᓗ ᓂᐅᕕᖅᓴᓂᖅ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ. ᓄᓇᓕᕆᓂᕐᒧᑦ ᓯᕗᓂᒃᓴᐅᑎᑦᑎᓂᖅ ᐱᓇᓱᐊᖅᑎᑦᑎᔪᑦ ᑕᒪᐃᓐᓄᖅ ᐱᓕᕆᐊᑦ ᖃᓄᐃᓕᐅᕈᑕᐅᔪᓐᓇᖅᖢᑎᒃ ᖁᕕᐊᓱᖕᓂᕐᒧᑦ ᓱᓇᒃᑯᑦ ᓄᓇᖃᖅᑎᒌᑦ.
 
-## What are sensory activities for dementia?
+## ᖃᓄᐃᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᐊᖏᕐᕋᓛᖑᓪᓗᑎᒃ ᐃᓄᐃᑦ?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᐃᓱᒪᒋᐊᕐᓯᒪᔪᑦ ᐊᑕᐅᓯᕐᒥᒃ ᐃᓱᒪᒋᐊᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᑦ, ᐊᐅᑦᑕᖅᑐᑦ ᐊᑑᑎᖅᓱᖕᓂᖅ, ᐃᑭᐊᖅᑭᕕᒃᑯᑦ ᓂᐅᕕᖅᓴᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓯᕗᓂᐅᔭᖅ ᑎᑦᑎᓂᖅ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ᐅᖃᐅᓯᖅᑕᐅᔪᖅ ᐊᖏᖅᖠᓂᖓᓐᓂ ᐱᓕᕆᐊᑦ ᐊᒥᓲᓂᖅᓴᐅᔪᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐃᓱᒪᒋᐊᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ, ᐊᒻᒪᓗ ᐅᖃᐅᓯᖅᑕᐅᔪᖅ ᐱᖅᑯᓯᖏᑦ, ᓂᐅᕕᖅᓴᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᐊᒻᒪᓗ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᐊᑭᖃᖅᑐᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᖅ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ᐅᖃᐅᓯᖅᑕᐅᔪᖅ ᐊᖏᖅᖠᓂᖓᓐᓂ ᐃᓄᐃᑦ ᐊᒥᓲᓂᖅᓴᐅᔪᖅ ᐱᔭᐅᓂᐊᖅᑐᓂᒃ ᓂᐅᕕᖅᓴᖅ ᐊᑎᖅᑲᓪᓚᕆᓪᓗᒍ ᓇᖕᒥᓂ ᖁᕕᐊᓱᖕᓂᐊᖅᑐᓂᒃ.
 
-## Sensory ideas, sense by sense
+## ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐃᓱᒪᒋᐊᕐᓂᕐᒧᑦ, ᐊᑕᐅᓯᕐᒥᒃ ᐃᓱᒪᒋᐊᕐᓂᖓᓄᑦ ᒪᓕᒐᑎᒍᑦ
 
-### Touch
+### ᐊᑎᖅᑲᓪᓚᕆᓂᖅ
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **ᐊᑎᖅᑲᓪᓚᕆᓂᖅ ᐊᑭᖃᖅᑐᖅ.** ᐅᑭᐅᖅᑕᖅᑎᒍᑦ ᓱᑲᑎᖅ ᐊᑭᖃᖅᑐᖅ ᐊᑎᖅᑲᓪᓚᕆᓗᒍ, ᐊᑭᖃᖅᑐᖅ ᐊᒃᑯᑦᑎᓪᓗᒍ ᐊᑎᖅᑲᓪᓚᕆᓗᒍ ᑕᖅᑲᐅᑎᑦᑎᖕᒥᑦ ᐃᑭᐊᖅᑭᕕᒃᑯᑦ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ᐅᖃᐅᓯᖅᑕᐅᔪᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᐃᓕᓴᐃᑎᑦᑎᒍᑦ ᐊᖏᖅᖠᓂᖓᓐᓂ ᖁᕕᐊᓱᖕᓂᕐᒧᑦ ᐱᔭᐅᔪᖅ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ.
+- **ᐊᐅᑦᑕᖅᑐᑦ ᐃᒻᒪᖅ.** ᐊᐅᑦᑕᖅᑐᑦ ᐊᑑᑎᖅᓱᖕᓂᖅᑕᐅᔪᑦ ᖁᓕᒻᒪᑕ, ᑲᖏᖅᖤᓯᒪᔪᑦ, ᐊᐅᑦᑕᖅᑐᑦ, ᓴᑎᓐᓇᖅᑐᑦ ᐊᒻᒪᓗ ᑲᓐᖓᖅᑐᑦ ᐊᑎᖅᑲᓪᓚᕆᓪᓗᒋᑦ, ᐊᐅᓚᔪᒍᓪᓗᒋᑦ ᐊᒻᒪᓗ ᐅᖃᖅᑎᒋᓪᓗᒋᑦ.
+- **ᐅᑭᐅᖅᑕᖅᑐᖅ ᐊᕐᕌᖕᓄᑦ.** ᐅᑭᐅᖅᑕᖅᑐᖅ, ᐃᒪᖅᑕᖅᑐᖅ ᐊᕐᕌᖕᓄᑦ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᓄᓇᐃᑦ ᐃᑲᓂᕐᒥ. ᐅᑭᐅᖅᑕᖅᑐᓂᖓᓂ ᖃᐅᔨᒋᐊᕐᓗᒍ ᐊᑎᖅᑲᓪᓚᕆᓪᓗᒍ ᓄᓇᖃᖅᑎᒍᑦ.
+- **ᐱᓕᕆᐊᖅ ᐊᑐᖅᑕᐅᔪᖅ ᐊᑑᑎᖅᓱᖕᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓂᕐᔪᐊᒥ ᐊᐅᑦᑕᖅᑐᖅ.** ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᓇᐹᖅᑕᐅᔪᑦ, ᐊᑐᕐᓇᖅᑐᑦ, ᐃᓕᓐᓄᐃᑦ ᐊᒻᒪᓗ ᐊᐅᑦᑕᖅᑐᑦ ᐊᑑᑎᖅᓱᖕᓂᖅ ᐃᓂᖅᑎᑦᑎᓪᓗᒋᑦ ᐃᓂᖅᑎᑦᑎᓂᕐᒧᑦ ᖃᓄᐃᑦ ᐊᖏᖅᖠᓂᖅᑕᐅᓪᓗᒍ.
+- **ᐊᐅᓚᔪᓂᖅ ᐊᒻᒪᓗ ᐊᑑᑎᖅᓱᖕᓂᖅ.** ᐊᐅᑦᑕᖅᑐᑦ ᐊᕐᕌᖕᓄᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓇᐹᖅᑕᐅᔪᑦ ᐊᐅᓚᔪᓪᓗᒋᑦ, ᓇᐅᓕᖅᑎᓪᓗᒋᑦ ᐊᒻᒪᓗ ᐊᓄᓪᓚᕆᓪᓗᒋᑦ.
+- **ᓂᐅᕕᖅᓴᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ.** ᐊᐅᑦᑕᖅᑐᖅ ᐊᐅᑦᑕᖅᑐᒧᑦ, ᐊᐅᑦᑕᖅᑐᖅ ᐃᒻᒪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᖏᖅᖠᓂᖅᑕᐅᔪᖅ ᓇᐹᖅᑕᐅᔪᖅ ᐆᒻᒪᖅᑐᖅ, ᑐᑭᓯᒋᐊᕐᓗᒍ ᐊᑐᖅᑕᐅᔪᖅ ᐊᑭᖃᖅᑐᖅ, ᓄᓇᖃᖅᑎᖃᖅᑐᒧᑦ ᐱᓕᕆᐊᖅ ᐃᓕᓴᐃᑎᑦᑎᒍᓐᓇᖅᑐᖅ.
 
-### Smell
+### ᓂᐅᕕᖅᓴᓂᖅ
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **ᓇᒻᒥᓂᖅ ᐃᑭᐊᖅᑭᕕᒃᑯᑦ.** ᓂᐅᕕᖅᓴᖅ ᐱᐅᓯᒻᒪᑦ, ᕈᓯᒪᓕᒃ, ᐸᓯᓕᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓚᕙᓐᑕᑦ ᓂᐅᕕᖅᓴᖅ ᐃᑭᐊᖅᑭᕕᒃᑯᑦ ᐊᑎᖅᑲᓪᓚᕆᓪᓗᒍ ᓂᐅᕕᖅᓴᖅ ᑐᕌᖓᓄᑦ ᑐᑭᓯᒋᐊᕐᓗᒍ.
+- **ᓂᕆᕕᒃᑯᑦ ᓂᐅᕕᖅᓴᓂᖅ.** ᖃᕆᑕᐅᔭᒃᑯᑦ ᐃᕝᕕᐊᖅᑕᐅᓪᓗᓂ, ᐃᖃᓗᐊᖅᑐᖅ ᓂᐅᕕᖅᓴᖅ, ᓯᓂᒻᒪᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐅᐱᓕᒃ ᐅᕝᕙᓘᓐᓃᑦ ᑯᕐᕋᕐᒥ ᐱᕈᕐᓯᒪᔪᖅ ᐊᑭᖃᖅᑐᖅ.
+- **ᐊᐅᑦᑕᖅᑐᑦ.** ᓇᒻᒥᓂᖅ ᐊᐅᑦᑕᖅᑐᑦ ᓇᐹᖅᑕᐅᔪᑦ ᓂᐅᕕᖅᓴᖅ.
+- **ᓇᐃᓈᖅᑐᖅ ᐱᓕᕆᐊᖅ ᐊᑐᖅᑕᐅᔪᖅ.** ᓱᑲᐳᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓕᓴᐃᑎᑦᑎᖅ ᐊᑐᖅᑕᐅᔪᖅ, ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᐊᖏᖅᖠᓂᖓᓂ ᐊᖏᖅᖠᓂᖅᑕᐅᓪᓗᓂ.
 
-### Taste
+### ᓂᕆᓂᖅ
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **ᓇᐃᓈᖅᑐᖅ ᐅᖃᐅᓯᖃᖅᑐᖅ.** ᐅᓂᒃᑳᖅᑕᐅᔪᖅ ᓂᕆᔭᖅ ᓇᐃᓈᖅᑐᖅ, ᐊᑯᑎᒋᔭᐅᓪᓗᓂ ᖃᓄᐃᓕᖓᓂᖓᓂ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᖢᑎᒃ, ᐊᑯᑎᒋᔭᐅᓪᓗᓂ ᐊᐳᑎᖅ, ᐳᑎᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᑎᖅ.
+- **ᐊᐃᑲᔪᖅᑕᐅᓪᓗᒍ ᐃᒃᑯᐊᓂᕐᒥ.** ᐅᒥᒃᑯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓂᕆᔭᖅ ᐅᓂᒃᑳᖅᑕᐅᔪᖅ ᓂᕆᓪᓗᒍ ᐃᒃᑯᐊᓂᕐᒥ ᐊᐃᑲᔪᖅᑕᐅᓪᓗᒍ.
+- **ᐊᕐᕌᒍ ᐊᑐᖅᑕᐅᔪᖅ ᓂᕆᔭᐃᑦ.** ᐅᐱᓕᒃ ᐱᕈᖅᑐᖅ ᐱᐅᓯᒻᒪᑦ, ᐅᑭᐅᖅᑕᖅᑐᖅ ᓯᓂᒻᒪᓂᖅ ᐊᐅᑦᑕᖅᑐᖅᓯᒪᔪᖅ ᓄᓇᐃᑦ ᖃᓄᐃᓕᖓᓂᖓᓂ ᓂᕆᔭᐅᓪᓗᓂ.
 
-### Sound
+### ᑎᑦᑎᓂᖅ
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **ᓇᐃᓈᖅᑐᑦ ᐱᖅᑯᓯᖏᑦ.** ᓇᐃᓈᖅᑐᑦ ᐱᖅᑯᓯᖏᑦ ᓇᐅᑦᑕᖅᓯᒪᔪᖅ ᐊᑎᖅᑲᓪᓚᕆᓪᓗᒍ; ᑕᑯᓗᒍ [ᐱᖅᑯᓯᖏᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ](/activities/music/).
+- **ᐃᓄᐃᑦ ᓂᕆᔭᐃᑦ ᑐᓴᐅᒪᑎᑦᑎᓂᖅ.** ᓯᕗᓂᐅᔭᖅ, ᐃᒪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑎᑭᖅᑕᐅᓂᐊᖅᑐᑦ ᑐᓴᐅᒪᑎᑦᑎᓂᖅ. National Institute on Aging ᐅᖃᐅᓯᖅᑕᐅᔪᖅ ᐱᖅᑯᓯᖏᑦ, ᓇᒻᒥᓂᖅ ᑐᓴᐅᒪᑎᑦᑎᓂᖅ ᐊᒻᒪᓗ ᐃᓄᐃᑦ ᓂᕆᔭᐃᑦ ᑐᓴᐅᒪᑎᑦᑎᓂᖅ ᖃᓄᐃᓕᐅᕈᑕᐅᔪᓐᓇᖅᖢᑎᒃ ᐊᒥᓲᓂᖅᓴᐅᔪᓄᑦ ᖁᕕᐊᓱᖕᓂᐊᖅᑐᓂᒃ.
+- **ᓂᑉᐹᖅᑕᐅᔪᖅ.** ᐅᖃᖅᑎᓪᓗᒍ, ᐃᒃᑯᐊᓂᖅᑎᓪᓗᒍ, ᐅᕝᕙᓘᓐᓃᑦ ᐅᖃᐅᓯᖅ ᑐᓴᖅᑎᑦᑎᓪᓗᒍ.
+- **ᓄᓇᐃᑦ ᐱᓕᕆᐊᖏᑦ.** ᐊᑭᖃᖅᑐᖅ ᑎᑎᖅᑲᖅ, ᐃᓅᖃᑎᒌᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓇᓗᓀᑦ ᐱᖅᑯᓯᖏᑦ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ ᐱᖅᑯᓯᖏᑦ ᓂᕆᔭᐅᓪᓗᑎᒃ.
 
-### Sight
+### ᑕᑯᓂᖅ
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **ᐃᒃᑯᓐᓇᕐᒥ ᑕᑯᓂᖅ.** ᑎᑭᖅᑕᐅᓂᐊᖅᑐᑦ ᐊᐅᓪᓚᓂᖅ, ᓄᓇᓕᒃᑯᑦ ᐊᐃᑲᔪᖅᑕᐅᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᐳᑎᖅ ᑕᕐᕋᒃᑯᑦ.
+- **ᐅᓄᕐᓄᑦ ᐃᒃᑯᓐᓇᕐᒥ ᐅᕝᕙᓘᓐᓃᑦ ᓱᖁᓪᓗᖅᑕᐅᔪᖅ ᑕᑯᓂᖅ.** ᐊᒥᓲᓂᖅᓴᐅᔪᖅ ᓱᖁᓪᓗᖅᑕᐅᓂᖅ ᓇᐅᑦᑕᖅᓯᒪᔪᖅ ᑐᓴᐅᒪᑎᑦᑎᓂᖅᑕᐅᙱᓐᓂᖅᑕᐅᓪᓗᓂ.
+- **ᐊᖏᐋᓚᐅᔪᑦ ᐊᔾᔨᐅᔪᑦ.** ᐊᑕᐅᓯᕐᒥᒃ ᐊᔾᔨᐅᔪᖅ ᐃᒃᑯᓐᓇᕐᒥ ᐊᑎᖅᑲᓪᓚᕆᓗᒍ ᐊᔾᔨᖅᓱᖕᓂᖓᓂ.
+- **ᓴᓇᓕᐅᕐᓂᖅ ᐊᒻᒪᓗ ᐊᔾᔨᐅᔪᑦ.** ᐊᐅᑦᑕᖅᑐᑦ ᐊᑑᑎᖅᓱᖕᓂᖅ ᐊᖏᐋᓚᐅᔪᑦ ᐊᖏᖅᖠᓂᖅᑎᑦᑎᓪᓗᒋᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᔾᔨᖅᓱᖕᓂᖅ ᓄᑕᖅᑲᖅᑎᑦᑎᓗᒍ ᐅᖃᖅᑎᒋᓪᓗᒋᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑐᖅᑕᐅᓪᓗᒍ ᐊᐅᑦᑕᖅᑐᖅ ᐊᔾᔨᖅᓱᖕᓂᖅ [ᐊᔾᔨᖅᓱᖕᓂᕐᒧᑦ](/games/coloring/)-ᑯᑦ.
+- **ᓄᓇᒥ ᐊᐃᑲᔪᖅᑕᐅᓂᖅ.** NHS ᐅᖃᐅᓯᖅᑕᐅᔪᖅ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᖃᑎᒋᓂᖅ ᓄᓇᒥ ᐊᐅᑦᑕᖅᑐᑦ ᐃᑭᐊᖅᑭᕕᒃᑯᑦ, ᐊᑑᑎᖅᓱᖕᓂᖅ ᐊᒻᒪᓗ ᐃᒪᖅ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ. ᑕᑯᓗᒍ [ᓄᓇᒥ ᐊᐃᑲᔪᖅᑕᐅᓂᕐᒧᑦ ᐊᒻᒪᓗ ᐱᖃᓯᐅᑎᒋᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## ᖃᓄᐃᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᓇᓗᓀᑦ ᓴᓇᓂᖅ
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **ᐊᔾᔨᖅ ᓂᕈᐊᕐᓗᒍ** ᐃᓄᒃ ᐃᓅᓯᖓᓄᑦ ᒪᓕᒐᑎᒍᑦ: ᑕᕐᕋᓂᖅ, ᐱᖃᓯᐅᑎᒋᓂᖅ, ᓂᕆᕕᒃ, ᓴᓇᓕᐅᕐᕕᒃ, ᐊᔾᔨᖅᓱᖕᓂᕐᒧᑦ ᐱᓕᕆᐊᖅ.
+2. **ᑕᖅᑲᐅᓪᓗᒋᑦ ᑕᓪᓕᒪᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐱᖓᓱᑦ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᓄᓇᓕᕆᔭᐅᔪᑦ,** ᐊᖏᐋᓚᐅᔪᖅ ᑕᕐᕋᒃᑯᑦ ᖁᓛᖅ, ᑎᑭᑦᑎᕋᖅ ᑐᑭᒋᔭᐅᔪᖅ, ᐊᐅᑦᑕᖅᑐᖅ ᓴᓕᒻᒪᑦ, ᐃᓕᓴᐃᑎᑦᑎᖅ ᓚᕙᓐᑕᑦ ᐃᓂᖅᑎᑦᑎᓪᓗᒍ ᓂᕐᑲᑎᑦᑎᓪᓗᒍ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑑᑎᖅᓱᖕᓂᖅ ᑐᑭᒋᔭᐅᔪᖅ.
+3. **ᖃᐅᔨᒋᐊᕐᓗᒍ ᓱᓇᒃᑯᑦ ᓂᐅᕕᖅᓴᖅ** ᐅᓂᒃᑳᖅᑕᐅᙱᑦᑐᑦ, ᓴᕕᒃᑐᑦ ᓄᓕᐊᖅᑕᐅᙱᑦᑐᑦ, ᐃᓕᓐᓄᐃᑦ ᓄᖅᑲᖅᑕᐅᙱᑦᑐᑦ ᐊᒻᒪᓗ ᐊᓯᖅᑎᕆᓪᓗᑎᒃ ᐊᓯᖅᑎᕆᓪᓗᑎᒃ.
+4. **ᐊᑕᐅᓯᕐᒥᒃ ᓂᐅᕕᖅᓴᖅ ᐊᑐᖅᑕᐅᓗᒍ.** ᐊᑎᖅᑲᓪᓚᕆᓗᒍ, ᐅᖃᖅᑎᒋᓗᒍ, ᐊᒻᒪᓗ ᐃᓄᒃ ᐊᑎᖅᑲᓪᓚᕆᓪᓗᒍ ᖃᐅᔨᒋᐊᕐᓗᒍ ᐱᔭᐅᔪᖅ.
+5. **ᓇᓗᓀᑦ ᐃᓂᖅᑎᑦᑎᓗᒍ ᑭᖑᓪᓕᖅᐹᒥ** ᐊᔾᔨᐅᓂᖓ ᐊᒥᓲᓂᖅᓴᐅᔪᓄᑦ ᐊᑐᖅᑕᐅᓂᐊᖅᑐᖅ ᐊᒻᒪᓗ ᓂᐅᕕᖅᓴᖅ ᖃᐅᔨᒋᐊᕐᓗᒋᑦ ᐊᑏ ᐊᑐᖅᑕᐅᓂᕐᒧᑦ ᓯᕗᓂᒃᓴᐅᓪᓗᓂ.
 
-## Safety first
+## ᓄᓇᓕᕆᓂᖅ ᓯᕗᓂᒃᓴᐅᓪᓗᓂ
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᑦ ᖃᓄᐃᓕᐅᕈᑕᐅᔪᑦ, ᑭᓯᐊᓂᓕ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐊᓯᖅᑎᕆᓂᖅ. ᐃᓄᐃᑦ ᐊᖏᕐᕋᓛᖑᓪᓗᑎᒃ ᐊᒥᓲᓂᖅᓴᐅᔪᑦ ᓂᐅᕕᖅᓴᖅ ᓂᕆᔭᐅᓂᐊᖅᑐᓂᒃ ᐃᓱᒪᒋᔭᐅᓪᓗᑎᒃ ᓂᕆᔭᐅᓂᐊᖅᑐᓂᒃ ᐃᓱᒪᒋᔭᐅᓪᓗᑎᒃ, ᐊᒻᒪᓗ ᓂᕆᓂᖅ ᐊᖏᖅᖠᓂᖓᓐᓂ ᐊᖏᖅᖠᓂᖅᓴᐅᔪᓐᓇᖅᖢᓂ; National Institute on Aging ᑐᓴᖅᑎᑦᑎᔪᖅ ᐊᖏᖅᖠᓂᖓᓐᓂ ᓂᕆᓂᖅ ᐊᖏᖅᖠᓂᖓᓐᓂ ᐊᓯᖅᑎᕆᓂᖅ ᐊᒥᓲᓂᖅᓴᐅᔪᖅ ᓂᐅᕕᖅᓴᖅ ᓂᕆᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᕐᒧᓪᓗ.
 
-| Risk | What to do |
+| ᐊᓯᖅᑎᕆᓂᖅ | ᖃᓄᐃᑦ ᐱᓇᓱᐊᖅᑎᑦᑎᓂᖅ |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| ᓂᐅᕕᖅᓴᖅ ᓂᒃᑯᐊᓂᕐᒧᑦ | ᐊᑐᖅᑕᐅᓗᒋᑦ ᓂᐅᕕᖅᓴᖅ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᐊᖏᐋᓚᐅᙱᑦᑐᑦ ᓂᕆᔭᐅᓂᐊᖅᑐᓐᓂᒃ. ᐊᑐᖅᑕᐅᙱᓗᒍ ᓇᐹᖅᑕᐅᔪᑦ, ᓂᒃᓯᐅᔪᑦ, ᑮᓂ, ᒪᕐᒪᕐᑐᐃᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ ᓇᓗᓀᑦ ᐃᒻᒪᖅ ᐊᑑᑎᖅᓱᖕᓂᖅᑕᐅᔪᑦ. ᓂᕆᓂᖅ ᑐᑭᓯᒋᐊᕐᓗᒍ ᐊᑐᖅᑕᐅᔪᖅ ᐊᑑᑎᖅᓱᖕᓂᖅᑕᖅ ᐊᐃᑲᔪᕐᓯᒪᔪᖅ ᓄᓇᓕᕆᔭᐅᔪᖅ ᐱᔭᐅᔪᖅ. |
+| ᓂᕆᔭᐅᓂᐊᖅᑐᓂᒃ ᐃᓱᒪᒋᔭᐅᔪᑦ | National Institute on Aging ᐅᖃᐅᓯᖅᑕᐅᔪᖅ ᐃᓂᖅᑎᑦᑎᓗᒍ ᓂᐅᕕᖅᓴᑦ, ᓱᑲᐳᑦ, ᓴᒻᒪᖅᑕᐅᔪᑦ ᐊᒻᒪᓗ ᐱᓐᓇᐅᑎᖃᖅᑐᑦ, ᓂᕆᔭᐅᓂᐊᖅᑐᓂᒃ ᐃᓱᒪᒋᔭᐅᔪᓐᓇᖅᖢᑎᒃ, ᐊᒻᒪᓗ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᖏᑦ ᐃᓂᖅᑎᑦᑎᓗᒍ ᐊᑐᖅᑕᐅᓂᕐᒧᑦ ᑭᖑᓪᓕᖅᐹᒥ. ᐃᓕᓴᐃᑎᑦᑎᑦ ᓂᐅᕕᖅᓴᑦ ᐊᖏᖅᖠᓂᕐᒥ ᐃᓂᖅᑎᑦᑎᓗᒍ. |
+| ᑎᖕᖒᑎᓪᓗᒍ | ᖃᐅᔨᒋᐊᕐᓗᒍ ᑎᖕᖒᑎᓪᓗᒍ ᓄᓇᑦᑎᐊᖅ, ᓇᒧᖓᖅᑐᖅ, ᖃᖓᖅᑐᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐱᑕᖃᕈᑎᒃᑯᑦ ᓯᕗᓂᒃᓴᐅᓪᓗᓂ. |
+| ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᓂᐅᕕᖅᓴᓂᖅ | ᐃᓱᒪᒋᐊᕐᓗᒍ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐃᓕᓴᐃᑎᑦᑎᑦ ᐊᐅᒪᒃᑯᑦ ᐊᓯᖅᑎᕆᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᕐᒧᓪᓗ, ᐊᒥᓲᓂᖅᓴᐅᔪᑦ ᓱᓕᓪᓗᓂᐊᕐᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᕐᒧᓪᓗ. ᐊᐅᑦᑕᖅᑐᖅ ᐃᓱᒪᒋᐊᕐᓂᖅ ᐊᒥᓲᓂᖅᓴᐅᔪᖅ ᓄᓇᓕᕆᔭᐅᔪᖅ. |
+| ᐊᑎᖅᑲᓪᓚᕆᓂᖅ | ᖃᐅᔨᒋᐊᕐᓗᒍ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᖅ, ᐊᖏᖅᖠᓂᖅᓴᐅᔪᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᖅ ᐊᑭᖃᖅᑐᖅ ᐊᑐᖅᑕᐅᓪᓗᓂ. ᓄᖅᑲᕆᓗᒍ ᐊᑐᖅᑕᐅᓂᕐᒧᑦ ᐊᓂᕐᓇᖅᑐᓂᒃ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ. |
+| ᐅᑭᐅᖅᑕᖅᑐᓂᖓ ᐊᒻᒪᓗ ᐊᑦᑕᖅᑐᓂᖓ | ᖃᐅᔨᒋᐊᕐᓗᒍ ᐅᑭᐅᖅᑕᖅᑐᓂᖓ ᓄᓇᖃᖅᑎᒍᑦ ᓯᕗᓂᒃᓴᐅᓪᓗᓂ. ᐅᑭᐅᖅᑕᖅᑐᖅ ᐃᒪᖅ ᐊᒻᒪᓗ ᐃᒃᑯᐊᖅ ᖃᐅᔨᒋᐊᕐᓗᒍ ᐊᑎᖅᑲᓪᓚᕆᓪᓗᒍ ᓄᓇᖃᖅᑎᒍᑦ. |
+| ᓴᕕᒃᑐᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓂᕐᓇᖅᑐᑦ ᓂᐅᕕᖅᓴᖅ | ᐊᑐᖅᑕᐅᙱᓗᒍ ᓴᕕᒃᑐᑦ ᐱᓕᕆᐊᖅ, ᐃᓗᓕᐅᕐᕕᒃ, ᐊᓂᕐᓇᖅᑐᑦ ᓴᓇᓕᐅᕐᕕᒃ ᐊᒻᒪᓗ ᐊᓂᕐᓇᖅᑐᑦ ᐱᓕᕆᐊᖅ. |
 
-## Does aromatherapy help?
+## ᐃᓕᓴᐃᑎᑦᑎᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐃᑲᔪᕐᓯᒪᔪᓐᓇᖅᖢᑎᒃ?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+ᐊᕐᕌᒍᓄᑦ ᑲᑎᖅᓱᖅᑕᐅᔪᑦ ᑭᒡᒐᖅᑐᐃᓐᓇᐅᔪᑦ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ ᐃᓕᓴᐃᑎᑦᑎᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᔭᐅᙱᓐᓂᖅᑕᖅ. [Cochrane ᑲᑎᖅᓱᖅᑕᐅᔪᖅ ᐃᓕᓴᐃᑎᑦᑎᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ᖃᐅᔨᓴᐅᑎᑦ 13-ᓂᒃ ᐊᑐᖅᑕᐅᓪᓗᑎᒃ 708 ᐃᓄᐃᑦ, ᑕᒪᐃᓐᓄᖅ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐃᓅᖃᑎᒌᓄᑦ ᐃᓅᖃᑎᒌᓄᑦ ᑭᓱᑐᐃᓐᓇᐅᔪᓄᑦ, ᐱᔭᐅᓪᓗᓂ ᐱᔭᐅᙱᓐᓂᖅᑕᖅ ᐱᔭᐅᔪᓐᓇᖅᖢᑎᒃ ᐃᑲᔪᕐᓯᒪᔪᓐᓇᖅᖢᑎᒃ. ᖃᐅᔨᓴᐅᑎᑦ ᐅᓂᒃᑳᖅᑕᐅᔪᑦ, ᑭᒡᒐᖅᑐᐃᓐᓇᐅᔪᑦ ᐊᔾᔨᒌᙱᓐᓂᖅᑕᐅᔪᑦ, ᐊᒻᒪᓗ ᐊᓯᖅᑎᕆᓂᕐᒧᑦ ᐊᓯᖅᑎᕆᓂᖅ ᐊᔪᖅᑐᓂᒃ ᐅᖃᐅᓯᖅᑕᐅᙱᓐᓂᖅᑕᐅᔪᖅ. ᐃᓄᒃ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᓄᑦ ᖁᕕᐊᓱᖕᓂᖅᑕᖓ ᓂᐅᕕᖅᓴᖅ ᐊᐅᑦᑕᖅᑐᖅ, ᐊᑯᑎᒋᔭᐅᓪᓗᓂ ᓇᒻᒥᓂᖅ ᓇᐹᖅᑕᐅᔪᖅ, ᑕᐃᒪᐃᓐᓄᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᖢᑎᒃ. ᑕᐃᒪᐃᓐᓄᖅ ᐃᑲᔪᕐᓯᒪᔪᓐᓇᖅᖢᑎᒃ ᐱᓇᓱᐊᖅᑎᑦᑎᔪᓐᓇᖅᖢᑎᒃ ᐱᔭᐅᙱᓐᓂᖅᑕᖅ.
 
-## How to offer a sensory activity
+## ᖃᓄᐃᑦ ᐊᖏᕐᕋᓛᖑᓂᕐᒧᑦ ᐱᓕᕆᐊᖅ ᑐᑭᓯᒋᐊᕐᓗᒍ
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **ᓂᕈᐊᕐᓗᒍ ᖃᓄᐃᓕᖓᓂᖅ ᖃᓄᐃᓕᐅᕈᑕᐅᔪᖅ** ᐊᒻᒪᓗ ᓄᖅᑲᕆᓗᒍ ᑕᕐᕆᔭᐅᔪᖅ.
+- **ᓯᕗᓂᒃᓴᐅᓪᓗᓂ ᐊᑐᖅᑕᐅᓗᒍ,** ᐊᑎᖓ ᐅᖃᐅᓯᖅᑎᑦᑎᓗᒍ, ᐊᒻᒪᓗ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᓯᕗᓂᒃᓴᐅᓪᓗᓂ ᐊᑭᖃᖅᑐᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ: "ᐅᑭᐅᖅᑕᖅᑐᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᕐᒧᑦ ᐃᓄᒃ. ᐊᑎᖅᑲᓪᓚᕆᓂᐊᖅᑐᓲᖑ?"
+- **ᐊᑕᐅᓯᕐᒥᒃ ᑐᕌᖓᓂᒃ ᑐᑭᓯᒋᐊᕐᓗᒍ** ᐊᒥᓲᓂᖅᓴᐅᔪᓄᑦ ᐊᒃᑐᐃᓐᓇᙱᓪᓗᓂ.
+- **ᖃᐅᔨᒋᐊᕐᓗᒍ ᑭᐅᓂᖓ.** ᓄᓇᖃᖅᑎᒍᑦ ᖁᕕᐊᓱᖕᓂᖅ, ᖃᓄᐃᓕᐅᕈᑕᐅᔪᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᖁᕕᐊᓱᖕᓂᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ. ᓴᐳᒃᑎᓪᓗᒍ, ᐃᒃᐱᒃᑲᓪᓚᕆᓪᓗᒍ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᖅᑎᕆᓪᓗᓂ ᓄᖅᑲᕆᓗᒍ ᐱᓕᕆᐊᖅ.
+- **ᐅᑭᐅᖅᑕᖅᑐᖅ ᐊᑐᖅᑕᐅᓗᒍ.** ᑕᓪᓕᒪᑦ ᒥᓂᑦᑎᐊᖅ ᐊᑎᖅᑲᓪᓚᕆᓂᖅ ᐃᓱᒪᒋᐊᕐᓗᒍ ᐱᔭᐅᔪᓐᓇᖅᖢᑎᒃ.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+ᐊᑭᖃᖅᑐᖅ ᓱᓕᓪᓗᓂᐊᕐᓂᖅ ᖃᓄᐃᓕᐅᕈᑕᐅᔪᖅ, [ᖁᕕᐊᓱᖕᓂᕐᒧᑦ ᓱᓕᓪᓗᓂᐊᕐᓂᖅ](/games/calm-breathing/), ᐱᔭᐅᔪᓐᓇᖅᖢᑎᒃ ᐱᓕᕆᐊᖅ ᐊᑭᖑᑕᖅᑎᑦᑎᓂᕐᒧᑦ. ᐊᖏᖅᖠᓂᖓᓐᓂ ᐱᓕᕆᐊᖏᑦ ᑕᑯᓗᒍ [ᐊᖏᖅᖠᓂᖓᓐᓂ ᐱᓕᕆᐊᑦ](/activities/late-stage/), ᐊᒻᒪᓗ ᐅᓪᓗᐅᑉ ᐊᑭᖑᓂᖓᓐᓂ ᐊᓯᖅᑎᕆᓂᕐᒧᑦ ᑕᑯᓗᒍ [ᐅᓪᓗᐅᑉ ᐊᑭᖑᓂᖓᓐᓂ ᐊᓯᖅᑎᕆᓂᖅ](/caregiving/late-day-restlessness/).

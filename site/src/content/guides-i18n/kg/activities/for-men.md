@@ -1,32 +1,34 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Bisalu ya bakala yina kele ti dementia"
+seoTitle: "Bisalu ya bakala yina kele ti dementia: Bandongisila"
+description: "Bandongisila ya bisalu sambu na bakala yina kele ti dementia, yina metadila kisalu, banzengolo mpi bifu yina vandaka na luzingu na yandi, ti malongi ya kuyitomisa yo na mutindu ya mbote."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Bisalu ya kuluta mbote sambu na bakala yina kele ti dementia kekatukaka na
+  luzingu na yandi mosi: kisalu yina yandi vandaka kusala, banzengolo yina yandi
+  vandaka kuzola mpi bifu ya konso kilumbu yina yandi vandaka kulanda. Muntu yina
+  vandaka kusala na biro lenda zola kuyidika bapapie, makaniki lenda zola
+  kusimba bisadilu ya vedila, mpi muntu yina kezolaka bansaka lenda zola
+  kutala nsaka ya ntama. Banzengolo keswaswanaka na konso muntu, yo yina yantika
+  na muntu yina, kansi ve na bakala to nkento.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Yantika na luzingu ya bakala yai mosi: kisalu na yandi, banzengolo na yandi, bifu na yandi mpi mambu yina vandaka kumupesa kiese."
+  - "Bisalu yina kele ti kikuma ya kieleka, bonso kuyidika bisadilu, kuyobisa kamio to kupolisha kibaya, mbala mingi kesepedisaka kuluta bisalu yina kemonana bonso nzo-nkanda."
+  - "Bakala yonso kezolaka ve bisadilu ya kisalu to bansaka. Bamingi kezolaka kulamba, miziki, bilanga, kisalu ya maboko to kusadisa bantu yankaka. Yula, tala mpi landa nzila na yandi."
+  - "Sala nde bisalu ya mutindu ya kisalu kuvanda ya mbote na kukatula bisadilu ya nsonge mpi na kutala yandi, mpi tomisa yo ntangu mayele na yandi kekuma kusoba."
+  - "Kubuya kele mbote. Pesa yandi kisalu ya kusadisa, kansi ve ntuma ya ngolo, mpi meka diaka kilumbu yankaka."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Bisalu ya nki bakala yina kele ti dementia kezolaka?"
+    a: "Lisiti mosi ve kele, sambu banzengolo ya babakala keswaswanaka bonso ya bantu yonso. Bandongisila ya mbote kele bisalu yina mekwakana ti kisalu yina yandi vandaka kusala na ntama, bonso kuyidika bapapie to kuyidika mabulu ti bikondi, mpi banzengolo yina yandi vandaka kuzola, bonso kuloba bambisi, bakamio, miziki, kulamba to bansaka. Tala mambu yina yandi keyantikaka kusala yandi mosi mpi tongela yo."
+  - q: "Tata na mono kebuyaka kukota na bisalu ya kimvuka. Inki mono lenda sala?"
+    a: "Bantu mingi, babakala ti bankento, kebuyaka bisalu yina kemonana bonso nzo-nkanda to bonso mambu ya bana. Meka kupesa yandi kisalu ya kusadisa: «Nge lenda sadisa mono na kuyidika mambu yai?» Kimvuka ya fioti to ntangu ya beno zole mpamba lenda vanda mbote kuluta kimvuka ya nene."
+  - q: "Keti yo kele mbote kubika yandi kusadila bisadilu ya kisalu?"
+    a: "Kaka ntangu nge kezingilaka yandi mpi ntangu bisadilu kele ya mbote. Katula bamasini ya kurenti, bampene ti konso kima ya nsonge, mpi pesa bisalu bonso kupolisha kibaya ya mabaya, kuyidika bisadilu ya vedila, to kukanga mabulu ya nene na maboko. Alzheimer’s Association kepesa ndongisila ya kukatula bima ya kigonsa na kisika ya kisalu sambu kisalu bonso kupolisha kukuma kaka ya kiese mpi ya mbote."
+  - q: "Yandi vandaka kusala kisalu ya mayele mingi. Keti bisalu ya pete lenda kumonisa bonso kundimisa ve?"
+    a: "Yo lenda vanda mutindu yina kana nge ketuba yo bonso kisalu ya mpamba. Tubila yo bonso lusadisu ya kieleka, sadila bima ya bambuta, mpi pona kisalu yina mefwanana ti kisalu na yandi ya ntama, bonso kutala lisiti, kuyidika dosie to kusadisa na kuvukisa mikanda. Kana yandi vandaka ti mayele mingi na kima mosi, kisalu ya nkaka yina mefwanana lenda monana mbote kuluta kufwanisa yo ti kisalu yina ya ntama."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +47,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Bantu mingi kesosaka «bisalu ya bakala yina kele ti dementia» sambu bandongisila ya mingi kemonanaka ve nde yo mefwana sambu na bakala yina kele na luzingu na bo. Yo kele kuyindula ya mbote. Kansi mvutu kele ve lisiti ya bisalu ya «babakala». Yo kele na kuyantika na bakala yai mosi: kisalu yina yandi vandaka kusala, mambu yina yandi vandaka kusala na bilumbu ya mpema, mpi mambu yina vandaka kumupesa mawi ya kuvanda na mfunu. Banzengolo keswaswanaka na konso muntu. Bakala mingi kezolaka kulamba, kusala bilanga, kupenta to kuyimba, mpi bankento mingi kezolaka bakamio ti bansaka ya baseball.
 
-## How do I find activities he will actually enjoy?
+## Inki mutindu mono lenda zwa bisalu yina yandi ta zola mpenza?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Yantika na disolo ya luzingu na yandi. Alzheimer’s Association kepesa ndongisila ya kutunga [manaka ya konso kilumbu](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) na kutadila mambu yina muntu kezolaka, mambu yina yandi kezolaka ve, ngolo na yandi mpi banzengolo na yandi, mpi mutindu yina yandi vandaka kuyidika kilumbu na yandi. Yula nge mosi:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Inki kisalu yandi vandaka kusala?** Na biro, na bilanga, na usine, kisalu ya maboko, kisalu ya basoda, kuteka, kulonga, kutambula kamio, to kusala na nzo?
+- **Inki mambu yandi vandaka kusala na ntangu na yandi ya mpema?** Kuloba bambisi, bansaka ya bakarte, kisalu ya mabaya, bansaka, dibundu, miziki, kulamba, to kamio na garaje?
+- **Inki bifu yandi vandaka na yo?** Kafe ti zulunalu konso suka? Kutala meteo? Kuyobisa kamio konso mposo ya nsuka?
+- **Inki mambu yandi kekwamikaka kuyantika yandi mosi?** Association ketuba nde kana muntu keyantikaka kisalu kukonda nde bo yula yandi, bonso kukomba nsi, bisalu yina lenda kuma kitini ya bifu na yandi.
+- **Inki mambu yandi ketinaka?** Bantu yankaka kezolaka kutala bansaka; bankaka kemonaka nde yo kele ntama mingi to yo kele ti makelele mingi. Tala ntangu yina yandi kemonana na kiese, na susi to na makasi.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Solula mpi ti bantu ya dibuta mpi banduku ya ntama. Bo lenda yibuka banzengolo yina melalaka na luzingu ya konso kilumbu.
 
-## Activity ideas based on past work
+## Bandongisila ya bisalu yina metadila kisalu ya ntama
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer’s Association kepesa mbandu ya pwelele: muntu yina vandaka kusala na biro lenda zola bisalu ya kuyidika, bonso kutula mbongo ya bibende na kisika na yo, kusadisa na kuvukisa mikanda ya kutinda to kusala lisiti ya mambu ya kusala, kansi muntu yina vandaka nsadi-bilanga to muntu ya bilanga lenda zola kusala na kilanga. Ngindu yina mosi lenda tadila bisalu mingi.
 
-| Past work | Activity ideas | Simpler version |
+| Kisalu ya ntama | Bandongisila ya bisalu | Mutindu ya pete |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Biro to mumbongo | Kuyidika bapapie na badoze, kutula kashio na baenvelope, kutala lisiti, kuyidika tiroire | Kutula baenvelope na zulu ya nkaka; kutula batrombone na karton |
+| Kisalu ya maboko to makaniki | Kuyidika mabulu, bikondi mpi barondelle ya vedila; kukanga mabulu ya nene na maboko; kutala bakataloge ya bisadilu | Kuyidika na bitini zole na kutadila bunene |
+| Bilanga to kisalu ya nti | Kutila masa, kukuna banti na bapoto, kukomba matiti ya kukauka, kutala bilanga | Kuvanda na nganda ntangu nge kesala; kusimba bapaketi ya nkuna |
+| Kisalu ya basoda | Kupolisha basapatu, kuyidika tiroire, kutala bafoto ya ntangu yina kana yandi kezolaka yo | Kuwakana miziki ya ntangu yina |
+| Kuteka to kusadisa bakiliya | Kuyamba bavisite, kukabula madia ya fioti, kuyidika bakupon | Kuvanda pene-pene ya kielo sambu na kupesa mbote |
+| Kulonga | Kutanga na ndinga ya ngolo, kuyidika mikanda, kuyidika bafoto na kutadila mambu | Kutala mukanda ya bifwanisu beno zole |
+| Kutambula to kutinda bima | Kutala bakarte to bazulunalu ya bakamio ya ntama, kuyobisa kamio | Kutala bakamio kelekaka na veranda |
+| Nzo mpi dibuta | Kukangula bilele, kuyidika mesa, kusadisa na kulamba | Kunyoza bisono ya mesa; kunikisa |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Bayibuka yankaka, bonso kisalu ya basoda, lenda nata mawi ya ngolo. Landa nzila na yandi, bikala masolo ya ntama na mutindu ya mbote, mpi soba masolo na mawete kana yandi kemonana nde yandi kele na mpasi.
 
-## Activity ideas based on hobbies
+## Bandongisila ya bisalu yina metadila banzengolo
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Kisalu ya mabaya.** Kupolisha kibaya ya mabaya ya petepete to kupenta nzo ya bandeke ya kukangula. Alzheimer’s Association kepesa ndongisila ya kukatula bima ti bisadilu ya kigonsa na kisika ya kisalu sambu kisalu bonso kupolisha kuvanda ya kiese mpi ya mbote.
+2. **Kuloba bambisi.** Kuyidika sanduku ya bisadilu ya kuloba bambisi ntangu bakro she mekatukaka, kutala bazulunalu ya kuloba bambisi, to kuvanda pene-pene ya dizanga beno zole.
+3. **Bakamio.** Kuyobisa kamio, kupolisha bibende ya kamio, kutala bafoto ya bakamio ya ntama, to kukwenda na kamio bonso muntu yina kevandaka.
+4. **Bansaka.** Kutala nsaka ya ntama to bitini ya nsaka, kubula ndembe ya pete, kutula baballe ya golf na tapi, to kuyidika bakarte ya baseball.
+5. **Bakarte ti bansaka.** Moko ya pete ya nsaka ya bakarte yina yandi mezaba, domino, to kubalula bakarte sambu na kuzwa zole ya mutindu mosi. Bika yo kuvanda ya mawete mpi yambula kutanga bapointe.
+6. **Miziki.** Bankunga ya bamvula na yandi ya kileke ti ya ntangu yina, groupe yina yandi vandaka kuzola, to nkunga ya dibundu. Tala [lutwadisu na beto ya bisalu ya miziki](/activities/music/).
+7. **Kulamba ti kugrile.** Kuyobisa bandunda, kunikisa muto, kusala ba-hamburger, to kutubila mutindu yina yandi vandaka kulamba chili na yandi ya ntama ntangu nge kelamba yo.
+8. **Zulunalu.** Alzheimer’s Association ketuba nde muntu yina vandaka kutanga zulunalu ntangu yonso lenda zola kaka kusala yo, ata kana yandi kelanda ve mambu yonso na kati. Kafe ti zulunalu lenda bikala kitini ya suka.
+9. **Kutunga.** Bakiti ya modele ya bitini ya nene to bisadilu ya kutunga ya pete sambu na bambuta. Pona bitini yina kepesaka mpasi ve na kusimba.
+10. **Kukeba kima mosi.** Kudisa mbisi ya nzo, kufulusa madia ya bandeke, to kutila masa na banti. NIA ketanga [kudisa, kuyobisa to kutambula ti mbisi ya nzo](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) na kati ya bisalu yina bantu lenda zola.
 
-## How do I offer an activity without it feeling like busywork?
+## Inki mutindu mono lenda pesa kisalu kukonda nde yo kumonana bonso kisalu ya mpamba?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Tubila yo bonso lusadisu ya kieleka. Alzheimer’s Association kepesa ndongisila ya kuyula «Nge lenda sadisa mono, pardo?» mpi ya kuvukisa kisalu ti kikuma mosi. Fwanisa:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Nge kezola kuyidika mabulu yai?» (yo kewakana bonso kumeka)
+- «Mono mesumbaka saki mosi ya bisadilu ya kuvukisa, mpi mono kele na mfunu ya kuyidika yo na ntwala ya kuyidika etajere. Nge lenda sadisa mono?» (yo kewakana bonso kisalu ya kieleka)
 
-Other tips:
+Malongi yankaka:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Sadila bima ya bambuta.** Bisadilu ya kieleka kansi kukonda bitini ya nsonge, bakataloge ya kieleka, baenvelope ya kieleka.
+- **Salaka beno zole pene-pene.** Bantu zole yina kesala kisalu mosi kele bonso kimvuka. Muntu mosi yina ketala kaka muntu yankaka kele bonso nkele.
+- **Kuyidika ve.** Kana mabulu kekwenda na kopo ya mbi, bika yo mutindu yina. Mambu ya mfunu kele ntangu yina beno kele kintwadi mpi mawi ya kuvanda na mfunu.
+- **Sadisa yandi na kuyantika.** Alzheimer’s Association ketuba nde bantu mingi kele kaka ti mpusa ya kusala mambu, kansi yo kekuma mpasi sambu na kuyidika mpi kuyantika. Sala ya ntete beno zole.
 
-## How do I adapt as things change?
+## Inki mutindu ya kutomisa ntangu mambu kesobaka?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Ntangu dementia kekwenda na ntwala, Alzheimer’s Association kepesa ndongisila ya kukotisa bisalu ya pete mpi ya kuvutukila mingi, mpi ya kuvanda ya kuyilama sambu muntu kukuma kusala fioti. Bakala yina vandaka kutunga bamoteur na ntama lenda zola ntangu yai kusimba cle ya vedila mpi kutuba mambu ya bakamio, to kutala nge kesala. Kutala mpi kele kukota na kisalu.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Kana yandi vandaka ti mayele mingi na kima mosi, kisalu ya nkaka yina mefwanana lenda vanda mbote kuluta kisalu na yandi ya ntama. Association ketuba nde artiste ya mayele lenda wa mpasi ntangu kisalu na yandi kesoba, kansi muntu yina vandaka kusala yo sambu na kiese lenda bakisa nzila ya mpa ya kiese. Yo kele mutindu mosi mpi sambu na makaniki ya mabaya ya mayele mingi.
 
-## Safety with work-style tasks
+## Mambu ya lutaninu na bisalu ya mutindu ya kisalu
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Katula bamasini ya kurenti, bampene, bapointe ti bakrou ya nsonge.
+- Kanga diluant ya kupenta, essence ti bima ya nkaka ya kigonsa.
+- Bika bafungula ya kamio na kisika yina yandi kemona yo ve kana yandi ketambula diaka ve kamio.
+- Zingila ntangu yonso na bisalu ya kisika ya kisalu ti ya kilanga.
+- Pona bitini ya nene yina lenda mina ve.
 
-## What if he says no?
+## Ebuna kana yandi mebuya?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Ndima yo. Kubuya lenda monisa nde kisalu kele mpasi mingi, yo kemonana bonso ya bana mingi, to yo mefwana ve bubu yai. Alzheimer’s Association kekebisa nde kubaka na ngolo ve. Meka kisalu ya nkaka, ntangu ya nkaka, to kaka kuvanda kintwadi. Tala [inki ya kusala ntangu yandi kebuya](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Bansaka ti masolo yina lenda fwana
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) kesadilaka bingana ya mezabanaka ya Amerika mpi kepesaka nzila na masolo. [Conversation Cards](/games/conversation-cards/) kele ti bangiufula ya kukangula, kukonda kumeka, na kutadila mambu ya kuswaswana, yina lenda kangula masolo ya kisalu ti ya banzengolo. [Picture Puzzle](/games/picture-puzzle/) kebikaka kifwanisu ya mvimba na meso ntangu beno kesobasoba bitini, mpi [Word Search](/games/word-search/) ya masonama ya nene lenda imprimama mpi kusalama na stylo na mesa ya kukudila. Sambu na kuzwa bandongisila ya kutuba mambu ya ntama na yandi kukonda kumeka yandi, tala [lutwadisu na beto ya kuyibuka mambu ya ntama](/activities/reminiscence/).

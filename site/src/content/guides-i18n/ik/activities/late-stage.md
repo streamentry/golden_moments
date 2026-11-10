@@ -1,32 +1,34 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Savaaksrat akuniagniqaqtuanun: iġġiqmi aasii aquvitmi"
+seoTitle: "Akuniagniqaqtuanun savaaksrat: iġġiqmi, aquvitmi"
+description: "Savaaksrat akuniagniqaqtuanun iġġiqmi aasii aquvitmi ittuġnianik: atuutit, aktuutiniq, taiguaqługu, tusaaniat, aasii ilikkani ittuaq, aŋalatchiġnillu."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Akuniagniqaqtuaq iġġiqmiññaqtuq iḷaan, savaaksrat tusaanianik, tautugnianik,
+  aktuutiniġnillu, aasii ilivitqi ilikkani ittuanik: atuutit piuqtat
+  tusaatchigiñ, arganik tigummiq, argak saktillugu, taiguaqługu, iglaut
+  tautukługit, nunaŋmi tusaaniat tusaaqlugit, igalaaq quliaqtuaq tautuklugu
+  aasii silami ittuaq. Makua savaaksrat atuġniaqut iġġiqmi aasii aquvitmi.
+  Qitunmik savaaqtit, kiñami, argani aasii aniqsaaqnami nakuuqqun qanugiliuŋniaŋa
+  tautuklugu, nutqaġlugu aasii qiyaaŋaruq. Itqili, ilikkani ittuaq savaaqtuq.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Ilikkani ittuaq suli piḷḷuataqtuq. Akuniagniqaqtuaq tusaanianik, tautugnianik, aktuutiniġnillu nunamik ilitaaqtuq."
+  - "Atuutit, aktuutiniq saktuq, atausiq iḷisaqtuq aasii saktuq tigummiaq atuutitigut qiḷaŋniaqut uqautchiġuŋŋaiḷḷagaaŋ."
+  - "Tamaŋmicchiani makua savaaksrat atuġniaqut iġġiqmi aasii aquvitmi ittuġnianik."
+  - "Kiñami, argani aasii aniqsaaqnami nakuuqqun qanugiliuŋniaŋa tautuklugu, nutqaġlugu aasii qiyaaŋaruq."
+  - "Mikiruich savaaksrat atuŋŋitchit, niġiaksramik imiqmiklu tuyuŋŋitchit nakuaqsraŋat iḷisimaruat uqautilaaŋata, niġiġniq aŋalatchiġnaqtuq."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Savaaksraġnik piqaqpa iñuk akuniagniqaqtuq iġġiqmi iññaaŋanun?"
+    a: "Atuutit piuqtat tusaatchigiñ, arganik tigummiq, argak saktillugu, taiguaqługu aglak taŋŋiqsraq, iglaut tautukługit, aasii nunaŋmi tusaaniat tusaatchigiñ. Igalaaq upkuaqługu silamun tautugniqsuq. Qitunmik, saktuġmik savaaqtit, atauchimik savaaksramik atuġlutin."
+  - q: "Iñuk akuniagniqaqtuq suli atuutinik quviasuġniaqpa?"
+    a: "Iḷagiiññiqsuaq suli quviasuġniaqut. Alzheimer's Association uqaqtuq akuniagniqaqtuaq iḷaan suli atuutimun argamiñik patiktisiruq aasii atuutmun ilagiiruq nutaraqtuamiñi tusaatchiġamiñik. Atuutit piuqtat nutaraqtuamiñi pisigilugi, nipaa saktuq."
+  - q: "Qanuq ilisimaġniqsuiññiqsauŋa quviasuġniŋagun?"
+    a: "Mikiruich nalunaiqsautit tautukki: tuikkaa saktunŋaruq, kiñaa saktunŋaruq, irrusikkun tautuktuq, atuullaktuq, argamiñik tigluktuq aasii aniqsaaqnia saktunŋaruq. Kiñaa iññiqsuq, nuŋiruaqtuq, aullaqtuq aasii niviuruq qiyaaŋaruq nalunaiqsuq. Tautukkaġiñ nutqaġlugu, suli taimailiuŋarumi iḷisimaruanun uqautigilugu."
+  - q: "Piqaqpa piḷḷuataqtuq qiñiġviq utiqtuŋŋaiḷḷagaaŋa?"
+    a: "Ii. National Institute on Aging uqaqtuq ilikkani ittuaq saktitchisuġniaqtuq, aktuutiniq, atuutit aasii unipkaat suli nakuuqqun iḷitchuġniaqut akuniagniqaqtuanun. Nipin aasii argan iḷisaqtuġniaqut atqin ilitchuŋŋaiḷḷagaaŋ."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +50,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Akuniagniq iḷaan akuniagniġaaŋani, iñuk uqaqtuġumiñaiqsuq, uvluakun tamatkuaŋani ikayuqtauġniqsuq, iġġiqmi aasii aquvitmi ittunġaruq uvluakun. Isumannaqtuq savaaksraŋŋitchisuq ilikkani. Suli savaaksraqaruaq. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) uqaqtuq iñuum iḷaŋa suli ittuġniaqtuq, aasii taamna pakma nunamik ilitaaqtuq tusaanianik, tautugnianik, aktuutiniġnillu. Atuutit, aktuutiniq, atausiq iḷisaqtuq aasii saktuq ilikkani ittuaq suli nakuuqqun iḷitchuġniaqut, ilikkani ittuaq piḷḷuataqtuq.
 
-## What activities help in late-stage dementia?
+## Suna savaaksrat ikayuġniaqat akuniagniqaqtuanun?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Savaaksrat saktuich aasii saktuq ilikkani ittuaq ikayuġniaqut akuniagniġaaŋani. Alzheimer's Association uqaqtuq atuutit piuqtat tusaatchigiñ, aglait piḷḷuataqtut taiguaqługit, argamiñik tigummiqługu mamiqtuamik tipigiksramik, aasii silami aquviġlusi uvluakun nakuuqpan. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) uqaqtuq unipkaanik uqautchigiñ, iglaut tautukługit, saktumik aktuutchigiñ aasii tigummiqługu, atuutit, nipait saktuich aasii nunaŋmi tusaaniat tusaatchigiñ, aasii ilikkani ittuaq saktitchisuġniaqtuq.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) uqaqtuq akuniagniqaqtuat iḷaan piuġniaqut sunamik tigummiqłutik nakuuqqun iḷiqsiniqsuq, aasii savaaksrat saktuich, saktumik aullaqtitiniq, qalimaaġniq, atuutit, niġrutit qiñiġviat, iñuich aktuutiniŋat aasii savaaksrat sallualluataqtaich piḷḷuataqut.
 
-## Activities for someone in bed or a chair
+## Savaaksrat iñuum iġġiqmi aasii aquvitmi ittuġnianik
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Atuutit piuqtat tusaatchigiñ.** Atuutit inuġułhaaqtuamiñi, ukpiġniŋani aasii iḷagiiniñi piuqtat pisigilugi. Nipaa saktuli, qanittumi aquviġlutin. Suli iḷaan argamiñik patiktisiruq aasii atuullaktuq. Tautukku [atuutit savaaksraŋit](/activities/music/).
+2. **Arganik tigummiq.** Arga tigummiqługulu, tigluktillaktuġlugu, savaaqtuq. Sivunniuq uqautigiñ suna piŋniqsaġniqsuq.
+3. **Argak saktillugu tigummiq.** Mamiqtuamik tipigiksramik argagniñi mamiqtitlugu, argamiñik tigummiqtitlugu tiglukmiññaq saktillugu. Tipigiksraq tipiiqsaitchuq pisigilugu, aasii tipigiksraq piuġigaa kiñaa nakuuqpan.
+4. **Taiguaqługu.** Aglak taŋŋiqsraq, aglaŋmi iḷaŋa, ukpiqł̣iutit aasii allanik. Nipin saktua uqausriññiḷḷu piḷḷuataŋniaqtuq.
+5. **Unipkaanik uqautchigiñ.** Iḷagiññi aullaaġniŋanik aasii uiksrautiŋiŋanik uqautchigiñ. Kiuvit piŋŋitchut.
+6. **Iglaut tautukługit.** Atauchimik iglaumik aŋiġnirqamik irrusianun tiguġlugu, nakuuqqun uqautchigiñ. Apiqsruŋŋitchuk kina iglaumi ittuŋa.
+7. **Saktumik tigummiatun tuyuġlugu.** Uqsrulik, saktuq qalimaaġvik aasii saktuq niġrutaaq. NIA uqaqtuq uqsrulimik tuyuġlugu nuuttaaqpagu, ilivsiññik savaaksraññigniḷḷu tigusriñaiqsuq.
+8. **Nunaŋmi tusaaniat tusaatchigiñ.** Siḷaluaq, taġiuq aasii timmiaġuit nipaat saktumik tusaatchigiñ.
+9. **Sila iglumun aggiutilugu.** Igalaaq upkuaqługu, igalaam sanaani timmiaġuanun niqiqsiivik iḷivlugu, aasii nautchiat aasii suliat mikiruich aggiutilugit tautuglugit, aktuutchigiḷlugillu.
+10. **Silamun aniġlugu.** Iñuk aquvitmi nuuttaaqtaurumi, saktumun uvluakun qitiqani aquviġniq nakuuġniaqtuq.
+11. **Nuyanik salummatqilugu aasii uqsruq mamiqtuq tuyuġlugu.** Saktumik salummaġniq aasii uqsruq mamiqtuq argagniñun kiñaŋanunlu nakuuqqun iḷitchuġniaqtuq.
+12. **Atuutmun saktumik aullaqtitiniq.** Qalimaaġvik ilikkani aullaqtitilugu, aasii argak atuutmun aullaqtitilugu. Timimik saktillugu aasii iġġagnik aullaqtitiniq, sivunniuq physical therapist aasii nurse apiqsriñ iḷitchuġniqsuq aŋalatchiġnaitchuat.
+13. **Sallualluataqługu.** Aglaktittivik aŋiġnirqaq sallualluataġlugu aglautimun naŋiñaitchuanik, argagniñi aasii tigluktillautikun, argagni iḷuvlugin. Piqaqtuŋŋitchuq nalaunŋiġnaqtuq.
+14. **Niġrutit qiñiġviat.** Niġrutaaq saktuq iġġiqmi aasii aquvitmi, iñuk niġrutinik piuġumi, iñiillu ikayuġumi.
+15. **Saktumik ilikkani aniqsaaqtit.** Qanittumi aquviġlutin, saktumik aniqsaakkik. [Saktumik aniqsaaqniq](/games/calm-breathing/) ikayuġniaqtaqsi, ilivsiññiq aullaqtitilugu nutqaġlutaġlu.
+16. **Ilikkani ittuaq.** Qanittumi aquviġlutin, atuullaglutin, qalimaaġlutin aasii taiguaġlutin nipaitchuan. Ilikkani ittuaq namaktuq.
 
-## How to share an activity at this stage
+## Qanuq savaaqtigiññiqsauŋa taaptuma pakmani
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Sivunniġmiñ sivuqługu.** Atqa uqautigiñ, atqin uqautigiñ, saktumik nipaitchuan uqaqtit sivunniġmiñ aktuutchiñagik.
+- **Atauchimik tuyuġlugu.** TV nutqaġlugu atuutit tusaatchiñagik. Atauchimik savaaksramik atuġlutin.
+- **Qitunmik savaaqtit.** Qitunmik minutchianik namaktuq. Uvlumi iḷaan qitunmik savaaqtit piḷḷuataŋniaqtuq atauchimiñ sivisuŋmiñ.
+- **Sivunniuq nakuuqqun aquvitilugu.** Iñuk nakuuqqun aquvigigaa tautuklugu. NIA uqaqtuq aquvigaq argagniñun iḷivlugu ikayuġniaqtuq aquvitpan.
+- **Qanuq iḷiqsiniŋa tautuklugu.** Argait saktut, kiñaa saktuq, irrusikkun tautuktuq aasii atuullaktuq nakuuqqun iḷiqsiniq nalunaiqsuq. NIA uqaqtuq niviurniq, kiñaa iññiqsuq, timimi iḷaŋanik paŋalikługu aasii qiyaaŋaniq qiyaaŋaruq nalunaiqsuq. Nutqaġlugu, iḷisimaruanun uqautigilugu.
 
-## A quick guide by sense
+## Qitiqautit tusaanianik, tautugnianik, aktuutiniġnillu
 
-| Sense | Ideas | Take care |
+| Ilitaun | Savaaksrat | Aŋalatchiġniq |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Tusaaniq | Atuutit piuqtat, nipin taiguagni, nunaŋmi tusaaniat | Nipaa saktuli; atauchimik nipamik |
+| Aktuutiniq | Argak tigummiqniq, saktumik aktuutiniq, qalimaaġvik saktuq, uqsruq mamiqtuq | Sivunniuq uqautigiñ; kiñaa qiyaaŋaruq aasii aŋmaŋaruq tautuklugu |
+| Tautugniq | Iglaut, nautchiat, igalaaq quliaqtuaq, nunaŋmi tautugniq saktuq | Tautuktigun tiguġlugu; qaummat nakuuq, qaummaġniaŋitchuq |
+| Tipiiġniq | Tipigiksraq piuġigaq, nautchiat, kaffi saktuq | Tipiit suŋñaqtut atuŋŋitchit; kiñaa aasii aniqsaaqnia tautuklugu |
+| Niġiġniq | Niġiaksraq piuġigaq mikiruq | Niġiaksrat aasii imiq iḷisimaruat aŋalatchiġnaitchuat uqautilaaŋat kisiisa atuġlugit |
 
-## Safety at this stage
+## Aŋalatchiġniq taaptuma pakmani
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Niġiġniq aŋalatchiġnaqtuq akuniagniġaaŋani, aasii NIA uqaqtuq niġiaksramik iqsiġniq aŋalatchiġnaqtuq. Mikiruich savaaksrat itqunnaqsiñŋitchit, niġiaksramik imiqmiklu tuyuŋŋitchit iḷisimaruat uqautilaaŋat. Kiñaa saktumik tautuklugu aktuutchiñi, kiñaa aŋalatchiġnaqtuq. Savaaksrat saktuich tautukkumaguk, tautukku [savaaksrat tusaanianik, aktuutiniġnillu](/activities/sensory/).
 
-## Looking after yourself too
+## Ilivsiññiq nakuuqqun iḷitchuġlutin
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Akuniagniqaqtuanik munariniq aŋalatchiġnaqtuq timimun isumalu, iglumi aasii iñiḷaaq qiñiġvigumi. Hospice aasii palliative care ikayuqtit ikayuġniaqut nakuuqqun ittuanik, sivunniuġnianiklu, aasii NIA uqaqtuq ikayuqtaugun. Qitunmik, saktumik qiñiġviq piḷḷuataqtuq; tautukku [akuniagniqaqtuamik qiñiġviq](/activities/visiting/). Iḷagiññun savaaksrat aullaqtitiguviñ, [iñiḷaaqmi iḷagiññik savaaksrat](/activities/care-home-groups/) ikayuġniaqtuq. Taiguaġlugu [munariqsrualik nakuuqqun iḷitchuġniq](/caregiving/caregiver-self-care/): mersaġniq ikayuġniq iḷaŋa.

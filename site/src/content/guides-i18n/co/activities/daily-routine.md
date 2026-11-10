@@ -1,32 +1,34 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Una rutina dolce per una persona cù a dimenza"
+seoTitle: "Rutina per a dimenza: un ghjornu d'esempiu"
+description: "Un ghjornu d'esempiu flessibile per una persona chì campa cù a dimenza, cù pasti, attività è riposu in un ritimu regulare, è cunsiglii per adattallu."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Una rutina ghjurnaliera dolce mantene à pocu pressu à e listesse ore u
+  svegliu, i pasti, a cura persunale è l'ora d'andà à lettu, mette
+  l'attività principale quandu a persona hè più attenta, è equilibra
+  l'attività cù u riposu. Custruiscitela à partesi di l'abitudini di tutta a
+  vita di a persona, tenitela larga piuttostu ch'è piena, pruvate d'avè ogni
+  ghjornu luce di ghjornu è muvimentu, è cambiate u pianu liberamente quandu
+  a ghjurnata a richiede.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Ore regulare per u svegliu, i pasti, a cura è l'ora d'andà à lettu danu à a ghjurnata una forma cunnisciuta."
+  - "Mettite l'attività principale à u mumentu di a ghjurnata induve a persona si sente megliu, spessu a matina."
+  - "Ùn riempite micca ogni minutu. U riposu è i mumenti di calma facenu parte di a rutina."
+  - "A luce di ghjornu, u muvimentu d'ogni ghjornu è evità i longhi sonni tardi è a cafeina à a sera ponu aiutà cù l'inquietudine di fine di ghjurnata."
+  - "Una rutina hè una guida, micca una regula. Cambiate, accurtate o saltate ciò ch'ellu ci vole in i ghjorni più difficiuli."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Perchè una rutina hè utile per una persona cù a dimenza?"
+    a: "Una ghjurnata prevedibile vole dì menu decisioni è menu sorprese, ciò chì parechje persone chì campanu cù a dimenza trovanu rassicurante. L'Alzheimer's Association face nutà chì una ghjurnata pianificata permette di passà menu tempu à decide ciò ch'ellu ci hè da fà è più tempu à cose chì vi piacenu à tramindui. Aiuta ancu e persone chì s'occupanu di a cura à urganizà a so ghjurnata."
+  - q: "Chì ghjè un bonu prugramma ghjurnalieru per una persona cù a dimenza?"
+    a: "Ùn ci hè micca un solu prugramma ghjustu. Un bonu prugramma mantene à pocu pressu à e listesse ore u svegliu, i pasti è l'ora d'andà à lettu, mette a cura persunale è l'attività principale quandu a persona si sente megliu, include un tempu fora o vicinu à una finestra, è lascia spaziu per u riposu. Custruiscitelu à partesi di a manera di campà di sempre di a persona."
+  - q: "Una persona cù a dimenza deve fà un sonnu durante u ghjornu?"
+    a: "Un cortu riposu pò aiutà, soprattuttu dopu à meziornu. U National Institute on Aging suggerisce d'evità i longhi sonni è l'assupimentu tardi in a ghjurnata, perchè esse troppu stanchi o ripusà pocu pò aghjunghje inquietudine in fine di ghjurnata. S'è u sonnu hè un veru prublema, parlatene cù u so duttore."
+  - q: "È s'ella rifiuta di seguità a rutina?"
+    a: "Lasciate corre per avà è pruvate torna più tardi o d'un'altra manera. U rifiutu pò vulè dì ch'ella hè stanca, indisposta, chì hà dulore o simpliciamente chì ùn hè micca pronta. A rutina serve à rende a ghjurnata più faciule, dunque adattatela piuttostu ch'è furzalla."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +47,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Una rutina dolce dà à a ghjurnata una forma cunnisciuta: alzassi, i pasti, una piccula attività, un riposu è l'ora d'andà à lettu à pocu pressu à e listesse ore. Riduce e decisioni è e sorprese, è vi dà un pianu per i mumenti induve ùn sapete micca ciò ch'ellu ci hè da fà. A rutina quì sottu hè un esempiu, micca una regula. Adupratela cum'è puntu di partenza, dopu adattatela à a persona chì vo avete in cura.
 
-## Why does a daily routine help?
+## Perchè una rutina ghjurnaliera aiuta?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Una rutina regulare aiuta perchè i mudelli cunnisciuti sò più faciuli à seguità ch'è quelli novi. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) dice chì una ghjurnata pianificata vole dì menu tempu passatu à decide ciò ch'ellu ci hè da fà è più tempu per attività piacevule, è face nutà chì ore regulare per alzassi è andà à dorme ponu aiutà cù i prublemi di sonnu è l'inquietudine di fine di ghjurnata. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggerisce di fà u bagnu, vistesi è manghjà à e listesse ore ogni ghjornu cum'è parte d'una casa calma, è a [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ricumanda ancu di mantene e listesse rutine.
 
-## A sample gentle day
+## Un esempiu di ghjurnata dolce
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+L'ore sò solu esempii. Spiazzate tutta a ghjurnata più prestu o più tardi per seguità u ritimu di a persona.
 
-| Time | What happens | Ideas | On a harder day |
+| Ora | Ciò chì si face | Idee | In un ghjornu più difficiule |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Alzassi, lavassi, vistesi | U listessu ordine ogni ghjornu; preparà i panni in l'ordine in u quale si mettenu | Mantene a cura simplice; una camisgia fresca basta |
+| 8:45 a.m. | Cullazione | Un caffè è u ghjurnale lettu à voce alta, o a radiu | Manghjà inseme in calma, senza pressione per parlà |
+| 9:30 a.m. | Attività principale | Piegà a bughju, fà una torta, giardinà, una corta surtita o una spassighjata | Una versione più corta, o lasciatela fighjulà vi mentre vo a fate |
+| 10:30 a.m. | Tempu di calma | Musica, un album di foto, o stà sediutu vicinu à una finestra | Ripusà in una sedia preferita |
+| 11:00 a.m. | Aiutu per u pranzu | Lavà e verdure, mette a tavula | Vo cucinate; a persona vi tene cumpagnia |
+| 12:00 p.m. | Pranzu è piccula pulizia | Nettà a tavula, asciuvà qualchì piattu | Saltà i picculi travagli |
+| 1:00 p.m. | Cortu riposu | I pedi à l'insù, musica dolce | Listessa cosa |
+| 2:00 p.m. | Fora o attivu | Spassighjata, tempu nant'à a veranda, annaffià e piante, lancià un pallone | Stà sediutu vicinu à una finestra assuliata |
+| 3:00 p.m. | Mumentu suciale o creativu | Una visita, una chjama, [picture pairs](/games/picture-pairs/), culurisce, carte | Una bevanda è un spuntinu inseme |
+| 4:30 p.m. | Tempu per calmassi | Tende chjose, luci accese, un travagliu calmu cum'è piegà i panni | Musica cunnisciuta, pocu rumore |
+| 5:30 p.m. | Cena | Aiutà à girà o à mette a tavula | Manghjà simplice è cunnisciutu |
+| 6:30 p.m. | Sera inseme | Ricurdassi manghjendu un dolce, carte, un prugramma preferitu, un massagiu di e mani | Cumpagnia tranquilla |
+| 8:00 p.m. | Rutina di a sera | Bagnu o lavata, pijama, musica dolce, luci basse | Accurtà tuttu; u cunfortu prima di tuttu |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Questu esempiu seguita a forma di u prugramma d'esempiu di l'Alzheimer's Association per e tappe iniziali è medie, chì passa da a cura persunale è a cullazione à i travagli di casa, e spassighjate, a musica, u riposu è e visite, finu à a cena, i ricordi è a preparazione per andà à lettu.
 
-## How do you build your own routine?
+## Cumu custruisce a vostra propria rutina?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Partite da a manera di campà di sempre di a persona, micca da una tavula. L'Alzheimer's Association suggerisce di pensà à ste cose nanzu di pianificà:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ciò ch'ella li piace è ùn li piace micca, i so punti forti è i so interessi.**
+- **Cumu passava di solitu a so ghjurnata.** Una persona chì si alzava sempre prestu per spassighjà u cane deve sempre spassighjà prestu. Una persona di a sera ùn appreziarà forse mai un principiu à 8 a.m.
+- **U so mumentu megliu di a ghjurnata.** Mettite allora u bagnu, e surtite è l'attività principale.
+- **Abbastanza tempu** per i pasti, lavassi è vistesi, per ch'ellu ùn ci sia nunda di fattu in furia.
+- **Ore regulare** per alzassi è andà à lettu.
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+A listessa fonte suggerisce d'includisce un inseme di travagli di casa, pasti, cura persunale, attività creative, attività fisica, tempu suciale, attività spirituale è mumenti spontanei, cum'è a visita d'un amicu.
 
-### Try it for a week, then adjust
+### Pruvate per una settimana, dopu aghjustate
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Tenite una nota simplice ogni ghjornu. L'Alzheimer's Association suggerisce di dumandassi quali attività anu funziunatu megliu è perchè, s'ellu ci era mumenti cù troppu cose da fà o troppu pocu, è se i piani spontanei eranu piacevuli o anu datu penseru. Tenite ciò chì funziona è cambiate ciò chì ùn funziona micca.
 
-### Make it visible
+### Renditela visibile
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+S'è a persona pò sempre leghje, una lavagna o una carta à caratteri grandi cù u pianu di a ghjurnata pò esse rassicurante. Tenitela corta: "Cullazione. Spassighjata cù Sarah. Pranzu. Riposu." Certi si sentenu megliu senza sapè troppu in anticipu; a Family Caregiver Alliance suggerisce di ùn parlà di i piani chè ghjustu nanzu ch'elli accadinu, s'ellu li dà penseru.
 
-## How to adapt the routine
+## Cumu adattà a rutina
 
-### Leave room to breathe
+### Lasciate spaziu per respirà
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ùn riempite micca ogni minutu. L'Alzheimer's Association mette in risaltu chì a persona hà bisognu d'un equilibriu trà attività è riposu è pò avè bisognu di pause più spessu. S'ella pare annoiata, distratta o irritata, cambiate attività o ripusate.
 
-### Protect the late afternoon
+### Prutegge a fine di dopu meziornu
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Parechje persone diventanu più inquiete quandu a luce di u ghjornu cala. U NIA suggerisce di passà tempu fora o vicinu à una finestra per a luce di u ghjornu, d'esse attivi ogni ghjornu senza pianificà troppu, d'evità a cafeina è l'alcolu tardi in a ghjurnata, è d'evità i longhi sonni tardi. Certi famiglie trovanu ancu utile di chjude e tende è accende e luci nanzu à u crepusculu. Vidite [l'inquietudine di fine di ghjurnata](/caregiving/late-day-restlessness/) è [u sonnu](/brain-health/sleep/).
 
-### Change it as needs change
+### Cambiatela secondu i bisogni
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Tappa iniziale:** pianificate a rutina inseme. A persona pò vulè un prugramma scrittu ch'ella gestisce da per ella.
+- **Tappa media:** site voi à guidà di più. Attività più corte, più riposu è assai travagli cunnisciuti; vidite [attività per a tappa media](/activities/middle-stage/).
+- **Tappa avanzata:** a rutina si centra nant'à u cunfortu, i pasti è a cura, cù corti mumenti sensoriali cum'è a musica o un massagiu di e mani trà mezu; vidite [attività per a tappa avanzata](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Variate l'attività, micca a struttura
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Mantene fermi i pasti, u riposu è l'ora d'andà à lettu, è cambiate l'attività trà mezu. U [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggerisce di pruvà attività diverse in ghjorni diversi per mantene l'interessu. Pudete fà una torta u luni, giardinà u marti è fighjulà e foto u marcuri. E nostre [101 idee d'attività](/activities/ideas/) è i [travagli di casa](/activities/household-tasks/) ponu riempie i mumenti liberi.
 
-## When the day goes sideways
+## Quandu a ghjurnata ùn va micca cum'è previstu
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Certi ghjorni ùn seguiteranu nisun pianu. Una malatia, una cattiva notte, a visita di u duttore o un cambiamentu di tempu pò mette tuttu sottusopra. Lasciate u pianu, tenite l'essenziale (manghjà, beie, ripusà, cunfortu) è pruvate torna dumane. S'è a persona rifiuta qualcosa, vidite [quandu ella dice di nò](/caregiving/when-they-say-no/). Una corta pausa di respirazione lenta inseme, cum'è [respirazione calma](/games/calm-breathing/), pò aiutà vi à tramindui à ripiglià vi.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+A vostra propria rutina conta ancu. Prevedite pause per voi, è dumandate à a famiglia o à un serviziu di sollievu di copre tempi regulare di riposu. Vidite [a cura di sè per e persone chì s'occupanu di a cura](/caregiving/caregiver-self-care/).

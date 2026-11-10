@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Uqautchikun Video-kunlu Atuġutikhat Nalunaitchuanik Iñuum"
+seoTitle: "Video Call Atuġutikhat Nalunaitchuanik"
+description: "Uqautchikun video-kullu atuġutikhat akianiŋŋuaniq iḷaliŋnut: takkuġutit, taiguutit, atuutit, atugaksaŋich iḷaŋŋiḷḷugich ikayuqtim ikayuġutaalu."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Uqallautit iñuum nalunaitchuanik piḷaktuum ilaan nakuuruaqpaktut naŋitkaluaġlutik,
+  atautchimiñ taimaaglaan, aasii savaqatigivlugich, uvva pisuktuat qimmiġmik
+  nauttiamikluuniit takkuġivlugu, piksranik tautukłutik, nipituğun taigułutik,
+  atuutchimik piuġnaqtuamik atułutik, isumaaluguluunniit atuġutikhamik
+  takkuŋŋaġmi. Atautchimiñ taimaaglaan uqallautiqaġuvich nakuuruaqtuq,
+  atausiġmik uqaqtiqaġitchi, iñuumlu ilaani ittuam ikayuqsili.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Atuġutikhaq uqallautimun piqaqtitauq nakuuruamik, uqautchimuŋ suliaksraŋanik. Atausiŋŋuamik piyaġnaqtuamik sivunniuġitka."
+  - "Naŋitkaluaġlutik, atautchimiñ taimaaglaan uqallautit nakuuruaqpaktut akuniqsrauruanit sivisuġaluanillu."
+  - "Atausiq uqaqtuq atausiŋŋuaq. Amigaitchuat uqallautit uqaqqataqtuat nalupqinaqtuq tusraġumiñaġmiḷḷu."
+  - "Iñuk ilaani ittuq ikayuuġumiñaġaaq qanuq atuġumun, iñuum saniatigut iqqumiḷḷu, argamillu atuġutikhamun piksranullu."
+  - "Uqallautiq nalunaiññaqpata uvluakun, nakuuruamik naqitka. Aġaġumi qiñiġumiñaġuviñ."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Suna piyaġumiñaġiga video-kun uqallautimi iñuum nalunaitchuanik piḷaktuum ilaan?"
+    a: "Atausiŋŋuamik piyaġnaqtuamik sivunniuġitka: nauttivik, qimmiq niġiurvikluuniit takkuġilugu; piksrauruat tautukługich ilaanik; taiguutit mikiruamik atuutchimikluuniit aglaŋmikluuniit nipituğun; atuutchimik piuġnaqtuamik atułutik; niqimik iġġaqtuamik iġġałutik taimaaglaan; isumaaluguluunniit atuġutiksramik piksranik takkuŋŋaġmi. Atuġutikhat uqallautimun piqaqtitaut nakuuruamik, iñuum uqautchimun suliaksraŋa iḷitchuġivlugich."
+  - q: "Qavsiñiqpa video call sivisuġumiñaġaa?"
+    a: "Ilaan naŋitkaluaruq isumagikpallu. Qakugulu mikiruak nakuuruak naamaktuaq, iḷḷatmun iñuk qasuguniqpaŋ. Atautchimiñ taimaaglaan uqallautiqaqtuq sivisuġniŋaniñ ikpakhianiġumiñaqtuq."
+  - q: "Sumiñaqpa nalunaiññaqpaguunniit uqallautit video-kun pasiksigauni?"
+    a: "Iḷaan iñuit takkuŋŋaġmi iñuum kigiñaa nalunaiqługu piḷḷagaa. Uqautchimik atuŋitcha, videomik aglaaġnialik ikayuqtim tautuktitquvlugu nakuuruami, aglaunmiḷḷuuniit piksraniḷḷuuniit aullaqtitka. Uqallautiq nakuunġippat, nakuuruamik naqitka uvluamun allanulluuniit taimaagun qiñiġlutin."
+  - q: "Qanuq aakam ikayuġumiñaġiga video-kun uqallautimun, uqautchiñiŋani telephona?"
+    a: "Iḷaliq, ikayuqti, naipiqtulluuniit ikayuqtim uqallautiq aullaqtilliquvlugu, telephonaluuniit tablet-luuniit tigumiługu naġġuġiluguluuniit. Amigaitchuat naipiqtut ikayuġumiñaqługu iḷaliŋnik video-kun uqallautimun, apiqsrilugiñ sunik ikayuġusinnaġaat. Tablet naġġuġutimun iḷḷilugu, takkuŋŋak aŋiḷḷugu, nipaa tusraaqtilugu, iluqatinun piyaġnaġumiñaqtuq."
+  - q: "Atuġutiksramik atuġumiñaqpisa uvaptiŋŋun video-kun?"
+    a: "Ii. Piyaġnaqtuq atausiġmiñ iñuum takkuŋŋani takkuġilugu, alla uqaluni suna piksraq tuquġumagaa. Imaaluuniit ikayuqtim ilaani atuġutiksraq atautchimi tablet-mi aullaqtillugu, tuqułḷunilu iñuum atiŋagun uvagut uqautchiqaqtiluta. Atuġutit nalauttaaqtitchuat, nalunaipkaqtitchuatluuniit pisuŋŋitcha."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Akianiŋŋuaq iñuum nalunaitchuanik piḷaktuum iḷiqatiqpaŋ ikayuŋitchuaq suli iñiqsraqtuq. Uqautchiq video-kulluuniit aŋmagiñiaŋitka, aglaan nakuuruat katiqatigiñiqsat piqaqtumiñaqtut nakuuruamik upaluktitkaġuvich. Piyaġnaqtuq uqautchiqaqtuamun suliaksraŋaniq taiguaġlutin, piyaġnaqtuamik aasii savaktitkapsi sivunniuġilugu. Una makpiraaq uqallautauq atuġutinik nakuurut video-kun uqautchikullu, qanuq uqallautiq nakuuruatquvlugu, iñuumlu ilaani ittuam ikayuġusriŋanik.
 
-## Why plan an activity for a call?
+## Suvva uqallautimun atuġutikhaq sivunniuġigaa?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Atuġutikhaq uqallautimun piqaqtitauq nakuuruamik. “Qanuq itpiñ? Sunik piñiaqpiñ uvluakun?” iñuum itqaumayumiñaqtuq uqallautchiyumiñaġlugu, taamna nalunaiqsuq piḷḷavlugu. “Tautukka, tomato-t atchuŋaruŋiḷḷiqsut” apiqsriŋitchuaq.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association nalunaiqsuq amigaitchuat uqallautit video-kun nalunaiqługu piḷḷagaa, aasii [uqallautimun piqaqtitquvlugu](https://www.alz.org/help-support/caregiving/holidays) atułutik, piksranikluuniit takkuġilutik.
 
-## What activities work on a video call?
+## Sunik atuġutinik nakuurut video call-mi?
 
-### Show and tell
+### Takkuġilugu uqallautchilu
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Iñuuviñ takkuġilugu. Nauttivik kaivlavigilugu, qimmiq nalunaitchilugu, suna niġiugigikpan takkuġilugu, nutaraq aglaŋanik tigumiaġlugu, isumaaluguluunniit silamun takkuŋŋak saŋilugu apunmi. Sumik tautukkakpan uqallautchigilugu piyaġnaqtuakun, utaqqiḷḷutin kiuŋiaġumiñaġaa. Apiqsriŋitchuatit.
 
-### Look at photos together
+### Piksrat tautukługich ilaanik
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Piksraq utuqqaq camera-mun saŋilugu, isumaaluguluunniit takkuŋŋaġmi takkuġilugu atausiŋŋuakun piksranik aŋiruanik. Tautukkakpan uqallautchigilugu: “Tautukka Aapa uraŋa nasaam.” “Kina una?” “Itqaumaviuŋ?” taapkua apiqsriŋŋikkich. Iñuum atiŋa nalunaitchiguni, taima iḷitchuġilugu. [Itqaumaniq nalunaitchutit](/activities/reminiscence/) tautukka nakuuruakun apiqsuutinik.
 
-### Read aloud
+### Nipituğun taiguutit
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Atuutchimik mikiruamik taiguġilugu, psalm-mik, nutaqqanun aglaaŋmik, iḷaliŋñum aglaŋanik, isumaaluguluunniit makpiraaq piuġnaqtuam. Nipituğun taigutin nakuuruamik tusraġutitauq, kiuŋniaqsraŋaniŋani.
 
-### Sing or listen to music together
+### Atułutik naalaktitkaluaġlutik
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Atuutchimik ilisimagaa atuġilugu, naalautaaŋaluguluunniit piuġnaqtuamik. Atulliq nakuuruaqtuq uqallautiminiñ iḷaan iñuŋnun. [Atuġutit nalunaitchutit](/activities/music/) tautukka.
 
-### Cook or bake at the same time
+### Iġġałutik taimaaglaan
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association uqaqtuq video-kun iġġaġumiñaġlusi niqimik piuġnaqtuamik. Iġġavikmiñi ilaanik upaluktitka. Iñuk ilaani ittuq iġġaliqsuutilaaġumiñaqtuq, ilvichlu niqim uqausiŋanik maliġilugit.
 
-### Watch something together
+### Tautukłutik ilaanik
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association uqaqtuqlu piuġnaqtuamik movie-mik tautuġumiñaġlusi taimaaglaan, savaŋnianiñ ilaani, uqallautchiqaqtilusi telephona-kun video-kulluuniit. Iñuum nalunaitchuanik piḷaktuum mikiruak tautugaksaq, TV-kun tautugaksauraq, isumaaluguluunniit akiḷḷiutit tautuġnaqtuat sivisuġaluaġnianiñ movie-niñ.
 
-### Play a gentle game on a shared screen
+### Atuġutiksraq takkuŋŋaġmi ilaan
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Video call atuġutkai iḷaŋat takkuŋŋaġnik takkuġitquvlugu piḷḷagaat. Ilvit atuġutiksraq aullaqtilugu tuquġutin; iñuum uqaluni isumaaluguluunniit takkuġiluni suna piksraq pisuġigaa. Imaaluuniit ikayuqtim ilaani atuġutiksraq atausiq tablet-mi aullaqtilugu tuquġilugulu iñuum atiŋagun, uqallautchiqaqtilusi.
 
-Games that work well this way:
+Atuġutit nakuurut taavani:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** ilvit atuutchiaq nalunaitchuaq taiguġivin, iñuum naġġaa uqaġaa, uqausiqlu maliglugu tusraġniaġaa.
+- **[Picture Pairs](/games/picture-pairs/):** nakuuruq atuġutiksraq piksranik aŋiruanik nalauttaaqtitchuaq, nalunaipkaqtitchuaq.
+- **[Conversation Cards](/games/conversation-cards/):** piksraq uqausiqlu uqallautchiguminaġlusi.
+- **[Photo Pairs](/games/photo-pairs/):** nalautchiq atuġutiksraq piksranik ilvit pisuġivigit. Piksrat browser-niñi ittuat, iñuumlu tautukkaa takkuŋŋaġni takkuġigikpan.
 
-### Recorded messages
+### Aglaaġnialgit videomik
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Uqallautit nalunaiqpata, videomik mikiruamik aglaaġitka: paġlagivlugu, atułutin, nauttivigñilu pisułutin. Ikayuqtim tautuktitquvlugu nakuuruami, qavsiñiqpaŋ piuġnaqtuagun. Alzheimer's Association uqaqtuq aglaaġniġmik aullaqtillugulu, uvva nutaqqat tunuaniqsanik aŋiġuḷḷutik.
 
-## What about plain phone calls?
+## Uqautchit telephona-kun suli piuŋagaat?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Uqautchit telephona-kun suli ikpaktuŋagaat. Dementia Australia uqaqtuq [atautchimiñ taimaaglaan telephonaliġuvich](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) suŋŋiḷḷutalu, nalunaitchuat iñuit sivisuuraġumiñaġmat. Telephona-kun:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Atiñ uqalugu ilagiññiḷḷu sivulliqpaŋ: “Paġlagivsi Aapa, uvanga Jenny, paniqpik.”
+- Suŋŋiḷḷutin, uqausiq mikiruakun, atausiŋŋuamigun isumagilutin.
+- Tusaayugaksranik uqalugit, apiqsuŋŋiḷḷutin: “Uŋasrakuun niqipiat niqiuruaqpiga.”
+- Atuutchiaq mikiruak taiguġilugu, isumaaluguluunniit atuutchim iḷaŋanik atuġilugu.
+- Naŋitkaluaġlugu, nakuuruakun naqitka.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia nalunaiqsurlu video call ikayuutausinnaġaa uqallautiq nalunaiqpagu, iñuum kigiñ takkuġumiñagaa. Telephona-kun nalunaiqpata, video-kun qiñiġitka, imaaluuniit taŋŋaŋŋaagut.
 
-## How do I set up a video call that works?
+## Qanuq video call nakuurutquvlugu upaluktitkaa?
 
-**Before the call:**
+**Uqallautiŋŋiqpagu:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Atautchimik taimaamun pisuġitka** iñuk nalaunmiñaqtuaq taimaagun, taimagḷuuniit pisuġilugu. Atuqtuaq ikayuutauq.
+2. **Ikayuqtimik ilaani ittuamik uqautchiqatiqaġitka.** Uvlupak aqullugu aglaun nakuuruq sivunniuġutigiyaaqaa.
+3. **Atuġun qiñiġilugu.** Tablet naġġuġutimun nakuuruaqtuq telephonamiñ tigumiaġnianiñ. Uqsuġautaa, takkuŋŋaa qaummaġlugu, nipaa tusraaqtilugu. Tusaayugaksrat aglaŋat iḷḷilugiñ pisukpata iñuumlu taiguumiñagaa.
+4. **Atausiŋŋuamik atuġutikhamik sivunniuġitka** tamaitalu itqaumayarlugit.
 
-**During the call:**
+**Uqallautimi:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Camera-mun qanittuq iqqulutin** qaummaġmi, sigiñam saŋiani, tunuaniŋŋiḷḷutin.
+- **Atqiñ nalunaitchilugu** atausiġmiñ, ilagiññiḷḷu.
+- **Atausiq uqaqtuq atausiŋŋuaq.** Alzheimer's Association uqaqtuq uqaqqataqtuat nalunaiqtuat iñuŋnun nalunaitchuanik piḷaktunun tusraġumiñaġmiḷḷu. Amigaitchuat iḷaliat ilauḷḷutik, immaqaa uqautiqaġitchi, malġugnikluuniit piŋasunnikluuniit iñuŋnik pisuġilusi.
+- **Atausiŋŋuamik apiqsruŋŋuaq.** Family Caregiver Alliance uqaqtuq [apiqsruutinik piyaġnaqtuanik, ii-ŋŋa-ŋŋiḷḷu kiuŋiaksranik](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), pisuġumiksraniklu takkuġilutin.
+- **Utaqqiḷḷutin sivisuuraġlugu.** Kiuŋiaġumiñaġaa utaqqilugu. Uqausiq ikayuutigiyaaqaa uqausiksraq uuktuqpagu.
+- **Kigiñ nipilu atuġlukik.** Quviasukłutin, iḷisimaġutitquvlutin, nipik nakuuruatilugu. Tautuktaq iñiqsraqtuq uqausiŋniñ.
+- **Aaqqiksuiññak.** Iñuum uqausiŋa nalupqiqpata, taima iḷitchuġilugu.
 
-**Ending the call:**
+**Uqallautiq naġiġlugu:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Iñuk qasuguniŋŋiqpagu naġitka, nakuuruami.
+- Atautchimik taimagmik paġlagilugu: “Uvlaakun niġiukkamun telephonaliġumiñaqpagich. Piqpakkich.”
+- Sivisuġutigiŋŋiġlugu.
 
-## Tips for the helper on site
+## Ikayuġutit ikayuqtim ilaani ittuam
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Nuliaguvich, uiŋuvich, ikayuqtiguvichluuniit, ilvit uqallautiq piñaqtilugu ikayuutin.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Nipiqsaaqtumiñ iqqummun upaluktitka.** TV kamillugu, upkuaqlu umiklugu.
+- **Ilvit uqallautiq aullaqtilugu,** tavra tablet naġġuġutimun iḷḷilugu iñuum saniani, tigumiaġluguluuniit iglausimun.
+- **Saniatigut iqqulutin, sivuaniŋŋiḷḷutin.** Tautuġniq ikayuutauq. Suŋŋiḷḷutin uqautchigilugu: “Tautukka, Jenny-una.”
+- **Arganik ikayuġilugu.** Piksrat tigumiaġlugit, atuġutiksraq tuquġilugu, tablet saŋilugu iglum tautuksaŋanik takkuġilugu.
+- **Qasuguġniq pasiksrakł̣uuniit tautuglugit,** uqallautchimun uqalugit naġiġumiñaġaaq.
+- **Uqallautchimun uqalugit suna nakuuruq.** “Qimmiq quviasuġigaa” ikayuutauq uqallautimun tugliamun.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA uqaqtuq akianiŋŋuaniq iḷaliat ikayuġumiñaġaat utuqqaq iñuk [telephonami atuġutinik ilisaġutilugu](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), uvva video call-ŋanik. Kingulliġmi nalunaitchuaq nalunaiqpagu, ikayuqtiq telephonamik tamatkua atuġumiñaqpagaa. Taamna nakuuruq.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Iñuk naipiqtuġmi ittuqpagu, Alzheimer's Foundation of America uqaqtuq apiqsriquvlugu naipiqtun iḷaliŋnik video-kun ikayuġumiñaġaat. AFA uqaqturlu iḷaliat piksranik aullaqtitqiñaqłutik ikayuqtitigut, niġiruanikluuniit piuġnaqtuanik aullaqtitqiñaqłutik, naipiqtun piñaqtillugiñ pisukpagich apiqsrisukkaluaġlugit.
 
-## What if the call doesn't go well?
+## Uqallautiq nakuunġippat?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Iḷaan uqallautit nalunaiqtuat, nakuunġitchuat, pasiksraqł̣uuniit. Taamna ilvit pisuġiviŋŋitchauq, uqallautitlu ikayuutaunġitchuat uqaqŋitkaa.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Iñuk takkuŋŋaġmi nalunaiqpagu, uqautchimun telephona-kun sivuġilugu, videomigluuniit aglaaġnialigmik.
+- Pasiksraqpagumi, iñiqsraŋa iḷisimallugu, nakuuruamik uqautchigilugu, suŋŋiḷḷunilu naqitka.
+- Uqallautit nalunaiqpata taimaaglaan, allamiñ taimaagun qiñiġitka.
+- Ilvit kinaalluni iñiqpagu, nakuuruakun taima iḷitchuġilugu.
 
-It is fine to end early. A short, warm call is a good outcome.
+Naŋitkaluaġlugu naġiġumiñaqtutin. Naŋitkaluaq nakuuruq uqallautiq nakuuruq.
 
-## Between calls
+## Uqallautit akuliŋanni
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Allatqun ikayuġumiñaqtutin. Dementia Australia uqaqtuq aglaunmik, email-mik, piksranigluuniit tunuaniqsrualigluuniit aullaqtitquvlugit. Piniqaqtuanun atausiq aglaun, atausiŋŋuaq piksraq aŋiruak, uqausiqlu mikiruak, taiguaġumiñaqtuq qavsiñiqpaŋ. [Conversation Cards](/games/conversation-cards/) aglaaġuminaqtut ikayuqtimun aullaqtitquvlugit, uqallautimun sivunniuġutiksraqaqtitquvlugu.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Tablet pisuġniq upaluktinniqlu iḷisimagumaguvich, [tablets and screens](/caregiving/tablets-and-screens/) tautukka. Iñiqatiqaġnigumaguvich, [visiting](/activities/visiting/) nalunaitchutit tautukka.

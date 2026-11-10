@@ -1,34 +1,36 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "101 na iVakasala Rawarawa vei ira era Mate ni Vakanananu"
+seoTitle: "101 na Cakacaka Rawarawa me baleta na Mate ni Vakanananu"
+description: "101 na cakacaka rawarawa, vakaturaga vei ira era bula kei na mate ni vakanananu, mai na lobia isulu ki na sere kei na iyaloyalo, kei na sala ni veisautaka."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Na cakacaka vinaka vei ira era bula kei na mate ni vakanananu e dau
+  kilai, e vakaturaga, ka rawarawa me caka vata: lobia isulu, tuvata na
+  ka, vakasaqa kakana, sere, raica na iyaloyalo, taubale, teitei, tiko vata
+  kei na manumanu, kei na qito rawarawa. Digia na ka e dau taleitaka o
+  koya o qarava, taura na veitikina dredre, ka muduka ni sa oca. Na gauna
+  vinaka dou veivakamarautaki kina e bibi cake mai na kena vakacavari e dua
+  na ka.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Tekivu mai na bula nei koya o qarava: na nona cakacaka, na ka e taleitaka, na nona vakabauta kei na sere e taleitaka e ivakaraitaki vinaka duadua."
+  - "Vakalailaitaka na cakacaka kece ni gadrevi: lailai na ikalawa, lailai na digidigi, o taura na tiki dredre."
+  - "Na sarasara, na taura e dua na ka, se na tiko ga voleka e wili talega me tiko kina."
+  - "Muduka se veisautaka ni o raica na oca, na rarawa se na cegu. Na kena tinia vakatotolo e iwalewale vinaka."
+  - "Na cakacaka vata e bibi cake mai na kena caka vakadodonu."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Na cava na cakacaka e vinaka vei e dua e bula kei na mate ni vakanananu?"
+    a: "Na cakacaka kilai e dau cakava tu ena vuqa na yabaki, ka vakalailaitaki vakalailai: lobia isulu, tuvatuva na teveli, vakasaqa kakana, sere, raica na iyaloyalo, taubale, teitei kei na tiko vata kei na manumanu. Digia na ka e rairai vakaturaga ka yaga, ka cakava vata."
+  - q: "E dodonu me balavu vakacava e dua na cakacaka?"
+    a: "E sega na balavu dodonu. Ena so na siga, e rauta na vica na miniti ni lobia taulo, ena so tale na siga e rawarawa na dua na aua ena iteitei. Laiva me vakatulewa o koya o qarava na totolo, ka tinia ni se vinaka tiko na yalo."
+  - q: "Vakacava kevaka e sega ni vinakata o koya o qarava me cakava e dua na cakacaka?"
+    a: "Kakua ni vakasaurarataki. Na 'sega' e rawa ni kena ibalebale ni rairai dredre na cakacaka, e sega ni gauna donu, se sa oca se sega ni marau. Tovolea tale ena gauna tale, solia e dua na kena mata lailai, se tekivuna ga o iko voleka ka sureti koya me veivuke."
+  - q: "E vinaka na qito ni vakasama vei ira era bula kei na mate ni vakanananu?"
+    a: "Na qito e rawa ni sala vinaka me dou veivakamarautaki kina, ia e sega ni dua na qito e vakaraitaki ni qarava, vakaberaberataka se tarova na mate ni vakanananu. Digia na qito ka sega na ivakatakilakila ni gauna, na iskor, se na rorogo ni cala, ka raica me cakacaka vata, sega ni veitarogi."
+  - q: "Au na vakayacora vakacava me kakua ni rairai vaka gone na cakacaka?"
+    a: "Vakayagataka na iyaya dina, vakaturaga: taulo dina, iwalewale ni kakana dina, sere vakaturaga, iyaya ni droini, kei na iyaloyalo vakaturaga. Vakamacalataka na cakacaka me veivuke dina o gadreva, ka vosa vei koya me vaka na tamata qase o koya."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +52,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Na cakacaka vinaka duadua vei e dua e bula kei na mate ni vakanananu, e dau ka e sa kila tu me cakava, ka vakalailaitaki vakalailai ka caka vata kei e dua e nuitaka. Era tu e ra na 101 na ivakasala, ka tuvai me vaka na kedra mataqali, ka vakamacalataki kina na kena vakarautaki kei na sala me vakamamadataka ni sa dredre. E sega ni gadrevi na iyaya kaukauwa, ka sega ni dodonu mo vakacavara e dua na ka. E dua na yakavi vinaka e rawa ni dua ga na basi taulo kei na dua na bilo kofi dou gunuva vata.
 
-## How do you choose the right activity?
+## O na digia vakacava na cakacaka e veiganiti?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Digia me vaka na tamata, sega ni vaka na lisi: tekivu mai na ka e dau taleitaka tu kei na ka e rawata vakamamarau nikua.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Vakasamataka na nona cakacaka kei na ka e taleitaka.** Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e vakatura ni dua e dau cakacaka ena valenivolavola e rawa ni taleitaka na tuvata ilavo se na vakarautaki ni meli, ka dua na dau teitei e rawa ni taleitaka na cakacaka ena lomanibai.
+- **Raica na ka sa cakava tu.** Kevaka e dau tavulaca na nona varada o tamamu ena veimataka lailai ka sega ni kerei, vakacuruma ki na siga.
+- **Vakarautaka me vaka na ka e rawa.** Na oca, na rai, na rogoci, na liga mosi kei na tu dei e bibi kece.
+- **Raica na nona yalo.** Na cakacaka osooso se rorogo e vinaka vei eso, ia e vakararawataki ira eso tale.
+- **Solia e dua na inaki.** Na lobia taulo me baleta e dua na soqo e rairai yaga cake mai na dua na vakatovotovo ga.
 
-### A rough guide by stage
+### E dua na ivakaraitaki lekaleka me vaka na ituvaki
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Na mate ni vakanananu e dau vakamacalataki ena ituvaki taumada, e loma, kei na ituvaki e muri. Oqo na yaca walega, sega ni kato, ka vuqa na tamata era tiko ena siga vinaka kei na siga dredre, o koya mo muria ga na ka o raica nikua. Na [lisi ni Alzheimer's Foundation of America me vaka na ituvaki](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e muria talega na ivakarau oqo.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Ulutaga | Ituvaki taumada | Ituvaki e loma | Ituvaki e muri |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Na ka o rawa ni raica | E dau cakava vakataki koya na vuqa na ka; e dredre na tuvatuva, na yaca vou kei na vanua osooso | E gadreva na veivuke me tekivu kei na ikalawa; e dredre sobu na vosa | E gadreva na veivuke ena vuqa na ka ni veisiga; na yalo ni vakila e bibi duadua |
+| Na cakacaka e dau veiganiti | Kati, qito ni teveli, vakasaqa kakana, teitei, volavola, lako yani kei na ilawalawa | Lobia isulu, tuvata na ka, ikalawa rawarawa ni vakasaqa, sere, ivola ni iyaloyalo, taubale vakataki | Sere e taleitaka, veimirimiri ni liga, ka malumu me tauri, wiliki vua, tiko e tautuba |
+| Nomu itavi | Itokani: taroga na veivuke e vinakata | Vakarautaka, vakaraitaka, taura na veitikina dredre | Kauta mai na cakacaka vua; na nomu tiko vata sai koya na cakacaka |
+| Eso tale na ivakasala | [Ituvaki taumada](/activities/early-stage/) | [Ituvaki e loma](/activities/middle-stage/) | [Ituvaki e muri](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## O na tekivuna vakacava e dua na cakacaka kei e dua e bula kei na mate ni vakanananu?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Tekivu vakalailai, tekivu vata kei koya, ka vakamamadataka na kena rawarawa me kaya io. E vuqa era se vinakata me tiko kina ia e dredre vei ira me tuvatuva se tekivu.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Digia na nona gauna vinaka,** e vakavuqa na mataka.
+2. **Vakarautaka kece na ka taumada** me dou tekivu sara ga.
+3. **Kerea na veivuke, sega ni vakatovotovo:** "O rawa ni vukei au vakalailai ena ka oqo?"
+4. **Tekivuna o iko.** Lobia na imatai ni taulo ka laiva me curu mai. Na vakaraitaki e vinaka cake mai na vakamacala.
+5. **Solia dua ga na ikalawa ena dua na gauna.**
+6. **Taura na tiki dredre duadua.** Na Alzheimer's Association e vakatura mo vakarautaka o iko na ivakarau ni kakana, qai solia vua na sipuni me veicurumaki.
+7. **Laiva me caka ena nona sala.** E vinaka ga na taulo e lobia ena dua tale na sala.
+8. **Muduka ni sa sega ni marau.** Na yavayava sega ni dei, na mataboto se na "au sega ni rawata" e ivakatakilakila mo veisautaka se vakacegu.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Raica talega [na cakacaka vata](/caregiving/how-to-play-together/) kei na [ivakasala ni veivosaki](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Na cakacaka ni veisiga e vale
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Na cakacaka ni vale e kilai ka yaga, o koya e vanua vinaka me tekivu kina. Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e cavuta na savasava bilo, tuvatuva na teveli, tavulaca, tuvata na meli kei na lobia isulu me cakacaka era rawa ni taleitaka. Eso tale ena [cakacaka ni vale](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Lobia taulo katakata.** Lutuva mai na misini na basi ki na teveli ka lobia vata. Ena gauna tale, na vakamamare kei na binia e veivuke talega.
+2. **Veivolekati na totini.** Tekivu ena roka duidui sara. Ena gauna tale, na tuvata na rarama mai na butobuto e rauta.
+3. **Tuvatuva na teveli.** Solia dua ga na mataqali iyaya ena dua na gauna. Vakarautaka o iko e dua na vanua me ivakaraitaki.
+4. **Savasava se vakamamaca na bilo.** Wai katakata, sovu kei na bilo sega ni voroka rawarawa. Na vakamamacataki ni dabe e rawarawa vei na yava.
+5. **Quisia na teveli.** Solia e dua na isulu suasua ni oti na kana. E cakacaka dina vei na liga e vinakata me cakacaka tiko.
+6. **Tuvata na meli.** Na ivola kei na meli sega ni yaga ki na "maroroya" kei na "biuta." Kakua ni vakayagataka na bili dina.
+7. **Musu ivola ni vakalailaitaki isau.** Sisisisi sega ni gata kei na ivola ni sitoa. Ena gauna tale, na wiritaka na kakana e taleitaka e rawa talega.
+8. **Tuvata na ilavo siliva.** Tuvata ki na bilo se viri ki na waiwai. Biuta na ka lalai kevaka e dau biuta na ka ki gusuna o koya o qarava.
+9. **Tavulaca se qusia na kuvu ni soso.** E dua na itavulaca mamada ena varada, se dua na isulu ni qusia balavu ka vakayagataki ni dabe.
+10. **Veivuke ena vakarautaki ni kakana.** Vua na kakana draudrau, basuraka na liti, veicurumaki. O taura na isele kei na katakata.
+11. **Vakarautaka e dua na iwalewale ni kakana ni matavuvale.** Vakayagataka na kadi ena nona volavola kevaka e tu. Ena gauna tale, e rawa ni o koya na dau tovolea.
+12. **Caka na cakacaka ni valenivolavola.** Lobia meli, vakacuruma ki na waqawaqa ka drega sitaba, se volavola vata na lisi ni voli.
 
-## Music
+## Sere
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Na sere kilai e rawa ni yacovi ira na tamata dina ga ni sa dredre na vosa. Na [ivakasala ni sere ni Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) e vakatura na sere kilai, sega na kacivaki ni volivoli kei na kena bokoci na retioyaloyalo. Raica [na cakacaka ni sere](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Vakarautaka e dua na lisi ni sere vakataki koya.** Na sere mai na nona gauna ni cauravou, na nona vakamau, na nona lotu kei na nona ivakarau.
+14. **Sere vata.** Tekivu sere o iko. Na tagitagi se na vakarorogo e wili talega.
+15. **Taura na ivakatagi.** Vakamamaca liga, yavita na duru se yavita e dua na dramu ni liga. E yaga ni dabe kei na ituvaki e muri.
+16. **Danisi.** Danisi vakamalua ena valenikana, se yaviyavi ni dabe ka taura na liga.
+17. **Vakarogoca e dua na albamu taucoko.** E dua na ivakatagi e taleitaka mai na tekivu ki na icavacava, kei na kofi ka sega tale e dua na ka e yaco.
+18. **Talanoa me baleta na sere.** Sureta na italanoa, sega ni taroga na ka dina: "Tukuna mai vei au na danisi o a dau lako kina."
+19. **Sarava e dua na musical se koniseti volai.** E dua na vakaraitaki e dau taleitaka e rawa ni yakavi vinaka. Ceguva ena gauna cava ga.
+20. **Qiria e dua na iyaya ni ivakatagi kilai.** E dua e dau qiri piano e rawa ni taleitaka na sere rawarawa; ena gauna tale, vica ga na nota vata.
+21. **Rogoca na sere bula.** E dua na koniseti lekaleka ni itikotiko se vakatovotovo ni mataivakatagi. Dabe voleka ki na katuba.
 
-## Reminiscence: photos, objects and stories
+## Nanuma vata: iyaloyalo, iyaya kei na italanoa
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Marautaka vata na gauna sa oti ka kakua ni vakatovolei. Biuta na "O nanuma li...?" kei na "O cei oqo?" ka vakayagataka na sureti wavoki. Raica [na cakacaka ni nanuma vata](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Raica vata e dua na ivola ni iyaloyalo.** Tukuna na ka o raica: "Totoka dina na isulu o ya. Tukuna mai vei au na siga o ya." Vakadonuya na yaca cava ga e vakayagataka.
+23. **Vakarautaka e dua na kato ni nanuma.** E dua na kato ni iyaya mai na nona bula, me vaka na beji ni cakacaka se kadi ni kakana. Kauta mai dua ga na ka ena dua na gauna.
+24. **Tekivuna e dua na ivola ni italanoa ni bula.** Vica ga na iyaloyalo ena dua na tabana kei na ivakamacala levu. E vukei ira na dau veivuke vou me ra kila na tamata.
+25. **Vakayagataka na kati ni veivosaki.** Na [kati ni veivosaki](/games/conversation-cards/) e veiwaki kina e dua na iyaloyalo kei na dua na taro wavoki.
+26. **Caka e dua na qito ni iyaloyalo ni matavuvale.** Na [veivolekati iyaloyalo](/games/photo-pairs/) e vukica na nomu iyaloyalo me qito ni veivolekati.
+27. **Sarava na iyaloyalo ni vale se retioyaloyalo makawa.** Vakamacala vata ka kakua ni taroga na taro.
+28. **Taura na iyaya mai na nona cakacaka.** E dua na sipana, na sitetisikope, se dua na ivola ni volavola. Na liga e dau liutaka na italanoa.
+29. **Vakarautaka e dua na kakana mai na nona gauna ni gone.** E rawa ni veicurumaki, tovolea, se tiko ga ena valenikana vata kei iko.
+30. **Raica e dua na mape ni vanua e a tiko kina.** Muria na sala kilai ena dua na mape levu ni dou veitalanoa tiko.
 
-## Creative activities
+## Cakacaka ni bulibuli
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Na cakacaka ni liga e baleta na caka, sega ni ivakarau sa oti. Maroroya na iyaya me vakaturaga ka taqomaki. Raica [na cakacaka ni liga kei na droini](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Boro ena wai ni roka.** Pepa vavaku kei na vica na roka. Kevaka e dredre na tekivu, liutaka vata na imatai ni idre.
+32. **Rokataka na droini vakaturaga.** Senikau se ilava, sega ni katooni. Na noda [tabana ni rokataki](/games/coloring/) e rawa ena sikirini se tabaki.
+33. **Caka e dua na kolaji.** Basuraka na iyaloyalo ni iteitei, motoka se kakana mai na mekasini ka vakadabeca. Ena gauna tale, na digia ga na iyaloyalo e rauta.
+34. **Tuvatuva na senikau.** E dua na ilala mai na sitoa kei na tavaya. Ena gauna tale, vica ga na kau ena tavaya lailai.
+35. **Cula se kurosete vata.** Icula rawarawa ena icula lelevu. Ena gauna tale, na vivia na wa ni cula me polo.
+36. **Caka na kadi vei ira na lewe ni matavuvale.** Sitaba, saini se ukutaka na kadi ni sucu kei na kadi ni veivakabulai vei ira na tamata dina.
+37. **Bulia na kelekele mamaca.** Biliga e dua na peleti lailai. Vakayagataka na iyaya taqomaki ka tiko voleka.
+38. **Vakanamata ka vakarautaka na kau.** E dua na kato ni vale ni manumanu vuka sa koti tu kei na pepa ni kau, sega na iyaya kaukauwa. Raica [na cakacaka vei ira na tagane](/activities/for-men/).
+39. **Volavola se tukuna e dua na ivola.** Vua e dua na makubui se itokani makawa. Kevaka e dredre na volavola, e vosa o koya ka o volavola o iko.
 
-## Outdoors and gardening
+## Taudaku kei na teitei
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Na cagi savasava kei na rarama ni siga e itokani vinaka. Raica [na cakacaka e tautuba kei na teitei](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Suvuya na kau.** E dua na tavaya wai lailai kei na vica na tavaya ni teitei. Na suvuya ni veisiga e solia e dua na ivakarau ki na siga.
+41. **Teivaka e dua na kau ena tavaya.** Biuta ena teveli me kakua e dua e tekiduru. Na kau lailai sa tubu e rawarawa cake mai na sorenikau.
+42. **Kauta laivi na co ca se na senikau sa mate.** Vaka na ligaliga, ka dua ga na vanua lailai ena dua na gauna.
+43. **Sasoqia na drauni mate.** Dua ga na vanua lailai. Ena gauna tale, na taura tu na taga e cakacaka dina.
+44. **Taubale ena sala kilai.** Vakatakava na tikiva se lako ki na kato ni meli. Na lekaleka e vinaka.
+45. **Tiko vata e tautuba.** E dua na idabedabe ena varada ena dua na siga vinaka. Raica na o se ira era lako sivita.
+46. **Vakani ira na manumanu vuka.** Vakasinaita vata na kedra kato ni kakana ka sarava mai na katubaleka.
+47. **Savasava na motoka.** Basi, sipoci, yakavi katakata. Na suasua ni yava ni qiqi e cakacaka vinaka ni dua na ikalawa.
 
-## Sensory activities
+## Cakacaka ni vakila
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Na tara, na boi, na tovolea, na rorogo kei na rai e bibi cake ni toso tiko na mate ni vakanananu. Na [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e cavuta na sere, na iyaya me tauri kei na veimirimiri ni liga ena ituvaki e muri. Raica taumada na ka e rawa ni vakavuna na mosi ni yago kei na rerevaki ni tiloma; raica [na cakacaka ni vakila](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Vakamirimiria na liga.** Taroga taumada ka vakayagataka na wai ni yago vakalailai. Digia na sega na boi kevaka o sega ni dei ena kuli se na mosi ni yago.
+49. **Vakila na isulu.** E dua na basi e tu kina na veleveti, kodiuroi, vulukau kei na satini me tara ka lobia.
+50. **Boi kina na kau boivinaka kei na kofi.** Mirimiria na miniti se rosemari vou ena nomu iqaqalo. Kakua ni vakayagataka na boi kaukauwa kevaka e tiko na leqa ni icegu.
+51. **Serulaka na uluna.** Vakamalua ka yalovinaka, kevaka e taleitaka.
+52. **Vola vata e dua na isulu katakata.** Me baleta na liga kei na mata ena dua na siga batabata. Tovolea taumada na katakata.
+53. **Vakayagataka e dua na evuloni ni cakacaka.** Ibulubulu lelevu kei na sipa e cula dei tu. Raica me kakua e dua na ka e luvata.
+54. **Tovolea vata e dua na kakana e taleitaka.** E dua na sipuni lailai, ena mataqali e rawa ni kania vakataqomaki.
+55. **Vakarogoca na rorogo ni veika bula.** Uca, ua se domo ni manumanu vuka ena rorogo lailai.
+56. **Sarava e dua na ka toso vakamalua.** Tagi ni ika, iyaloyalo ni veika bula se na uca cevata e lutu.
 
-## Games and puzzles
+## Qito kei na veitarogi ni vakasama
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Na qito e yaga ni sega na ivakatakilakila ni gauna, na iskor se na veivakasaurarataki. Kevaka e tekivu rairai me vaka e dua na vakatovotovo, biuta laivi. Raica [na digidigi ni app kei na qito](/caregiving/choosing-apps-and-games/) kei na [qito ni vakasama](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Veivolekati iyaloyalo.** Na [veivolekati iyaloyalo](/games/picture-pairs/) e laiva na iyaloyalo me ra tu vakadomobula, o koya e baleta na raica, sega ni nanuma.
+58. **Kunea na iyaloyalo tautauvata.** Na [kunea na ka tautauvata](/games/find-the-same/) e solia e rua ki na va na digidigi. Veitalanoa me baleta na iyaloyalo yadua.
+59. **Tuvata ki na basi.** Na [tuvata vata](/games/sort-together/) e vaka na tuvata totini ena sikirini.
+60. **Caka e dua na pasolo ni tiki lelevu.** Iyaloyalo vakaturaga, ka lailai na iwiliwili ni tiki. Na [pasolo ni iyaloyalo](/games/picture-puzzle/) e vakaraitaka tiko na iyaloyalo taucoko. Eso tale ena [pasolo me baleta na mate ni vakanananu](/activities/puzzles/).
+61. **Qitora e dua na qito kati makawa.** Na ka e dau qitova ena vuqa na yabaki. Ena gauna tale, na tuvata na ilala me vaka na roka sai koya na qito.
+62. **Qito domino.** Veivolekati na mua. Ena gauna tale, na viritaki ga na tiki me laini e vinaka.
+63. **Tovolea e dua na vakasaqaqara vosa ni volavola levu.** Na noda [vakasaqaqara vosa](/games/word-search/) e tu na vosa ki na yasana kei na ra ga, ka rawa ni tabaki.
+64. **Vakayacora na vosa kilai.** Na [vakacavara na vosa kilai](/games/finish-the-saying/) e laivi iko mo vakaraitaka na kena icavacava ena gauna cava ga.
+65. **Qitora na bingo ni iyaloyalo.** Na [bingo ni iyaloyalo](/games/picture-bingo/) e veiganiti kei na matavuvale kei na ilawalawa. Veivuke ena makataki ni kati ena yalomalua.
+66. **Qito damudamu.** Vakamalumalumutaka na lawa. Na toso na tiki ni dou veitalanoa tiko e wili talega.
 
-## Movement
+## Toso ni yago
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+Na NIA e vakatura na taubale, basikeli tu, kau ni dodreta, viritaka e dua na polo malumu se baluni, laveta na tini ni supu kei na vidio ni vakaukauayago vei ira na qase. Veitaratara kei na vuniwai ni bera ni tekivu e dua na ka vou, vakabibi kevaka e tiko na leqa ni tu dei.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Virilaka vata e dua na baluni.** Dabe ka veirai vata. E toso vakamalua, o koya e rawarawa me toboki.
+68. **Muria e dua na vidio ni vakaukauayago ni dabe** e caka vei ira na qase, vata kei koya.
+69. **Dodreta ena dua na kau ni dodreta.** Veidreti ni liga vakamalua ena dua na kau mamada ni dabe.
+70. **Laveta na tini ni supu.** Laveta na liga vakamalua, de dua vata kei na sere.
+71. **Vodo basikeli tu.** Vica na miniti rawarawa, o tiko voleka.
+72. **Danisi kei na isulu mamada.** Yavita na isulu mamada me vaka na sere, ni dabe se tu.
+73. **Taubale kei na inaki.** Me vakauta e dua na ivola se volia e dua na kofi. E dua na vuna me lako kina e rairai vakadua.
+74. **Veivakacegui ena icegu vakamalua.** Vakamalumalumutaka vata na toso ena [icegu vakamalua](/games/calm-breathing/).
 
-## Social activities
+## Cakacaka vata kei ira tale eso
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Na tiko vata e bibi dina ga ni sa dredre na nanuma na yaca, ka rawarawa cake na ilawalawa lailai mai na lelevu. Na NIA e kaya ni dua e rawa ni sega ni nanuma o cei e sikovi koya, ia e dau marautaka tiko ga na nona tiko vata. Raica [na veisiko](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Dua se rua ga na dau sikova ena dua na gauna.** Veisiko lekaleka ena dua na rumu vakanomodi, kei na iyaloyalo me raici.
+76. **Veitaratara ena vidio kei na matavuvale.** Veitaratara lekaleka, dua ga na domo ena dua na gauna. Raica [na qiri ena talevoni kei na vidio](/activities/phone-and-video-calls/).
+77. **Tovolea e dua na memory café.** Soqo rawarawa vei ira era bula kei na mate ni vakanananu kei ira era qaravi ira. Taroga na valenivolavola ni veivuke ni qase ena nomu vanua se cava e voleka.
+78. **Kana e tautuba ena gauna vakanomodi.** Na NIA e vakatura e dua na valenikana kilai, vakanomodi ena gauna sega ni osooso, kei na teveli voleka ki na valenisili.
+79. **Sikova e dua na valenisoqo ni qase se parokaramu ni veisiga.** E itokani vei koya ka dua na gauna ni vakacegu vei iko.
+80. **Tiko vata kei ira na gone.** E dua na veisiko lekaleka, vakanomodi mai vei ira na makubui se luvei ira, se wiliki e dua na ivola ni iyaloyalo vua e dua na gone lailai.
+81. **Wasea vata na niusipepa kei na kofi.** Wilika cake na ulutaga. Na ivakarau e bibi cake mai na itukutuku.
+82. **Vukei e dua tale.** Lobia na ivola ni soqoni ni lotu se caka e dua na kadi vei e dua na itokani voleka.
 
-## Faith and spiritual activities
+## Na cakacaka ni vakabauta kei na yalo
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Muria na ivakarau ni vakabauta nei koya o qarava, se sega ni dua. Na NIA e vakatura na soqoni ni lotu kilai, wiliwili, sere tabu, masu, vakasama vakanomodi kei na ivakarau ni soqo ni marau.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Lako ki na soqoni ni lotu kilai.** Digia e dua e vakanomodi, dabe voleka ki na sala, ka tukuna vei ira na tamata e kea me baleta na mate ni vakanananu.
+84. **Sarava e dua na soqoni ni lotu ena initaneti** ena siga e dredre kina na lako yani.
+85. **Masu se wiliki vata.** Na vosa kilai, wilika vakamalua. E rawa ni curu mai ena tiki e kila.
+86. **Lagata na sere ni lotu se sere tabu** mai na nona ivakarau.
+87. **Maroroya na ivakarau ni soqo ni marau.** Kadrala ni batiri, e dua na masu ni vakalougataki, na iukuuku e dau vakayagataka.
+88. **Wasea e dua na gauna vakanomodi.** Tiko vata ena iteitei se sarava vata na dromu ni siga.
 
-## Pets and animals
+## Manumanu
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+Na NIA e vakatura na vakani, serulaki, taubaletaki, se na tiko vata kei na taura e dua na manumanu.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Serulaka e dua na koli se pusi yalomalua** ena idre balavu, vakamalua.
+90. **Vakani vata na manumanu.** O vakarautaka na ivakarau; o koya e sovaraka.
+91. **Taubaletaka vata na koli.** O taura na dali.
+92. **Vakatokai koya e dua na manumanu ena duru.** E dua na pusi yalomalua ena dua na iubi e rawa ni veivakacegui sara.
+93. **Ciqaravi na manumanu era sikovi kemuni.** Eso na vale ni qaravi kei na parokaramu ni veisiga era kauta mai na manumanu. Taroga ena nomu vanua.
+94. **Solia e dua na manumanu malumu e vaka na dina.** Kevaka e sega na manumanu, eso era taleitaka na taura e dua na pusi se koli malumu e vaka na dina. Solia ga vakadua, sega ni vaka e dua na iyaya ni qito, ka ciqoma na 'sega'.
 
-## Seasonal activities
+## Cakacaka ni draki kei na soqo
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Maroroya na ivakarau, ia vakamamadataka. Na NIA e vakatura mo raica vinaka na ka e rawa ka vakarautaka e dua na vanua vakanomodi me vakacegu kina ena soqo osooso.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Ukutaka me vaka na draki.** E dua na bamukini, wiri se senikau vou ena teveli.
+96. **Caka e dua na kakana ni soqo.** Vivia na madrai se boroya na biskete. O taura na ovani.
+97. **Vakalilia na iukuuku.** Na iukuuku sega ni voroka, solia dua ga ena dua na gauna.
+98. **Draiva mo raica na rarama.** E dua na draiva lekaleka ena yakavi e sega ni kerea e dua na ka, na tiko vata ga.
+99. **Teivaka na sorenikau ni vula i cabecabe.** Dregata na sorenikau ki na tavaya ena vula i raki ka waraka na kena cabe mai.
+100. **Vakasavasavataka na sila se na pi.** E dua na cakacaka ena varada ena vula i katakata kei na dua na bilo ena duru.
+101. **Volavola na kadi ni soqo ni marau.** O koya e saini, drega sitaba se sogota; o iko o qarava na itikotiko.
 
-## What if an activity is not working?
+## Vakacava kevaka e sega ni yaco vinaka e dua na cakacaka?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Muduka, ka tovolea e dua tale na ka ena dua tale na gauna. Na NIA e vakatura mo raica na rarawa ka laiva me sarasara ga o koya o qarava kevaka e vinakata. Na 'sega' e dau kena ibalebale ni dredre na cakacaka, sega ni gauna donu, se dua tale na ka e leqataka, me vaka na mosi, na viakana se na rorogo. Vakalailaitaka, tovolea ena mataka cake, se tekivuna o iko ka raica se curu mai. Raica [ni kaya sega](/caregiving/when-they-say-no/) kei na [sega ni dau vakacegu ena yakavi](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Me biu na cakacaka ena maliwa ni kakana kei na vakacegu, raica [e dua na ivakarau vinaka ni veisiga](/activities/daily-routine/). Me baleta na ka mo vakarautaka tu, raica [na cakacaka me tabaki](/activities/printable/), kei na [cakacaka ni ilawalawa ena vale ni qaravi](/activities/care-home-groups/) kevaka o liutaka e dua na ilawalawa. Na nomu vakacegu e bibi talega: raica [na qaravi koya vakataki iko](/caregiving/caregiver-self-care/).

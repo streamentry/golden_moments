@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "შეიძლება თუ არა დემენციის თავიდან აცილება?"
+seoTitle: "დემენციის პრევენცია: რას ამბობს კვლევა"
+description: "რა აჩვენა 2024 წლის Lancet-ის კომისიამ და დიდმა კვლევებმა დემენციის რისკის შემცირების შესახებ, რა ვერ დაადასტურეს და რა საკითხები უნდა განიხილოთ ექიმთან."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  დემენციის თავიდან აცილებას ვერავინ დაგპირდებათ. 2024 წლის Lancet-ის კომისიის
+  შეფასებით, მსოფლიოში დემენციის შემთხვევების თითქმის ნახევარი დაკავშირებულია 14
+  რისკის ფაქტორთან, რომელთა შეცვლაც შესაძლოა შესაძლებელი იყოს, მაგალითად მაღალი
+  არტერიული წნევა, სმენის დაქვეითება და უმოძრაობა. კვლევები აზროვნების ტესტებზე
+  მცირე გავლენას აჩვენებს, მაგრამ არა დემენციის შემთხვევების შემცირების
+  მტკიცებულებას. ბევრი ადამიანი, რომელიც ყველაფერს „სწორად“ აკეთებს, მაინც
+  ავადდება დემენციით და ამაში არავის ბრალი არ არის.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 წლის Lancet-ის კომისიამ მსოფლიოში დემენციის შემთხვევების დაახლოებით 45% 14 პოტენციურად შეცვლად რისკის ფაქტორთან დააკავშირა. ეს არის მოსახლეობის დონეზე გაკეთებული შეფასება და არა პირადი გარანტია."
+  - "რისკის შემცირება ნიშნავს მთელი მოსახლეობის მასშტაბით ალბათობის დაკლებას. ეს არ ნიშნავს, რომ რომელიმე კონკრეტულ ადამიანს შეუძლია დემენციის თავიდან აცილება."
+  - "დიდმა კვლევებმა, როგორიცაა FINGER, US POINTER და SPRINT MIND, აზროვნების ტესტებზე ან მსუბუქ კოგნიტურ დარღვევაზე მცირე სარგებელი აჩვენა, მაგრამ ვერცერთმა ვერ დაადასტურა, რომ ცხოვრების წესის ცვლილება დემენციას უსაშველოდ ახერხებს თავიდან."
+  - "ასაკი ალცჰაიმერის ყველაზე ცნობილი რისკის ფაქტორია და მისი შეცვლა შეუძლებელია. ბევრი ადამიანი ჯანსაღი ჩვევებითაც ავადდება დემენციით."
+  - "ხშირად შესწავლილი ნაბიჯები, როგორიცაა მაღალი არტერიული წნევის მკურნალობა, სმენის აპარატების გამოყენება და აქტიური დარჩენა, ღირს ექიმთან განსახილველად, რადგან სხვა მხრივაც ეხმარება ჯანმრთელობას."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "შეიძლება თუ არა დემენციის თავიდან აცილება?"
+    a: "არ არსებობს დამტკიცებული გზა, რომლითაც რომელიმე კონკრეტულ ადამიანს დემენციის თავიდან აცილება შეუძლია. კვლევები მიუთითებს, რომ გარკვეული რისკების შემცირებამ, როგორიცაა მაღალი არტერიული წნევა, დაუმუშავებელი სმენის დაქვეითება და მოწევა, შესაძლოა შეამციროს დემენციის ალბათობა მოსახლეობის დონეზე ან გადააწიოს მისი დაწყების დრო. ეს არის ალბათობები და არა დაპირებები."
+  - q: "რას ნიშნავს Lancet-ის კომისიის 45%-იანი მაჩვენებელი?"
+    a: "2024 წლის Lancet-ის კომისიის შეფასებით, მსოფლიოში დემენციის შემთხვევების დაახლოებით 45% დაკავშირებულია 14 რისკის ფაქტორთან, რომელთა შეცვლაც, თეორიულად, შესაძლებელი იქნებოდა. ეს შეფასება ეფუძნება დაშვებას, რომ ეს ფაქტორები იწვევს დემენციას, და ავტორები აღნიშნავენ, რომ ზოგიერთი კავშირი შესაძლოა მხოლოდ ნაწილობრივ იყოს მიზეზობრივ-შედეგობრივი. ის აღწერს მთელ მოსახლეობას და არ გვაძლევს ცნობას რომელიმე კონკრეტული ადამიანის რისკის შესახებ."
+  - q: "თუ ჩემს მშობელს ჯანსაღი ცხოვრების წესი ჰქონდა, რატომ განუვითარდა დემენცია?"
+    a: "ასაკი, გენები და მრავალი ისეთი ფაქტორი, რომელსაც ვერავინ აკონტროლებს, დემენციაში მნიშვნელოვან როლს თამაშობს. Lancet-ის კომისიის ავტორები აღნიშნავენ, რომ მოსახლეობის დონეზე რისკის შემცირება არ იძლევა გარანტიას, რომ რომელიმე კონკრეტული ადამიანი დემენციას აიცილებს თავიდან. დიაგნოზი არ ნიშნავს, რომ ვინმემ წარუმატებლობა განიცადა."
+  - q: "გვიანია თუ არა დემენციის რისკის შემცირება 65 წლის შემდეგ?"
+    a: "Lancet-ის კომისიის თქმით, რისკის შესამცირებლად არასდროსაა არც ძალიან ადრე და არც ძალიან გვიანი, თუმცა მტკიცებულებების დიდი ნაწილი საშუალო ასაკს ეხება. სმენისა და მხედველობის პრობლემების მკურნალობა, აქტიური დარჩენა და ადამიანებთან კავშირის შენარჩუნება მოგვიანებით ასაკშიც შესწავლილი ნაბიჯებია. ისაუბრეთ ექიმთან იმაზე, რა შეგეფერებათ თქვენი ჯანმრთელობის გათვალისწინებით."
+  - q: "თავიდან აცილებს თუ არა დემენციას ტვინის სავარჯიშოები ან სპეციალური დიეტები?"
+    a: "ვერცერთ თამაშს, საკვებს, საკვებ დანამატს ან დიეტას არ აქვს დამტკიცებული მოქმედება დემენციის თავიდან ასაცილებლად. MIND დიეტის სამწლიანმა კვლევამ აზროვნებაში საკონტროლო დიეტასთან შედარებით მნიშვნელოვანი განსხვავება ვერ აჩვენა, ხოლო კომერციული ტვინის სავარჯიშო აპლიკაციებისთვის არ დადასტურებულა კვლევებში ნანახი შედეგები."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+თუ თქვენ ზრუნავთ დემენციით მცხოვრებ ადამიანზე ან გინახავთ, როგორ ცხოვრობდა ამ მდგომარეობით მშობელი, ალბათ დაგიფიქრებიათ, შეიძლებოდა თუ არა ამის თავიდან აცილება და შეგიძლიათ თუ არა თქვენ თავიდან აიცილოთ ეს. ეს გვერდი უბრალოდ და გასაგებად ხსნის, რას ამბობს სინამდვილეში კვლევა. მოკლე პასუხი ასეთია: დემენციის თავიდან აცილებას ვერავინ დაგპირდებათ, მაგრამ კვლევები მიუთითებს, რომ ზოგიერთი რისკის შემცირება შესაძლებელია და რომ მოსახლეობის დონეზე მათი შემცირება შეიძლება ნიშნავდეს, რომ ნაკლები ადამიანი ავადდება დემენციით ან მოგვიანებით განუვითარდება ეს მდგომარეობა.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+ეს არის ზოგადი ინფორმაცია და არა სამედიცინო რჩევა. გთხოვთ, გაეცნოთ ჩვენს [სამედიცინო პასუხისმგებლობის უარყოფას](/medical-disclaimer/) და თქვენს ჯანმრთელობაზე ექიმთან ისაუბროთ.
 
-## Can dementia be prevented?
+## შეიძლება თუ არა დემენციის თავიდან აცილება?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+არ არსებობს დამტკიცებული გზა, რომლითაც რომელიმე კონკრეტულ ადამიანს დემენციის თავიდან აცილება შეუძლია. დაზიანების ეროვნული ინსტიტუტი (NIA) ამბობს, რომ მიუხედავად იმისა, რომ [ჯერ არაფერია დამტკიცებული ალცჰაიმერის თავიდან ასაცილებლად](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), მკვლევარებმა აღმოაჩინეს იმედისმომცემი სტრატეგიები და სწავლობენ, რა შეიძლება იმუშაოს და რა არა.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+რაც კვლევებმა *ნამდვილად* აჩვენა, არის ის, რომ გარკვეული ჯანმრთელობის მდგომარეობები და ჩვევები დაკავშირებულია დემენციის განვითარების უფრო მაღალ ალბათობასთან. როდესაც ეს რისკები მთელი მოსახლეობის მასშტაბით დაბალია, შესაძლოა ნაკლები ადამიანი ავადდეს დემენციით ან ეს მოგვიანებით მოხდეს. ეს ძალიან განსხვავდება გარანტიისგან.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+ერთ-ერთი იმედისმომცემი ნიშანი: 2024 წლის Lancet-ის კომისიამ აღნიშნა, რომ ზოგიერთ მაღალშემოსავლიან ქვეყანაში, მათ შორის აშშ-სა და გაერთიანებულ სამეფოში, დემენციით მცხოვრები ხანდაზმული ადამიანების წილი შემცირდა. ავტორების აზრით, ეს ალბათ ნაწილობრივ უკეთესი განათლების, უკეთესი ჯანდაცვისა და მთელი ცხოვრების განმავლობაში სისხლძარღვებზე ნაკლები ზიანის შედეგია, როგორც ამას [University College London-ის ანგარიშის შეჯამება](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) აღწერს.
 
-## What did the 2024 Lancet Commission find?
+## რა აღმოაჩინა 2024 წლის Lancet-ის კომისიამ?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet-ის კომისია დემენციის პრევენციის, ჩარევისა და მოვლის საკითხებზე 27 დემენციის მკვლევარისგან შედგება, რომლებიც რამდენიმე წელიწადში ერთხელ მტკიცებულებებს ხელახლა განიხილავენ. მათ 2024 წლის ანგარიშში დაასახელეს **14 რისკის ფაქტორი**, რომელთა შეცვლაც პოტენციურად შესაძლებელია, და შეაფასეს, რომ ისინი ერთად **მსოფლიოში დემენციის შემთხვევების თითქმის ნახევარს (დაახლოებით 45%-ს)** შეადგენენ. ავტორების სიტყვებით, ეს შემთხვევები *თეორიულად* შეიძლებოდა თავიდან აცილებულიყო ან გადავადებულიყო, თუ ეს რისკები მოიხსნებოდა ([2024 წლის Lancet-ის კომისიის ანგარიში](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 ფაქტორი, დაჯგუფებული იმ ცხოვრების ეტაპის მიხედვით, სადაც მტკიცებულებები ყველაზე ძლიერია:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **ადრეული ასაკი:** ნაკლები განათლება.
+- **საშუალო ასაკი (დაახლოებით 40-დან 65 წლამდე):** სმენის დაქვეითება, მაღალი LDL („ცუდი“) ქოლესტერინი, დეპრესია, თავის ტრავმა, ფიზიკური უმოძრაობა, დიაბეტი, მოწევა, მაღალი არტერიული წნევა, სიმსუქნე და ჭარბი ალკოჰოლის მოხმარება.
+- **მოგვიანებული ასაკი:** სოციალური იზოლაცია, ჰაერის დაბინძურება და დაუმუშავებელი მხედველობის დაქვეითება.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 წელს დამატებული ორი ახალი ფაქტორი იყო მაღალი LDL ქოლესტერინი და დაუმუშავებელი მხედველობის დაქვეითება. შემთხვევების ყველაზე დიდ წილთან დაკავშირებული ფაქტორები იყო სმენის დაქვეითება და მაღალი LDL ქოლესტერინი (თითოეული დაახლოებით 7%), შემდეგ კი ნაკლები განათლება და სოციალური იზოლაცია (თითოეული დაახლოებით 5%).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+ჩვენი [რისკის ფაქტორების სახელმძღვანელო](/brain-health/risk-factors/) ყველა 14 ფაქტორს ცხრილში განიხილავს, კვლევის კავშირებთან და შესაძლო ნაბიჯებთან ერთად.
 
-### What the 45% figure does not mean
+### რას არ ნიშნავს 45%-იანი მაჩვენებელი
 
-It is easy to misread this number, so it helps to be precise:
+ამ რიცხვის არასწორად გაგება ადვილია, ამიტომ სიზუსტე მნიშვნელოვანია:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **ეს არის მოსახლეობის შეფასება.** ის აღწერს დემენციის შემთხვევებს მთელ მსოფლიოში და არა თქვენს ან თქვენი მშობლის პირად ალბათობას.
+- **ის მიზეზობრივ კავშირს ვარაუდობს.** ავტორები ამბობენ, რომ ჩართეს მხოლოდ ის რისკის ფაქტორები, რომლებსაც убедیتი მტკიცებულებები ჰქონდა, მაგრამ ზოგიერთი კავშირი შესაძლოა მხოლოდ ნაწილობრივ იყოს მიზეზობრივ-შედეგობრივი. მაგალითად, მოგვიანებით ასაკში დეპრესია ზოგჯერ შეიძლება იყოს დემენციის ადრეული ნიშანი და არა მიზეზი.
+- **ის არ იძლევა გარანტიას რომელიმე ერთი ადამიანისთვის.** UCL-ის შეჯამებაში აღნიშნულია, რომ რისკის შემცირება მოსახლეობის დონეზე მუშაობს და არ იძლევა გარანტიას, რომ რომელიმე კონკრეტული ადამიანი დემენციას აიცილებს თავიდან.
+- **დანარჩენი ნახევარი ამ ფაქტორებით არ აიხსნება.** დანარჩენს ასაკი, გენები და მიზეზები შეადგენს, რომლებიც მეცნიერებისთვის ჯერ კიდევ გაუგებარია.
 
-## What is the difference between "risk reduction" and "prevention"?
+## რა განსხვავებაა „რისკის შემცირებასა“ და „პრევენციას“ შორის?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**რისკის შემცირება** ნიშნავს ალბათობის დაკლებას. თუ ადამიანების დიდი ჯგუფი არტერიულ წნევას დაიწევს, შესაძლოა მათგან ნაკლებს განუვითარდეს დემენცია მრავალი წლის განმავლობაში, ვიდრე სხვაგვარად მოხდებოდა. ამ ჯგუფში ზოგიერთი ადამიანი მაინც ავადდება.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**პრევენცია** მიანიშნებს იმაზე, რომ რაღაცის განვითარებას მთლიანად ავაცილებთ თავიდან. დემენციის შემთხვევაში ამას კვლევა დღეს ვერავინ დაპირდება.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+მკვლევარები ასევე საუბრობენ **გადადებაზე**. Lancet-ის კომისია წერს, რომ ახალი მტკიცებულებები მიუთითებს, რომ რისკის შემცირებამ შეიძლება გადააწიოს დემენციის დაწყების დრო და შეამოკლოს ის პერიოდი, რომელსაც ადამიანი ავადმყოფობასთან ერთად ატარებს. თუნდაც რამდენიმე წლით გადადებას შეიძლება დიდი მნიშვნელობა ჰქონდეს ადამიანისთვის და მისი ოჯახის წევრებისთვის.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+ამ საიტზე ჩვენ განზრახ ვიყენებთ გამოთქმებს „რისკის შემცირება“ და „დაკავშირებულია“. როდესაც ხედავთ პროდუქტს, საკვებ დანამატს ან პროგრამას, რომელიც „ალცჰაიმერის პრევენციას“ გპირდებათ, სიფრთხილით მოეკიდეთ. NIA გვირჩევს, ექიმს ვკითხოთ, სანამ დავიწყებთ ნებისმიერი აბის ან მკურნალობის გამოყენებას, რომელიც ალცჰაიმერის თავიდან აცილებას ჰპირდება, რადგან ასეთი პროდუქტები შეიძლება უსაფრთხო არ იყოს, ფულის ფლანგვა იყოს ან ორივე ერთად.
 
-## What have large trials found?
+## რა აჩვენეს დიდმა კვლევებმა?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+დამკვირვებელი კვლევები (რომლებიც ადევნებენ თვალს, რა ემართება ადამიანებს დროთა განმავლობაში) კავშირებს აჩვენებს. შემთხვევითი შერჩევის კვლევები, სადაც ადამიანები პროგრამაში ან შესადარებელ ჯგუფში შემთხვევით ხვდებიან, უფრო ძლიერი შემოწმებაა. აი, რა აჩვენეს ყველაზე ცნობილმა კვლევებმა.
 
-### FINGER (Finland)
+### FINGER (ფინეთი)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER-ის კვლევაში მონაწილეობდა 1,260 ზრდასრული 60-დან 77 წლამდე, რომელთაც დემენციის უფრო მაღალი რისკი ჰქონდათ. ნახევარმა მიიღო ორწლიანი პროგრამა, რომელიც მოიცავდა დიეტის რჩევებს, ვარჯიშს, კომპიუტერულ ტვინის სავარჯიშოებს და გულისა და სისხლძარღვების ჯანმრთელობის შემოწმებას; მეორე ნახევარმა მიიღო ზოგადი რჩევები ჯანმრთელობაზე. პროგრამის ჯგუფმა აზროვნების ტესტების ერთობლიობაზე ოდნავ უკეთესი შედეგი აჩვენა, რაც მცირე, მაგრამ სტატისტიკურად მნიშვნელოვანი განსხვავება იყო ([FINGER-ის კვლევა The Lancet-ში](https://pubmed.ncbi.nlm.nih.gov/25771249/)). კვლევა ზომავდა ტესტის შედეგებს და არა დემენციის დიაგნოზებს.
 
-### US POINTER (United States)
+### US POINTER (აშშ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER-ის კვლევაში მონაწილეობდა 2,111 ზრდასრული 60-დან 79 წლამდე, რომლებიც ნაკლებად აქტიურები იყვნენ, ნაკლებად ჯანსაღად იკვებებოდნენ და სხვა რისკის ფაქტორებიც ჰქონდათ. ორივე ჯგუფს მოუწოდეს, ყოფილიყვნენ უფრო აქტიურები ფიზიკურად და გონებრივად, უკეთესად ეკვებათ, შეენარჩუნებინათ სოციალური კავშირები და მეთვალყურეობა გაეწიათ გულის ჯანმრთელობაზე. ერთმა ჯგუფმა მიიღო სტრუქტურირებული პროგრამა მწვრთნელის მხარდაჭერით; მეორე თავისით მიჰყვებოდა რჩევებს. ორი წლის განმავლობაში აზროვნების ტესტის შედეგები **ორივე** ჯგუფში გაუმჯობესდა და ოდნავ უფრო მეტად სტრუქტურირებულ ჯგუფში ([US POINTER-ის კვლევა JAMA-ში](https://pubmed.ncbi.nlm.nih.gov/40720610/)). ავტორები ამბობენ, რომ დამატებითი დაკვირვებაა საჭირო, რათა გაირკვეს, აქვს თუ არა ამ განსხვავებას მნიშვნელობა ყოველდღიურ ცხოვრებაში. რადგან „არაფერი არ შეცვალოს“ ჯგუფი არ არსებობდა, კვლევას ვერ შეუძლია თქვას, რამდენად დაეხმარა რომელიმე პროგრამა ცვლილების არარსებობასთან შედარებით.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (არტერიული წნევა)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND-ის კვლევაში მონაწილეობდა 9,361 აშშ-ში მცხოვრები 50 წლის და უფროსი ზრდასრული მაღალი არტერიული წნევით. ისინი გაიყვნენ უფრო დაბალი არტერიული წნევის მიზნის (ზედა მაჩვენებელი 120-ზე დაბალი) ან სტანდარტული მიზნის (140-ზე დაბალი) ჯგუფებად. უფრო დაბალმა მიზანმა მნიშვნელოვნად შეამცირა **მსუბუქი კოგნიტური დარღვევა**, მეხსიერებისა და აზროვნების პრობლემების ეტაპი, რომელიც შეიძლება დემენციას წინ უსწრებდეს. **სავარაუდო დემენციის** შემთხვევაში უფრო დაბალი მიზნის ჯგუფში შემთხვევები ნაკლები იყო, მაგრამ განსხვავება სტატისტიკურად მნიშვნელოვანი არ აღმოჩნდა. კვლევა ადრე შეწყდა და დემენციის შემთხვევებიც მოსალოდნელზე ნაკლები იყო, ამიტომ შესაძლოა ის ზედმეტად მცირე ყოფილიყო ამ კითხვაზე პასუხის გასაცემად ([SPRINT MIND JAMA-ში](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### რას აჩვენებს მიმოხილვები მთლიანობაში
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 წლის Cochrane-ის მიმოხილვამ გააერთიანა ცხრა დიდი კვლევა პროგრამების შესახებ, რომლებიც ერთდროულად რამდენიმე რისკს ეხებოდა და 18,000-ზე მეტ ადამიანს მოიცავდა. მან აზროვნების ტესტებზე მცირე სარგებელი აჩვენა, მაგრამ **არ აღმოჩნდა მკაფიო განსხვავება იმაში, რამდენ ადამიანს განუვითარდა დემენცია** იმ ორ კვლევაში, რომლებმაც ეს გაზომეს ([Cochrane-ის მიმოხილვა მრავალკომპონენტიან ჩარევებზე](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+მეცნიერებათა, ინჟინერიისა და მედიცინის ეროვნული აკადემიების 2017 წლის მიმოხილვამ, რომელსაც NIA აჯამებს, სამი მიდგომისთვის „იმედისმომცემი, მაგრამ არადამაჯერებელი“ მტკიცებულებები აღმოაჩინა: მაღალი არტერიული წნევის მართვა, ფიზიკური აქტივობის გაზრდა და კოგნიტური ვარჯიში.
 
-## Does it matter when you start?
+## აქვს თუ არა მნიშვნელობა, როდის დაიწყებთ?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet-ის კომისიის რჩევაა, რისკები რაც შეიძლება ადრე შეამციროთ და რაც შეიძლება დიდი ხნის განმავლობაში დაბალ დონეზე შეინარჩუნოთ: „რაც უფრო ადრე, მით უკეთესი“ და „რაც უფრო დიდხანს, მით უკეთესი“. ის ასევე ამბობს, რომ რისკის შესამცირებლად არასდროსაა არც ძალიან ადრე და არც ძალიან გვიანი. მტკიცებულებების დიდი ნაწილი საშუალო ასაკს, დაახლოებით 40-დან 65 წლამდე პერიოდს, ეხება, მაგრამ ზოგიერთი ფაქტორი, როგორიცაა მხედველობის დაქვეითება და სოციალური იზოლაცია, მოგვიანებით ასაკშია აქტუალური და მათზე მოქმედებაც შეიძლება გონივრული იყოს.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+ანგარიში აღნიშნავს, რომ ახლა უფრო მძლავრი მტკიცებულებები არსებობს იმის შესახებ, რომ რისკის ფაქტორთან უფრო ხანგრძლივ exposose-ს უფრო დიდი გავლენა აქვს. მაგალითად, საშუალო ასაკში დაწყებულ დიაბეტს, როგორც ჩანს, უფრო დიდი მნიშვნელობა აქვს, ვიდრე მოგვიანებით დაწყებულს.
 
-## Is dementia risk the same for everyone?
+## დემენციის რისკი ყველა ადამიანისთვის ერთნაირია?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+არა. კომისიამ დაადგინა, რომ დაბალ და საშუალოშემოსავლიან ქვეყნებში მცხოვრებ ადამიანებს, უმცირესობათა ჯგუფების წარმომადგენლებსა და ნაკლები შემოსავლის მქონე ადამიანებს ხშირად ამ რისკების უფრო დიდი ნაწილი აქვთ, ამიტომ დემენცია მათში უფრო ადრეულ ასაკში ვითარდება. ბევრი რისკი დაკავშირებულია იმ გარემოებებთან, რომლებიც ადამიანებს არ აურჩევიათ, როგორიცაა ბავშვობაში მიღებული განათლების ხარისხი, ის ჰაერი, რომლითაც სუნთქავენ, და არის თუ არა ჯანსაღი საკვები ხელმისაწვდომი და ახლოს.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+სწორედ ამიტომ კომისიის რეკომენდაციები yhtä მეტად ეხება მთავრობებს, როგორც ცალკეულ ადამიანებს: კარგი განათლება ყველა ბავშვისთვის, უფრო სუფთა ჰაერი, მოწევის შესამცირებელი ზომები, მაღაზიებსა და რესტორნებში გაყიდულ საკვებში შაქრისა და მარილის შემცირება და სმენის აპარატები ყველასთვის, ვისაც ეს სჭირდება. ცალკეული ადამიანის ძალისხმევას მნიშვნელობა აქვს, მაგრამ ასევე მნიშვნელოვანია ის გარემოც, რომელშიც ადამიანები ცხოვრობენ. ეს კიდევ ერთი მიზეზია, რომ დიაგნოზისთვის არავინ უნდა დაადანაშაულოთ.
 
-## What are the honest limits of this research?
+## რა არის ამ კვლევის პატიოსანი საზღვრები?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **დემენციის განვითარებას ათწლეულები სჭირდება**, მაგრამ კვლევების უმეტესობა ორი-ხუთი წელი გრძელდება. თვით დემენციის გაზომვა და არა მხოლოდ ტესტის შედეგების, ძალიან ხანგრძლივ და დიდ კვლევებს მოითხოვს.
+- **კვლევების უმეტესობა აზროვნების ტესტებს ზომავს.** ტესტზე მცირე გაუმჯობესება აუცილებლად არ ნიშნავს, რომ ნაკლები ადამიანი ავადდება დემენციით ან ყოველდღიური ცხოვრება გაადვილდება.
+- **მოხალისეები ხშირად უფრო ჯანმრთელები** და უფრო განათლებულები არიან, ვიდრე მთელი მოსახლეობა. Lancet-ის კომისია აღნიშნავს, რომ მტკიცებულებების უმეტესობა კვლავ მაღალშემოსავლიანი ქვეყნებიდან მოდის და უმცირესობათა ჯგუფები ნაკლებად არიან წარმოდგენილნი.
+- **ზოგიერთი კავშირი ორმხრივია.** ნაკლები აქტიურობა ან ნაკლები სოციალური კავშირი შეიძლება იყოს დემენციის ადრეული შედეგი და არა მხოლოდ მიზეზი.
+- **დიეტის კვლევები ჯერჯერობით იმედგაცრუებული აღმოჩნდა.** MIND დიეტის სამწლიანმა კვლევამ აზროვნებაში საკონტროლო დიეტასთან შედარებით მნიშვნელოვანი განსხვავება ვერ აჩვენა. იხილეთ ჩვენი [დიეტის სახელმძღვანელო](/brain-health/diet/).
+- **ტვინის თამაშების ეფექტი დემენციის თავიდან ასაცილებლად დამტკიცებული არ არის.** იხილეთ ჩვენი სახელმძღვანელო [ტვინის თამაშებისა და დემენციის შესახებ](/brain-health/brain-games/).
+- **მარხვის შესახებ ადამიანებზე მტკიცებულებები ძალიან შეზღუდულია** და ის შეიძლება ხანდაზმული ადამიანებისთვის სახიფათო იყოს. იხილეთ ჩვენი [მარხვის სახელმძღვანელო](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## თუ ვინმემ ყველაფერი „სწორად“ გააკეთა, რატომ განუვითარდა მას მაინც დემენცია?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+იმიტომ, რომ დემენცია უბრალოდ არჩევანის შედეგი არ არის. NIA ამბობს, რომ [ასაკი ალცჰაიმერის ყველაზე ცნობილი რისკის ფაქტორია](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) და მისი შეცვლა ვერავინ შეუძლია. გენებიც თამაშობს როლს. და მეცნიერებმა ჯერ კიდევ სრულად არ იციან, რა იწვევს ალცჰაიმერს ადამიანების უმეტესობაში. მაშინაც კი, თუ 14 რისკის ფაქტორიდან ყველა მოიხსნებოდა, Lancet-ის კომისიის საკუთარი შეფასებით შემთხვევების ნახევარზე მეტი მაინც აუხსნელი რჩება.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+ამიტომ, თუ თქვენ ზრუნავთ ადამიანზე, რომელიც ვარჯიშობდა, კარგად იკვებებოდა, არასდროს ეწეოდა და მაინც განუვითარდა დემენცია, მის მხარესაც და თქვენს მხარესაც არაფერი გამხდარა არასწორად. თუ თქვენ თავად ცხოვრობთ დემენციით, ეს თქვენი ბრალი არ არის. ბრალის განცდა ოჯახებში გავრცელებულია, მაგრამ ის დასაბუთებული არ არის. ახლა მნიშვნელოვანია კომფორტი, კავშირი და კარგი დღეები. დასაწყისისთვის შეგიძლიათ იხილოთ ჩვენი [აქტივობების იდეები](/activities/ideas/) და [მზრუნველისთვის თავის მოვლის სახელმძღვანელო](/caregiving/caregiver-self-care/).
 
-## What steps can you talk over with a doctor?
+## რა ნაბიჯები შეგიძლიათ განიხილოთ ექიმთან?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+ეს არის ის სფეროები, რომლებიც ყველაზე ხშირადაა შესწავლილი. ღირს მათი გახსენება მიღებაზე, რადგან უმეტესობა მათგანი გულ-სისხლძარღვთა ჯანმრთელობას, განწყობასა და დამოუკიდებლობასაც ეხმარება, იმის მიუხედავად, თუ რა გავლენა ექნება საბოლოოდ დემენციაზე.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **არტერიული წნევა.** ჰკითხეთ, რა მაჩვენებლები გაქვთ და რა მიზანი შეგეფერებათ. Lancet-ის კომისია გვთავაზობს, რომ დაახლოებით 40 წლიდან ზედა მაჩვენებელი 130-ზე დაბალი იყოს, მაგრამ ხანდაზმული ადამიანისთვის სწორი მიზანი მის ზოგად ჯანმრთელობაზეა დამოკიდებული.
+2. **სმენა.** მოითხოვეთ სმენის შემოწმება და ჰკითხეთ, დაგეხმარებოდათ თუ არა სმენის აპარატები. ჩვენი [სმენის სახელმძღვანელო](/brain-health/hearing/) კვლევას ხსნის.
+3. **მხედველობა.** რეგულარულად შეამოწმეთ თვალები და ჰკითხეთ, შესაძლებელია თუ არა ისეთი პრობლემების მკურნალობა, როგორიცაა კატარაკტა.
+4. **ქოლესტერინი.** ჰკითხეთ, უნდა შემოწმდეს თუ არა თქვენი LDL ქოლესტერინი და საჭიროა თუ არა რაიმე ცვლილება.
+5. **სისხლში შაქარი.** თუ დიაბეტი გაქვთ, ჰკითხეთ, როგორ მართოთ ის უსაფრთხოდ.
+6. **განწყობა.** დეპრესია გავრცელებულია და მკურნალობადია. აცნობეთ ექიმს, თუ ორი კვირაზე მეტ ხანს თავს დაქვეითებულად გრძნობთ ან რამესადმი ინტერესი დაგიკარგავთ.
+7. **მოწევა და ალკოჰოლი.** ჰკითხეთ მოწევის შეწყვეტის შესახებ მხარდაჭერაზე და ალკოჰოლის უსაფრთხო ზღვარზე.
+8. **მოძრაობა.** ჰკითხეთ, რა სახის აქტივობაა თქვენთვის უსაფრთხო. ჩვენს [ვარჯიშის სახელმძღვანელოში](/brain-health/exercise/) იდეებს იპოვით.
+9. **თავის დაცვა.** ველოსიპედით სეირნობისა და კონტაქტური სპორტის დროს ატარეთ ჩაფხუტი და ჰკითხეთ დაცემის პრევენციის შესახებ.
+10. **კავშირის შენარჩუნება.** სხვა ადამიანებთან დროის გატარება ჯანსაღი ცხოვრების ნაწილია. იხილეთ ჩვენი სახელმძღვანელო [სოციალური კავშირის შესახებ](/brain-health/social-connection/) და ასევე [ძილის შესახებ](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+წამლების, დიეტის, საკვები დანამატების, მარხვის ან ვარჯიშის შეცვლამდე ჯერ ექიმთან ისაუბრეთ, განსაკუთრებით თუ გულ-სისხლძარღვთა დაავადება, დიაბეტი, დაცემის ისტორია გაქვთ ან უკვე დემენციით ცხოვრობთ.
 
-## Talk with a doctor
+## ისაუბრეთ ექიმთან
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+თუ თქვენ ან თქვენი ახლობელი ამჩნევთ მეხსიერების ან აზროვნების ისეთ ცვლილებებს, რომლებიც σας აწუხებთ, ჩაინიშნეთ ვიზიტი. NIA აღნიშნავს, რომ [მეხსიერების პრობლემებს შეიძლება სხვა მიზეზებიც ჰქონდეს](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), როგორიცაა წამლების გვერდითი ეფექტები, ფარისებრი ჯირკვლის პრობლემები, დეპრესია ან B12 ვიტამინის ნაკლებობა, და ზოგიერთი ასეთი პრობლემა ქრება, როდესაც მიზეზი მკურნალდება. ჩვენი [გამაფრთხილებელი ნიშნების სახელმძღვანელო](/brain-health/warning-signs/) ხსნის, რაზე უნდა მიაქციოთ ყურადღება.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**სასწრაფო დახმარება მოითხოვეთ** მოულოდნელი ცვლილებებისას: უეცარი დაბნეულობა, სისუსტე ან დაბუჟება სხეულის ერთ მხარეს, მეტყველების გაძნელება ან ძლიერი თავის ტკივილი შეიძლება ინსულტის ან სხვა გადაუდებელი მდგომარეობის ნიშანი იყოს. დარეკეთ 112-ზე.
 
-## Where Golden Moments fits
+## სად ჯდება Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments გთავაზობთ მარტივ ერთობლივ აქტივობებს, როგორიცაა [სასაუბრო ბარათები](/games/conversation-cards/), [სურათების ბინგო](/games/picture-bingo/) და [მშვიდი სუნთქვის შესვენება](/games/calm-breathing/). ისინი სიამოვნებისა და ერთად გატარებული დროისთვისაა. ისინი არ არის მკურნალობა და დემენციას არ უშველის თავიდან და არ ანელებს მის მიმდინარეობას.

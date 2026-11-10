@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "სმენის დაქვეითება და დემენციის რისკი"
+seoTitle: "სმენის დაქვეითება და დემენცია: კვლევის შედეგები"
+description: "რატომ არის სმენის დაქვეითება დემენციის რისკის მნიშვნელოვანი ფაქტორი, რა აჩვენა ACHIEVE კვლევამ და როგორ შევამოწმოთ სმენა."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024 წლის Lancet-ის კომისია სმენის დაქვეითებას დემენციის ერთ-ერთ ყველაზე მნიშვნელოვან
+  ცვალებად რისკის ფაქტორად ასახელებს. ACHIEVE კვლევაში სმენის აპარატებმა მთლიანად
+  არ შეანელა კოგნიტური დაქვეითება, თუმცა უფრო მაღალი რისკის მქონე ქვეჯგუფში
+  დაქვეითება ნაკლები იყო. სმენის აპარატები მაინც ეხმარება საუბარსა და ყოველდღიურ
+  ცხოვრებას. შეამოწმებინეთ სმენა, განიხილეთ რეცეპტით ან რეცეპტის გარეშე მისაღები
+  აპარატები და გაიარეთ კონსულტაცია ექიმთან.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet-ის კომისიის შეფასებით, სმენის დაქვეითებაზე მოდის მსოფლიოში დემენციის შემთხვევების დაახლოებით 7%, რაც 14 ფაქტორს შორის ერთ-ერთი ყველაზე დიდი წილია."
+  - "977 უფროს adulto-ზე ჩატარებულ ACHIEVE კვლევაში სმენის აპარატებმა სამი წლის განმავლობაში კოგნიტური დაქვეითება მთლიანად არ შეცვალა."
+  - "ACHIEVE-ის უფრო მცირე, მაღალი რისკის მქონე ჯგუფში სმენის აპარატების გამოყენებისას კოგნიტური დაქვეითება 48%-ით ნელი იყო; ეს დასადასტურებლად დამატებით კვლევას საჭიროებს."
+  - "2022 წლის ოქტომბრიდან აშშ-ში ზრდასრულებს, რომლებსაც მსუბუქი ან ზომიერი სმენის დაქვეითება აქვთ, შეუძლიათ FDA-ის მიერ რეგულირებული სმენის აპარატების რეცეპტის გარეშე შეძენა."
+  - "2024 წელს დაუმკურნალებელი მხედველობის დაქვეითებაც დაემატა დემენციის რისკის ფაქტორებს, ამიტომ თვალების შემოწმებაც მნიშვნელოვანია."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "იცავს თუ არა სმენის აპარატები დემენციისგან?"
+    a: "ეს დადასტურებული არ არის. ACHIEVE კვლევამ სამი წლის განმავლობაში კოგნიტურ დაქვეითებაზე საერთო გავლენა ვერ აჩვენა, თუმცა ერთ მაღალრისკიან ჯგუფში შედეგები უკეთესი იყო. სმენის აპარატების განხილვა მაინც ღირს, რადგან ისინი საუბარს, უსაფრთხოებასა და ყოველდღიურ ცხოვრებას აადვილებს."
+  - q: "ვის შეუძლია რეცეპტის გარეშე სმენის აპარატების შეძენა?"
+    a: "FDA ზრდასრულებს, 18 წლის და უფროსს, რომლებსაც ჰგონიათ, რომ მსუბუქი ან ზომიერი სმენის დაქვეითება აქვთ, საშუალებას აძლევს რეცეპტის გარეშე სმენის აპარატები მაღაზიაში ან ინტერნეტში შეიძინონ. ისინი მძიმე სმენის დაქვეითებისთვის არ არის განკუთვნილი. ვინც ყურის ტკივილს, გამონადენს, თავბრუსხვევას ან სმენის უეცარ ცვლილებას განიცდის, ჯერ ექიმს უნდა მიმართოს."
+  - q: "შეიძლება თუ არა სმენის დაქვეითება დემენციას დაემსგავსოს?"
+    a: "ზოგჯერ შეიძლება. National Institute on Aging აღნიშნავს, რომ უფროსებს, რომლებსაც კარგად არ ესმით, ხანდახან შეცდომით დაბნეულებად ან შეუთანხმებლად მიიჩნევენ. სმენის შემოწმება გონივრული ნაბიჯია, როცა ადამიანი მეტწილად უკან იხევს ან სათქმელს ვერ იგებს."
+  - q: "რამდენად ხშირად უნდა შეამოწმებინონ უფროსმა ადამიანებმა თვალები?"
+    a: "National Institute on Aging გირჩევთ გაფართოებული გუგით თვალის შემოწმებას 60 წლის შემდეგ წელიწადში ერთხელ ან ორ წელიწადში ერთხელ, ან ისე, როგორც თქვენი თვალის სპეციალისტი გირჩევთ. დიაბეტით ან მაღალი არტერიული წნევით მცხოვრებ ადამიანებს, როგორც წესი, ეს შემოწმება წელიწადში მინიმუმ ერთხელ სჭირდებათ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+სმენის დაქვეითება გვიან ასაკში ხშირია და მკვლევრები მას დემენციის რისკის ფაქტორად სერიოზულად განიხილავენ. ეს არ ნიშნავს, რომ სმენის აპარატები დემენციის თავიდან აცილების დადასტურებული საშუალებაა; დღემდე ჩატარებულ საუკეთესო კვლევას შერეული შედეგები ჰქონდა. ამ გვერდზე განმარტებულია, რას pokazებს კვლევები, როგორ შეამოწმოთ სმენა, რა არის აშშ-ში რეცეპტის გარეშე მისაღები სმენის აპარატები და როგორ გააადვილოთ საუბარი.
 
-## Why does hearing matter for brain health?
+## რატომ არის სმენა მნიშვნელოვანი ტვინის ჯანმრთელობისთვის?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+სმენის დაქვეითება დემენციის უფრო მაღალ რისკთან არის დაკავშირებული. [2024 წლის Lancet-ის კომისია](https://doi.org/10.1016/S0140-6736(24)01296-0) აფასებს, რომ მასზე მსოფლიოში დემენციის შემთხვევების დაახლოებით 7% მოდის. [UCL-ის მიერ მოხსენების შეჯამების](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) მიხედვით, ეს მაჩვენებელი LDL ქოლესტერინის მაღალ დონეს უტოლდება და კომისიის მოდელში 14 ცვალებად რისკის ფაქტორს შორის ერთ-ერთი ყველაზე დიდი წილია.
 
-Key findings from the Commission:
+კომისიის მთავარი დასკვნები:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **უფრო მაღალი რისკი სმენის დაქვეითებისას.** ექვსი მაღალი ხარისხის კვლევის გაერთიანებულ ანალიზში სმენის დაქვეითების მქონე ადამიანებში დემენციის რისკი დაახლოებით 37%-ით მაღალი იყო, ვიდრე ნორმალური სმენის მქონე ადამიანებში.
+- **მეტი დაქვეითება, მეტი რისკი.** კვლევებში, რომლებმაც სიმძიმე განიხილეს, რისკი სმენის გაუარესებასთან ერთად იზრდებოდა.
+- **შესაძლო მიზეზები, რომლებიც ჯერ დადასტურებული არ არის.** მათ შორის არის მარტოობა და ადამიანებისგან დაშორება, დეპრესია, ტვინისთვის ნაკლები სტიმულაცია და მოსმენისას საჭირო დამატებითი გონებრივი ძალისხმევა.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+სმენის დაქვეითება ხშირია. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) აღნიშნავს, რომ უფროსი ასაკის ადამიანების დაახლოებით მესამედს აქვს ეს პრობლემა და ასაკის მატებასთან ერთად ალბათობაც იზრდება.
 
-## What did the ACHIEVE hearing aid trial find?
+## რა აჩვენა ACHIEVE-ის სმენის აპარატების კვლევამ?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE იყო პირველი რანდომიზებული კვლევა სმენის აპარატებსა და კოგნიტურ დაქვეითებას შორის. მისი შედეგები ხშირად არაზუსტად გადმოიცემა, ამიტომ აქ მოცემულია დეტალები [გამოქვეყნებული კვლევის ანგარიშიდან](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **ვინ მონაწილეობდა:** 977 ზრდასრული, 70-დან 84 წლამდე, დაუმკურნალებელი სმენის დაქვეითებით და აზროვნების მნიშვნელოვანი პრობლემების გარეშე, აშშ-ის ოთხ საზოგადოებრივ ადგილას.
+- **რა შედარდებოდა:** ნახევარმა მიიღო სმენის აპარატები აუდიოლოგთან კონსულტაციების სესიებთან ერთად. მეორე ნახევარმა მიიღო ჯანმრთელი დაბერების შესახებ საგანმანათლებლო პროგრამა.
+- **მთავარი შედეგი:** სამი წლის შემდეგ ორივე ჯგუფში კოგნიტური დაქვეითების განსხვავება **არ გამოვლინდა**.
+- **ქვეჯგუფის შედეგი:** კვლევაში მონაწილეები ორი წყაროდან შეირჩა. 238 ადამიანი გრძელვადიანი გულის ჯანმრთელობის კვლევიდან (ARIC) მოვიდა და როგორც ჯგუფს, მათ კოგნიტური დაქვეითების უფრო მაღალი რისკი ჰქონდათ. ამ ჯგუფში დაქვეითება სმენის აპარატების გამოყენებისას **48%-ით ნელი** იყო. 739 ჯანმრთელ მოხალისეს შორის აშკარა ეფექტი არ დაფიქსირებულა.
 
-How to read this honestly:
+როგორ წავიკითხოთ ეს გულწრფელად:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- საერთო პასუხი იყო: ეფექტი არ ყოფილა.
+- ქვეჯგუფის შედეგი წინასწარ იყო დაგეგმილი, მაგრამ იგი უფრო მცირე ჯგუფის მეორადი ანალიზიდან მიღებულ მონაცემებს ეყრდნობოდა. ეს სხვა კვლევებში დადასტურებას საჭიროებს.
+- მონაწილეებმა იცოდნენ, რომელ პროგრამაში იყვნენ, რამაც შეიძლება შედეგებზე იმოქმედოს.
+- Lancet-ის კომისია მტკიცებულებებს ისე აფასებს, რომ სმენის აპარატები, როგორც ჩანს, განსაკუთრებით სასარგებლოა იმ ადამიანებისთვის, რომლებსაც სმენის დაქვეითებასთან ერთად დემენციის სხვა რისკის ფაქტორებიც აქვთ.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+მთავარი დასკვნა ის არის, რომ სმენის აპარატები დემენციის თავიდან აცილების დადასტურებული საშუალება არ არის. ისინი ნამდვილად ეხმარება ადამიანებს უკეთესად გაიგონ, საუბარში ჩაერთონ და კავშირი შეინარჩუნონ, რაც საკმარისი მიზეზია მათი განხილვისთვის.
 
-## How do I know if hearing should be checked?
+## როგორ გავიგო, საჭიროა თუ არა სმენის შემოწმება?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA გირჩევთ ექიმთან მისვლას, თუ თქვენ ან ადამიანი, რომელზეც ზრუნავთ:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- უჭირს ადამიანების გაგება ტელეფონით საუბრისას
+- უჭირს საუბრის მიყოლა, როცა ორი ან მეტი ადამიანი ერთდროულად ლაპარაკობს
+- ხშირად სთხოვთ სხვებს გამეორებას
+- ტელევიზორს ისე უწევს ხმას, რომ სხვებს აწუხებთ
+- უჭირს მეტყველების გაგება, როცა ფონური ხმაურია
+- ჰგონია, რომ სხვა ადამიანები ბუნდოვნად ლაპარაკობენ
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+დაიწყეთ ოჯახის ექიმთან, რომელმაც შესაძლოა აუდიოლოგთან (სმენის სპეციალისტთან) ან ყელ-ყურ-ცხვირის ექიმთან მიმართოს. ყურის ცვილის დაგროვება სმენის დაქვეითების ერთ-ერთი გავრცელებული მიზეზია, რომლის შემოწმებაც ექიმს შეუძლია. **სმენის უეცარი დაქვეითება სამედიცინო გადაუდებელი მდგომარეობაა** და NIA გირჩევთ დაუყოვნებლივ მიმართოთ ექიმს.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+სმენის დაქვეითება შეიძლება დაბნეულობას დაემსგავსოს. NIA აღნიშნავს, რომ უფროსებს, რომლებსაც კარგად არ ესმით, ხანდახან შეცდომით დაბნეულებად, უპასუხოდ ან შეუთანხმებლად მიიჩნევენ. თუ ადამიანი, რომელზეც ზრუნავთ, უფრო ჩაკეტილად გამოიყურება ან სათქმელს ვერ იგებს, სმენის შემოწმება კარგი პირველი ნაბიჯია.
 
-## What are over-the-counter hearing aids?
+## რა არის რეცეპტის გარეშე მისაღები სმენის აპარატები?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+2022 წლის 17 ოქტომბრიდან [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) იძლევა რეცეპტის გარეშე (OTC) მისაღები სმენის აპარატების კატეგორიის საშუალებას. აი, როგორ შედარდება ისინი რეცეპტით გაცემულ აპარატებთან:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| მახასიათებელი | რეცეპტის გარეშე (OTC) სმენის აპარატები | რეცეპტით გაცემული სმენის აპარატები |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| ვისთვის არის განკუთვნილი | 18 წლის და უფროსი ზრდასრულები, რომლებსაც ჰგონიათ, რომ მსუბუქი ან ზომიერი სმენის დაქვეითება აქვთ | სმენის დაქვეითების ნებისმიერი დონე, ნებისმიერი ასაკი |
+| საიდან შეგიძლიათ მიიღოთ | მაღაზიებში ან ინტერნეტში, შემოწმებისა და რეცეპტის გარეშე | ლიცენზირებული სმენის სპეციალისტის მეშვეობით |
+| მორგება | პარამეტრებს თქვენ არეგულირებთ, ხშირად აპლიკაციის დახმარებით | სპეციალისტი პროგრამირებს მას თქვენი სმენის მიხედვით |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA ამბობს, რომ OTC აპარატები მძიმე ან ძალიან მძიმე სმენის დაქვეითებისთვის არ არის განკუთვნილი. ის გირჩევთ ექიმთან, სასურველია ყელ-ყურ-ცხვირის სპეციალისტთან, მიმართვას ყიდვამდე, თუ გაქვთ:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- ყურის ტკივილი ან დისკომფორტი
+- უკანასკნელი ექვსი თვის განმავლობაში ყურიდან გამონადენი, ჩირქი ან სისხლი
+- სმენის უეცარი ან ცვალებადი ცვლილებები
+- ერთ ყურში უფრო ცუდი სმენა ან ზანზალაკი მხოლოდ ერთ ყურში
+- თავბრუსხვევა ან ვერტიგო
+- ყურის ცვილის დიდი რაოდენობა
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+სმენის აპარატებს მიჩვევას დრო სჭირდება, ამიტომ ყიდვამდე გადაამოწმეთ დაბრუნების პირობები, როგორც ამას FDA გირჩევთ. NIA გირჩევთ გაიგოთ, ფარავს თუ არა თქვენი დაზღვევა ხარჯის ნაწილს. დემენციით მცხოვრები ადამიანისთვის აუდიოლოგს შეუძლია დაგეხმაროთ იმის გადაწყვეტაში, რომელი ტიპის აპარატი და მორგება იქნება ყოველდღიურად ყველაზე მარტივად სამართავი.
 
-## How can I talk more easily with someone who has hearing loss?
+## როგორ ვისაუბრო უფრო მარტივად ადამიანს, რომელსაც სმენის დაქვეითება აქვს?
 
-The NIA suggests:
+NIA გირჩევთ:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **მიუახლოვდით ადამიანს პირისპირ და შეინარჩუნეთ თვალით კონტაქტი**, კარგ განათებაში, რათა შეძლოს თქვენი ტუჩებისა და გამომეტყველების დანახვა.
+2. **იპოვეთ წყნარი ადგილი.** გამორთეთ ტელევიზორი ან გადადით ხმაურისგან შორს.
+3. **ილაპარაკეთ ოდნავ უფრო ხმამაღლა, მაგრამ არ იყვიროთ.** ილაპარაკეთ ბუნებრივად და გონივრული ტემპით.
+4. **პირი გახსნილი გქონდეთ.** საუბრისას ნუ ჭამთ, ნუ ღეჭავთ საღეჭ რეზინს და ნუ ფარავთ პირს.
+5. **გადმოეცით სხვანაირად და არა უბრალოდ გაიმეოროთ**, როცა რამე ვერ გაიგეს.
+6. **ერთდროულად ერთი ადამიანი.** ჯგუფში ეცადეთ, ადამიანი ჩართოთ საუბარში.
+7. **იყავით მოთმინებით და ჰკითხეთ, როგორ შეგიძლიათ დახმარება.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+ეს რჩევები კარგად ერწყმის ჩვენს [დემენციის დროს კომუნიკაციის რჩევებს](/caregiving/communication-tips/). სურათებზე დაფუძნებული აქტივობებიც ამცირებს მოსმენაზე დატვირთვას. [Picture Pairs](/games/picture-pairs/) და [Conversation Cards](/games/conversation-cards/) იმაზე მუშაობს, რასაც ხედავთ, ხოლო [Finish the Saying](/games/finish-the-saying/) საშუალებას იძლევა, დასასრული აჩვენოთ და არა თქვათ. ზარების შესახებ იხილეთ ჩვენი სახელმძღვანელო [სატელეფონო და ვიდეო ზარების შესახებ](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## მხედველობაც მნიშვნელოვანია
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 წელს Lancet-ის კომისიამ დაუმკურნალებელი მხედველობის დაქვეითება ახალ რისკის ფაქტორად დაამატა. UCL-ის შეჯამება მას დემენციის შემთხვევების დაახლოებით 2%-ს უკავშირებს და კომისია გირჩევთ, რომ მხედველობის პრობლემების სკრინინგი და მკურნალობა ყველასთვის ხელმისაწვდომი იყოს. [NIA გირჩევთ](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) გაფართოებული გუგით თვალის შემოწმებას 60 წლის შემდეგ წელიწადში ერთხელ ან ორ წელიწადში ერთხელ და სათვალის რეცეპტის შემოწმებასაც. მხედველობის მცირე ცვლილებებმაც კი შეიძლება დაცემის რისკი გაზარდოს.
 
-## Talk with a doctor
+## ესაუბრეთ ექიმს
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+ჰკითხეთ ექიმს სმენისა და მხედველობის შემოწმების შესახებ, თუ ზემოთ ჩამოთვლილ რომელიმე ნიშანს ამჩნევთ. დაუყოვნებლივ მიმართეთ დახმარებას სმენის უეცარი დაქვეითების, ყურის ტკივილის ან ყურიდან გამონადენის შემთხვევაში. თუ დემენციით მცხოვრებ ადამიანზე ზრუნავთ, აცნობეთ მის ექიმს სმენის ან მხედველობის ცვლილებების შესახებ, რადგან ამან შეიძლება გავლენა მოახდინოს განწყობაზე, უსაფრთხოებასა და იმაზე, რამდენად კარგად შეუძლია ადამიანს ჩართვა.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+ეს გვერდი ზოგადი ინფორმაციაა და სამედიცინო რჩევას არ წარმოადგენს. იხილეთ ჩვენი [სამედიცინო პასუხისმგებლობის უარყოფა](/medical-disclaimer/). მეტი წაიკითხეთ [სოციალურ კავშირსა და ტვინის ჯანმრთელობაზე](/brain-health/social-connection/).

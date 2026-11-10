@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Mawĩra ma Mũciĩ ta Mĩeke kũrĩ Andũ marĩ na Dementia"
+seoTitle: "Mawĩra ma Mũciĩ kũrĩ Andũ marĩ na Dementia"
+description: "Gũkũnja nguo, gũthuura indo, kũhaarĩria metha na kũruga na njĩra nyoroku no gũtuĩke mĩeke ya bata kũrĩ andũ marĩ na dementia. Ũrĩa wa kũhaarĩria, gũcenjia na kũgitĩra ũgwati."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Mawĩra ma o mũthenya ta gũkũnja matauro, gũthuura thogithi, kũhaarĩria metha,
+  gũthaandũra metha, kũitĩrĩria mĩmera maaĩ na gũteithia kũruga na njĩra nyoroku
+  no mahe mũndũ ũrĩa ũrũaga na dementia njĩra ya kũma ya gũteithia. Thuura mawĩra
+  marĩa mooĩ, magaye ikinya rĩmwe o rĩmwe, weherie indo njega ta hiũ kana
+  indo ihĩũ, na ũtue gũkorwo ho kũrĩ kwa bata gũkĩra kũrĩka wega mũno.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Mawĩra ma mũciĩ marĩa mooĩ no mateithie mũndũ aiguĩrwo e wa bata na e gĩcunjĩ kĩa nyũmba, na ũndũ ũcio no ũkorwo ũrĩ wa bata gũkĩra ũrĩa wĩra wĩkĩtwo wega."
+  - "Gaya wĩra o wothe ũtuĩke ikinya rĩmwe o rĩmwe, onania handũ ha kwaria tu, na wĩyoere ikinya rĩrĩa rĩmũritũhĩire na njĩra ndagĩrĩru."
+  - "Hinga hiũ, indo cia gũthambia na tũcunjĩ twa thabuni ya nguo kũndũ kũrĩa ũgwati, na wĩkĩre indo cia kũgitĩra mĩtwe ya riiko kana kĩndũ kĩa kũhoria riiko we mwene mbere ya kũruga hamwe."
+  - "Matauro marĩa makũnjĩtwo matiagĩrĩirwo nĩ gũcookererio gũkũnjwo mũndũ acuonaga. Ũngĩbataro nĩ gũcookereria kĩndũ, ĩka ũguo thutha-inĩ na hatarĩ harĩa acuonaga nĩguo ndakaiguĩrwo ta ararĩĩkio."
+  - "Wĩra ũngĩrehe kĩeha kana kũnogio, garũrũkĩra ikinya rĩhũthũ mũno, geria rĩngĩ ihinda rĩngĩ, kana mũikare hamwe tu."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Nĩ mawĩra marĩkũ ma mũciĩ mũndũ ũrĩ na dementia angĩhota gũteithia?"
+    a: "Andũ aingĩ no mahote gũkũnja nguo, kũringania thogithi, gũthuura iciko cia metha, kũhaarĩria metha, gũthaandũra metha, gũkung'ũta rũkũngũ, gũhata, kũitĩrĩria mĩmera maaĩ kana gũkoroga iria rĩa keki. Thuura mawĩra marĩa mũndũ eekaga mbere na ũmaringithanie na ũrĩa angĩhota rĩu. Mahinda ma thutha, gĩcunjĩ kĩmwe gĩa gwĩka kĩndũ o ro ũguo, ta gũkanda napukini, no kĩigane."
+  - q: "Nĩ wega na ũgwati mũndũ ũrĩ na dementia gũteithia riko-inĩ?"
+    a: "No gũtuĩke ũguo, harĩ na kũrorwo wega na kwĩhaarĩria kũrĩa kwagĩrĩire. Ikara hiũ, indo cia gũthambia na kĩndũ o gĩothe kĩrĩ ũrugarĩ kũndũ kũrĩa atangĩkinyĩra, hũthĩra indo cia kũgitĩra mĩtwe ya riiko kana kĩndũ kĩa kũhoria riiko we mwene, na ũhe mũndũ wĩra ũtarĩ ũgwati ta gũthambia mboga, gũkoroga kana kũiga thaani. Ndũkanamũtige arĩ wiki na riiko rĩakanĩte."
+  - q: "Angĩkũnja indo na njĩra ĩtarĩ yo kana arehe kĩhĩngĩcano?"
+    a: "Reke gũtuĩke ũguo. Muoroto nĩ wa gũkorwo na ihinda hamwe na kũigua e wa bata, ti ũrĩa wĩra wĩkĩtwo wega mũno. Kĩndũ kĩngĩbataro kũcookererio, eterera nginya thutha-inĩ na ũgĩĩke rĩrĩa mũndũ atarĩkuona, nĩguo ndakaiguĩrwo ta ararĩĩkio."
+  - q: "Angĩrega gũteithia?"
+    a: "Kwĩrega no kuonanie atĩ wĩra ũcio nĩ mũritũ mũno, nĩ mũkondogu kana nĩ ũranogia ihinda rĩu. Ndũkanamũhatĩrĩrie. Geria njĩra ĩhũthũ mũno, mũĩre akũnyiitanĩre nake handũ ha gwĩka wĩra, kana ũmũũrie rĩngĩ ihinda rĩega rĩa mũthenya."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Andũ aingĩ arĩa matũũraga na dementia nĩmahũthĩrĩte mĩaka mĩingĩ makĩrũgamĩrĩra mũciĩ, makĩrera ciana kana makĩrũgamĩrĩra mawĩra ma kũndũ kũrĩa marutaga wĩra. Kũheo mweke wa gũteithia mawĩra ma ma nĩkuo no kuuge "no ũrĩ gĩcunjĩ kĩa nyũmba ĩno" na njĩra ĩrĩa mĩeke ĩngĩ mĩingĩ ĩtangĩhota. Kĩrĩ gĩcunjĩ gĩkĩ nĩtũkwaria mawĩra marĩa mangĩagĩrĩra, ũrĩa wa kũmahaarĩria, ũrĩa wa kũmacingithania maũndũ magĩcenjia, na ũrĩa wa kũgitĩra ũgwati riko-inĩ na kũndũ kũrĩa gũthambagĩrio nguo.
 
-## Why do everyday chores work well as activities?
+## Nĩkĩ mawĩra ma o mũthenya magĩrĩire ta mĩeke?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Mawĩra maya nĩmagĩrĩire tondũ nĩmooĩkene na nĩmarĩ na gĩtũmi gĩkinyanĩru. National Institute on Aging nĩĩtaranagia gũthambia thaani, kũhaarĩria metha, gũhata, gũkung'ũta rũkũngũ, gũthuura marũa, gũkũnja nguo na gũthuura indo cia gũcookereria gũtũmĩrwo gatagatĩ-inĩ ka [mawĩra ma o mũthenya marĩa andũ marĩ na Alzheimer's mangĩkena namo](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association yugaga atĩ mawĩra ta kũhaarĩria metha no mateithie mũndũ [aiguĩrwo e wa bata gĩcunjĩ-inĩ kĩa nyũmba](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Wĩra ningĩ ũkoragwo na gĩtũmi kĩaguo kĩa kwambĩrĩria. "No ũndeithie na matauro maya?" nĩ ũhũthũ mũno gwĩtĩkĩrwo gũkĩra "Nĩũkwenda gwĩka mweke?"
 
-## Which household tasks are good to try?
+## Nĩ mawĩra marĩkũ ma mũciĩ twagĩrĩirwo nĩ kũgeria?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Ambĩrĩria na mawĩra marĩa mũndũ eekaga mbere, ũcooke ũmaringithanie na ũrĩa angĩhota ũmũthĩ.
 
-### Laundry and linens
+### Nguo na indo cia mũtĩ
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Gũkũnja matauro na nguo cia kwĩhũgũra.** He mũndũ gĩkabũ kĩrĩ na indo nini na ndaraganu. Matauro nĩmahũthũ: gũtirĩ njĩra ĩtarĩ yo ya kũmakũnja.
+- **Kũringania thogithi.** Igĩra kĩrũndo kĩa thogithi metha-inĩ. Thogithi ingĩkorwo irĩ hinya kuona iria ihũanaga, hũthĩra rangi igĩrĩ kana ithatũ tu itarĩ ta ũndũ ũmwe.
+- **Gũkanda na kũrũnga.** Napukini, nguo cia mĩto kana matauro ma metha no makandwo na mekĩrwo igũrũ. Ũndũ ũyũ nĩũgĩrĩire mahinda ma thutha, rĩrĩa gũkũnja gũtuĩkĩte ikinya nyingĩ mũno.
 
-### Table and kitchen
+### Metha na riko
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Kũhaarĩria metha.** Haarĩria handũ hamwe ta kĩonereria na ũreke mũndũ arũmĩrĩre. Angĩona arĩ hinya mũno, mũnenge kĩndũ kĩmwe o ihinda: "Hũma ici ni iciko cia thaani o yothe."
+- **Gũthuura iciko cia metha.** Tukania hũma, iciko na mahiũ ma thiagĩ matarĩ mogi kĩndũ-inĩ kĩmwe na ũcithuure ũciĩkĩre kabakainĩ karĩ na mĩgawanyo. Tiga mahiũ marĩ mogi.
+- **Gũhuura thaani.** Thaani cia rabara kana iria itangĩũrwo na tauro nyoroku nĩciagĩrĩire wĩra ũyũ na ũgwati.
+- **Gũthaandũra metha kana metha ya riko.** Gĩtambaya kĩrĩ gĩtutu na handũ hatheru. Alzheimer's Association ĩtaga mũndũ gĩtambaya angĩkorwo no arathuguna metha na guoko, agacokia mwĩko ũcio ũtarĩ na gĩtũmi gũtuĩka wĩra wa bata.
 
-### Around the house
+### Nyũmba-inĩ guothe
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Gũkung'ũta rũkũngũ.** Gĩtambaya kĩoroku na kũndũ kũnini kũrũmu, ta metha ya thĩinĩ kana kabati ka mabuku.
+- **Gũthuura marũa.** He mũndũ marũa matarĩ ma bata na ibuku cia mĩhothi amathuure mĩrũndo: ma kũiga, ma gũte, ma kũhingũra thutha-inĩ. Iga marũa ma ma na cheki kũndũ kũngĩ.
+- **Gũthuura indo cia gũcookereria gũtũmĩrwo.** Gĩciko, cuba na mabati matheru ũciĩkĩre ndobo itarĩ ta ũndũ ũmwe.
+- **Gũhata.** Kĩhato kĩnini nja kana thĩ ya riko, angĩkorwo no ahote kwĩrũgamĩrĩra wega.
+- **Kũitĩrĩria mĩmera maaĩ.** Gĩtete kĩnini na kĩhũthũ na mĩmera mĩnini ĩrĩ hakuhĩ.
 
-### Simple cooking with supervision
+### Kũruga na njĩra nyoroku na kũrorwo
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Kũruga no gũcookie mĩario mĩega na ya hinya. NIA yugaga atĩ mũndũ no arekio acokanĩrĩrie indo cia kũruga, athime, akoroge na aitĩrĩrie, kana oige mũndũ ũngĩ ũrĩa irio ciake ciendagwo irugagwo. Mawĩra mega nĩmaya:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- gũthambia mboga kana matunda
+- gũkoroga iria rĩa keki kana salati ndarũ
+- gũtambũranga nyeni cia letusi
+- kwĩhaka thiagĩ toasti na kahiũ gatarĩ mogi
+- kwĩkĩra ngũmba cia kũki tharabainĩ
+- kwĩkĩra indo igũrũ rĩa pitsa
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Gũthima kũngĩritũha, Alzheimer's Association yugaga atĩ wee no ũrĩkie gũthima ũcooke ũmũnenge ikinya rĩngĩ, ta gũkoroga.
 
-## How do I set up a chore so it goes well?
+## Njĩhaaragĩria atĩa wĩra nĩguo ũthiĩ wega?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Thuura ihinda rĩega.** Thuura ihinda rĩrĩa mũndũ akoragwo ahuurũkĩte na aikarĩte wega. Kũrĩ andũ aingĩ ũyũ nĩ rũciinĩ.
+2. **Theria handũ hau.** Wĩra ũmwe, handũ hamwe, hatarĩ na indo ingĩ metha-inĩ.
+3. **Ĩta, ndũkanamwathane.** "No ũndeithie na maya" nĩ kwega gũkĩra "Nĩ ihinda rĩa gũkũnja nguo."
+4. **Onania ũrĩa wa mbere.** Kũnja tauro rĩmwe kahora, ũcooke ũmũnenge rĩngĩ. Kuonania nĩgũtaũkĩka wega gũkĩra gũtaarĩria.
+5. **He ikinya rĩmwe o ihinda.** Mĩario mĩingĩ ya rimwe no ĩmũritũhie. Eterera ikinya rĩmwe rĩthire mbere ya kwaria rĩngĩ.
+6. **Rutagai wĩra mũrĩ hamwe.** Gwĩka wĩra ũmwe mũrĩ hamwe nĩ ta gũkorwo na mũndũ, ti ta kũrorwo.
+7. **Aria ũhoro wa wĩra, ti ũrĩa wonekete.** "Maya nĩmororu mũno" kana "Njĩĩra ũrĩa wendete gũikara kabati ya matauro" nĩ njĩra ya kwambĩrĩria mĩario itarĩ na kũgeria mũndũ.
 
-## How do I adapt chores as abilities change?
+## Ndingĩcingithania atĩa mawĩra ma mũciĩ ũhoti ũgĩcenjia?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Ũhoti wa gwĩka maũndũ nĩũcenjiaga na ihinda, na o na kuuma mũthenya ũmwe nginya ũrĩa ũngĩ. Alzheimer's Association yugaga atĩ nĩ wega gũthiĩ na mbere na mawĩra mahũthũ na marĩa macookagĩrĩrio rĩrĩa mũrimũ ũgĩthiĩ na mbere.
 
-| If this has become hard | Try this instead |
+| Ũndũ ũyũ ũngĩkorwo ũrĩ mũritũ | Geria ũũ handũ haguo |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Gũkũnja marĩrĩ manene | Gũkũnja nguo cia kwĩhũgũra kana gũkanda napukini |
+| Kũhaarĩria metha yothe | Kwĩkĩra napukini ĩmwe gĩtĩ-inĩ o gĩothe |
+| Gũthuura marũa na mĩthemba | Kũrũnga marũa marĩ mũrũndo ũmwe |
+| Kũrũmĩrĩra njĩra ya kũruga | Gũkoroga, kana kũrora na gũcama rĩrĩa ũraruga |
+| Gũhata nyũmba yothe | Gũthaandũra kametha kanini kamwe |
+| Gwĩka wĩra o na ũrĩkũ | Gũikara hamwe nawe rĩrĩa ũreka wĩra |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Kũrora nĩgũkoragwo kũrĩ gwĩka ũndũ. NIA yugaga atĩ andũ amwe nĩmakenaga na kũrora tu, na ũcio nĩ mũthemba mwega wa gũkorwo ho.
 
-## How do I keep household tasks safe?
+## Ndũngĩgitĩra atĩa ũgwati mawĩra-inĩ ma mũciĩ?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Ũgwati nĩguo wagĩrĩirwo gũkorwo mbere, makĩria riko-inĩ. [Ũtaaro wa ũgwati wa mũciĩ kũrĩ arĩa marũgamĩrĩra andũ marĩ na Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) kuuma NIA nĩũtaranagia:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Hinga kana weherie indo cia gũthambia, hamwe na tũcunjĩ twa thabuni ya nguo, tondũ no tuonekane ta icunjĩ.
+- Iga hiũ, magathĩti na indo cia wĩra cia hinya kũndũ kũhingĩtwo.
+- Wĩkĩre indo cia kũgitĩra mĩtwe ya riiko na kĩndũ kĩa kũhoria riiko we mwene.
+- Igĩra marũũri ma "Rũgama" kana "Nĩ kũhiũ mũno" hakuhĩ na riiko, toasta na icini ya nguo, harĩa matangĩakana mwaki.
+- Tũma kĩhuhũro kĩa maaĩ kĩigwo 120°F nĩguo ũnyihie ũgwati wa gũcina.
+- Weheria matunda ma mũthemba wa kũgemio na indo cia gũcuurio rĩgiicini-inĩ ikonekaga ta irio, tondũ no cionekane ta irĩngĩrĩĩka.
 
-A few more practical habits help:
+Mĩtugo ĩngĩ ya kũgwatanĩra no ĩteithie:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Ikara nyũmba-inĩ o rĩrĩa riiko, oveni kana kĩndũ kĩrĩ na mogi kĩrahũthĩrwo.
+- Hũthĩra thaani itangĩũrwo rĩrĩa ũrahuura thaani kana ũrahaarĩria metha.
+- Ikara thĩ ĩtarĩ na maaĩ na ĩtherie rĩrĩa ũrahata kana ũrathambia thĩ.
+- Angĩkorwo mũndũ nĩahũthagĩra indo cia wĩra mbere, Alzheimer's Association yugaga atĩ weherie indo irĩ na ũgwati kuuma kũndũ kũrĩa arutagĩra wĩra nĩguo wĩra ũtarĩ ũgwati, ta gũtharĩria mbaũ, no ũthiĩ na mbere gũkenwo.
 
-## What if they do it "wrong"?
+## Angĩka maũndũ "na njĩra ĩtarĩ yo" atĩa?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Reke gũtuĩke ũguo. Tauro rĩkũnjĩtwo icunjĩ ithatũ handũ ha icunjĩ igĩrĩ no rĩrĩ o tauro rĩkũnjĩtwo. Alzheimer's Association ĩkiuga ũũ hatarĩ nganja: ũndũ wa bata nĩ gũkorwo na ihinda hamwe na mũndũ aiguĩrwo e wa bata, ti kana matauro makũnjĩtwo wega kũna. Kĩndũ kĩngĩbataro kũcookererio biũ, eterera nginya thutha-inĩ na ũgĩĩke hatarĩ harĩa acuonaga.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Kũmũrĩĩkia ihinda-inĩ rĩu no kũgarũre wĩra ũrĩa mwega ũtuĩke kĩririkania kĩa ũrĩa kũũrĩte. "Nĩ wega, nĩũndeithĩtie mũno" nĩ ciugo njega mũno mahinda maingĩ.
 
-## When should we stop?
+## Tũkũrũgama rĩ?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Rũgama kana garũrũka rĩrĩa wona marũũri ma kĩeha, kũnogio kana kwaga kwenda gũthiĩ na mbere. Kũrũgama tene nĩ ũndũ mwega, ti kũrema. No wĩke ũũ:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- garũrũkĩra ikinya rĩhũthũ mũno
+- thiĩ ũndũ-inĩ ũngĩ wa kũhurũkia, ta mũziki kana gĩkombe kĩa kahũa
+- geria rĩngĩ thutha-inĩ kana mũthenya ũngĩ
+- o mũikare hamwe tu
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Mũndũ angĩuga aca, ndũkanamũhatĩrĩrie. Rora [ũrĩa wa gwĩka angĩuga aca](/caregiving/when-they-say-no/) nĩguo ũmenye njĩra cia ũhooreri cia gũcookia.
 
-## Low-effort extras for a quieter moment
+## Maũndũ mangĩ mahũthũ ma ihinda rĩa kũhoorera
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Rĩrĩa mawĩra ma mwĩrĩ matangĩhoteka, gũthuura na kũringania no gwĩkwo mũndũ aikarĩte thĩ. [Sort Together](/games/sort-together/) nĩĩrekaga ũhutie mĩhiano ũmĩĩkĩre ikabũ-inĩ cia riko kana mũgũnda, na [Picture Pairs](/games/picture-pairs/) nĩ mweke mũhooreri wa kũringania ũrĩ na mĩhiano mĩnene na ũtarĩ na mathaa ma gũthima. [Conversation Cards](/games/conversation-cards/) ĩrĩ na ciũria cia kwambĩrĩria mĩario ũhoro wa mũciĩ na andũ a nyũmba, iria ciagĩrĩire mũno thutha wa wĩra mũnyue kahũa.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Nĩguo ũgĩe na ũteithio wa kwĩkĩra mawĩra mũtaratara-inĩ wa mũthenya, rora kĩarĩria gĩitu kĩa [mũtaratara wa mũthenya mũhooreri](/activities/daily-routine/). Nĩguo ũgĩe na meciiria mangĩ kũringana na ikinya, rora [mĩeke ya ikinya rĩa gatagatĩ](/activities/middle-stage/).

@@ -1,34 +1,30 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "ޑިމެންޝިއާ ޖެހިފައިވާ މީހާއާ ކޯލުގައި ކުރެވޭ މަސައްކަތްތައް"
+seoTitle: "ޑިމެންޝިއާއަށް ވީޑިއޯ ކޯލު މަސައްކަތްތައް"
+description: "ޑިމެންޝިއާ ޖެހިފައިވާ މީހާއާ ދުރުން އުޅޭ އާއިލާއަށް ވީޑިއޯ ކޯލާއި ފޯނު މަސައްކަތްތައް: ދައްކާލުން، ކިޔަވާދިނުން، ލަވަ ކިޔުން، އެއްކޮށް ކުޅެވޭ ގޭމްތަކާއި އެހީތެރިންނަށް ލަފާ."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  ޑިމެންޝިއާ ޖެހިފައިވާ މީހާއާ ކުރާ ކޯލުތައް އެންމެ ރަނގަޅަށް ދިޔަނީ ކުރު، ދަމަކޮށް ކުރާ، އަދި އެއްކޮށް ކުރެވޭ ކަމެއް ހިމެނޭ ގޮތުގައި ނަމައެވެ. މިސާލަކަށް ބުޅާއެއް ނުވަތަ ގެބަސްތާން ދައްކާލުން، ފޮޓޯތައް ބަލާލުން، އަޑުއަރާ ކިޔަވާދިނުން، އެންމެ ބޭނުންވާ ލަވައެއް ކިޔުން، ނުވަތަ ސްކްރީން ހިއްސާކޮށް ހަމަޖެހޭ ގޭމެއް ކުޅެވުން ހިމެނެއެވެ. މިންވަރު ކުރެވޭނަމަ ކޮންމެ ދުވަހަކު އެއް ގަޑިއަކަށް ކޯލު ކުރާށެވެ. އެއް ފަހަރު އެކަކު ވާހަކަ ދައްކާށެވެ. އަދި އަރިހުގައި އިން މީހަކު އެހީތެރިވުމަށް އެދެން.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "ކޯލަށް ކުރެވޭ މަސައްކަތެއް ހުރުމުން، ކޯލަށް ގޮތެއް ލިބެ، ވާހަކަ ދެއްކުމުގެ ބުރަވެސް މަދުވެއެވެ. ހިއްސާކުރަން ސާދާ ކަމެއް ކުރިން ހަމަޖައްސާށެވެ."
+  - "ދިގު ފަހަރުން ކުރާ ކޯލުތަކަށް ވުރެ، ކުރު، ދަމަކޮށް، ކޮންމެ ދުވަހަކު އެއް ގަޑިއަކަށް ކުރާ ކޯލުތައް ގިނަ ފަހަރަށް ރަނގަޅުވެއެވެ."
+  - "އެއް ފަހަރު އެކަކު ވާހަކަ ދައްކާށެވެ. އެތައް މީހުން އެއްފަހަރާ ވާހަކަދައްކާ ގްރޫޕް ކޯލުތައް ފަހުމަށް އުނދަގޫވެއެވެ، ޚާއްޞަކޮށް އަޑު އިވުން ދަތިވެއްޖެ ނަމަ."
+  - "އަރިހުގައި އިން މީހަކަށް ޑިވައިސް ތައްޔާރުކޮށް، މީހާގެ ކައިރީގައި އިންނަން، އަދި ގޭމެއް ނުވަތަ ފޮޓޯއެއް ބޭނުންވާ ވަގުތު އެހީތެރިވެވޭނެއެވެ."
+  - "މިއަދު ކޯލު ރަނގަޅަށް ނުދިޔަނަމަ، އޯގާތެރިކަމާއެކު ނިންމާށެވެ. މާދަމާ އަލުން މަސައްކަތް ކުރުމަކީ ކަމެއް ނެތް ކަމެކެވެ."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "ޑިމެންޝިއާ ޖެހިފައިވާ މީހަކާ ވީޑިއޯ ކޯލުގައި ކޮން ކަންތައް ކުރެވޭނެހެއްޔެވެ؟"
+    a: "ސާދާ މަސައްކަތެއް ކުރިން ހަމަޖައްސާށެވެ: ތިޔަބައިމީހުންގެ ގެބަސްތާން، ބުޅާ ނުވަތަ ބަދިގެ ދައްކާލުން؛ މުސްކުޅި ފޮޓޯތައް އެއްކޮށް ބަލާލުން؛ ކުރު ޅެމެއް ނުވަތަ ސިޓީއެއް އަޑުއަރާ ކިޔަވާދިނުން؛ އެމީހުން ބޭނުންވާ ލަވައެއް ކިޔުން؛ އެއް ގަޑިއަކަށް އެއް ކެއުން ތައްޔާރުކުރުން؛ ނުވަތަ ސްކްރީން ހިއްސާކޮށް ހަމަޖެހޭ ފޮޓޯ ގޭމެއް ކުޅެވުން. މިފަދަ މަސައްކަތްތަކުން ކޯލަށް ލަނޑުވަރެއް ލިބެ، ވާހަކަ ހިންގަން މީހާއަށް ބުރަ ނުވެއެވެ."
+  - q: "ވީޑިއޯ ކޯލެއް ކިހާ ދިގުވާން ވާނީހެއްޔެވެ؟"
+    a: "އާންމުގޮތެއްގައި ހީނުކުރާވަރަށް ވުރެ ކުރުކުރުން ރަނގަޅެވެ. މީހާ އަވަހަށް މަޑިވެއްޖެ ނަމަ، ހިތްހަމަޖެހޭ ކުޑަ މިނިޓެއް ފުދޭނެއެވެ. ކޮންމެ ކޯލެއް ކިހާ ދިގުވާތޯ އެއަށް ވުރެ، ކޮންމެ ދުވަހަކު އެއް ގަޑިއަކަށް ދަމަކޮށް ކޯލު ކުރުން ބޮޑަށް މުހިންމުވެދާނެއެވެ."
+  - q: "ވީޑިއޯ ކޯލުން އެމީހުން ދަތިވެ ނުވަތަ ހިތާމަ ނުޖެހިއްޖެ ނަމަ ކީއްކުރަން ވީހެއްޔެވެ؟"
+    a: "ބައެއް މީހުންނަށް ސްކްރީނުގައި މޫނު ފެނުން ދަތިކަން އުފެދިދާނެއެވެ. އެހެން ނަމަ ސާދާ ފޯނު ކޯލެއް، އަރިހުގައި އިން މީހަކަށް ހަމަޖެހޭ ވަގުތެއްގައި ދައްކާލެވޭ ރެކޯޑުކޮށްފައިވާ ވީޑިއޯ މެސެޖެއް، ނުވަތަ ކާޑުތަކާއި ފޮޓޯތައް ފޮނުވާލުން މަސައްކަތް ކުރާށެވެ. ކޯލެއް ރަނގަޅަށް ނުދިޔަނަމަ، އޯގާތެރިކަމާއެކު ނިންމައި، އެހެން ދުވަހަކު ނުވަތަ އެހެން ވަގުތެއްގައި އަލުން މަސައްކަތް ކުރާށެވެ."
+  - q: "އަހަރެންގެ މަންމައަށް ފޯނު ބޭނުން ނުކުރެވޭނަމަ، ވީޑިއޯ ކޯލެއް ކުރަން ކިހިނެއް އެހީތެރިވެދާނެހެއްޔެވެ؟"
+    a: "އާއިލާގެ މީހަކު، ގޭގައި އެހީތެރިވާ މީހަކު، ނުވަތަ ބެލެހެއްޓުމުގެ މަރުކަޒުގެ މުވައްޒަފަކު ކޯލު ފެށުމަށާއި ޑިވައިސް ހިފައިދިނުމަށް ނުވަތަ ރަނގަޅަށް ބެހެއްޓުމަށް އެދެން. ގިނަ ބެލެހެއްޓުމުގެ ތަންތަނުގައި ވީޑިއޯ ކޯލުތަކަށް އެހީތެރިވެދެއެވެ، އެހެންކަމުން އެތަނުން ލިބޭ އެހީ އަހާށެވެ. ސްޓޭންޑެއްގައި ބެހެއްޓި ޓެބްލެޓެއް، ސްކްރީން ބޮޑުކޮށް، އަޑު ފެންނަ މިންވަރަށް ބަހައްޓައިފި ނަމަ އެންމެނަށް ފަސޭހަވެއެވެ."
+  - q: "ވީޑިއޯ ކޯލުގައި އެއްކޮށް ގޭމެއް ކުޅެވޭނެހެއްޔެވެ؟"
+    a: "އާދެ، ކުޅެވޭނެއެވެ. އެންމެ ފަސޭހަ ގޮތަކީ ވީޑިއޯ އެޕްގައި އެކަކު ސްކްރީން ހިއްސާކޮށް، އަނެކަކު ކޮން ފޮޓޯއަށް އޮބާން ބޭނުންތޯ ބުނުމެވެ. ނުވަތަ އަރިހުގައި އިން މީހަކު ޓެބްލެޓެއްގައި އެއް ގޭމް ހުޅުވައި، ތިޔަބައިމީހުން ވާހަކަ ދައްކަމުން ދާއިރު އެމީހަށް ޓެޕްކޮށްދެވޭނެއެވެ. ޓައިމަރެއް ނުވަތަ ސްކޯއެއް ނެތް ގޭމްތައް ހޮވާށެވެ."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +46,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+ޑިމެންޝިއާ ޖެހިފައިވާ މީހަކާ ދުރުން ދިރިއުޅުމުން ބައެއް ފަހަރަށް އެއްވެސް ކަމެއް ނުކުރެވޭ ހީވެދާނެއެވެ. ފޯނާއި ވީޑިއޯ ކޯލުތަކުން ބައްދާލުމެއް ބަދަލު ނުވާނެ ނަމަވެސް، ރަނގަޅަށް ތައްޔާރު ކުރެވިއްޖެ ނަމަ ހަގީގީ ގުޅުމެއް އުފެދޭނެއެވެ. މުހިންމު ކަމަކީ އާދައިގެ ވާހަކައެއް ދެއްކަން މަސައްކަތް ނުކޮށް، އެއްކޮށް ކުރެވޭ ސާދާ ކަމެއް ކުރިން ހަމަޖެއްސުމެވެ. މި ޞަފްޙާގައި ވީޑިއޯ ކޯލާއި ފޯނުގައި ކުރެވޭ މަސައްކަތްތައް، ކޯލު ތައްޔާރުކުރާ ގޮތް، އަދި އަރިހުގައި އިން މީހަކަށް ކުރެވޭ އެހީ ހިމެނެއެވެ.
 
-## Why plan an activity for a call?
+## ކޯލަށް މަސައްކަތެއް ހަމަޖައްސަންވީ ކީއްވެ؟
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+މަސައްކަތެއް ހުރުމުން ކޯލަށް ގޮތެއް ލިބެއެވެ. "ހާލު ކިހިނެއް؟ މިއަދު ކީއް ކުރެއްވި؟" މި ސުވާލުތަކުން ހަނދާން ނެގުމާއި ޖަވާބު ދިނުން އެދެއެވެ. އެއީ ބައެއް ފަހަރަށް އުނދަގޫ ކަމެއް ވެދާނެއެވެ. އެކަމުގެ ބަދަލުގައި "ބަލާށެވެ، ޓޮމާޓޯ އެންމެ ރަނގަޅު" އޭ ބުނުމުން އެމީހުންގެ ކިބައިން އެއްވެސް ކަމެއް ނުއެދެއެވެ.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association ބުނަނީ ގިނަ މީހުން ބައިވެރިވާ ވީޑިއޯ ކޯލުތައް އުނދަގޫ ވެދާނެ ކަމަށާއި، ލަވަ ކިޔުން ނުވަތަ ފޮޓޯ ހިއްސާކުރުން ފަދަ ކަންތައްތަކުން [ކޯލަށް ގޮތެއް ލިބުމަށް](https://www.alz.org/help-support/caregiving/holidays) ލަފާ ދެއެވެ.
 
-## What activities work on a video call?
+## ވީޑިއޯ ކޯލުގައި ކޮން މަސައްކަތްތައް ރަނގަޅުވޭހެއްޔެވެ؟
 
-### Show and tell
+### ދައްކައި ބުނުން
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+ތިޔަބައިމީހުންގެ ދުނިޔެ އެމީހުންނަށް ގެންދޭށެވެ. ކެމެރާ ހަމަޖެހިގޮތުގައި ގެބަސްތާން ދައްކާލާށެވެ، ބުޅާ ތައާރަފް ކުރާށެވެ، ކައި ތައްޔާރުކުރާ ތަން ދައްކާލާށެވެ، ދަރިފުޅެއް ކުރެހި ކުރެހުން ދައްކާލާށެވެ، ނުވަތަ ފޯނު ވައިންދޯއަށް ބަރޯކޮށް ބޭރު ދައްކާލާށެވެ. ފެންނަ ކަންތައް ސާދާ ބަހުން ބުނާށެވެ، އަދި އެމީހުން ޖަވާބު ދޭން ވަގުތު ދޫކޮށްލާށެވެ. ސުވާލު ކުރަން މަޖުބޫރެއް ނެތެވެ.
 
-### Look at photos together
+### އެއްކޮށް ފޮޓޯ ބަލާލުން
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+މުސްކުޅި ޕްރިންޓެއް ކެމެރާއަށް ދައްކާލާށެވެ، ނުވަތަ ސްކްރީން ހިއްސާކޮށް ބޮޑު ފޮޓޯތައް އެއްފަހަރާ އެކެއް ދައްކާލާށެވެ. ފެންނަ ކަންތައްތަކާ ބެހޭ ގޮތުން ވާހަކަ ދައްކާށެވެ: "ކާފަގެ ތޮޕީ ބަލާށެވެ." "މީއަކީ ކޮބާ؟" ނުވަތަ "ހަނދާން އައްސަވަންތޯ؟" މި ސުވާލުތައް ނުކުރާށެވެ. މީހަކު ނަން ގޯސްކޮށް ބުނިޔަސް، އެ ގޮތަށް ދޫކޮށްލާށެވެ. ހަމަޖެހޭ ބޭނުންކުރެވޭ ލަފާއަށް އަޅުގަނޑުމެންގެ [ހަނދާން އަލުން ހަދާ އިރުޝާދު](/activities/reminiscence/) ބަލާށެވެ.
 
-### Read aloud
+### އަޑުއަރާ ކިޔަވާދިނުން
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+ކުރު ޅެމެއް، ދުއާއެއް، އެއް ކޯލުގައި ހިމެނޭ ދަރިފުޅަކަށް ބޭނުންވާ ކުޑަ ފޮތެއް، އާއިލާގެ މީހަކު ލިޔުނު ސިޓީއެއް، ނުވަތަ އެމީހުން ބޭނުންވާ ފޮތެއްގެ ޞަފްޙާއެއް ކިޔަވާދޭށެވެ. އަޑުއަރާ ކިޔަވާދިނުމުން ޖަވާބެއް ދޭން ނުޖެހި ހަމަޖެހިގޮތުގައި އަޑު އަޑުއަހާލެވޭނެއެވެ.
 
-### Sing or listen to music together
+### އެއްކޮށް ލަވަ ކިޔުން ނުވަތަ މިއުޒިކް އަޑުއެހުން
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+އެމީހުން ރަނގަޅަށް ދަންނަ ލަވައެއް ކިޔާށެވެ، ނުވަތަ ތިޔަބައިމީހުންގެ ފަރާތުން އެންމެ ބޭނުންވާ ލަވައެއް ޖައްސާލާށެވެ. ގިނަ މީހުންނަށް ވާހަކަ ދެއްކުމަށް ވުރެ ލަވަ ޖެހުން ފަސޭހަވެއެވެ. އަޅުގަނޑުމެންގެ [މިއުޒިކް މަސައްކަތްތަކުގެ އިރުޝާދު](/activities/music/) ބަލާށެވެ.
 
-### Cook or bake at the same time
+### އެއް ގަޑިއަކަށް ކެއުން ތައްޔާރުކުރުން ނުވަތަ ފިހުން
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association ލަފާ ދެނީ އެއް ރެސިޕީއެއް އެއްކޮށް ތައްޔާރުކުރަން ވީޑިއޯ ކޯލެއް ހަމަޖައްސަންއެވެ. ދެ ބަދިގެއަކުން ކޯލު ހަދާށެވެ. އަރިހުގައި އިން މީހާ ހިއްލާލުމަށް ނުވަތަ ރަހަ ބަލާލުމަށް އެހީތެރިވެދާނެއެވެ، ތިޔަބައިމީހުން އެމީހުންގެ ކުރީގެ ރެސިޕީ ކާޑާ އެއްގޮތަށް ހިނގާއިރު.
 
-### Watch something together
+### އެއްކޮށް އެއްޗެއް ބަލާލުން
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association އިތުރަށް ލަފާ ދެނީ ތަފާތު ގޭތަކުން ހުރެގެން އެއް ގަޑިއަކަށް އެންމެ ބޭނުންވާ ފިލްމެއް ބަލައި، ފޯނު ނުވަތަ ވީޑިއޯއިން ވާހަކަ ދެއްކުމަށެވެ. ޑިމެންޝިއާ ޖެހިފައިވާ މީހަކަށް މުޅި ފިލްމަކަށް ވުރެ، ކުރު ކްލިޕެއް، ކުރީގެ ޓީވީ އެޕިސޯޑެއް، ނުވަތަ ކުޅިވަރެއް ރަނގަޅުވެދާނެއެވެ.
 
-### Play a gentle game on a shared screen
+### ސްކްރީން ހިއްސާކޮށް ހަމަޖެހޭ ގޭމެއް ކުޅެވުން
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+ގިނަ ވީޑިއޯ ކޯލު އެޕްތަކުން ސްކްރީން ހިއްސާކުރެވެއެވެ. ތިޔަބައިމީހުން ގޭމް ހުޅުވައި ޓެޕް ކުރާށެވެ؛ އެމީހުން ކޮން ފޮޓޯ ހޮވާނީތޯ ބުނެދޭނެއެވެ. ނުވަތަ އަރިހުގައި އިން މީހަކު ޓެބްލެޓެއްގައި އެއް ގޭމް ހުޅުވައި، ތިޔަބައިމީހުން ވާހަކަ ދައްކަމުން ދާއިރު އެމީހަށް ޓެޕް ކޮށްދޭނެއެވެ.
 
-Games that work well this way:
+މި ގޮތަށް ކުޅެވޭ ރަނގަޅު ގޭމްތައް:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** ތިޔަބައިމީހުން މަޝްހޫރު ބަހެއް ކިޔަވާދެއްވާ، އެމީހުން ނިމުން ބުނެދެއްވާ، ދެން ވާހަކައަށް މަގުފަހިކޮށްދޭ ލަފާއެއް އަންނައެވެ.
+- **[Picture Pairs](/games/picture-pairs/):** ބޮޑު ފޮޓޯތަކާއެކު ހަމަޖެހޭ ޖޯޑުކުރުމުގެ ގޭމެކެވެ. ފޮޓޯތައް ފެންނަ ގޮތުގައި ބެހެއްޓެވޭނެއެވެ، ޓައިމަރެއް ނުވަތަ ސްކޯއެއް ނެތެވެ.
+- **[Conversation Cards](/games/conversation-cards/):** ފޮޓޯއަކާއި އެއްކޮށް ވާހަކަ ދެއްކުމަށް ހުޅުވާލާ ސުވާލެކެވެ.
+- **[Photo Pairs](/games/photo-pairs/):** ތިޔަބައިމީހުންގެ ޑިވައިސްގައި ހޮވާ ފޮޓޯތަކުން ހަދާ ޖޯޑުކުރުމުގެ ގޭމެކެވެ. ފޮޓޯތައް ތިޔަބައިމީހުންގެ ބްރައުޒާގައިއެވެ ހުންނަނީ، އަދި ސްކްރީން ހިއްސާކުރުމުން އެމީހުންނަށް ފެންނަނީއެވެ.
 
-### Recorded messages
+### ރެކޯޑުކޮށްފައިވާ މެސެޖުތައް
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+ސީދާ ކޯލު ކުރުން އުނދަގޫ ވާ ވަގުތުތަކުގައި، ކުރު ވީޑިއޯއެއް ރެކޯޑު ކުރާށެވެ: ސަލާމެއް، ލަވައެއް، ނުވަތަ ގެބަސްތާން ބަލައިގެން ހިނގާ ވީޑިއޯއެކެވެ. އަރިހުގައި އިން މީހަކަށް ހަމަޖެހޭ ވަގުތެއްގައި އެ ދައްކާލެވޭނެއެވެ، އެމީހުން ބޭނުންވާ ވަރަކަށް އަލުން އަލުން ދައްކާލެވޭނެއެވެ. Alzheimer's Association ދައްކާފައިވަނީ ކުދިން ހަދިޔާ ހުޅުވާ ފަދަ ޚާއްޞަ ވަގުތުތައް ރެކޯޑުކޮށް ފޮނުވާލެވޭނެ ކަމަށެވެ.
 
-## What about plain phone calls?
+## ސާދާ ފޯނު ކޯލުތަކުގެ ހާލަކީ ކޮބައިހެއްޔެވެ؟
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+ފޯނު ކޯލުތަކަށް އަދިވެސް މުހިންމުކަމެއް އެބަހުރެއެވެ. Dementia Australia [ކޮންމެ ދުވަހަކު އެއް ގަޑިއަކަށް ކޯލު ކުރުމަށާއި](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) އަވަސް ނުކުރުމަށް ލަފާ ދެއެވެ، ސަބަބަކީ ޑިމެންޝިއާ ޖެހިފައިވާ މީހުންނަށް ވާހަކައަށް އެއްބާރުލުމަށް ވަގުތު ބޭނުންވެދާނެ ކަމެވެ. ފޯނުގައި:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- ކޯލު ފެށުމުން ތިޔަބައިމީހުންގެ ނަމާއި ގުޅުން ބުނާށެވެ: "ސަލާމް ބައްޕަ، އަހަރެން ޖެނީ، ތިޔަބައިމީހުންގެ ދަރިފުޅު."
+- ހަމަޖެހިގޮތުގައި، ކުރު ޖުމްލަތަކުން، އެއް ފަހަރު އެއް ކަމެއް ވާހަކަ ދައްކާށެވެ.
+- ޚަބަރު އެދުމުގެ ބަދަލުގައި ޚަބަރު ދޭށެވެ: "މިއަދު ރޭ ތިޔަބައިމީހުންގެ ރެސިޕީ ބޭނުންކޮށް ކެއުން ތައްޔާރު ކުރީމެވެ."
+- ކުރު ޅެމެއް ކިޔަވާދޭށެވެ، ނުވަތަ އެންމެ ބޭނުންވާ ލަވައެއްގެ ބައެއް ކިޔާށެވެ.
+- ކޯލު ކުރުކޮށް، ހިތްހަމަޖެހޭ ބަހަކުން ނިންމާށެވެ.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia އިތުރަށް ދައްކާފައިވަނީ ވާހަކަ ދެއްކުން އުނދަގޫ ވެމުން ދާ ވަގުތުތަކުގައި ވީޑިއޯ ކޯލުން އެހީ ލިބިދާނެ ކަމަށެވެ، ސަބަބަކީ އެމީހުންނަށް ތިޔަބައިމީހުންގެ މޫނު ފެންނާނެ ކަމެވެ. ފޯނު ކޯލުތަކުން ދަތިވެއްޖެ ނަމަ ވީޑިއޯ މަސައްކަތް ކުރާށެވެ، ނުވަތަ އޭގެ އިދިކޮޅު ގޮތް ބަލާށެވެ.
 
-## How do I set up a video call that works?
+## ރަނގަޅު ވީޑިއޯ ކޯލެއް ކިހިނެއް ތައްޔާރުކުރަން ވީހެއްޔެވެ؟
 
-**Before the call:**
+**ކޯލު ކުރުމުގެ ކުރިން:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **ދަމަކޮށް ގަޑިއެއް ހޮވާށެވެ.** މީހާ އާންމުގޮތެއްގައި އަރާމުހުރި ވަގުތެއް ހޮވައި، އެ ގޮތަށް ދިޔުމަށް މަސައްކަތް ކުރާށެވެ. ދަމަކޮށްކުރުން އެހީތެރިވެއެވެ.
+2. **އަރިހުގައި އިން އެހީތެރިއާ ގުޅާށެވެ.** ކުރިން ދުވަހަކު މެސެޖެއް ފޮނުވުމުން އެމީހަކަށް ތައްޔާރުވެވޭނެއެވެ.
+3. **ޑިވައިސް ބަލާށެވެ.** އަތުގައި ހިފައިގެން ހުންނަ ފޯނަކަށް ވުރެ، ސްޓޭންޑެއްގައި ބެހެއްޓި ޓެބްލެޓެއް ފަސޭހައެވެ. ޗާޖު ހުރިތޯ، ސްކްރީން އަލިވެފައި ހުރިތޯ، އަދި އަޑު ފެންނަ މިންވަރަށް ހުރިތޯ ބަލާށެވެ. އެޕުން ކެޕްޝަން ދޭނަމަ، އަދި މީހާ ކިޔަވައިގަންނަވާ ނަމަ، އެ އޮން ކުރާށެވެ.
+4. **އެއް މަސައްކަތެއް ހަމަޖައްސައި، ބޭނުންވާ ހުރިހާ އެއްޗެއް ތައްޔާރުކޮށްލާށެވެ.**
 
-**During the call:**
+**ކޯލުގެ ތެރޭގައި:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **ކެމެރާއަށް ކައިރިކޮށް އިށީށެވެ،** ރަނގަޅު އަލިއަކުން، ވައިންދޯއަށް ފުރަގަސްދީ ނޫންގޮތަށް.
+- **ކޮންމެ ފަހަރަކުވެސް ތިޔަބައިމީހުން ކޮބާތޯ ތައާރަފް ކުރާށެވެ،** ނަމާއި ގުޅުން ބުނައިގެން.
+- **އެއް ފަހަރު އެކަކު ވާހަކަ ދައްކާށެވެ.** Alzheimer's Association ބުނަނީ އެއްފަހަރާ ވާހަކަދެއްކުން ޑިމެންޝިއާ ޖެހިފައިވާ މީހުންނަށާއި އަޑު އިވުން ދަތިވެފައިވާ މީހުންނަށް އުނދަގޫ ކަމަށެވެ. ގިނަ އާއިލާގެ މީހުން ބައިވެރިވާނަމަ، ބަދަލުކޮށް ވާހަކަ ދައްކާށެވެ ނުވަތަ ދެ ތިން މީހުންނަށް އެކަން ލިމިޓު ކުރާށެވެ.
+- **އެއް ފަހަރު އެއް ސުވާލެއް ކުރާށެވެ.** Family Caregiver Alliance ލަފާ ދެނީ [ސާދާ ސުވާލުތައް، އާދެ ނޫން ޖަވާބު ދެވޭ ސުވާލުތައް](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) ކުރުމަށާއި، މިންވަރު ކުރެވޭނަމަ އިޚްތިޔާރުތައް ދައްކާލުމަށެވެ.
+- **ދިގު ވަގުތު މަޑުކޮށްލާށެވެ.** ޖަވާބަށް މަޑުކޮށްލާށެވެ. ބަހެއް ހޯދަމުން ދަނިކޮށް އުޅޭ ނަމަ، ބަހެއް ހުށަހެޅުމަކީ ކަމެއް ނެތް ކަމެކެވެ.
+- **ތިޔަބައިމީހުންގެ މޫނާއި އަޑު ބޭނުން ކުރާށެވެ.** ހިނިތުންވާށެވެ، އިޝާރާތް ކުރާށެވެ، އަދި އަޑު ހިތްހަމަޖެހޭ ގޮތުގައި ބަހައްޓާށެވެ. ގިނަ ފަހަރަށް ބަހަށް ވުރެ ޙާލަތު ގިނަ ކަންތައް ބުނެދެއެވެ.
+- **ރަނގަޅު ނުކުރައްވާށެވެ.** މީހާ ބުނާ ކަމެއް ސައްހަ ނޫން ކަމަށް ފެނުނަސް، އެ ގޮތަށް ދޫކޮށްލާށެވެ.
 
-**Ending the call:**
+**ކޯލު ނިންމާއިރު:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- މީހާ މަޑިވެގެން ދިޔުމުގެ ކުރިން ނިންމާށެވެ، މިންވަރު ކުރެވޭނަމަ ރަނގަޅު ހިތްހަމަޖެހޭ ވަގުތެއްގައި.
+- ކޮންމެ ފަހަރަކު އެއް ގޮތަކަށް ދަންނަވާށެވެ: "މާދަމާ މެންދުރު ކެއުމުގެ އިރު ކޯލު ކުރާނަން. ލޯބިވަން."
+- ކޯލު ދިގު ނުކުރާށެވެ.
 
-## Tips for the helper on site
+## އަރިހުގައި އިން އެހީތެރިވާ މީހާއަށް ލަފާ
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+ކޯލުގައި އެހީތެރިވާ ދަރިފުޅު، އެހީތެރި، އަޚަކު/އުޚްތަކު، ނުވަތަ މުވައްޒަފެއްގެ ގޮތުގައި ތިޔަބައިމީހުން ހުރި ނަމަ، މި ކޯލު ވާން މިންވަރު ކުރަނީ ތިޔަބައިމީހުންނެވެ.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **ހަމަޖެހޭ ތަނެއް ތައްޔާރު ކުރާށެވެ.** ޓީވީ ނިއްވާލާ، ދޮރު ލައްޕާށެވެ.
+- **ކޯލު ތިޔަބައިމީހުން ފަށާށެވެ،** ދެން ސްޓޭންޑެއްގައި ހުރި ޓެބްލެޓް މީހާއަށް ދީ، ނުވަތަ ލޮލުގެ ފެންވަރަށް ހިފައިދީށެވެ.
+- **މީހާގެ ކުރިމަތީގައި ނޫން، ކައިރީގައި އިށީށެވެ.** ތިޔަބައިމީހުން އަރިހުގައި ހުރުމުން ހިތްހަމަޖެހެއެވެ. ބޭނުންވެއްޖެ ނަމަ ހަމަޖެހިގޮތުން ހަނދާން ކޮށްދީށެވެ: "ބަލާށެވެ، އެއީ ޖެނީ."
+- **އަތުން ކުރަން ޖެހޭ ކަންތައް ކުރައްވާށެވެ.** ފޮޓޯ ދައްކާލާށެވެ، ގޭމް ޓެޕް ކުރާށެވެ، ކޮޓަރި ދައްކާލުމަށް ޓެބްލެޓް އަނބުރާށެވެ.
+- **މަޑިކަމާއި ހިތާމަ ނުޖެހުން ދެނެގަންނާށެވެ،** އަދި ނިންމަން ވަގުތު ހަމަވެއްޖެ ކަމަށް ކޯލު ކުރާ މީހާއަށް އަންގާށެވެ.
+- **ކޮން ކަމެއް ރަނގަޅަށް ދިޔަތޯ ކޯލު ކުރާ މީހާއަށް ބުނާށެވެ.** "ބުޅާ ފެނުމުން ވަރަށް އުފާވި" މި ފަދަ ކަންތައް ދެން ކޯލަށް ތައްޔާރުވުމަށް އެހީތެރިވެއެވެ.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA ލަފާ ދެނީ ދުރުން އުޅޭ އާއިލާގެ މީހުންނަށް އިސް މީހަކަށް [ފޯނުގެ ޚާއްޞަ ކަންތައް](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving)، ވީޑިއޯ ކޯލު ހިމެނޭ ގޮތަށް، ދަސްކޮށްދެވޭނެ ކަމަށެވެ. ފަހުގެ ފިޔަވަޅުތަކުގައި ގިނަ ފަހަރަށް ޑިވައިސް ބޭނުންކުރާނީ އަރިހުގައި އިން މީހާ ކަމަށް ވެދާނެއެވެ. އެއީ ކަމެއް ނެތް ކަމެކެވެ.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+މީހާ ދިރިއުޅެނީ ބެލެހެއްޓުމުގެ މަރުކަޒެއްގައި ނަމަ، Alzheimer's Foundation of America ލަފާ ދެނީ އެ ތަނުން ވީޑިއޯ ކޯލުތަކަށް އެހީތެރިވެދެނީތޯ އަހާލުމަށެވެ. AFA ދައްކާފައިވަނީ އާއިލާތަކުން މުވައްޒަފުންގެ މެދުވެރިކޮށް ފޮޓޯ ހިއްސާކުރެވޭނެ ކަމާއި، އެ ތަނުން ހުއްދަ ދޭ ކަންތައް ބެލުމަށް ފަހު، އެންމެ ބޭނުންވާ ކާނާ ނުވަތަ ކުޑަ އެއްޗެހި ފޮނުވާލެވޭނެ ކަމަށެވެ.
 
-## What if the call doesn't go well?
+## ކޯލު ރަނގަޅަށް ނުދިޔަނަމަ ކީއްކުރަން ވީހެއްޔެވެ؟
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+ބައެއް ކޯލުތައް ދަތިކަން އުފައްދާނެއެވެ، ހިތްހަމަނުޖެހޭނެއެވެ، ނުވަތަ ހިތާމަ ނުޖެހިދާނެއެވެ. އެއީ ތިޔަބައިމީހުންގެ ކުށެއް ނޫނެވެ، އަދި ކޯލު ކުރުމުގެ ބޭނުމެއް ނެތް ކަމަކަށްވެސް ނުވެއެވެ.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- ސްކްރީނުން ދަތިވެފައި ފެންނަ ނަމަ، ސާދާ ފޯނު ކޯލަށް ނުވަތަ ރެކޯޑުކޮށްފައިވާ މެސެޖަށް ބަދަލުކުރާށެވެ.
+- އެމީހުން ހިތާމަ ނުޖެހިއްޖެ ނަމަ، އެ ހިތްވަރު ދެނެގަންނަވައި، ހަމަޖެހޭ ބަހަކުން އަރާމު ކޮށްދީ، ހަމަޖެހިގޮތުން ނިންމާށެވެ.
+- އެއް ވަގުތެއްގައި ކޯލުތައް ގިނަ ފަހަރަށް ރަނގަޅަށް ނުދިޔަނަމަ، އެހެން ވަގުތެއް މަސައްކަތް ކުރާށެވެ.
+- އެމީހުން ތިޔަބައިމީހުން އެހެން މީހަކަށް ހީކޮށްފި ނަމަ، އޯގާތެރިކަމާއެކު އެ ގޮތަށް ދޫކޮށްލާށެވެ.
 
-It is fine to end early. A short, warm call is a good outcome.
+ކުރިން ނިންމުމަކީ ކަމެއް ނެތް ކަމެކެވެ. ކުރު، ހިތްހަމަޖެހޭ ކޯލަކީ ރަނގަޅު ނަތީޖާއެކެވެ.
 
-## Between calls
+## ކޯލުތަކުގެ މެދުގައި
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+އެހެން ގޮތްގޮތުން ވެސް ގުޅުން ބަހައްޓާށެވެ. Dementia Australia ލަފާ ދެނީ ކާޑު، އީމެއިލް، ފޮޓޯ ނުވަތަ ކުޑަ ހަދިޔާތައް ފޮނުވުމަށެވެ. ހަފްތާއަކު އެއް ޕޯސްޓްކާޑެއް، އޭގައި ބޮޑު ފޮޓޯއެއްގެ އެކުގައި ކުރު ނޯޓެއް، އަލުން އަލުން ކިޔަވާލެވޭނެ އެއްޗެކެވެ. ޕްރިންޓްކޮށްފައިވާ [Conversation Cards](/games/conversation-cards/) އަރިހުގައި އިން މީހާއަށް ފޮނުވުމުން، ދެން އަންނަ ކޯލަށް ތައްޔާރު މައުޟޫއެއް ލިބިދާނެއެވެ.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+ޓެބްލެޓެއް ހޮވާ ގޮތާއި ތައްޔާރުކުރާ ގޮތުގެ ލަފާއަށް [ޓެބްލެޓްތަކާއި ސްކްރީންތައް](/caregiving/tablets-and-screens/) ބަލާށެވެ. އަރިހަށް ގޮސް ބައްދަލުކުރުމާ ބެހޭ ގޮތުން އަޅުގަނޑުމެންގެ [ބައްދަލުކުރުމުގެ އިރުޝާދު](/activities/visiting/) ބަލާށެވެ.

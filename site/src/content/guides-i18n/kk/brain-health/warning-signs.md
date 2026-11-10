@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Деменцияның ерте белгілері және дәрігерге көріну"
+seoTitle: "Деменцияның ерте белгілері және дәрігерге көріну"
+description: "Деменцияның жиі кездесетін ерте белгілері, олардың қарапайым қартаюдан айырмашылығы, есте сақтау мәселелерінің емделетін себептері және дәрігер қабылдауына қалай дайындалу керек."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Күнделікті өмірге кедергі келтіретін есте сақтау қабілетінің төмендеуі, таныс істерді орындаудағы қиындықтар, уақыт пен орынды шатастыру,
+  көңіл-күй немесе пайымдаудағы өзгерістер деменцияның ерте белгілері болуы мүмкін. Қалқанша безінің аурулары, В12 дәруменінің тапшылығы,
+  дәрі-дәрмектердің жанама әсерлері, депрессия және ұйқы мәселелері сияқты көптеген басқа жағдайлар да осыған ұқсас өзгерістерге әкелуі мүмкін.
+  Тек білікті маман ғана диагноз қоя алады. Кенеттен басталған абыржу шұғыл медициналық көмекті қажет етеді.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Кейде ұмытшақтық қартаю кезінде жиі кездеседі; күнделікті өмірге кедергі келтіретін өзгерістерді тексерткен жөн."
+  - "Alzheimer's Association 10 ескерту белгісін сипаттайды және олардың әрқайсысын салыстыру үшін жастық өзгерістермен қатар көрсетеді."
+  - "Қалқанша безінің аурулары, В12 дәруменінің тапшылығы, дәрі-дәрмектердің жанама әсерлері, депрессия, инфекциялар және ұйқы мәселелері есте сақтауға әсер етуі мүмкін, олардың кейбіреулері емделеді."
+  - "Деменцияға тек білікті маман ғана диагноз қоя алады; интернеттегі сауалнамалар мен өзін-өзі тексеру тестілері бұған жарамайды."
+  - "Бірнеше сағат немесе күн ішінде кенеттен пайда болған абыржу делирий болуы мүмкін және шұғыл медициналық көмекті қажет етеді."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Ұмытшақтық қартаюдың қалыпты белгісі ме?"
+    a: "Ішінара иә. National Institute on Aging кейде заттарды орынсыз қойып алу немесе шотты ұмытып кету әдетте жеңіл, жастық ұмытшақтық екенін айтады. Деменция қартаюдың қалыпты бөлігі емес. Көлік жүргізу, телефонды пайдалану немесе үйге жол табу сияқты күнделікті істерді қиындататын есте сақтау мәселелерін дәрігерге тексерткен жөн."
+  - q: "Есте сақтау мәселелері деменциядан басқа себептерден туындауы мүмкін бе?"
+    a: "Иә. National Institute on Aging қалқанша безі, бүйрек немесе бауыр ауруларын, дәрі-дәрмектердің жанама әсерлерін, депрессия мен мазасыздықты, В12 дәруменінің тапшылығын, алкогольді теріс пайдалануды, ұйқы мәселелерін, инфекцияларды және бас жарақаттарын, т.б. атайды. Олардың кейбіреулері емделгеннен кейін жақсаруы мүмкін, сондықтан медициналық тексеруден өту маңызды."
+  - q: "Адамды үйде деменцияға тексеруге бола ма?"
+    a: "Жоқ. Деменцияға тек білікті маман ғана диагноз қоя алады. Ол үшін медициналық тарих, денені тексеру, есте сақтау мен ойлау қабілетіне арналған тестілер, зертханалық талдаулар және кейде мидың суреттері қажет. Тіпті дәрігерлер қолданатын қысқа тестілердің өзі деменцияға диагноз қою үшін жеткіліксіз."
+  - q: "Адам кенеттен абыржып қалса, не істеу керек?"
+    a: "Дереу медициналық көмекке жүгініңіз. Кенеттен басталған абыржу делирий болуы мүмкін, ал VA оны медициналық төтенше жағдай деп сипаттайды. Адамның дәрігеріне дереу хабарласыңыз немесе 112 нөміріне қоңырау шалыңыз, оның қасында болыңыз және қабылдап жүрген дәрі-дәрмектерін жазып алыңыз."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Өз есте сақтау қабілетіңіздегі немесе жақын адамыңыздағы өзгерістерді байқау мазасыздандыруы мүмкін. Бұл бет дәрігерге қашан жазылу керектігін және қабылдауға қалай дайындалу керектігін шешуге көмектеседі. Бірақ ол ешкімде деменция бар-жоғын айта алмайды. **Деменцияға тек білікті маман ғана диагноз қоя алады**, ал есте сақтау мәселелерін тудыратын көптеген жағдайлардың деменцияға қатысы жоқ. Интернеттегі сауалнамалар мен өзін-өзі тексеру тестілеріне сүйенбеңіз.
 
-## What are the early signs of dementia?
+## Деменцияның ерте белгілері қандай?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) 10 ерте белгіні сипаттайды. Әр белгінің қасында салыстыру үшін жастық қалыпты өзгеріс көрсетілген. Қарапайым тілмен айтқанда:
 
-| Sign worth checking | More typical with age |
+| Тексерген жөн белгі | Жасына байланысты жиі кездесетін жағдай |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Күнделікті өмірге кедергі келтіретін есте сақтау мәселелері, мысалы, жақында болған оқиғаларды ұмыту немесе бір нәрсені қайта-қайта сұрау | Кейде есімді немесе кездесуді ұмытып, кейін еске түсіру |
+| Жоспар құруда немесе мәселе шешуде қиындық, мысалы, таныс рецепт бойынша ас дайындау немесе шоттарды бақылау | Үй шаруашылығындағы төлемдерде анда-санда қателесу |
+| Үйде, жұмыста немесе сыртта таныс істерді аяқтауда қиындық | Микротолқынды пештің баптауын немесе телебағдарма жазуды анда-санда басқадан сұрау |
+| Күнді, жыл мезгілін немесе тұрған жерін шатастыру | Апта күнін шатастырып, кейін өз бетімен еске түсіру |
+| Қашықтықты бағалауда, оқуда немесе түстерді ажыратуда жаңа қиындықтар пайда болуы | Катарактаға байланысты көрудің өзгеруі |
+| Сөздермен жаңа қиындықтар, мысалы, әңгіменің ортасында тоқтап қалу немесе заттарды басқаша атау | Кейде дұрыс сөзді таба алмау |
+| Заттарды әдеттен тыс жерге қойып, кейін қайда қойғанын еске түсіре алмау | Заттарды анда-санда орынсыз қойып, іздеу арқылы табу |
+| Ақшаны пайдалану немесе өзін күтуде нашар пайымдау | Анда-санда дұрыс емес шешім қабылдау |
+| Хоббиден, жұмыстан немесе әлеуметтік қарым-қатынастан алыстай бастау | Кейде отбасылық немесе қоғамдық шараға барғысы келмеу |
+| Көңіл-күйдегі немесе мінездегі өзгерістер, мысалы, абыржу, күдік, қорқыныш немесе мазасыздық | Өзіне үйреншікті әдеттерге берілу және күн тәртібі бұзылғанда тітіркену |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Тек бір белгінің болуы деменция дегенді білдірмейді. Ең маңыздысы — **сол адам үшін бұрынғы қалыпты жағдайдан айырмашылық**, әсіресе ол күнделікті өмірді қиындатса.
 
-## How is normal aging different from dementia?
+## Қалыпты қартаю деменциядан қалай ерекшеленеді?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) мәліметінше, көптеген егде жастағы адамдар заттарды баяуырақ еске түсіретінін, кейде заттарын орынсыз қойып алатынын немесе шотты ұмытып кететінін байқайды. Бұл әдетте жеңіл ұмытшақтық белгілері. **Деменция қартаюдың қалыпты бөлігі емес.** Есте сақтаудың елеулі мәселелері көлік жүргізу, телефонды пайдалану немесе үйге жол табу сияқты күнделікті әрекеттерді қиындатады.
 
-The NIA suggests talking with a doctor if someone:
+NIA мына жағдайларда дәрігермен сөйлесуді ұсынады:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Бір сұрақты қайта-қайта қою
+- Бұрын жақсы білетін жерлерде адасу
+- Рецепттерді немесе нұсқауларды орындауда қиындық сезіну
+- Уақытты, адамдарды және орындарды көбірек шатастыру
+- Өзін күте алмау, мысалы, дұрыс тамақтанбау, жуынбау немесе қауіпті әрекеттер жасау
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Кейбір адамдарда **жеңіл танымдық бұзылыс (MCI)** болады. Бұл — сол жастағы басқалармен салыстырғанда есте сақтау немесе ойлау мәселелері көбірек, бірақ күнделікті өмірді әлі де өз бетінше жүргізе алатын жағдай. NIA мәліметінше, MCI Альцгеймер ауруының ерте белгісі болуы мүмкін, бірақ MCI бар әр адамның бәрінде бірдей бұл ауру дамайды.
 
-## What else can cause memory problems?
+## Есте сақтау мәселелерінің басқа қандай себептері бар?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Деменциядан бөлек көптеген жағдайлар есте сақтауға әсер етуі мүмкін, ал кейбіреулері емдеуден кейін жақсарады. NIA мыналарды атайды:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Қалқанша безі, бүйрек немесе бауыр аурулары**
+- **Дәрі-дәрмектердің жанама әсерлері**
+- **Депрессия және мазасыздық**
+- **В12 дәруменінің тапшылығы** немесе дұрыс тамақтанбау
+- **Ұйқы мәселелері**
+- **Алкогольді немесе есірткіні теріс пайдалану**
+- **Мидағы инфекциялар, қан ұюы немесе ісіктер**
+- **Бас жарақаты**, мысалы, ми шайқалуы
+- **Үлкен стресс немесе қайғы**, мысалы, зейнетке шығу немесе жұбайынан айрылу
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Есту және көру мәселелері де абыржумен шатастырылуы мүмкін; [есту туралы нұсқаулықты](/brain-health/hearing/) қараңыз. Сондықтан медициналық тексеруден өту маңызды. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) мәліметінше, дәрігерлер жиі қалқанша безінің мәселелерін, дәрумен тапшылығын және инфекцияны тексеру үшін қан анализін тапсырады. Жақсы [ұйқы](/brain-health/sleep/) және депрессияны емдеу туралы да айтқан жөн.
 
-## Sudden confusion is an emergency
+## Кенеттен басталған абыржу — шұғыл жағдай
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Бірнеше сағат немесе күн ішінде тез пайда болған абыржу шұғыл медициналық көмекті қажет етеді.** Бұл делирий болуы мүмкін. [VA делирийді](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) медициналық төтенше жағдай деп сипаттайды және адамның дәрігеріне дереу хабарласуды немесе 112 нөміріне қоңырау шалуды ұсынады. Белгілеріне мыналар жатады:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Анық ойлау қабілетінің ауытқып тұруы
+- Назар аударуда қиындық
+- Ойдың шашыраңқы болуы
+- Әдеттен тыс ұйқышылдық немесе, керісінше, мазасыз және бейжай күй
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Бұл жағдай кез келген адамда, соның ішінде деменциямен өмір сүретін адамда да орын алуы мүмкін. [NHS](https://www.nhs.uk/symptoms/confusion/) мәліметінше, жиі себептеріне инфекциялар (несеп шығару жолдарының инфекциялары егде жастағы адамдарда және деменциясы бар адамдарда жиі кездеседі), инсульт, қант диабеті бар адамдардағы қандағы қанттың төмендеуі, бас жарақаты және кейбір дәрі-дәрмектер жатады. Көмек келгенше адамның қасында болыңыз және оны қысқа, қарапайым сөздермен тыныштандырыңыз. Көп сұрақ қоймаңыз және оның қабылдап жүрген дәрі-дәрмектерін жазып алыңыз.
 
-## How do I prepare for the doctor's appointment?
+## Дәрігер қабылдауына қалай дайындалуға болады?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Жақсы қабылдау жақсы жазбалардан басталады. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) мыналарды алып келуді ұсынады:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Есте сақтау, көңіл-күй және мінез-құлықтағы өзгерістердің тізімі**, нақты мысалдармен және олар шамамен қашан басталғаны көрсетілген түрде
+2. **Бұрынғы және қазіргі денсаулық мәселелері**, соның ішінде отбасында болған есте сақтау мәселелері
+3. **Барлық рецептілік және рецептсіз дәрі-дәрмектер**
+4. **Барлық дәрумендер мен қоспалар**
+5. **Сұрақтарыңыз**, мысалы, қандай тексерулер жүргізіледі, олар қанша уақыт алады және нәтижелер қашан дайын болады
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Адамды жақсы білетін отбасы мүшесін немесе досын бірге ертіп барған да пайдалы. [NIA түсіндірмесі](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) бойынша, дәрігерлер денсаулық жағдайы, дәрі-дәрмектер, күнделікті әрекеттер және мінез-құлықтағы өзгерістер туралы адамның өзінен де, отбасы мүшесінен де сұрауы мүмкін. Сондай-ақ дәрігерлер:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Есте сақтау, мәселе шешу, назар аудару, санау және сөйлеу қабілеттерін тексеретін тапсырмалар беруі мүмкін
+- Басқа себептерді анықтау үшін қан, зәр және басқа талдауларға бағыттауы мүмкін
+- Депрессияны немесе басқа психикалық жағдайларды тексеруі мүмкін
+- КТ немесе МРТ сияқты мидың суреттерін тағайындауы мүмкін
+- Гериатр, невролог, гериатриялық психиатр немесе нейропсихолог сияқты маманға жіберуі мүмкін
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA мәліметінше, танымдық бағалау Medicare Annual Wellness Visit бағдарламасының міндетті бөлігі болып табылады, сондықтан бұл алаңдаушылықты айтуға қолайлы сәт болуы мүмкін. Тіпті дәрігерлер қолданатын қысқа тестілердің өзі деменцияға диагноз қою үшін жеткіліксіз. Олар толық бағалауға бағытталған алғашқы қадам ғана, ал диагноз бір қабылдаудан артық уақыт алуы мүмкін. NIA есте сақтау мәселелері бар адамдарға әр 6–12 ай сайын дәрігерге қайта көрінуді ұсынады.
 
-## Raising the subject kindly
+## Бұл тақырыпты байқап, мейіріммен қозғау
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Егер сіз басқа адам үшін алаңдасаңыз, тыныш әрі жеке жағдайды таңдаңыз. Байқаған нақты нәрселеріңіз туралы айтыңыз, бірақ оны сынау ретінде емес, оның денсаулығына деген қамқорлық ретінде жеткізіңіз. Жалпы тексеруден өтуді ұсыну қорқынышты азырақ болуы мүмкін. Адамды шешім қабылдауға қосыңыз және онымен ересек адам ретінде сөйлесіңіз. Біздің [қарым-қатынас кеңестеріміз](/caregiving/communication-tips/) пайдалы болуы мүмкін.
 
-## Talk with a doctor
+## Дәрігермен сөйлесіңіз
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Егер сіз есте сақтауда, ойлауда, көңіл-күйде немесе күнделікті қабілеттерде жаңа және қайталанып тұратын өзгерістерді байқасаңыз, отбасылық дәрігерге жазылыңыз. Кенеттен басталған абыржу кезінде 112 нөміріне немесе адамның дәрігеріне дереу хабарласыңыз. Ерте тексеруден өту емделетін себептерді анықтауға көмектеседі, ал егер бұл деменция болса, жоспар құруға және қолдау табуға көбірек уақыт береді. Осы уақытта өзіңізді де ұмытпаңыз; біздің [қамқоршының өзін күтуі туралы нұсқаулықты](/caregiving/caregiver-self-care/) қараңыз.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Бұл бет жалпы ақпарат береді, медициналық кеңес емес. Біздің [медициналық жауапкершіліктен бас тарту](/medical-disclaimer/) бөлімін қараңыз.

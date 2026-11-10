@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Troscadh Eatramhach agus Néaltrú: Cad a Deir an Taighde"
+seoTitle: "Troscadh Eatramhach agus Néaltrú: An Taighde"
+description: "Tá an fhianaise ar throscadh eatramhach agus néaltrú teoranta. Foghlaim faoi na rioscaí do dhaoine scothaosta agus cén fáth a bhfuil ithe go leor tábhachtach."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Níl fianaise mhaith ann go gcuireann troscadh eatramhach cosc ar néaltrú ná
+  go moillíonn sé é. Tagann cuid mhór den taighde ó ainmhithe, agus tá staidéir
+  ar dhaoine scothaosta beag agus gearr. D’fhéadfadh troscadh a bheith
+  contúirteach do dhaoine scothaosta: caillteanas meáchain agus matán, siúcra
+  fola íseal le roinnt cógas diaibéitis, díhiodráitiú agus titimí. I gcás
+  daoine atá ag maireachtáil le néaltrú, is gnách gurb é ithe agus ól go leor an
+  cúram is mó. Labhair le dochtúir ar dtús.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Deir an National Institute on Aging nach bhfuil go leor fianaise ann chun aon aiste bia troscadh nó srianta calraí a mholadh, go háirithe do dhaoine scothaosta."
+  - "Tagann cuid mhór den taighde ar throscadh agus ar aosú ó ainmhithe, agus ní gá go mbaineann na torthaí sin le daoine."
+  - "I measc na rioscaí a d’fhéadfadh a bheith ann do dhaoine scothaosta tá caillteanas meáchain gan iarraidh, caillteanas matán, siúcra fola íseal le roinnt cógas diaibéitis, díhiodráitiú, meadhrán agus titimí."
+  - "Is minic a dhéanann daoine atá ag maireachtáil le néaltrú dearmad ar ithe nó ar ól, nó ceapann siad gur ith nó gur ól siad cheana féin. Is gnách go mbaineann sé i bhfad níos mó cabhrú leo ithe agus ól go leor ná cathain a itheann siad."
+  - "Ná húsáid troscadh do dhuine atá ag maireachtáil le néaltrú. Labhair le dochtúir nó le diaitéiteach cláraithe sula n-athraíonn tú patrúin itheacháin ar bith."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "An gcuireann troscadh eatramhach cosc ar ghalar Alzheimer?"
+    a: "Níl fianaise mhaith ann go ndéanann sé sin. Tá cuid mhór den taighde déanta ar ainmhithe, agus bhí trialacha ar dhaoine gearr den chuid is mó, ar dhaoine níos óige nó ar dhaoine le róthrom, agus dhírigh siad ar chaillteanas meáchain. Deir an National Institute on Aging nach bhfuil go leor fianaise ann chun aistí bia troscadh a mholadh don phobal."
+  - q: "An bhfuil troscadh eatramhach sábháilte do dhaoine scothaosta?"
+    a: "B’fhéidir nach bhfuil. D’fhéadfadh caillteanas meáchain agus matán gan iarraidh, díhiodráitiú, meadhrán agus titimí a bheith mar thoradh ar throscadh, agus d’fhéadfadh sé siúcra fola a íslíonn ró-íseal a chur faoi deara i ndaoine a thógann inslin nó roinnt cógas diaibéitis eile. Tugann Mayo Clinic le fios go mb’fhéidir nach n-oireann sé do dhaoine a bhfuil riosca ard caillteanais chnámh agus titimí acu. Labhair le dochtúir sula ndéanann tú iarracht é a thriail."
+  - q: "Ar cheart do dhuine le néaltrú triail a bhaint as troscadh?"
+    a: "Níor cheart. Is minic a bhíonn deacracht ag daoine atá ag maireachtáil le néaltrú a ndóthain a ithe agus a ól, agus d’fhéadfadh droch-chothú comharthaí iompair a mhéadú agus caillteanas meáchain a chur faoi deara. Cuireann troscadh riosca leis gan buntáiste cruthaithe. Dírigh ina áit sin ar bhéilí rialta, ar shneaiceanna a thaitníonn leo agus ar dhóthain le hól."
+  - q: "Cad iad na comharthaí nach bhfuil duine le néaltrú ag ithe nó ag ól go leor?"
+    a: "Bí ag faire amach do chaillteanas meáchain, éadaí ag éirí níos scaoilte, tuirse, laige, constipation, nó diúltú bia. I measc na gcomharthaí díhiodráitithe a liostaíonn an National Institute on Aging tá béal tirim, meadhrán, ráta croí tapa agus siabhránachtaí. Inis dá ndochtúir má thugann tú faoi deara iad seo."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Faigheann troscadh eatramhach, mar shampla ithe laistigh d’fhuinneog ocht n-uaire an chloig amháin nó calraí a laghdú go mór dhá lá sa tseachtain, a lán airde, agus tugann roinnt altanna le fios go bhféadfadh sé an inchinn a chosaint. Má tá tú níos sine, nó má thugann tú cúram do dhuine atá ag maireachtáil le néaltrú, seo an méid a léiríonn an taighde i ndáiríre, agus an fáth a bhfuil sé tábhachtach a bheith cúramach.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Is eolas ginearálta é seo, ní comhairle leighis. Ná tosaigh ar throscadh, ná ná hathraigh an dóigh a n-itheann duine atá faoi do chúram, gan labhairt le dochtúir nó le diaitéiteach cláraithe ar dtús. Féach ár [séanadh míochaine](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## An gcuireann troscadh eatramhach cosc ar néaltrú?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Níl fianaise mhaith ann go gcuireann troscadh eatramhach cosc ar néaltrú ná go moillíonn sé é. Deir an National Institute on Aging (NIA) nach bhfuil go leor fianaise ann chun aon chineál aiste bia srianta calraí nó troscadh a mholadh, agus go bhfuil i bhfad níos mó le foghlaim faoi cé chomh héifeachtach agus chomh sábháilte agus atá siad, go háirithe i ndaoine scothaosta ([NIA faoi shrianadh calraí agus troscadh](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Cén fáth a bhfuil an fhianaise chomh teoranta sin
 
-The NIA gives several reasons:
+Tugann an NIA roinnt cúiseanna:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Tá formhór na staidéar ar ainmhithe.** Tháinig torthaí suimiúla as taighde ar phéisteanna, ar chuileoga, ar lucha agus ar mhoncaí, ach ní gá go mbaineann na torthaí sin le daoine. Fiú in ainmhithe, tá na torthaí measctha; i roinnt cineálacha lucha, ghiorraigh srianadh calraí an saol.
+- **Bhí trialacha ar dhaoine gearr.** Mhair formhór acu cúpla seachtain nó cúpla mí.
+- **Dhírigh formhór na dtrialacha ar dhaoine ar chaillteanas meáchain** i ndaoine le róthrom, ní ar chuimhne ná ar néaltrú.
+- **Is annamh a chuirtear daoine scothaosta san áireamh.** In go leor trialacha, earcaíodh daoine 60 bliain d’aois nó níos óige.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+D’fhéach athbhreithniú córasach in 2026 go sonrach ar throscadh eatramhach i ndaoine fásta 60 bliain d’aois agus níos sine. Fuair sé go bhfuil an fhianaise sa ghrúpa aoise seo fós teoranta, le staidéir bheaga, obair leantach ghearr agus dearaí measctha. Tháinig torthaí ar smaointeoireacht agus ar chuimhne ó staidéir aonair seachas ó thorthaí trialacha comhcheangailte. Thug an t-athbhreithniú faoi deara freisin go raibh baint ag roinnt staidéar idir fuinneoga ithe an-ghearr nó troscadh fada agus torthaí níos measa, agus mhol na húdair a bheith cúramach i gcás daoine scothaosta ([athbhreithniú 2026 in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Ceapann roinnt taighdeoirí go bhféadfadh tionchar a bheith ag an athrú a dhéanann an corp go dó saill le linn troscadh ar an inchinn, ach teoiric í seo atá fós á staidéar. Tugann an NIA le fios nach bhfuil an eolaíocht cinnte.
 
-## What are the risks of fasting for older adults?
+## Cad iad na rioscaí a bhaineann le troscadh do dhaoine scothaosta?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Ní turgnamh gan dochar é troscadh do go leor daoine scothaosta. I measc na rioscaí a d’fhéadfadh a bheith ann tá:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Caillteanas meáchain gan iarraidh.** Má itheann duine níos lú ná mar a theastaíonn ón gcorp, d’fhéadfadh caillteanas meáchain agus níos lú neart matán a bheith mar thoradh air, rud a d’fhéadfadh an duine a fhágáil níos laige.
+- **Caillteanas matán agus cnámh.** I dtriail dhá bhliain le tacaíocht ón NIA ar shrianadh calraí i ndaoine fásta óga agus meánaosta, bhí laghduithe beaga ar dhlús cnámh agus ar mhais choirp gan saill ag na rannpháirtithe.
+- **Siúcra fola íseal le cógais diaibéitis.** D’fhéadfadh siúcra fola titim ró-íseal i ndaoine a thógann inslin nó roinnt cógas diaibéitis eile má scipeálann siad béilí nó má chuireann siad moill orthu, de réir an [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). D’fhéadfadh meadhrán, mearbhall agus greannacht a bheith mar thoradh ar shiúcra fola íseal.
+- **Díhiodráitiú.** Má scipeáiltear deochanna chomh maith le béilí, d’fhéadfadh díhiodráitiú teacht ar dhuine.
+- **Meadhrán agus titimí.** Tugann Mayo Clinic le fios go bhféadfadh troscadh eatramhach a chur faoi deara go mbraitheann daoine an-tuirseach agus meadhrán orthu, agus go mb’fhéidir nach patrún sláintiúil é do dhaoine a bhfuil riosca ard caillteanais chnámh agus titimí acu ([Mayo Clinic faoi throscadh eatramhach](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Éifeachtaí eile.** Luann Mayo Clinic tinneas cinn, athruithe giúmar agus constipation freisin, agus tugann sé faoi deara go bhfuil roinnt fianaise ann go bhféadfadh troscadh 16 uair an chloig le fuinneog ithe 8 n-uaire an chloig an riosca galar croí a mhéadú i gcomparáid le fuinneoga ithe eile. Níl an fhianaise sin socraithe.
 
-## Why is eating enough the bigger concern with dementia?
+## Cén fáth go mbaineann sé níos mó le néaltrú go leor a ithe?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+I gcás daoine atá ag maireachtáil le néaltrú, is gnách gurb í an fhadhb is mó a ndóthain bia agus dí a fháil, ní an iomarca. Míníonn an Alzheimer’s Association go bhféadfadh daoine sna céimeanna meánacha agus níos déanaí a bheith faoi léigear ag roghanna bia, dearmad a dhéanamh ar ithe, nó ceapadh gur ith siad cheana féin. Cuireann sé leis go bhféadfadh droch-chothú comharthaí iompair a mhéadú agus caillteanas meáchain a chur faoi deara ([Alzheimer’s Association faoi bhia agus ithe](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Tugann an Alzheimer’s Society faoi deara go bhféadfadh caillteanas meáchain, níos lú neart matán, tuirse agus laige a bheith mar thoradh ar gan a ndóthain a ithe, rud a fhágann duine níos laige agus nach bhfuil sé chomh hábalta téarnamh ó ionfhabhtuithe ([Alzheimer’s Society faoi ghoile](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Ar na cúiseanna seo, ní smaoineamh maith é troscadh do dhuine atá ag maireachtáil le néaltrú.** Is furasta béilí a scipeáiltear a iompú ina mbéilí a chailltear. Ba cheart d’aon athrú ar an dóigh a n-itheann duine le néaltrú a bheith faoi threoir a ndochtúra nó diaitéitigh chláraithe.
 
-## What are the warning signs of poor eating or drinking?
+## Cad iad na comharthaí rabhaidh a bhaineann le droch-ithe nó droch-ól?
 
-Watch for:
+Bí ag faire amach do:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Chaillteanas meáchain**, nó éadaí ag luí níos scaoilte.
+- **Bia a fhágáil nó béilí a dhiúltú**, nó bia a choinneáil sa bhéal.
+- **Tuirse nó laige.**
+- **Constipation**, a d’fhéadfadh baint a bheith aige le bia agus le díhiodráitiú.
+- **Comharthaí díhiodráitithe.** Liostaíonn an NIA béal tirim, meadhrán, ráta croí tapa, agus siabhránachtaí, ar féidir le néaltrú féin iad a chur faoi deara freisin ([NIA faoi fhadhbanna leighis coitianta](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Is iomaí cúis a d’fhéadfadh a bheith le droch-ghoil: fiacla tinn nó cíor fiacla scaoilte, cógais nua, dúlagar, constipation, níos lú gníomhaíochta, nó athruithe ar bhlas agus ar bholadh. Inis do dhochtúir an duine faoi aon cheann de na comharthaí seo. Is féidir leo cúis a lorg agus b’fhéidir diaitéiteach nó forlíonta a mholadh.
 
-## How can you help someone eat and drink enough?
+## Conas is féidir leat cabhrú le duine a ndóthain a ithe agus a ól?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Tairg béilí beaga agus sneaiceanna go minic**, seachas trí bhéile mhóra.
+- **Cuir bia is fearr leo ar fáil**, agus bí solúbtha de réir mar a athraíonn blasanna. D’fhéadfadh fáilte a bheith roimh bhia milis má tá an goile lag; fiafraigh den dochtúir an bhfuil cúiseanna sláinte ann chun siúcra a theorannú.
+- **Coinnigh deochanna in aice láimhe** agus tairg cupáin bheaga i rith an lae. Áirítear anraithí, torthaí, smúitithe agus croitheadh bainne freisin.
+- **Ith le chéile** nuair is féidir leat. Is deis chompanachais iad béilí, ní tasc le déanamh de réir deifir.
+- **Bain triail as bia méire**, mar shampla ceapairí, slisní torthaí nó píosaí sicín, má tá sé deacair acra a úsáid.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Tá tuilleadh smaointe béile inár [dtreoir bia](/brain-health/diet/). Is féidir le cabhrú le bia a ullmhú a bheith ina ghníomhaíocht thaitneamhach chomhroinnte freisin; féach [tascanna tí](/activities/household-tasks/).
 
-## Talk with a doctor
+## Labhair le dochtúir
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Sula ndéanann tú iarracht ar phlean troscadh ar bith duit féin, labhair le do dhochtúir nó le diaitéiteach cláraithe, go háirithe má thógann tú cógais le haghaidh diaibéitis nó brú fola, má chaill tú meáchan le déanaí, nó má thit tú. I gcás duine atá ag maireachtáil le néaltrú, fiafraigh dá ndochtúir faoin méid ar cheart dóibh a ithe agus a ól gach lá, seachas faoi throscadh.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Faigh cabhair leighis phráinneach má thagann mearbhall tobann, laige nó comharthaí siúcra fola an-íseal nach bhfeabhsaíonn go tapa.

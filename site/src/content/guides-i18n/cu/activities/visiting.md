@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Посѣщениѥ чловѣка съ помѧтьнымъ недѫгомъ"
+seoTitle: "Посѣщениѥ чловѣка съ помѧтьнымъ недѫгомъ"
+description: "Како посѣтити чловѣка съ помѧтьнымъ недѫгомъ въ домоу попечениꙗ или больници: чьто принести, простиꙗ дѣла, кротьци посѣщениꙗ и тихоѥ отъшьствиѥ."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Ѥгда посѣщаѥши чловѣка съ помѧтьнымъ недѫгомъ въ домоу попечениꙗ или
+  больници, дѣлаи просто: нарьци своѥ имѧ пришьдъ, принеси нѣчьто обьщеѥ,
+  ꙗкоже фотограѳиꙗ, пѣсни или любимоѥ ꙗдениѥ, и сътвори ѥдино легкоѥ дѣло
+  въкоупѣ. Кротьци и чѧсти посѣщениꙗ часто бываѭтъ лоучьша дългъихъ и
+  рѣдъкъихъ. Оуготови тихъ и ѥдинъ образъ прощаниꙗ, да отъшьствиѥ бѫдетъ
+  легьче обѣма.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Привѣтаи чловѣка именьмь и рьци, къто ѥси, да не трѫдитъ сѧ домышлꙗти: „Здрава, мати, азъ ѥсмь Соусанъ, дъщи твоꙗ.“"
+  - "Принеси ѥдино или дъва обьщаꙗ нѣчьта, ꙗкоже съборъ фотограѳии, любимаꙗ пѣсни, мѧкъкоѥ одѣꙗло или ꙗдениѥ, ѥже слоугꙑ одобрили сѫтъ."
+  - "Кротьци и чѧсти посѣщениꙗ часто бываѭтъ лоучьша дългъихъ и рѣдъкъихъ. Твоѥ присѫтствиѥ иматъ боле силы, неже словеса твоꙗ."
+  - "Въ больници дажь слоугамъ листъ о чловѣцѣ и повѣжь врaчоу абиѥ о вьсꙗкои внезапьнѣи измѣнѣ."
+  - "Оуготови отъшьствиѥ: рьци, колико можеши прѣбыти, оупотрѣблꙗи тъжде образъ прощаниꙗ и отиди не мѣдлѧ."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Чьто подобаѥтъ принести, посѣщаѭщоу чловѣка съ помѧтьнымъ недѫгомъ?"
+    a: "Принеси нѣчьто обьщеѥ, а не нѣчьто, о немьже подобаѥтъ бесѣдовати. Малъ съборъ фотограѳии, съборъ любъихъ пѣснии, мѧкъкоѥ одѣꙗло, масть за рѫцѣ, книжька о старѣмъ оубавлении или ꙗдениѥ, ѥже слоугꙑ одобрили сѫтъ, добро сѫтъ. Въ домоу попечениꙗ родьнъꙗ фотограѳиꙗ и знаѥмъꙗ вещи могѫтъ сътворити храминѫ боле домашьнѫ."
+  - q: "Колико врѣмене подобаѥтъ прѣбыти, посѣщаѭщоу чловѣка съ помѧтьнымъ недѫгомъ?"
+    a: "Нѣстъ ѥдиного праваго врѣмене. Мънози роди обрѣтаѭтъ, ꙗко кротьци и чѧсти посѣщениꙗ бываѭтъ лоучьша дългъихъ и рѣдъкъихъ, понеже чловѣкъ можетъ скоро оутроудити сѧ и можетъ не помьнѣти, колико прѣбылъ ѥси. Сьмотри знамениꙗ оутроуждениꙗ и отиди, доньдеже посѣщениѥ ѥще добро ѥстъ."
+  - q: "Чьто рещи, ѥгда проситъ ити домови?"
+    a: "Отъвѣщаи чоувьствоу, а не словесемъ. „Хощѫ ити домови“ часто значитъ „Не чоуѭ сѧ покоиьно или безбѣдьно.“ Покоушаи сѧ рещи: „Повѣжь ми о твоѥмь домоу“, сьмотри фотограѳиꙗ въкоупѣ или предложи проходъ или ꙗдениѥ. Прѣниѥ или изꙗснениѥ, почьто не можетъ отити, обꙑчно приноситъ боле трѫда."
+  - q: "Чьто, аще не познаѥтъ мене?"
+    a: "Се можетъ болѣти, нъ не покоушаи сѧ исправити ѥго или въпрашати: „Не вѣси ли, къто ѥсмь азъ?“ Нарьци сѧ тихо и просто и наслади сѧ врѣменемь въкоупѣ. Мънози чловѣци ѥще радоуѭтъ сѧ обьщению и чоуѭтъ теплотѫ посѣщениꙗ, аще и не могѫтъ помьнѣти, къто ѥси."
+  - q: "Како могѫ помошти въ врѣмѧ прѣбываниꙗ въ больници?"
+    a: "Бѫди съ чловѣкомь, ѥгда можеши, помагаи ѥмоу ꙗсти и пити и принеси знаѥмъꙗ вещи, ꙗкоже фотограѳиꙗ. Дажь слоугамъ листъ съ обꙑчаѥмь ѥго, любъимь именьмь, любленъими и нелюбленъими вещьми и знамении болѣзни. Повѣжь врaчоу абиѥ, аще чловѣкъ ꙗвитъ сѧ внезапоу горе или инакъ, понеже внезапьноѥ съмѧтениѥ можетъ быти знамениѥмь тѣлесьнаго недѫга."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Посѣщениѥ любимаго чловѣка въ домоу попечениꙗ о памѧти, въ домоу за старъꙗ или въ больници можетъ въздвигнѫти мъногъꙗ чоувьства. Можеши помышлꙗти, чьто рещи, чьто принести или аще посѣщениѥ иматъ нѣкоѥ житиѥ, аще чловѣкъ не помьнитъ ѥго. Оно иматъ житиѥ. National Institute on Aging поминаѥтъ, ꙗко чловѣци съ болѣзниѭ Альцгaимера [чѧсто радоуѭтъ сѧ обьщению](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), аще и не помьнѧтъ, къто ѥстъ посѣтитель. Си страница даѥтъ простъꙗ стѫпьки прѣжде посѣщениꙗ, въ врѣмѧ ѥго и по нѥмь, и таче съвѣтꙑ о прѣбывании въ больници.
 
-## How do I get ready for a visit?
+## Како оуготовити сѧ на посѣщениѥ?
 
-A little planning makes the visit easier for both of you.
+Малоѥ оуготовлениѥ творитъ посѣщениѥ легьче обѣма.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Избери доброѥ врѣмѧ.** Dementia Australia съвѣтитъ посѣщати, ѥгда чловѣкъ обꙑчно боле бьдръ ѥстъ, ꙗже оу мъногъихъ бываѥтъ заоутра или о полоудьни. Family Caregiver Alliance съвѣтитъ оувѣдѣти чинъ дома и посѣщати въ [врѣмѧ свободы, а не врѣмѧ дѣꙗнии](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Въпроси слоугꙑ.** Въпроси, како чловѣкъ былъ дьньсь, и оувѣжь правила о ꙗдении, животьнъихъ или исходѣхъ.
+- **Приготови малѫ мѣшьницѫ за посѣщениѥ.** Довълѣѥтъ ѥдино или дъва нѣчьта обьщаꙗ (вижь спісъкъ ниже).
+- **Оуготови нѣколико бесѣдъ.** Чловѣкъ можетъ не имѣти новинъ, тѣмьже принеси своꙗ: родьнъꙗ вѣсти, врѣмѧ, игрѫ, веселѫ повѣсть.
+- **Положи свои чaꙗниꙗ.** Нѣкотораꙗ посѣщениꙗ бѫдѫтъ тепла и бесѣдьлива. Ина бѫдѫтъ тиха или трѫдьна. Обоѥ ѥста обꙑчьна.
 
-## What should I bring?
+## Чьто подобаѥтъ принести?
 
-Bring things to share, not things that test. Good choices include:
+Принеси вещи обьщъꙗ, а не вещи, ꙗже искоушаѭтъ. Добри избори сѫтъ:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Малъ съборъ фотограѳии** съ великъими и ꙗвьнъими образꙑ. Подпиши ꙗ съзади за слоугꙑ.
+- **Съборъ пѣснии** любъихъ пѣснии на телефонѣ, съ простъими слоуховникꙑ или малъмь гласникомь.
+- **Нѣчьто мѧкъкоѥ за дрьжаниѥ,** ꙗкоже знаѥмоѥ одѣꙗло, платъ или свита.
+- **Масть за рѫцѣ** за тихоѥ помазаниѥ рѫкоу, аще чловѣкъ любитъ прикоснѫтиѥ.
+- **Книжька или книга съ образы** о старѣмь оубавлении, ꙗкоже садовьство, кола, птицѧ или варениѥ.
+- **Любимоѥ ꙗдениѥ,** аще слоугꙑ рекѫтъ, ꙗко безбѣдьно ѥстъ.
+- **Знаѥмъꙗ вещи за храминѫ.** Family Caregiver Alliance съвѣтитъ цвѣтꙑ, растениꙗ, родьнъꙗ фотограѳиꙗ и образы, или великъ плакатъ съ родьнъими фотограѳиꙗми отъ прѣжьнꙗго врѣмене.
+- **Плочицѫ,** да сьмотрита родьнъꙗ фотограѳиꙗ или играѥта тихѫ игрѫ въкоупѣ.
 
-## What can we do together during a visit?
+## Чьто можемъ творити въкоупѣ въ врѣмѧ посѣщениꙗ?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Обьщеѥ дѣло отъиметъ тѧгость отъ бесѣдꙑ. Dementia Australia съвѣтитъ сьмотрѣниѥ фотограѳии, легкоѥ рѫкодѣлиѥ, саждениѥ растении, пѣсни, обьщеѥ ꙗдениѥ или проходъ окрьстъ. Ини помысли:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Сьмотри фотограѳиꙗ.** Покажи, чьто видиши: „Вижь тѫ шлѧпѫ.“ „Се брѣгъ красенъ ѥстъ.“ Остави чловѣкоу водити. Не въпрашаи: „Къто се ѥстъ?“
+2. **Поѥте пѣсни.** Знаѥмъꙗ пѣсни могѫтъ въздвигнѫти доухъ и дати обьщь часъ, аще и бесѣда трѫдьна ѥстъ.
+3. **Сътвори кротъкъ проходъ.** Family Caregiver Alliance съвѣтитъ ходити по домоу, паче въ садоу, аще ѥстъ. Проходъ на колесьнѣмь сѣдалищи таче добро ѥстъ.
+4. **Помажи рѫцѣ.** Мало масти и тихъꙗ движениꙗ по рѫкама могѫтъ оуспокоити.
+5. **Помози въ оукрашении.** Dementia Australia поминаѥтъ чешаниѥ власъ, крашениѥ ногътии или помошть въ любъимоѥ одѣꙗниѥ, аще чловѣкъ то любитъ.
+6. **Играи простѫ игрѫ.** Family Caregiver Alliance съвѣтитъ картꙑ, костъки или то, въ чьто чловѣкъ прѣжде игралъ. На плочици [Picture Pairs](/games/picture-pairs/) можетъ сѧ играти съ видимъими образы и безъ врѣмене. [Photo Pairs](/games/photo-pairs/) творитъ отъ избьранъихъ тобоѭ фотограѳии игрѫ съподоблениꙗ, и фотограѳиꙗ прѣбываѭтъ въ твоѥмь прѣглѧдьницѣ.
+7. **Сьмотри нѣчьто въкоупѣ.** Family Caregiver Alliance съвѣтитъ веселъꙗ и старъꙗ кинъꙗ. Аще чловѣкъ не можетъ слѣдовати повѣсти, можета сѣдѣти близъ и дѣлити врѣмѧ.
+8. **Чьти въслоухъ.** Кротъко стихотворениѥ, любъимъ отъръвъкъ или посъланiѥ отъ родьна.
+9. **Просто сѣдита въкоупѣ.** Дрьжати рѫкѫ или сѣдѣти тихо ѥстъ истиньноѥ посѣщениѥ. Alzheimer's Association поминаѥтъ, ꙗко добро ѥстъ не вѣдѣти, чьто рещи, и ꙗко твоѥ присѫтствiѥ иматъ наиболе силы.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) могѫтъ помошти, ѥгда не имаши словесъ. Кажьда карта иматъ образъ и отворенъ въпросъ.
 
-## How should I talk during the visit?
+## Како подобаѥтъ бесѣдовати въ врѣмѧ посѣщениꙗ?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Нарци сѧ на вьсꙗко посѣщениѥ.** „Здравъ, отьче, азъ ѥсмь Маркъ, сынъ твои.“ NIA съвѣтитъ посѣтителемъ кротъко нарещи сѧ, да начьнѫтъ бесѣдѫ.
+- **Пристѫпи съ прѣда** и сѧди въ ровьни очесъ.
+- **Не исправлꙗи и не прѣри.** NIA съвѣтитъ посѣтителемъ не исправлꙗти чловѣка, аще съгрѣшитъ или забѫдетъ нѣчьто.
+- **Бѫди тръпѣливъ,** ѥгда словеса трѫдьно обрѣтаѭтъ сѧ. Дажь мъного врѣмене.
+- **Отъвѣщаи чоувьствомъ.** Аще чловѣкъ ꙗвитъ сѧ печаленъ или трѫжьнъ, познаи то прѣжде измѣнениꙗ бесѣдꙑ.
+- **Не въпрашаи искоушаѭщихъ въпросъ,** ꙗкоже „Помьниши ли мѧ?“ или „Чьто ꙗлъ ѥси въ полоудьнe?“
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Вижь нашꙗ [съвѣтꙑ о бесѣдѣ](/caregiving/communication-tips/) за боле.
 
-## What do I do when they say "I want to go home"?
+## Чьто творити, ѥгда речетъ: „Хощѫ ити домови“?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Отъвѣщаи чоувьствоу за словесꙑ (наше наставлениѥ [ѥгда чловѣкъ чѧсто проситъ ити домови](/caregiving/asking-to-go-home/) даѥтъ боле). Family Caregiver Alliance изꙗснꙗѥтъ, ꙗко „Хощѫ ити домови“ обꙑчно ѥстъ образъ рещи „Не чоуѭ сѧ покоиьно“, и съвѣтитъ отъвѣтꙑ, ꙗкоже „Повѣжь ми о твоѥмь домоу“ или „Чьто наилюбе въ твоѥмь домоу?“ Dementia Australia прилагаѥтъ, ꙗко „домъ“ можетъ значити врѣмѧ или мѣсто, идеже чловѣкъ чоувьствовалъ сѧ безбѣдьно, ꙗкоже дѣтьство.
 
-Try:
+Покоушаи сѧ:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- познати чоувьство: „Слꙑшитъ сѧ, ꙗко жалѣѥши домоу.“
+- дати оутѣхѫ прикоснѫтиѥмь, аще приѥтьно ѥстъ
+- сьмотрѣти фотограѳиꙗ или бесѣдовати о родьнѣмь домоу
+- предложити проходъ, питиѥ или ꙗдениѥ
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Не прѣри и не изꙗснꙗи, почьто не можетъ отити. То рѣдъко помагаѥтъ и чѧсто приноситъ боле трѫда.
 
-## How long should a visit be?
+## Колико длъго подобаѥтъ быти посѣщениѥ?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Кротька и чѧста посѣщениꙗ чѧсто бываѭтъ лоучьша. Family Caregiver Alliance поминаѥтъ, ꙗко чловѣкъ обꙑчно не помьнитъ, аще прѣбылъ ѥси пѧть минѫтъ или пѧть часъ, и съвѣтитъ, ꙗко три кротька посѣщениꙗ въ седмицѫ могѫтъ быти лоучьша ѥдиного дългаго. Dementia Australia глаголѥтъ, ꙗко нѣстъ праваго числа посѣщении или праваго длъготы.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Въ пръвъихъ седмицахъ по прѣселении въ домъ попечениꙗ о памѧти Family Caregiver Alliance съвѣтитъ посѣщати чѧсто, потомь тихо оустроити сѧ въ чинъ. Въпроси слоугꙑ, чьто видѧтъ.
 
-## How do I leave without upsetting them?
+## Како отити, не съмѫтивъше ѥго?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Отъшьствиѥ можетъ быти наитрѫдьнѣиша часть. Dementia Australia съвѣтитъ:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Рьци, колико можеши прѣбыти, ѥгда придеши.** „Могѫ прѣбыти часъ, потомь идѫ къ коуплꙗмъ.“
+- **Оупотрѣби дѣло ꙗко ѥстьствьнъ коньць.** „Ѥгда съконьчаѥмъ си пѣснь, отидѫ.“
+- **Съгласи врѣмѧ съ ꙗдениѥмь или дѣꙗниѥмь,** или попроси слоугꙑ помошти чловѣкоу прѣити къ иномоу дѣлоу.
+- **Сътвори прощаниѥ кротъко и тъжде на вьсꙗко врѣмѧ.** Мѣдлениѥ, извинениꙗ или прѣбываниѥ „ѥще мало“ могѫтъ сътворити бѫдѫщаꙗ прощаниꙗ трѫдьнѣиша.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+По твоѥмь отъшьствии обꙑчно ѥстъ чоути печаль. Дажь себѣ покои. Аще чловѣкъ съмѫти сѧ, слоугꙑ обꙑчно могѫтъ помошти ѥмоу оуспокоити сѧ скоро.
 
-## Visiting someone with dementia in the hospital
+## Посѣщениѥ чловѣка съ помѧтьнымъ недѫгомъ въ больници
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Больница ѥстъ шоумьна, незнаѥма и пльна чоуждихъ, ѥже можетъ быти велми трѫдьно чловѣкоу, живѫщоу съ помѧтьнымъ недѫгомъ. Наставлениѥ NIA [о ведении чловѣка съ болѣзниѭ Альцгaимера въ больницѫ](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) съвѣтитъ:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Нѣкъто да прѣбываѥтъ съ чловѣкомь** колико можетъ: родьнъ, вѣрьнъ дроугъ или наꙗтъ попечитель.
+- **Дажь слоугамъ листъ о чловѣцѣ** съ обꙑчаѥмь ѥго, любъимь именьмь, любленъими и нелюбленъими вещьми, возможьнъими въинaми съмѧтениꙗ и безъсловесънъими знамении болѣзни. Положи преписъꙗ въ храминѣ и оу мѣста слоугъ.
+- **Помагаи въ ꙗдении и питии.** Стари чловѣци могѫтъ лишити сѧ пиштѧ въ больници. Отвори съсѫдꙑ, помагаи въ ꙗдении, ꙗжьте въкоупѣ и предлагаи питиѥ.
+- **Принеси оутѣшьнъꙗ вещи,** ꙗкоже фотограѳиꙗ или доуховьнъꙗ вещи.
+- **Оумали шоумъ.** Оугаси видѣниѥ и оумали гласъ телефонъ и възглашении.
+- **Покоушаи сѧ оуспокоꙗщихъ обꙑчаѥвъ,** ꙗкоже тихаꙗ пѣсни, чьтениѥ, молитва, пѣниѥ или сьмотрѣниѥ старъихъ образъ.
+- **Поощрꙗи движениѥ** колико безбѣдьно ѥстъ, съ одобрениѥмь слоугъ.
+- **Повѣжь врaчоу абиѥ, аще чловѣкъ ꙗвитъ сѧ внезапоу горе или инакъ.** NIA изꙗснꙗѥтъ, ꙗко внезапьноѥ тѧжькоѥ съмѧтениѥ, нареченоѥ делириѥмь, можетъ быти отъ недѫгъ, ꙗкоже зараза, огнь, безводиѥ или дѣиствиꙗ лѣкъ, и трѣбоуѥтъ врaчьскъꙗ помошти.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Кротъкоѥ и тихоѥ посѣщениѥ съ знаѥмъмь лицемь и любъимоѭ пѣсниѭ можетъ быти наиоутѣшьнѣиша часть дьне въ больници.
 
-## Bringing children on a visit
+## Водити дѣти на посѣщениѥ
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Дѣти могѫтъ принести мъного теплоты. Оуготови ꙗ прѣжде простъими и правъими словесꙑ, сътвори посѣщениѥ кротъко и дажь имъ дѣло, ꙗкоже показати образъ или подати фотограѳиѭ. NIA съвѣтитъ, ꙗко дѣти и чловѣци съ болѣзниѭ Альцгaимера могѫтъ радовати сѧ простъимъ дѣломъ въкоупѣ, ꙗкоже сьмотрѣниѥ събора фотограѳии или слоушаниѥ пѣснии. Dementia Australia съвѣтитъ приготовити малѫ мѣшьницѫ съ тихъими вещьми, да малъꙗ дѣти имѫтъ чимь занꙗти сѧ.
 
-## Take care of yourself too
+## Попеци сѧ и о себѣ
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Посѣщениꙗ могѫтъ быти оутомьна и испльнь чоувьствъ, паче аще чловѣкъ мъного измѣни сѧ. Добро ѥстъ посѣщати рѣже, аще трѣбоуѥши, вести дроуга за подъпорѫ или отити рано въ трѫдьнъ дьнь. За помысли о попечении о себѣ вижь [попечениѥ о себѣ за попечителꙗ](/caregiving/caregiver-self-care/). Аще живеши далече, вижь наше наставлениѥ о [телефоньнъихъ и видѣниѥвъихъ бесѣдахъ](/activities/phone-and-video-calls/).

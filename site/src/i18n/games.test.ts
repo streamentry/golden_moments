@@ -21,6 +21,10 @@ describe('which games a language offers', () => {
   it('still leaves the word search out where a letter grid does not suit the script', () => {
     for (const code of NO_LETTER_GRID) expect(gameAvailable('word-search', code), code).toBe(false);
   });
+
+  it('leaves the word search out when a translation lacks enough usable words', () => {
+    for (const code of ['pi', 'sa']) expect(gameAvailable('word-search', code), code).toBe(false);
+  });
 });
 
 describe('game translation source', () => {

@@ -1,33 +1,38 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Katerisimaani suleqatigiillutik: Ilitsersuut"
+seoTitle: "Katerisimaaniqatigiiffiit: Bingo, erinarsuut"
+description: "Katerisimaani suleqatigiilluni suliat maanna isumalluutiginnittoqarneqarlutik isumaginninneqartunut, najugaqartunut ullup ingerlanerani ingerlatserfinnullu: assilinnik bingo, erinarsorneq eqqaaniaanermillu."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Maanna isumalluutiginnittoqarneranik nalusartunik isumaginninni ullullu
+  ingerlanerani ingerlatserfinniluunniit katerisimaani suleqatigiinneqartut
+  pitsaallu naappallapput, ilisarisimasarput aamma nakkutilliisoqarneq
+  ajornanngippat: assilinnik bingo, erinarsorneq, eqqaaniaanermut
+  ataatsimoorluni oqaloqatigiinneq, annikitsumik nukissutigineqartarneq aamma
+  oqaatsinik ataatsimoorluni ataatsimoorluni pinngortitsisoq. Katerisimaniittut
+  amerlassusaannik ikittuinnarmik ilannguttussanngortikkit, tamarmik takusinnaasumik
+  tusarnaarsinnaasumillu issiasinnaaqqullugit, siulersuisoq ataaseq
+  sukkassuseqarluinnartumik nassuiaasaarlugu, kiisalu inunnut tamannut
+  annerusumik ajornannginnersumik peqataasinnaasumik inissaq qasuersinnaasumillu
+  aalisinnaasumik sinaakkusiigit.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Katerisimaniittut amerlassusaannik ikittuinnarmik ingerlatsinerit angisunit ataatsimoorluni peqataaneqartarnernit iluaqutaasinnaasarput, amerlanernillu pitsaasumik peqataasinnaatitaapput isigisaanermut."
+  - "Inuit kaaviartumik imaluunniit horseshoe-tut inissikkit, siulersuisup qanittumi, tusarnaarsinnaanermik takusinnaanermillu pisariaqartitsinernik eqaarsaaffiginnilluni nipi akerlilersinnaasoq peerneqarsimasoqassasoq."
+  - "Suliat ataasiakkaat marluk pingasulluunniit pisinnaatitaaffiit pilersaarutigikkit, inunnik assigiinngitsunik pisinnaatitaaffeqartunik tamarmik peqataasinnaaqqullugit."
+  - "Apeqqutit, nalunaarsorneqarneq ajugaasutillu atorsinnaanngilat. Assilinnik bingo taava katerisimaniittut tamarmik kaarternik immersorneqartumik naammassisinnaavaat."
+  - "Siusinnaanngippat aallarneq, isiginnaqqarneq imaluunniit sinittarnerujunneq ajorunnaapput. Inuk sulisussaq aaqqissuussaasoq piareersimasassaaq inunnik nipaarnerusunik inissaq kissaatiginnittunik."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Maanna isumallutiginnittoqarneranik nalusartunik katerisimaani suleqatigiilluni amerlassusaat qaffiussappat?"
+    a: "Ataaseq akuerisaqartussaanngilaq, tamannalu najugaqartunut, inissaq sulisussanullu amerlassusaannut tunngavoq. Suliniaqatigiiffiit amerlasuut misigisimaneratigut katerisimaniittut amerlassusaannik ikittuinnarmik tamanut takusinnaaneq, tusarnaaneq peqataaneq aammalu ajornannginnerulersinnaasarlugu, inissaq angisorlu ataasiakkaat amerlanernik isiginnaatitsisinnaasarput. Inissaq angisorlu ataatsimoorluni aaqqissuussagukku, sulisunik kajumissutsiminnillu ikittunik najugaqartunut akunnerminginni issiasartunik tapersersortissallutit."
+  - q: "Katerisimaniittut tunngatillugu pisinnaatitaaffiit assigiinngitsorujussuit qanoq aaqqissuussavarpara?"
+    a: "Suliat ataasiakkaat assigiinngitsunik ilaasinnaasunut pilersaarusiortariaqarpit. Erinarsornerni ilaat oqaatsit tamarmik erinarsorsinnaavaat, ilaat assaatimik pattalaarlutik imaluunniit nipilersorlutik, ilaat allallu shaker nassataasumik tigummisinnaavaat. Assilinnik bingomi ilaat assitik nammineq nanisinnaavaat, allallu ikiortimik tikkuussisitsisinnaapput. Inunnut annerusumik ikiortitsinermik pisariaqartitsisunut suleqataasoq imaluunniit kajumissutsiminnik ikiortaq saniani inissitsigit."
+  - q: "Assilinnik bingo qanoq akunnatsitsitsinngitsumik assigiinngitsorujussuarnik malittarisassaanngitsumik aaqqissuussavarpara?"
+    a: "Asseq ataatsimut tamarmik kaartertik immersorneqartumik naammassisillugit suussutsigikkit, taamaasilluni arlaannaannaq qimanneqaqqanngilaq. Asseq ataasiakkaat saqqummiunneqarnerani oqaloqatigiinnerlugulu, ajugaasunullu iluaqutissat immikkut tunniunnearnissaat unitsikkit imaluunniit tamanut assingusumik pitsaannermik tunniussigit. Erseqqissaatit ataatsimoorluni isummanik tigusinnaaneq oqaloqatigiinnerlu, suut kingorna naammassisimanerat aallannavoq."
+  - q: "Spillit illersornikkut angisumi ataatsimoorluni takutinneqarajarpigit?"
+    a: "Aap. Spillit quppernermi paasissutissiisarfiusumi ingerlasarput, taamaalilluni TV-mut imaluunniit projektorimut attaveqaqatilluni laptop-imi imaluunniit tablet-imi ammasinnaavatit. Assilinnik bingo-imi kaarterit naqikkat takussutissartullu saqqummersitaq harimoqarput. Oqaaseq Naammassiuk aamma Assit Naligiissillugit angisumi takussutissartumillu iluaqutaasinnaapput, ataatsimik katerisimaniittut sinnerlugit toortartoqarnissaa."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +57,134 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Una ilitsersuut sulinermi aqutsisunut, maanna isumallutiginnittoqarneranik nalusartunik isumaginninni suleqataasunut ullullu ingerlanerani ingerlatserfinnik aqutsisunut tunngavoq. Katerisimaani suliat iluatsittartut, inissaq aaqqissuussaanera, suliat ataasiakkaat imminut pisinnaatitaaffeqartut assigiinngitsut nutserutikkit, kiisalu kaarterit naqikkat bingo-mut takussutissartullu angisumi spillit qanoq atorsinnaanerat sammineqarput. Tamanna tamaat ersarissumik, attaveqarnikkut aammalu toqqaasinnaaneq pilluguuuvoq. Uani suliat misileraanermut atorneqartaatinngillat.
 
-## What makes a group activity work in memory care?
+## Katerisimaani suleqatigiilluni suliat maanna isumallutiginnittoqarneranik nalusartunik isumaginninni iluatsissappat?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Suleqatigiiffik pitsaasoq ilisarisimasuuvoq, sivisuunngitsoq, nakkutilliisoqarneq ajornanngitsoq aammalu nikisitsitsisartoq. Alzheimer's Association-ip [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf)-imi erseqqissaavoq ilaasinnaaneq pingaaruteqartoq inummut soqutigisai aammalu kissaatiginerai ikorfartorlugit, aammalu toqqaanissaq iluatsinnissarlu periarfissaqarfigissallugit, maanna isumallutiginnittoqarneranut allaanerusoq naak annerusumik.
 
-That points to a few practical rules:
+Allakkap taanna nassuiaavai, suliat nalinginnaasut ulluni ataasiakkaani angisunik ataatsimoorluni marloriaaseqartarlutik ingerlattarnerat nalinginnaasoq, najugaqartullu amerlasuut paasiveersaalluni ilannguttarnertik.
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+Tamanna malittarisassat annikitsuit pingaarutillit erseqqissaavai:
 
-## How big should the group be?
+- **Ilisarisimasat nutaanik pitsaanerupput.** Erinarsuutit, oqaluttuatoqqat, assit aammalu pigisat najugaqartup inuusuttuallermini ilisimasaasa ilannguttarnerat ajornannginnerusarpoq.
+- **Sivisuunngitsut sivisuunit pitsaanerupput.** Siunnersuutiguk ataasiakkaat qanoq sivisutigisumik isumakuluuteqarniarnerat nalinginnaasumik, akornanilu unitsitsinissamut periarfissaqalersitsillutit.
+- **Suliarneq isiginnaarnernit pitsaaneruvoq.** Inunnut ataasiakkaanut tigumiaqassaaq, toortarneq, toqqaarneq imaluunniit oqaatigineqartoqartillugu.
+- **Ataatsimi assigiinngitsunik sullissinnaaneq.** Annertusisumillu ajornannginnerusimillumillu ilaasinnaasunut pilersaarusiorsinnaavutit.
+- **Ajugaasartoqanngilaq, nalunaarsorneqanngillunilu.** Akunnatsitsineq ilaat ajortutut misigilersitsisinnaavai.
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+## Katerisimaniittut qaffiusussappat?
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Amerlassusaannik ikittuinnarmik amerlanertigut ajornannginnerusarpoq. Alzheimer's Association erseqqissaavoq inuk angisunik ataatsimoorluni kattuffimmi annikinnerusumi pingaaruteqarluartumik attaveqarsinnaasoq angisuni immikkut ajornartorsiornerluni misigisarpat. Kisitsit ataaseq eqquuttuunnaqartoqanngilaq. Najugaqartunut, inissamut aammalu sulisunut kajumissutsiminnillu ikiortunut amerlassusaannut tunngavoq.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Misileraanermik atorneqarsinnaasoq: Inuk ataasiakkaaq siulersuisup kinaa takusinnaavaa, tusarnaarluinnaasumik tusarnaasinnaavaa aammalu ikiorteqarfissaq seconds-iluinnarni tikinneqarajuarpa? Ajorpatta, ataatsimoorluni katerisimaniittut agguakkit, ikioqqissaartartitsigit, imaluunniit inissaq minnerusoq toqqaruk.
 
-## How should I set up the room and seating?
+Ataatsimoorluni angisuni, soorlu ullorsiutinut erinarsorneqarnerni, sulisunik kajumissutsiminnillu najugaqartunut akunnerminginni issiasitsikkit, natermut sanianiittarnagit.
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+## Inissaq issiasaanera qanoq aaqqissuussavara?
 
-## Group activity ideas
+- **Kaaviartumik imaluunniit horseshoe-tut.** Siunnersuutip nassuiaavai ataatsimoorluni kaaviarnermi issiasat ataatsimoorluni agguaqatigiissinnaasut anguniarneqarnerusartut, nipi akerlilersinnaasoqartoqanngitsoq.
+- **Siulersuisoq qanittumi aammalu isikkivinnut naleqqiullugu.** Pisariaqarnanga nikorfarlugu issiasinnaavutit.
+- **Tusarnaaneq takusinnerlu siullersaat.** Tusarnaarnermi ajornartorsiuteqartut siulersuisup qanittumukaat, tusarnaarnermi qanoqinnerusumi. Isikkuaatit tusarnaartitsutinik atortut tamarmik atorneqararsimasut qulakkeeruk. Alzheimer's Association erseqqissaavoq isiginnaarnermik tusarnaarnermillu ajornartorsiutit attaveqarnissamut ajornartorsiutitsisinnaasut.
+- **Qaammat najugaqartunit kingornatigut, illinnit sanianngitsoq.** Inuk igalaasaq qaamannilluunniit iserfissaq qaammaqatigiissillugu issiasinneqassanngitsoq.
+- **TV aamma radio qaminngakkit.** Alzheimer's Association ingerlatseqartarpoq nipimik akerlilersitsisinnaasoq ersarilleruk erinarsornerup nalaani.
+- **Ataatsikkut oqaaseqarnissaa.** Nipit assigiinngitsut imminnut akerliusut maanna isumallutiginnittoqarneranik nalusartunut tusarnaarnermillu ajornartorsiuteqartunut ajornakusoorput, Alzheimer’s Association-ip [ullorsiutit pillugit ilitsersuutaani](https://www.alz.org/help-support/caregiving/holidays) erseqqissaatigaa.
+- **Aniffissat ersarissasut nipaarnerusullu inissaq.** Kinaluunniit aallarusukkuni ajornanngitsumik aallarusinnaassaaq, suleqatamik peqarluni.
 
-### Picture bingo
+## Katerisimaani suleqatigiilluni suliat siunnersuutaat
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+### Assilinnik bingo
 
-**How to run it:**
+Assilinnik bingomi normut paarlaasseqatigiittartut assinik ersarissasunik taarserneqartarput, soorlu tii, qimmeq imaluunniit nuannaq, naatsorsuakkulluunniit sivisuunik malinnaanissaq imaluunniit allanik mikisunik atuakkanik atuarneq pisariaqarnagu.
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+**Qanoq ingerlanneqassanersoq:**
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+1. Inummut ataasiakkaanut kaartermik [Assilinnik bingo](/games/picture-bingo/)-mit naqikkat nassiussigit, naqittarnermik toortagaq atorlugu. Pappiaqqat pannerusut tigoriarnerusumik ajornannginnerusarput. Ataatsimut atorsinnaanngorlugit plastikimik qallerneqarsinnaavoq.
+2. Nalunaarsuutinik angisuunik tigoriarnerusumik ajornanngitsunik agguaqqissigit, soorlu poker-mik nutaaliaasunik, imerummik qalerutilinnik imaluunniit pap-mik killorneqartunik.
+3. Asseq TV-mi imaluunniit projektorimi saqqummersillugu qanoq taaneqartarnersoq saqqummiuk, tamarmik takusinnaaqqullugu.
+4. Asseq aaqqissuunnerani unitsitsineq sivikilliorlugu, oqaloqatigiinnerannik annikitsumik kajumissutsigissagit: "Qimmeq pillugu oqaluttuarusussaqarneqarpa?" imaluunniit "Uani suna maluginiarpiuk?"
+5. Kaarterit tamarmik immersorneqarlutik naammassisillugit suussuteqarniarit. Tamarmik naammassisarput.
 
-### Sing-alongs
+**Nutsersuut:** Pappiaqqat ikittuinnarnik imaqartunik atorlugit inunnut kaartermik immersorneqartumik amerlanerusumik annertoqaqarluni ajornartorsiuteqartunut. Ikiorteqartoq assi naapertuussasoq tikkuussinnaavaa ikiortariaqartumut. Ilaatigut assi saqqummiussaq tigummarlugu katerisimaniittunut takutikkusunnarsinnaavaat.
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+### Erinarsorneq
 
-**How to run it:**
+Eriarsorneq katerisimaani suliatut amerlasuut nuannarinerpaasa ilagaat. Alzheimer's Association erseqqissaavoq kingorna naammattoornerusumik inuk [pattalaarlunilu imaluunniit erinarsuut meeqqallermini ilisarisimasaa erinarsorsinnaallugu](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+**Qanoq atorneqassanersoq:**
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+- Erinarsuutit najugaqartut peroriartorneranni tusartarsimasaat toqqakkit, siulersuisup nammineq kissaatigisaasa pinnagit. Ilaqutariit aperikkit kina suna nuannarinerpaajuk.
+- Erinarsuutit saqqummiussinerup akornatigut nalunaarutinik akerlilersitsisinnaasunik atuinnarniakkit, Alzheimer’s Association nassuiaasoq taamaattunik paatsuungaqataarusinnaasoq.
+- Erinarsuutit oqaasii angisuunik allanneqarlutik naqikkit, atuarusuttut atorsinnaaqqullugit, kisiannili piumasaqaatinneqassanngillat.
+- Shaker-it, pattalaarutit aammalu scarf-it agguaqqissigit.
+- Pattalaarneq nuunneqarnerlu kajumissutsikkit, nipilu najoqqutaralugu.
 
-### Reminiscence groups
+**Nutsersuut:** Ilaatigut oqaatsit tamarmik erinarsorsinnaavaat, ilaat nipilersorlutik, ilaat isigamminnik pattalaarlutik, ilaat tusarnaannaq. Tamakku tamarmik pitsaasumik qanoq ittoq tamaasa ilanngullugit pissuseqarput. [Erinarsuut suliarisassanut ilitsersuut](/activities/music/) takujuk.
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+### Eqqaaniaanermut ataatsimoorluni oqaloqatigiinneq
 
-**How to run it:**
+Eqqaaniaanermut ataatsimoorluni oqaloqatigiinneq sammisassaq ataaseq tunngavigalugu ataatsimoorluni pilersinneqarpoq, soorlu atuarfik, biilit siulliit, igaffik imaluunniit aasat, assinik, pigisanik erinarsuutinillu atorlugu. Siunnersuut nuannersumik oqaloqatigiinneq, eqqaaniuteqartuarnissaq eqqorluinnarnagu.
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+**Qanoq ýerinekaarniarneqassanersoq:**
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+1. Sammisaq ataaseq toqqarlugu pigisat annikitsut inuit tigusinnaasaat aallaruk: mixer nassataasoq, baseball-imik tigummiaq, nasaasaq, imaluunniit naatitanik katalogi.
+2. Ataasiakkaasumik ingerlateqqikkit. Apeqqutit ammasut apeqqutaatigisigit: "Uuma pillugu oqaluttuarit," "Suna maluginiarpiuk?" "Kina uuma assinganik atuisarpa?"
+3. Akissut tamaasa ilalikkit. Ullut kisitsisaat imaluunniit eqqortuunngitsut aaqqiineqassanngillat.
+4. Oqalugiarneq nuannersunut eqqaanianut ingerlatseqqiuk. Siunnersuutip nassuiaavai isumaginnittut eqqaaniat nuannersut kajumissuteqarfiginiassammagit, aliasunnartunik kinguneqartitsisinnaasut pinnagit.
 
-### Finish the saying
+[Conversation Cards](/games/conversation-cards/) sammisassanik immikkoortunut agguataasut assilinnik kaarterinik naqikkanik ammasunik kajumissutsinik imaqarnik neqerooruteqarpoq, oqaloqatigiinnermut aallartitsisussatullu iluaqutaasinnaasut. Siunnersuutit amerlanerit [eqqaaniaanermut ilitsersuummi](/activities/reminiscence/) takuneqarsinnaapput.
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+### Oqaaseq naammassiuk
 
-### Large-print word search, together
+Oqaluttuatoqqat ilisarisimasat ("Aningaasaq toqqorneqartoq aningaasaq ...") tamanut ataatsimoorluni akissuteqarnissaq kajumissuteqarfigisarpaat. [Finish the Saying](/games/finish-the-saying/) takussutissartumi angisumi takutikkit, ataatsimoorlunilu akissuteqarniarligit. Oqaluttuatoqqat ataasiakkaat kingornatigut oqaloqatigiinnermut kajumissutaqarpoq. Akissuteqartoqanngippat, akissut takutikkit siullunilu. Eqqorluinnartoq imaluunniit kukkusumik akissuteqaqanngilaq.
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+### Oqaatsinik angisuunik ujaarlerneq, ataatsimoorluni
 
-### Gentle movement
+[Word Search](/games/word-search/) angisuunik allanneqartoq takussutissartumi angisumi saqqummersiguk, ataatsimoorlunilu oqaatsinik ujarligit, imaluunniit kaarterinik nassiffigisassarsiorlutit naqikkit, imminnut nittartakkani suliarusuttut atorsinnaaqqullugit. Oqaatsit talerpimmut aamma sammummut kisimik allanneqarput.
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+### Nukissutigineqartarneq aqunneqartoq
 
-### Sorting and matching at the table
+Issiarlutit nuunneqartarnerit, pualasunnguamik akerlilerneq, imaluunniit erinarsuutinik ilisarisimasanik najoqqutaralugit nuunneq. Tamanna naatsorsuutiginnarnagu, takutillugu ingerlatseqqiguk.
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+### Nittartakkami immikkoortiterineq naligiissinnerlu
 
-## How do I use your games on a big screen?
+Nittartakkat mikisut pingasunik sisamanilluunniit akornanni assinik, annoraanik nutsatanik imaluunniit saviutinik ataatsimoorluni immikkoortiterisinnaapput. Quppernermi, [Picture Pairs](/games/picture-pairs/) assit saqqummerfissaat aamma pitsaanerusumik ingerlanneqarsinnaavoq, ataatsimik toortartartoqarnikkut, nittartakkamilu assit ataasiakkaat oqaloqatigiissutigalugit.
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+## Spillit takussutissartumi angisumi qanoq atorsinnaavakka?
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+Spillit quppernermi paasissutissiisarfiusumi ingerlanneqarnerannut tunngatillugu TV-mi imaluunniit projektorimi atorneqarsinnaapput, allamik ikkussuinissaq pisariaqarnagu.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+1. Spillit laptop-imi imaluunniit tablet-imi ammaruk, tassaniittumit TV-mut attaveqaqatillugu imaluunniit wirelessly-tut ingerlatitseqqillugu.
+2. Qupperneq browser-imi angisinermik saqqummersiguk nipilu najoqqutaralugit.
+3. Siulersuisoq ataaseq toortarniassaaq, katerisimaniittullu akissutit nipituumik oqaatigisassavaat. Imminnulluunniit toortarusukkuni tablet-i inummut nassarsinnaavat.
+4. Katerisimaniittut unitsikkuminaatsikkut unitsissaatit. Spillit nalunaarsugassaqaratik, nalunaarsorneqanngillat aammalu unitsitsinneqanngillat.
 
-## How do I adapt one activity for mixed abilities?
+[Assilinnik bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) aammalu [Conversation Cards](/games/conversation-cards/) katerisimaani pitsaasumik atorneqarsinnaanerat nalinginnaavoq. Toqqagassat tamarmik [spillit qupperneranni](/games/) takuneqarsinnaapput.
 
-Plan at least three ways to join every activity.
+## Suliat ataaseq pisinnaatitaaffeqartut assigiinngitsunik qanoq naapertuutissavara?
 
-| Activity | More independent | Some support | Most support |
+Minnerpaamik pingasunik assigiinngitsunik suleqataasinnaasumik suliat tamaasa pilersaarutigikkit.
+
+| Suliaq | Namminerisamik annerusumik | Annermik ikiorneqarluni | Ikioqqinermut amerlanersumut |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Assilinnik bingo | Asseq nammineq nassaarlugu qalerlugulu | Ikiorteq tikkuuppoq; inuk qalerpoq | Asseq kaarterpoq tigummivaa; tusarnaalluni isigaluni |
+| Erinarsorneq | Erinarsorpoq, tulliani erinarsuut toqqarpaa | Nipilersorpoq, pattalaarpoq, shaker-mik atuisarluni | Tusarnaarpoq, scarf-i tigummivaa, assamini pattalaarpoq |
+| Eqqaaniaanermut | Oqaluttuassanik oqaluttuarpoq | Aap/naamik imaluunniit tikkuilluni akivoq | Pigisap tigummivaa misissueqqaarlugulu |
+| Oqaatsinik ujaasiineq | Namminermini naqinneqartumik suliarpoq | Ikiorteqarfissaq takussutissartumi angisumi ujarpoq | Oqaatsit atuarnermi tusarnaarluni |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Najugaqartunut kingusinnerusukkut qanoq inneranik, NHS erseqqissaavoq suliat amerlanertigut annikinnerusumik ilisarisimasariaqartarlutik, misissuinerni tamanut aamma misigisinnaasunut tunngassuteqarnerullutik, soorlu erinarsuut, pigisat misissueqqarnissamut massajillu assanut. Ataatsikkut piffissalik ataatsimoorluni suleqatiginerni kingornatigut imaluunniit akornanni pingaaruteqarnerusinnaavoq ataatsimoornernit. [Kingusinnerusukkut suliassat](/activities/late-stage/) takukkit.
 
-## How should leaders talk during a group?
+## Siulersuisut katerisimaani qanoq oqaluttuarisussapput?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Ataasiakkaasumik ilisarititsillutit, inullu ataasiakkaat qanoq taaneqartarusunnerat atorlugu.
+- Arrissut oqaluttuarit, ataaseq sukkassuseq nassuiaarlugu, oqalunnarnilli takutikkit.
+- Kajumissutigineqarlutik ammasumik apeqqusersuigit ("Uuma pillugu oqaluttuarit...") imaluunniit pisinnaatitaaffiit annikitsut, misilitsitsinngitsumillu apeqqutit apeqqutaatigisigit ("Eqqaamaviuk...?").
+- Aaqqissuinissaq unitsigit. Inummut ataasiakkaanut ilannguttuinermi qujavutit.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Tamanna pillugit paasisaqarnerorusukkuit, [attaveqaqatigiinnissamut siunnersuutit](/caregiving/communication-tips/) takukkit.
 
-## Ending well, and letting people leave
+## Pitsaanermik unitsitsineq, inullu aallarunik pisinnaatitsineq
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Unitsitsineq inerneruvoq pitsaaq. Inuk qaarusoq, nalunaaqutaqanngitsoq imaluunniit aliasuttoq malugiuk, ikiorteqarfillu pisuttuarneq imaluunniit inissaq nipaarnerusoq kissaatigilerlugu siunnersuutigisinnaalluni. Inuk erinarsornerni sinittarnerujussuaq nuannersumik misiginera pillugu taamaasinnaavoq.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Ataatsimoorluni ingerlaarnerit tamarmik assingusumik unitsikkit, erinarsuutimik ilisarisimasumik imaluunniit qujavummik, unitsitsineq eqqissisimanartoq misigisariaqarnagu. Kingunerisatigut allakkit suna iluatsimasoq, kinalu suna nuannarigaa. Tamakkununnga allakkanit tulliani ingerlaarnermi iluaqutissaqarlutik.

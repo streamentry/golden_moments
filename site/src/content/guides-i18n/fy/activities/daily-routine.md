@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "In sêft deistich ritme foar ien dy't mei demintens libbet"
+seoTitle: "Deistich ritme by demintens: in fleksibel foarbyld"
+description: "In fleksibele foarbylddei foar ien dy't mei demintens libbet, mei iten, aktiviteiten en rêst yn in fêst ritme, plus hoe't jo jo eigen plan meitsje."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  In sêft deistich ritme hâldt wekker wurden, iten, persoanlike fersoarging en
+  sliepetiid op sawat deselde tiden, pleatst de wichtichste aktiviteit op it
+  momint dat de persoan it meast wekker is, en bringt aktiviteit en rêst yn
+  lykwicht. Bou it op fanút de wensten dy't de persoan al in libben lang hat,
+  hâld it los yn stee fan fol, soargje alle dagen foar deiljocht en beweging, en
+  feroarje it plan frij as de dei dêrom freget.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Fêste tiden foar wekker wurden, iten, fersoarging en sliepetiid jouwe de dei in bekende foarm."
+  - "Plan de wichtichste aktiviteit op it bêste momint fan de dei foar de persoan, faaks de moarns."
+  - "Folje net elke minút. Rêst en rêstige tiid hearre ek by it ritme."
+  - "Deiljocht, alle dagen beweging en lange sliepkes let op de dei en kofje let op 'e jûn mije kin helpe by ûnrêst oan 'e ein fan de dei."
+  - "In ritme is in rjochtline, gjin rigel. Wiksel, ferkoarte of sla wat oer op swierdere dagen."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Wêrom is in ritme nuttich foar ien mei demintens?"
+    a: "In foarsisbere dei betsjut minder besluten en ferrassingen, wat in protte minsken dy't mei demintens libje gerêststellend fine. De Alzheimer's Association merkt op dat in plande dei makket dat jo minder tiid besteegje oan útfine wat te dwaan en mear tiid oan dingen dy't jo beide leuk fine. It helpt ek fersoargers om har eigen dei yn te dielen."
+  - q: "Wat is in goed deistich skema foar ien mei demintens?"
+    a: "Der is net ien goed skema. In goed skema hâldt wekker wurden, iten en sliepetiid op sawat deselde tiden, pleatst persoanlike fersoarging en de wichtichste aktiviteit as de persoan der it bêst oan ta is, makket tiid frij om nei bûten te gean of by in finster te sitten, en lit romte foar rêst. Bou it om de manier wêrop de persoan altyd libbe hat."
+  - q: "Moat in persoan mei demintens oerdeis sliepe?"
+    a: "In koarte rêst kin helpe, foaral nei de middei. It National Institute on Aging riedt oan om lange sliepkes en doezeljen let op de dei ôf te rieden, om't te wurch wêze of min útroste wêze kin bydrage oan ûnrêst oan 'e ein fan de dei. As sliepen echt in probleem is, praat dan mei de dokter."
+  - q: "Wat as de persoan it ritme net folgje wol?"
+    a: "Lit it no mar sitte en besykje it letter opnij of op in oare manier. Nee sizze kin betsjutte dat de persoan wurch is, siik is, pine hat of gewoan noch net klear is. It ritme is der om de dei makliker te meitsjen, dus bûg it yn stee fan it troch te drukken."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+In sêft ritme jout de dei in bekende foarm: opstean, iten, in bytsje dwaan, rêste en nei bêd gean op rûchwei deselde tiden. It makket minder besluten en ferrassingen nedich, en it jout jo in plan foar de mominten dat jo oars ôffreegje wat te dwaan. It ritme hjirûnder is in foarbyld, gjin rigel. Brûk it as begjinpunt en foarmje it dan nei de persoan dêr't jo foar soargje.
 
-## Why does a daily routine help?
+## Wêrom helpt in deistich ritme?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+In fêst ritme helpt om't bekende patroanen makliker te folgjen binne as nije. De [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) seit dat in plande dei minder tiid kost oan beslute wat te dwaan en mear tiid jout foar leuke aktiviteiten, en merkt op dat fêste tiden foar wekker wurden en nei bêd gean helpe kinne by sliepproblemen en ûnrêst oan 'e ein fan de dei. It [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) stelt foar om baden, oanklaaie en ite elke dei op deselde tiden te dwaan as ûnderdiel fan in rêstich thús, en de [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) riedt ek oan om deselde ritmes oan te hâlden.
 
-## A sample gentle day
+## In foarbyld fan in sêfte dei
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+De tiden binne allinnich foarbylden. Skow de hiele dei nei earder of letter om oan te slute by it eigen ritme fan de persoan.
 
-| Time | What happens | Ideas | On a harder day |
+| Tiid | Wat der bart | Ideeën | Op in swierdere dei |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Wekker wurden, waskje, oanklaaie | Elke dei deselde folchoarder; liz de klean yn de folchoarder klear | Hâld de fersoarging ienfâldich; in skjinne trui is genôch |
+| 8:45 a.m. | Moarnsiten | Kofje en de krante hurdop foarlêze, of de radio | Ite stil tegearre, sûnder druk om te praten |
+| 9:30 a.m. | Haadaktiviteit | Wask foldwaan, bakke, túnje, in koart útstapke of in kuierke | In koartere ferzje, of lit de persoan sjen hoe't jo it dogge |
+| 10:30 a.m. | Rêstige tiid | Muzyk, in fotoalbum, of by in finster sitten | Rêste yn in favorite stoel |
+| 11:00 a.m. | Helpe mei it middeimiel | Griente waskje, de tafel dekke | Jo koekje; de persoan hâldt jo selskip |
+| 12:00 p.m. | Middeimiel en oprêdzje | De tafel ôffeie, in pear skûtels droegje | Sla de húswurk oer |
+| 1:00 p.m. | Koarte rêst | Fuotten omheech, sêfte muzyk | Itselde |
+| 2:00 p.m. | Nei bûten of aktyf | Kuierje, op it stoepke sitten, planten wetter jaan, in ballon oersmite | By in sinnich finster sitten |
+| 3:00 p.m. | Sosjaal of kreatyf | In besite, in petear, [picture pairs](/games/picture-pairs/), kleurje, kaartspultsjes | Tegearre wat drinke en in hapke ite |
+| 4:30 p.m. | Oankomme tiid | Gerdinen ticht, ljochten oan, in rêstige taak lykas wasklapkes foldwaan | Bekende muzyk, net folle lûd |
+| 5:30 p.m. | Jûnsmiel | Helpe mei roeren of de tafel dekke | Ienfâldich, bekend iten |
+| 6:30 p.m. | Jûn tegearre | Mei it neigerecht oer earder prate, kaartspultsjes, in favorite programma, in hânmassaazje | Stil byinoar wêze |
+| 8:00 p.m. | Sliepgoingritueel | Bad of waskje, pyjama, sêfte muzyk, dimme ljochten | Meitsje alles koarter; komfort giet foar |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Dit foarbyld folget de opbou fan it eigen foarbyldplan fan de Alzheimer's Association foar de iere en middelste stadia, dat giet fan persoanlike fersoarging en moarnsiten fia húswurk, kuierkes, muzyk, rêst en besites nei it jûnsmiel, oer earder prate en klearmeitsje foar bêd.
 
-## How do you build your own routine?
+## Hoe meitsje jo jo eigen ritme?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Begjin fanút hoe't de persoan altyd libbe hat, net fanút in skema. De Alzheimer's Association stelt foar om oer dizze dingen nei te tinken foardat jo planne:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Wat de persoan leuk fynt, net leuk fynt, goed kin en ynteressearre yn is.**
+- **Hoe't de persoan earder de dei trochbrocht.** In iere fûgel dy't altyd mei de hûn rûn, moat noch iere rinne. In jûnfûgel sil nea genietsje fan in begjin om 8.00 oere.
+- **It bêste momint fan de dei foar de persoan.** Plan baden, útstapkes en de haadaktiviteit dan.
+- **Genôch tiid** foar iten, waskje en oanklaaie, sadat neat hastich hoecht.
+- **Fêste tiden** foar wekker wurden en nei bêd gean.
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Deselde boarne stelt foar om in miks op te nimmen fan húswurk, iten, persoanlike fersoarging, kreative aktiviteiten, fysike aktiviteit, sosjale tiid, geastlike aktiviteit en spontane mominten, lykas in freon dy't efkes foarbykomt.
 
-### Try it for a week, then adjust
+### Besykje it in wike en pas it dan oan
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Meitsje elke dei in koarte notysje. De Alzheimer's Association stelt foar om ôf te freegjen hokker aktiviteiten it bêst wurken en wêrom, oft der tiden wiene mei tefolle tagelyk of krekt te min te dwaan, en oft spontane plannen leuk wiene of soargen joegen. Hâld wat wurket en feroarje wat net wurket.
 
-### Make it visible
+### Meitsje it sichtber
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+As de persoan noch lêze kin, kin in whiteboard of in kaart mei grutte letters mei it plan fan de dei gerêststellend wêze. Hâld it koart: „Moarnsiten. Kuierje mei Sarah. Middeimiel. Rêst.” Guon minsken hawwe it better as se net fier fan tefoaren witte wat der komt; de Family Caregiver Alliance stelt foar om plannen pas koart derfoar te besprekken as it soargen jout.
 
-## How to adapt the routine
+## Hoe kinne jo it ritme oanpasse?
 
-### Leave room to breathe
+### Lit romte om te sykheljen
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Folje net elke minút. De Alzheimer's Association beklammet dat de persoan in lykwicht nedich hat tusken aktiviteit en rêst en faaks mear kearen in skoft nedich hat. As de persoan ferfeeld, ôfleid of lilk liket, wiksel dan fan aktiviteit of nim rêst.
 
-### Protect the late afternoon
+### Beskermje de lette middei
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+In protte minsken wurde ûnrêstiger as it deiljocht ferdwynt. It NIA stelt foar om elke dei tiid nei bûten te gean of by in finster te sitten foar sinneljocht, alle dagen aktyf te wêzen sûnder tefolle te plannen, kofje en alkohol let op de dei te mijen, en lange sliepkes let op de dei ôf te rieden. Guon famyljes fine it ek nuttich om de gerdinen ticht te dwaan en de ljochten oan te dwaan foardat it tsjuster wurdt. Sjoch [late-day restlessness](/caregiving/late-day-restlessness/) en [sleep](/brain-health/sleep/).
 
-### Change it as needs change
+### Feroarje it as de behoeften feroarje
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Ier stadium:** meitsje it ritme tegearre. De persoan wol miskien in skriftlik skema dat er of sy sels hantearret.
+- **Middelste stadium:** jo nimme mear de lieding. Koartere aktiviteiten, mear rêst en in protte bekende taken; sjoch [middle-stage activities](/activities/middle-stage/).
+- **Let stadium:** it ritme giet om komfort, iten en fersoarging, mei dêr tusken koarte sintúchlike mominten lykas muzyk of in hânmassaazje; sjoch [late-stage activities](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Feroarje de aktiviteiten, net it ramt
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Hâld iten, rêst en sliepetiid fêst, en wiksel de aktiviteiten dêrtusken ôf. It [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) stelt foar om ferskate aktiviteiten op ferskate dagen te besykjen om dingen ynteressant te hâlden. Jo kinne bygelyks op moandei bakke, op tiisdei túnje en op woansdei nei foto's sjen. Us [101 activity ideas](/activities/ideas/) en [household tasks](/activities/household-tasks/) kinne de plakken ynfolje.
 
-## When the day goes sideways
+## As de dei oars rint
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Guon dagen sille gjin plan folgje. Sykte, in minne nacht, in besite fan de dokter of in feroaring yn it waar kin alles trochinoar smite. Lit it plan falle, hâld de basis fêst (iten, drinke, rêst, komfort) en besykje it moarn opnij. As de persoan neat dwaan wol, sjoch [when they say no](/caregiving/when-they-say-no/). In rêstich sykhelmomint tegearre, lykas [calm breathing](/games/calm-breathing/), kin helpe om jo beide wer op it spoar te bringen.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Jo eigen ritme is ek wichtich. Bou skoftmominten foar josels yn, en freegje famylje of in respytsoarchtsjinst om regelmjittich tiid frij te dekken. Sjoch [caregiver self-care](/caregiving/caregiver-self-care/).

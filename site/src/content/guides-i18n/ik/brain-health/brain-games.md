@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Iñuuraq aullaqtirutaa dementia-mik paqitchinii?"
+seoTitle: "Iñuuraq aullaqtirutaa dementia paqitchinii?"
+description: "Iḷisimaruat uqautait iñuuraq aullaqtirutaanik dementia-mullu: cognitive stimulation, iñuuraq aullaqtirutaa computer-mi, ACTIVE, FTC Lumosity-lu, tusaayugaan."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Iñuuraq aullaqtirutaa nalunaiqsuqtaŋitchuq dementia-mik paqitquvlugu.
+  Computer-mi iñuuraq aullaqtirutaat ilaan iñuuġniqaqtut sunanik
+  pigiqsiġivlugit aasii ilitchuġaat. ACTIVE-mi iḷitchuġniq, atausiq
+  suksraunmik aullaqtirun boosters-niklu 20-ni ukiuni dementia-mik
+  nalunaiqsuqtaat ikitchuat nalunaiqsuqtaat, taamna nalunaiqsuun
+  naruġnaqtuq. Iñuich dementia-mik iñuuġniqaqtut, cognitive stimulation
+  savaqatigivlugu ikitqut naaggaġniqsaat ikayuqtut. Iñuuraq aullaqtirutaat
+  nakuuruat quviasuutaunmik iḷagiigniqsaaġnirmullu.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Iḷitchuġniich iñuuraq aullaqtirutaanik nalunaiqsautait iñuich aasii ilitchuġaat sunanik pigiqsiġivlugit, uvva iñuunmi atullaat ilaan ikayuutaŋitchuq."
+  - "ACTIVE-mi iḷitchuġniqmi, kisiisa suksraunmik aullaqtirutaanik pigiiqsut boosters-niklu 20-ni ukiuni dementia-mik nalunaiqsuqtaat ikitchuat. Suksraunmik aullaqtirun boosters-naitchuaq, itqaummaġniqmullu isumalluataq aullaqtirutaat taamna nalunaiqsuiññiġaat."
+  - "2016-mi, Lumosity sanayuaqtiŋat $2 million-ni akiliqsuq FTC-mun nalunaiqsuutai uqautait uqtuuqaniḷḷu ilaaqsimanaitchuat, dementia-mik paqitquvlugu."
+  - "Iñuich mild-mit moderate-mut dementia-mik iñuuġniqaqtut, cognitive stimulation savaqatigiġniġmi ikitqut naaggaġniqsaat ikayuqtut isummani, uqaqatigiigniqsaaġnirmullu iḷagiigniqsaaġnirmullu aasii nalunaiġnaqtuq."
+  - "Golden Moments iñuuraq aullaqtirutaat quviasuutaunmik iḷagiigniqsaaġnirmullu. Aatchuusiaŋitkut, dementia-mik paqitchuiññiġaatki suli suksrautiqsiññiġaatki."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Iñuuraq aullaqtirutaat Alzheimer's-mik paqitchiniivaat?"
+    a: "Iñuuraq aullaqtirutaa nalunaiqsuqtaŋitchuq Alzheimer's-mik allaniglu dementia-mik paqitquvlugu. National Institute on Aging uqaqtuq nalunaiqsuutit ilaan naammagniŋitchut iñuuraq aullaqtirutaat apps-ŋat iḷitchuġniqni uuktuqtauyut aasii atuutiqaqtut. Iñuuraq aullaqtirutaat suli nakuuruat quviasuutaunmik."
+  - q: "ACTIVE-mi iḷitchuġniq suksraunmik aullaqtirunmik dementia-mullu sunik nalunaiqsuaq?"
+    a: "2026-mi iḷitchuġniq ACTIVE-mi ilaŋŋurut Medicare-mi titiraqsiḷḷu 20-ni ukiuni. Iñuich suksraunmik aullaqtirutaanik pigiiqsut boosters-niklu atausiŋŋuumik ikitchuaq dementia-mik nalunaiqsuqtaat iḷitchuġniŋmi aullaqtirutaaŋaitchuanit. Suksraunmik aullaqtirun boosters-naitchuaq, itqaummaġniqmullu isumalluataq aullaqtirutaat nalunaiġnaqtuamik allanik takutchiññiġaat."
+  - q: "Puzzles-nik iñuuraq aullaqtirutaaniglu nakuuruat iñuumun dementia-mik iñuuġniqaqqan?"
+    a: "Nakuuruat, iñuum quviasukpagu. Savaqatigiġniq cognitive stimulation-mik, uqaġiich, puzzles, atuutit, uqaqatigiigniqsaaġniqlu ilagivlugit, ikitqut naaggaġniqsaat ikayuqtut isummani, uqaqatigiigniqsaaġnirmullu iḷagiigniqsaaġnirmullu aasii ikayuutaqaqtut. Quviasuun, nalunaiqsuutaaŋitchuq, sivulliqpauruq."
+  - q: "Suvataa Lumosity FTC-mit pitqurraġauq?"
+    a: "2016-mi Federal Trade Commission nalunaiqsuiq Lumos Labs uqautait iñuuraq aullaqtirutaatigut, ilaaqsimanaitchuaq ilisimaruanik, utuqaqsraaq isummani ikayuutaunmik dementia-miklu paqitquvlugu. Savaqatigiich $2 million-ni akiliqsuq, sivunmunlu taaptuma uqautaa nalunaiqsuutinik ilisimaruanik atuġniaqut."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Iñuuraq aullaqtirutaat tamatkunuŋa uqautiqaqtut, ammalu ilaan uqaqtut isumman nutaqqauŋaruq. Iñuumun dementia-mik iñuuġniqaqtuanun paqtaqsiñiqpan, uvvaluunniit ilviññik isummatigun sivaŋniqpan, apirriġniqsuuruq taapkua ikayuutauniaqpatigi. Una ilisimaruat nalunaiqsautait, nakuuruallu nalunaiŋitkullu.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Una ilisaqtuun, aatchuisuiññiqsuŋitkullu. Tautukkikput [aatchuisuiññiqsaaġniq nalunaiqsuun](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Iñuuraq aullaqtirutaat dementia-mik paqitchiniivaat?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Iñuuraq aullaqtirutaa nalunaiqsuqtaŋitchuq dementia-mik paqitquvlugu. National Institute on Aging (NIA) uqaqtuq iñuich nalupqisukługu uqautait computer-mi iñuuraq aullaqtirutaat itqaummaġniq aasiiḷiŋŋiqsiñiaġaat, ammalu nalunaiqsuutit ilaan naammagniŋitchut iñuuraq aullaqtirutaat apps-ŋat iḷitchuġniqni uuktuqtauyut aasii atuutiqaqtut ([NIA: Alzheimer's paqitniq](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Taamna uqaqtuŋitchuq iñuuraq aullaqtirutaat ikayuutaŋitkut. Uqaqtuq nakuunŋat quviasuunmi, iḷagiigniqsaaġnirmi, atuqtuaniglu, dementia-mit paqitquvluguŋitkullu.
 
-## What is "near transfer", and why does it matter?
+## “Near transfer” suna, suvaaŋa piviksaun?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Suna piġiqsiġuvlugu, ilaan aasii ilitchuġaat. Iḷitchuġniqtiŋat taamna aullaqtirunmik atuutiġaat. Apiqqun alla aasii atuġniŋagaat: sunanik aasiiḷḷu (near transfer) uvvaluunniit iñuunmi atullaat, atausiġuuruq ullaq iñiqsraġnikkun itqaummaġniq uvvaluunniit manik atunniq (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016-mi iḷitchuġniq angiyuq iñuuraq aullaqtirutaat savaqatigiisa nalunaiqsuutait tautukkaat. Nalunaiqsuiq iñuich aasii ilitchuġaat piġiqsiġivlugit, ikitqumik nalunaiqsuun aasiiḷḷu ilitchuġnikkut, ammalu nalunaiqsuutait ikitqut iñuunmi isumani aasiiḷiŋŋiqsaaġniq. Iḷitchuġniich ilaan atuġniŋaitchuat, nalunaiqsaaġniq sapiqsaaqługu ([Simons ilagiivlugu, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Iḷitchuġniich computer-mi iñuuraq aullaqtirutaanik sunik uqaqpat?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane iḷitchuġniich, iḷitchuġniich nakuuruanik katitillugit, computer-mi aullaqtirunmik 12-nik savaaniglu sivisuanik tautukkaat:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Iñuich 65-nik ukiuġniqaqtut nakuunmik isumani:** iḷitchuġniich 8, 1,183-nik iñuich. Nalunaiqsuutit ikitqut uvvaluunniit ikitquruat. Aullaqtirun nalunŋaani ikitqumik ikayuutauniaqtuq, taaptuma sivuniqpaŋa nalunaiġnaqtuŋitchuq ([Cochrane iḷitchuġniq, utuqaqtut nakuunmik isumani](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Iñuich mild cognitive impairment-lik:** iḷitchuġniich 8, 660-nik iñuich. Iḷitchuġniq atauchimiuq nalunaiqsuiññiqsuq kina dementia-liñiaqpatigi, nalunaiqsuutitlu ikitquruat nalunaiqsaaġniq sapiqsaaqługu ([Cochrane iḷitchuġniq, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## ACTIVE-mi iḷitchuġniq sunik nalunaiqsuaq?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE angiyuq U.S.-mi iḷitchuġniq, 1998-mi pigiaġniq 2,802-nik iñuich 65-nik ukiuġniqaqtut inmiñik iñuuġniqaqtut, isumaniḷḷu angiyumik apiqqutaaŋitkut. Iñuich nalautsaqtaat piŋasuni ilagiit aullaqtirutaani (suksraunmik, itqaummaġniq, uvvaluunniit isumalluataq) uvvaluunniit aullaqtirutaaŋitkumi. Aullaqtirun qulit aglaan savaat tallimanik siksraniglu savaanun. Ilagiich ammalu **booster savaanik** atuqsraqtaut atausiŋŋuumik piŋasuuniglu ukiunun.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Suksraunmik aullaqtirun tautugniq suksraunmik atuġniqlu, naaggaġniqsaan atanniqsuq iñuum aasiiḷiŋŋiqsaa.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026-mi, iḷitchuġniqtiŋat 2,021-nik ilaŋŋurut Medicare-mi titiraqsiḷḷu 20-ni ukiuni ([ACTIVE 20-ukiunik iḷitchuġniq](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Una nalunaiqsautaat:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Suksraunmik aullaqtirun boosters-niklu atausiŋŋuumik:** dementia-mik nalunaiqsuqtaat ikitchuat aullaqtirutaaŋitkumiit (hazard ratio 0.75, taamna nalunaiqsautauq 25% ikitchuamik).
+- **Suksraunmik aullaqtirun boosters-naitchuaq:** ikitchuŋitchuq.
+- **Itqaummaġniqmullu isumalluataq aullaqtirutaat:** dementia-mik nalunaiqsuqtaani nalunaiġnaqtuamik allanik takutchiññiġaat.
+- **Aullaqtirutaat ilagiich tamaita aullaqtirutaaŋitkumiit:** ikitchuaq nalunaiqsuqtaat aglaan, nalunaiġnaqtuŋitchuq.
 
-### The limits of this finding
+### Taamna nalunaiqsuun atuġniŋat
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Atausiġmik **suksraunmik aullaqtirutaanik ilisaġniġmi boosters-niklu** atuġniaġaa, iñuuraq aullaqtirutaat tamaitaŋitkut.
+- Nalunaiġnaqtuq nalunaiqsuun **ilagiinni** (iñuich sivulliq savaanik naammaksisuurut, boosters-niklu atuqsraqtaut), suksraunmik aullaqtirutaat ilagiinni tamatkunuŋaŋitkullu.
+- Dementia nalunaiqsuqtaat **Medicare-mi titiraqsiḷḷu nalunaiqsuutainik**, iñuich tamaita tautukługitŋitkut. Sivulliq ilaŋŋurut sisamaat ilaan ilagiiññiqsut Medicare Advantage-mi, taaptuma titiraqsiḷḷu naammagniŋaitchuat.
+- Ilaŋŋurut pigiaġniġmi isumani apiqqutaaŋitkut. Nalunaiqsuutit taapkua uqaqtutŋitkullu iñuich **dementia-mik iñuuġniqaqtut**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Taamna nalunaiqsuun piŋaruq, suli iḷitchuġniq atqunaqtuq. Nalunaiqsuutaŋitchuq app-mik dementia-mik paqitquvlugu.
 
-## What did the FTC say about Lumosity?
+## FTC Lumosity-mik sunik uqaqtuq?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+January 2016-mi, Lumos Labs, Lumosity sanayuaqtiŋat, $2 million-ni akiliqsuq Federal Trade Commission-mun nalunaiqsuutai uqautait uqtuuqaniḷḷu. FTC uqaqtuq savaqatigiich uqautait, ilisimaruanik naammagniŋaitkuaq, iñuuraq aullaqtirutaat savaktinni ilisaġnirmilu aasiiḷiŋŋiqsiñiaġaat, utuqaqsraaq isummani, mild cognitive impairment, dementia, Alzheimer's-lu paqitquvlugit. Taaptuma nalunaiqsuutaa sivunmun savaqatigiich nalunaiqsuutinik ilisimaruanik atuġniaqut taaptuma uqautaa ([FTC-m uqautaa](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Iḷagiich ilisaqtuat: iñuuraq aullaqtirutaa, app, uvvaluunniit savaaq itqaummaġniq paqitquvlugu uvvaluunniit dementia-mik paqitquvlugu uqaqpan nalupqisukługu.
 
-## Can games help someone who already has dementia?
+## Iñuuraq aullaqtirutaat iñuumun dementia-mik iñuuġniqaqtuanun ikayuutauniaqpatigi?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Uvlaakun nakuuruamik ikayuutauniaqtuq, taamnalu piviksaq. Iḷitchuġnirauruq **cognitive stimulation**: savaqatigiġniq quviasuunmik, uqaqatigiigniq, itqaummaġniq uqautait, uqaġiich, puzzles, atuutitlu, ilagiinni mikiniqaqtumi ilisaurriqaqtumi.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023-mi Cochrane iḷitchuġniq 37-nik iḷitchuġniich 2,766-nik iñuich mild-mit moderate-mut dementia-mik iñuuġniqaqtut nalunaiqsuaq ([Cochrane iḷitchuġniq cognitive stimulation-mik](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **ikitqumik, naaggaġniqsaat ikayuutaq** isummani uuktuutini (nalunaiqsuutit akuniqsaat);
+- **uqaqatigiigniqsaaġnirmi iḷagiigniqsaaġnirmilu aasiiḷiŋŋiqsuq** (nalunaiqsuutit nakuuruat, ikitquruani iḷitchuġniqni);
+- **ikitqut ikayuutit** iñuunmi nakuunŋani, quviasuunmi, pigiuġnirmilu.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Ikayuutit nalunaiqsuqtaat ilaan nalunŋaani, qulit savaani, ammalu ikitqut iḷitchuġniich sivuniqpaŋa tautukkaat. Cognitive stimulation savaqatigiġniq ilagiinni, taamna nalunaiqsuutit iñuumun atausiġuun tablet-mi iñuuraġniq atautchikunŋitkullu atuġniaqut.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024-mi Lancet Commission uqaqtuq suli savaat iñuich dementia-mik iñuuġniqaqtut piviksauruat, quviasuun iñuunmiḷḷu piviksaun atullugit ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Iñuuraq aullaqtirutaat sunik nakuuruat?
 
-When chosen well, games can offer:
+Nalautchaukkuvich, iñuuraq aullaqtirutaat ikayuutauniaqut:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Quviasuun.** Uvlaakun quviasuun piviksaq.
+- **Iḷagiigniq.** Saniani iñuuraġniq atuqtuamik iḷagiigniqsaaġniq, uqaqatigiigniq sapiqsaaqpan. Tautukkik [qanuk iḷagiigniqsaaġniq](/caregiving/how-to-play-together/).
+- **Atuqtuaq.** Atuqtuaq uvlupak suli atausiġmi iñiqsraġnikkun iḷuqsaaġniq ikayuutauniaqtuq.
+- **Sapiġniq.** Iñuum atunniqsaqsiñiqsaa nalunautchaukkuvich, sapilluniŋaruq uuktuutaŋitkullu.
+- **Uqaqatigiigniq.** Aglaq uvvaluunniit uqaqtuat nalunaiqtuat unipkaaq paġilisaqtuat. Pigiuk [uqaqatigiigniqsaaġniq aglaat](/games/conversation-cards/) uvvaluunniit [uqaqtuat naammaksigik](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Piqsraungitkich: time-rutit, nalunaiqsuutit, streak-tit, uuktuun aasiiḷḷu itqaummaġniġmik. Iñuum sivaŋniqpan, nutqaqtikkik. Nutqaqniq uvvaluunniit saniani aquvniq nakuuruq. Iḷisatqun [apps-nik iñuuraq aullaqtirutaaniglu nalunautchanniq](/caregiving/choosing-apps-and-games/) ilisaqtuq.
 
-## Where Golden Moments fits
+## Golden Moments sumiqpa?
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments iñuuraq aullaqtirutaat, atausiġuuruq [aglaat malġuk](/games/picture-pairs/), [aglaq katinniq](/games/picture-puzzle/), [aglaich angiyut uqaġiich](/games/word-search/), quviasuunmun iḷagiigniqsaaġnirmullu sanayauyut. Time-rutiŋitkut, nalunaiqsuutiŋitkullu. **Aatchuusiaŋitkut**, ammalu dementia-mik **paqitchuiññiġaatki** suli suksrautiqsiññiġaatki. Taamna tusaayugaan uqaqtugut, iñuuraq aullaqtirutaa atuġniŋaitchuaq uqautiqsraġniŋitkullu.
 
-## Talk with a doctor
+## Aatchuisiq uqaqatigiigik
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Ilviññik uvvaluunniit iñuumun paqtaqsiñiqpan isummatigun sivaŋniqpan, aatchuisiq tautuguk, app-miŋitkullu. Aatchuisiq qiniqsaaqtuq sunanik aasiiḷiŋŋiqsaaġniqaqtut, ammalu nalunaiqsuutit nakuuruat uqaqatigiġniaġai, atausiġuuruq aunniq atanniqsiñiq ammalu naalaktuaniq uuktuġniq. Tautukkik [Dementia paqitniq?](/brain-health/can-dementia-be-prevented/). Suksraliq isummani allaniq uvvaluunniit alla suksraliq, aatchuisiq suksraaġmik qiniqsiġik.

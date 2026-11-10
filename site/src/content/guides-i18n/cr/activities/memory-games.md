@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ: ᓭᐦᑫ ᑲ ᒣᑕᐍᐏᐣ"
+seoTitle: "ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ: ᓭᐦᑫ ᐃᑌᔨᐦᑕᒧᐏᓇ"
+description: "ᓇᐢᑯᓯᐏᓇ ᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ ᒣᑕᐍᐏᓇ ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐅᐦᒋ, ᑖᓂᓯ ᑲ ᒣᑕᐍᐏᐣ ᐁᑿ ᐊᐘᐃᔭᐠ ᓇᒨᐘ ᑲ ᑯᒋᐦᐃᒋᑲᑌᐟ: ᒪᓯᓇᐦᐃᑲᓇ ᑲ ᓇᐦᑲᐚᐱᔭᐠ, ᒐᐦᑭᔭᐤ ᐯᔭᑯᓯᐠ, ᓇᒨᐘ ᐊᑭᐦᑕᓱᐏᐣ, ᒫᒫᐏ ᒣᑕᐍᐠ."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐅᐦᒋ ᒥᔼᓯᐣ ᐃᐢᐸᐦᐃᐤ ᑲᔭᐢ ᐁᑿ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᑲ ᓇᑕᐍᔭᓯᐠ. ᒣᑕᐍᐠ ᓇᐢᑯᓯᐏᓇ ᐁ ᓇᐦᑲᐚᐱᔭᐠ, ᐊᐸᒋᐦᐃᐠ ᓀᐓ ᒥᓇ ᓂᑯᑕᐚᓯᐠ, ᒫᒫᐏ ᒣᑕᐍᐠ, ᐁᑿ ᐊᑯᓇ ᐊᑭᐦᑕᓱᐏᐣ. ᓇᐦᑲᐍᔭᐦᑖᐤ ᒪᓯᓇᐦᐃᑲᐣ ᐍᐦᒋᐦᐃ ᓇᐦᑲᐍᔭᐦᑖᐤ ᐁ ᑭᐢᑭᓯᐟ, ᒣᑕᐍᐠ ᐁᑿ ᑲᑭᔭᐤ ᑲ ᓇᐦᑲᐚᐱᔭᐠ. ᒥᔼᐚᑲᒧᐏᐣ, ᓇᒨᐘ ᐊᔭᐦᑭᐦᒋᑫᐏᐣ, ᐁᑿ ᐅᐦᒋ ᒣᑕᐍᐏᐣ.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "ᑭᔭᐢᐠ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᑲᑕᐦᑲᐦᐊᒧᐤ ᒪᓯᓇᐦᐃᑲᓇ, ᐁᑿ ᑯᒋᐦᐃᒋᑲᑌᐤ ᐁᑿ ᑲ ᐊᔭᐦᑭᒧᒪᑲᐠ ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ. ᓇᐦᑲᐚᐱᔭᐠ ᒪᓯᓇᐦᐃᑲᓇ ᒫᑲ."
+  - "ᒐᐦᑭᔭᐤ ᐊᐸᒋᐦᐃᑲᓇ, ᒥᓯᐦᐋᐤ ᒪᓯᓇᐦᐃᑲᓇ, ᐁᑿ ᐯᔭᐠ ᐅᓇᐸᒋᐦᐃᑲᐣ ᐯᔭᐠᐘᐤ ᒥᔼᐢᐸᔭᐤ ᒣᑕᐍᐏᐣ."
+  - "ᒫᒫᐏ ᒣᑕᐍᐠ, ᒫᒫᐏ ᐏᒋᐦᐃᑎᑐᐠ, ᐁᑿ ᐊᑯᓇ ᐊᑭᐦᑕᓱᐏᐣ. ᐊᐘᐃᔭᐠ ᓇᒨᐘ ᑖᐱᐢᑯᐨ ᑲ ᓇᑲᐸᑕᒧᐘᐠ."
+  - "ᓇᒨᐘ ᐯᔭᐠ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᐣ ᐘᐦᑕᒪᑫᐤ ᑖᐱᐢᑯᐨ ᑲ ᓇᓇᑕᐍᐦᐃᑯᐠ, ᑲ ᔭᐦᑭᓯᐦᐃᑯᐠ, ᒥᓇ ᑲ ᓄᑲᐦᐃᑯᐠ ᐁ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ. ᒣᑕᐍᐠ ᐁ ᒥᔼᐢᐸᔭᐠ ᒫᒫᐏ ᐁ ᐃᔥᐸᔭᐠ."
+  - "ᐊᑯᓇ ᒣᑕᐍᐏᐣ ᒣᒁᐨ ᐁ ᒥᔼᐢᐸᔭᐠ. ᐊᑎᒧᐠ ᒪᓯᓇᐦᐃᑲᓇ ᐅᐦᒋ ᒥᔼᓯᐣ ᐃᐢᐸᔭᐤ."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "ᑖᓂᐢᐱ ᒥᔼᓯᐣ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᐣ ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐅᐦᒋ?"
+    a: "ᓇᐢᑯᓯᐏᐣ ᒣᑕᐍᐏᐣ ᒥᓯᐦᐋ ᒥᓇ ᑲ ᓂᓯᑐᐏᐣᒪᑲᐠ ᒪᓯᓇᐦᐃᑲᓇ ᑲ ᓇᐦᑲᐚᐱᔭᐠ, ᑖᐱᐢᑰᐨ Picture pairs ᐁ ᐅᓵᐦᐅᒪᑲᐠ ᓀᐓ ᒥᓇ ᓂᑯᑕᐚᓯᐠ. ᒥᑲᒧᐤ ᓃᓱ ᒪᓯᓇᐦᐃᑲᐣ ᑲ ᐘᐸᐦᑕᒪᐣ ᒥᔼᐢᐸᔭᐤ ᐁᑿ ᓇᒨᐘ ᑯᒋᐦᐃᒋᑲᑌᐤ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ. Find the same ᒥᓇ ᐍᐦᒋᐦᐃ ᓭᐦᑫᓯᐣ, ᐯᔭᐠ ᒪᓯᓇᐦᐃᑲᐣ ᐁ ᓇᐢᑯᓯᐦᐃᒋᑲᑌᐟ ᓃᓱ ᒥᓇ ᓀᐓ ᐅᓇᐸᒋᐦᐃᑲᓇ ᐅᐦᒋ."
+  - q: "ᒋᐦᐃ ᓇᑲ ᐏᒋᐦᐃᑯᐘᐠ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ?"
+    a: "ᓇᒨᐘ ᐯᔭᐠ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᐣ ᐘᐦᑕᒪᑫᐤ ᑖᐱᐢᑯᐨ ᑲ ᓇᓇᑕᐍᐦᐃᑯᐠ, ᑲ ᔭᐦᑭᓯᐦᐃᑯᐠ, ᒥᓇ ᑲ ᓄᑲᐦᐃᑯᐠ ᐁ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ; Cochrane ᑲ ᓇᓇᑕᐚᐸᐦᑕᒧᐘᐠ ᒥᑭᓄᐘᐸᐦᑕᒼ ᐁᑿ ᑲ ᒪᓯᓇᐦᐃᑲᓂᐠ ᑲ ᑭᐢᑭᓄᐦᐊᒫᐦᐃᑯᐏᐣ ᓇᒨᐘ ᑖᐱᐢᑯᐨ ᒥᔼᓯᓇᐣ ᐁ ᐃᑌᔨᐦᑕᒪᑲᐠ ᑖᐱᐢᑯᐨ ᓇᑲ ᐃᐦᑯᐦᐃᑯᐘᐠ ᐁ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ. ᒣᑕᐍᐏᓇ ᒫᑲ ᒥᔼᓯᓇᐘ ᐁ ᒫᒫᐏ ᐃᐢᐸᔭᐠ. ᐅᓇᐸᒋᐦᐃᐠ ᐁ ᒥᔼᐢᐸᔭᐠ ᒥᓇ ᐁ ᐏᒋᐦᐃᑎᑐᔭᐠ."
+  - q: "ᓇᑲ ᒣᑕᐍᑖᐣ ᓀᐦᐃᔭ ᑭᔭᐢᐠ Concentration ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐅᐦᒋ?"
+    a: "ᒣᒁᐨ ᓂᑲᓄᐦᐃ ᐃᐢᐸᔭᐠ, ᐊᐘᑭ ᒫᑲ ᒥᔼᐚᑲᒧᐘᐠ, ᒥᔼᓯᐣ ᐃᐢᐸᐦᐃᐤ ᒐᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓇ. ᑭᐢᐱ ᑭᐢᑭᓯᐟ ᑖᓂᑌ ᐁ ᐃᐦᑖᐠ ᒪᓯᓇᐦᐃᑲᓇ ᒫᒋ ᐁ ᒪᔭ ᒥᔼᐢᐸᔭᐠ, ᐠᐍᐢᑭᓄᐦᐊᒫᐠ ᒪᓯᓇᐦᐃᑲᓇ ᐁ ᓇᐦᑲᐚᐱᔭᐠ ᐁᑿ ᒫᒫᐏ ᓇᐢᑯᓯᐦᐃᐠ ᓃᓱᐘᐠ. ᐁᑿ ᐊᔭᐘᐤ ᓇᐢᑯᓯᐏᐣ ᐁᑿ ᐊᑯᓇᐤ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᑯᒋᐦᐃᒋᑲᑌᐏᐣ."
+  - q: "ᑖᓂᐢᐱ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᒥᔼᓯᓇᐘ ᒥᐦᒉᐟ ᐊᐘᐠ ᐅᐦᒋ ᐁ ᒣᑕᐍᐏᐣ?"
+    a: "Picture bingo ᒪᓯᓇᐦᐃᑲᓂᐠ ᐁ ᐃᑌᔨᐦᑕᒪᑲᐠ, ᑲ ᓂᓯᑐᐏᐣᒪᑲᐠ ᐃᑌᐏᓇ ᐁ ᑭᐦᒋᐦᐃᑲᑌᐠ, ᒥᓇ ᐊᑎᒧᐏᐣ ᒪᓯᓇᐦᐃᑲᓇ ᒥᐦᒉᐟ ᐊᐘᐠ ᐅᐦᒋ ᐃᐢᐸᔭᐘᐠ. ᒣᑕᐍᐠ ᐸᑭᐢᑲ ᑲᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᐣ ᐁ ᒧᐢᑭᓇᑲᑌᐠ, ᐁᑿ ᐁᑲ ᐘᐦᑕᒪᑫᐠ ᐊᐘᓀ ᑲ ᓇᐢᑯᒧᐟ, ᐁᑿ ᐊᐘᐃᔭᐠ ᓇᒨᐘ ᐯᔭᑯ ᑲ ᐃᐢᐸᔭᐟ."
+  - q: "ᒋᐦᐃ ᒥᑭᓄᐘᐠ ᓇᒨᐘ ᐃᐢᐸᔭᐦᐃᑲᑌᐠ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᐅᐦᑕ ᐃᐦᑕᐍᐏᐣ ᐊᐱᐦᑯᓯᓯᐠ?"
+    a: "ᐁᐦᐁ. ᒣᑕᐍᐏᓇ ᐅᐦᑕ ᐅᒪ ᐃᐦᑕᐍᐏᐣ, ᑖᐱᐢᑰᐨ Picture pairs, Find the same, Photo pairs ᒥᓇ Picture puzzle, ᓇᒨᐘ ᐃᐢᐸᔭᐦᐃᑲᑌᐘᐠ, ᓇᒨᐘ ᓇᑕᐍᔭᑲᓂᐘᐣ ᐁ ᒪᓯᓇᐦᐃᑲᓱᔭᐣ, ᐁᑿ ᐃᐢᐸᔭᐘᐠ ᒥᓯᓂᐦᐃᑲᓂᐠ, ᒪᓯᓇᐦᐃᑲᓂᐠ ᒥᓇ ᒪᓯᓇᐦᐃᑲᓂᐢᐠ. ᓇᒨᐘ ᐯᔭᐠ ᐊᔭᐘᐤ ᐊᑭᐦᑕᓱᐏᐣ ᒥᓇ ᐊᑭᐦᑕᓱᐏᐣ ᒪᓯᓇᐦᐃᑲᐣ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+ᑭᐢᐱ ᓇᓇᑕᐍᔭᐦᑖᐣ «ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᑫᐦᑌ ᐊᐘᐠ ᐅᐦᒋ», ᒥᐦᒉᐟ ᑲ ᒥᑭᓄᐘᐣ ᐅᓵᐦᐃᑲᓱᐤ ᐊᐘᐠ ᑲ ᓇᑕᐍᔭᐦᑖᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐁ ᐊᔭᐦᑭᐦᒋᑲᑌᐠ: ᒪᓯᓇᐦᐃᑲᓇ ᑲ ᑲᑕᐦᑲᐦᐊᒪᑲᐠ, ᐊᑭᐦᑕᓱᐏᐣ ᑲ ᐊᑭᐦᑕᑭᓇᑲᑌᐠ, ᐃᐢᐸᔭᓇ, ᒥᓇ ᐊᑭᐦᑕᓱᐏᓇ. ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐅᐦᒋ, ᐁᑿ ᐃᑌᐏᓇ ᒣᑕᐍᐏᐣ ᑫᑯᒋᐦᐃᒋᑲᑌᐤ ᐁᑿ ᑲ ᐊᔭᐦᑭᒧᒪᑲᐠ. ᑭᔭᐢᐠ ᐁᑿ ᒣᑕᐍᐏᓇ ᒋᐦᐃ ᒣᑕᐍᐏᐘᐠ ᐍᐦᒋᐦᐃ ᓭᐦᑫ. ᐅᒪ ᒪᓯᓇᐦᐃᑲᐣ ᐘᐦᑕᒪᑭᐣ ᑖᓂᓯ, ᐁᑿ ᐘᐦᑕᒪᑭᐣ ᒣᑕᐍᐏᓇ ᑲ ᒥᔼᓯᐠ ᑲᑭᔭᐤ ᐃᐢᐸᔭᐠ.
 
-## Why do classic memory games frustrate people with dementia?
+## ᑖᓂᐦᐁ ᑭᔭᐢᐠ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᐁ ᓇᒨᐘ ᒥᔼᐢᐸᔭᐠ ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐅᐦᒋ?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+ᐁ ᓇᑕᐍᔭᓯᐠ ᐅᐢᑭ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐁ ᑲᓇᐍᔭᐦᑕᒧᐣ, ᐁᑿ ᒫᑲ ᓂᑲᓄᐦᐃ ᐊᔭᐦᑭᒧᒪᑲᐣ ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐁᑿ ᑲ ᐅᒋ ᐃᐢᐸᔭᐠ ᐊᓬᔮᐦᒋᒥᕁ, ᑲ ᒥᐦᒉᐟ ᐅᐦᒋ ᐃᐢᐸᔭᐠ. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ᐃᑌᐤ ᒫᑲ ᓂᑲᓄᐦᐃ ᓂᑲᓄ ᑲ ᓇᐦᑲᐚᐱᒋᑲᑌᐠ ᐊᓬᔮᐦᒋᒥᕁ ᐅᐦᒋ ᐁ ᐊᔭᐦᑭᒧᒪᑲᐠ ᐅᐢᑭ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ. ᑭᔭᐢᐠ Concentration ᐅᐦᒋ, ᐠᐍᐢᑭᓄᐦᐊᒪᐣ ᓃᓱ ᒪᓯᓇᐦᐃᑲᓇ, ᑭᐢᑭᓯᐣ ᑖᓂᑌ ᐁ ᐃᐦᑖᐠ, ᐁᑿ ᐊᐸᒋᐦᐃᐣ ᒣᒁᐨ ᒥᓇ ᐯᔭᐠ. ᐁᑿ ᐅᐢᑭ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ, ᑲ ᑲᓇᐍᔭᐦᑕᒪᐣ ᐁᑿ ᑲ ᑭᐢᑭᓯᐣ.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+ᑭᐢᐱ ᒥᓇ ᐊᓯᓇᐦᐃᑲᑌᐤ ᐊᑭᐦᑕᓱᐏᐣ, ᐊᑭᐦᑕᓱᐏᐣ ᒪᓯᓇᐦᐃᑲᐣ, ᒥᓇ ᒪᑕᐍᐦᐃᑲᐣ ᐁ ᒪᓯ ᓈᓯᐯᔭᐣ, ᐊᐘ ᑲ ᒣᑕᐍᐟ ᑭᐢᑭᓯᐦᐃᑯᐤ ᐁᑿ ᑲ ᓇᒨᐘ ᑭ ᑖᐱᐢᑕᐟ, ᒥᐢᐱᒥᐨ ᐊᐘ ᑲ ᓵᑭᐦᐋᐟ. ᒥᐦᒉᐟ ᐊᐘᐠ ᐊᐦᐊᐤ ᑭᐯ ᓇᑲᑌᐤ ᐁ ᒣᑕᐍᐟ.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+ᓇᐦᑲᐍᔭᐦᑖᐤ ᑲ ᐘᐸᐦᑕᒪᐣ ᒫᑲ ᐍᐦᒋᐦᐃ ᓭᐦᑫᓯᐣ ᐃᐢᐸᔭᐤ. ᐃᑌᔨᐦᑕᒧᐤ ᓃᓱ ᒥᓂᐦᐠᐚᒋ ᑭᐢᐱ ᓃᓱᐘᐠ ᓇᐦᑲᐚᐱᐘᐠ ᒥᔼᐢᐸᔭᐤ. ᐁᑿ ᐅᐦᒋ, ᑲᓇᐍᔭᐦᑕ ᓇᐢᑯᓯᐏᐣ ᐁᑿ ᐊᑯᓇ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᑯᒋᐦᐃᒋᑲᑌᐏᐣ.
 
-## How do you make a memory game gentle?
+## ᑖᓂᓯ ᑲ ᐅᓵᐦᐃᐦᐃᑲᑌᐠ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᐣ ᐁ ᓭᐦᑫᓯᐠ?
 
-These adjustments work for card games, board games and games on a screen.
+ᐁᑿ ᒦᓇ ᐃᐢᐸᔭᐘᐠ ᒪᓯᓇᐦᐃᑲᐣ ᒣᑕᐍᐏᓇ, ᐊᑎᐦᑯᐢᐠ ᒣᑕᐍᐏᓇ, ᒥᓇ ᒪᓯᓇᐦᐃᑲᓂᐠ ᒣᑕᐍᐏᓇ.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **ᓇᐦᑲᐚᐱᔭᐠ ᒪᓯᓇᐦᐃᑲᓇ.** ᓇᐢᑯᓯᐦᐃᑲᑌᐤ ᒪᓯᓇᐦᐃᑲᓇ ᑲ ᐘᐸᐦᑕᒪᐣ ᒫᑲ ᒣᑕᐍᐏᐣ ᐃᐢᐸᔭᐤ, ᒥᐦᒉᑕᐠ ᒥᔼᐢᐸᔭᐤ.
+2. **ᐊᐸᒋᐦᐃᐠ ᒐᐦᑭᔭᐤ ᐊᐸᒋᐦᐃᑲᓇ.** ᒫᑕ ᓃᓱ ᒥᓇ ᓂᐢᑐ ᓃᓱᐘᐠ. ᒥᓇ ᐊᐸᒋᐦᐃᐠ ᑭᐢᐱ ᐍᐦᒋᐦᐃ ᓭᐦᑫᓯᐤ ᐁᑿ ᓇᑕᐍᔭᐦᑖᐟ ᒥᓇ.
+3. **ᐅᓇᐸᒋᐦᐃᐠ ᒥᓯᐦᐋ, ᑲ ᓂᓯᑐᐏᐣᒪᑲᐠ, ᑭᐦᐃᔭᐤ ᒪᓯᓇᐦᐃᑲᓇ.** ᒥᓂᐦᐠᐚᒋ, ᐚᐱᑯᓄᐢᐠ, ᓂᐱᐢᑯᐦᑖᑯᓯ. ᓇᒨᐘ ᒪᓯᓇᐦᐃᑲᐣ ᐊᐘᓯᐢᐠ ᐅᐦᒋ, ᓇᒨᐘ ᒥᐦᒉᐟ ᑲ ᐅᓯᐦᐃᑲᑌᐠ.
+4. **ᒫᒫᐏ ᒣᑕᐍᐠ.** «ᓇᐢᑯᓯᐦᐃᑖᑕᓐ ᐊᑎᒷᐘᐠ» ᐃᑌᐠ, ᓇᒨᐘ «ᑭᔭ ᒫᑲ ᒣᑕᐍᐣ». ᒫᒫᐏ ᐃᑌᔨᐦᑕᒧᐠ ᐁᑿ ᐏᒋᐦᐃᑎᑐᐠ.
+5. **ᐊᑯᓇ ᐊᑭᐦᑕᓱᐏᐣ.** ᐊᐘᐃᔭᐠ ᓇᒨᐘ ᓇᑕᐍᔭᐦᑖᐤ ᐁ ᓵᑯᐦᐃᐟ. ᑭᐢᐱ ᐊᐘᐃᔭᐠ ᑲᑯᒋᒪᐟ, «ᑭ ᑭᐦᒋᐦᑖᓈᐣ» ᐁ ᐃᑌᔭᐣ ᑖᐱᐢᐸᔭᐤ.
+6. **ᐁᑲ ᐘᐦᑲ ᐘᐦᐱᐢᑲᐦᐃᐠ ᐊᑭᐦᑕᓱᐏᐣ.** ᓇᒨᐘ ᐊᑭᐦᑕᓱᐏᐣ ᒪᓯᓇᐦᐃᑲᐣ, ᓇᒨᐘ ᐘᐦᐱᐢᑲ ᒣᑕᐍᐠ.
+7. **ᐊᑎᒧᐠ ᒪᓯᓇᐦᐃᑲᓇ ᐅᐦᒋ.** «ᐘᐸᐦᑕ ᐁᑿ ᓂᐱᐢᑯᐦᑖᑯᓯ. ᑭ ᑭ ᐱᒧᐦᑌᓈᐤ ᓇ? » ᐊᑎᒧᐏᐣ ᒫᑲ ᒥᐦᒉᑕᐠ ᒥᔼᓯᐣ ᐃᐢᐸᔭᐤ.
+8. **ᐊᑯᓇ ᒥᔼᓯᐣ ᐃᐢᐸᐦᐃᐤ.** ᐊᑯᓇ ᑭᐢᐱ ᓇᐢᑯᓯᐦᐃᑲᑌᐠ ᓃᓱᐘᐠ, ᒣᒁᐨ ᐁ ᒥᔼᐢᐸᔭᐠ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ᐯᔭᑯ ᒫᑲ ᐃᑌᐤ ᒥᓯᐍ ᐃᑌᔨᐦᑕᒧᐏᐣ: ᐅᓇᐸᒋᐦᐃᐠ ᐃᐢᐱ ᑲ ᑭ ᑖᐱᐢᑕᐟ ᐊᐘ ᑲ ᐸᒥᐦᑖᐟ, ᐘᐸᐦᑕ ᑭᐢᐱ ᒫᒋ ᒥᔼᐢᐸᔭᐟ, ᐁᑿ ᐃᐢᐸᔭᐤ ᐁ ᑭ ᑖᐱᐢᑕᐟ.
 
-## Gentle memory and matching games to try
+## ᓭᐦᑫ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒥᓇ ᓇᐢᑯᓯᐏᐣ ᒣᑕᐍᐏᓇ ᑲ ᑯᒋᐦᑕᒪᐣ
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (ᓇᐢᑯᓯᐏᐣ ᐁ ᓇᐦᑲᐚᐱᔭᐠ ᒪᓯᓇᐦᐃᑲᓇ)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) ᓇᐢᑯᓯᐏᐣ ᒣᑕᐍᐏᐣ ᒥᓯᐦᐋ ᒪᓯᓇᐦᐃᑲᓇ ᐁ ᐊᔭᐘᐠ ᐁᑿ 4 ᒥᓇ 12. ᒪᓯᓇᐦᐃᑲᓇ ᒋᐦᐃ ᓇᐦᑲᐚᐱᐘᐠ, ᐁᑿ ᓇᐢᑯᓯᐦᐃᑲᑌᐘᐠ ᓃᓱᐘᐠ, ᓇᒨᐘ ᑭᐢᑭᓯᐟ ᑖᓂᑌ ᐁ ᐃᐦᑖᐠ. ᒫᑕ ᓀᐓ. ᐊᐘᐠ ᓂᑲᓄ ᐃᐢᐸᔭᐟ ᑲ ᒥᔼᐚᑲᒧᐟ ᒥᓇ ᑲ ᓇᑕᐍᔭᐦᑖᐟ ᒥᓇ ᐯᔭᐠ, ᒋᐦᐃ ᐅᓵᐦᐊᐣ **Hidden pictures**, ᒫᑲ ᐠᐍᐢᑭᓄᐦᐊᒫ ᒪᓯᓇᐦᐃᑲᓇ ᑭᐢᐱ ᓇᒨᐘ ᒥᔼᐢᐸᔭᐠ.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) ᐘᐦᑕᒪᑭᐣ ᐯᔭᐠ ᒪᓯᓇᐦᐃᑲᐣ ᐃᐢᐱᒥᐨ ᐁᑿ ᓃᓱ ᒥᓇ ᓀᐓ ᑖᐱᐢᑯᐨ. ᓵᒥᓇ ᐁᑿ ᑲ ᓇᐢᑯᓯᐟ. ᐁᑿ ᐍᐦᒋᐦᐃ ᓭᐦᑫᓯᐣ ᓇᐢᑯᓯᐏᐣ ᒣᑕᐍᐏᐣ ᐅᐦᑕ ᐃᐦᑕᐍᐏᐣ, ᐁᑿ ᒥᔼᓯᐣ ᐊᐘᐠ ᑲ ᒥᐦᒉᐟ ᒪᓯᓇᐦᐃᑲᐣ ᐁ ᓇᒨᐘ ᒥᔼᐚᑲᒧᐟ, ᒥᐦᒉᐟ ᐁ ᐃᐢᐸᔭᐠ ᐊᐘᐠ ᐏᒋᐦᐃᐍᐟ.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (ᐏᐦᑭᐦᐃᑲᐣ ᒪᓯᓇᐦᐃᑲᐣ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᐣ)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) ᒦᓇ ᒪᓯᓇᐦᐃᑲᓇ ᑲ ᐅᓇᐸᒋᐦᐃᔭᐣ ᓇᐢᑯᓯᐏᐣ ᒣᑕᐍᐏᐣ: ᐊᑎᒼ, ᑭᐢᑌᑲᓂᐢ, ᓵᑲᐦᐃᑲᓂᐢ ᐚᐢᑲᐦᐃᑲᓂᐢ. ᑲ ᓂᓯᑐᐏᐣᒪᑲᐠ ᒥᓇ ᐃᐦᑕᐏᓇ ᒫᑲ ᒥᐦᒉᑕᐠ ᐊᑎᒧᐏᐣ ᐅᐦᒋ ᐊᐱᐦᑕᐘᐠ ᐁ ᒪᓯᓇᐦᐃᑲᓇ ᐅᐦᒋ. ᒪᓯᓇᐦᐃᑲᓇ ᐊᔭᐘᐠ ᑭᔭ ᐅᐦᒋ ᒪᓯᓇᐦᐃᑲᓂᐠ ᐁᑿ ᓇᒨᐘ ᐘᐦᑲ ᐃᓯᓇᐦᐃᑲᓱᐘᐠ.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) ᓇᑕᐍᔭᐦᑖᐤ ᐁ ᐊᐦᑕᐣ ᑲᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᐣ ᐊᐢᑭᐦᑯᐨ ᐃᑌ ᑲ ᐃᐦᑖᐟ, ᑖᐱᐢᑰᐨ ᑭᐦᒋ ᐚᐢᑲᐦᐃᑲᓂᐢ ᒥᓇ ᑭᐢᑌᑲᓂᐢ. ᐊᐦᑕᐏᐣ ᐊᐸᒋᐦᐃᑯᐤ ᑭᓄ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᑖᓂᓯ ᐊᐢᑭᕀ ᐁ ᐃᐢᐸᔭᐠ, ᓇᒨᐘ ᐅᐢᑭ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) ᑕᐢᑭᐦᐊᐤ ᒪᓯᓇᐦᐃᑲᐣ 4 ᒥᓇ 9. ᓵᒥᓇ ᓃᓱ ᐁᑿ ᒥᔦᐢᑯᑕ ᐸᑭᐢᑲ ᒪᓯᓇᐦᐃᑲᐣ ᒧᐢᑭᓇᑲᑌᐠ. ᑲᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᐣ ᐊᔭᐤ ᒪᓯᓇᐦᐃᑲᓂᐠ ᐁ ᐏᒋᐦᐃᑯᐟ.
 
-### Real cards on the table
+### ᑕᐱᐢᑯᐨ ᒪᓯᓇᐦᐃᑲᓇ ᐊᑎᐦᑯᐢᐠ
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+ᓇᒨᐘ ᓇᑕᐍᔭᐦᑖᐣ ᒪᓯᓇᐦᐃᑲᐣ. ᐅᑎᓇ ᓃᓱᐘᐠ ᑲ ᓇᐢᑯᓯᐠ ᓃᓱ ᐊᑎᐦᑯᐢᐠ ᒥᓇ ᒪᓯᓇᐦᐃᑲᐣ ᐊᑎᐦᑯᐢᐠ ᐅᐦᒋ. ᐊᐦᑕ ᓃᓱ ᐃᐢᑯᑌᐘ ᐁ ᓇᐦᑲᐚᐱᔭᐠ ᐁᑿ ᒫᒫᐏ ᓇᐢᑯᓯᐦᐃᐠ ᓃᓱᐘᐠ. ᒣᒁᐨ ᒥᓇ, ᐊᐦᑕ ᐃᐢᐸᔭᐠ ᐃᐢᐸᔭᐠ ᒥᓇ ᐃᐢᐸᔭᐠ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ᐘᐦᑕᒪᑭᐣ ᒪᓯᓇᐦᐃᑲᐣ ᒣᑕᐍᐏᓇ ᒥᓇ ᐊᑎᐦᑯᐢᐠ ᒣᑕᐍᐏᓇ ᓂᑲᓄ ᐃᐢᐸᔭᐠ ᐅᐦᒋ.
 
-## Which memory games suit each stage?
+## ᑖᓂᐢᐱ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᒥᔼᓯᓇᐘ ᑲᑭᔭᐤ ᐃᐢᐸᔭᐠ?
 
-Stages are loose labels. Go by what the person enjoys today.
+ᐃᐢᐸᔭᓇ ᓇᒨᐘ ᑕᐱᐢᑯᐨ ᐃᐢᐸᔭᐘᐠ. ᐘᐸᐦᑕ ᐁᑿ ᑲ ᒥᔼᐚᑲᒧᐟ ᐊᐘ ᑲ ᐸᒥᐦᑖᐟ ᐊᓄᐦᐨ.
 
-| Stage | Games that often fit | How to set them up |
+| ᐃᐢᐸᔭᐤ | ᒣᑕᐍᐏᓇ ᑲ ᒥᔼᓯᐠ ᒫᑲ | ᑖᓂᓯ ᑲ ᐅᓵᐦᐃᐦᐃᑲᑌᐠ |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| ᓂᑲᓄ | Picture pairs, Photo pairs, Picture puzzle 9, ᑲ ᓂᓯᑐᐏᐣᒪᑲᐠ ᒪᓯᓇᐦᐃᑲᐣ ᒣᑕᐍᐏᓇ | ᐅᓇᐸᒋᐦᐃ ᐁ ᐅᓇᐸᒋᐦᐃᐟ. ᒋᐦᐃ ᐠᐍᐢᑭᓄᐦᐊᒪᑲᓂᐘᐠ ᑭᐢᐱ ᒥᔼᐚᑲᒧᐤ; ᐊᑯᓇ ᐊᑭᐦᑕᓱᐏᐣ ᑭᐢᐱ ᓇᒨᐘ ᒥᔼᐚᑲᒧᐤ |
+| ᑖᐱᐢᑯᐨ | Picture pairs 4 ᒥᓇ 6 ᐁ ᓇᐦᑲᐚᐱᔭᐠ, Find the same, Sort together | ᒪᓯᓇᐦᐃᑲᓇ ᒫᑲ ᓇᐦᑲᐚᐱᐘᐠ. ᐊᐱ ᐏᒋᐦᐃ ᐁᑿ ᒫᒫᐏ ᐏᒋᐦᐃᐠ |
+| ᐃᐢᑯᑌᐦᐨ | Find the same 2 ᐅᓇᐸᒋᐦᐃᑲᓇ, ᒫᒫᐏ ᐘᐸᐦᑕᒧᐠ ᐯᔭᐠ ᒥᓯᐦᐋ ᒪᓯᓇᐦᐃᑲᐣ | ᐍᐦᒋᐦᐃ ᒐᐦᑭᔭᐤ. ᑭᔭ ᑲᓇᐍᔭᐦᑕ ᒪᓯᓇᐦᐃᑲᐣ; ᐏᔭ ᐃᑌᔨᐦᑕᒼ, ᒥᓇ ᒫᑲ ᐘᐸᐦᑕᒼ ᐁᑿ ᓇᑕᐦᑕᒼ |
 
-## Do memory games help with dementia?
+## ᒋᐦᐃ ᓇᑲ ᐏᒋᐦᐃᑯᐘᐠ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᐊᐘᐠ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+ᓇᒨᐘ ᐯᔭᐠ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᐣ ᐘᐦᑕᒪᑫᐤ ᑖᐱᐢᑯᐨ ᑲ ᓇᓇᑕᐍᐦᐃᑯᐠ, ᑲ ᔭᐦᑭᓯᐦᐃᑯᐠ, ᒥᓇ ᑲ ᓄᑲᐦᐃᑯᐠ ᐁ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ. [Cochrane ᑲ ᓇᓇᑕᐚᐸᐦᑕᒧᐘᐠ](https://pubmed.ncbi.nlm.nih.gov/30864747/) ᒪᓯᓇᐦᐃᑲᓂᐠ ᑲ ᑭᐢᑭᓄᐦᐊᒫᐦᐃᑯᐏᐣ ᐊᐘᐠ ᑲ ᒐᐦᑭᔭᐤ ᐁ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᐅᐦᒋ ᒥᑭᓄᐘᐸᐦᑕᒼ ᓇᒨᐘ ᑖᐱᐢᑯᐨ ᒥᔼᓯᓇᐣ ᐁ ᐃᑌᔨᐦᑕᒪᑲᐠ ᑖᐱᐢᑯᐨ ᓇᑲ ᐃᐦᑯᐦᐃᑯᐘᐠ ᐁ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ. ᓃᐢᑕᑭ ᒪᓯᓇᐦᐃᑲᐣ [ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᒥᓇ ᐁ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ](/brain-health/brain-games/) ᐘᐦᑕᒪᑭᐣ ᐁᑿ ᑲ ᓇᓇᑕᐚᐸᐦᑕᒧᐘᐠ ᑲ ᐘᐦᑕᒪᑭᐠ ᒥᓇ ᑲ ᓇᒨᐘ ᐘᐦᑕᒪᑭᐠ.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+ᐁᑿ ᓇᒨᐘ ᐅᐦᒋ ᐁ ᓇᑲᑌᔭᐣ ᒣᑕᐍᐏᓇ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ᐃᑌᐤ ᒫᑲ ᐊᐸᒋᐦᐃᐠ ᒥᔼᐚᑲᒧᐏᐣ, ᓇᒨᐘ ᐊᔭᐦᑭᐦᒋᑫᐏᐣ. ᒥᑖᑕᐦᐟ ᒥᓂᑐᐢ ᐁ ᓇᐢᑯᓯᐦᐃᔭᐣ ᒪᓯᓇᐦᐃᑲᓇ ᐁᑿ ᐁ ᐊᑎᒧᔭᐣ ᒋᐦᐃ ᒥᔼᓯᐣ ᐃᐢᐸᔭᐤ ᐯᔭᐠ ᑮᓯᑳᐤ.
 
-## What about memory games for seniors without dementia?
+## ᑖᓂᐢᐱ ᒫᑲ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒣᑕᐍᐏᓇ ᑫᐦᑌ ᐊᐘᐠ ᑲ ᓇᒨᐘ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+ᑭᐢᐱ ᑫᐦᑌ ᐊᐘᐠ ᑲ ᓇᒨᐘ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒥᔼᐚᑲᒧᐤ ᐊᑭᐦᑕᓱᐏᐣ ᒣᑕᐍᐏᓇ, ᐊᑭᐦᑕᓱᐏᓇ, ᒥᓇ ᐊᔭᐦᑭᒧᐏᓇ, ᓇᒨᐘ ᒪᔭ ᐃᐢᐸᔭᐤ. ᒫᑲ ᐁᑲ ᒪᒋ ᐃᑌᔨᐦᑕᒪ ᐁ ᓇᑲ ᐃᐦᑯᐦᐃᑯᐟ ᐁ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ; ᓇᒨᐘ ᐯᔭᐠ ᒣᑕᐍᐏᐣ ᐘᐦᑕᒪᑫᐤ ᐁᑿ. ᓭᐦᑫ ᒣᑕᐍᐏᓇ ᐅᐦᑕ ᒥᓇ ᒥᔼᓯᓇᐘ ᑭᐢᐱ ᒥᐦᒉᐟ ᐃᐢᐸᔭᐠ ᒫᒫᐏ ᒣᑕᐍᐏᐘᐠ: ᐅᐦᑭᒫᐤ ᑲ ᐚᓂᑕᐟ ᑭᐢᑭᓄᐦᐊᒫᑭᐣ ᒥᓇ ᐅᓯᒥᓯᐢ ᒋᐦᐃ ᒫᒫᐏ ᓇᐢᑯᓯᐦᐃᐘᐠ ᒪᓯᓇᐦᐃᑲᓇ, ᐁᑿ ᓇᒨᐘ ᐯᔭᐠ ᑯᒋᐦᐃᒋᑲᑌᐤ.
 
-## When should you stop or change the game?
+## ᑖᓂᐢᐱ ᑲ ᐊᑯᓇᔭᐣ ᒥᓇ ᑲ ᒦᓭᓇᔭᐣ ᒣᑕᐍᐏᐣ?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+ᑭᐢᐱ ᐊᐘᐠ ᐹᐢᐱᐘᐤ, ᐱᒧᐦᑐᐘᐤ ᒪᓯᓇᐦᐃᑲᐣ, ᐃᑌᐤ «ᓇᒨᐘ ᓂ ᑭ ᑖᐱᐢᑖᐣ» ᒥᓇ ᓭᐢᑭᐸᔭᐤ, ᐁᑿ ᓇᐦᑲᐚᐱᒋᑲᑌᐤ ᐁ ᓭᐦᑫᓯᐦᐃᑲᑌᐠ ᒥᓇ ᐁ ᐊᑯᓇᑲᑌᐠ. ᑯᒋᐦᑕ ᒐᐦᑭᔭᐤ ᒪᓯᓇᐦᐃᑲᓇ, ᓇᐦᑲᐚᐱᐦᐃ ᒪᓯᓇᐦᐃᑲᓇ, ᒦᓭᓇ [Find the same](/games/find-the-same/), ᒥᓇ ᒫᑲ ᐘᐸᐦᑕ ᒪᓯᓇᐦᐃᑲᓇ ᐁᑿ ᐊᑎᒧᐠ. ᑭᐢᐱ ᓇᒨᐘ ᓇᑕᐍᔭᐦᑖᐤ ᐁ ᒣᑕᐍᐟ, ᐁᑿ ᒥᔼᓯᐣ. ᓃᐢᑕᑭ ᒪᓯᓇᐦᐃᑲᐣ [ᑖᓂᓯ ᑲ ᒫᒫᐏ ᒣᑕᐍᐏᐣ](/caregiving/how-to-play-together/) ᐘᐦᑕᒪᑭᐣ ᒥᓇ ᐊᔭᐦᑭᒧᐏᐣ ᐁᑿ ᐏᒋᐦᐃᐍᐏᐣ.

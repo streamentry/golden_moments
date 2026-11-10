@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Konsehu para fuminoʼ yan taotao niʼ gaige gi demensia"
+seoTitle: "Konsehu para fuminoʼ yan taotao niʼ gaige gi demensia"
+description: "Manmaolek na manera para un kombetsasion yan taotao niʼ mañåsåonåo gi demensia: taimanu para un priperåra, håfa para un sångan, yan taimanu para un ekkungok."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Fanguentos gi un lugåt trankilu, atan i taotao, usa i naʼan-ña, ya fåbaba
+  yan kåtto na sinentenån-mu. Faisen un kuestion haʼ gi un biåhi, ofresi dos
+  na ineppe siha enlugåt di abettu na kuestion, ya nangga mas tiempu ki i
+  minagahet para un hasso. Munga måtmos, munga kumurehi, munga fumaisen
+  tåtte. Oppe i siniente niʼ gaige gi papaʼ i palabra siha, ya usa i inakkaʼ,
+  litratu, yan señas an mås mampos chumålek i finoʼ.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Naʼsuha i ruidu gi uriya ya naʼguaha atension åntes di un tutuhon fuminoʼ."
+  - "Usa kåtto na sinentenå siha, un ideha haʼ gi kada biåhi, yan naʼan siha enlugåt di guiʼ, guiʼ, pat siha."
+  - "Ofresi dos na ineppe, pat kuestion niʼ hunggan pat åheʼ, enlugåt di abettu na kuestion siha."
+  - "Nangga i ineppe. Yanggen ti ma komprende, ripiti i mismu palabra siha, pues chagi otro palabra siha."
+  - "Munga måtmos pat kumurehi. Oppe i siniente niʼ gaige gi papaʼ håfa masåsangan-ña."
+  - "An mampos chumålek i palabra siha, kombetsasion ginen i inakkaʼ, bos, expresion gi matai, yan litratu niʼ in adadahi."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Håfa ti debi di un sångan gi taotao niʼ gaige gi demensia?"
+    a: "Munga fumaisen tåtte (“Un hasso...?”), munga kumurehi (“Ti magåhit ennao”), munga munahassuyi put i finaʼtinas niʼ ma naʼfalingu (“Esta hu sångan hao”) yan munga fuminoʼ put guiʼ komu ti gaige guiʼ guihi. Munga fuminoʼ komu para un neni. Este siha na manera siña munaʼmamahlao pat munaʼtribiha sin ayudu."
+  - q: "Debi di hu korehi yanggen ti magåhit i finoʼ-ña?"
+    a: "Kasi ti nesesåriu. Yanggen i ti magåhit na finoʼ ti ha chachatsaga håfa, polu haʼ. I inagumentu ti hassuyi i hinasso-ña ya siña ha naʼlalalu. Atan håfa ha siente yan håfa ha nisisita påʼgo."
+  - q: "Håfa bai hu choʼgue yanggen ti siña ha soddaʼ i palabra?"
+    a: "Nåʼi guiʼ tiempu fineʼnena. Yanggen klaru na mampos chumålek para guiʼ, siña un ofresi un palabra sin chachatsaga pat un adivina håfa malagoʼ-ña ya un chechek. I tinuturo, señas, yan litratu siha siña lokkueʼ manayuda."
+  - q: "Taimanu bai hu kombetsasion yan taotao niʼ esta gi uttimo na tiempu i demensia ya ti meggai kumuentos?"
+    a: "Fatto gi meʼnan-ña, sångan håyi hao, ya usa un bos trankilu yan un suåbe na inakkaʼ. Atan i matai yan i tataotao-ña para un komprende i siniente-ña. I presensia-mu, un kantå niʼ ma tungoʼ, pat i iniggum i kannai-ña siña ha naʼfanhasso meggai sin palabra."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+I demensia siña ha naʼmas chumålek para un taotao na u soddaʼ palabra, u tattiyi un anåkkoʼ na sinentenå, pat u pega i ruidu gi uriya. Lao ennao ti kumekeilekña na esta ti malagoʼ dumångkulu yan otro taotao. Diddideʼ na tinilaika gi taimanu un priperåra un kombetsasion, taimanu un kuentos, yan taimanu un ekkungok siña ha naʼmas libiånu yan mas trankilu i finoʼ para i dos.
 
-## What are the most important tips for talking with someone who has dementia?
+## Håfa i mas impottånte na konsehu para fuminoʼ yan taotao niʼ gaige gi demensia?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Naʼguaha atension-ña, naʼfasil i finoʼ, ya fåpasensia. Yanggen un hasso haʼ sinku na kosas:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Naʼtrankilu i kuatto ya atan guiʼ.** Punoʼ i TV, tåchong gi mismu nibet i matai-ña, ya usa i naʼan-ña.
+2. **Sångan un kosas haʼ gi un biåhi.** Kåtto na sinentenå siha, un ideha, un kuestion.
+3. **Ofresi dos na ineppe.** “Chå pat kafe?” mas libiånu ki “Håfa malagoʼ-mu?”
+4. **Nangga.** Nåʼi mas tiempu para u oppe ki i minagahet para un hasso, ya chagi munga un uttot guiʼ.
+5. **Munga måtmos pat fumaisen tåtte.** Oppe håfa ha siente, ti håyi magåhit i detalye.
 
-## How should I start a conversation?
+## Taimanu bai hu tutuhon un kombetsasion?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Priperåra i lugåt para i taotao siña ha naʼi hao atension. I [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ha rekomenda na un naʼdiddideʼ i ruidu fineʼnena: punoʼ i rediu pat TV, huchom i kuttina pat pettan, pat fåtto gi mas trankilu na lugåt.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Fatto gi meʼnan-ña.** Yanggen un fatto gi tatti pat gi kanton siña un naʼsustuyi guiʼ.
+- **Sångan håyi hao.** “Håfa adai Tata, si Sarah yuʼ, i hagå-mu.” Este ha ayuyuda guiʼ para ti ha aligao i naʼan-mu.
+- **Fåtto gi mismu nibet-ña.** Yanggen matåchong guiʼ, tåchong pat dimo papaʼ para i mata-mu parehu yan i mata-ña.
+- **Atan i matai-mu yan i bos-mu.** I [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ha abisa na un ripara i bos-mu, i fuetså-ña, i expresion gi matai-mu yan i tataotao-mu, ya un chagi un manera niʼ meyoʼng yan klaru.
+- **Chechek i antipåra yan i inayudan i talanga.** Mampos chumålek para u tattiyi un kombetsasion yanggen ti siña ha liʼeʼ pat hungok maolek.
 
-## How should I phrase what I say?
+## Taimanu bai hu usa i palabra siha?
 
-Use simple words, short sentences and a calm, low voice.
+Usa fåsil na palabra, kåtto na sinentenå, yan un bos trankilu yan påpaʼ.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Un ideha gi kada sinentenå.** “Nihi ta naʼhålom i chåket-mu. Pues ta hånao huyong.” Ti i dos gi un hånesu haʼ.
+- **Usa naʼan siha, ti “guiʼ” pat “siha”.** “Ha ågang si Tiha Jean” mas klaru ki “Ha ågang guiʼ.”
+- **Naʼpåpaʼ i bos-mu, ti naʼtagåhleʼ.** I Family Caregiver Alliance ha sosohyi na mas maolek påpaʼ na bos ki ma tagåhleʼ.
+- **Ripiti, pues tulaika i palabra.** Yanggen ti ha komprende, ripiti i mismu palabra siha un biåhi. Yanggen ti funsiona, nangga dididiʼ ya chagi otro palabra siha.
+- **Fanue lokkueʼ, ti sångan haʼ.** Tutuhun gi tasa, naʼliʼeʼ i dos na chininå, pat fanue i fineʼnena na paso.
+- **Fanguentos yan guiʼ, ti put guiʼ.** I NIA ha adahi na munga fuminoʼ put i taotao komu ti gaige guiʼ guihi, yan munga fuminoʼ komu para un neni.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+I NIA ha sosohyi mas fåsil na manera para komun na kuestion. Estagueʼ i ehemplu siha:
 
-| Instead of | Try |
+| Enlugåt di | Chagi este |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “Håfa malagoʼ-mu para sena?” | “Malagoʼ hao guihan pat mannok?” |
+| “Taimanu hao sente?” | “Måyaya hao?” |
+| “Ñålang hao?” | “Esta listo i sena gi sinku minutos.” |
+| “Ti taiguenao un choʼgue.” | “Nihi ta chagi taiguini.” |
+| “Un hasso i biahi-ta para i saddok?” | “Hu hasso i biahi-ta para i saddok. Sångan håfa niʼ ya-mu put ennao.” |
+| “Esta hu sångan hao.” | Oppe tåtte, sin amåbla, komu fineʼnena na biåhi. |
 
-## How do I listen well?
+## Taimanu bai hu ekkungok maolek?
 
-Listen for the meaning and the feeling, not just the words.
+Ekkungok i sustånsia yan i siniente, ti i palabra haʼ.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Nangga.** Måsusedi na tiempu para u hasso i silensio. Tufong despåsio asta dies åntes di un hålom.
+- **Ofresi un palabra haʼ yanggen esta ma stuck.** I Family Caregiver Alliance ha sångan na siña un ofresi palabra yanggen mampos chumålek para guiʼ.
+- **Chechek håfa un hungok.** I [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) ha sosohyi na un aligao i sustånsia gi papaʼ i palabra-ña ya un ripiti para un chechek yanggen un komprende. “Un ininålingu put i kareta?”
+- **Atan i matai-ña yan i tataotao-ña.** An mampos chumålek i finoʼ, i NIA ha nota, i expresion gi matai siña ha naʼannok i tristiha, binibu, pat i ninaʼchalek mas klaru ki i palabra.
+- **Respeta i ininålingu-ña.** Achokkaʼ i ininålingu ginen un ti magåhit na detalye, magåhit i siniente.
 
-## What if they say something that is not true?
+## Håfa yanggen ha sångan håfa niʼ ti magåhit?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Munga måtmos. Ti gof siña un gana, ya siña ha naʼmamahlao pat naʼmaʼañao i taotao. Enlugåt, konekta yan i siniente-ña, pues naʼsuha sin chachatsaga.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+I Family Caregiver Alliance ha sosohyi na un aksepta i siniente åntes di un tulaika i tema. Pot ehemplu, yanggen ha insisti si Nånan-mu na debi di u konneʼ i famaguʼon ginen eskuela:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Enlugåt di: “Nåna, esta dångkulu i famaguʼon-mu. Kuårenta åños esta.”
+- Chagi: “Gof kareñosu hao nåna para i famaguʼon-mu. Sångan håfa put i tiempo an un konneʼ siha. Kao ta chumocho amotsa fineʼnena?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+I Alzheimer's Association lokkueʼ ha abisa na munga måtmos put i finoʼ niʼ ti un aksepta. Ayek i momento: yanggen i ti magåhit na hinasso ti ha chachatsaga håfa, polu haʼ.
 
-## How does communication change as dementia progresses?
+## Taimanu bumababa i kombetsasion an måtutuhon i demensia?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+I nisisidåt siha mabababa gi tiempu, put ennao tulaika i manera-mu. I Alzheimer's Association ha deskribi tres na tiempo siha:
 
-| Stage | What helps |
+| Tiempo | Håfa umayuyuda |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Tuttuon | Munga hasso na ti siña kumuentos. Naʼsahalom guiʼ gi kombetsasion siha, fåbaba yan guiʼ direktu, faisen håfa na ayudu malagoʼ-ña, ya usa hinemhom yanggen ha ayuyuda. |
+| Taloloʼ | Kombetsasion entre dos gi un trankilu na lugåt. Fåbaba, naʼguaha atension gi matai, usa kuestion niʼ hunggan pat åheʼ, nåʼi instruksåot gi paso pot paso, ya munga kumritika pat kumurehi. |
+| Uttimo | Fatto gi meʼnan-ña ya sångan håyi hao. Naʼanimo guiʼ para u tutuhun pat u usa señas. Usa inakkaʼ, sunidu, linaʼlaʼ, yan pao. Munga fuminoʼ komu ti gaige guiʼ guihi. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Kada taotao diferente, ya i mismu taotao siña guaha maolek yan chumålek na haʼåni. Oppe taimanu guiʼ påʼgo, ti i etiketa.
 
-## Can pictures and activities make conversation easier?
+## Siña ha naʼlibiånu i kombetsasion i litratu yan aktibidåt siha?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Hunggan. I litratu niʼ in adadahi ha naʼdiddideʼ i prisisu ya ha nåʼi ham tåtte niʼ un kosas para in atan yan in tuturo.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Litratu para kombetsasion.** [Conversation Cards](/games/conversation-cards/) ha ofresi litratu yan abettu na kuestion niʼ ti fumaisen tåtte.
+- **Litratu familia.** [Photo Pairs](/games/photo-pairs/) ha tulaika i litratu niʼ un ayek para un suåbe na huegu, ya sesso ha naʼtutuhon estoria siha.
+- **Dichu niʼ ma tungoʼ.** [Finish the Saying](/games/finish-the-saying/) ha usa dicho siha niʼ ma tungoʼ, ya dispues guaha kuestion para kombetsasion.
+- **Huegu para in pareha.** [Picture Pairs](/games/picture-pairs/) ha nåʼi i kannai-mu un kosas para u choʼgue mientras un kombetsasion.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Atan [taimanu para ta huegu tåtte](/caregiving/how-to-play-together/) yan [aktibidåt para u ma hasso](/activities/reminiscence/) para mas. Para bisita yan ågang, taitai i guiya-måmi para [bisita](/activities/visiting/) yan [ågang gi tilifon yan bidiu](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Håfa yanggen hu gånna i pasensia-hu?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Susede gi todu. I NIA ha sosohyi na yanggen mañotsot hao, nåʼi hao tiempu para un naʼtrankilu hao. Hånao otro kuatto, hånesu despåsio, ya fatto tåtte yanggen esta trankilu hao. Siña un tutuhon i kombetsasion tåtte, ya siña ha oppe i taotao i mas trankilu na minagof-mu. Yanggen sesso hao mañotsot, ennao señåt na nisisita hao mas ayudu, ti señåt na ti un chochoʼgue maolek. I guiya-måmi put [inadahe para i manadadahi](/caregiving/caregiver-self-care/) guaha lugåt siha niʼ siña un fåtto para ayudu.

@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Cluichí Cuimhne do Dhaoine Sinsearacha le Néaltrú"
+seoTitle: "Cluichí Cuimhne le Néaltrú, Smaointe Séimhe"
+description: "Cluichí meaitseála, pictiúr agus cártaí do dhaoine sinsearacha le néaltrú, agus conas iad a imirt gan aon duine a chur faoi thástáil: pictiúir os comhair, níos lú péirí, gan scór, imirt mar fhoireann."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Is fearr a oibríonn cluichí cuimhne do dhaoine sinsearacha le néaltrú nuair
+  nach mbraitheann siad ar an gcuimhne. Imir cluichí meaitseála agus na
+  pictiúir os comhair, úsáid ceithre nó sé thíl, imir mar fhoireann agus fág
+  an scór ar lár. Is fusa pictiúr a aithint ná cuimhneamh air, mar sin roghnaigh
+  cluichí ina mbíonn gach rud le feiceáil. Is é an taitneamh, ní toradh, an sprioc.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Cuireann cluichí cuimhne clasaiceacha na cártaí i bhfolach, rud a thástálann go díreach an rud a dhéanann néaltrú deacair. Fág na pictiúir os comhair ina áit."
+  - "Cuidíonn níos lú píosaí, pictiúir níos mó agus rogha amháin ag an am leis an gcluiche a bheith taitneamhach."
+  - "Imir mar fhoireann, glac sealaíochta ag cabhrú agus fág an scór ar lár. Níor cheart aon duine a chur faoi bhrú."
+  - "Níor léiríodh go gcaitheann aon chluiche cuimhne le néaltrú, go moillíonn sé é ná go stopann sé é. Imir toisc gur am taitneamhach le chéile é."
+  - "Stop nuair atá sé fós taitneamhach. Is toradh maith é caint faoi na pictiúir."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Cén cluiche cuimhne atá oiriúnach do dhuine a bhfuil néaltrú air nó uirthi?"
+    a: "Cluiche meaitseála le pictiúir mhóra, aithnidiúla ar féidir iad a fhágáil os comhair, mar shampla Picture pairs socraithe go ceithre nó sé thíl. Is sásúil an dara pictiúr a aimsiú nuair atá an dá cheann le feiceáil, gan an ghearrchuimhne a thástáil. Tá Find the same níos simplí fós, le pictiúr amháin le meaitseáil as dhá nó ceithre rogha."
+  - q: "An gcabhraíonn cluichí cuimhne le néaltrú?"
+    a: "Níor léiríodh go gcaitheann aon chluiche cuimhne le néaltrú, go moillíonn sé é ná go stopann sé é; fuair athbhreithniú Cochrane go raibh an fhianaise ar oiliúint inchinne ar ríomhaire ró-theoranta le rá an gcuireann sé cosc ar néaltrú. Is féidir le cluichí a bheith ina mbealach taitneamhach fós chun am a chaitheamh le chéile. Roghnaigh iad ar son taitnimh agus comhluadair."
+  - q: "Ar cheart dom an cluiche clasaiceach Concentration a imirt le duine a bhfuil néaltrú air nó uirthi?"
+    a: "Go luath sa scéal, baineann roinnt daoine taitneamh as fós, go háirithe le líon beag cártaí. Má thosaíonn sé ag cur frustrachais orthu cuimhneamh cá bhfuil na cártaí, cas na cártaí os comhair agus aimsigh na péirí le chéile. Coimeádann sé sin an meaitseáil agus fágann sé an tástáil chuimhne ar lár."
+  - q: "Cén cineál cluichí cuimhne atá oiriúnach do dhaoine sinsearacha i ngrúpa?"
+    a: "Oibríonn biongó pictiúr le glaoiteoir ar an scáileán, ráitis aithnidiúla a chríochnú os ard, agus cártaí comhrá go maith do ghrúpaí. Imir go dtí go mbíonn gach cárta lán agus seachain a rá os ard cé a fuair freagra, ionas nach mbraitheann aon duine go bhfuil sé nó sí curtha ar leithligh."
+  - q: "An bhfuil cluichí cuimhne saor in aisce do dhaoine sinsearacha ar líne?"
+    a: "Tá. Tá na cluichí ar an suíomh seo, lena n-áirítear Picture pairs, Find the same, Photo pairs agus Picture puzzle, saor in aisce, ní gá clárú agus oibríonn siad ar fhóin, ar tháibléid agus ar ríomhairí. Níl lasc ama ná scór ag aon cheann acu."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Cuardaigh “cluichí cuimhne do dhaoine sinsearacha” agus is minic gurb iad na torthaí a fheicfidh tú cluichí a cruthaíodh do dhaoine atá ag iarraidh cleachtadh meabhrach: cártaí i bhfolach, cloig chomhairimh síos, leibhéil agus scóir. Do dhuine atá ina chónaí le néaltrú, déanann na gnéithe sin tástáil den chluiche ar an rud atá deacair cheana féin. Is féidir na cluichí céanna a imirt ar bhealach níos séimhe. Taispeánann an leathanach seo conas é sin a dhéanamh, agus liostaíonn sé cluichí a oibríonn go maith ag gach céim.
 
-## Why do classic memory games frustrate people with dementia?
+## Cén fáth a mbíonn cluichí cuimhne clasaiceacha frustrachas do dhaoine le néaltrú?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Toisc go mbraitheann siad ar fhaisnéis nua a choinneáil i gcuimhne, agus de ghnáth is é sin an chéad rud a chuireann galar Alzheimer, an chúis is coitianta le néaltrú, isteach air. Deir [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) gurb é an comhartha luath is coitianta de ghalar Alzheimer deacracht cuimhneamh ar fhaisnéis nua a foghlaimíodh. Sa chluiche clasaiceach Concentration, casann tú dhá chárta, cuimhníonn tú cá raibh siad, agus úsáideann tú an fhaisnéis sin nóiméad níos déanaí. Is faisnéis nua í sin, á coinneáil agus á tabhairt chun cuimhne.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Cuir lasc ama, scór nó glórán le freagraí míchearta leis sin, agus cuirtear an duine i gcuimhne ar an méid nach féidir leo a dhéanamh, os comhair duine a bhfuil grá acu dó nó di. Go ciúin, stopann go leor daoine ag iarraidh imirt.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Is tasc difriúil, agus de ghnáth níos fusa, é rud éigin a aithint nuair atá sé le feiceáil agat. Braitheann sé go maith an dara cupán tae a aimsiú nuair atá an dá cheann os do chomhair. Mar sin, is é an eochair an meaitseáil a choinneáil agus an tástáil chuimhne a fhágáil ar lár.
 
-## How do you make a memory game gentle?
+## Conas cluiche cuimhne a dhéanamh níos séimhe?
 
-These adjustments work for card games, board games and games on a screen.
+Oibríonn na coigeartuithe seo do chluichí cártaí, cluichí boird agus cluichí ar scáileán.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Fág na pictiúir os comhair.** Is cluiche fíor fós é pictiúir a mheaitseáil nuair atá siad le feiceáil, agus is minic go mbíonn sé sásúil.
+2. **Úsáid níos lú píosaí.** Tosaigh le dhá nó trí phéire. Cuir tuilleadh leis ach amháin má bhraitheann sé ró-éasca agus má tá siad ag iarraidh níos mó.
+3. **Roghnaigh pictiúir mhóra, aithnidiúla, do dhaoine fásta.** Cupán tae, lus na gréine, bád seoil. Ná húsáid cartúin ná radhairc phlódaithe.
+4. **Imir mar fhoireann.** “Aimsímis na madraí” in áit “is leatsa an seal.” Glac sealaíochta ag pointeáil agus ag cabhrú.
+5. **Fág an scór ar lár.** Ní gá do dhuine ar bith bua a fháil. Má chuireann duine ceist, is leor “rinneamar é”.
+6. **Ná déan deifir leis an gclog.** Gan lasca ama, agus gan deifir idir sealaíochtaí.
+7. **Labhair faoi na pictiúir.** “Féach ar an mbád sin. An raibh tú ag seoltóireacht riamh?” Is minic gurb í an chomhrá an chuid is fearr.
+8. **Stop ar nóta maith.** Críochnaigh tar éis meaitseála, fad is atá sé fós taitneamhach.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Tugann an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) an chomhairle ghinearálta chéanna: cuir an ghníomhaíocht in oiriúint don méid is féidir leis an duine a dhéanamh, bí ag faire amach le haghaidh frustrachais, agus cinntigh go mbraitheann siad go bhfuil rath orthu.
 
-## Gentle memory and matching games to try
+## Cluichí séimhe cuimhne agus meaitseála le triail a bhaint astu
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (meaitseáil le pictiúir le feiceáil)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+Is cluiche meaitseála é [Picture pairs](/games/picture-pairs/) le pictiúir mhóra agus 4 go 12 thíl. Is féidir na pictiúir a fhágáil le feiceáil, mar sin baineann sé le cúpla pictiúr a aimsiú, ní le cuimhneamh cá raibh siad. Tosaigh le ceithre thíl. Do dhuine atá sa chéim luath agus a bhaineann taitneamh as beagán níos mó dúshláin, is féidir leat athrú go **Hidden pictures**, ach téigh ar ais chuig pictiúir a thaispeáint a luaithe nach bhfuil sé taitneamhach a thuilleadh.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+Taispeánann [Find the same](/games/find-the-same/) pictiúr amháin ag an mbarr agus dhá nó ceithre rogha thíos. Tapáil an ceann a mheaitseálann. Is é an cluiche meaitseála is simplí ar an suíomh agus oireann sé do dhaoine a mbraitheann greille iomlán ró-phlódaithe, lena n-áirítear go leor daoine sna céimeanna níos déanaí agus duine éigin in aice leo.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (cluiche cuimhne le grianghraif teaghlaigh)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+Déanann [Photo pairs](/games/photo-pairs/) cluiche meaitseála de ghrianghraif a roghnaíonn tú féin: an madra, an gairdín, an teach cois locha. Is minic a spreagann aghaidheanna agus áiteanna aithnidiúla comhrá níos mó ná aon stocphictiúr. Fanann na grianghraif i do bhrabhsálaí agus ní uaslódáiltear iad riamh.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+Iarrann [Sort together](/games/sort-together/) ort gach pictiúr a chur sa chiseán ceart, mar shampla an chistin nó an gairdín. Baineann sórtáil le heolas atá ag duine le fada faoin saol, ní leis an ngearrchuimhne.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+Gearrann [Picture puzzle](/games/picture-puzzle/) pictiúr ina 4 nó 9 bpíosa. Tapáil dhá phíosa le malartú a dhéanamh eatarthu go dtí go mbeidh an pictiúr iomlán. Fanann an pictiúr iomlán ar an scáileán mar threoir.
 
-### Real cards on the table
+### Cártaí fíor ar an mbord
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ní gá scáileán. Bain péirí meaitseála as dhá phaca cártaí nó as tacar cártaí pictiúr. Leag amach os comhair iad in dhá shraith agus aimsigh na péirí le chéile. Níos déanaí, is féidir iad a shórtáil de réir datha nó de réir suite. Liostaíonn [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) cluichí cártaí agus cluichí boird i measc gníomhaíochtaí don chéim luath.
 
-## Which memory games suit each stage?
+## Cén cineál cluichí cuimhne a oireann do gach céim?
 
-Stages are loose labels. Go by what the person enjoys today.
+Is lipéid scaoilte iad céimeanna. Bí ag brath ar an méid a thaitníonn leis an duine inniu.
 
-| Stage | Games that often fit | How to set them up |
+| Céim | Cluichí a oireann go minic | Conas iad a shocrú |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Luath | Picture pairs, Photo pairs, Picture puzzle le 9 bpíosa, cluichí cártaí aithnidiúla | Lig dóibh rogha a dhéanamh. Is féidir na tíleanna a chasadh má thaitníonn sé leo; fág an scór ar lár má chuireann sé isteach orthu |
+| Meánach | Picture pairs le 4 go 6 thíl os comhair, Find the same, Sort together | Pictiúir le feiceáil i gcónaí. Suigh in aice leo agus glac sealaíochta ag cabhrú |
+| Déanach | Find the same le 2 rogha, féachaint ar phictiúr mór amháin le chéile | An-ghearr. Coinníonn tú an táibléad; pointeálann siad, nó ní dhéanann siad ach féachaint agus éisteacht |
 
-## Do memory games help with dementia?
+## An gcabhraíonn cluichí cuimhne le néaltrú?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Níor léiríodh go gcaitheann aon chluiche cuimhne le néaltrú, go moillíonn sé é ná go stopann sé é. Fuair [athbhreithniú Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) ar oiliúint chognaíoch ríomhairithe do dhaoine le lagú éadrom cognaíoch go raibh an fhianaise ró-theoranta le rá an gcuireann sé cosc ar néaltrú. Míníonn ár dtreoir faoi [chluichí inchinne agus néaltrú](/brain-health/brain-games/) cad a léiríonn staidéir agus cad nach léiríonn siad.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Ní cúis é sin chun cluichí a sheachaint. Molann [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) díriú ar thaitneamh, ní ar éachtaí. Is féidir le deich nóiméad ag meaitseáil pictiúr agus ag caint fúthu a bheith ina gcuid an-deas den lá.
 
-## What about memory games for seniors without dementia?
+## Cad faoi chluichí cuimhne do dhaoine sinsearacha nach bhfuil néaltrú orthu?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Má bhaineann duine fásta níos sine nach bhfuil fadhbanna cuimhne air nó uirthi taitneamh as puzail lasc ama, scóir agus leibhéil níos deacra, níl aon fhadhb leis sin. Ach ná bí ag brath air chun cosaint a thabhairt ar néaltrú; níor léiríodh go ndéanann aon chluiche é sin. Oibríonn na leaganacha séimhe thuas go maith freisin nuair a imríonn glúnta le chéile: is féidir le seanathair nó seanmháthair a bhfuil néaltrú air nó uirthi agus garpháiste óg pictiúir a mheaitseáil mar fhoireann, gan aon duine a bheith faoi thástáil.
 
-## When should you stop or change the game?
+## Cathain ar cheart duit stopadh nó an cluiche a athrú?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Is comharthaí iad osna, an táibléad a bhrú uait, “ní féidir liom é seo a dhéanamh” a rá nó cuma imníoch a bheith ar dhuine gur ceart an cluiche a dhéanamh níos éasca nó stopadh. Bain triail as níos lú tíleanna, cas na pictiúir os comhair, athraigh go [Find the same](/games/find-the-same/), nó féach ar na pictiúir agus déan comhrá. Mura bhfuil fonn orthu imirt ar chor ar bith, tá sé sin ceart go leor freisin. Tá tuilleadh eolais inár dtreoir faoi [conas imirt le chéile](/caregiving/how-to-play-together/) faoi luas agus cabhrú.

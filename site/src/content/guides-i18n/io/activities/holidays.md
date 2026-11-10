@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Festala aktivesi por ulu kun dementeso, de Dankodio"
+seoTitle: "Festala e Dankodiala idei por dementeso"
+description: "Simpla festala aktivesi por ulu kun dementeso: koquado, dekoro, muziko, fotografuri e videovoki, plus quale planar plu trankila Dankodio o Kristnasko."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Mantenez festi plu mikra, plu frue dum la jorno e proxima a la kustumala
+  rutino di la persono. Donez a lu reala, sekura tasko, quale aranjar la
+  tablo, lavar legumi, involvar donaco o pendigar dekoro. Partigez familiara
+  muziko e anciena fotografuri, preparez gasti antee, e aranjez trankila
+  chambro. Facez nur to quon vu povos racionale facar; kurta, trankila
+  celebro esas bona celebro.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Celebrez plu frue dum la jorno, exemple luncho o matine-manjo, se konfuzo tard-jorna esas ofta."
+  - "Ofrez reala taski: aranjar la tablo, lavar legumi, involvar, dekorar o pozar desero sur plado."
+  - "Familiara muziko, festala kansoni e anciena foto-albumi esas facila manieri por partigar la sezono."
+  - "Dicez a gasti quon esperar, e montrez a la persono fotografuri di ti qui venos."
+  - "Aranjez trankila chambro kun favorata kovrilo o jupeto, e recevez nur kelka vizitanti samtempe."
+  - "Omisez irgo tro fatiganta, inkluzante dekori qui semblas manjajo e multa tremetanta lumi."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Quon ulu kun dementeso povas facar dum Dankodio?"
+    a: "Donez a lu simpla, sekura tasko qua konvenas a to quon lu povas facar hodie: lavar legumi, mixar oksikoka sauso, aranjar la tablo, faldar servieti o pozar deseri sur plado. Pose, regardez kune anciena familiara fotografuri o kantez familiara kansoni. Esar parto di la jorno importas plu kam quale la tasko rezultas."
+  - q: "Ka ni ankore devas havar granda familia kunveno?"
+    a: "Nur se to esas administrebla. Multeso e bruiso povas esar tro fatiganta, do multa familii preferas plu mikra, plu simpla kunveno, plu frua manjo, o vizitanti qui venas en mikra grupi. La Alzheimer's Association kurajigas sorganti facar nur to quon li povas racionale e sekure administar."
+  - q: "Quale me preparez familiani qui ne vizitis dum longa tempo?"
+    a: "Dicez a li ante lia arivo pri chanji quin li forsan remarkos, e ke ca chanji venas de la malsano, ne de la persono. Preguez li ne korektigar o questionar, parolar unope e donar tempo por respondi. Montrez a la persono fotografuri di la gasti antee anke povas helpar."
+  - q: "Qua festala donaci konvenas a ulu vivanta kun dementeso?"
+    a: "Simpla, sekura kozi quin lu povas prizentar nun: favorata manjajeto, mola kovrilo o jupeto, familiara muziko, o foto-albumo di familio. Evitez komplikita elektronikaji, utensili e desfacila tabloludi. Inkluzar lu en donacado, exemple involvar donaco o pakizar biskuiti quin lu helpis bakar, ipsa povas esar donaco."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Festi povas revekigar varma memoraji, e li anke povas adportar bruiso, multeso e chanji a la kustumala jorno. Por ulu vivanta kun dementeso, la maxim bona celebri esas ordinare plu mikra, plu lenta e konstruktita cirkum kozi quin lu ankore povas prizentar. Ca idei konvenas por Dankodio, Kristnasko, Hanuka, Novyaro e familia naskodii.
 
-## How do I plan a calmer holiday?
+## Quale me povas planar plu trankila festo?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Komencez kun la rutino di la persono e planez la jorno cirkum olu. La [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) sugestas facar la celebrom plu frue dum la jorno, pro ke konfuzo e malquieteso ofte kreskas dum la tarda posdimezo e vespero (kelkafoye nomizata «sundowning»). Festala luncho o matine-manjo povas esar plu facila kam tarda dineo.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Mantenez la justa grandeso.** Plu mikra, plu simpla kunveno, o gasti qui arivas kelkaope, esas ofte plu facila kam un sola plenigita tablo.
+- **Distribuez taski.** Pregez parenti adportar manjajo, facar la kompri o pasigar tempo kun la persono dum vu koquas. Dicez klare quo helpos.
+- **Mantenez dekori simpla.** La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) remarkas ke tremetanta lumi povas esar konfuziganta, e ke bomboni o artificala frukti uzata kom dekoro povas esar erore kredita kom manjajo.
+- **Decidez quon omisar.** Se ula tradiciono divenis stresizanta o riskoza, esas bone omisar olu o probar plu trankila varianto.
 
-## What holiday activities can we do together?
+## Qua festala aktivesi ni povas facar kune?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Selektez taski e okupaji qui konvenas a to quon la persono povas facar hodie. Esar parto di la jorno importas plu kam quale to rezultas.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Aranjez la tablo kune.** Pozez unesme pladi, pose servieti, pose glasi. Faldar servieti esas bona tasko por facar sidante.
+2. **Lavez e sortez legumi.** Rinsar ter-pomi o ruptar fazeoli che la koqueyo-tablo esas sekura e familiara por multa personi qui ante koquis.
+3. **Mixez, agitez o preparez pladi.** Agitar oksikoka sauso, mixar simpla pasto o pozar biskuiti sur plado okupas la manui for de la furneyo e kulteli.
+4. **Involvez donaco.** Pre-tranchez la papero e bendo, e lasez la persono faldar e glatigar. Perfekta involvuro ne esas la skopo.
+5. **Pendigez kelka dekori.** Selektez neruptebla ornaji e un mikra loko, exemple korono o mikra arboro.
+6. **Facez simpla manuo-laboro.** Paper-kateno, folio-kolajo o festala karto kun stampili funcionas bone. Nia [guidilo pri arto e manuo-labori](/activities/arts-and-crafts/) havas plusa idei.
+7. **Kantez e askoltez.** Familiara festala kansoni esas facila por kun-kantar, mem por ulu qua nun parolas min. Videz nia [guidilo pri muziko](/activities/music/) por krear muzik-listo.
+8. **Regardez anciena festala fotografuri.** Prenez albumi de pasinta celebri e invitez rakonti («Dicez a me pri ca tablo») vice questionar pri qui esas qui. Nia [guidilo pri rememorado](/activities/reminiscence/) explikas quale.
+9. **Ludez dolca grupo-ludo.** [Picture bingo](/games/picture-bingo/) povas esar imprimata en kelka minuti e konvenas por omna edji, e [conversation cards](/games/conversation-cards/) donas a omnu ulo pri quo parolar.
+10. **Kolorizez kune.** Simpla [kolorizo-pagini](/games/coloring/) povas esar imprimata por ke pueri e geavi partigez li che la tablo.
+11. **Spektez favorata festala filmo.** Familiara filmo esas ripoziganta, ed esas bone spektar nur parto di olu.
+12. **Facez kurta veturo por vidar lumi.** Trankila veturo preter dekorita domi povas esar plu facila kam eventuro kun multa homi.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Se koquado esis granda parto di la vivo di la persono, nia guidilo pri [hemala taski kom aktivesi](/activities/household-tasks/) havas plusa manieri por facar koqueyo-taski sekura e satisfacanta.
 
-## How do I prepare guests?
+## Quale me preparez gasti?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Dicez a gasti quon esperar ante lia arivo, precipue a parenti qui ne vizitis dum longa tempo. La Alzheimer's Association sugestas explikar ke chanji en memoro e konduto venas de la malsano, ne de la persono.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Partigez kelka simpla konsili:** parolar unope, donar tempo por finar penso, ne korektigar o questionar, e respondar a la tono di la persono se la vorti esas desfacila por sequar.
+- **Dicez quo helpas e quo chagrenas.** Se lauta voco, hastigo o certena temi kauzas malquieteso, dicez lo.
+- **Prezentez gasti antee.** Montrez a la persono fotografuri di ti qui venos e partigez un o du rakonti, o aranjez kurta telefonala o video-konverso ante la jorno.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Nia [konsili pri komunikado](/caregiving/communication-tips/) explikas plu detaloze.
 
-## What if it gets to be too much?
+## Quo facar se to divenas tro multa?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Aranjez trankila chambro ante ke gasti arivas, for de la bruiso, kun familiara komforto-kozi quale favorata kovrilo, jupeto o simpla okupo. Ofrez olu frue e ofte: «Ka ni sidez ulaloke plu trankila dum kelka tempo?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Lasar la tablo, irar a lito plu frue o omisar parto di la jorno esas bona rezulto, ne faliuro. Se la persono divenas chagrenita, kalma voco, familiara kansono o kurta iro ad altra chambro ofte helpas plu kam rezonar. Nia guidilo pri [malquieteso en tarda jorno](/caregiving/late-day-restlessness/) havas plusa idei por vesperi.
 
-## How can family far away take part?
+## Quale familiani fore povas partoprenar?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Videovoki permisas a parenti partoprenar sen augmentar la multeso. La Alzheimer's Association sugestas donar a la vokii ula strukturo, exemple kantar sezonala kansoni, partigar imaji de pasinta kunveni, koquar la sama recepto kune o spektar festala filmo samtempe. Mantenez la vokii kurta, e pregez personi parolar unope, pro ke interparolado esas desfacila por sequar. Nia [guidilo pri telefonala e video-voki](/activities/phone-and-video-calls/) havas idei pafope-pafop.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Se la persono vivas en memor-sorgo-hemo, kontrolez la vizito-reguli e demandez a la personalo helpar aranjar voko. Nia guidilo pri [vizitar ulu en memor-sorgo-hemo](/activities/visiting/) explikas quon adportar e quale adiar bone.
 
-## What gifts suit someone with dementia?
+## Qua donaci konvenas a ulu kun dementeso?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Simpla, sekura donaci quin lu povas prizentar nun ordinare funcionas maxim bone: favorata manjajeto, mola kovrilo o kardigano, familiara muziko, kalendario kun granda literi, o albumo di familia fotografuri. La Alzheimer's Association konsilas evitar danjeroza utensili, komplikita elektronikaji e desfacila tabloludi.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Donacar povas importar tante kam recevar. Pakizar biskuiti quin la persono helpis bakar, o lasar lu involvar donaco quan vu kompris, permisas a lu partoprenar en la sezono. Familia foto-ludo esas altra ideo: [photo pairs](/games/photo-pairs/) chanjas kelka selektita fotografuri a dolca kombino-ludo en la reto-navigilo.
 
-## Look after yourself too
+## Sorgez anke pri vu ipsa
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Festi adjuntas laboro a sorgado. Lasez altru recevar o koquar la dineo, refuzez eventi qui esos desfacila, e prenez pauzi dum altri pasigas tempo kun la persono. Se vu o la persono quan vu sorgas esas malsana, saludo de la veturo-voyo o videovoko esas tote bona vizito. Nia guidilo pri [sui-sorgo por sorganti](/caregiving/caregiver-self-care/) havas plusa apoyo.

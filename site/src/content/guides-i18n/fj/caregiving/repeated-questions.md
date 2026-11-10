@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Ni Taroga Wasoma na Taro Vata"
+seoTitle: "Taro Vata Wasoma: Veika Mo Kaya ka Cakava"
+description: "Na vuna e taroga wasoma kina na taro vata o koya e bula vata kei na mate ni guilecavi, sala ni sauma vakamalua, kei na gauna mo qiri kina na vuniwai."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  E dau yaco na taro vata wasoma ena mate ni guilecavi: e sega beka ni nanuma
+  o koya ni sa taroga oti, ka na taro e dau kauta mai e dua na lomaocaoca. Sauma
+  vakamalua ka vakalekaleka me vaka ni imatai ni gauna, rogoca na yalo e tiko e
+  muri ni taro, ka kua ni kaya „o sa taroga oti“. Volai ira na isaunitaro me
+  raici rawa, tukuna ga na veika ena yaco ni sa voleka, ka kerea me rau cakava
+  vata e dua na ka marautaki. Ke veisau vakasauri, mo qiri na vuniwai.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "E sega beka ni nanuma o koya ni sa taroga oti; e sega ni cakava vakayacora."
+  - "Na taro e dau vunitaka e dua na yalo, me vaka na lomaocaoca me baleta e dua na gauna se na gagadre me vakacegu."
+  - "Sauma vakamalua, vakalekaleka ka yalovinaka, me vaka ni imatai ni gauna. Kua ni kaya „o sa taroga oti“."
+  - "E dua na ivola, papa volavola, uca se kaleda e raici rawa e rawa ni sauma na taro me baleti iko."
+  - "Tukuna ga na veika dredre ni sa voleka sara na kena gauna."
+  - "Vakacegu vakalailai ni o gadreva, ka qiri na vuniwai me baleta e dua na veisau vakasauri."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Na cava e taroga tiko ga kina na taro vata o tamaqu e bula vata kei na mate ni guilecavi?"
+    a: "Na mate ni guilecavi e tara na nanuma lekaleka, o koya gona e rairai sega dina ni nanuma o koya ni sa taroga se rogoca na isaunitaro. E vuqa na gauna, na taro e kauta talega mai e dua na yalo, me vaka na lomaocaoca me baleta na ka ena yaco tarava se na gagadre me vakadeitaki. Na noda sauma na yalo oqori e dau veivuke vakalevu cake mai na kena tukuni tale na dina."
+  - q: "Me'u tukuna beka vua ni sa taroga oti?"
+    a: "Sega. Ena sega ni vukea me nanuma, ka e rawa ni vakilai me vaka e dua na vunauci. Na veisoqosoqo ni mate ni guilecavi era vakatura me saumi vakamalua na taro yadua, me vaka ni imatai ni gauna, ka me vakalekaleka na isaunitaro."
+  - q: "E veivuke beka na kena volai sobu na isaunitaro?"
+    a: "E rawa, ni sa rawa tiko vua me wilika. E dua na ivola, e dua na papa volavola kei na ituvatuva ni siga nikua, e dua na uca levu se e dua na kaleda ena vanua e dau raica vakarawarawa ena rawa ni raica kina vakataki koya na isaunitaro. Dusimaka vakamalua, ka kua ni kaya „au sa tukuna oti vei iko“."
+  - q: "Na gauna cava me'u tukuna kina na veiqaravi se na ilakolako?"
+    a: "Ni sa voleka na gauna. Na kena tukuni taumada na sikovi vua na vuniwai se na ilakolako ena rawa ni yaco kina na taro lomaocaoca ena vica na auwa. Tukuna vua ni sa voleka, vakamalua, kei na ka ena yaco tarava."
+  - q: "Na gauna cava e dodonu kina me'u qiri na vuniwai baleta na taro vata wasoma?"
+    a: "Kevaka e veisau vakasauri na taro, na veilecayaki se na itovo, se ca sara vakalevu ena loma ni vica na auwa se siga, mo qiri totolo na nona vuniwai. Na mate e vakavuna na tauvimate, na wainimate vou, na mosi, na dredre ni lako ki valelailai se na lailai ni wai ena yago e rawa ni vakavuna na veilecayaki vakasauri e vakatokai na delirium, ka gadrevi kina na veiqaravi totolo."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„Na vica na kaloko na veiqaravi vua na vuniwai?“ Oti na tini na miniti: „Na vica na kaloko na veiqaravi vua na vuniwai?“ Na rogoci ni taro vata wasoma e dua vei ira na ka e dau vakaoqai vakalevu ena qaravi ni dua e bula vata kei na mate ni guilecavi. E dau yaco vakalevu, e sega ni cakava vakayacora, ka tu na sala malua ni sauma na taro me rawarawa cake kina na siga vei kemudrau ruarua.
 
-## Why does someone with dementia ask the same question over and over?
+## Na cava e taroga wasoma kina na taro vata e dua e bula vata kei na mate ni guilecavi?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+E vuqa na gauna e baleta na nanuma. Na mate ni guilecavi e tara na nanuma lekaleka, o koya gona e sega ni nanuma o koya ni sa taroga oti, se sega ni nanuma na isaunitaro. Na [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) e vakamacalataka ni tarogi ni taro e vuqa na gauna e ka e dau yaco ka namaki.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Na taro e dau kauta talega mai e dua na yalo. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) e vakamacalataka ni dua na taro e cavuti wasoma e rawa ni vakaraitaka e dua na lomaocaoca, e dua na kerekere me veivuke, se na taqaya kei na sega ni vakacegu, ka ni o koya e dau vaqara na vakacegui kei na ka e kila vinaka. „Na gauna cava meda lako kina?“ e rairai kena ibalebale dina „Au lomaocaoca me baleta na lako.“ Na draki ni ceguoca, na rere, na rorogo kei na veisau ni ituvatuva ni siga e rawa ni vakavuna, ka na taro vata wasoma e rawa talega ni vakaraitaka e dua na gagadre, me vaka na lako ki valelailai ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Na cava me'u kaya?
 
-Answer calmly and briefly, as if it were the first time.
+Sauma vakamalua ka vakalekaleka, me vaka ni imatai ni gauna.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Maroroya na isaunitaro me lekaleka ka tautauvata.** „Na veiqaravi vua na vuniwai ena rua na kaloko. Au na tiko vata kei iko.“ E rawarawa cake na kena ciqomi e dua na isaunitaro tautauvata.
+- **Sauma na yalo.** „O vakasamataka tiko na veiqaravi vua na vuniwai. Ena yakavi nikua, ka au na draiva yani. Sega na ka mo gadreva mo cakava.“
+- **Vakayagataka e dua na domo vinaka kei na tarai vakamalua,** kevaka e taleitaka na tarai. Na Alzheimer's Association e vakatura me da vakamalua ka me kua ni vakayagataki na veiba se na veileti.
+- **Solia na isaunitaro e vaqara tiko,** e vica vata ga na gauna e gadrevi kina. Na Alzheimer's Association e kaya me tukuni tale me vaka na levu ni nona taroga.
 
-## What should I avoid?
+## Na cava me'u levea?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„O sa taroga oti vei au.“** Na [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e vakasalataki me kua ni tukuni ni sa qai taroga oti. Ena sega ni vukea me nanuma, ka e rawa ni vakilai me vaka e dua na vunauci.
+- **Na ivakamacala balavu.** Na levu ni vosa e levu talega na ka e rawa ni guilecavi.
+- **Na cegu ni domo, na sikovi ni mata se na domo kaukauwa.** Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) e vakatura na vosota ka me kua ni vakaraitaki na cudru. E dredre oqori; raica na wase me baleta na vakacegu e ra.
 
-## Simple tools that answer the question for you
+## Iyaya rawarawa era sauma na taro me baleti iko
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Ni sa rawa tiko vua me wilika, e dua na isaunitaro volai e raici rawa e dau veivuke vakalevu cake mai na isaunitaro e cavuti.
 
-| Tool | How to use it |
+| Iyaya | Sala ni kena vakayagataki |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| E dua na ivola ena mataivola lelevu | „Veiqaravi vua na vuniwai nikua ena 2 na kaloko. O Mary ena draiva.“ Biuta ena vanua e dau raica vakalevu |
+| E dua na papa volavola | Na ituvatuva ni siga nikua ena tolu se va na laini; qusia ka vola tale ena mataka yadua |
+| E dua na uca levu kei na siga kei na tikinisiga | E veivuke ena „Na siga cava nikua?“ kei na „Sa yaco beka na gauna?“ |
+| E dua na kaleda | Makataka na siga yadua; wiritaka na sikovi tarava |
+| Itaba e kilai vinaka | E dua na itaba ni tamata ena sikovi mai e rawa ni sauma na taro „O cei ena sikovi mai?“ |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Na vakasama oqo e lako mai na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) kei na [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Dusimaka vakamalua na ivola („Me daru raica vata na papa volavola“) ka kua ni kaya „au a vola sobu me baleti iko.“
 
-## Tell them about events close to the time
+## Tukuna vua na veika ena yaco ni sa voleka na gauna
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Na kena tukuni taumada na veiqaravi se na ilakolako ena vica na siga e rawa ni yaco kina na taro lomaocaoca ena vica na auwa. Na Family Caregiver Alliance kei na Alzheimer's Los Angeles erau vakatura ruarua me tukuni ga na ituvatuva, vakabibi na ka dredre me vaka na sikovi vua na vuniwai se na sili, ni sa voleka sara ga na gauna. Oti oya, tukuna na ka ena yaco tarava, dua na ikalawa ena dua na gauna.
 
-## Activities that can shift attention
+## Itaviqaravi era rawa ni vukica na vakasama
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Ni o sa sauma oti ka rogoca na yalo, e dua na itaviqaravi malua ka marautaki e rawa ni veivuke, vakabibi kevaka na ceguoca e tiko e muri ni taro. Na ivurevure kece e cake era vakatura na kena veisautaki ki na dua na ka e taleitaka o koya.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **E dua na qito lekaleka ka rawarawa mo drau qitora vata.** Na [Veiyacovi ni iyaloyalo](/games/picture-pairs/) e vakaraitaka tiko ga na iyaloyalo, o koya gona e sega na ka e gadrevi me nanumi.
+2. **E dua na cakacaka e kila vinaka.** Na lobika ni tauliva, na tuvatuva ni isulu ni yava se na vakarautaki ni teveli. Na [Tuvatuva vata](/games/sort-together/) e dua na kena ivakaraitaki ena sikirini.
+3. **Veitalanoa me baleta e dua na ka e taleitaka vakalevu.** Na [Kadi ni veitalanoa](/games/conversation-cards/) e solia na veivakasalataki dola kei na sega ni isaunitaro dodonu se cala.
+4. **Sere, taubale vakalekaleka se kakana lailai.** Na National Institute on Aging e cavuta na veika oqo me sala rawarawa ni veisautaki.
+5. **E dua na gauna ni vakacegu.** Dabe vata, raica yani e katuba ni katubaleka, se tovolea vata e dua na gauna ni [ceguvaki vakamalua](/games/calm-breathing/).
 
-If they return to the question, answer it again, kindly. That is fine.
+Kevaka e lesu tale ki na taro, sauma tale, ena yalovinaka. E vinaka tu ga oqori.
 
-## Look for patterns
+## Raica na ivakarau
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Na Alzheimer's Association e vakatura me da vakaraica kevaka e dau yaco na taro ena so na gauna ni siga, ena ruku ni so na tamata se ena so na vanua. Kevaka e dau tekivu ni bera ni ra yaco mai na vulagi, se ena yakavi, o rawa ni tuvanaka taumada: e dua na ivola me baleta na sikovi, e dua na itaviqaravi e kilai vinaka sa vakarautaki tu, se dua na rumu e vakacegu cake. Na noda ivakasala me baleta na [itaviqaravi malua ena yakavi](/caregiving/late-day-restlessness/) e rawa ni veivuke kevaka e dredre cake na yakavi.
 
-## Take care of yourself
+## Qarava talega o iko
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Na saumi ni taro vata me ikaruasagavulu ni gauna e ka e vakaoqai. Kevaka o vakila ni sa oti na nomu vosota ka sa taqomaki tu o koya, lako yani ki dua tale na rumu me vica na miniti ka ceguva vakamalua, me vaka e vakatura na [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) e uqeta na dauqaravi me ra kerea na veivuke ka vakasamataka na veivakacegui vakalekaleka. Eso tale na vakasama e tu ena noda [ivakasala ni qaravi iko](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Na gauna cava me'u qiri kina na vuniwai?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Qiri totolo na nona vuniwai kevaka e veisau vakasauri na taro, na veilecayaki se na itovo, se ca sara vakalevu ena loma ni vica na auwa se siga. Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) e kaya ni na itovo e veisau vakasauri se totolo, vakabibi ni oti e dua na mate e vakavuna na tauvimate se e dua na veisau ni wainimate, e dodonu me tukuni totolo vua na vuniwai. Na [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) e vakamacalataka ni na tauvimate, na wainimate, na lailai ni wai ena yago, na mosi se na dredre ni lako ki valelailai e rawa ni vakavuna na delirium, e dua na veilecayaki vakasauri ka kaukauwa ka gadrevi kina na veiqaravi totolo. Qiri na 911 kevaka e dua e tiko ena leqa.

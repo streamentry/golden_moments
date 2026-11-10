@@ -1,32 +1,34 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Attività cù a musica per e persone chì campanu cù a dimenza"
+seoTitle: "Attività cù a musica per a dimenza: idee è liste"
+description: "Cumu sparte a musica cù una persona chì campa cù a dimenza: creà una lista persunale per epuca è generu, 15 attività semplici, è cunsigli per ogni tappa."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  A musica hè una di l'attività e più faciule à sparte cù una persona chì
+  campa cù a dimenza. Custruite una lista persunale cù a musica di a so
+  ghjuventù, di a so fede è di a so famiglia, ascoltatela senza publicità
+  è senza rumore di fondu, è cantate, batte e mani, dundulatevi o
+  ascoltate simpliciamente inseme. Sceglite una musica calma o più viva
+  secondu u mumentu, tenite u vulume bassu, è firmate si una canzona
+  a turba.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "A musica persunale funziona megliu: i stili ch'ella amava da ghjovana adulta, più a musica di a so fede, di a so cultura è di l'avvenimenti di famiglia."
+  - "Mettite una sola cosa à a volta, senza publicità è cù a televisione spenta."
+  - "Cantà, batte e mani, dundulassi è sempliciamente ascultà sò tutti modi di participà."
+  - "Aduprate una musica più calma per tranquillizà è una musica più viva per alzà l'umore, è fighjate cumu a persona reagisce."
+  - "E ricerche nantu à e sessioni di musica strutturate sò limitate; prupunimu a musica cum'è qualcosa di piacevule à sparte, micca cum'è un trattamentu."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Chì tipu di musica hè megliu per una persona chì campa cù a dimenza?"
+    a: "A musica chì a persona cunnosce è ama dapoi tantu tempu, spessu quella di a so adolescenza è di i so vint'anni, cù a musica di a so fede, di a so cultura è di e feste di famiglia. S'ellu hè pussibule, lasciatela sceglie. Fighjate a so faccia è u so corpu per capisce ciò ch'ella piace, è lasciate corre ciò chì pare turballa."
+  - q: "Devu aduprà i caschi d'ascolta?"
+    a: "Qualchì persona piace à aduprà i caschi d'ascolta perchè bloccanu i rumori, mentre chì d'altre persone li trovanu scomodi o cunfusi. Pruvate prima cù un altoparlante per pudè ascultà inseme. S'è vo aduprate i caschi, tenite u vulume bassu è state vicinu."
+  - q: "A musica pò aiutà quandu ci hè inquietudine o agitazione?"
+    a: "Una musica calma è familiare pò aiutà à creà un'atmosfera tranquilla, è l'Alzheimer's Association cunsiglia d'aduprà a musica per creà l'atmosfera chì vulete. Ùn funziona micca ogni volta. S'è a persona hè in difficultà, verificate ancu s'ella hà dulore, fame, s'ella hè disturbata da u rumore o s'ella hè stanca."
+  - q: "E persone chì campanu cù una dimenza in tappa avanzata ponu sempre gode di a musica?"
+    a: "Parechje persone ponu. L'Alzheimer's Association nota chì una persona in una tappa avanzata pò sempre seguità u ritimu o cantà inseme una canzona di a zitellina. State vicinu, mettite a musica pianu pianu è tenite a so manu o dundulatevi inseme."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +47,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+A musica hè una di e cose e più simplici chì pudete sparte cù una persona chì campa cù a dimenza. Ùn dumanda nunda: nè risposte ghjuste, nè passi da seguità. Una canzona familiare pò fà nasce un surrisu, un pede chì batte u ritimu o qualchì parolla cantata inseme, ancu in i ghjorni induve a cunversazione hè difficiule. Tuttu ciò chì vi serve hè a musica ghjusta per sta persona è un mumentu tranquillu per ascoltalla.
 
-## What music activities work for people with dementia?
+## Chì attività cù a musica funzionanu per e persone chì campanu cù a dimenza?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Ascultà, cantà, batte e mani, dundulassi è parlà di musica funzionanu tutti bè. U [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) cunsiglia di mette musica, di parlà di a musica è di l'artista, di cantà o di ballà nantu à canzone ben cunnisciute, è d'andà à cuncerti o à prugrammi musicali in a cumunità. L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) aghjunghje chì u muvimentu, cum'è batte e mani o ballà, pò rende u mumentu ancu più piacevule, è chì a musica pò esse un modu per stà cunnessi quandu e parolle diventanu più difficiule.
 
-## How do you build a personal playlist?
+## Cumu creà una lista di musica persunale?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+A cosa a più utile chì pudete fà hè una lista di musica chì conta per sta persona. U [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mette ancu in risaltu a musica cù un significatu persunale. Eccu un modu simplice per crealla.
 
-### Start with their life
+### Partite da a so vita
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **L'adolescenza è i vint'anni.** Pensate à ciò chì si sentia à a radiò, à i balli è à u cinema quandu era ghjovana.
+- **I grandi mumenti.** A musica di u so matrimoniu, un primu ballu, un album preferitu durante un viaghju in famiglia.
+- **Fede è cultura.** Canti religiosi, gospel, musica sacra, o canzone in a so prima lingua.
+- **Travagliu è serviziu.** Bande, canti di travagliu, o musica ligata à un periodu in l'armata.
+- **Ciò chì a famiglia si ricorda.** Dumandate à fratelli, sure, figlioli è vechji amichi ciò ch'ella mettia o cantava spessu.
 
-### Think in genres, not just songs
+### Pensate in generi, micca solu in canzone
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+S'è ùn sapete micca da induve principià, pruvate qualchì minutu di ognunu di sti generi è fighjate a reazione: big band è swing, doo-wop, Motown è soul, rock and roll di i primi tempi, country è western, bluegrass, gospel è canti religiosi, canzone di cumedie musicali, standard di jazz, musica latina cum'è i boleri o i mariachi, polka, musica folk è musica classica. Tenite ciò chì face nasce un surrisu o un pede chì batte u ritimu; lasciate corre ciò chì face nasce una smorfia.
 
-### Make it easy to play
+### Fà ch'ella sia faciule da mette
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Senza publicità.** L'Alzheimer's Association avertisce chì e publicità ponu creà cunfusione. Aduprate musica scaricata, CD, dischi o un serviziu senza publicità.
+- **Un apparechju simplice.** Un altoparlante cù un buttone grande, o una lista d'ascolta pronta, per chì ognunu a possa lancià.
+- **Dui liste corte.** Una lista calma per tranquillizà è una lista più viva per alzà l'umore.
+- **Etichettatela.** Scrivite u nome di a persona è "musica preferita" nant'à l'apparechju, cusì a famiglia in visita è u persunale di cura a ponu aduprà ancu.
 
-## 15 music activities to try
+## 15 attività cù a musica da pruvà
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Ascultate inseme.** State fiancu à fiancu, senza altru intornu. Ascultà hè digià una attività cumpleta.
+2. **Cantate inseme.** Principiate à cantà voi. Murmurà o move e labbre nantu à e parolle conta dinù.
+3. **Batte e mani o u ritimu.** Batte e mani nantu à e ghjinochje, nantu à a tavula, o aduprate un picculu tamburellu o un sonagliu.
+4. **Ballu lentu.** Tenite e mani è dundulatevi in cucina, o ballate pusati, muvendu e bracce inseme.
+5. **Ballu cù i foulard.** Fate move foulard ligeri à u ritimu di a musica, in piedi o pusati.
+6. **Parlate di a musica.** Invitate, ùn fate micca una prova: "Sta musica mi face pensà à una sala di ballu. Parlàtemi di i balli." Ùn dumandate mai "Vi arricurdate di sta canzona?"
+7. **Mettite un album sanu.** Mettite un discu ch'ella amava, da u principiu à a fine, cù un caffè.
+8. **Fighjate e copertine di l'album.** E vechje copertine di discu sò perfette per parlà di moda, vitture è visi.
+9. **Fighjate una cumedia musicale.** Una cumedia musicale o un cuncertu filmatu di a so epuca hè una bella serata. Fate pause quandu ci vole.
+10. **Sunate un strumentu ch'ella cunnosce.** Una persona chì sunava u pianò o a chitarra pò avè piacè à sunà cose simplici. Più tardi, truvà inseme qualchì nota hè abbastanza.
+11. **Musica mentre si face qualcosa.** Mettite e so canzone preferite mentre piegate a biancheria o preparate a tavula.
+12. **Canzona di a matina.** Principiate ogni ghjornu cù a stessa canzona allegra, cum'è parte di a rutina.
+13. **Cantate canti religiosi o musica sacra.** Mettite musica di a so tradizione di fede è cantate inseme.
+14. **Partecipate à un gruppu di cantu.** U NHS descrive i gruppi di cantu cum'è pusitivi per l'umore è u benessere. Dumandate vicinu à voi s'ellu ci sò cori accoglienti per e persone chì campanu cù a dimenza.
+15. **Andate à sente musica in direttu.** Un picculu cuncertu in a cumunità o un gruppu à l'aria aperta. Pusatevi vicinu à l'uscita è partite quandu vulete.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Per una attività più ligera cù e parolle è e spressioni familiari, pruvate [finisce a spressione](/games/finish-the-saying/), induve pudete sempre mustrà a fine.
 
-## Matching music to the moment
+## Sceglie a musica secondu u mumentu
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+L'Alzheimer's Association cunsiglia d'aduprà a musica per creà l'atmosfera chì vulete: una musica calma per un ambienti tranquillu, è una canzona più viva di a ghjuventù di a persona per alzà l'umore.
 
-| Moment | Try | Tip |
+| Mumentu | Pruvate | Cunsigliu |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| À u svegliu | Una canzona familiare è allegra | A stessa canzona ogni matina pò diventà un signale dolce |
+| Faccende | Canzone preferite è più vive | A musica pò fà chì u travagliu pari menu solu |
+| Pasti | Musica strumentale dolce | Tenitela bassa per ch'ella ùn disturbi micca u mumentu di manghjà |
+| Tarda dopu meziornu | Musica calma è familiare cù una bona luce | Vede [inquietudine di fine di ghjurnata](/caregiving/late-day-restlessness/) |
+| Ora di dorme | Musica lenta è dolce | Calate u vulume è a luce inseme |
+| Tappa avanzata | E so canzone e più amate, assai pianu | State vicinu è tenite a manu |
 
-## Tips for a good experience
+## Cunsigli per un bellu mumentu
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Spenghje l'altri rumori.** L'Alzheimer's Association cunsiglia di chjude e finestre è e porte è di spegne a televisione per chì a musica sia l'unicu sonu.
+- **Tenite u vulume bassu.** A musica deve esse piacevule, micca forte. S'è a persona porta apparechji acustici, verificate ch'elli sianu messi è chì funzioninu; vede [uditu](/brain-health/hearing/).
+- **Fate casu à l'associazioni tristi.** Certi canzone ponu fà pensà à un dolu, à a guerra o à una perdita. S'è una canzona a turba, cunsulatela è cambiatela.
+- **Lasciatela guidà.** S'ellu hè pussibule, lasciate a persona sceglie a musica, è accettate un nò.
+- **Firmate in ogni mumentu.** Cinque minuti di musica sò una bella attività. Hè ancu bè di spegne è di stà tranquilli inseme.
 
-## What does the research say about music and dementia?
+## Chì dicenu e ricerche nantu à a musica è a dimenza?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+E prove sò limitate. Una [rivista Cochrane di u 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) hà guardatu 30 studii nantu à sessioni di musica strutturate, soprattuttu cù gruppi in case di cura. Hà trovu chì ste sessioni anu probabilmente alleviatu un pocu i sintomi depressivi paragunatu à a cura abituale, ma ùn hà trovu nisun effettu chjaru nantu à l'agitazione, u benessere o a memoria è u pensamentu, è nisun effettu chì sia duratu dopu à a fine di e sessioni.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Spartimu a musica perchè hè un modu piacevule è senza pressione di passà tempu inseme, micca cum'è un trattamentu. Per i gruppi, vede [attività di gruppu in casa di cura](/activities/care-home-groups/); per aduprà a musica cù e foto è e storie, vede [attività di reminiscenza](/activities/reminiscence/).

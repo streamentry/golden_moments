@@ -1,32 +1,32 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Afuw ne Nsase so Adwuma ma Dementia Nnipa"
+seoTitle: "Afuw ne Nsase so Adwuma ma Dementia"
+description: "Afuw ne nsase so adwuma nhyehyɛeɛ ma dementia nnipa, wɔ mpɔn a wɔde nkaeɛ, mpɔn a wɔyɛ, ne nkwagyeɛ a ɛfa owia, hyew ne ɔhwehwɛ dwo ho."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Afuw adwuma ne nsase so bere nyinaa betumi aba dwodwo a ɛyɛ nea wɔn a wɔwɔ
+  dementia ani wɔ ho ahu no hwehwɛ. Sɔ nsuo, tu nkwadaa a ɛyɛ aduro, twa
+  nhwiren ahodoɔ anaa tu kwan tiaa wɔ afuw a wɔatwa ho ahyia. Fa nkaeɛ a ɛtɔ
+  mpɔn anaa tebu so, gyina ahyɛde a ɛyɛ den ne nnua a ɛyɛ asiane ho, di
+  nsase so wɔ bere a owia no ntɛm, na da so ka obi no ho daa.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Afuw adwuma a ɛyɛ kɛse, te sɛ nsuo, nkyɛ aba, nnua ho honhom anaa nnɔbae a ɛtɔ, betumi ayɛ wɔ ahyɛnsɛ anaa wɔ ɛpon so."
+  - "Mpɔn a wɔyɛ, nkaeɛ a wɔde ahyɛ, anaa ɛpon a wɔaboaboa, bɛma afuw no aba ɔsoro baabi, na ɛnyɛ den ma nnipa ahwe ase."
+  - "Fa ahyɛde a ɛyɛ den, nhwiren a ɛhyɛ wo ho, ne nnuro a ɛyɛ asiane. Hwɛ yiye sɛ wɔrenhyɛ asase a wɔrebɔ sɛ aduane no ase."
+  - "Owia a ɛyɛ hyew betumi ayɛ asiane ma nkɔsoɔ. Fi ahyɛdeɛ anɔpa anaa anadwo, fa nsuo ne ahoma, na fi ahyɛdeɛ a ɛyɛ dwo a wɔhunu no bɛn ntɛm."
+  - "Dementia nnipa dodow bi betumi atu kwan wɔ bere bi mu. Tena obi no ne wo wɔ afuw mu, na fa ID ne ɔfoto a ɛyɛ foforo ka ho."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Dwumadie bɛn na obi a wɔwɔ dementia betumi ayɛ wɔ afuw mu?"
+    a: "Sɔ nsuo, dua nkaeɛ wɔ mpɔn ketewa mu, di aduro ne nnua a ɛwɔ hɔ so ka, twa nnua a wɔde ayɛ so, hyɛ nnua a wɔawɔ ayɛ, na twa afuw a wɔatwa ho ahyia no yɛ adwuma. Wɔ fie mu no, aduro mpɔn a ɛwɔ sukuu fɛnsɛ ho anaa ɔdan ketewa a wɔde asase ahyɛ ho da so yɛ. Yi adwuma no sɛnea obi no ani gyeɛ bere a ɔyɛ nea ɔpɛ kɛse ne sɛnea ɔbetumi ayɛ no seesei."
+  - q: "Ɔkwan bɛn na mɛfa so ahwɛ obi a wɔwɔ dementia ma ne ho ahoma wɔ owia hyew mu?"
+    a: "Fa nsase so bere a ɛyɛ anɔpa anaa anadwo, di so ntɛm, na ma nsuo bɛba daa daa. Fa mpɔn anaa ntoma a ɛyɛ dwo ahyia ho, fa ntoma a ɛyɛ tẽ ne ntoma a ɛyɛ nnyɛ wɔ ho. Nkɔsoɔ no betumi ayɛ wɔ owia hyew mu, na ɛberɛ a wɔn ho bɔ mmɔden anaa ne ho yɛ mmerɛ anaa ɛyɛ wɔn ahosu no, kɔ fie na yɛ wɔn ho hyew ntɛm."
+  - q: "Sɛnea yɛbɛkɔ nsase so sɛ wɔpɛ sɛ wɔtu kwan a?"
+    a: "Tena obi no ne wo bere nyinaa, fa afuw anaa atɔ a ɛwɔ afuw a wɔatwa ho ahyia ne ɔpon a wɔde ahyɛ, na hwɛ sɛ wɔde ID kɔkɔbɔ anaa ID a wɔde hyɛ wɔn ho. Fa ɔfoto a ɛyɛ foforo ka ho. Sɛ obi no kɔ ne ho a, Alzheimer's Association kyerɛ sɛ, sɛ wɔrennya no wɔ mmɔnsɔ 15 mu a, frɛ 112."
+  - q: "Dɛn na ɛbɛyɛ sɛ yɛnni afuw?"
+    a: "Nnua kakra wɔ mpɔn so, abɔtɔ ketewa, anaa ɔdan ketewa a ɛwɔ nnua ne nhwiren ho no ase ayɛ. Wobetumi nso akɔ sɛ wobɛhyɛ afuw a ɛwɔ mmusua mu, afuw a nnipa dodow fa di dwuma, anaa afuw a wɔne nnipa mmɔ hyia ayɛ. Sɛ wotena nsase so na wotie mmoa a wɔtoto nnwom no nso yɛ adwuma a wɔde di nsase so."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +51,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Ɛbɛyɛ sɛ nnipa dodow no, afuw ne baabi a wɔhu ankasa ankasa. Tu nsuo, dua nnua, ne nnua tu, nneɛma a wɔsua wɔ mfeɛ a atwam no, yɛ adwuma, na ɛwɔ nsase so no, mframa a ɛyɛ fɛɛ, owia ne mmoa a wɔtoto nnwom ka ho. National Institute on Aging ka sɛ nnua hwɛ, nnua ne aba di dwuma, ne [nkɔm ho asɛm sɛ nnua reyɛ dɛn](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yɛ adwuma a nnipa a Alzheimer's wɔ no betumi ani gye ho. Saa nkyekyɛmu yi kyerɛ nea wobetumi ayɛ, sɛnea wobetumi ama afuw nyɛ den ma wɔde di dwuma, ne sɛnea wobetumi adi ho ban wɔ owia, hyew ne tu kwan ho.
 
-## What outdoor and gardening activities work well?
+## Afuw ne nsase so adwuma bɛn na ɛyɛ yiye?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Adwuma a ɛyɛ yiye ne nea ɛyɛ mmerɛ, ɛyɛ nea wɔabɔ ho ɔkwan, na obi betumi ayɛ no sɛ ɔgyina anaa ɔtena. Fa nea obi no sɔ hwɛ ne nea ɔpɛ no sɛ wɔfa.
 
-### In the garden
+### Wɔ afuw mu
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Sɔ nsuo.** Nsuo bɛba kakra a ɛyɛ dodoɔ anaa nsuo bɛba a ɛyɛ nwini wɔ nsuo tiaa a ɛwɔ mpɔn kakraa bi a wobetumi atow hɔ. Sɔ nsuo wɔ mfiase ne awieɛ a wɔahunu, na ɛnyɛ den sɛ wobɛyɛ no nkwa.
+2. **Dua nkaeɛ wɔ mpɔn mu.** Alzheimer's Foundation of America ka sɛ wɔdua nkaeɛ wɔ mpɔn ketewa mu na [wɔhwɛ sɛnea wɔreyɛ](https://alzfdn.org/dementia-activity-gardening/). Nkaeɛ a ɛyɛ kɛse te sɛ wɛrɛ, ahaban, anaa aboɔden yɛ mmerɛ sɛ wobɛkyekye.
+3. **Yi nnua a wɔawu no ahyɛ ase.** Ɛyɛ adwuma a ɛyɛ mmerɛ, ɛsan ɛsan, a wɔde nsa to no. Fa nnua a nkyɛn nni ho.
+4. **Twa nnuro anaa nhwiren.** Ɛsɔ bɔ nkɔ ntoma, nkwadaa ne nhwiren a ɛyɛ mmerɛ twa, na ɛyɛ dɛ sɛ wɔde bɛyɛ aduane. Fa baabi a wɔde ba aduane no kɔ aduane.
+5. **Hwɛ ne sɛ nhwiren ne ahaban yɛ dɛ.** Rosemary, mint ne lavender wɔ ahoɔfɛn a ɛyɛ dɛ. Hyɛ ahaban a wɔnnwene no, fa ne ne nsa ho, na ma obi no nso nhwɛ.
+6. **Tu abɔtɔ anaa tenten afuw.** Fa mmepɔ a ɛyɛ mmerɛ bɛtu asase a ɛyɛ dɛ a ɛyɛ dwoo, sɛ ɔbɔ ne ho ban yiye a.
+7. **Hyɛ mmoa a wɔtoto nnwom ka ho nnuaa.** Afei fa ho tenaa ase, hwɛ nea ɛbɛba nkɔ.
 
-### Indoors, when going out is not possible
+### Wɔ fie mu, sɛ ɛnyɛ den sɛ wobɛkɔ afuw a
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Nhwiren ahaban wɔ mpɔn mu** a ɛwɔ basil, parsley anaa chives.
+- **Dua wɔ tebu a wɔde ahoma ahyɛ ho.** AFA kyerɛ sɛ wɔde ɛpon a wɔde ahyɛ ho ne kɔbɔ ketewa de asase a ɛwɔ hɔ no.
+- **Nhwiren a wɔde ahyɛ ahyɛ** a wɔfiri afuw anaa ɔdan a wɔtɔ mu.
+- **Nhwiren a wɔapam** a wɔfiri nnuaa mu, a wɔbɛyɛ kɔ kaad so bio. Hwɛ [nneɛma a wɔyɛ](/activities/arts-and-crafts/) bio.
+- **Nnuaa ne lavender ne nhwiren ɔhoɔ bɛn,** a AFA nso kyerɛ sɛ ɛma afuw ahoɔfɛn ba fie.
 
-### Getting out and about
+### Nkɔ nsase so anaa tu kwan
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Tu kwan tiaa** wɔ fie no ho, abɔtɔ anaa afuw ketewa bi mu, a wobɛtu ntɛm, na ɛwɔ baabi a wobetumi atena ase.
+- **Tena nsase so** wɔ ɔdan anaa ntɔ so, ɛyɛ dɛ sɛ wobɛtie mmoa a wɔtoto nnwom na wobɛnya mframa. Eyi yɛ adwuma a ɛyɛ ankasa.
+- **Kɔ afuw a nnipa dodow nni mu** bere a ɛnyɛ nnipa bebree no. NHS kyerɛ sɛ baabi bi wɔ afuw a wɔayɛ ma nnipa hwɛ, a nnuaa a ɛyɛ dɛ, nneɛma a wɔbɛtie ne nsu a ɛtɔ ho.
+- **Ma nnwa ne nkɔkɔ a ɛwɔ asuo ho dwodwo** wɔ esuo ketewa bi so, bɔ mmɔden sɛ wobɛnnhyɛ asuo no ano ahyia.
 
-## How do I make a garden easier to use?
+## Sɛnea yɛbɛma afuw nyɛ den ma wɔde di dwuma?
 
-Bring the garden up to the person, not the other way around.
+Ma afuw no mmɔ ho ntɛm kɔ obi no nkyɛn, na ɛnyɛ sɛ obi no kɔ afuw no nkyɛn.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Abɔtɔ a ɛwɔ nkaeɛ anaa mpɔn a ɛma wɔnnyɛ nkaeɛ ano** ɛyɛ dwo a ɛbɛyɛ kɔ sɛ wɔrenkɔ fam anaa wɔrenkɔ fam.
+- **Nneɛma a wɔde ahyɛ tebu so** yɛ adwuma ama nnipa a wɔde wiɛl ntɛm anaa a wɔpɛ sɛ wɔtena.
+- **Mpɔn a ɛyɛ dɛ, tenatena a nnipa nntwa ho** ɛma nnipa nyɛ mmerɛ ntu kwan a ɛnnyɛ ahosu.
+- **Ntenaeɛ ne ahoma wɔ kwan so** sɛ obi no pɛ sɛ ɔtena ntɛm.
+- **Nneɛma a wɔde tuo a ɛyɛ dɛ,** a ɛyɛ mmerɛ sɛ nsa bɛkyere. Fa nkyekyɛ, nkyɛ ne nneɛma a ɛyɛ den no nkɔ.
+- **Ɔdan a ɛwɔ ɛfɛntɔ ne ɛgyinakwan a wɔde ahyɛ ho** a obi no betumi akɔ hwehwɛ ankasa bere a wo nso wo nkyɛn.
 
-## Which plants should I avoid?
+## Nneɛma bɛn na ɛsɛ sɛ mimmfa nni?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Paw nnua a ɛyɛ nea ɛbɛyɛ sɛ wobɛtɔ na ɛnyɛ asiane sɛ wobɛdi. AFA kyerɛ sɛ wɔnfa nnua a ɛnyɛ nnipa a ɛma ahoma hyɛ ahyiaeɛ nnyɛ so, hwɛ sɛ obi nni nnuro anaa nhwiren, na hwɛ mmoa a wɔwɔ ahaban mmerɛ. National Institute on Aging ka sɛ ɛsɛ sɛ wɔyi nnuro a ɛwu ne nnuaa a ɛyɛ asiane afi fie.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Nnua a nkyɛn nni ho, te sɛ roses ne nnuaa a ɛyɛ ahaban ho ahoma, ne nnua a nsã a ɛhyɛ ho ahoma no kɔ.
+- Sɛ wonnim nnua bi yiye a, bisa poison control center anaa afuw nnipa wɔ mmeae a wɔwɔ hɔ ansa na wɔadua.
+- Nneɛma a nnipa pɛ ne nnua a ɛma nnipa anya anigye. AFA ka roses ne Christmas cactus sɛ nhwehwɛmu. Fa nnua a nkyɛn nni ho.
+- Fa nnuro, nnuaa ne nnuro a ɛkunkum nnuaa kɔ baabi a wɔbɛsie, na mma wɔde wɔn ayɛ wɔ baabi a obi no betumi ahyia.
 
-## How do I stay safe in the heat and sun?
+## Sɛnea yɛbɛdi ho ban wɔ owia hyew ne ɔhwehwɛ dwo mu?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Hwɛ owia ho ansa na woreyɛ adwuma. NIA kyerɛ sɛ nkɔsoɔ no betumi anya [ɔyareɛ a owia hyew de ba](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), ɛfiri sɛ nipadua no nni owia nsakrae ho ahoɔden, na aduro bi nso ka sɛnea nipadua no di owia hyew ho.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Fi ahyɛdeɛ anɔpa anaa anadwo.** Gyina owia a ɛyɛ hyew bere mu wɔ bosome a ɛyɛ ɔhyew bere mu. Hwɛ owia hyew, na nhwɛ nea ɛwɔ ɔpɛpɛɛpɛ kɛse.
+- **Ma nsuo bɛba daa daa.** Nnhwɛ sɛ obi no bɛka sɛ ɔhyew no. Gyina mmɔ nsã ne kɔfi a ɛwɔ kafeen wɔ owia hyew mu.
+- **Fa ntoma a ɛyɛ mmerɛ.** Ntoma a ɛyɛ kɔkɔɔ, a ɛyɛ ɔhoɔ a ɛyɛ ɔsoro, ntoma a ɛyɛ ɔhyew, ne nsɔnsɔnsɔnkyɛ.
+- **Fa sunscreen.** NIA kyerɛ sɛ wɔfa SPF 15 anaa ɔsoro, na wɔsan de sɛ ɛyɛ bere a ɛbɛyɛ.
+- **Paw ntenaeɛ a ɛsɔ.** Fa tebu a wɔde dua nnuaa ahyɛ ase wɔ dua anaa ntɔ so.
+- **Ma ɛnyɛ tenten.** Ɛberɛ ketewa a wɔde kɔ nsase so betumi ayɛ ma, titiriw bere a owia yɛ hyew.
+- **Hwɛ ɔkɔm nkrasɛm.** NIA kyerɛ sɛ ɔyareɛ a owia hyew de ba betumi ada no adi sɛ tire yɛ mmerɛ, ɔhwehwɛ dwo a ɛnyɛ yiye, nkyɛn dwo, anaa nnwoɔ. Obi a wɔwɔ dementia nnka nnɛ sɛ ɔyɛ ɔyareɛ, enti hwɛ ne ɔhyɛ ne ne tebea. Kɔ fie, fa nsuo ne asaase a ɛyɛ mmerɛ nhyɛ ne ho, na sɛ ɛnyɛ yie ntɛm a, hwehwɛ ayaresa. Sɛ owia hyew ayɛ den anaa ɔhwehwɛ dwo, ɔhyɛn anaa ne nhwɛ ayɛ fɛ, a ɛyɛ ayaresa ahohia, frɛ 112.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Owia a ɛyɛ dwo nso ka ho. Wɔ ahweaseɛ mu no, ma nsase so bere nyɛ tenten, na hwɛ sɛ wo nsa ne nan yɛ hyew na ɛnyɛ nsuo.
 
-## How do I handle wandering when we go outside?
+## Sɛnea yɛbɛdi tu kwan ho ban sɛ yɛreko nsase so a?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Tena obi no ne wo bere nyinaa sɛ ɔwɔ nsase so. Alzheimer's Association ka sɛ [nnipa a wɔwɔ dementia mpem nsia wɔ mpɛn mpem biara](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) bɛtu kwan no baako, na nnipa dodow yɛ saa dodow bi. Ɛbetumi asi wɔ ɔkwan biara a wɔwɔ mu.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA [afotuo a ɛfa tu kwan ne ɔkwan a obi bɛyera](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) ho no ka sɛ:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Hwɛ sɛ obi no wɔ ID anaa ɔyareɛ kɔkɔbɔ a ɛwɔ ne din, ne ne fie ne wo telefon nɔma, anaa tɔ ne ntoma ho nkyerɛwde.
+- Fa ɔfoto anaa vidio a ɛyɛ foforo ka ho.
+- Ma wo nkɔkɔ nnim sɛ obi no betumi atu kwan.
+- Fa ɔdan a ɛwɔ ɛfɛntɔ ne ɛdan a wɔde ahyɛ ho ahwɛ.
+- Nnhyɛ obi a wɔadi tu kwan dwa nkyɛn a obi nnhwɛ no.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association nso ka sɛ wɔmfa baabi a wobetumi akɔ hwehwɛ wɔ fie mu ne sɛ wɔ nsase so nso, ne sɛ wobɛhyehyɛ adwuma wɔ bere a obi bɛyɛ ahoɔden anaa ɔnnwene ankasa. Afuw a ɛwɔ ɔdan a wɔayɛ ho ban no betumi ayɛ nhyehyɛe a ɛfata ɛberɛ a anadwo rebɛba ho. Hwɛ yɛn [afotuo a ɛfa ahoɔden a ɛba anadwo ho](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Sɛ obi no kɔ ne ho a, Alzheimer's Association kyerɛ sɛ wɔhwehwɛ mpɔtam nkyɛn ntɛm, na sɛ wɔrennya no wɔ mmɔnsɔ 15 mu a, frɛ 112. Ka kyerɛ ɔpolisifo sɛ obi no wɔ dementia.
 
-## How do I adapt gardening as things change?
+## Sɛnea yɛbɛsesa afuw adwuma sɛ nneɛma resesa a?
 
-| If this has become hard | Try this instead |
+| Sɛ eyi ayɛ den | Yɛ eyi a ɛbɛyɛ kɔ so |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Dua abɔtɔ nyinaa | Dua nkaeɛ baako wɔ mpɔn baako mu |
+| Yi nkyɛn (ɔkwan a wɔfa so ka nkyɛn ne nnua) | Sɔ nsuo, anaa yi nnuaa a ɛyɛ kɔkɔɔ a wɔawu |
+| Tenatena afuw mu | Tena tebu so ne asase tuo ne nnua ho |
+| Nkɔ nsase so koraa | Ahaban mpɔn wɔ fie tebu so, anaa ɛgyinakwan wɔ ɔpon a ɛwɔ hɔ so |
+| Adwuma biara | Tena nsase so yɛ nkɔ, tie na hwɛ |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Nnipa bi pɛ sɛ wohwɛ wo sɛnea woreyɛ adwuma. NIA ka sɛ sɛ obi no pɛ sɛ ɔhwɛ nea ɔpɛ kɛse a, ɛyɛ yiye.
 
-## When should we head inside?
+## Ɛberɛ bɛn na yɛbɛkɔ fie?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Kɔ fie bere a obi no hwɛ sɛ ɔayɛ, ɔhyew, ɔtɔ owia, ɔnnwene, anaa ɔpɛ sɛ ɛwie. Minit 10 a ɛyɛ dɛ yɛ sɛ ɛnyɛ anɔpa tenten a ɛde ahonyadeɛ ba. Sɛ wosiesie ntɛm a, ɛyɛ nea ɛyɛ yiye.
 
-## Bring the garden indoors on screen
+## Fa afuw kɔ fie wɔ screen so
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Sɛ owia rɛtɔ a, [Sort Together](/games/sort-together/) wɔ afuw basket a wɔde pictures sie, na [Conversation Cards](/games/conversation-cards/) wɔ nsɛmmisa a ɛboa ma wɔka afuw ho asɛm. Sɛ woba fie fi owia hyew mu, na wopɛ sɛ wodi ho ban a, [Calm Breathing](/games/calm-breathing/) ma ahyɛnsɛ, ahome ntɛm a wobetumi akyerɛ obi no ho. Sɛ wopɛ afotuo a ɛfa tɔ, ahoɔfɛn ne nne ho ho a, hwɛ yɛn [nneɛma a ɛfa nne ho guide](/activities/sensory/).

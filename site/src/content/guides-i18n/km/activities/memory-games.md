@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "ល្បែងចងចាំសម្រាប់មនុស្សវ័យចំណាស់មានជំងឺវង្វេង"
+seoTitle: "ល្បែងចងចាំស្រាលៗសម្រាប់ជំងឺវង្វេង"
+description: "ល្បែងផ្គូផ្គង រូបភាព និងបៀ សម្រាប់មនុស្សវ័យចំណាស់មានជំងឺវង្វេង និងវិធីលេងដោយមិនធ្វើឱ្យនរណាម្នាក់មានអារម្មណ៍ថាកំពុងត្រូវបានសាកល្បង។"
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  ល្បែងចងចាំសម្រាប់មនុស្សវ័យចំណាស់ដែលមានជំងឺវង្វេងដំណើរការបានល្អបំផុតនៅពេលវាមិនពឹងផ្អែកលើការចងចាំ។
+  លេងល្បែងផ្គូផ្គងដោយបង្ហាញរូបភាពពីលើ ប្រើបន្ទះរូប 4 ដល់ 6 សន្លឹក លេងជាក្រុម
+  និងមិនគិតពិន្ទុ។ ការស្គាល់រូបភាពដែលមើលឃើញងាយស្រួលជាងការនឹកចាំឡើងវិញ
+  ដូច្នេះគួរជ្រើសរើសល្បែងដែលអ្វីៗទាំងអស់នៅតែមើលឃើញ។ គោលបំណងគឺភាពរីករាយ
+  មិនមែនលទ្ធផលទេ។
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "ល្បែងចងចាំបែបបុរាណលាក់បៀ ដែលសាកល្បងចំនុចដែលជំងឺវង្វេងធ្វើឱ្យពិបាក។ សូមទុករូបភាពបង្ហាញពីលើវិញ។"
+  - "ប្រើបន្ទះរូបតិចជាងមុន រូបភាពធំជាងមុន និងជម្រើសម្តងមួយៗធ្វើឱ្យល្បែងមានភាពស្រួល។"
+  - "លេងជាក្រុម ជួយគ្នាម្តងម្កាល និងមិនគិតពិន្ទុ។ មិនគួរធ្វើឱ្យនរណាម្នាក់មានអារម្មណ៍ថាត្រូវឆ្លើយភ្លាមៗទេ។"
+  - "មិនមានល្បែងចងចាំណាមួយដែលបានបង្ហាញថាអាចព្យាបាល ធ្វើឱ្យយឺត ការពារ ឬបញ្ឈប់ជំងឺវង្វេងបានទេ។ លេងព្រោះវាជាពេលវេលាល្អជាមួយគ្នា។"
+  - "ឈប់លេងនៅពេលដែលនៅតែសប្បាយ។ ការនិយាយអំពីរូបភាពក៏ជាលទ្ធផលល្អមួយដែរ។"
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "ល្បែងចងចាំមួយណាល្អសម្រាប់មនុស្សដែលមានជំងឺវង្វេង?"
+    a: "ល្បែងផ្គូផ្គងដែលមានរូបភាពធំៗ និង quen thuộc ហើយអាចទុកបង្ហាញពីលើបាន ដូចជា Picture pairs ដែលកំណត់ទៅ 4 ឬ 6 បន្ទះ។ ការរករូបភាពដូចគ្នាពីរដែលអ្នកអាចមើលឃើញអាចផ្តល់អារម្មណ៍ពេញចិត្តដោយមិនសាកល្បងការចងចាំរយៈពេលខ្លី។ Find the same សាមញ្ញជាងនេះទៅទៀត ដោយមានរូបភាពមួយសម្រាប់ផ្គូផ្គងពីជម្រើស 2 ដល់ 4។"
+  - q: "តើល្បែងចងចាំជួយដល់ជំងឺវង្វេងទេ?"
+    a: "មិនមានល្បែងចងចាំណាមួយដែលបានបង្ហាញថាអាចព្យាបាល ធ្វើឱ្យយឺត ឬបញ្ឈប់ជំងឺវង្វេងបានទេ។ ការពិនិត្យឡើងវិញរបស់ Cochrane បានរកឃើញថាភស្តុតាងអំពីការហ្វឹកហាត់ខួរក្បាលតាមកុំព្យូទ័រមានកម្រិតមិនគ្រប់គ្រាន់ក្នុងការបញ្ជាក់ថាវាអាចការពារជំងឺវង្វេងបានឬអត់។ ទោះជាយ៉ាងណា ល្បែងអាចជាវិធីដ៏อบអุ่นមួយក្នុងការចំណាយពេលជាមួយគ្នា។ សូមជ្រើសរើសវាសម្រាប់ភាពរីករាយ និងការនៅជាមួយគ្នា។"
+  - q: "តើខ្ញុំគួរលេងល្បែង Concentration បែបបុរាណជាមួយមនុស្សដែលមានជំងឺវង្វេងទេ?"
+    a: "នៅដំណាក់កាលដើម មនុស្សខ្លះនៅតែអាចរីករាយនឹងវា ជាពិសេសនៅពេលប្រើបៀតិច។ ប្រសិនបើការចងចាំទីតាំងបៀចាប់ផ្តើមបង្កឱ្យមានការខកចិត្ត សូមបើកបៀបង្ហាញពីលើ ហើយរកគូជាមួយគ្នា។ វិធីនេះរក្សាការផ្គូផ្គង ប៉ុន្តែមិនសាកល្បងការចងចាំ។"
+  - q: "ល្បែងចងចាំមួយណាល្អសម្រាប់មនុស្សវ័យចំណាស់ក្នុងក្រុម?"
+    a: "ល្បែងប៊ីងហ្គោរូបភាពដែលមានអ្នកអានលើអេក្រង់ ការបំពេញសុភាសិត quen thuộcដោយនិយាយឡើងវិញ និងកាតសម្រាប់ជជែកគ្នា សាកសមសម្រាប់លេងជាក្រុម។ លេងរហូតដល់កាតពេញទាំងអស់ ហើយជៀសវាងការបញ្ជាក់ថាអ្នកណាឆ្លើយត្រូវ ដើម្បីកុំឱ្យនរណាម្នាក់មានអារម្មណ៍ថាត្រូវបានកំណត់ចំណាំ។"
+  - q: "តើមានល្បែងចងចាំឥតគិតថ្លៃសម្រាប់មនុស្សវ័យចំណាស់នៅលើអ៊ីនធឺណិតទេ?"
+    a: "មាន។ ល្បែងនៅលើគេហទំព័រនេះ រួមមាន Picture pairs, Find the same, Photo pairs និង Picture puzzle គឺឥតគិតថ្លៃ មិនតម្រូវឱ្យចុះឈ្មោះ ហើយអាចលេងបានលើទូរស័ព្ទ ថេប្លេត និងកុំព្យូទ័រ។ គ្មានល្បែងណាមួយមានម៉ោងកំណត់ ឬពិន្ទុទេ។"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+ប្រសិនបើអ្នកស្វែងរក «ល្បែងចងចាំសម្រាប់មនុស្សវ័យចំណាស់» ភាគច្រើននៃលទ្ធផលដែលអ្នកឃើញត្រូវបានបង្កើតឡើងសម្រាប់មនុស្សដែលចង់ហ្វឹកហាត់ខួរក្បាល៖ បៀលាក់ ម៉ោងរាប់ថយក្រោយ កម្រិត និងពិន្ទុ។ សម្រាប់មនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង លក្ខណៈទាំងនេះអាចបំលែងល្បែងមួយទៅជាការសាកល្បងលើចំនុចដែលកំពុងពិបាក។ ល្បែងដូចគ្នាអាចលេងបានតាមវិធីស្រាលជាង។ ទំព័រនេះបង្ហាញពីរបៀបធ្វើ និងរាយបញ្ជីល្បែងដែលសាកសមក្នុងដំណាក់កាលនីមួយៗ។
 
-## Why do classic memory games frustrate people with dementia?
+## ហេតុអ្វីបានជាល្បែងចងចាំបែបបុរាណធ្វើឱ្យមនុស្សដែលមានជំងឺវង្វេងមានការខកចិត្ត?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+ព្រោះវាពឹងផ្អែកលើការរក្សាព័ត៌មានថ្មីក្នុងចិត្ត ដែលជាទូទៅជាចំនុចដំបូងដែលជំងឺ Alzheimer ដែលជាមូលហេតុទូទៅបំផុតនៃជំងឺវង្វេង ប៉ះពាល់។ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) បញ្ជាក់ថារោគសញ្ញាដំបូងទូទៅបំផុតនៃជំងឺ Alzheimer គឺការពិបាកក្នុងការចងចាំព័ត៌មានដែលទើបរៀនថ្មីៗ។ នៅក្នុងល្បែង Concentration បែបបុរាណ អ្នកបើកបៀពីរ សម្រង់ចាំថាវានៅទីណា ហើយប្រើព័ត៌មាននោះមួយនាទីក្រោយមក។ នោះគឺជាព័ត៌មានថ្មីដែលត្រូវរក្សា និងនឹកចាំឡើងវិញ។
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+ប្រសិនបើបន្ថែមម៉ោងកំណត់ ពិន្ទុ ឬសំឡេងរោទិ៍សម្រាប់ចម្លើយខុស មនុស្សនោះអាចមានអារម្មណ៍ថាត្រូវបានរំលឹកពីអ្វីដែលពួកគេមិនអាចធ្វើបាន នៅចំពោះមុខមនុស្សដែលពួកគេស្រឡាញ់។ មនុស្សជាច្រើនអាចសម្រេចចិត្តមិនចង់លេងទៀតដោយស្ងាត់ៗ។
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+ការស្គាល់អ្វីមួយដែលអ្នកអាចមើលឃើញគឺជាកិច្ចការផ្សេង និងជាទូទៅងាយស្រួលជាង។ ការចង្អុលទៅពែងតែពីរដែលនៅចំពោះមុខទាំងពីរ អាចផ្តល់អារម្មណ៍ល្អ។ ដូច្នេះវិធីសាស្ត្រគឺរក្សាការផ្គូផ្គង ប៉ុន្តែដកការសាកល្បងការចងចាំចេញ។
 
-## How do you make a memory game gentle?
+## តើធ្វើដូចម្តេចដើម្បីធ្វើឱ្យល្បែងចងចាំមានភាពស្រាល?
 
-These adjustments work for card games, board games and games on a screen.
+ការកែសម្រួលទាំងនេះអាចប្រើបានសម្រាប់ល្បែងបៀ ល្បែងក្តារ និងល្បែងលើអេក្រង់។
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **ទុករូបភាពបង្ហាញពីលើ។** ការផ្គូផ្គងរូបភាពដែលអ្នកអាចមើលឃើញនៅតែជាល្បែងពិតប្រាកដ ហើយជាញឹកញាប់ផ្តល់អារម្មណ៍ពេញចិត្ត។
+2. **ប្រើបន្ទះតិច។** ចាប់ផ្តើមពីពីរ ឬបីគូ។ បន្ថែមតែនៅពេលដែលវាមានអារម្មណ៍ងាយពេក ហើយពួកគេចង់លេងបន្ថែម។
+3. **ជ្រើសរើសរូបភាពធំ quen thuộc និងសមសម្រាប់មនុស្សពេញវ័យ។** ដូចជាពែងតែ ផ្កាឈូករ័ត្ន ឬទូកក្តោង។ មិនមែនរូបត្លុក ហើយមិនមែនរូបដែលមានព័ត៌មានច្រើនពេកទេ។
+4. **លេងជាក្រុម។** និយាយថា «តោះយើងរកឆ្កែ» ជំនួសឱ្យ «ដល់វេនអ្នក»។ ជួយគ្នាចង្អុល និងជួយគ្នា។
+5. **មិនគិតពិន្ទុ។** មិនចាំបាច់មានអ្នកឈ្នះទេ។ ប្រសិនបើមាននរណាម្នាក់សួរ គ្រាន់តែនិយាយថា «យើងធ្វើបានហើយ» ក៏គ្រប់គ្រាន់។
+6. **កុំប្រញាប់ជាមួយម៉ោង។** មិនមានម៉ោងកំណត់ ហើយកុំប្រញាប់រវាងវេន។
+7. **និយាយអំពីរូបភាព។** «មើលទូកនោះ។ តើអ្នកធ្លាប់ជិះទូកក្តោងទេ?» ការសន្ទនាជាញឹកញាប់ជាផ្នែកល្អបំផុត។
+8. **ឈប់លេងនៅពេលដែលនៅតែល្អ។** បញ្ចប់បន្ទាប់ពីផ្គូផ្គងបានមួយគូ ខណៈដែលអារម្មណ៍នៅតែស្រួល។
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ផ្តល់ដំបូន្មានក្នុងទិសដៅដូចគ្នា៖ សម្របសម្រួលសកម្មភាពទៅតាមអ្វីដែលមនុស្សនោះអាចធ្វើបាន សង្កេតមើលការខកចិត្ត និងធ្វើឱ្យពួកគេមានអារម្មណ៍ថាទទួលបានជោគជ័យ។
 
-## Gentle memory and matching games to try
+## ល្បែងចងចាំ និងផ្គូផ្គងស្រាលៗដែលអាចសាកល្បង
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (ល្បែងផ្គូផ្គងដោយបង្ហាញរូបភាព)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) គឺជាល្បែងផ្គូផ្គងដែលមានរូបភាពធំៗ និងបន្ទះ 4 ដល់ 12 សន្លឹក។ រូបភាពអាចនៅតែបង្ហាញ ដូច្នេះវាផ្តោតលើការរករូបដូចគ្នា មិនមែនការចងចាំថាវានៅទីណាទេ។ ចាប់ផ្តើមពី 4 បន្ទះ។ សម្រាប់មនុស្សនៅដំណាក់កាលដើមដែលចង់បានការប្រកួតប្រជែងបន្តិច អ្នកអាចប្តូរទៅ **Hidden pictures** ប៉ុន្តែសូមត្រឡប់ទៅការបង្ហាញរូបភាពវិញភ្លាមៗនៅពេលដែលវាមិនសប្បាយទៀត។
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) បង្ហាញរូបភាពមួយនៅខាងលើ និងជម្រើសពីរ ដល់បួននៅខាងក្រោម។ ចុចលើរូបដែលដូចគ្នា។ វាជាល្បែងផ្គូផ្គងសាមញ្ញបំផុតនៅលើគេហទំព័រនេះ និងសាកសមសម្រាប់មនុស្សដែលយល់ថាក្រឡាចត្រង្គពេញមួយពិបាកពេក រួមទាំងមនុស្សជាច្រើននៅដំណាក់កាលក្រោយដែលមានអ្នកនៅក្បែរជួយ។
 
-### Photo pairs (family photo memory game)
+### Photo pairs (ល្បែងចងចាំដោយប្រើរូបថតគ្រួសារ)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) បម្លែងរូបថតដែលអ្នកជ្រើសរើសទៅជាល្បែងផ្គូផ្គង៖ ឆ្កែ សួនច្បារ ឬផ្ទះនៅជិតបឹង។ មុខមាត់ និងកន្លែង quen thuộcជាញឹកញាប់អាចជំរុញឱ្យមានការសន្ទនាបានច្រើនជាងរូបភាពទូទៅ។ រូបថតនៅតែរក្សាទុកក្នុងកម្មវិធីរុករករបស់អ្នក ហើយមិនត្រូវបានផ្ទុកឡើងទេ។
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) សុំឱ្យអ្នកដាក់រូបភាពនីមួយៗទៅក្នុងកន្ត្រកដែលសមស្រប ដូចជាចង្ក្រាន ឬសួនច្បារ។ ការតម្រៀបពឹងផ្អែកលើចំណេះដឹងដែលមានយូរអំពីរបៀបដែលអ្វីៗដំណើរការ មិនមែនលើការចងចាំរយៈពេលខ្លីទេ។
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) កាត់រូបភាពមួយទៅជា 4 ឬ 9 បំណែក។ ចុចលើបំណែកពីរដើម្បីប្តូរទីតាំងរហូតដល់រូបភាពពេញលេញ។ រូបភាពពេញលេញនៅតែបង្ហាញលើអេក្រង់ជាការណែនាំ។
 
-### Real cards on the table
+### បៀពិតនៅលើតុ
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+អ្នកមិនចាំបាច់ប្រើអេក្រង់ទេ។ យកគូដូចគ្នាចេញពីបៀពីរឈុត ឬពីសំណុំកាតរូបភាព។ ដាក់វាបង្ហាញពីលើជាពីរជួរ ហើយរកគូជាមួយគ្នា។ បន្ទាប់មក អាចតម្រៀបតាមពណ៌ ឬប្រភេទវិញ។ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) រាយបញ្ជីល្បែងបៀ និងល្បែងក្តារថាជាសកម្មភាពសម្រាប់ដំណាក់កាលដើម។
 
-## Which memory games suit each stage?
+## ល្បែងចងចាំមួយណាសាកសមនឹងដំណាក់កាលនីមួយៗ?
 
-Stages are loose labels. Go by what the person enjoys today.
+ដំណាក់កាលគ្រាន់តែជាការបែងចែកទូទៅប៉ុណ្ណោះ។ សូមពិនិត្យមើលអ្វីដែលមនុស្សនោះរីករាយនៅថ្ងៃនេះ។
 
-| Stage | Games that often fit | How to set them up |
+| ដំណាក់កាល | ល្បែងដែលជាញឹកញាប់សាកសម | របៀបរៀបចំ |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| ដើម | Picture pairs, Photo pairs, Picture puzzle 9 បំណែក, ល្បែងបៀ quen thuộc | អនុញ្ញាតឱ្យពួកគេជ្រើសរើស។ អាចបិទបន្ទះបានប្រសិនបើពួកគេចូលចិត្ត ប៉ុន្តែមិនគិតពិន្ទុប្រសិនបើវារំខានពួកគេ |
+| កណ្តាល | Picture pairs 4 ដល់ 6 បន្ទះបង្ហាញពីលើ, Find the same, Sort together | រូបភាពបង្ហាញជានិច្ច។ អង្គុយនៅក្បែរពួកគេ ហើយជួយគ្នាម្តងម្កាល |
+| ចុងក្រោយ | Find the same មាន 2 ជម្រើស, មើលរូបភាពធំមួយជាមួយគ្នា | រយៈពេលខ្លីណាស់។ អ្នកកាន់ថេប្លេត ពួកគេចង្អុល ឬគ្រាន់តែមើល និងស្តាប់ |
 
-## Do memory games help with dementia?
+## តើល្បែងចងចាំជួយដល់ជំងឺវង្វេងទេ?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+មិនមានល្បែងចងចាំណាមួយដែលបានបង្ហាញថាអាចព្យាបាល ធ្វើឱ្យយឺត ឬបញ្ឈប់ជំងឺវង្វេងបានទេ។ [ការពិនិត្យឡើងវិញរបស់ Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) អំពីការហ្វឹកហាត់ការយល់ដឹងតាមកុំព្យូទ័រសម្រាប់មនុស្សដែលមានបញ្ហាចងចាំស្រាល បានរកឃើញថាភស្តុតាងមានកម្រិតមិនគ្រប់គ្រាន់ក្នុងការបញ្ជាក់ថាវាអាចការពារជំងឺវង្វេងបានឬអត់។ មគ្គុទ្ទេសក៍របស់យើងអំពី [ល្បែងខួរក្បាល និងជំងឺវង្វេង](/brain-health/brain-games/) ពន្យល់បន្ថែមអំពីអ្វីដែលការសិក្សាបាន និងមិនបានបង្ហាញ។
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+ប៉ុន្តែនោះមិនមែនជាហេតុផលដែលត្រូវរំលងល្បែងទេ។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ផ្តល់អនុសាសន៍ឱ្យផ្តោតលើភាពរីករាយ មិនមែនសមិទ្ធផលទេ។ ដប់នាទីនៃការផ្គូផ្គងរូបភាព និងនិយាយអំពីវា អាចជាពេលវេលាល្អមួយក្នុងថ្ងៃ។
 
-## What about memory games for seniors without dementia?
+## ចុះល្បែងចងចាំសម្រាប់មនុស្សវ័យចំណាស់ដែលមិនមានជំងឺវង្វេងវិញ?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+ប្រសិនបើមនុស្សវ័យចំណាស់ដែលមិនមានបញ្ហាចងចាំចូលចិត្តល្បែងដែលមានម៉ោងកំណត់ ពិន្ទុ និងកម្រិតពិបាក នោះមិនមានបញ្ហាអ្វីទេ។ គ្រាន់តែកុំរំពឹងថាវាអាចការពារជំងឺវង្វេងបាន ព្រោះមិនមានល្បែងណាមួយដែលបានបង្ហាញថាអាចធ្វើបាន។ កំណែស្រាលៗខាងលើក៏សាកសមនៅពេលដែលមនុស្សជាច្រើនជំនាន់លេងជាមួយគ្នាដែរ៖ ជីដូនជីតាដែលមានជំងឺវង្វេង និងចៅដែលនៅក្មេង អាចផ្គូផ្គងរូបភាពជាក្រុម ដោយគ្មាននរណាម្នាក់ត្រូវបានសាកល្បងទេ។
 
-## When should you stop or change the game?
+## តើគួរឈប់ ឬប្តូរល្បែងនៅពេលណា?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+ការដកដង្ហើមធំ ការរុញថេប្លេតចេញ ការនិយាយថា «ខ្ញុំមិនអាចធ្វើបានទេ» ឬមើលទៅដូចជាមានការថប់បារម្ភ ទាំងអស់នេះជាសញ្ញាថាគួរធ្វើឱ្យវាងាយជាងមុន ឬឈប់។ សាកល្បងប្រើបន្ទះតិចជាងមុន បង្ហាញរូបភាពពីលើ ប្តូរទៅ [Find the same](/games/find-the-same/) ឬគ្រាន់តែមើលរូបភាព និងជជែកគ្នា។ ប្រសិនបើពួកគែមិនចង់លេងទាល់តែសោះ ក៏មិនអីដែរ។ មគ្គុទ្ទេសក៍របស់យើងអំពី [របៀបលេងជាមួយគ្នា](/caregiving/how-to-play-together/) មានព័ត៌មានបន្ថែមអំពីការកំណត់ចង្វាក់ និងការជួយ។

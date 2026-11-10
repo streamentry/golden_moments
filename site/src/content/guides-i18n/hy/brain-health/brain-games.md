@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Ուղեղի խաղերը կանխու՞մ են դեմենցիան. ապացույցները"
+seoTitle: "Ուղեղի խաղերը կանխու՞մ են դեմենցիան. ապացույցները"
+description: "Ինչ են ասում ուսումնասիրությունները ուղեղի խաղերի և դեմենցիայի մասին. ճանաչողական խթանում, համակարգչային վարժանքներ, ACTIVE փորձարկում և FTC-ի գործը Lumosity-ի դեմ։"
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ոչ մի ուղեղի խաղ ապացուցված չէ, որ կանխում է դեմենցիան։ Համակարգչային
+  վարժանքները հիմնականում բարելավում են այն առաջադրանքները, որոնք մարդիկ
+  պարապում են։ ACTIVE փորձարկման մեկ վերլուծություն հատուկ արագության
+  վարժանքը և լրացուցիչ պարապմունքները կապել է 20 տարվա ընթացքում դեմենցիայի
+  ավելի քիչ ախտորոշումների հետ. սա սահմանափակ արդյունք է։ Դեմենցիայով արդեն
+  ապրող մարդկանց համար խմբային ճանաչողական խթանումը ցույց է տալիս փոքր,
+  կարճաժամկետ օգուտներ։ Խաղերից ամենալավը վայելելն է՝ հաճույքի և միասին
+  անցկացրած ժամանակի համար։
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Ուղեղի վարժանքների ուսումնասիրությունները ցույց են տալիս, որ մարդիկ ավելի լավ են կատարում այն առաջադրանքները, որոնք պարապում են, սակայն շատ ավելի քիչ ապացույց կա, որ դա փոխանցվում է առօրյա կյանքին։"
+  - "ACTIVE փորձարկման մեջ միայն նրանք, ովքեր կատարել են հատուկ արագության վարժանք և մասնակցել լրացուցիչ պարապմունքների, 20 տարվա ընթացքում ունեցել են դեմենցիայի ավելի քիչ ախտորոշումներ։ Առանց լրացուցիչ պարապմունքների արագության վարժանքը, ինչպես նաև հիշողության և տրամաբանության վարժանքները, նման արդյունք չեն ցույց տվել։"
+  - "2016 թվականին Lumosity-ի ստեղծող ընկերությունը վճարեց 2 միլիոն դոլար՝ FTC-ի մեղադրանքները հարթելու համար, ըստ որոնց ընկերությունը չուներ բավարար գիտական հիմք դեմենցիայի ուշացման մասին պնդումների համար։"
+  - "Թեթևից միջին աստիճանի դեմենցիայով ապրող մարդկանց համար ճանաչողական խթանման խմբերը ցույց են տալիս փոքր, կարճաժամկետ օգուտներ մտածողության համար և ավելի noticeable օգուտներ շփման և սոցիալական փոխգործակցության համար։"
+  - "Golden Moments խաղերը նախատեսված են հաճույքի և միասին անցկացրած ժամանակի համար։ Դրանք բուժում չեն և չեն կանխում կամ դանդաղեցնում դեմենցիան։"
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Արդյո՞ք ուղեղի խաղերը կանխում են Ալցհայմերի հիվանդությունը։"
+    a: "Ոչ մի ուղեղի խաղ ապացուցված չէ, որ կանխում է Ալցհայմերի հիվանդությունը կամ դեմենցիայի այլ տեսակները։ National Institute on Aging-ը նշում է, որ բավարար ապացույց չկա, թե առևտրային ուղեղի վարժանքների հավելվածներն ունեն նույն ազդեցությունը, ինչ կլինիկական փորձարկումներում ստուգված վարժանքները։ Այնուամենայնիվ, խաղերը կարող են լինել ժամանակ անցկացնելու հաճելի ձև։"
+  - q: "Ի՞նչ պարզեց ACTIVE փորձարկումը արագության վարժանքի և դեմենցիայի մասին։"
+    a: "2026 թվականի վերլուծությունը ACTIVE-ի մասնակիցների տվյալները 20 տարվա ընթացքում կապեց Medicare-ի գրառումների հետ։ Արագ մշակման (speed-of-processing) վարժանք կատարած և առնվազն մեկ լրացուցիչ պարապմունքի մասնակցած մարդիկ ունեցել են դեմենցիայի ախտորոշման ավելի ցածր հաճախականություն, քան վարժանք չկատարած խումբը։ Առանց լրացուցիչ պարապմունքների արագության վարժանքը, ինչպես նաև հիշողության կամ տրամաբանության վարժանքները, նշանակալի ազդեցություն չեն ցույց տվել։"
+  - q: "Արդյո՞ք գլուխկոտրուկներն ու խաղերը օգտակար են այն մարդու համար, ով արդեն ապրում է դեմենցիայով։"
+    a: "Կարող են օգտակար լինել, եթե մարդը դրանք հաճույքով է անում։ Խմբային ճանաչողական խթանումը, որը ներառում է բառախաղեր, գլուխկոտրուկներ, երաժշտություն և զրույց, ցույց է տալիս փոքր կարճաժամկետ օգուտներ մտածողության համար և ավելի պարզ օգուտներ շփման և սոցիալական փոխգործակցության համար։ Ճիշտ նպատակն է հաճույքը, ոչ թե որևէ արդյունք։"
+  - q: "Ինչո՞ւ FTC-ն տուգանեց Lumosity-ին։"
+    a: "2016 թվականին Federal Trade Commission-ը մեղադրեց Lumos Labs-ին այն բանում, որ ընկերությունը իր խաղերի մասին պնդումներ էր անում, այդ թվում՝ տարիքային անկման և դեմենցիայի ուշացման մասին, առանց դրանք հիմնավորող բավարար գիտական ապացույցների։ Ընկերությունը համաձայնեց վճարել 2 միլիոն դոլար և հետագայում նման պնդումներ անելիս ունենալ վստահելի գիտական ապացույցներ։"
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,189 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Ուղեղի խաղերը ամենուր են, և շատերը խոստանում են ձեր միտքը երիտասարդ պահել։
+Եթե դուք խնամում եք դեմենցիայով ապրող մարդու կամ անհանգստանում եք ձեր սեփական
+հիշողության համար, բնական է մտածել, թե արդյոք այդ խաղերը կարող են օգնել։ Ահա
+թե ինչ են իրականում ցույց տալիս ուսումնասիրությունները՝ ներառյալ թե՛
+հուսադրող, թե՛ ոչ այնքան հուսադրող կողմերը։
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Սա ընդհանուր տեղեկատվություն է, ոչ թե բժշկական խորհուրդ։ Տեսեք մեր
+[բժշկական հրաժարագիրը](/medical-disclaimer/)։
 
-## Do brain games prevent dementia?
+## Արդյո՞ք ուղեղի խաղերը կանխում են դեմենցիան
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ոչ մի ուղեղի խաղ ապացուցված չէ, որ կանխում է դեմենցիան։ National Institute on
+Aging-ը (NIA) խորհուրդ է տալիս զգուշանալ այն պնդումներից, թե համակարգչային և
+առցանց խաղերը կարող են բարելավել հիշողությունը, և նշում է, որ բավարար
+ապացույց չկա, թե որևէ առևտրային ուղեղի վարժանքների հավելված ունի նույն
+ազդեցությունը, ինչ կլինիկական փորձարկումներում ստուգված վարժանքները
+([NIA՝ Ալցհայմերի հիվանդության կանխման մասին](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))։
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Սա չի նշանակում, որ խաղերն անօգուտ են։ Դա նշանակում է, որ դրանց արժեքը
+հաճույքի, միասին անցկացրած ժամանակի և սովորույթի մեջ է, ոչ թե որևէ մեկին
+դեմենցիայից պաշտպանելու մեջ։
 
-## What is "near transfer", and why does it matter?
+## Ի՞նչ է «մոտ փոխանցումը», և ինչո՞ւ է դա կարևոր
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Երբ դուք ինչ-որ առաջադրանք եք պարապում, սովորաբար ավելի լավ եք կատարում հենց
+այն։ Հետազոտողները դա անվանում են վարժանքի ազդեցություն։ Ավելի դժվար
+հարցն այն է, թե արդյոք բարելավումը **փոխանցվում** է այլ բաների վրա. նման
+առաջադրանքների վրա (մոտ փոխանցում) կամ առօրյա կյանքի վրա, օրինակ՝ հանդիպումները
+հիշելը կամ գումարը կառավարելը (հեռու փոխանցում)։
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 թվականի լայնածավալ մի ակնարկ ուսումնասիրեց այն հետազոտությունները, որոնք
+ուղեղի վարժանքների ընկերությունները ներկայացնում էին որպես իրենց լավագույն
+ապացույցներ։ Այն պարզեց, որ լայն ապացույցներ կան, թե մարդիկ բարելավվում են
+պարապած առաջադրանքներում, ավելի քիչ ապացույցներ՝ որ նրանք բարելավվում են մոտ
+առաջադրանքներում, և քիչ ապացույցներ՝ որ վարժանքները բարելավում են առօրյա
+մտածողությունը։ Շատ ուսումնասիրություններ նաև ունեին նախագծման խնդիրներ,
+որոնք խանգարում էին հստակ եզրակացություններ անել
+([Simons և գործընկերներ, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983))։
 
-## What do reviews say about computer brain training?
+## Ի՞նչ են ասում ակնարկները համակարգչային ուղեղի վարժանքների մասին
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane-ի ակնարկները, որոնք միավորում են լավագույն հասանելի փորձարկումները,
+ուսումնասիրել են առնվազն 12 շաբաթ տևող համակարգչային վարժանքները.
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **65 և բարձր տարիքի առողջ մեծահասակներ.** 8 փորձարկում՝ 1183 մարդու
+  մասնակցությամբ։ Ապացույցների որակը ցածր կամ շատ ցածր էր։ Կարող է լինել
+  փոքր օգուտ հենց վարժանքից հետո, սակայն հստակ ապացույց չկա, որ այն երկար
+  է պահպանվում
+  ([Cochrane-ի ակնարկ, առողջ տարեց մեծահասակներ](https://pubmed.ncbi.nlm.nih.gov/32104914/))։
+- **Թեթև ճանաչողական խանգարում ունեցող մարդիկ.** 8 փորձարկում՝ 660 մարդու
+  մասնակցությամբ։ Ոչ մի փորձարկում չի հայտնել, թե արդյոք մարդկանց մոտ հետագայում
+  զարգացել է դեմենցիա, իսկ ապացույցները չափազանց թույլ էին եզրակացություններ
+  անելու համար
+  ([Cochrane-ի ակնարկ, թեթև ճանաչողական խանգարում](https://pubmed.ncbi.nlm.nih.gov/30864747/))։
 
-## What did the ACTIVE trial find?
+## Ի՞նչ պարզեց ACTIVE փորձարկումը
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE-ը ԱՄՆ-ում իրականացված մեծ փորձարկում է, որը սկսվել է 1998 թվականին՝
+2802 մեծահասակների մասնակցությամբ, 65 և բարձր տարիքի, ովքեր ապրում էին
+ինքնուրույն և չունեին հիշողության կամ մտածողության նկատելի խնդիրներ։ Մարդկանց
+պատահականության սկզբունքով բաժանեցին երեք տեսակի փոքր խմբային վարժանքների
+(մշակման արագություն, հիշողություն կամ տրամաբանություն) կամ առանց շփման խմբի։
+Վարժանքները ներառում էին մինչև տասը պարապմունք՝ հինգից վեց շաբաթվա ընթացքում։
+Որոշ մարդիկ, ովքեր ավարտել էին պարապմունքների մեծ մասը, նաև պատահականության
+սկզբունքով առաջարկ ստացան մասնակցելու **լրացուցիչ պարապմունքների** մոտ մեկ և
+երեք տարի անց։
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Արագության վարժանքը ներառում էր տեսողական տեղեկատվությունը նկատելը և
+մշակելը ավելի ու ավելի կարճ ակնթարթներում՝ այնպիսի մակարդակով, որը
+հարմարվում էր մարդկանց առաջընթացին։
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 թվականին հետազոտողները 2021 մասնակցի տվյալները 20 տարվա ընթացքում կապեցին
+նրանց Medicare-ի գրառումների հետ ([ACTIVE-ի 20-ամյա վերլուծություն](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/))։
+Ահա, թե կոնկրետ ինչ պարզեցին.
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Արագության վարժանք՝ առնվազն մեկ լրացուցիչ պարապմունքով.** դեմենցիայի
+  ախտորոշման ավելի ցածր հաճախականություն, քան առանց շփման խմբում (վտանգի
+  հարաբերակցությունը՝ 0.75, ինչը մոտավորապես նշանակում է 25% ավելի ցածր
+  հաճախականություն)։
+- **Արագության վարժանք՝ առանց լրացուցիչ պարապմունքների.** ավելի ցածր
+  հաճախականություն չի դիտվել։
+- **Հիշողության կամ տրամաբանության վարժանք.** դեմենցիայի ախտորոշումների վրա
+  նշանակալի ազդեցություն չի եղել։
+- **Յուրաքանչյուր վարժանքի խումբ՝ ամբողջությամբ, առանց շփման խմբի
+  համեմատ.** նկատվել է ավելի ցածր հաճախականության միտում, բայց ոչ
+  վիճակագրորեն նշանակալի։
 
-### The limits of this finding
+### Այս արդյունքի սահմանափակումները
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Այն վերաբերում է **մեկ հատուկ տեսակի վերահսկվող արագության վարժանքի՝
+  լրացուցիչ պարապմունքներով**, ոչ թե ընդհանրապես ուղեղի խաղերին։
+- Նշանակալի արդյունքը ստացվել է **ենթախմբում** (մարդիկ, ովքեր ավարտել էին
+  առաջին պարապմունքների մեծ մասը և առաջարկ ստացել լրացուցիչ պարապմունքների),
+  ոչ թե ամբողջ արագության խմբում։
+- Դեմենցիան չափվել է **Medicare-ի պահանջագրերում ախտորոշման կոդերով**, ոչ թե
+  յուրաքանչյուր մարդուն առանձին հետազոտելով։ Սկզբնական մասնակիցների մոտ մեկ
+  քառորդը դուրս է մնացել, որովհետև նրանք ընդգրկված էին Medicare Advantage-ում,
+  որի համար ամբողջական պահանջագրերի տվյալներ չկան։
+- Մասնակիցները սկզբում մտածողության նկատելի խնդիրներ չունեին։ Արդյունքները
+  ոչինչ չեն ասում այն խաղերի մասին, որոնք նախատեսված են **դեմենցիայով արդեն
+  ապրող մարդկանց** համար։
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Սա հետաքրքիր արդյունք է, որն արժանի է լրացուցիչ ուսումնասիրության։ Սակայն դա
+ապացույց չէ, թե որևէ հավելված կանխում է դեմենցիան։
 
-## What did the FTC say about Lumosity?
+## Ի՞նչ ասաց FTC-ն Lumosity-ի մասին
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016 թվականի հունվարին Lumos Labs-ը՝ Lumosity-ի ստեղծողը, համաձայնեց վճարել 2
+միլիոն դոլար՝ Federal Trade Commission-ի՝ մոլորեցնող գովազդի վերաբերյալ
+մեղադրանքները հարթելու համար։ FTC-ն նշեց, որ ընկերությունը, առանց բավարար
+գիտական հիմքի, պնդում էր, թե իր խաղերը կարող են բարելավել աշխատանքում և
+դպրոցում ցուցանիշները, ինչպես նաև կարող են ուշացնել տարիքային անկումը, թեթև
+ճանաչողական խանգարումը, դեմենցիան և Ալցհայմերի հիվանդությունը։ Որոշումը
+պարտավորեցնում է ընկերությանը հետագայում նման պնդումներ անելիս ունենալ
+համարժեք և վստահելի գիտական ապացույցներ ([FTC-ի հայտարարությունը](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program))։
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Դասը ընտանիքների համար սա է. թերահավատ վերաբերվեք ցանկացած խաղի, հավելվածի
+կամ ծրագրի, որը խոստանում է պաշտպանել հիշողությունը կամ կանխել դեմենցիան։
 
-## Can games help someone who already has dementia?
+## Արդյո՞ք խաղերը կարող են օգտակար լինել այն մարդու համար, ով արդեն ապրում է դեմենցիայով
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Դրանք կարող են օրն ավելի լավ դարձնել, և դա շատ կարևոր է։ Առավել լավ
+ուսումնասիրված մոտեցումը **ճանաչողական խթանումն** է. հաճելի խմբային
+գործունեություններ, ինչպիսիք են զրույցը, հիշողությունների կիսվելը, բառախաղերը,
+գլուխկոտրուկները և երաժշտությունը, սովորաբար փոքր խմբում՝ վարողի մասնակցությամբ։
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 թվականի Cochrane-ի ակնարկը, որը ներառում էր 37 փորձարկում՝ թեթևից միջին
+աստիճանի դեմենցիայով ապրող 2766 մարդու մասնակցությամբ, պարզեց
+([Cochrane-ի ակնարկ՝ ճանաչողական խթանման մասին](https://pubmed.ncbi.nlm.nih.gov/39804128/)).
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- մտածողության թեստերի վրա **փոքր, կարճաժամկետ օգուտ** (միջին որակի
+  ապացույցներ),
+- **գործնականորեն նշանակալի բարելավումներ շփման և սոցիալական
+  փոխգործակցության մեջ** (բարձր որակի ապացույցներ, ավելի փոքր թվով
+  ուսումնասիրություններից),
+- կյանքի որակի, տրամադրության և վարքի համար **թեթև օգուտներ**։
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Օգուտները հիմնականում չափվել են մոտ տասը շաբաթ տևող ծրագրերից անմիջապես հետո,
+և քիչ ուսումնասիրություններ են ստուգել, թե արդյոք դրանք պահպանվում են։
+Ճանաչողական խթանումը կառուցվածքային խմբային ծրագիր է, ուստի այս արդյունքները
+ինքնաբերաբար չեն վերաբերում այն մարդուն, ով պլանշետով մենակ խաղ է խաղում։
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024 թվականի Lancet-ի հանձնաժողովը նույնպես նշում է, որ գործունեության
+ծրագրերը կարևոր են դեմենցիայով ապրող մարդկանց համար՝ հաճույքն ու նպատակի
+զգացողությունը պահպանելու համար
+([Lancet-ի հանձնաժողով](https://doi.org/10.1016/S0140-6736(24)01296-0))։
 
-## What are games actually good for?
+## Իրականում ինչի՞ համար են օգտակար խաղերը
 
-When chosen well, games can offer:
+Լավ ընտրված դեպքում խաղերը կարող են առաջարկել.
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Հաճույք։** Հաճելի կես ժամը ինքնին արժեք ունի։
+- **Մերձություն։** Կողք կողքի խաղալը տալիս է միասին կիսելու հեշտ բան, երբ
+  զրույցը դժվար է։ Տեսեք [ինչպես խաղալ միասին](/caregiving/how-to-play-together/)։
+- **Սովորույթ։** Օրվա նույն ժամին ծանոթ գործունեությունը կարող է հանգստություն
+  բերել։
+- **Վստահություն։** Այնպիսի գործունեություններ, որոնք համապատասխանում են այն
+  բաներին, որ մարդը դեռ կարող է լավ անել, օգնում են նրան իրեն կարող զգալ, ոչ
+  թե ստուգվող։
+- **Զրույց։** Նկարը կամ ծանոթ ասացվածքը կարող են պատմության սկիզբ դառնալ։
+  Փորձեք [զրույցի քարտերը](/games/conversation-cards/) կամ
+  [ավարտիր ասացվածքը](/games/finish-the-saying/)։
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Ինչից խուսափել. ժամանակաչափեր, միավորներ, շարքեր և ամեն ինչ, որ հիշողության
+ստուգման է նման։ Եթե մարդը նյարդայնանում է, դադարեցրեք։ Շուտ ավարտելը կամ պարզապես
+միասին նստելը լավ արդյունք է։ Մեր [հավելվածներ և խաղեր ընտրելու](/caregiving/choosing-apps-and-games/)
+ուղեցույցում կա ստուգացուցակ։
 
-## Where Golden Moments fits
+## Որտե՞ղ է տեղավորվում Golden Moments-ը
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments խաղերը, օրինակ՝ [նկարների զույգերը](/games/picture-pairs/),
+[նկար-փազլը](/games/picture-puzzle/) և
+[մեծ տառերով բառախաղը](/games/word-search/), ստեղծված են հաճույքի և միասին
+անցկացրած ժամանակի համար։ Դրանք չունեն ժամանակաչափ և չունեն միավորներ։ Դրանք
+**բուժում չեն** և **չեն կանխում կամ դանդաղեցնում** դեմենցիան։ Մենք նախընտրում ենք
+դա ասել պարզ, քան խոստանալ մի բան, որ ոչ մի խաղ չի կարող տալ։
 
-## Talk with a doctor
+## Խոսեք բժշկի հետ
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Եթե դուք անհանգստանում եք ձեր կամ ձեր խնամքի տակ գտնվող մարդու հիշողության
+փոփոխությունների համար, դիմեք բժշկի, այլ ոչ թե ապավինեք հավելվածին։ Բժիշկը կարող
+է ստուգել բուժելի պատճառները և խոսել այն քայլերի մասին, որոնց համար ավելի շատ
+ապացույց կա, օրինակ՝ արյան ճնշման վերահսկումը և լսողության ստուգումը։ Տեսեք նաև
+[Հնարավո՞ր է կանխել դեմենցիան](/brain-health/can-dementia-be-prevented/)։
+Հանկարծակի շփոթության կամ այլ հանկարծակի փոփոխությունների դեպքում դիմեք շտապ
+բժշկական օգնության։

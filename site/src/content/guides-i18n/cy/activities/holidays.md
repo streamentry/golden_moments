@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Gweithgareddau gwyliau i rywun gyda dementia"
+seoTitle: "Syniadau gwyliau a Diolchgarwch ar gyfer dementia"
+description: "Gweithgareddau gwyliau syml i rywun gyda dementia: tasgau coginio, addurno, cerddoriaeth, lluniau a galwadau fideo, a sut i gynllunio dyddiau tawelach."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Cadwch y dathliadau'n llai, yn gynharach yn y dydd ac yn agos at arferion
+  arferol y person. Rhowch dasg go iawn a diogel iddynt, fel gosod y bwrdd,
+  golchi llysiau, lapio anrheg neu hongian addurn. Rhannwch gerddoriaeth
+  gyfarwydd a hen luniau, paratowch westeion ymlaen llaw, a threfnwch ystafell
+  dawel. Gwnewch yr hyn y gallwch ei reoli'n rhesymol; mae dathliad byr a thawel
+  yn un da.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Dathlwch yn gynharach yn y dydd, fel cinio neu frecwast hwyr, os yw dryswch yn ddiweddarach yn y dydd yn gyffredin."
+  - "Cynigiwch dasgau go iawn: gosod y bwrdd, golchi cynnyrch, lapio, addurno neu osod pwdin ar blât."
+  - "Mae cerddoriaeth gyfarwydd, carolau a hen albymau lluniau yn ffyrdd hawdd o rannu'r tymor."
+  - "Dywedwch wrth westeion beth i'w ddisgwyl, a dangoswch luniau o bwy sy'n dod i'r person."
+  - "Trefnwch ystafell dawel gyda blanced neu siwmper hoff, a chadwch ymwelwyr i ychydig ar y tro."
+  - "Hepgor unrhyw beth sy'n ormod, gan gynnwys addurniadau sy'n edrych fel bwyd a llawer o oleuadau sy'n fflachio."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Beth all rhywun gyda dementia ei wneud adeg Diolchgarwch?"
+    a: "Rhowch dasg syml a diogel iddynt sy'n cyd-fynd â'r hyn y gallant ei wneud heddiw: golchi llysiau, troi saws llugaeron, gosod y bwrdd, plygu napcynau neu roi pwdinau ar blât. Wedyn, edrychwch ar hen luniau teuluol neu canwch ganeuon cyfarwydd gyda'ch gilydd. Mae bod yn rhan o'r dydd yn bwysicach na sut mae'r dasg yn troi allan."
+  - q: "A ddylem ni ddal i gael crynhoad teulu mawr?"
+    a: "Dim ond os yw'n hylaw. Gall torfeydd a sŵn fod yn ormod, felly mae llawer o deuluoedd yn dewis crynhoad llai a mwy hamddenol, pryd cynharach, neu ymwelwyr yn dod mewn grwpiau bach. Mae'r Alzheimer's Association yn annog gofalwyr i wneud dim ond yr hyn y gallant ei reoli'n rhesymol ac yn ddiogel."
+  - q: "Sut ydw i'n paratoi teulu nad ydynt wedi ymweld ers tro?"
+    a: "Dywedwch wrthynt cyn iddynt gyrraedd am y newidiadau y gallant eu sylwi, ac mai'r clefyd sy'n eu hachosi, nid y person. Gofynnwch iddynt beidio â chywiro na holi, i siarad un ar y tro ac i roi amser i atebion. Gall dangos lluniau o'r gwesteion i'r person ymlaen llaw helpu hefyd."
+  - q: "Pa anrhegion gwyliau sy'n addas i rywun sy'n byw gyda dementia?"
+    a: "Pethau syml a diogel y gallant eu mwynhau nawr: byrbryd hoff, blanced neu siwmper feddal, cerddoriaeth gyfarwydd, neu albwm lluniau o'r teulu. Ceisiwch osgoi electroneg gymhleth, offer a gemau bwrdd heriol. Gall eu cynnwys wrth roi anrhegion, fel lapio anrheg neu bacio cwcis y gwnaethant helpu i'w pobi, fod yn anrheg ynddo'i hun."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Gall gwyliau ddod ag atgofion cynnes yn ôl, a gallant hefyd ddod â sŵn, torfeydd a newidiadau i'r diwrnod arferol. I rywun sy'n byw gyda dementia, mae'r dathliadau gorau fel arfer yn llai, yn arafach ac wedi'u hadeiladu o amgylch pethau y gallant eu mwynhau o hyd. Mae'r syniadau hyn yn addas ar gyfer Diolchgarwch, y Nadolig, Hanukkah, y Flwyddyn Newydd a phenblwyddi teulu.
 
-## How do I plan a calmer holiday?
+## Sut ydw i'n cynllunio gwyliau tawelach?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Dechreuwch gydag arferion y person a chynlluniwch y dydd o'u cwmpas. Mae'r [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) yn awgrymu cynnal y dathliad yn gynharach yn y dydd, oherwydd gall dryswch ac aflonyddwch gynyddu yn hwyr yn y prynhawn a gyda'r nos (a elwir weithiau'n "sundowning"). Gall cinio neu frecwast hwyr gwyliau fod yn haws na chinio hwyr.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Cadwch y maint yn addas.** Mae crynhoad llai a mwy hamddenol, neu westeion yn cyrraedd ychydig ar y tro, yn aml yn haws nag un bwrdd gorlawn.
+- **Rhannwch y tasgau.** Gofynnwch i berthnasau ddod â dysgl, wneud y siopa neu dreulio amser gyda'r person tra byddwch chi'n coginio. Byddwch yn glir am yr hyn a fyddai'n helpu.
+- **Cadwch yr addurniadau'n syml.** Mae'r [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) yn nodi y gall goleuadau sy'n fflachio fod yn ddryslyd, ac y gall losin neu ffrwythau artiffisial a ddefnyddir fel addurniadau gael eu camgymryd am fwyd.
+- **Penderfynwch beth i'w hepgor.** Os yw traddodiad wedi dod yn straenus neu'n beryglus, mae'n iawn ei hepgor neu roi cynnig ar un dawelach.
 
-## What holiday activities can we do together?
+## Pa weithgareddau gwyliau gallwn ni eu gwneud gyda'n gilydd?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Dewiswch dasgau a diddordebau sy'n cyd-fynd â'r hyn y gall y person ei wneud heddiw. Mae bod yn rhan o'r dydd yn bwysicach na sut mae'n troi allan.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Gosodwch y bwrdd gyda'ch gilydd.** Gosodwch y platiau yn gyntaf, yna'r napcynau, yna'r cwpanau. Mae plygu napcynau yn dasg dda i'w gwneud wrth eistedd.
+2. **Golchwch a threfnwch lysiau.** Mae golchi tatws neu dorri ffa gwyrdd wrth fwrdd y gegin yn ddiogel ac yn gyfarwydd i lawer o bobl a arferai goginio.
+3. **Trowch, cymysgwch neu osodwch ar blât.** Mae troi saws llugaeron, cymysgu cytew syml neu roi cwcis ar blât yn cadw'r dwylo'n brysur i ffwrdd o'r stôf a chyllyll.
+4. **Lapiwch anrheg.** Torrwch y papur a'r tâp ymlaen llaw, a gadewch i'r person blygu a llyfnu. Nid yw lapio taclus yn bwysig.
+5. **Hongiwch ychydig o addurniadau.** Dewiswch addurniadau na fyddant yn torri ac un ardal fach, fel torch neu goeden fach.
+6. **Gwnewch grefft syml.** Mae cadwyni papur, colas dail neu gerdyn gwyliau gyda stampiau yn gweithio'n dda. Mae gan ein [canllaw celf a chrefft](/activities/arts-and-crafts/) fwy o syniadau.
+7. **Canwch a gwrandewch.** Mae carolau a chaneuon gwyliau cyfarwydd yn hawdd ymuno â nhw, hyd yn oed i rywun sy'n siarad llai nawr. Gweler ein [canllaw cerddoriaeth](/activities/music/) ar gyfer creu rhestr chwarae.
+8. **Edrychwch ar hen luniau gwyliau.** Dewch ag albymau o ddathliadau'r gorffennol a gwahoddwch straeon ("Dywedwch wrthyf am y bwrdd hwn") yn hytrach na gofyn pwy yw pwy. Mae ein [canllaw hel atgofion](/activities/reminiscence/) yn esbonio sut.
+9. **Chwaraewch gêm grŵp ysgafn.** Mae [Bingo lluniau](/games/picture-bingo/) yn argraffu mewn munudau ac yn gweithio i bob oed, ac mae [cardiau sgwrs](/games/conversation-cards/) yn rhoi rhywbeth i bawb siarad amdano.
+10. **Lliwiwch gyda'ch gilydd.** Gellir argraffu [tudalennau lliwio](/games/coloring/) syml i blant a neiniau a theidiau eu rhannu wrth y bwrdd.
+11. **Gwyliwch hoff ffilm wyliau.** Mae ffilm gyfarwydd yn braf ac yn dawel, ac mae'n iawn gwylio dim ond rhan ohoni.
+12. **Ewch am daith fer i weld y goleuadau.** Gall taith dawel heibio tai wedi'u haddurno fod yn haws na digwyddiad gorlawn.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Os oedd coginio'n rhan fawr o fywyd y person, mae gan ein canllaw ar [dasgau cartref fel gweithgareddau](/activities/household-tasks/) fwy o ffyrdd i wneud tasgau cegin yn ddiogel ac yn foddhaol.
 
-## How do I prepare guests?
+## Sut ydw i'n paratoi gwesteion?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Dywedwch wrth westeion beth i'w ddisgwyl cyn iddynt gyrraedd, yn enwedig perthnasau nad ydynt wedi ymweld ers tro. Mae'r Alzheimer's Association yn awgrymu egluro bod newidiadau mewn cof ac ymddygiad yn dod o'r clefyd, nid o'r person.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Rhannwch ychydig o awgrymiadau syml:** siaradwch un ar y tro, rhowch amser i orffen meddwl, peidiwch â chywiro na holi, ac ymatebwch i naws y person os yw geiriau'n anodd eu dilyn.
+- **Dywedwch beth sy'n helpu a beth sy'n peri gofid.** Os yw lleisiau uchel, cael eich brysio neu rai pynciau yn achosi gofid, dywedwch hynny.
+- **Cyflwynwch westeion ymlaen llaw.** Dangoswch luniau o bwy sy'n dod i'r person a rhannwch stori neu ddwy, neu trefnwch sgwrs ffôn neu fideo fer cyn y diwrnod.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Mae ein [hawgrymiadau cyfathrebu](/caregiving/communication-tips/) yn mynd i fwy o fanylder.
 
-## What if it gets to be too much?
+## Beth os yw'n mynd yn ormod?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Trefnwch ystafell dawel cyn i westeion gyrraedd, i ffwrdd o'r sŵn, gyda phethau cyfforddus cyfarwydd fel blanced hoff, siwmper neu weithgaredd syml. Cynigiwch hi'n gynnar ac yn aml: "A gawn ni eistedd yn rhywle tawelach am ychydig?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Mae gadael y bwrdd, mynd i'r gwely'n gynnar neu hepgor rhan o'r dydd yn ganlyniad da, nid yn fethiant. Os bydd y person yn cynhyrfu, mae llais tawel, cân gyfarwydd neu dro i ystafell arall yn aml yn helpu mwy na rhesymu. Mae gan ein canllaw ar [aflonyddwch yn hwyr yn y dydd](/caregiving/late-day-restlessness/) fwy o syniadau ar gyfer gyda'r nos.
 
-## How can family far away take part?
+## Sut gall teulu sy'n byw ymhell gymryd rhan?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Mae galwadau fideo yn gadael i berthnasau ymuno heb ychwanegu at y dorf. Mae'r Alzheimer's Association yn awgrymu rhoi rhywfaint o strwythur i alwadau, er enghraifft canu caneuon tymhorol, rhannu lluniau o ddathliadau'r gorffennol, coginio'r un rysáit gyda'ch gilydd neu wylio ffilm wyliau ar yr un pryd. Cadwch alwadau'n fyr, a gofynnwch i bobl siarad un ar y tro, gan ei bod hi'n anodd dilyn pawb yn siarad ar yr un pryd. Mae gan ein [canllaw galwadau ffôn a fideo](/activities/phone-and-video-calls/) syniadau cam wrth gam.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Os yw'r person yn byw mewn gofal cof, gwiriwch y polisi ymweld a gofynnwch i'r staff helpu i drefnu galwad. Mae ein canllaw ar [ymweld â rhywun mewn gofal cof](/activities/visiting/) yn ymdrin â beth i'w ddod a sut i adael yn dda.
 
-## What gifts suit someone with dementia?
+## Pa anrhegion sy'n addas i rywun gyda dementia?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Mae anrhegion syml a diogel y gallant eu mwynhau nawr fel arfer yn gweithio orau: byrbryd hoff, blanced neu gardigan meddal, cerddoriaeth gyfarwydd, calendr print mawr, neu albwm o luniau teulu. Mae'r Alzheimer's Association yn cynghori osgoi offer peryglus, electroneg gymhleth a gemau bwrdd heriol.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Gall rhoi fod yr un mor bwysig â derbyn. Mae pacio cwcis y gwnaeth y person helpu i'w pobi, neu gael iddynt lapio anrheg y gwnaethoch chi ei phrynu, yn gadael iddynt gymryd rhan yn y tymor. Mae gêm lluniau teulu yn syniad arall: mae [parau lluniau](/games/photo-pairs/) yn troi ychydig o luniau a ddewiswyd yn gêm baru ysgafn yn y porwr.
 
-## Look after yourself too
+## Gofalwch amdanoch chi'ch hun hefyd
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Mae gwyliau'n ychwanegu gwaith at ofalu. Gadewch i rywun arall gynnal y dathliad neu goginio'r prif bryd, dywedwch na i ddigwyddiadau a fydd yn anodd, a chymerwch seibiannau tra bydd eraill yn treulio amser gyda'r person. Os ydych chi neu'r person rydych chi'n gofalu amdano yn sâl, mae chwifio o'r dreif neu alwad fideo yn ymweliad hollol dda. Mae gan ein canllaw ar [hunofal i ofalwyr](/caregiving/caregiver-self-care/) fwy o gymorth.

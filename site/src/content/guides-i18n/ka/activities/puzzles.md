@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "პაზლები დემენციით მყოფი ადამიანებისთვის"
+seoTitle: "პაზლები დემენციისთვის: ჯიგსო და სიტყვები"
+description: "როგორ ავირჩიოთ ჯიგსო, სიტყვიერი ან ონლაინ პაზლები: ნაჭრების ზომა, სურათი, დიდი შრიფტი, თამაშობა ერთად და გაუმარტივება საჭიროებისას."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  დემენციით მყოფი ადამიანისათვის საუკეთესო პაზლია ისეთი, რომლის დასრულებასაც
+  მცირე დახმარებით შეძლებს და თამაშის პროცესს თავადვე ესიამოვნება. აირჩიეთ
+  ჯიგსო შედარებით ნაკლები, დიდი ნაჭრებითა და ნათელი, სუფთა სურათით. 
+  ჯიგსოს ყუთის სურათი თვალსაწიერად უნდა დარჩეს. საზღვრის ნაჭრები
+  ჯერ დაალაგეთ. სიტყვების ძიება და კროსვორდი საუკეთესოა დიდი შრიფტით.
+  მარტივი ოთხნაჭრიანი ონლაინ პაზლები შუა ეტაპზე კარგად გამოიყენება. შეწყვიტეთ,
+  როცა ჯერ კიდევ სახალისოა.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "აირჩიეთ თამაშის მიხედვით, არა ეტაპის ლეიბლით: თუ პაზლი რთული ხდება, სცადეთ უფრო ნაკლები ნაჭრით."
+  - "დიდი, მყარი ნაჭრები და მკაფიო, კონტრასტული ფერების სურათი გაცილებით ადვილია, ვიდრე პატარა ნაჭრები და ერთფეროვანი ცა."
+  - "მნიშვნელovania ზრდასრულთათვის განკუთვნილი სურათები. ბაღი, სამზარეულო, ავტომობილი ან ცხოველები უფრო შესაფერისია, ვიდრე მულტფილმური გმირები."
+  - "თამაშობა ერთად არის მთავარი. გადასცეთ ნაჭრები, დაალაგეთ კიდეები, ჯიგსოს ყუთის крышა თვალწინ იქონიოთ."
+  - "დიდი შრიფტით ნაწერი სიტყვების ძიება და ოთხი ან ცხრა ნაჭრიანი მარტივი ონლაინ პაზლები ამ საიტზე უფასოდ არის ხელმისაწვდომი."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "რამდენი ნაჭერი ყველაზე გამოსადეგია დემენციით მყოფი ადამიანისათვის?"
+    a: "ზუსტი რაოდენობა არ არსებობს. ადამიანს, რომელსაც ადრე ათასნაჭრიანი პაზლები უყვარდა, შესაძლოა ჯერ კიდევ მოეწონოს რამდენიმეასი ნაჭერი, სხვას კი ათეული დიდი ნაჭრით გამოჰყოფს თავი. თუ პაზლი ზედმეტად რთული ან დაძაბული ხდება, გადადით უფრო ნაკლებ ნაჭრიან ვერსიაზე. ჩვენი ონლაინ სურათის პაზლი შედგება 4 ან 9 ნაჭრისგან."
+  - q: "გამოსადეგია ჯიგსო დემენციით მყოფი ადამიანებისთვის?"
+    a: "ბევრს უყვარს, განსაკუთრებით იმათ, ვინც ადრე თამაშობდა. პაზლი ხელს აძლევს საქმიანობას, მარტივ მიზანსა და თემას სასაუბრობად. ჯერჯერობით არ არის მტკიცებულება, რომ რომელიმე პაზლს დემენციის გავლენა აქვს, ამიტომ აირჩიეთ იგი სიამოვნებისა და თანაარსებობის მიზნით."
+  - q: "რა გავაკეთოთ, როცა ადამიანი აღარ შეუძლია ჯიგსოს შეკრება?"
+    a: "გაამარტივეთ პაზლი და თავად გააკეთეთ მისი ნაწილი: თითო ნაჭერს გადასცემთ, ან მხოლოდ ბოლო რამდენიმე ნაჭერი დაუტოვეთ მათთვის. სცადეთ 4-ნაჭრიანი ონლაინ პაზლი, ნაჭრების ფერების მიხედვით დალაგება, ან უბრალოდ ერთად შე�ედეთ უკვე დასრულებულ სურათს."
+  - q: "მناسبია კროსვორდი და სიტყვების ძიება დემენციით მყოფი ადამიანებისთვის?"
+    a: "ადრეულ ეტაპზე შეიძლება გამოსადეგი იყოს, თუკი დიდი შრიფტით არის დაბეჭდილი. სიტყვების ძიება, სადაც სიტყვები მხოლოდ ჰორიზონტალურად და ვერტიკალურად არის განლაგებული, გაცილებით ადვილია, ვიდრე დიაგონალზე ან უკუღმა მოთავსებული. კითხვები ან სიტყვების სია ხმამაღლა წაიკითხეთ და ერთად იმუშაოთ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+ს dining table-ზე გაშლილი ჯიგსო ერთ-ერთი ყველაზე მარტივი საერთო აქტივობაა. შეგიძლიათ ერთად იჯდეთ საუბრის გარეშე, სურათი საფუძველს გაუმზადებს დიალოგს, ბოლო ნაჭრის მოთავსება კი საკმარისად სასიამოვნოა. თუმცა, დემენციის პროგრესირებასთან ერთად პაზლებიც უნდა იცვლებოდეს. თუ პაზლი ზედმეტად რთულია, მშვიდი საღამო შეიძლება იმედგაცრუებად გადაიქცეს. ამ გვერდზე განვიხილავთ, როგორ ავირჩიოთ და მოვაწყოთ ჯიგსო, სიტყვიერი პაზლები და მარტივი ონლაინ პაზლები, ასევე რა გავაკეთოთ, როცა ისინი უფრო რთული ხდება.
 
-## Are puzzles good for people with dementia?
+## გამოსადეგია პაზლები დემენციით მყოფი ადამიანებისთვის?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+ბევრს მათში სიამოვნება აქვს, განსაკუთრებით იმათ, ვინც ადრე თამაშობდა. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ადრეულ ეტაპზე სიტყვების ძიებას, ბარათის თამაშებსა და სამაგიდო თამაშებს ასახელებს, ხოლო [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) პლანშეტზე ონლაინ თამაშებსა და პაზლებს ერთ-ერთ აქტიურობის საშუალებად მოიხსენიებს.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+პაზლები არ არის მკურნალობა. ჯერჯერობით არ არის დამტკიცებული, რომ რომელიმე პაზლი ამ slowing ან აჩერებს დემენციას. მეტი ინფორმაციისთვის იხილეთ ჩვენი გზამკვლევი [ტვინის თამაშები და დემენცია](/brain-health/brain-games/). პაზლის მთავარი დანიშნულება სწორედ სასიამოვნო, gemeinsam დაკავებაა. როგორც [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) აღნიშნავს, აქ viktig მთავარია არა მიღწევა, არამედ სიამოვნება.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## როგორ ავირჩიოთ ჯიგსო დემენციით მყოფი ადამიანისათვის?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+ხელმძღვანელობა გახადეთ არა ეტაპი, არამედ ადამიანის უპირატესობები და წინა გამოცდილება.
 
-### Number of pieces
+### ნაჭრების რაოდენობა
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+ზუსტი რიცხვი არ არსებობს. ადამიანს, რომელმაც მთელი ცხოვრება ათასნაჭრიანი პაზლები კრეფდა, შესაძლოა ადრეულ ეტაპზე ჯერ კიდევ მოეწონოს რამდენიმეასი ნაჭერი, სხვას კი მხოლოდ ათეული დიდი ნაჭერი ეყოფა. მარტივი წესი: თუ წინა პაზლი რთული იყო, აირჩიეთ დაახლოებით ნახევარი ნაჭრით ნაკლები. თუ სწრაფად დასრულდა და კიდევ სურდა გაგრძელება, შეგიძლიათ ნაჭრების რაოდენობა ოდნავ გაზარდოთ.
 
-### Piece size and feel
+### ნაჭრების ზომა და შეგრძნება
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **დიდი ნაჭრები** უკეთ ჩანს, ადვილად აიღობა და ადვილად შემოტრიალდება.
+- **მყარი, სქელი ნაჭრები** ადგილზე მდგარი რჩება და ნაკლებად ეცემა.
+- **მატოვანი ზედაპირი** ამცირებს განათების ან ფანჯრიდან მოსულ ბზინვარებას.
+- **მოერიდეთ ძალიან პატარა ნაჭრებს**, თუ არსებობს რისკი, რომ ადამიანი მათ პირში ჩადოებს, რაც მოგვიანებით უფრო ხშირი ხდება.
 
-### The picture
+### სურათი
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **ზრდასრულთათვის შესაფერისი თემები.** ბაღი, სამზარეულო, ძველი მანქანები, ფერმის ცხოველები, ზღვისპირა ქალაქი ან საყვარელი დასვენების ადგილი. მულტფილმური ან ბავშვური ილუსტრაციები ნაკლებად გამოსადეგია.
+- **კონტრასტული ფერები.** წითელი ყანჩა, ლურჯი ნავი ან მწვანე მინდორი გაცილებით ადვილად ამოცნობადია, ვიდრე ერთგვაროვანი ცა, რომელიც მთელ პაზლს მოიცავს.
+- **ცნობილი და პირადი.** სურათი იმ ადგილისა, სადაც ადამიანი ერთხელ ცხოვრობდა, ან საყვარელი ჰობი დიალოგს გააადვილებს. ზოგი ბეჭდვითი სერვისი ოჯახურ ფოტოს ჯიგსოდაც კი გადაქცევს.
 
-## How do you do a puzzle together?
+## როგორ ვითამაშოთ პაზლი ერთად?
 
-Set it up so the person can get straight to the enjoyable part.
+მოაწყეთ ყველაფერი ისე, რომ ადამიანი დაუყოვნებლად მიუახლოვდეს ყველაზე სასიამოვნო ნაწილს.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **აირჩიეთ კარგი ადგილი.** საკმარისი განათება, მკლავების მქონე სავარძელი და მაგიდა ან სათავსო, სადაც პაზლი რამდენიმე დღეც შეიძლება დარჩეს.
+2. **ჯიგსოს ყუთის კрышა** ისე მოათავსეთ, რომ ორივეს კარგად ჩანდეს.
+3. **ნაჭრები პირქვე გადააბრუნეთ** თამაშის დაწყებამდე.
+4. **ჯერ კიდეები დაალაგეთ** თავად, ან საზღვარი ერთად შეკრიბეთ და შიგნით არსებული ნაწილი მათ დაუტოვეთ.
+5. **ნაჭრები ფერების მიხედვით დაყავით** რამდენიმე პატარა თეფშზე ან უჯრაზე.
+6. **ერთი ნაჭერი გადასცეთ** ერთ დროს, თუ ნაჭრების გროვა ზედმეტად რთული ჩანს. "ჩემს აზრით, ეს ნაწილი barn-ს ეკუთვნის."
+7. **ილაპარაკეთ სურათზე,** არა წინსვლაზე. "ეს ხომ იმ ნავივითაა, რაც მამაჩემს ჰყავდა."
+8. **დატოვეთ გაშლილი.** რამდენიმე დღის განმავლობაში დაუბრუნდით. არ არის ჩქარობა.
+9. **შეწყვიტეთ კარგი მომენტში,** როცა ნაჭერი უკვე დადგა, სანამ დაღლილობა ან იმედგაცრუება დაიწყება.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ურჩევს, დაეხმაროთ დაწყებაში, მიაქციოთ ყურადღება იმედგაცრუების ნიშნებს და თუ ადამიანს უფრო მეტად უყვარს უბრალოდ ყურება, უფლება მიეცით ასე გააგრძელოს. თქვენთან ერთად ყურება და დახმარება უკვე აქტიური მონაწილეობაა.
 
-## Easy online puzzles
+## მარტივი ონლაინ პაზლები
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+ტაბლეტზე თამაში რამდენიმე უპირატესობას იძლევა: ნაჭრები არ იკარგება, სურათი ეკრანს კარგად ავსებს და მაგიდის გაწმენდის საჭიროებაც არ არის.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+ჩვენი უფასო [სურათის პაზლი](/games/picture-puzzle/) სურათს 4 ან 9 ნაჭრად გაჭრის. შეეხეთ ორ ნაჭერს, რომ ისინი ადგილები გაცვალონ, სანამ მთლიანი სურათი არ გამოჩნდება. ეკრანზე სრულად ჩანს მინიშნების სურათი, დროის ლიმიტი არ არის და ნებისმიერ დროს შეგიძლიათ შეწყვიტოთ. 4-ნაჭრიანი ვერსია განსაკუთრებით გამოსადეგია შუა ეტაპზე, როცა рядом მישהו ახლავს.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+მეტი მარტივი სურათოვანი თამაშისთვის სცადეთ [მოიძებნე იგივე](/games/find-the-same/) — შეეხეთ ზემოთ მოცემულ სურათის შესაბამისს, ან [დაალაგე ერთად](/games/sort-together/) — სურათები შესაბამის კალათებში დაალაგეთ, მაგალითად სამზარეულოში ან ბაღში.
 
-## Word puzzles: word searches and crosswords
+## სიტყვიერი პაზლები: სიტყვების ძიება და კროსვორდი
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+სიტყვიერი პაზლები საუკეთესოდ ერგება მათ, ვინც მათ ადრე ყოველთვის სიამოვნებით თამაშობდა, ძირითადად დემენციის ადრეულ ეტაპზე.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **დიდი შრიფტით სიტყვების ძიება.** ჩვენი უფასო [სიტყვების ძიება](/games/word-search/) დიდი ასოებითაა შედგენილი, სულ რამდენიმე სიტყვას შეიცავს და ისინი მხოლოდ ჰორიზონტალურად და ვერტიკალურად არის განლაგებული, დიაგონალზე ან უკუღმა კი არა. თამაში შესაძლებელია ეკრანზე ან დაბეჭდვის ფორმატში.
+- **წაიკითხეთ სიტყვების სია ხმამაღლა.** ერთმა წაიკითხოს სიტყვა, მეორე კი მოძებნოს. საკმარისია ხშირად მხოლოდ პირველი ასოს პოვნა.
+- **დიდი შრიფტით კროსვორდი** წიგნებიდან ადრეულ ეტაპზე შეიძლება გამოვიდეს. კითხვები ხმამაღლა წაიკითხეთ, კალამი ერთად გამოიყენეთ და პასუხები gemeinsam შეავსეთ. მარტივი, თემატური კროსვორდი უფრო გამოსადეგია, ვიდრე რთული, გონების დაძაბვის მომთხოვნი ვარიანტი.
+- **ილაპარაკეთ სიტყვებზე.** სიტყვა "ბაღი" შეიძლება ათი წუთის საუბრის საფუძველი გახდეს.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+დამატებითი ფურცლური აქტივობებისთვის და იმისთვის, თუ როგორ დაბეჭდოთ ისინი მკაფიოდ და მარტივად ასათვისებლად, იხილეთ [უფასო დასაბეჭდი აქტივობები დემენციისთვის](/activities/printable/).
 
-## Which puzzles suit each stage?
+## რომელი პაზლი ერგება რომელ ეტაპს?
 
-Stages overlap, and good and hard days are normal.
+ეტაპები ერთმანეთს ემთხვევა და კარგი და რთული დღეები ნორმალურია.
 
-| Stage | Puzzles that often fit | Your role |
+| ეტაპი | ხშირად შესაფერისი პაზლები | თქვენი როლი |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| ადრეული | ნაცნობი ჯიგსო წინა ვერსიაზე ნაკლები ნაჭრით, დიდი შრიფტით კროსვორდი და სიტყვების ძიება, 9-ნაჭრიანი ონლაინ პაზლი | თანამოაზრე: მიეცით არჩევანის უფლება, დახმარება მხოლოდ მოთხოვნისას გაუწიეთ |
+| შუა | ჯიგსო ათეულამდე დიდი ნაჭრით, 4-ნაჭრიანი ონლაინ პაზლი, სიტყვების ძიება — ხმამაღლა ერთად | მოაწყეთ ყველაფერი, დაალაგეთ ნაჭრები, ერთი ნაჭერი გადასცეთ ერთ დროს |
+| გვიანი | ერთად შეხედეთ დასრულებულ სურათს, "მოიძებნე იგივე" მხოლოდ ორ სურათით, რამდენიმე დიდი ნაჭრის დათვალიერება ან ხეში გადატანა | მიიტანეთ მათთან, თქვენი თანდასწრება თავად არის აქტივობა |
 
-## When should you make a puzzle easier, or stop?
+## როდის გავამარტივოთ პაზლი ან შევწყვიტოთ?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+მიუხედეთ ნიშნებს: შემოხვევა, ნაჭრების უკუგდება, განმეორებითი "ვერ გავალ" ან თავდაყირა نگاهი. ეს კი არაა დაჟინების მიზეზი, ცვლილების მაჩვენებელია.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **გაამარტივეთ.** ნაკლები ნაჭერი, ან მხოლოდ ბოლო რამდენიმე დაუტოვეთ.
+- **გააკეთეთ მეტი თქვენ.** თავად იმუშაოთ და მიიწვიეთ უმარტივეს ნაწილში.
+- **გადადით ახლომდებარე აქტივობაზე.** ნაჭრების ფერების მიხედვით დალაგება, 4-ნაჭრიანი ონლაინ პაზლი ან [გააფერადება](/games/coloring/).
+- **შეწყვიტეთ.** aside aside გააგდეთ პაზლი და შესვენება გაიჩინეთ, მაგალითად ჩაის სმით. შეგიძლიათ მოგვიანებით დაუბრუნდეთ, ან საერთოდაც არა.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+თუ პაზლი იმედგაცრუების წყაროდ იქცევა, ნება დართეთ წავიდეს. ერთადატარებელი კარგი დროის კიდევ ბევრი გზა არსებობს — ნახეთ [101 აქტივობის იდეა](/activities/ideas/).

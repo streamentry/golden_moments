@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Lihtsad mälumänguküsimused dementsusega eakatele"
+seoTitle: "Mälumänguküsimused dementsusega eakatele ja vastused"
+description: "50 lihtsat mälumänguküsimust dementsusega eakatele koos vastusevariantide ja jututeemadega ning nõuanded, kuidas mängida ilma surveta."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Lihtne mälumäng sobib dementsusega eakatele siis, kui see tundub vestlusena,
+  mitte testina. Küsige ammu teadaolevate asjade kohta, näiteks vanadest
+  lauludest, vanasõnadest, pühadest ja argielust, ning pakkuge alati kaks või
+  kolm vastusevarianti. Öelge õige vastus rahulikult välja, ärge tõstke kedagi
+  esile, jätke punktiarvestus vahele ja kasutage iga vastust loo alustamiseks.
+  Hilisemates etappides sobivad küsimused „see või too”, millel pole vale vastust.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Küsige ammu tuttavate asjade kohta: laulud, vanasõnad, pühad, toit ja argielu paljudest aastatest tagasi."
+  - "Pakkuge kaks või kolm vastusevarianti, et vastust saaks ära tunda, mitte ise meenutada."
+  - "Öelge vastus soojalt ja liikuge edasi. Iga pakkumine, mis alustab lugu, on hea pakkumine."
+  - "Punkte pole, võistkondi pole, ühte inimest eraldi ei küsita. Las vastused tulevad kogu ruumist."
+  - "Kui vastusevariantide vahel valimine läheb raskeks, minge üle küsimustele „see või too”, millel pole õiget vastust."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Kas mälumäng sobib dementsusega inimestele?"
+    a: "See võib sobida, kui seda tehakse leebelt. Alzheimer's Foundation of America nimetab mälumängu varajase etapi tegevuste hulgas. Hoidke küsimused ammu tuttavatel teemadel, pakkuge vastusevariante, ärge pange ühte inimest vastama ja käsitlege vastuseid vestluse alustamisena, mitte testina."
+  - q: "Millised teemad sobivad dementsusega inimeste mälumängus kõige paremini?"
+    a: "Kõige paremini sobivad sageli ammu õpitud asjad: populaarsed laulud ja lauljad inimese noorusajast, tuttavad vanasõnad, pühad, toit, sport ja argielu, näiteks piimatarned ukse taha või valimiskettaga telefonid. Vältige värskeid uudiseid ja kõike, mis eeldab sessiooni alguses õpitu meeldejätmist."
+  - q: "Kuidas korraldada mälumängu hooldekodus nii, et keegi ei tunneks piinlikkust?"
+    a: "Lugege iga küsimus kogu rühmale ette, näidake või öelge vastusevariandid ja võtke rõõmuga vastu vastuseid kõigilt. Ärge küsitlege inimesi eraldi ega pidage punktiarvestust. Öelge õige vastus naeratusega välja, ükskõik mis vastus pakuti, ja küsige jätkuküsimus, näiteks „Kes siin on kunagi autokinos käinud?”, et muuta see lugudeks."
+  - q: "Mida teha mälumängu asemel hilisemates etappides?"
+    a: "Minge üle küsimustele, millel pole vale vastust, näiteks „Kohv või tee?” või „Rand või mäed?”, ning tuttavate vanasõnade või laulude koos lõpetamisele. Hästi sobib ka piltide vaatamine ja nende koos kirjeldamine."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Mälumäng on üks nõutumaid rühmategevusi hooldekodudes ja päevakeskustes ning paljud pered mängivad seda ka kodus köögilaua ääres. Kui seda mängida tavapärasel viisil, punktide ja ühe vastajaga, võib dementsusega inimene tunda, et ta on vastamisega hätta jäetud. Kui seda teha leebelt, on see tore viis lugusid kuulda. Allpool on 50 lihtsat küsimust koos vastusevariantide ja igaühe juurde sobiva jututeemaga ning seejärel nõuanded, kuidas tegevust läbi viia.
 
-## How do you make trivia work for someone with dementia?
+## Kuidas muuta mälumäng dementsusega inimesele sobivaks?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Tehke see äratundmise ja ammu teadaolevate asjade meenutamise jaoks ning võtke iga vastus vastu.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Küsige kaugest minevikust.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ütleb, et Alzheimeri tõve kõige levinum varajane sümptom on raskus äsja õpitu meenutamisega. Laulud, vanasõnad ja aastakümnete tagune argielu on sageli kergemad teemad.
+2. **Pakkuge alati valikuvõimalusi.** Õige vastuse valimine kahe või kolme variandi seast on palju kergem kui selle ise välja mõtlemine.
+3. **Lugege küsimused ette ja näidake neid suurena.** Tahvel või kõrgele tõstetud tahvelarvuti aitab inimestel, kes kuulevad halvemini.
+4. **Öelge vastus vabalt välja.** Kui keegi ei tea, öelge vastus soojalt ja liikuge edasi. Ärge kunagi öelge: „No tule nüüd, sa ju tead seda.”
+5. **Punktiarvestust ei ole.** Ei üksikisikutele ega laudadele. Kui inimesed tahavad numbrit, hoidke üht ühist tulemust.
+6. **Ärge kunagi küsitlege ühte inimest eraldi.** Las vastused tulevad kõigilt. Kahekesi mängides vastake koos: „Ma arvan, et see on klaver. Mida teie arvate?”
+7. **Kasutage jututeemat.** Vastus on algus, mitte lõpp. Päris eesmärk on lood.
+8. **Hoidke see lühike.** Kümme küsimust, mille vahele mahuvad lood, on täiesti piisav.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sõnastab põhireegli lihtsalt: jälgige pettumust ja veenduge, et inimene tunneks end edukalt. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nimetab mälumängu varajase etapi tegevuste hulgas. Keskmises etapis piirduge kahe valikuga ja toetuge jututeemadele. Hiljem minge üle allpool toodud küsimustele „see või too”.
 
-## Music and entertainment trivia
+## Muusika- ja meelelahutuse mälumäng
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Õige vastus on **paksus kirjas**. Kohandage küsimusi inimese järgi: keegi, kes kasvas üles Motowni muusikaga, võib soovida teistsuguseid lauljaid kui inimene, kes kasvas üles bigbändide ajastul.
 
-| Question | Choices | Talk about |
+| Küsimus | Valikud | Rääkige sellest |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Keda kutsuti rokkmuusika kuningaks? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Kas olete Elvist kunagi televiisorist näinud? |
+| Millist lauljat hüüti Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Milline Sinatra laul teile kõige rohkem meeldib? |
+| Bing Crosby unistas valgest... | **jõulust**, pulmast, majast | Laulge koos üks rida |
+| Louis Armstrong laulis „What a Wonderful...” | Day, **World**, Life | Mis teeb maailma teie jaoks ilusaks? |
+| Judy Garland laulis laulu „Over the Rainbow” millises filmis? | **Võlur Oz**, Tuulest viidud, Lauldes vihmas | Kus te oma lemmikfilme vaatasite? |
+| Kes mängis Lucyt sarjas „I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Milliseid saateid teie pere koos vaatas? |
+| Milline kauboi ratsutas hobusel nimega Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Kas mängisite lapsena kauboide mängu? |
+| Kes juhtis saadet „The Tonight Show” 30 aastat? | Ed Sullivan, **Johnny Carson**, Bob Hope | Kas jäite hilja üles, et televiisorit vaadata? |
+| Millisel pillil on 88 klahvi? | Kitarr, **klaver**, trompet | Kas keegi teie peres mängis pilli? |
+| Millist tantsu loetakse üks-kaks-kolm, üks-kaks-kolm? | **Valss**, twist, tango | Kus te tantsimas käisite? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Rohkem muusika kohta leiate lehelt [muusikategevused dementsuse korral](/activities/music/).
 
-## Everyday life trivia
+## Argielu mälumäng
 
-| Question | Choices | Talk about |
+| Küsimus | Valikud | Rääkige sellest |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Enne külmkappe hoiti paljudes kodudes toitu jahedana... | **jääkapis**, ahjus, pööningul | Kes tõi jää koju? |
+| Kes tõi piima ukse taha klaaspudelites? | Postiljon, **piimamees**, ajalehepoiss | Mida veel koju toodi? |
+| Kuidas valiti number valimiskettaga telefonil? | Nuppe vajutades, **ketast keerates**, sellesse rääkides | Rääkige mulle oma kodu telefonist |
+| Milline ettevõte valmistas auto Model T? | **Ford**, Chevrolet, Buick | Rääkige mulle mõnest autost, mis teile meeldis |
+| Kust võis leida soodabaari leti taga töötaja? | **Soodabaarist**, pagariärist, pangast | Mida te leti ääres tellisite? |
+| Milline mänguasi on metallvedru, mis võib trepist alla kõndida? | Jojo, **Slinky**, hularõngas | Milliseid mänguasju te armastasite? |
+| Autokino oli koht, kus vaadati... | **filme oma autost**, pallimänge, paraade | Kellega te sinna läksite? |
+| Kelle pilt on ühedollarisel rahatähel? | Lincoln, **George Washington**, Jefferson | Mida sai dollari eest tol ajal osta? |
+| Kelle pilt on ühesendisel mündil? | **Abraham Lincoln**, Washington, Franklin | Kas te kogusite tol ajal sente purki? |
+| Mis värvi on koolibuss tavaliselt? | Punane, **kollane**, sinine | Kuidas te kooli läksite? |
 
-## Holidays, nature and places
+## Pühad, loodus ja kohad
 
-| Question | Choices | Talk about |
+| Küsimus | Valikud | Rääkige sellest |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Milline püha on novembri neljandal neljapäeval? | Töörahvapüha, **tänupüha**, mälestuspäev | Mis oli alati teie laual? |
+| Kõrvitsalaternaid tehakse millise püha jaoks? | **Halloween**, lihavõtted, jõulud | Rääkige mulle Halloweenist seal, kus te üles kasvasite |
+| 4. juuli tähistab iseseisvus... | õiguste, **deklaratsiooni**, vabaduse | Kus te ilutulestikku vaatasite? |
+| Emadepäev on millises kuus? | Aprillis, **mais**, juunis | Kuidas teie pere seda tähistas? |
+| Mitu tähte on Ameerika lipul? | 48, **50**, 52 | Lipul oli 48 tähte kuni 1959. aastani. Kumbki vastus on hea mälestus |
+| Milline ookean on idarannikul? | Vaikne ookean, **Atlandi ookean**, Põhja-Jäämeri | Kas olete kunagi rannas käinud? |
+| Millises linnas asub Vabadussammas? | Boston, **New York**, Philadelphia | Kas olete New Yorgis käinud? |
+| Mida mesilased teevad? | Piima, **mett**, siidi | Kas mett saia peale või teesse? |
+| Lehma last kutsutakse... | varsaks, **vasikaks**, kitsetalleks | Kas olete kunagi talu lähedal elanud? |
+| Milline kõrge kollane lill on tuntud selle poolest, et pöördub päikese poole? | Roos, **päevalill**, tulp | Mis kasvas teie aias? |
+| Mitu päeva on liigaastal? | 365, **366**, 360 | Rääkige mulle mõnest sünnipäevast, mida mäletate |
+| Milline aastaaeg tuleb pärast talve? | Sügis, **kevad**, suvi | Milline on teie lemmikaastaaeg? |
 
-## Food and sports trivia
+## Toidu- ja spordimälumäng
 
-| Question | Choices | Talk about |
+| Küsimus | Valikud | Rääkige sellest |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rosinad on kuivatatud... | ploomid, **viinamarjad**, kirsid | Kas panite rosinaid kunagi lõunasööki kaasa? |
+| Ploomid kuivatatult on... | **kuivatatud ploomid**, viigimarjad, õunad | Kes teie peres armastas kuivatatud ploome? |
+| Maapähklivõi ja... | **moos**, juust, sink | Krõmpsuv või sile? |
+| Guacamole on peamiselt valmistatud... | hernestest, **avokaadodest**, kurkidest | Milliseid dipikastmeid pidudel pakuti? |
+| Milline pirukas on tänupühal lemmik? | **Kõrvitsapirukas**, sidrunipirukas, kirsipirukas | Millist pirukat teie tegite? |
+| Mitu mängijat on pesapallimeeskonnal väljakul? | 7, **9**, 11 | Millise meeskonna poolt te hoidsite? |
+| Mitu löögiviga teeb pesapallis automaatselt välja? | Kaks, **kolm**, neli | Kas olete kunagi palli mänginud? |
+| Babe Ruth oli kuulus millises spordialas? | Poks, **pesapall**, golf | Kas käisite pallimänge vaatamas? |
+| Mitu auku on tavalisel golfiväljakul? | 9, **18**, 24 | Kas olete kunagi golfi või minigolfi mänginud? |
+| Millises spordialas tehakse touchdown? | **Ameerika jalgpall**, jäähoki, korvpall | Kes vaatas teie kodus Ameerika jalgpalli? |
 
-## Familiar sayings
+## Tuttavad vanasõnad
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Vanasõna lõpetamine tugineb ammu õpitud keelele ja tuleb sageli kergelt. Meie mängus [Lõpeta vanasõna](/games/finish-the-saying/) on veel palju vanasõnu ning võimalus igal hetkel lõppu näha.
 
-| Saying | Choices | Talk about |
+| Vanasõna või ütlus | Valikud | Rääkige sellest |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Kes teile seda varem ütles? |
+| The early bird catches the... | Bus, **worm**, train | Kas olete hommikuinimene? |
+| Don't count your chickens before they... | **Hatch**, sleep, sing | Kas teie perel olid kanad? |
+| A penny saved is a penny... | **Earned**, lost, spent | Kes teie peres oli kokkuhoidja? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Mis teeb koha koduseks? |
+| Better late than... | Early, **never**, sorry | Kes oli alati hiljaks jäämas? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Rääkige mulle mõnest õnnelikust juhusest |
+| Actions speak louder than... | **Words**, music, thunder | Rääkige mulle kellestki, kes seda ütles |
 
-## This-or-that questions with no wrong answer
+## Küsimused „see või too”, millel pole vale vastust
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Need sobivad igas etapis, ka hilisemal ajal, sest siin ei ole midagi valesti teha. Küsige, kuulake ja jagage ka oma vastust.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kohv või tee?
+- Rand või mäed?
+- Koerad või kassid?
+- Suvi või talvi?
+- Pirukas või kook?
+- Tantsimine või vaatamine?
+- Päikesetõus või päikeseloojang?
+- Esiveranda või tagaaed?
+- Raadio või plaadid?
+- Pannkoogid või munad?
+- Roosid või karikakrad?
+- Rongireis või autoreis?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Vestlusküsimuste jaoks koos piltidega proovige meie prinditavaid [Vestluskaarte](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Kuidas korraldada mälumängu hooldekodus või rühmas?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Istutage inimesed nii, et nad näeksid ja kuuleksid.** Kuuldeaparaadid sees, prillid ees, televiisor välja.
+2. **Tutvustage seda vestlusena.** „Mul on mõned küsimused vanadest aegadest ja ma usun, et teie teate neist rohkem kui mina.”
+3. **Lugege iga küsimus kaks korda ette ja näidake vastusevariante suurena.**
+4. **Võtke vastu vastuseid kõikjalt ruumist.** Korrake häid vastuseid, et kõik kuuleksid.
+5. **Öelge õige vastus kõigile välja** ja esitage seejärel jututeema kogu ruumile.
+6. **Järgige rühma meeleolu.** Kui üks küsimus käivitab kümne minuti pikkused lood, las see nii olla.
+7. **Lõpetage laulu või vooruga „see või too”,** et kõik lõpetaksid millegi lihtsaga.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Teiste rühmavormide, sealhulgas pildibingo ja ühise laulmise kohta vaadake lehte [rühmategevused hooldekodudes](/activities/care-home-groups/).
 
-## When to change the plan
+## Millal plaani muuta
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Kui keegi tundub mures, jääb vaikseks või ütleb rohkem kui korra „ma ei tea”, tehke lihtsamaks: jätke alles kaks valikut, vastake koos või minge üle küsimustele „see või too”. Kui rühm tahab hoopis ühest küsimusest terve pärastlõuna rääkida, on see edu. Eesmärk ei olnud kunagi õiged vastused. Eesmärk oli hea seltskond ja koos veedetud aeg.

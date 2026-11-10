@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Veitarataravi me baleta na Tamata era Bula vata kei na Lomaloma ni Vakasama: Jigsaw, Vosa kei na Taro Vakarawarawa ena Initaneti"
+seoTitle: "Veitarataravi ni Lomaloma ni Vakasama: Jigsaw kei na Vosa"
+description: "Na sala ni digitaka na jigsaw, na taro vosa kei na taro ena initaneti me baleti ira era bula vata kei na lomaloma ni vakasama: levu ni tiki, iyaloyalo, vola levu, cakacaka vata, kei na gauna me vakarawarawataka kina."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Na veitarataravi vinaka duadua me baleta e dua e bula vata kei na lomaloma ni
+  vakasama o koya e rawa ni vakacavara vata kei na lailai ni veivuke ka
+  marautaka ena kena caka. Digitaka na jigsaw e lailai na kena tiki, lelevu na
+  tiki, ka matata na iyaloyalo ni tamata qase, biuta me laurai na iyaloyalo ena
+  kato, ka tuvana taumada na tiki ni batibasaga. Na vakasaqaqara vosa kei na
+  crossword e vinaka cake ena vola levu. Na taro vakarawarawa ena initaneti e va
+  na kena tiki e veirauti ena gauna e loma donuya. Cegu ni se marautaki tiko.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Digitaka me vaka na kena toso, sega ni vaka na yaca ni ituvaki: kevaka e vaka me bibi na veitarataravi, tovolea e dua e lailai na kena tiki."
+  - "Na tiki lelevu ka kaukauwa kei na iyaloyalo matata e duidui na kena roka e rawarawa cake mai na tiki lalai kei na lomalagi levu."
+  - "E bibi na iyaloyalo ni tamata qase. Na iteitei, valenisili, motoka kei na manumanu, sega ni iyaloyalo ni gone."
+  - "Na cakacaka vata na inaki. Solia na tiki, tuvana na batibasaga, biuta me laurai na ituvatuva ni kato."
+  - "Na vakasaqaqara vosa ena vola levu kei na taro vakarawarawa ena initaneti e 4 se 9 na kena tiki e tu wale ena vanua oqo."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "E vica na tiki ni veitarataravi e vinaka me baleta e dua e bula vata kei na lomaloma ni vakasama?"
+    a: "E sega na dua ga na naba dodonu. E dua a dau cakava na veitarataravi e 1,000 na kena tiki ena se marautaka beka e vica na drau ena itekitekivu, ia eso tale era vinakata e vica na tiki lelevu. Kevaka e vaka me bibi se vakavuna na rarawa na veitarataravi, toso ki na tiki e lailai. Na noda Picture puzzle ena initaneti e 4 se 9 na kena tiki."
+  - q: "Era vinaka li na jigsaw puzzle me baleti ira era bula vata kei na lomaloma ni vakasama?"
+    a: "Era lewe vuqa era marautaka, vakauasivi kevaka era dau taleitaka na veitarataravi e liu. Na veitarataravi e solia e dua na ka me cakava na liga, e dua na inaki matata, kei na iyaloyalo me veitalanoataki. E sega ni dua na veitarataravi e vakaraitaki ni qarava se vakaberaberataka na lomaloma ni vakasama, o koya gona mo digitaka me baleta na marau kei na tiko vata."
+  - q: "Na cava me caka ni sega tale ni rawa ni qarava e dua na jigsaw?"
+    a: "Vakarawarawataka ka cakava vakalevu o kemuni: solia e dua na tiki ena dua na gauna, se biuta ga na vica na tiki i otioti me nona. Tovolea e dua na taro ena initaneti e 4 na kena tiki, tuvana na tiki me vaka na roka, se raica vata wale ga na iyaloyalo sa oti."
+  - q: "Era veirauti li na crossword kei na vakasaqaqara vosa ena lomaloma ni vakasama?"
+    a: "E rawa ena itekitekivu, ena vola levu. Na vakasaqaqara vosa e tu ga na vosa ena yasana kei na loma e rawarawa cake mai na kena e tiko na vosa e veicevata se lesu tale. Wilika vakadomoilevu na taro se na lisi ni vosa ka cakava vata."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+E dua na jigsaw e biu tu ena teveli ni kana e dua vei ira na itaviqaravi rawarawa duadua me wasei vata. E rawa ni drau tiko vata ka sega ni gadrevi na vosa levu, na iyaloyalo e solia e dua na ka me veitalanoataki kina, kei na kena biu na tiki i otioti e vakavuna na yalo vinaka. Ia, na veitarataravi e dodonu me veisau ni veisau na lomaloma ni vakasama. E dua na veitarataravi e dredre sobu e rawa ni vukica e dua na yakavi vakacegu me dua e vakararawataki. Na tabana oqo e vakamacalataka na sala ni digitaka ka vakarautaka na jigsaw, na taro vosa kei na taro vakarawarawa ena initaneti, kei na ka me caka ni sa tekivu dredre.
 
-## Are puzzles good for people with dementia?
+## Era vinaka li na veitarataravi me baleti ira era bula vata kei na lomaloma ni vakasama?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Era lewe vuqa era marautaka, vakauasivi o ira era dau cakava na veitarataravi e liu. Na [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e cavuta na vakasaqaqara vosa, qito ni pepa kei na qito ni teveli ena itaviqaravi me baleta na itekitekivu, kei na [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e cavuta na qito kei na veitarataravi ena initaneti ena tablet me dua na sala ni tiko vakaitavi.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Na veitarataravi e sega ni wai ni veivakarautaki. E sega ni dua na veitarataravi e vakaraitaki ni vakaberaberataka se tarova na lomaloma ni vakasama; na noda ivakasala me baleta na [qito ni vakasama kei na lomaloma ni vakasama](/brain-health/brain-games/) e vakamacalataka na vakadidike. Na inaki ni caka veitarataravi me dua na auwa marautaki ka taleitaki drau cakava vata. Na [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e vakalekalekataka: vakanamata ki na marau, sega ki na rawaka.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Na sala ni digitaka e dua na jigsaw puzzle me baleta e dua e bula vata kei na lomaloma ni vakasama?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Muria na ka e taleitaka o koya kei na ivakarau ni veitarataravi sa oti, sega ni muria e dua na yaca ni ituvaki.
 
-### Number of pieces
+### Levu ni tiki
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+E sega na naba dodonu. E dua e dau taleitaka na veitarataravi ena se marautaka beka e vica na drau na tiki ena itekitekivu, ia e dua tale e marau duadua ena vica wale ga na tiki. E dua na ivakarau yaga: kevaka e vaka me bibi na veitarataravi sa oti, digitaka e dua e rauta ni veimama na kena tiki. Kevaka e vakacavari totolo ka vinakata tale, toso cake vakalailai.
 
-### Piece size and feel
+### Levu kei na ivakarau ni tiki
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Na tiki lelevu** e rawarawa cake me laurai, tauri cake ka vukici.
+- **Na tiki vavaku ka kaukauwa** era tudei ka sega ni rawarawa ni ca ni lutu.
+- **Na dela sega ni cila** e vakalailaitaka na cila mai na cina kei na katubaleka.
+- **Levelia na tiki lalai** kevaka e rawa ni biuta o koya e dua na ka ena gusu, ka rawa ni yaco oqo ena gauna e muri ni lomaloma ni vakasama.
 
-### The picture
+### Na iyaloyalo
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Ulutaga ni tamata qase.** Na iteitei, valenisili, motoka makawa, manumanu ni iteitei, dua na tauni voleka ena baravi, se dua na qito taleitaki. Sega ni iyaloyalo ni gone se dua na ka e vaka na iyaya ni gone.
+- **Na vanua ni roka e matata na kena duidui.** E dua na vale ni manumanu damudamu, waqa karakarawa kei na vanua drokadroka e rawarawa cake mai na lomalagi e robota e dua na yasana ni veitarataravi.
+- **Rairai kilai ka vakayago.** E dua na iyaloyalo ni vanua a tiko kina se dua na ka a taleitaka e solia e levu na ka me veitalanoataki. Eso na vanua ni tabaivola era rawa ni vukica e dua na iyaloyalo ni matavuvale me jigsaw.
 
-## How do you do a puzzle together?
+## Na sala ni caka vata e dua na veitarataravi?
 
-Set it up so the person can get straight to the enjoyable part.
+Vakarautaka me rawa ni tekivu sara o koya ena tikina e marautaki.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Digitaka e dua na vanua vinaka.** Rarama vinaka, dua na idabedabe e tiko na ligana, kei na teveli se dua na ibe me toka tu kina na veitarataravi.
+2. **Vakararamataka na ituvatuva ni kato** ena vanua e rawa ni drau raica vata kina.
+3. **Vukica na tiki me raici cake** ni bera ni tekivu.
+4. **Tuvana na tiki ni batibasaga** o kemuni, se cakava taumada na batibasaga ka biuta na loma me nona.
+5. **Vakasokumuna na tiki me vaka na roka** ki na vica na ibe se peleti.
+6. **Solia e dua na tiki ena dua na gauna** kevaka e levu na tiki ka rui rawarawa ni veilecayaki. "Au nanuma ni tiki ni vale ni manumanu oqo."
+7. **Veitalanoataka na iyaloyalo,** sega ni toso. "E vaka na waqa a taukena na tamaqu."
+8. **Biuta me tu.** Lesu tale kina ena vica na siga. E sega ni gadrevi na totolo.
+9. **Cegu ena dua na gauna vinaka,** ni oti na kena biu e dua na tiki, ni se marautaki tiko.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+Na [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e vakatura mo vukei koya me tekivu, vakaraica na rarawa, ka laiva me sarava wale ga kevaka e taleitaka cake o koya. Na saravi kemuni ni biuta na tiki, kei na dusia na vanua e rawa ni biu kina e dua, e se tiko ga vakaitavi.
 
-## Easy online puzzles
+## Taro vakarawarawa ena initaneti
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+E dua na veitarataravi ena tablet e tiko na kena yaga dina: sega na tiki e yali, iyaloyalo lelevu e robota na sikirini, kei na sega ni teveli me samaki.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Na noda [Picture puzzle](/games/picture-puzzle/) wale ga e musuka e dua na iyaloyalo me 4 se 9 na tiki. Tabaka e rua na tiki mo veisautaka me yacova ni taucoko tale na iyaloyalo. Na iyaloyalo taucoko e tiko ga ena sikirini me ivakaraitaki, e sega na ivakarau ni gauna, ka rawa ni cegu ena dua ga na gauna. Na va na tiki e veirauti kei ira e lewe vuqa ena gauna e loma donuya ni tiko vata e dua e yasana.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Me baleta na qito ni iyaloyalo e rawarawa cake, tovolea na [Find the same](/games/find-the-same/), na vanua o tabaka kina na iyaloyalo e tautauvata kei na dua e cake, se [Sort together](/games/sort-together/), na vanua e biu kina na iyaloyalo ki na kato me vaka na valenisili se na iteitei.
 
-## Word puzzles: word searches and crosswords
+## Taro vosa: vakasaqaqara vosa kei na crossword
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Na taro vosa e veirauti kei ira era dau taleitaka, e vakavuqa ena itekitekivu ni lomaloma ni vakasama.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Vakasaqaqara vosa ena vola levu.** Na noda [Word search](/games/word-search/) wale ga e vakayagataka na vola lelevu kei na vica wale ga na vosa, e toso ena yasana kei na loma, sega vakadua ena veicevata se lesu tale. Qitotaka ena sikirini se tabaka.
+- **Wilika vakadomoilevu na lisi.** E dua e wilika e dua na vosa, e dua tale e vaqara. E vinaka wale ga na wirina na imatai ni vola.
+- **Na crossword ena vola levu** mai na ivola ni veitarataravi e rawa ni cakacaka ena itekitekivu. Wilika vakadomoilevu na taro, wasea na peni ka vakalewena vata na isauni. Na crossword rawarawa, e tiko na kena ulutaga, e vinaka cake mai na ka dredre.
+- **Veitalanoataka na vosa.** "Iteitei" e rawa ni yaco me tini na miniti ni vosa me baleta na tomata.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Me baleta e levu tale na itaviqaravi ena pepa kei na sala ni tabaki ira me rawarawa na raici kei na tauri, raica na [itaviqaravi ni lomaloma ni vakasama e rawa ni tabaki wale](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Na veitarataravi cava e veirauti ena veiyasai ituvaki?
 
-Stages overlap, and good and hard days are normal.
+Na ituvaki e veicurumaki, kei na siga vinaka kei na siga dredre e ka ga ni dau yaco.
 
-| Stage | Puzzles that often fit | Your role |
+| Ituvaki | Veitarataravi e dau veirauti | Nomuni itavi |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| iTekitekivu | Jigsaw kilai e lailai na kena tiki mai na bera, crossword kei na vakasaqaqara vosa ena vola levu, taro ena initaneti e 9 na tiki | I tokani: laiva me digitaka, vukea ni kerea |
+| Loma donuya | Jigsaw e vica na tiki lelevu, taro ena initaneti e 4 na tiki, vakasaqaqara vosa e wiliki vata vakadomoilevu | Vakarautaka, tuvana na tiki, solia e dua ena dua na gauna |
+| iOtioti | Raica vata e dua na iyaloyalo sa oti, Find the same e rua na iyaloyalo, taura e vica na tiki lelevu | Kauta yani vei koya; na nomuni tiko vata na itaviqaravi |
 
-## When should you make a puzzle easier, or stop?
+## Na gauna cava me vakarawarawataka kina se cegu kina na veitarataravi?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Vakaraica na cegu vakacegu, na biligi ni tiki, na "Au sega ni rawa" e toso vakawasoma, se na mata e l worried. Oqo na ivakatakilakila me veisautaka e dua na ka, sega ni toso ga.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Vakarawarawataka.** Tiki lailai, se biuta wale ga na vica na tiki i otioti me nona.
+- **Cakava vakalevu o kemuni** ka sureta me vukea ena veitikina rawarawa.
+- **Veisautaka ki na dua na ka voleka:** tuvana na tiki me vaka na roka, e dua na taro ena initaneti e 4 na tiki, se [coloring](/games/coloring/).
+- **Cegu.** Biuta vakatikitiki ka gunuva e dua na bilo ti. E rawa ni drau lesu tale ena dua na siga, se sega sara.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Kevaka e tekivu vaka na ivakananumi ni ka e dredre na veitarataravi, e vinaka me biu. E levu tale na sala me vakayagataki kina na gauna vinaka vata; na noda [101 na vakasama ni itaviqaravi](/activities/ideas/) e dua na vanua vinaka me raica.

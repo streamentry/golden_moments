@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Ngeenge omunhu e na oudimbu ta pula okuya keumbo"
+seoTitle: "Oudimbu nokupula okuya keumbo: Oto ti shike"
+description: "Kutya omolwashike omunhu e na oudimbu ha pula okuya keumbo nonande oku li keumbo, osho to dulu okutya, oinima tai kwafele, nanghee to mu amene."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Ngeenge omunhu e na oudimbu ta pula okuya keumbo, “keumbo” otashi dulu
+  okutya okuuda e li meameno ile onhele yonale, ha etungo. Ino mu tomhafana
+  kutya oku li keumbo. Tambula ko omaliudo aye, mu shilipaleke kutya oku li
+  meameno, mu pula kombinga yeumbo, ndele to lundulula kanini muye u ye komafano,
+  komusika, kokanima, kokweenda ile koshilonga shipu. Taleni ngeenge oku na
+  ondjala, enota, okuya koundjuwo wokutila ile ouyehame. Ngeenge osha tameke
+  ombadilila, dengela ndokotola waye.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "„Onda hala okuya keumbo“ luhapu otashi ti „Inandi uda nda amenwa ile nda ngungumana“, ha eindilo londjukifi."
+  - "Okutomhafana ile okuulika kutya oku li keumbo otashi dulika shi naipike omaliudo aye. Nyamukula komaliudo."
+  - "Mu pula e ku lombwele kombinga yeumbo, ndele to mu pe omafano, omusika, okanima, okweenda ile oshilonga shipu."
+  - "Tala ngeenge ope na sha tashi dulu okulundululwa: ondjala, enota, okuya koundjuwo wokutila, ouyehame, okupya unene ile okutalala, ombovo ile ouloloki."
+  - "Ngeenge otashi ningwa efimbo keshe konguloshi, otashi dulika shi kale etulumuko la nyona konguloshi; elandulafano la yuka nouyelele muwa otai dulu okukwafela."
+  - "Longekida eameno ngeenge ta kendabala okudja mo, ndele to dengela ndokotola waye ngeenge opa holoka elunduluko lombadilila."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Omolwashike meme wange e na oudimbu ha pula aluhe okuya keumbo nonande oku li keumbo?"
+    a: "Oudimbu otau dulu okuninga omatungo e shiivikile a kale a fa e he shi a shiivikile, nomunhu otashi dulika a kale e udite e li mefimbo lonale monghalamwenyo. „Keumbo“ otashi dulu okutya eumbo lounona ile ashike omaliudo okuuda wa amenwa nou li nawa. Okunyamukula komaliudo oo luhapu ohashi longo nawa shi dulife okuulika kutya oku li peni."
+  - q: "Ondi na okutya shike ngeenge ta pula okuya keumbo?"
+    a: "Kendabala okutya „Ove ou li meameno apa, ondi li pamwe naave,“ ndele to ti „Lombwele nge kombinga yeumbo leni.“ Pwilikina, mu ulikila efano ile mu imbila eimbilo, ndele to mu pe sha a nwe ile mu ende naye kanini. Henuka okutya „Ove ou li keumbo“ u shi tye onga elilongo, shaashi otashi dulu oku mu udifa a fa ta lombwelwa kutya okwa puka."
+  - q: "Oshi li tuu nawa okutya ohatu ka ya keumbo konima?"
+    a: "Omaumbo nomahangano oudimbu ohaa kala e na omataleko a yoolokafana kombinga yaashi. Vahapu ohava hovele nehekeleko loshili nokulundulula omadiladilo, ndele tava longifa oipupulu iwa ashike peemhito opo oshili itai eta sha kakele koluhodi olo omunhu ita dulu okuungaunga nalo. Kutya nee owa hoolola shike, kala omunambili nou kale wa yuka, ndele ino sheka nande omukalo waye wokuuda ko oinima."
+  - q: "Oshike ndi na okuninga ngeenge ta kendabala okudja mo meumbo?"
+    a: "Kala wa ngungumana ndele to ende pamwe naye ponhele yoku mu kelela; okweenda kanini pamwe naye luhapu ohaku ngungumaneke ehalo olo. Tula po eenghatu deameno nale, ngaashi okambandjona kedidiliko, eengedjo domivelo nosho yo efano laye lipe. Ngeenge okwa kana, hovele oku mu konga diva, ndele to denga 112 ngeenge ino mu mona moule weedula 15, to lombwele kutya omunhu oku na oudimbu."
+  - q: "Onaini ndi na okudengela ndokotola?"
+    a: "Dengela ndokotola waye diva ngeenge epulo ile epiyagano ola tameke ombadilila ile tali naipala neendelelo moule weevili ile omafiku, unene tuu ngeenge oku na ombefi, omiti ipe ile omadidiliko oudu wombuda. Epiyagano lombadilila otali dulu okukala delirium, olo tali pula ekwafo lopaxuuninwa. Denga 112 ngeenge ope na omunhu e li moshiponga."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +68,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+„Onda hala okuya keumbo.“ Komaukwaneumbo mahapu, eli oli li limwe lomomatyapulo madjuu okuuda, unene ngeenge omunhu ou to file oshisho oku li omutumba mondunda yaye yokuhepaulula. Oshi li oshinima sha ikililwa, otashi dulu okuningwa pefimbo keshe loudimbu, noku na eenghedi da ngungumana nodi li pashili okunyamukula. Epandja eli otali yelifa osho eendjovo odo luhapu tadi ti, osho to dulu okutya, oinima tai dulu okukwafela pefimbo opo, nanghee to dulu okukala wa amenwa.
 
-## Why does someone with dementia keep asking to go home?
+## Omolwashike omunhu e na oudimbu ha pula aluhe okuya keumbo?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Luhapu, „keumbo“ oli li omaliudo shi dulife onhele. Alzheimer's Society otali shi yelifa onga omaliudo epepelelo neemhito deameno, ile eumbo lonale, ha etungo lo vene. Oudimbu otau dulu okuninga omatungo e shiivikile a kale a fa a kwata moiti, nomunhu otashi dulika a kale e udite e li mefimbo lonale monghalamwenyo, eshi keumbo kwa li eumbo lounona ile onhele oko a kulila ounona vaye.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Eendjovo odo otadi dulu yo okuulika kutya ope na sha shilili sha puka paife: oku na ondjala, enota, okwa pumbwa okuya koundjuwo wokutila, oku na ouyehame, oku udite oupyu unene ile outalala, a loloka, e udite ounghundi, a tila, ile a wililwa po kombovo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) otai tumbula ouyehame, ombovo, ounghundi, omalunduluko melandulafano nomiti onga oinima imwe hai eta epiyagano.
 
-## What should I say when they ask to go home?
+## Ondi na okutya shike ngeenge ta pula okuya keumbo?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Nyamukula komaliudo, ha keendjovo. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) otai kumaida uha kendabale okutomha omunhu kutya okwa puka: omaliudo aye oshili, onghee nyamukula tete nehekeleko neshilipaleko, ndele to lundulula omadiladilo kanini.
 
-Phrases that often help:
+Eendjovo odo luhapu hadi kwafele:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Tumbula omaliudo.** „Otashi monika wa fa wa hala keumbo.“
+- **Mu shilipaleka.** „Ove ou li meameno apa, ondi li pamwe naave.“ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) otai popile eendjovo di li paunafangwa „Ove ou li meameno apa.“
+- **Mu shivi a dimbuluke.** „Lombwele nge kombinga yeumbo leni. Okombitha yeni okwa li ya tya ngahelipi?“ Okupula kombinga yoinima yonale luhapu ohashi kala shipu shi dulife omapulo kombinga yonena.
+- **Mu pe sha mu longe pamwe.** „Natu nwe tete otee,“ ile „Oto dulu tuu oku kwafela nge noiteta ei?“
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Ewi liwa neke tali kwata kwooko, ngeenge oku hole okukwatwa, otali dulu okupopya shihapu shi dulife eendjovo.
 
-## What should I avoid?
+## Oshike ndi na okuhenuka?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Okutomhafana ile okuyelifa.** „Ove paife oho kala apa“ ile „Eli ola kala eumbo loye oule weedula 40“ otashi mu pula a tambule ko sha osho oudimbu tau ningi shidjuu okutambula ko, notashi dulu oku mu udifa a fa ta lombwelwa kutya okwa puka.
+- **Okupula omapulo mahapu.** „Ku shi dimbuluka?“ ile „Ondjukifi oyo oilipi?“ otashi weda po oudjuu.
+- **Okukelela omuvelo nouhandu.** Ngeenge ta i pondje, kala wa ngungumana ndele to ende pamwe naye. Okweenda kanini pamwe naye luhapu ohaku ngungumaneke ehalo olo.
+- **Okweendelela.** Mu pe efimbo a popye kombinga yeumbo ofimbo ino lundulula oshipalanyole.
 
-## Activities that can help in the moment
+## Oinima tai dulu okukwafela pefimbo opo
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Konima eshi wa tambula ko omaliudo aye, oshinima sha ngungumana nashi shiivikile otashi dulu okulundulula omadiladilo inashi mu efa po.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Taleni omafano eumbo noukwaneumbo.** Pitaneni momapandja ndele tamu tula mo omatyekosha („Tala oshikunino osho“) ponhele yokupula omapulo. Kongodi ile kotableta, [Photo pairs](/games/photo-pairs/) ohai ningi omafano eni oukwaneumbo oshinima shokudimbulukwa sha ngungumana, nomafano ohaa kala moshikwakwashela shoye.
+2. **Popyeni kombinga yeumbo.** [Conversation cards](/games/conversation-cards/) otai yandje omapulo a manguluka kombinga yomatungo, eekombitha, ovashiinda nomafudo, pehe na omanyamukulo a puka.
+3. **Daneni omusika oyo e hole.** National Institute on Aging otai tumbula omusika ya ngungumana onga imwe yomeenghedi dokungungumaneka epiyagano. Tala [oinima yomusika](/activities/music/).
+4. **Mu peni okanima ile sha a nwe.** Ondjala nenota otai dulu okumonika ya fa okuhe na ombili. Okakopi kotee ile okanima ke holike nako oko onghedi inini yokuuda u li keumbo.
+5. **Indeni mu ka ende ile mu ka kale pondje.** Okweenda nokumona ouyelele wetango ohashi kwafele, unene tuu ngeenge omutenya inau fika.
+6. **Mu peni oshilonga shi shiivikile.** Okupeta oikutu, okuunganeka oiyaha ile okuteka oimeno otashi dulu okweetulula omaliudo okulongifa eumbo.
+7. **Ngungumanekeni oinima aishe.** Dima oTV, ninipika ombovo nouyelele tau piyaaneke, ndele tamu kendabala okafimbo kokufuda mwa ngungumana pamwe mu [calm breathing](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Ngeenge ediladilo limwe inali enda nawa, kendabala limwe konima. Okukala omutumba mwa mwena pamwe nayo oi li oshizemo shiwa.
 
-## Check for a cause you can fix
+## Taleni ngeenge ope na etomheno to dulu okulundulula
 
-| Check | What to try |
+| Tala | Osho to dulu okuninga |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Ondjala ile enota | Mu pa sha a nwe nokanima kanini |
+| Okwa pumbwa okuya koundjuwo wokutila | Mu shiva a ye koundjuwo wokutila, nombili nopehe na eenghundafana dihapu |
+| Ouyehame ile ehe na ombili | Tala omadidiliko ngaashi okufininika oshipala, okukwata oshitukulwa sholutu ile eenghaku da pata, ndele to lombwele ndokotola waye |
+| Oupyu unene ile outalala | Lundulula oikutu ile oupyu wondunda |
+| Ombovo ile ovanhu vahapu | Indeni kondunda ya mwena, dima oTV |
+| A loloka ile a wililwa po | Mu pe efimbo a tulumukwe, ninipika ouyelele, dana omusika ya ngungumana |
+| Konguloshi | Tala oshitukulwa shi na sha netulumuko la nyona konguloshi apa pedu |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society otai kumaida u shange omusholondodo mufupi wokutala kutya epulo ola holoka naini, ngaashi ofimbo inamu lya, konima yovaenda, ile pokufika kwetuvi. Omalandulafano ohaa ningifa shipu okulongekida komesho yefimbo.
 
-## Is it okay to tell a white lie?
+## Oshi li tuu nawa okutya oipupulu iwa?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Eli epulo lashili, nomaukwaneumbo e na ohole ohaa fika pomatokolo a yoolokafana. Alzheimer's Society otai ti kape na enyamukulo limwe alike la yuka: oipupulu otai dulu okuninga vamwe va kale inave lineekela, onghee tokola osho shi li mouwa womunhu oo ndele kala wa yuka. KoPenn Memory Center, omukulunhu umwe oku wete kutya oshili oyo i na okukala tango, ndele oipupulu iwa otai tambulwa ko ashike ngeenge omunhu ita dulu okuungaunga noshili yonhumba, ndele ino sheka nande omukalo waye wokuuda ko oinima.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Ovafilishisho vahapu ohava mono kutya ondjila yopokati ohai longo: ehekeleko loshili nokulundulula omadiladilo tango („Ohatu ka kala apa oufiku ou, ondi li apa pamwe naave“), nopehe na okutomhafana kutya keumbo oku li peni.
 
-## What if it happens every afternoon or evening?
+## Oshike ngeenge otashi ningwa efimbo keshe komatango ile konguloshi?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Okuhe na ombili oko taku tameke ile taku naipala komatango otaku ifanwa luhapu etulumuko la nyona konguloshi. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) otai kumaida elandulafano la yuka, ouyelele wetango nokulonga sha efiku keshe, okukofa kanini omutenya kwa ninipala, nokuhenwa oikafe ile oikolwifa konguloshi. Okutema omalamba ofimbo etango inali ningina nako otaku dulu okukwafela. Ewilikonghatu letu li na sha [noinima ya ngungumana yokomatango](/caregiving/late-day-restlessness/) oli na ouyelele muhapu.
 
-## Keeping them safe if they try to leave
+## Okukaleka omunhu a amenwa ngeenge ta kendabala okudja mo
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Okupula okuya keumbo otaku dulu okweetifa okweendaenda nopehe na elalakano. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) otai tengeneke kutya ovanhu vahamano vomovanhu omulongo ovo ve na oudimbu otava ka endaenda nopehe na elalakano lumwe.
 
-**Prepare ahead:**
+**Longekida komesho yefimbo:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Okambandjona kedidiliko ile kouhaku li na edina laye nonomola yoye yongodi, nosho yo omalombwelo moikutu yaye. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) otai tumbula opolohalama yaMedicAlert naAlzheimer's Association Safe and Found, oyo tai dulu okukala i na ondado.
+- Ongedjo ile elandulafano tali ulike eshi omuvelo wa yeuluka, nomakumba a tulwa pombada ile pedu. Ino idila nande omunhu meni oye aeke.
+- Efano laye lipe lopopepi, nomusholondodo weenhele oko tashi dulika a ye, ngaashi eumbo lonale ile onhele yoilonga.
+- Lombwela ovashiinda ovo ve lineekelwa, ndele to va pe onomola yoye yongodi.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ngeenge okwa kana:** hovele oku mu konga diva; Alzheimer's Association otai ti ovanhu vahapu ohava monika moule weekilometa 2,4 lwaapo. Ngeenge ino mu mona moule weedula 15, denga 112 ndele to ti omunhu oku na oudimbu. Denga 112 diva ngeenge ope na omunhu e li moshiponga.
 
-## When should I call a doctor?
+## Onaini ndi na okudengela ndokotola?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Dengela ndokotola waye diva ngeenge epulo ile epiyagano ola tameke ombadilila, ile tali naipala neendelelo moule weevili ile omafiku. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) otai ti elihumbato olo la holoka ombadilila ile tali lunduluka diva, unene tuu konima youdu ile elunduluko lomiti, oli na okutalika po diva. Epiyagano lombadilila otali dulu okukala delirium, olo [NHS](https://www.nhs.uk/symptoms/confusion/) tai ti ola pumbwa ekwafo lopaxuuninwa; omaduu omombuda ohaa kala etomheno la ikililwa movanhu ovakulunhu.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Otashi kwafele yo okupopya omukalo oo tau twikile pokwoongala kwa shikula ko, shaashi ouyehame, omaliudo mai, oupyakadi wokukofa ile omaupyakadi omiti nao otai dulu okukala i na oshinakuwanifwa.

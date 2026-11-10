@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Aktiviteiten foar manlju mei demintens"
+seoTitle: "Aktiviteiten foar manlju mei demintens: ideeën"
+description: "Ideeën foar aktiviteiten foar manlju dy't mei demintens libje, basearre op wurk, hobby's en gewoanten út it ferline, mei tips om se feilich oan te passen."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  De bêste aktiviteiten foar in man dy't mei demintens libbet, komme út syn
+  eigen libben: it wurk dat er die, de hobby's dêr't er fan hâlde en de
+  deistige gewoanten dy't er hie. In eardere kantoararbeider fynt it miskien
+  leuk om papieren te sortearjen, in monteur om skjinne ark oan te pakken, en
+  in sportfan om in âlde wedstriid te sjen. Belangstellingen ferskille fan man
+  ta man, dus begjin by de persoan, net by syn geslacht.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Begjin mei it eigen ferhaal fan dizze man: syn wurk, syn hobby's, syn gewoanten en wêr't er grutsk op wie."
+  - "Taken mei in echt doel, lykas ijzerwaren sortearjen, de auto waskje of hout skuren, sprekke faak mear oan as aktiviteiten dy't as in les fiele."
+  - "Net elke man hâldt fan ark of sport. In protte manlju hâlde fan koekje, muzyk, túnwurk, keunst of foar oaren soargje. Freegje, sjoch en folgje syn oanlieding."
+  - "Meitsje wurkachtige taken feilich troch skerpe ark fuort te heljen en tafersjoch te hâlden, en meitsje se ienfâldiger as fermogens feroarje."
+  - "Nee sizze mei. Bied in rol oan, net in opdracht, en probearje it in oare dei wer."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Hokker aktiviteiten fine manlju mei demintens leuk?"
+    a: "Der is gjin iene list, want de belangstellingen fan manlju ferskille krekt sa folle as dy fan oaren. Goede begjinpunten binne taken dy't by syn eardere wurk passe, lykas papieren oarderje of moeren en bouten sortearjen, tegearre mei hobby's dêr't er fan hâlde, lykas fiskjen, auto's, muzyk, koekje of sport. Sjoch wat er sels docht en bou dêr op troch."
+  - q: "Myn heit wiist groepsaktiviteiten ôf. Wat kin ik dwaan?"
+    a: "In protte minsken, sawol manlju as froulju, sizze nee tsjin aktiviteiten dy't as in les fiele of bernich oerkomme. Probearje ynstee in taak oan te bieden: „Kinne jo my helpe om dit te sortearjen?” Lytse groepen of tiid mei-inoar kinne ek nofliker fiele as in grutte keamer."
+  - q: "Is it feilich om him ark brûke te litten?"
+    a: "Allinnich mei tafersjoch en feilich ark. Helje elektrysk ark, messen en alles wat skerp is fuort, en bied taken oan lykas in blok hout skuren, skjinne ijzerwaren sortearjen of grutte bouten mei de hân oandraaie. De Alzheimer's Association riedt oan om gefaarlike dingen út in wurkromte fuort te heljen, sadat in taak lykas skuren noch feilich dien wurde kin."
+  - q: "Hy wie in professional. Fiele ienfâldige taken beledigend?"
+    a: "Dat kin, as se as drok dwaan oerkomme. Jou de taak as echte help, brûk materiaal foar folwoeksenen en kies wat ticht by syn âlde rol leit, lykas in list trochgean, in map oarderje of helpe by it gearstallen fan in mailing. As er tige goed wie yn wat, kin in besibbe mar oare aktiviteit minder as in ferliking fiele."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Minsken sykje faak nei „aktiviteiten foar manlju mei demintens” omdat de gewoane suggestjes net lykje te passen by de man yn harren libben. Dat is te begripen. Mar it antwurd is net in list mei „manlike” aktiviteiten. It is om te begjinnen by dizze bepaalde man: wat er foar syn wurk die, wat er yn it wykein die en wat him in nutich gefoel joech. Belangstellingen ferskille foar elkenien. In protte manlju hâlde fan koekje, túnwurkjen, skilderjen of sjonge, en in protte froulju hâlde fan auto's en honkbal.
 
-## How do I find activities he will actually enjoy?
+## Hoe fyn ik aktiviteiten dêr't er echt fan genietet?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Begjin mei syn libbensferhaal. De Alzheimer's Association riedt oan om in [deistich plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) te meitsjen om wat de persoan leuk fynt en net leuk fynt, syn sterke kanten en syn belangstellingen, en om hoe't er earder syn dei ynrjochte. Freegje josels ôf:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Wat wie syn wurk?** Kantoar, boerderij, fabryk, ambacht, leger, ferkeap, lesjaan, ride, it húshâlden?
+- **Wat die er yn syn frije tiid?** Fiskjen, kaarten, houtwurk, sport, tsjerke, muzyk, koekje, in auto yn de garaazje?
+- **Wat wiene syn gewoanten?** Kofje en de krante elke moarn? It waar kontrolearje? Op sneon de auto waskje?
+- **Wat begjint er noch sels?** De feriening merkt op dat as in persoan sûnder te freegjen mei taken begjint, lykas de flier feie, dy taken diel wurde kinne fan de gewoante.
+- **Wat mijdt er?** Guon minsken sjogge graach sport; oaren fine it tempo en it lûd lestich. Let op wannear't er bliid, eangstich of lilk liket.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Praat ek mei famylje en âlde freonen. Se kinne belangstellingen ûnthâlde dy't yn it deistich libben wat út it byld rekke binne.
 
-## Activity ideas based on past work
+## Ideeën foar aktiviteiten op basis fan earder wurk
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+De Alzheimer's Association jout in dúdlik foarbyld: in eardere kantoararbeider kin leuk fine om dingen te oarderjen, lykas munten yn in houder dwaan, helpe by it gearstallen fan in mailing of in to-dolist meitsje, wylst in eardere boer of túnarbeider derfan hâlde kin om bûten te wurkjen. Itselde idee jildt foar in protte soarten wurk.
 
-| Past work | Activity ideas | Simpler version |
+| Earder wurk | Ideeën foar aktiviteiten | Ienfâldiger ferzje |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Kantoar of bedriuw | Papieren yn mappen sortearjen, enveloppen stimpe, in list trochgean, in bureaulade oarderje | Enveloppen stapelje; papearklips yn in doaze dwaan |
+| Ambacht of monteurswurk | Skjinne moeren, bouten en ringen sortearjen; grutte bouten mei de hân oandraaie; yn katalogussen mei ark sjen | Op grutte sortearje yn twa bekers |
+| Lânbou of túnwurk | Wetter jaan, planten potte, blêden harkje, nei de tún sjen | Bûten sitten wylst jo wurkje; siedpakketten fêsthâlde |
+| Leger | Skuon oppoetsje, in lade kreas meitsje, nei foto's út dy tiid sjen as er dat leuk fynt | Nei muzyk út dy tiid harkje |
+| Ferkeap of klanttsjinst | Besikers wolkom hjitte, snoepjes útdiele, bonnen sortearjen | By de doar sitten om hallo te sizzen |
+| Lesjaan | Hêd oplêze, boeken oarderje, foto's op tema sortearje | Tegearre in prenteboek trochblêdzje |
+| Riden of ferfier | Nei kaarten of âlde automagazines sjen, de auto waskje | Fanôf in stoep nei auto's sjen dy't foarby ride |
+| Hûs en famylje | Wask goed opfâlde, de tafel dekke, helpe by it iten | Servetten glêd strykje; roerje |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Guon oantinkens, lykas militêre tsjinst, kinne sterke gefoelens oproppe. Folgje syn oanlieding, hâld petearen oer it ferline posityf en feroarje sêft fan ûnderwerp as er fan streek liket.
 
-## Activity ideas based on hobbies
+## Ideeën foar aktiviteiten op basis fan hobby's
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Houtwurk.** In glêd blok hout skuren of in fûgelhûskit skilderje. De Alzheimer's Association riedt oan om gefaarlik materiaal en ark út de wurkromte fuort te heljen, sadat in aktiviteit lykas skuren noflik en feilich wêze kin.
+2. **Fiskjen.** In fiskdoaze sortearjen sûnder haken, fiskmagazines trochblêdzje of tegearre by in fiver sitten.
+3. **Auto's.** De auto waskje, chroom oppoetsje, nei foto's fan klassike auto's sjen of as passazjier in tochtsje meitsje.
+4. **Sport.** In klassike wedstriid of hichtepunten sjen, in sêfte bal smite, golfballen op in tapyt slaan of honkbalkaarten sortearjen.
+5. **Kaarten en spultsjes.** In ienfâldige hân fan in bekend kaartspultsje, domino of kaarten omdraaie om in pear te finen. Hâld it ûntspannen en lit it skoare byhâlden falle.
+6. **Muzyk.** Lieten út syn tienerjierren en tweintiger jierren, in favorite band of in gezang. Sjoch ús [gids oer muzykaktiviteiten](/activities/music/).
+7. **Koekje en grille.** Grienten waskje, saus roerje, burgers foarmje of fertelle hoe't er syn ferneamde chili makke wylst jo it koekje.
+8. **De krante.** De Alzheimer's Association merkt op dat in persoan dy't altyd de krante lies, dat noch leuk fine kin, sels as er de ynhâld net folslein folgje kin. Kofje en de krante kinne diel bliuwe fan de moarn.
+9. **Bouwe.** Modelkits mei grutte dielen of ienfâldige bouwsets foar folwoeksenen. Kies dielen dy't maklik fêst te hâlden binne.
+10. **Foar wat soargje.** In húsdier iten jaan, it fûgelfoerbakje folje of planten wetter jaan. De NIA neamt [in húsdier iten jaan, fersoargje of útlaatsje](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ûnder aktiviteiten dêr't minsken fan geniete kinne.
 
-## How do I offer an activity without it feeling like busywork?
+## Hoe bied ik in aktiviteit oan sûnder dat it as drok dwaan fielt?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Jou it as echte help. De Alzheimer's Association riedt oan om te freegjen „Kinne jo my asjebleaft helpe?” en taken te keppeljen oan in doel. Ferlikje:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „Wolle jo dizze bouten sortearjen?” (klinkt as in test)
+- „Ik haw in mingde tas mei ijzerwaren kocht en ik moat dizze sortearje foardat ik de planke reparearje. Kinne jo my in hân jaan?” (klinkt as in taak)
 
-Other tips:
+Oare tips:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Brûk materiaal foar folwoeksenen.** Echt ark sûnder skerpe kanten, echte katalogussen, echte enveloppen.
+- **Wurkje njonken inoar.** Twa minsken dy't oan in taak wurkje, is selskip. Ien persoan dy't nei in oar sjocht, is tafersjoch.
+- **Ferbetter net.** As bouten yn de ferkearde beker einigje, lit it sa. Wat telt is de tiid tegearre en it gefoel nuttich te wêzen.
+- **Help him om te begjinnen.** De Alzheimer's Association merkt op dat in protte minsken noch wol dingen dwaan wolle, mar muoite hawwe om te oarderjen en te begjinnen. Doch de earste tegearre.
 
-## How do I adapt as things change?
+## Hoe pas ik dingen oan as se feroarje?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+As demintens foarútgiet, riedt de Alzheimer's Association oan om ienfâldiger, werheljende taken yn te fieren en ree te wêzen dat de persoan in minder aktive rol nimt. In man dy't earder motoren opnij opboude, kin it no leuk fine om in skjinne moersleutel fêst te hâlden en oer auto's te praten, of om jo te sjen wurkjen. Taskôgje is ek meidwaan.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+As er tige bekwaam wie yn wat, kin in besibbe aktiviteit better fiele as syn âlde ambacht. De feriening merkt op dat in profesjonele keunstner frustrearre reitsje kin troch feroarings yn syn wurk, wylst in amateur in nije útwey leuk fine kin. Itselde jildt foar in betûfte timmerman.
 
-## Safety with work-style tasks
+## Feilichheid by wurkachtige taken
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Helje elektrysk ark, messen, spikers en skroeven mei skerpe punten fuort.
+- Slút ferf thinner, benzine en gemikaliën op.
+- Hâld autosleutels út it sicht as er net mear rydt.
+- Hâld tafersjoch by alle taken yn de wurkromte en de tún.
+- Kies grutte dielen dy't net trochslokt wurde kinne.
 
-## What if he says no?
+## Wat as er nee seit?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Respektearje dat. In nee kin betsjutte dat de taak te dreech fielt, te bernich of gewoan net goed is foar hjoed. De Alzheimer's Association warskôget om it net troch te setten. Probearje in oare taak, in oar momint, of sit gewoan tegearre. Sjoch [wat te dwaan as se nee sizze](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Spultsjes en petearen dy't passe
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) brûkt bekende Amerikaanske sprekwurden en liedt ta in petear. [Conversation Cards](/games/conversation-cards/) hat iepen fragen sûnder kwis per tema, dy't ferhalen oer wurk en hobby's iepenje kinne. [Picture Puzzle](/games/picture-puzzle/) hâldt de hiele ôfbylding sichtber wylst jo stikjes wikselje, en de [Word Search](/games/word-search/) mei grutte letters kin printe wurde en mei in pin oan de keukentafel dien wurde. Foar manieren om oer syn ferline te praten sûnder him te testen, sjoch ús [gids oer oantinkens](/activities/reminiscence/).

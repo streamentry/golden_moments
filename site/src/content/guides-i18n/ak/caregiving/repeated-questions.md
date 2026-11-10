@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Sɛ Obi a Ɔwɔ Dementia Bisa Asɛmmisa Koro Ntoatoaso"
+seoTitle: "Dementia: Sɛ Wobisa Asɛmmisa Koro Ntoatoaso"
+description: "Nea enti a obi a ɔwɔ dementia bisa asɛmmisa koro ntoatoaso, ɔkwan a ɛyɛ komm a wobɛfa so abua, nneɛma a ɛboa, ne bere a nsakrae a ɛba prɛko pɛ hia oduruyɛfo."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Asɛmmisa a wobisa ntoatoaso taa ba dementia mu: mpɛn pii no, onipa no
+  nkae sɛ wabisa, na asɛmmisa no betumi akyerɛ awerɛhow bi. Bua no komm
+  na tiawa te sɛ nea ɛyɛ nea edi kan, bua atenka a ɛwɔ akyi no, na nka
+  da sɛ "woabisa dedaw." Kyerɛw mmuae no fa baabi a obetumi ahu, ka
+  dwumadi ho asɛm bere tiaa ansa na aba, na ma no biribi a ɔbɛyɛ a ɛyɛ
+  anigye. Sɛ nsakrae ba prɛko pɛ a, ɛsɛ sɛ oduruyɛfo hwɛ no.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Mpɛn pii no, onipa no nkae sɛ wabisa; ɔnyɛ no boapa."
+  - "Asɛmmisa no betumi akyerɛ atenka bi, te sɛ awerɛhow a ɛfa nhyiam bi ho anaa pɛ a ɔpɛ sɛ ɔte nka sɛ biribiara yɛ yiye."
+  - "Bua no komm, tiawa na ayamye mu, te sɛ nea ɛyɛ nea edi kan. Nka da sɛ \"woabisa dedaw.\""
+  - "Krataa, bɔɔd a wɔkyerɛw so, dɔn anaa kalenda a esi n'anim betumi abua asɛmmisa no ama wo."
+  - "Ka dwumadi a ɛde adwennwen ba ho asɛm bere tiaa ansa na aba."
+  - "Gye wo ahome bere tiaa sɛ wuhia, na frɛ oduruyɛfo sɛ nsakrae bi ba prɛko pɛ a."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Adɛn nti na m'agya a ɔwɔ dementia kɔ so bisa asɛmmisa koro no ara?"
+    a: "Dementia ka nkae a ɛtra hɔ bere tiaa, enti ebia ɔrenkae ampa sɛ wabisa anaa wate mmuae no. Mpɛn pii no, asɛmmisa no nso kura atenka bi, te sɛ awerɛhow a ɛfa nea ɛbɛba akyi ho anaa hia a ohia awerɛhyem. Sɛ wobua atenka no a, ɛtaa boa sen sɛ wobɛka nokwasɛm no bio."
+  - q: "Ɛsɛ sɛ meka kyerɛ no sɛ wabisa dedaw?"
+    a: "Dabi. Ɛrentumi mma no nkae, na ebetumi ayɛ te sɛ woteɛ no. Ahyehyɛde a ɛboa dementia mu nnipa hyɛ nyansa sɛ bua no komm bere biara, te sɛ nea ɛyɛ nea edi kan, na ma mmuae no nyɛ tiaa."
+  - q: "Sɛ mekyerɛw mmuae no to hɔ a, ɛboa?"
+    a: "Ebetumi aboa, bere tenten a onipa no da so tumi kenkan. Krataa, bɔɔd a wɔakyerɛw nnɛ nhyehyɛe so, dɔn kɛse anaa kalenda a esi baabi a ɔtaa hwɛ ma otumi hwɛ mmuae no n'ankasa. Kyerɛ no brɛoo sen sɛ wobɛka sɛ \"meka kyerɛɛ wo.\""
+  - q: "Bere bɛn na ɛsɛ sɛ meka nhyiam anaa akwantu ho asɛm?"
+    a: "Bere a abɛn. Sɛ woka oduruyɛfo nkyɛn kɔ anaa akwantu ho asɛm nna pii ansa na aba a, ebetumi adan nnɔnhwerew pii a asɛmmisa a awerɛhow wom wom. Ka kyerɛ no bere tiaa ansa na aba, komm so, na ka nea ɛbɛba akyi."
+  - q: "Bere bɛn na asɛmmisa a wobisa ntoatoaso kyerɛ sɛ ɛsɛ sɛ yɛfrɛ oduruyɛfo?"
+    a: "Sɛ asɛmmisa, adwene mu basabasa anaa suban sesa prɛko pɛ anaa ɛyɛ kɛse wɔ nnɔnhwerew anaa nna mu a, frɛ ne duruyɛfo ntɛm ara. Yare mmoawa, aduru foforo, yaw, yafunu mu kyere anaa nsu a ennu nipadua mu betumi de adwene mu basabasa a ɛba prɛko pɛ a wɔfrɛ no delirium aba, na ɛhwehwɛ hwɛ ntɛm."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+"Dɔn bɛn na yɛrekɔ oduruyɛfo hɔ?" Simma du akyi: "Dɔn bɛn na yɛrekɔ oduruyɛfo hɔ?" Sɛ wote asɛmmisa koro no ara ntoatoaso a, ɛyɛ nneɛma a ɛma adwuma yɛ den paa wɔ obi a ɔwɔ dementia ho hwɛ mu. Ɛtaa ba, wɔnyɛ no boapa, na akwan a ɛyɛ komm wɔ hɔ a wobɛfa so abua a ɛma da no yɛ mmerɛw ma mo baanu nyinaa.
 
-## Why does someone with dementia ask the same question over and over?
+## Adɛn nti na obi a ɔwɔ dementia bisa asɛmmisa koro ntoatoaso?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Nea ɛtaa de ba ne nkae. Dementia ka nkae a ɛtra hɔ bere tiaa, enti mpɛn pii no onipa no nkae sɛ wabisa, anaa ɔnkae mmuae no. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) ka sɛ asɛmmisa a wobisa mpɛn pii yɛ ade a ɛtaa ba na wɔhwɛ kwan.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Mpɛn pii no, asɛmmisa no nso kura atenka bi. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) kyerɛkyerɛ mu sɛ asɛmmisa a wɔbisa ntoatoaso betumi akyerɛ awerɛhow, mmoa a wɔrehwehwɛ, anaa adwennwen ne ahotoso a wonni, na mpɛn pii no nea onipa no rehwehwɛ ne awerɛkyekye ne biribi a ɔnim. "Bere bɛn na yɛrekɔ?" betumi akyerɛ ankasa sɛ "M'akomam ntɔ me wɔ kɔ no ho." Ɔhome, ehu, dede ne nsakrae wɔ da biara nhyehyɛe mu nyinaa betumi de aba, na asɛmmisa a wɔbisa ntoatoaso nso betumi akyerɛ hia bi, te sɛ tiafi mu kɔ ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Dɛn na ɛsɛ sɛ meka?
 
-Answer calmly and briefly, as if it were the first time.
+Bua no komm na tiawa, te sɛ nea ɛyɛ nea edi kan.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Ma mmuae no nyɛ tiaa na ɛnyɛ koro.** "Oduruyɛfo no wɔ hɔ dɔn abien. Mɛka wo ho." Mmuae a ɛyɛ koro no yɛ mmerɛw sɛ wobɛte ase.
+- **Bua atenka no.** "Woredwen oduruyɛfo no ho. Ɛyɛ anwummere yi, na mɛka kar de yɛn akɔ. Biribiara nni hɔ a ɛsɛ sɛ woyɛ."
+- **Fa nne a ɛyɛ dɛ ne nsa a wode ka no brɛoo di dwuma,** sɛ ɔpɛ saa. Alzheimer's Association hyɛ nyansa sɛ tena ase komm na mfa adwenkyerɛ anaa akasakasa mma.
+- **Ma mmuae a ɔrehwehwɛ no,** mpɛn dodow a ohia. Alzheimer's Association ka sɛ san ka no mpɛn dodow a obisa.
 
-## What should I avoid?
+## Dɛn na ɛsɛ sɛ mekwati?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **"Woabisa me saa dedaw."** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tu fo sɛ nyi n'adwene nkɔ so sɛ wabisa seesei ara. Ɛrentumi mma no nkae, na ebetumi ayɛ te sɛ wɔreteɛ no.
+- **Nkyerɛkyerɛmu tenten.** Nsɛm pii ma biribi pii wɔ hɔ a ɔbɛwere afi.
+- **Home a wugye denneennen, ani a wobɔ no bɔne anaa nne a ɛyɛ den.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) tu fo sɛ nya abotare na nkyerɛ sɛ wo bo afuw. Ɛyɛ den; hwɛ ɔfa a ɛfa ahomegye ho wɔ ase ha.
 
-## Simple tools that answer the question for you
+## Nneɛma a ɛyɛ mmerɛw a ebetumi abua asɛmmisa no ama wo
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Bere tenten a onipa no da so tumi kenkan no, mmuae a wɔakyerɛw a obetumi ahu taa boa sen nea wɔka.
 
-| Tool | How to use it |
+| Ade | Sɛnea wobɛde adi dwuma |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Krataa a nkyerɛwde akɛse wom | "Oduruyɛfo nnɛ dɔn 2 awia. Mary bɛka kar." Fa to baabi a ɔtaa hwɛ |
+| Bɔɔd a wɔkyerɛw so | Nnɛ nhyehyɛe wɔ nkyerɛwde abiɛsa anaa anan mu; popa na kyerɛw foforo anɔpa biara |
+| Dɔn kɛse a da ne ɛda no wɔ so | Ɛboa wɔ "Nnɛ yɛ da bɛn?" ne "Bere adu?" ho |
+| Kalenda | Twa da biara so; twa da a edi hɔ a wɔbɛkɔ no ho hyia |
+| Mfonini a wonim | Onipa a ɔreba no mfonini betumi abua "Hena na ɔrebɛsra yɛn?" |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Adwene yi fi [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) ne [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Kyerɛ krataa no brɛoo ("Momma yɛnhwɛ bɔɔd no bom") sen sɛ wobɛka sɛ "Mekyerɛw too hɔ maa wo."
 
-## Tell them about events close to the time
+## Ka dwumadi ho asɛm bere a abɛn
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Sɛ woka nhyiam anaa akwantu ho asɛm nna pii ansa na aba a, ebetumi adan nnɔnhwerew pii a asɛmmisa a awerɛhow wom wom. Family Caregiver Alliance ne Alzheimer's Los Angeles nyinaa hyɛ nyansa sɛ ka nhyehyɛe ho asɛm, titiriw nea ɛde adwennwen ba te sɛ oduruyɛfo nkyɛn kɔ anaa aguare, bere tiaa ansa na aba. Afei ka nea ɛbɛba akyi, anammɔn baako pɛ bere biara.
 
-## Activities that can shift attention
+## Dwumadi a ebetumi adan n'adwene akɔ baabi foforo
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Sɛ woabua na woahu atenka no a, dwumadi a ɛyɛ komm na ɛyɛ anigye betumi aboa, titiriw sɛ ɔhome na ɛde asɛmmisa no ba. Nhwɛso a ɛwɔ atifi hɔ nyinaa hyɛ nyansa sɛ dan n'adwene kɔ biribi a onipa no pɛ so.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Agodie tiaa a ɛyɛ mmerɛw a mobɛbɔ bom.** [Picture pairs](/games/picture-pairs/) ma mfonini no da so kyerɛ, enti enhia sɛ wɔkae biribiara.
+2. **Adwuma a onim.** Ntama a wɔbobɔ, sɔks a wɔhyehyɛ anaa pon a wɔto. [Sort together](/games/sort-together/) yɛ nea ɛte saa wɔ skrin so.
+3. **Ka biribi a ɔpɛ ho asɛm.** [Conversation cards](/games/conversation-cards/) de nsɛmmisa a ɛbue ma a mmuae pa biara nni hɔ.
+4. **Nnwom, nantew tiaa anaa aduan ketewa.** National Institute on Aging ka eyinom ho asɛm sɛ akwan a ɛyɛ mmerɛw a wɔfa so dan adwene.
+5. **Ahomegye a ɛyɛ komm.** Tena ase bom, hwɛ mfɛnsere no akyi, anaa mommɔ [calm breathing](/games/calm-breathing/) a ɛyɛ komm bom.
 
-If they return to the question, answer it again, kindly. That is fine.
+Sɛ ɔsan ba asɛmmisa no so a, san bua bio, ayamye mu. Ɛyɛ yiye.
 
-## Look for patterns
+## Hwɛ sɛnea nneɛma kɔ so
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association hyɛ nyansa sɛ hwɛ sɛ asɛmmisa no ba bere pɔtee bi wɔ da no mu, wɔ nnipa pɔtee bi ho anaa wɔ mmeae pɔtee bi anaa. Sɛ ɛtaa fi ase ansa na ahɔho aba, anaa anwummere no a, wubetumi ayɛ ho nhyehyɛe: krataa a ɛfa nsrahwɛ no ho, dwumadi a onim a asiesie, dan a ɛyɛ komm. Yɛn akwankyerɛ a ɛfa [dwumadi a ɛyɛ komm anwummere no](/caregiving/late-day-restlessness/) ho betumi aboa sɛ anwummere na ɛyɛ den paa.
 
-## Take care of yourself
+## Hwɛ wo ho so
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Sɛ wobua asɛmmisa koro no mpɛn aduonu a, ɛyɛ adwuma a ɛbrɛ. Sɛ wote nka sɛ w'abotare resa na onipa no wɔ ahobammɔ mu a, kɔ dan foforo mu simma kakra na home, sɛnea [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) hyɛ nyansa no. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) hyɛ wɔn a wɔhwɛ nnipa so nkuran sɛ wɔnhwehwɛ mmoa na wonsusuw ahomegye ho. Adwene foforo wɔ yɛn [akwankyerɛ a ɛfa wo ho hwɛ ho](/caregiving/caregiver-self-care/) mu.
 
-## When should I call a doctor?
+## Bere bɛn na ɛsɛ sɛ mefrɛ oduruyɛfo?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Frɛ ne duruyɛfo ntɛm ara sɛ asɛmmisa, adwene mu basabasa anaa suban sesa prɛko pɛ anaa ɛyɛ kɛse wɔ nnɔnhwerew anaa nna mu a. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ka sɛ suban a ɛsesa prɛko pɛ anaa ntɛm, titiriw akyi a yare mmoawa aba anaa aduru asesa, ɛsɛ sɛ wɔde kɔ oduruyɛfo anim ntɛm ara. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) kyerɛkyerɛ mu sɛ yare mmoawa, aduru, nsu a ennu nipadua mu, yaw anaa yafunu mu kyere betumi de delirium aba, ɛyɛ adwene mu basabasa a ɛba prɛko pɛ na emu yɛ den a ɛhwehwɛ ayaresa ntɛm. Frɛ 112 anaa wo man mu ahokyere nɔma sɛ obiara wɔ asiane mu a.

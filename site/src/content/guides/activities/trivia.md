@@ -1,6 +1,6 @@
 ---
 title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
+seoTitle: "Trivia Questions for Seniors with Dementia, With Answers"
 description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
 section: activities
 order: 19

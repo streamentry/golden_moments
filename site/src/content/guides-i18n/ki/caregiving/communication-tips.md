@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Ũrĩa Mũngĩaranĩria na Mũndũ Ũrĩ na Kĩharĩro kĩa Kwĩririkana"
+seoTitle: "Ũtaarani wa Kĩharĩro kĩa Kwĩririkana: Ũrĩa Mũngĩaria"
+description: "Njĩra cia kwaranĩria na mũndũ ũrĩa ũtũũraga na kĩharĩro kĩa kwĩririkana: ũrĩa wa kwĩhaarĩria, ũrĩa wa kuuga, na ũrĩa wa gũthikĩrĩria."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Aranĩriai handũ hatarĩ inegene, mũmwĩhũgĩre mũndũ ũcio, mũmũgwete na rĩĩtwa
+  rĩake, na mwarie kahora na ciugo nguhĩ na njũrũ. Ũriai kĩũria kĩmwe o hĩndĩ,
+  mũmũhe ũthuri wa maũndũ meerĩ handũ ha ciũria njariĩ, na mweterere ihinda
+  iraiha gũkĩra ũrĩa mũĩciiragia. Mũtigakararanie, mũtikamũrũngĩrie kana mũkamũgerie.
+  Cokiai ũhoro mũkĩrora maigua marĩa marĩ thĩinĩ wa ciugo ciake, na mũhũthĩre
+  kũhutania, mbica na mĩgarũrũko ya mwĩrĩ rĩrĩa ciugo irathiiha.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Ninĩriai inegene na mũgĩe na kũonania maitho na maitho mũtanambĩrĩria kwaria."
+  - "Hũthĩrai ciugo nguhĩ, rĩciria rĩmwe o hĩndĩ, na marĩĩtwa handũ ha 'we', 'ake' kana 'o'."
+  - "Heanai ũthuri wa maũndũ meerĩ, kana kĩũria kĩa 'ĩĩ' kana 'aca', handũ ha ciũria njariĩ."
+  - "Etererai macokio. Angĩkorwo ndarataũkĩrwo, cookereraiai ciugo o cio, mũcooke mũgerie ciugo ingĩ."
+  - "Mũtigakararanie kana mũkamũrũngĩrie. Cokiai ũhoro mũkĩrora maigua marĩa marĩ thĩinĩ wa ũrĩa ekuuga."
+  - "Rĩrĩa ciugo irathiiha, aranagĩriai na njĩra ya kũhutania, mũgambo, ithiithi cia ũthiũ na mbica iria mũrarora hamwe."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Nĩ maũndũ marĩkũ mũtagĩrĩirwo nĩ kuuga kũrĩ mũndũ ũrĩa ũrĩ na kĩharĩro kĩa kwĩririkana?"
+    a: "Girĩrĩriai kũmũgeria (\"Nĩũririkanaga...?\"), kũmũrũngĩria (\"Ũcio ti ũguo\"), kũmũririkania maũndũ marĩa orĩte (\"Nĩngwĩrire\") na kwaria ũhoro wake ta atarĩ ho. Girĩrĩriai kwaria ta mũrĩ na mwana. Maũndũ maya no matũme aconoke kana athĩĩnĩke hatarĩ ũteithio."
+  - q: "No mũhaka ndũngĩrie rĩrĩa ekwĩhia ũhoro?"
+    a: "Kaingĩ aca. Angĩkorwo ũhoro ũcio mũhĩtĩku ndũrĩ ũũru, ũtige ũthire. Gũkararania gũtiũaga gũcenjia meciiria ma mũndũ ũcio na no gũtũme arakara. Iganai na ũrĩa araigua na ũrĩa abataire ihinda rĩu."
+  - q: "Nĩngwĩka atĩa rĩrĩa angĩremwo nĩ kuona kiugo?"
+    a: "Amba mũmũhe ihinda. Angĩkorwo nĩarona thĩĩna, nĩ wega kũmũteithia na kiugo kahora kana gũtaurania ũrĩa ekwendaga kuuga na mũkebũrania. Kuonia na kĩara, mĩgarũrũko ya mwĩrĩ na mbica no iteithie."
+  - q: "Ingĩaranĩria atĩa na mũndũ ũrĩ itĩna rĩa kĩharĩro kĩa kwĩririkana ũrĩa ũtaragia kaingĩ?"
+    a: "Mũthiĩ mũromete mbere yake, mwĩyugie, na mũhũthĩre mũgambo mũhooreeru na kũhutania kwa ũhooreri. Rorai ithiithi cia ũthiũ na mwĩrĩ wake nĩguo mũmenye ũrĩa araigua. Gũkorwo ho kwanyu, rwĩmbo rwamenyeretwo kana kũnyiitana moko no kũrĩ ũhoro mũingĩ o na hatarĩ ciugo."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Kĩharĩro kĩa kwĩririkana no gĩtũme mũndũ aremwo nĩ kuona ciugo, kũrũmĩrĩra ciugo ndaaya, kana kwĩhitha inegene cia gĩcigo. Ũndũ ũcio ndũkuuga atĩ mũndũ ũcio ndacikwenda kũgĩa na ngwatanĩro na arĩa angĩ. Mĩgarũrũko mĩnini ya ũrĩa mũkwĩhaarĩria kwaranĩria, ũrĩa mũkwaria na ũrĩa mũgũthikĩrĩria no ĩtũme kwaranĩria gũkorwo kũhũthũ na kũhooreru kũrĩ inyuĩ eerĩ.
 
-## What are the most important tips for talking with someone who has dementia?
+## Nĩ mataaro marĩkũ ma bata ma kwaranĩria na mũndũ ũrĩ na kĩharĩro kĩa kwĩririkana?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Gĩa na ũrũmbũi wake, tũma maũndũ makorwo mahũthũ, na ũkorwo na wetereri. Ũngĩririkana maũndũ matano tu:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Hooreria nyũmba na ũmwĩhũgĩre.** Horia TV, ikara mũiganaine maitho, na ũmũgwete na rĩĩtwa rĩake.
+2. **Uga ũndũ ũmwe o hĩndĩ.** Ciugo nguhĩ, rĩciria rĩmwe, kĩũria kĩmwe.
+3. **Heana ũthuri wa maũndũ meerĩ.** “Cai kana kahũa?” nĩ ũhũthũ gũkĩra “Ũkwenda kĩ?”
+4. **Eterera.** Heana ihinda iraiha rĩa gũcokia gũkĩra ũrĩa wĩciiragia, na wĩrige gũtinia mĩario yake.
+5. **Ndũkanakararanie kana ũmũgerie.** Cokia ũhoro ũkĩrora ũrĩa araigua, no ti kana ũhoro nĩ wa ma.
 
-## How should I start a conversation?
+## Ingĩambĩrĩria atĩa kwaranĩria?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Haarĩria maũndũ nĩguo mũndũ ũcio ahote kwĩganĩra harĩ we. [Kĩbatabata kĩa Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gĩtaaraga kũambĩrĩria na kũnyiihia inegene: horia redio kana TV, hinga marigita kana mũrango, kana mũthiĩ handũ hatarĩ inegene.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Mũthiĩ mũromete mbere yake.** Gũthiĩ na thuutha kana mwena no kũmũmakie.
+- **Uga wee nĩwe ũ.** “Ũhoro waku Baba, nĩ niĩ Sarah, mwarĩ waku.” Ũndũ ũyũ nĩũmũteithagia ndakanoe gũcaria rĩĩtwa rĩaku.
+- **Ikara mũiganaine maitho.** Angĩkorwo nĩaikarĩte, ikara kana turia nĩguo maitho manyu maigane.
+- **Rora ithiithi cia ũthiũ waku na mũgambo waku.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ĩtaaraga kũmenya mũgambo waku, ũrĩa wa kwaria, ithiithi cia ũthiũ na mĩgarũrũko ya mwĩrĩ, na ũtuĩke wa ũrĩrĩ na wa kĩhooto.
+- **Tigĩrĩra atĩ nĩekĩrĩte ngirathi na indo cia gũigua.** Nĩ ũndũ ũritũ kũrũmĩrĩra mĩario ĩrĩa ndarona wega kana ndaraigua wega.
 
-## How should I phrase what I say?
+## Ingĩuga atĩa ũrĩa ngwenda kuuga?
 
-Use simple words, short sentences and a calm, low voice.
+Hũthĩra ciugo njũrũ, ciugo nguhĩ na mũgambo mũhooreeru na wa thĩ.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Rĩciria rĩmwe harĩ kiugo o kĩmwe.** “Reke twĩkĩre ikoti. Tũcooke tũthiĩ nja.” No ti ciothe hamwe.
+- **Hũthĩra marĩĩtwa, no ti ciugo cia gũcookanĩrĩria ta 'we' kana 'ake'.** “Tata Jean nĩahurire thimũ” nĩ gũtaũkĩka wega gũkĩra “Nĩahurire thimũ.”
+- **Ikia mũgambo thĩ, no ti na igũrũ mũno.** Family Caregiver Alliance ĩtaaraga kũhũthĩra mũgambo wa thĩ handũ ha kwanĩrĩra.
+- **Cookerera, ũcooke ũgarũre ciugo.** Angĩkorwo ndarataũkĩrwo, cookerera ciugo o cio rĩmwe. Ũngĩona ti ũguo, eterera kahinda ũcooke ũgerie ciugo ingĩ.
+- **Onia o na ũkĩaria.** Onia gĩkombe, ambararia macibati meerĩ, kana onania ĩkĩinya rĩa mbere.
+- **Aria nake, no ti ũmwarie.** NIA ĩkanaga na kwaria ũhoro wa mũndũ ũcio ta atarĩ ho, na kwaria ta mũrĩ na mwana.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ĩonanagia ciugo njũrũ cia ciũria cia mũthenya. Ici nĩ cionereria kũringana na ũtaaro ũcio:
 
-| Instead of | Try |
+| Handũ ha | Geria |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Ũkwenda kĩrĩa kĩrĩkũ kĩa hwainĩ?" | "Ũkwenda thamaki kana ngũkũ?" |
+| "Ũraigua atĩa?" | "Nĩũraigua ũnogete?" |
+| "Nĩũraigua ng'aragu?" | "Irio cia hwainĩ nĩigũkorwo iharĩirie thutha wa ndagĩka ithano." |
+| "Tiguo ũgwĩkaga ũguo." | "Reke tũgerie ũũ." |
+| "Nĩũririkanaga rũgendo rwitũ rwa iria?" | "Nĩndĩreciragia ũhoro wa rũgendo rwitũ rwa iria. Njĩĩra ũrĩa wendeete mũno igũrũ rĩaguo." |
+| "Nĩngwĩrire." | Cokia ũhoro rĩngĩ, na ũhooreri, ta nĩ rwa mbere. |
 
-## How do I listen well?
+## Ingĩthikĩrĩria atĩa wega?
 
-Listen for the meaning and the feeling, not just the words.
+Thikĩrĩria gĩtũmi na maigua, no ti ciugo tu.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Eterera.** Gũkira o rĩmwe nĩ ihinda rĩa gwĩciria. Tara nginya ikũmi kahora mbere ya kwinjĩra mĩario-inĩ.
+- **Mũhe kiugo tu angĩkorwo nĩanyagĩte.** Family Caregiver Alliance yugaga atĩ nĩ wega kũruta kiugo mũndũ angĩkorwo nĩarona thĩĩna.
+- **Tigĩrĩra ũrĩa ũiguĩte.** [Kĩbatabata kĩa Alzheimer's Association gĩa ũtaarani](https://www.alz.org/help-support/caregiving/daily-care/communications) gĩtaaraga gũcaria gĩtũmi kĩrĩa kĩrĩ thĩinĩ wa ciugo ciake na gũcokia ũhoro nĩguo ũmenye kana nĩũmũtaũkĩirwo. “Nĩũrĩ na mĩhang'o igũrũ rĩa ngari?”
+- **Rora ithiithi cia ũthiũ wake na mwĩrĩ wake.** Rĩrĩa kwaria gũgũkorwo kũritũ, NIA yugaga atĩ ithiithi cia ũthiũ no cionanie kĩeha, marakara kana kũmaka wega gũkĩra ciugo.
+- **Oya mĩhang'o yake na bata.** O na mĩhang'o ĩyo ĩkorwo yumĩte ũhoro-inĩ mũhĩtĩku, maigua macio nĩ ma ma.
 
-## What if they say something that is not true?
+## Angĩuga ũndũ ũtarĩ wa ma atĩa?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ndũkanakararanie. Ndũkũhoteka gũtooria, na mũndũ ũcio no arĩke aconokete kana etigĩre. Handũ ha ũguo, ngwatanĩra na maigua make, ũcooke ũgarũre mũario kahora.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance ĩtaaraga gwĩtĩkĩra maigua macio mbere ya kũgarũra mũario. Kwa mũhiano, maitũguo angĩrũrĩria atĩ no mũhaka athiĩ kuoya ciana cukuru:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Handũ ha: “Maitũ, ciana ciaku nĩ iria ikũrũ. Ũcio nĩ ũhoro wa mĩaka mĩrongo ĩna mĩhĩtũku.”
+- Geria: “Wee warĩ mũtumia wa ciana mũtugi mũno. Njĩĩra ũrĩa wamoyaga. Tũngĩamba kũrĩa kĩndũ gĩtambe?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association o nayo ĩtaaraga mũtigakararanie igũrũ rĩa maũndũ marĩa mũtiguĩkanĩte namo. Thuura ihinda: wĩtĩkio mũhĩtĩku ũngĩkorwo ũtarĩ ũũru, ũtige ũthire.
 
-## How does communication change as dementia progresses?
+## Ũtaarani ũcenjagia atĩa rĩrĩa kĩharĩro kĩa kwĩririkana gĩthiiaga na mbere?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Mabataro nĩmacenjagia na ihinda, nĩ ũndũ ũcio garũra njĩra yaku. Alzheimer's Association ĩtaaragia icunjĩ ithatũ cia ihinda:
 
-| Stage | What helps |
+| Icunjĩ | Ũrĩa ũngĩteithia |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Kĩambĩrĩria | Ndũgetuĩrie atĩ ndangĩhota kwaranĩria. Mũingĩrie mĩario-inĩ, aria nake we mwene, mũũrie ũteithio ũrĩkũ endaga, na mũhũthĩre itherũ angĩkorwo nĩikũmũteithia. |
+| Gatagatĩ | Mĩario ya mũndũ ũmwe na ũmwe handũ hatarĩ inegene. Aria kahora, mũikarage mũroranĩtie maitho, hũthĩra ciũria cia "ĩĩ" kana "aca", heana mataaro nginya nginya, na ndũkanamũrũithie kana ũmũrũngĩrie. |
+| Gĩcunjĩ kĩa mũthia | Mũthiĩ mũromete mbere yake na mwĩyugie. Mũkĩrĩrĩrie kuonia na kĩara na mĩgarũrũko ya mwĩrĩ. Hũthĩra kũhutania, mĩgambo, maũndũ marĩa monagwo na marĩa manungaga. Ndũkanarie ta atarĩ ho. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+O mũndũ nĩ mwanya, na mũndũ o ro ũcio no akorwo na mĩthenya mĩega na mĩritũ. Cokia ũhoro kũringana na ũrĩa arĩ ihinda rĩu, no ti kũringana na rĩĩtwa rĩa ũrũaru.
 
-## Can pictures and activities make conversation easier?
+## Mbica na maũndũ ma gwĩkwo hamwe no matũme kwaranĩria kũhũthe?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ĩĩ. Mbica ĩrĩa mũrarora hamwe nĩĩnyiihagia mĩhang'o na ĩkamũhe inyuĩ eerĩ kĩndũ gĩa kũrora na kuonia na kĩara.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Mbica cia kwambĩrĩria mĩario.** [Conversation Cards](/games/conversation-cards/) iheanaga mbica hamwe na ciũria njariĩ itamũgeragia.
+- **Mbica cia mũciĩ.** [Photo Pairs](/games/photo-pairs/) ĩgarũraga mbica iria mũthuurĩte ikatuĩka mũtugo mũhooreeru wa kũringithania, na kaingĩ ũndũ ũcio nĩũrehaga ng'ano.
+- **Mĩario ya mũtũũrĩre ĩmenyereku.** [Finish the Saying](/games/finish-the-saying/) ĩhũthagĩra mĩario ya mũtũũrĩre ĩmenyereku, ĩgacoka ĩkũrũmĩrĩrwo nĩ kĩũria gĩa kwambĩrĩria mĩario.
+- **Mĩtugo ya kũringithania mũrĩ hamwe.** [Picture Pairs](/games/picture-pairs/) ĩheanaga moko manyu kĩndũ gĩa gwĩka mũkĩaragia.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Rora [ũrĩa mũngĩtuga hamwe](/caregiving/how-to-play-together/) na [maũndũ ma kwĩririkania](/activities/reminiscence/) nĩguo ũmenye makĩria. Ha ũhoro wa gũceera na kũhũrana thimũ, thoma mĩtaratara iitũ ya [gũceera](/activities/visiting/) na [kũhũrana thimũ na video](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Ingĩaga wetereri atĩa?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Ũndũ ũcio nĩũkoragwo kũrĩ andũ othe. NIA ĩtaaraga atĩ ũngĩrakara, wĩhe ihinda rĩa kũhoorera. Thiĩ nyũmba ĩngĩ, hũma mĩhũmũ mĩhooreeru, ũcooke rĩrĩa ũngĩhota. No wambĩrĩrie kwaranĩria rĩngĩ, na mũndũ ũcio no acokie wega nĩ ũndũ wa ũhooreri waku. Ũngĩkorwo ũtarĩ na wetereri kaingĩ, nĩ kĩmenyithia atĩ nĩũbataire ũteithio makĩria, no ti atĩ nĩũraremwo. Mũtaratara witũ wa [kwĩmenyerera kwa mũmũmenyereri](/caregiving/caregiver-self-care/) ũrĩ na kũndũ ũngĩruta ũteithio.

@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Kaz tèt ak mo pou moun k ap viv ak demans"
+seoTitle: "Kaz tèt ak mo pou demans"
+description: "Kijan pou chwazi kaz tèt, jwèt mo ak jwèt sou entènèt pou yon moun k ap viv ak demans: gwosè moso, foto, gwo lèt, jwe ansanm, ak lè pou fè l pi senp."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Pi bon jwèt kaz tèt pou yon moun k ap viv ak demans se youn li ka fini ak
+  yon ti èd epi ki bay li plezi pandan l ap fè l. Chwazi kaz tèt ki gen mwens
+  moso, ki pi gwo, ak yon foto klè pou granmoun, kite foto sou bwat la vizib,
+  epi separe moso kwen yo an premye. Jwèt pou chèche mo ak mo kwaze pi bon lè
+  yo ekri an gwo lèt. Jwèt kaz tèt fasil sou entènèt ki gen kat moso ka bon pou
+  etap mwayen an. Kanpe pandan l ap amizan.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Chwazi selon jan sa ap pase, pa selon yon etikèt etap: si yon jwèt sanble difisil, eseye youn ki gen mwens moso."
+  - "Moso gwo epi solid ak yon foto klè ki gen zòn koulè byen distenk pi fasil pase ti moso ak anpil syèl."
+  - "Foto pou granmoun enpòtan. Jaden, kizin, machin ak bèt, pa desen anime."
+  - "Fè l ansanm se sa ki konte. Pase moso yo, separe kwen yo, epi kite kouvèti bwat la vizib."
+  - "Jwèt pou chèche mo an gwo lèt ak jwèt kaz tèt fasil sou entènèt ki gen 4 oswa 9 moso disponib gratis sou sit sa a."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Konbyen moso kaz tèt ki pi bon pou yon moun k ap viv ak demans?"
+    a: "Pa gen yon sèl bon kantite. Yon moun ki te konn fè kaz tèt 1 000 moso ka toujou pran plezi ak kèk santèn nan kòmansman, pandan lòt moun pi alèz ak yon douzèn moso gwo. Si yon jwèt sanble difisil oswa lakòz fristrasyon, pase nan mwens moso. Jwèt kaz tèt Foto nou an sou entènèt gen 4 oswa 9 moso."
+  - q: "Èske kaz tèt bon pou moun k ap viv ak demans?"
+    a: "Anpil moun pran plezi ak yo, sitou si yo te renmen jwèt sa yo anvan. Yon jwèt kaz tèt bay men yo yon bagay pou fè, yon objektif klè ak yon foto pou pale sou li. Pa gen okenn jwèt kaz tèt ki montre li trete oswa ralanti demans, kidonk chwazi yo pou plezi ak konpayi."
+  - q: "Kisa mwen ka fè lè yon moun pa ka jere yon kaz tèt ankò?"
+    a: "Fè l pi piti epi fè plis ladan l ou menm: pase yon sèl moso alafwa, oswa kite sèlman kèk dènye moso pou li. Eseye yon jwèt kaz tèt sou entènèt ak 4 moso, separe moso yo selon koulè, oswa tou senpleman gade foto ki fini an ansanm."
+  - q: "Èske mo kwaze ak jwèt pou chèche mo apwopriye pou demans?"
+    a: "Yo ka apwopriye nan etap bonè, an gwo lèt. Jwèt pou chèche mo ki gen mo sèlman ale adwat ak anba pi fasil pase sa ki gen mo an dyagonal oswa alenvès. Li endis yo oswa lis mo yo awotvwa epi travay sou li ansanm."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Yon kaz tèt ki etale sou tab manje a se youn nan aktivite ki pi fasil pou pataje. Ou ka chita ansanm san ou pa bezwen pale anpil, foto a ba ou yon bagay pou diskite, epi mete dènye moso a bay yon bon santiman. Jwèt kaz tèt bezwen chanje pandan demans ap chanje tou. Yon jwèt ki twò difisil ka fè yon apremidi trankil vin yon moman fristran. Paj sa a esplike kijan pou chwazi ak prepare kaz tèt, jwèt mo ak jwèt kaz tèt fasil sou entènèt, epi kisa pou fè lè yo vin difisil.
 
-## Are puzzles good for people with dementia?
+## Èske jwèt kaz tèt bon pou moun k ap viv ak demans?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Anpil moun pran plezi ak yo, sitou moun ki te konn fè jwèt sa yo anvan. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mete jwèt pou chèche mo, jwèt kat ak jwèt tablo pami aktivite pou etap bonè a, epi [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mansyone jwèt ak jwèt kaz tèt sou entènèt sou tablèt kòm yon fason pou rete aktif.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Jwèt kaz tèt pa yon tretman. Pa gen okenn jwèt kaz tèt ki montre li ralanti oswa kanpe demans; gid nou an sou [jwèt sèvo ak demans](/brain-health/brain-games/) eksplike rechèch la. Rezon pou fè yon jwèt kaz tèt se paske li ka ofri yon bon moman ansanm ki kenbe atansyon nou. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) rezime l konsa: konsantre sou plezi, pa sou rezilta.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kijan pou chwazi yon kaz tèt pou yon moun k ap viv ak demans?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Chwazi selon sa moun nan renmen ak jan dènye jwèt la te pase, pa selon yon etikèt etap.
 
-### Number of pieces
+### Kantite moso
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Pa gen yon kantite ki kòrèk. Yon moun ki te toujou renmen jwèt kaz tèt ka toujou pran plezi ak kèk santèn moso nan kòmansman, pandan yon lòt moun pi kontan ak yon douzèn. Yon règ pratik: si dènye jwèt la te sanble difisil, chwazi youn ki gen apeprè mwatye kantite moso yo. Si li te fini vit epi moun nan te vle plis, ogmante yon ti kras.
 
-### Piece size and feel
+### Gwosè ak kalite moso yo
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Moso ki pi gwo** pi fasil pou wè, pran epi vire.
+- **Moso epè epi solid** rete an plas epi yo ka sipòte si yo tonbe.
+- **Yon fini mat** diminye ekla anba lanp ak fenèt.
+- **Evite ti moso** si moun nan ka mete bagay nan bouch li, sa ki ka rive pi ta nan demans.
 
-### The picture
+### Foto a
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Sijè pou granmoun.** Jaden, kizin, machin ansyen, bèt nan fèm, yon vil bò lanmè, oswa yon espò moun nan renmen. Pa desen anime oswa anyen ki sanble ak yon jwèt timoun.
+- **Zòn koulè ki byen distenk.** Yon grang wouj, yon bato ble ak yon jaden vèt pi fasil pase yon syèl ki kouvri mwatye jwèt la.
+- **Abitye ak pèsonèl.** Yon foto yon kote moun nan te viv oswa yon pastan li te renmen ba ou anpil bagay pou pale sou yo. Gen kèk boutik enprime ki ka fè yon foto fanmi tounen yon kaz tèt.
 
-## How do you do a puzzle together?
+## Kijan pou fè yon jwèt kaz tèt ansanm?
 
-Set it up so the person can get straight to the enjoyable part.
+Prepare l pou moun nan ka ale dirèkteman nan pati ki pi agreyab la.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Chwazi yon bon kote.** Bon limyè, yon chèz ki gen bra, ak yon tab oswa plato kote jwèt la ka rete.
+2. **Mete kouvèti bwat la kanpe** kote nou tou de ka wè l.
+3. **Vire moso yo fas anlè** anvan nou kòmanse.
+4. **Separe moso kwen yo** ou menm, oswa fè tout bòdi a an premye epi kite mitan an pou li.
+5. **Gwoupe moso yo selon koulè** nan kèk plato oswa asyèt ki pa fon.
+6. **Pase yon sèl moso alafwa** si pil la twòp. "Mwen panse moso sa a se yon pati nan grang lan."
+7. **Pale sou foto a,** pa sou pwogrè a. "Sa sanble ak bato papa m te genyen an."
+8. **Kite l deyò.** Retounen sou li pandan plizyè jou. Pa gen prese.
+9. **Kanpe sou yon bon nòt,** apre yon moso antre, pandan l toujou agreyab.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) konseye ede moun nan kòmanse, veye siy fristrasyon, epi kite li tou senpleman gade si sa pi agreyab pou li. Gade ou mete moso yo epi montre kote youn ka ale se toujou yon fason pou patisipe.
 
-## Easy online puzzles
+## Jwèt kaz tèt fasil sou entènèt
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Yon jwèt kaz tèt sou tablèt gen kèk bon avantaj: pa gen moso ki pèdi, foto yo pi gwo epi yo ranpli ekran an, epi pa gen tab pou ranje.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[Kaz tèt foto](/games/picture-puzzle/) gratis nou an koupe yon foto an 4 oswa 9 moso. Tape sou de moso pou chanje plas yo jiskaske foto a konplè. Foto konplè a rete sou ekran an kòm yon gid, pa gen kontè tan, epi ou ka kanpe nenpòt ki lè. Kat moso ka bon pou anpil moun nan etap mwayen an lè gen yon moun bò kote yo.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Pou yon aktivite foto ki pi senp toujou, eseye [Jwenn menm foto a](/games/find-the-same/), kote ou tape sou foto ki matche ak sa ki anlè a, oswa [Triye ansanm](/games/sort-together/), kote foto yo ale nan panyè tankou kizin nan oswa jaden an.
 
-## Word puzzles: word searches and crosswords
+## Jwèt mo: chèche mo ak mo kwaze
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Jwèt mo ka bon pou moun ki te toujou renmen yo, anjeneral pi bonè nan demans.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Jwèt pou chèche mo an gwo lèt.** [Chèche mo](/games/word-search/) gratis nou an itilize gwo lèt ak sèlman kèk mo, ki ale adwat ak anba, janm an dyagonal oswa alenvès. Jwe l sou ekran oswa enprime li.
+- **Li lis la awotvwa.** Yon moun li yon mo, lòt la chèche li. Fè yon wonn sèlman sou premye lèt la se oke.
+- **Mo kwaze an gwo lèt** ki soti nan liv jwèt ka mache nan etap bonè. Li endis yo awotvwa, pataje plim nan epi ranpli repons yo ansanm. Mo kwaze ki fasil, sou yon tèm, pi bon pase sa ki konplike.
+- **Pale sou mo yo.** Mo "jaden" ka mennen nan dis minit konvèsasyon sou tomat.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Pou plis aktivite sou papye ak kijan pou enprime yo pou yo fasil pou wè ak kenbe, gade [aktivite demans gratis ou ka enprime](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Ki jwèt ki pi bon pou chak etap?
 
-Stages overlap, and good and hard days are normal.
+Etap yo melanje, epi bon jou ak jou ki pi difisil se bagay nòmal.
 
-| Stage | Puzzles that often fit | Your role |
+| Etap | Jwèt ki souvan bon | Wòl ou |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Bonè | Kaz tèt abitye ak mwens moso pase anvan, mo kwaze ak jwèt pou chèche mo an gwo lèt, jwèt sou entènèt ak 9 moso | Patnè: kite yo chwazi, ede lè yo mande |
+| Mwayen | Kaz tèt ak apeprè yon douzèn moso gwo, jwèt sou entènèt ak 4 moso, jwèt pou chèche mo li awotvwa ansanm | Prepare, separe moso yo, pase yon sèl moso alafwa |
+| Pita | Gade yon foto fini ansanm, Jwenn menm foto a ak de foto, manyen kèk moso gwo | Pote aktivite a ba yo; prezans ou se aktivite a |
 
-## When should you make a puzzle easier, or stop?
+## Kilè pou fè yon jwèt pi fasil, oswa kanpe?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Veye siy tankou soupi, pouse moso yo sou kote, repete "mwen pa kapab" oswa gade ki montre enkyetid. Sa yo se siy pou chanje yon bagay, pa pou pouse pi lwen.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Fè l pi piti.** Mwens moso, oswa kite sèlman kèk dènye moso yo pou li.
+- **Fè plis ladan l ou menm** epi envite moun nan ede ak pati ki pi fasil yo.
+- **Chanje pou yon lòt bagay ki tou pre:** separe moso yo selon koulè, yon jwèt sou entènèt ak 4 moso, oswa [koloryaj](/games/coloring/).
+- **Kanpe.** Mete l sou kote epi pran yon tas te. Ou ka retounen sou li yon lòt jou, oswa pa ditou.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Si jwèt kaz tèt kòmanse vin tankou yon rapèl sou sa ki difisil, li oke pou kite yo. Gen anpil lòt fason pou pase bon moman ansanm; [101 lide aktivite](/activities/ideas/) nou an se yon bon kote pou gade.

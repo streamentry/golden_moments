@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Penaos dibab arloù ha c'hoarioù evit dementia"
+seoTitle: "Dibab arloù ha c'hoarioù evit dementia: ur roll-gwiriañ"
+description: "Ur roll-gwiriañ evit dibab arloù ha c'hoarioù evit dementia: kregiñ gant ho c'hoant, skarzhañ an amzerioù ha gwiriñ ar prevezded."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Kregit gant an dra a fell deoc'h e vefe graet gant an arload: stlakadur,
+  soñj kent, lonkadenn pe darempred. Dibabit neuze unan a glot gant
+  gallouedigezh an den bremañ, gant skeudennoù bras, hep amzerioù, hep
+  skorioù na reklamoù, ha gant un doare aes evit paouez. Gwiriit ar roadennoù
+  a zastum ha penaos e c'hallit o diverkañ. Bezit diskred gant ar pretensioù
+  e kemer an arload a-enep dementia pe a vez gwelloc'h anezhi; un enklask
+  nemetken n'eo ket ur brouenn.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Diferit an dra a fell deoc'h da gentañ: stlakadur, soñj kent, lonkadenn pe darempred a c'houlenn arloù disheñvel."
+  - "Mirit gallouedigezh an den an deiz-se, ha n'eo ket ul live pe ur c'hamm e gwirion; dalc'hit an kontrolloù simpl."
+  - "Skarzhit an arloù gant amzerioù, skorioù, bevded, reklamoù pe bedoù prenañ."
+  - "Gwiriit ar roadennoù a vez dastumet, rannet ha diverket. HIPAA n'a ket da govat arloù ingal fetet nemetken."
+  - "Bezit diskred gant ar lavarioù « a harz ouzh dementia ». Un enklask pe skorioù gwelloc'h en arload n'eo ket ur brouenn."
+  - "Golden Moments a zo un ober-amzer dudius. N'eus ket a bretoù klinikel enni."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Ha c'hall c'hoarioù soñj harpiñ da harzañ dementia?"
+    a: "N'eus ket a bruv mat e kav e c'hall arloù c'hoarioù soñj komersiel harzañ pe lakaat dementia da vont dreist. Kont a ra ar National Institute on Aging n'eus ket a bruv a-walc'h e c'hall an arloù c'hoarioù soñj a werzher bezañ evel ar c'hentelioù kempenn testet en ur studi bras. Dibabit arloù evit al laouenidigezh hag an darempred, ha n'eo ket evel meziant."
+  - q: "Ha HIPAA a gemer e kont an arloù dementia?"
+    a: "Ne gemer ket, alies. HIPAA a dalvez da vare d'an dud a ro arsell, d'an dresadurioù yec'hed ha d'o c'hevredidi busnes. Un arload pellgargiñ ho pezh deoc'h-hoc'h-unan n'eo ket gwarezet gant HIPAA, marteze, mar n'eo ket roet gant unan eus ar re-se. Lezenn Disklêriañ an Torfedoù Yec'hed eus an FTC a gemer e kont kalz arloù yec'hed na vez ket gwarezet gant HIPAA."
+  - q: "Penaos e tle bezañ ur c'hoari dementia mat?"
+    a: "Skeudennoù ha testennoù bras ha sklaer, un dra nemetken da reiñ dorn ar wech, hep amzer na skor, hep sonerezh a-enep fazioù, hep reklamoù, ha ur doare aes evit paouez pe sachañ. Dlefe bezañ graet evit oadourien ha bezañ aes ur re all da zont enni."
+  - q: "Ha Golden Moments a lavar e harp ar soñj?"
+    a: "Ket. Golden Moments a ro ober-amzer simpl a-unan-stroll evit al laouenidigezh hag ar gaozeadenn. Ne ziagnostik, ne dispign, ne harz ha ne muziñ ket dementia, ha n'eus ket a lavarioù diwar-benn ar soñj pe ar spered."
+  - q: "Ha paeañ a rankan evit un arload dementia?"
+    a: "Klaskit an dibaboù dieub pe an arnevezhioù dieub a-raok, ha gwelit penaos e reizh an den a-hed un nebeud sizhunioù. Paeañ evit un arload na ra ket anezhañ efedusoc'h. Gwiriit penaos e c'hallit nullañ ar c'houmanant a-raok ma koumanantit."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+El lec'hioù arload e vez kavet arloù bet lakaet evit tud kozh, evit ar soñj pe evit dementia. Un nebeud anezho a zo graet gant evezh. Re all a ginnig pretensioù medisinel, amzerioù a laka ar c'hoari da vezañ un test, pe reklamoù ha dastum roadennoù. Ar bajenn-mañ a ro deoc'h ur mod da barnañ an arload pe an arload-mañ-just. Ne rankomp ket ur renkad na ur c'hannad diwar-benn produioù all.
 
-## What should I decide before choosing a dementia app?
+## Petra a zo ret deoc'h soñjal a-raok dibab un arload evit dementia?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Dibabit petra a fell deoc'h e reizh an arload. "Ur c'hoari evit ma mamm" a c'hall kaout disheñvel a zonnoù, hag an dibab gwellañ evit ur pal a zo alies un dibab fall evit ur pal all.
 
-| Goal | What it looks like | What to look for |
+| Pal | Penaos e c'hoarvez | Petra zo da welet |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Stlakadur dis | Kemmañ, lakaat e renk, pozelloù simpl, c'hoarioù gerioù | Diferañs a c'hallit kemmañ, skeudennoù a chom gwelus, hep gwask a amzer |
+| Soñj kent | Skeudennoù koshoc'h, lavarioù anavezet, sonerezh eus o yaouankiz | Ho skeudennoù deoc'h-hoc'h, goulennoù digor, hep goulennoù kwiz |
+| Kalm | Gwelusterioù araok-ha-diaraok, sonioù tawel, anaoudegezh, natur | Aes kregiñ ha paouez, netra a flapus, hep taolioù dic'hortoz |
+| Darempred | C'hoari pe gaozeal asambles, a-enep pe dre video | Graet evit daou den, goulennoù evit ar gaozeadenn |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Ar studioù war an "stlakadur soñj" kempenn evit tud gant dementia a sell ouzh ar strolladoù gant tud deskadet, gant kaozeadennoù, c'hoarioù gerioù, pozelloù, sonerezh ha oberiantizoù krouidi. Ur [roll Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) a gavas tamm mad bihan war an dro, disheñvel etre ar studioù. Ar programm kevredel ha liesseurt-se n'eo ket heñvel ouzh un arload un-unan, neuze gwelit pep arload evel unan eus an oberioù a rannan kalz.
 
-## How do I know if an app fits the person's abilities?
+## Penaos e anavezan ma'z eo an arload mat evit gallouedigezh an den?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Gwelit penaos e respont, nemet na dalc'hit ket outo diwar un diagnostik pe ur renk. Daou den "e heñvel renk" a c'hall bezañ disheñvel-tre e welet, e c'hlev, e c'helc'h dorn, e yezh ha e vennozh gant ar skrinioù. Kinnig a ra an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) miret e soñj ar c'hoarioù kent hag ar gallouedigezh a-vremañ, ha ganañ ar laouenidigezh nemet ar gwellaat.
 
-Signs of a good fit:
+Arwerioù un dibab mat:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- en em gregiñ pe en em ouzhpennañ hep kalz a bedadennoù;
+- ri pe kaozeal pe kontañ ur istor;
+- ne vez ket fazioù o tisplijout;
+- laouen eo pa vez amzer paouez.
 
-Signs it is a poor fit:
+Arwerioù un dibab fall:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- "Ne c'hallan ket" pe "dibaot eo" a zo ouzh ober alies;
+- kemer bec'h war petra da stlakañ;
+- kounnar, kreizder pe lakaat ar mekanik kuit;
+- ne dremen nemet mar ober ac'hanoc'h bron an holl.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Ur bec'h a zo ur sinadenn, n'eo ket un dra da dreiñ dreist. Gwelet [petra ober pa lavar ec'h eo nann](/caregiving/when-they-say-no/). Evit kinnigoù renk a-ziavaez an arloù, gwelet an [oberiantizoù kentañ-renk](/activities/early-stage/) ha an [oberiantizoù diwezhañ-renk](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Petra zo da glask pe da skarzhañ e design an arload?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Glaskit un design kalm, simpl ha evit tud a oad, ha skarzhit tra ebet a lak pouezadur.
 
-| Look for | Be wary of |
+| Glaskit | Bezit diskred gant |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Skeudennoù ha testennoù bras, kontrast uhel | Bihanaj bihan, skramm a skeudennoù |
+| Un ober sklaer war ur skramm | Bouezelioù, dibaboù pe kontrolloù kalz a gamou |
+| Hep amzer, pe un amzer a c'hallit distapañ | Kontadennoù, bonusoù buan, "trec'h war ho amzer" |
+| Hep skor, pe kemennoù tener | Pointoù, buhezioù, streakoù, rakgredennoù, "oad an soñj" |
+| Fazioù mollet, dre netra | Son-kanol, markoù X ruz, kemennadennoù "Fazi" |
+| Skeudennoù oadourien, eus ar bed gwir | Danvezioù bugel pe bugel-sonj |
+| Labour hep línea, netra a rank bezañ kontet da gentañ | Rekis enrollañ, kevreañ pe pellgargiñ danvezioù a-raok |
+| Paouez hag arsav aes | Kemennadennoù pop-up o c'houlenn kenderc'hel ar c'hoari pe rannañ an arload |
+| Hep reklamoù, ur prizh klar ur wech pe war-lerc'h | Reklamoù, boest-lot, kemennadennoù prenañ alies |
+| Aes evit un eil den da zont enni | Hepken unan a c'hoari, design a gaoter |
 
-Ads and purchase prompts are easy to tap by accident.
+Reklamoù ha kemennadennoù prenañ a vez tapet dre fazi aes.
 
-## How do I check an app's privacy?
+## Penaos e wiriin prevezded un arload?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Gwiriit petra zastum an arload, da bet e rann, ha ma c'hallit e diverkañ. A-raok staliañ:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Lennit berradenn prevezded an arload.** [Rann Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) Google Play hag [titouroù prevezded](https://support.apple.com/en-us/102399) an App Store a ziskouez ar seurtoù roadennoù a c'hall an arload dastum ha rannañ. Lavarout a ra an daou embregerezh e reizh ar c'hrouerien ar titouroù-se ho-unan, neuze un deryenn a zo, n'eo ket un enklask.
+2. **Goulennit ma ret ur gont.** Ma ne ziskouez an arload nemet skeudennoù pe c'hoarioù simpl, marteze n'eo ket ret dezhañ gouzout ho anv, ho postel pe ho deiz-ganedigezh.
+3. **Gwiriit an aotreoù.** Ur c'hoari heñvelder a rank gwir gouzout ho lec'h, ho kontoù, ho mikrofon pe ho levr-skeudennoù a-bezh? Diveskit an holl a n'eo ket ret dezhañ.
+4. **Sellit ouzh ar reklamoù ha ouzh an analizoù.** Ostilhoù reklamiñ hag heuliañ a c'hall kas roadennoù diwar-benn penaos e vez implijet an arload da embregerezhioù all.
+5. **Gouzout pelec'h e vont ar skeudennoù.** Ma ouzhpennit skeudennoù tud ho familh, ha chom a reont war an dermenell pe e vont d'ur servijer? Ha c'hallit ho dilemel?
+6. **Gwiriit an diverkañ.** Sellit en politikerezh prevezded pe er berradenn roadennoù penaos e vez diverket roadennoù ha ar gont. Un arload a lavar n'eus ket a c'hallout diverkañ roadennoù a zo da vezañ fiziet dezhañ dreist-holl ma tal skeudennoù pe titouroù yec'hed.
+7. **Lennit politikerezh ar prevezded** evit respontoù sklaer diwar-benn petra vez dastumet, perak, da bet, ha gant piv e vez rannet.
 
-### Does HIPAA protect information in dementia apps?
+### Ha HIPAA a warez titouroù en arloù dementia?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Alies ne warez ket, ha se a zisoursi kalz tud. Lavarout a ra Departamant ar Gwellvezioù Yec'hed ha Servijoù Mab-den an Stadoù-Unanet e [sell](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) e talvez HIPAA d'ar c'hevredadoù yec'hed, d'ar pleustrerien yec'hed ha d'o c'hevredidi busnes. Peurvuiañ ne ziwall ket ar roadennoù a ensoc'hit en un arload evit ho implij personel, nemet ma'z eus bet roet an arload gant ur vakerien dle ober kont an hini a gustum pe e c'hevredidi busnes. Ur "arload dementia" eus ar c'hastell arloù a chom alies er-maez HIPAA, hyd ma en deus tra ebet d'ober gant ar yec'hed.
 
-### What protects health data in apps that HIPAA does not cover?
+### Petra a warez ar yec'hed en arloù na gav ket HIPAA ouzh-se?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Lezenn Disklêriañ an Torfedoù Yec'hed eus ar Federal Trade Commission (FTC) a warez kalz anezho. Da vare 2024 e [lakaas](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ar FTC chadennoù e-kerzh evit displegañ e kav al lezenn ouzh an arloù yec'hed hag an teknologioù a-hevelep na vez ket kovet gant HIPAA. Un "torfed" a zo ivez an diskouezadennoù diaotreet, n'eo ket hepken ar hac'hadegoù, ha rankout a ra ar c'hompagnioù kelaouiñ an dud a vez touchet hag ar FTC. Ur rouedad sikour eo se goude ma vez graet ur fazi, n'eo ket ur gwir a addeuz an arload dastum nemet ar pezh a zo ret dezhañ.
 
-## How should I read claims about research and evidence?
+## Penaos e tlefen lenn pretensioù war an enklaskoù hag an testenioù?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Lennit ar pretensioù war an testenioù keit ha keit, ha bezit diskred dreist-holl gant ar promesoù brasañ. Kementlec'h a c'houlennoù da c'houlenn:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Petra a oa bet studiet da bennak?** Ur studi war ur programm stlakadur n'diskouez ket e vez labouret ar memes doare gant pep c'hoari en un arload.
+- **Piv a oa bet studiet?** Disoc'h an dud kozh yec'h ha iac'h n'int ket da vezañ talvoudus evit tud a vev gant dementia.
+- **Petra a oa bet muzuliet?** Gwellaat war ar c'hoari e-unan a zo disheñvel diouzh cheñchamantoù er bloavezh, er gaozeadenn, er c'hoant pe er gwir a-zoare.
+- **Pegen kreñv eo ar studi?** Ur RCT (trial kontroll gant dibab dre zegemer) a deuh a-enep ur strolladenn a implij an arload gant ur strolladenn n'implij ket. Un design mat eo, met ur RCT bihan pe berr n'eo ket ur brouenn. Klaskit meur a studi, gant enklaskerien dieub, a glot gant an eil egile.
+- **Ha kemm ar gwir kleñved a bretend?** Ur studi a ziskouez gwellioù bihan war ur testenn n'eo ket un testenn a ziskouez e harz, e harz pe e skoa dementia an arload.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Pajenn National Institute on Aging diwar-benn [ieched ar soñj hag an oadourien](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) a zeskrif ur studi bras NIH war stlakadur soñj strukturet, hag a c'hourdrouz goude diwar-benn an arloù c'hoarioù kompiuter pe enlinenn a bretend gwellaat ar c'hof hag ar spered. Lavarout a ra n'eus ket c'hoazh a bruv a-walc'h e vefe an arloù c'hoarioù soñj a werzher, evel an trenadur testet en ur studi-se. Gallout a rit lenn muioc'h en hor c'hentel diwar-benn [ar c'hoarioù soñj hag ar testenioù](/brain-health/brain-games/) hag [petra a ziskouez an enklaskoù diwar-benn harzañ dementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Un ehanaad publik eus ul lavar fall?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+E Genver 2016 e [embannas](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ar FTC un ambroug gant krouerien Lumosity, ur programm "stlakadur ar spered". Lavarout a rae ar FTC e lavare ar c'hompagnunezh, hep testenioù lun, e c'hallfe ar c'hoariioù harzañ ar gwanadur soñj a zeu gant an oad, hag e tiwanfe rak ar c'hontelezh soñj yalc'hus, dementia ha Alzheimer. Ar c'hompagnunezh a asantas paeañ 2 milion a zolarioù hag a rank bezañ en he zouez testenioù skiantel talvoudus ha fiziet a-raok lavarout kement-se en amzer da zont. Ar gaz-se a ginnig un disoc'h a-zoare: ne vez ket testenioù gant ar gerioù reklamiñ.
 
-### Which words are red flags?
+### Pe gerioù a zo arwerioù ruz?
 
-Be cautious when an app or ad says it:
+Bezit diskred pa lavar un arload pe ur reklam emañ:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- e "harz", e "skoa", e "lakaat da c'hortoz" pe e "gwareziñ" dementia pe Alzheimer;
+- e vez "lakaet kentoc'h da vezañ" hep anavezout ar studi, piv a oa ynet ennañ, ha petra a oa muzuliet;
+- e roir un "oad ar soñj" pe un skor c'hof a laka da soñjal ur diagnostik;
+- e "frammo", e "sklêrijenn" pe e "dresko" ar spered;
+- e implij testoù tesmoniañs evel testenn.
 
-If you are unsure about a claim, ask the person's doctor.
+Ma n'oc'h ket sur eus ur pretension, goulennit doktor an den.
 
-## Where does Golden Moments fit?
+## Pelec'h emañ Golden Moments ennañ?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments a ro oberiantizoù simpl a-unan-stroll, n'eo ket ur brouenn kof, na ur ploud, na kuzulennoù medisinel. Hor c'hoarioù, evel [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ha [Calm Breathing](/games/calm-breathing/), a zo graet evit al laouenidigezh hag ar gaozeadenn. Ne ziagnostikomp, ne dispignomp, ne harzomp ha ne muzuliomp ket dementia, ha n'eus ket a lavarioù diwar-benn ar soñj pe ar spered.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Ni a laka ivez un arload digoust, [Golden Moments evit iPhone, iPad ha Android](/app/). Gant an arload-se e c'haller ober gant skeudennoù bras, c'hoarioù gant skeudennoù tud ho familh a zibabit, ha pakadoù skeudennoù a labour hep línea, hep kont, hep reklamoù, hep amzer na skor. An holl dra ar gerioù a dalvez, ma'z eo ar memes: e label prevezded an App Store a lenn "Data Not Collected", hag [politikerezh prevezded an arload](/app-privacy/) a ziskouez pelec'h emañ enrollet lodennoù ar skeudennoù.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Gwelloc'h a garfemp ma barnfec'h ac'hanomp eget ma feizfec'h ennomp. Implijit roll-gwiriañ ar bajenn-mañ, lenn hor [pajenn prevezded](/privacy/) ha hor [diskleriadenn medisinel](/medical-disclaimer/), ha paouezit da implijout an dra bennak, ha kement-se a zo ivez hor pezh ni, ma ne glot ket gant an den a rit soursi outañ.
 
-## What is a sensible way to try a new app?
+## Petra a zo un doare fur da glask un arload nevez?
 
-Try it together for a couple of weeks and watch what happens.
+Klaskit en-unan-stroll a-zevezh pe daou-zevezh ha sellit petra a c'hoarvez.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Kempenn kentañ** dre ar [skor staliañ tablezenn ha pellgomzer](/caregiving/tablets-and-screens/), ha kregiñ gant an donder hañval.
+2. **Miret an amzerioù berr,** sellit ouzh ar c'hoarzhadennoù, ar gaozeadenn ha ar peoc'h, ha bezit serret gant ur mare fur.
+3. **Lezit anezhañ ma kaver ennañ kounnar,** pe pegen uhel ma vez rentet.

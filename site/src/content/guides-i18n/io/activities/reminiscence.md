@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Reminisko-aktivesi: Memor-kaxeti, viv-historii e fotii"
+seoTitle: "Reminisko-aktivesi por dementezeso: ideoi sen quizo"
+description: "Quale partigar memoraji kun ulu vivant kun dementezeso sen quizar: fotoparolo, memor-kaxeti e viv-historia libri, kun frazi qui mantenas la atmosfero relaxa."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Reminisko signifas gaudar la pasinto kune per fotii, objekti, muziko e
+  historii. Facesez memor-kaxeto, konstruktesez simpla viv-historia libro, o
+  regardesez fotii flanke ad flanko. Nulatempe quizigez: omisez "Memoras vu
+  ico?" e "Qua esas ica?" e uzesez invituri apertita quale "Rakontez a me pri
+  ica dio." Varma konverso importantas plu kam obtenar la fakti korekta.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Reminisko esas konverso, ne provo. Exakteco ne importantas; la joyo esas la kozo."
+  - "Remplasez 'Memoras vu...?' e 'Qua esas ica?' per komentarii e invituri quale 'Rakontez a me pri ica dio.'"
+  - "Memor-kaxeto plena de objekti ek la vivo dil persono donas al manui e al konverso kozo por tenar."
+  - "Viv-historia libro helpas familio, vizitanti e zorgisti konocar la persono, ne nur la diagnoso."
+  - "Se memoro igas trista, konsolesez unue e transiresez dolce a altra kozo."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Quo esas reminisko por personi vivant kun dementezeso?"
+    a: "Reminisko esas partigar memoraji e pasinta experienci, ofte kun helpo di fotii, objekti, muziko o videi. Ol povas eventar duope o en grupo. La skopo esas agrabla e signifikanta konverso, ne probar quo la persono povas memorar."
+  - q: "Pro quo me ne devas demandar 'Memoras vu?'"
+    a: "Demandi qui provas la memo povas igar la persono sentir su embarasata o anxioza kande la respondo ne venas. La National Institute on Aging listigas demandar kad la persono memoras ulo o ulu inter la kozi por evitar. Vice demando, komentesez quo vu vidas, e lasez la persono adjuntar quo il o el volas."
+  - q: "Quon me devas metar en memor-kaxeto?"
+    a: "Selektesez sekura e fortika objekti ligita a la vivo dil persono: labor-objekti, hobby-ekipuro, favorata stolo, postkarti, recept-karti, sporta suveniri o kopii di fotii. Evitesez akuta objekti, mikra objekti qui povus esar glutita, e nechanjebla originali."
+  - q: "Quo eventas se li eroras pri fakti?"
+    a: "Lasez olu esar. Se vua matro dicas ke la foto montras elua fratino kande ol esas elua kuzino, ico esas oke. Korektar igas varma momento esar provo. Sekwesez la rakonto quan la persono narras e gaudesez olu kune."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Reminisko simple signifikas gaudar la pasinto kune. Por multa personi vivant kun dementezeso, memoraji de dekadi ante esas plu klara kam to quo eventis ca matino. Fotii, familiara objekti, muziko e historii povas apertar ica memoraji e donar vu ulo varma por partigar. La sola regulo: ol esas konverso, nula quizo.
 
-## What is reminiscence, and how is it different from quizzing?
+## Quo esas reminisko, e quale ol diferas de quizar?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Reminisko esas partigar memoraji per fotii, objekti, muziko o video, segun la propra ritmo dil persono. La [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) deskriptas ol quale partigo di pasinta experienci e historii kun helpo di fotii, objekti, videi o muziko, en libro o sur tableto. Quizar esas diferanta: ol demandas ke la persono donas korekta respondo, e ico povas igar embaraso vice joyo.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) listigas demandar a persono kad il o el memoras ulo o ulu inter la kozi por evitar. La [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sugestas evitar demandi qui reliesas sur kurta-memoro e parolar vice pri la plu fora pasinto.
 
-| Instead of | Try |
+| Vice | Provar |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| "Memoras vu ica?" | "Ica aspektas quale agrabla dio. Rakontez a me pri olu." |
+| "Qua esas ica?" | "Yen Onklino Roza che la plajo. Regardez ica chapelo." |
+| "En qua yaro ica eventis?" | "Ica aspektas quale la olda domo. Quale esis vivar ibe?" |
+| "No, ne Bil esas, Frank esas." | "Il aspektas tre amuzanta." |
+| "Vu ja rakontis ico a me." | "Me tre amas ica rakonto." |
 
-## How do you talk about photos without quizzing?
+## Quale vu povas parolar pri fotii sen quizar?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Komencez per to quo vu vidas, e lasez loko por ke la persono adjunte ulo se il o el volas.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Sidesesez flanke ad flanko.** Tenez la albumo inter vu du por ke vu regardez kune, ne quizez de trans la tablo.
+2. **Selektesez kelka fotii.** Kin bona fotii esas plu bon kam tota kaxeto. Granda e klara printaji funcionas maxim bone.
+3. **Nomez la personi ipsa.** "Yen vu e Pa sur vua matrimonio-dio" forigas la presuro.
+4. **Komentesez detali.** Vestaro, automobili, manjo, vetero, vizi. "Quanta auto. Ol aspektas tre brilanta."
+5. **Invitez, ne postulez.** "Rakontez a me pri..." o "Quo vu remarcas?" Silento esas oke.
+6. **Sekwesez lia conduko.** Se el o il parolas pri tote diferanta kozo, sekwesez olu.
+7. **Finigez kande ol ankore esas agrabla.** Klausez la albumo ante ke fatigesko venas.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Por pronta fotala sugesti, provez [konverso-karti](/games/conversation-cards/). Por transformar vua propra familiala fotii en dolca ludeto di matchado, provez [fotala pari](/games/photo-pairs/); la fotii quan vu selektas restas en vua ret-navigilo.
 
-## How do you make a memory box?
+## Quale facar memor-kaxeto?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Memor-kaxeto esas kontenilo plena de objekti ek la vivo dil persono, por manuar e parolar pri li.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Selektesez fortika kaxeto** qui esas facila por apertar, quale shuo-kaxeto, chapelo-kaxeto o mikra ligna kofro.
+2. **Selektesez temo o miksajo.** Laboro, hobbyo, loko, decenio, o poka de omno.
+3. **Kolektez sekura objekti.** Kin til deka objekti esas suficha por komencar.
+4. **Uzez kopii di chera kozi.** Kopiez nechanjebla fotii e dokumenti e konservez la originali sekure.
+5. **Prenez objekti un pe un.** Donez un, dizez ulo pri olu, e lasez la parolo sequar sua voyo.
 
-Ideas to include:
+Idei por inkluzar:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Laboro:** nomo-insigno, mikra utensilo, uniforma peco, kontolibro, infermista insigno, receptlibro de restoracio.
+- **Domo:** recept-karto kun sua skriburo, buŝ-tuko, favorata stolo o kravato.
+- **Hobbyi:** fish-kaptilo sen hoko, basbalo, faden-bulo, semo-paketo.
+- **Loki:** postkarti, mapi, turisma suveniro, gazeto-trancho ek sua hemloko.
+- **Familio:** kopii di fotii, desegno di infanto, invitilo por matrimonio.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Omitesez akuta objekti, mikra objekti qui povus esar glutita, o ulo quo povus igar dolora memoraji, eceptu se vu savas ke ol esas deseata.
 
-## How do you make a life-story book?
+## Quale facar viv-historia libro?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Viv-historia libro esas simpla albumo di fotii e kurta titulo pri la vivo dil persono. Ol esas por regardar kune, e ol helpas vizitanti e zorgisti vidar la tota persono.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Selektesez formato.** Ringolibro kun folio-protektivi, imprimita fotolibro, o diaporamo sur tableto.
+2. **Planifiez kelka sekcioni.** Infanteso, skolo, laboro, familio, loki ibe vivis, fido, hobbyi, favorata manji e muziko.
+3. **Adjuntez un o du fotii per pagino** kun kurta titulo en granda literi: "Maria, 22 yari, komencanta laborar che la banko."
+4. **Inkluzez amoji e rutinaji.** "Trinkas kafon kun lakto. Amat dominikala himni. Ne amas lauta televiziono." Ico helpas omna qui zorgas pri el o il.
+5. **Involvez la persono** tam multe kam il o el volas, selektante fotii, rakontante historii o nur regardante la laboro.
+6. **Daŭrigez adjuntar.** Ol ne bezonas esar finita por esar utila.
 
-## More reminiscence ideas
+## Plu reminisko-idei
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Pleyez muziko de sua juveneso** e parolez pri quo ol evocas. Videz [muziko-aktivesi](/activities/music/).
+- **Regardez hem-filmi o televiziono-programi** de lia preferata decenii.
+- **Kozez infantesa plado** e lasez la odori direktar la konverso.
+- **Regardez mapo** de sua hemloko e trazez familiara stradi.
+- **Manuez olda katalogi o revui** e parolez pri prezi, modo e automobili.
+- **Registragez sua historii** sur telefonilo, kun sua permiso, por la familio.
+- **Partigez dum voki.** Monstrez un foto dum videovoko; videz [telefonala e videovokala](/activities/phone-and-video-calls/).
+- **Aduktesez foto o objekto kande vu vizitas.** Ico donas facila fokuso a la vizito; videz [vizitar](/activities/visiting/).
 
-## What if a memory is painful?
+## Quo se memoro esas doloriga?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Kelka memoraji povas igar doloro, duelo o timo. Se la persono komencas esar tristega, finigez, konsolesez el o il e dolce chanjez la temo o la aktiveso. Ne disputez pri quo eventis. La Family Caregiver Alliance konsilas ne probar konvinkar la persono ke il o el eroras e respondar vice a la senti quin il o el montras, nam ica senti esas reala. Se el o il parolas pri ulu qua mortis quale se olu ankore vivus, respondesez a la sento: "Vu dicas ad olu. Rakontez a me pri el o el."
 
-## What does the research say?
+## Quo dicas la serchado?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Un [Cochrane-revizo pri reminisko](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), qua kovris 22 provoi e 1,972 personi, trovis ke la efekti esis ne-konsekventa, mikra e variis segun la kontesto e formato. Ol trovis nula indiko di domajo a personi vivant kun dementezeso. Ni sugestas reminisko pro ke ol povas krear varma e signifikanta tempo kune, ne quale kuraco. Por plu pri facila konverso, videz [konsili por komunikado](/caregiving/communication-tips/).

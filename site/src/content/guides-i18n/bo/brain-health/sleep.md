@@ -7,25 +7,22 @@ order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  ལོ་ཐོག་རིང་པོའི་ཞིབ་འཇུག་ཁ་ཤས་ཀྱིས་འཁྲུངས་ཚེའི་ཁ་ཤས་ཀྱི་ཉལ་བ་ཐུང་ངུ་དང་བློ་ནོར་བའི་ཉེན་ཁ་མཐུན་སྣང་ཡོད་པར་སྟོན་ཅིང་། ཤེས་བྱ་གནས་ཁང་གི་ཞིབ་འཇུག་ཁ་ཤས་ཀྱིས་ཉལ་བས་ཁོང་གི་རྩ་བའི་ཉེས་བྱས་སེལ་ཆོག་པར་བསམ་ཚུལ་སྟོན། འོན་ཀྱང་ཞིབ་འཇུག་འདི་ཡང་ཐོག་མའི་རིམ་པ་ཡིན་ཞིང་། 2024 ལོའི་ Lancet ཚོགས་ཁང་གིས་ཉལ་བ་ལ་སྒྱུར་བཅོས་ཀྱི་ཉེན་ཁ་གཅིག་ཏུ་མ་བཏང་། ཉལ་བའི་སྲོལ་རིམ་རེག་རེས་ཡོད་པས་ཉིན་རེའི་སྐྱིད་པོ་དང་། བློ་ནོར་བའི་ནང་ཉལ་བའི་གནད་དོན་སྐྱོན་ཚེས་གྲངས་མང་པོ་ཡོད་པས་སྨན་པ་དང་བཤད་ཚོགས་རྒྱུ་ཡིན།
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "ཞིབ་འཇུག་ཞིག་ལ་ལོ་25 རིང་ལ་མི་ཆ་ཚང་ 8,000 ཙam་ཁྱེད་རང་ལ་ཁོང་གི་ཕྱི་ལོ་ཉེ་དུས་སུ་ཆུ་ཚོད་དྲུག་ལས་མ་བརྒལ་བ་ཡོད་པས་ཕྱི་ལོ་བློ་ནོར་བའི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡོད་པར་མཐོང་།"
+  - "ཉལ་བའི་སྒྱུར་བཅོས་ཀྱང་བློ་ནོར་བའི་སྔོན་རྟགས་ཡིན་ཐུབ་པས་ཀུན་ནས་རྒྱུ་ཡིན་པ་དང་འབྲས་བུ་ཡིན་པ་ཁ་ཕྱེ་དཀའ།"
+  - "ཉལ་བས་རྩ་བའི་ནང་ནས་ བེ་ta-amyloid བསྐྲུན་པ་ཡང་དངོས་ཡོད་ཀྱང་ཐོག་མའི་རིམ་པ་ཡིན་ཞིང་། ཁ་ཤས་ནི་བྱ་ཁྱི་ཡིན།"
+  - "ཉལ་བའི་སྒྲོག་རྐྱེན་ (sleep apnea) ནི་མང་པོ་ཡོད་ཅིང་ཕྱིར་སྨན་པ་ཐུབ་པ་དང་ བློ་ནོར་བར་འབྲེལ་བ་ཡོད་པར་ཞིབ་འཇུག་ལས་མཐོང་། སྒྲ་ཆེན་པོས་སྐོར་བ་དང་ཉིན་མོ་གཉིད་ཀྱིས་ཐོ་བ་ལ་བརྟག་དགོས།"
+  - "སྨན་པའི་སྲོལ་ཡོད་པའི་གཉིད་སྨན་ངམ་ཉལ་སྐྱབས་ཀྱི་རིགས་བརྗེ་བ་དང་། སྨན་པ་ཡོངས་ཀྱིས་མ་བསྟན་པར་དང་ཞིང་མི་བརྗེ།"
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "ཉལ་བ་ཡག་མེད་ཀྱིས་ཨཱལ་ཛའི་ཨེ་ཛྷི་མར་ཧྲི་ཀ་ཞིག་བྱེད་ཐུབ་མ་ཐུབ་?"
+    a: "དེ་ནི་ངེས་པར་མ་གྲུབ་པ་ཡིན། ཉལ་བ་ཐུང་ངུ་དང་བློ་ནོར་བའི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡོད་པར་ཞིབ་འཇུག་ཁ་ཤས་ཀྱིས་སྟོན་ཀྱང་། བློ་ནོར་བ་ཉིད་ཀྱིས་ཉལ་བ་ལ་སྒྲིག་ཐུབ་ཡོད་ཅིང་། བསྟན་པ་མ་བྱས་ཡོང་བའི་ལོ་ཁ་ཤས་ཧྲིལ་ཡོད། 2024 ལོའི Lancet ཚོགས་ཁང་གིས་སྒྱུར་བཅོས་ཀྱི་ཉེན་ཁ་ཅིག་ཏུ་ཉལ་བ་མ་བཏང་བའི་ཁྱད་པར་ནི་གནས་ཚུལ་མི་མཐུན་ཞེས་བཤད་པ་ཡིན།"
+  - q: "ལོ་ཆེ་བའི་མི་ཚོས་ཉལ་བ་ཇི་ཙam་དགོས་?"
+    a: "The National Institute on Aging (NIA) ཀྱིས་བཤད་པ་ཡང་། ལོ་ཆེ་བའི་མི་ཚོས་ཀྱང་གཞན་ཚོའི་སྐད་ཆ་ཡང་ཆུ་ཚོད་ 7 ནས་ 9 བར་ཉལ་དགོས། ལོ་ཆེ་བའི་མང་པོ་ཚོས་ཀྱི་ཉལ་ཆ་སྔོན་ལས་ཉིན་ཁ་འཆར་བ་ཡིན་ཞིང་། དེ་ནི་སྤྱིར་བཏང་ཡིན།"
+  - q: "བློ་ནོར་བ་ཡོད་པའི་མི་ཉིན་མོ་ཉལ་ནས་མཚན་མོ་སད་པ་ཡིན་པ་ཅིའི་ཕྱིར་?"
+    a: "བློ་ནོར་བས་ལུས་ཀྱི་དུས་རྟགས་ (body clock) ལ་ནུས་པ་ཡོད་པས་ཉལ་དུས་དང་སད་དུས་འཁྲུག་འགྱུར་ཆེ། སྡུག་པ་ དགའ་མེད་ ཟོས་ཀྱི་འགལ་བ་ཡང་ང་རང་མཁན་ཡིན་ཐུབ། ཉི་མའི་འོད་ ཉིན་ཞིང་ལས་ཀ་ དང་ཉིན་མོའི་ཞི་བདེ་ཡི་ལས་རིམ་ཞིག་ཕན་ཐོགས་ཡོད་པ་ཡིན། སྨན་པས་སྒྲུབ་ཐུབ་པའི་རྒྱུ་མཚན་ཡོད་ན་བཤད་ཚོགས་ཆོག"
+  - q: "ངས་ཁྱེད་ཀྱིས་བསྐྱངས་པའི་མི་ལ་གཉིད་སྨན་ཞིག་སྦྱིན་ཆོག་གམ་?"
+    a: "སྔོན་དུ་ཁོང་གི་སྨན་པས་བཤད་ཚོགས་རོགས་གནང་། སྨན་ཁང་གི་ཁྲལ་མེད་སྨན་ཡང་བཅས། NIA ཀྱིས་བཤད་པ་ཡང་། གཉིད་སྨན་ཁ་ཤས་ཀྱིས་ཉེན་ཁ་ལ་ཉེན་ཁྲོལ་ གཡོ་ཡོང་ དང་ སྨད་པ་ཡོད་པའི་ཉེན་ཁ་སྲིད་པ་རེད།"
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+ཉལ་བ་དང་རྩ་བའི་བདེ་ཡག་ནི་གསལ་པོར་འབྲེལ་བ་ཡོད་ཀྱང་། ཁྱད་པར་ཇི་ལྟར་འབྲེལ་བ་ཡོད་པ་ནི་ད་ལྟ་ཡང་ཞིབ་འཇུག་བྱེད་བཞིན་ཡོད། ཞིབ་འཇུག་ཁ་ཤས་ཀྱིས་ཉལ་བ་ཐུང་ངུ་དང་བློ་ནོར་བའི་ཉེན་ཁ་མཐོ་བར་འབྲེལ་བ་ཡོད་པར་སྟོན། བློ་ནོར་བ་ཡང་ཉལ་བ་ལ་ཁ་ཤས་གནོད་པ་བྱེད་པ་ཡིན། ཤོག་ངོས་འདིས་ཞིབ་འཇུག་གིས་ཅི་སྟོན་པ་དང་མི་སྟོན་པ་བཤད་པ་དང་། ཉལ་སྲོལ་ཡག་པོའི་ཐབས་ལམ་རྣམས་སྟོན་ཞིང་། བློ་ནོར་བ་ཡོད་པའི་ཉལ་བའི་གནད་དོན་ཁ་ཤས་ཀྱང་བཤད་པ་ཡིན། འདིར་ཉལ་སྨན་གྱི་བསྟན་པ་མི་སྤྲོད། ཡང་ན་དེ་ནི་སྨན་པས་བཤད་ཚོགས་ཀྱི་དོན་ཡིན།
 
-## Is poor sleep linked with dementia?
+## ཉལ་བ་ཡག་མེད་ཀྱིས་བློ་ནོར་བར་འབྲེལ་བ་ཡོད་དམ་?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+ལོ་ཐོག་རིང་པོའི་ཞིབ་འཇུག་ཁ་ཤས་ཀྱིས་ཉལ་བ་ཐུང་ངུ་དང་བློ་ནོར་བའི་ཉེན་ཁ་མཐོ་བ་འབྲེལ་བ་ཡོད་པར་སྟོན་ཀྱང་། གནད་དོན་ནི་ངེས་པར་མ་གྲུབ་པ་ཡིན།
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **ལོ་25 རིང་གི་བརྟག་དཔྱད་ (UK).** ཞིབ་འཇུག་པ་ཚོས་ [Whitehall II ཞིབ་འཇུག་](https://www.nature.com/articles/s41467-021-22354-2) ནང་མི་ 8,000 ཙam་ཁྱེད་རང་ལ་ལོ་ 25 རིང་བརྟག་ཞིབ་བྱས། ལོ་ 50 ཡང་ན་ 60 ལ་ཆུ་ཚོད་དྲུག་ལས་མ་བརྒལ་བ་རྣམས་ལ་ཕྱི་ལོ་བློ་ནོར་བའི་ཉེན་ཁ་མཐོ་བ་ཡོད་པར་མཐོང་། ལོ་ 50, 60 དང་ 70 ལ་ཆུ་ཚོད་དྲུག་ལས་མ་བརྒལ་བ་ཚོས་ཆུ་ཚོད་བདུན་རེ་ཉལ་བ་ཚོས་ལས་ཁ་ཤས་ 30% མཐོ་བ་ཡོད་པར་མཐོང་། བརྟག་ཞིབ་འདི་ནི་མཐོང་སྣང་གི་ཞིབ་འཇུག་ཡིན་པས་འབྲེལ་བ་སྟོན་ཀྱང་རྒྱུ་མཚན་ངེས་པར་སྟོན་མི་ཐུབ།
+- **Lancet ཚོགས་ཁང་གི་ལྟ་ཚུལ།** [2024 Lancet ཚོགས་ཁང་](https://doi.org/10.1016/S0140-6736(24)01296-0) གིས་ཉལ་བ་ལ་ 14 གི་སྒྱུར་བཅོས་ཀྱི་ཉེན་ཁ་རེའུ་མིག་ནང་མ་བཀོད། ཁོང་གིས་གནས་ཚུལ་ལ་ཡིད་ཆེས་མི་འཚམས་པར་བཤད། རྒྱུ་མཚན་གཅིག་ནི་ "ཕྱོགས་སྒྲིག་ཕྱིར་ལོག" (reverse causation) ཡིན་ཏེ། བློ་ནོར་བའི་རྩ་བའི་འགྱུར་བ་ནི་ངོ་བོ་ཤེས་པའི་ལོ་ཁ་ཤས་སྔ་ནས་འགྲོ་ཞིང་ཉལ་བ་ལ་གནོད་ཐུབ། ཞིབ་འཇུག་ཆེན་པོ་ཞིག་ལ་རིང་པོ་ཉལ་བ་དང་བློ་ནོར་བའི་འབྲེལ་བ་ལོ་ཐོག་དང་པོའི་ལོ་ 5 དོར་བའི་རྗེས་སུ་ཡོད་མེད་པར་སོང་།
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+དེས་ན་མཚན་མོ་ཐུང་ངུ་ཞིག་ཡོད་ཀྱང་སེམས་ཤུགས་ཆེན་པོ་དགོས་མི་དགོས། ཉལ་བ་ཡག་པོ་དང་རྟག་པ་ཡོད་པ་ནི་དེ་ད་ལྟའི་སེམས་ཁམས་དང་ཉེན་སྲུང་ལ་ཕན་པས་བསམ་གཞིགས་བྱེད་ཆོག
 
-## What is the "brain-clearing" sleep research?
+## "རྩ་བ་གཙང་སྦྲ" གི་ཉལ་བའི་ཞིབ་འཇུག་ནི་ཅི་ཡིན་?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+ཉལ་བས་རྩ་བ་གཙང་སྦྲ་བྱེད་ཅེས་ཀློག་པ་ཡོད་ཀྱང་། དེ་ནི་ཐོག་མའི་ཞིབ་འཇུག་ཡིན།
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **ཚེ་མོ་ཁ་ཤས་ལ།** 2013 ལོའི [NIH གིས་བཤད་པའི་ཞིབ་འཇུག་](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ལ་ཚེ་མོ་ཉལ་བའི་སྐབས་རྩ་བའི་ཁྲེལ་ཀློང་ཀྱི་སྒོ་ལ་ཆ་ 60% ཙam་ཆེ་བ་མཐོང་། ཆུ་ཆུ་རྩ་བ་ནང་དུ་སྤྲོད་ལ་ཁྱད་པར་དུ་ "glymphatic system" ཞེས་བྱེད་པའི་ལམ་ནས་སྐྱེལ། ཉལ་བའི་ཚེ་མོའི་རྩ་བ་ནས་ བེ་ta-amyloid (བློ་ནོར་བ་དང་འབྲེལ་བའི་པྲོ་ཊིན) ཆེར་མགྱོགས་པོས་སེལ་བ་ཡིན།
+- **མི་ལ།** [2018 ལོའི ཞིབ་འཇུག་ཆུང་ངུ་](https://www.pnas.org/doi/10.1073/pnas.1721694115) ཞིག་ལ་ལོ་ 22 ནས་ 72 བར་གྱི་མི་ཕལ་ཆེ་ 20 ལ་ཉལ་བ་ཡག་པོ་རྗེས་དང་། ཉལ་བ་མེད་པའི་མཚན་མོ་རྗེས་སུ་རྩ་བའི་ཤེས་ཀྱི་བརྒྱུད་ཐབས་ཀྱིས་བཤེར་བ་བྱས། ཉལ་བ་མེད་པའི་རྗེས་སུ་ བེ་ta-amyloid གི་བརྒྱུད་བཤེར་རྟགས་ ཧིབ་ཀེམ་པ་སའི་ཁུལ་ (མེ་དྲན་ལ་གལ་ཆེ་བའི་ཁུལ་) ནང་ཆ་ 5% ཙam་འཕར་བ་མཐོང་། བཀོད་མཁན་ཚོས་འདི་ནི་སྔོན་དུ་ཡོད་པའི་སྒྲུབ་བེད་ཡིན་ཞེས་བཤད། ངེས་པར་ཁྱད་པར་དེ་ངལ་གསོ་ནས་ཞི་བ་ཡོད་མེད་དང་། རྩ་བ་སེལ་བ་ཚུབ་པ་ཡང་ན་ ཨེ་མི་ལོའིད་བསྐྲུན་པ་མང་བ་ཡིན་མིན་མ་གྲུབ།
+- **ལྟོས་ཚུལ་གཉིས་ཀ་ཡོད།** Lancet ཚོགས་ཁང་གིས་བཤད་པ་ལྟར་ བེ་ta-amyloid བསྡོམས་པ་ནི་ལོ་ཆེ་བའི་མི་ཚོའི་ཉལ་བ་ལ་གནོད་ཐུབ།
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+ཞིབ་འཇུག་འདིས་ཉལ་བ་ཡོངས་སུ་ལ་ཞིབ་འཇུག་གི་སྣང་བ་ཇི་ལྟར་ཡོད་པ་བཤད་ཀྱང་། ཉལ་བ་ཡག་པོས་ཨཱལ་ཛའི་ཨེ་ཛྷི་མར་ཀྱི་སྔོན་སྲུང་ཐུབ་པར་མ་སྟོན།
 
-## What sleep habits may help?
+## ཉལ་སྲོལ་གང་ལ་ཕན་ཐོགས་ཡོད་ཆོག་?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+ལོ་ཆེ་བའི་མི་ཚོས་ཉིན་མཚན་ཆུ་ཚོད་ 7 ནས་ 9 བར་ཉལ་དགོས་པ་དང་། གཞན་ཚོ་དང་མཐུན། [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) གི་འདེམས་འབྲུ་ཚུད་པ་ནི།
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **དུས་ཚོད་རྟག་པ་བཟུང་བ།** ཉིན་རེ་དང་ལོ་གཅིག་དུ་ཉལ་དུས་དང་སད་དུས་བརྟན་པ་བཟུང་བ། འཁོར་ཉིན་ཡང་འདྲ་ཡོད།
+- **མཚན་མོ་ཞི་སྲོལ་བཟོ་བ།** ཉལ་སྔོན་ལ་དཔེ་ཆ་ཀློགས་པ། གླུ་དགའ་བདེ་པོ་ཉན་པ་ཡང་ན་ཆུ་ཚ་ཚ་ཞིག་ལ་ཁྱིམ་ཁ་ཡོད་པ།
+- **ཉལ་ཁང་ཡང་དག་ལ་ཚིམ་ཐུབ་བཟོ་བ།** ཚ་ཚ་ཡང་ན་གྱང་ཆེན་མ་ཡིན་པ།
+- **དགོང་མོའི་ཇ་ཚོད་དང་ཀ་ཕི་ཡི་ཚད་ཆུང་བ།** ཇ་ཀ་ཕི། ཁ་ཅའི་ལྟ་བུ་ཞིག་གིས་གཉིད་འཕྲོག་ཐུབ།
+- **རག་འཐུང་མི་བྱ།** ཚད་ཆུང་ཡང་ NIA ཀྱིས་བཀག་ཡོད།
+- **ཉལ་སྔོན་ཆུ་ཚོད་ 2 ནས་ 3 ནང་ལ་ཟས་ཆེན་པོ་མི་ཟ་བ་དང་། དགོང་མོ་ལ་ཆུ་ཆེན་པོ་མི་འཐུང་བ།**
+- **ཉིན་རེ་ལུས་རྩལ་བྱེད་ཀྱང་ཉལ་སྔོན་ཆུ་ཚོད་ 3 ནང་མི་བྱེད་བ།** [ལུས་རྩལ་ཤོག་ངོས](/brain-health/exercise/) ལ་བལྟས།
+- **ཉལ་ཁང་ནང་ནས་སྒྲིག་ཆས་སྤང་བ།** NIA ཀྱིས་ཉལ་ཁང་ནང་ TV, གློག་ཀླད་, ཁ་པར་ ཡང་ན་ཤུགས་རྒྱུག་ལ་མ་བལྟ་བར་བཤད།
+- **དགོང་མོ་ཉལ་བའི་ནང་ཕྱི་ཉལ་མི་བྱེད་པ་ཡང་ན་ཚད་ཅན་བྱེད་པ།**
 
-## Sleep problems in dementia
+## བློ་ནོར་བ་ནང་གི་ཉལ་བའི་གནད་དོན།
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+བློ་ནོར་བ་ནང་ཉལ་བ་འགྱུར་བ་ནི་མང་པོ་ཡོད། [NIA ཀྱིས་བཀོད་པ་](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) ལ་ཉལ་བ་མང་པོ་ངམ་ཉུང་ངུ། མཚན་མོ་ཡང་ཡང་སད་པ། དུས་ཉིན་ཁ་གཉིད་མང་པོ་ཉལ་བ་འདུག ཡང་ "sundowning" ཞེས་བྱེད་པ་ཡོད་དེ། ཉི་མ་ནུབ་དུས་སུ་ལྷོད་ཁྲོལ་ སྐྲག་པ་ ཡང་ན་བློ་ནོར་བ་ཤར་ཞིང་མང་དུ་འགྲོ་བ་ཡིན།
 
-Caregiver tips from the NIA include:
+NIA གི་ཉེ་གནས་ཀྱི་གྲོས་མོལ་ནི།
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **ཉིན་མོར་འོད་དང་ལུས་འགུལ་ཐོག་མར་བྱེད་པ།** ཉིན་མོ་ཕྱིར་སྐྱིད་ནས་ཡང་ན་སྒོ་སྒོ་ཉེ་བར་འདུག་པ། ཉིན་རེ་ཁོང་ལུས་ཀྱིས་ལས་འགུལ་བྱེད་པར་རོགས། འོད་ཆེན་པོས་ལུས་ཀྱི་དུས་རྟགས་སླར་སྒྲིག་ཐུབ་སྲིད།
+2. **ཉིན་མོ་ཡང་རྩལ་དང་ཤུགས་ཆེ་བའི་ལས་ཀ་ནམ་ཐོག་ལ་བཀོད་པ།** ཐོག་མར་ཁྲུས་བྱེད་པ་ཡང་ན་ཟས་ཆེན་པོ་དགོང་པོ་སྔོན་ལ་ཟ་བ།
+3. **ཉིན་ཁ་གཉིད་ཐུང་ངུ་ཞིག་ཡང་ན་སྔ་དུས་སུ་ཉལ་བ།** ཉིན་ཕྱིར་མ་ཆད་པ་ནས་མང་དུ་གཉིད་འཐུག་པ་མི་བྱ།
+4. **དགོང་མོ་ཞི་བདེ་བཟོ་བ།** གློག་མེ་ཉུང་ཐུབ་པ་དང་། སྒྲ་ཉུང་ཐུབ་པ། མི་དེས་དགའ་ན་གླུ་བདེ་པོ་རྩེད་པ། [ཉི་མ་ནུབ་སྐབས་གྱི་སྐྲག་ཁྲོལ་](/caregiving/late-day-restlessness/) ཤོག་ངོས་ནང་ཡང་ཐབས་ལམ་མང་པོ་ཡོད།
+5. **ཉལ་དུས་རྟག་པ་སྒྲིག་པ།** ཉལ་སྔོན་ཉིན་རེ་ཞག་ཅིག་ལ་དཔེ་ཀློག་པ་ཡང་ NIA ཀྱི་དཔེ་ཚོན་ཞིག་ཡིན། [ཉིན་རེའི་རྟག་པ་](/activities/daily-routine/) ཀྱང་ཕན་ཐོགས་ཡོད།
+6. **ཇ་ཀ་ཕི་དང་རག་འཐུང་ཚད་ཆུང་བ།**
+7. **ཉལ་ཁང་, ལམ་ཁ་དང་ཁྲུས་ཁང་ལ་མཚན་མོའི་འོད་ཆུང་བཅོག**
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+མཚན་མོ་སད་པའི་སྐབས་ནི་ NIA ཡི [ཁྱིམ་ཁང་ཉེན་སྲུང་གྲོས་མོལ་](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ནང་འོད་ཆུང་ ཡང་ན་རང་འགུལ་ཅན་གྱི་འོད་མེ། ཁྲུས་ཁང་ནང་ལག་སྐྱོར་ཤིང་། ལམ་ཐེག་གི་མཐའ་ལ་ཁ་ཅིག་དཀར་ནག་གི་ཀློས་སྔ་ཤོས་ཀྱི་རྡོ་ཆ་དང་། སྨན་ཡང་ལྕོགས་པར་ཉེན་སྲུང་གིས་བཞག་པ་བཅས་བཤད།
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+དགོང་མོ་ཞི་བདེ་ཅན་གྱི་ཕྱི་ནང་ཞིག་གིས་ཁྱེད་རང་གཉིས་ཀ་ཞི་ཐུབ། [ཞི་བདེའི་ཁ་ཕྱོགས་](/games/calm-breathing/) ཀྱི་སྒོ་ཅིག་ཡང་ན་ [Conversation Cards](/games/conversation-cards/) ཞིག་ལ་བྱེད་པ་བདེ་བ་ཡིན། ཉལ་ཁང་ལ་ཉེ་བར་ཉེན་ཁྲ་ཡོད་པའི་ལས་ཀ་མི་འདེམས་པ་དང་། མི་དེས་ངལ་བ་ཤོས་ན་ཡང་དམ་མཐུན་པར་དོར་བ།
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+ཉལ་བ་ཁྲོལ་བ་གིས་ཁྱོད་ཀྱི་ངལ་བ་ཡང་སྐྲག་བཅོས། [ཁྱོད་རང་གི་ལུས་སེམས་ཞིང་སྐྱོང་ཤོག་ངོས](/caregiving/caregiver-self-care/) ནང་ངལ་གསོ་དང་རོགས་རམ་ཐབས་ལམ་ཡོད།
 
-## What about sleep apnea?
+## ཉལ་ཆུང་སྐྲོད་ཀྱི་ནད་ (sleep apnea) གང་ཡིན་?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+ཉལ་ཆུང་སྐྲོད་ནད་ནི་ཉལ་བའི་སྐབས་ཉིན་མཚན་ཡང་ཡང་ཁ་ཤས་ཀྱི་སྒོར་ཆུང་ངུ་ཡོད་ཀྱི་རྒྱུ་ཡིན། NIA ཀྱིས་བཤད་པ་ལྟར་མ་སྨན་ན་ཁྲག་ཚད་མཐོ་བ་ སྦྱོང་ཆད་ ཡང་ན་མེ་དྲན་ནམ་ཟོད་སྐྲག་པ་ལྟ་བུའི་གནད་དོན་སྐྱེ་ཐུབ། སྐོར་བ་ཆེན་པོ་དང་ཉིན་མོ་གཉིད་འཐུག་པ་ཡོད་ན་བྱེད་ཚུལ་ཡིན། ངེས་པར་དུ་མང་པོས་ཁོང་ལ་འདི་ཡོད་པ་མི་ཤེས།
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+ཉལ་ཆུང་སྐྲོད་ནད་ལ་བརྟག་དཔྱད་དང་སྨན་བྱེད་ཐུབ། NIA ཀྱིས་བཤད་པ་ལྟར་ CPAP སྒྲིག་ཆས་ནི་ཧ་ཅང་ཆེ་བ་ནས་ཕན་ཐོགས་ཡོད། ཁྱེད་རང་ངམ་ཁྱོད་ཀྱིས་བསྐྱངས་པའི་མི་སྒྲ་ཆེན་པོས་སྐོར་ཞིང་ཉལ་བའི་ནང་ཁ་ཤས་སྐད་མི་ཐོན་པ་ ཡང་ན་ཉིན་མོ་གཉིད་འཐུག་ཆེན་པོ་ཡོད་ན་སྨན་པར་བཤད་རོགས།
 
-## A note about sleep medicines
+## གཉིད་སྨན་གྱི་མཚམས་ཀྱི་དྲན་གསོ
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+ང་ཚོས་གཉིད་སྨན་ངམ་རྒྱབ་སྐྱོར་གྱི་བཤད་ཚོགས་མི་སྤྲོད། NIA ཀྱིས་བཤད་པ་ལྟར་ གཉིད་སྨན་ནི་ཐེངས་ཆུང་ངུ་ལ་ཕན་ཡང་ ཉལ་མེད་ནད་ (insomnia) གི་ཐོག་མཐའ་མ་ཡིན། ཡང་བློ་ནོར་བ་ཡོད་པའི་མི་ལ་ཉལ་བ་ཐེབས་པའི་སྨན་ཁ་ཤས་ཀྱིས་ཉེན་ཁ་ཆུང་ལ་འཁྱོག་པ། ཁ་ཤས་ཀྱི་ཉེན་སྲུང་དང་བློ་ནོར་བ་སྐྱེ་ཐུབ་པ་བཤད། ཁྱེད་ཀྱིས་སྨན་པ་ཡང་ན་ཚོང་ཁང་གི་སྨན་པ་ཡོས་པ་མ་ཐོབ་པར། ཁྲལ་མེད་གཉིད་སྨན་ཡང་བཅས་ཏེ་སྨན་ཁ་གང་ཡང་ མི་འགོ་མི་ཚུགས་མི་བཏང་།
 
-## Talk with a doctor
+## སྨན་པ་དང་བཤད་ཚོགས་
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+ཁྱེད་རང་ངམ་ཁྱོད་ཀྱིས་བསྐྱངས་པའི་མི་ཉིན་རེ་སྐྱོ་བ་ཡོད་ན། ཉིན་མོ་གཉིད་མ་ཡང་ཡང་ཡང་སྐྱོ་ཡ། མཚན་མོ་རྒྱ་ཆེ་གཉིད་མི་འཐུག་ན། སྐོར་བ་ཆེན་པོ་ཡོད་ན། ཡང་ན་མཚན་མོ་འཕྲོ་བ་ཡོད་ན་སྨན་པ་ལ་བཤད་རོགས། དེ་ནས་བློ་ནོར་བའི་གཉིད་སྐྱོན་ཚར་མི་ཆད་ན་ [NIA ཀྱིས་བཀོད་པ་](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ལྟར་སྨན་པའི་མཚམས་ལ་བཤད་ཚོགས་ལེན་པ་ཡིན། བརྟག་དཔྱད་ནས་སྡུག་པ། གཞན་གྱི་གཉིད་སྐྱོན། ནད་པ། ཡང་ན་སྨན་ཀྱི་ཉེས་ཀ་ལྟ་བུའི་རྒྱུ་མཚན་ཁ་ཤས་མཐོང་ཐུབ། སྐད་ཆེན་གྱིས་ཧྱོལ་གྱི་ངོ་ཚར་ ཡང་ན་ཉལ་བའི་ཚུལ་ཅོག་ཅོགས་ཀྱི་ཆ་ཤས་འཁྲུག་ན་སྐབས་མྱུར་དུ་སྨན་བཅོས་དགོས། [ཇི་ལྟར་སྨན་པ་ལ་ཡེ་བརྟེན་ནམ་](/brain-health/warning-signs/) ཀློག་ཞིག།
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+ཤོག་ངོས་འདི་ནི་སྤྱིར་བཏང་གི་ཆ་འཕྲིན་ཡིན་པ་ཡིན་ཀྱི་སྨན་བཅོས་ཀྱི་འདེ་ཅིག་མ་ཡིན། [སྨན་བཅོས་ཀྱི་བཀག་སྡོམ་](/medical-disclaimer/) ལ་བལྟས།

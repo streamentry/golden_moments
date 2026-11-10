@@ -1,33 +1,35 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Gnìomhan Deamans a ghabhas clò-bhualadh an-asgaidh"
+seoTitle: "Gnìomhan deamans a ghabhas clò-bhualadh"
+description: "Gnìomhan deamans an-asgaidh ri clò-bhualadh: lorg fhaclan le clò mòr, duilleagan dathachaidh, cairtean còmhraidh is bingo dhealbhan, le molaidhean clò-bhualaidh."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Tha Golden Moments a’ tabhann ghnìomhan deamans an-asgaidh a ghabhas
+  clò-bhualadh: lorg fhaclan le clò mòr, duilleagan dathachaidh, cairtean
+  còmhraidh le dealbhan agus cairtean bingo dhealbhan. Fosgail duilleag geama
+  sam bith agus cleachd am putan Clò-bhuail aice. Clò-bhuail ann an clò mòr,
+  soilleir air pàipear trom, cùm aon ghnìomh air gach duilleag, agus lannsaich
+  duilleagan a tha thu airson a chleachdadh a-rithist. Faodaidh duilleagan
+  sìmplidh a nì thu fhèin aig an taigh, leithid duilleag mu sgeulachd beatha no
+  clàr làitheil, cuideachadh cuideachd.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Tha na gnìomhan againn a ghabhas clò-bhualadh an-asgaidh: Lorg Fhaclan, Dathachadh, Cairtean Còmhraidh agus Bingo Dhealbhan. Tha putan Clò-bhuail air gach duilleag geama."
+  - "Clò-bhuail ann an clò mòr, soilleir le eadar-dhealachadh làidir, agus cùm aon ghnìomh air gach duilleag."
+  - "Tha pàipear trom no cairt nas fhasa a chumail agus nas cruaidhe a phronnadh. Lannsaich duilleagan gus an cleachdadh a-rithist le comharraichean tioram-sguabaidh."
+  - "Tha duilleagan sìmplidh a nì thu fhèin, leithid duilleag mu sgeulachd beatha, clàr làitheil no bileagan le dealbhan airson dhorsan, sìmplidh agus feumail."
+  - "’S e cuireadh a th’ ann an duilleag chlò-bhuailte, chan e obair-dachaigh. Tha e ceart gu leòr pàirt dhith a dhèanamh, no gun dad a dhèanamh."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "A bheil na gnìomhan deamans agaibh a ghabhas clò-bhualadh an-asgaidh?"
+    a: "Tha. Tha na duilleagan Lorg Fhaclan, Dathachadh, Cairtean Còmhraidh agus Bingo Dhealbhan air an làrach seo an-asgaidh airson an cleachdadh agus an clò-bhualadh. Fosgail duilleag a’ gheama agus cleachd am putan Clò-bhuail."
+  - q: "Dè na gnìomhan a ghabhas clò-bhualadh as fheàrr airson deamans?"
+    a: "’S iad na duilleagan as fheàrr an fheadhainn a tha sìmplidh, soilleir agus inbheach: lorg fhaclan le clò mòr le faclan a’ dol dìreach tarsainn is sìos, duilleagan dathachaidh le loidhnichean soilleir, cairtean le dealbhan a thòisicheas còmhradh, agus bingo dhealbhan airson bhuidhnean. Tagh an gnìomh a rèir ùidhean an neach agus na comasan a th’ aca an-dràsta, agus cùm aon ghnìomh air gach duilleag."
+  - q: "Ciamar a nì mi duilleagan nas fhasa fhaicinn agus a chleachdadh?"
+    a: "Cleachd clò mòr, soilleir, inc dorcha air pàipear geal no uachdar-bhàn, agus tòrr rùm. Clò-bhuail air pàipear trom no cairt gus an duilleag a chumail rèidh, tagh pàipear neo-dheàrrsach gus deàrrsadh a lùghdachadh, agus cleachd clàr-bearraidh no mata neo-shleamhnach gus an duilleag a chumail socair. Cuidichidh lannsaicheas gus duilleagan a chumail fada."
+  - q: "An urrainn dhomh na gnìomhan agaibh a chlò-bhualadh airson dachaigh-cùraim no prògram latha?"
+    a: "’S urrainn. Tha fàilte air luchd-obrach ghnìomhan ar duilleagan a chlò-bhualadh airson luchd-còmhnaidh agus buidhnean. Tha Bingo Dhealbhan air a dhealbhadh airson bhuidhnean agus tha gairmeir air an sgrion ann as urrainn dhut a shealltainn air TBh no proiseactar."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +54,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Aig amannan, ’s e an gnìomh as fheàrr duilleag pàipeir agus peann aig bòrd a’ chidsin. Chan eil feum aig duilleagan clò-bhuailte air cumhachd, faclan-faire no sgrion, agus tha iad furasta an toirt leat air tadhal no gu buidheann. Tha an duilleag seo a’ mìneachadh na gnìomhan an-asgaidh a ghabhas clò-bhualadh air an làrach againn, mar a chlò-bhuail thu iad gus am bi iad furasta am faicinn agus an cumail, agus beagan dhuilleagan sìmplidh a nì thu fhèin aig an taigh a tha feumail do theaghlaichean agus do luchd-obrach ghnìomhan.
 
-## What free printable activities do you offer?
+## Dè na gnìomhan an-asgaidh a tha sibh a’ tabhann airson clò-bhualadh?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Tha ceithir duilleagan an-asgaidh againn. Fosgail gin sam bith de na duilleagan geama seo agus cleachd am putan **Clò-bhuail** gus dreach fhaighinn a tha freagarrach airson clò-bhualadh.
 
-| Printable | What it is | Good for |
+| Duilleag | Dè th’ ann | Freagarrach airson |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Lorg Fhaclan](/games/word-search/) | Lorg fhaclan le clò mòr, le faclan a’ dol dìreach tarsainn is sìos | Ùine shàmhach le peann; cuideigin a chòrd tòimhseachain riutha |
+| [Dathachadh](/games/coloring/) | Duilleagan dathachaidh airson clò-bhualadh, no airson dathadh air an sgrion | Ùine chruthachail, socair; aig ìre sam bith le taic |
+| [Cairtean Còmhraidh](/games/conversation-cards/) | Cairtean le dealbhan agus brosnachaidhean fosgailte, gun cheistean-deuchainn, a rèir cuspair | Tadhail, gairmean fòn, biadh teaghlaich, buidhnean cuimhneachaidh |
+| [Bingo Dhealbhan](/games/picture-bingo/) | Cairtean bingo le dealbhan an àite àireamhan, le gairmeir air an sgrion | Dachaighean-cùraim, prògraman latha, cruinneachaidhean teaghlaich |
 
-### Large-print word search
+### Lorg fhaclan le clò mòr
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+Tha an [Lorg Fhaclan](/games/word-search/) a’ cleachdadh litrichean mòra agus a’ cumail fhaclan a’ dol dìreach tarsainn is sìos, gun fhaclan trastain no air ais. Obraichibh air còmhla: leugh aon neach facal bhon liosta, agus coimhead an neach eile air a shon. Ma dh’fhàsas e doirbh faclan a lorg, feuchaibh a’ chiad litir de gach facal a chuairteachadh còmhla, no dìreach liosta nam faclan a leughadh os àrd agus bruidhinn mu gach facal.
 
-### Coloring pages
+### Duilleagan dathachaidh
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Faodar duilleagan [Dathachadh](/games/coloring/) a chlò-bhualadh airson comharraichean no peansalan dathte, no an dathadh air tablaid le bhith a’ bualadh air dath agus an uairsin air pàirt den dealbh. Airson duilleagan clò-bhuailte, tairg comharraichean tiugh agus beagan dhathan aig an aon àm. Faic ar [stiùireadh ealain is ciùird](/activities/arts-and-crafts/) airson dòighean gus dathachadh a chumail inbheach agus socair.
 
-### Conversation cards
+### Cairtean còmhraidh
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+Bidh [Cairtean Còmhraidh](/games/conversation-cards/) a’ cur dealbh soilleir ri brosnachadh fosgailte, leithid “Innis dhomh mu dheidhinn...” no “Dè a tha thu a’ faicinn?” Tha iad sgrìobhte mar chuiridhean fosgailte, chan ann mar cheistean-deuchainn. Clò-bhuail seata, gearr air falbh iad, agus cùm beagan ann am poca airson tadhail no ri taobh a’ fòn airson gairmean. Bidh iad ag obair gu math cuideachd ann am buidhnean [cuimhneachaidh](/activities/reminiscence/).
 
-### Picture bingo cards
+### Cairtean bingo dhealbhan
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Bidh cairtean [Bingo Dhealbhan](/games/picture-bingo/) a’ cleachdadh dhealbhan an àite àireamhan. Clò-bhuail aon chairt airson gach cluicheadair agus cleachd an gairmeir air an sgrion air laptop, TBh no proiseactar. Tha sinn a’ moladh a bhith a’ gairm gus am bi cairt a h-uile duine làn, gus nach bi duine air fhàgail a-mach. Faic [gnìomhan buidhne airson dhachaighean-cùraim](/activities/care-home-groups/) airson mar a ruitheas tu seisean.
 
-## How do I print activities so they are easy to use?
+## Ciamar a chlò-bhuail mi gnìomhan gus am bi iad furasta an cleachdadh?
 
-Small changes in how you print make a big difference.
+Nì atharrachaidhean beaga san dòigh sa chlò-bhuail thu diofar mòr.
 
-### Make it easy to see
+### Dèan furasta fhaicinn
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Clò mòr, soilleir.** Cleachd an roghainn clò-bhualaidh as motha a fhreagras air an duilleag fhathast. Seachain clò-fhaclan sgeadachail no sgriobte.
+- **Eadar-dhealachadh làidir.** Inc dorcha air pàipear geal no uachdar-bhàn. Seachain cùl-liath bàn no cùl-dathan.
+- **Lùghdaichidh pàipear neo-dheàrrsach** deàrrsadh fo sholais shoilleir.
+- **Thoir sùil air speuclairean agus solas.** Tha Comann Alzheimer ag innse gum faod duilgheadasan lèirsinn is claisneachd conaltradh a dhèanamh nas duilghe, agus tha iad a’ moladh an sgrùdadh gu cunbhalach. Cuidichidh lampa shoilleir, chothromach cuideachd.
 
-### Make it easy to hold
+### Dèan furasta a chumail
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Bidh pàipear trom no cairt** a’ fuireach rèidh, nas fhasa a thogail, agus seasaidh e ri cleachdadh tric.
+- **Cumaidh clàr-bearraidh** no mata àite-bìdh neo-shleamhnach an duilleag gun sleamhnachadh.
+- **Tha comharraichean tiugh no peansalan molach** nas fhasa a ghreimeachadh na peannan caola.
 
-### Make it reusable
+### Dèan furasta ath-chleachdadh
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Lannsaich duilleagan** no cuir iad ann an dìonan duilleige soilleir. Cleachd comharraichean tioram-sguabaidh air lorg fhaclan agus cairtean bingo, agus an uairsin suath glan iad.
+- **Tagh pòcaidean neo-dheàrrsach** ma tha deàrrsadh na dhuilgheadas, agus **cuairtich oiseanan** chairtean lannsaichte le siosar gus am bi iad comhfhurtail an làimhseachadh.
+- **Cùm pasgan** de na roghainnean as fheàrr leat gus nach bi thu a’ clò-bhualadh na h-aon duilleige gach seachdain.
 
-### Keep it simple
+### Cùm sìmplidh e
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Aon ghnìomh air gach duilleag.** Aon lorg fhaclan no aon dealbh, chan e grunn ghnìomhan air an cruinneachadh còmhla.
+- **Tòrr rùm geal.** Faodaidh duilleag thrang a bhith trom.
+- **Gun stiùireadh ri leughadh, far an gabh sin dèanamh.** Seall don neach dè a nì iad an àite sin.
+- **Gearr sìos duilleagan.** Ma tha duilleag làn cus, gearr na leth i no paisg i gus nach fhaicear ach pàirt dhith.
 
-## Other useful printables you can make at home
+## Dè na duilleagan feumail eile as urrainn dhomh a dhèanamh aig an taigh?
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Chan e geama a th’ anns a h-uile duilleag fheumail. Tha iad seo furasta an dèanamh le pròiseasar fhaclan agus clò-bhualadair.
 
-### A life-story page
+### Duilleag mu sgeulachd beatha
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Duilleag aon-dhuilleig “mu mo dheidhinn” le dealbh, an t-ainm as toil leis an neach a bhith air a chleachdadh, far an do dh’fhàs iad suas, an obair, an teaghlach, biadhan is ceòl as fheàrr leotha, agus na rudan a bheir comhfhurtachd no mì-chofhurtachd dhaibh. Tha Dementia Australia a’ moladh [leabhar cuimhne](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) le fiosrachadh mu bheatha an neach, na rudan as toil leotha agus na daoine cudromach, gus luchd-tadhail is luchd-cùraim a chuideachadh agus gus còmhradh a thòiseachadh.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Tha e gu sònraichte feumail ann an ospadalan agus ann an suidheachaidhean cùraim ùra. Tha an NIA a’ moladh [duilleag fiosrachaidh phearsanta](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) a thoirt do luchd-obrach an ospadail, a’ còmhdach gnàth-chleachdaidhean an neach, an t-ainm as fheàrr leotha, na rudan as toil agus nach toil leotha, rudan a dh’fhaodadh a bhith duilich dhaibh, agus comharran pian nach eil briathrach.
 
-### A daily schedule
+### Clàr làitheil
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Clàr sìmplidh, mòr airson an latha le amannan, beagan fhaclan agus dealbh beag airson gach pàirt: bracaist, cuairt-coise, lòn, fois, ceòl, dinnear. Tha [plana cùraim làitheil](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) Comann Alzheimer a’ moladh planadh timcheall air na h-amannan den latha as fheàrr don neach, le amannan cunbhalach airson èirigh is cadal agus cothromachadh eadar gnìomhachd is fois. Cuir suas e aig ìre nan sùilean, ’s dòcha air a’ chuisneir, agus cùm sùbailte e. Faic ar [stiùireadh mu chleachdadh làitheil](/activities/daily-routine/) airson tuilleadh.
 
-### Picture labels for rooms and drawers
+### Bileagan le dealbhan airson sheòmraichean is dhromaichean
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+Tha an NIA a’ moladh soidhnichean le dathan soilleir no dealbhan sìmplidh a chleachdadh gus [an taigh-beag, an seòmar-cadail agus a’ chidsin](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) a chomharrachadh. Bidh an aon bheachd ag obair airson dhromaichean is phreasaichean: dealbh de stocainnean air dròma nan stocainnean, cupannan air preas nan cupannan. Clò-bhuail, lannsaich agus teip suas iad.
 
-### A sorting set
+### Seata rèiteachaidh
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Clò-bhuail dealbhan bho dhà roinn shìmplidh, leithid measan is flùraichean no innealan is stuthan cidsin, air cairt. Gearr air falbh iad agus cuir ann an dà bhasgaid còmhla. ’S e an dreach air an sgrion de seo [Seòrsaich Còmhla](/games/sort-together/).
 
-### Song lyric sheets
+### Duilleagan faclan òrain
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Clò-bhuail faclan beagan òran as fheàrr leat ann an clò glè mhòr airson seinn còmhla. Faodaidh e bhith tlachdmhor do dhaoine nach eil a’ leughadh mòran tuilleadh an duilleag a chumail.
 
-### A family photo page
+### Duilleag dhealbhan teaghlaich
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Aon duilleag le ceithir gu sia dealbhan teaghlaich mòra, le ciad ainm fo gach fear. Faodaidh i suidhe air a’ bhòrd airson cuideigin sam bith a thogail agus bruidhinn mu deidhinn. Cuidichidh bileagan luchd-tadhail is luchd-obrach a thighinn a-steach don chòmhradh, agus chan fheum duine faighneachd “Cò tha seo?”
 
-### A recipe card
+### Cairt reasabaidh
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Clò-bhuail reasabaidh teaghlaich as fheàrr leat ann an clò mòr. Cleachd i airson còcaireachd còmhla, no dìreach airson bruidhinn mu bhiadh on àm a dh’fhalbh.
 
-## How do I offer a printable without it feeling like homework?
+## Ciamar a thairgeas mi duilleag chlò-bhuailte gun a bhith coltach ri obair-dachaigh?
 
-Present it as something to share, not a test.
+Tairg i mar rudeigin ri roinn, chan e deuchainn.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Suidh sìos agus tòisich oirre thu fhèin.** “Tha mi a’ dèanamh an lorg fhaclan seo. Am bu toil leat cuideachadh leam ‘gàrradh’ a lorg?”
+- **Obraichibh còmhla.** Gabh turns, no lorg aon neach agus cuairtich an neach eile.
+- **Na comharraich e ceart no ceàrr.** Tha stiùireadh Comann Alzheimer mu [ghnìomhan aig an taigh](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) a’ moladh fòcas a chur air a’ phròiseas, chan air an toradh, agus air toileachas seach coileanadh.
+- **Fàg duilleagan a-mach.** Tha an aon stiùireadh a’ moladh leabhraichean gearr-thinn, clàran dhealbhan no seann irisean a chur ann an àiteachan a tha furasta an ruigsinn. Faodaidh cairtean clò-bhuailte agus duilleagan dhealbhan suidhe air bòrd-taobh san aon dòigh.
+- **Stad uair sam bith a thogras sibh.** Tha leth duilleag dathachaidh na fheasgar math. Tha cur na duilleige air falbh agus cupa tì fhaighinn cuideachd.
 
-## Where to find more
+## Càite an lorg mi barrachd
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Rannsaich na [geamannan is duilleagan clò-bhuailte](/games/) againn uile, no faic [gnìomhan airson gach ìre](/activities/ideas/) airson barrachd bheachdan, le pàipear agus às aonais.

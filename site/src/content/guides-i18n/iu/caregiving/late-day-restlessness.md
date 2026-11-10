@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᖅ: ᓴᐃᒻᒪᓂᖅᓴᑦ ᐱᓕᕆᐊᑦ"
+seoTitle: "ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᖅ: ᓴᐃᒻᒪᓂᖅᓴᑦ ᐱᓕᕆᐊᑦ"
+description: "ᓴᐃᒻᒪᓂᖅᓴᑦ ᐱᓕᕆᐊᑦ, ᐃᓪᓗᐃᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ ᐊᒻᒪ ᓴᐃᒻᒪᓂᖅᓴᑦ ᐱᓕᕆᐊᑦ ᐃᑲᔪᕈᓐᓇᖅᑐᑦ ᐅᓐᓄᒃᑯᑦ ᐊᔪᙱᓐᓂᕐᒥᒃ ᐃᓚᖃᖅᑎᓪᓗᒋᑦ, ᖃᓄᐃᓕᖓᓂᖃᕐᓗ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᖃᐅᔨᒋᐊᕆᐊᖃᕋᓗᑎᑦ ᓄᑖᓂᒃ ᐊᒻᒪᓗ ᐱᐅᓯᒋᐊᖅᑐᓂᒃ."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᖅ ᐊᔪᙱᓐᓂᖅ, ᑐᓴᐅᒪᓕᕈᓐᓃᖅᑎᑕᐅᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖅᑭᐅᔪᒥᒃ ᐱᔾᔪᑎᖃᕐᓂᖅ
+  ᐱᒋᐊᕐᓂᖃᑦᑎᐊᖅᑐᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐱᐅᓯᒋᐊᖅᑐᖅ ᐅᓐᓄᒃᑯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓐᓄᒃᑯᑦ. ᐃᑲᔪᕈᓐᓇᖅᑐᑦ ᐱᓕᕆᐊᑦ
+  ᐅᑯᐊ ᐃᓚᒋᔭᐅᔪᓐᓇᖅᑐᑦ: ᐊᑯᓐᓂᖅᓴᖅ ᐅᓪᓗᕐᒥ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᖅ, ᐅᓪᓗᒥ ᖃᐅᒻᒪᖅ ᐊᒻᒪ ᐱᓕᕆᐊᖃᕐᓂᖅ,
+  ᐅᓐᓄᒃᑯᑦ ᓯᓂᒃᑎᑕᐅᓂᖅ ᐊᒥᓲᓂᖅᓴᐅᓂᖅ, ᑳᐱ ᐅᓐᓄᒃᑯᑦ ᐃᒥᕈᓐᓇᖅᑐᖅ ᐊᒥᓲᓂᖅᓴᐅᓂᖅ, ᐃᓪᓗᐃᑦ
+  ᖃᐅᒻᒪᖅᑯᑦ ᑕᖅᑭᓂᖏᑦ ᐃᑭᐊᖅᑭᓕᖅᑎᓪᓗᒋᑦ ᐅᓪᓗᖅ ᑕᕐᕆᔭᒃᓴᐃᓂᖓᓄᑦ ᓯᕗᓂᖓᓂ, ᓴᐃᒻᒪᓂᖅᓴᖅ ᐃᓪᓗ,
+  ᐊᒻᒪ ᓴᐃᒻᒪᓂᖅᓴᑦ ᐱᓕᕆᐊᑦ ᓲᕐᓗ ᐃᙱᖅᑎᑐᑦ, ᐊᔾᔨᙳᐊᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓐᓄᕌᖅᑎᑕᐅᓂᖅ. ᓄᑖᑦ ᐅᕝᕙᓘᓐᓃᑦ
+  ᐱᐅᓯᒋᐊᖅᑐᑦ ᐱᔾᔪᑎᖃᕐᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᖃᐅᔨᓴᖅᑕᐅᔪᓐᓇᖅᑐᑦ.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᖅ ᐊᔪᙱᓐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑐᓴᐅᒪᓕᕈᓐᓃᖅᑎᑕᐅᓂᖅ ᐱᒋᐊᕐᓂᖃᑦᑎᐊᖅᑐᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐱᐅᓯᒋᐊᖅᑐᖅ ᐅᓪᓗᖅ ᑕᕐᕆᔭᒃᓴᐃᓕᖅᑎᓪᓗᒍ."
+  - "ᐱᓕᕆᐊᑦ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᑦ, ᐊᓂᕝᕕᐅᔪᑦ ᐊᒻᒪ ᐅᖃᓕᒫᒐᖃᕐᓂᖅ ᐅᓪᓗᒥ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓᓂ ᐱᓕᕆᐊᕐᓗᒋᑦ."
+  - "ᐅᓪᓗᒥ ᖃᐅᒻᒪᖅ, ᐅᓪᓗᕐᒥ ᐱᓱᒃᑎᑕᐅᓂᖅ, ᐅᓐᓄᒃᑯᑦ ᓯᓂᒃᑎᑕᐅᓂᖅ ᐊᒥᓲᓂᖅᓴᐅᓂᖅ ᐊᒻᒪ ᑳᐱ ᐅᓐᓄᒃᑯᑦ ᐃᒥᕈᓐᓇᖅᑐᖅ ᐊᒥᓲᓂᖅᓴᐅᓂᖅ ᐃᑲᔪᕈᓐᓇᖅᑐᑦ ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᓂᖅᓴᐅᓂᕐᒧᑦ."
+  - "ᖃᐅᒻᒪᐃᑦ ᐃᑭᐊᖅᑭᓕᖅᑎᓪᓗᒋᑦ ᐅᓪᓗᖅ ᑕᕐᕆᔭᒃᓴᐃᓂᖓᓄᑦ ᓯᕗᓂᖓᓂ, ᓂᐱ ᐊᒥᓲᖅᑎᓪᓗᒍ, ᐊᒻᒪ ᓴᐃᒻᒪᓂᖅᓴᓄᑦ ᐱᓕᕆᐊᓄᑦ ᐅᑎᓪᓗᑎᑦ."
+  - "ᑎᑎᕋᕐᓗᒍ ᓇᓗᓇᐃᖅᑕᐅᔪᓂᒃ ᓇᓗᓇᐃᖅᓯᒪᓂᕐᒧᑦ, ᐊᒻᒪ ᓴᐃᒻᒪᒋᐊᕐᓗᑎᑦ ᐊᔪᙱᓐᓂᖅ ᐱᒋᐊᕐᒪᒃᐸᑦ."
+  - "ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᖃᐅᔨᒋᐊᕐᓗᒍ ᓄᑖᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐱᐅᓯᒋᐊᖅᑐᓂᒃ: ᐋᓐᓂᐊᖅ, ᐋᓐᓂᐊᖃᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑕᖃᕆᐊᖃᕐᑐᑦ ᐃᓚᒋᔭᐅᔪᓐᓇᖅᑐᑦ."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "ᖃᓄᖅ ᐅᓪᓗᒥ ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᖅ ᐱᔭᕇᖅᓯᒪᔪᖅ?"
+    a: "ᐱᔭᕇᖅᓯᒪᔪᖅ ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓᓂ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓐᓄᒃᑯᑦ ᐱᒋᐊᕐᓂᖓᓂ, ᐅᓪᓗᖅ ᑕᕐᕆᔭᒃᓴᐃᓕᖅᑎᓪᓗᒍ. ᐊᔾᔨᒌᙱᑦᑐᖅ ᐃᓄᒃ ᐊᑕᐅᓯᕐᒧᑦ, ᑕᐃᒪᐃᒻᒪᑦ ᓇᓗᓇᐃᖅᑕᐅᓂᖅ ᐱᓇᓱᐊᕈᓯᕐᒧᑦ ᐊᑕᐅᓯᕐᒧᑦ ᒪᕐᕉᓐᓂᒃ ᐃᑲᔪᕈᓐᓇᖅᑐᖅ."
+  - q: "ᖃᓄᑐᐃᓐᓇᑦ ᐱᓕᕆᐊᑦ ᐃᑲᔪᕈᓐᓇᖅᑐᑦ ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᕐᒧᑦ?"
+    a: "ᓴᐃᒻᒪᓂᖅᓴᑦ, ᐱᔭᕇᖅᓯᒪᔪᑦ, ᐊᔪᙱᓐᓂᖅᓴᐅᔪᑦ ᐱᓕᕆᐊᑦ ᐱᐅᔪᒻᒪᕆᐅᓲᑦ ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓᓂ: ᓴᐃᒻᒪᓂᖅᓴᑦ ᐃᙱᖅᑎᑐᑦ, ᐊᔾᔨᙳᐊᑦ ᑕᑯᓂᖏᑦ, ᑕᑯᒐᓐᓇᖅᑐᖅ ᑎᕕ ᐅᕝᕙᓘᓐᓃᑦ ᑕᕐᕆᔭᐃᑦ, ᐊᓐᓄᕌᖅᑎᑕᐅᓂᖅ, ᓇᐃᑦᑐᒥᒃ ᐱᓱᒃᑎᑕᐅᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᓂᕆᕐᓗᑎᒃ ᑲᑐᔾᔨᓗᑎᒃ. ᓄᑖᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᑦ ᐱᓕᕆᐊᑦ ᐅᓪᓗᒥ ᐱᓕᕆᐊᕐᓗᒋᑦ."
+  - q: "ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᖅ ᐱᔾᔪᑎᖃᕐᓂᖅ ᑎᒥᒧᑦ ᐊᑦᑐᐊᓂᖃᕈᓐᓇᖅᐸ?"
+    a: "ᐱᐅᓯᒋᐊᖅᑎᑕᐅᔪᓐᓇᖅᑐᖅ ᐋᓐᓂᐊᖃᕐᓂᖅ ᐱᔾᔪᑎᒋᓪᓗᒍ ᓲᕐᓗ ᐋᓐᓂᐊᖅ, ᐋᓐᓂᐊᖃᕐᓂᖅ ᓲᕐᓗ ᖁᕝᕙᕆᐊᖅᓯᒪᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓂᖅ, ᓯᓂᒃᑎᑕᐅᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑕᖃᕆᐊᖃᕐᑐᑦ ᐊᑐᖅᑕᐅᓂᖏᑦ ᐋᓐᓂᐊᖃᕐᑎᑕᐅᓂᖏᑦ. ᐊᔪᙱᓐᓂᖅ ᓄᑖᖅ, ᑕᑯᔪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐱᐅᓯᒋᐊᖅᑐᖅ, ᐃᓄᒻᒧᑦ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᖃᐅᔨᒋᐊᕐᓗᒍ."
+  - q: "ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᐊᐱᖅᓱᖅᑕᐅᔭᕆᐊᖃᖅᐸ ᑕᖃᕆᐊᖃᕐᑐᓂᒃ ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᕐᒧᑦ?"
+    a: "ᑖᓐᓇ ᐋᓐᓂᐊᖃᕐᑎ ᐅᖃᖃᑎᒌᒍᑕᐅᔪᓐᓇᖅᑐᖅ. ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᑕᖃᕆᐊᖃᕐᑐᒃᑯᑦ ᐱᓕᕆᐊᑦ ᓯᕗᓪᓕᖅᐹᒥ ᐱᔭᕆᐊᖃᕋᔭᖅᑐᑦ, ᐊᒻᒪ ᐅᓐᓄᒃᑯᑦ ᐊᔪᙱᓐᓂᕐᒧᑦ ᑕᖃᕆᐊᖃᕐᑐᑦ ᐃᓱᒪᒋᔭᐅᔪᓐᓇᖅᑐᑦ ᐱᐅᓯᒋᐊᖃᑦᑕᖅᓯᒪᓂᖏᑦ ᐊᒻᒪ ᐃᑲᔪᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐃᓱᒪᒋᐊᖅᑎᓪᓗᒋᑦ. ᑖᓐᓇ ᒪᒃᐱᖅᑐᖅ ᑕᖃᕆᐊᖃᕐᑐᓂᒃ ᐊᑐᖅᑕᐅᓂᕐᒧᑦ ᐅᖃᐅᓯᖃᙱᑦᑐᖅ."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+ᐃᓚᖃᖅᑐᑦ ᐃᓚᒌᒍᑎᖃᖅᑐᑦ ᐊᔾᔨᒌᙱᑦᑐᒥᒃ ᖃᐅᔨᓴᖅᑐᑦ: ᐅᓪᓗᒃᑯᑦ ᓴᐃᒻᒪᓂᖅᓴᐅᕙᒃᑐᑦ, ᑭᓯᐊᓂ ᐅᓐᓄᒃᑯᑦ ᖃᐃᖁᔭᓕᖅᑎᓪᓗᒍ, ᐱᐅᓯᖃᕐᓂᖏᑦ ᐊᓯᔾᔨᖅᑐᑦ ᐃᓄᐃᑦ ᐃᖅᑲᐅᒪᔭᖃᖅᑐᑦ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᓐᓇᖅᑐᑦ, ᐃᓱᒪᒋᔭᐅᔪᓐᓇᖅᑐᑦ, ᑐᓴᐅᒪᓕᕈᓐᓃᖅᑎᑕᐅᔪᓐᓇᖅᑐᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖅᑭᐅᔪᒥᒃ ᐱᔾᔪᑎᖃᕐᓂᖅᓴᐅᔪᓐᓇᖅᑐᑦ. ᐱᓱᒃᑎᑕᐅᔪᓐᓇᖅᑐᑦ, ᐊᖏᕐᕋᒧᑦ ᐅᑎᕈᒪᔪᓐᓇᖅᑐᑦ ᐊᖏᕐᕋᒥᓐᓂᖃᑦᑎᐊᖅᑐᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᑐᖁᒪᔪᓐᓇᖅᑐᑦ ᐊᔪᙱᓐᓂᖅᓴᐅᓗᑎᒃ. ᑖᓐᓇ ᐊᑦᑕᕐᓇᖅᑐᒦᑦᑐᖅ ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᕐᒥᒃ.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+ᐊᑕᐅᓯᕐᒥᒃ ᐋᖅᑭᒃᓱᐃᓂᖃᙱᑦᑐᖅ, ᑭᓯᐊᓂ ᐅᓪᓗᕐᒥ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᖅ, ᐃᓪᓗ ᐋᖅᑭᒃᓯᒪᓂᖓ ᐊᒻᒪ ᐱᓕᕆᐊᑦ ᑐᓂᔭᐅᔪᑦ ᐃᑲᔪᕈᓐᓇᖅᑐᑦ ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᓂᖅᓴᐅᓂᕐᒧᑦ. ᑖᓐᓇ ᒪᒃᐱᖅᑐᖅ ᑲᑎᙵᔪᑦ ᐱᓕᕆᐊᓂᒃ ᐃᑲᔪᕐᓂᐊᖅᑐᓂᒃ, ᑕᖃᕆᐊᖃᕐᑐᒃᑯᑦ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᐱᔾᔪᑎᖃᙱᑦᑐᓂᒃ, ᐱᔭᐅᔪᓂᒃ ᑲᓇᑕᒥ ᐃᓐᓇᐅᓂᕐᒧᑦ ᐃᖅᑲᐅᒪᔭᐅᔪᓄᑦ ᐊᒻᒪ ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ. ᑖᓐᓇ ᑕᖃᕆᐊᖃᕐᑎᒧᑦ ᐊᑐᖅᑕᐅᓂᖅ ᐱᙱᑦᑐᖅ. ᐱᔾᔪᑎᖃᕐᓂᖅ ᓄᑖᖅ, ᑕᑯᔪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐱᐅᓯᒋᐊᖅᑐᖅ, ᐃᓄᒻᒧᑦ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᖃᐅᔨᒋᐊᕐᓗᒍ.
 
-## What is sundowning?
+## ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᖅ ᓇᓗᓇᐃᔭᖅᐸ?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᖅ ᐊᔪᙱᓐᓂᖅ, ᐊᔪᙱᓐᓂᖅᓴᐅᓂᖅ, ᐅᖅᑭᐅᔪᒥᒃ ᐱᔾᔪᑎᖃᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑐᓴᐅᒪᓕᕈᓐᓃᖅᑎᑕᐅᓂᖅ ᐱᒋᐊᕐᓂᖃᑦᑎᐊᖅᑐᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐱᐅᓯᒋᐊᖅᑐᖅ ᐅᓪᓗᖅ ᑕᕐᕆᔭᒃᓴᐃᓕᖅᑎᓪᓗᒍ, ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓᓂ ᐅᕝᕙᓘᓐᓃᑦ ᐅᓐᓄᒃᑯᑦ ᐱᒋᐊᕐᓂᖓᓂ. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ᐅᖃᐅᓯᖃᖅᑐᖅ ᐱᔾᔪᑎᖃᕐᓂᖅ ᑕᖃᐅᑎᒐᓱᐊᖅᑐᖅ ᐅᓐᓄᒃᑯᑦ ᐊᔪᙱᓐᓂᕐᒥᒃ ᐱᐅᓯᒋᐊᖅᑎᑕᐅᔪᓐᓇᖅᑐᖅ.
 
-## What can make late-day restlessness worse?
+## ᓱᓇ ᐅᓐᓄᒃᑯᑦ ᐊᔪᙱᓐᓂᕐᒥᒃ ᐱᐅᓯᒋᐊᖅᑎᑕᐅᔪᓐᓇᖅᐸ?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+ᐊᒥᓱᑦ ᐱᔾᔪᑎᖃᕐᓂᖅ ᐃᓚᒋᔭᐅᔪᓐᓇᖅᑐᑦ, ᐊᑕᖏᖅᑐᒦᙱᑦᑐᑦ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ᐅᖃᐅᓯᖃᖅᑐᖅ ᐱᔾᔪᑎᓂᒃ ᐃᒪᓐᓇ ᐱᐅᔪᓂᒃ:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- ᑕᖃᐅᑎᒐᓱᐊᖅᑐᖅ ᐅᓪᓗᕐᒥ ᐱᔭᐅᓯᒪᔪᒥ;
+- ᓄᑖᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑐᓴᐅᒪᓕᕈᓐᓃᖅᑎᑕᐅᔪᑦ ᐃᓂᒃᓴᐃᑦ;
+- «ᐃᓗᐊᓂ ᑎᒥᒥ ᓈᓴᐅᑎ» ᐊᑐᖅᑕᐅᙱᑦᑐᖅ, ᐅᓪᓗᒃᑯᑦ ᓯᓂᒃᑎᑕᐅᓂᖅ ᐊᒻᒪ ᐅᓐᓄᒃᑯᑦ ᐱᒻᒪᕆᐅᓂᖅ;
+- ᖃᐅᒻᒪᖅ ᐊᒥᓲᓂᖅᓴᐅᓂᖅ ᐊᒻᒪ ᑕᕐᕆᔭᒃᓴᐃᑦ, ᑐᓴᐅᒪᓕᕈᓐᓃᖅᑎᑕᐅᔪᓐᓇᖅᑐᑦ;
+- ᐃᓱᒪᒋᔭᐅᓂᖅ ᐃᓄᐃᑦ ᐊᕙᑎᖓᓂ ᐃᓱᒪᓕᐅᕈᑎᖃᕐᓂᖏᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐅᖅᑭᐅᔪᒥᒃ ᐱᔾᔪᑎᖃᕐᓂᖏᑦ;
+- ᓯᓂᒃᑎᑕᐅᓂᖅ ᐊᒥᓲᓂᖅᓴᐅᓂᖅ ᐱᔭᕆᐊᖃᙱᓐᓂᖅ, ᐃᓐᓇᐅᓂᕐᒧᑦ ᐱᔭᕇᖅᓯᒪᔪᖅ.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA ᐅᖃᐅᓯᖃᕐᒥᔪᖅ ᐊᔪᙱᓐᓂᕐᒧᑦ ᐱᔾᔪᑎᓂᒃ, ᐃᓚᒋᓗᒋᑦ ᐋᓐᓂᐊᖅ, ᐃᓱᒪᓕᐅᕈᑎᖃᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓱᒪᒋᔭᐅᓂᖅ, ᓯᓂᒃᑎᑕᐅᓂᖅ ᓇᒪᓂᖅᓴᐅᓂᖅ, ᐊᓇᕐᕈᓯᐊᖃᙱᓐᓂᖅ, ᓂᐱ ᐊᒥᓲᓂᖅᓴᐅᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓄᐃᑦ ᐊᒥᓱᓂᖅᓴᐅᓂᖏᑦ, ᐊᒻᒪ ᐃᓚᖏᑦ ᑕᖃᕆᐊᖃᕐᑐᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑕᖃᕆᐊᖃᕐᑐᑦ ᑲᑎᑎᑕᐅᓂᖏᑦ.
 
-## How can I plan the day to make evenings calmer?
+## ᖃᓄᖅ ᐅᓪᓗᖅ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᖅ ᓴᐃᒪᓂᖅᓴᐅᓂᕐᒧᑦ ᐅᓐᓄᒃᑯᑦ ᐃᑲᔪᕐᓂᐊᖅᐸ?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+ᐱᓕᕆᐊᑦ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᑦ ᐅᓪᓗᒥ ᓯᕗᓂᖓᓄᑦ ᓅᑎᓪᓗᒋᑦ, ᐊᒻᒪ ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓ ᓴᐃᒻᒪᓂᖅᓴᐅᓗᓂ ᓇᓗᓇᐃᖅᓯᒪᓗᓂ. NIA ᐊᒻᒪ ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐊᑯᓐᓂᖅᓴᒥᒃ ᐅᓪᓗᕐᒥ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᕐᒥᒃ ᐅᖃᐅᓯᖃᖅᑐᑦ. ᐅᓪᓗᕐᒥ ᐆᒃᑐᕋᐅᑎ ᑕᒪᑐᒪᓂ, ᐃᓕᓐᓂᐊᖅᑐᓄᑦ ᐋᖅᑭᒃᓯᒋᐊᕐᓗᒍ:
 
-| Time | What may help |
+| ᐱᕕᖃᕐᓂᖓ | ᐃᑲᔪᕈᓐᓇᖅᑐᖅ ᐱᓕᕆᐊᖅ |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| ᐅᓪᓗᒃᑯᑦ | ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᑲᑎᒪᓂᖅ, ᐅᖃᓕᒫᒐᖃᕐᓂᖅ, ᐊᓂᕝᕕᐅᔪᑦ ᐊᒻᒪ ᐱᓕᕆᐊᑦ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᑦ, ᐃᓄᐃᑦ ᐊᒥᓱᖏᑦ ᐱᔪᓐᓇᖅᓴᐅᓪᓗᑎᒃ ᐱᕕᖃᕐᓂᖓᓂ |
+| ᐅᓪᓗᒃᑯᑦ ᖃᐃᖁᔭᓂᖓᓂ | ᓯᓚᑖᓂ ᐅᕝᕙᓘᓐᓃᑦ ᖃᐅᒻᒪᖅᑯᑦ ᐃᒡᓗᕈᓯᕐᒥ ᐃᓂᓂᖅ; ᐱᓱᒃᑎᑕᐅᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᖏᑦ ᐱᓕᕆᐊᑦ |
+| ᐅᓪᓗᐃᑦ ᕿᑎᖓᓂ | ᐅᓪᓗᐃᑦ ᓂᕆᔭᖅ ᐊᖏᓂᖅᓴᐅᓗᓂ (ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᐅᓪᓗᐃᑦ ᓂᕆᔭᖅ ᐊᖏᓂᖅᓴᐅᓗᓂ ᐊᒻᒪ ᐅᓐᓄᒃᑯᑦ ᓂᕆᔭᖅ ᐅᖁᒪᐃᑦᑐᓴᐅᓗᓂ) |
+| ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓᓂ | ᒥᖅᓱᕐᓂᖅ ᐱᔭᕆᐊᖃᒃᐸᑦ, ᑭᓯᐊᓂ ᐅᓐᓄᒃᑯᑦ ᓯᓂᒃᑎᑕᐅᓂᖅ ᐊᑯᓂᐅᔪᒥᒃ ᐱᔭᕈᓐᓇᙱᓪᓗᒍ |
+| ᐅᓐᓄᒃᑯᑦ ᖃᐃᖁᔭᓂᖓᓂ ᓯᕗᓂᖓᓂ | ᓴᐃᒻᒪᓂᖅᓴᑦ, ᐱᔭᕇᖅᓯᒪᔪᑦ ᐱᓕᕆᐊᑦ; ᓂᕆᔭᖅ ᐊᒻᒪ ᐃᒥᕐᓂᖅ; ᑳᐱᖃᙱᑦᑐᖅ |
+| ᐅᓪᓗᖅ ᑕᕐᕆᔭᒃᓴᐃᓂᖓᓄᑦ ᓯᕗᓂᖓᓂ | ᐃᓪᓗᐃᑦ ᖃᐅᒻᒪᐃᑦ ᐃᑭᐊᖅᑭᓕᖅᑎᓪᓗᒋᑦ ᐊᒻᒪ ᐃᒡᓗᕈᓯᐅᑉ ᐅᒃᑯᐊᖓ ᒪᑐᐃᖅᓯᓪᓗᒍ ᑕᖅᓯᖃᑦᑕᖅᑎᓪᓗᒍᓗ ᓯᕗᓂᖓᓂ |
+| ᐅᓐᓄᒃᑯᑦ | ᐅᖁᒪᐃᑦᑐᓴᐅᑉ ᓂᕆᔭᖓ, ᓴᐃᒻᒪᓂᖅᓴᑦ ᐃᙱᖅᑎᑐᑦ, ᐊᔪᙱᓐᓂᖅᓴᐅᔪᑦ, ᐊᑯᓐᓂᖅᓴᖅ ᓯᓂᕐᓂᕐᒧᑦ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᖅ |
 
-A few specific points from the sources:
+ᐃᓚᖏᑦ ᑐᑭᓕᐅᖅᑕᐅᔪᑦ ᐱᔾᔪᑎᒃᓴᐃᑦ:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **ᐅᓪᓗᒥ ᖃᐅᒻᒪᖅ.** NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᓯᓚᑖᓂ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒡᓗᕈᓯᕐᒧᑦ ᐃᓂᓂᕐᒥᒃ ᐅᓪᓗᕐᒥ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᕐᒥᒃ.
+- **ᐅᓪᓗᕐᒥ ᐱᓱᒃᑎᑕᐅᓂᖅ, ᑭᓯᐊᓂ ᐊᒥᓲᙱᑦᑐᖅ.** ᐅᓪᓗᕐᒥ ᑎᒥᒥᒃ ᐱᓱᒃᑎᑕᐅᓂᕐᒥᒃ ᐱᓕᕆᐊᖃᕐᓗᑎᑦ ᐱᓕᕆᐊᑦ ᐊᒥᓲᙱᑦᑐᒃᑯᑦ ᐱᓕᕆᐊᖃᙱᓗᑎᑦ, NIA ᐅᖃᐅᓯᖃᖅᑐᖅ.
+- **ᐅᓐᓄᒃᑯᑦ ᐃᒥᕐᓂᖅ.** ᐊᓪᑯᓱᓐ ᐊᒻᒪ ᑳᐱᖃᖅᑐᑦ ᐃᒥᕐᔪᐊᑦ, ᓲᕐᓗ ᑳᐱ ᐅᕝᕙᓘᓐᓃᑦ ᑰᓚ, ᐅᓐᓄᒃᑯᑦ ᐃᒥᕈᓐᓇᙱᓪᓗᒋᑦ (NIA). ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᕐᒥᔪᖅ ᑐᐸᒃᑯ ᐅᖃᐅᓯᖃᖅᑐᒥᒃ.
+- **ᓯᓂᒃᑎᑕᐅᓂᖅ ᐅᓪᓗᒃᑯᑦ.** ᐅᓐᓄᒃᑯᑦ ᓯᓂᒃᑎᑕᐅᓂᖅ ᐊᑯᓂᐅᔪᒥᒃ ᐱᔭᕈᓐᓇᙱᓪᓗᒍ (NIA). ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᐅᓪᓗᒃᑯᑦ ᓯᓂᒃᑎᑕᐅᓂᖅ ᐊᒥᓲᖅᑎᓪᓗᒍ ᐅᓐᓄᒃᑯᑦ ᓯᓂᒃᑎᑕᐅᓂᖅ ᐊᔪᙱᓐᓂᖃᒃᐸᑦ.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+ᐅᓪᓗᕐᒥ ᐊᑯᓐᓂᖅᓴᒥᒃ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᕐᒧᑦ ᑐᑭᓯᒋᐊᕈᒪᒍᕕᑦ, ᑕᑯᓗᒍ [ᐅᓪᓗᕐᒥ ᐱᓕᕆᐊᖃᑦᑕᕐᓂᖅ](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## ᖃᓄᖅ ᐃᓪᓗ ᓴᐃᒻᒪᓂᖅᓴᐅᓂᕐᒧᑦ ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓᓂ ᐃᑲᔪᕐᓂᐊᖅᐸ?
 
-Reduce noise, add light and keep familiar things close.
+ᓂᐱ ᐊᒥᓲᖅᑎᓪᓗᒍ, ᖃᐅᒻᒪᖅ ᐃᓚᓯᓪᓗᒍ, ᐊᒻᒪ ᐱᔭᕇᖅᓯᒪᔪᑦ ᓇᒻᒥᓂᖅ ᐱᓕᕆᐊᕐᓗᒋᑦ.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **ᖃᐅᒻᒪᖅᑯᑦ ᖃᐅᒻᒪᖅᓴᐅᓂᖅ.** ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᐃᓪᓗ ᖃᐅᒻᒪᖅᑯᑦ ᖃᐅᒻᒪᖅᓴᐅᓗᓂ ᐅᓐᓄᒃᑯᑦ. ᖃᐅᒻᒪᖅ ᐃᑭᐊᖅᑭᓕᖅᑎᓪᓗᒍ ᑕᕐᕆᔭᒃᓴᐃᑦ ᓴᖅᑭᑦᑎᓂᖏᑦᓄᑦ ᓯᕗᓂᖓᓂ.
+- **ᓂᐱ ᐊᒥᓲᖅᑎᓪᓗᒍ.** ᑎᕕ ᐊᒻᒪ ᓈᓚᐅᑎ ᖁᔭᓕᖅᑎᓪᓗᒋᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓂᐱᖓ ᐊᒥᓲᖅᑎᓪᓗᒍ, ᐊᒻᒪ ᐳᓛᕆᐊᖅᑐᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓪᓗᒥ ᐱᓕᕆᐊᑦ ᐊᒥᓲᖅᑎᓪᓗᒋᑦ ᑖᓐᓇ ᐱᕕᖃᕐᓂᖓᓂ. ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᐅᓐᓄᒃᑯᑦ ᐱᓕᕆᐊᑦ ᐊᒥᓲᖅᑎᓪᓗᒋᑦ ᓲᕐᓗ ᑎᕕ, ᐃᓪᓗᒥ ᐱᓕᕆᐊᑦ ᐊᒻᒪ ᓂᐱ ᐱᔪᓐᓇᖅᓴᐅᔪᖅ.
+- **ᐱᔭᕇᖅᓯᒪᔪᑦ ᓴᐃᒻᒪᓂᖅᓴᐅᔪᑦ.** NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᓴᐃᒻᒪᓂᖅᓴᓂᒃ ᐃᙱᖅᑎᑐᓂᒃ ᐊᒻᒪ ᐱᔭᕇᖅᓯᒪᔪᓂᒃ ᓱᓇᐅᓂᕐᓂᒃ ᐊᒻᒪ ᐊᔾᔨᙳᐊᓂᒃ ᐃᓪᓗᒥ ᐱᓕᕆᐊᕐᓗᒋᑦ.
+- **ᖃᓄᐃᙱᑦᑎᐊᕐᓂᖅ ᖃᐅᔨᓴᖅᑕᐅᓂᖅ.** ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᖃᐅᔨᓴᖅᑕᐅᓗᓂ ᐋᓐᓂᐊᖅ, ᑲᐃᓪᓗᓂ, ᐃᒥᒃᑯᓂᖅ, ᐊᓇᕐᕈᓯᐊᖃᙱᓐᓂᖅ, ᖁᕝᕙᕆᐊᖅᓯᒪᓂᖅ ᑕᑕᐅᖅ, ᑕᖃᐅᑎᒐᓱᐊᖅᑐᖅ, ᐋᓐᓂᐊᖃᕐᓂᖅ ᐊᒻᒪ ᐊᒥᖅ ᐋᓐᓂᐊᖃᕐᓂᖓ, ᐊᒻᒪ ᐃᓪᓗ ᐅᖅᑰᔪᒥᒃ ᓇᒪᓂᖅᓴᐅᓗᓂ ᓴᐃᒻᒪᓂᖅᓴᐅᑎᓪᓗᒍ.
+- **ᐃᓕᓐᓂᐊᕐᓂᑦ ᐃᓱᒪᓕᐅᕈᑎᖓ.** ᐃᓄᐃᑦ ᐃᓱᒪᓕᐅᕈᑎᖃᕐᓂᖅ ᑐᓴᐅᒪᔪᓐᓇᖅᑐᑦ. NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᓱᑲᔪᒃᑯᑦ ᐱᓕᕆᐊᕐᓗᑎᑦ ᐊᒻᒪ ᓴᐃᒻᒪᖃᑦᑕᕐᓗᑎᑦ ᐃᓕᓐᓂᐊᕐᓂᑦ ᐃᓱᒪᓕᐅᕈᑎᖃᕐᓂᖅ ᐃᓚᓯᔪᓐᓇᖅᐸᑦ.
 
-## What calm activities can we do in the late afternoon?
+## ᖃᓄᑐᐃᓐᓇᑦ ᓴᐃᒻᒪᓂᖅᓴᑦ ᐱᓕᕆᐊᑦ ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓᓂ ᐱᓕᕆᐊᕈᓐᓇᖅᐳᒍᑦ?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+ᐱᓕᕆᐊᑦ ᐱᔭᕇᖅᓯᒪᔪᑦ, ᓴᐃᒻᒪᓂᖅᓴᐅᔪᑦ ᐊᒻᒪ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑐᑦ ᓂᕈᐊᕐᓗᒋᑦ. ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᓴᐃᒻᒪᓂᖅᓴᓂᒃ ᐱᓕᕆᐊᓂᒃ ᓲᕐᓗ ᓴᐃᒻᒪᓂᖅᓴᑦ ᐃᙱᖅᑎᑐᑦ, ᐊᔾᔨᙳᐊᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐱᔭᕇᖅᓯᒪᔪᖅ ᑕᕐᕆᔭᐃᑦ, ᐊᒻᒪ ᑲᑐᔾᔨᓗᑎᒃ ᐱᓱᒃᑎᑕᐅᓂᖅ ᐊᔪᙱᓐᓂᕐᒥᒃ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᕐᒧᑦ. NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᓂᕆᔭᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒥᕐᓂᕐᒥᒃ, ᐱᔭᕇᖅᓯᒪᔪᒥᒃ ᑎᕕ ᑕᑯᔭᕐᒥᒃ, ᐃᙱᖅᑎᑐᓂᒃ, ᐱᓱᒃᑎᑕᐅᓂᕐᒥᒃ, ᐅᖃᓕᒫᒐᖃᕐᓂᕐᒥᒃ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᔪᙱᓐᓂᖅᓴᐅᑎᑦᑎᙱᑦᑐᒥᒃ ᐃᓪᓗᒥ ᐱᓕᕆᐊᕐᒥᒃ ᓲᕐᓗ ᐊᓐᓄᕌᖅᑎᑕᐅᓂᕐᒥᒃ.
 
-Ideas to try:
+ᐱᓕᕆᐊᕈᓐᓇᖅᑐᑦ ᐃᓚᖏᑦ:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **ᐊᓐᓄᕌᖅᑎᑕᐅᓂᖅ ᑲᑐᔾᔨᓗᑎᒃ.** NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᑖᔅᓱᒥᖓ ᐊᔪᙱᓐᓂᖅᓴᐅᑎᑦᑎᙱᑦᑐᒥᒃ ᐃᓪᓗᒥ ᐱᓕᕆᐊᕐᒥᒃ. ᐃᕐᒥᖅᑐᐃᑦ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᑦ ᑎᒍᒥᐊᕐᓗᒋᑦ, ᐊᒻᒪ ᐱᓕᕆᐊᖅ ᐃᓱᐊᓄᑦ ᐱᔭᕇᖅᓯᒪᔪᖅ.
+2. **ᐱᔭᕇᖅᓯᒪᔪᓂᒃ ᐃᙱᖅᑎᑐᓂᒃ ᐱᓕᕆᐊᕐᓗᑎᑦ.** ᒪᒃᑯᒃᑐᓂᒃ ᐃᙱᖅᑎᑐᓂᒃ ᐃᓅᓯᖏᑦ ᐱᔭᕇᖅᓯᒪᔪᓂ, ᓂᐱ ᐊᒥᓲᙱᓪᓗᒍ. ᐃᓚᒋᓗᓂ ᐃᙱᖅᑎᑕᐅᓂᖅ ᐱᐅᔪᖅ. ᑐᑭᓯᒋᐊᕈᒪᒍᕕᑦ [ᐃᙱᖅᑎᑐᑦ ᐱᓕᕆᐊᑦ](/activities/music/).
+3. **ᐊᔾᔨᙳᐊᑦ ᑕᑯᓂᖏᑦ.** ᐊᔾᔨᙳᐊᓄᑦ ᒪᒃᐱᖅᑐᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐃᓚᒌᒍᑎᒃ ᐊᔾᔨᙳᐊᑦ [Photo Pairs](/games/photo-pairs/)-ᒥ ᐊᔾᔨᙳᐊᑦ ᑕᑯᔭᐅᓪᓗᑎᒃ, ᓴᐃᒻᒪᓂᖅᓴᒥᒃ ᐅᖃᖃᑎᒌᖕᓂᕐᒧᑦ ᐱᒋᐊᖅᑎᑕᐅᔪᓐᓇᖅᑐᖅ.
+4. **ᓇᐃᑦᑐᒥᒃ ᐱᓱᒃᑎᑕᐅᓂᖅ.** ᐱᕈᖅᑐᒥ, ᐊᖅᑯᑎᒥ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓪᓗᒥ ᐃᖏᕐᕋᓂᖅ, ᑕᖅᓯᖃᑦᑕᖅᑎᓪᓗᒍᓗ ᓯᕗᓂᖓᓂ.
+5. **ᓂᕆᔭᖅ ᐊᒻᒪ ᐃᒥᕐᓂᖅ ᑲᑐᔾᔨᓗᑎᒃ.** ᐊᔪᙱᓐᓂᖅᓴᐅᔪᖅ, ᐅᖅᑰᔪᖅ ᐊᒻᒪ ᑳᐱᖃᙱᑦᑐᖅ, ᓂᕆᕕᒃᓴᒥ ᑲᑐᔾᔨᓗᑎᒃ.
+6. **ᓴᐃᒻᒪᓂᖅᓴᒥᒃ ᓇᓕᒧᒌᖕᓂᖅ.** [Picture Pairs](/games/picture-pairs/) ᑎᓴᒪᐅᔪᓂᒃ ᓇᓕᒧᒌᖕᓂᕐᓂᒃ ᐊᔾᔨᙳᐊᑦ ᑕᑯᔭᐅᓪᓗᑎᒃ ᐱᒋᐊᕐᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᖅ ᐊᒻᒪ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑐᖅ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᖅ.
+7. **ᒥᖑᐊᕆᐊᖅᑎᑕᐅᓂᖅ.** [Coloring](/games/coloring/) ᖃᕋᓴᐅᔭᒃᑯᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑎᑎᕋᖅᓯᒪᔪᒥ ᒪᒃᐱᖅᑐᒥ, ᐱᔭᕇᖅᑎᑕᐅᔪᓐᓇᙱᓗᓂ.
+8. **ᑕᑯᓂᖅ ᐊᒻᒪ ᐅᖃᖃᑎᒌᖕᓂᖅ.** [Conversation Cards](/games/conversation-cards/) ᐊᔾᔨᖅ ᐊᒻᒪ ᐅᖃᐅᓯᖅ ᐊᖏᖅᑐᖅ ᑐᓂᔭᐅᔪᖅ. ᑕᑯᓂᖅ ᓇᒻᒥᓂᖅ ᓈᒻᒪᒃᑐᖅ.
+9. **ᐊᓂᖅᓵᖅᑐᒥᒃ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᖅ.** [Calm Breathing](/games/calm-breathing/) ᓱᑲᔪᒃᑯᑦ, ᓴᐃᒻᒪᓂᖅᓴᖅ ᓄᖅᑲᖅᑎᑕᐅᓂᖅ ᐃᓕᓐᓂᐊᕐᓂᑦ ᐱᒋᐊᕐᓗᒍ ᐊᒻᒪ ᓄᖅᑲᖅᑎᓪᓗᒍ.
+10. **ᐊᒡᒐᒃᑯᑦ ᐱᓕᕆᐊᑦ.** ᓇᑦᑐᐃᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓪᓕᒋᐊᑦ ᐃᓕᓐᓂᐊᕐᓗᒋᑦ, ᐅᖅᑰᔪᒥᒃ ᐅᓪᓗᖅ ᓴᓗᒻᒪᖅᓯᓪᓗᒍ, ᐅᕝᕙᓘᓐᓃᑦ ᐱᔭᕇᖅᓯᒪᔪᒥᒃ ᓱᓇᐅᓂᕐᒥᒃ ᑎᒍᒥᐊᕐᓗᒍ. ᑕᑯᓗᒍ [ᑐᑭᓯᒋᐊᕈᓐᓇᖅᑐᑦ ᐱᓕᕆᐊᑦ](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+ᓄᑖᓂᒃ ᐱᓕᕆᐊᓂᒃ, ᐃᓄᐃᑦ ᐊᒥᓱᓂᒃ ᐊᓂᕝᕕᐅᔪᓂᒃ ᐊᒻᒪ ᐃᖅᑲᐅᒪᓂᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓱᒪᒋᐊᕐᓂᕐᒥᒃ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᓂᒃ ᐱᓕᕆᐊᕈᓐᓇᙱᓪᓗᒋᑦ ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓᓂ. ᑖᒃᑯᐊ ᐅᓪᓗᒥ ᐱᓕᕆᐊᕐᓗᒋᑦ.
 
-## What should I do when restlessness starts?
+## ᖃᓄᖅ ᐱᓕᕆᐊᕆᐊᖃᖅᐸ ᐊᔪᙱᓐᓂᖅ ᐱᒋᐊᕐᒪᒃᐸᑦ?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+ᓴᐃᒻᒪᒋᐊᕐᓗᑎᑦ, ᓴᐃᒻᒪᖅᑎᑎᓪᓗᒍ, ᐊᒻᒪ ᓴᐃᒻᒪᓂᖅᓴᒧᑦ ᐅᑎᖅᑎᓪᓗᒍ. NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᓴᐃᒻᒪᓂᖅᓴᒧᑦ ᐅᖃᕐᓗᑎᑦ, ᐃᓄᐃᑦ ᐃᓱᒪᒋᔭᖏᓐᓂᒃ ᓈᓚᒃᑐᒃᑯᑦ, ᐊᖏᖃᑎᒌᙱᓪᓗᑎᑦ, ᓴᐃᒻᒪᖅᑎᑎᓪᓗᒍ ᐊᑦᑕᕐᓇᖅᑐᒦᖕᒪᑕ, ᐊᒻᒪ ᓴᐃᒻᒪᓂᖅᓴᒧᑦ ᐊᒃᑐᐃᓂᕐᒥᒃ ᐊᑐᕐᓗᑎᑦ ᐃᑲᔪᕈᓐᓇᖅᐸᑦ. ᑕᐃᒪᓐᓇ ᐊᓯᒥᒃ ᐱᓕᕆᐊᕐᓗᑎᑦ: ᓂᕆᔭᖅ, ᐃᒥᕐᓂᖅ, ᐃᙱᖅᑎᑐᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐱᓱᒃᑎᑕᐅᓂᖅ.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᐅᖃᐅᓯᓂᒃ ᐃᒪᓐᓇ ᐱᐅᔪᓂᒃ «ᐊᑦᑕᕐᓇᖅᑐᒦᖕᒪᑎᑦ ᐅᕙᓂ» ᐊᒻᒪ «ᐱᕙᓪᓕᐊᔪᖕᓇᖅᑐᖅ ᐃᓕᓐᓄᑦ ᐃᓱᒪᓕᐅᕈᑎᖃᕐᓂᖅ», ᐊᒻᒪ ᐅᖃᐅᓯᖃᖅᑐᑦ ᖃᐅᒻᒪᖅ ᐃᓚᓯᓪᓗᒍ, ᓱᑲᔪᒃᑯᑦ ᐱᓕᕆᐊᕐᓗᑎᑦ ᐊᒻᒪ ᐱᓕᕆᐊᑦ ᐊᒥᓲᖅᑎᓪᓗᒋᑦ. ᐃᓄᖅ ᐊᔾᔨᒌᒃᑎᑦᑎᓇᙱᓪᓗᒍ, ᐊᕙᑎᖓᓄᑦ ᖃᓂᒋᔭᖓᓄᑦ ᐱᓕᕆᐊᕈᓐᓇᙱᓪᓗᒍ, ᓄᖅᑲᖅᑎᑦᑎᓇᙱᓪᓗᒍ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᖏᖃᑎᒌᙱᓪᓗᒍ.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+ᐃᓄᖅ ᐅᖅᑭᐅᔪᒥᒃ ᐱᔾᔪᑎᖃᕐᓂᖅᓴᐅᒃᐸᑦ, NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᐊᑦᑕᕐᓇᖅᑐᒦᑦᑐᒥᒃ ᐅᖓᓯᒃᑐᒥᒃ ᓂᓪᓕᐊᕐᓗᑎᑦ ᐱᔾᔪᑎᖓ ᓄᖅᑲᖅᑎᓪᓗᒍ. ᐊᓂᖅᑎᕆᓂᕐᒧᑦ ᐱᔭᕆᐊᖃᒃᐸᑦ, 911-ᒧᑦ ᖃᐅᔨᒋᐊᕐᓗᑎᑦ ᐊᒻᒪ ᐅᖃᕐᓗᑎᑦ ᐃᓄᖅ ᐱᐅᓯᖃᕐᓂᖏᑦ ᐊᓯᔾᔨᖅᑐᑦ ᐃᓄᐃᑦ ᐃᖅᑲᐅᒪᔭᖃᖅᑐᖅ.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+ᐅᖃᐅᓯᕆᔭᕗᑦ [ᐅᖃᖃᑎᒌᖕᓂᖅ](/caregiving/communication-tips/) ᐊᒻᒪ [ᖃᓄᖅ ᐱᓕᕆᐊᕆᐊᖃᖅᐸ ᐄᒋᐊᖅ ᐅᖃᒃᐸᑦ](/caregiving/when-they-say-no/) ᑐᑭᓯᒋᐊᕈᓐᓇᖅᑐᑦ ᓴᐃᒻᒪᓂᖅᓴᓂᒃ ᐅᖃᐅᓯᓂᒃ.
 
-## How do I find the triggers?
+## ᖃᓄᖅ ᓇᓗᓇᐃᖅᑕᐅᔪᓂᒃ ᓇᓗᓇᐃᖅᓯᔪᓐᓇᖅᐸ?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+ᓇᓗᓇᐃᖅᑕᐅᓂᖅ ᓇᓗᓇᐃᖅᑕᐅᓗᓂ ᐱᓇᓱᐊᕈᓯᕐᒧᑦ ᐊᑕᐅᓯᕐᒧᑦ ᒪᕐᕉᓐᓂᒃ. ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᑎᑎᕋᕐᓗᒍ ᓱᓇ ᐱᓚᐅᖅᑐᖅ ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᕐᒧᑦ ᓯᕗᓂᖓᓂ ᓇᓗᓇᐃᖅᑕᐅᔪᓂᒃ ᓇᓗᓇᐃᖅᓯᒪᓂᕐᒧᑦ. ᑎᑎᕋᕐᓗᒍ ᖃᓄᖅ ᐱᕕᖃᕐᓂᖓ ᐊᔪᙱᓐᓂᖅ ᐱᒋᐊᕐᓂᖃᑦᑎᐊᖅᑐᖅ, ᓱᓇ ᐱᓚᐅᖅᑐᖅ ᐃᑲᓇᐃᔭᖅᑐᒥ ᓯᕗᓂᖓᓂ, ᓯᓂᒃᑎᑕᐅᓂᖅ, ᓂᕆᔭᑦ ᐊᒻᒪ ᐃᒥᕐᔪᐊᑦ, ᐳᓛᕆᐊᖅᑐᑦ, ᓂᐱ ᐊᒻᒪ ᖃᐅᒻᒪᖅ. ᑎᑎᕋᖅᓯᒪᔪᖅ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᐊᐅᓪᓚᖅᑎᑕᐅᓗᓂ. NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᐱᔾᔪᑎᖃᕐᓂᕐᒧᑦ ᐊᓯᔾᔨᖅᑐᓂᒃ ᑎᑎᕋᕐᓂᖅ ᐃᑲᔪᕈᓐᓇᖅᑐᖅ ᐃᓚᖃᖅᑐᓂᒃ ᐊᒻᒪ ᐋᓐᓂᐊᖃᕐᑎᓂᒃ ᖃᐅᔨᓴᖅᑐᓂᒃ ᖃᓄᐃᙱᑦᑎᐊᕐᓂᕐᒥᒃ ᓇᓗᓇᐃᖅᓯᒪᓂᕐᒧᑦ.
 
-## When should I call a doctor about sundowning?
+## ᖃᓄᖅ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᖃᐅᔨᒋᐊᕆᐊᖃᖅᐸ ᐅᓐᓄᒃᑯᑦ ᓴᐃᒻᒪᖅᑎᑕᐅᓂᕐᒧᑦ?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+ᐃᓄᒻᒧᑦ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᖃᐅᔨᒋᐊᕐᓗᒍ ᐊᔪᙱᓐᓂᖅ ᓄᑖᖅ, ᑕᑯᔪᖅ ᐱᐅᓯᒋᐊᖅᑐᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᖏᓐᓂᒃ ᐊᓯᔾᔨᖅᑐᓂᒃ ᐱᖃᑎᒌᒃᐸᑦ. NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᑕᑯᔪᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓱᑲᔪᒃᑯᑦ ᐊᓯᔾᔨᖅᑐᖅ ᐱᔾᔪᑎᖃᕐᓂᖅ, ᐱᓗᐊᖅᑐᒥᒃ ᐋᓐᓂᐊᖃᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑕᖃᕆᐊᖃᕐᑐᑦ ᐊᓯᔾᔨᖅᑐᑦ ᑭᖑᓂᖓᓂ, ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᐅᖃᐅᔾᔨᔪᓐᓇᖅᑐᖅ ᓴᖅᑭᔮᖅᑎᑕᐅᙱᓪᓗᒍ.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᐊᐱᖅᓱᖅᑕᐅᓗᓂ ᖃᐅᔨᓴᕐᓗᒍ ᐅᓐᓄᒃᑯᑦ ᐱᐅᓯᒋᐊᖅᑎᑕᐅᔪᓐᓇᖅᑐᓂᒃ. ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᑎᒥᒧᑦ ᐊᑦᑐᐊᓂᒃ ᐱᔾᔪᑎᓂᒃ ᓲᕐᓗ ᖁᕝᕙᕆᐊᖅᓯᒪᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓂᖅ, ᑕᖅᑎᓄᑦ ᓄᖅᑲᖅᑎᑕᐅᓂᖅ, ᐃᑎᒐᒃᑯᑦ ᐊᔪᙱᓐᓂᖅ ᐊᒻᒪ ᓯᓂᒃᑎᑕᐅᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᖅ, ᐊᒻᒪ ᐅᖃᐅᓯᖃᖅᑐᑦ ᐊᐱᖅᓱᕐᓗᒍ ᖃᓄᖅ ᐱᕕᖃᕐᓂᖏᑦ ᑕᖃᕆᐊᖃᕐᑐᓄᑦ ᐊᑕᐅᓯᕐᒧᑦ ᐱᐅᔪᒻᒪᕆᐅᒻᒪᖔᑦ. NIA ᑎᑎᕋᖅᓯᒪᔪᖅ ᐋᓐᓂᐊᖅ, ᐊᓇᕐᕈᓯᐊᖃᙱᓐᓂᖅ ᐊᒻᒪ ᑕᖃᕆᐊᖃᕐᑐᑦ ᐋᓐᓂᐊᖃᕐᑎᑕᐅᓂᖏᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑲᑎᑎᑕᐅᓂᖏᑦ ᐊᔪᙱᓐᓂᕐᒧᑦ ᐱᔾᔪᑎᖃᕈᓐᓇᖅᑐᓂᒃ.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ ᐅᖃᐅᓯᖃᖅᑐᑦ ᑕᖃᕆᐊᖃᕐᑐᒃᑯᑦ ᐱᓕᕆᐊᑦ ᐱᔭᕆᐊᖃᕋᔭᖅᑐᑦ ᓯᕗᓪᓕᖅᐹᒥ ᓯᓂᒃᑎᑕᐅᓂᕐᒧᑦ ᐊᔪᙱᓐᓂᕐᒧᑦ ᐱᔾᔪᑎᖃᖅᑐᓄᑦ ᐊᓪᓴᐃᒪᕐ ᐱᐅᓯᖃᕐᓂᖓᓄᑦ, ᐊᒻᒪ ᐅᓐᓄᒃᑯᑦ ᐊᔪᙱᓐᓂᕐᒧᑦ ᑕᖃᕆᐊᖃᕐᑐᑦ ᐃᓱᒪᒋᔭᐅᔪᓐᓇᖅᑐᑦ ᑖᒃᑯᐊ ᐱᓕᕆᐊᑦ ᐱᐅᙱᒃᐸᑦ, ᐱᐅᓯᒋᐊᖃᑦᑕᖅᓯᒪᓂᖏᑦ ᐊᒻᒪ ᐃᑲᔪᖅᑕᐅᔪᓐᓇᖅᑐᑦ ᐃᓱᒪᒋᐊᖅᑎᓪᓗᒋᑦ. ᑖᓐᓇ ᐃᓱᒪᒋᐊᖅᑕᐅᓂᖅ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᐱᔭᐅᔪᖅ. ᑕᖃᕆᐊᖃᕐᑐᓂᒃ, ᓯᓂᒃᑎᑕᐅᓂᕐᒧᑦ ᐃᑲᔪᖅᑐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᓚᓯᓂᕐᒧᑦ ᐱᓕᕆᐊᕈᓐᓇᙱᓪᓗᒋᑦ, ᓄᖅᑲᖅᑎᓪᓗᒋᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓯᔾᔨᖅᑎᓪᓗᒋᑦ ᐋᓐᓂᐊᖃᕐᑎᒧᑦ ᐅᖃᐅᔾᔨᔪᓐᓇᙱᓪᓗᑎᑦ.
 
-## How do I get through the evenings myself?
+## ᖃᓄᖅ ᐅᓐᓄᒃᑯᑦ ᐃᓕᓐᓂᐊᕐᓂᒃ ᐊᑦᑕᕐᓇᖅᑐᒦᑦᑎᔪᓐᓇᖅᐸ?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓ ᐃᓚᖃᖅᑐᓄᑦ ᐅᓪᓗᕐᒥ ᐱᓕᕆᐊᖃᕐᓂᖅ ᐊᔪᙱᓐᓂᖅᓴᐅᔪᓐᓇᖅᑐᖅ. ᐱᔪᓐᓇᖅᐸᑦ, ᐃᓚᒌᒍᑎᒃ, ᐃᖅᑲᓇᐃᔭᖅᑐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑭᓕᖅᓱᖅᑕᐅᔪᒥᒃ ᐃᑲᔪᖅᑐᒥᒃ ᐊᐱᖅᓱᕐᓗᒍ ᐅᓐᓄᒃᑯᑦ ᓯᕗᓂᖓᓂ ᐅᓪᓗᐃᑦ ᐃᓚᖏᓐᓂ, ᐃᑲᓇᐃᔭᕐᓂᐅᑉ ᓇᓗᐊᓂᐅᔪᒃᑯᑦ. ᐅᖃᐅᓯᕆᔭᕗᑦ [ᐃᓚᖃᖅᑐᓄᑦ ᐃᓕᓐᓂᐊᕐᓂᒃ ᒥᖅᓱᕐᓂᖅ](/caregiving/caregiver-self-care/) ᑎᑎᕋᖅᓯᒪᔪᖅ ᒥᖅᓱᕐᓂᕐᒧᑦ ᐃᑲᔪᖅᑐᓂᒃ ᐊᒻᒪ ᐊᑭᖃᙱᑦᑐᒥᒃ ᐊᓪᓴᐃᒪᕐ ᑲᑐᔾᔨᖃᑎᒌᑦ 24/7 ᐃᑲᔪᖅᑐᓄᑦ ᐅᖃᖃᑎᒌᖕᓂᕐᒧᑦ ᑐᖅᑕᐅᔪᓐᓇᖅᑐᒥᒃ.

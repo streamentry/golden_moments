@@ -1,34 +1,31 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "དྲན་ཤེས་ཉམས་ཆུང་ཡོད་མི་དང་གཅིག་ཁར་རྩེདམོ་རྩེ་ཐངས།"
+seoTitle: "དྲན་ཤེས་ཉམས་ཆུང་ཡོད་མི་དང་རྩེདམོ་རྩེ་ཐངས།"
+description: "དྲན་ཤེས་ཉམས་ཆུང་དང་མཉམ་འཚོ་བཞིན་པའི་མི་དང་གཅིག་ཁར་རྩེདམོ་རྩེ་སྐབས་གྲ་སྒྲིག་འབད་ཐངས་ གོམ་པ་སྒྲིག་ཐངས་ ནོར་འཁྲུལ་ལུ་སླར་བཟོ་མ་འབད་ཐངས་ རྩེདམོ་ལས་སླ་བཟོ་ཐངས་ དང་ ག་དེ་སྦེ་བཀག་ནི་ཨིན་ན་ཤེས་ཐངས་ཀྱི་ལམ་སྟོན།"
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  རྩེདམོ་འདི་ བརྟག་དཔྱད་ཅིག་མེན་པར་ གཅིག་ཁར་སྤྱོད་པའི་དུས་ཚོད་ཅིག་སྦེ་ལེན། ཉིནམ་གྱི་ཞི་འཇམས་ས་ཅིག་ལུ་ ཁང་མིག་སྒྲ་ཆ་ཉུང་བའི་ནང་ རོགས་པ་སྦེ་སྡོད་ཞིནམ་ལས་ ལས་སླ་བའི་རྩེདམོ་གཅིག་ཕུལ། ཁོང་གིས་རང་གི་གོམ་པ་སྒྲིག་ཆོག གནོད་པ་མེད་པའི་ནོར་འཁྲུལ་ལུ་ནམ་ར་ཨིན་རུང་སླར་བཟོ་མ་འབད་ དཀའ་ངལ་མཐོང་ཚུགས་པའི་རྟགས་དང་པ་ཅིག་ལུ་རྩེདམོ་ལས་སླ་བཟོ་ དེ་ལས་ པར་རིས་ཚུ་ལག་ལེན་འཐབ་སྟེ་གླེང་མོལ་འབད། ད་ལྟོ་ཡང་བཟོད་བདེ་ཡོད་པའི་སྐབས་ལུ་བཀག། སྔ་པོ་བཀག་ནི་ ཡང་ན་ གཅིག་ཁར་བལྟ་སྡོད་ནི་འདི་ཡང་ལེགས་ཤོམ་སྦེ་ཨིན།
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "དམིགས་ཡུལ་འདི་ མཇུག་བསྡུ་ནི་ ཡང་ན་ ལན་འཐུས་ཡོད་མི་མ་ཡིན་པར་ དགའ་སྤྲོ་དང་འབྲེལ་བ་ཡོད་ནི་ཨིན།"
+  - "འགོ་མ་བཙུགས་པའི་ཧེ་མ་ གྲ་སྒྲིག་འབད། ཁང་མིག་སྒྲ་ཆ་ཉུངམ་ འོད་ལེགས་ཤོམ་ མིག་ཤེལ་དང་ཉན་ཆས་བཙུགས་ ཊི་བི་བཀག་ རྩེདམོ་གཅིག་གྲ་སྒྲིག་འབད་བཞག།"
+  - "གནོད་པ་མེད་པའི་ནོར་འཁྲུལ་ལུ་སླར་བཟོ་མ་འབད། \"འདི་བཟུམ་སྦེ་འབད་གེ\" ཟེར་སླབ་ ཡང་ན་ དེ་འབདཝ་ད་མུ་མཐུད་འབད།"
+  - "དཀའ་ངལ་མ་འཐོན་པའི་ཧེ་མ་རྩེདམོ་ལས་སླ་བཟོ། པར་རིས་ཉུངམ་བཟོ་ གདམ་ཁ་ཉུངམ་བཟོ་ པར་རིས་མཐོང་ཚུགསཔ་སྦེ་བཞག།"
+  - "\"ཁྱོད་དྲན་ག?\" ཟེར་མི་བཟུམ་མེན་པར་ \"འདི་གི་སྐོར་ལས་སླབ་གནང་\" ཟེར་སླབ་སྟེ་ པར་རིས་ལས་ལོ་རྒྱུས་གླེང་མོལ་འགོ་བཙུགས།"
+  - "ཐང་ཆད་ནི་ ཡང་ན་ སེམས་ཁྲལ་ཡོད་པའི་རྟགས་དང་པ་ཅིག་ལུ་བཀག། སྔ་པོ་བཀག་ནི་འདི་ མ་འཐུས་པ་མེན་པར་ ལེགས་ཤོམ་སྦེ་ཨིན།"
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "རྩེདམོ་འདི་ དུས་ཡུན་ག་དེ་ཅིག་སྦེ་རྩེ་དགོ?"
+    a: "འཐུས་ཤོས་ཀྱི་དུས་ཡུན་ཟེར་མི་མེད། མི་ལ་ལོ་ཅིག་ལུ་ སྐར་མ་འགའ་རེ་རྩེ་ནི་འདི་ལངམ་སྦེ་འོང་ ཉིནམ་ལ་ལོ་ཅིག་ལུ་ ཚར་གཅིག་རྩེ་ནི་འདི་ར་ལངམ་སྦེ་འོང། ཆུ་ཚོད་ལུ་མ་བལྟཝ་ལས་ ཁོང་ལུ་བལྟ་ཞིནམ་ལས་ ད་ལྟོ་ཡང་ཞི་འཇམས་སྦེ་མཐོང་བའི་སྐབས་ལུ་བཀག།"
+  - q: "ཁོང་ལུ་རྒྱལ་ཁ་བྱིན་ནི་ཨིན་ན་ ཡང་ན་ ནོར་འཁྲུལ་མ་མཐོང་བཟོ་ནི་ཨིན་ན?"
+    a: "གཅིག་ཁར་རྩེ་མི་དང་གནོན་ཤུགས་ཉུང་བའི་རྩེདམོ་ནང་ རྒྱལ་ཁ་དང་མ་རྒྱལ་ཁ་ཟེར་མི་མེད། ནོར་འཁྲུལ་འདི་གིས་ཁོང་ལུ་སེམས་ཁྲལ་མ་བཟོ་བ་ཅིན་ དེ་བཞིན་སྡོད་ཆོག། ཁོང་ལུ་སེམས་ཁྲལ་བཟོ་བཟུམ་མཐོང་པ་ཅིན་ མ་སླབ་པར་ཞི་འཇམས་སྦེ་གྲོགས་རམ་འབད་ ཡང་ན་ རྩེདམོ་ལས་སླ་བཟོ།"
+  - q: "ང་རྩེ་དོ་ཡོད་མི་ལུ་བལྟ་ནི་རྐྱངམ་ཅིག་དགའ་བ་ཅིན་ག་དེ་སྦེ་འབད?"
+    a: "དེ་འབདཝ་ད་ལེགས་ཤོམ་སྦེ་ཨིན། [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) གིས་ དེ་ལས་བལྟ་ནི་ལུ་དགའ་བ་ཅིན་ བལྟ་ཆོགཔ་སྦེ་བཞག་ཆོགཔ་སྦེ་བསླབ་ཡོད། ཁྱོད་ཀྱིས་མཐོང་མི་གི་སྐོར་ལས་སླབ་ཞིནམ་ལས་ ཁོང་གིས་དགའ་བའི་སྐབས་ལུ་མཛུབ་མོ་བཙུགས་ནི་ ཡང་ན་ གདམ་ཁ་རྐྱབ་ནི་ལུ་ཞུ་བ་འབད།"
+  - q: "རྩེདམོ་འདི་ཚུ་ དྲན་ཤེས་བརྟག་དཔྱད་འབད་ནིའི་ཐབས་ཤེས་ཅིག་ཨིན་ན?"
+    a: "མེན། ང་བཅས་ཀྱི་རྩེདམོ་ཚུ་ དགའ་སྤྲོ་དང་གླེང་མོལ་གྱི་དོན་ལུ་ གཅིག་ཁར་སྤྱོད་ནིའི་ལས་སླ་བའི་ལས་རིམ་ཚུ་ཨིན། འདི་ཚུ་ དྲན་ཤེས་བརྟག་དཔྱད་མེན་ ག་ནི་ཡང་ཚད་འཇལ་མི་འབད་ དེ་ལས་ དྲན་ཤེས་ཉམས་ཆུང་གི་སྨན་བཅོས་ཀྱི་ཐབས་ཤེས་ཡང་མེན།"
+  - q: "འགོ་བཙུགས་ནི་ལུ་ རྩེདམོ་ག་འདི་ལེགས་ཤོམ་སྦེ་འོང?"
+    a: "ཁོང་ལུ་འོས་ཤོས་དང་ལས་སླ་ཤོས་ཀྱི་རྩེདམོ་ལས་འགོ་བཙུགས། [Picture Pairs](/games/picture-pairs/) ནང་ ཊ་ཡིལ་ ༤ དང་ པར་རིས་མཐོང་ཚུགསཔ་སྦེ་བཞག་ནི་ ཡང་ན་ [Find the Same](/games/find-the-same/) ནང་ གདམ་ཁ་ ༢ བཞག་ནི་འདི་ ཞི་འཇམས་སྦེ་འགོ་བཙུགས་ནིའི་ཐབས་ཤེས་ལེགས་ཤོམ་ཅིག་ཨིན། ཁོང་གིས་མཛུབ་མོ་བཙུགས་ནི་ལས་གླེང་མོལ་ལུ་དགའ་བ་ཅིན་ [Conversation Cards](/games/conversation-cards/) འདི་ཡང་ལེགས་ཤོམ་སྦེ་འོང།"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +44,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+དྲན་ཤེས་ཉམས་ཆུང་དང་མཉམ་འཚོ་བཞིན་པའི་མི་དང་གཅིག་ཁར་རྩེདམོ་ལེགས་ཤོམ་ཅིག་རྩེ་བའི་སྐབས་ གྲན་འགྲན་རྩེ་དོ་བཟུམ་མི་མཐོང། མི་གཉིས་ཉེ་འགྲམ་ལུ་སྡོད་ཞིནམ་ལས་ པར་རིས་ལུ་མཛུབ་མོ་བཙུགས་ ཚིག་སྦྱོར་ལུ་ག་ལ་འབད་ཞིནམ་ལས་ མཐོང་མི་གི་སྐོར་ལས་གླེང་མོལ་འབད་དོ་ཡོདཔ་བཟུམ་ཅིག་ཨིན། རྩེདམོ་འདི་ གཅིག་ཁར་དུས་ཚོད་སྤྱོད་ནིའི་རྒྱུ་མཚན་ཅིག་རྐྱངམ་ཅིག་ཨིན།
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+ལམ་སྟོན་འདི་ནང་ ག་དེ་སྦེ་གྲ་སྒྲིག་འབད་ནི་ རྩེདམོ་གི་གོམ་པ་ག་དེ་སྦེ་སྒྲིག་ནི་ ག་ཅི་ཅིག་ “ནོར་འཁྲུལ” འབྱུང་པའི་སྐབས་ག་དེ་སྦེ་སླབ་ནི་ རྩེདམོ་ག་ར་ལས་སླ་བཟོ་ནི་ ཡང་ན་ ཅུང་དཀའ་བཟོ་ནི་ གླེང་མོལ་ལུ་ག་དེ་སྦེ་བསྒྱུར་ནི་ དེ་ལས་ ག་དེ་སྦེ་བཀག་ནི་ཨིན་ན་ཤེས་ནི་གི་སྐོར་ལས་འབད་ཡོད། འདི་ ང་བཅས་ཀྱི་ [རྩེདམོ་](/games/) ཚུ་དང་ ཁྱོད་ལུ་ཧེ་མ་ལས་ཡོད་མི་ ཤོག་བྱང་ དུམ་བུའི་རྩེདམོ་ དང་ བོརཌ་གེམ་ཚུ་ལུ་ཡང་ལག་ལེན་འཐབ་ཚུགས།
 
-## What is the best way to play a game with someone who has dementia?
+## དྲན་ཤེས་ཉམས་ཆུང་ཡོད་མི་དང་གཅིག་ཁར་རྩེདམོ་རྩེ་ནིའི་ཐབས་ཤེས་ལེགས་ཤོམ་འདི་ག་ཅི་ཨིན་ན?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+གྲུབ་འབྲས་ལུ་མེན་པར་ དགའ་སྤྲོ་ལུ་དམིགས། འདི་ [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities) ནང་གི་ལམ་སྟོན་གཙོ་བོ་ཅིག་ཨིན། ཁོང་གིས་ད་ལྟོ་ཡང་འབད་ཚུགས་པའི་ལག་རྩལ་ལུ་གཞི་བཞག་ འགོ་བཙུགས་ནི་ལུ་གྲོགས་རམ་འབད་ དཀའ་བའི་ཆ་ཤས་ཚུ་ཁྱོད་ར་གིས་འབད་ དེ་ལས་ གནོད་པ་མེད་པའི་ལས་ཀ་ཚུ་ལུ་སྐྱོན་བརྗོད་མ་འབད་ སླར་བཟོ་ཡང་མ་འབད།
 
-In practice that means:
+ཉམས་ལེན་ནང་ དོན་དག་འདི་ཚུ་ཨིན:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **ཁོང་གི་རོགས་པ་ལུ་སྡོད་ ཕ་རོལ་ལུ་མ་སྡོད།** རོགས་པ་ལུ་སྡོད་པ་ཅིན་ གློག་ཀླད་ ཡང་ན་ ཁ་གཏད་གཉིས་ཆ་ར་མཐོང་ཚུགས་ དེ་ལས་ གྲོགས་རམ་འབད་མི་འདི་ ལྟ་རྟོག་འབད་དོ་བཟུམ་མེན་པར་ མཉམ་ལས་འབད་དོ་བཟུམ་སྦེ་ཚོར།
+- **ཚར་གཅིག་ལུ་ རྩེདམོ་གཅིག་རྐྱངམ་ཅིག་ཕུལ།** གདམ་ཁ་མང་པོ་ཡོད་པ་ཅིན་ འགོ་མ་བཙུགས་པའི་ཧེ་མ་ལས་ར་ བརྟག་དཔྱད་ཅིག་བཟུམ་ཚོར་འོང།
+- **ཁོང་གི་ལམ་ལུ་རྗེས་སུ་འབྲང་།** ཁོང་གིས་པར་རིས་ཚུ་རང་གི་གོ་རིམ་ལུ་མཛུབ་མོ་བཙུགས་ནི་ པར་རིས་གཅིག་གི་སྐོར་ལས་སྐར་མ་ ༡༠ སྦེ་གླེང་མོལ་འབད་ནི་ ཡང་ན་ ཚར་གཉིས་ཀྱི་ཤུལ་ལས་བཀག་ནི་ཨིན་རུང་ དེ་ད་རེས་ཀྱི་རྩེདམོ་ཨིན།
+- **མཇུག་བསྡུ་ཡོད་མིའི་ཚར་ལུ་མེན་པར་ ལེགས་ཤོམ་གྱི་སྐབས་ལུ་བརྩི།** འཛུམ་ ལོ་རྒྱུས་ ཡང་ན་ ཞི་འཇམས་ཀྱི་ཆུ་ཚོད་ཕྱེད་ཀ་ཅིག་ ཁྱོད་ཀྱིས་འཚོལ་དོ་ཡོད་མིའི་གྲུབ་འབྲས་ཨིན།
 
-## How do I set up before we start?
+## འགོ་མ་བཙུགས་པའི་ཧེ་མ་ལུ་ ང་གིས་ག་དེ་སྦེ་གྲ་སྒྲིག་འབད་དགོ?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+སྐར་མ་འགའ་གྲ་སྒྲིག་འབད་མི་འདི་གིས་ མི་གིས་རྩེདམོ་ལུ་སྐྱོན་བརྗོད་འབད་མིའི་དཀའ་ངལ་མང་ཤོས་ཅིག་སྔོན་བཀག་འབད་ཚུགས།
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **ཁོང་གི་ཉིནམ་ནང་ལེགས་ཤོམ་ས་ཆ་གདམ།** [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ནང་ ཁོང་ལེགས་ཤོམ་ས་བབ་ཡོད་པའི་དུས་ཚོད་ལུ་ ལས་རིམ་དང་ཕྱིར་འགྱོ་ཚུ་འཆར་གཞི་བཟོ་དགོཔ་སྦེ་བསླབ་ཡོད། མི་མང་ཤོས་ཅིག་ལུ་ དེ་དྲོ་པ་སྔ་པོ་ཨིན། ཕྱི་དྲོ་ཤུལ་མམ་འདི་ རྒྱུན་དུ་དཀའ་བ་སྦེ་འོང་ དེ་གི་སྐོར་ལུ་ [ཕྱི་དྲོ་ཤུལ་མའི་ཞི་འཇམས་ལས་རིམ་](/caregiving/late-day-restlessness/) བལྟ།
+2. **ཁང་མིག་སྒྲ་ཆ་ཉུངམ་བཟོ།** ཊི་བི་དང་རེ་ཌིའོ་བཀག་ འབད་ཚུགས་པ་ཅིན་ སྒོ་ཁ་བརྒྱབ། [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) གིས་ གླེང་མོལ་མ་འབད་པའི་ཧེ་མ་ སྒྲ་དང་ཡིད་སྐྱོ་བཟོ་མི་ཉུངམ་བཟོ་དགོཔ་སྦེ་བསླབ་ཡོད།
+3. **ཧེ་མ་ བཟོད་བདེ་ཡོད་མེད་ཞིབ་དཔྱད་འབད།** ཉེ་འགྲམ་ལུ་ཆུ་ ཧེ་མ་ལས་ཁྲིམས་ཁང་འགྱོ་ནི་ བཟོད་བདེ་ཡོད་པའི་རྐུབ་ཁྲི་ དེ་ལས་ མིག་ཤེལ་དང་ཉན་ཆས་བཙུགས་ཡོད་ནི།
+4. **ཁང་མིག་ལུ་འོད་ལེགས་ཤོམ་བཟོ།** གསལ་ཏེ་མཉམ་པའི་འོད་ གློག་ཀླད་ཀྱི་གསལ་ཤེལ་ལུ་འོད་མི་ཆག་པ་ཅིན་ པར་རིས་མཐོང་ནི་ལས་སླ་སྦེ་འོང།
+5. **སྡོད་པའི་ཧེ་མ་ རྩེདམོ་གྲ་སྒྲིག་འབད་བཞག།** ཁྱོད་ར་གིས་ཁ་ཕྱེ་ཞིནམ་ལས་ སྒྲིག་སྟངས་དང་སྒྲ་ཚད་གདམ། དེ་ལས་ཤུལ་ལས་ གསལ་ཤེལ་ཁོང་ལུ་ཕྱོགས། ཊེབ་ལེཊི་གི་ལམ་སྟོན་གྱི་དོན་ལུ་ [ཊེབ་ལེཊི་ ཡང་ན་ ཁ་པར་གྲ་སྒྲིག་འབད་ཐངས་](/caregiving/tablets-and-screens/) བལྟ།
+6. **ཡོ་ཆས་འདི་སྤུས་བཟོ།** ཊེབ་ལེཊི་ཐད་ཀར་དུ་འཛིན་མི་སྟེནཌ་ ཡང་ན་ ཁེབས་ཅིག་ཡོད་པ་ཅིན་ ག་ར་གིས་འཛིན་དགོ་པའི་དགོས་མཁོ་མེད་ དེ་ལས་ མཛུབ་མོ་བཙུགས་ནི་ཡང་ལས་སླ་སྦེ་འོང།
 
-## How do I invite them without pressure?
+## གནོན་ཤུགས་མེད་པར་ ང་གིས་ག་དེ་སྦེ་ཞུ་བ་འབད་དགོ?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+ཞུ་བ་འདི་ སྤྱིར་བཏང་དང་ངོས་ལེན་མ་འབད་རུང་ལས་སླ་བཟོ། ལེགས་ཤོམ་སྦེ་འཐོན་མིའི་ཚིག་སྦྱོར་ལ་ལོ་ཅིག:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “ང་ལུ་ལྡུམ་རའི་པར་རིས་འགའ་ཐོབ་ཅི། ང་དང་གཅིག་ཁར་བལྟ་ནི་ཨིན་ན?”
+- “འ་ནི་དུམ་བུའི་རྩེདམོ་འདི་ནང་ ང་ལུ་གྲོགས་རམ་འབད་གནང་ཟེར་སྨོ? ང་ལུ་དཀའ་སོ་ཡི།”
+- “ད་རེས་ མེ་ཏོག་དང་ བྱ་ག་གི་ནང་ལས་ག་འདི་བལྟ་ནི་ཨིན་ན?” (གདམ་ཁ་གཉིས་འདི་ ཁ་ཕྱེ་བའི་དྲི་བ་ལས་ལས་སླ་སྦེ་འོང་)
+- “ང་གིས་ ཁྱོད་ཀྱི་ཨ་ཞུ་ལུ་ བྱང་བུ་ཅིག་བཟོ་དོ་ཡོད། འདི་ལུ་ ཚོས་གཞི་ག་འདི་བཟོ་དགོ?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association གིས་ ལས་རིམ་གྱི་དམིགས་ཡུལ་ དཔེར་ན་ ཆ་རོགས་ཅིག་ལུ་བྱང་བུ་བཟོ་དོ་ཡོད་ཟེར་བ་ འགྲེལ་བཤད་རྐྱབ་དགོཔ་སྦེ་བསླབ་ཡོད་ ག་ཅི་སྦེ་ཟེར་བ་ཅིན་ རྒྱུ་མཚན་ཅིག་ཡོད་པ་ཅིན་ དོན་སྙིང་ཡོདཔ་སྦེ་འོང། གྲོགས་རམ་ཞུ་བ་འབད་མི་འདི་ཡང་ ལེགས་ཤོམ་སྦེ་འབད་ཚུགས་ ག་ཅི་སྦེ་ཟེར་བ་ཅིན་ དེ་གིས་ཁོང་ལུ་ཕན་ཐོགས་ཡོདཔ་སྦེ་ཚོར་བཅུགཔ་ཨིན།
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+ཁོང་གིས་མེན་ཟེར་སླབ་པ་ཅིན་ ངོས་ལེན་འབད། ཤུལ་ལས་ ཡང་ན་ གཞན་ཅིག་ཕུལ། ང་བཅས་ཀྱི་ [ཁོང་གིས་མེན་ཟེར་སླབ་པའི་སྐབས་ག་དེ་སྦེ་འབད་ནི་](/caregiving/when-they-say-no/) ལམ་སྟོན་ནང་ ཁ་གསལ་སྦེ་ཡོད།
 
-## How long should a game last, and how fast should we go?
+## རྩེདམོ་འདི་ དུས་ཡུན་ག་དེ་ཅིག་སྦེ་རྩེ་དགོ་ དེ་ལས་ གོམ་པ་ག་དེ་ཅིག་སྦེ་སྒྲིག་དགོ?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+ཁོང་ལུ་རང་གི་གོམ་པ་སྒྲིག་བཅུག་ དེ་ལས་ ཐུང་ཀུའི་དུས་ཚོད་ཀྱི་དོན་ལུ་འཆར་གཞི་བཟོ། གཅིག་ཁར་རྩེ་མི་རྩེདམོ་གི་དོན་ལུ་ སྦྱོང་བརྡར་ལུ་གཞི་བཞག་པའི་འཐུས་ཤོས་ཀྱི་དུས་ཡུན་ཟེར་མི་མེད། ཞི་འཇམས་ཀྱི་སྐར་མ་ ༢ ལས་ ༥ ཅིག་ ལས་རིམ་ཆ་ཚང་ཅིག་འོང་ཚུགས།
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **སྤྱིར་བཏང་ལས་ལྷག་སྟེ་བསྒུག།** NIA གིས་ མི་འདི་གིས་ལན་འདེབས་ནི་ལུ་དུས་ཚོད་ལྷག་སྟེ་བྱིན་ བར་མཚམས་མ་བཅད་པར་འབད་དགོཔ་སྦེ་བསླབ་ཡོད། གྲོགས་རམ་མ་འབད་པའི་ཧེ་མ་ སེམས་ནང་ལུ་ ༡༠ ཚུན་ཚོད་གྲངས།
+- **ཚར་གཅིག་ལུ་ གོམ་པ་གཅིག** ཐུང་ཀུ་དང་གསལ་པོའི་ལམ་སྟོན་གཅིག་རྐྱངམ་ཅིག་སླབ་ (“པར་རིས་ཅིག་ལུ་མཛུབ་མོ་བཙུགས”) དེ་ལས་བསྒུག། འགྲེལ་བཤད་མ་རྐྱབ་པར་ སྟོན། ག་ཏེ་ལུ་མཛུབ་མོ་བཙུགས་དགོ་མི་ལུ་མཛུབ་མོ་བཙུགས་སྟོན།
+- **འདོད་མཐུན་ལུ་མཚམས་བཞག།** ཁོང་གིས་པར་རིས་ཅིག་གི་སྐོར་ལས་གླེང་མོལ་འབད་ནི་ལུ་བཀག་སྡོད་པ་ཅིན་ རྩེདམོ་འདི་བསྒུག་འོང། མགྱོགས་པོ་འབད་དགོ་པའི་དགོས་མཁོ་མེད།
+- **ཁོང་ལུ་བལྟ་བཅུག།** NIA གིས་ མི་ལ་ལོ་ཅིག་གིས་བལྟ་ནི་ལུ་དགའཝ་ཨིན་ཟེར་བཤད་ཡོད་ དེ་ཡང་ངོས་ལེན་འབད་དགོ་པའི་གདམ་ཁ་ཅིག་ཨིན།
 
-## Should I correct wrong answers?
+## ནོར་འཁྲུལ་གྱི་ལན་ལུ་ ང་གིས་སླར་བཟོ་དགོ་ག?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+མི་དགོ། སྐབས་རེ་ལས་ཞི་འཇམས་སྦེ་སླར་བཟོ་མི་འདི་གིས་ ཁྱོད་ཀྱི་སེམས་ནང་ལུ་ལེགས་ཤོམ་སྦེ་མནོ་རུང་ ཁོང་ལུ་ ང་མ་འཐུས་ཟེར་བའི་ཚོར་བ་བཟོཝ་ཨིན། Alzheimer's Association གིས་ གནོད་པ་མེད་པའི་ལས་ཀ་ཚུ་ལུ་ སྐྱོན་བརྗོད་མ་འབད་ སླར་བཟོ་ཡང་མ་འབད་ཟེར་བསླབ་ཡོད། རྩེདམོ་ནང་ ནོར་འཁྲུལ་ཕལ་ཆེར་ གནོད་པ་མེདཔ་ཨིན།
 
-| Instead of | Try |
+| འདི་གི་ཚབ་ལུ | འདི་འབད་གནང་ |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “མེན་ དེ་ནོར་འཁྲུལ་ཨིན།” | “འདི་བཟུམ་སྦེ་འབད་གེ།” (NIA གིས་བྱིན་མིའི་དཔེར་བརྗོད་ཅིག་) |
+| “དེ་མཐུན་པ་མེན། ལོག་བལྟ།” | ག་ནི་ཡང་མ་སླབ་པར་ ཤུལ་མའི་ཚར་ལེན་ ཡང་ན་ “ཨོ་ འདི་གཉིས་ཆ་ར་དམརཔོ་ཨིན་པས།” |
+| “འདི་ག་འདི་ཨིན་ན་དྲན་ག?” | “འདི་གི་པར་རིས་ཀྱི་སྐོར་ལས་སླབ་གནང་།” |
+| “ཁྱོད་ཀྱིས་དེ་ཧེ་མ་ལས་འབད་ཚར་ཡི།” | “དེ་ལེགས་ཤོམ་ཨིན་པས། ལོག་འབད་གེ།” |
+| “འབད་གནང་ ཁྱོད་ཀྱིས་ཤེས་དགོ།” | “ང་གིས་མཇུག་འདི་སྟོན་གེ?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+ནོར་འཁྲུལ་ཅིག་གིས་ཁོང་ལུ་གསལ་པོ་སྦེ་དཀའ་ངལ་བཟོ་བ་ཅིན་ ཞི་འཇམས་སྦེ་གྲོགས་རམ་འབད། འཐུས་མི་པར་རིས་ལུ་མཛུབ་མོ་བཙུགས་ ཁྱོད་ར་གིས་ཚར་གཅིག་ལེན་ ཡང་ན་ ཤུལ་མའི་ཚར་ལུ་རྩེདམོ་ལས་སླ་བཟོ། ཚིག་སྦྱོར་ཅིག་གི་མཇུག་ནོར་འཁྲུལ་སྦེ་སྐྱེ་ཡོད་རུང་ག་ལ་འོང་བ་ཅིན་ མཉམ་དུ་ག་ལ་འབད། ཁོང་གི་མཇུག་འདི་ ལྷག་སྟེ་ལེགས་ཤོམ་འོང་ནི་མས།
 
-## How do I make a game easier or harder?
+## རྩེདམོ་འདི་ ག་དེ་སྦེ་ལས་སླ་བཟོ་ནི་ ཡང་ན་ ཅུང་དཀའ་བཟོ་ནི་ཨིན་ན?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+ཉིནམ་དེ་གི་ཁོང་ལུ་མཐུན་སྦེ་ རྩེདམོ་སྒྲིག་སྟངས་བསྒྱུར་ གནས་ཚད་ཀྱི་མིང་ལུ་མ་བསྒྲིགས། མི་གཅིག་ལུ་ར་ དགོང་མོ་དྲོ་པ་སྔ་པོ་ལས་ལས་སླ་བའི་ཐོན་རིམ་དགོཔ་འོང། NIA གི་ལམ་སྟོན་དང་པ་འདི་ ལས་རིམ་འདི་ཁོང་གིས་འབད་ཚུགས་པའི་ལུ་མཐུན་སྦེ་བཟོ་ དེ་ལས་ ཁོང་ལུ་ལེགས་ཤོམ་སྦེ་འཐུས་པའི་ཚོར་བ་ཡོད་པར་བཟོ་དགོཔ་ཨིན།
 
-| Game | Make it easier | Make it a little harder |
+| རྩེདམོ་ | ལས་སླ་བཟོ་ནི | ཅུང་དཀའ་བཟོ་ནི |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | ཊ་ཡིལ་ ༤ དང་འགོ་བཙུགས་ཞིནམ་ལས་ པར་རིས་མཐོང་ཚུགསཔ་སྦེ་བཞག | ཊ་ཡིལ་ལྷག་སྟེ་བཟོ་ ཡང་ན་ བཟོད་བདེ་ཡོད་པ་ཅིན་ པར་རིས་སྦ་བཞག |
+| [Find the Same](/games/find-the-same/) | གདམ་ཁ་ ༢ | གདམ་ཁ་ ༤ ཚུན་ཚོད་བཟོ |
+| [Sort Together](/games/sort-together/) | ཁྱོད་ཀྱིས་པར་རིས་འཛིན་ ཁོང་གིས་སླེབས་ལུ་མཛུབ་མོ་བཙུགས | ཁོང་གིས་པར་རིས་དང་སླེབས་གཉིས་ཆ་ར་རང་གིས་མཛུབ་མོ་བཙུགས |
+| [Picture Puzzle](/games/picture-puzzle/) | དུམ་བུ་ ༤ དང་ ཧེ་མ་ པར་རིས་ཆ་ཚང་གི་སྐོར་ལས་གླེང་མོལ་འབད | དུམ་བུ་ ༩ |
+| [Finish the Saying](/games/finish-the-saying/) | མཇུག་སྟོན་ཞིནམ་ལས་ མཉམ་དུ་སླབ | མཛུབ་མོ་མ་བཙུགས་པའི་ཧེ་མ་ མཇུག་སླབ་བཅུག |
+| [Word Search](/games/word-search/) | པར་སྐྲུན་འབད་ཞིནམ་ལས་ མཉམ་དུ་ཚིག་གཅིག་འཚོལ་ དེ་གི་ཡི་གུ་དང་པ་ལུ་མཛུབ་མོ་བཙུགས | ཤུལ་མམ་འཚོལ་ནིའི་ཚིག་ཁོང་གིས་གདམ་བཅུག |
+| [Coloring](/games/coloring/) | ཁྱོད་ཀྱིས་ཚོས་གཞི་གཉིས་གདམ་ ཁོང་གིས་དེ་གཉིས་ཀྱི་ནང་ལས་གདམ | ཚོས་གཞི་ག་ར་ཁོང་གིས་གདམ |
+| [Conversation Cards](/games/conversation-cards/) | པར་རིས་ལུ་མཉམ་དུ་བལྟ་སྡོད | ཤོག་བྱང་ནང་གི་ཁ་ཕྱེ་བའི་དྲི་བ་ཚུ་ལག་ལེན་འཐབ |
+| [Photo Pairs](/games/photo-pairs/) | དགའ་ཤོས་ཀྱི་ནང་མིའི་པར་རིས་ཉུང་ཤོས་ཅིག | པར་རིས་ལྷག་སྟེ་བཟོ |
+| [Picture Bingo](/games/picture-bingo/) | རྩེ་མི་རེ་རེ་ལུ་ གྲོགས་རམ་པ་ཅིག་སྡོད | རྩེ་མི་ཚུ་གིས་རང་གི་ཤོག་བྱང་ལུ་རྟགས་བཀོད |
+| [Calm Breathing](/games/calm-breathing/) | མཉམ་དུ་སྡོད་ཞིནམ་ལས་བལྟ་སྡོད | དལ་གྱིས་མཉམ་དུ་རླུང་ལེན |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+རྩེདམོ་འདི་དཀའ་དྲགས་པའི་རྟགས: བསམ་བློ་མ་འབད་པར་སེམས་ཁྲལ་ཡོད་པའི་བཟུམ་གྱི་བསྒུག་ཡུན་རིངམ་ “ང་གིས་མི་ཚུགས” ཟེར་སླབ་སླབཔ་ ཡོ་ཆས་ཕར་བཤུད་ ཡང་ན་ ནོར་འཁྲུལ་གྱིས་ཁོང་ལུ་སེམས་ཁྲལ་བཟོ་བ། ལས་སླ་དྲགས་པའི་རྟགས: ཡིད་སྐྱོ་འོང་ནི་ ཡང་ན་ ཁོང་གིས་འདི་བྱིས་པའི་རྩེདམོ་བཟུམ་སྦེ་སླབ་པ། དེ་འབད་བ་ཅིན་ ངོས་ལེན་འབད་ཞིནམ་ལས་ རྒས་ཆེན་ཚོར་བ་ཡོད་པའི་གཞན་ཅིག་ལུ་སོར་ དཔེར་ན་ ཚིག་འཚོལ་རྩེདམོ་ ངོ་མའི་པར་རིས་ཀྱི་དུམ་བུའི་རྩེདམོ་ ཡང་ན་ ཁོང་གི་སྔོན་གྱི་ལས་ཀའི་པར་རིས་ཀྱི་སྐོར་ལས་གླེང་མོལ་འབད་ནི།
 
-## How do I turn a game into a conversation?
+## རྩེདམོ་འདི་ གླེང་མོལ་ལུ་ག་དེ་སྦེ་བསྒྱུར་ནི་ཨིན་ན?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+པར་རིས་རེ་རེ་ གླེང་མོལ་འབད་ནིའི་གདན་འདྲེན་སྦེ་ལག་ལེན་འཐབ་ དེ་ལས་ ཁོང་གིས་ག་ཅི་སླབ་རུང་ ལེགས་ཤོམ་གྱི་ལན་སྦེ་ལེན། ནང་མི་མང་ཤོས་ཅིག་ལུ་ འདི་རྩེདམོ་རྩེ་བའི་ནང་ལུ་ལེགས་ཤོམ་ཤོས་ཀྱི་ཆ་ཤས་ཅིག་ཨིན།
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **ཁ་ཕྱེ་བའི་དྲི་བ་དང་ ལན་ནོར་ཡོད་མེད་མེད་པའི་དྲི་བ་དྲིས།** “ཁྱོད་ཀྱིས་ག་ཅི་མཐོང་མས?” “ཁྱོད་ལུ་ག་འདི་དགའ་སུ?” “འདི་བཟུམ་གྱི་ཐབ་ཚང་གི་སྐོར་ལས་སླབ་གནང་།”
+- **ཧེ་མ་ ཁྱོད་ར་གིས་སླབ།** “ངའི་ཨ་ཞི་ལུ་འདི་བཟུམ་གྱི་ཁྱི་ཅིག་ཡོདཔ་ཨིན།” ཁྱོད་ཀྱི་ལོ་རྒྱུས་འདི་གིས་ ཁོང་ལུ་ཡང་སླབ་ནི་ལས་སླ་བཟོཝ་ཨིན།
+- **ལམ་གཞན་ལུ་འགྱོ་མི་ལུ་རྗེས་སུ་འབྲང་།** མོ་ཊིའི་པར་རིས་ཅིག་ལས་ ལམ་འགྲུལ་གྱི་ལོ་རྒྱུས་ཅིག་འཐོན་པ་ཅིན་ ལོ་རྒྱུས་འདི་ར་ལས་རིམ་ཨིན། རྩེདམོ་འདི་མཚམས་བཞག་སྡོད་ཆོག།
+- **བདེན་དཔྱད་མ་འབད།** དྲན་གསོའི་གླེང་མོལ་ནང་ བཟོད་བདེ་ཡོད་པའི་གླེང་མོལ་འདི་ ཞིབ་ཕྲའི་བདེན་དཔང་ལས་གལ་ཆེ་བ་སྦེ་འོང། ལོ་རྒྱུས་འདི་ ཧེ་མའི་ཚར་ལས་སོར་བ་ཅིན་ ཐོན་རིམ་གསརཔ་འདི་ལུ་དགའ་བསུ་ཞུ།
+- **ནང་སྦྲགས་ཡོད་པའི་ལམ་སྟོན་ཚུ་ལག་ལེན་འཐབ།** [Finish the Saying](/games/finish-the-saying/) གིས་ ཚིག་སྦྱོར་རེ་རེ་གི་ཤུལ་ལས་ གླེང་མོལ་གྱི་ལམ་སྟོན་ཅིག་བྱིནམ་ཨིན་ དེ་ལས་ [Conversation Cards](/games/conversation-cards/) འདི་ དམིགས་ཡུལ་དེ་གི་དོན་ལུ་བཟོ་ཡོད། [Photo Pairs](/games/photo-pairs/) གིས་ ཁྱོད་རའི་ནང་མིའི་པར་རིས་ལག་ལེན་འཐབ་ཨིན་ དེ་ཚུ་གིས་ལོ་རྒྱུས་ཕུན་སུམ་ཚོགས་པ་བཟོ་ཚུགས།
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+ཁ་གསལ་གྱི་དོན་ལུ་ ང་བཅས་ཀྱི་ [དྲན་གསོའི་ལས་རིམ་](/activities/reminiscence/) དང་ [གླེང་མོལ་གྱི་ལམ་སྟོན་](/caregiving/communication-tips/) ཚུ་བལྟ།
 
-## When should we stop?
+## ང་བཅས་ག་དེ་སྦེ་བཀག་དགོ?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+ཐང་ཆད་ནི་ ཡང་ན་ སེམས་ཁྲལ་ཡོད་པའི་རྟགས་དང་པ་ཅིག་ལུ་བཀག་ དེ་ལས་ འབད་ཚུགས་པ་ཅིན་ དེ་གི་ཧེ་མ་ལུ་བཀག། Alzheimer's Association གིས་ དམིགས་བསལ་ཉམས་ནི་ ཡང་ན་ དཀའ་ངལ་འཕར་བའི་སྐབས་ལུ་ ལས་རིམ་བཀག་ནི་ ཡང་ན་ སོར་དགོཔ་སྦེ་བསླབ་ཡོད།
 
-Watch for:
+འདི་ཚུ་ལུ་བལྟ:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- ཧའ་ལངས་ནི་ གཟུགས་པོ་ཉམས་ནི་ ཡང་ན་ མིག་གིས་གསལ་ཤེལ་ལས་ཕར་འགྱོ་ནི།
+- མི་བཟོད་པར་འབད་ནི་ ལངས་ནི་ ཡང་ན་ འགྱོ་ནི་ཞུ་བ་འབད་ནི།
+- ཤུགས་རིངམ་སྦེ་རླུང་བཏོན་ནི་ ལན་ཐུང་ཀུ་སླབ་ནི་ ཡང་ན་ “ང་འདི་ནང་ལེགས་ཤོམ་མེན” ཟེར་སླབ་ནི།
+- གང་རུང་སྦེ་མཛུབ་མོ་བཙུགས་ནི་ ཡང་ན་ ཡོ་ཆས་ཕར་བཤུད་ནི།
+- མིག་ཆུ་བཏོན་ནི་ མི་དགའ་བ་འོང་ནི་ ཡང་ན་ སེམས་ཁམས་མགྱོགས་པོ་སོར་ནི།
 
-How to stop well:
+ལེགས་ཤོམ་སྦེ་བཀག་ཐངས:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **ལས་སླ་བའི་གནས་སྐབས་ཅིག་ལུ་མཇུག་བསྡུ།** ཁོང་གིས་འབད་ཚུགས་པའི་མཐུན་པ་མཇུག་གཅིག་ ཡང་ན་ བལྟ་ནིའི་པར་རིས་མཇུག་གཅིག།
+- **ཁྱོད་རའི་སྐོར་ལུ་བཟོ།** “ང་ལུ་ཇ་འཐུང་ནི་དགོ་བསམ་སོང་། འདི་ནང་བཀག་གེ?” ཟེར་སླབ་མི་འདི་གིས་ ཁོང་གིས་ལེགས་ཤོམ་སྦེ་མ་འབད་ཟེར་བའི་ཚོར་བ་མི་བཟོ།
+- **གཟུགས་པོའི་ལས་ཀ་ ཡང་ན་ ཞི་འཇམས་ཀྱི་ལས་ཀ་ལུ་སོར།** འགྲུལ་བཞུད་ཐུང་ཀུ་ཅིག་ ཟ་མ་ཐུང་ཀུ་ཅིག་ གོས་ཆས་བལྟབ་ནི་ ཡང་ན་ རོལ་དབྱངས།
+- **དྲོན་པོའི་ཚིག་གཅིག་སླབ།** “ཁྱོད་དང་གཅིག་ཁར་འབད་མི་འདི་ང་ལུ་དགའ་བ་བྱུང་།” “འཐུས་པ་ཅིན་” ཟེར་བའི་བསྟོད་བསྔགས་མེན་པར་ གཅིག་ཁར་སྤྱོད་པའི་དུས་ཚོད་ལུ་དགའ་བ།
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+སྔ་པོ་བཀག་ནི་ འཆར་གཞི་སོར་ནི་ ཡང་ན་ རྩེདམོ་བཞག་སྟེ་ གཅིག་ཁར་སྡོད་ནི་འདི་ཚུ་ ག་ར་ལེགས་ཤོམ་གྱི་གྲུབ་འབྲས་ཨིན།
 
-## Can we play in a group or over a video call?
+## སྡེ་ཚན་ནང་ ཡང་ན་ བརྙན་འཕྲིན་ཁ་པར་ནང་ རྩེ་ཚུགས་ག?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+ཚུགས་ དེ་འབདཝ་ད་ གྲ་སྒྲིག་ཅུང་ཟད་དགོ། སྡེ་ཚན་ནང་ མི་ཉུང་ཀུ་ཅིག་རྐྱངམ་ཅིག་བཞག་ གྲོགས་རམ་དགོ་མི་ཚུ་གི་ཉེ་འགྲམ་ལུ་ གྲོགས་རམ་པ་སྡོད་བཅུག་ དེ་ལས་ མཉམ་དུ་དམིགས་ཚུགས་པའི་གསལ་པོ་ཡོད་པའི་རྩེདམོ་ཅིག་གདམ། [Picture Bingo](/games/picture-bingo/) ནང་ སྡེ་ཚན་གྱི་དོན་ལུ་ པར་སྐྲུན་འབད་ཚུགས་པའི་ཤོག་བྱང་དང་ གསལ་ཤེལ་ནང་ལྟེབ་མི་ཡོད། ཁ་གསལ་གྱི་དོན་ལུ་ [བདག་སྐྱོང་ཁང་མིག་གི་སྡེ་ཚན་ལས་རིམ་](/activities/care-home-groups/) བལྟ།
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+བརྙན་འཕྲིན་ཁ་པར་ནང་ ཁ་པར་ནང་ཡོད་མི་གིས་པར་རིས་འགྲེལ་བཤད་རྐྱབ་ཚུགས་ ཁང་མིག་ནང་ཡོད་མི་གིས་མཛུབ་མོ་བཙུགས་ཞིནམ་ལས་མཛུབ་མོ་བཙུགས་ཚུགས། ཁ་པར་ཐུང་ཀུ་དང་རྒྱུས་མངའ་ཡོད་པའི་མི་དང་གཅིག་ཁར་འབད། ང་བཅས་ཀྱི་ [ཁ་པར་དང་བརྙན་འཕྲིན་ཁ་པར་](/activities/phone-and-video-calls/) ལམ་སྟོན་ནང་ ལམ་སྟོན་ལྷག་སྟེ་ཡོད།
 
-## What if a game just isn't working?
+## རྩེདམོ་འདི་ག་ནི་ཡང་མ་འབད་བ་ཅིན་ག་དེ་སྦེ་འབད?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+ཉིནམ་ལ་ལོ་ཅིག་ལུ་ ག་ནི་ཡང་མི་འབདཔ་འོང་ དེ་འདི་ ཁྱོད་ ཡང་ན་ ཁོང་གི་སྐྱོན་མེན། རྩེདམོ་འདི་བཞག་སྟེ་ ཉིནམ་གྱི་དུས་ཚོད་གཞན་ཅིག་ རྩེདམོ་གཞན་ཅིག་ ཡང་ན་ རྩེདམོ་མེད་པར་འབད་གནང་། གསལ་ཤེལ་དང་འབྲེལ་བ་མེད་པའི་ལས་རིམ་ལེགས་ཤོམ་མང་རབས་ཅིག་ཡོད: རོལ་དབྱངས་ ཕྱི་ཆུ་བལྟབ་ནི་ པར་དེབ་བལྟ་ནི་ ཡང་ན་ འགྲུལ་བཞུད་ཐུང་ཀུ་ཅིག། ཁ་གསལ་གྱི་དོན་ལུ་ ང་བཅས་ཀྱི་ [ལས་རིམ་གྱི་བསམ་འཆར་](/activities/ideas/) ཚུ་བལྟ།

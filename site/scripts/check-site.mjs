@@ -32,9 +32,8 @@ const BANNED = [
   /\bdementia sufferers?\b/i,
 ];
 /** Context that makes a banned phrase acceptable (it is being denied or quoted as a question). */
-// Translated pages that quote a banned phrase while saying it is NOT claimed, in a language whose
-// negations the English-only context check cannot read. Each needs a native reader to confirm,
-// then should be removed from this list. Keep it to exact pages; do not add whole languages.
+// Exact translated pages that still need a native reader. Their possible claims are warnings,
+// never skipped; remove a path after a native reader confirms the wording.
 const CLAIMS_REVIEW_PENDING = new Set([
   'ay/caregiving/choosing-apps-and-games/index.html',
   'bm/caregiving/choosing-apps-and-games/index.html',
@@ -135,10 +134,17 @@ for (const file of htmlFiles) {
   if (!is404) titles.set(langKey + title, [...(titles.get(langKey + title) ?? []), rel]);
 
   const desc = html.match(/<meta name="description" content="([^"]*)"/)?.[1] ?? '';
-  // English descriptions must stay within 70-170. Translated ones are warned about, not failed (maintainer decision, PR #171).
-  const outOfRange = width(desc) < 70 || width(desc) > 170;
-  if (outOfRange && !prefixIn(rel)) err(rel, `meta description is ${width(desc)} chars wide`);
-  else if (outOfRange) warn(rel, `translated meta description is ${width(desc)} chars wide`);
+  const descriptionWidth = width(desc);
+  const language = prefixIn(rel);
+  if (!desc.trim()) err(rel, 'missing meta description');
+  else if (!language && (descriptionWidth < 70 || descriptionWidth > 170)) {
+    err(rel, `meta description is ${descriptionWidth} chars wide`);
+  } else if (language && (descriptionWidth < 50 || descriptionWidth > 360)) {
+    err(rel, `translated meta description is ${descriptionWidth} chars wide (expected 50-360)`);
+  } else if (language && (descriptionWidth < 70 || descriptionWidth > 170)) {
+    // Translated descriptions are warned about outside the preferred window (maintainer decision).
+    warn(rel, `translated meta description is ${descriptionWidth} chars wide`);
+  }
   if (!is404) descriptions.set(langKey + desc, [...(descriptions.get(langKey + desc) ?? []), rel]);
 
   const h1s = html.match(/<h1[\s>]/g) ?? [];
@@ -208,11 +214,15 @@ for (const file of htmlFiles) {
   }
 
   const body = text(html);
-  for (const re of CLAIMS_REVIEW_PENDING.has(rel) ? [] : BANNED) {
+  for (const re of BANNED) {
     for (const m of body.matchAll(new RegExp(re.source, 'gi'))) {
       const start = Math.max(0, m.index - 90);
       const context = body.slice(start, m.index + m[0].length + 40);
-      if (!ALLOWED_CONTEXT.test(context)) err(rel, `claims wording "${m[0]}" in: …${context.trim()}…`);
+      if (!ALLOWED_CONTEXT.test(context)) {
+        const report = CLAIMS_REVIEW_PENDING.has(rel) ? warn : err;
+        const reviewNote = CLAIMS_REVIEW_PENDING.has(rel) ? ' (native review pending)' : '';
+        report(rel, `claims wording "${m[0]}"${reviewNote} in: …${context.trim()}…`);
+      }
     }
   }
 }

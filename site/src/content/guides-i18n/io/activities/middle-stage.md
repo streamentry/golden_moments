@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Aktivesi por meza-stadio di dementeso"
+seoTitle: "Aktivesi por meza-stadio: simpla idei"
+description: "Simpla aktivesi por meza-stadio di dementeso: utila taski, muziko, fotografuri e facila ludi, kun preparo-pazi e manieri por transformar senquieteso en ago."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  En meza-stadio di dementeso, la maxim bona aktivesi esas kurta, familiara e
+  dividita en singla pazi: faldar linjajo, apariar kalzi, lavar dishi, kantar,
+  guidata promeni, albumi di fotografuri e simpla ludi kun imaji. Preparez la
+  kozi, montrez la unesma pazo, prenez la plu desfacila parti e donez a la
+  aktiveso ula skopo. Cesez kande ol ne plu esas agreabla.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Familiara hemo-taski ofte funcionas maxim bone, pro ke li semblas utila ed adulta."
+  - "Montrez plu kam parolar, ofrez un pazo ye singla foyo, e donez du simpla selekti vice apertita questioni."
+  - "Prenez la maxim desfacila parto, por ke la persono povez facar la satisfacanta parto."
+  - "Senquieta agado ofte povas signifikar ke la persono bezonas ulo por facar. Ofrez aktiveso qua konvenas, vice dicar «no»."
+  - "Regardar, helpar kelke, o cesar frue esas omna aceptinda."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Quala aktivesi esas bona por meza-stadio di dementeso?"
+    a: "Kurta, familiara, praktikal aktivesi ordinare funcionas maxim bone: faldar tuketi, apariar kalzi, lavar dishi, preparar la tablo, kantar kune kon anciena favorata kansoni, guidata promeni, regardar albumi di fotografuri e simpla ludi kun imaji. Dividez singlu en singla pazi e facez ol kune."
+  - q: "Quale me povas helpar persono kun dementeso komencar aktiveso?"
+    a: "Habez omno pronta, pose komencez la aktiveso ipsa e invitez la persono helpar: «Ka vu povus helpar me kun ca tuketi?» Multa personi volas partoprenar, ma trovas desfacila komencar. Montrez la unesma pazo ordinare funcionas plu bone kam explikar ol."
+  - q: "Quon me facus kande la persono facas la sama kozo itere ed itere?"
+    a: "Iterado ofte esas sen-danjero e povas esar signo ke la persono volas sentar su okupata o bezonas trankuiligo. Vice korektigar, ofrez aktiveso qua konvenas a la movo, exemple korbo de lav-tuketi por faldar o kansono por kantar kune."
+  - q: "Quon se la persono facas la aktiveso nekorekte?"
+    a: "Se ol esas sen-danjero, lasez ol esar tale. Tuketi faldita diferante o kulereti en nekorekta loko ne importas. Korektigo povas semblar kritiko, dum facar ol segun lua maniero lasas la persono sentar su kapabla ed utila."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+La meza-stadio di dementeso esas ofte la maxim longa, ed ol esas la periodo kande aktivesi komencas bezonar reala suporto. Vorti venas min facile, pazi mixesas, e komencar irgo povas semblar desfacila. Ma la deziro esar utila e partoprenar ordinare restas. Kun kelka preparo, persono en la meza-stadio povas ankore juar surprizante multa kozi, speciale familiara taski, muziko ed imaji facita flanke a flanke kun vu.
 
-## What activities work well in middle-stage dementia?
+## Quala aktivesi funcionas bone en meza-stadio di dementeso?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Kurta, familiara, praktikal aktivesi dividita en singla pazi funcionas maxim bone. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) dicas ke vu ne bezonas inventar nova kozi por facar: aktivesi povas esar parto di ordinara vivo, exemple koquar dineo kune, gardenumar, askultar muziko o irar por promeno.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) rimarkas ke personi en ca stadio ofte havas forta bezono sentar su utila o sorgar pri ulo, e bezonas helpo por komencar o durar aktivesi. Lua listo por meza-stadio inkluzas faldar linjajo, lavar dishi, apariar kalzi, facila exercado, dansar kun familiara muziko, guidata promeni, kantar kune, simpla piktado e regardar albumi di fotografuri.
 
-## How do you set up an activity so it works?
+## Quale vu preparas aktiveso por ke ol sucesas?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Maxim multa aktivesi sucesas o falias dum la preparo. Ca habiti, prenita de la [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e la [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), facas la maxim granda difereso:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Klarigez la spaco.** Extingez la televiziono, klozez la pordo e pozez nur to quon la aktiveso bezonas.
+2. **Komencez vu ipsa.** Komencez faldar o movar la kozo e invitez la persono: «Ka vu povus helpar me pri to?»
+3. **Montrez, pose vartez.** Montrez un pazo. Indikez o gidez per vua manuo, exemple por montrar ube la plado devas irar.
+4. **Donez un pazo ye singla foyo.** «Faldez ol en duimo» esas plu facile kam «faldez ici e stakigez li segun koloro».
+5. **Ofrez du selekti, ne apertita questioni.** «La blua tuketi o la blanka?» esas plu facile respondar kam «Quon vu volas facar?»
+6. **Facez la desfacila parto vu ipsa.** Vu mezuras, la persono movas. Vu enfilas la agulo, la persono vindas la lano.
+7. **Donez a ol motivo.** «Ca servieti esas por la sundiala dineo» facas ke la tasko semblas reala.
+8. **Lasez la persono regardar se lu preferas.** La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) rimarkas ke nur regardar anke povas esar agreabla.
 
-## Activity ideas for the middle stage
+## Idei pri aktivesi por la meza-stadio
 
-### Useful jobs
+### Utila taski
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Faldar tuketi e lav-tuketi.** Mikra, plata kozi esas la maxim facila. Korbo de varma lav-tuketi povas esar faldita, glatigita e rifaldita.
+- **Apariar kalzi.** Komencez kun kelka tre diferanta pari. Ordinar nur segun koloro anke esas bona.
+- **Lavar o sikigar nerompebla dishi.** Varma, saponizita aquo esas agreabla por la manui. Sikigar sidante esas plu facile por la gambi.
+- **Preparar la tablo.** Donez un tipo de kozo ye singla foyo, e preparez un loko vu ipsa kom modelo.
+- **Helpar pri la dineo.** Lavar ter-pomi, dis-shirar latugo o movar mixuro en bovlo. Vu sorgas pri kulteli e varmeso.
+- **Skoar, polve-forigar o vishar.** Tuko por la tablo, lejera skoo por la teraso.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Videz [hemo-taski](/activities/household-tasks/) por plu multa idei.
 
-### Music and movement
+### Muziko e movado
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Kantar anciena favorata kansoni.** Komencez kantar vu ipsa; multa personi kantas kune kansoni quin li konocas depos jardeki. Videz [muzikal aktivesi](/activities/music/).
+- **Dansar libere.** Balancar, klaktar manui o movar quale bonas. Sidante anke esas bona.
+- **Jetar balono.** Ol movas lente ed esas facile kaptar de sid-stulo.
+- **Facar guidata promeno.** Promenez kune kurta, familiara cirkuito, brakio che brakio se to helpas.
 
-### Pictures and stories
+### Imaji e rakonti
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Regardar albumo di fotografuri.** Komentez pri to quon vu vidas, vice questionar: «Regardez ta automobilo. Parolez pri ol.» Videz [aktivesi pri memoraji](/activities/reminiscence/).
+- **Uzar konverso-karti.** [Konverso-karti](/games/conversation-cards/) kunigas imajo kun apertita invito sen exameno.
+- **Regardar anciena filmo kune.** Selektez familiara filmo, restez proxime e pauzez por repozi.
 
-### Simple, pressure-free games
+### Simpla ludi sen preso
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Imajo-pari kun imaji videbla.** [Imajo-pari](/games/picture-pairs/) lasas imaji restar videbla, do ol esas pri remarkar, ne pri memorar.
+- **Trovar la sama.** [Trovar la sama](/games/find-the-same/) montras un imajo e nur du til quar selekti.
+- **Ordinar kune.** [Ordinar kune](/games/sort-together/) esas quale ordinar la linjajo sur ekrano: tushez imajo, pose lua korbo.
+- **Imajo-bingo.** [Imajo-bingo](/games/picture-bingo/) funcionas bone por familiala renkontri e grupi.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Se ludo komencas kauzar frustrado, cesez e facez altra kozo. Videz [qual esar kune](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Transformar senquieteso en aktiveso
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Senquieta o iteranta agado ofte havas motivo. La Family Caregiver Alliance rimarkas ke persono qua iterante vakuigas vestaro-armoro povas esforcar satisfacar bezono sentar su okupata ed utila. La Alzheimer's Association sugestas duktar tala energio a konvenanta aktiveso, vice haltigar ol.
 
-| What you see | Something to offer |
+| To quon vu vidas | Ulo por ofrar |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Frotar o pinchar tablo | Humida tuko e demando por vishar la tablo |
+| Senquieta pedi o tamburetado | Muziko kun klara ritmo por tamburetar o klaktar manui kune |
+| Vakuigar tir-kestui o vestaro-armori | Korbo de vesti o lav-tuketi por faldar e ordinar |
+| Questionar la sama kozo itere | Trankuiligo, pose kansono o tasko por facar kune |
+| Ire-reirar | Promeno kune, o tasko qua inkluzas portar kozi |
+| Maltrankuileso ye posdimezo | Kalma, familiara tasko en bona lumo; videz [posdimeza senquieteso](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Kande cesar o chanjar
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Cesez kande vu vidas signi di fatigo, frustrado, shamo o tedeso, exemple movetar, frunsar, for-pulsar kozi o dicar «Me ne povas». La Alzheimer's Association sugestas probar itere ye diferanta horo di la dio o simpligar la aktiveso. Ne koaktez. Refuzo povas venar de timo o de ke la tasko esas tro desfacila; videz [kande la persono dicas no](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Finar frue esas bona. Anke nur sidar kune kun taso de teo esas bona. Kande kapablesi plu chanjas, la idei en [aktivesi por tarda stadio](/activities/late-stage/) povas konvenar plu bone, e [101 aktivesi](/activities/ideas/) havas plu multa por probar.

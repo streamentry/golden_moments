@@ -1,33 +1,35 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Ovikuṋe vya MIND na Mediterranean novitjitwa vyokupanda ombango"
+seoTitle: "Ovikuṋe vya MIND novitjitwa vyokupanda ombango"
+description: "Oviṋa omakonḓononeno mbi matu ra ohunga novikuṋe vya MIND na Mediterranean nokupanda ombango, omakonḓononeno omananḓengu tjiva, nokuvatera omundu ngwaa kara nokupanda ombango okuria nawa."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Omakonḓononeno tjiva nge tara ovandu mozombura ozengi ye raisa kutja omiano
+  vyokuria mbi ri tjimuna Mediterranean na MIND mape ya avi ṱunwa kouṱiṱiṱiṱi
+  wokupanda ombango, nungwari kaaye raisa nao aruhe. Omakonḓononeno womarorero
+  wozombura ndatu ohunga novikuṋe vya MIND, nga pitisiwa mo 2023, kaaye
+  muna erungi enene momeripura poo mozombunikiro zouongo wotjiuru tji tja
+  sasanekwa novikuṋe vyarwe. Kape na ovikurya poo omiti vyomonganda mbi
+  vya raisiwa kutja vi tjaera okupanda ombango. Kovandu mbaave kara nokupanda
+  ombango, okuria nokunwa vya yenene okutjita oviṋa ovinanḓengu tjinene.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Omakonḓononeno tjiva, nungwari kaayehe, nge tara ovandu mozombura ozengi ye raisa kutja omiano vyokuria vya Mediterranean na MIND mape ya avi ṱunwa kouṱiṱiṱiṱi wokupanda ombango."
+  - "Momakonḓononeno womarorero wovanene 604 mo 2023, imba mbaave ri ovikuṋe vya MIND kaave ungura nawa pozombetekero zomeripura poo pozombunikiro zouongo wotjiuru okukapita imba mbaave ri ovikuṋe vyarwe kombunda yozombura ndatu."
+  - "National Institute on Aging mai tja kape na oumbangi wokutja okuria poo okutjaera ovikurya tjiva ku tjaera Alzheimer's, nu kape na omitamine poo omiti vyomonganda mbi vya raisiwa kutja vi tjaera Alzheimer's."
+  - "Ovikuṋe mbi novihape, ovihape vyomiti, omakunde, ovikokotwa vyombazu aihe noviṋa vyomeva vi vatera ouveruke womutima nu mape ya avi vatera nomauzeu tjimuna ombindu yokombanda poo ouṱiṱi wosukiri."
+  - "Kovandu mbaave kara nokupanda ombango, ovikurya mbi riwa nomake, oupungu mbu nombangu pokati kovikurya, oruveze oruṱikame rwokuria nomeva aruhe potuingi vi nanḓengu okukapita ovikuṋe vyerike."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Hapo ovikuṋe vya MIND vi tjaera okupanda ombango?"
+    a: "Kavi raisirwe nao. Omakonḓononeno nge tara ovandu ye ṱuna ovikuṋe vya MIND kouṱiṱiṱiṱi wouzeu, nungwari omakonḓononeno womarorero wozombura ndatu nga pitisiwa mo 2023 kaaye muna erungi enene mozombetekero zomeripura poo mozombunikiro zouongo wotjiuru pokati kovandu mbaave ri ovikuṋe vya MIND na imba mbaave ri ovikuṋe vyarwe. Otuzo aveyevari twa rira nawa kaṱiṱi nu twa pandjara ondjinda i ṱa sana."
+  - q: "Ombangu i ri pi pokati kovikuṋe vya MIND novikuṋe vya Mediterranean?"
+    a: "Ovikuṋe vya Mediterranean vi yandja ombango kovihape, ovihape vyomiti, ovikokotwa vyombazu aihe, omakunde, oviṋa vyomeva nomaze womirunga, nu vi nousemba ouṱiṱi wonyama ondjendje poo outjijwe. Ovikuṋe vya MIND vi wana novikuṋe vya DASH vyombindu, nu vi yandja ombango kovihape ovingirine na komaberere, nu vi yandera onyama ondjendje, outjijwe, otjize, omarunga poo omargarine novikurya mbya karangwa poo vyokukara."
+  - q: "Hapo pe novikurya poo omiti vyomonganda mbi tjaera Alzheimer's?"
+    a: "Kako. National Institute on Aging mai tja kape na oumbangi wokutja okuria poo okutjaera ovikurya tjiva ku tjaera Alzheimer's poo omapunguhiro womayuva wouongo womeripura, nu kape na omitamine poo omiti vyomonganda mbi vya raisiwa kutja vi tjaera Alzheimer's. Hungira nonganga ngunda au hiya to uta okurya omiti vyomonganda."
+  - q: "Ovikurya viṋe mbi ri oupupu komundu ngwaa kara nokupanda ombango okuria?"
+    a: "Ovikurya oviṱiṱi mbi riwa nomake tjimuna ouṱiṱi wosanduuitsi, ouṱiṱi wohu, ouṱiṱi wovihape vyomaranḓa poo ovihape mbya ringwa movapure potuingi vi ri oupupu okukapita okuungurisa omarunga nomiti vyokuria. Tji pe nouzeu wokutafuna poo wokunina, ovikurya oviyorokise tjimuna omai nga ṱongwa, applesauce poo cottage cheese mavi yenene okuvatera. Pura onganga ohunga nombetekero yokunina tji pa kara otjikohore poo omuṋino tji ma ri."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +60,183 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Mape ya ove wa lesa kutja ovikuṋe mbi „vatera ouongo wotjiuru“ mavi yenene okutjaera Alzheimer's. Otjiperi tjatjiri otjiṱiṱi. Omiano tjiva vyokuria vi ṱunwa kouṱiṱiṱiṱi wouzeu momakonḓononeno nge tara ovandu mozombura ozengi, nungwari omakonḓononeno omananḓengu nga ri po ngamba kaaye muna ouwa mbwa munika nawa. Ehonga ndi mari kahurura imbi aviyevari, nu mari tanaukire koviṋa mbi ri ovinanḓengu tjinene komundu ngwaa kara nokupanda ombango: okuria nokunwa vya yenene, nokuyorokera imbyo.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Indi ondjivisiro yapeke uriri, kai ri omaronga wonganga. Hungira nonganga poo omunongo wovikurya ngunda au hiya to rundurura ovikuṋe vyoye poo vyomundu warwe. Tara [omazikamisiro wetu wouhaku](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Ovikuṋe vya Mediterranean na MIND ovikwaye?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) mai vi kahurura nao
+([NIA ohunga novikuṋe na Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Ovikuṋe vya Mediterranean:** ovihape ovingi, ovihape vyomiti, ovikokotwa
+  vyombazu aihe, omakunde, oviṋa vyomeva nomaze womirunga, nokurya ouṱiṱi
+  wonyama ondjendje, omai noutjijwe.
+- **Ovikuṋe vya MIND** (Mediterranean–DASH Intervention for Neurodegenerative
+  Delay): omuwano wovikuṋe vya Mediterranean novikuṋe vya DASH vyombindu.
+  Vi yandja ombango kovihape, tjinenenene imbi ovingirine; komaberere;
+  kovikokotwa vyombazu aihe; komakunde; koundjira; koviṋa vyomeva
+  potjikando tjimwe motjivike; nokomaze womirunga. Vi yandera onyama
+  ondjendje, outjijwe, otjize, omarunga poo omargarine, novikurya mbya
+  karangwa poo vyokukara.
 
-## Do these diets lower dementia risk?
+## Hapo ovikuṋe mbi vi ṱuna pehi ouzeu wokupanda ombango?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Oumbangi kau ṱita pamwe. NIA mai tja omakonḓononeno tjiva, nungwari kaayehe,
+nge tara ovandu ye ṱuna ovikuṋe vya Mediterranean na MIND kouṱiṱiṱiṱi
+wouzeu wokupanda ombango tji vya sasanekwa novikuṋe vyomuhingo wokuuningirirua
+mbi nonyama ondjendje, omaze omakukutu nosukiri.
 
-The 2024 Lancet Commission reviewed the research in more detail
+Okomiti yozombonge ya Lancet mo 2024 ya konḓonona omakonḓononeno nawa
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Omakonḓononeno tjiva nge tarere kumwe omakonḓononeno womiano ye ṱuna
+  ovikuṋe oviwa kouṱiṱiṱiṱi wouzeu wokupanda ombango mbu ri momuṋe 20%.
+- Omaraisiro omanene wozombunga ndatu ze ṱuna okukongorera ovikuṋe vya MIND
+  popezu kouzeu ouṱiṱi.
+- Nungwari omakonḓononeno wa Sweden nga kongorera ovandu 28,025 mba ri
+  pokati kozombura oure wozombura 20 kaaye muna ouzeu ouṱiṱi novikuṋe mbi
+  vyarongerwa poo ovikuṋe mbi ri tjimuna Mediterranean.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Omakonḓononeno nge tara ovandu kamaaye raisa kutja otjiṋa tjimwe otji tji eta
+otjikwao. Ovandu mbe ri nao potuingi ve panguka moviṋa vyarwe wina, tjimuna
+otjimariva, omahongero, omarondoneno worutu nokumuna oviyandjewa vyouhaku.
+Okomiti ya hulira kutja kape noumbangi mbwa yenene okutja ovikuṋe oviwa vi
+tjaera okupanda ombango, nandarire kutja okuria ovihape novihape vyomiti ovingi
+nokurya ouṱiṱi wovikurya mbya ungurwa tjinene ku ri nawa kouveruke woviṋa ovingi
+nu ku ṱuna komauzeu tjimuna oundjandje, ouṱiṱi wosukiri nombindu yokombanda.
+Kaai weda ovikuṋe koruteto rwayo rwomauzeu 14 [nge yandja ouzeu](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Omakonḓononeno womarorero wovikuṋe vya MIND mo 2023 ya muna tjike?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Ombetekero ndji ri onḓeu tjinene ngamba ya ri omakonḓononeno womarorero nga
+pitisiwa mu New England Journal of Medicine mo 2023
+([omakonḓononeno womarorero wovikuṋe vya MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Ouṋe:** ovanene 604 mba ri nozombura 65 nokombanda mo Chicago na Boston,
+  mbe hi na omauzeu wokuripura, mba ri nomuṋepo omunene ngwa ri nokupanda
+  ombango, mba ri nondjinda yokombanda, nu mba ri novikuṋe mbya ri ouṱiṱiṱiṱi
+  kouveruke pomautiro.
+- **Tjike:** oure wozombura ndatu, orupa rumwe rwa kongorera ovikuṋe vya MIND
+  nu orukwao rwa kayenda komurungu novikuṋe vyarwo vyarwe. Otuzo aveyevari twa
+  ningirwa okuria oukalori mbu ri pehi nozokalori 250 meyuva nokumuna omahongero
+  aruhe okuza kovanongo wovikurya.
+- **Ombanguriro:** ozombetekero zomeripura za rira nawa kaṱiṱi motuzo
+  **avetuvari**. Ombangu pokati kotuzo ya ri ouṱiṱi nu **kaai raisa ombangu
+  ndji ṱa kongwa**. Ozombunikiro zouongo wotjiuru wina za raisa omarundurukiro
+  nge ṱa sana motuzo avetuvari.
+- **Ondjinda:** otuzo avetuvari twa pandjara oukilograma 5 (mombangu
+  yondjinda 11).
 
-### Why might the trial have found no difference?
+### Ongwaye omakonḓononeno womarorero tji ya ha munine ombangu?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Ovakonḓonone va hungira omapu tjiva. Otuzo twomaraisiro mape ya twa rundurura
+ovikuṋe vyatwo nawa wina, mena rokutja twa pandjara ondjinda i ṱa sana.
+Okurorwa povikando ovingi ku yenena okurira omizambo oviwa uriri, omundu tji
+me rihongere kozombetekero. Ozombura ndatu mape ya za ri ozosupi. Ovengi
+mbaave kara mo va ri nomahongero omengi nu va ri ovandu vomuhoko wokuEuropa,
+ku nao ombanguriro kamaai yenene okukara ku avehe.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Ku nao ombwanguriro yatjiri oyo ndji: ovikuṋe vya MIND kavi tonene ovikuṋe
+vyarwe mbya yandjera oukalori ouṱiṱi oure wozombura ndatu. Ihi katji hee kutja
+okuria nawa katji na otjipu. Tji heya kutja kape nomundu ngwa sokuripura
+kutja ovikuṋe vyerike mavi tjaera okupanda ombango.
 
-## What about specific foods and supplements?
+## Vi ri vi ohunga novikurya tjiva nomiti vyomonganda?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA mai tja kape na oumbangi wokutja okuria poo okutjaera ovikurya tjiva ku
+tjaera Alzheimer's poo omapunguhiro womayuva wouongo womeripura. Omaberere
+omburau, ovihape ovingirine noturmeric aviye ya konḓononwa, nungwari kaape na
+oumbangi. NIA wina mai tja kape na omitamine poo omiti vyomonganda mbi vya
+raisirwa kutja vi tjaera Alzheimer's, nu kavi yarongerwa otjiṋa ho. NIA mai
+rakiza kutja oviṋa mbya ha raisirwe mbi randisiwa okutjaera Alzheimer's mape
+ya avi ha kara nawa kouveruke, avi pandjarisa ovimariva uriri, poo aviyevari,
+nu mavi yenene okupatasana nomiti mbi wa pewa, ku nao hungira nonganga ngunda
+au hiya to roro otjiṋa ngamwa atjihe
+([NIA ohunga nokutjaera Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Omomuano uṋe okuria mu matji kara nouveruke nokuyorokisa?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Kovanene ovengi, ondando oyo okuria ovikurya mbi pa omasa, mbi tjiukwa nawa
+nu mbi yorokisa, ka omirari omizeu:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Ungura ovikurya vyoye povikurya mbi wa suvera** okuza komuhingo wa
+  Mediterranean: ovihape, ovihape vyomiti, omakunde, ovikokotwa vyombazu
+  aihe, oviṋa vyomeva nomaze womirunga.
+- **Kara novikurya vyoye oviwa mbi wa suvera.** Ondjoroka nondjara vi ri
+  ovinanḓengu, tjinenenene kombunda yomuinyo.
+- **Rya novandu varwe** tji matji yenene. Okurya pamwe ouṱiṱiṱiṱi ouwa.
+- **Tereka pamwe.** Okukoha ovihape poo okutendeka motjipungu otjiṋa otjiwa
+  okungura pamwe; tara [oviungura vyonganda](/activities/household-tasks/).
+  Eriro reṱunḓu ndi suverwa wina mari yenene okueta [omazemburukiro](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Ovanene kave sokuyandera oukalori poo okupandjara ondjinda nokuhina okuhungira
+nonganga, nu okupandera okuria ku nomauzeu omanene. Tara [ehonga retu
+ohunga nokupandera okuria](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Omomuano uṋe mu mo vatera omundu ngwaa kara nokupanda ombango okuria nawa?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Kovandu mbaave kara nokupanda ombango, okuria nokunwa **vya yenene** potuingi
+otjo otjiṋa otjinanḓengu. Alzheimer's Association mai tja ovandu mape ya ave
+zembi okuria, ave ripura kutja va rira rukuru, poo ave munu ozondando ozengi
+ze ve rihahiza, nu okurya ku ha ri nawa ku yenena okurundurura ovitjitwa nu ku
+eta omapandjarero wondjinda
+([Alzheimer's Association ohunga novikurya nokuria](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Omayandjero nga ye za ku Alzheimer's Association, NIA na Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Yandja ovikurya mbi riwa nomake.** Oviṱiṱi mbi ri oupupu okuṱiza
+   nomake, tjimuna ouṱiṱi wosanduuitsi, ouṱiṱi wohu, ouṱiṱi woviṋa vyomeva,
+   ouṱiṱi wovihape vyomaranḓa poo ovihape mbya ringwa movapure, vi yandjera
+   omundu okuririsa nokuhina omarunga nomiti vyokuria.
+2. **Ungurisa ombangu potjiriro.** Omarundurukiro momeho ye yenena okutjita
+   kutja i rire ouzeu okumuna ombangu pokati kovikurya notjipungu. Oupungu
+   omivapa poo oumbiya pomuteto mbu nombangu mavi yenene okuvatera. Tjaera
+   oupungu noumuteto mbu nozombunikiro ozengi.
+3. **Yandja ovikurya tjimwe poo vivari poruveze rumwe.** Otjipungu tji tje
+   ura tji yenena okurihahiza omundu.
+4. **Ṱakamisa oruveze rwokuria ru ri norusuvo.** Zepa otivii, kara notjiriro
+   otjipupu, nu yandja oruveze oruingi. NIA mai yandja eronga kutja au
+   hakahana poo au ṋiṋikiza.
+5. **Yandja ovikurya oviṱiṱi noutjirwa povikando ovingi.** NIA mai yandja
+   eronga ryovikurya oviṱiṱi povikando ovingi noutjirwa mbu noukalori
+   ovingi tji omundu me hi nokuria vya yenene
+   ([omayandjero wa NIA ohunga nokuria nawa](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Vatera nokunwa.** Yandja ouharakana outiṱi womeva poo ovikunwa vyarwe
+   meyuva arihe, pamwe novikurya mbi nomeva omengi tjimuna ovihape vyomiti,
+   osopa, omilkshake nozosmoothie. Tji omundu me hi nokuvanga omeva, NIA mai
+   yandja eronga rokurora omujus, omeva nge norunaviro, ombroto, omaihi poo
+   okofi poo otee ndji hi na caffeine.
+7. **Tara oupyu.** Omundu mape ya a ha munu kutja ovikurya poo otjinwa tji
+   noupyu tjinene.
+8. **Rundurura omiti vyokuria nouharakana.** Oumbiya moruveze rwoupungu,
+   ouyara mbu nomikova ominene, nouharakana mbu nozombata mavi yenena
+   okupuparisa okuria. O ha rikendere ohunga nokukara noukohoke.
+9. **Tjita kutja ovikurya vi rire oupupu okutafuna nokunina.** Konda ovikurya
+   moviṱiṱi poo yandja ovikurya oviyorokise. Tji omundu ma kohora poo ma
+   ṱukirwa tji ma ri, raera onganga ye.
+10. **Tjaera okuṋiṋikiza okuria.** NIA mai tja ondjara i ya pehi otja
+    koumune momahitiro omasenina wa Alzheimer's.
 
-### Signs to tell the doctor about
+### Oviraisiro mbi mo sokuraera onganga
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Omapandjarero wondjinda, okunaka ovikurya, okurwa poo oungundi mavi yenene
+okurira oviraisiro kutja omundu ke nokuria vya yenene. Alzheimer's Society mai
+tja omayo omihihamo poo omayo wokutwa mo, omuinyo mbu wa u, ondjara yokomakutu
+nomarundurukiro womiti avihe mavi yenene okuṱuna pehi ondjara
+([Alzheimer's Society ohunga nondjara](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Oviraisiro vyomeva okukara omaṱiṱi morutu mbi vya tjangwa i NIA vi kamburira mo
+otjinyo otjikukutu, otjizunguzungu, omutima mbu mau tupuka nokumuna oviṋa mbya
+hi po
+([NIA ohunga nomauzeu wouhaku nge kara po potuingi](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Hungira nonganga
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Ngunda au hiya to tjiti omarundurukiro omanene kovikuṋe vyoye, poo vyomundu
+warwe, hungira nonganga poo omunongo wovikurya, tjinenenene tji u nouṱiṱi
+wosukiri, omauzeu womahuri, omauzeu wokunina poo omapandjarero wondjinda
+omarundu. Komundu ngwaa kara nokupanda ombango, pura kutja ma sokuria nokunwa
+vingapi meyuva, nokutja omunongo wovikurya poo omiti vyomonganda mavi yenene
+okuvatera.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Paha ombatero yohakahana tji omundu ma ṱukirwa, poo tji ma munu omapitasaneno
+ombangu, otjizunguzungu otjizeu poo tji ma wotoka.

@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Килти ӗҫсем — деменци пурӑнакан ҫынсем валли ӗҫ-хӗл"
+seoTitle: "Деменципе килти ӗҫсем: кулленхи ӗҫ-хӗл"
+description: "Шӑл çывӑрасси, уйӑрасси, сӗтел хатӗрлени тата ансат апат-ҫимӗҫ пӗҫересси деменци пурӑнакан ҫынсем валли пӗлтерӗшлӗ ӗҫ-хӗл пула маҫҫӗ. Мӗнле хатӗрлемелли, улшӑнмалли тата хӑрушсӑрлӑха упрамалли."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Кулленхи ӗҫсем — сӑмса шӑл çывӑрасси, носкисем уйӑрасси, сӗтел хатӗрлени,
+  сӗтел çийӗнчен чӑмӑрласси, ӳсентӑрансем шӑварасси тата ансат апат-ҫимӗҫ
+  пӗҫерме пулӑшасси — деменци пурӑнакан ҫынна чӑннипе пулӑшма май параҫҫӗ. Вӑл
+  пӗлекен ӗҫсене суйлӑр, кашнине пӗрер йӗркепе туса ирттерӗр, ҫивӗч е вӗри
+  хӑрушлӑхсене кӑларса пӑрахӑр, тата ӗҫе «тӗрӗс» тӑвассине мар, унта хутшӑнассине
+  хаклӑр.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Палласа тӑракан килти ӗҫсем ҫынна кирлӗ тата ҫемье пайӗ пулнине туйтарма пултараҫҫӗ. Ку чылай чухне ӗҫ мӗн чухлӗ лайӑх пулнинчен ытларах пӗлтерӗшлӗ."
+  - "Кашни ӗҫе пӗрер йӗркепе пайлӑр, калаҫнипе мар, кӑтартса пулӑшӑр, тата йывӑр пулнӑ йӗркесене вӑрттӑн тытса илӗр."
+  - "Ҫивӗчсемпе, таса тӑвас япалисемпе тата стиральной порошок капсулисӗсемпе усӑ курас умӗн вӗсене ҫӳллӗ хурса хуплӑр. Пӗҫерӳ вырӑнӗнче плита тутӑчӗсем валли хӳтӗлевлӗ витӗмсем е хӑй тӗллӗн чарӑнакан хатӗр лартӑр."
+  - "Ҫывӑннӑ шӑлсене ҫын куҫӗ умӗн тепӗр хут çывма кирлӗ мар. Кирлӗ пулсан, кайран, ҫын курманнипе тӑвӑр."
+  - "Ӗҫ йӑлӑхтарса яракан пулсан, ансатрах пайне куҫӑр, ытти вӑхӑтра тепре туса пӑхӑр е пӗрле ларар."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Деменци пурӑнакан ҫын мӗнле килти ӗҫсене пурнӑҫлама пултарать?"
+    a: "Нумай ҫынсем халӗ те шӑл çывма, носкисене пӗр-пӗринпе тупма, панă сӗтел хатӗрӗсене уйӑрма, сӗтел хатӗрлеме, сӗтел çийӗнчен чӑмӑрлама, тусан кӑларма, чӗрке çӳпме, ӳсентӑрансем шӑварма е апат-ҫимӗҫ пӑтине пӑтӑлтарма пултараҫҫӗ. Ҫын малтан тунӑ ӗҫсене суйлӑр та вӗсене халӗ мӗн тума пултарнипе ҫыхӑнтарӑр. Кайранхи тапхӑрсенче пӗр кӑна йӗркеллӗ хускану — сӑмахран, салфеткӑсене маялатарни — те ҫителӗклӗ пулма пултарать."
+  - q: "Деменци пурӑнакан ҫын кухньӑра пулӑшни хӑрушсӑр-и?"
+    a: "Ку пулма пултарать, анчах тӗплӗн пӑхса тӑрсан тата лайӑх хатӗрленсен. Ҫивӗчсене, таса тӑвас япалисене тата мӗнпур вӗри япаласене çитмен вырӑнта упрӑр. Плита тутӑчӗсем валли хӳтӗлевлӗ витӗмсем е хӑй тӗллӗн чарӑнакан хатӗр усӑ курӑр. Ҫынна хӑрушсӑр ӗҫ парӑр — сӑмахран, пахчасем çумалли, пӑтӑлтарасси е татаҫисене хума парни. Плитӑна ҫунтарса хӑварнӑ чухне ҫынна пӗчченех ан хӑварӑр."
+  - q: "Вӑл йӑнӑш çывсан е йӗркесӗр тунӑ пулсан мӗн тумалла?"
+    a: "Ҫавна пусма юрӑхсӑр хӑварӑр. Тӗллев — пӗрле вӑхӑт ирттересси тата кирлӗ туйӑм илесси, тӗп-тӗрӗс результат мар. Мӗн те пулин тепӗр хут тумалла пулсан, кайран, ҫын курманнипе тӑвӑр, анчах ҫапла вара вӑл хӑйне тӳрлетнипе мар, пулӑшнипе туйӗ."
+  - q: "Вӑл пулӑшасшӑн мар тесе каласан мӗн тумалла?"
+    a: "«Ҫук» сӑмах ӗҫ хальлӗхе ытла йывӑр, ӑнланмалла мар е ывӑтмалла пулнине пӗлтерме пултарать. Ан тиркелӗр. Ансатрах вариант сӗнӗр, ҫынна ӗҫ тӑвас вырӑна йумшӑн пулма сӗнӗр е кунӑн лайӑхрах вӑхӑтӗнче тепре ыйтӑр."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Деменци пурӑнакан ҫынсенчен нумайӑшӗ вӑхӑтpa кил тытса пынӑ, ачасем ӳстернӗ е ӗҫ вырӑнӗнче йӗрке тытса пынӑ. Чӑн килти ӗҫе пулӑшма ыйтни — ытти нумай ӗҫ-хӗлрен те лайӑхрах — «эсир халӗ те ку ҫемьен пайӗ» тесе пӗлтерме пултарать. Ку страницӑра мӗнле ӗҫсем чылай чухне юрӑхлӑ, вӗсене мӗнле хатӗрлемелли, майсем улшӑннӑ чухне мӗнле улшӑнмалли тата кухньӑра тата шӑл çу вырӑнӗнче мӗнле хӑрушсӑрлӑха упрамалли пирки каланӑ.
 
-## Why do everyday chores work well as activities?
+## Мӗншӗн кулленхи ӗҫсем ӗҫ-хӗл пек лайӑх ӗҫлеҫҫӗ?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Ӗҫсем ҫапла лайӑх, мӗншӗн тесен вӗсем палласа тӑракан тата уҫӑмлӑ тӗллевлӗ. National Institute on Aging Альцгеймер чирӗпе аптаранакан ҫынсем килӗшӳллӗн тума пултаракан [кулленхи ӗҫсен шутне](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) татаҫисем çумаллине, сӗтел хатӗрленине, чӗрке çӳпме, тусан кӑларма, ҫырусем уйӑрассине, шӑл çывӑрассине тата утилсене уйӑрассине кӗртет. Alzheimer's Association палӑртнипе, сӗтел хатӗрлени пек ӗҫсем ҫынна [ҫемьере кирлӗ пулнине](https://www.alz.org/help-support/caregiving/daily-care/activities) туйтарма пултараҫҫӗ.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Ӗҫӗн хӑйӗн пуҫламӑш сӑлтавӗ пур. «Ку шӑлсене çывма пулӑшас-и?» — «Ӗҫ-хӗл тума килӗшетӗр-и?» тенинчен юрӑхрах çыхӑнмалли сӑмахсем.
 
-## Which household tasks are good to try?
+## Мӗнле килти ӗҫсене туса пӑхма пулать?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Ҫын малтан тунӑ ӗҫсенчен пуҫлӑр та вӗсене халӗ мӗн тума пултарнипе ҫыхӑнтарӑр.
 
-### Laundry and linens
+### Шӑл тата тӗрлӗ çумкăш
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Сӑмса шӑлсене тата ал чӑмӑрмалли шӑлсене çывӑрасси.** Пӗчӗк тата лаптӑк япаласемпе тулли корзинӑна парӑр. Сӑмса шӑлсене йӑнӑш çывасси ҫук пекех: вӗсене кирек мӗнле çывма май пур.
+- **Носкисене пӗр-пӗринпе тупасси.** Сӗтел çине хутӑшнӑ кӗлеткене вырнӑҫтарӑр. Мӑшӑрсем тупма йывӑр пулсан, икӗ е виҫҫӗ кӑна питӗ уйрӑмлӑ тӗс илӗр.
+- **Маялатарса вырнӑҫтарасси.** Салфеткӑсене, минтер подушкин чиенӗсене е татаҫи шӑлӗсене маялатарса вырнӑҫтарма пулать. Ку çывӑрасси ытла нумай йӗркерен тӑнӑ чухне лайӑх пулӑшать.
 
-### Table and kitchen
+### Сӗтел тата кухньӑ
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Сӗтел хатӗрлени.** Пӗр вырӑн валли хатӗрлеве тӗслӗх пек вырнӑҫтарӑр та ҫынна ҫавӑн пекех тума парӑр. Ку ытла пулсан, пӗрре кӑна пӗр япала парӑр: «Кашни татаҫи валли пӗрре вилкӑ пар».
+- **Панă сӗтел хатӗрӗсене уйӑрасси.** Таса вилкӑсене, кашӑксене тата ҫивӗчсӗр çу ҫивӗчӗсене пӗр савӑтӑра хутӑштарӑр та пайлӑ вырнӑҫтармалли поднос ҫине уйӑрӑр. Ҫивӗч ҫивӗчсене ан кӗртӗр.
+- **Татаҫисене типӗтесси.** Пластик е вӑранман татаҫисемпе ҫемҫе шӑл ку ӗҫе хӑрушсӑр тума пулӑшаҫҫӗ.
+- **Сӗтел е сӗтел çийӗнчен чӑмӑрласси.** Нӳрӗк шӑл тата таса вырӑн ҫителӗклӗ. Alzheimer's Association ҫын сӗтеле аллипе чӑмӑрланӑ чухне шӑл панӑ май ҫине палӑртать: ҫапла лӑпкӑ хусканӑвӑ кирлӗ ӗҫе куҫма пулать.
 
-### Around the house
+### Кил таврашӗнче
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Тусан кӑларасси.** Ҫемҫе тусан кӑларакӑн тата кофе сӗтелӗ е шкап çинчи пек хытӑ вырӑнсем.
+- **Ҫырусем уйӑрасси.** Кирлӗ мар ҫырусемпе журналсене парӑр: упрасси, утил ҫине хурасси, кайран уҫасси тесе уйӑрма. Чӑн кивҫенусене тата чексене урӑх вырӑнта упрӑр.
+- **Утилсем уйӑрасси.** Таса консерва банккисене, шыҫҫисене тата хутсене уйрӑм контейнерсене вырнӑҫтарӑр.
+- **Чӗрке çӳпесси.** Вырӑнӗ тӗрӗс пулсан, терраса çинче е кухньӑра пӗчӗк чӗркепе çӳпме май пур.
+- **Ӳсентӑрансем шӑварасси.** Ҫӑмӑл, йывӑр мар лейкӑпа çитме майлӑ виҫҫӗ-тӑваттӑ ӳсентӑран.
 
-### Simple cooking with supervision
+### Пӑхса тӑракан пулинче ансат апат-ҫимӗҫ
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Апат-ҫимӗҫ хатӗрлени вӑйлӑ тата ырӑ туйӑмсене ҫӗнме пултарать. NIA ҫынна кирлӗ япаласене пуҫтарма, виҫме, хутӑштарма, ӳкерме е юратнӑ рецепта мӗнле хатӗрлемеллине ытти çынна калаҫма кӑна пулӑшма сӗнет. Лайӑх ӗҫсем:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- пахчасем е улма-ҫырласем çумалли
+- пӑтӑ е сивӗ салата пӑтӑлтарасси
+- салат çӑмӗ татасси
+- мунчӑк çивӗчпе çӑкӑр ҫийӗнчен май çурасси
+- печенье пӑтине противень ҫине вырнӑҫтарасси
+- пицца çийӗнчен япаласем вырнӑҫтарасси
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Виҫесси йывӑр пулсан, Alzheimer's Association эсир виҫеве вӗҫлесе пӑтӑлтартасси пек ытти ӗҫе парма сӗнет.
 
-## How do I set up a chore so it goes well?
+## Ӗҫ юрӑхлӑ иртме валли ӑна мӗнле хатӗрлемелли?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Лайӑх вӑхӑт суйлӑр.** Ҫын чылай чухне çӑмарса тата лӑпкӑ пулнӑ вӑхӑта суйлӑр. Нумай ҫын валли ку ирхи вӑхӑт.
+2. **Вырӑна таса тӑвӑр.** Пӗр ӗҫ, пӗр сӗтел, ытти ним те кирлӗ мар.
+3. **Ыйтса сӗнӗр, анчах ӗҫ ан панӑр.** «Ку ӗҫе пулӑшсан пите лайӑх пулӗччӗ» — «Шӑл çывас вӑхӑт ҫитрӗ» тенинчен лайӑхрах ӗҫлет.
+4. **Пӗрремӗшне кӑтартӑр.** Пӗр шӑла вӑрттӑн çывӑр та тепринне парӑр. Кӑтартни ăнлантарнинчен уҫӑмлӑрах.
+5. **Пӗрре кӑна пӗр йӗрке парӑр.** Пӗр вӑхӑтрах ытла нумай сӑмах йӑлӑхтарма пултарать. Тепӗр йӗркене калас умӗн пӗрремӗш вӗҫленнине кӗтӗр.
+6. **Пӗр-пӗрин йенӗнче ӗҫлӗр.** Пӗр-пӗрин патӗнче пӗр евӗрлӗ ӗҫ тӑвакан пулсан, ку пӑхса тӑни мар, пӗрлех пулни евӗр туйӑнать.
+7. **Результат ҫинчен мар, ӗҫ ҫинчен калаҫӑр.** «Вӗсем мӗн чухлӗ ҫемҫе» е «Ҫумкӑш шӑлӗсене мӗнле вырнӑҫтарма килӗшетчӗр» — калаҫӑва йӗркелемелли тата никама та тӗрӗслемелли сӑмахсем.
 
-## How do I adapt chores as abilities change?
+## Майсем улшӑннӑ чухне ӗҫсене мӗнле улшӑнмалли?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Майсем вӑхӑтпа тата кунсерен куне улшӑнма пултараҫҫӗ. Alzheimer's Association чир ансатрах тата тепӗр хутленекен ӗҫсене куҫнӑ майпа ансатрах улшӑнмаллине сӗнет.
 
-| If this has become hard | Try this instead |
+| Ку йывӑр пулса кайнӑ пулсан | Ҫакна туса пӑхӑр |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Пысӑк чаршав çывӑрасси | Ал чӑмӑрмалли шӑл е салфеткӑ маялатарасси |
+| Сӗтеле тулли хатӗрлесси | Кашни вырӑна пӗр салфеткӑ хуни |
+| Ҫырусене уйрӑм категорисемпе уйӑрасси | Конвертсене пӗр кӗлеткере вырнӑҫтарасси |
+| Рецептпа ӗҫлесси | Пӑтӑлтартасси е эсир пӗҫернӗ чухне пӑхса тӑнипе тутлӑни |
+| Пӗтӗм чӗрке çӳпесси | Пӗр пӗчӗк сӗтел чӑмӑрласси |
+| Ӗҫе тӑвасси | Йумшӑн ларасси, эсир ӗҫленӗ чухне пӗрлех пурасси |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Пӑхса тӑни те хутшӑнасси. NIA хӑш-пӗр ҫынсем пӑхса тӑма кӑна килӗшнине палӑртать, тата ку те хутшӑнассин лайӑх меслечӗ.
 
-## How do I keep household tasks safe?
+## Килти ӗҫсене мӗнле хӑрушсӑр тӑмалла?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Хӑрушсӑрлӑх — чи малтанхи япала, уйрӑмах кухньӑра. NIA [Альцгеймер чирӗпе аптаранакан ҫынсем валли килти хӑрушсӑрлӑх сӗнӗвӗсем](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ҫапла сӗнеҫҫӗ:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Таса тӑвас япалисене, ҫав шутра стиральной порошок капсулисӗсене те, ҫӳллӗ хурса хуплӑр е кӑларса пӑрахӑр. Вӗсем конфет пек курӑнма пултараҫҫӗ.
+- Ҫивӗчсене, хайчисене тата вӑйпа ӗҫлекен хатӗрсене ҫакӑннӑ вырӑнта упрӑр.
+- Плита тутӑчӗсем валли хӳтӗлевлӗ витӗмсем тата хӑй тӗллӗн чарӑнакан хатӗр лартӑр.
+- Духовка, тостер тата утюг патӗнче «Чарӑн» е «Питӗ вӗри» пек паллӑсем лартӑр, анчах вӗсем ҫунма пултарайман вырӑнта.
+- Вӗренес хӑрушлӑхне чакарма, шыв 8-мӗш хутӑчӗн температурамне 120°F (тӗрӗс 49 °C) таран лартӑр.
+- Илемлӗ улма-ҫырласене тата апат-ҫимӗҫ евӗрлӗ магнитсене кӑларса пӑрахӑр: вӗсем ҫимелли пек курӑнма пултараҫҫӗ.
 
-A few more practical habits help:
+Ытти практикӑллӑ хӑнӑхусем те пулӑшаҫҫӗ:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Плитӑ, духовка е ҫивӗч хатӗр усӑ курӑннӑ чухне пӳлӗмре ларар.
+- Татаҫисене типӗтнӗ чухне тата сӗтел хатӗрленӗ чухне вӑранман татаҫисемпе усӑ курӑр.
+- Чӗрке çӳпнӗ е чӑмӑрланӑ чухне урапа типӗ тата таса пултӑр.
+- Ҫын малтан хатӗрсемпе ӗҫленӗ пулсан, Alzheimer's Association мастерскойра хӑрушлӑ япаласене кӑларса пӑрахма сӗнет. Ҫапла вара майлӑ ӗҫе — сӑмахран, йывӑҫ пайне затирассине — халӗ те тума май пулӗ.
 
-## What if they do it "wrong"?
+## Вӑл ӗҫе «йӑнӑш» тунӑ пулсан мӗн тумалла?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Ҫавна ан шутлӑр. Виҫҫӗ пайла çывӑннӑ шӑл — иккӗ пайла çывӑнман пулсан та — çывӑннӑ шӑл. Alzheimer's Association ҫакна уҫӑмлӑн калать: пӗлтерӗшлӗскер — пӗрле вӑхӑт ирттересси тата ҫын хӑйне кирлӗ туйни, шӑлсем тӗп-тӗрӗс çывӑннӑ-çывӑнманни мар. Мӗн те пулин чӑнах та тепӗр хут тӑвас килсен, кайран, ҫын курманнипе тӑвӑр.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Ҫав вӑхӑтрах тӳрлетес тени хаваслӑ ӗҫе ҫухалнӑ япала ҫинчен аса илтереве куҫма пултарать. «Тавтапуҫ, ку пите пулӑшрӗ» — чылай чухне чи лайӑх сӑмах.
 
-## When should we stop?
+## Хӑҫан чарӑнмалла?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Йӑлӑхтару, ывӑну е кӑсӑклану паллисем курӑнсан чарӑнӑр е ытти ӗҫе куҫӑр. Маларах вӗҫлесси — ҫӗнтӗрӳ мар, лайӑх результат. Эсир ҫапла тума пултаратӑр:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- ансатрах йӗрке патне куҫӑр
+- кӗвӗ илтесси е кофе ӗҫесси пек лӑпкӑ ӗҫе куҫӑр
+- кайран е ытти кунне тепре туса пӑхӑр
+- пӗрлех ларар
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Ҫын «ҫук» тесен, ан тиркелӗр. Ҫемҫе майпа мӗнле çыхӑнмаллине [вӑл «ҫук» тенӗ чухне мӗн тумалли](/caregiving/when-they-say-no/) страницӑра вулама пулать.
 
-## Low-effort extras for a quieter moment
+## Лӑпкӑ самант валли ансат хушма ӗҫсем
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Ҫынна килти ӗҫ тӑвас май ҫук чухне те, ларса тӑракан вырӑнтан уйӑрма тата пӗр-пӗринпе тупма пулать. [Sort Together](/games/sort-together/) сӑнсенче кухньӑ е пахча корзинӗсене япаласене вырнӑҫтарма май парать, [Picture Pairs](/games/picture-pairs/) — вӑхӑтсӑр, пысӑк ӳкерчӗксемпе ҫемҫе тупӑм вӑййи. [Conversation Cards](/games/conversation-cards/) вӑййинче кил тата ҫемье ҫинчен калаҫма уҫӑ ыйтусем пур; ӗҫ хыҫҫӑн кофе ӗҫнӗ чухне вӗсемпе усӑ курма лайӑх.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Ӗҫсене кун йӗркине мӗнле кӗртмелли пирки [лӑпкӑ кулленхи йӗрке](/activities/daily-routine/) страницӑра вулама пулать. Тапхӑр тӑрӑх ытти сӗнӳсем валли [вӑтам тапхӑрти ӗҫ-хӗлсем](/activities/middle-stage/) страницӑна пӑхӑр.

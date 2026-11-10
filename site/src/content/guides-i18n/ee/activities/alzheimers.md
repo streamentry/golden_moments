@@ -1,35 +1,37 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Nuwɔnawo kple fefewo na ame siwo ŋu Alzheimer’s le"
+seoTitle: "Alzheimer’s nuwɔnawo kple fefewo: Aɖaŋuɖoɖo ɖe akpa sia akpa ŋu"
+description: "Nuwɔnawo kple fefewo na ame siwo ŋu Alzheimer’s le le akpa sia akpa, siwo wotu ɖe ŋutete kple ŋkuɖoɖo xoxowo dzi, kpakple fefewo femaxee siwo miawɔ ɖekae."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Nuwɔna nyuiwo na ame si ŋu Alzheimer’s le zãa nu siwo nɔa anyi didi wu:
+  ŋutete siwo wòsrɔ̃ tso gbe aɖe gbe ke, ha xoxowo, dɔ siwo wonya nyuie kple
+  nu siwo woate ŋu akpɔ, ase alo aka asi ŋu. Le gɔmedzedzea me la, fefe kple
+  agbalẽviwo, kplɔ̃ dzi fefewo, nuɖaɖa kple gota dodo ate ŋu anyo kokoko. Le
+  titina akpa la, te awu babla, nuwo ɖoɖo, hadzidzi, foto agbalẽwo kpɔkpɔ kple
+  nɔnɔmetata fefe bɔbɔewo kpɔ. Ne dɔa va ɖo eƒe nuwuwu la, ha, asikaka ame ŋu
+  kple ame aɖe ƒe anyinɔnɔ kpli wòe le vevie wu. Kpɔ ale si ame si nèle
+  belélem na la le egbea ɖa.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer’s ye nye nu si hea tagbɔtɔtɔ vɛ zi geɖe wu, eyata aɖaŋuɖoɖo siwo ku ɖe nuwɔnawo ŋu na ame siwo ŋu tagbɔtɔtɔ le la sɔ na eya hã."
+  - "Nyatakaka yeyewo sɔsrɔ̃ sesẽna zi geɖe wu gbã, gake ŋutete kple ha siwo wosrɔ̃ tso gbe aɖe gbe ke ate ŋu anɔ anyi didi wu. Tso nuwɔnawo ɖe wo dzi."
+  - "Akpa vovovoawo doa go, eye ŋkeke nyuiwo kple esiwo sesẽ la nye nu dzɔdzɔe. Tia nu si ame si nèle belélem na la ate ŋu awɔ eye wòakpɔ dzidzɔ le eŋu egbea."
+  - "Tia fefe siwo me ɣeyiɣi dzidzedze, akɔntabubu alo biabiawo mele o, eye na nɔnɔmetatawo nanɔ anyi woakpɔ."
+  - "Nukpɔkpɔ ko, nu aɖe léle asi alo anyinɔnɔ ɖekae hã nye gomekpɔkpɔ."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Nuwɔna kawoe nyo na ame si ŋu Alzheimer’s le?"
+    a: "Nuwɔna siwo wonya nyuie siwo wowɔ bɔbɔe vie: awu babla, kplɔ̃ ɖoɖo, nuɖaɖa ɖekae, haƒoƒo kple hadzidzi, fotowo kpɔkpɔ, zɔzɔ, abɔ me dɔwɔwɔ kple ɣeyiɣi zazã kple aƒemelã aɖe. Nɔnɔmetata fefe bɔbɔewo, nɔnɔmetata ƒoƒo ƒu fefe bɔbɔewo kple dzeɖoɖo agbalẽviwo hã nyo na ame geɖe. Tia nu si ame si nèle belélem na la lɔ̃na ɣesiaɣi, eye nànɔ egbɔ awɔe kplii."
+  - q: "Ðe fefewo nyo na ame siwo ŋu Alzheimer’s lea?"
+    a: "Fefewo ate ŋu anye mɔ nyui aɖe si dzi miato azã ɣeyiɣi ɖekae ne edzɔa dzi na ame si nèle belélem na la. Womekpɔ be fefe aɖeke daa dɔ na, ɖea Alzheimer’s dzi kpɔtɔna, xea mɔ nɛ alo tɔa tee o, eyata tia fefe siwo ana miakpɔ dzidzɔ: nɔnɔmetata gãwo, tiatia ʋɛ aɖewo, eye ɣeyiɣi dzidzedze, akɔntabubu alo ŋuɖoɖo gbegblẽ ƒe gbe aɖeke manɔ wo me o."
+  - q: "Ðe vovototo aɖe le nuwɔnawo na ame siwo ŋu tagbɔtɔtɔ le kple esiwo wowɔna na ame siwo ŋu Alzheimer’s le domea?"
+    a: "Zi geɖe la, vovototo aɖeke mele wo dome o. Alzheimer’s dɔléle ye nye nu si hea tagbɔtɔtɔ vɛ zi geɖe wu, eye nuwɔna ƒe aɖaŋuɖoɖo mawo ke sɔ nɛ hã. Nu si kpena ɖe ame ŋu le Alzheimer’s gome enye be ŋkuɖoɖo yeyewo buna gbã zi geɖe, eyata nuwɔnawo siwo wotu ɖe ŋutete xoxowo, ha xoxowo kple gbesiagbe nuwɔna siwo wonya dzi la yia edzi bɔbɔe wu."
+  - q: "Nu kae ate ŋu adzɔ dzi na ame si ƒe Alzheimer’s va ɖo nuwuwu akpa?"
+    a: "Ha siwo wòlɔ̃na, asikaka asi ŋu blewuu, nu fafɛ siwo woate ŋu alé asi, be woaxlẽ nu na wò, anyinɔnɔ le gota, kple ame si ŋu wòka ɖo ƒe anyinɔnɔ kpli wò. Wɔ wo kpuie eye nàfa tu, eye nàlé ŋku ɖe eƒe mo kple ŋutilã ŋu be nànya nu si dzea eŋu."
+  - q: "Aleke mawɔ ana nuwɔna aɖe nadzɔ dzi na ame si ŋu Alzheimer’s le?"
+    a: "Bia kpekpeɖeŋu tsɔ wu be nàɖe gbeƒã nuwɔna aɖe, dzra nu sia nu ɖo do ŋgɔ, eye nàdze egɔme wò ŋutɔ ale be wòate ŋu age ɖe eme. Ne ètia ŋkeke ƒe ɣeyiɣi si me wòle nyuie wu la, ate ŋu akpe ɖe ŋuwò ŋutɔ. Ne egbe la, gatee kpɔ emegbe alo nàtsɔ nu sue aɖe nɛ."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +56,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ne ame aɖe si nèlɔ̃na ŋu Alzheimer’s le la, ɖewohĩ ède dzesii xoxo be nu aɖewo buna kabakaba, gake bubuwo ya nɔa anyi. Ate ŋu aŋlɔ ŋdi sia ƒe kaƒoƒo be, gake ate ŋu adzi ha aɖe ƒe nyawo katã, abla awu abe ale si wòwɔna ɣesiaɣi ene, alo ama fefe agbalẽviwo evɔ mebu tame o. Nuwɔna nyuiwo wotua ɖe ŋutete siwo nɔa anyi mawo dzi. Axa sia aɖe nusitae me, emegbe wòana aɖaŋuɖoɖowo na akpa sia akpa kple fefewo femaxee siwo le axa sia dzi siwo sɔ na wo.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Ðe vovototo le Alzheimer’s kple tagbɔtɔtɔ dome ne míele nuwɔnawo ŋu bum?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Menye ŋutɔ o. Tagbɔtɔtɔ nye nya gã aɖe, eye Alzheimer’s dɔléle ye nye nu si hea tagbɔtɔtɔ vɛ zi geɖe wu: [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) gblɔ be eyae nye tagbɔtɔtɔ ƒe alafa memama 60 va ɖo 80. Nu siwo katã woŋlɔ tso nuwɔnawo ŋu na ame siwo ŋu tagbɔtɔtɔ le la sɔ na Alzheimer’s hã, siwo dome míaƒe [nuwɔna ƒe aɖaŋuɖoɖo 101](/activities/ideas/) hã le.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Nu si nyo be míanya enye ale si tɔtrɔawo vaa zi geɖe. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) ɖe eme be Alzheimer’s gblẽa ahɔhɔ̃ ƒe akpa siwo wɔa dɔ le ŋkuɖoɖo ŋu gbã, emegbe wòakpɔ ŋusẽ ɖe gbegbɔgblɔ, susu kple ame bubuwo gbɔ nuwɔwɔ dzi. Alzheimer’s Association gblɔ be dzesi gbãtɔ si wodea dzesii zi geɖe wu enye be nyatakaka yeyewo ŋu ɖoɖo sesẽna. Ame sia ame to vovo, eye ame geɖe ƒe dɔa tso nu vovovowo gbɔ, gake nɔnɔme sia kpena ɖe mía ŋu míenya nu siwo yia edzi nyuie wu.
 
-## What kinds of activities suit Alzheimer's best?
+## Nuwɔna ƒomevi kawoe sɔ nyuie wu na ame si ŋu Alzheimer’s le?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Nuwɔnawo siwo wotu ɖe nu xoxo siwo wonya nyuie dzi la yia edzi bɔbɔe wu esiwo bia be woasrɔ̃ nu yeye aɖe ahakpɔe ɖe susu me.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Ŋutete siwo wòsrɔ̃ tso gbe aɖe gbe ke.** Alzheimer’s Association de dzesii be ame aɖe ate ŋu agaƒo ha bɔbɔe siwo wòsrɔ̃ le piano ŋu ƒe geɖe va yi. Nu lɔlɔ̃, ati ʋuʋu, fefe agbalẽviwo tsatsam, amɔ blublu kple awu babla le nenema ke.
+- **Ha xoxowo kple ha siwo wonya nyuie.** Ame geɖe gale nya nyawo katã siwo le ha siwo wose le woƒe ƒewuiwo me, sɔlemehawo kple woƒe srɔ̃ɖeɖe ƒe hawo me. Kpɔ [ha ƒe nuwɔnawo](/activities/music/).
+- **Gbesiagbe dɔ siwo ŋu dɔ le.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yɔ agba klɔklɔ, kplɔ̃ ɖoɖo, afɔkpa ɖoɖo kple awu babla be wonye nuwɔnawo siwo ate ŋu adzɔ dzi na ame aɖewo. Be woase le wo ɖokui me be yewole dɔ wɔm la le vevie.
+- **Nudzedze tsɔ wu ŋkuɖoɖo.** Ne woafia asi nɔnɔmetata si sɔ la, ebɔbɔna wu be woayɔ eŋkɔ tso susu me. Esia tae nɔnɔmetata fefewo siwo me woate ŋu akpɔ nu sia nu la nyona wu biabiawo.
+- **Nu siwo woate ŋu ase le wo ɖokui me.** Asikaka nu ŋu, ʋeʋẽ, dzoxɔxɔ, vivi kple gbe gale vevie ŋutɔ ne nyawo va le sesẽm. Kpɔ [nuwɔnawo siwo ku ɖe nu siwo woase le wo ɖokui me ŋu](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Nu siwo meyia edzi nyuie o zi geɖe: nu sia nu si me ɣeyiɣi dzidzedze le, se yeyewo sɔsrɔ̃, afɔɖeɖe geɖe ŋkuɖoɖo, alo biabia siwo doa ŋkuɖoɖo kpɔ, abe «Ðe èɖo ŋku ame sia dzia?» ene. Nu siawo tsɔa akpa si sesẽ wu le Alzheimer’s me vaa ŋgɔ tẽ.
 
-## Activities for early-stage Alzheimer's
+## Nuwɔnawo na ame si ŋu Alzheimer’s le le gɔmedzedzea
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Le gɔmedzedzea me la, [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/stages) gblɔ be ame aɖe ate ŋu agaku ʋu, awɔ dɔ eye wòakpɔ gome le hadome nuwɔnawo me, gake ate ŋu ade dzesii be ŋkuɖoɖowo le bubuɖem, abe nyawo ŋu ŋlɔm alo nuwo ŋu ŋlɔm be ene. Mɔ nyuitɔ kekeake enye be miawɔe ɖekae: bia nu si wòdi be yeayi edzi awɔ kple kpekpeɖeŋu si wòdi.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Yi edzi kple nu siwo nèlɔ̃na wɔwɔ.** Golf, bridge, nu lɔlɔ̃, hadzidzi ƒuƒoƒowo kple sɔleme ƒuƒoƒowo, kple tɔtrɔ suewo abe ƒuƒoƒo suewo kple ɣeyiɣi siwo me tomefafa le ene.
+2. **Wɔ fefe siwo wonya nyuie kple agbalẽviwo kple kplɔ̃ dzi.** [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yɔ biabia ƒe fefewo, nya didi, agbalẽvi fefewo kple kplɔ̃ dzi fefewo na gɔmedzedzea akpa. Ne akɔntabubu va le fu ɖem nɛ la, miwɔe abe ƒuƒoƒo ene alo miana akɔntabubu nabu keŋkeŋ.
+3. **Miaɖa nu ɖekae.** Na wòawɔ nuɖaɖo si wònya nyuie, eye wò ya nàxlẽ afɔɖeɖeawo.
+4. **Dze agbe ŋutinya ƒe dɔ aɖe gɔme.** Fotowo, nuɖaɖomɔwo kple ŋutinyawo le agbalẽ aɖe me si eyae akplɔ. Kpɔ [ŋkuɖoɖo ƒe nuwɔnawo](/activities/reminiscence/).
+5. **Miyi tsaɖiɖi aɖe.** Nuɖuƒe si wòlɔ̃na le ɣeyiɣi si me tomefafa le, nukpɔƒe aɖe me yiyi kpuie, alo zɔzɔ le abɔa me.
+6. **Te fefe siwo eya ŋutɔ tia kpɔ.** Nya ŋɔŋlɔdzesi gãwo, nya didi kple nɔnɔmetata ƒoƒo ƒu fefewo. Kpɔ [nɔnɔmetata ƒoƒo ƒu fefewo na ame siwo ŋu tagbɔtɔtɔ le](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Aɖaŋuɖoɖo bubuwo: [nuwɔnawo le gɔmedzedzea akpa](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Nuwɔnawo na ame si ŋu Alzheimer’s le le titina akpa
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer’s Association ɖɔ titina akpa be zi geɖe la, eyae didi wu, eye wògblɔ be ate ŋu anɔ anyi ƒe geɖe. Nyawo tsakana, dzigbɔgbɔɖi vaa bɔbɔe, eye ame si nèle belélem na la hiã beléle geɖe wu. Alzheimer’s Foundation of America gblɔ kpee be ame geɖe hiã kpekpeɖeŋu be woate ŋu adze nuwɔna gɔme alo ayi edzi. Wò dɔ va zua nuwo dzadzraɖo, nu fiafia to nuwɔwɔ me tsɔ wu ɖeɖe me, kple akpa sesẽawo wɔwɔ ɖe eteƒe.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Bla nu, ɖo nu ɖe ɖoɖo nu eye nàtsɔ wo asɔ kple wo nɔewo.** Awuwo, afɔkpawo, nuɖugbadzɛwo, abɔdzesiwo le amadede nu. Wonye dɔ vavãwo, siwo miawɔ ɖekae.
+2. **Dzi ha eye nàʋuʋu kple ha.** Ƒo asikpe, ʋuʋu alo ɖu ɣe le nuɖakpe me. Dze hadzidzi gɔme wò ŋutɔ eye nàna wòage ɖe eme.
+3. **Mikpɔ foto agbalẽwo me.** Ɖe nu si nèkpɔ me eye nàbia be woagblɔ ŋutinya aɖe: «Kpɔ ʋu sia ɖa. Gblɔ nya aɖe tso eŋu nam.» Lɔ̃ ɖe ŋkɔ sia ŋkɔ si wòzã dzi.
+4. **Miwɔ nɔnɔmetata fefe bɔbɔewo.** [Picture pairs](/games/picture-pairs/) kple nɔnɔmetata 4 va ɖo 6 siwo wogblẽ ɖi woakpɔ, alo [Find the same](/games/find-the-same/) kple tiatia 2 alo 3.
+5. **Wu nya siwo wonya nyuie nu.** «Atikutsetse ɖeka gbesiagbe nana...» Nya siawo siwo wosrɔ̃ tso gbe aɖe gbe ke vaa bɔbɔe zi geɖe. Te [Finish the saying](/games/finish-the-saying/) kpɔ, afi si nàte ŋu afia nuwuwu nya sia nya kple asikaka ɖeka.
+6. **Ku tsi atiwo ŋu eye nàkpɔ wo dzi.** Ati siwo le ze me le aƒe me alo abɔ sue aɖe, kple tsigo sue aɖe.
+7. **Wɔ fefe si me woatsɔ nɔnɔmetatawo asɔ kple wo nɔewo tso ƒomea ƒe fotowo me.** [Photo pairs](/games/photo-pairs/) zãa fotowo siwo nètia le wò mɔ̃ dzi, eye womedzona le eme o.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Aɖaŋuɖoɖo bubuwo: [nuwɔnawo le titina akpa](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Nuwɔnawo na ame si ŋu Alzheimer’s le le nuwuwu akpa
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Le nuwuwu akpa la, Alzheimer’s Association gblɔ be amewo buna ŋutete si le wo si be woaɖo nya ŋu na woƒe nutoa me alo ayi dzeɖoɖo dzi, gake woate ŋu agblɔ nya aɖewo alo nya kpui aɖewo kokoko. Nuwɔna fifia fia akɔfafa kple kadodo, si woatsɔ ayi afi si ame si nèle belélem na la le gbɔdzɔe le.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Ƒo ha siwo wòlɔ̃na** blewuu, evɔ television maɖe to o.
+2. **Ka asi ŋu nɛ** blewuu kple ami si ƒe ʋeʋẽ dzea eŋu.
+3. **Tsɔ nu fafɛwo nɛ wòalé asi:** avɔ dzoxɔxɔ, avɔ fafɛ, alo kpe zrɔ̃e aɖe.
+4. **Xlẽ nu sesĩe** na wò, abe psalmowo, hakpanyawo alo ŋutinya si wònya nyuie ene. Gbeɖiɖi ƒe ɖoɖo le vevie wu gɔmesesea.
+5. **Nɔ anyi le gota** le vɔvɔli te, alo le fesre nu be nàkpɔ xeviwo.
+6. **Mikpɔ nɔnɔmetata gã ɖeka ɖekae.** Gbeɖiɖi ƒe se alo avu si yɔ tablat ƒe screen dzi, eye nàgblɔ nu si nèkpɔ.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Aɖaŋuɖoɖo bubuwo: [nuwɔnawo le nuwuwu akpa](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Fefe kawoe nyo na ame si ŋu Alzheimer’s le?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Tia fefe siwo me womate ŋu adze agɔ o. Fefe sia fefe si le axa sia dzi nye femaxee, ewɔa dɔ le internet dzi kpɔmɔ̃ me, eye ɣeyiɣi dzidzedze, akɔntabubu alo ŋkɔ ŋɔŋlɔ mele wo me o.
 
-| Game | What you do | Often suits |
+| Fefe | Nu si miawɔ | Zi geɖe la, esɔ na |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Tsɔ nɔnɔmetata gãwo sɔ kple wo nɔewo; woate ŋu anɔ anyi woakpɔ | Gɔmedzedzea kple titina akpa |
+| [Find the same](/games/find-the-same/) | Zi nɔnɔmetata si sɔ kple esi le etame dzi | Titina kple nuwuwu akpa, kple kpekpeɖeŋu |
+| [Finish the saying](/games/finish-the-saying/) | Tia nya mamlɛtɔ le nya si wonya nyuie me, alo nàfiae | Gɔmedzedzea kple titina akpa |
+| [Picture puzzle](/games/picture-puzzle/) | Trɔ nɔnɔmetata ƒe akpa 4 alo 9 ɖo wo teƒe, evɔ woɖe nɔnɔmetata la fia | Gɔmedzedzea kple titina akpa |
+| [Conversation cards](/games/conversation-cards/) | Nɔnɔmetata kple nyabiase si ʋua dzeɖoɖo ɖi | Akpa sia akpa, kple ame aɖe si woaɖo dze kplii |
+| [Photo pairs](/games/photo-pairs/) | Fefe si me woatsɔ nɔnɔmetatawo asɔ kple wo nɔewo tso wò ŋutɔ wò fotowo me | Gɔmedzedzea kple titina akpa |
+| [Coloring](/games/coloring/) | Zi amadede dzi, emegbe nɔnɔmetata ƒe akpa aɖe dzi; alo nàtãe | Akpa sia akpa, kple kpekpeɖeŋu |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Ne èdi be yeanya ale si mianɔ anyi ɖekae, ale gbegbe nàkpe ɖe eŋu kple ɣeyiɣi si nàdzudzɔ le la, xlẽ [ale si nàwɔ fefe kple ame si ŋu tagbɔtɔtɔ le](/caregiving/how-to-play-together/). Ne èle «ŋkuɖoɖo ƒe fefewo» ŋu bum la, kpɔ [ŋkuɖoɖo ƒe fefewo na ame tsitsi siwo ŋu tagbɔtɔtɔ le](/activities/memory-games/).
 
-## How to make any activity easier
+## Aleke nàwɔ nuwɔna ɖe sia ɖe bɔbɔe wu
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA ƒe aɖaŋuɖoɖo ku ɖe nuwɔna ʋɛ aɖewo ŋu: tsɔ nuwɔna la sɔ kple nu si ame si nèle belélem na la ate ŋu awɔ, kpe ɖe eŋu wòadze egɔme, lé ŋku ɖe dzigbɔgbɔɖi ŋu, kpɔ egbɔ be wòase le eɖokui me be yedze agbagba, eye nàna wòakpɔ nu ko ne eyae dzɔa dzi nɛ.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Tia ŋkeke ƒe ɣeyiɣi si me wòle nyuie wu,** eye nàwɔ nuwɔnawo kpuie.
+- **Dzra nu sia nu ɖo do ŋgɔ** ale be miate ŋu adze egɔme enumake.
+- **Kpee, megade se nɛ o.** «Àte ŋu akpe ɖe ŋunye viea?» nyona wu «Enye nuwɔna ƒe ɣeyiɣi.»
+- **Wɔ afɔɖeɖe gbãtɔ wò ŋutɔ** eye nàna wòage ɖe eme.
+- **Na afɔɖeɖe ɖeka kple tiatia ɖeka le ɣeyiɣi ɖeka me.**
+- **Na wòawɔe le eya ŋutɔ ƒe mɔ nu.** Ne awu siwo wòbla medze pɛpɛpɛ o hã la, menye kuxi o.
+- **Dzudzɔ esime wògale vivi sem.** Ne miedzudzɔ kaba la, enye nu nyui, menye dzidzedzekpɔkpɔ o. Ne egbe la, kpɔ [ne ame si ŋu tagbɔtɔtɔ le gblɔ be yemedi o](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gblɔe bɔbɔe ale: tsɔ susu ɖo dzidzɔkpɔkpɔ ŋu, menye dzidzedzekpɔkpɔ ŋu o.

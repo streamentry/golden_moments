@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Хѫдожьствьнаꙗ дѣла за възрастьныѩ съ оумьною немощью"
+seoTitle: "Хѫдожьствьнаꙗ дѣла съ оумьною немощью"
+description: "Идеѩ хѫдожьствьныхъ дѣлъ за възрастьныѩ чловѣкы живѫщѧѩ съ оумьною немощью: акварель, колажь, цвѣтъно оукрашениѥ, съ съвѣты о оуготовлении и приспособлении."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Добраꙗ хѫдожьствьнаꙗ дѣла за възрастьныѩ чловѣкы живѫщѧѩ съ оумьною немощью
+  подобаѭтъ и чоуѭтъ сѧ ꙗко възрастьнаꙗ: акварель, колажь изъ образъ
+  поврѣменьныхъ писании, цвѣтъно оукрашениѥ, глина, просто творениѥ
+  поздравьныхъ листовъ или възрастьныѩ листи за цвѣтѥниѥ. Положи мало
+  потрѣбъ, помози при пьрвомъ чертании, аще трѣбѣ ѥстъ, бесѣдоуи дѣлаѭще, и
+  имѣи врѣмѧ вькоупѣ ꙗко главьно. Съконьчаноѥ дѣло ѥстъ по воли.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Избираи потрѣбы и образы възрастьны, ꙗко акварельнѫ боумагѫ, истиньныѩ цвѣты и образы изъ поврѣменьныхъ писании, а не блѣщѧщѧѩ сѧ вещи, лѣпьчивыѩ знакы или дѣтьскыѩ листы."
+  - "Съмотри на дѣланиѥ: на цвѣты, на осязаниѥ глины, на бесѣдѫ. Съконьчаноѥ дѣло ѥстъ придатъкъ, а не цѣль."
+  - "Даѩи цѣль, егда можеши, ꙗко поздравьнъ листъ за въноука или оукрашениѥ за трапезѫ."
+  - "Помози чловѣкоу начѧти, потомь отъстѫпи мало. Чѧсто довьлѣѥтъ начѧти пьрвоѥ чертаниѥ кистью вькоупѣ."
+  - "Дѣло не трѣбоуѥтъ съконьчати сѧ въ ѥдино сѣдѣниѥ, и ранѥѥ прѣстаниѥ всегда ѥстъ добро."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Како сътворити хѫдожьствьнаꙗ дѣла не дѣтьска?"
+    a: "Оупотрѣблꙗи истиньныѩ хѫдожьствьныѩ потрѣбы, възрастьныѩ образы и чьстьнъ гласъ. Въмѣсто блѣщѧщихъ сѧ вещи и дѣтьскыхъ листовъ възьми акварельнѫ боумагѫ, платъно, цвѣты, фотографии изъ поврѣменьныхъ писании и подробьныѩ възрастьныѩ листы за цвѣтѥниѥ. Не хвали дѣла тако, ꙗкоже дѣтьскы рисъ; глаголи о нѥмь, ꙗкоже би глаголалъ съ которымь любо възрастьнымъ дроугомь."
+  - q: "Кыꙗ хѫдожьствьнаꙗ дѣланиꙗ могѫтъ помощи въ позьдьнѣишеи оумьнѣи немощи?"
+    a: "Въ позьдьнѣишее врѣмѧ простыѩ и чоувьствьнаꙗ дѣла сѫтъ наилѣиша: широкыѩ черты великою кистию, мѧканиѥ мѧкъкыѩ глины, оукрашениѥ мало цвѣтовъ въ съсѫдѣ или избираниѥ късъ платъна по осязанию. Можеши трѣбовати начѧти движениѥ вькоупѣ. Съмотрѣниѥ, како ты пишеши, и бесѣда о цвѣтѣхъ тако же ѥстъ оучѧстиѥ."
+  - q: "Чьто, аще речетъ, ꙗко не можѥтъ рисовати?"
+    a: "Отъими тѧготѫ. Покоуси дѣла безъ праваго отвѣта, ꙗко акварельнъ цвѣтъ, колажь или оукрашениѥ цвѣтовъ. Можеши тако же рещи, ꙗко трѣбоуѥши помощи въ нѣчьто опрѣдѣлено, ꙗко въ избрании цвѣтовъ за поздравьнъ листъ, да дѣло чоуѥтъ сѧ ꙗко помощь, а не искоушениѥ."
+  - q: "Листи за цвѣтѥниѥ дѣтьскы ли сѫтъ за възрастьныѩ?"
+    a: "Не, егда сѫтъ сътворени за възрастьныѩ. Избираи листы съ възрастьными образы, ꙗко сады, одѣꙗла, кола или видъ мѣстъ, и подаваи ѩ ꙗко покои, а не ꙗко оучениѥ. Наши листи за цвѣтѥниѥ могѫтъ сѧ печатати или цвѣтити на плочици."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Хѫдожьство и хѫдожьствьнаꙗ дѣла даѭтъ чловѣкомъ живѫщемъ съ оумьною немощью пѫть изрещи себе безъ трѣбованиꙗ искати права словеса. Alzheimer's Association поминаѥтъ, ꙗко хѫдожьствьнаꙗ дѣла могѫтъ принести [чоувьство съврьшениꙗ и цѣли](https://www.alz.org/help-support/caregiving/daily-care/art-music) и мѣсто за самоизречениѥ, за попечителꙗ тако же ꙗко за чловѣка съ оумьною немощью. Важьно ѥстъ хранити дѣло възрастьно, просто и безъ тѧготы. Си страница даѥтъ опрѣдѣленаꙗ дѣла, како ѩ оуготовити и како ѩ приспособити, егда вещи измѣнꙗѭтъ сѧ.
 
-## What makes an art activity adult and not childish?
+## Чьто творитъ хѫдожьствьно дѣланиѥ възрастьно, а не дѣтьско?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Възрастьно хѫдожьствьно дѣланиѥ оупотрѣблꙗѥтъ истиньныѩ потрѣбы, възрастьныѩ образы и чьстьнъ гласъ. Alzheimer's Association съвѣтоуѥтъ дрьжати дѣла на възрастьнѣ мѣрѣ и оукланꙗти сѧ вьсего, ѥже може видѣти сѧ оунижаѭще или дѣтьско.
 
-| Feels childish | Feels adult |
+| Чоуѥтъ сѧ дѣтьско | Чоуѥтъ сѧ възрастьно |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Блѣщѧщѧѩ сѧ вещи, пѣньни лѣпьчиви знаци, движимыѩ очи | Акварельна боумага, платъно, исоушени цвѣти |
+| Дѣтьскы листи за цвѣтѥниѥ | Листи за цвѣтѥниѥ съ сады, одѣꙗлы, колы или видъ мѣстъ |
+| Хвала «добрѣ» за вьсꙗко чрьтаниѥ | Истиньна бесѣда: «Сь синьи цвѣтъ красьнъ ѥстъ подлѣ зеленаго» |
+| Дѣло безъ пользы | Поздравьнъ листъ за дроуга, оукрашениѥ, даръ |
+| Повелѣниꙗ ꙗко оучениѥ | Приглашениѥ: «Можеши ли ми помошти въ семъ?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Помысли о вкоусѣ самого чловѣка. Чловѣкъ, иже люблꙗше шьвениѥ, може радовати сѧ дрьжѧ платъно. Бывъши строитєль може прѣдъпочитати съборъ съ великыми чѧстьми или избираниѥ потрѣбъ за дѣло. Бывъши оучитєль може радовати сѧ творѧ поздравьныѩ листы.
 
-## Why focus on the process, not the product?
+## Почто съмотрити на дѣланиѥ, а не на плодъ?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Занѥ врѣмѧ вькоупѣ ѥстъ главьно. Пѫтєводьство Alzheimer's Association о [дѣланиихъ въ домоу](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) глаголѥтъ съмотрити на дѣланиѥ, а не на плодъ. Живопись, ꙗже ѥстъ «тъкмо синꙗ», вьсе ѥстъ живопись. Колажь съ трьми образы вьсе ѥстъ колажь.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Съвѧзь тако же поминаѥтъ, ꙗко оумѣлыи хѫдожьникъ може имѣти нєоудовольствиѥ отъ измѣнъ въ своѥмь дѣлѣ, а чловѣкъ, иже не бѣ оумѣлъ, може радовати сѧ новоу пѫти изрещи себе. Аще чловѣкъ бѣ оумѣлыи хѫдожьникъ, покоуси инъ видъ дѣла, не тъ, въ нѥмьже бѣ оумѣлъ, да чоуѥтъ сѧ ꙗко игра, а не ꙗко съравьнѥниѥ.
 
-## Arts and crafts ideas to try
+## Идеѩ хѫдожьствьныхъ дѣлъ
 
-Each idea includes how to make it simpler if it becomes hard.
+Къ кождои идеи ѥстъ пѫть, како ю оупростити, аще боудетъ тѧжька.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Акварельни цвѣти.** Оумочи тѧжькѫ акварельнѫ боумагѫ и даи чловѣкоу поустити цвѣтъ на ню великою кистию. Цвѣти сами разливаютъ сѧ, и нѣстъ зъла плода. *Простьѥ:* даи тъкмо дъва цвѣта, или пиши водою на тьмнѣ боумазѣ, ꙗже ꙗвлꙗѥтъ мокрыѩ слѣды.
+2. **Колажь изъ поврѣменьныхъ писании.** Прѣжде изрѣжи образы изъ поврѣменьныхъ писании о садѣхъ, варении, колахъ, пѫти или старыхъ любъвехъ чловѣка. Даи ѥмоу избирати и лѣпити образы на тврьдѫ боумагѫ. *Простьѥ:* даи чєтыри прѣжде изрѣзаны образы и лѣпьчиво прѫтьѥ, и лѣпита вькоупѣ.
+3. **Оукрашениѥ цвѣтовъ.** Alzheimer's Foundation of America съвѣтоуѥтъ [оукрашати изрѣзаныѩ цвѣты и зелениѥ](https://alzfdn.org/dementia-activity-gardening/) въ простыѩ врѣменьнаꙗ оукрашениꙗ. Оупотрѣблꙗи тѧжькъ и стоꙗщь съсѫдъ и стєбла прѣжде оурѣзана. *Простьѥ:* положи мало стєблъ въ малъ съсѫдъ, по ѥдиномоу.
+4. **Поздравьни листи съ исоушєными цвѣты.** Исоуши цвѣты изъ съвѧзаниꙗ мєждоу страницами кънигъ за сєдмицѫ, потомь прилѣпи ѩ на съгъбєнѫ боумагѫ. *Простьѥ:* ты положи лѣпило, а чловѣкъ притиснетъ цвѣтъ.
+5. **Възрастьни листи за цвѣтѥниѥ.** Избираи листы съ ꙗсными чрътами и истиньными образы. Наши печатьни [листи за цвѣтѥниѥ](/games/coloring/) могѫтъ сѧ цвѣтити и на зрачилѣ, избираѭще цвѣтъ, потомь чѧсть образа. *Простьѥ:* болша мѣста, мьньше цвѣтовъ, тлъстыꙗ писала.
+6. **Глина или мѧкъко тѣсто.** Катаи, тисни и твори глинѫ или мѧкъко тѣсто. Притиснѫти листъ въ глинѫ творитъ простъ знакъ. *Простьѥ:* тъкмо мѧканиѥ и катаниѥ ѥстъ пльно дѣланиѥ. Съмотри, да чловѣкъ не положитъ глины въ оуста.
+7. **Творениѥ поздравьныхъ листовъ.** Alzheimer's Association съвѣтоуѥтъ рещи ѥ ꙗко истиньно дѣло: «Посълаѥвѣ поздравьнъ листъ дроугоу. Можеши ли помошти?» Прѣжде изрѣзана боумага и мало цвѣтьныхъ знаковъ добрѣ слоужѧтъ.
+8. **Събираниѥ памѧти.** Полагаита вькоупѣ прѣписы старыхъ фотографии, поздравьныхъ листовъ или хранєныхъ знáмєнии на страницы събираниꙗ. Бесѣдоуита о коѥмьждо. Виждь нашь [пѫтєводь о памѧти](/activities/reminiscence/) за тихыѩ пѫти бесѣдовати о минѫвъшемъ.
+9. **Платъна и дощькы осязаниꙗ.** Прилѣпи късы бархата, кадифє, грѫба платъна и копринъ на тврьдѫ боумагѫ. Творениѥ ѥстъ дѣланиѥ; осязаниѥ послѣжде ѥстъ ино. Болє идеи сѫтъ въ нашемь [пѫтєводѣ о чоувьствьныхъ дѣланиихъ](/activities/sensory/).
+10. **Просто дѣло съ дрѣвомъ.** За чловѣка, иже люблꙗше дрѣводѣлиѥ, глаждениѥ гладъка дрѣвєна къса или цвѣтѥниѥ малаго домъка за птицѧ може чоути сѧ знаѥмо. Отъими острыѩ орѫдиꙗ и съмотри.
+11. **Живопись съ пѣснию.** Поусти любимоую пѣснь и пиши образы или цвѣты по чоувьствоу. Се съвѫзаѥтъ дъвѣ дѣланиꙗ, ꙗже мнози любѧтъ. Виждь [дѣланиꙗ съ пѣснию](/activities/music/).
 
-## How do I set up an art session?
+## Како оуготовити хѫдожьствьно врѣмѧ?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Оуготови прѣжде.** Изрѣжи, оурѣжи и положи вьсе прѣжде даже призовеши чловѣка. Чаканиѥ, доньдеже ищеши ножицъ, може погоубити часъ.
+2. **Дрьжи мало.** Дъва или три цвѣта, ѥдина кисть, ѥдинъ листъ боумагы. Много избирании може съмѧсти.
+3. **Съхрани трапезѫ.** Пластово покрывало или старъ платъ творитъ, да нєчистота не боудетъ страхъ.
+4. **Сѣди подлѣ.** Дѣлаи своѥ дѣло подлѣ ѥго. Се чоуѥтъ сѧ ꙗко вькоупѣ, а не ꙗко надъзоръ.
+5. **Помози начѧти.** Alzheimer's Association поминаѥтъ, ꙗко можеши трѣбовати начѧти движениѥ кисти съ чловѣкомь. Егда начьнѫтъ, мнози продължаѭтъ.
+6. **Бесѣдоуи дѣлаѭще.** Глаголи о цвѣтѣхъ и осязаниихъ, или даи хѫдожьствоу вести къ повѣстємъ. Оукланꙗи сѧ въпросъ ꙗко искоушениꙗ, ꙗко «Чьто се ѥстъ?»
+7. **Даи довьльно врѣмєнє.** Дѣло не трѣбоуѥтъ съконьчати сѧ въ ѥдино сѣдѣниѥ.
 
-## How do I adapt art as dementia changes?
+## Како приспособити хѫдожьство, егда оумьна немощь измѣнꙗѥтъ сѧ?
 
-| Stage | What tends to work | What to adjust |
+| Степень | Чьто чѧсто помагаѥтъ | Чьто измѣнити |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Рана | Оучєниꙗ, подробьно цвѣтѥниѥ, събираниꙗ памѧти, творениѥ поздравьныхъ листовъ, живопись по образоу | Даи изборъ дѣлъ; дрьжи общєниѥ |
+| Срѣдьнꙗ | Прѣжде изрѣзанъ колажь, акварельни цвѣти, оукрашениѥ цвѣтовъ, цвѣтѥниѥ съ болшими мѣсты | По ѥдинои стѫпи; ты дрьжи рѣзаниѥ и лѣплѥниѥ |
+| Позьдьнꙗ | Широка чрьтаниꙗ кистию, мѧканиѥ глины, осязаниѥ платъна, съмотрѣниѥ како ты пишеши | Съмотри на чоувьства; води рѫкѫ тихо, аще ѥстъ приѩтно |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS съвѣтоуѥтъ, ꙗко въ позьдьнѣишихъ стєпєнєхъ дѣланиꙗ чѧсто сѫтъ простѣиша и съмотрѧтъ на чоувьства. Съмотрѣниѥ, како инъ чловѣкъ пишѥтъ, и бесѣда о цвѣтѣхъ ѥстъ истиньно оучѧстиѥ. За болє идеи по стєпєнємъ виждь [дѣланиꙗ за вьсѧкѫ стєпєнь](/activities/ideas/).
 
-## Safety with art supplies
+## Безопасьность съ хѫдожьствьными потрѣбами
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Избираи краскы, писала и лѣпила безъ врѣда.
+- Дрьжи ножицѧ, рѣзала и горѧщѧѩ лѣпила далєчє. Вьсѧко рѣзаниѥ твори самъ прѣжде.
+- Съмотри, да никътоже не положитъ глины, краскъ или малыхъ вещи въ оуста.
+- Оупотрѣблꙗи стоꙗщѧѩ тѧжькыѩ съсѫды за водѫ и цвѣты.
 
-## When should we stop?
+## Къгда прѣстати?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Прѣстани, егда въниманиѥ отъходитъ или ꙗвлꙗѥтъ сѧ нєоудовольствиѥ. Alzheimer's Association съвѣтоуѥтъ прѣстати или измѣнити дѣланиѥ, егда въниманиѥ оумалꙗѥтъ сѧ или нєоудовольствиѥ растєтъ. Положи дѣло въ безопасьно мѣсто и прѣдъложи чьто тихо. Можеши възвратити сѧ оутрѣ, или николиже. Обоѥ ѥстъ добро.
 
-## Display the work, if the person wants
+## Показати дѣло, аще чловѣкъ хощетъ
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Повѣсити живопись или положити колажь въ рамѫ може быти тихъ пѫть показати чьсть. Въпроси прѣжде. Нѣции любѧтъ видѣти своѥ дѣло на стѣнѣ; инии не хотѧтъ.
 
-## Pair art with our games
+## Съвѧжи хѫдожьство съ нашими играми
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Въ дьни, егда оуготовлѥниѥ красъкъ ѥстъ тѧжько, [Coloring](/games/coloring/) дѣлаѥтъ на плочици безъ нєчистоты. [Picture Puzzle](/games/picture-puzzle/) дрьжитъ вьсь образъ видимъ ꙗко помошть, егда мѣнꙗѥши чѧсти. [Conversation Cards](/games/conversation-cards/) даѭтъ отъкрытыѩ въпросы, иже могѫтъ вести отъ образа къ повѣсти. Вьсѧ сѫтъ безъ врѣмєнє и безъ числа. Можеши тако же печатати страницы изъ нашего събора [печатьныхъ дѣлании](/activities/printable/).

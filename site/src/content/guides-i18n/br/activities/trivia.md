@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Kwizioù aes evit tud gant demañs, hep press"
+seoTitle: "Kwizioù evit tud gant demañs, gant ar respontoù"
+description: "50 kwizioù aes evit tud gant demañs, gant dibaboù respont ha tra da gaozeal diwar-benn, ha penaos kas ur sesion a zo mat evit an holl."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Kwizioù aes evit tud gant demañs a labour mat pa vez graet evel ur gaozeadenn
+  ha n'eo ket evel un examen. Goulennit diwar-benn traoù desket abaoe pell, evel
+  ganeoù kozh, lavaroù, goulioù ha buhez pemdeziek, ha kinnigit daou pe dri
+  dibab bep tro. Roit ar respont gant frankiz, ha na zifennit den ebet, lezit ar
+  skorioù, ha grit ur gontadenn eus pep respont. Goulennoù « lodenn pe lodenn »
+  hep respont fall a glot gant an deroù stadoù.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Goulennit diwar-benn traoù anavezet abaoe pell: ganeoù, lavaroù, goulioù, boued ha buhez pemdeziek a oa abaoe meur a vloaz."
+  - "Kinnigit daou pe dri dibab, evit ma c'hallo an dud anavezout ar respont en ur gaout anezhañ, hep bezañ red kavout anezhañ en o fenn."
+  - "Lavarit ar respont gant ur c'hoarzh ha kendalc'hit. Pep dibab a zegas ur gontadenn a zo ur respont mat."
+  - "Na skorioù ebet, na skipailhoù o redek ebet, na galvit unan dibar. Lezit ar respontoù da zont eus an holl en ur gambr."
+  - "Pa vez diaes dibab etre respontoù, trec'hit da c'houlennoù « lodenn pe lodenn » hep respont reizh ebet."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Ha mat eo ar c'hwizioù evit tud gant demañs?"
+    a: "Mat eo ma vez graet gant douster. Alzheimer's Foundation of America a lakaf ar c'hwizioù e-touez an obererezhioù evit ar mare kentañ. Goulennit diwar-benn traoù anavezet abaoe pell, kinnigit dibaboù, ha na lakait den ebet da vezañ diwar-benn an dra. Gwelit ar respontoù evel un hent evit kaozeal, n'eo ket un examen."
+  - q: "Petra a dalv gwellañ evit ar c'hwizioù gant demañs?"
+    a: "Traoù desket abaoe pell a dalv gwellañ: kanerien hag ar c'hanerezed a blijent d'an den e yaouankiz, lavaroù boas, goulioù, boued, sport ha buhez pemdeziek, evel al laezhourien hag ar pellgomzerien kozh gant ur rod. Kuitait an traoù nevez a-vremañ hag ar pezhioù a rank kofiañ un dra a zo bet lavaret a-raok e-kerzh ar goulenn."
+  - q: "Penaos ober ar c'hwizioù e kreizenn kenderc'hel hep lakaat den da vezañ mezh?"
+    a: "Lennit pep goulenn d'an holl strollad, diskouezit pe lavarit an dibaboù, ha degemerit respontoù gant an holl. Na galvit unan dibar ha na miret ket ar skorioù. Lavarit ar respont gant ur c'hoarzh, pe a vefe bet dibabet, ha goulennit un dra all evel « Piv ac'hanoc'h a zo bet da welet ur film e-barzh ur c'harr? » evit kas an dud da gontañ istorioù."
+  - q: "Petra a c'hallan ober e-lec'h ar c'hwizioù e-kerzh ar staj diwezhañ?"
+    a: "Kemmit da c'houlennoù n'eus respont fall ebet ennañ, evel « Kafe pe te? » pe « Traezh pe menezioù? », ha da echuiñ lavaroù pe ganeoù anavezet asambles. Sellet ouzh skeudennoù ha deskrivit anezho asambles a labour mat ivez."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Ur pezh eus ar gweladennoù strollad a vez goulennet ergentañ e kreizennoù kenderc'hel ha lec'hioù deizhiek, ha meur a familh a c'hoari anezhañ e-kreiz an ti ivez. Pa vez graet evel boas, gant skorioù ha ur c'hoarzh unan a respont, e c'hall lakaat un den a zo gant demañs da vezañ mezh. Pa vez graet gant doujañs, eo un dra plijus evit klevout istorioù. Setu 50 kwizioù aes gant dibaboù respont ha tra da gaozeal diwar-benn pep unan, ha goude penaos kas ur sesion.
 
-## How do you make trivia work for someone with dementia?
+## Penaos lakaat ar c'hwizioù da vont mat gant unan gant demañs?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Lakit anezhañ da vezañ diwar-benn gouzout ha kofiañ traoù a oa abaoe pell, ha degemerit pep respont a-berzh an holl.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Goulennit diwar-benn ar pell.** Hervez [Kevredigezh Alzheimer](https://www.alz.org/alzheimers-dementia/what-is-alzheimers), an arwez kentañ bemdezh eus Alzheimer a zo an dibaouezh da gofiañ traoù nevez deskadurezh. Kanaouennoù, lavaroù hag ar buhez a oa meur a vloaz zo a zo aesoc'h ganto.
+2. **Kinnigit bep amzer daou pe dri dibab.** Dibab ar respont mat etre daou pe dri zo aesoc'h eget kavout anezhañ hep netra ebet.
+3. **Lennit ar goulennoù a-uhel ha diskouezit anezho bras.** Ur gwenodenn pe ur strobinell e-kerzh a skoaz d'an dud a glev disheñvel.
+4. **Roit ar respont en ur frankiz.** Ma ne ouie den ebet, lavarit ac'hanoc'h gant tenerded ha kendalc'hit. Na lavarit ket « Deuit, anavezit an dra-se. »
+5. **Ket skor.** Na evit an dud unan-unan, na evit an taolioù. Ma fell d'an dud un niverenn, mirit ur fed strollad hepken.
+6. **Na galvit unan dibar.** Lezit ar respontoù da zont eus piv a fell. Gant unan, respontit asambles: « Soñj a ran e vefe ar piano. Petra a soñjit ac'hanoc'h? »
+7. **Implijit an dra da gaozeal.** Ar respont a zo an deroù, n'eo ket ar fin. Ar gontadennoù eo ar pezh a bouezh.
+8. **Miret berr.** Dek goulenn gant istorioù etre-dof a zo lod a-walc'h.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+Hervez [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), ar reolenn a bouez a zo keit-se: evezhiit ouzh ar mezh ha gwelit e vefe an den o sentiñ e oa gwelloc'h. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a lakaf ar c'hwizioù e-touez an obererezhioù evit ar mare kentañ. Er mare kreiz, derc'hit daou dibab hepken ha lakit an traoù da gaozeal da zegas ar stourm. Diwezhatoc'h, kemmit d'ar goulennoù « lodenn pe lodenn » a zo tamm-ha-tamm.
 
-## Music and entertainment trivia
+## Kwiz ar sonerezh hag an adloskerezh
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Ar respont a zo e **gras**. Azasit ar re-mañ d'an den: an hini a zo bet o tiskuizhañ gant Motown a blijo dezhañ kanerien disheñvel eget an hini a zo bet o tiskuizhañ gant ur bagad vras.
 
-| Question | Choices | Talk about |
+| Goulenn | Dibaboù | Tra da gaozeal diwar-benn |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Piv a oa galvet Roue ar Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Hoc'h eus gwelet Elvis war an tele? |
+| Pe kaner a oa anvet Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Pe ganeg Sinatra a blij ac'hanoc'h an hini vrasañ? |
+| Bing Crosby a oa breujet eus ur ... gwenn | **Nedeleg**, priedigezh, ti | Kanit ur linenn asambles |
+| Louis Armstrong a ganas "Pegen burzhudus eo ar..." | Deiz, **Bed**, Buhez | Petra a ra ar bed burzhudus evidoc'h? |
+| Judy Garland a ganas "Over the Rainbow" en ur film pe? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | E pelec'h hoc'h eus gwelet ho filmoù muiañ-karet? |
+| Piv a joues ar roll Lucy e "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Pezhioù tele piv a welet asambles en ho ti? |
+| Pe kaouboy a varc'hizhe ur marc'h anvet Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Hoc'h eus c'hoarvezet da c'hoari kaouboied e vugeliezh? |
+| Piv a bedas "The Tonight Show" e-pad 30 vloaz? | Ed Sullivan, **Johnny Carson**, Bob Hope | Ha chomet a rejec'h da welet an tele? |
+| Pe benveg en deus 88 klav? | Gitarenn, **piano**, trompetenn | Ha ur re eus ho familh a c'hoarie? |
+| Pe dañs a vez kontet un-daou-tri, un-daou-tri? | **Waltz**, twist, tango | E pelec'h hoc'h eus dañset? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Evit muioc'h a dra war ar sonerezh, gwelit [sonerezh evit an dud gant demañs](/activities/music/).
 
-## Everyday life trivia
+## Kwiz ar vuhez pemdeziek
 
-| Question | Choices | Talk about |
+| Goulenn | Dibaboù | Tra da gaozeal diwar-benn |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| A-raok ar frizerien e miret ar boued fresk e meur a ti en ur ... | **Gwaregenn skorn**, fourn, solier | Piv a zegase ar skorn? |
+| Piv a zegase al laezh d'an orin gant boutailhoù gwer? | Ar postaer, **al laezhour**, ar c'hazetour | Petra all a vez degaset d'an ti? |
+| Penaos e kelenn ur pellgomzer gant ur rod? | Pouezañ botouniennoù, **troiñ ur roued**, komz outi | Komzit diwar-benn ar pellgomzer en ho ti |
+| Pe kompagnunezh en deus graet ar c'harr Model T? | **Ford**, Chevrolet, Buick | Komzit diwar-benn ur c'harr a garit |
+| E pelec'h e kavfe ur soda jerk? | **Ur fontenn soda**, ur gwerzhva bara, ur banc'h | Petra a archetac'h e-kichen ar gontouar? |
+| Pe c'hoari a zo ur resort metal a c'hall dont a-zioutañ ar grisiennoù? | Yo-yo, **Slinky**, hula hoop | Pe c'hoarioù a garit kalz? |
+| Ur drive-in a oa ul lec'h evit gwelet ... | **Filmoù a-berzh ho c'harr**, c'hoarioù pilh-kraoñ, parredoù | Gant piv e vezec'h aet? |
+| Pe hini a zo war an daolenn 1 dollar? | Lincoln, **George Washington**, Jefferson | Petra a brenne ur dollar en amzer-se? |
+| Pe hini a zo war ar penny? | **Abraham Lincoln**, Washington, Franklin | Hoc'h eus miret pennyoù e ur bod en amzer-se? |
+| Pe liv emañ ur vus-skol aliesañ? | Ruz, **melen**, glas | Penaos e kerzhec'h d'ar skol? |
 
-## Holidays, nature and places
+## Gouelioù, natur ha lec'hioù
 
-| Question | Choices | Talk about |
+| Goulenn | Dibaboù | Tra da gaozeal diwar-benn |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Pe gouel a zo d'ar pevare Yaou e miz Du? | Deiz al labourerien, **Thanksgiving**, Deiz an dud marv | Petra a oa bepred war ho taol? |
+| Evit pe gouel e vez graet ar pennlanternoù? | **Halloween**, Pask, Nedeleg | Komzit diwar-benn Halloween e-kreiz ho kêr |
+| An 4 a viz Gouere a lak da lidañ Deklaradur ... | Droioù, **an Dieubidigezh**, Frankiz | E pelec'h hoc'h eus gwelet tanwerzhioù? |
+| E pe miz eo Deiz ar Mamm? | Ebrel, **Mae**, Even | Penaos e vez dathet ar gouel en ho familh? |
+| Pet steredenn zo war baner ar Stadoù-Unanet? | 48, **50**, 52 | Ar baner en doa 48 steredenn betek 1959. Pep respont a zo ur sonj vat. |
+| Pe mor a zo war ar c'hostez a-reter er Stadoù-Unanet? | Pasifik, **Atlantek**, Arktik | Ha bet oc'h er traezh? |
+| E pe gêr emañ Estatuenn an Frankiz? | Boston, **New York**, Philadelphia | Ha bet oc'h e New York? |
+| Petra a laka ar gwenanenn? | Laezh, **mel**, sied | Mel war ur banne bara pe en te? |
+| Ur c'hig bihan a vez anvet ur ... | Pouliner, **keig**, bouc'hig | Hoc'h eus chomet a-dost ur fermenn? |
+| Pe bleun melen uhel a vez anavezet evit troiñ gant an heol? | Rozenn, **Heoliant**, tulipenn | Petra a dvezhe en ho liorzh? |
+| Pet deiz a zo en ur vloavezh bisekstil? | 365, **366**, 360 | Komzit diwar-benn un deiz-ganedigezh a gofiit |
+| Pe amzer a zeu goude ar goanv? | Kouezh, **gwanwezh**, hañv | Pe amzer a blij ac'hanoc'h an hini vrasañ? |
 
-## Food and sports trivia
+## Boued ha sport
 
-| Question | Choices | Talk about |
+| Goulenn | Dibaboù | Tra da gaozeal diwar-benn |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rezined a vez graet gant ... sec'h | Prunennoù, **gwinizh**, kerezennoù | Lakit-ec'h rezined e boited ar skol? |
+| Prunennoù a vez graet gant ... sec'h | **Prun**, figoù, avalou | Piv en ho familh a gare ar prunennoù? |
+| Peanut butter ha ... | **Konfitur**, kaous, hamm | Kreñv pe lemm? |
+| Guacamole a vez graet a-bell gant ... | Pizi, **avokadoù**, konkombr | Pe saosoù a veze e-kerzh ar festoù? |
+| Pe pastez a blij ar Thanksgiving? | **Pompidoù**, lemoenn, kerezenn | Pe pastez hoc'h eus graet? |
+| Pet c'hoarier a zo war ar park e ur skipailh baseball? | 7, **9**, 11 | Pe skipailh a skoudas ac'hanoc'h? |
+| Pet strobad a ro un "out" e baseball? | Daou, **tri**, pevar | Ha bet oc'h o c'hoari ur bal? |
+| Babe Ruth a oa anavezet evit pe sport? | Boksad, **baseball**, golf | Ha aet oc'h da welet c'hoariva bal? |
+| Pet toull a zo war ur c'hoarzhva golf boas? | 9, **18**, 24 | Ha bet oc'h o c'hoari golf, pe mini-golf? |
+| E pe sport e vez graet ur "touchdown"? | **Football**, hoki, basketball | Piv a wele football en ho ti? |
 
-## Familiar sayings
+## Lavaroù anavezet
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Echuiñ ul lavar a implij ar yezh desket abaoe pell, hag a zeu aliesañ en un doare aes. Hon [Finish the saying](/games/finish-the-saying/) game en deus meur a lavar all, gant ur sell evit diskouez pep fin.
 
-| Saying | Choices | Talk about |
+| Lavar | Dibaboù | Tra da gaozeal diwar-benn |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Un avalou bemdez a zalc'h ar ... | **Meziner**, glav, kazh | Piv a lavare ar c'homzioù-se ac'hanoc'h? |
+| An evned gentañ a gav ar ... | Bus, **pempoul**, tren | C'hwi a gar ar mintin? |
+| Na gontit ket ho yar a-raok ma vezint ... | **deraouiñ**, kousket, kanañ | Ha ho familh a veze yar? |
+| Ur penny miret a zo ur penny ... | **gounezet**, kollet, gwariet | Piv a veze an hini a viret en ho familh? |
+| Ar gêr a zo e-barzh ar ... | liorzh, **galon**, kegin | Petra a ra ur plas evit bezañ ur gêr evidoc'h? |
+| Gwelloc'h diwezhat evit ... | abred, **biskoazh**, digarez | Piv a veze bepred diwezhat? |
+| Pep kurun en deus ur ... arc'hant | **gwiskad**, lipenn, moneiz | Komzit diwar-benn ur fortun a veze ganeoc'h. |
+| An oberioù a gomz muioc'h eget ... | **gerioù**, sonerezh, taranv | Komzit diwar-benn an hini a lavaras ar c'homz-se. |
 
-## This-or-that questions with no wrong answer
+## Goulennoù « lodenn pe lodenn » hep respont fall
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Mat eo an dra-se evit pep stad, ivez er staj diwezhañ, rak n'eus netra da reizhañ. Goulennit, selaouit, ha roit ac'hanoc'h ho respont ivez.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafe pe te?
+- Traezh pe menezioù?
+- Chas pe kazh?
+- Hañv pe goanv?
+- Pastez pe gwastell?
+- Dañsal pe gwelet?
+- Sav an heol pe kouezh an heol?
+- Porzh an ti pe liorzh e kostez?
+- Radio pe discoù?
+- Krampouezh pe wiañ?
+- Roz pe margaridennoù?
+- Tren pe hent?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Evit kendeuziadoù a vez gant ar skeudennoù, klaskit hon [Kartoù kaozeal](/games/conversation-cards/) pinvidik.
 
-## How do you run a trivia session in a care home or group?
+## Penaos kas ur sesion kwiz e kreizenn kenderc'hel pe ur strollad?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Azezit an dud evit gwelet ha klevout.** Stlejoù kleved en o zrec'h, sellouroù warnañ, an tele diserc'h.
+2. **Lakit anezhañ evel ur gaozeadenn.** « Am eus goulennoù diwar-benn an deiz kozh, ha me a soñj e ouiit muioc'h eget me. »
+3. **Lennit pep goulenn daou wech hag diskouezit an dibaboù bras.**
+4. **Degemerit respontoù adalek pep lec'h er gambr.** Adlavarit ar respontoù mat evit ma klevo an holl anezho.
+5. **Lavarit ar respont evit an holl,** ha goude goulennit ar pezh a zo da gaozeal d'ar gambr.
+6. **Heuilhit al lañs.** Mar kirr ur goulenn-unan a gasa dek munud a istorioù, lezit anezhañ.
+7. **Echuit gant ur ganenn pe ur fed lodenn pe lodenn,** evit ma vefe an holl o vont da echuiñ gant un dra aes.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Evit furmoù strollad all, pe ar bingo gant skeudennoù pe ar ganerezh, gwelit [obererezhioù strollad evit kreizennoù kenderc'hel](/activities/care-home-groups/).
 
-## When to change the plan
+## Pegoulz kemmañ ar plan
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Mar kwel d'un den bezañ dic'hortoz, mont didrouz pe lavarout « N'ouian ket » ouzhpenn unan gwech, gwellit an traoù: distreit d'an daou dibab, respontit asambles, pe kemmit d'ar goulennoù lodenn pe lodenn. Ma fell d'ar strollad komz diwar-benn ur goulenn hepken dre an deiz, se a zo ul lazh. Ar pal n'eo ket bet ar respontoù reizh. Bez' e oa an amzer e kenstrollad mat.

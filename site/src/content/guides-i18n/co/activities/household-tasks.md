@@ -1,32 +1,31 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "I travagli di casa cum'è attività per e persone chì vivenu cù a demenza"
+seoTitle: "Travagli di casa per a demenza: cose d'ogni ghjornu"
+description: "Piegà, selezziunà, mette a tavula o fà una cucina simplice ponu esse attività significative per una persona chì vive cù a demenza. Cumu organizàlli, adattàlli è mantene a sicurità."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  I travagli d'ogni ghjornu, cum'è piegà l'asciugamani, selezziunà i calzini, mette a tavula, 
+  nettà i banconi, annaffià e piante o aiutà cù una cucina simplice, ponu dà à a persona 
+  chì vive cù a demenza un modu veru d'aiutà. Sceglite i travagli ch'ella cunnosce, 
+  dividiteli in un passu à a volta, alluntanate ogni periculu è apprezzate più a participazione chè u fattu di fà tuttu perfettamente.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "I travagli cunnisciuti ponu fà chì a persona si senta utile è parte di a casa, è spessu questu conta più chè u risultatu."
+  - "Dividite ogni travagliu in un passu à a volta, mustrate piuttostu chè spiegà è, pian pianu, pigliatevi u passu chì diventa troppu difficiule."
+  - "Chjudite lurtà di i cuteddi, di i prudutti di nettessa è di e capsule di detersivu, è, s'è vulete cucinà inseme, aduprate e manopule di prutezzione o un interruttore autumaticu di sicurità."
+  - "Ùn ci hè bisognu di ripiegà l'asciugamani dinanzu à a persona. S'è qualchì cosa deve esse rifatta, fate lu dopu è fora di a so vista."
+  - "S'è u travagliu causa frustrazione, passate à un passu più faciule, pruvate un'altra volta più tardi o state puru inseme senza fà nunda."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Chì travagli pò ancora fà a persona chì vive cù a demenza?"
+    a: "Parechje persone ponu sempre piegà a biancheria, accuppià i calzini, selezziunà e posate, mette a tavula, nettà un bancu, spolverà, spazzà, annaffià e piante o selezziunà u riciclà. Sceglite i travagli ch'ella hà fattu in u passatu è adattateli à ciò ch'ella pò fà oghje. In stadi più avanzati, basta ancu un gestu ripetitu, cum'è liscià e salviette."
+  - q: "Hè sicuru chì a persona chì vive cù a demenza aiuti in cucina?"
+    a: "Pò esse sicuru, s'è ci hè sempre qualchissia vicinu è a cucina hè ben sistemata. Alluntanate cuteddi, prudutti di nettessa è tuttu ciò chì hè caldu. Adoprate e manopule di prutezzione o un interruttore autumaticu di sicurità per u focu. Date à a persona un travagliu sicuru, cum'è lavà a verdura, girà o mette e piatte. Ùn lasciatela mai sola quandu u focu hè accesu."
+  - q: "È s'ella piega male o face disordine?"
+    a: "Lasciatelu esse. U scopu hè di stà inseme è di sentesi utile, micca di ottene un risultatu perfettu. S'è qualchì cosa deve veramente esse rifatta, aspettate chì a persona ùn sia più accantu è fate lu fora di a so vista, in modu ch'ella ùn si senta micca corretta."
+  - q: "È s'ella rifiuta d'aiutà?"
+    a: "Un « nò » pò vulè dì chì u travagliu hè troppu difficiule, troppu cunfusu o troppu stancante in questu mumentu. Ùn furzate micca. Pruvate una versione più faciule, invitate la à stà solu accantu à voi, o dumandate li un'altra volta à un'ora più adatta."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +44,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Parechje persone chì vivenu cù a demenza anu passatu decennii à curriri a casa, à allevà a famiglia o à tene in ordine u so locu di travagliu. Dumandà li d'aiutà cù i travagli veri pò dì « site sempre parte di sta casa » in un modu chì poche altre attività ponu fà. Sta pagina spiega quali travagli funzionanu di solitu, cumu organizàlli, cumu adattàlli quandu e cose cambianu è cumu mantene a sicurità in cucina è in lavanderia.
 
-## Why do everyday chores work well as activities?
+## Perchè i travagli d'ogni ghjornu funzionanu?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+I travagli funzionanu perchè sò cunnisciuti è anu un scopu chjaru. U National Institute on Aging elenca lavà i piatti, mette a tavula, spazzà, spolverà, selezziunà a posta, piegà a biancheria o selezziunà u riciclà trà e [attività d'ogni ghjornu chì e persone cù Alzheimer ponu apprezzà](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). L'Alzheimer's Association nota chì travagli cum'è mette a tavula ponu aiutà a persona à [sentesi una parte valorizata di a casa](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+In più, un travagliu hà digià u so mutivu per cumincià. « Puderia avè un aiutu cù st'asciugamani ? » hè spessu più faciule à accettà chè « Vulete fà un'attività ? »
 
-## Which household tasks are good to try?
+## Chì travagli di casa ponu esse boni da pruvà?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Cuminciate cù i travagli ch'ella hà fattu in u passatu, è adattateli à ciò ch'ella pò fà oghje.
 
-### Laundry and linens
+### Lavanderia è biancheria
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Piegà asciugamani è salviette.** Date li un cestu cù oggetti chjuchi è piani. Ùn ci hè una manera sbagliata di piegà un asciugamani.
+- **Accuppià i calzini.** Mettite un monte mistu nantu à a tavula. S'è accuppiàli diventa difficiule, aduprate solu dui o trè culori assai diffirenti.
+- **Liscià è impilà.** E salviette, e federe o e tele da tavula ponu esse lisciate è impilate. Questu funziona bè ancu quandu piegà diventa troppu per parechji passi.
 
-### Table and kitchen
+### Tavula è cucina
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Mette a tavula.** Mustrate una sola pusizione cum'è esempiu è lasciate la ripete. S'è troppu, date li un oggettu à a volta : « Eccu una furchetta per ogni piattu. »
+- **Selezziunà e posate.** Mettite in un vasu furchette, cucchiai è cuteddi puliti, è lasciate li selezziunà in un vassu cù spartimenti. Alluntanate i cuteddi affilati.
+- **Asciugà i piatti.** I piatti di plastica o micca frangibuli è un asciugamanu morbidu facenu un travagliu sicuru.
+- **Nettà a tavula o i banconi.** Un stracciu umidu è una superficia libera. L'Alzheimer's Association suggerisce d'offre un stracciu à una persona chì ghjè digià in traccia di strofà a tavula, per turnà un gestu inquietu in qualcosa d'utile.
 
-### Around the house
+### Intornu à a casa
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Spolverà.** Un spolverinu morbidu è qualchi superficia solida, cum'è un tavulinu o una libreria.
+- **Selezziunà a posta.** Date li a posta inutile o i cataloghi da selezziunà in pile : tenè, riciclà, apre dopu. Alluntanate e fatture è i chèques veri.
+- **Selezziunà u riciclà.** Mettite latte, buttiglie è carta puliti in bin separati.
+- **Spazzà.** Una piccula scopa nantu à u balcone o in cucina, s'è l'equilibriu hè stabbile.
+- **Annaffià e piante.** Un annaffiatoiu chjucu è legieru è qualchi pianta à portata di manu.
 
-### Simple cooking with supervision
+### Cucina simplice sottu vigilancia
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+A cucina pò fà rivene ricordi belli. U National Institute on Aging suggerisce di lascià a persona riunisce l'ingredienti, misurà, girà o versà, o ancu dì à qualcunu altru cumu fà una ricetta ch'ella preferisce. Bonu travagliu pò esse :
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- lavà a verdura o a frutta
+- girà a pasta o un'insalata fredda
+- straccià a lattuga
+- imburrià u pane cù un cuteddu senza punta
+- mette a pasta di biscotti nantu à una teglia
+- mette a guarnitura nantu à una pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+S'è misurà diventa difficiule, l'Alzheimer's Association suggerisce di finisce a misura voi stessu è di dà à a persona un altru passu, cum'è girà.
 
-## How do I set up a chore so it goes well?
+## Cumu organizà un travagliu per fà lu bè?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Sceglite u mumentu adattu.** Pigliate un mumentu di a ghjurnata quandu a persona hè di solitu riposata è calma. Per parechje, hè u matinu.
+2. **Liberate u spaziu.** Un solu travagliu, una sola superficia, nunda d'altru nantu à a tavula.
+3. **Invitate, ùn impunite micca.** « Avaria bisognu d'un aiutu cù st'affari » funziona megliu chè « Hè l'ora di piegà a biancheria. »
+4. **Mustrate u primu passu.** Piegate un asciugamanu pian pianu, dopu date lu u prossimu. Mustrà hè spessu più chjaru chè spiegà.
+5. **Date un passu à a volta.** Troppe indicazioni inseme ponu sopraffà. Aspettate chì u passu sia finitu nanzu di dì u prossimu.
+6. **Travagliate fiancu à fiancu.** Fà u listessu travagliu accantu dà a sensazione d'esse inseme, micca di esse vigilati.
+7. **Parlate di u travagliu, micca di u risultatu.** « Sò cusì morbidu st'asciugamani » o « Cumu vi piaceva tene u vostru armariu di biancheria ? » incuraghjenu u dialogu senza fà un esame.
 
-## How do I adapt chores as abilities change?
+## Cumu adattà i travagli quandu e capacità cambianu?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+E capacità cambianu cù u tempu è ancu da ghjornu à ghjornu. L'Alzheimer's Association suggerisce di passà à travagli più faciuli è più ripetitivi à mesure chì a situazione avanza.
 
-| If this has become hard | Try this instead |
+| S'è diventa difficiule | Pruvate cusì |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Piegà e lenzola grandi | Piegà salviette o liscià e tovaglioli |
+| Mette tutta a tavula | Mette un tovagliolu per ogni pusizione |
+| Selezziunà a posta in categurie | Impilà e buste in una sola pila |
+| Seguità una ricetta | Girà, o stà à vede è assaggià mentre chì voi cucinate |
+| Spazzà tutta a stanza | Nettà un solu picculu tavulinu |
+| Fà u travagliu in tuttu è per tuttu | Stà accantu à voi è fà cumpagnia mentre chì voi u fate |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Stà à vede conta ancu. U National Institute on Aging nota chì qualchì persona piace solu stà à vede, è questu hè un modu validu di participà.
 
-## How do I keep household tasks safe?
+## Cumu mantene sicuru i travagli di casa?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+A sicurità hè sempre a prima cosa, sopratuttu in cucina. I [cunsiglii di sicurità in casa per quelli chì si occupanu d'una persona cù Alzheimer](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) di u National Institute on Aging includenu :
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Chjude o alluntanà i prudutti di nettessa, cumpresi e capsule di detersivu, chì ponu parè caramelle.
+- Tene i cuteddi, e forbici è l'attrezzi elettrichi in un locu chjosu.
+- Mettere manopule di prutezzione è un interruttore autumaticu di sicurità nantu à u focu.
+- Mette segni « Fermatevi » o « Assai caldu » vicinu à u fornu, à u tostapane è à u ferru da stira, in modu chì ùn ponu micca piglià focu.
+- Mette u scaldacqua à 49 °C per diminuisce u risicu di scottature.
+- Alluntanà frutti artificiali è calamite in forma d'alimentu, chì ponu parè commestibili.
 
-A few more practical habits help:
+Alcuni altri accorgimenti pratici ponu aiutà :
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- State sempre in a stanza quandu u focu, u fornu o un attrezzu tagliente sò in usu.
+- Adoprate piatti micca frangibuli per asciugà o mette a tavula.
+- Tene u pavimentu asciuttu è liberu quandu spazzate o lavate.
+- S'è a persona hà adupratu attrezzi in passatu, l'Alzheimer's Association suggerisce d'alluntanà quelli periculosi da u bancu di travagliu, in modu ch'ella pò sempre fà un travagliu sicuru, cum'è levigà un pezzu di legnu.
 
-## What if they do it "wrong"?
+## È s'ella u face « male »?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lasciatelu esse. Un asciugamanu piegatu in trè invece chè in dui hè sempre un asciugamanu piegatu. L'Alzheimer's Association dice chjaramente : ciò chì conta hè stà inseme è chì a persona si senta utile, micca chì l'asciugamani sianu piegati perfettamente. S'è qualchì cosa deve veramente esse rifatta, aspettate dopu è fate lu fora di a so vista.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Correge in u mumentu pò turnà un travagliu piacevule in un ricordu di ciò ch'ella hà persu. « Grazie, site di grande aiutu » hè quasi sempre a cosa ghjusta à dì.
 
-## When should we stop?
+## Quandu ci vole à firmà?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Firmate o cambiate travagliu quandu vidite segni di frustrazione, stanchezza o pocu interessu. Firmà prima hè un bonu risultatu, micca un insuccessu. Pudete :
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- passà à un passu più faciule
+- andà versu qualcosa di più tranquillu, cum'è a musica o una tazza di caffè
+- pruvà un'altra volta più tardi o un altru ghjornu
+- stà puru inseme senza fà nunda
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+S'è a persona dice nò, ùn furzate micca. Vidite [cumu risponde quandu dici nò](/caregiving/when-they-say-no/) per modi dolci di risponde li.
 
-## Low-effort extras for a quieter moment
+## Piccule idee per un mumentu più tranquillu
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Quandu i travagli fisichi ùn sò più pussibuli, si pò sempre selezziunà o accuppià stà seduti. [Sort Together](/games/sort-together/) vi permette di truvà e figure in cestini da cucina o da giardinu, è [Picture Pairs](/games/picture-pairs/) hè un ghjocu di accuppiamentu dolce cù figure grandi è senza cronometru. [Conversation Cards](/games/conversation-cards/) anu dumande aperte nantu à a casa è à a famiglia, chì si prestanu bè à un caffè dopu u travagliu.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Per aiutà à inserisce i travagli in a ghjurnata, vidite a nostra guida nantu à una [rutina di ghjornu calma](/activities/daily-routine/). Per più idee secondu u stadiu, vidite [attività per u stadiu mediu](/activities/middle-stage/).

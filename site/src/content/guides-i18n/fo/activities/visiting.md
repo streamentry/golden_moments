@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "At vitja onkran við demens á røktarheimi ella sjúkrahúsi"
+seoTitle: "At vitja onkran við demens: Hvat tú kanst gera"
+description: "Hvat tú kanst gera, tá tú vitjar onkran við demens á røktarheimi, ellisheimi ella sjúkrahúsi: hvat tú kanst hava við, einfaldar samverur og góð farvæl."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Tá tú vitjar onkran við demens á røktarheimi ella sjúkrahúsi, halt tað
+  einfalt: sig navn títt, tá tú kemur, hav okkurt við at deila, sum myndir,
+  tónleik ella ein góðan bita, og ger okkurt lætt saman. Styttri, reglulig
+  vitjan fer ofta betur enn long, sjáldsom vitjan. Fyrireika eitt róligt og
+  vanligt farvæl, so tað verður lættari hjá tykkum báðum at skiljast.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Heilsa upp á persónin við navni og sig, hvør tú ert, so hann ella hon ikki skal royna at finna útav tí: „Hey mamma, tað eri eg, Súsanna, dóttir tín.“"
+  - "Hav ein ella tveir lutir við at deila, til dømis eina myndaalbum, yndistónleik, eitt mjúkt teppi ella ein bita, sum starvsfólkini hava góðkent."
+  - "Styttri, reglulig vitjan fer ofta betur enn long, sjáldsom vitjan. At tú ert har, hevur størri týdning enn tað, tú sigur."
+  - "Á sjúkrahúsinum kanst tú geva starvsfólkunum eitt stutt ark um persónin og siga læknanum frá beinanvegin, um nakað broytist knappliga."
+  - "Fyrireika, hvussu tú fert: sig, hvussu leingi tú kanst vera, brúka sama farvæl hvørja ferð, og far uttan at drála."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Hvat skal eg hava við, tá eg vitji onkran við demens?"
+    a: "Hav okkurt við at deila heldur enn okkurt at tosa um. Ein lítil myndaalbum, ein tónleikalisti við yndissangunum hjá viðkomandi, eitt mjúkt teppi, handkrem, eitt blað um ein gomlan áhuga ella ein bita, sum starvsfólkini hava góðkent, riggar ofta væl. Á einum røktarheimi kunnu familjumyndir og kendir lutir eisini fáa kamarið at kenna meira heimligt."
+  - q: "Hvussu leingi skal eg vera, tá eg vitji onkran við demens?"
+    a: "Tað er eingin røtt longd. Nógvar familjur uppliva, at styttri og oftari vitjan riggar betur enn long, sjáldsom vitjan, tí persónurin kann gerast skjótt koyrdur og minnist kanska ikki, hvussu leingi tú varð verandi. Gev gætur eftir tekinum um at vera móður, og far, meðan vitjanin enn kennist góð."
+  - q: "Hvat sigi eg, tá viðkomandi biður um at sleppa heim?"
+    a: "Svara kensluni, ikki orðunum. „Eg vil heim“ merkir ofta „Eg kenni meg ikki væl ella ikki tryggan.“ Royn at siga: „Sig mær frá heiminum hjá tær,“ hygg at myndum saman, ella bjóða ein túr ella ein bita. At argumentera ella greiða frá, hví viðkomandi ikki kann fara, ger vanliga bert meira órógv."
+  - q: "Hvat um viðkomandi ikki kennir meg aftur?"
+    a: "Tað kann gera ilt, men royn at lata vera við at rætta viðkomandi ella spyrja: „Kennir tú meg ikki?“ Ger teg kunnugan á ein heitan og einfaldan hátt, og njót bara tíðina saman. Nógv kenna seg enn væl við felagsskap og merkja hlýjuna í eini vitjan, sjálvt um tey ikki kunnu staðfesta, hvør tú ert."
+  - q: "Hvussu kann eg hjálpa undir einum sjúkrahúsdvølum?"
+    a: "Ver hjá persóninum, tá tú kanst, hjálp viðkomandi at eta og drekka, og hav kendir lutir við, sum myndir. Gev starvsfólkunum eitt ark við gerandisdegnum, yndisnavni, tí sum viðkomandi dámar og ikki dámar, og teknum á pínu. Sig læknanum frá beinanvegin, um persónurin knappliga tykist verri ella øðrvísi, tí knapplig órógv ella forvirring kann vera tekin um eitt heilsuligt trupulleika."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+At vitja onkran, tú ert glaður í, á røktarheimi, ellisheimi ella sjúkrahúsi kann vekja nógvar kenslur. Tú ivast kanska í, hvat tú skalt siga, hvat tú skalt hava við, ella um vitjanin hevur nakað at týða, um viðkomandi ikki minnist hana. Hon hevur týdning. National Institute on Aging vísir á, at fólk við Alzheimer [ofta kenna seg væl við felagsskap](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), sjálvt um tey ikki minnast, hvør vitjandi er. Hendan síðan gevur praktisk stig til áðrenn, undir og eftir eina vitjan, umframt serlig ráð til sjúkrahúsdvølur.
 
-## How do I get ready for a visit?
+## Hvussu fyrireiki eg eina vitjan?
 
-A little planning makes the visit easier for both of you.
+Lítil fyrireiking kann gera vitjanina lættari hjá tykkum báðum.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Vel eina góða tíð.** Dementia Australia mælir til at vitja, tá persónurin vanliga er mest vakin, sum hjá nógvum er um morgunin ella mitt á degi. Family Caregiver Alliance mælir til at frætta teg um skráina á stovninum og vitja í [frítíð heldur enn undir tiltøkum](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Spyr starvsfólkini.** Spyr, hvussu persónurin hevur havt tað í dag, og hoyr eftir reglunum um mat, kelidjór ella túrar út.
+- **Pakka ein lítlan vitjanarsekk.** Ein ella tveir lutir at deila eru nóg mikið (sí listan niðanfyri).
+- **Fyrireika nøkur evni.** Persónurin hevur kanska ikki tíðindi at fortelja, so hav tíni egnu við: tíðindi frá familjuni, veðrið, ein dyst, eina stutta søgu.
+- **Set tínar egnu væntanir.** Summar vitjanir verða heitar og prátingarsamar. Aðrar verða stillar ella truplar. Bæði er vanligt.
 
-## What should I bring?
+## Hvat skal eg hava við?
 
-Bring things to share, not things that test. Good choices include:
+Hav lutir við at deila, ikki lutir, sum royna. Góð val eru til dømis:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Ein lítil myndaalbum** við stórum, týðiligum myndum. Skriva á baksíðuna, hvør er á myndunum, so starvsfólkini kunnu hjálpa.
+- **Ein tónleikalisti** við yndissangum á telefonini, við einfaldum heyrnartólum ella einum lítlum hátalara.
+- **Okkurt mjúkt at halda um,** sum eitt kent teppi, eitt turriklæði ella ein troyggja.
+- **Handkrem** til eina varliga handamassasju, um persónurin dámar at verða nertur.
+- **Eitt blað ella myndabók** um ein gamlan áhuga, sum urtagarður, bilar, fuglar ella mating.
+- **Ein yndisbiti,** um starvsfólkini siga, at tað er trygt.
+- **Kendir lutir til kamarið.** Family Caregiver Alliance mælir til blómur, plantur, familjumyndir og list, ella eina stóra plakat við gomlum familjumyndum.
+- **Ein teldil,** til at hyggja at familjumyndum ella spæla eitt róligt spæl saman.
 
-## What can we do together during a visit?
+## Hvat kunnu vit gera saman undir vitjanini?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+At gera okkurt saman kann taka trýstið av samrøðuni. Dementia Australia mælir til at hyggja at myndum, gera eina lætta handgerð, seta plantur, lurta eftir tónleiki, eta ein bita saman ella ganga ein túr uttanum bygningin. Nakrar aðrar hugskot:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Hygg at myndum.** Vís á tað, tú sært: „Hygg, ein fíggindis hattur.“ „Hendan strondin sær so góð út.“ Lat persónin leiða. Lat vera við at spyrja: „Hvør er hetta?“
+2. **Spæl tónleik og syng.** Kendir sangir kunnu lyfta lagið og geva eina felags løtu, eisini tá tað er trupult at tosa.
+3. **Gakk ein stuttan túr.** Family Caregiver Alliance mælir til at ganga runt á stovninum, serliga í garðinum, um har er ein. Ein túr í koyristóli riggar eisini.
+4. **Gev eina handamassasju.** Eitt sindur av handkrem og spakulig strok á hondunum kunnu róa.
+5. **Hjálp við persónligum røkt.** Dementia Australia nevnir at greiða hárið, mála negl ella hjálpa persóninum í yndisbúnan, um viðkomandi dámar tað.
+6. **Spæl eitt einfalt spæl.** Family Caregiver Alliance mælir til kort, dominobrickur ella tað, sum persónurin plagdi at spæla. Á einum teldli ber til at spæla [Picture Pairs](/games/picture-pairs/) við myndunum sjónligum og uttan tíðarmark. [Photo Pairs](/games/photo-pairs/) ger myndir, tú velur, til eitt samsvarandi spæl, og myndirnar verða verandi í kagara tín.
+7. **Hygg at onkrum saman.** Family Caregiver Alliance mælir til stuttligar filmar og gamlar filmar. Sjálvt um persónurin ikki fylgir søguni, kunnu tit sita nærhendis og deila tíðina.
+8. **Les hart.** Eitt stutt yrking, ein yndispartur ella eitt bræv frá einum familjulimi.
+9. **Sit bara saman.** At halda um hondina ella sita still saman er eisini ein verulig vitjan. Alzheimer's Association vísir á, at tað er í lagi ikki at vita, hvat tú skalt siga, og at tað hevur størst týdning, at tú ert har.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) kunnu hjálpa, tá tú ikki veitst, hvat tú skalt siga meira. Hvørt kort hevur eina mynd og eina opin kveikju til samrøðu.
 
-## How should I talk during the visit?
+## Hvussu skal eg tosa undir vitjanini?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Ger teg kunnugan hvørja ferð.** „Hey pápi, tað eri eg, Márk, sonur tín.“ NIA mælir vitjandi til stutt at greiða frá, hvør teir eru, tá samrøðan byrjar.
+- **Kom frammanífrá** og set teg í eygahædd.
+- **Lat vera við at rætta ella argumentera.** NIA ráðleggur vitjandi frá at rætta persónin, um hann ella hon feilur ella gloymir okkurt.
+- **Ver tolin,** tá orðini eru trupul at finna. Gev góða tíð.
+- **Svara kenslum.** Um persónurin tykist sorgarbundin ella stúrin, viðurken tað, áðrenn tú skiftir evni.
+- **Lat vera við spurningar, sum royna,** sum „Minnist tú meg?“ ella „Hvat fekkst tú til døgurða?“
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Sí okkara [ráð um samskifti](/caregiving/communication-tips/) fyri meira.
 
-## What do I do when they say "I want to go home"?
+## Hvat geri eg, tá viðkomandi sigur: „Eg vil heim“?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Svara kensluni aftan fyri orðini (leiðbeiningin okkara um [tá onkur altíð spyr um at sleppa heim](/caregiving/asking-to-go-home/) fer djúpari). Family Caregiver Alliance greiðir frá, at „Eg vil heim“ vanliga er ein máti at siga „Eg kenni meg ikki væl“ uppá, og mælir til svar sum „Sig mær frá heiminum hjá tær“ ella „Hvat dámar tær best heima?“ Dementia Australia leggur afturat, at „heima“ kann merkja eina tíð ella eitt stað, har persónurin kendi seg tryggan, til dømis í barnadøgunum.
 
-Try:
+Royn at:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- viðurkenna kensluna: „Tað ljóðar, sum tú saknar heimin.“
+- bjóða trygd við at nerta varliga, um tað er vælkomið
+- hyggja at myndum ella tosa um familjuheimið
+- bjóða ein túr, okkurt at drekka ella ein bita
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Lat vera við at argumentera ella greiða frá, hví viðkomandi ikki kann fara. Tað hjálpir sjáldan og ger ofta bert meira órógv.
 
-## How long should a visit be?
+## Hvussu leingi skal ein vitjan vara?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Styttri og oftari vitjan riggar ofta betur. Family Caregiver Alliance vísir á, at persónurin vanliga ikki minnist, um tú varð verandi í fimm minuttir ella fimm tímar, og mælir til, at tríggjar stuttar vitjanir um vikuna kunnu vera betri enn ein long. Dementia Australia sigur, at tað er eingin røtt tali av vitjanum ella røtt longd.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Í fyrstu vikunum eftir eina flutning á røktarheim mælir Family Caregiver Alliance til at vitja ofta og so spakuliga finna eina regluliga rútinu. Spyr starvsfólkini, hvat tey síggja.
 
-## How do I leave without upsetting them?
+## Hvussu fari eg, uttan at tað órógvar viðkomandi?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+At fara kann vera tað truplasta. Dementia Australia mælir til:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Sig, hvussu leingi tú kanst vera, tá tú kemur.** „Eg kann vera ein tíma, so fari eg at keypa inn.“
+- **Brúka eina samveru sum náttúrligt endi.** „Tá vit eru liðug við hendan sangin, fari eg.“
+- **Laga tíðina eftir einum máli ella tiltaki,** ella bið starvsfólkini hjálpa persóninum at fara víðari við okkrum øðrum.
+- **Halt farvælið stutt og tað sama hvørja ferð.** At drála, biðja um umbering ella verða verandi „bara eitt sindur longur“ kann gera komandi farvæl truplari.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Eftir at tú ert farin, er tað vanligt at kenna seg sorgarbundnan. Lat teg hvíla. Um persónurin gjørdist órógvaður, kunnu starvsfólkini vanliga hjálpa viðkomandi at róa seg stutt eftir.
 
-## Visiting someone with dementia in the hospital
+## At vitja onkran við demens á sjúkrahúsi
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Eitt sjúkrahús er larmandi, ókent og fult av fremmandum fólki, og tað kann vera sera strævið hjá einum persóni, sum livir við demens. Leiðbeiningin hjá NIA um [at fara á sjúkrahús við einum persóni við Alzheimer](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) mælir til:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Lat onkran vera hjá persóninum** so nógv sum gjørligt: ein familjulimur, ein álítandi vinur ella ein lønt røktari.
+- **Gev starvsfólkunum eitt ark við persónligum upplýsingum** um gerandisdagin, yndisnavnið, hvat viðkomandi dámar og ikki dámar, møguligar orsakir til órógv og ikki-munnlig tekin á pínu. Legg avrit á kamarið og á sjúkrarøktarastøðina.
+- **Hjálp við at eta og drekka.** Eldri fólk kunnu fáa ov lítið av mati á sjúkrahúsi. Lat upp íløt, hjálp við máltíðir, et saman, og bjóða at drekka.
+- **Hav róandi lutir við,** sum myndir ella andaligir lutir.
+- **Minka um larm.** Sløkk fyri sjónvarpinum og minka um ljóðið frá telefon og útropum.
+- **Royn róandi vanar,** sum stillan tónleik, at lesa, biðja, syngja ella hyggja í gomlum myndum.
+- **Eggja til at røra seg** so nógv, sum tað er trygt, við góðkenning frá starvsfólkunum.
+- **Sig læknanum frá beinanvegin, um persónurin knappliga tykist verri ella øðrvísi.** NIA greiðir frá, at knapplig, álvarslig forvirring, sum nevnist delirium, kann standast av trupulleikum sum smittu, fepur, væskutrot ella árin av heilivági, og at tað krevur læknaliga meting.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Ein stutt, rólig vitjan við einum kendum andliti og einum yndissangi kann vera tann mest hugnaligi parturin av einum sjúkrahúsdegi.
 
-## Bringing children on a visit
+## At hava børn við á vitjan
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Børn kunnu hava nógva hlýju við sær. Fyrireika tey frammanundan við einfaldum og ærligum orðum, halt vitjanina stutta, og gev teimum eina uppgávu, til dømis at vísa eina tekning ella geva eina mynd. NIA vísir á, at børn og fólk við Alzheimer kunnu njóta einfaldar samverur saman, sum at hyggja í eini myndaalbum ella lurta eftir tónleiki. Dementia Australia mælir til at pakka ein lítlan posa við onkrum góðgæti ella stillum lutum, sum kunnu halda smábørnini upptikin.
 
-## Take care of yourself too
+## Tak eisini sær av tær sjálvum
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+At vitja kann vera troyttandi og kensluliga strævið, serliga um persónurin er nógv broyttur. Tað er í lagi at vitja sjaldnari, um tú hevur tørv á tí, at hava ein vin við til stuðul, ella at fara tíðliga ein trupullan dag. Fyri hugskot um at taka sær av tær sjálvum, sí [egnrøkt hjá teimum, sum røkja](/caregiving/caregiver-self-care/). Um tú býr langt burtur, sí leiðbeiningina okkara um [telefonsamtølur og videosamtølur](/activities/phone-and-video-calls/).

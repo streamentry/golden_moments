@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Niqiḷḷugiḷḷu Niġiutitlu: Qanuq Ilitchuġivut"
+seoTitle: "Niqiḷḷugiḷḷu Niġiutitlu: Ilitchuġivut"
+description: "Ilitchuġit inuit nuŋŋuani niġiutinik niqiḷḷugiḷḷu aŋalatchuirut. Ilisaġniŋat utuqqat iñuŋnun, niġił̣ł̣u iñuŋnun puqiksraŋanik nalunaiqsuŋnun."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Ilitchuġit nalunaiqsuqł̣iŋŋittut niqiḷḷugiḷḷu niġiutit aŋalatchuirut
+  puqiksraŋanik nalunaiqsuŋnun. Ilitchuġit ammalat niġrutiŋni, inuit nuŋŋani
+  ilitchuġit mikitqiat qaiġḷutiklu. Niqiḷḷugiḷḷu niġiutit iñuŋnun
+  aŋalatchiiruq: timi sanŋiḷḷuni, sanŋiḷḷuni, augi taiguġutailuni
+  diabetes-miñ taiguaksraŋnik atuqtuŋnun, imiqsraŋilluni, katiqł̣uni.
+  Iñuŋnun puqiksraŋanik nalunaiqsuŋnun, niġił̣ł̣u imiqł̣uḷu
+  nalaunŋaruq. Taaktuq uqautiguŋ.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging uqaqtuq, ilitchuġit nalaunŋiŋŋittut niqiḷḷugiḷḷu niġiutinik iñuŋnun, ilaŋŋat utuqqat iñuŋnun."
+  - "Ammalat ilitchuġit niġiutinik niqiḷḷugiḷḷu niġrutiŋni, taamna nalunaiqsuqł̣iŋŋiḷḷuni iñuŋnun."
+  - "Aŋalatchiirut utuqqat iñuŋnun immaqaqtut: timi sanŋiḷḷuni isummaniŋitkumiñaitkumiñ, sanŋiḷḷuni, augi taiguġutailuni diabetes-miñ taiguaksraŋnik atuqtuŋnun, imiqsraŋilluni, niqiksraŋilluni, katiqł̣uni."
+  - "Iñuit puqiksraŋanik nalunaiqsuat puqiksraqł̣ugiŋagaat niġił̣ł̣u imiqł̣uḷu, uvva niġiġaat isumavlugit. Ikayuġlugiŋit niġił̣ł̣u imiqł̣uḷu nalaunŋaruaq qakugu niġitkumiñaitkumiñ."
+  - "Niqiḷḷugiḷḷu niġiutinik atuqtitchuŋiḷḷutin iñuŋmun puqiksraŋanik nalunaiqsuq. Taaktuq uvva registered dietitian uqautiguŋ niġiutit allanguqtiŋagikpata."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Niqiḷḷugiḷḷu niġiutit aŋalatchiiruat Alzheimer's-mik?"
+    a: "Ilitchuġit nalunaiqsuqł̣iŋŋittut taamna. Ammalat ilitchuġit niġrutiŋni, inuit nuŋŋani ilitchuġit naatqiat, inuŋniññik uvva timi sanŋiḷḷuni ilitchuġivlugit. National Institute on Aging uqaqtuq, ilitchuġit nalaunŋiŋŋittut niġiutinik iñuŋnun."
+  - q: "Niqiḷḷugiḷḷu niġiutit naḷautchuat utuqqat iñuŋnun?"
+    a: "Ilaanni naḷautchiŋŋitchuat. Niqiḷḷugiḷḷu timi sanŋiḷḷuŋniaġaa, imiqsraŋilluni, niqiksraŋilluni, katiqł̣uni, augilu taiguġutailuni insulin-mik uvva allanun diabetes-miñ taiguaksraŋnun atuqtuŋnun. Mayo Clinic uqaqtuq, naḷautchiŋŋitchuat iñuŋnun sauniġmiñ katiqsraŋaniññun. Taaktuq uqautiguŋ sivuŋani."
+  - q: "Iñuk puqiksraŋanik nalunaiqsuq niqiḷḷugiḷḷu niġiutinik atuġniaqpa?"
+    a: "Naumi. Iñuit puqiksraŋanik nalunaiqsuat niġił̣ł̣u imiqł̣uḷu nalaunŋiḷḷugiŋagaat, niġił̣ł̣u nalaunŋiŋitkumiñaitkumiñ pisuġniagaat allanguqtiqtuġutinik timimilu sanŋiḷḷutik. Niqiḷḷugiḷḷu niġiutit aŋalatchiirut ilitchuġit nalaunŋiŋŋitkumiñ. Niġił̣ł̣u qakugulu, niġġuaqł̣uḷu quviasuutiŋit, imiqł̣uḷu nalaunŋaruaq."
+  - q: "Qanuq nalunaiqniaġivigiñ iñuk puqiksraŋanik nalunaiqsuq niġiŋŋitkumiñ imiqŋŋitkumiñlu nalaunŋamik?"
+    a: "Tautukkiñ: timi sanŋiḷḷuni, anniqsuutit aŋiḷḷutik, saŋŋiqł̣uni, saŋiḷḷuni, aqł̣aqtaaqł̣uni, uvva niġił̣ł̣u pisuŋitkumiñ. Imiqsraŋilluni nalunaiqsuutit National Institute on Aging-miñ: qaŋiq paniksaq, niqiksraŋilluni, aŋmaq anagutilaaq, tautuktuutitlu. Taaktuŋa uqautiguŋ tautukkupku."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Niqiḷḷugiḷḷu niġiutit, imaŋŋaq nalunaaq 8-nik ikarraġni niġił̣ł̣u uvva malġuk uvluk niġiḷḷuni mikitqianik, tusaaġuviŋagaat, ilaanilu aglautit uqaqtut isummaniq aŋalatchiirniġaa. Utuqqaqpich uvva iñuŋmun puqiksraŋanik nalunaiqsuq munarivich, una ilitchuġit qanuq nalunaiqsiġaat, sumiuq nalunaiqsiruq.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Una nalunaiqsautauq, taaktum uqausiŋiŋŋuaq. Niqiḷḷugiḷḷu niġiutinik atuliqtuŋiḷḷutin, uvva iñuum munariġavit niġiutai allanguqtitquŋiḷḷugi, taaktuq uvva registered dietitian uqautiguŋ sivuŋani. Tautukkiñ [taaktum uqausiŋiŋŋuaŋa](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Niqiḷḷugiḷḷu niġiutit aŋalatchiiruat puqiksraŋanik nalunaiqsuŋnik?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Ilitchuġit nalunaiqsuqł̣iŋŋittut niqiḷḷugiḷḷu niġiutit aŋalatchiiruat uvva nuŋŋutigiruat puqiksraŋanik nalunaiqsuŋnik. National Institute on Aging (NIA) uqaqtuq, ilitchuġit nalaunŋiŋŋittut niġiutinik niqiḷḷugiḷḷu nalunaiqsautilaaŋnun, ammalu ilisaġniqsaqł̣iuq nalaunŋiŋisigik naḷautchiŋisigiklu, ilaŋŋat utuqqat iñuŋnun ([NIA niġiutinik niqiḷḷugiḷḷu](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Suuq ilitchuġit mikitqiat
 
-The NIA gives several reasons:
+NIA uqaqtuq ukunŋa:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Ammalat ilitchuġit niġrutiŋni.** Ilitchuġit qupinnaqmi, tigummiagmi, avingami, iglaunmiḷu pisuġniagaat, aglaan nalunaiqsuutit iñuŋnun atulaŋŋiŋŋittut. Niġrutiŋniḷḷu, nalunaiqsuutit allatut; ilaanni avingat niqiḷḷugiḷḷu iñuusaat naatqigaa.
+- **Inuit nuŋŋani ilitchuġit naatqiat.** Ammalat sivisuuġutai savaani uvva tatqiqhiutit qiḷġini.
+- **Ammalat inuit ilitchuġit timi sanŋiḷḷuŋnianun** tautuktuġivlugit, isumaniġunŋiḷḷu uvva puqiksraŋanik nalunaiqsuŋnun.
+- **Utuqqat iñuit ilaanŋiḷḷugiŋagaat.** Ammalat ilitchuġit iñuŋnik 60-nik ukiuqaqtunik uvva inuŋniññik atuqtut.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026-mi ilitchuġit tautuktuġivlugit niqiḷḷugiḷḷu niġiutit iñuŋnun 60-nik ukiuqaqtunik avataani. Nalunaiqsuq ilitchuġit mikitqiat, ilitchuġit mikitqiat, naatqiat, allallu. Isumaniġmik nalunaiqsuutit ilitchuġit atausiŋniññiqsuq, atautchimuŋŋiḷḷu ilitchuġit. Uqaqtuq ilaan ilitchuġit nalunaiqsivut niġiutivit naatqiat uvva niqiḷḷugiḷḷu sivisuat pisuġniagaat nalaunŋiŋŋitkumik, aglaaġitlu nalunaiqsiruq utuqqat iñuŋnun ([2026-mi ilitchuġit Nutrients-mi](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Ilaan ilitchuġiqtiit isumaqaqtut timi uqsruq atuġlugu niqiḷḷugiḷḷu isumaġmik allanguqtiqtuġniaġaa, aglaan una suli ilitchuġivlugu. NIA uqaqtuq ilisimaniq nalunaiqsuqł̣iŋŋittuq.
 
-## What are the risks of fasting for older adults?
+## Qanuq aŋalatchiirut niqiḷḷugiḷḷu niġiutit utuqqat iñuŋnun?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Niqiḷḷugiḷḷu niġiutit naḷautchiŋŋittut ammalat utuqqat iñuŋnun. Aŋalatchiirut immaqaqtut:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Timi sanŋiḷḷuni isummaniŋitkumiñaitkumiñ.** Niġił̣ł̣u mikitqianik timi piḷḷuŋŋitkumiñ timi sanŋiḷḷuni, sanŋiḷḷunilu, iñuk saŋŋiqsaaġniaġaa.
+- **Sani sauniġlu sanŋiḷḷutik.** NIA-mi ikayuqtauq malġuk ukiunik ilitchuġumi, inuŋniññit uvva akuniutiqaqtut sanŋiḷḷutik mikitqianik sauniġmi sanimiḷu.
+- **Augi taiguġutailuni diabetes-miñ taiguaksraŋnik atuqtuŋnun.** Iñuit insulin-mik uvva allanun diabetes-miñ taiguaksraŋnun atuqtut auki taiguġutailuni pisuġniaġaa niġiŋitkumiñ uvva niġił̣ł̣u kinguvagikpagu, uqaqtuq [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Augi taiguġutailuni niqiksraŋilluni, isummaniq allanguqł̣uni, qivitqiḷuni pisuġniaġaa.
+- **Imiqsraŋilluni.** Imiqł̣uḷu niġił̣ł̣u atuŋitkumiñ iñuk imiqsraŋilluni pisuġniaġaa.
+- **Niqiksraŋilluni katiqł̣unilu.** Mayo Clinic uqaqtuq niqiḷḷugiḷḷu niġiutit saŋŋiqsaaġniagaat niqiksraŋiḷḷunilu, naḷautchiŋŋitchuat iñuŋnun sauniġmiñ katiqsraŋaniññun ([Mayo Clinic niqiḷḷugiḷḷu niġiutinik](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Allat pisuġniaġaat.** Mayo Clinic uqaqtuq niaquqtuq, isuma allanguqł̣uni, aqł̣aqtaaqł̣unilu, ilaanilu ilitchuġit nalunaiqsivut 16-nik ikarraġni niqiḷḷugiḷḷu 8-nik ikarraġni niġił̣ł̣u uummanmiñ aŋalatchiirut aglaaġniqsaq, ilaanun niġiutinun sanilugu. Taamna ilitchuġit suli nalunaiqsuqł̣iŋŋittuq.
 
-## Why is eating enough the bigger concern with dementia?
+## Suuq niġił̣ł̣u nalaunŋaruq iñuŋnun puqiksraŋanik nalunaiqsuŋnun?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Iñuŋnun puqiksraŋanik nalunaiqsuŋnun, aŋalatchiirut ammalu **nalaunŋamik** niġił̣ł̣u imiqł̣uḷu, ammaluŋŋiḷḷu. Alzheimer's Association uqaqtuq, iñuit quliaqtuaġata qakuġluktumiḷu niġiutit ammalat paŋalikł̣ugiŋagaat, puqiksraqł̣ugiŋagaat niġił̣ł̣u, uvva niġiġaat isumavlugit. Uqaqtuq niġił̣ł̣u nalaunŋiŋitkumiñaitkumiñ pisuġniagaat allanguqtiqtuġutinik timimilu sanŋiḷḷutik ([Alzheimer's Association niġiutinik](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society uqaqtuq, niġił̣ł̣u nalaunŋiŋitkumiñaitkumiñ timi sanŋiḷḷuni, sani sanŋiḷḷuni, saŋŋiqł̣uni, saŋiḷḷuni pisuġniaġaa, iñuk saŋŋiqsaaġniaġaa aanniaqtuutitlu aŋalatchiġumiñaitkumiñ ([Alzheimer's Society niġġuaqł̣uġutinik](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Taimañŋa, niqiḷḷugiḷḷu niġiutit naḷautchiŋŋittut iñuŋmun puqiksraŋanik nalunaiqsuq.** Niġił̣ł̣u atuŋitkumiñ niġił̣ł̣u piŋŋiḷḷuni pisuġniaġaa. Niġiutit allanguqtiŋagaat taaktum uvva registered dietitian-m ikayuġutaŋa pisuġniaġaa.
 
-## What are the warning signs of poor eating or drinking?
+## Qanuq nalunaiqsautit niġiŋŋitkumiñ imiqŋŋitkumiñlu nalaunŋamik?
 
-Watch for:
+Tautukkiñ:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Timi sanŋiḷḷuni**, uvva anniqsuutit aŋiḷḷutik.
+- **Niġił̣ł̣u unitchiġlugu uvva pisuŋitkumiñ**, uvva niġił̣ł̣u qaŋimi tupiġlugu.
+- **Saŋŋiqł̣uni uvva saŋiḷḷuni.**
+- **Aqł̣aqtaaqł̣uni**, niġiutinun imiqsraŋillunilu ilagaaġniaġaa.
+- **Imiqsraŋilluni nalunaiqsuutit.** NIA uqaqtuq qaŋiq paniksaq, niqiksraŋilluni, aŋmaq anagutilaaq, tautuktuutitlu, una puqiksraŋaniḷḷu pisuġniaġaa ([NIA aanniaqtuutinik](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Niġġuaqł̣uŋniq ammalat pisuġniaġaat: kigutit anniutaat, taiguaksrat nutaqat, qivitqiñiq, aqł̣aqtaaqł̣uni, aullaqsraŋilluni, niġił̣ł̣u tipiŋiŋalu allanguqtut. Taaktuŋa uqautiguñ tautukkupku. Pisuġniġaa qiniġlugu, dietitian-mik ikayuqtiksraŋmiklu uqautilaaġniaġaa.
 
-## How can you help someone eat and drink enough?
+## Qanuq ikayuġniaġiviuk niġił̣ł̣u imiqł̣uḷu nalaunŋamik?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Niġġuaqł̣uḷu mikitqianik qakugulu aitchu**, piŋasut niġiutisit aŋivlugit.
+- **Niġġuaqł̣uḷu quviasuutiŋit**, niġił̣ł̣u tipiŋiŋit allanguqpat. Siiññaq niġġuaq quviasuġniaġaa niġġuaqł̣uŋniq mikitkumiñ; taaktuq apiqsruġu siiññaq atuŋiḷḷugu pisuġniaġaa.
+- **Imiqutit qanititchu** imiqutiksraŋniklu aitchu uvlumi. Niġipiaq, paŋŋaq, smoothies, immuklu imiqutauŋniaġaat.
+- **Atautchikun niġił̣ł̣u** pisuġnakkuvich. Niġił̣ł̣u ilaaniqsautauq, savaŋŋuŋiḷḷu.
+- **Argamiñ niġġuat atuġlugit**, imaŋŋaq sandwich, paŋŋaq avguqł̣ugu, aquvittuaq avguqł̣ugu, saviutit atuqsraŋitkumiñ.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+[Niġiutinik uqausiq](/brain-health/diet/) ilaanik ikayuutinik. Niġiutinik savaaġniq quviasuutauniqsuq; tautukkiñ [iġluġni savaat](/activities/household-tasks/).
 
-## Talk with a doctor
+## Taaktuq uqautiguŋ
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Niqiḷḷugiḷḷu niġiutinik atuliqtuŋiḷḷutin, taaktuq uvva registered dietitian uqautiguŋ sivuŋani, ilaŋŋat diabetes-miñ uvva augi taiguaksraŋnik atuqtuġuvich, timi sanŋiḷḷuvich, uvva katiqsimaguvich. Iñuŋmun puqiksraŋanik nalunaiqsuq, taaktuŋa apiqsruġu qanuq niġił̣ł̣u imiqł̣uḷu nalaunŋaruat uvlumi, niqiḷḷugiḷḷu niġiutinikŋiḷḷu.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Tuŋŋaġniaġuvich ikayuqsisautił̣iqsuq isumaniq allanguqpagu, uqamaitchumi, uvva augi taiguġutailuni nalunaiqsuutit naatqiŋitkumiñ.

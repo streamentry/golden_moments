@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Dementia app bona game edia abia hidi dalana"
+seoTitle: "Dementia app bona game abia hidi: Lista"
+description: "Naria taudia edia lista dementia app bona game abia totona: emu hereva gaukara abia, taim, ad, bona data naria itaia, bona hereva dikadia itaia namonamo."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  App be dahaka ia karaia emu ura henia, una abia guna: malumalumu
+  gaukara, vara gaukara laloatao, bogahisihisi eiava hebou. Bena ta abia
+  harihari tauna ena diba ida ia hegeregere, laulau badadia ida, taim,
+  poin, ad lasi, bona dokona dalana ia mai isi. Ia abia data itaia, bona
+  emu ese data oi hamatea diba eiava lasi. App be dementia ia taravatua
+  eiava ia hanamoa hereva dikadia oi itaia namonamo; stadi ta sibona be
+  hereva momokani lasi.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Hereva gaukara abia guna: gaukara, vara laloatao, bogahisihisi eiava hebou be app idauidau ia ura henia."
+  - "Harihari tauna ena diba ia hegeregere, stes lebela lasi, bona abia hidi karadia oi hamai isi."
+  - "App taim, poin, mauri, streak, ad eiava hoia henia hereva ida oi rakaia."
+  - "Data abia, hahedinaraia, bona hamatea diba oi itaia. HIPAA be app momo ia naria lasi."
+  - "\"Dementia ia taravatua\" hereva dikadia oi itaia namonamo. Tral ta, eiava app lalonai poin namo, be hereva momokani lasi."
+  - "Golden Moments be gaukara namo ta. Ia be maragi hereva ia gwauraia lasi."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Kwakwalima game ese dementia ia taravatua diba?"
+    a: "Hereva momokani lasi be komesial kwakwalima game app ese dementia ia taravatua eiava ia hamalumalumu. National Institute on Aging ia gwau, hereva momokani lasi be komesial kwakwalima tren app be stadi bada lalonai stadia tren ia karaia hegeregerena. App oi abia hidi moale bona hebou totona, muramura lasi."
+  - q: "Dementia app be HIPAA ena naria henunai?"
+    a: "Momo be lasi. HIPAA be maragi naria taudia, maragi plan, bona edia hesiai taudia dekenai ia karaia. Emu sibomu oi daunlod app be naria lasi, bema edia ta ese ia henia lasi. FTC ena Health Breach Notification Rule be maragi app momo ia naria, HIPAA ia naria lasi."
+  - q: "Dementia game namo be ede ia ita?"
+    a: "Laulau badadia bona revareva ia mailaia, peji ta ta dekenai gaukara ta sibona ia mailaia, taim eiava poin lasi, kerere lasi bema kerere, ad lasi, bona dokona eiava vadivadi dalana ia mai isi. Ia be tau badadia totona, bona tauna ma ta ese ia durua diba."
+  - q: "Golden Moments be laloatao ia durua ia gwau?"
+    a: "Lasi. Golden Moments be gaukara malumalumu ida hebou taudia ia henia, moale bona herevahereva totona. Ia be dementia ia davaria, ia hanamoa, ia taravatua, eiava ia stadia lasi, bona laloatao eiava lalohadai dekenai hereva ia gwauraia lasi."
+  - q: "Lau be dementia app hoia be namo?"
+    a: "Davana app eiava davana tral oi trai guna, bona wiki rua lalonai tauna ede ia karaia oi itaia. App hoia be ia karaia namonamo lasi. Oi sabskraib guna, ede oi kensel diba oi itaia."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,119 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+App stoa lalonai game momo be tau badadia, laloatao, eiava dementia totona. Haida be namonamo. Haida be maragi bamona hereva, taim ese gaukara ia hamatamaia, eiava ad bona data abia. Inai peji ese dalana ta ia henia, app ta ta emu sibomu oi hahegeregerea diba. Ai be app ma ta ai hahegeregerea lasi eiava ai gwauhamata lasi.
 
-## What should I decide before choosing a dementia app?
+## Dementia app lau abia guna, dahaka lau hahegeregerea guna?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+App be dahaka ia karaia emu ura henia, una oi abia hidi guna. "Mama totona game ta" be anina idauidau. Gaukara ta totona app namo, be gaukara ma ta totona namo lasi.
 
-| Goal | What it looks like | What to look for |
+| Emu ura gaukara | Ia ita ede | Dahaka oi tahua |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Malumalumu gaukara | Hegeregere, abia hidi, puzzle malumalumu, hereva game | Diba abia hidi diba, laulau ia noho, taim lasi |
+| Vara laloatao | Laulau gunadia, hereva diba, edia gauna ane | Emu sibomu laulau, henanadai dalana ia kehoa, henanadai lasi |
+| Bogahisihisi | Itaia malumalumu, regena maragi, hoho, gabu namodia | Ia hamatamaia bona dokona ia mai isi, diari lasi, hoa lasi |
+| Hebou | Gaukara eiava herevahereva hebou, heau eiava vidio | Taudia rua totona, herevahereva henanadai |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Dementia taudia noho edia "kognitiv stimulesen" stadia momo be grup sesen, stadia taudia ese ia gunalaia, herevahereva, hereva game, puzzle, ane, bona gaukara namodia ida. [Cochrane riviu](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) ia davaria, maragimaragi namodia haida ia noho, to stadia idauidau ai idia idau. Unai bamona grup program be app ta sibona lasi, unai dainai app ta be gaukara ta sibona ai abia, momo lalodiai.
 
-## How do I know if an app fits the person's abilities?
+## App be tauna ena diba ida ia hegeregere, lau diba ede?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Ia ede ia karaia oi itaia, gorere eiava stes lebela dekenai oi naria lasi. "Stes ta" lalonai taudia rua be mata, taia, ima diba, hereva, bona skrin dekenai idia idau. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ia gwau, guna gauna bona harihari diba oi laloa, bona moale be gaukara badana, k conquered lasi.
 
-Signs of a good fit:
+Namo herevadia:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ia matamaia eiava ia vareai, durua momo lasi;
+- ia kiri, ia hereva, eiava sivarai ta ia herevalaia;
+- kerere be ia hadikaia lasi;
+- dokona neganai ia moale.
 
-Signs it is a poor fit:
+Namo lasi herevadia:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- "Lau diba lasi" eiava "inai be gaukara lasi" ia gwau lou;
+- dahaka ia botaia ia diba lasi;
+- ia badu, ia hemarai, eiava divais ia doria dobi;
+- emu ese gaukara momo oi karaia lasi neganai ia karaia lasi.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Badu hereva be saina ta, oi uri henia lasi. Oi itaia [ia "lasi" ia gwau neganai dahaka oi karaia](/caregiving/when-they-say-no/). Stes dekenai gaukara ma haida, oi itaia [matama stes](/activities/early-stage/) bona [dokona stes](/activities/late-stage/) gaukara.
 
-## What design features should I look for or avoid?
+## App dekenai dahaka lau tahua eiava lau rakaia be namo?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+App be ia malumu, ia mai isi, bona tau badadia totona. Metau gaukara ta ta oi rakaia.
 
-| Look for | Be wary of |
+| Oi tahua | Oi naria namonamo |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Laulau badadia bona revareva, idau ia mailaia | Ikon maragidia, peji ia noho momo |
+| Peji ta ta dekenai gaukara ta sibona | Baton momo, menu, eiava dalana idauidau |
+| Taim lasi, eiava taim emu oi dokona diba | Taim duahia, harihari poin, "emu taim oi hanaia" |
+| Poin lasi, eiava malumalumu hereva | Poin, mauri, streak, lista, "kwakwalima lagani" |
+| Kerere ia hanamoa maragimaragi | Buzu, red X, "Kerere" hereva |
+| Tau badadia edia laulau momokani | Katoon eiava mero bamona gaukara |
+| Intanet lasi ia karaia, akaunt lasi | Rivaia, login, eiava daunlod guna |
+| Dokona bona vadivadi ia mai isi | Pop-ap be gaukara ia goada henia eiava app reit |
+| Ad lasi, hoia davana ia mailaia | Ad, hoia henia momo |
 
-Ads and purchase prompts are easy to tap by accident.
+Ad bona hoia henia baton be kerere dainai oi botaia diba.
 
-## How do I check an app's privacy?
+## App ena privesi lau itaia ede?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+App be data dahaka ia abia, daidia ida ia hahedinaraia, bona emu ese oi hamatea diba, una oi itaia. Oi daunlod guna:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Stoa ena privesi hereva oi duahia.** Google Play ena [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) bona App Store ena [privesi hereva](https://support.apple.com/en-us/102399) ia hahedinaraia, app be data dahaka ia abia eiava ia hahedinaraia. Ruaosi idia gwau, divelopa ese inai hereva ia henia, unai dainai inai be matama gauna, chek momokani lasi.
+2. **Akaunt ia ura henia, oi nanadaia.** Bema app be laulau eiava game malumalumu sibona, emu ladana, email, eiava vara dinana ia diba be gaukara lasi.
+3. **Permisen oi itaia.** Hegeregere game ta be gabu, kontek, maikrofon, eiava emu laulau ibounai ia ura henia, a? Gaukara lasi permisen oi dokona.
+4. **Ad bona analitik oi tahua.** Ad bona trak tul be app emu oi gaukaralaia dalana, kompani ma haida dekenai ia siaia diba.
+5. **Laulau be edae ia lao, oi diba.** Bema emu ruma bese laulau oi atoa, idia be divais lalonai eiava sevei dekenai? Emu ese oi hamatea diba?
+6. **Data hamatea oi itaia.** Privesi polisi eiava data hereva lalonai, data bona akaunt hamatea dalana oi tahua. Bema app ia gwau data hamatea lasi, oi naria namonamo, laulau eiava maragi hereva ia abia bema.
+7. **Privesi polisi oi duahia,** dahaka ia abia, dahaka dainai, edana negana, bona daidia ida ia hahedinaraia, una oi diba totona.
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA ese dementia app lalonai hereva ia naria?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Momo be lasi, taunimanima momo idia hoa. U.S. Department of Health and Human Services [ia hahedinaraia](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), HIPAA be maragi plan, maragi naria taudia momo, maragi kleringhaus, bona edia hesiai taudia dekenai ia karaia. Momo neganai, emu sibomu app lalonai oi atoa data ia naria lasi, bema unai taudia ese app idia henia lasi. App stoa amo "dementia app" be HIPAA murinai lasi, maragi ia herevalaia danu.
 
-### What protects health data in apps that HIPAA does not cover?
+### HIPAA ia naria lasi maragi data, daidia ese idia naria?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission ena Health Breach Notification Rule be momo ia naria. 2024 lalonai FTC [ia hamomokania](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule), inai lo be HIPAA ia naria lasi maragi app bona teknolosi dekenai ia karaia. "Breach" anina be abia lasi hahedinaraia danu, hek diba sibona lasi, bona kompani be taudia bona FTC idia hadibaia be namo. Inai be kerere murinai naria gauna, app be data maragi sibona ia abia hereva momokani lasi.
 
-## How should I read claims about research and evidence?
+## Stadia bona hereva momokani hereva lau duahia ede?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Stadia hereva oi duahia maragimaragi, bona hereva badadia oi naria namonamo. Oi nanadaia:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Dahaka idia stadia?** Program ta edia stadia be app lalonai game ibounai edia anina lasi.
+- **Daidia idia stadia?** Tau badadia namodia dekenai diba, be dementia ida noho tauna dekenai ia hegeregere lasi.
+- **Dahaka idia stadia?** Game lalonai ia karaia namonamo be dina ta ta, herevahereva, lalohadai, eiava sibona naria ia idau.
+- **Stadia ia goada ede?** Randomized controlled trial (RCT) be grup rua ia hahegeregerea. Inai be dalana namo, to RCT maragi ta eiava negana kwadogi ta be hereva momokani lasi. Stadia momo, taunimanima idauidau ese, idia gwau ta oi tahua.
+- **Gorere ia haidaua ia gwau, a?** Test lalonai maragimaragi namo be app ese dementia ia hamalumalumu, ia taravatua, eiava ia hanamoa hereva momokani lasi.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+National Institute on Aging ena [tau badadia edia kognitiv namo](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) peji be NIH ese ia durua stadia bada ta ia herevalaia, bona ia gwau, kompiuta bona online game haida ese laloatao bona lalohadai idia hanamoa herevadia oi naria namonamo. Ia gwau, hereva momokani lasi be komesial kwakwalima tren app be unai stadia tren ia karaia hegeregerena. Oi duahia diba [kwakwalima game bona hereva momokani](/brain-health/brain-games/) bona [dementia taravatua stadia hereva](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Hereva kerere ta, edia ta ese ai itaia diba?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+January 2016 lalonai, FTC [ia hahedinaraia](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity, "kwakwalima tren" program, edia kara taudia ida. FTC ia gwau, kompani be hereva momokani lasi ida ia gwau, edia game ese lagani dainai kognitiv kerere ia dokona diba, bona mild cognitive impairment, dementia, bona Alzheimer's disease ia taravatua diba. Kompani be $2 million ia davana, bona gabeai unai bamona hereva ia gwauraia neganai, stadia momokani ia abia be namo. Inai be ia hahedinaraia, maket hereva be hereva momokani lasi.
 
-### Which words are red flags?
+### Hereva dahaka be naria hereva?
 
-Be cautious when an app or ad says it:
+App eiava ad be inai hereva ia gaukaralaia neganai, oi naria namonamo:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- dementia eiava Alzheimer ia "taravatua", "haidaumui", "dokona", eiava "hanamoa";
+- "klinikally pruvd" ia gwau, to stadia, daidia, bona dahaka idia stadia ia gwau lasi;
+- "kwakwalima lagani" eiava laloatao poin ia henia, davaria bamona;
+- kwakwalima ia "hamai sharp", "habada", eiava "tren";
+- taunimanima edia hereva ia gaukaralaia, hereva momokani bamona.
 
-If you are unsure about a claim, ask the person's doctor.
+Bema emu oi diba lasi, tauna ena dokta oi nanadaia.
 
-## Where does Golden Moments fit?
+## Golden Moments be edae ia gini?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments be gaukara malumalumu ida hebou taudia ia henia, laloatao test, terapa, eiava maragi hadibaia lasi. Emai game, bamona [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/), bona [Calm Breathing](/games/calm-breathing/), be moale bona herevahereva totona. Idia be dementia idia davaria, idia hanamoa, idia taravatua, eiava idia stadia lasi, bona laloatao eiava lalohadai dekenai hereva ai gwauraia lasi.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Ai be davana app danu ai karaia, [Golden Moments for iPhone, iPad and Android](/app/). Ia be laulau hegeregere malumalumu, tile badadia ida, emu oi abia ruma bese laulau game, bona intanet lasi laulau pak, akaunt, ad, taim, eiava poin lasi. Lista ta ia hegeregere: App Store ena privesi lebela ia gwau "Data Not Collected", bona [app privesi polisi](/app-privacy/) ia hahedinaraia, laulau kopi be edae ia noho.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Emu sibomu oi hahegeregerea be namo, ai oi kamonai lasi. Inai peji ena lista oi gaukaralaia, emai [privesi peji](/privacy/) bona [maragi hereva](/medical-disclaimer/) oi duahia, bona emu oi naria tauna dekenai ia hegeregere lasi gaukara ta ta, emai danu, oi dokona.
 
-## What is a sensible way to try a new app?
+## App matamata lau tral ede be namo?
 
-Try it together for a couple of weeks and watch what happens.
+Wiki rua lalonai hebou oi tral, bona dahaka ia vara oi itaia.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Guna oi hamatamaia** [tablet bona fon hamatamaia dalana](/caregiving/tablets-and-screens/) oi gaukaralaia, bona dalana ia mai isi amo oi matamaia.
+2. **Sesen oi hamai kwadogi,** kiri, herevahereva, bona bogahisihisi oi itaia, bona negana namo dekenai oi dokona.
+3. **Bema ia hadikaia, oi rakaia,** taunimanima idia hanamoa momo danu.

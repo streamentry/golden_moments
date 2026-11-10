@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Telefonaj kaj videovokaj agadoj por iu kun demenco"
+seoTitle: "Videovokaj agadoj por demenco"
+description: "Videovokaj kaj telefonaj agadoj por malproksimaj familianoj de iu kun demenco: montrado, laŭtlegado, kantado, ludoj per kundividita ekrano kaj konsiloj por helpantoj."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Vokoj kun homo vivanta kun demenco plej bone funkcias kiam ili estas mallongaj,
+  regulaj kaj konstruitaj ĉirkaŭ io farenda kune, ekzemple montri dorlotbeston aŭ
+  ĝardenon, rigardi fotojn, laŭtlegi, kanti ŝatatan kanton aŭ ludi mildan ludon
+  per kundividita ekrano. Voku je la sama horo ĉiutage, se vi povas, lasu nur unu
+  homon paroli samtempe, kaj petu iun ĉeeste helpi.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Agado donas formon al voko kaj malpliigas la premon de konversacio. Planu unu simplan aferon por kunhavigi."
+  - "Mallongaj, regulaj vokoj je la sama horo de la tago ofte funkcias pli bone ol longaj, maloftaj vokoj."
+  - "Nur unu homo parolas samtempe. Grupaj vokoj kun interparolado estas malfacile sekveblaj, precipe ĉe aŭdperdo."
+  - "Helpanto ĉeeste povas pretigi la aparaton, sidi apud la persono kaj esti la \"manoj\" por ludo aŭ foto."
+  - "Se voko ne bone funkcias hodiaŭ, finu ĝin varme. Provi denove morgaŭ estas tute en ordo."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Kion mi povas fari dum videovoko kun iu kun demenco?"
+    a: "Planu unu simplan agadon: montru vian ĝardenon, dorlotbeston aŭ kuirejon; rigardu malnovajn fotojn kune; laŭtlegu mallongan poemon aŭ leteron; kantu kanton, kiun la persono ŝatas; kuiru la saman recepton samtempe; aŭ ludu mildan bildoludon per kundividita ekrano. Agadoj donas fokuson al la voko, tiel ke la persono ne devas porti la konversacion."
+  - q: "Kiom longa estu videovoko?"
+    a: "Kutime pli mallonga ol vi pensas. Kelkaj varmaj minutoj povas esti sufiĉaj, precipe se la persono rapide laciĝas. Regule voki je la sama horo de la tago povas pli gravi ol kiom longe daŭras ĉiu voko."
+  - q: "Kio se la persono konfuziĝas aŭ maltrankviliĝas pro videovokoj?"
+    a: "Iuj homoj trovas vizaĝon sur ekrano konfuziga. Provu simplan telefonvokon, registritan videomesaĝon, kiun la helpanto povas ludi en trankvila momento, aŭ kartojn kaj fotojn per poŝto. Se voko iras malbone, finu ĝin afable kaj provu denove alian tagon aŭ je alia horo."
+  - q: "Kiel mi povas helpi al mia patrino videovoki, se ŝi ne povas uzi la telefonon?"
+    a: "Petu familianon, hejman helpanton aŭ laboranton de prizorgejo komenci la vokon kaj teni aŭ apogi la aparaton. Multaj prizorgejoj helpas familiojn pri videovokoj, do demandu, kion ili proponas. Tabulkomputilo sur starigilo, kun granda ekrano kaj sufiĉe laŭta sono, faciligas la aferon por ĉiuj."
+  - q: "Ĉu ni povas ludi ludon kune per video?"
+    a: "Jes. La plej facila maniero estas, ke unu persono kundividas sian ekranon en la videovoka aplikaĵo, dum la alia diras, kiun bildon tuŝeti. Aŭ la helpanto ĉeeste povas malfermi la saman ludon sur tabulkomputilo kaj tuŝeti por la persono, dum vi gvidas ĝin parole. Elektu ludojn sen tempmezurilo aŭ poentoj."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Vivi malproksime de iu kun demenco povas sentiĝi senhelpa. Telefonaj kaj videovokoj ne anstataŭigos brakumon, sed ili ankoraŭ povas alporti verajn momentojn de konekto, se vi bone preparas ilin. La grava afero estas ĉesi provi havi normalan babilan konversacion kaj anstataŭe plani ion simplan por kunhavigi. Ĉi tiu paĝo traktas agadojn, kiuj funkcias per video kaj telefono, kiel pretigi la vokon, kaj kion la persono ĉeeste povas fari por helpi.
 
-## Why plan an activity for a call?
+## Kial plani agadon por voko?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Agado donas formon al la voko. "Kiel vi fartas? Kion vi faris hodiaŭ?" petas la personon memori kaj raporti, kio povas esti malfacila kaj streĉa. "Rigardu, la tomatoj maturiĝis" tute ne postulas ion de la persono.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+La Alzheimer's Association rimarkas, ke konversacioj kun pli grandaj grupoj per video povas esti malfacilaj, kaj sugestas [doni strukturon al la voko](https://www.alz.org/help-support/caregiving/holidays) per aferoj kiel kunkantado aŭ kunhavigado de bildoj.
 
-## What activities work on a video call?
+## Kiuj agadoj funkcias dum videovoko?
 
-### Show and tell
+### Montrado
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Alportu vian mondon al la persono. Movu la kameraon malrapide tra via ĝardeno, prezentu la hundon, montru kion vi kuiras, tenu supren desegnaĵon de nepo, aŭ direktu la telefonon tra la fenestro al la neĝo. Priskribu tion, kion vi vidas, per simplaj vortoj kaj lasu paŭzojn por ke la persono povu reagi. Neniuj demandoj necesas.
 
-### Look at photos together
+### Rigardi fotojn kune
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Tenu malnovan presitan foton antaŭ la kamerao, aŭ kundividu vian ekranon por montri kelkajn grandajn fotojn unu post la alia. Parolu pri tio, kion vi rimarkas: "Rigardu la ĉapelon de avo." Evitu "Kiu estas ĉi tiu?" aŭ "Ĉu vi memoras?" Se la persono nomas iun malĝuste, simple akceptu tion. Vidu nian [gvidilon pri rememorado](/activities/reminiscence/) por mildaj ideoj.
 
-### Read aloud
+### Laŭtlegado
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Laŭtlegu mallongan poemon, psalmon, ŝatatan infanlibron al nepo en la sama voko, leteron de parenco, aŭ paĝon el libro, kiun la persono amis. Laŭtlegado donas al la persono ion trankvilan por aŭskulti sen bezono respondi.
 
-### Sing or listen to music together
+### Kanti aŭ aŭskulti muzikon kune
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Kantu kanton, kiun la persono bone konas, aŭ ludu ŝatatan muzikon ĉe vi. Kunkanti estas por multaj homoj pli facila ol paroli. Vidu nian [gvidilon pri muzikaj agadoj](/activities/music/).
 
-### Cook or bake at the same time
+### Kuiri aŭ baki samtempe
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+La Alzheimer's Association sugestas plani videovokon por kuiri aŭ baki specialan recepton kune. Pretigu la vokon en ambaŭ kuirejoj. La persono ĉeeste eble povas kirli aŭ gustumi, dum vi sekvas malnovan receptkarton.
 
-### Watch something together
+### Spekti ion kune
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+La Association ankaŭ sugestas spekti ŝatatan filmon samtempe el apartaj hejmoj, dum vi parolas per telefono aŭ video. Por iu kun demenco, mallonga eltiraĵo, malnova televida epizodo aŭ sporta matĉo povas funkcii pli bone ol plena filmo.
 
-### Play a gentle game on a shared screen
+### Ludi mildan ludon per kundividita ekrano
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Multaj videovokaj aplikaĵoj ebligas kundividi vian ekranon. Vi malfermas la ludon kaj tuŝetas; la persono diras aŭ montras, kiun bildon elekti. Aŭ la helpanto ĉeeste malfermas la saman ludon sur tabulkomputilo kaj tuŝetas por la persono, dum vi babilas.
 
-Games that work well this way:
+Ludoj, kiuj bone funkcias tiel:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** vi legas konatan diraĵon, la persono diras la finon, kaj sekvas parolanta helpo.
+- **[Picture Pairs](/games/picture-pairs/):** milda kongruiga ludo kun grandaj bildoj, kiuj povas resti videblaj, sen tempmezurilo kaj sen poentoj.
+- **[Conversation Cards](/games/conversation-cards/):** bildo kaj malferma demando por priparoli kune.
+- **[Photo Pairs](/games/photo-pairs/):** kongruiga ludo farita el fotoj, kiujn vi elektas sur via propra aparato. La fotoj restas en via retumilo, kaj la persono vidas ilin per via kundividita ekrano.
 
-### Recorded messages
+### Registritaj mesaĝoj
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Kiam vivaj vokoj estas malfacilaj, registru mallongan videon: saluton, kanton, promenon tra via ĝardeno. La helpanto povas ludi ĝin en trankvila momento, tiom ofte kiom la persono ĝuas ĝin. La Alzheimer's Association mencias registradon kaj sendadon de specialaj momentoj, ekzemple infanoj malfermantaj donacojn.
 
-## What about plain phone calls?
+## Kaj simplaj telefonvokoj?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Telefonvokoj ankoraŭ gravas. Dementia Australia sugestas [voki je la sama horo ĉiutage](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) kaj ne rapidi, ĉar homoj vivantaj kun demenco povas bezoni tempon por engaĝiĝi. Per telefono:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Diru vian nomon kaj rilaton tuj: "Saluton paĉjo, estas Jenny, via filino."
+- Parolu malrapide, per mallongaj frazoj, unu ideo samtempe.
+- Donu novaĵojn anstataŭ peti ilin: "Mi preparis vian rostitan recepton hieraŭ vespere."
+- Laŭtlegu mallongan poemon, aŭ kantu strofon de ŝatata kanto.
+- Tenu la vokon mallonga kaj finu per varma noto.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia ankaŭ rimarkas, ke videovokoj povas helpi kiam paroli fariĝas pli malfacila, ĉar la persono povas vidi vian vizaĝon. Se telefonvokoj fariĝas konfuzaj, provu videon, aŭ inverse.
 
-## How do I set up a video call that works?
+## Kiel mi pretigas videovokon, kiu funkcias?
 
-**Before the call:**
+**Antaŭ la voko:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Elektu regulan horon**, kiam la persono kutime estas ripozinta, kaj tenu ĝin. Rutino helpas.
+2. **Kunordigu kun la helpanto ĉeeste.** Mesaĝo la tagon antaŭe helpas al ili plani.
+3. **Kontrolu la aparaton.** Tabulkomputilo sur starigilo estas pli facila ol telefono tenata en la mano. Certigu, ke ĝi estas ŝargita, ke la ekrano estas hela kaj ke la sono estas sufiĉe laŭta. Ŝaltu subtekstojn, se la aplikaĵo proponas ilin kaj la persono bone legas.
+4. **Planu unu agadon** kaj havu ĉion preta.
 
-**During the call:**
+**Dum la voko:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sidu proksime al la kamerao** en bona lumo, frontante fenestron anstataŭ havi ĝin malantaŭ vi.
+- **Prezentu vin** ĉiufoje, per nomo kaj rilato.
+- **Nur unu voĉo samtempe.** La Alzheimer's Association rimarkas, ke interparolado estas malfacila por homoj vivantaj kun demenco kaj homoj kun aŭdperdo. Se pluraj parencoj aliĝas, parolu laŭvice aŭ tenu la grupon je du aŭ tri homoj.
+- **Faru unu demandon samtempe.** La Family Caregiver Alliance sugestas [simplajn demandojn kun jes-neaj respondoj](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), kaj montri elektojn kiam vi povas.
+- **Lasu longajn paŭzojn.** Atendu respondon. Estas tute en ordo sugesti vorton, se la persono serĉas ĝin.
+- **Uzu vian vizaĝon kaj voĉon.** Ridetu, kapjesu kaj tenu vian tonon varma. Esprimo ofte diras pli ol vortoj.
+- **Ne korektu.** Se la persono diras ion malprecizan, lasu tion.
 
-**Ending the call:**
+**Fini la vokon:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Finu antaŭ ol la persono laciĝas, ideale en bona momento.
+- Uzu la saman adiaŭon ĉiufoje: "Mi vokos vin morgaŭ je tagmanĝo. Mi amas vin."
+- Ne plilongigu ĝin.
 
-## Tips for the helper on site
+## Konsiloj por la helpanto ĉeeste
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Se vi estas la edz(in)o, helpanto, gefrato aŭ laboranto, kiu helpas pri la voko, vi ebligas ĝin.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Pretigu trankvilan lokon.** Malŝaltu la televidilon kaj fermu la pordon.
+- **Komencu la vokon mem,** poste donu al la persono tabulkomputilon sur starigilo aŭ tenu ĝin je okula nivelo.
+- **Sidu apud la persono, ne antaŭe.** Via ĉeesto trankviligas. Milde helpmemoru se necese: "Rigardu, estas Jenny."
+- **Estu la manoj.** Tenu fotojn, tuŝetu la ludon, turnu la tabulkomputilon por montri la ĉambron.
+- **Atentu lacecon aŭ maltrankvilon,** kaj sciigu la vokanton, kiam estas tempo fini.
+- **Diru al la vokanto, kio funkciis.** "Ŝi tre ĝojis pri la hundo" helpas plani la sekvan vokon.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+La NIA sugestas, ke malproksimaj parencoj povas helpi pli aĝan personon [lerni funkciojn de sia telefono](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), ekzemple videovokojn. En pli postaj etapoj, la helpanto kutime devos tute prizorgi la aparaton. Tio estas en ordo.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Se la persono loĝas en prizorgejo, la Alzheimer's Foundation of America sugestas demandi, ĉu la institucio helpas familiojn pri videovokoj. La AFA ankaŭ mencias, ke familioj sendas fotojn tien kaj reen kun la prizorga teamo, kaj sendas ŝatatajn manĝetojn aŭ malgrandajn komfortaĵojn, post kontrolo pri tio, kion la institucio permesas.
 
-## What if the call doesn't go well?
+## Kio se la voko ne iras bone?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Iuj vokoj estos konfuzaj, plataj aŭ maltrankviligaj. Tio ne estas via kulpo, kaj ĝi ne signifas, ke vokoj ne valoras.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Se la persono ŝajnas konfuzita de la ekrano, ŝanĝu al telefonvoko aŭ registrita mesaĝo.
+- Se la persono maltrankviliĝas, agnosku la senton, diru ion trankviligan kaj finu milde.
+- Se vokoj ofte iras malbone je unu horo de la tago, provu alian horon.
+- Se la persono pensas, ke vi estas iu alia, afable akceptu tion.
 
-It is fine to end early. A short, warm call is a good outcome.
+Estas tute en ordo fini pli frue. Mallonga, varma voko estas bona rezulto.
 
-## Between calls
+## Inter vokoj
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Restu ĉeestanta ankaŭ alimaniere. Dementia Australia sugestas sendi kartojn, retpoŝtojn, fotojn aŭ malgrandajn donacojn. Semajna poŝtkarto kun unu granda foto kaj mallonga noto povas esti legata denove kaj denove. Preteblaj [Conversation Cards](/games/conversation-cards/) senditaj al la helpanto povas doni al la sekva voko pretan temon.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Por konsiloj pri elekto kaj preparado de tabulkomputilo, vidu [tabulkomputiloj kaj ekranoj](/caregiving/tablets-and-screens/). Por tempo kune en la sama loko, vidu nian gvidilon pri [vizitado](/activities/visiting/).

@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Aktivesi e ludi por personi kun Alzheimer"
+seoTitle: "Aktivesi e ludi por Alzheimer: idei segun stadio"
+description: "Aktivesi e ludi por personi kun Alzheimer en singla stadio, bazita sur duranta habilesi e memoraji, kun gratuita ludi por facar kune."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Bona aktivesi por ulu kun Alzheimer apogas su sur to quo duras maxim longe:
+  longe praktikata habilesi, anciena kansoni, familiara taski e la sensi. Frue,
+  kartoludi, tabloludi, koquado e exter-iri ofte ankore funcionas. En la meza
+  stadio, probez faldar, klasifikar, kantar, foto-albumi e simpla imajala ludi.
+  Tarde en la morbo, muziko, tuchebleso e kompano importas maxim multe. Selektez
+  segun quale la persono esas cadie.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer esas la maxim ofta kauzo di demenco, do idei pri aktivesi por demenco anke aplikesas a ol."
+  - "Nova informo esas ordinare maxim desfacila unesme, dum habilesi e kansoni lernita longe ante ofte restas plu longe. Apogez vu sur oli."
+  - "Stadii intermixas e bona e desfacila dii esas normala. Selektez segun to quon la persono povas facar e juar cadie."
+  - "Selektez ludi sen horlojo, sen puntizo e sen questionado, e lasez imaji restar videbla."
+  - "Regardar, tenar ulo o simple sidar kune omna kontas kom partopreno."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Quala aktivesi esas bona por ulu kun Alzheimer?"
+    a: "Familiara aktivesi facita kelke plu simpla: faldar lavita vesti, preparar la tablo, koquar kune, muziko e kanto, regardar fotografuri, promenar, gardenumar e tempo kun hemano. Simpla imajala ludi, facila puzli e karti por konverso anke funcionas por multa personi. Selektez to quo la persono sempre amis e facez ol kune kun lu."
+  - q: "Ka ludi esas bona por personi kun Alzheimer?"
+    a: "Ludi povas esar agreabla maniero pasigar tempo kune, se la persono juas oli. Nula ludo esas pruvita traktar, lentigar o haltigar Alzheimer, do selektez ludi por plezuro: granda imaji, poka selekti, e nula horlojo, puntizo o soni por nekorekta respondo."
+  - q: "Ka existas diferi inter aktivesi por demenco e aktivesi por Alzheimer?"
+    a: "Preske no. La morbo di Alzheimer esas la maxim ofta kauzo di demenco, e la sama idei pri aktivesi aplikesas. To quo helpas pri Alzheimer esas savar ke recenta memoraji ordinare fadas unesme, do aktivesi bazita sur plu anciena habilesi, kansoni e rutini ofte funcionas plu glate."
+  - q: "Quon ulu kun tarda-stadia Alzheimer ankore povas juar?"
+    a: "Favorata muziko, dolca manomasajo, mola kozi por tenar, esar lektata, sidar extere, e la kompano di ulu quan lu fidas. Tenez ol kurta e kalma, e observez lua vizajo e korpo por vidar to quon lu prizas."
+  - q: "Quale me povas interesigar ulu kun Alzheimer pri aktiveso?"
+    a: "Demandez helpo vice anuncar aktiveso, preparez omno ante, e komencez ol ipsa por ke lu povez juntar. Selektar la horo di la dio kande lu esas maxim bone facas granda difero. Se lu dicas no, probez itere plu tarde o ofrez plu mikra versiono."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Se ulu quan vu amas havas Alzheimer, vu probable ja remarkis ke kelka kozi desaparas rapide dum altri restas. Lu forsan oblivias la telefonvoko di ca matino, ma ankore kantas omna vorti di himno, faldas mantelo quale lu sempre facis, o distributas karti sen pensar. Bona aktivesi esas bazita sur ta duranta habilesi. Ca pagino explikas pro quo, pose donas idei por singla stadio e la gratuita ludi en ca retloko qui konvenas ad oli.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Ka Alzheimer diferas de demenco pri aktivesi?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ne tre multe. Demenco esas la generala termino, e la morbo di Alzheimer esas lua maxim ofta kauzo: la [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dicas ke ol reprezentas 60 til 80 procento di kazi di demenco. Preske omno skribita pri aktivesi por demenco aplikesas a Alzheimer, inkluzante nia [101 idei pri aktivesi](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+To quo esas utila savar esas la ordinara ordino di chanji. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explikas ke Alzheimer unesme domajas la parti di la cerebro qui koncernas memorado, e plu tarde afektas linguo, rezonado e sociala konduto. La Alzheimer's Association dicas ke la maxim ofta frua simptomo esas desfacileso memorar recente lernita informo. Omna personi esas diferanta, e multa havas mixita kauzi, ma ca modelo helpas montrar to quo ofte funcionas.
 
-## What kinds of activities suit Alzheimer's best?
+## Quala tipi di aktivesi maxim konvenas a Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Aktivesi qui apogas su sur anciena, bone praktikata savado ordinare funcionas plu glate kam ti qui bezonas lernar e retenar ulo nova.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Longe praktikata habilesi.** La Alzheimer's Association remarkas ke persono povas ankore plear simpla kansoni lernita sur piano multa yari ante. Trikotado, sablado di ligno, mixar karti, knedar pasto e faldar lavita vesti esas simila.
+- **Anciena kansoni e familiara muziko.** Multa personi ankore savas omna vorti di kansoni de lua yuneso, di himni e di la kansoni de lua mariajo. Videz [muzikala aktivesi](/activities/music/).
+- **Omnadia taski kun skopo.** La [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) listigas lavar dishi, preparar la tablo, klasifikar kalzi e faldar lavita vesti kom aktivesi quin personi povas juar. Sentar su utila importas.
+- **Rekonocar vice memorar.** Indikar la konvenanta imajo esas plu facila kam nomizar ol per memoro. Pro to imajala ludi kun omno videbla funcionas plu bone kam questionadi.
+- **La sensi.** Texturo, odoro, varmeso, gusto e sono restas importanta longe pos ke vorti divenas desfacila. Videz [sensala aktivesi](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+To quo ofte funcionas min bone: irgo kun horlojo, nova reguli por lernar, multa etapi por memorar, o questioni qui probas memoro, exemple "Ka vu memoras qua ica esas?" Ti pozas la desfacila parto di Alzheimer en la centro.
 
-## Activities for early-stage Alzheimer's
+## Aktivesi por frua-stadia Alzheimer
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+En la frua stadio, la [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) dicas ke persono povas ankore veturar, laborar e partoprenar sociala aktivesi, dum remarkar memorala falii quale obliviar familiara vorti o ube kozi esas. La maxim bona maniero esas partenereso: demandez quon lu volas durar facar e quala helpo lu deziras.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Durigez existanta hobii.** Golfo, kartoludi, stebado, koro e ekleziala grupi, kun mikra ajusti quale plu mikra grupi e plu kalma hori.
+2. **Pleez familiara kartoludi e tabloludi.** La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) listigas question-ludi, vort-serchado, kartoludi e tabloludi por la frua stadio. Pleez kom esquado se puntizar komencas jenar lu, o lasez la puntizo tote.
+3. **Koquez kune.** Lasez lu facar recepto quan lu savas parkere dum vu lektas la etapi.
+4. **Komencez projeto pri vivo-rakonto.** Fotografuri, recepti e rakonti en albumo quan lu direktas. Videz [aktivesi pri memoraji](/activities/reminiscence/).
+5. **Facez exter-iri.** Favorata restorerio ye kalma horo, muzeo por kurta vizito, promenado en parko.
+6. **Probez puzli quin lu selektas.** Krucvorti en granda literi, vort-serchi e imajala puzli. Videz [puzli por demenco](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Plusa idei: [aktivesi por frua stadio](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Aktivesi por meza-stadia Alzheimer
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+La Alzheimer's Association deskriptas la meza stadio kom ordinare la maxim longa, e dicas ke ol povas durar multa yari. Vorti mixesas, frustrado venas plu facile, e la persono bezonas plu multa sorgo. La Alzheimer's Foundation of America adjuntas ke multa personi bezonas helpo por komencar o durar aktivesi. Vua rolo chanjas a preparar kozi, montrar vice explikar, e facar la desfacila parti.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Faldez, klasifikez e konvenigez.** Manteli, kalzi, manjo-instrumenti, butoni segun koloro. Reala taski, facita flanke a flanke.
+2. **Kantez e movez kun muziko.** Klaktez manui, balanseskez o dansez en la koqueyo. Komencez kantar ipsa e lasez lu juntar.
+3. **Regardez foto-albumi.** Deskriptez to quon vu vidas e invitez rakonti: "Quala automobilo. Rakontez me pri ol." Aceptez irga nomi quin lu uzas.
+4. **Pleez simpla imajala ludi.** [Picture pairs](/games/picture-pairs/) kun quar til sis imaji lasita videbla, o [Find the same](/games/find-the-same/) kun du o tri selekti.
+5. **Finigez familiara dicaji.** "Un pomo singladie..." Dicaji lernita longe ante ofte venas facile. Probez [Finish the saying](/games/finish-the-saying/), ube vu povas montrar irga fino per un tucheto.
+6. **Aquizez e sorgomez planti.** En-hemala poti o elevita bedo, kun mikra aquizilo.
+7. **Facez konvenigo-ludo ek familiala fotografuri.** [Photo pairs](/games/photo-pairs/) uzas imaji quin vu selektas sur vua aparato, e oli nultempe livas ol.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Plusa idei: [aktivesi por meza stadio](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Aktivesi por tarda-stadia Alzheimer
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+En la tarda stadio, la Alzheimer's Association dicas ke personi perdas la kapableso reaktar a lia cirkumajo e durar konverso, malgre ke li povas ankore dicar vorti o frazi. Aktiveso nun signifikas komforto e konekto, portita a ube la persono repozas.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Pleez lua favorata muziko** silencoze, sen ke la televiziono konkurencas.
+2. **Donez manomasajo** kun lotiono qua havas odoro quan lu prizas.
+3. **Ofrez mola kozi por tenar:** varma kovrilo, fliso, glata petro.
+4. **Lektez laute** psalmi, poemi o familiara rakonto. La ritmo importas plu kam la senco.
+5. **Sidez extere** en ombro, o an fenestro kun uceli por regardar.
+6. **Regardez un granda imajo kune.** Sunfloro o hundo qua plenigas la ekrano di tableto, dum vu dicas to quon vu vidas.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Plusa idei: [aktivesi por tarda stadio](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Quala ludi konvenas por ulu kun Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Selektez ludi ube nulo povas faliar. Omna ludi en ca retloko esas gratuita, funcionas en ret-navigilo e havas nula horlojo, puntizo o enregistro.
 
-| Game | What you do | Often suits |
+| Ludo | Quon vu facas | Ofte konvenas por |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Konvenigez granda imaji; li povas restar adsupre | Frua e meza stadio |
+| [Find the same](/games/find-the-same/) | Tuchez la imajo qua konvenas kun ta supre | Meza e tarda stadio, kun helpo |
+| [Finish the saying](/games/finish-the-saying/) | Selektez la lasta vorto di familiara dicajo, o montrez ol | Frua e meza stadio |
+| [Picture puzzle](/games/picture-puzzle/) | Interchanjez 4 o 9 peci a lua justa loko, kun la imajo montrata | Frua e meza stadio |
+| [Conversation cards](/games/conversation-cards/) | Imajo e apertita questiono por konversar | Irga stadio, kun ulu por konversar |
+| [Photo pairs](/games/photo-pairs/) | Konvenigo-ludo facita ek vua propra fotografuri | Frua e meza stadio |
+| [Coloring](/games/coloring/) | Tuchez koloro, pose parto di imajo; o imprimez ol | Irga stadio, kun helpo |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Por savar quale sidar kune, quante helpar e kande haltar, lektez [quale ludar kun ulu qua havas demenco](/caregiving/how-to-play-together/). Se vu questionas pri "memoro-ludi", videz [memoro-ludi por oldi kun demenco](/activities/memory-games/).
 
-## How to make any activity easier
+## Quale faciligar irga aktiveso
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+La konsili di NIA rezumesas a kelka kustumi: konvenigez l'aktiveso a to quon la persono povas facar, helpez lu komencar, observez frustrado, certigez ke lu sentas su sucesanta, e lasez lu simple regardar se to esas quon lu juas.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Selektez la horo di la dio kande lu esas maxim bone,** e tenez la sesioni kurta.
+- **Preparez omno ante** por ke vu povez komencar quik.
+- **Invitez, ne ordonez.** "Ka vu povus helpar me?" funcionas plu bone kam "Esas tempo por aktiveso."
+- **Facez la unesma etapo ipsa** e lasez lu juntar.
+- **Ofrez un etapo e un selekto singlatempe.**
+- **Lasez ol esar facita en lua maniero.** Oblika manteli esas bona.
+- **Haltez dum ol ankore esas agreabla.** Finar frue esas bona rezulto, ne falio. Se lu refuzas, videz [kande ulu kun demenco dicas no](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dicas ol simple: fokusigez la plezuro, ne la atingajo.

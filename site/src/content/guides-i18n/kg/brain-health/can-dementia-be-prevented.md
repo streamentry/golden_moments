@@ -1,35 +1,37 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Keti maladi ma kibanza lenda vukana? Mambu ya bansosa ke tuba"
+seoTitle: "Keti maladi ma kibanza lenda vukana? Bansosa ke tuba"
+description: "Mambu yina Komisiyo ya Lancet ya 2024 mpi banzengolo ya nene monaka sambu na kukulumusa kigonsa ya maladi ma kibanza, mpi mambu ya kutubila ti munganga."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Muntu mosi ve lenda sila nde maladi ma kibanza ta vukana. Komisiyo ya Lancet
+  ya 2024 tendulaka nde pene-pene ya ndambu ya bantu yina ke bakaka maladi ma
+  kibanza na ntoto ya mvimba ke na kuwakana ti bima 14 ya kigonsa yina lenda
+  soba, bonso tension ya mingi, kukonda kuwa mbote mpi kukonda kusala bangalasisi.
+  Banzengolo ya bansosa monisaka bambindumuna ya fioti na bameka ya kuyindula,
+  kansi ve kimbangi nde bantu ya fioti bakaka maladi ma kibanza. Bantu mingi
+  yina ke salaka mambu yonso “mbote” ke bakaka kaka maladi ma kibanza, mpi yo
+  kele foti ya muntu ve.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Komisiyo ya Lancet ya 2024 wakanisaka nde pene-pene ya 45% ya bantu yina ke bakaka maladi ma kibanza na ntoto ya mvimba ke na kuwakana ti bima 14 ya kigonsa yina lenda soba. Yai kele lutangu ya kimvuka, kansi ve nsilulu sambu na muntu mosi."
+  - "Kukulumusa kigonsa ke tendula kukulumusa dibaku na kimvuka ya bantu. Yo ke tendula ve nde muntu mosi lenda tina maladi ma kibanza."
+  - "Banzengolo ya nene bonso FINGER, US POINTER mpi SPRINT MIND monisaka bambindumuna ya fioti na bameka ya kuyindula to na kukonda kuyindula ya fioti, kansi mosi ve monisaka nde programe ya luzingu lenda vukisa maladi ma kibanza."
+  - "Bununu kele kima ya kuluta nene yina me zabana ya kigonsa sambu na maladi ya Alzheimer, mpi yo lenda soba ve. Bantu mingi yina ke na bikalulu ya mbote ya luzingu ke bakaka kaka maladi ma kibanza."
+  - "Matambi yina bansosa ke talaka mingi, bonso kusansa tension ya mingi, kusadila bima ya kusadisa kuwa mpi kutatamana kusala bangalasisi, me fwana kutubila yo ti munganga sambu yo ke sadisaka mavimpi na banzila yankaka."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Keti maladi ma kibanza lenda vukana?"
+    a: "Kukonda nzila mosi ya kyeleka ya kuvukisa maladi ma kibanza sambu na muntu mosi. Bansosa ke monisa nde kukulumusa bigonsa yankaka, bonso tension ya mingi, kukonda kuwa mbote yina bo ke sansaka ve mpi kunwa makaya, lenda kulumusa dibaku ya maladi ma kibanza na kimvuka ya bantu to kulwisa ntangu yina yo ke yantika. Yai kele badibaku, kansi ve nsilulu."
+  - q: "Ntalu ya 45% ya Komisiyo ya Lancet ke tendula inki?"
+    a: "Komisiyo ya Lancet ya 2024 tendulaka nde pene-pene ya 45% ya bantu yina ke bakaka maladi ma kibanza na ntoto ya mvimba ke na kuwakana ti bima 14 ya kigonsa yina, na mabanza, lenda soba. Lutangu yai ke tadila nde bima yango ke pesaka maladi, mpi bansoniki ke tuba nde bankuikilu yankaka lenda vanda ndambu kaka. Yo ke tubila bimvuka ya bantu, kansi yo ke tuba ve kigonsa ya muntu mosi."
+  - q: "Kana mama to tata na mono vandaka na luzingu ya mbote, sambu na nki yandi bakaka maladi ma kibanza?"
+    a: "Bununu, bima ya dibuta mpi bima mingi yina muntu lenda yidika ve ke salaka kitini ya nene na maladi ma kibanza. Bansoniki ya Komisiyo ya Lancet ke tuba nde kukulumusa kigonsa na kimvuka ya bantu ke sila ve nde muntu mosi ta tina maladi ma kibanza. Kubaka maladi ke monisa ve nde muntu mosi nungaka ve."
+  - q: "Keti ntangu me luta na nima ya bamvula 65 sambu na kukulumusa kigonsa ya maladi ma kibanza?"
+    a: "Komisiyo ya Lancet ke tuba nde yo ke vandaka ntangu yonso ve ntete mingi to ntangu yonso ve na nima mingi sambu na kukulumusa kigonsa, ata kimbangi mingi ke tubila ntangu ya kati ya luzingu. Kusansa mambu ya kuwa mpi ya kumona, kutatamana kusala bangalasisi mpi kuvanda na kuwakana ti bantu yankaka kele bandakisa ya matambi ya nima ya luzingu yina bo longukaka. Tubila ti munganga sambu na kuzaba mambu yina me fwana sambu na mavimpi na nge."
+  - q: "Keti bansaka ya kibanza to madia ya sipesiali ke vukisaka maladi ma kibanza?"
+    a: "Nsaka mosi ve, madia mosi ve, nkisi ya kubakisa mosi ve to mutindu ya kudia mosi ve me monana nde yo ke vukisaka maladi ma kibanza. Nzekolo ya bamvula tatu ya madia ya MIND monisaka ve luswaswanu ya nene na kuyindula kana bo fwanisa yo ti madia ya kulandila, mpi bansaka ya kibanza ya kuteka me monana ve nde yo ke pesaka mambote ya mutindu mosi bonso yina me monana na banzengolo ya bansosa."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +65,138 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Kana nge ke sansaka muntu yina ke na maladi ma kibanza, to nge monaka mama to tata na nge kuzinga ti yo, ziku nge me yulaka kana yo lendaka vukana, mpi kana nge lenda vukisa yo sambu na nge mosi. Lutiti yai ke monisa mambu yina bansosa me zaba mpenza, na ndinga ya pete. Mvutu ya nkufi: muntu mosi ve lenda sila nde maladi ma kibanza ta vukana, kansi bansosa ke monisa nde bigonsa yankaka lenda kulumuka, mpi kukulumusa yo na kimvuka ya bantu lenda tendula nde bantu ya fioti ta baka maladi ma kibanza to ta baka yo na nima.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Yai kele bansangu ya kimvuka, kansi ve malongi ya munganga. Tanga [ndimbola na beto ya mavimpi](/medical-disclaimer/) mpi tubila ti munganga sambu na mavimpi na nge.
 
-## Can dementia be prevented?
+## Keti maladi ma kibanza lenda vukana?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Kukonda nzila mosi ya kyeleka ya kuvukisa maladi ma kibanza sambu na muntu mosi. National Institute on Aging (NIA) ke tuba nde ata
+[kima mosi ve me monana ntete nde yo ke vukisaka maladi ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+bansosa me mona banzila ya kivuvu mpi ke longuka mambu yina lenda sadisa mpi yina lenda sadisa ve.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Mambu yina bansosa ke monisa kele nde mambu yankaka ya mavimpi mpi bikalulu ya luzingu ke na kuwakana ti dibaku ya kuluta ya kubaka maladi ma kibanza. Kana bigonsa yango ke kulumuka na kimvuka ya bantu, bantu ya fioti lenda baka maladi ma kibanza, to baka yo na nima ya luzingu. Yai kele luswaswanu ya nene ti nsilulu.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Kima mosi ya kupesa kivuvu: Komisiyo ya Lancet ya 2024 tubaka nde na bansi yankaka ya kimvwama, bonso États-Unis mpi Royaume-Uni, ndambu ya bambuta yina ke na maladi ma kibanza me kulumuka. Bansoniki ke banza nde yo lenda vanda sambu na malongi ya mbote, lusansu ya mbote ya mavimpi mpi kukonda mbeba ya mingi na minsola ya menga na ntangu ya luzingu, mutindu [mvutukilu ya University College London sambu na lapolo yina](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) ke monisa.
 
-## What did the 2024 Lancet Commission find?
+## Komisiyo ya Lancet ya 2024 monaka inki?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Komisiyo ya Lancet sambu na kuvukisa, kukota kati mpi kusansa maladi ma kibanza kele kimvuka ya bansosa 27 ya maladi ma kibanza yina ke talaka diaka banzengolo ya bansosa konso bamvula fioti. Lapolo na yo ya 2024 tangaka **bima 14 ya kigonsa** yina lenda soba, mpi tendulaka nde yo yonso ke pesaka **pene-pene ya ndambu (pene-pene ya 45%) ya bantu yina ke bakaka maladi ma kibanza na ntoto ya mvimba**. Na mambu ya bansoniki, bantu yai *na mabanza* lendaka vukisa to kulwisa maladi ma kibanza kana bigonsa yina katukaka
+([lapolo ya Komisiyo ya Lancet ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Bima 14 yango, na kutadila ntangu ya luzingu yina kimbangi kele ngolo mingi:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Ntangu ya kileke:** kukonda malongi mingi.
+- **Ntangu ya kati ya luzingu (pene-pene bamvula 40 ti 65):** kukonda kuwa mbote, LDL ya mingi (kolesterolo ya “mbi”), kukonda kiamakala ya ntangu mingi, mpasi ya ntu, kukonda kusala bangalasisi, maladi ya sukali, kunwa makaya, tension ya mingi, kilo ya mingi, mpi kunwa malafu mingi.
+- **Ntangu ya bununu:** kuvanda nge mosi, mupepe ya mbi ya kisika, mpi mambu ya kumona yina bo ke sansaka ve.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Bima zole ya mpa yina bo yikaka na 2024 vandaka LDL ya mingi mpi mambu ya kumona yina bo ke sansaka ve. Bima yina ke na kuwakana ti ndambu ya kuluta nene ya bantu vandaka kukonda kuwa mbote mpi LDL ya mingi (pene-pene ya 7% konso mosi), na nima malongi ya fioti mpi kuvanda nge mosi (pene-pene ya 5% konso mosi).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Lutiti na beto ya bima ya kigonsa](/brain-health/risk-factors/) ke tendula bima 14 yonso na tablɔ, ti mambu yina bansosa me mona mpi mambu yina nge lenda sala.
 
-### What the 45% figure does not mean
+### Ntalu ya 45% ke tendula ve inki
 
-It is easy to misread this number, so it helps to be precise:
+Yo ke pete na kutanga ntalu yai na mutindu ya mbi, yo yina yo me fwana kutuba yo pwelele:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Yo kele lutangu ya kimvuka.** Yo ke tubila bantu yina ke bakaka maladi ma kibanza na ntoto ya mvimba, kansi ve dibaku na nge to dibaku ya mama to tata na nge.
+- **Yo ke tadila nde kima mosi ke pesaka kinkaka.** Bansoniki ke tuba nde bo kotisaka kaka bima ya kigonsa yina ke na kimbangi ya ngolo, kansi nde bankuikilu yankaka lenda vanda ndambu kaka. Mu mbandu, kukonda kiamakala ya ntangu mingi na bununu lenda vanda ntangu yankaka kidimbu ya luyantiku ya maladi ma kibanza, kansi ve ntina na yo.
+- **Yo ke sila kima ve sambu na muntu mosi.** Mvutukilu ya UCL ke tuba nde kukulumusa kigonsa ke salama na nivo ya kimvuka ya bantu mpi ke sila ve nde muntu mosi ta tina maladi ma kibanza.
+- **Ndambu ya nkaka ke tenduka ve na bima yai.** Bununu, bima ya dibuta mpi bantina yina bansosa me bakisa ntete ve ke tadila ndambu yina me bikala.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Luswaswanu kele inki na kati ya “kukulumusa kigonsa” mpi “kuvukisa”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Kukulumusa kigonsa** ke tendula kukulumusa badibaku. Kana kimvuka ya nene ya bantu ke kulumusa tension na bo, bantu ya fioti na kati na bo lenda baka maladi ma kibanza na bamvula mingi kuluta mutindu yo zolaka vanda. Bantu yankaka na kimvuka yina ta baka yo kaka.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Kuvukisa** ke tendula kukanga kima mosi sambu yo kusalama ve ata moke. Sambu na maladi ma kibanza, bansosa lenda sila yo ve sambu na muntu mosi bubu yai.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Bansosa ke tubila mpi **kulwisa**. Komisiyo ya Lancet ke monisa kimbangi ya mpa nde kukulumusa kigonsa lenda pusila ntangu yina maladi ma kibanza ke yantika mpi kufiotuna ntangu yina muntu ke zinga na mavimpi ya mbi. Ata kulwisa ya bamvula fioti lenda vanda mfunu mingi sambu na muntu mpi dibuta na yandi.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Na site yai, beto ke sadila “kukulumusa kigonsa” mpi “ke na kuwakana ti” na luzolo. Kana nge mona kima, nkisi ya kubakisa to programe yina ke sila “kuvukisa maladi ya Alzheimer”, vanda mayele. NIA ke lomba kutubila ti munganga na ntwala ya kumeka nkisi to lusansu yonso yina ke sila kuvukisa maladi ya Alzheimer, sambu bima ya mutindu yina lenda vanda kigonsa, kufukisa mbongo na mpamba, to zole yonso.
 
-## What have large trials found?
+## Banzengolo ya nene ya bansosa monaka inki?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Balongukulu yina ke talaka mambu yina ke salama na bantu na ntangu (observational studies) lenda monisa bankuikilu. Banzengolo ya randomized, kisika bantu ke ponama na programe to na kimvuka ya kufwanisa na dibaku, kele nzengolo ya ngolo mingi. Tala mambu yina banzengolo yankaka ya kuluta kuzabana monaka.
 
-### FINGER (Finland)
+### FINGER (Finlande)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Nzekolo ya FINGER bakisaka bambuta 1 260 ya bamvula 60 ti 77 yina vandaka na kigonsa ya kuluta ya kubaka maladi ma kibanza. Ndambu bakaka programe ya bamvula zole ya malongi ya madia, bangalasisi, bansaka ya kibanza na ordinatere mpi kutala mavimpi ya ntima mpi ya minsola ya menga; ndambu ya nkaka bakaka malongi ya mavimpi ya kimvuka. Kimvuka ya programe salaka fioti mbote na bameka ya kuyindula, luswaswanu ya fioti kansi ya mfunu na banzengolo
+([nzekolo ya FINGER na The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Nzekolo metaka mbutu ya bameka, kansi ve kuzaba maladi ma kibanza.
 
-### US POINTER (United States)
+### US POINTER (États-Unis)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER bakisaka bambuta 2 111 ya bamvula 60 ti 79 yina vandaka kusala bangalasisi ve mingi, vandaka na madia ya mbi fioti mpi vandaka na bigonsa yankaka. Bimvuka zole yonso pesamaka kikesa ya kusala bangalasisi mingi ya nitu mpi ya kibanza, kudia mbote, kuvanda ti bantu mpi kutala mavimpi ya ntima. Kimvuka mosi bakaka programe ya kuyidika ti balongi; kimvuka ya nkaka sadilaka yo na mpila na yo mosi. Na bamvula zole, mbutu ya bameka ya kuyindula tomaka na **bimvuka zole yonso**, mpi fioti mingi na kimvuka ya programe
+([nzekolo ya US POINTER na JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Bansoniki ke tuba nde kulanda mingi me fwana sambu na kuzaba kana luswaswanu yina ke na mfunu na luzingu ya konso kilumbu. Sambu kimvuka mosi ya “kusala kima ve” vandaka ve, nzekolo lenda tuba ve kana programe mosi sadisaka mingi to fioti kana bo fwanisa yo ti kukonda kusoba kima.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (tension ya menga)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND longukaka bambuta 9 361 ya États-Unis ya bamvula 50 to kuluta yina vandaka na tension ya mingi. Bo ponamaka sambu na kukuka na ntalu ya tension ya nsi (ntalu ya ntete na nsi ya 120) to ntalu ya mbala na mbala (na nsi ya 140). Ntalu ya nsi kulumusaka mingi **kukonda kuyindula ya fioti** (mild cognitive impairment), kitambi ya mambu ya kibanza mpi ya kuyindula yina lenda kwisa na ntwala ya maladi ma kibanza. Sambu na **maladi ma kibanza yina bo bakisaka**, bantu ya fioti vandaka na kimvuka ya ntalu ya nsi, kansi luswaswanu vandaka ve ya nene na banzengolo. Nzekolo yimanaka na ntwala ya ntangu mpi vandaka na bantu ya fioti ya maladi ma kibanza kuluta mutindu bo vandaka kutula kivuvu, yo yina yo lendaka vanda ya fioti mingi sambu na kupesa mvutu na ngiufula yina
+([SPRINT MIND na JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Mambu yina bataluzi ya bansosa ke yika
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Ntaluzi ya Cochrane ya 2021 vukisaka banzengolo uvwa ya nene ya baprogame yina ke tadila bigonsa mingi na mbala mosi, ti bantu kuluta 18 000. Yo monaka lusadisu ya fioti na bameka ya kuyindula, kansi **luswaswanu ya pwelele ve na ntalu ya bantu yina bakaka maladi ma kibanza** na banzengolo zole yina metaka yo
+([ntaluzi ya Cochrane ya bansiku ya bisika mingi](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Ntaluzi ya 2017 ya National Academies of Sciences, Engineering, and Medicine, yina NIA pesaka na bunkufi, monaka kimbangi ya “kupesa kivuvu kansi ya kukonda kumanisa” sambu na banzila tatu: kuyidika tension ya mingi, kuyika bangalasisi ya nitu, mpi bansaka ya kibanza.
 
-## Does it matter when you start?
+## Keti yo ke na mfunu na ntangu yina nge ke yantika?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Ndongisila ya Komisiyo ya Lancet kele ya kukulumusa bigonsa ntete mingi mpi kubumba yo nsi ntangu ya nda mingi: “ntete mingi, mbote mingi” mpi “nda mingi, mbote mingi”. Yo ke tuba mpi nde yo ke vandaka ntangu yonso ve ntete mingi to ntangu yonso ve na nima mingi sambu na kukulumusa kigonsa. Kimbangi mingi ke tubila ntangu ya kati ya luzingu, pene-pene bamvula 40 ti 65, kansi bima yankaka, bonso mambu ya kumona mpi kuvanda nge mosi, kele bigonsa ya ntangu ya bununu yina kusala kima lenda vanda kaka na ntina.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Lapolo ke tuba nde bubu yai kimbangi ya ngolo mingi me monana nde kuvanda ntangu ya nda mingi na kigonsa mosi ke pesaka bupusi ya kuluta nene. Mu mbandu, maladi ya sukali yina ke yantika na ntangu ya kati ya luzingu ke monana bonso yo ke na mfunu mingi kuluta maladi ya sukali yina ke yantika na nima.
 
-## Is dementia risk the same for everyone?
+## Keti kigonsa ya maladi ma kibanza kele mutindu mosi sambu na bantu yonso?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ve. Komisiyo monaka nde bantu yina ke zingaka na bansi ya kimvwama ya fioti to ya kati, bantu ya bimvuka ya fioti mpi bantu yina ke na mbongo ya fioti mbala mingi ke nataka bigonsa yai mingi, yo yina maladi ma kibanza ke yantikaka mbala mingi na bamvula ya fioti. Bigonsa mingi ke na kuwakana ti mambu yina bantu ponaka ve, bonso mutindu ya malongi yina bo bakaka ntangu bo vandaka bana, mupepe ya kisika yina bo ke zingaka, mpi kana madia ya mbote ke vuandaka na ntalu ya mbote mpi pene-pene.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Yo yina bandongisila ya Komisiyo ke talaka baluyalu ya leta mutindu mosi bonso bantu mosi-mosi: malongi ya mbote sambu na bana yonso, mupepe ya bule, matambi ya kukulumusa kunwa makaya, sukali mpi mungwa ya fioti na madia yina bo ke tekaka na bamagazini mpi barestora, mpi bima ya kusadisa kuwa sambu na konso muntu yina ke na mfunu na yo. Kikesa ya muntu mosi kele na mfunu, kansi nsi yina bantu ke zingaka kele mpi na mfunu. Yai kele diaka ntina mosi ya kukonda kufunda muntu sambu na maladi yina yandi me baka.
 
-## What are the honest limits of this research?
+## Bandilu ya masonga ya bansosa yai kele inki?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Maladi ma kibanza ke baka bamvula mingi sambu na kuyela**, kansi banzengolo mingi ya bansosa ke salama bamvula zole ti tanu. Kusosa maladi na yo mosi, kansi ve mbutu ya bameka kaka, ke lomba balongukulu ya nda mingi mpi ya nene mingi.
+- **Banzengolo mingi ke metaka bameka ya kuyindula.** Kutoma ya fioti na meka mosi ke tendula ve ntangu yonso nde bantu ya fioti ta baka maladi ma kibanza to nde luzingu ya konso kilumbu ta vanda pete.
+- **Bantu yina ke pesaka luzolo na banzengolo** mbala mingi ke vandaka na mavimpi ya mbote mpi malongi ya mingi kuluta bantu ya kimvuka. Komisiyo ya Lancet ke tuba nde kimbangi mingi ke katukaka kaka na bansi ya kimvwama mpi nde bimvuka ya fioti ke monanaka ve mingi.
+- **Bankuikilu yankaka ke tambulaka na zole zole.** Kuvanda na kusala bangalasisi ya fioti to kuvanda ti bantu ya fioti lenda vanda mbuma ya luyantiku ya maladi ma kibanza, kansi ve ntina na yo kaka.
+- **Banzengolo ya madia pesaka ntete ve mbutu ya mbote mingi.** Nzekolo ya bamvula tatu ya madia ya MIND monisaka ve luswaswanu ya nene na kuyindula kana bo fwanisa yo ti madia ya kulandila. Tala [lutiti na beto ya madia](/brain-health/diet/).
+- **Bansaka ya kibanza me monana ve nde yo ke vukisaka maladi ma kibanza.** Tala lutiti na beto ya [bansaka ya kibanza mpi maladi ma kibanza](/brain-health/brain-games/).
+- **Kukonda kudia na ntangu mingi (fasting) kele na kimbangi ya fioti mingi na bantu**, mpi yo lenda vanda kigonsa sambu na bambuta. Tala [lutiti na beto ya kukonda kudia na ntangu mingi](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Kana muntu salaka mambu yonso “mbote”, sambu na nki yandi bakaka kaka maladi ma kibanza?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Sambu maladi ma kibanza kele ve kaka mbutu ya bapona ya bantu. NIA ke tuba nde
+[bununu kele kima ya kuluta nene yina me zabana ya kigonsa sambu na maladi ya Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+mpi muntu mosi ve lenda soba yo. Bima ya dibuta ke salaka kitini. Mpi bansosa me bakisa ntete ve pwelele mambu yonso yina ke pesaka maladi ya Alzheimer na bantu mingi. Ata kana bima yonso 14 ya kigonsa katukaka, lutangu ya Komisiyo ya Lancet na yo mosi ke bikala ti kuluta ndambu ya bantu yina bo me tendula ve.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Yo yina kana nge ke sansaka muntu mosi yina vandaka kusala bangalasisi, kudia mbote, kunwa makaya ve mpi yandi bakaka kaka maladi ma kibanza, kima mosi ya mbi salama ve na ndambu na yandi, to na ndambu na nge. Kana nge mosi ke zinga ti maladi ma kibanza, yo kele ve foti na nge. Funda ke vandaka mingi na kati ya mabuta, kansi yo me fwana ve. Mambu ya kuluta mfunu bubu yai kele kikesa ya nitu, kuwakana mpi bilumbu ya mbote, mpi [mabanza na beto ya bisalu ya kusala](/activities/ideas/) ti [lutiti na beto sambu na kudiyidika ya muntu yina ke sansaka](/caregiving/caregiver-self-care/) kele bisika ya mbote ya kuyantika.
 
-## What steps can you talk over with a doctor?
+## Matambi ya nki nge lenda tubila ti munganga?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Yai kele bisika yina bansosa ke talaka mingi. Yo me fwana kutuba yo na ntangu ya kukwenda na munganga sambu mingi na yo ke sadisaka mavimpi ya ntima, kiamakala mpi kikalulu ya kudiyidika, ata bupusi na yo na maladi ma kibanza kele nki.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Tension ya menga.** Yula ntalu na nge kele nki mpi ntalu ya nki me fwana sambu na nge. Komisiyo ya Lancet ke pesa ngindu ya kukuka na ntalu ya ntete ya 130 to na nsi banda pene-pene bamvula 40, kansi ntalu ya mbote sambu na mbuta ke tadila mavimpi na yandi yonso.
+2. **Kuwa.** Yula meka ya kuwa, mpi kana bima ya kusadisa kuwa lenda sadisa. [Lutiti na beto ya kuwa](/brain-health/hearing/) ke tendula bansosa.
+3. **Kumona.** Sala bameka ya disu mbala na mbala mpi yula kana mambu bonso katarakte lenda sansama.
+4. **Kolesterolo.** Yula kana bo fwete tala LDL kolesterolo na nge mpi kana kima mosi fwete soba.
+5. **Sukali na menga.** Kana nge ke na maladi ya sukali, yula mutindu ya kuyidika yo na mutindu ya mbote.
+6. **Kiamakala.** Kukonda kiamakala ya ntangu mingi kele dikambu ya mingi bantu mpi yo lenda sansama. Songila munganga na nge kana nge ke wa mpasi to nge me zimbisa kikesa ya kusala mambu na kuluta ya baposoba zole.
+7. **Makaya mpi malafu.** Yula lusadisu sambu na kuyambula makaya mpi sambu na bandilu ya mbote ya kunwa malafu.
+8. **Kutambula mpi kusala bangalasisi.** Yula mutindu ya bangalasisi ya nki kele ya mbote sambu na nge. [Lutiti na beto ya bangalasisi](/brain-health/exercise/) kele ti mabanza.
+9. **Kutanina ntu.** Lwata kask sambu na kutambula na velo mpi bansaka ya kunwana, mpi yula mutindu ya kuvukisa kubua.
+10. **Kuvanda na kuwakana ti bantu.** Ntangu ya kuvanda ti bantu yankaka kele kitini ya luzingu ya mbote. Tala lutiti na beto ya [kuwakana ti bantu](/brain-health/social-connection/), mpi [mpongi](/brain-health/sleep/) mpi.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Na ntwala ya kusoba bankisi, madia, bankisi ya kubakisa, kukonda kudia na ntangu mingi to bangalasisi, tubila ntete ti munganga na nge, mingi-mingi kana nge ke na maladi ya ntima, maladi ya sukali, nge bwaka ntete, to nge ke zinga dezia ti maladi ma kibanza.
 
-## Talk with a doctor
+## Tubila ti munganga
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Kana nge ke mona bansoba ya kibanza to ya kuyindula yina ke kudisa nge kiyunga, na nge mosi to na muntu yankaka, baka rendez-vous. NIA ke tuba nde
+[mambu ya kibanza lenda vanda na bantina yankaka](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+bonso mambu ya mbi ya bankisi, mambu ya tiroide, kukonda kiamakala ya ntangu mingi to kukonda vitamine B12, mpi nde mambu yankaka ya mutindu yina ke manaka kana ntina na yo me sansama. [Lutiti na beto ya bidimbu ya lukebisu](/brain-health/warning-signs/) ke tendula mambu yina nge fwete tala.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Sosa lusadisu ya nswalu** sambu na bansoba yina ke kwisa na mbala mosi: kuvwanda ti kisakasaka na mbala mosi, kulemba to kufwa ya ndambu mosi ya nitu, mpasi ya kutuba, to mpasi ya nene ya ntu lenda vanda bidimbu ya AVC to kinkaka ya kigonsa ya nswalu. Boka 112 to nimero ya nsadisa ya nswalu na kisika yina nge kele.
 
-## Where Golden Moments fits
+## Kisika ya Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments ke salaka bisalu ya pete ya kusala na kintwadi, bonso
+[bakarte ya masolo](/games/conversation-cards/),
+[bingo ya bifwanisu](/games/picture-bingo/) mpi
+[kupema na pima sambu na kukonda ngolo](/games/calm-breathing/). Yo kele sambu na kiese mpi ntangu ya kuvanda na kintwadi. Yo kele ve lusansu, mpi yo ke vukisaka ve to ke lwisaka ve maladi ma kibanza.

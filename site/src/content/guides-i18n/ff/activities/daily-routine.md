@@ -1,32 +1,30 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Ñalawol newnaandu ngam neɗɗo waasɗo hakkille"
+seoTitle: "Ñalawol waasde hakkille: Temre ñalawol"
+description: "Temre ñalawol newnaandu ngam neɗɗo waasɗo hakkille, e ñamde, golle e fowru, kadi hol no mbaɗirtaa ñalawol maaɗa e waylude nde ñalawol caɗii."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Ñalawol newnaandu ina wallita jippugol, ñamde, toppitagol hoore e danndugol e saa'iiji fotɗi. 
+  Foti waɗe golle mawɗe nde neɗɗo ɓuri famɗude waawde, potɗina golle e fowru, naftira maayo e diidol ñalnde kala, 
+  kadi waylu ñalawol ngol nde ñalawol ina caɗa.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Saa'iiji fotɗi ngam jippugol, ñamde, toppitagol e danndugol ina addana ñalawol nanondiral."
+  - "Waɗu golle mawɗe e saa'i neɗɗo ɓuri waawde, ko heewi ko e subaka."
+  - "Hoto heɓtin ñalawol e minti kala. Fowru e jam ina jeyaa e ñalawol."
+  - "Maayo, diidol ñalnde kala e haɗugo daayke mawɗe e jibinol faya e hiirde maa haa juulnorde mayna wallita fowru jam e neɗɗo waasɗo hakkille."
+  - "Ñalawol ko faandaare, wonaa kaɗol. Waawi waylede, ustude walla yaltinde e ñalɗe caɗiiɗe."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Hol ko wallata ñalawol jewtugol ngam neɗɗo waasɗo hakkille?"
+    a: "Ñalawol nanondiral ina famɗina miijooji e caɗeele, ɗum noon neɗɗo waasɗo hakkille heewi nanugol hoolaare. Ngam Ɓe Alzheimer's Association, ñalawol faandaandiɗo ina wallita ustude saa'i ngam miijagol ko mbaɗata kadi ɓeydude saa'i ngam golle potiɗe e neɗɗo. Kadi ina wallita moɗo huutoraaɓe faamnude ñalawol mum en."
+  - q: "Hol ñalawol moƴƴo ngam neɗɗo waasɗo hakkille?"
+    a: "Alaa eɗen jogii ñalawol gooto potɗo. Ñalawol moƴƴo ina jogii jippugol, ñamde e danndugol e saa'iiji fotɗi, ina toɗɗa toppitagol hoore e golle mawɗe e saa'i neɗɗo ɓuri waawde, ina naftira maayo walla yeeso window, kadi ina acca boowal ngam fowru. Foti mbaɗiree e no neɗɗo ngoni ko adii."
+  - q: "Foti neɗɗo waasɗo hakkille daayna e nder ñalawol?"
+    a: "Fowru laaɓtuɗo waawi wallude, ko heewi ko caggal ñalngu. Nde National Institute on Aging wi'i, foti haɗa daayke mawɗe e daaynugol faya e hiirde, sabu daaynugol ɓurngol walla janngol moƴƴaani waawi ɓeydude neɗɗo haaju fowru e hiirde. So daaynugol ina waɗi caɗeele mawɗe, haalan lawol doktoor mum."
+  - q: "Ko waɗata so neɗɗo aɗa yeddu ɗum e ñalawol?"
+    a: "Accu ɗum e oo sahaa kadi eto kadi ndee sahaa walla e laawol goɗngol. Yeddugol waawi firde neɗɗo ko nawnataa, ko heewi ko nawnataa, ko mettaa, walla kadi alaa ko o heblaani. Ñalawol ngol ko ngam newnude ñalawol, wonaa ngam kaɗol ɗum, woodu newnaandu ngam waylude ngol."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +43,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Ñalawol newnaandu ina addana ñalawol nanondiral: jippugol, ñamde, golle seeɗa, fowru e danndugol e saa'iiji fotɗi. Ngal ina famɗina miijooji e caɗeele, kadi ina hokkude faandaare nde kañum wala ko mbaɗataa. Temre ndee ko faandaare, wonaa kaɗol. Naftira ɗum ko fuɗɗorde, caggal ɗuum waylu ngal e no neɗɗo ngonɗo e maaɗa foti.
 
-## Why does a daily routine help?
+## Hol ko wallata ñalawol jewtugol?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ñalawol nanondiral ina wallita sabu nanondirgal ina weeɓi rewde ɓurngol nanondirgal kesal. Ngam [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan), ñalawol faandaandiɗo ina wallita ustude saa'i ngam miijagol ko mbaɗata kadi ɓeydude saa'i ngam golle potiɗe, ina wi'a kadi saa'iiji fotɗi ngam jippugol e danndugol waawi wallude e caɗeele daaynugol e neɗɗo haajugol fowru e hiirde. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ina wasiya waɗugol janjugol, yaltinagol e ñamde e saa'iiji fotɗi e nder suudu e jam, kadi [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ina wasiya reftoɗe e ñalawol keewɗo.
 
-## A sample gentle day
+## Temre ñalawol newnaandu
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Saa'iiji ɗii ko famre tan. Waylu ñalawol ngal fof ko adii walla caggal e no neɗɗo ngoni e jam mum.
 
-| Time | What happens | Ideas | On a harder day |
+| Saa'i | Ko waɗata | Miijooji | Nde ñalawol ina caɗa |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 subaka | Jippugol, janjugol, yaltinagol | Waɗu e laawol gooto ñalnde kala; resu pasɗe e laawol njogorɗe mum en | Newnu toppitagol; koyɗol hesol tan ina waawi yontere |
+| 8:45 subaka | Subaka | Kafe e deftere taro, walla radio | Ñamdir e jam, alaa ɗaɓɓitanɗe haalanirde |
+| 9:30 subaka | Golle mawɗe | Fulɗe, defugol, galle, yaadu seeɗa walla yahugol | Ustu seeɗa, walla accu ɗum ndaara ko aɗa waɗa |
+| 10:30 subaka | Jam | Gaaci, deftere natal, walla jooɗorgol yeeso window | Fowru e jiyorde muusnde |
+| 11:00 subaka | Wallita e ñalngu | Soofde leɗɗe, resude haɓɓorde | Aan aɗa defa, o wallita maa tan |
+| 12:00 kesa | Ñalngu e leɓtinagol | Leɓtinde haɓɓorde, sortude seeɗa podɗe | Yaltinde golle ɗee |
+| 1:00 kesa | Fowru seeɗa | Koyɗe e dow, gaaci newɗi | Eɓɓo ɗum |
+| 2:00 kesa | Yeeso walla diidol | Yahugol, jooɗorgol e bernde, ndiyan galle, fukorgol baloon | Jooɗo yeeso window maayo |
+| 3:00 kesa | Jokkondiral walla art | Yillo, noddirgol, [koɗɗe natal](/games/picture-pairs/), bindugol, karti | Ndiyan e lekkere e nder kawrital |
+| 4:30 kesa | Jokkude jam | Ɓamtude kurkuraaji, huɓɓude leydi, golle newɗe hono fulɗe miskine | Gaaci nanondiral, ɗoŋki seeɗa |
+| 5:30 kesa | Hiiɗnde | Wallita e huɓɓugol walla resugol haɓɓorde | Ñamde nanondiral, newɗe |
+| 6:30 kesa | Kewol e wakkati hiirde | Caggal ñamde mbiɗa, karti, jeertinol potiɗol, walla juɓɓugol junngo | Jokkondiral e jam |
+| 8:00 jemma | Ñalawol danndugol | Janjugol walla foɗɗugol, koompi, gaaci newɗi, ɗoŋki seeɗa | Ustu fof seeɗa; jam ko adii |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Temre ndee ina rewta e ñalawol Alzheimer’s Association ngam jungo adii e hakkunde, ko jippugol hoore, subaka, golle, yahugol, gaaci, fowru, jokkondiral e kewol haa hiirde, njaltinagol e heblaade danndugol.
 
-## How do you build your own routine?
+## Hol no mbaɗirtaa ñalawol maaɗa?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Fuɗɗo e no neɗɗo ngoni ko adii, wonaa e tabel. Alzheimer’s Association ina wasiya miijagol ko ɗee ko adii heblaade ñalawol:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Ko o yiɗi, ko o yidiɗo, ko o waawi e ko o himo.**
+- **No o heewi huutoraade ñalawol mum.** So ko jippotooɗo subaka e adii o ina yahata e rawandu mum, foti yahde tawo subaka. So ko jemmaajo, ina waawi waɗanike subaka 8:00.
+- **Saa'i o ɓuri waawde.** Toɗɗa janjugol, yaadu e golle mawɗe e ɗoo saa'i.
+- **Waktu fotɗo** ngam ñamde, janjugol e yaltinagol, ngam alaa ko ñaawraa.
+- **Saa'iiji fotɗi ngam jippugol e danndugol.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Ɗeen ngalu ina wasiya naftoragol golle suudu, ñamde, toppitagol hoore, golle art, diidol, jokkondiral, golle diine e sahaaaji dow rowrowde, hono oɗon yillaade.
 
-### Try it for a week, then adjust
+### Eto ɗum e yontere, caggal ɗuum waylu
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Winndu ko seeɗa ñalnde kala. Alzheimer’s Association ina wasiya naamnude ko golle mbaɗɗe no moƴƴiri e hol ko sabab mum, so ko ɓuri wonde ko ina heewi walla ko famɗi, e so faale kesal ina poti walla ina addi hulde. Moƴƴin ko moƴƴani, waylu ko moƴƴaani.
 
-### Make it visible
+### Waɗu ɗum yiyeteende
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+So neɗɗo ina waawi tarde, whiteboard walla kartal mawngal e deftere potɗo ina waawi wallude. Waɗu ɗum famɗo: "Subaka. Yahugol e Saara. Ñalngu. Fowru." So neɗɗo ina yiɗaɗo anndude ko yeeso, Family Caregiver Alliance ina wasiya haalanagol faale tan nde o foti waɗude ngam alaa hulde.
 
-## How to adapt the routine
+## Hol no waylirtaa ñalawol
 
-### Leave room to breathe
+### Accu boowal
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Hoto heɓtin ñalawol e minti kala. Alzheimer’s Association ina teska neɗɗo ina haaju potɗinal golle e fowru, kadi ina waawi haaju jaawgol seeɗa. So neɗɗo ina jooɗa reedu, ko famɗina, walla ina joomirta, waylu golle walla accu fowru.
 
-### Protect the late afternoon
+### Hisnu wakkati caggal ñalngu
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Keewɗo neɗɗo ina ɓeydude joomirta nde maayo ina waɗa. NIA ina wasiya yahugol e maayo walla yeeso window ñalnde kala, diidol ñalnde kala alaa e duuɓi, haɗugo kafe e alkoolu e hiirde, kadi haɗugo daayke mawɗe e hiirde. So en njiyata ina wallita, ina waawi uddude kurkuraaji e huɓɓude leydi ko adii wujjude maayo. Yiy [neɗɗo haajugol fowru e hiirde](/caregiving/late-day-restlessness/) e [daaynugol](/brain-health/sleep/).
 
-### Change it as needs change
+### Waylu ngal no yiɗi ko sakkitiɗo
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Jungo adii:** mbaɗa ñalawol e kawrital. Neɗɗo waawi yiɗde ñalawol winndaaɗo o hoola mum.
+- **Jungo hakkunde:** aan aɗa ardata ɓurɗo. Golle seeɗe, fowru ɓurɗo e golle nanondiral keewɗe; yiy [gollee e jungo hakkunde](/activities/middle-stage/).
+- **Jungo sakkitiiɗo:** ñalawol ina toɗɗa jam, ñamde e toppitagol, e sahaaaji seeɗi e nanondirgal hono gaaci walla juɓɓugol junngo hakkunde; yiy [gollee e jungo sakkitiiɗo](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Waylu golle, wonaa kaɓirgol
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Moƴƴin ñamde, fowru e danndugol e nanondiral, kadi naftir golle hakkunde. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ina wasiya eto golle goɗɗe ñalɗe goɗɗe ngam ɓeydude welde. Waawi defa ayɓe, galle walla ndaara natal e ñalɗe ceertuɗe. [Miijooji golle 101](/activities/ideas/) e [golle suudu](/activities/household-tasks/) waawi naftirde e ɗee boowal.
 
-## When the day goes sideways
+## Nde ñalawol ina bonna
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Keewɗo ñalɗe ñalawol ngal fotataa rewde. Nawnugol, jemma bonɗo, yillugol doktoor walla waylugol asam waawi bonnude fof. Yaltin e ñalawol ngal, moƴƴin ko jungo adii (ñamde, ndiyan, fowru, jam) kadi eto kadi jaango. So neɗɗo ina yeddu ko, yiy [nde o wi'i alaa](/caregiving/when-they-say-no/). Jaawgol ngurndan newnaandu e kawrital, hono [ngurndan jam](/games/calm-breathing/), waawi wallude onon fof ngam fuɗɗitaade.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Kadi ñalawol maaɗa ina foti. Waɗu sahaa ngam maaɗa, naamno famɗo walla sarwiis wallitaade ngam heɓde sahaa fof. Yiy [moƴƴugol hoore mo wallataa](/caregiving/caregiver-self-care/).

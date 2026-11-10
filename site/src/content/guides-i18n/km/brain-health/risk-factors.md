@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "កត្តាហានិភ័យនៃជំងឺវង្វេង៖ ១៤ កត្តាដែល Lancet បានរៀបរាប់"
+seoTitle: "កត្តាហានិភ័យជំងឺវង្វេង៖ ១៤ កត្តា Lancet"
+description: "កត្តាហានិភ័យជំងឺវង្វេង ១៤ យ៉ាងដែលអាចផ្លាស់ប្តូរបាន តាមគណៈកម្មការ Lancet ឆ្នាំ ២០២៤ តាមដំណាក់កាលជីវិត និងអ្វីដែលគួរពិគ្រោះជាមួយវេជ្ជបណ្ឌិត។"
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  គណៈកម្មការ Lancet ឆ្នាំ ២០២៤ បានរៀបរាប់កត្តាហានិភ័យជំងឺវង្វេងចំនួន ១៤ ដែលអាចផ្លាស់ប្តូរបាន៖
+  ការសិក្សាតិច បញ្ហាការស្តាប់ កូលេស្តេរុល LDL ខ្ពស់ ជំងឺធ្លាក់ទឹកចិត្ត របួសក្បាល
+  ការមិនសកម្មភាពរាងកាយ ជំងឺទឹកនោមផ្អែម ការជក់បារី សម្ពាធឈាមខ្ពស់ ជំងឺធាត់
+  ការផឹកស្រាហួសកម្រិត ការឯកោពីសង្គម ការបំពុលខ្យល់ និងបញ្ហាការមើលឃើញដែលមិនបានព្យាបាល។
+  រួមគ្នា កត្តាទាំងនេះមានទំនាក់ទំនងជាមួយប្រហែល ៤៥% នៃករណីជំងឺវង្វេងទូទាំងពិភពលោក
+  ដោយមិនមានការធានាសម្រាប់មនុស្សម្នាក់ៗឡើយ។
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "កត្តាទាំង ១៤ នេះលាតសន្ធឹងពេញមួយជីវិត៖ មួយក្នុងវ័យកុមារភាព ដប់ក្នុងវ័យពាក់កណ្តាល និងបីក្នុងវ័យចំណាស់។"
+  - "បញ្ហាការស្តាប់ និងកូលេស្តេរុល LDL ខ្ពស់ក្នុងវ័យពាក់កណ្តាល នីមួយៗមានទំនាក់ទំនងជាមួយប្រហែល ៧% នៃករណីជំងឺវង្វេងទូទាំងពិភពលោក ដែលជាចំណែកធំបំផុតក្នុងចំណោមកត្តានីមួយៗ។"
+  - "ភាគរយទាំងនេះគឺជាការប៉ាន់ស្មាននៅកម្រិតប្រជាជន ដែលសន្មតថាមានទំនាក់ទំនងបែបមូលហេតុនិងផល។ ទំនាក់ទំនងមួយចំនួនអាចមានតែផ្នែកខ្លះប៉ុណ្ណោះ។"
+  - "អាយុ និងហ្សែន ដែលគ្មាននរណាម្នាក់អាចផ្លាស់ប្តូរបាន ក៏ជាកត្តាហានិភ័យសំខាន់ៗផងដែរ។ ការកាត់បន្ថយហានិភ័យទាំង ១៤ មិនធានាថានរណាម្នាក់នឹងជៀសផុតពីជំងឺវង្វេងឡើយ។"
+  - "ជំហានភាគច្រើនដែលពាក់ព័ន្ធ ដូចជាការពិនិត្យសម្ពាធឈាម ការស្តាប់ និងការមើលឃើញ គឺល្អសម្រាប់សុខភាពផ្នែកផ្សេងទៀតផងដែរ ហើយគួរតែពិគ្រោះជាមួយវេជ្ជបណ្ឌិត។"
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "តើអ្វីខ្លះជាកត្តាហានិភ័យចំនួន ១៤ ដែលអាចផ្លាស់ប្តូរបានសម្រាប់ជំងឺវង្វេង?"
+    a: "គណៈកម្មការ Lancet ឆ្នាំ ២០២៤ បានរៀបរាប់ពីការសិក្សាតិច បញ្ហាការស្តាប់ កូលេស្តេរុល LDL ខ្ពស់ ជំងឺធ្លាក់ទឹកចិត្ត របួសខួរក្បាល ការមិនសកម្មភាពរាងកាយ ជំងឺទឹកនោមផ្អែម ការជក់បារី សម្ពាធឈាមខ្ពស់ ជំងឺធាត់ ការផឹកស្រាហួសកម្រិត ការឯកោពីសង្គម ការបំពុលខ្យល់ និងបញ្ហាការមើលឃើញដែលមិនបានព្យាបាល។ រួមគ្នា កត្តាទាំងនេះមានទំនាក់ទំនងជាមួយជិតពាក់កណ្តាលនៃករណីជំងឺវង្វេងទូទាំងពិភពលោក។"
+  - q: "តើកត្តាហានិភ័យមួយណាសំខាន់បំផុត?"
+    a: "នៅកម្រិតប្រជាជនពិភពលោក គណៈកម្មការបានប៉ាន់ស្មានថាបញ្ហាការស្តាប់ និងកូលេស្តេរុល LDL ខ្ពស់ក្នុងវ័យពាក់កណ្តាល នីមួយៗមានទំនាក់ទំនងជាមួយប្រហែល ៧% នៃករណី បន្ទាប់មកគឺការសិក្សាតិច និងការឯកោពីសង្គម ប្រហែល ៥% រៀងៗខ្លួន។ ចំពោះមនុស្សម្នាក់ៗ កត្តាណាដែលសំខាន់បំផុតអាស្រ័យលើសុខភាពផ្ទាល់ខ្លួន ដូច្នេះវេជ្ជបណ្ឌិតគឺជាអ្នកណែនាំល្អបំផុត។"
+  - q: "តើមានកត្តាហានិភ័យថ្មីពីរដែលបន្ថែមក្នុងឆ្នាំ ២០២៤ ដែរឬទេ?"
+    a: "បាទ/ចាស។ របាយការណ៍ឆ្នាំ ២០២៤ បានបន្ថែមកូលេស្តេរុល LDL (អាក្រក់) ខ្ពស់ក្នុងវ័យពាក់កណ្តាល និងបញ្ហាការមើលឃើញដែលមិនបានព្យាបាលក្នុងវ័យចំណាស់ ទៅលើកត្តាចំនួន ១២ ដែលបានរៀបរាប់ក្នុងឆ្នាំ ២០២០។ គណៈកម្មការបានភ្ជាប់កត្តាទាំងនេះជាមួយប្រហែល ៧% និង ២% នៃករណីរៀងៗខ្លួន។"
+  - q: "តើអាយុជាកត្តាហានិភ័យដែលអាចផ្លាស់ប្តូរបានដែរឬទេ?"
+    a: "ទេ។ អាយុគឺជាកត្តាហានិភ័យធំបំផុតដែលគេស្គាល់សម្រាប់ជំងឺ Alzheimer ហើយមិនអាចផ្លាស់ប្តូរបានទេ។ ហ្សែនក៏មានឥទ្ធិពលផងដែរ។ កត្តាទាំង ១៤ នៅក្នុងទំព័រនេះគឺជាកត្តាដែលការស្រាវជ្រាវបង្ហាញថាអាចផ្លាស់ប្តូរបាន។"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,98 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+កត្តាហានិភ័យ គឺជាអ្វីមួយដែលមានទំនាក់ទំនងជាមួយឱកាសខ្ពស់ក្នុងការកើតមានជំងឺណាមួយ។
+វាមិនមែនជាមូលហេតុក្នុងគ្រប់ករណីទាំងអស់នោះទេ ហើយការមានកត្តាហានិភ័យមួយក៏មិនមានន័យថាអ្នកនឹងកើតជំងឺវង្វេងដែរ។
+ទំព័រនេះរៀបរាប់កត្តាហានិភ័យជំងឺវង្វេងចំនួន ១៤ ដែលគណៈកម្មការ Lancet ឆ្នាំ ២០២៤ បញ្ជាក់ថាអាចផ្លាស់ប្តូរបាន
+អ្វីដែលការស្រាវជ្រាវបានភ្ជាប់ជាមួយកត្តាទាំងនោះ និងអ្វីដែលអ្នកអាចពិគ្រោះជាមួយវេជ្ជបណ្ឌិត។
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+សម្រាប់ទិដ្ឋភាពទូទៅ រួមទាំងអ្វីដែលការសាកល្បងធំៗបានរកឃើញ សូមចាប់ផ្តើមពី
+[តើអាចការពារជំងឺវង្វេងបានទេ? អ្វីដែលការស្រាវជ្រាវបង្ហាញ](/brain-health/can-dementia-be-prevented/)។
+នេះជាព័ត៌មានទូទៅ មិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ សូមមើល
+[ការបដិសេធផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/) របស់យើង។
 
-## What are the 14 risk factors for dementia?
+## តើអ្វីខ្លះជាកត្តាហានិភ័យចំនួន ១៤ សម្រាប់ជំងឺវង្វេង?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[គណៈកម្មការ Lancet ឆ្នាំ ២០២៤](https://doi.org/10.1016/S0140-6736(24)01296-0)
+ដែលសរសេរដោយអ្នកស្រាវជ្រាវជំងឺវង្វេងចំនួន ២៧ នាក់ បានប៉ាន់ស្មានថាកត្តាហានិភ័យចំនួន ១៤ ដែលអាចផ្លាស់ប្តូរបាន
+រួមគ្នាមានទំនាក់ទំនងជាមួយប្រហែល ៤៥% នៃករណីជំងឺវង្វេងទូទាំងពិភពលោក។
+ភាគរយសម្រាប់កត្តានីមួយៗខាងក្រោម គឺជាការប៉ាន់ស្មានរបស់គណៈកម្មការអំពីចំណែកនៃករណីទូទាំងពិភពលោកដែលមានទំនាក់ទំនងជាមួយវា ដោយបង្គត់ទៅជាចំនួនគត់។
+តួលេខទាំងនេះមានការត្រួតស៊ីគ្នា ពីព្រោះមនុស្សជាច្រើនមានហានិភ័យជាច្រើនក្នុងពេលតែមួយ ហើយនេះជាមូលហេតុដែលវាបូកសរុបបាន ៤៥% មិនមែនច្រើនជាងនេះទេ។
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| កត្តាហានិភ័យ | ដំណាក់កាលជីវិត | ចំណែកនៃករណី | អ្វីដែលការស្រាវជ្រាវភ្ជាប់ជាមួយ | អ្វីដែលអ្នកអាចធ្វើបាន |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| ការសិក្សាតិច | វ័យកុមារភាព | 5% | ការសិក្សាបានតិចឆ្នាំមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ ការរក្សាភាពសកម្មខាងផ្លូវចិត្តនៅវ័យពាក់កណ្តាលក៏ហាក់ដូចជាមានការការពារ សូម្បីតែសម្រាប់អ្នកដែលមានការសិក្សាតិចក៏ដោយ។ | បន្តរៀនសូត្រ និងធ្វើអ្វីៗដែលជំរុញផ្លូវចិត្តក្នុងវ័យណាក៏បាន៖ ការអាន ចំណង់ចំណូលចិត្ត ថ្នាក់រៀន ឬល្បែងជាមួយអ្នកដទៃ។ |
+| បញ្ហាការស្តាប់ | វ័យពាក់កណ្តាល | 7% | បញ្ហាការស្តាប់ដែលមិនបានព្យាបាលមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ ការសិក្សាដែលតាមដានមនុស្សជាបន្តបន្ទាប់បានភ្ជាប់ការប្រើឧបករណ៍ជំនួយការស្តាប់ជាមួយហានិភ័យទាបជាង។ | ពិនិត្យការស្តាប់របស់អ្នក។ សួរថាតើឧបករណ៍ជំនួយការស្តាប់អាចជួយបានដែរឬទេ ហើយប្រើវាបើវេជ្ជបណ្ឌិតណែនាំ។ ការពារត្រចៀកពីសំឡេងខ្លាំង។ |
+| កូលេស្តេរុល LDL ខ្ពស់ | វ័យពាក់កណ្តាល (ចាប់ពីប្រហែលអាយុ 40 ឆ្នាំ) | 7% | កូលេស្តេរុល LDL («អាក្រក់») ខ្ពស់ក្នុងវ័យពាក់កណ្តាលមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ ការសិក្សាសង្កេតបានភ្ជាប់ការប្រើថ្នាំ statin ជាមួយហានិភ័យទាបជាង ប៉ុន្តែការសាកល្បងក្នុងវ័យចំណាស់មិនបានបង្ហាញរឿងនេះទេ។ | សួរវេជ្ជបណ្ឌិតថាតើគួរពិនិត្យកូលេស្តេរុលរបស់អ្នកដែរឬទេ និងគួរធ្វើអ្វីបើចាំបាច់។ |
+| ជំងឺធ្លាក់ទឹកចិត្ត | វ័យពាក់កណ្តាល | 3% | ជំងឺធ្លាក់ទឹកចិត្តមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ នៅវ័យចំណាស់ ជំងឺធ្លាក់ទឹកចិត្តក៏អាចជាសញ្ញាដំបូងនៃជំងឺវង្វេងផងដែរ។ | ប្រាប់វេជ្ជបណ្ឌិតអំពីអារម្មណ៍ស្រងូតស្រងាត់ ឬបាត់បង់ចំណាប់អារម្មណ៍ដែលមានរយៈពេលលើសពីពីរសប្តាហ៍។ ជំងឺធ្លាក់ទឹកចិត្តអាចព្យាបាលបាន។ |
+| របួសខួរក្បាល | វ័យពាក់កណ្តាល | 3% | របួសក្បាលនៅវ័យណាក៏បាន និងពីមូលហេតុណាក៏ដោយ រួមទាំងកីឡាប៉ះទង្គិច មានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ | ពាក់មួកសុវត្ថិភាពពេលជិះកង់ ឬលេងកីឡាប៉ះទង្គិច។ សួរអំពីការការពារការដួល។ សម្រាក និងទៅពិនិត្យបន្ទាប់ពីរបួសក្បាល។ |
+| ការមិនសកម្មភាពរាងកាយ | វ័យពាក់កណ្តាល | 2% | មនុស្សដែលហាត់ប្រាណ និងលេងកីឡាមានឱកាសតិចជាងក្នុងការកើតជំងឺវង្វេង។ ភស្តុតាងពីការសាកល្បងនៅមានកម្រិត។ | សួរថាសកម្មភាពណាដែលសុវត្ថិភាពសម្រាប់អ្នក ហើយស្វែងរកអ្វីដែលអ្នកចូលចិត្តធ្វើ។ សូមមើល [មគ្គុទ្ទេសក៍អំពីការហាត់ប្រាណ](/brain-health/exercise/) របស់យើង។ |
+| ជំងឺទឹកនោមផ្អែម | វ័យពាក់កណ្តាល | 2% | ជំងឺទឹកនោមផ្អែម ជាពិសេសនៅពេលចាប់ផ្តើមក្នុងវ័យពាក់កណ្តាល ឬមានរយៈពេលយូរ មានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ | ពិនិត្យកម្រិតជាតិស្ករក្នុងឈាម។ បើអ្នកមានជំងឺទឹកនោមផ្អែម សូមធ្វើការជាមួយក្រុមថែទាំសុខភាពរបស់អ្នកដើម្បីគ្រប់គ្រងវាដោយសុវត្ថិភាព។ |
+| ការជក់បារី | វ័យពាក់កណ្តាល | 2% | ការជក់បារីមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ ការសិក្សាបានរកឃើញថាអ្នកដែលឈប់ជក់ហើយមិនមានហានិភ័យខ្ពស់ដូចអ្នកដែលនៅតែជក់បន្តទេ។ | សួរអំពីជំនួយក្នុងការឈប់ជក់។ ការឈប់ជក់មានតម្លៃក្នុងវ័យណាក៏ដោយ។ |
+| សម្ពាធឈាមខ្ពស់ | វ័យពាក់កណ្តាល | 2% | សម្ពាធឈាមខ្ពស់ក្នុងវ័យពាក់កណ្តាលមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ ការសាកល្បងថ្នាំសម្ពាធឈាមបង្ហាញថាអាចមានការថយចុះតិចតួចនៃហានិភ័យជំងឺវង្វេង ឬបញ្ហាចំណេះដឹង។ | ដឹងពីលេខសម្ពាធឈាមរបស់អ្នក។ គណៈកម្មការណែនាំឱ្យរក្សាលេខខាងលើនៅ 130 ឬទាបជាងនេះចាប់ពីអាយុប្រហែល 40 ឆ្នាំ សូមសួរថាគោលដៅណាសមស្របសម្រាប់អ្នក។ |
+| ជំងឺធាត់ | វ័យពាក់កណ្តាល | 1% | ជំងឺធាត់ក្នុងវ័យពាក់កណ្តាលមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង ហើយក៏បង្កើនហានិភ័យនៃជំងឺទឹកនោមផ្អែមផងដែរ។ | សួរវេជ្ជបណ្ឌិតអំពីទម្ងន់ដែលមានសុខភាពល្អសម្រាប់អ្នក។ មនុស្សវ័យចំណាស់មិនគួរធ្វើរបបអាហារដើម្បីសម្រកទម្ងន់ដោយគ្មានការណែនាំពីវេជ្ជបណ្ឌិតទេ។ |
+| ការផឹកស្រាហួសកម្រិត | វ័យពាក់កណ្តាល | 1% | ការផឹកស្រាច្រើនមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ ការកាត់បន្ថយពីការផឹកច្រើនមានទំនាក់ទំនងជាមួយហានិភ័យទាបជាង។ | សួរថាកម្រិតណាដែលមានសុវត្ថិភាពសម្រាប់អ្នក ជាពិសេសដោយគិតពីថ្នាំដែលអ្នកកំពុងប្រើ។ |
+| ការឯកោពីសង្គម | វ័យចំណាស់ | 5% | ការមានទំនាក់ទំនងសង្គមតិចតួចមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ | រក្សាទំនាក់ទំនងជាមួយអ្នកដទៃតាមរបៀបដែលអ្នកចូលចិត្ត។ សូមមើល [មគ្គុទ្ទេសក៍អំពីទំនាក់ទំនងសង្គម](/brain-health/social-connection/) របស់យើង។ |
+| ការបំពុលខ្យល់ | វ័យចំណាស់ | 3% | ការរស់នៅក្នុងបរិយាកាសដែលមានការបំពុលខ្យល់ខ្ពស់មានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ ការសិក្សាបានភ្ជាប់ខ្យល់ស្អាតជាងជាមួយហានិភ័យទាបជាង។ | ភាគច្រើនជាបញ្ហាគោលនយោបាយសាធារណៈ។ ពិនិត្យការជូនដំណឹងអំពីគុណភាពខ្យល់ក្នុងតំបន់ និងកាត់បន្ថយពេលនៅខាងក្រៅនៅថ្ងៃដែលមានការបំពុលខ្លាំង។ |
+| បញ្ហាការមើលឃើញដែលមិនបានព្យាបាល | វ័យចំណាស់ | 2% | បញ្ហាការមើលឃើញដែលមិនបានកែតម្រូវមានទំនាក់ទំនងជាមួយហានិភ័យខ្ពស់ជាង។ ការសិក្សាធំមួយនៅសហរដ្ឋអាមេរិកបានភ្ជាប់ការវះកាត់ជំងឺភ្នែកឡើងបាយជាមួយហានិភ័យទាបជាង។ | ពិនិត្យភ្នែកជាប្រចាំ។ សួរថាតើបញ្ហាដូចជាជំងឺភ្នែកឡើងបាយអាចព្យាបាលបានដែរឬទេ។ |
 
-## How should I read these percentages?
+## តើគួរយល់ភាគរយទាំងនេះយ៉ាងដូចម្តេច?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+ដោយប្រុងប្រយ័ត្ន។ របាយការណ៍របស់គណៈកម្មការខ្លួនឯងបានលើកឡើងចំនុចមួយចំនួនដែលគួរកត់សម្គាល់៖
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **វាពិពណ៌នាអំពីប្រជាជន មិនមែនមនុស្សម្នាក់ៗទេ។** [សេចក្តីសង្ខេបរបាយការណ៍របស់ University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  បានកត់សម្គាល់ថាការកាត់បន្ថយហានិភ័យមានប្រសិទ្ធភាពនៅកម្រិតប្រជាជន ហើយមិនធានាថាមនុស្សម្នាក់ៗនឹងជៀសផុតពីជំងឺវង្វេងនោះទេ។
+- **វាសន្មតថាមានទំនាក់ទំនងបែបមូលហេតុនិងផល។** អ្នកនិពន្ធបានរួមបញ្ចូលតែកត្តាដែលមានភស្តុតាងគួរឱ្យទុកចិត្ត ប៉ុន្តែបានបញ្ជាក់ថាទំនាក់ទំនងមួយចំនួនអាចមានតែផ្នែកខ្លះប៉ុណ្ណោះ។
+- **វាជាតួលេខទូទាំងពិភពលោក។** ទិន្នន័យភាគច្រើនមកពីប្រទេសដែលមានចំណូលខ្ពស់ ហើយចំណែកពិតប្រាកដសម្រាប់ប្រទេស ឬសហគមន៍ណាមួយអាចខុសគ្នា។
+- **ភាគរយតូចៗក៏នៅតែមានសារៈសំខាន់។** កត្តាមួយដែលមានទំនាក់ទំនងជាមួយ ២% នៃករណីទូទាំងពិភពលោក នៅតែប៉ះពាល់ដល់មនុស្សជាច្រើនណាស់។
 
-## Which risk factors were added in 2024?
+## តើកត្តាហានិភ័យអ្វីខ្លះដែលត្រូវបានបន្ថែមក្នុងឆ្នាំ ២០២៤?
 
-The 2024 report added two factors to the 12 named in 2020:
+របាយការណ៍ឆ្នាំ ២០២៤ បានបន្ថែមកត្តាពីរទៅលើកត្តាចំនួន ១២ ដែលបានរៀបរាប់ក្នុងឆ្នាំ ២០២០៖
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **កូលេស្តេរុល LDL ខ្ពស់ក្នុងវ័យពាក់កណ្តាល** មានទំនាក់ទំនងជាមួយប្រហែល ៧% នៃករណី។
+- **បញ្ហាការមើលឃើញដែលមិនបានព្យាបាលក្នុងវ័យចំណាស់** មានទំនាក់ទំនងជាមួយប្រហែល ២% នៃករណី។
 
-## What risk factors cannot be changed?
+## តើកត្តាហានិភ័យអ្វីខ្លះដែលមិនអាចផ្លាស់ប្តូរបាន?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+វិទ្យាស្ថានជាតិអំពីភាពចាស់ (National Institute on Aging) បញ្ជាក់ថា
+[អាយុគឺជាកត្តាហានិភ័យធំបំផុតដែលគេស្គាល់សម្រាប់ជំងឺ Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)
+ហើយគ្មាននរណាម្នាក់អាចផ្លាស់ប្តូរវាបានទេ។ ហ្សែនក៏មានឥទ្ធិពលផងដែរ ហ្សែនមួយដែលគេស្គាល់ថាមានឥទ្ធិពលលើហានិភ័យជំងឺ Alzheimer មានឈ្មោះថា APOE។
+NIA បន្ថែមថាអ្នកវិទ្យាសាស្ត្រមិនទាន់យល់ច្បាស់នៅឡើយថាអ្វីជាមូលហេតុនៃជំងឺ Alzheimer ក្នុងមនុស្សភាគច្រើន។
+គណៈកម្មការ Lancet ក៏បានកត់សម្គាល់ថាហានិភ័យដែលអាចផ្លាស់ប្តូរបានអាចត្រូវបានកាត់បន្ថយ ទោះបីមនុស្សនោះមានហានិភ័យពីហ្សែនក៏ដោយ។
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+ដោយសារអាយុ និងហ្សែនមានឥទ្ធិពលយ៉ាងច្រើន មនុស្សជាច្រើនដែលមិនមានកត្តាហានិភ័យទាំង ១៤ នេះក៏នៅតែអាចកើតជំងឺវង្វេងដែរ។ នេះមិនមែនជាកំហុសរបស់នរណាម្នាក់ទេ។
 
-## What does the trial evidence say about changing these risks?
+## តើភស្តុតាងពីការសាកល្បងបង្ហាញអ្វីខ្លះអំពីការផ្លាស់ប្តូរហានិភ័យទាំងនេះ?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+ការភ្ជាប់កត្តាហានិភ័យមួយជាមួយជំងឺវង្វេងមិនដូចគ្នានឹងការបញ្ជាក់ថាការផ្លាស់ប្តូរវាអាចកាត់បន្ថយហានិភ័យជំងឺវង្វេងនោះទេ។
+ខាងក្រោមនេះជាឧទាហរណ៍មួយចំនួនអំពីស្ថានភាពភស្តុតាងពីការសាកល្បង៖
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **សម្ពាធឈាម។** នៅក្នុងការសាកល្បង SPRINT MIND គោលដៅសម្ពាធឈាមទាបជាងបានកាត់បន្ថយយ៉ាងច្បាស់លាស់នូវបញ្ហាចំណេះដឹងស្រាល។
+  ប៉ុន្តែវាមិនបានកាត់បន្ថយយ៉ាងច្បាស់លាស់នូវជំងឺវង្វេងដែលអាចទំនងបានទេ ទោះបីការសាកល្បងអាចតូចពេកមិនអាចបង្ហាញរឿងនោះក៏ដោយ
+  ([SPRINT MIND ក្នុង JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/))។
+- **ឧបករណ៍ជំនួយការស្តាប់។** គណៈកម្មការ Lancet បានពិពណ៌នាអំពីការសាកល្បងឧបករណ៍ជំនួយការស្តាប់រយៈពេលបីឆ្នាំដែលមិនរកឃើញឥទ្ធិពលរួមលើការគិត ប៉ុន្តែមានអត្ថប្រយោជន៍ក្នុងក្រុមរងមនុស្សដែលមានហានិភ័យខ្ពស់ជាង។
+  ការសិក្សាដែលតាមដានមនុស្សជាបន្តបន្ទាប់បានភ្ជាប់ការប្រើឧបករណ៍ជំនួយការស្តាប់ជាមួយហានិភ័យទាបជាង។ សូមមើល [មគ្គុទ្ទេសក៍អំពីការស្តាប់](/brain-health/hearing/) របស់យើងសម្រាប់ព័ត៌មានបន្ថែម។
+- **សកម្មភាពរាងកាយ។** វិទ្យាស្ថានជាតិអំពីភាពចាស់បញ្ជាក់ថាមិនមានភស្តុតាងគ្រប់គ្រាន់ពីការសាកល្បងគ្លីនិកដើម្បីសន្និដ្ឋានថាការហាត់ប្រាណអាចការពារ ឬបន្ថយការធ្លាក់ចុះនៃបញ្ហាចំណេះដឹងស្រាល ឬជំងឺ Alzheimer បានទេ ទោះបីការសិក្សាមួយចំនួនបង្ហាញថាវាអាចជួយពាក់ព័ន្ធនឹងការធ្លាក់ចុះដែលទាក់ទងនឹងអាយុក៏ដោយ
+  ([NIA អំពីការការពារ Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))។
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+ការសាកល្បងរយៈពេលវែងដែលរង់ចាំការកើតជំងឺវង្វេងគឺចំណាយពេល និងថវិកាច្រើន ដូច្នេះសម្រាប់កត្តាជាច្រើន ភស្តុតាងល្អបំផុតនឹងបន្តមកពីការសិក្សាដែលតាមដានមនុស្សជាច្រើនឆ្នាំ។
+ភស្តុតាងនេះមានប្រយោជន៍ ប៉ុន្តែវាមិនរឹងមាំដូចការសាកល្បងទេ។
 
-## What about sleep and diet?
+## ចុះការគេង និងរបបអាហារវិញ?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+គណៈកម្មការបានពិនិត្យមើលការគេង និងរបបអាហារ ប៉ុន្តែមិនបានបន្ថែមវាទៅក្នុងបញ្ជីទេ
+ពីព្រោះភស្តុតាងមិនទាន់រឹងមាំ ឬមិនទាន់ស្របគ្នាគ្រប់គ្រាន់។
+មគ្គុទ្ទេសក៍របស់យើងអំពី [ការគេង](/brain-health/sleep/) និង [របបអាហារ](/brain-health/diet/) ពន្យល់អំពីអ្វីដែលគេស្គាល់រួច។
 
-## Talk with a doctor
+## ពិគ្រោះជាមួយវេជ្ជបណ្ឌិត
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+ការពិនិត្យសុខភាពប្រចាំឆ្នាំគឺជាពេលវេលាល្អមួយដើម្បីលើកឡើងប្រធានបទទាំងនេះ។ អ្នកអាចយកបញ្ជីនេះមកជាមួយ ហើយសួរថា៖
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- តើលេខសម្ពាធឈាម កម្រិតជាតិស្ករក្នុងឈាម និងកូលេស្តេរុលរបស់ខ្ញុំមានប៉ុន្មាន ហើយតើមានអ្វីដែលត្រូវយកចិត្តទុកដាក់ដែរឬទេ?
+- តើខ្ញុំគួរពិនិត្យការស្តាប់ និងភ្នែកដែរឬទេ?
+- តើសកម្មភាពដែលខ្ញុំកំពុងធ្វើមានសុវត្ថិភាព និងគ្រប់គ្រាន់សម្រាប់ខ្ញុំដែរឬទេ?
+- តើថ្នាំណាមួយរបស់ខ្ញុំអាចប៉ះពាល់ដល់ការចងចាំ ឬការគិតបានដែរឬទេ?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+មុនពេលផ្លាស់ប្តូរថ្នាំ របបអាហារ ការតមអាហារ ការហាត់ប្រាណ ឬអាហារបំប៉ន សូមពិគ្រោះជាមួយវេជ្ជបណ្ឌិតជាមុនសិន។
+ប្រសិនបើអ្នក ឬមនុស្សដែលអ្នកថែទាំមានអาการភាន់ច្រឡំភ្លាមៗ អស់កម្លាំងម្ខាងនៃរាងកាយ ឬពិបាកនិយាយ សូមទូរស័ព្ទទៅលេខសង្គ្រោះបន្ទាន់ 119។

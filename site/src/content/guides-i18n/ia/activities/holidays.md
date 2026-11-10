@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Activitates de festas pro personas con dementia"
+seoTitle: "Ideas de festas e Thanksgiving pro dementia"
+description: "Activitates simple de festas pro personas con dementia: cocinar, decorar, musica, photos e appellos video, e como planificar un Thanksgiving o Natal plus calme."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Mantene le festas plus parve, plus tosto in le die e proxime al routine
+  habitual del persona. Da a ille un labor real e secur, como preparar le
+  tabula, lavar legumes, impacchettar un dono o appender un decoration.
+  Comparti musica familiar e photos ancian, informa le hospites in avantia
+  e prepara un camera quiete. Face solo lo que tu pote gerer de maniera
+  rationabile; un celebration curte e calme es un bon celebration.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Celebrar plus tosto in le die, como un prandio o brunch, si le confusion al fin del die es frequente."
+  - "Offere labores real: preparar le tabula, lavar productos, impacchettar, decorar o arrangiar le dessert."
+  - "Musica familiar, cantos de festa e vetere albumes de photos es manieras facile de compartir le season."
+  - "Dice al hospites lo que illes pote expectar, e monstra al persona photos de qui venira."
+  - "Prepara un camera quiete con un coperta o pullover favorite, e recipe visitantes in parve gruppos."
+  - "Evita lo que pote esser troppo, incluse decorationes que sembla alimento e multe luces intermittente."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Que pote facer un persona con dementia a Thanksgiving?"
+    a: "Da a ille un labor simple e secur que corresponde a lo que ille pote facer hodie: lavar legumes, miscer salsa de cranberries, preparar le tabula, plicar tovagliolos o poner desserts sur un platto. Postea, reguarda insimul vetere photos de familia o canta cantos familiar. Esser parte del die es plus importante que le resultato del labor."
+  - q: "Debe nos ancora tener un grande reunion de familia?"
+    a: "Solo si es geribile. Le multitudines e le ruito pote esser troppo, assi multe familias prefere un reunion plus parve e plus informal, un repasto plus tosto, o visitantes que veni in parve gruppos. Le Alzheimer's Association anima le personas que prende cura a facer solo lo que illes pote gerer de maniera rationabile e secur."
+  - q: "Como pote io preparar le familiares que non ha visitate desde un tempore?"
+    a: "Dice les ante que illes arriva qual cambios illes pote notar, e que istos veni del maladia, non del persona. Pete les de non corriger o interrogar, de parlar un persona al vice e de dar tempore pro responder. Monstrar al persona photos del hospites in avantia pote etiam adjutar."
+  - q: "Qual donos de festa es adequate pro un persona que vive con dementia?"
+    a: "Cosas simple e secur que ille pote gauder ora: un snack favorite, un coperta o pullover morbide, musica familiar, o un album de photos de familia. Evita electronica complicate, instrumentos e jocos de tabula difficile. Includer le persona in dar, como impacchettar un dono o preparar biscottos que ille ha adjutate a cocer, pote esser in se un dono."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Le festas pote facer revenir calide memorias, e illos pote etiam apportar ruito, multitudines e cambios in le die habitual. Pro un persona que vive con dementia, le melior celebrationes es in general plus parve, plus lente e construite circa cosas que ille pote ancora gauder. Iste ideas functiona tanto pro Thanksgiving, Natal, Hanukkah, Anno Nove como pro anniversarios de familia.
 
-## How do I plan a calmer holiday?
+## Como pote io planificar un festa plus calme?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Comencia con le routine del persona e planifica le die in torno a illo. Le [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggere de tener le celebration plus tosto in le die, pois le confusion e le inquietude cresce spesso in le tarde postmeridie e in le vespere (a vices appellate sundowning). Un prandio o brunch de festa pote esser plus facile que un cena tarde.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Mantene le dimension juste.** Un reunion plus parve e plus informal, o hospites que arriva a poc a poc, es spesso plus facile que un tabula plen.
+- **Distribue labores.** Pete al familiares de portar un platto, facer le compras o passar tempore con le persona durante que tu cocina. Sia clar sur lo que adjutarea.
+- **Mantene le decorationes simple.** Le [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) nota que luces intermittente pote confunder, e que dulces o fructos artificial usate como decoration pote esser prendite pro alimento.
+- **Decide lo que lassar.** Si un tradition es devenite stressante o riscose, il es ben de saltar lo o provar un altere plus quiete.
 
-## What holiday activities can we do together?
+## Qual activitates de festa pote nos facer insimul?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Selige labores e passatempos que corresponde a lo que le persona pote facer hodie. Esser parte del die es plus importante que le resultato.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Preparar le tabula insimul.** Pone primo le plattos, postea le tovagliolos, postea le copas. Plicar tovagliolos es un bon labor a facer sedite.
+2. **Lavar e ordinar legumes.** Lavar patatas o rumper fabas verde al tabula del cocina es secur e familiar pro multe personas que soleva cocinar.
+3. **Miscer o arrangiar.** Miscer salsa de cranberries, miscer un pasta simple o poner biscottos sur un platto mantene le manos occupate lontan del fornello e del cultellos.
+4. **Impacchettar un dono.** Pre-talia le papiro e le banda adhesive, e lassa le persona plicar e lisar. Un impacchettamento perfecte non es le scopo.
+5. **Appender alcun decorationes.** Selige ornamentos non frangibile e un parve area, como un corona o un parve arbore.
+6. **Facer un manualitate simple.** Catenas de papiro, un collage de folios o un carta de festa con timbros functiona ben. Nostre [guida a artes e manualitates](/activities/arts-and-crafts/) ha plus ideas.
+7. **Cantar e ascoltar.** Cantos de festa familiar es facile a junger, mesmo pro un persona que parla minus ora. Vide nostre [guida al musica](/activities/music/) pro crear un lista de reproduction.
+8. **Reguardar vetere photos de festas.** Prende albumes de celebrationes passate e invita historias ("Conta me sur iste tabula") in loco de demandar qui es qui. Nostre [guida al rememoration](/activities/reminiscence/) explica como.
+9. **Jocar un joco de gruppo gentil.** [Picture bingo](/games/picture-bingo/) se imprime in minutas e functiona pro tote le etates, e [conversation cards](/games/conversation-cards/) da a omnes qualcosa de que parlar.
+10. **Colorar insimul.** Simple [paginas de colorar](/games/coloring/) pote esser imprimite pro infantes e avos a compartir al tabula.
+11. **Reguardar un film de festa favorite.** Un film familiar es reposante, e il es ben de reguardar solo un parte.
+12. **Facer un curte promenada in auto pro vider luces.** Un promenada quiete in auto trans casas decorate pote esser plus facile que un evento con multe gente.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Si cocinar esseva un grande parte del vita del persona, nostre guida a [labores domestic como activitates](/activities/household-tasks/) ha plus manieras de render le labores in cocina secur e satisfacente.
 
-## How do I prepare guests?
+## Como pote io preparar le hospites?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Dice al hospites lo que illes pote expectar ante que illes arriva, specialmente le familiares que non ha visitate desde un tempore. Le Alzheimer's Association suggere de explicar que le cambios in memoria e comportamento veni del maladia, non del persona.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Comparti alcun consilios simple:** parlar un persona al vice, dar tempore pro finir un pensamento, non corriger o interrogar, e responder al tono del persona si le parolas es difficile a sequer.
+- **Dice lo que adjuta e lo que perturba.** Si voces alte, esser pressate o certe topicos causa angustia, dice lo.
+- **Presenta le hospites in avantia.** Monstra al persona photos de qui venira e conta un o duo historias, o face un curte appello per telephono o video ante le die.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Nostre [consilios de communication](/caregiving/communication-tips/) explica plus detalios.
 
-## What if it gets to be too much?
+## E si illo deveni troppo?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Prepara un camera quiete ante que le hospites arriva, lontan del ruito, con objectos familiar de comforto como un coperta, un pullover favorite o un activitate simple. Offere lo tosto e sovente: "Vole tu que nos sede in un loco plus quiete pro un momento?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Lassar le tabula, ir al lecto plus tosto o saltar un parte del die es un bon resultato, non un fallimento. Si le persona deveni turbate, un voce calme, un canto familiar o un promenada a un altere camera adjuta spesso plus que rationar. Nostre guida al [inquietude al fin del die](/caregiving/late-day-restlessness/) ha plus ideas pro le vesperes.
 
-## How can family far away take part?
+## Como pote participar le familia lontan?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Le appellos video permitte al familiares de participar sin augmentar le multitudine. Le Alzheimer's Association suggere de dar un structura al appellos, per exemplo cantar cantos del season, compartir photos de reunion passate, cocinar le mesme recepta insimul o reguardar un film de festa al mesme tempore. Mantene le appellos curte, e pete al personas de parlar un persona al vice, pois parlar un super le altere es difficile a sequer. Nostre [guida a appellos per telephono e video](/activities/phone-and-video-calls/) ha ideas passo a passo.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Si le persona vive in un centro de cura pro memoria, verifica le politica de visitas e pete al personal de adjutar a preparar un appello. Nostre guida a [visitar un persona in un centro de cura pro memoria](/activities/visiting/) explica lo que portar e como congediar se ben.
 
-## What gifts suit someone with dementia?
+## Qual donos es adequate pro un persona con dementia?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Donos simple e secur que ille pote gauder ora functiona in general melio: un snack favorite, un coperta o cardigan morbide, musica familiar, un calendario con litteras grande, o un album de photos de familia. Le Alzheimer's Association consilia de evitar instrumentos periculose, electronica complicate e jocos de tabula difficile.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Dar pote importar tanto como reciper. Preparar biscottos que le persona ha adjutate a cocer, o lassar le impacchettar un dono que tu ha comprate, permitte a ille participar in le season. Un joco de photos de familia es un altere idea: [photo pairs](/games/photo-pairs/) transforma alcun photos seligite in un gentil joco de matching in le navigator.
 
-## Look after yourself too
+## Prende cura etiam de te mesme
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Le festas adde labor al cura quotidian. Lassa un altere persona reciper o cocinar le turkey, dice no a eventos que sera difficile, e prende pausas durante que alteres passa tempore con le persona. Si tu o le persona de qui tu prende cura non sta ben, un saluto desde le auto o un appello video es un visita completemente bon. Nostre guida al [cura de se pro personas que prende cura](/caregiving/caregiver-self-care/) offere plus supporto.

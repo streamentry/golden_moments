@@ -1,34 +1,37 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Dementiaqarluni pulaarneq isumaginnittoqarfimmi"
+seoTitle: "Dementiaqarluni pulaarneq: qanoq iliussaanga"
+description: "Dementiaqarluni isumaginnittoqarfimmi, utoqqalinut illumi napparsimmavillutik pulaarneq: nassiussat, suniallit piumassutsimillu allanartoq."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Dementiaqarluni isumaginnittoqarfimmi napparsimmavilluunniit pulaarsinnaaguit,
+  piumassutsimut allanartoq: tikipparuit atit nassuiaannarlugu, taakkuninnga
+  ataatsimoortumik sunniuteqaqqussutit, assersuutigalugu assit, nipilersuutit
+  imaluunniit nerisassat nuannarisat, ataatsimullu sunik imatut najuittunik
+  toqqaasinnaavusi. Pulaarnerit sivikinnerusut, kajumissutsimilluunniit
+  nungusaasinnaasut sivisunerusunit, ataasiarusunillu ajornannginnerusarput.
+  Aallarnissat eqqissisimanartunik, naluuttunik aalajangersimasinnaavat,
+  taamaalilluni taakkuninnga ilinnut aammalu ilissinnut ajorluinnarniarluni.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Tikilluaruit inuk atsiuarlugu kinaanerlutit nassuiaallugu, nammineq paasiniarnissaanut pisariaqartitaannani: 'Aluu, Anaana, Susan-uvunga, panivit.'"
+  - "Ataaseq marlulluunniit nassarsigit peqatigisinnaassusillit, assersuutigalugu assinik katersat, nipilersuutit nuannarisat, qillipiluk aqillugu, imaluunniit nerisassat atorfinitsisut akuersuutaat."
+  - "Pulaarnerit sivikinnerusut, kajumissutsimillu nungusaasinnaasut sivisunerusunit, ataasiarusunillu ajornannginnerusarput. Oqarsinnaasatit pingaarneruupput peqatigisimanerpit."
+  - "Napparsimmavimmi, allaffimmut ilaasortanut ilaasortaq pillugu qupperneq ataaseq iluaqutaasinnaavoq. Inuk ataasiakkaat allanngoriartuinnaq taannaasiartoq takugukku nakorsamut tassa oqariartuutiguk."
+  - "Aallarnissat pilersaarusiorlugit: sivisussutsit pillugit oqaatiginnigit, ullut tamaasa aallarnissat ataasatut atorlugu, utaqqisimanani aallarlutillu."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Dementiaqarluni pulaariartorlunga suna nassartarpara?"
+    a: "Sunik peqatigisinnaasunik nassarsigit, oqaloqatigissanut sunik nassartarnissavit ingerlanagu. Assinik katersat mikisut, nuannarisatit nipilersuutaat, qillipiluk aqillugu, assaanik aaliuut, atuagaq qanoq ililluni suliffinnut pisimasut pillugit imaluunniit nerisassat atorfinitsisut akuersuutaat tamarmik iluaqutaasinnaapput. Isumaginnittoqarfimmi, ilaquttap assii aammalu sunniit nalunngilaatit illu angerlarsimaffimmut assingusinnaapput."
+  - q: "Dementiaqarluni pulaariartorlunga qanoq sivisutigissumik taaneqartarpunga?"
+    a: "Sivisussutsit qanoq eqqortuunissaat aalajangersorneqanngilaq. Ilaqutariit amerlasuut takusaqaat pulaarnerit sivikinnerusut, kajumissutsimillu sivisunerusunit, ataasiarusunillu ajornannginnerusartut, inuk qasuersaartarsinnaammat, aammalu qanoq sivisutigisumik taaneqartarsimanerpit eqqaamajunnaarsinnaallugu. Qasuersimanera takusinnaagukku, pulaarneq nuannaarnerunera suli ingerlatillugu aallarnissat piareersaraagit."
+  - q: "Angerlarsimaffiannut uterusimasoqaperalluni aperiguma qanoq oqaaseqartarpunga?"
+    a: "Misigissutsit qanoq innerat malillugu akissavat, oqaatsit pingaarneruullugit. 'Angerlarsimaffiannut uterusuppunga' immaqa isumaqarpoq 'nuannaarutiginngilara imaluunniit isumannaatsunga'. Misigissutsit pingaarnerarlugu: 'Angerlarsimaffiit pillugit oqaluttuarnga,' assigiinnik qimerloorlusi, imaluunniit pisuttuarneq nerisassallu neqeroorfigisinnaallugit. Aqquerluni nassuiaaneq uterusinnaannginnera pillugit kikkunneqartitsisinnaasarpoq."
+  - q: "Ilisarisinnaanngippaanga qanoq iliussaanga?"
+    a: "Annilaangarsinaavoq, kisianni 'ilisarisinnaannginnerpinga?' aperisoqarsinnaanngilaq, imaluunniit eqqortumik nassuiaasoqartariaqanngilaq. Pissutsit iluarnerullutik, kinaanerlutit nassuiaallutit ataatsimoorlusi peqatigisinnavusi. Amerlasuut peqatiginninniarlutik nuannaarutigisinnaavaat, kinatit ilisimanngikkaluartut misissuinermik nuannaaruteqarnikkut misigisinnaallutik."
+  - q: "Napparsimmavimmi qanoq iluaqutissinnaavunga?"
+    a: "Inuk peqatigisinnaagukku, nerisassiorneq imernerlu ikiorsinnaavat, sunillu nalunngilaat assersuutigalugu assit nassiussavat. Sulisut nalunaarutigisigik inuup ulluinnarni qanoq inooriaaseqarnersoq, qanoq taaneqartarusimasoq, qanoq nuannaarutigisai, nuannaarutiginngilai, aammalu anniarneranut malunnarutit. Inuk ataasiakkaat aaqqiartoruinnanngorsimasoq, imaluunniit allanngoriartoq takugukku nakorsamut oqariartuutiguk, paasinnanngilaq allannguuteqarsimaneq peqqutaasumik napparsimalersinnaammat."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +56,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Asannittoq isumaginnittoqarfimmi, utoqqalinut illumi imaluunniit napparsimmavimmi pulaarsinnaagukku, misigissutsit amerlasuut pilersinnaapput. Suna oqarusussuserlugu, suna nassarsinnaallugu imaluunniit pulaarneq pingaaruteqassappat eqqarsaatigisinnaavat, eqqaamajunnaarniarluni. Pingaaruteqarpoq. National Institute on Aging nassuiaavoq inuit Alzheimerimik napparsimallutik [amerlasuunngillutik peqatiginninneq nuannaarutigisinnaaraat](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), kinamik pulaartoqartarsimanera eqqaamajunnaanngikkaluarlugu. Qupperneq una pulaarneq sioqqullugu, piareerlugu kingornalu qanoq iliussaaneq pillugu iliuusissanik siunnersuuteqarpoq, aammalu napparsimmavimmi pulaarnerup immikkut siunnersuutaanik.
 
-## How do I get ready for a visit?
+## Pulaarneq qanoq piareersartarpara?
 
-A little planning makes the visit easier for both of you.
+Piareersarneq mikivoq ilissinnut marlunngornnut ajornannginnerulersinnaavoq.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Piffissaq eqqortoq toqqaagit.** Dementia Australia siunnersuuppoq inuk ernumasunik naatsorsugaangami pulaarniassasoq, amerlanernut ullaakkut ulloqeqqataluunniit. Family Caregiver Alliance siunnersuuppoq aammalu suliffeqarfiup ulluinnarni pilersaarusiaata pillugit ilisimasaqarsinnaassutit, aammalu [piffissaq kiffaanngissuseq ingerlatillugu](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) pulaarniassasoq.
+- **Sulisut aperikkit.** Ullumi inuk qanoq ittoq aperiarlugu, nerisassanik, uumasunik imaluunniit anillunilu pisarnermut malittarisassanik paasisimasaqqusillutit.
+- **Pulaarfimmut pooq mikisoq piareersaruk.** Ataaseq marlulluunniit peqatigisinnaassusillit naammattariaqarput (allattorsimaffik ataani takuguk).
+- **Oqaatsinik assigiinngitsunik eqqarsaatigisinnaavatit.** Inuk nammineq oqariartuutigisinnaajunnaarsinnaavoq, taamaattumillu oqaatsinik nassiussinnaavutit: ilaquttap pillugit nutaanik, sila pillugu, timersornerup eqqarsaatigalugu, imaluunniit oqaluttuaq quiasaartoq.
+- **Nammineq naatsorsuutigisinnaassusitit.** Pulaarnerit ilai kissaatiginnittunik, oqaloqatigiittunillu misigisinnaapput. Allaagut nipaarujussuuvoq imaluunniit ajornakusooq. Tamarmik piumassuseqarluinnartumik misigisinnaapput.
 
-## What should I bring?
+## Suna nassartarpara?
 
-Bring things to share, not things that test. Good choices include:
+Sunik peqatigisinnaasunik nassarsigit, misileraanermut atorsinnaanngitsumik. Ajunngitsut toqqagassat taakkuupput:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Assinik katersat mikisut** assinik angisuunik, ersarissunik. Sulisunut iluaqutaasinnaalluni kingornut allallugu.
+- **Nipilersuutit nuannarisat** tutsiuteqqammersakkat, sianerikkut tusarnaartitsissutit mikisut atorlugit imaluunniit nipilersuutmik mikisumik.
+- **Sunik aqillugu tigusinnaasoq,** assersuutigillugu qillipiluk, qiperorluk imaluunniit ullik nalunngisaq.
+- **Assaanik aaliuut** assanut ajunngitsumik aqunneqarnissamut, inuk tamanna nuannaarutigiguniuk.
+- **Atuagaq imaluunniit assinik atuagaq** siuliani nuannaarutigisimasaanik, assersuutigillugu naatsiivik, biilit, timmissat imaluunniit igavoq.
+- **Nerisassat nuannarisat,** suliffimmi sulisut akuersaappata.
+- **Inissaanut sunik nalunngilaat.** Family Caregiver Alliance siunnersuuppoq naasut, naasut naasutaat, ilaquttap assii aammalu titartakkat, imaluunniit assinik saqqummiussaq angisoq ilaquttap assiinik siulianit.
+- **Tablet,** ataatsimoorlusi ilaquttap assiinik qimerloorniarlusi imaluunniit sunik imatut najuittunik taakkuninnga attaveqaqqullusi.
 
-## What can we do together during a visit?
+## Pulaarneq ingerlatillugu qanoq peqatigisinnaavugut?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Ataatsimoorlusi sunaqanngitsoq oqarasuaannermit annikillisitsisinnaavoq. Dementia Australia siunnersuuppoq assinik qimerloorneq, sanaartornermi sunik imatut najuittunik, naasut ikumasoq ikummatigalugit, nipilersuutinik, nerisassanik agguarneq, aammalu silataani pisuttuarneq. Allanik siunnersuutinik:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Assinik qimerloorit.** Takusat pillugit oqaluttuarit: „Tassa niaqummiutaq takujuk.“ „Immaqa sinaaq una nuannarpoq.“ Inuk siulersortissavat. „Kina una?“ aperineqarnissaq pinaveersaartigu.
+2. **Nipilersuutinik tusarnaartitsigit erinarsorlutillu.** Nipilersuutit nalunngisaasut misigissutsinik kissaateqartitsisinnaapput, aammalu peqatigiinnermik misigissutsit pilersinnaallutik, oqarasuaat ajornakusunngikkaluartoq.
+3. **Sivikitsigisumik pisuttuarit.** Family Caregiver Alliance siunnersuuppoq suliffeqarfik arlaatigut pisuttuarneq, naatsiivimmi, naatsiiveqarpat. Akornusersuutigineq pisuttuarneruvoq.
+4. **Assanut ajunngitsumik aqunneq.** Aaliuut mikisoq assanut arrortillugu aqunneq eqqissisimanartumik misigisinnaavoq.
+5. **Inuup nammineq pisoqartarnerani ikiueruk.** Dementia Australia oqaluttuarpoq nutsanik salinneq, kukkunik qalipaatineq imaluunniit atisaanik nuannarisaminnik atisitsinneq, inuk tamanna nuannaarutigiguniuk.
+6. **Sunik imatut najuittunik peqatiginnigit.** Family Caregiver Alliance siunnersuuppoq kortinik, domino-nik, imaluunniit suna tamaat inuk siuliani peqatigisaralugu. Tablet atorlugu, [Picture Pairs](/games/picture-pairs/) assit ersitillugit, piffissaliussaqarnani peqatigineqarsinnaavoq. [Photo Pairs](/games/photo-pairs/) assit toqqakkat assigiinngitsut nanisinnaallugit atorneqarsinnaapput, assillu browserinniittarput.
+7. **Ataatsimoorlusi takuniarit.** Family Caregiver Alliance siunnersuuppoq quiasaartartunik, pillugu sujullernillu filmiliornernik. Inuk oqaluttuaq malinnaajunnaanngikkaluarlugu, qanimut ineqartarlusi peqatigiinneqarsinnaavoq.
+8. **Atuartuussigit.** Taalliaq mikisoq, atuagaq pillugu immikkut nuannarineqartoq, imaluunniit ilaquttap allakkatigut ilanngussaq.
+9. **Ataatsimoorlusi nipaarlugit ineqarit.** Assatik tigummiarlugu imaluunniit nipaarullutik ineqarneq pulaarneq pingaaruteqarluinnarpoq. Alzheimer's Association nassuiaavoq oqarusussuserluinnarneq ajornanngitsoq, aammalu peqatigisimanerpit pingaarnerpaasoq.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) iluaqutaasinnaapput oqarusussuseq unitsippat. Korti ataaseq assimik apeqqummillu ammasumik imaqarpoq.
 
-## How should I talk during the visit?
+## Pulaarneq ingerlatillugu qanoq oqarasuaateqartarpunga?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Tikilluaruit kinaanerlutit nassuiaannarit.** „Aluu, Ataata, Mark-uvunga, ernerpit.“ NIA siunnersuuppoq tikeraartut kinaanerat nassuiaassasoq oqaatsit aallartinniarlugit.
+- **Saavanit saaffiginnigit** aammalu isigisaanik nivellinniarlutik ingilluni.
+- **Eqqortumik nassuiaaneq imaluunniit aqqusaaneq pinaveersaartigu.** NIA siunnersuuppoq tikeraartut inuk kukkusunik imaluunniit puiortunik nassuiaassanngitsoq.
+- **Oqaatsinik ujartunngikkaluarluni utaqqilaarit.** Piffissaq amerlaq pisariaqarpoq.
+- **Misigissutsinut pingaartitsigit.** Inuk aliasunneqarsimasoq imaluunniit ernumasoq takugukku, aaqqiiarinnginnera eqqarsaatigisinnaavat.
+- **Aperissutit misileraasut pinaveersaartikkit** soorlu „Ilisarisinnaannginnerpinga?“ imaluunniit „Ullumi suna nerivigit?“
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+[Oqaloqatigiinnermik siunnersuutinik](/caregiving/communication-tips/) suli paasissutissanik takusinnaavutit.
 
-## What do I do when they say "I want to go home"?
+## „Angerlarsimaffiannut uterusuppunga“ oqarpat qanoq iliussaanga?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Oqaatsit kingornatigut misigissutsinut akissavat (avoqaatigisinnaavarput [uummat ornikkuttarpoq uterusumalluni apeqqutigisarneranut](/caregiving/asking-to-go-home/)). Family Caregiver Alliance nassuiaavoq „Angerlarsimaffiannut uterusuppunga“ amerlaneritigut isumaqarluni „nuannaarutiginngilara“, aammalu akissutit siunnersuutigai soorlu „Angerlarsimaffiit pillugit oqaluttuarnga“ imaluunniit „Angerlarsimaffinni sunaqarnerpa nuannarinerpaavit?“ Dementia Australia ilannguppaa „angerlarsimaffik“ piffissaq imaluunniit sumiiffik isumannaatsimasoq isigalugit, soorlu meeqqatut nunaaneq.
 
-Try:
+Misiliguk:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- misigissutsit akuersaarlugit: „Angerlarsimaffiit eqqaamasaqarfiginerlugut tusarnaakkit.“
+- aktuerineq iluaqutaassaaq, inuk tamanna nuannaarutigiguniuk
+- assinik qimerloorneq imaluunniit angerlarsimaffik pillugit oqaluttuarneq
+- pisuttuarneq, imerneq imaluunniit nerisassat neqeroorfigalugit
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Aqqusaaneq imaluunniit uterusinnaannginnera nassuiaaneq iluaqutaajunnaartarpoq, kikkunneqartartussaaneralu annertusisinnaalluni.
 
-## How long should a visit be?
+## Pulaarneq qanoq sivisutigissasoq pisariaqarpa?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Sivikinnerusunik, kajumissutsimillu, amerlaneritigut ajornannginnerusarput. Family Caregiver Alliance nassuiaavoq inuk amerlaneritigut eqqaamajunnaartartoq minnitsinik tallimanik imaluunniit nalunaaquttanik tallimanik taaneqartarsimanerpit, siunnersuutigillunilu sapaatip-akunnera marloriarluni sisamanik pulaarneq ataatsimut sivisumi pulaarnermit ajornannginnerusartoq. Dementia Australia nassuiaavoq pulaarnerup amerlassusaata sivisussusaallu pillugit aalajangersakkanik eqqortunik soqanngilaq.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Isumaginnittoqarfimmut nuunniarnerup sapaatip-akunnerini siullerni, Family Caregiver Alliance siunnersuuppoq amerlavallaarlutit pulaarniassasoq, kingornalu kajumissutsimut naleqqussarluni. Sulisut takusaannik aperikkit.
 
-## How do I leave without upsetting them?
+## Aallarninni kikkunneqartitsinanga qanoq iliussaanga?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Aallarneq Amerlanernik ajornakusinnaasarpoq. Dementia Australia siunnersuuppoq:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Tikilluaruit sivisussutsit nassuiaaruk.** „Nalunaaquttamik ataaseq taaneqartarpunga, kingornalu pisiniarfiusuppunga.“
+- **Aallarnissamut atorneqarnissaa qanoq, sunaqanngitsoq naammassineq.** „Erinarsorneq una naammassigutsigu aallassaanerpunga.“
+- **Nerisassat imaluunniit sunaqanngitsoq ingerlalluarpat piffissaanut naleqqiussarlugu,** imaluunniit sulisut inuk sunik allanik ingerlalersinniarlugu ikiuqqullugit.
+- **Aallarnissat najuitsumillu, ullut tamaasa assingusumik atorlugu.** Sivisuumik utaqqineq, utoqqatsinneq imaluunniit „sivikitsigisumik suli“ taaneqartarneq kingusinnerusukkut aallarnissat ajornarnerulersinnaavai.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Aallarnerup kingorna aliasunneqarsinnaanerpiaavoq. Piffissaq nammineq imminut isummanarsarniassavat. Inuk kikkunneqarpat, sulisut maanna kingunerusukkut eqqissisitsisinnaavaat.
 
-## Visiting someone with dementia in the hospital
+## Napparsimmavimmi inuk dementiaqarluni pulaarlugu
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Napparsimmaveqarfik nipiliorujussuuvoq, ilisimaneqarnani aammalu inuit amerlasuut tikittarsimapput, dementiaqarluni inuiaqatigiinni ajornakusinnaalluni. NIA-mit siunnersuut [inuk Alzheimerimik napparsimasoq napparsimmavimmut pisineq](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ima siunnersuuppoq:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Inuk peqatigineqarli** qanoq naatsorsuutigalugu: ilaquttap ilaasortaa, ikinngutupperisaq imaluunniit akisussaasumik isumaginnittoq.
+- **Sulisunut paasissutissanik qupperneq tunniaruk** inuup qanoq inooriaaseqarnersoq, qanoq taaneqartarusimasoq, qanoq nuannaarutigisai, nuannaarutiginngilai, suna kikkunneqartitsisinnaasoq, aammalu anniarneranut malunnarutit oqaatsinik nassuiaatinngitsut. Quppernerit inissamini aammalu verpleegiatit inissaani ilanngukkit.
+- **Nerisassiorneq imernerlu ikiorsinnaavat.** Inuusuttut utoqqaanerusut napparsimmavimmi nerisassanik amigaateqartarsinnaapput. Matuerlugit, nerisassanik ikiuutissinnaavat, nerisinnaallusilu, imerneq neqeroorfigissallugu.
+- **Eqqissisimanartumik sunik nassiussigit** assersuutigalugu assit imaluunniit upperisamut atugassat.
+- **Nipit appariarlugit.** TV qaminniarlugu, tussiatortullu intercom nipilersuutaat appariarlugit.
+- **Eqqissisimanermut ileqqorissaarutit misiligit,** assersuutigalugu nipilersuutit eqqissisimanartut, atuarneq, qinusarneq, erinarsorneq imaluunniit assinik sujullernik qimerloorneq.
+- **Pisuttuarneq kajumissutsimut kiisalu isumannaatsumut** sulisut akuersuutaat malillugit.
+- **Inuk ataasiakkaat aaqqiartoruinnanngorsimasoq, imaluunniit allanngoriartoq takugukku nakorsamut oqariartuutiguk.** NIA nassuiaavoq allannguuteqarsimanera tassa delirium, peqqutaasinnaasoq napparsimalerinermut, kissassutsimut, imermik amigaateqarnermut imaluunniit akiuussanut kingunerisaanermut, nakorsamit misissorneqarnissarlu pisariaqarpoq.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Napparsimmavimmi ulloq sivikitsoq, eqqissisimasoq aammalu inuk nalunngisaq erinarsornerlu nuannarineqartoq, ullup ilaanni nuannaarnerpaasinnaavoq.
 
-## Bringing children on a visit
+## Meeqqat ilanngullugit pulaarneq
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Meeqqat kissaatigisinnaapput. Piareersinnaavatitsigut yoojutsumillu, aserfallatsaaliinnartumillu, sivikitsigisumillu pulaarnissat, aammalu suliaqarnissamut, assersuutigalugu titartagaq takutinniarlugu imaluunniit assinik tunniussiniaalluni. NIA nassuiaavoq meeqqat dementiaqarlutik innuttaasunut sunik imatut najuittunik peqatigisinnaasut, soorlu assinik katersanik qimerloorneq imaluunniit nipilersuutinik tusarnaartitsineq. Dementia Australia siunnersuuppoq meeqqanut pooq mikisoq nerisassanik nipaarlunilu sunik imatut pissarsisimasoq.
 
-## Take care of yourself too
+## Illit imminnut isumaginnillutit
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Pulaarneq qasuersartitsisinnaavoq misigissutsinillu sunniuteqartarsinnaavoq, ingammik inuk allanngoriartorsimappat. Kajumissutsimut naleqqussarlugu ikinnerusumik pulaarniassallutit, ikinngutinik peqatiginnillutik ikioqqullutit, imaluunniit ulloq ajornakusoq aallarnissaq naleqqutigissavat. Illit pillugit isumaginninnissamut siunnersuutit takusinnaavatit [isumaginnittunut nammineq isumaginninneq](/caregiving/caregiver-self-care/). Ungasissumi najugaqaruit, [tussiarfinni aammalu video-kkut oqarasuaat pillugit](/activities/phone-and-video-calls/) ataani ilinniartittakkavut takusinnaavatit.

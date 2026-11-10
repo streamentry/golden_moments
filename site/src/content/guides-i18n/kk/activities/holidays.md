@@ -1,33 +1,35 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Деменциясы бар адамға арналған мерекелік шаралар"
+seoTitle: "Деменция кезінде мереке және Алғыс айту күні"
+description: "Деменциясы бар адамға арналған қарапайым мерекелік істер: ас пісіру, безендіру, музыка, фото және бейнеқоңыраулар, тыныш мереке жоспары."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Мерекені ауқымы шағын, күннің ерте мезгіліне және адамның әдеттегі
+  күн тәртібіне жақын етіп өткізіңіз. Оған үстел жабу, көкөніс жуу,
+  сыйлық орау немесе әшекей ілу сияқты шынайы әрі қауіпсіз жұмыстар
+  ұсыныңыз. Таныс әндер мен ескі фотосуреттерді бірге қараңыз,
+  қонақтарды алдын ала дайындаңыз және тыныш бөлме дайындаңыз. Тек
+  қолыңыздан келетінін ғана жасаңыз; қысқа әрі тыныш мереке де
+  жақсы мереке.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Егер кешкі уақытта абыржу жиі болса, мерекені күннің ерте мезгіліне, мысалы, түскі немесе таңғы асқа жоспарлаңыз."
+  - "Шынайы жұмыстар ұсыныңыз: үстел жабу, көкөніс жуу, орау, безендіру немесе десертті тәрелкеге салу."
+  - "Таныс музыка, мерекелік әндер және ескі фотоальбомдар — мерекені бірге өткізуге оңай мүмкіндік."
+  - "Қонақтарға не күту керегін айтыңыз және кім келетінін адамға алдын ала фотосуреттер арқылы көрсетіңіз."
+  - "Сүйікті көрпе немесе жемпірі бар тыныш бөлме дайындаңыз және қонақтарды бір уақытта аз шақырыңыз."
+  - "Адамды шаршататын нәрселерден аулақ болыңыз, соның ішінде тағамға ұқсайтын әшекейлер мен көп жыпылықтайтын шамдардан."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Деменциясы бар адам Алғыс айту күнінде не істей алады?"
+    a: "Оған бүгінгі мүмкіндігіне сай қарапайым әрі қауіпсіз жұмыс беріңіз: көкөніс жуу, мүкжидек соусын араластыру, үстел жабу, майлықтарды бүктеу немесе десертті тәрелкеге салу. Кейін бірге ескі отбасылық фотосуреттерді қарап, таныс әндерді айтыңыз. Тапсырманың қалай орындалғанынан гөрі, күннің бір бөлігі болу маңыздырақ."
+  - q: "Үлкен отбасылық жиын өткізу керек пе?"
+    a: "Тек егер ол қолайлы болса ғана. Көп адам және шу адамды шаршатуы мүмкін, сондықтан көптеген отбасылар шағын әрі жай жиынға, ертерек тамақтануға немесе қонақтарды топ-топпен қабылдауға ауысады. Alzheimer's Association қамқорлық танытатын адамдарға тек шын мәнінде қолынан келетін және қауіпсіз нәрселерді ғана жасауға кеңес береді."
+  - q: "Көптен бері келмеген туыстарды қалай дайындау керек?"
+    a: "Олар келмей тұрып, қандай өзгерістерді байқаулары мүмкін екенін және бұл өзгерістер адамның өзінен емес, аурудан екенін түсіндіріңіз. Олардан түзетпеуін, сұрақпен сынамауын, кезекпен сөйлеуін және жауап беруге уақыт беруін сұраңыз. Адамға қонақтардың фотосуреттерін алдын ала көрсету де көмектесуі мүмкін."
+  - q: "Деменциямен өмір сүретін адамға қандай мерекелік сыйлықтар лайық?"
+    a: "Қазір пайдалана алатын қарапайым әрі қауіпсіз заттар жақсы келеді: сүйікті тағам, жұмсақ көрпе немесе жемпір, таныс музыка немесе отбасылық фотоальбом. Күрделі электрондық құрылғылардан, құралдардан және қиын үстел ойындарынан аулақ болған жөн. Оны сыйлық беруге де тарту, мысалы, сыйлықты орау немесе пісірген печеньелерді қорапқа салу, өзі де жақсы сый болуы мүмкін."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +42,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Мерекелер жылы естеліктерді оятуы мүмкін, сонымен қатар әдеттегі күн тәртібіне шу, көп адам және өзгерістер әкелуі мүмкін. Деменциямен өмір сүретін адам үшін ең қолайлы мереке әдетте ауқымы шағын, асықпайтын және ол әлі ләззат ала алатын нәрселерге негізделген болады. Бұл идеялар Алғыс айту күніне, Рождествоға, Ханукаға, Жаңа жылға және отбасылық туған күндерге де жарайды.
 
-## How do I plan a calmer holiday?
+## Тыныш мерекені қалай жоспарлауға болады?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Адамның күн тәртібінен бастаңыз және күнді соған сай жоспарлаңыз. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) мерекені күннің ерте мезгілінде өткізуді ұсынады, себебі абыржу мен мазасыздық көбіне түстен кейінгі және кешкі уақытта күшейеді (кейде мұны «күн бату кезіндегі мазасыздық» деп атайды). Кешкі астан гөрі, мерекелік түскі немесе таңғы ас оңайырақ болуы мүмкін.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Ауқымын лайықты ұстаңыз.** Шағын әрі жай жиын немесе қонақтардың бір уақытта аз келуі көбіне бір ғана толы үстелден оңайырақ болады.
+- **Жұмыстарды бөліңіз.** Туыстардан бір тағам әкелуін, дүкенге баруын немесе сіз тамақ әзірлеп жатқанда адаммен уақыт өткізуін сұраңыз. Не көмектесетінін нақты айтыңыз.
+- **Әшекейлерді қарапайым ұстаңыз.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) жыпылықтайтын шамдар адамды шатастыруы мүмкін екенін және әшекей ретінде қойылған кәмпиттер мен жасанды жемістерді тағам деп қабылдауға болатынын айтады.
+- **Неден бас тартуға болатынын шешіңіз.** Егер бір дәстүр стрестің көзіне айналса немесе қауіпті болса, одан бас тартуға немесе тынышырақ баламаны таңдауға болады.
 
-## What holiday activities can we do together?
+## Бірге қандай мерекелік істер істей аламыз?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Адамның бүгінгі мүмкіндігіне сай жұмыстар мен әрекеттерді таңдаңыз. Нәтижесінен гөрі, күннің бір бөлігі болуы маңыздырақ.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Үстелді бірге жабыңыз.** Алдымен тәрелкелерді, содан кейін майлықтарды, кейін стакандарды қойыңыз. Майлықтарды бүктеу — отырып істеуге болатын жақсы жұмыс.
+2. **Көкөністерді жуып, сұрыптаңыз.** Картопты жуу немесе ас үй үстелінде бұршақ тазалау — бұрын ас дайындаған көптеген адамдарға қауіпсіз әрі таныс іс.
+3. **Араластырыңыз, қосыңыз немесе тәрелкеге салыңыз.** Мүкжидек соусын араластыру, қарапайым қамырды қосу немесе печеньелерді тәрелкеге салу қолды плита мен пышақтан алыс бос ұстайды.
+4. **Сыйлық ораңыз.** Қағаз бен желімді алдын ала дайындап қойыңыз да, адамға бүктеп, тегістеуге мүмкіндік беріңіз. Орамның мінсіз болуы маңызды емес.
+5. **Бірнеше әшекей іліңіз.** Сынбайтын ойыншықтарды және шағын бір жерді, мысалы, гүл шоқтарын ілетін әшекейді немесе шағын шыршаны таңдаңыз.
+6. **Қарапайым қолөнер жасаңыз.** Қағаз тізбектер, жапырақтардан коллаж немесе мөртаңбалы мерекелік ашықхат жақсы үйлеседі. [Қолөнер бойынша нұсқаулығымызда](/activities/arts-and-crafts/) тағы да идеялар бар.
+7. **Ән айтыңыз және тыңдаңыз.** Таныс мерекелік әндерге қазір аз сөйлейтін адам да оңай қосыла алады. Әндер тізімін жасау үшін [музыка бойынша нұсқаулығымызды](/activities/music/) қараңыз.
+8. **Ескі мерекелік фотосуреттерді қараңыз.** Бұрынғы мерекелердің альбомдарын шығарып, кім екенін сұраудың орнына, әңгімеге шақырыңыз («Бұл үстел туралы айтып берші»). [Естеліктер бойынша нұсқаулығымызда](/activities/reminiscence/) бұл туралы толығырақ жазылған.
+9. **Жеңіл топтық ойын ойнаңыз.** [Суретті бинго](/games/picture-bingo/) бірнеше минутта басылып шығарылады және барлық жасқа сәйкес келеді, ал [әңгіме карталары](/games/conversation-cards/) барлығына әңгіме тақырыбын ұсынады.
+10. **Бірге бояңыз.** Қарапайым [бояу парақтарын](/games/coloring/) балалар мен үлкендер бірге үстел басында бояуы үшін басып шығаруға болады.
+11. **Сүйікті мерекелік фильм көріңіз.** Таныс фильм демалыс береді, әрі оның бір бөлігін ғана көру де жарайды.
+12. **Шамдарды көру үшін қысқа сапарға шығыңыз.** Әшекейленген үйлердің жанынан тыныш көлікпен өту көп адам жиналған шараға барғаннан оңайырақ болуы мүмкін.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Егер ас пісіру адамның өмірінде маңызды орын алған болса, [үй шаруасын іс-шара ретінде пайдалану](/activities/household-tasks/) туралы нұсқаулығымызда ас үй жұмыстарын қауіпсіз әрі жағымды етуге арналған тағы да идеялар бар.
 
-## How do I prepare guests?
+## Қонақтарды қалай дайындау керек?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Қонақтар келмей тұрып, әсіресе көптен бері келмеген туыстарға, не күту керегін айтыңыз. Alzheimer's Association жад пен мінез-құлықтағы өзгерістер адамның өзінен емес, аурудан болатынын түсіндіруді ұсынады.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Бірнеше қарапайым кеңес айтыңыз:** кезекпен сөйлеу, ойды аяқтауға уақыт беру, түзетпеу және сұрақпен сынамау, ал сөздерді түсіну қиын болса, адамның көңіл-күйі мен үніне назар аудару.
+- **Не көмектесетінін және не ренжітетінін айтыңыз.** Егер қатты дауыс, асықтыру немесе белгілі бір тақырыптар алаңдатса, бұл туралы алдын ала айтыңыз.
+- **Қонақтарды алдын ала таныстырыңыз.** Адамға кім келетінін фотосуреттер арқылы көрсетіп, бір-екі әңгіме айтыңыз немесе мереке күнінен бұрын қысқа телефон не бейнеқоңырау ұйымдастырыңыз.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[Қарым-қатынас кеңестері](/caregiving/communication-tips/) туралы бөлімімізде бұл туралы толығырақ жазылған.
 
-## What if it gets to be too much?
+## Егер бәрі тым ауыр болып кетсе ше?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Қонақтар келмей тұрып, шудан алыс, сүйікті көрпе, жемпір немесе қарапайым іс сияқты таныс жайлы заттары бар тыныш бөлме дайындаңыз. Оны ертерек әрі жиі ұсыныңыз: «Біраз тынышырақ жерге отырып, демалып алайық па?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Үстел басынан тұру, ертерек ұйықтауға жату немесе күннің бір бөлігін өткізіп жіберу — сәтсіздік емес, жақсы шешім. Егер адам қобалжыса, сабырлы дауыс, таныс ән немесе басқа бөлмеге серуендеу дәлел келтіруден гөрі жиі көбірек көмектеседі. [Кешкі уақыттағы мазасыздық](/caregiving/late-day-restlessness/) туралы нұсқаулығымызда кешке арналған тағы да идеялар бар.
 
-## How can family far away take part?
+## Алыстағы туыстар қалай қатыса алады?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Бейнеқоңыраулар туыстарға көп адам қосылмай-ақ мерекеге қатысуға мүмкіндік береді. Alzheimer's Association қоңырауларды біршама жоспарлы етуге кеңес береді, мысалы, мерекелік ән айту, бұрынғы жиындардың фотосуреттерін көрсету, бірге бір рецепт пісіру немесе мерекелік фильмді бір уақытта көру. Қоңырауларды қысқа ұстаңыз және адамдардан кезекпен сөйлеуін сұраңыз, себебі бірнеше адамның қатар сөйлеуін түсіну қиын болуы мүмкін. [Телефон және бейнеқоңыраулар бойынша нұсқаулығымызда](/activities/phone-and-video-calls/) қадамдық идеялар бар.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Егер адам есте сақтау қабілеті бұзылған адамдарға арналған мекемеде тұрса, келушілерге арналған ережелерді біліп алыңыз және қоңырауды баптауға қызметкерлерден көмек сұраңыз. [Есте сақтау қабілеті бұзылған адамдарға арналған мекемеге бару](/activities/visiting/) туралы нұсқаулығымызда не әкелу керек және қалай қоштасу керек екені жазылған.
 
-## What gifts suit someone with dementia?
+## Деменциясы бар адамға қандай сыйлықтар лайық?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Қазір пайдалана алатын қарапайым әрі қауіпсіз сыйлықтар әдетте ең қолайлы болады: сүйікті тағам, жұмсақ көрпе немесе кофта, таныс музыка, үлкен әріпті күнтізбе немесе отбасылық фотосуреттер альбомы. Alzheimer's Association қауіпті құралдардан, күрделі электрондық құрылғылардан және қиын үстел ойындарынан аулақ болуға кеңес береді.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Сыйлық беру де, сыйлық алу да маңызды болуы мүмкін. Адам пісіруге көмектескен печеньелерді қорапқа салу немесе сіз сатып алған сыйлықты оған орату — оны мерекеге қатыстырудың жақсы тәсілі. Тағы бір идея — отбасылық фотоойын: [фото жұптар](/games/photo-pairs/) бірнеше таңдалған фотосуретті браузерде жеңіл сәйкестендіру ойынына айналдырады.
 
-## Look after yourself too
+## Өзіңізге де қамқор болыңыз
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Мерекелер қамқорлыққа қосымша жұмыстар қосады. Біреуге қонақ күтуге немесе тағам дайындауға мүмкіндік беріңіз, қиын болатын шаралардан бас тартыңыз және басқалар адаммен болған кезде өзіңізге үзіліс жасаңыз. Егер сіздің немесе қамқорлық танытып жүрген адамның көңіл-күйі нашар болса, ауладан қол бұлғау немесе бейнеқоңырау да жақсы кездесу бола алады. [Қамқор адамға өзін күту туралы](/caregiving/caregiver-self-care/) нұсқаулығымызда қосымша қолдау бар.

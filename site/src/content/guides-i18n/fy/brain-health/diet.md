@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND- en mediterrane dieet en demintens"
+seoTitle: "MIND-dieet en demintens: wat ûndersyk seit"
+description: "Wat ûndersyk seit oer it MIND- en mediterrane dieet en demintens, wêrom in grutte proef gjin dúdlik foardiel fûn, en hoe't jo helpe mei iten."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Guon ûndersiken dy't minsken yn de tiid folgje, sjen in ferbân tusken
+  mediterrane en MIND-itpatroanen en in legere kâns op demintens, mar dat is net
+  altyd sa. In trijejierrige ûndersyksproef mei it MIND-dieet, publisearre yn
+  2023, fûn gjin wichtich ferskil yn tinken of harsensscans yn ferliking mei in
+  kontroledieet. Gjin iten of oanfolling is bewiisd dat it demintens foarkomt.
+  Foar minsken dy't libje mei demintens is it it wichtichste dat se genôch ite
+  en drinke.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Guon, mar net alle, ûndersiken dy't minsken yn de tiid folgje, sjen in ferbân tusken mediterrane en MIND-itpatroanen en in legere kâns op demintens."
+  - "Yn in proef út 2023 mei 604 âldere folwoeksenen diene minsken mei it MIND-dieet it nei trije jier net better op tinktests of harsensscans as minsken mei in kontroledieet."
+  - "It National Institute on Aging seit dat der gjin bewiis is dat it iten of mijen fan in bepaald iten de sykte fan Alzheimer foarkomt, en dat gjin fitamine of oanfolling bewiisd is dat it foarkomt."
+  - "In dieet mei in protte griente, fruit, beanen, folsleine nôt en fisk stipet de sûnens fan it hert en kin helpe by risiko's lykas hege bloeddruk en sûkersykte."
+  - "Foar minsken dy't libje mei demintens binne finger iten, borden mei kontrast, rêstige mieltiiden en geregeld drinke faaks wichtiger as in bepaald dieet."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Foarkomt it MIND-dieet demintens?"
+    a: "Dat is net oantoand. Guon ûndersiken seagen in ferbân tusken it MIND-dieet en in legere kâns, mar in trijejierrige ûndersyksproef publisearre yn 2023 fûn gjin wichtich ferskil yn tinktests of harsensscans tusken minsken mei it MIND-dieet en minsken mei in kontroledieet. Beide groepen gongen in bytsje foarút en foelen sawat itselde gewicht ôf."
+  - q: "Wat is it ferskil tusken it MIND-dieet en it mediterrane dieet?"
+    a: "It mediterrane dieet leit de klam op griente, fruit, folsleine nôt, beanen, fisk en olijfolje, mei net folle read fleis of swiets. It MIND-dieet kombinearret it mei it DASH-dieet foar bloeddruk en leit ekstra klam op griene blêdgriente en bessen, wylst it read fleis, swiets, tsiis, bûter en frituerd iten beheint."
+  - q: "Binne der iten of oanfollingen dy't de sykte fan Alzheimer foarkomme?"
+    a: "Nee. It National Institute on Aging seit dat der gjin bewiis is dat it iten of mijen fan in bepaald iten de sykte fan Alzheimer of leeftiidsbûne kognitive efterútgong foarkomt, en dat gjin fitamine of oanfolling bewiisd is dat it de sykte fan Alzheimer foarkomt. Praat mei in dokter foardat jo oanfollingen nimme."
+  - q: "Hokker iten is it maklikst foar immen mei demintens om te iten?"
+    a: "Lytse hapkes finger iten, lykas stikjes bôle, stikjes hin, partjes sinesappel of stoomde griente, binne faaks makliker as it brûken fan bestek. As kauwen of slikken lestich is, kinne sêfte iten lykas roere aaien, appelmoes of Hüttenkäse helpe. Freegje de dokter nei in sliktûk as hoastjen of stikjen foarkomt."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,170 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Miskien hawwe jo lêzen dat in „harsenssûn” dieet de sykte fan Alzheimer op ôfstân hâlde kin. De wierheid is minder dúdlik. Guon itpatroanen wurde yn ûndersiken dy't minsken yn de tiid folgje, ferbûn mei in legere kâns, mar de bêste ûndersyksproef oant no ta fûn gjin dúdlik foardiel. Dizze side leit beide út, en giet dan yn op wat foar immen dy't al mei demintens libbet meastentiids it wichtichste is: genôch ite en drinke, en der genietsje.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Dit is algemiene ynformaasje, gjin medysk advys. Praat mei in dokter of diëtist foardat jo jo eigen dieet of dat fan immen oars feroarje. Sjoch ús [medyske disclaimer](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Wat binne it mediterrane en it MIND-dieet?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+It National Institute on Aging (NIA) beskriuwt se sa
+([NIA oer dieet en de sykte fan Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Mediterrane dieet:** in protte fruit, griente, folsleine nôt, beanen, fisk
+  en skulp- en skaaldieren, en olijfolje, mei in bytsje read fleis, aaien en
+  swiets.
+- **MIND-dieet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  in miks fan it mediterrane dieet en it DASH-dieet foar bloeddruk. It leit de
+  klam op griente, benammen griene blêdgriente; bessen; folsleine nôt; beanen;
+  nuten; fisk op syn minst ien kear yn de wike; en olijfolje. It beheint read
+  fleis, swiets, tsiis, bûter of margarine, en frituerd of fastfood.
 
-## Do these diets lower dementia risk?
+## Ferleegje dizze diëten de kâns op demintens?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+It bewiis is mingd. It NIA seit dat guon, mar net alle, ûndersiken in ferbân
+seagen tusken it mediterrane en it MIND-dieet en in legere kâns op demintens yn
+ferliking mei in westersk dieet mei mear read fleis, verzadigd fet en sûker.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+De Lancet-kommisje fan 2024 besjoen it ûndersyk yn mear detail
+([Lancet-kommisje](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Ien oersjoch fan kohortstúdzjes seach in ferbân tusken hege dieetkwaliteit en
+  sawat 20% legere kâns op demintens.
+- In gruttere analyze fan trije kohorten seach in ferbân tusken it nauwer
+  folgjen fan it MIND-dieet en in legere kâns.
+- Mar in Sweedske stúdzje dy't 28.025 minsken fan middelbere leeftyd sawat 20
+  jier folge, fûn gjin legere kâns mei oanrikkemandearre diëten of in
+  mediterrane dieetstyl.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Dit soarte ûndersiken kin gjin oarsaak en gefolch bewize. Minsken dy't sa ite,
+ferskille faaks ek op oare punten, lykas ynkommen, oplieding, beweging en tagong
+ta sûnenssoarch. De kommisje konkludearre dat der net genôch bewiis is om te
+sizzen dat sûne diëten demintens streekrjocht foarkomme, hoewol it iten fan in
+protte fruit en griente en minder sterk ferwurke iten goed is foar in protte
+sûnensproblemen en ynfloed hat op risiko's lykas oergewicht, sûkersykte en hege
+bloeddruk. De kommisje sette dieet net op har list mei
+[14 risikofaktoaren](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Wat fûn de MIND-dieetproef fan 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+De sterkste test oant no ta wie in ûndersyksproef publisearre yn it New England
+Journal of Medicine yn 2023
+([MIND-dieetproef](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Wa:** 604 folwoeksenen fan 65 jier en âlder yn de omkriten fan Chicago en
+  Boston, sûnder tinkproblemen, mei in nau famyljelid mei demintens, mei
+  oergewicht, en mei in minder sûn dieet oan it begjin.
+- **Wat:** trije jier lang folge de helte it MIND-dieet en de helte har gewoane
+  dieet. Beide groepen waarden frege om sawat 250 minder kalorieën per dei te
+  iten en krigen regelmjittich begelieding fan diëtisten.
+- **Resultaat:** de útslaggen op tinktests gongen yn **beide** groepen in bytsje
+  foarút. It ferskil tusken de groepen wie lyts en **net statistysk wichtich**.
+  Harsensscans lieten ek ferlykbere feroaringen sjen yn beide groepen.
+- **Gewicht:** beide groepen foelen sawat 5 kilogram (rûn 11 pûn) ôf.
 
-### Why might the trial have found no difference?
+### Wêrom fûn de proef miskien gjin ferskil?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+De ûndersikers neamden ferskate redenen. De kontrôlegroep ferbettere
+wierskynlik ek har dieet, om't dy groep sawat itselde gewicht ferlear. Werhelle
+testen kinne op harsels al bettere útslaggen jaan, om't minsken wend reitsje oan
+de tests. Trije jier kin te koart wêze. De measte dielnimmers wiene goed
+oplieden en fan Jeropeeske komôf, dus de útslaggen jilde miskien net foar
+eltsenien.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+De earlike gearfetting is dus: it MIND-dieet die it oer trije jier net better as
+in ferstannich dieet mei minder kalorieën. Dat betsjut net dat sûn iten neat
+úthelt. It betsjut wol dat nimmen fan in bepaald dieet ferwachtsje moat dat it
+demintens foarkomt.
 
-## What about specific foods and supplements?
+## Hoe sit it mei bepaalde iten en oanfollingen?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+It NIA seit dat der gjin bewiis is dat it iten of mijen fan in bepaald iten de
+sykte fan Alzheimer of leeftiidsbûne kognitive efterútgong foarkomt. Blauwe
+bessen, blêdgriente en koerkuma binne allegear ûndersocht, sûnder bewiis. It
+NIA seit ek dat gjin fitamine of oanfolling bewiisd is dat it de sykte fan
+Alzheimer foarkomt, en dat gjinien dêrfan dêrfoar oanrikkemandearre wurdt. It
+NIA warskôget dat net-bewiizde produkten dy't ferkocht wurde om de sykte fan
+Alzheimer foar te kommen ûnfeilich wêze kinne, jild fergrieme, of beide, en dat
+se foarskreaune medisinen yn 'e wei sitte kinne. Gean dêrom earst nei in dokter
+foardat jo wat probearje
+([NIA oer it foarkommen fan de sykte fan Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Hoe kin iten sûn en noflik bliuwe?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Foar de measte âldere folwoeksenen giet it om iten dat voedend, bekend en
+prettich is, net om in strang plan:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Bou mieltiiden op mei iten dat jo lekker fine** út it mediterrane patroan:
+  griente, fruit, beanen, folsleine nôt, fisk en olijfolje.
+- **Hâld favorite lekkernijen.** Genietsje en appetit binne wichtich, benammen
+  letter yn it libben.
+- **Iet mei oaren** as dat kin. Tegearre ite is goed selskip.
+- **Kook tegearre.** Griente waskje of yn in panne roerje is in goede dielde
+  aktiviteit; sjoch [húshâldlike taken](/activities/household-tasks/). In
+  favorite famyljeresept kin ek
+  [herinneringen oproppe](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Âldere folwoeksenen moatte gjin kalorieën ynkoarte of gewicht ferlieze sûnder
+mei in dokter te praten, en fêstjen bringt ekstra risiko's mei. Sjoch ús
+[gids oer fêstjen](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Hoe kinne jo immen mei demintens helpe om goed te iten?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
+Foar minsken dy't libje mei demintens is **genôch** ite en drinke meastentiids
+de wichtichste soarch. De Alzheimer’s Association merkt op dat minsken ferjitte
+kinne te iten, tinke kinne dat se al iten hawwe, of har oerladen fiele kinne
+troch karren, en dat minne fieding gedrachssymptomen fergrutsje kin en
+gewichtsferlies feroarsaakje kin
+([Alzheimer’s Association oer iten en drinke](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Dizze ideeën komme fan de Alzheimer’s Association, it NIA en de Alzheimer’s
 Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Biede finger iten oan.** Lytse hapkes dy't maklik op te pakken binne, lykas
+   stikjes bôle, stikjes hin, fiskstikjes, partjes sinesappel of stoomde
+   brokkoli, litte immen sels ite sûnder bestek.
+2. **Brûk kontrast op tafel.** Feroaringen yn it sicht kinne it lestich meitsje
+   om iten fan it boerd te ûnderskieden. Wite borden of kommen op in plakmat mei
+   kontrast kinne helpe. Mij borden en tafelkleden mei in patroan.
+3. **Jou ien of twa soarten iten tagelyk.** In fol boerd kin oerladen wêze.
+4. **Hâld mieltiiden rêstich.** Doch de tv út, hâld de tafel ienfâldich, en jou
+   genôch tiid. It NIA riedt oan om net te haastjen of te drukken.
+5. **Biede faak lytse mieltiiden en tuskendoarjes oan.** It NIA stelt lytsere,
+   mear mieltiiden en kalorie-rike tuskendoarjes foar as de persoan net genôch
+   yt
+   ([NIA-tips foar goed ite](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Help by it drinken.** Biede oer de dei hinne lytse bekers wetter of oare
+   dranken oan, en ek iten mei in protte wetter, lykas fruit, sop, milkshakes en
+   smoothies. As de persoan gjin wetter wol, stelt it NIA foar om sap, wetter
+   mei smaak, bûillon, molke, of kofje of tee sûnder kafeïne te probearjen.
+7. **Kontrolearje de temperatuer.** Immen kin miskien net trochhawwe dat iten of
+   in drank te hyt is.
+8. **Pas bestek en bekers oan.** Kommen yn stee fan borden, leppels mei grutte
+   hânfetten, en bekers mei in deksel kinne it iten makliker meitsje. Meitsje jo
+   gjin soargen oer rommel.
+9. **Meitsje iten makliker om te kauwen en te slikken.** Snij iten yn lytse
+   stikjes of biede sêft iten oan. As de persoan hoastet of stikket by it iten,
+   fertel it dan oan de dokter.
+10. **Twing net om te iten.** It NIA merkt op dat appetit yn de lettere stadia
+    fan de sykte fan Alzheimer fan natuere ôfnimt.
 
-### Signs to tell the doctor about
+### Sinjalen om de dokter oer te fertellen
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Gewichtsferlies, iten wegerje, wurgens of swakkens kinne sinjalen wêze dat immen
+net genôch yt. De Alzheimer’s Society merkt op dat seare tosken of in gebit,
+depresje, forstopping en feroaringen yn medisinen allegear de appetit ferminderje
+kinne
+([Alzheimer’s Society oer appetit](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Sinjalen fan útdroeging dy't it NIA neamt, binne in droege mûle, duizeligens, in
+flugge hertslach en hallusinaasjes
+([NIA oer gewoane medyske problemen](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Praat mei in dokter
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Foardat jo grutte feroaringen meitsje yn jo eigen dieet, of dat fan immen oars,
+praat mei in dokter of diëtist, benammen as jo sûkersykte, niersykte,
+slikproblemen of resint gewichtsferlies hawwe. Foar immen dy't mei demintens
+libbet, freegje hoefolle dy persoan moat probearje om elke dei te iten en te
+drinken, en oft in diëtist of oanfollingen helpe kinne.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Sykje daliks help as immen stikket, of ynienen yn 'e war is, slim duizelich is
+of floutfalt.

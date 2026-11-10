@@ -1,32 +1,34 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Nipilersornerup dementiaqartunut angallatitai"
+seoTitle: "Nipilersornerup dementiaqarnermilu inuussutissarsiutit"
+description: "Qanoq nipimik dementiaqartumut aggersinnaanerit: nammineq nipilersuutit toqqakkakka, 15 suliaqanngitsut atorlugu, tamanullu innuttaasut siunnersuutaat."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Nipilersorneq dementiaqartumut amigaateqartarnerit annersaanerpaajussaavoq.
+  Inuusuttunngornermini, upperisamini ilaqutariinnilu nipilersuutit
+  asanerpaasai toqqakkit, aningaasarsiornernik takussutissiartartunillu
+  akerlianik tusarnaartitsigit. Ataasiinnakkullu erinarsorlusi, patsittarlusi,
+  aallarusuttarlusi imaluunniit tusarnaarlusi. Pissutsit naapertorlugit
+  nipilersuutit eqqissisimanartut imaluunniit nuannersimasut toqqakkit, nipituussusaa
+  qasallakkit, erinarsuutillu aliasuutigisaraat unitsikkuk.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Nammineq nipilersuutit pitsaassusarput: inuusuttuaraangamik asanerpaasaat, upperisaminit, kulturiminit ilaquttaminillu pisut."
+  - "Ataaseq ataatsimut tusarnaartitsiuk, suliffeqarfinnik marlunniakkaanillu takussutissiutinik ingerlatitseqqiilluni."
+  - "Erinarsorneq, patsitsineq, aallarusunneq imaluunniit tusarnaarneq tamanut peqataasunutut pingaaruteqarsinnaavoq."
+  - "Eqqissisitsiniarluni nipilersuutit eqqissisimanartut, nuannaartitsiniarlutillu nuannersimasut atoruk, inullu qanoq misigisimanera malinnaavigiuk."
+  - "Misissueqqissaarnerit nipilersornerup aaqqissuussaanikkut atorneqarnera pillugit killinganik takorluuisarput; nipilersorneq peqatiginninniarnerusut nuannersumut siunnersuutigivarput, katsorsaanerinngilaq."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Nipilersuutip qanoq ittup dementiaqartumut pitsaanerpaava?"
+    a: "Inuit sivisuumik asaasimasaasa ilagaat, amerlanertigut inuusuttuaraangamik marlunnik kulinnillu ukiulinni tusarsimasaat, upperisaminit, kulturiminit naggataatigullu ilaquttanut nipilersuutit. Sapinngilikkuk imminnut toqqartikkit. Kinnaqaa timaanilu qanoq misigisimanera malinnaavigiuk nuannarineranik paasiniaruit, aliasuutigisaraallu unitsikkuk."
+  - q: "Siutinit tusarnaartitsinerit atussavakka?"
+    a: "Ilaat siutinit tusarnaartitsinerit nuannaraat nipiluanngitsut akuerisinnaammagit, allalli akerlianik misigisinnaavaat. Siulleq tassaavoq nipilersuut atorlugu tusarnaartitsineq, assigiinngitsorli peqatiginninneqarsinnaallusi. Siutinit tusarnaartitsinerit atussagukku nipituussusaa qasallakkit, qanittumiluinneqarlutit."
+  - q: "Nipilersorneq unitsitsinermik aliasunnermilluunniit ikiornersuussinnaava?"
+    a: "Nipilersuutit eqqissisimanartut il familiarillu eqqissisitsisinnaapput, Alzheimer’s Association-imiullu siunnersuuteqartarput nipilersorneq isumavit pissusaa naleqqussarlugu atorsinnaallugu. Tamannali aalajangersimasunik iluatsissanngilaq. Inuk aliasuppat, annernarnermut, kaannersuunermut, nipiluanermut imaluunniit qasunnermullu maluginiassavat."
+  - q: "Dementiaqarfiusoq killilernerani nipilersornernik nuannaarneqarsinnaavoq?"
+    a: "Amerlasuut taamaattorujussuusinnaapput. Alzheimer’s Association-imi nassuiarneqarpoq inuk killilerneraniittoq meeqqat atuarfianni erinarsuutimut patsillattarsinnaasoq imaluunniit erinarsinnaasoq. Qanittumut ingikkit, nipilersuut qasallarlugu tusarnaartitsiuk, assaalu tigussallugu imaluunniit peqatigisigiuk aallarusuttarlutit."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +47,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Nipilersorneq dementiaqartumut peqatiginninniarnerit annersaanerpaajussaavoq. Akissuteqarnissaq piumasaqanngilaq: akissutit eqqortut pisariaqartinneqanngillat, malittarisassallu soqutigaanngillat. Erinarsuut familiarit qummut qungujulertitsisinnaavoq, isigisaanik patsitsisitsisinnaallutik imaluunniit oqaatsinik ikivallaatnik erinarsortitsisinnaallutik, ullunilu arlaanni oqaloqatigiinneq ajornakusoqartillugu. Tamanna pisinnaarlugu inummut tassunga nipilersuut eqqortoq pissutsimullu tassunga piffissaq nipaarlaarluinnartoq pisariaqartinneqarpoq.
 
-## What music activities work for people with dementia?
+## Nipilersornerup dementiaqartunut qanoq suna peqqutissaaq?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Tusarnaarneq, erinarsorneq, patsitsineq, aallarusunneq nipilersornermullu pillugit oqaloqatigiinneq tamarmik pitsaasumik atornegarsinnaapput. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) siunnersuuteqarpoq nipilersuutinik tusarnaartitsinissaq, nipilersuutimik erinarsortimillu pillugit oqaloqatigiinneq, erinarsuut familiarinik erinarsorneq timmertarnerlu, aammalu najukkami tusarnaartitsinermut pisinissaq. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) erseqqissaqarpoq aallarusunnerup patsitsinerulluunniit nuannaarneq annerusisinnaagaat, nipilersornerlu attaveqaqatigiinnermik periuseqarsinnaavoq, oqaatsit ajornanngoraluartut.
 
-## How do you build a personal playlist?
+## Qanoq nammineq nipilersuutinik toqqakkanik pilersitsisinnaavunga?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Atussanerpaartat tassaasinnaavoq inummut tassunga isumassarsisunik nipilersuutinik toqqakkat. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)-imilu erseqqissaavoq inummut pingaaruteqarnersoq nipilersuut. Ima pilersitsisinnaavat.
 
-### Start with their life
+### Inuunerannik aallaariarit
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Inuusuttuaraangat 20-nillu ukiullit missaani.** Radiuni, qitittarfinni filmilinilu tusarnegartarsimasut eqqarsaatigisigit.
+- **Pisut pingaarutillit.** Katissimaveqarfimmini erinarsuut, siullermik timmerneq asanerpaartorlu angalaqatigiinnerni nipilersuutit.
+- **Upperisaq kulturilu.** Erinarsuutit uppernermut, gospel, erinarsuutit qutsinnerusumik ilisimaneqartut imaluunniit oqaluttuarisaanermi erinarsuutit.
+- **Suliffeqarfik kiffartuussinerlu.** Sakkutuut nipilersuutaat, sulinermi erinarsuutit imaluunniit sakkutuuneranni atorneqartarsimasut.
+- **Ilaqutariit eqqaamavaat.** Qatanngutit, meerartaat ikinngutaasallu aperikkit suut erinarsornegartarsimanersut imaluunniit tusarnegartarsimanersut.
 
-### Think in genres, not just songs
+### Erinarsuutit assigiinngitsut immikkut ujartikkit, erinarsuutit ataasiakkaat pinnagit
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Qanoq aallartissaanerit nalugukku, ataasiaannarlugit tamarmik sivisuumik ujartikkit inullu qanoq misigisimanera malinnaavigiuk: big band aamma swing, doo-wop, Motown aamma soul, rock and roll siulleq, country aamma western, bluegrass, gospel aamma erinarsuutit uppernermut, Broadway-mi erinarsuutit, jazz-mi erinarsuutit nalinginnaasut, Latin-mi nipilersuutit soorlu bolero imaluunniit mariachi, polka, folk aamma klassisk nipilersuutit. Qummut qungujulertitsisut patsitsisitsusulluunniit tammaruk; aliasuutigisartullu unitsikkit.
 
-### Make it easy to play
+### Atortuinnartumik ilusilersoruk
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Aningaasarsiornerit akerit.** Alzheimer’s Association-imi mianersoqqussuteqarpoq aningaasarsiornerit paatsuungaqatigiissinnaasut. Nipilersuutit aaneqarsimanngitsut, CD-t, nipilersuutit savimmut sammiveqarsimanngitsut imaluunniit ingerlatsinermi aningaasarsiorneqanngitsumi atoruk.
+- **Atortussaq ataaseq annikitsumik.** Nipilersuut mikisoq toortaat ataaseq annertooqarluartumik, imaluunniit nipilersuutit toqqakkat piareersimasut, kinaassutsiunersoq apeqqutaatinnagu aallartissinnaallugit.
+- **Toqqakkat marlunngortut sivisuunngitsut.** Ataaseq eqqissisitsiniarluni, aappaalu nuannaartitsiniarluni.
+- **Ateq allaguk.** Inup aqqa aammalu “nipilersuutit asanerpaat” atortussaq qulaanut allakkit, pulaartut ilaqutariit isumaginnittuillu atorsinnaaqqullugu.
 
-## 15 music activities to try
+## Nipilersornerit 15-t misissavatit
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Peqatigalugu tusarnaarit.** Saniani ingikkit allat sunillu anguniagaqarnatit. Tusarnaarneq suliniutaavoq naammassinninneqarsinnaasoq.
+2. **Ilanngullugu erinarsorit.** Iminngooq erinarsuuteqaatit. Nipituumik erinarsorneq imaluunniit qaavanit erinarsornerlu attaveqaqatigiinneq nalilerpoq.
+3. **Patsitsigit imaluunniit patsikkiartorlutit.** Serfanut patsikkiartorit, nerrivik patsikkiarlugu imaluunniit nipilersuut mikisoq atorlugu.
+4. **Arrualaarlugit timmerneq.** Igaffimmi assanik tigusillusi aallarusuttarit, imaluunniit ingilluni timmerneq, assanik aallarusuttarlusi.
+5. **Aallarusunneq qalipaatinik.** Qalipaatit oqimaassutsit nipilersuutip nalaani aallarussukkit, najorsimagallutillu ingisimagalluunniit.
+6. **Nipilersuut pillugit oqaloqatigigit.** Apeqqutaatillu misissueqqissaarniarnatit: “Uuma qitittarfeq eqqaamasaanngorsinnaavaa. Qitittarnerit pillugit oqaluttuulaariarit.” Taama aperiniarnak: “Una erinarsuut eqqaamaviuk?”
+7. **Albumi ataatsimik tusarnaartitsiuk.** Nipilersuut asagaa aallartinneranit naaneranut tusaqarfigiuk, kaffisorlutillu.
+8. **Albumip qalipaa takuniarlugu.** Nipilersuutit savimmut sammisat pisoqaasussat atisanik, biilinik kinnaanillu oqaluttuarisaanermut pitsaapput.
+9. **Musical takuniarlugu.** Filmilersugaq musical imaluunniit tusarnaartitsineq inuusuttuaraangatit pissusilimmik unnukkut nuannersinnaavoq. Uninngatinniarlugit unitsikkit.
+10. **Nipilersuutimmik ilisimasaannik nipilersoruk.** Piano-mik guitarimilluunniit nipilersortarsimasup annikitsumik nipilersorneq nuannarisinnaavaa. Kingusinnerusukkut notaasa ikittuinnaat peqatigalugit naanersaapput.
+11. **Suliarineq nipilersornerlu.** Annoraat immikkuuartillugit imaluunniit nerrivik piareersarlugu nipilersuutit asanerpaat tusarnaartitsikkit.
+12. **Ullaakkut erinarsuut.** Ullut tamaasa erinarsuut nuannaartoq ataaseq ingerlataralugu aallartikkit.
+13. **Uppernermut erinarsuutit erinarsukkit.** Upperisaanni erinarsuutit tusarnaartitsikkit peqatigilugillu erinarsorlusi.
+14. **Erinarsortartut peqatigiiffiat ilaariuk.** NHS-ip erseqqissarpaa erinarsortartut peqatigiiffiat isumannut peqqissutsimullu iluaqutaasinnaasut. Najukkanni dementiaqartunut erinarsortartut peqatigiiffiat aperiakkit.
+15. **Inuunermi tusarnaartitsinermut pisarit.** Najukkami tusarnaartitsineq sivisuunngitsoq imaluunniit silami nipilersortartut. Anniarfimmut qanittumut ingikkit, pissutsillu naleqqussarlugit angerlarlutit.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Oqaatsinik nuannersumik suliaqarnissaq sunniuteqarniarukku misiliguk [oqariartaat naammassiuk](/games/finish-the-saying/), tamaani naaneranik takutitsinissaq aatsaat tamanut periarfissaavoq.
 
-## Matching music to the moment
+## Nipilersuut piffissaq naleqqussarlugu
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer’s Association-imi siunnersuuteqarpoq nipilersorneq pissutsit isumagisat naleqqussarlugit atorsinnaasoq: nipilersuutit eqqissisimanartut eqqissisitsiniarlutik, erinarsuullu nuannaartoq inuusuttuaraangamik tusarsimasaat isumamik kiffartitsisitsilluni.
 
-| Moment | Try | Tip |
+| Piffissaq | Misiliguk | Siunnersuut |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Makinneq | Erinarsuut familiarit nuannaartorlu | Ullut tamaasa erinarsuut ataaseq malittariaginnartussanngorsinnaavoq |
+| Suliat najugaqartut | Nipilersuutit nuannersimasut asanerpaat | Nipilersorneq suliaqarnermi peqataanera misigissallugu ikiorpoq |
+| Nerineq | Nipilersuutit sajuppallaanngitsut, nipilersuutitaqanngitsut | Nerisarnermi akerliunnginnissaanut nipituussusaa qasallakkit |
+| Ullumikkut kingulliartulernerani | Nipilersuutit eqqissisimanartut familiarillu, qaammaqquttumi | Takutiguk [ullumikkut kingulliartulernerani unitsinneq](/caregiving/late-day-restlessness/) |
+| Sininneq | Nipilersuutit arrualaat oqimaassutillu | Nipituussusaa qaamassusaalu ataatsikkut appariartikkit |
+| Killilerneq kingulleq | Nipilersuutit asanerpaat, nipituumik | Qanittumut ingikkit assaalu tigoriarlugu |
 
-## Tips for a good experience
+## Siunnersuutillit pissutsit pitsaasunngortinniarlugit
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Nipit allat unitsikkit.** Alzheimer’s Association-imi siunnersuuteqarpoq igalaat matoqarfiisaallu matuneq, takussutissiatlu qaminneq, nipilersuut kisimik tusarnaassanngorlugu.
+- **Nipituussusaa qasallakkit.** Nipilersuut nuannersutaasassaaq, nipitoqanngitsumik. Inuk tusarnaartitsisutinik atuisoqartillugu, attarsimammassuk atuuttullu pillugit qulakkeeruk; takutiguk [tusilaarneq](/brain-health/hearing/).
+- **Aliasuutigisinnaasut maluginiakkit.** Erinarsuutit ilai aliasuutigisinnaapput, soorlu aliitsumik misigisitsineq, sorsunnerit annaasaqarnermilluunniit. Erinarsuut aliasuutigigukku, tuppallersariuk aammalu taarseruk.
+- **Inummut toqqaanissaq ingerlatikkit.** Sapinngippat inuk nipilersuut toqqarniarliuk, akuerisinnaallugulu akerliunissaq.
+- **Piffissap qaavanit unitsissinnaavatit.** Minutsit tallimat nipilersornerit iluaqutissaq pingaartuuvoq. Aamma unitsitsineq nipaarlaarlutillu inginneq iluaqutaavoq.
 
-## What does the research say about music and dementia?
+## Misissueqqissaarnerit nipilersornerup dementiaqarnermullu akornanni qanoq ingerlatillutik oqaatigaat?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Paasissutissat killinganiipput. [2025-mi Cochrane-imut nalilersuineq](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) misissuinernik 30-nik nipilersornerup aaqqissuussaanikkut atorneqarneranik sammivaat, amerlanertigut najugallit illuini ataatsimoorlutik. Tamanna takutippaa nipilersornerup aaqqissuussaanikkut atorneqarnerata aliasunnermik misigisaq annikitsumik ikilligisinnaagaa nalinginnaasumik isumaginninnermut sanilliullugu, kisianni erseqqissumik sunniuteqarani unitsitsinermut, pitsaanermullu isumaqarnerup peqqissusaannut, eqqarsartarnermullu eqqaasinnermullu, aammalu nipilersornerup unitsinnerata kingorna sunniuteqartoqarani.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Nipilersorneq aggersarparput nuannersutut, kimittuumik peqatiginninnermut periarfissaqalersinnaammat, katsorsaanerinngilaq. Ataatsimoortumik sulinermi atorneqarsinnaavoq [najugallit illuini ataatsimoorluni suliaqarneq](/activities/care-home-groups/) atuarlugu; nipilersornerlu assinik oqaluttuarisaanernillu atorlugu [eqqaamasarnermik suliaqinerit](/activities/reminiscence/) takukkit.

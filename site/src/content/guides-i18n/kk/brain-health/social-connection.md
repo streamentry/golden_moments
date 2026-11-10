@@ -1,32 +1,33 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Жалғыздық, оқшаулану және деменция қаупі"
+seoTitle: "Жалғыздық, оқшаулану және деменция қаупі"
+description: "Жалғыздық пен әлеуметтік оқшауланудың деменция қаупімен байланысы, Бас хирургтың ұсынымы және бірге байланыста болудың қарапайым жолдары."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Зерттеулер ересек жастағы әлеуметтік оқшаулану мен жалғыздықтың деменция қаупінің жоғарылауымен
+  байланысты екенін көрсетеді. 2024 жылғы Lancet комиссиясы оқшаулану жағдайлардың шамамен 5%-ына
+  себеп болуы мүмкін деп есептейді, бірақ бұл байланыстың бір бөлігі ерте деменцияның адамды оқшаулануға
+  әкелуінен туындауы мүмкін. Байланыста болу, ортақ хобби және есту мәселесіне көмек байланысқа
+  қолдау көрсетеді. Деменциямен өмір сүретін адамдар үшін ортақ әрекеттер ләззат пен өмір сапасы
+  үшін маңызды.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet комиссиясы ересек жастағы әлеуметтік оқшаулануды деменция қаупін өзгертуге болатын 14 фактордың бірі ретінде көрсетеді, бұл жағдайлардың шамамен 5%-ын құрайды."
+  - "АҚШ Бас хирургының 2023 жылғы ұсынымы созылмалы жалғыздық пен оқшаулануды егде жастағы адамдарда деменция қаупінің шамамен 50%-ға жоғарылауымен байланыстырды."
+  - "Бұл деректердің көбі бақылау зерттеулеріне негізделген, ал ерте деменцияның өзі адамды басқалардан оқшаулануға әкелуі мүмкін."
+  - "Есту және көру мәселелері, жалғыз тұру және қамқорлық жасау оқшаулану қаупін арттырады."
+  - "Деменциямен өмір сүретін адамдар үшін қызықты ортақ әрекеттер өмір сапасына қолдау көрсетеді; мақсат — байланыс, нәтиже емес."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Жалғыздық деменцияға себеп бола ма?"
+    a: "Бұл дәлелденбеген. Көптеген зерттеулер жалғыздық пен оқшаулануды деменция қаупінің жоғарылауымен байланыстырады, бірақ мидағы ерте өзгерістер де адамның басқалардан алыстауына себеп болуы мүмкін. Байланыста болудың көңіл-күй мен денсаулық үшін басқа да көптеген пайдасы бар, сондықтан оны қолдау әр жағдайда маңызды."
+  - q: "Жалғыздық пен әлеуметтік оқшауланудың айырмашылығы неде?"
+    a: "Әлеуметтік оқшаулану — үнемі араласатын адамдардың аз болуы. Жалғыздық — жалғыз немесе алшақ қалғандай сезінудің ауыр күйі. Адам жалғыз тұрып, өзін жалғыз сезінбеуі мүмкін немесе көп адамның ортасында өзін жалғыз сезінуі мүмкін."
+  - q: "Деменциямен өмір сүретін ата-анама байланыста болуға қалай көмектесе аламын?"
+    a: "Қысқа әрі тұрақты қарым-қатынас жақсы әсер етеді. Апта сайын белгілі бір уақытта қоңырау шалу немесе бейнеқоңырау, асүй үстелінде бірге бір әрекет жасау, естелік кафесіне бару немесе үй жануарымен не немеремен кездесуді байқап көріңіз. Топ шағын әрі тыныш болсын және қарқынды адам өзі таңдасын."
+  - q: "Оқшауланған егде адамға жергілікті жерден көмек қайдан табуға болады?"
+    a: "Eldercare Locator — отбасыларды қарттарға арналған жергілікті қызметтермен және қауымдастық бағдарламаларымен байланыстыратын қоғамдық қызмет. Оған 800-677-1116 нөмірі арқылы немесе eldercare.acl.gov сайтынан хабарласуға болады."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +55,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Адамдар қарым-қатынасқа бейім, және бұл жас ұлғайғанымен өзгермейді. Зерттеулер ересек жастағы жалғыздық пен әлеуметтік оқшаулануды деменция қаупінің жоғарылауымен, сондай-ақ жүрек аурулары мен депрессиямен байланыстырады. Бұл байланыстың қаншалықты себеп-салдар екенін зерттеулер әлі толық айта алмайды. Бұл бетте деректер не көрсететіні, байланыста болудың практикалық жолдары және қазірдің өзінде деменциямен өмір сүретін адамдар үшін ортақ әрекеттердің неліктен маңызды екені айтылады.
 
-## Are loneliness and isolation linked with dementia?
+## Жалғыздық пен оқшаулану деменциямен байланысты ма?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Иә, көптеген зерттеулер оларды байланыстырады, бірақ бұл байланыстың бағыты толық анық емес. [2024 жылғы Lancet комиссиясы](https://doi.org/10.1016/S0140-6736(24)01296-0) ересек жастағы әлеуметтік оқшаулануды деменция қаупін өзгертуге болатын 14 фактордың бірі ретінде көрсетеді. [UCL ұсынған есеп қысқашасы](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) бұл әлем бойынша деменция жағдайларының шамамен 5%-ын құрайтынын айтады.
 
-What the evidence shows:
+Деректер не көрсетеді:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Қарым-қатынас азайса, қауіп артады.** Комиссия сирек әлеуметтік байланыс пен деменция қаупінің жоғарылауын байланыстырған екі шолуды атап өтеді. Бірінде қауіп шамамен 57%-ға, екіншісінде шамамен 18%-ға жоғары болған.
+- **Жалғыздық та әсер етеді.** Өзін алшақ сезіну деп сипатталатын жалғыздық та бірнеше шолуда деменция қаупінің жоғарылауымен байланыстырылған.
+- **Бас хирургтың пікірі.** 2023 жылғы мамырда АҚШ Бас хирургы [жалғыздық пен оқшаулану туралы ұсыным](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) жариялады. Онда созылмалы жалғыздық пен оқшаулану егде жастағы адамдарда деменция қаупін шамамен 50%-ға арттыруы мүмкін делінген. Сондай-ақ әлеуметтік байланыстың әлсіздігі жүрек ауруы қаупінің 29%-ға және инсульт қаупінің 32%-ға жоғарылауымен байланыстырылған.
+- **Бұл қаншалықты жиі кездеседі.** [Ұлттық ғылым академияларының есебі](https://www.ncbi.nlm.nih.gov/books/NBK557972/) қоғамда тұратын 65 жастан асқан америкалықтардың шамамен 24%-ы әлеуметтік оқшауланғанын көрсетті.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Маңызды ескерту: Lancet комиссиясы адамдар деменцияның ерте, әлі анықталмаған кезеңінде әлеуметтік әрекеттерден бас тартуы мүмкін екенін айтады. Бұл байланыстың бір бөлігі оқшаулану қаупі арттырады дегеннен гөрі, деменцияның өзі оқшаулануға әкелуі мүмкін дегенді білдіреді. Бұл деректердің басым бөлігі бақылау зерттеулерінен алынған.
 
-## What is the difference between loneliness and isolation?
+## Жалғыздық пен оқшауланудың айырмашылығы неде?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Ұлттық қартаю институты (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) мұны былай түсіндіреді. **Әлеуметтік оқшаулану** — әлеуметтік байланыстардың аз болуы немесе үнемі араласатын адамдардың аз болуы. **Жалғыздық** — жалғыз немесе алшақ қалғандай сезінудің ауыр күйі. Адам жалғыз тұрып, өзіне ризашыл өмір сүруі мүмкін, ал басқа біреу адамдарға толы бөлмеде өзін жалғыз сезінуі мүмкін.
 
-The NIA lists factors that raise the risk of both:
+NIA екеуінің де қаупін арттыратын жағдайларды атайды:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Есту немесе көру мәселелері
+- Қозғалыс қиындығы немесе көлік болмауы
+- Жалғыз тұру немесе жұбайынан айрылу, зейнетке шығу сияқты үлкен өзгеріс
+- Есте сақтау немесе ойлау қабілетіндегі өзгерістер
+- Науқас жанға қамқорлық жасау
+- Қаржылық қиындықтар немесе тіл кедергісі
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Есту — маңызды мәселе. NIA есту нашарлағанда әңгімелесу қиын әрі ыңғайсыз болғандықтан, адамның оқшаулана бастауы мүмкін екенін айтады. Біздің [есту және ми саулығы туралы нұсқаулықта](/brain-health/hearing/) естуді тексеру және рецептсіз есту аппараттары туралы ақпарат бар.
 
-## Practical ways to stay connected
+## Байланыста болудың практикалық жолдары
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA бірнеше идея ұсынады. Өзіңізге сай бір-екеуін таңдаңыз:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Тұрақты қарым-қатынасты жоспарлаңыз.** Отбасы, достар немесе көршілермен күн сайын немесе апта сайын белгілі бір уақытта қоңырау шалу, хабарлама жазу, электрондық хат немесе ашықхат жіберу.
+- **Бейнеқоңырау немесе ақылды динамиктерді пайдаланыңыз.** Егер технология жаңа болса, көптеген көпшілік кітапханалар мен қоғамдастық орталықтары сабақтар ұсынады. Біздің [телефон және бейнеқоңырау нұсқаулығын](/activities/phone-and-video-calls/) қараңыз.
+- **Бір нәрсеге қосылыңыз.** Сабақ, діни қауым, серуендеу тобы немесе еріктілік қарым-қатынас пен пайдалы болу сезімін береді.
+- **Бұрынғы хоббиге қайта оралыңыз** немесе басқалармен бірге жаңа нәрсе үйреніңіз.
+- **Басқалармен бірге қозғалыңыз.** Досыңызбен немесе топпен жаттығу жасаңыз. Біздің [жаттығу нұсқаулығында](/brain-health/exercise/) жеңіл нұсқалар бар.
+- **Үй жануарын асырау мүмкіндігін қарастырыңыз**, егер оған күтім жасай алсаңыз.
+- **Жергілікті қызметтерді пайдаланыңыз.** Қарттар орталықтары, қарттарға арналған жергілікті агенттіктер және Eldercare Locator (800-677-1116) бағдарламалар мен көлік туралы ақпарат бере алады.
 
-## Why do shared activities matter in dementia?
+## Деменция кезінде ортақ әрекеттер неліктен маңызды?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Қазірдің өзінде деменциямен өмір сүретін адам үшін байланыс — қауіпті азайту емес, ләззат алу, жайлы сезіну және өзіңді ортақтықтың бір бөлігі ретінде сезіну. Lancet комиссиясы әрекеттер деменциямен өмір сүретін адамдарға ләззат пен мақсат сезімін сақтауға көмектесетінін айтады. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) өмір сапасын жақсартумен қатар, әрекеттер бейберекет жүру немесе мазасыздану сияқты мінез-құлықтарды азайтуы мүмкін екенін айтады. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) Альцгеймер ауруы бар адамдардың белсенді болып, өздеріне ұнайтын істермен айналысуы маңызды екенін қосады.
 
-Ideas that work well:
+Жақсы үйлесетін идеялар:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Бірге суреттер қараңыз.** [Conversation Cards](/games/conversation-cards/) «Айтып берші...» сияқты ашық, сұрақ-жауап емес әңгіме бастауыштарын ұсынады. Біздің [естеліктер туралы нұсқаулықты](/activities/reminiscence/) қараңыз.
+2. **Қатар отырып ойнаңыз.** [Picture Pairs](/games/picture-pairs/) суреттерді көрініп тұратындай ұстайды және таймері мен ұпайы жоқ, сондықтан қысым болмайды. Біздің [бірге қалай ойнауға болады](/caregiving/how-to-play-together/) нұсқаулығында пайдалы кеңестер бар.
+3. **Отбасылық фотосуреттерді пайдаланыңыз.** [Photo Pairs](/games/photo-pairs/) өзіңіз таңдаған фотосуреттерді сәйкестендіру ойынына айналдырады, және фотосуреттер құрылғыңызда сақталады.
+4. **Адамдарды бірге жинаңыз.** [Picture Bingo](/games/picture-bingo/) отбасылық кездесулерге және [қамқорлық үйіндегі топтарға](/activities/care-home-groups/) жарайды.
+5. **Музыка тыңдаңыз, үй шаруасын бірге жасаңыз немесе бақта уақыт өткізіңіз.** [Музыкалық әрекеттерді](/activities/music/), [үй шаруасын](/activities/household-tasks/) және біздің [әрекет идеяларының толық тізімін](/activities/ideas/) қараңыз.
+6. **Келіп-кетуді жеңілдетіңіз.** Біздің [келіп-кету нұсқаулығында](/activities/visiting/) барлығына жайлы болатын қысқа әрі тыныш кездесулер туралы айтылған.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Әрекеттер шағын әрі тыныш болсын. Бір-екі адаммен тыныш бөлмеде болғаны үлкен топқа қарағанда жиі жақсырақ. Егер адам шаршаса немесе қызығушылығы басылса, тоқтатуға болады. Бірге отырып шай ішу де — жақсы нәтиже.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Деменциямен жалғыз тұратын адам үшін NIA үнемі келіп тұратын немесе бейнеқоңырау шалып тұратын, сондай-ақ төтенше жағдайда хабарласатын сенімді адам табуды ұсынады. Сондай-ақ ол есте сақтау қабілеті төмендеген адамдар мен олардың отбасыларына арналған тыныш кездесу орны — жергілікті естелік кафесін атап өтеді.
 
-## Caregivers get lonely too
+## Қамқорлық жасаушылар да жалғыздық сезінуі мүмкін
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA науқас жанға қамқорлық жасауды оқшаулану қаупінің бір факторы ретінде атайды. Өз достарыңызға, қолдау топтарына және демалуға уақыт бөліңіз. Біздің [қамқорлық жасаушының өзіне қамқорлық жасау нұсқаулығында](/caregiving/caregiver-self-care/) практикалық идеялар бар.
 
-## Talk with a doctor
+## Дәрігермен сөйлесіңіз
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Егер Сіз немесе Сіз қамқорлық жасайтын адам жиі жалғыздық не оқшаулану сезінсе, дәрігерге айтыңыз. NIA отбасындағы қайтыс сияқты маңызды өмірлік өзгерістер туралы дәрігерге айтуды ұсынады, сонда дәрігер жағдайды толық түсіне алады. Бірнеше апта бойы көңіл-күйдің төмен болуы депрессия болуы мүмкін, және оған көмек бар. Егер егде адам бұрын ұнататын достарынан немесе әрекеттерінен алыстай бастаса, бұл өзгеріс туралы да дәрігерге айтқан жөн. [Ерте белгілер және дәрігерге қашан қаралу керек](/brain-health/warning-signs/) бөлімін оқыңыз.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Бұл бет — жалпы ақпарат, медициналық кеңес емес. Біздің [медициналық жауапкершіліктен бас тарту](/medical-disclaimer/) бетімізді қараңыз.

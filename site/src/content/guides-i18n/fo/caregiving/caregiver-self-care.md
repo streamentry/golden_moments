@@ -1,36 +1,34 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Sjálvansorg hjá umsjónarmanni: Frítíð, stuðul og tekin um útbrentni"
+seoTitle: "Sjálvansorg hjá demensumsjónarmanni: Frítíð og stuðul"
+description: "Tekin um útbrentni hjá umsjónarmanni, hvussu finnast frítíðarhjáving og stuðulssamtøk, og ókeypis hjálplinur í USA."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  At umsita ein, sum livir við demens, er hart, og at ansa eftir sær sjálvum er partur av arbeiðinum. 
+  Verð viðvísandi um tekin sum móðurleysi, irritabilitet, ringa svevn og at draga teg burtur frá vinum. 
+  Bið um serliga hjálp, brúka frítíðarhjáving og tak lut í stuðulssamkomu. Ókeypis hjálp í USA fevnir um 
+  Alzheimer's Association 24/7 hjálplineina á 1-800-272-3900 og Eldercare Locator á 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Útbrentni kemur ofta fram sum móðurleysi, irritabilitet, ringa svevn, sorg og at lata vera at ansa eftir egnum heilsu."
+  - "Frítíðarhjáving gevur tær frí, frá fáum tímum til fleiri vikur, heima ella á eini umsitingarstovu."
+  - "Bið um hjálp við serligum uppgávum; nógv vilja hjálpa, men vita ikki hvussu."
+  - "Alzheimer's Association 24/7 hjálplinein (1-800-272-3900) bjóðar ókeypis og loyniliga stuðul øll tíð."
+  - "Eldercare Locator (1-800-677-1116) knýtir teg at støðum tænastum í tínum øki, millum annað til Area Agency on Aging."
+  - "Um tú kennir teg í krisu, ring ella send SMS til 988. Í bráðfeingis atburði ring til 112 í Føroyum."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Hvat eru tekin á útbrentni hjá umsjónarmanni?"
+    a: "Vanlig tekin eru at kenna seg uttømdan, yvirveldan ella kvíðafullan, at verða illur ella ótolin lætt, ringur svevn, sorgin ella vonleysi, at draga seg burtur frá vinum, ofta høvuðverk ella verk, og at lata vera at eta, venja ella fáa lækna hjálp. Um slík tekin koma regluliga, skulu vit tosa við lækna."
+  - q: "Hvussu finnur eg frítíðarhjáving nær mær?"
+    a: "Byrja við Eldercare Locator (1-800-677-1116 ella eldercare.acl.gov) fyri at koma í samband við tína lokalu Area Agency on Aging, ARCH National Respite Locator Service, ella Alzheimer's Association hjálplineina á 1-800-272-3900. Familja, vinir og sjálvbodnir kunnu eisini veita frítíðarhjáving."
+  - q: "Betalar Medicare fyri frítíðarhjáving?"
+    a: "Fyri ein persón, sum fær hospiceumsiting, dekker Medicare flestu kostnaðin upp til fimm samanhangandi dagar av frítíðarhjáving á sjúkrahúsi ella á førleikastovu fyri skjólstakarar, eftir National Institute on Aging. Flestir privatu sjúkratryggingar dekka ikki frítíðarhjáving; Medicaid og summir langtíðartryggingar kunnu hjálpa."
+  - q: "Er Alzheimer's Association hjálplinein veruliga ókeypis og tøk um náttina?"
+    a: "Ja. Alzheimer's Association sigur, at hjálplinein á 1-800-272-3900 er ókeypis, loyniligur og mannað allar tímar, 365 dagar um árið, við hjálp í mongum málum gjøgnum tvímælt starvsfólk ella tulkar. Ring 711 fyri relestænastu."
+  - q: "Er tað eginskipt at taka sær eina frí frá umsiting?"
+    a: "Nei. Hvøla hjálpar tær at halda áfram at umsita, og frítíðarhjáving kann eisini geva tí, sum tú umsitur, eina broyting av felagsskap og virksemi. Nógvir umsjónarmenn siga seinni, at teir ynskju, teir høvdu biðið um hjálp fyrr."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +65,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Um tú umsitur ein persón, sum livir við demens, lesur tú kanska hetta seint um kvøldið, troyttur og við einari lista av lutum, sum tú enn ikki hevur gjørt. Tað er vanligt. At ansa eftir tær sjálvum er ikki eitt úrval ella eina løn fyri at vera liðugur við alt. Tað er tað, sum loyvir tær at halda áfram.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Henda síða fevnir um tekin á útbrentni, hvussu tú fært tær eina veruliga frí, hvar tú finnur stuðul, og ókeypis hjálplinur í USA, sum tú kanst ringja til í dag.
 
-## What are the signs of caregiver burnout?
+## Hvat eru tekin á útbrentni hjá umsjónarmanni?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Útbrentni kann smátt og smátt koma á, tí hjálpir tað at kenna egna tekin. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) nevnir tekin á streitu hjá umsjónarmanni, millum annað:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- at kenna seg uttømdan, yvirveldan ella kvíðafullan;
+- at verða illur ella ótolin lætt;
+- at kenna seg einsamallan ella frástoyttan frá øðrum;
+- ringur svevn ella ov lítið svevn;
+- sorgin ella vonleysi, ella at missa áhuga fyri lutum, sum tær dáma áður;
+- ofta høvuðverk, verk ella aðrar kropsligar trupulleikar;
+- onki tíð til at venja ella gera heilsusamari mat til tín sjálvan;
+- at lata vera at taka bað ella ansa eftir annarri persónligari røkt;
+- misnýtslu av alkaholi ella rúsevnum, eisini uppskrivaðum lyfjum.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) leggur afturat tekin sum avnoktan av sjúkuni, reiði móti tí, sum tú umsitur (»hann er bara stígur«), kvíða fyri framtíðini, trupulleikar við at konsentrera teg, og at heilsan tekur á tær. Tað verður ráðlagt at tosa við tín lækna, um slík tekin koma regluliga.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Ráð NIA er ikki at bíða, til tú ert heilt yvirveldur. Legg merki til tínar tekin tíðliga og ger okkurt í samband við tær.
 
-## What can I do today, in five minutes?
+## Hvat kanst tú gera í dag, um fimm minuttir?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Smáar frí telja. Ongantíð loysa tær útbrentnina, men tær kunnu hjálpa at koma gjøgnum ein hardan eftirmiðdag.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Gakk út.** Set teg á veranduna ella gang til postkassan, meðan tann, sum tú umsitur, er tryggur og róligur.
+- **Andast hægt.** Nakrar hægar inn- og útandingar, áðrenn tú svarar einum trýstandi spurningi. Tú kanst eisini deila eina [róandi anding](/games/calm-breathing/) við tann, sum tú umsitur.
+- **Drekk vatn og et okkurt.** Tað er lætt at gloyma sín egna mat.
+- **Sendi einum vini ein SMS.** Ikki fyri at biðja um okkurt, bert fyri at koma í samband.
+- **Sig tær sjálvum okkurt blítt.** NIA's [leiðbeiningar um at ansa eftir tær sjálvum](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) mæla til frasar sum »Eg geri tað besta, eg kann«, »Eg eri ikki fullkomin, og tað er í lagi«, og »Eg vil njóta tey løtuni, tá ið vit kunnu vera saman í friði.«
 
-## What is respite care, and how do I get it?
+## Hvat er frítíðarhjáving, og hvussu fæi eg tað?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Frítíðarhjáving er stutt tíðars umsiting fyri tann, sum tú umsitur, so tú kanst hvíla tær. NIA's [síða um frítíðarhjáving](https://www.nia.nih.gov/health/caregiving/what-respite-care) forklarar, at tað kann vera frá fáum tímum til fleiri vikur, heima, á sjúkraviðgerðardeild ella á dagdeild fyri eldri.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) nevnir vanligar slagir:
 
-| Type | What it is |
+| Slag | Hvat tað er |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Hjálp heima | Ein vinur, skyldfólk, sjálvbodin ella lønt fylgismaður ella hjálpari kemur heim til tykkara |
+| Vaksnadagdeild | Skipað virksemi sum tónleikur og list í einum tryggum bólki; ofta bjóðast ferðing og máltíðir |
+| Yvirnótt ella stutt dval | Ein langtíðarumsitingarstova umsitur tann persónin eina nátt, nakrar dagar ella nakrar vikur |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Hvør greiðir?** Sambært NIA kann frítíðarhjáving frá familju, vinum ella sjálvbodnum vera ókeypis. Professionellar tænastur taka gjald eftir tíma ella degi. Fyri ein persón, sum fær hospiceumsiting, dekker Medicare flestu kostnaðin upp til fimm samanhangandi dagar av frítíðarhjáving á sjúkrahúsi ella á førleikastovu fyri skjólstakarar. Medicaid kann hjálpa. Flestir privatu sjúkratryggingar dekka ikki frítíðarhjáving, tó kunnu summir langtíðartryggingar gera tað.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Ráð:** Alzheimer's Association mæla til at royna frítíðarveitarar í óbráðfeingis støðu, so teir eru klárir, um tú skjótt hevur tørv á hjálp.
 
-## Where can I find help near me?
+## Hvar kan eg finna hjálp nær mær?
 
-Several free US services can point you to local help.
+Nøkur ókeypis tænastur í USA kunnu vísa tær til lokal hjálp.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 hjálpline: 1-800-272-3900.** [Hjálplinein](https://www.alz.org/help-support/resources/helpline) er ókeypis og loyniligur, mannaður allar tímar hvønn dag á árið, við hjálp í meira enn 200 málum gjøgnum tvímælt starvsfólk ella tulkar. Ring 711 fyri relestænastu. Tú kanst tosa um broytingar í atferd, streitu hjá umsjónarmanni, møguleikar fyri frítíðarhjáving, lokal tiltøk og meira, og biðja um eitt longri samrøðu við umsitingarráðgeva. Starvsfólk geva ikki læknaligt ráð.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), ein alment tænastan hjá Administration for Community Living, knýtir teg at tænastum fyri eldri og teirra familjur. Tú kanst ringja, senda SMS, kjatta á netinum ella senda teldupost til venjandi starvsfólk, ella leita eftir staðseting. Tað kann vísa tær til tína lokalu Area Agency on Aging.
+- **ARCH National Respite Locator Service.** [ARCH frítíðarleitarin](https://archrespite.org/caregiver-resources/respitelocator/) hjálpir tær at finna frítíðarveitarar eftir stat, og mæla til at seta teg fyrst í samband við State Respite Coalition ella Lifespan Respite verkætlan í tínum stati, um hon er til staðar. ARCH leggur dent á, at tað ikki kanna veitarar, tí mást tú sjálvur kanna teirra royndir og bakgrund.
 
-## How do I find a support group?
+## Hvussu finnur eg eina stuðulssamkomu?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Bið hjálplineina ella leita á netinum eftir bólkum nær tær. Alzheimer's Association [rignir stuðulssamkomum](https://www.alz.org/help-support/community/support-groups) fyri umsjónarmenn og persónar, sum livir við demens, bæði persónliga og á netinum, undir leiðslu venjandi leiðara. Nógvir staðir bjóða eisini serligar bólkar, til dømis fyri vaksna umsjónarmenn ella fyri persónar, sum livir við yngrebyrjan ella tíðliga demens. Tað er eisini ALZConnected, ein ókeypis netfelagsskapur, har umsjónarmenn deila ráð.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Stuðulssamkomur kunnu vera eitt stað at lata av stressi uttan dømandi, fáa praktisk ráð frá fólki, sum hava verið har, og kenna teg minni einsamallan. Um tann fyrsti bólkurin ikki hóskar, royn ein annan.
 
-## How do I ask family and friends for help?
+## Hvussu biði eg familju og vinir um hjálp?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Ver serligur. Nógv vilja hjálpa, men vita ikki hvat at bjóða. NIA mæla til:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Halt ein lista** yvir uppgávur, aðrir kunnu taka sær, og lat fólkið velja.
+- **Byrja smátt** um tað kennist hart at biðja.
+- **Passa uppgávuna til persónin.** Systkinabarn, sum elskar at kokka, fer at koma við kvøldmat hvørja týsdag. Nágrannin, sum dugur væl við skjølum, hjálpir við pappírsvinnu.
+- **Send SMS ella teldupost** um tað er ómakligt at biðja andlit til andlit.
+- **Ven teg á eitt svar** til tá onkur bjóðar hjálp: »Takk fyri at spyrja. Hetta kanst tú gera.«
+- **Vænt nakrar nei** og tak tær tað ikki so nær.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Aðrir hugsanir: bið onkran um at sita hjá tí, sum tú umsitur, eina eftirmiðdag um vikuna, taka hann ella hana á einum stuttum túri, ella vitja og spæla eitt spæl saman. Okkara [leiðbeining til at spæla saman](/caregiving/how-to-play-together/) er lætt at deila við vitjandi.
 
-## What if something happened to me?
+## Hvat um okkurt hendir mær?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Ger eina einfaldari tilbúgvingarætlan nú. NIA mæla til at avgera við familju ella nákomnum vinum, hvør skuldi tikið við, og halda eina skrivibók við bráðfeingis nummur, lyf, atferdar ráð, sum virka, og yndisvirksemi. Alzheimer's Association mæla eisini til at halda lækna-sambond hjá tí persóninum og eina dagførda lyflista lætt at finna.
 
-## When should I get professional or urgent help?
+## Hv nær skal eg fáa professionella ella bráðfeingishjálp?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Tosa við tín lækna, um streitutekin koma regluliga, um tú kennir teg niðurstoyttan, ella um tú hevur trupulleikar við at klára teg. Sig tínum lækna, at tú ert umsjónarmaður. NIA leggur fram, at ráðgevar og sosialráðgevar kunnu hjálpa við torførum kennslum og ætlanagerð, og at Medicare, Medicaid og summir privatu sjúkratryggingar kunnu dekka nakran part av mentalsligari heilsuhjálp.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Um tú kennir teg í krisu ella hevur hugsanir um at skaða teg sjálvan, ring ella send SMS til 988 fyri at ná [988 Suicide & Crisis Lifeline](https://988lifeline.org/), ókeypis og tøk 24/7. Um nakar er í beinleiðis vanda, ring til 112.
 
-## Can shared activities give me a break too?
+## Kunnu sameind virksemi geva mær eisini frí?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Stundum. Ein rólig virksemi, sum tykkum báðum dámar, kann vera ein mildari partur av degnum bæði fyri tær og fyri tann, sum tú umsitur: at lurta til gomul søgur, hyggja at myndum, ella eitt spæl sum [Samrøðuspæl](/games/conversation-cards/), har eingin røtt svar skal finnast. Um tann, sum tú umsitur, dámar felagsskap, kann ein bólkahandil við [Myndabingo](/games/picture-bingo/) á ellisrøktar miðstøð ella vaksnadagdeild geva tær eina tímar frítíðarhjáving. Sí [virksemi fyri røktarbólkar](/activities/care-home-groups/) fyri hugskot.

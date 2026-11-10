@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Veika e Vakaleqai Kina na Mate ni Guilecavi: Na 14"
+seoTitle: "Veika e Vakaleqai Kina na Mate ni Guilecavi: 14"
+description: "Na 14 na ka e rawa ni veisautaki me baleta na mate ni guilecavi e cavuta na Komisini ni Lancet 2024, ena veitabaga ni bula, kei na ka e tukuna na vakadidike."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Na Komisini ni Lancet ni 2024 e cavuta e 14 na ka e rawa ni veisautaki me
+  baleta na mate ni Guilecavi: lailai na vuli, dredre ni rogoca, cecere na
+  LDL cholesterol, lomabibi, mavoa ni ulunivanua, sega ni vakaukauayago,
+  mate ni suka, vakatavako, cecere na dra, sivia na bibi, gunu vakasivia,
+  tiko duadua, dukadukali ni cagi, kei na leqa ni mata e sega ni qaravi. Ni
+  cokovata, era semati kei na rauta ni 45% na kisi e vuravura raraba, ia e
+  sega ni vakadeitaki vei dua na tamata.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Na 14 na ka oqo era kovuta na bula taucoko: dua ena itekivu ni bula, tini ena loma ni bula, kei na tolu ena gauna ni qase."
+  - "Na dredre ni rogoca kei na cecere na LDL cholesterol ena loma ni bula erau semati yadua kei na rauta ni 7% na kisi ni mate ni guilecavi e vuravura raraba, na iwase levu duadua vei dua na ka."
+  - "Na pasede oqo era ivakaraitaki ni lewe levu ka ra vakabauta ni dua na vu ni ka kei na kena revurevu. Eso na isema ena rawa ni sega ni vakavu taucoko."
+  - "Na yabaki kei na ituvaki ni yago, ka sega ni rawa ni veisautaki, erau ka bibi tale ga. Na vakalailaitaki ni 14 na ka oqo e sega ni vakadeitaka ni dua ena levea na mate ni guilecavi."
+  - "Vuqa na ikalawa e okati kina, me vaka na dikevi ni dra, ni rogoca kei na mata, e vinaka tale ga ki na bula taucoko ka dodonu me veivosakitaki kei na vuniwai."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Na cava na 14 na ka e rawa ni veisautaki me baleta na mate ni guilecavi?"
+    a: "Na Komisini ni Lancet ni 2024 e cavuta na lailai na vuli, dredre ni rogoca, cecere na LDL cholesterol, lomabibi, mavoa ni ulunivanua, sega ni vakaukauayago, mate ni suka, vakatavako, cecere na dra, sivia na bibi, gunu vakasivia, tiko duadua, dukadukali ni cagi, kei na leqa ni mata e sega ni qaravi. Ni cokovata era semati kei na voleka ni veimama ni kisi ni mate ni guilecavi e vuravura raraba."
+  - q: "Na cava na ka e bibi duadua me baleta na mate ni guilecavi?"
+    a: "Ena vuku ni lewe levu e vuravura, na Komisini e ivakaraitaka ni dredre ni rogoca kei na cecere na LDL cholesterol ena loma ni bula erau semati yadua kei na rauta ni 7% na kisi, tarava na lailai na vuli kei na tiko duadua ena rauta ni 5% yadua. Na ka e bibi duadua vei dua na tamata e vakatau ena nona bula, o koya gona na vuniwai e ivakasala vinaka duadua."
+  - q: "Erau kuri na rua na ka vou ena 2024?"
+    a: "Io. Na ripote ni 2024 e kuria na cecere na LDL (cholesterol ca) ena loma ni bula kei na leqa ni mata e sega ni qaravi ena gauna ni qase ki na 12 na ka a cavuti ena 2020. Na Komisini e semata rau kei na rauta ni 7% kei na 2% na kisi."
+  - q: "Na yabaki e dua na ka e rawa ni veisautaki?"
+    a: "Sega. Na yabaki na ka levu duadua e kilai me vakaleqai kina na mate ni Alzheimer, ka sega ni rawa ni veisautaki. Na ituvaki ni yago e tiko tale ga na kena itavi. Na 14 na ka ena tabana oqo era ka e tukuna na vakadidike ni rawa ni veisautaki."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,85 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Na ka e vakaleqai (risk factor) e dua na ka e semati kei na levu ni gauna me yaco kina e dua na leqa ni bula. E sega ni vu ni ka ena veikisi kece, ka kevaka e tiko vei iko e dua, e sega ni kena ibalebale ni ko na tauvi mate ni guilecavi. Na tabana oqo e wilika na 14 na ka e vakaleqai kina na mate ni guilecavi ka kaya na Komisini ni Lancet ni 2024 ni rawa ni veisautaki, na ka e semata kina na vakadidike, kei na ka o rawa ni veivosakitaka kei na vuniwai.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Me baleta na itukutuku taucoko, okati kina na ka era kunea na vakatovolevi lelevu, tekivu ena
+[E rawa li ni tarovi na mate ni guilecavi? Na ka e tukuna na vakadidike](/brain-health/can-dementia-be-prevented/).
+Oqo na itukutuku raraba wale ga, e sega ni ivakasala vakavuniwai; raica na noda
+[ivakasala me baleta na itukutuku vakavuniwai](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Na cava na 14 na ka e vakaleqai kina na mate ni guilecavi?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+Na [Komisini ni Lancet ni 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+ka volai mai vei ira e 27 na dauvakadidike ni mate ni guilecavi, e ivakaraitaka ni 14 na ka e rawa ni veisautaki era semati vata kei na rauta ni 45% na kisi ni mate ni guilecavi e vuravura raraba. Na pasede ni dua na ka e toka e ra e ivakaraitaki ni Komisini me baleta na iwase ni kisi e vuravura e semati kaya, ka vakavolai ena naba taucoko. Na naba oqo era veicurumaki, baleta ni vuqa na tamata era tiko vei ira e vica na ka oqo ena dua ga na gauna, o koya gona era yaco kina ki na 45% ka sega ni levu cake.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Ka e vakaleqai | Itabaga ni bula | Iwase ni kisi | Ka e semata kina na vakadidike | Ka o rawa ni cakava |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Lailai na vuli | Itekivu ni bula | 5% | Na lailai na yabaki ni vuli e semati kei na levu ni ka e vakaleqai. Na vakayagataka na vakasama ena loma ni bula e vaka tale ga ni veitaqomaki, vei ira mada ga era lailai na nodra vuli. | Tomana na vulica kei na cakava na ka e vakayadrata na vakasama ena yabaki cava ga: wiliwili, ka taleitaki, kalasi, qito kei ira tale eso. |
+| Dredre ni rogoca | Loma ni bula | 7% | Na dredre ni rogoca e sega ni qaravi e semati kei na levu ni ka e vakaleqai. Na vakadidike era muria na tamata ena vica na yabaki era semata na vakayagataki ni iyaya ni rogoca kei na lailai ni ka e vakaleqai. | Dikeva na nomu rogoca. Taroga se na iyaya ni rogoca ena vukei iko, ka vakayagataka kevaka e volai vei iko. Taqomaka na daligamu mai na rorogo levu. |
+| Cecere na LDL cholesterol | Loma ni bula (mai na rauta ni 40 na yabaki) | 7% | Na cecere na LDL (cholesterol “ca”) ena loma ni bula e semati kei na levu ni ka e vakaleqai. Na vakadidike ni raica era semata na vakayagataki ni statin kei na lailai ni ka e vakaleqai, ia na vakatovolevi ena gauna ni qase era sega ni vakaraitaka oqo. | Taroga na nomu vuniwai se dodonu me dikevi na nomu cholesterol kei na ka me caka, kevaka e tiko. |
+| Lomabibi | Loma ni bula | 3% | Na lomabibi e semati kei na levu ni ka e vakaleqai. Ena gauna ni qase, na lomabibi ena rawa tale ga ni ivakatakilakila taumada ni mate ni guilecavi. | Tukuna vei na vuniwai na lomabibi se na yali ni taleitaki e vo tiko me sivia e rua na macawa. Na lomabibi e rawa ni qaravi. |
+| Mavoa ni ulunivanua | Loma ni bula | 3% | Na mavoa ni ulu ena yabaki cava ga kei na vu cava ga, okati kina na qito ni veitaratara, e semati kei na levu ni ka e vakaleqai. | Darama na isala ni ulu ena basikeli kei na qito ni veitaratara. Taroga na sala ni tarova na bale. Vakacegu ka lai dikevi ni oti na mavoa ni ulu. |
+| Sega ni vakaukauayago | Loma ni bula | 2% | O ira era vakaukauayago ka qito era lailai na nodra gauna me tauvi mate ni guilecavi kina. Na ivakadinadina mai na vakatovolevi e se lailai tiko. | Taroga na ka e vakaukauayago e taqomaki vei iko, ka kunea e dua o taleitaka. Raica na noda [ivakasala me baleta na vakaukauayago](/brain-health/exercise/). |
+| Mate ni suka | Loma ni bula | 2% | Na mate ni suka, vakabibi kevaka e tekivu ena loma ni bula se e dede na kena tiko, e semati kei na levu ni ka e vakaleqai. | Dikeva na ivakatagedegede ni suka ena dra. Kevaka e tiko vei iko na mate ni suka, cakacaka vata kei na nomu timi ni qaravi me qaravi vakamatau. |
+| Vakauvako | Loma ni bula | 2% | Na vakatavako e semati kei na levu ni ka e vakaleqai. Na vakadidike era kunea ni o ira era sa biuta na tavako era sega ni taura vata na ka e vakaleqai levu cake kei ira era tomana tiko. | Taroga na veivuke me biu. E yaga na kena biu ena yabaki cava ga. |
+| Cecere na dra | Loma ni bula | 2% | Na cecere na dra ena loma ni bula e semati kei na levu ni ka e vakaleqai. Na vakatovolevi ni wainimate ni dra era vakaraitaka ni lailai sobu na ka e vakaleqai me baleta na mate ni guilecavi se na malumalumu ni vakasama. | Kilai na nomu naba. Na Komisini e vakatura e dua na naba e cake me 130 se lailai sobu mai na rauta ni 40 na yabaki; taroga na takete e ganiti iko. |
+| Sivia na bibi | Loma ni bula | 1% | Na sivia na bibi ena loma ni bula e semati kei na levu ni ka e vakaleqai, ka vakalevutaka tale ga na ka e vakaleqai ni mate ni suka. | Taroga na nomu vuniwai me baleta na bibi e vinaka vei iko. O ira na qase era sega ni dodonu me dia me vakalailaitaka na bibi ka sega ni ivakasala vakavuniwai. |
+| Gunu vakasivia | Loma ni bula | 1% | Na gunu vakasivia e semati kei na levu ni ka e vakaleqai. Na vakalailaitaki mai na gunu levu e semati kei na lailai ni ka e vakaleqai. | Taroga na ivakatagedegede e taqomaki vei iko, vakabibi ena nomu wainimate. |
+| Tiko duadua | Gauna ni qase | 5% | Na lailai ni veitaratara kei ira tale eso e semati kei na levu ni ka e vakaleqai. | Tomana na veitaratara kei ira na tamata ena sala o taleitaka. Raica na noda [ivakasala me baleta na veitaratara vakaveiwekani](/brain-health/social-connection/). |
+| Dukadukali ni cagi | Gauna ni qase | 3% | Na bula ena vanua e levu na dukadukali ni cagi e semati kei na levu ni ka e vakaleqai. Na vakadidike era semata na cagi savasava kei na lailai ni ka e vakaleqai. | E ka levu me baleta na lawa ni matanitu. Raica na itukutuku ni ivakatagedegede ni cagi ena nomu vanua ka vakalailaitaka na nomu tiko e tautuba ena siga e dukadukali vakalevu kina. |
+| Leqa ni mata e sega ni qaravi | Gauna ni qase | 2% | Na leqa ni mata e sega ni vakadodonutaki e semati kei na levu ni ka e vakaleqai. E dua na vakadidike levu mai Amerika e semata na opere ni mataboko kei na lailai ni ka e vakaleqai. | Dikeva na matamu ena veigauna. Taroga se na leqa me vaka na mataboko e rawa ni qaravi. |
 
-## How should I read these percentages?
+## Me’u wilika vakacava na pasede oqo?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Vakamalua. Na ripote ni Komisini e tukuna e vica na ka e yaga me nanumi:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Era vakamacalataka na lewe levu, sega na tamata yadua.** Na
+  [ivakamacala lekaleka ni University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  e tukuna ni na vakalailaitaki ni ka e vakaleqai e cakacaka vei ira na lewe levu ka sega ni vakadeitaka ni dua na tamata ena levea na mate ni guilecavi.
+- **Era vakabauta na isema ni vu kei na revurevu.** O ira na dauvola era digitaka wale ga na ka e tiko kina na ivakadinadina kaukauwa, ia era kaya ni eso na isema ena rawa ni sega ni vakavu taucoko.
+- **Oqo na naba ni vuravura raraba.** Na levu ni itukutuku e lako mai na matanitu sautu, ka na iwase dina ni dua na matanitu se itikotiko ena duidui.
+- **Na pasede lalai ena rawa tale ga ni bibi.** E dua na ka e semati kei na 2% na kisi e vuravura raraba e se tara tiko e levu sara na tamata.
 
-## Which risk factors were added in 2024?
+## Na cava na ka e kuri ena 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Na ripote ni 2024 e kuria e rua na ka ki na 12 ka a cavuti ena 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Cecere na LDL cholesterol ena loma ni bula**, e semati kei na rauta ni 7% na kisi.
+- **Leqa ni mata e sega ni qaravi ena gauna ni qase**, e semati kei na rauta ni 2% na kisi.
 
-## What risk factors cannot be changed?
+## Na cava na ka e sega ni rawa ni veisautaki?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Na National Institute on Aging e kaya ni
+[na yabaki na ka levu duadua e kilai me vakaleqai kina na mate ni Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ka e sega e dua e rawa ni veisautaka. Na ituvaki ni yago e tiko tale ga na kena itavi; e dua na yaca ni ituvaki e kilai levu ka vakayarayarataka na ka e vakaleqai ni Alzheimer o APOE. Na NIA e kuria ni o ira na daunivakadidike era se bera ni kila vinaka na vu ni mate ni Alzheimer vei ira na lewe levu. Na Komisini ni Lancet e tukuna ni na ka e rawa ni veisautaki era rawa ni vakalailaitaki se cava na ituvaki ni yago ni tamata.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Ni dua na itavi levu ni yabaki kei na ituvaki ni yago, e levu na tamata era sega ni tiko vei ira na 14 na ka oqo ia era se tauvi mate ni guilecavi. E sega ni cala ni dua.
 
-## What does the trial evidence say about changing these risks?
+## Na cava e tukuna na ivakadinadina ni vakatovolevi me baleta na veisautaki ni ka oqo?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Na kena semati e dua na ka e vakaleqai kei na mate ni guilecavi e sega ni tautauvata kei na kena vakadinadinataki ni na veisautaki ena vakalailaitaka na ka e vakaleqai. Eso na ivakaraitaki ni vanua e tu kina na ivakadinadina ni vakatovolevi:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Dra cecere.** Ena vakatovolevi na SPRINT MIND, e dua na takete lailai sobu ni dra e vakalailaitaka vakamatata na malumalumu lailai ni vakasama. E sega ni vakalailaitaka vakamatata na mate ni guilecavi e nanumi, ia na vakatovolevi ena rawa ni lailai sobu me vakaraitaka oqori ([SPRINT MIND ena JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Iyaya ni rogoca.** Na Komisini ni Lancet e vakamacalataka e dua na vakatovolevi ni tolu na yabaki me baleta na iyaya ni rogoca ka sega ni kunea e dua na revurevu raraba ena vakasama, ia e tiko na yaga vei ira e dua na ilawalawa era levu cake na ka e vakaleqai vei ira. Na vakadidike era muria na tamata ena vica na yabaki era semata na vakayagataki ni iyaya ni rogoca kei na lailai ni ka e vakaleqai. Na noda [ivakasala me baleta na rogoca](/brain-health/hearing/) e tiko kina eso tale na itukutuku.
+- **Vakaukauayago.** Na National Institute on Aging e kaya ni sega ni rauta na ivakadinadina ni vakatovolevi me kaya ni na vakaukauayago e rawa ni tarova se vakaberaberataka na malumalumu lailai ni vakasama se na mate ni Alzheimer, dina ga ni so na vakadidike era vakaraitaka ni ena rawa ni vukea na malumalumu e yaco ena yabaki
+  ([NIA me baleta na tarovi ni Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Na vakatovolevi balavu era waraka na mate ni guilecavi me yaco era berabera ka sau levu, o koya gona ena vuqa na ka na ivakadinadina vinaka duadua ena tomana tiko ga me lako mai na vakadidike era muria na tamata ena vica na yabaki. Na ivakadinadina oqori e yaga, ia e sega ni kaukauwa me vaka na vakatovolevi.
 
-## What about sleep and diet?
+## Na cava me baleta na moce kei na kakana?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Na Komisini e dikeva na moce kei na kakana ia e sega ni kuria ki na lisi,
+baleta ni na ivakadinadina e sega ni kaukauwa se dei vakavinaka. Na noda ivakasala me baleta na
+[moce](/brain-health/sleep/) kei na [kakana](/brain-health/diet/) erau vakamacalataka na ka e kilai.
 
-## Talk with a doctor
+## Veivosaki kei na vuniwai
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Na dikevi vakayabaki e dua na gauna vinaka me cavuti kina na ulutaga oqo. O rawa ni kauta mai na lisi oqo ka taroga:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Na cava na noqu naba ni dra, ni suka ena dra kei na cholesterol, ka e tiko beka e gadrevi me vakasamataki?
+- Me’u dikeva li na noqu rogoca kei na mataqu?
+- Na ka au cakava me vakaukauayago e taqomaki ka rauta li vei au?
+- E so beka na noqu wainimate e tara na nanuma se na vakasama?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Ni bera ni o veisautaka na wainimate, kakana, lolo, vakaukauayago se ivakabulabula, veivosaki mada kei na vuniwai. Kevaka o iko se o koya o qaravi tiko e kidroa vakasauri, malumalumu ena dua na yasana, se dredre na vosa, qiri 911.

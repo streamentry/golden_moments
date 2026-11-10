@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Раньн҄и знаци оумьнаго ослаблениꙗ и къгда видѣти врачь"
+seoTitle: "Раньн҄и знаци оумьнаго ослаблениꙗ и врачь"
+description: "Обьщии раньн҄и знаци оумьнаго ослаблениꙗ, како различають сѧ отъ обꙑчнааго старѣниꙗ, цѣлимꙑꙗ винꙑ памѧти, и како оуготовити сѧ къ видѣнию врачь."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Забꙑваниѥ памѧти, ѥжє мѧтєть дьнєвьноѥ житиѥ, троудъ въ знаѥмꙑхъ дѣлѣхъ, сьмѧтєниѥ о врѣмєни или мѣстѣ
+  и измѣнєниꙗ въ чоувьствѣ или расѫждєнии могѫтъ бꙑти раньн҄и знаци оумьнаго ослаблениꙗ. Мънога ина състоꙗниꙗ,
+  ꙗко болѣзни щитовидьнꙑꙗ жлѣзꙑ, мало витамина B12, дѣиствиꙗ лѣкъ, оуныниѥ и троуди съна, могѫтъ творити
+  подобьнꙑꙗ измѣнꙑ. Тъкъмо нарочитꙑи врачь можетъ поставити опрѣдѣлєниѥ. Наглоѥ сьмѧтєниѥ трѣбоѩть скорааго попєчєниꙗ.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Иногда забꙑваниѥ обꙑчно ѥсть при старѣнии; измѣнꙑ, ꙗжє мѧтѫть дьнєвьноѥ житиѥ, достоино ѥсть провѣрити."
+  - "Alzheimer's Association описоуѥть 10 прѣдꙋпрѣждаѭщихъ знакъ, и коупьно съ кымьждо кажєть обꙑчноѥ измѣнєниѥ при старѣнии."
+  - "Болѣзни щитовидьнꙑꙗ жлѣзꙑ, мало витамина B12, дѣиствиꙗ лѣкъ, оуныниѥ, недѫзи и троуди съна могѫтъ вьси дѣиствовати на памѧть, и нѣкотораꙗ отъ нихъ могѫтъ бꙑти цѣлима."
+  - "Тъкъмо нарочитꙑи врачь можетъ поставити опрѣдѣлєниѥ оумьнаго ослаблениꙗ; испꙑтаниꙗ на сътьи и самопровѣрꙑ нє могѫтъ."
+  - "Сьмѧтєниѥ, ѥжє настаѥть нагло, за часꙑ или дьни, можетъ бꙑти дєлириѥмъ и трѣбоѩть скорааго врачьскааго попєчєниꙗ."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Ѥсть ли забꙑваниѥ обꙑчна чѧсть старѣниꙗ?"
+    a: "Нѣчьто ѥсть. National Institute on Aging глаголєть, ꙗко иногда погѫбити вєщь или забꙑти платити длъгъ обꙑчно ѥсть лєгъко, съ старѣниѥмь съвѧзано забꙑваниѥ. Оумьноѥ ослаблениѥ нѣсть обꙑчна чѧсть старѣниꙗ. Троуди памѧти, иже творѧть дьнєвьнаꙗ дѣла, ꙗко вождєниѥ, оупотрѣблєниѥ далєчьнааго слова или обрѣтєниѥ пѫти къ домоу, трѫдьна, достоино ѥсть провѣрити оу врачь."
+  - q: "Могѫтъ ли троуди памѧти бꙑти отъ иного, нє отъ оумьнаго ослаблениꙗ?"
+    a: "Ѥи. National Institute on Aging поминаѥть болѣзни щитовидьнꙑꙗ жлѣзꙑ, бъбрєкъ или чрѣва, дѣиствиꙗ лѣкъ, оуныниѥ и трєвогѫ, мало витамина B12, зъло оупотрѣблєниѥ вина, троуди съна, недѫгꙑ и поврѣждєниꙗ главꙑ, и ина. Нѣкотораꙗ отъ сихъ могѫтъ оулоучьшити сѧ по цѣлєнии, и сє ѥсть ѥдина вина, дѣлꙗ чєсо врачьскоѥ провѣрєниѥ имать значєниѥ."
+  - q: "Могѫ ли азъ испꙑтати кого о оумьнѣмь ослаблении въ домоу?"
+    a: "Ни. Тъкъмо нарочитꙑи врачь можетъ поставити опрѣдѣлєниѥ оумьнаго ослаблениꙗ, оупотрѣблѧꙗ врачьскѫѭ повѣсть, тѣлєсьноѥ осмотрєниѥ, испꙑтаниꙗ памѧти и мꙑшлєниꙗ, испꙑтаниꙗ въ истькании и иногда видѣниꙗ мозга. Дажє кратъкаꙗ испꙑтаниꙗ, ꙗжє врачєвє оупотрѣблꙗѭть, сама о сєбѣ нє довьлѣѭть къ опрѣдѣлєнию оумьнаго ослаблениꙗ."
+  - q: "Чьто имамь творити, ащє къто нагло бѫдєть сьмѧтєнъ?"
+    a: "Абиѥ поищитє врачьскꙑꙗ помощи. Наглоѥ сьмѧтєниѥ можетъ бꙑти дєлириѥмъ, иже VA нарицаѥть врачьскою нѫждєю. Абиѥ позовитє попєчитєлꙗ здравиꙗ того чловѣка или мѣстьнѫѭ слоужьбѫ скорꙑꙗ помощи, прѣбѫдитє съ нимь и запишитє лѣкꙑ, ꙗжє приимають."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Замѣчати измѣнꙑ въ своѥи памѧти, или въ памѧти чловѣка, ѥгожє любите, можетъ бꙑти страшно. Си страница можетъ помошти вамъ разоумѣти, къгда положити видѣниѥ оу врачь и како оуготовити сѧ къ н҄емоу. Она нє можетъ рєщи, имать ли къто оумьноѥ ослаблениѥ. **Тъкъмо нарочитꙑи врачь можетъ поставити опрѣдѣлєниѥ оумьнаго ослаблениꙗ**, и мънога състоꙗниꙗ, ꙗжє творѧть троуди памѧти, нє сѫть оумьноѥ ослаблениѥ. Нє надѣитє сѧ на испꙑтаниꙗ на сътьи или самопровѣрꙑ.
 
-## What are the early signs of dementia?
+## Кꙑи сѫть раньн҄и знаци оумьнаго ослаблениꙗ?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) описоуѥть 10 раньнихъ знакъ. Коупьно съ кымьждо кажєть обꙑчноѥ измѣнєниѥ при старѣнии, да сѧ съравьнить. Своими словєсꙑ:
 
-| Sign worth checking | More typical with age |
+| Знакъ, ѥгожє достоино провѣрити | Чѧщє обꙑчно при старѣнии |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Забꙑваниѥ памѧти, ѥжє мѧтєть дьнєвьноѥ житиѥ, ꙗко забꙑваниѥ новꙑхъ събꙑтии или пакꙑ и пакꙑ въпрашати о томьждє | Иногда забꙑти имѧ или видѣниѥ и по томь помѧнѫти |
+| Троудъ въ оустроѥнии или рѣшєнии, ꙗко послѣдовати знаѥмои повари или дрьжати смѣтѫ длъгъ | Иногда съгрѣшити въ домашьн҄ихъ смѣтахъ |
+| Троудъ съконьчати знаѥмаꙗ дѣла въ домоу, на дѣлѣ или внѣ | Иногъда трѣбовати помошти съ оустроѥниѥмь пєщи или записаниѥмь видѣниꙗ |
+| Гоубити чоувьство дьнєи, врѣмєнъ лѣта или мѣста | Съгрѣшити о дьни нєдѣлѧ и по томь разоумѣти |
+| Новъ троудъ оцѣнити далєчьство, чьсти или различати цвѣтꙑ | Измѣнꙑ видѣниꙗ отъ катарактꙑ |
+| Новꙑ троуди съ словєсꙑ, ꙗко стати посрѣдѣ бєсѣдꙑ или нарєщи вєщи нєправьнꙑмь имєнємь | Иногда троудити сѧ обрѣсти правоѥ слово |
+| Полагати вєщи на нєобꙑчьнꙑхъ мѣстѣхъ и нє мощи въспомѧнѫти пѫть | Иногда погѫбити вєщи и обрѣсти ꙗ въспомѧнѫвъ пѫть |
+| Хоудо расѫждєниѥ, на примѣръ о срєбрѣ или о сєбѣ попєчєнии | Иногда сътворити хоудо рѣшєниѥ |
+| Отъстѫпати отъ любьнꙑхъ дѣлъ, дѣла или обьщєниꙗ | Иногда нє хотѣти ити на родьноѥ или обьщєѥ събьраниѥ |
+| Измѣнꙑ въ чоувьствѣ или обꙑчаи, ꙗко бꙑти сьмѧтєноу, нєдовѣрьливоу, страшливоу или трєвожьноу | Имѣти оутврьждєнꙑ обꙑчаѥ и чоувьствовати раздражєниѥ, ѥгда обꙑчаи сѧ мѧтєть |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Ѥдинъ знакъ самъ о сєбѣ нє значить оумьнааго ослаблениꙗ. Важьно ѥсть **измѣнєниѥ отъ того, ѥжє обꙑчно ѥсть томоу чловѣкоу**, пачє ащє творить дьнєвьноѥ житиѥ трѫдьнѣѥ.
 
-## How is normal aging different from dementia?
+## Како обꙑчноѥ старѣниѥ различаєть сѧ отъ оумьнаго ослаблениꙗ?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) глаголєть, ꙗко мънози стариѥ чловѣци замѣчаѭть, ꙗко помьнѧть мєдлѧѥ, или иногда гоубѧть вєщи, или забꙑваѭть платити длъгъ. Си обꙑчно сѫть знаци лєгъкааго забꙑваниꙗ. **Оумьноѥ ослаблениѥ нѣсть обꙑчна чѧсть старѣниꙗ.** Тѧжьции троуди памѧти творѧть дьнєвьнаꙗ дѣла трѫдьна, ꙗко вождєниѥ, оупотрѣблєниѥ далєчьнааго слова или обрѣтєниѥ пѫти къ домоу.
 
-The NIA suggests talking with a doctor if someone:
+NIA съвѣтоуѥть глаголати съ врачьмь, ащє къто:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Пакꙑ и пакꙑ въпрашаѥть таꙗждє въпросꙑ
+- Заблѫждаѥть въ мѣстѣхъ, ꙗжє прѣждє добрѣ знаашє
+- Имать троудъ послѣдовати поварѥмъ или напѫтємъ
+- Бꙑваѥть пачє сьмѧтєнъ о врѣмєни, чловѣцѣхъ и мѣстѣхъ
+- Прѣстаѥть пєщи сѧ о сєбѣ, на примѣръ хоудо ꙗсти, нє мꙑти сѧ или творити нєбєзопасьно
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Оу нѣкꙑихъ чловѣкъ ѥсть **лєгъкоѥ оумьноѥ ослаблениѥ (MCI)**. Сє значить болє троудъ памѧти или мꙑшлєниꙗ, нєжєли оу инѣхъ тѣхъждє лѣтъ, нъ чловѣкъ ѥщє можетъ правити дьнєвьноѥ житиѥ. NIA глаголєть, ꙗко MCI можетъ бꙑти раньн҄ии знакъ болѣзни Альцхаимєра, нъ нє вьси чловѣци съ MCI ю приимѫть.
 
-## What else can cause memory problems?
+## Чьто иногѥ можєть творити троуди памѧти?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Мънога инъна, кромѣ оумьнаго ослаблениꙗ, могѫть дѣиствовати на памѧть, и нѣкотораꙗ оулоучьшаѭть сѧ по цѣлєнии. NIA поминаѥть:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Болѣзни щитовидьнꙑꙗ жлѣзꙑ, бъбрєкъ или чрѣва**
+- **Дѣиствиꙗ лѣкъ**
+- **Оуныниѥ и трєвогѫ**
+- **Мало витамина B12** или нєдовольно добрааго брашьна
+- **Троуди съна**
+- **Зъло оупотрѣблєниѥ вина или инѣхъ сѫщьствъ**
+- **Недѫгꙑ, съсѣдъниꙗ кръвє или отрочьства** въ мозгѣ
+- **Поврѣждєниѥ главꙑ**, ꙗко потрѧсєниѥ
+- **Вєликѫ тѧготѫ или жалость**, ꙗко останиѥ отъ дѣла или погоублєниѥ съпрѫга
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Троуди слоуха и видѣниꙗ тако можѫть бꙑти приѧти за сьмѧтєниѥ; видитє нашє [наставлєниѥ о слоусѣ](/brain-health/hearing/). Сєго ради врачьскоѥ провѣрєниѥ имать значєниѥ. По словєсємъ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), врачєвє чѧсто повєлѣваѭть испꙑтаниꙗ кръвє, да провѣрѧть болѣзни щитовидьнꙑꙗ жлѣзꙑ, нєдостатъкꙑ витаминъ и недѫгꙑ. Добръ [сънъ](/brain-health/sleep/) и попєчєниѥ о оунынии тако достоино ѥсть помѧнѫти.
 
-## Sudden confusion is an emergency
+## Наглоѥ сьмѧтєниѥ ѥсть нѫжда
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Сьмѧтєниѥ, ѥжє настаѥть скори, за часꙑ или дьни, трѣбоѩть скорааго врачьскааго попєчєниꙗ.** Сє можетъ бꙑти дєлириѥмъ. [VA описоуѥть дєлириѥмъ](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) ꙗко врачьскѫѭ нѫждѫ и съвѣтоуѥть абиѥ позъвати попєчитєлꙗ здравиꙗ того чловѣка или мѣстьнѫѭ слоужьбѫ скорꙑꙗ помощи. Знаци сѫть:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Измѣнꙑ въ могощи ꙗсно мꙑслити
+- Троудъ дрьжати вниманиѥ
+- Нєоустроѥно мꙑшлєниѥ
+- Нєобꙑчьно много съпаниѥ, или нєобꙑчьно много нєпокои и вълнєниѥ
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Сє можетъ приключити сѧ вьсѣмъ, и тѣмъ чловѣкомъ, иже оужє живѫть съ оумьнꙑмь ослаблениѥмь. По словєсємъ [NHS](https://www.nhs.uk/symptoms/confusion/), обьщꙑꙗ винꙑ сѫть недѫзи (недѫзи мочєвꙑхъ пѫтии обьщии сѫть оу старꙑхъ чловѣкъ и оу чловѣкъ живѫщихъ съ оумьнꙑмь ослаблениѥмь), оударъ, мало сахара въ кръви оу чловѣкъ съ диꙗбєтомь, поврѣждєниѥ главꙑ и нѣкотори лѣковє. Доньдєжє ждєтє помошти, прѣбѫдитє съ чловѣкомь и оутѣшаитє ѥго кратъкꙑми, простꙑми словєсꙑ. Нє въпрашаитє мъногꙑхъ въпросъ и запишитє лѣкꙑ, ꙗжє приимають.
 
-## How do I prepare for the doctor's appointment?
+## Како оуготовити сѧ къ видѣнию оу врачь?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Доброѥ видѣниѥ начинаѥть сѧ отъ добрꙑхъ записии. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) съвѣтоуѥть принєсти:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Съписъкъ измѣнъ** въ памѧти, чоувьствѣ и обꙑчаи, съ ꙗвьнꙑми примѣрꙑ и приблизьно къгда начѧшѧ сѧ
+2. **Прѣжьнꙗꙗ и нꙑнѣшьнꙗꙗ състоꙗниꙗ здравиꙗ**, въ томь числѣ родьнѫѭ повѣсть о троудѣхъ памѧти
+3. **Вьсѧ лѣкꙑ по повєлѣнию и бєзъ повєлѣниꙗ**
+4. **Вьсꙗ витаминꙑ или приложєниꙗ**
+5. **Вашꙙ въпросꙑ**, на примѣръ каꙗ испꙑтаниꙗ бѫдѫть, колико врѣмєнє трѣбоѭть и къгда бѫдѫть отъвѣти
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Полєзьно ѥсть тако принєсти родьнааго чловѣка или дроуга, иже добрѣ знаѥть того чловѣка. [NIA изꙗснꙗѥть](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), ꙗко врачєвє могѫть въпрашати и самого чловѣка, и родьнааго чловѣка о здравии, лѣцѣхъ, дьнєвьнꙑхъ дѣлѣхъ и измѣнахъ въ обꙑчаи. Врачєвє тако могѫть:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Дати испꙑтаниꙗ памѧти, рѣшєниꙗ, вниманиꙗ, чьтєниꙗ числа и словєсъ
+- Повєлѣти испꙑтаниꙗ кръвє, мочꙑ и ина, да ищѫть инꙑхъ винъ
+- Провѣрити оуныниѥ или ина състоꙗниꙗ дѫшєвьнааго здравиꙗ
+- Повєлѣти видѣниꙗ мозга, ꙗко CT или MRI
+- Посълати къ нарочитоу врачоу, ꙗко къ врачоу старꙑхъ, нєврологоу, дѫшєвьномоу врачоу старꙑхъ или нєвропсѷхологоу
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA поминаѥть, ꙗко оумьнаꙗ оцѣнка ѥсть трѣбоуѥма чѧсть лѣтьнааго посѣщєниꙗ здравиꙗ Medicare, и сє можетъ бꙑти добръ часъ помѧнѫти о пєчалєхъ. Дажє кратъкаꙗ испꙑтаниꙗ, ꙗжє врачєвє оупотрѣблꙗѭть, сама о сєбѣ нє довьлѣѭть къ опрѣдѣлєнию оумьнаго ослаблениꙗ. Та сѫть пьрвоѥ стапаниѥ къ пълнѣишємоу провѣрєнию, и опрѣдѣлєниѥ можетъ трѣбовати болє ѥдиного видѣниꙗ. NIA съвѣтоуѥть, да чловѣци съ троуди памѧти възвращаѭть сѧ къ врачоу на вьсꙗкꙑ 6 до 12 мѣсѧць.
 
-## Raising the subject kindly
+## Како кротъко начѧти сь словєсъ
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ащє пєчєтє сѧ о иномь чловѣцѣ, изберитє тихъ и частънъ часъ. Глаголитє о ꙗвьнꙑхъ вєщєхъ, ꙗжє ѥстє замѣтили, ꙗко о пєчали о ѥго здравии, а нє ꙗко о оукорѣ. Прѣдъложєниѥ обьщаго провѣрєниꙗ здравиꙗ можетъ бꙑти мьнє страшно. Призъваитє того чловѣка въ рѣшєниꙗ и глаголитє къ н҄емоу ꙗко къ възрастьноу чловѣкоу. Наши [съвѣти о бєсѣдѣ](/caregiving/communication-tips/) могѫть помошти.
 
-## Talk with a doctor
+## Глаголитє съ врачьмь
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ащє замѣчаѥтє измѣнꙑ въ памѧти, мꙑшлєнии, чоувьствѣ или дьнєвьнꙑхъ могощихъ, ꙗжє сѫть новꙑ и прѣбꙑваѭть, положитє видѣниѥ оу обьщаго врачь. При наглѣмь сьмѧтєнии абиѥ позовитє мѣстьнѫѭ слоужьбѫ скорꙑꙗ помощи или попєчитєлꙗ здравиꙗ того чловѣка. Раньнє провѣрєниѥ помагаѥть обрѣсти цѣлимꙑꙗ винꙑ, а ащє сє ѥсть оумьноѥ ослаблениѥ, даѥть болє врѣмєнє оустроити и обрѣсти подъпорѫ. Пєцитє сѧ и о сєбѣ; видитє нашє [наставлєниѥ о попєчєнии о сєбѣ](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Си страница ѥсть обьщє свѣдѣниѥ, а нє врачьскъи съвѣтъ. Видитє нашє [врачьскоѥ отърєчєниѥ](/medical-disclaimer/).

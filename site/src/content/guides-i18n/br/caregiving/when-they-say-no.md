@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Pa refuz an den gant an dementia ur weithadenn"
+seoTitle: "Pa refuz an den ur weithadenn gant an dementia"
+description: "Perak e c'hall un den a vev gant an dementia refuziñ pe bezañ fromet gant ur weithadenn, petra klask a-benn, petra zo da zifen, ha pryd e rankit gwelout ur medisin."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Pa lavar an den gant an dementia « nann », degemerit anezhañ en un doare
+  distaolet ha klaskit en amzer all pe proponit unan all. Al lavar nann a zo
+  alies abeg dezhañ: an ober a zo re galet pe re vugaleek, skuizh eo, pe klañv,
+  naon, pe re dispac'h gant ar sonerezh. Na ziskuizhit ket ha na zoujit ket.
+  Gwellit an ober, proponit daou zibab pe goulennit o skoazell. Ur c'hemm
+  buan pe a-stroboù, dreist-holl goude un heintiegezh pe ur medisin nevez, a
+  rank kas d'ur medisin buan.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Ur « nann » a zo ur respont da zoujañ outañ, n'eo ket ur gudenn da dreiñ dre nerzh."
+  - "Fetet e vez an abeg gant ar refus peurvuiañ: re galet, re vugaleek, skuizh, klañv, diaoz pe bec'h gant ar sonerezh."
+  - "Dilezit kement-se, gortozit pe klaskit en amzer all pe gant ur stumm hensimploc'h."
+  - "Gwelloc'h eo goulenn o skoazell evit goulenn outo ober un dra."
+  - "Na ziskuizhit ket, na bourchit ket, na lakait ket da c'houzout. Gwelit ha ne vefe ket rak prederiñ ac'hanoc'h."
+  - "Ur c'hemm buan pe a-stroboù, dreist-holl gant ur heintiegezh pe medisinoù nevez, a rank mont da gaout ur medisin war-eeun."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Ha mat eo lezel an den da dremen an oberoù en holl?"
+    a: "Ya, un deiz pe zeiz. Setel asambles, selaout ar sonerezh pe gwelet an dud o tremen a c'hall bezañ hen ampart. Mar eo aet an den da vezañ diaoz gant an holl dra a-hed sizhunioù, lavarit d'e veleg, rak an iselder spered, ar poan pe kudennoù yec'hed all a c'hall bezañ e-barzh."
+  - q: "Perak e refuz an den traoù a garde a-vremañ?"
+    a: "Un hobby kozh a c'hall dont da vezañ fromus pa postul an taolioù a zo aet diouzh an dementia da vezañ dreistgalet, ha pa c'hall an den bezañ mezh. Klaskit ur pezh hensimploc'h eus an hobby kentañ, evel termeniñ botonioù e-lec'h kousoud, pe sellet ouzh luniadoù al liorzh e-lec'h plantañ."
+  - q: "Ha dleout a ran o c'hredadiñ?"
+    a: "Nann. Pouezañ war an den evit ober un dra a zo galet dezhañ gant an dementia a zo un abeg kont-kaer da zifen. Degemerit ar nann, cheñchit an divizoù, ha proponit en amzer all pe en un doare all."
+  - q: "Pryd eo ur c'hemm en ober un danvez a-vrezel?"
+    a: "Galvit ar 112 mar eo en a-berzh an den pe mar en deus arwezioù ur vrezel yec'hed. Evit un tevelezh buan pe un ober a zo o cheñch buan a-dreuz eur pe un deiz, dreist-holl gant ur fiv, ur heintiegezh pe ur medisin nevez, kit war-eeun d'e veleg."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Lakaet oc'h holl dra e-barzh, kinniget ur c'hoari pe ur c'herzh, ha klevet ur « nann ». Pe e kregi ar weithadenn mat, hag e fin e vez ur post pellet kuit ha ur gomzig fall. Digalonekaat eo, ha boas bras a zo gantañ. Ar refus hag ar fromadenn a vez alies ur c'hemennadenn, n'eo ket ur fentegezh. Ma kavit petra a lavar an hini a refuz, e vez alies diskouezet deoc'h petra klask goude.
 
-## Why does someone with dementia refuse activities?
+## Perak an den gant an dementia a refuz an oberoù?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Peurvuiañ e vez un abeg, koulskoude ma ne c'hall ket an den lavarout anezhañ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a skriv e c'hall ar refus tizhout ouzh an hini n'eo ket evit gallout ober an dra pe ouzh aon rak klask. An abegoù boutin int:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Re galet eo.** An ober a ya da ober gant skouerioù a zo bet difragil gant an dementia, ha fazi a-raok an dud a zo fromus.
+- **Re vugaleek eo.** Adorable a welont al luniadoù lodennet, ar mouezh gant an tonoù a vez gant ar vugale hag an oberoù a seblant bezañ bet graet evit ar vugale.
+- **Skuizh.** Kalz a dud a zo nebeutoc'h a nerzh diwezhatoc'h en deiz. Gwelit [oberoù tizh an abardaez](/caregiving/late-day-restlessness/).
+- **Poan korf.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) a listenn ar poan, ar c'hoant kousket, gwelout pe klevet diaes, ar c'honvoullañ, ar naon, an dourdi hag efedoù ar medisinoù nevez evel abegoù posupl da fromiñ.
+- **Re a draoù a-fed.** Ur radio uhel, meur a gomzadenn pe ur c'hambr leun a c'hall bezañ re.
+- **Ober pouezus.** An NIA a enrollas e vez fromet an den pa vez pouezet warnañ da ober un dra a zo galet dezhañ gant Alzheimer, pe da gofiñ darvoudoù pe tud, evel abeg da fromadenn.
+- **Iselder spered.** Mont kuit eus an traoù a c'hall bezañ ur sinadur evit an iselder, ha dleout a rit kaout gant ar veleg evezh.
+- **Ne fell ket dezho.** An dud a zo aotreet da lavarout « nann ».
 
-## What should I try when they say no?
+## Petra a rin pa lavar an den nann?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Degemerit ar nann en un doare distaolet, neuze cheñchit un dra: an amzer, an ober, ar galloud pe an doare ma kinnigit.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Lezit ar pezh-se da vont evit ar mare.** « Ya mat eo. Marteze diwezhatoc'h. » Neuze kit d'un dra all hep ober un ouzhgoulzad.
+2. **Klaskit en amzer all.** Ar Alzheimer's Association a ginnig klask en amzer all pe en un eur eus an deiz all.
+3. **Ober anezhañ berroc'h.** Unan eus ar pesadoù e-lec'h ur c'hoari a-bezh. Ur gerzh hepken e-lec'h ar sac'h dilhad. Luniadoù nebeutoc'h, dibaboù nebeutoc'h, luniadoù gwelet atav.
+4. **Proponit daou zibab.** « Ha karout a rafec'h sellet ouzh al luniadoù evlenn pe selaout ur sonerezh? » Un dibab a adrer ur skiant a stur d'an den.
+5. **Goulennit o skoazell e-lec'h ober un dra.** « Ha c'hwi a c'hallfe skarzhañ an dra-mañ ganeomp? » pe « Pe liv a welit mat ar muioc'h? » Bezañ ezhomm a zo disheñvel ouzh bezañ prouvet.
+6. **Kregit ac'hanoc'h.** Kregit gant an ober e-kichen an den hep goulenn. Kalz a dud a aotre pa vez an dra o vont war-raok, ha ma ne ra ket, hoc'h eus tremenet an amzer asambles.
+7. **Cheñchit d'un dra korfel pe lounus.** Ur baleadenn berr, ar sonerezh, ur bred, diplegañ dilhad, pe ur pause « anadenn lañv » asambles gant [an anadenn lañv](/games/calm-breathing/). An NIA a gemm lakaat an attention war ar sonerezh, al levr pe ur baleadenn.
+8. **Lezit anezhañ da ober en e doare.** Ma fell dezhañ c'hoari diouzh ar reolennoù, asantit. Ar Alzheimer's Association a lavar e vez gwelloc'h bezañ hentus.
 
-## What should I say when they get frustrated?
+## Petra a lavarin pa vez fromet an den?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Mont gant ar c'hoari, mouezh izel ha tanvezout. [Alzheimer's Association a zo e-kerzh ar fromadenn](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) a gemm distreiñ, goulenn aotre, lavarout gerioù kalm ha pozitivel, ha kinniget un dibab kanet etre daou zibab. Setu kelennoù en hevelep spered:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- « Digarezit, an dra-mañ a zo fazius. Paouez.»
+- « Mat e vez c'hwi. Emaon amañ. »
+- « Ha c'hwi a zo amzer ganeoc'h da skoazellañ ac'hanon gant un dra all? »
+- « Ha ne rafemp ket ur bajenn te e-lec'h? »
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Goude, echuit an ober hep ober kalz a dra. Hor [sturidigezhioù kehentiñ](/caregiving/communication-tips/) a zo muioc'h a draoù a lavarout.
 
-## What should I avoid?
+## Petra a zo dic'hallus?
 
-Some natural reactions tend to make things worse.
+Traoù a zo naturel a c'hall gwaskaat ar pezh a zo dija.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Argueziñ pe pouezañ.** « Deuit, unan hepken ! » pe « Plijout a rae deoc'h kement-se » ne servij ket alies.
+- **Goulennañ pe reizhañ.** « Gouzout a rit petra eo » pe « Nann, ar mañ n'eo ket reizh » a ginnig pouez.
+- **Kemer ar pezh a lavar evel ma vefe warnoc'h.** An NIA a gemenn d'ar re a sikour ne vez ket an den, met an dementia, a zo kaoz d'ar cheñchamantoù-se.
+- **Strinkañ pe prederiñ.** Ar Alzheimer's Association a gemenn na zeuit ket da grial, na ziskouezit spont, na zalc'hit, na serriñ, na vezit gwasket, na yac'het, na dizoloc'h, na argueziñ gant an den, ha na zeuit ket da fiñvañ en tu all dezhañ.
+- **Lakaat ar fazi warnañ.** « Evidon e oa kement-mañ graet evidoc'h » a laka ac'hanoc'h daou da vezañ gwashoc'h.
+- **Lavarout « ankouaat » pe « dic'hunvan ».** Ar gerioù-se a guz an abeg gwir ha a ra an dra kalz dibosupl da ober.
 
-## How can I find out what is behind repeated refusals?
+## Penaos kaout petra a zo en diabarzh ar refuziadennoù adkorfet?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Miret un notenn simpl a-hed ur sizhun pe daou. Al NIA a lavar e c'hall ar notennoù-se skoazellañ an dud a sikour hag ar re a bourchas yec'hed da welout ur patrom ha da gavout an abeg.
 
-Jot down:
+Skrivit:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- an eur eus an deiz;
+- petra ‘ec'h eus kinniget ha penaos ‘ec'h eus goulennet;
+- petra a oa ouzhpenn ac'hanoc'h (son, izili, TV);
+- penaos o deus kousket, debret ha evet, ha pegoulz zo bet an den en ti-vaout diwezhañ;
+- medisinoù nevez pe klenved nevez.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Alies e vez gwelet ar patromoù buan: refuziadennoù a zo nemeur a-wechoù goude 4 eur, nemet gant ur c'hoari resis, pe nemet pa vez ar TV war-lerc'h. Ar [gidour evit kefridioù an dementia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gant Family Caregiver Alliance a lavar e-giz-se : n'hallomp ket cheñch an den, met hor bevezh hon-unan ha gwarez ar vro a c'hallomp cheñch.
 
-## When should I talk to a doctor about refusal or frustration?
+## Pryd e rankit kaout gant ar medisin diwar-benn ar refus pe ar fromadenn?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kit d'ar medisin pa gemm an ober buan, pe a-stroboù, pe gant arwezioù ur c'hlenved. An NIA a lavar e rank ar c'hemmoù buan pe a zo o cheñch a-stroboù, dreist-holl mar en deus an den bet un heintiegezh pe cheñchamantoù er medisinoù nevez, bezañ lakaet da c'houzout d'ar medisin a-raok pep tra.
 
-Contact their doctor promptly if you notice:
+Kit war-eeun d'ho medisin ma welit:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- tevelezh buan pe ur c'hemm bras a-dreuz eur pe un deiz;
+- arwezioù poan, evel gwaskerezh, derc'hel ur rann eus ar gorf, pe bezañ fiskus gant ur rann eus ar gorf;
+- fiv pe arwezioù all un heintiegezh;
+- medisinoù nevez pe cheñchet ha goude un cheñch en ober;
+- kollet an dudi ouzh an holl draoù, glac'harioù pe dispakadenn a badas muioc'h eget ur pemp sizhun;
+- nann da zebriñ pe evañ.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+An Alzheimer's Association a argas ur gwiriadenn yec'hed penn-da-benn evit an holl re a zo gant arwezioù ober, dreist-holl pa zeu an arwezioù-se buan. An Family Caregiver Alliance a gemenn ivez gwiriañ gant ar medisin da gentañ, rak an diaezamantoù ober a c'hall bezañ abeg yec'hed. Na lakit, na baouezit, na cheñchit medisin ebet hep komz gant ur medisin pe ur farmakour.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Ma'z eo en a-berzh an den pe ma'z eus arwezioù ur vrezel yec'hed, galvit ar 112. An NIA a gemenn lavarout d'ar re a respont d'ar galv e vez an den gant an dementia.
 
-## Is it okay if we do nothing at all?
+## Ha mat eo ma ne reomp netra ebet?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Ya. Un deiz zo ar gwellañ ober n'eo ket ober ebet: setel asambles, dal daouarn, selaout ur sonerezh a blij d'an den, pe gwelet an evned o tremen dre ar prenestr. Ne vez ket ur fazi se. Hor [sturidigezh c'hoari asambles](/caregiving/how-to-play-together/) a ziskouez perak e c'hall bezañ ar reizh dibab paouez a-raok pe ne gregiñ ket.

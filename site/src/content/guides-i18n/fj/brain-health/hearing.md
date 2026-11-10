@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Na Dredre ni Rogoca kei na Rerevaki ni Dementia"
+seoTitle: "Dredre ni Rogoca kei na Dementia: Ka Kunea na Vakadidike"
+description: "Na vuna e dua kina na ka levu ni rerevaki ni dementia na dredre ni rogoca, na ka dina e kunea na vakatovotovo ACHIEVE, kei na sala me dikevi kina na rogoca."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Na iVola ni Komiti ni Lancet ena 2024 e vakatokai na dredre ni rogoca me dua na ka levu e rawa ni
+  veisautaki me baleta na rerevaki ni dementia. Ena vakatovotovo ACHIEVE, na iyaya ni rogoca e sega ni
+  tarova na malumalumu ni vakasama raraba, ia e dua na ilawalawa e rerevaki cake e lailai sobu na nona
+  malumalumu. Na iyaya ni rogoca e vukea ga na veivosaki kei na bula ni veisiga. Dikeva na rogoca, vakasamataka
+  na iyaya ni rogoca e volai se volitaki vakadodonu, ka veivosaki kei na vuniwai.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Na Komiti ni Lancet e vakadrauataka ni rauta ni 7 na pasede ni dementia e vuravura e semati ki na dredre ni rogoca, e tautauvata kei na ka levu duadua ena 14 na ka."
+  - "Ena vakatovotovo ACHIEVE vei ira e 977 na qase, na iyaya ni rogoca e sega ni veisautaka na malumalumu ni vakasama ena tolu na yabaki raraba."
+  - "Ena dua na ilawalawa lailai e rerevaki cake ena ACHIEVE, e 48 na pasede na lailai ni malumalumu ni vakasama vei ira era vakayagataka na iyaya ni rogoca; e gadrevi me vakadeitaki tale."
+  - "Mai Okotova 2022, o ira na qase mai Amerika era nanuma ni lailai se veimamalua na dredre ni rogoci ira e rawa nira volia na iyaya ni rogoca e lewai mai na FDA e sega ni gadrevi na ivola ni vuniwai."
+  - "Na dredre ni rai e sega ni qaravi e kuria me dua na ka ni rerevaki ni dementia ena 2024, ka bibi tale ga na dikevi ni mata."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "E tarova li na dementia na iyaya ni rogoca?"
+    a: "E sega ni vakadeitaki oqo. Na vakatovotovo ACHIEVE e kunea ni sega na kena revurevu raraba ena malumalumu ni vakasama ena tolu na yabaki, ia e vinaka cake vei dua na ilawalawa e rerevaki cake. E yaga tiko ga me vakasamataki na iyaya ni rogoca baleta e rawarawa kina na veivosaki, na taqomaki, kei na bula ni veisiga."
+  - q: "O cei e rawa ni volia na iyaya ni rogoca e sega ni gadrevi na ivola ni vuniwai?"
+    a: "Na FDA e vakatarai ira na qase yabaki 18 ka sivia era nanuma ni lailai se veimamalua na dredre ni rogoci ira me ra volia na iyaya ni rogoca OTC ena sitoa se ena initaneti ka sega ni gadrevi na ivola ni vuniwai. E sega ni nakiti me baleta na dredre ni rogoca levu. O koya e mosi na daligana, e drodro na wai mai na daligana, e dau wavoki, se e veisau vakasauri na rogoca e dodonu me raici vuniwai taumada."
+  - q: "E rawa li ni vaka na dementia na dredre ni rogoca?"
+    a: "Ena so na gauna, io. Na National Institute on Aging e tukuna ni so na qase era sega ni rogoca vinaka era dau nanumi cala ni ra veilecayaki se sega ni via veitokoni. Na dikevi ni rogoca e dua na ikalawa vinaka ni dua e tekivu vakayawaki se sega ni rogoca vinaka na ka e tukuni."
+  - q: "E dodonu me vaka vica na dikevi ni mata vei ira na qase?"
+    a: "Na National Institute on Aging e vakatura me caka na dikevi ni mata e vakalevutaki na gone ni mata ena veiyabaki se veiyabaki rua ni oti na yabaki 60, se me vaka na ivakasala ni nomu daunivakatavulici ni mata. O ira era tauvi mate ni suka se toto cecere era dau gadreva vakalevu me caka ena veiyabaki."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Na dredre ni rogoca e dau yaco vakalevu ena bula ni qase, ka ra vakabauta na dauvakadidike ni dua na ka ni rerevaki ni dementia. Oqo e sega ni kena ibalebale ni iyaya ni rogoca e dua na sala vakadeitaki me tarovi kina na dementia; na vakatovotovo vinaka duadua me yacova oqo e duidui na kena macala. Na tabana oqo e vakamacalataka na ka e vakaraitaka na vakadidike, na sala me dikevi kina na rogoca, na cava na iyaya ni rogoca e volitaki vakadodonu mai Amerika, kei na sala me rawarawa kina na veivosaki.
 
-## Why does hearing matter for brain health?
+## Na cava na vuna e bibi kina na rogoca ki na bula vinaka ni mona?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Na dredre ni rogoca e semati ki na rerevaki levu cake ni dementia. Na [Komiti ni Lancet ena 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) e vakadrauataka ni rauta ni 7 na pasede ni dementia e vuravura e semati vua. Oqo e tautauvata kei na LDL cholesterol cecere me baleta na iwase levu duadua ena 14 na ka ni rerevaki e rawa ni veisautaki ena ivakarau ni Komiti, me vaka na [ivakamacala ni UCL me baleta na ripote](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Na ka bibi e kune mai na Komiti:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Rerevaki levu cake ni dredre ni rogoca.** Ena nona vakadidike vata e ono na vakadidike vinaka, o ira era dredre ni rogoci ira e rauta ni 37 na pasede na levu cake ni nodra rerevaki ni dementia mai vei ira era rogoca vinaka.
+- **Levu na dredre, levu na rerevaki.** Na vakadidike e raica na kena bibi e kunea ni tubu cake na rerevaki ni levu cake na dredre ni rogoca.
+- **Rawa ni vuna, ia sega ni vakadeitaki.** Na nanuma e okati kina na tu duadua kei na vakayawaki, na lomabibi, na lailai ni veivakauqeti ki na mona, kei na sasaga levu ni vakasama e gadrevi ena rogoca.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Na dredre ni rogoca e dau yaco vakalevu. Na [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) e tukuna ni rauta ni dua na ikatolu ni qase e sotava, ka tubu cake na kena rawa ni sa qase cake.
 
-## What did the ACHIEVE hearing aid trial find?
+## Na cava e kunea na vakatovotovo ni iyaya ni rogoca na ACHIEVE?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+Na ACHIEVE a imatai ni vakatovotovo vakadidike me baleta na iyaya ni rogoca kei na malumalumu ni vakasama. Na kena macala e dau tukuni cala vakawasoma, ia oqo na kena matailalai mai na [ripote ni vakatovotovo e tabaki](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **O cei era vakaitavi:** 977 na qase mai na yabaki 70 ki na 84 era sega ni qarava na dredre ni rogoci ira ka sega na leqa levu ni vakasama, ena va na vanua ni itikotiko mai Amerika.
+- **Na cava e veidutaitaki:** E veimama na ilawalawa era ciqoma na iyaya ni rogoca kei na veivakasalataki vata kei na daunivakatavulici ni rogoca. Na kena vo era ciqoma e dua na parokaramu ni vuli me baleta na bula vinaka ni qase.
+- **Kena macala levu:** Ni oti na tolu na yabaki, e **sega na duidui** ena malumalumu ni vakasama ena kedrau maliwa na ilawalawa raraba.
+- **Kena macala ni ilawalawa lailai:** Na vakatovotovo e digitaki mai na rua na ivurevure. E 238 na tamata mai na dua na vakadidike balavu ni bula vinaka ni uto (ARIC), ka raraba era rerevaki cake ena malumalumu ni vakasama. Ena ilawalawa oqo, e **48 na pasede na lailai** ni malumalumu vei ira era vakayagataka na iyaya ni rogoca. Ena kedrau maliwa na 739 na volenitia bulabula mai na itikotiko, e sega na revurevu matata.
 
-How to read this honestly:
+Na sala me wilika kina ena yalodina:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Na isau raraba e sega na kena revurevu.
+- Na ka e kune ena ilawalawa lailai a nakiti taumada, ia e lako mai na vakadidike ikarua ni dua na ilawalawa lailai. E gadrevi me vakadeitaki ena so tale na vakadidike.
+- O ira era vakaitavi era kila na parokaramu era tiko kina, ka rawa ni vakayarayarataka na macala.
+- Na Komiti ni Lancet e wilika na ivakadinadina me vakaraitaka ni iyaya ni rogoca e rairai vukei vakalevu o ira era dredre ni rogoci ira ka tiko tale vei ira eso tale na ka ni rerevaki ni dementia.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Na kena ibalebale levu ni iyaya ni rogoca e sega ni dua na sala vakadeitaki me tarovi kina na dementia. Ia e vukei ira na tamata me ra rogoca, me ra vakaitavi ena veivosaki, ka me ra semati tiko, ka oqo e dua na vuna vinaka me vakasamataki kina.
 
-## How do I know if hearing should be checked?
+## Au na kila vakacava ni dodonu me dikevi na rogoca?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+Na NIA e vakatura me raici vuniwai kevaka o iko se o koya o qaravi:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- E dredre me kila na ka era tukuna na tamata ena talevoni
+- E dredre me muria na veivosaki ni rua se levu cake na tamata era veivosaki
+- E dau kerea vakawasoma me ra tukuna tale na tamata
+- E vagolei cake na retioyaloyalo me rauta ni kudrukudru kina eso
+- E dredre me kila na vosa ni tiko na rorogo e yasa
+- E nanuma ni ra vosa lomaloma na tamata
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Tekivu vata kei na vuniwai levu, ka rawa ni vakauti iko yani ki na daunivakatavulici ni rogoca se vuniwai ni daliga, ucuna kei na katuba ni domona. Na soso ni daliga e dua na vuna e dau yaco ni dredre ni rogoca ka rawa ni raica na vuniwai. **Na dredre ni rogoca e yaco vakasauri e dua na leqa ni bula e gadrevi vakatotolo**, ka na NIA e vakatura me raici vuniwai vakatotolo.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Na dredre ni rogoca e rawa ni nanumi cala me veilecayaki. Na NIA e tukuna ni so na qase era sega ni rogoca vinaka era dau nanumi cala ni ra veilecayaki, sega ni via sauma, se sega ni via veitokoni. Kevaka e dua o lomani e tekivu vakayawaki se sega ni rogoca vinaka na ka e tukuni, na dikevi ni rogoca e dua na ikalawa vinaka taumada.
 
-## What are over-the-counter hearing aids?
+## Na cava na iyaya ni rogoca e sega ni gadrevi na ivola ni vuniwai?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Mai na 17 ni Okotova 2022, na [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) e vakatarai e dua na mataqali iyaya ni rogoca e volitaki vakadodonu (OTC). Oqo na kena veidutaitaki kei na iyaya ni rogoca e volai mai na vuniwai:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Tikina | Iyaya ni rogoca OTC | Iyaya ni rogoca e volai |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Vakarautaki vei cei | Qase yabaki 18 ka sivia era nanuma ni lailai se veimamalua na dredre ni rogoci ira | Dua ga na ivakatagedegede ni dredre ni rogoca, dua ga na yabaki |
+| Vanua ni volivoli | Sitoa se initaneti, sega ni gadrevi na dikevi se ivola ni vuniwai | Mai vua e dua na kenadau ni rogoca e vakadonui |
+| Vakarautaki | O iko ga o veisautaka na ituvaki, vakavuqa ena app | E dua na kenadau e tuvana me veiganiti kei na nomu rogoca |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+Na FDA e tukuna ni iyaya OTC e sega ni nakiti me baleta na dredre ni rogoca levu sara. E vakatura me raici vuniwai, vinaka cake e dua na kenadau ni daliga, ucuna kei na katuba ni domona, ni bera ni voli kevaka e tiko vei iko:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Na mosi se rarawa ni daliga
+- Na wai, pus se dra mai na daliga ena ono na vula sa oti
+- Na veisau ni rogoca e yaco vakasauri se veisau tiko
+- Na rogoca e ca cake ena dua na daliga, se rorogo ena dua ga na daliga
+- Na wavoki se dau veidavui
+- Na soso levu ni daliga
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Na kena vakamatau na iyaya ni rogoca e gadrevi na vakatovotovo, ka rawa mo raica na lawa ni vakasuka ni bera ni voli, me vaka na ivakasala ni FDA. Na NIA e vakatura mo taroga se na nomu inisua e sauma e dua na tikina ni kena isau. Vua e dua e bula vata kei na dementia, e rawa ni vukea e dua na daunivakatavulici ni rogoca me digia na mataqali iyaya kei na sala ni vakarautaki e rawarawa duadua me qaravi ena veisiga.
 
-## How can I talk more easily with someone who has hearing loss?
+## Au na veivosaki vakacava vakararawa kei na dua e dredre ni rogoca?
 
-The NIA suggests:
+Na NIA e vakatura:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Raici koya ka mo raica na matana**, ena rarama vinaka, me rawa ni raica na tebenigusumu kei na matamu.
+2. **Vaqara e dua na vanua vakanomodi.** Bokoca na retioyaloyalo se toso tani mai na rorogo.
+3. **Vosa vakalevu lailai, ia kua ni kailavaka.** Vosa vakadodonu ena totolo vinaka.
+4. **Maroroya me galala na gusumu.** Kua ni kana, mama se ubi na gusumu ni ko vosa tiko.
+5. **Vakayagataka eso tale na vosa ka kua ni tukuna tale vakadodonu** ni dua na ka e sega ni rogoci.
+6. **Dua ga na tamata me vosa ena dua na gauna.** Ena ilawalawa, vakasaqara me vakaitavi tale ga o koya.
+7. **Vosota ka taroga se o rawa ni vukea vakacava.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Na ivakasala oqo e cakacaka vinaka vata kei na noda [ivakasala ni veivosaki me baleta na dementia](/caregiving/communication-tips/). Na itaviqaravi e vakayagataka na iyaloyalo e vakalailaitaka tale ga na kaukauwa ni rogoca. [Picture Pairs](/games/picture-pairs/) kei na [Conversation Cards](/games/conversation-cards/) e cakacaka ena ka o raica, ka [Finish the Saying](/games/finish-the-saying/) e vakatara mo vakaraitaka na kena itinitini ka sega ni tukuni. Me baleta na qiri, raica na noda ivakasala me baleta na [qiri ena talevoni kei na vidio](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## E bibi tale ga na rai
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Ena 2024 na Komiti ni Lancet e kuria na dredre ni rai e sega ni qaravi me dua na ka vou ni rerevaki. Na ivakamacala ni UCL e tukuna ni rauta ni 2 na pasede ni dementia, ka na Komiti e vakatura me vakarautaki na dikevi kei na veiqaravi ni leqa ni rai vei ira kece. Na [NIA e vakatura](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) me caka na dikevi ni mata e vakalevutaki na gone ni mata ena veiyabaki se veiyabaki rua ni oti na yabaki 60, ka dikevi tale ga na ivola ni iloilo. Na veisau lailai ga ena rai e rawa ni vakalevutaka na rerevaki ni bale.
 
-## Talk with a doctor
+## Veivosaki kei na vuniwai
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Taroga e dua na vuniwai me baleta na dikevi ni rogoca kei na rai kevaka o raica e dua vei ira na ivakatakilakila e cake. Qara veiqaravi vakatotolo me baleta na dredre ni rogoca e yaco vakasauri, na mosi ni daliga, se na wai mai na daliga. Kevaka o qaravi e dua e bula vata kei na dementia, tukuna vei nona vuniwai na veisau ni rogoca se rai, baleta e rawa ni vakayarayarataka na lomana, na nona taqomaki, kei na nona rawa ni vakaitavi.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Na tabana oqo e itukutuku raraba ga, e sega ni ivakasala vakavuniwai. Raica na noda [ivakatakadewa vakavuniwai](/medical-disclaimer/). Wilika tale eso me baleta na [veiwekani kei na bula vinaka ni mona](/brain-health/social-connection/).

@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Cakacaka ni Vale me iTaviqaravi ni Mate ni Guilecavi"
+seoTitle: "Cakacaka ni Vale kei na Mate ni Guilecavi"
+description: "Na lobika, veiwasei, tuvai ni teveli kei na vakasaqa rawarawa e rawa ni itaviqaravi yaga vei ira era bula vata kei na mate ni guilecavi. Na kena tuvatuva, veisautaki kei na taqomaki."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Na cakacaka ni veisiga me vaka na lobika isulu, veiwasei ni soseti, tuvai ni
+  teveli, qusia ni dela ni teveli, sovara na kau kei na veivuke ena vakasaqa
+  rawarawa e rawa ni solia vei koya o qaravi tiko e dua na sala dina me veivuke.
+  Digitaka na cakacaka era kila, wasea ki na dua na ikalawa duadua, kauta tani
+  na ka gata se katakata, ka taleitaka na vakaitavi ka sega ni dodonu me
+  “caka vakadodonu”.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Na cakacaka era kila e rawa ni vukei koya me vakila ni yaga ka tiko ena loma ni matavuvale, ka dau bibi cake oqo mai na levu ni kena caka vinaka."
+  - "Wasea na cakacaka yadua ki na ikalawa duadua, vakaraitaka ka kua ni tukuna walega, ka taura vakamalua na ikalawa sa dredre vei koya."
+  - "Lokata na iseleiwau, wainimate ni sava kei na kato ni wainimate ni sava isulu, ka vakacuruma na iubi ni icova se dua na ivakarau ni bokoci koya vakataki koya ni bera ni vakasaqa vata."
+  - "Na taulo sa lobi oti e sega ni dodonu me lobi tale ena matana. Kevaka e gadrevi mo cakava tale, cakava ena gauna e muri ka sega ni raica."
+  - "Kevaka e kauta mai na rarawa e dua na cakacaka, toso ki na dua na ikalawa rawarawa cake, tovolea tale ena dua na gauna, se dabe vata ga."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Na cava na cakacaka ni vale e rawa ni veivuke tiko kina e dua e bula vata kei na mate ni guilecavi?"
+    a: "E levu era rawa ni lobi isulu, veiwasei ni soseti, veiwasei ni ikausulu ni kana, tuva na teveli, qusia e dua na dela ni teveli, qusia na kuvu-ni-soso, tavulaka, sovara na kau se veiwaki e dua na bilo. Digitaka na cakacaka a dau cakava eliu ka veiganiti kei na ka e rawa ni cakava oqo. Ena itabatamata e muri, e dua na toso vata ga e tokaruataki, me vaka na vakamamadataka na isulu ni teveli, e rauta."
+  - q: "E taqomaki beka me veivuke ena valenisili e dua e bula vata kei na mate ni guilecavi?"
+    a: "E rawa, kevaka e tiko na ivakarau vinaka kei na vakaraici vakavoleka. Maroroya na iseleiwau, wainimate ni sava kei na ka katakata kece me yawa, vakayagataka na iubi ni icova se dua na ivakarau ni bokoci koya vakataki koya, ka solia vua e dua na cakacaka taqomaki me vaka na sava kakana draudrau, veiwaki se tuva na peleti. Kua ni biuta duadua ena gauna e waqa kina na icova."
+  - q: "Vakacava kevaka e cala na nona lobika se vakavurea na veilecayaki?"
+    a: "Laiva me vaka tu ga. Na inaki na gauna vata kei na nodra vakila ni yaga, sega ni dua na macala vinaka sara. Kevaka e dua na ka e gadrevi dina me caka tale, waraka me yacova na gauna e muri ka cakava ni sa sega ni raica, me kua ni vakila ni sa vakadodonutaki."
+  - q: "Vakacava kevaka e bese ni veivuke?"
+    a: "Na bese e rawa ni kena ibalebale ni cakacaka e rui dredre, veilecayaki se oca ena gauna oqo. Kua ni vakasaurarataka. Tovolea e dua na kena mataqali rawarawa cake, sureti koya me tiko vata kei iko ga, se kerea tale ena dua na gauna vinaka cake ena siga."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+E levu era bula vata kei na mate ni guilecavi era a qarava na vale, susuga na matavuvale se tuvanaka na vanua ni cakacaka ena vica vata na yabaki. Ni sureti me veivuke ena cakacaka dina ni vale e rawa ni tukuna, “o tiko ga ena loma ni matavuvale oqo”, ena dua na sala e dredre me vakayacora eso tale na itaviqaravi. Na tabana oqo e cavuta na cakacaka e dau yaga, na sala ni kena tuvatuva, na kena veisautaki ni veisau na ka e rawa, kei na sala ni maroroya na taqomaki ena valenisili kei na rumu ni sava isulu.
 
-## Why do everyday chores work well as activities?
+## Na cava e dau yaga kina na cakacaka ni veisiga me itaviqaravi?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Na cakacaka ni vale e yaga baleta era kilai ka tiko na kedra inaki matata. Na National Institute on Aging e wilika na sava bilo, tuvai ni teveli, tavulaka, qusia na kuvu-ni-soso, veiwasei ni meli, lobika isulu kei na veiwasei ni benu ni veivakayagataki tale me [cakacaka ni veisiga e rawa nira taleitaka eso era tauvi Alzheimer’s](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Na Alzheimer’s Association e tukuna ni cakacaka me vaka na tuvai ni teveli e rawa ni vukei koya me [vakila ni yaga ena loma ni matavuvale](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+E dua tale, na cakacaka e tiko vata kei na inaki me tekivu. Na “O rawa ni vukei au ena taulo oqo?” e rawarawa cake me tukuna na io kina mai na “O via cakava beka e dua na itaviqaravi?”
 
-## Which household tasks are good to try?
+## Na cakacaka cava ni vale e vinaka me tovolea?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Tekivu ena cakacaka a dau cakava eliu, qai veiganiti kei na ka e rawa ni cakava nikua.
 
-### Laundry and linens
+### Isulu kei na iyaya ni moce
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Lobika taulo kei na isulu lailai ni savata.** Solia vua e dua na kato lailai kei na iyaya mamare. Na taulo e rawarawa: e sega na sala cala ni lobika.
+- **Veiwasei ni soseti.** Biuta e dua na ibinibini veicurumaki ena teveli. Kevaka e dredre na raica na veivole, vakayagataka walega e rua se tolu na roka duidui sara.
+- **Vakamamadataka kei na binia.** Na isulu ni teveli, vulo ni ulunivanua se taulo ni kakana e rawa ni vakamamadataki ka binia. Oqo e yaga ena gauna e muri, ni sa levu na ikalawa ni lobika.
 
-### Table and kitchen
+### Teveli kei na valenisili
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Tuvai ni teveli.** Tuvanaka e dua na ituvatuva ni kana me ivakaraitaki qai laiva me muria. Kevaka e levu, solia vua e dua na ka ena dua na gauna: “Qo e dua na ikabi ni peleti yadua.”
+- **Veiwasei ni ikausulu ni kana.** Veurumataka na ikabi, aiwaki kei na iseleiwau ni bata e savasava ena dua na kato, qai veiwaseya ki na dua na itrei veiwasei. Biuta laivi na iseleiwau gata.
+- **Vakamamacataka na bilo.** Na bilo e sega ni voroki kei na taulo malumu e cakava me cakacaka taqomaki.
+- **Qusia na teveli se dela ni teveli.** E dua na isulu suasua kei na dela e savasava. Na Alzheimer’s Association e vakatura me solia e dua na isulu kevaka e sa qusia tiko na teveli ena ligana, me saumaki na toso sega ni vakacegu ki na dua na ka yaga.
 
-### Around the house
+### Ena loma ni vale
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Qusia na kuvu-ni-soso.** E dua na isulu ni qusia malumu kei na vica na dela kaukauwa, me vaka na teveli lailai se na vatavata ni ivola.
+- **Veiwasei ni meli.** Solia na meli sega ni yaga kei na ivolavivigi me veiwaseya ki na ibinibini: maroroya, biuta ena benu ni veivakayagataki tale, dolava ena gauna e muri. Maroroya na bili dina kei na jeke ena dua tale na vanua.
+- **Veiwasei ni benu ni veivakayagataki tale.** Na tini, tavaya kei na pepa sa savasava ki na kato duidui.
+- **Tavulaka.** E dua na itavulaki lailai ena lomanibai se ena foloa ni valenisili, kevaka e tu vinaka tu na nona tu.
+- **Sovara na kau.** E dua na icuruwai ni wai lailai ka mamada kei na vica na kau era rawarawa me yacovi.
 
-### Simple cooking with supervision
+### Vakasaqa rawarawa ena vakaraici vakavoleka
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Na vakasaqa e rawa ni kauta lesu mai na nanuma vinaka ka kaukauwa. Na NIA e vakatura me laivi koya me kumuna na iyaya ni vakasaqa, vakarautaka, veiwaki ka sovaraka, se tukuna ga vua e dua tale na sala ni vakasaqa e dua na kakana taleitaki. Eso na cakacaka vinaka:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- sava kakana draudrau se vuata
+- veiwaka na wainimate ni madrai se saladi batabata
+- dresuka na lettuce
+- boroya na bata ena madrai tavuteke ena iseleiwau sega ni gata
+- biuta na wainimate ni biskete ena itrei
+- biuta na itopping ena pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Kevaka e sa dredre na vakarautaki, na Alzheimer’s Association e vakatura mo otiya na vakarautaki qai solia vua e dua tale na ikalawa, me vaka na veiwaki.
 
-## How do I set up a chore so it goes well?
+## Au na tuvata vakacava e dua na cakacaka me yaco vinaka?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Digitaka na gauna donu.** Digitaka e dua na gauna ena siga e dau vakacegu ka vakacegu kina o koya. Vua e levu, oqo e mataka.
+2. **Vagalalataka na vanua.** Dua ga na cakacaka, dua ga na dela, sega na ka tale eso ena teveli.
+3. **Sureta, kua ni lesia.** Na “Au gadreva e dua na veivuke ena oqo” e vinaka cake mai na “Sa gauna oqo me lobi isulu.”
+4. **Vakaraitaka na imatai.** Lobika e dua na taulo vakamalua, qai solia vua na kena tarava. Na vakaraitaki e matata cake mai na vakamacala.
+5. **Solia e dua na ikalawa ena dua na gauna.** Na levu na idusidusi ena dua na gauna e rawa ni veivakaleqai. Waraka me oti e dua na ikalawa ni bera ni cavuta na kena tarava.
+6. **Cakacaka vata e yasana.** Na cakacaka vata e yasana e vaka me veitokani, sega ni ivakarau ni vakaraici.
+7. **Vosa me baleta na cakacaka, sega ni macala.** Na “Oqo e malumu sara” se “Tukuna mai na sala o dau maroroya kina na kato ni isulu” e sureta na veitalanoa ka sega ni vakatovolei koya e dua.
 
-## How do I adapt chores as abilities change?
+## Au na veisautaka vakacava na cakacaka ni veisau na ka e rawa?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Na ka e rawa e veisau ena gauna kei na veisiga. Na Alzheimer’s Association e vakatura me toso ki na cakacaka rawarawa cake ka tokaruataki vakalevu ni sa toso yani na mate.
 
-| If this has become hard | Try this instead |
+| Kevaka e sa dredre oqo | Tovolea oqo |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Lobika na isulu levu ni imocemoce | Lobika na isulu lailai ni savata se vakamamadataka na isulu ni teveli |
+| Tuvai ni teveli taucoko | Biuta e dua na isulu ni teveli ena idabedabe yadua |
+| Veiwasei ni meli ki na iwasewase | Binia na waqavola ki na dua na ibinibini |
+| Muria e dua na ivakarau ni vakasaqa | Veiwaki, se sarava ka tovolea ni ko vakasaqa tiko |
+| Tavulaka e dua na foloa taucoko | Qusia e dua na teveli lailai |
+| Cakava na cakacaka | Dabe vata kei iko ka tiko vata kei iko ni ko cakava tiko |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Na sarava e wili talega. Na NIA e tukuna ni so era taleitaka walega na sarava, ka oqo e dua na sala vinaka ni vakaitavi.
 
-## How do I keep household tasks safe?
+## Au na maroroya vakacava na taqomaki ena cakacaka ni vale?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Na taqomaki e imatai, vakabibi ena valenisili. Na [ivakasala ni taqomaki ena vale me baleti ira na dauqaravi era qaravi ira era tauvi Alzheimer’s](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) mai na NIA e okati kina:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Lokata se kauta tani na wainimate ni sava, oka kina na kato ni wainimate ni sava isulu, era rawa ni vaka me loli.
+- Maroroya na iseleiwau, scissors kei na iyaya ni cakacaka kaukauwa ena dua na vanua lokataki.
+- Vakacuruma na iubi ni taqomaki kei na ivakarau ni bokoci koya vakataki koya ki na icova.
+- Biuta na ivakatakilakila “Tu” se “Katakata sara” volekata na icova ni lovo, toasta kei na icova ni isulu, ena vanua e sega ni rawa ni kama kina.
+- Tuvanaka na ivakatakata ni wai ki na 120°F me lailai sobu na rerevaki ni kama ni wai katakata.
+- Kauta tani na vuata lasu kei na magineti era vaka me kakana, era rawa ni vaka me kakana dina.
 
-A few more practical habits help:
+Eso tale na ivakarau yaga:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Tiko ena rumu ena gauna e vakayagataki kina na icova, lovo se dua na iyaya gata.
+- Vakayagataka na bilo e sega ni voroki me vakamamacataka kei na tuvai ni teveli.
+- Maroroya na foloa me mamaca ka savasava ena gauna ni tavulaki se savasava wai.
+- Kevaka a dau vakayagataka na iyaya ni cakacaka o koya eliu, na Alzheimer’s Association e vakatura me kau tani na iyaya rerevaki mai na valeniyaya ni cakacaka, me rawa ni taleitaki tiko e dua na cakacaka taqomaki me vaka na vakararamataka e dua na tiki ni kau.
 
-## What if they do it "wrong"?
+## Vakacava kevaka e “cala” na nona cakava?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Laiva me vaka tu. E dua na taulo e lobi ki na tolu na wase ka sega ni rua e taulo lobi oti ga. Na Alzheimer’s Association e tukuna vakamatata: na ka bibi na gauna vata kei na nona vakila ni yaga, sega ni lobi vinaka sara na taulo. Kevaka e dua na ka e dodonu dina me caka tale, waraka me yacova na gauna e muri ka cakava ena vanua e sega ni raica kina.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Na vakadodonutaki ena gauna o ya e rawa ni saumaka e dua na cakacaka vinaka ki na dua na ivakananumi ni ka sa yali. Na “Vinaka, oqo e veivuke levu” e dau ka donu me tukuna.
 
-## When should we stop?
+## Ena gauna cava me keirau muduka kina?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Muduka se veisautaka ni o raica na ivakaraitaki ni rarawa, oca se yali na taleitaki. Na mudu totolo e dua na macala vinaka, sega ni druka. O rawa ni:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- veisautaka ki na ikalawa rawarawa cake
+- toso ki na dua na ka vakacegu, me vaka na ivakatagi se dua na bilo kofe
+- tovolea tale ena gauna e muri se ena dua tale na siga
+- dabe vata ga
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Kevaka e tukuna o koya na bese, kua ni vakasaurarataka. Raica na [cava me caka ni kaya na bese](/caregiving/when-they-say-no/) me baleta na sala malumu ni sauma.
 
-## Low-effort extras for a quieter moment
+## Eso na ka rawarawa me vakayacori ena gauna ni vakacegu
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Ni sega ni rawa na cakacaka ni yago, na veiwasei kei na veiganiti e rawa ni caka tiko ga ni dabe. Na [Sort Together](/games/sort-together/) e laiva mo tabaka na iyaloyalo ki na kato ni valenisili se iteitei, kei na [Picture Pairs](/games/picture-pairs/) e dua na qito malumu ni veiganiti kei na iyaloyalo lelevu ka sega na ivakarau ni gauna. Na [Conversation Cards](/games/conversation-cards/) e tiko kina na taro wavoki me baleta na vale kei na matavuvale, ka veiganiti vinaka kei na dua na kofe ni oti na cakacaka.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Me baleta na veivuke ni tuvata na cakacaka ki na siga, raica na noda idusidusi me baleta na [ituvatuva ni veisiga vakacegu](/activities/daily-routine/). Me baleta eso tale na vakasama me vaka na itabatamata, raica na [itaviqaravi ni itabatamata e loma](/activities/middle-stage/).

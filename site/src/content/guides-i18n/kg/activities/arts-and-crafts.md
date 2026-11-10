@@ -1,32 +1,34 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Bisalu ya maboko sambu na bambuta na dimensia"
+seoTitle: "Bisalu ya maboko sambu na bambuta na dimensia"
+description: "Bantuma ya bisalu ya maboko sambu na bantu yina ke zingila na dimensia, banda na mukubu ti bilanga ti bima ya ntoto, ti mambu ya kuyidika yo."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Bisalu ya mbote ya maboko sambu na bambuta yina ke zingila na dimensia fwete
+  monana mpi waka bonso ya bambuta: mukubu ya masa, kukangisa bifwanisu ya
+  bazulunalu, kuyidika bintuntu, bima ya ntoto, kusala bakarte ya pete to
+  balutiti ya mikubu sambu na bambuta. Tula bima fioti na mesa, sadisa na
+  mbala ya ntete kana mpidina kele, solula ntangu beno ke sala, mpi tadila
+  ntangu yina beno ke luta kumosi bonso kima ya mfunu. Kusala kisalu tii na
+  nsuka kele kaka diambu ya nkaka, kansi yo kele ve mfunu.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Pona bima mpi masolo yina ke monana bonso ya bambuta, bonso papie ya mukubu, bintuntu ya kieleka mpi bifwanisu ya bazulunalu, kansi ve bima ya ke sema, bima ya ke matanaka to balutiti ya bana."
+  - "Tula dikebi na mutindu ya kusala: mikubu, mutindu ntoto ke wakana na maboko, masolo. Kusala kisalu tii na nsuka kele diambu ya mbote, kansi yo kele ve lukanu."
+  - "Kana mpidina kele, pesa kisalu lukanu, bonso karte sambu na tekolo to kima ya kuyidika mesa."
+  - "Sadisa muntu na kubanda, na nima vutuka fioti na nima. Kubanda kumosi mvwe ya pinceau mbala mingi me lunganaka."
+  - "Bisalu fwete manaka ve na mbala mosi kaka, mpi kuyambula na kati kele ntangu yonso mbote."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Inki mutindu mono lenda sala sambu kisalu kukonda kumonana bonso ya bana?"
+    a: "Sadila bima ya kieleka ya art, masolo ya bambuta mpi mutindu ya luzitu ya kutuba. Na kisika ya bima ya ke sema mpi balutiti ya bana, sadila papie ya mukubu, bima ya lele, bintuntu, bifwanisu ya bazulunalu mpi balutiti ya mikubu ya mindondo sambu na bambuta. Kupesa ve lukumu bonso na mwana yina me sala kifwanisu; solula na yo bonso nge ta solula ti nduku ya bambuta."
+  - q: "Inki bisalu ya art ke salama mbote na bitambi ya nsuka ya dimensia?"
+    a: "Na bitambi ya nsuka, bisalu ya pete yina ke sadila mayele ya nzutu ke salama mbote: kusala mikubu ya nene ti pinceau ya nene, kufina ntoto ya pete, kuyidika bintuntu fioti na vaze, to kuponaka bitini ya lele na mutindu yo ke wakana. Mbala yankaka nge fwete banda kingolo kumosi ti muntu. Kutala nge ntangu nge ke tula mikubu mpi kutubila mikubu kele mpi mutindu mosi ya kuvukana."
+  - q: "Inki mutindu kana muntu ke tuba nde yandi lenda sala kifwanisu ve?"
+    a: "Katula kingolo yonso. Meka bisalu yina kele ve ti mvutu ya mbote to ya mbi, bonso mukubu ya pete ya masa, kukangisa bifwanisu, to kuyidika bintuntu. Nge lenda tuba mpi nde nge ke sosa lusadisu na diambu mosi ya sikisiki, bonso kupona mikubu sambu na karte, sambu kisalu kumonana bonso lusadisu kansi ve bonso komeka."
+  - q: "Keti balutiti ya mikubu kele bonso ya bana sambu na bambuta?"
+    a: "Ve, kana bo me salama sambu na bambuta. Pona balutiti yina kele ti masolo ya bambuta bonso bilanga, bima ya lele ya kukanga, bakamio to bifulu, mpi monisa yo bonso diambu ya kuvundisa kansi ve bonso dilongi. Balutiti na beto ya mikubu lenda basisama na papie to tula mikubu na yo na tableti."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +50,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Art mpi bisalu ya maboko ke pesaka bantu yina ke zingila na dimensia nzila ya kumonisa mabanza na bo kukonda kuvanda na mfunu ya kuzwa bangogo ya mbote. Alzheimer's Association ke tuba nde bisalu ya art lenda nata [mawi ya kundima kisalu mpi ya kuvanda ti lukanu](https://www.alz.org/help-support/caregiving/daily-care/art-music) mpi dibaku ya kumonisa mabanza, sambu na muntu yina ke sansaka mpi sambu na muntu yina ke na dimensia. Diambu ya mfunu kele ya kubumba mambu bonso ya bambuta, ya pete mpi kukonda kingolo. Lutiti yai ke pesa bisalu ya sikisiki, mutindu ya kuyidika yo mpi mutindu ya kusoba yo ntangu mambu ke soba.
 
-## What makes an art activity adult and not childish?
+## Inki ke sala kisalu ya art kuvanda ya bambuta, kansi ve ya bana?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Kisalu ya art ya bambuta ke sadila bima ya kieleka, masolo ya bambuta mpi mutindu ya luzitu ya kutuba. Alzheimer's Association ke pesa ndongisila ya kubumba bisalu na nivo ya bambuta mpi ya kukonda kusala diambu yina lenda monana bonso kukonda luzitu to bonso ya bana.
 
-| Feels childish | Feels adult |
+| Ke monana bonso ya bana | Ke monana bonso ya bambuta |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Bima ya ke sema, bima ya ke matanaka ya mousse, bameso ya ke nikana | Papie ya mukubu, bima ya lele, bintuntu ya kuyuma |
+| Balutiti ya mikubu ya bana | Balutiti ya mikubu ya bilanga, bima ya lele ya kukanga, bakamio to bifulu |
+| Kupesa lukumu bonso « Mbote mingi » na konso mvwe | Masolo ya kieleka: « Mukubu yai ya bleu ke monana kitoko pene-pene ya vert » |
+| Kisalu ya maboko kukonda mfunu | Karte sambu na nduku, kima ya kuyidika mesa, dikabu |
+| Bandongisila yina ke wakana bonso dilongi | Kubokila muntu: « Keti nge lenda sadisa mono na diambu yai? » |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Yindula mambu yina muntu ke zolaka. Muntu yina vandaka kuzola kusona na singa lenda se pela kusimba bima ya lele. Muntu yina vandaka enzeniere lenda zola kitoko mosi ya nene to kuponaka bima ya kisalu ya maboko sambu na kisalu mosi. Muntu yina vandaka nlongi lenda se pela kusala bakarte.
 
-## Why focus on the process, not the product?
+## Sambu na nki tula dikebi na mutindu ya kusala, kansi ve na kisalu ya nsuka?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Sambu ntangu yina beno ke luta kumosi kele yo mfunu. Lutiti ya Alzheimer's Association na yina me tala [bisalu na nzo](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ke tuba nde beno tula dikebi na mutindu ya kusala, kansi ve na mbutu. Kifwanisu yina kele « bleu kaka » kele kaka kifwanisu. Kisalu ya kukangisa bifwanisu yina kele ti bifwanisu tatu kele kaka kisalu ya kukangisa bifwanisu.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Kimvuka yango ke tuba mpi nde muntu yina vandaka kusala art bonso kisadi lenda wa makasi ntangu kisalu na yandi ke soba, kansi muntu yina vandaka kusala yo sambu na kyese lenda se pela dibaku ya mpa ya kumonisa mabanza. Kana muntu vandaka muntu ya mayele mingi na art, meka kisadilu ya nkaka ya art, sambu yo kumonana bonso nsaka kansi ve bonso kufwanisa.
 
-## Arts and crafts ideas to try
+## Bantuma ya bisalu ya art mpi ya maboko ya kumeka
 
-Each idea includes how to make it simpler if it becomes hard.
+Konso ngindu kele ti mutindu ya kusala yo pete kana yo kuma mpasi.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Mukubu ya masa ya pete.** Tula masa na lutiti ya ngolo ya papie ya mukubu, bosi bikala muntu kubwisa mikubu na yo ti pinceau ya nene. Mikubu ke panzanaka yo mosi, yo yina mvutu ya mbi kele ve. *Ya pete mingi:* pesa mikubu zole kaka, to tula mikubu ti masa na papie ya ndombe yina ke monisa bifulu ya masa.
+2. **Kukangisa bifwanisu ya bazulunalu.** Zenga bifwanisu na ntwala na bazulunalu ya bilanga, kulamba, bakamio, nzietelo to bisalu yina muntu vandaka kuzola. Bikala yandi kupona mpi kukangisa bifwanisu na kartoni. *Ya pete mingi:* pesa bifwanisu iya ya mezenga dezia mpi kole ya baton, mpi kangisa yo kumosi.
+3. **Kuyidika bintuntu.** Alzheimer's Foundation of America ke pesa ngindu ya [kuyidika bintuntu mpi matiti ya mezenga](https://alzfdn.org/dementia-activity-gardening/) na bima ya pete ya nsungi. Sadila vaze ya kilo mpi ya ngolo, mpi bitambi ya mezenga dezia. *Ya pete mingi:* tula bitambi fioti na kopa ya fioti, kimosi-kimosi.
+4. **Bakarte ti bintuntu ya kuyuma.** Yuma bintuntu ya kimvuka mosi na kati ya balutiti ya mukanda sambu na mposo mosi, na nima kangisa yo na kartoni ya mefutuka. *Ya pete mingi:* nge tula kole, yandi fina fulu ya fulu.
+5. **Balutiti ya mikubu sambu na bambuta.** Pona balutiti yina kele ti ndilu ya pwelele mpi bima ya kieleka. Balutiti na beto ya [mikubu ya kubasisa](/games/coloring/) lenda mpi vanda ti mikubu na ekrani na kufina mukubu, na nima kitini ya kifwanisu. *Ya pete mingi:* bifulu ya nene, mikubu fioti, bafeutre ya nene.
+6. **Ntoto ya pete to pate ya pete.** Nika, fina mpi sala bima ti ntoto yina ke yumaka na mupepe to pate ya pete ya kusala bima. Kufina lukaya na ntoto ke sala kima ya pete ya kitoko. *Ya pete mingi:* kufina mpi kunika kaka kele kisalu ya mvimba. Tala kana muntu ke tula ve ntoto na munoko.
+7. **Kusala bakarte.** Alzheimer's Association ke pesa ngindu ya kumonisa yo bonso kisalu ya kieleka: « Beto ke tinda karte ya mbote sambu na nduku mosi. Keti nge lenda sadisa? » Bakartoni ya mezenga dezia mpi bima fioti ya bintuntu to ya timbre ke salama mbote.
+8. **Albimi ya banzikisa.** Tula kumosi bakopi ya bafoto ya ntama, bakarte postale to babiye ya kukutakena na balutiti ya albimi. Tubila konso kima ntangu beno ke sala yo. Tala lutiti na beto ya [kuyibuka mambu ya ntama](/activities/reminiscence/) sambu na nzila ya mawete ya kutubila mambu ya ntama.
+9. **Bapano ya bima ya lele mpi ya kusimba.** Kangisa bitini ya velours, velours côtelé, toile mpi soie na kartoni ya ngolo. Kusala yo kele kisalu; kusimba yo na nima kele kisalu ya nkaka. Bantuma ya nkaka kele na lutiti na beto ya [bisalu ya kusadila mayele ya nzutu](/activities/sensory/).
+10. **Kusala mabaya ya pete.** Sambu na muntu yina vandaka kuzola kisalu ya mabaya, kupolisa dibaya ya pete ya malembe to kutula mukubu na kima ya kukanga ya nuni lenda yibusa mambu ya ntama. Katula bisadilu ya nsonge mpi tala mbote.
+11. **Kutula mukubu ti miziki.** Tula miziki yina muntu ke zolaka mpi tula mikubu ya bima to ya mikubu yina ke fwanana ti mawi. Yo ke vukisa bisalu zole yina bantu mingi ke se pelaka na yo. Tala [bisalu ya miziki](/activities/music/).
 
-## How do I set up an art session?
+## Inki mutindu ya kuyidika ntangu ya art?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Yidika na ntwala.** Zenga, yidika mpi tula bima yonso na ntwala ya nge kubokila muntu. Kuvanda na kuvingila ntangu nge ke sosa basizo lenda zimbisa ntangu yina.
+2. **Bumba yo fioti.** Mikubu zole to tatu, pinceau mosi, lutiti mosi ya papie. Kupona mingi lenda lembisa muntu.
+3. **Tanina mesa.** Toile ya plastique to lele ya ntama ke sala nde mvindu kuvanda diambu ya kudiyangisa ve.
+4. **Vanda ndambu na ndambu.** Sala kisalu na nge pene-pene ya kisalu na yandi. Yo ke monana bonso kisalu ya kumosi, kansi ve bonso kutala muntu.
+5. **Sadisa yandi na kubanda.** Alzheimer's Association ke tuba nde mbala yankaka nge fwete banda kingolo ya pinceau kumosi ti muntu. Kana bo me banda, bantu mingi ke landa.
+6. **Solula ntangu beno ke sala.** Tubila mikubu mpi mutindu bima ke wakana, to bikala art kutwadisa masolo. Bika kuyula bangiufula bonso na komeka ya ndambu bonso « Inki kele yai? »
+7. **Pesa ntangu mingi.** Kisalu fwete manaka ve na mbala mosi kaka.
 
-## How do I adapt art as dementia changes?
+## Inki mutindu ya kusoba bisalu ya art ntangu dimensia ke soba?
 
-| Stage | What tends to work | What to adjust |
+| Etape | Mambu yina ke salama mbote mingi | Mambu ya kusoba |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Luyantiku | Bakelasi, balutiti ya mikubu ya mindondo, baalbimi ya banzikisa, kusala bakarte, kutula mukubu na kutala foto | Pesa nzila ya kupona bisalu; bumba yo bonso diambu ya kimvuka |
+| Na kati-kati | Kukangisa bifwanisu ya mezenga dezia, mukubu ya masa ya pete, kuyidika bintuntu, mikubu na bifulu ya nene | Diambu mosi na ntangu mosi; nge sala kuzenga mpi kukangisa |
+| Nsuka | Mikubu ya nene, kufina ntoto, kusimba bima ya lele, kutala nge ntangu nge ke tula mikubu | Tula dikebi na mayele ya nzutu; twadisa diboko na mawete kana muntu ke ndima |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS ke pesa ngindu nde na bitambi ya nsuka, bisalu ke vandaka mingi ya pete mpi ke tula dikebi na mayele ya nzutu. Kutala muntu ya nkaka ntangu yandi ke tula mukubu, mpi kutubila mikubu, kele mutindu ya kieleka ya kuvukana. Sambu na bantuma ya nkaka na konso etape, tala [bisalu sambu na konso etape](/activities/ideas/).
 
-## Safety with art supplies
+## Lukebolo ti bisadilu ya art
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Pona bapente, bafeutre mpi bakole ya mbi kele ve.
+- Bumba basizo, bampu ya kisalu ya maboko mpi bisadilu ya kole ya tiya na kisika yina muntu lenda baka yo ve. Sala konso kuzenga na ntwala.
+- Tala kana muntu ke tula ntoto, pente to bima ya fioti na munoko.
+- Sadila bakopa ya kilo mpi ya ngolo sambu na masa mpi bavaze.
 
-## When should we stop?
+## Na ntangu ya nki beto fwete yambula?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Yambula ntangu dikebi ke katuka to ntangu makasi ke monana. Alzheimer's Association ke pesa ngindu ya kuyambula to kusoba kisalu ntangu dikebi ke kuma fioti to ntangu makasi ke kuma mingi. Tula kisalu na kisika ya mbote mpi pesa diambu ya kuvundisa. Beno lenda vutuka na yo mbasi, to ata ve. Konso mosi kele mbote.
 
-## Display the work, if the person wants
+## Monisa kisalu, kana muntu ke zola
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Kukanga kifwanisu na frigo to kutula kisalu ya kukangisa bifwanisu na kadre lenda vanda mutindu ya mawete ya kumonisa luzitu. Yula na ntwala. Bantu yankaka ke se pelaka mingi na kumona bisalu na bo na kibaka; bankaka ke zolaka ve.
 
-## Pair art with our games
+## Vukisa art ti bansaka na beto
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Na bilumbu yina kuyidika bapente ke monana mpasi mingi, [Coloring](/games/coloring/) ke salama na tableti kukonda mvindu. [Picture Puzzle](/games/picture-puzzle/) ke bikala kifwanisu ya mvimba na meso bonso lutwadisu ntangu nge ke soba bitini. [Conversation Cards](/games/conversation-cards/) ke pesaka bangiufula ya kukangula masolo yina lenda katuka na kifwanisu tii na disolo. Bansaka yonso kele ve ti ntangu ya kuluta to bakoto. Nge lenda mpi kubasisa balutiti na kimvuka na beto ya [bisalu ya kubasisa](/activities/printable/).

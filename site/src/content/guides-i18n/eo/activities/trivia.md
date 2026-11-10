@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Facilaj scidemandoj por plenkreskuloj kun demenco"
+seoTitle: "Scidemandoj por plenkreskuloj kun demenco, kun respondoj"
+description: "50 facilaj scidemandoj por plenkreskuloj kun demenco, kun respondaj elektoj kaj paroltemoj, plus kiel fari tion tiel ke neniu sentiĝas ekzamenata."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Facilaj scidemandoj por homoj vivantaj kun demenco bone funkcias kiam ili
+  similas al babilado, ne al ekzameno. Demandu pri aferoj lernitaj antaŭ longe,
+  kiel malnovaj kantoj, diraĵoj, festoj kaj ĉiutaga vivo, kaj ĉiam proponu du
+  aŭ tri elektojn. Donu la respondon afable, neniam elstarigu iun, preterlasu
+  poentojn, kaj uzu ĉiun respondon por komenci rakonton. Demandoj de la tipo
+  «ĉi tio aŭ tio», sen malĝusta respondo, taŭgas por pli postaj etapoj.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Demandu pri longe konataj aferoj: kantoj, diraĵoj, festoj, manĝaĵoj kaj ĉiutaga vivo de antaŭ jaroj."
+  - "Proponu du aŭ tri elektojn, por ke oni povu rekoni la respondon anstataŭ memori ĝin."
+  - "Diru la respondon varme kaj daŭrigu. Ĉiu diveno, kiu komencas rakonton, estas bona diveno."
+  - "Sen poentoj, sen teamoj kiuj konkuras, sen alvoki unu personon. Lasu respondojn veni de la tuta grupo."
+  - "Kiam elekti inter respondoj fariĝas malfacile, transiru al demandoj «ĉi tio aŭ tio» sen ĝusta respondo."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Ĉu scidemandoj estas bona agado por homoj vivantaj kun demenco?"
+    a: "Ili povas esti, se ili estas farataj milde. La Alzheimer's Foundation of America mencias scidemandojn inter agadoj por la frua etapo. Tenu demandojn pri longe konataj temoj, proponu elektojn, neniam metu unu personon en embarasan situacion, kaj rigardu la respondojn kiel manieron komenci konversacion, ne kiel ekzamenon."
+  - q: "Kiuj temoj plej bone taŭgas por scidemandoj pri demenco?"
+    a: "Aferoj lernitaj antaŭ longe kutime plej bone taŭgas: popularaj kantoj kaj kantistoj el la juneco de la persono, konataj diraĵoj, festoj, manĝaĵoj, sportoj kaj ĉiutaga vivo, ekzemple liverado de lakto kaj telefonoj kun disko. Evitu freŝajn novaĵojn kaj ĉion, kio postulas memori ion de pli frue en la sama kunsido."
+  - q: "Kiel mi povas fari scidemandojn en flegejo sen embarasi iun?"
+    a: "Legu ĉiun demandon al la tuta grupo, montru aŭ diru la elektojn, kaj bonvenigu respondojn de iu ajn. Ne alvoku unuopajn homojn kaj ne kalkulu poentojn. Diru la respondon kun rideto, kia ajn estis la diveno, kaj faru sekvan demandon kiel «Kiu ĉi tie iam iris al aŭtokinejo?» por igi tion rakontado."
+  - q: "Kion mi povas fari anstataŭ scidemandoj en pli postaj etapoj?"
+    a: "Transiru al demandoj sen malĝusta respondo, ekzemple «Kafo aŭ teo?» aŭ «Plaĝo aŭ montoj?», kaj al kuna finado de konataj diraĵoj aŭ kantoj. Ankaŭ kune rigardi bildojn kaj priskribi ilin povas bone funkcii."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Scidemandoj estas unu el la plej ofte petataj grupaj agadoj en flegejoj kaj tagaj programoj, kaj multaj familioj ankaŭ ludas ilin ĉe la kuireja tablo. Kiam oni faras ilin laŭ la kutima maniero, kun poentoj kaj unu respondanto, homo vivanta kun demenco povas senti sin premata. Kiam oni faras ilin milde, ili povas esti vigla maniero aŭskulti rakontojn. Sube estas 50 facilaj demandoj kun respondaj elektoj kaj io por priparoli ĉe ĉiu, kaj poste klarigo pri kiel gvidi kunsidon.
 
-## How do you make trivia work for someone with dementia?
+## Kiel vi povas igi scidemandojn taŭgaj por homo vivanta kun demenco?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Igu la celon rekoni kaj rememori aferojn de antaŭ longe, kaj igu ĉiun respondon bonvena.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Demandu pri la fora pasinteco.** La [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) diras, ke la plej ofta frua simptomo de Alzheimer-malsano estas malfacilo memori nove lernitajn informojn. Kantoj, diraĵoj kaj ĉiutaga vivo de antaŭ jardekoj ofte estas pli facila tereno.
+2. **Ĉiam donu elektojn.** Elekti la ĝustan respondon el du aŭ tri estas multe pli facile ol elpensi ĝin sen helpo.
+3. **Legu demandojn laŭte kaj montru ilin grande.** Blanka tabulo aŭ tabuleto tenata supre helpas homojn, kiuj malpli bone aŭdas.
+4. **Donu la respondon libere.** Se neniu scias, diru ĝin varme kaj daŭrigu. Neniam diru «Nu, vi ja scias tion».
+5. **Sen poentaro.** Nek por unuopuloj nek por tabloj. Se homoj volas nombron, tenu unu grupan sumon.
+6. **Neniam alvoku unu personon.** Lasu respondojn veni de iu ajn. Unu kontraŭ unu, respondu kune: «Mi pensas, ke estas la piano. Kion vi pensas?»
+7. **Uzu la paroltemon.** La respondo estas la komenco, ne la fino. Rakontoj estas la vera celo.
+8. **Tenu ĝin mallonga.** Dek demandoj kun rakontoj inter ili estas sufiĉe.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) esprimas la kernan regulon simple: atentu signojn de ĉagreno kaj certigu, ke la persono sentas sin sukcesa. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) mencias scidemandojn inter agadoj por la frua etapo. En la meza etapo, restu ĉe du elektoj kaj apogu vin sur la paroltemojn. Pli poste, transiru al la demandoj «ĉi tio aŭ tio» pli sube.
 
-## Music and entertainment trivia
+## Scidemandoj pri muziko kaj distro
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+La respondo estas en **grasa teksto**. Adaptiĝu al la persono: iu, kiu kreskis kun Motown, volos aliajn kantistojn ol iu, kiu kreskis kun grandaj orkestroj.
 
-| Question | Choices | Talk about |
+| Demando | Elektoj | Pri kio paroli |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Kiu estis nomata la Reĝo de Rokenrolo? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Ĉu vi iam vidis Elvis en televido? |
+| Kiu kantisto havis la kromnomon Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Kiun kanton de Sinatra vi plej ŝatas? |
+| Bing Crosby revis pri blanka... | **Kristnasko**, geedziĝo, domo | Kantu kune unu linion |
+| Louis Armstrong kantis «What a Wonderful...» | Day, **World**, Life | Kio faras la mondon mirinda por vi? |
+| «Over the Rainbow» estis kantata de Judy Garland en kiu filmo? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Kie vi vidis viajn plej ŝatatajn filmojn? |
+| Kiu ludis Lucy en «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Kiujn televidajn programojn via familio spektis kune? |
+| Kiu vakero rajdis ĉevalon nomatan Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Ĉu vi ludis vakerojn kiel infano? |
+| Kiu gvidis «The Tonight Show» dum 30 jaroj? | Ed Sullivan, **Johnny Carson**, Bob Hope | Ĉu vi restis maldorma por spekti televidon? |
+| Kiu instrumento havas 88 klavojn? | Gitaro, **piano**, trumpeto | Ĉu iu en via familio ludis? |
+| Kiu danco estas kalkulata unu-du-tri, unu-du-tri? | **Valso**, twist, tango | Kien vi iris por danci? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Por pli pri muziko, vidu [muzikajn agadojn por demenco](/activities/music/).
 
-## Everyday life trivia
+## Scidemandoj pri ĉiutaga vivo
 
-| Question | Choices | Talk about |
+| Demando | Elektoj | Pri kio paroli |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Antaŭ fridujoj, multaj hejmoj tenis manĝaĵojn malvarmaj en... | **glacikesto**, forno, subtegmento | Kiu liveris la glacion? |
+| Kiu alportis lakton al la pordo en vitraj boteloj? | La poŝtisto, **la laktisto**, la gazetknabo | Kio alia estis liverata al la domo? |
+| Kiel oni turnis numeron per telefondisko? | Premante butonojn, **turnante radon**, parolante al ĝi | Diru al mi pri la telefono en via domo |
+| Kiu kompanio faris la aŭton Model T? | **Ford**, Chevrolet, Buick | Diru al mi pri aŭto, kiun vi ŝatis |
+| Kie oni trovus «soda jerk»? | **Ĉe sodofontano**, en bakejo, en banko | Kion vi mendis ĉe la vendotablo? |
+| Kiu ludilo estas metala risorto, kiu povas iri malsupren laŭ ŝtuparo? | Jojo, **Slinky**, hulao-ringo | Kiujn ludilojn vi amis? |
+| Aŭtokinejo estis loko por spekti... | **filmojn el via aŭto**, pilkoludojn, paradojn | Kun kiu vi iris? |
+| Kies vizaĝo estas sur la unudolara bileto? | Lincoln, **George Washington**, Jefferson | Kion oni povis aĉeti per unu dolaro tiam? |
+| Kies vizaĝo estas sur la penca monero? | **Abraham Lincoln**, Washington, Franklin | Ĉu vi iam kolektis pencojn en poto? |
+| Kian koloron kutime havas lerneja buso? | Ruĝan, **flavan**, bluan | Kiel vi iris al la lernejo? |
 
-## Holidays, nature and places
+## Festoj, naturo kaj lokoj
 
-| Question | Choices | Talk about |
+| Demando | Elektoj | Pri kio paroli |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Kiu festo estas en la kvara ĵaŭdo de novembro? | Taglaboro-tago, **Dankotago**, Memortago | Kio ĉiam estis sur via tablo? |
+| El kukurbo-lanternoj oni faras ornamojn por kiu festo? | **Halloween**, Pasko, Kristnasko | Diru al mi pri Halloween tie, kie vi kreskis |
+| La 4-a de julio festas la Deklaron pri... | Rajtoj, **Sendependeco**, Libereco | Kie vi spektis artfajraĵojn? |
+| Patrina Tago estas en kiu monato? | Aprilo, **majo**, junio | Kiel via familio festis? |
+| Kiom da steloj estas sur la usona flago? | 48, **50**, 52 | La flago havis 48 stelojn ĝis 1959. Ambaŭ respondoj povas veki bonan memoron |
+| Kiu oceano estas ĉe la orienta marbordo? | Pacifika, **Atlantika**, Arkta | Ĉu vi iam iris al la plaĝo? |
+| En kiu urbo estas la Statuo de Libereco? | Boston, **Novjorko**, Filadelfio | Ĉu vi iam estis en Novjorko? |
+| Kion faras abeloj? | Lakton, **mielon**, silkon | Mielo sur pano aŭ en teo? |
+| Bebo de bovo nomiĝas... | ĉevalido, **bovido**, kaprido | Ĉu vi iam loĝis proksime al bieno? |
+| Kiu alta flava floro estas konata pro tio, ke ĝi turniĝas al la suno? | Rozo, **sunfloro**, tulipo | Kio kreskis en via ĝardeno? |
+| Kiom da tagoj estas en superjaro? | 365, **366**, 360 | Diru al mi pri naskiĝtago, kiun vi memoras |
+| Kiu sezono venas post vintro? | Aŭtuno, **printempo**, somero | Kiu estas via plej ŝatata sezono? |
 
-## Food and sports trivia
+## Scidemandoj pri manĝaĵoj kaj sportoj
 
-| Question | Choices | Talk about |
+| Demando | Elektoj | Pri kio paroli |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Sekvinberoj estas sekigitaj... | prunoj, **vinberoj**, ĉerizoj | Ĉu vi metis sekvinberojn en tagmanĝojn? |
+| Sekprunoj estas sekigitaj... | **prunoj**, figoj, pomoj | Kiu en via familio amis sekprunojn? |
+| Arakida butero kaj... | **ĵeleo**, fromaĝo, ŝinko | Kraka aŭ glata? |
+| Guakamolo estas farita plejparte el... | pizoj, **avokadoj**, kukumoj | Kiuj saŭcoj aperis ĉe festoj? |
+| Kiu kuko estas ofta ĉe Dankotago? | **Kukurba**, citrono, ĉerizo | Kiun kukon vi faris? |
+| Kiom da ludantoj havas basbala teamo sur la kampo? | 7, **9**, 11 | Por kiu teamo vi ĝojis? |
+| Kiom da maltrafaj batoj signifas forigon en basbalo? | Du, **tri**, kvar | Ĉu vi iam ludis pilkon? |
+| Babe Ruth estis fama pro kiu sporto? | Boksado, **basbalo**, golfo | Ĉu vi iris al pilkoludoj? |
+| Kiom da truoj estas sur norma golfejo? | 9, **18**, 24 | Ĉu vi iam ludis golfon aŭ minigolfon? |
+| En kiu sporto oni gajnas alteriĝpoentojn? | **Piedpilko (usona)**, hokeo, korbopilko | Kiu spektis piedpilkon ĉe vi hejme? |
 
-## Familiar sayings
+## Konataj diraĵoj
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Fini diraĵon uzas lingvon lernitan antaŭ longe, kaj tio ofte venas facile. Nia ludo [Finu la diraĵon](/games/finish-the-saying/) havas multe pli, kun tuŝeto por montri iun ajn finon.
 
-| Saying | Choices | Talk about |
+| Diraĵo | Elektoj | Pri kio paroli |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Pomo tage tenas for... | **la kuraciston**, la pluvon, la katon | Kiu kutimis diri tion al vi? |
+| La frua birdo kaptas la... | buson, **vermon**, trajnon | Ĉu vi estas matena homo? |
+| Ne kalkulu viajn kokidojn antaŭ ol ili... | **elkoviĝas**, dormas, kantas | Ĉu via familio havis kokinojn? |
+| Ŝparita penco estas penco... | **gajnita**, perdita, elspezita | Kiu estis la ŝparanto en via familio? |
+| Hejmo estas tie, kie estas la... | ĝardeno, **koro**, kuirejo | Kio igas lokon sentiĝi kiel hejmo? |
+| Pli bone malfrue ol... | frue, **neniam**, bedaŭre | Kiu ĉiam malfruis? |
+| Ĉiu nubo havas arĝentan... | **randon**, kuleroon, moneron | Diru al mi pri feliĉa okazaĵo |
+| Agoj parolas pli laŭte ol... | **vortoj**, muziko, tondro | Diru al mi pri iu, kiu diris tion |
 
-## This-or-that questions with no wrong answer
+## Demandoj «ĉi tio aŭ tio» sen malĝusta respondo
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Ĉi tiuj taŭgas por ĉiu etapo, ankaŭ pli poste, ĉar estas nenio por «ĝuste» respondi. Demandu, aŭskultu, kaj dividu ankaŭ vian propran respondon.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafo aŭ teo?
+- Plaĝo aŭ montoj?
+- Hundoj aŭ katoj?
+- Somero aŭ vintro?
+- Kuko aŭ torto?
+- Danci aŭ spekti?
+- Sunleviĝo aŭ sunsubiro?
+- Antaŭa verando aŭ malantaŭa korto?
+- Radio aŭ diskoj?
+- Patkukoj aŭ ovoj?
+- Rozoj aŭ lekantetoj?
+- Trajna vojaĝo aŭ aŭta vojaĝo?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Por konversaciaj demandoj, kiuj akompanas bildojn, provu niajn preseblajn [Konversaciajn kartojn](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Kiel vi povas gvidi scidemando-kunsidon en flegejo aŭ grupo?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Sidigu homojn tiel, ke ili povas vidi kaj aŭdi.** Aŭdhelpiloj enmetitaj, okulvitroj surmetitaj, televido malŝaltita.
+2. **Prezentu ĝin kiel babiladon.** «Mi havas kelkajn demandojn pri la malnovaj tagoj, kaj mi vetas, ke vi scias pli ol mi».
+3. **Legu ĉiun demandon dufoje kaj montru la elektojn grande.**
+4. **Bonvenigu respondojn de ie ajn en la ĉambro.** Ripetu bonajn respondojn, por ke ĉiuj aŭdu.
+5. **Diru la respondon por ĉiuj,** poste faru la parolteman demandon al la ĉambro.
+6. **Sekvu la energion.** Se unu demando komencigas dek minutojn da rakontoj, lasu tion okazi.
+7. **Finu per kanto aŭ rondo de demandoj «ĉi tio aŭ tio»,** por ke ĉiuj finu per io facila.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Por aliaj grupaj formoj, inkluzive de bilda bingo kaj kunaj kantoj, vidu [grupajn agadojn por flegejoj](/activities/care-home-groups/).
 
-## When to change the plan
+## Kiam ŝanĝi la planon
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Se iu aspektas maltrankvila, fariĝas silentema aŭ diras «Mi ne scias» pli ol unufoje, faru ĝin pli facila: reduktu al du elektoj, respondu kune aŭ transiru al demandoj «ĉi tio aŭ tio». Se la grupo preferas paroli pri unu demando la tutan posttagmezon, tio estas sukceso. La celo neniam estis la ĝustaj respondoj. Ĝi estis tempo en bona kompanio.

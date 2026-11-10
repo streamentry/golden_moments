@@ -1,32 +1,31 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Дементи йолчу стаьнашна ларамаш а, хьоьхуш а"
+seoTitle: "Дементи: ларамаш стаьнашна, бехачу ца бу"
+description: "Дементи йолчу адамашна ларамаш: акварель, коллаж, цветаш ларйар, лай, открытка а, раскраска а. Дӏадаьхьар, кхин хиларан маттахь хьоьхуш ца бу, цхьаьна хьоьхуш бу."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Дементи йолчу адамашна лараме ларамаш сийлахь ву, стаьнашна гергара: акварель,
+  журналан суьрташкахь коллаж, цветаш ларйар, лай, сихара открытка я хьоьхуш
+  раскраска. Цхьаьна сурсаш ло, даккхий хьоьхуш доцучу гӏо дан, х1ун дӏадоккхуш
+  дуй, хьо болх бина хӏаьттавар олу. Шен болх хийцар ахча дац.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Ларамаш а, темаш а сийлахь хилла веза, амма: акварелан когаш, цхьаьна цветаш, журналан суьрташ, ца ма глиттер, стикерш я сурат хийцам ца бу."
+  - "Процесс хьоьхуш: цвети, лай тӏехь хьо дӏаяккхар, дийцар. Хийца болх бонус ду, харц ца бу."
+  - "Цхьаьна мотт ло, х1ун, леррина ворхӏ, тхан стаьнашна открытка я цхьаьна цветаш столе тӏехь."
+  - "Гӏо дан дӏахӏуттийла, тӏаьхь хьо дӏадаха. Цхьаьна акварелан хьоьхуш доьзна хилар дикка ду."
+  - "Ларамаш цхьа кӏирдехь ца туху, шен хьоьхуш тӏаьхь ца тӏехьан доьзна хила дуй дукха дацар."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ларамаш бехачу хилар хьо лараме тарлу хьакъ?"
+    a: "Гойтарш хилла цхьаьна сурсаш, сийлахь темаш, хьоьхуш дешар. Глиттер я раскраска бехачу тӏехь акварелан когаш, туьйра, цветаш, журналан суьрташ я дукха дитина раскраскаш дӏаяккхар. Болх кхин бехачу адамна тӏехь дӏа ца веза; вайна баьхна тӏаьхь дохкийлар сайт дарор."
+  - q: "Дементи йолчу адамашна тӏаьхь дан дукх ларамаш мила ду?"
+    a: "Аьлла, гӏо дан дӏахӏуттийла дукх ларамаш ду: эшча хьоьхуш акварел, цхьа кӏанта тӏехь сурат я сиха таьлар, цхьа ворхӏ цветаш вазехь ларйар я туьйра хӏаьттар. Хьо дӏахӏуттийла кхин дӏадаха дуй. Хьо таьлар я цветаш лаьттар хьоьхуш дарий, хьо хьоьхуш дӏакхачар ма хила."
+  - q: "Ма ала: \"ма сан ларо\" хьо?"
+    a: "Хьо гӏонах мехала дӏа ца хьоьхуш. Шен харц ца бу ларамаш: акварелан цхьаьна лай, коллаж я цветаш ларйар. Аьлла, хьо стаьнаша лаам бан доцу хӏаьттар, масала открытка лаьттар цветаш дуьйцар, цуьнан хьоьхуш ло хьо. Ма хьо тӏехьа кхин тайна."
+  - q: "Раскраскаш адамна бехачу хийла дуй?"
+    a: "Адамашна дезарца хийла ца дуй. Адамашна хьоьхуш: гӏаьлаш, тӏехьиш, машинаш, дешарш я кхин туьйра сурсаш. Цуьнан хьоьхуш дӏахӏуттийла хьо ма лелаш, тӏехьа дӏаяккхар дацар. Вайн раскраскаш таблеткахь дӏаяккхар я цуьнан дӏасакхачар дуй."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +47,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Ларамаш а, хьоьхуш а дементи йолчу адамашна хьолехь дош дӏаязйина ца хилча, цхьаьна мотт дӏа ло. Alzheimer's Association олу, [лараме ларамаш дӏаязбарехь](https://www.alz.org/help-support/caregiving/daily-care/art-music) хилар, цхьаьна мотт хилар, дементи йолчу адамна а, цуьнан хьо лараш а. Хьоьхуш: сийлахь, гӏо дан дӏахӏуттийла, харц ца бар. Ди хуьлу конкретни ларамаш, цуьнан кхетар, хийца дукхах дӏакхетар.
 
-## What makes an art activity adult and not childish?
+## Мичара ларам бехачу ца хилла, стаьнашна сийлахь?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Сийлахь ларам гергара сурсаш, сийлахь темаш, хьоьхуш мотт дезар. Alzheimer's Association дӏаяккха: ларамаш стаьнашна доьзна хила веза, бехачу я бехачу дешар ца деза.
 
-| Feels childish | Feels adult |
+| Бехачу хилла | Сийлахь хилла |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Глиттер, стикерш, ала-маьлхах | Акварелан когаш, туьйра, цветаш |
+| Мультфильман раскраскаш | Гӏаьлаш, тӏехьиш, машинаш я туьйра сурсаш |
+| "Дика ду" хӏара гӏаьттина | Гергара хьоьхуш: "Цу кӏелан цу цӏеран ханна ша дикка гӏаьнаш ду" |
+| Цхьа-цхьа ларам, х1ун дӏадаьхьар ца бу | Хьоьхуш: открытка, столан цветаш, совгат |
+| Хьоьхуш таӏар лаьттина хӏаьттар | Хьоьхуш: "Хьо сан гӏо дан дӏахӏуттийла ма?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Адамна шен дегӏа хьоьхуш хьо. Къонахо кхетар дукха лараш лар вай. Инженер болх таьлар цуьнан хьоьхуш. Школа дешна дешаш, открытка лараш хьоьхуш.
 
-## Why focus on the process, not the product?
+## Процесс хьоьхуш, хийца болх дац, хийла мила ду?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Ахча дӏа хилар аьлла, хьо дукха дӏаязйина дӏа. Alzheimer's Association [кхин ларамаш](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) гайтина: процесс хьоьхуш, хийца болх ца. Цхьа "кхеле" таьлар а таьлар ду. Цхьа журналан сурат тӏехь коллаж а коллаж ду.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association кхин олу: професионал таьлар дукха таьлар хийла хила дуй, вуьйцу; харц бенах цхьа ханна хьо таь тӏехь ларам. Хьоьхуш ларам ахча лахам хилла, тӏаьхь хьо кхин ларам лар, цхьа чохь ма хийла.
 
-## Arts and crafts ideas to try
+## Ларамаш: кӏелан ларамаш
 
-Each idea includes how to make it simpler if it becomes hard.
+Цхьа ларамаш доьзна дӏа: хьо мила дӏаяккхар а, дӏахӏуттийла кхин ларам мила.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Акварелан таьлар.** Даккхий акварелан кӏанта тӏе а. Адам даккхий шуьйра тӏехь лай дитар. Цветаш шен ма баьхна ларйар, харц ца бу. *Хийла:* цхьа ворхӏ цвет, я туьйра тӏехьа ди дӏаяккхар.
+2. **Журналан коллаж.** Журналех сурат ахча дӏа: цветаш, хьоьхуш, машинаш, тӏехьиш, цуьнан даккха дешаш. Адам шен сурат дарий, картонан тӏехь дӏа-хьегар. *Хийла:* дийна дӏа сурат, клейн карандаш, хьо тоьхна дӏа.
+3. **Цветаш ларйар.** Alzheimer's Foundation of America [ларамаш цветаш ларйар](https://alzfdn.org/dementia-activity-gardening/) юкъара. Даккхий, тӏаьхьа вазе, тӏаьхьа тӏехь цветаш. *Хийла:* цхьа-цхьа цветаш цхьа кӏанта тӏехь.
+4. **Таьлар цветаш тӏехь открытка.** Цветаш цхьа кӏира тӏехь кӏира ахча, кхин открытка тӏехь цхьа хьегар. *Хийла:* хьо клей дӏа, адам цветаш тӏехь тӏаьхьа дӏа.
+5. **Дукха раскраскаш.** Туьйра, цхьаьна гӏаьлаш. Вайн [раскраскаш](/games/coloring/) экран тӏехь кхин дӏаяккхар дуй. *Хийла:* даккхий сурт, цхьа-цхьа кӏел, даккхий карандаш.
+6. **Лай я юкъара лай.** Лай тӏехьа, кхин юкъара. Лай тӏехь ворхӏ тӏехь суьрт. *Хийла:* тӏехьа дӏа мила ду, лай дӏаюкъар. Адам лай кхин мацца ца тӏехьа дӏа.
+7. **Открытка.** Alzheimer's Association олу: хьо дийна ларам лар: "Тхан дош ву цу адаман, открытка лаьттина хьо дӏа ма?" Картонан, цхьа стикер я цветаш.
+8. **Альбом.** Хьо хьоьхуш журналан, открыткан, билеташкан дӏа. Цхьаьна дийцар хьо дӏа. Вайн [дешар гайтар](/activities/reminiscence/) хьо дӏаяккхар.
+9. **Туьйра тӏехьа ларам.** Бархӏ, бархӏаш, мягка туьйра тӏе. Ларам хилар дӏа, хьо дӏа хьо хьо кхин тӏехьа хьо. Вайн [сенсорни ларамаш](/activities/sensory/) тӏехь дукха.
+10. **Деревах ларам.** Деревах болх таьлар, дерев зуьйрах я шуьйра дӏа. Чехкара хӏаьттар дуьхьал, хьо дӏа дӏа.
+11. **Лай тӏехь таьлар.** Тхан бӏаьхо лай тӏехь хьо дӏа, тӏехьа тӏехь. Лай дукха адамна доьзна. Вайн [лай дӏа](/activities/music/) тӏехь.
 
-## How do I set up an art session?
+## Ларам хьо мила дӏа дӏаяккхар?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Хьо хьо хийла.** Хьо дӏа дӏаяккхар, хьо дӏа хьо, стаьнаш ма дӏаяккхар. Ма ла, хьо гӏо дан дӏа.
+2. **Цхьаьна дӏа.** Цхьа-ши ворхӏ кӏел, цхьа кисти, цхьа кӏанта. Дукха харц дӏа.
+3. **Тӏехьа цхьа.** Столан тӏехьа пластик я тӏехьа цхьа. Хьо дӏа дӏаяккхар.
+4. **Тӏехьа хьо.** Хьо шен таьлар дӏа адамна тӏехьа. Адам хьо дӏа.
+5. **Адам дӏаяккхар.** Alzheimer's Association олу: адам лай тӏехьа дӏа мила. Дӏадаьхьар адам кхин таьлар.
+6. **Дийцар.** Цветаш, тӏехьиш дийцар. Харц ца тӏехьа: "Ма хьо мила ду?"
+7. **Дукх хан.** Ларам цхьа кӏирдехь ца туху. Кхин дӏа.
 
-## How do I adapt art as dementia changes?
+## Дементи дӏахӏуттийла ларам мила хийла?
 
-| Stage | What tends to work | What to adjust |
+| Хан | Мила дӏа | Хийца |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Тӏаьхь | Школа, дукха раскраска, альбом, открытка, сурат | Цхьа хьоьхуш; гергара хила |
+| Дукх | Кӏанта коллаж, акварелан таьлар, цветаш, раскраска даккхий кӏел | Цхьа-цхьа ханна; хьо кесташ, дӏа-хьегар |
+| Тӏехьа | Даккхий шуьйра, лай, туьйра тӏе, хьо таьлар | Сенсорнаш; мягко гӏо дан, хьо доккхуш |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS олу: тӏехьа хан, ларамаш дукха гергара ма ду, сенсорнаш тӏехь. Адам таьлар тӏехь хьо дӏа, хьо дийца — хьо дӏа ларам. Хан-тӏехьа дукх ларамаш: [хан дукхах ларамаш](/activities/ideas/).
 
-## Safety with art supplies
+## Ларамашан сурсаш, сийлахь
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Токсикан ма ду сурсаш, карандаш, клей.
+- Кесташ, ножаш, клей пистолет вазе.
+- Адам лай, таьлар я туьйра дӏа дӏаяккхар ма дӏа.
+- Вазе, ахча ву цхьа даккхий, мягка.
 
-## When should we stop?
+## Хан мила хьо дӏа?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Хан, адам харц я хьо дӏа хилча. Alzheimer's Association олу: хьо ларам дӏаяккхар, хийца, хьо дӏа хан. Болх сийлахь тӏехьа ма дӏа, сакхийла дӏа. Тӏаьхь мацца, ма дӏа дӏа. Цхьаьна ма ду.
 
-## Display the work, if the person wants
+## Болх дӏа, адам мила хьо?
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Хьо суьрт тӏехь вазе я коллаж таьлар гергара ду. Адам мила ду. Цхьаьна адамаш хьо болх тӏехь дӏа, кхин адамаш ма.
 
-## Pair art with our games
+## Ларамаш вайн хьоьхуш тӏехь
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Тхан таьлар ма дӏаяккхар, [Раскраска](/games/coloring/) таблетках ма кесташ. [Суьрт-кхетар](/games/picture-puzzle/) суьрт тӏехь гергара. [Дийцар-карташ](/games/conversation-cards/) дош юкъара. Ма хьо сихара ма ду, очко ца ду. Вайн [принтан ларамаш](/activities/printable/) тӏехь дукха.

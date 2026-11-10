@@ -1,32 +1,28 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "ފަހުމަތީ ދަރަޖައިގެ ޑިމެންޝިއާ: އެނދުގައި ވެސް ހެދޭ މަސައްކަތްތައް"
+seoTitle: "ފަހުމަތީ ޑިމެންޝިއާ: އެނދާއި ގޮނޑީގެ މަސައްކަތްތައް"
+description: "ފަހުމަތީ ދަރަޖައިގެ ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހަކަށް، އެނދުގައި ނުވަތަ ގޮނޑިއެއްގައި ހުންނަ ވަގުތުވެސް ހެދޭ ހިތްހަމަޖެހޭ މަސައްކަތްތަކާއި ރައްކާތެރިކަމުގެ ލަފާތައް."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  ފަހުމަތީ ދަރަޖައިގެ ޑިމެންޝިއާ ވަގުތުގައި މަސައްކަތްތައް ބިނާވެފައި ވަނީ ހިއްސުތަކާއި ތިޔަބޭފުޅުންގެ އެކުވެތިބުމަށެވެ: ކަމަށް ބޭނުންވާ ލަވަތައް ޖައްސަވާ، އަތް ހިފައިގެން ތިބުން، އަތްޕުޅަށް މަޑުމަޑުން މެސާޖު ކުރުން، އަޑުގައި ކިޔަވައިދިނުން، ފޮޓޯތައް ބަލާ، ގުދުރަތުގެ އަޑުތައް އަޑުއަހާ، އަދި ކުޑަދޮރެއް ކައިރީގައި ނުވަތަ ބޭރުގައި އެކުގައި އިށީނދެލުން. މި ކަންތައް އެނދުގައި ނުވަތަ ގޮނޑިއެއްގައި ހުންނަ މީހާއާއެކު ވެސް ހެދޭނެއެވެ. ވަގުތު ކުރުކޮށް ބޭނުންކުރާ، އެމީހާގެ މޫނާއި އަތްތަކުން ހިތްހަމަޖެހުން ބަލާ، އަދި ހަމައެކަނި އެކުގައި ހުންނަން އެއީ އެކަމެއް ކަމަށް ހަނދާން ބަހައްޓާށެވެ.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "ގުޅުން އަދިވެސް އުފެދޭނެއެވެ. ފަހުމަތީ ދަރަޖާގައި ދުނިޔެ އެނގެނީ އެންމެ ގިނައިން ހިއްސުތަކުގެ މެދުވެރިކޮށެވެ."
+  - "ބަސްތައް ކުޑަވެފައި ހުރި ނަމަވެސް، ލަވަ، ލުއި އަތްލުން، އާދަކުރާ އަޑުތައް އަދި އަތުގައި ބަހައްޓާ އެއްޗެއް ގިނަ ފަހަރަށް ހިތަށް ވާސިލްވެދެއެވެ."
+  - "މިތަނުގައިވާ ގާތްގަނޑަކަށް ހުރި ހުރިހާ ޚިޔާލެއް ގާތްގަނޑަކަށް އެނދުގައި ނުވަތަ ގޮނޑިއެއްގައި ހުންނަ މީހަކާއެކު ވެސް ހެދޭނެއެވެ."
+  - "މޫނު، އަތްތައް އަދި ނޭވުން ބަލައި ހިތްހަމަޖެހުމާއި ތަކުލީފު ދެނެގަންނާށެވެ. ތަކުލީފެއް ފާހަގަކުރެވުނު ވަގުތު ހުއްޓާށެވެ."
+  - "ކުދި އެއްޗެހި ނުދޭށެވެ. ކާން ނުވަތަ ބޯން ދިނުމަށްފަހު އޮތްތަން ރައްކާތެރި ނުވެދާނެ ކަމަށް، ބަލަމުން އަންނަ ޓީމު ލަފާ ދޭ ގޮތަށް އެކަނި ދީށެވެ."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "އެނދުގައި ހުންނަ، ފަހުމަތީ ދަރަޖައިގެ ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހަކާއެކު ކޮން މަސައްކަތްތަކެއް ހެދޭނެހެއްޔެވެ؟"
+    a: "އެމީހަކަށް ކަމަށް ބޭނުންވާ ލަވަތައް ޖައްސަވާ، އަތް ހިފައިގެން ތިބޭ، ލޯޝަން ބޭނުންކޮށްގެން އަތްޕުޅަށް މަޑުމަޑުން މެސާޖު ކުރޭ، އެމީހަކަށް ބޭނުންވާ ފޮތެއް ނުވަތަ ދުއާއެއް އަޑުގައި ކިޔަވައިދޭ، ފޮޓޯތައް ދައްކާ، ނުވަތަ ގުދުރަތުގެ މަޑު އަޑުތައް ޖައްސަވާށެވެ. ބޭރު ދެނެގަނެވޭތޯ ބެލުމަށް ފަރުދާ ހުޅުވާލާށެވެ. ކުރު، ހަމަޖެހި ވަގުތުތަކެއްގައި އެއް ފަހަރަކު އެއް ކަމެއް ހެދުމަކީ ގިނަ ފަހަރަށް އެންމެ ރަނގަޅު ގޮތެވެ."
+  - q: "ފަހުމަތީ ދަރަޖައިގެ ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހުންނަށް އަދިވެސް ލަވައިން އުފާ ލިބިދާނެހެއްޔެވެ؟"
+    a: "ގިނަ މީހުންނަށް ލިބިދާނެއެވެ. ފަހުމަތީ ދަރަޖާގައި ވެސް، ކުޑައިރުގެ ލަވައަކާއެކު ތާލަށް އަތް ޖައްސަވާ ނުވަތަ ލަވަ އެއްކޮށް ލަވަ ލަވައިދޭނެ ކަމަށް Alzheimer's Association ބުނެއެވެ. އެމީހަކު ކުޑައިރު ވަރަށް ބޭނުންވި ލަވަތައް ހޮވާ، އަޑު މަޑުކޮށް ބަހައްޓާށެވެ."
+  - q: "އެމީހަކަށް މަސައްކަތެއް ކަމަށް އުފާވޭކަން އަހަރެން ދެނެގންނާނީ ކިހިނެއްތޯއެވެ؟"
+    a: "ކުދި އިޝާރާތްތައް ބަލާށެވެ: ފަރުވާތެރި ކަންކޮޅުތައް، ލުއިވެފައިވާ މޫނު، ލޮލުން ބަދަލުވުން، ދަށުން އަޑު ނެރުން، އަތް ފިއްތަވާލުން ނުވަތަ ނޭވުން މަޑުވުން. މޫނު ވަށައިގަންނަން ފެށުން، ފަހަތަށް ދިއުން، ހަމަނުޖެހުން ނުވަތަ ދަށުން އަޑުކުރުން އަންގަނީ ތަކުލީފެއް ނުވަތަ ވޭނެއް އޮތްކަމެށް ކަމަށް ވެދާނެއެވެ. މިފަދަ ކަންތައް ފެނުނު ނަމަ ހުއްޓާ، އަދި މިކަން ދެމިއޮތް ނަމަ ބަލަމުން އަންނަ ޓީމަށް އަންގާށެވެ."
+  - q: "އެމީހަކަށް އަހަރެން ނޭނގޭ ނަމަވެސް ބައްދަލުކުރަން ދިއުމުގެ ފައިދާ އޮންނާނެހެއްޔެވެ؟"
+    a: "އާދެ، އޮންނާނެއެވެ. ހަމައެކަނި އެކުގައި ހުރުމުން ވެސް ހިތް ހަމަޖެހިދާނެ ކަމަށް، އަދި ރަނގަޅަށް ދަށްވެފައިވާ ޑިމެންޝިއާ ވަގުތުގައި ވެސް އަތްލުން، ލަވަ އަދި ވާހަކަ ދެއްކުމުން ހިތްހަމަޖެހުން ލިބިދާނެ ކަމަށް National Institute on Aging ބުނެއެވެ. ތިޔަބޭފުޅުންގެ ނަން ނޭނގުނު ނަމަވެސް، ތިޔަބޭފުޅުންގެ އަޑާއި އަތްލުން އާދަކުރާ އެއްޗެއްގެ ގޮތުގައި އެނގިދާނެއެވެ."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +44,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+ޑިމެންޝިއާގެ ފަހުމަތީ ދަރަޖާގައި، ތިޔަ ބަލަމުން އަންނަ މީހާ ވަރަށް މަދު ވާހަކަ ދައްކާ، ކޮންމެ ދުވަހު ކަމަކަށް އެހީތެރިކަން ބޭނުންވެ، އަދި ދުވަހުގެ ގިނަ ވަގުތެއް އެނދުގައި ނުވަތަ ގޮނޑިއެއްގައި ހޭދަކުރެއްވިދާނެއެވެ. އެހެންކަމުން، އެމީހާއާއެކު އެއްކޮށް ހެދޭނެ އެއްވެސް ކަމެއް ނެތް ކަމަށް ހީވިދާނެއެވެ. އެކަމަކު ހެދޭނެ ކަންތައް އޮންނާނެއެވެ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) ބުނަނީ، މި ދަރަޖާގައި އެމީހެއްގެ އަމިއްލަ ބައެއް ކަންތައް ބާކީވެ އޮތްކަމަށާއި، މި ވަގުތު ދުނިޔެ އެނގެނީ އެންމެ ގިނައިން ހިއްސުތަކުގެ މެދުވެރިކޮށް ކަމަށެވެ. ލަވަ، އަތްލުން، އާދަކުރާ އަޑެއް އަދި ތިޔަބޭފުޅުންގެ ހަމަޖެހި އެކުވެތިބުމުން އަދިވެސް ހިތްހަމަޖެހުމާއި ގުޅުމުގެ ކުރު ވަގުތުތަކެއް ލިބިދާނެއެވެ.
 
-## What activities help in late-stage dementia?
+## ފަހުމަތީ ދަރަޖައިގެ ޑިމެންޝިއާ ވަގުތު އެހީތެރިވާ މަސައްކަތްތަކަކީ ކޮބައިތޯ؟
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+ފަހުމަތީ ދަރަޖާގައި އެންމެ އެހީތެރިވަނީ ސާދާ ހިއްސުތަކަށް އެކުލެވޭ މަސައްކަތްތަކާއި ހަމަޖެހި އެކުވެތިބުމެވެ. Alzheimer's Association ލަފާ ދެނީ ކަމަށް ބޭނުންވާ ލަވަތައް ޖައްސަވާ، މާނައަށް ބޮޑު ފޮތްތަކުގެ ބައެއް ކިޔަވައިދިނުން، ކަމަށް ބޭނުންވާ މީރުވަހެއް އޮންނަ ލޯޝަން ހަމަށަށް ލެއްޕެވުން، އަދި ރަނގަޅު ދުވަހެއްގައި ބޭރުގައި އެކުގައި އިށީނދެލުން ފަދަ ކަންތައްޓަކައެވެ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) އިތުރަށް ލަފާ ދެނީ ވާހަކަ ދެއްކުން، ފޮޓޯތައް ދައްކާލުން، ލުއި އަތްލުން ނުވަތަ މެސާޖު، އަދި ލަވަ، ހައިޓް ނޮއިޒް ނުވަތަ ގުދުރަތުގެ އަޑުތައް ޖައްސަވާލުމަށެވެ. އަދި ހަމައެކަނި ތިޔަބޭފުޅުން އެކުގައި ހުރުމުން ވެސް ހިތް ހަމަޖެހިދާނެ ކަމަށް ބުނެއެވެ.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ބުނަނީ، ފަހުމަތީ ދަރަޖާގައި ތިބޭ މީހުންނަށް ހިތްހަމަޖެހުމަށް އެއްޗެއް ގާތަށް ބަހައްޓަން ބޭނުންވާ މިންވަރު ބޮޑު ކަމަށާއި، ސާދާ ހިއްސުތަކަށް އެކުލެވޭ މަސައްކަތްތައް، މަޑުމަޑުން ހަރަކާތްތެރިވުން، ސްކާފް ހަރަކާތްތެރިކުރުން، ލަވަ، ޖަނަވާރުންނާ ކުރު ބައްދަލުވުން، އަތްލުން އަދި ހިޔާލަށް އަރާ ފަންނުވެރި ކަންތައް އެހީތެރިވެދާނެ ކަމަށެވެ.
 
-## Activities for someone in bed or a chair
+## އެނދުގައި ނުވަތަ ގޮނޑިއެއްގައި ހުންނަ މީހަކަށް ހެދޭ މަސައްކަތްތައް
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **އެމީހަކު ބޭނުންވާ ލަވަ ޖައްސަވާށެވެ.** ޒުވާން ދުވަސްވަރުގެ ލަވަތައް، ދީނީ ލަވަތައް ނުވަތަ އާއިލާއާ ގުޅޭ ލަވަތައް ހޮވާށެވެ. އަޑު މަޑުކޮށް، ކައިރީގައި އިށީނދެލާށެވެ. މި ވަގުތުގައި ވެސް ބައެއް މީހުން އިނގިލިން ތާލަށް ޖައްސަވާ ނުވަތަ ދަށުން ލަވަ އެއްކޮށްލެއްވިދާނެއެވެ. [ލަވައާ ގުޅޭ މަސައްކަތްތައް](/activities/music/) ބަލާށެވެ.
+2. **އަތް ހިފައިގެން ތިބޭށެވެ.** ލުއިކޮށް އަތް ހިފައިގެން ތިބުމަކީ އެއް މަސައްކަތެކެވެ. ކުރަން އުޅޭ ކަން ކުރިން ބުނާށެވެ.
+3. **އަތްޕުޅަށް މަޑުމަޑުން މެސާޖު ކުރޭށެވެ.** އަތްޕުޅުގައި ކުޑަމިންވަރެއް ލޯޝަން ހޫނުކޮށް، ކުޅަނދިލިން ފެށިގެން އިނގިލި ފަހަށް މަޑުމަޑުން ފަތުރާށެވެ. މީރުވަހެއް ނެތް ލޯޝަން ބޭނުންކުރާ، ނުވަތަ ހަމަށް ހަމަޖެހޭ ނަމަ އެމީހަކު އާދަކުރާ މީރުވަހެއް ހޮވާށެވެ.
+4. **އަޑުގައި ކިޔަވައިދޭށެވެ.** ކަމަށް ބޭނުންވާ ޅެނެއް، ވަރަށް ބޭނުންވާ ފޮތެއްގެ ބައެއް، ދުއާއެއް ނުވަތަ ކުޅިވަރު ޞަފްޙާއެއް. ބަސްތަކަށް ވުރެ ތިޔަބޭފުޅުންގެ އަޑުގެ ތާލަށް އަހަމިއްޔަތު ބޮޑެވެ.
+5. **ވާހަކައެއް ދައްކާށެވެ.** އާއިލާއާއެކު ދިޔަ ދަތުރެއް ނުވަތަ ކައިވެނި ކުރެއްވި ދުވަހާ ބެހޭ ގޮތުން ވާހަކަ ދައްކާށެވެ. ޖަވާބެއް ނުލިބުނު ކަމަކު ހެޔޮއެވެ.
+6. **ފޮޓޯތައް ދައްކާށެވެ.** އެއް ފަހަރަކު ބޮޑު ފޮޓޯއެއް ލޮލުގެ ފެންވަރަށް ހިފައި، އެކަމާ ބެހޭ ގޮތުން މަޑުމަޑުން ބުނާށެވެ. ފޮޓޯގައި އިނީ ކާކުތޯ ސުވާލު ނުކުރާށެވެ.
+7. **ލުއި އެއްޗެއް އަތުގައި ބަހައްޓާށެވެ.** ފޯލްޑު ކޮށްފައިވާ ވޮށްޓޯއެލެއް، ފްލީސް ކަޅެއް ނުވަތަ ލުއި ޖަނަވާރެއް. NIA ލަފާ ދެނީ، މީހަކު ހަރަކާތްތެރި ކުރާ ވަގުތު ވޮށްޓޯއެލެއް އަތުގައި ދިނުމަށެވެ، އެއީ ތިޔަބޭފުޅުން ނުވަތަ ފަރުނީޗަރު ހިފައިގަތުން މަދުކުރުމަށް އެހީތެރިވެދާނެތީއެވެ.
+8. **ގުދުރަތުގެ އަޑުތައް ޖައްސަވާށެވެ.** ވާރޭ ވެހުން، ރަޅުގެ އަޑު ނުވަތަ ދޫނިތަކުގެ އަޑު މަޑުކޮށް ޖައްސަވާލުމުން ގަޑަކަމުގައި ހުރި ކޮޓަރިއެއް ހަމަޖެހިދާނެއެވެ.
+9. **ބޭރުގެ މާހައުލު ތެރެއަށް ގެންނާށެވެ.** ފަރުދާ ހުޅުވާ، ކުޑަދޮރިން ބޭރު ފެނޭތަނަށް ދޫނި ކާން ދޭ ތަނެއް ބަހައްޓާ، ނުވަތަ ތާޒާ މާތަކެއް ނުވަތަ ފަތްތަކެއް ގެނެސް ބަލާލާ އަތުން ދެނެގަންނާށެވެ.
+10. **ބޭރަށް ނެރެދީށެވެ.** މީހާ ވީލްޗެއާރެއްގައި އިށީނދެވޭ ނަމަ، މަޑުމަޑުން ހޫނު ދުވަހެއްގައި ހިޔަނިތަނެއްގައި ކުރު ވަގުތުކޮޅެއް ހޭދަކުރުމަކީ ރަނގަޅު ކަމެއް ވެދާނެއެވެ.
+11. **ބުރުސް ޖައްސަވާ ނުވަތަ ހޫނު ޓަވަލެއް ދީށެވެ.** މަޑުމަޑުން ތައްޔާރުކޮށްދިނުމާއި، ހޫނު ވޮށްޓޯއެލެއް އަތްޕުޅަށާއި މޫނަށް ބޭނުންކުރުމުން ބަލަހައްޓައިދެމުންދާ ކަމެއް ހިތަށް އަރާފައި އޮންނާނެއެވެ.
+12. **ލަވައާއެކު މަޑުމަޑުން ހަރަކާތްތެރިވާށެވެ.** ފުނޑުފުނޑު ސްކާފެއް އެކުގައި ހަރަކާތްތެރިކުރާ، ނުވަތަ ލަވައިގެ ތާލަށް އަތް ހަރަކާތްތެރިކުރާށެވެ. ހަރަކާތްތެރިކުރުމާއި ޖޮއިންޓްތައް ހަރަކާތްތެރިކުރުމަށް، ރައްކާތެރި ގޮތްތައް ފަސް ތެރަޕިސްޓަކު ނުވަތަ ނަރުހަކު ދައްކައިދެއްވާށެވެ.
+13. **ހިޔާލަށް އަރާ ފަންނުވެރި ކަމެއް ހެދޭށެވެ.** ޒަހަރު ނެތް ކުލަ ބޮޑު ކަރުދާހަކަށް ސްޕޮންޖެއް ނުވަތަ ތިޔަބޭފުޅުންގެ އަތްޕުޅާއެކު އަތްޕުޅުން ފަތުރާށެވެ. ރަނގަޅު ނަތީޖާއެއް ބޭނުން ނުވެއެވެ.
+14. **ޖަނަވާރުން ބައްދަލުކުރަން އައުމަށް ފުރުސަތު ދީށެވެ.** އެމީހަކަށް ޖަނަވާރުން ބޭނުންވެއްޖެ ނަމަ އަދި އެ ތަނުން ހުއްދަ ދޭ ނަމަ، ހަމަޖެހި ޖަނަވާރެއް އެނދުމަތީގައި ނުވަތަ ކަށުވަރުގައި ބަހައްޓައިދޭށެވެ.
+15. **އެކުގައި މަޑުމަޑުން ނޭވާލާށެވެ.** ކައިރީގައި އިށީނދެ، މަޑުމަޑުން އަދި އަޑުއަރާ ގޮތަށް ނޭވާލާށެވެ. [ހަމަޖެހި ނޭވުން](/games/calm-breathing/) ދެމީހުންނަށް އެއް ތާލެއް ދެދާނެއެވެ، އަދި ފެށުމާއި ހުއްޓުން ތިޔަބޭފުޅުންގެ އަތްޕުޅުގައި އޮންނާނެއެވެ.
+16. **ހަމައެކަނި އެތާ ހުންނަވާށެވެ.** ކައިރީގައި އިށީނދެ، ދަށުން ލަވަ އެއްކޮށްލައްވާ، ކުރެހުން ކުރައްވާ ނުވަތަ މަޑުމަޑުން ކިޔަވާށެވެ. އެކުގައި ހުރުމަކީ ފުދޭނެ ކަމެކެވެ.
 
-## How to share an activity at this stage
+## މި ދަރަޖާގައި މަސައްކަތެއް އެކުގައި ހެދޭ ގޮތް
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **ކުރިމަތިން ކައިރިވާށެވެ.** އެމީހާގެ ނަމާއި ތިޔަބޭފުޅުންގެ ނަން ބުނާ، އަތް ލާށް ކުރިން މަޑުމަޑުން އަދި ލުއި އަޑުން ވާހަކަ ދައްކާށެވެ.
+- **އެއް ފަހަރަކު އެއް ކަމެއް ހުށަހަޅާށެވެ.** ލަވަ ޖައްސަވާށް ކުރިން ޓީވީ ނިއްވާލާށެވެ. އެއް ފަހަރަކު އެއް ހިއްސުތަކަށް އެކުލެވޭ ގޮތަށް ހެދާށެވެ.
+- **ވަގުތު ކުރުކޮށް ބަހައްޓާށެވެ.** މިނެޓު ކުރެއް ވެސް ފުދިދާނެއެވެ. ދުވަހުގެ ތެރޭގައި ކުރު ވަގުތުތަކެއް ގިނަ ފަހަރަށް ހެދުމަކީ، ދިގު ވަގުތެއް އެއް ފަހަރަށް ހެދުމަށް ވުރެ ރަނގަޅެވެ.
+- **ފުރަތަމަ އެމީހަކު ފަރުވާތެރިކޮށް ބަހައްޓާށެވެ.** އެމީހަކު ރަނގަޅަށް އެއްކޮށް އިށީނދެވިފައިވާތޯ ބަލާށެވެ. NIA ލަފާ ދެނީ، އިށީނދެލާ ވަގުތު އަތް ބަހައްޓާ އަދި އުޑުގަނޑު ބައި ބާރުދޭ ގޮތަށް ލެޕް ބޯޑެއް ބޭނުންކުރުމަށެވެ.
+- **ޖަވާބު ބަލާށެވެ.** ފަރުވާތެރި އަތްތައް، ލުއިވެފައިވާ މޫނު، ލޮލުން ބަދަލުވުން ނުވަތަ ދަށުން އަޑު ނެރުން އަންގަނީ ހިތްހަމަޖެހުމެކެވެ. NIA ބުނަނީ ދަށުން އަޑުކުރުން، މޫނު ވަށައިގަތުން، ހަށިގަނޑުގެ ބައެއް ރައްކާތެރިކުރުން ނުވަތަ އެކަންޏާ ހަމަނުޖެހުން ވޭނެއް އޮތްކަމުގެ އިޝާރާތްތަކަށް ވެދާނެ ކަމަށެވެ. ހުއްޓާ، އަދި ބަލަމުން އަންނަ ޓީމަށް އަންގާށެވެ.
 
-## A quick guide by sense
+## ހިއްސުތަކަށް ބެލުމުން ކުރު އެހީއެއް
 
-| Sense | Ideas | Take care |
+| ހިއްސުތައް | ޚިޔާލުތައް | ސަމާލުވާންޖެހޭ ކަންތައް |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| އަޑު އިވުން | ކަމަށް ބޭނުންވާ ލަވަތައް، ތިޔަބޭފުޅުން ކިޔަވައިދެއްވުން، ގުދުރަތުގެ އަޑުތައް | އަޑު މަޑުކޮށް ބަހައްޓާ؛ އެއް ފަހަރަކު އެއް އަޑެއް |
+| އަތްލުން | އަތްޕުޅަށް މެސާޖު، އަތް ހިފައިގެން ތިބުން، ލުއި ކަތިލި، ހޫނު ޓަވަލެއް | ކުރިން އެދޭ ނުވަތަ އަންގާ؛ ހަމަށް ވޭން ނުވަތަ ހަލަކު ނުވާތޯ ބަލާ |
+| ފެނުން | ފޮޓޯތައް، މާ، ކުޑަދޮރިން ފެންނަ މަންޒަރު، މަޑުމަޑުން ދައްކާ ގުދުރަތުގެ ވީޑިއޯ | އެއްޗެހި ލޮލުގެ ފެންވަރަށް ހިފާ؛ ރަނގަޅު އަލި، އަލި ދިރުމުން ދުރުހެލިވުން ހުއްޓާ |
+| މީރު އަނބުރާ ލުން | ކަމަށް ބޭނުންވާ ލޯޝަން، ތާޒާ މާ، ކައިރީގައި ހަދާ ކޮފީގެ މީރުވަހު | ބޯ މީރުވަހު ދުރުހެލިކުރާ؛ އެލަޖީއާއި ނޭވުމުގެ ހާލަތު ބަލާ |
+| ރަހަ ލުން | ކަމަށް ބޭނުންވާ ރަހައެއްގެ ކުޑަ ބައެއް | ބަލަމުން އަންނަ ޓީމު ރައްކާތެރި ކަމަށް ބުނާ ކާތަކެތާއި ޓެކްސްޗަރުތަކުގެ ތެރެއިން އެކަނި |
 
-## Safety at this stage
+## މި ދަރަޖާގައި ރައްކާތެރިކަން
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+ފަހުމަތީ ދަރަޖާގައި ދަށުން ވެއްޓުން އުނދަގޫވެދާނެއެވެ، އަދި މިކަމުން ގަލަށް ތަކެތި އަރާވެދާނެ ނުރައްކާ އިތުރުވާ ކަމަށް NIA އިންޒާރު ދެއެވެ. ކުދި އެއްޗެހި އަތްލޭ ތަނެއްގައި ނުބަހައްޓާ، އަދި ބަލަމުން އަންނަ ޓީމު ލަފާ ދޭ ޓެކްސްޗަރާއި ހުރުމުގެ ގޮތުގައި އެކަނި ކާން ނުވަތަ ބޯން ދީށެވެ. އަތްލުމުގެ މަސައްކަތްތަކުގެ ތެރޭގައި ހަމަ މަޑުމަޑުން ބަލާށެވެ، އެހެނީ ހަމަ ފަސޭހައިން ހަލަކުވެ ނުވަތަ އަވަސްވެދާނެތީއެވެ. ރައްކާތެރި ހިއްސުތަކަށް އެކުލެވޭ ޚިޔާލުތަކާ ބެހޭ އިތުރު މައުލޫމާތަށް [ހިއްސުތަކަށް އެކުލެވޭ މަސައްކަތްތައް](/activities/sensory/) ބަލާށެވެ.
 
-## Looking after yourself too
+## ތިޔަބޭފުޅުންގެ ހާލަތަށް ވެސް ބަލަހައްޓާށެވެ
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+ފަހުމަތީ ދަރަޖާގެ ބަލަހައްޓަން ދިނުމަކީ ހަށިގަނޑާއި ހިތުގެ ގޮތުން ވެސް ވަރަށް ބުރަ ކަމެކެވެ. މީގެ ތެރޭގައި ގޭގައި ބަލަހައްޓަން ދިނުމާއި ކެއަރ ހޯމަކަށް ބައްދަލުކުރަން ދިއުން ވެސް ހިމެނެއެވެ. ފަރުވާތެރިކަމާއި އެހީތެރިކަމާއި ކުރިއަށް ގެންދިއުމުގެ ޕްލޭންކުރުމުގައި ހޮސްޕިސް އަދި ޕެލިއޭޓިވް ކެއަރ ޓީމުތަކުން އެހީތެރިވެދާނެއެވެ، އަދި NIA އެ ޓީމުތައް އެހީ ހޯދާ ތަންތަކެއްގެ ގޮތުގައި ދައްކާލައެވެ. ކުރު، ހަމަޖެހި ބައްދަލުވުންތަކަށް ވެސް އަގު އޮންނާނެއެވެ؛ [ޑިމެންޝިއާ އާއެކު ދިރިއުޅޭ މީހަކަށް ބައްދަލުކުރަން ދިއުން](/activities/visiting/) ބަލާށެވެ. ގްރޫޕް މަސައްކަތްތައް ހިންގަވާ ނަމަ، [ކެއަރ ހޯމް ގްރޫޕް މަސައްކަތްތައް](/activities/care-home-groups/) ގައި ސެޝަންތައް އެކަށީގެންވާ ގޮތަށް ބަދަލުކުރުމުގެ ޚިޔާލުތައް ހުރެއެވެ. އަދި [ބަލަހައްޓާ މީހުން އަމިއްލަ ނަފްސަށް ބަލަހައްޓަން ދިނުން](/caregiving/caregiver-self-care/) ވެސް ކިޔަވާށެވެ: އަރާމު ހޯދުމަކީ ރަނގަޅަށް ބަލަހައްޓަން ދިނުމުގެ ބައެކެވެ.

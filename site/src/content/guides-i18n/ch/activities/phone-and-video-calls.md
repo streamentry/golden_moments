@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Aktibidat Telifon yan Video Call para Taotao ni Gai Demensia"
+seoTitle: "Aktibidat Video Call para Demensia"
+description: "Aktibidat para video call yan telifon ginen familia ni gai distansia ni taotao ni gai demensia: palabra-palabra, lalaflo' tinituhon, kanta, hinanao gi pantalla, yan tinige para manayuda."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Ma'ås i kuentos yan taotao ni gai demensia kuando ti ma'ås, regular, yan
+  guaiya tinituhon ni hita siha sumaga, taiguini: mamostra i animåt pat
+  tinaigu, mamirå i litråtu, lalalaga' i lepblo, kanta un kanta ni ma'ålåk,
+  pat hu'nå un hinanao gi pantalla. Hålom gi mismu oras kada dia kuando
+  siña, un taotao gi tiempo, yan pidi un taotao gi lugåt ni para u ayuda.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Un aktibidat fa'nå'i i kuentos un fotma yan ti ha' cargå i presion. Plånea un simple na kosas para hu'nå."
+  - "Ma'ås, regular na kuentos gi mismu oras kada dia ginen ma'å' na atrasåo, mas maolek kesta i manlaolo."
+  - "Un taotao ha' lalagu gi tiempo. Grupo na kuentos ni manhuhumalålak ti hasso, espesiåt kuando manmaskaohi."
+  - "Un tinige gi lugåt siña ma'ayuda i setup i aparato, ma'santa guiya i taotao, yan ser i 'mås' para kualkuier hinanao pat litråtu."
+  - "Kuando un kuentos ti ma'å'na'an gi jåja, usa palabra ni maolek ya ma'lålak. I ma'å'ña' un dia ti sinusedi."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Hafa siña hu hasso gi video call yan taotao ni gai demensia?"
+    a: "Plånea un simple na aktibidat: mamostra i guinaiya, animåt pat kusina; mamirå litråtu ni antigu; lalaga' un kottura pat kåtta ni ma'ålåk; kanta un kanta ni ma'ålåk; kutina un recipe ni mismu oras; pat hu'nå un simple na picture game gi pantalla. Aktibidat ma'å'nåo i kuentos un tinituhon, ya ti kumekeda i taotao para u cho'gue i kuentos."
+  - q: "Kuånto ha' dapat ma'ås un video call?"
+    a: "Komun ma'ås kesi ki hita manhahassa. Sigi minuto ni maolek siña ya, espesiåt kuando i taotao manmakansa mås lepblo. I regular na kuentos gi mismu oras kada dia mås ma'å'nåo kesi ki kuånto ma'ås kada kuentos."
+  - q: "Kao manmalålak pat manmasaonge i taotao ni video call?"
+    a: "Kakalu ni taotao manhahassa ni i kara gi pantalla ha' maskaohi. Sumesetba un simple na telifon call, un video mensahe ni rekotha ni tinige siña ha' hu'nå gi mamanu na tiempo, pat kåtta yan litråtu ginen gi koreo. Kuando un kuentos ti maolek, ma'å'na'an kumuyå yan i sigiente dia pat ginen otro tiempo."
+  - q: "Kao hu siña ayuda nana-hu para video call kuando ti siña usa telifon?"
+    a: "Pidi un familia, tinige pat staff gi care home para ma'å'ina i kuentos yan sumostiene i aparato. Manggaige na care setting ma'ayuda familia yan video call, entonses pidi kumo siha ni manmana'ayuda. Un tablet gi standi, ni dankolo i pantalla yan ma'å'ongo i tinige, ma'ås para todu.."
+  - q: "Siña ta juega un game huntos gi video?"
+    a: "Siña. I mas fácil na manera, un taotao ha' comparte i pantalla gi video app, ya i otro taotao ha' sitba i ma'pigi ni litråtu ni para u tohon. Pat i tinige gi lugåt siña ha' halom i mismu game gi tablet, ya ha' tohon para i taotao mientras ti guiya ta'chi. Chule game ni ti gai timer pat puntos."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Ma'ås i distansia yan taotao ni gai demensia siña ma'å'ina. Telifon yan video call ti sumustitute gi abrasa, ti pa'go siña ha' na'chi i mañ'a ni hita manmaskaohi kuando manmaplåna maolek. I kinalamten, hånao ti ta'lo para un normal na kuentos, sino plånea un simple na kosas para hita siha hu'nå huntos. Esti na pahina ma'å'na'an i aktibidat ni siña ma'chi gi video yan telifon, kumo ma'å'setup i call, yan hafa siña para i taotao gi lugåt ma'ayuda.
 
-## Why plan an activity for a call?
+## Taiguini un aktibidat para i call?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Un aktibidat ma'nå'i i call un fotma. "Hafa tatåtte? Hafa hu fanå'gue gi tiempo?" ma'pidi i taotao para ma'hasso yan ma'kuentos, ya siña mahålang yan mapresiå. "Mira, mahålom i tomates" ti ma'pidi nåni.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+I Alzheimer's Association ma'nota na i kuentos gi grupo gi video siña ma'chatlo, ya ma'sugiere [ma'å'na'an i call](https://www.alz.org/help-support/caregiving/holidays) yan kosas kumo kanta pat ma'ahånao litråtu.
 
-## What activities work on a video call?
+## Hafa aktibidat ni siña gi video call?
 
-### Show and tell
+### Mamostra yan tatåtte
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Ma'ahånao hit gi tinaiguen. Ma'ufan i kamara dispatsao gi guinaiya, ma'pos i aso, ma'mamostra hafa ta kutina, ma'nå'i i drawing ni manngo'-ta, pat ma'fanhålom i telifon gi bentåna para mamaila'i i nieve. Ma'describe i ma'taitaiguen gi simple na palabra ya ma'sigi i silensio para u reaksiona. Ti nisisita pregunta.
 
-### Look at photos together
+### Mamirå litråtu huntos
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Ma'ahånao un litråtu ni antigu gi kamara, pat ma'comparte i pantalla para mamostra simple na litråtu dankolo, un-un. Ma'hasso hafa ta fa'nå'i: "Mira i kåppa Papa." Ti usa "Hayi esti?" pat "Manhasso hao?" Kuando i taotao ma'nå'an un taotao gi malåo na nåmbre, sigi i kuentos. Kao hu nisisita tinituhon? Ma'fanhalom i [reminiscence guide](/activities/reminiscence/).
 
-### Read aloud
+### Lalaga' gi halom
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Ma'lalaga' un simple na poema, un salmo, un litråtu ni manggaige pat un kottura para i nietu gi mismu call, un karta ginen familia, pat un pahina ginen un libro ni ma'ålåk i taotao. Ma'lalaga' gi halom ma'nå'i i taotao un kosa ni kalmao para ma'ahånao, sin nisisita u tuna.
 
-### Sing or listen to music together
+### Kanta pat ma'hånao musikå huntos
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Kanta un kanta ni manhasso mampos, pat tutuhon un plaka ni ma'ålåk gi hånao. Kanta huntos mas fácil kesi ki kuentos para manggaige na taotao. Ma'fanhalom i [music activities guide](/activities/music/).
 
-### Cook or bake at the same time
+### Kutina pat tuhon gi mismu oras
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+I Alzheimer's Association ma'sugiere planea un video call para kutina pat tuhon un espesiåt na recipe huntos. Ma'setup i call gi duos na kusina. I taotao gi lugåt siña ma'hånao pat ma'tonton kuando guiya ha' tuhon i recipe ni antigu.
 
-### Watch something together
+### Hånao un kosa huntos
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+I Association ma'sugiere, tumotuhon un pelikula ni ma'ålåk gi mismu oras ginen duos na guma' mientras manmakuentos gi telifon pat video. Para un taotao ni gai demensia, un mamanu na clip, un antigu TV episode pat un partidu ni ma'å'hånao siña mas maolek kesi un kuånto na pelikula.
 
-### Play a gentle game on a shared screen
+### Juega un simple na game gi pantalla
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Mamaseha na video call app ma'å'ina ni ma'comparte i pantalla. Ma'halom i game ya ma'tohon; i taotao ma'sasåonge pat ma'mamanu hafa na litråtu ni para u tohon. Pat i tinige gi lugåt ma'halom i mismu game gi tablet ya ma'tohon para i taotao mientras ti guiya ma'kuentos.
 
-Games that work well this way:
+Mañ'a na game ni maolek para esti:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** ma'lalaga' i fino' ni ma'å'ina, i taotao ma'sasåonge i fin, ya ma'sigi un kuentos.
+- **[Picture Pairs](/games/picture-pairs/):** un simple na matching game yan dankolo na litråtu ni siña sigi ma'å'ina, sin timer yan sin puntos.
+- **[Conversation Cards](/games/conversation-cards/):** un litråtu yan un abiérto na tema para hu kuentos huntos.
+- **[Photo Pairs](/games/photo-pairs/):** un matching game ni gaige yan litråtu ni manhahanao gi aparato. I litråtu sigi gi browser, ya i taotao ha' eppe' gi pantalla ni ma'comparte.
 
-### Recorded messages
+### Mensahe ni ma'rekotha
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Kuando i live call ti maolek, ma'rekotha un kottura video: un hinanao, un kanta, un pasiao gi guinaiya. I tinige siña ha' hu'nå gi mamanu na tiempo, kuantos biahi ni gusto i taotao. I Alzheimer's Association ma'nå'i ni ma'rekotha ya ma'manda i espesiåt na mamanu, kumo i famagu'on ni manhålang regalu.
 
-## What about plain phone calls?
+## Taiguini i telifon ni simple na call?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+I telifon sigi importante. I Dementia Australia ma'sugiere [ma'call gi mismu oras kada dia](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ya ti ma'apura, pot u ma'ås tiempo i taotao ni gai demensia para u ma'engage. Gi telifon:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Ma'nå'an ya ma'nå'i hafa hao gi sanhilo: "Hola Papa, Jenny yo', i tatalu-mu."
+- Ma'hålom i palabra, ma'mo'na na taitiningo, un idea gi tiempo.
+- Ma'nå'i noticia kesi ki pidi: "Umulek yo' gi recipe-mu i pot roast anoche."
+- Ma'lalaga' un simple na poema, pat un liña ni kanta ni ma'ålåk.
+- Ma'ahånao ya ma'fanhålom gi palabra ni kalmao.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+I Dementia Australia ma'nota na i video call siña ha' ma'ayuda kuando i kuentos manmamåte, pot i taotao siña ha' ma'ebidensia i kara-mu. Kuando i telifon call manmaskaohi, ma'å'chi i video, pat ha' tinituhon.
 
-## How do I set up a video call that works?
+## Kumo ha' setup un video call ni maolek?
 
-**Before the call:**
+**Antes i call:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Plånea un regular na tiempo** kuando i taotao ginen ma'fanpitåyi, ya sigi. I rutina ma'ayuda.
+2. **Hasso yan i tinige gi lugåt.** Un tekstu gi un dia antes ma'ayuda guiya para u plånea.
+3. **Chequea i aparato.** Un tablet gi standi mas fácil kesi un telifon ni ma'gåga' gi kamot. Ma'sigura na tiniHa'-ta i karga, brilliante i pantalla, ya ma'å'ongo i tinige. Ma'å'ina i captions kuando i app ma'chule ya i taotao manbisita lalaga'.
+4. **Plånea un aktibidat** ya ma'prepara todo.
 
-**During the call:**
+**Durante i call:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Ma'chålek i kamara** gi maolek na lusin, ma'kara gi bentåna ti ma'hånao i bentåna gi atrås-mu.
+- **Ma'nå'an hao mismo** kada biahi, gi nånan yan hafa hao gi sanhilo.
+- **Un taotao gi tiempo.** I Alzheimer's Association ma'nota na i kuentos ni manhuhumalålak mas mames para i taotao ni gai demensia yan taotao ni gai ma'linghu. Kuando manmakuentos mamamu na familia, ma'turnu pat sigi gi dos pat tres taotao.
+- **Un pregunta gi tiempo.** I Family Caregiver Alliance ma'sugiere [simple na pregunta ni ya pat ti ya](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), yan ma'mamostra i chinatlo kuando siña.
+- **Ma'å'ina i silensio.** Ma'espera i tinatanggåo. Maolek ha' sugiere un palabra kuando guiya ma'bungu.
+- **Usa i kara yan tinige-mu.** Ma'sånnan, ma'å'ongo, ya sigi i tinige kalmao. I ekspresion mas ma'å'ina kesi i palabra.
+- **Ti ma'kongiha.** Kuando i taotao ma'nå'i ti tinituhon na kosas, dehå.
 
-**Ending the call:**
+**Ma'ayuda i call:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Ma'chålek i call antes i taotao manmakansa, espesiåt gi mas altu na momento.
+- Ma'usa i mismu despidida kada biahi: "Yo' ha' tatiyi lunes gi lunch. Hu guaiya hao."
+- Ti ma'estira.
 
-## Tips for the helper on site
+## Konsehu para i tinige gi lugåt
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Kuando hao i asaga, aide, kapitåñu, pat staff ni manayuda i call, hao i ma'å'chi ni siña.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Setup un kalmao na lugåt.** Maisa i TV ya sanhalom i pottet.
+- **Hålom i call hao mismo,** despues ha' nå'i i taotao un tablet gi standi pat sosotta gi nivel i mata.
+- **Sinåta guiya, ti gi enfrente.** I presensia-mu ma'ayuda. Ma'nå'i ti ma'kongiha: "Mira, si Jenny esta."
+- **Hao i mås.** Ma'sostiene litråtu, ma'tohon i game, ma'turnu i tablet para ma'mamostra i kuttura.
+- **Ma'chule i kansa pat i ma'sinu,** ya ma'nå'i i caller kuando hu'ya ma'closa.
+- **Ma'nå'i i caller hafa maolek.** "Gai na'chule i aso" ma'ayuda ma'plånea i sigiente call.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+I NIA ma'sugiere i famagu'on ni distansia siña ma'ayuda un taotao ni mas dankolo para u [ma'aprende i features gi telifon](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), pareho ni video call. Gi mas despues na etappa, i tinige siña ha' hånao i aparato kompletu. Esto maolek.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Kuando i taotao gai gi care home, i Alzheimer's Foundation of America ma'sugiere pidi un nuebu na faciliti ma'ayuda familia yan video chat. I AFA ma'nota na familia manmanda litråtu yan staff gi care home, yan manmanda tinaitai snack pat kosas ni ma'ålåk, despues ma'chechek hafa ma'pamisu i faciliti.
 
-## What if the call doesn't go well?
+## Hafa si ti maolek i call?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Kakalu ni call manmalålak, ti maolek pat manmasaonge. Esto ti hao i kulpa, ya ti ha' sinasagua ti ma'ålåk i call.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Kuando i taotao manmasaonge gi pantalla, cho'gue un telifon call pat un video mensahe.
+- Kuando manmasaonge, ma'tulaika i sentemiento, ma'nå'i palabra ni ma'å'ongo, ya ma'closa kalmao.
+- Kuando i call manmaskaohi gi un espesiåt na tiempo, sungon un otro tiempo.
+- Kuando i taotao ha' sigi na hao un otro taotao, sigi kalmao.
 
-It is fine to end early. A short, warm call is a good outcome.
+Maolek na ma'closa mas tempranu. Un ma'å'ina na call ya maolek na resulta.
 
-## Between calls
+## Entre i call
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Sigi presente gi otro manera. I Dementia Australia ma'sugiere ma'manda karta, koreo, litråtu, pat ayuda ginen regalu. Un postcard kada simana yan un dankolo na litråtu yan un ma'å'ina na nota siña ma'lalaga' ya ma'lalaga' ginen. I ma'print ni [conversation cards](/games/conversation-cards/) ni ma'manda para i tinige siña ma'nå'i un tema para i sigiente call.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Para konsehu put ma'chule yan ma'setup un tablet, ma'fanhalom i [tablets and screens](/caregiving/tablets-and-screens/). Para tiempo gi lugåt, ma'fanhalom i gaige na guia [visiting](/activities/visiting/).

@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Oberiantizoù strollad evit an demañs"
+seoTitle: "Oberiantizoù evit an demañs: bingo, kanaouennoù, istorioù"
+description: "Oberiantizoù strollad evit soin e kreiz an demañs: bingo gant skeudennoù, kanaouennoù, strolladoù soñj, ha tippoù evit lakaat an dud en-dro."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Ar strolladoù mat e soin an demañs hag e kreizennoù deiz a zo berr, anavezet
+  ha aes da gemer perzh ennañ, nebeutoc'h pe nebeut. Bingo gant skeudennoù,
+  kanaouennoù, strolladoù soñj, obererezhioù distro ha gêmoù gerioù a-stroll.
+  Gwelloc'h eo strolladoù bihan m'hoc'h gallout. Lakait an dud en-dro ma c'hallint
+  gwelet ha klevet, roit un dra ur wech, hag aozit ur plas digalm evit an hini a
+  fell dezhañ mont kuit.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Strolladoù bihan a vez aesoc'h alies eget un abadenn bras, hag a laka muioc'h a dud da gemer perzh ervat e-lec'h nemet sellet."
+  - "Lakait an dud en ur c'helc'h pe ur c'hoarzhell, tost d'ar renerez, gant soñj d'ar gwelet hag ar c'hlevet, ha pellgomzoù pe kanaouennoù d'ober distag."
+  - "Kinnigit an oberiantiz war daou pe tri live, evit ma c'hallo an holl kemer perzh."
+  - "Arabat kwiziñ, notennañ pe lakaat tud da dapout. Gallout a ra bingo gant skeudennoù bezañ aozet evit ma vo kartenn leun evit an holl."
+  - "Mont kuit a-raok an amzer, sellet pe kousket a zo mat. Kavit ur skoazeller prest da sikour an hini a fell dezhañ ur plas digalm."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Petra eo ur strollad mat evit oberiantizoù an demañs?"
+    a: "N'eus niver reizh ebet, hag a-stroll ouzh an dud, ar lec'h hag an nifer a labourerien. Kavet a ra meur a skipailh e vez aesoc'h strolladoù bihan evit ma c'hall an holl gwelet, klevet ha kemer perzh, ha ma vez muioc'h a dud o sellet pa vez an abadenn e ur gontell bras. Ma'z eo ur bodadeg bras, ouzhpennit labourerien pe dileuriz a c'hall azezañ e-kreiz an dud ha sikour un den pe daou an hini."
+  - q: "Penaos e rin ur strollad gant abilelezhioù disheñvel?"
+    a: "Kinnigit daou pe tri doare kemer perzh evit pep oberiantiz. E ur ganaouenn, emichañs a gan an holl ar gerioù, re all a zorn pe a grib, ha re all a zalc'h ur c'hraonenn. E bingo gant skeudennoù, re a gav o skeudennoù o-unan, ha re all a vez sikouret gant un den a ziskouez dezho. Azezit an dud a zo ezhomm a skoazell tost d'ur skoazeller pe d'ur dileuriz."
+  - q: "Penaos e rin bingo gant skeudennoù hep bezañ kevrinus?"
+    a: "Galvit pep skeudenn betek ma vez leun kartenn an holl, evit n'eus den ebet o chom a-gostez. Komzit diwar-benn pep skeudenn pa zeu, ha na roit ket priz d'an hini a dapo, pe roit an hevelep dra bihan d'an holl. An dra pennañ eo ar sellet boas hag ar gomzoù, n'eo ket piv a echu kentañ."
+  - q: "Gallout a ran ober gant hor c'hêmoù war ur sgrin bras e ur strollad?"
+    a: "Ya. Ar c'hêmoù a vont en ur merdeer web, ha gallout a rit digeriñ anezho war ur urzhiataer pe ur tablezenn kevreet d'ur vro-skramm pe ur projektor. Bingo gant skeudennoù a zo gantañ kartennoù da argraffañ ha galver war ar skramm. Finish the Saying ha Picture Pairs a glot ivez war ur sgrin bras, gant unan a bok evit an holl."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ar pajenn-mañ a zo evit renerien an oberiantizoù, ar skipailhoù soin an demañs ha renerien ar c'hreizennoù deiz. Kavet a reer ynel ar strolladoù a dalv, penaos aozañ ar gambr, penaos addasortiñ un oberiantiz unan evit abilelezhioù disheñvel, ha penaos implijout hor bingo skeudennoù da argraffañ ha hor c'hêmoù war ur sgrin bras. Holl a vez sellet ouzh an eeunded, ar c'henstrivadur ha an dibab. Netra amañ n'eo un test.
 
-## What makes a group activity work in memory care?
+## Petra a ra ur strollad a vont mat e soin an demañs?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Un oberiantiz strollad a vez anavezet, berr, aes da gemer perzh ennañ, pe ar live zo, ha hep pouez ebet. Notenn [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) Kevredigezh Alzheimer a ziskouez e vez ur gemerezh talvoudus pa skor an dra a blij d'un den hag a rento an dibab hag ar gwellañ, ha pa vez an demañs boutin-tre. An notenn-se a ziskouez ivez e vez alies lakaet ar priz war un abadenn bras pe daou dro dre zevezh, m'emaint an dud o sellet hepken.
 
-That points to a few practical rules:
+Setu roll a reolennoù pleustr:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Gwelloc'h eo an traoù anavezet eget an traoù nevez.** Kanaouennoù, gerioù-stur, skeudennoù ha traoù eus yaouankiz an dud a zo aesoc'h da gemer perzh ennañ.
+- **Berr a bleg ouzh hir.** Kemerit evezh a bad a-vremañ ar strollad, ha lakait ur plas evit echuiñ hanter-ffordd.
+- **Ober a bleg ouzh sellet.** Roit da bep den un dra da zal, da bok, da zibab pe da lavarout.
+- **Lod live, unan oberiantiz.** Lakait tro aesoc'h ha tro dioutoc'h evit kemer perzh.
+- **Na tennerien, na notennoù.** Ar stummoù kevrinus a laka keit a dud da santout ez int bet fazi.
 
-## How big should the group be?
+## Pegen bras e dlefe bezañ ar strollad?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Nebeutoc'h a vez aesoc'h da vezañ. Kevredigezh Alzheimer a notenn e c'hall un den a gav ur strollad bras a-walc'h e vez aesoc'h dezhañ kenstrivañ gant ur strollad bihanoc'h. N'eus niver reizh ebet. Dibenn a zo en emdroadur an dud, ar lec'h hag an nifer a labourerien ha dileuriz a zo.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Un tres evit gouzout: ar re oll a c'hall gwelet farlu ar renerez, klevet mat, ha bezañ tizhet gant ur skoazeller e-barzh un nebeud eilennoù? Ma ne c'hall ket, rannit ar strollad, ouzhpennit skoazellerien, pe kit d'ur gambr bihanoc'h.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Evit ur bodadeg bras, evel ur c'honsert nedeleziel, azezit ar skoazellerien hag ar re nevez-gemer e-kreiz an dud, ha n'int ket war-zu ar gorre.
 
-## How should I set up the room and seating?
+## Penaos aozañ ar gambr hag ar plasoù?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Kelc'h pe c'hoarzhell.** Ar c'hemennadennoù a laka an oberiantiz gant ur c'helc'h pe ur c'hoarzhell evit ma vefe ur soñj kenstrivadur. Kanaouennoù ha kenstrivadur a zo gwelloc'h gant ur c'helc'h.
+- **Renerez tost ha war wel al lagad.** Azezit p'ho po aes, na sav ket.
+- **Klev hag gwel a-raok pep tra.** Azezit an dud a zo fallañ o klev tost d'ar renerez, war o zu gwellañ. Gwiriit e vez ar gwiderioù ha ar skeudennoù-klev gwisket. Kevredigezh Alzheimer a ziskouez e c'hall fallañ ar gwel hag ar c'hlev ar c'hengomz.
+- **Sklaerijenn a-dreñv an dud, n'eo ket a-dreñv ac'hanoc'h.** Arabat azezañ an dud en-dro d'ur prenestr sklaer.
+- **Diskouezit ar bellgomzer ha ar radio.** Kevredigezh Alzheimer a lak da vezañ ret kuitaat ar son all pa vez ober gant ar sonerezh.
+- **Ur gomz an amzer.** Ar c'hengomz diaes a zo evit an dud o vevañ gant an demañs hag an dud a fall o klev, evel a ziskouez Kevredigezh Alzheimer en he [notenn evit ar goulennoù](https://www.alz.org/help-support/caregiving/holidays).
+- **Dibennoù digor ha ur c'horn digalm.** An hini a fell dezhañ mont kuit a rank gallout ober se aes, gant ur skoazeller da gerzhout ganti.
 
-## Group activity ideas
+## Dibabadoù oberiantizoù strollad
 
-### Picture bingo
+### Bingo gant skeudennoù
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo gant skeudennoù a laka skeudennoù sklaer e-lec'h an niverennoù, evel un tealvezh, ur c'hi pe ur rozenn, evit ne vo ket ret da heuliañ un niver hir na da lenn an destenn bihan.
 
-**How to run it:**
+**Penaos e ren anezhi:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Argraffit ur gartenn dre zen eus [Bingo gant skeudennoù](/games/picture-bingo/) gant ar bouton Argraffañ. Paper dienn a zo aesoc'h da zalc'h. Gallout a rit ober ur gwiskad e-lec'h da implijout en-dro.
+2. Roit markerioù bras aes da zalc'h, evel disk ar pokerenn, kab botellennoù pe karrezennoù kartenn.
+3. Implijit ar galver war ar skramm war ur bannel pe ur projektor, evit ma wel an holl ar skeudenn pa lavarit hec'h anv.
+4. Ehanit ouzh pep skeudenn ha pedit un evezhiadenn berr: "Ha zo unan bennak a fell dezhañ komz deomp eus ur c'hi en deus anavezet?" pe "Petra a welit en hemañ?"
+5. Galvit betek ma vez leun pep kartenn. An holl a echu.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Addasañ:** Implijit nebeutoc'h a garrezennoù evit an dud a gav ur gartenn leun re c'hoant-kaer. Ur skoazeller a c'hall diskouez ar skeudenn heñvel d'un den a rank. Un nebeud dud a zo c'hoant dalc'hañ kartenn ar galver hag he diskouez d'ar strollad.
 
-### Sing-alongs
+### Kanaouennoù
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Ar sonerezh a zo unan eus an oberiantizoù strollad muiañ karet. Kevredigezh Alzheimer a notenn e c'hall un den, hyd e-kerzh ar staj diwezhañ, [taolenniñ ur mell pe kanaouenniñ ur ganaouenn eus e vugale](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Penaos e ren anezhi:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Dibabit kanaouennoù a zo bet kreskiet gant an dud, ha n'eo ket dibab ho ker. Goulennit gant an familh pe a blij d'an den.
+- Implijit sonerezh hep reklamoù, a notenn Kevredigezh an dra-se a c'hall bezañ dic'hortoz.
+- Argraffit ar gerioù gant lizherennoù bras evit an dud a lenn, met arabat ober ezhomm ouzh an holl.
+- Kinnigit shakers, tamborinoù dorn pe lien evit chwifañ.
+- Lakait an dud da zornskeiñ ha da ziwall, ha miret ar c'hreizder kempenn.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Addasañ:** Un nebeud dud a gano pep gerioù, re all a hum, re all a skiltr gant ur fri, ha re all a glevo nemet. Holl a vez kontet. Sellit ouzh [hor pajenn oberiantizoù sonerezh](/activities/music/) evit muioc'h.
 
-### Reminiscence groups
+### Strolladoù soñj
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Ur strollad soñj a vez strollet a-dro d'un dra, evel bloavezhioù ar skol, ar c'harrigoù kentañ, ar gegin pe an hañv, en ur implijout skeudennoù, traoù ha sonerezh. An dra vennet eo ar gomzoù plijus, ha n'eo ket gouzout ar pezh a zo bet en-dro.
 
-**How to run it:**
+**Penaos e ren anezhi:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Dibabit un dra ha degasit un nebeud traoù a c'hall an dud zalc'h: ur mikser dorn, ur gaosk bazeball, ur chapell, ur c'hatalog hadoù.
+2. Tremenit un dra ur wech. Goulennit goulennoù digor: "Komzit deomp diwar-benn an dra-mañ", "Petra a welit ennañ?" "Piv a implijas ur batrom evel-se?"
+3. Degemerit pep respont. Arabat reizhañ ur deiziad pe ur fed ebet.
+4. Kasit ar gomz tuioù a zo plijus. Kevredigezh a ginnig ivez e zlefe ar skipailh herzel ar strolladoù soñj war soñjoù plijus, ha ket war re a c'hall kas an dud d'ar boan.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) a ro kartennoù skeudenn da argraffañ gant goulennoù digor dre dapad, a zo aes da zerc'hel ar gomzadenn. Muioc'h a ideoù a zo en hor [pajenn strolladoù soñj](/activities/reminiscence/).
 
-### Finish the saying
+### Finish the Saying
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Lavarioù anavezet ("Ur gourlennad enklaset zo ur gourlennad tapet...") a bed an holl da lavarout pennad ar frazenn asambl. Diskouezit [Finish the Saying](/games/finish-the-saying/) war ur sgrin bras ha lakait ar strollad da respont gant unan a ne vez ur mell pezh-ouzh-pezh. Ur goulenn da gomz a zo goude pep lavar. Ma ne lavar den ebet pennad ar frazenn, diskouezit hi ha kit war-raok. N'eus ket a reizh na a fazi.
 
-### Large-print word search, together
+### Word Search gant litreoù bras, asambl
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Diskouezit ar [Word Search](/games/word-search/) gant litreoù bras war ur sgrin ha klaskit gerioù asambl, pe argraffit adskrivadennoù evit an dud a blij dezho labourat en-o-unan war ar taol. Ar gerioù a vez dre an tu bras hag en-tu-bras hepken.
 
-### Gentle movement
+### Lodennoù foutan
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Dornskeiñ ar c'horf en ur azezañ, treuzkas ur bal bleo pe ur balon, pe dornskeiñ e-kreiz ar c'hadoù gant ur sonerezh anavezet. Diskouezit pep lodenn, arabat e ziskrivañ hepken.
 
-### Sorting and matching at the table
+### Diurzhiañ hag heñvelaat war an taol
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Taolioù bihan a dri pe peder den a c'hall diurzhiañ skeudennoù, lodennoù lien pe kujennoù, asambl. War ar sgrin, [Picture Pairs](/games/picture-pairs/) a c'hall bezañ c'hoariet gant ar skeudennoù gwelet, gant unan a bok ouzh an trell ha ma komz an taol diwar-benn pep skeudenn.
 
-## How do I use your games on a big screen?
+## Penaos implijout ar c'hêmoù war ur sgrin bras?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ar c'hêmoù a vont en ur merdeer web, ha gallout a rit ober anezho war ur bannel pe ur projektor hep staliañ netra.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Digeriñ ar c'hêm war ur urzhiataer pe ur tablezenn kevreet d'ar sgrin dre gordenn pe dre skignañ.
+2. Lakait ar merdeer da vezañ war an tro a-bezh hag ar son en ul live a glot.
+3. Lakait ur renerez da bokat ouzh an trell ha ma kas ar strollad an dibaboù. Pe tremenit ur tablezenn d'un den a fell dezhañ tro.
+4. Chomit pa vez paket an holl. Ar c'hêmoù n'o deus amzer, notenn na echuadur pennet.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Bingo gant skeudennoù](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) ha [Conversation Cards](/games/conversation-cards/) a glot gant ar strolladoù ar muiañ. Gwelit an holl dibaboù war hor [pajenn c'hêmoù](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Penaos addasañ un oberiantiz evit abilelezhioù disheñvel?
 
-Plan at least three ways to join every activity.
+Kavit d'an nebeutañ tri doare kemer perzh evit pep oberiantiz.
 
-| Activity | More independent | Some support | Most support |
+| Oberiantiz | Muioc'h a emsavadur | Skoazell bennak | Skoazell bras |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo gant skeudennoù | Kav ha kuzh e skeudennoù e-unan | Ur skoazeller a ziskouez; an den a guzh | Dalc'hañ ur gartenn skeudenn; selaouiñ ha sellet |
+| Kanaouenn strollad | Kanaouenniñ an holl ar gerioù, dibab ar ganaouenn war-lerc'h | Humañ, dornskeiñ, ober gant ur shaker | Selaouiñ, dalc'hañ ur sall, lakaat ur dorn |
+| Strolladoù soñj | Kontañ istorioù | Respont ya pe ne, pe diskouez | Dalc'hañ ha santout an dra |
+| Word Search | Labourat war e baper argraffet | Kavout gerioù war ar sgrin bras gant ur skoazeller | Selaouiñ pa vez lennet ar gerioù |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Evit an dud en derez, an NHS a notenn e vez ret fal ober oberiantizoù simploc'h a ya muioc'h war ar sentidi, evel ar sonerezh, traoù da bignat ha dornskeiñ an dorn. Ur mare un-ha-unan, a-vremañ pe goude ar strollad, a c'hall bezañ gwelloc'h evito eget ar strollad e-unan. Sellit ouzh [oberiantizoù an derez diwezhañ](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Penaos e tlefe ar renerien komz e-pad ur strollad?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Hec'h hunañ bep gwech, ha implijit anv an den evel ma fell dezhañ.
+- Komzit gant lentidigezh, roit unan pazenn ur wech, ha diskouezit a-raok lavarout.
+- Goulennit gant pedadoù digor ("Komzit deomp diwar-benn...") pe dibaboù simpl, arabat goulennoù kwiz ("Ho peus soñj eus...?").
+- Arabat reizhañ. Trugarekait evit pep tamm kenstrivadur.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Muioc'h a ziwar-benn a zo en hor [tiegezh kenstrivadur](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Echuiñ mat, ha lezel an dud da vont kuit
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Echuiñ a zo ur benn mat. Sellit ouzh an arouezioù a ziskouez e vez skuizh, diaes pe kounnaket ur den, ha kinnigit dezhañ ur valeadenn pe ur sav digalm a-bell. Un den a gousk e-pad ur ganaouenn a c'hall bezañ n'eo nemet ma'z eo aes dezhañ.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Serriñ pep strollad evel-henn, gant ur ganaouenn anavezet pe ur trugarekaad berr, evit ma vefe an echuiñ digalm ha dic'hortoz. Goude, skrivit un nebeud diwar-benn an traoù a ya mat hag an hini a blij dezhañ pep tra. An notennoù-se a laka an strollad a zeu goude gwelloc'h.

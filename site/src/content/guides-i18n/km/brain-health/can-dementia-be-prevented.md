@@ -1,35 +1,34 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "តើអាចការពារជំងឺវង្វេងបានទេ? អ្វីដែលការស្រាវជ្រាវបង្ហាញ"
+seoTitle: "តើអាចការពារជំងឺវង្វេងបានទេ? អ្វីដែលការស្រាវជ្រាវបង្ហាញ"
+description: "អ្វីដែលគណៈកម្មការលង់ដ៍ឆ្នាំ 2024 និងការសាកល្បងធំៗបានរកឃើញអំពីការបន្ថយហានិភ័យជំងឺវង្វេង អ្វីដែលមិនទាន់បញ្ជាក់ និងជំហានដែលគួរពិភាក្សាជាមួយវេជ្ជបណ្ឌិត។"
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  គ្មាននរណាម្នាក់អាចសន្យាថានឹងការពារជំងឺវង្វេងបានទេ។ គណៈកម្មការលង់ដ៍ឆ្នាំ 2024 បានប៉ាន់ស្មាន
+  ថាករណីជំងឺវង្វេងស្ទើរតែពាក់កណ្តាលនៅទូទាំងពិភពលោក មានទំនាក់ទំនងជាមួយកត្តាហានិភ័យ 14
+  ដែលអាចផ្លាស់ប្តូរបាន ដូចជាសម្ពាធឈាមខ្ពស់ ការបាត់បង់ការស្តាប់ និងការមិនសកម្ម។
+  ការសាកល្បងបង្ហាញឥទ្ធិពលតិចតួចលើការធ្វើតេស្តគិត មិនមែនជាភស្តុតាងថាមានករណីជំងឺវង្វេងតិចลงទេ។
+  មនុស្សជាច្រើនដែលធ្វើអ្វីៗគ្រប់យ៉ាងបាន “ត្រឹមត្រូវ” នៅតែអាចមានជំងឺវង្វេងបាន ហើយនេះមិនមែនជាកំហុសរបស់នរណាម្នាក់ទេ។
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "គណៈកម្មការលង់ដ៍ឆ្នាំ 2024 បានបង្ហាញថាករណីជំងឺវង្វេងប្រហែល 45% នៅទូទាំងពិភពលោក មានទំនាក់ទំនងជាមួយកត្តាហានិភ័យ 14 ដែលអាចផ្លាស់ប្តូរបាន។ នេះជាការប៉ាន់ស្មានសម្រាប់ប្រជាជនទាំងមូល មិនមែនជាការធានាសម្រាប់បុគ្គលណាម្នាក់ទេ។"
+  - "ការបន្ថយហានិភ័យមានន័យថាការបន្ថយលទ្ធភាពក្នុងប្រជាជនទាំងមូល។ វាមិនមានន័យថាបុគ្គលណាម្នាក់អាចជៀសវាងជំងឺវង្វេងបានទេ។"
+  - "ការសាកល្បងធំៗដូចជា FINGER, US POINTER និង SPRINT MIND បានរកឃើញអត្ថប្រយោជន៍តិចតួចលើការធ្វើតេស្តគិត ឬលើការថយចុះនៃសមត្ថភាពគិតស្រាល ប៉ុន្តែគ្មានការសាកល្បងណាមួយបញ្ជាក់ថាកម្មវិធីរបៀបរស់នៅអាចការពារជំងឺវង្វេងបានទេ។"
+  - "អាយុគឺជាកត្តាហានិភ័យធំបំផុតដែលគេស្គាល់សម្រាប់ជំងឺអាល់ហ្សៃមឺ ហើយមិនអាចផ្លាស់ប្តូរបានទេ។ មនុស្សជាច្រើនដែលមានទម្លាប់ល្អនៅតែអាចមានជំងឺវង្វេងបាន។"
+  - "ជំហានដែលត្រូវបានសិក្សាច្រើនបំផុត ដូចជាការព្យាបាលសម្ពាធឈាមខ្ពស់ ការប្រើឧបករណ៍ជំនួយការស្តាប់ និងការរក្សាសកម្មភាព គួរត្រូវបានពិភាក្សាជាមួយវេជ្ជបណ្ឌិត ព្រោះវាមានប្រយោជន៍សម្រាប់សុខភាពផ្នែកផ្សេងទៀតផងដែរ។"
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "តើអាចការពារជំងឺវង្វេងបានទេ?"
+    a: "មិនមានវិធីដែលបានបញ្ជាក់ថាអាចការពារជំងឺវង្វេងសម្រាប់បុគ្គលណាម្នាក់បានទេ។ ការស្រាវជ្រាវបង្ហាញថាការបន្ថយហានិភ័យមួយចំនួន ដូចជាសម្ពាធឈាមខ្ពស់ ការបាត់បង់ការស្តាប់ដែលមិនបានព្យាបាល និងការជក់បារី អាចបន្ថយឱកាសនៃជំងឺវង្វេងក្នុងប្រជាជនទាំងមូល ឬពន្យារពេលដែលវាចាប់ផ្តើម។ ទាំងនេះគ្រាន់តែជាលទ្ធភាព មិនមែនជាការសន្យាទេ។"
+  - q: "តើលេខ 45% ពីគណៈកម្មការលង់ដ៍មានន័យដូចម្តេច?"
+    a: "គណៈកម្មការលង់ដ៍ឆ្នាំ 2024 បានប៉ាន់ស្មានថាករណីជំងឺវង្វេងប្រហែល 45% នៅទូទាំងពិភពលោក មានទំនាក់ទំនងជាមួយកត្តាហានិភ័យ 14 ដែលតាមទ្រឹស្តីអាចផ្លាស់ប្តូរបាន។ ការប៉ាន់ស្មាននេះសន្មត់ថាកត្តាទាំងនោះបង្កឱ្យមានជំងឺវង្វេង ហើយអ្នកនិពន្ធក៏បានកត់សម្គាល់ថាទំនាក់ទំនងមួយចំនួនអាចជាមូលហេតុតែផ្នែកខ្លះប៉ុណ្ណោះ។ វាពណ៌នាអំពីប្រជាជនទាំងមូល ហើយមិនអាចប្រាប់ពីហានិភ័យរបស់បុគ្គលណាម្នាក់បានទេ។"
+  - q: "ប្រសិនបើឪពុកម្តាយរបស់ខ្ញុំមានរបៀបរស់នៅដែលមានសុខភាពល្អ ហេតុអ្វីបានជាទោះជាយ៉ាងណាពួកគាត់នៅតែមានជំងឺវង្វេង?"
+    a: "អាយុ ហ្សែន និងកត្តាជាច្រើនដែលគ្មាននរណាគ្រប់គ្រងបាន មានឥទ្ធិពលធំចំពោះជំងឺវង្វេង។ អ្នកនិពន្ធនៃគណៈកម្មការលង់ដ៍បានកត់សម្គាល់ថាការបន្ថយហានិភ័យក្នុងប្រជាជនទាំងមូល មិនធានាថាបុគ្គលណាម្នាក់នឹងជៀសវាងជំងឺវង្វេងបានទេ។ ការធ្វើរោគវិនិច្ឆ័យមិនមែនជាសញ្ញាថានរណាម្នាក់បានបរាជ័យនោះទេ។"
+  - q: "តើវាយឺតពេលហើយឬនៅក្នុងការបន្ថយហានិភ័យជំងឺវង្វេងបន្ទាប់ពីអាយុ 65 ឆ្នាំ?"
+    a: "គណៈកម្មការលង់ដ៍បញ្ជាក់ថាមិនដែលមានពេលមុនពេល ឬយឺតពេលពេកក្នុងការបន្ថយហានិភ័យនោះទេ ទោះបីភស្តុតាងភាគច្រើនទាក់ទងនឹងវ័យកណ្តាលក៏ដោយ។ ការព្យាបាលបញ្ហាការស្តាប់ និងការមើលឃើញ ការរក្សាសកម្មភាព និងការរក្សាទំនាក់ទំនងជាមួយអ្នកដទៃ គឺជាឧទាហរណ៍នៃជំហាននៅវ័យចំណាស់ដែលត្រូវបានសិក្សា។ សូមពិភាក្សាជាមួយវេជ្ជបណ្ឌិតអំពីអ្វីដែលសាកសមនឹងសុខភាពរបស់អ្នក។"
+  - q: "តើល្បែងលំហាត់ខួរក្បាល ឬរបបអាហារពិសេសអាចការពារជំងឺវង្វេងបានទេ?"
+    a: "គ្មានល្បែង អាហារ អាថ៌កំបាំង ឬរបបអាហារណាមួយត្រូវបានបញ្ជាក់ថាអាចការពារជំងឺវង្វេងបានទេ។ ការសាកល្បងរយៈពេលបីឆ្នាំលើរបបអាហារ MIND មិនបានរកឃើញភាពខុសគ្នាយ៉ាងមានន័យលើសមត្ថភាពគិត បើប្រៀបធៀបទៅនឹងរបបអាហារគ្រប់គ្រងទេ ហើយកម្មវិធីលំហាត់ខួរក្បាលពាណិជ្ជកម្មក៏មិនត្រូវបានបង្ហាញថាមានឥទ្ធិពលដូចក្នុងការសាកល្បងស្រាវជ្រាវដែរ។"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +62,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+ប្រសិនបើអ្នកកំពុងថែទាំមនុស្សដែលរស់នៅជាមួយជំងឺវង្វេង ឬអ្នកធ្លាប់បានឃើញឪពុកម្តាយរស់នៅជាមួយជំងឺនេះ អ្នកប្រហែលជាធ្លាប់ឆ្ងល់ថាតើវាអាចត្រូវបានបញ្ឈប់បានដែរឬទេ ហើយតើអ្នកអាចបញ្ឈប់វាមិនឱ្យកើតឡើងចំពោះខ្លួនអ្នកបានដែរឬទេ។ ទំព័រនេះបង្ហាញពីអ្វីដែលការស្រាវជ្រាវបានរកឃើញពិតប្រាកដ ដោយប្រើភាសាសាមញ្ញ។ ចម្លើយខ្លីគឺ៖ គ្មាននរណាម្នាក់អាចសន្យាថានឹងការពារជំងឺវង្វេងបានទេ ប៉ុន្តែការស្រាវជ្រាវបង្ហាញថាហានិភ័យមួយចំនួនអាចត្រូវបានបន្ថយ ហើយការបន្ថយហានិភ័យទាំងនោះក្នុងប្រជាជនទាំងមូលអាចមានន័យថាមនុស្សតិចជាងមុនអាចមានជំងឺវង្វេង ឬអាចមានវានៅពេលក្រោយជាងមុន។
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+នេះជាព័ត៌មានទូទៅ មិនមែនជាដំបូន្មានវេជ្ជសាស្ត្រទេ។ សូមអាន[ការបដិសេធផ្នែកវេជ្ជសាស្ត្រ](/medical-disclaimer/)របស់យើង ហើយពិភាក្សាជាមួយវេជ្ជបណ្ឌិតអំពីសុខភាពរបស់អ្នក។
 
-## Can dementia be prevented?
+## តើអាចការពារជំងឺវង្វេងបានទេ?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+មិនមានវិធីដែលបានបញ្ជាក់ថាអាចការពារជំងឺវង្វេងសម្រាប់បុគ្គលណាម្នាក់បានទេ។ វិទ្យាស្ថានជាតិស្តីពីភាពចាស់ (NIA) បញ្ជាក់ថាទោះបីជា[មិនទាន់មានអ្វីត្រូវបានបញ្ជាក់ថាអាចការពារជំងឺអាល់ហ្សៃមឺបានទេ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ក៏ដោយ អ្នកស្រាវជ្រាវបានរកឃើញយុទ្ធសាស្ត្រដែលមានសក្តានុពល ហើយកំពុងស្វែងយល់ពីអ្វីដែលអាចមានប្រសិទ្ធភាព និងអ្វីដែលមិនមានប្រសិទ្ធភាព។
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+អ្វីដែលការស្រាវជ្រាវ*បាន*បង្ហាញគឺថាលក្ខខណ្ឌសុខភាព និងទម្លាប់មួយចំនួនមានទំនាក់ទំនងជាមួយឱកាសខ្ពស់នៃការមានជំងឺវង្វេង។ នៅពេលដែលហានិភ័យទាំងនោះទាបជាងមុនក្នុងប្រជាជនទាំងមូល មនុស្សអាចមានជំងឺវង្វេងតិចជាងមុន ឬអាចមានវានៅពេលក្រោយជាងមុនក្នុងជីវិត។ នេះខុសពីការធានាទាំងស្រុង។
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+សញ្ញាមួយដែលផ្តល់ក្តីសង្ឃឹម៖ គណៈកម្មការលង់ដ៍ឆ្នាំ 2024 បានរាយការណ៍ថានៅក្នុងប្រទេសដែលមានប្រាក់ចំណូលខ្ពស់មួយចំនួន រួមទាំងសហរដ្ឋអាមេរិក និងចក្រភពអង់គ្លេស ផ្នែករបស់មនុស្សវ័យចំណាស់ដែលមានជំងឺវង្វេងបានថយចុះ។ អ្នកនិពន្ធគិតថានេះប្រហែលជាមកពីការអប់រំប្រសើរជាងមុន ការថែទាំសុខភាពប្រសើរជាងមុន និងការខូចខាតតិចជាងមុនចំពោះសរសៃឈាមពេញមួយជីវិត តាម[សេចក្តីសង្ខេបរបាយការណ៍របស់ University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)។
 
-## What did the 2024 Lancet Commission find?
+## តើគណៈកម្មការលង់ដ៍ឆ្នាំ 2024 បានរកឃើញអ្វីខ្លះ?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+គណៈកម្មការលង់ដ៍ស្តីពីការការពារ ការធ្វើអន្តរាគមន៍ និងការថែទាំជំងឺវង្វេង គឺជាក្រុមអ្នកស្រាវជ្រាវជំងឺវង្វេងចំនួន 27 នាក់ ដែលពិនិត្យភស្តុតាងរៀងរាល់ពីរបីឆ្នាំម្តង។ របាយការណ៍ឆ្នាំ 2024 របស់ពួកគេបានចែងអំពី**កត្តាហានិភ័យ 14** ដែលអាចផ្លាស់ប្តូរបាន ហើយបានប៉ាន់ស្មានថារួមគ្នាវាមានចំណែកប្រហែល**ពាក់កណ្តាល (ប្រហែល 45%) នៃករណីជំងឺវង្វេងនៅទូទាំងពិភពលោក**។ តាមពាក្យរបស់អ្នកនិពន្ធ ករណីទាំងនេះ*តាមទ្រឹស្តី*អាចត្រូវបានការពារ ឬពន្យារពេល ប្រសិនបើហានិភ័យទាំងនោះត្រូវបានដកចេញ([របាយការណ៍គណៈកម្មការលង់ដ៍ឆ្នាំ 2024](https://doi.org/10.1016/S0140-6736(24)01296-0))។
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+កត្តាទាំង 14 ត្រូវបានចាត់តាមដំណាក់កាលនៃជីវិតដែលភស្តុតាងខ្លាំងបំផុត៖
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **វ័យកុមារ៖** ការមានការអប់រំតិច។
+- **វ័យកណ្តាល (ប្រហែលអាយុ 40 ដល់ 65 ឆ្នាំ)៖** ការបាត់បង់ការស្តាប់ កូឡេស្តេរ៉ុល LDL («អាក្រក់») ខ្ពស់ ជំងឺធ្លាក់ទឹកចិត្ត ការរងរបួសក្បាល ការមិនសកម្មខាងរាងកាយ ជំងឺទឹកនោមផ្អែម ការជក់បារី សម្ពាធឈាមខ្ពស់ ភាពធាត់ និងការផឹកស្រាច្រើនពេក។
+- **វ័យចំណាស់៖** ការឃ្លាតឆ្ងាយពីសង្គម ការបំពុលខ្យល់ និងការបាត់បង់ការមើលឃើញដែលមិនបានព្យាបាល។
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+កត្តាថ្មីពីរដែលបានបន្ថែមក្នុងឆ្នាំ 2024 គឺកូឡេស្តេរ៉ុល LDL ខ្ពស់ និងការបាត់បង់ការមើលឃើញដែលមិនបានព្យាបាល។ កត្តាដែលមានទំនាក់ទំនងជាមួយចំណែកធំបំផុតនៃករណីគឺការបាត់បង់ការស្តាប់ និងកូឡេស្តេរ៉ុល LDL ខ្ពស់ (ប្រហែល 7% រៀងៗខ្លួន) បន្ទាប់មកគឺការមានការអប់រំតិច និងការឃ្លាតឆ្ងាយពីសង្គម (ប្រហែល 5% រៀងៗខ្លួន)។
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[មគ្គុទ្ទេសក៍អំពីកត្តាហានិភ័យ](/brain-health/risk-factors/)របស់យើងពន្យល់អំពីកត្តាទាំង 14 ក្នុងតារាងមួយ ដោយបង្ហាញពីអ្វីដែលការស្រាវជ្រាវបានភ្ជាប់ និងអ្វីដែលអ្នកអាចធ្វើបាន។
 
-### What the 45% figure does not mean
+### តើលេខ 45% មិនមានន័យដូចម្តេច
 
-It is easy to misread this number, so it helps to be precise:
+លេខនេះងាយនឹងត្រូវបានយល់ខុស ដូច្នេះវាមានប្រយោជន៍ក្នុងការពន្យល់ឱ្យច្បាស់៖
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **វាជាការប៉ាន់ស្មានសម្រាប់ប្រជាជនទាំងមូល។** វាពណ៌នាអំពីករណីជំងឺវង្វេងនៅទូទាំងពិភពលោក មិនមែនអំពីឱកាសរបស់អ្នក ឬឱកាសរបស់ឪពុកម្តាយរបស់អ្នកទេ។
+- **វាសន្មត់ពីមូលហេតុ និងផល។** អ្នកនិពន្ធបញ្ជាក់ថាពួកគេបានរួមបញ្ចូលតែកត្តាហានិភ័យដែលមានភស្តុតាងគួរឱ្យជឿជាក់ ប៉ុន្តែទំនាក់ទំនងមួយចំនួនអាចជាមូលហេតុតែផ្នែកខ្លះប៉ុណ្ណោះ។ ឧទាហរណ៍ ជំងឺធ្លាក់ទឹកចិត្តនៅវ័យចំណាស់ពេលខ្លះអាចជារោគសញ្ញាដើមនៃជំងឺវង្វេង ជាជាងមូលហេតុ។
+- **វាមិនធានាអ្វីសម្រាប់បុគ្គលណាម្នាក់ទេ។** សេចក្តីសង្ខេបរបស់ UCL កត់សម្គាល់ថាការបន្ថយហានិភ័យមានប្រសិទ្ធភាពនៅកម្រិតប្រជាជន ហើយមិនធានាថាបុគ្គលណាម្នាក់នឹងជៀសវាងជំងឺវង្វេងបានទេ។
+- **ពាក់កណ្តាលដែលនៅសល់មិនត្រូវបានពន្យល់ដោយកត្តាទាំងនេះទេ។** អាយុ ហ្សែន និងមូលហេតុដែលអ្នកវិទ្យាសាស្ត្រមិនទាន់យល់នៅឡើយ ស្ថិតនៅក្នុងចំណែកដែលនៅសល់។
 
-## What is the difference between "risk reduction" and "prevention"?
+## តើអ្វីជាភាពខុសគ្នារវាង «ការបន្ថយហានិភ័យ» និង «ការការពារ»?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**ការបន្ថយហានិភ័យ**មានន័យថាការបន្ថយលទ្ធភាព។ ប្រសិនបើក្រុមមនុស្សធំមួយបន្ថយសម្ពាធឈាមរបស់ពួកគេ ក្នុងរយៈពេលជាច្រើនឆ្នាំ អាចមានមនុស្សតិចជាងមុនក្នុងក្រុមនោះដែលមានជំងឺវង្វេង បើប្រៀបធៀបទៅនឹងអ្វីដែលអាចកើតឡើង។ បុគ្គលមួយចំនួនក្នុងក្រុមនោះនៅតែអាចមានជំងឺវង្វេងបាន។
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**ការការពារ**បង្ហាញពីការបញ្ឈប់អ្វីមួយមិនឱ្យកើតឡើងទាល់តែសោះ។ ចំពោះជំងឺវង្វេង នោះមិនមែនជាអ្វីដែលការស្រាវជ្រាវអាចសន្យាដល់នរណាម្នាក់បាននៅថ្ងៃនេះទេ។
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+អ្នកស្រាវជ្រាវក៏និយាយអំពី**ការពន្យារពេល**ផងដែរ។ គណៈកម្មការលង់ដ៍រាយការណ៍ថាមានភស្តុតាងថ្មីបង្ហាញថាការបន្ថយហានិភ័យអាចពន្យារពេលដែលជំងឺវង្វេងចាប់ផ្តើម និងកាត់បន្ថយរយៈពេលដែលមនុស្សម្នាក់រស់នៅជាមួយសុខភាពមិនល្អ។ សូម្បីតែការពន្យារពេលពីរបីឆ្នាំក៏អាចមានន័យយ៉ាងខ្លាំងចំពោះបុគ្គលម្នាក់ និងគ្រួសាររបស់ពួកគេ។
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+នៅលើគេហទំព័រនេះ យើងប្រើពាក្យថា «បន្ថយហានិភ័យ» និង «មានទំនាក់ទំនងជាមួយ» ដោយចេតនា។ នៅពេលដែលអ្នកឃើញផលិតផល អាថ៌កំបាំង ឬកម្មវិធីណាមួយសន្យាថា «ការពារជំងឺអាល់ហ្សៃមឺ» សូមប្រុងប្រយ័ត្ន។ NIA ណែនាំឱ្យពិគ្រោះជាមួយវេជ្ជបណ្ឌិតមុនពេលសាកល្បងថ្នាំ ឬការព្យាបាលណាមួយដែលសន្យាថានឹងការពារជំងឺអាល់ហ្សៃមឺ ព្រោះផលិតផលបែបនេះអាចមិនមានសុវត្ថិភាព ខាតលុយឥតប្រយោជន៍ ឬទាំងពីរ។
 
-## What have large trials found?
+## តើការសាកល្បងធំៗបានរកឃើញអ្វីខ្លះ?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+ការសិក្សាតាមដាន (ដែលមើលអ្វីដែលកើតឡើងចំពោះមនុស្សតាមពេលវេលា) អាចបង្ហាញពីទំនាក់ទំនង។ ការសាកល្បងចៃដន្យ ដែលមនុស្សត្រូវបានចាត់តាំងឱ្យចូលរួមកម្មវិធីមួយ ឬក្រុមប្រៀបធៀបដោយចៃដន្យ គឺជាការសាកល្បងដែលខ្លាំងជាង។ នេះគឺជាអ្វីដែលការសាកល្បងល្បីៗមួយចំនួនបានរកឃើញ។
 
-### FINGER (Finland)
+### FINGER (ហ្វាំងឡង់)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+ការសាកល្បង FINGER បានចុះឈ្មោះអ្នកចូលរួមចំនួន 1,260 នាក់ដែលមានអាយុពី 60 ដល់ 77 ឆ្នាំ ហើយមានហានិភ័យខ្ពស់នៃជំងឺវង្វេង។ ពាក់កណ្តាលទទួលបានកម្មវិធីរយៈពេលពីរឆ្នាំដែលរួមមានដំបូន្មានអំពីអាហារ ការហាត់ប្រាណ លំហាត់ខួរក្បាលលើកុំព្យូទ័រ និងការត្រួតពិនិត្យសុខភាពបេះដូង និងសរសៃឈាម។ ពាក់កណ្តាលទៀតទទួលបានដំបូន្មានសុខភាពទូទៅ។ ក្រុមកម្មវិធីធ្វើបានល្អជាងបន្តិចលើសំណុំតេស្តគិត ដែលជាភាពខុសគ្នាតិចតួចប៉ុន្តែមានន័យតាមស្ថិតិ([ការសាកល្បង FINGER ក្នុង The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/))។ ការសាកល្បងនេះវាស់លទ្ធផលតេស្ត មិនមែនការធ្វើរោគវិនិច្ឆ័យជំងឺវង្វេងទេ។
 
-### US POINTER (United States)
+### US POINTER (សហរដ្ឋអាមេរិក)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER បានចុះឈ្មោះអ្នកចូលរួមចំនួន 2,111 នាក់ដែលមានអាយុពី 60 ដល់ 79 ឆ្នាំ ដែលមិនសូវសកម្ម មានរបបអាហារមិនសូវល្អ និងមានកត្តាហានិភ័យផ្សេងទៀត។ ក្រុមទាំងពីរត្រូវបានលើកទឹកចិត្តឱ្យសកម្មខាងរាងកាយ និងផ្លូវចិត្តកាន់តែច្រើន ញ៉ាំអាហារឱ្យបានល្អជាងមុន រក្សាទំនាក់ទំនងសង្គម និងត្រួតពិនិត្យសុខភាពបេះដូង។ ក្រុមមួយទទួលបានកម្មវិធីដែលមានរចនាសម្ព័ន្ធ និងមានការណែនាំ។ ក្រុមមួយទៀតគ្រប់គ្រងដោយខ្លួនឯង។ ក្នុងរយៈពេលពីរឆ្នាំ លទ្ធផលតេស្តគិតបានប្រសើរឡើងនៅក្នុង**ក្រុមទាំងពីរ** ហើយប្រសើរជាងបន្តិចនៅក្នុងក្រុមដែលមានរចនាសម្ព័ន្ធ([ការសាកល្បង US POINTER ក្នុង JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/))។ អ្នកនិពន្ធបញ្ជាក់ថាត្រូវការការតាមដានបន្ថែមដើម្បីដឹងថាតើភាពខុសគ្នានោះមានន័យក្នុងជីវិតប្រចាំថ្ងៃដែរឬទេ។ ដោយសារមិនមានក្រុម «មិនធ្វើអ្វីសោះ» ការសាកល្បងនេះមិនអាចបញ្ជាក់បានថាកម្មវិធីណាមួយជួយបានប៉ុន្មាន បើប្រៀបធៀបទៅនឹងការមិនផ្លាស់ប្តូរអ្វីសោះនោះទេ។
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (សម្ពាធឈាម)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND បានសិក្សាលើមនុស្សពេញវ័យចំនួន 9,361 នាក់នៅសហរដ្ឋអាមេរិក ដែលមានអាយុ 50 ឆ្នាំឡើងទៅ និងមានសម្ពាធឈាមខ្ពស់។ ពួកគេត្រូវបានចាត់តាំងឱ្យមានគោលដៅសម្ពាធឈាមទាបជាង (លេខខាងលើក្រោម 120) ឬគោលដៅស្តង់ដារ (ក្រោម 140)។ គោលដៅទាបជាងបានបន្ថយយ៉ាងមានន័យនូវ**ការថយចុះនៃសមត្ថភាពគិតស្រាល** ដែលជាដំណាក់កាលនៃបញ្ហាចងចាំ និងការគិតដែលអាចកើតឡើងមុនជំងឺវង្វេង។ ចំពោះ**ជំងឺវង្វេងដែលអាចទំនង** មានករណីតិចជាងនៅក្នុងក្រុមគោលដៅទាប ប៉ុន្តែភាពខុសគ្នានោះមិនមានន័យតាមស្ថិតិទេ។ ការសាកល្បងបានបញ្ចប់មុនពេលកំណត់ ហើយមានករណីជំងឺវង្វេងតិចជាងការរំពឹងទុក ដូច្នេះវាអាចតូចពេកមិនអាចឆ្លើយសំណួរនោះបាន([SPRINT MIND ក្នុង JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/))។
 
-### What the reviews add up to
+### តើការពិនិត្យឡើងវិញបន្ថែមអ្វីខ្លះ
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+ការពិនិត្យឡើងវិញរបស់ Cochrane ឆ្នាំ 2021 បានរួមបញ្ចូលការសាកល្បងធំៗចំនួនប្រាំបួន ដែលព្យាយាមដោះស្រាយហានិភ័យជាច្រើនក្នុងពេលតែមួយ ជាមួយមនុស្សជាង 18,000 នាក់។ វាបានរកឃើញអត្ថប្រយោជន៍តិចតួចលើការធ្វើតេស្តគិត ប៉ុន្តែ**មិនមានភាពខុសគ្នាច្បាស់លាស់ចំពោះចំនួនមនុស្សដែលមានជំងឺវង្វេង**នៅក្នុងការសាកល្បងពីរដែលបានវាស់វា([ការពិនិត្យឡើងវិញរបស់ Cochrane អំពីអន្តរាគមន៍ច្រើនផ្នែក](https://pubmed.ncbi.nlm.nih.gov/34748207/))។
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+ការពិនិត្យឡើងវិញឆ្នាំ 2017 ដោយ National Academies of Sciences, Engineering, and Medicine ដែលបានសង្ខេបដោយ NIA បានរកឃើញភស្តុតាង «លើកទឹកចិត្ត ប៉ុន្តែមិនទាន់ច្បាស់លាស់» សម្រាប់វិធីសាស្ត្របី៖ ការគ្រប់គ្រងសម្ពាធឈាមខ្ពស់ ការបង្កើនសកម្មភាពរាងកាយ និងការហ្វឹកហាត់សមត្ថភាពគិត។
 
-## Does it matter when you start?
+## តើវាមានសារៈសំខាន់ទេ ប្រសិនបើអ្នកចាប់ផ្តើមនៅពេលណា?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+ដំបូន្មានរបស់គណៈកម្មការលង់ដ៍គឺឱ្យបន្ថយហានិភ័យឱ្យបានឆាប់តាមដែលអាចធ្វើបាន និងរក្សាវាឱ្យទាបឱ្យបានយូរតាមដែលអាចធ្វើបាន៖ «កាន់តែឆាប់ កាន់តែល្អ» និង «កាន់តែយូរ កាន់តែល្អ»។ វាក៏បញ្ជាក់ផងដែរថាមិនដែលមានពេលមុនពេល ឬយឺតពេលពេកក្នុងការបន្ថយហានិភ័យនោះទេ។ ភស្តុតាងភាគច្រើនទាក់ទងនឹងវ័យកណ្តាល ប្រហែលអាយុ 40 ដល់ 65 ឆ្នាំ ប៉ុន្តែកត្តាមួយចំនួនដូចជាការបាត់បង់ការមើលឃើញ និងការឃ្លាតឆ្ងាយពីសង្គម គឺជាហានិភ័យនៅវ័យចំណាស់ដែលការធ្វើសកម្មភាពនៅតែអាចមានន័យ។
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+របាយការណ៍បញ្ជាក់ថាឥឡូវនេះមានភស្តុតាងខ្លាំងជាងមុនថាការប្រឈមមុខនឹងហានិភ័យយូរជាងមានឥទ្ធិពលធំជាង។ ឧទាហរណ៍ ជំងឺទឹកនោមផ្អែមដែលចាប់ផ្តើមនៅវ័យកណ្តាលហាក់ដូចជាមានសារៈសំខាន់ជាងជំងឺទឹកនោមផ្អែមដែលចាប់ផ្តើមនៅពេលក្រោយ។
 
-## Is dementia risk the same for everyone?
+## តើហានិភ័យជំងឺវង្វេងដូចគ្នាសម្រាប់មនុស្សគ្រប់គ្នាទេ?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+មិនដូចគ្នាទេ។ គណៈកម្មការបានរកឃើញថាមនុស្សនៅក្នុងប្រទេសដែលមានប្រាក់ចំណូលទាប និងមធ្យម មនុស្សក្រុមជនជាតិភាគតិច និងមនុស្សដែលមានប្រាក់តិច ជារឿយៗប្រឈមមុខនឹងហានិភ័យទាំងនេះច្រើនជាង ដូច្នេះជំងឺវង្វេងមានទំនោរចាប់ផ្តើមនៅអាយុតិចជាង។ ហានិភ័យជាច្រើនមានទំនាក់ទំនងជាមួយស្ថានភាពដែលមនុស្សមិនបានជ្រើសរើស ដូចជាគុណភាពនៃការសិក្សាដែលពួកគេបានទទួលកាលនៅកុមារ ខ្យល់នៅកន្លែងដែលពួកគេរស់នៅ និងថាតើអាហារដែលមានសុខភាពល្អមានតម្លៃសមរម្យ និងងាយរកបានដែរឬទេ។
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+នោះហើយជាមូលហេតុដែលអនុសាសន៍របស់គណៈកម្មការសំដៅទៅលើរដ្ឋាភិបាលផងដូចជាសំដៅទៅលើបុគ្គលផងដែរ៖ ការអប់រំល្អសម្រាប់កុមារគ្រប់គ្នា ខ្យល់ស្អាតជាងមុន វិធានការកាត់បន្ថយការជក់បារី ការកាត់បន្ថយស្ករ និងអំបិលក្នុងអាហារដែលលក់នៅហាង និងភោជនីយដ្ឋាន និងឧបករណ៍ជំនួយការស្តាប់សម្រាប់មនុស្សគ្រប់គ្នាដែលត្រូវការ។ ការខិតខំរបស់បុគ្គលមានសារៈសំខាន់ ប៉ុន្តែពិភពលោកដែលមនុស្សរស់នៅក៏មានសារៈសំខាន់ផងដែរ។ នេះជាហេតុផលមួយទៀតដែលមិនគួរស្តីបន្ទោសនរណាម្នាក់ចំពោះការធ្វើរោគវិនិច្ឆ័យនោះទេ។
 
-## What are the honest limits of this research?
+## តើដែនកំណត់ស្មោះត្រង់នៃការស្រាវជ្រាវនេះមានអ្វីខ្លះ?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **ជំងឺវង្វេងចំណាយពេលជាច្រើនទសវត្សរ៍ដើម្បីអភិវឌ្ឍ** ប៉ុន្តែការសាកល្បងភាគច្រើនមានរយៈពេលពីរទៅប្រាំឆ្នាំ។ ការវាស់ជំងឺវង្វេងផ្ទាល់ មិនមែនគ្រាន់តែលទ្ធផលតេស្តទេ ត្រូវការការសិក្សាយូរម៉ោង និងធំណាស់។
+- **ការសាកល្បងភាគច្រើនវាស់តេស្តគិត។** ការកែលម្អតិចតួចលើតេស្តមិនចាំបាច់មានន័យថាមនុស្សតិចជាងមុននឹងមានជំងឺវង្វេង ឬជីវិតប្រចាំថ្ងៃនឹងកាន់តែងាយស្រួលទេ។
+- **អ្នកស្ម័គ្រចិត្តជារឿយៗមានសុខភាពល្អជាង** និងមានការអប់រំខ្ពស់ជាងសាធារណជនទូទៅ។ គណៈកម្មការលង់ដ៍កត់សម្គាល់ថាភស្តុតាងភាគច្រើននៅតែមកពីប្រទេសដែលមានប្រាក់ចំណូលខ្ពស់ ហើយក្រុមជនជាតិភាគតិចមិនត្រូវបានតំណាងគ្រប់គ្រាន់។
+- **ទំនាក់ទំនងមួយចំនួនមានទិសពីរផ្លូវ។** ការមិនសូវសកម្ម ឬមិនសូវមានទំនាក់ទំនងសង្គមអាចជាផលប៉ះពាល់ដំបូងនៃជំងឺវង្វេង មិនមែនគ្រាន់តែជាមូលហេតុទេ។
+- **ការសាកល្បងអំពីរបបអាហារមិនទាន់បានលទ្ធផលល្អទេរហូតមកដល់ពេលនេះ។** ការសាកល្បងរយៈពេលបីឆ្នាំលើរបបអាហារ MIND មិនបានរកឃើញភាពខុសគ្នាយ៉ាងមានន័យលើសមត្ថភាពគិត បើប្រៀបធៀបទៅនឹងរបបអាហារគ្រប់គ្រងទេ។ សូមមើល[មគ្គុទ្ទេសក៍អំពីរបបអាហារ](/brain-health/diet/)របស់យើង។
+- **ល្បែងលំហាត់ខួរក្បាលមិនត្រូវបានបញ្ជាក់ថាអាចការពារជំងឺវង្វេងបានទេ។** សូមមើលមគ្គុទ្ទេសក៍របស់យើងអំពី[ល្បែងលំហាត់ខួរក្បាល និងជំងឺវង្វេង](/brain-health/brain-games/)។
+- **ការតមអាហារមានភស្តុតាងលើមនុស្សមានកម្រិតណាស់** ហើយវាអាចមានហានិភ័យសម្រាប់មនុស្សវ័យចំណាស់។ សូមមើល[មគ្គុទ្ទេសក៍អំពីការតមអាហារ](/brain-health/fasting/)របស់យើង។
 
-## If someone did everything "right", why did they still get dementia?
+## ប្រសិនបើនរណាម្នាក់បានធ្វើអ្វីៗគ្រប់យ៉ាង «ត្រឹមត្រូវ» ហេតុអ្វីបានជាពួកគេនៅតែមានជំងឺវង្វេង?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+ព្រោះជំងឺវង្វេងមិនមែនគ្រាន់តែជាលទ្ធផលនៃការជ្រើសរើសនោះទេ។ NIA បញ្ជាក់ថា[អាយុគឺជាកត្តាហានិភ័យធំបំផុតដែលគេស្គាល់សម្រាប់ជំងឺអាល់ហ្សៃមឺ](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) ហើយគ្មាននរណាម្នាក់អាចផ្លាស់ប្តូរវាបានទេ។ ហ្សែនមានឥទ្ធិពលផងដែរ។ ហើយអ្នកវិទ្យាសាស្ត្រមិនទាន់យល់ពេញលេញថាអ្វីទៅជាមូលហេតុបង្កជំងឺអាល់ហ្សៃមឺចំពោះមនុស្សភាគច្រើននោះទេ។ សូម្បីតែបើកត្តាហានិភ័យទាំង 14 ត្រូវបានដកចេញទាំងអស់ ការប៉ាន់ស្មានរបស់គណៈកម្មការលង់ដ៍ផ្ទាល់ក៏នៅតែមានករណីជាងពាក់កណ្តាលដែលមិនអាចពន្យល់បានដែរ។
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+ដូច្នេះ ប្រសិនបើអ្នកកំពុងថែទាំនរណាម្នាក់ដែលបានហាត់ប្រាណ ញ៉ាំអាហារល្អ មិនដែលជក់បារី ហើយនៅតែមានជំងឺវង្វេង នោះមិនមានអ្វីខុសពីផ្នែករបស់ពួកគេ ឬពីផ្នែករបស់អ្នកទេ។ ប្រសិនបើអ្នកផ្ទាល់កំពុងរស់នៅជាមួយជំងឺវង្វេង នោះវាមិនមែនជាកំហុសរបស់អ្នកទេ។ អារម្មណ៍ស្តាយក្រោយគឺជារឿងធម្មតាក្នុងចំណោមគ្រួសារ ប៉ុន្តែវាមិនសមនឹងមានទេ។ អ្វីដែលសំខាន់ឥឡូវនេះគឺភាពសុខស្រួល ការទំនាក់ទំនង និងថ្ងៃល្អៗ ហើយ[គំនិតសកម្មភាព](/activities/ideas/) និង[មគ្គុទ្ទេសក៍ថែទាំខ្លួនឯងសម្រាប់អ្នកថែទាំ](/caregiving/caregiver-self-care/)របស់យើងគឺជាកន្លែងល្អក្នុងការចាប់ផ្តើម។
 
-## What steps can you talk over with a doctor?
+## តើជំហានអ្វីខ្លះដែលអ្នកអាចពិភាក្សាជាមួយវេជ្ជបណ្ឌិត?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+ទាំងនេះគឺជាផ្នែកដែលត្រូវបានសិក្សាច្រើនបំផុត។ វាសមនឹងលើកឡើងនៅពេលពិនិត្យសុខភាព ព្រោះភាគច្រើននៃវាមានប្រយោជន៍សម្រាប់សុខភាពបេះដូង អារម្មណ៍ និងភាពឯករាជ្យផងដែរ មិនថាវាមានឥទ្ធិពលលើជំងឺវង្វេងយ៉ាងណាក៏ដោយ។
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **សម្ពាធឈាម។** សួរថាតួលេខរបស់អ្នកប៉ុន្មាន និងគោលដៅណាដែលសាកសមនឹងអ្នក។ គណៈកម្មការលង់ដ៍ណែនាំឱ្យមានគោលដៅលេខខាងលើ 130 ឬទាបជាងនេះចាប់ពីអាយុប្រហែល 40 ឆ្នាំ ប៉ុន្តែគោលដៅដែលត្រឹមត្រូវសម្រាប់មនុស្សវ័យចំណាស់អាស្រ័យលើសុខភាពទូទៅរបស់ពួកគេ។
+2. **ការស្តាប់។** សួររកការធ្វើតេស្តស្តាប់ និងថាតើឧបករណ៍ជំនួយការស្តាប់អាចជួយបានដែរឬទេ។ [មគ្គុទ្ទេសក៍អំពីការស្តាប់](/brain-health/hearing/)របស់យើងពន្យល់អំពីការស្រាវជ្រាវ។
+3. **ការមើលឃើញ។** ធ្វើការពិនិត្យភ្នែកជាប្រចាំ ហើយសួរថាតើបញ្ហាដូចជាតំរងន័យភ្នែកអាចព្យាបាលបានដែរឬទេ។
+4. **កូឡេស្តេរ៉ុល។** សួរថាតើកូឡេស្តេរ៉ុល LDL របស់អ្នកគួរត្រូវបានពិនិត្យដែរឬទេ និងថាតើគួរផ្លាស់ប្តូរអ្វីខ្លះ។
+5. **ជាតិស្ករក្នុងឈាម។** ប្រសិនបើអ្នកមានជំងឺទឹកនោមផ្អែម សួរថាតើគួរគ្រប់គ្រងវាដោយរបៀបណាឱ្យមានសុវត្ថិភាព។
+6. **អារម្មណ៍។** ជំងឺធ្លាក់ទឹកចិត្តគឺជារឿងធម្មតា និងអាចព្យាបាលបាន។ ប្រាប់វេជ្ជបណ្ឌិតរបស់អ្នក ប្រសិនបើអ្នកមានអារម្មណ៍មិនល្អ ឬបាត់បង់ចំណាប់អារម្មណ៍លើអ្វីៗអស់រយៈពេលជាងពីរសប្តាហ៍។
+7. **ការជក់បារី និងអាល់កុល។** សួររកជំនួយក្នុងការឈប់ជក់បារី និងអំពីកម្រិតសុវត្ថិភាពសម្រាប់ការផឹកអាល់កុល។
+8. **ការចលនា។** សួរថាតើសកម្មភាពប្រភេទណាដែលមានសុវត្ថិភាពសម្រាប់អ្នក។ [មគ្គុទ្ទេសក៍អំពីការហាត់ប្រាណ](/brain-health/exercise/)របស់យើងមានគំនិតមួយចំនួន។
+9. **ការការពារក្បាល។** ពាក់មួកសុវត្ថិភាពនៅពេលជិះកង់ ឬលេងកីឡាប៉ះទង្គិច ហើយសួរអំពីការការពារការដួល។
+10. **ការរក្សាទំនាក់ទំនង។** ពេលវេលាជាមួយអ្នកដទៃគឺជាផ្នែកមួយនៃជីវិតដែលមានសុខភាពល្អ។ សូមមើលមគ្គុទ្ទេសក៍របស់យើងអំពី[ការទំនាក់ទំនងសង្គម](/brain-health/social-connection/) និង[ការគេង](/brain-health/sleep/)ផងដែរ។
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+មុនពេលផ្លាស់ប្តូរថ្នាំ របបអាហារ អាថ៌កំបាំង ការតមអាហារ ឬការហាត់ប្រាណ សូមពិភាក្សាជាមួយវេជ្ជបណ្ឌិតរបស់អ្នកជាមុនសិន ជាពិសេសប្រសិនបើអ្នកមានជំងឺបេះដូង ជំងឺទឹកនោមផ្អែម ប្រវត្តិនៃការដួល ឬកំពុងរស់នៅជាមួយជំងឺវង្វេងរួចហើយ។
 
-## Talk with a doctor
+## ពិភាក្សាជាមួយវេជ្ជបណ្ឌិត
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+ប្រសិនបើអ្នកកត់សម្គាល់ឃើញការផ្លាស់ប្តូរចំពោះការចងចាំ ឬការគិតដែលធ្វើឱ្យអ្នកព្រួយបារម្ភ លើខ្លួនអ្នក ឬលើអ្នកដទៃ សូមណាត់ពេលជួប។ NIA កត់សម្គាល់ថា[បញ្ហាចងចាំអាចមានមូលហេតុផ្សេងទៀត](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) ដូចជាផលប៉ះពាល់នៃថ្នាំ បញ្ហាក្រពេញទីរ៉ូអ៊ីត ជំងឺធ្លាក់ទឹកចិត្ត ឬកម្រិតវីតាមីន B12 ទាប ហើយបញ្ហាមួយចំនួនទាំងនេះអាចបាត់ទៅវិញនៅពេលដែលមូលហេតុត្រូវបានព្យាបាល។ [មគ្គុទ្ទេសក៍អំពីសញ្ញាព្រមាន](/brain-health/warning-signs/)របស់យើងពន្យល់ពីអ្វីដែលគួរកត់សម្គាល់។
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**សូមស្វែងរកជំនួយបន្ទាន់**ចំពោះការផ្លាស់ប្តូរភ្លាមៗ៖ ភាន់ច្រឡំភ្លាមៗ អស់កម្លាំង ឬស្ពឹកនៅម្ខាងនៃរាងកាយ ពិបាកនិយាយ ឬឈឺក្បាលខ្លាំង អាចជាសញ្ញានៃជំងឺដាច់សរសៃឈាមខួរក្បាល ឬអាសន្នផ្សេងទៀត។ សូមហៅទៅលេខសេវាសង្គ្រោះបន្ទាន់ 119។
 
-## Where Golden Moments fits
+## កន្លែងរបស់ Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments បង្កើតសកម្មភាពសាមញ្ញដែលធ្វើរួមគ្នា ដូចជា[កាតសន្ទនា](/games/conversation-cards/) [ប៊ីងហ្គោរូបភាព](/games/picture-bingo/) និង[ការផ្អាកដើម្បីដកដង្ហើមស្ងប់ស្ងាត់](/games/calm-breathing/)។ ទាំងនេះគឺសម្រាប់ការរីករាយ និងការចំណាយពេលជាមួយគ្នា។ វាមិនមែនជាការព្យាបាលទេ ហើយវាមិនការពារ ឬពន្យឺតជំងឺវង្វេងទេ។

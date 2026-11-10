@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Arte e manualitás por adultes con dementia"
+seoTitle: "Arte e manualitás por dementia: por adultes"
+description: "Idés de arte e manualitás por persones vivente con dementia, de aquarelle a colage e arangeament de flores, con consilies por preparar e adaptar."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Bon arte e manualitás por adultes vivente con dementia sembla e senti se
+  quam por adultes: aquarelle, colage ex revúes, arangeament de flores, argil,
+  simplic fabrication de cartes o págines de colorar por adultes. Prepare
+  quelc materiales, auxilia con li unesim strich si necessi, conversa durant
+  que vu labora, e considera li témpor ensemble quam li scope. Un ovre finit
+  es optional.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Selecte materiales e temas quel sembla por adultes, quam papere por aquarelle, ver flores e images ex revúes, ne glitter, autocolantes o folies de desinat por infantes."
+  - "Concentra vos sur li processo: li colores, li sensation del argil, li conversation. Un ovre finit es un extra, ne li scope."
+  - "Da un scope quande possibil, quam un carte por un nepote o un decoration por li table."
+  - "Auxilia li person comensar, poy retira vos un poc. Comensar un strich de pincel ensemble es sovente suficent."
+  - "Projectes ne besona esser finit in un session, e cessar plu frue es sempre bon."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Qualmen evitar que li manualitás sembla infantil?"
+    a: "Usa ver materiales de arte, temas por adultes e un ton respectosi. Remplazza glitter e págines de desinat por infantes per papere por aquarelle, stoffe, flores, fotos ex revúes e págines de colorar detalliat. Ne lauda li ovre quam on lauda li desinat de un infante; parla pri it quam vu vell parlar con un altri adult amico."
+  - q: "Quel activitás artistic functiona in plu tard stadies de dementia?"
+    a: "Simplic projectes quel activa li senses functiona max bon plu tard: pictar larg striches con un grand pincel, pressar molli argil, arangear quelc flores in un vase, o ordinar peces de stoffe secun lor sensation. Vu posse besonar comensar li movement ensemble. Regardar vos pictar e parlar pri li colores es anc un maniere de participar."
+  - q: "E si li person di que il ne posse desinar?"
+    a: "Remove li pression. Prova projectes sin rect respons, quam un lavation de aquarelle, un colage o arangear flores. Vu posse anc dir que vu besona auxilie con alquicos specific, quam selecter colores por un carte, por que li tache senti se quam un favore e ne quam un teste."
+  - q: "Es págines de colorar tro infantil por adultes?"
+    a: "No, quande ili es fat por adultes. Selecte págines con temas por adultes quam jardines, quiltes, autos o paisages, e presenta les quam alquicos calmant e ne quam un lecion. Nor págines de colorar posse esser printat o colorat sur un tablette."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Arte e manualitás da a persones vivente con dementia un maniere de expresser se quel ne depende de trovar li just paroles. Li Alzheimer's Association nota que projectes artistic posse dar un [sentiment de atingement e scope](https://www.alz.org/help-support/caregiving/daily-care/art-music) e un chance de auto-expression, tam por li curero quam por li person con dementia. Li important cose es tener it adult, simplic e sin pression. Ti-ci págine da projectes specific, qualmen preparar les e qualmen adaptar les quande coses cambia.
 
-## What makes an art activity adult and not childish?
+## Quo fa un activitá artistic adult e ne infantil?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Un activitá artistic por adultes usa ver materiales, temas por adultes e un ton respectosi. Li Alzheimer's Association consilia tener projectes a un nivelle por adultes e evitar alquicos quel vell posser semblar desrespectosi o infantil.
 
-| Feels childish | Feels adult |
+| Sembla infantil | Sembla por adultes |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glitter, autocolantes de spum, ocules mobil | Papere por aquarelle, stoffe, flores pressat |
+| Folies de colorar con desinat por infantes | Págines de colorar con jardines, quiltes, autos o paisages |
+| Laudation quam "Bon labor" por chascun marca | Ver conversation: "Ti blu es bell apu li verdi" |
+| Un manualitá sin usation | Un carte por un amico, un decoration, un don |
+| Instructiones quel sona quam un lecion | Un invitation: "Vell vu auxiliar me con to?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Pensa pri li propri gust del person. Alqui quel amat cusir posse joyar manipular stoffe. Un ingeniero pensionat vell preferer un modelle con grand peces o ordinar utensiles por un projecte. Un old instructor vell joyar far cartes.
 
-## Why focus on the process, not the product?
+## Pro quo concentrar se sur li processo e ne sur li producte?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Proque li témpor ensemble es li scope. Li guide del Alzheimer's Association pri [activitás in hem](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) di que on deve concentrar se sur li processo, ne sur li resultate. Un pictura quel es "solmen blu" es ancor un pictura. Un colage con tri images es ancor un colage.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Li Association nota anc que un artista professional vell posser sentir frustration pro changes in su ovre, durant que un amateur vell joyar un nov chance de expresser se. Si li person esset un habil artista, prova un altri medie quam ti quel il mastrovat, por que it senti se quam un lude e ne quam un comparation.
 
-## Arts and crafts ideas to try
+## Idés de arte e manualitás por provar
 
-Each idea includes how to make it simpler if it becomes hard.
+Chascun idé include qualmen far it plu simplic si it deveni desfacil.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Lavationes de aquarelle.** Humida un folie de gross papere por aquarelle e lassa li person lassar cader color sur it con un grand pincel. Li colores extende se self, do ne existe un fals resultate. *Plu simplic:* oferta solmen du colores, o picta con aqua sur un obscur papere quel monstra li humid marcas.
+2. **Colage ex revúes.** Decupa images anticipatmen ex revúes pri jardinage, coction, autos, viage o li old interesses del person. Lassa les selecter e glutar images sur carton. *Plu simplic:* oferta quar images ja decupat e un baston de glutin, e gluta ensemble.
+3. **Arangeament de flores.** Li Alzheimer's Foundation of America suggeste [arangear truncat flores e verditá](https://alzfdn.org/dementia-activity-gardening/) in simplic decorationes seasonal. Usa un pesant e stabil vase e stipes ja truncat. *Plu simplic:* plazza quelc stipes in un micri tasse, un pos un.
+4. **Cartes con flores pressat.** Pressa flores ex un buquet inter págines de un libre durant un semane, poy gluta les sur plicat carton. *Plu simplic:* vu mette li glutin, li person pressa li flor.
+5. **Págines de colorar por adultes.** Selecte págines con clar conturas e real temas. Nor [págines de colorar](/games/coloring/) por printar posse anc esser colorat sur ecran per tuchar un color e poy un parte del image. *Plu simplic:* plu grand areas, minu colores, gross marcatores.
+6. **Argil o molli pasta.** Rula, pressa e forma argil quel sicca in li aer o molli pasta de modelage. Pressar un folio in argil fa un simplic tegul con impression. *Plu simplic:* solmen pressar e rular es un complet activitá. Atente que li person ne mette argil in su bocca.
+7. **Fabrication de cartes.** Li Alzheimer's Association suggeste presentar it quam un real tache: "Noi va inviar un carte de bon desiras a un amico. Vell vu auxiliar?" Pre-decupat carton e quelc autocolantes con flores o stamps functiona bon.
+8. **Album de memorie.** Mette copies de old fotos, cartes postal o biletes in págines de album ensemble. Parla pri chascun durant que vu fa it. Vide nor [guide pri rememoration](/activities/reminiscence/) por gentil manieres de parlar pri li passat.
+9. **Tabules de stoffe e texturas.** Gluta peces de corduroy, velur, jute e silk sur rigid carton. Far it es li activitá; tocar it plu tard es un altri. Plu idés es in nor [guide pri activitás sensorial](/activities/sensory/).
+10. **Simplic finition de ligne.** Por alqui quel amat laborar con ligne, sablar un glat bloc de ligne o pictar un kit de casette por avies posse semblar familiar. Remove acut utensiles e supervisa.
+11. **Pictar con musica.** Metter un car favorit e picta formes o colores quel corresponde al sentiment. To combina du activitás quel mult persones joya. Vide [activitás con musica](/activities/music/).
 
-## How do I set up an art session?
+## Qualmen preparar un session de arte?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Prepara in advance.** Decupa, trunca e arrangea omnicos ante que vu invita li person. Atender durant que vu sercha ciseres posse far perdir li moment.
+2. **Tene it micri.** Du o tri colores, un pincel, un folie de papere. Tro mult selectes posse deveni tro mult.
+3. **Protecte li table.** Un tuch de plastic o un old linage significa que un poc de desorde ne es un problema.
+4. **Side a latere.** Labora sur vor propri ovre apu li su. It senti se compartit, ne superviset.
+5. **Auxilia les comensar.** Li Alzheimer's Association nota que vu posse besonar comensar li movement del pincel con li person. Pos comensar, mult persones continua.
+6. **Parla durant que vu labora.** Comenta pri colores e texturas, o lassa li arte ducter a racontas. Evita questiones quam un teste, quam "Quo es to?"
+7. **Da suficent témpor.** Un projecte ne besona esser finit in un session.
 
-## How do I adapt art as dementia changes?
+## Qualmen adaptar arte quande dementia cambia?
 
-| Stage | What tends to work | What to adjust |
+| Stadie | Quo tende functionar | Quo ajustar |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Tempran | Curses, detalliat págines de colorar, albums, fabrication de cartes, pictar secun un foto | Oferta selecte de projectes; tene it social |
+| Medial | Colage pre-decupat, lavationes de aquarelle, arangeament de flores, colorar con grand areas | Un passu a un vez; vu ocupa vos pri decupar e glutar |
+| Tard | Larg striches de pincel, pressar argil, tocar stoffe, regardar vos pictar | Concentra vos sur li senses; guida li manu gentilmen si bonvenit |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+Li NHS suggeste que in plu tard stadies, activitás es sovente simplificat e concentra se sur li senses. Regardar alqui altri pictar, e parlar pri li colores, es un ver maniere de participar. Por plu idés secun stadie, vide [activitás por chascun stadie](/activities/ideas/).
 
-## Safety with art supplies
+## Securitá con materiales de arte
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Selecte picturas, marcatores e bastones de glutin sin toxic substanties.
+- Tene ciseres, cultelles por manualitá e pistoles de calid glutin for del ating. Fa omni decupation self, anticipatmen.
+- Atente si alqui mette argil, pictura o micri objectes in su bocca.
+- Usa stabil e pesant contenitores por aqua e vases.
 
-## When should we stop?
+## Quande noi deve cessar?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Cessa quande li attention vaga o quande frustration appare. Li Alzheimer's Association suggeste finir o changear un activitá quande li attention diminuise o frustration cresce. Mette li projecte in un secur loc e oferta alquicos calmant. Vu posse retornar a it deman, o nequande. Ambi es bon.
 
-## Display the work, if the person wants
+## Monstrar li ovre, si li person vole
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Fixar un pictura sur li frigidor o inmarcar un colage posse esser un quiet maniere de monstrar respect. Questiona in prim. Quelc persones ama vider lor ovre sur li mur; altres prefere no.
 
-## Pair art with our games
+## Combinar arte con nor ludes
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+In dies quande preparar picturas es tro mult, [Coloring](/games/coloring/) functiona sur un tablette sin desorde. [Picture Puzzle](/games/picture-puzzle/) tene li tot image visibil quam un guide durant que vu cambia peces. [Conversation Cards](/games/conversation-cards/) oferta apert questiones quel posse ducter de un image a un raconte. Omni ili have null horloge o punctus. Vu posse anc printar págines ex nor collection de [activitás por printar](/activities/printable/).

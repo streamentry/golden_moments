@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Minningarsamrøður: Minningarkassar, lívsøgur og myndir"
+seoTitle: "Minningarsamrøður við demens: Hugskot uttan spurningar"
+description: "Hvussu tú kanst minnast saman við onkran, ið livir við demens, uttan at spyrja: myndasamrøður, minningarkassar og lívsøgubøkur við avslappaðum orðum."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  At minnast saman merkir at njóta fortíðina saman við myndum, lutum, tónleiki
+  og søgum. Ger ein minningarkassa, set saman eina einfalda lívsøgubók, ella
+  hyggið at myndum síð við síð. Spyr ikki: lat vera við „Minnist tú?“ og „Hvør
+  er hetta?“ og brúka opnar innbjóðingar sum „Sig mær frá hesum“. Ein góð
+  samrøða er týdningarmiklari enn at alt skal stemma.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "At minnast saman er ein samrøða, ikki ein roynd. Tað hevur ikki týdning, um alt er rætt; tað týdningarmikla er at tað er hugnaligt."
+  - "Set „Minnist tú...?“ og „Hvør er hetta?“ til viks og ger heldur viðmerkingar og innbjóðingar sum „Sig mær frá hesum degnum“."
+  - "Ein minningarkassi við lutum úr lívinum hjá persóninum gevur hondunum og samrøðuni okkurt at halda í."
+  - "Ein lívsøgubók hjálpir familju, vitjandi og starvsfólki í røktini at kenna persónin, ikki bara diagnosuna."
+  - "Um ein minning elvir til sorg, ugga fyrst og far so spakuliga víðari."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Hvat merkir tað at minnast saman fyri fólk, ið liva við demens?"
+    a: "At minnast saman merkir at deila minningar og upplivingar, ofta við hjálp frá myndum, lutum, tónleiki ella video. Tað kann vera millum tveir ella í bólki. Endamálið er ein hugnalig og týdningarmikil samrøða, ikki at royna, hvat persónurin minnist."
+  - q: "Hví skal eg ikki spyrja „Minnist tú?“"
+    a: "Spurningar, sum royna minnini, kunnu fáa ein persón at kenna seg flatan ella ørkymlaðan, tá svarið ikki kemur. National Institute on Aging nevnir tað sum okkurt, ein skal sleppa, at spyrja, um onkur minnist nakað ella onkran. Ger heldur eina viðmerking um tað, tú sært, og lat persónin leggja afturat, um hann hevur hug."
+  - q: "Hvat skal eg leggja í ein minningarkassa?"
+    a: "Vel trygdar og haldgóðar lutir, sum hoyra til lívið hjá persóninum: lutir frá arbeiði, áhugamál, eitt yndissjal, postkort, uppskrifter, ítróttarmunir ella avrit av myndum. Lat vera við hvassar lutir, smálutir, sum kunnu verða gloyptir, og óbýtaligar upprunalutir."
+  - q: "Hvat um hann minnist skeivt?"
+    a: "Lat tað fara. Um mamma tín sigur, at myndin vísir systur hennara, tá ið tað er systrabarn hennara, so er tað í lagi. At rætta vendir einum góðum løtumumi í eina roynd. Fylg søguni, sum verður søgd, og njótið løtuna saman."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+At minnast saman merkir einfalt at njóta fortíðina saman. Hjá nógvum fólki, ið liva við demens, kunnu minningar frá nógv ár aftur vera týðiligari enn tað, sum hendi í morgun. Myndir, kendir lutir, tónleikur og søgur kunnu vekja hesar minningarnar og geva tykkum okkurt gott at deila. Ein regla er: tað er ein samrøða, ongantíð ein roynd.
 
-## What is reminiscence, and how is it different from quizzing?
+## Hvat merkir tað at minnast saman, og hvussu er tað øðrvísi enn at spyrja?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+At minnast saman merkir at deila minningar við myndum, lutum, tónleiki ella video, í ferð persónsins sjálvs. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) lýsir tað sum at deila upplivingar og søgur úr fortíðini við hjálp frá myndum, lutum, video ella tónleiki, í eini bók ella á eini teld. At spyrja er nakað annað: tá verður persónurin biðin um eitt rætt svar, og tað kann føra við sær fatan heldur enn gleði.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) nevnir tað sum okkurt, ein skal sleppa, at spyrja ein persón, um hann minnist nakað ella onkran. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) mælir til at sleppa spurningum, sum byggja á stuttminni, og heldur tosa um fortíðina, sum liggur longur afturi.
 
-| Instead of | Try |
+| Heldur enn | Royn heldur |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „Minnist tú hetta?“ | „Hetta sær út sum ein góður dagur. Sig mær frá tí.“ |
+| „Hvør er hetta?“ | „Her er omma Rosa á strondini. Hygg at hasum hattinum.“ |
+| „Hvørja ár var hetta?“ | „Hetta sær út sum gamla húsið. Hvussu var tað at búgva har?“ |
+| „Nei, tað er ikki Pætur, tað er Fríði.“ | „Hann sær út til at hava havt nógv stuttleika.“ |
+| „Tú hevur longu sagt mær tað.“ | „Eg haldi so nógv av hasari søguni.“ |
 
-## How do you talk about photos without quizzing?
+Fyri liðug umbið til myndasamrøður kanst tú royna [samrøðukortini](/games/conversation-cards/). Um tú vilt gera tíni egnu familjumyndir til ein mildan samsvaringarleik, kanst tú royna [myndapør](/games/photo-pairs/); myndirnar, tú velur, verða verandi í kagara tínum.
 
-Lead with what you see, then leave room for the person to add something if they wish.
+## Hvussu tosi eg um myndir uttan at spyrja?
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+Byrja við tí, tú sært, og gev síðani persóninum pláss at leggja nakað afturat, um hann hevur hug.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+1. **Sit síð við síð.** Halt albumið millum tykkum, so tit hyggja saman, heldur enn at tú roynir tvørtur um eitt borð.
+2. **Vel nakrar fáar myndir.** Fimm góðar myndir eru betri enn ein heilur kassi. Stórar, týðiligar myndir rigga best.
+3. **Nevn fólk sjálv/ur.** „Her ert tú og pápi á brúdleypinum tykkara“ tekur trýstið burtur.
+4. **Ger viðmerkingar um smálutir.** Klæðir, bilar, matur, veður, andlit. „Síðani ein bilur. Hann skínur so væl.“
+5. **Bjóða inn, ikki krevja.** „Sig mær frá...“ ella „Hvat leggur tú til merkis?“ Tað er í lagi, um tað er stilt.
+6. **Fylg honum.** Um hann tosar um okkurt heilt annað, so fylg við.
+7. **Steðga, meðan tað er hugnaligt.** Lat albumið aftur, áðrenn hann verður troyttur.
 
-## How do you make a memory box?
+## Hvussu geri eg ein minningarkassa?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Ein minningarkassi er ein kassi við lutum úr lívinum hjá persóninum, sum ein kann halda í og tosa um.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Vel ein haldgóðan kassa**, sum er lættur at lata upp, til dømis ein skókassa, hattkassa ella ein lítlan trækassa.
+2. **Vel eitt evni ella eina blanding.** Arbeiði, eitt frítíðarítriv, eitt stað, ein áratíggju ella eitt sindur av øllum.
+3. **Finn trygdar lutir.** Fimm til tíggju lutir eru nóg mikið til at byrja við.
+4. **Brúka avrit av dýrabarum lutum.** Tak avrit av óbýtaligum myndum og skjølum og goym upprunalutini trygt.
+5. **Tak ein lut út í senn.** Rakk ein lut, sig nakað um hann og síggj, hvar samrøðan fer.
 
-Ideas to include:
+Hugskot til lutir:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Arbeiði:** eitt navnskelti, eitt lítið amboð, ein uniformslappur, ein bókhaldari, ein sjúkrasystra-nál, ein matskráarbók frá einum mati.
+- **Heim:** eitt uppskriftarkort við hansara ella hennara hondskrift, eitt viskistykki, eitt yndissjal ella eitt slips.
+- **Áhugamál:** ein fiskikrókur uttan krókin, ein baseball, eitt garnnøkil, ein fræposa.
+- **Støð:** postkort, kort, ein ferðamunur, ein tíðindablaðsbrotur úr heimbýnum.
+- **Familja:** avrit av myndum, ein tekning frá einum barni, ein brúdleypisinnbjóðing.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Lat vera við hvassar lutir, smálutir, sum kunnu verða gloyptir, og lutir, sum kunnu vekja pínligar minningar, uttan so at tú veitst, at teir eru vælkomnir.
 
-## How do you make a life-story book?
+## Hvussu geri eg eina lívsøgubók?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Ein lívsøgubók er eitt einfalt album við myndum og stuttum tekstum um lívið hjá persóninum. Tað er okkurt at hyggja at saman, og tað hjálpir vitjandi og starvsfólki í røktini at síggja allan persónin.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Vel eitt snið.** Ein permubók við plastlommum, ein prentað myndaalbum ella eitt framsýningarshow á eini teld.
+2. **Legg nakrar fáar partar til rættis.** Barndómur, skúli, arbeiði, familja, bústaðir, trúgv, frítíðarítriv, yndismatur og tónleikur.
+3. **Set eina ella tvær myndir á hvørja síðu** við einum stuttum teksti í stórum stavum: „Marjun, 22 ár, byrjar í arbeiði í bankanum.“
+4. **Skriva eisini, hvat honum ella henni dámar og hvussu gerandisdagurin er.** „Drekkur kaffi við mjólk. Dámar psalmar sunnudagar. Dámar ikki hart ljóð úr sjónvarpinum.“ Hetta kann hjálpa øllum, sum hava um persónin at vera.
+5. **Lat persónin vera við**, so nógv sum hann hevur hug, við at velja myndir, siga søgur ella bara hyggja at, meðan bókin verður til.
+6. **Halt fram við at leggja afturat.** Hon má ikki vera liðug fyri at vera til nyttu.
 
-## More reminiscence ideas
+## Fleiri hugskot til at minnast saman
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Spæl tónleik frá ungárunum** og tosa um, hvar hann førir tykkum. Sí [tónleikavirksemi](/activities/music/).
+- **Hyggið at heimaoptøkum ella sjónvarpssendingum** frá yndisárunum.
+- **Gerið ein rætt úr barndóminum** og latið angin leiða samrøðuna.
+- **Hyggið at einum korti** yvir heimbýin og fylgið kendum gøtum.
+- **Hyggið í gamlar vøruskráir ella bløð** og tosið um prísir, móta og bilar.
+- **Takið søgurnar upp** á ein telefon, um persónurin loyvir tað, til familjuna.
+- **Deilið meðan tit tosa í telefon ella á video.** Halt eina mynd upp í einum videosamrøðu; sí [telefon- og videosamrøður](/activities/phone-and-video-calls/).
+- **Tak eina mynd ella ein lut við, tá ið tú vitjar.** Tað gevur vitjanini eitt lætt fokus; sí [at vitja](/activities/visiting/).
 
-## What if a memory is painful?
+## Hvat um ein minning er pínlig?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Nakrar minningar kunnu vekja sorg, angur ella ótta. Um persónurin verður keddur, steðga, ugga hann og skift spakuliga evni ella virksemi. Stríðst ikki um, hvat hendi. Family Caregiver Alliance mælir frá at royna at sannføra ein persón um, at hann hevur skeivt, og mælir heldur til at svara kenslunum, sum koma fram, tí tær eru veruligar. Um hann tosar um onkran, sum er deyður, sum um viðkomandi livir, so svara kensluni: „Tú saknar hana. Sig mær frá henni.“
 
-## What does the research say?
+## Hvat sigur granskingin?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Ein [Cochrane-yvirlit um at minnast saman](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), sum fevndi um 22 royndir og 1.972 fólk, fann, at úrslitini vóru ójavnar, smá og vóru ymisk eftir umhvørvi og háttalagi. Tað fann ikki prógv fyri, at tað elvir til skaða hjá fólki, ið liva við demens. Vit mæla til at minnast saman, tí tað kann geva góðar og týdningarmiklar løtur saman, ikki sum viðgerð. Fyri meira um lættar samrøður, sí [ráð um samskifti](/caregiving/communication-tips/).

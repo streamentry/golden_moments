@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Golle noddirgol e widewoo e cinndel ngam mo woni e majjere hakkille"
+seoTitle: "Golle noddirgol widewoo ngam majjere hakkille"
+description: "Golle noddirgol widewoo e cinndel ngam ɓesngu woɗɗuɓe mo woni e majjere hakkille: hollirde piiji, janngugol, yimde, fijirde e yaynirde, e ballal wallooɓe."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Noddaali e mo woni e majjere hakkille ɓuri moƴƴude so ɗi juutataa, ɗi
+  ñiiɓii, tee ɗi waɗiraa e huunde nde golloton kadi, wano hollirde puccu maa
+  ngayka, ndaarondiral nate, janngugol daande dow, yimde yimre nde o yiɗi,
+  walla fijirde nde weli e yaynirde wootere. Noddu e waktu gooto ñalnde kala
+  so ina waawi, accu gooto tan haala sahaa kala, tee naamno mo woni sara makko
+  yoo wallu.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Huunde nde waɗoton ina addana noddirgol feere, ina itta kadi satteende yeewtere. Ebbo huunde wootere newiinde nde lollintoyton."
+  - "Noddaali juutataaɗi, ñiiɓɗi e waktu gooto ñalnde kala ena mbaawi ɓurde moƴƴude e noddaali juutɗi, ɗi heewataa."
+  - "Gooto tan haala sahaa kala. Noddaali dental keewal haalaaji crosgol ena metti jokkude, tentinii so ina woodi caɗeele nanɗe."
+  - "Walloowo wonɗo sara makko ina waawi feewnude kaɓirgol ngal, jooɗaade sara makko, wondude e juuɗe ngam fijirde walla natal fof."
+  - "So noddirgol yahaani no haaniri hannde, timminir ɗum e weltaare. Etaade goɗngol janngo ina moƴƴi."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Hol ko mbaawmi waɗde e noddirgol widewoo e mo woni e majjere hakkille?"
+    a: "Ebbo huunde wootere newiinde: hollu ngayka maa, puccu maa walla deftere ma; ndaarondiron nate kiiɗɗe; janngu daande dow wolɗo tiiɗɗo walla ɓatakuru; yim yimre nde o yiɗi; def karallaagal gootal e waktu gooto; walla fijo fijirde natal nde weli e yaynirde wootere. Golle ina mbaɗa noddirgol ngal heɓa to tiiɗi, mbele mo toppitiɗaa fotaaki rokkude yeewtere nde."
+  - q: "Ko foti noddirgol widewoo juutde?"
+    a: "Heewi ko ɓuri seeɗa e ko miijotoɗaa. Hojomaaji seeɗa ɗi weltaare ina mbaawi yonude, tentinii so mo toppitiɗaa ina ŋooña law. Noddugol ñalnde kala e waktu gooto ina waawi ɓurde himmude e ko noddirgol kala juuti."
+  - q: "Hol ko waɗetee so o jiiɓii walla o seŋii e noddaali widewoo?"
+    a: "Won e yimɓe ina jiiba yeeso e yaynirde. Eto noddirgol cinndel tan, ɓatakuru widewoo danndaaɗo mo walloowo ina waawi hurminde e waktu deeƴɗo, walla kaarate e nate e ɓaakuuji. So noddirgol wonii caɗɗungal, timminir ɗum e newaare, eto goɗngol ñalawol goɗngol walla e waktu goɗɗo."
+  - q: "Hol no wallirmi yumma am noddude e widewoo so o waawaa huutoraade cinndel?"
+    a: "Naamno terɗe ɓesngu, walloowo saare, walla gollanoowo e nokku toppitaaki yoo fuɗɗo noddirgol ngal, jogoo walla darno kaɓirgol ngal. Nokkuuji toppitaaki keewɗi ina mballa ɓesngu e noddaali widewoo, naamno ko ɓe ndokka. Alluwal e darorde, feewnaaɗo yaynirde mawnde e daande dow no naniraa, ina newnana mo woni kala."
+  - q: "Mbaɗen waawi fijirde e noddirgol widewoo?"
+    a: "Eey. Feere ɓurnde newaade ko gooto yoo lollin yaynirde mum e jaaɓnirgal noddirgol widewoo, goɗɗo oo hollita mo natal ngal ɓitte. Walla walloowo wonɗo sara makko ina waawi udditde fijirde nde gootonde e alluwal, ɓitta ngam makko tawi aɗa yeewta mo. Suɓo fijirɗe aldaaɗe e limtorde sahaa walla keɓal."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Hoddeede woɗɗi e mo woni e majjere hakkille ina waawi waɗde neɗɗo fow. Noddaali cinndel e widewoo lomtotaako jokkondiral yeeso e yeeso, kono ina mbaawi addude sahaa jokkondiral goonga so a feewniri ɗum no haaniri. Feere nde ko accude etagol yeewtere woowaande, ebboo huunde newiinde nde lollintoyton. Hello ngoo ina yewta e golle moƴƴuɗe e noddirgol widewoo e cinndel, hol no noddirgol feewnirtee, e hol ko mo woni sara makko ina waawi waɗde ngam wallude.
 
-## Why plan an activity for a call?
+## Hol ko saabii eɓɓude huunde ngam noddirgol?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Huunde nde waɗoton ina addana noddirgol feere. "Hol no mbayɗaa? Hol ko mbaɗɗaa hannde?" ina naamna mo toppitiɗaa yoo siftor, habrira, ɗum ina waawi hewde e sattinde. "Ndaaraa, tamaate ɗe ɓenndii" naamnataako mo hay huunde.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association ina teskitina wonde yeewtere e dental mawngal e noddirgol widewoo ina waawi saɗtude, ina wasiyaa kadi [addude feere e noddirgol ngal](https://www.alz.org/help-support/caregiving/holidays) e piiji wano yimde yimre walla lollinde nate.
 
-## What activities work on a video call?
+## Hol golle moƴƴuɗe e noddirgol widewoo?
 
-### Show and tell
+### Hollirde e yewtude
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Addan mo aduna maa. Yahrir kameraa kaa seeɗa seeɗa e ngayka maa, hollu rawaandu ndu, hollu ko ɗeftotoɗaa, joggor natal ngal paykoy ɓesngu ndarti, walla toɓɓu cinndel ngal e henorde ngam hollude nees. Sifto ko njiyɗaa e konnguɗi newiɗi, accu kadi sahaa deeƴɗo mbele o nootitoo. Naamne fotaaka.
 
-### Look at photos together
+### Ndaarondiral nate
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Joggor natal kiɗɗungal e yeeso kameraa kaa, walla lollin yaynirde maa ngam hollude nate mawɗe seeɗa e sahaa gooto. Yewtu ko teskiiɗaa: "Ndaaraa hufnere Mawɗo." Reen e "Ko hombo ɗoo?" walla "Aɗa siftora?" So mo toppitiɗaa inni goɗɗo e juumre, jaɓo tan. Yiy [deftere amen nde siftorde](/activities/reminiscence/) ngam ballal newiɗo.
 
-### Read aloud
+### Janngugol daande dow
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Janngu daande dow wolɗo tiiɗɗo, duwaa, deftere sukaaɓe nde yiɗaa ngam paykoy e noddirgol gootongol, ɓatakuru iwɗo e terɗe ɓesngu, walla hello iwngo e deftere nde o yiɗi. Janngugol daande dow ina hokka mo huunde deeƴnde nde heɗotoo tawa fotaaki jaabaade.
 
-### Sing or listen to music together
+### Yimde walla heɗaade gaaci kadi
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Yim yimre nde o anndi no feewi, walla hurmin gaaci ɗi o yiɗi e bannge maa. Yimdugol ina newnande yimɓe heewɓe ɓurde yeewtere. Yiy [deftere amen nde golle gaaci](/activities/music/).
 
-### Cook or bake at the same time
+### Defirde walla maafeede e waktu gooto
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association ina wasiyaa eɓɓude noddirgol widewoo ngam defirde walla maafeede karallaagal gootal kadi. Feewnugol noddirgol e defte ɗiɗi ɗee. Mo woni sara makko ina waawi yiltude walla meeɗude tawi aɗa jokka kaaratol karallaagal makko kiiɗngol.
 
-### Watch something together
+### Ndaarondiral huunde
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Fedde nde ina wasiyaa kadi ndaarondiral fiilde nde yiɗaa e waktu gooto tawa on koɗii nokkuuji ceertuɗi, yeewtodon e cinndel walla widewoo. Ngam mo woni e majjere hakkille, taƴre nde juutataa, taƴre tele ndee kiiɗnde walla fijirde bal ina waawi ɓurde moƴƴude e fiilde timmunde.
 
-### Play a gentle game on a shared screen
+### Fijirde nde weli e yaynirde wootere
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Jaaɓnirɗe noddirgol widewoo keewɗe ina mbaɗa lollinde yaynirde maa. Aan udditataa fijirde nde, ɓittaa; mo toppitiɗaa hollita maa walla toɓɓa natal ngal suɓotoɗaa. Walla walloowo wonɗo sara makko uddita fijirde nde gootonde e alluwal, ɓitta ngam makko tawa on yeewtii.
 
-Games that work well this way:
+Fijirɗe moƴƴuɗe e feere ndee:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** aɗa jannga wolɗo anndaaɗo, o wiya timmitagol ngol, caggal ɗum ina wooda ballal daande dow.
+- **[Picture Pairs](/games/picture-pairs/):** fijirde yahdinnde nate mawɗe nde weli, ina waawi heddude e yeeso, alaa limtorde sahaa, alaa keɓal.
+- **[Conversation Cards](/games/conversation-cards/):** natal e naamnal udditiiɗngal ngam yeewtidde kadi.
+- **[Photo Pairs](/games/photo-pairs/):** fijirde yahdinnde nate nde waɗiraa e nate ɗe suɓuɗaa e kaɓirgol maa. Nate ɗee ina heddoo e wanngorde maa, mo toppitiɗaa ina yiya ɗe e yaynirde nde lollintuɗaa.
 
-### Recorded messages
+### Ɓatakuuje danndaaɗe
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+So noddaali yeeso e yeeso ena caɗi, danndu widewoo tiiɗɗo: salminaango, yimre, yillo e ngayka maa. Walloowo ina waawi hurminde ɗum e waktu deeƴɗo, nde mo toppitiɗaa yiɗi fof. Alzheimer's Association ina janta danndugol e neldugol sahaaaji keertiiɗi, wano sukaaɓe uddittoo dokke.
 
-## What about plain phone calls?
+## Hol to bannge noddaali cinndel tan?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Noddaali cinndel ina jokki himmude. Dementia Australia ina wasiyaa [noddugol e waktu gooto ñalnde kala](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) tee hoto yaawnu, sabu yimɓe wonɓe e majjere hakkille ina mbaawi haajaade sahaa ngam yantude e yeewtere. E cinndel:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Wiy innde maa e jokkondiral maa ko adii fof: "Salminaango Baaba, ko miin Jenny, ɓiy maa debbo."
+- Haalir seeɗa seeɗa, e konnguɗi tiiɗɗi, miijo gooto e sahaa gooto.
+- Hokkir habaru mbele a naamnaani: "Mi defi teewu ma kosam jamma."
+- Janngu wolɗo tiiɗɗo, walla yim taƴre yimre nde yiɗaa.
+- Accu ɗum yoo juut, timminir e konngol ngol weltaare.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia ina teskitina kadi wonde noddaali widewoo ina mbaawi wallude so haalaade ina ɓeydoo saɗtude, sabu mo toppitiɗaa ina waawi yiyde yeeso maa. So noddaali cinndel ina jiiɓna, eto widewoo, walla ko l opposite mum.
 
-## How do I set up a video call that works?
+## Hol no feewnir-mi noddirgol widewoo moƴƴungol?
 
-**Before the call:**
+**Hade noddirgol:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Suɓo waktu ñiiɓɗo** mo mo toppitiɗaa heewi fowtaade, jokku e mum. Niiɓre ina walla.
+2. **Nanaano e walloowo wonɗo sara makko.** Ɓatakuru ñalawol hade mum ina walla mo eɓɓude.
+3. **Ƴeewto kaɓirgol ngal.** Alluwal e darorde ina newnande ɓurde cinndel jogoraaɗo e junngo. Ƴeewto so ngal humii, yaynirde nde ina jalbi, daande dow ina naniraa no feewi. Hurmin binndol les yaynirde so jaaɓnirgal ngal ina addi ɗum tee mo toppitiɗaa ina waawi janngude.
+4. **Ebbo huunde wootere** tee feewnugol kala ina hebi.
 
-**During the call:**
+**E nder noddirgol:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Ɓadito kameraa kaa** e ndaygu moƴƴiri, tiiɗɗo henorde, hoto won e caggal maa.
+- **Hollit innde maa** sahaa kala, e jokkondiral maa.
+- **Gooto tan haala sahaa kala.** Alzheimer's Association ina teskitina wonde haalaaji crosgol ina caɗana yimɓe wonɓe e majjere hakkille e yimɓe jogiiɓe caɗeele nanɗe. So terɗe ɓesngu keewɗe ina tawtora, lomtodon walla accu ɗum yoo won ɗiɗo walla tato tan.
+- **Naamno naamnal gootal e sahaa gooto.** Family Caregiver Alliance ina wasiyaa [naamne newiɗe e jaabawuuji eey walla alaa](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), tee hollu cuɓe so ina waawi.
+- **Accu sahaa deeƴɗo.** Sabbo jaabawol. Ina moƴƴi wasiyaade helmere so o ina yiila.
+- **Huutoro yeeso maa e daande maa.** Moos, hayfin, tee joggo daande maa e weltaare. Hollirde miijo ina heewi haalde ɓurde konnguɗi.
+- **Hoto feewn.** So mo toppitiɗaa wiyi huunde nde moƴƴaani, accu ɗum tan.
 
-**Ending the call:**
+**Timminirde noddirgol:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Timmin hade mo toppitiɗaa ŋoonaade, so ina waawi e sahaa moƴƴo.
+- Huutoro welsindagol gootol sahaa kala: "Mi nodday maa janngo e waktu ñaamdu. Miɗo yiɗi maa."
+- Hoto ɓeydu ɗum.
 
-## Tips for the helper on site
+## Ballal ngam walloowo wonɗo sara makko
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+So ko a ɓeyngu, walloowo saare, musiɗɗo walla gollanoowo walloowo noddirgol ngal, ko aan waɗata ɗum ina newa.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Feewnugol nokku deeƴɗo.** Ñif tele oo, uddo baafal ngal.
+- **Fuɗɗo noddirgol aan tigi,** caggal ɗum jonnu mo alluwal e darorde walla joggor ngal to tolno yeeso.
+- **Jooɗo sara makko, wonaa yeeso makko.** Wonnde maa ina deƴƴina. Wasiyo mo seeɗa so ina haajaa: "Ndaaraa, ko Jenny."
+- **Won juuɗe ɗee.** Joggor nate, ɓittu fijirde nde, huɓɓitir alluwal ngal ngam hollude suudu ndu.
+- **Ƴeewto ŋooñre walla seŋre,** tee hollu noddoowo oo so waktu timminirde hewtii.
+- **Hollu noddoowo oo ko moƴƴi.** "O weltii rawaandu ndu" ina walla eɓɓude noddirgol garowol.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA ina wasiyaa wonde terɗe ɓesngu wonɓe woɗɗi ina mbaawi wallude neɗɗo mawɗo [ekkitde fannuuji cinndel mum](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), wano noddaali widewoo. E daawal ɓaawngal, walloowo oo ina heewi haajaade huutoraade kaɓirgol ngal fof. Ɗum ina moƴƴi.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+So mo toppitiɗaa ina hoddi e nokku toppitaaki, Alzheimer's Foundation of America ina wasiyaa naamnaade so nokku oo ina walla ɓesngu e noddaali widewoo. AFA ina janta kadi ɓesngu ina mbaawi lommbaade nate e gollanooɓe toppitaaki, e neldude ñamle ɗe yiɗaa walla piiji seeɗa ɗi weltaare, caggal nde ɓe naamndii ko nokku oo yamiri.
 
-## What if the call doesn't go well?
+## Hol ko waɗetee so noddirgol yahaani no moƴƴiri?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Won e noddaali ina waawi jiiɓnude, deeƴde walla seŋnude. Wonaa felnaare maa, ɗum firtaani noddaali ndattaaki.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- So mo toppitiɗaa ina jiiɓaa e yaynirde nde, waylu to noddirgol cinndel walla ɓatakuru danndaaɗo.
+- So o seŋii, jaɓo miijo ngoo, haal huunde nde deƴƴina, timminir e newaare.
+- So noddaali ina keewi ŋakkude moƴƴude e waktu gooto, eto waktu goɗɗo.
+- So o sikkii ko a neɗɗo goɗɗo, jaɓo ɗum e newaare.
 
-It is fine to end early. A short, warm call is a good outcome.
+Ina moƴƴi timminirde law. Noddirgol tiiɗngol, ngol weltaare ko battane moƴƴo.
 
-## Between calls
+## Hakkunde noddaali
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Heddo e jokkondiral e feere goɗnde. Dementia Australia ina wasiyaa neldugol kaarate, iimeeluuji, nate walla dokke seeɗa. Kaaratal yontere kala e natal gootal mawngal e ɓatakuru tiiɗɗo ina waawi jangeede laabi keewɗi. [Conversation cards](/games/conversation-cards/) binndaaɗe, neldaaɗe e walloowo oo, ina mbaawi addande noddirgol garowol toɓɓere yewtere hebiinde.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Ngam ballal e suɓaade e feewnude alluwal, yiy [alluwal e yaynirɗe](/caregiving/tablets-and-screens/). Ngam waktu yeeso e yeeso, yiy deftere amen nde [yillagol](/activities/visiting/).

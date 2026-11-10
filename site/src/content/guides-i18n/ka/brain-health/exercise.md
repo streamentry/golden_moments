@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "ვარჯიში და ტვინის ჯანმრთელობა: რას აჩვენებს კვლევები"
+seoTitle: "ვარჯიში და დემენცია: რას ამბობენ კვლევები"
+description: "რას აჩვენებს კვლევები ფიზიკურ აქტივობასა და დემენციის რისკს შორის კავშირზე და როგორ ივარჯიშონ ხანდაზმულებმა და დემენციით მცხოვრებმა ადამიანებმა უსაფრთხოდ."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  კვლევები რეგულარულ ფიზიკურ აქტივობას დემენციის უფრო დაბალ რისკთან აკავშირებს, ხოლო The Lancet-ის
+  2024 წლის კომისია ფიზიკურ უმოქმედობას 14 შესაცვლელ რისკ-ფაქტორს შორის ასახელებს. კლინიკურმა
+  კვლევებმა არ დაადასტურა, რომ ვარჯიში დემენციას აღკვეთს. მიუხედავად ამისა, მოძრაობა ეხმარება ძალას,
+  წონასწორობას, განწყობასა და ძილს, ამიტომ სიარული, სავარძელში სავარჯიშოები და ცეკვა თავისთავად
+  სასარგებლოა. რაიმე ახალის დაწყებამდე ჰკითხეთ ექიმს.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "ფიზიკურად აქტიურ ადამიანებს საშუალოდ დემენციის უფრო დაბალი რისკი აქვთ, მაგრამ ეს ძირითადად სადამკვირვებლო კვლევებიდანაა და არა კლინიკური კვლევებიდან."
+  - "ხანდაზმულებში ჩატარებულმა ხუთწლიანმა კვლევამ ვარჯიშის ჯგუფებსა და შედარების ჯგუფს შორის აზროვნების უნარებში მკაფიო განსხვავება ვერ აჩვენა."
+  - "CDC-ის რეკომენდაციები 65 წლის და უფროსი ასაკის მოზრდილებისთვის მოიცავს აერობულ, კუნთების გამამაგრებელ და წონასწორობის სავარჯიშოებს და აღნიშნავს, რომ მცირედი აქტივობაც უკეთესია, ვიდრე არაფერი."
+  - "დემენციით მცხოვრები ადამიანებისთვის მოკლე, ნაცნობი და ერთად შესრულებული მოძრაობა, მაგალითად ყოველდღიური სიარული ან მჯდომარე თამაშები, უფრო მნიშვნელოვანია, ვიდრე რომელიმე მიზანი."
+  - "ოთხ ხანდაზმულზე მეტიდან ერთს ყოველწლიურად აქვს დაცემის შემთხვევა, ამიტომ წონასწორობაზე მუშაობა და უსაფრთხო სივრცე პირველ ადგილზეა."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "შეიძლება თუ არა ვარჯიშმა დემენცია აღკვეთოს?"
+    a: "ამის დაპირება ვერავინ შეძლებს. ბევრი კვლევა აქტიურობას დემენციის უფრო დაბალ რისკთან აკავშირებს, მაგრამ კლინიკურმა კვლევებმა არ აჩვენა, რომ ვარჯიში დემენციას აღკვეთს. ვარჯიშს სხვა ბევრი დადასტურებული სარგებელი აქვს, ამიტომ მისი გაკეთება მაინც ღირზს."
+  - q: "უსაფრთხოა თუ არა დემენციით მცხოვრები ადამიანისთვის ვარჯიში?"
+    a: "ჩვეულებრივ, გარკვეული დაგეგმვით. National Institute on Aging გვირჩევს, ახალი რუტინის დაწყებამდე ჰკითხოთ ამ ადამიანის ექიმს, აირჩიოთ მოსახერხებელი ფეხსაცმელი, შესთავაზოთ წყალი და შეინარჩუნოთ ხანმოკლე ვარჯიშის დრო. შეწყვიტეთ, თუ ადამიანი დაღლილად, არამდგრადად ან უკმაყოფილოდ გამოიყურება."
+  - q: "რა სავარჯიშოების შესრულება შეიძლება მჯდომარე მდგომარეობაში?"
+    a: "მჯდომარე ვარიანტებია სავარძელში გაჭიმვები ან სავარძელში იოგა, ბუშტის ან რბილი ბურთის გადაგდება, ტომრის სროლა, წვნიანის ქილების აწევა, გასაჭიმი ზოლებით ვარჯიში და პედლებიანი სავარჯიშოები. ეს კარგი არჩევანია, როცა სიარული ძნელია."
+  - q: "რა ვქნა, თუ ადამიანს მოძრაობა არ სურს?"
+    a: "არ დააძალოთ. სცადეთ მოგვიანებით, თავადაც ჩაერთეთ, ჩართეთ ნაცნობი მუსიკა ან მოძრაობა გადააქციეთ ისეთ საქმედ, როგორიცაა დაგვა ან მცენარეების მორწყვა. საფოსტო ყუთამდე ხანმოკლე სიარულიც კი მნიშვნელოვანია და ერთად გარეთ ჯდომაც საკმარისია."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+აქტიურობა ტვინის ჯანმრთელობის კვლევებში ერთ-ერთი ყველაზე 많이 შესწავლილი ჩვევაა. კვლევები მას დემენციის უფრო დაბალ რისკთან აკავშირებს, მაგრამ არ დაუმტკიცებია, რომ ვარჯიში დემენციას აღკვეთს. რაც ნათელია, არის ის, რომ მოძრაობა ნებისმიერ ასაკში ეხმარება ძალას, წონასწორობას, განწყობასა და ძილს. ეს გვერდი განიხილავს, რას ამბობს კვლევა, რამდენ აქტივობას ურჩევენ ხანდაზმულებს და როგორ ივარჯიშოთ ნაზად დემენციით მცხოვრები ადამიანის გვერდით.
 
-## Does exercise lower the risk of dementia?
+## ამცირებს თუ არა ვარჯიში დემენციის რისკს?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+კვლევები მიუთითებს, რომ ფიზიკურად აქტიურ ადამიანებში დემენციის განვითარების ალბათობა ნაკლებია, თუმცა მტკიცებულებებს свои შეზღუდვებიც აქვს. [The Lancet-ის 2024 წლის დემენციის კომისია](https://doi.org/10.1016/S0140-6736(24)01296-0) ფიზიკურ უმოქმედობას 14 შესაცვლელ რისკ-ფაქტორს შორის ასახელებს. მისი მოდელის მიხედვით, ეს 14 ფაქტორი მსოფლიოში დემენციის შემთხვევების დაახლოებით 45%-ს შეადგენს.
 
-Here is what the evidence looks like:
+მტკიცებულებები ასე გამოიყურება:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **სადამკვირვებლო კვლევები ერთ მიმართულებას აჩვენებს.** კომისიის მიერ განხილული 58 კვლევის მიმოხილვამ აჩვენა, რომ ფიზიკურად აქტიურ ადამიანებს დემენციის რისკი დაახლოებით 20%-ით ნაკლები ჰქონდათ. ყველაზე დიდი განსხვავება იმ ადამიანებს შორის იყო, ვინც თითქმის საერთოდ არ იყო აქტიური, და მათ შორის, ვინც მაინც გარკვეულ აქტივობას ეწეოდა.
+- **კავშირი შესაძლოა ორმხრივი იყოს.** კომისია აღნიშნავს, რომ უმოქმედობამ შეიძლება რისკი გაზარდოს. ის ასევე აღნიშნავს, რომ დემენციის ადრეულმა ცვლილებებმა ტვინში, რომლებიც დიაგნოზამდე წლები ადრე იწყება, შესაძლოა ადამიანები ნაკლებად აქტიური გახადოს.
+- **კლინიკური კვლევები ნაკლებად ნათელია.** ერთ კვლევაში 945 ხანდაზმული, საშუალოდ 78 წლის, ხუთი წლის განმავლობაში ან კვირაში ორჯერ ზედამხედველობით ვარჯიშს ასრულებდა, ან შედარების ჯგუფში იყო. ბოლოს, აზროვნების უნარებში ჯგუფებს შორის მკაფიო განსხვავება არ აღმოჩნდა. შედარების ჯგუფის ბევრი ადამიანიც აქტიური იყო, რაც შედეგის განმარტებას ართულებს.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ამას პირდაპირ ამბობს. ფიზიკურ აქტივობასა და ალცჰაიმერის დაავადების აღკვეთას შორის მკაფიო კავშირი არ დადასტურებულა და საკმარისი მტკიცებულება არ არის იმის სათქმელად, რომ ვარჯიში მას აღკვეთს ან ანელებს. მიუხედავად ამისა, ვარჯიში ამცირებს დაცემის, დეპრესიის, დიაბეტის, მაღალი წნევის და ინსულტის რისკს. ზოგიერთი ეს მდგომარეობა თავადაც დაკავშირებულია კოგნიტურ დაქვეითებასთან.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+გონივრული დასკვნა ის არის, რომ იმოძრავეთ, რადგან ეს დღეს უკეთ აგრძნობინებთ თავს და გეხმარებათ ყოველდღიურ ცხოვრებაში. ტვინისთვის შესაძლო სარგებელი დამატებითი შანსია და არა დაპირება.
 
-## How much activity do older adults need?
+## რამდენი აქტივობა სჭირებათ ხანდაზმულებს?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC-ის რეკომენდაციები 65 წლის და უფროსი ასაკის მოზრდილებისთვის](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) კვირაში სამ სახის აქტივობას გვთავაზობს:
 
-| Type | Weekly amount | Examples |
+| სახეობა | კვირაში რამდენი | მაგალითები |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| აერობული | მინიმუმ 150 წუთი ზომიერი აქტივობა, მაგალითად 30 წუთი კვირაში 5 დღე | ენერგიული სიარული, ცეკვა, წყალში აერობიკა |
+| კუნთების გამამაგრებელი | მინიმუმ 2 დღე, ყველა ძირითადი კუნთის ჯგუფისთვის | მსუბუქი წონების ან წვნიანის ქილების აწევა, გასაჭიმი ზოლებით ვარჯიში |
+| წონასწორობა | რეგულარულად | ქუსლიდან თითებამდე სიარული, სავარძლიდან ადგომა |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+ეს მიზნებია და არა დაწყების აუცილებელი მოთხოვნები. CDC ამბობს, რომ თუ მათ ვერ აღწევთ, იყავით იმდენად აქტიური, რამდენადაც თქვენი შესაძლებლობები და ჯანმრთელობა საშუალებას იძლევა. მცირედი აქტივობაც უკეთესია, ვიდრე არაფერი.
 
-## Gentle ways to move for older adults
+## ნაზი გზები ხანდაზმულებისთვის მოსაადგილებლად
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **იარეთ გუნდურად.** მეგობართან, მეზობელთან ან სიარულის ჯგუფთან ერთად ყოველდღიური სიარული საუბრებსა და უსაფრთხოებასაც მატებს.
+- **სავარძელში სავარჯიშოები.** მჯდომარე მდგომარეობაში ხელების აწევა, ტერფების წრეები, ადგილზე სიარული და სავარძელში იოგა აძლიერებს კუნთებს წონასწორობის რისკის გარეშე.
+- **იცეკვეთ სამზარეულოში.** ჩართეთ მუსიკა იმ ადამიანის ახალგაზრდობის ან ადრეული წლებიდან და იმოძრავეთ, შეეხეთ რიტმს ან გადადგან ნაბიჯები. იდეებისთვის იხილეთ ჩვენი [მუსიკალური აქტივობების გზამკვლევი](/activities/music/).
+- **სიძლიერის სავარჯიშოები სახლის ნივთებით.** საყვარელი გადაცემის ყურებისას აწიეთ წყლით სავსე ბოთლები ან წვნიანის ქილები.
+- **ბაღში მუშაობა ან სახლის საქმეები.** მცენარეების მორწყვა, ფოცხება, დაგვა და სარეცხის აკეცვა ყველა აქტივობად ითვლება. იხილეთ [გარე და საბაღო აქტივობები](/activities/outdoor-and-gardening/) და [სახლის საქმეები](/activities/household-tasks/).
+- **ვარჯიში წყალში.** NIA წყალში აერობიკის занятებებს ერთ-ერთ ვარიანტად ასახელებს მათთვის, ვისაც ხმელეთზე ვარჯიში სახსრებისთვის ძნელია.
 
-## How to exercise with someone living with dementia
+## როგორ ივარჯიშოთ დემენციით მცხოვრები ადამიანის გვერდით
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+დემენციით მცხოვრები ადამიანისთვის მთავარი მიზანია კომფორტი, სიამოვნება და ყოველდღიური უნარების შენარჩუნება და არა რომელიმე რიცხვის მიღწევა. NIA ამბობს, რომ ფიზიკური აქტივობა ეხმარება ალცჰაიმერის დაავადებით მცხოვრები ადამიანის კუნთების, სახსრებისა და გულის კარგ ფორმაში შენარჩუნებას და ასევე შეიძლება გააუმჯობესოს განწყობა და ძილი. ახალი რუტინის დაწყებამდე ჰკითხეთ მის ექიმს. [NIA-ის მზრუნველთა გზამკვლევი](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) გთავაზობთ შემდეგ რჩევებს:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **იარეთ ერთად ყოველდღე.** აირჩიეთ უსაფრთხო, ნაცნობი გზა, სადაც დაბრკოლებები არ არის. თუ ადამიანი მარტო დადის, კარგი იდეაა სამაჯური თქვენი ტელეფონის ნომრით.
+2. **სცადეთ ხანდაზმულებისთვის предназначული სავარჯიშო ვიდეოები.** გაჰყევით ერთად, მჯდომარე ან მდგომარე მდგომარეობაში.
+3. **შეინარჩუნეთ ხანმოკლე ვარჯიშის დრო.** რამდენიმე ხანმოკლე „მინი-ვარჯიში“ შეიძლება უკეთესად იმუშაოს, ვიდრე ერთი ხანგრძლივი.
+4. **დაამატეთ მუსიკა.** ნაცნობი სიმღერები მოძრაობას საქმეზე უფრო მეტად საქმიანობად აქცევს. იცეკვეთ, თუ ადამიანს ეს სიამოვნებს.
+5. **შესთავაზეთ წყალი და მოსახერხებელი ფეხსაცმელი.** ვარჯიშის დროს და შემდეგ შესთავაზეთ წყალი ან წვენი და აირჩიეთ მოსახერხებელი ტანსაცმელი და კარგად მორგებული, ვარჯიშისთვის განკუთვნილი ფეხსაცმელი.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+თუ სიარული ძნელია, [NIA-ის გზამკვლევი ალცჰაიმერის დაავადებით მცხოვრები ადამიანის მზრუნველობის შესახებ](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) მჯდომარე ვარიანტებს გვთავაზობს. ეს მოიცავს სავარძელში სავარჯიშოებს ან იოგას, ტომრის სროლას, რბილი ბურთის ან ბუშტის გადაგდებას, გასაჭიმ ზოლებს, მსუბუქი სახლის ნივთების აწევას და პედლებიან სავარჯიშოებს. მარტივი საქმეებიც, როგორიცაა დაგვა და მტვრის წმენდა, ასევე იმუშავებს.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+რეალისტურად უნდა შეაფასოთ, რისი გაკეთება შეუძლია მოძრაობას. The Lancet-ის კომისიამ ვერ იპოვა მტკიცებულება იმისა, რომ ვარჯიში ამცირებს ქცევის ცვლილებებს, მაგალითად აღგზნებადობას. ერთად იმოძრავეთ იმიტომ, რომ ეს კარგ შეგრძნებას შეიძლება იწვევდეს და არა რთული დღის „შესასწორებლად“. თუ ადამიანი უარს ამბობს, ეს ნორმალურია. ჩვენს გზამკვლევში [როცა ადამიანი უარს ამბობს](/caregiving/when-they-say-no/) ნახავთ ნაზ გზებს, როგორ სცადოთ მოგვიანებით. ადრე დასრულებაც და უბრალოდ ერთად გარეთ ჯდომაც კარგი შედეგია.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+მოძრაობის შემდეგ მშვიდი შესვენება, როგორიცაა [მშვიდი სუნთქვა](/games/calm-breathing/), დაგეხმარებათ ორივეს დამშვიდებაში. მაგიდასთან მჯდომარე აქტივობისთვის, ნაზი მოძრაობით, კარგად გამოდგება [ერთად დალაგება](/games/sort-together/) და [სურათების ბინგო](/games/picture-bingo/).
 
-## Balance and fall safety
+## წონასწორობა და დაცემის უსაფრთხოება
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+დაცემა ხშირი და სერიოზულია. [CDC-ის მონაცემებით](https://www.cdc.gov/falls/data-research/facts-stats/index.html), ოთხ ხანდაზმულზე მეტიდან ერთს ყოველწლიურად აქვს დაცემის შემთხვევა, მაგრამ ნახევარზე ნაკლები ეუბნება ამის შესახებ ექიმს. ერთხელ დაცემა მეორედ დაცემის ალბათობას აორმაგებს. CDC-ის მიერ ჩამოთვლილი რისკ-ფაქტორებია:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- ფეხებისა და ბარძაყების სისუსტე
+- სიარულისა და წონასწორობის სირთულეები
+- ზოგიერთი წამალი, მათ შორის დამამშვიდებლები და ზოგიერთი ანტიდეპრესანტი
+- მხედველობის პრობლემები
+- ტერფის ტკივილი ან მოუხერხებელი ფეხსაცმელი
+- სახლის საფრთხეები, როგორიცაა არეულობა, ხალიჩები და დაზიანებული საფეხურები
 
-To move more safely:
+უფრო უსაფრთხოდ მოძრაობისთვის:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **გამოიყენეთ მყარი სავარძელი** ბორბლების გარეშე და მდგომარე სავარჯიშოებისთვის ხელის მისაწვდომ ადგილას გქონდეთ ზედაპირი ან მოაჯირი.
+- **თავიდან გაიწმინდეთ სივრცე** ხალიჩების, კაბელებისა და არეულობისგან.
+- **ნელა ადექით**, და შეწყვიტეთ, თუ ადამიანს თავბრუსხვევა ან არამდგრადობა აქვს.
+- **დაიცვით მხარდამჭერი ფეხსაცმელი**, არა წინდები ან ფართო ჩუსტები.
+- **ივარჯიშეთ წონასწორობაზე საყრდენთან ახლოს.** სავარძლიდან ადგომა და ქუსლიდან თითებამდე სიარული CDC-ის მიერ მოცემული წონასწორობის სავარჯიშოების მაგალითებია.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC გვირჩევს, რომ ხანდაზმულმა, ვინც დაცემისას თავს გაიარტყა, დაუყოვნებლივ უნდა მიმართოს ექიმს, განსაკუთრებით თუ სისხლის გამათხელებელ წამლებს იღებს.
 
-## Talk with a doctor
+## ესაუბრეთ ექიმს
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+ახალი სავარჯიშო რუტინის დაწყებამდე ჰკითხეთ ექიმს, განსაკუთრებით იმ ადამიანისთვის, ვისაც აქვს გულის ან ფილტვის პრობლემები, სახსრების ტკივილი, წონასწორობის სირთულეები ან დემენცია. ექიმს ან ფიზიოთერაპევტს შეუძლია შემოგთავაზოთ უსაფრთხო აქტივობები და შეამოწმოს, მოქმედებს თუ არა წამლები წონასწორობაზე. Arzt-ს შეატყობინეთ ნებისმიერი დაცემის შესახებ, თუნდაც ტრავმის გარეშე. თუ ვარჯიშის დროს რაიმე სტკივა ან არასწორად გრძნობთ თავს, შეწყვიტეთ. მოულოდნელი ტკივილისთვის გულმკერდის არეში, სუნთქვის სირთულისთვის ან მოულოდნელი დაბნეულობისთვის დარეკეთ 112-ზე.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+ეს გვერდი ზოგადი ინფორმაციაა და არა სამედიცინო რჩევა. იხილეთ ჩვენი [სამედიცინო პასუხისმგებლობის უარყოფა](/medical-disclaimer/). უფრო ფართო სურათისთვის წაიკითხეთ [რას ამბობს კვლევა დემენციის რისკ-ფაქტორების შესახებ](/brain-health/risk-factors/) და [შეიძლება თუ არა დემენციის აღკვეთა](/brain-health/can-dementia-be-prevented/).

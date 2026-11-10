@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Púsl fyrir fólk með heilabilun: myndir, orð og netpúsl"
+seoTitle: "Púsl fyrir heilabilun: myndir og orðagátur"
+description: "Hvernig á að velja púsluspil, orðagátur og netpúsl fyrir einhvern með heilabilun: stærð bita, myndir, stór letur, samvinna og hvenær á að einfalda."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Besta púsluspilið fyrir einhvern með heilabilun er það sem viðkomandi getur
+  klárað með smá aðstoð og notið á leiðinni. Veldu púsluspil með færri og stærri
+  bitum og skýrri mynd fyrir fullorðna, hafðu myndina á kassanum sýnilega og
+  flokkaðu jaðarbitana fyrst. Orðaleitir og krossgátur henta best með stóru
+  letri. Auðveld netpúsl með fjórum bitum henta oft á miðstigi. Hættið á meðan
+  það er enn gaman.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Veldu eftir því hvernig gengur, ekki eftir stigi: ef púsl finnst vera erfitt, prófaðu eitt með færri bitum."
+  - "Stórir, traustir bitar og skýr mynd með aðgreinanlegum litasvæðum eru auðveldari en pínulitlir bitar og stór himinblái flötur."
+  - "Myndir fyrir fullorðna skipta máli. Garðar, eldhús, bílar og dýr, ekki teiknimyndir."
+  - "Samveran er það mikilvægasta. Réttu að bita, flokkaðu jaðarbitana og hafðu lokið kassans sýnilegt."
+  - "Orðaleitir með stóru letri og auðveld netpúsl með 4 eða 9 bitum eru ókeypis á þessari síðu."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Hversu margir púslbitar henta best fyrir einhvern með heilabilun?"
+    a: "Það er engin ein rétt tala. Sá sem áður lagði 1.000 bita púsl getur samt notið nokkur hundruð bita snemma, á meðan aðrir eiga best með tug eða svo stóra bita. Ef púsl finnst vera erfitt eða veldur pirringi, færðu þig yfir í færri bita. Myndapúslið okkar á netinu er með 4 eða 9 bitum."
+  - q: "Eru púsluspil góð fyrir fólk sem lifir með heilabilun?"
+    a: "Mörgum finnst þau skemmtileg, sérstaklega ef viðkomandi hafði gaman af púslum áður. Púsl gefur höndunum eitthvað að gera, skýrt markmið og mynd til að tala um. Ekkert púsl hefur sýnt sig meðhöndla eða hægja á heilabilun, svo veldu þau fyrir ánægjuna og félagsskapinn."
+  - q: "Hvað get ég gert þegar einhver ræður ekki lengur við púsluspil?"
+    a: "Gerðu það einfaldara og taktu meiri þátt sjálf(ur): réttu að einum bita í einu eða skildu aðeins eftir nokkra síðustu bitana fyrir viðkomandi. Prófaðu 4 bita netpúsl, að flokka bita eftir lit eða einfaldlega að horfa á heilu myndina saman."
+  - q: "Henta krossgátur og orðaleitir fyrir fólk með heilabilun?"
+    a: "Þær geta hentað á byrjunarstigi, með stóru letri. Orðaleitir þar sem orðin liggja aðeins lárétt og lóðrétt eru auðveldari en þær sem hafa orð á ská eða aftur á bak. Lestu vísbendingarnar eða orðalistann upphátt og vinnið saman að því."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Púsluspil á borðstofuborðinu er ein auðveldasta athöfnin til að deila saman. Þið getið setið saman án þess að þurfa að tala mikið, myndin gefur ykkur eitthvað til að spjalla um og það er gott tilfinning að setja síðasta bitann á sinn stað. Púsl þurfa hins vegar að breytast eftir því sem heilabilun breytist. Púsl sem er of erfitt getur breytt rólegum eftirmiðdegi í pirrandi stund. Á þessari síðu er fjallað um hvernig á að velja og undirbúa púsluspil, orðagátur og auðveld netpúsl, og hvað er hægt að gera þegar þau verða erfið.
 
-## Are puzzles good for people with dementia?
+## Eru púsl góð fyrir fólk með heilabilun?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Mörgum finnst þau skemmtileg, sérstaklega þeim sem höfðu áður gaman af púslum. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nefnir orðaleitir, spil og borðspil meðal athafna á byrjunarstigi, og [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nefnir netleiki og púsl á spjaldtölvu sem eina leið til að vera virkur.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Púsl eru ekki meðferð. Ekkert púsl hefur sýnt sig hægja á eða stöðva heilabilun; leiðarvísirinn okkar um [heilaleiki og heilabilun](/brain-health/brain-games/) útskýrir rannsóknirnar. Ástæðan fyrir að leggja púsl er sú að það getur verið notaleg og hughreystandi stund saman. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) orðar það svona: leggðu áherslu á ánægjuna, ekki árangurinn.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Hvernig á að velja púsluspil fyrir einhvern með heilabilun?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Farðu eftir því hvað viðkomandi hefur gaman af og hvernig síðasta púsl gekk, ekki eftir nafni á stigi.
 
-### Number of pieces
+### Fjöldi bita
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Það er enginn réttur fjöldi. Sá sem hefur lagt púsl lengi getur samt notið nokkur hundruð bita snemma, á meðan annar er ánægðastur með tug bita. Ein hagnýt regla: ef síðasta púsl fannst vera erfitt, veldu eitt með um það bil helmingi færri bitum. Ef því lauk fljótt og viðkomandi vildi meira, farðu aðeins upp.
 
-### Piece size and feel
+### Stærð og eiginleikar bita
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Stærri bitar** eru auðveldari að sjá, taka upp og snúa.
+- **Þykkir, traustir bitar** liggja betur og þola að detta.
+- **Matt áferð** dregur úr glampa frá lömpum og gluggum.
+- **Forðist pínulitla bita** ef viðkomandi gæti sett hluti upp í sig, sem getur gerst síðar í heilabilun.
 
-### The picture
+### Myndin
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Myndefni fyrir fullorðna.** Garðar, eldhús, gamlir bílar, húsdýr, sjávarþorp, eftirlætisíþrótt. Ekki teiknimyndir eða neitt sem lítur út eins og barnadót.
+- **Aðgreinanleg litasvæði.** Rauð hlöða, blár bátur og grænn völlur eru auðveldari en himinn sem fyllir helming púslins.
+- **Kunnuglegt og persónulegt.** Mynd af stað sem viðkomandi bjó á eða áhugamáli sem viðkomandi hafði gaman af gefur ykkur mikið til að tala um. Sumar prentsmiðjur geta breytt fjölskyldumynd í púsluspil.
 
-## How do you do a puzzle together?
+## Hvernig á að leggja púsl saman?
 
-Set it up so the person can get straight to the enjoyable part.
+Undirbúðu það þannig að viðkomandi geti farið beint í skemmtilega hlutann.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Veldu góðan stað.** Gott ljós, stól með örmum og borð eða bakka þar sem púslspilið getur verið áfram.
+2. **Settu lokið á kassanum upp** þar sem þið sjáið það bæði.
+3. **Snúðu bitunum réttum megin upp** áður en þið byrjið.
+4. **Flokkaðu jaðarbitana** sjálf(ur), eða gerðu rammann fyrst og skildu miðjuna eftir fyrir viðkomandi.
+5. **Flokkaðu bita eftir lit** í nokkur grunn bakka eða diska.
+6. **Réttu að einum bita í einu** ef hrúgan er yfirþyrmandi. „Ég held að þessi sé hluti af hlöðunni.“
+7. **Talið um myndina,** ekki framvinduna. „Þetta lítur út eins og báturinn sem pabbi átti.“
+8. **Látið púslspilið liggja.** Komið aftur að því á nokkrum dögum. Það er engin hraða.
+9. **Hættið á góðri nótu,** eftir að biti hefur farið á sinn stað, á meðan það er enn þægilegt.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ráðleggur að hjálpa viðkomandi að byrja, fylgjast með pirringi og leyfa viðkomandi einfaldlega að horfa á ef það er skemmtilegra. Að horfa á þig setja bita á sinn stað og benda á hvar einn gæti passað er líka þátttaka.
 
-## Easy online puzzles
+## Auðveld netpúsl
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Púsl á spjaldtölvu hefur ýmsa kosti: engir týndir bitar, stórar myndir sem fylla skjáinn og ekkert borð sem þarf að ryðja.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Ókeypis [Myndapúsl](/games/picture-puzzle/) okkar sker mynd í 4 eða 9 bita. Ýttu á tvo bita til að skipta á þeim þar til myndin er heil. Heila myndin er sýnileg á skjánum sem leiðbeining, það er enginn tímataki og þú getur hætt hvenær sem er. Fjórir bitar henta mörgum á miðstigi með einhvern við hliðina.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Fyrir enn einfaldari myndaleik skaltu prófa [Finndu eins](/games/find-the-same/), þar sem þú ýtir á myndina sem passar við þá sem er efst, eða [Flokkið saman](/games/sort-together/), þar sem myndir fara í körfur eins og eldhúsið eða garðurinn.
 
-## Word puzzles: word searches and crosswords
+## Orðagátur: orðaleitir og krossgátur
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Orðagátur henta fólki sem hafði alltaf gaman af þeim, oftast fyrr í heilabilun.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Orðaleit með stóru letri.** Ókeypis [Orðaleitin](/games/word-search/) okkar notar stóra stafi og aðeins fá orð, sem liggja lárétt og lóðrétt, aldrei á ská eða aftur á bak. Spilaðu hana á skjá eða prentaðu hana út.
+- **Lestu listann upphátt.** Annar les orð og hinn leitar að því. Það er alveg í lagi að hringja bara utan um fyrsta stafinn.
+- **Krossgátur með stóru letri** úr gátubókum geta hentað snemma. Lestu vísbendingarnar upphátt, deilið pennanum og fyllið út svörin saman. Auðveldar krossgátur með þema eru betri en flóknar orðagátur.
+- **Talið um orðin.** „Garður“ getur leitt að tíu mínútna spjalli um tómata.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Fyrir fleiri verkefni á pappír og hvernig á að prenta þau svo þau séu auðveld að sjá og halda á, sjá [ókeypis prentanlegar athafnir fyrir fólk með heilabilun](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Hvaða púsl henta á hverju stigi?
 
-Stages overlap, and good and hard days are normal.
+Stig skarast og góðir og erfiðir dagar eru eðlilegir.
 
-| Stage | Puzzles that often fit | Your role |
+| Stig | Púsl sem oft henta | Hlutverk þitt |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Byrjunarstig | Kunnugleg púsluspil með færri bitum en áður, krossgátur og orðaleitir með stóru letri, 9 bita netpúsl | Félagi: láttu viðkomandi velja, hjálpaðu þegar beðið er um það |
+| Miðstig | Púsluspil með tug eða svo stórra bita, 4 bita netpúsl, orðaleit lesin upphátt saman | Undirbúðu, flokkaðu bita, réttu að einum í einu |
+| Síðstig | Að horfa á heila mynd saman, Finndu eins með tveimur myndum, að halda á nokkrum stórum bitum | Komdu með það til viðkomandi; félagsskapur þinn er athöfnin |
 
-## When should you make a puzzle easier, or stop?
+## Hvenær ætti að gera púsl auðveldara eða hætta?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Fylgstu með andvörpum, því að bitum er ýtt frá sér, endurteknum „ég get þetta ekki“ eða áhyggjufullum svip. Þetta eru merki um að breyta einhverju, ekki að halda áfram.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Gerðu það einfaldara.** Færri bitar, eða skildu aðeins eftir nokkra síðustu bitana fyrir viðkomandi.
+- **Taktu meiri þátt sjálf(ur)** og bjóddu viðkomandi að hjálpa með auðveldu hlutunum.
+- **Skiptu yfir í eitthvað svipað:** að flokka bita eftir lit, 4 bita netpúsl eða [litun](/games/coloring/).
+- **Hættu.** Leggðu það til hliðar og fáið ykkur te eða kaffi. Þið getið komið aftur að því annan dag, eða sleppt því alveg.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ef púsl fara að minna á það sem er erfitt, er alveg í lagi að hætta við þau. Það eru margar aðrar leiðir til að eyða góðri stund saman; [101 hugmyndir að athöfnum](/activities/ideas/) er góður staður til að leita.

@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Moce kei na Bula ni Monamona: Vakasama ni Dikevi"
+seoTitle: "Moce kei na Mate ni Guilecavi: Vakasama ni Dikevi"
+description: "Na ka era vakatura na dikevi me baleta na moce kei na rerevaki ni mate ni guilecavi, na dikevi ni vakasavasavataki ni monamona sa se bera, kei na ivakarau ni moce e veivuke."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Eso na vakadidike balavu era semata na moce lekaleka ena gauna ni bula e loma kei na rerevaki
+  levu ni mate ni guilecavi, kei na dikevi ena valenidike era vakatura ni moce e rawa ni vukea na
+  monamona me vakasavasavataka na benu. Na ivakadinadina oqo sa se bera, kei na iVola ni Veitarogi
+  ni Lancet ena 2024 a sega ni volai kina na moce me dua na ka ni rerevaki e rawa ni veisautaki. Na
+  ivakarau ni moce tudei e vukea na nomu bula ena veisiga. Na leqa ni moce ena mate ni guilecavi e
+  dau yaco ka e vinaka me tukuni vua na vuniwai.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "E dua na vakadidike mai Peritania, a muria rauta ni 8,000 na tamata me 25 na yabaki, e semata na moce ono na aua se lailai sobu ena gauna ni bula e loma kei na rerevaki levu ni mate ni guilecavi."
+  - "Na veisau ni moce e rawa talega ni ivakatakilakila taumada ni mate ni guilecavi, ka dredre kina me kilai se cava e vakavuna se cava e yaco."
+  - "Na dikevi me baleta na moce ni vakasavasavataka na beta-amyloid mai na monamona e dina ia sa se bera, ka levu e caka ena kalavo."
+  - "Na sleep apnea e dau yaco, e rawa ni qaravi, ka e semati kei na mate ni guilecavi ena vakadidike; na davui levu kei na draki ni moce ena siga e vinaka me dikevi."
+  - "Kakua ni tekivuna, tarova se veisautaka e dua na wainimate ni moce se ivuke ni moce ka sega ni veitaratara kei na vuniwai."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Na moce ca e vakavuna na mate o Alzheimer?"
+    a: "E sega ni vakadinadinataki oqori. Eso na vakadidike era semata na moce lekaleka kei na rerevaki levu ni mate ni guilecavi, ia na mate ni guilecavi vakataki koya e vakacacana na moce, e vuqa na yabaki ni bera na kilai. Na iVola ni Veitarogi ni Lancet ena 2024 e nanuma ni ivakadinadina e sega ni veidonui me volai kina na moce me ka ni rerevaki e rawa ni veisautaki."
+  - q: "E vica na aua ni moce e gadreva na qase?"
+    a: "Na National Institute on Aging e kaya ni qase era gadreva na levu ni moce vata ga kei ira na tamata lelevu tale eso, e 7 ki na 9 na aua ena dua na bogi. E levu na qase era dau moce totolo ka yadra totolo mai na nodra ivakarau e liu, ka oqo e ka dau yaco."
+  - q: "Na cava e moce kina ena siga ka yadra ena bogi o koya e bula kei na mate ni guilecavi ka o qarava?"
+    a: "Na mate ni guilecavi e rawa ni tarova na ivakarau ni yago me baleta na moce, ka veicurumaki kina na gauna ni moce kei na gauna ni yadra. Na mosi, na draki ni cegu, na viakana se na revurevu ni wainimate e rawa talega ni vakavuna. Na rarama ni siga, na itaviqaravi ena veisiga kei na ivakarau malumu ena yakavi e rawa ni vukea. E rawa ni raica na vuniwai na vuna e rawa ni qaravi."
+  - q: "Me’u solia li e dua na ivuke ni moce vua o koya au qarava?"
+    a: "Veitaratara mada kei na nona vuniwai, okati kina na ka e voli ka sega ni gadrevi na ivola ni vuniwai. Na National Institute on Aging e tukuna ni so na wainimate ni moce e rawa ni vakalevutaka na rerevaki ni malumalumu, na bale kei na veilecayaki vei ira era bula kei na mate o Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Na moce kei na bula ni monamona e semati vakamatata, ia na ivakarau ni nodra veisemati sa se vakadikevi tiko ga. Eso na vakadidike era semata na moce lekaleka kei na rerevaki levu ni mate ni guilecavi. Ena yasa kadua, na mate ni guilecavi e dau vakacacana na moce. Na tabana oqo e vakamacalataka na ka e vakaraitaka na dikevi kei na ka e sega ni vakaraitaka, e solia na ivakarau ni moce e veivuke, ka cavuta na leqa ni moce e dau yaco ena mate ni guilecavi. E sega ni solia na ivakasala me baleta na wainimate ni moce; na veitalanoa oqori e dodonu me caka kei na vuniwai.
 
-## Is poor sleep linked with dementia?
+## Na moce ca e semati li kei na mate ni guilecavi?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Eso na vakadidike balavu era semata na moce lekaleka kei na rerevaki levu ni mate ni guilecavi, ia na ivakadinadina sa se bera ni tudei.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Dua na vakadidike mai Peritania me 25 na yabaki.** Era muria na dauvakadidike rauta ni 8,000 na tamata lelevu ena [vakadidike o Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). O ira era moce ono na aua se lailai sobu ena yabaki 50 se 60 era rerevaki cake me baleta na mate ni guilecavi emuri mai ira era moce vitu na aua. O ira era moce ono na aua se lailai sobu ena 50, 60 kei na 70 era rerevaki cake rauta ni 30% mai ira era dau moce vitu na aua. Oqo e vakadidike ni vakaraica ga, ka vakaraitaka na veiwekani, sega ni vakavuna.
+- **Na rai ni iVola ni Veitarogi ni Lancet.** Na [iVola ni Veitarogi ni Lancet ena 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) a sega ni kuria na moce ki na nona lisi ni 14 na ka ni rerevaki e rawa ni veisautaki. Era nanuma ni ivakadinadina e sega ni veidonui vinaka. E dua na vuna na «veisau ni vakavuna»: na veisau ena monamona mai na mate ni guilecavi e tekivu ena vuqa na yabaki ni bera na kilai ka rawa ni vakacacana na moce. Ena dua na vakadidike levu, na veiwekani ena kedrau maliwa na moce balavu kei na mate ni guilecavi e yali ni kau tani na imatai ni lima na yabaki ni muri.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Na dua se rua na bogi ni moce lekaleka e sega ni vuna me lomaleqa kina. Na moce vinaka ka tudei e yaga me tovolea baleta ni vukea na yalo, na vakasama kei na taqomaki ena siga nikua.
 
-## What is the "brain-clearing" sleep research?
+## Na cava na dikevi ni «vakasavasavataki ni monamona» ena gauna ni moce?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+De o sa wilika ni moce e «savasava» na monamona. Na vakanananu oqori e yaco mai na dikevi dina, ia sa se bera.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Ena kalavo.** E dua na vakadidike ena 2013 [e vakamacalataki ena NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) a kunea ni vanua ena maliwa ni sela ni monamona e levu cake rauta ni 60% ni moce na kalavo. Na wai e drodro rawarawa cake ena monamona, ena ka era vakatoka na dauvakadidike me glymphatic system. Na beta-amyloid, e dua na protein e semati kei na mate o Alzheimer, e savasava totolo mai na monamona ni kalavo era moce.
+- **Vei ira na tamata.** E dua na [vakadidike lailai ena 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) a sikova na monamona ni 20 na tamata bulabula, ena yabaki 22 ki na 72, ni oti e dua na bogi ni moce vinaka kei na dua na bogi ka sega ni moce. Ni oti na bogi ka sega ni moce, na ivakatakilakila ni sikovi ni monamona me baleta na beta-amyloid e tubu cake rauta ni 5% ena dua na vanua e okati kina na hippocampus, e dua na tiki ni monamona e bibi ki na nanuma. Na dauvolaivola era vakatoka oqo me ivakadinadina taumada. Era sega ni kila se na veisau oqo e yali ni oti na vakacegu, se vakaraitaka ni vakarawarawataki na savasava se levu cake na amyloid e buli.
+- **E cakacaka ena rua na yasana.** Na iVola ni Veitarogi ni Lancet e tukuna ni levu ni amyloid e rawa ni vakacacana na moce vei ira na qase.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Na kune oqo e vakamacalataka na vuna era taleitaka kina na dauvakadidike na moce. Era sega ni vakaraitaka ni moce vinaka cake e tarova na mate o Alzheimer.
 
-## What sleep habits may help?
+## Na ivakarau cava ni moce e rawa ni vukea?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Na qase era gadreva rauta ni 7 ki na 9 na aua ni moce ena dua na bogi, vata ga kei ira na tamata lelevu tale eso, me vaka e kaya na [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Na nona ivakasala e okati kina:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Maroroya e dua na ivakarau tudei.** Moce ka yadra ena gauna vata ga ena veisiga, okati kina na macawa.
+- **Bulia e dua na ivakarau ni vakamalumalumutaki ni bera ni moce.** Wilika, vakarorogo ki na ivakatagi malumu se sili ena wai katakata ni bera ni moce.
+- **Vakamamarautaka na rumu ni moce,** me kakua ni katakata se batabata sara.
+- **Vakalailaitaka na caffeine ena yakavi.** Na kofi, ti, soda kei na jokeliti e rawa ni vakadredretaka na moce.
+- **Leveloa na alakaolo,** ena levu lailai mada ga, me vaka e vakasalataki ena NIA.
+- **Leveloa na kakana levu ena loma ni rua se tolu na aua ni bera ni moce,** kei na gunu levu ena yakavi.
+- **Cakava na vakaukauayago wasoma, ia kakua ena loma ni 3 na aua ni bera ni moce.** Raica na neitou [idusidusi ni vakaukauayago](/brain-health/exercise/).
+- **Biuta tani na sikirini mai na rumu ni moce.** Na NIA e vakatura me kakua ni sarava na retioyaloyalo se vakayagataka na kompiuta, talevoni se tebeleti e kea.
+- **Leveloa na moce lekaleka ena yakavi se bogi** kevaka e rawa.
 
-## Sleep problems in dementia
+## Na leqa ni moce ena mate ni guilecavi
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Na veisau ni moce e dau yaco ena mate ni guilecavi. Na [NIA e vola](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) na moce levu se lailai, na yadra vakavuqa ena bogi, kei na moce vakalevu ena siga. E vakamacalataka talega na sundowning: na sega ni vakacegu, na lomaleqa se na veilecayaki e tekivu se vakacacana ni butobuto na siga.
 
-Caregiver tips from the NIA include:
+Na ivakasala ni qaravi mai na NIA e okati kina:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Taura na rarama ni siga kei na toso ena mataka.** Lako ki tautuba se tiko voleka ki na katubaleka ena siga, ka vukea o koya o qarava me cakacaka ena veisiga. Na rarama kaukauwa e rawa ni vukea na ivakarau ni yago.
+2. **Vakarautaka na itaviqaravi kaukauwa ena mataka.** Tovolea na sili ena mataka se na kakana levu duadua ena siga loma.
+3. **Vakalekalekataka na moce vakalekaleka ka vakayacaka ena mataka.** Vakalailaitaka na moce lekaleka ena yakavi.
+4. **Vakamalumalumutaka na yakavi.** Vakalolovira na rarama, vakalailaitaka na rorogo, ka vakatagitaka na ivakatagi malumu kevaka e taleitaka o koya o qarava. Na neitou idusidusi me baleta na [sega ni vakacegu ena yakavi](/caregiving/late-day-restlessness/) e tiko kina eso tale na vakasama.
+5. **Maroroya e dua na ivakarau tudei ni bera ni moce.** Na wilivola cake ena gauna vata ga ena veibogi e dua na ivakaraitaki mai na NIA. E dua na [ivakarau tudei ni veisiga](/activities/daily-routine/) e vukea talega.
+6. **Vakalailaitaka na caffeine kei na alakaolo.**
+7. **Vakayagataka na cina lailai ni bogi** ena rumu ni moce, na sala kei na vale ni sili.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Me baleta na yadra ena bogi, na [ivakasala ni taqomaki e vale mai na NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) e okati kina na cina lailai ni bogi se na ivakarau ni rarama e waqa vakataki koya, na itautauri ena vale ni sili, na tepi rokataki ena bati ni ikabakaba, kei na maroroi ni wainimate ena vanua e sogo.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+E dua na itaviqaravi lekaleka ka vakanomodi ena yakavi e rawa ni vukei kemudrau mo vakacegu. Tovolea e dua na cegu malumu ni [Vakacegu ni Icegu](/games/calm-breathing/) se vica na [Kadi ni Veitalanoa](/games/conversation-cards/) e vakacegu. Kakua ni cakava e dua na ka e vakayavalata ni voleka na gauna ni moce, ka cegu ena gauna e sa rauti kina o koya o qarava.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Na moce veitaratara e vakadrukai ira talega na dauqaravi. Na neitou [idusidusi ni taqomaki koya na dauqaravi](/caregiving/caregiver-self-care/) e cavuta na sala me tauri kina na vakacegu kei na veivuke.
 
-## What about sleep apnea?
+## Vakaevei na sleep apnea?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Na sleep apnea e vakavuna na cegu lekaleka ni icegu ena gauna ni moce, e vuqa na gauna ena dua na bogi. Na NIA e kaya kevaka e sega ni qaravi, e rawa ni yaco na leqa me vaka na toso ni dra, na stroke se na yali ni nanuma. Na ivakatakilakila e okati kina na davui levu kei na draki ni moce ena siga, ka levu na tamata era sega ni kila ni tiko vei ira. Na iVola ni Veitarogi ni Lancet e vakamacalataka e dua na railesu ni 11 na vakadidike ka kunea ni o ira era tiko vei ira na sleep apnea era rerevaki cake rauta ni 43% me baleta na mate ni guilecavi. Ia e lailai na vakadidike oqori era dikeva na bibi ni yago, ka sega kina ni matata vinaka na veiwekani.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Na sleep apnea e rawa ni kilai ka qaravi. Na NIA e tukuna ni misini ni CPAP e dau veivuke wasoma. Kevaka o iko se o koya o qarava e davui vakalevu, e cegu na icegu ena gauna ni moce, se draki ni moce vakalevu ena siga, tukuna vua na vuniwai.
 
-## A note about sleep medicines
+## E dua na vakananumi me baleta na wainimate ni moce
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Keitou sega ni solia na ivakasala me baleta na wainimate ni moce se na ivuke ni moce. Na NIA e tukuna ni wainimate ni moce e rawa ni vukea ena gauna lekaleka ia e sega ni wali ni insomnia. E tukuna talega ni so na wainimate e soli me vukei ira era bula kei na mate o Alzheimer me ra moce e rawa ni vakalevutaka na rerevaki ni malumalumu, na bale kei na veilecayaki. Kakua ni tekivuna, tarova se veisautaka e dua na wainimate ni moce, okati kina na ivuke ni moce e voli ka sega ni gadrevi na ivola ni vuniwai, ka sega ni veitaratara kei na vuniwai se daunivakasala ni wainimate.
 
-## Talk with a doctor
+## Veitaratara kei na vuniwai
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Raica e dua na vuniwai kevaka o iko se o koya o qarava e dau oca wasoma, e dredre me moce ena vuqa na bogi, e davui vakalevu, se cegu na icegu ena bogi. Kevaka na leqa ni moce ena mate ni guilecavi e tomana tiko, na [NIA e vakatura](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) me kerea na ivakasala ni vuniwai. E dua na dikevi e rawa ni kunea na vuna me vaka na mosi, e dua tale na leqa ni moce, e dua na tauvimate se na revurevu ni wainimate. Na veilecayaki vakasauri, se na veisau vakasauri ni moce vata kei na veilecayaki, e gadrevi kina na qaravi totolo. Wilika [na gauna me raici kina na vuniwai](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Na tabana oqo e itukutuku raraba ga, sega ni ivakasala vakavuniwai. Raica na neitou [ivakadinadina vakavuniwai](/medical-disclaimer/).

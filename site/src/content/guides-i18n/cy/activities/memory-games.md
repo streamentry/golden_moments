@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Gemau Cof i Bobl Hŷn gyda Dementia: Fersiynau Ysgafn"
+seoTitle: "Gemau Cof Ysgafn ar gyfer Dementia"
+description: "Gemau paru, lluniau a chardiau i bobl hŷn gyda dementia, a sut i'w chwarae heb brofi neb: lluniau i fyny, llai o bâr, dim sgôr, chwarae fel tîm."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Mae gemau cof i bobl hŷn sy'n byw gyda dementia yn gweithio orau pan nad
+  ydynt yn dibynnu ar gof. Chwaraewch gemau paru gyda'r lluniau i fyny,
+  defnyddiwch bedwar i chwe theilsen, chwaraewch fel tîm a hepgorwch y sgôr.
+  Mae adnabod llun yn haws na chofio un, felly dewiswch gemau lle mae popeth
+  yn aros i'w weld. Mwynhad, nid canlyniad, yw'r nod.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Mae gemau cof clasurol yn cuddio'r cardiau, sy'n profi'r union beth mae dementia yn ei wneud yn anodd. Gadewch y lluniau i fyny yn lle hynny."
+  - "Mae llai o ddarnau, lluniau mwy ac un dewis ar y tro yn cadw'r gêm yn bleserus."
+  - "Chwaraewch fel tîm, cymrwch eich tro i helpu a hepgorwch y sgôr. Ni ddylai neb gael ei roi dan bwysau."
+  - "Nid oes unrhyw gêm gof wedi'i dangos i drin, arafu na stopio dementia. Chwaraewch am ei bod yn amser braf gyda'ch gilydd."
+  - "Stopiwch tra bod y gêm yn dal yn hwyl. Mae siarad am y lluniau yn ganlyniad da."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Beth yw gêm gof dda i rywun gyda dementia?"
+    a: "Gêm baru gyda lluniau mawr, cyfarwydd sy'n gallu aros i fyny, fel Picture pairs wedi'i gosod i bedair neu chwe theilsen. Mae dod o hyd i efaill llun rydych chi'n gallu ei weld yn rhoi boddhad heb brofi cof tymor byr. Mae Find the same hyd yn oed yn symlach, gydag un llun i'w baru o ddau i bedwar dewis."
+  - q: "A yw gemau cof yn helpu dementia?"
+    a: "Nid oes unrhyw gêm gof wedi'i dangos i drin, arafu na stopio dementia; canfu adolygiad Cochrane fod y dystiolaeth ar hyfforddiant ymennydd ar gyfrifiadur yn rhy gyfyngedig i ddweud a yw'n atal dementia. Gall gemau fod yn ffordd gynnes o dreulio amser gyda'ch gilydd o hyd. Dewiswch nhw ar gyfer mwynhad a chwmni."
+  - q: "A ddylwn i chwarae Concentration clasurol gyda rhywun sydd â dementia?"
+    a: "Yn gynnar, mae rhai pobl yn dal i'w fwynhau, yn enwedig gyda nifer fach o gardiau. Os yw cofio ble mae'r cardiau yn dechrau achosi rhwystredigaeth, trowch y cardiau i fyny a dewch o hyd i'r parau gyda'ch gilydd. Mae hynny'n cadw'r paru ac yn hepgor y prawf cof."
+  - q: "Pa gemau cof sy'n dda i bobl hŷn mewn grŵp?"
+    a: "Mae bingo lluniau gyda galwr ar y sgrin, gorffen dywediadau cyfarwydd ar lafar, a chardiau sgwrsio i gyd yn gweithio i grwpiau. Chwaraewch nes bod pob cerdyn yn llawn ac osgoi dweud pwy gafodd ateb, fel nad oes neb yn teimlo wedi'i nodi."
+  - q: "A oes gemau cof am ddim i bobl hŷn ar-lein?"
+    a: "Oes. Mae'r gemau ar y wefan hon, gan gynnwys Picture pairs, Find the same, Photo pairs a Picture puzzle, am ddim, nid oes angen cofrestru ac maent yn gweithio ar ffonau, tabledi a chyfrifiaduron. Nid oes gan yr un ohonynt amserydd na sgôr."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Chwiliwch am „gemau cof i bobl hŷn” ac mae'r rhan fwyaf o'r hyn a welwch wedi'i wneud i bobl sydd eisiau ymarfer eu meddwl: cardiau wedi'u cuddio, clociau sy'n cyfrif i lawr, lefelau a sgorau. I rywun sy'n byw gyda dementia, mae'r nodweddion hynny'n troi gêm yn brawf o'r union beth sydd wedi dod yn anodd. Gall yr un gemau gael eu chwarae mewn ffordd ysgafnach. Mae'r dudalen hon yn dangos sut, ac yn rhestru gemau sy'n gweithio'n dda ar bob cam.
 
-## Why do classic memory games frustrate people with dementia?
+## Pam mae gemau cof clasurol yn rhwystro pobl gyda dementia?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Am eu bod yn dibynnu ar gadw gwybodaeth newydd yn y cof, sef fel arfer y peth cyntaf y mae clefyd Alzheimer, achos mwyaf cyffredin dementia, yn effeithio arno. Dywed [Cymdeithas Alzheimer](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) mai symptom cynnar mwyaf cyffredin clefyd Alzheimer yw anhawster cofio gwybodaeth sydd newydd ei dysgu. Yn Concentration clasurol, rydych chi'n troi dau gerdyn, yn cofio ble roedden nhw, ac yn defnyddio hynny funud yn ddiweddarach. Dyna wybodaeth newydd, sy'n cael ei dal a'i galw i gof.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Ychwanegwch amserydd, sgôr neu sŵn am atebion anghywir, ac mae'r person yn cael ei atgoffa o'r hyn na all ei wneud, o flaen rhywun y mae'n ei garu. Mae llawer o bobl yn rhoi'r gorau i chwarae'n dawel.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Mae adnabod rhywbeth rydych chi'n gallu ei weld yn dasg wahanol ac fel arfer yn haws. Mae pwyntio at yr ail gwpan te pan mae'r ddau i'w gweld yn teimlo'n dda. Felly'r gamp yw cadw'r paru a hepgor y prawf cof.
 
-## How do you make a memory game gentle?
+## Sut gallwch chi wneud gêm gof yn ysgafn?
 
-These adjustments work for card games, board games and games on a screen.
+Mae'r newidiadau hyn yn gweithio ar gyfer gemau cardiau, gemau bwrdd a gemau ar sgrin.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Gadewch y lluniau i fyny.** Mae paru lluniau rydych chi'n gallu eu gweld yn dal yn gêm go iawn, ac yn aml yn un foddhaus.
+2. **Defnyddiwch lai o ddarnau.** Dechreuwch gyda dau neu dri phâr. Ychwanegwch fwy dim ond os yw'n teimlo'n rhy hawdd ac mae'r person eisiau mwy.
+3. **Dewiswch luniau mawr, cyfarwydd, i oedolion.** Cwpan te, blodyn haul, cwch hwylio. Dim cartwnau, a dim golygfeydd prysur.
+4. **Chwaraewch fel tîm.** „Dewch i ni ddod o hyd i'r cŵn” yn lle „dy dro di”. Cymrwch eich tro i bwyntio ac i helpu.
+5. **Hepgorwch y sgôr.** Does dim angen i neb ennill. Os bydd rhywun yn gofyn, mae „fe wnaethon ni” yn ddigon.
+6. **Peidiwch byth â rasio yn erbyn y cloc.** Dim amseryddion, a dim brysio rhwng troeon.
+7. **Siaradwch am y lluniau.** „Edrychwch ar y cwch yna. Aethoch chi hwylio erioed?” Yn aml, y sgwrs yw'r rhan orau.
+8. **Stopiwch ar nodyn da.** Gorffennwch ar ôl paru, tra bod y gêm yn dal i deimlo'n bleserus.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+Mae'r [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yn rhoi'r un cyngor cyffredinol: addaswch y gweithgaredd i'r hyn y gall y person ei wneud, gwyliwch am rwystredigaeth, a gwnewch yn siŵr bod y person yn teimlo'n llwyddiannus.
 
-## Gentle memory and matching games to try
+## Gemau cof a pharu ysgafn i'w rhoi ar brawf
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (paru gyda lluniau i'w gweld)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+Mae [Picture pairs](/games/picture-pairs/) yn gêm baru gyda lluniau mawr a 4 i 12 teilsen. Gall y lluniau aros i'w gweld, felly mae'n ymwneud â dod o hyd i efeilliaid, nid cofio ble roedden nhw. Dechreuwch gyda phedair teilsen. I rywun yn y cam cynnar sy'n mwynhau ychydig mwy o her, gallwch newid i **Hidden pictures**, ond ewch yn ôl i ddangos y lluniau cyn gynted ag y bydd yn rhoi'r gorau i fod yn hwyl.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+Mae [Find the same](/games/find-the-same/) yn dangos un llun ar y brig a dau i bedwar dewis isod. Tapiwch yr un sy'n paru. Dyma'r gêm baru symlaf ar y wefan ac mae'n addas i bobl sy'n gweld grid llawn yn rhy brysur, gan gynnwys llawer yn y camau diweddarach gyda rhywun wrth eu hochr.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (gêm gof gyda lluniau teulu)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+Mae [Photo pairs](/games/photo-pairs/) yn troi lluniau rydych chi'n eu dewis yn gêm baru: y ci, yr ardd, y tŷ wrth y llyn. Yn aml, mae wynebau a lleoedd cyfarwydd yn sbarduno sgwrs fwy nag unrhyw lun stoc. Mae'r lluniau'n aros yn eich porwr ac ni fyddant byth yn cael eu huwchlwytho.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+Mae [Sort together](/games/sort-together/) yn gofyn i chi roi pob llun yn y fasged lle mae'n perthyn, fel y gegin neu'r ardd. Mae didoli'n dibynnu ar wybodaeth hirhoedlog am sut mae'r byd yn gweithio, nid ar gof tymor byr.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+Mae [Picture puzzle](/games/picture-puzzle/) yn torri llun yn 4 neu 9 darn. Tapiwch ddau ddarn i'w cyfnewid nes bod y llun yn gyflawn. Mae'r llun cyflawn yn aros ar y sgrin fel canllaw.
 
-### Real cards on the table
+### Cardiau go iawn ar y bwrdd
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Does dim angen sgrin. Tynnwch barau sy'n cyfateb o ddau becyn o gardiau neu o set o gardiau lluniau. Gosodwch nhw i fyny mewn dwy res a dewch o hyd i'r parau gyda'ch gilydd. Yn ddiweddarach, didolwch yn ôl lliw neu siwt yn lle hynny. Mae [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) yn rhestru gemau cardiau a gemau bwrdd ymhlith gweithgareddau ar gyfer y cam cynnar.
 
-## Which memory games suit each stage?
+## Pa gemau cof sy'n addas i bob cam?
 
-Stages are loose labels. Go by what the person enjoys today.
+Labeli bras yw camau. Ewch yn ôl yr hyn y mae'r person yn ei fwynhau heddiw.
 
-| Stage | Games that often fit | How to set them up |
+| Cam | Gemau sy'n aml yn addas | Sut i'w gosod |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Cynnar | Picture pairs, Photo pairs, Picture puzzle gyda 9 darn, gemau cardiau cyfarwydd | Gadewch iddyn nhw ddewis. Gall y teils droi drosodd os ydynt yn ei fwynhau; hepgorwch y sgôr os yw'n eu poeni |
+| Canol | Picture pairs gyda 4 i 6 teilsen i fyny, Find the same, Sort together | Lluniau bob amser i'w gweld. Eisteddwch wrth eu hochr a chymerwch eich tro i helpu |
+| Hwyr | Find the same gyda 2 ddewis, edrych ar un llun mawr gyda'ch gilydd | Amser byr iawn. Rydych chi'n dal y llechen; mae'r person yn pwyntio, neu'n gwylio ac yn gwrando |
 
-## Do memory games help with dementia?
+## A yw gemau cof yn helpu gyda dementia?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Nid oes unrhyw gêm gof wedi'i dangos i drin, arafu na stopio dementia. Canfu [adolygiad Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) o hyfforddiant gwybyddol cyfrifiadurol i bobl ag nam gwybyddol ysgafn fod y dystiolaeth yn rhy gyfyngedig i ddweud a yw'n atal dementia. Mae ein canllaw i [gemau ymennydd a dementia](/brain-health/brain-games/) yn esbonio beth mae astudiaethau'n ei ddangos a beth nad ydynt.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Nid yw hynny'n rheswm i hepgor gemau. Mae [Cymdeithas Alzheimer](https://www.alz.org/help-support/caregiving/daily-care/activities) yn cynghori canolbwyntio ar fwynhad, nid ar gyflawniad. Gall deng munud o baru lluniau a siarad amdanynt fod yn rhan wirioneddol dda o'r diwrnod.
 
-## What about memory games for seniors without dementia?
+## Beth am gemau cof i bobl hŷn heb dementia?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Os yw oedolyn hŷn heb broblemau cof yn mwynhau posau wedi'u hamseru, sgorau a lefelau anoddach, does dim o'i le ar hynny. Peidiwch â dibynnu arno i amddiffyn rhag dementia; nid oes unrhyw gêm wedi'i dangos i wneud hynny. Mae'r fersiynau ysgafn uchod hefyd yn gweithio'n dda pan mae cenedlaethau'n chwarae gyda'i gilydd: gall taid neu nain sy'n byw gyda dementia ac ŵyr neu wyres ifanc baru lluniau fel tîm, heb i'r naill na'r llall gael eu profi.
 
-## When should you stop or change the game?
+## Pryd ddylech chi stopio neu newid y gêm?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Mae ochneidio, gwthio'r llechen i ffwrdd, dweud „alla i ddim gwneud hyn” neu edrych yn bryderus i gyd yn arwyddion i'w gwneud yn haws neu i stopio. Rhowch gynnig ar lai o deils, trowch y lluniau i fyny, newidiwch i [Find the same](/games/find-the-same/), neu edrychwch ar y lluniau a sgwrsio. Os nad yw'r person eisiau chwarae o gwbl, mae hynny'n iawn hefyd. Mae gan ein canllaw i [sut i chwarae gyda'ch gilydd](/caregiving/how-to-play-together/) ragor o wybodaeth am gyflymder a helpu.

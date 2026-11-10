@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Сънъ и зъдравиѥ мозга: чьто кажѫтъ изслѣдованиꙗ"
+seoTitle: "Сънъ и помѧтоꙗтѧтиѥ: чьто кажѫтъ изслѣдованиꙗ"
+description: "Чьто изслѣдованиꙗ кажѫтъ о сънѣ и помѧтоꙗтѧтии, почьто изслѣдованиꙗ о чищении мозга сѫтъ ранꙗ, и прости обычаи съна за старъцѧ и попечителѧ."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Нѣкотораꙗ дльгаꙗ изслѣдованиꙗ съвѧзꙋѭтъ кратъкъ сънъ въ срѣдьнѣи жизьни съ бол҄ьшимъ
+  ризикомъ помѧтоꙗтѧтиꙗ, а изслѣдованиꙗ въ лаборатории кажѫтъ, ꙗко сънъ можетъ помощи мозгꙋ
+  чиштати остатъкъ. Сьѥ вѣдѣниѥ ѥштє ранѥ, и докладъ комисиѩ The Lancet отъ 2024 лѣта не
+  причьтє съна къ измѣнꙗѥмꙑмъ ризикомъ. Рѧдьнии обычаи съна помагаѭтъ чоувьствовати сѧ
+  лѣпьѥ на вьсꙗкъ дьнь. Тѧжєсти съ съномъ при помѧтоꙗтѧтии чѧстѣ сѫтъ и добро ѥстъ
+  рєшти о нихъ съ врачємъ.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Изслѣдованиѥ въ Британии, ѥжє слѣдовашє околѡ 8 000 чловѣкъ за 25 лѣтъ, съвѧза сънъ шєсти часъ или мьньѥ въ срѣдьнѣи жизьни съ бол҄ьшимъ ризикомъ помѧтоꙗтѧтиꙗ."
+  - "Измѣнєнiꙗ съна могѫтъ быти и ран҄ьимъ знамєниѥмъ помѧтоꙗтѧтиꙗ, тѣмьжє тѧжько ѥстъ раздѣлити винѫ отъ слѣдьства."
+  - "Изслѣдованиꙗ о томь, ꙗко сънъ чиштитъ бєта-амилоидъ отъ мозга, сѫтъ истиньна, нъ ранꙗ, и мъного отъ нихъ сътворєно на мꙑшѣхъ."
+  - "Сънъноѥ останѥниѥ дꙑханиꙗ чѧсто ѥстъ, можєтъ сѧ лѣчити и въ изслѣдованиихъ съвѧзано съ помѧтоꙗтѧтиѥмъ; громъкоѥ хръпанiѥ и дьньнаꙗ съньливость достоитъ провѣрити."
+  - "Николижє не начинаитє, не прѣстаитє и не измѣнꙗитє лѣчьбꙑ или помощи за сънъ бєзъ врача."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Винитъ ли зълъ сънъ болѣзнь Алцхаимєра?"
+    a: "Сє нє ѥстъ оуказано. Нѣкотораꙗ изслѣдованиꙗ съвѧзꙋѭтъ кратъкъ сънъ съ бол҄ьшимъ ризикомъ помѧтоꙗтѧтиꙗ, нъ само помѧтоꙗтѧтиѥ мѫтитъ сънъ, чѧсто лѣта прѣждє познаниꙗ. Комисиꙗ The Lancet отъ 2024 лѣта расѫди, ꙗко вѣдѣниѥ нє ѥстъ довльно съгласьно, да причьтєтъ сѧ сънъ къ измѣнꙗѥмꙑмъ ризикомъ."
+  - q: "Колико съна трѣбꙋѭтъ старьци?"
+    a: "National Institute on Aging глаголѥтъ, ꙗко старьци трѣбꙋѭтъ толижє съна, ѥлико и дроузии възрастьнии чловѣци, отъ 7 до 9 часъ въ ношть. Мънози старьци ложѧтъ сѧ и въстаѭтъ ранѣѥ, нєжє прѣждє, и сє чѧсто ѥстъ."
+  - q: "Почьто чловѣкъ съ помѧтоꙗтѧтиѥмъ съпитъ дьньмь и бьдиштъ ноштиѭ?"
+    a: "Помѧтоꙗтѧтиѥ можетъ мѫтити тѣлєсьнꙑи часъ, тѣмьжє врѣмѧ съна и бьдѣниꙗ мѣшаѭтъ сѧ. Болѣзнь, оунынiѥ, гладъ или дѣиства лѣчьбъ такожє могѫтъ имѣти чѧсть. Дьньнꙑи свѣтъ, дьньноѥ движєниѥ и тихъ вєчєрьнии чинъ могѫтъ помошти. Врачь можетъ поискати винъ, ѩжє могѫтъ сѧ лѣчити."
+  - q: "Подамъ ли помощь за сънъ чловѣкꙋ, о н҄ємьжє пєкѫ сѧ?"
+    a: "Прѣждє глаголитє съ ѥго врачємъ, такожє о томь, ѥжє продаѥтъ сѧ бєзъ рєцєпта. National Institute on Aging поминаѥтъ, ꙗко нѣкотарꙑѩ лѣчьбꙑ за сънъ могѫтъ въздвигнѫти ризикъ головокрѫжєниꙗ, падєниꙗ и мѧтєниꙗ оу чловѣкъ съ болѣзниѭ Алцхаимєра."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Сънъ и зъдравиѥ мозга ꙗвѣ съвѧзана ѥста, нъ како съвѧзана ѥста, сє ѥштє изслѣдꙋѭтъ. Нѣкотораꙗ изслѣдованиꙗ съвѧзꙋѭтъ кратъкъ сънъ съ бол҄ьшимъ ризикомъ помѧтоꙗтѧтиꙗ. Помѧтоꙗтѧтиѥ жє чѧсто мѫтитъ сънъ. Си страница кажєтъ, чьто изслѣдованиꙗ оуказꙋѭтъ и чєго нє оуказꙋѭтъ, даѥтъ прости обычаи съна и глаголѥтъ о тѧжєстєхъ съ съномъ, ѩжє чѧстѣ сѫтъ при помѧтоꙗтѧтии. Она нє даѥтъ съвѣта о лѣчьбахъ за сънъ; та бесѣда подобаѥтъ съ врачємъ.
 
-## Is poor sleep linked with dementia?
+## Съвѧзанъ ли ѥстъ зълъ сънъ съ помѧтоꙗтѧтиѥмъ?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Нѣкотораꙗ дльгаꙗ изслѣдованиꙗ съвѧзꙋѭтъ кратъкъ сънъ съ бол҄ьшимъ ризикомъ помѧтоꙗтѧтиꙗ, нъ вѣдѣниѥ нє ѥстъ до коньца ꙗсно.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Изслѣдованиѥ въ Британии за 25 лѣтъ.** Изслѣдователє слѣдовашѧ околѡ 8 000 възрастьнъ въ [изслѣдовании Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Чловѣци, ижє съпахѫ шєсть часъ или мьньѥ въ 50 или 60 лѣтъ, имѣахѫ бол҄ьшии ризикъ помѧтоꙗтѧтиꙗ послѣждє, нєжє ти, ижє съпахѫ сєдмь часъ. Чловѣци, ижє съпахѫ шєсть часъ или мьньѥ въ 50, 60 и 70 лѣтъ, имѣахѫ околѡ 30% бол҄ьшии ризикъ, нєжє ти, ижє обꙑчьно съпахѫ сєдмь часъ. Сє бѣ изслѣдованиѥ видѣниꙗ, тѣмьжє оуказꙋѥтъ съвѧзь, а нє винѫ.
+- **Мънѣниѥ комисиѩ The Lancet.** [Комисиꙗ The Lancet отъ 2024 лѣта](https://doi.org/10.1016/S0140-6736(24)01296-0) нє причьтє съна къ своимъ 14 измѣнꙗѥмꙑмъ ризикомъ. Она расѫди, ꙗко вѣдѣниѥ нє ѥстъ довльно съгласьно. Ѥдина вина ѥстъ «възвратьнаꙗ вина»: измѣнєнiꙗ мозга отъ помѧтоꙗтѧтиꙗ начинаѭтъ сѧ лѣта прѣждє познаниꙗ и могѫтъ мѫтити сънъ. Въ ѥдиномъ вєлицѣмъ изслѣдовании съвѧзь мєждꙋ дльгꙑмъ съномъ и помѧтоꙗтѧтиѥмъ иштєзє, ѥгда отъложишѧ прьваꙗ пѧть лѣтъ слѣдованиꙗ.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Тѣмьжє кратъкаꙗ ношть инъгда нє ѥстъ вина за пєчаль. Рѧдьнъ и добръ сънъ достоитъ искати, пон҄єжє помагаѥтъ дьньсь чоувьствованиѭ, бьдрости и бєзопасьности.
 
-## What is the "brain-clearing" sleep research?
+## Чьто ѥстъ изслѣдованиѥ о «чищении мозга»?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Можєтъ быти чьлъ ѥси, ꙗко сънъ «чиштитъ» мозгъ. Си мꙑсль идєтъ отъ истиньна изслѣдованиꙗ, нъ оно ѥштє ранѥ.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **На мꙑшѣхъ.** Изслѣдованиѥ отъ 2013 лѣта, [описано National Institutes of Health](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), обрѣтє, ꙗко простороньство мєждꙋ клѣтъками мозга оу мꙑшии расшири сѧ околѡ 60%, ѥгда онѣ съпахѫ. Тєчєниѥ лѣгъчє протицашє сквозѣ мозгъ, чрѣзъ то, ѥжє изслѣдователє наричѭтъ глимфатичьскѫѭ сѵстємѫ. Бєта-амилоидъ, бѣлъкъ съвѧзанъ съ болѣзниѭ Алцхаимєра, чиштаашє сѧ скорѣѥ отъ мозга съпѧштиихъ мꙑшии.
+- **Оу чловѣкъ.** Малоѥ [изслѣдованиѥ отъ 2018 лѣта](https://www.pnas.org/doi/10.1073/pnas.1721694115) видѣ 20 зъдравъ чловѣкъ отъ 22 до 72 лѣтъ послѣ обꙑчьнꙑѩ ношти и послѣ ношти бєзъ съна. Послѣ ношти бєзъ съна знамєниѥ бєта-амилоида въ видѣнии мозга възидє околѡ 5% въ области, въ н҄єижє ѥстъ хипокампъ, мѣсто важьно за памѧть. Писавъшии нарєкошѧ сє прѣдъварьнꙑмъ вѣдѣниѥмъ. Они нє вѣдѣахѫ, иштєзнєтъ ли си измѣнєниѥ послѣ почиваниꙗ, или оуказꙋѥтъ на мєдльнѣишєє чиштєниѥ, или на бол҄ьшє творєниѥ амилоида.
+- **Сє дѣистꙋѥтъ на обѣ странѣ.** Комисиꙗ The Lancet поминаѥтъ, ꙗко събранiѥ амилоида само можєтъ мѫтити сънъ оу старьць.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Си обрѣтєнiꙗ помагаѭтъ разоумѣти, почьто изслѣдователє ищѫтъ о сънѣ. Они нє оуказꙋѭтъ, ꙗко лѣпьшии сънъ варꙋѥтъ отъ болѣзни Алцхаимєра.
 
-## What sleep habits may help?
+## Кꙑи обычаи съна могѫтъ помошти?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Старьци трѣбꙋѭтъ околѡ 7 до 9 часъ съна въ ношть, толижє ѥлико и дроузии възрастьнии чловѣци, по [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Ѥго съвѣти сѫтъ:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Дрьжитє рѧдьно врѣмѧ.** Ложитє сѧ и въстаитє въ тъждє часъ на вьсꙗкъ дьнь, такожє въ нєдѣлѧ.
+- **Сътворитє тихъ чинъ прѣдъ съномъ.** Чьтѣтє, слꙋшаитє тихѫ мѫсикиѭ или възьмѣтє тєплѫ кѫпѣль прѣдъ съномъ.
+- **Сътворитє ложьницѫ оугодьнѫ,** ни жєштоко горѧштѫ, ни стꙋдєнѫ.
+- **Оумальитє кофеинъ къ коньцꙋ дьнє.** Кафа, чаи, сладъкꙑ питiꙗ и шоколадъ могѫтъ дрьжати бьдна.
+- **Оставитє вино,** дажє мало, съвѣтꙋѥтъ NIA.
+- **Оставитє вєликꙑ ꙗди за двѣ или три годинꙑ прѣдъ съномъ,** и вєлика питiꙗ къ коньцꙋ дьнє.
+- **Двигаитє сѧ рѧдьно, нъ нє за 3 годинꙑ прѣдъ съномъ.** Виждь нашь [съвѣтъ о движєнии](/brain-health/exercise/).
+- **Дрьжитє ꙗвлѥниꙗ далєчє отъ ложьницѧ.** NIA съвѣтꙋѥтъ нє зьрѣти тамо видѣниꙗ, ни дѣлати на чьтильци, гласильци или дъсцѣ.
+- **Оставитє поздьнꙑ дьньнꙑ или вєчєрьнꙑѩ дрема,** аштє можєши.
 
-## Sleep problems in dementia
+## Тѧжєсти съ съномъ при помѧтоꙗтѧтии
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Измѣнєнiꙗ съна чѧста сѫтъ при помѧтоꙗтѧтии. [NIA поминаѥтъ](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) прѣмъного или прѣмало съпаниѥ, мъногоѥ бѫждєниѥ ноштиѭ и мъногоѥ дрема дьньмь. Тъ такожє описꙋѥтъ вєчєрьнєѥ нєпокоѥниѥ: нєпокоѥниѥ, мѧтєниѥ или съмѫштєниѥ, ѥжє начинаѥтъ сѧ или растєтъ, ѥгда дьньнꙑи свѣтъ оухаснєтъ.
 
-Caregiver tips from the NIA include:
+Съвѣти NIA за попечителѧ сѫтъ:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Възимитє дьньнꙑи свѣтъ и движєниѥ ранѡ.** Идѣтє вънъ или сѣдитє оу окна дьньмь, и помагаитє чловѣкꙋ быти дѣꙗтєльнꙋ на вьсꙗкъ дьнь. Ꙗръкъ свѣтъ можетъ помошти оуставити тѣлєсьнъ часъ.
+2. **Оустроитє силънꙑѩ дѣланиꙗ за оутро.** Покꙋшаитє мꙑти сѧ оутромъ или имѣти наибол҄ьшєѥ ꙗдєниѥ въ полоудьнє.
+3. **Дрьжитє дрема кратъкꙑ и ранꙑ.** Оумальитє поздьнѥѥ дрема.
+4. **Сътворитє вєчєръ тихъ.** Оумальитє свѣтъ, оумальитє шꙋмъ и пꙋститє тихѫ мѫсикѫ, аштє чловѣкъ ѭ любiтъ. Нашь съвѣтъ о [вєчєрьнѥмъ нєпокоѥнии](/caregiving/late-day-restlessness/) иматъ бол҄ьшє мꙑслии.
+5. **Дрьжитє рѧдьнъ чинъ прѣдъ съномъ.** Чьтєниѥ въ гласъ въ тъждє врѣмѧ къжьдо ношть ѥстъ ѥдинъ образъ NIA. [Рѧдьнъ дьньнъ чинъ](/activities/daily-routine/) такожє помагаѥтъ.
+6. **Оумальитє кофеинъ и вино.**
+7. **Оупотрѣбитє ноштьнꙑ свѣтильникꙑ** въ ложьници, проходѣ и мꙑтьницѣ.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+За ноштьноѥ бѫждєниѥ [съвѣти NIA о бєзопасьности домꙋ](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) поминаѭтъ ноштьнꙑ свѣтильникꙑ или самодѣистьвьнꙑ чꙋтєли свѣта, дрьжала въ мꙑтьницѣ, ꙗръко цвѣтьнѫ лѧнътѫ на краихъ стѫпєнии, и лѣчьбꙑ дрьжанꙑ въ заключєнѣ мѣстѣ.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Кратъкоѥ, тихоѥ дѣланиѥ вєчєръмь можетъ помошти вама обѣма оумирити сѧ. Покꙋшаитє мєдльнѫ паузѫ [Тихоѥ дꙑханиѥ](/games/calm-breathing/) или нѣколико тихъ [Картъ за бесѣдѫ](/games/conversation-cards/). Оставитє вьсє, ѥжє възбѫжаѥтъ, близъ съна, и прѣстанитє, ѥгда чловѣкъ иматъ довльно.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Прѣръванъ сънъ оутрѫжаѥтъ и попечителѧ. Нашь [съвѣтъ о попєчєнии о сєбѣ](/caregiving/caregiver-self-care/) глаголѥтъ о томь, како обрѣсти почиваниѥ и помощь.
 
-## What about sleep apnea?
+## А чьто о съньнѣмъ останѥнии дꙑханиꙗ?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Сънъноѥ останѥниѥ дꙑханиꙗ творитъ кратъкꙑ остани дꙑханиꙗ въ сънѣ, чѧсто мъногашьди въ ношть. NIA глаголѥтъ, ꙗко аштє сє нє лѣчiтъ сѧ, можєтъ вєсти къ тѧжєстємъ, ꙗко високо кръвьноѥ тиснєниѥ, оударъ или оубꙑваниѥ памѧти. Знамєниꙗ сѫтъ громъкоѥ хръпанiѥ и чоувьство съньливости дьньмь, и мънози чловѣци нє вѣдѧтъ, ꙗко имѫтъ сє. Комисиꙗ The Lancet описꙋѥтъ прєглѧдъ 11 изслѣдовании, въ нихъжє чловѣци съ съньнꙑмъ останѥниѥмъ дꙑханиꙗ имѣахѫ околѡ 43% бол҄ьшии ризикъ помѧтоꙗтѧтиꙗ. Нъ мало отъ тѣхъ изслѣдовании съмотрi тѧжєсть тѣла, тѣмьжє съвѧзь нє ѥстъ ꙗсна.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Сънъноѥ останѥниѥ дꙑханиꙗ можетъ сѧ познати и лѣчити. NIA поминаѥтъ, ꙗко оустрии CPAP почти вьсєгда помагаѥтъ. Аште тꙑ или чловѣкъ, о н҄ємьжє пєчєши сѧ, громъко хръплѥтъ, прѣстаѥтъ дꙑхати въ сънѣ, или ѥстъ зѣло съньливъ дьньмь, рьци врачꙋ.
 
-## A note about sleep medicines
+## Слово о лѣчьбахъ за сънъ
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Мꙑ нє даѥмъ съвѣта о лѣчьбахъ или приимъкахъ за сънъ. NIA поминаѥтъ, ꙗко лѣчьбꙑ за сънъ могѫтъ помошти на мало врѣмѧ, нъ нє сѫтъ цѣлѥниѥ бєсъниꙗ. Тъ такожє поминаѥтъ, ꙗко нѣкотарꙑѩ лѣчьбꙑ, ѩжє даѭтъ сѧ чловѣкомъ съ болѣзниѭ Алцхаимєра за сънъ, могѫтъ въздвигнѫти ризикъ головокрѫжєниꙗ, падєниꙗ и мѧтєниꙗ. Нє начинаи, нє прѣстаи и нє измѣнꙗи никоѥѩжє лѣчьбꙑ за сънъ, вьключаѭшти помощи бєзъ рєцєпта, бєзъ бесѣдꙑ съ врачємъ или лѣкарємъ.
 
-## Talk with a doctor
+## Глаголитє съ врачємъ
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Ищи врача, аштє тꙑ или чловѣкъ, о н҄ємьжє пєчєши сѧ, вьсєгда ѥстъ оутрѫждєнъ, иматъ тѧжєсть съ съномъ бол҄ьшє ноштии, громъко хръплѥтъ, или иматъ остани дꙑханиꙗ ноштиѭ. Аште тѧжєсти съ съномъ при помѧтоꙗтѧтии трьваѭтъ, [NIA съвѣтꙋѥтъ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) искати врачьска съвѣта. Провѣрѥниѥ можетъ обрѣсти винꙑ, ꙗко болѣзнь, инѫ тѧжєсть съ съномъ, нєдѫгъ или дѣиство лѣчьбꙑ. Вънєзапьноѥ съмѫштєниѥ, или вънєзапьнаꙗ измѣна съна съ съмѫштєниѥмъ, трѣбꙋѥтъ нѫждьнѫѭ помощь врача. Чьти [къгда искати врача](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Си страница ѥстъ обьштєѥ вѣдѣниѥ, а нє врачьскъ съвѣтъ. Виждь нашє [отрєчєниѥ о врачьствѣ](/medical-disclaimer/).

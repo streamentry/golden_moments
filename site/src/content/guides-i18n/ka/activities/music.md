@@ -1,32 +1,34 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "მუსიკალური აქტივობები დემენციის მქონე ადამიანებისთვის"
+seoTitle: "მუსიკალური აქტივობები დემენციის დროს"
+description: "როგორ გაუზიაროთ მუსიკა დემენციის მქონე ადამიანს: პერსონალური დასაკრავი სიის შედგენა, 15 მარტივი იდეა და რჩევები ყველა ეტაპისთვის."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  მუსიკა ერთ-ერთი ყველაზე მარტივი აქტივობაა, რომლის გაზიარებაც დემენციის მქონე
+  ადამიანთან შეგიძლიათ. შეადგინეთ პერსონალური დასაკრავი სია მათი ახალგაზრდობის,
+  რწმენისა და ოჯახის მუსიკიდან, დაუკარით რეკლამებისა და ფონური ხმაურის გარეშე
+  და ერთად იმღერეთ, ტაში დაუკარით, იმოძრავეთ ან უბრალოდ მოუსმინეთ. აირჩიეთ
+  მშვიდი ან უფრო ცოცხალი მუსიკა იმის მიხედვით, თუ რა შეეფერება ამ მომენტს,
+  ხმა დაბალ დონეზე დატოვეთ და შეწყვიტეთ, თუ რომელიმე სიმღერა ადამიანს
+  აღაშფოთებს.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "ყველაზე კარგად პერსონალური მუსიკა მუშაობს: ის სტილები, რომელიც მათ ახალგაზრდობაში უყვარდათ, ასევე მუსიკა მათი რწმენიდან, კულტურიდან და ოჯახური ღონისძიებებიდან."
+  - "ერთდროულად მხოლოდ ერთი რამ დაუკარით, რეკლამების გარეშე და გამორთული ტელევიზორით."
+  - "მონაწილეობის ფორმა შეიძლება იყოს სიმღერა, ტაშის დაკვრა, მუსიკაზე მოძრაობა ან უბრალოდ მოსმენა."
+  - "გამოიყენეთ უფრო მშვიდი მუსიკა დასამშვიდებლად და უფრო ცოცხალი — განწყობის ასამაღლებლად, და დააკვირდით, როგორ რეაგირებს ადამიანი."
+  - "სტრუქტურირებულ მუსიკალურ სესიებზე კვლევები შეზღუდულია; მუსიკას ჩვენ გთავაზობთ, როგორც приятел საქმიანობას, რომელსაც ერთად გაიზიარებთ, და არა როგორც მკურნალობას."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "რა სახის მუსიკაა საუკეთესო დემენციის მქონე ადამიანისთვის?"
+    a: "მუსიკა, რომელიც ადამიანს დიდი ხანია იცის და უყვარს — ხშირად მოზარდობისა და ოცი წლის ასაკის დროიდან — ასევე მუსიკა მათი რწმენიდან, კულტურიდან და ოჯახური დღესასწაულებიდან. თუ შესაძლებელია, მიეცით ადამიანს არჩევანის საშუალება. დააკვირდით მის სახესა და Körpers, რომ გაიგოთ, რა სიამოვნებს, და აღარ დაუკარით ის, რაც როგორც ჩანს აღაშფოთებს."
+  - q: "უნდა გამოვიყენო ყურსასმენები?"
+    a: "ზოგიერთ ადამიანს ყურსასმენები მოსწონს, რადგან ფონურ ხმაურს კრავს, სხვებისთვის კი ისინი არასასიამოვნო ან დამაბნეველი შეიძლება იყოს. ჯერ დინამიკით სცადეთ, რომ ერთად მოუსმინოთ. თუ ყურსასმენებს გამოიყენებთ, ხმა დაბალ დონეზე დატოვეთ და ახლოს იყავით."
+  - q: "შეუძლია მუსიკას მოუსვენრობის ან შეწუხების დროს დახმარება?"
+    a: "მშვიდმა, ნაცნობმა მუსიკამ შეიძლება მშვიდი განწყობის შექმნას ხელი შეუწყოს, და Alzheimer's Association გირჩევთ მუსიკის გამოყენებას იმ ატმოსფეროს შესაქმნელად, რომელიც გსურთ. ეს ყოველთვის არ მუშაობს. თუ ადამიანი შეწუხებულია, ასევე შეამოწმეთ, არ აწუხებს თუ არა ტკივილი, შიმშილი, ხმაური ან დაღლილობა."
+  - q: "შეუძლიათ გვიანი სტადიის დემენციის მქონე ადამიანებს კვლავ მიიღონ სიამოვნება მუსიკისგან?"
+    a: "ბევრს შეუძლია. Alzheimer's Association აღნიშნავს, რომ გვიან სტადიაზე მყოფმა ადამიანმა შეიძლება მაინც დაუკრას რიტმზე ან იმღეროს ბავშვობის სიმღერასთან ერთად. მიუჯექით, ჩუმად დაუკარით მუსიკა და ხელი მოჰკიდეთ ან ერთად იმოძრავეთ."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +47,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+მუსიკა ერთ-ერთი ყველაზე მარტივი რამ არის, რომლის გაზიარებაც დემენციის მქონე ადამიანთან შეგიძლიათ. ის არაფერს მოითხოვს: არც სწორ პასუხებს და არც გასაკეთებელ ნაბიჯებს. ნაცნობმა სიმღერამ შეიძლება გაიღიმებინოს ადამიანი, ფეხით რიტმზე დაკვრა გამოიწვიოს ან რამდენიმე სიტყვა ერთად երգებინოს, მაშინაც კი, როცა საუბარი რთულია. ყველაფერი, რაც გჭირდებათ, არის ამ კონკრეტული ადამიანისთვის შესაფერისი მუსიკა და მშვიდი chvíლი მის დასაკრავად.
 
-## What music activities work for people with dementia?
+## რა მუსიკალური აქტივობები ეხმარება დემენციის მქონე ადამიანებს?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+მოსმენა, სიმღერა, ტაშის დაკვრა, მუსიკაზე მოძრაობა და მუსიკაზე საუბარი — ეს ყველაფერი კარგად მუშაობს. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) გვთავაზობს მუსიკის მოსმენას, მუსიკასა და შემსრულებელზე საუბარს, კარგად ნაცნობ სიმღერებთან ერთად სიმღერას ან ცეკვას და საზოგადოებაში კონცერტებზე ან მუსიკალურ პროგრამებზე დასწრებას. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) acrescentრომ მოძრაობა, როგორიცაა ტაშის დაკვრა ან ცეკვა, შეიძლება სიამოვნებას მატებდეს, და რომ მუსიკა შეიძლება გახდეს დაკავშირების გზა მაშინაც, როცა სიტყვები რთულდება.
 
-## How do you build a personal playlist?
+## როგორ შევადგინოთ პერსონალური დასაკრავი სია?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+ყველაზე სასარგებლო, რაც შეგიძლიათ გააკეთოთ, არის დასაკრავი სიის შედგენა მუსიკით, რომელსაც ამ ადამიანისთვის მნიშვნელობა აქვს. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ასევე ხაზს უსვამს პირადად მნიშვნელოვან მუსიკას. აი, მარტივი გზა დასაწყებად.
 
-### Start with their life
+### დაიწყეთ მათი ცხოვრებით
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **მათი მოზარდობისა და ოცი წლის ასაკის წლები.** გაიხსენეთ, რა ჟღერდა რადიოში, ცეკვებზე და ფილმებში, როცა ისინი ახალგაზრდები იყვნენ.
+- **მნიშვნელოვანი მომენტები.** მუსიკა მათი ქორწილიდან, პირველი ცეკვა, ან ოჯახის საყვარელი ალბომი მოგზაურობებიდან.
+- **რწმენა და კულტურა.** საგალობლები, გოსპელი, საეკლესიო მუსიკა ან სიმღერები მათ მშობლიურ ენაზე.
+- **სამუშაო და სამსახური.** სამარშო ორკესტრები, სამუშაო სიმღერები ან მუსიკა, რომელიც სამხედრო სამსახურის პერიოდს უკავშირდება.
+- **რისი გახსენებაც ოჯახს შეუძლია.** ჰკითხეთ და-ძმებს, შვილებსა და ძველ მეგობრებს, რა მუსიკას უკრავდნენ ან მღეროდნენ ისინი ყოველთვის.
 
-### Think in genres, not just songs
+### იფიქრეთ ჟანრებზე და არა მხოლოდ отдельных სიმღერებზე
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+თუ არ იცით, საიდან დაიწყოთ, მოსმინეთ რამდენიმე წუთი თითოეულიდან და დააკვირდით რეაქციას: ბიგ-ბენდი და სვინგი, დუ-ვოპი, მოტაუნი და სოული, ადრეული როკ-ენ-როლი, ქანთრი და ვესტერნი, ბლუგრასი, გოსპელი და საგალობლები, ბროდვეის მელოდიები, ჯაზის სტანდარტები, ლათინური მუსიკა, როგორიცაა ბოლერო ან მარიაჩი, პოლკა, ფოლკი და კლასიკური მუსიკა. დატოვეთ ის, რაც ღიმილს ან ფეხით რიტმზე დაკვრას იწვევს; უარი თქვით იმაზე, რაც შეწუხებას აჩენს.
 
-### Make it easy to play
+### გაამარტივეთ დაკვრა
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **რეკლამების გარეშე.** Alzheimer's Association აფრთხილებს, რომ რეკლამებმა შეიძლება დაბნეულობა გამოიწვიოს. გამოიყენეთ ჩამოტვირთული მუსიკა, CD-ები, ფირფიტები ან რეკლამის გარეშე სერვისი.
+- **ერთი მარტივი მოწყობილობა.** დინამიკი ერთი დიდი ღილაკით ან უკვე მზად დასაკრავი სია, რომ ნებისმიერმა შეძლოს მისი ჩართვა.
+- **ორი მოკლე სია.** ერთი მშვიდი სია დასამშვიდებლად და ერთი ცოცხალი სია განწყობის ასამაღლებლად.
+- **დააწერეთ სახელი.** მოწყობილობაზე მიუთითეთ ადამიანის სახელი და „საყვარელი მუსიკა“, რათა სტუმრად მოსულმა ოჯახმა და მზრუნველებმააც შეძლონ მისი გამოყენება.
 
-## 15 music activities to try
+## 15 მუსიკალური აქტივობა, რომელიც შეგიძლიათ სცადოთ
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **ერთად მოუსმინეთ.** მიჯექით გვერდიგვერდ ისე, რომ სხვა არაფერი ხდება. მოსმენაც სრულფასოვანი აქტივობაა.
+2. **ერთად იმღერეთ.** თქვენ დაიწყეთ სიმღერა. ბზუილი ან ტუჩების მოძრაობა სიტყვების გარეშე ასევე ჩაითვლება.
+3. **ტაში დაუკარით ან რიტმზე დაუკარით.** შეეხეთ მუხლებს, დაუკარით მაგიდას ან გამოიყენეთ პატარა ხელის დოლი ან შეიკერი.
+4. **ნელა იცეკვეთ.** ხელები ჩაჭიდეთ და სამზარეულოში იმოძრავეთ, ან იჯექით და ხელები ერთად ამოძრავეთ.
+5. **შარფით ცეკვა.** მსუბუქი შარფები ამოძრავეთ მუსიკის რიტმზე, ფეხზე დგომით ან ჯდომით.
+6. **ილაპარაკეთ მუსიკაზე.** შესთავაზეთ და არა შეამოწმოთ: „ეს საცეკვაო დარბაზს მგავს. მიყვებით ცეკვებზე.“ არასდროს ჰკითხოთ: „გახსოვთ ეს სიმღერა?“
+7. **მთლიანი ალბომი ჩართეთ.** დაუკარით ფირფიტა, რომელიც უყვარდათ, თავიდან ბოლომდე, ყავასთან ერთად.
+8. **დაათვალიერეთ ალბომების ყდები.** ძველი ფირფიტების ყდები კარგი საგანია ტანსაცმელზე, მანქანებზე და სახეებზე სასაუბროდ.
+9. **უყურეთ მიუზიკლს.** მათი ეპოქის გადაღებული მიუზიკლი ან კონცერტი კარგი საღამო შეიძლება იყოს. შეაჩერეთ შესვენებებისთვის.
+10. **დაუკარით ინსტრუმენტზე, რომელსაც იცნობენ.** ყოფილ პიანისტს ან გიტარისტს შეიძლება მარტივი დაკვრა სიამოვნებდეს. მოგვიანებით რამდენიმე ნოტის ერთად ამოკვეთაც საკმარისია.
+11. **მუსიკა ყოველდღიური საქმეების დროს.** ჩართეთ საყვარელი სიმღერები სარეცხის აკეცვისას ან სუფრის გაშლისას.
+12. **დილის სიმღერა.** ყოველ დღე დაიწყეთ ერთი და იმავე მხიარული სიმღერით, როგორც რუტინის ნაწილით.
+13. **იმღერეთ საგალობლები ან საეკლესიო მუსიკა.** დაუკარით მუსიკა მათი რწმენის ტრადიციიდან და ერთად იმღერეთ.
+14. **შეუერთდით სამღერლო ჯგუფს.** NHS აღწერს სამღერლო ჯგუფებს, როგორც კარგს განწყობისა და კეთილდღეობისთვის. ადგილობრივად იკითხეთ დემენციის მქონე ადამიანებისთვის მეგობრულ გუნდებზე.
+15. **წადით ცოცხალ მუსიკაზე.** მოკლე საზოგადოებრივი კონცერტი ან ღია ცის ქვეშ ბენდი. მიჯექით გასასვლელთან ახლოს და წადით მაშინ, როცა მოგინდებათ.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+თუ გსურთ უფრო მსუბუქი სიტყვიერი აქტივობა ნაცნობი ფრაზებით, სცადეთ [დაასრულეთ ანდაზა](/games/finish-the-saying/), სადაც დაბოლოების ჩვენება ყოველთვის შეგიძლიათ.
 
-## Matching music to the moment
+## მუსიკის შერჩევა მომენტის მიხედვით
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association გირჩევთ მუსიკის გამოყენებას იმ განწყობის შესაქმნელად, რომელიც გსურთ: მშვიდი მუსიკა მშვიდი ატმოსფეროსთვის და მხიარული სიმღერა ვინმეს ახალგაზრდობიდან — განწყობის ასამაღლებლად.
 
-| Moment | Try | Tip |
+| მომენტი | რა სცადოთ | რჩევა |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| გაღვიძება | ნაცნობი, მხიარული სიმღერა | იგივე სიმღერა ყოველ დილით შეიძლება ნაზ მინიშნებად იქცეს |
+| სახლის საქმეები | საყვარელი, ენერგიული სიმღერები | მუსიკამ შეიძლება საქმეები უფრო прияти გახადოს |
+| კვება | ჩუმი ინსტრუმენტული მუსიკა | ხმა დაბალი დატოვეთ, რომ ჭამას არ შეეწინააღმდეგოს |
+| გვიანი შუადღე | მშვიდი, ნაცნობი მუსიკა კარგ განათებაში | იხილეთ [გვიან დღის მოუსვენრობა](/caregiving/late-day-restlessness/) |
+| დაძინება | ნელი, ნაზი მუსიკა | ხმა და განათება ერთად შეამცირეთ |
+| გვიანი სტადია | მათი ყველაზე საყვარელი სიმღერები, ძალიან ჩუმად | მიუჯექით და ხელი მოჰკიდეთ |
 
-## Tips for a good experience
+## რჩევები კარგი გამოცდილებისთვის
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **გამორთეთ სხვა ხმაური.** Alzheimer's Association გირჩევთ ფანჯრებისა და კარების დახურვას და ტელევიზორის გამორთვას, რომ მუსიკა იყოს ერთადერთი ხმა.
+- **ხმა დაბალ დონეზე დატოვეთ.** მუსიკა კომფორტული უნდა იყოს და არა ხმამაღალი. თუ ადამიანი სმენის აპარატებს იყენებს, დარწმუნდით, რომ ისინი ჩართულია და სწორად მუშაობს; იხილეთ [სმენა](/brain-health/hearing/).
+- **დააკვირდით სევდიან ასოციაციებს.** ზოგიერთი სიმღერა მწუხარებას, ომს ან დანაკარგს უკავშირდება. თუ სიმღერა ადამიანს აღაშფოთებს, ამოუდექით გვერდში და შეცვალეთ.
+- **მიეცით მას ხელმძღვანელობის საშუალება.** თუ შესაძლებელია, ადამიანს მიეცით მუსიკის არჩევის უფლება და მიიღეთ უარიც.
+- **შეწყვიტეთ ნებისმიერ დროს.** ხუთი წუთის მუსიკაც სრულფასოვანი აქტივობაა. გამორთვა და მშვიდად ჯდომაც ასევე.
 
-## What does the research say about music and dementia?
+## რას ამბობს კვლევა მუსიკასა და დემენციაზე?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+მტკიცებულებები შეზღუდულია. [2025 წლის Cochrane-ის მიმოხილვამ](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) განიხილა 30 კვლევა სტრუქტურირებულ მუსიკალურ სესიებზე, ძირითადად ჯგუფებთან მოხუცთა თავშესაფრებში. აღმოჩნდა, რომ ამ სესიებმა, ჩვეულებრივ მზრუნველობასთან შედარებით, სავარაუდოდ ოდნავ შეამსუბუქა დეპრესიული სიმპტომები, მაგრამ აგიტაციაზე, კეთილდღეობასა და აზროვნებასა და მეხსიერებაზე მკაფიო გავლენა ვერ აჩვენა და სესიების დასრულების შემდეგ დარჩენილი ეფექტებიც არ დაფიქსირდა.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+მუსიკას ვუზიარებთ ერთმანეთს იმიტომ, რომ ეს სასიამოვნო და მოკრძალებული გზა છે ერთად დროის გასატარებლად, და არა როგორც მკურნალობას. ჯგუფურ გარემოში ჩატარებისთვის იხილეთ [ჯგუფური აქტივობები მზრუნველობის დაწესებულებაში](/activities/care-home-groups/); მუსიკის ფოტოებისა და ისტორიების გვერდით გამოსაყენებლად იხილეთ [ wspomnიების აქტივობები](/activities/reminiscence/).

@@ -1,31 +1,31 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Уйла а, смогIан дахар а: хетарш а, пайда а дина а"
+seoTitle: "Уйла а, деменци а: хетарш а"
+description: "Хетарш бу уйла а, деменцин хийла а, смогIан гIовлар кхийса а хьакъ а, и аьрру хетарш долу ларам бу адамаш а, ларийна хенаш а, дика уйла хьеш долу дахар а."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Цхьа дуьххьара дахар дацарш дуьйцу, кхин кхузахь уйла гIовла кхийсабеш ву деменцин
+  хийлин. Хетарш ду, цхьана дуьххьара уйла смогIан ирча кхочу. Хетарш хьакъ дац, 2024
+  шерашка Lancet комисси уйла дацар бен чулоцу. Дика уйла хьеш дахар каждедневно йина
+  дика хетар дуьйцу. Деменцин уйла дахар хьакъ ду, и доктора кхетамца дуьйцу.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Британин цхьа хан 25 шерашка 8 000 адаме кхетарш долу дахар а, уйла 6 сахьт я кха хан а кхетарш долу деменцин хийлин кхетарш а."
+  - "Уйла гIовлар деменцин дуьххьара нышанах а ду, цуьнца хьакъ дуьйцу шен мохк ву ша а."
+  - "Уйла смогIан бета-амилоид кхийсадеш хетарш хьакъ ду, амма дуьххьара ду, оьшучу мышкашца лерина."
+  - "Уйла апноэ кхин дуьйцу, шен кхетамца дарий ду; кхо юхаяздан ойла а, кхин шен гIовла."
+  - "Уйла дарман, уьйла дарманан бен даймеха доктор кхетамца дац."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Уйла хьакъ дац Альцгеймеран?"
+    a: "Иза ца хьакъ. Цхьа хетарш уйла дацар деменцин хийлин кхетарш дуьйцу, амма деменци шен уйла дахар а хийла, цуьнца хьакъ уйла а тӀе диагноз а долуш. 2024 шерашка Lancet комисси уйла хийла модифицируемий мехалла цхьа хетарш дуьйцу."
+  - q: "Кхузахь уйла сахьт мича ду оьшучу адамаш?"
+    a: "National Institute on Aging дуьйцу, оьшучу адамаш хьакъ 7-9 сахьт ду, кхин адамаш санна. Цхьа оьшучу адамаш дуьххьара дийцаш ду, амма иза хьакъ ду."
+  - q: "Деменци долу адам тхо дуьйцуьйш юхаяздан кхузахь уйла мича сахьт ма?"
+    a: "Деменци шен уйла дахар а хийла, уйла а дийцаш а, яхаш а. Хьакъ, гайна, маъна а, дарманан кхетам а дуьйцу. Дика мича, каждедневан уйла, кхузахь гIовла уйла хьеш долу дахар а хьакъ ду. Доктор дарманан кхетам а лерина."
+  - q: "Сан ларам бу адамна уйла дарман ма дан?"
+    a: "Доктора кхетам ло, аптекан кхетам а (шен аптека а ца лаьцна) дуьйцу. National Institute on Aging дуьйцу, цхьа уйла дарман Альцгеймер долу адамашна дизиness, гIовла а, хийла а хьакъ дуьйцу."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +56,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Уйла а, смогIан дахар а хьакхаш ду, амма и хьакхаш хьакъ дуьйцуш ду. Цхьа хетарш уйла дацар деменцин хийлин кхетарш дуьйцу. Деменци, цуьнан тIаьхьа, уйла а хийла. ДаIа дийцарш хетарш а, хьакъ дахар а, оьшучу уйла дахар а дуьйцу. Дарман дарман дацаш бен хьакъ дац; и кхетам доктора цхьана ду.
 
-## Is poor sleep linked with dementia?
+## Уйла дацар деменцин хийлин хетарш дуьйцуш бу ма?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Цхьа дуьххьара дахар уйла дацар деменцин хийлин кхетарш дуьйцу, амма хетарш хьакъ дац.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **25 шерашка британин дахар.** Исследователи 8 000 адаме кхетарш ло, [Whitehall II дахар](https://www.nature.com/articles/s41467-021-22354-2) долуш. 50 я 60 шерашка уйла 6 сахьт я кха хан ду адамаш хийла кхетар дуьйцу, 7 сахьт уьйлар адамаш бен. 50, 60 а 70 шерашка уйла 6 сахьт я кха хан ду адамаш деменцин 30% кхин кхетар ду, каждедневно 7 сахьт уьйлар адамаш бен. Иза наблюдение дахар ду, цуьнан хьакъ, хетарш кхетар а, хийла а ца дуьйцу.
+- **Lancet комисси хетар.** [2024 Lancet комисси](https://doi.org/10.1016/S0140-6736(24)01296-0) уйла 14 модифицируемий хийлин хетар кхин а дацар. Цуьнан ойла, хетарш дуьйцу хьакъ ца ду. Цхьа ойла: "обратная причинность": деменцин смогIан гIовла диагноз тIаьхьа шерашка хьа долу, уйла хийла. Цхьа оьшучу дахар, деменцин хийлин кхетар дуьйцу уйла 5 шерашка тIаьхьа дахар а боцу.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Иштта, цхьа йоьхна уйла цхьа зама ца хьакъ ду. Дика, хьакъ уйла хьеш долу дахар хетар, ларам, дика а ду, хенаш.
 
-## What is the "brain-clearing" sleep research?
+## Уйла "смогIан тIе дика хаьа" кхетарш мила ду?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Уйла смогIан "тIе дика ду" бен хетарш дуьйцу. Иза хьакъ хетар ду, амма дуьххьара ду.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Лелхаш.** [2013 шерашка дахар](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), NIH дуьйцу, лелхаш уйла хан смогIан гIовла кхин 60% ду. Смогана тIе дуьйцу, исследователи "глимфатический система" йиш. Бета-амилоид, Альцгеймеран боьхна протеин, уйла лелхаш смогIан кхин кхуьйцу.
+- **Адамаш.** [2018 шерашка дахар](https://www.pnas.org/doi/10.1073/pnas.1721694115) 22-72 шерашка 20 дика адам ло. Цхьа дика уйла тIаьхьа а, уйла ца тIаьхьа а. Уйла ца тIаьхьа, смогIан сканирование бета-амилоидан хетар 5% кхин ду, гIиппокамп тIе, хьакхаш долу шовда. Авторы дуьйцу иза дуьххьара хетар ду. Иза ца дийцу, хьакъ цхьаьна дахар а ца ду, я амилоид хьакъ дай ду.
+- **Иштта цхьана кхин.** Lancet комисси дуьйцу, амилоид смогIан хьакъ уйла хийла оьшучу адамашна а ду.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Иза хетарш дуьйцу, исследователи уйла тIе ца деза. Иза ца дуьйцу, дика уйла Альцгеймер ца хьакъ.
 
-## What sleep habits may help?
+## Кхин уйла хьеш дахар а хьакъ ду?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+National Institute on Aging (NIA) дуьйцу, оьшучу адамаш 7-9 сахьт уйла хьеш ду, кхин адамаш санна. [NIA](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) кхетамаш:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Дика хан хьеш.** Каждедневно уьйлар сахьтан хьакъ, шовданан дийцаш ца, кхетам ло.
+- **Уйла тIаьхьа дахар хьеш.** Кхузахь дийцар, дуьйцар, ахь хьакъ уьйлар кхетамца дика тIаьхьа.
+- **Ларам гIовла дика ду,** ца хьакъ гIийнна, ца хьакъ кхуьйцу.
+- **Гайна кофе, чай, кола а, шоколад а дуьйцу** дуьйцуш долу уйла хийла.
+- **Алкоголь хьакъ ца дан,** цхьа оьмар дуьйцу, NIA кхетам.
+- **Уйла тIаьхьа оьшучу яхаш, хьакъ ца дан,** уйла 2-3 сахьт тIаьхьа.
+- **Каждедневно хьакъ дан, амма уйла 3 сахьт тIаьхьа ца.** Хьа [хьакъ гайд](/brain-health/exercise/).
+- **Экран гIовлара ца лахьа.** NIA дуьйцу, телевизор, компьютер, телефон я планшет гIовлара ца дан.
+- **Уйла гIовла ца лахьа, маршалла я хийла, хьакъ дан,** хьакъ дуьйцуш ду.
 
-## Sleep problems in dementia
+## Деменцин уйла хийлин хетарш
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Деменцин уйла дахар хьакъ ду. [NIA дийцарш](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) уйла шовда, я кхин ца, шовда кхуьйцу, гIовла ца, хенаш уйла цхьа хан хьакъ дуьйцу. Цхьа хетар, цхьаьна дахар, я гIийнна кхуьйцу, де кхуьйцуш долу "sundowning" ду: беспокойство, агитация, я маъна хийла.
 
-Caregiver tips from the NIA include:
+NIA кхетамаш ларам бу адамашна:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Дийна дувуш а, маршалла а хьеш.** Дийнахь гIовлара я шеран гIовла цхьа дуьйцар хан. Дика дувуш дуьйцу, дахар гIовла тIе.
+2. **Энергичан яхаш яхьа дувшкан.** Дуьйцу, дуьйцар дувшкан я хан дийнахь гIийнна.
+3. **Дуьйцар цхьа хан, дуьйцар тIаьхьа ца.** Уйла тIаьхьа гIийнна ца дуьйцар.
+4. **Гайна дика дан.** Шовда кхуьйцу, маъна кхуьйцу, гIиллина я дика музыка хьакъ. [Late-day restlessness гайд](/caregiving/late-day-restlessness/) кхин идеш.
+5. **Уйла хан дика хьеш.** Цхьа хан каждедневно кхин кхуьйцу, NIA хьакъ. [Каждедневан дахар](/activities/daily-routine/) а дика ду.
+6. **Кофе, алкоголь хьакъ ца дан.**
+7. **Ночник хьеш** ларам гIовла, коридор, душ гIовла.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Ночера дуьйцуш ду, [NIA кхетамаш](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) дуьйцу: ночник я автоматически свет сенсор, душ гIовла кхин сутка, кхин тIаьхьа ка, дарманан дика ларам бу гIовла.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Гайна дийцар я тIаьхьа дахар цхьа гайна уйла хьеш ду. ХьакхашцIе [Calm Breathing](/games/calm-breathing/) дуьйцар, я цхьа [Conversation Cards](/games/conversation-cards/) дуьйцар. Уйла гIовла кхузахь тIе яхаш ца дан, адам кхин дахар гIийнна я дуьйцуш ду.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Уйла ца хьакъ ларам бу адамашна кхин хийла. [Ларам бан дахар гайд](/caregiving/caregiver-self-care/) уйла хьеш а, хьакъ а дуьйцу.
 
-## What about sleep apnea?
+## Уйла апноэ тIе ма?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Уйла апноэ уйла хан дуьйцуш хенаш ца долу ду, цхьа оьмар ду. NIA дуьйцу, иза ца дарийна, цхьа хийла: дика ца, инсульт я смогIан хийла хьакъ ду. Нышанаш: дика хьакхаш, де хьакхаш кхуьйцу. Цхьа адам иза ца дуьйцу. Lancet комисси 11 дахар дуьйцу, апноэ долу адамаш деменцин 43% кхин кхетар ду. Амма дахар цхьаьна вес ду, уйла хьакъ ца дуьйцу.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Апноэ диагноз а, дарман а йиш ду. NIA дуьйцу, CPAP аппарат дика хьакъ дуьйцу. Хьа я ларам бу адам дика хьакхаш, уйла тIе ца дуьйцуш, де кхуьйцу, доктора кхетам ло.
 
-## A note about sleep medicines
+## Уйла дарманан хьакъ
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Тхо уйла дарман я добавка кхетам ца дуьйцу. NIA дуьйцу, уйла дарман цхьа хан дика хьакъ, амма инсомния дарман ца ду. Цуьнан тIаьхьа, Альцгеймер долу адамашна уйла дарман дизиness, гIовла, хийла хьакъ дуьйцу. Уйла дарман, аптекан кхетам бен, доктора я аптекарь кхетамца ца лахьа.
 
-## Talk with a doctor
+## Доктора кхетам ло
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Доктора кхетам ло, хьа я ларам бу адам кхиъ уйла, уйла ца хьакъ, дика хьакхаш, я уйла тIе апноэ нышанаш долуш. Деменцин уйла дахар цхьа хан ца шен ца дуьйцуш, [NIA кхетам](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) доктора кхетам лар. Диагноз яхаш ца дан: дарман, кхин уйла хийла, цхьа дарман хийла. Дуьйцар хийла, я уйла хийла маъна тIе, дуьйцуш ду. [Смогх нышанаш](/brain-health/warning-signs/) гайд.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Иза общий дахар ду, медицинан кхетам ца ду. [Медицинан кхетам](/medical-disclaimer/) гайд.

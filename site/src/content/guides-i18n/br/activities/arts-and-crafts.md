@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Arzoù-dorn evit tud gant an dementia"
+seoTitle: "Arzoù-dorn evit an dementia: evit tud a oad"
+description: "Soñjoù arzoù-dorn evit tud gant an dementia, eus livañ dourlivoù ha kolaj betek aozañ bleuniou. Gwellvezioù evit an aozadur, an addasaat ha ar prosez a bouez afell."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Arzoù-dorn mat evit tud gant an dementia a zo evit tud a oad, a seblant
+  kreñv ha kempenn: livañ dourlivoù, kolaj gant kazetennoù, aozañ bleuniou,
+  kleiz, kartennoù simpl pe pajennoù livañ evit tud a oad. Lakait nebeud a
+  draoù war an taol, skoazellit evit ar stroenn gentañ ma'z eo ret, komzit e
+  pad al labour, ha lakait an amzer a vez graet asambles da vezañ ar pennadenn.
+  Ar pezh a vez graet da echuiñ a zo dibarrek.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Dibabit traoù ha danvezioù a seblant kreñv, evel paper livañ dour, bleuniou gwir ha skeudennoù kazetennoù, ha n'eo ket dourlevr, ni stikerioù pe paperoù bugel gant skeudennoù."
+  - "Lakait ho skoazell war ar prosez: al liwioù, sentiñ ar c'hleiz, ar gaozeadenn. Ar pezh a vez graet da echuiñ a zo ur bonus, n'eo ket ar pal."
+  - "Roit un dra da ober pa c'hallit, evel ur c'harta evit ur bugel-bugel pe ur gwiskad evit ar foultr."
+  - "Skoazellit an den da gregiñ, goude e teuit a-gostez. Krogañ ur striad brosh asambles a sell ofern ar wech."
+  - "Ne vez ket ret echuiñ ar raktres en un deiz, ha bezañ paouezet a-raok an amzer a zo mat bepred."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Penaos e miren na vez ket bugelek ar c'hrafterezh?"
+    a: "Implijit danvezioù arzoù gwir, dremenadoù evit tud a oad ha ur mod kalonek da gomz. Lakait e-lec'h dourlevr ha pajennoù bugel ur paper livañ dour, lienenn, bleuniou, skeudennoù kazetennoù ha pajennoù livañ kaset a-dreuz. Na lavarit ket « Mat-tre! » evel m'ho peus lavaret da ur bugel; komzit eus al labour evel gant ur mignon a oad."
+  - q: "Pe arzoù a labour e derez diwezhatoc'h an dementia?"
+    a: "Raktresoù simpl hag a implij ar sentidi a labour gwelloc'h diwezhatoc'h: livañ gant ur brosh bras, gwask kleiz malet, aozañ nebeud a bleuniou er vazenn, pe dibab lienennoù dre ar sentiñ. Ret e vefe krogañ ar fentiñ asambles. Gwelet ho pezh livañ ha komz eus al liwioù a zo ur mod all da gemer perzh."
+  - q: "Ha ma lavar ec'h int n'o deus ket gallet livañ?"
+    a: "Lakait ar poan a-gostez. Klaskit raktresoù n'o deus reizh ebet, evel ur bladenn livañ, ur kolaj pe aozañ bleuniou. Gallit lavarout ivez e rankit skoazell gant un dra dibar, evel dibab al liwioù evit ur gartenn, evit ma vo ar raktres ur servij ha n'eo ket un test."
+  - q: "Ar pajennoù livañ a zo re vugelek evit tud a oad?"
+    a: "Ne vez ket pa vezont kempennet evit tud a oad. Dibabit pajennoù gant danvezioù a oad, evel gwiareg, kiltroioù, karrigoù pe lanneier, ha diskouezit anezho evel un dra difazi, n'eo ket ur skoazell. Gallit moullañ pajennoù livañ an hini a gavit amañ, pe livañ anezho war ur tablez."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Ar c'hrafterezh hag an arzoù a ro d'an dud gant an dementia ur mod da ziskouez o soñjoù hep bezañ rediet da gavout ar gerioù mat. Lavar a ra Kevredigezh Alzheimer's e c'hall raktresoù arzoù degas [ur santadenn kefridi ha ur plijadur da ziskouez](https://www.alz.org/help-support/caregiving/daily-care/art-music), evit ar re a zalc'h evezh warnañ kement ha evit an den gant an dementia. Ar pezh a bouez a zo derc'hel ar raktresoù adult, simpl ha hep poan. Er bajenn-mañ e kavot raktresoù resis, penaos e vez aozet ha penaos e vez addasket pa gemm traoù.
 
-## What makes an art activity adult and not childish?
+## Petra a ra un ober arzoù adult ha n'eo ket bugelek?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Un ober arzoù adult a implij danvezioù gwir, danvezioù a oad ha ur mod kalonek da gomz. Lavar a ra Kevredigezh Alzheimer's e rankit derc'hel ar raktresoù war ul live adult ha skuizh diouzh pep tra a c'hall seblant disprizus pe bugelek.
 
-| Feels childish | Feels adult |
+| Bugelek a seblant | Adult a seblant |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glitter, stikerioù ewin, llygadoù gwiber | Paper livañ dour, lienenn, bleuniou pinvet |
+| Pajennoù livañ bugel | Pajennoù livañ gerdiñ, kiltroioù, karrigoù pe lanneier |
+| "Labour mat" evit pep marc | Kaozeadenn gwir: "Al liv glas-se a zo kaer e-kichen ar glas" |
+| Ur c'hrafterezh hep arvest ebet | Ur gartenn evit ur mignon, ur gwiskad, ur giz |
+| Kelennadennoù a seblant ur skol | Ur bedadenn: "Ha c'hwi a skoazellfe ac'hanon gant an dra-mañ?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Soñjit a-zivout chaous an den. Un den a veze karet ar gwiad a c'hall plijout dezhañ dalc'h al lienenn. Un injer a vrezel gant ur pezh-kaer vras a c'hall plijout dezhañ kempenn ur pezh gant ar pezhioù bras pe lakaat trevnioù war un taolenn evit ur raktres. Ur c'helenner a oa a blij dezhañ ober kartennoù.
 
-## Why focus on the process, not the product?
+## Perak kanolil ar prosez, n'eo ket ar frued?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Abalamour ma'z eo ar pred asambles ar pal. Lavar a ra Kevredigezh Alzheimer's, en ur [skrid a-zivout an obererezhioù d'ar gêr](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf), e rankit kanolil ar prosez, n'eo ket an disoc'h. Ur pleustr « nemet glas » a zo c'hoazh ur pleustr. Un dramm gant tri skeudenn a zo c'hoazh un dramm.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Lavar a ra ivez ar Gevredigezh e c'hall un arzour a vicher bezañ dinerzh gant kemmoù e labourioù, pa vo un amatour a blij dezhañ ur chañs nevez da ziskouez e soñjoù. Ma oa an den ur barzh a vicher, klaskit ur gwiad disheñvel eus an hini en deus desket, evit ma vo ur c'hoari ha n'eo ket ur c'heñveriadenn.
 
-## Arts and crafts ideas to try
+## Idoù arzoù-dorn da glask
 
-Each idea includes how to make it simpler if it becomes hard.
+Pep idea a zo ennañ penaos e c'hallit ober anezhi dreistdoc'h mar bez diaes.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Dourlivoù livañ.** Gwlazit ur follenn paper livañ dour pounner ha lakait an den da zizoufañ al liv war-n-ezhañ gant ur brosh bras. Ar livioù a stard war-unan, ken ne vez netra a-wall ebet en disoc'h. *Dishualloc'h:* kinnig daou liv hepken, pe livañ gant dour war ur paper teñval a ziskouez ar marregoù gwlip.
+2. **Kolaj gant kazetennoù.** Torret skeudennoù a-raok eus kazetennoù a zo a-zivout al lodenn, boued, karrigoù, beaj pe ar c'hoarioù a oa gwechall. Lakait an den da zibab ha da staga skeudennoù war ur paper stardus. *Dishualloc'h:* kinnig pevar skeudenn torret a-raok ha ur bastell glu, hag ober ar stagadenn asambles.
+3. **Aozañ bleuniou.** Kevredigezh Alzheimer's ar Stadoù-Unanet a ginnig [aozañ bleuniou torret ha gwelioù](https://alzfdn.org/dementia-activity-gardening/) e displegadennoù simpl a-hed ar blezioù. Implijit ur vazenn pounner ha ni ha tolpennoù bet torret a-raok. *Dishualloc'h:* lakait nebeud a dolpennoù en ur potig bihan, unan goude egile.
+4. **Kartennoù gant bleuniou pinvet.** Pinvit bleuniou eus ur bouked e-touez pajennoù ul levr dre ur sizhun, goude staget anezho war ur paper stardus kaset. *Dishualloc'h:* c'hwi a lak ar glu, hi a wask ar bleun.
+5. **Pajennoù livañ evit tud a oad.** Dibabit pajennoù gant linennoù klok ha danvezioù gwir. Hor [pajennoù livañ](/games/coloring/) a c'hall ivez bezañ livet war skramm dre bokañ ul liv, goude un tamm eus ar skeudenn. *Dishualloc'h:* lodennoù brasoc'h, livioù nebeutoc'h, marker tev.
+6. **Kleiz pe toaz modelañ.** Rollit, gwaskit ha stummit kleiz a sec'h dre an aer pe toaz modelañ. Gwaskañ ur delienn en kleiz a zo ur blav-argil simpl. *Dishualloc'h:* gwaskañ ha rollañ hepken a zo un ober klok. Gwelit na lak an den ket kleiz en e genou.
+7. **Ober kartennoù.** Kevredigezh Alzheimer's a gemer evezh ober ur raktres gwir: « Kasomp ur gartenn da gempenn ur mignon. Ha c'hwi a skoazellfe ac'hanon? » Ar paper stardus a-raok ha stikerioù bleuniou pe stampoù a zo mat.
+8. **Albom koazh.** Lakait skeudennoù koant, kartennoù pe biletoù a oa gwechall war pajennoù albom asambles. Komzit a-zivout pep unan wrth ober. Gwelit hor [skrid kofiadur](/activities/reminiscence/) evit kaozeal gant tuder a-zivout ar c'hoarvezet gwechall.
+9. **Lienennoù ha platennoù gwiad.** Stagit tamm lienenn kordurez, velour, burlap ha sied war ur c'harton kalet. Ar wezh-se eo an ober ; ar pezh a zeu goude eo ar sentiñ. Gwelit ivez [skrid an obererezhioù sentiñ](/activities/sensory/) evit kavout muioc'h a soñjoù.
+10. **Gwellaat gwez simpl.** Evit an hini a blije dezhañ labourat gwez, a c'hall bezañ dizoleet ur blokad gwez lenn pe livañ ur voest evezh-evnoù rak e seblant en-tu. Dilamit an ostilhoù lemm ha bezit en traoù evezh.
+11. **Livañ en-dro d'ar sonerezh.** Lakait ur sonadenn a blij dezhañ ha livit stummoù pe liveier a glot gant an hwel. Ur c'hevrenn a zo bet plijet gant ur muiel tud. Gwelit [obererezhioù sonerezh](/activities/music/).
 
-## How do I set up an art session?
+## Penaos e stummiñ un abadenn arzoù?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Kinniget kentoc'h.** Torit, tamm ha lakait pep tra a zo ret a-raok ma vo pedet an den. Gortoz e-pad ma klaskit ar siziorioù a c'hall koll ar mare.
+2. **Derc'hit tra bihan.** Daou pe dri liv, ur brosh hepken, ur follenn paper hepken. Un tennadenn dibaboù re vras a c'hall sachiñ.
+3. **Gwarezit ar taol.** Ul lien plastik pe ur linzenn kozh a ro ar fiz kuit da zaouget.
+4. **Eseziñ a-gostez.** Labourit war ho pezh ho-unan a-gostez ar pezh an den. Ur pezh kenstag a seblant, hag n'eo ket ur gwelet.
+5. **Skoazellit anezhañ da gregiñ.** Kevredigezh Alzheimer's a lavar e rankit krogañ ar stroenn brosh gant an den. Ur wech kroget e kenderc'hel kalz tud.
+6. **Komzit e pad al labour.** Lavarit diwar-benn al liwioù pe an empennoù, pe lezit an arzoù da gas d'ar stourmoù. Chomit kuit ouzh ar goulennoù evel « Petra eo an dra-mañ? »
+7. **Lakait amzer a-stroll.** Ne vez ket ret echuiñ ur raktres en un deiz.
 
-## How do I adapt art as dementia changes?
+## Penaos e addasan an arzoù pa gemm an dementia?
 
-| Stage | What tends to work | What to adjust |
+| Derez | Petra a glot gant ar pezh | Petra da addasaat |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Kentañ | Klasoù, pajennoù livañ kizidik, albomioù, ober kartennoù, peintañ diwar ur skeudenn | Kinnig dibab ar raktresoù ; derc'hel anezhañ kenvroiñ |
+| Etre-dezhe | Kolaj torret a-raok, livañ gant dourlivoù, aozañ bleuniou, livañ gant lodennoù bras | Ur staj ha n'eo ket meur a stajoù ; c'hwi a zo a dorr ha stagadenn |
+| Diwezhañ | Striadoù brosh bras, gwaskañ kleiz, gwelet ar lienennoù, gwelet pezh a ra ac'hanoc'h | Kanolil ar sentidi ; kas gant an dorn dre ar blam ma vez plijet |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+An NHS a gemer evezh e vez aes ar raktresoù da vezañ simploc'h diwezhatoc'h, ha kanolil ar sentidi. Gwelet unan all o livañ, ha komz eus al liwioù, a zo ur mod gwir da gemer perzh. Evit muioc'h a soñjoù dre bep derez, gwelit [obererezhioù evit pep derez](/activities/ideas/).
 
-## Safety with art supplies
+## Surentez gant ostilhoù arzoù
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Dibabit peintioù, markerioù ha bastelloù glu n'int ket gwenwiñ.
+- Miret ar siziorioù, ar c'hazhoù torret ha ar pistoloù glu tomm e-maez a zorn. Ober ar torradennoù c'hwi-hunan a-raok.
+- Gwelit ma stag unan kleiz, livioù pe traoù bihan en e c'henoù.
+- Implijit gwazhioù stabil ha pounner evit an dour ha ar vazennoù.
 
-## When should we stop?
+## Pryd e tlefe paouezañ?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Paouezit pa vez chomet an evezh pe pa wel an nec'h. Lavar a ra Kevredigezh Alzheimer's e tlefe echuiñ pe cheñch un obererezh pa vez berr an evezh pe pa gresk an nec'h. Lakait ar raktres en ur plas diogel ha proponit un dra a zo distaolus. Gallout a rit distreiñ d'an dra war-lerc'h, pe ne zistroit ket. Pep tra a zo mat.
 
-## Display the work, if the person wants
+## Diskouezit al labour, mar fell d'an den
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Stagañ ur peintadenn war an yenedoueg pe frammañ ur gollaj a c'hall bezañ un doare disheñvel da ziskouez respet. Goulennit kentoc'h. Plijout a ra d'e-unan gwelet e labour war ar voger, d'egile n'o deus ket c'hoant.
 
-## Pair art with our games
+## Kemmit an arzoù gant hor c'hoarioù
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Pa vez re a boan da staliañ ar pevelioù d'an deiz, a c'hall [Livañ](/games/coloring/) bezañ gwelet war ur tablez hep saotr. [Pozelladenn ar skeudenn](/games/picture-puzzle/) a ziskouez ar skeudenn a-bezh evel arweziad pa vez kemmet ar pezhioù. [Kartennoù ar gaozeadenn](/games/conversation-cards/) a ro goulennoù digor a c'hall kas eus ur skeudenn betek ur gontadenn. Holl an dra-se ne zo ket a amzer na a boent ebet. Gallout a rit ivez moullañ pajennoù eus [obererezhioù moullet](/activities/printable/) hor strollad.

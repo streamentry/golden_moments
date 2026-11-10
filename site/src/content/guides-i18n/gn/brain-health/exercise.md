@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Jepokuaa ha akã resãi: jehapykueho ha tekorosã"
+seoTitle: "Jepokuaa ha deménsia: mba'épa jehapykueho he'i"
+description: "Mba'épa jehapykueho ombojoaju jepokuaa ha deménsia riesgo rehe, ha mba'éichapa kakuaáva ha tapichakuéra oikovéva deménsia reheve ikatu oñemýi tekorosãme."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Jehapykueho heta ombojoaju jepokuaa jepi ha deménsia riesgo sa'ive rehe, ha 2024 Lancet
+  Commission omombe'u ndojepokuáiha peteĩ 14 mba'e ikatúva oñemoambue rehegua apytépe. Ñeha'ã
+  ndohechaukái jepokuaa oñangarekóva deménsia rehe. Jepokuaa oipytyvõ gueteri mbarete,
+  joja, py'aguapy ha ke, upévare jeguata, apyka guýgui jepokuaa ha jeroky iporã ojapo hag̃ua
+  ha'eño rehe. Eñe'ẽ pohanohára ndive remoñepyrũ mboyve peteĩ mba'e pyahu.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Tapichakuéra ojepokuáva jepi oguereko jepi deménsia riesgo sa'ive, ha péva ou hetave jehapykueho ohechávagui, ndaha'éi ñeha'ãgui."
+  - "Peteĩ ñeha'ã 5 ary pukukue kakuaápe ndohechaukái mba'e iñambuéva tuicha arandu rehegua atykuéra apytépe."
+  - "CDC ñemyesakã kakuaáva 65 ary ha hetaveguápe guarã omombe'u jepokuaa iñapytu'ũva, mbarete mombareteva ha joja rehegua; he'i avei michĩmi jepokuaa iporãve ndojapói gui."
+  - "Tapichakuéra oikovéva deménsia reheve guarã, jepokuaa mbyky, ojekuaáva ha ojejapóva oñondive, peteĩ jeguata ára ha ára térã ñembosarái apyka guýgui, tuichave peteĩ papapy gui."
+  - "Peteĩteĩ kakuaáva irundy apytégui peteĩ ho'a peteĩ ary pukukue, upévare oñeha'ãra joja rehe ha tenda tekorosã oñemotenonde."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Ikatu piko jepokuaa oñangareko deménsia rehe?"
+    a: "Avave ndaikatúi he'i añetehápe upéva. Jehapykueho heta ombojoaju jepokuaa ha deménsia riesgo sa'ive, ha katu ñeha'ã pohanohára rehegua ndohechaukái jepokuaa oñangarekóva deménsia rehe. Jepokuaa oguereko heta mba'e porã ambue ojehechakuaáva, upévare iporã gueteri ojapo."
+  - q: "Tekorosã piko peteĩ tapicha oikovéva deménsia reheve ojepokuaa hag̃ua?"
+    a: "Hetave jey, oñembosako'íramo. National Institute on Aging he'i iporãha oñeñe'ẽ pohanohára ndive oñepyrũ mboyve peteĩ jepokuaa pyahu, ojeporavo sapatu oĩ porãva, oñeme'ẽ y, ha oñemombyky tembiapo. Opa ojehecha ramo pe tapicha kane'õ, ndojojái térã ndovy'ái."
+  - q: "Mba'e jepokuápa ikatu ojapo apyka guýgui?"
+    a: "Apyka guýgui ikatu ojapo apyka jepyso térã apyka yoga, oñemombo globo térã pelota mbegue, oñemombo ao ryru, ojehupi lata so'opa, oñepyso tira reheve ha ojejapo bicicleta apyka rehegua. Ko'ãva iporã ndaikatúiramo oñeguata."
+  - q: "Mba'épa ojejapo pe tapicha ndojepokuaséiramo?"
+    a: "Ani emyenyhẽ. Eha'ã jey ag̃ave, ejapo hendive, emoĩ purahéi ojekuaáva, térã embojehe'a jepokuaa peteĩ tembiapópe, techapyrã, oñemopotĩ térã oñemboy'u ka'avo. Peteĩ jeguata mbyky pe korreópe avei ovale, ha avei oporã oguapy oñondive okápe."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Jepokuaa ha'e peteĩ jepokuaa rehegua ojehapykuehovéva akã resãi jehapykuehópe. Jehapykueho ombojoaju upéva deménsia riesgo sa'ive rehe, ha katu ndohechaukái jepokuaa oñangarekóva deménsia rehe. Ojekuaáva ha'e jepokuaa oipytyvõha mbarete, joja, py'aguapy ha ke rehe opa aryme. Ko kuatiarogue omombe'u mba'épa jehapykueho he'i, mboy jepokuápa oñe'ẽ kakuaávape guarã, ha mba'éichapa ikatu oñemýi mbeguekatu peteĩ tapicha oikovéva deménsia reheve ndive.
 
-## Does exercise lower the risk of dementia?
+## Jepokuápa omomichĩ deménsia riesgo?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Jehapykueho he'i tapichakuéra ojepokuáva jepi hasýive ohupyty hag̃ua deménsia, ha katu pe kuaapy oguereko ijetu'u. [2024 Lancet Commission deménsia rehegua](https://doi.org/10.1016/S0140-6736(24)01296-0) omombe'u ndojepokuáiha peteĩ 14 mba'e ikatúva oñemoambue rehegua apytépe. Ko 14 mba'e oñembojehe'áramo, ha'ekuéra ombohovái 45% rupi deménsia opa yvy ape árigua rehe, he'i hikuái imodelope.
 
-Here is what the evidence looks like:
+Ko'ápe ojehecha mba'éichapa pe kuaapy oĩ:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Jehapykueho ohechávagui ou peteĩ hendápe.** Peteĩ jehechajey 58 jehapykueho rehegua, Commission omombe'úva, ohechakuaa tapichakuéra ojepokuáva jepi oguerekohague 20% rupi deménsia riesgo sa'ive. Pe iñambue tuichavéva oĩ umi tapicha ndojepokuáieterei ha umi ojapómiva michĩmi jepe apytépe.
+- **Pe joaju ikatu oho mokõi hendápe.** Commission he'i ndojepokuái ikatuha ombotuicha riesgo. Avei he'i deménsia ñepyrũ akãme, oñepyrũva heta ary oñemombe'u mboyve, ikatuha ojapo tapicha ndojepokuaséi.
+- **Ñeha'ã ndohesakãiete.** Peteĩ ñeha'ãme, 945 kakuaáva, ijyke 78 ary rupi, oñemboja'o 5 ary pukukue mokõi jey arapokõindýpe jepokuaa oñangarekóva térã peteĩ aty ambuépe. Opa rire, arandu rehegua ndojueheguaái atykuéra apytépe. Heta tapicha aty ambuévagui avei ojepokuaa, ha upéva ombohasyve pe mba'e ojehecháva ñemyesakã.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) omombe'u hesakãme. Ndojehechái joaju hesakãva jepokuaa ha Alzheimer ñangareko apytépe, ha ndaipóri kuaapy ñeha'ãgui hetaiterei ja'e hag̃ua jepokuaa oñangareko térã omomichĩha. Jepokuaa gueteri omomichĩ ho'a, ñeko'õi, diabetes, tuguy ojupíva ha tuguy atã ñeñapytĩ. Heta ko'ã mba'asy oñembojoaju avei arandu ñemomichĩ rehe.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Pe mba'e añete ha hesakãva ha'e oñemýi hag̃ua oñeñandu ha oñemba'apo porãve hag̃ua ko árape. Oiméramo akãpe oipytyvõ, upéva ikatu peteĩ mba'e porã extra, ndaha'éi peteĩ ñe'ẽme'ẽ.
 
-## How much activity do older adults need?
+## Mboy jepokuápa oikotevẽ kakuaáva?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC ñemyesakã kakuaáva 65 ary ha hetaveguápe guarã](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) oikuave'ẽ mbohapyichagua jepokuaa peteĩ arapokõindýpe:
 
-| Type | Weekly amount | Examples |
+| Mba'eichagua | Mboy peteĩ arapokõindýpe | Techapyrã |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Iñapytu'ũva (aeróbico) | Michĩvehápe 150 aravo'i jepokuaa mbytegua, techapyrã, 30 aravo'i 5 árape | Jeguata pya'e, jeroky, yguýpe aerobico |
+| Mbarete mombareteva | Michĩvehápe 2 ára, opa mbarete aty tuicháva reheve | Ojehupi mba'e pohýi térã lata so'opa, tira jepyso |
+| Joja | Jepi | Jeguata pytãsã rupive pytãsãme, opu'ã apyka guýgui |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Ko'ãva ha'e mba'e oñeha'ãva, ndaha'éi mba'e oñepyrũ hag̃ua añónte. CDC he'i ndereguerekóiramo ko'ã mba'e, ejepokuaava'erã nde rete ha nde resãi ikatúvaicha. Michĩmi jepokuaa iporãve ndojapói gui.
 
-## Gentle ways to move for older adults
+## Mba'éichapa oñemýi mbeguekatu kakuaávape guarã
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Eguata ambue ndive.** Jeguata ára ha ára irũnguéra, joyke'y térã aty oguatáva ndive ombojoapy ñemongeta ha tekorosã.
+- **Jepokuaa apyka guýgui.** Jyva jupi apyka guýgui, py jere, jeguata tendaguápe ha apyka yoga omombarete joja kyhyje'ỹre.
+- **Ejeroky kosináme.** Emoĩ purahéi pe tapicha mitã ha kyre'ỹ ára rehegua ha eñemýi, epytu'u térã eguata mbegue. Ore [ñemyesakã purahéi tembiapo rehegua](/activities/music/) ome'ẽ tembiporu.
+- **Mbarete mba'e óga reheve.** Ehupi y ryru térã lata so'opa henyhẽva ehecha aja peteĩ ta'anga jehecharamóva ohayhuvéva.
+- **Ejapo ka'avo térã tembiapo óga rehegua.** Ka'avo ñemboy'u, hogue ñembyaty, ñemopotĩ ha ao ñemboapy opa ovale. Ehecha [tembiapo okápe ha ka'avópe](/activities/outdoor-and-gardening/) ha [tembiapo óga rehegua](/activities/household-tasks/).
+- **Yguýpe jepokuaa.** NIA omombe'u yguýpe aerobico ha'eha peteĩ poravorã umi tapicha hasývape guarã ojepokuaa yvýpe.
 
-## How to exercise with someone living with dementia
+## Mba'éichapa oñejepokuaa peteĩ tapicha oikovéva deménsia reheve ndive
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Peteĩ tapicha oikovéva deménsia reheve guarã, pe mba'e tuichavéva ha'e tekorosã, vy'a ha ára ha ára katupyry ñangareko, ndaha'éi peteĩ papapy jehupyty. NIA he'i jepokuaa oipytyvõha oñangareko porã hag̃ua mbarete, py'a ha korasõ peteĩ tapicha Alzheimer's reheve, ha avei ikatu omoporãve py'aguapy ha ke. Eñe'ẽ pohanohára ndive oñepyrũ mboyve peteĩ jepokuaa pyahu. Ñe'ẽporã [NIA ñemyesakã ñangarekohára rehegua](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) apytégui:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Eguata hendive ára ha ára.** Eiporavo tape tekorosã ha ojekuaáva, mba'e noĩriva tape rehe. Pe tapicha oguata ramo ha'eño, iporã peteĩ apysa ID nde pumbyry papapy reheve.
+2. **Eha'ã ta'anga jepokuaa kakuaávape guarã.** Peju oñondive, apyka guýgui térã opu'ãva.
+3. **Emombyky tembiapo.** Heta «mini jepokuaa» mbykymi ikatu iporãve peteĩ pukúva gui.
+4. **Emoĩ purahéi.** Purahéi ojekuaáva ojapo jepokuaa ha'e peteĩ tembiapo vy'áva, ndaha'éi peteĩ tembiapo hasy. Ejeroky pe tapicha ovy'aramo.
+5. **Eme'ẽ y ha sapatu oĩ porãva.** Eme'ẽ y térã yva rykue oñepokuaa aja ha opa rire, ha eiporavo ao oĩ porãva ha sapatu ojokupytýva ojejapóva jepokuápe guarã.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Ndaikatúiramo oñeguata, [NIA ñemyesakã peteĩ tapicha Alzheimer's reheve ñangareko rehegua](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) oikuave'ẽ poravorã apyka guýgui. Umíva apytépe oĩ apyka jepokuaa térã yoga, ao ryru ñemombo, pelota mbegue térã globo ñemombo, tira jepyso, mba'e pohýi óga rehegua jupi, ha bicicleta apyka rehegua. Tembiapo ndahasýiva, ñemopotĩ ha yvytimbo ñemomýi, avei ovale.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Ehecha añetehápe mba'épa jepokuaa ikatu ojapo. Lancet Commission ndohechái jepokuaa omomichĩha teko ñemoambue, techapyrã, py'apy. Peju oñondive ikatu rehe oñeñandu porã, ndaha'éi peteĩ ka'aru hasy ñemyatyrõ hag̃ua. Pe tapicha he'íramo nahániri, upéva oĩ porã. Ore ñemyesakã [he'íramo nahániri](/caregiving/when-they-say-no/) ome'ẽ tape mbegue eha'ã jey hag̃ua ag̃ave. Opa pya'e, térã oguapy oñondive okápe, avei ha'e peteĩ mba'e porã.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Oñemýi rire, peteĩ pytu'u kirirĩháme [Pytu Kirirĩ](/games/calm-breathing/)-pe ikatu oipytyvõ peẽ mokõive peñepytu'u hag̃ua. Peteĩ tembiapo apyka guýgui jyva ñemýi mbegue reheve guarã, [Ñamohenda Ñondive](/games/sort-together/) ha [Ta'anga Bingo](/games/picture-bingo/) iporã mesa ári.
 
-## Balance and fall safety
+## Joja ha ho'a ñangareko
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Ho'a ojehu jepi ha ikatu tuicha mba'e. [CDC omombe'u](https://www.cdc.gov/falls/data-research/facts-stats/index.html) peteĩteĩ kakuaáva irundy apytégui peteĩ ho'aha peteĩ ary pukukue, ha katu sa'ive mbytéguigui omombe'u pohanohárape. Peteĩ ho'a ombohetave mokõi jeýpe ho'a jey hag̃ua. CDC omombe'u ko'ã mba'e ikatúva ombohetave:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Etyma ha tumby kangue
+- Jeguata ha joja apañuãi
+- Heta pohã, umi omongéva ha ambue antidepressivo
+- Tesa apañuãi
+- Py rasy térã sapatu ndoikóiva
+- Óga apañuãi, mba'e oñembyatyva, yvyjo'a ha eskaléra oñembyaíva
 
-To move more safely:
+Oñemýi hag̃ua tekorosãve:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Eipuru apyka hatãva** apyha'ỹva, ha eheja peteĩ mesa térã jokoha hi'aguĩva opu'ã hag̃ua.
+- **Emonandi pe tenda** yvyjo'a, sã ha mba'e oñembyatyvágui raẽ.
+- **Eñemýi mbegue opu'ãvo**, ha epa pe tapicha iñakãtarova térã ndojojái ramo.
+- **Eipuru sapatu omopytáva**, ndaha'éi ao py rehegua térã sapatilla aflojáva.
+- **Eñembokatupyry joja rehe jokoha hi'aguĩme.** Opu'ã apyka guýgui ha jeguata pytãsã rupive pytãsãme ha'e techapyrã CDC omombe'úva joja tembiapógui.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC he'i peteĩ kakuaáva ho'áva ha iñakã jotýva ohechaukava'erã pya'e pohanohára, hetave ou pohã tuguy mongu'éva.
 
-## Talk with a doctor
+## Eñe'ẽ pohanohára ndive
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Eñe'ẽ pohanohára ndive oñepyrũ mboyve peteĩ jepokuaa pyahu, hetave peteĩ tapicha oguerekóramo korasõ térã ñe'ã apañuãi, py'a rasy, joja apañuãi térã deménsia. Peteĩ pohanohára térã fisioterapeuta ikatu oikuave'ẽ tembiapo tekorosãva ha ohecha pohãpa ombyai joja. Emombe'u pohanohárape oimeraẽ ho'a, ndahasýiva jepe. Peteĩ mba'e hasýrõ térã ndoiporãiramo jepokuaa aja, epa. Pyti'a rasy sapy'a, pytu apañuãi térã akã tarova sapy'a oikórõ, ehenói 911-pe.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Ko kuatiarogue ome'ẽ marandu tuichakue, ndaha'éi pohanohára ñe'ẽporã. Ehecha ore [pohanohára rehegua marandu](/medical-disclaimer/). Ehecha hag̃ua tuichavéva, emoñe'ẽ [mba'épa jehapykueho he'i deménsia riesgo rehe](/brain-health/risk-factors/) ha [ikatúpa oñangareko deménsia rehe](/brain-health/can-dementia-be-prevented/).

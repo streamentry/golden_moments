@@ -1,32 +1,34 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "ᐊᐅᓚᕐᓂᖅ ᑲᕝᔭᖕᓄᓪᓗ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓕᕆᓂᖅ"
+seoTitle: "ᐊᐅᓚᕐᓂᖅ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᖃᐅᔨᓴᕐᓂᖅ"
+description: "ᖃᐅᔨᓴᕐᓂᖅ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓄᑦ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖏᑦ, ᐊᑦᑕᕐᓇᙱᑦᑐᓂᒃ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓂᒃ ᐃᓐᓇᐃᑦ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᓄᓪᓗ."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᒃᓴᐅᑎᑎᑦᑎᕗᑦ ᑲᒪᒋᔭᐅᖃᑦᑕᕐᓂᖅ ᐊᐅᓚᕐᓂᖅ ᐊᒃᑐᐊᓂᖃᕐᓂᖓᓂᒃ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ
+  ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᒥᑭᓛᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ, 2024-mi ᓚᓐᓯᑦ ᑲᒥᓯᖓᓗ ᐅᖃᐅᓯᖃᖅᑐᑦ ᐊᐅᓚᕐᓂᕐᒧᑦ
+  ᐱᔭᕇᖅᓯᒪᙱᑦᑐᓂᖅ ᐃᓚᒋᔭᐅᔪᖅ 14-ᓂᒃ ᐋᖅᑭᒋᐊᕈᓐᓇᖅᑕᐅᔪᓂᒃ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᓂᒃ.
+  ᖃᐅᔨᓴᕐᓂᖅ ᐆᒃᑐᕋᕐᓂᖅ ᑕᑯᒃᓴᐅᑎᑎᑦᑎᓯᒪᙱᑦᑐᖅ ᐊᐅᓚᕐᓂᖅ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑎᑦᑎᓂᖓᓂᒃ.
+  ᐊᐅᓚᕐᓂᖅ ᑲᔪᓯᓂᐊᖅᐳᖅ ᓴᙱᓂᕐᒧᑦ, ᓇᓕᒧᒌᓕᕆᓂᕐᒧᑦ, ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᓯᓂᕐᒧᓪᓗ, ᑕᐃᒪᐃᒻᒪᑦ ᐱᓱᒃᑎᑦᑎᓂᖅ,
+  ᐃᒃᓯᕙᐅᑕᕐᓂᖅ, ᐃᒃᓯᕙᐅᑎᒧᑦ ᐊᐅᓚᕐᓃᑦ, ᒧᒥᕐᓂᖅᓗ ᐱᐅᔪᒻᒪᕆᐅᔪᑦ ᐃᒻᒥᖕᓄᑦ ᐱᔾᔪᑎᖃᕐᓗᑎᒃ. ᐋᓐᓂᐊᓯᕐᒧᑦ
+  ᐅᖃᐅᑎᑎᑦᑎᓗᑎᑦ ᓄᑖᒥᒃ ᐱᒋᐊᕈᑎᒃᓴᒥᒃ.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "ᐊᐅᓚᖃᑦᑕᖅᑐᑦ ᐃᓄᒃ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᖅ ᒥᑭᓛᖅᑐᖅ ᑕᑯᒃᓴᐅᔪᖅ, ᑭᓯᐊᓂ ᑖᓐᓇ ᖃᐅᔨᓴᕐᓂᖅ ᐆᒃᑐᕋᕐᓂᖅ ᐊᒥᓱᓂᖅ ᑕᑯᔭᐅᓯᒪᔪᓂᒃ ᐱᔪᖅ, ᐆᒃᑐᕋᕐᓂᖅ ᖃᐅᔨᓴᕐᓂᖅ ᐱᔭᐅᙱᑦᑐᖅ."
+  - "ᑕᓪᓕᒪᓂᒃ ᐊᕐᕌᒍᓄᑦ ᐊᐅᓚᕐᓂᕐᒧᑦ ᖃᐅᔨᓴᕐᓂᖅ ᐃᓐᓇᐃᑦ ᐊᑯᓐᓂᖓᓂ ᑕᑯᒃᓴᐅᑎᑦᑎᓯᒪᙱᑦᑐᖅ ᓇᓗᓇᐃᔭᖅᓯᒪᔪᓂᒃ ᐊᔾᔨᒌᙱᑦᑐᓂᒃ ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐊᔪᙱᑦᑎᐊᕐᓂᕐᒧᑦ ᐊᔾᔨᒌᖏᑦᑐᑦ ᐊᑯᓐᓂᖏᑎᒍᑦ."
+  - "CDC-ᑯᑦ ᒪᓕᒐᖏᑦ ᐃᓐᓇᐃᑦ 65-ᓂᒃ ᐅᑭᐅᖅᑕᖅᑐᓄᑦ ᐊᒻᒪᓗ ᐊᖑᓂᐅᔪᓄᑦ ᐱᖃᖅᑐᑦ ᐊᐅᓚᕐᓂᕐᒧᑦ, ᓴᙱᓂᕐᒧᑦ, ᓇᓕᒧᒌᓕᕆᓂᕐᒧᑦ ᐊᐅᓚᕐᓂᕐᓂᒃ, ᐅᖃᖅᑐᑦᓗ ᐃᓚᖏᑦᑐᒥᒃ ᐊᐅᓚᕐᓂᖅ ᐱᐅᓂᖅᓴᐅᕙᖕᒪᖔᖅ ᐊᐅᓚᙱᓐᓂᕐᒥᑦ."
+  - "ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᓄᑦ ᐃᓄᒃ, ᓇᐃᑦᑐᑦ, ᖃᐅᔨᒪᔭᐅᔪᑦ, ᑲᑐᔾᔨᖃᑎᒌᒃ ᐊᐅᓚᕐᓃᑦ ᓲᕐᓗ ᖃᐅᑕᒫᑦ ᐱᓱᒃᑎᑦᑎᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒃᓯᕙᐅᑎᒥ ᐱᙳᐊᕈᓐᓇᕐᓂᖅ ᐱᒻᒪᕆᐅᓂᖅᓴᐅᕙᖕᒪᖔᖅ ᓈᓴᐅᑎᓕᒫᒥᑦ."
+  - "ᐃᓐᓇᐃᑦ ᓯᑕᒪᐅᑉ ᐊᑕᐅᓯᖓᓂᒃ ᐊᒥᓱᓂᖅ ᐅᓪᓗᕐᒥ ᓇᑲᖅᑐᑦ ᐊᕐᕌᒍᑕᒫᑦ, ᑕᐃᒪᐃᒻᒪᑦ ᓇᓕᒧᒌᓕᕆᓂᖅ ᐊᑦᑕᕐᓇᙱᑦᑐᖅ ᐃᓂᒃᓯᒪᓂᖅ ᓯᕗᓪᓕᖅᐹᒥ ᐱᒻᒪᕆᐅᔪᖅ."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "ᐊᐅᓚᕐᓂᖅ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᐸᖓ?"
+    a: "ᑭᓇᐅᓂᑐᐃᓐᓇᖅ ᐅᖃᕈᓐᓇᙱᑦᑐᖅ ᑕᐃᒪᓐᓇ. ᖃᐅᔨᓴᕐᓃᑦ ᐊᒥᓱᒐᓚᐃᑦ ᑕᑯᒃᓴᐅᑎᑎᑦᑎᕗᑦ ᐊᐅᓚᖃᑦᑕᕐᓂᖅ ᐊᒃᑐᐊᓂᖃᕐᓂᖓᓂᒃ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᒥᑭᓛᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ, ᑭᓯᐊᓂ ᐆᒃᑐᕋᕐᓂᖅ ᖃᐅᔨᓴᕐᓂᖅ ᑕᑯᒃᓴᐅᑎᑦᑎᓯᒪᙱᑦᑐᖅ ᐊᐅᓚᕐᓂᖅ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑎᑦᑎᓂᖓᓂᒃ. ᐊᐅᓚᕐᓂᖅ ᐊᓯᖏᓐᓂᒃ ᐊᒥᓱᓂᒃ ᐱᐅᔪᓂᒃ ᐃᑲᔫᑎᖃᖅᑐᖅ, ᑕᐃᒪᐃᒻᒪᑦ ᐱᔪᒪᓇᖅᑐᖅ."
+  - q: "ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᖅ ᐃᓄᒃ ᐊᑦᑕᕐᓇᙱᑦᑐᒧᑦ ᐊᐅᓚᕈᓐᓇᖅᐸᖓ?"
+    a: "ᐊᒥᓱᓂᖅ, ᐸᕐᓇᐅᑎᖃᕐᓗᓂ. National Institute on Aging ᐅᖃᐅᓯᖃᖅᑐᖅ ᓄᑖᒥᒃ ᐱᒋᐊᕈᑎᒃᓴᒥᒃ ᐋᓐᓂᐊᓯᖓᓄᑦ ᐅᖃᐅᑎᑎᑦᑎᓗᑎᑦ, ᐃᒃᓯᕙᐅᑎᓂᒃ ᓇᒧᙵᐅᓂᖃᕐᑐᓂᒃ ᓂᕈᐊᕐᓗᑎᑦ, ᐃᒥᕐᒥᒃ ᑐᓂᓗᑎᑦ, ᐊᐅᓚᕐᓃᓪᓗ ᓇᐃᑦᑐᓂᒃ. ᓄᖅᑲᕆᑦ ᑕᖃᒃᑯᐊ ᐃᓄᒃ ᐊᓕᒃᑐᓂᖅ, ᓇᓕᒧᒌᙱᓐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐊᓕᐊᓇᙱᓐᓂᖅ."
+  - q: "ᖃᓄᑐᐃᓐᓇᑦ ᐊᐅᓚᕐᓃᑦ ᐃᒃᓯᕙᐅᑎᒥ ᐱᔪᓐᓇᖅᐸᑦᑕ?"
+    a: "ᐃᒃᓯᕙᐅᑎᒥ ᐊᐅᓚᕐᓃᑦ ᐱᖃᖅᑐᑦ ᐃᒃᓯᕙᐅᑎᒥ ᐃᓱᒪᓕᐅᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒃᓯᕙᐅᑎᒥ ᔫᒐ, ᐳᑦᑕᖅᑐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᖅᑭᐅᑎᒥᒃ ᒥᓯᖅ, ᑲᐃᓗᐊᑦ ᐸᐅᓯᓯᒪᔪᑦ ᒥᓯᖅ, ᐃᒥᐅᕋᓛᓄᑦ ᑕᐅᑐᕋᐅᑎᑦ ᖁᑦᑎᖕᓂᖅᓴᐅᑎᑦ, ᐃᓱᒪᓕᐅᕐᓂᕐᒧᑦ ᐊᓯᐅᒻᒥᔪᑦ, ᐃᑎᒐᒃᑯᑦ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᑦ. ᑖᒃᑯᐊ ᐱᐅᔪᑦ ᐱᓱᒃᑎᑦᑎᓂᖅ ᐊᔪᙱᓐᓂᖅᐸᑦ."
+  - q: "ᐃᓄᖅ ᐊᐅᓚᕈᒪᙱᒃᐸᑦ?"
+    a: "ᓴᖅᑭᑎᑦᑎᓂᕐᒥᒃ ᐱᓇᓱᒃᑐᒃᓴᐅᓂᕐᒧᑦ ᐊᑐᕋᕐᓗᒍ. ᐅᐱᒍᓱᒃᑐᒃᓴᐅᖅ ᐆᒃᑐᕋᕐᓗᑎᑦ, ᐃᓕᓐᓂᐊᖅ ᐃᓚᒋᓗᑎᑦ, ᖃᐅᔨᒪᔭᐅᔪᓂᒃ ᐃᓄᒃᑎᑑᖅᑐᓂᒃ ᐃᓚᓗᑎᑦ, ᐅᕝᕙᓘᓐᓃᑦ ᐊᐅᓚᕐᓂᖅ ᐱᓕᕆᐊᒧᑦ ᐋᖅᑭᒋᐊᕐᓗᒍ ᓲᕐᓗ ᓴᓂᕋᔭᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐱᕈᕐᐸᓕᐊᓂᕐᒧᑦ ᐃᒥᕐᒥᒃ ᖁᕕᐊᓱᒃᑎᑦᑎᓂᖅ. ᓇᐃᑦᑐᖅ ᐱᓱᒃᑎᑦᑎᓂᖅ ᑎᑎᕋᕐᕕᒃᓴᒧᑦ ᓈᒻᒪᑦᑎᐊᖅᑐᖅ, ᓯᓚᑖᒃᑯᑦ ᐃᒃᓯᕙᓂᕐᒧᑦ ᑲᑐᔾᔨᖃᑎᒌᓐᓂᖅᓗ ᐱᐅᔪᖅ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +53,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+ᐊᐅᓚᖃᑦᑕᕐᓂᖅ ᐃᓚᒋᔭᐅᔪᖅ ᐊᒥᓱᓂᕐᒥᑦ ᖃᐅᔨᓴᖅᑕᐅᔪᓂᒃ ᐱᐅᓯᓂᒃ ᑲᕝᔭᖕᓄᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓕᕆᓂᕐᒧᑦ ᖃᐅᔨᓴᕐᓂᕐᒧᑦ. ᖃᐅᔨᓴᕐᓃᑦ ᑕᑯᒃᓴᐅᑎᑎᑦᑎᕗᑦ ᐊᒃᑐᐊᓂᖃᕐᓂᖓᓂᒃ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᒥᑭᓛᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ, ᑭᓯᐊᓂ ᑕᑯᒃᓴᐅᑎᑎᑦᑎᓯᒪᙱᑦᑐᑦ ᐊᐅᓚᕐᓂᖅ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑎᑦᑎᓂᖓᓂᒃ. ᓇᓗᓇᐃᔭᖅᑐᖅ ᐊᐅᓚᕐᓂᖅ ᐃᑲᔫᑎᖃᕐᓂᖓ ᓴᙱᓂᕐᒧᑦ, ᓇᓕᒧᒌᓕᕆᓂᕐᒧᑦ, ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᓯᓂᕐᒧᓪᓗ ᐊᕐᕌᒍᓕᒫᒥ. ᑖᓐᓇ ᒪᒃᐱᖅᑐᖅ ᐅᖃᐅᓯᖃᖅᑐᖅ ᖃᐅᔨᓴᕐᓂᖅ ᐅᖃᖅᑕᖓᓂᒃ, ᖃᓄᖅ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐃᓐᓇᐃᑦ ᐊᑯᓐᓂᖏᑎᒍᑦ ᐊᑐᖅᑕᐅᔭᕆᐊᖃᖅᑕᖏᑦ, ᐊᒻᒪᓗ ᓴᐳᒻᒥᔭᐅᔪᓂᒃ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓂᒃ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᖅ ᐃᓄᖅ ᐃᓚᐅᖃᑕᐅᓪᓗᓂ.
 
-## Does exercise lower the risk of dementia?
+## ᐊᐅᓚᕐᓂᖅ ᒥᑭᓕᐅᑎᑦᑎᕗᖓ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᖅ?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+ᖃᐅᔨᓴᕐᓂᖅ ᐅᖃᐅᓯᖃᖅᑐᖅ ᐊᐅᓚᖃᑦᑕᖅᑐᑦ ᐃᓄᒃ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐱᔾᔪᑎᖃᕐᓂᖅ ᒥᑭᓛᖅᑐᖅ, ᑭᓯᐊᓂ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖏᑦ ᑭᓪᓕᓯᓂᐊᖅᑐᑦ. [2024 ᓚᓐᓯᑦ ᑲᒥᓯᖓ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓄᑦ](https://doi.org/10.1016/S0140-6736(24)01296-0) ᐅᖃᐅᓯᖃᖅᑐᖅ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐱᔭᕇᖅᓯᒪᙱᑦᑐᓂᖅ ᐃᓚᒋᔭᐅᔪᖅ 14-ᓂᒃ ᐋᖅᑭᒋᐊᕈᓐᓇᖅᑕᐅᔪᓂᒃ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᓂᒃ. ᑲᑎᖢᒋᑦ, ᑖᒃᑯᐊ 14 ᐱᔾᔪᑎᑦ ᐃᓚᒋᔭᐅᔪᑦ ᐃᒪᓐᓇ 45% ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᓄᓇᕐᔪᐊᕐᒥ ᓈᓴᐅᓯᕆᓂᖏᑎᒍᑦ.
 
-Here is what the evidence looks like:
+ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖅ ᐃᒪᓐᓇ ᐃᔾᔨᕈᓇᖅᑐᖅ:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **ᑕᑯᔭᐅᓯᒪᔪᑦ ᖃᐅᔨᓴᕐᓃᑦ ᐊᑕᐅᓯᕐᒧᑦ ᑕᑯᒃᓴᐅᑎᑎᑦᑎᕗᑦ.** 58 ᖃᐅᔨᓴᕐᓂᕐᓂᒃ ᖃᐅᔨᓴᕐᓂᖅ, ᑲᒥᓯᐅᑉ ᐅᖃᐅᓯᖃᖅᑕᖓ, ᓇᓗᓇᐃᔭᖅᓯᒪᔪᖅ ᐊᐅᓚᖃᑦᑕᖅᑐᑦ ᐃᓄᒃ ᐃᒪᓐᓇ 20% ᒥᑭᓛᖅᑐᒥᒃ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᖅ ᐱᔾᔪᑎᖃᕐᓂᖏᑦ. ᐊᔾᔨᒌᙱᑦᑐᖅ ᐊᖏᓂᖅᓴᐅᔪᖅ ᐃᓄᖕᓂᒃ ᐊᐅᓚᙱᓚᐃᑦᑐᓂᒃ ᐃᓄᖕᓄᓪᓗ ᐃᓚᖏᑦᑐᒥᒃ ᐊᐅᓚᖃᑦᑕᖅᑐᓂᒃ.
+- **ᐊᒃᑐᐊᓂᖅ ᒪᕐᕉᓐᓂᒃ ᑐᕌᖓᔪᓐᓇᖅᑐᖅ.** ᑲᒥᓯᖅ ᐅᖃᐅᓯᖃᖅᑐᖅ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐱᔭᕇᖅᓯᒪᙱᑦᑐᓂᖅ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᖅ ᐅᓄᕈᓐᓇᖅᑎᑦᑎᔪᓐᓇᖅᑐᖅ. ᐅᖃᖅᑐᖅᓗ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᑉ ᓯᕗᓪᓕᖅᐹᑦ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓕᕆᓂᕐᒧᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᖏᑦ, ᐊᕐᕌᒍᓂᒃ ᐊᒥᓱᓂᒃ ᓇᓗᓇᐃᔭᐅᓯᒪᙱᑦᑐᑦ ᓯᕗᓂᖓᓂ, ᐃᓄᒃ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐱᔭᕇᖅᓯᒪᙱᑦᑐᒧᑦ ᐱᔾᔪᑎᖃᕐᑎᑦᑎᔪᓐᓇᖅᑐᑦ.
+- **ᐆᒃᑐᕋᕐᓂᖅ ᖃᐅᔨᓴᕐᓃᑦ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖏᑦ ᐊᔾᔨᒌᙱᑦᑐᑦ.** ᐆᒃᑐᕋᕐᓂᕐᒧᑦ ᖃᐅᔨᓴᕐᓂᕐᒥ, 945 ᐃᓐᓇᐃᑦ ᐊᑯᓐᓂᖏᑦ 78 ᐊᕐᕌᒍᑐᐃᓐᓇᖅ, ᑕᓪᓕᒪᓂᒃ ᐊᕐᕌᒍᓄᑦ ᒪᕐᕉᖅᑕᐅᑲᒃᑲᐃᓐᓇᖅ ᐱᓇᕐᓂᒃᑯᑦ ᐊᐅᓚᖃᑦᑕᖅᑐᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐊᔾᔨᒌᖏᑦᑐᑦ ᐊᑯᓐᓂᖏᑎᒍᑦ. ᐃᓱᓕᓐᓂᖓᓂ, ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐊᔪᙱᑦᑎᐊᕐᓂᖅ ᓇᓗᓇᐃᔭᖅᓯᒪᔪᒥᒃ ᐊᔾᔨᒌᙱᓚᖅᑐᖅ ᐊᑯᓐᓂᖏᑎᒍᑦ. ᐊᒥᓱᑦ ᐊᔾᔨᒌᖏᑦᑐᓂ ᐊᑯᓐᓂᖏᑎᒍᑦ ᐊᐅᓚᖃᑦᑕᖅᑐᑦ, ᑕᐃᒪᐃᒻᒪᑦ ᖃᓄᐃᓕᖓᓂᖓ ᑐᑭᓯᐅᒪᔪᓐᓇᙱᑦᑐᖅ.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) ᓇᓗᓇᐃᔭᖅᓯᒪᔪᒥᒃ ᐅᖃᖅᑐᖅ. ᓇᓗᓇᐃᔭᖅᓯᒪᔪᖅ ᐊᒃᑐᐊᓂᖅ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐋᓐᔅᕼᐊᐃᒪᑦ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑎᑦᑎᓂᕐᒧᑦ ᑕᑯᒃᓴᐅᑎᑦᑎᓯᒪᙱᑦᑐᖅ, ᐊᒻᒪᓗ ᓇᒻᒥᓂᖅ ᐆᒃᑐᕋᕐᓂᖅ ᖃᐅᔨᓴᕐᓂᖅ ᐱᔪᓐᓇᙱᑦᑐᖅ ᐅᖃᕈᓐᓇᕐᓂᕐᒧᑦ ᐊᐅᓚᕐᓂᖅ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᑎᑦᑎᓂᖓᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᓱᑲᒃᑎᑦᑎᓂᖓᓂᒃ. ᐊᐅᓚᕐᓂᖅ ᑲᔪᓯᓂᕐᒥᑦ ᒥᑭᓕᐅᑎᑦᑎᕗᖅ ᓇᑲᖅᑐᓂᕐᒧᑦ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ, ᐃᓱᒪᓕᒫᖅᓯᐅᕐᓂᕐᒧᑦ, ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓄᑦ ᐋᓐᓂᐊᖃᕐᓇᖅᑐᓄᑦ, ᐊᐅᒃᑰᖅᑐᓄᑦ ᐱᓗᐊᖅᑐᓄᑦ ᐊᒻᒪᓗ ᑲᕝᔭᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓇᖅᑐᓄᑦ. ᐃᓚᖏᑦ ᑖᒃᑯᐊ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᑦ ᐊᒃᑐᐊᓂᖃᖅᑐᑦ ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᐊᔪᙱᑦᑎᐊᕐᓂᕐᒧᑦ.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+ᓱᓕᔪᒥᒃ ᑐᑭᓯᐅᒪᓂᖅ ᐊᐅᓚᕐᓗᑎᑦ ᐃᑲᔫᑎᖃᕐᓂᐊᕐᒪᑦ ᐅᓪᓗᒥ ᐱᐅᓂᖅᓴᐅᓂᕐᒧᑦ ᐊᔪᙱᑦᑎᐊᕐᓂᕐᒧᓪᓗ. ᑲᕝᔭᖕᓄᑦ ᐱᐅᔪᓐᓇᖅᑐᖅ ᐃᑲᔫᑎ ᐱᔪᓐᓇᖅᑐᖅ, ᐊᖏᖅᓯᒪᔪᖅ ᐱᓇᓱᐊᕈᓯᖅ ᐱᙱᓪᓗᓂ.
 
-## How much activity do older adults need?
+## ᖃᓄᖅ ᐊᒥᓱᓂᒃ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐃᓐᓇᐃᑦ ᐊᑯᓐᓂᖏᑎᒍᑦ ᐱᔭᕆᐊᖃᖅᐸᑦᑕ?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC-ᑯᑦ ᒪᓕᒐᖏᑦ ᐃᓐᓇᐃᑦ 65-ᓂᒃ ᐅᑭᐅᖅᑕᖅᑐᓄᑦ ᐊᒻᒪᓗ ᐊᖑᓂᐅᔪᓄᑦ](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) ᐅᖃᐅᓯᖃᖅᑐᑦ ᐱᖓᓱᓂᒃ ᖃᓄᐃᑦᑑᓂᖏᑦ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐱᓇᓱᐊᕈᓰᑦ ᐊᑕᐅᓯᕐᒥ:
 
-| Type | Weekly amount | Examples |
+| ᖃᓄᐃᑦᑑᓂᖓ | ᐱᓇᓱᐊᕈᓰᑦ ᐊᒥᓲᓂᖓ | ᐆᑦᑐᕋᐅᑏᑦ |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| ᐊᐅᓚᕐᓂᖅ ᐊᓄᕆᐊᖃᖅᑐᖅ | ᒥᑭᓪᓕᑕᐅᙱᑦᑐᖅ 150 ᒥᓂᑦᓯᑦ ᐊᑯᓐᓂᖓᓂ, ᓲᕐᓗ 30 ᒥᓂᑦᓯᑦ 5 ᐅᓪᓗᓂ | ᓱᒃᑲᐃᓂᖅ ᐱᓱᒃᑎᑦᑎᓂᖅ, ᒧᒥᕐᓂᖅ, ᐃᒪᕐᒥ ᐊᐅᓚᕐᓂᖅ |
+| ᓴᙱᓂᕐᒧᑦ ᐊᐅᓚᕐᓂᖅ | ᒥᑭᓪᓕᑕᐅᙱᑦᑐᖅ 2 ᐅᓪᓗᓂ, ᑎᒥᒥ ᐊᒻᒪᓗ ᐃᑎᒐᒃᑯᑦ ᓴᙱᓂᖏᑦ ᐊᑐᖅᑕᐅᓗᑎᒃ | ᐅᖁᒪᐃᑦᑐᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒥᐅᕋᓛᓄᑦ ᑕᐅᑐᕋᐅᑎᓂᒃ ᖁᑦᑎᖕᓂᖅᓴᐅᑎᓂᒃ, ᐃᓱᒪᓕᐅᕐᓂᕐᒧᑦ ᐊᓯᐅᒻᒥᔪᑦ |
+| ᓇᓕᒧᒌᓕᕆᓂᖅ | ᑲᒪᒋᔭᐅᖃᑦᑕᕐᓗᓂ | ᐊᓕᒍᖅᑐᒧᑦ ᑭᖑᓪᓕᖅᐹᖅ ᑐᙵᕕᒃᑐᒧᑦ ᐱᓱᒃᑎᑦᑎᓂᖅ, ᐃᒃᓯᕙᐅᑎᒥᑦ ᓂᕿᓂᖅ |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+ᑖᒃᑯᐊ ᑐᕌᒐᖃᖅᑐᑦ, ᐱᒋᐊᕈᑎᒃᓴᐃᑦ ᐱᙱᑦᑎᒍᑦ. CDC ᐅᖃᖅᑐᖅ ᑖᒃᑯᓄᖓ ᑎᑭᐅᑎᔪᓐᓇᙱᒃᐸᑦ, ᐊᐅᓚᕐᓗᑎᑦ ᐊᔪᙱᑦᑎᐊᕐᓂᕐᓂᒃ ᐊᒻᒪᓗ ᐋᓐᓂᐊᖃᕐᓇᙱᑦᑐᓕᕆᓂᕐᓂᒃ ᐱᔾᔪᓯᕐᓄᑦ ᒪᓕᒃᓗᒍ. ᐃᓚᖏᑦᑐᒥᒃ ᐊᐅᓚᕐᓂᖅ ᐱᐅᓂᖅᓴᐅᕙᖕᒪᖔᖅ ᐊᐅᓚᙱᓐᓂᕐᒥᑦ.
 
-## Gentle ways to move for older adults
+## ᓴᐳᒻᒥᔭᐅᔪᑦ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᑦ ᐃᓐᓇᐃᑦ ᐊᑯᓐᓂᖏᑎᒍᑦ
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **ᐃᓄᖕᓂᒃ ᐃᓚᐅᖃᑕᐅᓪᓗᑎᑦ ᐱᓱᒃᑎᑦᑎᓗᑎᑦ.** ᖃᐅᑕᒫᑦ ᐱᓱᒃᑎᑦᑎᓂᖅ ᐃᓄᖕᓄᑦ, ᓯᓚᑖᓂᖃᖅᑐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐱᓱᒃᑎᑦᑎᓂᕐᒧᑦ ᑲᑎᙵᔪᓄᑦ ᐅᖃᖃᑎᒌᓐᓂᕐᒧᑦ ᐊᑦᑕᕐᓇᙱᑦᑐᓂᕐᒧᓪᓗ ᐃᓚᓯᓗᑎᑦ.
+- **ᐃᒃᓯᕙᐅᑎᒥ ᐊᐅᓚᕐᓃᑦ.** ᐃᒃᓯᕙᐅᑎᒥ ᑕᓪᓕᖅ ᖁᑦᑎᖕᓂᖅᓴᐅᑎᑦ, ᓯᖁᒻᒥᒃ ᑲᐃᕙᓕᕐᓂᖅ, ᐃᓂᒋᔭᒥᓂ ᐱᓱᒃᑎᑦᑎᓂᖅ ᐊᒻᒪᓗ ᐃᒃᓯᕙᐅᑎᒥ ᔫᒐ ᓴᙱᓂᕐᒧᑦ ᐱᔭᕇᖅᓯᕗᑦ ᓇᓕᒧᒌᓕᕆᓂᕐᒧᑦ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᖃᙱᑦᑐᑦ.
+- **ᐃᒡᓗᕈᓯᕐᒥ ᒧᒥᕐᓗᑎᑦ.** ᐃᓄᒃᑎᑑᖅᑐᓂᒃ ᒪᒃᑯᖅᑐᓂ ᐊᒻᒪᓗ 20-ᓄᑦ ᐅᑭᐅᓂ ᐃᓅᓯᒪᓕᖅᑐᓂ ᐃᓄᖕᓄᑦ ᐱᔾᔪᑎᖃᕐᑐᓂᒃ ᐊᑐᕐᓗᑎᑦ, ᐊᐅᓪᓚᕐᓗᑎᑦ, ᐱᑉᐸᓪᓗᑎᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐱᓱᒃᑎᑦᑎᓗᑎᑦ. ᐅᕙᑦᑎᓐᓂ [ᐃᓄᒃᑎᑑᖅᑐᓂᒃ ᐱᙳᐊᕈᓐᓇᕐᓂᕐᒧᑦ ᒪᓕᒐᖅ](/activities/music/) ᐃᓱᒪᒋᔭᐅᔪᓂᒃ ᐱᖃᖅᑐᖅ.
+- **ᐃᒡᓗᒥ ᐱᔾᔪᑎᓂᒃ ᐊᑐᕐᓗᑎᑦ ᓴᙱᓂᕐᒧᑦ.** ᐃᒥᕐᒥᒃ ᐃᒪᓕᒻᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒥᐅᕋᓛᓄᑦ ᑕᐅᑐᕋᐅᑎᓂᒃ ᖁᑦᑎᖕᓂᖅᓴᐅᑎᓂᒃ ᑕᑯᕋᓐᓈᖅᑎᑕᐅᓪᓗᑎᑦ ᓇᓕᐊᖕᓄᑐᐃᓐᓇᖅ ᓴᖅᑭᑕᐅᔪᒥᒃ.
+- **ᐱᕈᕐᐸᓕᐊᕐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᐃᒡᓗᒥ ᐱᓕᕆᐊᑦ.** ᐱᕈᕐᐸᓕᐊᓄᑦ ᐃᒥᕐᒥᒃ ᖁᕕᐊᓱᒃᑎᑦᑎᓂᖅ, ᐸᓂᖅᑐᓂᒃ ᑲᑎᑦᑎᓂᖅ, ᓴᓂᕋᔭᕐᓂᖅ ᐊᒻᒪᓗ ᐊᓐᓄᕌᓂᒃ ᐃᒡᓗᒍᑎᓂᒃ ᐃᒪᓪᓗᑎᒃ ᓈᒻᒪᑦᑎᐊᖅᑐᑦ. ᑕᑯᓗᒍ [ᓯᓚᑖᒃᑯᑦ ᐱᕈᕐᐸᓕᐊᕐᓂᕐᒧᑦ ᐱᙳᐊᕈᓐᓇᕐᓃᑦ](/activities/outdoor-and-gardening/) ᐊᒻᒪᓗ [ᐃᒡᓗᒥ ᐱᓕᕆᐊᑦ](/activities/household-tasks/).
+- **ᐃᒪᕐᒥ ᐊᐅᓚᕐᓂᖅ.** NIA ᐅᖃᐅᓯᖃᖅᑐᖅ ᐃᒪᕐᒥ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐃᓕᓐᓂᐊᕐᓂᖅ ᐊᑐᖅᑕᐅᔪᓐᓇᖅᑐᖅ ᓄᓇᒥ ᐊᐅᓚᕐᓂᖅ ᓇᒡᒍᓄᑦ ᐊᔪᙱᓐᓂᖅᐸᑦ.
 
-## How to exercise with someone living with dementia
+## ᖃᓄᖅ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᖅ ᐃᓄᖅ ᐃᓚᐅᖃᑕᐅᓪᓗᓂ
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᓄᑦ ᐃᓄᒃ, ᑐᕌᒐᖅ ᓇᒧᙵᐅᓂᖅ, ᖁᕕᐊᓱᒃᑎᑦᑎᓂᖅ ᐊᒻᒪᓗ ᐅᓪᓗᒥ ᐊᔪᙱᑦᑎᐊᕐᓂᕐᒧᑦ ᓴᐳᒻᒥᓂᖅ, ᓈᓴᐅᑎᒥᒃ ᑎᑭᐅᑎᓂᖅ ᐱᙱᑦᑎᒍᑦ. NIA ᐅᖃᖅᑐᖅ ᐊᐅᓚᕐᓂᖅ ᐃᑲᔫᑎᖃᕐᓂᖓ ᓴᐳᒻᒥᓂᕐᒧᑦ ᓴᙱᓂᖏᓐᓂᒃ, ᓇᕆᒃᓯᒪᔪᓂᒃ ᐊᒻᒪᓗ ᐆᒻᒪᑎᖓᓂᒃ ᐋᓐᔅᕼᐊᐃᒪᑦ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᖅ ᐃᓄᖅ, ᐊᒻᒪᓗ ᐃᓱᒪᓕᕆᓂᕐᒧᑦ ᓯᓂᕐᒧᓪᓗ ᐱᐅᓂᖅᓴᐅᑎᑦᑎᔪᓐᓇᖅᑐᖅ. ᐋᓐᓂᐊᓯᖓᓄᑦ ᐅᖃᐅᑎᑎᑦᑎᓗᑎᑦ ᓄᑖᒥᒃ ᐱᒋᐊᕈᑎᒃᓴᒥᒃ. ᐅᖃᐅᓯᑦ [NIA-ᑯᑦ ᒪᒃᑯᒻᒪᕆᐅᓂᕐᒧᑦ ᒪᓕᒐᖓᓂᑦ](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ᐱᖃᖅᑐᑦ:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **ᖃᐅᑕᒫᑦ ᐃᓚᐅᖃᑕᐅᓪᓗᑎᑦ ᐱᓱᒃᑎᑦᑎᓗᑎᑦ.** ᐊᑦᑕᕐᓇᙱᑦᑐᒥᒃ, ᖃᐅᔨᒪᔭᐅᔪᒥᒃ ᐊᖅᑯᑎᒥᒃ ᓂᕈᐊᕐᓗᑎᑦ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᖃᙱᑦᑐᒥᒃ. ᐃᓄᖅ ᐃᒻᒥᖕᓄᑦ ᐱᓱᒃᑎᑦᑎᒃᐸᑦ, ᓇᓗᓇᐃᒃᑯᑕᒥᒃ ᑕᓪᓕᖅᑯᑦ ᐅᖃᓘᑎᒋᔭᐅᔪᖅ ᐃᓕᖕᓄᑦ ᐅᖃᓘᑎᖕᓂᒃ ᐱᐅᔪᖅ.
+2. **ᐃᓐᓇᐃᑦ ᐊᑯᓐᓂᖏᑎᒍᑦ ᐊᐅᓚᕐᓂᕐᒧᑦ ᑕᑯᔭᒐᖃᕐᓂᕐᓂᒃ ᐆᒃᑐᕐᓗᑎᑦ.** ᐃᓚᐅᖃᑕᐅᓪᓗᑎᑦ ᒪᓕᒃᓗᑎᑦ, ᐃᒃᓯᕙᐅᑎᒥ ᐅᕝᕙᓘᓐᓃᑦ ᓂᕿᓗᑎᑦ.
+3. **ᐊᐅᓚᕐᓃᑦ ᓇᐃᑦᑐᓂᒃ ᐱᓗᑎᑦ.** ᐊᒥᓱᓂᒃ ᓇᐃᑦᑐᓂᒃ «ᒥᑭᒃᑯᑦ ᐊᐅᓚᕐᓃᑦ» ᐱᐅᓂᖅᓴᐅᓂᖅᐳᑦ ᐊᑕᐅᓯᕐᒥᑦ ᑕᑭᓂᕐᒥᑦ.
+4. **ᐃᓄᒃᑎᑑᖅᑐᓂᒃ ᐃᓚᓗᑎᑦ.** ᖃᐅᔨᒪᔭᐅᔪᑦ ᐃᓄᒃᑎᑑᖅᑐᑦ ᐊᐅᓚᕐᓂᕐᒥᒃ ᐱᙳᐊᕈᓐᓇᕐᓂᕐᒧᑦ ᐋᖅᑭᒋᐊᖅᑕᐅᑎᑦᑎᕗᑦ, ᐱᓕᕆᐊᒧᑦ ᐱᙱᑦᑎᒍᑦ. ᒧᒥᕐᓗᑎᑦ ᑕᖃᒃᑯᐊ ᐃᓄᖅ ᖁᕕᐊᓱᒃᐸᑦ.
+5. **ᐃᒥᕐᒥᒃ ᐊᒻᒪᓗ ᓇᒧᙵᐅᓂᖃᕐᑐᓂᒃ ᑲᒻᒥᒃᓴᓂᒃ ᑐᓂᓗᑎᑦ.** ᐃᒥᕐᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᔫᓯ ᑐᓂᓗᑎᑦ ᐊᐅᓚᕐᓂᕐᒥ ᐊᒻᒪᓗ ᐊᐅᓚᕐᓂᕐᒥᑦ ᑭᖑᓂᖓᓂ, ᓇᒧᙵᐅᓂᖃᕐᑐᓂᒃ ᐊᓐᓄᕌᓂᒃ ᐊᒻᒪᓗ ᐊᐅᓚᕐᓂᕐᒧᑦ ᓴᓇᒪᔪᓂᒃ ᑲᒻᒥᒃᓴᓂᒃ ᓂᕈᐊᕐᓗᑎᑦ.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+ᐱᓱᒃᑎᑦᑎᓂᖅ ᐊᔪᙱᓐᓂᖅᐸᑦ, [NIA-ᑯᑦ ᒪᒃᑯᒻᒪᕆᐅᓂᕐᒧᑦ ᒪᓕᒐᖓ ᐋᓐᔅᕼᐊᐃᒪᑦ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᖅ ᐃᓄᖅ](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ᐅᖃᐅᓯᖃᖅᑐᖅ ᐃᒃᓯᕙᐅᑎᒥ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓂᒃ. ᑖᒃᑯᐊ ᐱᖃᖅᑐᑦ ᐃᒃᓯᕙᐅᑎᒥ ᐊᐅᓚᕐᓃᑦ ᐅᕝᕙᓘᓐᓃᑦ ᔫᒐ, ᑲᐃᓗᐊᑦ ᐸᐅᓯᓯᒪᔪᑦ ᒥᓯᖅ, ᐊᖅᑭᐅᑎᒥᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐳᑦᑕᖅᑐᒥᒃ ᒥᓯᖅ, ᐃᓱᒪᓕᐅᕐᓂᕐᒧᑦ ᐊᓯᐅᒻᒥᔪᑦ, ᐅᖁᒪᐃᑦᑐᓂᒃ ᐃᒡᓗᒥ ᐱᔾᔪᑎᓂᒃ ᖁᑦᑎᖕᓂᖅᓴᐅᑎᓂᒃ, ᐊᒻᒪᓗ ᐃᑎᒐᒃᑯᑦ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᑦ. ᓴᓂᕋᔭᕐᓂᕐᓄᑦ ᓴᓂᕋᔭᕐᓂᕐᓄᓪᓗ ᐱᓕᕆᐊᑦ ᓈᒻᒪᑦᑎᐊᖅᑐᑦ.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+ᓇᓗᓇᐃᔭᖅᓯᒪᓗᑎᑦ ᐊᐅᓚᕐᓂᖅ ᖃᓄᐃᓕᐅᕈᓐᓇᖅᑕᖓᓂᒃ. ᓚᓐᓯᑦ ᑲᒥᓯᖓ ᓇᓗᓇᐃᔭᖅᓯᒪᙱᑦᑐᖅ ᐊᐅᓚᕐᓂᖅ ᒥᑭᓕᐅᑎᑦᑎᔪᓐᓇᖅᑎᑦᑎᓂᖓᓂᒃ ᐱᐅᓯᒃᑲᓐᓂᕐᓂᕐᒧᑦ ᐊᓯᔾᔨᖅᐸᓪᓕᐊᓂᕐᒧᑦ ᓲᕐᓗ ᐆᒪᔪᓕᕆᓂᖅ. ᐃᓚᐅᖃᑕᐅᓪᓗᑎᑦ ᐊᐅᓚᕐᓗᑎᑦ ᐱᐅᔪᓐᓇᖅᑐᒪᑦ, ᐊᔪᙱᓐᓂᖅ ᐅᓪᓗᖅ ᐋᖅᑭᒃᓱᐃᓂᕐᒧᑦ ᐱᙱᑦᑎᒍᑦ. ᐃᓄᖅ ᐊᐅᓚᕈᒪᙱᒃᐸᑦ, ᓇᒻᒥᓂᖅ ᐱᐅᔪᖅ. ᐅᕙᑦᑎᓐᓂ [ᐊᐅᓚᕈᒪᙱᒃᐸᑦ](/caregiving/when-they-say-no/) ᒪᓕᒐᖅ ᓴᐳᒻᒥᔭᐅᔪᓂᒃ ᐆᒃᑐᕋᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓂᒃ ᐱᖃᖅᑐᖅ. ᐱᔭᕇᖅᓯᓂᖅ ᓄᖅᑲᕆᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᓯᓚᑖᒃᑯᑦ ᑲᑐᔾᔨᖃᑎᒌᓐᓂᖅ, ᐱᐅᔪᖅ ᖃᓄᐃᓕᖓᓂᖅ.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+ᐊᐅᓚᕐᓂᕐᒥᑦ ᑭᖑᓂᖓᓂ, ᓴᐃᓕᒪᓂᖅ ᓄᖅᑲᕐᓂᖅ ᓲᕐᓗ [Calm Breathing](/games/calm-breathing/) ᐃᑲᔫᑎᔪᓐᓇᖅᑐᖅ ᓴᐃᓕᒪᓂᕐᒧᑦ. ᐃᒃᓯᕙᐅᑎᒥ ᐱᙳᐊᕈᓐᓇᕐᓂᕐᒧᑦ ᓴᐳᒻᒥᔭᐅᔪᒥᒃ ᑕᓪᓕᖅ ᐊᐅᓚᕐᓂᖃᖅᑐᒥᒃ, [Sort Together](/games/sort-together/) ᐊᒻᒪᓗ [Picture Bingo](/games/picture-bingo/) ᐱᐅᔪᑦ ᓂᕐᔪᐊᕐᓂ ᓴᓂᒧᑦ.
 
-## Balance and fall safety
+## ᓇᓕᒧᒌᓕᕆᓂᖅ ᐊᒻᒪᓗ ᓇᑲᖅᑐᓂᕐᒧᑦ ᐊᑦᑕᕐᓇᙱᑦᑐᓂᖅ
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+ᓇᑲᖅᑐᓂᖅ ᐊᒥᓱᓂᖅ ᐊᒃᓱᕈᕐᓇᖅᑐᖅ. [CDC ᐅᖃᖅᑐᖅ](https://www.cdc.gov/falls/data-research/facts-stats/index.html) ᐃᓐᓇᐃᑦ ᓯᑕᒪᐅᑉ ᐊᑕᐅᓯᖓᓂᒃ ᐊᒥᓱᓂᖅ ᐅᓪᓗᕐᒥ ᓇᑲᖅᑐᑦ ᐊᕐᕌᒍᑕᒫᑦ, ᑭᓯᐊᓂ ᐊᕝᕙᓛᓂᒃ ᐅᓄᙱᑦᑐᑦ ᐋᓐᓂᐊᓯᕐᒧᑦ ᐅᖃᐅᑎᑎᑦᑎᕙᙱᓪᓗᑎᑦ. ᐊᑕᐅᓯᕐᒥᒃ ᓇᑲᖅᑐᓂᖅ ᒪᕐᕉᖅᑕᐅᑎᑦᑎᕗᖅ ᑭᖑᓪᓕᖅᐹᒥ ᓇᑲᖅᑐᓂᕐᒧᑦ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒥᒃ. CDC ᐅᖃᖅᑕᖏᑦ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᑦ ᐱᖃᖅᑐᑦ:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- ᐃᑎᒐᒃᑯᑦ ᐊᒻᒪᓗ ᒪᒃᓴᐅᑎᑦ ᓴᙱᙱᑦᑐᑦ
+- ᐱᓱᒃᑎᑦᑎᓂᕐᒧᑦ ᓇᓕᒧᒌᓕᕆᓂᕐᒧᓪᓗ ᐊᔪᙱᑦᑎᐊᕐᓂᖅ
+- ᐃᓚᖏᑦ ᑕᐅᑐᕋᐅᑏᑦ, ᓯᓂᒃᑎᑦᑎᔪᑦ ᐊᒻᒪᓗ ᐃᓚᖏᑦ ᐃᓱᒪᓕᒫᖅᓯᐅᕐᓂᕐᒧᑦ ᑕᐅᑐᕋᐅᑏᑦ
+- ᑕᑯᓂᕐᒧᑦ ᐊᔪᙱᑦᑎᐊᕐᓂᖅ
+- ᐃᓯᒐᓄᑦ ᐋᓐᓂᐊᖃᕐᓇᖅᑐᓂᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑲᒻᒥᒃᓴᐃᑦ ᐱᐅᙱᑦᑐᑦ
+- ᐃᒡᓗᒥ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᑦ ᓲᕐᓗ ᓱᓇᒃᑯᑖᑦ, ᐃᒡᓗᒧᑦ ᐊᓪᓕᕆᔭᐅᔪᑦ ᐊᒻᒪᓗ ᓯᕐᔪᒃᑕᐅᔪᑦ ᐊᑕᐃᓈᖅᐸᓪᓕᐊᔪᑦ
 
-To move more safely:
+ᐊᑦᑕᕐᓇᙱᓛᖅᑐᒧᑦ ᐊᐅᓚᕐᓂᕐᒧᑦ:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **ᓴᙱᓂᖃᕐᑐᒥᒃ ᐃᒃᓯᕙᐅᑎᒥᒃ ᐊᑐᕐᓗᑎᑦ** ᐊᒃᓴᓕᖃᙱᑦᑐᒥᒃ, ᐊᒻᒪᓗ ᓂᕐᔪᐊᖅ ᐅᕝᕙᓘᓐᓃᑦ ᓴᐳᒻᒥᔭᐅᔪᖅ ᖃᓂᒋᔭᖓᓂ ᓂᕿᓂᕐᒧᑦ ᐊᐅᓚᕐᓂᕐᒥ ᐱᑕᖃᕐᓗᓂ.
+- **ᐃᓂᒃᓯᒪᓂᖅ ᓴᓗᒻᒪᖅᓴᐅᑎᓪᓗᒍ** ᐊᓪᓕᕆᔭᐅᔪᓂᒃ, ᓄᓗᐊᑦ ᐊᒻᒪᓗ ᓱᓇᒃᑯᑖᓂᒃ ᓯᕗᓪᓕᖅᐹᒥ.
+- **ᓱᒃᑲᐃᑦᑐᒥᒃ ᓂᕿᓗᑎᑦ**, ᓄᖅᑲᕆᓪᓗᑎᑦ ᑕᖃᒃᑯᐊ ᐃᓄᖅ ᐅᓪᓗᕆᐊᖃᖅᐸᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓇᓕᒧᒌᙱᓐᓂᖅ.
+- **ᓴᐳᒻᒥᔭᐅᔪᓂᒃ ᑲᒻᒥᒃᓴᓂᒃ ᐊᑐᕐᓗᑎᑦ**, ᐊᓪᓕᒋᓛᓃᑦ ᐅᕝᕙᓘᓐᓃᑦ ᑲᒻᒥᒃᓴᐃᑦ ᑕᒻᒪᖅᑐᑦ ᐱᙱᑦᑎᒍᑦ.
+- **ᓇᓕᒧᒌᓕᕆᓂᕐᒥᒃ ᐱᓕᕆᐊᖃᕐᓗᑎᑦ ᓴᐳᒻᒥᔭᐅᔪᖅ ᖃᓂᒋᔭᖓᓂ.** ᐃᒃᓯᕙᐅᑎᒥᑦ ᓂᕿᓂᖅ ᐊᒻᒪᓗ ᐊᓕᒍᖅᑐᒧᑦ ᑭᖑᓪᓕᖅᐹᖅ ᑐᙵᕕᒃᑐᒧᑦ ᐱᓱᒃᑎᑦᑎᓂᖅ CDC-ᑯᑦ ᐆᑦᑐᕋᐅᑎᖏᑦ ᓇᓕᒧᒌᓕᕆᓂᕐᒧᑦ ᐊᐅᓚᕐᓂᕐᓄᑦ.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC ᐅᖃᐅᓯᖃᖅᑐᖅ ᐃᓐᓇᖅ ᐊᑯᓐᓂᖓᓂ ᓇᑲᖅᑐᖅ ᓂᐱᖓᓂᒃ ᐊᓂᔪᖅ ᐋᓐᓂᐊᓯᕐᒧᑦ ᑕᑯᔭᐅᔪᓐᓇᖅᑐᖅ ᕿᓚᒃᑐᒥᒃ, ᐱᓗᐊᖅᑐᒥᒃ ᐊᐅᒃ ᑕᐅᑐᕋᐅᑎᓂᒃ ᐊᑐᖅᐸᒃᑐᖅ.
 
-## Talk with a doctor
+## ᐋᓐᓂᐊᓯᕐᒧᑦ ᐅᖃᐅᑎᑎᑦᑎᓗᑎᑦ
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+ᐋᓐᓂᐊᓯᕐᒧᑦ ᐅᖃᐅᑎᑎᑦᑎᓗᑎᑦ ᓄᑖᒥᒃ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐱᒋᐊᕈᑎᒃᓴᒥᒃ, ᐱᓗᐊᖅᑐᒥᒃ ᐃᓄᖅ ᐆᒻᒪᑎᖃᕐᓂᕐᒧᑦ ᐅᕝᕙᓘᓐᓃᑦ ᐳᕋᕆᓂᕐᒧᑦ ᐋᓐᓂᐊᖃᕐᓇᖅᑐᖅ, ᓇᕆᒃᓯᒪᔪᓄᑦ ᐋᓐᓂᐊᖃᕐᓇᖅᑐᖅ, ᓇᓕᒧᒌᓕᕆᓂᕐᒧᑦ ᐊᔪᙱᑦᑎᐊᕐᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᐊᑐᖅᑕᐅᔪᖅ. ᐋᓐᓂᐊᓯᖅ ᐅᕝᕙᓘᓐᓃᑦ ᑎᒥᒥ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐃᓕᓴᐃᔨ ᐅᖃᐅᑎᑦᑎᔪᓐᓇᖅᑐᖅ ᐊᑦᑕᕐᓇᙱᑦᑐᓂᒃ ᐊᐅᓚᕐᓂᕐᒧᑦ ᐊᑐᖅᑕᐅᔪᓂᒃ ᐊᒻᒪᓗ ᑕᐅᑐᕋᐅᑏᑦ ᓇᓕᒧᒌᓕᕆᓂᕐᒧᑦ ᐊᒃᑐᐃᓂᖃᕐᒪᖔᑕ ᖃᐅᔨᓴᕐᓗᑎᑦ. ᐋᓐᓂᐊᓯᕐᒧᑦ ᐅᖃᐅᑎᑎᑦᑎᓗᑎᑦ ᓇᑲᖅᑐᓂᕐᒧᑦ, ᐋᓐᓂᐊᖃᕐᓇᖅᑐᖃᙱᑦᑐᒧᑦ. ᓱᓇᒃᑯᑖᖅ ᐋᓐᓂᐊᖃᕐᓇᖅᐸᑦ ᐅᕝᕙᓘᓐᓃᑦ ᓇᒧᙵᐅᙱᑦᑐᖅ ᐃᔾᔨᕈᓇᖅᐸᑦ ᐊᐅᓚᕐᓂᕐᒥ, ᓄᖅᑲᕆᑦ. ᖃᐅᔨᙱᑦᑐᒥᒃ ᓴᒥᕋᔭᐅᑉ ᐋᓐᓂᐊᖃᕐᓇᖅᑎᑦᑎᓂᖓ, ᐊᓄᕆᐊᖃᕐᓂᕐᒧᑦ ᐊᔪᙱᑦᑎᐊᕐᓂᖅ, ᐅᕝᕙᓘᓐᓃᑦ ᖃᐅᔨᙱᑦᑐᒥᒃ ᑲᑉᐱᐊᓱᒍᓱᑦᑐᖅ ᐃᓱᒪ, ᖃᐅᔨᙳᐊᖅ 911.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+ᑖᓐᓇ ᒪᒃᐱᖅᑐᖅ ᐊᑐᕐᓗᒍ ᑐᑭᓯᐅᒪᓂᕐᒧᑦ ᑐᓴᐅᒪᔾᔪᑎ, ᐋᓐᓂᐊᓯᕐᒧᑦ ᒪᓕᒐᖅ ᐱᙱᑦᑎᒍᑦ. ᑕᑯᓗᒍ [ᐋᓐᓂᐊᓯᕐᒧᑦ ᓇᓗᓇᐃᔭᖅᓯᒪᓂᖅ](/medical-disclaimer/). ᐊᒥᓲᓂᖅᓴᒥᒃ ᑐᑭᓯᐅᒪᔪᒪᒃᐸᑦ, ᐅᖃᓕᒫᕐᓗᑎᑦ [ᖃᐅᔨᓴᕐᓂᖅ ᐅᖃᖅᑕᖓᓂᒃ ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓄᑦ ᐊᑲᐅᓈᖅᑐᐃᓐᓇᕐᓂᕐᒧᑦ ᐱᔾᔪᑎᓂᒃ](/brain-health/risk-factors/) ᐊᒻᒪᓗ [ᐱᐅᓯᕚᓪᓕᕈᓐᓇᖅᑐᓂᒃ ᓄᖅᑲᖅᑎᑕᐅᔪᓐᓇᖅᐸᖓ](/brain-health/can-dementia-be-prevented/).

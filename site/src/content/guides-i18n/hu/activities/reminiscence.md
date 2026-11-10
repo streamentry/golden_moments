@@ -1,33 +1,33 @@
 ---
-title: "Emlékező tevékenységek: emlékdobozok, életutak és fényképek"
-seoTitle: "Emlékező tevékenységek demenciához: kvízmentes ötletek"
-description: "Hogyan osszon meg emlékeket demenciával élő személlyel kvízezés nélkül: fényképes beszélgetés, emlékdobozok és életútkönyvek, nyugodt mondatokkal."
+title: "Emlékidéző tevékenységek: emlékdoboz, élettörténet, fotók"
+seoTitle: "Emlékidézés demenciával élőknél: ötletek kérdezés nélkül"
+description: "Hogyan idézzen fel emlékeket demenciával élő személlyel kérdezés nélkül: fotók, emlékdoboz és élettörténeti könyv, nyugodt beszélgetéshez."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Az emlékezés azt jelenti, hogy együtt élvezik a múltat fényképek, tárgyak, zene
-  és történetek segítségével. Készítsen emlékdobozt, állítson össze egy egyszerű
-  életútkönyvet, vagy nézzenek együtt fényképeket. Soha ne kérdezzen vizsgaszerűen:
-  kerülje a „Emlékszel?” és a „Ki ez?” kérdéseket, és használjon nyitott
-  meghívásokat, például: „Meséljen erről.” A meleg beszélgetés fontosabb, mint a
-  tények pontos megjegyzése.
+  Az emlékidézés azt jelenti, hogy együtt örülnek a múltnak fotók, tárgyak,
+  zene és történetek segítségével. Készítsen emlékdobozt, állítson össze egy
+  egyszerű élettörténeti könyvet, vagy nézegessenek fotókat egymás mellett.
+  Soha ne kérdezgesse: hagyja ki az „Emlékszel rá?” és a „Ki ez?” kérdéseket,
+  és használjon nyitott meghívásokat, például: „Mesélj erről.” Egy
+  meghitt beszélgetés többet ér, mint a pontos tények.
 keyPoints:
-  - "Az emlékezés beszélgetés, nem teszt. A pontosság nem számít, az öröm igen."
-  - "A „Emlékszel...?” és a „Ki ez?” kérdéseket cserélje le megjegyzésekre és meghívásokra, például: „Meséljen erről a napról.”"
-  - "A személy életéből származó tárgyakkal teli emlékdoboz kapaszkodót ad a kezeknek és a beszélgetésnek."
-  - "Az életútkönyv segít a családnak, a látogatóknak és a gondozóknak megismerni a személyt, nem csak a diagnózisát."
-  - "Ha egy emlék szomorúságot hoz, először vigasztaljon, aztán óvatosan térjenek át másra."
+  - "Az emlékidézés beszélgetés, nem vizsga. Nem a pontosság számít, hanem az együtt töltött jó idő."
+  - "Az „Emlékszel...?” és a „Ki ez?” helyett mondjon észrevételeket, és hívja beszélgetésre: „Mesélj erről a napról.”"
+  - "Az emlékdoboz, benne a személy életéből származó tárgyakkal, kapaszkodót ad a kezeknek és a beszélgetésnek."
+  - "Az élettörténeti könyv segít a családnak, a látogatóknak és az ápolóknak megismerni a személyt, nem csak a diagnózist."
+  - "Ha egy emlék szomorúságot hoz, először nyugtassa meg, majd finoman terelje tovább a beszélgetést."
 faq:
-  - q: "Mi az emlékezés demenciával élő személyeknek?"
-    a: "Az emlékezés emlékek és korábbi élmények megosztása, gyakran fényképek, tárgyak, zene vagy videók segítségével. Történhet egyénileg vagy csoportban. A cél egy kellemes, értelmes beszélgetés, nem annak tesztelése, hogy a személy mire emlékszik."
-  - q: "Miért ne kérdezzem meg, hogy „Emlékszel?”"
-    a: "Az emlékezetet tesztelő kérdések zavarba ejthetik vagy szorongást okozhatnak, ha a válasz nem jut eszükbe. A National Institute on Aging azon dolgok közé sorolja, amelyeket kerülni kell, hogy megkérdezzük valakitől, emlékszik-e valamire vagy valakire. Ehelyett inkább azt kommentálja, amit lát, és hagyja, hogy a személy hozzátegyen, amit szeretne."
-  - q: "Mi kerüljön egy emlékdobozba?"
-    a: "Biztonságos, strapabíró tárgyak, amelyek a személy életéhez kötődnek: munkaeszközök, hobbi-felszerelés, egy kedvenc sál, képeslapok, receptkártyák, sportemléktárgyak vagy fényképmásolatok. Kerülje az éles tárgyakat, a lenyelhető kis dolgokat és a pótolhatatlan eredeti példányokat."
-  - q: "Mi van, ha tévesen emlékeznek a tényekre?"
-    a: "Hagyja így. Ha az édesanyja azt mondja, hogy a fényképen a húga látható, pedig az unokatestvére, az rendben van. A javítás vizsgává alakítja a meleg pillanatot. Kövesse azt a történetet, amelyet elmesélnek, és élvezzék együtt."
+  - q: "Mi az emlékidézés demenciával élő emberek számára?"
+    a: "Az emlékidézés emlékek és korábbi élmények megosztása, gyakran fotók, tárgyak, zene vagy videók segítségével. Történhet kettesben vagy csoportban. A cél egy kellemes, tartalmas beszélgetés, nem annak ellenőrzése, mire emlékszik a személy."
+  - q: "Miért ne kérdezzem azt, hogy „Emlékszel?”"
+    a: "Az emlékezetet próbára tevő kérdések miatt a személy kínosan vagy nyugtalanul érezheti magát, ha nem jut eszébe a válasz. A National Institute on Aging azok közé sorolja a kerülendő dolgok közé, ha megkérdezzük, emlékszik-e valamire vagy valakire. Inkább mondja el, mit lát, és hagyja, hogy a személy azt tegye hozzá, amit szeretne."
+  - q: "Mit tegyek az emlékdobozba?"
+    a: "Válasszon biztonságos, strapabíró tárgyakat a személy életéből: munkaeszközöket, hobbikellékeket, kedvenc sálat, képeslapokat, receptkártyákat, sportemlékeket vagy fotómásolatokat. Kerülje az éles tárgyakat, a lenyelhető apróságokat és a pótolhatatlan eredetiket."
+  - q: "Mi legyen, ha téved a tényekben?"
+    a: "Engedje el. Ha édesanyja azt mondja, hogy a fotón a nővére látható, pedig az unokatestvére, az sem baj. A javítgatás próbává változtatja a meghitt pillanatot. Kövesse azt a történetet, amelyet ő mesél, és örüljenek neki együtt."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -42,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Az emlékezés egyszerűen azt jelenti, hogy együtt élvezik a múltat. Sok demenciával élő ember évtizedekkel ezelőtti emlékei tisztábbak, mint az aznap reggel történtek. Fényképek, ismerős tárgyak, zene és történetek ezeket az emlékeket megnyithatják, és Ön valami melegséget oszthat meg. Az egyetlen szabály: ez beszélgetés, soha nem kvíz.
+Az emlékidézés egyszerűen azt jelenti, hogy együtt örülnek a múltnak. Sok demenciával élő ember számára az évtizedekkel ezelőtti emlékek tisztábbak maradhatnak, mint ami ma reggel történt. A fotók, az ismerős tárgyak, a zene és a történetek segíthetnek előhívni ezeket az emlékeket, és meghitt közös pillanatokat adhatnak. Egy szabály van: ez beszélgetés, soha nem vizsga.
 
-## Mi az emlékezés, és miben különbözik a kvízezéstől?
+## Mi az emlékidézés, és miben más, mint a kérdezgetés?
 
-Az emlékezés azt jelenti, hogy fényképek, tárgyak, zene vagy videó segítségével osztanak meg emlékeket a személy saját tempójában. Az [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) úgy írja le, mint korábbi élmények és történetek megosztását fényképek, tárgyak, videók vagy zene segítségével, könyvben vagy táblagépen. A kvízezés más: arra kéri a személyt, hogy egy helyes választ adjon, ami zavart és nem élvezetet okozhat.
+Az emlékidézés emlékek megosztása fotók, tárgyak, zene vagy videó segítségével, a személy saját tempójában. Az [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) úgy írja le, mint a múltbeli élmények és történetek megosztását fotók, tárgyak, videók vagy zene segítségével, könyvben vagy táblagépen. A kérdezgetés más: arra kéri a személyt, hogy helyes választ adjon, és ez kínos érzéshez vezethet az öröm helyett.
 
-A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) azon dolgok közé sorolja, amelyeket kerülni kell, hogy megkérdezzük valakitől, emlékszik-e valamire vagy valakire. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) azt javasolja, hogy kerüljék a rövid távú emlékezetre épülő kérdéseket, és inkább a távolabbi múltról beszéljenek.
+A [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) a kerülendő dolgok közé sorolja, ha megkérdezzük a személyt, emlékszik-e valamire vagy valakire. A [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) azt javasolja, kerüljük a rövid távú memóriára támaszkodó kérdéseket, és inkább a távolabbi múltról beszélgessünk.
 
-| Ahelyett, hogy | Próbálja ezt |
+| E helyett | Próbálja ezt |
 | --- | --- |
-| „Emlékszik erre?” | „Ez egy boldog napnak látszik. Meséljen róla.” |
-| „Ki ez?” | „Itt van Rózsi néni a tengerparton. Nézze azt a kalapot.” |
-| „Melyik évben volt ez?” | „Ez a régi ház nézhet ki. Milyen volt ott lakni?” |
-| „Nem, ez nem Bill, hanem Frank.” | „Nagyon vidámnak tűnik.” |
-| „Ezt már elmondtad.” | „Szeretem ezt a történetet.” |
+| „Emlékszel erre?” | „Ez egy boldog napnak tűnik. Mesélj róla.” |
+| „Ki ez?” | „Itt van Róza néni a strandon. Nézd azt a kalapot.” |
+| „Melyik évben készült ez?” | „Ez olyan, mint a régi ház. Milyen volt ott élni?” |
+| „Nem, ez nem Pista, hanem Ferenc.” | „Nagyon vidámnak tűnik.” |
+| „Ezt már mesélted.” | „Nagyon szeretem ezt a történetet.” |
 
-## Hogyan beszéljünk fényképekről kvízezés nélkül?
+Kész képes beszélgetésindítókhoz próbálja ki a [conversation cards](/games/conversation-cards/) oldalt. Ha saját családi fotóiból szeretne nyugodt párosító játékot készíteni, próbálja ki a [photo pairs](/games/photo-pairs/) játékot; a kiválasztott fotók a böngészőjében maradnak.
 
-Azzal kezdjen, amit lát, majd hagyjon helyet arra, hogy a személy hozzátehessen valamit, ha szeretné.
+## Hogyan beszélgessenek fotókról kérdezgetés nélkül?
 
-1. **Üljenek egymás mellett.** Tartsák közösen az albumot, hogy együtt nézzék, ne egymással szemben tesztelve.
-2. **Válasszon néhány fényképet.** Öt jó fénykép jobb, mint egy egész doboz. A nagy, tiszta nyomatok a legjobbak.
-3. **Nevezze meg maga az embereket.** „Itt vagy te és apa az esküvőtökön” elveszi a nyomást.
-4. **Kommentálja a részleteket.** Ruhák, autók, ételek, időjárás, arcok. „Milyen szép autó. Olyan csillogó.”
-5. **Hívjon, ne követeljen.** „Meséljen a…” vagy „Mit vesz észre?” A csend is rendben van.
-6. **Kövesse a vezetésüket.** Ha egészen más dologról kezdenek beszélni, menjen velük.
-7. **Jó hangulatban álljon meg.** Csukja be az albumot, mielőtt a fáradtság jelentkezne.
+Kezdje azzal, amit lát, majd hagyjon teret annak, hogy a személy hozzátehessen valamit, ha szeretne.
 
-Készen kapott képes kérdésekért próbálja ki a [beszélgetőkártyákat](/games/conversation-cards/). Saját családi fényképeiből gyengéd párosító játékot a [fotópárok](/games/photo-pairs/) segítségével készíthet; az Ön által kiválasztott fényképek a böngészőben maradnak.
+1. **Üljenek egymás mellé.** Tartsák maguk között az albumot, hogy együtt nézzék, ne egy asztal két oldaláról kérdezgessék.
+2. **Válasszon ki néhány fotót.** Öt jó fotó jobb, mint egy egész doboz. A nagy, tiszta képek a legjobbak.
+3. **Nevezze meg Ön az embereket.** „Itt vagy te és apa az esküvőtök napján” – ez leveszi a nyomást.
+4. **Szóljon a részletekről.** Ruhák, autók, ételek, időjárás, arcok. „Micsoda autó. Olyan fényes.”
+5. **Hívja beszélgetésre, ne követeljen.** „Mesélj erről...” vagy „Mit veszel észre?” A csend is rendben van.
+6. **Kövesse az ő irányát.** Ha egészen másról kezd beszélni, menjen vele.
+7. **Fejezzék be, amíg kellemes.** Csukják be az albumot, mielőtt fáradtság jelentkezik.
 
-## Hogyan készítsünk emlékdobozt?
+## Hogyan készítsen emlékdobozt?
 
-Az emlékdoboz tárgyakat tartalmazó doboz a személy életéből, amelyeket kézbe lehet venni és amelyekről lehet beszélni.
+Az emlékdoboz egy doboznyi, a személy életéből származó tárgy, amelyeket kézbe lehet venni és amelyekről beszélgetni lehet.
 
-1. **Válasszon erős dobozt,** amelyet könnyű kinyitni, például egy cipősdobozt, egy kalapdobozt vagy egy kis fadobozt.
-2. **Válasszon témát vagy keveréket.** Munka, egy hobbi, egy hely, egy évtized, vagy egy kicsit mindenből.
-3. **Gyűjtsön biztonságos tárgyakat.** Öt-tíz darab elég a kezdéshez.
-4. **Használjon másolatokat az értékes dolgokból.** Másolja le a pótolhatatlan fényképeket és iratokat, az eredetieket pedig tartsa biztonságban.
-5. **Egyszerre egy tárgyat vegyenek ki.** Adjon át egyet, mondjon róla valamit, és nézze meg, merre fordul a beszélgetés.
+1. **Válasszon strapabíró dobozt**, amelyet könnyű kinyitni, például cipősdobozt, kalapdobozt vagy kis fadobozt.
+2. **Válasszon témát, vagy keverje.** Munka, hobbi, egy hely, egy évtized, vagy egy kis minden.
+3. **Gyűjtsön biztonságos tárgyakat.** Kezdésnek öt-tíz darab bőven elég.
+4. **Használjon másolatot az értékes dolgokról.** A pótolhatatlan fotókról és iratokról készítsen másolatot, az eredetiket pedig tartsa biztonságban.
+5. **Egyszerre egy tárgyat vegyenek elő.** Adja át, mondjon róla valamit, és nézze meg, merre viszi a beszélgetést.
 
-Ötletek a tartalomhoz:
+Ötletek, amit betehet:
 
-- **Munka:** névkitűző, egy kis szerszám, egyenruha-folt, főkönyv, ápolónői kitűző, egy étkezde szakácskönyve.
-- **Otthon:** egy receptkártya a saját kézírásukkal, egy konyharuha, egy kedvenc sál vagy nyakkendő.
-- **Hobbik:** egy horog nélküli horgászcsali, egy baseball, egy gombolyag fonal, egy vetőmagos tasak.
-- **Helyek:** képeslapok, térképek, egy turistaemléktárgy, egy szülővárosi újságkivágás.
-- **Család:** fényképmásolatok, egy gyerek rajza, egy esküvői meghívó.
+- **Munka:** névkártya, kis szerszám, egyenruha-jelvény, füzet, ápolói kitűző, egy vendéglő szakácskönyve.
+- **Otthon:** saját kézírásos receptkártya, konyharuha, kedvenc sál vagy nyakkendő.
+- **Hobbik:** horog nélküli műcsali, baseball-labda, gombolyag fonal, vetőmagcsomag.
+- **Helyek:** képeslapok, térképek, turistajelképek, újságkivágás a szülővárosból.
+- **Család:** fotómásolatok, gyerekrajz, esküvői meghívó.
 
-Hagyja ki az éles tárgyakat, a lenyelhető kis dolgokat, és mindent, ami fájdalmas emlékeket hozhat elő, hacsak nem tudja, hogy az kívánatos.
+Hagyja ki az éles tárgyakat, a lenyelhető apróságokat, és mindent, ami fájdalmas emlékeket hozhat, hacsak nem biztos benne, hogy szívesen látják.
 
-## Hogyan készítsünk életútkönyvet?
+## Hogyan készítsen élettörténeti könyvet?
 
-Az életútkönyv egyszerű album fényképekkel és rövid feliratokkal a személy életéről. Közösen nézhető, és segít a látogatóknak és a gondozóknak megismerni az egész embert.
+Az élettörténeti könyv egy egyszerű album fotókkal és rövid feliratokkal a személy életéről. Jó együtt nézegetni, és segít a látogatóknak és az ápolóknak látni az egész embert.
 
-1. **Válasszon formát.** Lapvédő fóliás mappa, nyomtatott fotókönyv, vagy egy diavetítés táblagépen.
+1. **Válasszon formátumot.** Gyűrűs mappa genotherm-tasakokkal, nyomtatott fotókönyv vagy diavetítés táblagépen.
 2. **Tervezzen néhány fejezetet.** Gyermekkor, iskola, munka, család, lakóhelyek, hit, hobbik, kedvenc ételek és zene.
-3. **Oldalanként egy-két fényképet** rövid, nagy betűs felirattal adjon: „Mária, 22 évesen, a banknál kezd dolgozni.”
-4. **Vegye bele a kedveket és a rutinokat.** „Tejes kávét iszik. Szereti a vasárnapi énekeket. Nem szereti a hangos tévét.” Ez segít bárkinek, aki gondozza.
-5. **Vonja be a személyt,** amennyire csak szeretné: fényképeket választhat, történeteket mesélhet, vagy csak nézi, ahogy összeáll.
-6. **Folytassa a gyűjtést.** Nem kell befejezettnek lennie ahhoz, hogy hasznos legyen.
+3. **Oldalanként egy-két fotót tegyen** rövid, nagy betűs felirattal: „Mária, 22 évesen, amikor a bankban kezdett dolgozni.”
+4. **Írja bele, mit szeret, és milyen szokásai vannak.** „Tejjel issza a kávét. Szereti a vasárnapi énekeket. Nem szereti a hangos tévét.” Ez mindenkinek segít, aki róla gondoskodik.
+5. **Vonja be a személyt**, amennyire szeretné: fotókat válogathat, mesélhet, vagy egyszerűen nézheti, ahogy összeáll.
+6. **Egészítse tovább.** Nem kell késznek lennie ahhoz, hogy hasznos legyen.
 
-## További emlékező ötletek
+## További emlékidéző ötletek
 
-- **Játsszanak olyan zenét, amelyet fiatalkorukból ismernek,** és beszéljenek arról, hová viszi őket. Lásd a [zenei tevékenységeket](/activities/music/).
-- **Nézzenek házi videókat vagy tévéműsorokat** a kedvenc évtizedeikből.
-- **Főzzenek egy gyermekkori ételt,** és hagyják, hogy az illatok vezessék a beszélgetést.
-- **Nézzenek egy térképet** a szülővárosukról, és kövessék az ismerős utcákat.
-- **Lapozgassanak régi katalógusokat vagy magazinokat,** és beszéljenek az árakról, a divatról és az autókról.
-- **Rögzítsék a történeteiket** telefonon, az ő engedélyével, a család számára.
-- **Osszák meg hívások alatt.** Videóhíváskor tartson fel egy fényképet; lásd a [telefonos és videóhívásos tevékenységeket](/activities/phone-and-video-calls/).
-- **Hozzon fényképet vagy tárgyat látogatáskor.** Ez könnyű fókuszt ad a látogatásnak; lásd a [látogatást](/activities/visiting/).
+- **Játsszon zenét a fiatalságából**, és beszélgessenek arról, hová viszi vissza. Lásd: [music activities](/activities/music/).
+- **Nézzenek családi filmeket vagy tévéműsorokat** a kedvenc évtizedeiből.
+- **Főzzenek egy gyerekkori ételt**, és hagyják, hogy az illatok indítsák el a beszélgetést.
+- **Nézzenek meg egy térképet** a szülővárosáról, és kövessék az ismerős utcákat.
+- **Lapozzanak régi katalógusokat vagy magazinokat**, és beszélgessenek az árakról, a divatról és az autókról.
+- **Vegyék fel a történeteit** telefonon, az ő beleegyezésével, a család számára.
+- **Osszák meg telefonon is.** Mutasson fel egy fotót videohívás közben; lásd: [phone and video calls](/activities/phone-and-video-calls/).
+- **Vigyen magával egy fotót vagy tárgyat, amikor meglátogatja.** Ez könnyű kiindulópontot ad a látogatásnak; lásd: [visiting](/activities/visiting/).
 
-## Mi van, ha egy emlék fájdalmas?
+## Mi legyen, ha egy emlék fájdalmas?
 
-Egyes emlékek gyászt, megbánást vagy félelmet hoznak. Ha a személy felzaklatódik, álljon meg, vigasztalja, és óvatosan térjen át másra. Ne vitatkozzanak arról, mi történt. A Family Caregiver Alliance azt tanácsolja, hogy ne próbálják meggyőzni a személyt arról, hogy téved, és inkább a kimutatott érzelmekre reagáljanak, amelyek valóságosak. Ha valakiről úgy beszélnek, mintha élne, akit már elvesztettek, az érzésre válaszoljon: „Hiányzik neki. Meséljen róla.”
+Egyes emlékek gyászt, megbánást vagy félelmet hozhatnak. Ha a személy felzaklatódik, álljon meg, nyugtassa meg, és finoman terelje más témára vagy más tevékenységre. Ne vitatkozzon arról, mi történt. A Family Caregiver Alliance azt tanácsolja, ne próbálja meggyőzni a személyt arról, hogy téved, inkább reagáljon azokra az érzésekre, amelyeket mutat – ezek valóságosak. Ha valakiről, aki már meghalt, úgy beszél, mintha élne, reagáljon az érzésre: „Hiányzik neked. Mesélj róla.”
 
 ## Mit mond a kutatás?
 
-Egy [Cochrane-áttekintés az emlékezésről](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), amely 22 vizsgálatot és 1972 embert foglal magában, azt találta, hogy a hatások ingadozók, kicsik voltak, és a helyszíntől és a formától függtek. Nem talált bizonyítékot arra, hogy ártana a demenciával élőknek. Azért javasoljuk az emlékezést, mert meleg, értelmes közös időt teremthet, és nem kezelésként. A könnyű beszélgetésről további információt a [kommunikációs tippek](/caregiving/communication-tips/) oldalon talál.
+A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), amely 22 vizsgálatot és 1972 embert foglalt össze, azt találta, hogy a hatások nem voltak egyértelműek, kicsik voltak, és a környezettől, valamint a formától függően változtak. Nem talált bizonyítékot arra, hogy ártana a demenciával élő embereknek. Az emlékidézést azért javasoljuk, mert meghitt, tartalmas közös időt adhat, nem kezelésként. A könnyed beszélgetéshez további segítséget talál itt: [communication tips](/caregiving/communication-tips/).

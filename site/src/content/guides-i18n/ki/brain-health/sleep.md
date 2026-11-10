@@ -1,31 +1,33 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Toro na ũgima wa thirĩ: Ūrĩa ũthuthuria wonanagia"
+seoTitle: "Toro na kwaga kũririkana: Ūrĩa ũthuthuria wonanagia"
+description: "Ũrĩa ũthuthuria wonanagia ũhoro wa toro na ũgwati wa kwaga kũririkana, na mĩtugo ya toro ĩngĩteithia andũ akũrũ na arori."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Ũthuthuria ũmwe wa ihinda iraya wonanagia atĩ gũkoma toro mũnini hĩndĩ ya ũkũrũ wa gatagatĩ
+  no kũhutanĩrio na ũgwati mũnene wa kwaga kũririkana, na ũthuthuria wa thĩinĩ wa kĩrĩma
+  wonanagia atĩ toro no ũteithie thirĩ kweheria gĩko. Ũhoro ũyũ ndũrĩkĩtie kũmenyeka wega, na
+  kĩrĩndĩ kĩa Lancet gĩa 2024 gĩtiandĩkire toro ta ũndũ wa ũgwati ũngĩgarũrwo. Mĩtugo mĩrũmu ya
+  toro no ĩteithie ũrĩa wĩiguaga o mũthenya. Mathĩna ma toro nĩ maingĩ kũrĩ andũ arĩa matũũraga
+  na rũrimũ rwa kwaga kũririkana na nĩ wega kũmearia na ndagĩtarĩ.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Ũthuthuria wa UK warũmagĩrĩire andũ ta 8,000 ihinda rĩa mĩaka 25 ũkĩona atĩ gũkoma mathaa matandatũ kana makĩrĩa ũguo hĩndĩ ya ũkũrũ wa gatagatĩ kwahutanĩtio na ũgwati mũnene wa kwaga kũririkana."
+  - "Magarũrũko ma toro no makorwo marĩ kĩmenyithia kĩa tene kĩa kwaga kũririkana, nĩ ũndũ ũcio nĩ hinya kũmenya nĩ kĩrĩa gĩtũmaga kĩrĩa kĩngĩ."
+  - "Ũthuthuria ũrĩa wonanagia toro ũkĩeheria beta-amyloid thirĩinĩ nĩ wa ma, no ndũrĩkĩtie gũkinyĩrio, na mũingĩ waguo wĩkĩtwo na mbĩya."
+  - "Thĩna wa kũhuhĩrwo rĩrĩa ũkomete nĩ waingĩ, no ũthondekwo, na ũthuthuria wonanagia ũhutanĩtio na kwaga kũririkana; kũgona mũno na gũkua ngoro mũthenya nĩ maũndũ mega kũrorwo."
+  - "Ndũkanambĩrĩrie, ũtige, kana ũgarũre dawa ya toro kana kĩndũ kĩa gũteithia toro ũtarĩtie na ndagĩtarĩ."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Githĩ gũtaga gũkoma wega nĩkũrehaga ndwara ya Alzheimer’s?"
+    a: "Ũndũ ũcio ndũrĩ wonanĩtio. Ũthuthuria ũmwe wonanagia atĩ gũkoma toro mũnini kũhutanĩtio na ũgwati mũnene wa kwaga kũririkana, no rũrimũ rwa kwaga kũririkana naruo nĩ rũthũkagia toro, kaingĩ mĩaka mĩingĩ mbere ya gũthimwo. Kĩrĩndĩ kĩa Lancet gĩa 2024 gĩatuire atĩ ũira ndũiganaine wega nĩguo toro wandĩkwo ta ũndũ wa ũgwati ũngĩgarũrwo."
+  - q: "Andũ akũrũ mabataire gũkoma toro wa mathaa maigana atĩa?"
+    a: "National Institute on Aging yugaga atĩ andũ akũrũ mabataire toro ta andũ arĩa angĩ, mathaa 7 nginya 9 ũtukũ. Andũ akũrũ aingĩ makomaga na magokĩra tene gũkĩra mbere, na ũndũ ũcio nĩ wa ndũire."
+  - q: "Nĩ kĩĩ gĩtũmaga mũndũ ũrĩa ũtũũraga na rũrimũ rwa kwaga kũririkana akome mũthenya na agokĩre ũtukũ?"
+    a: "Rũrimũ rwa kwaga kũririkana no rũthũkie thaa cia mwĩrĩ, nĩ ũndũ ũcio mahinda ma toro na ma kwĩhũgũra makanangĩkana. Ruwo, gũtaga kũgĩa na ũndũ wa gwĩka, ng’aragu, kana mĩthiro ya dawa no igĩe na mũharĩrũko. Ũtheri wa mũthenya, wĩra wa o mũthenya, na mũtugo mũhooreri wa hwaĩ-inĩ no mateithie. Ndagĩtarĩ no arorie maũndũ marĩa mangĩthondekwo."
+  - q: "Nĩ wega he mũndũ ũrĩa ndoragĩra dawa ya toro?"
+    a: "Aria na ndagĩtarĩ wake mbere, o na ũhoro wa indo iria ciendagio ũtarĩ na watho wa ndagĩtarĩ. National Institute on Aging yugaga atĩ dawa imwe cia toro no ciongerere ũgwati wa kũrũngũũrwo nĩ mũtwe, kũgũa, na kũhĩngĩcanio kũrĩ andũ arĩa marĩ na ndwara ya Alzheimer’s."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +58,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Toro na ũgima wa thirĩ nĩ mahutanĩtio hatarĩ nganja, no mũhiano wao ũrĩa magĩrĩire ũgĩteithanio no ũthiĩ na mbere gũtuĩrio. Ũthuthuria ũmwe wonanagia atĩ gũkoma toro mũnini no kũhutanĩrio na ũgwati mũnene wa kwaga kũririkana. Na ningĩ, rũrimũ rwa kwaga kũririkana kaingĩ nĩ rũthũkagia toro. Karatathi gaka gatarĩrĩria ũrĩa ũthuthuria wonanagia na ũrĩa ũtangĩhota kuuga, gakaheana ũtaaro wa mĩtugo ya toro, na gakaaria mathĩna ma toro marĩa maingĩ kũrĩ andũ arĩa matũũraga na rũrimũ rwa kwaga kũririkana. Gĩtikuheana ũtaaro wa dawa cia toro; mũario ũcio wagĩrĩirwo gũkorwo na ndagĩtarĩ.
 
-## Is poor sleep linked with dementia?
+## Githĩ gũtaga gũkoma wega nĩ kũhutanĩtio na kwaga kũririkana?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Ũthuthuria ũmwe wa ihinda iraya wonanagia atĩ gũkoma toro mũnini no kũhutanĩrio na ũgwati mũnene wa kwaga kũririkana, no ũira ndũrĩkĩtie kũmenyeka wega.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Ũthuthuria wa UK wa mĩaka 25.** Athuthuria marũmagĩrĩire andũ ta 8,000 thĩinĩ wa [ũthuthuria wa Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Andũ arĩa maakomaga mathaa matandatũ kana makĩrĩa ũguo rĩrĩa maarĩ na ũkũrũ wa mĩaka 50 kana 60 maarĩ na ũgwati mũnene wa kwaga kũririkana thutha-inĩ gũkĩra arĩa maakomaga mathaa mũgwanja. Andũ arĩa maakomaga mathaa matandatũ kana makĩrĩa ũguo marĩ na mĩaka 50, 60 na 70 maarĩ na ũgwati mũnene ta 30% gũkĩra arĩa maakomaga mathaa mũgwanja kaingĩ. Ũyũ warĩ ũthuthuria wa kũrorera tu, nĩ ũndũ ũcio wonanagia ũhutanĩrio, ti gĩtũmi.
+- **Mwonere wa kĩrĩndĩ kĩa Lancet.** [Kĩrĩndĩ kĩa Lancet gĩa 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) gĩtiongerire toro mũtaratara-inĩ waguo wa maũndũ 14 ma ũgwati marĩa mangĩgarũrwo. Gĩatuire atĩ ũira ndũiganaine wega. Gĩtũmi kĩmwe nĩ „gũcookio na thuutha“: magarũrũko ma thirĩ nĩ ũndũ wa kwaga kũririkana mambagĩrĩria mĩaka mĩingĩ mbere ya gũthimwo na no mathũkie toro. Ũthuthuria-inĩ ũmwe mũnene, ũhutanĩrio gatagatĩ ka toro mũingĩ na kwaga kũririkana nĩwathirire rĩrĩa mĩaka ĩtano ya mbere ya kũrũmĩrĩrwo yeheririo.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Nĩ ũndũ ũcio, ũtukũ ũmwe mũũru wa toro ti gĩtũmi kĩa gwĩtigĩra. Toro wa mũtugo mũrũmu na wa mũthemba mwega nĩ wagĩrĩirwo nĩ kũgerio tondũ nĩ ũteithagia ũrĩa wĩiguaga, ũhoti wa kwĩhũgĩra, na ũgitĩri waku ũmũthĩ.
 
-## What is the "brain-clearing" sleep research?
+## Ũthuthuria wa „gũtheria thirĩ“ rĩrĩa tũkomete nĩ ũrĩkũ?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+No gũkorwo nĩ ũthomete atĩ toro „nĩ ũtheragia“ thirĩ. Rĩciria rĩu riumĩte ũthuthuria-inĩ wa ma, no ndũrĩkĩtie gũkinyĩrio.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Mbĩya-inĩ.** Ũthuthuria wa 2013 [ũrĩa ũtaarĩirio nĩ NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) wonire atĩ mwanya gatagatĩ ka tũceke twa thirĩ nĩ waongererekire ta 60% rĩrĩa mbĩya ciakomete. Maĩ magĩtherera thirĩinĩ na ũhũthũ mũnene, kũgerera njĩra ĩrĩa athuthuria metaga „glymphatic system“. Beta-amyloid, poroteni ĩhutanĩtio na ndwara ya Alzheimer’s, yeheririo narua thirĩinĩ cia mbĩya iria ciakomete.
+- **Andũ-inĩ.** [Ũthuthuria mũnini wa 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) wathimire andũ 20 magima arĩa maarĩ na ũkũrũ wa mĩaka 22 nginya 72 thutha wa ũtukũ wa toro wa ndũire na thutha wa ũtukũ ũtarĩ toro. Thutha wa ũtukũ ũtarĩ toro, kĩmenyithia kĩa gĩcicio kĩa thirĩ kĩa beta-amyloid gĩkĩongerereka ta 5% handũ hamwe harĩ na hippocampus, gĩcigo kĩa bata harĩ kũririkana. Andĩki moigire atĩ ũyũ warĩ ũira wa mbere. Matiamenyire kana magarũrũko macio mathiraga thutha wa kũhurũka, kana kana monanagia kweherio gũtarĩ na ihenya kana beta-amyloid nĩngĩ gũthondekwo.
+- **Wĩkaga na njĩra cierĩ.** Kĩrĩndĩ kĩa Lancet kĩonagia atĩ kwĩongerereka kwa amyloid no gũthũkie toro kũrĩ andũ akũrũ.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Mamenyithia maya mateithagia gũtaarĩria nĩ kĩĩ gĩtũmaga athuthuria marorere toro. Mationanagia atĩ toro mwega nĩ ũgiragĩrĩria ndwara ya Alzheimer’s.
 
-## What sleep habits may help?
+## Mĩtugo ĩrĩkũ ya toro ĩngĩteithia?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Andũ akũrũ mabataire ta mathaa 7 nginya 9 ma toro ũtukũ, o ta andũ arĩa angĩ, kũringana na [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Mataaro mayo nĩ maya:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Rũmia mũtugo mũrũmu wa mahinda.** Koma na ũkĩre ihinda rĩmwe o mũthenya, o na mĩthenya ya mĩthĩ ya kiumia.
+- **Gĩa na mũtugo wa kwĩhooreria mbere ya gũkoma.** Thoma, thikĩrĩria rwĩmbo rũhooreri, kana wĩthambe na maĩ mahĩũ mbere ya gũkoma.
+- **Tũma nyũmba ya toro ĩkorwo ĩrĩ handũ hega,** hatarĩ ũrugarĩ mũingĩ kana heho mũingĩ.
+- **Nyihia caffeine thaa cia hwaĩ-inĩ.** Kahũa, chai, soda, na chokoleti no itũme wage gũkoma.
+- **Tiga kũnyua njoohi,** o na nini, NIA ĩtaaraga ũguo.
+- **Tiga kũrĩa irio nene thĩinĩ wa mathaa merĩ nginya matatũ mbere ya gũkoma,** na kũnyua maĩ maingĩ mũno thaa cia hwaĩ-inĩ.
+- **Rutage gwĩka mazoezi kaingĩ, no ti thĩinĩ wa mathaa 3 mbere ya gũkoma.** Rora [mworoto witũ wa mazoezi](/brain-health/exercise/).
+- **Tiga indo cia cionorithia nja ya nyũmba ya toro.** NIA ĩtaaraga atĩ ndũkarore TV kana ũhũthĩre kompiuta, thimũ, kana kibao hau.
+- **Tiga gũkoma toro mũthenya thaa cia hwaĩ-inĩ kana thaa cia kĩroko** angĩkorwo no ũhote.
 
-## Sleep problems in dementia
+## Mathĩna ma toro kũrĩ andũ arĩa matũũraga na rũrimũ rwa kwaga kũririkana
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Magarũrũko ma toro nĩ maingĩ kũrĩ andũ arĩa matũũraga na rũrimũ rwa kwaga kũririkana. [NIA ĩtarĩrĩria](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) gũkoma mũno kana gũkoma hanini mũno, kwĩhũgũra maita maingĩ ũtukũ, na gũkoma toro mũingĩ mũthenya. Ningĩ ĩtaarĩria „sundowning“: gũtaga kũhoorera, gũtangĩka, kana kũhĩngĩcanio kũrĩa kwambagĩrĩria kana gũkĩrĩrĩria rĩrĩa ũtheri wa mũthenya ũthiraga.
 
-Caregiver tips from the NIA include:
+Mataaro ma arori kuuma kũrĩ NIA nĩ maya:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Gĩa na ũtheri wa mũthenya na mwĩruti wa mwĩrĩ tene.** Thiĩ nja kana ũikare hakuhĩ na ndirica mũthenya, na ũteithie mũndũ ũcio akorwo na wĩra o mũthenya. Ũtheri mũingĩ no ũteithie kũgarũra thaa cia mwĩrĩ.
+2. **Bangaga maũndũ ma hinya kĩroko-inĩ.** Geria gwĩthamba kĩroko-inĩ kana kũrĩa irio iria nene mĩaraho-inĩ.
+3. **Tũma toro twa mũthenya tũkorwo tũkuhĩ na tene.** Nyihia gũkoma toro thaa cia hwaĩ-inĩ.
+4. **Tũma hwaĩ-inĩ gũkorwo na ũhooreri.** Nyihia ũtheri, nyihia inegene, na ũhure rwĩmbo rũhooreri angĩkorwo mũndũ ũcio nĩ arwendete. Mworoto witũ wa [gũtaga kũhoorera hwaĩ-inĩ](/caregiving/late-day-restlessness/) ũrĩ na meciria mangĩ.
+5. **Rũmia mũtugo mũrũmu wa gũkoma.** Gũthomera na mũgambo mũnene ihinda rĩmwe o ũtukũ nĩ kĩonereria kĩmwe kĩa NIA. [Mũtugo mũrũmu wa o mũthenya](/activities/daily-routine/) o naguo nĩ ũteithagia.
+6. **Nyihia caffeine na njoohi.**
+7. **Hũthĩra matawa manini ma ũtukũ** nyũmba ya toro, njĩra-inĩ ya thĩinĩ, na thĩinĩ wa bafu.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Nĩ ũndũ wa kwĩhũgũra ũtukũ, [mataaro ma ũgitĩri mũciĩ ma NIA](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) marĩ na matawa manini ma ũtukũ kana cionorithia cia ũtheri iria ciĩrutanaga, indo cia kwĩnyiitĩrĩra thĩinĩ wa bafu, tepu ya rangi mũtune mĩthia-inĩ ya ngathĩ, na dawa ciikario handũ ha kũhingwo na kĩhingo.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Wĩra mũkuhĩ na mũhooreri hwaĩ-inĩ no ũteithie inyuĩ eerĩ kũhoorera. Geriai gũikara mũhooreire na [Kũhuhia Mũhooreire](/games/calm-breathing/) kana mũarie na [Makai ma Mĩario](/games/conversation-cards/) matarĩ na ihenya. Tiganai na maũndũ marĩa mangĩarahũra hakuhĩ na ihinda rĩa gũkoma, na mũtige rĩrĩa rĩothe mũndũ ũcio aiguithia nĩ aiganĩtie.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Gũtaga gũkoma wega ũtukũ nĩ kũnogagia arori o nao. [Mworoto witũ wa kwĩmenyerera kwa arori](/caregiving/caregiver-self-care/) nĩ waragia njĩra cia kũgĩa na ũhurũko na ũteithio.
 
-## What about sleep apnea?
+## Ĩ thĩna wa kũhuhĩrwo rĩrĩa ũkomete ũkĩrĩ atĩa?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Thĩna wa kũhuhĩrwo rĩrĩa ũkomete ũtũmaga mĩhĩtũko ya mĩhũmũ ya ihinda inini rĩrĩa mũndũ akomete, kaingĩ maita maingĩ ũtukũ. NIA yugaga atĩ ũngĩaga gũthondekwo, no ũrehe mathĩna ta thirikari mũingĩ wa thakame, kũhaatwa nĩ thikũ, kana kwaga kũririkana. Mamenyithia nĩ ta kũgona mũno na gũkua ngoro mũthenya, na andũ aingĩ matimenya atĩ marĩ naguo. Kĩrĩndĩ kĩa Lancet gĩtaarĩria ũthuthuria wa mamenyithia 11 harĩa andũ arĩa maarĩ na thĩna ũyũ maarĩ na ũgwati mũnene ta 43% wa kwaga kũririkana. No rĩrĩ, ũthuthuria ũcio mũingĩ ndwataranirie ũritũ wa mwĩrĩ, nĩ ũndũ ũcio ũhutanĩrio ndũmenyekete wega.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Thĩna wa kũhuhĩrwo rĩrĩa ũkomete no ũthimwo na ũgathondekwo. NIA ĩonagia atĩ mashini ya CPAP kaingĩ nĩ ĩteithagia. Angĩkorwo wee kana mũndũ ũrĩa ũroragĩra nĩ mũgonaga mũno, nĩ mũtigaga kũhuhia mũkĩkomete, kana nĩ mũkuaga ngoro mũno mũthenya, ĩra ndagĩtarĩ.
 
-## A note about sleep medicines
+## Ũhoro ũkoniĩ dawa cia toro
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Tũtiheanaga ũtaaro wa dawa cia toro kana ciongereri. NIA yugaga atĩ dawa cia toro no iteithie kwa ihinda inini no ti ndawa ya kũniina thĩna wa kwaga gũkoma. Ningĩ ĩonagia atĩ dawa imwe iria iheagwo gũteithia andũ arĩa marĩ na ndwara ya Alzheimer’s gũkoma no ciongerere ũgwati wa kũrũngũũrwo nĩ mũtwe, kũgũa, na kũhĩngĩcanio. Ndũkanambĩrĩrie, ũtige, kana ũgarũre dawa o yothe ya toro, o na iria ciendagio ũtarĩ na watho wa ndagĩtarĩ, ũtarĩtie na ndagĩtarĩ kana mũtandĩki wa dawa.
 
-## Talk with a doctor
+## Aria na ndagĩtarĩ
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Thiĩ kũrĩ ndagĩtarĩ angĩkorwo wee kana mũndũ ũrĩa ũroragĩra nĩ mũnogagio nĩ ngoro hĩndĩ ciothe, nĩ mũrĩ na thĩna wa gũkoma ũtukũ mũingĩ, nĩ mũgonaga mũno, kana nĩ mũtigaga kũhuhia ũtukũ. Angĩkorwo mathĩna ma toro kũrĩ andũ arĩa matũũraga na rũrimũ rwa kwaga kũririkana mathiĩ na mbere, [NIA ĩtaaraga](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) mũcarie ũtaaro wa ndagĩtarĩ. Gũthimwo no kuone maũndũ marĩa marehaga ũndũ ũcio ta ruwo, thĩna ũngĩ wa toro, mũrimũ, kana mĩthiro ya dawa. Kũhĩngĩcanio kwa narua, kana magarũrũko ma narua ma toro hamwe na kũhĩngĩcanio, mabataire ũteithio wa narua. Thoma [rĩrĩa wagĩrĩirwo nĩ kuonana na ndagĩtarĩ](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Karatathi gaka nĩ ũhoro wa ndũire, ti ũtaaro wa ndagĩtarĩ. Rora [kĩmenyithia giitũ gĩa ũrigiti wa ũhoro wa ũgima wa mwĩrĩ](/medical-disclaimer/).

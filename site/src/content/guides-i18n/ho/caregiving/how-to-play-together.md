@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Dementia danu taunimanima ida gadara dalana"
+description: "Dementia danu taunimanima ida gadara oi karaia dalana: hegaegae, metau, kerere lasi, gadara isi karaia, bona edana negai oi dokona."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Gadara be neganega rua umui noho hebou totona, ia be tesi lasi. Dina ai ia
+  namo negana oi abia hidi, rumu manada bona diari ai umui helai noho, bona
+  gadara ta oi henia. Taunimanima ia ena metau oi badinaia, kerere maragidia
+  oi hamaoromaoroa lasi, ia hekwarahi negana ai gadara oi isi karaia, bona
+  laulau amo hereva oi hamatamaia. Ia moale noho negana ai oi dokona. Ginigunana
+  ai dokona, eiava umui ruaosi itaia noho, ia be namo.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Anina bada be moale bona hebou, gadara dokona eiava maoro hereva abia lasi."
+  - "Ginigunana ai hegaegae: rumu manada, diari namo, matana bona taiana gauna, TV oi hakau, gadara ta hegaegae."
+  - "Kerere maragidia oi hamaoromaoroa lasi. \"Inai dala ai ita tohoa\" oi gwauraia eiava oi lao noho."
+  - "Hekwarahi ia vara lasi negana ai gadara oi isi karaia: laulau maraḡi, abia hidi maraḡi, laulau idia itaia noho."
+  - "Laulau amo sivarai oi hamatamaia, \"Inai laulau dekenai oi hereva henia\" oi gwauraia, \"Oi laloatao, a?\" lasi."
+  - "Gorere eiava lalohekwarahi karadia oi itaia negana ai oi dokona. Ginigunana ai dokona be kerere lasi."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Eda hora ai ai gadara?"
+    a: "Metau maorona ta lasi. Taunimanima momo dekenai, miniti maraḡi be heḡereḡere, bona dina haida ai nega tamona sibona be heḡereḡere. Nega oi itaia lasi, taunimanima oi itaia, bona ia manada noho negana ai oi dokona."
+  - q: "Ia ia kwalimu eiava ena kerere lau itaia lasi, namo, a?"
+    a: "Hebou gadara ai, kwalimu eiava davana ta lasi. Kerere ia ia lalohekwarahi henia lasi bema, oi rakatania. Ia lalohekwarahi henia bema, manada ai oi durua eiava gadara oi isi karaia, to kerere oi gwauraia lasi."
+  - q: "Lau gadara negana ia itaia noho ura henia bema, ede?"
+    a: "Ia namo. National Institute on Aging ia gwau, taunimanima ia moale bema, ia itaia noho sibona be namo. Oi itaia gaudia oi herevalaia bona ia ura henia negana ai ia do ginigunalaia eiava ia do abia hidi."
+  - q: "Inai gadara be laloatao tesi totona, a?"
+    a: "Lasi. Emai gadara be moale bona hereva hebou totona, isi gadara. Idia be laloatao tesi lasi, gau ta idia hahetohoa lasi, bona dementia dekenai auri ta lasi."
+  - q: "Dahaka gadara ai hamatamaia be namo?"
+    a: "Taunimanima dekena gadara isi gabuna ai oi hamatamaia. Picture Pairs tile 4 bona laulau idia itaia noho, eiava Find the Same abia hidi rua, idia be manada hamatamaia. Conversation Cards be namo bema ia hereva ura henia bada, ginigunalaia lasi."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Dementia danu taunimanima ida gadara namona be heatu lasi. Ia be taunimanima rua kahirakahira ai idia helai, laulau idia ginigunalaia, hereva ta dekenai idia kiri, bona idia laloa gaudia idia herevalaia. Gadara be badina sibona, umui neganega rua umui abia hebou totona.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Inai diba hereva ai oi diba, edena dala ai oi hegaegae, edena metau ai oi gadara, gau ta ia kerere bema dahaka oi gwauraia, gadara oi isi eiava oi auka maraḡi, edena dala ai hereva oi hamatamaia, bona edana negai oi dokona. Ia be emai [gadara](/games/) bona oi abia vada kadi, puzzle, bona teibol gadara dekenai ia gaukara.
 
-## What is the best way to play a game with someone who has dementia?
+## Dementia danu taunimanima ida gadara dalana namona be dahaka?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Moale oi laloa bada, kwalimu lasi. Ia be [Alzheimer's Association ena diba hereva, gadara dekenai](https://www.alz.org/help-support/caregiving/daily-care/activities) ena hereva badana: taunimanima ia karaia diba gaudia dekenai oi haginia, ia hamatamaia totona oi durua, auka gauna oi karaia, bona kara maragidia oi hamaoromaoroa lasi.
 
-In practice that means:
+Anina be:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Ia badibadina ai oi helai, ia vairana ai lasi.** Badibadina ai, umui ruaosi screen eiava teibol oi itaia diba, bona durua be hebou gaukara heḡereḡerena, naria lasi.
+- **Nega tamona ai gadara ta sibona oi henia.** Abia hidi momo be gadara ia hamatamaia lasi negana ai tesi heḡereḡerena.
+- **Ia ena ura oi badinaia.** Ia ena dala ai laulau ia ginigunalaia, laulau ta dekenai miniti 10 ia hereva, eiava nega rua murinai ia dokona bema, unai be hari dina gadara.
+- **Moale negadia oi duahia, gadara dokona lasi.** Mairi, sivarai, eiava haua daudau be oi tahua anina.
 
-## How do I set up before we start?
+## Ai hamatamaia lasi negana ai edena dala ai lau hegaegae?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Miniti maraḡi ai hegaegae be hekwarahi momo ia koua, unai hekwarahi taunimanima haida idia laloa gadara ia havaraia.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Ia ena dina negana namona oi abia hidi.** [National Institute on Aging (NIA) ena diba hereva, gadara abia hidi dalana](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ia gwau, gadara be ia namo negana ai oi karaia. Taunimanima momo dekenai, daba tubuḡa be namo. Adorahi kahirakahira be auka; [adorahi kahirakahira manada gadara](/caregiving/late-day-restlessness/) oi itaia.
+2. **Rumu oi hamanadaia.** TV bona redio oi hakau, bona namo bema iduara oi koua. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ia gwau, hereva lasi negana ai regena bona heauka gaudia oi haḡuḡua.
+3. **Ginigunana ai namo dalana oi itaia.** Ranu kahirakahira, toilet lao ginigunana, helai gauna namona, bona matana bona taiana gauna idia atoa.
+4. **Rumu oi hadiaria namonamo.** Diari namo, to screen dekenai diari bada lasi, unai be laulau itaia ia namo.
+5. **Helai lasi negana ai gadara oi hegaegae.** Oi kehoa, hegaegae oi abia hidi, bona regena oi haheḡaeḡae. Bena screen oi hurea ia dekenai. Tablet diba hereva dekenai, [tablet eiava phone hegaegae dalana](/caregiving/tablets-and-screens/) oi itaia.
+6. **Gauna oi hagoadaia.** Tablet ia gini totona hagoada gauna be namo, taunimanima ta ia dogoatao lasi, bona ginigunalaia ia isi.
 
-## How do I invite them without pressure?
+## Eda dala ai lau boiria, to ia lalohekwarahi lasi?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Boiria be isi bona ia gwau “lasi” be namo. Inai hereva haida be namo:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “Gadena laulau lau davaria. Oi ura lau ida ita itaia, a?”
+- “Inai puzzle ai oi durua diba, a? Lau auka.”
+- “Hari dina oi ura auḡe eiava manu?” (abia hidi rua be henanadai taḡa lasi dainai ia isi)
+- “Oi taihuna totona kadi lau karaia. Dahaka kala be namo?”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association ia gwau, gadara anina oi gwauraia, heḡereḡere turana totona kadi karaia, unai be anina ia henia. Durua oi noia be namo, badina ia laloa ia gaukara namo karaia.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ia “lasi” ia gwau bema, oi abi dae. Gabeai oi tohoa lou eiava gau ma ta oi henia. [Ia “lasi” ia gwauraia negana](/caregiving/when-they-say-no/) dekenai diba hereva ma haida.
 
-## How long should a game last, and how fast should we go?
+## Gadara be eda hora ai, bona eda metau ai ai lao?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Taunimanima ia ena metau oi badinaia, bona nega daudau oi laloa. Hebou gadara totona metau maorona ta lasi. Miniti rua eiava ima manada ai be gadara ta ia ore vada.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Oi laloa metau ia hanaia bada.** NIA ia gwau, haere henia totona nega ma haida oi henia, bona ia hereva negana ai oi koua lasi. Oi durua lasi negana ai, oi laloa lalonai 10 oi duahia.
+- **Kara ta, nega tamona.** Hereva daudau ta sibona oi gwauraia (“Laulau ta oi ginigunalaia”), bena oi naria. Gwauraia lasi, oi hahedinaraia: edeseni ai ginigunalaia oi hahedinaraia.
+- **Daudau ai oi dokona diba.** Laulau ta dekenai ia hereva bema, gadara ia naria diba. Harihari karaia lasi.
+- **Itaia noho ia ura bema, oi rakatania.** NIA ia gwau, taunimanima haida idia ura itaia noho sibona, bona unai be abia hidi namona.
 
-## Should I correct wrong answers?
+## Maoro hereva lau hamaoromaoroa, a?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Lasi. Nega momo oi hamaoromaoroa bema, ia ia diba ia kerere, oi ura namo to. Alzheimer's Association ia gwau, kara maragidia oi hamaoromaoroa lasi. Gadara ai, kerere momo be kerere bada lasi.
 
-| Instead of | Try |
+| Inai hereva lasi | Inai dala ai oi tohoa |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “Lasi, ia kerere.” | “Inai dala ai ita tohoa.” (NIA ia henia heḡereḡerena) |
+| “Idia ruaosi tamona lasi. Oi itaia lou.” | Gau ta oi gwauraia lasi bona nega ma ta oi abia, eiava “O, idia ruaosi kala kakakaka.” |
+| “Oi laloatao, ia be daika?” | “Inai laulau dekenai oi hereva henia.” |
+| “Unai oi karaia vada.” | “Ia namo. Ita karaia lou.” |
+| “Mai, oi diba vada.” | “Dokona lau hahedinaraia, a?” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Kerere ia ia lalohekwarahi henia ia itaia bema, manada ai oi durua. Laulau maorona oi ginigunalaia, oi sibomu nega ta oi abia, eiava nega gabeai gadara oi isi karaia. Hereva dokona ia kerere bema, ia ida umui kiri hebou. Ena dokona be namo herea.
 
-## How do I make a game easier or harder?
+## Gadara edena dala ai lau isi eiava lau auka maraḡi karaia?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Dina dekenai taunimanima dekena goada oi badinaia, hanamoa ladana oi badinaia lasi. Taunimanima ta adorahi ai gadara isi ia ura diba, daba ai lasi. NIA ena diba hereva ginigunana be, gadara ia karaia diba gaudia ida oi hahetohoa, bona ia ia laloa ia namo karaia.
 
-| Game | Make it easier | Make it a little harder |
+| Gadara | Isi karaia | Auka maraḡi karaia |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Tile 4 ai hamatamaia bona laulau idia itaia noho | Tile momo, eiava namo bema laulau oi hunia |
+| [Find the Same](/games/find-the-same/) | Abia hidi 2 | Abia hidi 4 |
+| [Sort Together](/games/sort-together/) | Oi laulau oi dogoatao, ia basket ia ginigunalaia | Ia sibona laulau bona basket ia ginigunalaia |
+| [Picture Puzzle](/games/picture-puzzle/) | Hapidi 4, ginigunana ai laulau idoinai oi herevalaia | Hapidi 9 |
+| [Finish the Saying](/games/finish-the-saying/) | Dokona oi hahedinaraia, bena umui gwauraia hebou | Ginigunalaia lasi negana ai ia dokona ia gwauraia |
+| [Word Search](/games/word-search/) | Oi printaia, hereva ta umui tahua hebou, ena leta ginigunana oi hahedinaraia | Ia sibona hereva ma ta ia abia hidi |
+| [Coloring](/games/coloring/) | Oi kala rua oi abia hidi, ia ruaosi lalonai ia abia | Ia sibona kala ibounai ia abia hidi |
+| [Conversation Cards](/games/conversation-cards/) | Laulau sibona umui itaia hebou | Kadi dekenai henanadai taḡa idia noho oi gaukaralaia |
+| [Photo Pairs](/games/photo-pairs/) | Ruma bese ena laulau namodia maraḡi | Laulau momo oi hatamaia |
+| [Picture Bingo](/games/picture-bingo/) | Gadara tauna ta ia ta ta badibadina ai ia helai | Taunimanima idia sibodia edia kadi idia hahetohoa |
+| [Calm Breathing](/games/calm-breathing/) | Umui helai bona umui itaia noho hebou | Metau daudau ai umui hoihoi hebou |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Gadara ia auka badina ia hahedinaraia: daudau negadia ai ia hekwarahi heḡereḡerena, “Lau diba lasi” ia gwauraia momo, gauna ia doria, eiava kerere idia ia lalohekwarahi henia. Gadara ia isi badina ia hahedinaraia: ia moale lasi, eiava ia gwau ia be mero gaudia. Unai ia vara bema, oi matauraia bona gadara ma ta oi abia, heḡereḡere word search, laulau korikori ena puzzle, eiava ia ena gunalaḡani gaukara laulau dekenai hereva.
 
-## How do I turn a game into a conversation?
+## Eda dala ai gadara amo hereva lau hamatamaia?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Laulau ta ta be hereva hamatamaia badina. Ia dahaka ia gwauraia, unai be haere namona. Ruma bese momo dekenai, unai be gadara ai moale badina.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Henanadai taḡa, maoro lasi.** “Dahaka oi itaia?” “Dahaka oi ura henia?” “Inai bamona kuki ta dekenai oi hereva henia.”
+- **Oi ginigunana ai oi hereva.** “Lau tubuna sinana be inai bamona sisia ia abia.” Oi sivarai ia henia bema, ia sivarai ia henia ia isi.
+- **Hereva ia lao dalana oi badinaia.** Motuka laulau ta amo davana sivarai ia vara bema, sivarai be gadara. Gadara oi daudau henia.
+- **Sivarai maorona oi tesi lasi.** Laloatao hebou ai, hereva namona be hereva maoro lasi. Sivarai ia idau bema, sivarai matamata oi moalelaia.
+- **Henanadai taḡa oi gaukaralaia.** [Finish the Saying](/games/finish-the-saying/) be hereva ta ta murinai henanadai taḡa ia henia, bona [Conversation Cards](/games/conversation-cards/) be unai totona. [Photo Pairs](/games/photo-pairs/) be oi ruma bese laulau ia gaukaralaia, unai amo sivarai namodia idia vara momo.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Diba hereva ma haida [laloatao gadara](/activities/reminiscence/) bona [hereva namo dalana](/caregiving/communication-tips/) ai.
 
-## When should we stop?
+## Edana negai ai dokona?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Gorere eiava lalohekwarahi karadia oi itaia negana ai oi dokona, bona namo bema unai lasi negana ai. Alzheimer's Association ia gwau, laloa ia lao eiava hekwarahi ia tubu bema, gadara oi dokona eiava oi haidaua.
 
-Watch for:
+Inai gaudia oi itaia:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- madaḡua, tau bogana, eiava matana screen ia rakatania;
+- ia helai namonamo lasi, ia gini, eiava ia ura lao;
+- hoihoi bada, hereva daudau, eiava “Lau namo lasi inai dekenai”;
+- dika ai ia ginigunalaia eiava gauna ia doria;
+- tai, badu, eiava laloa ia haidaua haraga.
 
-How to stop well:
+Dokona namo dalana:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Isi gauna ta ai oi dokona.** Ruaosi ta ia karaia diba, eiava laulau ta umui moalelaia.
+- **Oi sibomu oi gwauraia.** “Lau ura ti lau inua. Iniseni ai ita dokona, a?” unai be ia ia diba ia namo lasi lasi.
+- **Tau eiava manada gauna ta dekenai oi lao.** Lao daudau, aniani maraḡi, dabua kudouna, eiava ane.
+- **Hereva namo oi gwauraia.** “Lau moale, oi ida ita karaia.” “Oi maoro” hereva lasi, umui neganega hebou dekenai moale sibona.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Ginigunana ai dokona, dala haidaua, eiava gadara rakatania bona helai hebou sibona, idia ibounai be namo.
 
-## Can we play in a group or over a video call?
+## Bese ai eiava video phone ai ai gadara diba, a?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Oi, to hegaegae maraḡi do namo. Bese ai, taunimanima maraḡi sibona, durua taudia be durua taudia idia ura badibadina ai idia helai, bona gadara ta ena anina idia itaia diba oi abia hidi. [Picture Bingo](/games/picture-bingo/) dekenai printaia kadi bona screen ai boiboi tauna ia noho. Diba hereva ma haida [naria ruma bese gadara](/activities/care-home-groups/) ai.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Video phone ai, phone ai hereva tauna be laulau ia gwauraia, bona rumu ai taunimanima ta ia ginigunalaia. Phone hereva daudau lasi bona diba gaudia. [Phone bona video hereva](/activities/phone-and-video-calls/) ai diba hereva ma haida.
 
-## What if a game just isn't working?
+## Gadara ia lao namonamo lasi bema, ede?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Dina haida ai gau ta ia lao namonamo lasi, bona unai be oi eiava ia dekena kerere lasi. Gadara oi atoa, bena dina negana ma ta ai, gadara ma ta ai, eiava gadara lasi ai oi tohoa lou. Gadara namodia momo be screen ida lasi: ane, dabua kudouna, laulau buke itaia, eiava lao daudau. Diba hereva ma haida [gadara laloa](/activities/ideas/) ai.

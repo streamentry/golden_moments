@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Дементи кхочушдан мегар ю бе? Исследовани мел ду"
+seoTitle: "Дементи кхочушдан мегар ю бе? Исследовани хетар"
+description: "2024-чу шерашкахь Lancet комиссин а, стигала исследованийн а хетарш: дементин риск муьлха лахара мегар ю, мел доказана вац, а хьан доктарца дуьйцуш ма-дарра шаьш."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Дементи кхочушдан вожа хьо-са дац. 2024-чу Lancet комиссин меттигехь
+  хилла хетар: дуненахь дементин ахь 45%-ах доцу шаьш 14 риск-факторца, цара
+  хьа бакъо дуй хилла, масала юкъара тенаш, беш-лаьттар а, дуьхьало а. Исследовани
+  дукха хилла жима тестах, амма дементин кхин дукха адамах ца-кхочуш. Дукхахь
+  адамаш лахарах цхьаьна ойланца дакъа дий, амма дементи дукха адамна кхиа,
+  ца хилла шеца ца-хийла, а кхин ца дарий.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024-чу Lancet комиссин хетарш: дуненахь дементин ахь 45%-ах доцу 14 риск-факторца, цара хьа бакъо дуй хилла. Ахь шена доцу, дуненан юкъара хетар."
+  - "Риск лахара дуьйцу дуненан юкъарара лахар ду. Цунах хилла ца-дарий, цхьа адам дементин ца-кхочуш."
+  - "FINGER, US POINTER а, SPRINT MIND а хилла жима тестах лахарах, амма дукхахь доказа ца-хилла, цу программа дементин кхочуш ду."
+  - "Жима гIулах, дементин хиштарехь дукхо риск ду, цу ца-хийла. Лахарах хилла адамаш дементи кхиа."
+  - "Шеца дуьйцуш доктарца меттигехь: хьа гIуллакхан беш-лаьттар, тонсар, беш-лаьттарш а, дукха вина а хиллахь."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Дементи кхочушдан мегар ю бе?"
+    a: "Цхьа адамна дементин кхочушдан доказана эшар вац. Исследовани хетар: цхьа риск лахар (беш-лаьттар, ца-дарий тонсар, тамакин) дуненахь дементин ахь лахара а, я дукхо мехала кхиа а мегар ю. Цара хиллахь дуй ду, амма доказа вац."
+  - q: "Lancet комиссин 45% хетар муьлха ду?"
+    a: "2024-чу Lancet комиссин хетар: дуненахь дементин ахь 45%-ах доцу 14 риск-факторца, цара теоретически лахара мегар хилла. Иза дуненан юкъара хетар ду, амма цуьнан бакъо хьо шен хьа риск гойтуш вац."
+  - q: "Хьан хьи адам лахарах дара, кхузахь дементи муьлха кхиа?"
+    a: "Хан, гена, цхьа адам ца-дарар хилла хетарш дукха мел ду. Lancet комиссин хетар: дуненан юкъара риск лахара, цхьа адамна дементин ца-кхочуш вац. Дементин диагноз хьан тIе ца-хиллахь."
+  - q: "65 шо тIаьхьа риск лахара, цхьа ца-хиллахь?"
+    a: "Lancet комиссин хетар: риск лахар хан ца-хиллахь ца-шена. Дукха исследовани хьан тIаьхьа дийцарш ю. Дуьхьало лахарах а, гIуллакх дукхахь а, адамаш а кхетарш хилла. Хьан доктарца дуьйцуш ма-дарра шаьш."
+  - q: "Ойлан кхетар я тайпана беш-лаьттар дементи кхочуш?"
+    a: "Цхьа беш-лаьттар, бакхан, добавка я беш ца-хилла дементин кхочуш. Три шерашкахь MIND беш исследованиехь контрольна беш-лаьттар эшарца ца-хилла хетар. Коммерческий ойлан-программаш исследованиехь хилла хетарш ца-гойтуш."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,216 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Хьо дементина лаьттина ца-бу я, я хьан дийнахь дементи бина хилла, хьо ойланца
+дуьйцуш ду: иза кхочуш мегар хилла бе, я хьан ца-кхочуш. Кхузахь хетарш
+долу хетарш ду, дийцарш шен меттигехь. Хетарш: цхьа адам дементин кхочуш ца
+мегар, амма исследовани гойтуш: цхьа риск лахара, дуненан юкъара дементин ахь
+лахара мегар ю, я дукхо мехала кхиа мегар ю.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Иза общий информаци ю, медицинан консультаци ца-хилла. Читаде хьо [медицинан
+дуьхьало](/medical-disclaimer/) а, доктарца дуьйцуш хьан бакъо.
 
-## Can dementia be prevented?
+## Дементи кхочушдан мегар ю бе?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Цхьа адамна дементин кхочушдан доказана эшар вац. Национальный институт
+старения (NIA) дуьйцуш: [Альцгеймеран кхочушдан цхьа а доказана вац](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+амма исследовани эшара хетарш а, цхьа гIуллакхан хетарш а кхин.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Исследовани *гойтуш*: цхьа хаттар а, беш-лаьттар а дементи дукха кхиа. Иза
+дуненан юкъара риск лахара, дукхо адам дементи кхиа ца-хилла, я мехала хиллахь
+кхиа мегар ю. Иза кепара гарантия вац.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Дика хетар: 2024-чу Lancet комиссин хетар, цхьа дукха дийнахь (АЦШ, Британи)
+шо-ваштан дементи долу адамаш дукхах тоьхна. Авторш дуьйцуш, иза дукхахь
+тIаьхьа дукха гIуллакх, дика кхетам а, хан а ца-дарий. Иза дийцарш ю [Лондонан
+университетан кратка](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Муьлха хетарш гойтуш 2024-чу Lancet комиссин?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet комиссин дементин кхочуш, медицинан хьо а, гIуллакх а дуьйцуш 27 исследовател хилла.
+Цара 2024-чу шерашкахь дуьйцуш **14 риск-фактор**, цара хьа бакъо дуй хилла,
+а дуьйцуш, цара дуненахь **дукхахь (45%-ах доцу) дементин ахь** хилла
+([2024 Lancet комиссин доклад](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 фактор, цара дахьа ханаш долу тIехьа:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Хан хьо-са:** дукха тоьхна яц.
+- **Юкъара хан (40-65 шо):** беш-лаьттар, юкъара цхьаьна холестерин ("ца-дика"),
+  хан, тайпана тIехьа, гIуллакх ца-хилла, диабет, тамакин, юкъара беш-лаьттар,
+  туьра, барт арахь.
+- **ТIаьхьа хан:** хиллахь адамаш хьо ца-кхетар, хьан хьа хилла мерзел, дуьхьало
+  ца-хилла дукха гIуллакх.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024-чу шерашкахь ахь хилла ахь 14 фактора: юкъара холестерин а, дуьхьало ца-хилла
+дукхо гIуллакх а. Дукхо риск-фактор: беш-лаьттар а (7% шен), дукхо тоьхна а, хиллахь
+адамаш а (5% шен).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Наш [риск-факторан гайд](/brain-health/risk-factors/) 14 фактор таблицехь
+дуьйцуш, муьлха исследовани хетар, хьо муьлха дан мегар хилла.
 
-### What the 45% figure does not mean
+### 45% хетар муьлха ца-дуьйцуш
 
-It is easy to misread this number, so it helps to be precise:
+Иза хетар дуьхьало хилла, цхьа гIуллакхан хетарш:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Иза дуненан юкъара хетар ю.** Дуненан дементи ахь дуьйцуш, хьан а, хьан
+  дешна адаман а бакъо ца-дуьйцуш.
+- **Иза шен хетарш долу причина-следствие хетар ю.** Авторш дуьйцуш, дукхах
+  доказа долу риск-факторш ца-тоьхна, амма цхьа бакъо цхьа дакъа дукхах хиллахь.
+  Масала, тIаьхьа ханехь гIуллакх ца-хилла хиллахь дементин юкъара кху дукха.
+- **Цхьа адамна гарантия ца-дуьйцуш.** Дийцар дуьйцуш, риск лахара дуненахь
+  дукхах хилла, цхьа адам дементин ца-кхочуш вац.
+- **Кхин дакъа иза фактораш ца-дуьйцуш.** Хан, гена, дукха ца-кхетар причинаш
+  юкъара ахь дукха.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Муьлха дакъа "риск лахара" а, "кхочуш" а?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Риск лахара** дуьйцуш, дукха хилла цхьа дуьхьало. Дукха адам беш-лаьттар
+лахара, дукхо дементи дукха хан тIаьхьа кхиа ца-хилла, дукхахь ма-ц.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Кхочуш** дуьйцуш, цхьа хилла ца-кхиа. Дементин кхочуш иза исследовани вожа ца-ду.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Исследовани мехала кхиа мегар хилла дуьйцуш. Lancet комиссин дуьйцуш, риск лахар
+дементин хан кхиа ца-хилла, а дукхо хан дементин пхьаха. Даьхне цхьа шо а
+дукха дийнахь.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Нах сайт, "риск лахара" а, "гайда" а кхетам бина хилла. Хьо продукт, добавка я
+программа "Альцгеймеран кхочуш" дуьйцуш ма-дарра, къомах хилла. NIA дуьйцуш:
+ма-дарра цхьа ца-дарар беш я лечение доктарца дуьйцуш, масала оно могут быть
+небезопасны я ца-дика.
 
-## What have large trials found?
+## Муьлха дуьйцуш большой исследования?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Наблюдение (хан дуьйцуш) дукха хетарш гойтуш. Рандомизированный исследование
+(нах рандомно программа я контроль группа) дукха дика доказа ю. Цхьа тIаьхьа
+исследовани мел гойтуш.
 
-### FINGER (Finland)
+### FINGER (Финлянди)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER исследовани 60-77 шо адамаш 1,260-ах хилла, дементин дукха риск долу.
+Тхьо дукха группа ю: цхьа шо беш-лаьттар, гIуллакх, компьютерна ойлан
+гIуллакх, зудчун а, юкъара мохк а хьо-са. Кхин группа общий дуьхьало долу
+([FINGER исследовани The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Иза
+исследовани тестах хетарш гойтуш, диагноз ца-хилла.
 
-### US POINTER (United States)
+### US POINTER (Америка Цхьаьна Штаташ)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER исследовани 60-79 шо адамаш 2,111-ах хилла, гIуллакх ца-долу, беш-лаьттар
+дика ца-долу. Хьо кхин группа: цхьа структурированный программа, кхин шен
+гIуллакх. Цхьа шо тIаьхьа тестах хетарш **хьо группа** дика хилла, цхьа дукха
+структурированный группа ю ([US POINTER исследовани JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)).
+Авторш дуьйцуш, даьхне хан лаьтта. Контрольна группа ца-хилла, иза исследовани
+ца-дуьйцуш, программа ца-хиллахь хьо дика хилла бе.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (юкъара тенаш)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND исследовани 9,361 АЦШ адам, 50 шо тIаьхьа, юкъара тенаш долу. Хьо
+группа: цхьа дукха тенаш (120-ах доцу) я стандартан (140-ах доцу). Дукха тенаш
+группа **ца-хилла дукхо мехала дементи** (MCI) ахь дика хилла. **Дементи** дукха
+хилла, амма статистически меттигехь ца-хилла. Исследовани мехала ца-доцу,
+дементин жима кхин ю ([SPRINT MIND JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### ТIаьхьа хетарш
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021-чу Cochrane обзор 9 дукха исследовани, 18,000-ах адам, дукха риск тIехьа
+программаш. Иза тестах жима дика хетар гойтуш, амма **дукхо адам дементи ца-кхиа
+ца-доцу** цу исследовани ахь ([Cochrane обзор](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017-чу NASEM обзор (NIA дуьйцуш) "дика, амма ца-доказа" хетар гойтуш 3 гIуллакх:
+юкъара тенаш дуьхьало, физически гIуллакх, ойлан тренинг.
 
-## Does it matter when you start?
+## Муьлха хан хьо хьо дуьйцуш?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet комиссин дуьйцуш: риск лахара хан дика, а дукха хан хилла. "Хан хьо-са,
+дика хилла" а, "дукха хан, дика хилла" а. Иза дуьйцуш, риск лахар ца-хилла хан
+ца-тоьхна. Дукха исследовани юкъара хан (40-65 шо) дуьйцуш, амма цхьа риск (хиллахь
+адамаш, дуьхьало ца-хилла дукхо гIуллакх) тIаьхьа ханехь хилла, дуьхьало мегар
+ю.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Доклад дуьйцуш, риск-хан дукха — дукха дукха хан, дукха дукха хетар. Масала,
+юкъара хан диабет дукха дукха, тIаьхьа ханехь кхиа диабетах.
 
-## Is dementia risk the same for everyone?
+## Дементи риск цхьа адамна дика ю бе?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ца-ю. Lancet комиссин дуьйцуш: дукхаха ца-дика тоьхна мохк, ца-дика мохк долу
+адамаш, а иэ-доцу тоьхна долу адамаш дукха риск долу. Цара иза дукха хан тIаьхьа
+дементи кхиа. Дукха риск иза дуьйцуш: хан гIуллакх хилла, дешна хиллахь
+мохк, хиллахь тоьхна беш.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Иза дуьйцуш, Lancet комиссин дуьйцуш: хьо адамаш, хьо мохк а. Дика тоьхна, дика
+хиллахь мохк, тамакин ца-хилла, дукха вина а дешна, беш-лаьттар а дуьхьало.
+Хьо-са хиллахь дикаяр. Иза цхьа дукха хетар: дементи хьо дуьйцуш ца-хилла.
 
-## What are the honest limits of this research?
+## Исследованин меттигашка хетарш муьлха ю?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Дементи дукха хан кхиа,** амма дукха исследовани 2-5 шо. Дементин кхочуш
+  дукха хан а, дукха адам а хилла.
+- **Дукха исследовани тестах хетарш.** Тестах дика хилла дуьйцуш ца-хилла, дукхо
+  адам дементи ца-кхиа я, я дийнахь дика хиллахь бе.
+- **Волонтерш дукха дика, дукха тоьхна.** Lancet дуьйцуш, дукха доказа ЦАКЪО
+  мохк долу мохкахь, а дукха адамаш тIаьхьа.
+- **Цхьа хетарш ца-доцу кхин.** Ца-хилла я ца-доцу адам дукха — дементин юкъара
+  хетар, причина ца-хилла.
+- **Беш исследовани ца-дика хетар.** Три шо MIND беш исследовани ца-дика хетар
+  контрольна беш. См. [беш-лаьттаран гайд](/brain-health/diet/).
+- **Ойлан-программаш доказана ца-дуьйцуш.** См. наш гайд
+  [ойлан-программаш дементи](/brain-health/brain-games/).
+- **Беш-лаьттар (фастинг) адамашна дукха хетар ца-доцу**, дукхахь тIаьхьа адамна
+  ца-дика. См. [фастинган гайд](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Адам дика гIуллакх дан, муьлха дукха дементи кхиа?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Дементи хьо дуьйцуш ца-хилла. NIA дуьйцуш,
+[хан Альцгеймерин дукхо риск ю](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+а иза цхьа адам ца-лахара. Гена дакъа долу. Дукхахь Альцгеймерин причина
+дукхахь ца-кхетар. Lancet комиссин 14 фактор дуьйцуш хилла ца-хиллахь, дукха
+дакъа ца-тоьхна.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Хьо адам дика хиллахь, беш-лаьттар а, тамакин ца-хилла а дика хиллахь, амма дементи
+кхиа — ца-хилла ма-дарра, хьа я хьан тIехьа. Дементи долу адам хьо са ца-хилла,
+дементи хьо са ца-хилла. Нах тIехьа хилла гIиллакх, амма иза ца-доцу. Хан
+дуьйцуш: дика хан, къаьмнаш, дика дийнахь. Нах [гIуллакх идеш](/activities/ideas/)
+а, [хьо са хьо-са бакъо](/caregiving/caregiver-self-care/) а дика меттиг ю.
 
-## What steps can you talk over with a doctor?
+## Доктарца дуьйцуш муьлха шаьш?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Ахь дукхах исследовани меттигаш. Иза доктарца дуьйцуш дика, дукха хьо
+сердце, мохк, дешна хиллахь.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Юкъара тенаш.** Хьан тенаш муьлха ю, хьо кхин муьлха. Lancet комиссин дуьйцуш:
+   40 шо тIаьхьа 130-ах доцу тенаш. Цхьа адамна тенаш шен бакъо долу.
+2. **Дешна.** Дешнан хьо дукха, цхьа дешна дуьйцуш [дешнан гайд](/brain-health/hearing/).
+3. **Вина.** Вина регулярно хьо, катаракта я кхин проблема дуьйцуш доктар.
+4. **Холестерин.** LDL холестерин проверка, муьлха гIуллакх.
+5. **Цхьаьна шира.** Диабет долу хиллахь, дика дуьйцуш доктар.
+6. **Мохк.** Депрессия дукха хилла, дика дуьйцуш доктар. Хьо цхьа кехат гIуллакх я
+   бен ца-хилла, доктарца дуьйцуш.
+7. **Тамакин а, спирт а.** Тамакин ца-хилла программа, спирт дика ца-доцу.
+8. **Гуо.** Муьлха гIуллакх дика ю хьо. [Гуон гайд](/brain-health/exercise/) идешш.
+9. **Цхьа цIе.** Велосипедан, спорт дукха — дуьхьало дуй. Ц-хиллахь дуьхьало дуьйцуш.
+10. **Адамаш.** Адамаш дукха дика хилла ю. См. [социальный гайд](/brain-health/social-connection/)
+    а, [йоккх](/brain-health/sleep/) а.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Беш-лаьттар, диета, добавка, фастинг я гуо хьо доктарца дуьйцуш. Иза дукха
+хиллахь, сердечно-сосудистый гIуллакх, диабет, цхьа хан ца-хилла, я дементи долу
+адам.
 
-## Talk with a doctor
+## Доктарца дуьйцуш
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Хьо дукха ца-дика ойлан я хан хилла, хьо я хьан адамаш, доктарна дуьйцуш.
+NIA дуьйцуш,
+[ойлан проблемаш кхин причина ца-хилла](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+масала беш-лаьттар эффект, тIехьа проблема, депрессия я витамин B12 дукха.
+Цхьа проблема дика лечение хилла ца-хиллахь.
+[Дуьхьало](/brain-health/warning-signs/) гайд дуьйцуш, муьлха дуьйцуш хьо.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**ТIехьа дуьхьало хилла:** хан ца-хилла хала, дешна ца-хилла, хьо тIехьа
+шена ца-доцу, я тIехьа цIа ца-доцу — иза инсульт я кхин гIуллакх ю. Хьо
+**112** кхелаш.
 
-## Where Golden Moments fits
+## Golden Moments муьлха ду
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments шен дукха гIуллакх дуьйцуш, масала
+[дуьйцуш кхетамаш](/games/conversation-cards/),
+[картинкан бинго](/games/picture-bingo/) а,
+[дика тоьхна тIехьа](/games/calm-breathing/) а. Иза хьо-са гIуллакх ю, хьан
+тIехьа. Иза лечение ца-хилла, дементин кхочуш я лахарах ца-хилла.
