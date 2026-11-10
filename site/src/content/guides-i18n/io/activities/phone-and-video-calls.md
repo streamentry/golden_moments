@@ -1,34 +1,34 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Telefonala e videovokala agadi por persono kun dementeso"
+seoTitle: "Videovokala agadi por dementeso"
+description: "Videovokala e telefonala agadi por lontana familio di persono kun dementeso: montrar, lektar, kantar, ludi kun partigita skreno e konsili por helpanti."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Voki kun persono vivanta kun dementeso sucesas maxim bone kande li esas kurta,
+  regulara e organizita cirkum ulo facenda kune, exemple montrar dorlotbesto o
+  gardeno, regardar fotografuri, lektar laute, kantar favorata kansono o ludar
+  dolca ludo sur partigita skreno. Se posibla, vokizez sempre ye la sama horo,
+  lasez nur un persono parolar ye singla foyo, e demandez ke ulu surloke helpez.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Agado donas formo a voko e diminutas la preso di konverso. Planizez un simpla kozo por partigar."
+  - "Kurta, regulara voki ye la sama horo di la dio ofte funcionas plu bone kam longa, rara voki."
+  - "Nur un persono parolas ye singla foyo. Grupala voki kun interparolado esas desfacila por sequar, precipue se existas audodesfacileso."
+  - "Helpanto surloke povas preparar l’aparato, sidar apud la persono, ed esar la „manui“ por irga ludo o fotografuro."
+  - "Se voko ne funcionas hodie, finez ol afable. Probar itere morge esas tote aceptinda."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Quon me povas facar dum videovoko kun persono kun dementeso?"
+    a: "Planizez un simpla agado: montrez vua gardeno, dorlotbesto o koqueyo; regardez anciena fotografuri kune; lektez kurta poemo o letro laute; kantez kansono quan la persono amas; koquez la sama recepto ye la sama tempo; o ludez dolca imajala ludo sur partigita skreno. Agadi donas fokuso a la voko, do la persono ne mustas portar la konverso."
+  - q: "Qualonge videovoko devas durar?"
+    a: "Ordinare plu kurte kam vu pensas. Kelka varma minuti povas esar sat multa, precipue se la persono fatigesas rapide. Regulara voki ye la sama horo di la dio povas esar plu importanta kam la dureso di singla voko."
+  - q: "Quon facar se la persono konfundesas o chagrenesas pro videovoki?"
+    a: "Kelka personi trovas konfundanta vidar vizajo sur skreno. Probez simpla telefonvoko, registrita videomesajo quan helpanto povas plear en kalma momento, o karti e fotografuri per posto. Se voko iras male, finez ol bonvole e probez itere altra dio o ye altra horo."
+  - q: "Quale me povas helpar mea matro facar videovoko se el ne povas uzar la telefonilo?"
+    a: "Demandez ke familiano, hema helpanto o laboristo en sorgeyo komencez la voko e tenez o pozizez l’aparato. Multa sorgeyi helpas familii kun videovoki, do questionez pri to quon li ofras. Tabelo-komputero sur suporto, kun granda skreno e sat lauta sono, faciligas la kozo por omni."
+  - q: "Ka ni povas ludar ludo kune per video?"
+    a: "Yes. La maxim facila maniero esas ke un persono partigas sua skreno en la video-aplikajo, dum l’altru dicas qua imajo tuchez. O la helpanto surloke povas apertar la sama ludo sur tabelo-komputero e tuchez por la persono dum vu parolas kun lu pri to. Selektez ludi sen tempomezurilo o nombropunto."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +50,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Vivar fore de persono kun dementeso povas donar sentimento di senpoveso. Telefonvoki e videovoki ne remplasos brakumo, ma li povas ankore donar vera momenti di konekto se vu preparez li bone. La sekreto esas cesar probar facar normala konverso e vice planizar ulo simpla por partigar. Ica pagino montras agadi qui funcionas per video e telefono, quale preparar la voko, e quon la persono surloke povas facar por helpar.
 
-## Why plan an activity for a call?
+## Pro quo planizar agado por voko?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Agado donas formo a la voko. „Quale vu standas? Quon vu facis hodie?“ demandas ke la persono memorez e raportez, quo povas esar desfacila e stresanta. „Regardez, la tomati esas matura“ demandas nulo de lu.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+L’Alzheimer’s Association remarkas ke konversi kun plu granda grupi per video povas esar desfacila, e sugestas [adjuntar strukturo a la voko](https://www.alz.org/help-support/caregiving/holidays) per kozi quale kantar kansoni o partigar imaji.
 
-## What activities work on a video call?
+## Qua agadi funcionas dum videovoko?
 
-### Show and tell
+### Montrar e dicar
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Portez vua mondo a la persono. Movez la kamero lente cirkum vua gardeno, prezentez la hundo, montrez quon vu koquas, levez desegnuro da nepotulo, o direktizez la telefonilo tra la fenestro a la nivo. Deskriptez quon vu vidas per simpla vorti e lasez pauzi por ke la persono reaktez. Questioni ne esas necesa.
 
-### Look at photos together
+### Regardar fotografuri kune
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Tenez anciena printita fotografuro avan la kamero, o partigez vua skreno por montrar kelka granda fotografuri un ope. Parolez pri to quon vu remarkas: „Regardez la chapelo di avo.“ Evitez „Qua esas ica persono?“ o „Ka vu memoras?“ Se la persono nomizas ulu nekorekte, aceptez ol. Videz nia [guidolibro pri rememorado](/activities/reminiscence/) por dolca sugesti.
 
-### Read aloud
+### Lektar laute
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Lektez kurta poemo, psalmo, favorata puerolibro a nepotulo en la sama voko, letro de parento, o pagino de libro quan la persono amis. Lektar laute donas a la persono trankila kozo por askultar sen bezono respondar.
 
-### Sing or listen to music together
+### Kantar o askultar muziko kune
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Kantez kansono quan la persono bone konocas, o pleez favorata muzikajo de vua latero. Por multa personi, kantar kune esas plu facila kam parolar. Videz nia [guidolibro pri muzikala agadi](/activities/music/).
 
-### Cook or bake at the same time
+### Koquar o bakar ye la sama tempo
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+L’Alzheimer’s Association sugestas planizar videovoko por koquar o bakar specala recepto kune. Preparez la voko en amba koqueyi. La persono surloke povas mixar o gustumar dum vu sequas lua anciena receptokarto.
 
-### Watch something together
+### Spektar ulo kune
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+L’asocio anke sugestas spektar favorata filmo ye la sama tempo de aparta hemi dum vu parolas per telefono o video. Por persono kun dementeso, kurta fragmento, anciena televizion-epizodo o sportoludo povas funcionar plu bone kam tota filmo.
 
-### Play a gentle game on a shared screen
+### Ludar dolca ludo sur partigita skreno
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Multa video-aplikaji permisas partigar vua skreno. Vu apertas la ludo e tuchez; la persono dicas o montras qua imajo selektez. O la helpanto surloke apertas la sama ludo sur tabelo-komputero e tuchez por lu dum vu parolas kun lu.
 
-Games that work well this way:
+Ludi qui funcionas bone tale:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** vu lektas familiara dicajo, la persono dicas la fino, e sequas parolanta sugesto.
+- **[Picture Pairs](/games/picture-pairs/):** dolca kombino-ludo kun granda imaji qui povas restar videbla, sen tempomezurilo e sen nombropunto.
+- **[Conversation Cards](/games/conversation-cards/):** imajo e apertita sugesto por parolar kune.
+- **[Photo Pairs](/games/photo-pairs/):** kombino-ludo facita ek fotografuri quin vu selektas sur vua propra aparato. La fotografuri restas en vua retonavigilo, e la persono vidas li tra vua partigita skreno.
 
-### Recorded messages
+### Registrita mesaji
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Kande direta voki esas desfacila, registrez kurta videomesajo: saluto, kansono, promenado en vua gardeno. La helpanto povas plear ol en kalma momento, tam ofte kam la persono prizas ol. L’Alzheimer’s Association mencionas registrar e sendar specala momenti, quale infanti apertanta donaci.
 
-## What about plain phone calls?
+## E pri simpla telefonvoki?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Simpla telefonvoki ankore importas. Dementia Australia sugestas [vokar ye la sama horo singla dio](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) e ne hastar, pro ke personi kun dementeso povas bezonar tempo por partoprenar. En telefono:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Dicar vua nomo e parenteso quik: „Saluto, pa, esas me, Jenny, vua filiino.“
+- Parolar lente, per kurta frazi, un ideo ye singla foyo.
+- Donar novaji vice demandar pri li: „Me koquis hier vespere vua recepto di rostita karno.“
+- Lektar kurta poemo, o kantar strofo de favorata kansono.
+- Mantenez la voko kurta e finez ol per varma noto.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia anke remarkas ke videovoki povas helpar kande parolar divenas plu desfacila, pro ke la persono povas vidar vua vizajo. Se telefonvoki divenas konfundanta, probez video, o inverse.
 
-## How do I set up a video call that works?
+## Quale preparar videovoko qua funcionas?
 
-**Before the call:**
+**Ante la voko:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Selektez regulara horo** kande la persono ordinare esas reposinta, e mantenar ol. Rutino helpas.
+2. **Koordinez kun la helpanto surloke.** Mesajo la dio ante povas helpar lu planizar.
+3. **Kontrolez l’aparato.** Tabelo-komputero sur suporto esas plu facila kam telefonilo tenata en la manuo. Certigez ke ol esas chargita, ke la skreno esas klara, e ke la sono esas sat lauta. Aktivigez subtitoli se l’aplikajo ofras li e la persono lektas bone.
+4. **Planizez un agado** e preparez omno.
 
-**During the call:**
+**Dum la voko:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sidez proxim la kamero** en bona lumo, turnita a fenestro e ne kun ol dop vu.
+- **Prezentez vu** ye singla foyo, per vua nomo e parenteso.
+- **Nur un voco ye singla foyo.** L’Alzheimer’s Association remarkas ke interparolado esas desfacila por personi vivanta kun dementeso e personi kun audodesfacileso. Se plura parenti partoprenas, parolar alterne o limitar la grupo a du o tri personi.
+- **Questionar un questiono ye singla foyo.** La Family Caregiver Alliance sugestas [simpla questioni kun respondo yes o no](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), e montrar selekti kande posibla.
+- **Permisez longa pauzi.** Vartez respondo. Esas bone sugestar vorto se la persono serchas ol.
+- **Uzez vua vizajo e voco.** Smilez, kapklinez e mantenar varma tono. Expreso ofte dicas plu kam vorti.
+- **Ne korektez.** Se la persono dicas ulo qua ne esas justa, lasez ol pasar.
 
-**Ending the call:**
+**Por finar la voko:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Finez ante ke la persono fatigesas, se posibla ye bona momento.
+- Uzez la sama adio ye singla foyo: „Me vokos vu morge ye midi-manjo-horo. Me amas vu.“
+- Ne plulongigez ol.
 
-## Tips for the helper on site
+## Konsili por la helpanto surloke
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Se vu esas spozo, helpanto, fratulo o laboristo qua helpas kun la voko, vu facas ol posibla.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Preparez trankila loko.** Extingez la televiziono e klozez la pordo.
+- **Komencez la voko vu ipsa,** pose donez a la persono tabelo-komputero sur suporto o tenez ol ye okul-nivelo.
+- **Sidez apud lu, ne avan lu.** Vua prezenteso trankiligas. Dolcemente sugestez se necesa: „Regardez, esas Jenny.“
+- **Esez la manui.** Tenez fotografuri, tuchez la ludo, turnez la tabelo-komputero por montrar la chambro.
+- **Atencez fatigo o chagreno,** e informez la vokanto kande esas tempo por finar.
+- **Dicez a la vokanto quon sucesis.** „El tre prizis la hundo“ helpas planizar la sequanta voko.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+La NIA sugestas ke parenti qui vivas fore povas helpar plu olda persono [lernar la funcioni di lua telefonilo](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), exemple videovoki. En plu tarda stadi, la helpanto ordinare devas uzar l’aparato tote. To esas bone.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Se la persono vivas en sorgeyo, l’Alzheimer’s Foundation of America sugestas questionar kad l’institucuro helpas familii kun videovoki. La AFA anke mencionas ke familii povas sendar fotografuri tra la sorganto e sendar favorata manjeti o mikra komfortaji, pos kontrolo pri to quon l’institucuro permisas.
 
-## What if the call doesn't go well?
+## Quon facar se la voko ne iras bone?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Kelka voki esos konfundanta, plata o chagrenanta. To ne esas vua kulpo, e to ne signifikas ke voki ne valoras la peno.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Se la persono semblas konfundita da la skreno, chanjez a telefonvoko o a registrita mesajo.
+- Se lu divenas chagrenita, agnoskez la sentimento, dicez ulo trankiliganta, e finez dolce.
+- Se voki ofte iras male ye certa horo, probez altra horo.
+- Se lu pensas ke vu esas altru, aceptez ol bonvole.
 
-It is fine to end early. A short, warm call is a good outcome.
+Esas aceptinda finar plu frue. Kurta, varma voko esas bona rezulto.
 
-## Between calls
+## Inter voki
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Restar prezenta en altra manieri. Dementia Australia sugestas sendar karti, e-posti, fotografuri o mikra donaci. Semanala postokarto kun un granda fotografuro e kurta noto povas esar lektata plurafoye. Imprimebla [Conversation Cards](/games/conversation-cards/) sendita a la helpanto povas donar pronta temo por la sequanta voko.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Por konsili pri quale selektar e preparar tabelo-komputero, videz [tabelo-komputeri e skreni](/caregiving/tablets-and-screens/). Por tempo kune en persono, videz nia guidolibro pri [viziti](/activities/visiting/).

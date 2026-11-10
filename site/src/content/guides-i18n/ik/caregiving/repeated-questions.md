@@ -1,36 +1,37 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Qakugu isumaġniq suliġġuqtuaq apqutaq ataasiq aaqqiksrauniaqtuq"
+seoTitle: "Apqutaq aaqqiksrauqtuq: Qanuq kiŋuvigiqniaq"
+description: "Suna pissutiq isumaġniq suliġġuqtuaq apqutaq ataasiq aaqqiksrauniaqtuq, qanuq kiŋuviknaqtuat, ikayuutilgich, suli qakugu aaniaqtuq taqsiġiḷḷiqtuq."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Apqutaq ataasiq aaqqiksrauqtuq isumaġniq suliġġuqtuni piviġauniaqtuq: taamna iñuk
+  naammanaq apqutaminik iqsiḷḷuni iñuuniaġigai, suli apqutaq pivaaġnaiqtuq iqsiqsuqaqtuamik.
+  Kiŋuvikniaq nipaqsuuminaq, naaggaaq, taima apqutauvalliaqtuaġñiaġun, suli
+  "apqutavvaq aaqqiksaġivagit" unnaaqtuunigñiq. Kiagvivikmi kiŋuni tunġiqsraaqtuq
+  takuulluni, pihimayaaqtuq suli aaqqiksaġiyaugniq suġlaataqaġiḷḷuni, suli
+  piġuutiqnaqtuamik piñiqtumik ikayuutauŋŋaġniaqtuq. Taqsiġiḷḷiqtuq aaniaqtuq
+  taqsiġiḷḷiruaqtaaqtuni kiŋuvikniaq.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Taamna iñuk naammanaq apqutaminik iqsiḷḷuni iñuuniaġigai; una piyaqtuunigñiq."
+  - "Apqutaq pivaaġnaiqtuq iqsiqsuqaqtumik, uuttuq alakkaksraq, apqutauġvik miqsuqsauġumiinnaq, uvluŋaġniaġumiinnaq unniqtuq."
+  - "Kiŋuvikniaq nipaqsuuminaq, naaggaaq suli apqutaqsuuminaq, taima apqutauvalliaqtuaġñiaġun. Suli \"apqutavvaq aaqqiksaġivagit\" unnaaqtuunigñiq."
+  - "Tusaataq, aŋuniaqtaq suli tuuqsriq uvva taigluġaataq takuulluni kiŋuvigiyaqnaqtuq apqutaq."
+  - "Pivaqsuqaqtut piñiqtut suġlaataqaġiḷḷuni qaaqqiġnaktuat pihimaniaqput."
+  - "Suvluġiḷḷigun uvva iñuġniq, suli taqsiġiḷḷiqtuq aaniaqtuq taqsiġiḷḷiruaqtaaqtuni kiŋuvikniaq."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Suna pissutiq ataataqa isumaġniq suliġġuqtuaq apqutaq ataasiq aaqqiksrauniaqtuq?"
+    a: "Isumaġniq suliġġuqtuaq nipkuqsuqaqtuq qanuq unniqtuq iqsiḷḷugu, taamaatun taamna iñuk naammanaq apqutaminik uvva tusaaġuminik iqsiḷḷuni iñuuniaġigai. Iglumik apqutaq pivaaġnaiqtuq iqsiqsuqaqtumik, uuttuq suġlaataqaġniaġumiinnaq, uvluŋaġniaġumiinnaq unniqtuq, uvva ikayuutiqtaaqtillugu. Taamna iqsiqsuqaqtuq kiŋuvikniaq akłaqtuq unniġataġiḷḷaqtaqtaq nalunaiqtuamik apqutamik."
+  - q: "Iqsiḷḷuni apqutavvaq aaqqiksaġivagit unnaaqpiaqa?"
+    a: "Aaġnaiq. Una naammanaq iqsiḷḷuniluġiḷḷiqtuq ikayurniaġigai, suli una apqutaqsuġaqtukkut nipaqsuġiḷḷiqtuq. Isumaġniq suliġġuqtuaq ikayuutilgich uqaġiḷḷaqput kiŋuvikniaq nipaqsuuminaq taima apqutauvalliaqtuaġñiaġun, suli apqutaanik naaggaaq kiŋuvigiḷḷuni."
+  - q: "Tusaataq aŋuniaqtaq uvva ikayuqtaaqpiaq?"
+    a: "Ikayuqtaaqpiaq, taamna iñuk taigluni iñuuniŋaruq. Tusaataq, aŋuniaqtaq uvlaalluŋmi suġlaataq nutqaqtuq, tuuqsriq suli uvlumi aglagvik takuulluni taamna iñuk apqutaminik nalunaiqsuqaqtuq. Takuyaqsuuminaq aglagvigik saġnaqsuuminaq, suli \"aglagvigivagit\" unnaaqtuunigñiq."
+  - q: "Qakugu apqutauġvik uvva aippaq suġlaataqaġiḷḷuni uqaġniaqpiġa?"
+    a: "Qaaqqiġiḷḷuni suġlaataq pihimanianut. Apqutauġvik taqsiġiḷḷiruaqtaaqtuaq uvva aippaq uvluŋniġiḷḷuni uqaġniaġiḷḷuni ikpigakpiaġniaqtuq apqutaq aaqqiksrauqtuq. Uqaġniaq qaaqqiġiḷḷuni suġlaataq pihimanianut, nipaqsuuminaq, suli qanuq pihimaniani suġlaataqaġiḷḷuni ataasiq uqaġiḷḷuni."
+  - q: "Qakugu aaqqiksrauqtuq taqsiġiḷḷiruaqtaaqtuq taqsiġiḷḷiqtuq kiŋuvikniaq?"
+    a: "Qakugu apqutaq, isumaġniq suli kisiññaġniq taqsiġiḷḷiruaqtaaqtuq uvva ikpigakpiaġniaqtuq uvluk nipiġiḷḷuni uvva uvlunigñiq, taqsiġiḷḷiqtuq ikpigakpiaqtuq. Qaaqqiġnaktuaq taqsiġiḷḷiruaqtaaqtuni kiŋuvikniaq. Iñuiqtaq, nutaamikinnaq atuqtuq, aullaqtuq, iñuk niġiḷḷiqtuq uvva immiaqtuq niġiḷḷiqtuq, suli isumagikpiaqtuq nigipkaġniaqtuq taqsiġiḷḷiqtuq isumaġniq suliġġuqtuaq, una uuttuq delirium aŋuniaġniaqtuq, suli qaaqqiġnaktuaq taqsiġiḷḷiqtuq ikayuutauŋŋaġniaqtuq."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +59,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+"Qakuniaq taqsiġiḷḷiruaqtaaq?" Iġñiq akuniġa: "Qakuniaq taqsiġiḷḷiruaqtaaq?" Apqutaq ataasiq aaqqiksrauqtuq tusaaġniaqtuq ikpigakpiaġniaqtuq isumaġniq suliġġuqtuaq ikayuutilguk. Una piviġauniaqtuq, piyaqtuunigñiq, suli qanuq kiŋuviknaqtuat ataaniġniaqput suġlaataqaġiḷḷuni suli iluvigigluk.
 
-## Why does someone with dementia ask the same question over and over?
+## Suna pissutiq isumaġniq suliġġuqtuaq apqutaq ataasiq aaqqiksrauniaqtuq?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Taamna nipkuġniq pissutauyuq. Isumaġniq suliġġuqtuaq nipkuqsuqaqtuq qanuq unniqtuq iqsiḷḷugu, taamaatun taamna iñuk naammanaq apqutaminik uvva kiŋuviguminik iqsiḷḷuni iñuuniaġigai. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) uqaġiḷḷaqtuq apqutaq ataasiq aaqqiksrauqtuq piviġaaqtuq suli naliŋaġnaiqtuq.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Apqutaq pivaaġnaiqtuq iqsiqsuqaqtumik uqaqtuq. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) uqaġiḷḷaqtuq apqutaq ataasiq aaqqiksrauqtuq pivaaġnaiqsuqaqtuq iqsiqsuqaqtumik, ikayuutiqtaaqtillugu, uvva apqutaqsuqaqtillugu, suli taamna iñuk apqutaqsuqaqtuq ikayuutiqtaaqtillugu uvva inuunnaġniaġumiinnaq. "Qakuniaq aippaqniaqa?" uuttuq pivaaġnaiqsuqaqtuq "Alakkaksrauniaqtuq aippaqniaġumina." Quliaqtuq, qunniaqtuq, nutaamikinnaq aallagakpigñiq, suli suġlaataq nutaaqtuq una aaqqiksrauniaqtuq, uvva apqutaq ataasiq aaqqiksrauqtuq ikayuutiqtaaqtillugu pihimaniani nalunaiqsuqaqtuq, uuttuq qaugnaqtumi ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Qanuq kiŋuvikniaq?
 
-Answer calmly and briefly, as if it were the first time.
+Kiŋuvikniaq nipaqsuuminaq, naaggaaq, taima apqutauvalliaqtuaġñiaġun.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Apqutaq naaggaaq suli ataasiq kiŋuvigiḷḷuni.** "Taqsiġiḷḷiruaqtaaq uvlaami qallunmi. Aqqutauŋŋaġnaittua." Apqutaq ataasiq kiŋuvigiḷḷuni nalunaiqsuqaqtuq qanuq nalunaiqtuamik.
+- **Iqsiqsuqaqtuq kiŋuvigiḷḷuni.** "Taqsiġiḷḷiruaqtaaqtillugu alakkaksrauvigit. Uvlaami qallunmi, aqqutauŋŋaġnaittua. Sunamik piyaqtuunigñiq pihimaniaġniqigivit."
+- **Nipaqsuuminaq qanuq uqaġluni, uvva iñuġniq agluġlugu,** qakugu taamna iñuk agluġniaġumiinnaq piġuutiqtuq. Alzheimer's Association uqaġiḷḷaqtuq nipaqsuuminaq iñuuniġniq, suli nalunaiqtuamik uqaġlugu uvva qiquġlugu aaqqiksaġiḷḷuni.
+- **Taamna iñuk apqutaminik piġuutiqtuq kiŋuvigiḷḷuni, qakugu aaqqiksrauqtuq.** Alzheimer's Association uqaġiḷḷaqtuq kiŋuvigiḷḷuni qakugu apqutaqsuqaqtuq.
 
-## What should I avoid?
+## Suna kiŋuvigiḷḷuni?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **"Apqutavvaq aaqqiksaġivagit."** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) uqaġiḷḷaqtuq una uqaġlugu kiŋuvigiḷḷuni. Una naammanaq iqsiḷḷuniluġiḷḷiqtuq ikayurniaġigai, suli nipaqsuġiḷḷiqtuq.
+- **Uqaġiḷḷaqtuq iġġigñaqtuamik.** Uqaġiḷḷaqtuq iġġigñaqtuq nalunaiqsuqaqtuq qanuq iqsiḷḷuniluġiḷḷiqtuq.
+- **Nipauġaqtuamik, iñiñiqtuamik uvva nipaqsuġiḷḷaqtuamik uqaġlugu.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) uqaġiḷḷaqtuq suvlġiḷḷuni uvva nipaqsuuminaq iñuuniġniq. Una suvlġiḷḷuniaqtuq; ataaniġniq uvanni suġlaataq takuulluni uqaġiḷḷaqtuq.
 
-## Simple tools that answer the question for you
+## Ikayuutilgich apqutaq kiŋuvigiyauŋŋaġniaqtut
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Taamna iñuk taigluni iñuuniŋaruq, aglagvigik aŋuniaqtaq takuulluni apqutaq kiŋuvigiyaqnaqtuq akłaqtuq tusaaġuminit.
 
-| Tool | How to use it |
+| Ikayuutiliq | Qanuq atuqniaq |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Aŋuniaqtaq aglagvik miklumi titigaqtuq | "Taqsiġiḷḷiruaqtaaq uvlaami qallunmi. Mary aqqutauŋŋaġniaqtuq." Takuulluni pihimanianut saġnaqsuuminaq |
+| Aŋuniaqtaq | Uvlaalluŋmi suġlaataq pingasunik uvva sisamaŋŋaģnik titigaqsuuminaq; uvlaami nutaaqtitigiuq |
+| Tuqŋiqtuq suli uvlumi aglagvik | Ikayuqtaaqtuq "Qakuniaq uvluk?" uvva "Qakuniaq suġlaataq?" nalunaiqsuġniaġumi |
+| Uvlumi aglagvik | Uvluk aaqqiksaġlugu; qaaqqiġiḷḷuni suġlaataq aippaġlugu |
+| Ilitqusiq aŋuniaqtut | Iñuup aŋuniaġviani nalunaiqsuqaqtuq ikayuqtaaqtuq "Kina pihimaniaqtuq?" |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Una nalunaiqsaut [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) uvva [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) pigiyaqput. Aŋuniaqtaq takuyaqsuuminaq saġnaqsuuminaq ("Iluliñik aglagvimmut takuñiaqquti") suli "Aglaġvigivagit" unnaaqtuunigñiq.
 
-## Tell them about events close to the time
+## Suġlaataqaġiḷḷuni qaaqqiġiḷḷuni uqaġniaq
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Apqutauġvik uvva aippaq uvluŋniġiḷḷuni uqaġniaġiḷḷuni ikpigakpiaġniaqtuq apqutaq aaqqiksrauqtuq iġġigñaaqtuamik. Family Caregiver Alliance uvva Alzheimer's Los Angeles uqaġiḷḷaqput suġlaataqaġiḷḷuni, piġuutiqtuq taqsiġiḷḷiruaqtaaqtut uuttuq taqsiġiḷḷiruaqtaaqtunit, qaaqqiġiḷḷuni pihimanianut uqaġniaq. Kinguġa, qanuq pihimaniani suġlaataqaġiḷḷuni, ataasiq suli ataasiq uqaġiḷḷuni.
 
-## Activities that can shift attention
+## Piñiqtumik ikayuutit aaqqiksrauqtuq saġnaqsuġniaġumi
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Apqutaq kiŋuvigiglugu uvva iqsiqsuqaqtuq nalunaiqsuġlugu, piġuutiqnaqtuamik piñiqtumik ikayuutauyuq saġnaqsuġniaqnaqtuq, piġuutiqtuq quliaqtuq pissutiq.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Naaggaaq suli qanuq nigipkaġniaqtuq nipiqaġniaq.** [Picture pairs](/games/picture-pairs/) aglagvigich takuulluni pihimaniaqput, taamaatun iqsiḷḷuniluġiḷḷiqtuq nalunaiqsuqaqtuq.
+2. **Ilitqusiq suliġa.** Pualuuk nisraliġġu, itqitchit ilaiġlugu, uvva napaataq pihimaniġlugu. [Sort together](/games/sort-together/) nunaġmi atuqtauniaqtuq.
+3. **Ilitqusiq pivaaġniaġumina uqaġiḷḷuni.** [Conversation cards](/games/conversation-cards/) apqutaanik tunġiqsraaqtut, naammanaq kiŋuviktautailaqtuq.
+4. **Nipiq, aullaqtuq, uvva niġiḷḷiqtuq.** National Institute on Aging uqaġiḷḷaqtuq una saġnaqsuġniaġumini ikayuutit.
+5. **Nipaqsuuminaq uvva quliaqtuq.** Iluliñik igluŋni takuuluni, uvva iluliñik atuqluni [calm breathing](/games/calm-breathing/) pihimaniaq.
 
-If they return to the question, answer it again, kindly. That is fine.
+Apqutaq atuqaġniaġuni, kiŋuvigiḷḷuni aaqqiksaġniaq. Una naliŋaġnaiqtuq.
 
-## Look for patterns
+## Naliġniq nalunaiqsuġniaq
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association uqaġiḷḷaqtuq nalunaiqsuġniaq apqutaq qakuniaq pihimaniaqtuq, kina ilaaniaqtuq, uvva qakuniaq nunaġmi. Qakugu qaaqqiġiḷḷuni pihimaniaqtuq, uvva unnuaq unnuami pihimaniaqtuq, saġnaqsuġniaqnaqtuq: aŋuniaqtaq pihimaniani suġlaataq, piġuutiqnaqtuamik piñiqtumik pihimaniaqtuq, uvva nunaġmi quliaqtuq. Savigun [calm late-afternoon activities](/caregiving/late-day-restlessness/) ikayuqtaaqtuq qakugu unnuat suvlġiḷḷut pihimanianut.
 
-## Take care of yourself
+## Ilivñik ikayuġiḷḷuni
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Apqutaq ataasiq, uqautchit nalunaiqsuqaqtuq, suvlġiḷḷuniaqtuq. Qakugu suvlġiḷḷigun uvva taamna iñuk iñuuniŋaruq, igluup aŋaniññaanun aullaqtillugu minitinnaq pihimaniaq, uvva puġuġluni, uuttuq [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) uqaġiḷḷaqtuq. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) uqaġiḷḷaqtuq ikayuutiqtaaqtillugu qivluġiḷḷuni uvva ikayuutiqtaaqtillugu pihimaniani qivluġiḷḷuni. Iġġigñaqtut nalunaiqsaut ataani [caregiver self-care guide](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Qakugu taqsiġiḷḷiruaqtaaqtuni kiŋuvikniaq?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Taqsiġiḷḷiruaqtaaqtuni kiŋuvikniaq taamna iñuk taqsiġiḷḷiqtuq apqutaq, isumaġniq uvva kisiññaġniq taqsiġiḷḷiruaqtaaqtuq uvva ikpigakpiaġniaqtuq uvluk nipiġiḷḷuni uvva uvlunigñiq. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) uqaġiḷḷaqtuq taqsiġiḷḷiruaqtaaqtuq uvva qaaqqiġnaktuaq taqsiġiḷḷiqtuq, piġuutiqtuq iñuiqtaq uvva nutaamikinnaq atuqtuq nutaaqtuq, taqsiġiḷḷiruaqtaaqtuni kiŋuvikniaq. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) uqaġiḷḷaqtuq iñuiqtaq, atuqtuat, immiaqtuq niġiḷḷiqtuq, aullaqtuq uvva iñuk niġiḷḷiqtuq delirium nalunaiqsuġniaqtuq, una taqsiġiḷḷiqtuq isumaġniq suliġġuqtuaq qaaqqiġnaktuaq, suli qaaqqiġnaktuaq taqsiġiḷḷiqtuq ikayuutauŋŋaġniaqtuq. Qivluġiḷḷuni 911 qakugu iñuk iñuuniŋaruq innamiinnaq pihimanianut.

@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Aud-perdo e demenco-risko: quo montras la studiuri"
+seoTitle: "Aud-perdo e demenco: quo montras la studiuri"
+description: "Pro quo aud-perdo esas demenco-risko-faktoro, quo reale trovis la probo ACHIEVE pri aud-helpili, e quale kontrolar audado e parolar plu facile."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  La Lancet-komisiono di 2024 nomizas aud-perdo kom un ek la maxim granda modifikebla
+  risko-faktori por demenco. En la probo ACHIEVE, aud-helpili ne lentigis kognala dekreso
+  generale, ma subgrupo kun plu alta risko montris min dekreso. Aud-helpili helpas konverso e
+  omnadia vivo irgakaze. Kontrolez vua audado, konsideras preskriptita o sen-preskripta
+  aud-helpili, e parolez kun mediko.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "La Lancet-komisiono kalkulas ke aud-perdo reprezentas cirkume 7% di la kazi di demenco en la mondo, egala a la maxim granda parto inter 14 faktori."
+  - "En la probo ACHIEVE kun 977 plu olda adulti, aud-helpili ne chanjas la kognala dekreso dum tri yari generale."
+  - "En plu mikra grupo kun plu alta risko en ACHIEVE, la kognala dekreso esis 48% plu lenta kun aud-helpili; to bezonas konfirmo."
+  - "De oktobro 2022, Usana adulti kun perceptata legera til meza aud-perdo povas komprar aud-helpili regulizita da FDA sen preskripto."
+  - "Netraktita vid-perdo adjuntesis kom demenco-risko-faktoro en 2024, do okul-exameni anke importas."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Ka aud-helpili preventas demenco?"
+    a: "To ne esas pruvita. La probo ACHIEVE trovis nula generala efekto sur kognala dekreso dum tri yari, malgre ke un grupo kun plu alta risko facis plu bone. Aud-helpili restas konsiderinda pro ke li faciligas konverso, sekureso e omnadia vivo."
+  - q: "Qui povas komprar aud-helpili sen preskripto?"
+    a: "FDA permisas ke adulti de 18 yari o plu olda, kun perceptata legera til meza aud-perdo, komprez sen-preskripta aud-helpili en butiki o enrete sen preskripto. Li ne esas destinita por severa aud-perdo. Irgu kun orelo-doloro, likuido ek l’orelo, vertijo o subita chanji di audado devas unesme vizitar mediko."
+  - q: "Ka aud-perdo povas semblar demenco?"
+    a: "Kelkafoye. La National Institute on Aging notas ke plu olda personi qui ne audas bone kelkafoye erore judikesas konfuza o ne-kooperema. Audado-kontrolo esas prudenta stupo kande ulu semblas retretar su o ne komprenas quo dicesas."
+  - q: "Quante ofte plu olda adulti devas kontroligar sua okuli?"
+    a: "La National Institute on Aging konsilas dilatita okul-exameno omna un o du yari pos la evo di 60 yari, o segun la rekomendo di vua okul-sorganto. Personi kun diabeto o alta sangopreso ordinare bezonas olu adminime unfoye omna yaro."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Aud-perdo esas ofta en plu tarda vivo, e chercheri serioze konsideras olu kom demenco-risko-faktoro. To ne signifikas ke aud-helpili esas pruvita maniero por preventar demenco; la maxim bona probo til nun havis mixita rezulti. Ca pagino explikas quo montras la studiuri, quale kontroligar audado, quo esas Usana aud-helpili sen preskripto, e quale faciligar konverso.
 
-## Why does hearing matter for brain health?
+## Pro quo audado importas por cerebrala saneso?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Aud-perdo esas ligita kun plu alta risko di demenco. La [Lancet-komisiono di 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) kalkulas ke olu reprezentas cirkume 7% di la kazi di demenco en la mondo. To egalesas kun alta LDL-kolesterolo por la maxim granda parto inter la 14 modifikebla risko-faktori en la modelo di la komisiono, segun la [rezumo di UCL pri la raporto](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Chefa trovajuri de la komisiono:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Plu alta risko kun aud-perdo.** En sua kunigita analizo di sis studiuri di alta qualeso, personi kun aud-perdo havis cirkume 37% plu alta risko di demenco kam personi kun normala audado.
+- **Plu multa perdo, plu multa risko.** Studiuri qui examinis severeso trovis ke la risko augmentis kande l’audado divenis plu mala.
+- **Posibla kauzi, ankore ne pruvita.** Idei inkluzas soleseso e retreto, depreseso, min stimulo por la cerbro, e la plusa mentala esforco quan audado postulas.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Aud-perdo esas ofta. La [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) dicas ke cirkume un triono di plu olda adulti havas olu, e la chanco augmentas kun evo.
 
-## What did the ACHIEVE hearing aid trial find?
+## Quo trovis la probo pri aud-helpili ACHIEVE?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE esis la unesma hazardizita probo pri aud-helpili e kognala dekreso. Sua rezulti ofte raportesas erore, do yen la detali ek la [publikigita raporto di la probo](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Qui partoprenis:** 977 adulti de 70 til 84 yari kun netraktita aud-perdo e sen grava pens-problemi, en quar Usana lokala siti.
+- **Quo komparesis:** Duimo recevis aud-helpili plus konsilo-sequi kun audiologo. L’altra duimo recevis saneso-eduko-programo pri sanesa oldesko.
+- **Chefa rezulto:** Pos tri yari, esis **nula difereso** pri kognala dekreso inter la du grupi generale.
+- **Rezulto di subgrupo:** La probo rekrutis ek du fonti. 238 personi venis de longatempa studio pri kordiala saneso (ARIC), e kom grupo li havis plu alta risko di kognala dekreso. En ca grupo, la dekreso esis **48% plu lenta** kun aud-helpili. Inter la 739 sanesa komunitatala voluntarii, esis nula klara efekto.
 
-How to read this honestly:
+Quale lektar to honeste:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- La generala respondo esis nula efekto.
+- La trovajuro pri la subgrupo planesis anticipe, ma olu venis de duesma analizo di plu mikra grupo. Olu bezonas konfirmo en altra studiuri.
+- La partoprenanti savis en qua programo li esis, quo povas afektar la rezulti.
+- La Lancet-komisiono lektas l’evidentaji kom indikanta ke aud-helpili semblas specale utila por personi qui havas aud-perdo kune kun altra demenco-risko-faktori.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+La chefa konkluzo esas ke aud-helpili ne esas pruvita maniero por preventar demenco. Li ya helpas personi audar, partoprenar en konversi e restar konektita, quo esas suficanta kauzo por konsiderar li.
 
-## How do I know if hearing should be checked?
+## Quale me povas savar se audado devas kontrolesar?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA sugestas vizitar mediko se vu o la persono quan vu sorgas:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Havas desfacileso komprenar personi per telefono
+- Trovas desfacila sequar konversi kande du o plu personi parolas
+- Ofte pregas personi repetar
+- Augmentas la sono di la televizoro til ke altri plendas
+- Havas desfacileso komprenar parolo kande esas fona bruiso
+- Pensas ke altri personi semblas murmurar
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Komencez kun general-mediko, qua povas sendar vu a audiologo (audado-specialisto) o a mediko pri orelo, nazo e guturo. Akumuluro di orelo-vaxo esas un ofta kauzo di aud-perdo quan mediko povas kontrolar. **Subita aud-perdo esas medikal urjajo**, e NIA konsilas vizitar mediko quik.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Aud-perdo povas erore judikesar kom konfuzeso. NIA notas ke plu olda personi qui ne audas bone kelkafoye erore judikesas konfuza, ne-responsiva o ne-kooperema. Se ulu quan vu amas semblas retretinta o ne komprenas quo dicesas, audado-kontrolo esas bona frua stupo.
 
-## What are over-the-counter hearing aids?
+## Quo esas aud-helpili sen preskripto?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+De la 17ma di oktobro 2022, la [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) permisis kategorio di sen-preskripta (OTC) aud-helpili. Yen quale li komparesas kun preskriptita helpili:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Traito | OTC aud-helpili | Preskriptita aud-helpili |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Por qui li esas | Adulti de 18 yari o plu olda kun perceptata legera til meza aud-perdo | Irga nivelo di aud-perdo, irga evo |
+| Ube obtenar li | En butiki o enrete, sen exameno o preskripto | Tra licencita audado-profesionalo |
+| Ajusto | Vu ipsa ajustas la parametri, ofte per programo | Profesionalo programizas li por vua audado |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA dicas ke OTC-helpili ne esas destinita por severa o profunda aud-perdo. Olu konsilas vizitar mediko, preferinde orelo-nazo-guturo-specialisto, ante komprar se vu havas:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Orelo-doloro o malkomodeso
+- Likuido, puso o sango ek l’orelo dum la lasta sis monati
+- Subita o varianta chanji di audado
+- Plu mala audado en un orelo, o sonoro en nur un orelo
+- Vertijo o sento di turnado
+- Multa orelo-vaxo
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Kutimar su a aud-helpili postulas praktiko, do kontrolez la retro-dono-politiko ante komprar, kom sugestas FDA. NIA sugestas questionar ca vua aseguro pagas parto di la kusto. Por persono vivanta kun demenco, audiologo povas helpar decidar qua tipo di helpilo e ajusto esos maxim facile uzebla omnadie.
 
-## How can I talk more easily with someone who has hearing loss?
+## Quale me povas parolar plu facile kun ulu qua havas aud-perdo?
 
-The NIA suggests:
+NIA sugestas:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Facez la persono e mantenar okul-kontakto**, en bona lumo, por ke lu povez vidar vua labi ed expresuri.
+2. **Trovez tranquila loko.** Extingez la televizoro o forez de bruiso.
+3. **Parolez kelke plu laute, ma ne kriez.** Parolez naturale e kun racionoza rapideso.
+4. **Lasez vua boko libera.** Ne manjez, ne mastikez gumo e ne kovrez vua boko dum parolado.
+5. **Riformulez vice repetar** kande ulo ne komprenesis.
+6. **Un persono ye foyo.** En grupo, penar inkluzar la persono.
+7. **Esez pacientema e questionar quale vu povas helpar.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ca konsili funcionas bone kune kun nia [komunikado-konsili pri demenco](/caregiving/communication-tips/). Aktivesi bazita sur imaji anke diminutas la preso pri audado. [Picture Pairs](/games/picture-pairs/) e [Conversation Cards](/games/conversation-cards/) funcionas tra to quon vu vidas, e [Finish the Saying](/games/finish-the-saying/) permisas montrar la fino vice dicar olu. Por telefoni, videz nia guidilo pri [telefon- e vide-telefon-voki](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Vidado anke importas
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+En 2024 la Lancet-komisiono adjuntis netraktita vid-perdo kom nova risko-faktoro. La rezumo di UCL evaluas olu kom cirkume 2% di la kazi di demenco, e la komisiono rekomendas ke kontroli e trakto por vid-problemi esez disponebla por omni. La [NIA konsilas](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) dilatita okul-exameno omna un o du yari pos la evo di 60 yari, e anke kontrolar la preskripto di binokli. Mem mikra chanji di vidado povas augmentar la risko di fali.
 
-## Talk with a doctor
+## Parolez kun mediko
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Questionez mediko pri kontroli di audado e vidado se vu remarkas irga ek la signi supre. Serchez sorgo quik por subita aud-perdo, orelo-doloro o likuido ek l’orelo. Se vu sorgas persono vivanta kun demenco, informez lua mediko pri chanji di audado o vidado, qui povas afektar humoro, sekureso e la kapableso di la persono partoprenar.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Ca pagino esas generala informo, ne medikal konsilo. Videz nia [medikal deskargo](/medical-disclaimer/). Lektez plu pri [sociala konekto e cerebrala saneso](/brain-health/social-connection/).

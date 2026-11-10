@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Dementia Nutqaqtinniġñiqsaŋagun? Ilisimaruat Uqautait"
+seoTitle: "Dementia Nutqaqtinniġñiqsaŋagun? Ilisimaruat"
+description: "2024-mi Lancet Commission-kut ilisimaruat dementia-kam annikłiġniŋanik, sunanik paqitchimanŋitkait, taapkualu taġiuġniksranik aullaqtitquvlugu."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Kialuunniit dementia nutqaqtinniġñiqsaŋaitchaa. 2024-mi Lancet
+  Commission-kut nalautchimat 45%ŋuuq nunami dementia-kam annikłiġniŋanik
+  14-nik allaksaġniaqtaġnik annikłiġniŋanun, aasii auktuaqtuat taŋŋiġniŋa,
+  tusraallakłiq, sulliqłuiññiġlu. Uuktuutit takkuġiksuat qiñiġñiqsimata
+  mikiruamik allaksaqtaŋanik, nalupqisuirutilli dementia-kam annikłiġniŋanik.
+  Amigaitchuat iñññik nakuuġnaqtuamik iñuusukpata dementia-kannik
+  piḷḷasuurut, kiŋaliqaa suli pisuġumiñaitchuq.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024-mi Lancet Commission-kut nalunaiqsimaat 45%ŋuuq nunami dementia-kam annikłiġniŋanik 14-nik allaksaġniaqtaġnik annikłiġniŋanun. Taamna nunami nalautchiaqtuq, atausiŋŋuamun quliaqtuġniŋitqaġmiñaitchuq."
+  - "Annikłiġniq annikłiġniġaa iñuŋnun tamatkunuŋa, atausiŋŋuamun dementia nutqaqtinniġñiqsaġniŋitqaġmiñaitchuq."
+  - "Aŋiḷḷaġniqsuat uuktuutit, aasii FINGER, US POINTER, SPRINT MIND-lu, takkuġiksuat mikiruamik qiñiġñiqsimata ikayuġniŋanik, nalupqisuirutilli iñuusiiñik allanniġniq dementia nutqaqtinniġñiqsauŋaniŋanik."
+  - "Utuqqaaġniq ilisaqtauruat annikłiġniŋa Alzheimer-kamun, allaksaġniaqtaŋitqaġmiñaitchuq. Amigaitchuat nakuuġnaqtuamik iñuusukpata dementia-kannik piḷḷasuurut."
+  - "Qanuq ilisaqtauruat aallat, aasii auktuaqtuat taŋŋiġniŋa aullaqtitniq, tusraallakłiq ikayuġutiliġlugu, sulliqłuiññiġlu, uqautigiñiaqtat taġiuġniksramun, timiullu ilaanun ikayuutausuurut."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Dementia nutqaqtinniġñiqsaŋagun?"
+    a: "Nalupqisuirut atausiŋŋuamun dementia nutqaqtinniġñiqsaġniŋanik. Ilisimaruat uqautaat annikłiġniġniq, aasii auktuaqtuat taŋŋiġniŋa, tusraallakłiq aullaqtiŋił̣ł̣ugu, iglaavikłuiññiġlu, annikłiġniġisuurut dementia-kam annikłiġniŋanik iñuŋnun tamatkunuŋa uvvaluunniit kinguvraqsipkaġisuurut. Taamna nalautchiaqtuq, quliaqtuġniŋitqaġmiñaitchuq."
+  - q: "Suna paqitchii 45% Lancet Commission-kunniŋ?"
+    a: "2024-mi Lancet Commission-kut nalautchimat 45%ŋuuq nunami dementia-kam annikłiġniŋanik 14-nik allaksaġniaqtaġnik annikłiġniŋanun. Nalautchiaqtuat isumaaġaat taapkua annikłiġniŋit dementia pisitkaġiksraŋat, aglaunmi uqautaat ilaa annikłiġniq pisitkaġmiñaitqisuuġnaraa. Taamna iñuŋnun tamatkunuŋa uqausiqtuq, atausiŋŋuam annikłiġniŋanik nalunaiqsuġmiñaitchuq."
+  - q: "Aakaġa uvva aapaġa nakuuġnaqtuamik iñuusukpan, sumik dementia-kannik piḷḷasua?"
+    a: "Utuqqaaġniq, iḷagiñiġniq, allallu ataniqsaġniqsuat annikłiġniŋit aŋiḷḷaŋuruat dementia-kamun. Lancet Commission-kut aglaŋiŋit uqautaat annikłiġniq annikłiġniġniq iñuŋnun tamatkunuŋa quliaqtuġmiñaitchaa atausiŋŋuaq dementia-kanniññiqsaaŋanik. Nalunaiqsimaniq kiŋaliqaa piḷḷuatun iññiġmiñaitchuq."
+  - q: "Kingulliqpa dementia-kam annikłiġniŋanik annikłiġniġniġmun 65-nik ukiuqaqtuŋa?"
+    a: "Lancet Commission-kut uqautaat nutqaqtinniġniq annikłiġniŋanik taimaŋŋa uvvaluunniit kingulliq uvlaallu piñiaġniaqtuq, aglaan ilisimaruat aŋiḷḷaat qiñiġñiqsuat ukiuġutqusiġmi. Tusraallakłiq qiñiġñiġlugu, iñuusiiñik suliqsigutiniq, iñuŋnullu suliqatigivluni — taapkua aallat kingulliq ukiuġmi ilisaqtaurut. Taġiuġniksranik uqaqatigivlugu ilviññun nalunaaqtaŋanik."
+  - q: "Isuma qitiġniqsiutit uvvaluunniit niqi aallat dementia nutqaqtinniġñiqsaaġaat?"
+    a: "Qiñiqsauti, niqi, ikayuutaq, niqi aallallu nalupqisuirut dementia nutqaqtinniġñiqsaġniŋanik. Ukiunik piŋasunik uuktuutimi MIND niqiksiuŋaniq takkuġiksuaq qiñiġñiqsimata allanik takkuġiksuamik nalaunŋaniññiqsuanik, niuviġvium qiñiqsautiŋisalu takkuġiksiuŋitchut ilisaqtaurut uuktuutini takkuġiksuatun."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Iñuŋmik dementia-lik ikayuġiguvin, uvvaluunniit aakaġnik aapanniklu taatniñik takkuuvikuvin, isumaaqsiḷḷasuurutin nutqaqtinniġñiqsaġniqpa, ilviññullu nutqaqtinniġñiqsaġniqpan. Una makpiġaaq ilisimaruat uqausiġait nalunaiqsaa, tusaayugaaqtuakun uqausiġmik. Qilamik uqausiq: kialuunniit dementia nutqaqtinniġñiqsaŋaitchaa, aglaan ilisimaruat uqautaat ilaan annikłiġniŋit annikłiġniġniaqtaŋat, iñuŋnullu tamatkunuŋa annikłiġniġniq dementia-kam annikłiġniŋa annikłiqsaaġniqsuq uvvaluunniit kinguvraqsipkaġniqsuq.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Una nalunaitkutaqtuq, taġiuġniksramun uqausiŋitqaġmiñaitchuq. Atiqtuġlugu [taġiuġniq nalunaitkutaa](/medical-disclaimer/) taġiuġniksramullu uqaqatigivlugu timiñik.
 
-## Can dementia be prevented?
+## Dementia nutqaqtinniġñiqsaŋagun?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Nalupqisuirut atausiŋŋuamun dementia nutqaqtinniġñiqsaġniŋanik. National Institute on Aging (NIA) uqaqtuq [suli nalupqisuirut Alzheimer nutqaqtinniġñiqsaġniŋanik](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), aglaan ilisimaruaqtiit paqitchaiḷḷasuut nakuuruat aallat, ilisaqtuallu sunanik suliqsauŋniaqtaŋanik suliqsauŋił̣ł̣uŋniaqtaŋaniglu.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Ilisimaruat takkuġiksuat ilaan timiñik annikłiġniŋit iñuusiiñillu aallat dementia-kamun annikłiġniŋanik aullaqtiruq. Taapkua annikłiġniŋit iñuŋnun tamatkunuŋa annikłiġniġumiŋa, dementia-kannik piḷḷasuurut ikitqiat uvvaluunniit kinguvraqsipkaġniaqtaat iñuusimini. Taamna quliaqtuġniŋitqaġmiñaitchuq.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Nakuuruamik takkuġiksaq: 2024-mi Lancet Commission-kut uqautaat ilaani nunani, aasii US-mi UK-miḷu, utuqqaanun dementia-ligaat ikitqiakpata. Aglaŋiŋit isumaaġaat taamna iliŋarutqisuuġnaqtuq ilisaġniq nakuuruŋŋaruaq, taġiuġniq nakuuruŋŋaruaq, taġullu iñuusim iluani asriġniŋa ikitqiaq iñuusim iluani, [University College London-kut uqausiŋiññi](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Sumik paqitchai 2024-mi Lancet Commission-kut?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission on dementia prevention, intervention and care 27-nik ilisimaruaqtiŋuruq, ukiuqattaaq qiñiġñiqsuaq ilisimaruanik. 2024-mi aglaŋiñi nalunaiqsiñŋuat **14-nik annikłiġniŋanik** allaksaġniaqtaġnik, nalautchillutillu tamatkunuŋa **45%ŋuuq nunami dementia-kam annikłiġniŋanik**. Aglaŋiŋit uqausiŋiññi, taapkua annikłiġniŋit *isumaaluutiqaqtut* nutqaqtinniġñiqsaġniaqtaat uvvaluunniit kinguvraqsipkaġniaqtaat, piḷḷuiññaqpata ([2024 Lancet Commission-kut aglaŋiŋat](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 annikłiġniŋit, iñuusim sivunniuŋiŋani ilisaqtauruat:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Iñuusim atuliŋani:** ilisaġniq ikitqiaq.
+- **Ukiuġutqusiġmi (ukiunik 40-65-nik):** tusraallakłiq, LDL auktuaq (asriḷiq) cholesterol aŋi, aliahuġniq, niaquq asriun, sulliqłuiññiġniq, diabetes, iglaavik, auktuaqtuat taŋŋiġniŋa, uqsrigniq, imiq aŋiḷḷaŋuaq.
+- **Ukiuġutqiksraŋani:** iñuŋniññiġniq avataŋni, sila aniqłiq asriq, iġiñiq aullaqtiŋił̣ł̣ugu.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024-mi nutaat ilagisaak LDL cholesterol aŋi iġiñiġlu aullaqtiŋił̣ł̣ugu. Aŋiḷḷaŋuruaq annikłiġniq tusraallakłiq LDL-lu cholesterol aŋi (tamatkuak 7%ŋuuq), maliglugik ilisaġniq ikitqiaq iñuŋniññiġniqlu avataŋni (tamatkuak 5%ŋuuq).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Annikłiġniŋit makpiġaaŋa](/brain-health/risk-factors/) 14 tamaita takkuġiksuaq, ilisimaruat aullaqtitkaŋit suliqsauŋniaqtaŋniglu.
 
-### What the 45% figure does not mean
+### 45% suna paqitkaġmiñaitkaa
 
-It is easy to misread this number, so it helps to be precise:
+Una kisitchisiraq tusaayunnaqtuq, nalunaiqsiruk:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Nunami nalautchiaqtuq.** Nunami iñuŋnun dementia-ligaat uqausiġai, ilviññun uvvaluunniit aakaġnun aapaġnullu nalautchiaqtuŋitqaġmiñaitchuq.
+- **Pisitkaġiksraŋanik isumaaġaa.** Aglaŋiŋit uqautaat ilaan annikłiġniŋit nalupqisuirut, aglaan ilaani pisitkaġniq ilaqaġmiñaitqisuuġnaqtuq. Aasii, aliahuġniq kingulliq ukiuġmi dementia-kam sivunniuŋiŋagisuuġnaqtuq, pisitkaġniŋiññiġmiñaitqisuuġnaqtuq.
+- **Atausiŋŋuamun quliaqtuġniŋitqaġmiñaitchuq.** UCL-kut uqausiŋiññi annikłiġniq annikłiġniġniq iñuŋnun tamatkunuŋa aullaqtiruq, atausiŋŋuaq dementia-kanniññiqsaaŋanik quliaqtuġmiñaitchuq.
+- **Aallaat ilaan nalunaiqsimaitchut.** Utuqqaaġniq, iḷagiñiġniq, ilisimaruaqtiŋillu suli ilisimaitchait ilaan uqaluktuat.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Sumik allaniqsua “annikłiġniq annikłiġniġniq” “nutqaqtinniġniġlu”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Annikłiġniq annikłiġniġniq** nalautchiaq annikłiġniġniq. Iñuŋnik amigaitchuanik auktuaqtuat taŋŋiġniŋat annikłiġniġumiŋa, ikitqiat dementia-kannik piḷḷasuurut ukiuni. Ilaani taapkua iñuŋnit suli piḷḷasuurut.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Nutqaqtinniġniq** suna piḷḷuġumiñaitchuanik uqausiqsuq. Dementia-kamun, ilisimaruat taamna quliaqtuġniŋitqaġmiñaitchaa uvlumi.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ilisimaruaqtiit **kinguvraqsipkaġniġmullu** uqaqtuut. Lancet Commission-kut uqautaat nutaat ilisimaruat takkuġiksuat annikłiġniq annikłiġniġniq dementia-kam aullaqtiŋa kinguvraqsipkaġisuuġnaqtuq, iñuullu iñuusimi asriḷiqaqtuami sivunniuŋa iḷuiqsipkaġisuuġnaqtuq. Ukiunik ikituŋanik kinguvraqsipkaġniq iñuŋmun iḷagiinutlu aŋiḷḷaŋuruq.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Una makpiġaaq atuġai “annikłiġniq annikłiġniġniq” “aullaqtiruq”lu. Tautukkuvin niuviġvik, ikayuutaq uvvaluunniit aallat “Alzheimer nutqaqtinniġñiqsaaġaa” uqaqtuq, nalupqiŋaruk. NIA uqaqtuq taġiuġniksramun apiqsriñiaġniaqtuq ikayuutaġmik uuktuġumiñakpan Alzheimer nutqaqtinniġñiqsaaġnianik, taapkua ikayuutat asriḷiqaaqtuġnaqtuut, maniñiglu aŋalatchiġniq, tamarmiglu.
 
-## What have large trials found?
+## Sumik paqitchaat aŋiḷḷaġniqsuat uuktuutit?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Iñuŋnik qiñiġñiqsuat uuktuutit (ilisimaruat qiñiġñiqsut iñuŋnik qanuq piḷḷasuaqtut) aullaqtitkaŋanik takkuġiksaaqtuut. Nalautchiqsuat uuktuutit, iñuŋnik aullaqtitkutimun uvvaluunniit nalaunŋaruanun nalautchiqsuat, sapiqłuŋaruq uuktuun. Tautuguk ilaan ilisimanaqtuat uuktuutit paqitchaŋit.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER uuktuutim ilaullautai 1,260 iñuk 60-nik 77-niklu ukiuŋniqsuat, dementia-kamun annikłiġniġruat. Ilaŋat ukiunik malġuŋnik niqiksraġmik, timiñik suliqsigutimik, qaritauyakkut qiñiqsautinik, taġullu taŋŋiġniŋaniglu qiñiġñiqsuanik pitqiksrait; ilaŋat taġiuġniq nalunaitkutaq pitqiksraat. Aallat ilaŋat qiñiġñiqsimata mikiruamik nakuuruŋaruamik takkuġiksuani, mikiruaglaan nalupqisuġniaqtuq allaniq ([FINGER uuktuun The Lancet-mi](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Uuktuun takkuġiksuat qiñiġñiqsuaq, dementia-lu nalunaiqsimaniŋitqiññaitchuq.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ilaullautai 2,111 iñuk 60-nik 79-niklu ukiuŋniqsuat, sulliqłuiñŋiġruat, niqiksraallu nakuuł̣ł̣uġnaqł̣uni, annikłiġniġruallu. Tamarmik ilaŋik ikayuqtauŋarut timiñik isumallu suliqsigutiniġmik, nakuuruamik niġiniġmik, iñuŋnullu suliqatigivluni, taġullu taŋŋiġniŋa qiñiġñiġlugu. Atausiq ilaŋat aullaqtitkunik ikayuqtigiksuanik pitqiksraq; aipaa ilimiñik aullaqtiruq. Ukiunik malġuŋnik, qiñiġñiqsimata takkuġiksuat nakuuruŋaruq **tamatkunuŋa** ilaŋni, mikiruamik nakuuruŋaruq aullaqtitkunik pitqiksrani ([US POINTER uuktuun JAMA-mi](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Aglaŋiŋit uqautaat suli qiñiġñiqsaqtuġniaqtuq nalunaiqsigumiñaklugu taamna allaniq uvlaakun iñuusimun aŋiḷḷaŋuruaqpan. “Suliqsuġmiñaitchuamik” ilaŋiġmiñaitchuat, uuktuun nalunaiqsuġmiñaitchaa qanuq tamatkua ikayuutaŋagik suliqsuġmiñaitchuanik nalaunŋaruŋ.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (auktuaqtuat taŋŋiġniŋa)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND qiñiġñiqsuq 9,361 iñuŋnik US-mi 50-nik ukiuŋniqsuanik, auktuaqtuat taŋŋiġniŋalinnik. Nalautchiruq auktuaq ikitqiaq taŋŋiġniqsaġmik (qulaani 120-nik ikitqiaq) uvvaluunniit nalupqisuiruaq taŋŋiġniqsaġmik (140-nik ikitqiaq). Ikitqiaq taŋŋiġniqsaq annikłiġñiġaa **qiñiġñiqsimata mikiruak asriun** (mild cognitive impairment), isuma puqtusraŋallu asriun, dementia-kam sivunniuŋiŋagisuuġnaqtuq. **Nalupqisuiruaq dementia-kamun**, ikitqiaq taŋŋiġniqsaġmi ikitqiat piḷḷasuat, aglaan allaniq nalupqisuirut. Uuktuun nutqaqtitauq sivulliq, dementia-lu ikitqiat piḷḷasuat nalautchiruamik, taamna apqun nalunaiqsuġumiñaitqisuuġaa ([SPRINT MIND JAMA-mi](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Qanuq ilisimaruat katimmaruat uqausiġaat
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021-mi Cochrane-kut qiñiġñiqsuat katimmaruŋit quliŋŋuŋnik aŋiḷḷaġniqsuanik uuktuutinik, amigaitchuanik annikłiġniŋnik aullaqtitiruq, 18,000-nik iñuŋniqsuq. Paqitchaa mikiruamik ikayuġniq qiñiġñiqsimata takkuġiksuani, aglaan **nalunaiqsuġmiñaitchuq qanuq amigaitchuat dementia-kannik piḷḷasuat** malġuŋni uuktuutini taamna qiñiġñiqsuani ([Cochrane qiñiġñiqsuaq multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017-mi National Academies of Sciences, Engineering, and Medicine qiñiġñiqsuaŋat, NIA-kut uqausiġaa, takkuġiksuaq “nakuuruatun aglaan nalupqisuġniaqtuq” piŋasunik aallanik: auktuaqtuat taŋŋiġniŋa aullaqtitniq, timiñik suliqsigutiniq, isuma qitiġniqsiunillu.
 
-## Does it matter when you start?
+## Sumik aŋiḷḷaŋuruaq qakugu aullaqtinniq?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Commission-kut uqausiŋat annikłiġniŋit annikłiġniġlugi sivulliq, taimaalu annikłiqsaaġlugi sivisuruakun: “sivulliq, nakuuruq” “sivisuruakun, nakuuruq”. Uqaqtullu nutqaqtinniġniq taimaŋŋa uvvaluunniit kingulliq uvlaallu piñiaġniaqtuq. Ilisimaruat aŋiḷḷaat ukiuġutqusiġmik uqaqtuut, aasii 40-nik 65-niklu ukiuŋni, aglaan ilaan, aasii iġiñiq asriun iñuŋniññiġniqlu avataŋni, kingulliq ukiuġmi annikłiġniŋit suliqsauŋniaqtuut.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Aglaun uqaqtuq nutaat ilisimaruat takkuġiksuat sivisuruakun annikłiġniq aŋiḷḷaŋuruaq asriun. Aasii, diabetes ukiuġutqusiġmi aullaqtiruq aŋiḷḷaŋuruaq kingulliq ukiuġmi aullaqtiruamit.
 
-## Is dementia risk the same for everyone?
+## Dementia-kam annikłiġniŋa tamatkunuŋa adsigaa?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Naagga. Commission-kut paqitchaat nunani maniġiksaunmik ikitqianik, iñuŋni allatqiŋni, maniġiksaunmiglu ikitqianik, taapkua iñuŋnit amigaitqiat annikłiġniŋit, taamna dementia ukiuŋni ikitqiani aullaqtiruq. Amigaitchuat annikłiġniŋit aullaqtiruq iñuŋnik nalautchimaitchuanik, aasii ilisaġniq qanuq piḷḷuŋaruaq, sila qanuq piḷḷuŋaruaq, niqi nakuuq akituruapan uvvaluunniit qanittuqpan.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Taamna pisigivlugu Commission-kut uqausiŋit kavamaŋnunlu iñuŋnullu: ilisaġniq nakuuruq miqłiqtunun tamatkunuŋa, sila aniqłiq nakuuruŋaruaq, iglaavik ikitqiaġniq, sugar salt-lu ikitqiaġniq niqini niuviġviŋni, tusraallakłiq ikayuġutit tamatkunuŋa piḷuktunun. Atausiŋŋuam suliqsaŋa aŋiḷḷaŋuruq, nunallu iñuusiat aŋiḷḷaŋuruq. Taamna atuġniqsuq kiŋa pasiksuġumiñaitchuanik nalunaiqsimaniġmun.
 
-## What are the honest limits of this research?
+## Sumik nalupqisuirut una ilisimaruakun?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementia sivisuruakun aullaqtiruq**, ukiunik qulitnik, aglaan uuktuutit aŋiḷḷaat ukiunik malġuŋnik tallimaniglu sivunniuruut. Dementia nalunaiqsuġniq, takkuġiksuat qiñiġñiqsimata kisiisaŋiññiġmiñaitchuaq, sivisuruamik aŋiḷḷaġniqsuamiglu uuktuutimik piḷuktuaq.
+- **Uuktuutit aŋiḷḷaat takkuġiksuat qiñiġñiqsimata qiñiġñiqsut.** Mikiruak nakuuruŋaruq takkuġiksuami paqitchimiñaitchaa ikitqiat dementia-kannik piḷḷasuaġniŋanik uvvaluunniit uvlaakun iñuusiq nakuuruŋaruġniŋanik.
+- **Ilaullasuurut nakuuruŋaruamik timiqaġruut** ilisaqtuŋaruallu iñuŋnit tamatkunuŋnit. Lancet Commission-kut uqautaat ilisimaruat aŋiḷḷaat nunani maniġiksaunmik aŋiñni, iñuŋnillu allatqiŋni ikitqiat ilaullasuurut.
+- **Ilaan aullaqtitkaŋit malġuŋniŋŋuurut.** Sulliqłuiññiġniq iñuŋniññiġniqlu avataŋni ikitqiaq dementia-kam sivunniuŋiŋagisuuġnaqtuq, pisitkaġniŋiññiġmiñaitqisuuġnaqtuq.
+- **Niqi uuktuutit suli nakuuruŋaitchut.** Ukiunik piŋasunik uuktuutimi MIND niqiksiuŋaniq takkuġiksuaq qiñiġñiqsimata allanik takkuġiksuamik nalaunŋaniññiqsuanik. Tautuguk [niqi makpiġaaq](/brain-health/diet/).
+- **Isuma qitiġniqsiutit nalupqisuirut dementia nutqaqtinniġñiqsaġniŋanik.** Tautuguk makpiġaaq [isuma qitiġniqsiutit dementia-lu](/brain-health/brain-games/).
+- **Niqiqsuġmiñaitchuaq (fasting) iñuŋni ilisimaruak ikitqiaq**, utuqqaanullu asriḷiqaaqtuġnaqtuq. Tautuguk [niqiqsuġmiñaitchuaq makpiġaaq](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Iñuk tamaita nakuuġnaqtuamik piḷḷuġumiñaqpan, sumik suli dementia-kannik piḷḷasua?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Dementia nalautchiruakun piḷḷuŋitqaġmiñaitchuq. NIA uqaqtuq [utuqqaaġniq ilisaqtauruat annikłiġniŋa Alzheimer-kamun](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), kialuunniit allaksaġniaqtaŋaitchaa. Iḷagiñiġniq ilauraaqtuq. Ilisimaruaqtiit suli nalunaiqsuġaitchaat sunik Alzheimer aullaqtiruat amigaitchuani iñuŋni. 14 annikłiġniŋit tamaita piḷḷuiññaqpata, Lancet Commission-kut nalautchiruŋat aippaanik aŋiḷḷaŋuruanik nalunaiqsimaitchuq.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Taamna pisigivlugu, ikayuġiguvin iñuŋmik timiñik suliqsigutiruamik, nakuuġnaqtuamik niġiruamik, iglaaviŋił̣ł̣uamik, dementia-kanniglaan piḷḷasuaq, kiŋaliqaa piḷḷuatun iññiġmiñaitchuq, ilviññullu. Ilvich dementia-lik, ilviññun pasiksaunŋitchuq. Iḷagiit pasiksaġniq atuġniaqtuq, aglaan nalupqisuiññaitchuq. Uvluakun nakuuruq, suliqatigiġniq, uvluallu nakuuġnaqtuat aŋiḷḷaŋuruut, [suliqsigutit isumaat](/activities/ideas/) [ikayuqtimullu ikayuġniq makpiġaaŋalu](/caregiving/caregiver-self-care/) aullaqtitkutiksraqtuuk.
 
-## What steps can you talk over with a doctor?
+## Sumik taġiuġniksramun uqautigiñiaġniaqpin?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Taapkua ilisaqtauruat qiñiġñiqsuaruat. Taġiuġniq qiñiġñiqtinni uqautigiñiaqtat, amigaitchuat taġullu, isumaallu, ilimiñiglu ikayuutausuurut, dementia-kamun qanuq piḷḷuŋaruapan.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Auktuaqtuat taŋŋiġniŋa.** Apiqsrilugu kisitchisit qanuq iññiġit, suna nalautchiaq nalunaaqtaŋa ilviññun. Lancet Commission-kut uqautaat qulaani kisitchisaq 130-nik ikitqiaq nalautchiġlugu 40-nik ukiuŋniqsuakun, aglaan nalautchiaq nalunaaqtaq utuqqaanun timiŋat tamatkunuŋa aullaqtiruq.
+2. **Tusraallakłiq.** Apiqsrilugu tusraallakłiq qiñiġñiqsaġmik, tusraallakłiq ikayuġutit ikayuutaġniqpaat. [Tusraallakłiq makpiġaaŋa](/brain-health/hearing/) ilisimaruanik nalunaiqsaaqtuq.
+3. **Iġiñiq.** Iġiñik qiñiġñiqtigiñiaġnik, apiqsrilugillu asriutit, aasii cataract, aullaqtitñiaġniqpaat.
+4. **Cholesterol.** Apiqsrilugu LDL cholesterol qiñiġñiqsaġniqpan, sunallu allanniqsaġniqpan.
+5. **Auktuaŋmi sugar.** Diabetes-likuvin, apiqsrilugu qanuq aullaqtinniġlugu nakuuruakun.
+6. **Isuma.** Aliahuġniq atuġniaqtuq aullaqtitñiaġniaqtuqlu. Taġiuġniksranik uqautilugu aliahuġuvin uvvaluunniit sunnik piuġumiñaiḷḷuvin malġuŋnik sivunniuġutimik sivisuruakun.
+7. **Iglaavik imiq aŋiḷḷaŋuaqlu.** Apiqsrilugu ikayuġniġmik iglaaviġmiñaitquvlutin, imiq aŋiḷḷaŋuamiglu nalautchiġmik.
+8. **Sulliqsigutiniq.** Apiqsrilugu qanuq suliqsigutiniq nakuuruq ilviññun. [Suliqsigutiniq makpiġaaŋa](/brain-health/exercise/) isumaqaġruq.
+9. **Niaquq nalunaiqsaġniq.** Niaqqun nalunaiqsautaq atuġlugu siksriigiqtiġuvin uvvaluunniit qiñiqsiġuvin, katakłuiññiq nutqaqtinniġniġlu apiqsrilugu.
+10. **Iñuŋnullu suliqatigiġniq.** Iñuŋnullu iñuusiiq nakuuruam ilaŋa. Tautuguk makpiġaaq [iñuŋnullu suliqatigiġniq](/brain-health/social-connection/), [siñikłuiññiġlu](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Taġiuġniq ikayuutit, niqi, ikayuutat, niqiqsuġmiñaitchuaq uvvaluunniit suliqsigutiniq allanniġumiñakpan, sivulliq taġiuġniksranik uqaqatigivlugu, taġuvluasriḷikuvin, diabetes-likuvin, katakłuiññiq atuġniqaqtuvin, uvvaluunniit dementia-likuvin.
 
-## Talk with a doctor
+## Taġiuġniksranik uqaqatigivlugu
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Isuma puqtusraŋani allaniq tautukkuvin ilviññi uvvaluunniit allami, taġiuġniksraq qiñiġñiqtinni qiniruk. NIA uqaqtuq [isuma puqtusraŋani asriutit aallanik pisitkaġniaqtuut](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), aasii taġiuġniq ikayuutit asriutaat, thyroid asriutaa, aliahuġniq, vitamin B12 ikitqiaglu, ilaan taapkua asriutit piḷḷuiññaġuurut pisitkaa aullaqtitaġumiŋa. [Nalunaitkutat makpiġaaŋat](/brain-health/warning-signs/) nalunaiqsaaqtuq sunanik tautuġniaġnianik.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Qilamik ikayuġniq qiniruk** qilamik allanniqaqpan: qilamik isumaallakłiq, saniani nuŋasriun uvvaluunniit qimilġuun, uqaqsiġniq asriun, uvvaluunniit niaquq aŋiḷḷaŋuaq asriun — taapkua stroke uvvaluunniit alla qilamik asriun nalunaitkutaaġnaqtuut. Qairuk 911.
 
-## Where Golden Moments fits
+## Golden Moments sumik ikayuġniqaqpa
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments savaaqtuq suliqsigutinik nakuuruanik, aasii [uqaqatigiġniq aglaŋit](/games/conversation-cards/), [agiqsraq bingo](/games/picture-bingo/) [nalaŋnaqtuamik aniġñiqsivik](/games/calm-breathing/). Quviasuutiqaġlutik iñuŋnullu suliqatigivlutik. Taapkua taġiuġniŋitqaġmiñaitchut, dementia nutqaqtinniġñiqsaġmiñaitchaallu uvvaluunniit annikłiġumiñaitchaa.

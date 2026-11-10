@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzli por personi kun demenco: imaji, vorti, enlinea"
+seoTitle: "Puzli por demenco: imaji e vorti"
+description: "Quale selektar imajo-, vorto- e enlinea puzli por persono kun demenco: grandeso di peci, imaji, granda literi, ludar kune e kande simpligar."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  La maxim bona puzlo por persono kun demenco esas ula quan lu povas finar kun
+  kelka helpo e juar dum la voyo. Selektez imajo-puzli kun plu poka, plu granda
+  peci ed imajo klara por adulti, lasez la imajo dil buxo videbla, e unesme
+  aparte poz ez la bordo-peci. Vorto-serchado e krucvorti-maxim bone funcionas
+  kun granda literi. Facila enlinea puzli kun 4 peci konvenas a la meza stadio.
+  Cesez dum ol esas plezanta.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Selektez segun quale ol iras, ne segun etiketo di stadio: se puzlo semblas laboro, probez un kun min peci."
+  - "Granda, solida peci ed imajo klara kun distinta kolor-arei esas plu facila kam mikra peci e granda cieli."
+  - "Imaji por adulti importas. Gardeni, koqueyi, automobili ed animali, ne desegnuri."
+  - "Facar ol kune esas la skopo. Donez peci, aparte poz ez la bordi, lasez la kovrilo dil buxo videbla."
+  - "Vorto-serchado kun granda literi e facila enlinea puzli kun 4 o 9 peci esas gratuita en ca sito."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Quanta puzlo-peci esas maxim bona por persono kun demenco?"
+    a: "Ne existas un sola justa nombro. Ulu qua facis puzli de 1 000 peci povas ankore juar kelka centi frue, dum altri maxim bone facas cirkume dek granda peci. Se puzlo semblas laboro o kauzas frustrado, pasez a min peci. Nia enlinea Imajo-puzlo havas 4 o 9 peci."
+  - q: "Kad imajo-puzli esas bona por personi kun demenco?"
+    a: "Multi juas li, precipue se li prizis puzli ante. Puzlo donas kozo por facar per la manui, skopo klara ed imajo pri qua on povas parolar. Nula puzlo esis montrata traktar o lentigar demenco, do selektez li por plezuro e kompanio."
+  - q: "Quon me povas facar kande ulu ne plu povas facar imajo-puzlo?"
+    a: "Facez ol plu mikra e facez plu multa vu ipsa: donez un peco ye singla foyo, o lasez nur la lasta kelka peci por lu. Probez enlinea puzlo kun 4 peci, apartigar peci segun koloro, o simple regardar la finita imajo kune."
+  - q: "Kad krucvorti e vorto-serchado konvenas por demenco?"
+    a: "Li povas konvenar en la frua stadio, kun granda literi. Vorto-serchado kun vorti nur horizontale e vertikale esas plu facila kam uli kun diagonala o retroira vorti. Lektez la indiki o la listo di vorti laute e laborez pri ol kune."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Imajo-puzlo extensita sur la manjotablo esas un ek la maxim facila aktivesi por partigar. Vu povas sidar kune sen bezono parolar, l’imajo donas kozo pri qua konversar, e pozar la lasta peco donas bona sento. Puzli tamen mustas chanjar kande demenco chanjas. Puzlo tro desfacila povas chanjar kalma posdimezo en frustranta. Ca pagino explikas quale selektar e preparar imajo-puzli, vorto-puzli e facila enlinea puzli, e quon facar kande li divenas desfacila.
 
-## Are puzzles good for people with dementia?
+## Kad puzli esas bona por personi kun demenco?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Multi juas li, precipue ti qui facis puzli ante. La [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) listigas vorto-serchado, kartludi e tabloludi inter aktivesi por la frua stadio, e la [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mencionas enlinea ludi e puzli sur tableti kom un maniero restar okupata.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzli ne esas traktado. Nula puzlo esis montrata lentigar o haltigar demenco; nia guidilo pri [cerebrala ludi e demenco](/brain-health/brain-games/) explikas la studiado. La motivo facar puzlo esas ke ol povas esar plezanta, absorbanta horo kune. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) rezumas ol: fokus ez la plezuro, ne la atingajo.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Quale vu selektas imajo-puzlo por persono kun demenco?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Irez segun to quon la persono juas e quale la lasta puzlo iris, ne segun etiketo di stadio.
 
-### Number of pieces
+### Nombro di peci
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ne existas korekta nombro. Persono qua sempre amis puzli povas ankore juar kelka centi peci frue, dum altru esas maxim kontenta kun cirkume dek. Praktikala regulo: se la lasta puzlo semblis laboro, selektez un kun cirkume duimo di la peci. Se ol finis rapide e lu volis plu, irez kelke plu alte.
 
-### Piece size and feel
+### Grandeso e sento di la peci
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Plu granda peci** esas plu facila por vidar, prenar e turnar.
+- **Dika, solida peci** restas en loko e rezistas kande li falas.
+- **Mat surfaco** diminutas reflekti sub lampi e fenestri.
+- **Evitez mikra peci** se la persono forsan pozos kozi en sua boko, quo povas eventar plu tarde en demenco.
 
-### The picture
+### L’imajo
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Temi por adulti.** Gardeni, koqueyi, anciena automobili, farm-animali, marbordala urbo, favorata sporto. Ne desegnuri o irgo qua semblas ludilo por infanti.
+- **Distinta kolor-arei.** Reda greyo, blua batelo e verda agro esas plu facila kam cielo qua plenigas duimo dil puzlo.
+- **Familiala e personala.** Imajo di loko ube lu vivis o hobio quan lu amis donas multa kozi por parolar. Kelka imprimeyi povas chanjar familiala fotografuro en imajo-puzlo.
 
-## How do you do a puzzle together?
+## Quale vu facas puzlo kune?
 
-Set it up so the person can get straight to the enjoyable part.
+Preparez ol por ke la persono povos irar direkte a la plezanta parto.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Selektez bona loko.** Bona lumo, stulo kun brakos-suporti, e tablo o pleto ube la puzlo povas restar.
+2. **Poz ez la kovrilo dil buxo** ube vu amba povas vidar ol.
+3. **Turnez la peci kun la imajo adsupre** ante komencar.
+4. **Aparte poz ez la bordo-peci** vu ipsa, o facez la bordo unesme e lasez la mezo por lu.
+5. **Grupigez peci segun koloro** en kelka basa pleto o pladi.
+6. **Donez un peco ye singla foyo** se la amaso semblas tro multa. «Me pensas ke ica peco esas parto dil greyo.»
+7. **Parolez pri l’imajo,** ne pri la progreso. «To semblas la batelo quan mea patro havis.»
+8. **Lasez ol extensa.** Retrovenez ad ol dum plura dii. Ne esas hasto.
+9. **Cesez kun bona sento,** pos ke peco eniras, dum ol ankore semblas plezanta.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) konsilas helpar la persono komencar, atencar frustrado e permisar ke lu simple regardez se lu plu juas to. Regardar vu pozar peci, e montrar ube ula peco forsan iras, esas ankore partopreno.
 
-## Easy online puzzles
+## Facila enlinea puzli
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Puzlo sur tableto havas reala avantaji: nula perdita peci, granda imaji qua plenigas la ekrano, e nula tablo por netigar.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Nia gratuita [Imajo-puzlo](/games/picture-puzzle/) tranchas imajo en 4 o 9 peci. Tuchez du peci por interchanjar li til la imajo esas kompleta. La kompleta imajo restas sur la ekrano kom guidilo, ne existas tempomezurilo, e vu povas cesar irga-tempe. Quar peci konvenas a multi personi en la meza stadio kun ulu apud li.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Por ankore plu simpla imajo-ludo, probez [Trovez la sama](/games/find-the-same/), ube vu tuchez l’imajo qua egalas un adsupre, o [Ordinez kune](/games/sort-together/), ube imaji iras en korbi exemple la koqueyo o la gardeno.
 
-## Word puzzles: word searches and crosswords
+## Vorto-puzli: vorto-serchado e krucvorti
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Vorto-puzli konvenas a personi qui sempre amis li, ordinare plu frue en demenco.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Vorto-serchado kun granda literi.** Nia gratuita [Vorto-serchado](/games/word-search/) uzas granda literi e nur kelka vorti, iranta horizontale e vertikale, nultempe diagonale o retroire. Ludez ol sur ekrano o imprimez ol.
+- **Lektez la listo laute.** Un persono lektas vorto, l’altru serchas ol. Cirkumizar nur la unesma litero esas bona.
+- **Krucvorti kun granda literi** de puzlo-libri povas funcionar frue. Lektez la indiki laute, partigez la plumo e plenigez la respondi kune. Facila, temala krucvorti esas plu bona kam kripta uli.
+- **Parolez pri la vorti.** «Gardeno» povas duktar a dek minuti pri tomati.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Por plu multa aktivesi sur papero e quale imprimar li por ke li esos facila por vidar e tenar, videz [gratuita imprimebla aktivesi por demenco](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Quala puzli konvenas a singla stadio?
 
-Stages overlap, and good and hard days are normal.
+Stadii interkovras, e bona e desfacila dii esas normala.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadio | Puzli qua ofte konvenas | Vua rolo |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Frua | Familiala imajo-puzli kun min peci kam ante, krucvorti e vorto-serchado kun granda literi, enlinea puzli kun 9 peci | Partnero: lasez lu selektar, helpez kande lu petas |
+| Meza | Imajo-puzli kun cirkume dek granda peci, enlinea puzli kun 4 peci, vorto-serchado lektata laute kune | Preparez, aparte poz ez peci, donez un ye foyo |
+| Tarda | Regardar finita imajo kune, Trovez la sama kun du imaji, tenar kelka granda peci | Portez ol a lu; vua kompanio esas l’aktiveso |
 
-## When should you make a puzzle easier, or stop?
+## Kande vu devas simpligar puzlo, o cesar?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Atencez sospiri, forpushar peci, repetita «Me ne povas» o zorgoza mieno. To esas signi por chanjar ulo, ne por insistar.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Facez ol plu mikra.** Min peci, o lasez nur la lasta kelka por lu.
+- **Facez plu multa vu ipsa** e invitez lu helpar kun la facila parti.
+- **Chanjez a irgo proxima:** apartigar peci segun koloro, enlinea puzlo kun 4 peci, o [kolorizado](/games/coloring/).
+- **Cesez.** Poz ez ol flanke e prenez taso di teo. Vu povas retrovenir altra dio, o tute ne.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Se puzli komencas semblar quale rememorigilo pri to quo esas desfacila, esas aceptinda lasar li. Existas multa altra manieri pasigar bona tempo kune; nia [101 idei pri aktivesi](/activities/ideas/) esas bona loko por serchar.

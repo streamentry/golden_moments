@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Dementia-ŋmiñ naŋitchiutit taiguqtilluglu"
+seoTitle: "Dementia-ŋmiñ naŋitchiutit taiguqtilluglu"
+description: "Dementia-ŋmiñ naŋitchiutit, allaniqsuutit utuqqanaġmi, alla atullaktit, taiguqtiqaaġiksraq."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Puqtuŋniq uqautilaaġniq, savaaksraq nalunaitchuamik suli apiqsraunġiqsuaq, nalupqisuuq
+  uvluŋmiḷḷu inigmiḷḷu, isumaalukł̣u iluittuqł̣u allaniqsuutin dementia-ŋmiñ naŋitchiutit
+  iḷisimanaqtuat. Allat aanniautit, thyroid-mi aanniaq, vitamin B12-mik ikitpiat, taiguutiŋat
+  aksalluataŋat, qiñiġnaqtuqł̣u siniktuunġiqsuaqł̣u, atausiŋŋuaqtut allaniqsuutit iḷisimanaqtuat.
+  Taiguqti kisiq nalunaiqsinnaaġaa. Tainna piŋasriliqtuq nalupqisuuq tuyuqtiqaaġiksrauruq.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Iḷḷaŋŋuuraq puqtuŋniq utuqqanaġmi nalunaitchuamik atuqtuq; uvluŋmi savaaksrat iḷuitchiruŋit takusaġniaqaqtuq."
+  - "Alzheimer's Association 10-nik nalunaiqsuutinik uqautilaaġniqaqtuq, utuqqanaġmi atausiŋŋuaqtuq nalunaiqsuutiŋa ilaanik."
+  - "Thyroid-mi aanniaq, vitamin B12-mik ikitpiat, taiguutiŋat aksalluataŋat, qiñiġnaqtuq, aanniqsuutit siniktuunġiqsuaqł̣u puqtuuŋmik aktuġniqaqtut, iḷḷat qiḷagniqaqtut taiguutimik."
+  - "Taiguqti kisiq nalunaiqsinnaaġaa dementia; internet-mi uuktuutit nalupkisigun nalupqinaitchut."
+  - "Nalupqisuuq piŋasriliqtuq, ikarraŋni uvluŋniḷḷu, delirium-gun nalupqinaitchuq, tuyuqtiqaaġiksrauruq."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Puqtuŋniq utuqqanaġmi nalunaitchuaguu?"
+    a: "Iḷḷaŋŋuuraq. National Institute on Aging uqaqtuq iḷḷaŋŋuuraq sunik iḷḷivlugiḷḷu akiḷḷiutimik puqtuuŋmik utuqqanaġmi nalunaitchuaqtuq. Dementia utuqqanaġmi nalunaitchuaŋitchuq. Puqtuŋniq uvluŋmi savaaksranik sapqutchiġaa, aullaqtirun, talafun-mik atuġlutin iḷḷuŋnun uqaluktillutin, taiguqtimun takusaġniaqaqtuq."
+  - q: "Puqtuŋniq allamik pitqusriguu dementia-ŋiññan?"
+    a: "Ii. National Institute on Aging nalunaiqsiruq thyroid-mi, taffium, tivġaġmiḷḷu aanniaq, taiguutiŋat aksalluataŋat, qiñiġnaqtuq, vitamin B12-mik ikitpiat, immigniq, siniktuunġiqsuaq, aanniqsuutit niaguruŋniḷḷu aksalluaq. Iḷḷat qiḷagniqaqtut taiguutimiñ, taamna taiguqtimun qiniaġniq aŋiḷḷaatchuaqtuq."
+  - q: "Inuk dementia-ŋnik uuktuġniqsigigaa iḷuvani?"
+    a: "Naumi. Taiguqti kisiq nalunaiqsinnaaġaa dementia, uqautinik, timimun takusaġnermik, puqtuuŋmik isumaluŋmiḷḷu uuktuutinik, taiguutinik niaguruŋmiḷḷu takusaġnermik atuġluni. Taiguqtiŋat naitqiat uuktuutit nalunaiqsuunmik naammagŋaitchut."
+  - q: "Sumik piḷḷagikpiñ inuk piŋasriliqtuq nalupqisukpan?"
+    a: "Tuyuqtittaili. Piŋasriliqtuq nalupqisuuq delirium-gun nalupqinaitchuq, VA uqaqtuq tuyuqtiqaaġiksrauruq. Taiguqtimun quliaqtuaqtaili uvva 911-mun quliaqtuaqtuq, taŋŋaninnailu, taiguutai iluqaisa titiraġlugit."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Ilvit puqtuuŋniḷḷu piqpagivluguluunniit nagliktavit puqtuuŋa allaniqsuqpan, iqsiḷḷaaqtuq. Una makpiġaaq ikayuutausinnaaġaa qakugu taiguqtimun savaktilaaġniqsaŋitqan suli qanuq upaktauniaqtuŋitqan. Nalunaiqsisinnaŋitchaa kinaliqaa dementia-qaŋitqan. **Taiguqti kisiq nalunaiqsinnaaġaa dementia**, amaguq aallaniraq puqtuuŋmik aktuġniqaqtuq dementia-ŋŋuiññaqtuq. Internet-mi uuktuutinik nalupkisigullu ilviññiq ukpiġiñŋaġik.
 
-## What are the early signs of dementia?
+## Dementia-ŋmiñ sivulliit naŋitchiutit sunaŋat?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) 10-nik sivullianik naŋitchiutinik uqautilaaġniqaqtuq. Atausiq nalunaiqsuutiq utuqqanaġmi nalunaitchuaqtuamik atausiŋŋuaqtuq nalunaiqsuunmik ilaanik. Uqautivut:
 
-| Sign worth checking | More typical with age |
+| Naŋitchiutit takusaġniaqaqtut | Utuqqanaġmi nalunaitchuaqtuq |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Puqtuŋniq uvluŋmi savaaksranik iḷuitchiruq, nutaaq uqautilaaġniq puqtuuŋmik iḷḷuŋniḷḷu apiqsraunġiqsuaq | Iḷḷaŋŋuuraq atiq uvluġlu puqtuuŋ, kinguani itqaumaniġaa |
+| Upalungairutimik suli naakka apiqsruutimun, nalunaitchuamik niġisaġġivik maliguġniġaa akiḷḷiutiniḷḷu nalunaiġniġaa | Iḷḷaŋŋuuraq iḷuitchuq akiḷḷiutinik iḷuvani |
+| Nalunaitchuamik savaaksraq piġaaġniq sapqutchiruq iḷuvani, savagviŋmi iḷḷuŋniḷḷu | Iḷḷaŋŋuuraq ikayuutinik piqaġniq microwave-mi TV-miḷḷu titiraġniġmi |
+| Uvluŋmik, ukiuqsaġmiḷḷu sumiññiqsigiḷḷu nalunaiqtuunġiqsuaq | Iḷḷaŋŋuuraq uvluq nalunaiqtuunġiqsuaq, kinguani itqaumaniġaa |
+| Nutaaq sivuniqpaŋmik, taiguagniġmiḷḷu qaluktuutinik nalupqinaiqtuunġiqsuaq | Iri qiñiġniġa allaniqsuq cataracts-niñ |
+| Nutaaq uqausiŋnik apiqsruutit, uqaqtiŋŋaġlutin nuqqaqtuq sunikḷu atiŋanik iḷuitchuamik taiguaqtuq | Iḷḷaŋŋuuraq uqausiq nalunaiqtuunġiqsuaq |
+| Suniḷḷiutiniq allaniqsuanun iniksranun, nalunaqtuunġiqsuaġlu naniññiqsi | Iḷḷaŋŋuuraq iḷḷivlugiḷḷu nalunaqtuġaa tumitchikun |
+| Isumalukł̣u iluittuq, manimun timimunḷḷu kamanaqsruunmi | Iḷḷaŋŋuuraq isumaalukł̣u iluittuq |
+| Aliannauqsraq piḷḷuataŋaniñ, savagniŋaniñ inugiaktigiŋaniñḷu | Iḷḷaŋŋuuraq iḷagiikniŋmun piñiaŋitchiruq |
+| Isumamun inuuniḷḷu allaniqsuutit, nalupqisuuq, ukpiġisuunġiqsuaq, iqsiḷḷaaqtuqł̣u iqsisukł̣u | Savaaksranik ataasiŋŋuaqtuamik piḷḷuataq, allaniqsuutip iqsisuliqtaa |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Atausiq naŋitchiutiq dementia-ŋmik nalunaiqsuiññaitchuq. Aŋiḷḷaatchuaqtuq **inuk nalunaitchuamiñ allaniqsuq**, uvluŋmi savaaksrat sapqutchiġai.
 
-## How is normal aging different from dementia?
+## Qanuq utuqqanaġmi nalunaitchuaq dementia-ŋmiñ allaniqsuŋa?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) uqaqtuq utuqqat amisuat itqaumaniġut saŋŋiñiqsrauruq, iḷḷaŋŋuuraq sunik iḷḷivlugiḷḷu akiḷḷiutimik puqtuuq. Tamatkua nalunaitchuat puqtuutiksrat mikitqiat. **Dementia utuqqanaġmi nalunaitchuaŋitchuq.** Puqtuuŋmi apiqsruutit uvluŋmi savaaksranik sapqutchiġaat, aullaqtirun, talafun-mik atuġlutin iḷḷuŋnun uqaluktillutin.
 
-The NIA suggests talking with a doctor if someone:
+NIA uqautilaaġniqaqtuq taiguqtimun uqaqtitquvlugu inuk:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Apiqsraunġiqsuaq ataasiŋŋuaqtunik apiqsriruq
+- Nalunaqtuŋani inini tammaġiruq
+- Niġisaġġivigniḷḷu maliguatigut nalunaiqtuunġiqsuaq
+- Uvlumiñ, inuŋniñ inigmiñḷu nalupqisuuq
+- Ilviññik kamanaqtuunġiqsuaq, niġiḷḷuaŋitchuq, iġġiqsuiññaitchuq nalunaitchuaŋitchuamikḷu piḷiqsiruq
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Iḷḷat **mild cognitive impairment (MCI)**-nik atuqtut. Taamna puqtuuŋmik isumaluŋmiḷḷu apiqsruutit allat tutquqtitaŋiniñ aŋiñiqsrauruat, uvluŋmi savaaksrat suli piḷḷuataqługit. NIA uqaqtuq MCI Alzheimer's-mi sivulliq naŋitchiutigun nalupqinaitchuq, aglaan MCI-qaġmiŋaqtauruat tamaita Alzheimer's-ŋmik piñaitchut.
 
-## What else can cause memory problems?
+## Sunat allat puqtuuŋmik aktuġniqaqpat?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Allat amisuat dementia-ŋiññat puqtuuŋmik aktuġniqaqtut, iḷḷat qiḷagniqaqtut taiguutimiñ. NIA nalunaiqsiruq:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Thyroid-mi, taffium, tivġaġmiḷḷu aanniaq**
+- **Taiguutiŋat aksalluataŋat**
+- **Qiñiġnaqtuq iqsisuuġniqł̣u**
+- **Vitamin B12-mik ikitpiat** niqinaitchuakun niġiñiq
+- **Siniktuunġiqsuaq**
+- **Imigniq taiguutitḷu atuġniq piḷḷuataŋitkuaq**
+- **Aanniqsuutit, aumun nuqqaqtuq, niaguruŋmiḷḷu puttuniq**
+- **Niaqqun aksalluaq**, concussion-tut
+- **Aŋiḷḷaaq iqsisuuġniq qiñiġnaqtullu**, savaŋmiñ aniqł̣u tuquŋniq
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Naaġniq qiñiġniqł̣u apiqsruutit nalupqisuutiptut tautugniaqaqtut; takulugu [naaġniq makpiġaaq](/brain-health/hearing/). Taamna taiguqtimun qiniaġniq aŋiḷḷaatchuaqtuq. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) uqaqtuq taiguqtiŋat auktinik uuktuqtitqataqtuat thyroid-mi aannianik, vitamin-nik ikitpianik, aanniqsuutinikḷu takusaġlugit. Naammaġnaqtuq [siniq](/brain-health/sleep/) qiñiġnaqtullu taiguutaa uqautilaaġniaqaqtuk.
 
-## Sudden confusion is an emergency
+## Piŋasriliqtuq nalupqisuuq tuyuqtiqaaġiksrauruq
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Nalupqisuuq piŋasriliqtuq, ikarraŋni uvluŋniḷḷu, tuyuqtiqaaġiksrauruq.** Delirium-gun nalupqinaitchuq. [VA uqaqtuq delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) tuyuqtiqaaġiksrauruq taiguqtimun quliaqtuaqtilaaġlugu uvva 911-mun quliaqtuaqtilaaġlugu. Naŋitchiutit:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Isumaġniq nalupqisuuq allaniqsuqłuni
+- Naalaktuġniq sapqutchiruq
+- Isumaniq nalunaiqtuunġiqsuaq
+- Siniktuuruq nalunaitchuaŋitkuaq, uvvaluunniit iqsisukłuni
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Kinaliqaa taimanna piñaqtuq, inuk dementia-qaġmiuġaluaruŋa. [NHS](https://www.nhs.uk/symptoms/confusion/) uqaqtuq aanniqsuutit nalunaitchuat pitqusriat, niaqqun aksalluaq, augmi aunniq mikiruq diabetes-qaġmi, niaguruŋmiḷḷu aksalluaq, taiguutitḷu iḷḷat. Ikayuutiq tikiñŋaġmi, inuum taŋŋaniññailu uqausiŋnik naitqianik tusaayugaaġlugu. Amisuunik apiqsriñŋaġik, taiguutai iluqaisa titiraġlugit.
 
-## How do I prepare for the doctor's appointment?
+## Qanuq taiguqtimun savaktilaaġniġmun upaktauniaqpiñ?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Savaktilaaġniq naammaġnaqtuq titiraqtuŋaniñ naammaġnaruq. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) uqautilaaġniqaqtuq aglautilugit:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Allaniqsuutit** puqtuuŋmi, isumami piḷiqsiŋmiḷḷu, nalunaitchuamik qakugu pigiliqtaŋanik
+2. **Aanniaqsimagmiŋat aanniaqsrallu**, iḷagiikni dementia-qaġmiutkaluaġata
+3. **Taiguutit iluqaisa** taiguqtim aglaaŋat niuviġumiḷḷu pisiaġit
+4. **Vitamin-git ikayuutillu**
+5. **Apiqqutiksratin**, suvat uuktuutit piḷḷagniqaqpat, qavsiñiqsrautigilaaŋit qakuguḷḷu nalunaqutiŋat tikiñiaqtaŋat
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Iḷagiiḷḷu piqatigilugu inuum nalunaiqsrirua ikayuutausinnaaġaa. [NIA nalunaiqsiruq](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) taiguqtiŋat inuum iḷagiagullu apirivḷugiannik aannianik, taiguutinik, uvluŋmi savaaksranik, piḷiqsiŋmiḷḷu allaniqsuutinik. Taiguqtiŋat imaŋŋa piḷḷagniqaqtut:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Puqtuuŋmik, apiqsruutinik, naalaktuġnermik, kisiliurnermik uqausiŋnikḷu uuktuutit
+- Auktinik, quġruktinik allanikḷu uuktuutinik pitqusriq nalunaġlugu
+- Qiñiġnaqtuq allatḷu isuma apiqsruutit takusaġlugit
+- Niaguruŋmik takusaġutit, CT uvvaluunniit MRI
+- Taiguqtiqaaġiksramun uqaluktittilugu, geriatrician, neurologist, geriatric psychiatrist uvvaluunniit neuropsychologist
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA uqaqtuq puqtuuŋmik takusaġniq Medicare Annual Wellness Visit-mi ilaqaqtuq, taŋŋa uqautilaaġniqsaŋi naammaġnaqtuq. Taiguqtiŋat naitqiat uuktuutit nalunaiqsuunmik naammagŋaitchut. Sivulliq sivunniutiq takusaġnermik, nalunaiqsiniq ataulliq savaktilaaġniġmiñ aŋiñiqsrauruq. NIA uqautilaaġniqaqtuq puqtuutiksraqaġmiŋat taiguqtimun utiġlutik 6-miñ 12-mun tatqiqhiutinik.
 
-## Raising the subject kindly
+## Unniqsuqł̣utilaaġniq
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Allamun iqsisukpan, nalunaitchuamik iñuŋitkuaqł̣u uqaqtitquvlugu. Nalunaitchuat takusimagiŋit uqautilugit, kamanaġnikkut iqsisiññaitkutit. Takusaġnermik uqautiniq iqsiñaġniitkuaqtuq. Inuk isumaliuqtitquvlugu iñuummiuġumiñ nalunaiġlugu. [Uqaqatigiiksrautit makpiġaat](/caregiving/communication-tips/) ikayuutausinnaaq.
 
-## Talk with a doctor
+## Taiguqtimun uqaqtitquvlugu
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Puqtuŋmi, isumami, isumaalukni piḷiqsiŋmiḷḷu uvluŋmi savaaksraniḷḷu nutaat allaniqsuutit takugukku, atuqtuatlu, taiguqtimun savaktilaaġlugu. Piŋasriliqtuq nalupqisuuq, 911-mun quliaqtuaqtuq uvvaluunniit taiguqtimun quliaqtuaqtuq. Tuŋŋa takusaġniq qiḷagniqaqtut pitqusrit nalunaġniqaqtut, dementia-ŋguġumi, sivunniutiġniq ikayuutiqł̣u nalunaġniqaqtuk. Ilviññiḷḷu kamanaqtuq; takulugu [kamanaqtiup ilviññik kamanaqtuġniŋa makpiġaaq](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Una makpiġaaq nalunaitchuamik uqautiqaqtuq, taiguunmik nalunaiqsuiññaitchuq. Takulugu [taiguunmik nalunaiqsuiññaitchuq makpiġaaq](/medical-disclaimer/).

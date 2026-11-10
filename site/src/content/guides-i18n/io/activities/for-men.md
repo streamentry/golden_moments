@@ -1,32 +1,32 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Aktivesi por viri kun dementeso"
+seoTitle: "Aktivesi por viri kun dementeso: reala idei"
+description: "Idei pri aktivesi por viri vivanta kun dementeso, bazita sur lia antea laboro, hobii e rutini, kun konsili por adaptar omna sekure."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  La maxim bona aktivesi por viro vivanta kun dementeso venas de lua propra
+  vivo: la laboro quan lu facis, la hobii quan lu amis e la diala rutini quan lu
+  havis. Anciena buro-laboristo povas juar ordinar papiri, mekanikisto povas
+  juar manipular neta utensili, e sport-amanto povas juar anciena ludo.
+  Interesi diferas de viro a viro, do komencez kun la persono, ne kun lua sexo.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Komencez kun la propra historio di ca viro: lua laboro, lua hobii, lua rutini e to pri quo lu esis fiera."
+  - "Taski kun reala skopo, quale ordinar utensili, lavar l'automobilo o sablar ligno, ofte plu interesas kam aktivesi qui semblas leciono."
+  - "Ne omna viri prizas utensili o sporto. Multi prizas koquar, muziko, gardenado, arto o sorgar altri. Questionez, observez e sequez lu."
+  - "Faciez sekura la taski simila a laboro per forigar akuta utensili e supervisar, e simpligez li dum la kapablesi chanjas."
+  - "Dicar «no» esas permisata. Ofrez rolo, ne tasko, e probez itere altra dio."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Quala aktivesi prizas viri kun dementeso?"
+    a: "Existas nula sola listo, pro ke l'interesi di viri diferas same kam ti di omna altru. Bona komenco-punti esas taski ligita a lua antea laboro, quale ordinar papiri o ordinar bulti e skrubi, kune kun hobii quan lu amis, quale peskado, automobili, muziko, koquado o sporto. Observez to quon lu facas su, e konstruktez sur to."
+  - q: "Mea patrulo refuzas grupo-aktivesi. Quon me povas facar?"
+    a: "Multa personi, viri ed homini same, refuzas aktivesi qui semblas leciono o semblas infantala. Probez ofrar laboro vice: «Ka vu povus helpar me ordinar ico?» Plu mikra grupi o tempo un-ad-un anke povas sentesar plu komfortoza kam granda chambro."
+  - q: "Ka esas sekura lasar lu uzar utensili?"
+    a: "Nur kun supervido e sekura utensili. Forigez elektro-utensili, klingi e omno akuta, ed ofrez taski quale sablar bloko de ligno, ordinar neta utensili, o strechigar granda bulti per manuo. La Alzheimer's Association sugestas forigar danjeroza objekti de labor-chambro, por ke tasko quale sablado ankore povos esar juata sekure."
+  - q: "Lu esis profesiono. Ka simpla taski semblos ofensanta?"
+    a: "Li povas semblar tale se li prezentesas kom okuparo sen skopo. Prezentez la tasko kom reala helpo, uzez adulta materiali, e selektez ulo proxima a lua anciena rolo, quale revizar listo, ordinar dokumentuyo o helpar kun posto-sendajo. Se lu esis tre habila pri ulo, aktiveso relatita ma diferanta povas semblar min kom komparo."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +45,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Multe ofte personi serchas «aktivesi por viri kun dementeso» pro ke la kustumal sugesti ne semblas konvenar a la viro en lia vivo. To esas komprenebla. Ma la respondo ne esas listo de aktivesi «por viri». Ol esas komencar kun ca partikulara viro: quon lu facis kom laboro, quon lu facis dum lua libera tempo, e quon facis lu sentar su utila. Interesi diferas por omna personi. Multa viri prizas koquar, gardenar, piktar o kantar, e multa homini prizas automobili e baseball.
 
-## How do I find activities he will actually enjoy?
+## Quale me povas trovar aktivesi quin lu vere juros?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Komencez kun lua vivo-historio. La Alzheimer's Association sugestas konstruktar [dial plano](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) segun to quon la persono prizas o ne prizas, lua fortaji ed interesi, e quale lu organizis lua dio ante. Questionez su:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Qual esis lua laboro?** Buroo, farmo, fabrikerio, mestiero, armeo, vendo, instruado, shoferado, hemo?
+- **Quon lu facis dum libera tempo?** Peskado, karti, ligno-laboro, sporto, kirko, muziko, koquado, automobilo en la garaio?
+- **Qual esis lua rutini?** Kafeo e jurnalo omna matino? Kontrolar la vetero? Lavar l'automobilo saturdie?
+- **Quon lu ankore komencas su?** La Asocio notas ke se persono komencas taski sen esar demandata, quale swipar la planko, ta taski povas divenar parto di la rutino.
+- **Quon lu evitas?** Kelka personi prizas spektar sporto; altri trovas la rapideso e bruiso desagreabla. Rimarkez kande lu semblas kontenta, тревoza o iritita.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Parolez anke kun familio ed anciena amiki. Li forsan memoras interesi qui fadasis de la diala vivo.
 
-## Activity ideas based on past work
+## Idei pri aktivesi segun antea laboro
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+La Alzheimer's Association donas klara exemplo: anciena buro-laboristo povas juar ordinar-taski, quale pozar moneti en tenilo, helpar kun posto-sendajo o facar listo di facendi, dum ke anciena farmisto o gardenisto povas juar laborar en la gardeno. La sama ideo aplikesas a multa labori.
 
-| Past work | Activity ideas | Simpler version |
+| Antea laboro | Idei pri aktivesi | Plu simpla versiono |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Buroo o komerco | Ordinar papiri en dokumentuyi, stampar kuverti, revizar listo, ordinar tirkesto di skribo-tablo | Stakar kuverti; pozar paper-klipsi en buxo |
+| Mestieri o mekaniko | Ordinar neta bulti, skrubi e rondeli; strechigar granda bulti per manuo; regardar katalogi pri utensili | Ordinar segun grandeso en du kupi |
+| Farmo o gardenado | Aquizar, plantacar en poti, rastar folii, kontrolar la gardeno | Sidar exter dum vu laboras; tenar paketi di semini |
+| Armeo | Polisar shui, ordinar tirkesto, regardar fotografuri de lua servo se lu prizas li | Askoltar muziko de ta epoko |
+| Vendo o servado di klienti | Salutar vizitanti, distributar manjeti, ordinar kuponi | Sidar proxim la pordo por dicar «saluto» |
+| Instruado | Lektar laute, ordinar libri, ordinar imaji segun temo | Regardar libro kun imaji kune |
+| Shoferado o transporto | Regardar mapi o anciena revui pri automobili, lavar l'automobilo | Spektar automobili pasar de portiko |
+| Hemo e familio | Faldfar lavuro, preparar la tablo, helpar kun dineo | Glatigar buko-tuketi; mixar |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Kelka memoraji, quale armeala servo, povas vekigar forta sentaji. Sequez lu, mantenez la konverso pri la pasinto pozitiva, e chanjez la temo dolce se lu semblas chagrenita.
 
-## Activity ideas based on hobbies
+## Idei pri aktivesi segun hobii
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Ligno-laboro.** Sablar glata bloko de ligno o piktar kit di ucel-dometo. La Alzheimer's Association sugestas forigar danjeroza materiali ed utensili de la labor-chambro, por ke aktiveso quale sablado esos agreabla e sekura.
+2. **Peskado.** Ordinar pesko-buxo sen hami, regardar revui pri peskado, o sidar kune apud lageto.
+3. **Automobili.** Lavar l'automobilo, polisar kromo, regardar fotografuri di klasika automobili, o facar veturo kom pasagero.
+4. **Sporto.** Spektar klasika ludo o rezumo, jetar mola balono, golf-ludar baloneti sur tapiso, o ordinar karti pri baseball.
+5. **Karti e ludi.** Simpla ludo di konocata karto-ludo, domino, o turnar karti por trovar paro. Mantenez ol relaxita e ne kalkulez punti.
+6. **Muziko.** Kanti de lua adolesko e yuneso, favorita muzik-grupo, o himno. Videz nia [guidilo pri muzikal aktivesi](/activities/music/).
+7. **Koquado e grilo.** Lavar legumi, mixar sauso, formizar burgeri, o deskriptar quale lu facis lua famoza chili dum vu koquas ol.
+8. **Jurnalo.** La Alzheimer's Association notas ke persono qua sempre lektis la jurnalo ankore povas juar facar to, mem se lu ne povas sequar omna kontenajo. Kafeo e jurnalo povas restar parto di la matino.
+9. **Konstruktado.** Modeli kun granda peci o simpla konstruktaji por adulti. Selektez peci facile tenebla.
+10. **Sorgar ulo.** Nutrar dorlot-bestio, plenigar ucel-nutrorilo, o aquizar planti. La NIA listas [nutrar, sorgar o promenigar dorlot-bestio](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) inter aktivesi quin personi povas juar.
 
-## How do I offer an activity without it feeling like busywork?
+## Quale me povas ofrar aktiveso sen ke ol semblos okuparo sen skopo?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Prezentez ol kom reala helpo. La Alzheimer's Association sugestas questionar «Ka vu povus helpar me?» e ligar taski a skopo. Komparez:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Ka vu volas ordinar ca bulti?» (semblas testo)
+- «Me kompris mixita sako de utensili e me bezonas ordinar li ante ke me reparezos la etajero. Ka vu povas helpar me?» (semblas reala laboro)
 
-Other tips:
+Altra konsili:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Uzez adulta materiali.** Reala utensili sen akuta bordi, reala katalogi, reala kuverti.
+- **Laborez flanke a flanke.** Du personi qui laboras kune esas kompanio. Un persono qua nur spektas altra esas supervido.
+- **Ne korektez.** Se bulti finas en nekorekta kupo, lasez ol tale. To quo importas esas la tempo kune e la sento esar utila.
+- **Helpez lu komencar.** La Alzheimer's Association notas ke multa personi ankore deziras facar kozi, ma havas desfacileso por organizar e komencar. Facez l'unesma kune.
 
-## How do I adapt as things change?
+## Quale me povas adaptar dum ke kozi chanjas?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Kande dementeso progresas, la Alzheimer's Association sugestas introduktar plu simpla, plu repetata taski, ed esar pronta por ke la persono prenos min aktiva rolo. Viro qua olim rekonstruktis motori povas nun juar tenar neta klefo e parolar pri automobili, o spektar vu laborar. Spektar anke esas partopreno.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Se lu esis tre habila pri ulo, aktiveso relatita povas sentesar plu bona kam lua anciena mestiero. La Asocio notas ke profesiala artisto povas sentar su frustrata pro chanji en lua laboro, dum ke amatoro povas juar nova maniero expresar su. La samo povas eventar por tre habila karpentisto.
 
-## Safety with work-style tasks
+## Sekureso kun taski simila a laboro
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Forigez elektro-utensili, klingi, klovi e skrubi kun akuta pinti.
+- Klozez sekure koloro-diluanti, benzino e kemiala substanci.
+- Tenez klefi di automobilo for de vido se lu ne plus shoferas.
+- Supervisez omna taski en labor-chambro e gardeno.
+- Selektez granda peci qui ne povas englutisesar.
 
-## What if he says no?
+## Quon facar se lu dicas «no»?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Respektez ol. «No» povas signifikar ke la tasko semblas tro desfacila, tro infantala, o simple ne justa hodie. La Alzheimer's Association avertas ne koaktar. Probez altra tasko, altra horo, o simple sidez kune. Videz [quon facar kande lu dicas «no»](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Ludi e konversi qui konvenas
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) uzas konocata dicaji e duktas a konverso. [Conversation Cards](/games/conversation-cards/) havas apertita questioni sen quizo, grupigita segun temo, qui povas apertar rakonti pri laboro ed hobii. [Picture Puzzle](/games/picture-puzzle/) tenas la tota imajo videbla dum vu interchanjas peci, e la [Word Search](/games/word-search/) kun granda literi povas printesar e facesar per plumo ye la koqueyo-tablo. Por manieri parolar pri lua pasinto sen testar lu, videz nia [guidilo pri rememorado](/activities/reminiscence/).

@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Uvlupak: Nutqaruat Savaat Uvlupak Iñuŋnun Puqiktun"
+seoTitle: "Uvlupak: Nutqaruat Savaat Uvlupak"
+description: "Nutqaruat atuutit, igluŋmi allanguutit, savaallu ikayuġniaqtut uvlupak iñuŋnun puqiktun. Qanuq taaktuqtimik uqautiniġñiqsauq."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Uvlupak isumaqtuq iñuk nutqaqtuq, naqilluni, uvluunniit qaitchiruq uvlupak
+  uvluunniit unuami. Ikayuutauniaqtuat: atuutit atautchimiit, siqiniq
+  savaallu uvlaami, itqaumaniq uvlupak, kaffiqpaġniq uvlupak, qaummaġutit
+  iġñiqpaŋŋuŋitquvlugu, nipiqsaaq iglu, nutqaruatlu savaat atuġaksrat
+  atuuġlu, piksuaqtautit, uvluunniit atikłuk iġñiqtuaq. Nutaat uvluunniit
+  suḷiññaġniqtut nalunaiqqutaat taaktuqtim uqautigiyaksraŋat.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Uvlupak nutqaqtuq uvluunniit naqiḷḷuataq siqiniq piḷḷuataġmi."
+  - "Savaat suḷiññaġniqtut, aniñiq, imaqtaunillu uvlaami uvluunniit uvlaakun savaŋŋi."
+  - "Siqiniq, pisuktuġniq uvlaami, itqaumaniqpaŋŋił̣ł̣ugu uvlupak, kaffiqpaġniqpaŋŋił̣ł̣ugu ikayuġniaqtuat unuami."
+  - "Qaummaġutit ikivġaŋŋi siqiniq piḷḷuataġmi, nipiqsaaġlugu, nutqaruatlu savaat atuġaksrat pigilugit."
+  - "Aglaŋŋi suli suŋiqtuaq, nutqaġmiḷḷu paŋalik tutqiunaiġlutin."
+  - "Taaktutim uqautigiñiaqtaŋa nutaat uvluunniit suḷiññaġniqtut nalunaiqqutaat: anniqsuq, aŋatqun uvluunniit taaktiutip ikayuġutaŋa ikayuġniaqtuq."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Qakugu uvlupak qanuq piġñiaġaa?"
+    a: "Amiqsuq uvlupak uvluunniit unuami siqiniq piḷḷuataġmi. Iñuk atausiq allakkaaġnaiqsuq, aglaksraġuvitin malġuk satiŋni nalunaiqniaġigaat qakugu."
+  - q: "Suna savaat ikayuġniaqtuat uvlupak?"
+    a: "Nutqaruat, atuġaksrat, akiḷḷuanaitchuat savaat uvlupak nakuuruat: atuġak nutqaq, piksuaqtautit qiñiġlugit, takkuaksraq piugiksiq, atikłuk iġñiqtuaq, pisuktuġniq naŋit, uvluunniit niġiñiq. Nutaat uvluunniit suḷiññaġniqtut savaat uvlaami pigilugit."
+  - q: "Uvlupak taaktiutip nalunaiqqutaaŋa?"
+    a: "Iḷaanni anniqsuutit ikayuġniaqtuat, anniqsuq, aŋatqun, itqaumaniġniq, uvluunniit taaktiutip ikayuġutaŋa. Nutaat, tuyuġniqpaurallu, uvluunniit suḷiññaġniqtut, taaktuqtim uqautigiyaksraŋa."
+  - q: "Taaktutim apiriyaksraġigiga taaktiutip ikayuġutaŋanik uvlupak?"
+    a: "Taaktutim uqaqatigiyaksraŋa. Alzheimer's Association uqaqtuq taaktiutaitchuat ikayuutit sivulliqpauruat, taaktiutip ikayuġutaŋalu isumagiyaksraŋa anniqsuutip ikayuġutaŋalu naipiqtuaqługu. Una makpiġaaq taaktiutip ikayuġutaŋanik uqaqtuŋił̣ł̣uq."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Amiqsuut iḷagiit tautuktut atausiŋŋuamik: uvlaami nutqaqtuq, aglaan uvlupak, iñuk puqiktuq nutqaġniaqtuq, iqsiruq, naqilluni, uvluunniit qaitchiruq. Pisuktuaqtuq, apiriruq “aŋiġa” aŋiŋŋaruagu, uvluunniit qaitchiruq. Una taiguŋaqtuq uvlupamik.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Atausiŋŋuaq ikayuutiqaqtuŋił̣ł̣uq, aglaan uvluup atuutaa, iglu, savaallu ikayuġniaqtuat uvlupak nutqaqtillugu. Una makpiġaaq katitkaa ikayuutit National Institute on Aging-miḷu Alzheimer's Association-miḷu. Taaktiutip uqautaaŋił̣ł̣uq. Nalunaiqqutaat nutaat, tuyuġniqpaurallu, uvluunniit suḷiññaġniqtut, taaktuqtim uqautigiyaksraŋa.
 
-## What is sundowning?
+## Suna uvlupak?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Uvlupak nutqaqtuq, naqilluni, qaitchiruq uvluunniit naqiḷḷuataq siqiniq piḷḷuataġmi, uvlupak uvluunniit unuami. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) uqaqtuq itqaumaniqpauruq ikayuġniaqtuq uvlupak nutqaqtillugu.
 
-## What can make late-day restlessness worse?
+## Sunat ikayuġniaqtuat uvlupak nutqaqtillugu?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Amiqsuut ikayuġniaqtuat, atautchikun. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) uqaqtuq:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- itqaumaniq uvluup nalaani;
+- nutaat uvluunniit naqiḷḷuatat iñuuniaq;
+- timiŋmi siqiniq/itqaniq atuutaa allannguqtuq, uvlaami itqaumaniq, unuamiḷu itqaumaŋił̣ł̣uni;
+- qaummaġniqpauruq taaqtuallu, naqiḷḷuataq;
+- iñuŋnun iqsiruq tautuktuaq;
+- itqaumaniq ikitquq, amiqsuut utuqqanaat pigivagaat.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA uqaqtuq suḷi anniqsuq, aliasuuġniq uvluunniit iqsiruq, itqaumaniqpauruq, aqaġniq, nipiqsuuruq uvluunniit iñugiaktut, taaktiutip ikayuġutaŋalu ikayuġniaqtuat.
 
-## How can I plan the day to make evenings calmer?
+## Qanuq uvluup atuutaa nalunaiqniaġiga unuak nutqaqtillugu?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Savaat suḷiññaġniqtut uvlaami pigilugit, uvlupaḷḷu nutqaq, atautchimiit. NIA-lu Alzheimer's Association-lu atuutiqaqtuksrauq uqaqtuk. Uvluup atuutaa, ilvit allanguqniaġigaat:
 
-| Time | What may help |
+| Piqpaksraq | Ikayuġniaqtuat |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Uvlaami | Taaktuqtim uqautaa, imaqtauniq, aniñiq, savaallu suḷiññaġniqtut, iñuk qiñiġnaqtuaġmi |
+| Uvlaakun | Siḷami uvluunniit igalaakun siqiniġmi; pisuktuġniq uvluunniit savak |
+| Uvluiqsaaq | Niġiñiq aŋiniq (Alzheimer's Association niġiñiq aŋiniq uvluiqsaaq, mikiruq unuami uqaqtuq) |
+| Uvluiqsaaq kingunani | Itqaumaniq piḷ̣ḷuataġmi, aglaan uvlupak itqaumaniqpaŋŋił̣ł̣ugu |
+| Uvlupak | Nutqaruat savaat atuġaksrat; niġiñiq imiqł̣u; kaffiqpaŋŋił̣ł̣ugu |
+| Siqiniq piḷḷuataġmi | Qaummaġutit ikivġilugit igalaallu umigilugit taaġumiñaqpaŋŋitquvlugu |
+| Unuami | Niġiñiq mikiruq, atuġak nutqaq, nipiqsaaq, itqaumaniġup atuutaa atautchimiit |
 
-A few specific points from the sources:
+Ikpiksrat:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Siqiniq.** NIA uqaqtuq siḷami uvluunniit igalaakun siqiniġmi iñuusuksrauq uvlaami.
+- **Pisuktuġniq uvlaami, aglaan suḷiññaġniqpaŋŋił̣ł̣ugu.** Pisuktuġniq uvlaami, savaŋiḷḷuanaitchuaq, NIA uqaqtuq.
+- **Imiqsat uvlupak.** Iñiqsaaq imiqsat kaffiqsallu, atuġaksrat kaffiq cola-lu, uvlupak atuŋŋił̣ł̣ugit (NIA). Alzheimer's Association tobacco-mik uqaqtuq.
+- **Itqaumaniq.** Uvlupak itqaumaniqpaŋŋił̣ł̣ugu (NIA). Alzheimer's Association unuami itqaumaniq anniġumi, uvlaami itqaumaniq ikiglilugu uqaqtuq.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Atautchimiit uvluup atuutaa, tautuk [uvluup atuutaa savaŋi](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Qanuq iglu nutqaqtiksraġiga uvlupak?
 
-Reduce noise, add light and keep familiar things close.
+Nipiqsaaġlugu, qaummaġlugu, atuġaksratlu saniani pigilugit.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Qaummaġutit.** Alzheimer's Association iglu qaummaġluksrauq unuami uqaqtuq. Qaummaġilugu taaqtuat aullaqtiñŋitkait.
+- **Nipiqsaaq.** TV radio-lu killigilugit uvluunniit nipiqsaaġlugit, iñugiaktullu savaallu uvlupak ikiglilugit. Alzheimer's Association nipiqsaat ikiglilugit uqaqtuq, atuġaksrat TV, savaat iglumi, atuġallu nipiqsuq.
+- **Atuġaksrat piugiksat.** NIA uqaqtuq atuġak nutqaq, piksuaqtautit atuġaksratlu piugiksat saniani pigilugit.
+- **Qanuq ittuq.** Alzheimer's Association anniqsuq, kaaktuq, imiqtuq, aqaġniq, quġviq, itqaumaniq, aŋatqun, amiŋalu qiñiġlugis uqaqtuq, iglulu uunaqtuaqługu.
+- **Ilvit isumaa.** Iñuŋnit iqsiruq tautuktuaq. NIA uqaqtuq sukatuġlutin nutqaġlutin, ilvit iqsirutin ikayuġumi.
 
-## What calm activities can we do in the late afternoon?
+## Sunat nutqaruat savaat uvlupak savaksraġavut?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Savaat atuġaksrat, sukatuut, nutqaqtinnaqtuat piliŋŋi. Alzheimer's Association nutqaruat savaat uqaqtuq: atuġak nutqaq, piksuaqtautit, takkuaksraq piugiksiq, pisuktuġniq atautchikun. NIA uqaqtuq niġiñiq imiqł̣u, takkuaksraq piugiksiq, atuġak, pisuktuġniq, aglaġniq, uvluunniit savak iglumi atuġaksraq atikłuk iġñiqtuaq.
 
-Ideas to try:
+Savaat uuktuġniq:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Atikłuk iġñiqtuaq atautchikun.** NIA una savak uqaqtuq. Atikłuit akiḷḷuanaitchuat, savallu naatchiqaqtuq.
+2. **Atuġak piugiksiq tusaalugu.** Atuġaksrat atuġaksrat inuusuktuami, nipiqsaaq. Atuġluni atuqtuq. Tautuk [atuġak savaŋi](/activities/music/).
+3. **Piksuaqtautit qiñiġlugit.** Piksuaqtautit makpiġaŋi, uvluunniit [Photo Pairs](/games/photo-pairs/)-mi piksuaqtautit tautuktinnaitchuat, uqaqatigiksiñiaqtuk.
+4. **Pisuktuġniq naŋit.** Uqsraġmi, tumiñi, uvluunniit iglup iluani, taaġumiñaqpaŋŋitquvlugu.
+5. **Niġiñiq imiqł̣u atautchikun.** Akiḷḷuanaitchuq, uunaq, kaffiqaitchuq, niġiqatigiŋni.
+6. **Nalauttaaq nutqaq.** [Picture Pairs](/games/picture-pairs/) sisamat piksuaqtautit tautuktinnaitchuat, aullaqtitnaqtuq nutqaqtitnaqtuqlu.
+7. **Amiqłiq.** [Coloring](/games/coloring/) qaġmiñi uvluunniit makpiġaġmi, naatchiñiġumiñaitchuq.
+8. **Qiñiġniq uqaqatigiiġniqlu.** [Conversation Cards](/games/conversation-cards/) piksuaqtaq apirunlu. Qiñiġniq naluaqtuq.
+9. **Anirniq nutqaq.** [Calm Breathing](/games/calm-breathing/) sukatuq, nutqaq, ilvit aullaqtivlugu nutqaqtivlugulu.
+10. **Argak savaŋi.** Tuŋuuġutit uvluunniit aliksat nalauttaaq, atikłuk paŋalik, uvluunniit atuġaksraq piugiksiq tiguġlugu. Tautuk [amisuuġaġutit savaŋi](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Nutaat savaat, aniñiq nipiqsuuruq, savaallu isumagiksraqtut itqaumaksraqtullu uvlupak atuŋŋił̣ł̣ugit. Uvlaami pigilugit.
 
-## What should I do when restlessness starts?
+## Qanuq savaġniaġiga nutqaqtuq aullaqtimi?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Nutqaqtillutit, tutqiunaiġlutin, sukatuġlutin allaksaġlugu. NIA uqaqtuq nutqaq uqaqsuksrauq, iñuum uqautaa naalaksraŋa, akiḷḷiuŋił̣ł̣ugu, tutqiunaiġlugu nakuuruq, paŋalik aktuaġlugu ikayuġumi. Tavra allaksaġlugu: niġiñiq, imiq, atuġak, uvluunniit pisuktuġniq.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association uqaqtuq “Uvani nakuuruq” “Aliasuuġiga qaitchiruviñ,” qaummaġilugilu, sukatuġlugilu, nipiqsaaġlugilu. Iñuk saŋŋiqsimaŋŋił̣ł̣ugu, saŋŋiŋŋił̣ł̣ugu, uvluunniit akiḷḷiuŋŋił̣ł̣ugu.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Iñuk qaitchiruq aŋalatchimi, NIA uqaqtuq aullaqsimaŋŋił̣ł̣ugu nakuuruq iñiqpaŋŋitquvlugu. Tuquŋniqpaurumi, qilġuġlugu 911 uqautilugulu iñuk puqiktuq.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Makpiġaat [uqaqatigiiksraq](/caregiving/communication-tips/) [qanuq piġñiaqpa “naumi” uqaqtuq](/caregiving/when-they-say-no/) ikayuġniaqtuat nutqaq uqausiŋnik.
 
-## How do I find the triggers?
+## Qanuq nalunaiqniaġiga sunat ikayuġutaat?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Aglaksraġuvitin malġuk satiŋni. Alzheimer's Association aglaksraġuvitin uqaqtuq sunat sivuani piŋaiqtut. Piqpaksraq aglaglugu nutqaqtuq aullaqtiqtuq, sunat sivuani piŋaiqtut, itqaumaniq, niġiñiq imiqł̣u, pulaaqtut, nipiq, qaummaġniqlu. Aglaksrat taaktuqtimun aullautilugit. NIA uqaqtuq aglaŋniq ikayuġniaqtuq nalunaiqsiñiqsraġlugu.
 
-## When should I call a doctor about sundowning?
+## Qakugu taaktutim uqautigiyaksraġiga uvlupak?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Taaktutim uqautigiñiaġiga nutqaqtuq nutaaq, tuyuġniqpaurallu, uvluunniit suḷiññaġniqtuq allanik nalunaiqqutaanik. NIA uqaqtuq tuyuġniqpauruq allanguqtuq, aŋatqun uvluunniit taaktiutip ikayuġutaŋa allanguqtuq kingunani, taaktuqtim uqautigiyaksraŋa tuyuġnaq.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Taaktutim qiñiġiyaksraŋa sunat ikayuġutaat unuami. Alzheimer's Association uqaqtuq aŋatqun, quġviq, itigak, siñikpauruqlu, apirilugilu taaktiutip ikayuġutaŋa qakugu nakuuniaqtuq. NIA uqaqtuq anniqsuq, aqaġniq, taaktiutip ikayuġutaŋalu ikayuġniaqtuat.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association uqaqtuq taaktiutaitchuat ikayuutit sivulliqpauruat Alzheimer's-mun itqaumaniġniġmun, taaktiutip ikayuġutaŋalu isumagiyaksraŋa ikayuŋił̣ł̣uŋitpata, anniqsuutip ikayuġutaŋalu naipiqtuaqługu. Taaktutim nalautaaŋa. Taaktiutip ikayuġutaŋanik aullaqtiŋŋił̣ł̣utin, nutqaġtiŋŋił̣ł̣utin, allanguqtiŋŋił̣ł̣utin taaktuqtiŋił̣ł̣utin.
 
-## How do I get through the evenings myself?
+## Qanuq ilviññiq ikayuġniaġiga unuami?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Uvlupak suḷiññaġniqpauruq iñuŋnun paqitiksirat. Iḷaŋnik iñuŋnik, iḷagiññik, piḷ̣ḷuataq, uvluunniit ikayuqtimik apirilugu uvlupak ikayuġlutit. Tautuk [paqitiksirap ilviññiq ikayuġutaŋa](/caregiving/caregiver-self-care/) ikayuutit atuġaksratlu Alzheimer's Association 24/7 Helpline.

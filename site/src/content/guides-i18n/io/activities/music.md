@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Muzikala agadi por personi kun dementeso"
+seoTitle: "Muzikala agadi por dementeso: listi e idei"
+description: "Quale partigar muziko kun persono vivanta kun dementeso: konstruktar personala listo segun epoko e genero, 15 simpla muzikala agadi, e konsili por omna stadi."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Muziko esas un ek la maxim facila agadi por partigar kun persono vivanta kun
+  dementeso. Konstruktez personala muziko-listo ek la muziko di lua yuneso, fido
+  e familio, pleez olu sen reklami o altra bruo, e kantez, manoklaktez, balansez
+  o simple askultez kune. Selektez kalma o plu vivaca muziko segun la momento,
+  mantenez la sono-lauteso dolca, e haltez se ula kansono trubligas la persono.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Personala muziko funcionas maxim bone: la stili quin la persono amis kom yuna adulto, plus muziko de lua fido, kulturo e familiala eventi."
+  - "Pleez un kozo per foyo, sen reklami e kun la televiziono extintita."
+  - "Kantar, manoklaktar, balansar e simple askultar esas omna manieri por partoprenar."
+  - "Uzez plu kalma muziko por quietigar e plu vivaca muziko por alegrigar la humoro, e observez quale la persono respondas."
+  - "La studii pri strukturizita muzikala sesioni esas limitizita; ni sugestas muziko kom agreabla kozo por partigar, ne kom remedio."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Quala muziko esas maxim bona por persono kun dementeso?"
+    a: "Muziko quan la persono konocis e amis dum longa tempo, ofte de lua dek-e-sepma til dua-dek-e-sepma yari, kune kun muziko de lua fido, kulturo e familiala festi. Se posible, lasez lu selektar. Observez lua vizajo e korpo por lernar quo lu prizas, e ne pleez irgo quo semblas trubligar lu."
+  - q: "Ka me devus uzar auri-foni?"
+    a: "Kelka personi prizas auri-foni pro ke li blokusas bruo, dum altri trovas li nekomfortoza o konfuziganta. Probez unesme laut-parlilo, por ke vu povez askultar kune. Se vu uzas auri-foni, mantenez la sono-lauteso basa e restez proxim."
+  - q: "Ka muziko povas helpar kontre malquieteso o trublo?"
+    a: "Kalma, familiara muziko povas helpar krear pacoza atmosfero, e la Alzheimer's Association sugestas uzar muziko por establisar la atmosfero quan vu deziras. To ne funcionas omnafoye. Se la persono esas malquieta, verifikez anke se esas doloro, hungro, bruo o fatigo."
+  - q: "Ka personi kun tarda-stadia dementeso povas ankore juar muziko?"
+    a: "Multi povas. La Alzheimer's Association notas ke persono en la tarda stadio povas ankore frapar ritmo o kantar kune kansono de lua infant-epoko. Sidez proxim, pleez muziko dolce e tenez lua manuo o balansez kune."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Muziko esas un ek la maxim simpla kozi quin vu povas partigar kun persono vivanta kun dementeso. Ol postulas nulo: nula justa respondi, nula sequendi etapi. Familiara kansono povas adportar rideto, pedo qua frappas la ritmo, o kelka vorti kantita kune, mem ye dio kande konverso esas desfacila. Omno quon vu bezonas esas la justa muziko por ica partikulara persono e quieta momento por plear olu.
 
-## What music activities work for people with dementia?
+## Quala muzikala agadi funcionas por personi kun dementeso?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Askultar, kantar, manoklaktar, balansar e parolar pri muziko omna funcionas bone. La [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sugestas plear muziko, parolar pri la muziko e la artisto, kantar o dansar segun bone konocata kansoni, e vizitar koncerti o muzikala programi en la komunumo. La [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adjuntas ke movado, exemple manoklaktar o dansar, povas augmentar la joyo, e ke muziko povas esar maniero por konektar su kande la vorti divenas desfacila.
 
-## How do you build a personal playlist?
+## Quale vu konstruktas personala muziko-listo?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+La maxim utila kozo quan vu povas facar esas muziko-listo de muziko qua havas senco por ica persono. La [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) anke emfazas muziko kun personala senco. Yen simpla maniero por konstruktar olu.
 
-### Start with their life
+### Komencez kun lua vivo
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Lua dek-e-sepma til dua-dek-e-sepma yari.** Pensez pri quo sonis en la radio, en dansi e en filmi kande lu esis yuna.
+- **Granda momenti.** La muziko de lua mariajo, unesma danso, o preferata muziko-albumo de familiala voyajo.
+- **Fido e kulturo.** Himni, gospel, sakra muziko, o kansoni en lua unesma linguo.
+- **Laboro e servo.** Marcho-muziko, laboro-kansoni, o muziko ligita a tempo en la armeo.
+- **Quo la familio memoras.** Questionez gefrati, pueri e olda amiki pri quo lu sempre pleis o kantis.
 
-### Think in genres, not just songs
+### Pensez pri generi, ne nur pri kansoni
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Se vu ne savas ube komencar, probez kelka minuti de omna ek ica generi e observez la respondo: big band e swing, doo-wop, Motown e soul, frua rock and roll, country e western, bluegrass, gospel e himni, Broadway-spektaklo-kansoni, jazz-normi, Latina muziko quale bolero o mariachi, polka, populo-muziko e klasika muziko. Konservez to quo adportas rideto o pedo qua frappas la ritmo; lasez to quo adportas frunco.
 
-### Make it easy to play
+### Faciligar la pleo
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Sen reklami.** La Alzheimer's Association avertas ke reklami povas kauzar konfuzo. Uzez deskargita muziko, KD-i, diski o servo sen reklami.
+- **Un simpla aparato.** Laut-parlilo kun un granda butono, o listo ja preparita, por ke irgu povez startigar olu.
+- **Du kurta listi.** Kalma listo por quietigar e vivaca listo por alegrigar la humoro.
+- **Etiketez olu.** Skribez la nomo di la persono e «preferata muziko» sur l'aparato, por ke vizitanta familio e sorgo-personaro anke povez uzar olu.
 
-## 15 music activities to try
+## 15 muzikala agadi por probar
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Askultez kune.** Sidez un apud altra sen irga altra kozo. Askultar esas kompleta agado.
+2. **Kantez kune.** Komencez kantar vu ipsa. Murmurar o movar la labi kun la vorti anke kontas.
+3. **Manoklaktez o frappez la ritmo.** Frappez la genui, la tablo, o uzez mikra tamburo o shakilo.
+4. **Lenta danso.** Tenez la manui e balansez en la koqueyo, o dansez sidante, movante la brakii kune.
+5. **Danso kun shalo.** Movez lejera shali segun la muziko, stacante o sidante.
+6. **Parolez pri la muziko.** Invitez, ne testez: «Ico sonas quale danso-salono. Rakontez a me pri la dansi.» Nultempe questionez «Ka vu memoras ica kansono?»
+7. **Pleez integra albumo.** Pleez disko quan lu amis, de komenco til fino, kun kafeo.
+8. **Regardez albumo-kovrili.** Olda disko-kovrili esas bonega por parolar pri modo, automobili e vizaji.
+9. **Regardez muzikalo.** Filmizita muzikalo o koncerto de lua epoko facas bona vespero. Pauzez por repozar.
+10. **Pleez instrumento quan lu konocas.** Antea pianisto o gitaristo povas juar simpla pleo. Pose, selektar kelka noti kune esas suficanta.
+11. **Muziko dum laboro.** Pleez preferata kansoni dum faldar lavuro o preparar la tablo.
+12. **Matinala kansono.** Komencez omna dio per la sama joyoza kansono kom parto de la rutino.
+13. **Kantez himni o sakra muziko.** Pleez muziko de lua fido-tradiciono e kantez kune.
+14. **Partoprenez en kanto-grupo.** La NHS deskriptas kanto-grupi kom bona por humoro e bonstando. Questionez lokale pri kori amikala por personi kun dementeso.
+15. **Irez a vivanta muziko.** Kurta komunuma koncerto o subciela muzik-grupo. Sidez proxim la ekireyo e departez kande vu volas.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Por plu lejera agado kun familiara frazi, probez [finar la dicajo](/games/finish-the-saying/), ube vu sempre povas montrar la fino.
 
-## Matching music to the moment
+## Adaptar muziko a la momento
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+La Alzheimer's Association sugestas uzar muziko por krear la humoro quan vu volas: kalma muziko por pacoza atmosfero, e vivaca kansono de la yuneso di ulu por alegrigar la spirito.
 
-| Moment | Try | Tip |
+| Momento | Probez | Konsilo |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Lever | Familiara, joyoza kansono | Sama kansono omna matino divenas dolca signo |
+| Hemi-labori | Vivaca favorati | Muziko povas igar laboro sentar quale kompano |
+| Manji | Dolca instrumentala muziko | Mantenar olu quieta por ke ol ne konkurez kun la manjado |
+| Tarda posdimezo | Kalma, familiara muziko en bona lumo | Videz [tarda-diala malquieteso](/caregiving/late-day-restlessness/) |
+| Dormo-tempo | Lenta, dolca muziko | Basigez la sono-lauteso e la lumi kune |
+| Tarda stadio | Lua maxim amata kansoni, tre dolce | Sidez proxim e tenez manuo |
 
-## Tips for a good experience
+## Konsili por bona experienco
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Extintez altra bruo.** La Alzheimer's Association sugestas klozar fenestri e pordi e extintar la televiziono, por ke muziko esez la sola sono.
+- **Mantenar dolca sono-lauteso.** Muziko devas esar komfortoza, ne lauta. Se la persono uzas audi-helpi, verifikez ke li esas pozita e funcionas; videz [audo](/brain-health/hearing/).
+- **Atencez pri trista asocii.** Kelka kansoni povas vekigar chagreno, milito o perdo. Se ula kansono trubligas la persono, komfortez lu e chanjez la kansono.
+- **Lasez lu guidar.** Se posible, lasez la persono selektar la muziko, e acceptez «no».
+- **Haltez irgatempe.** Kin minuti de muziko esas bona agado. Extintar olu e sidar quiete anke esas bona agado.
 
-## What does the research say about music and dementia?
+## Quo dicas la studii pri muziko e dementeso?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+La evidentaji esas limitizita. [Revizo di Cochrane en 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) regardis 30 studii pri strukturizita muzikala sesioni, maximparte kun grupi en sorgo-domi. Ol trovis ke ica sesioni probable lejerigas depresiva simptomi poke komparite kun ordinara sorgo, ma ol trovis nula klara efekto sur agitexo, bonstando o pensado e memorado, ed anke nula efekti qui duris pos la sesioni.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Ni partigas muziko pro ke ol esas agreabla, sen-preso maniero por pasigar tempo kune, ne kom remedio. Por grupala situesi, videz [grupo-agadi en sorgo-domo](/activities/care-home-groups/); por uzar muziko kune kun fotografuri e rakonti, videz [rememorala agadi](/activities/reminiscence/).
