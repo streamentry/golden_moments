@@ -1,36 +1,37 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Kwĩmenyerera: Kũhurũka, Ũteithio na Kũnoga"
+seoTitle: "Kwĩmenyerera: Kũhurũka na Ũteithio"
+description: "Menyithia ma kũnoga kwa mũmenyereri, ũrĩa ũngĩona kũhurũka na ikundi cia ũteithio, na thimũ cia ũteithio cia bũrũri wa Amerika, ta thimũ ya Alzheimer's Association ya 1-800-272-3900."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Kũmenyerera mũndũ ũrĩa ũtũũraga na mũrimũ wa kũriganĩrwo ti ũhũthũ, na
+  kwĩmenyerera nĩ gĩcunjĩ kĩa wĩra ũcio. Rora menyithia ta kũnogio nĩ hinya,
+  kũrakario narua, toro mũnini na kwĩyamũrania na arata. Hoya ũteithio wa
+  mawĩra marĩa ũkwenda, hũthĩra kũhurũka kwa ihinda, na wĩyandĩkithie gĩkundi
+  kĩa ũteithio. Ũteithio wa bũrũri wa Amerika ũtarĩ wa kũrĩha ũkoragwo na thimũ
+  ya Alzheimer's Association ya mũthenya na ũtukũ (1-800-272-3900) na Eldercare
+  Locator (1-800-677-1116).
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Kũnoga nĩ hinya kaingĩ kuonekaga na kũnogio, kũrakara narua, toro mũnini, kĩeha na kwaga kwĩrũmbũiya."
+  - "Kũhurũka kwa ihinda gũgũteithagia kũgĩa na ihinda rĩa kũhurũka, kuuma mathaa manini nginya ciumia nyingĩ, mũciĩ kana handũ ha ũmenyereri."
+  - "Hoya ũteithio wa mawĩra marĩa ũkwenda; andũ aingĩ nĩmendaga gũteithia no matimenyaga ũrĩa mangĩteithia."
+  - "Thimũ ya Alzheimer's Association ya mũthenya na ũtukũ (1-800-272-3900) nĩĩheanaga ũteithio wa bũrũri wa Amerika ũtarĩ wa kũrĩha na wa hitho ihinda o rĩothe."
+  - "Eldercare Locator (1-800-677-1116) nĩĩkũnyiitithanagia na ũteithio wa gĩcigo kĩanyu, hamwe na Area Agency on Aging yanyu."
+  - "Ũngĩigua ũrĩ thĩna-inĩ mũnene, hũra thimũ kana tũma ndũmĩrĩri ya 988. Thĩna-inĩ wa gũkenereria, hũra thimũ 999 kana 112."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Menyithia ma kũnoga kwa mũmenyereri nĩ marĩkũ?"
+    a: "Menyithia ma kawaida nĩ hamwe na kwĩigua ũnogete mũno, ũritũhĩtwo kana ũrĩ na mĩtangĩko, kũrakara narua, thĩna wa gũkoma, kwĩigua ũrĩ na kĩeha kana ũtarĩ na kĩĩrĩgĩrĩro, kwĩyamũrania na arata, mĩtwe kũrũara kaingĩ kana ruo rũngĩ rwa mwĩrĩ, na kwaga kũrĩa wega, gwĩkaga mazoezi kana kwĩrũmbũiya. Ũngĩona menyithia ta maya kaingĩ, arĩria ndagĩtarĩ waku."
+  - q: "Ngũona atĩa kũhurũka kwa ihinda hakuhĩ na niĩ?"
+    a: "Ambĩrĩria na Eldercare Locator (1-800-677-1116 kana eldercare.acl.gov) nĩguo ũkinyĩre Area Agency on Aging yanyu, ARCH National Respite Locator Service, kana thimũ ya Alzheimer's Association ya 1-800-272-3900. Andũ a famĩlĩ, arata na arĩa merutĩire gũteithia no mateithie o nacio."
+  - q: "Hihi Medicare nĩĩrĩhaga kũhurũka kwa ihinda?"
+    a: "Kũrĩ mũndũ ũrĩa ũramũkĩra ũmenyereri wa hospice, Medicare nĩĩrĩhaga gĩcunjĩ kĩnene kĩa thogora wa kũhurũka kwa ihinda nginya mĩthenya ĩtano ĩkarũmanĩrĩra thibitarĩ kana handũ ha ũmenyereri wa ũgima wa hinya, kũringana na National Institute on Aging. Inishua nyingĩ cia mwĩrĩ itirĩhaga kũhurũka kwa ihinda; Medicaid na inishua imwe cia ũmenyereri wa ihinda iraya no iteithie."
+  - q: "Hihi thimũ ya Alzheimer's Association nĩ ya bũrũri wa Amerika ĩtarĩ wa kũrĩha na ĩkoragwo ũtukũ?"
+    a: "Ĩĩ. Alzheimer's Association yugaga atĩ thimũ yayo ya 1-800-272-3900 nĩ ya bũrũri wa Amerika, nĩ ya hitho, na ĩrĩ na andũ a gũteithia mũthenya na ũtukũ, matukũ 365 ma mwaka, na ũteithio wonekaga na thiomi nyingĩ. Hũra thimũ 711 nĩguo ũhũthĩre ũteithio wa relay."
+  - q: "Hihi nĩ kwĩyenda kuoya ihinda rĩa kũhurũka ndigatige kũmenyerera?"
+    a: "Aca. Kũhurũka nĩgũgũteithagia gũthiĩ na mbere na kũmenyerera, na kũhurũka kwa ihinda no kũhe mũndũ ũrĩa ũmenyagĩrĩra mweke wa kuona andũ angĩ na gwĩka maũndũ mangĩ. Amenyereri aingĩ macokaga makoiga atĩ meriragĩria mangĩahoyete ũteithio tene."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +68,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Ũngĩkorwo ũkĩmenyerera mũndũ ũrĩa ũtũũraga na mũrimũ wa kũriganĩrwo, no gũkorwo ũrathoma ũhoro ũyũ ũtukũ, ũnogete, na ũrĩ na maũndũ maingĩ ũtarĩkĩtie. Ũcio ti ũndũ wa kũgegania. Kwĩmenyerera ti ũndũ wa kwĩkenia kana mũthithũ wa kũrĩkia maũndũ mothe. Nĩguo gũtũmaga ũthiĩ na mbere.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Gĩcunjĩ gĩkĩ kĩaragia ũhoro wa menyithia ma kũnoga nĩ hinya, ũrĩa ũngĩona ihinda rĩa kũhurũka, kũrĩa ũngĩona ũteithio, na thimũ cia ũteithio cia bũrũri wa Amerika ũtarĩ wa kũrĩha iria ũngĩhũra ũmũthĩ.
 
-## What are the signs of caregiver burnout?
+## Menyithia ma kũnoga kwa mũmenyereri nĩ marĩkũ?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Kũnoga nĩ hinya kaingĩ gũũkaga kahora kahora, nĩ ũndũ ũcio nĩ wega kũmenya menyithia maku. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) nĩĩtaranagia menyithia ma mĩtangĩko ya mũmenyereri, hamwe na:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- kwĩigua ũnogete mũno, ũritũhĩtwo kana ũrĩ na mĩtangĩko;
+- kũrakara narua kana kwaga gũkirĩrĩria;
+- kwĩigua ũrĩ wiki kana ũtekwĩgwatania na andũ angĩ;
+- thĩna wa gũkoma, kana kwaga gũkoma ihinda rĩiganu;
+- kwĩigua ũrĩ na kĩeha kana ũtarĩ na kĩĩrĩgĩrĩro, kana kwaga kwenda maũndũ marĩa wekũũragĩra;
+- mĩtwe kũrũara kaingĩ, ruo kana mathĩna mangĩ ma mwĩrĩ;
+- kwaga ihinda rĩa gwĩkaga mazoezi kana kwĩrugĩra irio njega;
+- kwaga kwĩthamba kana kwĩrũmbũiya;
+- kũhũthĩra njohi kana mĩthemba ya ndawa mũno, hamwe na ndawa cia ndagĩtarĩ.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) nĩĩngĩongerera menyithia ta kũregana na mũrimũ ũcio, kũrakarĩra mũndũ ũcio («no kũũmia akũũmia»), mĩtangĩko ya maũndũ ma matukũ marĩa magooka, thĩna wa gwĩcũrania, na mathĩna ma ũgima wa mwĩrĩ. Ĩtaaraga mũndũ kwaria na ndagĩtarĩ wake angĩkorwo na menyithia ta maya kaingĩ.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Ũtaaro wa NIA nĩ atĩ ndũgeterie nginya rĩrĩa ũkaaremererwo biũ. Menya menyithia maku tene na wĩke ũndũ wa kũmateithia.
 
-## What can I do today, in five minutes?
+## Nĩatĩa ingĩĩka ũmũthĩ, thĩinĩ wa ndagĩka ithano?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Kũhurũka kũnini nĩ kwa bata. Gũtirĩ ũndũ ũmwe wa maya ũkũniina kũnoga nĩ hinya biũ, no no ũgũteithie gũkĩra hwaĩ-inĩ ĩyo nditũ.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Uma nja.** Ikarĩra baranda-inĩ kana ũthiĩ nginya mũthia-inĩ wa njĩra rĩrĩa mũndũ ũcio arĩ handũ hega na ahũrũkĩte.
+- **Huhia kahora.** Huhia kahora maita manini mbere ya gũcookia kĩũria kĩrĩa kĩritũ. No mũhurũke hamwe na mũndũ ũrĩa ũmenyagĩrĩra mũkĩhũthĩra [Kũhuhia Kahora](/games/calm-breathing/).
+- **Nyua maaĩ na ũrĩe kĩndũ.** Nĩ ũhũthũ kũriganĩrwo nĩ irio ciaku.
+- **Tũmĩra mũrata ndũmĩrĩri.** Ti kũhoya ũndũ, no nĩ kwĩgwatania.
+- **Wĩĩre ũhoro mwega.** [Mwĩhoko wa kwĩmenyerera wa NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) ũtaaraga ciugo ta «Nĩndĩreka na kĩyo gĩakwa gĩothe», «Ndirĩ mũkinyanĩru, na ũcio ti ũũru», na «Nĩngũkenagĩra mahinda marĩa tũngĩkorwo hamwe na thayũ.»
 
-## What is respite care, and how do I get it?
+## Kũhurũka kwa ihinda nĩ kĩĩ, na ngũkũona atĩa?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Kũhurũka kwa ihinda nĩ ũmenyereri wa ihinda inini wa mũndũ ũrĩa ũmenyagĩrĩra, nĩguo wee ũhote kũhurũka. [Gĩcunjĩ kĩa NIA kĩa kũhurũka kwa ihinda](https://www.nia.nih.gov/health/caregiving/what-respite-care) gĩtaaragĩria atĩ no kũhote kuuma mathaa manini nginya ciumia nyingĩ na no gũkorwo mũciĩ, handũ ha ũmenyereri wa ũgima kana kĩndiri-inĩ gĩa gũtungatĩra arĩa akũrũ mũthenya.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) nĩĩtaranagia mĩthemba ĩrĩa ĩonekanaga kaingĩ:
 
-| Type | What it is |
+| Mũthemba | Nĩ kĩĩ |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Ũteithio mũciĩ | Mũrata, mũndũ wa famĩlĩ, mũndũ werutĩire gũteithia kana mũndũ wa kũrĩhwo nĩokaga mũciĩ |
+| Kĩndiri gĩa mũthenya | Mawĩra marĩa mathondeketwo ta nyĩmbo na wĩra wa moko handũ hega harĩ na andũ angĩ; kaingĩ nĩgũkoragwo na ũkuui na irio |
+| Kũraara kana gũikara ihinda inini | Handũ ha gũtũũra na ũmenyereri nĩhamenyagĩrĩra mũndũ ũcio ũtukũ ũmwe, matukũ manini kana ciumia nini |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Nũũ ũrĩhaga?** Kũringana na NIA, kũhurũka kwa ihinda kuumanĩte na andũ a famĩlĩ, arata kana arĩa merutĩire gũteithia no gũkorwo gũtarĩ thogora. Ũtungata wa andũ arĩa marutĩĩte wĩra nĩũrĩhagwo kwa ithaa kana mũthenya. Kũrĩ mũndũ ũrĩa ũramũkĩra ũmenyereri wa hospice, Medicare nĩĩrĩhaga gĩcunjĩ kĩnene kĩa thogora wa kũhurũka kwa ihinda nginya mĩthenya ĩtano ĩkarũmanĩrĩra thibitarĩ kana handũ ha ũmenyereri wa ũgima wa hinya. Medicaid no ĩteithie. Inishua nyingĩ cia mwĩrĩ itirĩhaga kũhurũka kwa ihinda, o na gũtuĩka inishua imwe cia ũmenyereri wa ihinda iraya nĩcirĩhaga.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Ũtaaro:** Alzheimer's Association ĩtaaraga kũgeria arĩa maheanaga kũhurũka kwa ihinda rĩrĩa gũtarĩ thĩna wa narua, nĩguo makorwo mehaarĩirie ũngĩbatario nĩ ũteithio o narua.
 
-## Where can I find help near me?
+## Ngũona atĩa ũteithio hakuhĩ na niĩ?
 
-Several free US services can point you to local help.
+Kũrĩ ũtungata wa bũrũri wa Amerika ũtarĩ wa kũrĩha ũngĩgũtongoria ũteithio-inĩ wa gĩcigo kĩanyu.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Thimũ ya Alzheimer's Association ya mũthenya na ũtukũ: 1-800-272-3900.** [Thimũ ĩyo](https://www.alz.org/help-support/resources/helpline) nĩ ya bũrũri wa Amerika, nĩ ya hitho, na ĩrĩ na andũ a gũteithia mũthenya na ũtukũ, o mũthenya mwaka wothe, na ũteithio wonekaga na thiomi makĩria ma 200 kũgerera andũ maragia thiomi igĩrĩ kana ataũri. Hũra thimũ 711 nĩguo ũhũthĩre ũteithio wa relay. No mwaranĩrie ũhoro wa mogarũrũku ma mĩtugo, mĩtangĩko ya mũmenyereri, njĩra cia kũhurũka kwa ihinda, mĩbango ya gĩcigo na mangĩ maingĩ, na ũhoye kwaria ihinda iraya na mũtaarani wa ũmenyereri. Aruti a wĩra matiheanaga ũtaaro wa ndagĩtarĩ.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), ũtungata wa andũ othe wa Administration for Community Living, nĩũkũnyiitithanagia na ũtungata wa arĩa akũrũ na famĩlĩ ciao. No ũhũre thimũ, ũtũme ndũmĩrĩri, ũkwaranĩrie thĩinĩ wa intaneti kana ũtũme marũa ma intaneti kũrĩ aruti a wĩra mathomithĩtio, kana ũcarie kũringana na handũ. No ĩgũtongorie kũrĩ Area Agency on Aging yanyu.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) nĩĩgũteithagia kuona arĩa maheanaga kũhurũka kwa ihinda kũringana na bũrũri, na ĩtaaraga kwambĩrĩria kũhũrana na State Respite Coalition kana mũbango wa Lifespan Respite bũrũri-inĩ waku ũngĩkorwo na ũmwe. ARCH yugaga atĩ ndĩroraga arĩa maheanaga ũteithio ũcio, nĩ ũndũ ũcio rora ũmenyo wao na ũhoro wao wee mwene.
 
-## How do I find a support group?
+## Ngũona atĩa gĩkundi kĩa ũteithio?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Ũria thimũ ya Helpline kana ũcarie thĩinĩ wa intaneti ikundi iria irĩ hakuhĩ nawe. Alzheimer's Association [nĩĩtongoragia ikundi cia ũteithio](https://www.alz.org/help-support/community/support-groups) cia amenyereri na andũ arĩa matũũraga na mũrimũ wa kũriganĩrwo, mũkomanaga hamwe kana thĩinĩ wa intaneti, ikĩtongoretio nĩ atongoria mathomithĩtio. Kũndũ kũingĩ nĩkũrĩ na ikundi cia mwanya, kwa ngerekano cia amenyereri arĩa akũrũ kana cia andũ arĩa marĩ na Alzheimer's ya kwambĩrĩria tene kana ya mbere. Ningĩ nĩĩrĩ na ALZConnected, kĩũngano gĩa intaneti gĩtarĩ wa kũrĩha kũrĩa amenyereri magayanaga ũtaaro.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ikundi cia ũteithio no ikorwo irĩ handũ ha kwaria ũrĩa wĩiguaga hatarĩ gũtuĩrwo ciira, kũruta ũtaaro wa maũndũ ma o mũthenya kuuma kũrĩ arĩa mahĩtũkĩire ũndũ ta ũcio, na kwĩigua ũtarĩ wiki. Gĩkundi kĩa mbere kĩngĩaga gũkwagĩra, geria kĩngĩ.
 
-## How do I ask family and friends for help?
+## Nĩatĩa ingĩhoya andũ a famĩlĩ na arata ũteithio?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Taũra maũndũ marĩa ũkwenda. Andũ aingĩ nĩmendaga gũteithia no matimenyaga ũrĩa mangĩruta ũteithio. NIA ĩtaaraga:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Gĩa na mũtaratara** wa mawĩra marĩa andũ angĩ mangĩruta, na ũreke andũ methuurĩre.
+- **Ambĩrĩria na maũndũ manini** kũngĩkorwo kũhoya nĩ kũritũ.
+- **Ringithania wĩra na mũndũ ũrĩa ũngĩũhota.** Mũndũ wa famĩlĩ ũrĩa wendete kũruga nĩarehage irio Alhamisi. Mũhĩtũũki ũrĩa ũĩ kũiyũria mabuku nĩagũteithagia na mawĩra ma mabuku.
+- **Tũma ndũmĩrĩri kana marũa ma intaneti** kũngĩkorwo kũhoya ũthiũ kwa ũthiũ ti kũhũthũ.
+- **Wĩmenyereirie ũrĩa ũgũcookia** mũndũ angĩkwĩra nĩekũgũteithia: «Nĩ wega nĩ kũũria. Ũũ nĩguo ũngĩndeithia.»
+- **Mwĩmenyereirie atĩ andũ amwe no marege** na ndũkanoe atĩ nĩwe ũrĩ na mahĩtia.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Meciiria mangĩ: hoya mũndũ aikare na mũndũ ũcio hwaĩ-inĩ ũmwe kiumia-inĩ, mathiĩ gũceera hanini, kana oke mũceere na mũthake hamwe. [Mwĩhoko witũ wa gũthaka hamwe](/caregiving/how-to-play-together/) nĩ mũhũthũ gũkũhoya kũrĩ ageni.
 
-## What if something happened to me?
+## Ĩ kũngĩkorwo harĩ ũndũ ũngĩnyona?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Thondeka mũbango mũhũthũ wa ũteithio wa na ihenya kuuma rĩu. NIA ĩtaaraga mũtue na andũ a famĩlĩ kana arata a hakuhĩ nũũ ũngĩteithia, na mũige ibuku rĩrĩ na namba cia thĩna-inĩ, ndawa, ũtaaro wa mĩtugo ĩrĩa ĩteithagia, na maũndũ marĩa endete gwĩkaga. Alzheimer's Association ningĩ ĩtaaraga mũige ũhoro wa andũ a ndagĩtarĩ a mũndũ ũcio na mũtaratara mwerũ wa ndawa handũ ha kũoneka narua.
 
-## When should I get professional or urgent help?
+## Nĩ rĩ nginya kwĩria ũteithio wa mũtaalamu kana wa gũkenereria?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Arĩria ndagĩtarĩ waku menyithia ma mĩtangĩko mangĩkorwo ma kawaida, ũngĩkorwo ũrĩ na kĩeha kĩnene, kana ũngĩkorwo ũraremwo nĩ gwĩkirĩrĩria. Ĩra ndagĩtarĩ waku atĩ wee nĩwe ũmenyagĩrĩra mũndũ. NIA yugaga atĩ arĩa mataaranaga na aruti a wĩra a ũtugi wa kĩimenyeru no mateithie na maũndũ maritũ ma meciiria na mĩbango, na atĩ Medicare, Medicaid na inishua imwe cia mwĩrĩ no irĩhe gĩcunjĩ kĩa thogora wa ũgima wa meciiria.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Ũngĩigua ũrĩ thĩna-inĩ mũnene kana ũrĩ na meciiria ma kwĩgera ũũru, hũra thimũ kana tũma ndũmĩrĩri ya 988 nĩguo ũkinyĩre [988 Suicide & Crisis Lifeline](https://988lifeline.org/), ũtarĩ wa kũrĩha na wonekaga mũthenya na ũtukũ. Mũndũ o wothe angĩkorwo arĩ ũgwati-inĩ wa gũkenereria, hũra thimũ 999 kana 112.
 
-## Can shared activities give me a break too?
+## Hihi gwĩka maũndũ hamwe no kũũhe ihinda rĩa kũhurũka?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Mahinda mangĩ, ĩĩ. Wĩra mũhũthũ wa gũikara hamwe ũrĩa inyuĩ eerĩ mwenagĩra no ũtuĩke gĩcunjĩ kĩa mũthenya kĩrĩ na thayũ harĩ wee o na harĩ mũndũ ũrĩa ũmenyagĩrĩra: gũthikĩrĩria nyĩmbo cia tene, kũrora mbica, kana mũthako ta [Makarata ma Kwaranĩria](/games/conversation-cards/) ũrĩa ũtabataragia macokio marĩa magĩrĩire. Mũndũ ũcio angĩkenagĩra gũkorwo na andũ, gĩkundi ta [Bingo ya Mbica](/games/picture-bingo/) kĩndiri-inĩ gĩa arĩa akũrũ kana mũbango-inĩ wa mũthenya no gũkũhe ithaa rĩa kũhurũka. Rora [mawĩra ma ikundi cia handũ ha ũmenyereri](/activities/care-home-groups/) nĩguo ũgĩe na meciiria mangĩ.

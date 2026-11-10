@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Maũndũ ma gwĩka thimũ-inĩ na video na mũndũ ũrĩ na kwaga kũririkana"
+seoTitle: "Maũndũ ma mĩario ya video kũrĩ mũndũ ũrĩ na kwaga kũririkana"
+description: "Maũndũ ma gwĩka thimũ-inĩ na video kũrĩ andũ a famĩlĩ marĩ kũraya na mũndũ ũrĩ na kwaga kũririkana: kuonania maũndũ, gũthoma na mũgambo wa igũrũ, kũina, na mathako."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Mĩario na mũndũ ũtũũraga na mũrimũ wa kwaga kũririkana ĩgaacagĩra wega
+  rĩrĩa ĩrĩ nguhĩ, ya kaingĩ, na ĩrĩ na kĩndũ mũrekwo hamwe, ta kuonania
+  nyamũ ya mũciĩ kana mũgũnda, kũrora mahinda, gũthoma na mũgambo wa igũrũ,
+  kũina rwĩmbo rwendetwo, kana gũthaka mũthako mũhooreri mũcicio-inĩ
+  ũmwe. Hĩnga thimũ ihinda rĩmwe o mũthenya, angĩkorwo no kũhoteke, tiga
+  mũndũ ũmwe akĩarie ihinda rĩmwe, na ũũrie mũndũ ũrĩ kuo akũteithie.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Ũndũ wa gwĩka ũheanaga mwarĩrie mũtaratara na ũkanyiihia mĩhang’o ya kwaria. Haarĩria ũndũ ũmwe mũhũthũ wa kũgayana."
+  - "Mĩario mĩkuhĩ ya kaingĩ, ihinda rĩmwe o mũthenya, kaingĩ nĩ ĩkoragwo ĩrĩ njega gũkĩra mĩario mĩraihu ya maita mataanaine."
+  - "Mũndũ ũmwe aragia ihinda rĩmwe. Mĩario ya gĩkundi na andũ aingĩ makĩaria hamwe nĩ mĩritũ gũtaũkĩrwo, makĩria mũndũ angĩkorwo ndarigua wega."
+  - "Mũndũ ũrĩ kuo no ahaarĩrie kĩndũ kĩa kwaria nakĩo, aikare hakuhĩ na mũndũ ũcio, na atuĩke ta “moko” ma mũthako o wothe kana mahinda."
+  - "Mwarĩrie ũngĩaga gũthiĩ wega ũmũthĩ, ũrĩkie na ũhooreri. Kũgeria rũciũ nĩ wega."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Ndingĩhota gwĩka atĩa mwarĩrie-inĩ wa video na mũndũ ũrĩ na kwaga kũririkana?"
+    a: "Haarĩria ũndũ ũmwe mũhũthũ: onania mũgũnda waku, nyamũ ya mũciĩ kana riko; rorai mahinda ma tene hamwe; thoma kamũkũngũya, karũũi kana marũa na mũgambo wa igũrũ; inai rwĩmbo rwendetwo nĩwe; rugai irio o rĩmwe ihinda rĩmwe; kana mũthake mũthako mũhooreri wa mahinda mũcicio-inĩ ũmwe. Maũndũ ma gwĩka nĩ maheanaga mwarĩrie kĩndũ gĩa kwĩgwatĩrĩria nĩguo mũndũ ndakahũthĩre hinya wa gũtũũria mwarĩrie."
+  - q: "Mwarĩrie wa video wagĩrĩirwo nĩ gũikara ihinda rĩigana atĩa?"
+    a: "Kaingĩ nĩ mũkuhĩ gũkĩra ũrĩa wĩciiragia. Ndakĩka nini cia ũrĩrĩ wega no ihote kũigana, makĩria mũndũ angĩkorwo nĩ anogagio narua. Kũhĩnga thimũ kaingĩ ihinda rĩmwe o mũthenya no kũrĩ bata gũkĩra ũraihu wa o mwarĩrie."
+  - q: "Atĩa angĩkorwo nĩ aranyagwo kana agakĩra na hinya nĩ mĩario ya video?"
+    a: "Andũ amwe monaga ũthiũ mũcicio-inĩ ũrĩ mũritũ gũtaũkĩrwo. Geria mwarĩrie wa thimũ ya kawaida, ndũmĩrĩri ya video ĩrekodetwo ĩrĩa mũndũ ũrĩ kuo angĩhota kuonania ihinda rĩhooreri, kana marũa na mahinda marĩa mũtũmagĩra. Mwarĩrie ũngĩaga gũthiĩ wega, ũrĩkie na ũhooreri na ũgerie rĩngĩ mũthenya ũngĩ kana ihinda rĩngĩ."
+  - q: "Ndingĩteithia maitũ gwĩka mwarĩrie wa video rĩrĩa matangĩhota kũhũthĩra thimũ?"
+    a: "Ũria mũndũ wa famĩlĩ, mũteithia wa mũciĩ kana mũndũ wa wĩra kũndũ kũrĩa amatungatagĩrwo ambĩrĩrie mwarĩrie na anyiite kana aigĩrĩre kĩndũ kĩa kwaria nakĩo. Kũndũ kũingĩ gwa gũtungata andũ akũrũ nĩ guteithagia famĩlĩ na mĩario ya video, nĩ ũndũ ũcio ũria ũrĩa maheanaga. Kabati karĩ na kĩgũrũ, karĩ na mũcicio mũnene na mũgambo mũiganu wa kũiguo, nĩ gatũmaga maũndũ mahũthĩke kũrĩ andũ othe."
+  - q: "No tũthake mũthako hamwe na video?"
+    a: "Ĩĩ. Njĩra ĩrĩa ĩhũthũ mũno nĩ mũndũ ũmwe kuonania mũcicio wake thĩinĩ wa mwarĩrie wa video, nake ũrĩa ũngĩ akamwĩra kĩrĩa ekũhũũra. Kana mũndũ ũrĩ kuo no ahingũre mũthako ũcio ũmwe kabati-inĩ na ahũũre handũ ha mũndũ ũcio rĩrĩa mũkwaranĩria. Thuura mĩthako ĩtarĩ na mũthimo wa ihinda kana wa mũigana wa ciugo."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Gũtũũra kũraya na mũndũ ũtũũraga na mũrimũ wa kwaga kũririkana no gũtũme wĩigue ũtarĩ na ũndũ ũngĩhota gwĩka. Mĩario ya thimũ na ya video ndĩngĩkũrũkia kũhĩmbĩria, no no ĩrehe ihinda rĩa ma rĩa kũnyitanĩra rĩrĩa ĩhaarĩirio wega. Ũndũ wa bata nĩ gũtiga kũgeria kwaria mwaranĩrio wa kawaida, na handũ ha ũguo ũhaarĩrie ũndũ ũmwe mũhũthũ wa kũgayana. Kĩrango gĩkĩ nĩ kĩaragia maũndũ marĩa mekaga wega thĩinĩ wa mĩario ya video na ya thimũ, ũrĩa ũngĩhaarĩria mwarĩrie, na ũrĩa mũndũ ũrĩ kuo angĩteithia.
 
-## Why plan an activity for a call?
+## Nĩkĩ twagĩrĩirwo nĩ kũhaarĩria ũndũ wa gwĩka thĩinĩ wa mwarĩrie?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Ũndũ wa gwĩka ũheanaga mwarĩrie mũtaratara. “Ũhoro waku? Ũrekire atĩa ũmũthĩ?” nĩ kũũria mũndũ aririkane na ahe ũhoro, na ũndũ ũcio no ũkorwo ũrĩ mũritũ na wa kũmĩhang’aithia. “Ta rora, nyanya nĩ ihĩe” ndũrĩ ũndũ ũmũũrĩtie o na ũrĩkũ.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association nĩ yugaga atĩ mĩario ya gĩkundi kĩnene thĩinĩ wa video no ĩkorwo ĩrĩ mĩritũ, na ĩkaringĩrĩria [kũhe mwarĩrie mũtaratara](https://www.alz.org/help-support/caregiving/holidays) na maũndũ ta kũina nyĩmbo kana kũgayana mahinda.
 
-## What activities work on a video call?
+## Nĩ maũndũ marĩkũ mekaga wega thĩinĩ wa mwarĩrie wa video?
 
-### Show and tell
+### Kuonia na kũheana ũhoro
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Rehe thĩ yaku kũrĩ we. Thiĩ kahora na kamera mũgũnda-inĩ waku, mũmenyithie ngui, onania ũrĩa ũraruga, oya mũcoro wa mwana wa mũriũ kana wa mwarĩ, kana erekeria thimũ ndirica-inĩ kuona ira. Taũra ũrĩa ũrona na ciugo njega na ũtige tũhinda twĩ gũtĩire nĩguo ahote kũcookia. Gũtirĩ bata wa ciũria.
 
-### Look at photos together
+### Kũrora mahinda hamwe
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Oya mbica ya tene ya gũcabwo na ũmĩkuhĩrĩrie kamera, kana onania mũcicio waku nĩguo muone mahinda manene o rĩmwe ihinda rĩmwe. Aria ũhoro wa ũrĩa ũrona: “Ta rora ngũbia ya Guka.” Tiga kũũria “Ũyũ nũũ?” kana “Nĩ ũririkanaga?” Mũndũ ũngĩgweta mũndũ na njĩra ĩtarĩ yo, etĩkĩra ũguo. Rora [mũtaratara witũ wa kũririkana maũndũ ma tene](/activities/reminiscence/) nĩguo ũgĩe na njĩra njega cia kũhooreria mwarĩrie.
 
-### Read aloud
+### Gũthoma na mũgambo wa igũrũ
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Thoma kamũkũngũya, rwĩmbo rwa Ngai, ibuku rĩa ciana rĩrĩa mũrĩendete hamwe na mwana thĩinĩ wa mwaranĩrio ũcio, marũa kuuma kũrĩ mũndũ wa famĩlĩ, kana karatathi ka ibuku rĩrĩa endete. Gũthoma na mũgambo wa igũrũ nĩ kũheanaga mũndũ kĩndũ gĩa gũthikĩrĩria na ũhooreri hatarĩ bata wa gũcookia ũhoro.
 
-### Sing or listen to music together
+### Kũina kana gũthikĩrĩria mũthĩĩko hamwe
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Ina rwĩmbo rũrĩa oĩ wega, kana ũhũre rwĩmbo rwendetwo mwena waku. Kũina hamwe nĩ kũhũthũ gũkĩra kwaria kũrĩ andũ aingĩ. Rora [mũtaratara witũ wa maũndũ ma mũthĩĩko](/activities/music/).
 
-### Cook or bake at the same time
+### Kũruga kana kũthondeka irio hamwe ihinda rĩmwe
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association nĩ ĩringĩrĩirie kũhaarĩria mwarĩrie wa video nĩguo mũrũge kana mũthondeke irio cia mwanya hamwe. Haarĩria mwarĩrie mariko-inĩ meerĩ. Mũndũ ũrĩ kuo no akoroganie kana acame rĩrĩa wee ũkũrũmĩrĩra karatathi kao ga tene ka irio.
 
-### Watch something together
+### Kũrora kĩndũ hamwe
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Kĩũngano kĩu ningĩ nĩ kĩringĩrĩirie kũrora filimũ ĩrĩa mwendete ihinda rĩmwe kuuma mĩciĩ ĩtigane mũkĩaria na thimũ kana video. Kũrĩ mũndũ ũtũũraga na mũrimũ wa kwaga kũririkana, gacunjĩ kanini, kĩonere kĩa tene kĩa terebitheni kana mũthako wa boro no wĩkwo wega gũkĩra filimũ ngima.
 
-### Play a gentle game on a shared screen
+### Gũthaka mũthako mũhooreri mũcicio-inĩ ũmwe
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Mapurogiramu maingĩ ma mĩario ya video nĩ metĩkagĩria kuonania mũcicio waku. Wee ũkahingũra mũthako na ũkahũũra; mũndũ ũcio akakwĩra kana agakuonia mbica ĩrĩa wagĩrĩirwo nĩ gũthuura. Kana mũndũ ũrĩ kuo akahingũra mũthako ũcio ũmwe kabati-inĩ na akahũũra handũ ha mũndũ ũcio rĩrĩa mũkwaranĩria.
 
-Games that work well this way:
+Mĩthako ĩrĩa ĩkoragwo ĩrĩ njega na njĩra ĩno:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** wee ũgathoma mũkũngũya ũrĩa ũmenyekete, nake akaiga mũthia, na gũcooka hakagĩa kĩũria gĩa kwaria.
+- **[Picture Pairs](/games/picture-pairs/):** mũthako mũhooreri wa kũringithania mahinda manene marĩa mangĩikara monagwo, ũtarĩ na mũthimo wa ihinda kana wa mũigana wa ciugo.
+- **[Conversation Cards](/games/conversation-cards/):** mbica na kĩũria kĩhũthũ gĩa kwaranĩria hamwe.
+- **[Photo Pairs](/games/photo-pairs/):** mũthako wa kũringithania ũthondeketwo na mahinda marĩa ũthuurĩte kĩndũ-inĩ gĩaku. Mahinda macio maikaraga thĩinĩ wa mũcicio waku wa kũrorera, nake mũndũ ũcio akamona na mũcicio ũrĩa mũrahuananĩria.
 
-### Recorded messages
+### Ndũmĩrĩri irekodetwo
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Rĩrĩa mĩario ya hĩndĩ ĩyo ĩrĩ mĩritũ, rekoda ndũmĩrĩri nguhĩ ya video: ngeithi, rwĩmbo, kana gũthiĩ mũgũnda-inĩ waku. Mũndũ ũrĩ kuo no amĩonanie ihinda rĩhooreri, maita maingĩ o ũrĩa mũndũ ũcio angĩkena nayo. Alzheimer's Association nĩ ĩgwetete ũhoro wa kũrekoda na gũtũma ihinda cia mwanya, ta ciana ikĩhingũra iheo.
 
-## What about plain phone calls?
+## Ĩ mĩario ya thimũ ya kawaida ĩkĩrĩ atĩa?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Mĩario ya thimũ ya kawaida no ĩrĩ bata. Dementia Australia nĩ ĩringĩrĩirie [kũhĩnga thimũ ihinda rĩmwe o mũthenya](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) na ndũkahiũhe, tondũ andũ matũũraga na mũrimũ wa kwaga kũririkana no mahũthĩre ihinda nĩguo manyitane na mwarĩrie. Ũkĩaria na thimũ:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Wĩte rĩĩtwa rĩaku na ũrĩa mũtũũranagia o rĩmwe: “Nĩ wega Baba, nĩ niĩ Jenny, mwarĩ waku.”
+- Aria kahora, na ciugo nguhĩ, ũndũ ũmwe ihinda rĩmwe.
+- Heana ũhoro handũ ha kũũria ũhoro: “Ira ngĩruga irio iria wendete mũno.”
+- Thoma kamũkũngũya kanini, kana ũine gĩcunjĩ kĩa rwĩmbo rwendetwo.
+- Tũũria mwarĩrie ũrĩ mũkuhĩ na ũũrĩkie na ciugo njega.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia ningĩ nĩ yugaga atĩ mĩario ya video no ĩteithie rĩrĩa kwaria gũkũritũha, tondũ mũndũ ũcio no one ũthiũ waku. Mĩario ya thimũ ĩngĩambĩrĩria kũmũnyamarĩria, geria video, kana ũcooke mũndũ wa mbere.
 
-## How do I set up a video call that works?
+## Ndingĩhaarĩria atĩa mwarĩrie wa video wĩkage wega?
 
-**Before the call:**
+**Mbere ya mwarĩrie:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Thuura ihinda rĩa kaingĩ** rĩrĩa mũndũ ũcio akoragwo ahuurũkĩte, na ũrũmagĩrĩre ihinda rĩu. Mũtaratara wa kaingĩ nĩ ũteithagia.
+2. **Aranĩria na mũndũ ũrĩ kuo.** Ndũmĩrĩri mũthenya ũmwe mbere nĩ ĩmateithagia kũhaarĩria.
+3. **Rora kĩndũ kĩa kwaria nakĩo.** Kabati karĩ na kĩgũrũ nĩ kĩhũthũ gũkĩra thimũ ĩnyiitĩtwo na guoko. Tigĩrĩra atĩ nĩ kĩiyũrĩte thitima, mũcicio nĩ ũtherete, na mũgambo nĩ mũiganu wa kũiguo. Hingũra maandĩko ma mũcicio-inĩ angĩkorwo mwarĩrie ũcio nĩ ũrĩ na ũndũ ũcio na mũndũ ũcio athomaga wega.
+4. **Haarĩria ũndũ ũmwe wa gwĩka** na ũkorwo na indo ciothe cihaarĩirie.
 
-**During the call:**
+**Hĩndĩ ya mwarĩrie:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Ikara hakuhĩ na kamera** harĩ na ũtheri mwega, wĩhũgĩte ndirica handũ ha gũkũrũmĩrĩra.
+- **Wĩyũkĩrĩrie** o ihinda rĩothe, na rĩĩtwa rĩaku na ũrĩa mũtũũranagia.
+- **Mũndũ ũmwe aragia ihinda rĩmwe.** Alzheimer's Association nĩ yugaga atĩ kwaria hamwe nĩ kũritũhagĩria andũ matũũraga na mũrimũ wa kwaga kũririkana na arĩa matiguaga wega. Andũ aingĩ a famĩlĩ mangĩingĩra, cenjanai kana mũtige arĩ o andũ eerĩ kana atatũ.
+- **Ũria kĩũria kĩmwe ihinda rĩmwe.** Family Caregiver Alliance nĩ ĩringĩrĩirie [ciũria njega irĩ na macokio ma “ĩĩ” kana “aca”](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), na kuonania mĩthuuro rĩrĩa kũhotekaga.
+- **Etĩkĩria tũhinda tũraihu twa gũkira.** Eterera macokio. Nĩ wega kũmũririkania kiugo angĩkorwo nĩ aragĩcaria.
+- **Hũthĩra ũthiũ waku na mũgambo waku.** Theka, inainia mũtwe na ũtũũre na mũgambo wa ũhooreri. Kaingĩ mwĩhĩrĩria nĩ waragia maũndũ maingĩ gũkĩra ciugo.
+- **Ndũkamũrũngie.** Mũndũ ũcio angĩaria ũndũ ũtarĩ wa ma, ũreke ũthiĩ ũguo.
 
-**Ending the call:**
+**Kũrĩkia mwarĩrie:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Rĩkia mũndũ ũcio atanogio, na wega nĩ ũndũ wa kũrĩkia ihinda rĩega.
+- Hũthĩra ngeithi ya kũrĩkia o rĩmwe mahinda mothe: “Nĩ ngũgũhĩnga thimũ rũciũ thaa cia mũthenya. Nĩ ngwendete.”
+- Ndũkaraihe mũno.
 
-## Tips for the helper on site
+## Mataaro kũrĩ mũndũ ũrĩ kuo akĩmateithia
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Ũngĩkorwo nĩwe mũthuri, mũtumia, mũteithia, mũrũ kana mwarĩ wa nyina, kana mũndũ wa wĩra ũrateithia mwaranĩrio-inĩ, nĩwe ũtũmaga ũhoteke.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Haarĩria handũ hahaanaine.** Horia terebitheni na ũhinge mũrango.
+- **Ambĩrĩria mwarĩrie wee mwene,** ũcooke ũnengere mũndũ ũcio kabati karĩ na kĩgũrũ kana ũkanyiite ũiganaine na maitho.
+- **Ikara mwena-inĩ wake, ti mbere yake.** Gũkorwo kuo nĩ kũmũhooreragia. Mũririkanie na ũhooreri angĩbatara: “Ta rora, nĩ Jenny.”
+- **Tuĩka moko.** Nyitia mahinda, hũũra mũthako, hũgũra kabati nĩguo onanie nyũmba.
+- **Rora mũndũ ũcio angĩnogio kana agakĩra na hinya,** na ũmenye mũndũ ũrĩa ũrarĩa thimũ rĩrĩa kwagĩrĩire kũrĩkia.
+- **Ĩra mũndũ ũrĩa ũrarĩa thimũ kĩrĩa kĩekire wega.** “Nĩ akenire mũno nĩ ngui” nĩ gũteithagia kũhaarĩria mwarĩrie ũrĩa ũgooka.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA nĩ ĩringĩrĩirie atĩ andũ a famĩlĩ marĩ kũraya no mateithie mũndũ mũkũrũ [kũmenya ũrĩa thimũ yake ĩrutaga wĩra](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), ta mĩario ya video. Mahinda ma thutha, mũndũ ũrĩa ũrateithia no akorwo arĩ we wagĩrĩirwo nĩ kũhũthĩra kĩndũ kĩu gĩothe. Ũguo nĩ wega.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Mũndũ ũcio angĩkorwo atũũraga kũndũ kwa gũtungata andũ akũrũ, Alzheimer's Foundation of America nĩ ĩringĩrĩirie kũũria kana kũndũ kũu nĩ guteithagia famĩlĩ na mĩario ya video. AFA ningĩ nĩ ĩgwetete famĩlĩ igĩtũmanĩra mahinda hamwe na aruti a wĩra, na gũtũma tũndũ twendwo twa kũrĩa kana tũndũ tũnini twa kũhooreria, thuutha wa kũũria ũrĩa kũndũ kũu gwetĩkĩrĩtie.
 
-## What if the call doesn't go well?
+## Mwarĩrie ũngĩaga gũthiĩ wega?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Mĩario ĩmwe no ĩkorwo ĩrĩ ya kũnyamarĩria, ĩtarĩ na hinya, kana ĩgathĩĩnia mũndũ. Ti wĩhia waku, na ndũkuuga atĩ mĩario ndĩrĩ bata.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Mũndũ ũcio angĩoneka arĩ na kĩrigiicano nĩ mũcicio, garũrũka ũhũthĩre mwarĩrie wa thimũ ya kawaida kana ndũmĩrĩri ĩrekodetwo.
+- Angĩkĩra na hinya, etĩkĩra ũrĩa ekwĩigua, aria ũndũ wa kũmũhooreria, na ũrĩkie na ũhooreri.
+- Mĩario ĩngĩkorwo kaingĩ ndĩthiaga wega ihinda rĩmwe rĩa mũthenya, geria ihinda rĩngĩ.
+- Angĩgwĩciria ũrĩ mũndũ ũngĩ, etĩkĩra ũguo na ũhooreri.
 
-It is fine to end early. A short, warm call is a good outcome.
+Nĩ wega kũrĩkia tene. Mwarĩrie mũkuhĩ wa ũrĩrĩ wega nĩ ũndũ mwega.
 
-## Between calls
+## Gatagatĩ ka mĩario
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Thiĩ na mbere gũkorwo hakuhĩ na njĩra ingĩ. Dementia Australia nĩ ĩringĩrĩirie gũtũma marũa, ndũmĩrĩri cia email, mahinda kana iheo nini. Karatathi ka mũndũ wa mũico o kiumia karĩ na mbica ĩmwe nene na ndũmĩrĩri nguhĩ no gathomwo maita maingĩ. [Makarata ma mwaranĩrio](/games/conversation-cards/) marĩa mangĩcabwo na matũmĩrwo mũndũ ũrĩa ũmateithagia no mahe mwarĩrie ũrĩa ũgooka kĩndũ kĩa kwaranĩria.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Nĩguo ũgĩe na mataaro ma gũthuura na kũhaarĩria kabati, rora [kabati na micicio](/caregiving/tablets-and-screens/). Nĩguo ũgĩe na ũhoro wa gũceerera mũndũ mũthiĩ-inĩ, rora mũtaratara witũ wa [gũceera](/activities/visiting/).

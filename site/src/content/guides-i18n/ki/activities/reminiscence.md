@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Kũririkana: Mabokisi, Ūhoro wa Mũtũũrĩre na Mbica"
+seoTitle: "Mĩtugo ya Kũririkana Ĩtarĩ na Kũgeria"
+description: "Ũrĩa mũngĩaranĩria maũndũ ma tene na mũndũ ũtũũraga na kĩrĩa gĩtũmaga mũndũ ariganĩrwo mũtarĩ kũgeria: mbica, mabokisi na ibuku rĩa ũhoro wake."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Kũririkana nĩ gũkenagĩra maũndũ ma tene mũrĩ hamwe na mbica, indo, nyĩmbo
+  na ng’ano. No mũthondeke bokisi ya kũririkania, mũthondeke ibuku rĩerũ rĩa
+  ũhoro wa mũtũũrĩre, kana mũrore mbica mũikaranĩtie. Mũtikanagerie: tiganai
+  na ciũria ta «Nĩũraririkana?» na «Ũyũ nũũ?» na mũhũthĩre ciugo ta «Njĩĩra
+  ũhoro wa gĩkĩ.» Mĩario mĩega nĩ ya bata gũkĩra kwaria maũndũ marĩa magĩrĩire
+  biũ.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Kũririkana nĩ mĩario, ti kĩgerio. Kũrĩ na ũhoro ti kũo kwa bata; gũkena nĩkuo kwa bata."
+  - "Handũ ha «Nĩũraririkana...?» na «Ũyũ nũũ?», hũthĩrai ciugo na mĩĩto ta «Njĩĩra ũhoro wa mũthenya ũyũ.»"
+  - "Bokisi ya kũririkania ĩrĩ na indo cia mũtũũrĩre wa mũndũ ĩnengaga moko na mĩario kĩndũ gĩa kũnyiita."
+  - "Ibuku rĩa ũhoro wa mũtũũrĩre rĩteithagia andũ a mũciĩ, arĩa mokaga gũceera na arĩa mamũmenyagĩrĩra kũmenya mũndũ, no ti ũrĩa arĩ."
+  - "Kĩririkano kĩngĩrehere kĩeha, ambai na kũhooreria na mũthiĩ na mbere na ũhooreri."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Kũririkana nĩ kũrĩkũ harĩ andũ arĩa matũũraga na kĩrĩa gĩtũmaga mũndũ ariganĩrwo?"
+    a: "Kũririkana nĩ kũgayanĩra maririkano na maũndũ ma tene, kaingĩ mũteithĩtio nĩ mbica, indo, nyĩmbo kana video. No gũkorwo nĩ mũndũ ũmwe na ũmwe kana gĩkundi. Muoroto nĩ mĩario mĩega na ĩrĩ bata, no ti kũgeria ũrĩa mũndũ angĩhota kũririkana."
+  - q: "Nĩ kĩĩ ndagĩrĩirwo nĩ kũũria «Nĩũraririkana?»"
+    a: "Ciũria iria igeragia kũririkana no itũme mũndũ econoke kana etigĩre rĩrĩa macokio matangĩoneka. National Institute on Aging ĩandĩkĩte kũũria mũndũ kana nĩaririkanaga ũndũ kana mũndũ gatagatĩ ka maũndũ marĩa magĩrĩirwo nĩ gwĩtheemwo. Aria ũhoro wa kĩrĩa ũrona handũ ha ũguo, na ũreke mũndũ ongerere kĩrĩa othe ekwenda."
+  - q: "Nĩ kĩĩ ngĩrĩirwo nĩ gwĩkĩra bokisi-inĩ ya kũririkania?"
+    a: "Thuura indo ngitĩre na irĩ hinya iria ihutanĩtie na mũtũũrĩre wa mũndũ: indo cia wĩra, indo cia maũndũ marĩa endaga gwĩka, gitambaya kĩrĩa endete, makarita, makarita ma mĩtũũrĩre ya irio, indo cia kũririkania cia mĩtugo ya mwĩrĩ kana mbica cia kũiga. Tiganai na indo njũgĩ, indo nini iria ingĩmerio, na cia mwanya iria itangĩhũthĩrwo handũ ha ingĩ."
+  - q: "Ĩngĩkorwo maũndũ marĩa maragia ti mo?"
+    a: "Tiga ũhoro ũcio ũthiĩ. Maitũ angĩuga mbica ĩyo nĩ ya mwarĩ wa nyina rĩrĩa ĩrĩ ya mwarĩ wa ithe wao, nĩ wega. Kũrũngĩrĩria gũtũmaga ihinda rĩega rĩtuĩke kĩgerio. Rũmĩrĩra rũgano rũrĩa maragia na mũkenagĩre hamwe."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Kũririkana nĩ ũrĩa mũndũ angĩkenagĩra maũndũ ma tene mũrĩ hamwe. Harĩ andũ aingĩ arĩa matũũraga na kĩrĩa gĩtũmaga mũndũ ariganĩrwo, maririkano ma mĩaka mĩingĩ mĩhĩtũku no makorwo marĩ mega gũkĩra maũndũ marĩa mekĩkire rũciinĩ rũrũ. Mbica, indo iria imenyereku, nyĩmbo na ng’ano no ihingũre maririkano macio na imũhe kĩndũ kĩega gĩa kũgayanĩra. Watho ũmwe tu: nĩ mĩario, ti kĩgerio.
 
-## What is reminiscence, and how is it different from quizzing?
+## Kũririkana nĩ kũrĩkũ, na gũtĩkĩrĩte atĩa na kũgeria?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Kũririkana nĩ kũgayanĩra maririkano na njĩra ya mbica, indo, nyĩmbo kana video, na mĩtũkĩ ĩrĩa mũndũ ekwenda. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ĩtaaragĩria ta kũgayanĩra maũndũ na ng’ano cia tene mũteithĩtio nĩ mbica, indo, video kana nyĩmbo, thĩinĩ wa ibuku kana kĩgũrũ-inĩ. Kũgeria nĩ kũndũ kũngĩ: gũtũmaga mũndũ ahe macokio marĩa magĩrĩire, na ũndũ ũcio no ũrehere gĩconoko handũ ha gĩkeno.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) ĩandĩkĩte kũũria mũndũ kana nĩaririkanaga ũndũ kana mũndũ ta ũndũ ũrĩa wagĩrĩirwo nĩ gwĩtheemwo. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ĩtaarĩria gwĩtheema ciũria iria ciĩhokete kũririkana kwa ihinda inini na kwaria ũhoro wa maũndũ ma tene mũno.
 
-| Instead of | Try |
+| Handũ ha | Geria |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «Nĩũraririkana ũũ?» | «Gĩkĩ kĩonekaga ta mũthenya mwega. Njĩĩra ũhoro waguo.» |
+| «Ũyũ nũũ?» | «Ũyũ nĩ Aunt Rose arĩ kũu iria-inĩ. Rora ngũbia ĩyo.» |
+| «Ũũ warĩ mwaka ũrĩkũ?» | «Gĩkĩ kĩonekaga ta nyũmba ĩrĩa ya tene. Gwĩtũũra kuo kwarĩ atĩa?» |
+| «Aca, ti Bill ũcio, nĩ Frank.» | «Onekaga arĩ na gĩkeno mũingĩ.» |
+| «Nĩũnjĩĩrĩte ũhoro ũcio rĩngĩ.» | «Nĩnyendete rũgano rũu.» |
 
-## How do you talk about photos without quizzing?
+## Ūngĩaria atĩa ũhoro wa mbica ũtageretie?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Ambĩrĩria na kĩrĩa ũrona, ũcooke ũtige mweke wa mũndũ kuongerera ũndũ angĩkorwo ekwenda.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Ikarai mwĩgaranĩtie.** Oyai ibuku rĩa mbica gatagatĩ kanyu nĩguo mũrore hamwe, no ti kũgeria mũrĩ mĩena ĩĩrĩ ya metha.
+2. **Thuura mbica nini.** Mbica ithano njega nĩ njega gũkĩra bokisi ĩthekire. Mbica nene na itonekaga wega nĩcio njega.
+3. **Ta andũ wee mwene.** «Ũyũ nĩwe na Baba mũthenya wanyu wa kũhikania» nĩkũeheragia mĩritũ.
+4. **Aria ũhoro wa tũndũ tũnini.** Nguo, ngari, irio, riera, mothiũ. «Ngari ĩyo nĩ njega mũno. Ĩonekaga ĩkeng’ara.»
+5. **Ĩta, no ndũkaahatĩrĩrie.** «Njĩĩra ũhoro wa...» kana «Nĩ kĩĩ ũrona?» Gũkira ki nĩ wega.
+6. **Rũmĩrĩra ũrĩa arathiĩ.** Angĩambĩrĩria kwaria ũndũ ũngĩ biũ, thiĩ nake.
+7. **Tiga rĩrĩa maũndũ mekũrehera gĩkeno.** Hinga ibuku rĩa mbica mũtanogio.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Nĩ ũndũ wa mĩario ĩrĩ na mbica ĩhaarĩirie, geria [conversation cards](/games/conversation-cards/). Nĩguo ũgarũre mbica cia mũciĩ waku ituĩke mũthako mũhooreri wa kũhũrania, geria [photo pairs](/games/photo-pairs/); mbica iria ũthuuraga igũikara kĩgũrũ-inĩ gĩaku.
 
-## How do you make a memory box?
+## Ūngĩthondeka atĩa bokisi ya kũririkania?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Bokisi ya kũririkania nĩ kĩndũ gĩa gwĩkĩra indo cia mũtũũrĩre wa mũndũ nĩguo acihũthagĩre na aciaragie ũhoro wacio.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Thuura bokisi ĩrĩ hinya** na ĩrĩ hoore kũhingũra, ta bokisi ya iraatũ, bokisi ya ngũbia kana ithandũkũ inini rĩa mbaũ.
+2. **Thuura mũthemba ũmwe kana mĩthemba mĩingĩ.** Wĩra, ũndũ ũrĩa endaga gwĩka, handũ, ihinda, kana tũndũ twa mĩthemba yothe.
+3. **Cookanĩrĩria indo ngitĩre.** Indo ithano nginya ikũmi nĩ nyingĩ cia kwambĩrĩria.
+4. **Hũthĩra mbica cia kũiga cia indo cia bata.** Ĩga mbica na marũa ma bata marĩa matangĩhũthĩrwo handũ ha mangĩ na ũige ma mwanya wega.
+5. **Ruta kĩndũ kĩmwe o ihinda.** Nengera kĩmwe, waria ũndũ wakĩo, na wone mĩario ĩgũthiĩ na kũ.
 
-Ideas to include:
+Maũndũ marĩa mũngĩĩkĩra:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Wĩra:** baji ya rĩĩtwa, kĩndũ kĩnini kĩa wĩra, kamenda ka nguo ya wĩra, ibuku rĩa mathabu, mbini ya mũrĩgiti, ibuku rĩa irio rĩa kũrĩa kwarĩ irio.
+- **Mũciĩ:** karita ka mũtũũrĩre wa irio kandĩkĩtwo na guoko gwake, gitambaya kĩa gĩcooki, gitambaya kĩrĩa endete kana tai.
+- **Maũndũ marĩa endaga gwĩka:** mũtego wa thamaki ũtarĩ na ndogora, mũbira wa baseball, mũkanda wa ndigi, kaburi ka mbegũ.
+- **Kũndũ:** makarita, mabũu ma njĩra, kĩndũ kĩa kũririkania kĩa rũgendo, gĩcunjĩ kĩa ngathĩti ya itũũra rĩao.
+- **Andũ a mũciĩ:** mbica cia kũiga, mũcoro wa mwana, rũũri rwa ũhiki.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Tiganai na indo njũgĩ, indo nini iria ingĩmerio, na kĩndũ o gĩothe kĩngĩrehere maririkano mooru, tiga no mũmenye nĩgĩetagĩrĩra.
 
-## How do you make a life-story book?
+## Ūngĩthondeka atĩa ibuku rĩa ũhoro wa mũtũũrĩre?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Ibuku rĩa ũhoro wa mũtũũrĩre nĩ ibuku rĩerũ rĩa mbica na tũhoro tũnini tũrĩa tũtaaragĩria mũtũũrĩre wa mũndũ. Nĩ kĩndũ kĩa kũrora hamwe, na gĩteithagia arĩa mokaga gũceera na arĩa mamũmenyagĩrĩra kuona mũndũ wothe.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Thuura mũthemba.** Bainda ĩrĩ na mĩkebe ya kũiga mabatari, ibuku rĩa mbica rĩrĩa rĩthondeketwo, kana gĩcunjĩ kĩa mbica kĩgũrũ-inĩ.
+2. **Bangai icunjĩ nini.** Ūnini, cukuru, wĩra, mũciĩ, kũndũ kũrĩa maatũũraga, wĩtĩkio, maũndũ marĩa mendaga gwĩka, irio na nyĩmbo iria mendete.
+3. **Ĩkĩrai mbica ĩmwe kana igĩrĩ o karatathi** hamwe na ũhoro mũnini, wandĩkĩtwo na ndemwa nene: «Mary, mĩaka 22, akĩambĩrĩria wĩra bengi-inĩ.»
+4. **Ĩkĩrai maũndũ marĩa endaga na mĩtugo yake.** «Anyuuaga kahũa na iria. Endaga nyĩmbo cia Kiumia. Ndetĩkagĩra TV ĩrĩ na mbugĩrĩrio nyingĩ.» Ũndũ ũyũ ũteithagia mũndũ o wothe ũrĩa ũramũmenyagĩrĩra.
+5. **Gĩa mũndũ ũcio handũ** o ũrĩa ekwenda, gũthuuraga mbica, kũheana ng’ano kana o kũrora rĩgĩthondekwo.
+6. **Thiĩi na mbere na kwongerera.** No mũhũthĩre o na rĩtanarĩĩka.
 
-## More reminiscence ideas
+## Mĩthemba ĩngĩ ya kũririkana
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Hũũrai nyĩmbo cia ihinda rĩrĩa maarĩ anini** na mwarie ũrĩa imatwaraga. Rora [mĩtugo ya nyĩmbo](/activities/music/).
+- **Rorai sinema cia mũciĩ kana mĩthemba ya TV** ya ihinda rĩrĩa mendete.
+- **Rugai irio cia ũnini wao** na mũreke mũtararĩko ũtongorie mĩario.
+- **Rorai bũu ya njĩra** ya itũũra rĩao na mũrũmĩrĩre njĩra iria imenyereku.
+- **Hũthagĩrai ibuku cia tene cia indo kana magazini** na mwarie ũhoro wa thogora, mĩthemba ya nguo na ngari.
+- **Rekodia ng’ano ciao** thimũ-inĩ, mũmetĩkĩrĩtie, nĩ ũndũ wa andũ a mũciĩ.
+- **Gayanĩrai hĩndĩ ya mĩario ya thimũ.** Onia mbica ĩmwe hĩndĩ ya mĩario ya video; rora [mĩario ya thimũ na ya video](/activities/phone-and-video-calls/).
+- **Thiĩ na mbica kana kĩndũ rĩrĩa ũgũceera.** Nĩkũheanaga gũceera ũndũ mũhooreri wa kwaria ũhoro wakĩo; rora [gũceera](/activities/visiting/).
 
-## What if a memory is painful?
+## Ĩngĩkorwo kĩririkano nĩ kĩa kĩeha?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Maririkano mamwe no marehere kĩeha, kwĩrira kana guoya. Mũndũ angĩthĩĩnĩka, tiga, mũhoorerie na ũgarũre mũhoro kana mũtugo na ũhooreri. Ndũkagerie kũgiana ũhoro wa ũrĩa gwekĩkire. Family Caregiver Alliance ĩtaarĩria kwĩtheema kũgeria kũringĩrĩria mũndũ atĩ nĩehĩtie na ĩkaringĩrĩria gũcokia na njĩra ĩringaine na maigua marĩa onanagia, marĩa marĩ ma ma. Angĩaria ũhoro wa mũndũ ũrĩa wakuire ta arĩ muoyo, cokia na njĩra ĩringaine na maigua: «Nĩũramwĩriragĩria. Njĩĩra ũhoro wake.»
 
-## What does the research say?
+## Ūringithanio ũkoiga atĩa?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Ũringithanio wa Cochrane wa kũririkana](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ũrĩa warorire magerio 22 na andũ 1,972, wonire atĩ moimĩrĩro matiarĩ amwe, maarĩ manini na nĩmangĩarĩrĩte kũringana na kũndũ na mũthemba. Ndwonire ũira wa atĩ nĩkwagĩire na ũũru harĩ andũ arĩa matũũraga na kĩrĩa gĩtũmaga mũndũ ariganĩrwo. Tũraringĩrĩria kũririkana tondũ no gũtũme mũgĩe na ihinda rĩega na rĩrĩ na bata mũrĩ hamwe, no ti ta ũrigitani wa ũgima wa mwĩrĩ. Nĩ ũndũ wa mĩario mĩhooreri makĩria, rora [mataaro ma kwaria](/caregiving/communication-tips/).

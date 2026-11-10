@@ -1,35 +1,37 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Mutindu ya Pona Ba Appi ti Bisaka ya Dementia"
+seoTitle: "Mutindu ya Pona Ba Appi ti Bisaka ya Dementia"
+description: "Lisiti ya kusadisa bantu yina ke kebaka bantu ya dementia na kupona ba appi ti bisaka: yantika na lukanu, buya bantangu ti bapiblisite, tala kinsweki, mpi tanga mambu ya bansosa na dikebi."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Yantika na kuzaba mambu yina nge ke zola nde appi kusala: kusadisa na
+  mutindu ya mawete, kuyibuka mambu ya ntama, pema to kuwakana. Na nima, pona
+  appi yina ke fwanana ti makuki ya muntu bubu yai, ti bifwanisu ya nene, kukonda
+  ntangu, bakotasion to bapiblisite, mpi nzila ya pete ya kuyambula. Tala
+  bansangu yina yo ke bakaka, kana yo ke kabulaka yo, mpi kana nge lenda
+  kufuta yo. Vanda na dikebi ti mambu yina ke tubaka nde appi ke buyisaka to ke
+  belulaka dementia; nsosa mosi kaka kele ve nzikisa.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Zaba lukanu ntete: kusadisa na mutindu ya mawete, kuyibuka mambu ya ntama, pema to kuwakana ke lombaka ba appi ya kuswaswana."
+  - "Tala makuki ya muntu na kilumbu yina, kansi ve na zina ya kitambi, mpi bikila bima ya kusadila na pete."
+  - "Buya ba appi yina kele ti bantangu, bakotasion, bavida, balandila ya kilumbu na kilumbu, bapiblisite to mambu ya kusumba."
+  - "Tala bansangu yina yo ke bakaka, yina yo ke kabulaka, mpi mutindu ya kufuta yo. HIPAA mingi ve ke taninaka ba appi ya bantu yonso."
+  - "Vanda na dikebi ti mambu yina ke tubaka nde «ke buyisaka dementia». Nsosa mosi, to bakotasion ya mbote na kati ya appi, kele ve nzikisa."
+  - "Golden Moments kele kisalu ya kusakana sambu na kiese. Yo ke tubaka ve mambu ya kimunganga."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Keti bisaka ya kusadisa mabanza lenda buyisaka dementia?"
+    a: "Kele ve ti nzikisa ya ngolo yina ke monisa nde ba appi ya mumbongo ya kusadisa mabanza ke buyisaka to ke lembikisa dementia. National Institute on Aging ke tuba nde kele ve ti nzikisa ya kufwana yina ke monisa nde ba appi ya kusadisa mabanza yina ke tekaka na zandu kele ti bupusi ya mutindu mosi ti malongi ya kuyidika yina bo meka na nsosa mosi ya nene. Pona ba appi sambu na kiese mpi kuwakana, kansi ve bonso nkisi."
+  - q: "Keti appi ya dementia ke taninamaka na HIPAA?"
+    a: "Mingi ve. HIPAA mingi-mingi ke sadilaka sambu na bampangi ya kimunganga, ba programe ya mbote ya mavimpi mpi bansadi na bo. Appi yina nge ke baka nge mosi mingi ve ke taninamaka, katula kaka kana mpangi ya mutindu yina me pesa yo. Nsiku ya FTC ya Health Breach Notification Rule ke taninaka ba appi mingi ya mavimpi yina HIPAA ke taninaka ve."
+  - q: "Keti kisaka ya mbote ya dementia fwete vanda nki mutindu?"
+    a: "Bifwanisu ti masonama ya nene mpi ya pwelele, kima mosi ya pete ya kusala na ekrani konso, kukonda ntangu to kotasion, kukonda makelele sambu na mambi, kukonda bapiblisite, mpi nzila ya pete ya kupema to kuyambula. Yo fwete monana bonso kima yina bo salaka sambu na bambuta, mpi yo fwete vanda pete sambu na muntu ya zole kuvukana."
+  - q: "Keti Golden Moments ke tubaka nde yo ke sadisaka kiyibuka?"
+    a: "Ve. Golden Moments ke pesaka bisalu ya pete yina bantu ke salaka kumosi sambu na kiese mpi masolo. Yo ke monisaka ve, yo ke belulaka ve, yo ke buyisaka ve mpi yo ke meka ve dementia, mpi beto ke tubaka ve mambu ya kiyibuka to ya kuyindula."
+  - q: "Keti mbote na kufuta appi ya dementia?"
+    a: "Meka ntete ba appi ya ofele to bantangu ya kumeka ya ofele, mpi tala mutindu muntu ke sadilaka yo na mposo zole. Kufuta appi ke salaka ve nde yo kele mbote kuluta. Tala mutindu ya kuyambula yo na ntwala ya kusonikisa nge."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +62,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Bazandu ya ba appi kele ya kufuluka ti bisaka yina bo ke tubilaka bambuta, kiyibuka to dementia. Yankaka bo me salaka yo na mayele ya mbote. Yankaka ke yikaka mambu ya kimunganga yina ke monanaka bonso ya kieleka, bantangu yina ke kumisaka kusakana na kumeka, to bapiblisite mpi kukanga bansangu. Lutiti yai ke pesaka nge mutindu ya kutala appi konso nge mosi. Beto ke tadilaka ve mpi ke pesaka ve mabanza na zulu ya ba appi ya bankaka.
 
-## What should I decide before choosing a dementia app?
+## Mambu nki mono fwete zaba na ntwala ya kupona appi ya dementia?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Zaba mambu yina nge ke zola nde appi kusala. «Kisaka sambu na mama» lenda tendula mambu ya kuswaswana mingi, mpi appi ya mbote sambu na lukanu mosi lenda vanda ya mbi sambu na lukanu ya nkaka.
 
-| Goal | What it looks like | What to look for |
+| Lukanu | Yo ke monana mutindu yai | Mambu ya kusosa |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Kusadisa na mutindu ya mawete | Kufwanisa, kuyidika, bapuzele ya pete, bisaka ya mambu | Ngolo yina lenda soba, bifwanisu yina ke monanaka ntangu yonso, kukonda kukwenda nswalu |
+| Kuyibuka mambu ya ntama | Bafoto ya ntama, mambu ya kuyikana, miziki ya kileke na bo | Bafoto na nge mosi, bangyufula ya kukangula masolo, kukonda bangyufula ya kumeka |
+| Pema | Bifwanisu ya malembe, makelele ya pima, kupema, mambu ya lugangu | Pete na kuyantika mpi na kuyambula, kima ve yina ke semaka nswalu, kukonda mambu ya kuyituka |
+| Kuwakana | Kusakana to kusolola kumosi, na zizi to na video | Yina bo me salaka sambu na bantu zole, bangyufula yina ke sadisaka masolo |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Bansosa mingi na yina me tala «kusadisa mabanza» na mutindu ya kuyidika sambu na bantu yina ke zingaka ti dementia ke monisaka balukutakanu yina bansadi ya kulonguka ke twadisaka, ti masolo, bisaka ya mambu, bapuzele, miziki mpi bisalu ya kusala. [Ntalu ya Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) monisaka bambongo ya fioti na kimvuka, kansi yo ke sobaka kati na bansosa. Programe ya mutindu yina ya kimvuka mpi ya kuswaswana kele ve kima mosi ti appi yina muntu ke sadilaka yandi mosi, yo yina tala appi bonso kisalu mosi ya kusakana na kati ya bisalu mingi.
 
-## How do I know if an app fits the person's abilities?
+## Mutindu nki mono lenda zaba kana appi ke fwanana ti makuki ya muntu?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Tala mutindu muntu ke sadilaka yo, kansi ve kutadila zina ya maladi to kitambi. Bantu zole na «kitambi mosi» lenda vanda kuswaswana mingi na kutala, kuwa, kusadila maboko, kutuba mpi kumona pete na kusadila ba ekran. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ke pesa ngindu ya kubaka mambu yina muntu vandaka kuzola ntama mpi makuki na yandi ya bubu, mpi kutula dikebi na kiese kansi ve na kulonga.
 
-Signs of a good fit:
+Bidimbu ya appi ya mbote:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- yandi ke yantika to ke vukana kukonda kusonga mingi;
+- yandi ke seka, ke tuba to ke zabisaka disolo;
+- mambi ke yangisaka yandi ve mingi;
+- yandi ke vandaka na kiese ya kuyambula ntangu yo me lunga.
 
-Signs it is a poor fit:
+Bidimbu ya appi ya mbi:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- kutuba mbala na mbala «mono lenda ve» to «yai kele mambu ya buzoba»;
+- kuvwanda na ntendula ve na mambu ya kufina;
+- kuyinisa, nsoni to kupusa apareyi;
+- yo ke sadilaka kaka kana nge ke salaka mambu mingi.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Kuyinisa kele kidimbu, kansi ve kima ya kupusa. Tala [mambu ya kusala ntangu yandi ke tuba nde ve](/caregiving/when-they-say-no/). Sambu na bangindu ya nkaka kuluta ba appi, tala bisalu sambu na [kitambi ya luyantiku](/activities/early-stage/) mpi [kitambi ya nsuka](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Bima nki ya kusala mono fwete sosa to kubuya?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Sosa mambu ya pima, ya pete mpi ya bambuta, mpi buya mambu yonso yina ke nataka kukwenda nswalu.
 
-| Look for | Be wary of |
+| Sosa | Vanda na dikebi ti |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Bifwanisu ti masonama ya nene, kuswaswana ya mbote | Bifwanisu ya fioti, ba ekran ya kufuluka mingi |
+| Kisalu mosi ya pwelele na ekrani konso | Babutone mingi, bamenu, to bantuma ya bitambi mingi |
+| Kukonda ntangu, to ntangu yina nge lenda katula | Kutanga ntangu na nima, matabisi ya nswalu, «luta ntangu na nge» |
+| Kukonda kotasion, to mvutu ya mawete | Bapointe, bavida, balandila ya kilumbu na kilumbu, ndonga, «mvu ya mabanza» |
+| Mambi ke tadilamaka na pima | Makelele ya buzoba, bidimbu ya mbwaki ya mbwaki, bansangu ya «Mbi» |
+| Bifwanisu ya bambuta, ya luzingu ya kilumbu na kilumbu | Mambu ya bana to ya kusakana mingi |
+| Yo ke sadilaka kukonda nzila ya Internet, kukonda konte sambu na kuyantika | Yo ke lombaka kusonikisa, kukota to kubaka mambu ntete |
+| Pete na kupema mpi kuyambula | Bafenetre yina ke lombaka kulanda kusakana to kupesa mabanza na appi |
+| Kukonda bapiblisite, ntalu ya pwelele ya mbala mosi to ya kusonikisa | Bapiblisite, basandukilu, mambu mingi ya kusumba |
+| Pete sambu na muntu ya zole kuvukana | Sambu na muntu mosi kaka, mutindu ya kunwana |
 
-Ads and purchase prompts are easy to tap by accident.
+Bapiblisite mpi mambu ya kusumba lenda finama na kifu.
 
-## How do I check an app's privacy?
+## Mutindu nki mono lenda tala kinsweki ya appi?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Tala bansangu yina appi ke bakaka, na nani yo ke kabulaka yo, mpi kana nge lenda kufuta yo. Na ntwala ya kukotisa yo:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Tanga nkombo ya fioti ya kinsweki na zandu ya ba appi.** [Kitini ya Data safety](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ya Google Play mpi [kitini ya bansangu ya kinsweki](https://support.apple.com/en-us/102399) ya App Store ke monisaka mitindu ya bansangu yina appi lenda baka mpi kukabula. Bakompani zole ke tuba nde bansali ya ba appi ke pesaka bansangu yai bo mosi, yo yina yo kele luyantiku, kansi ve ntalu ya mvimba.
+2. **Yufula kana yo ke lombaka konte.** Kana appi ke monisaka kaka bifwanisu to bisaka ya pete, mbala yankaka kele ve ti kikuma ya kuzaba zina na nge, adrese ya e-mail to kilumbu ya lubutuku.
+3. **Tala nswa yina yo ke lombaka.** Keti kisaka ya kufwanisa kele mpenza na mfunu ya kisika, bantu ya kusolula ti bo, mikro to biblioteke na nge ya mvimba ya bafoto? Katula mambu yonso yina kele ve na mfunu.
+4. **Sosa bapiblisite mpi bisadilu ya kutala.** Bisadilu ya piblisite mpi ya kulandila lenda tinda bansangu ya mutindu appi ke sadilamaka na bakompani ya nkaka.
+5. **Zaba kisika bafoto ke kwendaka.** Kana nge ke yika bafoto ya dibuta, yo ke bikalaka na apareyi to yo ke kwendaka na server? Keti nge lenda katula yo?
+6. **Tala mutindu ya kufuta.** Sosa na nsiku ya kinsweki to na nkombo ya bansangu mutindu ya kufuta bansangu mpi konte. Appi yina ke tubaka nde bansangu lenda futama ve ke lombaka dikebi ya kuluta, mingi-mingi kana yo ke bumba bafoto to mambu ya mavimpi.
+7. **Tanga nsiku ya kinsweki** sambu na kuzwa bamvutu ya pwelele na yina me tala mambu yina ke bakamaka, sambu na nki, ntangu nki, mpi na nani yo ke kabulamaka.
 
-### Does HIPAA protect information in dementia apps?
+### Keti HIPAA ke taninaka bansangu na ba appi ya dementia?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Mingi ve, mpi yau ke yitukisaka bantu mingi. U.S. Department of Health and Human Services [ke tendula](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) nde HIPAA ke sadilaka sambu na baprograme ya mavimpi, mingi ya bampangi ya kimunganga, bibuka ya kukabula bansangu ya mavimpi mpi bansadi na bo. Mingi-mingi yo ke taninaka ve bansangu yina nge ke kotisa na appi sambu na kusadila ya nge mosi, katula kaka kana kibuka yina HIPAA ke tadila to nsadi na yo me pesa appi. Appi ya «dementia» yina kele na zandu ya ba appi mbala mingi kele na nganda ya HIPAA, ata kana yo ke tubila mavimpi.
 
-### What protects health data in apps that HIPAA does not cover?
+### Mambu nki ke taninaka bansangu ya mavimpi na ba appi yina HIPAA ke taninaka ve?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Nsiku ya FTC ya Health Breach Notification Rule ke taninaka mingi na kati na yo. Na 2024, FTC [yidikaka bansoba](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) sambu na kumonisa pwelele nde nsiku yina ke sadilaka sambu na ba appi ya mavimpi mpi batekinolozi ya mutindu mosi yina HIPAA ke taninaka ve. «Kubebisa» ke bakisa mpi kukabula bansangu kukonda nswa, kansi ve kaka kuyiba na nzila ya Internet, mpi bakompani fwete zabisa bantu yina mambu me tadila mpi FTC. Yau kele kisadilu ya kutanina na nima ya mambu ya mbi kusalama, kansi ve nsilulu nde appi ke baka kaka mambu yina yo ke lombaka.
 
-## How should I read claims about research and evidence?
+## Mutindu nki mono fwete tanga mambu ya bansosa mpi ya nzikisa?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Tanga mambu ya nzikisa malembe, mpi vanda na dikebi ya kuluta ti bansilulu ya nene. Bangyufula ya kuyula:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Inki mpenza bo meka?** Nsosa ya programe mosi ke monisaka ve nde bisaka yonso na appi ke sadilaka mutindu mosi.
+- **Banani bo meka?** Bambongo yina bo bakaka na bambuta ya mavimpi ya mbote lenda fwanana ve ti muntu yina ke zingaka ti dementia.
+- **Inki bo mekaka?** Kukuma mbote na kisaka yandi mosi kele mambu ya kuswaswana ti bansoba na luzingu ya kilumbu na kilumbu, masolo, mawi to kuzinga na kimpwanza.
+- **Nsosa kele ya ngolo nki?** Nsosa ya kuyidika ya kuyoka (RCT) ke fwanisaka kimvuka yina ke sadilaka appi ti kimvuka yina ke sadilaka yo ve. Yau kele mutindu ya mbote, kansi RCT mosi ya fioti to ya nkufi kele ve nzikisa. Sosa bansosa mingi, ya bansosi ya kimpwanza, yina ke wakana.
+- **Keti yo ke tubaka nde yo ke soba maladi?** Nsosa yina ke monisaka bansoba ya fioti na kumeka kele ve nzikisa nde appi ke lembikisa, ke buyisaka to ke belulaka dementia.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Lutiti ya National Institute on Aging na yina me tala [mavimpi ya mabanza mpi bambuta](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ke tendula nsosa mosi ya nene yina NIH pesaka mbongo ya malongi ya kuyidika ya mabanza, mpi na nima yo ke kebisa batangi na mambu yina ke tubaka nde bisaka yankaka ya ordinatere mpi ya Internet lenda tomisa kiyibuka mpi kuyindula. Yo ke tuba nde kele ve ntete ti nzikisa ya kufwana yina ke monisa nde ba appi ya kusadisa mabanza yina ke tekaka na zandu kele ti bupusi ya mutindu mosi ti malongi yina bo meka na nsosa yina. Nge lenda tanga diaka na lutiti na beto ya [bisaka ya mabanza mpi nzikisa](/brain-health/brain-games/) mpi [mambu yina bansosa ke tuba na yina me tala kubuyisaka dementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Mbandu nki ya pwelele ya mambu ya kukusa kele?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Na Yanuari 2016, FTC [zabisaka kuwakana mosi](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ti bansali ya Lumosity, programe ya «brain training». FTC tubaka nde kompani tubaka, kukonda nzikisa ya kufwana, nde bisaka na yo lenda lembikisa kukonda ngolo ya mabanza yina ke kwisaka ti mvu, mpi lenda tanina na kukonda ngolo ya fioti ya mabanza, dementia mpi maladi ya Alzheimer. Kompani ndimaka kufuta $2 million mpi yo fwete vanda ti nzikisa ya siansi ya ngolo mpi ya kutudila ntima na ntwala ya kutuba mambu ya mutindu yina na bilumbu ke kwisa. Diambu yai kele kiyibusa ya mbote nde mambu ya piblisite kele ve nzikisa.
 
-### Which words are red flags?
+### Mambu nki ya kutuba fwete pesa dikebi?
 
-Be cautious when an app or ad says it:
+Vanda na dikebi ntangu appi to piblisite ke tuba nde yo:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- «ke buyisaka», «ke vutulaka», «ke telamaka» to «ke belulaka» dementia to maladi ya Alzheimer;
+- «me monanamaka na kimunganga» kukonda kutanga nsosa, banani vandaka na kati na yo, mpi inki bo mekaka;
+- ke pesaka «mvu ya mabanza» to kotasion ya kiyibuka yina ke monisa bonso yo kele kuzaba maladi;
+- ta «songisa», «tomisa» to «longa» mabanza;
+- ke sadilaka bambandu ya bantu bonso nzikisa.
 
-If you are unsure about a claim, ask the person's doctor.
+Kana nge kele ve na kutudila ntima na diambu mosi, yufula munganga ya muntu.
 
-## Where does Golden Moments fit?
+## Golden Moments kele na kisika nki?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ke pesaka bisalu ya pete yina bantu ke salaka kumosi, kansi ve kumeka ya kiyibuka, lusansu to ndongisila ya kimunganga. Bisaka na beto, bonso [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) mpi [Calm Breathing](/games/calm-breathing/), bo me salaka yo sambu na kiese mpi masolo. Yo ke monisaka ve, yo ke belulaka ve, yo ke buyisaka ve mpi yo ke meka ve dementia, mpi beto ke tubaka ve mambu ya kiyibuka to ya kuyindula.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Beto ke pesaka mpi appi ya ofele, [Golden Moments sambu na iPhone, iPad mpi Android](/app/). Yo kele ti kufwanisa bafoto ya mawete ti bamatayi ya nene, bisaka ti bafoto ya dibuta yina nge ke ponaka mpi bapake ya bifwanisu yina ke sadilaka kukonda nzila ya Internet, kukonda konte, bapiblisite, ntangu to kotasion. Lisiti ya mutindu mosi ke sadilaka: etikete ya kinsweki na App Store ke tuba «Bansangu Me Bakama Ve», mpi [nsiku ya kinsweki ya appi](/app-privacy/) ke tendula kisika bakopi ya bafoto ke bumbanamaka.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Beto ke zola nde nge tadila beto, kansi ve kutudila beto ntima kaka. Sadila lisiti ya lutiti yai, tanga [lutiti na beto ya kinsweki](/privacy/) mpi [ndimisa na beto ya kimunganga](/medical-disclaimer/), mpi yambula kusadila kima yonso, ata ya beto, kana yo ke fwanana ve ti muntu yina nge ke kebaka.
 
-## What is a sensible way to try a new app?
+## Nzila nki ya mayele ya kumeka appi ya mpa?
 
-Try it together for a couple of weeks and watch what happens.
+Meka yo kumosi na mposo zole mpi tala mambu yina ke salama.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Yidika yo ntete** na kusadila [lutiti na beto ya kuyidika tableti mpi telefone](/caregiving/tablets-and-screens/), mpi yantika na kitambi ya pete kuluta.
+2. **Bikila bantangu ya nkufi,** tala kuseka, masolo mpi pema, mpi manisa na ntangu ya mbote.
+3. **Yambula yo kana yo ke nataka kuyinisa,** ata bantu mingi ke tuba nde yo kele mbote.

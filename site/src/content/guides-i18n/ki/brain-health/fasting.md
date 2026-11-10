@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Kwĩima irio na mũrimũ wa kũriganĩrwo: Ūrĩa ũtaaro uugaga"
+seoTitle: "Kwĩima irio na mũrimũ wa kũriganĩrwo: Ūtaaro"
+description: "Ũira wa andũ igũrũ rĩa kwĩima irio na mũrimũ wa kũriganĩrwo nĩ mũnini na wa kĩambĩrĩria. Menya mogwati ma andũ akũrũ na gĩtũmi kĩa kũrĩa kũiganu."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Gũtirĩ ũira mwega wonanagia atĩ kwĩima irio nĩ kũgiragia kana gũkinyia
+  mũrimũ wa kũriganĩrwo. Ũtaaro mũingĩ wĩkĩtwo nyamũ-inĩ, na ũtaaro wa andũ
+  akũrũ nĩ mũnini na wa ihinda inini. Kwĩima irio no kũgĩe na mogwati harĩ
+  andũ akũrũ: kũhũta mwĩrĩ na mũkiha, thakame gũkua mũno thĩ harĩ arĩa marĩa
+  dawa imwe cia mũrimũ wa cukari, kwaga maaĩ mwĩrĩ, na kũgũa. Harĩ andũ
+  matũũraga na mũrimũ wa kũriganĩrwo, kũrĩa na kũnyua kũiganu nĩkũo kaingĩ
+  kwagĩrĩire kũrũmbũiyo mũno. Aria ndagĩtarĩ mbere ya kwĩima irio.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging yugaga atĩ gũtirĩ ũira mũiganu wa gũtũma mũndũ akinyĩrio mũtaratara o wothe wa kwĩima irio kana kũnyiihia irio, makĩria harĩ andũ akũrũ."
+  - "Ũtaaro mũingĩ wa kwĩima irio na gũkũra umĩte nyamũ-inĩ, na maciaro macio matingĩringana na andũ hĩndĩ ciothe."
+  - "Mogwati marĩa mangĩoneka harĩ andũ akũrũ nĩ ta kũhũta mwĩrĩ na mũkiha mũtarĩ mwende, thakame gũkua mũno thĩ harĩ arĩa marĩa dawa imwe cia mũrimũ wa cukari, kwaga maaĩ mwĩrĩ, kũrũgarũga, na kũgũa."
+  - "Andũ matũũraga na mũrimũ wa kũriganĩrwo kaingĩ nĩ mariganagĩrwo nĩ kũrĩa kana kũnyua, kana mageciiria atĩ nĩ marĩkĩtie. Kũmateithia marĩe na manyue kũiganu kaingĩ nĩ kũrĩ bata mũno gũkĩra ihinda rĩa kũrĩa."
+  - "Ndũkanahũthĩre kwĩima irio harĩ mũndũ ũtũũraga na mũrimũ wa kũriganĩrwo. Aria ndagĩtarĩ kana mũtaarani wa irio mbere ya kũgarũra mũtaratara wa kũrĩa."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Kwĩima irio nĩ kũgiragia mũrimũ wa Alzheimer's?"
+    a: "Gũtirĩ ũira mwega wonanagia ũguo. Ũtaaro mũingĩ wĩkĩtwo nyamũ-inĩ, na ũtaaro wa andũ nĩ wa ihinda inini, kaingĩ wa andũ ethĩ kana arĩa marĩ na ũritũ mũingĩ wa mwĩrĩ, na wĩkĩrĩirwo kũhũta mwĩrĩ. National Institute on Aging yugaga atĩ gũtirĩ ũira mũiganu wa gũtũma mũndũ akinyĩrio mĩtaratara ya kwĩima irio."
+  - q: "Kwĩima irio nĩ kwega harĩ andũ akũrũ?"
+    a: "No kũrege gũkorwo kũrĩ kwega. Kwĩima irio no gũtũme mũndũ ahũte mwĩrĩ na mũkiha mũtarĩ mwende, ague maaĩ mwĩrĩ, arũgarũge na agũe, na no gũtũme thakame ĩkue mũno thĩ harĩ andũ arĩa marĩa insulin kana dawa ingĩ cia mũrimũ wa cukari. Mayo Clinic yugaga atĩ no kũrege kwagĩrĩra andũ arĩa marĩ na ũgwati mũnene wa kũhũthia mahĩndĩ na kũgũa. Aria ndagĩtarĩ mbere ya kũgeria."
+  - q: "Mũndũ ũrĩ na mũrimũ wa kũriganĩrwo nĩ agĩrĩirwo nĩ kũgeria kwĩima irio?"
+    a: "Aca. Andũ matũũraga na mũrimũ wa kũriganĩrwo kaingĩ nĩ magĩaga na thĩna wa kũrĩa na kũnyua kũiganu, na kũrĩa wega mũno no kũongerere mĩtugo mĩũru na gũtũma mwĩrĩ ũhũte. Kwĩima irio kuongeragĩrĩra ũgwati hatarĩ na ũmithio wonanĩtwo. Rũmbũiya irio cia mahinda ma mũtaratara, tũndũ tũnini twa kũrĩa twendagwo nĩ we, na kũnyua kũiganu."
+  - q: "Ni imenyithia irĩkũ cionanagia atĩ mũndũ ũrĩ na mũrimũ wa kũriganĩrwo ndararĩa kana ndaranyua kũiganu?"
+    a: "Rora kũhũta mwĩrĩ, nguo ikamũhũthĩka, kũnoga, kwaga hinya, kũmia nda, kana kũrega irio. Imenyithia cia kwaga maaĩ mwĩrĩ iria National Institute on Aging ĩgwetete nĩ ta kanua gũkũngũ, kũrũgarũga, ngoro kũgũa na ihenya, na kuona maũndũ matarĩ kuo. Ĩra ndagĩtarĩ wake ũngĩona maũndũ maya."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Kwĩima irio kwa ihinda, ta kũrĩa thĩinĩ wa mathaa manana tu kana kũnyiihia irio mũno mĩthenya ĩĩrĩ ya kiumia, nĩ kwaragio mũno, na mohoro mamwe moigaga atĩ no kũgitĩre tombo. Angĩkorwo ũrĩ mũndũ mũkũrũ, kana ũroraga mũndũ ũtũũraga na mũrimũ wa kũriganĩrwo, ĩno nĩyo ũtaaro wonanagia kũna, na gĩtũmi gĩa kwĩmenyerera.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Ũyũ nĩ ũhoro wa kũmenyithania tu, ti ũtaaro wa ndagĩtarĩ. Ndũkambĩrĩrie kwĩima irio, kana ũgarũre mũtaratara wa kũrĩa wa mũndũ ũrĩa ũroraga, ũtarĩ kwaria na ndagĩtarĩ kana mũtaarani wa irio. Rora [mũkaana witũ wa ũhoro wa ũgima wa mwĩrĩ](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Kwĩima irio nĩ kũgiragia mũrimũ wa kũriganĩrwo?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Gũtirĩ ũira mwega wonanagia atĩ kwĩima irio nĩ kũgiragia kana gũkinyia mũrimũ wa kũriganĩrwo. National Institute on Aging (NIA) yugaga atĩ gũtirĩ ũira mũiganu wa gũtũma mũndũ akinyĩrio mũtaratara o wothe wa kũnyiihia irio kana kwĩima irio, na atĩ nĩ harĩ na maũndũ maingĩ magĩrĩirwo nĩ kũmenyeka igũrũ rĩa ũrĩa wĩkaga wega na ũrĩa ũtarĩ na ũgwati, makĩria harĩ andũ akũrũ ([NIA igũrũ rĩa kũnyiihia irio na kwĩima irio](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Gĩtũmi kĩa ũira ũyũ gũkorwo ũrĩ mũnini
 
-The NIA gives several reasons:
+NIA ĩheanaga itũmi ici:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Ũtaaro mũingĩ wĩkĩtwo nyamũ-inĩ.** Ũtaaro wa tũng'onyũ, ngi, mbĩya na ngũyũ nĩ ũrutĩte maciaro ma bata, no maciaro macio matingĩringana na andũ hĩndĩ ciothe. O na nyamũ-inĩ, maciaro nĩ mĩtiganu; harĩ mĩthemba ĩmwe ya mbĩya, kũnyiihia irio nĩ kwaigirie muoyo.
+- **Magerio ma andũ makoretwo marĩ ma ihinda inini.** Maingĩ maatũũrire ciumia kana mĩeri mĩnini.
+- **Magerio maingĩ ma andũ meekĩrĩirwo kũhũta mwĩrĩ** harĩ andũ arĩa marĩ na ũritũ mũingĩ wa mwĩrĩ, ti igũrũ rĩa kũririkana kana mũrimũ wa kũriganĩrwo.
+- **Andũ akũrũ kaingĩ matĩkoragwo magerio-inĩ.** Magerio maingĩ maanyiitire andũ a mĩaka 60 kana makĩria.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Ũtaaro wa 2026 warorire kwĩima irio harĩ andũ a mĩaka 60 na makĩria. Ũkĩona atĩ ũira harĩ gĩkundi gĩkĩ no mũnini, na ũtaaro mũnini, ihinda inini rĩa kũrũmĩrĩra, na mĩtaratara mĩtiganu. Maũndũ marĩa monanĩtwo igũrũ rĩa gwĩciria na kũririkana moimire Ũtaaro-inĩ wa mwanya mwanya handũ ha gũcokanĩrĩrio hamwe. Ũtaaro ũcio ũgĩkinyia atĩ Ũtaaro ũmwe nĩ wanyiitanĩtie ihinda inini mũno rĩa kũrĩa kana kwĩma irio gwa ihinda iraya na maciaro mooru, nao aandĩki makĩringania kwĩmenyerera harĩ andũ akũrũ ([ũtaaro wa 2026 thĩinĩ wa Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Ataari amwe meciiragia atĩ rĩrĩa mwĩrĩ wagarũrũka ũkambĩrĩria kũhũthĩra maguta hĩndĩ ya kwĩima irio, no ũhutie tombo, no ĩno no wĩcirio ũrĩa ũgĩthuthuurio. NIA yugaga atĩ ũmenyo ũcio ndũrĩ na mũhaka mũkinyanĩru.
 
-## What are the risks of fasting for older adults?
+## Mogwati ma kwĩima irio harĩ andũ akũrũ nĩ marĩkũ?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Kwĩima irio ti kũgeria gũtarĩ na ũgwati harĩ andũ akũrũ aingĩ. Mogwati marĩa mangĩoneka nĩ ta:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Kũhũta mwĩrĩ mũtarĩ mwende.** Kũrĩa irio nini gũkĩra iria mwĩrĩ ũbataire no gũtũme mũndũ ahũte mwĩrĩ na hinya wa mũkiha ũnyiihie, ũndũ ũrĩa ũngĩtũma mũndũ akorwo arĩ mũhũthũ mũno.
+- **Kũhũthia mũkiha na mahĩndĩ.** Thĩinĩ wa igerio rĩa mĩaka ĩĩrĩ rĩateithĩtio nĩ NIA rĩa kũnyiihia irio harĩ andũ ethĩ na arĩa matarĩ akũrũ mũno, arĩa maanyiitire kĩambĩrĩria moonire mahĩndĩ mao na mũkiha ũkĩnyiihanyiiha hanini.
+- **Thakame gũkua mũno thĩ nĩ ũndũ wa dawa cia mũrimũ wa cukari.** Andũ arĩa marĩa insulin kana dawa ingĩ imwe cia mũrimũ wa cukari no magĩe na thakame ĩgakua mũno thĩ mangĩaga kũrĩa kana magĩcererwo nĩ kũrĩa, kũringana na [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Thakame ĩkĩa mũno thĩ no ĩtũme mũndũ arũgarũge, amake, na akorwo na marakara.
+- **Kwaga maaĩ mwĩrĩ.** Kĩndũ gĩa kũnyua kĩngĩagwo hamwe na irio, mũndũ no ague maaĩ mwĩrĩ.
+- **Kũrũgarũga na kũgũa.** Mayo Clinic yugaga atĩ kwĩima irio no gũtũme andũ maigwe manogete mũno na makarũgarũga, na atĩ no kũrege gũkorwo kũrĩ mũtaratara mwega wa ũgima wa mwĩrĩ harĩ andũ arĩa marĩ na ũgwati mũnene wa kũhũthia mahĩndĩ na kũgũa ([Mayo Clinic igũrũ rĩa kwĩima irio](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Maũndũ mangĩ.** Mayo Clinic ningĩ ĩgwetaga kĩbara, mĩtugo gũcenjia na ihenya, na kũmia nda, na ĩkauga atĩ harĩ na ũira ũmwe wonanagia atĩ kwĩima irio gwa mathaa 16 na kũrĩa thĩinĩ wa mathaa 8 no kũongerere ũgwati wa mĩrimũ ya ngoro gũkĩringithanio na ihinda ingĩ cia kũrĩa. Ũira ũcio ndũrĩ na mũico mũkinyanĩru.
 
-## Why is eating enough the bigger concern with dementia?
+## Gĩtũmi kĩrĩa gĩtũmaga kũrĩa kũiganu kũgĩe na ũritũ mũnene harĩ arĩa marĩ na mũrimũ wa kũriganĩrwo nĩ kĩĩ?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Harĩ andũ matũũraga na mũrimũ wa kũriganĩrwo, thĩna wa mũtaratara nĩ wa kuona irio na kĩndũ gĩa kũnyua **kũiganu**, ti kũingĩhia. Alzheimer's Association ĩtaaragĩria atĩ andũ arĩa marĩ gatagatĩ-inĩ na mahinda ma kũrigĩrĩria ma mũrimũ ũyũ no maigwe marĩ na thĩna wa gũthuura irio, mariganĩrwo nĩ kũrĩa, kana meciirie atĩ nĩ marĩkĩtie kũrĩa. Ĩkuuga ningĩ atĩ kũrĩa wega mũno no kũongerere mĩtugo mĩũru na gũtũme mwĩrĩ ũhũte ([Alzheimer's Association igũrũ rĩa irio na kũrĩa](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society yugaga atĩ kũrĩa irio itakinyanĩire no gũtũme mũndũ ahũte mwĩrĩ, hinya wa mũkiha ũnyiihie, anoge, na ague hinya, na ũndũ ũcio ũgatũma mũndũ akorwo arĩ mũhũthũ mũno na atahote kũhona na ihenya kuumana na mĩrimũ ([Alzheimer's Society igũrũ rĩa wendi wa irio](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Nĩ ũndũ wa itũmi ici, kwĩima irio ti ũndũ mwega harĩ mũndũ ũtũũraga na mũrimũ wa kũriganĩrwo.** Irio iria ciagĩirwo nĩ kũrĩĩo no ihũthĩre o ũguo. Kũgarũrũka o guothe kwa mũtaratara wa kũrĩa wa mũndũ ũrĩ na mũrimũ wa kũriganĩrwo kwagĩrĩirwo nĩ gũtongorio nĩ ndagĩtarĩ wake kana mũtaarani wa irio.
 
-## What are the warning signs of poor eating or drinking?
+## Imenyithia cia kũrĩa kana kũnyua itakinyanĩire nĩ irĩkũ?
 
-Watch for:
+Roraga maũndũ maya:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Kũhũta mwĩrĩ**, kana nguo ikamũhũthĩka.
+- **Gũtiga irio thaani-inĩ kana kũrega kũrĩa**, kana kũiga irio kanua.
+- **Kũnoga kana kwaga hinya.**
+- **Kũmia nda**, ũndũ ũrĩa ũngĩnyiitanĩra na irio na kwaga maaĩ mwĩrĩ.
+- **Imenyithia cia kwaga maaĩ mwĩrĩ.** NIA ĩgwetaga kanua gũkũngũ, kũrũgarũga, ngoro kũgũa na ihenya, na kuona maũndũ matarĩ kuo, o namo mangĩrehekanwo nĩ mũrimũ wa kũriganĩrwo mwene ([NIA igũrũ rĩa mathĩna ma ũgima wa mwĩrĩ ma mũtaratara](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Kwaga wendi wa irio no kũgĩe na itũmi nyingĩ: magego marũaru kana magego ma gwĩkĩra marĩa matarũmĩte wega, dawa njerũ, kũigua ũkĩeha mũno, kũmia nda, kwaga wĩra mũingĩ wa mwĩrĩ, kana kũgarũrũka kwa ũrĩa mũndũ aiguaga cama na mũnungo. Ĩra ndagĩtarĩ wa mũndũ ũcio igũrũ rĩa imenyithia ici. No marore gĩtũmi na mahota gũtaarĩria mũndũ athiĩ kũrĩ mũtaarani wa irio kana aheo irio cia kũongerera hinya wa mwĩrĩ.
 
-## How can you help someone eat and drink enough?
+## Ũngĩteithia atĩa mũndũ arĩe na anyue kũiganu?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Heanaga irio nini na tũndũ tũnini twa kũrĩa kaingĩ**, handũ ha irio ithatũ nene.
+- **Heanaga irio iria endete mũno**, na wĩtĩkĩrie gũcenjia rĩrĩa wendi wa irio ũkũgarũrũka. Irio irĩ na cukari no ciendeke angĩkorwo ndendete irio; ũria ndagĩtarĩ angĩkorwo harĩ na itũmi cia ũgima wa mwĩrĩ cia kũnyiihia cukari.
+- **Ika indo cia kũnyua hakuhĩ nake** na ũmũheage tũkombe tũnini mũthenya wothe. Thũbũ, matunda, kĩndũ gĩa kũnyua gĩathondeketwo na matunda, na iria cia kũnyua o nacio nĩ itaragĩrio.
+- **Rĩanagĩrai hamwe** rĩrĩa kũhotekaga. Hĩndĩ ya irio nĩ mweke wa gũkorwo hamwe, ti wĩra wa kũhiũha.
+- **Geragia irio cia kũrĩa na moko**, ta sandwich, icunjĩ cia matunda kana icunjĩ cia nyama ya ngũkũ, angĩkorwo kũhũthĩra thubu na hũma nĩ kũmũritũhĩire.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Mũtaratara witũ wa [irio](/brain-health/diet/) ũrĩ na mĩbango ĩngĩ ya hĩndĩ ya irio. Kũteithĩrĩria kũhaarĩria irio no gũtuĩke mũira mwega wa gwĩkenia mũrĩ hamwe; rora [mawĩra ma mũciĩ](/activities/household-tasks/).
 
-## Talk with a doctor
+## Aria na ndagĩtarĩ
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Mbere ya kũgeria mũtaratara o wothe wa kwĩima irio, aria na ndagĩtarĩ waku kana mũtaarani wa irio, makĩria ũngĩkorwo ũrĩaga dawa cia mũrimũ wa cukari kana thakame ya mũtwe, nĩ ũhũtĩte mwĩrĩ ica ikuhĩ, kana nĩ ũgũĩte mbere ĩyo. Harĩ mũndũ ũtũũraga na mũrimũ wa kũriganĩrwo, ũria ndagĩtarĩ wake ũrĩa agĩrĩirwo nĩ kũrĩa na kũnyua mũthenya o mũthenya, handũ ha kũmũũria igũrũ rĩa kwĩima irio.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Caria ũteithio wa ndagĩtarĩ o narua harĩ kũmaka gwa o rĩmwe, gũkua nditi, kana imenyithia cia thakame gũkua mũno thĩ iria itarahora na ihenya.

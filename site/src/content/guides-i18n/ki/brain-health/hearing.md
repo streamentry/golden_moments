@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Kũigua na Ũgwati wa Dementia: Ūrĩa Ūtaũri Uonagia"
+seoTitle: "Kũigua na Dementia: Ūrĩa Ūtaũri Uonagia"
+description: "Kĩrĩa gĩtũmaga gũthirwo nĩ kũigua gũkorwo na ũgwati wa dementia, ũrĩa kĩgerio kĩa ACHIEVE kĩonanirie, na ũrĩa mũndũ angĩthimithia kũigua gwake."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Rĩboti ya Lancet Commission ya 2024 ĩtaga gũthirwo nĩ kũigua kĩmwe kĩa maũndũ marĩa manene
+  marĩa mangĩgarũrwo marĩa marĩ na ũgwati wa dementia. Kĩgerio-inĩ kĩa ACHIEVE, indo cia gũteithia
+  kũigua itiarigiririe kũnyiha kwa meciiria kũrĩ andũ othe, no gĩkundi kĩmwe kĩarĩ na ũgwati mũnene
+  kĩonanirie kũnyiha kũnini. Indo cia gũteithia kũigua no iteithie mĩario na mũtũũrĩre wa mũthenya
+  o na kũrĩ ũguo. Geria gũthimithia kũigua gwaku, wĩcũranie ũhoro wa indo cia gũteithia kũigua, na
+  waranĩrie na ndagĩtarĩ.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet Commission ĩtugaga atĩ gũthirwo nĩ kũigua gũkoragwo na gĩcunjĩ ta kĩa 7% kĩa dementia thĩ yothe, gĩkĩringana na gĩcunjĩ kĩrĩa kĩnene gatagatĩ-inĩ ka maũndũ 14."
+  - "Kĩgerio-inĩ kĩa ACHIEVE kĩa andũ akũrũ 977, indo cia gũteithia kũigua itiaagarũrire kũnyiha kwa meciiria gwa mĩaka ĩtatũ kũrĩ andũ othe."
+  - "Thĩinĩ wa gĩkundi kĩnini kĩarĩ na ũgwati mũnene kĩa ACHIEVE, kũnyiha kwa meciiria kwarĩ kũnini na gĩcunjĩ kĩa 48% harĩ arĩa maahũthagĩra indo cia gũteithia kũigua; ũndũ ũyũ no nginya ũkinyithio."
+  - "Kuuma Mweri wa ikũmi 2022, andũ akũrũ a US arĩa meciiragia atĩ marĩ na thĩĩna mũnini kana wa gatagatĩ wa kũigua no magũre indo cia gũteithia kũigua iroragwo nĩ FDA matarĩ na marũa ma ndagĩtarĩ."
+  - "Gũthirwo nĩ kuona kũtarĩ gũtũmĩrwo kwongerirwo kĩrĩ maũndũ ma ũgwati wa dementia mwaka-inĩ wa 2024, nĩ ũndũ ũcio gũthimithia maitho nĩ kwa bata o naguo."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Indo cia gũteithia kũigua nĩ igiragĩrĩria dementia?"
+    a: "Ũndũ ũcio ndũrĩ wonekithanio. Kĩgerio kĩa ACHIEVE gĩtionire ũgarũrũku kũrĩ andũ othe thutha wa mĩaka ĩtatũ, o na gũtuĩka gĩkundi kĩmwe kĩarĩ na ũgwati mũnene kĩonanirie ũndũ mwega. No gũkorwo arĩ wega gwĩcũrania ũhoro wa indo cia gũteithia kũigua tondũ nĩ iteithagia mĩario, ũgitĩri na mũtũũrĩre wa o mũthenya gũkorwo mĩhũthũ."
+  - q: "Nũũ ũngĩgũra indo cia gũteithia kũigua itarĩ na marũa ma ndagĩtarĩ?"
+    a: "FDA nĩ ĩrekagĩrĩria andũ akũrũ a mĩaka 18 na makĩria arĩa meciiragia atĩ marĩ na thĩĩna mũnini kana wa gatagatĩ wa kũigua kũgũra indo cia gũteithia kũigua matarĩ na marũa ma ndagĩtarĩ mũthĩithũ-inĩ kana thĩinĩ wa intaneti. Itiagĩrĩire andũ arĩa marĩ na thĩĩna mũnene wa kũigua. Mũndũ o wothe ũrĩ na ruo rwa gũtũ, maaĩ kuuma gũtũ, kĩruru kana ũgarũrũku wa narua wa kũigua no nginya one ndagĩtarĩ mbere ya ũguo."
+  - q: "Gũthirwo nĩ kũigua no kuonekane ta dementia?"
+    a: "Mahinda mangĩ ĩĩ. National Institute on Aging yugaga atĩ andũ akũrũ arĩa matiguaga wega mahinda mangĩ meciiragio mahĩtĩtie meciiria kana atĩ matiendaga gũteithania, no ũndũ ũcio ti guo. Gũthimithia kũigua nĩ ikinya rĩega rĩa kwambĩrĩria rĩrĩa mũndũ ekwoneka ta arakweherera andũ kana ta ararahĩtĩrwo nĩ ũrĩa kwario."
+  - q: "Andũ akũrũ magĩrĩirwo nĩ gũthimithia maitho maita maigana atĩa?"
+    a: "National Institute on Aging ĩtaaraga atĩ maitho magĩrĩirwo nĩ gũthimithio maita o mwaka kana mĩaka ĩĩrĩ thutha wa mĩaka 60, kana o ta ũrĩa mũndũ wa maitho angĩkwĩra. Andũ arĩa marĩ na mũrimũ wa thukari kana thakame ya mũingĩ kaingĩ mabataraga gũthimithio o mwaka."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,93 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Gũthirwo nĩ kũigua nĩ ũndũ wa kawaida hĩndĩ ya ũkũrũ, na andũ arĩa mataaragia maũndũ ma ũtaũri monaga ũrĩ na ũgwati wa dementia. Ũndũ ũcio ndũtũmaga indo cia gũteithia kũigua ciĩkwo ũrĩ njĩra ĩrĩ na ũhoro mũkinyanĩru wa kũgirĩrĩria dementia; kĩgerio kĩrĩa kĩega mũno nginya rĩu kĩarĩ na maciaro matarĩ amwe. Gĩcunjĩ gĩkĩ nĩ kĩtaarĩirie ũrĩa ũtaũri uonagia, ũrĩa mũndũ angĩthimithia kũigua gwake, ũrĩa indo cia gũteithia kũigua cia kũgũrwo itarĩ na marũa ma ndagĩtarĩ irĩ US, na ũrĩa mũngĩaranĩria na ũhũthũ.
 
-## Why does hearing matter for brain health?
+## Nĩ kĩĩ gĩtũmaga kũigua gũkorwo na bata harĩ ũgima wa meciiria?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Gũthirwo nĩ kũigua kuohanĩtio na ũgwati mũnene wa gũkorererwo nĩ dementia. [Lancet Commission ya 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ĩtugaga atĩ gũkoragwo na gĩcunjĩ ta kĩa 7% kĩa dementia thĩ yothe. Ũndũ ũcio ũringanagia na thakame ya LDL ĩrĩa ĩrĩ igũrũ harĩ gĩcunjĩ kĩrĩa kĩnene gatagatĩ-inĩ ka maũndũ 14 marĩa mangĩgarũrwo thĩinĩ wa mũhiano wa Commission, kũringana na [mũhtasari wa rĩboti ya UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Maũndũ manene kuuma kũrĩ Commission:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Ũgwati mũnene rĩrĩa mũndũ athirwo nĩ kũigua.** Thĩinĩ wa gũcũũrania kwao kwa ũtaũri mwega ĩtandatũ, andũ arĩa maathirwo nĩ kũigua maarĩ na ũgwati mũnene ta wa gĩcunjĩ kĩa 37% wa gũkorererwo nĩ dementia gũkĩra andũ arĩa maiguaga wega.
+- **Gũthirwo nĩ kũigua kũingĩha, ũgwati ũkongerereka.** Ũtaũri ũrĩa warorire ũrĩa thĩĩna ũnenehete wonanirie atĩ ũgwati wongererekaga o ta ũrĩa kũigua kwarĩ kũũru mũno.
+- **Itũmi iria ingĩkorwo ho, no itirĩ cionekithanio.** Meciiria mamwe nĩ hamwe na kwĩyamũra na gũtigwo wiki, kĩeha, gũthirwo nĩ maũndũ ma gũkĩra meciiria, na wĩra mũnene ũrĩa meciiria ihũthagĩra rĩrĩa mũndũ egeragia gũthikĩrĩria.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Gũthirwo nĩ kũigua nĩ ũndũ wa kawaida. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) yugaga atĩ gĩcunjĩ ta kĩmwe kĩa ithatũ kĩa andũ akũrũ kĩrĩ na thĩĩna ũyũ, na mweke wonekaga mũingĩ rĩrĩa mũndũ akũraga.
 
-## What did the ACHIEVE hearing aid trial find?
+## Kĩgerio kĩa ACHIEVE gĩa indo cia gũteithia kũigua kĩonanirie atĩa?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE nĩkĩo kĩarĩ kĩgerio kĩa mbere kĩa kũgerania indo cia gũteithia kũigua na kũnyiha kwa meciiria. Kaingĩ maciaro makĩo maheanagwo na njĩra ĩtarĩ ĩrĩa yagĩrĩire, nĩ ũndũ ũcio haha nĩ maũndũ kuuma [rĩboti-inĩ rĩrĩa rĩandĩkĩtwo](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Arĩa maanyiitanĩire:** Andũ akũrũ 977 a mĩaka 70 nginya 84 arĩa maarĩ na thĩĩna wa kũigua ũtarĩ ũtũmĩrwo na matarĩ na thĩĩna mũnene wa meciiria, kũndũ kũna kwa mĩtũũrĩre ya US.
+- **Ũrĩa kwageranirio:** Nuthu ya andũ nĩ maaheirwo indo cia gũteithia kũigua hamwe na kĩrĩra kĩa ũtaaro kuuma kũrĩ mũtaũri wa kũigua. Nuthu ĩyo ĩngĩ nĩ yathomithirio ũhoro wa ũgima wa ũkũrũ.
+- **Maciaro manene:** Thutha wa mĩaka ĩtatũ, **gũtiarĩ na ngũũrani** ya kũnyiha kwa meciiria gatagatĩ-inĩ ka ikundi cierĩ.
+- **Maciaro ma gĩkundi kĩmwe:** Kĩgerio kĩoyire andũ kuuma kũndũ kũerĩ. Andũ 238 moimire ũtaũri-inĩ mũraihu wa ũgima wa ngoro (ARIC), na hamwe maarĩ na ũgwati mũnene wa kũnyiha kwa meciiria. Thĩinĩ wa gĩkundi gĩkĩ, kũnyiha kwa meciiria kwarĩ **kũnini na gĩcunjĩ kĩa 48%** harĩ arĩa maahũthĩrire indo cia gũteithia kũigua. Gatagatĩ-inĩ ka arĩa 739 a mĩtũũrĩre arĩa maarĩ na ũgima mwega, gũtiarĩ na ũgarũrũku ũrĩa wonekire wega.
 
-How to read this honestly:
+Ũrĩa ũngĩthoma ũhoro ũyũ na ma:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Icokia rĩrĩa inene rĩarĩ atĩ gũtiarĩ na ũgarũrũku.
+- Ũhoro wa gĩkundi kĩu wathugundĩtwo mbere, no woimire gũcũũrania-inĩ kwa keerĩ kwa gĩkundi kĩnini. No nginya ũkinyithio nĩ ũtaũri ũngĩ.
+- Arĩa maanyiitanĩire nĩ mooĩ ũrĩa mũbango maarĩ thĩinĩ waguo, na ũndũ ũcio no ũhutie maciaro.
+- Lancet Commission ĩonaga ũira ũyũ ũkionania atĩ indo cia gũteithia kũigua cionekaga iteithagia mũno andũ arĩa marĩ na thĩĩna wa kũigua hamwe na maũndũ mangĩ ma ũgwati wa dementia.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Ũhoro mũnene nĩ atĩ indo cia gũteithia kũigua ti njĩra ĩrĩ na ũhoro mũkinyanĩru wa kũgirĩrĩria dementia. No iteithie andũ kũigua, gũtaranĩria mĩario-inĩ na gũikara marĩ hamwe na arĩa angĩ, na ũndũ ũcio wiki nĩ itũmi rĩega rĩa kũmeciirania.
 
-## How do I know if hearing should be checked?
+## Nĩngĩmenya atĩa kana kũigua kwagĩrĩirwo nĩ gũthimithio?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA ĩtaaraga kuonana na ndagĩtarĩ angĩkorwo wee kana mũndũ ũrĩa ũroraga:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Nĩ arĩ na thĩĩna wa gũtaũkĩrwo nĩ andũ rĩrĩa marĩ thimũ-inĩ
+- Nĩ amũũkagĩrwo nĩ kũrũmĩrĩra mĩario rĩrĩa andũ eerĩ kana makĩria mararia
+- Kaingĩ nĩ ooragia andũ macookie ũrĩa moiga
+- Nĩ ambatagia TV na mũgambo mũnene nginya arĩa angĩ makanye
+- Nĩ amũũkagĩrwo nĩ gũtaũkĩrwo nĩ ciugo harĩ na inegene
+- Eciiragia atĩ andũ arĩa angĩ nĩ maranungʼuna
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Ambĩrĩria na ndagĩtarĩ wa mũciĩ, ũrĩa ũngĩgũtwara kũrĩ mũtaũri wa kũigua kana ndagĩtarĩ wa gũtũ, iniũrũ na mũmero. Gĩko gĩa gũtũ nĩ gĩtũmi kĩmwe kĩa kawaida kĩa thĩĩna wa kũigua kĩrĩa ndagĩtarĩ angĩrora. **Gũthirwo nĩ kũigua o narua nĩ ũndũ wa kũhiũha wa ũgima**, na NIA ĩtaaraga kuonana na ndagĩtarĩ o narua.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Gũthirwo nĩ kũigua no kuonekane ta kũhĩtia meciiria. NIA yugaga atĩ andũ akũrũ arĩa matiguaga wega mahinda mangĩ meciiragio mahĩtĩtie meciiria, matiacookagia kana matiendaga gũteithania. Angĩkorwo mũndũ ũrĩa wendete ekwoneka ta arakweherera andũ kana ta ararahĩtĩrwo nĩ ũrĩa kwario, gũthimithia kũigua nĩ ikinya rĩega rĩa kwambĩrĩria.
 
-## What are over-the-counter hearing aids?
+## Indo cia gũteithia kũigua cia kũgũrwo itarĩ na marũa ma ndagĩtarĩ nĩ irĩkũ?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Kuuma Mweri wa ikũmi mũthenya wa 17, 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) nĩ yetĩkĩririe mũthemba wa indo cia gũteithia kũigua cia kũgũrwo itarĩ na marũa ma ndagĩtarĩ (OTC). Haha nĩ ũrĩa ikũranĩtio na iria cia marũa ma ndagĩtarĩ:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Ũhoro | Indo cia OTC | Indo cia marũa ma ndagĩtarĩ |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Irĩ cia andũ arĩkũ | Andũ akũrũ a mĩaka 18 na makĩria arĩa meciiragia atĩ marĩ na thĩĩna mũnini kana wa gatagatĩ wa kũigua | Mũndũ o wothe, o na arĩ na thĩĩna mũnene, wa mĩaka o yothe |
+| Kũrĩa ingĩgũrwo | Mũthĩithũ-inĩ kana thĩinĩ wa intaneti, hatarĩ gũthimithio kana marũa ma ndagĩtarĩ | Kũgerera mũndũ wa wĩra wa ũgima wa kũigua wĩtĩkĩrĩtio |
+| Kũmĩharĩria | Wee mwene nĩwe ũmĩrũgaga, kaingĩ na mbũkũ ya thimũ | Mũndũ wa wĩra nĩamĩrũgagĩra kũringana na kũigua gwaku |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA yugaga atĩ indo cia OTC itiumanĩirio na thĩĩna mũnene mũno wa kũigua. Ĩtaaraga kuonana na ndagĩtarĩ, makĩria ndagĩtarĩ wa gũtũ, iniũrũ na mũmero, mbere ya kũgũra angĩkorwo ũrĩ na:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Ruo kana ũrũrũ gũtũ
+- Maaĩ, ira kana thakame kuuma gũtũ ihinda rĩa mĩeri ĩtandatũ mĩhĩtũku
+- Ũgarũrũku wa kũigua wa narua kana ũrĩa ũcenjagia
+- Kũigua kũũru mũno gũtũ kũmwe, kana kũgamba gũtũ kũmwe kwoka
+- Kĩruru kana kuonwo ta thĩ ĩkũhiũha
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Kũmenyera indo cia gũteithia kũigua nĩ kubataraga ihinda na kwĩruta, nĩ ũndũ ũcio rora mũtaratara wa gũcookia indo mbere ya kũgũra, o ta ũrĩa FDA ĩtaaraga. NIA ĩtaaraga kũũria kana inishua yaku ĩrĩhaga gĩcunjĩ kĩa thogora. Harĩ mũndũ ũrĩa ũtũũraga na dementia, mũtaũri wa kũigua no ateithie gũthuura mũthemba wa indo na ũrĩa ingĩharĩrio wega nĩguo ikorwo irĩ hũthũ kũmĩrũgamĩrĩra o mũthenya.
 
-## How can I talk more easily with someone who has hearing loss?
+## Nĩngĩhota atĩa kwaranĩria na ũhũthũ na mũndũ ũrĩa ũrĩ na thĩĩna wa kũigua?
 
-The NIA suggests:
+NIA ĩtaaraga:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Rora mũndũ ũcio na ũikare ũmũcũthĩrĩirie maitho**, harĩ na ũtheri mwega, nĩguo one mĩromo na ithiithi ciaku.
+2. **Caria handũ hatarĩ na inegene.** Horia TV kana weherere harĩ na inegene.
+3. **Aria na mũgambo mũnene hanini, no ndũkanĩrĩre.** Aria o ta kawaida na kahora gakĩiganĩire.
+4. **Tiga kanua gaku gakorwo hatarĩ kĩndũ.** Ndũkanarĩe, ndũkanatũnye ũgũmbi kana ũhumbĩre kanua rĩrĩa ũraaria.
+5. **Geria kuuga na njĩra ĩngĩ handũ ha gũcokia ciugo o icio** rĩrĩa ũndũ ũtagĩkuo.
+6. **Mũndũ ũmwe na ihinda rĩmwe.** Rĩrĩa mũrĩ gĩkundi-inĩ, geria kũingĩria mũndũ ũcio mĩario-inĩ.
+7. **Gĩa na wetereri na ũmũũrie ũrĩa ũngĩmũteithia.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Mataaro maya mekũranaga wega na [mataaro maitũ ma kwaranĩria na mũndũ ũrĩ na dementia](/caregiving/communication-tips/). Mawĩra marĩa mahũthagĩra mĩhiano no mateithie kũnyiihia kĩgitĩ kĩa gũthikĩrĩria. [Picture Pairs](/games/picture-pairs/) na [Conversation Cards](/games/conversation-cards/) marutaga wĩra na ũndũ ũrĩa ũronekaga, na [Finish the Saying](/games/finish-the-saying/) nĩ wĩtĩkagĩria mũndũ onanie mũthia handũ ha kũwarĩria. Nĩ ũndũ wa mehĩtwa ma thimũ, rora kĩrĩra giitũ kĩa [mehĩtwa ma thimũ na ma video](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Kuona nĩ kwa bata o nakuo
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Mwaka-inĩ wa 2024 Lancet Commission nĩ yongereire gũthirwo nĩ kuona kũtarĩ gũtũmĩrwo ta ũndũ mwerũ wa ũgwati. Mũhtasari wa UCL ũtugaga atĩ nĩ ta gĩcunjĩ kĩa 2% kĩa matukũ ma dementia, na Commission ĩtaaraga atĩ gũthimithia na gũtũma thĩĩna wa maitho kũgĩe na ũteithio kwagĩrĩirwo nĩ gũkorwo kũrĩ ho kũrĩ andũ othe. [NIA ĩtaaraga](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) maitho magĩrĩirwo nĩ gũthimithio maita o mwaka kana mĩaka ĩĩrĩ thutha wa mĩaka 60, na ningĩ gũthimithia marũa ma icicio. O na tũgarũrũku tũnini twa kuona no twongerere mweke wa kũgwa.
 
-## Talk with a doctor
+## Aranĩria na ndagĩtarĩ
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Ũria ndagĩtarĩ ũhoro wa gũthimithia kũigua na kuona angĩkorwo nĩ wonete rũũri o ruothe rwa iria ciugĩtwo igũrũ. Caria ũteithio o narua angĩkorwo nĩ ũthirwo nĩ kũigua o narua, ruo rwa gũtũ, kana maaĩ kuuma gũtũ. Angĩkorwo ũroraga mũndũ ũrĩa ũtũũraga na dementia, ĩra ndagĩtarĩ wake ũhoro wa ũgarũrũku wa kũigua kana kuona, tondũ no ũhutie ngoro, ũgitĩri na ũrĩa mũndũ ũcio angĩhota gũtaranĩria na arĩa angĩ.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Gĩcunjĩ gĩkĩ nĩ ũhoro wa kũmenyithania tu, ti ũtaaro wa ndagĩtarĩ. Rora [kĩmenyithia giitũ kĩa ũhoro wa ũgima](/medical-disclaimer/). Thoma makĩria ũhoro wa [kũgĩa na ngwatanĩro na arĩa angĩ na ũgima wa meciiria](/brain-health/social-connection/).

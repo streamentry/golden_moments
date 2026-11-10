@@ -1,9 +1,10 @@
 # Game text and content, per language
 
-The 12 browser games read all their words from here. `en.json` is the English
-source. A translation is `<code>.json` in this folder, named with a code from
-`LOCALES` in `../locales.ts` (for example `es.json`, `pt-BR.json`, `ar.json`,
-`vi.json`).
+The 12 browser games read their words from here. The mobile app's exporter also
+reads the `illustrations` names from these files to build screen-reader labels
+for its bundled pictures. `en.json` is the English source. A translation is
+`<code>.json` in this folder, named with a code from `LOCALES` in
+`../locales.ts` (for example `es.json`, `pt-BR.json`, `ar.json`, `vi.json`).
 
 `../play.ts` merges a translation over English key by key, so a missing key shows
 English rather than nothing. **Arrays are replaced whole**: if you give
@@ -40,7 +41,8 @@ member or carer. Write plain, warm, adult language.
 | Key | How many | What it is |
 | --- | --- | --- |
 | `ui` | 189 strings in 16 sections | Guidance, buttons, chips, live messages, labels, print headings |
-| `pictures` | 33 names | One name per picture id (list below) |
+| `pictures` | 83 names | One name per drawing id (list below) |
+| `illustrations` | 100 names | One short spoken label per mobile-only raster illustration id, copied from `assets/images/illustrations/manifest.json` |
 | `content.sayings` | at least 30; aim for 40–50 (English has 50) | Finish the saying |
 | `content.wordSearch` | `fill` + at least 4 themes (English has 6) × at least 6 words (English has 9) | Word search |
 | `content.conversation` | 9 theme labels + at least 2 cards per theme (English has 43 cards) | Conversation cards |
@@ -87,17 +89,19 @@ member or carer. Write plain, warm, adult language.
 
 ### `pictures`
 
-A short, concrete name for each drawing (look at `/pictures/<id>.svg` on the
-site): `teacup`, `kettle`, `bread` (loaf of bread), `frying-pan` (with an egg),
-`cake` (birthday cake), `sunflower`, `tulip` (red), `watering-can`,
-`potted-plant`, `tree`, `bird` (robin on a branch), `butterfly`, `dog`, `cat`,
-`fish` (goldfish), `apple` (red), `pear`, `strawberry`, `banana`, `lemon`,
-`cherries`, `house`, `lamp` (table lamp), `armchair`, `key` (old key),
-`umbrella`, `sailboat`, `car` (classic car), `bicycle`, `balloon` (hot air
-balloon), `lighthouse`, `sun`, `moon` (moon and stars).
+A short, concrete name for each of the 83 hand-drawn pictures in
+`site/src/data/pictures.ts`. The ids are the filenames under `/pictures/`.
+Names are read aloud as tile labels ("Teacup, tile 3"), so use the everyday
+noun people would say first.
 
-Names are also read aloud as tile labels ("Teacup, tile 3"), so start with
-the noun people would say first.
+### `illustrations`
+
+Short labels for the 100 raster illustrations listed in
+`assets/images/illustrations/manifest.json`. These are used by the mobile app's
+screen-reader labels; the exporter combines them with the hand-drawn picture
+names. Use one familiar, concrete name per id. Keep distinguishing details
+such as "wooden", "old" or "with a lid" when they make the picture clearer.
+These labels are machine-made until a native speaker reviews them.
 
 ### `content.sayings` (Finish the saying)
 

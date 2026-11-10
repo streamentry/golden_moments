@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Gũthaka na Mũndũ Ũrĩ na Ũrimũ wa Kwaga Kũririkana"
+description: "Mĩtaratara ya gũteithia gũthaka na mũndũ ũrĩ na ũrimũ wa kwaga kũririkana: kwĩhaarĩria, gũthiĩ kahora, gũtiga kũrũngia mahĩtia, kũhũthia mũthako, na kũmenya rĩrĩa mũngĩtiga."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Ona mũthako ta ihinda rĩa gũikarania, ti kĩgeranio. Thuura ihinda rĩa thayũ
+  mũthenya-inĩ, ikarai mwena-inĩ wa ũmwe nyũmba ĩtarĩ na inegene, na ũmũhe
+  mũthako ũmwe mũhũthũ. Reke mũndũ ũcio athuure mĩthiĩre, ndũkanarũngie mahĩtia
+  matarĩ ũũru, hũthia mũthako rĩrĩa wonaga kwĩ na thĩĩna, na hũthĩra mbica ta
+  njĩra ya kwambĩrĩria kwaria. Tiganai rĩrĩa maũndũ mekũendeka wega. Gũtiga
+  tene, kana o kũrora hamwe, nĩ ũndũ mwega.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Muoroto nĩ gũkena na gũkorwo hamwe, ti kũrĩkia kana gũcokia macokio marĩa magĩrĩire."
+  - "Amba kwĩhaarĩria: nyũmba ĩtarĩ na inegene, ũtheri mwega, ngirathi na indo cia kũigua ciĩkĩrĩirwo, TV ĩhorie, mũthako ũmwe ũhaarĩirio."
+  - "Ndũkanarũngie mahĩtia matarĩ ũũru. Uga “Reke tũgerie ũũ” kana ũthiĩ o na mbere."
+  - "Hũthia mũthako mbere ya mũndũ kũrakara: mbica nini, mĩthuthurire mĩnini, kana mbica irĩ o ho."
+  - "Hũthĩra mbica ta njĩra ya kwambĩrĩria ng’ano na ciũria ta “Ta nyita ũhoro wa...” handũ ha “Nĩũririkanaga...?”"
+  - "Tiganai rĩrĩa kwambĩrĩria kuoneka mĩnyamaro ya kũnoga kana kũrakara. Gũtiga tene nĩ ũhootani, ti kũrema."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Twagĩrĩirwo nĩ gũthaka ihinda rĩigana atĩa?"
+    a: "Gũtirĩ ihinda rĩrĩa rĩagĩrĩire. Kũrĩ andũ aingĩ, ndagĩka nini nĩ nyingĩ, na mĩthenya ĩmwe ihinda rĩmwe riothe nĩ rĩiganĩte. Rora mũndũ ũcio handũ ha kũrora thaa, na mũtige rĩrĩa arĩ o ũhooreire."
+  - q: "Nĩ wega ndĩreke ahoote kana njĩtue ta ndionete mahĩtia?"
+    a: "Mũthako-inĩ wa hamwe ũtarĩ na ũritũ, gũtirĩ kũhoota kana kũhootwo. Angĩkorwo ihĩtia rĩtirakũmũthĩĩnia, tiga rĩhĩtũke. Angĩkorwo nĩrĩkũmũthĩĩnia, mũteithie kahora kana ũhũthie mũthako ũtekũmuonia ihĩtia rĩu."
+  - q: "Atĩrĩrĩ, angĩkorwo nĩendete kũnyona ngĩthaka?"
+    a: "Ũguo nĩ wega. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yugaga atĩ no ũreke mũndũ arorage tu angĩkorwo nĩakenagio nĩ ũguo. Arĩrĩriai ũrĩa mũrona na mũmũĩre onanie kana athuure rĩrĩa ekwenda."
+  - q: "Methaya ĩno nĩ ya kũgeria ũhoti wa kũririkana?"
+    a: "Aca. Metha cia Golden Moments nĩ maũndũ mahũthũ ma gũikarania nĩguo mũkene na mwaranĩrie. Ti kĩgeranio kĩa kũririkana, itithimaga kĩndũ, na ti ũrigitani wa ũrimũ wa kwaga kũririkana."
+  - q: "Nĩ mũthako ũrĩkũ mwega wa kwambĩrĩria naguo?"
+    a: "Ambĩrĩria na mũthako mũhũthũ mũno ũrĩa wagĩrĩire mũndũ ũcio. [Picture Pairs](/games/picture-pairs/) na tũbica 4 tũrĩ o ho, kana [Find the Same](/games/find-the-same/) na mĩthuthurire ĩĩrĩ, nĩ njĩra njega cia kwambĩrĩria. [Conversation Cards](/games/conversation-cards/) nĩ njega mũndũ angĩkorwo nĩendete kwaria gũkĩra kũhũthũra."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Mũthako mwega na mũndũ ũrĩ na ũrimũ wa kwaga kũririkana ndũhaana ta kĩhoti. Ũhaana ta andũ eerĩ maikarĩte hakuhĩ, makĩonania mbica, magĩtheka thimo, na makĩaria ũrĩa wothe ũkũũka. Mũthako no kĩndũ kĩa kũmũhe mweke wa gũikarania hamwe.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Mũtaratara ũyũ ũronania ũrĩa mũngĩĩhaarĩria, ũrĩa mũngĩthiĩ kahora, ũrĩa mũkwaria rĩrĩa kũndũ „gũtathiĩ wega“, ũrĩa mũngĩhũthia mũthako wothe kana ũmũritũhie hanini, ũrĩa mũngĩhũthĩra mũthako kwambĩrĩria kwaria, na ũrĩa mũngĩmenya rĩrĩa mũngĩtiga. Ũtũmaga ũhũthĩke na [metha ciitũ](/games/) na mabataro, ma-puzzle, na metha ingĩ cia mũrĩ-inĩ iria mũrĩ nacio.
 
-## What is the best way to play a game with someone who has dementia?
+## Njĩra ĩrĩa njega ya gũthaka na mũndũ ũrĩ na ũrimũ wa kwaga kũririkana nĩ ĩrĩkũ?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Ĩkĩrai meciiria kũndũ kwa gũkena, ti kũhota maũndũ. Ũcio nĩ ũtaaro mũnene kuuma kũrĩ [mataaro ma Alzheimer’s Association ma maũndũ ma gũthaka](https://www.alz.org/help-support/caregiving/daily-care/activities): rũmĩrĩrai maũndũ marĩa mũndũ no ahote gwĩka, mũteithiei kwambĩrĩria, inyuĩ mũrĩkie maũndũ marĩa maritũ, na mũtikanamũkararie kana kũrũngia maũndũ matarĩ na ũũru.
 
-In practice that means:
+Ũndũ ũcio ũgũteithia atĩa:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Ikarai mwena-inĩ wake, ti mwena ũrĩa ũngĩ.** Mũngĩikara mwena-inĩ ũmwe, inyuothe no muone kĩonere kana metha, na gũteithania gũtuĩkaga ta gũteithania hamwe, ti ta kũmũrorera.
+- **Mũmũhe mũthako ũmwe ihinda rĩmwe.** Mĩthuthurire mĩingĩ no ĩtũme onaga ta nĩ kĩgeranio mbere ya kwambĩrĩria.
+- **Rũmagĩrĩrai mĩthiĩre yake.** Angĩkorwo nĩendete kũhũthũra mbica na njĩra yake mwene, kwaria ũhoro wa mbica ĩmwe ndagĩka ikũmi, kana gũtiga thuutha wa maita meerĩ, ũcio nĩguo mũthako wa ũmũthĩ.
+- **Tarai maũndũ mega, ti maita marĩa mũrĩkĩtie.** Mĩtheko, rũgano, kana ihinda rĩa thayũ nĩcio mũracaria.
 
-## How do I set up before we start?
+## Ndingĩĩhaarĩria atĩa mbere ya kwambĩrĩria?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Kwĩhaarĩria ndagĩka nini nĩkũgiragia thĩĩna mũingĩ ũrĩa andũ aingĩ mathiaga moigaga nĩ mũthako ũrehete.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Thuura ihinda rĩrĩa rĩega mũno harĩ we.** [Mataaro ma National Institute on Aging (NIA) ma gũcenjia maũndũ ma gũthaka](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) monanagia atĩ nĩ wega kũbanga maũndũ ma gũthaka ihinda rĩrĩa mũndũ arĩ na hinya na akĩiguaga wega. Kũrĩ andũ aingĩ nĩ rũciinĩ gatagatĩ. Hwaĩ-inĩ no kũrĩtũhie; rora [maũndũ ma thayũ ma hwaĩ-inĩ](/caregiving/late-day-restlessness/).
+2. **Tũma nyũmba ĩgĩe na thayũ.** Horia TV na redio na ũhinge mũrango angĩkorwo no ũhote. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ĩtaaraga kũnyiihia inegene na maũndũ marĩa mangĩmũtindĩkĩra mbere ya kwambĩrĩria kwaria.
+3. **Rora wega wake mbere.** Maaĩ hakuhĩ, gũthiĩ kĩoro mbere, gĩtĩ kĩega, na ngirathi na indo cia kũigua ciĩkĩrĩirwo.
+4. **He nyũmba ũtheri mwega.** Ũtheri mwega ũtarĩ na kĩeha kĩonere-inĩ ũtũmaga mbica cionekage wega.
+5. **Haarĩria mũthako mbere ya gũikara thĩ.** Ũhingũre, ũthuure mĩtugo na ũige mũgambo we mwene. Ũcooke ũgarũre kĩonere kũrĩ we. Nĩ ũndũ wa mataaro makĩoni, rora [kwĩhaarĩria kĩonere kana thimũ](/caregiving/tablets-and-screens/).
+6. **Rũgamia kĩonere.** Kĩrũgamio kana kĩhako gĩtũmaga kĩonere kĩrũgame, na gũtirĩ mũndũ ũgaacĩnyiita, na nĩ ũhũthũ gũkĩonania.
 
-## How do I invite them without pressure?
+## Ndingĩmwĩra atĩe tũthake hatarĩ kũmũhatĩka?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Mwĩre na njĩra ĩhũthũ na ĩrĩa ĩrĩ hotithĩirie kũrega. Ciugo imwe iria ciagĩrĩire:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- „Nĩnyonete mbica cia mũgũnda. Nĩũkwenda tũcirorage hamwe?“
+- „No ũndeithie na mũthako ũyũ? Ndiraigua ũrĩa ngwĩka.“
+- „Ũkwenda mahũa kana nyoni ũmũthĩ?“ (gũthuura gatagatĩ ka maũndũ meerĩ nĩ ũhũthũ gũkĩra kĩũria kĩrĩa kĩhingũrĩte)
+- „Ndĩreharĩria karatathi ka mwarĩ wa maitũguo. Rangi ũrĩkũ twagĩrĩirwo nĩ kũhũthĩra haha?“
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer’s Association ĩtaaraga gũtaarĩria gĩtũmi kĩa ũndũ ũcio, ta kũharĩria karatathi ka mũrata, tondũ gĩtũmi kĩheanaga bata. Kũhooya ũteithio o nako nĩ kwega tondũ nĩ gũtũmaga mũndũ aiguage arĩ wa bata.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Angĩrega, ĩtĩkĩra. Geria rĩngĩ thuutha kana ũmũhe ũndũ ũngĩ. Mũtaratara witũ wa [ũrĩa ũngĩĩka angĩrega](/caregiving/when-they-say-no/) nĩũrĩ na ũhoro ũngĩ.
 
-## How long should a game last, and how fast should we go?
+## Mũthako wagĩrĩirwo nĩ gũikara ihinda rĩigana atĩa, na tũthiĩ na ihenya rĩigana atĩa?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Reke mũndũ ũcio athuure mĩthiĩre, na ũbange mahinda makuhĩ. Gũtirĩ ihinda rĩrĩa rĩonanĩtio nĩ ũtaũku atĩ nĩrĩo rĩega mũno harĩ mũthako wa hamwe. Ndagĩka igĩrĩ nginya ithano cia thayũ no ituĩke mũthako mũiganu.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Eterera gũkĩra ũrĩa ũkuona ta nĩ kawaida.** NIA ĩtaaraga kũheana ihinda rĩingĩ nĩguo mũndũ acokie na kũgeria kwaga kũmũtigithĩria. Tara nginya ikũmi na meciiria mbere ya kũmũteithia.
+- **Ĩka ũndũ ũmwe ihinda rĩmwe.** Heana mũtaaro ũmwe mũhũthũ („Hũthũra mbica“), ũcooke weterere. Onania handũ ha gũtaarĩria: onania harĩa angĩhũthũra.
+- **Tiganai kahora.** Angĩrũgama kwaria ũhoro wa mbica, mũthako no weterere. Gũtirĩ bata wa kwĩhĩka.
+- **Reke arorage.** NIA yugaga atĩ andũ amwe nĩmendete kũrora, na ũguo nĩ mũthuthurire mwega.
 
-## Should I correct wrong answers?
+## Nĩ ngũrũngia macokio mahĩtanu?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Aca. Kũmũrũngia kahora maita maingĩ nĩ ta kũmwĩra atĩ nĩararema, o na rĩrĩa ũrenda kũmũteithia. Alzheimer’s Association ĩtaaraga kwaga kũmũkararia kana kũrũngia maũndũ matarĩ na ũũru. Mũthako-inĩ, mahĩtia makĩria mothe matarĩ na ũũru.
 
-| Instead of | Try |
+| Handũ ha kuuga | Geria kuuga |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| „Aca, ti wega.“ | „Reke tũgerie ũũ.“ (kĩonereria kĩa NIA) |
+| „Icio ti ciiganaine. Rora rĩngĩ.“ | Ndũkoige ũndũ na ũthiĩ na mbere, kana „O, icio cierĩ nĩ ndune.“ |
+| „Nĩũririkanaga ũyũ nũũ?“ | „Ta nyita ũhoro wa mbica ĩno.“ |
+| „Ũcio nĩũrĩkĩtie kũwĩka.“ | „Ũcio nĩ mwega. Reke tũwĩke rĩngĩ.“ |
+| „Ũka, ũcio nĩũũĩ.“ | „Nĩũkwenda ngonanie mũthia?“ |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Angĩkorwo ihĩtia nĩrĩkũmũrakaria, mũteithie kahora. Onania mbica ĩrĩa ĩagĩrĩire, ĩka ihinda rĩaku wee mwene, kana ũhũthie mũthako ihinda rĩrĩa rĩngĩ. Thimo ĩngĩgĩa na mũthia mũgeni wa gũthekania, thekai hamwe. Mũthia wake no ũkorwo ũrĩ mwega gũkĩra.
 
-## How do I make a game easier or harder?
+## Ndingĩhũthia mũthako atĩa kana ndĩmũritũhie hanini?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Cenjia mũthako kũringana na mũndũ ũcio mũthenya ũcio, ti kũringana na rũgano rwa ũrĩa ũrimũ ũhaana. Mũndũ ũcio no abataire mũthako mũhũthũ mũno hwaĩ-inĩ gũkĩra rũciinĩ. Ũtaaro wa mbere wa NIA nĩ kũringania mũthako na ũrĩa mũndũ angĩhota gwĩka na kuona atĩ nĩekũigua ahootete.
 
-| Game | Make it easier | Make it a little harder |
+| Mũthako | Ũmũhũthie | Ũmũritũhie hanini |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Ambĩrĩria na tũbica 4 na ũtũtige tũrĩ o ho | Tũbica tũingĩ, kana ũhithe mbica angĩkorwo nĩekũigua wega |
+| [Find the Same](/games/find-the-same/) | Mĩthuthurire 2 | Nginya mĩthuthurire 4 |
+| [Sort Together](/games/sort-together/) | Wee nyiita mbica, we onanie gĩkabũ | We mwene ahũthũre mbica na gĩkabũ |
+| [Picture Puzzle](/games/picture-puzzle/) | Icunjĩ 4, mwarie ũhoro wa mbica yothe mbere | Icunjĩ 9 |
+| [Finish the Saying](/games/finish-the-saying/) | Onania mũthia, ũcooke mũũige hamwe | Reke oige mũthia mbere ya kũhũthũra |
+| [Word Search](/games/word-search/) | Mĩkururie, mũcarie kiugo kĩmwe hamwe, onania rũgano rwa mbere | Reke athuure kiugo kĩrĩa gĩkũrũmĩrĩra kũcarĩa |
+| [Coloring](/games/coloring/) | Wee thuura marangi meerĩ, we athuure gatagatĩ kacio | We mwene athuure marangi mothe |
+| [Conversation Cards](/games/conversation-cards/) | Rorai mbica hamwe tu | Hũthĩrai ciũria iria irĩ karatathi-inĩ |
+| [Photo Pairs](/games/photo-pairs/) | Mbica nini cia famĩlĩ iria endete mũno | Ongerera mbica ingĩ |
+| [Picture Bingo](/games/picture-bingo/) | Mũteithia aikare hakuhĩ na o mũthaki | Athaki marĩmage mekari-inĩ mao |
+| [Calm Breathing](/games/calm-breathing/) | Ikarai na mũrorage hamwe tu | Huhai hamwe kahora |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Menyithia atĩ mũthako nĩ mũritũ mũno: gũikara ihinda iraaya akĩoneka arĩ na mĩtangĩko handũ ha gwĩcũrania, kuuga „Ndingĩhota“ maita maingĩ, gũtindĩka kĩonere, kana mahĩtia marĩa makũmũthĩĩnia. Menyithia atĩ no ũkorwo ũrĩ mũhũthũ mũno: kũnoga, kana kuuga atĩ nĩ wa twana. Ũguo ũngĩoneka, ĩtĩkĩra na ũgarũre ũthiĩ mũthako ũngĩ ũrĩa ũhaana wa andũ agima, ta gũcaria ciugo, kũrũgamia mbica ya ma ya mũndũ, kana kwaria ũhoro wa mbica ya wĩra ũrĩa aarutaga tene.
 
-## How do I turn a game into a conversation?
+## Ndingĩhũthĩra mũthako atĩa kwambĩrĩria kwaria?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Hũthĩra o mbica ta njĩra ya gwĩta kwaria, na wona o ũrĩa ekuuga ta icokio rĩega. Kũrĩ famĩlĩ nyingĩ, ũyũ nĩguo mũceke mwega mũno wa gũthaka.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Ũriai ciũria iria itarĩ na icokio rĩmwe rĩagĩrĩire.** „Nĩ kĩĩ ũrona?“ „Nĩ kĩrĩkũ ũkwenda?“ „Ta nyita ũhoro wa riko ta rĩĩrĩ.“
+- **Amba wee mwene kwaria.** „Cũcũ wakwa aarĩ na ngui ta ĩno.“ Rũgano rwaku rũtũmaga akorwo na ũhũthũ wa gũkwĩra rwake.
+- **Rũmagĩrĩra rũgano rũrĩa rũkũũka.** Mbica ya ngari ĩngĩtwara rũgano-inĩ rwa rũgendo, rũgano rũu nĩruo mũthako. Tiga mũthako weterere.
+- **Ndũkanarorie kana nĩ ma.** Kũririkania maũndũ ma tene, kwaria mũno wega nĩ kwa bata gũkĩra gũkorwo maũndũ mothe marĩ o ũrĩa maathiire. Rũgano rũngĩcenjia kuuma ihinda rĩrĩa rĩhĩtũku, kenera rũgano rũrũ rwerũ.
+- **Hũthĩrai ciũria iria irĩ thĩinĩ.** [Finish the Saying](/games/finish-the-saying/) nĩĩkoragwo na kĩũria kĩa kwaria thuutha wa o thimo, na [Conversation Cards](/games/conversation-cards/) ithondeketwo nĩ ũndũ wa ũguo. [Photo Pairs](/games/photo-pairs/) ĩhũthagĩra mbica cia famĩlĩ cianyu, iria kaingĩ irehete ng’ano njega mũno.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Meciiria mangĩ marĩ mĩtaratara-inĩ iitũ ya [maũndũ ma kũririkania](/activities/reminiscence/) na [mataaro ma kwaria](/caregiving/communication-tips/).
 
-## When should we stop?
+## Twagĩrĩirwo nĩ gũtiga rĩ?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Tiganai rĩrĩa mĩnyamaro ya mbere ya kũnoga kana kũrakara yonekire, na nĩ kaba mbere ya ũguo. Alzheimer’s Association ĩtaaraga gũtiga kana kũgarũra ũndũ rĩrĩa wendo wa gwĩkĩrĩra meciiria ũnyiihĩte kana thĩĩna wambĩrĩria kuongerereka.
 
-Watch for:
+Rora maũndũ maya:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- kwĩmia, kũinama, kana maitho gũtiga kũrora kĩonere;
+- kwĩnyogonyoga, kũrũgama, kana kũhooya gũthiĩ;
+- kũhũma mĩhũmĩ, macokio makuhĩ, kana kuuga „Ndingĩhota ũũ“;
+- kũhũthũra o ũguo kana gũtindĩka kĩonere;
+- maithori, kũrakara, kana kũgarũrũka kwa mũtugo o narua.
 
-How to stop well:
+Ũrĩa mũngĩtiga wega:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Rĩkiai na ũndũ mũhũthũ.** Kũigana kũmwe kwa mũico ũrĩa angĩhota gwĩka, kana mbica ya mũico ya kũrora.
+- **Tũma ĩtuĩke nĩ ũndũ waku.** „No nyende cai. Tũtigane haha?“ nĩkũgiragia gũtũma aiguage ta eekire ũũru.
+- **Thiĩi ũndũ-inĩ ũngĩ wa mwĩrĩ kana wa kũhooreria.** Gũthiĩ na magũrũ hanini, kũrĩa kĩndũ, kũgotha nguo, kana kũigua nyĩmbo.
+- **Uga ũndũ wa ũrata.** „Nĩndakenete gwĩka ũũ nawe.“ Ti kũmũgaathĩrĩria nĩ ũndũ nĩekire wega, no nĩ gũkena nĩ ihinda rĩu mũikaranĩtie.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Gũtiga tene, kũgarũra mubango, kana gũtiga mũthako na gũikara hamwe tu nĩ maũndũ mothe mega.
 
-## Can we play in a group or over a video call?
+## No tũthake tũrĩ gĩkundi kana na njĩra ya thimũ ya video?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ĩĩ, na kwĩhaarĩria hanini gwa nyongerera. Mũngĩkorwo mũrĩ gĩkundi, ikarai mũrĩ andũ anini, ikariai ateithia hakuhĩ na mũndũ o wothe ũbataire, na mũthuure mũthako ũrĩ na ũndũ ũmwe mwega wa hamwe. [Picture Bingo](/games/picture-bingo/) ĩrĩ na makarata ma gũkurura na mũtabania wa kĩonere-inĩ harĩ ikundi. Rora [maũndũ ma gũthaka ma ikundi cia kũndũ kwa kũmenyererio](/activities/care-home-groups/) nĩ ũndũ wa maũndũ mangĩ.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Mũgĩthaka na njĩra ya thimũ ya video, mũndũ ũrĩ thimũ-inĩ no ataarĩrie mbica nake mũndũ ũrĩ nyũmba akĩonania na akĩhũthũra. Ikai mahinda macio makuhĩ na ma mamenyereku. Mũtaratara witũ wa [kwaria na thimũ kana video](/activities/phone-and-video-calls/) ũrĩ na mataaro mangĩ.
 
-## What if a game just isn't working?
+## Atĩrĩrĩ, mũthako ũngĩaga gũthiĩ wega?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Mĩthenya ĩmwe gũtirĩ ũndũ ũgũthiĩ wega, na ũguo ti kuonania atĩ wee kana we nĩ harĩ na mahĩtia. Iga mũthako mwena na ũgerie ihinda rĩngĩ mũthenya-inĩ, mũthako ũngĩ, kana ũtige gũthaka o biũ. Maũndũ maingĩ mega ma gũthaka matikoragwo na kĩonere: nyĩmbo, kũgotha matauro, kũrora ibuku rĩa mbica, kana gũthiĩ na magũrũ hanini. Rora [meciiria ma maũndũ ma gũthaka](/activities/ideas/) nĩ ũndũ wa mangĩ.

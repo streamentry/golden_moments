@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Mecemo kũrĩ arĩa marĩ na kĩrĩa kĩa kwaga kũririkana"
+seoTitle: "Mecemo kũrĩ arĩa marĩ na kĩrĩa kĩa kwaga kũririkana"
+description: "Ũrĩa wa gũthuura mecemo ya jigsaw, ya ciugo na ya intaneti kũrĩ mũndũ ũrĩ na kĩrĩa kĩa kwaga kũririkana: ũingĩ wa icunjĩ, mbica, ndemwa nene, na gũtheka mũrĩ hamwe."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Mũcemano mwega mũno kũrĩ mũndũ ũrĩ na kĩrĩa kĩa kwaga kũririkana nĩ ũrĩa
+  angĩhota kũrĩĩkia na ũteithio mũnini na akenere rĩrĩa maragũtheka. Thuura
+  jigsaw ĩrĩ na icunjĩ nini, inene na mbica ĩonekaga wega ya mũndũ mũgima,
+  iga mbica ya gakunia mbere yao, na wambĩrĩrie na icunjĩ cia mĩthia. Gũcaria
+  ciugo na crosswords nĩ njega rĩrĩa irĩ na ndemwa nene. Mecemo mĩhũthũ ya
+  intaneti ĩrĩ na icunjĩ inya nĩ ĩhũthĩkaga wega hĩndĩ ya gatagatĩ. Tiga
+  rĩrĩa mũrĩ na gĩkeno.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Thuura kũringana na ũrĩa ũraathiĩ, ti kũringana na rĩĩtwa rĩa ikinya: mũcemano ũngĩoneka mũritũ, geria ũrĩ na icunjĩ nini."
+  - "Icunjĩ inene, nũmu na mbica ĩrĩ na mĩthemba mĩtandukanye ya rangi nĩ ihũthũ gũkĩra icunjĩ nini na mbica ĩrĩ na kĩruru kĩnene."
+  - "Mbica cia andũ agima nĩ cia bata. Mĩgũnda, rugongo, ngari na nyamũ, ti mbica cia twana."
+  - "Gũtheka mũrĩ hamwe nĩkuo kũrĩ bata. Mũnengere icunjĩ, theria icunjĩ cia mĩthia, na iga kĩbuti kĩa gakunia harĩa mũkuona."
+  - "Gũcaria ciugo kũrĩ na ndemwa nene na mecemo mĩhũthũ ya intaneti ĩrĩ na icunjĩ 4 kana 9 nĩ ya tũhũ gĩcunjĩ-inĩ gĩkĩ."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Nĩ icunjĩ cigana atĩa cia mũcemano ciagĩrĩire kũrĩ mũndũ ũrĩ na kĩrĩa kĩa kwaga kũririkana?"
+    a: "Gũtirĩ mũigana ũmwe tu ũrĩa wagĩrĩire. Mũndũ ũrĩa wamenyerete mecemo ya icunjĩ 1,000 no akorwo no akĩendaga ĩrĩ na icunjĩ magana maingĩ kĩambĩrĩria-inĩ, nake ũngĩ akaona ĩrĩa ĩrĩ na icunjĩ ikũmi na imwe nene nĩyo njega. Mũcemano ũngĩoneka mũritũ kana ũgatũma mũndũ arakarĩre, thiĩ mũcemano-inĩ ũrĩ na icunjĩ nini. Mũcemano witũ wa Picture puzzle wa intaneti ũrĩ na icunjĩ 4 kana 9."
+  - q: "Mecemo ya jigsaw nĩ mĩega kũrĩ andũ arĩa matũũraga na kĩrĩa kĩa kwaga kũririkana?"
+    a: "Andũ aingĩ nĩmakenagĩra, makĩria arĩa mendete mecemo mbere ĩyo. Mũcemano nĩũheaga moko wĩra, muoroto mũtaũku na mbica ya kwaria ũhoro wayo. Gũtirĩ mũcemano wonanĩtio atĩ nĩũrĩhagia, nĩũkiragĩrĩria kana nĩũtindĩkagia kĩrĩa kĩa kwaga kũririkana, nĩ ũndũ ũcio ũthuure nĩ ũndũ wa gĩkeno na gũkorwo mũrĩ hamwe."
+  - q: "No njĩke atĩa rĩrĩa mũndũ atangĩhota gũtheka jigsaw rĩngĩ?"
+    a: "Mĩnyiihie na wee wĩke ũingĩ wayo: mũnengere gĩcunjĩ kĩmwe o hĩndĩ, kana ũtige icunjĩ nini tu cia mũthia nĩguo eekĩre. Geria mũcemano wa intaneti wa icunjĩ 4, gũtheria icunjĩ kũringana na rangi, kana o kũrora mbica ĩrĩa ĩrĩĩkĩtio mũrĩ hamwe."
+  - q: "Crosswords na gũcaria ciugo nĩ ciagĩrĩire kũrĩ andũ arĩa marĩ na kĩrĩa kĩa kwaga kũririkana?"
+    a: "No ciagĩrĩre kĩambĩrĩria-inĩ, irĩ na ndemwa nene. Gũcaria ciugo kũrĩa ciugo ithiiaga na mbere na thĩ tu nĩ kũhũthũ gũkĩra kũrĩa kũrĩ na ciugo cia mwena kana cia gũcookerera na thutha. Thoma ciũria kana mũtaratara wa ciugo na mũgambo mũnene na mũrutithie wĩra ũcio mũrĩ hamwe."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jigsaw ĩtambũrũkĩtio metha-inĩ ya irio nĩ ũmwe wa mawĩra marĩa mahũthũ mũno ma gũthaka mũrĩ hamwe. No mũikare hamwe mũtekũhĩngĩcia kwaria mũno, mbica nĩĩheanaga kĩndũ kĩa kwarĩrĩria, na gwĩkĩra gĩcunjĩ kĩa mũthia nĩkũrehaga gĩkeno. No rĩrĩ, mecemo no nginya ĩcenjie rĩrĩa kĩrĩa kĩa kwaga kũririkana kĩrathiĩ na mbere. Mũcemano mũritũ mũno no ũtũme hwaĩ ĩrĩa ĩtarĩ na ngũĩ ĩtuĩke ya kũrakaria. Gĩcunjĩ gĩkĩ kĩaragia ũrĩa wa gũthuura na kwĩhaarĩria mecemo ya jigsaw, ya ciugo na mĩhũthũ ya intaneti, na ũrĩa mũngĩĩka rĩrĩa ĩratuĩka mĩritũ.
 
-## Are puzzles good for people with dementia?
+## Mecemo nĩ mĩega kũrĩ andũ arĩa matũũraga na kĩrĩa kĩa kwaga kũririkana?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Andũ aingĩ nĩmakenagĩra, makĩria arĩa maamenyerete mecemo mbere ĩyo. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nĩĩtaraga gũcaria ciugo, tũcemanio twa karata na tũcemanio twa metha gatagatĩ-inĩ ka mawĩra ma kĩambĩrĩria, nake [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nĩagwetaga tũcemanio twa intaneti na mecemo tablet-inĩ ta njĩra ĩmwe ya gũikara ũrĩ na kĩndũ gĩa gwĩka.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Mecemo ti ndawa. Gũtirĩ mũcemano wonanĩtio atĩ nĩũkiragĩrĩria kana nĩũtindĩkagia kĩrĩa kĩa kwaga kũririkana; mũtaratara witũ wa [tũcemanio twa meciria na kĩrĩa kĩa kwaga kũririkana](/brain-health/brain-games/) nĩũtaaragĩria ũhoro wa ũtuĩria. Gĩtũmi kĩa gũtheka mũcemano nĩ atĩ no ũtuĩke ihinda rĩega, rĩa gũkenia mũrĩ hamwe. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) yugaga ũũ: rũmbũiya gĩkeno, ti ũhootani.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Ũngĩthuura atĩa mũcemano wa jigsaw kũrĩ mũndũ ũrĩ na kĩrĩa kĩa kwaga kũririkana?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Rũmĩrĩra ũrĩa mũndũ ũcio endaga na ũrĩa mũcemano wa mũthia wathiire, ti kũringana na rĩĩtwa rĩa ikinya.
 
-### Number of pieces
+### Mũigana wa icunjĩ
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Gũtirĩ mũigana mũrĩa mwagĩrĩru. Mũndũ ũrĩa wamenyerete mecemo mũtũũrĩre wake wothe no akorwo no akĩendaga icunjĩ magana maingĩ kĩambĩrĩria-inĩ, nake ũngĩ akaona ĩrĩa ĩrĩ na icunjĩ ikũmi na imwe nĩyo ĩmũkenagia. Watho ũmwe mũhũthũ nĩ ũyũ: mũcemano wa mũthia ũngĩonekire ũrĩ mũritũ, thuura ũrĩa ũrĩ na icunjĩ ta nuthu. Ũngĩarĩĩkire narua na mũndũ akĩenda ũngĩ, ongerera icunjĩ nini.
 
-### Piece size and feel
+### Ũnene na mũthemba wa icunjĩ
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Icunjĩ inene** nĩ ihũthũ kuona, kuoya na kũgarũrũra.
+- **Icunjĩ nditũ, nũmu** nĩikaraga handũ hamwe na itingĩũragĩka mĩtũkĩ rĩrĩa ciagũa.
+- **Gĩcunjĩ kĩtarĩ na gĩcaca** nĩkĩnyiihagia ũtheri wa tawa kana wa ndirica.
+- **Theema icunjĩ nini mũno** mũndũ angĩkorwo nĩekaga indo kanua, ũndũ ũrĩa ũngĩoneka thutha-inĩ wa kĩrĩa kĩa kwaga kũririkana.
 
-### The picture
+### Mbica
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Indo cia andũ agima.** Mĩgũnda, rugongo, ngari cia tene, nyamũ cia mũgũnda, itũũra rĩa iria-inĩ, kana wĩra ũrĩa mendete. Ti mbica cia twana kana kĩndũ kĩonekaga ta gĩthaka kĩa twana.
+- **Mĩthemba mĩtandukanye ya rangi.** Nyũmba ndune, gatarũ gatuĩ na mũgũnda mũirũ nĩ ihũthũ gũkĩra kĩruru kĩrĩa kĩiyũrĩte nuthu ya mũcemano.
+- **Mbica cia kũmenyeka na cia mwanya.** Mbica ya handũ harĩa maatũũraga kana wĩra ũrĩa mendete mũno nĩĩheanaga maũndũ maingĩ ma kwarĩrĩria. Kũndũ kũmwe kwa kũhura mbica no gũtũme mbica ya famĩlĩ ĩtuĩke jigsaw.
 
-## How do you do a puzzle together?
+## Mũngĩtheka mũcemano atĩa mũrĩ hamwe?
 
-Set it up so the person can get straight to the enjoyable part.
+Ũhaarĩrie nĩguo mũndũ ahote kwambĩrĩria kũrĩa gũkenagia o rĩmwe.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Thuura handũ hega.** Ũtheri mwega, gĩtĩ kĩrĩ na moko, na metha kana thandĩkũ harĩa mũcemano ũngĩikara.
+2. **Iga kĩbuti kĩa gakunia** harĩa inyuothe mũkuona.
+3. **Garũra icunjĩ ciothe ciereke na igũrũ** mũtanambĩrĩria.
+4. **Theria icunjĩ cia mĩthia** wee mwene, kana wĩkĩre mũhaka mbere na ũtigĩre gatagatĩ nĩguo make.
+5. **Gayania icunjĩ kũringana na rangi** thaani-inĩ kana mbakũri-inĩ nini.
+6. **Mũnengere gĩcunjĩ kĩmwe o hĩndĩ** kĩrĩndĩ kĩa icunjĩ kĩngĩoneka kĩnene mũno. „Ngwĩciiria gĩkĩ nĩ kĩa nyũmba ĩyo.”
+7. **Aria ũhoro wa mbica,** ti ũrĩa mũthiĩ na mbere. „Ĩyo ĩhaana ta gatarũ karĩa baba aarĩ nako.”
+8. **Reke ĩikare hau.** Mũcooke kũrĩ yo matukũ maingĩ. Gũtirĩ na ihenya.
+9. **Tiga mũrĩ na ũndũ mwega,** thutha wa gĩcunjĩ gwĩkĩrwo, rĩrĩa ũndũ ũcio ũrĩ o mwega.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ĩtaaraga kũteithia mũndũ kwambĩrĩria, kũrora kana nĩarakarĩire na kũmũreka o one tu angĩkorwo nĩguo ekwenda. Kũrora ũrĩa ũreeka icunjĩ, na kuonia harĩa kĩmwe kĩngĩigwo, o nakũo nĩ gũkorwo thĩinĩ wa wĩra ũcio.
 
-## Easy online puzzles
+## Mecemo mĩhũthũ ya intaneti
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Mũcemano wa tablet nĩ ũrĩ na maũndũ mega: gũtirĩ icunjĩ iruraga, mbica nene ciyũrĩte kĩonero, na gũtirĩ metha ya gũtheria.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[Picture puzzle](/games/picture-puzzle/) witũ wa tũhũ ũtinangaga mbica ĩgatuĩka icunjĩ 4 kana 9. Hũũra icunjĩ igĩrĩ nĩguo ũcigarũranie nginya mbica ĩcooke ĩtuĩke ngima. Mbica ĩrĩa ĩrĩĩkĩtio ĩikaraga kĩonero-inĩ ta mũtongoria, gũtirĩ thaa ya gũtarwo, na no ũtige ihinda o rĩothe. Icunjĩ inya nĩciagĩrĩire andũ aingĩ arĩa marĩ gatagatĩ-inĩ rĩrĩa marĩ na mũndũ hakuhĩ.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Nĩ ũndũ wa gũtheka na mbica na njĩra ĩhũthũ makĩria, geria [Find the same](/games/find-the-same/), harĩa ũhũũraga mbica ĩhaanaine na ĩrĩa ĩrĩ igũrũ, kana [Sort together](/games/sort-together/), harĩa mbica ciigagwo ikabũ-inĩ ta cia rugongo kana cia mũgũnda.
 
-## Word puzzles: word searches and crosswords
+## Mecemo ya ciugo: gũcaria ciugo na crosswords
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Mecemo ya ciugo nĩyagĩrĩire andũ arĩa mamenyerete, kaingĩ kĩambĩrĩria-inĩ kĩa kĩrĩa kĩa kwaga kũririkana.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Gũcaria ciugo kũrĩ na ndemwa nene.** [Word search](/games/word-search/) witũ wa tũhũ ũhũthagĩra ndemwa nene na ciugo nini tu, ithiiaga na mbere na thĩ, itithiaga mwena kana gũcookerera na thutha. No ũmĩtheke kĩonero-inĩ kana ũmĩhure karatacĩ-inĩ.
+- **Thoma mũtaratara na mũgambo mũnene.** Mũndũ ũmwe athomaga kiugo, ũcio ũngĩ agacaria. Kũrigiicĩria o ndemwa ya mbere nĩ wega.
+- **Crosswords cia ndemwa nene** kuuma ibuku-inĩ cia mecemo no ciagĩrĩre kĩambĩrĩria-inĩ. Thoma ciũria na mũgambo mũnene, gayanai karamu na mũiyũrie macokio mũrĩ hamwe. Crosswords iria irĩ hũthũ na cia mũtwe ũmwe nĩ njega gũkĩra iria irĩ na ũhithe.
+- **Aria ũhoro wa ciugo.** „Mũgũnda” no ũrehere ndagĩka ikũmi cia kwaria ũhoro wa nyanya.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Nĩ ũndũ wa mawĩra mangĩ ma karatacĩ na ũrĩa ũngĩmahura nĩguo makorwo marĩ mahũthũ kuona na kuoya, rora [mawĩra ma tũhũ ma karatacĩ ma kĩrĩa kĩa kwaga kũririkana](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Nĩ mecemo ĩrĩkũ yagĩrĩire o ikinya?
 
-Stages overlap, and good and hard days are normal.
+Ikinya nĩihĩtanagĩra, na matukũ mega na maritũ nĩ ma ndũire.
 
-| Stage | Puzzles that often fit | Your role |
+| Ikinya | Mecemo iria kaingĩ ciagĩrĩire | Wĩra waku |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Kĩambĩrĩria | Jigsaw cia kũmenyeka irĩ na icunjĩ nini gũkĩra mbere, crosswords na gũcaria ciugo cia ndemwa nene, mecemo ya intaneti ya icunjĩ 9 | Mũrĩ mũrata wa gũtheka: reke athuure, teithia rĩrĩa ahooya |
+| Gatagatĩ | Jigsaw irĩ na icunjĩ ta ikũmi na imwe nene, mecemo ya intaneti ya icunjĩ 4, gũcaria ciugo mũgĩthomaga hamwe | Haarĩria, theria icunjĩ, mũnengere kĩmwe o hĩndĩ |
+| Kĩrĩkĩrĩro | Kũrora mbica ĩrĩa ĩrĩĩkĩtio mũrĩ hamwe, Find the same ĩrĩ na mbica igĩrĩ, kuoya icunjĩ nini nene | Mĩrehe kũrĩ we; gũkorwo hamwe nakuo nĩ wĩra wa gĩkeno |
 
-## When should you make a puzzle easier, or stop?
+## Rĩrĩa wagĩrĩirwo nĩ kũhũthia mũcemano kana kũũtiga?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Rora mĩĩhũmũ, gũtindĩka icunjĩ, kuuga kaingĩ „ndingĩhota” kana mothiũ ma mĩtangĩko. Icio nĩ imenyithia cia kũgarũra kĩndũ, ti cia gũthiĩ na mbere na hinya.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Mĩnyiihie.** Icunjĩ nini, kana ũtige icunjĩ nini tu cia mũthia nĩguo eekĩre.
+- **Wĩke ũingĩ wayo** na ũmũũrie ateithie kũrĩa kũhũthũ.
+- **Garũrũka ũndũ-inĩ ũngĩ ũrĩ hakuhĩ:** gũtheria icunjĩ kũringana na rangi, mũcemano wa intaneti wa icunjĩ 4, kana [gũhaka rangi](/games/coloring/).
+- **Tiga.** Ũige mwena ũmwe mũnyue cai. No mũcooke mũthenya ũngĩ, kana mũtige biũ.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Mecemo ĩngĩambĩrĩria kuoneka ta kĩririkania kĩa maũndũ marĩa maritũ, nĩ wega kũmĩtiga. Kũrĩ na njĩra ingĩ nyingĩ cia gũkenera ihinda rĩega mũrĩ hamwe; [meciria 101 ma mawĩra](/activities/ideas/) nĩ handũ hega ha kwambĩrĩria gũcaria.
