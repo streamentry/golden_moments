@@ -178,3 +178,13 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Tests | `ActivityChoiceBoard.test.ts` and `situations.test.ts`: 6 focused tests pass. `pnpm --dir site verify`: 1,859 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
 | Render inspection | The component SSR test confirms two visible choice links, their labels, the guide route and radio illustration. | Passed for the component; the actual `/today/` selection interaction was not browser-tested. |
 | Not verified | The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. Today has no live small-screen/caregiver/person check and remains English-only. | Open; don't claim usability validation. |
+
+## Round 49: optionally note the time of day
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association's Daily Care Plan says to consider the times of day the person functions best and to leave room for rest. Dementia Australia likewise recommends choosing times when the person feels at their best. | This supports caregiver planning, not a clinical inference or cognitive measure. |
+| Gap and change | `/today/` already lets caregivers record whether a suggestion helped, with optional free text, but did not identify a broad time of day. | Notes now have an optional Morning/Afternoon/Evening field for tried ideas. The selected band appears beside the outcome and in printed notes, and is ignored when the caregiver records "Didn’t try it." It is never inferred from the clock. |
+| Data boundary | The band uses the existing Today notes in this browser's localStorage. The storage key is unchanged; old notes without `timeOfDay` still load, and unrecognized values are dropped without discarding the rest of the note. | No new storage location, network request, account or telemetry. |
+| Tests | `notes.test.ts` and `TodayTimePicker.test.ts`: 11 focused tests pass, including legacy notes and optional values. `pnpm --dir site verify`: 1,862 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
+| Not verified | The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. No live browser, caregiver/person or device check. | Open; do not claim usability validation. |
