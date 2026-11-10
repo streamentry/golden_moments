@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Деменциясы бар адам іс-әрекеттен бас тартқанда"
+seoTitle: "Деменциясы бар адам іс-әрекеттен бас тартқанда"
+description: "Деменциясы бар адам неге бас тартады немесе ренжиді, оның орнына не істеуге болатыны, неден аулақ болу керек және қашан дәрігерге қаралу керегі."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Деменциясы бар адам «жоқ» десе, оны сабырмен қабылдап, кейінірек қайталап
+  көріңіз немесе басқа нәрсе ұсыныңыз. Бас тартудың себебі жиі болады: тапсырма
+  тым қиын немесе балалықтай көрінуі, шаршау, ауырсыну, аштық немесе шудан
+  шаршау. Дәлелдемеңіз және талап етпеңіз. Іс-әрекетті жеңілдетіңіз, екі
+  таңдау ұсыныңыз немесе одан көмек сұраңыз. Мінез-құлықтың кенеттен немесе тез
+  өзгеруі, әсіресе инфекциядан кейін немесе жаңа дәрі алған кезде, дереу
+  дәрігерге қаралуды қажет етеді.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Жоқ» деген жауап — оны құрметтеу керек, жеңіп шығатын мәселе емес."
+  - "Бас тартудың әдетте себебі болады: тым қиын, тым балалықтай, шаршау, өзін нашар сезіну, жайсыздық немесе тым көп әсер."
+  - "Біраз тоқтап, кейінірек, басқа уақытта немесе жеңіл нұсқасымен қайталап көріңіз."
+  - "Көмек сұрау орындауды талап етуден гөрі жақсырақ көмектеседі."
+  - "Ешқашан дәлелдемеңіз, талап етпеңіз, сұрақпен сынамаңыз және түзетпеңіз. Өзіңізді асығыстыққа немесе тым жақын жүруге тексеріңіз."
+  - "Мінез-құлықтың кенеттен немесе тез өзгеруі, әсіресе инфекция немесе жаңа дәрілермен бірге болса, дереу дәрігерге көрсетілуі керек."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Іс-әрекеттерді мүлде өткізіп жіберуге бола ма?"
+    a: "Иә, кез келген күні. Бірге отыру, музыка тыңдау немесе терезе сыртындағы өмірді бақылау жеткілікті болуы мүмкін. Егер адам бірнеше апта бойы ештеңеден ләззат ала алмайтын болса, мұны дәрігерге айтыңыз, себебі көңіл-күйдің төмендеуі, ауырсыну немесе басқа денсаулық мәселелері де осы жағдайға байланысты болуы мүмкін."
+  - q: "Неге олар бұрын ұнатқан нәрселерден бас тартады?"
+    a: "Бұрынғы әуестік деменция қиындатқан дағдыларды қажет еткенде, көңіл қалдыратын болуы мүмкін, ал адам ұялуы мүмкін. Сол іс-әрекеттің қарапайым бөлігін қолданып көріңіз, мысалы, тігу орнына түймелерді сұрыптау немесе отырғызу орнына бақ суреттерін көру."
+  - q: "Оларды көндіруге тырысуым керек пе?"
+    a: "Жоқ. Деменция қиындатқан нәрсені жасауға мәжбүрлеу — мазасыздықты тудыруы мүмкін белгілі себептердің бірі. «Жоқ» дегенді қабылдаңыз, әңгімені басқа жаққа бұрыңыз және кейінірек немесе басқа тәсілмен қайта ұсыныңыз."
+  - q: "Мінез-құлықтағы өзгеріс қашан шұғыл жағдай болып саналады?"
+    a: "Егер адам қауіпті жағдайда болса немесе жедел медициналық көмек қажет белгілер байқалса, 112 нөміріне қоңырау шалыңыз. Кенеттен абдырау немесе бірнеше сағат не күн ішінде тез өзгеретін мінез-құлық, әсіресе қызба, инфекция немесе жаңа дәрімен бірге болса, дереу дәрігеріне хабарласыңыз."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Сіз бәрін дайындап, ойын немесе серуен ұсынасыз да, «Жоқ» деген жауап естисіз. Немесе іс-әрекет жақсы басталып, планшеттің ығыстырылуымен және ащы сөзбен аяқталады. Бұл көңіліңізді түсіруі мүмкін, әрі мұндай жағдай жиі кездеседі. Бас тарту мен ренжу — әдетте қ stubbornness емес, бір хабар. Бұл хабардың мәнін түсінуге тырысу келесіде не істеуге болатынын көрсетеді.
 
-## Why does someone with dementia refuse activities?
+## Деменциясы бар адам неге іс-әрекеттерден бас тартады?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Әдетте, адамның мұны сөзбен жеткізе алмаса да, себебі болады. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) қарсылық адамның тапсырманы орындай алмауын немесе оны жасауға қорқатынын білдіруі мүмкін екенін айтады. Жиі кездесетін себептер:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Тым қиын болып көрінеді.** Іс-әрекет енді деменция қиындатқан дағдыларды талап етеді, ал біреудің қасында қателесу — ұятты сезім.
+- **Балалықтай болып көрінеді.** Ересектер мультфильм сияқты суреттерді, әндетіп сөйлегенді және балаларға арналғандай көрінетін іс-әрекеттерді байқайды.
+- **Шаршау.** Көп адамның күші күннің екінші жартысында азаяды. [Кешкі уақытта тыныш іс-әрекеттер](/caregiving/late-day-restlessness/) бөлімін қараңыз.
+- **Денедегі жайсыздық.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ауырсынуды, ұйқының жетіспеуін, көру немесе есту қиындықтарын, іш қатуды, аштықты, шөлдеуді және жаңа дәрілердің жанама әсерлерін мазасыздықтың ықтимал себептері ретінде атайды.
+- **Айналада тым көп нәрсе болып жатыр.** Қатты қосылған теледидар, бірнеше әңгіме немесе адамдар көп бөлме шаршатып жіберуі мүмкін.
+- **Мәжбүрленіп отырғандай сезіну.** NIA Альцгеймер ауруы қиындатқан нәрсені жасауға немесе оқиғалар мен адамдарды есіне түсіруге мәжбүрлеуді мазасыздықтың себебі ретінде атайды.
+- **Көңіл-күйдің төмендеуі.** Барлығына қызығушылықтың жоғалуы — дәрігерге айта кетуге тұрарлық депрессия белгісі болуы мүмкін.
+- **Олардың жай ғана қалауы жоқ.** Ересек адамның «жоқ» деуге құқығы бар.
 
-## What should I try when they say no?
+## Олар «жоқ» дегенде не істеуге болады?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+«Жоқ» дегенді сабырмен қабылдаңыз, содан кейін бір нәрсені өзгертіңіз: уақытты, іс-әрекетті, қиындық деңгейін немесе сұрау тәсілін.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Қазірге тоқтатыңыз.** «Жақсы, мүмкін кейінірек». Содан кейін күрсінбей, басқа нәрсеге өтіңіз.
+2. **Кейінірек қайталап көріңіз.** Alzheimer's Association кейінірек немесе күннің басқа уақытында қайталап көруді ұсынады.
+3. **Оны кішірейтіңіз.** Бүкіл ойынның орнына бір сәйкестік. Кір себетінің орнына бір сүлгі. Азырақ сурет, азырақ таңдау, суреттерді көрініп тұратындай қалдыру.
+4. **Екі нұсқа ұсыныңыз.** «Құстардың суреттерін көргіңіз келе ме, әлде музыка тыңдағыңыз келе ме?» Таңдау беру — бақылау сезімін қайтаруға көмектеседі.
+5. **Орындауды емес, көмек сұраңыз.** «Маған мыналарды сұрыптауға көмектесесіз бе?» немесе «Қай түс жақсырақ екенін айтып бере аласыз ба?» Қажет болу сезімі сынақтан өту сезімінен мүлде өзгеше.
+6. **Өзіңіз бастап кетіңіз.** Сұрамай-ақ қасында отырып, іс-әрекетті бастап көріңіз. Көп адам бір нәрсе басталып кеткенде қосылады, ал қосылмаса да, сіз бәрібір бірге уақыт өткізген боласыз.
+7. **Қозғалысқа немесе тыныштандыруға бағыттаңыз.** Қысқа серуен, музыка, жеңіл тағам, кір жуу немесе бірге [тыныш демалу](/games/calm-breathing/) үзілісі. NIA назарды музыкаға, кітапқа немесе серуенге аударуды ұсынады.
+8. **Оларға өз жолымен жасауға рұқсат етіңіз.** Егер олар ережеден өзгеше ойнағысы келсе, соған еріңіз. Alzheimer's Association икемді болуды ұсынады.
 
-## What should I say when they get frustrated?
+## Олар ренжігенде не айтуға болады?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Баяулаңыз, даусыңызды төмендетіңіз және жұбатыңыз. [Alzheimer's Association мазасыздыққа арналған кеңестері](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) бір қадам артқа шегініп, рұқсат сұрауды, сабырлы әрі жағымды сөздерді айтуды және екі нұсқаның арасынан таңдауды ұсынуды кеңес береді. Осындай мәндегі сөздер:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Кешіріңіз, бұл шынында тітіркендіріп тұр. Тоқтатайық».
+- «Бәрі жақсы. Мен қасыңыздамын».
+- «Маған басқа бір нәрсемен көмектесуге уақытыңыз бар ма?»
+- «Орнына шай ішіп отырсақ қайтеді?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Содан кейін іс-әрекетті үлкен мәселе етпей аяқтаңыз. [Қарым-қатынас туралы кеңестерімізде](/caregiving/communication-tips/) не айтуға болатыны туралы көбірек ақпарат бар.
 
-## What should I avoid?
+## Неден аулақ болған жөн?
 
-Some natural reactions tend to make things worse.
+Кейбір табиғи реакциялар жағдайды нашарлатуы мүмкін.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Дәлелдеу немесе талап ету.** «Жарайды, тағы бір рет» немесе «Сіз мұны жақсы көресіз ғой» сирек көмектеседі.
+- **Сұрақпен сынау немесе түзету.** «Сіз мұны білесіз ғой» немесе «Жоқ, ол дұрыс емес» қысым қосады.
+- **Жеке қабылдау.** NIA қамқор адамдарға бұл өзгерістерді адамның өзі емес, ауру тудыратынын еске салады.
+- **Тым жақын жүру немесе асықтыру.** Alzheimer's Association даусыңызды көтермеуді, үрей білдірмеуді, бұрышқа қамауды, тым жақындамауды, ұстап қалмауды, сынамауды, елемеуді немесе дәлелдемеуді, сондай-ақ адамның көру аймағынан тыс кенет қимыл жасамауды ұсынады.
+- **Кінә сезімін ояту.** «Мен мұның бәрін сіз үшін дайындадым» деген сөз екеуіңіздің де көңіл-күйін түсіреді.
+- **Таңба тағу.** «Қ stubborn» немесе «қиын» деп айту нақты себепті жасырады және шешуді қиындатады.
 
-## How can I find out what is behind repeated refusals?
+## Қайталанып жатқан бас тартудың себебін қалай түсінуге болады?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Бір-екі апта бойы қысқаша жазба жүргізіңіз. NIA мінез-құлық өзгерістерін бақылау қамқор адамдарға және медицина мамандарына үлгіні байқап, себебін түсінуге көмектесуі мүмкін дейді.
 
-Jot down:
+Мыналарды жазып отырыңыз:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- күннің уақыты;
+- не ұсындыңыз және қалай сұрадыңыз;
+- айналада не болып жатты (шу, қонақтар, теледидар);
+- қалай ұйықтады, тамақтанды және су ішті, соңғы рет қашан дәретханаға барды;
+- кез келген жаңа дәрілер немесе жақында болған аурулар.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Үлгілер көбіне тез байқалады: тек сағат 16:00-ден кейін, тек белгілі бір ойында немесе тек теледидар қосулы тұрғанда болатын бас тартулар. Family Caregiver Alliance ұйымының [деменция кезіндегі мінез-құлыққа арналған нұсқаулығы](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) мұны қысқаша былай тұжырымдайды: біз адамды өзгерте алмаймыз, бірақ өз әрекетіміз бен ортаны өзгерте аламыз.
 
-## When should I talk to a doctor about refusal or frustration?
+## Бас тарту немесе ренжу туралы қашан дәрігерге қаралу керек?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Мінез-құлық кенеттен, тез өзгерсе немесе ауру белгілерімен бірге байқалса, дәрігерге қаралыңыз. NIA мінез-құлықтың кенеттен немесе тез ауытқитын өзгерістері, әсіресе адамда инфекция болса немесе жақында дәрі-дәрмегі өзгерсе, дереу дәрігердің назарына жеткізілуі керек дейді.
 
-Contact their doctor promptly if you notice:
+Мыналарды байқасаңыз, дереу дәрігеріне хабарласыңыз:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- кенеттен абдырау немесе бірнеше сағат не күн ішінде үлкен өзгеріс;
+- ауырсыну белгілері, мысалы, қымсынып қалу, дененің бір жерін қорғай беру немесе қозғалыстың жаңа қиындықтары;
+- қызба немесе инфекцияның басқа белгілері;
+- мінез-құлық өзгерісінен кейін басталған немесе өзгертілген жаңа дәрілер;
+- бірнеше апта бойы дерлік ештеңеге қызығушылықтың жоғалуы, көзге жас келу немесе тұйықталу;
+- тамақтанудан немесе сұйықтық ішуден бас тарту.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association мінез-құлық белгілері бар кез келген адамға, әсіресе олар кенеттен пайда болса, толық медициналық тексеруден өтуді ұсынады. Family Caregiver Alliance да алдымен дәрігермен кеңесуді ұсынады, себебі мінез-құлық мәселелерінің медициналық себебі болуы мүмкін. Дәрігермен немесе фармацевтпен сөйлеспей, ешқандай дәріні бастамаңыз, тоқтатпаңыз және дозасын өзгертпеңіз.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Егер біреу қауіпте болса немесе жедел медициналық көмек қажет белгілер байқалса, 112 нөміріне қоңырау шалыңыз. NIA диспетчерге адамның деменциясы бар екенін айтуды ұсынады.
 
-## Is it okay if we do nothing at all?
+## Мүлде ештеңе істемесек бола ма?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Иә. Кей күндері ең жақсы іс-әрекет — ештеңе істемеу: бірге отыру, қол ұстасу, сүйікті музыканы тыңдау немесе терезеден құстарды бақылау. Бұл сәтсіздік емес. [Бірге ойнау туралы нұсқаулығымыз](/caregiving/how-to-play-together/) ерте тоқтатудың немесе мүлде бастамаудың неге дұрыс таңдау болуы мүмкін екенін түсіндіреді.

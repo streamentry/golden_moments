@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Сүнгу: Кешкі тыныш әрекеттер"
+seoTitle: "Сүнгу: Кешкі тыныш әрекеттер"
+description: "Деменциясы бар адамдардағы кешкі мазасыздықты жеңілдетуі мүмкін күн тәртібі, бөлме өзгерістері мен тыныш әрекеттер және дәрігерге қашан жүгіну керек."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Сүнгу — күндізгі жарық әлсірей бастағанда пайда болатын немесе күшейетін
+  мазасыздық, абыржу не ашулану. Көмектесуі мүмкін практикалық қадамдар:
+  күнделікті тұрақты тәртіп, күндіз жарық пен белсенділік, кешкі ұзақ ұйқыны
+  азайту, кофеинді шектеу, ымыртқа дейін бөлмедегі жарықты қосу, үйді тыныш
+  ұстау және музыка тыңдау, фото суреттерді қарау не кір жию сияқты тыныш
+  әрекеттер. Жаңа немесе күшейіп бара жатқан белгілерді дәрігер тексеруі керек.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Сүнгу — күндізгі жарық әлсірей бастағанда пайда болатын немесе күшейетін мазасыздық не абыржу."
+  - "Күш салуды қажет ететін істерді, сыртқа шығуды және жуынуды таңертеңге немесе түстен кейінгі ерте уақытқа қойыңыз."
+  - "Күн нұры, күнделікті серуен, кешкі ұзақ ұйқыны азайту және кешкі кофеинді шектеу кешті жеңілдетуге көмектесуі мүмкін."
+  - "Ымыртқа дейін жарықты қосыңыз, шуды азайтыңыз және таныс, тыныш әрекеттерге ауысыңыз."
+  - "Не әсер ететінін байқау үшін күнделік жүргізіңіз және мазасыздық басталғанда сабырлы әрі жұбата отырып қарсы алыңыз."
+  - "Жаңа немесе күшейіп бара жатқан белгілер болса, дәрігерге көрініңіз: ауырсыну, инфекция не дәрі-дәрмектер әсер етуі мүмкін."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Сүнгу әдетте күннің қай уақытында болады?"
+    a: "Әдетте күндізгі жарық әлсірей бастағанда, түстен кейінгі кеш уақытта немесе ерте кешке қарай басталады не күшейеді. Уақыты әр адамда әртүрлі болуы мүмкін, сондықтан бір-екі апта бойы қысқа күнделік жүргізу пайдалы болуы мүмкін."
+  - q: "Сүнгу кезінде қандай әрекеттер көмектеседі?"
+    a: "Түстен кейінгі кеш уақытта тыныш, таныс және оңай әрекеттер жақсырақ көмектеседі: баяу музыка, фото суреттерді қарау, сүйікті телебағдарлама не фильм, кір жию, қысқа серуен немесе бірге тамақтану. Жаңа немесе қиын әрекеттерді күннің ертерек уақытына қалдырыңыз."
+  - q: "Сүнгу медициналық себептің белгісі болуы мүмкін бе?"
+    a: "Оны ауырсыну, зәр шығару жолдарының инфекциясы сияқты инфекциялар, ұйқы мәселелері немесе дәрі-дәрмектердің жанама әсерлері күшейтуі мүмкін. Егер мазасыздық жаңа пайда болса, кенет басталса немесе күшейіп бара жатса, адамның дәрігеріне хабарласыңыз."
+  - q: "Сүнгуге қарсы дәрі туралы дәрігерден сұрауым керек пе?"
+    a: "Бұл мәселені дәрігермен талқылаған жөн. Alzheimer’s Association ұйымының айтуынша, әдетте алдымен дәрісіз тәсілдерге басымдық беріледі, ал кешкі мазасыздыққа арналған кез келген дәріні тәуекелдер мен пайдасын өлшегеннен кейін ғана қарастыру керек. Бұл бетте дәрі-дәрмек туралы кеңес берілмейді."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Көптеген отбасылар бірдей жағдайды байқайды: таңертең салыстырмалы түрде тыныш өтсе, түстен кейін деменциямен өмір сүріп жатқан ересек адам мазасызданып, алаңдап, абдырап немесе ашуланып кетуі мүмкін. Ол ары-бері жүріп, үйде болса да «үйге қайтайын» деп сұрауы немесе оңай ренжуі мүмкін. Мұны көбіне сүнгу деп атайды.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Бұл жағдайдың бір ғана шешімі жоқ, бірақ күн тәртібін, бөлмені және сіз ұсынатын әрекеттерді өзгерту түстен кейінгі уақытты тынышырақ өткізуге көмектесуі мүмкін. Бұл бетте National Institute on Aging және Alzheimer’s Association ұйымдарының практикалық, медициналық емес ұсыныстары жинақталған. Бұл медициналық кеңес емес. Егер белгілер жаңа пайда болса, кенет басталса немесе күшейіп бара жатса, адамның дәрігерімен сөйлесіңіз.
 
-## What is sundowning?
+## Сүнгу дегеніміз не?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Сүнгу — күндізгі жарық әлсірей бастағанда, түстен кейінгі кеш уақытта немесе ерте кешке қарай басталатын не күшейетін мазасыздық, толқу, ашушаңдық немесе абыржу. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) тым қатты шаршау күннің соңындағы мазасыздықты арттыруы мүмкін екенін айтады.
 
-## What can make late-day restlessness worse?
+## Кешкі мазасыздықты не күшейтуі мүмкін?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Бірнеше себеп қатар әсер етуі мүмкін. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) мынадай факторларды атайды:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- күн бойы шаршау;
+- жаңа немесе түсініксіз орта;
+- адамның «ішкі сағатының» бұзылуы, соның салдарынан күндіз ұйқышылдық, түнде сергектік пайда болуы;
+- әлсіз жарық пен көлеңкелер, олар абыржуды арттыруы мүмкін;
+- айналадағы адамдардың күйзелісі мен ашуын сезіну;
+- ұйқының азаюы, бұл ересек жаста жиі кездеседі.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA сонымен қатар мазасыздықтың жалпы себептеріне ауырсынуды, депрессияны немесе күйзелісті, жеткіліксіз демалысты, іш қатуды, қатты шуды немесе тым көп адамды, сондай-ақ кейбір дәрі-дәрмектерді не олардың өзара әсерін жатқызады.
 
-## How can I plan the day to make evenings calmer?
+## Кешті тынышырақ өткізу үшін күнді қалай жоспарлауға болады?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Күш салуды қажет ететін істерді күннің ертерек уақытына қойып, түстен кейінгі кеш уақытты жеңіл әрі болжамды етіңіз. NIA да, Alzheimer’s Association да тұрақты күн тәртібін ұсынады. Өзіңізге сай бейімдеуге болатын күн үлгісі:
 
-| Time | What may help |
+| Уақыт | Не көмектесуі мүмкін |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Таңертең | Кездесулер, жуыну, сыртқа шығу және күш салуды қажет ететін кез келген іс, өйткені көптеген адамдар осы кезде сергек болады |
+| Таңға жақын | Далада немесе күн түсетін терезе жанында уақыт өткізу; серуен немесе басқа белсенділік |
+| Түс | Негізгі тамақты түсте ішкізу (Alzheimer’s Association түскі асты көбірек, кешкі асты жеңілдеу етуге кеңес береді) |
+| Түстен кейін ерте | Қажет болса демалыс, бірақ күннің кеш уақытында ұзақ ұйықтамауға тырысыңыз |
+| Түстен кейінгі кеш уақыт | Тыныш, таныс әрекеттер; жеңіл тамақ пен сусын; кофеинсіз |
+| Ымыртқа дейін | Қараңғы түспей тұрып, бөлмедегі жарықты қосып, перделерді жауып қойыңыз |
+| Кешке | Жеңіл тамақ, тыныш музыка, аз тітіркендіргіш, тұрақты ұйықтар алдындағы тәртіп |
 
-A few specific points from the sources:
+Дереккөздерден бірнеше нақты ұсыныс:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Күн нұры.** NIA күн сайын далада немесе терезе жанында күн нұры астында уақыт өткізуді ұсынады.
+- **Күнделікті қозғалыс, бірақ шамадан тыс емес.** NIA күн сайын белсенді болуға тырысу керек, бірақ тым көп іс жоспарламау керектігін айтады.
+- **Кешкі сусындар.** Күннің кеш уақытында алкогольден және кофе немесе кола сияқты кофеині бар сусындардан аулақ болыңыз (NIA). Alzheimer’s Association никотинді де атайды.
+- **Қысқа ұйқы.** Күннің кеш уақытында ұзақ ұйықтауға және қалғуға жол бермеңіз (NIA). Alzheimer’s Association түнгі ұйқы қиын болса, күндізгі ұйқыны шектеуді ұсынады.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Тұрақты күн тәртібін құру туралы көбірек [күнделікті тәртіпке арналған әрекеттер](/activities/daily-routine/) бөлімінен оқи аласыз.
 
-## How can I make the home calmer in the late afternoon?
+## Түстен кейінгі кеш уақытта үйді қалай тыныш етуге болады?
 
-Reduce noise, add light and keep familiar things close.
+Шуды азайтыңыз, жарықты қосыңыз және таныс заттарды қасында ұстаңыз.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Жарық, біркелкі жарықтандыру.** Alzheimer’s Association кешке үйдің жақсы жарық болуын ұсынады. Көлеңкелер түспей тұрып жарықты қосыңыз.
+- **Шуды азайту.** Теледидар мен радионы өшіріңіз немесе дыбысын төмендетіңіз, осы уақытта қонақтарды не үйдегі қарбалас істерді шектеңіз. Alzheimer’s Association кешкі уақытта теледидар, үй шаруасы және қатты музыка сияқты тітіркендіргіштерді азайтуды ұсынады.
+- **Таныс жайлылық.** NIA тыныштандыратын музыка қоюды және сүйікті заттар мен фото суреттерді жақын жерде ұстауды ұсынады.
+- **Жайлылықты тексеру.** Alzheimer’s Association ауырсынуды, аштықты, шөлдеуді, іш қатуды, қуықтың толуын, шаршауды, инфекцияларды және тері тітіркенуін тексеруді, сондай-ақ бөлме температурасын жайлы ұстауды ұсынады.
+- **Өз көңіл-күйіңіз.** Адамдар айналадағы күйзелісті сезінеді. NIA егер өз алаңдаушылығыңыз жағдайды шиеленістіріп тұрса, баяулап, сабыр сақтауға тырысуды ұсынады.
 
-## What calm activities can we do in the late afternoon?
+## Түстен кейінгі кеш уақытта қандай тыныш әрекеттер жасауға болады?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Таныс, асықтырмайтын және оңай тоқтатуға болатын әрекеттерді таңдаңыз. Alzheimer’s Association тыныш музыка, фото суреттер не сүйікті фильм сияқты жұбата алатын әрекеттерді және мазасыздықты басуға көмектесуі мүмкін бірге серуендеуді ұсынады. NIA жеңіл тамақ немесе сусын, сүйікті телебағдарлама, музыка, серуен, оқу немесе кір жию сияқты қарапайым үй ісін ұсынады.
 
-Ideas to try:
+Байқап көруге болатын идеялар:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Бірге кір жию.** NIA осындай қарапайым үй шаруасын ұсынады. Сүлгілерді ұстау оңай, ал істің соңы айқын болады.
+2. **Сүйікті музыканы қосу.** Жас кезіндегі таныс әндер, дыбысын төмен етіп. Қосылып ыңылдау да жеткілікті. Қосымша идеяларды [музыкалық әрекеттер](/activities/music/) бөлімінен табасыз.
+3. **Фото суреттерді қарау.** Фотоальбом немесе [Photo Pairs](/games/photo-pairs/) ойынындағы бірнеше отбасылық суретті ашық қалдырып қарау тыныш әңгімеге бастама болуы мүмкін.
+4. **Қысқа серуен.** Қараңғы түспей тұрып, бақшада, үй маңында немесе дәлізде.
+5. **Бірге жеңіл тамақ пен сусын ішу.** Үстел басында бірге ішетін қарапайым, жылы және кофеинсіз нәрсе.
+6. **Жеңіл сәйкестендіру.** [Picture Pairs](/games/picture-pairs/) ойынын төрт карточкамен және суреттері көрініп тұратындай етіп бастау да, тоқтату да оңай.
+7. **Бояу.** [Coloring](/games/coloring/) ойынын экранда немесе басып шығарылған бетте, міндетті түрде аяқтау мақсатынсыз.
+8. **Қарау және әңгімелесу.** [Conversation Cards](/games/conversation-cards/) сурет пен ашық сұрақ ұсынады. Тек қарап отырудың өзі де жеткілікті.
+9. **Тыныс алу үзілісі.** [Calm Breathing](/games/calm-breathing/) — өзіңіз бастап, өзіңіз тоқтататын баяу, тыныш үзіліс.
+10. **Қолмен жасалатын істер.** Түймелерді немесе шұлықтарды сұрыптау, жұмсақ көрпені сипау немесе таныс затты ұстап отыру. [Сезімдік әрекеттер](/activities/sensory/) бөлімін қараңыз.
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Күннің кеш уақытында жаңа ойындардан, қарбалас серуендерден және көп есте сақтауды не зейінді қажет ететін нәрселерден аулақ болыңыз. Мұндай әрекеттерді таңертеңге қалдырыңыз.
 
-## What should I do when restlessness starts?
+## Мазасыздық басталғанда не істеуім керек?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Сабыр сақтаңыз, жұбатыңыз және назарын ақырын басқа нәрсеге аударыңыз. NIA сабырлы сөйлеуді, адамның алаңдаушылығын тыңдауды, таласудан аулақ болуды, оның қауіпсіз жерде екенін айтуға тырысуды және егер көмектессе, ақырын жанасуды ұсынады. Содан кейін жеңіл тамақ, сусын, музыка немесе серуен арқылы назарын аударып көріңіз.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer’s Association «Сіз мұнда қауіпсізсіз» және «Сіз ренжіп тұрғаныңызға өкінемін» сияқты сөздерді ұсынады, сондай-ақ жарықты қосып, қарқынды баяулатып, тітіркендіргіштерді азайтуды кеңес береді. Адамды бұрышқа қамауға, қоршауға, ұстап тұруға немесе онымен таласуға болмайды.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Егер адам агрессивті болып кетсе, NIA мінез-құлық тоқтағанша қауіпсіз қашықтықта тұруды ұсынады. Төтенше жағдайда 112 нөміріне қоңырау шалып, адамның деменциясы бар екенін айтыңыз.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Тыныштандыратын сөздер туралы көбірек біздің [қарым-қатынас](/caregiving/communication-tips/) және [олар «жоқ» дегенде не істеу керек](/caregiving/when-they-say-no/) бөлімдерінен таба аласыз.
 
-## How do I find the triggers?
+## Не әсер ететінін қалай білуге болады?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Бір-екі апта бойы қысқа күнделік жүргізіңіз. Alzheimer’s Association сүнгу белгілері басталмас бұрын не болғанын жазып отыруды ұсынады, бұл себептерді байқауға көмектеседі. Мазасыздық қай уақытта басталғанын, одан бір сағат бұрын не болғанын, күндізгі ұйқыны, тамақ пен сусынды, қонақтарды, шуды және жарықты жазып отырыңыз. Бұл жазбаларды дәрігерге апарыңыз. NIA мінез-құлық өзгерістерін жазып отыру қамқор адамдарға және медицина мамандарына заңдылықты көруге көмектесетінін айтады.
 
-## When should I call a doctor about sundowning?
+## Сүнгу кезінде дәрігерге қашан жүгіну керек?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Егер мазасыздық жаңа пайда болса, кенет күшейсе немесе басқа өзгерістермен қатар жүрсе, адамның дәрігеріне хабарласыңыз. NIA мінез-құлықтағы кенет немесе тез ауытқитын өзгерістер туралы, әсіресе инфекциядан кейін немесе жуырда дәрі-дәрмек өзгерткеннен кейін, дереу дәрігерге айту керектігін айтады.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Кешкі уақытты қиындатуы мүмкін жағдайларды тексеруді сұраңыз. Alzheimer’s Association зәр шығару жолдарының инфекциясы, ұстай алмау, мазасыз аяқтар синдромы және ұйқы апноэсы сияқты дене жағдайларын атайды және әр дәрі-дәрмекті күннің қай уақытында қабылдаған дұрыс екенін сұрауды ұсынады. NIA мазасыздықтың ықтимал себептерінің қатарына ауырсынуды, іш қатуды және дәрі-дәрмектердің жанама әсерлерін немесе өзара әсерін жатқызады.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer’s Association Альцгеймер ауруымен байланысты ұйқы мәселелерінде әдетте дәрісіз тәсілдерге басымдық берілетінін, ал кешкі мазасыздыққа арналған дәрілерді тек олар көмектеспеген жағдайда, тәуекелдер мен пайдасын өлшегеннен кейін ғана қарастыру керектігін айтады. Бұл шешімді дәрігер қабылдайды. Медициналық кеңессіз ешқандай дәріні, ұйықтататын құралды немесе қоспаны бастамаңыз, тоқтатпаңыз және өзгертпеңіз.
 
-## How do I get through the evenings myself?
+## Кешкі уақытты өзім қалай жеңіл өткізе аламын?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Түстен кейінгі кеш уақыт қамқор болып жүрген адам үшін күннің ең ауыр бөлігі болуы мүмкін. Мүмкіндік болса, отбасы мүшесінен, досыңыздан немесе ақылы көмекшіден аптасына бірнеше күн, тіпті бір сағатқа болса да, кешкі уақытты өз мойнына алуды сұраңыз. Біздің [өзіңізге қамқор болу](/caregiving/caregiver-self-care/) бөлімінде демалыс мүмкіндіктері және Alzheimer’s Association ұйымының тәулік бойы жұмыс істейтін тегін 24/7 Helpline желісі туралы ақпарат бар.

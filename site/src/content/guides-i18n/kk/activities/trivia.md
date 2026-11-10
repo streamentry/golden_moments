@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Деменциясы бар ересектерге жеңіл викторина"
+seoTitle: "Деменциясы бар ересектерге викторина, жауаптарымен"
+description: "Деменциясы бар ересектерге арналған 50 жеңіл сұрақ: жауап нұсқалары, әңгіме тақырыптары және ешкім өзін сынақта сезінбейтін өткізу жолы."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Деменциясы бар ересектерге арналған викторина сынақ емес, әңгіме сияқты
+  өткенде ғана сәтті болады. Көптен таныс нәрселер туралы сұраңыз: ескі әндер,
+  мақал-мәтелдер, мерекелер және күнделікті өмір. Әрқашан екі-үш жауап нұсқасын
+  ұсыныңыз. Жауапты жылы лебізбен айтыңыз, ешкімді ерекшелендірмеңіз, ұпай
+  санаудан бас тартыңыз және әр жауапты әңгіменің бастамасына айналдырыңыз.
+  Кейінгі кезеңдерде дұрыс не бұрыс жауабы жоқ «мынау ма, әлде анау ма»
+  сұрақтары қолайлы.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Көптен бері таныс тақырыптарды таңдаңыз: әндер, мақал-мәтелдер, мерекелер, тағамдар және бұрынғы күнделікті өмір."
+  - "Жауапты есіне түсіру емес, танып білу оңай болу үшін екі-үш нұсқа ұсыныңыз."
+  - "Жауапты жылы айтып, әрі қарай жалғастырыңыз. Әңгімеге жол ашқан кез келген болжам — жақсы болжам."
+  - "Ұпай жоқ, жарысатын топтар жоқ, бір адамды шақырып алу жоқ. Жауаптар бөлмедегі кез келген адамнан шығуы мүмкін."
+  - "Жауаптарды таңдау қиындай бастағанда, дұрыс жауабы жоқ «мынау ма, әлде анау ма» сұрақтарына көшіңіз."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Викторина деменциямен өмір сүріп жатқан адамдарға қолайлы әрекет пе?"
+    a: "Иә, егер ол жұмсақ әрі жайлы түрде өткізілсе. Alzheimer's Foundation of America викторинаны ерте кезеңге арналған әрекеттердің қатарына қосады. Сұрақтарды көптен таныс тақырыптардан алыңыз, жауап нұсқаларын ұсыныңыз, бір адамды қыспаққа алмаңыз және жауаптарды сынақ емес, әңгімеге бастама ретінде қарастырыңыз."
+  - q: "Деменция кезінде викторина үшін қандай тақырыптар жақсы келеді?"
+    a: "Көп жағдайда бұрыннан үйренілген нәрселер жақсы жұмыс істейді: адамның жастық шағындағы танымал әндер мен әншілер, таныс мақал-мәтелдер, мерекелер, тағамдар, спорт және сүт әкелу мен дөңгелек нөмір терілетін телефон сияқты күнделікті өмір. Соңғы жаңалықтардан және сол әрекет барысында бұрын айтылғанды есте сақтауды қажет ететін нәрселерден аулақ болыңыз."
+  - q: "Қамқорлық орталығында ешкімді ыңғайсыз қалдырмай викторинаны қалай өткізуге болады?"
+    a: "Әр сұрақты бүкіл топқа оқып беріңіз, жауап нұсқаларын көрсетіңіз немесе дауыстап айтыңыз және кез келген адамнан жауапты қарсы алыңыз. Адамдарды жеке шақырмаңыз және ұпай санамаңыз. Қандай жауап айтылса да, оны күлімсіреп қабылдап, дұрыс жауабын айтыңыз да, әңгімені жалғастыру үшін «Осында автокинотеатрға барған кім бар?» сияқты қосымша сұрақ қойыңыз."
+  - q: "Кейінгі кезеңдерде викторинаның орнына не істеуге болады?"
+    a: "Дұрыс жауабы жоқ сұрақтарға көшіңіз, мысалы «Кофе ме, әлде шай ма?» немесе «Теңіз жағалауы ма, әлде таулар ма?», сондай-ақ таныс мақал-мәтелдер мен әндерді бірге аяқтап көріңіз. Суреттерді бірге қарап, олар туралы әңгімелесу де жақсы жарайды."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Викторина — қамқорлық орталықтары мен күндізгі бағдарламаларда ең жиі сұралатын топтық әрекеттердің бірі, оны көптеген отбасылар ас үстінде де ойнайды. Әдеттегідей ұпай санап, бір адам ғана жауап беретін болса, деменциямен өмір сүріп жатқан адам өзін қысым астында сезінуі мүмкін. Ал жұмсақ әрі жайлы түрде өткізілсе, викторина естеліктерді бөлісуге жақсы мүмкіндік береді. Төменде жауап нұсқалары бар 50 жеңіл сұрақ және әрқайсысына әңгіме бастауға арналған ойлар берілген, содан кейін әрекетті қалай өткізуге болатыны түсіндірілген.
 
-## How do you make trivia work for someone with dementia?
+## Деменциямен өмір сүріп жатқан адамға викторинаны қалай ыңғайлы етуге болады?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Негізі — көптен бері таныс нәрселерді тануға көмектесу және әрбір жауапты жылы қабылдау.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Алыстағы өткен шақ туралы сұраңыз.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) деректерінше, Альцгеймер ауруының ең жиі кездесетін ерте белгісі — жаңа ақпаратты есте сақтау қиындығы. Ондаған жылдар бұрынғы әндер, мақал-мәтелдер және күнделікті өмір әдетте оңайырақ тақырып болады.
+2. **Әрқашан жауап нұсқаларын беріңіз.** Екі-үш нұсқаның ішінен дұрыс жауапты таңдау оны ешбір көмексіз есіне түсіруден әлдеқайда жеңіл.
+3. **Сұрақтарды дауыстап оқыңыз және ірі етіп көрсетіңіз.** Ақ тақта немесе көтеріп көрсетілген планшет нашар еститін адамдарға көмектеседі.
+4. **Жауапты еркін айтыңыз.** Ешкім білмесе, оны жылы айтып, әрі қарай өтіңіз. Ешқашан «Қойшы, білесің ғой» демеңіз.
+5. **Ұпай санамаңыз.** Жеке адамдар үшін де, үстелдер үшін де емес. Егер біреу санды сұраса, тек ортақ топтық санды сақтаңыз.
+6. **Бір адамды жеке шақырмаңыз.** Жауап кез келген адамнан шығуы мүмкін. Жеке отырғанда бірге жауап беріңіз: «Меніңше, пианино. Ал сіз қалай ойлайсыз?»
+7. **Әңгіме бастайтын ойды пайдаланыңыз.** Жауап — соңғы нүкте емес, бастамасы. Негізгі мақсат — әңгіме.
+8. **Қысқа ұстаңыз.** Арасында әңгіме болатын он сұрақтың өзі жеткілікті.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) негізгі ережені қарапайым жеткізеді: ашулану белгілерін байқап, адам өзін сәтті сезінетіндей етіңіз. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) викторинаны ерте кезеңге арналған әрекеттердің қатарына қосады. Орта кезеңде екі нұсқамен шектеліп, әңгіме бастайтын ойларға көбірек сүйеніңіз. Кейінірек төмендегі «мынау ма, әлде анау ма» сұрақтарына көшіңіз.
 
-## Music and entertainment trivia
+## Музыка және ойын-сауық туралы сұрақтар
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Дұрыс жауап **қалың** әріппен берілген. Бұл сұрақтарды адамға қарай бейімдеңіз: Motown әуенімен өскен адамға биг-бэнд дәуірімен өскен адамға ұнайтын әншілерден өзгеше әншілер ұнауы мүмкін.
 
-| Question | Choices | Talk about |
+| Сұрақ | Нұсқалар | Әңгіме үшін |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Рок-н-роллдың патшасы деп кімді атаған? | **Элвис Пресли**, Фрэнк Синатра, Бинг Кросби | Элвисты телевизордан көрген кезіңіз болды ма? |
+| Қай әншіні Ol' Blue Eyes деп атаған? | Дин Мартин, **Фрэнк Синатра**, Перри Комо | Синатраның қай әнін ең жақсы көресіз? |
+| Бинг Кросби ақ ... армандаған | **Рождество**, үйлену тойы, үй | Бірге бір жолын айтып көріңіз |
+| Луи Армстронг «What a Wonderful...» әнін орындаған | Day, **World**, Life | Бұл әлемді сіз үшін не әдемі етеді? |
+| «Over the Rainbow» әнін Джуди Гарланд қай фильмде орындады? | **«Оз елінің сиқыршысы»**, «Жел өтіндегі тағдырлар», «Жаңбыр астында ән салушылар» | Сүйікті фильмдеріңізді қайда көретін едіңіз? |
+| «I Love Lucy» шоуында Люсидің рөлін кім ойнады? | **Люсиль Болл**, Дорис Дэй, Бетти Уайт | Отбасыларыңызбен бірге қандай бағдарламалар көретін едіңіздер? |
+| Қай ковбой Trigger атты атқа мінген? | **Рой Роджерс**, Джин Отри, Джон Уэйн | Бала кезінде ковбойлар болып ойнадыңыз ба? |
+| «The Tonight Show» бағдарламасын 30 жыл бойы кім жүргізді? | Эд Салливан, **Джонни Карсон**, Боб Хоуп | Теледидар көру үшін кеш ұйықтайтын ба едіңіз? |
+| Қай аспапта 88 перне бар? | Гитара, **пианино**, керней | Отбасыңызда аспапта ойнайтын адам болды ма? |
+| Қай биді бір-екі-үш, бір-екі-үш деп санайды? | **Вальс**, твист, танго | Биге қайда баратын едіңіз? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Музыка туралы көбірек білу үшін [деменция кезінде музыкамен айналысу](/activities/music/) бөлімін қараңыз.
 
-## Everyday life trivia
+## Күнделікті өмір туралы сұрақтар
 
-| Question | Choices | Talk about |
+| Сұрақ | Нұсқалар | Әңгіме үшін |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Тоңазытқыш шықпай тұрып, көптеген үйлерде тағамды қайда салқын ұстайтын? | **Мұз жәшігінде**, пеште, шатырда | Мұзды кім әкелетін? |
+| Шыны бөтелкедегі сүтті есік алдына кім әкелетін? | Пошташы, **сүтші**, газет таратушы бала | Үйге тағы не әкелінетін? |
+| Дөңгелек нөмір терілетін телефонды қалай теретін едіңіз? | Түймелерді басып, **дөңгелекті бұрап**, онымен сөйлесіп | Үйіңіздегі телефон туралы айтып беріңізші |
+| Model T көлігін қай компания шығарды? | **Ford**, Chevrolet, Buick | Өзіңіз ұнатқан көлік туралы айтып беріңізші |
+| «Soda jerk» қызметкерін қайдан табуға болатын еді? | **Газдалған сусын сататын дәмханадан**, наубайханадан, банктен | Дүкендегі үстелден не тапсырыс беретін едіңіз? |
+| Баспалдақпен төмен түсе алатын металл серіппе қандай ойыншық? | Йо-йо, **Слинки**, хулахуп | Қандай ойыншықтарды жақсы көретін едіңіз? |
+| Автокинотеатр — ... көруге арналған орын еді | **Көліктен фильм**, доп ойындары, шерулер | Кіммен баратын едіңіз? |
+| Бір долларлық купюрада кімнің суреті бар? | Линкольн, **Джордж Вашингтон**, Джефферсон | Ол кезде бір долларға не сатып алуға болатын еді? |
+| Бір центтік тиында кімнің суреті бар? | **Авраам Линкольн**, Вашингтон, Франклин | Сол кезде тиындарды құтыға жинайтын ба едіңіз? |
+| Мектеп автобусы әдетте қандай түсті болады? | Қызыл, **сары**, көк | Мектепке қалай баратын едіңіз? |
 
-## Holidays, nature and places
+## Мерекелер, табиғат және орындар
 
-| Question | Choices | Talk about |
+| Сұрақ | Нұсқалар | Әңгіме үшін |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Қай мереке қарашаның төртінші бейсенбісіне келеді? | Еңбек күні, **Алғыс айту күні**, Жеңілгендерді еске алу күні | Үстеліңізде әрқашан не болатын? |
+| Жарықшақты асқабақтар қай мерекеге жасалады? | **Хэллоуин**, Пасха, Рождество | Өскен жеріңізде Хэллоуин қалай өтіп еді, айтып беріңізші |
+| 4 шілде қандай Тәуелсіздік декларациясын тойлайды? | Құқықтар, **Тәуелсіздік**, Бостандық | Отшашуды қайда көретін едіңіз? |
+| Аналар күні қай айда тойланады? | Сәуір, **мамыр**, маусым | Отбасыларыңызбен оны қалай тойлайтын едіңіздер? |
+| Америка туында қанша жұлдыз бар? | 48, **50**, 52 | Туда 1959 жылға дейін 48 жұлдыз болды. Екі жауап та естелікке жол ашады |
+| Шығыс жағалауда қай мұхит орналасқан? | Тынық, **Атлант**, Солтүстік Мұзды | Жағажайға барған кезіңіз болды ма? |
+| Азаттық мүсіні қай қалада орналасқан? | Бостон, **Нью-Йорк**, Филадельфия | Нью-Йоркте болып көрдіңіз бе? |
+| Аралар не жасайды? | Сүт, **бал**, жібек | Балды нанға жағасыз ба, әлде шайға қосасыз ба? |
+| Сиырдың төлін қалай атайды? | Құлын, **бұзау**, лақ | Фермаға жақын жерде тұрған кезіңіз болды ма? |
+| Күнге қарай бұрылып тұратындығымен танымал ұзын сары гүл қайсы? | Раушан, **күнбағыс**, қызғалдақ | Бақшаңызда не өсетін еді? |
+| Кібісе жылда қанша күн бар? | 365, **366**, 360 | Есіңізде қалған туған күн туралы айтып беріңізші |
+| Қыстан кейін қай жыл мезгілі келеді? | Күз, **көктем**, жаз | Сүйікті жыл мезгіліңіз қайсы? |
 
-## Food and sports trivia
+## Тағам және спорт туралы сұрақтар
 
-| Question | Choices | Talk about |
+| Сұрақ | Нұсқалар | Әңгіме үшін |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Мейіз — кептірілген ... | Алхоры, **жүзім**, шие | Түскі асқа мейіз салып апаратын ба едіңіз? |
+| Қара өрік — кептірілген ... | **Алхоры**, інжір, алма | Отбасыңызда қара өрікті кім жақсы көретін? |
+| Жержаңғақ майы мен ... | **Желе**, ірімшік, ветчина | Үгітілген бе, әлде тегіс пе? |
+| Гуакамоле негізінен неден жасалады? | Бұршақтан, **авокадодан**, қиярдан | Қонаққа келгенде қандай тұздықтар қойылатын еді? |
+| Алғыс айту күніне қай пирог жиі дайындалады? | **Асқабақ**, лимон, шие | Сіз қай пирогты пісіретін едіңіз? |
+| Бейсбол командасының алаңда қанша ойыншысы болады? | 7, **9**, 11 | Қай команданы қолдайтын едіңіз? |
+| Бейсболда қанша страйк аут болып есептеледі? | Екі, **үш**, төрт | Бейсбол ойнаған кезіңіз болды ма? |
+| Бейб Рут қай спорт түрімен танымал болды? | Бокс, **бейсбол**, гольф | Бейсбол матчтарына барған кезіңіз болды ма? |
+| Стандартты гольф алаңында қанша тесік бар? | 9, **18**, 24 | Гольф немесе мини-гольф ойнаған кезіңіз болды ма? |
+| Қай спорт түрінде тачдаун жинайды? | **Америкалық футбол**, хоккей, баскетбол | Үйіңізде америкалық футболды кім көретін? |
 
-## Familiar sayings
+## Таныс мақал-мәтелдер
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Мақал-мәтелді аяқтау көптен бері үйренілген тілді іске қосады және көбіне оңай келеді. Біздің [Мақалды аяқта](/games/finish-the-saying/) ойынында осындайлардың көбі бар, әрі кез келген жалғасын көрсету үшін түртуге болады.
 
-| Saying | Choices | Talk about |
+| Мақал-мәтел | Нұсқалар | Әңгіме үшін |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Күн сайын бір алма — ... | **Дәрігерді алыс ұстайды**, жаңбырды тоқтатады, мысықты қуайды | Бұл сөзді сізге кім айтатын еді? |
+| Ерте тұрғанның ... | Автобусы бар, **сәті бар**, пойызы бар | Сіз таңертеңгі адамсыз ба? |
+| Балапанды күзде сана. | **Жұмыртқа ашылмай тұрғанда**, Ұйықтамай тұрғанда, Ән салмай тұрғанда | Отбасыңызда тауық болды ма? |
+| Сақтағанның — ... | **Тапқаны**, Жоғалтқаны, Жұмсағаны | Отбасыңызда үнемшіл кім болды? |
+| Үй — ... тұрған жер. | Бақша, **Жүрек**, Ас үй | Бір жерді үйдей сезінуге не әсер етеді? |
+| Кеш болғанша, ... | Ерте, **Ешқашан болмағаны артық**, Өкінішті | Әрқашан кешігетін кім еді? |
+| Әр бұлттың ... бар. | **Күміс жиегі**, Күміс қасық, Күміс тиын | Сәтті шыққан бір оқиға туралы айтып беріңізші |
+| Іс — ... күштірек. | **Сөзден**, Әуеннен, Күн күркіреуінен | Бұл сөзді айтатын адам туралы айтып беріңізші |
 
-## This-or-that questions with no wrong answer
+## Дұрыс жауабы жоқ «мынау ма, әлде анау ма» сұрақтары
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Бұл сұрақтар әр кезеңге, соның ішінде кейінгі кезеңдерге де қолайлы, өйткені мұнда қателесетін жауап жоқ. Сұраңыз, тыңдаңыз және өз жауабыңызды да бөлісіңіз.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Кофе ме, әлде шай ма?
+- Теңіз жағалауы ма, әлде таулар ма?
+- Иттер ме, әлде мысықтар ма?
+- Жаз ба, әлде қыс па?
+- Пирог па, әлде торт па?
+- Би билеу ме, әлде көріп отыру ма?
+- Күннің шығуы ма, әлде батуы ма?
+- Алдыңғы аула ма, әлде артқы аула ма?
+- Радио ма, әлде пластинка ма?
+- Құймақ па, әлде жұмыртқа ма?
+- Раушан гүлдері ме, әлде дәстүргүлдер ме?
+- Пойызбен саяхат па, әлде көлікпен сапар ма?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Суреттермен бірге қолдануға болатын әңгіме тақырыптары үшін басып шығаруға болатын [Әңгіме карталарын](/games/conversation-cards/) қарап көріңіз.
 
-## How do you run a trivia session in a care home or group?
+## Қамқорлық орталығында немесе топта викторинаны қалай өткізуге болады?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Адамдарды көріп, ести алатындай етіп отырғызыңыз.** Есту аппараты қосулы, көзілдірік киілген, теледидар өшірілген болсын.
+2. **Оны әңгіме ретінде бастаңыз.** «Бұрынғы күндер туралы бірнеше сұрағым бар, сіздер менен де көп білетін шығарсыздар.»
+3. **Әр сұрақты екі рет оқыңыз және нұсқаларды ірі етіп көрсетіңіз.**
+4. **Бөлменің кез келген жерінен келген жауаптарды құптаңыз.** Жақсы жауаптарды бәрі еститіндей қайталап айтыңыз.
+5. **Дұрыс жауабын бәріне айтыңыз,** содан кейін әңгіме бастайтын сұрақты топқа қойыңыз.
+6. **Топтың көңіл күйіне қарай жүріңіз.** Егер бір сұрақ он минуттық әңгімеге айналса, оны тоқтатпаңыз.
+7. **Соңында әнмен немесе «мынау ма, әлде анау ма» сұрақтарымен аяқтаңыз,** осылайша әркім жеңіл әрі жағымды сәтпен аяқтайды.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Суретті бинго мен бірге ән айту сияқты басқа топтық форматтар үшін [қамқорлық орталықтарына арналған топтық әрекеттер](/activities/care-home-groups/) бөлімін қараңыз.
 
-## When to change the plan
+## Жоспарды қашан өзгерту керек
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Егер біреу қобалжыған болып көрінсе, үндемей қалса немесе «Білмеймін» десе, тапсырманы жеңілдетіңіз: екі нұсқаға дейін азайтыңыз, бірге жауап беріңіз немесе «мынау ма, әлде анау ма» сұрақтарына көшіңіз. Егер топ бір сұрақ туралы түстен кейінге дейін әңгімелескісі келсе, бұл — сәтті нәтиже. Мақсат дұрыс жауаптар жинау емес еді. Мақсат — жақсы ортада бірге уақыт өткізу еді.

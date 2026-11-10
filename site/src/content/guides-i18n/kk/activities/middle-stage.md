@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Орта сатыдағы деменцияға арналған әрекеттер"
+seoTitle: "Орта сатыдағы деменция: қарапайым әрекеттер"
+description: "Орта сатыдағы деменцияға арналған қарапайым әрекеттер: пайдалы істер, музыка, фотосуреттер және оңай ойындар, дайындау қадамдары мен мазасыздықты әрекетке бағыттау жолдары."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Орта сатыдағы деменция кезінде ең қолайлы әрекеттер қысқа, таныс және бір
+  қадамға бөлінген болады: кір жуып бүктеу, шұлықтарды жұптау, ыдыс жуу, ән
+  айту, бірге серуендеу, фотоальбомдар қарау және қарапайым суретті ойындар.
+  Барлығын алдын ала дайындаңыз, бірінші қадамды көрсетіңіз, қиын бөліктерін
+  өзіңіз жасаңыз және әрекетке мақсат беріңіз. Әрекет жағымды болудан қалған
+  сәтте тоқтаңыз.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Таныс үй шаруалары көбіне жақсы сәйкес келеді, себебі олар пайдалы әрі ересек адамға лайық сезіледі."
+  - "Айтып түсіндіруден гөрі көрсетіңіз, бір уақытта бір қадам ұсыныңыз және ашық сұрақтардың орнына екі қарапайым таңдау беріңіз."
+  - "Ең қиын бөлікті өзіңізге алыңыз, сонда адамға жағымды бөлігі қалады."
+  - "Мазасыз қылық көбіне адамның бір іс істеуді қалайтынын білдіреді. «Жоқ» деудің орнына оған сәйкес әрекет ұсыныңыз."
+  - "Тек қарап отыру, аздап көмектесу немесе ерте тоқтату — бәрі де жарайды."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Орта сатыдағы деменция кезінде қандай әрекеттер қолайлы?"
+    a: "Қысқа, таныс, қолмен жасалатын әрекеттер әдетте жақсы сәйкес келеді: сүлгілерді бүктеу, шұлықтарды жұптау, ыдыс жуу, үстел әзірлеу, ескі сүйікті әндерге қосылып айту, бірге серуендеу, фотоальбомдар қарау және қарапайым суретті ойындар. Әрқайсысын жеке қадамдарға бөліп, бірге орындаңыз."
+  - q: "Деменциямен өмір сүріп жатқан адамды әрекетті бастауға қалай шақыруға болады?"
+    a: "Барлығын алдын ала дайындап қойыңыз, содан кейін әрекетті өзіңіз бастап, көмекке шақырыңыз: «Осы сүлгілерді бүктеуге көмектесесіз бе?» Көптеген адамдар қатысқысы келеді, бірақ бастау олар үшін қиын болуы мүмкін. Бірінші қадамды көрсету түсіндіріп айтудан гөрі жиі жақсырақ көмектеседі."
+  - q: "Адам бір істі қайта-қайта істей берсе, не істеу керек?"
+    a: "Қайталау көбіне зиянсыз және адамның өзін бос емес сезінгісі келетінінің немесе тыныштандыруға мұқтаж екенінің белгісі болуы мүмкін. Түзетудің орнына, қимылға сәйкес әрекет ұсыныңыз, мысалы бүктеуге арналған сүлгілер себеті немесе бірге айтатын ән."
+  - q: "Адам әрекетті «дұрыс емес» орындаса ше?"
+    a: "Егер бұл зиянсыз болса, солай бола берсін. Сүлгілер басқаша бүктелсе немесе қасықтар басқа жерге қойылса, маңызды емес. Түзету сын сияқты қабылдануы мүмкін, ал адамның өз тәсілімен істеуіне мүмкіндік беру оған өзіне сенімді әрі пайдалы сезінуге көмектеседі."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Деменцияның орта сатысы көбіне ең ұзақ кезең болады, әрі осы кезде әрекеттер үшін нақты қолдау қажет бола бастайды. Сөздер табу қиындайды, қадамдар шатасады, ал бір істі бастау қиын сезілуі мүмкін. Дегенмен пайдалы әрі араласқысы келу ниеті әдетте сақталады. Аздап дайындықпен орта сатыдағы деменциямен өмір сүріп жатқан адам таныс үй шаруаларынан, музыкадан және сізбен қатар отырып қаралатын суреттерден ләззат ала алады.
 
-## What activities work well in middle-stage dementia?
+## Орта сатыдағы деменция кезінде қандай әрекеттер қолайлы?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Қысқа, таныс, қолмен жасалатын және жеке қадамдарға бөлінген әрекеттер ең жақсы сәйкес келеді. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) мәліметінше, әрекеттерді ойлап табудың қажеті жоқ: олар күнделікті өмірдің бір бөлігі болуы мүмкін, мысалы бірге тамақ дайындау, бақшада жұмыс істеу, музыка тыңдау немесе серуендеу.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) осы сатыдағы адамдарда өзін пайдалы сезіну немесе бір нәрсеге қамқор болу ниеті жиі сақталатынын, бірақ әрекетті бастау не жалғастыру үшін көмек қажет болуы мүмкін екенін атап өтеді. Орта сатыға арналған тізімде кір жуып бүктеу, ыдыс жуу, шұлықтарды сұрыптау, жеңіл жаттығулар, таныс музыкаға билеу, бірге серуендеу, бірге ән айту, қарапайым сурет салу және фотоальбомдар қарау бар.
 
-## How do you set up an activity so it works?
+## Әрекетті сәтті болатындай етіп қалай дайындауға болады?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Көп жағдайда әрекеттің сәтті болуы дайындыққа байланысты. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) және [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ұсынған мына әдеттер ең үлкен айырмашылық жасайды:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Орынды реттеңіз.** Теледидарды өшіріңіз, есікті жабыңыз және тек әрекетке қажет заттарды ғана қойыңыз.
+2. **Өзіңіз бастаңыз.** Бүктеуді немесе араластыруды өзіңіз бастап, адамды шақырыңыз: «Маған осыны істеуге көмектесесіз бе?»
+3. **Көрсетіңіз де, күтіңіз.** Бір қадамды көрсетіңіз. Қажет болса, қолыңызбен нұсқаңыз, мысалы тәрелкені қайда қою керегін көрсетіңіз.
+4. **Бір уақытта бір қадам беріңіз.** «Қақ ортасынан бүктеңіз» деген «осыларды бүктеп, түсі бойынша жинаңыз» дегеннен оңайырақ.
+5. **Ашық сұрақтардың орнына екі таңдау ұсыныңыз.** «Көк сүлгілер ме, әлде ақтары ма?» деген сұраққа жауап беру «Қайсысын жасағыңыз келеді?» дегеннен жеңіл.
+6. **Қиын бөлігін өзіңіз жасаңыз.** Сіз өлшейсіз, ол араластырады. Сіз жіпті сабақтайсыз, ол жіпті орайды.
+7. **Себебін айтыңыз.** «Бұл майлықтар жексенбілік асқа керек» деген әрекетті мағыналы етеді.
+8. **Адам тек қарап отырғысы келсе, рұқсат етіңіз.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) мәліметінше, жай ғана қарап отыру да жағымды болуы мүмкін.
 
-## Activity ideas for the middle stage
+## Орта сатыға арналған әрекет идеялары
 
-### Useful jobs
+### Пайдалы үй шаруалары
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Сүлгілер мен кіші сүлгілерді бүктеу.** Кішкентай, жазық заттар ең оңай. Жылы кіші сүлгілер себетін бүктеуге, тегістеуге және қайта бүктеуге болады.
+- **Шұлықтарды жұптау.** Бір-бірінен анық ерекшеленетін бірнеше жұптан бастаңыз. Тек түсі бойынша сұрыптау да жарайды.
+- **Сынбайтын ыдыстарды жуу немесе сүрту.** Жылы, сабынды су қолға жағымды. Отырып сүрту аяққа жеңілірек.
+- **Үстел әзірлеу.** Бір уақытта бір түрдегі затты беріңіз және үлгі ретінде бір орындықты өзіңіз әзірлеңіз.
+- **Тамақ дайындауға көмектесу.** Картоп жуу, жапырақты көкөніс жырту немесе ыдыстағыны араластыру. Пышақ пен ыстық заттарды өзіңіз ұстаңыз.
+- **Сыпыру, шаң сүрту немесе сүртіп тазалау.** Үстелге арналған шүберек, аулаға арналған жеңіл сыпырғыш.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Тағы көптеген идеяларды [үй шаруалары](/activities/household-tasks/) бөлімінен таба аласыз.
 
-### Music and movement
+### Музыка және қимыл
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Ескі сүйікті әндерді айту.** Өзіңіз бастап айтыңыз; көптеген адамдар ондаған жылдар бойы білетін әндерге қосылады. [Музыкалық әрекеттер](/activities/music/) бөлімін қараңыз.
+- **Еркін билеу.** Өздеріңізге жайлы болғандай тербеліңіз, қол соғыңыз немесе қимылдаңыз. Отырып жасауға да болады.
+- **Әуе шарын лақтыру.** Ол баяу қозғалады және орындықтан да оңай ұсталады.
+- **Бірге серуендеу.** Қысқа, таныс жолмен бірге жүріңіз, қажет болса қолтықтасып.
 
-### Pictures and stories
+### Суреттер мен әңгімелер
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Фотоальбом қарау.** Сұрақ қоюдың орнына көргеніңізге пікір айтыңыз: «Анау көлікке қараңызшы. Ол туралы айтып беріңізші». [Естелік әрекеттері](/activities/reminiscence/) бөлімін қараңыз.
+- **Әңгіме карталарын пайдалану.** [Әңгіме карталары](/games/conversation-cards/) суретті тест емес, ашық сұрақпен жұптайды.
+- **Бірге ескі фильм көру.** Таныс фильмді таңдаңыз, қасында болыңыз және үзіліс жасауға мүмкіндік беріңіз.
 
-### Simple, pressure-free games
+### Қарапайым, қысымсыз ойындар
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Суреттері ашық тұрған сурет жұптары.** [Сурет жұптары](/games/picture-pairs/) ойынында суреттер көрініп тұрады, сондықтан бұл есте сақтауға емес, байқауға негізделген.
+- **Ұқсасын тап.** [Ұқсасын тап](/games/find-the-same/) ойынында бір сурет және тек екі-төрт нұсқа көрсетіледі.
+- **Бірге сұрыптау.** [Бірге сұрыптау](/games/sort-together/) кірді сұрыптағандай: суретті басыңыз, содан кейін оның себетін таңдаңыз.
+- **Суретті бинго.** [Суретті бинго](/games/picture-bingo/) отбасылық кездесулер мен топтар үшін қолайлы.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Егер ойын көңілсіздік тудыра бастаса, тоқтап, басқа нәрсе жасаңыз. [Бірге қалай ойнау керек](/caregiving/how-to-play-together/) бөлімін қараңыз.
 
-## Turning restlessness into an activity
+## Мазасыздықты әрекетке бағыттау
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Мазасыз немесе қайталанатын қылықтың көбіне себебі болады. Family Caregiver Alliance шкафты қайта-қайта босатып жатқан адам өзін бос емес әрі пайдалы сезіну қажеттігін қанағаттандыруға тырысуы мүмкін екенін айтады. Alzheimer's Association мұндай белсенділікті тоқтатудың орнына, оған сәйкес әрекетке бағыттауды ұсынады.
 
-| What you see | Something to offer |
+| Не байқап тұрсыз | Не ұсынуға болады |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Үстелді ысқылау немесе тырналау | Ылғалды шүберек және үстелді сүртуді сұрау |
+| Аяқтың тыным таппауы немесе тарсылдату | Ырғақпен соғуға немесе қол шапалақтауға болатын анық әуені бар музыка |
+| Жәшіктерді немесе шкафтарды босату | Бүктеп, сұрыптауға арналған киім немесе сүлгілер себеті |
+| Бір сұрақты қайта-қайта қою | Тыныштандыру, содан кейін бірге айтатын ән немесе ортақ іс |
+| Арылып-беріліп жүру | Бірге серуендеу немесе зат тасуға байланысты іс |
+| Кешкі мезгілдегі мазасыздық | Жарығы жақсы жерде таныс, тыныш әрекет; [кешкі мазасыздық](/caregiving/late-day-restlessness/) бөлімін қараңыз |
 
-## When to stop or change course
+## Қашан тоқтау немесе бағытты өзгерту керек
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Шаршау, көңілсіздік, ыңғайсыздық немесе зерігу белгілерін көргенде тоқтаңыз, мысалы орнында тықыршуы, қабағын түюі, заттарды итеріп жіберуі немесе «мен істей алмаймын» деуі. Alzheimer's Association әрекетті күннің басқа уақытында қайталап көруді немесе оны жеңілдетуді ұсынады. Мәжбүрлемеңіз. Бас тарту қорқыныштан немесе тапсырманың тым қиын болуынан туындауы мүмкін; [адам «жоқ» десе](/caregiving/when-they-say-no/) бөлімін қараңыз.
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Ерте аяқтау да жарайды. Бірге отырып шай ішу де жеткілікті. Қабілеттер одан әрі өзгерген сайын [кейінгі сатыдағы әрекеттер](/activities/late-stage/) бөліміндегі идеялар көбірек сәйкес келуі мүмкін, ал [101 әрекет](/activities/ideas/) бөлімінде тағы да көп нұсқа бар.

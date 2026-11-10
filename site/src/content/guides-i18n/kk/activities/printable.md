@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Деменцияға арналған тегін баспа материалдары"
+seoTitle: "Деменцияға арналған тегін баспа: ірі қаріп"
+description: "Деменцияға арналған тегін баспа: ірі қаріпті сөзжұмбақ, бояу парақтары, әңгіме карталары және суретті бинго, әрі басып шығару кеңестері."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments деменцияға арналған тегін баспа материалдарын ұсынады:
+  ірі қаріпті сөзжұмбақ, бояу парақтары, суретті әңгіме карталары және суретті
+  бинго карталары. Кез келген ойын бетіне кіріп, ондағы «Басып шығару»
+  батырмасын пайдаланыңыз. Ірі, қарапайым қаріппен, қалың қағазға басып
+  шығарыңыз, бір бетке бір тапсырма орналастырыңыз және қайта қолданғыңыз
+  келетін беттерді ламинаттаңыз. Өмірбаян парағы немесе күн тәртібі сияқты
+  қарапайым қолдан жасалған баспа материалдары да пайдалы болуы мүмкін.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Біздің баспа материалдары тегін: «Сөзжұмбақ», «Бояу», «Әңгіме карталары» және «Суретті бинго». Әр ойын бетінде «Басып шығару» батырмасы бар."
+  - "Ірі, қарапайым қаріппен, айқын контрастпен басып шығарыңыз және бір бетке бір тапсырма ғана орналастырыңыз."
+  - "Қалың қағаз немесе картон ұстауға ыңғайлы әрі мыжылуға төзімді. Беттерді қайта пайдалану үшін оларды ламинаттап, құрғақ сүртілетін маркерлермен қолданыңыз."
+  - "Өмірбаян парағы, күн тәртібі немесе есіктерге арналған суретті белгілер сияқты қолдан жасалған баспа материалдары қарапайым әрі пайдалы."
+  - "Басып шығарылған бет — бұл үй тапсырмасы емес, шақыру ғана. Оны жартылай орындау немесе мүлдем орындамау да қалыпты."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Деменцияға арналған баспа материалдарыңыз тегін бе?"
+    a: "Иә. Осы сайттағы «Сөзжұмбақ», «Бояу», «Әңгіме карталары» және «Суретті бинго» беттерін тегін пайдаланып, басып шығаруға болады. Ойын бетіне кіріп, «Басып шығару» батырмасын қолданыңыз."
+  - q: "Деменцияға арналған қандай баспа жаттығулары қолайлы?"
+    a: "Ең қолайлы баспа материалдары — қарапайым, түсінікті және ересектерге лайықталғандары: сөздер тек оңға және төмен орналасқан ірі қаріпті сөзжұмбақ, айқын контуры бар бояу парақтары, әңгіме бастауға көмектесетін суретті карталар және топқа арналған суретті бинго. Жаттығуды адамның қызығушылықтары мен қазіргі мүмкіндіктеріне сай таңдаңыз және бір бетке бір тапсырма ғана қойыңыз."
+  - q: "Баспа материалдарын көруге және пайдалануға қалай ыңғайлы етуге болады?"
+    a: "Ірі, қарапайым қаріпті, ақ немесе крем түсті қағазға қою сиямен және жеткілікті бос орын қалдырып басып шығарыңыз. Бет тегіс жатуы үшін қалың қағазға немесе картонға басып шығарыңыз, шағылысуды азайту үшін жылтыр емес қағазды таңдаңыз және бетті орнында ұстау үшін планшет немесе сырғымайтын төсеніш пайдаланыңыз. Ламинаттау беттердің ұзақ қызмет етуіне көмектеседі."
+  - q: "Бұл материалдарды қамқорлық орталығында немесе күндізгі бағдарламада басып шығаруға бола ма?"
+    a: "Иә. Жаттығу ұйымдастырушылары біздің беттерді тұрғындар мен топтар үшін басып шығара алады. «Суретті бинго» топтарға арналған және теледидарда немесе проекторда көрсетуге болатын экрандағы жүргізуші құралын қамтиды."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Кейде ең жақсы жаттығу — ас үйдегі үстелде жатқан бір парақ қағаз бен қалам. Баспа материалдарын зарядтаудың, құпиясөздің немесе экранның қажеті жоқ, әрі оларды қонаққа барғанда немесе топтық кездесуге алып жүру оңай. Бұл бетте біздің сайттағы тегін баспа материалдары, оларды көруге және ұстауға ыңғайлы етіп қалай басып шығару керек, сондай-ақ отбасылар мен жаттығу ұйымдастырушылары пайдалы деп санайтын бірнеше қарапайым қолдан жасалған баспа түрлері сипатталған.
 
-## What free printable activities do you offer?
+## Сізде қандай тегін баспа материалдары бар?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Біз төрт тегін баспа материалын ұсынамыз. Төмендегі ойын беттерінің кез келгеніне кіріп, басып шығаруға ыңғайлы нұсқаны алу үшін **Басып шығару** батырмасын пайдаланыңыз.
 
-| Printable | What it is | Good for |
+| Баспа материалы | Бұл не | Кімге қолайлы |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Сөзжұмбақ](/games/word-search/) | Сөздер тек оңға және төмен орналасқан ірі қаріпті сөзжұмбақ | Қаламмен тыныш уақыт өткізуге; бұрын жұмбақтарды ұнатқан адамға |
+| [Бояу](/games/coloring/) | Бояуға арналған парақтар: басып шығаруға немесе экранда бояуға болады | Жайлы, шығармашылық уақытқа; кез келген кезеңде көмекпен |
+| [Әңгіме карталары](/games/conversation-cards/) | Тақырып бойынша ашық, сұрақ-жауап емес әңгіме бастамалары бар суретті карталар | Кездесулерге, қоңырауларға, отбасылық дастарқанға, еске алу топтарына |
+| [Суретті бинго](/games/picture-bingo/) | Сандардың орнына суреттері бар бинго карталары және экрандағы жүргізуші құралы | Қамқорлық орталықтарына, күндізгі бағдарламаларға, отбасылық жиындарға |
 
-### Large-print word search
+### Ірі қаріпті сөзжұмбақ
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Сөзжұмбақ](/games/word-search/) ірі әріптермен жазылған және сөздер тек оңға және төмен орналасқан, қиғаш немесе кері сөздер жоқ. Оны бірге орындаңыз: бір адам тізімдегі сөзді оқиды, екіншісі оны іздейді. Егер сөздерді табу қиын болса, әр сөздің бірінші әрпін бірге дөңгелектеп көріңіз немесе сөз тізімін дауыстап оқып, әр сөз туралы әңгімелесіңіз.
 
-### Coloring pages
+### Бояу парақтары
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Бояу](/games/coloring/) парақтарын маркерлермен немесе түрлі түсті қарындаштармен бояу үшін басып шығаруға немесе планшетте алдымен түсті, содан кейін суреттің бөлігін таңдап бояуға болады. Басып шығарылған беттер үшін қалың маркерлерді және бір уақытта аз ғана түстерді ұсыныңыз. Бояуды ересектерге лайық әрі жайлы ету жолдары үшін біздің [қолөнер мен шығармашылық нұсқаулығымызды](/activities/arts-and-crafts/) қараңыз.
 
-### Conversation cards
+### Әңгіме карталары
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Әңгіме карталары](/games/conversation-cards/) анық суретті «Айтып беріңізші...» немесе «Сіз не байқадыңыз?» сияқты ашық сұрақпен біріктіреді. Олар сұрақ-жауап ретінде емес, ашық шақыру ретінде жазылған. Жиынтықты басып шығарып, бөліп қиыңыз да, бірнешеуін кездесулерге алып жүру үшін сөмкеге салып қойыңыз немесе қоңырау шалу үшін телефонның жанына қойыңыз. Олар [еске алу](/activities/reminiscence/) топтарында да жақсы жұмыс істейді.
 
-### Picture bingo cards
+### Суретті бинго карталары
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Суретті бинго](/games/picture-bingo/) карталарында сандардың орнына суреттер бар. Әр ойыншыға бір картадан басып шығарып, ноутбукта, теледидарда немесе проекторда экрандағы жүргізуші құралын пайдаланыңыз. Ешкім қалып қоймас үшін, бәрінің картасы толғанша ойнауды ұсынамыз. Ойынды қалай өткізу туралы [қамқорлық орталықтарына арналған топтық жаттығулар](/activities/care-home-groups/) бөлімін қараңыз.
 
-## How do I print activities so they are easy to use?
+## Баспа материалдарын пайдалануға ыңғайлы етіп қалай басып шығаруға болады?
 
-Small changes in how you print make a big difference.
+Басып шығару тәсіліндегі шағын өзгерістер үлкен айырмашылық жасайды.
 
-### Make it easy to see
+### Көруге ыңғайлы етіңіз
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Ірі, қарапайым қаріп.** Бетке сыйып тұрған ең үлкен қаріп өлшемін пайдаланыңыз. Көркем немесе көлбеу қаріптерден аулақ болыңыз.
+- **Айқын контраст.** Ақ немесе крем түсті қағазға қою сия қолданыңыз. Ашық сұр немесе түрлі түсті фондардан бас тартыңыз.
+- **Жылтыр емес қағаз** жарқыраған жарықта шағылысуды азайтады.
+- **Көзілдірік пен жарықты тексеріңіз.** Alzheimer's Association көру және есту қиындықтарының қарым-қатынасты қиындатуы мүмкін екенін және оларды үнемі тексертіп тұрған жөн екенін айтады. Жарық әрі біркелкі шам да көмектеседі.
 
-### Make it easy to hold
+### Ұстауға ыңғайлы етіңіз
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Қалың қағаз немесе картон** тегіс жатады, оны көтеру оңай және қайта пайдалануға төзімді.
+- **Планшет** немесе сырғымайтын төсеніш беттің сырғып кетуін болдырмайды.
+- **Қалың маркерлер немесе жуан қарындаштар** жұқа қаламдарға қарағанда ұстауға оңай.
 
-### Make it reusable
+### Қайта пайдалануға ыңғайлы етіңіз
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Беттерді ламинаттаңыз** немесе мөлдір файлдарға салыңыз. Сөзжұмбақтар мен бинго карталарында құрғақ сүртілетін маркерлерді қолданып, кейін сүртіп тастаңыз.
+- **Шағылысу мәселе болса, жылтыр емес ламинат қабықтарын** таңдаңыз және карталарды ұстау ыңғайлы болуы үшін **бұрыштарын қайшымен дөңгелектеңіз**.
+- **Таңдаулы беттердің қалтасын** жасап қойыңыз, сонда бір бетті әр апта сайын қайта басып шығарудың қажеті болмайды.
 
-### Keep it simple
+### Қарапайым ұстаңыз
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Бір бетке бір тапсырма.** Бір бетте бірнеше жаттығу тығыз орналаспай, тек бір сөзжұмбақ немесе бір сурет болсын.
+- **Жеткілікті бос орын.** Толы бет шаршатып жіберуі мүмкін.
+- **Мүмкіндігінше оқитын нұсқаулық болмасын.** Не істеу керегін сөзбен түсіндіруден гөрі, көрсетіп жіберіңіз.
+- **Парақты кішірейтіңіз.** Егер толық бет тым көп болса, оны екіге бөліңіз немесе бір бөлігі ғана көрінетіндей етіп бүктеңіз.
 
-## Other useful printables you can make at home
+## Үйде өзіңіз жасай алатын басқа пайдалы баспа материалдары
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Пайдалы әрбір баспа материалы ойын болуы міндетті емес. Мыналарды мәтіндік редактор мен принтер арқылы оңай жасауға болады.
 
-### A life-story page
+### Өмірбаян парағы
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Суреті бар бір беттік «мен туралы» парағы: адам қалай аталғанды ұнататыны, қайда өскені, мамандығы, отбасы, сүйікті тағамдары, музыкасы және оны жұбататын немесе мазасыздандыратын нәрселер жазылады. Dementia Australia қонақтар мен қамқоршыларға көмектесу және әңгіме бастау үшін адамның өмірі, ұнататын нәрселері және маңызды адамдары туралы мәліметтері бар [естелік кітапты](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ұсынады.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Бұл әсіресе ауруханаларда және жаңа қамқорлық жағдайларында пайдалы. NIA аурухана қызметкерлеріне адамның күн тәртібі, қалай аталғанды ұнататыны, ұнататын және ұнатпайтын нәрселері, мүмкін тітіркендіргіштері және ауырсынудың сөзсіз белгілері туралы [жеке ақпарат парағын](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) беруді ұсынады.
 
-### A daily schedule
+### Күн тәртібі
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Күнге арналған ірі әрі қарапайым кесте: уақыттары, бірнеше сөз және әр бөлікке шағын сурет — таңғы ас, серуен, түскі ас, демалыс, музыка, кешкі ас. Alzheimer's Association ұсынған [күнделікті күтім жоспары](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) адамның өзін жақсы сезінетін уақыттарын ескере отырып жоспарлауды, тұрақты ұйқы мен ояну уақытын және белсенділік пен демалыстың тепе-теңдігін сақтауды ұсынады. Оны көз деңгейінде, мысалы тоңазытқышқа, іліп қойыңыз және икемді ұстаңыз. Толығырақ біздің [күн тәртібі нұсқаулығымызда](/activities/daily-routine/).
 
-### Picture labels for rooms and drawers
+### Бөлмелер мен тартпаларға арналған суретті белгілер
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA [жуынатын бөлме, жатын бөлме және ас үйді белгілеу](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) үшін жарқын түсті белгілерді немесе қарапайым суреттерді пайдалануды ұсынады. Дәл осы ойды тартпалар мен шкафтарға да қолдануға болады: шұлық тартпасына шұлық суретін, шыныаяқ шкафына шыныаяқ суретін іліңіз. Баспадан шығарып, ламинаттап, жапсырыңыз.
 
-### A sorting set
+### Сұрыптау жиынтығы
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Екі қарапайым санаттағы суреттерді, мысалы жемістер мен гүлдерді немесе құралдар мен ас үй заттарын, картонға басып шығарыңыз. Оларды бөліп қиып, бірге екі себетке сұрыптаңыз. Мұның экрандағы нұсқасы — [Бірге сұрыптаймыз](/games/sort-together/).
 
-### Song lyric sheets
+### Ән мәтіндері бар парақтар
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Бірге ән айту үшін бірнеше сүйікті әннің сөздерін өте ірі қаріппен басып шығарыңыз. Қазір көп оқымайтын адамдардың өзі парақты қолында ұстағанды ұнатуы мүмкін.
 
-### A family photo page
+### Отбасылық фото парағы
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Бір бетке төрт-алты үлкен отбасылық фотосурет қойып, әрқайсысының астына атын жазыңыз. Оны үстелге қойып, кез келген адам алып, әңгіме бастай алады. Жазулар қонақтар мен қызметкерлерге әңгімеге қосылуға көмектеседі, әрі ешкім «Бұл кім?» деп сұрауға мәжбүр болмайды.
 
-### A recipe card
+### Рецепт картасы
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Сүйікті отбасылық рецептті ірі қаріппен басып шығарыңыз. Оны бірге тамақ дайындау үшін қолдануға немесе бұрынғы дастарқан жайлы әңгімелесу үшін пайдалануға болады.
 
-## How do I offer a printable without it feeling like homework?
+## Баспа материалын үй тапсырмасы сияқты сезілмейтін етіп қалай ұсынуға болады?
 
-Present it as something to share, not a test.
+Оны сынақ емес, бірге істейтін нәрсе ретінде ұсыныңыз.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Отырып, өзіңіз бастап көріңіз.** «Мен осы сөзжұмбақты шешіп отырмын. Маған “бақша” сөзін табуға көмектесесіз бе?»
+- **Бірге орындаңыз.** Кезектесіп істеңіз немесе біреуі тауып, екіншісі дөңгелектесін.
+- **Ешқашан дұрыс немесе бұрыс деп бағаламаңыз.** Alzheimer's Association ұсынған [үйдегі жаттығуларға арналған нұсқаулық](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) нәтижеге емес, үдеріске және жетістікке емес, ләззат алуға назар аударуды кеңес береді.
+- **Беттерді көз жетер жерде қалдырыңыз.** Сол нұсқаулық альбомдарды, фотоальбомдарды немесе ескі журналдарды оңай жететін жерлерге қоюды ұсынады. Басып шығарылған карталар мен фото парақтарын да дәл осылай қойып қоюға болады.
+- **Қалаған кезде тоқтаңыз.** Жартылай боялған бет те жақсы өткізілген күн болуы мүмкін. Бетті жинап қойып, бір кесе шай ішу де жарайды.
 
-## Where to find more
+## Қосымша материалдар
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Барлық [ойындар мен баспа материалдарын](/games/) қарап шығыңыз немесе қағазбен де, қағазсыз да көбірек идеялар алу үшін [әр кезеңге арналған жаттығуларды](/activities/ideas/) қараңыз.
