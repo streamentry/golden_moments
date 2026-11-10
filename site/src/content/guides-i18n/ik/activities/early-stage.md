@@ -1,32 +1,34 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Savaaksrat Sivulliqpaŋmi Dementia-mi"
+seoTitle: "Savaaksrat Sivulliqpaŋmi Dementia-mi"
+description: "Savaaksranik iḷisaġutit sivulliqpaŋmun dementia-mun: aliŋŋuqsat, piuġausiŋit, aullaqatit, aglaun, iluqatigisuluni parnaiyaġniq, mikinik allanguutinik."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Sivulliqpaŋmi dementia-mi, iñuit ammalataq savaaqsaaġniaqługu quviasuktatik:
+  aliŋŋuqsatik, kaŋiġutit piuġausiŋillu, igaq, nauttiivik, pisuaqtuq,
+  ilagiit, ukpiqqutit suli ikayuqtuiññiq. Allanguutit mikiruŋuurut:
+  iñugiaktunik katimaniit, naittumik aullaqatit, naŋŋiġnaqtuat
+  aglaaġviŋit parnaiyaġviŋillu, suli ilaan ikayuqtuaq qanitillugu.
+  Apiqsruġlugu iñuk dementiaqaqtuq sunik ikayuutinik pisukkumiñaqtuq,
+  suli iḷisimaruksraŋanik sivulliqtuksraŋanik.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Iñuit ammalataq sivulliqpaŋmi iñuuŋarut inmikkuŋ. Savaaksrat allanguqtaksraŋit mikirut, taimaŋŋa allaliuqtaksraŋitchut."
+  - "Apiqsruġlugu iñuk sunik ikayuutinik pisukkumiñaqtuq, suli isumaqatigiiksigilugu naŋŋiġnaqtuamik nalunaiqqutik ikayuutaq piġumiñaqpaaŋ."
+  - "Iñugiaktut katimaniit, nipitqiḷḷuat, suli naittuat aullaqatit ikayuutausuurut."
+  - "Uva pakkuaŋani iñuk sivulliqtigiñiaġaa savaaksranik iñuunmiŋik, iḷisaatqun aglaunmiñik uvvaluunniit iñuunmiŋik unipkaaq uqaluktuat."
+  - "Piuġausiŋit quviasuutiŋaruksraurut. Qimakługu sumik nalupqisuutinik iḷitchuġigumiuk."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Sunik savaaksranik nakuuruat sivulliqpaŋmun dementia-mun?"
+    a: "Iḷisimanaqługu, iñuum quviasuktai savaaksrai: kaŋiġutit, piuġausiŋit, igaq, nauttiivik, pisuaqtuq, atuutit, ukpiqqutit, ilagiit suli ikayuqtuiññiq. Naitqummiġukługit, nipitqiḷḷuutilugit uvvaluunniit naŋŋiġnaqtilugit atullasigit. Aglaun, aglaktaun suli iñuunmi unipkaaq savaaq nakuuruat tavra pakkuaŋani."
+  - q: "Qanuq ikayuqługu iñuk savaaminik iñiqsraqpaŋa?"
+    a: "Apiqsruġlugu sunik ikayuutinik pisukkumiñaqtuq, suli qiñiġniaqtuġlugu. Isumaqatigiiksigilugu uqausiq uvvaluunniit nalunaiqqutaq uqaqtuq ikayuutiñiaġniq, iḷisaatqun uqaluk uvvaluunniit atiq iñugiaksraqtuq. Annaŋuliqsitqiññagu, savaaqsiḷi iñuuŋmiñiġa qanuq, taavrumuuna uniuksralluaqtuq."
+  - q: "Iñuk sivulliqpaŋmi dementia-lik nutaanik savaaksranik atuġniaġaa?"
+    a: "Ii, pisukkumiñagu. Iḷitchuġirami aliŋŋuqsat naŋŋiġnaqsauyuruaq, aglaan ammalat iñuit nutaanik quviasuutiqaqtut, iḷisaatqun dementia-mun iḷisaqtitauyumi pisuaqatigisun ilagiitni, saŋiġnik ilihaqtuutini uvvaluunniit atuqtit ilagiinni. Atausiġmik atuqsiññaqtugu aksuroaqsraitqun, tavra qiñiġlugu qanuq iḷitchuġigaa."
+  - q: "Isummatigun ikayuqtit atuġaksrat nakuuruat sivulliqpaŋmi?"
+    a: "Iḷaŋat iñuit quviasuktut nalupqisuutinik uqaluŋniglu piuġausiŋnik, tavra quviasuutigigaat nalaunaruq. Atuqtauniq uvvaluunniit piuġausiq nalunaiqsimanngilaq dementia-mik aŋalatchiññiġmun, suŋiḷḷiqsautilaaŋiññiġmun uvvaluunniit nuŋulliqsautilaaŋiññiġmun. Piuġausiq sivisuġutigigumiuk uvvaluunniit iñuum iḷitchuġigumiuk nalupqisuksraŋanik, qimakługu."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +50,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Sivulliqpaŋmi dementia-mi, iñuit ammalataq iñuurut sivunmi iñuuŋaġmiqtut. Suli savaaqatigisuurut, ikayuqtuisuurut, niuviqqataaqtut suli iñuunmiŋni parnaiyaqtuuruut. Savaaksrat allaliuqtaksraŋitchut; mikinik allanguqtaksraurut quviasuutauniaqługit. Iḷiññiq ikayuqtuaqtuq, iñuk kamaksriñiaqtuaqtuŋit: ikayuqtuaq, parnaiyaqatigisuuq suli ikayuqtuaq apiqsriġumi.
 
-## What activities are good in early-stage dementia?
+## Sunik savaaksranik nakuuruat sivulliqpaŋmi dementia-mi?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Nakuuruaġiruat savaaksrat sivulliqpaŋmi iḷisimanaqługu iñuum quviasuktai, mikiruanik naŋŋiġnaqtilugit. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) iḷisaġutigai kaŋiġutit, piuġausiŋit, uqaluniksraanik nalupqisuutit, pisuaqtuq, mumigaaqtuq, nauttiivik, nautchianik iḷisaġniq, unipkaaq, saŋiġniq, atuutit, aglaun, aglaktaun, uqaluktuanik unipkaanik savaaq, igaq suli alġaqsraqtuat iñuuviksrat.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Allanguqtuq iñiqsuqługu, savaaq allanguŋitchuq. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) uqaqtuq iñuit sivulliqpaŋmi akuliġumiñaqtut quviasuktamiŋnik savaaksranik, suli nalunaiqtaa iñuk iñugiaktuŋani quviasuunmi sivisuġumiñaqtuq, aglaan iñugiaktukumi katimani aŋiḷḷuaqtaq. Uqaqatigiigilugu sunik akituniraqtuq, suli ilaqatigiigilugu allanguqtiġlugu.
 
-## Ask first, and agree on how to help
+## Apiqsrilugu sivulliqpaami, suli isumaqatigiiksigilugu qanuq ikayuġniq
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association sivulliqpaŋmun maliġuaġutit](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) iḷisaġutigai maliġuaġutit savaaksranun atuġumiñaqtut:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Tuŋŋa apiqsrilugu.** „Suna ikayuġniaġaa uqaluktuat ilagiinni atuġniq?“ nakuuruamik kiuviaqaqtuq isumaaniqsraġlugu.
+- **Isummaġilugu savaaqsiḷḷasiruq.** Annaŋuliqsitqiññagu, iñuum atuġlisiġilugu, suli ikayuġlugu taimaŋŋa iñiqsraqpaŋagu.
+- **Isumaqatigiiksigilugu nalunaiqqutaq.** Piksigilugu uqausiq uvvaluunniit nalunaiqqutaq uqaqtuq „ikayuġniallasiruq,“ iḷisaatqun atiq iñugiaksraqtuq kaŋiġutini.
+- **Qiñiġniaqtuġlugu.** Apiqsrilugu ikayuutaq naammagigaa, ammalatchuuruq uvvaluunniit ikitpalluuruq.
 
-## Activity ideas for the early stage
+## Savaaksranik iḷisaġutit sivulliqpaŋmun
 
-### Keep up roles and hobbies
+### Savaaksrat aliŋŋuqsallu atuġniaġlugit
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Piqsigilugu atuġumiñaqtaq savaaq.** Ikuakuni ikayuqtuiññiq, atuutit ilagianni uvvaluunniit ilagiit nalunaiqsautigaa ikuak. Sivisuġutigigumiuk, naittumik uvvaluunniit nipitqiḷḷuamik atullaktaaq.
+- **Iḷaqatigiigilugu niqinik parnaiyaġniq.** Niuvirvik sivisuġutigigumiuk, Alzheimer's Association iḷisaġutigaa iñuum ikayuġniġaa ikuakun niqi parnaiyaġniġaa suli aglaġniġaa.
+- **Igaq suli niqinik savaaq.** Iḷaqatigiigilugu quviasuktaq niqinik maliġuaġun atuġlugu. Piqsiḷugit niqit sivulliqpaami atuġumiñaqtamik, maliġuaġutit tautuġniaqługit.
+- **Nauttiivik.** Parnaiyaġlugu nauttiivik, piksigilugit nautchiat suli savaaqatigiigilugu. Ikuaqmi savaaksranik aglaaġvik ikayuutausuuruq.
+- **Aliŋŋuqsiñiq atuġniaġlugu.** Qirukmi savaktuaq, miquliqtuq, qalipchaqtuq uvvaluunniit savaaqatigun savaaq atuġniaqługu naŋŋiġnaqtuanik maliġuaġutinik suli qaumman nakuuruakun.
 
-### Games for enjoyment
+### Piuġausiŋit quviasuutauyut
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Kaŋiġutit piuġausiŋillu.** Iḷitchuġirat piuġausiŋit naŋŋiġnaqsauyut. Ilagiitni piuġaġniq, kisimi uqautchigumiñaqtuaq; kisitchiutinik itqaumaniġitqiġlugu uvvaluunniit piḷḷuŋiłḷugu.
+- **Aŋiqatuaq uqaluŋnik nalupqisuuq.** [Uqaluŋnik nalupqisuuq](/games/word-search/) atuġniaġaa qaġmiñi uvvaluunniit aglaaġviumin nipitqiḷḷuami.
+- **Nalupqisuutit savaaq.** Piksigilugu ammalat naŋŋiġnaqtuq, akitutchuaqtuŋiłḷugu. [Iġñiq nalupqisuuq](/games/picture-puzzle/) naittuq qaġmiñi, suli [nalupqisuutit dementia-mun](/activities/puzzles/) ikayuġniaqtuq piksigiksaġniq.
+- **Apiqqutit ilagiitni quviasuutiŋaruksraatigut.** Iḷaŋat iñuit quviasuktut ilagiitni apiqqutimik. Nalupqisuutituqtuq, allamik piksigilugu, uvvaluunniit atuġlugu [naŋŋiġnaqtut apiqqutivut](/activities/trivia/), kiuvianik piksraqaqtut suli kisitchiutaitchuq.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Piuġausiŋit quviasuutiŋaruksraurut. Piuġausiq nalunaiqsimanngilaq dementia-mik aŋalatchiññiġmun uvvaluunniit suŋiḷḷiqsautilaaŋiññiġmun; taiguaqtuġlugu [isummatigun piuġausiŋit: ilisimatuut nalunaiqsiruŋat](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Aglaun, isumaalguġniq suli itqaumaniq
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Aglaġniq uvlut tamaani.** Alzheimer's Association iḷisaġutigaa aglaun ikayuutausinnaasugaa iñuum isumaa sivulliqpaami nalunaiqsirami. Uvlut tamaani mikiruanik aglaġniq naammagiruq.
+- **Iñuunmi unipkaaq sivulliqtigilugu.** Sivulliqpaq pakkuaŋa nakuuruq iñuum iġñiŋi piksisigikługit suli unipkaanik aglaġlugit uvvaluunniit uqautigilugit. Taiguaqtuġlugu [itqaumanik savaaksrat](/activities/reminiscence/).
+- **Aglaktaun.** Aglaktaun tutqiġmun, iluaqutmiñun uvvaluunniit savaaqatigiunmiñun piŋuaqtuq malruiññik.
+- **Iġñiŋnik uqaqatigiiniq.** [Iġñiq malġuk](/games/photo-pairs/) ilagiit iġñiŋit piuġausiuġai malġuk nalautchiksranik, suli [uqaqatigiiksranik kaŋiġutit](/games/conversation-cards/) naŋŋiġnaqtuanik aullaqtiksranik tuniyut.
 
-### Go out and move
+### Aniqtuq suli aullaqtuq
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) iḷisaġutigaa iḷitchuġirat aullaqatit atuġniaġlugit ilivsi malguġniq nakuugigupsigik. Parnaiyaġlugit iñuum nakuuniraġmiŋani uvlumi suli sivisuuquqtautailugit.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Naittut aullaqatit.** Tautuktivik, tautuktautivik uvvaluunniit saŋiġnik tautuktautivik, nipitqiḷḷuami.
+- **Immaqtuq.** NIA iḷisaġutigaa imaqvik nipitqiḷḷuami.
+- **Pisuaqtuut ilagiit suli mumigaaqtit ilihaqtuutit.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) uqaqtuq mumigaaqtuq, tai chi, yoga, immaqtuq suli pisuaqtuut ilagiit, suli dementia-mun iḷisaqtitauyut ilagiit aŋiñiaġata.
+- **Atuutit ilagiit suli itqaumanik katimaniit.** Nipitqiḷḷuat katimaniit iñuit dementiaqaqtut ikayuqtuaŋillu ilaiññik paqitchiġniaqtut.
 
-## Small changes that keep activities enjoyable
+## Mikinik allanguutit savaaksrat quviasuutaullasigik
 
-| If this is getting harder | Try this |
+| Akituniraqtuq una | Atullagu una |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Iñugiaktut nipitqiruatlu iñiit | Nipitqiḷḷuami aullaqtuq, iñugiaktunik piksigilugu, saniani aquviġlugu |
+| Nutaat atiŋit itqaumaġumiñait | Atiq uqautigilugu atausiġmiḷḷu; ilagiit atiqsiqaqtuksraŋit apiqsrilugit |
+| Ammalat maliġuaġutit maliġniq | Maliġuaġutit aglaġlugit, uvvaluunniit tamaita sivulliqpaami piqsiġlugit |
+| Savaŋniq | Naitqummiġlugu aullaqtit, kiŋunmi naalaksraq, allanik parnaiyaġutitqiññiq uvlumi |
+| Piuġausiŋmi maliġniq | Ilagiitni piuġaġniq, maliġuaġutit naŋŋiġnaqtilugit, uvvaluunniit kisitchiutit piḷḷuŋiłḷugit |
+| Uqaluŋnik nalupqisuuq | Utqiaġvigilugu; uqaluq ikayuġlugu nalunaiqqutipsi apiqsrigumi |
 
-## When to slow down
+## Qakugu suŋiḷḷiqsaġniq
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Nutqaġlugu uvvaluunniit allanguqtilugu savaaq sivisuġutiniraġumi quviasuutaġniġmiñi. Sivisuġutigiñiq, aliŋŋuqsiminiq akuliġumiñaraa uvvaluunniit „savaŋŋaġniaqtuŋa“ uqaqtuq, uqaqatigiġniallasiruq taimaŋŋa piḷḷuġumiñaitchuq. Ammalat kiugiaq mikiruuraq savaaq. Iñuum ikayuutauyuksraġumiuk aullaqtiruksraŋani suli maliġuksraŋani, [quliŋŋuġumi savaaksrat](/activities/middle-stage/) nakuurusuurut. Ikayuutaullasik uqaqatigiiksraq, taiguaqtuġlugu [uqaqatigiiksranik maliġuaġutit](/caregiving/communication-tips/), suli ammalat iḷisaġutit taiguaqtuġlugit [101 savaaksrat](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Iḷauŋat ikayuqtuaq ikayuutaqariaqaqtuq. Sivulliqpaq pakkuaŋa nakuuruq ikayuqtinik paqitkiksraġniq; taiguaqtuġlugu [kamaksriñiq inmikkuŋ](/caregiving/caregiver-self-care/).
