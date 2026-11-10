@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Actiones in medio gradu dementiae"
+seoTitle: "Actiones in medio gradu dementiae: consilia simplicia"
+description: "Actiones simplices in medio gradu dementiae: opera utilia, musica, imagines et ludi faciles, cum gradibus et modis inquietudinem in actionem vertendi."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  In medio gradu dementiae optimae actiones sunt breves, notae et in singulos
+  gradus divisae: vestes complicare, tibialia paria facere, vasa lavare,
+  cantare, una ambulare, albums imaginum inspicere et ludi simplices cum
+  imaginibus. Res para, primum gradum ostende, partes difficiles suscipe et
+  actioni propositum da. Desine cum iam non est iucunda.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Nota opera domestica saepe optime conveniunt, quia utilia et digna adulto videntur."
+  - "Potius ostende quam explica, unum gradum simul offer, et duas electiones simplices pro quaestionibus apertis propone."
+  - "Partem difficillimam suscipe, ut persona quam curas partem gratam facere possit."
+  - "Inquietudo saepe significat personam egere aliqua re agenda. Actionem aptam offer pro «non» dicendo."
+  - "Spectare, paulum adiuvare aut citius desinere omnia bene sunt."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Quae actiones aptae sunt in medio gradu dementiae?"
+    a: "Actiones breves, notae, manibus faciendae plerumque optime conveniunt: mantelia complicare, tibialia paria facere, vasa lavare, mensam parare, cantus notos una canere, una ambulare, albums imaginum inspicere et ludi simplices cum imaginibus. Quamque actionem in singulos gradus divide et una facite."
+  - q: "Quomodo adiuvare possum ut persona dementia vivens actionem incipiat?"
+    a: "Omnia para, deinde ipse actionem incipe et personam ad auxilium invita: «Potesne mihi cum his manteliis auxilium ferre?» Multi interesse volunt, sed initium difficile inveniunt. Primum gradum ostendere plerumque melius est quam explicare."
+  - q: "Quid faciam si eandem rem iterum atque iterum facit?"
+    a: "Iteratio saepe innocua est et significare potest personam occupatam esse velle aut confirmationem petere. Pro correctione, actionem offer quae motui conveniat, ut corbem pannorum complicandorum aut cantum una canendum."
+  - q: "Quid si actionem aliter facit?"
+    a: "Si res innocua est, sine ita esse. Non refert si mantelia aliter complicantur aut cochlearia loco alieno ponuntur. Correctio reprehensio videri potest, dum suo modo agere sinit personam se capacem et utilem sentire."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Medius gradus dementiae saepe est longissimus, et tunc actiones vero auxilio egere incipiunt. Verba difficilius inveniuntur, gradus confunduntur, et aliquid incipere difficile videri potest. Sed desiderium utilem et participem esse plerumque manet. Cum paulo praeparationis, persona in medio gradu dementiae adhuc multis rebus frui potest, praesertim operibus notis, musica et imaginibus una vobiscum factis.
 
-## What activities work well in middle-stage dementia?
+## Quae actiones in medio gradu dementiae bene conveniunt?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Actiones breves, notae, manibus faciendae et in singulos gradus divisae optime conveniunt. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) dicit non opus esse novas res excogitare: actiones pars vitae cotidianae esse possunt, ut cenam una parare, hortum colere, musicam audire aut una ambulare.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notat homines in hoc gradu saepe magno desiderio teneri ut utiles se sentiant aut de aliqua re curent, atque auxilio egere ad actiones incipiendas vel continuandas. Eius index pro medio gradu includit vestes complicare, vasa lavare, tibialia ordinare, exercitationem facilem, saltationem ad musicam notam, ambulationes cum comite, cantus communes, picturam simplicem et albums imaginum inspicere.
 
-## How do you set up an activity so it works?
+## Quomodo actionem ita paras ut bene procedat?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Pleraeque actiones in praeparatione vel bene vel male procedunt. Hi modi, ex [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) et [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sumpti, plurimum valent:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Locum para.** Televisorium exstingue, ianuam claude et ea sola expone quibus actio eget.
+2. **Ipse incipe.** Incipe complicare aut miscere et personam invita: «Potesne me in hac re adiuvare?»
+3. **Ostende, deinde exspecta.** Unum gradum demonstra. Digito indica aut manu dirige, exempli gratia ubi catinus ponendus sit.
+4. **Unum gradum simul da.** «Complica in dimidium» facilius est quam «haec complica et secundum colorem pone».
+5. **Duas electiones offer, non quaestiones apertas.** «Mantelia caerulea an alba?» facilius est respondere quam «Quid facere vis?»
+6. **Partem difficilem ipse fac.** Tu metiris, illa vel ille miscet. Tu filum per acum ducis, illa vel ille lanam involvit.
+7. **Causam da.** «Haec mantelia ad cenam dominicam sunt» efficit ut opus verum videatur.
+8. **Sine personam spectare, si ita mavult.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notat etiam solum spectare iucundum esse posse.
 
-## Activity ideas for the middle stage
+## Consilia actionum pro medio gradu
 
-### Useful jobs
+### Opera utilia
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Mantelia et pannos complicare.** Res parvae et planae facillimae sunt. Corbis pannorum calidorum complicari, levigari et iterum complicari potest.
+- **Tibialia paria facere.** Incipe a paucis paribus valde diversis. Etiam solum secundum colorem ordinare satis est.
+- **Vasa non fragilia lavare aut siccare.** Aqua calida et saponata manibus grata est. Sedens siccare cruribus facilius est.
+- **Mensam parare.** Unum genus rerum simul trade, et unum locum ipse tamquam exemplum para.
+- **In cena adiuvare.** Patatas lavare, lactucam scindere aut in patina miscere. Tu cultros et calorem cura.
+- **Verrere, pulverem detergere aut abstergere.** Pannus ad mensam, scopae leves ad porticum.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Plura vide in [opera domestica](/activities/household-tasks/).
 
-### Music and movement
+### Musica et motus
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Cantus notos canere.** Ipse canere incipe; multi homines cantibus se adiungunt quos iam per decennia noverunt. Vide [actiones cum musica](/activities/music/).
+- **Libere saltare.** Move te, plaude aut te move quo modo placet. Sedens quoque licet.
+- **Follem iactare.** Lente movetur et facile ex sella capi potest.
+- **Una ambulare.** Brevem et notum circuitum una ambulate, bracchio iuncti si id adiuvat.
 
-### Pictures and stories
+### Imagines et narrationes
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Album imaginum inspicere.** De iis quae vides loquere potius quam quaestiones rogare: «Ecce illud vehiculum. Narra mihi de eo.» Vide [actiones memoriae](/activities/reminiscence/).
+- **Chartis colloquii uti.** [Chartae colloquii](/games/conversation-cards/) imaginem cum invitatione aperta sine examine coniungunt.
+- **Pelliculam notam una spectare.** Elige pelliculam notam, prope mane et pausas fac.
 
-### Simple, pressure-free games
+### Ludi simplices sine pressura
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Paria imaginum imaginibus apertis.** [Paria imaginum](/games/picture-pairs/) sinit imagines visibiles manere, itaque de animadvertendo agitur, non de recordando.
+- **Invenire idem.** [Invenire idem](/games/find-the-same/) unam imaginem et duas ad quattuor electiones tantum ostendit.
+- **Una ordinare.** [Una ordinare](/games/sort-together/) simile est vestibus in screen ordinandis: imaginem tange, deinde corbem eius.
+- **Bingo imaginum.** [Bingo imaginum](/games/picture-bingo/) bene convenit conventibus familiaribus et gregibus.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Si ludus frustrationem afferre incipit, desine et aliud fac. Vide [quomodo una ludere](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Inquietudinem in actionem vertere
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Mores inquieti vel repetiti saepe causam habent. [Family Caregiver Alliance] indicat personam quae armarium iterum atque iterum evacuat fortasse necessitatem explere velle ut occupata et utilis se sentiat. [Alzheimer's Association] suadet talem vigorem ad actionem aptam dirigere potius quam eum sistere.
 
-| What you see | Something to offer |
+| Quod vides | Quod offerre potes |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Mensam fricare aut vellere | Pannum umidum et rogatum ut mensam abstergat |
+| Pedes inquieti aut pulsatio | Musica cum rhythmo claro ad pulsandum aut plaudendum |
+| Loculos aut armaria evacuare | Corbem vestium aut pannorum complicandorum et ordinandorum |
+| Eandem quaestionem iterum rogare | Confirmationem, deinde cantum aut opus commune |
+| Huc illuc ambulare | Una ambulare, aut opus in quo res feruntur |
+| Inquietudo post meridiem | Negotium tranquillum et notum in bona luce; vide [inquietudo post meridiem](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Quando desistere aut mutare
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Desiste cum signa defatigationis, frustrationis, pudoris aut taedii vides, ut inquietudinem corporis, frontem contractam, res reiectas aut verba «Non possum». [Alzheimer's Association] suadet iterum alio tempore diei temptare aut actionem simpliciorem facere. Ne coge. Recusatio ex timore venire potest aut ex eo quod res nimis difficilis est; vide [cum dicit «non»](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Citius desinere bene est. Una sedere cum poculo theae quoque satis est. Cum facultates magis mutantur, consilia in [actiones in gradu posteriore](/activities/late-stage/) melius convenire possunt, et [101 actiones](/activities/ideas/) plura praebet quae temptare potes.

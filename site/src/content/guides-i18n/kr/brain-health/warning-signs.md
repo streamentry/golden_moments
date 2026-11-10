@@ -7,9 +7,9 @@ order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Hangal kadǝnza cidawa yalla-a kǝltǝgǝ, cidawa noata-a kǝltǝgǝ, loktu-a na-a wulǝjin ba, kuru hal-a 
-  shawari-a faltǝgǝ alamaram dementia bǝlinbe wo. Amma kǝndaram gade, misal thyroid, vitamin B12 gana, 
-  kurun kǝri-a, karǝŋkǝlǝ dunowa-a kuru bǝlinem kǝnǝmbe-a, kǝla ngǝwuro adǝgaibe sakkǝna. Luwotǝma 
+  Hangal kadǝnza cidawa yalla-a kǝltǝgǝ, cidawa noata-a kǝltǝgǝ, loktu-a na-a wulǝjin ba, kuru hal-a
+  shawari-a faltǝgǝ alamaram dementia bǝlinbe wo. Amma kǝndaram gade, misal thyroid, vitamin B12 gana,
+  kurun kǝri-a, karǝŋkǝlǝ dunowa-a kuru bǝlinem kǝnǝmbe-a, kǝla ngǝwuro adǝgaibe sakkǝna. Luwotǝma
   ilmuwu-a runzǝ bas kǝndaram adǝga tǝmatǝyin. Hangal faltǝgǝ saita ro kǝnza tǝdǝna banajin sǝdǝna.
 keyPoints:
   - "Waktu laa awo gana njǝstǝ kura so-a kǝla; cidawa yalla-a kǝltǝgǝ faltǝna ruiyin ma."

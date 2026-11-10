@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Actiones gregales pro dementia: dux pro curantibus"
+seoTitle: "Actiones gregales pro dementia: bingo, cantus"
+description: "Actiones gregales pro cura memoriae et programmatibus diurnis: bingo imaginum, cantus et circuli memoriarum, cum consiliis de sedibus et magnitudine gregis."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Bonae actiones gregales in cura memoriae et in programmatibus diurnis sunt
+  breves, familiares et faciles ad quas quivis suo modo se adiungere potest:
+  bingo imaginum, cantus communes, circuli memoriarum, motus simplex et ludi
+  verborum communiter acti. Greges, si fieri potest, parvos serva, homines ita
+  colloca ut omnes videre et audire possint, unum gradum clarum simul da, et
+  munus facilius atque exitum quietum para ei qui eo indiget.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Greges minores saepe melius quam unus magnus conventus procedunt, et plures homines sinunt actuose participare, non tantum spectare."
+  - "Homines in circulo vel semicirculo colloca, prope ducem, auditu et visu cuiusque spectatis, strepituque ambiente remoto."
+  - "Quamque actionem duobus vel tribus modis para, ut homines diversarum facultatum omnes interesse possint."
+  - "Vita interrogationes, puncta et victores. Bingo imaginum ita agi potest ut omnes denique chartam plenam habeant."
+  - "Licet mature abire, spectare vel obdormiscere. Aliquis ex adiutoribus praesto sit, qui eum iuvet qui locum quietiorem desiderat."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Quanta magnitudo gregis actionibus pro dementia idonea est?"
+    a: "Nullus numerus certus omnibus convenit; pendet ex hominibus, ex conclavi et ex numero adiutorum. Multae turmae inveniunt greges parvos efficere ut omnes videre, audire et interesse possint, dum in magnis conventibus plures saepe tantum spectant. Si magnum conventum habes, adiutores adde qui inter participes sedeant et unum vel duos homines iuvent."
+  - q: "Quomodo gregem facultatum diversarum ducam?"
+    a: "Plures modos para quibus homines ad quamque actionem se adiungere possint. In cantu communi, alii omnia verba canunt, alii plaudunt vel murmurant, alii instrumentum sonans tenent. In bingo imaginum, alii suas imagines ipsi inveniunt, dum adiutor aliis indicat. Homines qui plus auxilii egent iuxta adiutorem colloca."
+  - q: "Quomodo bingo imaginum agam sine certamine?"
+    a: "Omnes imagines nomina, donec charta cuiusque plena sit, ne quis excludatur. De quaque imagine, cum apparet, breviter colloquere, et praemia victoribus omitte, aut omnibus idem parvum donum da. Propositum est communis attentio et colloquium, non quis primus perficiat."
+  - q: "Possumne ludos vestros in magno scrinio gregi ostendere?"
+    a: "Ita. Ludi nostri in navigatro interretiali currunt, itaque eos in computatro portabili vel tabula ad televisificum aut proiectorem conexa aperire potes. Picture Bingo chartas imprimendas et vocatorem in scrinio praebet. Finish the Saying et Picture Pairs etiam bene in magno scrinio adhibentur, cum unus homo pro grege tangit."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Hic dux scriptus est moderatoribus actionum, turmis curae memoriae et ducibus programmatum diurnorum. Formas gregales utiles, dispositionem conclavis, modos unam actionem facultatibus diversis aptandi, atque usum chartarum nostrarum bingo imprimendarum et ludorum in magno scrinio tractat. Omnia hic ad commodum, coniunctionem et electionem spectant. Nihil hic experimentum est.
 
-## What makes a group activity work in memory care?
+## Quid actionem gregalem in cura memoriae utilem facit?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Bona actio gregalis est familiaris, brevis, facilis ad quam quivis suo modo se adiungere potest et sine pressura. [Commendationes de cura dementiae](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) Societatis Alzheimerianae participationem significativam describunt ut rem quae studia et optiones hominis sustinet atque electionem et successum sinit, etiam cum dementia gravissima est. Idem documentum notat programmata usitata saepe in uno vel duobus magnis conventibus cottidianis niti, in quibus participantes saepe tantum passive intersunt.
 
-That points to a few practical rules:
+Hinc aliquot praecepta utilia sequuntur:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Familiaritas novitati praestat.** Cantus, dicta, imagines et res ex annis iuventutis facilius adiuvant ut homines se adiungant.
+- **Brevia longis praestant.** Actionem tam longam para quam attentio gregis vestri ferre solet, cum loco naturali ubi in medio subsistere possis.
+- **Agere spectando praestat.** Cuique homini aliquid da quod tenere, tangere, eligere aut dicere possit.
+- **Multi gradus, una actio.** Modos faciliores et difficiliores participandi include.
+- **Nulli victores, nulla puncta.** Formae certaminis aliquos relinquunt ut se defecisse sentiant.
 
-## How big should the group be?
+## Quantus esse debet grex?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Minores greges plerumque faciliores sunt. Societas Alzheimeriana notat hominem, cui magnus conventus gravis videtur, in grege minore facilius cum aliis versari posse. Nullus numerus certus omnibus convenit. Pendet ex hominibus, ex conclavi et ex numero adiutorum.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Probatio utilis est haec: potestne unusquisque vultum ducis videre, clare audire et ab adiutore paucis momentis attingi? Si non, gregem divide, adiutores adde, aut in conclave minus transi.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+In magno conventu, velut in concentu festo, adiutores inter participantes sedeant, non ad parietes.
 
-## How should I set up the room and seating?
+## Quomodo conclave et sedes disponam?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Circulus vel semicirculus.** Commendationes de cura describunt circulum colloquii optime fieri in loco satis amplo ut omnes in circulo sedeant, sine strepitu ambiente.
+- **Dux prope sit et ad oculorum altitudinem.** Sede potius quam sta, si fieri potest.
+- **Auditus et visus primum.** Homines qui difficulter audiunt proxime ducem colloca, a latere quo melius audiunt. Cura ut perspicilla et instrumenta auditoria gerantur. Societas Alzheimeriana notat difficultates visus et auditus communicationem difficiliorem facere posse.
+- **Lux post participantes sit, non post te.** Noli quemquam contra fenestram claram collocare.
+- **Televisificum et radiophoniam exstingue.** Societas Alzheimeriana suadet strepitum concurrentem inter actiones musicas removere.
+- **Unum colloquium simul.** Plura colloquia simul difficilia sunt hominibus qui cum dementia vivunt et hominibus qui difficulter audiunt, ut Societas Alzheimeriana in [monitis de diebus festis](https://www.alz.org/help-support/caregiving/holidays) indicat.
+- **Exitus clari et angulus quietus.** Quicumque abire vult, facile id facere possit, cum adiutore qui eum comitetur.
 
-## Group activity ideas
+## Exempla actionum gregalium
 
-### Picture bingo
+### Bingo imaginum
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo imaginum numeros imaginibus claris mutat, velut olla, cane aut rosa, ut nemo seriem longam numerorum sequi aut litteras parvas legere debeat.
 
-**How to run it:**
+**Quomodo agatur:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Unam chartam cuique homini imprime ex pagina nostra [Picture Bingo](/games/picture-bingo/) prelo Print utens. Charta crassior facilius tractatur. Lamina eam ad usum iteratum.
+2. Signa magna et facilia ad capiendum distribue, velut orbiculos lusorios, opercula laguncularum aut quadrata e charta secta.
+3. Vocatorem in scrinio in televisifico aut proiectore adhibe, ut omnes imaginem videant dum nomen eius dicis.
+4. Post quamque imaginem paulisper consiste et ad breve colloquium invita: „Velitne aliquis nobis de cane quem novit narrare?“ aut „Quid in hac imagine animadvertis?“
+5. Perge omnes imagines nominare, donec omnis charta plena sit. Omnes perficiunt.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Aptatio:** Pauciores quadrata adhibe eis quibus charta plena nimis conferta videtur. Adiutor imaginem congruentem indicare potest ei qui auxilio eget. Aliqui malunt fortasse chartam imaginis vocatoris tenere et gregi ostendere.
 
-### Sing-alongs
+### Cantus communes
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Musica est una ex actionibus gregalibus maxime dilectis. Societas Alzheimeriana notat hominem etiam in gradibus posterioribus posse [numerum pulsare aut carmen e pueritia cantare](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Quomodo agatur:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Carmina elige quibuscum participantes adoleverunt, non quae duci maxime placent. A familiis roga quid cuique carum fuerit.
+- Musicam sine nuntiis mercatoriis adhibe, quae, ut Societas notat, confusionem afferre possunt.
+- Verba carminum magnis litteris imprime eis qui legunt, sed id non exige.
+- Instrumenta sonantia, tympana parva aut fascias ad agitandum praebe.
+- Plausum et motum fove, et sonum commodum serva.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Aptatio:** Alii omnia verba canent, alii murmurabunt, alii pede numerum pulsabunt, alii simpliciter audient. Haec omnia valent. Plura in [duce nostro de actionibus musicis](/activities/music/) invenies.
 
-### Reminiscence groups
+### Circuli memoriarum
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Circulus memoriarum circa unum argumentum convenit, velut dies scholae, prima raeda, culinae aut aestas, adhibitis photographiis, rebus et musica. Propositum est colloquium iucundum, non memoria accurata.
 
-**How to run it:**
+**Quomodo agatur:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Unum argumentum elige et paucas res affer quas homines tenere possint: mixtorem manualem, chirothecam lusoriam, petasum, catalogum seminum.
+2. Unam rem simul trade. Quaestiones apertas roga: „Narra mihi de hac re“, „Quid animadvertis?“ „Quis re simili utebatur?“
+3. Omne responsum benigne accipe. Numquam diem aut factum corrige.
+4. Colloquium ad memorias iucundas dirige. Commendationes de cura notant curatores memorias ad res positivas ducere debere, non ad eas quae tristitiam afferre possint.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) chartas imaginum imprimendas cum invitationibus apertis secundum argumenta praebet, quae ad colloquium incipiendum bene valent. Plura exempla in [duce nostro de memoriis](/activities/reminiscence/) invenies.
 
-### Finish the saying
+### Perfice dictum
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Dicta nota („Qui parcit, melius…“) omnes invitant ut finem una voce dicant. [Finish the Saying](/games/finish-the-saying/) in magno scrinio ostende et sine gregem una voce respondere. Post quodque dictum invitatio ad colloquendum sequitur. Si nemo finem dicit, eum ostende et perge. Nihil rectum aut falsum est.
 
-### Large-print word search, together
+### Investigatio verborum magnis litteris, una
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+[Word Search](/games/word-search/) magnis litteris in scrinio proice et verba una quaerite, aut exemplaria imprime eis qui ad mensam soli laborare malunt. Verba tantum a sinistra ad dextram et deorsum currunt.
 
-### Gentle movement
+### Motus lenis
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Extensiones sedentes, pila mollis vel follis transmittendus, aut saltatio in sella ad musicam familiarem. Quemque motum demonstra potius quam describas.
 
-### Sorting and matching at the table
+### Ordinare et paria invenire ad mensam
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Parvae mensae trium vel quattuor hominum imagines, pannos aut utensilia argentea una ordinare possunt. In scrinio, [Picture Pairs](/games/picture-pairs/) ludi potest imaginibus visibilibus relictis, cum unus homo tangit dum mensa de quaque imagine colloquitur.
 
-## How do I use your games on a big screen?
+## Quomodo ludis vestris in magno scrinio utar?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ludi nostri in navigatro interretiali currunt, itaque eis in televisifico aut proiectore uti potes nihil instituens.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Ludum in computatro portabili vel tabula ad scrinium fune aut transmissione conexa aperi.
+2. Navigatrum in modum pleni scrinii pone et sonum ad gradum commodum apta.
+3. Unus dux tangat dum grex electiones voce dicit. Aut tabulam ei trade qui vicem suam habere vult.
+4. Desine quandocumque grex paratus est. Ludi nullum temporis spatium, nulla puncta, nullum finem coactum habent.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) et [Conversation Cards](/games/conversation-cards/) gregibus optime convenire solent. Omnes optiones in [pagina ludorum](/games/) vide.
 
-## How do I adapt one activity for mixed abilities?
+## Quomodo unam actionem facultatibus diversis aptem?
 
-Plan at least three ways to join every activity.
+Saltem tres modos para quibus homines ad quamque actionem se adiungere possint.
 
-| Activity | More independent | Some support | Most support |
+| Actio | Magis sua sponte | Cum aliquo auxilio | Cum maiore auxilio |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo imaginum | Imagines suas invenit et tegit | Adiutor indicat; persona tegit | Chartam imaginis tenet; audit et spectat |
+| Cantus communis | Canit, proximum carmen eligit | Murmurat, plaudit, instrumento sonante utitur | Audit, fasciam tenet, manum pulsat |
+| Circulus memoriarum | Fabulas narrat | Ita aut non respondet vel indicat | Rem tenet et tangit |
+| Investigatio verborum | Suum exemplum impressum conficit | Verba in magno scrinio cum adiutore invenit | Audit dum verba leguntur |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Pro hominibus in gradibus posterioribus, NHS notat actiones plerumque simpliciores esse debere et magis ad sensus spectare, velut musicam, res ad tangendum et lenem manuum frictionem. Tempus unum cum uno, inter gregem aut post eum, fortasse melius quam ipse grex eis convenit. Vide [actiones pro gradibus posterioribus](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Quomodo duces inter gregem loqui debent?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Te quoque tempore praesenta, et nomine utere quod cuique gratum est.
+- Tarde loquere, unum gradum simul da, et prius demonstra quam explica.
+- Invitationes apertas offer („Narra mihi de…“) aut electiones simplices, numquam quaestiones probantes („Meministine…?“).
+- Noli corrigere. Pro omni contributione gratias age.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Plura de hac re in [consiliis nostris de communicatione](/caregiving/communication-tips/) invenies.
 
-## Ending well, and letting people leave
+## Bene finire, et homines abire sinere
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Desistere bonus exitus est. Observa signa si quis fessus, inquietus aut turbatus est, et adiutorem para qui ambulationem aut locum quietum alibi offerat. Aliquis qui inter cantum communem obdormiscit fortasse simpliciter se commode sentit.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Quemque gregem eodem modo conclude, carmine familiari aut simplici gratiarum actione, ut finis tranquillus et exspectatus videatur. Postea breviter nota quid bene processerit et quid cui placuerit. Hae notae proximam sessionem meliorem facient.

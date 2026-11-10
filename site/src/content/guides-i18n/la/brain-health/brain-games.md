@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Num ludi mentis dementiam arceant? Quid studia dicant"
+seoTitle: "Num ludi mentis dementiam arceant? Studia"
+description: "Quid studia dicant de ludis mentis et dementia: stimulatio cognitionis, exercitatio per computatrum, studium ACTIVE et causa FTC contra Lumosity, plane explicata."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Nullus ludus mentis demonstratus est dementiam arcere. Exercitatio mentis per
+  computatrum plerumque meliora facit ea quae homines exercent. Unum studium ex
+  investigatione ACTIVE exercitationem celeritatis certam cum sessionibus
+  additis coniunxit cum paucioribus diagnosibus dementiae per 20 annos, quod
+  est inventum angustum. Pro hominibus qui iam cum dementia vivunt, stimulatio
+  cognitionis in grege parva et brevia commoda ostendit. Ludi optime
+  delectationis et societatis causa adhibentur.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Studia de exercitatione mentis ostendunt homines meliores fieri in iis quae exercent, sed multo minus apparet hoc ad vitam cotidianam pertinere."
+  - "In studio ACTIVE, solum ii qui certam exercitationem celeritatis cum sessionibus additis fecerunt pauciores diagnoses dementiae per 20 annos habuerunt. Exercitatio celeritatis sine sessionibus additis, atque exercitatio memoriae et ratiocinationis, hoc non ostenderunt."
+  - "Anno 2016, societas quae Lumosity fecit 2 miliones dollariorum solvit ut litem cum FTC componeret, quod dicebatur scientiam sufficientem non habere ad affirmandum se dementiam differre posse."
+  - "Pro hominibus cum dementia levi vel modica, greges stimulationis cognitionis parva et brevia commoda cogitationis et clariora commoda in communicatione et consuetudine sociali ostendunt."
+  - "Ludi Golden Moments ad delectationem et tempus commune destinantur. Non sunt curatio nec dementiam arcent aut tardant."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Num ludi mentis morbum Alzheimer arcent?"
+    a: "Nullus ludus mentis probatus est morbum Alzheimer aut aliam dementiam arcere. National Institute on Aging dicit non satis testimoniorum esse ut applicationes commerciales exercitationis mentis eosdem effectus habeant qui in studiis clinicis visi sunt. Ludi tamen possunt esse modus iucundus tempus agendi."
+  - q: "Quid studium ACTIVE de exercitatione celeritatis et dementia invenit?"
+    a: "Analysis anni 2026 participes studii ACTIVE cum tabulis Medicare per 20 annos coniunxit. Homines qui exercitationem celeritatis processus et saltem unam sessionem additam fecerunt, minorem ratem dementiae diagnoscatae habuerunt quam grex sine exercitatione. Exercitatio celeritatis sine sessionibus additis, atque exercitatio memoriae vel ratiocinationis, effectum magni momenti non ostenderunt."
+  - q: "Num aenigmata et ludi utiles sunt ei qui iam cum dementia vivit?"
+    a: "Possunt esse, si persona iis delectatur. Stimulatió cognitionis in grege, quae ludos verborum, aenigmata, musicam et colloquia complectitur, parva et brevia commoda cogitationis et clariora commoda communicationis et consuetudinis socialis ostendit. Delectatio, non exitus probationis, rectum propositum est."
+  - q: "Cur Lumosity a FTC multata est?"
+    a: "Anno 2016 Federal Trade Commission affirmavit Lumos Labs de ludis suis talia dixisse, etiam se declinationem aetate relatam et dementiam differre posse, sine scientia satis firma. Societas consensit 2 miliones dollariorum solvere et in posterum testimonia scientifica certa habere antequam talia affirmaret."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Ludi mentis ubique inveniuntur, et multi promittunt se mentem iuvenem servaturos esse. Si personam curas quae cum dementia vivit, aut de tua memoria sollicita es, naturale est quaerere num hi ludi iuvare possint. Hic est quod studia re vera ostendunt, etiam ea quae spem dant et ea quae non dant.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Haec sunt indicia generalia, non consilium medicum. Vide nostrum [monitum medicum](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Num ludi mentis dementiam arcent?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Nullus ludus mentis probatus est dementiam arcere. National Institute on Aging (NIA) monet ut homines cauti sint de affirmationibus quod ludi in computatro aut in interrete memoriam meliorare possint, et dicit non satis testimoniorum esse ut ulla applicatio commercialis exercitationis mentis eundem effectum habeat atque exercitatio in studiis clinicis probata ([NIA de arcendo morbo Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Hoc non significat ludos inutiles esse. Significat eorum pretium in delectatione, societate et consuetudine esse, non in defendendo quemquam a dementia.
 
-## What is "near transfer", and why does it matter?
+## Quid est „translatio proxima”, et cur interest?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Cum aliquid exerces, plerumque in eo melior fis. Investigatores hoc effectum exercitationis appellant. Difficilior quaestio est num haec melioratio **transferatur** ad alia: ad res similes (translatio proxima) aut ad vitam cotidianam, sicut ad meminisse constitutorum temporum vel ad pecuniam administrandam (translatio remota).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Magna recognitio anni 2016 studia spectavit quae societates exercitationis mentis ut optima testimonia sua protulerunt. Invenit multa testimonia homines in rebus exercitatis meliores fieri, pauciora testimonia eos in rebus arte conexis meliores fieri, et pauca testimonia exercitationem cogitationem cotidianam meliorare. Multa studia etiam vitia in ratione habebant, quae certas conclusiones difficiles reddebant ([Simons et socii, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Quid recognitiones de exercitatione mentis per computatrum dicunt?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Recognitiones Cochrane, quae optima studia collecta considerant, exercitationem per computatrum saltem 12 hebdomadum spectaverunt:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Adulti sani 65 annorum et maiores:** octo studia cum 1,183 hominibus. Testimonia erant humilis aut valde humilis qualitatis. Fortasse parvum commodum statim post exercitationem est, sed non est clarum testimonium id manere ([Recognitio Cochrane, adulti seniores sani](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Homines cum leni deminutione cognitionis:** octo studia cum 660 hominibus. Nullum studium rettulit utrum homines postea dementiam accepissent, et testimonia nimis infirma erant ad conclusiones certas ([Recognitio Cochrane, lenis deminutio cognitionis](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Quid studium ACTIVE invenit?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE est magnum studium in Civitatibus Foederatis Americae, quod anno 1998 coepit cum 2,802 adultis 65 annorum et maioribus qui sua sponte vivebant neque magnas difficultates memoriae aut cogitationis habebant. Homines fortuito in unum ex tribus generibus exercitationis in parvo grege (celeritas processus, memoria aut ratiocinatio) aut in gregem sine contactu divisi sunt. Exercitatio usque ad decem sessiones per quinque vel sex hebdomades fiebat. Nonnullis hominibus qui plerasque sessiones perfecerant etiam fortuito **sessiones additae** oblatae sunt circiter post unum et tres annos.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Exercitatio celeritatis in eo constabat ut homines informationem visam brevioribus et brevioribus momentis animadverterent et tractarent, gradu mutato prout meliores fiebant.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Anno 2026, investigatores 2,021 participes cum tabulis suis Medicare per 20 annos coniunxerunt ([Analysis studii ACTIVE per 20 annos](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Haec sunt quae invenerunt:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Exercitatio celeritatis cum saltem una sessione addita:** minor ratio dementiae diagnoscatae quam in grege sine contactu (ratio periculi 0.75, quod fere significat rationem 25% minorem).
+- **Exercitatio celeritatis sine sessionibus additis:** nulla ratio minor.
+- **Exercitatio memoriae vel ratiocinationis:** nullus effectus magni momenti in diagnosibus dementiae.
+- **Quisque grex exercitationis totus cum grege sine contactu comparatus:** inclinatio ad rationes minores, sed non satis certa ratione statistica.
 
-### The limits of this finding
+### Fines huius inventi
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Pertinet ad **unum certum genus exercitationis celeritatis cum magistro et cum sessionibus additis**, non ad ludos mentis in universum.
+- Exitus magni momenti ex **subgrege** venit (homines qui plerasque primas sessiones perfecerant et quibus sessiones additae oblatae sunt), non ex toto grege celeritatis.
+- Dementia per **codices diagnosium in tabulis Medicare** mensa est, non per examen uniuscuiusque hominis. Circiter quarta pars participum originalium exclusa est, quia in Medicare Advantage inscripti erant, ubi tabulae plenae non adsunt.
+- Participes nullas magnas difficultates cogitationis habebant cum studium inciperet. Exitus nihil dicunt de ludis pro hominibus **qui iam cum dementia vivunt**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Est inventum quod plura studia meretur. Non est testimonium ullam applicationem dementiam arcere.
 
-## What did the FTC say about Lumosity?
+## Quid FTC de Lumosity dixit?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Mense Ianuario anni 2016, Lumos Labs, societas quae Lumosity fecit, consensit 2 miliones dollariorum solvere ut accusationes Federal Trade Commission de venditione fallaci componeret. FTC dixit societatem affirmavisse, sine scientia satis firma, ludos suos posse meliorare actionem in opere et in schola et posse differre declinationem aetate relatam, lenem deminutionem cognitionis, dementiam et morbum Alzheimer. Iussum societatem cogit testimonia scientifica idonea et certa habere antequam talia in posterum affirmet ([Nuntius FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Monitum pro familiis: cauti este de omni ludo, applicatione aut programmate quod promittit se memoriam defensurum aut dementiam arsurum esse.
 
-## Can games help someone who already has dementia?
+## Num ludi ei qui iam cum dementia vivit prodesse possunt?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Possunt diem meliorem facere, quod magni momenti est. Modus maxime investigatus est **stimulatió cognitionis**: actiones iucundae in grege, sicut colloquia, recordationes, ludi verborum, aenigmata et musica, plerumque in parvo grege a duce moderato.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Recognitio Cochrane anni 2023, quae 37 studia cum 2,766 hominibus cum dementia levi vel modica spectavit, invenit ([Recognitio Cochrane de stimulatione cognitionis](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **parvum et breve commodum** in probationibus cogitationis (testimonia mediae qualitatis);
+- **meliorationes magni momenti in communicatione et consuetudine sociali** (testimonia altae qualitatis, ex paucioribus studiis);
+- **parva commoda** pro qualitate vitae, animi affectione et moribus.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Commoda plerumque statim post programmata circiter decem hebdomadum mensa sunt, et pauca studia exploraverunt num manerent. Stimulatió cognitionis est programma in grege ordinatum, itaque hi exitus non statim ad personam pertinent quae sola in tabula electronica ludit.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Commissio Lancet anni 2024 etiam dicit programmata actionum magni momenti esse pro hominibus qui cum dementia vivunt, ut delectatio et propositum vitae serventur ([Commissio Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Ad quid ludi re vera utiles sunt?
 
-When chosen well, games can offer:
+Si bene eliguntur, ludi haec praebere possunt:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Delectationem.** Dimidia hora iucunda per se pretiosa est.
+- **Coniunctionem.** Ludere una dat aliquid simplex quod communicare potestis, cum colloquium difficile est. Vide [quomodo una ludere](/caregiving/how-to-play-together/).
+- **Consuetudinem.** Actio nota eodem tempore cotidie solacium afferre potest.
+- **Fiduciam.** Actiones aptatae ad ea quae persona adhuc bene facere potest eam sinunt se idoneam sentire, non probatam.
+- **Colloquium.** Imago aut dictum notum narrationem aperire potest. Experire [chartas ad colloquium](/games/conversation-cards/) aut [perfice dictum](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Quae vitanda sunt: horologia, puncta, series et omnia quae sicut probatio memoriae sentiuntur. Si persona frustratur, desinite. Finire citius, aut simpliciter una sedere, bonus exitus est. Dux noster de [eligendis applicationibus et ludis](/caregiving/choosing-apps-and-games/) indicem habet.
 
-## Where Golden Moments fits
+## Quo loco Golden Moments est
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Ludi Golden Moments, sicut [picture pairs](/games/picture-pairs/), [picture puzzle](/games/picture-puzzle/) et [large-print word search](/games/word-search/), ad delectationem et tempus commune facti sunt. Horologium non habent neque puncta. **Non** sunt curatio, et dementiam **non** arcent neque tardant. Malumus hoc plane dicere quam promittere aliquid quod nullus ludus praestare potest.
 
-## Talk with a doctor
+## Cum medico loquere
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Si de mutationibus memoriae in te ipso aut in persona quam curas sollicita es, medicum vide potius quam applicationi confidas. Medicus causas curabiles quaerere potest et de gradibus cum optimis testimoniis loqui, sicut de pressione sanguinis moderanda et de auditu inspiciendo. Vide [Num dementia arceri potest?](/brain-health/can-dementia-be-prevented/) plura. Si subita confusio aut aliae subitae mutationes fiunt, auxilium medicum statim pete.

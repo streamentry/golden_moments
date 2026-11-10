@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Auditus deminutio et dementia: quid studia ostendunt"
+seoTitle: "Auditus deminutio et dementia: quid studia ostendunt"
+description: "Cur auditus deminutio ad pericula dementiae pertineat, quid probatio ACHIEVE vere invenerit, et quomodo auditus inspici et sermo facilior fieri possit."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Commissio Lancet anni 2024 auditionem imminutam inter maxima pericula mutabilia dementiae
+  numerat. In probatione ACHIEVE instrumenta auditiva deminutionem cognitionis non tardaverunt in
+  universum, quamquam in grege maiore periculo exposito minus deminutionis visum est. Instrumenta
+  auditiva sermonem et vitam cotidianam iuvant quoquo modo. Auditum inspiciendum cura, de
+  instrumentis auditivis cum praescriptione aut sine praescriptione emptis cogita, et cum medico
+  loquere.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Commissio Lancet aestimat auditionem imminutam circiter 7% casuum dementiae in toto orbe terrarum efficere, quod par est maximae parti inter 14 factores."
+  - "In probatione ACHIEVE, in qua 977 adulti natu maiores participaverunt, instrumenta auditiva deminutionem cognitionis per tres annos in universum non mutaverunt."
+  - "In minore grege maiore periculo exposito intra ACHIEVE, deminutio cognitionis 48% tardior fuit cum instrumentis auditivis; hoc confirmandum est."
+  - "Ab Octobri anni 2022, adulti in Civitatibus Foederatis qui levem vel moderatam auditionis deminutionem percipiunt, instrumenta auditiva a FDA ordinata sine praescriptione emere possunt."
+  - "Visus non curatus anno 2024 inter pericula dementiae additus est, ergo etiam inspectiones oculorum magni momenti sunt."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Num instrumenta auditiva dementiam prohibent?"
+    a: "Hoc probatum non est. Probatio ACHIEVE nullum effectum in universum in deminutionem cognitionis per tres annos invenit, quamquam uni gregi maiore periculo exposito melius cessit. Tamen utile est de instrumentis auditivis cogitare, quia sermonem, tutelam et vitam cotidianam faciliora reddunt."
+  - q: "Quis instrumenta auditiva sine praescriptione emere potest?"
+    a: "FDA permittit adultis 18 annorum et maioribus, qui levem vel moderatam auditionis deminutionem percipiunt, instrumenta auditiva sine praescriptione in tabernis aut per interrete emere. Non destinantur gravi auditionis deminutioni. Quicumque dolorem auris, humorem ex aure, vertiginem aut subitas mutationes auditus patitur, prius medicum videre debet."
+  - q: "Num auditus deminutio similis dementiae videri potest?"
+    a: "Interdum ita. Institutum Nationale de Senectute notat homines natu maiores, qui bene audire non possunt, interdum perperam confusos aut parum cooperantes putari. Inspectio auditus gradus prudens est, cum aliquis se retrahere aut ea quae dicuntur non percipere videtur."
+  - q: "Quam saepe adulti natu maiores oculos inspiciendos curare debent?"
+    a: "Institutum Nationale de Senectute suadet inspectionem oculorum cum pupillis dilatatis semel aut bis in anno post aetatem 60 annorum faciendam esse, aut sicut peritus curae oculorum commendat. Qui diabete aut pressione sanguinis alta laborant, plerumque saltem semel in anno inspectionem egent."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Auditus deminutio in aetate provecta saepe occurrit, et investigatores eam ut periculum dementiae magni aestimant. Hoc non significat instrumenta auditiva probatum modum esse ad dementiam prohibendam; optima probatio adhuc facta eventus mixtos habuit. Haec pagina explicat quid studia ostendant, quomodo auditus inspiciendus sit, quid instrumenta auditiva sine praescriptione in Civitatibus Foederatis sint, et quomodo sermo facilior fieri possit.
 
-## Why does hearing matter for brain health?
+## Cur auditus ad valetudinem cerebri pertinet?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Auditus deminutio cum maiore periculo dementiae coniuncta est. [Commissio Lancet anni 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) aestimat eam circiter 7% casuum dementiae in toto orbe terrarum efficere. Hoc eam aequat cum alto cholesterolo LDL pro maxima parte inter 14 factores mutabiles in exemplo Commissionis, secundum [summarium relationis ab UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Praecipua inventa Commissionis:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Maius periculum cum auditione imminuta.** In collecticia analysi sex studiorum magnae qualitatis, homines cum auditu imminuto circiter 37% maius periculum dementiae habuerunt quam homines auditu normali.
+- **Maior deminutio, maius periculum.** Studia quae gravitatem spectaverunt invenerunt periculum crescere cum auditus peior fieret.
+- **Causae possibiles, nondum probatae.** Inter opiniones sunt solitudo et secessus, tristitia, minor stimulatio cerebri, et maior labor mentis quem auscultatio postulat.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Auditus deminutio saepe occurrit. [Institutum Nationale de Senectute (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) dicit circiter tertiam partem adultorum natu maiorum ea laborare, et occasionem cum aetate crescere.
 
-## What did the ACHIEVE hearing aid trial find?
+## Quid probatio instrumentorum auditivorum ACHIEVE invenit?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE fuit prima probatio fortuita de instrumentis auditivis et deminutione cognitionis. Eius eventus saepe perperam referuntur, itaque hic sunt singula ex [relatione probationis edita](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Qui participaverunt:** 977 adulti annorum 70 ad 84 cum auditu imminuto non curato et sine magnis difficultatibus cogitationis, in quattuor locis communitatis in Civitatibus Foederatis.
+- **Quid comparatum est:** Dimidia pars instrumenta auditiva accepit una cum sessionibus consilii apud audiologum. Altera dimidia pars programma educationis de valetudine de senectute sana accepit.
+- **Eventus principalis:** Post tres annos **nulla differentia** erat in deminutione cognitionis inter duos greges in universum.
+- **Eventus gregis minoris:** Probatio ex duobus fontibus homines accepit. 238 homines ex diuturno studio de valetudine cordis (ARIC) venerunt, et ut grex maiore periculo deminutionis cognitionis expositi erant. In hoc grege, deminutio **48% tardior** fuit cum instrumentis auditivis. Inter 739 voluntarios sanos ex communitate, nullus effectus manifestus fuit.
 
-How to read this honestly:
+Quomodo hoc sincere intellegendum sit:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Responsum in universum fuit nullus effectus.
+- Inventum gregis minoris ante constitutum erat, sed ex analysi secundaria minoris gregis venit. In aliis studiis confirmandum est.
+- Participes sciebant in utro programmate essent, quod eventus afficere potest.
+- Commissio Lancet indicia ita intellegit ut instrumenta auditiva praesertim utilia videantur hominibus qui auditionem imminutam una cum aliis periculis dementiae habent.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Summa est instrumenta auditiva non esse probatum modum ad dementiam prohibendam. Ea tamen homines adiuvant ut audiant, in sermonibus participent et coniuncti maneant, quod iam satis causae est ut de iis cogitetur.
 
-## How do I know if hearing should be checked?
+## Quomodo scio num auditus inspiciendus sit?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA suadet medicum videre, si tu aut persona cui curam adhibes:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Difficultatem habet homines per telephonum intellegendi
+- Difficulter sermones sequitur, cum duo vel plures homines loquuntur
+- Saepe petit ut homines dicta repetant
+- Televisorium ita alte ponit ut alii querantur
+- Difficulter orationem intellegit, cum strepitus circumstat
+- Putat alios homines quasi murmurare
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Incipe apud medicum primarium, qui te ad audiologum (peritum auditus) aut ad medicum auris, nasi et gutturis mittere potest. Cera aurium congesta est una ex causis communibus deminutionis auditus, quam medicus inspicere potest. **Subita auditus deminutio est necessitas medica**, et NIA suadet statim medicum videre.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Auditus deminutio cum confusione confundi potest. NIA notat homines natu maiores, qui bene audire non possunt, interdum perperam confusos, non respondentes aut parum cooperantes putari. Si aliquis quem amas se retrahit aut ea quae dicuntur non percipit, inspectio auditus bonus primus gradus est.
 
-## What are over-the-counter hearing aids?
+## Quid sunt instrumenta auditiva sine praescriptione?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+A die 17 Octobris anni 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) genus instrumentorum auditivorum sine praescriptione (OTC) permisit. Ecce quomodo cum instrumentis cum praescriptione comparantur:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Res | Instrumenta auditiva OTC | Instrumenta auditiva cum praescriptione |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Quibus destinata sunt | Adultis 18 annorum et maioribus cum levi vel moderata auditus deminutione percepta | Omni gradui deminutionis auditus, omni aetati |
+| Ubi accipiuntur | In tabernis aut per interrete, sine inspectione aut praescriptione | Per peritum auditus licentiatum |
+| Aptatio | Tu ipse modos accommodas, saepe per applicationem | Peritus ea ad auditum tuum accommodat |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA dicit instrumenta OTC non destinari gravi vel profundissimae auditus deminutioni. Suadet medicum videre, potissimum peritum auris, nasi et gutturis, antequam emas, si habes:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Dolorem aut molestiam auris
+- Humorem, pus aut sanguinem ex aure sex mensibus proximis
+- Subitas aut mutabiles mutationes auditus
+- Peiorem auditum in una aure, aut tinnitum in una tantum aure
+- Vertiginem
+- Multam ceram aurium
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Assuescere instrumentis auditivis exercitationem requirit, itaque condicionem reddendi antequam emas inspice, sicut FDA suadet. NIA suadet quaerere num cautio tua partem sumptus tegat. Pro homine qui cum dementia vivit, audiologus adiuvare potest ut decernatur quod genus instrumenti et quae aptatio facillima cotidie tractatu sint.
 
-## How can I talk more easily with someone who has hearing loss?
+## Quomodo facilius loqui possum cum aliquo qui auditu imminuto laborat?
 
-The NIA suggests:
+NIA suadet:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Personam specta et contactum oculorum serva**, in luce bona, ut labia et vultum tuum videre possit.
+2. **Locum quietum elige.** Televisorium exstingue aut a strepitu recede.
+3. **Paulo clarius loquere, sed noli clamare.** Naturaliter et moderato cursu loquere.
+4. **Os tuum liberum serva.** Noli edere, mandere gummi aut os tuum tegere dum loqueris.
+5. **Aliter dic potius quam repetere**, cum aliquid non perceptum est.
+6. **Unus homo simul loquatur.** In grege, cura ut persona inclusa sit.
+7. **Patientes esto et roga quomodo adiuvare possis.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Haec consilia bene conveniunt cum nostris [consiliis communicationis in dementia](/caregiving/communication-tips/). Actiones picturis innixae etiam pressionem audiendi minuunt. [Picture Pairs](/games/picture-pairs/) et [Conversation Cards](/games/conversation-cards/) per ea quae videntur operantur, et [Finish the Saying](/games/finish-the-saying/) sinit finem ostendere potius quam dicere. De vocationibus, vide ducem nostrum de [vocationibus telephonicis et per video](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Visus quoque magni momenti est
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Anno 2024 Commissio Lancet visum non curatum ut novum periculum addidit. Summarium UCL id circiter 2% casuum dementiae attribuit, et Commissio commendat ut examinatio et curatio difficultatum visus omnibus praesto sint. [NIA suadet](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) inspectionem oculorum cum pupillis dilatatis semel aut bis in anno post aetatem 60 annorum, atque etiam praescriptiones perspicillorum inspiciendas esse. Etiam parvae mutationes visus periculum casuum augere possunt.
 
-## Talk with a doctor
+## Cum medico loquere
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Medicum roga de inspectionibus auditus et visus, si aliqua ex signis supra dictis animadvertis. Statim auxilium quaere propter subitam deminutionem auditus, dolorem auris, aut humorem ex aure. Si curam adhibes homini qui cum dementia vivit, medico eius de mutationibus auditus aut visus narra, quae affectum, tutelam et facultatem participandi afficere possunt.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Haec pagina est informatio generalis, non consilium medicum. Vide [monitionem medicam](/medical-disclaimer/). Plura lege de [coniunctione sociali et valetudine cerebri](/brain-health/social-connection/).

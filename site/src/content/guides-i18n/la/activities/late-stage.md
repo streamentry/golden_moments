@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Actiones dementiae provectae, in lecto vel in sella"
+seoTitle: "Dementia provecta: actiones in lecto et sella"
+description: "Lenes actiones dementiae provectae, etiam in lecto vel in sella: musica, tactus, lectio clara voce, soni et simplex praesentia, cum monitis de tutela."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  In dementia provecta, actiones in sensibus et in praesentia tua nituntur:
+  musica carissima audita, manus tenta, lenta manus frictio, lectio clara voce,
+  imagines spectatae, soni naturae atque sedere ad fenestram vel foris. Haec
+  etiam in lecto vel in sella fieri possunt. Tempora brevia serva, vultum et
+  manus ad solacium observans, et memento ipsam praesentiam iam esse actionem.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Coniunctio adhuc fieri potest. In gradu provecto, mundus maxime per sensus percipitur."
+  - "Musica, lenis tactus, voces familiares et res molles quas tenere licet saepe homines attingunt, cum verba iam non sufficiunt."
+  - "Paene omnes hae sententiae aptae sunt homini in lecto vel in sella."
+  - "Solacium vel molestiam in vultu, manibus et spiritu observa, et ad quodlibet signum doloris desine."
+  - "Parvas res vita et cibum potumve solum praebe, ut turma curationis suadet, quia deglutitio minus tuta fieri potest."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Quas actiones cum homine dementia provecta laborante, qui in lecto est, facere possum?"
+    a: "Musicam ei carissimam ede, manum eius tene, lentam manus frictionem cum unguento praebe, clara voce ex libro vel oratione amata lege, imagines ostende, aut lenes sonos naturae ede. Vela aperi, ut foras videre possit. Brevia et tranquilla tempora, una re simul, plerumque optime iuvant."
+  - q: "Possuntne homines dementia provecta laborantes musica adhuc gaudere?"
+    a: "Multi possunt. Societas Alzheimer's Association notat hominem etiam in gradu provecto fortasse posse rhythmum pulsare vel carmen e pueritia simul canere. Musicam elige, quam iuvenis amavit, et sonitum lenem serva."
+  - q: "Quomodo sciam, an actione gaudeat?"
+    a: "Parva signa observa: umeros relaxatos, vultum mitiorem, oculorum contactum, murmur, pressionem manus vel spiritum lentiorem. Vultus distortus, recessus, inquietudo vel gemitus molestiam vel dolorem significare possunt. Si haec vides, desine et turmam curationis certiorem fac, si permanent."
+  - q: "Estne utile visitare, si me iam non agnoscit?"
+    a: "Ita. Institutum National Institute on Aging notat ipsam praesentiam tranquillare posse, atque tactum, musicam et narrationes etiam in dementia provecta solacium praebere posse. Vox tua et tactus familiares esse possunt, etiam si nomen tuum non agnoscitur."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+In gradu provecto dementiae, homo fortasse pauca loquitur, auxilio in omni cura cotidiana eget et magnam diei partem in lecto vel in sella degit. Sentire potes quasi nihil iam una agi possit. Est tamen. Societas [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notat aliquam partem ipsius personae manere posse, atque in hoc gradu mundum maxime per sensus percipi. Musica, tactus, vox familiaris et tranquilla praesentia tua adhuc solacium et parva momenta coniunctionis afferre possunt.
 
-## What activities help in late-stage dementia?
+## Quae actiones in dementia provecta iuvant?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Simplices actiones sensuum et quieta societas in gradu provecto plurimum iuvant. Societas Alzheimer's Association suadet musicam carissimam audire, partes librorum carorum legere, unguentum odoris dilecti in cutem leniter fricare, atque una foris sedere die sereno. Institutum [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) addit narrationes narrare, imagines ostendere, lenem tactum vel frictionem, atque musicam, sonum album vel sonos naturae, et dicit ipsam praesentiam tuam tranquillare posse.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+Societas [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notat homines in gradu provecto saepe magno desiderio teneri aliquid prope se tenendi ad solacium, et suadet simplices actiones sensuum, lenes extensiones, motum cum fascia, musicam, visitationes animalium, tactum humanum et artem liberam.
 
-## Activities for someone in bed or a chair
+## Actiones homini in lecto vel in sella
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Musicam eius ede.** Carmina e iuventute, ex fide vel ex familia elige. Sonitum lenem serva et prope sede. Etiam nunc aliqui digitum pulsant vel murmurant. Vide [actiones musicae](/activities/music/).
+2. **Manum tene.** Ipsa manus tenta, cum leni pollicis motu, actio est. Prius dic quid facias.
+3. **Lentam manus frictionem praebe.** Paululum unguenti in manibus tuis tepefac et a carpo ad digitorum apices leniter frica. Unguentum sine odore elige, aut odorem quem semper amavit, si cutis id patitur.
+4. **Clara voce lege.** Carmen carum, partem libri dilecti, scripturam sacram vel paginam de ludis athleticis. Rhythmus vocis tuae plus valet quam verba.
+5. **Narrationem narra.** De itinere familiae vel de die nuptiarum loquere. Responsa non requiruntur.
+6. **Imagines ostende.** Unam magnam imaginem simul ad oculos tene et eam benigne describe. Noli rogare, quis in ea sit.
+7. **Aliquid molle ad tenendum praebe.** Pannum plicatum, quadratum laneum molle vel animal molle. Institutum NIA suadet personae pannum ad tenendum dare, dum movetur, ut minus facile te vel supellectilem arripiat.
+8. **Sonos naturae ede.** Pluvia, fluctus vel cantus avium leni sono cubiculum turbulentum mitigare possunt.
+9. **Foris intus affer.** Vela aperi, caveam avium extra fenestram pone, aut paucos flores recentes vel folia affer ad spectandum et tangendum.
+10. **Foras exi.** Si homo in sella rotali sedere potest, pauca momenta in umbra die miti iucunda esse possunt.
+11. **Capillos eius pecte vel pannum tepidum praebe.** Lenta et lenis cura corporis atque pannus tepidus manibus et vultui caritatem afferre possunt.
+12. **Leniter cum musica move.** Fasciam levem una movete, aut manus ad rhythmum carminis agitate. De extensionibus et motu articulorum, roga physiotherapeutam vel nutricem, ut tibi primum modos tutos ostendat.
+13. **Artem liberam fac.** Colorem non toxicum in magna charta cum spongia vel manu, manu tua ducta, extende. Nullus est rectus exitus.
+14. **Visitationes animalium admitte.** Animal placidum in lecto vel in gremio, si persona animalia amabat et locus id sinit.
+15. **Lente una spirate.** Prope sede et lente atque audibiliter spira. [Spiratio tranquilla](/games/calm-breathing/) vos ambos moderari potest, et tu eam incipis atque sistis.
+16. **Simpliciter adesto.** Prope sede, murmur, net vel quiete lege. Satis est adesse.
 
-## How to share an activity at this stage
+## Quomodo in hoc gradu actionem communices
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **A fronte accede.** Nomen eius et nomen tuum dic, et lente ac leniter loquere, antequam tangas.
+- **Unam rem simul offer.** Televisorem exstingue, antequam musicam edas. Unum sensum simul adhibe.
+- **Breve serva.** Pauca momenta satis esse possunt. Plura brevia momenta per diem una longa sessione meliora sunt.
+- **Primum commoditatem para.** Cura ut persona bene sustineatur. Institutum NIA suadet tabulam gremialem ad bracchia fulcienda et superiorem corporis partem sustentandam, cum sedet.
+- **Responsum observa.** Manus relaxatae, vultus mitior, oculorum contactus vel murmur solacium indicant. Institutum NIA notat gemitus, vultum distortum, partem corporis protectam vel subitam agitationem signa doloris esse posse. Desine et turmam curationis certiorem fac.
 
-## A quick guide by sense
+## Brevis conspectus per sensus
 
-| Sense | Ideas | Take care |
+| Sensus | Sententiae | Cura |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Auditus | Musica carissima, vox tua legens, soni naturae | Sonitum lenem serva; unus sonus simul |
+| Tactus | Manus frictio, manus tenta, textum molle, pannus tepidus | Prius roga vel nuntia; vide ne cutis doleat aut laesa sit |
+| Visus | Imagines, flores, prospectus e fenestra, tardum spectaculum naturae | Res ad oculos tene; lux bona, sine fulgore |
+| Odoratus | Unguentum carum, flores recentes, coffea prope cocta | Odores fortes vita; allergies et spiritum considera |
+| Gustatus | Parvus gustus saporis cari | Solum cibi et texturae, quos turma curationis tutos dicit |
 
-## Safety at this stage
+## Tutela in hoc gradu
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Deglutitio in gradu provecto difficilior fieri potest, et Institutum NIA monet hoc periculum suffocationis augere. Parvas res in promptu ne relinque, et cibum potumve solum in texturis et positionibus praebe, quas turma curationis commendat. Cutem leniter inspice inter actiones tactus, quia cutis facile laedi aut livere potest. De tutis sententiis sensuum plura vide in [actionibus sensuum](/activities/sensory/).
 
-## Looking after yourself too
+## Etiam te ipsum cura
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Cura in gradu provecto corpus et animum valde fatigat, sive domi sive in visitationibus domus curae. Turmae curae lenientis et palliativae auxilium de solacio, sustentatione et consilio ferre possunt, et Institutum NIA eas inter fontes auxilii numerat. Breves et tranquillae visitationes utiles sunt; vide [aliquem cum dementia visitare](/activities/visiting/). Si coetus ducis, [actiones coetuum in domo curae](/activities/care-home-groups/) sententias ad sessiones accommodandas praebent. Et, quaesumus, lege [curam tui ipsius pro curatore](/caregiving/caregiver-self-care/): quies est pars bonae curae.
