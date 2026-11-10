@@ -1,32 +1,34 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Oviungura kovarumendu mbe hupa nondjira yokuzemba"
+seoTitle: "Oviungura kovarumendu mbe hupa nondjira yokuzemba"
+description: "Omayele woviungura kovarumendu mbe hupa nondjira yokuzemba, nga zikamena koviungura vyawo, koviṋa mbye suverere nokomitindo vyawo, pamwe nomayele wokuvitjita nawa nokukohoke."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Oviungura ovisemba komurumendu ngu hupa nondjira yokuzemba vi za mehupo re
+  omuini: oviungura mbya ungurire, oviṋa mbya suverere nokomitindo mbya tjitire
+  eyuva arihe. Omurumendu ngwa ungurire motjihangero ma yenene okuvanga
+  okutoora omikanda, omutungure wozohiha ma yenene okuvanga okuvara oviungurisiwa
+  ovikohoke, nomusuverere womanyando ma yenene okuvanga omanyando omakuru.
+  Oviṋa mbi suverwa vi panguka komurumendu auhe, ku nao uta nomundu, ka utere
+  koumundu wondume.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Uta nehupo romurumendu ngwi omuini: oviungura vye, oviṋa mbya suverere, omitindo vye noviṋa mbya ri nondjoṋa navyo."
+  - "Oviungura mbi nondjambi yatjiri, tjimuna okutoora oviungurisiwa, okukooha otjihiha poo okutuurura otjipirangi, potuingi vi vanga tjinene poviyandjewa mbi munika otja otjirongwa."
+  - "Kavarumendu avehe mbe suvera oviungurisiwa poo omanyando. Ovengi ve suvera okuronga ovikurya, omizumbi, okutjuna, ouviṋa vyomake poo okutjevera ovakwawo. Pura, tara nu u kongorere omuhunga we."
+  - "Tjita kutja oviungura vyotja oviungura vyatjiri vi rire ovikohoke mokuisapo oviungurisiwa ovitwe nokutjevera, nu u vitjite oviṱiṱi indu oviyandjewa tji mavi runduruka."
+  - "Okutja kako okuvariwa. Yandja orupa, ka u yandjere otjiungura otjizeu, nu u roro rukwao eyuva rarwe."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Oviungura viṋe ovarumendu mbe hupa nondjira yokuzemba mbi ve vanga?"
+    a: "Kape noruteto rumwe uriri, mena rokutja oviṋa mbi suverwa i ovarumendu vi panguka tjimuna kovandu avehe. Omaputukiro omawa oviungura mbi ri pokati koviungura vyawo ovikuru, tjimuna okutoora omikanda poo okutoora ounongo noumbaṱe, pamwe noviṋa mbya suverere, tjimuna okupata oṱiṱi, ozohiha, omizumbi, okuronga ovikurya poo omanyando. Tara kutja eye u tjita tjike omuini nu u tungire kombanda yaimbi."
+  - q: "Tate wandje u naka oviungura vyotjimbumba. Me yenene okutjita tjike?"
+    a: "Ovandu ovengi, ovarumendu novakazendu, ve naka oviungura mbi munika otja otjirongwa poo mbi munika otja ovyovanatje. Rora okumupa otjiungura pendje nao: ‘Mo yenene okundjivatera okutoora imbi?’ Otjimbumba otjiṱiṱi poo oruveze rwenu amuvari porwenu mape yenene okumunika nawa tjinene pondjuwo onene."
+  - q: "Okuvariwa okumutjita kutja ma ungurise oviungurisiwa?"
+    a: "Indu pe nondjeverero uriri noviungurisiwa ovikohoke. Isa po oviungurisiwa vyomasa, omiti novitwe avihe, nu u mupe oviungura tjimuna okutuurura otjipirangi otjizere, okutoora oviungurisiwa ovikohoke, poo okuzikamisa oumbaṱe ounene nomake. Alzheimer's Association mai tunduuza okuisapo oviṋa ovihimise motjiunguriro kutja otjiungura tjimuna okutuurura tji yenene okukara otjinyandisa notjikohoke."
+  - q: "Eye wa ri omungure omunene. Oviungura oviṱiṱi mavi yenene okumuninga kutja ma munu otja tja ṋiṋikwa?"
+    a: "Mavi yenene, indu tji vya yandjwa otja otjiungura tjongondoroka uriri. Hungira otjiungura otja ombatero yatjiri, ungurisa oviṋa vyovarumendu ovakuru, nu u toorore otjiṋa tji ri popezu norupa rwe orukuru, tjimuna okutarera oruteto, okutoora omukanda poo okuvatera okutuwa omikanda vyokuhinda. Tji ya ri omunongo tjinene motjiṋa tjimwe, otjiungura tji ri popezu posiya tji pangukile mape ya atji munika nawa tjinene pendje nokurisasaneka."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +47,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Ovandu potuingi ve paha „oviungura kovarumendu mbe hupa nondjira yokuzemba“ mena rokutja omayele omayandjewa potuingi ye ha munika otja aye hitasana nomurumendu ngu ri mehupo rawo. Omuano mbwo omusemba. Posiya eziriro kaze ri oruteto rwoviungura „vyovarumendu“ uriri. Ozo okutameka nomurumendu ngwi omuini: eye aa ungura tjike, aa tjiti tjike moviṱuṱupa vyomayuva wokusuva, notjiṋa tji tje mu tjitire kutja me rimunu omunandengu. Oviṋa mbi suverwa vi panguka komundu auhe. Ovarumendu ovengi ve suvera okuronga ovikurya, okutjuna, okupenda poo okuimbura, novakazendu ovengi ve suvera ozohiha nomanyando wombaze.
 
-## How do I find activities he will actually enjoy?
+## Me yenene vi okumuna oviungura eye mbye vanga tjiri?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Uta nehungi rehupo re. Alzheimer's Association mai tunduuza okutunga [omuhunga weyuva](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) mbu zikamena koviṋa omundu mbya suvera, mbya ha suvere, kozondjamo ze nokoviṋa mbya vanga, nokutja eye aa hunganene vi eyuva re rukuru. Ripura omuini:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Oviungura vye vya ri viṋe?** Motjihangero, motjikunino, motjitanda, mouungure womake, movita, mokurandisa, mokuhonga, mokuhinga, poo ponganda?
+- **Eye aa tjiti tjike moruveze rwe rwomasuva?** Okupata oṱiṱi, omanyando womakarte, okutjanga ovipirangi, omanyando, ondjuwo yaNdjambi, omizumbi, okuronga ovikurya, poo otjihiha motjivanda?
+- **Omitindo vye vya ri viṋe?** Okunwa okofi nokulesa omikanda omuhuka auhe? Okutara ombepo? Okukooha otjihiha Omazuvasabata?
+- **Eye ngamba u uta okutjita tjike omuini?** Association mai tja indu omundu tji ma utu oviungura nokuhina okupurwa, tjimuna okukomba pehi, oviungura mbyo mavi yenene okukara orupa romutindo.
+- **Eye u yepa tjike?** Ovandu tjiva ve nyanda okutara omanyando; varwe ve hihamwa i ombango nombosiro. Tara indu tji ma munika otja wa nyanda, wa kendisa poo wa pindikisiwa.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Hungira nouṱumbe weṱunḓu nomapanga omakuru wina. Owo mape ya ave zemburuka oviṋa mbya suverere mbi mape ya vya zenga mehupo re eyuva arihe.
 
-## Activity ideas based on past work
+## Omayele woviungura nga zikamena koviungura vyatjiri
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association mai yandja otjihorera otjikahu: omurumendu ngwa ungurire motjihangero ma yenene okuvanga oviungura vyokutoora, tjimuna okutwa ovimariva motjiputu, okuvatera okutuwa omikanda vyokuhinda poo okutjanga oruteto rwoviṋa mbi mavi sokutjitwa, ngunda ngwa ri omukune poo omutjune ma yenene okuvanga okuungura motjikunino. Omuhunga mbwi mau ungura koviungura ovingi.
 
-| Past work | Activity ideas | Simpler version |
+| Oviungura ovikuru | Omayele woviungura | Omuhingo omuṱiṱi |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Otjihangero poo ongorasaneno | Okutoora omikanda moviputu, okuteya oumboṱi komivaro, okutarera oruteto, okutoora motjiputiro tjomikanda | Okutuva omivaro kumwe; okutwa oumbaṱe wopepa mokakovera |
+| Oviungura vyomake poo ozohiha | Okutoora ounongo noumbaṱe ovikohoke; okuzikamisa oumbaṱe ounene nomake; okutara omambo woviungurisiwa | Okutoora mouṱiṱi mozonyungu mbari |
+| Okukuna poo okutjevera ehi | Okutjatja omeva, okutuwa ovihape mozonyungu, okukomba omafo, okutara otjikunino | Okukara pehi pendje ngunda ove tji mo ungura; okuṱiza outuṱu wozondjembo |
+| Ovita | Okukohorora ozombanda, okutoora nawa motjiputiro, okutara oviperendero vyovita tji me vi nyanda | Okupuratena komizumbi vyoruveze ndwo |
+| Okurandisa poo okuvatera ovandu | Okutaviza ovaenda, okuyandja ovikurya, okutoora oumboṱi wokuranda | Okukara pehi pomuvero okuminika |
+| Okuhonga | Okulesa mokuzwa, okutoora omambo, okutoora oviperendero motupa | Okutarera embo roviperendero pamwe |
+| Okuhinga poo ozombesa | Okutara omambo womapu poo omambo wozohiha omakuru, okukooha otjihiha | Okutara ozohiha tji maze kapita okuza porutjandja |
+| Ponganda nouṱumbe | Okupeta ozombanda, okutuna potjiriro, okuvatera nomeriro wovikurya | Okupata nawa ouṱekuṱeku; okunyengisa |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Ozongumbiro tjiva, tjimuna oviungura vyovita, maze yenene okueta omaṱakamisiro omananḓengu. Kongorera omuhunga we, hungira oviṋa ovikuru nomuano omuwa, nu u rundurura ehungi noupore indu tji ma munika otja wa hihamwa.
 
-## Activity ideas based on hobbies
+## Omayele woviungura nga zikamena koviṋa mbya suverere
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Okutjanga ovipirangi.** Okutuurura otjipirangi otjizere poo okupenda otjipirangi tjondjuwo yozonḓera. Alzheimer's Association mai tunduuza okuisapo oviṋa ovihimise noviungurisiwa motjiunguriro kutja otjiungura tjimuna okutuurura tji rire otjinyandisa notjikohoke.
+2. **Okupata oṱiṱi.** Okutoora mokakovera kovipateko noungowa mbwa isapwa mo, okutarera omambo wokupata oṱiṱi, poo okukara pehi pamwe mene yomeva.
+3. **Ozohiha.** Okukooha otjihiha, okukohorora otjitenda, okutara oviperendero vyozohiha ozonguru, poo okuyenda motjihiha otja omukavire.
+4. **Omanyando.** Okutara omanyando omakuru poo ouṱiṱi womanyando, okuumba okambaze okapore, okutwa ozombaze zomanyando wombaze pokambere, poo okutoora omakarte womanyando wombaze.
+5. **Omakarte nomanyando.** Orupe oruṱiṱi rwomanyando womakarte nge tjiukwa, domino, poo okutanaukisa omakarte okumuna mbya sana. Tjita kutja vi rire ovipore nu u ise po okuvara ouṋingandu.
+6. **Omizumbi.** Omaimburiro woruveze rwe rwoutanda noukurundu, otjimbumba tje tja suverere, poo eimburiro rondjuwo yaNdjambi. Tara [omuhunga wetu woviungura vyomizumbi](/activities/music/).
+7. **Okuronga ovikurya nokuzosa.** Okukooha ovihape, okunyengisa omutoora, okuungura ozomburuka, poo okutjivisa kutja eye aa rongo vi otjimbombo tje otjitjiukwa ngunda ove tji mo tji rongo.
+8. **Opepa rozombuze.** Alzheimer's Association mai tja omundu ngwaa lese opepa rozombuze aruhe mape ya e hi nyanda oku ri lesa ngamba, nandarire kutja ke nokuyuva nawa oviṋa avihe mbi ri mo. Okofi nopepa rozombuze mavi yenene okukara orupa rwomuhuka.
+9. **Okuungura nokutuwa.** Outuṱu ounene womatungiro poo omayandjere omatuṱu wovarumendu ovakuru. Toorora oviṋa mbi ṱiza nawa okumuna nomake.
+10. **Okutjevera otjiṋa.** Okupa otjipuka ovikurya, okuyera otjiyere tjazonḓera, poo okutjatja ovihape omeva. NIA mai tja [okupa ovikurya, okukohorora poo okuyenda motjipuka pamwe](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) vi ri mokati koviungura ovandu mbi mave yenene okuvanga.
 
-## How do I offer an activity without it feeling like busywork?
+## Me yenene vi okuyandja otjiungura nokuhina kutja tji munike otja otjiungura tjongondoroka?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Tji yandja otja ombatero yatjiri. Alzheimer's Association mai tunduuza okupura „Mo yenene okundjivatera, arikana?“ nokuhunganeka oviungura nondjambi. Sasaneka:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „Mo vanga okutoora oumbaṱe mbwi?“ (mape munika otja omarorero)
+- „Mba randa okaputu koviungurisiwa mbya vangekwa kumwe nu me hepa okutoora imbi ngunda ambi hiya ṱuna otjiputiro. Mo yenene okundjivatera?“ (mape munika otja otjiungura)
 
-Other tips:
+Omayele warwe:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Ungurisa oviṋa vyovarumendu ovakuru.** Oviungurisiwa ovitjiri mbi nomiti mbya isapwa, omambo ovitjiri, omivaro ovitjiri.
+- **Ungureye pamwe.** Ovandu vevari tji mave ungura otjiungura pamwe, oyo omaṱunino. Omundu umwe tji ma tarere omukwao, oyo ondjeverero.
+- **O nakise.** Oumbaṱe tji wa kahita mokanyungu okapose, tjita kutja ku kare nao. Otjinanḓengu oruveze ndu mu ri pamwe nomuṋingandu wokurimuna omunandengu.
+- **Mu vatera okutameka.** Alzheimer's Association mai tja ovandu ovengi ve nozonduma zokutjita oviṋa, posiya ve muna ouzeu okuviṱuna nokutameka. Tjiteye otjitenga pamwe.
 
-## How do I adapt as things change?
+## Me yenene vi okuvitjita oviṱiṱi indu oviṋa tji mavi runduruka?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Indu ondjira yokuzemba tji mai i komurungu, Alzheimer's Association mai tunduuza okutameka oviungura oviṱiṱi mbi nomitjiti omitjinge nu u rire omuṱakame komundu okutjita kutja ma yenene okukara norupa oruṱiṱi. Omurumendu ngwaa tungurura ozohiha rukuru nai mape ya a nyanda okuṱiza otjiungurisiwa otjikohoke nokuhungira nozohiha, poo okutara ove tji mo ungura. Okutara wina okurira norupa.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Tji ya ri omunongo tjinene motjiṋa tjimwe, otjiungura tji ri popezu mape ya atji munika nawa tjinene poviungura vye ovikuru. Association mai tja omupende omunene ma yenene okupindikisiwa i omarundurukiro moviungura vye, ngunda omupende ngwaa penda okuvanga ma yenene okuvanga omuhingo omupe. Otjingero tji matji sokuungura komutjange wovipirangi omunene.
 
-## Safety with work-style tasks
+## Oukohoke noviungura vyotja oviungura vyatjiri
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Isa po oviungurisiwa vyomasa, omiti, ozomboha noumbaṱe mbi nomitwe ovitwe.
+- Pata ozonḓuva zomapenda, omahooli wozohiha noviṋa vyomiti.
+- Tjita kutja ozohiha ze ha munika indu tji ha hingi rukwao.
+- Kara nondjeverero moviungura avihe vyotjiunguriro nomotjikunino.
+- Toorora oviṋa ovinene mbi hi nokuyenena okunyingwa.
 
-## What if he says no?
+## Nu tji ma tja kako?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Yakura nao. Okutja kako mape ya aku hee kutja otjiungura tji munika otjizeu, otjovanatje poo katji nakwo nai. Alzheimer's Association mai rakiza kutja o mu ṋiṋikize. Rora otjiungura tjarwe, oruveze rwarwe, poo mu kareye pehi pamwe uriri. Tara [kutja mo tjiti vi indu tji ma tja kako](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Omanyando nomahungi nge hitasana
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) ma ungurisa omambo womahungiriro nge tjiukwa nawa nu ma hitisa komahungi. [Conversation Cards](/games/conversation-cards/) ze nomapuriro omapaturuke, nokuhina omarorero, motupa pekepeke, nu maze yenena okupaturura omahungi woviungura noviṋa mbya suverere. [Picture Puzzle](/games/picture-puzzle/) mai tjevere otjiperendero atjihe tji tji munika ngunda amu rundurura outuṱu, nu [Word Search](/games/word-search/) yozonḓera ozonene mai yenene okupirindwa nokutjitwa nepeni potjiriro tjomeriro. Komiano vyokuhungira nehupo re orukuru nokuhina okumurora, tara [omuhunga wetu wokuzemburukisa](/activities/reminiscence/).

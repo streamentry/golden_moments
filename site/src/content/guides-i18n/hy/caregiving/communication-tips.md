@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Հաղորդակցման խորհուրդներ թուլամտությամբ ապրող անձի հետ"
+seoTitle: "Թուլամտություն. ինչպես խոսել և ինչից խուսափել"
+description: "Գործնական խորհուրդներ թուլամտությամբ ապրող անձի հետ խոսելու համար. ինչպես սկսել զրույցը, ինչ ասել հարցաքննելու կամ ուղղելու փոխարեն և ինչպես լսել։"
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Խոսեք խաղաղ տեղում, դեմքով կանգնեք անձի առջև, օգտագործեք նրա անունը և
+  խոսեք դանդաղ՝ կարճ, պարզ նախադասություններով։ Միաժամանակ տվեք մեկ հարց,
+  բաց հարցերի փոխարեն առաջարկեք երկու տարբերակ և սպասեք ավելի երկար, քան
+  սովորաբար։ Մի վիճեք, մի ուղղեք և մի հարցաքննեք։ Պատասխանեք խոսքերի
+  հետևում գտնվող զգացողությանը, իսկ երբ խոսքը դժվարանում է, օգնության
+  հասնեն հպումը, նկարները և ժեստերը։
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Մինչև խոսելը նվազեցրեք ֆոնային աղմուկը և աչքի կոնտակտ հաստատեք։"
+  - "Օգտագործեք կարճ նախադասություններ, միաժամանակ մեկ միտք, իսկ «նա» կամ «նրանք» դերանունների փոխարեն՝ անուններ։"
+  - "Բաց հարցերի փոխարեն առաջարկեք երկու տարբերակ կամ այո/ոչ հարց։"
+  - "Սպասեք պատասխանին։ Եթե Ձեզ չեն հասկանում, կրկնեք նույն բառերը, ապա փորձեք ուրիշ բառեր։"
+  - "Մի վիճեք և մի ուղղեք։ Պատասխանեք այն զգացողությանը, որ կանգնած է ասվածի հետևում։"
+  - "Երբ բառերը պակասում են, հաղորդակցվեք հպման, ձայնի երանգի, դեմքի արտահայտության և ընդհանուր նկարների միջոցով։"
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ի՞նչ չասել թուլամտությամբ ապրող անձին։"
+    a: "Խուսափեք հարցաքննումից («Հիշու՞մ ես...»), ուղղումից («Դա սխալ է»), կորուստները հիշեցնելուց («Ես արդեն ասել էի») և անձի մասին խոսելուց այնպես, կարծես նա այնտեղ չէ։ Խուսափեք մանկական խոսելաձևից։ Սրանք սովորաբար ամաչում կամ անհանգստություն են առաջացնում՝ առանց օգնելու։"
+  - q: "Պե՞տք է ուղղեմ նրան, երբ փաստերը շփոթում է։"
+    a: "Սովորաբար՝ ոչ։ Եթե սխալ փաստը վնաս չի տալիս, թողեք անցնի։ Վիճաբանությունը հազվադեպ է փոխում անձի միտքը և հաճախ նրան տխրեցնում է։ Կենտրոնացեք այն բանի վրա, թե ինչ է նա զգում և ինչի կարիք ունի հենց հիմա։"
+  - q: "Ի՞նչ անել, երբ նա չի կարողանում բառը գտնել։"
+    a: "Նախ ժամանակ տվեք։ Եթե ակնհայտորեն դժվարանում է, կարելի է նրբորեն առաջարկել բառը կամ ենթադրել, թե ինչ նկատի ունի, և ստուգել։ Օգնել կարող են նաև մատնացույց անելը, ժեստերը և նկարները։"
+  - q: "Ինչպե՞ս խոսել թուլամտության ուշ փուլում գտնվող անձի հետ, որը հազվադեպ է խոսում։"
+    a: "Մոտեցեք դիմացից, ասեք՝ ով եք Դուք, և օգտագործեք հանգիստ ձայն ու նուրբ հպում։ Դիտեք դեմքի արտահայտությունն ու մարմնի լեզուն՝ զգացողությունները հասկանալու համար։ Ձեր ներկայությունը, ծանոթ երգը կամ ձեռքը բռնելը կարող են շատ բան հայտնել առանց բառերի։"
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Թուլամտությունը կարող է դժվարացնել բառեր գտնելը, երկար նախադասությանը հետևելը կամ ֆոնային աղմուկը չնկատելը։ Սա չի նշանակում, որ անձը այլևս չի ուզում շփվել։ Փոքր փոփոխությունները այն բանում, թե ինչպես եք Դուք պատրաստում զրույցը, ինչպես եք խոսում և ինչպես եք լսում, կարող են խոսակցությունը դարձնել ավելի հեշտ ու հանգիստ՝ Ձեզ երկուսիդ համար։
 
-## What are the most important tips for talking with someone who has dementia?
+## Որո՞նք են ամենակարևոր խորհուրդները թուլամտությամբ ապրող անձի հետ խոսելիս։
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Գրավեք նրա ուշադրությունը, պարզ խոսեք և համբերատար եղեք։ Եթե հիշում եք միայն հինգ բան, թող դրանք լինեն հետևյալը.
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Հանգստացրեք սենյակը և կանգնեք դեմքով։** Անջատեք հեռուստացույցը, նստեք աչքերի մակարդակով և օգտագործեք նրա անունը։
+2. **Միաժամանակ ասեք մեկ բան։** Կարճ նախադասություններ, մեկ միտք, մեկ հարց։
+3. **Առաջարկեք երկու տարբերակ։** «Թե՞յ, թե՞ սուրճ» հարցն ավելի հեշտ է, քան «Ի՞նչ կցանկանայիք»։
+4. **Սպասեք։** Պատասխանի համար տվեք ավելի շատ ժամանակ, քան սովորաբար, և փորձեք չընդհատել։
+5. **Երբեք մի վիճեք և մի հարցաքննեք։** Պատասխանեք նրա զգացողություններին, այլ ոչ թե այն բանին, թե փաստերը ճի՞շտ են։
 
-## How should I start a conversation?
+## Ինչպե՞ս սկսել զրույցը։
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Ստեղծեք պայմաններ, որպեսզի անձը կարողանա կենտրոնանալ Ձեր վրա։ [Family Caregiver Alliance-ի ուղեցույցը](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) խորհուրդ է տալիս նախ նվազեցնել աղմուկը. անջատեք ռադիոն կամ հեռուստացույցը, փակեք վարագույրները կամ դուռը, կամ անցեք ավելի խաղաղ տեղ։
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Մոտեցեք դիմացից։** Հետևից կամ կողքից մոտենալը կարող է վախեցնել։
+- **Ասեք՝ ով եք Դուք։** «Բարև հայրիկ, ես Սառան եմ՝ քո դուստրը»։ Սա օգնում է, որ նա չփնտրի Ձեր անունը։
+- **Իջեք նրա մակարդակին։** Եթե նա նստած է, նստեք կամ ծնկի իջեք, որպեսզի Ձեր աչքերը լինեն նույն մակարդակին։
+- **Ուշադրություն դարձրեք դեմքի արտահայտությանը և ձայնի երանգին։** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers)-ն խորհուրդ է տալիս նկատել Ձեր ձայնի երանգը, բարձրությունը, դեմքի արտահայտությունն ու մարմնի լեզուն և պահպանել ջերմ, հանգիստ խոսելաձև։
+- **Համոզվեք, որ ակնոցն ու լսողական սարքը տեղում են։** Դժվար է հետևել զրույցին, որը չես կարողանում լիարժեք տեսնել կամ լսել։
 
-## How should I phrase what I say?
+## Ինչպե՞ս ձևակերպել ասելիքը։
 
-Use simple words, short sentences and a calm, low voice.
+Օգտագործեք պարզ բառեր, կարճ նախադասություններ և հանգիստ, ցածր ձայն։
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Մեկ միտք յուրաքանչյուր նախադասության մեջ։** «Եկեք հագնենք Ձեր վերարկուն։ Հետո դուրս կգանք»։ Մի ասեք երկուսն էլ մեկ շնչով։
+- **Օգտագործեք անուններ, ոչ թե դերանուններ։** «Զանգել էր Ժան քեռին» ավելի հասկանալի է, քան «Նա էր զանգել»։
+- **Խոսեք ավելի ցածր, ոչ թե ավելի բարձր։** Family Caregiver Alliance-ը խորհուրդ է տալիս ձայնը ցածրացնել, այլ ոչ թե բարձրացնել։
+- **Կրկնեք, հետո վերաձևակերպեք։** Եթե նա չի հասկացել, մեկ անգամ կրկնեք նույն բառերը։ Եթե դա չի օգնում, մի պահ սպասեք և փորձեք ուրիշ բառերով։
+- **Միայն մի ասեք, ցույց էլ տվեք։** Մատնացույց արեք բաժակը, ցույց տվեք երկու սվիտերը կամ ցուցադրեք առաջին քայլը։
+- **Խոսեք նրա հետ, ոչ թե նրա մասին։** NIA-ն զգուշացնում է՝ մի խոսեք անձի մասին այնպես, կարծես նա չկա, և խուսափեք «մանկական խոսելաձևից»։
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA-ն առաջարկում է սովորական հարցերի ավելի պարզ տարբերակներ։ Ահա այդ ոգով օրինակներ.
 
-| Instead of | Try |
+| Փոխարենը | Փորձեք ասել |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Ի՞նչ եք ուզում ճաշի համար» | «Ձուկ ե՞ք ուզում, թե՞ հավ» |
+| «Ինչպե՞ս եք себя զգում» | «Հոգնա՞ծ եք զգում» |
+| «Սովա՞ծ եք» | «Ճաշը հինգ րոպեից պատրաստ կլինի» |
+| «Այդպես չեն անում» | «Եկեք այսպես փորձենք» |
+| «Հիշու՞մ եք լճի մոտ մեր ճանապարհորդությունը» | «Ես մտածում էի լճի մոտ մեր ճանապարհորդության մասին։ Պատմե՞ք՝ ինչն էր Ձեզ դուր եկել» |
+| «Ես արդեն ասել էի» | Նորից պատասխանեք բարությամբ՝ այնպես, կարծես առաջին անգամ եք ասում։ |
 
-## How do I listen well?
+## Ինչպե՞ս լավ լսել։
 
-Listen for the meaning and the feeling, not just the words.
+Լսեք իմաստը և զգացողությունը, ոչ միայն բառերը։
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Սպասեք։** Լռությունը հաճախ մտածելու ժամանակ է։ Մինչև միջամտելը դանդաղ հաշվեք մինչև տասը։
+- **Բառ առաջարկեք միայն այն դեպքում, եթե նա կանգ է առել։** Family Caregiver Alliance-ը նշում է, որ կարելի է բառեր առաջարկել, երբ մարդը դժվարանում է։
+- **Ստուգեք՝ ճիշտ եք հասկացել։** [Alzheimer's Association-ի հաղորդակցության ուղեցույցը](https://www.alz.org/help-support/caregiving/daily-care/communications) խորհուրդ է տալիս փնտրել խոսքերի հետևում գտնվող իմաստը և կրկնել այն՝ համոզվելու համար, որ ճիշտ եք հասկացել։ «Դուք մեքենայի մասին եք անհանգստանու՞մ»։
+- **Դիտեք նրա դեմքն ու մարմինը։** Երբ խոսքը դժվարանում է, ինչպես նշում է NIA-ն, դեմքի արտահայտությունները կարող են տխրությունը, զայրույթը կամ հիասթափությունը ցույց տալ ավելի պարզ, քան բառերը։
+- **Լուրջ վերաբերվեք անհանգստություններին։** Նույնիսկ եթե մտահոգությունը հիմնված է սխալ փաստի վրա, զգացողությունն իրական է։
 
-## What if they say something that is not true?
+## Իսկ եթե նա ասում է մի բան, որ ճիշտ չէ։
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Մի վիճեք։ Դժվար թե համոզեք, իսկ անձը կարող է ամաչել կամ վախենալ։ Փոխարենը կապվեք զգացողության հետ, ապա նրբորեն փոխեք խոսքի ուղղությունը։
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance-ը խորհուրդ է տալիս նախ ընդունել զգացողությունը, հետո ուղղորդել զրույցը։ Օրինակ, եթե Ձեր մայրը պնդում է, որ պետք է երեխաներին դպրոցից վերցնի.
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Փոխարենը՝ «Մայրիկ, քո երեխաներն արդեն մեծացել են։ Դա քառասուն տարի առաջ էր»։
+- Փորձեք՝ «Դու միշտ այդքան հոգատար մայր էիր։ Պատմիր՝ ինչպես էի՞ր նրանց տանում։ Սկզբում մի բան ուտե՞նք»։
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association-ը նույնպես խորհուրդ է տալիս չվիճել այն պնդումների շուրջ, որոնց հետ համաձայն չեք։ Ընտրեք պահը. եթե սխալ կարծիքը վնաս չի տալիս, թողեք այնպես։
 
-## How does communication change as dementia progresses?
+## Ինչպե՞ս է փոխվում հաղորդակցությունը թուլամտության զարգացմանը զուգընթաց։
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ժամանակի ընթացքում կարիքները փոխվում են, ezért հարմարեցրեք Ձեր մոտեցումը։ Alzheimer’s Association-ը նկարագրում է երեք ընդհանուր փուլ.
 
-| Stage | What helps |
+| Փուլ | Ինչն է օգնում |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Վաղ | Մի ենթադրեք, որ նա չի կարող հաղորդակցվել։ Ներգրավեք նրան զրույցներում, խոսեք ուղղակիորեն նրա հետ, հարցրեք՝ ինչպիսի աջակցություն է ուզում, և անհրաժեշտության դեպքում օգտագործեք հումոր։ |
+| Միջին | Մեկ առ մեկ զրույցներ՝ խաղաղ տեղում։ Խոսեք դանդաղ, պահեք աչքի կոնտակտը, տվեք այո/ոչ հարցեր, քայլ առ քայլ հանձնարարականներ և մի քննադատեք կամ ուղղեք։ |
+| Ուշ | Մոտեցեք դիմացից և ասեք՝ ով եք Դուք։ Խրախուսեք մատնացույց անելն ու ժեստերը։ Օգտագործեք հպումը, ձայները, տեսանելի առարկաները և հոտերը։ Երբեք մի խոսեք այնպես, կարծես նա չկա։ |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Յուրաքանչյուր մարդ տարբեր է, և նույն անձը կարող է ունենալ և՛ լավ, և՛ դժվար օրեր։ Արձագանքեք նրան, թե ինչպես է նա հիմա, այլ ոչ թե պիտակին։
 
-## Can pictures and activities make conversation easier?
+## Կարո՞ղ են նկարներն ու zajęciaները զրույցը հեշտացնել։
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Այո։ Ընդհանուր նկարը լարվածությունը թուլացնում է և Ձեզ երկուսիդ տալիս է մի բան, որին կարող եք միասին նայել և մատնացույց անել։
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Նկարային հուշումներ։** [Conversation Cards](/games/conversation-cards/) առաջարկում է նկարներ՝ բաց հարցերով, որոնք երբեք չեն հարցաքննում։
+- **Ընտանեկան լուսանկարներ։** [Photo Pairs](/games/photo-pairs/) Ձեր ընտրած լուսանկարները превращает է հանգիստ զույգ գտնելու zajęcia-ի, ինչը հաճախ հիշողություններ է արթնացնում։
+- **Ծանոթ ասացվածքներ։** [Finish the Saying](/games/finish-the-saying/) օգտագործում է հայտնի ասացվածքներ, որից հետո առաջարկում է խոսելու հուշում։
+- **Զույգ գտնելու zajęciaներ՝ որպես ֆոն։** [Picture Pairs](/games/picture-pairs/) Ձեզ տալիս է մի բան անելու, մինչ զրուցում եք։
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Ավելին կարող եք գտնել [ինչպես միասին խաղալ](/caregiving/how-to-play-together/) և [հիշողությունները արթնացնող zajęciaներ](/activities/reminiscence/) էջերում։ Այցելությունների և զանգերի մասին կարդացեք մեր ուղեցույցներում՝ [այցելություններ](/activities/visiting/) և [հեռախոսազանգեր ու տեսազանգեր](/activities/phone-and-video-calls/)։
 
-## What if I lose my patience?
+## Իսկ եթե համբերությունս հատնի։
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Դա բոլորի հետ է պատահում։ NIA-ն խորհուրդ է տալիս, որ եթե հիասթափվում եք, մի քիչ ժամանակ վերցնեք հանգստանալու համար։ Գնացեք մեկ այլ սենյակ, մի քանի դանդաղ շունչ քաշեք և վերադարձեք, երբ կարողանաք։ Դուք միշտ կարող եք զրույցը նորից սկսել, և անձը շատ հնարավոր է արձագանքի Ձեր ավելի հանգիստ տրամադրությանը։ Եթե հիասթափությունը դառնում է մշտական, դա նշան է, որ Ձեզ ավելի շատ աջակցություն է պետք, ոչ թե այն, որ Դուք չեք справляется։ Մեր [խնամողի ինքնախնամք](/caregiving/caregiver-self-care/) ուղեցույցում կարող եք գտնել, թե ուր դիմել։

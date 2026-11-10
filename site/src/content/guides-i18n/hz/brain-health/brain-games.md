@@ -1,33 +1,35 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Omaṋangero womomutwe maye tjaere ondjepo yozondunge?"
+seoTitle: "Omaṋangero womomutwe nondjepo yozondunge"
+description: "Omapekapeko tji maye tja ohunga nomaṋangero womomutwe nondjepo yozondunge: omarongerisiro womomutwe, omahongero wokompiuta, oruveze rwa ACTIVE notjiṋa tja FTC ku Lumosity, tja kahururwa nawa."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Kape nomuṋangero womomutwe mbwa raisirwa kutja mau tjaere ondjepo yozondunge.
+  Omahongero womomutwe wokompiuta potuingi ye vatera ovandu okutjita nawa imbi
+  mbi ve rihonga. Omapekapeko woruveze rwa ACTIVE ya raisa kutja omahongero
+  womayakiro omahakahana pamwe nomarongerisiro wokuyarukira ko ya ri nozongaro
+  ozonḓiṱi zondjepo yozondunge moure wozombura 20, tji tji ri otjiṋa otjinḓiṱi
+  uriri. Kovandu mbe hupa nondjepo yozondunge, omarongerisiro womomutwe motjimbumba
+  ye raisa ouwa ounḓiṱi moure woruveze orusupi. Omaṋangero ye ri nawa tji ye nyanda
+  mokunyanda nokukara puna varwe.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Omapekapeko womahongero womomutwe ye raisa kutja ovandu ve tjita nawa imbi mbi ve rihonga, nungwari oumbangi mbu mau raisa kutja ihi tji vatera mehupo randje eyuva arihe ounḓiṱi."
+  - "Moruveze rwa ACTIVE, imba mba tjita omahongero womayakiro omahakahana pamwe nomarongerisiro wokuyarukira ko uriri omba va ri nozongaro ozonḓiṱi zondjepo yozondunge moure wozombura 20. Omahongero womayakiro omahakahana nokuhina omarongerisiro wokuyarukira ko, nomahongero wokuzemburuka nokuripura kaa ye raisa ihi."
+  - "Mo 2016, omuungure wa Lumosity wa suta oviṋa vyomayovi 2,000,000 vyoodola okuṱuna oumba mbwa za ku FTC wokutja kaa ri noumbangi mbwa yenene okuvatera omahungiriro wokutjaere ondjepo yozondunge."
+  - "Kovandu mbe nondjepo yozondunge okaṱiṱi poo yokombanda, omarongerisiro womomutwe motjimbumba ye raisa ouwa ounḓiṱi moure woruveze orusupi mouripure, nouwa mbu ri po oukahu kokuhungira nokukara puna varwe."
+  - "Omaṋangero wa Golden Moments owe ri owokunyanda nokukara noruveze puna varwe. Kaye ri omuti nu kaye tjaere poo kaye tjite kutja ondjepo yozondunge i kayende katee."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Omaṋangero womomutwe maye tjaere Alzheimer's?"
+    a: "Kape nomuṋangero womomutwe mbwa raisirwa kutja mau tjaere Alzheimer's poo ondjepo yozondunge yarwe. National Institute on Aging mai tja kutja kape noumbangi mbwa yenene okuraisa kutja ouṱeṱu womahongero womomutwe mbu rirandisiwa u notjiṋa tji tji ri tjimuna ihi tji tja raisirwa momarorero. Nandarire nao, omaṋangero maye yenene okukara ondjira ombwa yokukara noruveze."
+  - q: "Oruveze rwa ACTIVE rwa muna tjike ohunga nomahongero womayakiro omahakahana nondjepo yozondunge?"
+    a: "Omapekapeko womombura 2026 ya tuurunga imba mba ri moruveze rwa ACTIVE kozondjivisiro za Medicare moure wozombura 20. Ovandu mba tjita omahongero wokutunguna ouhakahana nokukara norutavi rumwe poo ozengi rwomarongerisiro wokuyarukira ko va ri nongaro ondeu yondjepo yozondunge ndja munikwa okukapita otjimbumba tji tji ha hongererwe. Omahongero womayakiro omahakahana nokuhina omarongerisiro wokuyarukira ko, nomahongero wokuzemburuka poo wokuripura, kaa ye raisa otjiṋa otjinene."
+  - q: "Oumize nozomaṋangero vi ri nawa komundu ngu ma hupu nondjepo yozondunge?"
+    a: "Mavi yenene okukara nawa, indu omundu tje vi nyanda. Omarongerisiro womomutwe motjimbumba, nga kamburira mo omaṋangero womambo, oumize, ombosiro nohambasaneno, ye raisa ouwa ounḓiṱi moure woruveze orusupi mouripure nouwa mbu ri po oukahu kokuhungira nokukara puna varwe. Okunyanda, nu ha otjizemburukiro tjomakonḓononeno, otji tji sokukara ondando."
+  - q: "Ongwaye Lumosity tja sutisiwa i FTC?"
+    a: "Mo 2016, Federal Trade Commission ya vera Lumos Labs kutja ya tjita omahungiriro ohunga nomaṋangero wayo, nga kamburira mo okurwise oruteu rwezombura nondjepo yozondunge, nokuhina oumbangi mbwa yenene okuyevatera. Ehangano ra itavera okusuta oviṋa vyomayovi 2,000,000 vyoodola nokukara noumbangi mbwa zikama mbu ri po tji matji tjiti omahungiriro otja ingo moruyaveze."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +60,88 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Omaṋangero womomutwe ye ri apehe, nu omengi ye kwizika kutja maye tjevere omutwe woye u rire omupe. Indu tji u tjevera omundu ngu ma hupu nondjepo yozondunge, poo tji u rikendera ohunga nokuzemburuka kwoye omuini, otjiṋa otjiwa okupura kutja okuyenanda mape ya ku vatera. Ihi otjiṋa omapekapeko tji ye raisa tjiri, pamwe na imbi mbi ri oviyandjewa na imbi mbi hi ri oviyandjewa.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Ihi ondjivisiro ondjandje, kaye ri ombatero yonganga. Tara [omahongononeno wetu womiti novakazendu](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Omaṋangero womomutwe maye tjaere ondjepo yozondunge?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Kape nomuṋangero womomutwe mbwa raisirwa kutja mau tjaere ondjepo yozondunge. National Institute on Aging (NIA) mai rakiza ovandu kutja ve ritjevere komahungiriro wokutja omaṋangero wokompiuta nokozonḓuṱu maye yenene okurundurura omuano mbu u zemburuka, nu mai tja kutja kape noumbangi mbwa yenene okuraisa kutja ouṱeṱu womahongero womomutwe mbu rirandisiwa u notjiṋa tji tji ṱeki pamwe nomahongero nga rorerwe momarorero wouhaku ([NIA ohunga nokutjaera Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Ihi katji hee kutja omaṋangero kaye noviwa. Tji heya kutja ondjambi yawo i ri mokunyanda, okukara puna varwe nomuano woruveze, nu kaye ri mokutjevera omundu kondjepo yozondunge.
 
-## What is "near transfer", and why does it matter?
+## "Near transfer" otjikeṋa, nu ongwaye tji tji ri otjinanḓengu?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Indu tji u rihonga otjiṋa, potuingi u tjita nawa motjiṋa ho. Ovakonḓonone ve tji isana otjotjiṋa tji tja za momahongero. Epuriro endandi okutja ondjundurukiro ndji **i yandja** kovinḓe vyarwe: koviṋa mbi ri popezu (near transfer) poo kehupo eyuva arihe, otja okuzemburuka omayuva woruveze poo okutjevera ovimariva (far transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Omapekapeko omanene womombura 2016 ya konḓonona omakonḓononeno nge ungurisiwa i yomaṱeṱu womahongero womomutwe otjombangi yawo onene. Ya muna oumbangi ouingi wokutja ovandu ve tjita nawa moviṋa mbi ve rihonga, oumbangi ounḓiṱi wokutja ve tjita nawa moviṋa mbi ri popezu, noumbangi ounḓiṱi tjinene wokutja omahongero ye vatera omuano mbu ve ripura mehupo eyuva arihe. Omakonḓononeno omengi wina ya ri nomauzeu momuano mu ya ungurirwe, tji tja tjita kutja oumune mbu ri po oukahu u ha yenene ([Simons novakwao, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Omakondononeno maye tja tjike ohunga nomahongero womomutwe wokompiuta?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Omakondononeno wa Cochrane, nga wonganisa omarorero omawa nga ri po, ya tara komahongero wokompiuta nge kambura oure wovivike 12 poo kombanda:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Ovandu ovakohoke mbe ri moukangure ombwa, nozombura 65 kombanda:** omarorero 8 novandu 1,183. Oumbangi wa ri okanḓiṱi poo okanḓiṱi tjinene momuano. Mape ya pa kara ouwa ounḓiṱi kombunda yomahongero, nokuhina oumbangi mbu ri po oukahu wokutja u kara po ([Omakondononeno wa Cochrane, ovandu ovakuru mbe ri moukangure ombwa](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Ovandu mbe nouzeu ounḓiṱi mouripure:** omarorero 8 novandu 660. Kape nororero rumwe ndwa hungira kutja ovandu va ka muna ondjepo yozondunge, nu oumbangi kaa wa ri ounamasa okumuna oumune ([Omakondononeno wa Cochrane, ouzeu ounḓiṱi mouripure](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Oruveze rwa ACTIVE rwa muna tjike?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE oruveze orunene mo United States ndwa uta mo 1998 novandu ovakuru 2,802 vezombura 65 kombanda mbe hupire oveni nu mba ha ri nouzeu ounene wokuzemburuka poo wokuripura. Ovandu va toorerwe momihoko vitatu vyomahongero motjimbumba otjiṱiṱi (okutunguna omahakahana, okuzemburuka, poo okuripura) poo motjimbumba tji tji ha hongererwe. Omahongero ya ri ozoruveze nga ku zomurongo moure wovivike vitano poo hamboumwe. Ovandu tjiva mba mana ozoruveze ozengi wina va toorerwe okumuna **ozoruveze zokuyarukira ko** kombunda yombura imwe nozombura ndatu.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Omahongero womayakiro omahakahana ya kamburira mo okuzuva nokutunguna ondjivisiro yomeho moruveze orusupi tjinene, mozongaro nḓe runduruka indu omundu tji ma tjiti nawa.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Mo 2026, ovakonḓonone va tuurunga ovandu 2,021 kozondjivisiro zawo za Medicare moure wozombura 20 ([Omapekapeko wa ACTIVE wozombura 20](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Ihi otjiṋa tji va muna:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Omahongero womayakiro omahakahana pamwe norutavi rumwe rwomarongerisiro wokuyarukira ko:** ongaro ondeu yondjepo yozondunge ndja munikwa okukapita otjimbumba tji tji ha hongererwe (ohazard ratio ya 0.75, tji tji heya ongaro ondeu nozoperesende 25).
+- **Omahongero womayakiro omahakahana nokuhina omarongerisiro wokuyarukira ko:** kapa ri nongaro ondeu.
+- **Omahongero wokuzemburuka poo wokuripura:** kapa ri notjiṋa otjinene kongaro yondjepo yozondunge ndja munikwa.
+- **Otjimbumba atjihe tjomahongero tji tja sasanekwa notjimbumba tji tji ha hongererwe:** pa ri omuano wokukara nongaro ozondeu, nungwari ka wa ri oumbangi mbwa zikama.
 
-### The limits of this finding
+### Omapando wotjiṋa hi
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Tji ungurira **komuhoko umwe mbwa tongwa womahongero womayakiro omahakahana nge hongererwa puna omarongerisiro wokuyarukira ko**, nu kaye ri komaṋangero womomutwe ayehe.
+- Otjizemburukiro tji tja zikama tja za **motjimbumba otjiṱiṱi** (ovandu mba mana ozoruveze ozengi zorutenga nu va pewa omarongerisiro wokuyarukira ko), nu kaye ri motjimbumba atjihe tjomayakiro omahakahana.
+- Ondjepo yozondunge ya sanekwa okuungurisa **ozonomora zondjepo ndja munikwa mozondjivisiro za Medicare**, nu kape nomundu auhe ngwa konḓononwa popezu. Ovandu mba ri kombanda yokapya rimwe kweṱano kovandu vorutenga va isiwa mo mena rokutja va ri mu Medicare Advantage, ndji hi nozondjivisiro azehe.
+- Imba mba ri mo kamaave ri nouzeu ounene wokuripura indu tji va uta. Ovizemburukiro kavi hungire ohunga nomaṋangero kovandu **mbe hupa nondjepo yozondunge nai**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Otjiṋa hi otjinanḓengu tji matji hepa omakonḓononeno warwe. Kaye ri ombangi yokutja ouṱeṱu ngamwa auhe mau tjaere ondjepo yozondunge.
 
-## What did the FTC say about Lumosity?
+## FTC ya tjere tjike ohunga na Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Mu Januar 2016, Lumos Labs, omuungure wa Lumosity, wa itavera okusuta oviṋa vyomayovi 2,000,000 vyoodola okuṱuna oumba wa Federal Trade Commission wokutja wa hungira ovizeze. FTC ya tjere kutja ehangano ra hungira, nokuhina oumbangi mbwa yenene, kutja omaṋangero wayo maye yenene okurundurura omuano omundu mu ma ungura poviungura na posikore nokutja maye yenene okurwise oruteu rwezombura, ouzeu ounḓiṱi mouripure, ondjepo yozondunge na Alzheimer's. Etwako ri ningira kutja ehangano ri kare noumbangi mbwa zikama mbu ri po tji matji tjiti omahungiriro otja ingo moruyaveze ([Omahungiriro wa FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Ehongero komaṱunḓu: kara noumune mbu ri nawa komuhoko ngamwa auhe womuṋangero, ouṱeṱu poo orutavi ndu ru kwizika okutjevera omuano mbu u zemburuka poo okutjaera ondjepo yozondunge.
 
-## Can games help someone who already has dementia?
+## Omaṋangero maye yenene okuvatera omundu ngu ma hupa nondjepo yozondunge?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Maye yenene okuyandja otjiṋa otjiwa keyuva, nu ihi otjinanḓengu tjinene. Ondjira ndja konḓononwa tjinene oyo **omarongerisiro womomutwe**: oviungura motjimbumba mbi nyandwa, otja ehambasaneno, okuzemburuka ovikuruhungi, omaṋangero womambo, oumize nombosiro, potuingi motjimbumba otjiṱiṱi tji tji hongorerwa i omundu.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Omakondononeno wa Cochrane womombura 2023 womarorero 37 novandu 2,766 mbe nondjepo yozondunge okaṱiṱi poo yokombanda ya muna ([Omakondononeno wa Cochrane womarongerisiro womomutwe](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **ouwa ounḓiṱi moure woruveze orusupi** mozondando zouripure (oumbangi womokati);
+- **ondjundurukiro ndji ri po oukahu mokuhungira nokukara puna varwe** (oumbangi ounamasa, okuza komakonḓononeno omanḓiṱi);
+- **ouwa ounḓiṱi** komuhupo omuwa, komeritjindiro nokomitjinde.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Ouya wa sanekwa potuingi kombunda yozorutavi ndwa kambura oure wovivike omurongo, nu omakonḓononeno omanḓiṱi uriri oma tara kutja wa kara po. Omarongerisiro womomutwe orutavi ndu hongorerwa motjimbumba, ku nao ovizemburukiro kavi ungura auhe komundu ngu ma nyanda omuṋangero erike kotableta.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Ombapira ya The Lancet yomombura 2024 wina mai tja kutja ozorutavi zoviungura ze ri ozinanḓengu kovandu mbe hupa nondjepo yozondunge, kutja ve kare nondjoroka nondando mehupo ([Ombapira ya The Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Omaṋangero ye ri nawa motjikeṋa tjiri?
 
-When chosen well, games can offer:
+Indu tji ya toorerwa nawa, omaṋangero maye yenene okuyandja:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Ondjoroka.** Oiri onḓiṱi ombwa i ri nawa okuikwa oveni.
+- **Oukupamwe.** Okunyanda pamwe ku mu pa otjiṋa otjipupu tji mu yenena okutuurunga indu ehungiriro tji ri ouzeu. Tara [omuano wokunyanda pamwe](/caregiving/how-to-play-together/).
+- **Omuano woruveze.** Otjiungura otjitjiukwa moruveze tjingetjo eyuva arihe matji yenene okuyandja ohange.
+- **Omeritjiukiro.** Oviungura mbi ṱeki pamwe na imbi omundu mbya yenena okutjita nawa nai vi mu vatera okukara noumune wokutja ma yenene, nu ka konḓononwa.
+- **Ehambasaneno.** Otjiperendero poo omambo nge tjiukwa maye yenene okutaura ehungi. Rorera [oukarata wehambasaneno](/games/conversation-cards/) poo [manisa omambo nge tjiukwa](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Ihi tji u sokuritjaera: oviungurisiwa vyoruveze, ozondando, omikoka nozomaṋangero ngamwa azehe nḓe ri tjimuna omakonḓononeno wokuzemburuka. Indu omundu tja pindikisiwa, kurama. Okuyanda rukuru, poo okukara pamwe uriri, otjiṋa otjiwa. Omuhunga wetu wokutja [mu toorora vi ouṱeṱu nozomaṋangero](/caregiving/choosing-apps-and-games/) u noruteto.
 
-## Where Golden Moments fits
+## Golden Moments ri ri pi?
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Omaṋangero wa Golden Moments, otja [omapando woviperendero](/games/picture-pairs/), [otjipuzzle tjoviperendero](/games/picture-puzzle/) nozomaṋangero [womambo omanene](/games/word-search/), ya ungurwa kondjoroka nokukara noruveze puna varwe. Kaye noviungurisiwa vyoruveze nu kaye nozondando. **Kaye ri** omuti, nu **kaye tjaere** poo okurwise ondjepo yozondunge. Tu vanga okutjivisa ihi nawa, okukapita okukwizika otjiṋa omuṋangero ngamwa auhe tji u hi nokuyenena okutjita.
 
-## Talk with a doctor
+## Hungira nonganga
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Indu tji u rikendera ohunga nomarundurukiro wokuzemburuka move omuini poo momundu ngu u tjevera, i konganga nu o ha riyameke kouṱeṱu uriri. Onganga mai yenene okutara omapu ngu maye yenene okuverurwa nokuhungira ohunga nozondjira nḓe noumbangi, otja okutjevera ombindu yokombunda nokukonḓonona okuzuva. Tara [Ondjepo yozondunge mai yenene okutjaerwa?](/brain-health/can-dementia-be-prevented/) okumuna ozondjivisiro ozengi. Indu pa kara omuano mbu u ha tjiukwa tjimanga poo omarundurukiro warwe nge ya tjimanga, paha ombatero yonganga tjimanga.

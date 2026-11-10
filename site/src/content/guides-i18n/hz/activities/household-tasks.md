@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Oviungura vyomonganda otjoviṋa vyokutjita"
+seoTitle: "Oviungura vyomonganda novandu mbe hupa n'otjindjandja"
+description: "Okupeta, okuhaṋa, okuzika otjitiṋa nokutereka ouṱiṱi mavi rire oviṋa vyomunanḓengu kovandu mbe hupa n'otjindjandja tjomeripura. Omomuano wokuvizikamisa nokuvitjevera."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Oviungura vyeyuva arihe otja okupeta ovitowel, okuhaṋa ouzokisokisi,
+  okuzika otjitiṋa, okupyoṋa otjitiṋa, okutjatja ovihape nokuvatera okutereka
+  ouṱiṱi mavi yandja omundu ngu hupa n'otjindjandja tjomeripura omuano watjiri
+  wokuvatera. Toorora oviungura eye mbya tjiwa, vihanena mokutjita tjimwe
+  potjimwe, isa po oviṋa mbya twa omutwe poo mbya pupyara, nu u vara okukara
+  motjiungura otjapeke okukapita okutjita nawa.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Oviungura vyomonganda mbya tjiukwa mavi vatere omundu okumuna kutja eye omunanḓengu nu u ri orupa rweṱunḓu, nu ihi potuingi otjinanḓengu tjinene okukapita kutja otjiungura tja ungurwa nawa vi."
+  - "Hanana otjiungura atjihe mozombazu zimwe, raisira pendje nokuhungira, nu u kambure ombazu ndje rire onḓeu noupore."
+  - "Pata omipanga, oviṋa vyokukohorora nomaundu wokusukura, nu u twa po ovipato vyomahaka wezuko poo otjirwise tjokuzepa otjinihi tji tja zuko ngunda amu tereke pamwe."
+  - "Ovitowel mbya petwa kavi sokupetwa rukwao komurungu womundu. Tji mo hepa okutjita rukwao otjiṋa, tjita kombunda noruveze omundu tje hi nokumuna, kokutja a ha munu kutja wa vyurirwa."
+  - "Tji otjiungura tja eta ombameno, yaruka kombazu ndji ri poupupu, rora rukwao oruveze warwe, poo kara pamwe uriri."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Oviungura viṋe omundu ngu hupa n'otjindjandja tjomeripura ma yenene okuvatera navyo?"
+    a: "Ovandu ovengi mave yenene okupeta ozombanda, okuṱuṱurisa ouzokisokisi, okuhaṋa ovitiṋa vyokurya, okuzika otjitiṋa, okupyoṋa otjitiṋa, okupyoṋa orutumbo, okuṱutura, okutjatja ovihape poo okuṱakanisa motjimbakete. Toorora oviungura omundu mbya tjitire morukapitaveze nu u vi ṱunine ku imbi eye mbya yenena nai. Mozombazu zokombunda, ongaro imwe ndji yarukirwa, otja okupukutisa ovitowel vyokotjitiṋa, mai yenene okuyenena."
+  - q: "Oupaṋi ku omundu ngu hupa n'otjindjandja tjomeripura okuvatera motjikuriro?"
+    a: "Mai yenene okurira oupaṋi, nomatarerero womomurungu nombunikiro ombwa. Kara nomipanga, oviṋa vyokukohorora notjiṋa atjihe tji tja pupyara kokure, ungurisa ovipato vyomahaka wezuko poo otjirwise tjokuzepa otjinihi tji tja zuko, nu u pe omundu otjiungura tji tji ri noupaṋi otja okukohorora ovihape, okuṱakanisa poo okutwa po oviyaha. O isa erike nezuko ndi ri ko."
+  - q: "Eye tja peta ovina posyo poo tja eta ombingandu?"
+    a: "Tji esa nao. Ondando oyo oruveze pamwe nomuinyo wokumuna kutja u ri omunanḓengu, kauṋingandu mbwa pwira. Tji otjiṋa tji tja sokutjitwa rukwao tjiri, undja ngandu kombunda nu u tjite omundu tje hi nokumuna, kokutja a ha munu kutja wa vyurirwa."
+  - q: "Eye tja tja kaa vanga okuvatera?"
+    a: "Otja howo mai hee kutja otjiungura tji nouzeu, tja piyarisiwa poo omundu wa urwa nai. O mu ṋiṋikiza. Rora omuano omupupu, mu ṋanga kutja e kare puna ove, poo ningira rukwao moruveze oruwa rweyuva."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Ovandu ovengi mbe hupa n'otjindjandja tjomeripura va kara ozombura ozengi amave tjevere onganda, amave kurisa eṱunḓu poo amave ṱakamisa oviṋa potjiungura. Okuningirwa okuvatera noviungura vyatjiri mape yenene okutja, „ove ngamba u ri orupa rweṱunḓu ndi,” momuano oviṋa vyarwe ovingi mu avi ha yenene. Orupa ndwi maru hungirire kutja oviungura viṋe mbi ungura nawa, omomuano wokuvizikamisa, omomuano wokuvirundurura oviṋa tji vya runduruka, nokutja omomuano uṋe wokukara noupaṋi motjikuriro na motjituwo tjokukohorora ozombanda.
 
-## Why do everyday chores work well as activities?
+## Ongwaye oviungura vyeyuva arihe tji vi ungura nawa otjoviṋa vyokutjita?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Oviungura vi ungura mena rokutja vya tjiukwa nu vi nondando ndji ri poṋa. National Institute on Aging i tja okukohorora oviyaha, okuzika otjitiṋa, okuṱutura, okupyoṋa orutumbo, okuhaṋa omambo, okupeta ozombanda nokuhaṋa oviṋa mbya sokuyarurwa mombungu mokati koviṋa vyeyuva arihe [ovandu mbe nouvera wa Alzheimer's mbu mave yenene okunyanda navyo](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association i tja oviungura otja okuzika otjitiṋa mavi vatere omundu [okumuna kutja eye orupa orunanḓengu rweṱunḓu](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Otjiungura wina tji nondando yatjo oveni yokuta. „Mo yenene okundjivatera novitowel mbi?” otjipupu okutja ii ku tjo okukapita, „Mo vanga okutjita otjiṋa tjimwe?”
 
-## Which household tasks are good to try?
+## Oviungura viṋe vyomonganda mbi tu sokurora?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Uta noviungura omundu mbya tjitire morukapitaveze, nu u vi ṱunine ku imbi eye mbya yenena ndino.
 
-### Laundry and linens
+### Ozombanda novitowel
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Okupeta ovitowel novitowel oviṱiṱi.** Mu pe otjimbakete novina oviṱiṱi, oviṱarazu. Ovitowel ombupu: kape nomuano omuposi wokupeta tjimwe.
+- **Okuṱuṱurisa ouzokisokisi.** Twa otjimbumba tji tja vangavangwa kotjitiṋa. Tji oupanga wa rire ouzeu okumuna, ungurisa omavara yevari poo yetatu uriri nge nomapusaneko omanene.
+- **Okupukutisa nokutwa pamwe.** Ovitowel vyokotjitiṋa, ovipando vyomusembero poo ovitowel vyoviyaha mavi pukutisiwa nokutwa pamwe. Ihi tji ungura nawa kombunda, okupeta tji kwa rire ozombazu ozengi.
 
-### Table and kitchen
+### Otjitiṋa notjikuriro
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Okuzika otjitiṋa.** Zika poruveze rumwe otjotjihorera nu esa omundu e tjite otja tjo. Tji pe ri ovingi, mu pe otjiṋa tjimwe potjimwe: „Imba oforoko poruveze aruhe.”
+- **Okuhaṋa ovitiṋa vyokurya.** Vanga ozoforoko, ouṋe novipanga vyombuttere mbya kohororwa motjimbakete nu u vi haṋene motjiyaha tji tja haṋika. Isa po omipanga omitwa.
+- **Okupukutisa oviyaha.** Oviyaha vyoplastika poo mbi hi nokuteyika notjowel otjipore mavi tjiti otjiungura hi otjiṋa tji tji ri noupaṋi.
+- **Okupyoṋa otjitiṋa poo ovitiṋa.** Otjitowel tji tja tututa noruveze orukohoke. Alzheimer's Association i tunduuza okuyandja otjitowel indu omundu tje ri amaye pukutisa otjitiṋa neke, nokurundurura omuvingo mbu hi nokusuva motjiungura tji tji novatera.
 
-### Around the house
+### Meṱunḓu arihe
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Okupyoṋa orutumbo.** Otjipyoṋise otjipore noviṋa oviṱiṱi mbya zikama, otja otjitiṋa tjokofi poo otjipundi tjomambo.
+- **Okuhaṋa omambo.** Mu pe omambo nge hi nonḓengu novimbapira vyomaraisiro okukara movimbumba: kara navyo, yarura mombungu, paturura kombunda. Kara nomambo wozondjambi nozotjeke poruveze rwarwe.
+- **Okuhaṋa oviṋa mbya sokuyarurwa mombungu.** Ozombakete, omabotera nomapepa mbya kohororwa mozombungu pekepeke.
+- **Okuṱutura.** Otjiṱuture otjiṱiṱi porupanda poo pehi motjikuriro, tji omuzikamo weṱunḓu wa zikama.
+- **Okutjatja ovihape.** Okana okatjatjise okaṱiṱi, okapupu novihape oviṱiṱi mbi ri popezu.
 
-### Simple cooking with supervision
+### Okutereka ouṱiṱi nomatarerero womomurungu
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Okutereka maku yenene okuyarura omaumune omawa nomazeu. NIA i tunduuza okuesa omundu a wane ovikurya, a saneke, a ṱakanise nokutira, poo a raere omundu warwe kutja omuano uṋe wokutereka otjirwa tje tja suverwa. Oviungura oviwa mavi kamburire mo:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- okukohorora ovihape poo ovihape vyomiti
+- okuṱakanisa orutjere poo osalata ombaṱu
+- okuteya omafo wosalata
+- okutura ombuttere komboroto nomupanga mbu u hi nomutwe
+- okutwa orutjere rwomakuki porutjere
+- okutwa ovikurya kombanda yopizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Okusaneka tji kwa rire ouzeu, Alzheimer's Association i tunduuza kutja ove u mane okusaneka nu u pe omundu ombazu yarwe, otja okuṱakanisa.
 
-## How do I set up a chore so it goes well?
+## Me zikamisa vi otjiungura kokutja tji kayende nawa?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Toorora oruveze oruwa.** Toorora orupa rweyuva omundu mu poruveze ndwo a suva okukara a suva nokuhworera. Kovandu ovengi ihi omuhuka.
+2. **Kohorora oruveze.** Otjiungura tjimwe, oruveze rumwe, kape notjiṋa tjarwe kotjitiṋa.
+3. **Ṋanga, o rakiza.** „Me hepa ombatero novitowel mbi” ku ungura nawa okukapita „Oruveze rwokupeta ozombanda.”
+4. **Raisa otjitenga.** Peta otjitowel tjimwe noupore, nu u yandje otjarwe. Okuraisa ku ri poṋa tjinene okukapita okuhungira.
+5. **Yandja ombazu imwe potjimwe.** Omahongero omengi potjimwe mape yenene okupiyarisa omundu. Undja ombazu imwe i yande ngunda au hiya tumbura indji yarwe.
+6. **Ungura pamwe mene.** Okutjita otjiungura tjimwe pamwe maku munika otja oupanga, kauṋangarere.
+7. **Hungirira kotjiungura, kauṋingandu.** „Ovipore tjinene” poo „Ndjiraere kutja wa suverere vi okutuna otjipundi tjovitowel” ku ṋanga ehungiriro nokuhinokurora omundu.
 
-## How do I adapt chores as abilities change?
+## Me rundurura vi oviungura omasa tji maye runduruka?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Omasa maye runduruka moruveze nu nandarire eyuva ku indi. Alzheimer's Association i tunduuza okuyaruka koviungura oviṱiṱi, mbi yarukirwa ouvera tji mau kayenda komurungu.
 
-| If this has become hard | Try this instead |
+| Tji ihi tja rire ouzeu | Rora ihi pendje natjo |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Okupeta omahuka omanene | Okupeta ovitowel oviṱiṱi poo okupukutisa ovitowel vyokotjitiṋa |
+| Okuzika otjitiṋa atjihe | Okutwa otjitowel tjimwe poruveze aruhe |
+| Okuhaṋa omambo momihoko | Okutwa ozombapira motjimbumba tjimwe |
+| Okukongorera omuano wokutereka | Okuṱakanisa, poo okutara nokurora ove ngunda amo tereke |
+| Okuṱutura ehi arihe | Okupyoṋa otjitiṋa tjimwe otjiṱiṱi |
+| Okutjita otjiungura ngamwa | Okukara puna ove nokukukara popezu ove ngunda amo tji ungura |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Okutara ku vara otja orupa. NIA i tja ovandu tjiva ve nyanda okutara uriri, nu indjo omuano omuwa wokukara mo.
 
-## How do I keep household tasks safe?
+## Me tjevere vi oupaṋi moviungura vyomonganda?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Oupaṋi oupenga, tjinenenene motjikuriro. Omahongero woupaṋi meṱunḓu wa NIA [kovatjevere mbe nouvera wa Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ye kamburira mo:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Pata poo isa po oviṋa vyokukohorora, mbya kamburira mo omaundu wokusukura ozombanda, nge munika otja ouyumbwa.
+- Twa omipanga, oviteto noviṋa vyomasa moruveze ndwa patwa.
+- Twa po ovipato vyoupaṋi nomahaka wezuko notjirwise tjokuzepa otjinihi tji tja zuko kezuko.
+- Twa po ovizemburukiro „Kurama” poo „Tja pupyara tjinene” popezu nezuko, nomuhina wokuyakisa omboroto notjitenda, nu u vi twe poruveze pu avi hi nokuyakisa omuriro.
+- Twa otjipupe tjomeva ku 120°F okukutisa oumba wokusosoka.
+- Isa po ovihape vyomahongero nomazemburukiro wovikurya, mbi mavi munika otja ovikurya.
 
-A few more practical habits help:
+Omitiro vyarwe vyomasa mavi vatere:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Kara motjituwo indu ezuko, omuhina wokuyakisa poo otjirwise tji tja twa omutwe tji tji ri motjiungura.
+- Ungurisa oviyaha mbi hi nokuteyika okupukutisa nokuzika otjitiṋa.
+- Kara nehi ekukutu neukohoke ngunda amo ṱutu poo okupyoṋa.
+- Omundu tja ungurisire ovirwise rukuru, Alzheimer's Association i tunduuza okuisa po oviṋa vyomba motjituwo tjovirwise kokutja otjiungura tji tji ri noupaṋi, otja okukuna otjipande tjomuti, tji yenene okunyandwa.
 
-## What if they do it "wrong"?
+## Eye tje hi nokutjita „nawa”?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Tji esa. Otjitowel tji tja petwa mozombazu ndatu pendje noozombazu mbari ngamba otjitowel tji tja petwa. Alzheimer's Association i hungire poṋa: otjinanḓengu okukara pamwe noruveze nomundu okumuna kutja eye omunanḓengu, kakutja ovitowel vya petwa nawa. Tji otjiṋa tji tja sokutjitwa rukwao tjiri, undja ngandu kombunda nu u tjite kehi nokumunika.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Okuvyurira moruveze ndwo maku yenene okurundurura otjiungura otjiwa otja otjizemburukiso tjoviṋa mbya pandjara. „Okuhepa, ove wa ndji vatere tjinene” potuingi omambo omawa okutja.
 
-## When should we stop?
+## Ruṋe tji matu sokukurama?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Kurama poo rundurura tji wa munu ovizemburukiso vyombameno, ouru poo okutja omundu ke nonḓero. Okuyanda rukuru otjiṋa otjiwa, kauṋingandu. Ove mo yenene:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- okuyaruka kombazu ndji ri poupupu
+- okuyaruka kotjiṋa tjokuhworera, otja omizumbi poo okofi
+- okurora rukwao kombunda poo eyuva rarwe
+- okukara pamwe uriri
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Omundu tja tja kaa vanga, o mu ṋiṋikiza. Tara [tji ma sokutjitwa eye tja tja indee](/caregiving/when-they-say-no/) komiano omipore vyokuzira.
 
-## Low-effort extras for a quieter moment
+## Oviṋa vyarwe oviṱiṱi vyoruveze oruṱiṱi
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Tji oviungura vyorutu avi hi nokuyenena, okuhaṋa nokuṱuṱurisa mavi yenene okutjitwa omundu a haamene. [Sort Together](/games/sort-together/) mai yandjere okutuna oviperendero mozombakete vyotjikuriro poo vyotjikunino, nu [Picture Pairs](/games/picture-pairs/) otjiraisiro tjokuṱuṱurisa otjipore noviperendero ovinene nu tji hi noruveze ndu maru verwa. [Conversation Cards](/games/conversation-cards/) i nomapuriro omapaturuke ohunga neṱunḓu nonganda nge hitasana nawa nokofi kombunda yoviungura.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Mombatero yokutwa oviungura meyuva, tara omuhunga wetu ohunga [nomuhingo omupore weyuva](/activities/daily-routine/). Komiano vyarwe otja kozombazu, tara [oviṋa vyokutjita mozombazu zopokati](/activities/middle-stage/).

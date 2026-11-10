@@ -1,32 +1,34 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Oupende nomirimo vyomake kovakuru vena nouhaku"
+seoTitle: "Oupende kouhaku womutwe: wovakuru, kawi wovana"
+description: "Oviungura vyoupende vyovakuru kovandu mba ri mouhaku womutwe: opende yomeva, ovifano mbya katwa, nokuyereka ovimbumba, nomayngo wokutanga."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Oviungura vyoupende oviva kovakuru mba ri mouhaku womutwe ma vi tare nu ma
+  vi ri tjimuna ovya ovakuru: opende yomeva, ovifano mbya katwa moviṋangwa,
+  okuyereka ovimbumba, okleyi, okutjanga omakarata osupi poo omapapira
+  wokupenda wovakuru. Isa oviṋa oviraru, kwatha omundu okuranda omurandu
+  womasa tji tji pumbwa, hungira ngunda amu ungura, nu tamisa komuveze
+  wokukara kumwe tjimuna otjikwao tjouṋe. Otjifano tja kukuta katji
+  sokusokera.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Hoorora ovikwambilirwa noviṋa mbi ma vi tare tjimuna ovya ovakuru, tjimuna orupapira rwopende yomeva, ovimbumba vyatjiri novifano vyomoviṋangwa, kawi ovipapira vyokuripura, ovitambi poo omapapira wokupenda womuatje."
+  - "Tamisa komurimo: omavara, okukwata okleyi, omuhiva. Otjifano tja kukuta otjiyandjewa, kawi otjikwao tjouṋe."
+  - "Yandja otjikwako tji mo kamburura, tjimuna okarata kokukuna komutjiṋe poo otjipwikiro tjokongurova tjotafele."
+  - "Kwatha omundu okutanga, nu ritjinda ko. Okuranda komburasi omurandu umwe kumwe omapu okukwatha."
+  - "Omirimo kavi sokusokera kukuta moruveze rumwe, nokukuta komasa otjiṋa tji tji ri nawa rukuru."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Mbi tjita vi kutja oviungura vyoupende vi ha rire ovya ovana?"
+    a: "Ungurisa ovikwambilirwa vyoupende vyatjiri, oviṋa vyovakuru nomuhaka wourangaranga. Pa vikwambilirwa vyokuripura nomapapira wovifano vyomuatje, ungurisa orupapira rwopende yomeva, otjikete, ovimbumba, ovifano vyomoviṋangwa nomapapira wokupenda nga na omirandu yokuware. Ina tanga omurimo tjimuna tji mo tanga otjifano tjomuatje; hungira kuo tjimuna tji mo hungira komukwao."
+  - q: "Oviungura vyoupende vyevi ma vi ungura kouhaku womutwe wokoupera?"
+    a: "Oviungura vyosupi nu vyomazumo ma vi ungura nawa koupera: okupenda oviranda ovinene noburasi otjinene, okubwika okleyi orutenga, okuyereka ovimbumba oviraru motjikombe, poo okupanga ovipande vyotjikete nokukwata. Mo kamburura okutanga okuranda kumwe. Okutara ove tji mo penda nokuhungira omavara nao otjo ndjira yokukatakata."
+  - q: "Tji ma tja kave nokusokera okupenda?"
+    a: "Isa ombwikiro. Rora omirimo mbi hi na omukuto wou nawa, tjimuna opende yomeva ndja kukuta uriri, okukatakata ovifano, poo okuyereka ovimbumba. Mo kamburura nokutja u pumbwa okukwathwa kotjikwao tjimuna okuhoorora omavara wokarata, kutja omurimo u rire tjimuna otjikwatha, kawi tjimuna ondondo."
+  - q: "Omapapira wokupenda ma ye rire ovya ovana kovakuru?"
+    a: "Kavi ri, tji ya hoororerwa ovakuru. Hoorora omapapira nga na oviṋa vyovakuru tjimuna omirima, oviroto, omakara poo omapunda, nu u vi yandje tjimuna otjikwao tjokuyarura, kawi tjimuna ondondo. Omapapira wetu wokupenda ma yenena okupurintwa poo okupendwa kotapureti."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +50,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Oupende nomirimo vyomake vye yandja kovandu mba ri mouhaku womutwe ondjira yokuritjivisa ndja hi nokusokera komambo ngwa yenena. Alzheimer's Association mai tja omirimo vyoupende ma vi yenena okuyandja [omaramisiro womurimo nongatukiro](https://www.alz.org/help-support/caregiving/daily-care/art-music) norumwe rwokuritjivisa — komurididingi nao komundu ngu ri mouhaku womutwe. Oruputaṋe: okurisa ovina vi ri vyovakuru, osupi, nokuhina ombwikiro. Omukambo ndu ma yandja ovitunga vyatjiri, otja vi sokusokwa, notja vi sokusokwa okurunduruka ngunda oviṋa tji ma runduruka.
 
-## What makes an art activity adult and not childish?
+## Otjike tji tjita omurimo woupende u rire womukuru, kawi womuatje?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Omurimo woupende wovakuru u ungura novikwambilirwa vyatjiri, noviṋa vyovakuru, nomuhaka wourangaranga. Alzheimer's Association mai tja omirimo vi sokusokwa koupera wovakuru, nu okuzepa oviṋa avihe mbi ma vi yenena okunanesa poo okutja omundu a rire tjimuna omuatje.
 
-| Feels childish | Feels adult |
+| Otjike tji tji tjita okurira otjomuatje | Otjike tji tji tjita okurira otjovakuru |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Ovipapira vyokuripura, ovitambi vyopousu, omaiho wovipupo | Orupapira rwopende yomeva, otjikete, ovimbumba mbya kukutwa |
+| Omapapira wokupenda wovifano vyomuatje | Omapapira wokupenda womirima, woviroto, womakara poo womapunda |
+| "Wa tjita nawa" komurandu auhe | Omuhiva watjiri: "Ouvaru mbwi u wa nawa puo okutoka" |
+| Omurimo woupende au hi na otjikwako | Okarata kokukuna komukwao, otjipwikiro tjokongurova, otjiyandjewa |
+| Omayngo nga resa tjimuna ondondo | Okupura: "Mo kukwatha na ndji?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Zirikanisa ouini womundu ngwi muene. Omundu ngwa suvera okuruka mo tjimuna okukwata otjikete. Omuhandji wovimariva ngwa kukuta omurimo ma kamburura okusuvera otjipuna tjovinene poo okupanga ovimariva vyomurimo. Omurangise ngwa ri omukuru ma kamburura okusuvera okutjanga omakarata.
 
-## Why focus on the process, not the product?
+## Omorwaa tu tamisira komurimo, kawi komukuto?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Orondu oruveze rwokukara kumwe ndiro oru ri otjikwao tjouṋe. Omukambo wa Alzheimer's Association w[oviungura vyomukunda](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) mau tja tu tamise komurimo, kawi komukuto. Opende ndja "ouvaru uriri" otji ri opende. Okukatakata ovifano vitatu otji ri okukatakata.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association mai tja nai: omuhandji woupende ngwa ri omurimo we woupende ma kamburura okunyekerera tji oviṋa vyomurimo we ma runduruka, nungwari omundu ngwa hi nokusokera ouṋe ma kamburura okusuvera oruveze orupe rwokuritjivisa. Tji omundu a ri omuhandji woupende ngwa ri otjihandja, rora orumwe rwovikwambilirwa okuza ku imwe ndja ri otjihandja, kutja u rire tjimuna okunana, kawi tjimuna okupingana.
 
-## Arts and crafts ideas to try
+## Oviungura vyoupende mbi mo kamburura
 
-Each idea includes how to make it simpler if it becomes hard.
+Omurimo auhe u na ondjira yokuu ungura osupi tji u rire ouhahi.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Okupenda nopende yomeva.** Nuna orupapira orunene rwopende yomeva, nu tjinda omundu a ture omavara ko noburasi otjinene. Omavara maye rikura muene, nokutja kape na omukuto au hi ou nawa. *Osupi:* yandja omavara yevari uriri, poo penda nomeva korupapira orurundu ndu ma raisa omanyoro womeva.
+2. **Okukatakata ovifano okuza moviṋangwa.** Kata ovifano komasa okuza moviṋangwa vyomirima, vyokurya, vyomakara, vyomapunda poo vyomirimo vyomapera womundu. Tja omundu a hooroere ovifano, nu a vi namise korupapira orukukutu. *Osupi:* yandja ovifano vine mbya katwa komasa nomusini wokunamisa, nu namisa kumwe.
+3. **Okuyereka ovimbumba.** Alzheimer's Foundation of America mai tja [okuyereka ovimbumba novitavi](https://alzfdn.org/dementia-activity-gardening/) moviungura vyomayuva ngavi ri osupi. Ungurisa otjikombe otjinene, otjiumba, novitavi mbya katwa komasa. *Osupi:* isa ovitavi oviraru motjikombe otjisupi, tjimwe tjimwe.
+4. **Omapapira wovimbumba mbya kukutwa.** Kukuta ovimbumba okuza kotjiyandjewa pokati komapapira womambo omayuva hambombari, nu katakata ko orupapira rwa kakatwa. *Osupi:* ove u isa omusini wokunamisa, eye a kukame otjimbumba.
+5. **Omapapira wokupenda wovakuru.** Hoorora omapapira nga na omirandu omayandje noviṋa vyatjiri. [Ovifano vyokupenda](/games/coloring/) mbi mo purinta ma vi yenena okupendwa kotapureti, nokukwata oruvara, nu okukwata ko otjipande tjotjifano. *Osupi:* ovipande ovinene, omavara maye hi tjinene, ovipende ovikukutu.
+6. **Okleyi poo orukukuta orutenga.** Runda, bwika nu u honge okleyi nge ya kukuta kehi yeyuva poo orukukuta orutenga. Okubwika eho romuti mokleyi ma tjita otjipande tjokuturisa. *Osupi:* okubwika uriri nokurunda otjiungura otjikukutu. Tara kutja omundu a hi nokutura okleyi momunwa.
+7. **Okutjanga omakarata.** Alzheimer's Association mai tja tji ungurisisiwe tjimuna otjiungura tjatjiri: "Matu tumu okarata kokukuna komukwao. Mo kukwatha?" Omapapira nga katwa komasa nomatambi wovimbumba poo otjitempe maye ungura nawa.
+8. **Okukatakata ovifano vyomapera.** Isa kumwe ovikope vyovifano vyomapera, omakarata womaposita poo ovipande vyotikete momapapira wembo. Hungira kotjifano atjihe ngunda amu tjiti. Tara [omayngo womuhiva](/activities/reminiscence/) wetu komikambo yomirimisiro yokuhungira koupera.
+9. **Omapapira wotjikete nokukwata.** Namisa ovipande vyotjikete tjorukukutu, tjobudidi, tjokuhina nokutjisilvera korupapira orukukutu. Okutjivara otjiungura; okukwata ko konima otjiungura otjikwao. Omapangero wamwe mo kamburura mo [omayngo woviungura vyomazumo](/activities/sensory/).
+10. **Okukuta omuti.** Komundu ngwa suvera ovitjiṋa vomuti, okukukuta otjipande tjomuti tja yandje poo okupenda otjipuna tjondjimbo ndja tjitwa komasa mai rire otjiiṋa atji tji tjivisiwa. Isapo ovikwambilirwa ovisesa, nu tara ko.
+11. **Okupenda nokuyimba.** Isa ovyimbo mbi mo suvera, nu penda ovipupo poo omavara nga rire tjimuna omuano. Oku maku katakata omirimo ivari mbi ovandu ovengi mba suvera. Tara [oviyungura vyomuziki](/activities/music/).
 
-## How do I set up an art session?
+## Otjiungura tjoupende matji tangwa ngahe?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Tangisa komasa.** Kata, kukuta nu isa avihe komasa ku hiya okukokisa omundu. Okurara ngunda amu paha okakatiro otji ma heree oruveze.
+2. **Isa oviṋa oviraru uriri.** Omavara yevari poo yetatu, oburasi imwe, orupapira rumwe. Oviṋa ovingi tjinene vya yenena okunanesa omundu.
+3. **Tjinda otafele.** Otjikete tjoplasitiki poo otjikete tjoupera tji ma tjita kutja u hi nokujeverera omborero.
+4. **Kara kumwe, potjikoro.** Ungura komurimo wove puo komurimo we. A rire tjimuna otjiungura tjokukara kumwe, kawi tjokutara ko.
+5. **Kwatha omundu okutanga.** Alzheimer's Association mai tja mo kamburura okutanga okuranda komburasi pamwe nomundu. Tji pwa tangwa, ovandu ovengi ma ve tjita ko.
+6. **Hungira ngunda amu ungura.** Popa omavara nokukwata, poo isa omurimo u heree omihiva. Zepa omapura ngotjondondo tjimuna "Otjiṋa otjike ndi?"
+7. **Yandja oruveze orunene.** Omurimo kau sokusokera kukuta moruveze rumwe.
 
-## How do I adapt art as dementia changes?
+## Oupende matu u kamburura ngahe ngunda ouhaku womutwe tji ma runduruka?
 
-| Stage | What tends to work | What to adjust |
+| Omurandu | Otjike tji ma ungura nawa | Otjike tji sokusokwa |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Omatangiro | Ovikoro, okupenda okunandja, omambo womapera, okutjanga omakarata, okupenda kotjifano | Yandja omahoorero womirimo; kara noukwao |
+| Oruveze rwopokati | Okukatakata ovifano mbya katwa komasa, opende yomeva, okuyereka ovimbumba, okupenda ovipande ovinene | Otjirandu tjimwe tjimwe; ove u kata nu u namise |
+| Okupera | Oviranda ovinene vyoburasi, okubwika okleyi, okukwata otjikete, okutara ove tji mo penda | Tamisa komazumo; hongorera omake nawa nawa tji tji ri okusuvera |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS mai tja koupera omirimo vyengi ma vi tjitwa osupi nu ma vi tamisira komazumo. Okutara omundu omukwao tji ma penda, nokuhungira omavara, otjo ndjira yatjiri yokukatakata. Komapangero wamwe womurandu auhe, tara [oviungura vyomurandu auhe](/activities/ideas/).
 
-## Safety with art supplies
+## Ondjeverero novikwambilirwa vyoupende
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Hoorora opende, ovipende nomusini wokunamisa mbi ha vi heree omundu.
+- Isa okakatiro, omakwe wokukata novikwambilirwa mbya kora kure navi. Kata ove muene komasa.
+- Tara kotja omundu ngu ma isa okleyi, opende poo oviṋa ovishona momunwa.
+- Ungurisa ovipwikiro oviyambere, ovinene, vyomeva novimbumba.
 
-## When should we stop?
+## Matu sokusokera kukuta rukuru?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Kukuta tji omundu a hi nokutara ko nawa poo tji ma nyekerera. Alzheimer's Association mai tja kukuta poo okurundurura omurimo tji omatamisiro ma za poo tji okunyekerera ku kura. Isa omurimo pomwe pu kwa hupisa, nu yandja otjikwao tji tji yandja ouyara. Mo kamburura okuuya komurimo komasa, poo apu. Avihe ivari a vi wa nawa.
 
-## Display the work, if the person wants
+## Raisa omurimo, tji omundu ma vanga
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Okubamba opende kofirisa poo okuiisa otjifano motjipuna mai rire ondjira yokuraisa ourangaranga. Pura komasa. Ovandu vamwe ma ve suvera okumuna omurimo wawo koruvanda; vamwe kave vanga.
 
-## Pair art with our games
+## Katakata oupende nomirimo vyetu
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Koma yuva nga u hi nokusokera okutanga opende, [Coloring](/games/coloring/) u ungura kotapureti nokuhina omborero. [Picture Puzzle](/games/picture-puzzle/) ma isa otjifano atjihe tjimuna ondjivisiro ngunda amu rundurura ovipande. [Conversation Cards](/games/conversation-cards/) mai yandja omapura ngamwa ma yenena okurira okuza kotjifano okutja komuhiva. Avihe kavi na oruveze poo ondando. Mo kamburura okupurinta omapapira okuza moukusanyeno wetu [woviungura vyokupurinta](/activities/printable/).

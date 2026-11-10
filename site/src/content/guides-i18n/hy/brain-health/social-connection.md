@@ -1,32 +1,34 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Հասարակական կապը և ուղեղի առողջությունը. միայնությունն ու մեկուսացումը"
+seoTitle: "Միայնությունը, մեկուսացումը և դեմենցիայի վտանգը"
+description: "Ինչպես են միայնությունն ու մեկուսացումը կապվում դեմենցիայի վտանգի հետ, ինչ է ասել ԱՄՆ գլխավոր բժշկի զեկույցը և ինչպես մնալ կապի մեջ։"
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Հետազոտությունները ցույց են տալիս, որ կյանքի ուշ շրջանում հասարակական մեկուսացումն ու միայնությունը
+  կապվում են դեմենցիայի ավելի բարձր վտանգի հետ։ 2024 թվականի Lancet հանձնաժողովը գնահատում է, որ
+  մեկուսացումը կարող է կապված լինել դեպքերի մոտ 5%-ի հետ, թեև այս կապի մի մասը կարող է պայմանավորված
+  լինել այն բանով, որ դեմենցիայի վաղ փուլը մարդուն մղում է հետ քաշվելու։ Կապի մեջ մնալը, ընդհանուր
+  զբաղմունքները և լսողության խնդիրների դեպքում օգնություն ստանալը բոլորը կարող են աջակցել շփմանը։
+  Դեմենցիայով ապրող մարդկանց համար ընդհանուր զբաղմունքները կարևոր են հաճույքի և կյանքի որակի
+  համար․ նպատակը կապն է, ոչ թե արդյունքը։
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet հանձնաժողովը կյանքի ուշ շրջանի հասարակական մեկուսացումը ներառում է դեմենցիայի 14 փոփոխելի վտանգի գործոնների շարքում՝ դեպքերի մոտ 5%-ի չափով։"
+  - "ԱՄՆ գլխավոր բժշկի 2023 թվականի զեկույցը երկարատև միայնությունն ու մեկուսացումը կապել է տարեց մարդկանց մոտ դեմենցիայի մոտ 50% ավելի բարձր վտանգի հետ։"
+  - "Այս տվյալների մեծ մասը դիտողական հետազոտություններից է, և դեմենցիայի վաղ փուլն ինքնին կարող է մարդկանց մղել հետ քաշվելու։"
+  - "Լսողության և տեսողության խնդիրները, միայնակ житьը և խնամքի պարտականությունները կարող են մեծացնել մեկուսացման վտանգը։"
+  - "Դեմենցիայով ապրող մարդկանց համար հաճելի ընդհանուր զբաղմունքները աջակցում են կյանքի որակին․ նպատակը կապն է, ոչ թե արդյունքը։"
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Միայնությո՞ւնն է առաջացնում դեմենցիա։"
+    a: "Դա ապացուցված չէ։ Շատ հետազոտություններ միայնությունն ու մեկուսացումը կապում են դեմենցիայի ավելի բարձր վտանգի հետ, բայց ուղեղի վաղ փոփոխությունները նույնպես կարող են մարդկանց մղել ուրիշներից հեռանալու։ Կապի մեջ մնալն ունի շատ այլ օգուտներ տրամադրության և առողջության համար, ուստի դրան աջակցելը արժեքավոր է ամեն դեպքում։"
+  - q: "Ո՞րն է տարբերությունը միայնության և հասարակական մեկուսացման միջև։"
+    a: "Հասարակական մեկուսացումը նշանակում է, որ մարդը կանոնավոր շփման համար քիչ մարդիկ ունի։ Միայնությունը միայնակ կամ կտրված լինելու ցավոտ զգացումն է։ Կարելի է միայնակ жить և չզգալ միայնություն, կամ sentirse միայնակ՝ մարդկանց շրջապատում լինելով։"
+  - q: "Ինչպե՞ս կարող եմ օգնել դեմենցիայով ապրող ծնողիս կապի մեջ մնալ։"
+    a: "Կարճ և կանոնավոր շփումը լավ է աշխատում։ Կարող եք փորձել շաբաթվա որոշակի օր զանգել կամ տեսազանգ անել, խոհանոցի սեղանի շուրջ միասին ինչ-որ բան անել, այցելել հիշողության սրճարան կամ հանդիպել ընտանի կենդանու կամ թոռան հետ։ Խմբերը փոքր և հանդարտ պահեք, և թող մարդն ինքը որոշի տեմպը։"
+  - q: "Որտե՞ղ կարող եմ տեղական օգնություն գտնել մեկուսացած տարեց մարդու համար։"
+    a: "Eldercare Locator-ը հանրային ծառայություն է, որը ընտանիքներին կապում է տարեցների հարցերով տեղական կազմակերպությունների և համայնքային ծրագրերի հետ։ Նրան կարելի է դիմել 800-677-1116 հեռախոսահամարով կամ eldercare.acl.gov կայքով։"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +56,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Մարդիկ ստեղծված են ուրիշների հետ շփվելու համար, և դա տարիքի հետ չի փոխվում։ Հետազոտությունները ցույց են տալիս, որ կյանքի ուշ շրջանում միայնությունն ու հասարակական մեկուսացումը կապվում են դեմենցիայի ավելի բարձր վտանգի, ինչպես նաև սրտի հիվանդությունների և ընկճվածության հետ։ Հետազոտությունները դեռևս չեն կարող հստակ ասել, թե այդ կապի որ մասն է պատճառ և հետևանք։ Այս էջում ներկայացված է, թե ինչ են ցույց տալիս տվյալները, ինչպես կարելի է գործնական ձևերով կապի մեջ մնալ, և ինչու են ընդհանուր զբաղմունքներն այդքան կարևոր արդեն դեմենցիայով ապրող մարդկանց համար։
 
-## Are loneliness and isolation linked with dementia?
+## Միայնությունն ու մեկուսացումը կապվո՞ւմ են դեմենցիայի հետ
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Այո, շատ հետազոտություններ դրանք կապում են, թեև կապի ուղղությունը լիովին պարզ չէ։ [2024 թվականի Lancet հանձնաժողովը](https://doi.org/10.1016/S0140-6736(24)01296-0) կյանքի ուշ շրջանի հասարակական մեկուսացումը ներառում է 14 փոփոխելի վտանգի գործոնների շարքում։ [Հանձնաժողովի զեկույցի վերաբերյալ UCL-ի ամփոփումը](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) այն գնահատում է ամբողջ աշխարհում դեմենցիայի դեպքերի մոտ 5%-ի չափով։
 
-What the evidence shows:
+Ինչ են ցույց տալիս տվյալները.
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Ավելի քիչ շփում, ավելի բարձր վտանգ։** Հանձնաժողովը նկարագրում է երկու ակնարկ, որոնք ավելի հազվադեպ հասարակական շփումները կապել են դեմենցիայի ավելի բարձր վտանգի հետ։ Նրանցից մեկում վտանգը մոտ 57%-ով ավելի բարձր էր, իսկ մյուսում՝ մոտ 18%-ով։
+- **Միայնությունը նույնպես։** Միայնությունը՝ կտրված լինելու զգացումը, նույնպես մի քանի ակնարկներում կապվել է դեմենցիայի ավելի բարձր վտանգի հետ։
+- **ԱՄՆ գլխավոր բժշկի տեսակետը։** 2023 թվականի մայիսին ԱՄՆ գլխավոր բժիշկը հրապարակեց [միայնության և մեկուսացման վերաբերյալ զեկույց](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)։ Այն նշում է, որ երկարատև միայնությունն ու մեկուսացումը տարեց մարդկանց մոտ կարող են բարձրացնել դեմենցիայի վտանգը մոտ 50%-ով։ Զեկույցը նաև թույլ հասարակական կապերը կապել է սրտի հիվանդության 29% ավելի բարձր վտանգի և կաթվածի 32% ավելի բարձր վտանգի հետ։
+- **Որքան տարածված է դա։** [Ազգային ակադեմիաների զեկույցը](https://www.ncbi.nlm.nih.gov/books/NBK557972/) պարզել է, որ համայնքում ապրող 65 և բարձր տարիքի ամերիկացիների մոտ 24%-ը հասարակական առումով մեկուսացած է։
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Կարևոր զգուշացում. Lancet հանձնաժողովը նշում է, որ մարդիկ կարող են կրճատել իրենց հասարակական զբաղմունքները դեմենցիայի վաղ, դեռ չախտորոշված փուլում։ Դա նշանակում է, որ այս կապի մի մասը կարող է պայմանավորված լինել այն բանով, որ դեմենցիան է մարդուն մղում հետ քաշվելու, և ոչ միայն այն բանով, որ հետ քաշվելը բարձրացնում է վտանգը։ Այս տվյալների գրեթե ամբողջը դիտողական հետազոտություններից է։
 
-## What is the difference between loneliness and isolation?
+## Ո՞րն է տարբերությունը միայնության և մեկուսացման միջև
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Ծերացման ազգային ինստիտուտը (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) դա բացատրում է այսպես։ **Հասարակական մեկուսացումը** նշանակում է ունենալ քիչ սոցիալական կապեր կամ կանոնավոր շփման համար քիչ մարդիկ։ **Միայնությունը** միայնակ կամ բաժանված լինելու ծանր զգացումն է։ Մարդը կարող է միայնակ жить և իրեն լավ զգալ, իսկ մեկ ուրիշը կարող է իրեն միայնակ զգալ լիքը սենյակում։
 
-The NIA lists factors that raise the risk of both:
+NIA-ն թվարկում է գործոններ, որոնք մեծացնում են երկուսի վտանգը.
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Լսողության կամ տեսողության խնդիրներ
+- Շարժվելու դժվարություններ կամ փոխադրամիջոց չունենալը
+- Միայնակ житьը, կամ կյանքի մեծ կորուստը, օրինակ՝ ամուսնու կամ կնոջ մահը կամ թոշակի անցնելը
+- Հիշողության կամ մտածողության փոփոխություններ
+- Հարազատի խնամքը, ով լավ չի զգում
+- Փողի հետ կապված մտահոգություններ կամ լեզվական խոչընդոտներ
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Լսողությունը մեծ դեր ունի։ NIA-ն նշում է, որ մարդիկ, ովքեր լավ չեն լսում, կարող են հետ քաշվել, քանի որ զրույցը դառնում է հոգնեցնող կամ ամոթալի։ Մեր [լսողության և ուղեղի առողջության ուղեցույցը](/brain-health/hearing/) պատմում է լսողության ստուգումների և առանց դեղատոմսի լսողական սարքերի մասին։
 
-## Practical ways to stay connected
+## Կապի մեջ մնալու գործնական եղանակներ
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA-ն առաջարկում է տարբեր գաղափարներ։ Ընտրեք մեկ կամ երկու տարբերակ, որոնք Ձեզ հարմար են.
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Պլանավորեք կանոնավոր շփում։** Ամեն օր կամ ամեն շաբաթ որոշակի ժամանակ հատկացրեք ընտանիքի անդամներին, ընկերներին կամ հարևաններին զանգելու, հաղորդագրություն գրելու, էլ. նամակ ուղարկելու կամ բացիկ ուղարկելու համար։
+- **Օգտագործեք տեսազանգեր կամ խելացի բարձրախոսներ։** Եթե տեխնոլոգիան նոր է, շատ հանրային գրադարաններ և համայնքային կենտրոններ դասընթացներ են առաջարկում։ Տեսեք մեր [հեռախոսազանգերի և տեսազանգերի ուղեցույցը](/activities/phone-and-video-calls/)։
+- **Միացեք ինչ-որ բանին։** Դասընթացը, հավատքային համայնքը, քայլելու խումբը կամ կամավոր աշխատանքը տալիս են շփում և նպատակ ունենալու զգացում։
+- **Վերադարձրեք հին զբաղմունքը** կամ ուրիշների հետ նոր բան սովորեք։
+- **Շարժվեք ուրիշների հետ։** Վարժություն արեք ընկերոջ կամ խմբի հետ։ Մեր [վարժությունների ուղեցույցը](/brain-health/exercise/) ունի մեղմ տարբերակներ։
+- **Մտածեք ընտանի կենդանու մասին**, եթե կարող եք հոգ տանել նրա մասին։
+- **Օգտվեք տեղական ծառայություններից։** Տարեցների կենտրոնները, տարեցների հարցերով տարածքային գործակալությունները և Eldercare Locator-ը (800-677-1116) կարող են օգնել գտնել ծրագրեր և փոխադրամիջոց։
 
-## Why do shared activities matter in dementia?
+## Ինչու են ընդհանուր զբաղմունքները կարևոր դեմենցիայի դեպքում
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Արդեն դեմենցիայով ապրող մարդու համար կապը կապված է հաճույքի, հարմարավետության և ներառված sentirseու հետ, ոչ թե վտանգը նվազեցնելու։ Lancet հանձնաժողովը նշում է, որ զբաղմունքներն օգնում են դեմենցիայով ապրող մարդկանց պահպանել հաճույքն ու նպատակ ունենալու զգացումը։ [Alzheimer's Association-ը](https://www.alz.org/help-support/caregiving/daily-care/activities) նշում է, որ կյանքի որակը բարձրացնելուց բացի զբաղմունքները կարող են նվազեցնել նաև այնպիսի վարքեր, ինչպիսիք են աննպատակ թափառելը կամ հուզվածությունը։ [NIA-ն](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) հավելում է, որ Ալցհեյմերի հիվանդությամբ ապրող մարդիկ պետք է ակտիվ լինեն և զբաղվեն այն բաներով, որոնք իրենց հաճույք են պատճառում։
 
-Ideas that work well:
+Գաղափարներ, որոնք լավ են աշխատում.
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Միասին նայեք նկարներին։** [Conversation Cards](/games/conversation-cards/) առաջարկում է բաց, առանց հարցումների հուշումներ, օրինակ՝ «Պատմեք ինձ․․․»։ Տեսեք մեր [հիշողությունների վերաբերյալ ուղեցույցը](/activities/reminiscence/)։
+2. **Խաղացեք կողք կողքի։** [Picture Pairs](/games/picture-pairs/) նկարները պահում է տեսանելի և չունի ժամանակաչափ կամ միավորներ, այնպես որ ճնշում չկա։ Մեր [միասին խաղալու ուղեցույցը](/caregiving/how-to-play-together/) ունի խորհուրդներ։
+3. **Օգտագործեք ընտանեկան լուսանկարներ։** [Photo Pairs](/games/photo-pairs/) Ձեր ընտրած լուսանկարները վերածում է զույգեր գտնելու խաղի, և լուսանկարները մնում են Ձեր սարքում։
+4. **Մարդկանց հավաքեք միասին։** [Picture Bingo](/games/picture-bingo/) հարմար է ընտանեկան հանդիպումների և [խնամքի տներում խմբերի](/activities/care-home-groups/) համար։
+5. **Կիսվեք երաժշտությամբ, տնային գործերով կամ այգեգործությամբ։** Տեսեք [երաժշտական զբաղմունքները](/activities/music/), [տնային գործերը](/activities/household-tasks/) և մեր [գաղափարների ամբողջ ցանկը](/activities/ideas/)։
+6. **Այցելություններն ավելի հեշտ դարձրեք։** Մեր [այցելությունների ուղեցույցը](/activities/visiting/) պատմում է կարճ և հանգիստ այցելությունների մասին, որոնք լավ են բոլորի համար։
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Պահեք ամենը փոքր և հանգիստ։ Մեկ կամ երկու մարդու հետ հանդարտ սենյակը հաճախ ավելի լավ է աշխատում, քան մեծ խումբը։ Եթե մարդը հոգնում է կամ հետաքրքրությունը կորցնում, կանգ առնելը նորմալ է։ Միասին նստելն ու թեյ խմելը նույնպես լավ արդյունք է։
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Միայնակ ապրող, դեմենցիայով ապրող մարդու համար NIA-ն առաջարկում է գտնել վստահելի մի մարդու, ով կարող է կանոնաբար այցելել կամ տեսազանգ անել և լինել արտակարգ իրավիճակի կապ։ Այն նաև հիշատակում է տեղական հիշողության սրճարանը՝ հանգիստ սոցիալական տարածք հիշողության դժվարություններ ունեցող մարդկանց և նրանց ընտանիքների համար։
 
-## Caregivers get lonely too
+## Խնամողներն էլ կարող են միայնություն զգալ
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA-ն հարազատի խնամքը նշում է որպես մեկուսացման վտանգի գործոն։ Փորձեք ժամանակ պահել Ձեր սեփական բարեկամությունների, աջակցության խմբերի և հանգստի համար։ Մեր [խնամողի ինքնախնամքի ուղեցույցը](/caregiving/caregiver-self-care/) ունի գործնական գաղափարներ։
 
-## Talk with a doctor
+## Խոսեք բժշկի հետ
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Եթե Դուք կամ Ձեր խնամած մարդը հաճախ եք միայնություն կամ մեկուսացում զգում, ասեք բժշկին։ NIA-ն khuyến khích մարդկանց պատմել կյանքի մեծ փոփոխությունների մասին, օրինակ՝ ընտանիքում մահվան, որպեսզի բժիշկը տեսնի ամբողջ պատկերը։ Շաբաթներ շարունակ վատ զգալը կարող է լինել ընկճվածություն, որը կարելի է բուժել։ Եթե տարեց մարդը վերջերս սկսել է հեռանալ ընկերներից կամ այն զբաղմունքներից, որոնք նախկինում իրեն դուր էին գալիս, այդ փոփոխության մասին նույնպես արժե ասել բժշկին։ Կարդացեք [վաղ նշանների և բժիշկ դիմելու մասին](/brain-health/warning-signs/)։
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Այս էջը ընդհանուր տեղեկություն է, ոչ թե բժշկական խորհուրդ։ Տեսեք մեր [բժշկական հայտարարությունը](/medical-disclaimer/)։

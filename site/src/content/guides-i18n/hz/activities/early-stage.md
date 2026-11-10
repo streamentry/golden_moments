@@ -1,32 +1,33 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Oviungura movikando vyotete vyokuzemba"
+seoTitle: "Oviungura movikando vyotete vyokuzemba"
+description: "Omayuva woviungura movikando vyotete vyokuzemba: ovihorera, omanyando, omaenda, okutjanga nokurongerera pamwe, nomarundurukiro omatiti okukara nonyuṋe."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Movikando vyotete vyokuzemba, ovandu ovengi mave yenene okukayenda komurungu
+  noviṋa mbi ve suvera: ovihorera, omakarte nomanyando womatafura, okuzika,
+  okutunina, okukawondja, oviyemba, ongamburiro nokuvatera ovakwetu. Omarundurukiro
+  omanene omatimbo omasupi, ozonganda ozonḓiṱi, omaenda omasupi, omirari omipupu
+  mbya tjangwa nomundu ngwa kara popezu. Pura omundu kutja mave vanga mbatero
+  iṋe, nu ve ese ve hongorere.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Ovandu ovengi movikando vyotete ve hupa noukutuke. Oviungura potuingi vi hepa okurundururwa uriri, kavi hepa okutjindwa."
+  - "Pura omundu kutja mave vanga mbatero iṋe, nu mu zuvasane otjiraisiro otjipupu tji tji raisa kutja ombatero ya yakurwa."
+  - "Ozonganda ozonḓiṱi, oiri ozohore nokuyenda oure ouṱiṱi potuingi vi eta ombangu onene."
+  - "Indi oruveze oruwa ku omundu okuhongorera oviungura ohunga nehupo re omuini, tjimuna embo romazuva poo embo rehupo."
+  - "Toorora omanyando kokuyorokera. Imba ngamwa ae tji ma utu okutja sana otjiraisiro."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Oviungura viṋe oviwa movikando vyotete vyokuzemba?"
+    a: "Potuingi ovyo vimwe omundu mbya suverere rukuru: omakarte, omanyando womatafura, okuzika, okutunina, okukawondja, omizumbi, oviungura vyongamburiro, oviyemba nokuvatera ovakwetu. Mape heperwa okuviṱiṱisa, okuvisuvisa poo okuvipupisa. Okutjanga omambo womazuva, okutjanga omambo nomatjangwa nokutunga embo rehupo wina vi yenda nawa noruveze ndwi."
+  - q: "Me yenene vi okuvatera nokuhina okutjita aviṋe moruveze rwe?"
+    a: "Pura omundu omuhingo wombatero mbu mave vanga, nu pura povikando. Zuvasaneye embo poo okukunga komutwe mbu ku raisa kutja owa yakurwa okuvatera, otjotjihorera tji embo ari ha munika. Tji pe hi nokutira kozongaro, ve ese ve tjite momuano wawo, nandarire kutja mape kambura oruveze orure."
+  - q: "Omundu ngu nouvera wokuzemba movikando vyotete ma sokurora oviungura ovipe?"
+    a: "Ii, tji mave vanga. Ovihorera mbya tjiukwa potuingi ovipupu, posi ya ovandu ovengi ve nyanda otjiṋa otjipe, tjimuna onganda yokukawondja ndja ungurirwa ovandu mbe hupa nouvera wokuzemba, oskole yomitjise poo onganda yokuimba. Rora lumwe nokuhina okurikandeka, nu tara kutja mape kara vi."
+  - q: "Omanyando wokuronga ombazu omawa movikando vyotete?"
+    a: "Ovandu tjiva ve nyanda omanyando womambo nomambo, nu ondjoroka ndjo ondji mai ṱa pu imbwi. Kape nomanyando poo otjiungura tji tja raisirwa kutja matji verukisa, matji tjaerere poo matji yandisa ouvera wokuzemba. Tji omanyando tji maye eta ombingandu poo tji maye tjiti omundu a munu kutja ke nokuyenenisa, tji esa."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +49,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Movikando vyotete vyokuzemba, ovandu ovengi ve kayenda komurungu nehupo rawo tjimuna rukuru. Mave yenene okuungura, okuvatera ovakwetu, okumuna omapanga nokuhongorera oruveze rweṋu oveni. Oviungura potuingi kavi hepa okutjindwa; vi hepa omarundurukiro omatiti kutja vi kare nonyuṋe. Otjiungura tjoye tji ri popezu nomukwambepo womundu ngu mu ungura pamwe, ngu ma yandja ombatero, ngu ma rongerere pamwe na ye nu ngu ma vatera tji ma ningirwa.
 
-## What activities are good in early-stage dementia?
+## Oviungura viṋe oviwa movikando vyotete vyokuzemba?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Oviungura oviwa movikando vyotete potuingi ovyo omundu mbya suvera rukuru, vya tjitwa omipupu. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i tja omayuva tjimuna omanyando womakarte nomatafura, okupaha omambo, okukawondja, okupunda, okutunina, okutuna ozongara, okuserekarera ovihambarere, okurungura oviperendero, omizumbi, okutjanga embo romazuva, okutjanga omambo, okutunga omambo wozomburundu, okuzika nomitjise vyomayuva omanene.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Imbi mbi runduruka potuingi ongaro, kaviṋa otjiungura. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) i tja ovandu movikando vyotete mave utu okuriyerera koviṋa mbyaave nyanda, nu i yandja otjihorera tjomundu ngwa urwa i otjimbumba otjinene posi ya ngwa kara nawa motjimbumba otjiṱiṱi. Hungireye oukahu kutja tjiṋe tji tji rira otjizeu, nu mu rundurure pamwe.
 
-## Ask first, and agree on how to help
+## Pura rutenga, nu mu zuvasane kutja mu vatere vi
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Omuhunga wa Alzheimer's Association wokikando vyotete](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) u yandja omitjise mbya sana ku imbwi vyoviungura:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Pura tjimuna tji ri.** "Otjiṋe tji matji tjiti onganda yomatjangwa i rire ombupu kove?" matji yandja eziriro ewa pokuṱerekera.
+- **Tjiwa kutja omundu ma yenene.** Tji pe hi nokutira kozongaro, esa omundu a roro, nu yandja omahuhumiṋino pendje nokutjita moruveze rwe.
+- **Zuvasaneye otjiraisiro.** Toororeye embo poo okukunga komutwe mbu ku heya "owa yakurwa okuhita mo," otjotjihorera ena tji ari ha munika pomanyando womakarte.
+- **Pura povikando.** Pura kutja omuano wombatero wa yenene, ouingi poo outiṱi.
 
-## Activity ideas for the early stage
+## Omayuva woviungura movikando vyotete
 
-### Keep up roles and hobbies
+### Kayenda komurungu noviungura novihorera
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Kara nomerizirira nge kara po aruhe.** Okuvatera ovakwetu otjivike atjihe, okwiimba monganda poo onganda ku pe kara ondjendje motjivike. Tji tji ya rira ombingandu, otjiungura otjiṱiṱi poo otjihore matji yenene okuyenda nawa.
+- **Rongerereye ovikurya pamwe.** Tji okuranda movitara tja uta okurira ouzeu, Alzheimer's Association i tunduuza kutja u ningire omundu a vatere okuronga omirari vyovikurya vyotjivike nokutjanga oruteto.
+- **Zika nu sosa.** Kongorera eraka rimwe ndi mu suvera pamwe. Twa ovikurya porutenga moruveze rwavyo, kutja ozondambo ze munike.
+- **Tunina.** Ronga orutjandja, toorora ozondwi poo omiti nu mu ungure pamwe. Oruteto rwoviungura vyotjikunino motjivike ru vatera.
+- **Kayenda komurungu notjiungura tjomake.** Okuungura noviṋa vyomiti, okuhondja, okuzenga poo okutunga ovitjitungwa mavi yenene okukayenda komurungu nomiano omipupu nondjerera ombwa.
 
-### Games for enjoyment
+### Omanyando kokuyorokera
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Nyanda omakarte nomanyando womatafura.** Omanyando nga tjiukwa omapupu. Nyandeye mozombumba kutja ape ha kara omundu ngwa kuramisiwa, nu varekeye ouṱiṱi poo amu ha vanga.
+- **Rora okupaha omambo nomambo omanene.** [Okupaha omambo](/games/word-search/) kwetu ku nyandwa mokombiuta poo ku yenena okupirindwa poruveze oruhore.
+- **Ungura omanyando wozombandi.** Toorora omuvarero wozombandi mbu u eta ohore, kape nombangero. [Onyando yozombandi](/games/picture-puzzle/) oruveze oruṱiṱi mokombiuta, nu omuhunga wetu ohunga [nomanyando wozombandi nouvera wokuzemba](/activities/puzzles/) u kahurura kutja u toorore vi.
+- **Kara norupa momapuriro kokuyorokera.** Ovandu tjiva ve suvera ongurova yomapuriro mozombumba. Tji tji ya uta okutja sana otjiraisiro, toorora otjiṋa tjarwe, poo rora [omapuriro omapupu](/activities/trivia/) wetu, nge nomaziriro nge toororwa nokuhina okuvara.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Omanyando inga oweṋe kokuyoroka. Kape nomanyando nga raisirwa kutja maye verukisa poo maye tjaerere ouvera wokuzemba; lesa tjinene mu [omanyando wombazu: otjiṋa oviungurisiwa mbi tja](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Tjanga, ripurire nu tjangera
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Tjanga embo romazuva.** Alzheimer's Association i tunduuza okutjanga embo romazuva otjomuhingo wokurihonga nomerimwino pa za nokutjiukirwa. Omiṱeṱe omisupi meyuva omayenene.
+- **Hongorera embo rehupo.** Orukando rwotete oruveze oruwa ku omundu okutoorora oviperendero vye nokutjanga poo okuserekarera ovihambarere mbya kongorera ko. Tara [oviungura vyokuzemburuka](/activities/reminiscence/).
+- **Tjanga omambo.** Embo komutekulu, epanga ekuru poo omukwao worukuru mari yenene okukara nondengu kovandu aveyevari.
+- **Hungireye kombanda yozomburundu.** [Ozomburundu mbu maze sana](/games/photo-pairs/) ze tjita ozomburundu zondjuwo omanyando omapupu wokusanisa, nu [omakarte womahungi](/games/conversation-cards/) ye yandja omiano omapupu okutameka ehungi.
 
-### Go out and move
+### Pita pendje nu nyinganyinga
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) i tunduuza okukayenda komurungu nomaenda nga tjiukwa orure tji amuyevari mu nohange. Ye rongerereye moruveze rwomundu omuwa meyuva nu amu ye ese ye kare oure.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Omaenda omasupi wokuvanga ovitjivisiwa.** Ondjuwo yovitjivisiwa, onyando yomutenya poo otjivaraise tjovitjiperendero, nawa moruveze oruhore.
+- **Okutjaara.** NIA i tunduuza okupata moruveze oruhore meyuva.
+- **Ozonganda zokukawondja nomahongero wokupunda.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) i hungire okupunda, tai chi, yoga, okutjaara nozonganda zokukawondja, nozombongarero nda ungurirwa ovandu mbe hupa nouvera wokuzemba tji ze ri po.
+- **Ozonganda zokuimba nozombongarero zokuzemburuka.** Ozombongarero ozohore mu ovandu mbe hupa nouvera wokuzemba novakwao vawo mave yenene okumuna ovakwetu mbe ri mongaro ndji sana.
 
-## Small changes that keep activities enjoyable
+## Omarundurukiro omatiti ngu maye tjiti oviungura vi kare nonyuṋe
 
-| If this is getting harder | Try this |
+| Tji tji rira otjizeu | Rora tji |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Omapu ndu nomungunda poo ombosiro | Yenda moiri ozohore, toorora ozonganda ozonḓiṱi, kara pomuninga wondjuwo |
+| Okuzemburuka omana omape | Tjiukisa ovandu nomana aruhe; ningira ozonganda zi ungurise omatjangwa womana |
+| Okukongorera omirari nomikambo omingi | Tjanga omikambo, poo twa aviṋe moruveze rwavyo rutenga |
+| Okururumana | Omaenda omasupi, okuhuva kombunda, nu ape ha kara otjiṋa tjarwe meyuva ndo |
+| Okukongorera pomanyando | Nyandeye mozombumba, pupisa omirari, poo esa okuvara |
+| Okumuna omambo | Yandja oruveze; yandja embo uriri tji otjiraisiro tjenu tji tja zuvasanwa tji tja raisa |
 
-## When to slow down
+## Indu tji wa sokusuvisa
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Kuramisa poo rundurura otjiungura tji tji eta ombingandu okukapita ondjoroka. Okurihahiza povikando, okuriyerera kotjihorera poo okutja "hi nokuyenena rukuru" oviṋa mbya sokuhungirwa ko noupore, kape nokurikandeka. Potuingi eziriro oruveze oruṱiṱi rwotjiṋa tjingetjo. Tji omundu tji ma hepa ombatero onyingi okutameka nokukongorera omikambo, omayuva nge ri mu [oviungura vyorukando rwopokati](/activities/middle-stage/) mape ya aye yenda nawa. Kutja u lese tjinene ohunga nokuhungira nokuṱakamisa, tara [omahongero wokuhungira](/caregiving/communication-tips/), nu komayuva omengi, tara [oviungura 101](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ovakwao wina ve hepa ombatero. Orukando rwotete oruveze oruwa okutunga onganda yoye yombatero; tara [okuritjevera tjomutjevere](/caregiving/caregiver-self-care/).

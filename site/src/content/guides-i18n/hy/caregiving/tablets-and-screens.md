@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Պլանշետը կամ հեռախոսը կարգավորելը դեմենցիայով ապրող մարդու համար"
+seoTitle: "Պլանշետ կամ հեռախոս՝ դեմենցիայով մարդու համար"
+description: "Քայլ առ քայլ կարգավորում՝ մեկ հավելվածում կողպում, ավելի մեծ տեքստ, քիչ ծանուցումներ, պարզ գլխավոր էկրան, ձայն և գաղտնիություն։"
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Նախքան սարքը ձեզ հետ վերցնել տալը, պարզեցրեք պլանշետը կամ հեռախոսը։ 
+  iPad և iPhone սարքերում օգտագործեք Guided Access-ը, Android-ում՝ հավելվածի ամրացումը, 
+  կամ Apple's Assistive Access-ը պարզեցված դասավորության համար։ 
+  Մեծացրեք տեքստը, անջատեք ծանուցումները, գլխավոր էկրանին թողեք միայն մի քանի ծանոթ հավելված, 
+  նախապես կարգավորեք ձայնը, օգտագործեք հենակ և սահմանափակեք հավելվածների թույլտվությունները։ 
+  Օգտագործեք սարքը միասին՝ էկրանից դուրս գործողությունների հետ զուգահեռ։
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access-ը (iPhone, iPad) և հավելվածի ամրացումը (Android) սարքը պահում են միայն մեկ հավելվածում մինչև այն ապակողպելը։"
+  - "Apple-ի Assistive Access-ն առաջարկում է պարզեցված դասավորություն ճանաչողական դժվարություններ ունեցող մարդկանց համար։"
+  - "Մեծացրեք տեքստը և անջատեք ծանուցումներն ու թռուցիկ պատուհանները, որպեսզի դրանք չշեղեն կամ չշփոթեցնեն։"
+  - "Գլխավոր էկրանին թողեք միայն մի քանի ծանոթ հավելված, և նախքան սկսելը կարգավորեք ձայնը։"
+  - "Հենակը և մշտապես նույն տեղում գտնվող լիցքավորման վայրն ավելի հեշտ են դարձնում սարքի օգտագործումն ու գտնելը։"
+  - "Վերանայեք հավելվածների թույլտվություններն ու տվյալների փոխանակումը՝ նկատի ունենալով, որ HIPAA-ն, ընդհանուր առմամբ, չի պաշտպանում անձնական սարքում պահվող տվյալները։"
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Ինչպե՞ս կանխել, որ դեմենցիայով ապրող մարդը iPad-ում դուրս գա հավելվածից։"
+    a: "Կարգավորումներում միացրեք Guided Access-ը՝ Մատչելիություն > Guided Access և սահմանեք գաղտնաբառ։ Բացեք անհրաժեշտ հավելվածը, երեք անգամ սեղմեք վերին կոճակը (կամ Home կոճակը ավելի հին iPad-ներում), ապա սեղմեք Սկսել։ iPad-ը կմնա այդ հավելվածում մինչև գաղտնաբառի մուտքագրումը։"
+  - q: "Ինչպե՞ս Android պլանշետը կողպել մեկ հավելվածում։"
+    a: "Կարգավորումներում միացրեք հավելվածի ամրացումը, սովորաբար Անվտանգություն (կամ Անվտանգություն և տեղադրություն) > Ընդլայնված > Հավելվածի ամրացում բաժնում։ Այնուհետև բացեք անհրաժեշտ հավելվածը, բացեք «Վերջինները» էկրանը, սեղմեք հավելվածի պատկերակը վերևում և ընտրեք Ամրացնել։ Ամրացումից հանելու համար անհրաժեշտ կլինի մուտքագրել ձեր PIN-ը, նախշը կամ գաղտնաբառը։"
+  - q: "Արդյո՞ք անվտանգ է օգտագործել Guided Access-ը մարդու անձնական հեռախոսի վրա։"
+    a: "Պետք է զգույշ լինել։ Apple-ը նշում է, որ Guided Access-ը միացված ժամանակ անհասանելի են դառնում վթարային հայտնաբերումը և արտակարգ ծառայությունների զանգերը։ Եթե այդ հեռախոսը կարող է օգտագործվել արտակարգ իրավիճակում, Guided Access-ը միացրեք միայն այն ժամանակ, երբ դուք կողքին եք, կամ դրա փոխարեն դիտարկեք Assistive Access-ը։"
+  - q: "Որքա՞ն էկրանի ժամանակ է նպատակահարմար դեմենցիայով ապրող մարդու համար։"
+    a: "Կոնկրետ քանակ սահմանված չէ։ Կարճ, միասին անցկացվող նիստերը քայլելու, երաժշտության, տնային գործերի, զրույցի և այլ գործողությունների հետ խառնելով՝ ավելի ամբողջական օր են կազմում, քան էկրանին երկար ժամանակ միայնակ մնալը։ Եթե սարքը դժգոհություն է առաջացնում կամ դուրս է մղում այլ գործունեություն, նվազեցրեք դրա օգտագործումը։"
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Պլանշետը կարող է հիանալի միջոց լինել միասին դիտելու լուսանկարներ, լսելու երաժշտություն կամ խաղալու պարզ խաղեր։ Սակայն այն կարող է նաև շփոթեցնող լինել՝ պատահական հպումը կարող է բացել այլ հավելված, ծանուցումը հայտնվել, տեքստը չափազանց փոքր լինել կամ էկրանը մարել խաղի կեսին։ Մի փոքր նախնական կարգավորում մեծապես կլուծի այս խնդիրները։
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Այս քայլերը կիրառելի են iPhone, iPad և Android սարքերի վրա։ Ցանկերի անունները կարող են տարբեր լինել՝ կախված ծրագրային տարբերակից կամ սարքի արտադրողից, այնպես որ, եթե ինչ-որ բան այլ կերպ է երևում, հետևեք ձեր սարքին համապատասխան Apple-ի կամ Google-ի ուղեցույցին։ Կարգավորումը արեք ինքներդ, նախքան միասին նստելը։
 
-## Should someone with dementia use a tablet or phone?
+## Պե՞տք է արդյոք դեմենցիայով ապրող մարդը պլանշետ կամ հեռախոս օգտագործի։
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Դա կախված է հենց մարդուց։ Շատերը սիրում են պլանշետը օգտագործել ձեզ հետ միասին, նույնիսկ եթե միայնակ չեն կարողանում կառավարել այն։ Սկսեք միասին բացել մեկ հավելված և այն օգտագործել մի քանի րոպե։ Եթե դա հաճույք և զրույց է բերում, կարող եք շարունակել։ Եթե շփոթություն կամ դժգոհություն է առաջացնում, լուսանկարների ալբոմը, տպված էջերը կամ երաժշտությունը կարող են ավելի հարմար լինել։ Մեր [տպվող գործունեությունները](/activities/printable/) կարող են այլընտրանք հանդիսանալ։
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Սովորաբար պլանշետը ավելի հարմար է, քան հեռախոսը՝ ավելի մեծ էկրանով և նկարներով, և այն սովորաբար մարդու արտակարգ իրավիճակի հիմնական միջոցը չէ։
 
-## How do I lock a tablet or phone to one app?
+## Ինչպե՞ս սարքը կողպել մեկ հավելվածում։
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Օգտագործեք Guided Access-ը iPhone և iPad-ում, կամ հավելվածի ամրացումը Android-ում։ Երկուսն էլ սարքը պահում են միայն մեկ հավելվածում մինչև կոդի մուտքագրումը, որպեսզի պատահական հպում կամ սահումը չբացի այլ հավելված։
 
-### iPad and iPhone: Guided Access
+### iPad և iPhone՝ Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Հետևեք [Apple-ի Guided Access-ի ուղեցույցին](https://support.apple.com/en-us/111795)։
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Բացեք **Կարգավորումներ**, հպեք **Մատչելիություն**, ապա **Guided Access** և միացրեք այն։
+2. **Գաղտնաբառի կարգավորումներ** բաժնում սահմանեք Guided Access-ի գաղտնաբառ։ Կարող եք նաև միացնել Face ID կամ Touch ID։
+3. Ընտրովի՝ **Display Auto-Lock** բաժնում ընտրեք, թե որքան արագ էկրանն ավտոմատ կմարի նիստի ընթացքում, որպեսզի խաղի ժամանակ չմարի։
+4. Բացեք այն հավելվածը, որը ցանկանում եք օգտագործել։
+5. Երեք անգամ սեղմեք կողային կոճակը (iPhone), վերին կոճակը (iPad) կամ Home կոճակը ավելի հին սարքերում։
+6. Ընտրովի՝ շրջագծեք էկրանի այն հատվածները, որոնց հպումը ցանկանում եք անջատել։ Հպեք **Ընտրանքներ** (կամ **Նիստի կարգավորումներ**)՝ ձայնի կոճակներն անջատելու կամ էկրանի պտույտը կանխելու համար։
+7. Հպեք **Սկսել**։
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Նիստը ավարտելու համար երեք անգամ սեղմեք նույն կոճակը, մուտքագրեք գաղտնաբառը և հպեք **Ավարտել**։ Apple-ը նշում է, որ ավելի հին ծրագրային տարբերակներում կարող է անհրաժեշտ լինել կրկնակի սեղմում։
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Կարևոր՝** Apple-ը հայտնում է, որ Guided Access-ի նիստի ընթացքում վթարային հայտնաբերումը և արտակարգ ծառայությունների զանգերը հասանելի չեն։ Մի թողեք Guided Access-ը միացված այն հեռախոսում, որը մարդը կարող է օգտագործել արտակարգ իրավիճակում։
 
-### Android: app pinning
+### Android՝ հավելվածի ամրացում
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Հետևեք [Google-ի հավելվածի ամրացման ուղեցույցին](https://support.google.com/android/answer/9455138?hl=en)։
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Բացեք **Կարգավորումներ** հավելվածը։
+2. Հպեք **Անվտանգություն** (կամ **Անվտանգություն և տեղադրություն**), ապա **Ընդլայնված**, ապա **Հավելվածի ամրացում**։ Եթե չգտնեք, դիմեք ձեր սարքի արտադրողի ուղեցույցին։
+3. Միացրեք **Հավելվածի ամրացումը**։ Ամրացումից հանելու համար անհրաժեշտ կլինի ձեր PIN-ը, նախշը կամ գաղտնաբառը։
+4. Բացեք անհրաժեշտ հավելվածը։ Սահեցրեք վերև դեպի էկրանի միջնամաս և պահեք՝ «Վերջինները» էկրանը բացելու համար (կամ 3 կոճակային նավիգացիայի դեպքում հպեք «Վերջինները»)։
+5. Հավելվածի նախադիտման վերևում հպեք հավելվածի պատկերակը, ապա **Ամրացնել**։
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Ամրացումից հանելու համար ժեստային նավիգացիայի դեպքում սահեցրեք վերև և պահեք, 3 կոճակային նավիգացիայի դեպքում՝ պահեք «Հետ» և «Վերջինները» կոճակները, 2 կոճակային նավիգացիայի դեպքում՝ պահեք «Հետ» և «Գլխավոր» կոճակները։ Այնուհետև մուտքագրեք ձեր PIN-ը, նախշը կամ գաղտնաբառը։
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Կա՞ պարզեցված ռեժիմ ամբողջ iPhone կամ iPad-ի համար։
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Այո։ Apple's Assistive Access-ը փոխարինում է սովորական գլխավոր էկրանին ավելի պարզեցված տարբերակով։ [Apple-ը նկարագրում է](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios), որ այն նախատեսված է ճանաչողական դժվարություններ ունեցող մարդկանց համար՝ ավելի մեծ տարրերով և սահմանափակ գործառույթներով։ Նույն հնարավորությունը հասանելի է նաև [iPad-ի համար](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados)։
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Ով է կարգավորում։** Apple-ը խորհուրդ է տալիս, որ դա անի վստահելի օգնականը՝ ընտանիքի անդամ կամ խնամակալը, որը ճանաչում է այդ մարդուն և կարող է ընտրել հավելվածներն ու գործառույթները։
+- **Ինչպե՞ս սկսել։** Գնացեք **Կարգավորումներ > Մատչելիություն > Assistive Access**, հպեք **Կարգավորել Assistive Access-ը**, ապա **Շարունակել**։
+- **Հավելվածներ։** Դուք ընտրում եք, թե որ հավելվածներն են երևալու։ Որոշ Apple հավելվածներ ունեն պարզեցված տարբերակներ, մյուսները՝ սովորական տեսքով։
+- **Դասավորություն։** Կարող եք ընտրել **Սյունակներ** (հեշտ ընթերցվող ցուցակ) կամ **Ցանց** (ավելի մեծ տարրեր՝ լուսանկարների և պատկերակների վրա կենտրոնացած)։
+- **Գաղտնաբառ։** Սահմանեք առանձին Assistive Access գաղտնաբառ մուտքի, ելքի կամ կարգավորումների փոփոխման համար։ Apple-ը խորհուրդ է տալիս կարգավորման ընթացքում միացնել վերականգնման Apple հաշիվ, քանի որ մոռացված գաղտնաբառի դեպքում սարքը կարող է անհրաժեշտ լինել վերակայել։
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access-ը կարող է հարմար լինել, եթե մարդը ամեն օր օգտագործում է իր անձնական սարքը։ Guided Access-ը կամ հավելվածի ամրացումը ավելի արագ են կիրառվում ընդհանուր խաղի համար։
 
-## How do I make text and pictures bigger?
+## Ինչպե՞ս մեծացնել տեքստն ու նկարները։
 
-Increase the text and display size, then check that buttons still fit on screen.
+Մեծացրեք տեքստի և էկրանի չափը, ապա ստուգեք, որ կոճակները դեռ հարմար են հպման համար։
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone և iPad.** [Apple-ի ուղեցույցով](https://support.apple.com/en-us/102453), գնացեք **Կարգավորումներ > Էկրան և պայծառություն > Տեքստի չափ** և տեղափոխեք սահիչը։ Ավելին մեծացնելու համար գնացեք **Կարգավորումներ > Մատչելիություն > Էկրան և տեքստի չափ > Ավելի մեծ տեքստ**։ Ուշադրություն դարձեք, որ չափազանց մեծ տեքստը կարող է որոշ կոճակներ ավելի դժվար հպելի դարձնել։
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google-ի ուղեցույցով](https://support.google.com/accessibility/android/answer/11183305?hl=en), բացեք **Կարգավորումներ** և որոնեք **Տառաչափ**, ապա տեղափոխեք սահիչը։ Որոնեք նաև **Էկրանի չափ**՝ էկրանի բոլոր տարրերն ավելի մեծացնելու համար։ Կարող եք միացնել **Թավ տեքստ**՝ **Մատչելիություն > Էկրանի չափ և տառաչափ** բաժնում։ Որոշ հավելվածներ կարող են չհետևել այս կարգավորումներին։
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+[Նկարների զույգեր](/games/picture-pairs/) կամ [Գտնել նույնը](/games/find-the-same/) խաղերում կարող եք նաև ընտրել ավելի քիչ սալիկներ կամ տարբերակներ՝ էկրանը ավելի պարզեցնելու համար։
 
-## How do I stop notifications and pop-ups?
+## Ինչպե՞ս անջատել ծանուցումներն ու թռուցիկ պատուհանները։
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Անջատեք այն հավելվածների ծանուցումները, որոնք անհրաժեշտ չեն, և գործունեության ընթացքում օգտագործեք «Չանհանգստացնել» ռեժիմը։
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone և iPad.** Գնացեք **Կարգավորումներ > Ծանուցումներ**, ընտրեք հավելված **Ծանուցման ոճ** բաժնից և անջատեք **Թույլատրել ծանուցումները** ([Apple-ի ուղեցույց](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios))։ Զանգերն ու ծանուցումները ժամանակավորապես լռեցնելու համար բացեք Վերահսկիչ կենտրոնը և միացրեք **Չանհանգստացնել** «Կենտրոնացում» կոճակից ([Apple-ի ուղեցույց](https://support.apple.com/en-us/105112))։ Կարող եք նաև ժամանակացույց սահմանել՝ **Կարգավորումներ > Կենտրոնացում > Չանհանգստացնել > Ժամանակացույց սահմանել**։
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Էկրանի վերևից սահեցրեք վար և հպեք **Չանհանգստացնել**, կամ գնացեք **Կարգավորումներ > Ռեժիմներ > Չանհանգստացնել** ([Google-ի ուղեցույց](https://support.google.com/android/answer/9069335?hl=en))։ **Ծանուցումների զտիչներ** բաժնում կարող եք ընտրել, թե որ մարդիկ ու հավելվածներն են դեռ կարող ծանուցում ուղարկել։ Կարգավորումները կարող են տարբեր լինել սարքի արտադրողի համաձայն։
 
-## How do I make a simple home screen?
+## Ինչպե՞ս ստեղծել պարզ գլխավոր էկրան։
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Գլխավոր էկրանին թողեք միայն մի քանի ծանոթ հավելված և մնացածը հեռացրեք տեսադաշտից։ Այս հարցում հատուկ մեկ կարգավորում չկա՝ անհրաժեշտ է նվազեցնել խառնաշփոթը։
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Ընտրեք 3-ից 6 հավելված։** Օրինակ՝ լուսանկարներ, երաժշտություն, տեսազանգի հավելված և մեկ խաղ։
+- **Տեղադրեք դրանք առաջին էկրանին,** միշտ նույն վայրերում, իսկ մնացածը տեղափոխեք երկրորդ էկրանի կամ պանակի մեջ։
+- **Օգտագործեք պարզ, բարձր հակադրությամբ ֆոնային նկար։** Միագույն ֆոն կամ մեկ ծանոթ լուսանկար կօգնի, որ պատկերակները ավելի լավ երևան։
+- **Ջնջեք այն հավելվածները, որոնք անհրաժեշտ չեն։** Որքան քիչ հավելված, այնքան քիչ շփոթություն և տվյալների հավաքում։
+- **Դիտարկեք Assistive Access-ը** Apple սարքերում, եթե ցանկանում եք, որ սարքն ինքնուրույն կատարի այս կարգավորումը։
 
-## What about volume and sound?
+## Ի՞նչ անել ձայնի հետ։
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Նախքան սարքը փոխանցելը, կարգավորեք հարմարավետ ձայնի ուժգնությունը։ Guided Access-ի դեպքում կարող եք անջատել ձայնի կոճակները, որպեսզի դրանք պատահաբար չփոխվեն գործունեության ընթացքում։ Ստուգեք, որ լսողական սարքը միացված է և ճիշտ է աշխատում։
 
-## Where should the tablet live?
+## Որտե՞ղ պետք է լինի պլանշետը։
 
-Give it a stand and a permanent charging spot.
+Տրամադրեք հենակ և մշտական լիցքավորման վայր։
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Հենակ կամ պատյան**՝ պլանշետը սեղանին ուղղահայաց պահելու համար։ Սա հեշտացնում է դիտումը և հպումները, և անհրաժեշտ չէ սարքը ձեռքում պահել։
+- **Մշտապես նույն տեղում գտնվող լիցքավորման վայր,** լավագույնը՝ ամենօրյա օգտագործվող սենյակում գտնվող լիցքավորման հենակը։ Պլանշետը միշտ լիցքավորված կլինի և միշտ նույն տեղում կգտնվի։
+- **Նվազեցրեք արտացոլանքը։** Էկրանը դիրքավորեք այնպես, որ ուղղակի արևի ճառագայթները չընկնեն դրա վրա։
 
-## How much screen time is okay?
+## Որքա՞ն էկրանի ժամանակ է նպատակահարմար։
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Չկա ճշգրիտ րոպեների թիվ։ Լավագույն մոտեցումը կարճ, միասին անցկացվող նիստերն են՝ շարժման, երաժշտության, տնային գործերի, զրույցի և բացօթյա ժամանակի հետ զուգահեռ։ Քանի որ երեկոյան ժամերին անհանգստությունը կարող է ավելի շատ արտահայտվել, կարելի է էկրանի գործունեությունը սահմանափակել օրվա առաջին կեսին։ Տեսեք [հանգստացնող գործունեություններ ուշ կեսօրին](/caregiving/late-day-restlessness/) ուղեցույցը։
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Սարքը միասին օգտագործելը, ոչ թե միայնակ թողնելը, այն ավելի սոցիալական է դարձնում։ Մեր [խաղալ միասին](/caregiving/how-to-play-together/) ուղեցույցում մանրամասն բացատրված է, թե ինչպես անել դա։
 
-## How do I protect their privacy on the device?
+## Ինչպե՞ս պաշտպանել գաղտնիությունը սարքում։
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Սահմանափակեք, թե ինչ տվյալներ են հավաքում հավելվածները, և մի ենթադրեք, որ առողջության վերաբերյալ գաղտնիության օրենքը միշտ կկիրառվի։ ԱՄՆ Առողջապահության և մարդկային ծառայությունների վարչությունը (HHS) [բացատրում է](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), որ HIPAA կանոնները, ընդհանուր առմամբ, չեն պաշտպանում անձնական հեռախոսներում և պլանշետներում պահվող կամ դրանց միջոցով հասանելի առողջական տվյալները։ Բացի սոսկ անձնական օգտագործման համար նախատեսված հավելվածներից, HIPAA-ն սովորաբար չի տարածվում նաև այդ հավելվածներում մուտքագրված տվյալների վրա, եթե հավելվածը տրամադրվել է ծածկված առողջապահական ծառայություն մատուցողի, առողջության ծրագրի կամ նրանց գործակցի կողմից։
 
-HHS suggests:
+HHS-ը խորհուրդ է տալիս՝
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- խուսափել ավելորդ կամ պատահական հավելվածներից, հատկապես «անվճար» հավելվածներից,
+- չտալ հավելվածներին տեղադրության թույլտվություն, եթե դա իսկապես անհրաժեշտ չէ (օրինակ՝ քարտեզների հավելվածի դեպքում)։
 
-Also consider:
+Նաև հաշվի առեք հետևյալը՝
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Օգտագործեք գաղտնաբառ** սարքի համար և պահեք այն ապահով տեղում։
+- **Վերանայեք թույլտվությունները** լուսանկարների, տեսախցիկի, խոսափողի, կոնտակտների և տեղադրության համար և անջատեք այն, ինչ հավելվածին անհրաժեշտ չէ։
+- **Ստուգեք, թե ինչ է հավաքում հավելվածը** մինչ այն տեղադրելը։ Մեր [դեմենցիայով խաղեր և հավելվածներ ընտրելու](/caregiving/choosing-apps-and-games/) ուղեցույցում կա գաղտնիության ստուգաթերթ։
+- **Զգույշ եղեք ընտանեկան լուսանկարների հետ։** Կիսվեք միայն այն լուսանկարներով, որոնց կիսմանը մարդը կհամաձայնի, և իմանաք, թե որտեղ է դրանք պահում հավելվածը։ [Լուսանկարների զույգեր](/games/photo-pairs/) խաղում ձեր ընտրած լուսանկարները մնում են ձեր զննարկչում։
+- **Անջատեք հավելվածի ներսում գնումները** կամ հեռացրեք վճարային տվյալները այն հաշիվներից, որոնք կարող է օգտագործել այդ մարդը։

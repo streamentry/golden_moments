@@ -1,34 +1,36 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Oviungura vyongodi noviyendwa ku nomundu ngu ri novipite vyokuzemba"
+seoTitle: "Oviungura vyongodi noviyendwa ku novipite vyokuzemba"
+description: "Oviungura vyongodi noviyendwa ku kovazamumwe mba kara kokure nomundu ngu ri novipite vyokuzemba: okuraisa, okuresa, okwiimba, omanyando nokuvatera."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Omahakaeneno nomundu ngu ri novipite vyokuzemba ye kara nawa tji ye ri
+  omasupi, aruhe nu ye na otjiṋa tji mamu ungura pamwe, tjimuna okuraisa
+  otjipuka poo otikunino, okutara oviperendero, okuresa mokule, okwiimba
+  erovazu ndi a suvera poo okunyanda omanyando omapupu mokombiuta ndji mwa
+  haṋa. Kunya otjikando tjimwe eyuva arihe tji tji tjitwa, kara nomundu umwe
+  uriri ngu ma hungire otjikando tjimwe, nu ningira omundu ngu ri popezu
+  okutuvatera.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Otjiungura tji yandja omuhingo komahakaeneno nu tji tjita kutja omundu aha kara nondjemeno yokuhungira. Rongerisa otjiṋa tjimwe otjipupu okuryanga pamwe."
+  - "Omahakaeneno omasupi, nge kara po aruhe moruveze rumwe eyuva arihe, potuingi ye ungura nawa okukapita inga omare tjinene nu omakuruhu."
+  - "Omundu umwe uriri ngu ma hungire otjikando tjimwe. Omahakaeneno wongroupu novandu ovengi mbe hungira pamwe ye ri ouzeu okutuurunga, tjinenenene tji pe na ouzeu wokuzuva."
+  - "Omundu ngu ri popezu ma yenene okurongerisa okarwise, okukara pehi pu nomundu, nokurira „omake“ komanyando poo koviperendero."
+  - "Tji omahakaeneno ye hi nokuyenda nawa ndino, ye yanda momuano omuwa. Okurora rukwao muhuka kape na ouzeu."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Hi na okutjita vi momahakaeneno woviyendwa ku nomundu ngu ri novipite vyokuzemba?"
+    a: "Rongerisa otjiungura tjimwe otjipupu: raisa otikunino tjoye, otjipuka poo otjikurya; tara oviperendero ovikuru pamwe; resa omutjanga omusupi poo ombapira mokule; imbura erovazu ndi a suvera; tereka otjikurya tjimwe oruveze rumwe; poo nyanda omanyando omapupu womiperendero mokombiuta ndji mwa haṋa. Oviungura vi yandja ombango komahakaeneno kokutja omundu aha hepa okutjinda ehungi."
+  - q: "Omahakaeneno woviyendwa ku ye sokukara orure ngapi?"
+    a: "Potuingi omasupi okukapita pu mo ripura. Ominute ovisupi vyorusuvero mavi yenene okukara vya yenene, tjinenenene tji omundu ma urwa tjimanga. Okukunya aruhe moruveze rumwe eyuva arihe ku na ondjambi okukapita kutja ehakaeneno arihe ri kara orure ngapi."
+  - q: "Hapo tji va pindikisiwa poo tji va hihamwa i omahakaeneno woviyendwa ku?"
+    a: "Ovandu tjiva ve muna kutja omurungu mokombiuta mau pindikisa. Rora ongodi yapeke, ombuze yoviyendwa ndja tjangwa omundu ngu ri popezu ndje ndji nyandisa moruveze rwombepo, poo oukarata noviperendero mombapira. Tji ehakaeneno ra i navi, ri yanda momuano omuwa nu u rora rukwao eyuva rarwe poo moruveze rwarwe."
+  - q: "Me yenene vi okuvatera mama okukunya oviyendwa ku tji e hi nokuyenena okuungurisa ongodi?"
+    a: "Ningira omuzamumwe weṱunḓu, omuvatere ponganda poo omukarere motjivare tjondjeverero okutenga ehakaeneno nokukambura poo okutwa okarwise. Otuvare otuingi tu vatera omaṱunḓu nomahakaeneno woviyendwa ku, ku nao pura kutja mave yenene okutjita vi. Okatjirwise pekehi, noviyendwa ovinene nombosiro ndji mai zuvaka nawa, vi tjita kutja avi rire ovipupu ku avehe."
+  - q: "Matu yenene okunyanda omanyando pamwe moviyendwa ku?"
+    a: "Ii. Omuhingo omupupu ou wokutja omundu umwe ma haṋa okombiuta ye momahakaeneno woviyendwa ku, ingwi omukwao u mu raere kutja ma tono kotjiperendero tjine. Poo omundu ngu ri popezu ma paturura omanyando nge ri tjingee pokatjirwise nu a tono po omundu ngunda amu hungira. Toorora omanyando nge hi noruveze rwokuyanda poo omambo."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +52,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Okukara kokure nomundu ngu ri novipite vyokuzemba ku yenena okupa omundu ondjemeno yokuhinokuvatera. Omahakaeneno wongodi noviyendwa ku kamaaye pingena okuvaranga, posi ya maye yenene okutueta oiruwo vyorusuvero tji ya rongerisiwa nawa. Otjiṋa otjinanḓengu okutja o hepa okutjita kutja ehungi ri kare otja aruhe, posi ya rongerisa otjiṋa otjipupu okuryanga pamwe. Ombapira ndji mai hungire koviungura mbi ungura moviyendwa ku nomongodi, omuano wokurongerisa ehakaeneno, na imbi omundu ngu ri popezu mbya yenena okutjita okuvatera.
 
-## Why plan an activity for a call?
+## Ongwaye tji wa sokurongerisa otjiungura kehakaeneno?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Otjiungura tji yandja omuhingo komahakaeneno. „U ri vi? Wa tjita tjike ndino?“ tji ningira omundu okuzemburuka nokuraera, nu iho tji yenena okukara ouzeu nokuhihamisa. „Tara, ozondemaṱe za horoka“ katji ningire otjiṋa ku ye.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+O-Alzheimer's Association mai tja kutja omahungi wongroupu onene moviyendwa ku ye yenena okukara ouzeu, nu mai tunduuza [okuyandja omuhingo kehakaeneno](https://www.alz.org/help-support/caregiving/holidays) noviṋa tjimuna okwiimba omarovazu poo okuryanga oviperendero.
 
-## What activities work on a video call?
+## Oviungura viṋe mbi ungura momahakaeneno woviyendwa ku?
 
-### Show and tell
+### Okuraisa nokuhungirira po
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Eta ouye woye ku ye. Tuurunga okamera kazeu motikunino tjoye, ve tjiukisa kombwa, raisa imbi mbi mo tereke, yandja ombango komatjanganeno womuatje womuatje woye, poo tara nongodi pendje okutara ombura yomaundu. Kahurura imbi mbi mo munu momambo omapupu nu u yandje oruveze kutja ve zirire. Kape hepa omapuriro.
 
-### Look at photos together
+### Okutara oviperendero pamwe
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Kambura otjiperendero otjikuru popezu nokamera, poo haṋa okombiuta yoye okuraisa oviperendero ovisupi ovinene tjimwe otjikando. Hungira ku imbi mbi mo munu: „Tara ekori ra Tatekulu.“ Yanda okupura „Ouṋe ngwi?“ poo „Mo zemburuka?“ Tji omundu ma tja ena ndi ha ri ro, tjita otja tje ri nao. Tara [omuhunga wetu wokuzemburuka](/activities/reminiscence/) komapuriro omapole.
 
-### Read aloud
+### Okuresa mokule
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Resa omutjanga omusupi, epsalme, embo rovanatje okuza komuatje womuatje woye mehakaeneno ndi ri tjingee, ombapira okuza komuzamumwe weṱunḓu, poo omukuma wembo ndi va suverere. Okuresa mokule ku yandja omundu otjiṋa otjipore okuzuva nokuhinokuhepa okuzira.
 
-### Sing or listen to music together
+### Okwiimba poo okupuratena komizumbi pamwe
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Imbura erovazu ndi ve tjiwa nawa, poo nyandisa erovazu ndi va suvera ku ove. Okwiimba pamwe ku pupu okukapita okuhungira kovandu ovengi. Tara [omuhunga wetu woviungura vyomizumbi](/activities/music/).
 
-### Cook or bake at the same time
+### Okutereka poo okukanga pamwe oruveze rumwe
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+O-Alzheimer's Association mai tunduuza okurongerisa ehakaeneno woviyendwa ku okutereka poo okukanga otjikurya otjisemba pamwe. Twa ehakaeneno mozombata azevari. Omundu ngu ri popezu ma yenene okuṱakamisa poo okurora ngunda ove ama u kongorere okakarata kawo kotjikurya otjikuru.
 
-### Watch something together
+### Okutarera otjiṋa pamwe
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+O-Association wina mai tunduuza okutarera embo rotjiperendero ndi va suvera oruveze rumwe pozonganda pekepeke ngunda amu hungire nongodi poo noviyendwa ku. Komundu ngu ri novipite vyokuzemba, okatjiṋa okasupi, otjiperendero tjoradio otjikuru poo omanyando wombaze maavi yenene okuungura nawa okukapita embo rotjiperendero arihe.
 
-### Play a gentle game on a shared screen
+### Okunyanda omanyando omapupu mokombiuta ndji mwa haṋa
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Omaprograma omengi womahakaeneno woviyendwa ku ye yandjera okutja u haṋe okombiuta yoye. Ove mo paturura omanyando nu mo tono; omundu u ku raere poo u raisa otjiperendero tji ma toorora. Poo omundu ngu ri popezu ma paturura omanyando nge ri tjingee pokatjirwise nu a tono po omundu ngunda amu hungira.
 
-Games that work well this way:
+Omanyando nge ungura nawa momuhingo mbwi:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** ove mo resa omambo nge tjiukwa, owo ve tja ondjandje, nu ku kongorera omapuriro nge hungira.
+- **[Picture Pairs](/games/picture-pairs/):** omanyando omapole wokupatasanisa noviperendero ovinene mbi mavi yenene okukara pomurungu, kape noruveze rwokuyanda nu kape nomambo.
+- **[Conversation Cards](/games/conversation-cards/):** otjiperendero nepuriro okuhungirira po pamwe.
+- **[Photo Pairs](/games/photo-pairs/):** omanyando wokupatasanisa nga ungurwa poviperendero mbi wa toorora mokarwise koye oveni. Oviperendero vi kara mokombiuta yoye, nu omundu u vi muna mokombiuta ndji mwa haṋa.
 
-### Recorded messages
+### Ombuze ndja tjangwa
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Tji omahakaeneno nge ri po ye ri ouzeu, tjanga ombuze osupi yoviyendwa ku: omberero, erovazu, okuryanga motikunino tjoye. Omundu ngu ri popezu ma yenene oku i nyandisa moruveze rwombepo, potuingi otja omundu punga ama vanga. O-Alzheimer's Association mai hungire kokutjanga nokuhinda oiruwo ovisemba, tjimuna ovanatje tji mave paturura oviyandjewa.
 
-## What about plain phone calls?
+## Hapo omahakaeneno wongodi yapeke?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Omahakaeneno wongodi yapeke ye na ondjambi. O-Dementia Australia mai tunduuza [okukunya moruveze rumwe eyuva arihe](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) nokuhakurumisa, mena rokutja ovandu mbe ri novipite vyokuzemba mave hepa oruveze okutunga omahakaeneno. Mongodi:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Tja ena roye noupanga woye tjimanga: „Moro Tate, owami Jenny, omuatje woye omukazona.“
+- Hungira kazeu, momambo omasupi, nondunge imwe otjikando tjimwe.
+- Yandja ombuze pendje nokuhinokupura: „Ongurova ndji mba terekere otjikurya tjoye tjonde.“
+- Resa omutjanga omusupi, poo imbura erovazu roveze rimwe ndi va suvera.
+- Kara omusupi nu u yande nombango ombwa.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+O-Dementia Australia wina mai tja kutja omahakaeneno woviyendwa ku ye yenena okuvatera tji okuhungira maku rire ouzeu, mena rokutja omundu ma yenene okumuna omurungu woye. Tji omahakaeneno wongodi maye pindikisa, rora oviyendwa ku, poo otjiṋa otjikwao.
 
-## How do I set up a video call that works?
+## Me rongerisa vi ehakaeneno woviyendwa ku ndi mari ungura?
 
-**Before the call:**
+**Komurungu wehakaeneno:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Toorora oruveze rumwe** indu omundu potuingi tja suva, nu kara po. Omuhingo omuzikame u vatera.
+2. **Hungira nomuvatere ngu ri popezu.** Ombuze eyuva komurungu mai ve vatere okurongerisa.
+3. **Tara okarwise.** Okatjirwise pekehi ka pupu okukapita ongodi ndji ya kamburwa meke. Tara kutja ka ura omasa, oviyendwa vi tjita nawa, nombosiro mai zuvaka nawa. Twa po omambo nge tjangwa tji oprograma i ye yandjera nu omundu ma resa nawa.
+4. **Rongerisa otjiungura tjimwe** nu u kare noviṋa avihe mbi mo hepa.
 
-**During the call:**
+**Mehakaeneno:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Kara popezu nokamera** mondjerera ombwa, ama u tara ketjira, hakombunda yetjira.
+- **Ritjiukisa** otjikando atjihe, nena roye noupanga woye.
+- **Omundu umwe uriri ngu ma hungire otjikando tjimwe.** O-Alzheimer's Association mai tja kutja omahungi nga ṱunaṋa ye ri ouzeu kovandu mbe ri novipite vyokuzemba na imba mbe nouzeu wokuzuva. Tji ovazamumwe ovengi mave ya, ṱunasaneye poo kareye ovandu vevari poo vetatu uriri.
+- **Pura epuriro rimwe otjikando tjimwe.** O-Family Caregiver Alliance mai tunduuza [omapuriro omapupu nga maye zirwa ii poo indee](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), nokuraisa ozondyero tji tji tjitwa.
+- **Yandja oruveze orure rwokumwina.** Undja eziriro. Kape na ouzeu okutja embo tji mave paha.
+- **Ungurisa omurungu woye neraka roye.** Yoroka, ṋunḓa otjiuru nu kara neraka oruwa. Omuhingo woye potuingi u hungira okukapita omambo.
+- **O vyurura.** Tji omundu ma tja otjiṋa tji hi ri ouatjiri, tjiyandja.
 
-**Ending the call:**
+**Okuyanda ehakaeneno:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Yanda omundu ngunda e hiya urwa, nawa tji pe ri oruveze oruwa.
+- Ungurisa omuano umwe wokuyanda otjikando atjihe: „Me ku kunu muhuka pokati keyuva. Me ku suvere.“
+- O kururisa.
 
-## Tips for the helper on site
+## Omaziriro komuvatere ngu ri popezu
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Tji ove omukwe, omuvatere, omuangu poo omukarere ngu ma vatere nehakaeneno, ove u tjita kutja ri tjitwe.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Rongerisa oruveze rwombepo.** Zepa oradio poo otjiperendero nu u pate omuvero.
+- **Tenga ehakaeneno oveni,** nu u yandje okatjirwise pekehi komundu poo u ke kambure moruveze rwomeho.
+- **Kara pehi pu na ye, hapomurungu wawo.** Okukara po kwoye ku yandja ohange. Ve zemburukise momuano omupore tji pa hepa: „Tara, oJenny.“
+- **Rira omake.** Kambura oviperendero, tona omanyando, tanaukisa okatjirwise okuraisa ondjuwo.
+- **Tara omburuma poo omahihamisiro,** nu raera omukunye kutja oruveze rwokuyanda rwa tumbuka.
+- **Raera omukunye imbi mbya ungura nawa.** „Aa suverere ombwa“ tji vatera okurongerisa ehakaeneno ndi mari kongorere.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+O-NIA mai tunduuza kutja ovazamumwe mbe kara kokure mave yenene okuvatera omukurundu [okurihonga omiano vyongodi ye](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), tjimuna omahakaeneno woviyendya ku. Mozombura ozokombunda, omuvatere potuingi ma hepa okutjinda okarwise akuhe. Iho tji ri nawa.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Tji omundu ma kara motjivare tjondjeverero, o-Alzheimer's Foundation of America mai tunduuza okupura kutja otjivare tji vatera omaṱunḓu nomahakaeneno woviyendya ku. O-AFA wina mai hungire komaṱunḓu ngu maye hindasana oviperendero novakarere votjivare, nokuhinda ovikurya mbi va suvera poo oviṋa ovisupi vyohange, kombunda yokupura kutja otjivare matji yandjere vi.
 
-## What if the call doesn't go well?
+## Hapo tji ehakaeneno ra ha i nawa?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Omahakaeneno tjiva maye pindikisa, kaa na omasa poo maye hihamisa. Katji ri ondjo yoye, nu katji hee kutja omahakaeneno kaa na ondjambi.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Tji omundu ma munika a pindikisiwa i okombiuta, tanaukira kongodi yapeke poo kombuze ndja tjangwa.
+- Tji ma hihamwa, yakura omahihamisiro, hungira omambo wohange, nu u yande momuano omupore.
+- Tji omahakaeneno potuingi ye hi nokuyenda nawa moruveze rumwe, rora oruveze rwarwe.
+- Tji me ripura kutja oove omundu warwe, tjita otja tje ri nao momuano omuwa.
 
-It is fine to end early. A short, warm call is a good outcome.
+Kape na ouzeu okuyanda rukuru. Ehakaeneno esupi, oruwa ri ri otjiṋa otjiwa.
 
-## Between calls
+## Pokati komahakaeneno
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Kara popezu momiano vyarwe. O-Dementia Australia mai tunduuza okuhinda oukarata, omambo wokombiuta, oviperendero poo oviyandjewa ovisupi. Okakarata kovihepe rimwe notjiperendero tjimwe otjinene nombuze osupi make yenene okuresewa potuingi. [Conversation Cards](/games/conversation-cards/) nge papitisiwa nawa maye yenene okuhindwa komuvatere okuyandja otjiṋa tjokuhungirira po kehakaeneno ndi mari kongorere.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Komaziriro wokutoorora nokurongerisa okatjirwise, tara [okatjirwise noviyendwa](/caregiving/tablets-and-screens/). Koruveze rwokumunika, tara omuhunga wetu wokuyenda [okukaryangera](/activities/visiting/).

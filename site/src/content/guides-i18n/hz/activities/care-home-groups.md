@@ -1,33 +1,34 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Ovikando vyOmukondwa mOurunde wOmurungu"
+seoTitle: "Ovikando vyOmukondwa: Bingo, Omaimburiro"
+description: "Ovikando vyomukondwa mokuṱakamisa ovandu mbe nourunde womurungu: bingo yomihandjo, okwimba pamwe nomikondwa vyokuzemburuka, novisemba vyokukarisa."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Ovikando vyomukondwa mbya wa mokuṱakamisa ovandu mbe nourunde womurungu
+  nomapurokera womutenya wovakuru, mavi rire mapi, maye zemburukwa, nu maaye
+  kwao okukarapo kombanda yaingi: bingo yomihandjo, okwimba pamwe, omikondwa
+  vyokuzemburuka, omirari mbyape novaano vyomambo mbya pambwa. Kare nomikondwa
+  mimvi kwa mba mwa kara, karisa ovandu kutja aave kwao okumuna nokuzuva,
+  yandja omatungiro umwe auhe, nu ṱanga oupanga worusuverwa nowomukandi
+  wokupita ku auhe ngu tji hepa.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Omikondwa mimi tji ma zire, mai kora vyape komukando umwe omunene, nu mai eke ovandu ovengi okukarapo nomasa, tjimwe okutara peke."
+  - "Karisa ovandu moumba poo mouzumba, popezu nomuhona, nu ṱakamisa okuzuva nokumuna, nu zimisa omakuwa womurunguro."
+  - "Ṱanga omukando auhe moumba wi mbari poo vitatu, kutja ovandu mbovinaso mbya kaparera aave kwao okukarapo avehe."
+  - "Zemba okupura, okutara ounanḓi novapeki. Bingo yomihandjo mai ranga nu avehe mave kara nomakarta waya ouzera."
+  - "Okupita mwamwa, okutara poo okukotoka, tji peke. Kare nomukambi ngu ri pamwe okukuvatira auhe ngu vanga otjimba tjomukandi."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Omukondwa mau rire omunene nga vi kovikando vyourunde womurungu?"
+    a: "Kape nombaranga imwe ndja yo, nu ihi ma hingi kovandu mbe kara mo, kondjuwo, nokutja ovakambi ngunda vengi. Ovakongundu ovengi ma vazere kutja omikondwa mimi mai eka avehe okumuna, okuzuva nokukarapo, nungwari ovikando vyondjuwo onene, tji ma zire, mai isa ovandu ovengi ave tara peke. Tji u tjiti otjikando otjinene, weza ko ovakambi poo ovakuvatiri mbe kwao okukarisa mokati kovandu, nokukuvatira omundu umwe poo varwe."
+  - q: "Mobi kondo vi omukondwa ku ovandu movinaso mbya kaparera?"
+    a: "Ṱanga omikando vyengi komukando auhe okukarapo. Mokwimba pamwe, ovandu tjimwe mave imba omambo aehe, tjimwe mave tetera poo mave temba, nu tjimwe mave kwata otjitetero. Mo bingo yomihandjo, ovandu tjimwe mave munu omihandjo vyawo peke, nu omukuvatiri ma raere varwe. Karisa ovandu mbe hepa okukuvatirwa tjinene popezu nomukambi poo omukuvatiri."
+  - q: "Mobi ranga vi bingo yomihandjo noma hiya okui tjita orukondwa rwokurwanisa?"
+    a: "Kwaera omuhandjo auhe okukara okarta ya avehe ya zara, kutja kape omundu ngu isiwa. Hungira kombanda yomuhandjo auhe tji mau uza, nu isa omakaro wovapeki, poo yandja kovahe avehe otjipandja tjimwe tjape. Ondando yo okukarapo pamwe nokuhungira pamwe, tjimwe ngwi ngu zara rukwao."
+  - q: "I nai kwao okutjaisa ovikando vyetu pekereno onene morukondwa?"
+    a: "Ee. Ovikando vyetu ma ranga momunuko woweb, kwao kutja mu dena okuvapata kolaptop poo kotablet ndji pambwa koTV poo koprojekta. Bingo yOmihandjo i nomakarta mba zepa nomuhungiri gwekereno. Zara omutjivisiro noMaphara wOmihandjo, avihe ma kora nawa pekereno onene, omundu umwe ma tetera otjimbumba."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +53,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Omazemburukiro nga, oyovandu mbe ṱangavara ovikando, ovakongundu wokuṱakamisa ovandu mbe nourunde womurungu, novandu mbe ṱangavara omapurokera womutenya wovakuru. Ma hungira kombanda yomikondwa mbi kora, okukarisa omukondwa, okukapita omukando umwe ku ovandu movinaso mbya kaparera, nokurangisa omakarta womihandjo mbya zepa nomikando vyopombanda yorukoro. Avihe mbya ri mba, mavi hungira okuhitisa omutima ouwa, okupambwa pamwe nokuhita otjipa. Kape nomukando womaparo.
 
-## What makes a group activity work in memory care?
+## Ihi tji tjita kutja omukando womukondwa u kore mokuṱakamisa ovandu mbe nourunde womurungu?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Omukando womukondwa omuwa, mau zemburukwa, ma ri mapi, ma hepa okukarapo kombanda yaingi, nu ka nomurundo. Ondjivisiro yAlzheimer's Association, [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf), mai zemburukira kutja okukarapo mouṱi, ma vanga okukuvatira ombango nomarorero womundu, nokumupeka okuhita otjipa nokukora, tjimanga tjinga ourunde womurungu wa zu mba. Orutuu ndwi ndwi mai hungira kutja omapurokera womazemburukiro rukwao, ma kara nombunguriro yomikondwa minene mimwe poo vivari keyuva, nu ovandu mbe kara mo, tji ma zire kovikando mbi, kave nomurundo mokukarapo.
 
-That points to a few practical rules:
+Ihi mai zumburukira ku omatungiro mayape wokukara nomurundo:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Mbya zemburukwa vi rare mbya peke.** Omaimburiro, omambo womazemburukiro nomihandjo okuza koururu wovandu mbe kara mo, ma hepa okukarapo.
+- **Mapi ma rare omare.** Ṱanga komurundo womukondwa mbwa tjiwa, nokukwatira mondjira kutja mu zuve mo mwamwa.
+- **Okukarapo ma rare okutara.** Yandja komundu auhe otjindu tji ma kwata, tji ma tetera, tji ma hita, poo tji ma hungira.
+- **Ombonda yaingi, omukando umwe.** Ruka omikando mbyape nevyo vyape okukarapo.
+- **Kape ovapeki, kape ounanḓi.** Ovikando vyokurwanisa, mavi isa ovandu tjimwe tji ma zuva kutja kave kora.
 
-## How big should the group be?
+## Omukondwa mau rire omunene nga vi?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Omukondwa omuvi, tji ma zire, ma hepera. Alzheimer's Association mai hungira kutja omundu ngu zuva kutja omukondwa omunene ma mu sengenisa, ma kwao okukarapo vyape momukondwa omuvi. Kape nombaranga imwe ndja yo. Ihi ma hingi kovandu mbe kara mo, kondjuwo, nokutja ovakambi novakuvatiri ngunda vengi.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Omaparo wokuhihamisa: omundu auhe ma vanga okumuna omurungu womuhona, okuzuva nawa, nokukwao okuhitwa komukuvatiri mourekwa wositikonde? Tji hi na, papira otjimbumba, wa ze po ovakuvatiri, poo tjiya kondjuwo imvi.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Kovikando ovinene, nga tjinga otjikando tjomaimburiro tjoukupera, karisa ovakambi novakuvatiri mokati kovandu, tjimwe komikuma.
 
-## How should I set up the room and seating?
+## Mobi karisa vi ondjuwo novandu?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Ombunguriro poo ouzu.** Ondjivisiro yomirari mai hungira kutja ombunguriro yokupambwa, oyo ndji yo moutjimba otjinene tji vanga okukarisa ovandu avehe moumba, nu kamu nomakuwa womurunguro.
+- **Omuhona popezu nu kombanda yomeho.** Kara, tjimwe okurunga, tji u kwao.
+- **Okuzuva nokumuna tji va tji.** Karisa ovandu mbe hiya nomakende mbokuzuva popezu nomuhona, komukuma mbu za porwe. Hakaene kutja ozoglasi nozongundu zokuzuva za kara. Alzheimer's Association mai hungira kutja omakende womeho nokuzuva maa pititisira okuhungira pamwe.
+- **Omurunguro u zu kombunda yovandu, tjimwe kove.** Zemba okukarisa omundu ngu tarereyeye kokaruvyo ndji zu.
+- **Zimisa oTV noradio.** Alzheimer's Association mai zumburukira okuzimisa omakuwa wamwe povikando vyomaimburiro.
+- **Okuhungira pamwe kumwe auhe.** Okuhungira pomurunguro, ku ri otjizeu kovandu mbe kara nourunde womurungu novandu mbe hiya nomakende wokuzuva, nga Alzheimer's Association ndji tji hungira me[zemburukiro rayo yomakupera](https://www.alz.org/help-support/caregiving/holidays).
+- **Ondjira yokupita nohina yomukandi.** Auhe ngu vanga okupita, ma vanga okukwao okupita nomasa, novakambi awave kapita pamwe na ye.
 
-## Group activity ideas
+## Omazemburukiro wovikando vyomukondwa
 
-### Picture bingo
+### Bingo yomihandjo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo yomihandjo mai samburura ovivaro nomihandjo mbyomiwa, nga otjikopo tjotee, ombwa poo orose, kutja kape omundu ngu hepa okutara otjivaro otjire poo okurira otjisemba otjivi.
 
-**How to run it:**
+**Nai ou kondo omukando:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Zepa okarta imwe komundu auhe okuza kokamba yetu ya[Bingo yomihandjo](/games/picture-bingo/) okutjaisa ombutoni yoZepa. Orutuu rworukoro omuzito ruhepera okukwata. Kutira okukarisa rukwao.
+2. Yandja ovipito ovinene mbi hepa okukwata, nga ovikoto vyopoker, ovizemo vyozomboroto, poo omakarta mbya tetwa.
+3. Tjaisa omuhungiri gwekereno oTV poo oprojekta, kutja avehe va mune omuhandjo tjimanga tjinga u sena ena ra yo.
+4. Kara komurundo konima yomuhandjo auhe, nu pura omahungira mayape: "Pe nomundu ngu vanga okutu zemburukira kombwa ndja tjiwa?" poo "U munu vi komuhandjo mbwi?"
+5. Kwaera ami okukara okarta aihe ya zara. Avehe mave zara.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Okuhindjaura:** Tjaisa ovipera ovivisuka ko kovandu mbe zuva kutja okarta ndja zara mai va sengenisa. Omukuvatiri ma kwao okuraera komuhandjo mbu sokuza kwa imwe ngu tji hepa. Ovandu tjimwe mave vanga okukwata okarta yomuhandjo womuhungiri nokui zumburura komukondwa.
 
-### Sing-alongs
+### Okwimba pamwe
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Omaimburiro oyo imwe yovikando vyomukondwa mbi pandjwa tjinene. Alzheimer's Association mai hungira kutja nandarire moruhita rwombunda, omundu ma kwao okw[imba omundjimbo poo okuimba otjimburiro tjouviye](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Nai ou kondo omukando:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Hita omaimburiro ovandu mbe kara mo mba kurira mo, tjimwe omaimburiro omuhona mba suvera. Pura ozonganda kutja omundu auhe wa suvera tjike.
+- Tjaisa omaimburiro nge hiya nomahungira wovandengwa, oveni mbi za isa ovandu mokati, nga Association ndji tji hungira.
+- Zepa omahungira womaimburiro norukoro runene kovaavo mbe rira, nungwari kaṋi otjikando.
+- Yandja ovitetero, ozongoma zokwoko poo ozonguva zokupenda.
+- Kuvatira okutetera nokurihungura, nu kare nomakuwa nga zuva nawa.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Okuhindjaura:** Ovandu tjimwe mave imba omambo aehe, tjimwe mave temba, tjimwe mave tetera okakumbo, nu tjimwe mave pandja. Avihe mbi i vare. Tara [omazemburukiro wetu womaimburiro](/activities/music/) okumuna vyengi.
 
-### Reminiscence groups
+### Omikondwa vyokuzemburuka
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Omukondwa wokuzemburuka mau pamburukira komutjimbirira umwe, nga omayuva wokosikore, ozondjito zomurunguro, ozondjuwo zokutjira poo otjiroko, nokutjaisa ozofoto, ovitjiwa nomaimburiro. Ondando yo okuhungira pamwe nokuwa, tjimwe okuzemburuka nawa.
 
-**How to run it:**
+**Nai ou kondo omukando:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Hita omutjimbirira umwe, nu twara ovitjiwa ovivisuka mbi ovandu mave kwao okukwata: otjihorekwa tjokwoko, otjikwata tjokuvinga, ondjara, okamba yeyi.
+2. Pitisa otjitiwa tjimwe tjimwe. Pura omaparo nga pate: "Zemburukira nge kombanda yahi," "U munu tjike?" "Ongwa tjike wa tjaisa otjitiwa nga hi?"
+3. Pandja omasaeneno aehe. Eṋe kara okupitukira eyuva poo omazemburukiro.
+4. Tjuukisa omahungira komazemburukiro wouwa. Ondjivisiro yomirari mai hungira kutja ovakuvatiri va tjuukise okuzemburuka komazemburukiro omawa, tjimwe komazemburukiro mbi mai eta omuruwe.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Omakarta wOmahungira](/games/conversation-cards/) mai yandja omakarta womihandjo mbya zepa, nomaparo nga pate komutjimbirira, mbi kora nawa okutangatanga omahungira. Omazemburukiro wengi wa kara mo[zemburukiro retu rokokuzemburuka](/activities/reminiscence/).
 
-### Finish the saying
+### Zara omutjivisiro
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Omambo womazemburukiro mbwa tjiwa ("Otjimariva tji paamuwa, otjimariva...") mai koka avehe okukwaera ombandja yo pamwe. Zumburura [Zara omutjivisiro](/games/finish-the-saying/) kombanda yorukoro runene, nu isa omukondwa u saeene norutuu rumwe. Konima yomutjivisiro auhe, mu nomuparo wokuhungira. Tji kape ngu sena ombandja, i zumburura nu pitise. Kape omuwa nomuvi.
 
-### Large-print word search, together
+### Okukongora omambo norukoro runene, pamwe
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Zumburura [Okukongora omambo](/games/word-search/) norukoro runene pekereno, nu kongorere omambo pamwe, poo zepa otjitjitwa kovaavo mbe suvera okukora vega potafula. Omambo ma kongorwa porukuma peke nokombunda peke.
 
-### Gentle movement
+### Omirari mbyape
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Okuranga omurora tji wa kara, okupitisa otjipira poo otjipuiwa, poo okuranga mozonganda komaimburiro mbwa tjiwa. Rongorora omurari auhe, tjimwe okukahungira.
 
-### Sorting and matching at the table
+### Okupangasana nokuza pamwe potafula
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Oviraro oviisuka vyovandu vitatu poo vine, mave kwao okupanga omihandjo, omisemba vyorukoro poo ovikoro vyombapa pamwe. Pekereno, [Omapara wOmihandjo](/games/picture-pairs/) ma kwao okurangwa nomihandjo mbya kara mbya munika, omundu umwe ma tetera, nu ovandu ve hungira kombanda yomuhandjo auhe.
 
-## How do I use your games on a big screen?
+## Mobi tjaisa vi ovikando vyetu pekereno onene?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ovikando vyetu ma ranga momunuko woweb, kwao kutja mu dena okutjaisa oTV poo oprojekta noma hiya okutja ovitjiwa.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Pata omukando kolaptop poo kotablet ndji pambwa pekereno nombambiro poo nokukandeka.
+2. Tjita kutja omunuko u zare pekereno, nu kara nomakuwa nga zuva nawa.
+3. Kare nomuhona umwe ngu tetera, nu omukondwa u kwaere ovahito. Poo pitisa otablet komukarusu ngu vanga oruveze.
+4. Kara apo omukondwa tji wa huru. Ovikando ka vi nootaima, ounanḓi poo okuhepera okuzara.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Bingo yOmihandjo](/games/picture-bingo/), [Zara omutjivisiro](/games/finish-the-saying/), [Omapara wOmihandjo](/games/picture-pairs/) no[Omakarta wOmahungira](/games/conversation-cards/), ma karisa nawa ovikondwa. Tara avihe ko[kamba yetu yovikando](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Mobi hindjaura vi omukando umwe ku ovandu movinaso mbya kaparera?
 
-Plan at least three ways to join every activity.
+Ṱanga omikando vitatu poo vyengi okukarapo momukando auhe.
 
-| Activity | More independent | Some support | Most support |
+| Omukando | Okuza peke | Omukuvatirwa | Okukuvatirwa tjinene |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo yomihandjo | U munu nu u zara omihandjo vye | Omukuvatiri ma raere; omundu ma zara | Ma kwata okarta yomuhandjo; ma pandja nu ma tara |
+| Okwimba pamwe | Ma imba, ma hita omuimburiro mbu uza | Ma temba, ma tetera, ma tjaisa otjitetero | Ma pandja, ma kwata otjinguva, ma tetera okwoko |
+| Okuzemburuka | Ma hungira omazemburukiro | Ma saeene ee poo ina, poo ma raere | Ma kwata nu ma zuva otjitiwa |
+| Okukongora omambo | Ma kora kotjitjitwa tje tja zepa | Ma kongora omambo pekereno onene nomukuvatiri | Ma pandja omambo tji ma riirwa |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Kovandu mbe kara moruhita rwombunda, NHS mai hungira kutja ovikando tji ma zire, ma hepera okukara vyape, nu ma tara tjinene komazumo womurungu, nga omaimburiro, ovitjiwa mbi ma kwatwa nokuhorereka omake. Oruveze rumwe korumwe, morukondwa poo konima yarwo, ma kwao okukara vyape ku wo komukondwa we. Tara [ovikando vyoruhita rwombunda](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Ovahona va hungire vi morukondwa?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Rizivisa otjikando atjihe, nu tjaisa ena omundu auhe nda suvera.
+- Hungira omurundo, yandja omatungiro umwe auhe, nu rongorora tji u hiya okuhungira.
+- Pura omaparo nga pate ("Zemburukira nge kombanda ya...") poo ovahito ovipe, eṋe pura omaparo womaparo ("Wa zemburuka...?").
+- Eṋe pitukira. Pandja ovandu koukarapo auhe.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Omazemburukiro wengi wa kara mo[zemburukiro retu rokokuhungira pamwe](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Okuzara nawa nokuisa ovandu va pite
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Okuhepera otjikando otjiwa. Tara oviraisiro kutja omundu wa ruva, ke nomurundo, poo wa verwa, nu kare nomukuvatiri ngu vanga okukapita poo okukarisa pwe kehi yomukandi. Omundu ngu kotoka morukondwa rwokwimba pamwe, ma kwao okukara nawa peke.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Zara omukondwa auhe mondjira imwe, nomuimburiro mbwa tjiwa poo okupandja kupe, kutja okuzara ku zuve ku ri omukandi nowa tjiwa. Konima, nyora ihi tji kora novaano mbe suvera ihi. Omanyorwa nga ma tjita otjikando tji uza tji ri viya.

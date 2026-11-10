@@ -1,34 +1,36 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Okuryangera omundu ngu nomutjise wokuzemba mondjeverero poo moshipangelo"
+seoTitle: "Okuryangera omundu ngu nomutjise wokuzemba: Oviṋa mbi mo tjiti"
+description: "Oviṋa mbi mo tjiti tji mo ryangere omundu ngu nomutjise wokuzemba mondjuwo yondjeverero, ondjuwo yovakurumendu poo moshipangelo: oviṋa okutoora, ovingi vyokutjita, nomaryangero omasupi."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Tji mo ryangere omundu ngu nomutjise wokuzemba mondjuwo yondjeverero poo
+  moshipangelo, kara noupupu: tja ena re tji wa kavaza, eta otjiṋa tjimwe
+  okuryanga pamwe na ye, tjimuna oviperendero, omizumbi poo ovikurya mbya
+  suvera, nu mu tjite otjiṋa tjimwe otjipupu pamwe. Omaryangero omasupi
+  ngu maye tjitwa povikando potuingi ye kara nawa okukapita inga omare
+  ngu maye tjitwa poruveze orusupi. Rongerera ombango ombore yokuțira, kokutja
+  okuțira ku rire oupupu ku eṋe aveyevari.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Minika omundu kena re nu tja kutja oove une, kokutja e ha sokukondja okuzuva: “Moro Mama, owami Susan, omuatje woye omukazona.”"
+  - "Eta otjiṋa tjimwe poo vivari okuryanga pamwe na ye, tjimuna embo roviperendero, omizumbi mbya suvera, ombanda ondjandje poo ovikurya mbi va yandjerwa i ovanandunge."
+  - "Omaryangero omasupi ngu maye tjitwa povikando potuingi ye kara nawa okukapita inga omare ngu maye tjitwa poruveze orusupi. Oukaro woye ounaṋdengu okukapita imbi mbi mo hungire."
+  - "Moshipangelo, yandja kovanandunge omukanda umwe womapulo ohunga nomundu nu raera onganga tjimanga tji pe notjiṋa tji tja runduruka tjimanga."
+  - "Rongerera okuțira kwoye: tja kutja mo kara oruveze oruingapi, ungurisa ombango imwe yokutja ‘mba za’ oruveze aruhe, nu pita nokuhina okukara ko orure."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Hiṋa mbi me sokutoora tji me ryangere omundu ngu nomutjise wokuzemba?"
+    a: "Toora otjiṋa tji mu ma ryanga pamwe na tjo, nungwari ka tjiṋa tji mamu sokuhungirira ko. Embo esupi roviperendero, oruteto rwomizumbi vye mbya suvera, ombanda ondjandje, omaze wokuronga omake, orutjanga ohunga notjiṋa tja suverere rukuru, poo ovikurya mbi va yandjerwa i ovanandunge avihe mavi ungura nawa. Mondjuwo yondjeverero, oviperendero vyonganda noviṋa mbya tjiukirwa mavi yenene okutjita ondjuwo i rire tjimuna onganda."
+  - q: "Me sokukara oruveze oruingapi tji me ryangere omundu ngu nomutjise wokuzemba?"
+    a: "Kape noruveze orusemba. Omazumo omengi ye muna kutja omaryangero omasupi ngu maye tjitwa povikando potuingi ye ungura nawa okukapita inga omare ngu maye tjitwa poruveze orusupi, mena rokutja omundu ma yenene okururuka tjimanga nu mape ya a ha zemburuka kutja wa kara oruveze oruingapi. Tara ovizere vyokururuka nu pita omaryangero ngunda aye hiya kara nawa."
+  - q: "Hiṋa mbi me sokutja tji ma pura okuyaruka konganda?"
+    a: "Zira komerimwino, nungwari ka komambo. ‘Me vanga okuyaruka konganda’ potuingi ku heya kutja ‘Hi nokuhina oupore poo onguturiro.’ Rora okutja, ‘Ndji serekarera ohunga nonganda yoye,’ mu tare oviperendero pamwe, poo mu ningire okukaryanga poo okutya otjiṋa. Okupatasana poo okuzuvaisa kutja ma yena okuza ngo potuingi ku eta omauzeu omengi."
+  - q: "Tji me hi nokundji tjiukwa?"
+    a: "Mape ya tji hihamisa, posi yokutja o ha sokuverukisa poo okupura ‘Ko ndji tji i?’ Riṋonḓa mouwa nu u nyande oruveze ndwo pamwe. Ovandu ovengi ve kara nondjoroka mokukara novandu varwe nu ve zuva oupore womaryangero nandarire kutja kave nokutjiwa kutja oove une."
+  - q: "Me yenene okuvatera vi oruveze rwokukara moshipangelo?"
+    a: "Kara pomundu tji mo yenene, mu vatere okurya nokunwa, nu eta oviṋa mbya tjiukirwa tjimuna oviperendero. Yandja kovanandunge omukanda mbu mau tja omihingo vye, ena nda suvera, imbi mbya suvera nambya ha suvere, novizere vyomihihamo. Raera onganga tjimanga tji omundu ma munika tjimuna wa rira omuvi poo wa runduruka, mena rokutja okumuna ovipuka tjimanga mape ya ku raisa ouzeu woutjitu."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +55,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Okuryangera omundu ngu wa suvera mondjuwo yondjeverero, ondjuwo yovakurumendu poo moshipangelo ku yenena okutuetere omerimwino omengi. Mape ya u ripura kutja mo hungire ye, mo eta ye, poo kutja omaryangero ye heya otjiṋa nandarire kutja omundu ke nokuzemburuka. Ye heya otjiṋa. National Institute on Aging i tja ovandu mbe notjindjumba tjokuzemba [potuingi ve nyanda okukara novandu varwe](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nandarire kutja kave nokuzemburuka kutja omuryange oye une. Omukuma mbwi u yandja ozondunge ozitjita komurungu womaryangero, oruveze rwawo na kombunda yawo, pu nozondunge ohunga nokukara moshipangelo.
 
-## How do I get ready for a visit?
+## Me rirongerere vi komaryangero?
 
-A little planning makes the visit easier for both of you.
+Okurongerera okasupi ku tjita omaryangero ye rire omapupu ku eṋe aveyevari.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Toorora oruveze oruwa.** Dementia Australia i tunduuza okuryangera omundu tji tje ri popezu nomasa, kovandu ovengi omuhuka poo pokati keyuva. Family Caregiver Alliance i tunduuza okuzuva oruteto rwonduwo nokuryangera [oruveze rwokusuva nungwari ka oruveze rwoviṋa vyokutjita](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Pura kovanandunge.** Pura kutja omundu wa kara vi ndino, nu tara omirari ohunga novikurya, oupuka poo omayenda pendje.
+- **Rongerisa ondjatu osupi yomaryangero.** Otjiṋa tjimwe poo vivari okuryanga pamwe na vyo vya yenene (tara oruteto kehi mba).
+- **Rongerera oviṋa ovisupi okutjivaza.** Omundu mape ya a ha kara nezombuze, otji eta ozoye: ozombuze zonganda, ombepo, ombatasaneno yomaṋangero, ehungi ndi ri yeta ondjoroka.
+- **Zikamisa omaundjiro woye omuini.** Omaryangero tjiva maye kara noupyu nomahungiriro. Yarwe maye kara nokumwina poo omauzeu. Aviyevari ovyo ovina vyarwe.
 
-## What should I bring?
+## Hiṋa mbi me sokutoora?
 
-Bring things to share, not things that test. Good choices include:
+Toora oviṋa tji mu ma ryanga pamwe na vyo, nungwari ka oviṋa mbi mavi roro. Oviṋa oviwa vi kamburira mo:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Embo esupi roviperendero** noviṋa vyoviperendero ovinene, mbya yela. Tjanga omatjangero kombunda yavyo kovanandunge.
+- **Oruteto rwomizumbi** vyomizumbi mbya suvera mongodi, pu nozombosiro ozongozu poo okambosiro okasupi.
+- **Otjiṋa otjindjandje okutjizepa,** tjimuna ombanda ndja tjiukirwa, okambanda poo ombaki.
+- **Omaze wokuronga omake** okukwata omake noupore, omundu tje tjaterwa kokutonwa.
+- **Orutjanga poo embo roviperendero** ohunga notjiṋa tja suverere rukuru, tjimuna okututa ovikunwa, oumotoka, ozonḓera poo okutereka.
+- **Ovikurya mbya suvera,** ovanandunge tji va tja oviwa.
+- **Oviṋa mbya tjiukirwa mondjuwo.** Family Caregiver Alliance i tunduuza ozongara, ovikunwa, oviperendero vyeṱunḓu noviperendero vyoviserekarera, poo otjiperendero otjinene tjoviperendero vyeṱunḓu vyorukuru.
+- **Okatjendjeze,** okutara oviperendero vyeṱunḓu poo okunyanda otjinyando otjipore pamwe.
 
-## What can we do together during a visit?
+## Matu yenene okutjita ye pamwe oruveze rwomaryangero?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Okutjita otjiṋa pamwe ku isa po ombindu yomahungiriro. Dementia Australia i tunduuza okutara oviperendero, otjiungura otjipupu tjomake, okututa ouṱuṱu, omizumbi, okuryanga ovikurya pamwe, poo okukaryanga pendje. Omakumbyo warwe:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Mu tare oviperendero.** Raisa imbi mbi mo munu: “Tara ekori ndo.” “Ombanda ndji yomomeva mai munika nawa.” Esa omundu a hongorere po. Ove o ningire “Ngwi ingwi une?”
+2. **Mu pose omizumbi nu mu imburire pamwe.** Omizumbi mbya tjiukirwa mavi yenene okuvatera omutima nu okutuetere oruveze rwondjoroka pamwe, nandarire tji pe ri ouzeu okuhungira.
+3. **Mu karyange okasupi.** Family Caregiver Alliance i tunduuza okukaryanga monduwo, tjinenenene motjikunino tji tji ri mo. Okukaryangisiwa motjihavero wina ku varwa.
+4. **Kwata omake noupore.** Omaze okasupi nomakwatero omapupu komake mavi yenene okuporimanisa.
+5. **Vatera nomeriwondjero.** Dementia Australia i tja okuronga ozondjise, okupenda omanyala poo okuvatera omundu okuzara ozombanda za suvera, tje tjaterwa ko.
+6. **Mu nyande otjinyando otjipupu.** Family Caregiver Alliance i tunduuza oukarata, oudomino, poo atjihe omundu tja nyandere rukuru. Mokati kokatjendjeze, [Picture Pairs](/games/picture-pairs/) ku yenena okunyandwa noviṋa vyoviperendero mbya isa po okuvaza nokuhina oruveze rwokutjinda. [Photo Pairs](/games/photo-pairs/) ku tjita oviperendero mbi wa toorora vire otjinyando tjokupasanisa, noviperendero vi kara motjivarero tjoye.
+7. **Mu tare otjiṋa pamwe.** Family Caregiver Alliance i tunduuza oviserekarera vyokuyora noviserekarera vyorukuru. Nandarire kutja omundu ke nokuyenena okutjiwa ehungi, mu yenena okukara pamwe popezu nokuryanga oruveze.
+8. **Lesa mokure.** Otjimbo otjisupi, orupa ndwa suvera, poo ombapira okuza komundu weṱunḓu.
+9. **Mu kare pamwe uriri.** Okukwaterasana komake poo okukara pamwe nokumwina omaryangero watjiri. Alzheimer’s Association i tja kape noumba tji u hi nokutjiwa kutja mo hungire ye, noukaro woye ounaṋdengu tjinene.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) mai yenene okuvatera tji wa zu nokuhina oviṋa okutjivaza. Okarata akehe ke notjiperendero nepuriro ndi ri paturuka.
 
-## How should I talk during the visit?
+## Me sokuhungira vi oruveze rwomaryangero?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Riṋonḓa oruveze aruhe.** “Moro Tate, owami Mark, omuzandu woye.” NIA i tunduuza ovaryange okuriṋonḓa tjimanga okutenga ehungi.
+- **Enda popezu komurungu** nu u haama poruveze pu mamu tara momeho.
+- **Ove overukisa poo okupatasana.** NIA i tunduuza ovaryange kutja ave ha verukisa omundu tji ma tjiti ondataiziro poo tji ma zemba otjiṋa.
+- **Kara nomuretima** omambo tji maye ri ouzeu okumunwa. Yandja oruveze oruingi.
+- **Zira komerimwino.** Omundu tji ma munika oruhoze poo omb anxiety, yakura otjiṋa ho ngunda au hiya rundurura otjiṋa.
+- **Ove pura omapuriro wokurora** tjimuna “U ndji zemburuka?” poo “Wa rya ye omutenya?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Tara [ozondunge zetu zehunganeno](/caregiving/communication-tips/) komakwizikiro omengi.
 
-## What do I do when they say "I want to go home"?
+## Hiṋa mbi me sokutjita tji ma tja “Me vanga okuyaruka konganda”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Zira komerimwino ngu ri kongotwe yomambo (embo retu ohunga [nomundu tji ma kayenda komurungu okupura okuyaruka konganda](/caregiving/asking-to-go-home/) ri kahurura ko). Family Caregiver Alliance i kahurura kutja “Me vanga okuyaruka konganda” potuingi i ri omuano wokutja “Hi nokuhina oupore,” nu i tunduuza ozombanguriro tjimuna “Ndji serekarera ohunga nonganda yoye” poo “Otjiṋa tjiṋe tji wa suvera tjinene ponganda?” Dementia Australia i wezera ko kutja “onganda” mai hee oruveze poo poruveze omundu pa ri noupore, tjimuna mounatje.
 
-Try:
+Rora:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- okuyakura omerimwino: “Mai munika tjimuna mo zeri onganda.”
+- okuyandja oupore okupitira mokutonwa, tji tja yakurwa
+- okutara oviperendero poo okuhungira ohunga nonganda yeṱunḓu
+- okuningira okukaryanga, okunwa poo okutya otjiṋa
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Ove patasana poo okuzuvaisa kutja ma yena okuza ngo. Kape na tji tji vatera potuingi nu potuingi ku eta omauzeu omengi.
 
-## How long should a visit be?
+## Omaryangero ye sokukara orure pu pe ṱa pi?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Omasupi nu potuingi ye ungura nawa. Family Caregiver Alliance i tja omundu potuingi ke nokuzemburuka kutja wa kara oure wominute ndano poo ozombura ndano, nu i tunduuza kutja omaryangero yetatu omasupi motjivike ye yenena okukara nawa okukapita erimwe enene. Dementia Australia i tja kape nombara osemba yomaryangero poo oure osemba.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Movivike ovitenga kombunda yokutjinda mondjuwo yondjeverero, Family Caregiver Alliance i tunduuza okuryanga potuingi, nu okuzambo okurihonga mombango ndji mai tjitwa aruhe. Pura kovanandunge kutja ve muna ye.
 
-## How do I leave without upsetting them?
+## Me piti vi nokuhina okumuzepaisa?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Okupita ku yenena okurira orupa oruzeu tjinene. Dementia Australia i tunduuza:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Tja kutja mo kara oruveze oruingapi tji wa kavaza.** “Me yenene okukara oiri imwe, nu okuzambo me i kotjitengesa.”
+- **Ungurisa otjiṋa tjimwe otjipupu okurira omayandero omawa.** “Tji twa mana ombuimbi ndji, me piti.”
+- **Twa po oruveze pamwe nokurya poo otjiṋa tjokutjita,** poo ningira ovanandunge va vatere omundu okukara motjiṋa tjarwe.
+- **Kara nombango osupi noimwe yokutja ‘mba za’ oruveze aruhe.** Okukara ko orure, okuningira ondjesiro poo okukara “okasupi rukwao” ku yenena okutjita ombango yokutja ‘mba za’ moruyaveze i rire ouzeu.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Kombunda tji wa piti, oviṋa vyarwe okuhihamwa. Ri pa oruveze rwokusuva. Omundu tja zepere, ovanandunge potuingi ve yenena okumuvatera tjimanga.
 
-## Visiting someone with dementia in the hospital
+## Okuryangera omundu ngu nomutjise wokuzemba moshipangelo
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Osipangelo si kara nombosiro, sya panguka nu si ura novandu omundu mbe hi nokutjiwa, notjiṋa ho tji yenena okurira ouzeu tjinene komundu ngu nomutjise wokuzemba. Embo ra NIA ohunga [nokuyenda nomundu ngu notjindjumba tjokuzemba koshipangelo](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ri tunduuza:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Kara nomundu ngu ma kara pomundu** otja pu mo yenene: omundu weṱunḓu, epanga ndi ri nongamburiro poo omurikendere ngwa kutwa.
+- **Yandja kovanandunge omukanda womaundjiro womundu** mbu mau raisa omihingo vye, ena nda suvera, imbi mbya suvera nambya ha suvere, imbi mbi mavi mu zepaisa, novizere vyomihihamo mbi hi nokuhungirwa. Twa po ozombapira mondjuwo na poruveze rwovanavere.
+- **Vatera nokurya nokunwa.** Ovakurumendu mave yenene okuhinombinḓu moukoto moshipangelo. Paturura oviṋa, vatere pokurya, rye pamwe, nu yandja omanuwa.
+- **Eta oviṋa vyokuhuhumiṋa** tjimuna oviperendero poo oviṋa vyomerikotameneno.
+- **Punguhisa ombosiro.** Zepa otivii nu punguhisa ombosiro yongodi nozombosiro zarwe.
+- **Rora omihingo vyokuporimanisa,** tjimuna omizumbi omivandje, okulesa, okukumba, okuimbura poo okutara oviperendero vyorukuru.
+- **Tunduuza okuryanga** otja pu pa ri nawa, pu nembo kovanandunge.
+- **Raera onganga tjimanga omundu tji ma munika tjimuna wa rira omuvi poo wa runduruka.** NIA i kahurura kutja okumuna ovipuka tjimanga tjinene, ku ku isanewa delirium, ku yenena okuetwa i oviṋa tjimuna omitjise, omutjise womburu, okuhinomeva motutu poo oviṋa vyomiti, nu ku hepa ombatero yonganga.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Omaryangero omasupi, omapori nomurungu mbwa tjiukirwa nombuimbi ndja suverwa mape ya ye rire orupa oruhuhumiṋe tjinene meyuva rosipangelo.
 
-## Bringing children on a visit
+## Okuyenda novanatje komaryangero
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Ovanatje mave yenena okueta oupyu ouingi. Ve rongerera komurungu nomambo omapupu, ouatjiri, kara nomaryangero omasupi, nu ve pa otjiungura, tjimuna okuraisa otjiperendero tji va tjanga poo okuyandja otjiperendero. NIA i tja ovanatje novandu mbe notjindjumba tjokuzemba mave yenena okunyanda oviṋa ovipupu pamwe, tjimuna okutara embo roviperendero poo okupuratena komizumbi. Dementia Australia i tunduuza okurongerisa ondjatu osupi noviṋa vyokutja poo oviṋa vyokumwina okurira ovanatje ovanatiti noukaro ouwa.
 
-## Take care of yourself too
+## Rikotamena kove omuini wina
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Omaryangero ye yenena okururukisa nokuhihamisa omutima, tjinenenene omundu tja runduruka tjinene. Kape noumba okuryanga potuasupi tji wa hepa, okuyenda nepanga okumuvatera, poo okupita rukuru meyuva ndi ri ouzeu. Komakumbyo wokurikotamena kove omuini, tara [omerikotameneno womurikendere](/caregiving/caregiver-self-care/). Tji u kara kokure, tara embo retu ohunga [nomangero nongodhi nozombanguriro zoviperendero](/activities/phone-and-video-calls/).

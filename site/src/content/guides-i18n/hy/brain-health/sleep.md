@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Քունը և ուղեղի առողջությունը. ինչ է ասում գիտությունը"
+seoTitle: "Քունը և դեմենցիան. ինչ է ասում հետազոտությունը"
+description: "Ինչ է ասում հետազոտությունը քնի և դեմենցիայի ռիսկի մասին, և գործնական քնի սովորություններ տարեցների ու խնամողների համար։"
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Որոշ երկարաժամկետ հետազոտություններ կարճ քունը միջին տարիքում կապում են դեմենցիայի ավելի բարձր ռիսկի հետ, իսկ լաբորատոր հետազոտությունը ենթադրում է, որ քունը կարող է օգնել ուղեղին մաքրել թափոնները։ Այս ապացույցը դեռ վաղ է, և 2024 թվականի Lancet հանձնաժողովը քունը չնշեց որպես փոփոխելի ռիսկի գործոն։ Կանոնավոր քնի սովորությունները օգնում են ձեր առօրյա ինքնազգացողությանը։ Դեմենցիայի դեպքում քնի խնդիրները տարածված են և արժե դրանց մասին խոսել բժշկի հետ։
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Մեծ Բրիտանիայում անցկացված հետազոտությունը, որը 25 տարի հետևել է շուրջ 8,000 մարդու, կապել է միջին տարիքում վեց ժամ կամ ավելի քիչ քնելը դեմենցիայի ավելի բարձր ռիսկի հետ։"
+  - "Քնի փոփոխությունները կարող են նաև դեմենցիայի վաղ նշան լինել, ուստի դժվար է տարբերել պատճառը հետևանքից։"
+  - "Հետազոտությունը քնի ժամանակ ուղեղից բետա-ամիլոիդի մաքրման մասին իրական է, բայց դեռ վաղ է, դրա մեծ մասն արվել է մկների վրա։"
+  - "Քնի ապնեն տարածված է, բուժելի է և հետազոտություններում կապվում է դեմենցիայի հետ. բարձր խռմփոցը և ցերեկային քնկոտությունը արժե ստուգել։"
+  - "Երբեք չսկսեք, չդադարեցնեք կամ չփոխեք քնի դեղամիջոց կամ քնաբեր միջոց առանց բժշկի։"
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Արդյո՞ք վատ քունն առաջացնում է Ալցհայմեր։"
+    a: "Դա ապացուցված չէ։ Որոշ հետազոտություններ կարճ քունը կապում են դեմենցիայի ավելի բարձր ռիսկի հետ, սակայն դեմենցիան ինքն է խանգարում քունը, հաճախ ախտորոշումից տարիներ առաջ։ 2024 թվականի Lancet հանձնաժողովը ապացույցը համարեց չափազանց ոչ հետևողական, որպեսզի քունը ներառի որպես փոփոխելի ռիսկի գործոն։"
+  - q: "Որքա՞ն քուն է պետք տարեցներին։"
+    a: "National Institute on Aging-ը (NIA) ասում է, որ տարեցներին պետք է մոտավորապես նույնքան, որքան մյուս չափահասներին՝ 7-ից 9 ժամ գիշերը։ Շատ տարեցներ ավելի շուտ են պառկում և արթնանում, քան նախկինում, ինչը սովորական է։"
+  - q: "Ինչո՞ւ է դեմենցիա ունեցող մարդը ցերեկը քնում, իսկ գիշերը արթնանում։"
+    a: "Դեմենցիան կարող է ազդել մարմնի ներքին ժամացույցի վրա, ուստի քնի և արթնության ժամերը խառնվում են։ Ցավը, ձանձրույթը, քաղցը կամ դեղամիջոցների կողմնակի ազդեցությունները նույնպես կարող են դեր խաղալ։ Ցերեկային լույսը, օրական ակտիվությունը և հանգիստ երեկոյան ռեժիմը կարող են օգնել։ Բժիշկը կարող է փնտրել բուժելի պատճառներ։"
+  - q: "Պե՞տք է քնաբեր տամ այն մարդուն, ում խնամում եմ։"
+    a: "Նախ խոսեք նրա բժշկի հետ, ներառյալ առանց դեղատոմսի միջոցների մասին։ National Institute on Aging-ը նշում է, որ որոշ քնի դեղամիջոցներ կարող են մեծացնել գլխապտույտի, անկումների և շփոթության ռիսկը Ալցհայմեր ունեցող մարդկանց մոտ։"
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Քունը և ուղեղի առողջությունը ակնհայտորեն կապված են, սակայն թե ինչպես են կապված, դեռ պարզվում է։ Որոշ հետազոտություններ կարճ քունը կապում են դեմենցիայի ավելի բարձր ռիսկի հետ։ Դեմենցիան էլ իր հերթին հաճախ խանգարում է քունը։ Այս էջը բացատրում է, թե ինչ է ցույց տալիս հետազոտությունը և ինչ՝ ոչ, տալիս է գործնական քնի սովորություններ և անդրադառնում դեմենցիայի դեպքում տարածված քնի խնդիրներին։ Այն խորհուրդներ չի տալիս քնի դեղամիջոցների մասին. այդ զրույցը բժշկի հետ է։
 
-## Is poor sleep linked with dementia?
+## Արդյո՞ք վատ քունը կապված է դեմենցիայի հետ։
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Որոշ երկարաժամկետ հետազոտություններ կարճ քունը կապում են դեմենցիայի ավելի բարձր ռիսկի հետ, բայց ապացույցները դեռ վերջնական չեն։
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **25-ամյա հետազոտություն Մեծ Բրիտանիայում։** Հետազոտողները շուրջ 8,000 չափահասի հետևել են [Whitehall II հետազոտության](https://www.nature.com/articles/s41467-021-22354-2) շրջանակներում։ Մարդիկ, ովքեր 50 կամ 60 տարեկանում քնում էին վեց ժամ կամ ավելի քիչ, ավելի ուշ դեմենցիայի ավելի բարձր ռիսկ ունեին, քան նրանք, ովքեր քնում էին յոթ ժամ։ Մարդիկ, ովքեր 50, 60 և 70 տարեկանում քնում էին վեց ժամ կամ ավելի քիչ, մոտ 30%-ով ավելի բարձր ռիսկ ունեին, քան նրանք, ովքեր կանոնավոր քնում էին յոթ ժամ։ Սա դիտողական հետազոտություն էր, ուստի ցույց է տալիս կապ, ոչ թե պատճառ։
+- **Lancet հանձնաժողովի տեսակետը։** [2024 թվականի Lancet հանձնաժողովը](https://doi.org/10.1016/S0140-6736(24)01296-0) քունը չավելացրեց 14 փոփոխելի ռիսկի գործոնների ցանկին։ Այն ապացույցը համարեց բավականաչափ հետևողական չէ։ Պատճառներից մեկը «հակադարձ պատճառականությունն» է. դեմենցիայի հետևանքով ուղեղի փոփոխությունները սկսվում են ախտորոշումից տարիներ առաջ և կարող են խանգարել քունը։ Մի մեծ հետազոտության մեջ երկար քնի և դեմենցիայի միջև կապը անհետացավ, երբ դիտարկման առաջին հինգ տարիները մի կողմ դրվեցին։
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Ուստի երբեմն կարճ գիշերը անհանգստանալու պատճառ չէ։ Արժե ձգտել կանոնավոր, լավ որակի քնի, քանի որ այն օգնում է տրամադրությանը, արթնությանը և անվտանգությանն այսօր։
 
-## What is the "brain-clearing" sleep research?
+## Ինչ է «ուղեղը մաքրող» քնի հետազոտությունը։
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Հնարավոր է կարդացած լինեք, որ քունը «մաքրում» է ուղեղը։ Այդ գաղափարը գալիս է իրական հետազոտությունից, բայց դեռ վաղ է։
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Մկների վրա։** 2013 թվականի հետազոտությունը, որը [նկարագրել է NIH-ը](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), գտել է, որ մկների քնի ժամանակ ուղեղի բջիջների միջև տարածությունը մեծացել է մոտ 60%-ով։ Հեղուկը ավելի հեշտությամբ է հոսել ուղեղով՝ հետազոտողների անվանած գլիմֆատիկ համակարգով։ Բետա-ամիլոիդը՝ Ալցհայմերի հետ կապված սպիտակուցը, ավելի արագ է մաքրվել քնած մկների ուղեղներից։
+- **Մարդկանց վրա։** Մի փոքր [2018 թվականի հետազոտություն](https://www.pnas.org/doi/10.1073/pnas.1721694115) սկանավորել է 22-ից 72 տարեկան 20 առողջ չափահասի սովորական գիշերից հետո և առանց քնի գիշերից հետո։ Անքուն գիշերից հետո բետա-ամիլոիդի ուղեղային սկանավորման ազդանշանը մոտ 5%-ով բարձրացել է հիպոկամպը ներառող տարածքում՝ հիշողության համար կարևոր շրջանում։ Հեղինակներն այդ ապացույցն անվանել են նախնական։ Նրանք չգիտեին՝ փոփոխությունը անհետանու՞մ է հանգստից հետո, թե՞ արտացոլում է ավելի դանդաղ մաքրում կամ ամիլոիդի ավելի շատ արտադրություն։
+- **Կապը երկկողմանի է։** Lancet հանձնաժողովը նշում է, որ ամիլոիդի կուտակումը ինքն է կարող խանգարել տարեցների քունը։
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Այս արդյունքները օգնում են բացատրել, թե ինչու են հետազոտողները հետաքրքրված քնով։ Դրանք չեն ցույց տալիս, որ ավելի լավ քունը կանխում է Ալցհայմերը։
 
-## What sleep habits may help?
+## Ո՞ր քնի սովորությունները կարող են օգնել։
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Տարեցներին պետք է մոտավորապես 7-ից 9 ժամ քուն գիշերը՝ նույնը, ինչ մյուս չափահասներին, ըստ [National Institute on Aging-ի (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults)։ Նրա խորհուրդները ներառում են.
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Պահեք կանոնավոր ռեժիմ։** Ամեն օր նույն ժամին պառկեք և արթնացեք, նույնիսկ հանգստյան օրերին։
+- **Ստեղծեք հանգստացնող ընթացակարգ։** Քնելուց առաջ կարդացեք, լսեք հանգստացնող երաժշտություն կամ տաք լոգանք ընդունեք։
+- **Ննջասենյակը դարձրեք հարմարավետ՝** ոչ շատ տաք, ոչ շատ ցուրտ։
+- **Սահմանափակեք կոֆեինը օրվա ուշ ժամերին։** Սուրճը, թեյը, գազավորված ըմպելիքները և շոկոլադը կարող են արթուն պահել ձեզ։
+- **Խուսափեք ալկոհոլից,** նույնիսկ փոքր քանակներից, խորհուրդ է տալիս NIA-ն։
+- **Խուսափեք ծանր սնունդից քնելուց երկու-երեք ժամ առաջ,** և շատ հեղուկներից օրվա ուշ ժամերին։
+- **Մարմնամարզվեք կանոնավոր, բայց ոչ քնելուց 3 ժամ առաջ։** Տեսեք մեր [մարմնամարզության ուղեցույցը](/brain-health/exercise/)։
+- **Էկրանները հեռու պահեք ննջասենյակից։** NIA-ն խորհուրդ է տալիս այնտեղ հեռուստացույց չդիտել և չօգտագործել համակարգիչ, հեռախոս կամ պլանշետ։
+- **Խուսափեք կեսօրից հետո կամ երեկոյան ննջելուց,** եթե կարող եք։
 
-## Sleep problems in dementia
+## Քնի խնդիրները դեմենցիայի դեպքում
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Քնի փոփոխությունները տարածված են դեմենցիայի դեպքում։ [NIA-ն թվարկում է](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) շատ կամ չափազանց քիչ քնելը, գիշերը բազմիցս արթնանալը և ցերեկը շատ ննջելը։ Այն նաև նկարագրում է արևամուտի համախտանիշը. անհանգստություն, հուզմունք կամ շփոթություն, որը սկսվում կամ սրվում է, երբ ցերեկային լույսը մարում է։
 
-Caregiver tips from the NIA include:
+NIA-ի խորհուրդները խնամողների համար ներառում են.
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Վաղ ստացեք ցերեկային լույս և շարժում։** Օրվա ընթացքում դուրս եկեք կամ նստեք պատուհանի մոտ և օգնեք մարդուն ամեն օր ակտիվ լինել։ Պայծառ լույսը կարող է օգնել վերականգնել մարմնի ներքին ժամացույցը։
+2. **Էներգիա պահանջող զբաղմունքները պլանավորեք առավոտյան։** Փորձեք լոգանք ընդունել առավոտյան կամ ամենամեծ կերակուրը ուտել կեսօրին։
+3. **Ննջերը թողեք կարճ և վաղ։** Սահմանափակեք օրվա ուշ ժամերին ննջելը։
+4. **Երեկոն դարձրեք հանգիստ։** Նվազեցրեք լույսը, աղմուկը և միացրեք հանգստացնող երաժշտություն, եթե մարդը վայելում է այն։ Մեր ուղեցույցը [օրվա վերջի անհանգստության](/caregiving/late-day-restlessness/) մասին ունի ավելի շատ գաղափարներ։
+5. **Պահեք կայուն քնելու ընթացակարգ։** Բարձրաձայն կարդալը ամեն գիշեր նույն ժամին NIA-ի օրինակներից մեկն է։ [Կայուն օրական ռեժիմը](/activities/daily-routine/) նույնպես օգնում է։
+6. **Սահմանափակեք կոֆեինը և ալկոհոլը։**
+7. **Օգտագործեք գիշերային լույսեր** ննջասենյակում, միջանցքում և լոգարանում։
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Գիշերային արթնացումների համար NIA-ի [տան անվտանգության խորհուրդները](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ներառում են գիշերային լույսեր կամ ավտոմատ լույսի սենսորներ, բռնակներ լոգարանում, վառ գույնի ժապավեն աստիճանների եզրերին և դեղամիջոցներ՝ կողպված տեղում պահված։
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Երեկոյան կարճ, հանգիստ զբաղմունքը կարող է օգնել երկուսիդ էլ հանգստանալ։ Փորձեք դանդաղ [Հանգիստ շնչառության](/games/calm-breathing/) դադար կամ մի քանի հանգիստ [Զրույցի քարտեր](/games/conversation-cards/)։ Խուսափեք քնելուն մոտ ցանկացած գրգռող բանից և կանգ առեք, երբ մարդը բավականաչափ ունեցել է։
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Ընդհատված քունը նաև ուժասպառ է անում խնամողներին։ Մեր [խնամողի ինքնախնամքի ուղեցույցը](/caregiving/caregiver-self-care/) ներկայացնում է հանգստանալու և օգնություն ստանալու ուղիներ։
 
-## What about sleep apnea?
+## Ինչ վերաբերում է քնի ապնեին։
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Քնի ապնեն քնի ընթացքում շնչառության կարճ դադարներ է առաջացնում, հաճախ գիշերը բազմիցս։ NIA-ն ասում է, որ եթե այն չբուժվի, կարող է հանգեցնել այնպիսի խնդիրների, ինչպիսիք են բարձր արյան ճնշումը, կաթվածը կամ հիշողության կորուստը։ Նշանները ներառում են բարձր խռմփոցը և ցերեկային քնկոտությունը, և շատ մարդիկ չգիտեն, որ ունեն այն։ Lancet հանձնաժողովը նկարագրում է 11 հետազոտությունների վերանայում, որոնցում քնի ապնե ունեցող մարդիկ մոտ 43%-ով ավելի բարձր դեմենցիայի ռիսկ ունեին։ Սակայն այդ հետազոտություններից քչերն էին հաշվի առնում քաշը, ուստի կապը անորոշ է։
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Քնի ապնեն կարելի է ախտորոշել և բուժել։ NIA-ն նշում է, որ CPAP ապարատը գրեթե միշտ օգնում է։ Եթե դուք կամ այն մարդը, ում խնամում եք, բարձր խռմփացնում է, դադարում է շնչել քնի ընթացքում կամ շատ քնկոտ է ցերեկը, ասեք բժշկին։
 
-## A note about sleep medicines
+## Նշում քնի դեղամիջոցների մասին
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Մենք խորհուրդներ չենք տալիս քնի դեղամիջոցների կամ հավելումների մասին։ NIA-ն նշում է, որ քնի դեղամիջոցները կարող են կարճ ժամանակ օգնել, բայց անքնության բուժում չեն։ Այն նաև նշում է, որ Ալցհայմեր ունեցող մարդկանց քնելուն օգնելու համար տրվող որոշ դեղամիջոցներ կարող են մեծացնել գլխապտույտի, անկումների և շփոթության ռիսկը։ Մի սկսեք, մի դադարեցրեք կամ մի փոխեք որևէ քնի դեղամիջոց, ներառյալ առանց դեղատոմսի քնաբեր միջոցները, առանց բժշկի կամ դեղագործի հետ խոսելու։
 
-## Talk with a doctor
+## Խոսեք բժշկի հետ
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Դիմեք բժշկին, եթե դուք կամ այն մարդը, ում խնամում եք, մշտապես հոգնած է, գիշերների մեծ մասը քնի հետ խնդիր ունի, բարձր խռմփացնում է կամ գիշերը շնչառության դադարներ ունի։ Եթե դեմենցիայի դեպքում քնի խնդիրները շարունակվում են, [NIA-ն խորհուրդ է տալիս](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) դիմել բժշկական օգնության։ Զննությունը կարող է գտնել այնպիսի պատճառներ, ինչպիսիք են ցավը, այլ քնի խանգարում, հիվանդություն կամ դեղամիջոցի կողմնակի ազդեցություն։ Հանկարծակի շփոթությունը կամ քնի հանկարծակի փոփոխությունը շփոթության հետ միասին հրատապ խնամք է պահանջում։ Կարդացեք [երբ դիմել բժշկի](/brain-health/warning-signs/)։
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Այս էջը ընդհանուր տեղեկատվություն է, ոչ բժշկական խորհուրդ։ Տեսեք մեր [բժշկական հրաժարումը](/medical-disclaimer/)։

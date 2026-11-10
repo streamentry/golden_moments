@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Oviṋa mbi ṋuna oumba ku dementia: 14 Lancet tja hungire"
+seoTitle: "Oviṋa mbi ṋuna oumba ku dementia: 14 vya Lancet"
+description: "Oviṋa 14 mbi ṋuna oumba ku dementia, Lancet Commission tja 2024 tji tja hungire, momuinyo, na imbi ongondononeno tji i raisa nokuhungira kuna ndokotera."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Lancet Commission tja 2024 tja hungire oviṋa 14 mbi ṋuna oumba ku dementia
+  mbi mavi yenene okurundururwa: omahongero omatiti, okuhina okuzuva nawa,
+  LDL cholesterol ondengi, oruhoze, okuhihamisiwa motjiuru, okuhina okuungura
+  nomutu, ouveri wosuuka, okunyosa omakaya, ombinḓu ondengi, ounene womutu,
+  okunwa omanuwa omengi, okukara kokure novandu, ombepo ndji ha kohoke nawa
+  nokuhina okuverukirwa omeho. Avihe pamwe vi ṱunwa nozombanguriro ape 45%
+  mouye auhe, posiṋa kape nomaraisiro komundu ngamwa.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Oviṋa mbi 14 vi kavera omuinyo auhe: tjimwe moutanda, omurongo pokati komuinyo na vitatu moukurundu."
+  - "Okuhina okuzuva nawa na LDL cholesterol ondengi pokati komuinyo, atjihe tji ṱunwa nozombanguriro ape 7% zoumba ku dementia mouye auhe, ozombanda ozonene potjiṋa tjimwe."
+  - "Ozonomero nḓa ozongatukiro zovandu ovengi nu maze kambura kutja pe nombango. Omatunino tjiva mape ya aye kara omatiti uriri."
+  - "Ozombura nozondekurona, mbi hi nokuyenena okurundururwa, wina oviṋa ovinene mbi ṋuna oumba. Okutjaera oviṋa mbi 14 kaku raisa kutja omundu ma yenene okurira oumba ku dementia."
+  - "Ozondando ozengi nḓu za kamburirwa mo, tjimuna okutara ombinḓu, okuzuva nomeho, ze nawa kouveruke momiano vyarwe nu ze ri ohepero okuhungirwa kuna ndokotera."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Oviṋa 14 mbi ṋuna oumba ku dementia mbi mavi yenene okurundururwa ovikwaye?"
+    a: "Lancet Commission tja 2024 tja hungire omahongero omatiti, okuhina okuzuva nawa, LDL cholesterol ondengi, oruhoze, okuhihamisiwa motjiuru, okuhina okuungura nomutu, ouveri wosuuka, okunyosa omakaya, ombinḓu ondengi, ounene womutu, okunwa omanuwa omengi, okukara kokure novandu, ombepo ndji ha kohoke nawa nokuhina okuverukirwa omeho. Avihe pamwe vi ṱunwa nozombanguriro ape ohinga youmba ku dementia mouye auhe."
+  - q: "Otjiṋa tjiṋe tji ṋuna oumba ku dementia tji tji ri otjinanḓengu tjinene?"
+    a: "Movandu mouye auhe, Commission ya tya okuhina okuzuva nawa na LDL cholesterol ondengi pokati komuinyo, atjihe tji ṱunwa nozombanguriro ape 7%, nu kombunda ku ya omahongero omatiti nokukara kokure novandu ape 5% atjihe. Oviṋa mbi ri ovinanḓengu komundu umwe vi zikamena kouveruke we, ku nao ndokotera oye omuhongore omusemba."
+  - q: "Oviṋa vivari ovipe vya wezirwa mo 2024?"
+    a: "Ii. Ombuze ndji ya 2024 ya weza LDL (cholesterol ombi) ondengi pokati komuinyo nokuhina okuverukirwa omeho moukurundu koviṋa 12 mbya hungirirwe mo 2020. Commission ya vi ṱunu nozombanguriro ape 7% na 2% nḓa tewa."
+  - q: "Ozombura otjiṋa tji tji yenena okurundururwa?"
+    a: "Kako. Ozombura otjo otjiṋa otjinene tji tji tjiukwa tji tji ṋuna oumba ku Alzheimer, nu ka tji yenene okurundururwa. Ozondekurona wina ze noumune. Oviṋa mbi 14 morupa ndwi ovyo mbi ongondononeno tji i tya mavi yenene okurundururwa."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,129 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Otjiṋa tji tji ṋuna oumba otjiṋa tji tji ṱunwa nombango yokumuna oumba
+okukara noumba wotjiponga. Katji nombango moruveze aruhe, nu okukara natjo
+kaku hee kutja mo munu oumba ku dementia. Orupa ndwi ru tjaera oviṋa 14 mbi
+ṋuna oumba ku dementia, Lancet Commission tja 2024 tji ya tya mavi yenene
+okurundururwa, imbi ongondononeno tji i vi ṱunu na vyo, na imbi mo yenene
+okuhungira kuna ndokotera.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Tji mo vanga okutjiwa ovingi, pamwe na imbi omakonḓononeno omanene tji ya
+muna, uta na
+[Hapo oumba ku dementia mau yenene okutjaerwa? Imbi ongondononeno tji i tja](/brain-health/can-dementia-be-prevented/).
+Indji ondjiviro yokehi, kayondunge ya ndokotera; tara
+[omaraisiro wetu wondunge youveruke](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Oviṋa 14 mbi ṋuna oumba ku dementia ovikwaye?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Lancet Commission tja 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+ndja tjangerwe i ovakonḓonone 27 voumba ku dementia, ya tya oviṋa 14 mbi ṋuna
+oumba mbi mavi yenene okurundururwa pamwe vi ṱunwa nozombanguriro ape 45%
+youmba ku dementia mouye auhe. Omutengo motjiṋa atjihe kehi omungatukiro wa
+Commission worupa rwoumba mouye auhe ndu ṱunwa natjo, rwa ṱunwa mozonomero
+ozondjandje. Ozonomero nḓa maze ṱunu kumwe, mena rokutja ovandu ovengi ve
+noviṋa ovingi mbi ṋuna oumba poruveze rumwe, ku nao maze kahuruka 45% pendje
+nokombanda.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Otjiṋa tji tji ṋuna oumba | Oruveze rwomuinyo | Orupa rwoumba | Imbi ongondononeno tji i ṱunu | Imbi mo yenene okutjita |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Omahongero omatiti | Moutanda | 5% | Ozombura ozonḓiṱi mosikore ze ṱunwa noumba ounene. Okukara nomeripura omatenga pokati komuinyo wina ku munika aayo ku yama, nandarire kovandu mba hongere okaṱiṱi. | Kayende komurungu okurihonga nokutjita oviṋa mbi ungurisa ombango mozombura azehe: okuresa, oviṋa mbi vanga, ozoklasa, nomitjoto punga ovandu varwe. |
+| Okuhina okuzuva nawa | Pokati komuinyo | 7% | Okuhina okuzuva nawa ku hi na verukirwe ku ṱunwa noumba ounene. Omakonḓononeno nge kongorera ovandu oruveze orure ye ṱunu okuungurisa ovitjivikise vyokuzuva noumba outiṱi. | Tarera okuzuva koye. Pura kutja ovitjivikise vyokuzuva mavi yenene okuvatera, nu u vi zare tji wa pewa. Yama omatwi komunduvo omunene. |
+| LDL cholesterol ondengi | Pokati komuinyo (okuza kozombura ape 40) | 7% | LDL cholesterol („ombi“) ondengi pokati komuinyo i ṱunwa noumba ounene. Omakonḓononeno womeritjindiro ye ṱunu okuungurisa statins noumba outiṱi, posiṋa omarorero moukurundu kaya raisire nao. | Pura ndokotera woye kutja cholesterol yoye mai sokutarewa nokutja u sokutjita tjike, tji pe notjiṋa. |
+| Oruhoze | Pokati komuinyo | 3% | Oruhoze ru ṱunwa noumba ounene. Moukurundu, oruhoze wina maru yenene okukara otjiraisiro otjitenga toumba ku dementia. | Raera ndokotera ohunga noruhoze poo okuhina onḓero moviṋa mbi kapita omavike yevari. Oruhoze maru verurwa. |
+| Okuhihamisiwa motjiuru | Pokati komuinyo | 3% | Okuhihamisiwa motjiuru mozombura azehe na mu ngamwa, pamwe nomitjoto vyokuritona, ku ṱunwa noumba ounene. | Zara otjiyama tjotjiuru tji mo hingi okambasikela poo motjotjotjitono. Pura ohunga nokutjaera okuwira. Suva nu u katarawe tji wa hihamisiwa motjiuru. |
+| Okuhina okuungura nomutu | Pokati komuinyo | 2% | Ovandu mbe ungura nomutu nu mbe nyanda omitjoto kave munu oumba ku dementia tjinene. Oumbangi womarorero ngamba u ri outiṱi. | Pura kutja omiano viṋe vyokuungura nomutu omisemba kove, nu u toorore tji u tjaterwa. Tara [omuhunga wetu wokuungura nomutu](/brain-health/exercise/). |
+| Ouveri wosuuka | Pokati komuinyo | 2% | Ouveri wosuuka, tjinene tji wa uta pokati komuinyo poo tji wa kara orure, u ṱunwa noumba ounene. | Tarisa osuuka yombinḓu. Tji u nouveri wosuuka, ungura pamwe notjimbumba tjovaveruke tji tji ku tjevera okukahuura nawa. |
+| Okunyosa omakaya | Pokati komuinyo | 2% | Okunyosa omakaya ku ṱunwa noumba ounene. Omakonḓononeno ye muna kutja imba mba isa okunyosa kave noumba mbu kurira pombanda tjimuna imba mbe kayenda komurungu okunyosa. | Pura ohunga nombatero yokwisa. Okukwisa ku ri nawa mozombura azehe. |
+| Ombinḓu ondengi | Pokati komuinyo | 2% | Ombinḓu ondengi pokati komuinyo i ṱunwa noumba ounene. Omarorero womiti vyombinḓu ye raisa oumba outiṱi ku dementia poo kouzeu wombango. | Tjiwa ozonomero zoye. Commission i tja onomero yokombanda mai rire 130 poo kehi okuza kozombura ape 40; pura kutja ondando iṋe ndji ku sere. |
+| Ounene womutu | Pokati komuinyo | 1% | Ounene womutu pokati komuinyo u ṱunwa noumba ounene, nu wina u kurisa oumba wouveri wosuuka. | Pura ndokotera woye ohunga noundjandje womutu omusemba kove. Ovakurundu kave sokuripandjara ondjandje nokuhinokurya nokuhinondunge ya ndokotera. |
+| Okunwa omanuwa omengi | Pokati komuinyo | 1% | Okunwa omanuwa omengi tjinene ku ṱunwa noumba ounene. Okutjaera okunwa tjinene ku ṱunwa noumba outiṱi. | Pura kutja omuano omusemba wokunwa kove ouṋe, tjinene nomiti vyoye. |
+| Okukara kokure novandu | Moukurundu | 5% | Okutjita ovipuka novandu potuṱiṱi ku ṱunwa noumba ounene. | Kara pokati novandu momiano mbi u tjaterwa. Tara [omuhunga wetu wokukara novandu](/brain-health/social-connection/). |
+| Ombepo ndji ha kohoke nawa | Moukurundu | 3% | Okukara nombepo ndji ha kohoke nawa ku ṱunwa noumba ounene. Omakonḓononeno ye ṱunu ombepo ombwa noumba outiṱi. | Otjingi otjiṋa tjoveta novitjitwa vyotjiwaṋa. Tara omaraisiro wombepo motjirongo tjoye nu u ṱune oruveze pendje momayuva ngu nombepo ombi tjinene. |
+| Okuhina okuverukirwa omeho | Moukurundu | 2% | Ouzeu womeho mbu hi na verukirwe u ṱunwa noumba ounene. Ekonḓononeno rimwe enene mo Amerika ra ṱunu okuverurwa kwomeho (cataract) noumba outiṱi. | Kara nomakonḓononeno womeho aruhe. Pura kutja ouzeu tjimuna cataract mau yenene okuverurwa. |
 
-## How should I read these percentages?
+## Me sokuresa vi ozonomero nḓa?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Nombango. Ombuze ya Commission oveni i hungira oviṋa tjiva mbi ri nawa okuṱakamisa:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Ze hungira ovandu ovengi, kave hungire omundu umwe.** [Eṱunḓu ra University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  ri tja okutjaera oumba ku ungura movandu ovengi nu kaku raisa kutja omundu
+  ngamwa ma yenene okurira oumba ku dementia.
+- **Ze kambura kutja pe nombango.** Ovatjange va toorora oviṋa mbi nombangi ndji
+  zezenga, posiṋa ve tja omatunino tjiva mape ya aye kara omatiti uriri.
+- **Ozo ozonomero zouye auhe.** Ozondjiviro ozengi ze za moviwaṋa mbi nouini
+  ounene, nu orupa rwakatjotjiri motjirongo poo motjivaro tjimwe maru panguka.
+- **Ozonomero ozonḓiṱi wina maze hepa.** Otjiṋa tji tji ṱunwa nozombanguriro 2%
+  mouye auhe ngamba tji ṱuna ovandu ovengi tjinene.
 
-## Which risk factors were added in 2024?
+## Oviṋa viṋe mbi ṋuna oumba mbya wezirwa mo 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Ombuze ndji ya 2024 ya weza oviṋa vivari koviṋa 12 mbya hungirirwe mo 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **LDL cholesterol ondengi pokati komuinyo**, ndji ṱunwa nozombanguriro ape 7%.
+- **Okuhina okuverukirwa omeho moukurundu**, ndji ṱunwa nozombanguriro ape 2%.
 
-## What risk factors cannot be changed?
+## Oviṋa viṋe mbi ṋuna oumba mbi hi nokuyenena okurundururwa?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging i tja
+[ozombura otjo otjiṋa otjinene tji tji tjiukwa tji tji ṋuna oumba ku Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+nu kape nomundu ngu ma yenene okuze rundurura. Ozondekurona wina ze noumune;
+ondekurona imwe ndji tjiukwa ndji ṋuna ko oumba ku Alzheimer i isanewa APOE.
+NIA i weza ko kutja ovakonḓonone ngamba kave nokuuzuvarisa nawa kutja otjikwaye
+tji tji eta Alzheimer movandu ovengi. Lancet Commission i tja oumba mbu mavi
+yenene okurundururwa mau yenene okutjaerwa, kutja omundu u noumba uṋe
+wozondekurona.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Mena rokutja ozombura nozondekurona ze noumune ounene, ovandu ovengi mbe hi
+noviṋa mbi 14 mbi ṋuna oumba wina ve muna oumba ku dementia. Ihi katji
+noutiriro womundu.
 
-## What does the trial evidence say about changing these risks?
+## Ombangi yomarorero mai tja tjike ohunga nokurundurura oviṋa mbi?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Okutuna otjiṋa tji tji ṋuna oumba ku dementia katjiṋa tjimwe nokuraisa kutja
+okutji rundurura ku tjaera oumba ku dementia. Otutenga tuṱiṱi twoumbangi
+womarorero:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Ombinḓu.** Mororero wa SPRINT MIND, ondando yombinḓu ondikona ya tjaera
+  nawa ouzeu outiṱi wombango. Kaya tjaerere nawa oumba ku dementia, nandaku
+  ororero maru ya aru ri oruṱiṱi okuraisa nao
+  ([SPRINT MIND mu JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Ovitjivikise vyokuzuva.** Lancet Commission i hungira ororero rwovitjivikise
+  vyokuzuva rwouzombura vutatu ndu hi na raisire otjiṋa movandu avehe ohunga
+  nomeripura, posiṋa rwa raisa ouwa motjimbumba tjovandu mbe noumba ounene.
+  Omakonḓononeno nge kongorera ovandu oruveze orure ye ṱunu okuungurisa
+  ovitjivikise vyokuzuva noumba outiṱi. [Omuhunga wetu wokuzuva](/brain-health/hearing/)
+  u nombutiro ovingi.
+- **Okuungura nomutu.** National Institute on Aging i tja kape nombangi ndji ya
+  yenene okuza momarorero yokutya okuungura nomutu ku yenena okutjaera poo
+  okutjaera ouzeu outiṱi wombango poo Alzheimer, nandaku omakonḓononeno tjiva
+  ye tya ku yenena okuvatera norundurukiro yombango ndji etwa nozombura
+  ([NIA ohunga nokutjaera Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Omarorero omare ngu undja kutja oumba ku dementia u munike ye kara orure nu
+omakukutu, ku nao moviṋa ovingi ombangi ombwa mai kayenda komurungu okuza
+komakonḓononeno nge kongorera ovandu ozombura. Ombangi ndjo i ri nawa, posiṋa
+kai nomasa tjimuna ororero.
 
-## What about sleep and diet?
+## Hapo omaraṋeno novikurya vi ri vi?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Commission ya konḓonona omaraṋeno novikurya, posiṋa kaya vi weza koruteto,
+mena rokutja ombangi kaya ri nomasa poo kaya ri pamwe. Omihunga vyetu ohunga
+n[omaraṋeno](/brain-health/sleep/) n[ovikurya](/brain-health/diet/) vi kahurura
+imbi mbi tjiukwa.
 
-## Talk with a doctor
+## Hungira kuna ndokotera
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Omakonḓononeno wouveruke wombura aihe oruveze oruwa okupendura oviṋa mbi. Mo
+yenene okutoora oruteto ndwi nu u pure:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Ozonomero zandje zombinḓu, zosuuka nozolesterol ze ri vi, nu pe nozondji
+  nḓu maze hepa okutjeverwa?
+- Me sokutara okuzuva kwandje nomeho wandje?
+- Oungure wandje womutu omusemba nu u yenene kwami?
+- Pe nomiti vyandje mbi mavi yenene okuṱuna kombango poo komeripura?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Ngunda au hiya rundurura omiti, ovikurya, okuripandjara ondjandje nokuhinokurya,
+okuungura nomutu poo ovitjangwa vyokuwedzera, hungira kuna ndokotera rutenga.
+Tji ove poo omundu ngu mo tjevere ma munu omapirukiro wombango tjimanga,
+oungundi morupa rumwe rwomutu, poo ouzeu wokuhungira, isana 10111.

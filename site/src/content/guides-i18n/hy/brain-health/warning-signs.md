@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Դեմենցիայի վաղ նշանները և երբ դիմել բժշկի"
+seoTitle: "Դեմենցիայի վաղ նշանները և երբ դիմել բժշկի"
+description: "Դեմենցիայի վաղ նշանները, ինչպես են դրանք տարբերվում ծերացումից, հիշողության խնդիրների բուժելի պատճառները և ինչպես պատրաստվել բժշկի այցին։"
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Հիշողության կորուստը, որը խանգարում է առօրյա կյանքին, դժվարությունը ծանոթ գործերում,
+  շփոթությունը ժամանակի կամ տեղի շուրջ, և տրամադրության կամ դատողության փոփոխությունները
+  կարող են լինել դեմենցիայի վաղ նշաններ։ Շատ այլ վիճակներ, այդ թվում վահանաձև գեղձի խնդիրները,
+  վիտամին B12-ի պակասը, դեղերի կողմնակի ազդեցությունները, դեպրեսիան և քնի խնդիրները, կարող են
+  առաջացնել նման փոփոխություններ։ Միայն որակավորված կլինիցիստը կարող է ախտորոշել։ Հանկարծակի
+  շփոթությունը հրատապ բուժօգնություն է պահանջում։
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Տարիքի հետ մոռացկոտությունը երբեմն սովորական է. արժե ստուգել այն փոփոխությունները, որոնք խանգարում են առօրյա կյանքին։"
+  - "Alzheimer's Association-ը նկարագրում է 10 նախազգուշական նշան, որոնցից յուրաքանչյուրը զուգորդված է տարիքային սովորական փոփոխության հետ՝ համեմատելու համար։"
+  - "Վահանաձև գեղձի խնդիրները, վիտամին B12-ի պակասը, դեղերի կողմնակի ազդեցությունները, դեպրեսիան, վարակները և քնի խնդիրները կարող են ազդել հիշողության վրա, և դրանցից մի քանիսը բուժելի են։"
+  - "Միայն որակավորված կլինիցիստը կարող է ախտորոշել դեմենցիան. առցանց թեստերն ու ինքնաստուգումները չեն կարող։"
+  - "Շփոթությունը, որն առաջանում է հանկարծ՝ ժամերի կամ օրերի ընթացքում, կարող է լինել դելիրիում և հրատապ բժշկական օգնություն է պահանջում։"
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Մոռացկոտությունը ծերացման նորմա՞լ մասն է։"
+    a: "Որոշ չափով այո։ National Institute on Aging-ը նշում է, որ երբեմն իրերը տեղը չդնելը կամ հաշիվ մոռանալը սովորաբար թեթև, տարիքային մոռացկոտություն է։ Դեմենցիան ծերացման նորմալ մասը չէ։ Հիշողության խնդիրները, որոնք դժվարացնում են առօրյա գործերը, ինչպես մեքենա վարելը, հեռախոս օգտագործելը կամ տուն ճանապարհը գտնելը, արժե ստուգել բժշկի հետ։"
+  - q: "Կարո՞ղ են հիշողության խնդիրների պատճառը լինել դեմենցիայից բացի այլ բան։"
+    a: "Այո։ National Institute on Aging-ը թվարկում է վահանաձև գեղձի, երիկամների կամ լյարդի խնդիրներ, դեղերի կողմնակի ազդեցություններ, դեպրեսիա և անհանգստություն, վիտամին B12-ի պակաս, ալկոհոլի չարաշահում, քնի խնդիրներ, վարակներ և գլխի վնասվածքներ, ի թիվս այլոց։ Դրանցից մի քանիսը լավանում են բուժումից հետո, ինչը բժշկական ստուգման կարևորության պատճառներից մեկն է։"
+  - q: "Կարո՞ղ եմ տանը թեստավորել ինչ-որ մեկին դեմենցիայի համար։"
+    a: "Ոչ։ Միայն որակավորված կլինիցիստը կարող է ախտորոշել դեմենցիան՝ օգտագործելով բժշկական պատմությունը, ֆիզիկական զննումը, հիշողության և մտածողության թեստերը, լաբորատոր թեստերը և երբեմն ուղեղի սկանավորումները։ Նույնիսկ բժիշկների օգտագործած կարճ թեստերը ինքնուրույն բավարար չեն դեմենցիան ախտորոշելու համար։"
+  - q: "Ի՞նչ անել, եթե ինչ-որ մեկը հանկարծ շփոթվում է։"
+    a: "Անմիջապես բժշկական օգնություն ստացեք։ Հանկարծակի շփոթությունը կարող է լինել դելիրիում, որը VA-ն նկարագրում է որպես բժշկական արտակարգ իրավիճակ։ Միանգամից զանգահարեք անձի բուժաշխատողին կամ զանգահարեք 112, մնացեք նրա հետ և գրի առեք նրա ընդունած դեղերը։"
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Ձեր սեփական հիշողության մեջ, կամ ձեր սիրելի մարդու մոտ փոփոխություններ նկատելը կարող է վախեցնող լինել։ Այս էջը կարող է օգնել ձեզ որոշել, թե երբ դիմել բժշկի և ինչպես պատրաստվել դրան։ Այն չի կարող ասել՝ արդյոք ինչ-որ մեկի մոտ դեմենցիա կա։ **Միայն որակավորված կլինիցիստը կարող է ախտորոշել դեմենցիան**, և հիշողության խնդիրներ առաջացնող շատ վիճակներ ընդհանրապես դեմենցիա չեն։ Խնդրում ենք չհիմնվել առցանց թեստերի կամ ինքնաստուգումների վրա։
 
-## What are the early signs of dementia?
+## Որո՞նք են դեմենցիայի վաղ նշանները։
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs)-ը նկարագրում է 10 վաղ նշան։ Այն յուրաքանչյուրը զուգորդում է տարիքային բնորոշ փոփոխության հետ՝ համեմատելու համար։ Մեր բառերով.
 
-| Sign worth checking | More typical with age |
+| Ստուգման արժանի նշան | Ավելի բնորոշ տարիքի հետ |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Հիշողության կորուստ, որը խանգարում է առօրյա կյանքին, օրինակ՝ վերջին իրադարձությունները մոռանալը կամ նույն բանը նորից ու նորից հարցնելը | Երբեմն անուն կամ հանդիպում մոռանալը և ավելի ուշ հիշելը |
+| Դժվարություն պլանավորելիս կամ խնդիրներ լուծելիս, օրինակ՝ ծանոթ բաղադրատոմսին հետևելը կամ հաշիվներին հետևելը | Երբեմն սխալ տնային հաշիվների հարցում |
+| Դժվարություն ծանոթ գործերը տանը, աշխատանքում կամ դրսում ավարտելիս | Ժամանակ առ ժամանակ օգնության կարիք միկրոալիքային վառարանի կարգավորման կամ հեռուստահաղորդում ձայնագրելու հարցում |
+| Ամսաթվերի, եղանակների կամ գտնվելու վայրի մոռացում | Շաբաթվա օրը սխալ ասելը, ապա ինքնուրույն ուղղելը |
+| Նոր դժվարություն հեռավորությունը գնահատելիս, կարդալիս կամ գույները տարբերելիս | Կատարակտայից առաջացած տեսողության փոփոխություններ |
+| Նոր խնդիրներ բառերով, օրինակ՝ զրույցի կեսին կանգ առնելը կամ իրերը սխալ անունով կոչելը | Երբեմն հարմար բառը գտնելու դժվարություն |
+| Իրերը անսովոր տեղերում դնելը և քայլերը հետ չգնալ կարողանալը | Ժամանակ առ ժամանակ իրերը տեղը չդնելը և քայլերը հետ գնալով դրանք գտնելը |
+| Վատ դատողություն, օրինակ՝ փողի կամ անձնական խնամքի հարցում | Երբեմն վատ որոշում կայացնելը |
+| Հոբբիներից, աշխատանքից կամ սոցիալական գործունեությունից հեռանալը | Երբեմն ընտանեկան կամ սոցիալական միջոցառման չուզենալը |
+| Տրամադրության կամ անհատականության փոփոխություններ, օրինակ՝ շփոթված, կասկածամիտ, վախեցած կամ անհանգիստ դառնալը | Ունենալ սեփական սովորություններ և գրգռվել, երբ ռեժիմը խախտվում է |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Մեկ նշանը ինքնին չի նշանակում դեմենցիա։ Խոսքը **տվյալ մարդու համար նորմայից տարբերվող փոփոխության** մասին է, հատկապես այն, ինչը դժվարացնում է առօրյա կյանքը։
 
-## How is normal aging different from dementia?
+## Ինչո՞վ է նորմալ ծերացումը տարբերվում դեմենցիայից։
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging)-ը նշում է, որ շատ տարեց մարդիկ նկատում են, որ ավելի դանդաղ են հիշում, կամ երբեմն իրերը տեղը չեն դնում կամ հաշիվ են մոռանում։ Սրանք սովորաբար թեթև մոռացկոտության նշաններ են։ **Դեմենցիան ծերացման նորմալ մասը չէ։** Հիշողության լուրջ խնդիրները դժվարացնում են առօրյա գործողությունները, ինչպես մեքենա վարելը, հեռախոս օգտագործելը կամ տուն ճանապարհը գտնելը։
 
-The NIA suggests talking with a doctor if someone:
+NIA-ն առաջարկում է խոսել բժշկի հետ, եթե ինչ-որ մեկը.
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Նույն հարցերը կրկին ու կրկին է տալիս
+- Մոլորվում է այն վայրերում, որոնք լավ էր ճանաչում
+- Դժվարությամբ է հետևում բաղադրատոմսերին կամ ցուցումներին
+- Ավելի շփոթված է դառնում ժամանակի, մարդկանց և վայրերի շուրջ
+- Դադարում է հոգալ իր մասին, օրինակ՝ վատ է սնվում, չի լողանում կամ վտանգավոր է վարվում
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Որոշ մարդկանց մոտ լինում է **թեթև ճանաչողական խանգարում (MCI)**։ Դա նշանակում է ավելի շատ հիշողության կամ մտածողության խնդիրներ, քան իրենց տարիքի մյուսների մոտ, մինչդեռ նրանք դեռ հաղթահարում են առօրյա կյանքը։ NIA-ն նշում է, որ MCI-ն կարող է լինել Alzheimer-ի վաղ նշան, սակայն ոչ բոլորի մոտ, ով ունի MCI, այն զարգանում է։
 
-## What else can cause memory problems?
+## Էլ ի՞նչը կարող է առաջացնել հիշողության խնդիրներ։
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Շատ բաներ, բացի դեմենցիայից, կարող են ազդել հիշողության վրա, և դրանցից մի քանիսը լավանում են բուժման արդյունքում։ NIA-ն թվարկում է.
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Վահանաձև գեղձի, երիկամների կամ լյարդի խնդիրներ**
+- **Դեղերի կողմնակի ազդեցություններ**
+- **Դեպրեսիա և անհանգստություն**
+- **Վիտամին B12-ի պակաս** կամ առողջ սննդի անբավարար օգտագործում
+- **Քնի խնդիրներ**
+- **Ալկոհոլի կամ թմրանյութերի չարաշահում**
+- **Վարակներ, արյան մակարդուկներ կամ ուռուցքներ** ուղեղում
+- **Գլխի վնասվածք**, օրինակ՝ ուղեղի ցնցում
+- **Ուժեղ սթրես կամ վիշտ**, օրինակ՝ թոշակի անցնելը կամ ամուսնու կորուստը
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Լսողության և տեսողության խնդիրները նույնպես կարող են շփոթության տեղ ընդունվել. տե՛ս մեր [լսողության ուղեցույցը](/brain-health/hearing/)։ Ահա թե ինչու բժշկական ստուգումը կարևոր է։ Ըստ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)-ի՝ բժիշկները հաճախ արյան անալիզ են նշանակում՝ ստուգելու վահանաձև գեղձի խնդիրները, վիտամինների անբավարարությունը և վարակը։ Լավ [քունը](/brain-health/sleep/) և դեպրեսիայի բուժումը նույնպես արժե բարձրացնել։
 
-## Sudden confusion is an emergency
+## Հանկարծակի շփոթությունը արտակարգ իրավիճակ է
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Շփոթությունը, որն առաջանում է արագ՝ ժամերի կամ օրերի ընթացքում, հրատապ բժշկական օգնություն է պահանջում։** Այն կարող է լինել դելիրիում։ [VA-ն դելիրիումը նկարագրում է](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) որպես բժշկական արտակարգ իրավիճակ և խորհուրդ է տալիս անմիջապես զանգահարել անձի բուժաշխատողին կամ զանգահարել 112: Նշանները ներառում են.
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Պարզ մտածելու ունակության վերելքներ ու անկումներ
+- Ուշադրություն դարձնելու դժվարություն
+- Չկազմակերպված մտածողություն
+- Անսովոր քնկոտ լինելը, կամ անսովոր անհանգիստ ու գրգռված լինելը
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Սա կարող է պատահել ցանկացած մեկի հետ, այդ թվում՝ մարդկանց, ովքեր արդեն ապրում են դեմենցիայով։ Ըստ [NHS](https://www.nhs.uk/symptoms/confusion/)-ի՝ հաճախ հանդիպող պատճառներից են վարակները (միզուղիների վարակները սովորական են տարեց մարդկանց և դեմենցիա ունեցող մարդկանց մոտ), կաթվածը, արյան ցածր շաքարը շաքարախտ ունեցող մարդկանց մոտ, գլխի վնասվածքը և որոշ դեղեր։ Մինչ օգնության սպասում եք, մնացեք անձի մոտ և հանգստացրեք նրան կարճ, պարզ բառերով։ Շատ հարցեր մի տվեք և գրի առեք նրա ընդունած դեղերը։
 
-## How do I prepare for the doctor's appointment?
+## Ինչպե՞ս պատրաստվել բժշկի այցին։
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Լավ այցը սկսվում է լավ գրառումներից։ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)-ը առաջարկում է բերել.
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Փոփոխությունների ցանկ** հիշողության, տրամադրության և վարքի մեջ՝ կոնկրետ օրինակներով և մոտավորապես, թե երբ են սկսվել
+2. **Անցյալ և ներկա առողջական խնդիրներ**, ներառյալ հիշողության խնդիրների ցանկացած ընտանեկան պատմություն
+3. **Բոլոր դեղատոմսով և առանց դեղատոմսի դեղերը**
+4. **Ցանկացած վիտամին կամ հավելում**
+5. **Ձեր հարցերը**, օրինակ՝ ինչ թեստեր կարվեն, որքան ժամանակ կտևեն և երբ կգան արդյունքները
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Օգտակար է նաև բերել ընտանիքի անդամի կամ ընկերոջ, ով լավ է ճանաչում անձին։ [NIA-ն բացատրում է](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), որ բժիշկները կարող են թե՛ անձից, թե՛ ընտանիքի անդամից հարցնել առողջության, դեղերի, առօրյա գործունեության և վարքի փոփոխությունների մասին։ Բժիշկները կարող են նաև.
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Անցկացնել թեստեր հիշողության, խնդիրներ լուծելու, ուշադրության, հաշվելու և լեզվի վերաբերյալ
+- Նշանակել արյան, մեզի և այլ թեստեր՝ այլ պատճառներ որոնելու համար
+- Ստուգել դեպրեսիան կամ այլ հոգեկան առողջության վիճակներ
+- Նշանակել ուղեղի սկանավորումներ, ինչպիսիք են CT կամ MRI
+- Ուղեգրել մասնագետի, օրինակ՝ գերիատր, նյարդաբան, գերիատրիկ հոգեբույժ կամ նյարդահոգեբան
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA-ն նշում է, որ ճանաչողական գնահատումը Medicare-ի տարեկան կանխարգելիչ այցի (Annual Wellness Visit) պարտադիր մասն է, ինչը կարող է բնական պահ լինել մտահոգությունները բարձրացնելու համար։ Նույնիսկ բժիշկների օգտագործած կարճ թեստերը ինքնուրույն բավարար չեն դեմենցիան ախտորոշելու համար։ Դրանք առաջին քայլն են դեպի ավելի ամբողջական գնահատում, և ախտորոշումը կարող է մեկից ավելի այց պահանջել։ NIA-ն խորհուրդ է տալիս, որ հիշողության խնդիրներ ունեցող մարդիկ վերադառնան բժշկի ամեն 6-12 ամիսը մեկ։
 
-## Raising the subject kindly
+## Թեման նրբանկատորեն բարձրացնելը
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Եթե անհանգստանում եք մեկ ուրիշի համար, ընտրեք հանգիստ, առանձին պահ։ Խոսեք կոնկրետ բաների մասին, որ նկատել եք, ներկայացնելով դա որպես նրա առողջության հանդեպ մտահոգություն, այլ ոչ թե քննադատություն։ Ընդհանուր բժշկական ստուգում առաջարկելը կարող է ավելի քիչ տագնապահարույց թվալ։ Ներառեք անձին որոշումների մեջ և խոսեք նրա հետ որպես չափահասի։ Մեր [շփման խորհուրդները](/caregiving/communication-tips/) կարող են օգնել։
 
-## Talk with a doctor
+## Խոսեք բժշկի հետ
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Եթե նկատում եք հիշողության, մտածողության, տրամադրության կամ առօրյա ունակությունների փոփոխություններ, որոնք նոր են և շարունակվում են, գրանցվեք առաջնային բուժօգնության բժշկի մոտ։ Հանկարծակի շփոթության դեպքում անմիջապես զանգահարեք 112 կամ անձի բուժաշխատողին։ Վաղ ստուգումը նշանակում է, որ բուժելի պատճառները կարող են հայտնաբերվել, և, եթե դա դեմենցիա է, ավելի շատ ժամանակ կա պլանավորելու և աջակցություն գտնելու համար։ Հոգ տարեք նաև ձեր մասին այս ընթացքում. տե՛ս մեր [խնամողի ինքնախնամքի ուղեցույցը](/caregiving/caregiver-self-care/)։
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Այս էջը ընդհանուր տեղեկատվություն է, ոչ բժշկական խորհրդատվություն։ Տե՛ս մեր [բժշկական հրաժարումը](/medical-disclaimer/)։
