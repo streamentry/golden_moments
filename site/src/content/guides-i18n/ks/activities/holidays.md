@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "ڈیمنشیا وٲلِس سٔتؠ چھُٹِ ہٕنزٕ سرگرمیاں"
+seoTitle: "ڈیمنشیا ہٕندِ خٲطرٕ چھُٹِ ہٕنزٕ تدبیٖرٕ"
+description: "ڈیمنشیا وٲلِس شخصس سٔتؠ سادٕ چھُٹِ سرگرمیاں: کھین بناون، سجاوٹ، موسیقی، فوٹو تہٕ ویڈیو کال، تہٕ پُرسکون Thanksgiving یا کرسمس منصوبہٕ۔"
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  چھُٹِ تھٲوِو لۄکچار، دۄہس منٛز جلدی تہٕ تَس شخصہٕ سٕندِ معمولی معمولہٕ نکھہٕ۔
+  تِمَن دِیِو اکھ حقیقی تہٕ محفوظ کٲم، مِثلَن میز سجاوُن، سبزِ دُھون، تحفہٕ
+  لپیٹُن یا سجاوٹی چیز لٹکاوُن۔ مانوس موسیقی تہٕ پرٛانِ فوٹو وُچھِو، مہمانَن
+  گۄڈٕ تیار کٔرِو، تہٕ اکھ پُرسکون کمرہٕ تیار تھٲوِو۔ تِیُتھ کٔرِو یُتھ تۄہیہِ
+  آسانی سان ہیٚکہِ، اکھ لۄکچار تہٕ پُرسکون جشن چھُ واریاہ۔
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "اگر شامس پؠٹھ پریشانی عام آسہِ، تیٚلہِ دۄہس منٛز جلدی جشن منٲوِو، مِثلَن دوپہَرُک یا بریک فاسٹُک کھؠن۔"
+  - "حقیقی کٲم پیش کٔرِو: میز سجاوُن، سبزِ دُھون، تحفہٕ لپیٹُن، سجاوٹ کرٕنی یا مِٹھٲی پلیٹَس منٛز تراوٕنی۔"
+  - "مانوس موسیقی، گیت تہٕ پرٛانِ فوٹو البم چھِ موسم بٲگرٲوِتھ گُزارنہٕ خٲطرٕ آسان طریقہٕ۔"
+  - "مہمانَن ؤنِو زِ کیاہ آسہِ توقع، تہٕ تَس شخصس ہٲوِو تِمن مہمانَن ہٕنزٕ فوٹو یِم یِن۔"
+  - "من پسند کمبل یا سویٹر سٕتؠ اکھ پُرسکون کمرہٕ بنٲوِو، تہٕ اکہِ لٹہِ کم مہمان یِنہٕ دِیِو۔"
+  - "کانٛہہ تیٖژ یُس پریشان کرِ، تُلہِ ترٲوِو، مِثلَن تِم سجاوٹی چیزٕ یِم کھؠنس ہِیوٕ باسان چھِ یا واریاہ ٹمٹماوَن واجِن لایٹہٕ۔"
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "ڈیمنشیا وول شخص Thanksgiving پؠٹھ کیاہ ہیٚکہِ کٔرِتھ؟"
+    a: "تِمَن دِیِو اکھ سادٕ، محفوظ کٲم یُس اَز تِہندِ حالتس سٔتؠ میل کھایِ: سبزِ دُھون، کرینبیری ساس ہلٲوُن، میز سجاوُن، نیپکِن تہٕ کرٕنی یا مِٹھٲی پلیٹَس منٛز تراوٕنی۔ پتہٕ وُچھِو پرٛانِ خاندانی فوٹو یا گاوِو مِلتھ مانوس گیت۔ دۄہس منٛز شٲمِل گژُھن چھُ کٲمہِ ہٕندِ نتیجہٕ کھوتہٕ زیٛادٕ اہم۔"
+  - q: "کیاہ اَسہِ وۄنۍ تہِ بڈ خاندانی جمگھٹ کرُن؟"
+    a: "صرف تیٚلہِ ییلہِ یہِ ممکن آسہِ۔ ہیٚوٗ تہٕ شور ہیٚکہِ پریشان کٔرِتھ، امہِ موجوٗب واریاہ خاندان چھِ لۄکچار تہٕ سادٕ جمگھٹ، جلدی کھؠن، یا مہمانَن ہُنٛد لۄکچار لۄکچار گروپن منٛز یُن پسند کران۔ Alzheimer's Association چھُ دیکھ بھال کرن والیَن ہٕنز ہمت افزٲیی کران زِ تِم کرن تِیُتھ یُتھ تِم آسانی تہٕ حفاظت سان ہیٚکن۔"
+  - q: "بہٕ کِتھ کٔنۍ کرٕ تیار تِم خاندانی یِم واریاہ کالہٕ پتہٕ چھِ یِوان؟"
+    a: "یِنہٕ برونٛہہ ؤنِو تِمَن تِم تبدیلی یِم تِم وُچھِتھ ہیکن، تہٕ یِہ زِ یِم چھِ بیماری ہٕندِ وجہ سٔتؠ، نَہ زِ تَس شخصہٕ سٕندِ وجہ سٔتؠ۔ تِمَن ؤنِو زِ نَہ کرن تصحیح یا سوال جواب، اکھ اکھ کٔرِتھ کٔرِن کتھ باتھ، تہٕ جواب دِنہٕ خٲطرٕ دِیِن وقت۔ گۄڈٕ تَس شخصس مہمانَن ہٕنزٕ فوٹو ہاونہِ سٔتؠ تہِ ہیٚکہِ مَدَت مِلِتھ۔"
+  - q: "ڈیمنشیا سٔتؠ روزَن وٲلِس شخصس خٲطرٕ کُس تحفہٕ چھُ موزوں؟"
+    a: "سادٕ، محفوظ چیزٕ یِم تِم وۄنۍ لطف سان ہیٚکن استعمال کٔرِتھ: کانٛہہ من پسند کھؠن، نرم کمبل یا سویٹر، مانوس موسیقی، یا خاندانی فوٹو البم۔ پیچیدٕ الیکٹرانک چیزٕ، اوزار تہٕ مشکل بورڈ گیم ترٲوِو۔ تِمَن تحفہٕ دِنَس منٛز شٲمِل کرُن، مِثلَن تحفہٕ لپیٹُن یا تِہندِ بناومُت کُکی پیک کرُن، یہِ تہِ ہیٚکہِ پانے اکھ تحفہٕ ٲسِتھ۔"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+چھُٹِ ہیٚکن گٔرِم یادٕ واپس انِتھ، تہٕ ہیٚکن شور، ہیٚوٗ تہٕ معمولکِس دۄہس منٛز تبدیلی تہِ انِتھ۔ ڈیمنشیا سٔتؠ روزَن وٲلِس شخصس خٲطرٕ چھِ اکثر بہتر جشن تِمے یِم لۄکچار، آہستہٕ تہٕ تِمن چیزن پؠٹھ بنٲوِتھ آسن یِمَن ہُنٛد تِم وۄنۍ تہِ لطف ہیٚکن تُلِتھ۔ یِم مشورٕ چھِ Thanksgiving، کرسمس، Hanukkah، نوو ؤری تہٕ خاندانی سال گرٕہ خٲطرٕ برابر کارگر۔
 
-## How do I plan a calmer holiday?
+## بہٕ کِتھ کٔنۍ بناوٕ پُرسکون چھُٹِ ہُنٛد دۄہ؟
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+تَس شخصہٕ سٕندِ معمولہٕ پیٚٹھہٕ کٔرِو شروع، تہٕ دۄہُک منصوبہٕ تٔمۍ سٕندِ حسابہٕ بنٲوِو۔ [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) چھُ مشورٕ دِوان زِ جشن دۄہس منٛز جلدی تھٲوِو، تِکیازِ دوپہر بعد تہٕ شامس منٛز چھِ اکثر پریشانی تہٕ بے چینی بڑھان (یَتھ کُنہِ وِزِ sundowning تہِ ونان چھِ)। چھُٹِ ہُنٛد دوپہَرُک یا بریک فاسٹُک کھؠن ہیٚکہِ دِرِ رات کھؠنہٕ کھوتہٕ آسان ٲسِتھ۔
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **یہِ تھٲوِو مناسب اندازس منٛز۔** اکھ لۄکچار، سادٕ جمگھٹ، یا مہمانَن ہُنٛد لۄکچار لۄکچار گروپن منٛز یُن، چھُ اکثر أکِس بھرِ مِزس کھوتہٕ آسان۔
+- **کٲم بٲگراوِو۔** رشتہٕ دارن ؤنِو زِ تِم اَنن کانٛہہ کھؠن، کرن خریدٲری یا ییلہِ تۄہیہِ کھؠن بناوان ٲسِو تیٚلہِ روزن تَس شخصس نکھہٕ۔ صاف صاف ؤنِو زِ کیاہ مَدَت گژِھ۔
+- **سجاوٹ تھٲوِو سادٕ۔** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) چھُ ونان زِ ٹمٹماوَن واجِن لایٹہٕ ہیٚکن پریشان کٔرِٹھی، تہٕ سجاوٹ خٲطرٕ استعمال گژھَن واجِن مِٹھٲی یا بناوٹی میوٕ ہیٚکن کھؠن سمجھنہٕ یِتھ۔
+- **فصلہٕ کٔرِو کیاہ ترٲوُن چھُ۔** اگر کانٛہہ روایت پریشان کُن یا خطرناک بنیومُت چھُ، تیٚلہِ چھُ یہِ ترٲوُن یا کانٛہہ پُرسکون روایت آزمٲوٕنی ٹھیک۔**
 
-## What holiday activities can we do together?
+## أس کیاہ سرگرمیاں ہیکو مِلتھ کٔرِتھ؟
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+تِمے کٲم تہٕ سرگرمیاں چُنو یِم اَز تَس شخصہٕ سٕندِ استطاعتس سٔتؠ میل کھایِن۔ دۄہس منٛز شٲمِل گژُھن چھُ نتیجہٕ کھوتہٕ زیٛادٕ اہم۔
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **مِلتھ کٔرِو میز سجاوُن۔** گۄڈٕ تھٲوِو پلیٹہٕ، پتہٕ نیپکِن، پتہٕ کپ۔ نیپکِن تہٕ کرٕنی چھِ بِہِتھ کرنُک اکھ جان کٲم۔
+2. **سبزِ دُھوِو تہٕ الگ کٔرِو۔** کچن ٹیبلس پؠٹھ آلو دُھون یا پھلیٚاں تُلان چھُ واریاہن تِمن لوٗکن خٲطرٕ محفوظ تہٕ مانوس یِم گۄڈٕ کھؠن بناوان ٲسۍ۔
+3. **ہلٲوِو، رلٲوِو یا پلیٹَس منٛز تھٲوِو۔** کرینبیری ساس ہلٲوُن، سادٕ مِکسچر رلٲوُن یا کُکی پلیٹَس منٛز تراوٕنی چھُ اَتھَن چولہے تہٕ چھریو نِشہِ دوٗر مصروف تھٲوان۔
+4. **تحفہٕ لپیٹِو۔** کاغذ تہٕ ٹیپ گۄڈٕ تیار تھٲوِو، تہٕ تَس شخصس دِیِو تہٕ کرنُک تہٕ ہموار کرنُک موقع۔ صاف لپیٹُن چھُنہٕ مقصد۔
+5. **کینٛہہ سجاوٹی چیزٕ لٹکٲوِو۔** نَہ ٹُوٹَن واجِن سجاوٹی چیزٕ چُنو تہٕ اکھ لۄکُٹ جایِ، مِثلَن اکھ ہار یا اکھ لۄکُٹ کُل۔
+6. **کانٛہہ سادٕ ہتھ کٲم بنٲوِو۔** کاغذٕ زنجیر، پنَن ہُنٛد کولاج یا اسٹیمپہٕ سٔتؠ چھُٹِ ہُنٛد کارڈ چھِ ٹھیک۔ اسان ہٕندِس [فن تہٕ دستکاری ہٕندِس رہنما](/activities/arts-and-crafts/) منٛز چھِ بییہِ مشورٕ۔
+7. **گِیوِو تہٕ بوزِو۔** مانوس چھُٹِ گیتن منٛز چھُ شٲمِل گژُھن آسان، تَس شخصس خٲطرٕ تہِ یُس وۄنۍ کم کتھ باتھ کران آسہِ۔ پلے لسٹ بناونہٕ خٲطرٕ وُچھِو اسون [موسیقی ہُنٛد رہنما](/activities/music/)۔
+8. **پرٛانِ چھُٹِ فوٹو وُچھِو۔** پرٛانِ جشنَن ہٕند البم کٔڈِو تہٕ یادٕ بوزنہٕ خٲطرٕ ؤنِو («مےٚ ؤنِو یَتھ مِزِ مُتلق»)، یہِ پرژھنہٕ بجایِ زِ «یہِ کُس چھُ؟»۔ اسون [یادٕ تازٕ کرنُک رہنما](/activities/reminiscence/) چھُ یِہ واضح کران۔
+9. **کانٛہہ ہلکہٕ گروپی گیم کھیٚلِو۔** [Picture bingo](/games/picture-bingo/) چھُ منٹن منٛز پرنٹ گژھان تہٕ پرٛتھ وٲنِس خٲطرٕ موزوں، تہٕ [conversation cards](/games/conversation-cards/) چھِ پرٛتھ کٲنٛسہِ کتھ باتھ خٲطرٕ کانٛہہ دِوان۔
+10. **مِلتھ کٔرِو رنگ بھرٕنی۔** سادٕ [رنگ بھرنہٕ وٲلؠ صفحہٕ](/games/coloring/) ہیٚکن بٔچَن تہٕ بڑَن خٲطرٕ مِزس پؠٹھ مِلتھ پرنٹ کرنہٕ یِتھ۔
+11. **کانٛہہ من پسند چھُٹِ فلم وُچھِو۔** مانوس فلم چھِ آرام دہ، تہٕ صرف اکھ حصہ وُچھُن تہِ چھُ ٹھیک۔
+12. **لایٹن وُچھنہٕ خٲطرٕ اکھ لۄکچار ڈرایو کٔرِو۔** سجاومُت گرَن نکھہٕ پُرسکون ڈرایو چھُ اکثر کُنہِ بھرِ جایِ ہٕندِ پروگرامہٕ کھوتہٕ آسان۔**
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+اگر تَس شخصہٕ سٕندِ زندگی منٛز کھؠن بناوُن اکھ بڈ حصّہٕ اوس، تیٚلہِ وُچھِو اسون رہنما [گَریلو کٲم بطور سرگرمی](/activities/household-tasks/)، یَتھ منٛز کچن کٲم محفوظ تہٕ اطمینان بخش بناونٕچۍ بییہِ وَتہٕ چھےٚ۔
 
-## How do I prepare guests?
+## بہٕ کِتھ کٔنۍ کرٕ مہمان تیار؟
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+مہمانَن یِنہٕ برونٛہہ ؤنِو کیاہ توقع کرٕنی چھےٚ، خاص کر تِمن رشتہٕ دارن یِم واریاہ کالہٕ پتہٕ یِوان آسن۔ Alzheimer's Association چھُ مشورٕ دِوان زِ سمجھٲوِو زِ یاداشتس تہٕ رَویِس منٛز تبدیلی چھِ بیماری ہٕندِ وجہ سٔتؠ یِوان، نَہ زِ تَس شخصہٕ سٕندِ وجہ سٔتؠ۔
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **کینٛہہ سادٕ مشورٕ بٲگراوِو:** اکھ اکھ کٔرِتھ کٔرِن کتھ باتھ، کتھ مکلاونہٕ خٲطرٕ دِیِن وقت، تصحیح یا سوال جواب مَہ کٔرِن، تہٕ اگر لفظ سمجھنس منٛز دِقت آسہِ تیٚلہِ تَس شخصہٕ سٕندِ لہجہِ کُن دِیِن توجہ۔
+- **ؤنِو کیاہ چھُ مَدَت کران تہٕ کیاہ چھُ پریشان کران۔** اگر تیز آواز، عجلت یا کانٛہہ خاص موضوع پریشانی پٲدٕ کران چھِ، تیٚلہِ ؤنِو یہِ گۄڈٕ۔**
+- **مہمان گۄڈٕ مِلناوِو۔** تَس شخصس ہٲوِو تِمن مہمانَن ہٕنزٕ فوٹو یِم یِن تہٕ ؤنِو اکھ دۄہ کہانی، یا دۄہس برونٛہہ کٔرِو اکھ لۄکچار فون یا ویڈیو کتھ باتھ۔
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+اسان ہٕنز [کتھ باتھ ہٕند مشورٕ](/caregiving/communication-tips/) منٛز چھِ مزید تفصیل۔
 
-## What if it gets to be too much?
+## اگر حالات واریاہ سخت بنن تیٚلہِ کیاہ کرُن؟
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+مہمانَن ہٕندِ یِنہٕ برونٛہہ کٔرِو اکھ پُرسکون کمرہٕ تیار، شور نِشہِ دوٗر، یَتھ منٛز من پسند کمبل، سویٹر یا کانٛہہ سادٕ سرگرمی ہِوۍ مانوس چیزٕ آسن۔ یہِ موقع جلدی تہٕ واریاہ لٹہِ دِیِو: «کیاہ أس کینٛہہ وقتس خٲطرٕ کُنہِ پُرسکون جایِ بہَو؟»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+مِز نِشہِ نیرُن، جلدی بسترَس پؠٹھ گژُھن یا دۄہُک کانٛہہ حصہ ترٲوُن چھُ اکھ جان نتیجہٕ، ناکٲمی نَہ۔ اگر شخص پریشان گژِھہ، تیٚلہِ ہلکہٕ آواز، کانٛہہ مانوس گیت یا بۍِ کمرس کُن نیرِتھ سیر کرُن چھُ اکثر دلیل دِنہٕ کھوتہٕ زیٛادٕ مَدَت کران۔ شامس منز بے چینی خٲطرٕ وُچھِو اسون رہنما [شامس منز بے چینی](/caregiving/late-day-restlessness/)۔
 
-## How can family far away take part?
+## دوٗر روزَن وٲلؠ خاندانی کِتھ کٔنۍ ہیٚکن شٲمِل گژِھتھ؟
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+ویڈیو کالن سٔتؠ ہیٚکن رشتہٕ دار ہیٚوٗ بڑھاونہٕ ورٲے شٲمِل گژِھتھ۔ Alzheimer's Association چھُ مشورٕ دِوان زِ کالن ہُنٛد اکھ لۄکُٹ ڈھانچہٕ آسُن، مِثلَن چھُٹِ گیت مِلتھ گاوُن، پرٛانِ جمگھٹن ہٕنزٕ فوٹو ہاوٕنۍ، اکھے وَزن برابر کھؠن بناوُن یا اکہِ وقتس اکھ چھُٹِ فلم وُچھٕنی۔ کالہٕ تھٲوِو لۄکچار، تہٕ لوٗکن ؤنِو زِ اکھ اکھ کٔرِتھ کرن کتھ باتھ، تِکیازِ واریاہن ہٕنز اکہِ وقت کتھ باتھ سمجھٕنی چھِ مشکل آسان۔ قدم بہ قدم مشورن خٲطرٕ وُچھِو اسون [فون تہٕ ویڈیو کال ہُنٛد رہنما](/activities/phone-and-video-calls/)۔
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+اگر شخص میموری کیر منٛز روزان آسہِ، تیٚلہِ کٔرِو ملاقاتی پالسی ہٕنز تصدیق تہٕ عملہٕ نِشہٕ مٔنگِو مَدَت کال ترتیب دِنَس منٛز۔ کیاہ نِیُن چھُ تہٕ رخصت کِتھ کٔنۍ گژِھہ ہینۍ، امہِ خٲطرٕ وُچھِو اسون رہنما [میموری کیر منٛز ملاقٲت](/activities/visiting/)۔
 
-## What gifts suit someone with dementia?
+## ڈیمنشیا سٔتؠ روزَن وٲلِس شخصس خٲطرٕ کُس تحفہٕ چھُ موزوں؟
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+سادٕ، محفوظ تحفہٕ یِم تِم وۄنۍ لطف سان ہیٚکن استعمال کٔرِتھ، چھِ اکثر بہتر آسان: کانٛہہ من پسند کھؠن، نرم کمبل یا کارڈیگن، مانوس موسیقی، بڈ اَچھرن ہُنٛد کیلنڈر، یا خاندانی فوٹو البم۔ Alzheimer's Association چھُ مشورٕ دِوان زِ خطرناک اوزار، پیچیدٕ الیکٹرانک چیزٕ تہٕ مشکل بورڈ گیم ترٲوِو۔
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+دِیُن ہیٚکہِ تِیوٗتُے اہم ٲسِتھ یُتھ رَٹُن۔ تِہندِ مَدَت سٔتؠ بناومُت کُکی پیک کرُن، یا تِمَن اکھ خریدمُت تحفہٕ لپیٹناوُن، چھُ تِمَن موسمَس منٛز شٲمِل کران۔ خاندانی فوٹو گیم تہِ چھُ اکھ خیال: [photo pairs](/games/photo-pairs/) چھُ کینٛہہ چُنِمُت فوٹو براؤزرس منٛز أکِس ہلکہٕ میچنگ گیمس منٛز بدلٲوان۔
 
-## Look after yourself too
+## پننِس خیالُک تہِ تھٲوِو خَیال
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+چھُٹِ چھِ دیکھ بھال کٔرِتھ وٲلِس شخصس خٲطرٕ بییہِ کٲم ہُران۔ کانٛہہ بییہِ دِیِو میزبان بننُک یا کھؠن بناونُک موقع، تِمن پروگرامَن کٔرِو انکار یِم مشکل آسن، تہٕ ییلہِ باقی لُکھ تَس شخصس نکھہٕ وقت گزاران آسن تیٚلہِ نِیِو آرام۔ اگر تۄہیہِ یا تُہندِ خیالہٕ وول شخص بیمار آسہِ، تیٚلہِ ڈرایوے نِشہِ اَتھ ہلاوُن یا ویڈیو کال تہِ چھِ واریاہ جان ملاقٲت۔ مزید مَدَت خٲطرٕ وُچھِو اسون رہنما [دیکھ بھال کرن والیَن ہُنٛد خیال](/caregiving/caregiver-self-care/)۔

@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "ڈیمنشیا وٲلین بڈَن خٲطرٕ فن تہٕ دستکاری"
+seoTitle: "ڈیمنشیا خٲطرٕ فن: بڈَن خٲطرٕ موزوٗن"
+description: "ڈیمنشیا سٟتؠ روزَن وٲلین بڈَن خٲطرٕ فن تہٕ دستکاری ہٕندؠ سادٕ راے، تیاری، آسان بناون تہٕ عملس پؠٹھ زور دِنَس مُتعلِق مشورٕ۔"
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  ڈیمنشیا سٟتؠ روزَن وٲلین بڈَن خٲطرٕ رٕژ فن تہٕ دستکاری تِمَن چھِ بڈَن ہِندۍ ہِوؠ
+  باسان: واٹر کلر، رسالن ہٕندین تصویرو سٟتؠ کولاج، پوٗشَن ہُنٛد انتِظام، مَٹہِ،
+  سادٕ کارڈ بناوُن یا بڈَن خٲطرٕ رنگ بھرنٕکؠ صفحہٕ۔ کینٛہہ چیزٕ تھٲوِو سامنٕ،
+  اگر ضرورت آسہِ تیٚلہِ گۄڈنِکِس اسٹروکس مَنٛز کٔرِو مَدَتھ، تہٕ کأمس دوران کٔرِو
+  کتھ باتھ۔ سٍتؠ گُزارُن وَقت چھُ اَہَم؛ چیز مُکَمَل گَژھُن چھُ اختیاری۔
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "تِتھ سامان تہٕ موضوع چُنِو یِم بڈَن ہِندۍ ہِوؠ باسان، مِثالَن واٹر کلر کاغذ، اصلی پوٗش تہٕ رسالن ہٕنزٕ تصویٕرٕ، نَہ کِہ چمکدار چیزٕ، سٹِکر یا کارٹونی ورک شیٹ۔"
+  - "عملس پؠٹھ دِیِو توجّہ: رنگ، مَٹہِ ہُنٛد اَحساس، کتھ باتھ۔ مُکَمَل چیز بَنُن چھُ بونس، مَنزِل نَہ۔"
+  - "ییٚلہِ ممکن آسہِ تیٚلہِ دِیِو اَکھ مَقصَد، مِثالَن نَوَس خٲطرٕ کارڈ یا میزِ خٲطرٕ اَکھ سجاوَٹ۔"
+  - "شروعات کرنَس مَنٛز کٔرِو مَدَتھ، پتہٕ ہَٹِو پیٚٹھۍ۔ اَکِس بُرش اسٹروکس سٟتؠ مِلِتھ شروعات کرٕنۍ چھِ اکثر کٲفی۔"
+  - "پروجیکٹ اَکِس سیٚٹِنگس مَنٛز مُکَمَل گَژھُن ضروری چھُنَہ، تہٕ وَقتہٕ برونٛہہ رُکُن چھُ ہمیٚشہٕ ٹھیک۔"
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "بٕہ کِتھہٕ پٲٹھؠ رَکھہٕ دستکاری بَچَن ہِوؠ باسان نِشہِ بَچِتھ؟"
+    a: "اصلی آرٹ سامان، بڈَن ہٕندؠ موضوع تہٕ عزت دار انداز ورتٲوِو۔ چمکدار چیزَن تہٕ کارٹونی صفحَن بدل واٹر کلر کاغذ، کَپُر، پوٗش، رسالن ہٕنزٕ تصویٕرٕ تہٕ تفصیلی رنگ بھرنٕکؠ صفحہٕ ورتٲوِو۔ کأمس ہٕنز تَعرِف تِتھہٕ پٲٹھؠ مَہ کٔرِو یِتھہٕ پٲٹھؠ بَچِہ سٕندِس ڈرایِنگس پؠٹھ کران چھِو؛ تِتھہٕ پٲٹھؠ کٔرِو کتھ یِتھہٕ پٲٹھؠ کُنہِ تہِ بڈِ دوستس سٟتؠ کران چھِو۔"
+  - q: "ڈیمنشیا ہٕندِس پٔتِمِس دَرجَس مَنٛز کٔم آرٹ سرگرمی چھِ موزوٗن؟"
+    a: "پٔتِمِس دَرجَس مَنٛز چھِ سادٕ، حِسی پروجیکٹ زیادٕ ٹھیک: بٔڈِس بُرَش سٟتؠ گۄڈٕ اسٹروک لاگُن، نَرم مَٹہِ دَباوُن، أکِس گُلدانس مَنٛز کینٛہہ پوٗش تھاوُن، یا کَپڑَن ہٕندؠ ٹُکٕرٕ چھونَس مُطٲبِق الگ کرٕنۍ۔ تُہؠ پؠٹھہِ ہیٚکہِ شروعات مَنٛز حرکت سٟتؠ مِلِتھ کرٕنۍ۔ تُہُنٛد پینٹِنگ وُچھُن تہٕ رنگَن پؠٹھ کتھ باتھ کرٕنۍ تہِ چھِ شمولیتُک اَکھ طریقہٕ۔"
+  - q: "اگر تِم وَنن زِ مےٚ چھُنَہ ڈرایِنگ یِوان، تیٚلہِ کیا؟"
+    a: "دَباؤ ہَٹٲوِو۔ تِژٕ سرگرمی آزمٲوِو یِمَن مَنٛز کانٛہہ سہی یا غلط جواب آسہِ نہ، مِثالَن واٹر کلر ہُنٛد ہلکہٕ رنگ، کولاج، یا پوٗشَن ہُنٛد انتِظام۔ تُہؠ ہیٚکِو یہِ تہِ وَنِتھ زِ مےٚ چھُ کُنہِ خاص چیزِ خٲطرٕ تُہٕنز مَدَتھ ضرورتھ، مِثالَن کارڈ خٲطرٕ رنگ چُننَس مَنٛز، یُتھ کٲم امتحان نِشہِ بلکہ اَکھ مَدَتھ ہِوؠ باسی۔"
+  - q: "کیا رنگ بھرنٕکؠ صفحہٕ چھا بڈَن خٲطرٕ واریاہ بَچَن ہِوؠ؟"
+    a: "نَہ، ییٚلہِ تِم بڈَن خٲطرٕ تیار کرنہٕ آمٔتؠ آسن۔ تِم موضوع چُنِو یِم بڈَن خٲطرٕ موزوٗن آسن، مِثالَن باغ، رَزٲی، گاڑِ یا قدرتی منظر، تہٕ تِم پیش کٔرِو آرام خٲطرٕ، نَہ کِہ سبق ہِندِس طورس پؠٹھ۔ سانؠ [رنگ بھرنٕکؠ صفحہٕ](/games/coloring/) چھِ پرِنٹ تہِ کرِتھ ہیٚکان تہٕ ٹیبلیٹَس پؠٹھ تہِ رنگ بھرِتھ ہیٚکان۔"
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+فن تہٕ دستکاری چھِ ڈیمنشیا سٟتؠ روزَن وٲلین لوٗکن پنُن اظہار کرنُک اَکھ وَتھ دِوان، یُس صحیح لفظ لٔبنس پؠٹھ منحصر چھُنَہ۔ Alzheimer's Association چھِ وَنان زِ آرٹ پروجیکٹو سٟتؠ ہیٚکہِ [کامیٲبی تہٕ مَقصَدُک اَحساس](https://www.alz.org/help-support/caregiving/daily-care/art-music) تہٕ پنُن پان ظاہر کرنُک موقہٕ مِلِتھ، دؠکھ بھال کرَن وٲلِس خٲطرٕ تہِ تہٕ ڈیمنشیا وٲلِس شخصس خٲطرٕ تہِ۔ اَہَم چیز چھِ یہِ زِ سارے کینٛہہ روزِ بڈَن ہِندِس اندازس مَنٛز، سادٕ تہٕ بے دَباؤ۔ یَتھ صفحس پؠٹھ چھِ خاص پروجیکٹ، تِم کِتھہٕ پٲٹھؠ تیار کرٕنۍ، تہٕ حالات بدلاوَن سٟتؠ تِم کِتھہٕ پٲٹھؠ موزوٗن بناوٕنۍ۔
 
-## What makes an art activity adult and not childish?
+## آرٹ سرگرمی کٔم چیز چھِ بڈَن خٲطرٕ موزوٗن بناوان، بَچَن خٲطرٕ نَہ؟
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+بڈَن خٲطرٕ موزوٗن آرٹ سرگرمی مَنٛز چھِ اصلی سامان، بڈَن ہٕندؠ موضوع تہٕ عزت دار انداز ورتاونہٕ یِوان۔ Alzheimer's Association چھِ مشورٕ دِوان زِ پروجیکٹ بڈَن ہٕندِس سطحس پؠٹھ تھٲوِو تہٕ تِژٕ کانٛہہ چیز مَہ ورتٲوِو یۄسہٕ بے عزتی یا بَچَن ہِوؠ باسی۔
 
-| Feels childish | Feels adult |
+| بَچَن ہِوؠ باسان | بڈَن ہِوؠ باسان |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| چمکدار چیزٕ، فوم سٹِکر، گُگلی آنکھہٕ | واٹر کلر کاغذ، کَپُر، خشک کرنہٕ آمٔتؠ پوٗش |
+| کارٹونی رنگ بھرنٕکؠ صفحہٕ | باغ، رَزٲی، گاڑِ یا قدرتی منظرَن ہٕندؠ رنگ بھرنٕکؠ صفحہٕ |
+| پرٛتھ نشانَس پؠٹھ "شاباش" ؤنِتھ تَعرِف کرٕنۍ | اصلی کتھ باتھ: "یِہ نیٖل رنگ چھُ سبزِس سٟتؠ واریاہ خوبصورت" |
+| تِژٕ دستکاری یَمِچ کانٛہہ ورتاو نہٕ آسہِ | دوستس خٲطرٕ کارڈ، میزُک سجاوَٹ، اَکھ تحفہٕ |
+| سبق ہِوؠ ہدایت | دَعوَت: "کیا تُہؠ ہیٚکِو یَتھ مَنٛز میون کینٛہہ مَدَتھ کٔرِتھ؟" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+یِمَن سٟتؠ تُہؠ کٲم کران چھِو تِہٕنز پسند تہِ کٔرِو خیال۔ یُس شخص سوٗئی کَڑنس پسند کران آسہِ، سُہ ہیٚکہِ کَپڑَن سٟتؠ کٲم کرُن پسند کٔرِتھ۔ ریٹائرڈ انجینئر ہیٚکہِ بٔڈؠ ٹُکرَن والہِ ماڈل کِٹ یا پروجیکٹ خٲطرٕ سامان الگ کرُن پسند کٔرِتھ۔ سابق استاد ہیٚکہِ کارڈ بناوُن پسند کٔرِتھ۔
 
-## Why focus on the process, not the product?
+## عملس پؠٹھ زور کیازِ دِیُن، نتیجس پؠٹھ نَہ؟
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+تِکیازِ سٍتؠ گُزارُن وَقت چھُ اَہَم۔ Alzheimer's Association ہٕنز [گَرس مَنٛز سرگرمیَن ہٕنز رہنما](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) چھِ وَنان زِ عملس پؠٹھ دِیِو توجّہ، نتیجس پؠٹھ نَہ۔ اگر پینٹِنگ صرف نیٖل آسہِ، تیٚلہِ تہِ چھِ سۄ پینٹِنگ۔ اگر کولاجس مَنٛز ترٛے تصویٕرٕ آسن، تیٚلہِ تہِ چھُ سُہ کولاج۔
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association چھِ یہِ تہِ وَنان زِ اَکھ پیشہ وار فنکار ہیٚکہِ پننِس کأمس مَنٛز تبدیلیو سٟتؠ پریشان گٔژھِتھ، ییٚلہِ زن اَکھ شوقیہ شخص ہیٚکہِ پنُن اظہار کرنُک نٔو موقہٕ پسند کٔرِتھ۔ اگر یِمَن سٟتؠ تُہؠ کٲم کران چھِو تِم ماہر فنکار ٲسؠ، تیٚلہِ تِمَو یَتھ ذرِیعس مَنٛز مہارت حٲصِل کٔرمٕژ ٲس تَمہِ نِشہِ الگ ذرِیعہٕ آزمٲوِو، یُتھ کٲم موازنہٕ نِشہِ بلکہ کھیلن ہِوؠ باسی۔
 
-## Arts and crafts ideas to try
+## آزماؤنہٕ خٲطرٕ فن تہٕ دستکاری ہٕندؠ راے
 
-Each idea includes how to make it simpler if it becomes hard.
+پرٛتھ راے سٟتؠ چھِ یہِ تہِ لیکھِتھ زِ اگر مشکل باسی تیٚلہِ کِتھہٕ پٲٹھؠ آسان بنٲوِو۔
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **واٹر کلر ہٕندؠ ہلکہٕ تہہٕ۔** موٗٹ واٹر کلر کاغذ ترٲوِو تہٕ یِمَن سٟتؠ تُہؠ کٲم کران چھِو تِمَن دِیِو بٔڈِس بُرَش سٟتؠ رنگ تراوَنُک موقہٕ۔ رنگ چھِ پانے پھیٚلان، تِہندِ خٲطرٕ چھُنَہ کانٛہہ غلط نتیجہٕ۔ *زیادٕ آسان:* صرف زٕ رنگ دِیِو، یا گٔٹِس کاغذس پؠٹھ آبہٕ سٟتؠ پینٹ کٔرِو یَتھ پؠٹھ نٔم نشان وُچھِتھ یِوان چھِ۔
+2. **رسالَن ہُنٛد کولاج۔** باغبٲنی، کھؠن بناون، گاڑِن، سیرو سیاحت یا تِہٕنزین پرانین شوقن پؠٹھ رسالن مَنٛزٕ گۄڈے کٔٹِو تصویٕرٕ۔ تِمَن دِیِو کارڈ اسٹاکس پؠٹھ تصویٕرٕ چُننُک تہٕ چِپکاونُک موقہٕ۔ *زیادٕ آسان:* ژور گۄڈے کٔٹِتھ تصویٕرٕ تہٕ اَکھ گلو سٹِک دِیِو، تہٕ چِپکاوُن کٔرِو مِلِتھ۔
+3. **پوٗشَن ہُنٛد انتِظام۔** Alzheimer's Foundation of America چھِ سادٕ موسمی سجاوَٹ خٲطرٕ [کٔٹِتھ پوٗش تہٕ ہریالی تراوُن](https://alzfdn.org/dementia-activity-gardening/) تجویز کران۔ گۄب تہٕ مستحکم گُلدان ورتٲوِو تہٕ ڈنڈہٕ تھٲوِو گۄڈے کٔٹِتھ۔ *زیادٕ آسان:* أکِس لۄکٹس پیالس مَنٛز اَکھ اَکھ کٔرِتھ کینٛہہ ڈنڈہٕ تھٲوِو۔
+4. **خشک پوٗشَن ہٕندؠ کارڈ۔** گُلدستہٕ مَنٛزٕ پوٗش اَکھ ہَفتہٕ کتابِ ہٕندین صفحَن مَنٛز دَبٲوِتھ تھٲوِو، پتہٕ تِم وَلِتھ کارڈ اسٹاکس پؠٹھ چِپکٲوِو۔ *زیادٕ آسان:* تُہؠ لاگِو گلو، تِم دَباوَن پوٗش۔
+5. **بڈَن خٲطرٕ رنگ بھرنٕکؠ صفحہٕ۔** صاف لاینو تہٕ اصلی موضوعو وٲلؠ صفحہٕ چُنِو۔ سانؠ پرِنٹ کرنہٕ یِنہٕ وٲلؠ [رنگ بھرنٕکؠ صفحہٕ](/games/coloring/) ہیٚکن سکرینس پؠٹھ تہِ رنگ دِتھ بھرنہٕ یِتھ، پہلے رنگ چُنِتھ پتہٕ تصویٕر ہُنٛد حِصہٕ چُنِتھ۔ *زیادٕ آسان:* بٔڈ حِصہٕ، کم رنگ، موٗٹ مارکر۔
+6. **مَٹہِ یا نَرم آٹہٕ۔** ہوا ہَس مَنٛز سُکھَن وٲلؠ مَٹہِ یا نَرم ماڈلِنگ آٹہٕ گُنڈِو، دَبٲوِو تہٕ شَکل دِیِو۔ مَٹِہ مَنٛز پَنُک نشان بناوُن چھُ اَکھ سادٕ کٲم۔ *زیادٕ آسان:* صرف دَباوُن تہٕ گُنڈُن تہِ چھِ پوٗرٕ سرگرمی۔ خیال تھٲوِو زِ یِمَن سٟتؠ تُہؠ کٲم کران چھِو تِم مَہ تھٲوِن مَٹہِ مۄنڈِس مَنٛز۔
+7. **کارڈ بناوُن۔** Alzheimer's Association چھِ مشورٕ دِوان زِ یہِ أکِس اصلی کأمِ ہِندِس طورس پؠٹھ پیش کٔرِو: "أسؠ چھِ أکِس دوستس خٲطرٕ صحتیٲبی ہُنٛد کارڈ سوزُن۔ کیا تُہؠ ہیٚکِو مَدَتھ کٔرِتھ؟" گۄڈے کٔٹِتھ کارڈ اسٹاک تہٕ پوٗشَن یا ڈاک ٹِکٹَن ہِوؠ کینٛہہ سٹِکر چھِ ٹھیک۔
+8. **سکریپ بُک بناوُن۔** پرانین تصویرو ہٕنزٕ کاپی، پوسٹ کارڈ یا ٹِکٹَن ہٕندؠ ٹُکٕرٕ مِلِتھ البمس مَنٛز تھٲوِو۔ پرٛتھ أکِس پؠٹھ کٔرِو کتھ باتھ۔ ماضی پؠٹھ نرم طریقہٕ سٟتؠ کتھ باتھ کرنہٕ خٲطرٕ وُچھِو سون [یادَن ہٕنز رہنما](/activities/reminiscence/)۔
+9. **کَپڑٕ تہٕ حِسی بورڈ۔** کورڈرائے، مخمل، ٹاٹ تہٕ ریشم ہٕندؠ ٹُکٕرٕ سخت کارڈس پؠٹھ چِپکٲوِو۔ یہِ بناوُن چھِ سرگرمی؛ پتہٕ یہِ چھونُن چھِ بیاکھ سرگرمی۔ مزید راے چھِ سانِس [حِسی سرگرمیَن ہٕنزِ رہنما](/activities/sensory/) مَنٛز۔
+10. **سادٕ لٔکڑِ ہُنٛد کٲم۔** یُس شخص لٔکڑِ ہُنٛد کٲم پسند کران آسہِ، تٔمِس خٲطرٕ ہیٚکہِ ہموار لٔکڑِ ہُنٛد ٹُکُر رگڑُن یا چڑِی خانہٕ ہٕنز کِٹ رنگاوٕنۍ جانانہٕ بٲسِتھ۔ تیز اوزار ہَٹٲوِو تہٕ نگرٲنی کٔرِو۔
+11. **موسیقی سٟتؠ پینٹِنگ۔** پسندیدٕ ریکارڈ لاگِو تہٕ مَزاجس مُطٲبِق شَکلہٕ یا رنگ بناوِو۔ یَتھ مَنٛز چھِ زٕ تِژٕ سرگرمی مِلان یِم واریاہ لوٗکھ پسند کران چھِ۔ وُچھِو [موسیقی سرگرمی](/activities/music/)۔
 
-## How do I set up an art session?
+## بٕہ کِتھہٕ پٲٹھؠ کٔرٕ آرٹ سیٚٹِنگ تیار؟
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **گۄڈے کٔرِو تیاری۔** یِمَن سٟتؠ تُہؠ کٲم کران چھِو تِمَن دَعوَت دِنہٕ برونٛہہ کٔٹِو، تراشِو تہٕ سارے کینٛہہ تھٲوِو تیار۔ قینچ ژھانڈان ژھانڈان پرارُن ہیٚکہِ سُہ موقہٕ کھوون۔
+2. **کم تھٲوِو۔** زٕ ترٛے رنگ، اَکھ بُرش، اَکھ کاغذ۔ واریاہ چُناؤ ہیٚکہِ پریشان کٔرِتھ۔
+3. **میز کٔرِو محفوظ۔** پلاسٹِک چادر یا پرون چادر آسنہٕ سٟتؠ چھُنَہ گندگی ہُنٛد فکر آسان۔
+4. **اَکِس أنِس بٔہِو۔** تِہٕندِس کأمس أنِس کٔرِو پنٕنۍ کٲم۔ یہِ چھُ مِلِتھ کٲم کرن ہِوؠ باسان، نگرٲنی ہِوؠ نَہ۔
+5. **شروعات مَنٛز کٔرِو مَدَتھ۔** Alzheimer's Association چھِ وَنان زِ تُہؠ پؠٹھہِ ہیٚکہِ یِمَن سٟتؠ بُرش ہٕنز حرکت مِلِتھ شروع کرٕنۍ۔ اَکھ لٹہِ شروعات گٔژھِتھ چھِ واریاہ لوٗکھ پانے جٲری تھٲوان۔
+6. **کأمس دوران کٔرِو کتھ باتھ۔** رنگَن تہٕ حِساس پؠٹھ کٔرِو کتھ، یا فنَس دِیِو دٔلیلن ہُنٛد وَتھ کھولُن۔ تِژٕ پرٕژھگٲر مَہ کٔرِو یِمَن مَنٛز امتحان آسہِ، مِثالَن "یہِ کیا چھُ؟"
+7. **واریاہ وَقت دِیِو۔** پروجیکٹ چھُنَہ ضروری زِ اَکِس سیٚٹِنگس مَنٛز گٔژھِ مُکَمَل۔
 
-## How do I adapt art as dementia changes?
+## ڈیمنشیا بدلاوَن سٟتؠ بٕہ فن کِتھہٕ پٲٹھؠ بناوٕ موزوٗن؟
 
-| Stage | What tends to work | What to adjust |
+| دَرجہٕ | یُس عام طور ٹھیک چھُ چلان | کیا بدلاوُن |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| گۄڈنیُک | کلاس، تفصیلی رنگ بھرُن، سکریپ بُک، کارڈ بناوُن، تصویٕر وُچھِتھ پینٹِنگ | پروجیکٹ چُننُک موقع دِیِو؛ یِہ تھٲوِو ملنٕ جلُن |
+| درمیان | گۄڈے کٔٹِتھ کولاج، واٹر کلر ہٕندؠ ہلکہٕ تہہٕ، پوٗشَن ہُنٛد انتِظام، بٔڈؠ حِصن وول رنگ بھرُن | اَکھ وَقتہٕ اَکھ قدم؛ کٹائی تہٕ چِپکاوُن کٔرِو تُہؠ |
+| پٔتِم | گۄڈٕ بُرش اسٹروک، مَٹہِ دَباوُن، کَپڑٕ چھونٕنۍ، تُہُنٛد پینٹِنگ وُچھُن | حِساس پؠٹھ دِیِو توجّہ؛ اگر پسند کرن تیٚلہِ ہولہٕ ہولہٕ کٔرِو اَتھس رہنمٲیی |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS چھِ مشورٕ دِوان زِ پٔتِمین دَرجَن مَنٛز چھِ سرگرمی اکثر آسان بناونہٕ یِوان تہٕ حِساس پؠٹھ چھِ زور دِنہٕ یِوان۔ بیٚیہِ کٲنسہِ ہُند پینٹِنگ وُچھُن تہٕ رنگَن پؠٹھ کتھ باتھ کرٕنۍ تہِ چھِ شمولیتُک اَکھ اصلی طریقہٕ۔ پرٛتھ دَرجس مُطٲبِق مزید راے خٲطرٕ وُچھِو [پرٛتھ دَرجس خٲطرٕ سرگرمی](/activities/ideas/)۔
 
-## Safety with art supplies
+## آرٹ سامان سٟتؠ حِفاظت
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- غیر زہریلی پینٹ، مارکر تہٕ گلو سٹِک چُنِو۔
+- قینچ، کرافٹ چاقوٗ تہٕ گرم گلو گن تھٲوِو دۄر۔ کانٛہہ تہِ کٹاوُن آسہِ تیٚلہِ کٔرِو سُہ گۄڈے پانے۔
+- اگر کانٛہہ شخص مَٹہِ، پینٹ یا لۄکٕٹ چیزٕ مۄنڈِس مَنٛز تھاوان آسہِ، تیٚلہِ تھٲوِو نظر۔
+- آبہٕ خٲطرٕ تہٕ گُلدانَن خٲطرٕ ورتٲوِو گۄب تہٕ مستحکم برتن۔
 
-## When should we stop?
+## أسؠ کَر رُکو؟
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+ییٚلہِ توجّہ ہَٹہِ یا پریشٲنی نَظر یِیِہ، تیٚلہِ رُکِو۔ Alzheimer's Association چھِ مشورٕ دِوان زِ ییٚلہِ توجّہ کَم گٔژھِ یا پریشٲنی بڑِ، تیٚلہِ سرگرمی بَنٛد کٔرِو یا بدلٲوِو۔ پروجیکٹ تھٲوِو محفوظ جایِہ تہٕ کینٛہہ آرام دِنہٕ وول پیش کٔرِو۔ تُہؠ ہیٚکِو پَگاہِ بیٚیہِ شروع کٔرِتھ، یا زانٛہہ نَہ تہِ۔ دۄشوے چھِ ٹھیک۔
 
-## Display the work, if the person wants
+## اگر یِمَن سٟتؠ تُہؠ کٲم کران چھِو تِم ییژھن، تیٚلہِ کٲم کٔرِو نمٲیش
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+پینٹِنگ فرِجس پؠٹھ لاگٕنۍ یا کولاج فریم کرُن ہیٚکہِ عزت ہاونُک اَکھ پرٛتھھ طریقہٕ ٲسِتھ۔ گۄڈے پٕرٛژھِو۔ کینٛہہ لوٗکھ چھِ پنُن کٲم دِوارس پؠٹھ وُچھُن پسند کران؛ باقی ہیٚکن نَہ پسند کٔرِتھ۔
 
-## Pair art with our games
+## سانیو گیمو سٟتؠ کٔرِو فنُک جوڑ
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+ییٚلہِ پینٹ تیار کرٕنۍ واریاہ مشکل باسی، تیٚلہِ [Coloring](/games/coloring/) چھِ ٹیبلیٹَس پؠٹھ بغیر کُنہِ گندگی ہٕندِ کٲم کران۔ [Picture Puzzle](/games/picture-puzzle/) مَنٛز چھِ پوٗرٕ تصویر رہنمٲیی خٲطرٕ سامنٕ روزان، ییٚلہِ تُہؠ ٹُکٕرٕ ادل بدل کران چھِو۔ [Conversation Cards](/games/conversation-cards/) مَنٛز چھِ کُھلہٕ پرٕژھگٲر یِم أکِس تصویرو پؠٹھہٕ أکِس دٔلیلِس تام واتناوِتھ ہیٚکن۔ یِمَن سارِنٕے مَنٛز چھُنَہ کانٛہہ ٹایمر یا سکور۔ تُہؠ ہیٚکِو سٲنِس [پرِنٹ کرنہٕ یِنہٕ وٲلؠ سرگرمی](/activities/printable/) مجموعہٕ مَنٛزٕ تہِ صفحہٕ پرِنٹ کٔرِتھ۔

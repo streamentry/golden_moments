@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "ڈیٚمینشِیا والؠن لُکن ہُنٛد حِسی سرگرمیہٕ"
+seoTitle: "ڈیٚمینشِیا حِسی سرگرمیہٕ: خیالات تٕ حفاظتی تدبیرٕ"
+description: "ڈیٚمینشِیا سٟتؠ زندٕگی گزاران وٲلؠن لُکن خٲطرٕ حِسی سرگرمیہٕ، اَتھ مَساج پیٹھٕ کپڑن ہُنٛد ٹوکری تام، گُٹلن، الرجی تٕ خوشبو ہُنٛدن حفاظتی نوٹن سٟتؠ۔"
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  حِسی سرگرمیَن منز چھِ چھُہُن، سونگُن، ذٲیقٕ، بوزُن تٕ وُچھُن شٲمِل، مِثلَن
+  آہِستہ اَتھ مَساج، نَرم کپڑن ہُنٛد ٹوکری، سونگنہٕ خٲطرٕ تازٕ بوٹِ، قدرٕتی
+  آوازٕ، یا دٔریچِ نِش جاناوار وُچھُن۔ یِم چھِ پرٛتھ مرحلس منز موزوں تٕ خاص
+  طور آخری دۄرن منز فٲیدٕ مَنٛد۔ گۄڈٕ وُچھِو گُٹلن ہُنٛد خطرٕ، الرجی، چمڑِ
+  ہٕنٛز مشکلہٕ تٕ خوشبو ہُنٛد حساسیت، اکھ وقتس اکھ چیز پیش کٔرِو، تٕ اگر
+  شخص بے آرام باسان آسن تَم پتہٕ رُکِو۔
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "حِسی سرگرمیَن منز کانٛہہ صحیح جواب چھُنہٕ ضرورت، یِمو سٟتؠ چھِ یِم پرٛتھ مرحلس منز، بسترَس یا کُرسی پؠٹھ تہِ، کارگر۔"
+  - "اکھ پرسکون کُٹھِس منز اکھ وقتس صرف اکھ حسُک تجربہٕ دِیِو، تٕ چھُہنس برونٹھ پٕرٛژِھو یا وَنِو۔"
+  - "لۄکچار چیزٕ تٕ تِم چیز یِم کھؠنہٕ ہِیوٚد باسان آسن مگر آسن نہٕ، تِم تھٲوِو دوٗر، تِکیازِ کینٛہہ لُکھ ہیکن تِم أتھس منز تراوِتھ۔"
+  - "لوشن، خوشبو یا کھؠن استعمال کرنہٕ برونٹھ الرجی، چمڑِ ہٕنٛز مشکلہٕ تٕ ساہ گژھنہٕ چِ مشکلن ہُنٛد خیال تھٲوِو۔"
+  - "یِہ چھُنہٕ کانٛہہ مضبوط ثبوت زِ خوشبودار تیل (aromatherapy) سٟتؠ ڈیٚمینشِیا ہٕنٛزن علامتن منز کانٛہہ مدد چھِ گژھان؛ اگر بالکل استعمال کٔرِو تیٚلہِ صرف سادٕ خوشی خٲطرٕ۔"
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "ڈیٚمینشِیا والِس کٲنسہِ شخصس خٲطرٕ کٔہٕ حِسی سرگرمیہٕ چھِ جان؟"
+    a: "سادٕ خیالن منز چھِ لوشن سٟتؠ آہِستہ اَتھ مَساج، نَرم کپڑٕ چھُہُن، تازٕ بوٹِ یا کافِی سونگُن، پسندیدٕ موسیقی یا قدرٕتی آوازٕ بوزُن، جاناوار یا مچھِ گھر وُچھُن، تٕ محفوظ بناوٹس منز پسندیدٕ چیز چیٚن۔ اکھ وقتس اکھ چیز پیش کٔرِو تٕ وُچھِو زِ شخص کِتھ کٔنۍ چھُ جواب دیوان۔"
+  - q: "اگر کانٛہہ شخص چیزٕ أتھس منز تراوان آسہِ، کیا حِسی سرگرمیہٕ چھا محفوظ؟"
+    a: "احتیاط سان گٔژھتھ آسَن ہیکن محفوظ۔ صرف تِمے بٔڈ چیزٕ ورتٲوِو یِم نِنگلی ہیکن نہٕ، لۄکچار یا پھٹَن وٲلؠ چیزٕ تراوِو، تٕ لوشن، صابُن تٕ خوشبودار چیزٕ پتہٕ دوٗر تھٲوِو، تِکیازِ تِم ہیکن کھؠنہٕ ہِیوٚد باسیٚتھ۔ پورٕ وقتس روٗزِو تٔمِس سٟتؠ۔"
+  - q: "کیا خوشبودار تیل (aromatherapy) سٟتؠ ڈیٚمینشِیا منز کانٛہہ مدد چھِ گژھان؟"
+    a: "Cochrane اکہِ جائزِ منز آو نہٕ کانٛہہ مضبوط ثبوت لبنہٕ زِ خوشبودار تیل سٟتؠ ڈیٚمینشِیا والؠن لُکن کانٛہہ فٲیدٕ چھُ گژھان، اگرچہ مطالعہٕ ٲسۍ لۄکچار تٕ الگ الگ۔ اگر تٔمِس شخصس اکھ ہلکی، مأنوس خوشبو پسند چھے، تیٚلہِ چھُ ٹھیک، مگر تیز تیلن نِش، خاص کر ساہ گژھنہٕ چن مشکلن یا الرجی وِزِ، دوٗر روٗزِو۔"
+  - q: "فِجِٹ یا سرگرمی ایپرَن کیا چھُ؟"
+    a: "یہ چھُ اکھ کپڑُک ٹُکر، ایپرَن یا گۄڈن ہُنٛد کَمبَل یَتھ پؠٹھ چھُہنہٕ خٲطرٕ چیزٕ مضبوطی سان سیٚون آمتؠ آسان، مِثلَن بٔڈ بٹن، زِپ، فیتہٕ تٕ الگ بناوٹ وٲلؠ ٹُکر۔ یِہ چھُ مَشغول اَتھن کینٛہہ تہِ وُچھنہٕ تٕ چھُہنہٕ خٲطرٕ دیوان۔ یِہ وُچھِو بار بار زِ کانٛہہ چیز چھا ڈھیٖل گٔمٕژ یُس نیرِتھ ہیکہِ۔"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+حِسی سرگرمیہٕ چھِ پانژن حِسن پیٹھ بنِمَژ: چھُہُن، سونگُن، ذٲیقٕ، بوزُن تٕ وُچھُن۔ یِمن چھُنہٕ یادداشتچ، قدمَن ہٕنٛز یا صحیح جوابٕچ ضرورت، تِمو سٟتؠ ہیکن یِم کُنہِ تہِ مرحلس منز کارگر ٲسِتھ۔ یِم چھِ خاص طور آخری دۄرن منز واریاہ اہم۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) چھُ وَنان زِ آخری مرحلس منز چھُ شخص دنیا خاص طور حِسن ذٔریعہٕ محسوس کران، تٕ تۄہی ہیکِو چھُہنہٕ، آوازِ، نظارٕ، ذٲیقٕ تٕ خوشبو ذٔریعہٕ خیال ہٲوِتھ۔ کینٛہہ سادٕ حفاظتی گوڈنِک خیال تھاونہٕ سٟتؠ ہیکن یِم سرگرمیہٕ سارنہٕ خٲطرٕ پرسکون ٲسِتھ۔
 
-## What are sensory activities for dementia?
+## ڈیٚمینشِیا خٲطرٕ حِسی سرگرمیہٕ کیا چھِ؟
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+حِسی سرگرمیہٕ چھِ سادٕ تجربہٕ یِم اکھ وقتس اکہِ حِس پیٹھ بنیَن چھِ، مِثلَن کپڑٕ چھُہُن، بوٹِ سونگُن یا روٗدٕچ آواز بوزُن۔ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) چھُ وَنان زِ آخری مرحلن ہٕنٛزن سرگرمیَن گژھ اکثر حِسن پیٹھ توجہ دِنۍ، تٕ تِم چھِ موسیقی، چھُہنہٕ خٲطرٕ چیزٕ، تٕ اَتھ مَساجُک ذکر کران۔ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) چھُ وَنان زِ آخری مرحلس منز لُکن ہیکہِ تسلی خٲطرٕ کینٛہہ تہِ نکھ تل تھاونٕچ سخت ضرورت ٲسِتھ۔
 
-## Sensory ideas, sense by sense
+## حس وار حس خیالات
 
-### Touch
+### چھُہُن
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **اَتھ مَساج۔** پننین اَتھن منز لوشن ہلکہٕ گرم کٔرِو تٕ آہِستہ آہِستہ کَنڈٕ پیٹھٕ اَنٛگجن تام پھیرِو۔ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) چھُ آرام خٲطرٕ بے خوشبو لوشن سٟتؠ مَساجُک ذکر کران۔
+- **کپڑن ہُنٛد ٹوکری۔** مخمل، کارڈورائے، فِلیس، ساٹن تٕ اونہٕ ہٕنٛد بٔڈ ٹُکر، یِم چھُہنہٕ، وَلنہٕ تٕ تِمن پیٹھ کتھہٕ کرنہٕ خٲطرٕ۔
+- **گرم تولیہٕ۔** سرد دۄہس منز اَتھن خٲطرٕ اکھ گرم تٕ نَم تولیہٕ۔ گۄڈٕ کٔرِو پننِس کَنڈِس پؠٹھ گرمی ہُنٛد امتحان۔
+- **سرگرمی ایپرَن یا گۄڈن ہُنٛد کَمبَل۔** بٔڈ بٹن، زِپ، فیتہٕ تٕ الگ بناوٹ وٲلؠ ٹُکر یِم مضبوطی سان سیٚون آمتؠ آسن۔
+- **وَلُن تٕ ہموار کرُن۔** صاف تولیَن یا رومالن ہُنٛد ٹوکری وَلنہٕ، تھپنہٕ تٕ بییہٕ وَلنہٕ خٲطرٕ۔
+- **کینٛہہ نَرم تھاونہٕ خٲطرٕ۔** فِلیس کَمبَل، تکیہٕ یا نَرم جاناوار، سادٕ طریقس منز پیش کٔرِو، کھلونہٕ ہِیوٚد ہرگز نہٕ۔
 
-### Smell
+### سونگُن
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **تازٕ بوٹِ۔** پودِنہٕ، روزمیری، تُلسی یا لیوینڈر ہٕنٛد پتٕ پننین اَنٛگجن منز رگڑِو تٕ برونٹھ کُن انِو۔
+- **رَسۄئی ہٕنٛز خوشبو۔** نکھ کافِی بنان، ٹوسٹ بنان، دارچینی یا سنگتر چھیلِتھ۔
+- **پھۄل۔** باغہٕ یا دکانہٕ پیٹھٕ کینٛہہ تازٕ پھۄل اَنِو۔
+- **مأنوس چیز۔** سُہ صابُن یا لوشن یُس تِم ہمیشہٕ ورتاوان ٲسۍ، اگر تِہُنٛد چم تِہ چھُ سہلان۔
 
-### Taste
+### ذٲیقٕ
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **پسندیدٕ ذٲیقٕ۔** کانٛہہ چیز یۄسہٕ تِمن واریاہ پسند چھے، تَمِچ اکھ لۄکچ چمچ، مِثلَن ایپل ساس، پڈنگ یا آئس کریم، تِتھس بناوٹس منز یُس تِم محفوظ طریقس منز ہیکن چیٚتھ۔
+- **بیکنگ منز مدد۔** ییلہِ تۄہی اکٔٹھۍ کینٛہہ پکان چھِو، میوٕ یا ہلکہٕ فروسٹنگ چیٚن دِیِو۔
+- **موسمی چیزٕ۔** ریتہٕ کولس منز ہَندوانڈ، ہَرُدس منز گرم سائڈر، محفوظ گرمی پؠٹھ پیش کٔرِو۔
 
-### Sound
+### بوزُن
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **پسندیدٕ موسیقی۔** مأنوس گیت ہلکہٕ آوازِ منز؛ وُچھِو [موسیقی سرگرمیہٕ](/activities/music/)۔
+- **قدرٕتی آوازٕ۔** روٗد، لہریٚن ہٕنٛز آواز یا جاناوارَن ہُنٛد چہچہاون۔ National Institute on Aging چھُ وَنان زِ موسیقی، سفید شور (white noise) تٕ قدرٕتی آوازٕ ہیکن کینٛہہن لُکن پرسکون دِتھ۔
+- **تُہٕنٛز آواز۔** بُلند آوازِ منز پرُن، گُنگُنان، یا کانٛہہ دٔلیل بوزناوُن۔
+- **سادٕ ساز۔** اَتھ ڈھول، شیکر یا گھنٹی، موسیقی سٟتؠ بجاونہٕ خٲطرٕ۔
 
-### Sight
+### وُچھُن
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **دٔریچِ نِش وُچھُن۔** دٔریچِ برونٹھ جاناوارن ہُنٛد فیڈر، گرِ گژھان بچھِ، یا شیٚن پیوان۔
+- **مچھِ گھر یا آہِستہ ویڈیو۔** زور آواز بغیر ہلکہٕ حرکت۔
+- **بٔڈ فوٹو۔** اکھ وقتس اکھ صاف تصویر، أچھن ہٕنٛدس سطحس پؠٹھ تھٲوِتھ۔
+- **رنگ تٕ نقش۔** روشن کپڑن ہٕنٛد ٹُکر، پھۄل یا رنگدار رومال الگ الگ کرُن، یا سٲنۍ [رنگ بھرُن](/games/coloring/) سیٹ منز اکھ سادٕ صفحہٕ۔
+- **نِیبرِم۔** NHS چھُ خوشبودار بوٹین، الگ بناوٹن تٕ آب چِ جاے وٲلؠ حِسی باغن ہُنٛد مشورٕ دیوان۔ وُچھِو [نِیبرِم تٕ باغبانی سرگرمیہٕ](/activities/outdoor-and-gardening/)۔
 
-## How to make a sensory box
+## حِسی بکس کِتھ کٔنۍ بنٲوِو
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **اکھ موضوع چُنِو** یُس تٔمِس سٕنٛدِس زندگی سٟتؠ جُڑِتھ آسہِ: سَمندَر، باغ، رَسۄئی، ورکشاپ، سِلاہِ۔
+2. **پانژ یا شے بٔڈ، محفوظ چیزٕ چُنِو،** مِثلَن اکھ بٔڈ سیپ، اکھ لکڑِ ہُنٛد چمچ، اکھ نَرم دوپٹہٕ، خشک لیوینڈر ہُنٛد سیٚون آمتھ تھیٚلۍ، یا اکھ ہموار لکڑِ ہُنٛد ٹُکر۔
+3. **پرٛتھ چیز وُچھِو** لۄکچار حِصن، تیز کُنڈن، ڈھیٖلن دۄرن تٕ پھٹَن وٲلین چیزن خٲطرٕ۔
+4. **اکھ وقتس اکھ چیز کٔڈِو۔** تِمن ہَوالہٕ کٔرِو، بیان کٔرِو، تٕ تِمن دِیِو وُچھنہٕ تٕ چھُہنہٕ خٲطرٕ۔
+5. **پتہٕ تھٲوِو بکس دوٗر** تاکہ یہ خاص روزِ تٕ بییہٕ ورتاونہٕ برونٹھ گژھن سارے چیزٕ بییہٕ وُچھنہٕ یِنۍ۔
 
-## Safety first
+## گۄڈٕ حفاظت
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+حِسی سرگرمیہٕ چھِ نَرم، مگر کینٛہہ خطرن ہُنٛد خیال تھاوُن چھُ ضروری۔ ڈیٚمینشِیا سٟتؠ زندٕگی گزاران کینٛہہ لُکھ ہیکن کھؠنہٕ چن چیزن ہِیوٚد باسیٚتھ غیر کھؠنہٕ چیزٕ تہِ کھؠن، تٕ وقتس سٟتؠ ہیکہِ نِنگلنہٕ منز تہِ مشکل بڈِتھ؛ National Institute on Aging چھُ خبردار کران زِ آخری مرحلس منز نِنگلنہٕ چن مشکلن سٟتؠ چھُ گُٹلن ہُنٛد خطرٕ بڑھان۔
 
-| Risk | What to do |
+| خطرٕ | کیا کٔرِو |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| گُٹلُن | صرف تِمے چیزٕ ورتٲوِو یِم نِنگلنہٕ خٲطرٕ واریاہ بٔڈ آسن۔ بٹن، موتی، سِکہٕ، گولی یا لۄکچار کھلونے بکسس منز کھُلہٕ نہٕ تھٲوِو۔ کھؠن صرف تِتھس بناوٹس منز دِیِو یُس خیال تھاون والی ٹیم محفوظ قرار دییہِ۔ |
+| یِم چیز کھؠنہٕ ہِیوٚد باسان آسن | National Institute on Aging چھُ مشورٕ دیوان زِ لوشن، صابُن، شیمپو تٕ خوشبو بند تھٲوِو، تِکیازِ تِم ہیکن کھؠنہٕ ہِیوٚد باسیٚتھ، تٕ بناوٹی میوٕ کٔڈِو دوٗر۔ استعمال پتہٕ تھٲوِو حِسی چیزٕ دوٗر۔ |
+| الرجی | شروع کرنہٕ برونٹھ وُچھِو زِ بادم، لیٹیکس، اون، بوٹین یا خوشبون ہُنٛد کانٛہہ الرجی چھا۔ |
+| تیز خوشبو | تیز پرفیوم تٕ خوشبودار تیلن نِش روٗزِو دوٗر، خاص کر دَم یا ساہ گژھنہٕ چن بیٚین مشکلن وِزِ۔ ہلکی، قدرتی خوشبو چھِ زیٛادٕ محفوظ۔ |
+| چم | مَساج برونٹھ وُچھِو زِ چم چھا زٔخمی، پھٹمٕژ یا کمزور۔ ہلکہٕ دَباؤ دِیِو تٕ اگر تِم تکلیف محسوس کرن، تَمی سات رُکِو۔ |
+| گرمی | گرم تولیہٕ تٕ مشروب گۄڈٕ پننِس کَنڈِس پؠٹھ آزمٲوِو۔ |
+| تیز یا زہریلی چیزٕ | کانٛہہ تیز اوزار، شیشٕ یا زہریلی کرافٹ چیزٕ نہٕ ورتٲوِو۔ |
 
-## Does aromatherapy help?
+## کیا خوشبودار تیل (aromatherapy) سٟتؠ کانٛہہ مدد چھِ گژھان؟
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+زیٛادٕ امکان چھُ زِ پیمایش کرنہٕ لایق کانٛہہ فٲیدٕ چھُنہٕ۔ [Cochrane ہُنٛد ڈیٚمینشِیا خٲطرٕ خوشبودار تیلن پیٹھ جائزٕ](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) منز آے 13 مطالعہٕ وُچھنہٕ یِمن منز 708 لُکھ ٲسۍ، سٲری نگہداشت گَرن منز، تٕ کانٛہہ مضبوط ثبوت فٲیدن ہُنٛد آو نہٕ لبنہٕ۔ مطالعہٕ ٲسۍ لۄکچار، نٔتیجٕ ٲسۍ الگ الگ، تٕ مضر اثرن ہٕنٛز رپورٹنگ ٲس کمزور۔ اگر تٔمِس شخصس کانٛہہ ہلکی، مأنوس خوشبو پسند چھے، مِثلَن باغُک لیوینڈر، تیٚلہِ چھُ یہ بانٹُن اکھ سۄنچ وجہ۔ یہ چھُنہٕ کانٛہہ علاج۔
 
-## How to offer a sensory activity
+## حِسی سرگرمی کِتھ کٔنۍ پیش کٔرِو
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **اکھ پرسکون وقت چُنِو** تٕ ٹی وی بند کٔرِو۔
+- **برونٹھہٕ کِنۍ نکھ ژٲوِو،** تِہُنٛد ناو ہؠیِو، تٕ چھُہنہٕ برونٹھ پٕرٛژِھو یا وَنِو: «مے نِش چھُ لوشن۔ کیا تۄہی چھِوا یژھان اَتھ مَساج؟»
+- **اکھ وقتس اکھ چیز پیش کٔرِو** تاکہ تِم پریشان نہٕ گژھن۔
+- **جواب وُچھِو۔** نَرم بُتھ، آرام سان اَتھ یا مسکراہٹ چھِ جان نِشٲنیہِ۔ پَتھ ژلن، تیوٗر بدلاوُن یا بے چینی چھِ رُکنٕچ نِشٲنی۔
+- **مختصر تھٲوِو۔** پانژ پرسکون مِنٹ تہِ چھِ اکھ جان سیشن۔
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+اکٹھ آرام سان ساہ ہیٚنُک لمحو، مِثلَن [آرام ساہ](/games/calm-breathing/)، ہیکہِ ختم کرنُک اکھ نَرم طریقہٕ ٲسِتھ۔ بسترَس نکھ مزید خیالن خٲطرٕ وُچھِو [آخری مرحلٕچ سرگرمیہٕ](/activities/late-stage/)، تٕ شامس پیٹھ بے آرامی خٲطرٕ وُچھِو [شامس پیٹھ بے چینی](/caregiving/late-day-restlessness/)۔

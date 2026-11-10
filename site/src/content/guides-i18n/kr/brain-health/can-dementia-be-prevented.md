@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Dementia-a daftəramin wa? Kərmai kulashiye manazəna"
+seoTitle: "Dementia-a daftəramin wa? Kərmai kulashiye"
+description: "Lancet Commission 2024-a kuru jarabtəwu gade-a dementia risk nzundobe fulutəye lan manazəna, sandi ndaro cido wawono-a, kuru loktu-a kuli kərye-a barta."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Nduso dementia-a tawatta daftəraminro wada bəzəyinba. Lancet Commission 2024-a
+  təmana, duniabe lan dementia lardəbe kətə kauro fardu (45%) risk dalil 14-a
+  faltəgəna, misallo blood pressure kura, fando fanjinba-a kuru kəli cadinba-a.
+  Jarabtəwu-a hangal jarabtəye lan alamaram gana fəlezəna, amma dementia lardə
+  gana kəlzəna shaida-a bawo. Am ngəla dəgana-a kəli ngəla cadəna-a ye dementia-a
+  fandəyin, adəye ndumaibe ayou bawo.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet Commission 2024-a duniabe lan dementia lardəbe kətə kauro 45% risk dalil 14 faltəgəna-a kəlkəlzəna. Adə jama lardəbe təmana, kam tilo wadaro bawo."
+  - "Risk nzundobe fulutə jama ngəwuye lan dama-a fulutəro manazəyin. Kam tilo dementia-a daftəgəyi manazəyinba."
+  - "Jarabtəwu kura, misallo FINGER, US POINTER-a kuru SPRINT MIND-a, hangal jarabtəye lan faida gana fəlezəna, amma nduso alamaram lifestyle-be dementia-a daftəzəna shaida cadinba."
+  - "Saa kura Alzheimer risk nzəbe kura wo, kuru adə faltəgənyinba. Am kəli ngəla ngəwu cadəna-a ye dementia-a fandəyin."
+  - "Kərmai kulashiye ngəwuro manazəyinma, misallo blood pressure kura kulashi, fando fanjimba faidatə, kuru kəli cadə, kuli kərye-a barta-a faida, dalil kəli gade-ye lan ye faida badiyin."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Dementia-a daftəramin wa?"
+    a: "Kam tilo ye dementia-a tawatta daftəgəyi nzə alamaram bawo. Kərmai kulashiye-a risk laa nzundobe fulutə, misallo blood pressure kura, fando fanjimba kulashinba, kuru taba sigaret cadə, jama ngəwuye lan dementia fandobe dama-a fulutəyin adəbe sha kənzəyin. Adə dama-a manazəyin, wada bawo."
+  - q: "Lancet Commission-be lamba 45% adə awi manazəyin?"
+    a: "Lancet Commission 2024-a təmana, duniabe lan dementia lardəbe kətə kauro 45% risk dalil 14 faltəgəna-a kəlkəlzəna. Adə təmana dalil adə-a dementia-a kəlzəyinna, kuru ruwozəna adə-a laa kətəro dalil sadin adə bawo ye manazəyin. Adə jama lardəbero manazəyin, kam tilo risk nzəbe bayanzəyinba."
+  - q: "Bawa-ni kəli ngəla cadəna, awiro dementia-a fandəna?"
+    a: "Saa, jili (genes), kuru dalil gade amro kamanzəyinba-a dementia lan dawari kuraa. Lancet Commission-be ruwozənama manazəna, jama lan risk nzundobe fulutə kam tilo dementia-a daftəgəyi wada cadinba. Lardə adə ndumaibe ayou cadəna alama bawo."
+  - q: "Saa 65 kozəna ngawo risk nzundobe fulutəro kərtəna wa?"
+    a: "Lancet Commission-a manazəna, risk nzundobe fulutəro sa nguwu ye, kərtəna ye, amma kərmai kulashiye ngəwu saa dawube lan. Fando-a kuru sim kənzəgə kulashi, kəli cadə, kuru am-a rokko kəltə, adə-a saa ngawo lan kərmai laa kulaszəna. Nyiye kəla nzəbero kuli kərye-a barta."
+  - q: "Hangal biro ye bi kəmusu kura laa ye dementia-a daftəzəyin wa?"
+    a: "Biro, kəmusu, fuwu (supplement), bi kəmusu kura laa ye dementia-a daftəzəna shaida bawo. MIND diet jarabtə saa yasku lan hangal jarabtəye lan kəmusu gade-a dawun ngəliro farak kura fəlejinba, kuru hangal biro kasuwube-a jarabtəwu kulashiye lan faida felenzəna shaida bawo."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Nyi kam dementia-a kərma-a kəla nzəkkono, bi bawa-nəmbe lan dementia-a ruuna, sha kənzəgəm daftəgəna wa, kuru nyi kəlanəmbo daftəgəmi wa diye koro kəla nəmben. Warak adəye kərmai kulashiye awi manazəna so bayanzəyin. Jawabu kuruson: nduso dementia-a tawatta daftəgəyi wada bəzəyinba, amma kərmai kulashiye-a risk laa nzundobe fulutəyin manazəna, kuru jama ngəwuye lan risk nzundobe fulutə am ngəwu dementia-a fandəyinba bi ngawo fandəyin sha kənzəyin.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Adə bayanna jamaye, loktu bawo. Martəgəne [bayanna loktube](/medical-disclaimer/)-a karəne, kuru kəla nzəbero kuli kərye-a barta.
 
-## Can dementia be prevented?
+## Dementia-a daftəramin wa?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Kam tilo ye dementia-a tawatta daftəgəyi nzə alamaram bawo. National Institute on Aging (NIA)-a manazəna, [Alzheimer daftəro awima shaida cadinba yaye](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), kərmai kulashiyema alamaram ngəla laa-a korizəyin kuru awi faidajin kuru awi faidajinba adə-a kərmai cadi.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Kərmai kulashiye fəlezəna awo: kəla nzə lardəwa-a kuru kəli laa-a dementia fandobe dama kura-a kəlkəlzəna. Jama ngəwuye lan risk adə-a nzundobe fulutəna ya, am ngəwu dementia-a fandəyinba bi ngawo fandəyin. Adə wada bawo.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Awo tama kura: Lancet Commission 2024-a manazəna, lardə arzəyi laa lan, misallo US-a kuru UK-a, am kura-a dawun dementia-a mbeji adəye nzundobe fulutəna. Ruwozənama adə-a kərmai ngəla, loktu ngəla-a kuru saa kərawo bu nzəbe cidaram nzundobe fulutəna dalilro wakajin, [University College London-be bayanna ruwozənabe](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)-a gulzəna.
 
-## What did the 2024 Lancet Commission find?
+## Lancet Commission 2024-a awi fandəna?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet Commission on dementia prevention, intervention and care, adə kərmai dementia kulashibe am 27-be jamma, saa ngəwuye lan shaida-a kərmai cadi. Ruwozəna 2024 nza lan **risk dalil 14** faltəgəna manazəna, kuru sandi samma **duniabe lan dementia lardəbe kətə kauro fardu (45%)** cadəyin diye təmana. Ruwozənama manazənan, risk adə-a cizəna ya, lardə adə-a *nəzərro* daftəgəna bi ngaworo tərtəna ([Lancet Commission ruwozəna 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Risk dalil 14 adə-a, saa shaida nzə ngəla nzəro samma:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Saa gana:** kərmai ilim gana.
+- **Saa dawube (saa 40-65):** fando fanjimba, LDL ("diwi") cholesterol kura, karəgə tamtam, kəla lardə, kəli cadinba, diabetes, taba sigaret cadə, blood pressure kura, tiyi kura, kuru lele ngəwu ya.
+- **Saa ngawo:** am-a rokko kəltə gana, sam no cidi, kuru sim kənzəgə kulashinba.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 lan kəlzəna bərni: LDL cholesterol kura-a kuru sim kənzəgə kulashinba-a. Lardə ngəwuro kəlkəlzəna dalil kura: fando fanjimba-a kuru LDL cholesterol kura-a (dəridə 7% dega), ngawo ilim gana-a kuru am-a rokko kəltə gana-a (dəridə 5% dega).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+[Bayanna risk dalilbe](/brain-health/risk-factors/)-nde lan dalil 14 samma teburro, kərmai awi kəlkəlzəna-a kuru awi dimi-a bayanzəna.
 
-### What the 45% figure does not mean
+### Lamba 45% adə awi manazəyinba
 
-It is easy to misread this number, so it helps to be precise:
+Lamba adə-a hangalro asutəgə ramboyin, adəma nangaro faida:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Adə jama lardəbe təmana.** Duniabe lan dementia lardəbero manazəyin, nyi bi bawa-nəmbe damaro bawo.
+- **Dalil-a kuru lardə-a kəlkəlzəna diye gozəyin.** Ruwozənama manazəna, sandi risk dalil shaida ngəla-a suronzəna, amma laa kətəro dalil sadin. Misallo, saa ngawo lan karəgə tamtam laa dementia-be alamaram badiyobe adə wakəyin, dalil nzə bawo.
+- **Kam tiloro wada bəzəyinba.** UCL bayanna-a manazəna, risk nzundobe fulutə jama lan faidajin, amma kam tilo dementia-a daftəgəyi wada cadinba.
+- **Fardu gade dalil adə-aye bayanzənyin.** Saa, jili, kuru kərmai kulashiyema rojinba dalil-a dəganadə gade cadəyin.
 
-## What is the difference between "risk reduction" and "prevention"?
+## "Risk nzundobe fulutə" kuru "daftə" dawun awi farak?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Risk nzundobe fulutə** dama-a fulutəro manazəyin. Jama ngəwu blood pressure nza nzundobe fulutəna ya, saa ngəwu ngawo lan laa nza dementia-a fandəyin adə gana wakəyin. Jama adəye dawun laa ye dementia-a fandəyin.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Daftə** awo laa sammaro kənzəyinba diye manazəyin. Dementia lan, adə ku kərmai kulashiye ndusoro wada bəzəyinba.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Kərmai kulashiyema **ngaworo tərtə** ye manazəna. Lancet Commission-a shaida bərni fəlezəna, risk nzundobe fulutə dementia badiyobe saa-a ngaworo tərtəgəyin kuru kam kəla dondi-a kərma lan kazəyiyen saa-a gana cadəyin. Saa indiyaye ngaworo tərtəgə yero kam-a kuru yal nzə-aro faida kura.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Shafin adə lan, "risk nzundobe fulutə" kuru "kəlkəlzəna" diye manazəye. Awo laa, fuwu (supplement) bi alamaram laa "Alzheimer daftəgəyin" diye wada cadəna ya, hangalro ru. NIA-a manazəna, Alzheimer daftəro wada cadəna fuwu bi kulashi laa faidatəro burwon kuli kərye-a barta, dalil awo adə-a kəla nzəbero gəzəgəyin, kungəna nankaro mbu, bi indiso wakəyin.
 
-## What have large trials found?
+## Jarabtəwu kura-a awi fandəna?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Kərmai ambo saa-a rui adə-a kəlkəlzəna fəlezəyin. Jarabtəwu randomized, am-a alamaramro bi jam gadero dama lan gotəgə, adə shaida ngəla. Alama jarabtəwu laa fandənama:
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER jarabtə am 1,260 saa 60-77, dementia risk nza kura, adə-a gotəna. Fardu fal saa indiye alamaram kəmusu bayanna, kəli cadə, hangal biro komputa lan, kuru bu-a bu jiliye kəla nzə kulashi fandəna; fardu gade kəla nzə bayanna jamaye fandəna. Alamarambe jamma hangal jarabtə laa lan gana ngəla cadəna, farak gana amma lamba lan maana-a ([FINGER jarabtə The Lancet lan](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Jarabtə adə hangal jarabtəye notə, dementia lardə bawo.
 
 ### US POINTER (United States)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER am 2,111 saa 60-79, kəli ngəwu cadinba, kəmusu nza ngəla bawo, kuru risk gade mbeji, adə-a gotəna. Jam indiso kəli tiyi-a kuru hangal-a, kəmusu ngəla, am-a rokko kəltə, kuru bu kəla nzə kulashi-a shawari tədana. Jam fal alamaram kambo bayanna-a mbeji fandəna; gade kəlanzəye cadəna. Saa indiye ngawo lan, hangal jarabtəye notə jam indiso lan ngəla ro, kuru alamarambe jamma lan gana kozəna ([US POINTER jarabtə JAMA lan](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Ruwozənama manazəna, kənjobero kərmai ngəwu madoro farak adəye kəla ro yaye lan faida wa adə-a notəgə. "Awi yaye cadinba" jam bawo dalil, jarabtə adəye alamaram ndasoye yaye fal faltəgə-a awi kəriwu faidazəna adə bayanzəyinba.
 
 ### SPRINT MIND (blood pressure)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND am US lan 9,361 saa 50-a kozəna, blood pressure kura mbeji, adə-a kulashina. Sandi blood pressure nəmari gana (samma 120 cidiyinba) bi nəmari adabe (140 cidiyinba) ro gotəna. Nəmari gana adəye **mild cognitive impairment**-a gana fulutəna, adə taksə hangal-a taksəbe, dementia burwon isayinma. **Probable dementia** lan, nəmari gana jamma lan lardə gana, amma farak adə lamba lan maanaa bawo. Jarabtə adə burwon dazəna kuru dementia lardə tamazəna gana, adəma dalil koro-a jawabtəro gana wakəyin ([SPRINT MIND JAMA lan](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Kərmai kəlakəlabe samma awi manazəyin
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Cochrane kərmai kəlakəlabe 2021 lan jarabtəwu kura 9, risk ngəwu falro kulashi, am 18,000 kozəna, adə-a sammana. Hangal jarabtəye lan faida gana fandəna, amma jarabtə indiye adə-a kulaszəna lan **dementia fandənabe ambe lamba lan farak bayanna bawo** ([Cochrane kərmai kəlakəlabe](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Kərmai kəlakəlabe 2017 National Academies of Sciences, Engineering, and Medicine-be, NIA-a bayanzəna, alamaram yasku lan shaida "tama badiyin amma tawadəro bawo" diye fandəna: blood pressure kura kulashi, kəli cadə ngəwuro yirtə, kuru hangal kulashi (cognitive training).
 
-## Does it matter when you start?
+## Sa ndaran badizəyia faida wa?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet Commission-be shawari: risk nzundobe fulutə burwono badizə kuru sa ngəwuro nzundobe go, "burwono ngəla" kuru "kurturo ngəla". Kuru ye manazəna, risk nzundobe fulutəro sa nguwu ye, kərtəna ye. Shaida ngəwu saa dawube lan, saa 40-65, amma dalil laa, misallo sim kənzəgə fanjimba-a kuru am-a rokko kəltə gana-a, saa ngawo lan risk nzə, na adən kərmai cadə faidajin.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Ruwozəna adəye manazəna, shaida bərni fəlezəna, risk-a rokko sa kurtu kənzəgə adəye cidaram kura. Misallo, saa dawube lan diabetes badiyena adə saa ngawo lan badiyenama-a kozəna faida kuraa.
 
-## Is dementia risk the same for everyone?
+## Am samma-a dementia risk nza tilo wa?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+A'a. Commission-a fandəna, am lardə arzəyi gana-a kuru dawube dawun, jam gade-a kuru arzəyi gana mbejima risk adə-a ngəwuro gozəyin, adəma dalilro dementia saa ganaro badiyin. Risk ngəwu amro sandiye kartəyinba kəlzəgə-a kəlkəlzəna, misallo nduli nza fandənama, sam na kərmabe, kuru kəmusu ngəla arzəyi gana-a bi karəngen mbeji wa.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Adəma dalilro Commission-be shawari gwamnati-aro ye, kam tiloro ye: nduli ngəla nduli samma-aro, sam ngəla, taba sigaret nzundobe fulutə, kəmusu kasuwube-a kuru mbutube lan sukur-a kuru mandi-a nzundobe fulutə, kuru fando fanjimba nduso mbejiro badiyinna. Kambe ngənəptə faida, amma dunya na kərmabe ye faida. Adəma dalil fal gadero ndusoro lardə dalilro ayou sədinba.
 
-## What are the honest limits of this research?
+## Kərmai kulashiye adəye awi bayanzəyinba?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Dementia saa ngəwuro cizəyin**, amma jarabtəwu ngəwu saa indiye saa uwuro kəriwu. Dementia kəlanzə-a, hangal jarabtəye notə bawo, adə notəro jarabtəwu kurtu-a kuru kura-a madoro.
+- **Jarabtəwu ngəwu hangal jarabtəye-a kulzəyin.** Jarabtə lan ngəli gana notə am ngəwu dementia-a fandəyinba bi kəla ro yaye ngəla ro diye manazəyinba.
+- **Am kənzəgə ngəwu kəla nza ngəla** kuru ilim nza ngəla jam lardəbe sammaro. Lancet Commission-a manazəna, shaida ngəwu lardə arzəyi kura-a lan kuru jam gade ngəwuro gotənyin.
+- **Kəlkəlzəna laa kənashin indiro lejin.** Kəli gana cadə bi am-a rokko kəltə gana dementia-be alamaram badiyobe wakəyin, dalil nzə bawo.
+- **Kəmusu jarabtəwu ku faida gana fəlezənyinba.** MIND diet jarabtə saa yasku lan hangal jarabtəye lan kəmusu gade-a dawun ngəliro farak kura fəlejinba. [Bayanna kəmusube](/brain-health/diet/)-a ru.
+- **Hangal biro dementia-a daftəzəyin shaida bawo.** [Hangal biro-a kuru dementia](/brain-health/brain-games/)-be bayannande-a ru.
+- **Azumi (fasting) ambo shaida gana**, kuru am kura-aro gəzəgəyin. [Bayanna azumibe](/brain-health/fasting/)-a ru.
 
-## If someone did everything "right", why did they still get dementia?
+## Kam awo samma ngəla cadəna yaye, awiro dementia-a fandəna?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Dalil dementia adə kartəbe cidaramma tilo bawo. NIA-a manazəna [saa kura Alzheimer risk nzəbe kura wo](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), kuru nduso adə-a faltəyinba. Jili ye dawari mbeji. Kuru kərmai kulashiyema Alzheimer am ngəwuro awiro isəyin adə tawadəro nojinba. Risk dalil 14 samma cizəna yaye, Lancet Commission-be təmana kəlanzəye lan fardu kozəna bayanna bawo.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Adə nankaro, nyi kam kəli cadəna, kəmusu ngəla buna, taba sigaret cadinba amma dementia-a fandəna-a kəla nzəkkono ya, shiye lan bi nyiye lan ayou cadəna bawo. Nyi kəlanəm lan dementia mbeji ya, adə nyibe ayou bawo. Yal ngəwuye dawun karəgə ayoube mbeji, amma adə kalkal bawo. Kua faida: kəla ngəla, kəlkəlzə, kuru kawu ngəla, kuru [awo cadəye shawari](/activities/ideas/)-nde-a kuru [bayanna kəla nzəkkənabe kəlanza kulashibe](/caregiving/caregiver-self-care/)-a na ngəla.
 
-## What steps can you talk over with a doctor?
+## Awi lokturo kuli kərye-a barta?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Adə na kərmai kulashiye ngəwuro manazənama. Kulashi lokturo koriro faida, dalil ngəwu nza bu kəla nzə, karəgə, kuru kəlanzəro faida badiyin, dementia lan faida nza awi yaye.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Blood pressure.** Lambanza awi kuru nəmari ndaso nyiro ngəla adə-a koro. Lancet Commission-a saa 40 badizəna ya samma 130 cidiyinba nəmariro shawari cadin, amma am kura-aro nəmari kalkal kəla nzə nza samma-a kəlkəlzəna.
+2. **Fando.** Fando jarabtə koro, kuru fando fanjimba faidajin wa diye koro. [Bayanna fandobe](/brain-health/hearing/)-nde kərmai kulashiye-a bayanzəyin.
+3. **Sim.** Sim jarabtə kəltə kuru cataract alama lardəwa kulashiro walzəyin wa diye koro.
+4. **Cholesterol.** LDL cholesterol nəm kulashiro walzəyin wa bi awima faltəgəro walzəyin wa diye koro.
+5. **Bu dawun sukuri.** Diabetes nəm mbeji ya, awi gale ngəlaro kulashiro walzəyin wa diye koro.
+6. **Karəgə.** Karəgə tamtam ngəwu kuru kulashiro walzəyin. Kawu indiye kozəna karəgə nəm tamtamma bi awo-aro tama nəm bawoma ya, kuli kərye-a gulzagəne.
+7. **Taba sigaret-a kuru lele.** Taba sigaret koltəyero bana koro kuru lele nzundobe nəmari ngəla-a koro.
+8. **Kəli cadə.** Kəli ndaso nyiro amanna adə-a koro. [Bayanna kəli cadəbe](/brain-health/exercise/)-nde lan shawari mbeji.
+9. **Kəla nzaftə.** Keke-a kuru biro kəli lardəbe lan helmet faidatə, kuru kənəmbo daftəro shawari koro.
+10. **Am-a rokko kəltə.** Am-a rokko sa cadə kəla ngəlabe dawari. [Bayanna am-a rokko kəltəbe](/brain-health/social-connection/)-a ru, kuru [kənəm](/brain-health/sleep/)-a ye.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Kurso, kəmusu, fuwu (supplement), azumi bi kəli cadə faltəro burwon kuli kərye-a barta, gaiya bu lardə, diabetes, kənəmbo tarai, bi dementia-a kərma so mbeji ya.
 
-## Talk with a doctor
+## Kuli kərye-a barta
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Nyi bi kam gade lan taksə bi hangal faltəgə tamtamma ruuna ya, loktu gotə. NIA-a manazəna, [taksə lardəbe dalil gade mbeji](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), misallo kurso cidaram, thyroid lardə, karəgə tamtam bi vitamin B12 gana, kuru dalil adə-a kulaszəna ya lardə laa-a dajin. [Bayanna alamarambe](/brain-health/warning-signs/)-nde awi kulashiro walzəyin adə-a bayanzəyin.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Banaro banao mado:** faltəgə duno, kəla cin dəga falro dunon duno bi lezəyinba, mana manajinba, bi kəla kuttu kura, adə-a stroke bi lardə gade emergencybe alamaram wakəyin. 112 lan bowone.
 
-## Where Golden Moments fits
+## Golden Moments na ndaran faidajin
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments awo cadəye gana-a kəlanzəro tədəna, misallo [conversation cards](/games/conversation-cards/), [picture bingo](/games/picture-bingo/) kuru [calm breathing pause](/games/calm-breathing/). Sandi tama-a kuru sa kəlanzəro. Sandi kulashi bawo, kuru dementia-a daftəzəyinba bi nzundobe fulutəyinba.

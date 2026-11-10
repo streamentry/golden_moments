@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "ڈیمینشیا سٟتؠ زندگی گزاران وٲلؠ مَردَن خٲطرٕ سرگرمیہٕ"
+seoTitle: "ڈیمینشیا سٟتؠ مَردَن خٲطرٕ سرگرمیہٕ: اصلی خیال"
+description: "ڈیمینشیا سٟتؠ زندگی گزاران وٲلؠ مَردَن خٲطرٕ سرگرمی ہِنٛد خیال، یِم تِہِنٛزِ زندگی، شوقن تٕہ عادتن پؠٹھ چھِ بَنیٲدؠ، پرٛتھ اَکھ محفوظ بناونٕکؠ مشورہ سٟتؠ۔"
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  ڈیمینشیا سٟتؠ زندگی گزاران وٲلِس مَردَس خٲطرٕ بہترین سرگرمی چھِ تٔس نٛدِس پانے
+  زندگی ہِنٛدِس نِمِتھ: تِہُنٛد کٲم، تِہِنٛد شوق تٕہ تِہنزٕ روزانٕچ عادتٕ۔ دفترُک
+  سٲبق کٲم کرن وول ہیٚکہِ کاغذات ترتیب دِنَس پَسند کٔرِتھ، میکینک ہیٚکہِ صاف
+  اوزار تھَپھ کرنَس پَسند کٔرِتھ، تٕہ کھیٚلُک شوقین ہیٚکہِ پرٛون کھیٚل وُچھنَس پَسند
+  کٔرِتھ۔ شوق چھِ پرٛتھ مَردَس مُختٔلِف آسٲنی، تِمہٕ مۄکھٕ کٔرِو تَس نَفَرَس پؠٹھ
+  شروٗعات، نَہ زِ تٔم سٕنٛدِس جِنسَس پؠٹھ۔
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "یِہُنٛد تُہؠ خیال چھُو تھٲوان تٔم سٕنٛز پانے زندگی ہِنٛدِ نِمِتھ شروٗعات کٔرِو: تِہُنٛد کٲم، تِہِنٛد شوق، تِہنزٕ عادتٕ تٕہ تِم کیاہ آسن فخر سٟتؠ کران۔"
+  - "اصلی مقصد وٲلؠ کٲم، مِسلَن اوزار چھانٛٹُن، گاڑی چھَلُن یا لٔکٕر رَگڑُن، چھِ اکثر تِمن سرگرمین ہِنٛدِ کھوتہٕ زیادٕ پَسند یِوان یِم کلاس ہِیوٚ باسان۔"
+  - "پرٛتھ مَردس چھُنہٕ اوزار یا کھیٚل پَسند یِوان۔ واریاہن چھُ کھؠن بناوُن، موسیقی، باغبانی، فن یا بیٚیَن ہِنٛز دیکھ بھال کرٕنۍ تہِ پَسند۔ پٕرٛژھِو، وُچھِو تٕہ تِہِنٛزِ راہِ پؠٹھ پٔکِو۔"
+  - "کٲم ہِوِین کأمن ہُنٛد محفوظ بناونٕ خٲطرٕ تیٖز اوزار کٔڈِو، نگرٲنی کٔرِو، تٕہ صلاحیت بدلَن سٟتؠ یِم سۄدٕ بناوِو۔"
+  - "نا کرُن چھُ ٹھیک۔ تَس دِیِو اَکھ کردار، نَہ زِ اَکھ فرض، تٕہ بیٚیِس دۄہس کٔرِو بیٚیہِ کوٗشش۔"
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "ڈیمینشیا سٟتؠ زندگی گزاران وٲلؠ مَرد کیاہ سرگرمیہٕ چھِ پَسند کران؟"
+    a: "اتھ چُھنہٕ کانٛہہ اَکھ فہرست، تِکیازِ مَردَن ہِنٛد شوق چھِ تِتھۍ پٲٹھؠ مُختٔلِف یِتھۍ پٲٹھؠ باقی لُکن ہِنٛد۔ رۄچھ شروٗعات ہیکن تِہِنٛدِس پرٛونِس کأمَس سٟتؠ جُڑِتھ کٲم ٲسِتھ، مِسلَن کاغذات ترتیب دِنؠ یا نَٹ تٕہ بولٹ چھانٛٹنؠ، بیٚیہِ تِم شوق یِم تِمن واریاہ پَسند ٲسؠ، مِسلَن ماہی گیری، گاڑِ، موسیقی، کھؠن بناوُن یا کھیٚل۔ وُچھِو سُہ کیاہ چھُ پانَے کران تٕہ اَتھ پؠٹھ بنٲوِو مزید۔"
+  - q: "میون بابہٕ چھُ گروپی سرگرمین نِش انکار کران۔ بٕہ کیاہ کٔرِتھ ہیکہٕ؟"
+    a: "واریاہ لُکھ، مَرد تہِ تٕہ زنانہٕ تہِ، چھِ تِمن سرگرمین انکار کران یِم کلاس ہِوِین باسان یا بچن ہِوِین۔ اَمِہ بدل چھِ تَس کُنہِ کأمِچ دَرخواسْت کٔرِتھ وُچھنؠ: ’تُہؠ ہیٚکِوٕہ مےٚ یِم چھانٛٹنَس منز مَدَتھ کٔرِتھ؟‘ لۄکچار جَماعتہٕ یا اَکوے اَکِس سٟتؠ وقت گزراوُن ہیٚکہِ بٔڈِس کمرس ہِنٛدِ کھوتہٕ زیادٕ آرام دہ باسی۔"
+  - q: "کیاہ یہِ چھا محفوظ زِ سُہ کٔرِ اوزارن ہُنٛد اِستعمال؟"
+    a: "صرف نگرٲنی سٟتؠ تٕہ محفوظ اوزارن سٟتؠ۔ بِجلی وٲلؠ اوزار، تیٖز دھار تٕہ پرٛتھ کانٛہہ تیٖز چیز کٔڈِو، تٕہ تِیُتھ کٲم دِیِو یِتھ کٔرِتھ لٔکٕرِ ہُنٛد ٹُکرٕ رَگڑُن، صاف اوزار چھانٛٹُن، یا مۄٹے بولٹ اَتھہٕ سٟتؠ کسُن۔ Alzheimer's Association چھُ مشورٕ دِوان زِ ورک شاپہِ منٛز خطرناک چیزٕ کڈُن، یُتھ رَگڑنِ ہِیوٚ کٲم محفوظ پٲٹھؠ کٔرِتھ ہیٚکہِ۔"
+  - q: "سُہ اوس اَکھ پیشہٕ ور۔ کیاہ سادٕ کٲم بسنہٕ تَس بُرٕ؟"
+    a: "اگر یِم وقت گزراونٕ خٲطرٕ بناوِمٕتؠ باسان، تیٚلہِ ہیٚکن بُرٕ باسیٚتھ۔ کأمَس کٔرِو اصلی مَدَتھ ہِیوٚ پیش، بالغَن ہِنٛد مواد ورتٲوِو، تٕہ تِہِنٛدِس پرٛونِس کردارَس نکھ تال کُنہِ چیزِ ہُنٛد اِنتخاب کٔرِو، مِسلَن فہرست وُچھٕنۍ، فائل ترتیب دِنؠ یا ڈاک تیار کرنَس منز مَدَتھ کرٕنۍ۔ اگر تِم کانٛہہ کٲم واریاہ مہارت سٟتؠ کران ٲسؠ، تیٚلہِ ہیٚکہِ اَکھ مُتعلِق مگر مُختٔلِف سرگرمی تِمن مُوازنہٕ ہِیوٚ کم باسی۔"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+واریاہ لُکھ چھِ اکثر ”ڈیمینشیا سٟتؠ زندگی گزاران وٲلؠ مَردَن خٲطرٕ سرگرمیہٕ“ تَلاش کران، تِکیازِ عام مشورٕ چھِنہٕ تِہِنٛدِس زِندگی ہِنٛدِس مَردَس سٟتؠ میل کھؠوان باسان۔ یہِ چھُ ٹھیک فکر۔ مگر جواب چھُنہٕ ”مَردانٕ“ سرگرمین ہُنٛد کانٛہہ فہرست۔ جواب چھُ یہِ زِ أمِس خاص مَردَس نِش کٔرِو شروٗعات: تٔم کیاہ اوس نوکری منٛز کران، چھُٹِ دۄہَن کیاہ اوس کران، تٕہ کٔمِ چیزِ سٟتؠ اوس تَس باسان زِ سُہ چھُ کارآمد۔ شوق چھِ پرٛتھ أکِس خٲطرٕ مُختٔلِف آسان۔ واریاہ مَرد چھِ کھؠن بناوُن، باغبانی کرٕنۍ، رنگ بھرُن یا گِیوُن پَسند کران، تٕہ واریاہ زنانہٕ چھِ گاڑِ تٕہ بیس بال پَسند کران۔
 
-## How do I find activities he will actually enjoy?
+## بٕہ کِتھ کٔرِتھ لبہٕ تِژھ سرگرمی یۄس تِمن پٔزِ پٲٹھؠ پَسند یِیہِ؟
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+تِہِنٛزِ زندگی ہِنٛزِ دٔلیلِ سٟتؠ کٔرِو شروٗعات۔ Alzheimer's Association چھُ مشورٕ دِوان زِ [روزانٕچ منصوبہ بندی](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) بنٲوِو تَس نَفَر سٕنٛدین پَسندن، ناپسندن، طاقتَن تٕہ شوقن مطٲبِق، تٕہ تِہُنٛد پرٛون دۄہ کِتھ کٔنۍ اوس گُزران۔ پانے پٕرٛژھِو:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **تِہُنٛد کٲم کیاہ اوس؟** دفتر، زراعت، فیکٹری، ہُنر، فوج، سیل، تدریس، ڈرائیوِنگ، یا گرَہ؟
+- **چھُٹِ وقتس منز کیاہ ٲسؠ کران؟** ماہی گیری، تاش، لٔکٕرِ ہُنٛد کٲم، کھیٚل، عبادت، موسیقی، کھؠن بناوُن، یا گیراجس منز گاڑی؟
+- **تِہنزٕ عادتٕ کیاہ ٲسؠ؟** پرٛتھ صُبح چائے تٕہ اخبار؟ مۄسُم چک کرُن؟ پرٛتھ ہفتہٕ گاڑی چھَلٕنۍ؟
+- **سُہ کیاہ چھُ وُنہِ تہِ پانَے کرُن شروٗع کران؟** ایسوسی ایشن چھُ وَنان زِ اگر کانٛہہ نَفَر کٲم بِنا وَنہٕ شروٗع کرِ، مِسلَن فرش پوٗنٛز کرٕنۍ، تیٚلہِ ہیٚکن تِم کٲم روزانٕچ عادت بٔنِتھ۔
+- **سُہ کَمِہ نِش چھُ بٔژھان؟** کینٛہن چھُ کھیٚل وُچھُن پَسند یِوان؛ کینٛہن خٲطرٕ ہیٚکہِ اَمِچ رفتار تٕہ شور پریشان کُن ٲسِتھ۔ وُچھِو زِ سُہ کَمہِ وقتہٕ چھُ خوش، پریشان یا چِڑچِڑٕ باسان۔
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+خاندار تٕہ پرٛٲنؠ دۄست تہِ پٕرٛژھِو۔ تِمن ہیٚکہِ تِیُتھ شوق یاد ٲسِتھ یِم روزمرٕ زندگی نِش کم گٔمِتؠ آسَن۔
 
-## Activity ideas based on past work
+## پرٛونِس کأمَس مطٲبِق سرگرمی ہِنٛد خیال
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association چھُ اَکھ صاف مِثال دِوان: سٲبق دفتری کٲم کرن وول ہیٚکہِ ترتیب دِنٕچؠ کٲم پَسند کٔرِتھ، مِسلَن سِکہٕ ڈبِس منز تراوُن، ڈاک تیار کرنَس منز مَدَتھ کرٕنۍ یا کرنِچ فہرست بناوٕنۍ، یَلہِ زِ سٲبق زمیندار یا مالؠ ہیٚکہِ یارَس منز کٲم کرُن پَسند کٔرِتھ۔ یۄہے خیال چھُ واریاہن نوکرین پؠٹھ تہِ لاگو گژھان۔
 
-| Past work | Activity ideas | Simpler version |
+| پرٛون کٲم | سرگرمی ہِنٛد خیال | سۄدٕ شکل |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| دفتر یا کاروبار | کاغذات فولڈرَن منز چھانٛٹُن، لفافن پؠٹھ ٹھپہٕ لاگُن، فہرست وُچھٕنۍ، ڈیسکُک ڈراور ترتیب دِیُن | لفافہٕ تھۄد کرٕنۍ؛ پیپر کلپ أکِس ڈبِس منز تراوٕنۍ |
+| ہُنر یا میکینک | صاف نَٹ، بولٹ تٕہ واشر چھانٛٹُن، مۄٹے بولٹ اَتھہٕ سٟتؠ کسُن، اوزارَن ہِنٛز کیٹلاگ وُچھٕنۍ | زٕ کپن منز سائز مطٲبِق چھانٛٹُن |
+| زراعت یا باغبانی | پوٗدَن آب دِیُن، گَمَلَن منز پوٗدٕ لاگُن، پتے جمع کرٕنۍ، باغ چک کرُن | تُہؠ یَلہِ کٲم کٔرِو، سُہ بِیہِ باہرس کُن | بیٚیہِ بذرَن ہِنٛزٕ تھیٚلِ تھَپھ کرٕنۍ |
+| فوج | بوٗٹ پالش کرٕنۍ، ڈراور ٹھیک کرُن، اگر پَسند آسہِ تیٚلہِ خدمَتِک فوٹو وُچھٕنۍ | تَمہِ وقتُک موسیقی بوزُن |
+| سیل یا خٲرِدار سروس | یِنہٕ وٲلین سٟتؠ ملاقات کرٕنۍ، ناشتہٕ واتناوُن، کوپن چھانٛٹُن | دروازس نکھ بِہِتھ ”خوش آمدید“ وَنُن |
+| تدریس | بُلند آوازِ منز پَرُن، کتابہٕ ترتیب دِنؠ، تصویرٕ موضوع مطٲبِق چھانٛٹنؠ | أکِس سٟتؠ تصویر وٲل کتاب وُچھٕنۍ |
+| ڈرائیوِنگ یا نقل و حمل | نقشہٕ یا پرٛٲنۍ گاڑین ہِنٛز رسالہٕ وُچھٕنۍ، گاڑی چھَلٕنۍ | برانڈس پؠٹھ بِہِتھ گاڑِ یِن گژھان وُچھٕنۍ |
+| گر تٕہ خاندان | کپڑٕ تہہٕ کرٕنۍ، میز سجاوٕنۍ، کھؠن بناونَس منز مَدَتھ کرٕنۍ | نیپکن سیدٕ کرٕنۍ؛ کھؠنَس منز ہِلاوُن |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+کینٛہہ یادٕ، مِسلَن فوجی خدمت، ہیٚکن سخت احساسات بیدار کٔرِتھ۔ تِہِنٛزِ راہِ پؠٹھ پٔکِو، ماضی ہِنٛز کتھ بات تھٲوِو مُثبت، تٕہ اگر سُہ پریشان باسی تیٚلہِ نرمی سٟتؠ بدلٲوِو موضوع۔
 
-## Activity ideas based on hobbies
+## شوقن مطٲبِق سرگرمی ہِنٛد خیال
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **لٔکٕرِ ہُنٛد کٲم۔** لٔکٕرِ ہُنٛد ہموار ٹُکرٕ رَگڑُن یا چِڑین ہِنٛدِ گرٕچ کِٹ پؠٹھ رنگ لاگُن۔ Alzheimer's Association چھُ مشورٕ دِوان زِ ورک شاپہِ منٛز خطرناک مواد تٕہ اوزار کڈُن، یُتھ رَگڑنِ ہِیوٚ کٲم محفوظ تٕہ خوشگوار روزِ۔
+2. **ماہی گیری۔** کنڈِ کڈِتھ ٹیکل بکس ترتیب دِیُن، ماہی گیری ہِنٛز رسالہٕ وُچھٕنۍ، یا تالابس نکھ أکِس سٟتؠ بِہُن۔
+3. **گاڑِ۔** گاڑی چھَلٕنۍ، کروم پالش کرُن، کلاسک گاڑین ہِنٛز تصویرٕ وُچھٕنۍ، یا مسافر بنِتھ ڈرائیوَس پؠٹھ گژھُن۔
+4. **کھیٚل۔** پرٛون کھیٚل یا جھلک وُچھٕنۍ، نرم بال اَکھ أکِس کُن چھکنٲوِتھ، قالینس پؠٹھ گالف بال تراوُن، یا بیس بال کارڈ چھانٛٹُن۔ یہِ تھٲوِو آرام دہ تٕہ سکور گِنزُن ترٲوِو۔
+5. **تاش تٕہ کھیٚل۔** مانوس تاشِ ہُنٛد سۄدٕ کھیل، ڈومینو، یا جوڑ لبنٕ خٲطرٕ کارڈ پھِرٲوِتھ وُچھٕنۍ۔ آرام سان تھٲوِو تٕہ سکور گِنزُن ترٲوِو۔
+6. **موسیقی۔** تِہِنٛدِ کُمٲری ہِنٛد تٕہ وِہَن ہِنٛد گِت، پسندیدٕ بینڈ، یا کوٗنہِ بھجن۔ سانِہ [موسیقی سرگرمین ہِنٛز رہنمائی](/activities/music/) وُچھِو۔
+7. **کھؠن بناوُن تٕہ گرِل کرُن۔** سبزی چھَلٕنۍ، ساس ہِلاوٕنۍ، برگر بناوٕنۍ، یا تِمن وَنناوُن زِ تِم پنُن مشہور مرچِ وول کھؠن کِتھ کٔنۍ ٲسؠ بناوان، یَلہِ زِ تُہؠ سُہ بناوِو۔
+8. **اخبار۔** Alzheimer's Association چھُ وَنان زِ یُس نَفَر ہمیشہ اخبار پران اوس، سُہ ہیٚکہِ وُنہِ تہِ اَمِہ نِش لُطف تُلِتھ، اگر چہ سُہ پورٕ پٲٹھؠ نَہ تہِ سمجھی۔ صُبحُک چائے تٕہ اخبار ہیٚکہِ صبحِچ عادت روزِ۔
+9. **بناوُن۔** بٔڈؠ ٹُکرن وٲل ماڈل کِٹ یا بالغَن خٲطرٕ سادٕ تعمیراتی سیٹ۔ تِتھ ٹُکرٕ چُنِو یِم تھَپھ کرنَس آسان آسَن۔
+10. **کُنہِ چیزِ ہِنٛز دیکھ بھال کرٕنۍ۔** جانورن کھؠن دِیُن، پرِندَن ہُنٛد کھؠن تراوُن، یا پوٗدَن آب دِیُن۔ NIA چھُ [جانورن کھؠن دِیُن، تِہُنٛد سِنگار کرُن یا تِمن سٟتؠ سیر کرٕنۍ](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) تِمن سرگرمین منز شامِل کران یِم لُکھ پَسند ہیٚکن کٔرِتھ۔
 
-## How do I offer an activity without it feeling like busywork?
+## بٕہ کِتھ کٔرِتھ پیش کٔرٕ سرگرمی یُتھ نَہ وقت گذارنِ ہِیوٚ باسی؟
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+اَتھ کٔرِو اصلی مَدَتھ ہِیوٚ پیش۔ Alzheimer's Association چھُ مشورٕ دِوان زِ ”مہربٲنی کٔرِتھ، تُہؠ ہیٚکِوٕہ مےٚ مَدَتھ کٔرِتھ؟“ ؤنِو تٕہ کأمَس سٟتؠ اَکھ مقصد جوٗڑِو۔ مُوازنہٕ کٔرِو:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- ”تُہؠ چھِوٕہ یِم بولٹ چھانٛٹُن یژھان؟“ (یہِ چھُ آزمٲیش ہِیوٚ باسان)
+- ”مےٚ چھُ اَکھ مِلٲوِتھ بیگ ہیوٚمُت اوزارَن ہُنٛد، تٕہ شیلف ٹھیک کرنہٕ برونٛہہ چھِ مےٚ یِم چھانٛٹنٕچ ضرورت۔ تُہؠ ہیٚکِوٕہ مےٚ اَتھہٕ دِتھ؟“ (یہِ چھُ اصلی کٲم ہِیوٚ باسان)
 
-Other tips:
+باقی مشورٕ:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **بالغَن ہُنٛد اصلی سامان ورتٲوِو۔** اصلی اوزار یِمَن تیٖز دھار آسہِ کڈِمٕژ، اصلی کیٹلاگ، اصلی لفافہٕ۔
+- **أکِس سٟتؠ کٔرِو کٲم۔** زٕ نفر یَلہِ أکِس سٟتؠ کٲم چھِ کران، سُہ چھُ سنگت۔ اَکھ نَفَر یَلہِ بیٚیِس چھُ وُچھان، سُہ چھُ نگرٲنی۔
+- **ٹھیک نَہ کٔرِو۔** اگر بولٹ غلط کپَس منز گژھن، تیٚلہِ گژھن دِیِو۔ اہم چھُ أکِس سٟتؠ وقت تٕہ یہِ احساس زِ سُہ چھُ کارآمد۔
+- **شروٗعات کرنَس منز کٔرِو مَدَتھ۔** Alzheimer's Association چھُ وَنان زِ واریاہن لُکن چھُ وُنہِ تہِ کٲم کرنُک شوق آسان، مگر شروٗع کرُن تٕہ ترتیب دِیُن چھُ تِمن خٲطرٕ مشکل گژھان۔ گۄڈنِیُک اَکھ کٔرِو أکِس سٟتؠ۔
 
-## How do I adapt as things change?
+## حالات بدلَن سٟتؠ کِتھ کٔرِو مُطٲبِق؟
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+جوں جوں ڈیمینشیا بدلاوان چھُ، Alzheimer's Association چھُ مشورٕ دِوان زِ زیادٕ سادٕ تٕہ دۄہراونٕ وٲلؠ کٲم شروٗع کٔرِو، تٕہ تیار روٗزِو زِ سُہ نَفَر ہیٚکہِ کم فَعال کردار چُنِتھ۔ یُس مَرد برونٛہہ اِنٛجن ٹھیک کران اوس، سُہ ہیٚکہِ وٕنؠ اَکھ صاف رِنچ تھَپھ کٔرِتھ تٕہ گاڑین ہِنٛز کتھ بات کٔرِتھ خوش روٗزِتھ، یا تُہؠ یَلہِ کٲم کٔرِو سُہ وُچھِتھ۔ وُچھُن تہِ چھُ شمولیت۔
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+اگر تِم کانٛہہ کٲم واریاہ مہارت سٟتؠ کران ٲسؠ، تیٚلہِ ہیٚکہِ اَکھ مُتعلِق سرگرمی تِہِنٛدِس پرٛونِس ہُنرَس ہِنٛدِ کھوتہٕ بہتر باسی۔ ایسوسی ایشن چھُ وَنان زِ اَکھ پیشہٕ ور فنکار ہیٚکہِ پننِس کأمَس منز تبدیٖلیو سٟتؠ پریشان گژھِتھ، یَلہِ زِ اَکھ شوقین ہیٚکہِ نٔوِ راہِ نِش لُطف تُلِتھ۔ یۄہے چھُ أکِس ماہر لٔکڑ تَرٲش سٟتؠ تہِ۔
 
-## Safety with work-style tasks
+## کٲم ہِوِین کأمن منز حفاظت
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- بِجلی وٲلؠ اوزار، تیٖز دھار، کیل تٕہ تیٖز نوک وٲلؠ پیچ کٔڈِو۔
+- پینٹ تھِنر، پیٹرول تٕہ کیمیکل تالہٕ تر تھٲوِو۔
+- اگر سُہ وٕنؠ گاڑی نَہ چلاوان آسہِ، تیٚلہِ گاڑِ ہِنٛزٕ چابہِ نَظرِ نِش دۄر تھٲوِو۔
+- ورک شاپ تٕہ یارَس مَنٛز پرٛتھ کأمَس پؠٹھ تھٲوِو نگرٲنی۔
+- تِتھ بٔڈ ٹُکرٕ چُنِو یِم نِگلنہٕ یِیَن نَہ۔
 
-## What if he says no?
+## اگر سُہ ’نا‘ وَنہِ تیٚلہِ کیاہ؟
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+تِہُنٛد اَنتخاب مٲنِو۔ ’نا‘ ہِیٛند معنی ہیٚکہِ یہِ ٲسِتھ زِ کٲم چھُ تَس واریاہ مشکل باسان، بچن ہِیوٚ باسان، یا آز خٲطرٕ ٹھیک نَہ باسان۔ Alzheimer's Association چھُ خبردار کران زِ زبردستی نَہ کٔرِو۔ بیٚیہِ کانٛہہ کٲم کٔرِو کوٗشش، بیٚیہِ کانٛہہ وقت چُنِو، یا بس أکِس سٟتؠ بِہِو۔ وُچھِو [یَلہِ تِم ’نا‘ وَنن تیٚلہِ کیاہ کرُن](/caregiving/when-they-say-no/)۔
 
-## Games and conversation that fit
+## موزوں کھیٚل تٕہ کتھ بات
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[مَثَل پوٗرٕ کٔرِو](/games/finish-the-saying/) منز چھِ مانوس مَثَلٕ یِم کتھ باتِچ راہ کھولان چھِ۔ [کتھ باتِ ہِنٛد کارڈ](/games/conversation-cards/) منز چھِ مُختٔلِف موضوعن پؠٹھ کھُلٕ سوال، بِنا کانٛہہ آزمٲیش، یِم کأمَس تٕہ شوقن ہِنٛزٕ کتھٕ کھولنَس منز مَدَتھ ہیٚکن کٔرِتھ۔ [تصویر پَزل](/games/picture-puzzle/) منز چھِ پوٗرٕ تصویر ہر وقت سامنہٕ آسان، یَلہِ زِ تُہؠ ٹُکرٕ ادل بَدل کٔرِو، تٕہ بٔڈ اَچھَر وول [لفظ ژھانڈ](/games/word-search/) ہیٚکِو چھاپِتھ کچن میزس پؠٹھ قلمہٕ سٟتؠ پوٗرٕ کٔرِتھ۔ تِہِنٛزِ ماضیکٕ کتھٕ کِتھ کٔرِو کٔرٕنۍ بِنا تِمن آزمٲونہٕ، اَمِچ خٲطرٕ وُچھِو سٲنۍ [یاد تازٕ کرنٕچ رہنمائی](/activities/reminiscence/)۔

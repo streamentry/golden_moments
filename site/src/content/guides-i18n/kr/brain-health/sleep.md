@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Kanəm-a kəla karəŋgə-a: Kəla kulashi-a kuru awo banajin"
+seoTitle: "Kanəm-a Dementia-a: Kəla kulashi-a gulzəna"
+description: "Kəla kulashi kanəm-a kashirwa dementia-abe-a manazəna, kuru awo kanəm ngəla sadin am ngawo-a kuru kam kǝnjima-a banajin."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Kəla kulashi laa sawiya kanəm gana sa dinya loktu nzundu-a kashirwa dementia-abe
+  kǝskǝnza-a manazəna, kuru kəla kulashi dabbaram bǝye karəŋgə kaziyi cida dəgana-a
+  chizəyin. Dalil adə kərmai cizayin, kuru 2024 Lancet Commission ye kanəm-a kashirwa
+  faltəgəna so-alan gənazəyinba. Adate kanəm ngəla-a kǝn kəliwo yaskin so-a banajin.
+  Am dementia-a sətana-a kasuwa kanəmbe ngəwu-a, lobaramma-a gulzə kənzambə.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Kəla kulashi lardə UK lan, am ngawo 8,000 ro saa 25 lan zəyəna, kanəm awowa 6 ganama sa dinya loktu nzundu-a kashirwa dementia-abe kǝskǝnza-a manazəna."
+  - "Faltə kanəmbe-a alamaram bǝlaa dementia-abe waljin, adə nankaro dalil awi ye ngawo lardənzə asutinba."
+  - "Kəla kulashi kanəmbe karəŋgə beta-amyloid chizəyin manazəna adə jiren amma kərmai cizayin, ngəwunzə bərinyiya lan sadəna."
+  - "Sleep apnea ngəwu, kənza sadin, kuru kəla kulashi lan dementia-a kəltəna; kərtəmai kərawo-a kange buni-a asuzəna loktu lobaramma-a kuruwo-a ngəla."
+  - "Wande lobaramma ba ro kurun mi, dawari kanəmbe yaye badiyənəmin, dazəmin, maa faltəmin."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Kanəm ngəlamba ye Alzheimer's cizayin wa?"
+    a: "Adə fǝlezəyinba. Kəla kulashi laa kanəm gana-a kashirwa dementia-abe kǝskǝnza-a kəltəna, amma dementia kəlanzəma kanəm-a fasarjin, saa ngəwu tawari kawu ro. 2024 Lancet Commission ye dalil adə kashirwa faltəgəna so-alan gənatəro kənzamburo wunzəyinba."
+  - q: "Am ngawo-a kanəm sawiya awe mbeji?"
+    a: "National Institute on Aging ye gulzəna am ngawo-a kanəm am gade-a kəltə sawiya mbeji, bune fallan awowa 7-9 ro. Am ngawo ngəwu kərma badiyin kuru kərma cizayin, adə ngəwu alama."
+  - q: "Awi dalilro kam dementia-a sətana bune-a kanəm cizin kuru bune-a cin?"
+    a: "Dementia ye loktu tǝyi-alan kanəmbe-a cinbe-a fasarjin. Kərwu, duno, kəna maa dawari faidanzə-a dalil waljin. Nur kangalbe, cida yaskin bǝye kuru adate ngəla kausube-a banajin. Lobaramma ye dalil kənza sadin mbeji-a kuruwo."
+  - q: "Kam anzǝ kǝnjimaro dawari kanəmbe yikko wa?"
+    a: "Buro lobarammanzə-a mananə, dawari kasuwulan tǝwandəna so-a kəlzənaro. National Institute on Aging ye gulzəna dawari kanəmbe laa am Alzheimer's-a sətana-a hangal gənatə, cidatə kuru hangal kəmaltə mbeji-a cizayin."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Kanəm-a kəla karəŋgə-a kəltəna, amma futu jiri kəltənadə kərmai kulashi cizayin. Kəla kulashi laa kanəm gana-a kashirwa dementia-abe kǝskǝnza-a kəltəna. Dementia kəlanzəma kanəm-a ngəwu fasarjin. Shafi adəye kəla kulashi awo fǝlezəna-a kuru fǝlezəyinba-a bayanzəyin, adate kanəm ngəla faidajin-a kənzoyin, kuru kasuwa kanəmbe dementia lan ngəwu tawatəna-a manazəyin. Shafi adəye shawari dawari kanəmbe-a cizayinba; mana adə lobaramma-a rokko kənzambə.
 
-## Is poor sleep linked with dementia?
+## Kanəm ngəlamba dementia-a kəltəna wa?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Kəla kulashi sawiya laa kanəm gana-a kashirwa dementia-abe kǝskǝnza-a kəltəna, amma dalil adə cəmmawoba.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Kəla kulashi UK saa 25 ye.** Kulashima so am ngawo 8,000 [kəla kulashi Whitehall II](https://www.nature.com/articles/s41467-021-22354-2) lan zəyəna. Am sa 50 maa 60 lan awowa 6 ganama kanəm cizəna, ngawo yaye kashirwa dementia-abe mbeji am awowa 7 kanəm cizəna-a kozəna. Am sa 50, 60 kuru 70 lan awowa 6 ganama kanəm cizəna, kashirwanza am awowa 7 kanəm cizəna-a kozəna ngawo 30% kǝskǝna. Adə kəla kulashi kəruwube, adə nankaro kəlta fǝlezəyin amma dalil fǝlezəyinba.
+- **Rayi Lancet Commission ye.** [Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) ye kanəm-a kashirwa faltəgəna 14 nzə-alan gənazəyinba. Dalil adə kənzamburo wunzəyinba. Dalil fallanzə "dalil kəltəm"-a: faltə karəŋgəbe dementia lan saa ngəwu tawari kawu ro badiyin kuru kanəm-a fasarjin. Kəla kulashi kura falla lan, kəlta kanəm kuruwu-a dementia-abe-a saa bǝlinzə 5 burin kolzəna ngawo bayin.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Adə nankaro bune falla kanəm ngəlamba tammaro karəgə kənzambəba. Kanəm ngəla loktu fallan dioro ngəla, dalil adə kəla kǝnji, hangal faida kuru amarnəm kuli yaskin-a banajin.
 
-## What is the "brain-clearing" sleep research?
+## Kəla kulashi kanəm "karəŋgə chizəyin" adə awi?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Tammaro karənəmma kanəm "karəŋgə-a tǝlanzayin" gulzəna. Mana adə kəla kulashi jiren lan cizəna, amma kərmai cizayin.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Bərinyiya lan.** Kəla kulashi 2013 [NIH ye bayanzəna](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) ye fǝlezəna bərinyiya kanəm cizəna loktu, na cidawowa karəŋgəbe dawudənzə ngawo 60% kǝskǝna. Ingǝ karəŋgəbe dawudən ngəlaro lezəyin, awo kulashima so "glymphatic system" canza lan. Beta-amyloid, protein Alzheimer's-a kəltəna, karəŋgə bərinyiya kanəm cizənadə lan ngəlaro chizəyin.
+- **Ambe lan.** [Kəla kulashi gana 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115) ye am ngəla 20, sa 22-29 dawundən mbeji, bune ngəla yaye-a bune kanəmsəmaye-a karəŋgənza kəruzəna. Bune kanəmsəmaye ngawo yaye, alamaram brain scan beta-amyloid ye na falla lan, hippocampus kəlzəna, ngawo 5% kǝskǝna. Ruwumadə gulzəna adə dalil badiyaramma. Tammaro asutəyinba faltə adə ngawo tusu yaye bayin wa, maa adə chizayin ngəlaro cidajin wa maa beta-amyloid ngəwuro tǝmajinna.
+- **Jirinza-a kəltəna.** Lancet Commission ye gulzəna beta-amyloid gǝnatə kəlanzəma am ngawo-a kanəm-a fasarjin.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Awo fǝlezəna adəye kulashima so awiro kanəm-a kərawo-a bayanzəyin. Amma kanəm ngəla ye Alzheimer's dagatəyinro fǝlezəyinba.
 
-## What sleep habits may help?
+## Adate kanəm ngəla awi banajin?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Am ngawo-a bune fallan awowa 7-9 kanəm mbeji, am gade-a kəltə, [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) ye gulzənadə gai. Shawarinzə laa:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Loktu kanəmbe tilo lan diwo.** Kuli yaye, saptibǝ-a kəlzənaro, loktu fallan kanəmbo kuru loktu fallan cino.
+- **Adate tusu kawu kanəmbero dəwo.** Kawu kanəmbero kitabə karango, musko ngəla fanə maa ingə kange lan kasala.
+- **Dǝgana kanəmbe ngəlaro dəwo,** kange zauro maa kauri zauro ba.
+- **Kange yaskin caffeine wa so kǝntagə.** Kofi, shayi, lemu soda-a chocolate-a kanəm dagatəyin.
+- **Giya lǝgane,** gana yaye, NIA ye shawarzəyin.
+- **Kǝmbu kura sa 2-3 kanəmbero buro dionemin,** kuru ingə ngəwu kausulan yaye.
+- **Cida tǝyi diwo, amma sa 3 kanəmbero buro diomin.** [Shawari cidabe](/brain-health/exercise/)-a kuru.
+- **Allo kura (screen) dǝgana kanəmbero kolnemin.** NIA ye gulzəna TV kuruwo, computer, wayar maa tablet na adən faidatənəmin.
+- **Kausu maa kajiri kanəmbo gənatəmin** tammaro raknəmia.
 
-## Sleep problems in dementia
+## Kasuwa kanəmbe dementia lan
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Faltə kanəmbe dementia lan ngəwu tawatəna. [NIA ye ruwuzəna](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) kanəm ngəwu maa gana zauro, bune-a ngəwuro cin, kuru kange-a ngəwuro kanəmbo. Kuru "sundowning"-a bayanzəyin: hangal gənatə, hangal namtə maa hangal kəmaltə, nur kangalbe cizəna loktu badiyin maa kǝskǝyin.
 
-Caregiver tips from the NIA include:
+Shawari kǝnjima sədəma NIA ye kənzəna:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Nur kangalbe-a cida-a badiyaramlan diwo.** Kange-a dewo maa window cin təname yaskinlan, kuru kam adə-a kuli yaye cidaro banane. Nur kərawo ye loktu tǝyi-alan kanəmbe-a faltəro banajin.
+2. **Cida kərmai so badiyarambero dəwo.** Badiyaramlan kasala maa kǝmbu kura kausulan dio.
+3. **Kanəm kausube gənatəro kuru badiyarambero dəwo.** Kausulan kanəmbo gənatəmin.
+4. **Kausu ngəlaro dəwo.** Nur kǝntagə, kowo kǝntagə, kuru musko ngəla fane kam adə raamma yaye. [Hangal gənatə kausube](/caregiving/late-day-restlessness/) lan shawari gade mbeji.
+5. **Adate kanəmbero tilo dəwo.** Misallo, loktu fallan kuli yaye kitabə karango, NIA ye gulzənadə gai. [Adate kuli yaye tilo](/activities/daily-routine/)-a banajin.
+6. **Caffeine-a giya-a kǝntagə.**
+7. **Lambə kanəmbe gana-a faidatə** dǝgana kanəmbe, layi kuru dǝgana kasalabe lan.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Bune-a cinro, [shawari amarnəm fato NIA ye](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) lambə gana maa lambə kəlanza cin, cidaramtǝ dǝgana kasalabe lan, tape kəla kǝskǝna cidaram ngǝmtǝbe lan, kuru dawari na cokkolan dəganatə-a kəlzəna.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Cida gana, fuwu kausulan kǝla-a yaskǝn-a tussaro banajin. [Yintǝ ngəla Calm Breathing](/games/calm-breathing/) maa [Conversation Cards](/games/conversation-cards/) gana mananemin. Kawu kanəmbero awo hangal cizayin diomin, kuru kam adə basro wunzəna yaye danemin.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Kanəm fasartə kam kǝnjima-a yaye ngəwuro bunajin. [Shawari kǝla kǝnjimabe](/caregiving/caregiver-self-care/)-nzəye tusu-a banao-a bayanzəyin.
 
-## What about sleep apnea?
+## Sleep apnea ye fa?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Sleep apnea ye kanəmbe loktu yintǝ daptə gana gana cizayin, bune fallan ngəwuro. NIA ye gulzəna adə kənzatəyinba yaye, kashirwa bu kəskǝna, cidatə maa hangal chǝgǝri mbeji-a kǝltəyin. Alamaranzə kərtəmai kərawo-a kange-a buni mbeji-a, kuru am ngəwu adə asutəyinba. Lancet Commission ye kəla kulashi 11 lan manazəna, am sleep apnea-a sətana kashirwa dementia-abe mbeji ngawo 43% kǝskǝna. Amma kəla kulashi adə ngəwunzə tǝyi kambe-a ruyinba, adə nankaro kəlta adə cəmmawoba.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Sleep apnea-a asutə kuru kənzatə raknza. NIA ye gulzəna na'ura CPAP ye ngəwuro banajin. Nyi maa kam anzǝ kǝnjima kərtəmai kərawo cizəyin, kanəmbe loktu yintǝ daptəyin, maa kange-a buni zauro mbeji yaye, lobaramma-a guluwo.
 
-## A note about sleep medicines
+## Mana gana dawari kanəmbero
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Andi shawari dawari kanəmbe maa dawari gade-a yikkinba. NIA ye gulzəna dawari kanəmbe loktu gana banajin, amma kasuwa kanəm ngəlambabe-a kənzatəyinba. Kuru gulzəna dawari laa am Alzheimer's-a kanəmbo sadəna hangal gənatə, cidatə kuru hangal kəmaltə mbeji-a cizayin. Wande lobaramma maa farmasist-a mananyi ro kurun mi, dawari kanəmbe yaye, kasuwulan tǝwandəna so-a kəlzənaro, badiyənəmin, dazəmin, maa faltəmin.
 
-## Talk with a doctor
+## Lobaramma-a mananə
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Lobaramma-a lene nyi maa kam anzǝ kǝnjima kuli yaye buni mbeji yaye, bune ngəwun kanəm ngəlamba tammayin yaye, kərtəmai kərawo cizəyin yaye, maa kanəmbe loktu yintǝ daptəyin yaye. Kasuwa kanəmbe dementia lan daptəyinba yaye, [NIA ye shawarzəyin](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) lobaramma-a kuruwo. Kuruwo ye dalil kərwu, kasuwa kanəmbe gade, kǝndondi maa dawari faidanzə-a asutəro banajin. Hangal kəmaltə dǝptǝ, maa faltə kanəmbe dǝptǝ hangal kəmaltə-a kəltəna, kənza dǝptǝ mbeji. [Sabi lobaramma-a kuruwo](/brain-health/warning-signs/) karango.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Shafi adə bayanna kəla amma, shawari lobarammabe gəni. [Bayanna andibe lawar sədin](/medical-disclaimer/)-a kuru.

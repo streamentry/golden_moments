@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Kam ndǝ dementia-a kǝskǝna cidawa-a wande-a ayəwo kuluwayen"
+seoTitle: "Kam dementia-a kǝskǝna cidawa-a wande-a"
+description: "Dalil kam ndǝ dementia-a kǝskǝna cidawa-a wande au kuluwa, awi dimiyo, awi dimiyin ba, kuru sa kam laa daktər-a curono."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Sa kam ndǝ dementia-a kǝskǝna "aa" cana, naptǝramlan kasadǝne kuru ngawo
+  fallen au cidawa gade fal gana-a kǝnno. Wandero dalil mbeji: cidadǝ kǝlau
+  au kam laaye tǝdin, kamdǝ kǝmbu kǝla, zǝyi kǝla, kanəmdi kǝla, au kowo kura
+  hangalnzǝ-a sambarni. Kǝlasha baro, kambo baro. Cidadǝ-a fǝlele, suro
+  yindi-a kǝnno, au bananzǝ-a koro. Hal kamdəye suro sa gǝrede falzǝna, kauye
+  sa zǝkkǝ kwasa-a kənzǝben au kurun gade-a gonzǝben, daktər-a loktu-a ro curono.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "\"Aa\" jaawu kasadǝbe wo, masǝla kasǝmben faidatǝbe gani."
+  - "Wandero dalil mbeji: cidadǝ kǝlauro, laaye tǝdinnaro, kǝmbu, dondi, letǝgǝnyi, au hangalnzǝ-a sambarni."
+  - "Ngawo cinne, tane, kuru ngawo fallen, sa gade lan, au cidawa fǝlelan jarabtǝ."
+  - "Bananzǝ-a koro cidawa diro nzakko-a kotǝben ngǝla."
+  - "Kǝlasha baro, kambo baro, koro baro, au tǝddǝ baro. Nyi kǝlan ngǝlaro suro walzǝ au kambo lan niro kuruye."
+  - "Hal kamdəye suro sa gǝrede falzǝna, kauye kwasa au kurun gade-a kǝnzǝben, daktər-a loktu-a ro curono."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Yimbǝso cidawa-a samma kollǝro ngǝla wa?"
+    a: "Aa, yim kul kauye. Rokko nap, musko fanza, au dunyabe kuru ngǝlaro cistǝ bas mbeji. Amma kam laa kawu kura-a ro awo samma-a ro karǝgǝnzǝ fakko-a kolzǝna, daktərnzǝro gulne, dalil karǝgǝ kǝbi, zǝyi au dondi gade mbeji."
+  - q: "Awo cidiya sǝdinna-a ayəwo wande?"
+    a: "Cidawa ngawo-a diro nzakko-a cotǝna dementia ye kǝlauro cədǝna sa, kamdǝ nanguji. Cidawa adǝye kǝreta fǝle gana-a jarabtǝ, misallo tima ngasoro buton-a raktǝ, au kulo bibbero furtǝ-a kuru."
+  - q: "Shi-a kasaccǝgǝro walzǝgǝ yo wa?"
+    a: "Aa. Kam laa dementia ye cidawa kǝlauro cədǝna-a diro kambo kuluwa-a cizayin. \"Aa\" nzǝ-a kasadǝne, manano-a faltǝ, kuru ngawo fallen au fǝletǝ gade lan kǝnno."
+  - q: "Sa ayilan faltǝgǝ hal kamdəye lamarra gǝnatǝro waljin?"
+    a: "Kam laa tajirwa-a ro badiyaro au alamaram dondi gǝnatǝbe fǝlezǝna, 112 ga bowone. Hangalnzǝ faltǝgǝ gǝrede au hal kamdəye suro awowa-au yimbewa-a ro cidazǝna, kauye kange au kurun bǝlin-a kǝnzǝben, daktərnzǝ-a loktu-a ro bowone."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Awo samma-a dazǝne, bikkǝ au lele-a kǝnno, kuru "Aa" fanǝm. Au cidawadǝ ngǝlaro badizǝna amma tablet-a tustǝna-a-a kǝla kǝriwulan dazǝna. Adǝ karǝgǝmbo cizayi, kuru ngəwuye mbeji. Wanda au kuluwa ngəwuro kǝla kamdəye maanan, na ngǝliro gani. Maana adǝ-a asutǝ awo ngawo dimiro fǝlejin.
 
-## Why does someone with dementia refuse activities?
+## Ayəwo kam ndǝ dementia-a kǝskǝna cidawa-a wande?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Ngəwuro dalil mbeji, kamdǝ shi-a kǝlamlan bayinro tǝdin ba yaye. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ye gulzǝna, wanda adǝ kamdǝ cidawa-a diro tǝdin ba au jarabtǝro rijin maanan. Dalilwa ngəwube suronzan:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Kǝlau tǝdinna.** Cidadǝ kura nzakko-a majin, dementia ye kǝlauro cədǝna, kuru kam gade fuwunzǝn cidajinro nanguji.
+- **Kam laaye tǝdinna.** Kam kura-a suro kartun laaye, kǝla laaye, au cidawa nduli laaye ro tǝdinna-a asujin.
+- **Kǝmbu.** Kam nduli-a so kajiriye dunonzǝ gana cizayin. [Cidawa napkǝnabe kajiriye](/caregiving/late-day-restlessness/)-a kuru.
+- **Tǝyi dondiye.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) ye zǝyi, kǝnashiro bawo, kuru-a fanzaro au fanzaro zauro, constiwu, kanəmdi, ngudi kǝnza, au kurun bǝlinye alamaramnzǝ-a dalil letǝgǝnyibe ro gulzǝna.
+- **Awo ngəwu kǝlan cidi.** TV kǝla kura, mana samno, au na kam ngəwu-a hangal-a sambarjin.
+- **Kambo tǝdin.** NIA ye kambo dementia ye cidawa kǝlauro cədǝna-a diro, au awo au kam ngawo-a taksǝro walzǝ-a dalil kuluwaye ro gulzǝna.
+- **Karǝgǝ kǝbi.** Awo sammaro karǝgǝ fakko-a koltǝ karǝgǝ kǝbiye alamaramnzǝ mbeji, adǝ-a daktərro gulzǝ.
+- **Sawu "aa" canzǝna.** Kam kura-a "aa" canzǝro izinnzǝ mbeji.
 
-## What should I try when they say no?
+## Sa shi "aa" cana, awi dimiyo?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+"Aa" nzǝ-a naptǝramlan kasadǝne, kuru awo laa-a faltǝ: sa, cidawa, kǝlaunzǝ, au fǝletǝ niye suro.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Kǝrma kollǝne.** "Ngǝla. Ngawo fallen." Daji shiye ngawon cinne, awo gade ro lene, yintǝ bawo.
+2. **Ngawo fallen jarabtǝ.** Alzheimer's Association ye ngawo fallen, au sa gade lan jarabtǝro shawari cin.
+3. **Gana-a cǝde.** Bikkǝ fal tilo, bikkǝ samma gani. Tawul fal tilo, baskǝt kazəmuye gani. Foto gana, suro gana, foto-a fǝlelan kolne.
+4. **Suro yindi-a kǝnno.** "Foto ngudobeye kuru raamma ra, au musko fanza raamma ra?" Suro kǝndo kambo kamdə-a hangalnzǝro kalakcin.
+5. **Bana-a koro, nzakko-a gani.** "Adǝ-a raktǝgǝro banasǝgǝmiya ra?" au "Kǝla fin ngǝla kuru raamma?" Bana tǝdin jarabtǝn tǝdinnayen gade.
+6. **Nyi kǝlan badine.** Shi-a koronin cidawa-a kǝlan badine. Kam nduli-a so awo badiyaro kǝlanzǝga kǝskǝnjin, amma kǝskǝnniya yaye, sa rokko-a kǝltǝna.
+7. **Awo tǝyiye au napkǝnabe ro faltǝ.** Lele gana, musko, kǝmbu, kazǝmu ngaso, au [yintǝ fǝle napkǝnabe](/games/calm-breathing/) rokko-a di. NIA ye hangal-a musko, kǝtabu au lelero faltǝro shawari cin.
+8. **Suro shilan cidazǝna kollǝne.** Doka-a ganyi fǝletǝ gade lan bikkǝro raana yaye, shi-a kǝskǝne. Alzheimer's Association ye fǝle kǝskǝnaro shawari cin.
 
-## What should I say when they get frustrated?
+## Sa shi kuluwayen, awi gulzǝgǝ?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Naptǝramlan mane, kǝla ni-a cide, kuru hangalnzǝ-a kǝnjǝne. [Alzheimer's Association ye kuluwaye-a kǝla](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) lan ngawo cine izini-a koro, kǝla napkǝnabe-a faidatǝ, kuru suro yindiye dawunzǝn suro-a kǝnoro shawari cin. Kǝla adǝbe:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- "Kashshata, adǝ letǝgǝnyi. Koliyo."
+- "Ngǝlaro dim. Wu na adǝn."
+- "Sa ni-a mbejiya, awo gade lan banasǝgǝmiya ra?"
+- "Shaaye nasha?"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Daji cidawa-a datǝ, masǝla kura-a ro waltǝnin. [Kǝla mana ye shawariwa](/caregiving/communication-tips/)-nzǝn awo gade-a gultǝ mbeji.
 
-## What should I avoid?
+## Awi dimiyin ba?
 
-Some natural reactions tend to make things worse.
+Fǝletǝ laa nduli so masǝla-a sammbejin.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Kǝlashawa au kambo.** "Marne, falro" au "Adǝ-a raamma" ngəwuro bana cizanyi.
+- **Koro au tǝddǝ.** "Nonəmma" au "Aa, tǝdi adǝ gani" kambo-a sapsayin.
+- **Kǝlan ngono.** NIA ye lǝktǝram-a gotǝjin, kamdǝ-a kǝlanzǝ-a faltǝgǝ adǝ-a cizayin wo.
+- **Kuru cin au suro walzǝ.** Alzheimer's Association ye kǝla sapsa, rijǝgǝ fǝle, korǝtǝ, kuru cin, kamtǝ, wutǝ, kuluwa fak, au kǝlasharo wande, kuru fuwunzǝn gǝrede faltǝro wande shawari cin.
+- **Nangu-a faidatǝ.** "Adǝ samma niro dazǝnakko" sandi yindi-a sammaro kǝbi cizayin.
+- **Suno kǝbi kǝndo.** "Kǝla kǝriwu" au "Zauro" dalil jili-a gǝrzǝjin kuru masǝla-a fǝlezǝro kǝlau cizayin.
 
-## How can I find out what is behind repeated refusals?
+## Wanda ngəwube dalilnzǝ-a fǝletǝgǝn asutǝ?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Mingǝu fal au yindi-a ro awo gana-a ruwone. NIA ye faltǝgǝ hal kamdəye-a ruwotǝ bana kǝskǝma-a-a daktərwa-a fǝletǝ-a asuzǝro au dalilnzǝ-a matǝro banajin canna.
 
-Jot down:
+Adǝ-a ruwone:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- sa yimbeye;
+- awi kǝnno-a kuru fǝletǝ finro korono;
+- na adǝn awi cidiyin (kowo, kusotto, TV);
+- fǝletǝ kǝnashinzǝye, kǝmbunzǝye, ngudinzǝye, kuru sa darǝn balballa-aro lewono;
+- kurun bǝlin au dondi ngawo mbejiya.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Fǝletǝ ngəwuro gǝrede fǝlezayin: wandawa kajiri 4 ngawoben tilo-a cidiya, bikkǝ fal-a ro tilo, au TV cidiya sa-a ro tilo. [Family Caregiver Alliance ye kǝla kam dementia-a kǝskǝna-be-a kǝla shawari nzǝ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)-a naptǝramlan bayin: kamdǝ-a faltǝro raktǝnyi, amma fǝletǝnde-a-a na ndeye-a faltǝro raktǝ.
 
-## When should I talk to a doctor about refusal or frustration?
+## Sa ayilan wanda au kuluwaye kǝla daktər-a gulzǝgǝ?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Hal kamdəye gǝrede, suro, au alamaram dondiye-a kǝltǝzǝna sa, daktər-a gulne. NIA ye faltǝgǝ hal kamdəye gǝrede au suro falzǝna, kauye sa kamdǝ kwasa-a sǝdǝna au kurun-a faltǝna-a kǝnzǝben, loktu-a ro daktərro bayinro gulzǝ.
 
-Contact their doctor promptly if you notice:
+Alamaram adǝ-a kurumminro daktərnzǝ-a bowone:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- hangalnzǝ gǝrede faltǝgǝ au faltǝgǝ kura awowa-au yimbewa-a ro;
+- alamaram zǝyiye, misallo shimo tǝdin, tǝyi laa-a fato, au tǝyi-a gǝrtǝgǝ bǝlin;
+- kange au alamaram kwasabe gade;
+- kurun bǝlin au faltǝna ngawo hal kamdəye-a faltǝzǝna;
+- awo sammaro karǝgǝ fak, shimo, au kǝlantǝ minggu yindi-a kozǝna;
+- kǝmbu au ngudi-a wande.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association ye kam ndǝ hal kamdəye-a fǝlezǝna samma, kauye gǝrede badizǝna sa, dondi ye kuru ngǝlaro ruiro shawari cin. Family Caregiver Alliance ye burwon daktər-a kuruwo canna, dalil hal kamdəye-a dalil dondiye mbeji. Daktər au fərmasi-a mananinro kurun bǝlin-a badine, datǝne, au faltǝne.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Kam laa tajirwa-a ro badiyaro au alamaram dondi gǝnatǝbe mbejiya, 112 ga bowone. NIA ye bowobe kamdǝro kamdǝn dementia mbejiro gulzǝro shawari cin.
 
-## Is it okay if we do nothing at all?
+## Awo falma dibaiya ngǝla wa?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Aa. Yim laa lan cidawa ngǝlabe cidawa bawo: rokko nap, mukko-a rotǝ, musko raamma-a fanza, au wundon ngudowa-a kuru. Adǝ cidajin gani. [Rokko bikkǝye kǝla shawari ndeye](/caregiving/how-to-play-together/) sa ayilan gǝrede datǝ au badinba kollǝ fǝletǝ ngǝla wo bayinjin.
