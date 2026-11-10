@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Aktivite souvni: bwat souvni, istwa lavi ak foto"
+seoTitle: "Aktivite souvni pou demans: ide san kesyon"
+description: "Kijan pou pataje souvni ak yon moun k ap viv ak demans san poze kesyon: pale sou foto, bwat souvni ak liv istwa lavi, ak fraz ki kenbe tout bagay rilaks."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Pataje souvni vle di pran plezi ansanm ak tan pase a grasa foto, objè, mizik
+  ak istwa. Ou ka fè yon bwat souvni, prepare yon liv istwa lavi ki senp, oswa
+  gade foto youn akote lòt. Pa janm poze kesyon pou teste: evite « Èske w
+  sonje? » ak « Ki moun sa ye? » epi sèvi ak envitasyon ouvè tankou « Rakonte m
+  sou sa. » Yon bèl konvèsasyon ki cho konte plis pase jwenn tout detay yo
+  kòrèk.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Pataje souvni se yon konvèsasyon, se pa yon tès. Detay yo pa bezwen egzak; sa ki enpòtan se plezi a."
+  - "Ranplase « Èske w sonje...? » ak « Ki moun sa ye? » pa kòmantè ak envitasyon tankou « Rakonte m sou jounen sa a. »"
+  - "Yon bwat souvni ki gen objè ki soti nan lavi moun nan bay men yo ak konvèsasyon an yon bagay pou kenbe."
+  - "Yon liv istwa lavi ede fanmi, vizitè ak moun k ap bay swen yo konnen moun nan, pa sèlman dyagnostik la."
+  - "Si yon souvni pote tristès, bay rekonfò an premye epi chanje sijè a dousman."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Kisa pataje souvni vle di pou moun k ap viv ak demans?"
+    a: "Pataje souvni se pale sou souvni ak eksperyans pase yo, souvan avèk èd foto, objè, mizik oswa videyo. Sa ka fèt tèt a tèt oswa an gwoup. Objektif la se fè yon konvèsasyon agreyab ki gen sans, pa teste sa moun nan ka sonje."
+  - q: "Poukisa mwen pa ta dwe mande « Èske w sonje? »"
+    a: "Kesyon ki teste memwa ka fè yon moun santi l jennen oswa enkyè lè repons lan pa vini. National Institute on Aging mete kesyon ki mande si yon moun sonje yon bagay oswa yon moun nan lis sa pou evite. Fè kòmantè sou sa w wè pito, epi kite moun nan ajoute sa li vle."
+  - q: "Kisa mwen ta dwe mete nan yon bwat souvni?"
+    a: "Chwazi objè ki an sekirite epi ki solid, ki gen rapò ak lavi moun nan: bagay travay, materyèl pou pastan, yon foula prefere, kat postal, kat resèt, souvni espò oswa kopi foto. Evite objè pwenti, ti bagay yo ta ka vale, ak orijinal ki pa ka ranplase."
+  - q: "E si moun nan di yon bagay ki pa kòrèk?"
+    a: "Kite sa pase. Si manman w di foto a montre sè li alòske se kouzin li, sa pa gen pwoblèm. Korije moun nan ka fè yon moman cho vin tounen yon tès. Swiv istwa moun nan ap rakonte a epi pran plezi avè l."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Pataje souvni senpleman vle di pran plezi ak tan pase a ansanm. Pou anpil moun k ap viv ak demans, souvni ki soti plizyè dizèn ane pase yo ka rete pi klè pase sa ki te pase maten sa a. Foto, objè abitye, mizik ak istwa ka fè souvni sa yo parèt epi ba nou yon bagay cho pou pataje. Gen yon sèl règ: se yon konvèsasyon, pa janm yon tès.
 
-## What is reminiscence, and how is it different from quizzing?
+## Kisa pataje souvni ye, epi ki jan li diferan de poze kesyon pou teste?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Pataje souvni se pale sou souvni avèk èd foto, objè, mizik oswa videyo, nan vitès moun nan chwazi. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dekri li kòm pataje eksperyans ak istwa pase yo avèk èd foto, objè, videyo oswa mizik, nan yon liv oswa sou yon tablèt. Poze kesyon pou teste diferan: li mande moun nan bay yon bon repons, epi sa ka pote jèn olye plezi.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) mete nan lis bagay pou evite a kesyon ki mande yon moun si li sonje yon bagay oswa yon moun. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sijere pou evite kesyon ki depann sou memwa kout tèm epi pale sou tan ki pi lwen pase a pito.
 
-| Instead of | Try |
+| Olye de | Eseye |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| « Èske w sonje sa? » | « Sa sanble yon bèl jounen. Rakonte m sou li. » |
+| « Ki moun sa ye? » | « Men matant Rose sou plaj la. Gade chapo sa a. » |
+| « Ki ane sa te ye? » | « Sa sanble ansyen kay la. Ki jan li te ye pou viv la? » |
+| « Non, se pa Bill, se Frank. » | « Li sanble yon moun ki te bay anpil plezi. » |
+| « Ou te deja di m sa. » | « Mwen renmen istwa sa a. » |
 
-## How do you talk about photos without quizzing?
+## Ki jan pou pale sou foto san poze kesyon pou teste?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Kòmanse ak sa w wè, epi kite espas pou moun nan ajoute yon bagay si li vle.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Chita youn akote lòt.** Kenbe albòm nan ant nou de pou nou ka gade ansanm, pa pou teste moun nan anfas yon tab.
+2. **Chwazi kèk foto.** Senk bon foto pi bon pase yon bwat antye. Foto ki gwo epi klè pi fasil.
+3. **Nonmen moun yo ou menm.** « Men ou menm ak papa jou maryaj nou » retire presyon an.
+4. **Fè kòmantè sou detay yo.** Rad, machin, manje, tan an, figi. « Ala yon machin. Li sanble tèlman klere. »
+5. **Envite, pa fòse.** « Rakonte m sou... » oswa « Kisa w remake? » Silans pa gen pwoblèm.
+6. **Swiv direksyon moun nan.** Si li kòmanse pale de yon lòt bagay nèt, ale avè l.
+7. **Sispann pandan sa toujou agreyab.** Fèmen albòm nan anvan fatig la vini.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Pou kesyon foto ki deja prepare, eseye [kat konvèsasyon](/games/conversation-cards/). Pou fè foto fanmi ou yo vin tounen yon jwèt senp kote moun yo asosye de foto, eseye [pè foto](/games/photo-pairs/); foto ou chwazi yo rete nan navigatè ou a.
 
-## How do you make a memory box?
+## Ki jan pou fè yon bwat souvni?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Yon bwat souvni se yon bwat ki gen objè ki soti nan lavi moun nan pou li ka manyen yo epi pale sou yo.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Chwazi yon bwat solid** ki fasil pou louvri, tankou yon bwat soulye, yon bwat chapo oswa yon ti bwat an bwa.
+2. **Chwazi yon tèm oswa melanje bagay yo.** Travay, yon pastan, yon kote, yon peryòd, oswa yon ti melanj tout bagay.
+3. **Rasanble objè ki an sekirite.** Senk a dis bagay ase pou kòmanse.
+4. **Sèvi ak kopi pou bagay ki gen anpil valè.** Fè kopi foto ak dokiman ki pa ka ranplase epi kenbe orijinal yo an sekirite.
+5. **Retire yon sèl bagay nan yon fwa.** Lonje l bay moun nan, di yon ti bagay sou li, epi gade ki kote konvèsasyon an ale.
 
-Ideas to include:
+Ide pou mete ladan l:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Travay:** yon badj non, yon ti zouti, yon moso inifòm, yon kaye, yon epengl enfimyè, yon liv resèt ki soti nan yon restoran.
+- **Kay:** yon kat resèt ki ekri ak men moun nan, yon ti sèvyèt, yon foula oswa yon kravat li te renmen.
+- **Pastan:** yon zen lapèch san zen an, yon boul bezbòl, yon boul fil, yon pake grenn.
+- **Kote:** kat postal, kat jeyografik, yon souvni vwayaj, yon koupe jounal vil natal la.
+- **Fanmi:** kopi foto, yon desen yon timoun te fè, yon envitasyon maryaj.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Pa mete objè pwenti, ti bagay yo ta ka vale, oswa nenpòt bagay ki ka pote souvni ki fè mal, sof si ou konnen moun nan dakò.
 
-## How do you make a life-story book?
+## Ki jan pou fè yon liv istwa lavi?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Yon liv istwa lavi se yon albòm senp ki gen foto ak kout tit sou lavi moun nan. Se yon bagay nou ka gade ansanm, epi li ede vizitè ak moun k ap bay swen yo wè tout moun nan.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Chwazi yon fòma.** Yon klasè ak pòch plastik, yon liv foto enprime, oswa yon dyaporama sou yon tablèt.
+2. **Planifye kèk seksyon.** Timoun, lekòl, travay, fanmi, kote moun nan te viv, lafwa, pastan, manje ak mizik li renmen.
+3. **Mete youn oswa de foto pou chak paj** ak yon kout tit an gwo lèt: « Mary, 22 an, kòmanse travay nan bank la. »
+4. **Mete sa moun nan renmen ak woutin li yo.** « Li pran kafe ak lèt. Li renmen kantik dimanch. Li pa renmen televizyon ki fò. » Sa ede nenpòt moun k ap pran swen li.
+5. **Mete moun nan ladan l** otan li vle, pou chwazi foto, rakonte istwa oswa senpleman gade liv la ap pran fòm.
+6. **Kontinye ajoute bagay.** Li pa bezwen fini pou li itil.
 
-## More reminiscence ideas
+## Lòt ide pou pataje souvni
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Jwe mizik ki soti nan jèn moun nan** epi pale sou kote mizik sa a mennen l. Gade [aktivite mizik](/activities/music/).
+- **Gade fim lakay oswa emisyon televizyon** ki soti nan peryòd moun nan te renmen yo.
+- **Kwit yon manje li te konn manje lè li te timoun** epi kite sant yo louvri konvèsasyon an.
+- **Gade yon kat** vil natal moun nan epi swiv lari li konnen yo.
+- **Manyen ansyen katalòg oswa magazin** epi pale sou pri, mòd ak machin.
+- **Anrejistre istwa li yo** sou yon telefòn, ak pèmisyon li, pou fanmi an.
+- **Pataje pandan apèl yo.** Montre yon foto pandan yon apèl videyo; gade [apèl telefòn ak apèl videyo](/activities/phone-and-video-calls/).
+- **Pote yon foto oswa yon objè lè w vizite.** Sa bay vizit la yon bagay fasil pou konsantre sou li; gade [vizit](/activities/visiting/).
 
-## What if a memory is painful?
+## E si yon souvni fè mal?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Gen souvni ki pote lapenn, regrè oswa laperèz. Si moun nan vin fache oswa tris, sispann, rekonfòte li epi chanje sijè a oswa aktivite a dousman. Pa diskite sou sa ki te pase. Family Caregiver Alliance konseye pou pa eseye konvenk yon moun li gen tò epi sijere pou reponn ak santiman moun nan montre, paske santiman sa yo reyèl. Si moun nan pale de yon moun ki mouri tankou si moun sa a vivan toujou, reponn ak santiman an: « Ou sonje l anpil. Rakonte m sou li. »
 
-## What does the research say?
+## Kisa rechèch yo di?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Yon [revizyon Cochrane sou pataje souvni](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ki kouvri 22 esè ak 1 972 moun, te jwenn efè ki pa t toujou menm, ki te piti, epi ki te varye selon kote ak fòma. Li pa te jwenn prèv ki montre li fè moun k ap viv ak demans mal. Nou sijere pataje souvni paske li ka kreye bon moman ki cho epi ki gen sans ansanm, pa kòm yon tretman. Pou plis konsèy sou konvèsasyon ki fasil, gade [konsèy pou kominike](/caregiving/communication-tips/).

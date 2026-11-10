@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Aktivite demans ou ka enprime gratis"
+seoTitle: "Aktivite demans gratis pou enprime"
+description: "Aktivite demans gratis pou enprime: mo kache an gwo lèt, paj pou kolore, kat konvèsasyon ak bingo foto, ansanm ak konsèy pou enprime yo byen."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments ofri aktivite demans gratis ou ka enprime: yon jwèt mo kache an
+  gwo lèt, paj pou kolore, kat konvèsasyon ak foto, ak kat bingo foto. Louvri
+  nenpòt paj jwèt epi sèvi ak bouton Enprime li. Enprime an gwo lèt ki klè sou
+  papye ki solid, mete yon sèl aktivite sou chak paj, epi plastifye paj ou vle
+  sèvi ak yo ankò. Enprime senp ou fè lakay, tankou yon paj sou istwa lavi oswa
+  yon orè chak jou, itil tou.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Aktivite nou yo ou ka enprime yo gratis: Mo Kache, Kolore, Kat Konvèsasyon ak Bingo Foto. Chak paj jwèt gen yon bouton Enprime."
+  - "Enprime an gwo lèt ki klè, ak bon kontras, epi mete yon sèl aktivite sou chak paj."
+  - "Papye ki solid oswa papye katonnèt pi fasil pou kenbe epi li pi difisil pou li chifonnen. Plastifye paj yo pou sèvi ak yo ankò ak makè efasab."
+  - "Enprime senp ou fè lakay, tankou yon paj sou istwa lavi, yon orè chak jou oswa etikèt ak foto pou pòt, senp epi itil."
+  - "Yon paj enprime se yon envitasyon, se pa devwa. Fè yon pati ladan, oswa pa fè anyen ditou, pa gen pwoblèm."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Èske aktivite demans nou yo ou ka enprime yo gratis?"
+    a: "Wi. Paj Mo Kache, Kolore, Kat Konvèsasyon ak Bingo Foto sou sit sa a gratis pou itilize epi enprime. Louvri paj jwèt la epi sèvi ak bouton Enprime a."
+  - q: "Ki aktivite ou ka enprime ki pi bon pou demans?"
+    a: "Pi bon enprime yo senp, klè epi fèt pou granmoun: yon jwèt mo kache an gwo lèt ak mo ki ale sèlman atravè ak anba, paj pou kolore ak liy klè, kat ak foto ki fè konvèsasyon kòmanse, ak bingo foto pou gwoup. Chwazi aktivite a selon sa moun nan renmen ak sa li kapab fè kounye a, epi mete yon sèl aktivite sou chak paj."
+  - q: "Kijan mwen ka fè enprime yo pi fasil pou wè ak pou itilize?"
+    a: "Sèvi ak gwo lèt ki klè, lank nwa sou papye blan oswa koulè krèm, epi kite ase espas. Enprime sou papye ki solid oswa papye katonnèt pou paj la rete plat, chwazi papye mat pou diminye ekla, epi sèvi ak yon clipboard oswa yon tapi ki pa glise pou kenbe paj la anplas. Plastifye paj yo ede yo dire pi lontan."
+  - q: "Èske mwen ka enprime aktivite nou yo pou yon kay swen oswa yon pwogram lajounen?"
+    a: "Wi. Anplwaye ki okipe aktivite yo ka enprime paj nou yo pou rezidan yo ak pou gwoup yo. Bingo Foto fèt pou gwoup epi li gen yon moun ki anonse sou ekran ou ka montre sou yon televizyon oswa yon pwojektè."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Pafwa pi bon aktivite a se yon fèy papye ak yon plim sou tab kizin nan. Enprime yo pa bezwen chaje, yo pa bezwen modpas, yo pa bezwen ekran, epi yo fasil pou pote nan yon vizit oswa nan yon gwoup. Paj sa a dekri aktivite gratis sou sit nou an ou ka enprime, kijan pou enprime yo pou yo fasil pou wè ak pou kenbe, ansanm ak kèk enprime senp ou ka fè lakay ki itil pou fanmi yo ak anplwaye ki okipe aktivite yo.
 
-## What free printable activities do you offer?
+## Ki aktivite gratis nou ofri pou enprime?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Nou ofri kat aktivite gratis ou ka enprime. Louvri nenpòt nan paj jwèt sa yo epi sèvi ak bouton **Enprime** a pou jwenn yon vèsyon ki fasil pou enprime.
 
-| Printable | What it is | Good for |
+| Aktivite pou enprime | Kisa li ye | Bon pou |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Mo Kache](/games/word-search/) | Yon jwèt mo kache an gwo lèt ak mo ki ale sèlman atravè ak anba | Yon moman trankil ak yon plim; yon moun ki te renmen jwèt devinèt |
+| [Kolore](/games/coloring/) | Paj pou kolore ou ka enprime, oswa kolore sou ekran | Yon moman detann ak kreyatif; nenpòt etap, ak èd |
+| [Kat Konvèsasyon](/games/conversation-cards/) | Kat ak foto ak kesyon konvèsasyon ouvè, san egzamen, selon tèm | Vizit, apèl, manje an fanmi, gwoup pou sonje souvni |
+| [Bingo Foto](/games/picture-bingo/) | Kat bingo ak foto olye de chif, ansanm ak yon moun ki anonse sou ekran | Kay swen, pwogram lajounen, rasanbleman fanmi |
 
-### Large-print word search
+### Mo kache an gwo lèt
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Mo Kache](/games/word-search/) sèvi ak gwo lèt epi li kenbe mo yo sèlman atravè ak anba, san dyagonal oswa mo ki ekri bak. Fè li ansanm: yon moun li yon mo nan lis la, lòt moun nan chèche li. Si jwenn mo yo vin difisil, eseye fè wonn premye lèt chak mo ansanm, oswa tou senpleman li lis mo yo awotvwa epi pale sou chak mo.
 
-### Coloring pages
+### Paj pou kolore
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Ou ka enprime paj [Kolore](/games/coloring/) pou sèvi ak makè oswa kreyon koulè, oswa ou ka kolore yo sou yon tablèt lè ou touche yon koulè, apre sa yon pati nan foto a. Pou paj enprime, bay makè ki epè ak kèk koulè alafwa. Gade [gid atizana ak aktivite kreyatif nou an](/activities/arts-and-crafts/) pou jwenn fason pou kenbe kolore kòm yon aktivite pou granmoun ki detann.
 
-### Conversation cards
+### Kat konvèsasyon
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Kat Konvèsasyon](/games/conversation-cards/) mete yon foto klè ansanm ak yon kesyon ouvè, tankou « Rakonte m sou... » oswa « Kisa ou remake? ». Yo ekri kòm envitasyon ouvè, pa kòm kesyon egzamen. Enprime yon seri, koupe yo, epi kenbe kèk nan yon sak pou vizit oswa bò telefòn nan pou apèl. Yo mache byen tou nan gwoup [pou sonje souvni](/activities/reminiscence/).
 
-### Picture bingo cards
+### Kat bingo foto
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Kat [Bingo Foto](/games/picture-bingo/) sèvi ak foto olye de chif. Enprime yon kat pou chak moun k ap jwe epi sèvi ak moun ki anonse sou ekran an sou yon laptop, yon televizyon oswa yon pwojektè. Nou sijere pou kontinye anonse jiskaske kat tout moun plen, pou pèsonn pa santi yo kite deyò. Gade [aktivite an gwoup pou kay swen](/activities/care-home-groups/) pou wè kijan pou mennen yon sesyon.
 
-## How do I print activities so they are easy to use?
+## Kijan mwen ka enprime aktivite yo pou yo fasil pou itilize?
 
-Small changes in how you print make a big difference.
+Ti chanjman nan fason ou enprime yo ka fè yon gwo diferans.
 
-### Make it easy to see
+### Fè yo fasil pou wè
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Gwo lèt ki klè.** Sèvi ak pi gwo gwosè enprime ki toujou antre sou paj la. Evite lèt ki gen anpil dekorasyon oswa ki sanble ak ekriti men.
+- **Bon kontras.** Lank nwa sou papye blan oswa koulè krèm. Pa sèvi ak gri pal oswa fon ki gen koulè.
+- **Papye mat** diminye ekla anba limyè ki fò.
+- **Verifye linèt ak ekleraj.** Alzheimer’s Association fè remake pwoblèm vizyon ak tande ka fè kominikasyon pi difisil, epi li sijere pou verifye yo regilyèman. Yon lanp klè ki bay limyè egal tou ede.
 
-### Make it easy to hold
+### Fè yo fasil pou kenbe
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Papye ki solid oswa papye katonnèt** rete plat, li pi fasil pou ranmase, epi li reziste lè yo sèvi ak li plizyè fwa.
+- **Yon clipboard** oswa yon tapi ki pa glise anpeche paj la glise.
+- **Makè ki epè oswa kreyon ki gra** pi fasil pou kenbe pase plim mens.
 
-### Make it reusable
+### Fè yo ka sèvi ankò
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Plastifye paj yo** oswa mete yo nan pwoteksyon papye klè. Sèvi ak makè efasab sou jwèt mo kache ak kat bingo, apre sa siye yo.
+- **Chwazi pochèt mat** si ekla se yon pwoblèm, epi **awondi kwen yo** sou kat plastifye yo ak sizo pou yo pi konfòtab pou kenbe.
+- **Kenbe yon dosye** ak aktivite ou pi renmen yo pou ou pa bezwen enprime menm paj la chak semèn.
 
-### Keep it simple
+### Kenbe yo senp
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Yon sèl aktivite sou chak paj.** Yon sèl jwèt mo kache oswa yon sèl foto, pa plizyè aktivite ki foul sou menm paj la.
+- **Ase espas blan.** Yon paj ki twò chaje ka sanble twòp.
+- **Pa mete enstriksyon pou li, lè sa posib.** Montre moun nan sa pou l fè.
+- **Koupe fèy yo.** Si yon paj antye twòp, koupe l an de oswa pliye l pou montre sèlman yon pati.
 
-## Other useful printables you can make at home
+## Lòt enprime itil ou ka fè lakay
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Se pa tout enprime ki itil ki se jwèt. Sa yo fasil pou fè ak yon lojisyèl pou ekri tèks ak yon enprimant.
 
-### A life-story page
+### Yon paj sou istwa lavi
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Yon fèy yon sèl paj « sou mwen » ak yon foto, non moun nan renmen yo rele l, kote li te grandi, travay li, fanmi li, manje li pi renmen, mizik li, ak bagay ki konsole l oswa ki deranje l. Dementia Australia sijere yon [kaye souvni](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ak detay sou lavi moun nan, sa li renmen, ak moun ki enpòtan pou li, pou ede vizitè yo ak moun k ap bay swen yo epi pou fè konvèsasyon kòmanse.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Sa itil espesyalman nan lopital ak nan nouvo kote swen. NIA rekòmande pou bay anplwaye lopital yo yon [fèy enfòmasyon pèsonèl](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) ki kouvri woutin moun nan, non li prefere, sa li renmen ak sa li pa renmen, bagay ki ka deranje l, ak siy doulè li ka montre san li pa pale.
 
-### A daily schedule
+### Yon orè chak jou
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Yon orè senp ak gwo lèt pou jounen an ak lè, kèk mo, ak yon ti foto pou chak pati: manje maten, mache, manje midi, repo, mizik, dine. [Plan swen chak jou](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) Alzheimer’s Association sijere pou planifye dapre pi bon moman nan jounen an pou moun nan, ak lè regilye pou leve ak pou dòmi, ansanm ak yon bon balans ant aktivite ak repo. Mete l nan wotè je, petèt sou frijidè a, epi kenbe l fleksib. Gade [gid sou woutin chak jou nou an](/activities/daily-routine/) pou plis enfòmasyon.
 
-### Picture labels for rooms and drawers
+### Etikèt ak foto pou chanm ak tiwa
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA sijere pou sèvi ak siy ki gen koulè klere oswa foto senp pou [mete etikèt sou twalèt la, chanm nan ak kizin nan](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Menm lide a mache pou tiwa ak almira: yon foto chosèt sou tiwa chosèt la, tas sou almira tas yo. Enprime yo, plastifye yo, epi kole yo.
 
-### A sorting set
+### Yon seri pou klase
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Enprime foto ki soti nan de kategori senp, tankou fwi ak flè oswa zouti ak bagay kizin, sou papye katonnèt. Koupe yo epi klase yo ansanm nan de panye. Vèsyon sou ekran aktivite sa a se [Klase Ansanm](/games/sort-together/).
 
-### Song lyric sheets
+### Fèy ak pawòl chante
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Enprime pawòl kèk chante ou renmen anpil an gwo lèt pou chante ansanm. Menm moun ki pa li anpil ankò ka renmen kenbe fèy la.
 
-### A family photo page
+### Yon paj ak foto fanmi
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Yon sèl paj ak kat a sis gwo foto fanmi, chak ak yon prenon anba l. Li ka rete sou tab la pou nenpòt moun ka pran l epi pale sou li. Etikèt yo ede vizitè yo ak anplwaye yo antre nan konvèsasyon an, epi pèsonn pa bezwen mande « Kimoun sa ye? ».
 
-### A recipe card
+### Yon kat resèt
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Enprime yon resèt fanmi ou renmen anpil an gwo lèt. Sèvi ak li pou kwit manje ansanm, oswa tou senpleman pou pale sou manje nan tan lontan.
 
-## How do I offer a printable without it feeling like homework?
+## Kijan mwen ka ofri yon enprime san li sanble tankou devwa?
 
-Present it as something to share, not a test.
+Prezante li kòm yon bagay pou pataje, pa kòm yon tès.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Chita epi kòmanse li ou menm.** « M ap fè jwèt mo kache sa a. Ou vle ede m jwenn “jaden”? »
+- **Fè li ansanm.** Fè youn apre lòt, oswa yon moun jwenn mo a epi lòt moun nan fè wonn li.
+- **Pa janm make li kòm kòrèk oswa pa kòrèk.** Gid Alzheimer’s Association sou [aktivite lakay](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) konseye pou konsantre sou pwosesis la, pa sou rezilta a, epi sou plezi olye de pèfòmans.
+- **Kite paj yo deyò.** Menm gid la sijere pou mete albòm souvni, albòm foto oswa ansyen magazin nan kote ki fasil pou jwenn. Kat enprime ak paj foto ka rete sou yon ti tab menm jan an.
+- **Sispann nenpòt lè ou vle.** Mwatye yon paj pou kolore se yon bon apremidi. Mete paj la sou kote epi bwè yon tas te se yon bon apremidi tou.
 
-## Where to find more
+## Ki kote pou jwenn plis
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Gade tout [jwèt ak enprime nou yo](/games/), oswa gade [aktivite pou chak etap](/activities/ideas/) pou jwenn plis lide, avèk papye oswa san papye.

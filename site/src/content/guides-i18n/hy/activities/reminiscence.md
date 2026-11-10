@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Հիշողությունների զբաղմունքներ. հիշատակի արկղեր և լուսանկարներ"
+seoTitle: "Հիշողությունների զբաղմունքներ թուլամտության դեպքում"
+description: "Ինչպես կիսվել հիշողություններով թուլամտությամբ ապրող անձի հետ՝ առանց հարցումների. լուսանկարներ, հիշատակի արկղեր և կյանքի պատմության գիրք։"
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Հիշողությունների կիսվելը նշանակում է միասին վայելել անցյալը՝ լուսանկարների,
+  առարկաների, երաժշտության և պատմությունների միջոցով։ Պատրաստեք հիշատակի
+  արկղ, ստեղծեք պարզ կյանքի պատմության գիրք կամ կողք կողքի նայեք
+  լուսանկարներին։ Երբեք հարցում մի՛ արեք. բաց թողեք «Հիշու՞մ եք» և «Սա ո՞վ է»
+  հարցերը և օգտագործեք բաց հրավերներ, օրինակ՝ «Պատմեք սրա մասին»։ Ջերմ
+  զրույցն ավելի կարևոր է, քան փաստերի ճշգրտությունը։
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Հիշողությունների կիսվելը զրույց է, ոչ թե ստուգում։ Ճշգրտությունը կարևոր չէ, կարևոր է հաճույքը։"
+  - "«Հիշու՞մ եք...» և «Սա ո՞վ է» հարցերը փոխարինեք դիտարկումներով և հրավերներով, օրինակ՝ «Պատմեք այս օրվա մասին»։"
+  - "Անձի կյանքից առարկաներով հիշատակի արկղը ձեռքերն ու զրույցը զբաղված է պահում։"
+  - "Կյանքի պատմության գիրքն օգնում է ընտանիքին, այցելուներին և խնամող աշխատակիցներին ճանաչել անձին, ոչ միայն ախտորոշումը։"
+  - "Եթե որևէ հիշողություն տխրություն է առաջացնում, նախ մխիթարեք և նրբորեն անցեք այլ բանի։"
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Ի՞նչ է հիշողությունների կիսվելը թուլամտությամբ ապրող մարդկանց համար։"
+    a: "Հիշողությունների կիսվելը անցյալի հիշողություններն ու փորձառությունները միասին վերհիշելն է՝ հաճախ լուսանկարների, առարկաների, երաժշտության կամ տեսանյութերի օգնությամբ։ Դա կարող է լինել մեկ առ մեկ կամ խմբով։ Նպատակը հաճելի, իմաստալից զրույցն է, ոչ թե ստուգելը, թե ինչ կարող է անձը հիշել։"
+  - q: "Ինչո՞ւ չպետք է հարցնել «Հիշու՞մ եք»։"
+    a: "Հիշողությունը ստուգող հարցերը կարող են անձին ամաչեցված կամ անհանգիստ զգացնել, երբ պատասխանը չի գալիս։ Ծերացման ազգային ինստիտուտը (National Institute on Aging) խորհուրդ է տալիս խուսափել հարցնելուց, թե արդյոք մարդը հիշում է ինչ-որ բան կամ ինչ-որ մեկին։ Փոխարենը մեկնաբանեք այն, ինչ տեսնում եք, և թույլ տվեք անձին ավելացնել այն, ինչ կցանկանա։"
+  - q: "Ի՞նչ դնել հիշատակի արկղի մեջ։"
+    a: "Ընտրեք անվտանգ, ամուր առարկաներ, որոնք կապված են անձի կյանքի հետ. աշխատանքային իրեր, սիրելի զբաղմունքի պարագաներ, սիրելի շարֆ, բացիկներ, բաղադրատոմսեր, մարզական հուշանվերներ կամ լուսանկարների պատճեններ։ Խուսափեք սուր առարկաներից, փոքր իրերից, որոնք կարող են կուլ գնալ, և չփոխարինվող բնօրինակներից։"
+  - q: "Իսկ եթե փաստերը սխալ են ասում։"
+    a: "Թույլ տվեք անցնել։ Եթե ձեր մայրիկն ասում է, որ լուսանկարում իր քույրն է, մինչդեռ դա զարմիկն է, ոչինչ։ Ուղղելը ջերմ պահը վերածում է ստուգման։ Հետևեք այն պատմությանը, որը նա պատմում է, և վայելեք այն միասին։"
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Հիշողությունների կիսվելը պարզապես նշանակում է միասին վայելել անցյալը։ Թուլամտությամբ ապրող շատ մարդկանց համար տասնամյակներ առաջվա հիշողությունները կարող են ավելի պարզ մնալ, քան այսօր առավոտյան տեղի ունեցածը։ Լուսանկարները, ծանոթ առարկաները, երաժշտությունն ու պատմությունները կարող են բացել այդ հիշողությունները և ձեզ տալ ինչ-որ ջերմ բան՝ միասին կիսելու համար։ Միակ կանոնը. սա զրույց է, երբեք ոչ թե հարցում։
 
-## What is reminiscence, and how is it different from quizzing?
+## Ի՞նչ է հիշողությունների կիսվելը, և чем՞ով է այն տարբերվում հարցումից։
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Հիշողությունների կիսվելը լուսանկարների, առարկաների, երաժշտության կամ տեսանյութի միջոցով հիշողություններով կիսվելն է՝ անձի սեփական տեմպով։ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)-ը դա նկարագրում է որպես անցյալի փորձառություններով և պատմություններով կիսվել՝ լուսանկարների, առարկաների, տեսանյութերի կամ երաժշտության օգնությամբ, գրքում կամ պլանշետում։ Հարցումը այլ բան է. այն անձից պահանջում է ճիշտ պատասխան տալ, և դա հաճույքի փոխարեն կարող է ամաչել ստիպել։
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[Ծերացման ազգային ինստիտուտը](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) այն բաների թվում, որոնցից պետք է խուսափել, նշում է նաև անձին հարցնելը, թե արդյոք նա հիշում է ինչ-որ բան կամ ինչ-որ մեկին։ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)-ը առաջարկում է խուսափել կարճաժամկետ հիշողության վրա հենվող հարցերից և փոխարենը խոսել ավելի հեռավոր անցյալի մասին։
 
-| Instead of | Try |
+| Փոխարենը | Փորձեք |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «Հիշու՞մ եք սա» | «Սա ուրախ օր է թվում։ Պատմեք դրա մասին»։ |
+| «Սա ո՞վ է» | «Ահա մորաքույր Ռոզան լողափում։ Նայեք այդ գլխարկին»։ |
+| «Ո՞ր թվականին էր սա» | «Սա հին տունն է թվում։ Ինչպիսի՞ն էր այնտեղ ապրելը»։ |
+| «Ոչ, դա Բիլը չէ, Ֆրենկն է» | «Նա շատ ուրախ մարդ է թվում»։ |
+| «Դուք դա արդեն պատմեցիք» | «Ես շատ եմ սիրում այդ պատմությունը»։ |
 
-## How do you talk about photos without quizzing?
+## Ինչպե՞ս խոսել լուսանկարների մասին՝ առանց հարցումների։
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Սկսեք նրանից, ինչ տեսնում եք, ապա տեղ թողեք, որ անձը ցանկության դեպքում ինչ-որ բան ավելացնի։
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Նստեք կողք կողքի։** Ալբոմը պահեք ձեր միջև, որպեսզի միասին նայեք, ոչ թե սեղանի մյուս կողմից ստուգեք։
+2. **Ընտրեք մի քանի լուսանկար։** Հինգ լավ լուսանկարն ավելի լավ է, քան ամբողջ արկղը։ Մեծ, պարզ տպվածքները լավագույնն են։
+3. **Մարդկանց անունները ինքներդ ասեք։** «Ահա Դուք և հայրիկը ձեր հարսանիքի օրը»՝ սա հանում է ճնշումը։
+4. **Մեկնաբանեք մանրամասները։** Հագուստ, մեքենաներ, ուտելիք, եղանակ, դեմքեր։ «Ինչ մեքենա է։ Այնքան փայլուն է թվում»։
+5. **Հրավիրեք, մի՛ պահանջեք։** «Պատմեք...» կամ «Ի՞նչ եք նկատում»։ Լռությունը նորմալ է։
+6. **Հետևեք նրանց ուղղությանը։** Եթե նրանք բոլորովին այլ բանի մասին են խոսում, գնացեք նրանց հետ։
+7. **Դադարեցրեք, пока հաճելի է։** Ալբոմը փակեք նախքան հոգնածության առաջանալը։
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Պատրաստի նկարներով հուշումների համար փորձեք [conversation cards](/games/conversation-cards/)։ Ձեր ընտանեկան լուսանկարները նուրբ զույգեր կազմելու խաղի վերածելու համար փորձեք [photo pairs](/games/photo-pairs/)։ Ձեր ընտրած լուսանկարները մնում են ձեր զննարկչում։
 
-## How do you make a memory box?
+## Ինչպե՞ս պատրաստել հիշատակի արկղ։
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Հիշատակի արկղը անձի կյանքի առարկաներով տարա է, որոնք կարելի է բռնել և որոնց մասին կարելի է խոսել։
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Ընտրեք ամուր արկղ**, որը հեշտ է բացել, օրինակ՝ կոշիկի արկղ, գլխարկի արկղ կամ փոքր փայտե սնդուկ։
+2. **Ընտրեք թեմա կամ խառնուրդ։** Աշխատանք, սիրելի զբաղմունք, վայր, տասնամյակ կամ մի փոքր ամեն ինչից։
+3. **Հավաքեք անվտանգ առարկաներ։** Սկսելու համար հինգից տասը առարկան բավական է։
+4. **Թանկարժեք իրերի պատճեններ օգտագործեք։** Չփոխարինվող լուսանկարներն ու փաստաթղթերը պատճենեք, իսկ բնօրինակները պահեք անվտանգ տեղում։
+5. **Առարկաները հանեք մեկ առ մեկ։** Մի հատը տվեք, դրա մասին ինչ-որ բան ասեք և տեսեք, թե ուր կգնա զրույցը։
 
-Ideas to include:
+Ինչ կարելի է ներառել.
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Աշխատանք.** անունով կրծքանշան, փոքր գործիք, համազգեստի նշան, մատյան, բուժքրոջ կրծքանշան, ճաշարանի խոհարարական գիրք։
+- **Տուն.** իրենց ձեռագրով բաղադրատոմս, սրբիչ, սիրելի շարֆ կամ փողկապ։
+- **Սիրելի զբաղմունքներ.** կարթ՝ առանց կեռիկի, բեյսբոլի գնդակ, թելի գնդիկ, սերմերի տուփ։
+- **Վայրեր.** բացիկներ, քարտեզներ, զբոսաշրջային հուշանվեր, ծննդավայրի թերթի կտոր։
+- **Ընտանիք.** լուսանկարների պատճեններ, երեխայի նկար, հարսանեկան հրավեր։
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Չդնեք սուր առարկաներ, փոքր իրեր, որոնք կարող են կուլ գնալ, և այնպիսի բաներ, որոնք կարող են ցավոտ հիշողություններ արթնացնել, եթե համոզված չեք, որ դրանք հաճելի են։
 
-## How do you make a life-story book?
+## Ինչպե՞ս պատրաստել կյանքի պատմության գիրք։
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Կյանքի պատմության գիրքը անձի կյանքի մասին լուսանկարներով և կարճ ենթագրերով պարզ ալբոմ է։ Դա մի բան է, որը կարելի է միասին դիտել, և այն օգնում է այցելուներին ու խնամող աշխատակիցներին տեսնել ամբողջական մարդուն։
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Ընտրեք ձևաչափ։** Թափանցիկ ներդիրներով թղթապանակ, տպված լուսանկարչական գիրք կամ պլանշետում սահիկաշար։
+2. **Պլանավորեք մի քանի բաժին։** Մանկություն, դպրոց, աշխատանք, ընտանիք, ապրած վայրեր, հավատք, սիրելի զբաղմունքներ, սիրելի ուտելիք և երաժշտություն։
+3. **Յուրաքանչյուր էջում ավելացրեք մեկ կամ երկու լուսանկար**՝ կարճ, մեծ տառերով ենթագրով. «Մարիամը, 22 տարեկան, սկսում է աշխատել բանկում»։
+4. **Ներառեք նախասիրություններն ու առօրյան։** «Սուրճը խմում է կաթով։ Սիրում է կիրակնօրյա օրհներգեր։ Չի սիրում բարձր ձայնով հեռուստացույց»։ Սա օգնում է յուրաքանչյուրին, ով հոգ է տանում նրանց մասին։
+5. **Ներգրավեք անձին** այնքան, որքան նա ցանկանում է՝ ընտրելով լուսանկարներ, պատմելով կամ պարզապես նայելով, թե ինչպես է ամեն ինչ ձևավորվում։
+6. **Շարունակեք լրացնել։** Գիրքը պարտադիր չէ ավարտված լինի, որպեսզի օգտակար լինի։
 
-## More reminiscence ideas
+## Հիշողությունների կիսվելու այլ գաղափարներ
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Միացրեք նրանց երիտասարդության երաժշտությունը** և խոսեք այն մասին, թե ուր է դա տանում նրանց։ Տեսեք [երաժշտական զբաղմունքները](/activities/music/)։
+- **Դիտեք ընտանեկան ֆիլմեր կամ հեռուստահաղորդումներ** նրանց սիրելի տասնամյակներից։
+- **Պատրաստեք մանկության ուտեստ** և թողեք, որ բույրերը ուղղորդեն զրույցը։
+- **Նայեք նրանց ծննդավայրի քարտեզին** և հետևեք ծանոթ փողոցներին։
+- **Դիտեք հին կատալոգներ կամ ամսագրեր** և խոսեք գների, նորաձևության ու մեքենաների մասին։
+- **Ձայնագրեք նրանց պատմությունները** հեռախոսով՝ նրանց թույլտվությամբ, ընտանիքի համար։
+- **Կիսվեք զանգերի ժամանակ։** Տեսազանգի ժամանակ մեկ լուսանկար ցույց տվեք. տեսեք [հեռախոսազանգեր և տեսազանգեր](/activities/phone-and-video-calls/)։
+- **Այցելելիս ձեր հետ բերեք լուսանկար կամ առարկա։** Դա այցելությանը տալիս է հեշտ կենտրոնացում. տեսեք [այցելությունները](/activities/visiting/)։
 
-## What if a memory is painful?
+## Ի՞նչ անել, եթե հիշողությունը ցավոտ է։
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Որոշ հիշողություններ վիշտ, ափսոսանք կամ վախ են առաջացնում։ Եթե անձը նեղանում է, դադարեցրեք, մխիթարեք նրան և նրբորեն փոխեք թեման կամ զբաղմունքը։ Մի՛ վիճեք տեղի ունեցածի մասին։ Family Caregiver Alliance-ը խորհուրդ է տալիս չփորձել համոզել անձին, որ նա սխալվում է, և առաջարկում է արձագանքել այն զգացմունքներին, որոնք նա ցույց է տալիս, որովհետև դրանք իրական են։ Եթե նա խոսում է մահացած մարդու մասին այնպես, կարծես նա կենդանի է, արձագանքեք զգացմունքին. «Դուք կարոտում եք նրան։ Պատմեք նրա մասին»։
 
-## What does the research say?
+## Ի՞նչ է ասում հետազոտությունը։
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Հիշողությունների կիսվելու մասին Cochrane-ի վերանայումը](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), որն ընդգրկում էր 22 փորձարկում և 1,972 մարդ, պարզել է, որ ազդեցությունները եղել են անհետևողական, փոքր և տարբեր՝ կախված միջավայրից ու ձևաչափից։ Այն թուլամտությամբ ապրող մարդկանց համար վնասի ապացույց չի գտել։ Մենք առաջարկում ենք հիշողությունների կիսվելը, որովհետև դա կարող է ջերմ, իմաստալից ժամանակ ստեղծել միասին, ոչ թե որպես բուժում։ Հեշտ զրույցի մասին ավելին իմանալու համար տեսեք [հաղորդակցման խորհուրդները](/caregiving/communication-tips/)։

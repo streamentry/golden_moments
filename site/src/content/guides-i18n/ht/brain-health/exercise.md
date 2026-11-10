@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Egzèsis ak sante sèvo: sa rechèch montre"
+seoTitle: "Egzèsis ak demans: sa rechèch di"
+description: "Sa rechèch montre sou aktivite fizik ak risk demans, ak fason ki senp pou granmoun ak moun k ap viv ak demans bouje an sekirite."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Etid yo montre yon lyen ant aktivite fizik regilye ak yon pi ba risk demans, epi Rapò
+  Komisyon Lancet 2024 la mete mank mouvman kòm youn nan 14 faktè risk yo ka chanje. Esè yo
+  pa pwouve ke egzèsis anpeche demans. Mouvman toujou ede fòs, balans, atitid, ak dòmi, kidonk
+  mache, egzèsis sou chèz, ak danse vo lapenn fè pou tèt yo. Pale ak yon doktè anvan ou
+  kòmanse yon nouvo aktivite.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Moun ki aktif fizikman gen yon pi ba risk demans an mwayèn, men sa soti sitou nan etid obsèvasyon, pa nan esè."
+  - "Yon esè egzèsis pandan senk ane ak granmoun aje pa jwenn okenn diferans klè nan kapasite panse ant gwoup yo."
+  - "Gid CDC pou granmoun 65 an oswa plis pale sou aktivite aerobic, ranfòse misk, ak balans, epi li di yon ti aktivite pi bon pase anyen."
+  - "Pou moun k ap viv ak demans, mouvman kout, abitye, ak pataje tankou yon ti mache chak jou oswa jwèt sou chèz pi enpòtan pase nenpòt objektif."
+  - "Plis pase youn sou kat granmoun aje tonbe chak ane, kidonk travay sou balans ak yon espas ki an sekirite vini an premye."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Èske egzèsis ka anpeche demans?"
+    a: "Pèsonn pa ka pwomèt sa. Anpil etid montre yon lyen ant rete aktif ak yon pi ba risk demans, men esè klinik yo pa montre ke egzèsis anpeche li. Egzèsis gen anpil lòt benefis ki pwouve, kidonk li toujou vo lapenn fè."
+  - q: "Èske li an sekirite pou yon moun k ap viv ak demans fè egzèsis?"
+    a: "Anjeneral wi, ak yon ti preparasyon. National Institute on Aging sijere pou ou pale ak doktè moun nan anvan ou kòmanse yon nouvo woutin, chwazi soulye ki konfòtab, ofri dlo, epi kenbe sesyon yo kout. Rete si moun nan sanble fatige, pa stab, oswa pa kontan."
+  - q: "Ki egzèsis yo ka fè chita?"
+    a: "Opsyon chita yo enkli detire sou chèz oswa yoga sou chèz, voye yon balon oswa yon boul mou, voye ti sak pwa, leve bwat soup, detire ak bann elastik, ak pedal pou bra oswa pye. Sa yo se bon chwa lè mache difisil."
+  - q: "E si moun nan pa vle bouje?"
+    a: "Pa fòse. Eseye ankò pita, patisipe avèk moun nan, mete mizik li abitye tande, oswa fè mouvman an tounen yon ti travay tankou bale oswa wouze plant. Yon ti mache jis rive nan bwat lèt la konte, epi chita deyò ansanm tou konte."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Rete aktif se youn nan abitid rechèch yo etidye plis sou sante sèvo. Etid yo montre yon lyen ant li ak yon pi ba risk demans, men yo pa pwouve ke egzèsis anpeche demans. Sa ki klè se ke mouvman ede fòs, balans, atitid, ak dòmi nan nenpòt laj. Paj sa a eksplike sa rechèch di, konbyen aktivite yo konseye pou granmoun aje, ak fason dou pou bouje ak yon moun k ap viv ak demans.
 
-## Does exercise lower the risk of dementia?
+## Èske egzèsis diminye risk demans?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Rechèch sijere ke moun ki aktif fizikman gen mwens chans pou devlope demans, men prèv yo gen limit. [Rapò Komisyon Lancet 2024 sou demans](https://doi.org/10.1016/S0140-6736(24)01296-0) mete mank aktivite fizik kòm youn nan 14 faktè risk yo ka chanje. Ansanm, 14 faktè sa yo reprezante anviwon 45% demans nan lemonn nan modèl li a.
 
-Here is what the evidence looks like:
+Men ki jan prèv yo sanble:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Etid obsèvasyon yo montre menm direksyon an.** Yon revizyon 58 etid, Komisyon an diskite, te jwenn ke moun ki te aktif fizikman te gen anviwon 20% mwens risk pou demans. Pi gwo diferans lan te ant moun ki prèske pa t aktif ditou ak moun ki te fè omwen yon ti aktivite.
+- **Lyen an ka mache nan de sans.** Komisyon an fè remake ke pa t aktif ka ogmante risk. Li fè remake tou ke premye chanjman nan sèvo ki lye ak demans, ki kòmanse plizyè ane anvan dyagnostik, ka fè moun vin mwens aktif.
+- **Esè yo mwens klè.** Nan yon esè, 945 granmoun aje ki te gen 78 an an mwayèn te resevwa senk ane egzèsis sipèvize de fwa pa semèn oswa yo te nan yon gwoup konparezon. Nan fen esè a, kapasite panse pa t diferan klèman ant gwoup yo. Anpil moun nan gwoup konparezon an te aktif tou, sa ki rann rezilta a pi difisil pou konprann.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) di sa klèman. Yo pa montre okenn lyen klè ant aktivite fizik ak anpeche maladi alzayme a, epi pa gen ase prèv nan esè pou di egzèsis anpeche oswa ralanti li. Egzèsis toujou diminye risk tonbe, depresyon, dyabèt, tansyon wo, ak konjesyon serebral. Gen nan kondisyon sa yo ki gen lyen tou ak bès nan kapasite panse.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Sa ki pi onèt se bouje paske sa ede ou santi ou pi byen epi fonksyone pi byen jodi a. Nenpòt benefis posib pou sèvo a se yon bòn sipleman, pa yon pwomès.
 
-## How much activity do older adults need?
+## Konbyen aktivite granmoun aje bezwen?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Gid CDC pou granmoun 65 an oswa plis](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) sijere twa kalite aktivite chak semèn:
 
-| Type | Weekly amount | Examples |
+| Kalite | Kantite pa semèn | Egzanp |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobic | Omwen 150 minit aktivite modere, tankou 30 minit pandan 5 jou | Mache vit, danse, aerobic nan dlo |
+| Ranfòse misk | Omwen 2 jou, travay tout gwo gwoup misk yo | Leve ti pwa oswa bwat soup, detire ak bann elastik |
+| Balans | Regilyèman | Mache talon-devan-pwent, leve kanpe soti sou yon chèz |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Sa yo se objektif, pa kondisyon pou kòmanse. CDC di si ou pa ka rive jwenn yo, ou ta dwe rete aktif jan kapasite ou ak sante ou pèmèt. Yon ti aktivite pi bon pase anyen.
 
-## Gentle ways to move for older adults
+## Fason dou pou granmoun aje bouje
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Mache ak konpayi.** Yon ti mache chak jou ak yon zanmi, yon vwazen, oswa yon gwoup mache ajoute konvèsasyon ak sekirite.
+- **Egzèsis sou chèz.** Leve bra chita, fè ti wonn ak cheviy, mache sou plas, ak yoga sou chèz ede ranfòse kò a san risk balans.
+- **Danse nan kizin nan.** Mete mizik ki soti nan lè moun nan te jèn epi balanse, tape pye, oswa fè ti pa. Gid nou sou [aktivite mizik](/activities/music/) gen lòt ide.
+- **Ranfòse ak bagay nan kay la.** Leve boutèy dlo plen oswa bwat soup pandan ou ap gade yon emisyon ou renmen.
+- **Jadinaj oswa ti travay lakay.** Wouze plant, rache fèy, bale, ak pliye rad tout konte. Gade [aktivite deyò ak jadinaj](/activities/outdoor-and-gardening/) ak [travay lakay](/activities/household-tasks/).
+- **Egzèsis nan dlo.** NIA site klas aerobic nan dlo kòm yon opsyon pou moun ki jwenn egzèsis sou tè difisil pou jwenti yo.
 
-## How to exercise with someone living with dementia
+## Kijan pou fè egzèsis ak yon moun k ap viv ak demans
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Pou yon moun k ap viv ak demans, objektif la se konfò, plezi, ak kenbe kapasite chak jou, pa rive jwenn yon chif. NIA di aktivite fizik ede kenbe misk, jwenti, ak kè yon moun ki gen maladi alzayme an bon fòm, epi li ka ede atitid ak dòmi tou. Pale ak doktè moun nan anvan ou kòmanse yon nouvo woutin. Konsèy ki soti nan [gid NIA pou moun k ap bay swen](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) enkli:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Mache ansanm chak jou.** Chwazi yon chemen ki an sekirite, abitye, epi san baryè. Si moun nan mache poukont li, yon braslè idantite ak nimewo telefòn ou se yon bon lide.
+2. **Eseye videyo egzèsis pou granmoun aje.** Fè yo ansanm, chita oswa kanpe.
+3. **Kenbe sesyon yo kout.** Plizyè ti «mini-sesyon» ka mache pi byen pase yon sèl sesyon long.
+4. **Ajoute mizik.** Chante moun nan abitye tande fè mouvman an santi tankou yon aktivite, pa yon devwa. Danse si moun nan renmen sa.
+5. **Ofri dlo ak soulye ki konfòtab.** Ofri dlo oswa ji pandan ak apre, epi chwazi rad ki konfòtab ak soulye ki byen fèt pou egzèsis.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Si mache difisil, [gid NIA sou kijan pou pran swen yon moun ki gen maladi alzayme](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) sijere opsyon chita. Sa yo enkli egzèsis sou chèz oswa yoga, voye ti sak pwa, voye yon boul mou oswa yon balon, detire ak bann elastik, leve ti bagay nan kay la, ak pedal pou bra oswa pye. Ti travay senp tankou bale ak siye pousyè konte tou.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Rete reyalis sou sa mouvman ka fè. Komisyon Lancet la pa jwenn prèv ki montre egzèsis diminye chanjman nan konpòtman tankou ajitasyon. Bouje ansanm paske sa ka fè ou santi byen, pa kòm yon fason pou repare yon apremidi difisil. Si moun nan di non, sa pa gen pwoblèm. Gid nou sou [lè moun nan di non](/caregiving/when-they-say-no/) gen fason dou pou eseye ankò pita. Fini pi bonè, oswa jis chita deyò ansanm, se yon bon rezilta tou.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Apre mouvman, yon ti poz trankil tankou [Respire Dousman](/games/calm-breathing/) ka ede nou tou de detann. Pou yon aktivite chita ak yon ti mouvman bra, [Triye Ansanm](/games/sort-together/) ak [Bingo Foto](/games/picture-bingo/) mache byen sou yon tab.
 
-## Balance and fall safety
+## Sekirite pou balans ak pou evite tonbe
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Tonbe rive souvan epi li ka grav. [CDC rapòte](https://www.cdc.gov/falls/data-research/facts-stats/index.html) ke plis pase youn sou kat granmoun aje tonbe chak ane, men mwens pase mwatye nan yo di doktè yo sa. Lè yon moun tonbe yon fwa, chans pou li tonbe ankò double. Faktè risk CDC site yo enkli:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Fèbès nan janm ak anch
+- Difikilte pou mache ak kenbe balans
+- Kèk medikaman, tankou sedatif ak kèk antidepresè
+- Pwoblèm vizyon
+- Doulè nan pye oswa soulye ki pa bon
+- Danje lakay tankou dezòd, ti tapi, ak mach eskalye ki kase
 
-To move more safely:
+Pou bouje pi an sekirite:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Sèvi ak yon chèz ki solid** san wou, epi kenbe yon kontwa oswa yon balistrad tou pre pou egzèsis kanpe.
+- **Degaje espas la** anvan, retire tapi, fil, ak dezòd.
+- **Leve dousman**, epi rete si moun nan santi tèt vire oswa pa stab.
+- **Mete soulye ki bay sipò**, pa chosèt oswa pantouf ki lach.
+- **Pratike balans tou pre yon sipò.** Leve kanpe soti sou yon chèz ak mache talon-devan-pwent se egzanp CDC bay pou aktivite balans.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC konseye pou yon granmoun ki tonbe epi frape tèt li ale wè yon doktè touswit, sitou si li pran medikaman ki fè san pi klè.
 
-## Talk with a doctor
+## Pale ak yon doktè
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Pale ak yon doktè anvan ou kòmanse yon nouvo woutin egzèsis, sitou pou yon moun ki gen pwoblèm kè oswa poumon, doulè nan jwenti, pwoblèm balans, oswa demans. Yon doktè oswa yon terapis fizik ka sijere aktivite ki an sekirite epi verifye si medikaman afekte balans. Di doktè a sou nenpòt tonbe, menm si pa gen blesi. Si yon bagay fè mal oswa pa santi dwat pandan egzèsis, rete. Pou doulè nan pwatrin ki vini toudenkou, difikilte pou respire, oswa konfizyon ki vini toudenkou, rele 114.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Paj sa a se enfòmasyon jeneral, pa konsèy medikal. Gade [avi medikal nou](/medical-disclaimer/). Pou wè pi gwo tablo a, li [sa rechèch di sou faktè risk demans](/brain-health/risk-factors/) ak [si demans ka anpeche](/brain-health/can-dementia-be-prevented/).

@@ -1,34 +1,35 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Aktivite kalm nan fen apremidi"
+seoTitle: "Sundowning: Aktivite kalm nan fen apremidi"
+description: "Woutin dou, chanjman nan chanm ak aktivite kalm ki ka ede ak ajitasyon nan fen jounen lè gen demans, epi ki lè pou rele yon doktè."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning se lè yon moun vin ajite, konfonn oswa irite nan fen apremidi oswa
+  nan aswè, oswa lè sa vin pi mal. Kèk etap pratik ki ka ede se yon woutin
+  chak jou ki stab, limyè solèy ak aktivite pi bonè nan jounen an, mwens ti
+  dòmi nan fen jounen an, mwens kafeyin, limyè klere anndan kay la anvan
+  solèy kouche, yon kay ki pi trankil, ak aktivite kalm tankou mizik, foto
+  oswa pliye rad. Si sentòm yo nouvo oswa yo vin pi mal, moun nan bezwen wè
+  yon doktè.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning vle di ajitasyon oswa konfizyon ki kòmanse oswa vin pi mal lè limyè solèy la ap bese."
+  - "Mete travay ki mande plis efò, sòti ak beny nan maten oswa nan kòmansman apremidi."
+  - "Limyè solèy, yon ti mache chak jou, mwens ti dòmi nan fen jounen an ak mwens kafeyin nan fen jounen an ka ede aswè yo pase pi dousman."
+  - "Limen limyè yo anvan solèy kouche, bese bri, epi pase nan aktivite kalm ak abitye."
+  - "Kenbe yon ti nòt pou wè sa ki ka deklanche li, epi rete kalm ak rasire lè ajitasyon an kòmanse."
+  - "Wè yon doktè si sentòm yo nouvo oswa yo vin pi mal: doulè, enfeksyon oswa medikaman ka jwe yon wòl."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Ki lè nan jounen an sundowning konn rive anjeneral?"
+    a: "Li konn kòmanse oswa vin pi mal nan fen apremidi oswa nan kòmansman aswè, lè limyè solèy la ap bese. Lè egzak la ka diferan selon moun nan, se poutèt sa kenbe yon ti nòt pandan yon semèn oswa de ka ede."
+  - q: "Ki aktivite ki ka ede ak sundowning?"
+    a: "Aktivite kalm, abitye, ki pa mande anpil efò konn pi bon nan fen apremidi: mizik dou, gade foto, yon emisyon televizyon oswa fim yo renmen, pliye rad, yon ti mache, oswa pran yon ti goute ansanm. Kite aktivite nouvo oswa ki pi difisil pou pi bonè nan jounen an."
+  - q: "Èske sundowning ka yon siy yon pwoblèm medikal?"
+    a: "Li ka vin pi mal akòz pwoblèm sante tankou doulè, enfeksyon tankou enfeksyon nan aparèy irinè, pwoblèm dòmi oswa efè segondè medikaman. Si ajitasyon an nouvo, li parèt toudenkou oswa li ap vin pi mal, kontakte doktè moun nan."
+  - q: "Èske mwen ta dwe mande doktè a sou medikaman pou sundowning?"
+    a: "Se yon konvèsasyon pou w fè ak doktè a. Alzheimer's Association di yo anjeneral prefere eseye apwòch ki pa sèvi ak medikaman an premye, epi nenpòt medikaman pou ajitasyon nan aswè ta dwe konsidere sèlman apre yo fin gade risk ak benefis yo. Paj sa a pa bay konsèy sou medikaman."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +48,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Anpil fanmi remake menm bagay la: maten yo konn pi trankil, men pandan apremidi a ap avanse, moun k ap viv ak demans lan vin ajite, enkyete, konfonn oswa irite. Li ka mache ale vini, mande pou « ale lakay li » menm lè li lakay li, oswa fache fasil. Souvan yo rele sa sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Pa gen yon sèl solisyon, men chanjman nan ritm jounen an, nan chanm nan ak nan kalite aktivite ou ofri ka ede fen apremidi yo vin pi kalm. Paj sa a rasanble lide pratik, ki pa medikal, ki soti nan National Institute on Aging ak Alzheimer's Association. Sa pa konsèy medikal. Si sentòm yo nouvo, yo parèt toudenkou oswa yo ap vin pi mal, pale ak doktè moun nan.
 
-## What is sundowning?
+## Kisa sundowning ye?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning se ajitasyon, enkyetid, iritasyon oswa konfizyon ki kòmanse oswa vin pi mal lè limyè solèy la ap bese, nan fen apremidi oswa nan kòmansman aswè. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) fè remake ke lè yon moun twò fatige, sa ka ogmante ajitasyon nan fen jounen an.
 
-## What can make late-day restlessness worse?
+## Kisa ki ka fè ajitasyon nan fen jounen an vin pi mal?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Plizyè bagay ka kontribye, souvan ansanm. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) site kèk faktè tankou:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- fatig apre yon jounen long;
+- yon kote nouvo oswa ki konfonn;
+- yon « revèy entèn kò a » ki pa nan ritm, ki fè moun nan anvi dòmi pandan jounen an epi reveye nan mitan lannwit;
+- ti limyè ak lonbraj, ki ka konfonn;
+- santi estrès oswa fristrasyon nan men moun ki bò kote l;
+- bezwen mwens dòmi, sa ki komen nan mitan granmoun ki pi aje.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA ajoute lòt kòz ajitasyon an jeneral, tankou doulè, depresyon oswa estrès, twò piti repo, konstipasyon, twòp bri oswa twòp moun, ak sèten medikaman oswa entèraksyon ant medikaman.
 
-## How can I plan the day to make evenings calmer?
+## Kijan mwen ka planifye jounen an pou aswè yo pi kalm?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Mete bagay ki mande plis efò pi bonè, epi kenbe fen apremidi a dou ak previzib. Ni NIA ni Alzheimer's Association rekòmande yon woutin regilye. Men yon egzanp jounen, pou adapte ak sitiyasyon pa w:
 
-| Time | What may help |
+| Lè | Sa ki ka ede |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Maten | Randevou, beny, sòti ak nenpòt travay ki mande efò, lè anpil moun pi alèt |
+| Fen maten | Tan deyò oswa bò yon fenèt ki gen solèy; yon ti mache oswa yon lòt aktivite |
+| Midi | Yon repa midi ki pi konsistan (Alzheimer's Association sijere yon repa midi pi gwo ak yon repa aswè ki pi lejè) |
+| Kòmansman apremidi | Repo si sa nesesè, men evite dòmi lontan nan fen jounen an |
+| Mitan rive nan fen apremidi | Aktivite kalm ak abitye; yon ti goute ak yon bagay pou bwè; pa gen kafeyin |
+| Anvan solèy kouche | Limen limyè anndan kay la epi fèmen rido yo anvan li fè nwa |
+| Aswè | Yon repa ki pi lejè, mizik dou, mwens eksitasyon, yon woutin regilye anvan dòmi |
 
-A few specific points from the sources:
+Kèk pwen presi ki soti nan sous yo:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Limyè solèy.** NIA sijere pou fè aranjman pou pase tan deyò oswa bò yon fenèt pou jwenn limyè solèy chak jou.
+- **Mouvman chak jou, men pa twòp.** Vize pou rete aktif fizikman chak jou san w pa planifye twòp aktivite, dapre NIA.
+- **Bwason nan fen jounen an.** Evite alkòl ak bwason ki gen kafeyin, tankou kafe oswa kola, nan fen jounen an (NIA). Alzheimer's Association mansyone nikotin tou.
+- **Ti dòmi.** Dekouraje ti dòmi long ak dòmi tanzantan nan fen jounen an (NIA). Alzheimer's Association sijere limite ti dòmi pandan jounen an si dòmi nan mitan lannwit se yon pwoblèm.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Pou plis lide sou kijan pou bati yon jounen ki stab, gade [aktivite woutin chak jou](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Kijan mwen ka fè kay la pi kalm nan fen apremidi?
 
-Reduce noise, add light and keep familiar things close.
+Diminye bri, ajoute limyè, epi kenbe bagay abitye yo toupre.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Limyè klere ak egal.** Alzheimer's Association rekòmande pou kenbe kay la byen limen nan aswè. Limen espas la anvan lonbraj yo parèt.
+- **Mwens bri.** Etenn oswa bese televizyon an ak radyo a, epi limite vizitè oswa gwo travay nan kay la nan moman sa a. Alzheimer's Association sijere diminye eksitasyon nan aswè tankou televizyon, travay lakay ak mizik fò.
+- **Bagay abitye ki fè moun nan santi l alèz.** NIA sijere mizik dou epi kenbe bagay ak foto moun nan renmen anpil nan kay la.
+- **Tcheke konfò.** Alzheimer's Association rekòmande verifye si gen doulè, grangou, swaf, konstipasyon, yon blad plen, fatig, enfeksyon ak iritasyon sou po a, epi kenbe tanperati chanm nan konfòtab.
+- **Atitid ou menm.** Moun yo ka santi estrès lòt moun. NIA sijere pou w ralanti epi eseye detann ou si enkyetid pa w ka ajoute tansyon.
 
-## What calm activities can we do in the late afternoon?
+## Ki aktivite kalm nou ka fè nan fen apremidi?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Chwazi aktivite ki abitye, ki pa prese, epi ki fasil pou sispann. Alzheimer's Association sijere aktivite dou tankou mizik kalm, foto oswa yon fim moun nan renmen, ak yon ti mache ansanm pou ede ak ajitasyon. NIA sijere yon ti goute oswa yon bagay pou bwè, yon emisyon televizyon yo renmen, mizik, yon ti mache, lekti, oswa yon ti travay senp nan kay la tankou pliye rad.
 
-Ideas to try:
+Lide pou eseye:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Pliye rad ansanm.** NIA sijere kalite ti travay senp sa a nan kay la. Sèvyèt fasil pou kenbe, epi travay la gen yon fen klè.
+2. **Jwe mizik yo renmen.** Chante abitye depi lè yo te pi jèn, ak volim ki ba. Chante ansanm dousman konte tou. Plis lide nan [aktivite mizik](/activities/music/).
+3. **Gade foto.** Yon albòm foto, oswa kèk foto fanmi nan [Photo Pairs](/games/photo-pairs/) ak foto yo kite vizib, ka mennen nan yon ti konvèsasyon trankil.
+4. **Fè yon ti mache.** Nan jaden an, nan katye a oswa nan yon koulwa, anvan li fè nwa.
+5. **Pataje yon ti goute ak yon bagay pou bwè.** Yon bagay senp, tyèd epi san kafeyin, bò tab la ansanm.
+6. **Jwèt matche dou.** [Picture Pairs](/games/picture-pairs/) ak kat kare ak foto yo vizib fasil pou kòmanse epi fasil pou sispann.
+7. **Koloryaj.** [Coloring](/games/coloring/) sou ekran oswa sou yon paj enprime, san objektif pou fini.
+8. **Gade epi pale.** [Conversation Cards](/games/conversation-cards/) ofri yon foto ak yon kesyon ouvè. Senpleman gade ase.
+9. **Yon ti poz pou respire.** [Calm Breathing](/games/calm-breathing/) se yon ti poz dous epi trankil ou kòmanse epi ou sispann lè ou vle.
+10. **Aktivite ak men yo.** Triye bouton oswa chosèt, pase men sou yon dra mou, oswa kenbe yon bagay abitye. Gade [aktivite sansoryèl](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Evite nouvo jwèt, sòti ki chaje ak nenpòt bagay ki mande anpil memwa oswa konsantrasyon nan fen jounen an. Kite sa yo pou maten an.
 
-## What should I do when restlessness starts?
+## Kisa mwen ta dwe fè lè ajitasyon an kòmanse?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Rete kalm, rasire moun nan, epi dousman vire atansyon li. NIA sijere pou w pale dousman, tande sa k ap enkyete moun nan, evite diskisyon, fè moun nan konprann li an sekirite, epi sèvi ak yon ti manyen dou si sa ede. Apre sa, eseye detounen atansyon li: yon ti goute, yon bagay pou bwè, mizik oswa yon ti mache.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association sijere fraz tankou « Ou an sekirite isit la » ak « Mwen regrèt ou fache », epi li konseye ajoute limyè, ralanti epi limite eksitasyon. Pa kwense moun nan, pa fè foul bò kote l, pa kenbe l fòse, epi pa diskite avè l.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Si moun nan vin agresif, NIA konseye rete a yon distans ki an sekirite jiskaske konpòtman an kalme. Nan yon ijans, rele nimewo ijans lokal ou a epi eksplike ke moun nan ap viv ak demans.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Gid nou yo sou [kominikasyon](/caregiving/communication-tips/) ak [sa pou w fè lè yo di non](/caregiving/when-they-say-no/) gen plis lide sou pawòl ki ka ede kalme sitiyasyon an.
 
-## How do I find the triggers?
+## Kijan mwen ka jwenn sa ki deklanche li?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Kenbe yon ti nòt pandan yon semèn oswa de. Alzheimer's Association rekòmande suiv sa ki pase anvan epizòd sundowning yo pou idantifye sa ki deklanche yo. Note lè ajitasyon an te kòmanse, sa ki te pase nan èdtan anvan an, ti dòmi, repa ak bwason, vizitè, bri ak limyè. Pote nòt yo bay doktè a. NIA fè remake ke suiv chanjman nan konpòtman ka ede moun k ap bay swen ak pwofesyonèl sante yo wè yon modèl.
 
-## When should I call a doctor about sundowning?
+## Ki lè mwen ta dwe rele yon doktè sou sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kontakte doktè moun nan si ajitasyon an nouvo, li vin pi mal toudenkou, oswa li vini ak lòt chanjman. NIA di nenpòt chanjman toudenkou oswa ki varye rapidman nan konpòtman, sitou apre yon enfeksyon oswa chanjman resan nan medikaman, ta dwe pote bay doktè a touswit.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Mande doktè a verifye bagay ki ka rann aswè yo pi difisil. Alzheimer's Association mansyone pwoblèm fizik tankou enfeksyon nan aparèy irinè, enkonvenyans, janm san repo ak apne dòmi, epi li sijere mande ki lè nan jounen an ki pi bon pou chak medikaman. NIA site doulè, konstipasyon ak efè segondè medikaman oswa entèraksyon ant medikaman pami kòz ajitasyon ki posib.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association di yo anjeneral prefere apwòch ki pa sèvi ak medikaman pou pwoblèm dòmi ki lye ak alzayme a, epi medikaman pou ajitasyon nan fen jounen an ta dwe konsidere sèlman si apwòch sa yo pa mache, apre yo fin gade risk ak benefis yo. Se doktè a ki dwe pran desizyon sa a. Pa kòmanse, pa sispann epi pa chanje okenn medikaman, èd pou dòmi oswa sipleman san konsèy medikal.
 
-## How do I get through the evenings myself?
+## Kijan mwen ka pase aswè yo tèt mwen?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Fen apremidi yo ka pati ki pi difisil nan jounen yon moun k ap bay swen. Si ou kapab, mande yon manm fanmi, yon zanmi oswa yon moun ki ede pou peye pou pran fen apremidi a kèk jou nan semèn nan, menm si se pou yon èdtan. Gid nou sou [swen tèt ou kòm moun k ap bay swen](/caregiving/caregiver-self-care/) bay opsyon pou repo ak nimewo Helpline gratis Alzheimer's Association ki disponib 24 sou 24, 7 jou sou 7.

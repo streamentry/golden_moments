@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Aktivite Mizik pou Moun k ap Viv ak Demans"
+seoTitle: "Aktivite Mizik pou Demans: Lis ak Lide"
+description: "Kijan pou pataje mizik ak yon moun k ap viv ak demans: kreye yon lis mizik pèsonèl, 15 aktivite mizik senp, ak konsèy pou chak etap."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Mizik se youn nan aktivite ki pi fasil pou pataje ak yon moun k ap viv ak
+  demans. Kreye yon lis mizik pèsonèl ak mizik ki soti nan jèn li, lafwa li
+  ak fanmi li, jwe li san piblisite ni bri nan background, epi chante, bat
+  men, balanse oswa jis tande ansanm. Chwazi mizik ki kalm oswa ki pi anime
+  selon moman an, kenbe volim nan dous, epi rete si yon chante deranje moun
+  nan.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Mizik pèsonèl pi bon: estil li te renmen lè li te jèn adilt, ansanm ak mizik ki soti nan lafwa li, kilti li ak evènman fanmi li."
+  - "Jwe yon sèl bagay alafwa, san piblisite epi ak televizyon an etenn."
+  - "Chante, bat men, balanse ak senpleman tande se tout fason pou patisipe."
+  - "Sèvi ak mizik ki pi kalm pou poze epi mizik ki pi anime pou leve atitid, epi gade kijan moun nan reyaji."
+  - "Rechèch sou sesyon mizik estriktire limite; nou sijere mizik kòm yon bagay agreyab pou pataje, pa kòm yon tretman."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Ki kalite mizik ki pi bon pou yon moun ki gen demans?"
+    a: "Mizik moun nan konnen e li renmen depi lontan, souvan soti nan adolesans li ak nan venn ane li, ansanm ak mizik ki soti nan lafwa li, kilti li ak selebrasyon fanmi li. Si sa posib, kite l chwazi. Gade figi l ak kò l pou aprann sa li renmen, epi kite nenpòt mizik ki sanble deranje l."
+  - q: "Èske mwen ta dwe sèvi ak kas ekoutè?"
+    a: "Gen kèk moun ki renmen kas ekoutè paske yo bloke bri, pandan ke lòt moun jwenn yo pa alèz oswa konfizyon. Eseye yon oratè an premye pou nou ka tande ansanm. Si ou sèvi ak kas ekoutè, kenbe volim nan ba epi rete toupre."
+  - q: "Èske mizik ka ede lè yon moun ajite oswa fache?"
+    a: "Mizik kalm ak abitye ka ede kreye yon anbyans trankil, epi Alzheimer's Association sijere sèvi ak mizik pou mete atitid ou vle a. Sa pa mache chak fwa. Si moun nan detrès, verifye tou si li gen doulè, grangou, bri oswa fatig."
+  - q: "Èske moun ki nan etap avanse demans ka toujou jwi mizik?"
+    a: "Anpil ka toujou jwi li. Alzheimer's Association fè remake ke yon moun ki nan etap avanse ka toujou bat ritm oswa chante ansanm ak yon chante ki soti nan anfans li. Chita toupre, jwe mizik dousman epi kenbe men l oswa balanse ansanm."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Mizik se youn nan bagay ki pi senp ou ka pataje ak yon moun k ap viv ak demans. Li pa mande anyen: pa gen bon repons, pa gen etap pou suiv. Yon chante abitye ka pote yon souri, yon pye k ap bat ritm oswa kèk mo chante ansanm, menm nan yon jou lè konvèsasyon difisil. Tout sa ou bezwen se bon mizik pou moun sa a ak yon ti moman trankil pou jwe li.
 
-## What music activities work for people with dementia?
+## Ki aktivite mizik ki mache pou moun k ap viv ak demans?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Tande, chante, bat men, balanse ak pale sou mizik tout mache byen. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sijere jwe mizik, pale sou mizik la ak atis la, chante oswa danse sou chante byen konnen, epi ale nan konsè oswa pwogram mizik nan kominote a. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) ajoute ke mouvman tankou bat men oswa danse ka ogmante plezi a, epi ke mizik ka yon fason pou konekte apre mo vin difisil.
 
-## How do you build a personal playlist?
+## Kijan pou kreye yon lis mizik pèsonèl?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Bagay ki pi itil ou ka fè se yon lis mizik ki gen sans pou moun sa a. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mete aksan tou sou mizik ki gen sans pèsonèl. Men yon fason senp pou kreye youn.
 
-### Start with their life
+### Kòmanse ak lavi li
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Adolesans li ak venn ane li.** Panse ak sa ki te pase sou radyo, nan dans ak nan fim lè li te jèn.
+- **Gwo moman.** Mizik nan maryaj li, yon premye dans, oswa yon albòm li te renmen pandan vwayaj fanmi.
+- **Lafwa ak kilti.** Kantik, gospel, mizik sakre, oswa chante nan premye lang li.
+- **Travay ak sèvis.** Fanfare, chante travay, oswa mizik ki lye ak yon peryòd nan sèvis militè.
+- **Sa fanmi sonje.** Mande frè ak sè, pitit ak ansyen zanmi ki mizik li te toujou jwe oswa chante.
 
-### Think in genres, not just songs
+### Panse an estil mizik, pa sèlman chante
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Si ou pa sèten ki kote pou kòmanse, eseye kèk minit nan chak nan sa yo epi gade reyaksyon an: big band ak swing, doo-wop, Motown ak soul, premye rock and roll, country ak western, bluegrass, gospel ak kantik, melodi Broadway, estanda jazz, mizik Latin tankou bolero oswa mariachi, polka, folk ak klasik. Kenbe sa ki pote yon souri oswa yon pye k ap bat ritm; kite sa ki pote yon fronse.
 
-### Make it easy to play
+### Fè li fasil pou jwe
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **San piblisite.** Alzheimer's Association avèti ke piblisite ka lakòz konfizyon. Sèvi ak mizik telechaje, CD, disk oswa yon sèvis san piblisite.
+- **Yon sèl aparèy senp.** Yon oratè ak yon sèl gwo bouton, oswa yon lis mizik ki anrejistre epi pare, pou nenpòt moun ka kòmanse li.
+- **De lis kout.** Yon lis kalm pou poze ak yon lis anime pou leve atitid.
+- **Make li.** Ekri non moun nan ak « mizik prefere » sou aparèy la pou fanmi k ap vizite ak anplwaye swen yo ka sèvi ak li tou.
 
-## 15 music activities to try
+## 15 aktivite mizik pou eseye
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Tande ansanm.** Chita kòt a kòt san lòt bagay k ap pase. Tande se yon aktivite konplè.
+2. **Chante ansanm.** Kòmanse chante ou menm. Donnen oswa bouje bouch ak mo yo konte.
+3. **Bat men oswa bat ritm.** Tape jenou, tape sou tab la, oswa sèvi ak yon ti tanbou men oswa yon shaker.
+4. **Danse dousman.** Kenbe men epi balanse nan kwizin nan, oswa danse chita, deplase bra ansanm.
+5. **Danse ak foula.** Voye foula lejè nan ritm mizik la, kanpe oswa chita.
+6. **Pale sou mizik la.** Envite, pa teste: « Sa son tankou yon sal dans. Di m sou dans yo. » Pa janm mande « Èske ou sonje chante sa a? »
+7. **Jwe yon albòm antye.** Mete yon disk li te renmen, depi kòmansman rive nan fen, ak kafe.
+8. **Gade kouvèti albòm.** Ansyen kouvèti disk bon pou pale sou mòd, machin ak figi.
+9. **Gade yon mizikal.** Yon fim mizikal oswa konsè ki soti nan epòk li ka fè yon bon aswè. Mete sou poz pou pran repo.
+10. **Jwe yon enstriman li konnen.** Yon moun ki te konn jwe pyano oswa gita ka renmen jwe yon bagay senp. Pita, chèche kèk nòt ansanm ase.
+11. **Mizik pandan w ap travay.** Jwe chante li renmen pandan w ap pliye rad oswa mete tab la.
+12. **Chante nan maten.** Kòmanse chak jou ak menm chante ki bay kè kontan kòm yon pati nan woutin nan.
+13. **Chante kantik oswa mizik sakre.** Jwe mizik ki soti nan tradisyon lafwa li epi chante ansanm.
+14. **Antre nan yon gwoup chant.** NHS dekri gwoup chant kòm bon pou atitid ak byennèt. Mande nan zòn ou a si gen koral ki akeyan moun k ap viv ak demans.
+15. **Ale tande mizik an dirèk.** Yon kout konsè kominotè oswa yon gwoup deyò. Chita toupre sòti a epi ale nenpòt lè ou vle.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Pou yon aktivite mo ki pi lejè ak fraz abitye, eseye [fini fraz la](/games/finish-the-saying/), kote ou ka toujou montre fen an.
 
-## Matching music to the moment
+## Chwazi mizik selon moman an
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association sijere sèvi ak mizik pou kreye atitid ou vle a: mizik kalm pou yon anbyans trankil, ak yon chante anime ki soti nan jèn yon moun pou leve lespri.
 
-| Moment | Try | Tip |
+| Moman | Eseye | Konsèy |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Lè w leve | Yon chante abitye ki bay kè kontan | Menm chante chak maten vin tounen yon siyal dous |
+| Travay lakay | Chante anime li renmen | Mizik ka fè travay la santi tankou konpayi |
+| Manje | Mizik enstrimantal dous | Kenbe li ba pou li pa pran plas manje a |
+| Fen apremidi | Mizik kalm ak abitye nan bon limyè | Gade [ajitasyon nan fen jounen an](/caregiving/late-day-restlessness/) |
+| Lè pou dòmi | Mizik dous ak ralanti | Bese volim nan ak limyè yo ansanm |
+| Etap avanse | Chante li pi renmen yo, trè dous | Chita toupre epi kenbe men l |
 
-## Tips for a good experience
+## Konsèy pou yon bon eksperyans
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Etenn lòt bri.** Alzheimer's Association sijere fèmen fenèt ak pòt epi etenn televizyon an pou mizik la se sèl son ki genyen.
+- **Kenbe volim nan dous.** Mizik la ta dwe alèz, pa fò. Si moun nan sèvi ak aparèy oditif, asire yo nan plas epi yo ap mache; gade [tande](/brain-health/hearing/).
+- **Fè atansyon ak asosyasyon tris.** Gen kèk chante ki pote lapenn, lagè oswa pèt. Si yon chante deranje moun nan, rekonfòte l epi chanje li.
+- **Kite l dirije.** Si sa posib, kite moun nan chwazi mizik la, epi aksepte yon non.
+- **Rete nenpòt lè.** Senk minit mizik se yon bon aktivite. Etenn li epi chita trankilman se yon bon aktivite tou.
 
-## What does the research say about music and dementia?
+## Kisa rechèch di sou mizik ak demans?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Prèv yo limite. Yon [revizyon Cochrane 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) te gade 30 etid sou sesyon mizik estriktire, sitou ak gwoup nan mezon retrèt. Li te jwenn ke sesyon sa yo pwobableman soulaje sentòm depresyon yon ti kras konpare ak swen nòmal, men li pa t jwenn okenn efè klè sou ajitasyon, byennèt oswa panse ak memwa, epi pa t gen efè ki te dire apre sesyon yo te fini.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Nou pataje mizik paske li se yon fason agreyab ak san presyon pou pase tan ansanm, pa kòm yon tretman. Pou anviwònman gwoup, gade [aktivite an gwoup nan kay swen](/activities/care-home-groups/); pou sèvi ak mizik ansanm ak foto ak istwa, gade [aktivite reminisans](/activities/reminiscence/).

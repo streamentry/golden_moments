@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Փազլներ դեմենցիայով ապրողների համար"
+seoTitle: "Փազլներ դեմենցիայի դեպքում"
+description: "Ինչպես ընտրել նկարներով, բառային և օնլայն փազլներ դեմենցիայով ապրող մարդու համար. մասերի չափը, նկարը, մեծ տառերը և ինչպես պարզեցնել։"
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Դեմենցիայով ապրող մարդու համար ամենալավ փազլը նա է, որը նա կարող է ավարտել
+  մի փոքր օգնությամբ և հաճույք ստանալ ընթացքում։ Ընտրեք նկարներով փազլներ՝
+  ավելի քիչ և ավելի մեծ մասերով, պարզ ու հասուն մարդու համար հարմար նկարով։
+  Տուփի նկարը պահեք տեսադաշտում և նախ առանձնացրեք եզրերի մասերը։ Բառերի
+  որոնումն ու խաչբառերը ավելի հարմար են մեծ տառերով։ Չորս մասից բաղկացած
+  պարզ օնլայն փազլները կարող են հարմար լինել միջին փուլում։ Դադարեցրեք, քանի դեռ հաճելի է։
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Ընտրեք ըստ того՝ ինչպես է գնում, ոչ թե փուլերի անուններով. եթե փազլը ծանր է թվում, փորձեք ավելի քիչ մասերով տարբերակ։"
+  - "Մեծ, ամուր մասերը և հստակ նկարը՝ գույնի տարբեր հատվածներով, ավելի հեշտ են, քան փոքր մասերն ու մեծ երկնքով նկարները։"
+  - "Կարևոր է, որ նկարը հարմար լինի հասուն մարդու համար. այգիներ, խոհանոցներ, մեքենաներ և կենդանիներ, ոչ թե մուլտհերոսներ։"
+  - "Միասին անելն է գլխավորը։ Մասերը մեկ առ մեկ տվեք, առանձնացրեք եզրերը, տուփի կափարիչը պահեք տեսադաշտում։"
+  - "Մեծ տառերով բառերի որոնումը և 4 կամ 9 մասից բաղկացած պարզ օնլայն փազլները այս կայքում անվճար են։"
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Քանի՞ մասից բաղկացած փազլն է ավելի հարմար դեմենցիայով ապրող մարդու համար։"
+    a: "Միակ ճիշտ թիվ չկա։ Մարդը, ով նախկինում հավաքել է 1000 մասից փազլներ, սկզբնական շրջանում կարող է դեռ հաճույքով հավաքել մի քանի հարյուր մասից փազլ, իսկ մեկ ուրիշին ավելի հարմար են մոտ մեկ տասնյակ մեծ մասերը։ Եթե փազլը ծանր է թվում կամ նյարդայնություն է առաջացնում, անցեք ավելի քիչ մասերի։ Մեր օնլայն «Նկարի փազլ» խաղն ունի 4 կամ 9 մաս։"
+  - q: "Արդյո՞ք նկարներով փազլները հարմար են դեմենցիայով ապրողների համար։"
+    a: "Շատ մարդիկ հաճույք են ստանում դրանցից, հատկապես եթե նախկինում սիրել են փազլներ հավաքել։ Փազլը ձեռքը զբաղեցնում է, տալիս է հստակ նպատակ և նկար, որի մասին կարելի է զրուցել։ Ոչ մի փազլ չի ցույց տվել, որ բուժում կամ դանդաղեցնում է դեմենցիան, ուստի ընտրեք դրանք հաճույքի և ընկերակցության համար։"
+  - q: "Ի՞նչ անել, եթե մարդը այլևս չի կարողանում նկարներով փազլ հավաքել։"
+    a: "Փազլը պարզեցրեք և ավելի շատը ինքներդ արեք. մասերը տվեք մեկ առ մեկ կամ թողեք միայն վերջին մի քանի մասը նրա համար։ Փորձեք 4 մասից օնլայն փազլ, մասերը դասավորել ըստ գույնի կամ պարզապես միասին նայել ավարտված նկարին։"
+  - q: "Արդյո՞ք խաչբառերն ու բառերի որոնումը հարմար են դեմենցիայի դեպքում։"
+    a: "Դրանք կարող են հարմար լինել սկզբնական փուլում՝ մեծ տառերով։ Բառերի որոնումը, որտեղ բառերը դասավորված են միայն հորիզոնական և ուղղահայաց, ավելի հեշտ է, քան անկյունագծով կամ հակառակ ուղղությամբ բառեր ունեցող տարբերակները։ Հուշումները կամ բառերի ցանկը բարձրաձայն կարդացեք և աշխատեք միասին։"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Ճաշասեղանին փռված նկարներով փազլը միասին անցկացնելու ամենապարզ զբաղմունքներից է։ Կարող եք նստել կողք կողքի՝ առանց շատ խոսելու, նկարը թեմա է տալիս զրույցի համար, իսկ վերջին մասը տեղ դնելը հաճելի զգացողություն է։ Սակայն դեմենցիայի փոփոխություններին զուգընթաց փազլներն էլ պետք է փոխվեն։ Չափազանց դժվար փազլը կարող է հանգիստ կեսօրը դարձնել լարված։ Այս էջում կգտնեք խորհուրդներ, թե ինչպես ընտրել և պատրաստել նկարներով, բառային և պարզ օնլայն փազլներ, ինչպես նաև ինչ անել, երբ դրանք դժվարանում են։
 
-## Are puzzles good for people with dementia?
+## Արդյո՞ք փազլները հարմար են դեմենցիայով ապրողների համար։
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Շատ մարդիկ հաճույք են ստանում դրանցից, հատկապես նրանք, ովքեր նախկինում սիրել են փազլներ։ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) կազմակերպությունը բառերի որոնումը, թղթախաղերն ու սեղանի խաղերը թվարկում է սկզբնական փուլի համար հարմար զբաղմունքների շարքում, իսկ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)-ը նշում է պլանշետով օնլայն խաղերն ու փազլները որպես ներգրավված մնալու հնարավոր ձևերից մեկը։
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Փազլները բուժում չեն։ Ոչ մի փազլ չի ցույց տվել, որ դանդաղեցնում կամ կանգնեցնում է դեմենցիան. մեր [ուղղեցույցը ուղեղի խաղերի և դեմենցիայի մասին](/brain-health/brain-games/) բացատրում է հետազոտությունները։ Փազլ հավաքելու պատճառը այն է, որ դա կարող է լինել միասին անցկացրած հաճելի և հետաքրքիր ժամ։ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) կազմակերպությունն ամփոփում է այսպես. կենտրոնացեք հաճույքի վրա, ոչ թե արդյունքի։
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Ինչպե՞ս ընտրել նկարներով փազլ դեմենցիայով ապրող մարդու համար։
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Հենվեք այն բանի վրա, ինչ մարդուն է դուր գալիս և ինչպես անցավ նախորդ փազլը, ոչ թե փուլի անվան վրա։
 
-### Number of pieces
+### Մասերի քանակը
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ճիշտ թիվ չկա։ Մարդը, ով տարիներ շարունակ փազլներ է հավաքել, սկզբնական շրջանում կարող է դեռ հաճույքով հավաքել մի քանի հարյուր մասից փազլ, իսկ մեկ ուրիշը ավելի երջանիկ է զգում մոտ մեկ տասնյակ մասով։ Գործնական կանոն. եթե նախորդ փազլը ծանր թվաց, ընտրեք մոտ կեսի չափ մասերով տարբերակ։ Եթե այն արագ ավարտվեց և մարդը դեռ ուզում էր շարունակել, մի փոքր ավելացրեք մասերի քանակը։
 
-### Piece size and feel
+### Մասերի չափը և զգացողությունը
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Ավելի մեծ մասերը** ավելի հեշտ է տեսնել, վերցնել և շրջել։
+- **Հաստ, ամուր մասերը** մնում են տեղում և չեն վնասվում ընկնելիս։
+- **Անփայլ մակերեսը** նվազեցնում է լամպերի և պատուհանների լույսի արտացոլումը։
+- **Խուսափեք շատ փոքր մասերից**, եթե մարդը կարող է իրերը բերանը տանել, ինչը կարող է պատահել դեմենցիայի ավելի ուշ փուլերում։
 
-### The picture
+### Նկարը
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Հասուն մարդու համար հարմար պատկերներ։** Այգիներ, խոհանոցներ, հին մեքենաներ, գյուղական կենդանիներ, ծովափնյա քաղաք, սիրելի մարզաձև։ Ոչ թե մուլտհերոսներ կամ մանկական խաղալիքի նման բաներ։
+- **Գույնի հստակ հատվածներ։** Կարմիր գոմը, կապույտ նավակը և կանաչ դաշտը ավելի հեշտ են, քան երկինքը, որը զբաղեցնում է փազլի կեսը։
+- **Ծանոթ և անձնական։** Այն վայրի նկարը, որտեղ մարդը ապրել է, կամ այն զբաղմունքը, որը նա սիրել է, շատ թեմաներ է տալիս զրույցի համար։ Որոշ տպագրատներ կարող են ընտանեկան լուսանկարը վերածել փազլի։
 
-## How do you do a puzzle together?
+## Ինչպե՞ս միասին փազլ հավաքել։
 
-Set it up so the person can get straight to the enjoyable part.
+Պատրաստեք այնպես, որ մարդը կարողանա անմիջապես անցնել հաճելի մասին։
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Ընտրեք հարմար տեղ։** Լավ լուսավորություն, բազկաթոռ և սեղան կամ սկուտեղ, որտեղ փազլը կարող է մնալ։
+2. **Տուփի կափարիչը դրեք կանգնած** այնպես, որ երկուսդ էլ տեսնեք այն։
+3. **Մասերը շրջեք նկարը վերև** սկսելուց առաջ։
+4. **Եզրերի մասերը առանձնացրեք** ինքներդ կամ նախ հավաքեք եզրագիծը և մեջտեղը թողեք նրան։
+5. **Մասերը խմբավորեք ըստ գույնի** մի քանի ոչ խոր ափսեների կամ սկուտեղների մեջ։
+6. **Մասերը տվեք մեկ առ մեկ**, եթե կույտը չափազանց շատ է թվում։ «Կարծում եմ՝ սա գոմի մասն է»։
+7. **Խոսեք նկարի մասին,** ոչ թե առաջընթացի։ «Սա հիշեցնում է այն նավակը, որն ուներ հայրս»։
+8. **Թողեք փազլը դրսում։** Կարող եք վերադառնալ դրան մի քանի օրվա ընթացքում։ Շտապելու կարիք չկա։
+9. **Դադարեցրեք հաճելի պահին,** երբ մի մասը տեղ է դրվել և դեռ հաճելի է։
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) կազմակերպությունը խորհուրդ է տալիս օգնել մարդուն սկսել, ուշադրություն դարձնել նյարդայնությանը և թույլ տալ նրան պարզապես դիտել, եթե դա իրեն ավելի շատ է դուր գալիս։ Ձեր հավաքելը դիտելն ու ասելը, թե որտեղ կարող է մի մասը տեղավորվել, նույնպես մասնակցություն է։
 
-## Easy online puzzles
+## Պարզ օնլայն փազլներ
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Պլանշետով փազլն ունի իրական առավելություններ. չկա կորած մաս, նկարները մեծ են և լցնում են էկրանը, և սեղանը մաքրելու կարիք չկա։
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Մեր անվճար [«Նկարի փազլ»](/games/picture-puzzle/) խաղը նկարը բաժանում է 4 կամ 9 մասի։ Հպեք երկու մասի, որպեսզի փոխեք դրանց տեղերը, մինչև նկարը ամբողջանա։ Ամբողջական նկարը մնում է էկրանին՝ որպես ուղեցույց, ժամանակաչափ չկա, և կարող եք ցանկացած պահին դադարեցնել։ Չորս մասով տարբերակը կողքին գտնվող մարդու օգնությամբ կարող է հարմար լինել միջին փուլում գտնվող շատ մարդկանց համար։
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Ավելի պարզ նկարային խաղի համար փորձեք [«Գտիր նույնը»](/games/find-the-same/) խաղը, որտեղ հպում եք վերևի նկարին համապատասխանող նկարին, կամ [«Դասավորենք միասին»](/games/sort-together/) խաղը, որտեղ նկարները դասավորվում են զամբյուղների մեջ, օրինակ՝ խոհանոց կամ այգի։
 
-## Word puzzles: word searches and crosswords
+## Բառային փազլներ. բառերի որոնում և խաչբառեր
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Բառային փազլները հարմար են նրանց, ովքեր միշտ սիրել են դրանք, սովորաբար դեմենցիայի ավելի վաղ փուլում։
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Մեծ տառերով բառերի որոնում։** Մեր անվճար [«Բառերի որոնում»](/games/word-search/) խաղում օգտագործվում են մեծ տառեր և միայն մի քանի բառ, որոնք դասավորված են հորիզոնական և ուղղահայաց, երբեք ոչ անկյունագծով կամ հակառակ ուղղությամբ։ Կարող եք խաղալ էկրանին կամ տպել։
+- **Ցանկը կարդացեք բարձրաձայն։** Մեկը կարդում է բառը, մյուսը փնտրում է այն։ Բավական է նաև շրջանցել միայն բառի առաջին տառը։
+- **Մեծ տառերով խաչբառերը** փազլների գրքերից կարող են հարմար լինել սկզբնական փուլում։ Հուշումները կարդացեք բարձրաձայն, կիսեք գրիչը և պատասխանները լրացրեք միասին։ Պարզ, մեկ թեմայով խաչբառերն ավելի հարմար են, քան բարդերը։
+- **Խոսեք բառերի մասին։** «Այգի» բառը կարող է տանել տասը րոպեանոց զրույցի լոլիկների մասին։
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Թղթային այլ զբաղմունքների և դրանք հեշտ տեսնելու ու բռնելու համար տպելու մասին կարդացեք [դեմենցիայի համար անվճար տպվող զբաղմունքների](/activities/printable/) էջում։
 
-## Which puzzles suit each stage?
+## Ո՞ր փազլներն են հարմար տարբեր փուլերում։
 
-Stages overlap, and good and hard days are normal.
+Փուլերը համընկնում են, և լավ ու դժվար օրերը սովորական են։
 
-| Stage | Puzzles that often fit | Your role |
+| Փուլ | Փազլներ, որոնք հաճախ հարմար են | Ձեր դերը |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Սկզբնական | Ծանոթ նկարներով փազլներ՝ նախկինից ավելի քիչ մասերով, մեծ տառերով խաչբառեր և բառերի որոնում, 9 մասից օնլայն փազլներ | Խաղընկեր. թողեք մարդը ընտրի, օգնեք, երբ խնդրի |
+| Միջին | Մոտ մեկ տասնյակ մեծ մասերից նկարներով փազլներ, 4 մասից օնլայն փազլներ, միասին բարձրաձայն կարդացված բառերի որոնում | Պատրաստեք, մասերը դասավորեք, տվեք մեկ առ մեկ |
+| Ուշ | Միասին նայել ավարտված նկարին, «Գտիր նույնը» խաղը երկու նկարով, մի քանի մեծ մաս բռնել | Զբաղմունքը բերեք նրա մոտ. ձեր ներկայությունն ինքնին զբաղմունք է |
 
-## When should you make a puzzle easier, or stop?
+## Ե՞րբ պարզեցնել փազլը կամ դադարեցնել։
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Ուշադրություն դարձրեք հոգոցներին, մասերը հեռու հրելուն, կրկնվող «չեմ կարողանում» словам կամ անհանգիստ հայացքին։ Սրանք նշան են, որ պետք է ինչ-որ բան փոխել, ոչ թե շարունակել ստիպելով։
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Պարզեցրեք։** Ավելի քիչ մասեր կամ թողեք միայն վերջին մի քանիսը նրա համար։
+- **Ավելի շատը ինքներդ արեք** և հրավիրեք նրան օգնել հեշտ մասերում։
+- **Անցեք մոտակա այլ զբաղմունքի.** մասերը դասավորել ըստ գույնի, 4 մասից օնլայն փազլ կամ [«Գունավորում»](/games/coloring/)։
+- **Դադարեցրեք։** Մի կողմ դրեք և թեյ խմեք։ Կարող եք վերադառնալ մեկ այլ օր կամ ընդհանրապես չվերադառնալ։
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Եթե փազլները սկսում են մարդու համար հիշեցնել այն, ինչ դժվար է, կարելի է հանգիստ թողնել դրանք։ Միասին լավ ժամանակ անցկացնելու շատ այլ ձևեր կան. մեր [101 զբաղմունքի գաղափարների](/activities/ideas/) էջը լավ վայր է սկսելու համար։

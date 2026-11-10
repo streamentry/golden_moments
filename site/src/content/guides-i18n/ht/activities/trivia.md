@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Kesyon senp pou granmoun ki gen demans, san presyon"
+seoTitle: "Kesyon pou granmoun ki gen demans, ak repons"
+description: "50 kesyon senp pou granmoun ki gen demans, ak chwa repons ak sijè pou pale, plis kijan pou fè aktivite a san pèsonn santi yo teste oswa kite sou kote."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Kesyon senp pou granmoun ki gen demans mache pi byen lè yo sanble ak yon
+  ti koze, pa yon egzamen. Poze kesyon sou bagay yo te aprann depi lontan,
+  tankou ansyen chante, ekspresyon, fèt ak lavi chak jou, epi toujou bay de
+  oswa twa chwa. Bay repons lan ak dousè, pa janm mete yon sèl moun sou devan,
+  pa sèvi ak nòt, epi sèvi ak chak repons pou kòmanse yon istwa. Kesyon
+  « sa a oswa sa a » ki pa gen move repons ka pi bon pou etap ki pi avanse yo.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Poze kesyon sou bagay yo konnen depi lontan : chante, ekspresyon, fèt, manje ak lavi chak jou nan tan lontan."
+  - "Bay de oswa twa chwa pou moun nan ka rekonèt repons lan olye pou l chèche l nan tèt li."
+  - "Di repons lan ak chalè epi kontinye. Nenpòt devinèt ki fè yon istwa kòmanse se yon bon devinèt."
+  - "Pa gen pwen, pa gen ekip k ap kouri, pa rele sou yon sèl moun. Kite repons yo soti nan tout gwoup la."
+  - "Lè chwazi ant repons yo vin difisil, pase nan kesyon « sa a oswa sa a » ki pa gen bon repons."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Èske kesyon ak repons se yon bon aktivite pou moun k ap viv ak demans ?"
+    a: "Li ka bon, si yo fè l ak dousè. Alzheimer’s Foundation of America site kesyon ak repons pami aktivite pou premye etap la. Kenbe kesyon yo sou sijè moun yo konnen depi lontan, bay chwa, pa janm mete yon sèl moun sou devan, epi sèvi ak repons yo kòm yon fason pou kòmanse konvèsasyon olye pou yo tounen yon egzamen."
+  - q: "Ki sijè ki pi bon pou kesyon ak repons lè gen demans ?"
+    a: "Bagay yo te aprann depi lontan souvan pi bon : chante ak chantè popilè lè moun nan te jèn, ekspresyon yo konnen, fèt, manje, espò, ak lavi chak jou tankou livrezon lèt ak telefòn rotary. Evite nouvèl resan ak nenpòt bagay ki mande pou sonje yon bagay ki te fèt pi bonè nan menm sesyon an."
+  - q: "Kijan mwen ka fè kesyon ak repons nan yon sant swen san jennen pèsonn ?"
+    a: "Li chak kesyon pou tout gwoup la, montre oswa di chwa yo, epi akeyi repons nenpòt moun. Pa rele sou moun youn pa youn epi pa kenbe nòt. Di repons lan ak yon souri kèlkeswa sa yo te devine, epi poze yon lòt kesyon tankou « Ki moun isit la ki te janm ale nan yon drive-in ? » pou fè l tounen istwa."
+  - q: "Kisa mwen ka fè olye kesyon ak repons nan etap ki pi avanse yo ?"
+    a: "Pase nan kesyon ki pa gen move repons, tankou « Kafe oswa te ? » oswa « Plaj oswa mòn ? », epi fini ekspresyon oswa chante yo konnen ansanm. Gade foto epi dekri yo ansanm ka mache byen tou."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Kesyon ak repons se youn nan aktivite gwoup yo mande plis nan sant swen ak pwogram lajounen, epi anpil fanmi jwe l bò tab kwizin tou. Lè yo fè l jan yo konn fè l, ak pwen epi yon sèl moun k ap reponn, li ka fè yon moun k ap viv ak demans santi yo sou devan. Lè yo fè l ak dousè, li vin yon bon fason pou tande istwa. Pi ba a ou jwenn 50 kesyon senp ak chwa repons ak yon bagay pou pale sou chak, epi apre sa kijan pou òganize yon sesyon.
 
-## How do you make trivia work for someone with dementia?
+## Kijan pou fè kesyon ak repons mache pou yon moun k ap viv ak demans ?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Fè l tounen rekonèt ak sonje bagay ki te pase lontan, epi fè chak repons santi li akeyi.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Poze kesyon sou tan lontan.** [Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) di youn nan premye sentòm ki pi souvan nan maladi alzayme a se difikilte pou sonje enfòmasyon yo fèk aprann. Chante, ekspresyon ak lavi chak jou ki soti plizyè dizèn ane pase souvan pi fasil pou pale sou yo.
+2. **Toujou bay chwa.** Chwazi bon repons lan nan de oswa twa chwa pi fasil pase jwenn li san èd.
+3. **Li kesyon yo awotè epi montre yo gwo.** Yon tablo blan oswa yon tablèt yo kenbe anlè ka ede moun ki pa tande byen.
+4. **Bay repons lan san pwoblèm.** Si pèsonn pa konnen, di l ak chalè epi kontinye. Pa janm di : « Ale non, ou konnen sa. »
+5. **Pa gen nòt.** Ni pou moun youn pa youn, ni pou tab yo. Si moun yo vle yon chif, kenbe yon sèl total pou tout gwoup la.
+6. **Pa janm rele sou yon sèl moun.** Kite repons yo soti nan nenpòt moun. Lè se de moun sèlman, reponn ansanm : « Mwen panse se pyano a. Ou menm, kisa ou panse ? »
+7. **Sèvi ak sijè pou pale a.** Repons lan se kòmansman an, se pa fen an. Istwa yo se vrè objektif la.
+8. **Kenbe l kout.** Dis kesyon ak istwa ant yo se ase.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) rezime règ prensipal la senpman : gade si moun nan vin fristre epi asire w li santi l reyisi. [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) site kesyon ak repons pami aktivite pou premye etap la. Nan etap mitan an, kenbe sèlman de chwa epi apiye w sou sijè pou pale yo. Pi ta, pase nan kesyon « sa a oswa sa a » ki pi ba a.
 
-## Music and entertainment trivia
+## Kesyon sou mizik ak amizman
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Repons lan ekri an **fonse**. Adapte kesyon sa yo selon moun nan : yon moun ki te grandi ak Motown ka renmen lòt chantè pase yon moun ki te grandi ak big band.
 
-| Question | Choices | Talk about |
+| Kesyon | Chwa | Pale sou sa |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Ki moun yo te rele wa rock and roll la ? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Èske ou te janm wè Elvis sou televizyon ? |
+| Ki chantè yo te bay ti non Ol’ Blue Eyes ? | Dean Martin, **Frank Sinatra**, Perry Como | Ki chante Sinatra ou pi renmen ? |
+| Bing Crosby te reve yon Nwèl ki... | **Blan** (white), maryaj, kay | Chante yon ti liy ansanm |
+| Louis Armstrong te chante « What a Wonderful... » | Day, **World**, Life | Kisa ki fè mond lan bèl pou ou ? |
+| Judy Garland te chante « Over the Rainbow » nan ki fim ? | **The Wizard of Oz**, Gone with the Wind, Singin’ in the Rain | Ki kote ou te konn al gade fim ou te renmen yo ? |
+| Ki moun ki te jwe Lucy nan « I Love Lucy » ? | **Lucille Ball**, Doris Day, Betty White | Ki emisyon fanmi ou te konn gade ansanm ? |
+| Ki kowboy ki te monte yon chwal yo rele Trigger ? | **Roy Rogers**, Gene Autry, John Wayne | Èske ou te konn jwe kowboy lè ou te timoun ? |
+| Ki moun ki te anime « The Tonight Show » pandan 30 an ? | Ed Sullivan, **Johnny Carson**, Bob Hope | Èske ou te konn rete leve ta pou gade televizyon ? |
+| Ki enstriman ki gen 88 touch ? | Gita, **pyano**, twonpèt | Èske te gen yon moun nan fanmi ou ki te konn jwe mizik ? |
+| Ki dans yo konte en-de-twa, en-de-twa ? | **Vals**, twist, tango | Ki kote ou te konn al danse ? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Pou plis sou mizik, gade [aktivite mizik pou moun ki gen demans](/activities/music/).
 
-## Everyday life trivia
+## Kesyon sou lavi chak jou
 
-| Question | Choices | Talk about |
+| Kesyon | Chwa | Pale sou sa |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Anvan frijidè, anpil kay te kenbe manje frèt nan yon... | **Bwat glas** (icebox), fou, grenye | Ki moun ki te pote glas la ? |
+| Ki moun ki te pote lèt nan pòt la nan boutèy an vè ? | Faktè a, **moun ki te livre lèt la**, timoun ki te pote jounal | Ki lòt bagay yo te konn pote lakay ou ? |
+| Kijan ou te konn fè nimewo sou yon telefòn rotary ? | Peze bouton, **vire yon wou**, pale avè l | Rakonte m sou telefòn ki te lakay ou |
+| Ki konpayi ki te fè machin Model T la ? | **Ford**, Chevrolet, Buick | Rakonte m sou yon machin ou te renmen |
+| Ki kote ou t ap jwenn yon soda jerk ? | **Nan yon soda fountain**, nan yon boulanjri, nan yon bank | Kisa ou te konn kòmande nan kontwa a ? |
+| Ki jwèt ki se yon sous metal ki ka mache desann eskalye ? | Yo-yo, **Slinky**, hula hoop | Ki jwèt ou te renmen anpil ? |
+| Yon drive-in se te yon kote pou gade... | **Fim nan machin ou**, match, parad | Ak kiyès ou te konn ale ? |
+| Ki figi ki sou biye yon dola a ? | Lincoln, **George Washington**, Jefferson | Kisa yon dola te ka achte lè sa a ? |
+| Ki figi ki sou pyès yon santim lan (penny) ? | **Abraham Lincoln**, Washington, Franklin | Èske ou te konn sere pyès lajan nan yon bokal lè sa a ? |
+| Ki koulè yon otobis lekòl konn ye anjeneral ? | Wouj, **jòn**, ble | Kijan ou te konn ale lekòl ? |
 
-## Holidays, nature and places
+## Fèt, lanati ak kote
 
-| Question | Choices | Talk about |
+| Kesyon | Chwa | Pale sou sa |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Ki fèt ki tonbe katriyèm jedi nan mwa novanm ? | Labor Day, **Thanksgiving**, Memorial Day | Kisa ki te toujou sou tab ou ? |
+| Yo fè jack-o’-lantern pou ki fèt ? | **Halloween**, Pak, Nwèl | Rakonte m sou Halloween kote ou te grandi |
+| Kat jiyè a selebre Deklarasyon... | Dwa, **Endepandans**, Libète | Ki kote ou te konn al gade fedatifis ? |
+| Fèt Manman an se nan ki mwa ? | Avril, **Me**, Jen | Kijan fanmi ou te konn selebre l ? |
+| Konbyen zetwal ki sou drapo Ameriken an ? | 48, **50**, 52 | Drapo a te gen 48 zetwal jiska 1959. Tou de repons yo se yon bon souvni |
+| Ki oseyan ki sou kòt lès la ? | Pasifik, **Atlantik**, Aktik | Èske ou te janm ale nan plaj ? |
+| Nan ki vil Estati Libète a ye ? | Boston, **New York**, Philadelphia | Èske ou te janm ale New York ? |
+| Kisa myèl fè ? | Lèt, **siwo myèl**, swa | Siwo myèl sou pen griye oswa nan te ? |
+| Yo rele yon ti bèf... | Ti chwal (foal), **ti towo** (calf), ti kabrit (kid) | Èske ou te janm viv toupre yon fèm ? |
+| Ki flè wo jòn ki byen konnen paske li vire bò kote solèy la ? | Woz, **tounsòl**, tulip | Kisa ki te konn pouse nan jaden ou ? |
+| Konbyen jou ki genyen nan yon ane bisèks ? | 365, **366**, 360 | Rakonte m sou yon anivèsè ou sonje |
+| Ki sezon ki vini apre sezon fredi ? | Otòn, **prentan**, ete | Ki sezon ou pi renmen ? |
 
-## Food and sports trivia
+## Kesyon sou manje ak espò
 
-| Question | Choices | Talk about |
+| Kesyon | Chwa | Pale sou sa |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rezen sèk se... | Prin, **rezen**, seriz | Èske ou te konn mete rezen sèk nan manje midi ? |
+| Prin sèk se... | **Prin**, fig, pòm | Ki moun nan fanmi ou ki te renmen prin sèk ? |
+| Bè manba ak... | **Jelegi**, fwomaj, janbon | Kwochèt oswa lis ? |
+| Guacamole fèt sitou ak... | Pwa, **zaboka**, konkonb | Ki sòs ou te konn mete deyò nan fèt ? |
+| Ki tat ki se yon pi renmen pou Thanksgiving ? | **Joumou** (pumpkin), sitwon, seriz | Ki tat ou te konn fè ? |
+| Konbyen jwè yon ekip bezbòl gen sou teren an ? | 7, **9**, 11 | Ki ekip ou te konn sipòte ? |
+| Konbyen strike ki fè yon out nan bezbòl ? | De, **twa**, kat | Èske ou te janm jwe bezbòl ? |
+| Babe Ruth te pi konnen nan ki espò ? | Bòks, **bezbòl**, gòlf | Èske ou te konn ale nan match bezbòl ? |
+| Konbyen twou ki genyen sou yon teren gòlf nòmal ? | 9, **18**, 24 | Èske ou te janm jwe gòlf, oswa mini gòlf ? |
+| Nan ki espò ou fè pwen ak yon touchdown ? | **Foutbòl ameriken**, oki, baskètbòl | Ki moun ki te konn gade foutbòl ameriken lakay ou ? |
 
-## Familiar sayings
+## Ekspresyon yo konnen byen
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Fini yon ekspresyon sèvi ak langaj yo te aprann depi lontan, epi souvan sa vini fasil. Jwèt nou an [Fini ekspresyon an](/games/finish-the-saying/) gen anpil lòt, ak yon bouton pou montre nenpòt fen.
 
-| Saying | Choices | Talk about |
+| Ekspresyon | Chwa | Pale sou sa |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| An apple a day keeps the... | **Doctor away**, rain away, cat away | Ki moun ki te konn di sa ba ou ? |
+| The early bird catches the... | Bus, **worm**, train | Èske ou se yon moun maten ? |
+| Don’t count your chickens before they... | **Hatch**, sleep, sing | Èske fanmi ou te konn gen poul ? |
+| A penny saved is a penny... | **Earned**, lost, spent | Ki moun ki te pi ekonom nan fanmi ou ? |
+| Home is where the... | Garden is, **heart is**, kitchen is | Kisa ki fè yon kote santi li tankou lakay ? |
+| Better late than... | Early, **never**, sorry | Ki moun ki te toujou anreta ? |
+| Every cloud has a silver... | **Lining**, spoon, coin | Rakonte m sou yon chans ou te jwenn |
+| Actions speak louder than... | **Words**, music, thunder | Rakonte m sou yon moun ki te konn di sa |
 
-## This-or-that questions with no wrong answer
+## Kesyon « sa a oswa sa a » ki pa gen move repons
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Kesyon sa yo bon pou chak etap, menm etap ki pi avanse yo, paske pa gen anyen pou fè mal. Poze kesyon an, koute, epi pataje pwòp repons ou tou.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafe oswa te ?
+- Plaj oswa mòn ?
+- Chen oswa chat ?
+- Ete oswa sezon fredi ?
+- Tat oswa gato ?
+- Danse oswa gade ?
+- Solèy leve oswa solèy kouche ?
+- Galri devan oswa lakou dèyè ?
+- Radyo oswa disk ?
+- Pankèt oswa ze ?
+- Woz oswa margarèt ?
+- Vwayaj an tren oswa vwayaj sou wout ?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Pou kesyon konvèsasyon ki mache ak foto, eseye [Kat konvèsasyon](/games/conversation-cards/) nou yo ki ka enprime.
 
-## How do you run a trivia session in a care home or group?
+## Kijan pou òganize yon sesyon kesyon ak repons nan yon sant swen oswa nan yon gwoup ?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Chita moun yo pou yo ka wè epi tande.** Aparèy oditif yo mete, linèt yo mete, televizyon an femen.
+2. **Prezante l tankou yon ti koze.** « Mwen gen kèk kesyon sou tan lontan, epi mwen sèten nou konnen plis pase mwen. »
+3. **Li chak kesyon de fwa epi montre chwa yo gwo.**
+4. **Akeyi repons ki soti nenpòt kote nan sal la.** Repete bon repons yo pou tout moun ka tande.
+5. **Di repons lan pou tout moun,** epi poze sijè pou pale a bay sal la.
+6. **Swiv enèji gwoup la.** Si yon kesyon fè dis minit istwa kòmanse, kite l ale.
+7. **Fini ak yon chante oswa yon seri kesyon « sa a oswa sa a »,** pou tout moun fini sou yon bagay ki fasil.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Pou lòt fòma gwoup, tankou bingo ak foto ak chante ansanm, gade [aktivite an gwoup pou sant swen](/activities/care-home-groups/).
 
-## When to change the plan
+## Kilè pou chanje plan an
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Si yon moun sanble enkyete, li vin trankil, oswa li di « Mwen pa konnen » plis pase yon fwa, fè l pi fasil : desann nan de chwa, reponn ansanm, oswa pase nan kesyon « sa a oswa sa a ». Si gwoup la pito pale sou yon sèl kesyon tout apremidi a, sa se yon siksè. Objektif la pa t janm se jwenn bon repons yo. Se te pase tan ansanm nan yon bon konpayi.

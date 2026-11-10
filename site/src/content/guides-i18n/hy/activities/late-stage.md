@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Զբաղմունքներ ուշ փուլում դեմենցիայի դեպքում՝ անկողնում կամ աթոռին"
+seoTitle: "Ուշ փուլում դեմենցիա. զբաղմունքներ անկողնում և աթոռին"
+description: "Հանգիստ զբաղմունքներ ուշ փուլում դեմենցիայով ապրող մարդու համար՝ անկողնում կամ աթոռին. երաժշտություն, շփում, բարձրաձայն ընթերցում, ձայներ և պարզապես միասին լինելը՝ անվտանգության խորհուրդներով։"
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Ուշ փուլում դեմենցիայի դեպքում զբաղմունքները հիմնականում կապված են զգայարանների
+  և Ձեր ներկայության հետ. սիրելի երաժշտություն լսելը, ձեռքը բռնելը, ձեռքերի
+  դանդաղ մերսում, բարձրաձայն ընթերցում, լուսանկարներ դիտելը, բնության ձայներ
+  լսելը և պատուհանի մոտ կամ դրսում նստելը։ Այս ամենը հնարավոր է անել անկողնում
+  կամ աթոռին։ Պահեք հանդիպումները կարճ, հետևեք դեմքին ու ձեռքերին՝ հարմարավետությունը
+  նկատելու համար, և հիշեք, որ պարզապես կողքին լինելն ինքնին զբաղմունք է։
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Մերձությունը դեռ հնարավոր է։ Ուշ փուլում աշխարհը հիմնականում ընկալվում է զգայարաններով։"
+  - "Երաժշտությունը, նուրբ շփումը, ծանոթ ձայները և ձեռքում պահելու փափուկ առարկաները հաճախ հասնում են մարդուն, երբ խոսքերն այլևս չեն օգնում։"
+  - "Այստեղ առաջարկված գրեթե բոլոր մտքերն աշխատում են նաև անկողնում կամ աթոռին գտնվող մարդու համար։"
+  - "Ուշադրություն դարձրեք դեմքի, ձեռքերի և շնչառության նշաններին՝ հարմարավետություն կամ անհանգստություն նկատելու համար, և դադարեցրեք տագնապի ցանկացած նշանի դեպքում։"
+  - "Խուսափեք փոքր առարկաներից, իսկ ուտելիք կամ խմիչք առաջարկեք միայն այնպես, ինչպես խորհուրդ է տալիս խնամքի թիմը, քանի որ կուլ տալը կարող է դառնալ անվտանգ չէ։"
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Ի՞նչ զբաղմունքներ կարելի է անել ուշ փուլում դեմենցիայով ապրող մարդու հետ, ով անկողնում է։"
+    a: "Միացրեք նրա սիրելի երաժշտությունը, բռնեք ձեռքը, դանդաղ մերսեք ձեռքերը լոսյոնով, բարձրաձայն կարդացեք սիրելի գրքից կամ աղոթքից, ցուցադրեք լուսանկարներ կամ միացրեք բնության հանգիստ ձայներ։ Բացեք վարագույրները, որպեսզի նա կարողանա նայել դրսում։ Սովորաբար ավելի լավ է աշխատում կարճ, հանգիստ ժամանակը՝ միաժամանակ մեկ բանով։"
+  - q: "Կարո՞ղ են ուշ փուլում դեմենցիայով ապրող մարդիկ դեռ վայելել երաժշտությունը։"
+    a: "Շատերը կարող են։ Alzheimer's Association-ը նշում է, որ նույնիսկ ուշ փուլում մարդը կարող է մատով զարկել ռիթմին կամ երգել մանկության երգի հետ։ Ընտրեք երաժշտություն, որ նա սիրել է երիտասարդ տարիներին, և ձայնը պահեք ցածր։"
+  - q: "Ինչպե՞ս հասկանալ՝ նա վայելո՞ւմ է զբաղմունքը։"
+    a: "Ուշադրություն դարձրեք փոքր նշաններին. թուլացած ուսեր, ավելի հանգիստ դեմք, աչքիkontakt, մրթմրթոց, ձեռքի թեթև սեղմում կամ ավելի դանդաղ շնչառություն։ Դեմքը կնճռոտելը, ետ քաշվելը, անհանգստությունը կամ հառաչանքը կարող են նշանակել անհարմարություն կամ ցավ։ Եթե նկատում եք դրանք, դադարեցրեք և տեղեկացրեք խնամքի թիմին, եթե դրանք շարունակվեն։"
+  - q: "Արդյո՞ք այցելությունն իմաստ ունի, եթե նա ինձ այլևս չի ճանաչում։"
+    a: "Այո։ National Institute on Aging-ը նշում է, որ պարզապես ներկայությունը կարող է հանգստացնել, իսկ շփումը, երաժշտությունը և պատմությունները դեռ կարող են մխիթարություն տալ դեմենցիայի առաջացած փուլում։ Ձեր ձայնն ու շփումը կարող են ծանոթ լինել նույնիսկ այն ժամանակ, երբ Ձեր անունը՝ ոչ։"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Դեմենցիայի ուշ փուլում մարդը կարող է շատ քիչ խոսել, ամենօրյա խնամքի բոլոր հարցերում օգնության կարիք ունենալ և օրվա մեծ մասը անցկացնել անկողնում կամ աթոռին։ Կարող է թվալ, թե միասին անելու բան այլևս չի մնացել։ Բայց կա։ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage)-ը նշում է, որ մարդու «ես»-ի մի մասնիկը կարող է պահպանվել, և որ այս փուլում աշխարհը հիմնականում ընկալվում է զգայարաններով։ Երաժշտությունը, շփումը, ծանոթ ձայնը և Ձեր հանգիստ ներկայությունը դեռ կարող են մխիթարություն և մերձության պահեր բերել։
 
-## What activities help in late-stage dementia?
+## Ի՞նչ զբաղմունքներ են օգնում ուշ փուլում դեմենցիայի դեպքում
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Ուշ փուլում ամենից շատ օգնում են պարզ զգայական զբաղմունքներն ու հանգիստ ընկերակցությունը։ Alzheimer's Association-ը առաջարկում է միացնել սիրելի երաժշտություն, կարդալ իմաստալից գրքերի հատվածներ, սիրելի հոտ ունեցող լոսյոնով նրբորեն շոյել մաշկը և լավ օրերին միասին նստել դրսում։ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease)-ը հավելում է պատմություններ պատմելը, լուսանկարներ ցուցադրելը, նուրբ շփումը կամ մերսումը, երաժշտությունը, սպիտակ աղմուկը կամ բնության ձայները, և նշում է, որ միայն Ձեր ներկայությունը կարող է հանգստացնել։
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)-ն նշում է, որ ուշ փուլում գտնվող մարդիկ հաճախ ունեն մխիթարության համար ինչ-որ բան մոտը պահելու ուժեղ կարիք, և առաջարկում է պարզ զգայական զբաղմունքներ, նուրբ վարժություններ, թաշկինակով շարժումներ, երաժշտություն, կենդանիների հետ հանդիպումներ, մարդկային շփում և ազատ ձևի արվեստ։
 
-## Activities for someone in bed or a chair
+## Զբաղմունքներ անկողնում կամ աթոռին գտնվող մարդու համար
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Միացրեք նրա երաժշտությունը։** Ընտրեք երգեր նրա երիտասարդ տարիներից, հավատքից կամ ընտանիքից։ Ձայնը պահեք ցածր և նստեք մոտ։ Նույնիսկ հիմա որոշ մարդիկ մատով թակում են կամ մրթմրթում։ Տեսեք [երաժշտական զբաղմունքները](/activities/music/)։
+2. **Բռնեք ձեռքը։** Պարզապես ձեռքը բռնելը՝ բութ մատով նուրբ շոյելով, ինքնին զբաղմունք է։ Նախ ասեք, թե ինչ եք անում։
+3. **Կատարեք ձեռքերի դանդաղ մերսում։** Մի քիչ լոսյոն տաքացրեք ափերի մեջ և նրբորեն շոյեք դաստակից մինչև մատների ծայրերը։ Ընտրեք առանց հոտի լոսյոն, կամ այնպիսի հոտով, որ նա միշտ սիրել է, եթե մաշկը լավ է տանում։
+4. **Բարձրաձայն կարդացեք։** Սիրելի բանաստեղծություն, սիրած գրքից մի հատված, աղոթք կամ մարզական էջ։ Ձեր ձայնի ռիթմն ավելի կարևոր է, քան բառերը։
+5. **Պատմեք մի պատմություն։** Խոսեք ընտանիքային ճանապարհորդության կամ այն օրվա մասին, երբ նա ամուսնացել է։ Պատասխաններ պետք չեն։
+6. **Ցուցադրեք լուսանկարներ։** Միաժամանակ մեկ մեծ լուսանկար պահեք աչքերի մակարդակին և ջերմորեն նկարագրեք այն։ Խուսափեք հարցնելուց, թե ով կա նկարում։
+7. **Առաջարկեք ինչ-որ փափուկ բան բռնելու համար։** Ծալված լվացքի կտոր, ֆլիսե քառակուսի կամ փափուկ կենդանակ։ NIA-ն առաջարկում է տեղափոխման ժամանակ մարդուն լվացքի կտոր տալ, որպեսզի նա ավելի քիչ հավանականությամբ բռնի Ձեզ կամ կահույքը։
+8. **Միացրեք բնության ձայներ։** Անձրևի, ալիքների կամ թռչունների երգի ցածր ձայնը կարող է մեղմացնել սենյակի աղմուկը։
+9. **Բերեք դրսի աշխարհի մի մասը ներս։** Բացեք վարագույրները, պատուհանից դուրս թռչունների կերաման դրեք կամ մի քանի թարմ ծաղիկ կամ տերև բերեք ներս՝ դիտելու և շոշափելու համար։
+10. **Դուրս եկեք։** Եթե մարդը կարող է նստել անվասայլակին, մեղմ օրվա մի քանի րոպեն ստվերում կարող է հաճելի լինել։
+11. **Սանրեք նրա մազերը կամ առաջարկեք տաք կտոր։** Դանդաղ, նուրբ խնամքը և ձեռքերի ու դեմքի համար տաք լվացքի կտորը կարող են հոգատար զգացողություն տալ։
+12. **Նրբորեն շարժվեք երաժշտության հետ։** Միասին թեթև թաշկինակով շարժումներ արեք կամ ձեռքերը երգի ռիթմով օրորեք։ Ձգումների և հոդերի շարժման համար նախ խնդրեք ֆիզիոթերապևտին կամ բուժքրոջը ցույց տալ անվտանգ եղանակներ։
+13. **Զբաղվեք ազատ ձևի արվեստով։** Մեծ թղթի վրա սպունգով կամ ձեռքով տարածեք ոչ թունավոր ներկ՝ Ձեր ձեռքի ուղղորդմամբ։ Ճիշտ արդյունք գոյություն չունի։
+14. **Թույլ տվեք կենդանիների հետ հանդիպումներ։** Հանգիստ ընտանի կենդանին անկողնու կամ գրկի վրա, եթե մարդը սիրում էր կենդանիներ և միջավայրը դա թույլ է տալիս։
+15. **Միասին դանդաղ շնչեք։** Նստեք մոտ և դանդաղ, լսելի շնչեք։ [Calm breathing](/games/calm-breathing/) կարող է օգնել Ձեզ երկուսիդ ռիթմ պահել, և Դուք եք սկսում ու ավարտում այն։
+16. **Պարզապես այնտեղ եղեք։** Նստեք կողքին, մրթմրթացեք, գործեք կամ հանգիստ կարդացեք։ Պարզապես ներկայությունը բավարար է։
 
-## How to share an activity at this stage
+## Ինչպես կիսել զբաղմունքը այս փուլում
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Մոտեցեք դիմացից։** Ասեք նրա անունը և Ձեր անունը, և դիպչելուց առաջ խոսեք դանդաղ ու մեղմ։
+- **Միաժամանակ մեկ բան առաջարկեք։** Երաժշտություն միացնելուց առաջ անջատեք հեռուստացույցը։ Միաժամանակ մեկ զգայարանի վրա կենտրոնացեք։
+- **Կարճ պահեք։** Մի քանի րոպեն կարող է բավական լինել։ Օրվա ընթացքում մի քանի կարճ պահ ավելի լավ է, քան մեկ երկար հանդիպում։
+- **Նախ ապահովեք հարմարավետությունը։** Ստուգեք, որ մարդը լավ հենված է։ NIA-ն առաջարկում է նստած ժամանակ ձեռքերը դնելու և վերին մարմինը հենելու համար ծնկատախտակ օգտագործել։
+- **Դիտեք արձագանքը։** Թուլացած ձեռքերը, ավելի հանգիստ դեմքը, աչքիkontaktը կամ մրթմրթոցը կարող են հարմարավետություն ցույց տալ։ NIA-ն նշում է, որ հառաչանքը, դեմքը կնճռոտելը, մարմնի որևէ մասը պաշտպանելը կամ հանկարծակի անհանգստությունը կարող են ցավի նշաններ լինել։ Դադարեցրեք և տեղեկացրեք խնամքի թիմին։
 
-## A quick guide by sense
+## Արագ ուղեցույց՝ ըստ զգայարանների
 
-| Sense | Ideas | Take care |
+| Զգայարան | Մտքեր | Ուշադրություն |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Լսողություն | Սիրելի երաժշտություն, Ձեր բարձրաձայն ընթերցանությունը, բնության ձայներ | Ձայնը պահեք ցածր, միաժամանակ մեկ ձայն |
+| Շփում | Ձեռքերի մերսում, ձեռքը բռնել, փափուկ կտոր, տաք լվացքի կտոր | Նախ հարցրեք կամ զգուշացրեք, ստուգեք, որ մաշկը ցավոտ կամ վնասված չէ |
+| Տեսողություն | Լուսանկարներ, ծաղիկներ, պատուհանից բացվող տեսարան, բնության դանդաղ տեսանյութ | Իրերը պահեք աչքերի մակարդակին, ապահովեք լավ լույս առանց շողքի |
+| Հոտառություն | Սիրելի լոսյոն, թարմ ծաղիկներ, մոտակայքում եփվող սուրճ | Խուսափեք ուժեղ հոտերից, ստուգեք ալերգիաներն ու շնչառությունը |
+| Համ | Սիրելի համի փոքր փորձ | Միայն այն ուտելիքներն ու կազմվածքները, որոնք խնամքի թիմը համարում է անվտանգ |
 
-## Safety at this stage
+## Անվտանգություն այս փուլում
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Ուշ փուլում կուլ տալը կարող է դժվարանալ, և NIA-ն զգուշացնում է, որ դա մեծացնում է շնչահեղձ լինելու վտանգը։ Փոքր առարկաներ մի թողեք հասանելի տեղում, իսկ ուտելիք կամ խմիչք առաջարկեք միայն այն կազմվածքներով և դիրքերով, որոնք խորհուրդ է տալիս խնամքի թիմը։ Շփման ժամանակ նրբորեն ստուգեք մաշկը, քանի որ այն կարող է հեշտությամբ վնասվել կամ կապտել։ Անվտանգ զգայական մտքերի մասին ավելին տեսեք [զգայական զբաղմունքներում](/activities/sensory/)։
 
-## Looking after yourself too
+## Հոգ տարեք նաև Ձեր մասին
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Ուշ փուլում խնամքը ֆիզիկապես և զգացմունքային առումով պահանջկոտ է՝ լինի տանը, թե խնամքի տանը այցելությունների ժամանակ։ Հոսպիսի և պալիատիվ խնամքի թիմերը կարող են օգնել հարմարավետության, աջակցության և պլանավորման հարցերում, և NIA-ն դրանք նշում է որպես օգնության աղբյուրներ։ Կարճ, հանգիստ այցելությունները արժեքավոր են. տեսեք [այցելություն դեմենցիայով ապրող մարդու մոտ](/activities/visiting/)։ Եթե Դուք խմբեր եք վարում, [խնամքի տանը խմբային զբաղմունքները](/activities/care-home-groups/) ունի հանդիպումները հարմարեցնելու մտքեր։ Եվ խնդրում ենք կարդացեք [խնամողի ինքնախնամքի մասին](/caregiving/caregiver-self-care/). հանգիստը լավ խնամքի մի մասն է։

@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Kijan pou chwazi aplikasyon ak jwèt pou demans"
+seoTitle: "Kijan pou chwazi aplikasyon ak jwèt pou demans"
+description: "Yon lis pou moun k ap bay swen: chwazi selon objektif ou, evite revèy ak piblisite, verifye vi prive, epi li reklam sou prèv yo ak atansyon."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Kòmanse ak sa ou vle aplikasyon an fè: estimilasyon dous, souvni,
+  kalm oswa koneksyon. Apre sa, chwazi youn ki ale ak kapasite moun w ap
+  pran swen an jodi a, ak gwo foto, san revèy, san nòt oswa piblisite, epi
+  ak yon fason fasil pou sispann. Verifye ki done li ranmase epi si ou ka
+  efase yo. Fè atansyon ak reklam ki di yon aplikasyon anpeche oswa trete
+  demans; yon sèl etid pa prèv.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Deside objektif la anvan: estimilasyon, souvni, kalm oswa koneksyon mande diferan aplikasyon."
+  - "Chwazi selon kapasite moun nan jou sa a, pa selon yon etikèt etap, epi kenbe kontwòl yo senp."
+  - "Evite aplikasyon ki gen revèy, nòt, vi, seri, piblisite oswa demann pou achte."
+  - "Verifye ranmasaj done, pataj ak efasman. HIPAA anjeneral pa kouvri aplikasyon pou piblik la."
+  - "Pa kwè fasil reklam ki di « anpeche demans ». Yon sèl esè, oswa pi bon nòt nan aplikasyon an, pa prèv."
+  - "Golden Moments se yon aktivite pou plezi. Li pa fè okenn reklam klinik."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Èske jwèt pou sèvo ka anpeche demans?"
+    a: "Pa gen bon prèv ki montre aplikasyon komèsyal jwèt pou sèvo anpeche oswa ralanti demans. National Institute on Aging di pa gen ase prèv ki montre aplikasyon komèsyal pou antrene sèvo gen menm efè ak antrènman estriktire yo te teste nan yon gwo etid rechèch. Chwazi aplikasyon pou plezi ak koneksyon, pa kòm medikaman."
+  - q: "Èske HIPAA kouvri yon aplikasyon pou demans?"
+    a: "Anjeneral non. HIPAA anjeneral aplike pou founisè swen sante, plan sante ak asosye biznis yo. Yon aplikasyon ou telechaje poukont ou anjeneral pa kouvri, sof si youn nan yo bay li. Règ Notifikasyon Vyolasyon Sante FTC a kouvri anpil aplikasyon sante HIPAA pa kouvri."
+  - q: "Ki jan yon bon jwèt pou demans ta dwe sanble?"
+    a: "Gwo foto ak tèks ki klè, yon sèl bagay evidan pou fè sou chak ekran, pa gen revèy ni nòt, pa gen son ki fè moun wont lè yo fè erè, pa gen piblisite, epi yon fason fasil pou fè yon poz oswa sispann. Li ta dwe sanble li fèt pou granmoun epi li ta dwe fasil pou yon dezyèm moun patisipe."
+  - q: "Èske Golden Moments di li ede memwa?"
+    a: "Non. Golden Moments ofri aktivite senp pou fè ansanm pou plezi ak konvèsasyon. Li pa fè dyagnostik, li pa trete, li pa anpeche epi li pa mezire demans, epi nou pa fè okenn reklam sou memwa oswa panse."
+  - q: "Èske mwen ta dwe peye pou yon aplikasyon pou demans?"
+    a: "Eseye opsyon gratis oswa esè gratis anvan, epi gade kijan moun nan reyaji pandan kèk semèn. Peye pou yon aplikasyon pa fè li pi efikas. Verifye kijan pou anile anvan ou abònman."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Magazen aplikasyon yo plen jwèt ki make pou granmoun aje, memwa oswa demans. Gen kèk ki fèt ak anpil atansyon. Gen lòt ki ajoute pwomès ki son tankou medikal, revèy ki fè jwèt la tounen yon tès, oswa piblisite ak ranmasaj done. Paj sa a ba ou yon fason pou jije nenpòt aplikasyon poukont ou. Nou pa fè klasman epi nou pa evalye lòt pwodwi.
 
-## What should I decide before choosing a dementia app?
+## Ki sa mwen ta dwe deside anvan mwen chwazi yon aplikasyon pou demans?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Deside sa ou vle aplikasyon an fè. « Yon jwèt pou manman » ka vle di anpil bagay diferan, epi pi bon chwa pou yon objektif souvan se yon move chwa pou yon lòt.
 
-| Goal | What it looks like | What to look for |
+| Objektif | Ki jan sa sanble | Ki sa pou chèche |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Estimilasyon dous | Fè pè, klase, ti devinèt senp, jwèt mo | Difikilte ou ka ajiste, foto ki rete vizib, pa gen presyon tan |
+| Souvni | Ansye foto, pawòl abitye, mizik lè yo te jèn | Pwòp foto ou yo, kesyon ouvè, pa gen kesyon pou egzamen |
+| Kalm | Imaj ki dous, son trankil, respirasyon, lanati | Fasil pou kòmanse ak sispann, pa gen anyen ki kliyote, pa gen sipriz |
+| Koneksyon | Jwe oswa pale ansanm, an pèsòn oswa nan videyo | Fèt pou de moun, sijesyon pou konvèsasyon |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Rechèch sou « estimilasyon mantal » estriktire pou moun k ap viv ak demans sitou gen ladan sesyon an gwoup ki dirije pa anplwaye ki resevwa fòmasyon, ak diskisyon, jwèt mo, devinèt, mizik ak aktivite kreyatif. Yon [revizyon Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) te jwenn ti benefis an mwayèn, ki varye selon etid yo. Kalite pwogram sosyal ak varye sa a pa menm bagay ak yon aplikasyon pou itilize poukont ou, kidonk konsidere nenpòt aplikasyon kòm youn nan plizyè aktivite ou ka fè ansanm.
 
-## How do I know if an app fits the person's abilities?
+## Ki jan mwen ka konnen si yon aplikasyon ale ak kapasite moun nan?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Gade kijan moun nan reyaji, olye pou ou baze sou yon dyagnostik oswa yon etikèt etap. De moun ki nan « menm etap » ka trè diferan nan sa ki konsène je, tande, kontwòl men, langaj ak konfor yo ak ekran. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sijere pou kenbe enterè moun nan te genyen anvan ak kapasite li genyen kounye a nan tèt, epi konsantre sou plezi olye sou rezilta.
 
-Signs of a good fit:
+Siy ki montre li bon pou moun nan:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- moun nan kòmanse oswa patisipe san ou pa bezwen pouse l anpil;
+- li souri, fè kòmantè oswa rakonte yon istwa;
+- erè yo pa sanble deranje li;
+- li kontan sispann lè se moman an.
 
-Signs it is a poor fit:
+Siy ki montre li pa bon pou moun nan:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- li repete « mwen pa kapab » oswa « sa a pa serye »;
+- li konfonn sou ki kote pou l tape;
+- li fristre, li wont oswa li pouse aparèy la lwen;
+- li mache sèlman si ou fè prèske tout bagay.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Ditrès se yon siy, se pa yon bagay pou fòse. Gade [sa pou fè lè moun nan di non](/caregiving/when-they-say-no/). Pou ide aktivite ki depase aplikasyon yo, selon etap, gade aktivite pou [etap bonè](/activities/early-stage/) ak [etap pita](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Ki eleman konsepsyon mwen ta dwe chèche oswa evite?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Chèche yon konsepsyon kalm, senp, ki fèt pou granmoun, epi evite tout sa ki ajoute presyon.
 
-| Look for | Be wary of |
+| Chèche | Fè atansyon ak |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Gwo foto ak tèks, bon kontras | Ti ikòn, ekran ki chaje |
+| Yon sèl aksyon klè sou chak ekran | Anpil bouton, meni, oswa enstriksyon an plizyè etap |
+| Pa gen revèy, oswa yon revèy ou ka fèmen | Kont à rebours, bonis pou vitès, « bat tan ou » |
+| Pa gen nòt, oswa fidbak dous | Pwen, vi, seri, klasman, « laj sèvo » |
+| Erè yo trete san bri | Son ki fè bri, mak wouj X, mesaj « Pa kòrèk » |
+| Foto pou granmoun, ki soti nan lavi reyèl | Tèm ki sanble desen anime oswa ki sanble pou timoun |
+| Li mache san entènèt, pa bezwen kont pou kòmanse | Ou dwe enskri, konekte oswa telechaje kontni anvan |
+| Fasil pou fè yon poz ak sispann | Fenèt k ap mande pou kontinye jwe oswa evalye aplikasyon an |
+| Pa gen piblisite, pri klè swa pou yon sèl fwa oswa abònman | Piblisite, bwat sipriz pou achte, demann pou achte souvan |
+| Fasil pou yon dezyèm moun patisipe | Pou yon sèl jwè sèlman, konsepsyon konpetitif |
 
-Ads and purchase prompts are easy to tap by accident.
+Piblisite ak demann pou achte fasil pou tape sou yo pa aksidan.
 
-## How do I check an app's privacy?
+## Ki jan mwen ka verifye vi prive yon aplikasyon?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Verifye ki sa aplikasyon an ranmase, ak kiyès li pataje l, epi si ou ka efase li. Anvan ou enstale li:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Li rezime vi prive magazen an.** [Seksyon Sekirite Done Google Play](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ak [seksyon enfòmasyon sou vi prive App Store](https://support.apple.com/en-us/102399) montre kalite done yon aplikasyon ka ranmase ak pataje. Tou de konpayi yo fè konnen se devlopè yo ki bay enfòmasyon sa yo, kidonk se yon pwen depa, pa yon odit.
+2. **Mande si li bezwen yon kont.** Si yon aplikasyon sèlman montre foto oswa jwèt senp, ka pa gen okenn rezon pou li konnen non ou, imèl ou oswa dat nesans ou.
+3. **Verifye otorizasyon yo.** Èske yon jwèt pou fè pè vrèman bezwen pozisyon ou, kontak ou, mikwofòn ou oswa tout bibliyotèk foto ou? Fèmen tout sa li pa bezwen.
+4. **Chèche piblisite ak analiz.** Zouti piblisite ak swivi ka voye done sou fason yo itilize aplikasyon an bay lòt konpayi.
+5. **Chèche konnen ki kote foto yo ale.** Si ou ajoute foto fanmi, èske yo rete sou aparèy la oswa yo monte sou yon sèvè? Èske ou ka retire yo?
+6. **Verifye efasman.** Gade nan règleman sou vi prive a oswa nan rezime done a pou wè kijan pou efase done yo ak kont lan. Yon aplikasyon ki di yo pa ka efase done yo merite plis atansyon, sitou si li kenbe foto oswa detay sou sante.
+7. **Li règleman sou vi prive a** pou jwenn repons klè sou ki sa yo ranmase, poukisa, pandan konbyen tan, epi ak kiyès yo pataje li.
 
-### Does HIPAA protect information in dementia apps?
+### Èske HIPAA pwoteje enfòmasyon ki nan aplikasyon pou demans?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Anjeneral non, sa etone anpil moun. U.S. Department of Health and Human Services [eksplike](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ke HIPAA aplike pou plan sante, pifò founisè swen sante, sant echanj enfòmasyon swen sante ak asosye biznis yo. Nan pifò ka, li pa pwoteje done ou antre nan yon aplikasyon pou itilizasyon pèsonèl, sof si yon antite ki kouvri oswa asosye biznis li te bay aplikasyon an. Yon « aplikasyon pou demans » ki soti nan yon magazen aplikasyon souvan pa anba HIPAA, menm si li pale sou sante.
 
-### What protects health data in apps that HIPAA does not cover?
+### Ki sa ki pwoteje done sou sante nan aplikasyon HIPAA pa kouvri?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Règ Notifikasyon Vyolasyon Sante Federal Trade Commission a kouvri anpil nan yo. An 2024, FTC [te fini ak chanjman](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) ki klarifye ke règ la aplike pou aplikasyon sante ak teknoloji ki sanble ki pa kouvri pa HIPAA. Yon « vyolasyon » gen ladan divilgasyon san otorizasyon, pa sèlman pirataj, epi konpayi yo dwe enfòme moun ki afekte yo ak FTC. Sa se yon filè sekirite apre yon bagay ale mal, se pa yon pwomès ke yon aplikasyon ranmase sèlman sa li bezwen.
 
-## How should I read claims about research and evidence?
+## Ki jan mwen ta dwe li reklam sou rechèch ak prèv?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Li reklam sou prèv yo dousman, epi pi sispèk ak pi gwo pwomès yo. Kesyon pou poze:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Ki sa egzakteman yo te etidye?** Yon etid sou yon pwogram antrènman pa montre ke chak jwèt nan yon aplikasyon mache menm jan an.
+- **Kiyès yo te etidye?** Rezilta pami granmoun aje ki an sante ka pa aplike pou yon moun k ap viv ak demans.
+- **Ki sa yo te mezire?** Vin pi bon nan jwèt la li menm diferan de chanjman nan lavi chak jou, konvèsasyon, atitid oswa endepandans.
+- **Ki jan etid la solid?** Yon esè kontwole owaza (RCT) konpare yon gwoup ki itilize aplikasyon an ak yon gwoup ki pa itilize li. Se yon bon fason pou fè rechèch, men yon sèl RCT ki piti oswa ki kout pa prèv. Chèche plizyè etid, fèt pa chèchè endepandan, ki dakò.
+- **Èske li di li chanje maladi a?** Yon etid ki montre ti amelyorasyon nan yon tès pa prèv ke yon aplikasyon ralanti, anpeche oswa trete demans.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Paj National Institute on Aging sou [sante mantal ak granmoun aje](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) dekri yon gwo esè antrènman mantal estriktire NIH te finanse, epi apre sa li avèti lektè yo pou yo fè atansyon ak reklam ki di sèten jwèt sou òdinatè ak sou entènèt ka amelyore memwa ak panse. Li di pa gen ase prèv pou kounye a ki montre aplikasyon komèsyal pou antrene sèvo gen menm enpak ak antrènman yo te teste nan esè sa a. Ou ka li plis nan gid nou an sou [jwèt pou sèvo ak prèv yo](/brain-health/brain-games/) ak [sa rechèch di sou anpeche demans](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Ki yon egzanp piblik yon reklam ki ka twonpe moun?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+An janvye 2016, FTC [te anonse yon antant](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) ak moun ki te fè Lumosity, yon pwogram « antrènman sèvo ». FTC te di konpayi an te fè reklam, san prèv ki ase, ke jwèt li yo te kapab retade bès mantal ki gen rapò ak laj epi pwoteje kont pwoblèm mantal modere, demans ak maladi alzayme. Konpayi an te dakò pou l peye 2 milyon dola epi li dwe gen prèv syantifik solid ak serye anvan li fè reklam konsa ankò. Ka sa a se yon bon rapèl ke langaj maketing pa prèv.
 
-### Which words are red flags?
+### Ki mo ki ta dwe fè ou pran prekosyon?
 
-Be cautious when an app or ad says it:
+Fè atansyon lè yon aplikasyon oswa yon piblisite di li:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- « anpeche », « ranvèse », « sispann » oswa « geri » demans oswa maladi alzayme;
+- « pwouve nan klinik » san li pa nonmen etid la, kiyès ki te ladan l, ak ki sa yo te mezire;
+- bay yon « laj sèvo » oswa yon nòt memwa ki sanble ak yon dyagnostik;
+- pral « file », « ogmante » oswa « antrene » sèvo a;
+- itilize temwayaj kòm prèv.
 
-If you are unsure about a claim, ask the person's doctor.
+Si ou pa sèten sou yon reklam, mande doktè moun nan.
 
-## Where does Golden Moments fit?
+## Ki kote Golden Moments antre?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments ofri aktivite senp pou fè ansanm, pa yon tès memwa, terapi oswa konsèy medikal. Jwèt nou yo, tankou [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) ak [Calm Breathing](/games/calm-breathing/), fèt pou plezi ak konvèsasyon. Yo pa fè dyagnostik, yo pa trete, yo pa anpeche epi yo pa mezire demans, epi nou pa fè okenn reklam sou memwa oswa panse.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Nou fè tou yon aplikasyon gratis, [Golden Moments for iPhone, iPad and Android](/app/). Li gen jwèt dous pou fè pè foto ak gwo kare, jwèt ak foto fanmi ou chwazi ak pake foto ki mache san entènèt, san kont, san piblisite, san revèy ak san nòt. Menm lis verifikasyon an aplike: etikèt vi prive li sou App Store di « Done Pa Kolekte », epi [règleman sou vi prive aplikasyon an](/app-privacy/) eksplike ki kote kopi foto yo kenbe.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Nou prefere ou jije nou pase ou fè nou konfyans. Sèvi ak lis verifikasyon ki sou paj sa a, li [paj vi prive nou an](/privacy/) ak [avi sou kesyon medikal nou an](/medical-disclaimer/), epi sispann sèvi ak nenpòt bagay, enkli sa nou yo, ki pa bon pou moun w ap pran swen an.
 
-## What is a sensible way to try a new app?
+## Ki yon fason ki fè sans pou eseye yon nouvo aplikasyon?
 
-Try it together for a couple of weeks and watch what happens.
+Eseye li ansanm pandan kèk semèn epi gade sa k ap pase.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Prepare li anvan** lè w sèvi ak [gid nou an pou prepare tablèt ak telefòn](/caregiving/tablets-and-screens/), epi kòmanse nan nivo ki pi fasil la.
+2. **Kenbe sesyon yo kout,** remake souri, konvèsasyon ak kalm, epi fini nan yon bon moman.
+3. **Kite li** si li lakòz fristrasyon, kèlkeswa jan lòt moun renmen li.

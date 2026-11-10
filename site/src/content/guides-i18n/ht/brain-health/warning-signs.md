@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Premye siy demans ak kilè pou wè doktè"
+seoTitle: "Premye siy demans ak kilè pou wè doktè"
+description: "Premye siy demans yo komen, kijan yo diferan ak vyeyisman nòmal, kòz memwa ki ka trete, ak kijan pou prepare yon randevou ak doktè."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Pèt memwa ki deranje lavi chak jou, difikilte pou fè travay ou deja konnen, konfizyon sou lè oswa kote,
+  ak chanjman nan atitid oswa jijman ka premye siy demans. Anpil lòt pwoblèm sante, tankou pwoblèm tiwoyid,
+  nivo vitamin B12 ki ba, efè segondè medikaman, depresyon ak pwoblèm dòmi, ka lakòz menm kalite chanjman sa yo.
+  Se sèlman yon pwofesyonèl sante ki kalifye ki ka fè dyagnostik la. Konfizyon ki parèt toudenkou bezwen swen ijans.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Li nòmal pou detanzantan bliye kèk bagay lè w ap pran laj; chanjman ki deranje lavi chak jou merite yo tcheke."
+  - "Alzheimer's Association dekri 10 siy avètisman, chak ak yon chanjman ki pi souvan rive ak laj pou fè konparezon."
+  - "Pwoblèm tiwoyid, nivo vitamin B12 ki ba, efè segondè medikaman, depresyon, enfeksyon ak pwoblèm dòmi tout ka afekte memwa, epi kèk nan yo ka trete."
+  - "Se sèlman yon pwofesyonèl sante ki kalifye ki ka fè dyagnostik demans; tès sou entènèt ak tès ou fè poukont ou pa ka fè sa."
+  - "Konfizyon ki parèt toudenkou, nan kèk èdtan oswa kèk jou, ka delirium epi li bezwen swen medikal ijans."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Èske bliye bagay se yon pati nòmal nan vyeyisman?"
+    a: "Kèk fwa wi. National Institute on Aging di lè ou detanzantan egare bagay oswa bliye peye yon bòdwo, sa anjeneral se yon ti pwoblèm memwa ki gen rapò ak laj. Demans se pa yon pati nòmal nan vyeyisman. Pwoblèm memwa ki rann aktivite chak jou difisil, tankou kondwi, sèvi ak telefòn oswa jwenn wout lakay ou, merite yo tcheke ak yon doktè."
+  - q: "Èske lòt bagay pase demans ka lakòz pwoblèm memwa?"
+    a: "Wi. National Institute on Aging site pwoblèm tiwoyid, ren oswa fwa, efè segondè medikaman, depresyon ak enkyetid, nivo vitamin B12 ki ba, move itilizasyon alkòl, pwoblèm dòmi, enfeksyon ak blesi nan tèt, pami lòt. Kèk nan pwoblèm sa yo ka amelyore lè yo trete, se youn nan rezon ki fè yon tchèkòp medikal enpòtan."
+  - q: "Èske mwen ka teste yon moun pou demans lakay?"
+    a: "Non. Se sèlman yon pwofesyonèl sante ki kalifye ki ka fè dyagnostik demans, lè l sèvi ak istwa medikal, yon egzamen fizik, tès memwa ak panse, tès laboratwa epi pafwa eskan sèvo. Menm tès kout doktè yo sèvi yo pa ase poukont yo pou fè dyagnostik demans."
+  - q: "Kisa mwen ta dwe fè si yon moun vin konfonn toudenkou?"
+    a: "Chèche èd medikal touswit. Konfizyon ki parèt toudenkou ka delirium, e VA dekri l kòm yon ijans medikal. Rele founisè swen sante moun nan touswit oswa rele 114, rete avèk li, epi pran nòt sou nenpòt medikaman li pran."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Lè ou remake chanjman nan memwa ou, oswa nan memwa yon moun ou renmen, sa ka fè w pè. Paj sa a ka ede w konnen kilè pou pran yon randevou ak doktè epi kijan pou prepare pou li. Li pa ka di si yon moun gen demans. **Se sèlman yon pwofesyonèl sante ki kalifye ki ka fè dyagnostik demans**, epi anpil pwoblèm ki lakòz pwoblèm memwa pa demans ditou. Tanpri, pa konte sou tès sou entènèt oswa tès ou fè poukont ou.
 
-## What are the early signs of dementia?
+## Ki premye siy demans yo?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) dekri 10 premye siy. Li mete chak siy ak yon chanjman ki pi souvan rive ak laj pou fè konparezon. Men yo ak pwòp mo nou:
 
-| Sign worth checking | More typical with age |
+| Siy ki merite yo tcheke | Plis tipik ak laj |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Pèt memwa ki deranje lavi chak jou, tankou bliye sa ki fèk pase oswa mande menm bagay la plizyè fwa | Detanzantan bliye yon non oswa yon randevou epi sonje l pita |
+| Difikilte pou planifye oswa rezoud pwoblèm, tankou suiv yon resèt ou deja konnen oswa kenbe tras bòdwo yo | Fè yon ti erè detanzantan ak bòdwo lakay |
+| Difikilte pou fini travay ou deja konnen lakay, nan travay oswa lè w deyò | Detanzantan bezwen èd ak yon reglaj mikwo ond oswa pou anrejistre yon emisyon televizyon |
+| Pèdi tras dat, sezon oswa kote ou ye | Meli jou nan semèn nan, epi apre sa jwenn repons lan |
+| Nouvo difikilte pou jije distans, li oswa distenge koulè | Chanjman nan vizyon akoz katarak |
+| Nouvo pwoblèm ak mo, tankou rete bloke nan mitan yon konvèsasyon oswa rele bagay yo ak move non | Detanzantan gen difikilte pou jwenn bon mo a |
+| Mete bagay nan kote ki pa nòmal epi pa kapab retrase kote ou te pase | Egare bagay detanzantan epi jwenn yo lè w retrase kote ou te pase |
+| Move jijman, tankou ak lajan oswa swen pèsonèl | Pran yon move desizyon detanzantan |
+| Retire tèt ou nan pastan, travay oswa aktivite sosyal | Detanzantan pa anvi ale nan yon aktivite fanmi oswa sosyal |
+| Chanjman nan atitid oswa pèsonalite, tankou vin konfonn, sispèk, pè oswa enkyè | Gen abitid ki byen fikse epi santi w irite lè woutin lan deranje |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Yon sèl siy poukont li pa vle di demans. Sa ki enpòtan se yon **chanjman parapò ak sa ki nòmal pou moun sa a**, sitou si li rann lavi chak jou pi difisil.
 
-## How is normal aging different from dementia?
+## Kijan vyeyisman nòmal diferan ak demans?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) di anpil granmoun ki aje remake yo sonje bagay pi dousman, oswa pafwa yo egare bagay oswa bliye yon bòdwo. Sa yo anjeneral se siy yon ti pwoblèm memwa. **Demans se pa yon pati nòmal nan vyeyisman.** Pwoblèm memwa ki grav rann aktivite chak jou difisil, tankou kondwi, sèvi ak telefòn oswa jwenn wout lakay ou.
 
-The NIA suggests talking with a doctor if someone:
+NIA sijere pou pale ak yon doktè si yon moun:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Poze menm kesyon yo plizyè fwa
+- Pèdi nan kote li te byen konnen
+- Gen difikilte pou suiv resèt oswa enstriksyon
+- Vin pi konfonn sou tan, moun ak kote
+- Sispann pran swen tèt li, tankou manje mal, pa benyen oswa konpòte l yon fason ki pa an sekirite
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Gen kèk moun ki gen **ti pwoblèm mantal (mild cognitive impairment, MCI)**. Sa vle di yo gen plis pwoblèm memwa oswa panse pase lòt moun nan menm laj ak yo, men yo toujou jere lavi chak jou. NIA di MCI ka yon premye siy alzaymè, men se pa tout moun ki gen MCI ki devlope li.
 
-## What else can cause memory problems?
+## Ki lòt bagay ki ka lakòz pwoblèm memwa?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Anpil lòt bagay pase demans ka afekte memwa, epi kèk ka vin pi byen ak tretman. NIA site:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Pwoblèm tiwoyid, ren oswa fwa**
+- **Efè segondè medikaman**
+- **Depresyon ak enkyetid**
+- **Nivo vitamin B12 ki ba** oswa pa manje ase manje ki bon pou sante
+- **Pwoblèm dòmi**
+- **Move itilizasyon alkòl oswa dwòg**
+- **Enfeksyon, boul san oswa timè** nan sèvo a
+- **Blesi nan tèt**, tankou yon chòk nan tèt
+- **Gwo estrès oswa lapenn**, tankou pran retrèt oswa pèdi mari oswa madanm ou
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Pwoblèm tande ak pwoblèm vizyon ka fè moun panse se konfizyon tou; gade [gid nou sou tande](/brain-health/hearing/). Se poutèt sa yon tchèkòp medikal enpòtan. Dapre [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doktè souvan mande analiz san pou tcheke pwoblèm tiwoyid, mank vitamin ak enfeksyon. Li vo pale tou de bon [dòmi](/brain-health/sleep/) ak tretman pou depresyon.
 
-## Sudden confusion is an emergency
+## Konfizyon ki parèt toudenkou se yon ijans
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Konfizyon ki parèt rapidman, nan kèk èdtan oswa kèk jou, bezwen swen medikal ijans.** Li ka delirium. [VA dekri delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) kòm yon ijans medikal epi li konseye rele founisè swen sante moun nan touswit oswa rele 114. Siy yo gen ladan:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Monte desann nan kapasite pou panse klè
+- Difikilte pou konsantre
+- Panse ki dezòganize
+- Dòmi plis pase nòmal, oswa vin trè ajite ak san repo
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Sa ka rive nenpòt moun, menm moun ki deja ap viv ak demans. Dapre [NHS](https://www.nhs.uk/symptoms/confusion/), kòz komen yo gen ladan enfeksyon (enfeksyon nan aparèy irinè yo komen nan mitan granmoun aje ak moun k ap viv ak demans), konjesyon serebral, sik nan san ki ba nan moun ki gen dyabèt, blesi nan tèt ak kèk medikaman. Pandan w ap tann èd, rete avèk moun nan epi rasire l ak mo kout ak senp. Pa poze anpil kesyon, epi pran nòt sou nenpòt medikaman li pran.
 
-## How do I prepare for the doctor's appointment?
+## Kijan pou prepare randevou ak doktè a?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Yon bon randevou kòmanse ak bon nòt. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) sijere pote:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Yon lis chanjman** nan memwa, atitid ak konpòtman, ak egzanp klè ak apeprè kilè yo te kòmanse
+2. **Pwoblèm sante pase ak aktyèl**, ansanm ak istwa fanmi sou pwoblèm memwa si genyen
+3. **Tout medikaman sou òdonans ak medikaman ou achte san òdonans**
+4. **Nenpòt vitamin oswa sipleman**
+5. **Kesyon ou yo**, tankou ki tès yo pral fè, konbyen tan yo pran ak kilè rezilta yo pral disponib
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Li itil tou pou pote yon manm fanmi oswa yon zanmi ki byen konnen moun nan. [NIA eksplike](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) doktè yo ka poze kesyon ni bay moun nan ni bay yon manm fanmi sou sante, medikaman, aktivite chak jou ak chanjman nan konpòtman. Doktè yo ka tou:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Fè tès sou memwa, rezoud pwoblèm, atansyon, konte ak langaj
+- Mande tès san, pipi ak lòt tès pou chèche lòt kòz
+- Tcheke si gen depresyon oswa lòt pwoblèm sante mantal
+- Mande eskan sèvo tankou CT oswa MRI
+- Voye moun nan bay yon espesyalis, tankou yon jeryat, newològ, sikyat jeryatrik oswa newsikolojis
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA fè remake yon evalyasyon mantal se yon pati obligatwa nan vizit anyèl byennèt Medicare, ki ka yon bon moman pou pale sou enkyetid ou yo. Menm tès kout doktè yo sèvi yo pa ase poukont yo pou fè dyagnostik demans. Yo se yon premye etap pou rive nan yon evalyasyon pi konplè, epi dyagnostik la ka pran plis pase yon vizit. NIA konseye moun ki gen pwoblèm memwa retounen wè doktè a chak 6 a 12 mwa.
 
-## Raising the subject kindly
+## Kijan pou abòde sijè a avèk respè
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Si ou gen enkyetid pou yon lòt moun, chwazi yon moman kalm epi prive. Pale sou bagay presi ou remake, prezante yo kòm enkyetid pou sante moun nan, pa kòm kritik. Sijere yon tchèkòp jeneral ka parèt mwens estrèsan. Mete moun nan nan desizyon yo epi pale avè l tankou granmoun li ye. [Konsèy nou sou kominikasyon](/caregiving/communication-tips/) ka ede.
 
-## Talk with a doctor
+## Pale ak yon doktè
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Si ou remake chanjman nan memwa, panse, atitid oswa kapasite pou fè bagay chak jou ki nouvo epi ki kontinye rive, pran yon randevou ak yon doktè premye swen. Pou konfizyon ki parèt toudenkou, rele 114 oswa rele founisè swen sante moun nan touswit. Lè yo tcheke sa bonè, sa ka ede jwenn kòz ki ka trete epi, si se demans, li bay plis tan pou planifye ak jwenn sipò. Pran swen tèt ou pandan tan sa a tou; gade [gid nou sou pran swen tèt ou kòm moun k ap bay swen](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Paj sa a se enfòmasyon jeneral, se pa konsèy medikal. Gade [avi nou sou kesyon medikal](/medical-disclaimer/).

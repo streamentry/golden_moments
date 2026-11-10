@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Դեմենցիա ունեցող մարդկանց համար 101 պարզ զբաղմունք"
+seoTitle: "Դեմենցիա. 101 պարզ զբաղմունքի գաղափար"
+description: "Դեմենցիա ունեցող մարդկանց համար 101 պարզ, հասուն զբաղմունք՝ սրբիչ ծալելուց մինչև երաժշտություն ու լուսանկարներ, և ինչպես հարմարեցնել դրանք։"
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Դեմենցիա ունեցող մարդկանց համար լավ զբաղմունքները ծանոթ են, հասուն և միասին
+  անելը հեշտ. լվացք ծալել, իրեր դասավորել, եփել, երաժշտություն լսել, լուսանկարներ
+  նայել, զբոսնել, այգեգործությամբ զբաղվել, կենդանիների հետ ժամանակ անցկացնել և
+  պարզ խաղեր խաղալ։ Ընտրեք այն, ինչ մարդը միշտ սիրել է, դժվար մասերը վերցրեք
+  ձեր վրա և դադարեցրեք, երբ նա հոգնի։ Միասին հաճելի ժամանակ անցկացնելն ավելի
+  կարևոր է, քան ինչ-որ բան ավարտելը։
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Սկսեք մարդու կյանքից. նրա աշխատանքը, նախասիրությունները, հավատը և սիրելի երաժշտությունը լավագույն ուղեցույցն են։"
+  - "Ցանկացած զբաղմունք դարձրեք ավելի փոքր, եթե պետք է. ավելի քիչ քայլեր, ավելի քիչ ընտրություն, դժվար մասը դուք արեք։"
+  - "Նայելը, ինչ-որ բան ձեռքում պահելը կամ պարզապես մոտակայքում նստելը նույնպես մասնակցություն է։"
+  - "Դադարեցրեք կամ փոխեք զբաղմունքը, երբ նկատում եք հոգնածություն, հիասթափություն կամ ձանձրույթ։ Շուտ ավարտելը լավ արդյունք է։"
+  - "Միասին անելն ավելի կարևոր է, քան ճիշտ անել։"
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Ի՞նչ զբաղմունքներ են հարմար դեմենցիա ունեցող մարդու համար։"
+    a: "Ծանոթ զբաղմունքներ, որոնք մարդը տարիներ շարունակ արել է, միայն մի փոքր պարզեցված. լվացք ծալել, սեղան գցել, եփել, երաժշտություն լսել, լուսանկարներ նայել, զբոսնել, այգեգործությամբ զբաղվել և կենդանու հետ ժամանակ անցկացնել։ Ընտրեք այնպիսի բաներ, որոնք հասուն և օգտակար են թվում, և արեք դրանք միասին։"
+  - q: "Որքա՞ն պետք է տևի զբաղմունքը։"
+    a: "Ճիշտ տևողություն չկա։ Մի օր մի քանի րոպե սրբիչ ծալելը կարող է բավական լինել, իսկ մյուս օրը այգում մեկ ժամ անցկացնելը կարող է հեշտ թվալ։ Թույլ տվեք, որ մարդը որոշի տեմպը և ավարտեք, քանի դեռ զբաղմունքը հաճելի է։"
+  - q: "Ի՞նչ անել, եթե մարդը չի ուզում զբաղվել։"
+    a: "Մի ստիպեք։ «Ոչ»-ը կարող է նշանակել, որ առաջադրանքը չափազանց դժվար է թվում, ժամանակը հարմար չէ, կամ մարդը հոգնած է, կամ իրեն անհարմար է զգում։ Փորձեք ավելի ուշ, առաջարկեք ավելի փոքր տարբերակ կամ սկսեք զբաղմունքը ինքներդ նրա մոտ և հրավիրեք նրան օգնելու։"
+  - q: "Արդյո՞ք ուղեղի խաղերը օգտակար են դեմենցիա ունեցող մարդկանց համար։"
+    a: "Խաղերը կարող են միասին հաճելի ժամանակ անցկացնելու միջոց լինել, բայց ոչ մի խաղ չի ցույց տվել, որ բուժում, դանդաղեցնում կամ կանգնեցնում է դեմենցիան։ Ընտրեք խաղեր առանց ժամանակաչափի, միավորների կամ սխալ պատասխանի ձայների և վերաբերվեք դրանց որպես ընդհանուր զբաղմունքի, ոչ թե ստուգման։"
+  - q: "Ինչպե՞ս անել, որ զբաղմունքները մանկական չթվան։"
+    a: "Օգտագործեք իրական, հասուն իրեր. իսկական սրբիչներ, իսկական բաղադրատոմսեր, մեծահասակների երաժշտություն և արվեստի նյութեր, ինչպես նաև հասուն թեմաներով նկարներ։ Առաջադրանքները ներկայացրեք որպես օգնություն, որի դուք իսկապես կարիք ունեք, և խոսեք մարդու հետ այնպես, ինչպես խոսում են հասուն մարդու հետ։"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Դեմենցիա ունեցող մարդու համար լավագույն զբաղմունքը սովորաբար այն է, ինչ նա արդեն գիտի անել՝ մի փոքր պարզեցված և իր վստահած մարդու հետ միասին։ Ստորև բերված են 101 գաղափար՝ տեսակներով խմբավորված, և յուրաքանչյուրի համար նշված է, թե ինչպես պատրաստվել և ինչպես հեշտացնել, երբ առաջադրանքը դառնում է ավելի բարդ։ Ձեզ հատուկ սարքավորումներ պետք չեն, և ոչինչ պարտադիր չէ ավարտել։ Մի լավ կեսօր կարող է լինել մեկ զամբյուղ սրբիչ ծալելը և միասին մեկ բաժակ սուրճ խմելը։
 
-## How do you choose the right activity?
+## Ինչպե՞ս ընտրել ճիշտ զբաղմունքը։
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Ընտրեք՝ ելնելով մարդուց, ոչ թե ցուցակից. սկսեք նրանից, ինչ նա միշտ սիրել է և ինչ կարող է այսօր հարմարավետ անել։
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Մտածեք նրա աշխատանքի և նախասիրությունների մասին։** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)-ը նշում է, որ նախկինում գրասենյակում աշխատած մարդը կարող է հաճույքով մետաղադրամներ դասավորել կամ նամակներ պատրաստել, իսկ այգեգործ սիրողը՝ բակում աշխատել։
+- **Ուշադրություն դարձրեք նրան, ինչ նա արդեն անում է։** Եթե ձեր հայրը ամեն առավոտ առանց խնդրանքի մաքրում է պատշգամբը, դա ներառեք օրվա մեջ։
+- **Պլանավորեք՝ հաշվի առնելով սահմանափակումները։** Կարևոր են հոգնածությունը, տեսողությունը, լսողությունը, ձեռքերի ցավը և հավասարակշռությունը։
+- **Դիտեք նրա տրամադրությունը։** Շատ զբաղված կամ աղմկոտ զբաղմունքները որոշ մարդկանց հարմար են, իսկ մյուսներին՝ վախեցնում։
+- **Նպատակ տվեք զբաղմունքին։** Եկեղեցական ընթրիքի համար անձեռոցիկներ ծալելը ավելի իմաստալից է թվում, քան պարզապես ինչ-որ վարժություն անելը։
 
-### A rough guide by stage
+### Կարճ ուղեցույց ըստ փուլի
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Դեմենցիան հաճախ նկարագրում են վաղ, միջին և ուշ փուլերով։ Սրանք ընդհանուր անվանումներ են, ոչ թե կոշտ շրջանակներ, և շատ մարդիկ ունենում են ավելի լավ ու ավելի դժվար օրեր, ուստի առաջնորդվեք նրանով, ինչ տեսնում եք այսօր։ [Alzheimer's Foundation of America-ի՝ փուլերի according ցանկը](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ներկայացնում է նման պատկեր։
 
-| Topic | Early stage | Middle stage | Late stage |
+| Թեմա | Վաղ փուլ | Միջին փուլ | Ուշ փուլ |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Ինչ կարող եք նկատել | Հիմնականում անկախ է. պլանավորելը, նոր անունները և շատ զբաղված վայրերը դառնում են ավելի դժվար | Օգնության կարիք ունի սկսելու և քայլերը կատարելու համար. խոսքերն ավելի դժվար են գալիս | Օգնության կարիք ունի առօրյա խնամքի մեծ մասում. ամենակարևորը զգայարաններն են |
+| Հաճախ հարմար զբաղմունքներ | Թղթախաղ, սեղանի խաղեր, եփել, այգեգործություն, օրագիր գրել, զբոսանքներ, խմբակներ | Լվացք ծալել, իրեր դասավորել, եփելու պարզ քայլեր, երգել, լուսանկարների ալբոմներ, ուղեկցությամբ զբոսանքներ | Սիրելի երաժշտություն, ձեռքի մեղմ շոյանք, փափուկ իրեր ձեռքում պահելու համար, բարձրաձայն կարդալ, դրսում նստել |
+| Ձեր դերը | Զուգընկեր. հարցրեք, ինչպիսի օգնություն է ցանկանում | Պատրաստեք, ցույց տվեք, դժվար մասերը վերցրեք ձեր վրա | Զբաղմունքը բերեք նրա մոտ. ձեր ներկայությունն ինքնին զբաղմունք է |
+| Այլ գաղափարներ | [Վաղ փուլ](/activities/early-stage/) | [Միջին փուլ](/activities/middle-stage/) | [Ուշ փուլ](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Ինչպե՞ս սկսել զբաղմունք դեմենցիա ունեցող մարդու հետ։
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Սկսեք փոքրից, սկսեք նրա կողքին և հեշտացրեք «այո» ասելը։ Շատ մարդիկ դեռ ցանկանում են մասնակցել, բայց դժվարանում են պլանավորել կամ սկսել։
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Ընտրեք նրա լավագույն ժամանակը,** հաճախ՝ առավոտը։
+2. **Ամեն ինչ նախապես պատրաստեք,** որպեսզի կարողանաք անմիջապես սկսել։
+3. **Խնդրեք օգնություն, ոչ թե ցուցադրություն.** «Կկարողանա՞ս ինձ մի փոքր օգնել սրանք ծալելու հարցում»։
+4. **Սկսեք ինքներդ։** Ծալեք առաջին սրբիչը և թողեք, որ նա միանա։ Ցույց տալը ավելի լավ է, քան բացատրելը։
+5. **Առաջարկեք միաժամանակ մեկ քայլ։**
+6. **Վերցրեք ամենադժվար մասը։** Alzheimer's Association-ը առաջարկում է բաղադրիչները ինքներդ չափել, իսկ հետո գդալը տալ նրան՝ խառնելու համար։
+7. **Թույլ տվեք, որ նա անի իր ձևով։** Այլ կերպ ծալված սրբիչները նորմալ են։
+8. **Դադարեցրեք, երբ զբաղմունքն այլևս հաճելի չէ։** Անհանգստությունը, խոժոռված դեմքը կամ «չեմ կարող»-ը նշան են, որ պետք է փոխել զբաղմունքը կամ հանգստանալ։
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Տես նաև [ինչպես խաղալ միասին](/caregiving/how-to-play-together/) և [շփման խորհուրդներ](/caregiving/communication-tips/)։
 
-## Everyday tasks at home
+## Առօրյա գործեր տանը
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Տնային գործերը ծանոթ են և օգտակար, ուստի դրանք սկսելու բնական տեղ են։ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)-ը նշում է աման լվանալը, սեղան գցելը, ավլելը, փոստը դասավորելը և լվացք ծալելը որպես զբաղմունքներ, որոնք մարդիկ կարող են հաճույքով անել։ Ավելին՝ [տնային գործեր](/activities/household-tasks/) բաժնում։
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Տաք սրբիչներ ծալել։** Չորացնող մեքենայից զամբյուղը դատարկեք սեղանին և ծալեք կողք կողքի։ Ավելի ուշ պարզապես հարթելը և իրար վրա դնելը նույնպես օգտակար է։
+2. **Գուլպաներ զույգավորել։** Սկսեք շատ տարբեր գույներից։ Ավելի ուշ բացերն ու մուգերը բաժանելը նույնպես բավական է։
+3. **Սեղան գցել։** Միաժամանակ տվեք մեկ տեսակի իր։ Նախօրինակի համար մի տեղ ինքներդ գցեք։
+4. **Աման լվանալ կամ չորացնել։** Տաք, օճառաջուր և չկոտրվող ամանեղեն։ Նստած չորացնելը ոտքերի համար ավելի հեշտ է։
+5. **Սեղանը սրբել։** Ուտելուց հետո տվեք խոնավ շոր։ Սա իսկական գործ է անհանգիստ ձեռքերի համար։
+6. **Փոստը դասավորել։** Գովազդներն ու ավելորդ թղթերը բաժանել «պահել» և «վերամշակել» կույտերի։ Իրական հաշիվները առանձին պահեք։
+7. **Կտրոններ կտրել։** Կլոր ծայրով մկրատ և մթերային թերթիկներ։ Ավելի ուշ սիրելի մթերքները պարզապես շրջանագծելն էլ կարող է հարմար լինել։
+8. **Մետաղադրամներ դասավորել։** Մանր դրամը բաժանել բաժակների մեջ կամ փաթաթել։ Եթե մարդը իրերը բերանը տանելու սովորություն ունի, փոքր իրերից խուսափեք։
+9. **Ավլել կամ փոշին մաքրել։** Թեթև ավել պատշգամբում կամ երկար բռնակով փոշեմաքրման խոզանակ՝ աթոռին նստած։
+10. **Օգնել ուտելիք պատրաստել։** Բանջարեղեն լվանալ, հազար տերևակել, խառնել։ Դանակներն ու տաքությունը ձեր վերահսկողության տակ թողեք։
+11. **Ընտանեկան բաղադրատոմսով թխել։** Եթե ունեք նրա ձեռագրով քարտը, օգտագործեք այն։ Ավելի ուշ նա կարող է պարզապես համտեսողը լինել։
+12. **Գրասենյակային աշխատանք անել։** Նամակներ ծալել, ծրարների մեջ դնել և դրոշմել, կամ միասին գնումների ցանկ գրել։
 
-## Music
+## Երաժշտություն
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Ծանոթ երաժշտությունը կարող է հասնել մարդկանց նույնիսկ այն ժամանակ, երբ խոսքերը դժվար են գալիս։ [Alzheimer's Association-ի երաժշտության խորհուրդները](https://www.alz.org/help-support/caregiving/daily-care/art-music) առաջարկում են ծանոթ երգեր, առանց գովազդի և անջատած հեռուստացույց։ Տես [երաժշտական զբաղմունքներ](/activities/music/)։
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Կազմել անձնական երգացանկ։** Նրա պատանեկության և երիտասարդության երաժշտությունը, հարսանիքի երգերը, եկեղեցական և մշակութային երգերը։
+14. **Միասին երգել։** Սկսեք երգել ինքներդ։ Մրմնջալը կամ պարզապես լսելը նույնպես մասնակցություն է։
+15. **Ռիթմը պահել։** Ծափ տալ, ծնկներին թփթփացնել կամ ձեռքի թմբուկ նվագել։ Հարմար է նստած և ուշ փուլերում։
+16. **Պարել։** Խոհանոցում դանդաղ պար կամ աթոռին նստած՝ ձեռքերից բռնած օրորվել։
+17. **Ամբողջ ալբոմ լսել։** Սիրելի ձայնագրությունը սկզբից մինչև վերջ՝ սուրճի հետ և առանց այլ զբաղմունքների։
+18. **Խոսել երաժշտության մասին։** Պատմություններ հրավիրեք, ոչ թե փաստեր. «Պատմի՛ր, թե ինչ պարահանդեսների էիր գնում»։
+19. **Դիտել նկարահանված մյուզիքլ կամ համերգ։** Նրա սիրած ներկայացումը կարող է լավ երեկո ստեղծել։ Ցանկացած պահին դադարեցրեք։
+20. **Նվագել ծանոթ գործիք։** Նախկինում դաշնամուր նվագած մարդը կարող է հաճույք ստանալ պարզ մեղեդիներից. ավելի ուշ՝ միասին մի քանի նոտա նվագելը։
+21. **Լսել կենդանի երաժշտություն։** Կարճ համերգ կամ երգչախմբի փորձ համայնքում։ Նստեք ելքին մոտ։
 
-## Reminiscence: photos, objects and stories
+## Հիշողություններ. լուսանկարներ, առարկաներ և պատմություններ
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Անցյալից միասին վայելեք առանց այն ստուգելու։ Խուսափեք «Հիշու՞մ ես...» և «Ո՞վ է սա» հարցերից և փոխարենը օգտագործեք բաց հրավերներ։ Տես [հիշողությունների զբաղմունքներ](/activities/reminiscence/)։
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Նայել լուսանկարների ալբոմ։** Ասացեք, թե ինչ եք տեսնում. «Ինչ գեղեցիկ զգեստ է։ Պատմի՛ր այս օրվա մասին»։ Ընդունեք այն անունները, որոնք նա օգտագործում է։
+23. **Պատրաստել հիշողությունների արկղ։** Կոշիկի տուփ՝ նրա կյանքի իրերով, օրինակ աշխատանքային կրծքանշան կամ բաղադրատոմսի քարտ։ Իրերը հանեք մեկ-մեկ։
+24. **Սկսել կյանքի պատմության գիրք։** Մի քանի լուսանկար յուրաքանչյուր էջում՝ մեծ տառերով բացատրություններով։ Սա օգնում է նոր օգնականներին ճանաչել մարդուն։
+25. **Օգտագործել զրույցի քարտեր։** [Conversation cards](/games/conversation-cards/) քարտերը նկարն ու բաց հարցը միացնում են իրար։
+26. **Պատրաստել ընտանեկան լուսանկարներով խաղ։** [Photo pairs](/games/photo-pairs/) խաղը ձեր լուսանկարները վերածում է զույգեր գտնելու խաղի։
+27. **Դիտել տնային տեսանյութեր կամ հին հաղորդումներ։** Միասին մեկնաբանեք, այլ ոչ թե հարցեր տվեք։
+28. **Ձեռք տալ նրա աշխատանքային կյանքի առարկաներին։** Գործիք, ստետոսկոպ, հաշվետետր։ Ձեռքերը հաճախ տանում են պատմությունը։
+29. **Պատրաստել մանկության ուտեստ։** Նա կարող է խառնել, համտեսել կամ պարզապես նստել խոհանոցում ձեր հետ։
+30. **Նայել այն վայրերի քարտեզին, որտեղ նա ապրել է։** Մեծ ատլասում հետագծեք ծանոթ ճանապարհները՝ զրուցելով։
 
-## Creative activities
+## Ստեղծագործական զբաղմունքներ
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Արվեստը ստեղծելու մասին է, ոչ թե պատրաստի աշխատանքի։ Նյութերը թող լինեն հասուն և անվտանգ։ Տես [արվեստ և ձեռագործ](/activities/arts-and-crafts/)։
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Նկարել ջրաներկով։** Հաստ թուղթ, մի քանի գույն։ Եթե սկսելն դժվար է, առաջին վրձնահարվածները արեք միասին։
+32. **Ներկել հասունների համար նկարներ։** Ծաղիկներ կամ վերմակների նախշեր, ոչ թե մուլտհերոսներ։ Մեր [coloring pages](/games/coloring/) էջերը կարելի է օգտագործել էկրանին կամ տպել։
+33. **Պատրաստել կոլաժ։** Պատռեք ամսագրերից այգիների, մեքենաների կամ ուտելիքի նկարներ և սոսնձեք։ Ավելի ուշ պարզապես նկարներ ընտրելը նույնպես բավական է։
+34. **Ծաղիկներ դասավորել։** Խանութից ծաղկեփունջ և ծաղկաման։ Ավելի ուշ՝ մի քանի ցողուն տարայի մեջ։
+35. **Միասին գործել կամ հյուսել։** Պարզ շարքեր՝ մեծ ասեղներով։ Ավելի ուշ՝ թելը գնդիկների վերածել։
+36. **Քարտեր պատրաստել ընտանիքի համար։** Կնիքել, ստորագրել կամ զարդարել ծննդյան և ապաքինման քարտեր իրական մարդկանց համար։
+37. **Ձևավորել օդում չորացող կավ։** Փոքր սկուտեղ պատրաստել։ Օգտագործեք անվտանգ նյութեր և մնացեք մոտակայքում։
+38. **Փայտը հղկել և մշակել։** Նախապես կտրված թռչնաբնի հավաքածու և հղկաթուղթ, առանց էլեկտրական գործիքների։ Տես [տղամարդկանց համար զբաղմունքներ](/activities/for-men/)։
+39. **Նամակ գրել կամ թելադրել։** Թոռնիկին կամ հին ընկերոջը։ Եթե գրելն դժվար է, նա խոսում է, դուք գրում եք։
 
-## Outdoors and gardening
+## Դրսում և այգեգործություն
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Թարմ օդը և ցերեկային լույսը լավ ուղեկիցներ են։ Տես [դրսի և այգեգործական զբաղմունքներ](/activities/outdoor-and-gardening/)։
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Բույսերը ջրել։** Փոքր ջրցան և մի քանի թաղար։ Ամենօրյա ջրելը օրվան ռիթմ է տալիս։
+41. **Ծաղիկ տնկել թաղարի մեջ։** Թաղարը դրեք սեղանին, որպեսզի ոչ ոք չծնկի։ Սածիլները սերմերից ավելի հեշտ են։
+42. **Մոլախոտ մաքրել կամ չորացած ծաղիկները կտրել։** Ձեռնոցներով, միաժամանակ մեկ փոքր հատված։
+43. **Տերևներ հավաքել։** Մի փոքր տեղամաս։ Ավելի ուշ պարկը բաց պահելը նույնպես իսկական գործ է։
+44. **Քայլել ծանոթ ճանապարհով։** Թաղամասում կամ մինչև փոստարկղը։ Կարճ ճանապարհն էլ լավ է։
+45. **Միասին նստել դրսում։** Պատշգամբի աթոռին՝ մեղմ օրերին։ Դիտել ամպերը կամ անցորդներին։
+46. **Թռչուններին կերակրել։** Միասին լցնել կերատուփը և դիտել պատուհանի մոտից։
+47. **Մեքենան լվանալ։** Դույլ, սպունգ, տաք կեսօր։ Անիվների ծածկերը լվանալը լավ մեկքայլանի գործ է։
 
-## Sensory activities
+## Զգայական զբաղմունքներ
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Շոշափելիքը, հոտը, համը, ձայնը և տեսողությունն ավելի շատ նշանակություն են ստանում, երբ դեմենցիան խորանում է։ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)-ը ուշ փուլերի համար նշում է երաժշտությունը, ձեռքով պահելու առարկաները և ձեռքի շոյանքը։ Նախ ստուգեք ալերգիաների և շնչահեղձության վտանգները. տես [զգայական զբաղմունքներ](/activities/sensory/)։
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Ձեռքի մեղմ շոյանք անել։** Նախ հարցրեք և օգտագործեք մի փոքր քսուք։ Եթե մաշկի կամ ալերգիայի հարցում վստահ չեք, ընտրեք առանց հոտի տարբերակ։
+49. **Կտորներ շոշափել։** Զամբյուղ՝ թավշով, կորդով, բրդով և ատլասով կտորներով, որոնք կարելի է շոյել և ծալել։
+50. **Հոտոտել խոտաբույսեր և սուրճ։** Մատների միջև քսեք թարմ անանուխ կամ խնկունի։ Շնչառական խնդիրների դեպքում ուժեղ հոտերից խուսափեք։
+51. **Սանրել նրա մազերը։** Դանդաղ և մեղմ, եթե նա հաճույք է ստանում։
+52. **Տաք խոնավ շոր օգտագործել։** Ձեռքերի և դեմքի համար՝ ցուրտ օրը։ Նախ ստուգեք ջերմաստիճանը։
+53. **Զննել զբաղմունքի գոգնոցը։** Մեծ կոճակներ և կայծակաճարմանդներ՝ ամուր կարված։ Ստուգեք, որ ոչինչ չկարողանա պոկվել։
+54. **Համտեսել սիրելի ուտեստ։** Մի փոքր գդալ, այնպիսի կառուցվածքով, որը նա կարող է անվտանգ ուտել։
+55. **Միացնել բնության ձայներ։** Անձրև, ալիքներ կամ թռչունների երգ՝ ցածր ձայնով։
+56. **Դիտել ինչ-որ դանդաղ բան։** Ակվարիում, բնության տեսանյութ կամ ձյան տեղում։
 
-## Games and puzzles
+## Խաղեր և գլուխկոտրուկներ
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Խաղերը լավ են աշխատում, երբ չկա ժամանակաչափ, միավորներ կամ ճնշում։ Եթե խաղը սկսում է ստուգման նման զգալ, մի կողմ դրեք այն։ Տես [ինչպես ընտրել հավելվածներ և խաղեր](/caregiving/choosing-apps-and-games/) և [ուղեղի խաղեր](/brain-health/brain-games/)։
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Նկարներ զույգավորել։** [Picture pairs](/games/picture-pairs/) խաղում նկարները կարող են բաց մնալ, այնպես որ դա հիշելու մասին չէ, այլ նկատելու։
+58. **Գտնել նույն նկարը։** [Find the same](/games/find-the-same/) առաջարկում է երկուից չորս ընտրություն։ Յուրաքանչյուր նկարի մասին զրուցեք։
+59. **Իրերը զամբյուղների մեջ դասավորել։** [Sort together](/games/sort-together/) նման է էկրանին գուլպաներ դասավորելուն։
+60. **Մեծ կտորներով փազլ հավաքել։** Հասունների նկարներ, քիչ կտորներ։ [Picture puzzle](/games/picture-puzzle/) ամբողջ նկարը պահում է տեսանելի։ Ավելին՝ [դեմենցիայի համար փազլներ](/activities/puzzles/) բաժնում։
+61. **Խաղալ հին թղթախաղ։** Այն, ինչ նա տարիներ շարունակ խաղացել է։ Ավելի ուշ խաղաքարտերը ըստ գույնի դասավորելն ինքնին խաղ է։
+62. **Խաղալ դոմինո։** Ծայրերը համապատասխանեցնել։ Ավելի ուշ պարզապես քարերը շարքով դնելն էլ լավ է։
+63. **Փորձել մեծ տառերով բառախաղ։** Մեր [word search](/games/word-search/) խաղում բառերը միայն հորիզոնական և ուղղահայաց են, և այն կարելի է տպել։
+64. **Ավարտել ծանոթ ասացվածքներ։** [Finish the saying](/games/finish-the-saying/) ցանկացած պահի թույլ է տալիս ցույց տալ վերջավորությունը։
+65. **Խաղալ նկարներով բինգո։** [Picture bingo](/games/picture-bingo/) հարմար է ընտանիքների և խմբերի համար։ Քարտերը նշելու հարցում ազատ օգնեք։
+66. **Խաղալ շաշկի։** Կանոնները պահեք ազատ։ Քարերը տեղաշարժելն ու զրուցելը նույնպես բավական է։
 
-## Movement
+## Շարժում
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA-ն առաջարկում է զբոսանքներ, անշարժ հեծանիվ, ձգման ժապավեններ, փափուկ գնդակ կամ փուչիկ նետել, ապուրի տուփեր բարձրացնել և տարեցների համար վարժությունների տեսանյութեր։ Նոր բան սկսելուց առաջ խորհրդակցեք բժշկի հետ, հատկապես եթե հավասարակշռության խնդիրներ կան։
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Փուչիկ նետել։** Նստեք իրար դիմաց։ Այն դանդաղ է շարժվում, ուստի բռնելը հեշտ է։
+68. **Հետևել նստած վարժությունների տեսանյութի,** որը պատրաստված է տարեցների համար, կողք կողքի։
+69. **Ձգվել ժապավենով։** Նստած՝ թեթև ժապավենով ձեռքի մեղմ ձգումներ։
+70. **Ապուրի տուփեր բարձրացնել։** Ձեռքերի դանդաղ բարձրացումներ, հնարավոր է՝ երաժշտության ներքո։
+71. **Քշել անշարժ հեծանիվ։** Մի քանի հեշտ րոպե՝ ձեր ներկայությամբ։
+72. **Պարել թաշկինակներով։** Երաժշտության ներքո թեթև թաշկինակներ շարժել՝ նստած կամ կանգնած։
+73. **Քայլել նպատակով։** Նամակ ուղարկելու կամ սուրճ գնելու համար։ Գնալու պատճառը բնական է թվում։
+74. **Միասին շնչառական դադար անել։** [calm breathing](/games/calm-breathing/) խաղի հետ միասին դանդաղեցրեք տեմպը։
 
-## Social activities
+## Սոցիալական զբաղմունքներ
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Ուղեկցությունը կարևոր է նույնիսկ այն ժամանակ, երբ անունները դժվար են հիշվում, և փոքր խմբերն ավելի հեշտ են, քան մեծերը։ NIA-ն նշում է, որ մարդը կարող է չհիշել, թե այցելուն ով է, բայց միևնույն է հաճույք ստանալ ընկերակցությունից։ Տես [այցելություններ](/activities/visiting/)։
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Միաժամանակ մեկ կամ երկու այցելու ընդունել։** Կարճ այցեր՝ հանգիստ սենյակում, նայելու համար լուսանկարներով։
+76. **Տեսազանգով խոսել ընտանիքի հետ։** Կարճ զանգեր, միաժամանակ մեկ ձայն։ Տես [հեռախոսազանգեր և տեսազանգեր](/activities/phone-and-video-calls/)։
+77. **Փորձել հիշողության սրճարան։** Ոչ պաշտոնական հանդիպումներ դեմենցիա ունեցող մարդկանց և նրանց խնամողների համար։ Հարցրեք ձեր համայնքի սոցիալական ծառայությունից, թե ինչ կա մոտակայքում։
+78. **Դուրս գնալ ուտելու՝ հանգիստ ժամին։** NIA-ն առաջարկում է ծանոթ, հանգիստ ռեստորան՝ ոչ զբաղված ժամերին, զուգարանի մոտ սեղանով։
+79. **Այցելել տարեցների կենտրոն կամ ցերեկային ծրագիր։** Նրանց համար ընկերակցություն, ձեզ համար՝ դադար։
+80. **Ժամանակ անցկացնել երեխաների հետ։** Թոռնիկների հետ կարճ, հանգիստ այց կամ փոքր երեխայի համար նկարազարդ գիրք կարդալ։
+81. **Միասին թերթ թերթել սուրճի հետ։** Վերնագրերը կարդացեք բարձրաձայն։ Ավելի կարևոր է սովորությունը, քան լուրերը։
+82. **Օգնել մեկ ուրիշին։** Եկեղեցական ծրագրեր ծալել կամ հարևանի համար բացիկ պատրաստել։
 
-## Faith and spiritual activities
+## Հավատք և հոգևոր զբաղմունքներ
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Հետևեք մարդու սեփական ավանդույթին կամ ոչ մեկին։ NIA-ն առաջարկում է ծանոթ արարողություններ, ընթերցումներ, հոգևոր երաժշտություն, աղոթք, լուռ ժամանակ և տոնական սովորույթներ։
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Մասնակցել ծանոթ արարողության։** Ընտրեք ավելի հանգիստ տարբերակ, նստեք միջանցքին մոտ և տեղեկացրեք այնտեղի մարդկանց դեմենցիայի մասին։
+84. **Դիտել արարողությունը առցանց,** երբ դուրս գնալը չափազանց դժվար է։
+85. **Միասին աղոթել կամ կարդալ։** Ծանոթ խոսքեր՝ դանդաղ կարդացված։ Նա կարող է միանալ այն հատվածներին, որոնք գիտի։
+86. **Երգել օրհներգեր կամ հոգևոր երաժշտություն** իրենց ավանդույթից։
+87. **Պահպանել տոնական սովորույթները։** Մարտկոցով մոմեր, օրհնություն, այն զարդերը, որոնք միշտ օգտագործել են։
+88. **Միասին լուռ ժամանակ անցկացնել։** Նստել այգում կամ միասին դիտել մայրամուտը։
 
-## Pets and animals
+## Կենդանիներ
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA-ն առաջարկում է կերակրել, սանրել, զբոսնել կամ պարզապես նստել և պահել կենդանուն։
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Սանրել հանգիստ շանը կամ կատվին** երկար, դանդաղ շարժումներով։
+90. **Միասին կերակրել կենդանուն։** Դուք չափեք, նա լցնի։
+91. **Միասին զբոսնել շան հետ։** Փոկը ձեր ձեռքում թողեք։
+92. **Կենդանուն պահել գրկում։** Հանգիստ կատուն՝ ծածկոցի վրա, կարող է շատ հանգստացնող լինել։
+93. **Ընդունել այցելող կենդանիների։** Որոշ խնամքի տներ և ցերեկային ծրագրեր կենդանիների այցելություններ են կազմակերպում։ Հարցրեք տեղում։
+94. **Առաջարկել իրականին նման փափուկ կենդանի։** Եթե կենդանի չկա, որոշ մարդիկ հաճույքով են պահում իրականին նման փափուկ կատու կամ շուն։ Պարզապես առաջարկեք, ոչ թե որպես խաղալիք, և ընդունեք «ոչ»-ը։
 
-## Seasonal activities
+## Սեզոնային զբաղմունքներ
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Պահպանեք ավանդույթները, բայց ավելի պարզ ձևով։ NIA-ն առաջարկում է լինել իրատես և զբաղված տոների ժամանակ հանգստանալու համար հանգիստ տեղ ունենալ։
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Զարդարել ըստ տարվա եղանակի։** Սեղանին դդում, ծաղկեպսակ կամ թարմ ծաղիկներ։
+96. **Տոնական ուտեստ պատրաստել։** Խմոր գրտնակել կամ թխվածքաբլիթներ զարդարել։ Վառարանը ձեր վերահսկողության տակ թողեք։
+97. **Զարդեր կախել։** Չկոտրվող զարդեր՝ միաժամանակ մեկական տալով։
+98. **Մեքենայով գնալ լույսերը देखने։** Կարճ երեկոյան Fahrt-ը պահանջում է միայն ընկերակցություն։
+99. **Գարնան սոխուկներ տնկել։** Աշնանը սոխուկները դրեք թաղարի մեջ և սպասեք ծիլերին։
+100. **Եգիպտացորեն մաքրել կամ ոլոռ կճեպից հանել։** Ամառային գործ պատշգամբում՝ գրկում դրված ամանով։
+101. **Տոնական բացիկներ հասցեագրել։** Նա ստորագրի, դրոշմի կամ փակի. հասցեները դուք գրեք։
 
-## What if an activity is not working?
+## Ի՞նչ անել, եթե զբաղմունքը չի ստացվում։
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Դադարեցրեք և մեկ ուրիշ անգամ փորձեք այլ բան։ NIA-ն առաջարկում է ուշադրություն դարձնել հիասթափությանը և թույլ տալ, որ մարդը պարզապես նայի, եթե նախընտրում է։ «Ոչ»-ը հաճախ նշանակում է, որ առաջադրանքը չափազանց դժվար է, ժամանակը հարմար չէ, կամ ինչ-որ այլ բան է խանգարում, օրինակ ցավը, սովը կամ աղմուկը։ Դարձրեք այն ավելի փոքր, փորձեք օրվա ավելի վաղ ժամին կամ սկսեք ինքներդ և տեսեք՝ արդյոք նա կմիանա։ Տես [երբ նա ասում է «ոչ»](/caregiving/when-they-say-no/) և [օրվա վերջի անհանգստություն](/caregiving/late-day-restlessness/)։
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Որպեսզի զբաղմունքները տեղավորվեն սննդի և հանգստի միջև, տես [մեղմ օրակարգ](/activities/daily-routine/)։ Պատրաստի նյութերի համար տես [տպվող զբաղմունքներ](/activities/printable/), իսկ եթե խմբի եք ղեկավարում՝ [խնամքի տանը խմբային զբաղմունքներ](/activities/care-home-groups/)։ Ձեր սեփական հանգիստը նույնպես կարևոր է. տես [խնամողի ինքնախնամք](/caregiving/caregiver-self-care/)։

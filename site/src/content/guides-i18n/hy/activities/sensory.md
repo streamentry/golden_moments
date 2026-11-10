@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Թուլամտությամբ ապրողների զգայական զբաղմունքներ"
+seoTitle: "Թուլամտություն. զգայական զբաղմունքներ և անվտանգություն"
+description: "Զգայական զբաղմունքներ թուլամտությամբ ապրողների համար՝ ձեռքի մերսումից մինչև գործվածքների զամբյուղ, հստակ նշումներով խեղդվելու, ալերգիայի և հոտերի մասին։"
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Զգայական զբաղմունքներն օգտագործում են շոշափելիքը, հոտառությունը, համը, լսողությունը
+  և տեսողությունը՝ դանդաղ ձեռքի մերսում, փափուկ գործվածքների զամբյուղ, թարմ խոտաբույսեր
+  հոտոտելու համար, բնության ձայներ կամ պատուհանից թռչուններին դիտելը։ Դրանք հարմար են
+  յուրաքանչյուր փուլում և հատկապես արժեքավոր են ավելի ուշ փուլերում։ Նախապես ստուգեք
+  խեղդվելու վտանգը, ալերգիաները, մաշկի խնդիրները և հոտերի նկատմամբ զգայունությունը,
+  առաջարկեք միաժամանակ մեկ բան և դադարեցրեք, եթե մարդը անհանգիստ է թվում։
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Զգայական զբաղմունքները ճիշտ պատասխաններ չեն պահանջում, ուստի հարմար են յուրաքանչյուր փուլում, նույնիսկ անկողնում կամ բազկաթոռին նստած։"
+  - "Առաջարկեք միաժամանակ մեկ զգայարանով զբաղմունք՝ խաղաղ սենյակում, և դիպչելուց առաջ հարցրեք կամ զգուշացրեք։"
+  - "Խուսափեք փոքր предметներից և այն ամենից, ինչը նման է սննդի տեսքով կամ հոտով, բայց սնունդ չէ, քանի որ մարդիկ կարող են դրանք բերանը տանել։"
+  - "Լոսյոններ, հոտավետ նյութեր կամ սնունդ օգտագործելուց առաջ ստուգեք ալերգիաները, մաշկի խնդիրները և շնչառական դժվարությունները։"
+  - "Չկան համոզիչ ապացույցներ, որ արոմաթերապիան օգնում է թուլամտության ախտանիշներին. օգտագործեք հոտերը միայն պարզ հաճույքի համար, եթե ընդհանրապես օգտագործում եք։"
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Որո՞նք են թուլամտությամբ ապրող մարդու համար հարմար զգայական զբաղմունքները։"
+    a: "Պարզ տարբերակներից են դանդաղ ձեռքի մերսումը լոսյոնով, փափուկ գործվածքներ շոշափելը, թարմ խոտաբույսերի կամ սուրճի հոտը, սիրելի երաժշտություն կամ բնության ձայներ լսելը, թռչուններին կամ ակվարիումին դիտելը և սիրելի սնունդը համտեսելը՝ անվտանգ կառուցվածքով։ Առաջարկեք միաժամանակ մեկ բան և հետևեք, թե ինչպես է մարդը արձագանքում։"
+  - q: "Արդյո՞ք զգայական զբաղմունքները անվտանգ են այն մարդու համար, ով իրերը բերանը է տանում։"
+    a: "Կարող են անվտանգ լինել՝ զգուշությամբ։ Օգտագործեք միայն այնքան մեծ предметներ, որոնք հնարավոր չէ կուլ տալ, բաց թողեք փոքր կամ հեշտ կոտրվող предметները, իսկ հետո լոսյոնները, օճառները և հոտավետ միջոցները պահեք հասանելիությունից հեռու, քանի որ դրանք կարող են սննդի նման տեսք կամ հոտ ունենալ։ Ամբողջ ընթացքում մնացեք մարդու կողքին։"
+  - q: "Արդյո՞ք արոմաթերապիան օգնում է թուլամտության դեպքում։"
+    a: "Cochrane-ի ակնարկը համոզիչ ապացույցներ չգտավ, որ արոմաթերապիան օգնում է թուլամտությամբ ապրող մարդկանց, թեև հետազոտությունները փոքր էին և անհամապատասխան։ Եթե մարդը հաճույք է ստանում մեղմ, ծանոթ հոտից, դա նորմալ է, բայց խուսափեք ուժեղ եթերային յուղերից, հատկապես շնչառական խնդիրների կամ ալերգիաների դեպքում։"
+  - q: "Ի՞նչ է «խաղային» կամ զբաղմունքների գոգնոցը։"
+    a: "Դա գործվածք, գոգնոց կամ ծնկի ծածկոց է, որի վրա ամուր կարված են շոշափելու համար предметներ, օրինակ՝ մեծ կոճակներ, կայծակաճարմանդներ, ժապավեններ և տարբեր հյուսվածքի կտորներ։ Այն զբաղված ձեռքերին տալիս է ուսումնասիրելու հնարավորություն։ Հաճախ ստուգեք, որ որևէ բան չթուլանա և չպոկվի։"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Զգայական զբաղմունքներն օգտագործում են հինգ զգայարանները՝ շոշափելիքը, հոտառությունը, համը, լսողությունը և տեսողությունը։ Դրանք չեն պահանջում հիշողություն, քայլերի հաջորդականություն կամ ճիշտ պատասխաններ, ուստի կարող են հարմար լինել ցանկացած փուլում։ Առավել կարևոր են դրանք ավելի ուշ փուլերում։ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage)-ը նշում է, որ ուշ փուլում աշխարհը հիմնականում ընկալվում է զգայարանների միջոցով, և դուք կարող եք հոգատարություն ցույց տալ շոշափելիքով, ձայնով, տեսողությամբ, համով և հոտով։ Մի քանի անվտանգության ստուգում այս զբաղմունքները կարող են դարձնել հանգստացնող բոլորի համար։
 
-## What are sensory activities for dementia?
+## Ի՞նչ են թուլամտության դեպքում զգայական զբաղմունքները
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Զգայական զբաղմունքները պարզ փորձառություններ են, որոնք կառուցված են միաժամանակ մեկ զգայարանի շուրջ, օրինակ՝ գործվածք շոշափելը, խոտաբույսերի հոտը զգալը կամ անձրևի ձայնը լսելը։ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)-ը նշում է, որ ավելի ուշ փուլերի զբաղմունքները հաճախ պետք է կենտրոնանան զգայարանների վրա, և որպես օրինակ բերում է երաժշտությունը, շոշափելու ու բռնելու предметները և ձեռքի մերսումը։ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)-ն նշում է, որ ուշ փուլում գտնվող մարդիկ երբեմն խիստ կարիք կարող են ունենալ ինչ-որ բան մոտ պահել՝ մխիթարության համար։
 
-## Sensory ideas, sense by sense
+## Զգայական գաղափարներ՝ ըստ զգայարանների
 
-### Touch
+### Շոշափելիք
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Ձեռքի մերսում։** Տաքացրեք մի փոքր լոսյոն ձեր ձեռքում և դանդաղ շփեք դաստակից դեպի մատների ծայրերը։ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease)-ը մխիթարության համար նշում է անբույր լոսյոնով մերսումը։
+- **Գործվածքների զամբյուղ։** Թավշի, վելվետի, ֆլիսի, ատլասի և բրդի մեծ կտորներ՝ շոշափելու, ծալելու և դրանց մասին խոսելու համար։
+- **Տաք թաց սրբիչ։** Տաք, խոնավ սրբիչ ձեռքերի համար՝ ցուրտ օրերին։ Ջերմաստիճանը նախ ստուգեք ձեր սեփական դաստակին։
+- **Զբաղմունքների գոգնոց կամ ծնկի ծածկոց։** Մեծ կոճակներ, կայծակաճարմանդներ, ժապավեններ և տարբեր հյուսվածքի կտորներ՝ ամուր կարված։
+- **Ծալել և հարթեցնել։** Մաքուր սրբիչների կամ անձեռոցիկների զամբյուղ՝ ծալելու, դասավորելու և նորից ծալելու համար։
+- **Փափուկ բան բռնելու համար։** Ֆլիսե ծածկոց, բարձ կամ իրատեսական փափուկ կենդանի, որը առաջարկվում է պարզ ձևով, երբեք՝ որպես խաղալիք։
 
-### Smell
+### Հոտառություն
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Թարմ խոտաբույսեր։** Մատների միջև շփեք անանուխի, խնկունու, ռեհանի կամ նարդոսի տերևներ և մոտեցրեք մարդուն։
+- **Խոհանոցի հոտեր։** Մոտակայքում եփվող սուրճ, բովվող հաց, դարչին կամ կեղևահանվող նարինջ։
+- **Ծաղիկներ։** Բերեք մի քանի թարմ ծաղիկ այգուց կամ խանութից։
+- **Ծանոթ միջոց։** Այն օճառը կամ լոսյոնը, որը մարդը միշտ օգտագործել է, եթե մաշկը դա լավ է տանում։
 
-### Taste
+### Համ
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Սիրելի համ։** Մի փոքր գդալ այն բանից, ինչը մարդը սիրում է, օրինակ՝ խնձորի խյուս, պուդինգ կամ պաղպաղակ՝ այնպիսի կառուցվածքով, որը հնարավոր է անվտանգ ուտել։
+- **Օգնել թխելիս։** Միասին թխելիս համտեսել միրգ կամ մի փոքր գլազուր։
+- **Սեզոնային համեղություններ։** Ամռանը ձմերուկ, աշնանը տաք խնձորի ըմպելիք՝ անվտանգ ջերմաստիճանով մատուցված։
 
-### Sound
+### Լսողություն
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Սիրելի երաժշտություն։** Ծանոթ երգեր՝ մեղմ ձայնով. տե՛ս [երաժշտական զբաղմունքներ](/activities/music/)։
+- **Բնության ձայներ։** Անձրև, ալիքներ կամ թռչունների երգ։ National Institute on Aging-ը նշում է, որ երաժշտությունը, սպիտակ աղմուկը և բնության ձայները, կարծես, որոշ մարդկանց հանգստացնում են։
+- **Ձեր ձայնը։** Բարձրաձայն կարդալ, մեղմ երգել կամ պատմություն պատմել։
+- **Պարզ գործիքներ։** Ձեռքի թմբուկ, շեյքեր կամ զանգակ՝ երաժշտությանը միաժամանակ նվագելու համար։
 
-### Sight
+### Տեսողություն
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Պատուհանից դիտում։** Պատուհանից դուրս թռչունների կերատուփ, տուն վերադարձող երեխաներ կամ ձյան տեղում։
+- **Ակվարիում կամ դանդաղ տեսանյութ։** Մեղմ շարժում՝ առանց բարձր ձայնի։
+- **Մեծ լուսանկարներ։** Միաժամանակ մեկ հստակ պատկեր, պահված աչքերի մակարդակին։
+- **Գույն և նախշ։** Վառ գործվածքի կտորներ, ծաղիկներ կամ գունավոր անձեռոցիկներ դասավորելը, կամ մեր [գունավորում](/games/coloring/) բաժնի պարզ էջ։
+- **Դրսում։** NHS-ը առաջարկում է զգայական այգիներ՝ բուրավետ բույսերով, տարբեր հյուսվածքներով և ջրի տարրերով։ Տե՛ս [բացօթյա և այգեգործական զբաղմունքներ](/activities/outdoor-and-gardening/)։
 
-## How to make a sensory box
+## Ինչպես պատրաստել զգայական տուփ
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Ընտրեք թեմա**, որը կապված է մարդու կյանքի հետ՝ ծովափ, այգի, խոհանոց, արհեստանոց, կարուձև։
+2. **Ընտրեք հինգ կամ վեց մեծ, անվտանգ предмет,** օրինակ՝ մեծ խեցի, փայտե գդալ, փափուկ շարֆ, ամուր կարած չոր նարդոսով տոպրակ կամ հարթ փայտե կտոր։
+3. **Ստուգեք յուրաքանչյուր предмет**՝ փոքր մասերի, սուր եզրերի, թուլացած թելերի և կոտրվող տարրերի համար։
+4. **Միաժամանակ հանեք մեկ предмет։** Տվեք մարդուն, նկարագրեք այն և թողեք, որ ուսումնասիրի։
+5. **Հետո տուփը դրեք away**, որպեսզի այն մնա առանձնահատուկ, և հաջորդ անգամից առաջ предметները կրկին ստուգվեն։
 
-## Safety first
+## Նախ՝ անվտանգությունը
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Զգայական զբաղմունքները մեղմ են, բայց մի քանի վտանգ կարևոր է հաշվի առնել։ Թուլամտությամբ ապրող որոշ մարդիկ կարող են ոչ սննդային предметները շփոթել սննդի հետ, իսկ ժամանակի ընթացքում կլլման դժվարությունները կարող են ավելանալ. National Institute on Aging-ը զգուշացնում է, որ ուշ փուլում կլլման խնդիրները մեծացնում են խեղդվելու վտանգը։
 
-| Risk | What to do |
+| Վտանգ | Ինչ անել |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Խեղդվել | Օգտագործեք միայն այնքան մեծ предметներ, որոնք հնարավոր չէ կուլ տալ։ Տուփի մեջ թող մի պահեք կոճակներ, ուլունքներ, մետաղադրամներ, գնդիկներ կամ փոքր խաղալիքներ։ Սնունդ առաջարկեք միայն այն կառուցվածքներով, որոնք խնամքի թիմը համարում է անվտանգ։ |
+| Սննդի նման предметներ | National Institute on Aging-ը խորհուրդ է տալիս փակ պահել լոսյոնները, օճառները, շամպունները և օծանելիքները, որոնք կարող են սննդի նման տեսք կամ հոտ ունենալ, ինչպես նաև հեռացնել արհեստական մրգերը։ Զգայական միջոցները օգտագործումից հետո դրեք away։ |
+| Ալերգիաներ | Սկսելուց առաջ ստուգեք ընկույզների, լատեքսի, բրդի, բույսերի կամ բույրերի նկատմամբ ալերգիաները։ |
+| Ուժեղ հոտեր | Խուսափեք ուժեղ օծանելիքներից և եթերային յուղերից, հատկապես ասթմայի կամ շնչառական այլ խնդիրների դեպքում։ Մեղմ, բնական հոտերն ավելի անվտանգ են։ |
+| Մաշկ | Մերսումից առաջ ստուգեք՝ կա՞ն ցավոտ, վնասված կամ շատ նուրբ մաշկի հատվածներ։ Օգտագործեք մեղմ ճնշում և դադարեցրեք, եթե մարդը ցավից կկծկվի։ |
+| Ջերմաստիճան | Տաք սրբիչներն ու ըմպելիքները նախ ստուգեք ձեր սեփական դաստակին։ |
+| Սուր կամ թունավոր предметներ | Մի օգտագործեք սուր գործիքներ, ապակի կամ թունավոր ստեղծագործական նյութեր։ |
 
-## Does aromatherapy help?
+## Արդյո՞ք արոմաթերապիան օգնում է
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Հավանաբար ոչ՝ չափելի որևէ կերպով։ [Թուլամտության համար արոմաթերապիայի Cochrane ակնարկը](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) ուսումնասիրել է 13 հետազոտություն՝ 708 մարդու մասնակցությամբ, բոլորը խնամքի տներում, և համոզիչ օգուտ չի գտել։ Հետազոտությունները փոքր էին, արդյունքները համաձայն չէին, իսկ կողմնակի ազդեցությունների մասին քիչ էր հաղորդվում։ Եթե մարդը հաճույք է ստանում մեղմ, ծանոթ հոտից, օրինակ՝ այգու նարդոսից, դա կիսելու լավ պատճառ է։ Դա բուժում չէ։
 
-## How to offer a sensory activity
+## Ինչպես առաջարկել զգայական զբաղմունք
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Ընտրեք խաղաղ պահ** և անջատեք հեռուստացույցը։
+- **Մոտեցեք դիմացից,** ասեք մարդու անունը և դիպչելուց առաջ հարցրեք կամ զգուշացրեք. «Ես մի փոքր լոսյոն ունեմ։ Կցանկանա՞ք, որ ձեռքերիդ մերսում անեմ»։
+- **Միաժամանակ առաջարկեք մեկ բան**, որպեսզի մարդը չծանրաբեռնվի։
+- **Դիտեք արձագանքը։** Ավելի հանգիստ դեմքը, թուլացած ձեռքերը կամ ժպիտը լավ նշաններ են։ Հեռանալը, խոժոռվելը կամ անհանգստությունը նշանակում են, որ պետք է դադարեցնել։
+- **Կարճ պահեք։** Հինգ խաղաղ րոպեն լավ տևողություն է։
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Միասին դանդաղ շնչելու դադարը, օրինակ՝ [հանգիստ շնչում](/games/calm-breathing/), կարող է լինել մեղմ ավարտ։ Անկողնու կողքին ևս գաղափարների համար տե՛ս [ուշ փուլերի զբաղմունքներ](/activities/late-stage/), իսկ երեկոյան անհանգստության դեպքում՝ [օրվա վերջի անհանգստություն](/caregiving/late-day-restlessness/)։
