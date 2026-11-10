@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Connexion social e sanitá cerebral: solitá, isolation e dementia"
+seoTitle: "Solitá, isolation social e risca de dementia"
+description: "Qualmen solitá e isolation social es ligat al risca de dementia, quo li advise del Chirurg General de SUA ha dit, e simplic manieres de restar in contacte junt."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Recerca liga isolation social e solitá in etá avançat a un major risca de dementia.
+  Li Commission Lancet de 2024 estima que isolation representa circa 5% del cases, quoquam parte del liaison
+  posse esser pro que dementia in su fases initial causa retraiment. Restar in contacte, compartir passatempes e
+  auxiliar in cuestiones de audition sostene li connexion. Por persones vivent con dementia, activitates compartit
+  importa por gaudio e qualitá de vive.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Li Commission Lancet lista isolation social in etá avançat inter 14 factores de risca modificabil por dementia, representant circa 5% del cases."
+  - "Li advise del Chirurg General de SUA de 2023 liga solitá cronic e isolation social a un risca circa 50% major de dementia in persones plu old."
+  - "La major parte de ti evidence es observatori, e dementia in fase initial ipsa posse causar que persones se retrae del altri."
+  - "Problemas de audition o vision, viver sol, o esser un person qui cura, tot aumenta li risca de isolation."
+  - "Por persones vivent con dementia, activitates agradabil e compartit sostene li qualitá de vive; li scopo es connexion, ne prestation."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Causa solitá dementia?"
+    a: "To ne ha esset provat. Mult studias liga solitá e isolation social a un major risca de dementia, ma cambiamentos cerebral in fases initial posse anc esser li cause pro que persones se retrae del altri. Restar in contacte have mult altri avantages por li humor e sanitá, dunque it vale sempre li pena sustener to."
+  - q: "Quo es li differentie inter solitá e isolation social?"
+    a: "Isolation social significa haver poc contacte o poc persones con qui interacter regularimen. Solitá es li dolorosi sentiment de esser sol o separat. On posse viver sol sin sentir se solitari, o sentir se solitari mem in un sala plen de persones."
+  - q: "Qualmen posse yo auxiliar un parente qui vive con dementia a restar in contacte?"
+    a: "Contact curt e regular functiona bem. Prova un convocation o video-convocation fix cada septimane, un activitá compartit al mensa, un café del memorie, o un visita con un animal o un nepote. Mantene gruppes micri e quiet, e lassa li person determinar li rithme."
+  - q: "U posse yo trovar auxili local por un senior isolat?"
+    a: "Li Eldercare Locator, un service public, connecte familias a agenties local por senior e a programmas comunitari. On posse contacter lo al 800-677-1116 o in eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Persones have beson de companie, e to ne cambia con li etá. Recerca liga solitá e isolation social in etá avançat a un major risca de dementia, quam anc a maladies del corde e depression. Anc ne es clar quant del ti liaison es causal. Ti pagina expone quo li evidence monstra, manieres practic de restar in contacte, e pro quo activitates compartit es tam important por persones qui ja vive con dementia.
 
-## Are loneliness and isolation linked with dementia?
+## Es solitá e isolation ligat a dementia?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Yes, mult studias los liga, quoquam li direction ne es plenmen clar. Li [Commission Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) lista isolation social in etá avançat inter 14 factores de risca modificabil por dementia. Li [resum del raport de UCL](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) indica que to representa circa 5% del cases de dementia in tot li munde.
 
-What the evidence shows:
+Quo monstra li evidence:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Poc contacte, major risca.** Li Commission Lancet descri du revisiones quel liga un contacte social minu frequent a un major risca de dementia. Un trovat un risca circa 57% plu alt, e li altri circa 18% plu alt.
+- **Anc solitá.** Solitá, li sentiment de esser separat, ha esset ligat anc a un major risca de dementia in mult revisiones.
+- **Li opinion del Chirurg General.** In may 2023, li Chirurg General de SUA publicat un [advise pri solitá e isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It afirma que solitá cronic e isolation social posse aumentar li risca de dementia per circa 50% in persones plu old. To ha esset ligat anc a un risca 29% major de maladies del corde e un risca 32% major de ictus.
+- **Quam comun it es.** Un [raport del National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) trovat que circa 24% del americanes in etá de 65 o plu qui vive in comunité es socialmen isolat.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Un important avertiment: li Commission Lancet nota que persones posse diminuer su activitates sociales durant li fase inicial e anc ne diagnosticate de dementia. To significa que parte del liaison posse esser pro que dementia causa retraiment, ne solmen pro que retraiment aumenta li risca. Quasi tot ti evidence provene de studias observatori.
 
-## What is the difference between loneliness and isolation?
+## Quo es li differentie inter solitá e isolation social?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Li [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explica to assim. **Isolation social** significa haver poc contactos sociales o poc persones con qui interacter regularimen. **Solitá** es li angosiosi sentiment de esser sol o separat. Alquim posse viver sol felici, e alquim posse sentir se solitari in un sala plen.
 
-The NIA lists factors that raise the risk of both:
+Li NIA lista factores quel aumenta li risca ambi:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Problemas de audition o vision
+- Difficultie por mover se o manca de transport
+- Viver sol, o un grand perdita tal quam li morte del conjugue o li retrait
+- Cambiamentos in memorie o pensada
+- Curar un car person qui es malad
+- Preocupationes pri moné o barriers lingual
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Audition es un factor important. Li NIA nota que persones qui ne audi bem posse retraer se pro que conversation deveni frustrant o embarrassing. Nor [guide pri audition e sanitá cerebral](/brain-health/hearing/) tracta exames de audition e apparates auditiv sin prescription.
 
-## Practical ways to stay connected
+## Manieres practic de restar in contacte
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+Li NIA suggeri divers ideas. Selecte un o du quel convene:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Planifica contacte regular.** Fix un hora cada die o cada septimane por clamar, messagiar, scrir per e-mail o inviar un carte a familia, amicos o vecinos.
+- **Usa video-convocationes o altoparlatores intelligenti.** Si technologie es nov por vu, mult bibliotecas public e centres comunitari offer classes. Vise nor [guide pri convocationes telefonic e per video](/activities/phone-and-video-calls/).
+- **Junte a alquic.** Un classe, comunité religiosi, gruppe de marcha o un rol voluntari da contacte e un sentiment de scopo.
+- **Reprende un passatemp old** o aprende un nov junt con altri.
+- **Mova se junt.** Exercite se con un amico o in un gruppe. Nor [guide pri exercitie](/brain-health/exercise/) have optiones gentil.
+- **Considera un animal domestic** si vu posse curar un.
+- **Usa services local.** Centres por senior, Agenties Regional por Senior e li Eldercare Locator (800-677-1116) posse indicar vu programmas e transport.
 
-## Why do shared activities matter in dementia?
+## Pro quo activitates compartit importa in dementia?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Por alquim qui ja vive con dementia, connexion es question de gaudio, confort e sentir se includet, ne de diminuer li risca. Li Commission Lancet afirma que activitates auxilia persones con dementia a conservar gaudio e scopo. Li [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) nota que, adplu a ameliorar li qualitá de vive, activitates posse diminuer comportementes tal quam vagar o agitation. Li [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adde que persones con Alzheimer besona esser activ e far coses quel los place.
 
-Ideas that work well:
+Ideas quel functiona bem:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Regarda fotografias junt.** [Cartes de Conversation](/games/conversation-cards/) offer questiones apert sin test, tal quam "Di me pri...". Vise nor [guide pri reminiscentie](/activities/reminiscence/).
+2. **Jua costat per costat.** [Pares de Images](/games/picture-pairs/) mantene li images visibil e ne have cronometre o punctuation, dunque ne have pression. Nor guide pri [qualmen juer junt](/caregiving/how-to-play-together/) have consilies.
+3. **Usa fotografias familial.** [Pares de Fotografias](/games/photo-pairs/) transforma fotografias quel vu selige in un joco de concordantie, e li fotografias resta in vor apparate.
+4. **Reuni persones.** [Bingo de Images](/games/picture-bingo/) functiona ben por reunion familial e [gruppes in casas por cura](/activities/care-home-groups/).
+5. **Comparti musica, labores o li jardin.** Vise [activitates musical](/activities/music/), [labores domestic](/activities/household-tasks/) e nor liste complet de [ideas de activitates](/activities/ideas/).
+6. **Fac visita plu facil.** Nor [guide pri visitas](/activities/visiting/) tracta visitas curt e quiet quel es agradabil por omnes.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Mantene to micri e relaxat. Un chambre quiet con un o du persones sovente functiona plu bon quam un grand gruppe. Si li person fatiga o perde interesse, cessar es sempre acceptabil. Sider junt con un tasse de té ja es un bon resultat.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Por alquim qui vive sol con dementia, li NIA suggeri trovar un person fidat qui posse visitar o far un video-convocation regularimen e servir quam contacte de urgentie. It menciona anc un café del memorie local, un spacie social relaxat por persones con cambios de memorie e lor familias.
 
-## Caregivers get lonely too
+## Anc li persones qui cura senti se solitari
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+Li NIA lista curar un car person inter li factores de risca por isolation. Assegura un poc témpor por vor propri amicitias, gruppes de sustentation e repos. Nor [guide pri auto-curation del person qui cura](/caregiving/caregiver-self-care/) have ideas practic.
 
-## Talk with a doctor
+## Parla con un medico
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Si vu o li person quel vu cura senti se solitari o isolat la major parte del témpor, parla pri to con un medico. Li NIA recomanda compartir cambiamentos major in vive, tal quam li morte de un car person, por que li medico posse comprender li situation complet. Sentir se trist per septimanes a un file posse esser depression, quel posse esser tractat. Si un senior subitmen retrae se de amicos o activitates quel il ja amat, ti cambiament vale anc li pena mentionar al medico. Lee [signes initial e quand vider un medico](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ti pagina da information general, ne consilie medical. Vise nor [avertiment medical](/medical-disclaimer/).

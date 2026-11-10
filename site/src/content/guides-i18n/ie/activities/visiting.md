@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Visitar un person con dementie in un domo pro memorie o in li hospital"
+seoTitle: "Visitar un person con dementie: quo far e quo portar"
+description: "Quo far quande vu visita un person con dementie in un domo pro memorie, un asil o li hospital: quo portar, simplic activitás, curt visitas e partir bentost."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Quande vu visita un person con dementie in un domo pro memorie o in li hospital,
+  retene lo simplic: di vor nómine quande vu ariva e qui vu es, porta un poc a
+  compartir, talquam fotos, musica o un gustat bocad, e fa un simplic cose ensemble.
+  Curt visitas regulari va sovente melior quam long visitas rar. Planifica un calm
+  e constant adieu por facilitar li partida tant por vu quam por li person.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Saluta li person per su nómine e di qui vu es, por que il ne besona laborar por calcular lo: 'Salute, Mama, yo es Susan, tui filia.'"
+  - "Porta un o du coses a compartir, talquam un album de fotos, vor music preferet, un mol blanket o un bocad que li personal ha aprobat."
+  - "Curt visitas regulari va sovente melior quam long visitas poc frequent. Vor presentie importa plu quam quo vu di."
+  - "In li hospital, da al personal un folio unic pri li person e informa li medíco incontinente pri quelcunc subit cambiament."
+  - "Planifica vor partida: di quanto long vu posse restar, usa li sam adieu chascun vez e parta sin prolongar lo."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Quo debe yo portar quande yo visita un person con dementie?"
+    a: "Porta un poc a compartir, ne un cose por parlar pri. Un micri album de fotos, un liste de canta preferet sur vor telefon, un mol blanket, un lotion por manus, un revista pri un old passatím o un bocad que li personal ha aprobat, tot va bentost. In un domo de cura, fotos familial e objectes familiar posse anque far que li chambre sembla plu quam un hem."
+  - q: "Quanto long debe yo restar quande yo visita un person con dementie?"
+    a: "Ne existe un longore rect. Mult familias constata que curt visitas plu frequent va melior quam long visitas rar, pro que li person posse lassar fatigat rapidmen e posse ne memorar quanto long vu ha restat. Atente al signes de fatiga e parta mentre li visita ancora sembla bon."
+  - q: "Quo deve yo dir quande il demanda de ear hem?"
+    a: "Responde al sentiment, ne al paroles. 'Yo vole ear hem' significa sovente 'Yo ne me senti confortabil o secur'. Prova dir: 'Conta me pri vor hem', regarda fotos ensemble, o ofre un promenade o un bocad. Disputar o explicar pro quo il ne posse ear va sovente augmentar li stress."
+  - q: "Quo si il ne reconosse me?"
+    a: "To posse dolorar, ma prova ne rectificar lo o demandar: 'Esque vu ne me conosse?' Presenta vos calidmen e simplicmen e disfruta li témpor ensemble. Mult persones ancor gaudia del compannia e senti li caliditá de un visita mem si ili ne posse plasar qui vu es."
+  - q: "Qualmen yo posse auxiliar in un hospital?"
+    a: "Resta con li person quande vu posse, auxilia lo a manjar e beber, e porta coses familiar talquam fotos. Da al personal un folio con su horari, su nómine preferet, su gustos e disgostos e signes de dolor. Informa li medíco incontinente si li person sembla subitmen deteriurat o diferent, pro que un subit confusion posse indicar un problem medical."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Visitar un person que vu ama in un domo pro memorie, un asil o li hospital posse suscitar mult sentimentes. Vu posse demandar quo dir, quo portar o ca li visita even importa si il ne va memorar lo. To importa. Li National Institute on Aging nota que persones con Alzheimer [sovente gaudia del compannia](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mem si ili ne memora qui visita les. Ti págine da passos practic pri ante, durant e pos un visita, in adjunct con consilies specific por visitas in hospital.
 
-## How do I get ready for a visit?
+## Qualmen yo me prepara por un visita?
 
-A little planning makes the visit easier for both of you.
+Un poc de planification fa li visita plu facil por ambes.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Selecte un bon témpor.** Dementia Australia suggere visitar quande li person es normalmen plu attent, por mult persones in li matine o circa midí. Li Family Caregiver Alliance suggere aprender li horari del institution e visitar durant [témpor líber in vice de témpor de activitás](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Consulta li personal.** Demanda qualmen li person ha esset hodie, e controla quelcunc regulas pri manjar, animales o excursiones.
+- **Prepara un micri saco por li visita.** Un o du coses a compartir es sufcent (vide li liste infra).
+- **Planifica alcun temas.** Li person posse ne haver novitates a compartir, do porta vor own: actualitás familial, li témpor, un match de balle, un amusant racontage.
+- **Ajusta vor expectatives.** Alcun visitas va esser calid e loquaci. Altris va esser quiet o dificil. Ambes es normal.
 
-## What should I bring?
+## Quo debe yo portar?
 
-Bring things to share, not things that test. Good choices include:
+Porta coses a compartir, ne coses por examinar. Bon selectiones es:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Un micri album de fotos** con grandes fotos clar. Marca les sur li dors por li personal.
+- **Un liste de canta** preferet sur un telefon, con simplic auriculares o un micri alt-parlator.
+- **Alcun cose mol por tener.** Talquam un blanket, un foulard o un sweter familiar.
+- **Lotion por manus** por un delicat massatge del manus, si li person gaudia del tacte.
+- **Un revista o un libre de images** pri un old interess, talquam jardinage, automobils, auceles o coquinage.
+- **Un bocad preferet**, si li personal di que to es secur.
+- **Coses familiar por li chambre.** Li Family Caregiver Alliance suggere flores, plantes, fotos familial e ovras artistic, o un grand affiche de fotos familial del passat.
+- **Un tablet**, por regardar fotos familial o juer un joc delicat ensemble.
 
-## What can we do together during a visit?
+## Quo posse nos far ensemble durant li visita?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Far un cose ensemble leva li pression del conversation. Dementia Australia suggere regardar fotos, un facil artis, plantar plantules, musica, compartir un bocad o far un curt promenade circum li terrenos. Alcun plu ideas:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Regarda fotos.** Indica quo vu vide: "Regarda ti chapelle." "Ti plage sembla charmant." Lassa li person ducter. Evita "Qui es ti?"
+2. **Jua musica e canta.** Canta familiar posse levantar li anim e crear un moment compartit, mem quande parlar es dificil.
+3. **Fa un curt promenade.** Li Family Caregiver Alliance suggere promenar circum li institution, specialmen in li jardin si existe un. Un promenade in rul-cadeira anque conta.
+4. **Da un massatge del manus.** Un poc de lotion e lent mouvements sur li manus posse esser calmant.
+5. **Auxilia con toiletage.** Dementia Australia mentiona pentinar li capilles, pictar li ungles o auxiliar li person a metter su vestiment preferet, si il gaudia to.
+6. **Jua un joc simplic.** Li Family Caregiver Alliance suggere cartas, dominós o quo li person solit usar. Sur un tablet, [Picture Pairs](/games/picture-pairs/) posse esser jucat con images visibil e sin cronometre. [Photo Pairs](/games/photo-pairs/) transforma fotos que vu selige in un joc de equalisation, e li fotos resta in vor navigator.
+7. **Regarda un cose ensemble.** Li Family Caregiver Alliance suggere comedies e old films. Mem si li person ne posse sequer li storia, vu posse seder junt e compartir li témpor.
+8. **Lege a voce alt.** Un curt poema, un passage preferet o un lettre de un membru del familie.
+9. **Simplemen seder ensemble.** Tener manus o seder quietmen es ja un visita. Li Alzheimer's Association nota que ne conosser quo dir es normal, e que vor presentie importa max.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) posse auxiliar quande vu ne trova plu quo dir. Chascun carte have un image e un question apert.
 
-## How should I talk during the visit?
+## Qualmen deve yo parlar durant li visita?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Presenta vos chascun vez.** "Salute, Papa, yo es Mark, tui filio." Li NIA suggere que visitatores se presenta brevemente por iniciar un conversation.
+- **Aproxima vos del front** e sede al mesme nivelle ocular.
+- **Ne rectifica o disputa.** Li NIA consilia visitatores ne rectificar li person si il fa un errore o oblivia un cose.
+- **Sia patient** quande paroles es dificil trovar. Da suficent témpor.
+- **Responde al sentimentes.** Si li person sembla trist o anxiosi, reconosse to ante cambiar de tema.
+- **Evita questions de test** talquam "Esque vu me memora?" o "Quo vu ha manjat a prandio?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Vide vor [consilies pri communication](/caregiving/communication-tips/) por plu information.
 
-## What do I do when they say "I want to go home"?
+## Quo deve yo far quande ili di "Yo vole ear hem"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Responde al sentiment detra li paroles (vor guide pri [quande un person continua demandar ear hem](/caregiving/asking-to-go-home/) va plu detaliat). Li Family Caregiver Alliance explica que "Yo vole ear hem" es sovente un maniere de dir "Yo ne me senti confortabil", e suggere responsas talquam "Conta me pri vor hem" o "Quo es vor cose preferet in vor hem?" Dementia Australia adde que "hem" posse significar un témpor o un place u li person se sentit secur, talquam su infantie.
 
-Try:
+Prova:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- reconosser li sentiment: "To sembla que vu extra hem."
+- ofrir confort per tacte, si to es acceptat
+- regardar fotos o parlar pri li hem familial
+- ofrir un promenade, un trinc o un bocad
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Evita disputar o explicar pro quo ili ne posse ear. To rarmen auxilia e sovente augmenta li stress.
 
-## How long should a visit be?
+## Quanto long debe un visita durar?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Curt visitas plu frequent va sovente melior. Li Family Caregiver Alliance nota que li person normalmen ne memora ca vu ha restat cinque minutes o cinque hores, e suggere que tri curt visitas per septmane posse esser melior quam un long visita. Dementia Australia di que ne existe un quantit rect de visitas o un longore rect.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+In li unesim septmanes pos un change a un domo pro memorie, li Family Caregiver Alliance suggere visitar sovente, e pois gradatim stabilisar un regular horari. Demanda al personal quo ili observa.
 
-## How do I leave without upsetting them?
+## Qualmen yo parte sin turbar li person?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Li partida posse esser li max dificil parte. Dementia Australia suggere:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Di quanto long vu posse restar quande vu ariva.** "Yo posse restar un hore, pois yo va far compras."
+- **Usa un activitá quam natural fine.** "Quande nos ha finit ti canta, yo va partir."
+- **Sincronisa lo con un manjar o un activitá**, o demanda al personal auxiliar li person a stabilisar se in un altre cose.
+- **Retene li adieu curt e li sam chascun vez.** Prolongar lo, excusar vos o restar "just un poc plu" posse far futuros adieus plu dificil.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Pos vor partida, es normal sentir se trist. Lassa vos reposar. Si li person ha esset turbát, li personal posse normalmen auxiliar lo a calmar se bentost pos vor partida.
 
-## Visiting someone with dementia in the hospital
+## Visitar un person con dementie in li hospital
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Un hospital es ruidosi, ínconosset e plen de extranes, quo posse esser mult dificil por un person que vive con dementie. Li guide del NIA pri [portar un person con Alzheimer al hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommenda:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Haver alqui restar con li person** quam max possibil: un membru del familie, un amic fidat o un cuidador contractat.
+- **Dar al personal un folio con information personal** pri li horari del person, su nómine preferet, gustos e disgostos, possibil desencadenatores e signes non-verbal de dolor. Pone copies in li chambre e al station del infirmeras.
+- **Auxiliar a manjar e beber.** Personas old posse devenir subnutrit in li hospital. Aperte receptacles, auxilia con manjar, manja ensemble e ofre trincs.
+- **Porta coses confortant** talquam fotos o objectes spiritual.
+- **Diminue li ruid.** Extingue li television e reduce li volúmine del telefon e del intercom.
+- **Prova rituales calmant** talquam musica calmant, leger, priar, cantar o regardar old fotos.
+- **Encorage movement** quam max secur, con aprobation del personal.
+- **Informa li medíco incontinente si li person sembla subitmen deteriurat o diferent.** Li NIA explica que un subit sever confusion, nominat delirium, posse esser causat per problemas talquam infection, febre, deshidratation o effectes secundari de medicamentes, e besona atention medical.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Un curt visita calm con un facie familiar e un canta preferet posse esser li max confortant parte del die in hospital.
 
-## Bringing children on a visit
+## Portar infantes a un visita
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Infantes posse aportar mult caliditá. Prepara les ante per simplic paroles sincer, retene li visita curt e da les un labor, talquam monstrar un dessin o dar un foto. Li NIA suggere que infantes e persones con Alzheimer posse gaudiar ensemble de simplic activitás, talquam regardar un album de fotos o ascoltar musica. Dementia Australia suggere portar un micri saco con delicatesses o coses quiet por ocupar juven infantes.
 
-## Take care of yourself too
+## Cuida anque de vos self
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Visitar posse esser fatigant e emotional, specialmen si li person ha mult cambiát. Es normal visitar minu frequent si vu besona, portar un amic por support o partir ante in un dificil die. Por ideas pri guardar vor self, vide [cura del cuidador](/caregiving/caregiver-self-care/). Si vu vive lontan, vide vor guide pri [telefon e video-vocadas](/activities/phone-and-video-calls/).
