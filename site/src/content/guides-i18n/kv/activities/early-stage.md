@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Уджъяс воддза када деменция дырйи"
+seoTitle: "Воддза када деменция дырйи уджъяс"
+description: "Воддза када деменция дырйи уджъяс: гажӧдчанторъяс, ворсӧмъяс, ветлӧмъяс да ӧтув планируйтӧм, медым морт вермис сідз жӧ вӧдитны."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Воддза када деменция дырйи уна морт вермас водзӧ нуӧдны сылы дугдылӧм уджсӧ:
+  гажӧдчанторъяс, карта да пызан выв ворсӧмъяс, пӧсьтӧм, сад йӧзӧм, ветлӧм,
+  чукӧртчӧмъяс, вежӧртас да волонтёр удж. Медшӧр торъя лоӧны этшаджык чукӧръяс,
+  дженьыдджык ветлӧмъяс, прӧстӧй гижӧм планъяс да матын отсасьысь морт.
+  Юав мортлысь, кутшӧм отсӧг сылы ковмас, да сет сылы аслыс вӧдитны.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Воддза кадаын уна морт олӧ дзик ас вермӧм серти. Уджъяссӧ шӧркоддьӧ колӧ лӧсьӧдны, абу вежны."
+  - "Юав мортлысь, кутшӧм отсӧг сылы ковмас, да ӧтув бӧрйӧй прӧстӧй знак, кор отсӧг лоас бур."
+  - "Этшаджык чукӧръяс, лӧньджык кадъяс да дженьыдджык ветлӧмъяс тшӧтш отсалӧны."
+  - "Тайӧ бур кад, кор морт вермас аслыс йылысь проектъяс вӧдитны, шуам, дневник либӧ ас олан висьт."
+  - "Бӧрйӧй ворсӧмъяс гажӧдчӧм понда. Эновтӧй ставсӧ, мый заводитӧ видзӧдлыны кодь видлалӧмӧн."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Кутшӧм уджъяс бурӧсь воддза када деменция дырйи?"
+    a: "Чӧскыд, сійӧ жӧ уджъяс, мый морт водзын радейтіс вӧчны: картаын ворсӧм, пызан выв ворсӧм, пӧсьтӧм, сад йӧзӧм, ветлӧм, музыка, вежӧртас, чукӧртчӧмъяс да волонтёр удж. Вермас лоны, колӧ вӧчны найӧс дженьыдджыкӧн, лӧньджыкӧн либӧ прӧстӧйджыкӧн. Дневник гижӧм, письмӧяс гижӧм да ас олан висьт лӧсьӧдӧм татшӧм кадлы тшӧтш лӧсялӧны."
+  - q: "Кыдзи отсавны, но оз ас вывсьыс ставсӧ босьтны?"
+    a: "Юав, кутшӧм отсӧг мортлы ковмас, да тшӧкыда видлы. Ӧтув вӧчӧй кыв либӧ знак, мый отсӧг сетны позьӧ, шуам, кор кыв либӧ ним оз вӧв лыддзысьӧ. Кӧ лыйлӧмтор абу, лэдз мортлы вӧчны ас ногӧн, кӧть и сійӧ унджык кад босьтас."
+  - q: "Воддза када деменцияӧн олысь мортлы вӧчны-ӧ выльтор?"
+    a: "Да, кӧ сійӧ сійӧ кӧсйӧ. Радейтана уджъяс чӧскыд кокниджыкӧсь, но уна мортлы гажӧдчӧ и выльтор, шуам, деменцияӧн олысь йӧзлы лӧсьӧдӧм ветлан чукӧр, серпас серам класс либӧ сьылан чукӧр. Видлӧй ӧтчыд нинӧм стресстӧг да видзӧд, кыдзи лоӧ."
+  - q: "Воддза кадаын юр лыддьӧдан приложениеяс отсалӧны-ӧ?"
+    a: "Мукӧд йӧзлы гажӧдчӧны головоломкаяс да кыв ворсӧмъяс, тайӧ сы понда бур. Некутшӧм приложение либӧ ворсӧм оз вермы бурдӧдны, ньӧжйӧдны либӧ дугдӧдны деменция. Кӧ ворсӧм сетӧ стресс либӧ морт аддзӧ ассьыс, мый сійӧ оз вермы, эновтӧй сійӧс."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Деменциялӧн воддза кадаын уна морт олӧ тадзи жӧ, кыдзи и водзын. Найӧ вермасны уджавны, волонтёрӧн мунны, ёртъясӧн паныдасьлыны да унджыксӧ ас кадсӧ нуӧдны. Уджъяссӧ абу колӧ вежны; колӧ лӧсьӧдны неуна, медым найӧ водзӧ вӧліны гажӧданаӧн. Тіян удж ёртлӧн уджысь матынджык: ті отсаланьӧй, планируйтанныд ӧтув да петанныд сӧмын кор юалӧны.
 
-## What activities are good in early-stage dementia?
+## Кутшӧм уджъяс бурӧсь воддза када деменция дырйи?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Воддза кадаын бурджык уджъяс — чӧскыд сійӧ жӧ, мый мортлы водзын радейтіс, сӧмын неуна кокнидджыка вӧчӧм. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) инмӧ татшӧм идеяяс: карта да пызан выв ворсӧмъяс, кыв корсьӧм, ветлӧм, йӧктӧм, сад йӧзӧм, дзоридз лӧсьӧдӧм, висьтъяс висьтавлӧм, серпас серӧм, музыка, дневник гижӧм, письмӧяс гижӧм, скрапбукинг, пӧсьтӧм да гажлунлун ритуалъяс.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Вежсьӧ чӧскыд гӧгӧр, абу уджыс. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) висьталӧ, мый воддза кадаын морт вермас панны дугдыны сылы радейтана уджъяс, да сетӧ пример: мортлы, коді ыджыд гӧстын дзугсьӧ, бурджык лоӧ ичӧт чукӧрын. Сёрнитӧй восьса, мый лоӧ сьӧкыдджык, да лӧсьӧдӧй ӧтув.
 
-## Ask first, and agree on how to help
+## Медводз юав, да ӧтув вӧчӧй, кыдзи отсавны
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association-ын воддза кадлы отсӧгъяс](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) сетӧны татшӧм привычкаяс, кодъяс уджъяслы тшӧтш лӧсялӧны:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Водзвыв юав.** "Мый вермас лыддьысян чукӧртчӧмсӧ кокнидджыка вӧчны тэныд?" сетӧ бурджык вочавидз, мый гӧгӧрвоӧм.
+- **Лыддьы, мый морт вермас.** Кӧ лыйлӧмтор абу, сет мортлы видлыны, да отсав сетан пыдди эн босьт ставсӧ ас вылад.
+- **Ӧтув бӧрйӧй знак.** Бӧрйӧй кыв либӧ ним гижӧм, мый петкӧдлӧ: "петны позьӧ", шуам, кор ним оз тӧд лыддзысьӧ картаын ворсігӧн.
+- **Тшӧкыда видлы.** Юав, отсӧгыс бур-ӧ лоӧ, вывті уна-ӧ либӧ этша-ӧ.
 
-## Activity ideas for the early stage
+## Воддза кадлы удж идеяяс
 
-### Keep up roles and hobbies
+### Видз удж да гажӧдчанторъяс
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Видз кад сайын вӧчан удж.** Вежон сайын волонтёр удж, хора либӧ чукӧр сетӧ вежоныслы форма. Кӧ лоӧ сьӧкыд, вермас лоны бурджык дженьыдджык либӧ лӧньджык удж.
+- **Ӧтув планируйтӧй сёян.** Кӧ магазинӧ ветлӧм лои сьӧкыд, Alzheimer's Association инмӧ юавны мортлысь отсавны вежонлы сёян планируйтны да лыддзыс гижны.
+- **Пӧсьтӧй да пӧжалӧй.** Вӧчӧй ӧтув радейтана рецепт серти. Пукты ингредиентъяссӧ водзвыв дорӧ, медым ступенъяссӧ вӧлі позян аддзыны.
+- **Сад йӧзӧй.** Планируйтӧй грядка, бӧрйӧй кӧйдыс либӧ быдмӧгъяс да вӧчӧй ӧтув. Вежон сайын садын вӧчан уджъяс лыддзыс отсалӧ.
+- **Нуӧд киа удж.** Пу вӧчӧм, вурӧм, кыдзӧм либӧ модель лӧсьӧдӧм позьӧ нуӧдны прӧстӧйджык образъясӧн да бур югӧдӧн.
 
-### Games for enjoyment
+### Ворсӧмъяс гажӧдчӧм понда
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Ворсӧй картаӧн да пызан выв ворсӧмъясӧн.** Тӧдана ворсӧмъяс кокниджыкӧсь. Ворсӧй командаӧн, медым некод оз ло шоча вылын, да лыддьӧй балъяссӧ лёкджыка либӧ дзик эн лыддьӧй.
+- **Видлӧй ыджыд шрифтӧн кыв корсьӧм.** Миян [word search](/games/word-search/) позьӧ ворсӧдны экран вылын либӧ печатайтны лӧнь кадлы.
+- **Вӧчӧй пазлъяс.** Бӧрйӧй тор лыд, коді сетӧ лӧнь гажӧдчӧм, абу сьӧкыдлун. [Picture puzzle](/games/picture-puzzle/) — тайӧ дженьыд экран версия, а миян [puzzles for dementia](/activities/puzzles/) юӧр инмӧ, кыдзи бӧрйыны.
+- **Пырӧй викторинаӧ гажӧдчӧм понда.** Мукӧдлы гажӧдчӧ командаӧн викторина. Кӧ сійӧ заводитӧ лоны видлалӧм кодь, бӧрйӧй мӧдтор, либӧ видлӧй миян [easy trivia questions](/activities/trivia/), кӧні сетӧма вочавидз вариантъяс да балъяс абу.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Ворсӧмъяс тані гажӧдчӧм понда. Некутшӧм ворсӧм оз вермы бурдӧдны либӧ ньӧжйӧдны деменция; унджык лыддьы [brain games: what the research says](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Гиж, думайт да кутӧй память
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Водзӧ нуӧд дневник.** Alzheimer's Association инмӧ дневник гижӧмӧн мӧд ногӧн думайтны ас кӧсйӧмъяс йылысь диагнос босьтігӧн. Лун сайын неуна кымын визьыс тырмымӧн.
+- **Вӧдит ас олан висьт.** Воддза када — бур кад, кор морт вермас бӧрйыны ас серпасъяссӧ да гижны либӧ висьтавны найӧ йылысь висьтъяс. Видзӧд [reminiscence activities](/activities/reminiscence/).
+- **Гиж письмӧяс.** Письмӧ пырысьыдлы, важ ёртлы либӧ важ уджъёртлы вермас лоны дона кыкнанлы.
+- **Сёрнит серпасъяс видзӧдіг.** [Photo pairs](/games/photo-pairs/) вӧчӧ семья серпасъяссьыс лӧнь ӧткодялӧм ворсӧм, а [conversation cards](/games/conversation-cards/) сетӧны кокни стартъяс сёрнитӧмлы.
 
-### Go out and move
+### Пет ветлыны да вӧрзьӧдчывны
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) инмӧ нуӧдны тӧдана ветлӧмъяссӧ кыдз позьӧ дыр. Планируйтӧй найӧс мортлы бурджык кадӧ да эн вӧчӧй вывті кузьӧн.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Дженьыд культура ветлӧмъяс.** Музей, лунын спектакль либӧ серпас петкӧдлӧм, бурджыка лӧньджык кадӧ.
+- **Варчан.** NIA инмӧ бассейн лунлӧн лӧньджык кадын.
+- **Ветлан чукӧръяс да йӧктан классъяс.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) казялӧ йӧктӧм, тай чи, йога, варчӧм да ветлан чукӧръяс, а татшӧм местаын кӧ эмӧсь, деменцияӧн олысь йӧзлы лӧсьӧдӧм уджъяс.
+- **Сьылан чукӧръяс да память кафеяс.** Лӧнь чукӧръяс, кӧні деменцияӧн олысь йӧз да налӧн ёртъяс вермасны паныдасьлыны мӧд йӧзкӧд, кодъяс олӧны сідз жӧ.
 
-## Small changes that keep activities enjoyable
+## Ичӧт вежӧмъяс, медым уджыс лоис гажӧдана
 
-| If this is getting harder | Try this |
+| Кӧ тайӧ лоӧ сьӧкыдджык | Видлӧй тадзи |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Йӧзыд да шыа местаяс | Мун лӧньджык кадӧ, бӧрйы ичӧт чукӧр, пуксьы жыр бӧрын |
+| Выль нимъяс тӧдмавны | Казялы нимсӧ быдпыр, кор висьтавлан; юав чукӧрысь ним пасъяс вӧдитны |
+| Уна ступенъя планъяс серти мунны | Гиж ступенъяссӧ, либӧ пукты ставсӧ дорӧ водзвыв |
+| Мудзӧм | Дженьыдджык ветлӧмъяс, шойччӧм бӧрын, сійӧ лунӧ мӧдтор эз планируйт |
+| Ворсӧмын лыддьыны | Ворсӧй командаӧн, прӧстмӧдӧй правилӧяссӧ, либӧ эн лыддьӧй балъяс |
+| Кывъяс корсьӧм | Сет кад; сет кыв сӧмын, кӧ тіян знакыс шуӧ тадзи вӧчны |
 
-## When to slow down
+## Кор колӧ видзӧдлыны ньӧжйӧ
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Дугдӧй либӧ вежӧй уджсӧ, кӧ сійӧ вайӧ унджык стрес, мый гажӧдчӧм. Вой чӧв стресс, гажӧдчанторсянь паньӧм либӧ "ме ог нин вермы" висьталӧм — тайӧ колана юӧр, абу стрес. Тшӧтш вочавидз — сійӧ жӧ уджлӧн ичӧтджык версия. Кор мортлы ковмас унджык отсӧг заводитны да ступенъяс серти мунны, вермасны лӧсявны идеяяс [middle-stage activities](/activities/middle-stage/)-ысь. Отсалысь сёрни йылысь унджык видзӧд [communication tips](/caregiving/communication-tips/), а унджык идеяяс видзӧд [101 activities](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ёртъяслы тшӧтш колӧ отсӧг. Воддза када — бур кад лӧсьӧдны аслыд отсалан сеть; видзӧд [caregiver self-care](/caregiving/caregiver-self-care/).

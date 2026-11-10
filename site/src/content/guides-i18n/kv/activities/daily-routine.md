@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Небыд кадколаст деменцияӧн овӧй мортлы"
+seoTitle: "Деменция дырйи кадколаст: гӧгӧрвоана лун"
+description: "Серпаса лун деменцияӧн овӧй мортлы: сёйӧм, уджъяс да шойччӧм ӧти рытмысь. Кыдзи лӧсьӧдны кадколаст да вежны сійӧсь сьӧкыд лунъясӧ."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Небыд кадколаст отсӧгӧн чеччӧм, сёйӧм, ассьыны видзӧдӧм да узьӧм лоӧны
+  гӧгӧрвоана кадӧ, медшӧр удж пуктӧны сійӧ кадӧ, кор морт медся эззьӧма,
+  да уджыс да шойччӧмыс ӧткодьӧсь. Лӧсьӧдӧй сійӧс мортлӧн важ оланног
+  серти, энӧ тыртӧй лунсӧ вывті, видзӧдӧй, медым быд лун лои югыт да
+  вӧрзьӧдчӧм, да вежӧй плансӧ, кор колӧ.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Чеччӧм, сёйӧм, видзӧдӧм да узьӧм ӧти кадын сетӧны лунлы тӧдса ног."
+  - "Пуктӧй медшӧр уджсӧ сійӧ кадӧ, кор мортлы медся бур."
+  - "Энӧ тыртӧй быд минут. Шойччӧм да лӧнь кад вермас лоны кадколастын пай."
+  - "Югыт, быдлунъя вӧрзьӧдчӧм да кузь да сёр рытъя узьӧмӧсь да сёр кофеысь видзчӧм вермасны отсавны рытын лӧньлунӧн."
+  - "Кадколаст — тайӧ отсӧг, абу правило. Вежӧй, дженьдӧдӧй либӧ кольӧй мыйкӧ, кор лун сьӧкыд."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Мыйла кадколаст вермас отсавны деменцияӧн овӧй мортлы?"
+    a: "Тӧдса лунӧн этшаджык вежӧртасъяс да виччысьтӧмторъяс, и тайӧ уна деменцияӧн овӧй мортлы сетӧ спокойствие. Alzheimer's Association шуӧ, мый лӧсьӧдӧм лун отсӧгӧн этшаджык кад мунӧ мый вӧчны дум вылӧ да унджык кад кольӧ гажа уджъяс вылӧ. Тайӧ отсалӧ и видзчысьлы лӧсьӧдны ассьыс лунсӧ."
+  - q: "Кутшӧм бур лунъя кадколаст деменцияӧн овӧй мортлы?"
+    a: "Ӧти кывкӧртӧд бур вариант абу. Бур кадколастын чеччӧм, сёйӧм да узьӧм лоӧны гӧгӧрвоана ӧти кадын, ассьыны видзӧдӧм да медшӧр удж пуктӧма сійӧ кадӧ, кор мортлы бурджык, эм кад петанінӧ либӧ ӧшинь дорын, да эм места шойччӧмлы. Лӧсьӧдӧй сійӧс мортлӧн оланног серти."
+  - q: "Вермас-ӧ деменцияӧн овӧй морт узьны лун шӧрын?"
+    a: "Дженьыд шойччӧм вермас отсавны, тӧда пызан вылӧ сёйӧм бӧрын. National Institute on Aging чӧвтӧ оз ков кузь узьӧм да сёр рытын нюръялӧм, сы вӧсна мый вывті мудзӧм либӧ абу бур шойччӧм вермасны содтыны рытын лӧньлун. Узянног сьӧкыд кӧ лоӧ ёна, сёрнитӧй врачкӧд."
+  - q: "Мый вӧчны, сійӧ кӧ оз кӧсйы кадколаст серти мунны?"
+    a: "Кольӧй тайӧ кадӧ да видлӧй бӧрын либӧ мӧд ногӧн. Отказ вермас петкӧдлыны, мый мортыс мудзӧма, висьӧ, сылы доймӧ либӧ сійӧ абу на дась. Кадколастыс лӧсьӧдӧма лунсӧ кокньӧдӧм понда, сійӧн вежӧй сійӧс, а энӧ вынсьӧдӧй."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Небыд кадколаст сетӧ лунлы тӧдса ног: чеччӧм, сёйӧм, неуна удж, шойччӧм да узьӧм гӧгӧрвоана ӧти кадын. Сійӧ чинтытӧм вежӧртасъяс да виччысьтӧмторъяс, да сетӧ тіянлы план, кор ті онӧ тӧдӧй, мый вӧчны водзӧ. Улынджык сетӧм кадколастыс — тайӧ пример, абу правило. Вӧдитчӧй сыысь кутанінӧн да лӧсьӧдӧй сійӧс морт серти, кодӧс ті видзӧданныд.
 
-## Why does a daily routine help?
+## Мыйла лунъя кадколаст отсалӧ?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Ӧткодь кадколаст отсалӧ, сы вӧсна мый тӧдса ногъяс кокниджык вӧдитчыны, кодь выль. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) шуӧ, мый лӧсьӧдӧм лун чинтӧ кад, кутшӧм мунӧ мый вӧчны бӧрйӧм вылӧ, да содтӧ кад гажа уджъяслы. Сідзжӧ индӧны, мый чеччан да узян ӧти кад вермас отсавны узянног сьӧкыдъяс да рытын лӧньлун дырйи. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) чӧвтӧ купайтчыны, пасьтасьны да сёйны ӧти кадын, медым гортын лои лӧнь, а [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) сідзжӧ чӧвтӧ видзны ӧткодь кадколаст.
 
-## A sample gentle day
+## Серпаса небыд лун
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Кадыс — сӧмын пример. Вештӧй став лунсӧ водзджык либӧ сёрджык, медым сійӧ лӧсяліс мортлӧн ас рытмыслы.
 
-| Time | What happens | Ideas | On a harder day |
+| Кад | Мый лоӧ | Идеяяс | Сьӧкыд лунӧ |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 асывнас | Чеччӧм, мыськӧм, пасьтасьӧм | Быд лун ӧти ногӧн; пуктӧй паськӧмсӧ тадзи, кыдзи пасьтасьны | Вӧчӧй ставсӧ прӧстӧйджыка; выль рубашкаыс тырмас |
+| 8:45 асывнас | Асыввыв сёйӧм | Кофе да газетысь лыддьӧм гораа, либӧ радио | Сёйны ӧтлаын лӧньӧн, сёрнитны абу колӧ |
+| 9:30 асывнас | Медшӧр удж | Дӧраа тшӧтшкӧм, пӧжасьӧм, садын уджалӧм, дженьыд петӧм либӧ ветлӧм | Дженьыдджык вариант, либӧ кольӧй, медым сійӧ видзӧдіс тіян удж |
+| 10:30 асывнас | Лӧнь кад | Музьыка, серпасъя альбом либӧ пукалӧм ӧшинь дорын | Шойччӧм радейтана креслӧын |
+| 11:00 асывнас | Луншӧр сёйӧм дасьтӧмын отсӧг | Миськӧм овощъяс, пызан дасьтӧм | Ті пӧжаланныд, сійӧ лоӧ тіянкӧд |
+| 12:00 луншӧрын | Луншӧр сёйӧм да весалӧм | Пызан чышкӧм, неуна сёйӧм доз косӧдӧм | Кольӧй гортса уджсӧ |
+| 13:00 луншӧр бӧрын | Дженьыд шойччӧм | Кокъяс вылын, небыд музьыка | Сідзжӧ |
+| 14:00 луншӧр бӧрын | Уличаын либӧ вӧрзьӧдчӧм | Ветлӧм, крыльца вылын пукавлӧм, быдмӧгъяс ваӧдӧм, шарик ворсӧм | Пукавны шондӧдіна ӧшинь дорын |
+| 15:00 луншӧр бӧрын | Йитчӧм либӧ творческӧй удж | Визит, шыӧдчӧм, [серпасъяс гищалӧм](/games/picture-pairs/), серпас гижӧм, картъяс | Юӧм да закуска ӧтлаын |
+| 16:30 луншӧр бӧрын | Лӧньлун кад | Занавесъяс пӧдлалӧм, биъяс ӧзтӧм, лӧнь удж, шуам, дозъя полотенце тшӧтшкӧм | Тӧдса музьыка, этша шы |
+| 17:30 рытнас | Рытъя сёйӧм | Отсавны вораломын либӧ пызан дасьтӧмын | Прӧстӧй, тӧдса сёян |
+| 18:30 рытнас | Рытнас ӧтлаын | Чай бӧрын казьтылӧм, картъяс, радейтана передача, ки вӧрзьӧдӧм | Лӧньӧн ӧтлаын |
+| 20:00 рытнас | Узянног дасьтӧм | Купайтчӧм либӧ мыськӧм, узян паськӧм, небыд музьыка, этша би | Дженьдӧдӧй ставсӧ; медводз комфорт |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Тайӧ пример вӧдитчӧ Alzheimer's Association-лӧн ас серпаса план серти воддза да шӧр кадъяслы: ассьыны видзӧдӧмысь да асыввыв сёйӧмысь гортса уджъяс, ветлӧм, музьыка, шойччӧм да визитъяс пыр рытъя сёйӧмӧдз, казьтылӧмӧдз да узьны дасьтӧмӧдз.
 
-## How do you build your own routine?
+## Кыдзи лӧсьӧдны ассьыныс кадколаст?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Заводитӧй мортлӧн важ оланногысь, абу таблицаысь. Alzheimer's Association чӧвтӧ планалігӧн думайтны тайӧ йылысь:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Мый сылы радейта, мый оз радейт, мый сійӧ вермӧ да мыйӧн сійӧ интересуйтчӧ.**
+- **Кыдзи сійӧ ӧттӧдз оліс луннас.** Водз асывнас чеччысь да понкӧд ветлысь морт вермас водзджык ветлыны и ӧні. Рытын овлысьлы вермас оз ло тӧдса 8:00-ын чеччӧм.
+- **Кор сылы бурджыка луннас.** Пуктӧй сійӧ кадӧ купайтчӧм, петӧм да медшӧр удж.
+- **Тырмымӧн кад** сёйӧмлы, мыськӧмлы да пасьтасьӧмлы, медым эз ков термасьны.
+- **Ӧти кадын чеччӧм да узьӧм.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Сійӧ жӧ источник чӧвтӧ пуктыны кадколастӧ гортса уджъяс, сёйӧм, ассьыны видзӧдӧм, творческӧй удж, вӧрзьӧдчӧм, йитчӧм, духовнӧй удж да виччысьтӧмторъяс, шуам, ёртлӧн виччысьтӧг пырӧм.
 
-### Try it for a week, then adjust
+### Видлӧй ӧти недельӧн, сэс вежӧй
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Гижӧй быд лун прӧстӧй гӧгӧр. Alzheimer's Association чӧвтӧ видзӧдлыны, кутшӧм уджъяс бурджыка мунісны да мыйла, тіянӧн лои-ӧ кад, кор вывті уна вӧчӧм либӧ вывті этша, да виччысьтӧг планъяс лоины-ӧ гажаӧн либӧ сетісны беспокойство. Кольӧй, мый бура уджалӧ, да вежӧй, мый оз уджав.
 
-### Make it visible
+### Вӧчӧй сійӧс тыдаланаӧн
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Мортыс кӧ на вермӧ лыддьыны, ыджыд гижӧмӧн лунъя план белӧй доска вылын либӧ карта вылын вермас сетны спокойствие. Вӧчӧй сійӧс дженьыдӧн: «Асыввыв сёйӧм. Саракӧд ветлӧм. Луншӧр сёйӧм. Шойччӧм». Мукӧдъяслы бурджык оз тӧдны водзвыв; Family Caregiver Alliance чӧвтӧ сёрнитны планъяс йылысь сӧмын дзик водзын, сійӧ кӧ сетӧ беспокойство.
 
-## How to adapt the routine
+## Кыдзи лӧсьӧдны кадколаст
 
-### Leave room to breathe
+### Кольӧй места шойччӧмлы
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Энӧ тыртӧй быд минут. Alzheimer's Association тӧдмӧдӧ, мый мортлы колӧ удж да шойччӧмлы равновесие да, вермас лоны, ёнджыка шойччӧм. Сійӧ кӧ кажитчӧ дӧзьӧмӧн, мӧдлаӧ видзӧда либӧ зэв лӧнь, вежӧй уджсӧ либӧ шойччӧй.
 
-### Protect the late afternoon
+### Видзӧй рытнас лунсӧ
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Уна мортлы лӧньлун ёнджыка паськалӧ, кор югыт чинӧ. NIA чӧвтӧ луннас петны уличаӧ либӧ ӧшинь дорӧ югыт понда, быд лун вӧрзьӧдчыны, но энӧ планируй вывті уна, сёрӧн энӧ ю кофе да алкоголь, да энӧ узь кузя сёр рытын. Мукӧд семьяяслы бур, кор занавессӧ пӧдлалӧны да биӧнтӧны пемыд водзын. Видзӧд [рытын лӧньлун](/caregiving/late-day-restlessness/) да [узьӧм](/brain-health/sleep/).
 
-### Change it as needs change
+### Вежӧй сійӧс, кор коланаыс вежсьӧ
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Воддза кад:** планируйтӧй ӧтлаын. Морт вермас кӧсйыны гижӧм план, кӧн сійӧ ачыс веськӧдлысь.
+- **Шӧр кад:** ті ёнджыка веськӧдланныд. Дженьыдджык уджъяс, унджык шойччӧм да уна тӧдса уджъяс; видзӧд [шӧр кадлы уджъяс](/activities/middle-stage/).
+- **Бӧръя кад:** кадколастыс шӧрӧ комфорт, сёйӧм да видзӧдӧм, а костын дженьыд чувственнӧй моментъяс, шуам, музьыка либӧ ки вӧрзьӧдӧм; видзӧд [бӧръя кадлы уджъяс](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Вежӧй уджъяссӧ, но энӧ кадколаст ногсӧ
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Видзӧй сёйӧм, шойччӧм да узьӧм ӧти кадын, а костъяссӧ вежлалӧй. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) чӧвтӧ видлыны торъя уджъяс торъя лунъясӧ, медым эз вӧв скука. Выльлунӧ ті верманныд пӧжавны, воторникӧ садын уджавны, а сердаӧ серпасъяс видзӧдлыны. Миян [101 удж идея](/activities/ideas/) да [гортса уджъяс](/activities/household-tasks/) вермасны тыртны тайӧ кадъяссӧ.
 
-## When the day goes sideways
+## Кор лун оз мун план серти
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Мукӧд лунъяс оз некор мунны план серти. Висӧм, лёк вой, врач дорӧ ветлӧм либӧ поводдя вежсьӧм вермасны ставсӧ вежны. Кольӧй плансӧ, видзӧй медшӧрторсӧ (сёян, юан, шойччӧм, комфорт) да видлӧй аски. Мортыс кӧ оз кӧсйы мыйкӧ вӧчны, видзӧд [кор сійӧ шуӧ «оз кӧсйы»](/caregiving/when-they-say-no/). Ӧтлаын лӧньӧн ловзьӧдчӧм, шуам, [лӧнь ловзьӧдчӧм](/games/calm-breathing/), вермас отсавны тіянлы кокньыдджыка лоны.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Тіян ассьыныд кадколастыс сідзжӧ колана. Лӧсьӧдӧй асьныдлы шойччӧм кад, да корӧй котырсяньныдлысь либӧ отсӧг сетана службаысь отсӧг, медым тіянлы воис тӧдса кад шойччыны. Видзӧд [видзчысьлы ассьыс йылысь тӧждӧм](/caregiving/caregiver-self-care/).

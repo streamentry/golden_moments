@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Сенсорнӧй уджъяс деменцияӧн олысь йӧзлы"
+seoTitle: "Деменция: сенсорнӧй уджъяс да видзӧм"
+description: "Деменцияӧн олысь йӧзлы сенсорнӧй уджъяс: ки массаж, небыд дора корзина, коръяс да вӧр юргӧм. Важнӧй тӧдмӧдӧм лёквисьӧмысь, аллергияысь да дукйысь."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Сенсорнӧй уджъяс уджалӧны видзӧмӧн, дукӧн, кӧрӧмӧн, кывзӧмӧн да аддзӧмӧн:
+  ньӧжйӧ ки массаж, небыд дора корзина, коръястӧ дукӧм, вӧр юргӧм либӧ
+  ӧшинь сайысь лэбачьяс видзӧм. Найӧ лӧсялӧны быд стадия вылӧ, медся ёна
+  отсалӧны сёр стадияын. Медводз видлӧй, абу-ӧ подавитчан 위험, аллергия,
+  куысьтӧм либӧ дуклы чуймӧм. Сетӧй ӧти тор ӧтпырын да дугдӧй, морт кӧ
+  кажитчӧ некомфортнӧя.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Сенсорнӧй уджъяс оз корны веськыд вочакыв, сы понда найӧ уджалӧны быд стадияын, и оланінын ли, пызан вылын ли."
+  - "Сетӧй ӧти чувство вылӧ удж ӧтпырын да лӧнь местаын. Юасьӧй либӧ висьтавӧй водзвыв, мыйкӧ кутан кӧ."
+  - "Эн сетӧй посни торъяс да сійӧс, мый тыдалӧ либӧ дуксьӧ сёянногӧн, но сёян абу, сы вӧсна мый йӧз вермасны сійӧс пыртны вомас."
+  - "Лосьӧн да дукӧн уджалӧм водзын видлӧй, абу-ӧ аллергия, куысьтӧм либӧ ловзьӧм сьӧкта."
+  - "Ароматерапия отсалӧ деменция симптомъяслы кӧть и мыйӧн, сы йылысь ён доказательство абу. Дукӧн вӧдитчӧй сӧмын гажа могысь, эз кӧ ков."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Кутшӧм сенсорнӧй уджъяс бурӧсь деменцияӧн олысь мортлы?"
+    a: "Прӧстӧй юалӧмъяс: ньӧжйӧ ки массаж лосьӧнӧн, небыд дора видлӧм, коръяс либӧ кофейысь дук кывзӧм, радейтана юргӧм либӧ вӧр шыяс кывзӧм, лэбачьяс либӧ чери аквариум видзӧм, да бур сёян лыддьӧм сійӧн текстураӧн, мый лёксьыт. Сетӧй ӧти тор ӧтпырын да видзӧдӧй, кыдзи морт сійӧ вочавидзӧ."
+  - q: "Сенсорнӧй уджъяс лёксьытӧсь-ӧ мортлы, коді пыртӧ вомас ставсӧ?"
+    a: "Да, но видзӧмӧн. Вӧдитчӧй сӧмын ыджыд торъясӧн, мыйӧс оз позь ньылавны. Эн вӧдитчы посни либӧ чеглана торъясӧн. Удж бӧрын лосьӧнъяссӧ, майтӧгъяссӧ да дукана продуктъяссӧ видзӧй ылӧсін, сы вӧсна мый найӧ вермасны тыдавны либӧ дуксьыны сёянногӧн. Морткӧд ӧтлаын вӧв веськыд дырйи."
+  - q: "Ароматерапия отсалӧ-ӧ деменция дырйи?"
+    a: "Cochrane видлалӧмын абу аддзӧма ён доказательство, мый ароматерапия отсалӧ деменцияӧн олысь йӧзлы, тшӧтш велӧдӧмъяс вӧліны ичӧт да абу ӧткодь. Мортлы кӧ гажӧ тӧдса небыд дук, бура сійӧн вӧдитчыны. Но ён эфирнӧй выйясӧс колӧ вӧдитчыны видзӧмӧн, медся ловзьӧм сьӧкта либӧ аллергия дырйи."
+  - q: "Мый сійӧ «уджавны позяна фартук» либӧ пызан вылӧ юкӧн?"
+    a: "Тайӧ дора кускыд, фартук либӧ пызан вылӧ юкӧн, кытчӧ ёна вурӧмаӧсь кутны позяна торъяс: ыджыд личкӧдъяс, молнияяс, лентаяс да торъя текстураа кускыдъяс. Сійӧ сетӧ занято киӧс видлавны. Тшӧтш видлӧй, абу-ӧ кытшӧвтӧмтор, мый позьӧ кыскыны."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Сенсорнӧй уджъяс уджалӧны вит чувствоӧн: видзӧмӧн, дукӧн, кӧрӧмӧн, кывзӧмӧн да аддзӧмӧн. Найӧ оз корны казьтылӧм, стӧч кутшӧмкӧ кадакывъяс либӧ веськыд вочакыв, сы понда найӧ вермасны отсавны быд стадияын. Медся ёна найӧ коланӧсь сёр стадияын. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) висьталӧ, мый сёр стадияын морт медся ёна аддзӧ да гӧгӧрвоӧ мирсӧ чувствояс пыр. Ті верманныд петкӧдлыны дона видзӧмӧн, шыӧн, аддзӧмӧн, кӧрӧмӧн да дукӧн. Неуна прӧстӧй видзӧм отсалӧ тайӧ уджъяслы лоны спокойнӧйӧн быдӧнлы.
 
-## What are sensory activities for dementia?
+## Мый сійӧ сенсорнӧй уджъяс деменция дырйи?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Сенсорнӧй уджъяс — тайӧ прӧстӧй гӧгӧртасъяс, мый уджалӧны ӧти чувство вылын ӧтпырын. Шуам, дора видлӧм, коръяс дукӧм либӧ зэр юргӧм. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) висьталӧ, мый сёр стадияын уджъяслы колӧ зільны чувствояс вылӧ. Сійӧ шуӧ музыка йылысь, кутны позяна торъяс йылысь да ки массаж йылысь. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) тӧдмӧдӧ, мый сёр стадияын олысь йӧзлы вермас лоны ыджыд окота кутны матын кытшӧмкӧ небыд тор, медым лоны спокойнӧйӧн.
 
-## Sensory ideas, sense by sense
+## Сенсорнӧй юалӧмъяс чувство серти
 
-### Touch
+### Видзӧм (кутны, инмыны)
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Ки массаж.** Шонты неуна лосьӧн кияныд, сэсся ньӧжйӧ новлӧдлӧй кисӧ часӧд чуньясӧдз. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) шуӧ, мый дуктӧм лосьӧнӧн массаж вермас сетны комфорт.
+- **Дора корзина.** Ыджыд кускыдъяс бархат, вельвет, флис, атлас да вурун, мыйӧс позьӧ видлавны, т foldsӧм да сёрнитны сы йылысь.
+- **Шоныд резина.** Шоныд, ваӧн кисьталӧм резина киӧс шонтыны кӧдзыд лунӧ. Медводз видлӧй шонтӧмсӧ ассьыныд час вылын.
+- **Уджавны позяна фартук либӧ пызан вылӧ юкӧн.** Ыджыд личкӧдъяс, молнияяс, лентаяс да текстураа кускыдъяс, мыйӧс ёна вурӧмаӧсь.
+- **Т foldsӧм да чышкалӧм.** Корзина сӧстӧм ки резинаясӧн либӧ салфеткаӧн, мыйӧс позьӧ т foldsны, лӧсьӧдны да бара т foldsны.
+- **Небыд тор кутны.** Флис юкӧн, подушка либӧ небыд чорыд пемӧс, мыйӧс сетӧны прӧста, оз ков видзӧдны сійӧ вылӧ кыдз ворсан вылӧ.
 
-### Smell
+### Дук
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Выль коръяс.** Ниртӧй мята, розмарин, базилик либӧ лаванда листъяс ассьыныд чуньяс костын да сетӧй дукӧдлыны.
+- **Кухня дукъяс.** Кофе, ньӧбӧм нянь, корица либӧ матын с peelӧм апельсин.
+- **Дзоридзъяс.** Вайӧй сад йысь либӧ лавкаысь неуна выль дзоридз.
+- **Тӧдса продукт.** Сійӧ майтӧг либӧ лосьӧн, мыйӧн морт пыр вӧдитчис, сы кӧ куысӧ сійӧс буретш терпитӧ.
 
-### Taste
+### Кӧрӧм
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Радейтана вкус.** Ичӧт пельӧс сійӧ сёянысь, мый морт радейтӧ, шуам, яблок пюре, пудинг либӧ мороженӧй, сійӧн текстураӧн, мый лёксьыт.
+- **Пӧжӧмын отсӧг.** Лыддьыны вотӧс либӧ ичӧт глазур, ті кӧ ӧтлаын пӧжанныд.
+- **Сезоннӧй сёян.** Арбуз гожӧмын, шоныд сидр тӧлын, сійӧ шонтӧм вылын, мый лёксьыт.
 
-### Sound
+### Кывзӧм
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Радейтана юргӧм.** Тӧдса сьыланкывъяс небыд шыӧн. Видзӧд [музыкаӧн удж](/activities/music/).
+- **Вӧр шыяс.** Зэр, саридз шы либӧ лэбач юр. NIA висьталӧ, мый музыка, «тӧд шы» да вӧр шыяс мукӧд йӧзӧс вермасны лӧньӧдны.
+- **Тіян гор.** Вылыс лыддьӧм, пригудитӧм либӧ висьт сёрнитӧм.
+- **Прӧстӧй инструментъяс.** Кипом барабан, шуршалӧм либӧ колокольчик, медым сьылӧдны музыка бӧрын.
 
-### Sight
+### Аддзӧм
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Ӧшинь сайысь видзӧм.** Лэбач кормушка ӧшинь сайын, челядь ветлӧм мунысь, либӧ лым усьӧм.
+- **Чери аквариум либӧ ньӧжйӧ видео.** Лӧнь вӧрзьӧдчӧм громкӧй шытӧг.
+- **Ыджыд серпасъяс.** Ӧти яснӧй серпас ӧтпырын, син водзын.
+- **Рӧма да узоръяс.** Гӧгрӧс дора кускыдъяс, дзоридзъяс либӧ рӧма салфеткаяс бӧрйӧм, либӧ прӧстӧй серпас мися [coloring](/games/coloring/) набормысь.
+- **Петанін.** NHS юалӧ сенсорнӧй садъяс йылысь, кӧні эмӧсь дукана быдмӧгъяс, торъя текстураяс да ва элементъяс. Видзӧд [петанін да сад йын удж](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Кыдзи лӧсьӧдны сенсорнӧй коробка
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Бӧрйӧй тема,** мый йитчӧма морт олӧмкӧд: саридз берег, сад, кухня, мастерскӧй, вурӧм.
+2. **Бӧрйӧй вит либӧ квайт ыджыд, лёксьыт тор,** шуам, ыджыд саридз ракушка, пу пань, небыд шарф, лавандаӧн вурӧм мешӧчок либӧ шыльыд пу кубик.
+3. **Видлӧй быд торсӧ:** абу-ӧ посни юкӧнъяс, ёсь помъяс, ыстӧм нитшъяс либӧ чеглана торъяс.
+4. **Сетӧй ӧти тор ӧтпырын.** Сетӧй киас, висьтавӧй сы йылысь да лэдзӧй мортлы видлавны.
+5. **Удж бӧрын коробкасӧ пуктӧй ылӧсін,** медым сійӧ вӧлі торъя, да водзын выльысь уджалӧм водзын бара видлӧй быд торсӧ.
 
-## Safety first
+## Медводз — лёксьытлун
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Сенсорнӧй уджъяс ньӧжйӧсь, но колӧ тӧдны неуна торйӧдӧм рискъяс йылысь. Деменцияӧн олысь мукӧд йӧз вермасны сёянтӧг торъяссӧ видзӧдны сёянӧн, а кад мунӧм бӧрын ньылавны вермас лоны сьӧкыдджык. NIA тӧдмӧдӧ, мый сёр стадияын ньылавны сьӧкыдлун ыстыӧ подавитчан рисксӧ.
 
-| Risk | What to do |
+| Риск | Мый вӧчны |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Подавитчӧм | Вӧдитчӧй сӧмын сы кодь ыджыд торъясӧн, мыйӧс оз позь ньылавны. Эн лэдз посни личкӧдъяс, бисер, уръяс, шарикъяс либӧ посни ворсанторъяс коробкаын. Сёян сетӧй сӧмын сы текстураын, мый отсӧг сетан команда шуис лёксьытӧн. |
+| Торъяс, мый тыдалӧны сёян кодь | NIA шуӧ, колӧ пӧдлавны лосьӧнъяс, майтӧгъяс, шампуньяс да духи, сы вӧсна мый найӧ вермасны тыдавны либӧ дуксьыны сёянногӧн. Вештыштӧй искусственнӧй вотӧссӧ. Сенсорнӧй продуктъяссӧ удж бӧрын пуктӧй ылӧсін. |
+| Аллергия | Удж заводитӧм водзын видлӧй, абу-ӧ аллергия орех вылӧ, латекс вылӧ, вурун вылӧ, быдмӧгъяс вылӧ либӧ дукъяс вылӧ. |
+| Ён дукъяс | Эн вӧдитчы ён духиӧн да эфирнӧй выйӧн, медся астма либӧ мукӧд ловзьӧм сьӧкта дырйи. Небыд, естественнӧй дукъяс лёксьытджыкӧсь. |
+| Куысь | Массаж водзын видлӧй, абу-ӧ дой, потшӧм либӧ векньыд куыс. Вӧдитчӧй ньӧжйӧн, да дугдӧй, морт кӧ чуймӧ висьӧм. |
+| Шонтӧм | Шоныд резинаяссӧ да юанторсӧ медводз видлӧй ассьыныд час вылын. |
+| Ёсь либӧ ядовитӧй торъяс | Эн вӧдитчы ёсь инструментъясӧн, пиялаӧн либӧ ядовитӧй творческӧй материалъясӧн. |
 
-## Does aromatherapy help?
+## Отсалӧ-ӧ ароматерапия?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Вермас лоны, измеритны позяна ногӧн — оз. [Cochrane видлалӧм ароматерапия йылысь деменция дырйи](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) видліс 13 велӧдӧм, кӧні участвуйтісны 708 морт, ставныс олісны видзан домъясын. Ён отсӧг йылысь доказательство абу аддзӧма. Велӧдӧмъяс вӧліны ичӧт, результатъяс абу ӧткодь, а бокӧвӧй эффектъяс йылысь юӧр вӧлі омӧль. Мортлы кӧ гажӧ тӧдса небыд дук, шуам, садса лаванда, бура сійӧн вӧдитчыны. Но тайӧ бурдӧдан ног абу.
 
-## How to offer a sensory activity
+## Кыдзи юкны сенсорнӧй удж
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Бӧрйӧй лӧнь кад** да кусӧдтӧй телевизор.
+- **Локтӧй водзсьыныс,** шуӧй нимсӧ да юасьӧй либӧ висьтавӧй водзвыв, мыйкӧ кутан кӧ: «Менам эм лосьӧн. Массажитны-ӧ тикӧ кияс?»
+- **Сетӧй ӧти тор ӧтпырын,** медым оз лоны уна вывті.
+- **Видзӧдӧй вочакыв вылӧ.** Небыдджык чужӧм, лӧнь ки либӧ ним кодь — бура пасъяс. Морт кӧ бӧр бергӧдчӧ, чужӧмсӧ чукӧртӧ либӧ лоны оз нин спокойнӧй, дугдӧй.
+- **Эн вӧдитчы кузя.** Вит минут лӧнь кад — бур удж.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Ті верманныд помавны ӧтлаын ньӧжйӧ ловзьӧдӧмӧн, шуам, [calm breathing](/games/calm-breathing/). Оланін вылын содтӧд юалӧмъяс видзӧд [сёр стадиялы уджъяс](/activities/late-stage/) лист бокын, а рытнас беспокойство йылысь — [рытнас беспокойство](/caregiving/late-day-restlessness/) лист бокын.

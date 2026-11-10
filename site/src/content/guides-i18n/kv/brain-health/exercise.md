@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Вежӧрӧн ветлӧм да юрвеж дзоньвидзалун: туялысьӧм"
+seoTitle: "Вежӧрӧн ветлӧм да деменция: туялысьӧм"
+description: "Мый туялысьӧм висьталӧ вежӧрӧн ветлӧм да деменция риск йылысь, да кыдзи арӧса йӧзлы да деменцияӧн олысь йӧзлы лӧсьыда ветлыны."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Туялысьӧм петкӧдлӧ, мый быдлунъя вежӧрӧн ветлӧм йитчӧма этшаджык деменция рискӧн, да 2024 вося
+  Lancet комиссия лыддьӧ вежӧрӧн ветлавтӧм 14 вежны позяна фактор пиысь ӧтикӧн. Испытаннёяс эз
+  петкӧдлӧй, мый вежӧрӧн ветлӧм дугдӧдӧ деменция. Вежӧрӧн ветлӧм отсасянь отсалӧ вынлы, дзонь
+  сулавны, кӧлӧмлы да узьӧмлы, сідзкӧ ветлӧм, пукавтӧг вежӧръяс да йӧктӧм бурӧсь ас пытшкысь.
+  Выльӧн мыйкӧ заводитӧм водзӧ видзӧдлы врачкӧд.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Вежӧрӧн ветлысь йӧзлӧн, шӧркоддясянь, деменция риск этшаджык, но тайӧ подулунъяс пырджык видзӧдӧм туялысьӧмысь, абу клиническӧй испытаннёясысь."
+  - "Вит вося испытаннэын арӧса йӧзлӧн мӧвпалӧм вын йылысь чӧткыта торъялӧм группаӧдз костын эз аддзись."
+  - "CDC 65 во да ыджыдджык йӧзлы индалӧ аэробнӧй, вын содтысян да дзонь сулавны отсалысь уджъяс, да шуӧ, мый неуна вежӧрӧн ветлӧм бурджык, нӧдз эз кӧ."
+  - "Деменцияӧн олысь мортлы медбурӧн колӧны дженьыд, тӧдса да ӧтвыв ветлӧмъяс, шуам, быдлунъя ветлӧм либӧ пукавтӧг ворсӧм, абу мыйкӧ лыд."
+  - "Нёль морт пиысь ӧтикысь унджык арӧса морт во сайын усьӧ, сідзкӧ дзонь сулавны отсалысь удж да лӧсьыд места медводдзаӧн колӧны."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Вежӧрӧн ветлӧм вермӧ-ӧ дугдӧдны деменция?"
+    a: "Тайӧ йылысь некод оз вермы кӧсйыны. Уна туялысьӧм йитӧ зільӧм да этшаджык деменция риск, но клиническӧй испытаннёяс эз петкӧдлӧй, мый вежӧрӧн ветлӧм дугдӧдӧ сійӧс. Вежӧрӧн ветлӧмлӧн эм мукӧд бурторъяс тӧдсаӧн, сідзкӧ сійӧ колана."
+  - q: "Лӧсьыд-ӧ деменцияӧн олысь мортлы вежӧрӧн ветлыны?"
+    a: "Пырджыкысь да, кӧ водзвыв лӧсьӧдны. Ӧтланьӧв видзан институт (NIA) индалӧ выль удж заводитӧм водзӧ видзӧдлы мортлысь врачкӧд, бӧрйыны лӧсьыд кӧмкот, сетны юны, да видзны уджъяссӧ дженьыдӧн. Дугдӧй, кӧ морт мудзӧм, оз дзонь сулав либӧ оз нимкодь."
+  - q: "Кутшӧм вежӧръяс позьӧ вӧчны пукавтӧг?"
+    a: "Пукавтӧг позьӧ вӧчны пызан вылын вундан вежӧръяс либӧ пукавтӧг йога, шыблалӧм шарик либӧ небыд мач, нюръяс шыблалӧм, шыдӧс банкаъяс кыпӧдӧм, резина петляӧн вежӧръяс да кок педальӧн вежӧръяс. Тайӧ бур вариантъяс, кӧ ветлӧм сьӧкыд."
+  - q: "Мый вӧчны, кӧ морт оз кӧсйы ветлыны?"
+    a: "Эн вӧрзьӧд. Видлы бӧртынь, ветлы ӧтвыв асланыд, юкталы тӧдса сьыланкыв, либӧ вежӧрӧн ветлӧмсӧ вежӧ гӧртса удж вылӧ, шуам, посйӧм либӧ пуктасъяс ваӧдӧм. Дженьыд ветлӧм почта ящикӧдз тшӧтш — и ӧтвыв ортсын пукавтӧм тшӧтш бур."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Зільӧм — юрвеж дзоньвидзалун йылысь туялысьӧмын медуна велӧдӧм ӧткодьлун пиысь ӧти. Туялысьӧм петкӧдлӧ, мый сійӧ йитчӧма этшаджык деменция рискӧн, но эз петкӧдлы, мый вежӧрӧн ветлӧм дугдӧдӧ деменция. Яснӧ сійӧ, мый ветлӧм отсалӧ вынлы, дзонь сулавны, кӧлӧмлы да узьӧмлы кыдзи сёр арын. Тайӧ лист бокын ми висьталам, мый туялысьӧм шуӧ, кымын вежӧрӧн ветлӧм индалӧны арӧса йӧзлы да кыдзи лӧсьыда ветлыны деменцияӧн олысь морткӧд.
 
-## Does exercise lower the risk of dementia?
+## Вежӧрӧн ветлӧм чинтӧ-ӧ деменция риск?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Туялысьӧм петкӧдлӧ, мый вежӧрӧн ветлысь йӧзлӧн, вермас лоны, деменция этшаджык тӧдчӧ, но эскӧдӧмлӧн эм дзескыдъяс. [2024 вося деменция йылысь Lancet комиссия](https://doi.org/10.1016/S0140-6736(24)01296-0) лыддьӧ вежӧрӧн ветлавтӧм 14 вежны позяна фактор пиысь ӧтикӧн. Аслас модельын тайӧ 14 факторӧн позьӧ висьтавны му шар пасьтала деменцияыслӧн 45% гӧгӧр.
 
-Here is what the evidence looks like:
+Эскӧдӧмыс тадзи петкӧдчӧ:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Видзӧдӧм туялысьӧмъяс ӧтиладорӧ ветлӧны.** 58 туялысьӧм видлалӧм, код йылысь комиссия висьталӧ, петкӧдліс, мый вежӧрӧн ветлысь йӧзлӧн деменция риск 20% гӧгӧр этшаджык. Медыджыд торъялӧмыс вӧлі дзик ветлавтӧм йӧз да неуна кӧть ветлысь йӧз костын.
+- **Йитчӧмыс вермас лоны кыкладорсяньыс.** Комиссия шуӧ, мый ветлавтӧмыс вермӧ содтыны риск. Сідзжӧ шуӧ, мый деменциялӧн воддза вежсьӧмъясыс, кодъяс заводитчӧны диагноза водзын воӧн, вермасӧ чинтыны зільӧм.
+- **Испытаннёяс эз сет чӧткыд петкӧдлас.** Ӧти испытаннэын 945 арӧса мортлы, шӧркодд 78 арӧса, вӧліны сідз: мӧд группа вежӧрӧн ветліс недыр сайын кыкысь видзӧдӧм улын вит во, мӧд группа — абу. Помалігӧн мӧвпалӧм вын йылысь чӧткыта торъялӧм эз аддзись. Ӧткодь группаын уна морт тшӧтш вӧліны зільӧсь, сійӧ вӧчӧ петкӧдлассӧ гӧгӧрвоны сьӧкыдджыкӧн.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Ӧтланьӧв видзан институт (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) шуӧ весиг торйӧн. Вежӧрӧн ветлӧм да Альцгеймер висьӧм дугдӧдӧм костын чӧткыд йитчӧм абу аддзӧма, да оз тырмы испытаннэяслӧн эскӧдӧм шуны, мый вежӧрӧн ветлӧм дугдӧдӧ либӧ ньӧжмӧдӧ сійӧс. Вежӧрӧн ветлӧм чинтӧ усьӧм, шоглун, диабет, вывті ыджыд вирим ӧд да инсульт риск. Тайӧ висьӧмъяс мукӧдыс йитчӧмаӧсь мӧвпалӧм вын чинтӧмкӧд.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Честнӧя шуӧмӧн, колӧ ветлыны сы понда, мый сійӧ отсалӧ бурджыка овны да уджавны талун. Юрвежлы вермас лоны буртор — сійӧ позянаӧн, абу кӧсйӧмӧн.
 
-## How much activity do older adults need?
+## Кымын вежӧрӧн ветлӧм колӧ арӧса йӧзлы?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC-лӧн 65 во да ыджыдджык йӧзлы инданнӧй](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) недыр сайын вӧчны куим сикас удж:
 
-| Type | Weekly amount | Examples |
+| Сикас | Недыр сайын кымын | Видлӧгъяс |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Аэробнӧй | Этшаджык 150 минут шӧр лыдпас вылын удж, шуам, 30 минут 5 лун сайын | Ӧдйӧ ветлӧм, йӧктӧм, ваын аэробика |
+| Вын содтысян | Этшаджык 2 лун, став медся ыджыд мышкаяслы | Лёк гирьяяс либӧ шыдӧс банкаъяс кыпӧдӧм, резина петляяс |
+| Дзонь сулавны отсалысь | Быдлунъяысь | Пыдді пыддӧ пуктӧмӧн ветлӧм, пызан вылысь чеччӧм |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Тайӧяс — могъяс, абу заводитан условиеяс. CDC шуӧ: кӧ тадзи тыртны оз позь, вӧч кымын вермӧны тіян вын да дзоньвидзалун. Неуна вежӧрӧн ветлӧм бурджык, нӧдз эз кӧ.
 
-## Gentle ways to move for older adults
+## Арӧса йӧзлы лӧсьыд ветлӧм ногъяс
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Ветлы ёрткӧд.** Быдлунъя ветлӧм ёрткӧд, гӧрткӧд либӧ ветлан чукӧркӧд босьтӧ сёрнитӧм да видзӧдӧм.
+- **Пызан вылын вежӧръяс.** Пукавтӧг ки кыпӧдӧм, кӧтшалян гӧгрӧстӧм, местаын восьлӧм да пукавтӧг йога содтӧны вын дзонь сулавны рисктӧг.
+- **Йӧкты кухняын.** Юкталы сьыланкывъяс мортлысь том да комсомол дырся, да вежны, чӧвтлыны либӧ восьлавны. [Сьыланкыв уджъяс йылысь тӧдмӧдан лист бокын](/activities/music/) эм унджык юалӧм.
+- **Гӧртса могъясӧн вын содтӧм.** Кыпӧдлы тыртӧм ва бутылкаяс либӧ шыдӧс банкаяс радейтана передача видзӧм дырйи.
+- **Уджав садын либӧ гортын.** Пуктасъяс ваӧдӧм, коръяс чукӧртӧм, посйӧм да паськӧм дозйӧм тшӧтш лыддьыссьӧны. Видзӧд [сад да ортсы уджъяс](/activities/outdoor-and-gardening/) да [гӧртса уджъяс](/activities/household-tasks/).
+- **Ваын вежӧръяс.** NIA лыддьӧ ваын аэробикас бур вариантӧн тайӧ йӧзлы, кодлы выв ветлӧм вӧчӧ выввезлӧн дой.
 
-## How to exercise with someone living with dementia
+## Кыдзи вежӧрӧн ветлыны деменцияӧн олысь морткӧд
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Деменцияӧн олысь мортлы медся колана — лӧсьыда овны, нимкодь да видзны быдлунъя уджъяс, абу мыйкӧ лыд тыртӧм. NIA шуӧ, мый вежӧрӧн ветлӧм отсалӧ видзны Альцгеймер висьӧмӧн олысь мортлысь мышкаяссӧ, выввезъяссӧ да сьӧлӧмсӧ бурын, сідзжӧ вермӧ бурмӧдны кӧлӧм да узьӧм. Выль удж заводитӧм водзӧ видзӧдлы врачкӧд. [NIA-лӧн видзчысь йӧзлы тӧдмӧданінсянь](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) индӧдъяс:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Ветлыны ӧтвыв быд лун.** Бӧрйыны лӧсьыд, тӧдса туй дзескыдтӧг. Кӧ морт ветлӧ асмознас, бур лоӧ тэнад телефон номерӧн ID браслет.
+2. **Видлы арӧса йӧзлы вежӧр видео.** Вӧчны ӧтвыв — пукавтӧг либӧ сулавтӧг.
+3. **Видзны уджъяссӧ дженьыдӧн.** Уна дженьыд «мини-удж» вермас лоны бурджык ӧти кузьысь.
+4. **Юкталы сьыланкыв.** Тӧдса сьыланкывъяс вежӧрӧн ветлӧмсӧ вӧчӧны нимкодь уджӧн, абу лыдпассӧн. Йӧктыны, кӧ мортлы кажитчӧ.
+5. **Сетны юны да лӧсьыд кӧмкот.** Сетны ва либӧ сок удж дырйи да бӧрын, да бӧрйыны лӧсьыд паськӧм да уджлы лӧсялана кӧмкот.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Кӧ ветлӧм сьӧкыд, [NIA-лӧн Альцгеймер висьӧмӧн мортӧс видзӧм йылысь тӧдмӧданін](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) индалӧ пукавтӧг вариантъяс. Тайӧ пызан вылын вежӧръяс либӧ йога, нюр шыблалӧм, небыд мач либӧ шарик шыблалӧм, резина петляяс, лёк гӧртса могъяс кыпӧдӧм да кок педальӧн вежӧръяс. Прӧстӧй уджъяс, шуам, посйӧм да чышкӧм, тшӧтш лыддьыссьӧны.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Буретш вежӧртны, мый ветлӧм вермӧ вӧчны. Lancet комиссия эз аддзы эскӧдӧм, мый вежӧрӧн ветлӧм чинтӧ олас вежсьӧмъяс, шуам, беспокойство. Ветлыны ӧтвыв сы понда, мый сійӧ вермӧ сетны бур кӧлӧм, абу сьӧкыд лун бурмӧдӧм могысь. Кӧ морт шуӧ «оз», сійӧ бур. Миян [«Кор морт шуӧ „оз“»](/caregiving/when-they-say-no/) лист бокын эм лӧсьыд ногъяс бӧртынь видлыны. Водзджык дугдӧм либӧ ӧтвыв ортсын пукавтӧм тшӧтш бур петкӧдлас.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Ветлӧм бӧрын лӧнь лолалӧм, шуам [Лӧнь ловъя лысьтӧм](/games/calm-breathing/), вермӧ отсавны тіянлы кыкнанныд лӧньтчыны. Пукавтӧг лӧсьыд уджлы, кӧні киыс неуна ветлӧ, бурӧсь [Ӧтвыв тэчам](/games/sort-together/) да [Серпас бинго](/games/picture-bingo/) пызан дорын.
 
-## Balance and fall safety
+## Дзонь сулавны да усьӧмлӧн видзӧдӧм
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Усьӧмъяс тӧдчӧны унаысь да вермасӧ лоны сьӧкыдӧсь. [CDC висьталӧ](https://www.cdc.gov/falls/data-research/facts-stats/index.html), мый нёль морт пиысь ӧтикысь унджык арӧса морт во сайын усьӧ, но джынйысь этшаджыкыс висьталӧны врачлы. Ӧтчыд усьӧмыс кык пӧв содтӧ мӧдысь усьӧм вермӧм. CDC индалӧ татшӧм риск факторъяс:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Кок да бедр вынтомлун
+- Ветлӧмын да сулавӧмын сьӧкыдлун
+- Мукӧд лекарствояс, шуам, лӧньӧданъяс да мукӧд антидепрессантъяс
+- Синмыд дзуглун
+- Кок дой либӧ абу лӧсялана кӧмкот
+- Гортса дзескыдъяс, шуам, кӧлавтӧм, валяна коврикъяс да торкалӧм восьтысъяс
 
-To move more safely:
+Кыдзи лӧсьыдджыка ветлыны:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Вӧдитчыны вын йӧз пызан**, кӧлесатӧм, да видзны сулавны удж дырйи орччаын дор либӧ дӧра.
+- **Водзвыв весавны местасӧ** коврикъясысь, проводъясысь да кӧлавтӧмысь.
+- **Чеччигӧн вӧчны ньӧжйӧ**, да дугдӧй, кӧ мортлы юрбергӧдчӧ либӧ оз дзонь сулав.
+- **Паськӧдны отсалысь кӧмкот**, абу носки либӧ ырысь тапки.
+- **Вежны дзонь сулавны отсалысь удж дор дінӧ.** Пызан вылысь чеччӧм да пыдді пыддӧ пуктӧмӧн ветлӧм — CDC-лӧн индӧм видлӧгъяс.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC индалӧ, мый арӧса морт, кӧ усьӧма да юрсӧ жугӧдӧма, колӧ пыр видзӧдлы врачкӧд, тӧдчана, кӧ сійӧ юӧ вир судзӧдан лекарствояс. 
 
-## Talk with a doctor
+## Сёрнитны врачкӧд
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Выль вежӧрӧн ветлан удж заводитӧм водзӧ видзӧдлы врачкӧд, тӧдчана деменцияӧн, сьӧлӧм либӧ тӧв висьӧмӧн, выввез дойӧн, сулавны сьӧкыдлунӧн мортлы. Врач либӧ кинезитерапевт вермас индыны лӧсьыд уджъяс да видзӧдлы, лекарствояс кыдзи вайӧдӧны сулавӧм вылӧ. Висьтавлы врачлы быд усьӧм йылысь, дойтӧмӧн кӧть. Кӧ удж дырйи мыйкӧ висӧ либӧ оз лӧсяв, дугдӧй. Кӧ виччысьтӧг морӧс дойӧ, сьӧкыда ловзяссьӧны либӧ виччысьтӧг гӧгӧрвоӧмыс вежсьӧ, шуӧй 112.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Тайӧ лист бокыс — ӧтувъя юӧр, абу медшӧр тӧдмӧдӧм. Видзӧд миян [медшӧр юӧртӧм](/medical-disclaimer/). Медводдзасянь гӧгӧрвоны понда лыддьӧй [мый туялысьӧм висьталӧ деменция риск факторъяс йылысь](/brain-health/risk-factors/) да [вермас-ӧ деменцияысь видзчысьны](/brain-health/can-dementia-be-prevented/).

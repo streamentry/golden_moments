@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Шӧр кадколаст деменция дырйи уджъяс"
+seoTitle: "Шӧр кадколаст деменция: кокни уджъяс"
+description: "Кокни уджъяс шӧр кадколаст деменция дырйи: гортса уджъяс, сьыланкывъяс, серпасъяс да кокни ворсӧмъяс, дасьтӧм да отсӧг серти."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Шӧр кадколаст деменция дырйи бурджык уджъяс — дженьыд, тӧдса да ӧти
+  крокӧн юклӧма: дӧраа гӧграсьӧм, носкияс ӧтувтӧм, пызан мыськӧм,
+  сьылӧм, видзӧдӧмӧн ветлӧм, серпас альбомъяс видлалӧм да кокни серпас
+  ворсӧмъяс. Дасьтӧй ставсӧ, петкӧдлӧй медводдза кроксӧ, сьӧкыдджык
+  торъяссӧ ассьыныд босьтӧй да сетӧй уджлы мог. Дугдӧй, кор удж оз нин
+  нимкодь.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Тӧдса гортса уджъяс шӧрын бурджыка уджалӧны, сы вӧсна мый найӧ сетӧны йӧзлы колана да ыджыд мортлы лӧсялана лов."
+  - "Петкӧдлӧй, оз ков шуны уна; вӧдитӧй ӧти крокӧн да сетӧй кык кокни бӧрйӧм, абу ыджыд юалӧм."
+  - "Медсьӧкыд торсӧ босьтӧй ассьыныд, медым мортлы кольӧ нимкодь торыс."
+  - "Морт, коді оз лӧнь, шӧрын корсьӧ мыйкӧ вӧчны. Сетӧй лӧсялана удж, а оз «оз ков»."
+  - "Видзӧдны, ичӧт отсавны либӧ водзджык дугдыны — ставыс бур."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Кутшӧм уджъяс лӧсялӧны шӧр кадколаст деменция дырйи?"
+    a: "Шӧрын бурджыка уджалӧны дженьыд, тӧдса, киӧн вӧчана уджъяс: небыд дӧраа гӧграсьӧм, носкияс ӧтувтӧм, пызан мыськӧм, пызанвыв дасьтӧм, важ радейтана сьыланкывъяс сьылӧм, видзӧдӧмӧн ветлӧм, серпас альбомъяс видлалӧм да кокни серпас ворсӧмъяс. Юклӧй быд удж ӧти крокӧн да вӧчӧй ӧтлаын."
+  - q: "Кыдзи отсавны деменцияӧн мортлы заводитны удж?"
+    a: "Дасьтӧй ставсӧ водзын, сэсся заводитӧй уджсӧ ассьыныд да корӧй отсӧг: «Верманныд-ӧ отсавны меным тайӧ дӧрааӧн?» Уна морт кӧсйӧ пырны уджӧ, но сылы сьӧкыд заводитны. Медводдза кроксӧ петкӧдлӧм шӧрын бурджык, серти висьтавлӧмысь."
+  - q: "Мый вӧчны, кор сійӧ вӧчӧ ӧти жӧ торсӧ выльысь-выльысь?"
+    a: "Выльысь вӧчӧм шӧрын лоӧ торъялана да вермас петкӧдлыны, мый мортлы ковмас удж да лӧньлун. Оз ков видлалӧм, сетӧй сылы лӧсялана удж, шуам, коробка чышкӧд дӧраа гӧграсьны либӧ ӧтлаын сьыланкыв сьылны."
+  - q: "Мый вӧчны, кор сійӧ вӧчӧ уджсӧ абу веськыда?"
+    a: "Торъялана кӧ, кольӧй тадзи. Дӧраа мӧд ногӧн гӧгрӧма либӧ паньяс абу ыстӧм вӧрын — тайӧ абу ыджыд. Видлалӧм вермас лоны мыждӧм кодь, а сылы кыдзи бур сетӧ лоны вынӧн да коланаӧн."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Шӧр кадколас деменция дырйи шӧрын медкузьыс, и сійӧ кадӧ уджъяслы ковмас ыджыдджык отсӧг. Кывъяс сёрнитны сьӧкыдджык, крокъяс сорлалӧны, и мыйкӧ заводитны вермас лоны сьӧкыд. Но колана лоны да пырны уджӧ кӧсйӧм шӧрын кольӧ. Ичӧт дасьтӧмӧн шӧр кадколаст деменцияӧн морт вермас на нимкодь вӧчны уна тор, медся тӧдса гортса уджъяс, сьыланкывъяс да серпасъясӧн уджалӧм, тіянкӧд ӧтлаын.
 
-## What activities work well in middle-stage dementia?
+## Кутшӧм уджъяс бурджыка лӧсялӧны шӧр кадколаст деменция дырйи?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Бурджыка уджалӧны дженьыд, тӧдса, киӧн вӧчана уджъяс, кодъяс юклӧма ӧти крокӧн. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) шуӧ, мый оз ков аддзыны выль уджъяс: удж вермас лоны быдлунъя оланын, шуам, ӧтлаын сёян дасьтӧм, сад йӧрын уджалӧм, сьыланкывъяс кывзӧм либӧ ветлӧм.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) висьталӧ, мый тайӧ кадколасын йӧзлӧн шӧрын лоӧ ыджыд ковлун ловны коланаӧн либӧ видзны мыйкӧ йылысь, и налӧн ковмас отсӧг удж заводитны да нуӧдны. Шӧр кадколаслы индӧма дӧраа гӧграсьӧм, пызан мыськӧм, носкияс ӧтувтӧм, кокни зарядка, тӧдса сьыланкыв вылӧ йӧктӧм, видзӧдӧмӧн ветлӧм, ӧтлаын сьылӧм, кокни серпас гижӧм да серпас альбомъяс видлалӧм.
 
-## How do you set up an activity so it works?
+## Кыдзи дасьтыны удж, медым сійӧ бура артмис?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Удж шӧрын уджалӧ либӧ оз уджав дасьтӧм вылын. Тайӧ привычкаяс, кодъяс босьтӧма [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) да [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) сайтъяссянь, медся отсалӧны:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Весавӧй места.** Кусӧдӧй телевизор, пӧдлавӧй ӧдзӧссӧ да пуктӧй сэтчӧ дзик сійӧ, мый колӧ уджлы.
+2. **Заводитӧй ассьыныд.** Заводитӧй гӧграсьны либӧ ворсны да корӧй пырны: «Верманныд-ӧ отсавны меным тайӧӧн?»
+3. **Петкӧдлӧй, сэсся видзӧдлӧй.** Петкӧдлӧй ӧти крок. Вежӧртӧй чуньӧн, шуам, кӧні пукавны пань.
+4. **Сетӧй ӧти крок ӧтчыд.** «Гӧгрӧй джынйӧ» кокниджык, «Гӧгрӧй тайӧяссӧ да пуктӧй рӧм серти».
+5. **Сетӧй кык бӧрйӧм, а оз ыджыд юалӧм.** «Лӧз дӧрааяс либӧ еджыдъяс?» кокниджык вочавидзны, «Кутшӧмсӧ ті кӧсъянныд вӧчны?»
+6. **Сьӧкыд торсӧ вӧчӧй ассьыныд.** Ті мерайтанныд, сійӧ ворас. Ті сюйланныд, сійӧ гартас сизимсӧ.
+7. **Сетӧй уджлы мог.** «Тайӧ салфеткаыс лоас вежалунъя сёян вылӧ» уджсӧ вӧчӧ збыль коланаӧн.
+8. **Лэдзӧй сылы видзӧдны, кӧсйӧ кӧ.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) висьталӧ, мый видзӧдӧм сідзи жӧ вермас лоны нимкодь.
 
-## Activity ideas for the middle stage
+## Удж торъяс шӧр кадколаслы
 
-### Useful jobs
+### Колана гортса уджъяс
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Дӧраа да чышкӧд гӧграсьӧм.** Небыд, пӧлӧс кабалаяс медкокни. Шоныд чышкӧд дӧраа коробкаын позьӧ гӧграсьны, чышкыны да выльысь гӧграсьны.
+- **Носкияс ӧтувтӧм.** Заводитӧй ичӧт лыда торъя параысь. Рӧм серти ӧтувтӧм сідзи жӧ бур.
+- **Чорыда пызан мыськӧм либӧ чышкӧм.** Шоныд, сабриа ва нимкодь ки понда. Пукасьӧмӧн чышкӧм кокниджык кокъяслы.
+- **Пызанвыв дасьтӧм.** Сетӧй ӧти сикас тор ӧтчыд да дасьтӧй ӧти места ассьыныд пример вылӧ.
+- **Сёян дасьтӧмын отсалӧм.** Картофель мыськӧм, салат юкӧм либӧ тасьтіын ворсӧм. Пурт да шоныд ті видзанныд.
+- **Чышкӧм, пӧсь косалӧм либӧ чышкӧм.** Пызан понда дӧраа, порог понда лёгкӧсь веник.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Унджык видӧд [гортса уджъяс](/activities/household-tasks/) лист бокысь.
 
-### Music and movement
+### Сьыланкыв да вӧрзьӧдчӧм
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Важ радейтана сьыланкывъяс сьылӧм.** Заводитӧй сьылны ассьыныд; уна морт пырӧны сьыланкывъясӧ, кодъяс тӧдӧны во сайын. Видӧд [музыка уджъяс](/activities/music/).
+- **Мездысь йӧктӧм.** Вӧрзьӧдчӧй, ки часьтӧй либӧ вӧрзьӧдчӧй, кыдзи нимкодь. Пукасьӧмӧн позьӧ.
+- **Шар чевтӧм.** Сійӧ вӧрзьӧ вокыда да кокни кутны пукасьӧмӧн.
+- **Видзӧдӧмӧн ветлӧм.** Ветлӧй ӧтлаын дженьыд, тӧдса туйӧн, кӧсйӧ кӧ — киысь кутчӧмӧн.
 
-### Pictures and stories
+### Серпасъяс да висьтъяс
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Серпас альбом видлалӧм.** Висьталӧй сы йылысь, мыйӧн аддзанныд, оз ков юавны: «Видзӧд, кутшӧм машина. Висьтав, тайӧ йылысь.» Видӧд [казьтылӧм уджъяс](/activities/reminiscence/).
+- **Сёрнитан картаяс.** [Сёрнитан картаяс](/games/conversation-cards/) ӧтувтӧны серпас да восьса юалӧмтӧг корӧм.
+- **Ӧтлаын важ фильм видзӧдӧм.** Бӧрйӧй тӧдса фильм, лоӧй матын да дугдӧй шойччӧм вылӧ.
 
-### Simple, pressure-free games
+### Кокни, нӧйтчӧмтӧм ворсӧмъяс
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Серпас параяс, серпасъяс тыдалӧны.** [Серпас параяс](/games/picture-pairs/) лэдзӧ серпасъяслы тыдавны, сійӧн казьтылӧм оз ков, а колӧ видзӧдны.
+- **Корсь татшӧм жӧ.** [Корсь татшӧм жӧ](/games/find-the-same/) петкӧдлӧ ӧти серпас да дзик кыкысь нёль бӧрйӧм.
+- **Ӧтувтӧй ӧтлаын.** [Ӧтувтӧй ӧтлаын](/games/sort-together/) лӧсялӧ дӧраа ӧтувтӧмлы экран вылын: личкӧй серпас, сэсся сылы лӧсялана кӧрзина.
+- **Серпас бинго.** [Серпас бинго](/games/picture-bingo/) бур уджалӧ семья котыръясын да чукӧрын.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ворсӧм кӧ заводитӧ омӧльтны, дугдӧй да вӧчӧй мӧдтор. Видӧд [кыдзи ворсны ӧтлаын](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Кыдзи вежны лӧньтӧм уджӧ
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Лӧньтӧм либӧ выльысь-выльысь вӧчӧм шӧрын лоӧ помкаа. Family Caregiver Alliance висьталӧ, мый морт, коді веськыда чышкӧ шкап, вермас корсьны, кыдзи лоны уджын да коланаӧн. Alzheimer's Association вӧзйӧ тайӧ вынсӧ вежны лӧсялана уджӧ, а оз дугдӧдны сійӧс.
 
-| What you see | Something to offer |
+| Мый ті аддзанныд | Мый вермана сетны |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Пызан чышкӧм либӧ чирзӧм | Ляпкыд дӧраа да корӧм чышкыны пызансӧ |
+| Лӧнь кокъяс либӧ васьтӧм | Сьыланкыв чӧткыд ритмӧн, медым вӧрзьӧдчыны либӧ ки часьтны |
+| Ящикъяс либӧ шкапъяс чышкӧм | Коробка паськӧмӧн либӧ чышкӧд дӧрааӧн гӧграсьны да ӧтувтны |
+| Ӧти жӧ юалӧм выльысь | Лӧньӧдӧм, сэсся ӧтлаын сьыланкыв либӧ ӧтувтӧм удж |
+| Мунӧм-локтӧм | Ӧтлаын ветлӧм либӧ удж, кӧні колӧ мыйкӧ нуны |
+| Рытын лӧньтчӧм | Лӧнь, тӧдса удж бур югӧрын; видӧд [рытын лӧньтчӧм](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Кор дугдыны либӧ вежны удж
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Дугдӧй, кор ті аддзанныд мудзӧм, омӧльтчӧм, янӧдчӧм либӧ дӧлгӧм туйӧдӧм, шуам, морт оз лӧнь, чуньяссӧ чукӧртӧ, ылӧ чышкӧ торъяссӧ либӧ шуӧ «ог вермы». Alzheimer's Association вӧзйӧ видлыны выльысь мӧд кадӧ либӧ вӧчны уджсӧ кокниджык. Оз ков вынйӧдлыны. Отказ вермас лоны полӧмсянь либӧ уджыс вывті сьӧкыдӧн; видӧд [кор сійӧ шуӧ «оз кӧсйы»](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Водзджык дугдӧм — бур. Сідзи жӧ бур лоны ӧтлаын, юны шай. Кад келе кӧ вынъяс вежсьӧны нӧшта, [бӧр кадколаслы уджъяс](/activities/late-stage/) вермасны лӧсявны бурджыка, а [101 удж](/activities/ideas/) лист бокын эм унджык торъяс видлавны.

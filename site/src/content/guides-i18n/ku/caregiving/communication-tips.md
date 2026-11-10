@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "ڕێنماییەکانی قسەکردن لەگەڵ کەسێک کە دیمانسیا هەیەتی"
+seoTitle: "ڕێنمایی قسەکردن لە دیمانسیا: چی بڵێین و چی نەڵێین"
+description: "ڕێگای پراکتیکی بۆ قسەکردن لەگەڵ کەسێک کە دیمانسیا هەیەتی: چۆن گفتوگۆ دەست پێ بکەیت، چی بڵێیت لەبری تاقیکردنەوە یان ڕاستکردنەوە، و چۆن گوێ بگریت."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  لە شوێنێکی بێدەنگ قسە بکەن، ڕووبەڕووی ئەو کەسە بن، ناوی بەکاربهێنن، و بە
+  هێواشی لە ڕستەی کورت و سادەدا قسە بکەن. یەک پرسیار لە یەک کاتدا بکەن، لەبری
+  پرسیاری کراوە دوو هەڵبژاردە پێشکەش بکەن، و زیاتر لەوەی هەست دەکەیت سروشتی
+  بێت چاوەڕێ بکەن. مشتومڕ مەکەن، ڕاستی مەکەنەوە و تاقی مەکەنەوە. وەڵام بدەنەوە
+  بەو هەستەی لە پشت وشەکانەوەیە، و کاتێک قسەکردن ئاڵۆزتر دەبێت، دەست لێدان،
+  وێنە و ئاماژە بەکاربهێنن.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "پێش دەستپێکردنی قسەکردن، دەنگی ژینگە کەم بکەنەوە و سەرنجی ئەو کەسە ڕابکێشن."
+  - "ڕستەی کورت، یەک بیرۆکە لە یەک کاتدا، و ناو بەکاربهێنن لەبری ئەو، ئەو، یان ئەوان."
+  - "دوو هەڵبژاردە یان پرسیاری بەڵێ/نەخێر پێشکەش بکەن، نەک پرسیاری کراوە."
+  - "بۆ وەڵام چاوەڕێ بکەن. ئەگەر تێنەگەیشتن، هەمان وشە دووبارە بکەنەوە، دواتر وشەی نوێ تاقی بکەنەوە."
+  - "مشتومڕ مەکەن و ڕاستی مەکەنەوە. وەڵام بدەنەوە بەو هەستەی لە پشت قسەکانیانەوەیە."
+  - "کاتێک وشە کەم دەبنەوە، لە ڕێگەی دەست لێدان، دەنگ، ڕوخسار و وێنەی هاوبەشەوە پەیوەندی بکەن."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "چی نابێت بە کەسێک کە دیمانسیا هەیەتی بڵێین؟"
+    a: "دوور بکەونەوە لە تاقیکردنەوە («بیرت دێتەوە...؟»)، ڕاستکردنەوە («ئەوە هەڵەیە»)، بیرخستنەوەی لەدەستدان («پێشتر پێم وتم»)، و قسەکردن دەربارەیان وەک ئەوەی لەوێ نەبن. دوور بکەونەوە لە قسەکردنی مناڵانە. ئەمانە زۆرجار دەبنە هۆی شەرمەزاری یان نیگەرانی بەبێ ئەوەی یارمەتی بدەن."
+  - q: "ئایا دەبێت ڕاستی بکەمەوە کاتێک زانیارییەکی هەڵە دەڵێن؟"
+    a: "زۆربەی کات نا. ئەگەر زانیارییەکی هەڵە زیان نەبەخشێت، وازی لێبهێنن. مشتومڕ بە زۆری بیرۆکەی ئەو کەسە ناگۆڕێت و زۆرجار دڵی دەشکێنێت. سەرنج بدەنەوە سەر ئەوەی ئێستا چی هەست دەکات و چیی پێویستە."
+  - q: "چی بکەم کاتێک ناتوانن وشەیەک بدۆزنەوە؟"
+    a: "سەرەتا کاتێکیان بدەنێ. ئەگەر بە ڕوونی کێشەیان هەیە، باشە بە نەرمی وشەیەک پێشنیار بکەیت یان خەمڵێنی مەبەستیان چییە و دڵنیا بیتەوە. ئاماژەکردن، جووڵەی دەست و وێنەش دەتوانن یارمەتیدەر بن."
+  - q: "چۆن لەگەڵ کەسێک قسە بکەم کە دیمانسیای قۆناغی دوا هەیەتی و دەگمەن قسە دەکات؟"
+    a: "لە پێشەوە نزیک ببنەوە، بڵێن کێن، و دەنگێکی ئارام و دەست لێدانێکی نەرم بەکاربهێنن. سەیری دەموچاویان و زمانی جەستەیان بکەن بۆ تێگەیشتن لە هەستەکانیان. ئامادەبوونی ئێوە، گۆرانییەکی ئاشنا یان گرتنی دەستیان دەتوانێت بەبێ وشەش زۆر شت بگەیەنێت."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+دیمانسیا دەتوانێت دۆزینەوەی وشە، بەدواداچوونی ڕستەی درێژ، یان پشتگوێخستنی دەنگی ژینگە سەختتر بکات. ئەمە بە هیچ شێوەیەک واتا ناکات ئەو کەسە چیتر نایەوێت پەیوەندی هەبێت. گۆڕانکارییە بچووکەکان لەوەی چۆن گفتوگۆ ئامادە دەکەیت، چۆن قسە دەکەیت و چۆن گوێ دەگریت دەتوانێت قسەکردن بۆ هەردووکتان ئاسانتر و ئارامتر بکات.
 
-## What are the most important tips for talking with someone who has dementia?
+## گرنگترین ڕێنماییەکان بۆ قسەکردن لەگەڵ کەسێک کە دیمانسیا هەیەتی چین؟
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+سەرنجیان ڕابکێشە، سادە بێت، و ئارام بگرە. ئەگەر تەنها پێنج شت لەبیرت بێت:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **ژوورەکە بێدەنگ بکە و ڕوویان تێبکە.** تەلەڤیزیۆن بکوژێنەوە، لە ئاستی چاویاندا دانیشە، و ناویان بەکاربهێنە.
+2. **یەک شت لە یەک کاتدا بڵێ.** ڕستەی کورت، یەک بیرۆکە، یەک پرسیار.
+3. **دوو هەڵبژاردە پێشکەش بکە.** «چای یان قاوە؟» ئاسانترە لە «چی دەتەوێت؟»
+4. **چاوەڕێ بکە.** بۆ وەڵامدانەوە زیاتر لەوەی هەست دەکەیت سروشتی بێت کات بدە، و هەوڵ بدە قسەیان پێنەبڕیت.
+5. **هەرگیز مشتومڕ مەکە و تاقیان مەکەرەوە.** وەڵام بدەرەوە بەوەی چۆن هەست دەکەن، نەک بەوەی زانیارییەکان ڕاستن یان نا.
 
-## How should I start a conversation?
+## چۆن دەست بە گفتوگۆ بکەم؟
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+کارەکان بەم جۆرە ڕێک بخە کە ئەو کەسە بتوانێت سەرنج بداتە سەر تۆ. [ڕێبەری Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) پێشنیار دەکات سەرەتا دەنگی ژینگە کەم بکەیتەوە: ڕادیۆ یان تەلەڤیزیۆن بکوژێنەوە، پەردە یان دەرگا دابخە، یان بڕۆنە شوێنێکی بێدەنگتر.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **لە پێشەوە نزیک ببەوە.** هاتن لە پشتەوە یان لاوە دەتوانێت بیانترسێنێت.
+- **بڵێ تۆ کێیت.** «سڵاو باوکە، من سارام، کچەکەت.» ئەمە یارمەتی دەدات نەبێت بەدوای ناوتدا بگەڕێن.
+- **لە ئاستی چاویاندا بە.** ئەگەر دانیشتوون، دانیشە یان چۆک بدە تاکوو چاوتان لە یەک ئاستدا بێت.
+- **سەیری ڕوخسار و دەنگت بکە.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ڕاوێژ دەکات ئاگاداری دەنگ، بەرزی، ڕوخسار و زمانی جەستەت بیت، و هەوڵ بدەیت ئارام و گەرم بیت.
+- **دڵنیا بەوە کە چاویلکە و ئامێری گوێگرتن لە شوێنی خۆیانن.** بەدواداچوونی گفتوگۆیەک کە بە تەواوی نایبینیت یان نابیستیت سەختە.
 
-## How should I phrase what I say?
+## چۆن قسەکانم ڕێک بخەم؟
 
-Use simple words, short sentences and a calm, low voice.
+وشەی سادە، ڕستەی کورت و دەنگێکی ئارام و نزم بەکاربهێنە.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **یەک بیرۆکە لە هەر ڕستەیەکدا.** «باوەشەکەت لەبەر بکەین. دواتر دەچینە دەرەوە.» نەک هەردووکیان لە یەک هەناسەدا.
+- **ناو بەکاربهێنە، نەک جێناو.** «مامۆستە عەزیز تەلەفۆنی کرد» ڕوونترە لە «ئەو تەلەفۆنی کرد».
+- **دەنگەکەت نزمتر بکەوە، نەک بەرزتر.** Family Caregiver Alliance دەنگی نزمتر پێشنیار دەکات لەبری دەنگی بەرزتر.
+- **دووبارە بکەرەوە، دواتر بە شێوەیەکی تر بڵێ.** ئەگەر تێنەگەیشتن، یەکجار هەمان وشە دووبارە بکەرەوە. ئەگەر کاری نەکرد، کەمێک چاوەڕێ بکە و وشەی جیاواز تاقی بکەرەوە.
+- **پیشان بدە هەروەها بڵێ.** ئاماژە بە کوپەکە بکە، دوو بلوزەکە پیشان بدە، یان یەکەم هەنگاو پیشان بدە.
+- **لەگەڵیان قسە بکە، نەک دەربارەیان.** NIA ئاگاداری دەداتەوە کە قسەکردن دەربارەی ئەو کەسە وەک ئەوەی لەوێ نەبێت، یان «قسەی مناڵانە» بەکارنەهێنیت.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA شێوازی سادەتر بۆ پرسیارە باوەکان پێشنیار دەکات. لێرە چەند نموونەیەک بەو شێوازە دەهێنینەوە:
 
-| Instead of | Try |
+| لەبری | تاقی بکەرەوە |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «بۆ نانی ئێوارە چی دەتەوێت؟» | «ماسی دەتەوێت یان مریشک؟» |
+| «چۆن هەست دەکەیت؟» | «هەست بە ماندوویی دەکەیت؟» |
+| «برسیتە؟» | «نانی ئێوارە دوای پێنج خولەک ئامادە دەبێت.» |
+| «ئەوە بەو شێوەیە ناکرێت.» | «با بەو شێوەیە تاقی بکەینەوە.» |
+| «بیرت دێتەوە سەفەرەکەمان بۆ دەریاچە؟» | «بیرم لەو سەفەرە دەهاتەوە بۆ دەریاچە. پێم بڵێ چی بەدڵت بوو.» |
+| «پێشتر پێم وتم.» | بە میهرەبانییەوە دووبارە وەڵام بدەرەوە، وەک یەکەمجار. |
 
-## How do I listen well?
+## چۆن بە باشی گوێ بگرم؟
 
-Listen for the meaning and the feeling, not just the words.
+گوێ بگرە بۆ مانا و هەستەکە، نەک تەنها بۆ وشەکان.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **چاوەڕێ بکە.** بێدەنگی زۆرجار کاتی بیرکردنەوەیە. بە هێواشی تا دە ژمێرە پێش ئەوەی تێبکەویت.
+- **تەنها کاتێک وشەیەک پێشنیار بکە کە گیر بوون.** Family Caregiver Alliance دەڵێت باشە وشە پێشنیار بکەیت کاتێک کەسێک کێشەی هەیە.
+- **ئەوەی بیستوتە دڵنیا بکەرەوە.** [ڕێبەری پەیوەندیکردنی Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) پێشنیار دەکات بەدوای مانای پشت وشەکاندا بگەڕێیت و دووبارەی بکەیتەوە بۆ دڵنیابوونەوە کە تێگەیشتوویت. «نیگەرانی ئۆتۆمبێلەکەیت؟»
+- **سەیری دەموچاو و جەستەیان بکە.** NIA دەڵێت کاتێک قسەکردن سەختتر دەبێت، دەربڕینی ڕوخسار ڕەنگە خەم، تووڕەیی یان بێزاربوون ڕوونتر لە وشەکان پیشان بدات.
+- **نیگەرانییەکانیان بە جدی وەربگرە.** تەنانەت ئەگەر نیگەرانییەک لەسەر بنەمای زانیارییەکی هەڵە بێت، هەستەکە ڕاستەقینەیە.
 
-## What if they say something that is not true?
+## ئەگەر شتێکی ڕاست نەبوو وت چی بکەم؟
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+مشتومڕ مەکە. بە زۆری سەرناکەویت، و ئەو کەسە ڕەنگە هەست بە شەرمەزاری یان ترس بکات. لەبری ئەوە، لەگەڵ هەستەکەدا پەیوەندی دروست بکە، دواتر بە نەرمی بابەتەکە بگۆڕە.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance پێشنیار دەکات پێش گۆڕینی بابەتەکە هەستەکە قبوڵ بکەیت. بۆ نموونە، ئەگەر دایکت دەڵێت دەبێت بچێت منداڵەکان لە قوتابخانە وەربگرێت:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- لەبری: «دایە، منداڵەکانت گەورە بوون. ئەوە چل ساڵ لەمەوبەر بوو.»
+- تاقی بکەرەوە: «هەمیشە دایکی زۆر بەسۆز بوویت. باسی وەرگرتنیانم بۆ بکە. دەتەوێت پێشتر کەمێک خواردن بخۆین؟»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association هەروەها ڕاوێژ دەکات مشتومڕ مەکەیت لەسەر ئەو قسانەی لەگەڵیاندا ناگۆڕیت. کاتەکە هەڵبژێرە: ئەگەر باوەڕێکی هەڵە زیان نەبەخشێت، وازی لێبهێنە.
 
-## How does communication change as dementia progresses?
+## پەیوەندیکردن چۆن دەگۆڕێت کاتێک دیمانسیا پێش دەکەوێت؟
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+پێداویستییەکان بە تێپەڕبوونی کات دەگۆڕێن، بۆیە شێوازی خۆت بگونجێنە. Alzheimer's Association سێ قۆناغی گشتی باس دەکات:
 
-| Stage | What helps |
+| قۆناغ | چی یارمەتیدەرە |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| سەرەتایی | وا مەزانە ناتوانن پەیوەندی بکەن. لە گفتوگۆکاندا بەشدارشان بکە، ڕاستەوخۆ لەگەڵیان قسە بکە، بپرسە چ جۆرە یارمەتییەک دەیانەوێت، و ئەگەر یارمەتیدەر بوو گاڵتەجاڕی بکە. |
+| ناوەندی | گفتوگۆی تاک بە تاک لە شوێنێکی بێدەنگدا. بە هێواشی قسە بکە، چاوت لە چاویان بێت، پرسیاری بەڵێ/نەخێر بەکاربهێنە، ڕێنمایی هەنگاو بە هەنگاو بدە، و ڕەخنە یان ڕاستکردنەوە مەکە. |
+| دوا | لە پێشەوە نزیک ببەوە و بڵێ تۆ کێیت. هانیان بدە ئاماژە و جووڵەی دەست بەکاربهێنن. دەست لێدان، دەنگ، بینین و بۆن بەکاربهێنە. هەرگیز وەک ئەوەی لەوێ نەبن قسە مەکە. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+هەر کەسێک جیاوازە، و هەمان کەس ڕەنگە ڕۆژێکی باش و ڕۆژێکی سەختی هەبێت. وەڵام بدەرەوە بەوەی ئێستا چۆنن، نەک بە پێناسەیەک.
 
-## Can pictures and activities make conversation easier?
+## ئایا وێنە و چالاکی دەتوانن گفتوگۆ ئاسانتر بکەن؟
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+بەڵێ. وێنەیەکی هاوبەش فشار کەم دەکاتەوە و شتێکتان پێ دەدات کە هەردووکتان سەیری بکەن و ئاماژەی پێ بکەن.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **هاندەری وێنەیی.** [Conversation Cards](/games/conversation-cards/) وێنەی لەگەڵ پرسیاری کراوە پێشکەش دەکات کە هەرگیز تاقیت ناکاتەوە.
+- **وێنەی خێزانی.** [Photo Pairs](/games/photo-pairs/) ئەو وێنانەی هەڵتدەبژێریت دەگۆڕێت بۆ یارییەکی نەرم، کە زۆرجار هۆی بیرەوەرییەکان دەبێت.
+- **وتەی ئاشنا.** [Finish the Saying](/games/finish-the-saying/) وتەی ئاشنا بەکار دەهێنێت و دواتر هاندەرێکی گفتوگۆ پێشکەش دەکات.
+- **یارییەکانی هاوتاکردن وەک پاشبنەما.** [Picture Pairs](/games/picture-pairs/) شتێکت پێ دەدات کە دەستت پێی سەرقاڵ بێت لەکاتی گفتوگۆدا.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+بۆ زانیاری زیاتر سەیری [چۆن پێکەوە یاری بکەین](/caregiving/how-to-play-together/) و [چالاکییەکانی بیرەوەری](/activities/reminiscence/) بکە. بۆ سەردان و پەیوەندی، ڕێبەرەکانمان لەبارەی [سەردانکردن](/activities/visiting/) و [پەیوەندی تەلەفۆنی و ڤیدیۆیی](/activities/phone-and-video-calls/) بخوێنەرەوە.
 
-## What if I lose my patience?
+## ئەگەر ئارامیم لەدەستدا چی بکەم?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+ئەمە بۆ هەموو کەسێک ڕوودەدات. NIA پێشنیار دەکات ئەگەر بێزارت کرد، کەمێک کات وەربگریت بۆ ئارامبوونەوە. بچۆرە ژوورێکی تر، چەند هەناسەیەکی هێواش وەربگرە، و کاتێک ئارامتر بوویت بگەڕێوە. هەمیشە دەتوانیت گفتوگۆکە دووبارە دەست پێ بکەیتەوە، و ئەو کەسەش ڕەنگە باشتر وەڵام بداتەوە بە دۆخی ئارامت. ئەگەر بێزاری بوونە شتێکی بەردەوام، ئەمە نیشانەیەکە کە پێویستت بە پشتگیری زیاترە، نەک ئەوەی تۆ شکست دهێنیت. ڕێبەرەکەمان لەبارەی [چاودێریی خۆت وەک چاودێر](/caregiving/caregiver-self-care/) شوێنەکانی یارمەتی تێدایە.

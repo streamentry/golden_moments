@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Интервальнӧй сёйтчӧм да деменция: туялысьӧн"
+seoTitle: "Интервальнӧй сёйтчӧм да деменция: туялысьӧн"
+description: "Мортъясӧн тӧдмалӧмторйыс деменция да интервальнӧй сёйтчӧм йылысь этша. Тӧдмав арся мортъяслы рискъяс да сы йылысь, мыйысь колӧ тырмымӧн сёйны."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Абу бура тӧдмалӧмтор, мый интервальнӧй сёйтчӧмыс дугӧдӧ либӧ чинтӧ
+  деменция. Уна туялӧмыс вӧчӧма пемӧсъясӧн, а арся мортъясӧн тӧдмалӧмторъясыс
+  ичӧт да дженьыд кадӧн. Сёйтчӧм дугӧдӧмыс вермас лоны опаснӧй арся мортъяслы:
+  лыдтӧм сьӧктам да мышку вын вошӧм, мукӧд диабет лекарствоӧн вирын сахар
+  чинӧм, ва этшаджык юӧм да усьӧм. Деменцияӧн олӧм мортъяслы тшӧкыда тырмымӧн
+  сёйны да юны лоӧ медыджыд дон. Медводз сёрнитӧй врачкӧд.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Арлыда овмӧдчан национальнӧй институт шуӧ, мый абу тырмым тӧдмалӧмтор, медым сійӧн позис вӧзйыны кутшӧмкӧ сёйтчӧм дугӧдӧм либӧ калория чинтытӧм сёйӧм ног, торйӧн арся мортъяслы."
+  - "Сёйтчӧм да арлыда овмӧм йылысь туялӧмторъяс унджыкыс вӧчӧма пемӧсъясӧн, и сійӧн аддзӧмторъяс оз вермыны лоны веськыда мортъяслы."
+  - "Арся мортъяслы вермасны лоны татшӧм рискъяс: лыдтӧм сьӧктам, мышку вын вошӧм, мукӧд диабет лекарствоӧн вирын сахар чинӧм, ва этшаджык юӧм, юр висьӧм да усьӧм."
+  - "Деменцияӧн олӧм мортъяс тшӧкыда вунӧдӧны сёйны либӧ юны, либӧ мӧвпалӧны, мый найӧ сёйӧма нин. Отсавны найӧс тырмымӧн сёйны да юны тшӧкыда унджыкысь колана, сёр сёйигӧн."
+  - "Эн вӧдитчӧй сёйтчӧм дугӧдӧмӧн деменцияӧн олӧм мортлы. Медводз сёрнитӧй врачкӧд либӧ сёйӧм йылысь тӧдӧм специалисткӧд."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Дугӧдӧ-ӧ интервальнӧй сёйтчӧмыс Альцгеймер висьӧм?"
+    a: "Абу бура тӧдмалӧмтор, мый сійӧ тадз. Уна туялӧмторъяс вӧчӧма пемӧсъясӧн, а мортъясӧн тӧдмалӧмторъясыс тшӧкыда вӧліны дженьыд кадӧн, томджык либӧ вывті сьӧкыд мортъясӧн, да видзӧдісны сьӧктам вылӧ. Арлыда овмӧдчан национальнӧй институт шуӧ, мый абу тырмым тӧдмалӧмтор, медым вӧзйыны сёйтчӧм дугӧдӧм йӧзлы."
+  - q: "Лӧсьӧдӧма-ӧ интервальнӧй сёйтчӧмыс арся мортъяслы?"
+    a: "Вермас лоны, мый абу. Сёйтчӧм дугӧдӧмыс вермас вайӧдны лыдтӧм сьӧктам да мышку вын вошӧм, ва этшаджык юӧм, юр висьӧм да усьӧм. Сійӧ вермас вайӧдны вывті уна чинӧм вирын сахар тӧлысь, кодъяс босьтӧны инсулин либӧ мукӧд диабет лекарство. Mayo Clinic пасйӧ, мый сійӧ оз вермы лӧсявны мортъяслы, кодъяслы уна риск лы воштыны да усьны. Медводз видлыны сёрнитӧй врачкӧд."
+  - q: "Колӧ-ӧ деменцияӧн олӧм мортлы видлыны сёйтчӧмыссӧ дугӧдны?"
+    a: "Абу. Деменцияӧн олӧм мортъяслы тшӧкыда сьӧкыд тырмымӧн сёйны да юны, а буртӧм сёйӧмыс вермас содтыны поведениеын сьӧкыдлунъяс да вайӧдны сьӧктам. Сёйтчӧм дугӧдӧмыс содтӧ риск, но абу тӧдса буртор. Видзӧдлӧй кад сайын сёйӧм вылӧ, найӧлы дона пемӧсъяс вылӧ да тырмымӧн юӧм вылӧ."
+  - q: "Кутшӧм пасъяс петкӧдлӧны, мый деменцияӧн олӧм морт оз тырмымӧн сёй да ю?"
+    a: "Видзӧдлӧй сьӧктам вылӧ, паськӧмыс лыдтӧмджыка лоӧм вылӧ, мудзӧм вылӧ, омӧльтчӧм вылӧ, кынӧмыс песькавтчӧм вылӧ либӧ сёянӧн тӧдчытӧм вылӧ. Арлыда овмӧдчан национальнӧй институт индалӧм ва этшаджык юӧм пасъясыс: кос вом, юр висьӧм, чожа сьӧлӧм шыблалӧм да галлюцинацияяс. Аддзан кӧ татшӧмтор, висьтавӧй сылы врачлы."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Интервальнӧй сёйтчӧм — шуам, сёйны сӧмын кӧкъямыс часӧн либӧ недельын кык лун вывті чинтыны калорияяс — ӧні унаысь йывсьӧ. Мукӧд гижӧдъяс висьталӧны, мый сійӧ вермас видзны юрвежӧр. Ті кӧ арся морт либӧ видзӧданныд деменцияӧн олӧм морт вылӧ, татшӧм туялысьӧн тӧдмалӧмторйыс да мыйысь колӧ лоны видзчысьӧн.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Тайӧ ӧтувъя юӧр, абу медицинскӧй вӧзйӧм. Эн заводитӧй дугдывтӧг сёйны либӧ вежны сёйӧм ногсӧ мортлы, кӧні ті видзӧданныд, медводз сёрниттӧг врачкӧд либӧ сёйӧм йылысь тӧдӧм специалисткӧд. Видзӧдлӧй миян [медицинскӧй ӧткодялӧм](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Дугӧдӧ-ӧ интервальнӧй сёйтчӧмыс деменция?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Абу бура тӧдмалӧмтор, мый интервальнӧй сёйтчӧмыс дугӧдӧ либӧ чинтӧ деменция. Арлыда овмӧдчан национальнӧй институт (NIA) шуӧ, мый абу тырмым тӧдмалӧмтор, медым вӧзйыны кутшӧмкӧ калория чинтытӧм либӧ сёйтчӧм дугӧдӧм сёйӧм ног, и колӧ ёна унджык тӧдны сы бурлун да лӧсьӧдчӧм йылысь, торйӧн арся мортъяслы ([NIA калория чинтытӧм да сёйтчӧм дугӧдӧм йылысь](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Мыйысь тӧдмалӧмторйыс тадз этша
 
-The NIA gives several reasons:
+NIA сетӧ уна помка:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Унджык туялӧмторъяс вӧчӧма пемӧсъясӧн.** Номыръясӧн, бобувъясӧн, шыръясӧн да обезьянаясӧн туялӧмыс сетіс аслыспӧлӧслун тӧдмалӧмтор, но тайӧ аддзӧмторъяс оз вермыны лоны веськыда мортъяслы. Пемӧсъясӧн тшӧтш аддзӧмторъясыс абу ӧткодь; мукӧд шыр сортъяслы калория чинтытӧмыс дженьдӧдіс олӧмсӧ.
+- **Мортъясӧн тӧдмалӧмторъясыс вӧліны дженьыд кадӧн.** Унджыкысыс вӧліны кӧть некымын недель либӧ тӧлысь.
+- **Унджык тӧдмалӧмтор видзӧдіс сьӧктам вылӧ** вывті сьӧкыд мортъяслысь, абу казьтыштӧм либӧ деменция вылӧ.
+- **Арся мортъяс шоча пыртӧмаӧсь.** Уна тӧдмалӧмторын пыртӧмаӧсь 60 арӧссянь томджык мортъяс.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026 воын ӧти видлалӧмыс видзӧдіс торйӧн интервальнӧй сёйтчӧмсӧ 60 арӧссянь ыджыдджык мортъяслы. Сійӧ аддзис, мый тайӧ арлыда чукӧрын тӧдмалӧмторйыс на этша, ичӧт туялӧмторъяс, дженьыд видзӧдӧм да абу ӧткодь ногъяс. Мӧвпалӧм да казьтыштӧм йылысь аддзӧмторъясыс лоисны торъя туялӧмторъяссянь, абу уна тӧдмалӧмторлысь ӧтувтӧм результатъяс. Видлалӧмыс тшӧтш пасйис, мый мукӧд туялӧмторъясын вывті дженьыд сёйан кадколастъяс либӧ кузь сёйтӧм дугӧдӧмъяс йитчӧмаӧсь лёкджык результатъяскӧд, и гижысьяс вӧзйисны арся мортъяслы лоны видзчысьӧн ([2026 воын видлалӧм Nutrients-ын](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Мукӧд туялысьяс мӧвпалӧны, мый сёйтчӧм кадӧ организмлысь туй вылӧ вежсьӧмыс вермас вежны юрвежӧр уджалӧмсӧ, но тайӧ на сӧмын видлалӧм могысь мӧвп. NIA пасйӧ, мый наукаын эз на ставыс тырвыйӧ гӧгӧрвоӧма.
 
-## What are the risks of fasting for older adults?
+## Кутшӧм рискъяс лоӧны сёйтчӧм дугӧдӧмысь арся мортъяслы?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Уна арся мортлы сёйтчӧм дугӧдӧмыс абу опастӧм видлӧм. Вермасны лоны татшӧм рискъяс:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Лыдтӧм сьӧктам.** Ті кӧ сёянныд этшаджык, мый колӧ организмыдлы, ті верманныд чинтыны сьӧкта да мышку вын, сійӧн ті верманныд лоны омӧльджык.
+- **Мышку да лы вын вошӧм.** NIA отсӧгӧн кык вося калория чинтытӧм тӧдмалӧмторын том да шӧр арлыда мортъяслы ичӧтик чиніс лы зільлун да мышку масса.
+- **Вирын сахар чинӧм диабет лекарствоӧн.** Мортъяс, кодъяс босьтӧны инсулин либӧ мукӧд диабет лекарство, вермасны аддзыны, мый вирын сахар вывті чинӧ, сёйӧм кӧ кольӧны либӧ вӧчӧны сёрӧн, шуӧ [Диабет, пищеварение да пызь висьӧмъяс йылысь национальнӧй институт](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Вирын сахар чинӧмыс вермас вайӧдны юр висьӧм, гӧгӧрвотӧмлун да раздражение.
+- **Ва этшаджык юӧм.** Сёянкӧд тшӧтш кӧ этша юанныд, вермас лоны ва этшаджык организмын.
+- **Юр висьӧм да усьӧм.** Mayo Clinic пасйӧ, мый интервальнӧй сёйтчӧмыс вермас вайӧдны мудзӧм да юр висьӧм, и сійӧ вермас лоны абу бура ног мортъяслы, кодъяслы уна риск лы воштыны да усьны ([Mayo Clinic интервальнӧй сёйтчӧм йылысь](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Мукӧд торъяс.** Mayo Clinic тшӧтш индалӧ юр висьӧм, настроение вежсьӧм да кынӧмыс песькавтчӧм. Сійӧ тшӧтш пасйӧ, мый эм тӧдмалӧмтор, кӧні 16 час сёйтӧг да 8 час сёйӧм вермас содтыны сьӧлӧм-сердце висьӧм риск мукӧд сёйӧм кадколастъяскӧд орччӧн. Тайӧ тӧдмалӧмторыс на абу ставнас гӧгӧрвоӧма.
 
-## Why is eating enough the bigger concern with dementia?
+## Мыйысь тырмымӧн сёйӧмыс лоӧ медыджыд дон деменцияӧн?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Деменцияӧн олӧм мортъяслы тшӧкыда лоӧ сьӧкыдлун **тырмымӧн** сёйны да юны, абу вывті уна. Альцгеймер висьӧм йылысь котыр (Alzheimer's Association) висьталӧ, мый шӧр да бӧръя стадияын мортъяс вермасны повзьыны сёян бӧрйӧмысь, вунӧдны сёйны либӧ мӧвпавны, мый найӧ нин сёйӧмаӧсь. Сійӧ тшӧтш содтӧ, мый буртӧм сёйӧмыс вермас содтыны поведениеын сьӧкыдлунъяс да вайӧдны сьӧктам ([Alzheimer's Association сёян да сёйӧм йылысь](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Альцгеймер висьӧм йылысь ӧтмунӧм (Alzheimer's Society) пасйӧ, мый тырмытӧг сёйӧмыс вермас вайӧдны сьӧктам, мышку вын вошӧм, мудзӧм да омӧльтчӧм, сійӧн морт лоӧ омӧльджык да сылы сьӧкыдджык бурдны висьӧмысь ([Alzheimer's Society сёйны окот йылысь](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Та понда сёйтчӧм дугӧдӧмыс оз лӧсяв деменцияӧн олӧм мортлы.** Ӧти сёйӧм кольӧмыс вермас кокниа лоны уна сёйӧм кольӧмӧн. Быд вежсьӧм деменцияӧн олӧм мортлысь сёйӧмын колӧ вӧчны сылысь врачкӧд либӧ сёйӧм йылысь тӧдӧм специалисткӧд.
 
-## What are the warning signs of poor eating or drinking?
+## Кутшӧм тӧдмалігъяс видзӧдны, омӧль сёйӧм либӧ юӧм йылысь?
 
-Watch for:
+Видзӧдлӧй татшӧмтор вылӧ:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Сьӧктам**, либӧ паськӧмыс лыдтӧмджыка лоӧ.
+- **Сёян коляс**, сёянӧн тӧдчас либӧ видзӧ сёянсӧ вомын.
+- **Мудзӧм либӧ омӧльтчӧм.**
+- **Кынӧмыс песькавтчӧм**, мый вермас йитчыны сёйӧмкӧд да ва этшаджык юӧмкӧд.
+- **Ва этшаджык юӧм пасъяс.** NIA индалӧ кос вом, юр висьӧм, чожа сьӧлӧм шыблалӧм да галлюцинацияяс, кодъяс вермасны лоны и деменция помкаын ([NIA шӧр висьӧмъяс йылысь](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Сёйны окот абуӧмыс вермас лоны уна помкаысь: висьӧм пинь, абу бура лӧсялана пинь, выль лекарство, депрессия, кынӧмыс песькавтчӧм, этшаджык ветлӧдлӧм либӧ чӧсмӧм да дук кӧрталӧм вежсьӧм. Висьтавӧй тайӧ пасъяс йылысь мортлысь врачлы. Сійӧ вермас корсьны помкасӧ да вермас вӧзйыны сёйӧм йылысь тӧдӧм специалист либӧ содтӧд юкӧн.
 
-## How can you help someone eat and drink enough?
+## Кыдзи отсавны мортлы тырмымӧн сёйны да юны?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Вӧзйӧй ичӧтик сёян да пемӧс тшӧкыда**, абу куим ыджыд сёян.
+- **Сетӧй сылы радейтан сёян**, да лӧсьӧдчӧй, кор сійӧлы дона сёян вежсьӧ. Чӧскыд сёян вермас лоны дона, сёйны окот кӧ этша; юалӧй врачлысь, эм-ӧ дзескӧдӧм мыйкӧ висьӧм понда.
+- **Видзӧй юанва матын**, и тшӧкыда вӧзйӧй ичӧтик дозъяслӧн лунтыр. Шыд, вотӧса пуктасъяс, смузи да йӧв шыдъяс тшӧтш лыддьыссьӧны.
+- **Сёйӧй ӧтлаын**, верманныд кӧ. Сёйӧмыс — тайӧ ӧтлаын овны кад, абу тэрмасьӧм удж.
+- **Видлӧй киӧн босьтан сёян**, шуам, нянь улын пуктасъяс, вотӧс торъяс либӧ чипан юкӧнъяс, приборъясӧн вӧдитчӧмыс кӧ лоис сьӧкыд.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Миян [сёйӧм йылысь велӧдӧм](/brain-health/diet/)-ын эм сёйигӧн отсӧг йылысь унджык юӧр. Сёян дасьтӧмын отсӧмыс тшӧтш вермас лоны гажа ӧтувъя удж; видзӧдлӧй [гортса уджъяс](/activities/household-tasks/).
 
-## Talk with a doctor
+## Сёрнитӧй врачкӧд
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Асьныдлӧн кытшӧмкӧ сёйтчӧм дугӧдӧм ног заводитӧм водз сёрнитӧй ассьыныд врачкӧд либӧ сёйӧм йылысь тӧдӧм специалисткӧд, торйӧн ті кӧ босьтанныд диабет либӧ вир давление лекарство, неважӧн чинтылинныд сьӧкта либӧ тіян вӧлі усьӧм. Деменцияӧн олӧм морт йылысь юалӧй сылысь врачлысь, кымын сылы колӧ сёйны да юны лунӧн, а не сёйтчӧм дугӧдӧм йылысь.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Ӧдйӧ отсӧг корӧй, тӧдчыны кӧ выльысь гӧгӧрвотӧмлун, синмасьӧм либӧ вывті чинӧм вирын сахар пасъяс, кодъяс оз бырны ӧдйӧ.

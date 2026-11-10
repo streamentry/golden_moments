@@ -1,36 +1,36 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Xweparastina Lênêrîneran: Bêhnvedan û Nîşanên Westandinê"
+seoTitle: "Xweparastina Lênêrînerê Demansê: Bêhnvedan û Piştgirî"
+description: "Nîşanên westandina lênêrîneran, çawa bêhnvedan û komên piştgiriyê bibînin, û xetên alîkariyê yên belaş li Dewletên Yekbûyî, wekî 1-800-272-3900."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Lênêrîna kesekî ku bi demansê dijî karekî dijwar e, û xema xwe girtin beşek ji
+  vê karê ye. Bala xwe bidin nîşanên hişyariyê wekî westîn, hêrsbûn, xewa
+  nebaş û dûrketina ji hevalan. Ji bo karên taybet alîkariyê bixwazin, lênêrîna
+  bêhnvedanê bi kar bînin û beşdarî komeke piştgiriyê bibin. Alîkariya belaş
+  li Dewletên Yekbûyî Xeta Alîkariyê ya 24/7 ya Alzheimer's Association li
+  1-800-272-3900 û Eldercare Locator li 1-800-677-1116 dihewîne.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Westandin bi gelemperî wekî westîn, hêrsbûn, xewa nebaş, xemgînî û paşguhkirina lênihêrîna tenduristiya we xuya dibe."
+  - "Lênêrîna bêhnvedanê demekê dide we ku bêhna xwe vedin, ji çend saetan heta çend hefteyan, li malê an li navendeke lênêrînê."
+  - "Ji bo karên taybet alîkariyê bixwazin; gelek kes dixwazin alîkariyê bikin lê nizanin çawa."
+  - "Xeta Alîkariyê ya 24/7 ya Alzheimer's Association (1-800-272-3900) her dem piştgiriyeke belaş û nehênî pêşkêş dike."
+  - "Eldercare Locator (1-800-677-1116) we bi karûbarên herêmî ve girê dide, tevî Area Agency on Aging a we."
+  - "Heke hûn xwe di rewşeke krîzê de hîs bikin, bangî 988 bikin an peyamekê bişînin. Di rewşeke acîl de, bangî 112 bikin."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Nîşanên westandina lênêrîneran çi ne?"
+    a: "Nîşanên hevpar di nav xwe de westî, zêde bar hîskirin an xemanî, zû hêrsbûn an bêsebrî, tengasiyên xewê, xemgînî an bêhêvîtî, dûrketina ji hevalan, gelek caran serêş an êş, û paşguhkirina xwarin, werzîş an lênihêrîna bijîşkî ya xwe dihewîne. Heke nîşanên weha bi rêkûpêk çêdibin, bi bijîşkê xwe re bipeyivin."
+  - q: "Ez çawa dikarim li nêzî xwe lênêrîna bêhnvedanê bibînim?"
+    a: "Bi Eldercare Locator (1-800-677-1116 an eldercare.acl.gov) dest pê bikin da ku bigihîjin Area Agency on Aging a herêmî ya xwe, ARCH National Respite Locator Service, an Xeta Alîkariyê ya Alzheimer's Association li 1-800-272-3900. Malbat, heval û dilxwaz jî dikarin lênêrîna bêhnvedanê peyda bikin."
+  - q: "Gelo Medicare lêçûna lênêrîna bêhnvedanê dide?"
+    a: "Ji bo kesekî ku lênêrîna hospîsê werdigire, li gorî National Institute on Aging, Medicare piraniya lêçûna heta pênc rojên li pey hev ên lênêrîna bêhnvedanê li nexweşxaneyekê an navendeke lênêrîna pispor vedigire. Piraniya bîmeya tenduristiyê ya taybet lênêrîna bêhnvedanê nagire; Medicaid û hin planên bîmeya lênêrîna demdirêj dibe ku alîkariyê bikin."
+  - q: "Gelo Xeta Alîkariyê ya Alzheimer's Association bi rastî belaş e û bi şev jî berdest e?"
+    a: "Erê. Alzheimer's Association dibêje ku Xeta Alîkariyê ya wê li 1-800-272-3900 belaş, nehênî ye û 24 saetan, 365 rojên salê bi karmendan tê xebitandin, û alîkarî bi gelek zimanan heye. Ji bo karûbara veguhestinê 711 bikar bînin."
+  - q: "Gelo xweperestî ye ku ez ji lênêrînê bêhna xwe vedim?"
+    a: "Na. Bêhnvedan alîkariya we dike ku hûn lênihêrînê bidomînin, û lênêrîna bêhnvedanê jî dikare ji kesê ku hûn lênihêrîna wî dikin re guhertinek di hevaltiyê û çalakiyan de bîne. Gelek lênêrîner paşê dibêjin ku xwezî wan zûtir alîkariyê xwastiba."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +67,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Heke hûn lênêrîna kesekî ku bi demansê dijî dikin, dibe ku hûn vê rûpelê dereng, westiyayî û bi lîsteyeke karên neqediyayî dixwînin. Ev tiştekî normal e. Xema xwe girtin ne luks e û ne jî xelatek e ji bo qedandina her tiştî. Ew tiştê ku dihêle hûn berdewam bikin e.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ev rûpel nîşanên hişyariya westandinê, çawa bêhnvedanek rast bistînin, li ku derê piştgiriyê bibînin û xetên alîkariyê yên belaş li Dewletên Yekbûyî yên ku hûn îro dikarin bangî wan bikin vedibêje.
 
-## What are the signs of caregiver burnout?
+## Nîşanên westandina lênêrîneran çi ne?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Westandin bi gelemperî hêdî hêdî çêdibe, ji ber vê yekê baş e ku hûn nîşanên hişyariya xwe nas bikin. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) nîşanên stresa lênêrîneran rêz dike, di nav wan de:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- westî, zêde bar hîskirin an xemanî;
+- zû hêrsbûn an bêsebrî;
+- tenêtî an ji kesên din qutbûn hîskirin;
+- tengasiyên xewê, an têr ranewestin;
+- xemgînî an bêhêvîtî hîskirin, an eleqeya xwe bi tiştên ku berê kêfa we dianîn winda kirin;
+- gelek caran serêş, êş an pirsgirêkên din ên laşî;
+- wext tunebe ku hûn werzîşê bikin an ji bo xwe xwarinên tendurist amade bikin;
+- paşguhkirina serşokê an lênêrîna kesane ya din;
+- bi awayekî nebaş bikaranîna alkolê an dermanan, tevî dermanên bi reçete.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) nîşanên din jî zêde dike wekî înkarkirina nexweşiyê, hêrs li ser kesê ku hûn lênihêrîna wî dikin («ew tenê serhişk e»), xemanî li ser pêşerojê, tengasiyên balkişandinê, û pirsgirêkên tenduristiyê yên ku bandorê li we dikin. Ew şîret dike ku hûn bi bijîşkê xwe re bipeyivin heke nîşanên weha bi rêkûpêk çêdibin.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Şîreta NIA ev e ku li bendê nemînin heta ku hûn bi tevahî westiyayî bibin. Nîşanên xwe zû bibînin û li gorî wan tevbigirin.
 
-## What can I do today, in five minutes?
+## Îro, di nav pênc deqeyan de, ez dikarim çi bikim?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Bêhnvedanên piçûk jî girîng in. Ti yek ji van westandinê çareser nakin, lê dibe ku ji we re bibin alîkar ku hûn ji nîvroyeke dijwar derbas bibin.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Derkeve derve.** Li eywanê rûnê an heta qutiya posteyê bimeşin, dema ku ew kes ewle û aram e.
+- **Hêdî bêhna xwe bide.** Berî ku hûn bersiva pirsek dijwar bidin, çend bêhnvedanên hêdî bistînin. Hûn dikarin bêhnvedaneke [Bêhna Aram (Calm Breathing)](/games/calm-breathing/) jî bi kesê ku hûn lênihêrîna wî dikin re parve bikin.
+- **Hinek av vexwe û tiştekî bixwe.** Hêsan e ku meriv xwarinên xwe ji bîr bike.
+- **Ji hevalekî re peyamekê bişîne.** Ne ji bo xwestina tiştekî, tenê ji bo girêdanê.
+- **Tiştekî baş ji xwe re bibêje.** [Rêbera NIA ya ji bo xema xwe girtin](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) pêşniyar dike ku hûn bibêjin: «Ez çi ji destê min tê dikim», «Ez bêkêmasî nînim, û ev ne pirsgirêk e», û «Ez ê kêfa wan demên ku em dikarin bi aramî bi hev re bin kêf bikim».
 
-## What is respite care, and how do I get it?
+## Lênêrîna bêhnvedanê çi ye, û ez çawa wê bistînim?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Lênêrîna bêhnvedanê lênêrîneke demkurt e ji bo kesê ku hûn lê dinêrin, da ku hûn bikaribin bêhna xwe bidin. [Rûpela NIA ya derbarê lênêrîna bêhnvedanê de](https://www.nia.nih.gov/health/caregiving/what-respite-care) rave dike ku ew dikare ji çend saetan heta çend hefteyan bidome û dikare li malê, li navendeke lênihêrîna tenduristiyê an li navendeke lênêrîna rojane were kirin.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) cureyên hevpar wiha rave dike:
 
-| Type | What it is |
+| Cure | Ew çi ye |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Alîkariya li malê | Hevalek, xizmek, dilxwazek an hevkarek an arîkarek bi pere tê malê |
+| Navenda lênêrîna rojane | Çalakiyên plansazkirî wekî muzîk û huner di hawîrdoreke komî ya ewle de; gelek caran veguhestin û xwarin jî tên pêşkêş kirin |
+| Mayîna şevê an demkurt | Civakeke lênêrîna demdirêj ji bo şevekê, çend rojan an çend hefteyan lênêrîna wî kesî dike |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Kî lêçûnê dide?** Li gorî NIA, lênêrîna bêhnvedanê ya ji malbat, heval an dilxwazan dibe ku belaş be. Karûbarên pispor bi saet an roj drav didin. Ji bo kesekî ku lênêrîna hospîsê werdigire, Medicare piraniya lêçûna heta pênc rojên li pey hev ên lênêrîna bêhnvedanê li nexweşxaneyekê an navendeke lênêrîna pispor vedigire. Medicaid dibe ku alîkariyê bike. Piraniya bîmeya tenduristiyê ya taybet lênêrîna bêhnvedanê nagire, her çend hin planên bîmeya lênêrîna demdirêj wê digirin.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Şîret:** Alzheimer's Association pêşniyar dike ku hûn dabînkerên lênêrîna bêhnvedanê di rewşeke ne-acîl de biceribînin, da ku heke ji nişka ve alîkariya we pêwîst bibe ew amade bin.
 
-## Where can I find help near me?
+## Ez dikarim li nêzî xwe alîkariyê li ku bibînim?
 
-Several free US services can point you to local help.
+Çend karûbarên belaş li Dewletên Yekbûyî dikarin we ber bi alîkariya herêmî ve bibin.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Xeta Alîkariyê ya 24/7 ya Alzheimer's Association: 1-800-272-3900.** [Xeta Alîkariyê](https://www.alz.org/help-support/resources/helpline) belaş û nehênî ye, her roj û her demjimêrê di tevahiya salê de bi karmendan tê xebitandin, û bi zêdetirî 200 zimanan bi rêya karmendên duzimanî an wergêran alîkarî heye. Ji bo karûbara veguhestinê 711 bikar bînin. Hûn dikarin li ser guherînên tevgerê, stresa lênêrîneran, vebijarkên lênêrîna bêhnvedanê, bernameyên herêmî û zêdetir bipeyivin, û ji bo axaftineke dirêjtir bi şêwirmendek lênêrînê re bixwazin. Karmend şîreta bijîşkî nadin.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), karûbareke giştî ya Administration for Community Living, we bi karûbarên ji bo mezinên pîr û malbatên wan ve girê dide. Hûn dikarin bang bikin, peyam bişînin, serhêl sohbet bikin an ji karmendên perwerdekirî re e-name bişînin, an jî li gorî cihê bigerin. Ew dikare we ber bi Area Agency on Aging a herêmî ya we ve bibe.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) alîkariya we dike ku hûn dabînkerên lênêrîna bêhnvedanê li gorî dewletê bibînin, û pêşniyar dike ku heke dewleta we yek hebe, pêşî bi State Respite Coalition an bernameya Lifespan Respite re têkilî daynin. ARCH destnîşan dike ku ew dabînkeran kontrol nake, ji ber vê yekê ezmûn û paşxaneya wan bi xwe binirxînin.
 
-## How do I find a support group?
+## Ez çawa dikarim komeke piştgiriyê bibînim?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Ji Xeta Alîkariyê bipirsin an serhêl li komên li nêzî xwe bigerin. Alzheimer's Association [komên piştgiriyê dimeşîne](https://www.alz.org/help-support/community/support-groups) ji bo lênêrîneran û kesên ku bi demansê dijîn, bi awayê rû bi rû û serhêl, bi rêberiya asankarkerên perwerdekirî. Gelek cih jî komên taybet pêşkêş dikin, wek nimûne ji bo lênêrînerên mezin an ji bo kesên ku bi Alzheimer's ya destpêka ciwan an qonaxa destpêkê dijîn. Ew di heman demê de ALZConnected jî dimeşîne, civakeke serhêl a belaş ku lê de lênêrîner şîretên xwe parve dikin.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Komên piştgiriyê dikarin bibin cihê ku hûn bê dadbarî bêhna xwe berdin, ji kesên ku vê rê derbas kirine şîretên pratîk bistînin, û xwe kêmtir tenê hîs bikin. Heke koma yekem ji we re ne guncaw e, yekeke din biceribînin.
 
-## How do I ask family and friends for help?
+## Ez çawa ji malbat û hevalan alîkariyê bixwazim?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Taybet bin. Gelek kes dixwazin alîkariyê bikin lê nizanin çi pêşkêş bikin. NIA pêşniyar dike:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Lîsteyekê bihêlin** ji karên ku kesên din dikarin bikin, û bihêlin mirov hilbijêrin.
+- **Bi piçûk dest pê bikin** heke xwestin dijwar e.
+- **Karê li gorî kesê hilbijêrin.** Xwişka ku ji xwarinçêkirinê hez dike, pêncşeman şîvê tîne. Cîranê ku di forman de baş e, di kaxezan de alîkariyê dike.
+- **Peyam an e-name bişînin** heke rû bi rû xwestin ne rehet e.
+- **Bersivekê pratîk bikin** ji bo dema ku kesek alîkariyê pêşkêş dike: «Spas ji bo pirsê. Ev tiştê ku tu dikarî bikî ye.»
+- **Li bendê hin bersivên na bin** û hewl bidin ku wan kesane negirin.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Fikrên din: ji kesekî bixwazin ku heftê carekê nîvroyekê bi wî kesî re bimîne, wî bibin derkevineke kurt, an were serdanê û bi hev re lîstikekê bilîzin. [Rêbera me ya ji bo bi hev re lîstinê](/caregiving/how-to-play-together/) hêsan e ku bi mêvanan re were parve kirin.
 
-## What if something happened to me?
+## Ger tiştek ji min re çêbibe çi?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Niha planeke hêsan a paşerojê çêkin. NIA pêşniyar dike ku hûn bi malbat an hevalên nêzîk re biryar bidin ka kî dê bikeve şûnê, û defterekê bihêlin ku tê de hejmarên acîl, derman, şîretên tevgerê yên ku alîkariyê dikin, û çalakiyên bijare hebin. Alzheimer's Association jî pêşniyar dike ku têkiliyên bijîşkî yên wî kesî û lîsteyeke nûjen a dermanan hêsan werin dîtin.
 
-## When should I get professional or urgent help?
+## Kengî divê ez alîkariya pispor an acîl bistînim?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Bi bijîşkê xwe re bipeyivin heke nîşanên stresê bi rêkûpêk çêdibin, heke hûn xwe xemgîn hîs dikin, an heke hûn di rûbirûbûna rewşê de tengasiyê dikişînin. Ji bijîşkê xwe re bibêjin ku hûn lênêrîner in. NIA destnîşan dike ku şêwirmend û xebatkarên civakî dikarin di hestên dijwar û plansaziyê de alîkariyê bikin, û ku Medicare, Medicaid û hin bîmeyên taybet dibe ku hin lêçûnên tenduristiya derûnî bidin.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Heke hûn xwe di rewşeke krîzê de hîs bikin an fikrên zirarê li xwe kirinê hene, bangî 988 bikin an peyamekê bişînin da ku bigihîjin [988 Suicide & Crisis Lifeline](https://988lifeline.org/), ku belaş e û 24/7 berdest e. Heke kesek di xetereya yekser de be, bangî 112 bikin.
 
-## Can shared activities give me a break too?
+## Gelo çalakiyên hevpar dikarin ji min re jî bibin bêhnvedan?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Carinan. Çalakiyeke aram ku hûn her du jê kêfê digirin dikare ji bo we û ji bo kesê ku hûn lênihêrîna wî dikin bibe beşeke nermtir a rojê: guhdarîkirina stranên kevn, li wêneyan mêze kirin, an lîstikek wekî [Kartên Axaftinê (Conversation Cards)](/games/conversation-cards/) ku bersiveke rast nagire. Heke ew kes ji hevaltiyê kêfê digire, danişîneke komî ya bi [Bingoya Wêneyan (Picture Bingo)](/games/picture-bingo/) li navendeke mezinan an bernameyeke lênêrîna rojane dikare saetek bêhnvedanê bide we. Ji bo fikran li [çalakiyên ji bo komên li mala lênêrînê](/activities/care-home-groups/) binêrin.

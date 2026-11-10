@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Dema kesek bi demansê çalakiyekê red dike"
+seoTitle: "Dema kesek bi demansê çalakiyekê red dike"
+description: "Çima kesek ku bi demansê dijî dibe ku çalakiyekê red bike an aciz bibe, çi dikare were ceribandin, çi divê neyê kirin, û kengê guhertinek ji nişka ve pêwîstî bi bijîşk heye."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Gava kesek bi demansê dibêje na, wê bi aramî qebûl bikin û paşê dîsa
+  biceribînin an tiştekî cuda pêşniyar bikin. Redkirin pir caran sedemek heye:
+  dibe ku kar ji bo wî an wê pir dijwar an jî wekî zarokanî be, an jî westiyayî,
+  di êşê de, birçî be, an ji deng û qerebalixiyê aciz bibe. Nîqaş nekin û
+  zorê nedin. Karê hêsan bikin, du bijarde pêşniyar bikin, an ji wî an wê
+  alîkariyê bixwazin. Guherînên ji nişka ve an zû-zû di tevgerê de, bi taybetî
+  piştî enfeksiyonekê an dermanekî nû, divê zû ji bijîşkekî re bên gotin.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Na» bersiveke e ku divê were rêzgirtin, ne pirsgirêkek e ku divê were çareserkirin."
+  - "Redkirin pir caran sedemek heye: pir dijwar, wekî zarokanî, westiyayî, nexweşî, nerehetî, an jî zêde teşwîq."
+  - "Paşde vekişin, li bendê bimînin, û paşê, di demekî cuda de, an bi formekî hêsantir dîsa biceribînin."
+  - "Xwestina alîkariyê ji wî an wê çêtir dixebite ji xwestina ku tiştekî nîşan bide."
+  - "Tu carî nîqaş nekin, zorê nedin, nepirsin û rast nekin. Li xwe binêrin ka hûn lez dikin an zêde nêzîk dibin."
+  - "Guherînên ji nişka ve an zû-zû di tevgerê de, bi taybetî bi enfeksiyon an dermanên nû re, divê di cih de ji bijîşkekî re bên gotin."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Gelo baş e ku bila ew qet beşdarî çalakiyan nebin?"
+    a: "Erê, di rojekê de. Rûniştina bi hev re, guhdarîkirina muzîkê an temaşekirina derdora xwe dikare bes be. Heke kesek di nav hefteyan de dev ji kêfa hemû tiştan berde, ji bijîşkê wî an wê re bibêjin, ji ber ku kêfa kêm, êş an pirsgirêkên din ên tenduristiyê dibe ku beşek ji rewşê bin."
+  - q: "Çima ew tiştên ku berê pir jê hez dikirin red dikin?"
+    a: "Hobiyekî kevn dikare bibe sedema acizbûnê gava ku ew niha jêhatîbûnên ku demansê dijwartir kiriye dixwaze, û kes dibe ku xwe şerm bike. Beşekî hêsantir ji heman çalakiyê biceribînin, wekî rêzkirina bişkokan li şûna dirûtinê, an li wêneyên baxçê mêze kirin li şûna çandinê."
+  - q: "Gelo divê ez hewl bidim ku wan razî bikim?"
+    a: "Na. Zorê dayîna kesekî ji bo kirina tiştekî ku demansê dijwar kiriye, wekî sedemekî naskirî yê alozbûnê tê zanîn. Na-yê qebûl bikin, mijarê biguherînin, û paşê an bi rêyekî cuda dîsa pêşniyar bikin."
+  - q: "Kengê guhertinek di tevgerê de rewşeke lezgîn e?"
+    a: "Heke kesek di metirsiyê de be an nîşanên rewşeke lezgîn a bijîşkî hebe, gazî 122 bikin. Ji bo tevliheviya ji nişka ve an tevgera ku di nav çend saetan an rojan de zû diguhere, bi taybetî bi taya, enfeksiyon an dermanekî nû re, di cih de bi bijîşkê wî an wê re têkilî daynin."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Hûn her tiştî amade dikin, lîstikekê an gerê pêşniyar dikin, û dibihîzin: «Na.» An jî çalakî baş dest pê dike lê bi tabletê ku tê paşve xistin û peyvekî tûj diqede. Ev dilşikestî ye, û pir berbelav e. Redkirin û bêhntengî pir caran peyamek in, ne serhişkî. Fêmkirina vê peyamê pir caran nîşan dide ku paşê çi dikare were ceribandin.
 
-## Why does someone with dementia refuse activities?
+## Çima kesek bi demansê çalakiyan red dike?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Bi gelemperî sedemek heye, her çend kes nikaribe wê bi peyvan bêje. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dibêje ku berxwedan dibe ku were vê wateyê ku kes nikare karê bike an jî ji ceribandinê ditirse. Sedemên hevpar ev in:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Kar pir dijwar tê hîskirin.** Çalakî niha jêhatîbûnên ku demansê dijwar kiriye dixwaze, û têkçûn li ber çavên kesekî din şerm dike.
+- **Wekî zarokanî tê hîskirin.** Mezinan wêneyên kartonî, dengên wekî stranan û çalakiyên ku wekî ji bo zarokan hatine çêkirin dibînin.
+- **Westiyayî.** Gelek kesan di dawiya rojê de kêmtir hêz heye. Binêrin [çalakiyên aram ji bo dawiya nîvro](/caregiving/late-day-restlessness/).
+- **Nerehetiya laşî.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) êş, kêmbûna xewê, zehmetiya dîtin an bihîstinê, qebizî, birçîbûn, tîbûn û bandorên dermanên nû wekî sedemên gengaz ên tengahiyê dibêje.
+- **Zêde tişt diqewimin.** Televizyonek bi deng, çend axaftin an jûreyek qelebalix dikare mirov bêzar bike.
+- **Hîskirina zordestiyê.** NIA dibêje ku zordayîn ji bo kirina tiştekî ku Alzheimer pir dijwar kiriye, an jî ji bo bîranîna bûyer an kesan, dikare bibe sedema alozbûnê.
+- **Kêfa kêm.** Wendabûna eleqeya li tiştan dikare nîşana depresyonê be, ku divê bi bijîşkekî re bê gotin.
+- **Bi tenê naxwaze.** Mezinan maf heye ku bibêjin na.
 
-## What should I try when they say no?
+## Dema ku ew dibêjin na, ez çi biceribînim?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Na-yê bi aramî qebûl bikin, dû re tiştekî biguherînin: dem, çalakî, asta dijwariyê an awayê xwestinê.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Vê carê berde.** «Baş e. Dibe ku paşê.» Dû re bêyî hêncekê derbasî tiştekî din bibin.
+2. **Paşê dîsa biceribînin.** Alzheimer's Association pêşniyar dike ku paşê, an di demekî cuda yê rojê de dîsa were ceribandin.
+3. **Karê biçûktir bikin.** Li şûna tevahiya lîstikê tenê yek hevber. Li şûna selika cilşûştinê tenê yek destmal. Kêmtir wêne, kêmtir bijarde, û wêneyên ku xuya dimînin.
+4. **Du bijarde pêşniyar bikin.** «Dixwazî li wêneyên çûkan mêze bikî an li muzîkê guhdarî bikî?» Bijartek hestek kontrolê vedigerîne.
+5. **Li şûna ceribandinê alîkariyê bixwazin.** «Dikarî alîkariya min bikî ku van rêz bikim?» an «Dikarî ji min re bibêjî kîjan reng çêtir xuya dike?» Hêstkirina ku kesek pêwîst e, ji ceribandinê pir cuda ye.
+6. **Hûn bixwe dest pê bikin.** Bêyî pirsê li kêleka wî an wê dest bi çalakiyê bikin. Gelek kes beşdar dibin gava tiştek jixwe dest pê kiriye, û heke nebin jî, we dîsa dem bi hev re derbas kiriye.
+7. **Derbasî tiştekî laşî an aramker bibin.** Geriyek kurt, muzîk, xwarinek piçûk, qatkirina cilşûştinê, an rawestgeheke aram a [bêhnkişandina aram](/games/calm-breathing/) bi hev re. NIA pêşniyar dike ku balê bikişîne ser muzîkê, pirtûkekê an gerê.
+8. **Bila ew bi awayê xwe bike.** Heke dixwaze bi awayekî ji rêzikan cuda bilîze, bi wî awayî bidomînin. Alzheimer's Association şîret dike ku nerm bin.
 
-## What should I say when they get frustrated?
+## Dema ku ew aciz dibin, ez çi bibêjim?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Lezê kêm bikin, dengê xwe nizm bikin û aram bikin. [Rêberiya Alzheimer's Association li ser alozbûnê](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) pêşniyar dike ku hinekî paşde vekişin û destûrê bixwazin, gotinên aram û erênî bi kar bînin, û di navbera du bijardan de bijarteyek rêberîkirî pêşniyar bikin. Gotinên bi vî ruhî:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Bibore, ev yek acizker e. Werin em rawestin.»
+- «Tu baş dikî. Ez li vir im.»
+- «Wextê te heye ku alîkariya min bi tiştekî din bikî?»
+- «Em li şûna wê çayekê vexwin?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Dû re çalakiyê bi dawî bikin bêyî ku wê bibin pirsgirêkek mezin. [Serişteyên me yên ragihandinê](/caregiving/communication-tips/) bêtir li ser tiştên ku têne gotin vedibêjin.
 
-## What should I avoid?
+## Divê ez ji çi dûr bikevim?
 
-Some natural reactions tend to make things worse.
+Hin bertekên xwezayî pir caran rewşê xirabtir dikin.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Nîqaş kirin an zorê dan.** «Were, tenê carekî din» an «Tu ji vê hez dikî» kêm caran alîkar in.
+- **Pirsîn an rastkirin.** «Tu dizanî ev çi ye» an «Na, ew ne rast e» zextê zêde dike.
+- **Kesane girtin.** NIA bîranîna lênihêrkeran dike ku nexweşî, ne kes, dibe sedema van guherînan.
+- **Zêde nêzîkbûn an lez kirin.** Alzheimer's Association şîret dike ku dengê xwe bilind nekin, tirsê nîşan nedin, kesê di quncikekê de nehêlin, zêde nêzîk nebin, wî an wê negirin, rexne nekin, guh nedin an nîqaş nekin, û ji tevgerên ji nişka ve ku ew nabîne dûr bikevin.
+- **Sûcdarkirin.** «Min ev hemû ji bo te amade kir» we her duyan jî xirabtir hîs dike.
+- **Etîket kirin.** «Serhişk» an «dijwar» sedema rastîn vedişêre û çareserkirinê dijwartir dike.
 
-## How can I find out what is behind repeated refusals?
+## Ez çawa fêm bikim ku li pişt redkirinên dubare çi heye?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Ji bo hefteyekê an du hefteyan notek hêsan bigirin. NIA dibêje ku şopandina guherînên tevgerê dikare ji lênihêrkeran û dabînkerên lênihêrîna tenduristiyê re bibe alîkar ku nimûneyekê nas bikin û sedemê bibînin.
 
-Jot down:
+Van tiştan binivîsin:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- dema rojê;
+- we çi pêşniyar kir û we çawa xwest;
+- li derdora we çi diqewimî (deng, mêvan, televizyon);
+- ew çawa razayî, xwar û vexwar, û cara dawî kengê çû ser tuwaletê;
+- her dermanek nû an nexweşiyek dawî.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Nimûne pir caran zû derdikevin: redkirinên ku tenê piştî demjimêr 4 ê nîvro çêdibin, tenê bi lîstikekê diyar re, an tenê gava televizyon vekirî ye. [Rêberiya Family Caregiver Alliance li ser tevgerên demansê](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) bi sade dibêje: em nikarin kesê biguherînin, lê em dikarin tevgera xwe û jîngehê biguherînin.
 
-## When should I talk to a doctor about refusal or frustration?
+## Kengê divê ez derbarê redkirin an bêhntengiyê bi bijîşkekî re bipeyivim?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Gava ku tevger ji nişka ve, zû, an bi nîşanên nexweşiyê re diguhere, bi bijîşkekî re bipeyivim. NIA dibêje ku guherînên ji nişka ve an zû-zû di tevgerê de, bi taybetî heke kesê enfeksiyonek hebûbe an guherînên dawî di dermanan de hebin, divê di cih de ji bijîşkekî re bê gotin.
 
-Contact their doctor promptly if you notice:
+Heke hûn van tiştan dibînin, di cih de bi bijîşkê wî an wê re têkilî daynin:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- tevliheviya ji nişka ve an guhertinek mezin di nav çend saetan an rojan de;
+- nîşanên êşê, wekî rûçikandin, parastina beşekî laş, an zehmetiya nû ya tevgerê;
+- taya an nîşanên din ên enfeksiyonê;
+- dermanên nû an guherandî ku piştî wan guherînek di tevgerê de çêdibe;
+- di nav çend hefteyan de wendabûna eleqeya li hema hema her tiştî, girîn an vekişîn;
+- redkirina xwarin an vexwarinê.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association ji bo her kesê ku nîşanên tevgerê hene, bi taybetî gava ku ew ji nişka ve derdikevin, kontrolkirineke bijîşkî ya berfireh pêşniyar dike. Family Caregiver Alliance jî şîret dike ku pêşî bi bijîşkê re were kontrol kirin, ji ber ku pirsgirêkên tevgerê dibe ku sedemek bijîşkî hebe. Bêyî axaftinê bi bijîşkekî an dermansazekî re tu dermanek dest pê nekin, rawestînin an neguherînin.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Heke kesek di metirsiyê de be an nîşanên rewşeke lezgîn a bijîşkî hebin, gazî 122 bikin. NIA pêşniyar dike ku ji bersivdarê gaziyê re bê gotin ku kes bi demansê dijî.
 
-## Is it okay if we do nothing at all?
+## Gelo baş e ku em qet tiştekî nekin?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Erê. Hin rojan çêtirîn çalakî ew e ku çalakî tune be: rûniştina bi hev re, girtina destan, guhdarîkirina straneke bijare, an ji pencereyê temaşekirina çûkan. Ev têkçûn nîne. [Rêbernameya me ya lîstina bi hev re](/caregiving/how-to-play-together/) şirove dike çima zû rawestan, an qet dest pê nekirin, dikare biryara rast be.

@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Ворсӧмъяс дорйӧны-ӧ деменцияысь? Тӧдӧмторъяс"
+seoTitle: "Ворсӧмъяс да деменция: мый висьталӧны тӧдӧмторъяс"
+description: "Мый висьталӧны тӧдӧмторъяс ворсӧмъяс да деменция йылысь: когнитивнӧй стимуляция, ACTIVE тӧдмалӧм да Lumosity йылысь FTC кадсяньтор, гӧгӧрвоана ногӧн."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Некутшӧм ворсӧм оз висьтав дорйыны деменцияысь. Компьютер ворсӧмъяс
+  тшӧтш уна сӧмын бурмӧдӧны сійӧ уджъяссӧ, кодъяс вылӧ морт велӧдчӧ.
+  ACTIVE тӧдмалӧмын ӧти торъя ӧдйӧ кад видлалӧм да содтӧм велӧдан
+  тӧвныръяс йитчӧмаӧсь 20 воӧдз деменция пасйӧм этшаджык лыдкӧд, но тайӧ
+  торъя аддзӧм. Деменцияӧн олысь йӧзлы чукӧрын когнитивнӧй стимуляция
+  петкӧдлӧ ичӧт, недырся кадколаст лыдпасъяс. Медбур ворсӧмъясӧн
+  гажӧдчыны да ӧтвыв мӧвпавны.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Ворсӧмъясӧн велӧдчӧм йылысь тӧдмалӧмъяс петкӧдлӧны, мый йӧз бурджыка вӧчӧны сійӧ уджъяссӧ, кодъяс вылӧ велӧдчӧны, но зэв этша висьталӧны, мый тайӧ отсалӧ быдлун оланын."
+  - "ACTIVE тӧдмалӧмын сӧмын ӧдйӧ кад видлалӧм да содтӧм велӧдан тӧвныръяс вӧчисныс йӧзлӧн 20 воӧдз вӧлі этшаджык деменция пасйӧм. Ӧдйӧ кад видлалӧм содтӧм тӧвныртӧг, а сідзжӧ казьтыштӧм да мӧвпалӧм велӧдӧм тайӧс оз петкӧдлӧй."
+  - "2016 воын Lumosity лӧсьӧдысь мынтіс 2 миллион доллар FTC-ӧн сёрнитӧмын, мый налӧн эз вӧв тырмымӧн тӧдӧмторъяс сёрнитны деменция сёрмӧм вӧлӧм йылысь."
+  - "Шӧр да неыджыд деменцияӧн олысь йӧзлы когнитивнӧй стимуляция чукӧрын петкӧдлӧны ичӧт, недырся кадколаст лыдпасъяс мӧвпалӧмын да бурджык лыдпасъяс сёрнитӧмын да йӧзкӧд йитчӧмын."
+  - "Golden Moments ворсӧмъяс лӧсьӧдӧмаӧсь гаж да ӧтувъя кадколаст вӧсна. Найӧ оз лоӧны бурдӧдан ногӧн и оз дорйӧйны либӧ оз сёрмӧдӧйны деменция."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Ворсӧмъяс дорйӧны-ӧ Альцгеймер висьысь?"
+    a: "Некутшӧм ворсӧм эз висьтав дорйыны Альцгеймер висьысь либӧ мукӧд деменцияысь. National Institute on Aging шуӧ, мый оз тырмы тӧдӧмторъяс, медым коммерческӧй ворсӧм приложениесӧ вӧлі сійӧ жӧ эффект, коді аддзӧма тӧдмалӧмъясын. Ворсӧмъяс вермасны лоны бур ногӧн кад коллялӧм вылӧ."
+  - q: "Мый аддзис ACTIVE тӧдмалӧм ӧдйӧ кад видлалӧм да деменция йылысь?"
+    a: "2026 воын видлалісны ACTIVE тӧдмалӧмын пырӧм йӧзлысь Medicare гижӧдъяс 20 во чӧж. Ӧдйӧ кад видлалӧм да этшакӧ ӧти содтӧм тӧвныр вӧчисныс йӧзлӧн деменция пасйӧм вӧлі этшаджык, кыдзи велӧдчытӧм чукӧрын. Ӧдйӧ кад видлалӧм содтӧм тӧвныртӧг, а сідзжӧ казьтыштӧм либӧ мӧвпалӧм велӧдӧм эз петкӧдлӧй тыдалана торъялӧм."
+  - q: "Паськӧмъяс да ворсӧмъяс отсалӧны-ӧ мортлы, коді нин олӧ деменцияӧн?"
+    a: "Тайӧ вермас лоны, мортлы кӧ найӧ нимкодьӧсь. Чукӧрын когнитивнӧй стимуляция, кӧні вӧдитчӧны кывворсӧмъяс, паськӧмъяс, сьыланкыв да сёрни, петкӧдлӧ ичӧт недырся кадколаст лыдпасъяс мӧвпалӧмын да бурджык лыдпасъяс сёрнитӧмын да йӧзкӧд йитчӧмын. Медбур мог — гаж, а не тест результат."
+  - q: "Мыйла FTC шыбитіс Lumosity-ӧс?"
+    a: "2016 воын Federal Trade Commission мытшасис, мый Lumos Labs сёрнитіс аслас ворсӧмъяс йылысь, шуам, найӧ сёрмӧдӧны арлыда чинӧм да деменция, но эз вӧв тырмымӧн тӧдӧмторъяс. Компания согласитчис мынтыны 2 миллион доллар да водзӧ сідз шуигӧн индны надёжнӧй тӧдӧмторъяс."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,93 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Ворсӧмъяс вӧдитчыныӧн быдлаын, и унаысь найӧ кӧсйӧны видзны юрсӧ томӧн. Ті кӧ видзӧданныд деменцияӧн олысь мортӧс либӧ повзянныд асланыд казьтыштӧм йылысь, гӧгӧрвоана, мый окотит тӧдны, вермас-ӧ ворсӧм отсавны. Татшӧм мый збыль висьталӧны тӧдмалӧмъяс, кӧні эмӧсь нимкодь лыдпасъяс и кӧні абу.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Тайӧ ӧтувъя юӧр, абу бурдӧдчан инӧд. Видзӧд [медицинскӧй ӧтдортчӧм](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Ворсӧмъяс дорйӧны-ӧ деменцияысь?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Некутшӧм ворсӧм эз висьтав дорйыны деменцияысь. National Institute on Aging (NIA) советуйтӧ видзчысьны сійӧ шуӧмъясысь, мый компьютер да онлайн ворсӧмъяс вермасны бурмӧдны казьтыштӧм, и шуӧ, мый оз тырмы тӧдӧмторъяс, медым коммерческӧй ворсӧм приложениесӧ вӧлі сійӧ жӧ торъялӧм, мый клиническӧй тӧдмалӧмъясын видлӧм велӧдӧмын ([NIA Альцгеймер висьысь дорйӧм йылысь](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Тайӧ оз висьтав, мый ворсӧмъяс бесполезнӧйӧсь. Тайӧ висьталӧ, мый налӧн дон гажын, ӧтувъя кадколастын да олан рутинын, а не деменцияысь дорйӧмын.
 
-## What is "near transfer", and why does it matter?
+## Мый сійӧ «матын вуджӧм» (near transfer), и мыйла сійӧ колана?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Кор ті велӧдчанныд кутшӧмкӧ удж вылӧ, ті тшӧтш бурджыка вӧчанныд сійӧс. Тӧдмалысьяс шуӧны тайӧ велӧдӧм эффектӧн. Сыысь сьӧкыдджык юалӧм — вуджӧ-ӧ бурмӧдӧм мукӧдторӧ: матын уджъясӧ (матын вуджӧм) либӧ быдлун оланӧ, шуам, тӧдмавны тӧвныръяс либӧ веськӧдлыны сьӧм (ылі вуджӧм).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 воын ыджыд видлалӧм тӧдмаліс тӧдмалӧмъяссӧ, кодъясӧс ворсӧм компанияяс индісны медбур тӧдӧмторъясӧн. Аддзисны, мый йӧз збыль бурмӧдӧны ассьыныс велӧдӧм уджъясын, этшаджык эм тӧдӧмтор, мый найӧ бурмӧдӧны матын уджъясын, и зэв этша тӧдӧмтор, мый велӧдӧм бурмӧдӧ быдлун мӧвпалӧм. Уна тӧдмалӧмын вӧліны лӧсьӧдӧм торъялӧмъяс, кодъяс оз вермытыны вынсьӧдны тырвыйӧ выводъяс
+([Simons да мукӧдъяс, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Мый шуӧны видлалӧмъяс компьютерын ворсӧмысь?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane видлалӧмъяс, кодъяс ӧтувтӧны медбур тӧдмалӧмъяс, видлісны компьютерын велӧдӧм, коді нуӧдіс 12 недельысь унджык:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **65 арӧссянь выйысь дзоньвидза йӧз:** кӧкъямыс тӧдмалӧм 1 183 морткӧд. Тӧдӧмторъяс вӧліны уля либӧ зэв уля бурлунӧн. Вермас лоны ичӧтик лыдпас велӧдӧм бӧрын, но абу бура тӧдса, кутшӧм дыр сійӧ кутас
+  ([Cochrane видлалӧм, дзоньвидза ыджыд йӧз](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Неыджыд когнитивнӧй торъялӧмӧн йӧз:** кӧкъямыс тӧдмалӧм 660 морткӧд. Некутшӧм тӧдмалӧм эз висьтав, воис-ӧ налӧн бӧрӧ деменция, и тӧдӧмторъяс вӧліны вывті омӧльӧсь, медым тырвыйӧ выводъяс вӧчны
+  ([Cochrane видлалӧм, неыджыд когнитивнӧй торъялӧм](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Мый аддзис ACTIVE тӧдмалӧм?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE — тайӧ ыджыд АӦШ-ын тӧдмалӧм, коді заводитчис 1998 воын 2 802 йӧзкӧд 65 арӧссянь вылын, кодъяс олісны ас ногӧн и налӧн эз вӧв ыджыд казьтыштӧм либӧ мӧвпалӧм торъялӧм. Йӧзсӧ бӧрйисны ӧти куим велӧдӧм сикас чукӧр пиысь (ӧдйӧ кад видлалӧм, казьтыштӧм либӧ мӧвпалӧм) либӧ велӧдчытытӧм чукӧрӧ. Велӧдӧм вӧлі дас тӧвнырӧдз вит либӧ квайт недельӧн. Мукӧд йӧзлы, кодъяс помалісны унджык тӧвныръяссӧ, сідзжӧ вӧлі сетӧма **содтӧм тӧвныръяс** ӧти да куим во бӧрын.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Ӧдйӧ кад видлалӧм серти коліс аддзыны да вежӧртны синмӧн петкӧдлӧмтор медся дженьыд кадӧн, тшӧтшӧн сійӧ сьӧкыдмӧдіс, кыдзи морт бурмӧдіс.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 воын тӧдмалысьяс йитісны 2 021 пырысьлысь юӧръяссӧ Medicare гижӧдъяскӧд 20 во чӧж ([ACTIVE 20 вося видлалӧм](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Вот мый найӧ аддзисны:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Ӧдйӧ кад видлалӧм да этшакӧ ӧти содтӧм тӧвныр:** деменция пасйӧм вӧлі этшаджык, кыдзи велӧдчытытӧм чукӧрын (коэффициент 0,75, мый висьталӧ 25% гӧгӧр этшаджык лыд).
+- **Ӧдйӧ кад видлалӧм содтӧм тӧвныртӧг:** этшаджык лыд абу.
+- **Казьтыштӧм либӧ мӧвпалӧм велӧдӧм:** тыдалана торъялӧм деменция пасйӧмын абу.
+- **Быд велӧдан чукӧр ставнас велӧдчытытӧм чукӧркӧд орччӧдӧмын:** вӧлі этшаджык лыд мӧвп, но статистика серти тырвыйӧ абу.
 
-### The limits of this finding
+### Тайӧ аддзӧмлысь дорӧмъяс
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Сійӧ лӧсялӧ **ӧти торъя, веськӧдлыны видзан ӧдйӧ кад видлалан велӧдӧм да содтӧм тӧвныръяс вылӧ**, а не став ворсӧмъяс вылӧ.
+- Тырвыйӧ результат воис **чукӧр торъя юкӧнысь** (йӧз, кодъяс помалісны медуна тӧвныръяссӧ и вермисны босьтны содтӧм тӧвныръяс), а не став ӧдйӧ кад велӧдан чукӧрысь.
+- Деменциясӧ тӧдмалісны **Medicare гижӧдъясын пасйӧм кодъяс серти**, а не быд мортӧс аслысспӧда видлалӧмӧн. Медводдза пырысьясысь джынйыс нёльӧд юкӧн эз лыддьысь, сы вӧсна мый найӧ вӧліны Medicare Advantage-ын, кӧні абу став гижӧд.
+- Заводитігӧн пырысьяслы эз вӧв тыдалана мӧвпалӧм торъялӧм. Результатъяс оз висьтавӧй ворсӧмъяс йылысь **нин деменцияӧн олысь йӧзлы**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Тайӧ интереснӧй аддзӧм, коді вылӧ колӧ водзӧ тӧдмавны. Тайӧ оз ло тӧдӧмторӧн, мый кутшӧмкӧ приложение дорйӧ деменцияысь.
 
-## What did the FTC say about Lumosity?
+## Мый шуис FTC Lumosity йылысь?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016 воын гижӧдын тӧлын Lumos Labs, Lumosity лӧсьӧдысь, согласитчис мынтыны 2 миллион доллар, медым помасьны Federal Trade Commission мытшасӧмкӧд ылӧдчӧм реклама йылысь. FTC шуис, мый компания сёрнитіс, но эз вӧв тырмымӧн тӧдӧмторъяс, мый сылысь ворсӧмъяс вермасны бурмӧдны удж да велӧдчӧмын уджалӧм да сёрмӧдны арлыда чинӧм, неыджыд когнитивнӧй торъялӧм, деменция да Альцгеймер висьӧм. Шуӧм серти компаниялы колӧ лоны надёжнӧй тӧдӧмторъяс, водзӧ татшӧмтор йылысь шуигӧн ([FTC юӧр](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Семьяяслы тӧдӧм: видзчысьӧй быд ворсӧмысь, приложениеысь либӧ программаысь, коді кӧсйӧ дорйыны казьтыштӧмсӧ либӧ деменцияысь.
 
-## Can games help someone who already has dementia?
+## Ворсӧмъяс вермасны-ӧ отсавны мортлы, коді нин олӧ деменцияӧн?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Найӧ вермасны бурмӧдны лун, и тайӧ зэв колана. Медуна тӧдмалӧма ног — **когнитивнӧй стимуляция**: нимкодь чукӧрын уджъяс, шуам, сёрнитӧм, казьтыштӧмторъяс, кывворсӧмъяс, паськӧмъяс да сьыланкыв, тшӧтш ичӧтик чукӧрын, веськӧдлысьӧн.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 воын Cochrane видлалӧм 37 тӧдмалӧм вылын 2 766 морткӧд шӧр да неыджыд деменцияӧн аддзис
+([Cochrane когнитивнӧй стимуляция йылысь видлалӧм](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **ичӧт, недырся кадколаст лыдпас** мӧвпалӧм тестъясын (шӧр бурлун тӧдӧмтор);
+- **тыдалана бурмӧдӧм сёрнитӧмын да йӧзкӧд йитчӧмын** (бур тӧдӧмтор, этшаджык тӧдмалӧмъясысь);
+- **ичӧтик лыдпасъяс** олан бурлун, кӧлӧмлун да оласног йылысь.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Лыдпасъяссӧ тшӧтш тӧдмалісны программаяс помасьӧм бӧрын дас недель гӧгӧр, и этша тӧдмалӧм видліс, кутшӧм дыр найӧ кутасны. Когнитивнӧй стимуляция — тайӧ лӧсьӧдӧм чукӧрын программа, сійӧн тайӧ результатъяс оз лӧсявӧй дзик пыр мортлы, коді ворсӧ ас пытшкас планшет вылын.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024 воын Lancet комиссия сідзжӧ шуӧ, мый уджъяс программаяс коланӧйӧсь деменцияӧн олысь йӧзлы, медым видзны гаж да мог
+([Lancet комиссия](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Мыйысь збыль ворсӧмъяс отсалӧны?
 
-When chosen well, games can offer:
+Бура бӧрйӧмӧн ворсӧмъяс вермасны сетны:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Гаж.** Бур джын час колана аслысспӧда вӧсна.
+- **Йитчӧм.** Ӧтлаын ворсӧм сетӧ кокни ног, мыйӧн позьӧ юксьыны, кор сёрнитӧм сьӧкыд. Видзӧд [кыдзи ворсны ӧтлаын](/caregiving/how-to-play-together/).
+- **Рутина.** Тӧдана удж лунбыд сійӧ жӧ кадӧ вермас сетны каньӧдлун.
+- **Асьтӧ веритӧм.** Мортлы лӧсялана уджъяс сетӧны дӧнысь казяласьны, а не тест пасьны.
+- **Сёрнитӧм.** Серпас либӧ тӧдана кывйӧз вермасны восьтыны висьт. Видлӧй [сёрнитан картаяс](/games/conversation-cards/) либӧ [помав кывйӧзсӧ](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Мыйысь колӧ видзчысьны: часі, балъяс, лыдпасъяс да ставыс, мый лоӧ казьтыштӧм тесткодь. Морт кӧ сьӧктасьӧ, дугдӧй. Водзджык помавны либӧ просто ӧтлаын пукавны — тайӧ бур пом. Миян [кыдзи бӧрйыны приложени да ворсӧм](/caregiving/choosing-apps-and-games/) юӧрын эм лыддьӧг.
 
-## Where Golden Moments fits
+## Кӧні Golden Moments лӧсялӧ
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments ворсӧмъяс, шуам [серпас кыскан](/games/picture-pairs/), [серпас паськӧм](/games/picture-puzzle/) да [ыджыд шрифтӧн кыв корсьӧм](/games/word-search/), лӧсьӧдӧмаӧсь гаж да ӧтувъя кадколаст вӧсна. Налы эз вӧв часі и балъяс. Найӧ **оз** лоӧны бурдӧдан ногӧн, и найӧ **оз** дорйӧйны либӧ оз сёрмӧдӧйны деменция. Миянлы бурджык шуны тайӧ веськыда, а не кӧсйыны сійӧс, мый некутшӧм ворсӧм оз вермы сетны.
 
-## Talk with a doctor
+## Сёрнитӧй бурдӧдыськӧд
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Ті кӧ повзянныд казьтыштӧм вежсьӧм йылысь асьныд либӧ тіян видзӧм улын морт йылысь, воӧй бурдӧдысь дорӧ, а не надеясьӧй приложение вылӧ. Бурдӧдысь вермас видлыны, эм-ӧ позянлун бурдӧдны вежсьӧмъяс, да сёрнитны медбур тӧдӧмторъясӧн кутшӧмасьӧм йылысь, шуам, веськӧдлыны вирӧн лӧктанӧм да видлыны кывзӧм. Унджык видзӧд [Позьӧ-ӧ дорйыны деменцияысь?](/brain-health/can-dementia-be-prevented/). Тӧкӧтьӧ дзугсьӧм либӧ мукӧд тӧкӧтьӧ вежсьӧм дырйи корсьӧй ӧдйӧ отсӧг.

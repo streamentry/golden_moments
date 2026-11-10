@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Çawa Bername û Lîstikên Demansê Hilbijêrin"
+seoTitle: "Hilbijartina Bernameyên Demansê: Lîsteya Kontrolê"
+description: "Lîsteyeke kontrolê ji bo hilbijartina bername û lîstikên demansê: armanca xwe diyar bikin, ji demjimêr û reklaman dûr bimînin, nepenîtiyê kontrol bikin û li îdîayên delîlan bi baldarî mêze bikin."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Pêşî destnîşan bikin hûn dixwazin bername çi bike: teşwîqeke nerm, bîranîn,
+  aramî an têkilî. Paşê yekê hilbijêrin ku îro li gorî şiyanên kesê ku hûn lê
+  dinêrin guncaw be, bi wêneyên mezin, bê demjimêr, xal an reklaman, û bi
+  rêyeke hêsan ji bo rawestanê. Kontrol bikin ew kîjan daneyan berhev dike û
+  gelo hûn dikarin wan jê bibin. Ji îdîayên ku bernameyek demansê diparêze an
+  derman dike bi baldarî dûr bimînin; lêkolîneke tenê delîl nîne.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Pêşî armancê diyar bikin: teşwîq, bîranîn, aramî an têkilî bernameyên cuda dixwazin."
+  - "Li gorî şiyanên kesê ku hûn lê dinêrin di wê rojê de hilbijêrin, ne li gorî navê qonaxekê, û kontrolan hêsan bihêlin."
+  - "Ji bernameyên bi demjimêr, xal, can, rêzikên rojane, reklaman an daxwazên kirînê dûr bimînin."
+  - "Berhevkirin, parvekirin û jêbirina daneyan kontrol bikin. HIPAA bi gelemperî bernameyên gelemperî nagire."
+  - "Li hember îdîayên «demansê diparêze» gumanbar bin. Ceribandineke tenê, an xalên çêtir di bernameyê de, delîl nîne."
+  - "Golden Moments çalakiyeke şahî ye. Ti îdîayên klînîkî nake."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Gelo lîstikên mêjî dikarin demansê biparêzin?"
+    a: "Delîlên baş tune ne ku bernameyên bazirganî yên lîstikên mêjî demansê diparêzin an hêdî dikin. National Institute on Aging dibêje têra xwe delîl tune ne ku bernameyên bazirganî yên perwerdehiya mêjî heman bandora perwerdehiya birêkûpêk a ku di ceribandineke mezin a lêkolînê de hat ceribandin hene. Bernameyan ji bo kêf û têkilî hilbijêrin, ne wekî derman."
+  - q: "Gelo bernameyeke demansê di bin HIPAA de ye?"
+    a: "Bi gelemperî na. HIPAA bi gelemperî ji bo dabînkerên lênêrîna tenduristiyê, planên tenduristiyê û hevkarên wan ên karsaziyê derbas dibe. Bernameyek ku hûn bi xwe dadixin bi gelemperî di bin wê de nîne, heta ku ji aliyê yek ji wan ve nehatibe dayîn. Qanûna Ragihandina Binpêkirina Tenduristiyê ya FTC gelek bernameyên tenduristiyê digire ku HIPAA nagire."
+  - q: "Divê lîstikeke baş a demansê çawa be?"
+    a: "Wêne û nivîsên mezin û zelal, li ser her ekranê karekî eşkere, bê demjimêr an xal, bê dengên hişyarker ji bo xeletiyan, bê reklaman, û rêyeke hêsan ji bo sekinandin an rawestanê. Divê wekî tiştekî ji bo mezinan hatî çêkirin xuya bike û ji bo kesekî duyem jî hêsan be ku beşdar bibe."
+  - q: "Gelo Golden Moments îdîa dike ku alîkariya bîrê dike?"
+    a: "Na. Golden Moments çalakiyên hêsan û hevpar ji bo kêf û sohbetê pêşkêş dike. Ew demansê nas nake, derman nake, diparêze an napîve, û em ti îdîayan li ser bîr an ramînê nakin."
+  - q: "Gelo divê ez ji bo bernameyeke demansê bidim?"
+    a: "Pêşî vebijarkên belaş an ceribandinên belaş biceribînin, û di çend hefteyan de temaşe bikin ka kesê ku hûn lê dinêrin çawa bersivê dide. Dayîna pere ji bo bernameyekê wê bibandortir nake. Berî ku bibin abone, kontrol bikin ka meriv çawa dikare betal bike."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Dikanên bernameyan bi lîstikên ku ji bo kal û pîran, bîr an demansê hatine nîşankirin tijî ne. Hin bi raman hatine çêkirin. Hinên din sozên ku wekî bijîşkî deng didin, demjimêrên ku lîstinê dikin ceribandin, an reklaman û berhevkirina daneyan lê zêde dikin. Ev rûpel rêyekê dide we ku hûn bi xwe her bernameyekê binirxînin. Em berhemên din rêz nakin û nirxandinê li ser wan nakin.
 
-## What should I decide before choosing a dementia app?
+## Berî hilbijartina bernameyeke demansê divê ez çi biryarê bidim?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Biryar bidin hûn dixwazin bername çi bike. «Lîstikek ji bo diya min» dikare gelek tiştên cuda wate bide, û hilbijartina çêtirîn ji bo armancekê pir caran ji bo armanceke din ne guncaw e.
 
-| Goal | What it looks like | What to look for |
+| Armanc | Ew çawa xuya dike | Li çi bigerin |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Teşwîqeke nerm | Lihevhatin, rêzkirin, mijûlîyên hêsan, lîstikên peyvan | Zehmetiya ku were guhertin, wêneyên ku xuya dimînin, bê zexta demê |
+| Bîranîn | Wêneyên kevn, gotinên nas, muzîka ji ciwaniya wan | Wêneyên xwe, pirsên vekirî, bê pirsên quizê |
+| Aramî | Dîmenên hêdî, dengên bêdeng, nefes, xweza | Destpêkirin û rawestandin hêsan be, tiştek nebirûskê, bê surprîz |
+| Têkilî | Bi hev re lîstin an axaftin, rû bi rû an bi vîdyoyê | Ji bo du kesan hatî çêkirin, pêşniyarên ji bo sohbetê |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Lêkolînên li ser «teşwîqkirina zanînê» ya birêkûpêk ji bo kesên ku bi demansê dijîn bi gelemperî danişînên komî ne ku ji aliyê karmendên perwerdekirî ve tên birêvebirin, bi gotûbêj, lîstikên peyvan, mijûlîyan, muzîk û çalakiyên afirîner. [Nirxandineke Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) bi navînî feydeyên piçûk dît, ku di navbera lêkolînan de diguhere. Bernameyeke wisa ya civakî û cûrbecûr ne wekî bernameyekê ye ku kesek bi tenê bi kar tîne, ji ber vê yekê her bernameyekê wekî yek ji gelek çalakiyên hevpar bibînin.
 
-## How do I know if an app fits the person's abilities?
+## Ez çawa dizanim bernameyek li gorî şiyanên kesê ku ez lê dinêrim e?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Temaşe bikin ka ew çawa bersivê dide, li şûna ku hûn li gorî nexweşî an navê qonaxekê biryar bidin. Du kesên di «heman qonaxê» de dikarin di dîtin, bihîstin, kontrola destan, ziman û rehetiya bi ekranan de pir cuda bin. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) pêşniyar dike ku berjewendiyên berê û şiyanên niha li ber çavan bêne girtin û bal were kişandin ser kêfê, ne ser serkeftinê.
 
-Signs of a good fit:
+Nîşaneyên ku guncaw e:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ew bêyî gelek daxwazan dest pê dike an beşdar dibe;
+- ew dikenê, şîroveyê dike an çîrokekê dibêje;
+- xuya nake ku xeletî wan aciz dikin;
+- dema ku wextê rawestanê tê ew kêfxweş in ku rawestin.
 
-Signs it is a poor fit:
+Nîşaneyên ku ne guncaw e:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- dubare dibêje «ez nikarim» an «ev bêwate ye»;
+- li ser çi bitikîne tevlihev dibe;
+- bêhêvî, şermokî an amûrê dûr dixe;
+- tenê dema ku hûn hema hema her tiştî dikin dixebite.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Nerehetî nîşaneyek e, ne tiştekî ku meriv zorê lê bike. Binêrin [dema ku ew dibêje na çi bikin](/caregiving/when-they-say-no/). Ji bo ramanên li derveyî bernameyan li gorî qonaxê, binêrin çalakiyên [qonaxa destpêkê](/activities/early-stage/) û [qonaxa paşîn](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Divê ez li kîjan taybetmendiyên sêwirandinê bigerim an ji wan dûr bimînim?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Li sêwirandineke aram, hêsan û ji bo mezinan bigerin, û ji her tiştê ku zextê zêde dike dûr bimînin.
 
-| Look for | Be wary of |
+| Li çi bigerin | Ji çi haydar bin |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Wêne û nivîsên mezin, berevajîbûna bilind | Îkonên piçûk, ekranên qelebalix |
+| Li ser her ekranê karekî zelal | Gelek bişkok, menû an rêwerzên pir-gavî |
+| Bê demjimêr, an demjimêrek ku hûn dikarin vemirînin | Jimartina paşve, xelatên lezê, «dema xwe têk bibin» |
+| Bê xal, an bersiveke nerm | Xal, can, rêzikên rojane, rêzbendî, «temenê mêjî» |
+| Xeletî bi bêdengî tên qebûlkirin | Dengên hişyarker, nîşanên X yên sor, peyamên «Xelet» |
+| Wêneyên ji jiyana rast, ji bo mezinan | Mijarên kartonî an zarokanî |
+| Bê înternetê dixebite, ji bo destpêkirinê hesabekê naxwaze | Pêdivî bi tomarkirin, têketin an daxistina naverokê heye |
+| Sekinandin û rawestan hêsan e | Paceyên ku dixwazin hûn berdewam bikin an nirxandinê bidin |
+| Bê reklaman, buhayê zelal yê carekê an abonetiyê | Reklam, kirînên di hundirê lîstikê de, daxwazên pir caran ên kirînê |
+| Ji bo kesekî duyem hêsan e ku beşdar bibe | Tenê yek-lîstikvan, sêwirandina pêşbaziyê |
 
-Ads and purchase prompts are easy to tap by accident.
+Reklam û daxwazên kirînê bi hêsanî dikarin bi şaşî werin tikandin.
 
-## How do I check an app's privacy?
+## Ez çawa nepenîtiya bernameyekê kontrol dikim?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Kontrol bikin bername çi berhev dike, bi kê re parve dike, û gelo hûn dikarin wê jê bibin. Berî ku hûn saz bikin:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Kurteya nepenîtiyê ya dikanê bixwînin.** [Beşa Ewlekariya Daneyan](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) ya Google Play û [beşa agahdariya nepenîtiyê](https://support.apple.com/en-us/102399) ya App Store cureyên daneyan nîşan didin ku bernameyek dikare berhev bike û parve bike. Her du pargîdanî dibêjin ku pêşdebir bi xwe vê agahiyê didin, ji ber vê yekê ev xalek destpêkê ye, ne lêkolîneke tevahî.
+2. **Bipirsin gelo ew hesabekê dixwaze.** Heke bernameyek tenê wêneyan an lîstikên hêsan nîşan dide, dibe ku sedemek nebe ku nav, e-name an rojbûna we bizane.
+3. **Destûran kontrol bikin.** Gelo lîstikeke lihevhatinê bi rastî hewceyê cîh, têkilî, mîkrofon an hemû pirtûkxaneya wêneyên we ye? Tiştê ku ne pêwîst e vemirînin.
+4. **Li reklaman û analîtîkan bigerin.** Amûrên reklam û şopandinê dikarin daneyên li ser karanîna bernameyê ji pargîdaniyên din re bişînin.
+5. **Fêr bibin wêne diçin ku derê.** Heke hûn wêneyên malbatê lê zêde bikin, ew li ser amûrê dimînin an li ser serverekê tên barkirin? Gelo hûn dikarin wan rakin?
+6. **Jêbirinê kontrol bikin.** Di polîtîkaya nepenîtiyê an kurteya daneyan de mêze bikin ka meriv çawa daneyan û hesabê jê dibe. Bernameyek ku dibêje daneyan nayên jêbirin hêjayî baldarîyekê zêdetir e, bi taybetî heke wêne an agahiyên tenduristiyê tê de bin.
+7. **Polîtîkaya nepenîtiyê bixwînin** ji bo bersivên zelal li ser çi tê berhevkirin, çima, heta kengî, û bi kê re tê parvekirin.
 
-### Does HIPAA protect information in dementia apps?
+### Gelo HIPAA agahiyên di bernameyên demansê de diparêze?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Bi gelemperî na, û ev ji bo gelek kesan surprîz e. Wezareta Tenduristî û Karûbarên Mirovan a Dewletên Yekbûyî [rave dike](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ku HIPAA ji bo planên tenduristiyê, piraniya dabînkerên lênêrîna tenduristiyê, navendên paqijkirina lênêrîna tenduristiyê û hevkarên wan ên karsaziyê derbas dibe. Di piraniya rewşan de ew daneyên ku hûn ji bo karanîna kesane di bernameyekê de têkevin naparêze, heta ku saziyek di bin HIPAA de an hevkarek wê yê karsaziyê bernameyê ne daye. Bernameyeke «demansê» ya ji dikana bernameyan pir caran li derveyî HIPAA ye, her çend behsa tenduristiyê bike jî.
 
-### What protects health data in apps that HIPAA does not cover?
+### Çi daneyên tenduristiyê di bernameyên ku HIPAA nagire de diparêze?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Qanûna Ragihandina Binpêkirina Tenduristiyê ya Komîsyona Bazirganiya Federal (FTC) gelek ji wan digire. Di sala 2024 de FTC [guhertinan dawî kir](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) û eşkere kir ku ev qanûn ji bo bernameyên tenduristiyê û teknolojiyên mîna wan ên ku di bin HIPAA de ne derbas dibe. «Binpêkirin» ne tenê hackkirinê, lê eşkerekirinên bêdestûr jî dihewîne, û pêdivî ye ku pargîdanî kesên bandorbûyî û FTC agahdar bikin. Ev piştî ku tiştek xerab dibe torê ewlehiyê ye, ne sozek ku bernameyek tenê tiştê ku pêwîst e berhev dike.
 
-## How should I read claims about research and evidence?
+## Divê ez çawa îdîayên li ser lêkolîn û delîlan bixwînim?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Îdîayên li ser delîlan hêdî bixwînin, û bi taybetî li hember sozên mezin gumanbar bin. Pirsên ku hûn bipirsin:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Bi rastî çi hat lêkolînkirin?** Lêkolîneke li ser bernameyeke perwerdehiyê nîşan nade ku her lîstikek di bernameyekê de bi heman awayî dixebite.
+- **Kê hat lêkolînkirin?** Encamek di nav kal û pîrên tendurist de dibe ku ji bo kesekî ku bi demansê dijî derbas nebe.
+- **Çi hat pîvandin?** Di lîstikê de çêtir bûn ji guhertinên di jiyana rojane, sohbetê, rewşa hestyarî an serxwebûnê de cuda ye.
+- **Lêkolîn çiqas bihêz e?** Ceribandineke kontrolkirî ya rasthatî (RCT) komek ku bernameyê bi kar tîne bi komek ku bi kar nayne berawird dike. Ev sêwirandineke baş e, lê ceribandineke RCT ya piçûk an kurt delîl nîne. Li çend lêkolînan bigerin, ji lêkolînerên serbixwe, ku hevûdu piştrast dikin.
+- **Gelo ew îdîa dike ku nexweşiyê diguhere?** Lêkolîneke ku başbûnên piçûk di ceribandinekê de nîşan dide delîl nîne ku bernameyek demansê hêdî dike, diparêze an derman dike.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Rûpela National Institute on Aging ya li ser [tenduristiya zanînê û kal û pîr](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ceribandineke mezin a bi fonên NIH ya perwerdehiya zanînê ya birêkûpêk vedibêje, û paşê xwendevanan hişyar dike ku ji îdîayên ku hin lîstikên komputerî û serhêl dikarin bîr û ramînê baştir bikin haydar bin. Ew dibêje hêj têra xwe delîl tune ne ku bernameyên bazirganî yên perwerdehiya mêjî heman bandora perwerdehiya ku di wê ceribandinê de hat ceribandin hene. Hûn dikarin bêtir di rêbernameya me ya li ser [lîstikên mêjî û delîlan](/brain-health/brain-games/) û [lêkolîn li ser parastina ji demansê çi dibêje](/brain-health/can-dementia-be-prevented/) bixwînin.
 
-### What is a public example of a misleading claim?
+### Mînaka gelemperî ya îdîayeke şaş çi ye?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Di Çile 2016 de, FTC [lihevhatinek ragihand](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) bi çêkerên Lumosity re, bernameyeke «perwerdehiya mêjî». FTC îdîa kir ku pargîdanî bêyî delîlên têr îdîa kiribû ku lîstikên wê dikarin kêmbûna zanînê ya bi temen re têkildar dereng bikin û li hember kêmbûna sivik a zanînê, demansê û nexweşiya Alzheimer biparêzin. Pargîdanî razî bû ku 2 mîlyon dolar bide û divê berî ku di pêşerojê de îdîayên wisa bike xwedî delîlên zanistî yên jêhatî û pêbawer be. Ev doz bîranînek baş e ku zimanê bazirganî ne delîl e.
 
-### Which words are red flags?
+### Kîjan peyv nîşaneyên hişyariyê ne?
 
-Be cautious when an app or ad says it:
+Haydar bin dema ku bernameyek an reklamek dibêje ew:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- demansê an Alzheimer «diparêze», «vedigerîne», «disekinîne» an «derman dike»;
+- «bi klînîkî hatiye îsbatkirin» e bêyî ku lêkolînê, kê tê de bû, û çi hat pîvandin bibêje;
+- «temenê mêjî» an xalek bîrê dide ku wekî teşhîsekê xuya dike;
+- dê mêjî «tûj bike», «bihêz bike» an «perwerde bike»;
+- şahidiyan wekî delîl bi kar tîne.
 
-If you are unsure about a claim, ask the person's doctor.
+Heke hûn ji îdîayekê ne bawer in, ji bijîşkê kesê ku hûn lê dinêrin bipirsin.
 
-## Where does Golden Moments fit?
+## Golden Moments li ku derê cih digire?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments çalakiyên hêsan û hevpar pêşkêş dike, ne ceribandineke bîrê, ne dermankirin û ne jî şîreta bijîşkî. Lîstikên me, wekî [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) û [Calm Breathing](/games/calm-breathing/), ji bo kêf û sohbetê hatine çêkirin. Ew demansê nas nakin, derman nakin, diparêzin an napîvin, û em ti îdîayan li ser bîr an ramînê nakin.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Em her weha bernameyeke belaş jî çêdikin, [Golden Moments ji bo iPhone, iPad û Android](/app/). Di wê de lihevhatina wêneyan a nerm bi tileyên mezin, lîstikên bi wêneyên malbatê yên ku hûn hilbijêrin û pakêtên wêneyan ên ku bê înternetê dixebitin hene, bê hesab, reklaman, demjimêr an xal. Heman lîsteya kontrolê li vir jî derbas dibe: etîketa nepenîtiyê ya wê ya li App Store dibêje «Dane Nehatine Berhevkirin», û [polîtîkaya nepenîtiyê ya bernameyê](/app-privacy/) rave dike ku kopiyên wêneyan li ku derê tên hilanîn.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Em tercîh dikin ku hûn me binirxînin ne ku baweriya me bikin. Lîsteya kontrolê ya li ser vê rûpelê bi kar bînin, [rûpela me ya nepenîtiyê](/privacy/) û [daxuyaniya me ya bijîşkî](/medical-disclaimer/) bixwînin, û karanîna her tiştî, tevî ya me, rawestînin heke ji bo kesê ku hûn lê dinêrin ne guncaw be.
 
-## What is a sensible way to try a new app?
+## Rêyeke maqûl ji bo ceribandina bernameyeke nû çi ye?
 
-Try it together for a couple of weeks and watch what happens.
+Wê çend hefteyan bi hev re biceribînin û temaşe bikin ka çi diqewime.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Pêşî wê saz bikin** bi karanîna [rêbernameya me ya sazkirina tablet û telefonê](/caregiving/tablets-and-screens/), û di asta herî hêsan de dest pê bikin.
+2. **Danişînan kurt bihêlin,** li ken, sohbet û aramiyê temaşe bikin, û di demeke xweş de bi dawî bikin.
+3. **Heke bibe sedema bêhêvîtiyê wê bihêlin,** çiqas jî baş were nirxandin.
