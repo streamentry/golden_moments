@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Penys Dywya ha Demens: Pyth a lever an hwithrans"
+seoTitle: "Penys Dywya ha Demens: Pyth a lever an hwithrans"
+description: "Skant yw an dustuni yn tus a-dro dhe benys dywya ha demens. Dyskwgh an peryllow rag tus koth ha prag yth yw posek dybri hag eva lowr gans demens."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Nyns eus dustuni da y hwra penys dywya lettya po lenthe demens. Rann vrassa
+  an hwithrans yw yn enevales, hag yth yw studhyow yn tus koth byghan ha berr.
+  Y hyll penys dywya bos peryllus rag tus koth: kelli poos ha musklys, sugra
+  isel y’n goos gans nebes medhegnethow diabetek, disyghtyans ha koedha. Rag
+  tus ow bewa gans demens, dybri hag eva lowr yw an bern moyha yn fenowgh.
+  Kewsewgh gans medhek kyns oll.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "An National Institute on Aging a lever nag eus dustuni lowr dhe gomendya neb dyet penys po lehe kaloriek, yn arbennik rag tus koth."
+  - "Rann vrassa an hwithrans a-dro dhe benys ha kothni a dheu dhyworth enevales, ha ny yllyn bos sur y hwra an sewyansow na omdhesedha dhe dus."
+  - "Peryllow possybyl rag tus koth a gomprehend kelli poos heb y vynna, kelli musklys, sugra isel y’n goos gans nebes medhegnethow diabetek, disyghtyans, penn-dro ha koedha."
+  - "Tus ow bewa gans demens a ankev dybri po eva yn fenowgh, po tybi aga bos re wrug henna seulabrys. Gweres dhedha dybri hag eva lowr yw moy posek yn fenowgh es pan dhybrons."
+  - "Na wrewgh usya penys rag nebonan ow bewa gans demens. Kewsewgh gans medhek po dyetyas kovskrivys kyns chanjya fordh vyth a dhybri."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "A wra penys dywya lettya Alzheimer?"
+    a: "Nyns eus dustuni da y hwra. Rann vrassa an hwithrans re beu yn enevales, hag yth o provow yn tus dre vras berr, yn tus yowynka po re boos, ha fogellys war gelli poos. An National Institute on Aging a lever nag eus dustuni lowr dhe gomendya dyetow penys dhe’n bobel."
+  - q: "Yw penys dywya saw rag tus koth?"
+    a: "Martesen nyns yw. Y hyll penys dywya ledya dhe gelli poos ha musklys heb y vynna, disyghtyans, penn-dro ha koedha, hag y hyll kawsya sugra isel y’n goos, pur beryllus, yn tus a gemmer insulin po nebes medhegnethow diabetek erel. Mayo Clinic a not y hylsa na bos gwiw rag tus gans peryl ughel a gelli askorn ha koedha. Kewsewgh gans medhek kyns y assaya."
+  - q: "A dal nebonan gans demens assaya penys?"
+    a: "Na dal. Tus ow bewa gans demens a gavas kales yn fenowgh dybri hag eva lowr, ha dyethans bohos a yll kressya symptomys omdheg hag acheson kelli poos. Penys a geworr peryl heb les prevys. Fogellyewgh yn hy le war voosow reyth, boesow byghan a garons hag eva lowr."
+  - q: "Pyth yw an arwodhyow nag yw nebonan gans demens ow tybri po owth eva lowr?"
+    a: "Mirewgh orth kelli poos, dillas ow mos moy lows, skwithder, gwander, sevder kolodhyon, po nagha boes. Arwodhyow disyghtyans rollys gans an National Institute on Aging a gomprehend ganow sygh, penn-dro, kolon ow kuthya yn uskis ha gwelesow. Leverewgh dh’aga medhek mar kwelowgh an re ma."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Penys dywya, kepar ha dybri yn unn fenester a eth our yn unnik po lehe kaloriek yn feur dew jydh y’n seythun, a gavas meur a vrys, hag y lever nebes erthyglow y halsa difres an ympynnyon. Mars owgh hwi tevesik koth, po mar withowgh hwi nebonan ow bewa gans demens, ottomma pyth a dhiskwedh an hwithrans yn hwir, ha prag yth yw posek bos war.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Kedhlow ollgemmyn yw an re ma, nyns yw kusul medhegel. Na wrewgh dalleth penys, po chanjya fatel wra an den a withowgh hwi dybri, heb kewsel gans medhek po dyetyas kovskrivys. Gwelewgh agan [diswarnyans medhegel](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## A wra penys dywya lettya demens?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Nyns eus dustuni da y hwra penys dywya lettya po lenthe demens. An National Institute on Aging (NIA) a lever nag eus dustuni lowr dhe gomendya neb eghen a dyet lehe kaloriek po penys, hag y fydh res dyski meur moy a-dro dh’aga effeythadewder ha sawder, yn arbennik yn tus koth ([NIA a-dro dhe lehe kaloriek ha penys](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Prag yth yw an dustuni mar skant
 
-The NIA gives several reasons:
+An NIA a re nebes achesonyow:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Rann vrassa an studhyow yw yn enevales.** Hwithrans yn pryv, hwesker, logosen ha simes re ros sewyansow dhe les, mes ny yllyn bos sur y hwra an kevadhow ma omdhesedha dhe dus. Y’n enevales hogen, yth yw an sewyansow kemmyskys; yn nebes linennow logosen, lehe kaloriek a verrhas bewnans.
+- **Berr re beu provow yn tus.** An brassa rann a besyas nebes seythunyow po misyow.
+- **An brassa rann a brovow yn tus o fogellys war gelli poos** yn tevesyon re boos, a-der kov po demens.
+- **Skant yw tus koth ynna.** Lies prov a gemeras tus a 60 bloedh po yowynka.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Daswel systematek yn 2026 a viras yn arbennek orth penys dywya yn tevesyon a 60 bloedh ha kottha. Ev a gavas bos an dustuni y’n bagas oes ma hwath skant, gans studhyow byghan, holya berr ha towlennow kemmyskys. Kevadhow a-dro dhe brederi ha kov a dheuth dhyworth studhyow unnik yn le sewyansow kuntellys a brovow. An daswel a notyas ynwedh bos nebes studhyow ow kevrenna fenestri dybri pur verr po penys hir gans sewyansow gwettha, hag an awyoryon a brofyas bos war rag tus koth ([daswel 2026 yn Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Nebes hwithroryon a dyb y hylsa an treylyans a’n korf dhe leski blonog dre benys effeythi an ympynnyon, mes tybieth yw hemma hwath ow pos studhys. An NIA a not nag yw an skiens sertan.
 
-## What are the risks of fasting for older adults?
+## Pyth yw an peryllow a benys rag tus koth?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Nyns yw penys arbrov heb peryl rag lies den koth. Peryllow possybyl a gomprehend:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Kelli poos heb y vynna.** Dybri le es dell yw edhomm dhe’n korf a yll ledya dhe gelli poos ha le nerth musklys, hag a yll gasa den gwannach.
+- **Kelli musklys hag eskern.** Yn prov dew vledhen skoodellys gans an NIA a lehe kaloriek yn tevesyon yowynk ha kres-oes, an gemeroryon a gavas leheansow byghan yn densita eskern ha mas korf heb blonog.
+- **Sugra isel y’n goos gans medhegnethow diabetek.** Tus a gemmer insulin po nebes medhegnethow diabetek erel a yll kawsya sugra y’ga goos dhe goedha re isel mars omgedhons po gortos prysow boos, herwydh an [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Sugra isel y’n goos a yll kawsya penn-dro, kemmysk terri ha sorr.
+- **Disyghtyans.** Mar pydh diwesow gesys yn-mes keffrys ha boesow, y hyll den mos disyghys.
+- **Penn-dro ha koedha.** Mayo Clinic a not y hyll penys dywya kawsya tus dhe omglywes pur skwith ha gans penn-dro, hag y halsa na bos patron yagh rag tus gans peryl ughel a gelli askorn ha koedha ([Mayo Clinic a-dro dhe benys dywya](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Effeythyow erel.** Mayo Clinic a rol ynwedh penn-droesow, chanjyow a vroes ha sevder kolodhyon, hag a not dustuni nebes y halsa penys 16 our gans fenester dybri 8 our ughelhe peryl kleves kolon keffrys ha fenestri dybri erel. Nyns yw an dustuni na ervirys hwath.
 
-## Why is eating enough the bigger concern with dementia?
+## Prag yth yw dybri lowr an bern moyha gans demens?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Rag tus ow bewa gans demens, an kudyn usys yw kavos **lowr** a voes hag a dhiwes, a-der re veur. An Alzheimer’s Association a styrya y hyll tus y’n gres ha’n diwettha studyow omglywes gorthyskys gans dewisow boos, ankev dybri, po tybi aga bos re dhybrys. Ev a geworr ynwedh y hyll dyethans bohos kressya symptomys omdheg hag acheson kelli poos ([Alzheimer’s Association a-dro dhe voes ha dybri](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+An Alzheimer’s Society a not nag yw dybri lowr a yll ledya dhe gelli poos, le nerth musklys, skwithder ha gwander, ow kasa den gwannach ha le galloesek dhe omwellhe a glevesansow ([Alzheimer’s Society a-dro dhe hwans dybri](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Dres an achesonyow ma, nyns yw penys tybyans da rag nebonan ow bewa gans demens.** Boosow gesys yn-mes a yll treylya es dhe voosow kellys yn es. Pub chanj a’n fordh mayth a den gans demens dybri a dal bos ledyes gans y vedhek po dyetyas kovskrivys.
 
-## What are the warning signs of poor eating or drinking?
+## Pyth yw an arwodhyow gwarnyans a dhybri po eva bohos?
 
-Watch for:
+Mirewgh orth:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Kelli poos**, po dillas owth esedha moy lows.
+- **Gasa boes po nagha prysow boos**, po synsi boes y’n ganow.
+- **Skwithder po gwander.**
+- **Sevder kolodhyon**, a yll bos kevrennys gans dyet ha disyghtyans.
+- **Arwodhyow disyghtyans.** An NIA a rol ganow sygh, penn-dro, kolon ow kuthya yn uskis, ha gwelesow, a yll ynwedh bos kawsys gans demens y honan ([NIA a-dro dhe broblemys medhegel kemmyn](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Hwans dybri bohos a yll bos kawsys gans lies tra: dens po densow fals lows, medhegnethow nowydh, iselder, sevder kolodhyon, le gwrians, po chanjyow yn blas ha fler. Leverewgh dhe vedhek an den a-dro dhe neb arwodh a’n par ma. I a yll hwilas an acheson ha martesen profya dyetyas po keworransow.
 
-## How can you help someone eat and drink enough?
+## Fatell yllydh hwi gweres nebonan dhe dhybri hag eva lowr?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Profyewgh boesow byghan ha boesow ynter prysow yn fenowgh**, yn le tri boos bras.
+- **Servyewgh boesow meurgerys**, ha bedhewgh heblyth pan janj blasow. Boesow hweg a yll bos dynark mar yw hwans dybri isel; govynnewgh orth an medhek mars eus achesonyow yeghes dhe lehe sugra.
+- **Gwithewgh diwesow a-der an dorn** ha profyewgh hanafow byghan dres an jydh. Iskow, frut, smoothie ha milkshake a rekn ynwedh.
+- **Dybrewgh war-barth** pan yllydh hwi. Prysyow boos yw chons rag kowethyans, a-der ober dhe fyski.
+- **Assayewgh boesow rag an bysies**, kepar ha baramanyow, temmyn frut po temmyn yar, mar re beu lestennow kales.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Yma moy tybyansow prysow boos y’gan [gid dyet](/brain-health/diet/). Gweres dhe bareusi boes a yll bos ynwedh gwrians plesont war-barth; gwelowgh [oberi an chi](/activities/household-tasks/).
 
-## Talk with a doctor
+## Kewsewgh gans medhek
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Kyns assaya neb towl penys agas honan, kewsewgh gans agas medhek po dyetyas kovskrivys, yn arbennik mar kemerowgh medhegnethow rag diabetek po gwask goos, mar kwrussowgh kelli poos a-gynsow, po mar kwrussowgh koedha. Rag nebonan ow bewa gans demens, govynnewgh orth aga medhek pygemmys y tal dhedha dybri hag eva pub dydh, yn le govyn a-dro dhe benys.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Kevrewgh gweres medhegel a-dhistowgh rag kemmysk terri a-dhesempis, klepydh, po arwodhyow a sugra pur isel y’n goos na wellha yn uskis.

@@ -1,32 +1,34 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Arthyglow ha Kreftow rag Tus Oos gans Demensya"
+seoTitle: "Arthyglow ha Kreftow rag Demensya: Tevesik, na Flehèsk"
+description: "Synsyow arthyglow ha kreftow tevesik rag tus owth omvyskya gans demensya, dhiworth dywblek ha kollaj dhe aray flourys, gans ghelenni war dhassettyans, adattya ha konsentra war an argerdh yn hytrihys es war an sewyans."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Arthyglow ha kreftow da rag tus oos owth omvyskya gans demensya a
+  dheu ha omglewes yn tevesik: dywblek, kollaj a imajys dhiworth
+  lyvrow-nowodhow, aray flourys, pri, gul kartenni sempel po folennow
+  liwya rag tus oos. Settya nebes devnydhow yn-mes, gweres gans an
+  kynsa stryk mar bo edhomm, keskewsel hag owth oberi war-barth, ha
+  dyghtya an termyn war-barth avel an poynt. Nyns yw ober gorfenys
+  gorfodol.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Dewis devnydhow ha themow a wel tevesik, kepar ha paper dywblek, flourys gwir ha imajys dhiworth lyvrow-nowodhow, yn le skentil, stikerys po folennow ober cartoonek."
+  - "Konsentra war an argerdh: liwyow, gwrians an pri, an keskows. Ober gorfenys yw kewor, nyns yw an amkan."
+  - "Ri palas mar yllir, kepar ha gul karten rag mab-bihan po mab-wyr, po aray unnik rag an moos."
+  - "Gweres an den dhe dhalleth, ena mos yn gil. Dalleth stryk brish war-barth yw lowr yn fenowgh."
+  - "Nyns yw res gorfenna ragdres yn unn esedh, ha hedhi yn gynnar yw pub prys da lowr."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Fatell allav vy gwitha kreftow dhiworth omglewes flehèsk?"
+    a: "Devnydh gwir arghasow art, themow tevesik ha ton meur war. Kescha skentil ha folennow cartoonek rag paper dywblek, stoff, flourys, skeusennow lyvrow-nowodhow ha folennow liwya manylys rag tus oos. Na wra gordhavos an ober an keth fordh hag a wre'ta gordhavos kevren flehes; keskewsel a'n jeves kepar dell wre'ta gans neb den oos aral."
+  - q: "Py oberow art a ober yn y sewena diwettha a dhemensya?"
+    a: "Oberow sempel ha synsysel yw an gwella yn an nivell diwettha: liwya strykyow ledan gans brus ledan, gwaska pri medhel, aray nebes flourys yn fias, po ranna gwriansow stoff herwydh aga thach. Martesen y fydh edhomm dalleth an gwayans war-barth. Mi a yllir kemeres rann dre weles orthis ow liwya ha keskewsel a'n liwyow ynwedh."
+  - q: "Py hwarvos mar leveri na yllyn i liwya?"
+    a: "Diberth an gw pressure. Assaya ragdresow heb gorthyp ewn, kepar ha golchi dywblek, kollaj, po aray flourys. Y hyllir ynwedh leverel bos edhomm dha weres war neppyth arbennek, kepar ha dewis liwyow rag karten, may tevo an ober blas gweres yn hytrihys es assaya."
+  - q: "A yw folennow liwya re flehèsk rag tus oos?"
+    a: "Nyns yw mar povons yns desinys rag tus oos. Dewis folennow gans testenow tevesik kepar ha lowarthow, kowasow, kerri po tirwedhow, ha gul derivas a'ga hever avel ober dh'aga lehe yn hytrihys es avel dyskans. Y hyllir pryntya agan folennow liwya po aga liwya war dablet."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +50,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Arthyglow ha kreftow a re dhyn tus owth omvyskya gans demensya fordh dhe omdhiskwedhes na vydh gorfodol kavos an geryow ewn. An Alzheimer's Association a lever bos ragdresow art a yll dri [sens a gollenidha ha palas](https://www.alz.org/help-support/caregiving/daily-care/art-music) ha chons dhe omdhiskwedhes yn y honan, rag an tioges ynwedh kepar ha rag an den gans demensya. An alhwedh yw gwitha an taklow tevesik, sempel ha heb gwpressure. An folen ma a re ragdresow arbennek, fatell aga sett war-barth ha fatell aga adattya mars yw chanjys.
 
-## What makes an art activity adult and not childish?
+## Pyth a wra ober art tevesik ha na flehèsk?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Ober art tevesik a devnydh gwir devnydhow, testenow tevesik ha ton meur war. An Alzheimer's Association a gews konsentra war ragdresow war nivel tevesik ha diank dhiworth tra vyth a ylli sevel omglew dreserghys po flehèsk.
 
-| Feels childish | Feels adult |
+| Omglew flehèsk | Omglew tevesik |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Skentil, stikerys foam, lagasow googly | Paper dywblek, stoff, flourys gweskys |
+| Folennow liwya cartoonek | Folennow liwya a lowarthow, kowasow, kerri po tirwedhow |
+| Gordhavos "da lowr" rag pub merk | Keskows gwir: "An glas ma yw teg ryb an gwyrdh" |
+| Kreft heb devnydh | Karten rag karrik, aray rag an moos, ro |
+| Kemenni a len kepar ha dyskans | Gelwel: "A yll'ta gweres orth an dra ma?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Prederi a vri an den y honan. Neb a garas neytha a ylli bos lowen ow tochya stoff. Ynaduron pensyonys a ylli kavos plas warwell yn unn ranna pe dres devnydhow meur rag ragdres. Kynseskoynt pensyonys a ylli bos lowen ow gul kartennow.
 
-## Why focus on the process, not the product?
+## Prag konsentra war an argerdh, nyns war an sewyans?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Drefen an termyn war-barth yw an poynt. An gid Alzheimer's Association war [oberow y'th chi](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) a lever konsentra war an argerdh, nyns war an sewyans. Dywblek a yw "glas hepken" hwath yn dywblek. Kollaj gans tri imach yw hwath yn gollaj.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+An Kesva ynwedh a lever y hyll artydh proffesyonel bos fregys gans chanjyow yn y ober, mes y hyll amatur bos lowen gans chons nowydh dhe omdhiskwedhes. Mars o an den yn artydh skant, assaya media dyffrans dhiworth an huni re dhyskas, may tevo blas gwari yn hytrihys es kehevelyans.
 
-## Arts and crafts ideas to try
+## Synsyow arthyglow ha kreftow dhe assaya
 
-Each idea includes how to make it simpler if it becomes hard.
+Pub synsys a gomprehend fatell y hyllir y sempla mar teu ha bos calessa.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Golchyow dywblek.** Glebhe paper dywblek poos ha gasa an den dhe dhibrosa liw warno gans brus ledan. An liwyow a lesa aga honan, ytho nyns eus gorthyp kamm. *Semplya:* profya diw liw hepken, po liwya gans dowr war paper tewl a dhiskwedh an merkow gwlyb.
+2. **Kollaj lyvrow-nowodhow.** Tredha imajys kyns der an termyn dhiworth lyvrow-nowodhow a lowarthow, kog, kerri, vyajya po hobysow koth an den. Gasa dhodho dewis ha gluse imajys war gardystok. *Semplya:* profya peswar imach tredhys hag unn glusek, ha gul an gluse war-barth.
+3. **Aray flourys.** Fondyans Alzheimer Amerika a gews [aray flourys treghys ha gwels](https://alzfdn.org/dementia-activity-gardening/) dhe gul diskwedhyansow sempel rag an seson. Devnydh fias krev ha sad, ha gweth flourys re veu treghys seulabrys. *Semplya:* gorra nebes gweth yn hanter fias, unn orth unn.
+4. **Kartennow gans flourys gweskys.** Gwesk flourys dhiworth hanterbloedh yn folennow lyver rag seythun, ena aga gluse war gardystok plegys. *Semplya:* ty a wra an gluse, ev/hi a wask an flour dh'y weles.
+5. **Folennow liwya rag tus oos.** Dewis folennow gans amal kler ha testenow gwir. Y hyllir pryntya agan folennow liwya [printyadow](/games/coloring/) po aga liwya war skrin dre waska liw hag ena rann a'n skeusen. *Semplya:* darnow brassa, nebes liwyow, merkeryow tew.
+6. **Pri po to medhel.** Rollya, waska ha furvya pri sych y'n ayr po to modelya medhel. Waska del war an pri a wra telher sempel. *Semplya:* gwaska ha rolya yw ober leun y honan. Gwitha golok na wra an den sedha pri yn y ganow.
+7. **Gul kartennow.** An Alzheimer's Association a gews gul derivas anodho avel ober gwir: "Yth eson ow kul karten yeghes da rag karrik. A vydh dha weres?" Kardystok tredhys ha nebes stikerys a flourys po stampys a ober yn ta.
+8. **Kovadhlyver.** Gorra dasskrifow a skeusennow koth, kartennow-bost po stympys tiked war folennow kovadhlyver war-barth. Keskewsel a bub huni hag ow mos yn-rag. Gweles agan [gidyow kovheans](/activities/reminiscence/) rag fordhow mel gever keskewsel a'n koth.
+9. **Bordow stoff ha tach.** Gluse tassow a korduroy, melyn velvet, burlap ha silk war gard krev. Gul anodho yw an ober; tochya anodho diwettha yw ober aral. Moy synsyow yw yn agan [gidyow oberow synsysel](/activities/sensory/).
+10. **Gorfedhes pren sempel.** Rag neb re garas ober pren, y hyll scryfya stock pren rewlys po liwya kit chi edhen omglewes a-gledh. Dilea toulys gwithys ha mires.
+11. **Liwya orth ilow.** Sonya rekord ober gwell dhis ha liwya furvyow po liwyow a omdhesedh orth an moodh. Hemma a jynn diwy oberow a gar an re erel yn fenowgh. Gweles [oberow ilow](/activities/music/).
 
-## How do I set up an art session?
+## Fatell settya esedh art war-barth?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Pareusi kyns.** Tredha, trimma ha settya puptra kyns gelwel an den. Gortos hag ow hwilas sisouryow a yll kelli an pols.
+2. **Gwitha yn sempel.** Diw po tri liw, unn brus, unn folen paper. Re a dhewisow a yll gul bos gorlewenys.
+3. **Difres an moos.** Lien plastyk po lien koth a styr na vydh preder dhe dhrog.
+4. **Esyes war-lergh.** Ober war dha folen dha honan ryb y folen ev/hi. Henn a omglew kevrennys, na dyskydhyans.
+5. **Gweres dhodho dhe dhalleth.** An Alzheimer's Association a lever y hyllir bos edhomm dalleth gwayans an brish gans an den. Wosa dalleth, lies den a besya.
+6. **Keskewsel hag owth oberi.** Kavos war liwyow ha tachow, po gasa an art dhe dhevi hwedhlow. Diank dhiworth govynnow kepar ha "Pyth yw hemma?"
+7. **Gasa termyn lowr.** Nyns yw res gorfenna ragdres yn unn esedh.
 
-## How do I adapt art as dementia changes?
+## Fatell adattya art mars yw demensya ow chanjya?
 
-| Stage | What tends to work | What to adjust |
+| Nivel | Pyth a ober yn ta | Pyth dhe chanjya |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Kynsa | Klasow, liwya manylys, kovadhlyvrow, gul kartennow, liwya dhiworth skeusen | Profya dewis a ragdresow; gwitha yn keskussulyans |
+| Kres | Kollaj tredhys, golchyow dywblek, aray flourys, liwya gans ardhow brassa | Unn cam orth unn prys; ty a wra tredha ha gluse |
+| Diwettha | Strykyow brish ledan, gwaska pri, tochya stoff, mires orthis ow liwya | Konsentra war synsysow; guidya an leuv yn serys mar yw assysys |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+An NHS a gews y fydh oberow semplys yn nivellow diwettha ha konsentra war an synsysow. Mires orth neb aral ow liwya, ha keskewsel a'n liwyow, yw fordh gwir dhe gemeres rann. Rag moy synsyow herwydh nivel, gweles [oberow rag pub nivel](/activities/ideas/).
 
-## Safety with art supplies
+## Diogeledh gans arghasow art
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Dewis payntys, merkeryow ha glusekys nag yw gwenonek.
+- Gwitha sisouryow, kellylyow kreft ha gunnyow gluse tomm dhe-ves a dhreus. Gul tredha dhe'th honan, kyns der an termyn.
+- Mires na wra den vyth sedha pri, paynt po taklow bian yn y ganow.
+- Devnydh kontaynyryow sad ha poos rag dowr ha fiasow.
 
-## When should we stop?
+## Pana prys y tal dhyn hedhi?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Hedhi pan wra an sylw mos mes po pan omglew an den fregys. An Alzheimer's Association a gews diwedha po chanjya ober pan wra an spas sylw lehe po pan wra an fregys tevi. Gorra an ragdres yn tyller saws ha profya neppyth restel. Y hyllir dos tre dhodho a-vorow, po byth. An dhew yw da lowr.
 
-## Display the work, if the person wants
+## Diskwedhes an ober, mars yw hwans an den
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Spylya skeusen war an ystol veur po freymya kollaj a yll bos fordh mel dhe dhiskwedhes meur war. Govyn kyns. Nebes re a gar sawel aga ober war an fos; re erel a wra y fynnans na vynnons.
 
-## Pair art with our games
+## Kesunya art gans agan gwariow
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Yn dydhyow pan yw gorfos payntys re vras, [Liwya](/games/coloring/) a ober war dablet heb drog vyth. [Puzl Skeusen](/games/picture-puzzle/) a witha an skeusen leun yn weles avel gid hag esydh tammow mes a'gas le. [Kartenni Keskows](/games/conversation-cards/) a brofya govynnow ygor a yll dri dhiworth skeusen dhe hwedhel. Oll anezha heb amserometer po skor. Y hyllir ynwedh pryntya folennow dhiworth agan kuntelles [oberow printyadow](/activities/printable/).

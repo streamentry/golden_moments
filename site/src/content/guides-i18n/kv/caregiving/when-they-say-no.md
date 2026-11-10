@@ -1,34 +1,34 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Кор деменцияӧн олысь морт оз кӧсйы уджавны"
+seoTitle: "Кор деменцияӧн олысь морт оз кӧсйы уджавны"
+description: "Мыйла деменцияӧн олысь морт вермас отказайтны либӧ скӧрмӧдчыны, мый позьӧ вӧчны, мый оз ков вӧчны да кор ковмас доктор дорӧ мунны."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Кор деменцияӧн олысь морт шуӧ «оз», лӧньӧн лыддьысьӧй сыысь да видлӧй
+  бара либӧ вӧдитӧй мӧдтор. Отказ кузяыс вермас лоны: уджыс сьӧкыд, морт
+  мудзӧма, висян, налы либӧ гора йӧз да шы ляскӧ. Оз ков споритны либӧ
+  вынсьӧдны. Кокньыдӧй уджсӧ, сетӧй кык бӧрйӧм либӧ корӧй отсӧг. Дзик
+  вежсьӧм либӧ чожа вежсьӧм олас, торъя нин инфекция либӧ выль пелӧс бӧрын,
+  колӧ пыр петкӧдлыны докторлы.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "«Ог» — тайӧ пасйӧм, кодӧс колӧ лыддьыны, а абу мытшӧдтӧм мог."
+  - "Отказ дорын пырджык эм помка: вывті сьӧкыд, вывті чакотка, мудзӧм, висьӧм, некомфорт либӧ вывті уна шум."
+  - "Босьтчӧй бӧр, видзӧдлӧй да видлӧй бара сёрӧн, мӧд кадӧ либӧ кокниджыка ногӧн."
+  - "Корӧй отсӧг — бурджык, кор корны тӧдӧмсӧ петкӧдлыны."
+  - "Некор оз ков споритны, вынсьӧдны, видлавны либӧ веськӧдлыны. Видзӧдлӧй, оз-ӧ ті ачыт термасьанныд либӧ зэв матын оланныд."
+  - "Дзик вежсьӧм либӧ чожа вежсьӧм олас, торъя нин инфекция либӧ выль пелӧс бӧрын, колӧ пыр ыстыны докторлы."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Позьӧ-ӧ лэдзны сылы дзик оз уджавны?"
+    a: "Да, кӧть мый лунӧ. Позьӧ ӧтлаын пукалыны, музыка кывзыны либӧ синмӧн видзӧдлыны гӧгӧр. Кор мортӧс никучӧм оз нимкодь вежӧрас костын, висьтавӧй сы йылысь докторлы, сы вӧсна мый сьӧкыд кад, дой либӧ мӧд дзоньвидзалун мытшӧдъяс вермасны лоны сыын."
+  - q: "Мыйла сійӧ отказываетӧ сыысь, мый водзын вӧлі радейтысьыс?"
+    a: "Важся удж вермас лоны омӧльтчӧмӧн, кор сійӧ корӧ тӧдӧмъяс, кодъяс деменция вӧлі сьӧктыдӧма. Морт вермас яндысьны. Видлӧй сійӧ ж уджлысь кокниджык юкӧн: вурны личканъяс вывті ыстӧм бӧрын либӧ видзӧдлыны сад серпасъяс вывті видзӧм бӧрын."
+  - q: "Колӧ-ӧ завӧдитны сійӧс вежӧртны?"
+    a: "Оз ков. Вынсьӧдны мортӧс вӧчны сійӧ, мый деменция вӧлі сьӧктыдӧма, — тӧдса повод скӧрмӧдчыны. Лыддьысьӧй «оз» кывйысь, вежӧй сёрнисӧ да корӧй бара сёрӧн либӧ мӧд ногӧн."
+  - q: "Кор олас вежсьӧмыс лоӧ ӧдйӧ отсӧг корсян кад?"
+    a: "Шуйтчӧй 112, кор морт лӧсявтӧмӧн либӧ эмась медбур отсӧг колан туйвизьяс. Дзик вежсьӧм думъясын либӧ оласын, мый вежсьӧ чожа часъяс либӧ лунъяс костын, торъя нин кызӧдӧм, инфекция либӧ выль пелӧс бӧрын, пыр йитчӧй докторкӧд."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +50,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Ті дасьысьӧма ставсӧ, вӧдитанныд ворсӧм либӧ ветлӧдлӧм да кывзанныд: «Ог». Либӧ уджыс заводитчӧ бура, но помасяс чургӧдӧм планшетӧн да чорыд кывйӧн. Тайӧ вермас лӧнявны, но тайӧ зэв тшӧкыда лоӧ. Отказ да скӧрмӧм — пырджык юӧр, а абу юрмӧглун. Кор ті гӧгӧрвоанныд, мый юӧрыс висьталӧ, сійӧ отсалӧ тӧдмавны, мый позьӧ вӧчны водзӧ.
 
-## Why does someone with dementia refuse activities?
+## Мыйла деменцияӧн олысь морт отказитчӧ уджъяссьыс?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Пырджык эм помка, кӧть морт вермас оз вӧчны сійӧс кывйӧн. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) висьталӧ, мый отказ вермас петкӧдлыны: морт оз вермы вӧчны уджсӧ либӧ пола видлыны. Тшӧкыда помкаяс:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Уджыс вывті сьӧкыд.** Сійӧ корӧ тӧдӧмъяс, кодъяс деменция вӧлі сьӧктыдӧма, да мукӧд водзын эз артмыны яндысьтӧмӧн.
+- **Уджыс тыдалӧ челядырлы кодь.** Ыджыд йӧз казялӧны мультфильм кодь серпасъяс, челядырлы вӧчӧм шыяс да уджъяс, кодъяс вӧчӧма челядыр понда.
+- **Мудзӧм.** Уна йӧзлӧн вын лунбӧрын чинӧ. Видзӧдлӧй [лӧнь рытвын уджъяс](/caregiving/late-day-restlessness/).
+- **Тӧлысь некомфорт.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) лыддьӧ дой, узьӧмтӧм, синмӧн либӧ пельӧн тӧдмавны сьӧкыдлун, кынӧмсӧ топӧдӧм, тшыгъялӧм, голялӧм да выль пелӧсъяслысь бокӧс петӧмъяс скӧрмӧдчан могъясӧн.
+- **Уна йӧз да шы.** Гора телевизор, уна сёрни либӧ тыртӧм жыр вермасны уна вын босьтны.
+- **Мортыс лыддьӧ, мый сійӧс вынсьӧдӧны.** NIA висьталӧ, мый скӧрмӧдчӧм вермас лоны, кор мортӧс вынсьӧдӧны вӧчны сійӧ, мый Альцгеймер висьӧмыс сьӧктыдӧма, либӧ казьтыштны лоӧмторъяс да йӧзӧс.
+- **Кад сьӧкыд.** Ставтор йылысь интерес чинӧмыс вермас лоны сьӧкыд кадлӧн туйвизь, сы йылысь бур воӧдчыны докторлы.
+- **Сылы просто оз кӧсйы.** Ыджыд мортлӧн позьӧ шуны «оз».
 
-## What should I try when they say no?
+## Мый вӧчны, кор сійӧ шуӧ «оз»?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Лыддьысьӧй «оз» кывйысь лӧньӧн, сэсся вежӧй мыйкӧ: кад, удж, сьӧкыдлун либӧ корӧм ног.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Лэдзӧй татшӧм ногӧн ӧні.** «Бур, лоӧ сёрӧн». Сэсся вуджӧй мӧдтор вылӧ лолышттӧг.
+2. **Видлӧй бара сёрӧн.** Alzheimer's Association вӧдитӧ видлыны бара сёрӧн либӧ лунлысь мӧд кадӧ.
+3. **Вӧчӧй кокниджыкӧн.** Ӧти пара аддзысьӧм став ворсӧм пыдди. Ӧти кисьтавыв став прачечнӧй пыдди. Этшаджык серпас, этшаджык бӧрйӧм, серпасъяс восьтӧмӧн.
+4. **Сетӧй кык бӧрйӧм.** «Ті кӧсъянныд видзӧдлыны кай серпасъяс либӧ кывзыны музыка?» Бӧрйӧмыс сетӧ мортлы веськӧдлун кӧсйӧм.
+5. **Корӧй отсӧг, а абу тӧдӧм видлалӧм.** «Верманныд-ӧ отсавны менам бурдӧдны тайӧяссӧ?» либӧ «Кутшӧм рӧма тіянлы медбур кажитчӧ?» Коланаӧн лоны — тайӧ торъя, кор видлавны кӧсйӧны.
+6. **Заводитӧй ас ті.** Заводитӧй уджсӧ сы дорын корсьтӧг. Уна йӧз пырӧны уджӧ, кор сійӧ нин мунӧ, а кӧ оз пырны, ті ставыс на ӧтлаын кадыс муніс.
+7. **Вежӧй сійӧс лӧнь мыйкӧ вылӧ.** Дженьыдик ветлӧдлӧм, музыка, сёян, прачечнӧй топӧдӧм либӧ ӧтлаын лӧнь [лолыштӧм](/games/calm-breathing/). NIA вӧдитӧ вежны синмӧн видзӧдӧмсӧ музыка, небӧг либӧ ветлӧдлӧм вылӧ.
+8. **Лэдзӧй сылы вӧчны ас ногӧн.** Кӧ сійӧ кӧсйӧ ворсны мӧд ногӧн, лыддьысьӧй сыысь. Alzheimer's Association вӧдитӧ лоны небыдикӧн.
 
-## What should I say when they get frustrated?
+## Мый шуны, кор сійӧ скӧрмӧдчӧ?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Вӧчӧй ставсӧ надзӧнджык, лэдзӧй шы этшаджык да сетӧй лӧньлун. [Alzheimer's Association скӧрмӧдчӧм йылысь вӧдитчӧм](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) вӧдитӧ босьтчыны бӧр, корны позянлун, вӧдитчыны лӧнь да бура кывъясӧн, сетны кык бӧрйӧм. Татшӧм кывъяс вермасны отсавны:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «Меным жаль, тайӧ уджыс омӧльтчӧ. Дугдӧй.»
+- «Ставыс бур. Ме тіян дорын.»
+- «Тіянлӧн эм-ӧ кад отсавны меным мӧдторйын?»
+- «Дзьӧртам-ӧ чай?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Сэсся дугдӧй уджсӧ ыджыдтор вӧчытӧг. [Сёрнитан вӧдитчӧмыным](/caregiving/communication-tips/) эм унджык отсӧг, мый шуны.
 
-## What should I avoid?
+## Мый оз ков вӧчны?
 
-Some natural reactions tend to make things worse.
+Муктӧм вочавидзӧмъяс пырджык лёкмӧдӧны ситуациясӧ.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Споритны либӧ вынсьӧдны.** «Нӧшта ӧтчыд» либӧ «Ті тайӧ радейтанныд» пырджык оз отсавны.
+- **Видлавны либӧ веськӧдлыны.** «Ті тӧданныд, мый тайӧ» либӧ «Абу, тайӧ абу сідзи» содтӧ сьӧкыдлун.
+- **Босьтны ас вылӧ.** NIA казьтыштӧ, мый вежсьӧмъяссӧ вӧчӧ висьӧмыс, а абу морт.
+- **Зэв матын лоны либӧ тэрмасьны.** Alzheimer's Association вӧдитӧ оз содтыны шы, оз петкӧдлыны повзьӧм, оз кытшовтны, оз дзескӧдлыны, оз видзны, оз видлавны, оз ӧтдортны да оз споритны, а сідзжӧ оз вӧчны дзик виччысьтӧм вежсьӧмъяс сы бӧрсяньыс.
+- **Вӧдитчыны яндысьӧмӧн.** «Ме ставсӧ ті понда лӧсьӧді» вӧчӧ сьӧкыдджыкӧн кыкнанлы.
+- **Пасйыны лёка кывъясӧн.** «Юрмӧг» либӧ «сьӧкыд морт» сайӧдӧ збыль помкасӧ да вӧчӧ сьӧкыдджыкӧн бурмӧдӧмсӧ.
 
-## How can I find out what is behind repeated refusals?
+## Кыдзи аддзыны, мыйла отказъясыс веськавтчӧны?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Гижӧй кокни гижӧд ӧти либӧ кык вежӧн. NIA шуӧ, мый олас вежсьӧмъяс гижӧмыс вермас отсавны дӧзьӧрысьлы да докторъяслы казявны туй да аддзыны помкасӧ.
 
-Jot down:
+Гижӧй:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- лунлысь кутшӧм кад;
+- мый ті вӧдитінныд да кыдзи коринныд;
+- мый вӧлі гӧгӧр (шы, гӧсьтъяс, телевизор);
+- кыдзи сійӧ узис, сёйис, юис да кор бӧръя пыр вӧлі туалетын;
+- эмӧсь-ӧ выль пелӧсъяс либӧ неважӧнся висьӧм.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Туйъяс пырджык тӧдчӧны ӧдйӧ: отказъяс лоӧны сӧмын 4 час рыт бӧрын, сӧмын торъя ворсӧм дырйи либӧ сӧмын телевизор гора кадӧ. Family Caregiver Alliance-лысь [деменция дырйи олас йылысь вӧдитчӧм](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) шуӧ кокниа: ми огӧ вермӧй вежны мортӧс, но вермам вежны аслам оласӧ да гӧгӧрсӧ.
 
-## When should I talk to a doctor about refusal or frustration?
+## Кор колӧ шуны докторлы отказ йылысь?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Висьтавӧй докторлы, кор олас вежсьӧ дзик, ӧдйӧ либӧ висьӧм туйвизьяскӧд. NIA шуӧ, мый дзик либӧ чожа вежсьӧм оласын, торъя нин инфекция либӧ пелӧсъяс вежсьӧм бӧрын, колӧ пыр висьтавны докторлы.
 
-Contact their doctor promptly if you notice:
+Пыр йитчӧй докторкӧд, кор ті казяланныд:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- дзик вежсьӧм думъясын либӧ ыджыд вежсьӧм часъяс либӧ лунъяс костын;
+- дой туйвизьяс, шуам, чукӧртчӧм, дорӧмсӧ видзӧм либӧ вӧрзьӧдчыны выль сьӧкыдлун;
+- кызӧдӧм либӧ мӧд инфекция туйвизьяс;
+- выль либӧ вежӧм пелӧсъяс, кодъяс бӧрын олас вежсьис;
+- ставтор йылысь интерес чинӧм, бӧрдӧм либӧ ас вылас кисьмасьӧм кык вежӧн дырджык;
+- сёян да юан отказ.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association вӧдитӧ тырвыйӧ видлавны дзоньвидзалунсӧ быд мортлы, кодлӧн эм олас мытшӧдъяс, торъя нин кор най лоӧны дзик виччысьтӧг. Family Caregiver Alliance сідзжӧ вӧдитӧ медводз йитчыны докторкӧд, сы вӧсна мый олас мытшӧдъяс вермасны лоны дзоньвидзалун помкаясӧн. Оз ков заводитны, дугдӧдны либӧ вежны пелӧссӧ докторкӧд либӧ фармацевткӧд сёрниттӧг.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Кор кинкӧ лӧсявтӧмӧн либӧ эмась медбур отсӧг колан туйвизьяс, шуйтчӧй 112. NIA вӧдитӧ висьтавны диспетчерлы, мый мортлӧн эм деменция.
 
-## Is it okay if we do nothing at all?
+## Позьӧ-ӧ, кор ми некод удж огӧ вӧчӧй?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Да. Мукӧд лунъясӧ медбур уджыс — тайӧ уджтӧм: ӧтлаын пукалыны, киас видзны, радейтана музыка кывзыны либӧ ӧшынбоксянь видзӧдлыны кайяс вылӧ. Тайӧ абу омӧль. Миян [ӧтлаын ворсан йылысь вӧдитчӧмын](/caregiving/how-to-play-together/) висьталӧма, мый дырджык оз уджавны либӧ дзик оз заводитны вермас лоны бур бӧрйӧм.

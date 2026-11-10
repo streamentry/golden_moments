@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Кыдзи бӧрйыны деменция вылӧ приложение да ворсӧм"
+seoTitle: "Кыдзи бӧрйыны деменция вылӧ приложение да ворсӧм: лист бок"
+description: "Челядьöс видзöдöмöн пöжöмöс бöрйынын чек-лист: медводз сетöй мог, чужöдöй кадлысь, рекламаысь, прöверöй юöртöдöм да тöдмöс претензияясöс аслыспöлöслунöн."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Медводз думыштöй, мыйöс ті кöсъянныд приложениеысь: лыддьысьöмлысь содтöдöм, казьтылöм, лöнь видзьöм либö йитчöм. Сэсся бöрйöй сійöс, коді лöсялö талунья вермöмлуннас, ыджыд серпасъясöн, кадытöг, очкоясытöг да рекламайтöг, да кодöн лöсьöдöма восьтыны пырöм. Прöверöй, мый юöр сійö чукöртö да кыдзи верманныд сійöс чышкыны. Тшöкыда видлыштöй претензияясöс, кодъяс висьтавны, что приложениеыс вермас öтчыдсьöн дугдыны либö вöчтыны деменция: öти тöдмалöмыс абу сьöкыд веськöдлун.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Медводз бöрйöй мог: лыддьысьöмлысь содтöдöм, казьтылöм, лöнь видзьöм либö йитчöм — тöдмöмӧн могтор пырöдöны торъя приложениеяс."
+  - "Лöсялöдöй бöрйысьӧмӧс мортлöн вермöмлуннас талун, а не диагноз либö стадия серти, да кольöй уджторсö уджаланногыс сьöкыдöгöн."
+  - "Чужöдöй приложениеяс кадкöд, очкояскöд, öндöр могъяскöд, вежонъяскöд, рекламакöд либö ньöбöм корсьысьöмъяскöд."
+  - "Прöверöй, мый юöр чукöртöны, кодöс лысьтöны да кыдзи верманныд сійöс чышкыны. HIPAA сöмын оз куткылöны уджалысь приложениеяс вылö."
+  - "Тшöкыда видлыштöй «деменцияыс оз лыддьы» шогӧмъясöс. Öти эксперимент, либö бурджыка результат приложениеын — абу веськöдлунöн доказательство."
+  - "Golden Moments — сэтшöм ворсöм, кодöс вöчны öд выльöн, а не медбура видзанінöн. Сійö оз висьтав, что вермас лечитны, вöчтыны либö вежöрны деменция."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Верманныд-ö моз пуктöм ворсӧмъясöн дугдыны деменцияысь?"
+    a: "Тыр абу тöдмöм, что уджалысь моз пуктöм ворсӧмъяс вермасöны дугдыны либö ньöбöдны деменция. Национальный институт старения (National Institute on Aging) висьталö, что абу на столько тыр доказательствояс, что уджалысь моз пуктöм ворсӧмъясöн вермасöны вöчны сійö ж эффект, коді торъя тöдчöм большöй исследованиеын. Бöрйöй приложениеяс лöньöн да йитчöмöн шогасьöм могöн, а не лекарствоöн."
+  - q: "Лöсялö-ö деменция вылӧ приложение HIPAA-лöн защита дорö?"
+    a: "Уна жырын — оз лöсялö. HIPAA, уна жырын, куткылö медбура видзöмöн уджалысьöс, медстраховкаöс да найöс кутчысьöс. Ассьыныд бöрйöмӧн загрузитöм приложениеыс, уна жырын, оз торъялö сэтшöм, кор сійö сетöма найöн öтиыныд. FTC-лöн «Health Breach Notification Rule» (медюöр вежöръяс лысьтӧм торъянöм йылысь правило) куткылö уна приложениелöн, кодъяс HIPAA-лöн улö абу."
+  - q: "Кыдзи лоас бур деменция вылӧ ворсӧм?"
+    a: "Ыджыд, ыджда да тöдчöм серпасъяс да текст, öти веськöдлун каджыкöн экран вылын, кадытöг либö очкоясытöг, вöлöмъясысь оз пöжалöй, рекламайтöг да лöсьöдöма кокнисьöн дугдыны либö сулавны. Сійö медсяӧн колö вöчны томмозсьыныд мортлы лöсялана ногӧн да мöд мортлы кокни лоас öнi пырны ворсӧмö."
+  - q: "Висьтавö-ö Golden Moments, что сійö вермас содтыны казьтылöм?"
+    a: "Оз висьтав. Golden Moments сетö сьöкыдтöм öтувъя ворсӧмъяс лöньöн да сёрнитöм могöн. Сійö оз вежöртö, оз лечитö, оз дугдытö либö лыддьы деменция, а сöмын оз висьтав нимкодь претензияяс казьтылöм либö мыслительнöй вермöм йылысь."
+  - q: "Колö-ö ньöбны деменция вылö приложение?"
+    a: "Медводз прöварöй öмöльöсь приложениесö либö öмöльöсь пробнöй периодсö, да видлыштöй, кыдзи морт вочакывлö, кык-тöят неделя дырйи. Приложениеысь ньöбöм абу веськöдлунöн сійöс бурджыкаöн вöчöмлысь. Прöверöй, кыдзи верманныд дугдыны подпискаысь, медводз сійöс вöчöдныöдз."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Приложениеын витриннаяясын уна ворсӧмъяс, кодъяс пасйӧмась «важ персöнлы», «казьтылöмлы» либö «деменциялы». Кымынкö найöс вöчны лöсьыдӧн. Мöдъяс — ёна медицинскöя шогӧмъясöн, кежлöсянь кадöн, рекламакöн да юöр чукöртöмöн. Тайö лист бокын сетöма метод, кыдзи ті верманныд прöверны быдöс приложение ассьыныд.
 
-## What should I decide before choosing a dementia app?
+## Мыйöс колö думыштны медводз деменция вылӧ приложение бöрйысьöдз?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Медводз думыштöй, мыйöс ті кöсъянныд приложениеысь. «Ворсöм мамлы» вермас шусьны торъя могъясöн, да öти моглы бöрйöм бур вариантыс вермас вöвны омöль мöд моглы.
 
-| Goal | What it looks like | What to look for |
+| Мог | Кыдзи лоас | Мыйöс видлыштны |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Лыддьысьöмлысь содтöдöм | Гортасьöм, сулавöм, сьöкыдтöг загадкаяс, кыв ворсӧм | Лöсялана важтöмлун, серпасъяс кольöны видзöмöн, кадлысь тырмымтöм |
+| Казьтылöм | Важ серпасъяс, тöдса кылъяс, налöн зонайын музыка | Ассьыныд серпасъяс, восьса корсьöмъяс, öтчыд öтчыдсьöн юалöмъясытöг |
+| Лöнь видзьöм | Шоныд видзöмтор, лöнь шы, дыханиеöн ворсöм, природа | Кокни восьтыны да дугдыны, мигающе видзöмторытöг, внезапнöй сюрпризъясытöг |
+| Йитчöм | Öтув ворсöм либö сёрнитöм, чинӧн либö видеоöн | Лöсьöдöма кык мортлы, корсьöмъяс сёрни могöн |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Деменцияӧн мортлы структуралана «когнитивнöй стимуляция» йылысь тöдмöм уна жырын куткылö тöдчöм группаын ворсöмöн, кодöс вöчны тöдчöмöн велöдöм челен öбъединениеын: сёрни, кыв ворсӧм, загадкаяс, музыка да творчество. [Cochrane-лöн обзор](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) висьталö, что вежöраӧн среднем видзöрын эм лёккодь содтöдöм, да результатъяс торъялöны исследование боксянь. Сэтшöм öтувъя, торъя ногӧн вöчöм программаыс абу сэкö ж, что öт мортлы приложение. Тайöс колö видлыштны сöмын öти öтувъя ворсöмöн уна мöд ногъяс помкаын.
 
-## How do I know if an app fits the person's abilities?
+## Кыдзи тöдмавны, лöсялö-ö приложение мортлöн вермöмлуннас?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Видлыштöй мортлöн реакциясö, а не диагноз либö стадия ним серти. Кык морт «öт и сійö ж стадияын» вермасöны ёна торъявны: син видзöм, кыв, киын вермöмлун, кывйывтöдöм да экранöн уджöмлун йылысь. [Болезнь Альцгеймера йылысь ассоциация](https://www.alz.org/help-support/caregiving/daily-care/activities) советуетö помнитны мортлöн важ уджыс да талунья вермöмлуныс да вундöдны эмбурджыка лöсьыдöмöс, а не достижениеöс.
 
-Signs of a good fit:
+Бур лöсялöмлун пасъяс:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- сійö пырö да öбъединитчö ворсöмö, кöнкö кокнитöг;
+- сійö смейтчö, гижö либö висьталö казьтылöм йылысь;
+- вöлöмъясысь сійö оз ёна сермöдчы;
+- сійö рад лоö дугдыны, кöр кад лоö.
 
-Signs it is a poor fit:
+Лöсялöмтöмлун пасъяс:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- унаысь «ме верман», «тайö абу колана»;
+- йылöдчысьöн, мыйöс колö вайöдны;
+- ёртöм, вежöрöм либö устройствоöс уськöдöм;
+- ворсöмыс сöмын лоö, кор ті помтöг öтув уджалланныд.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Сермöдчöм — тайö сигнал, а не мыйöс колö тыртны. Видлыштöй [кыдзи вöчны, кор морт висьталö «оз кöсйы»](/caregiving/when-they-say-no/). Стадиа серти мöд мысльъяслы видлыштöй ворсӧмъяс [зэрин стадияын](/activities/early-stage/) да [матӧг стадияын](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Мый конструкция торъялуныс колö видлыштны либö чужöдны?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Видлыштöй лöнь, сьöкыдтöг да томмозь мортлы лöсялана дизайнсö, да чужöдöй сійöс, код ёнджыка тырмöдöсь.
 
-| Look for | Be wary of |
+| Видлыштны | Чужöдны |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Ыджыд, ыджда серпасъяс да текст, ыджыд контраст | Ичöтик иконкаяс, быдторся пуктöм экранъяс |
+| Öти веськöдлун экран вылын | Уна кнопкаяс, менюяс либö уна кадö ветлöм инструкцияяс |
+| Кадытöг, либö кадö верманныд дугдыны | Лыдпас лыддьöм, чöскыд лöсьöдöм, «енэжöд вöчны» |
+| Очкоясытöг, либö лöсьыд коммент | Очкояс, öндöр мог, вежонъяс, рейтингъяс, «мозлысь важ» |
+| Вöлöмъяс лöсьыдöн уджöдöма | Зумъя шыяс, горд «Не верно» пасъяс, «Вöлöм» юöртöмъяс |
+| Томмозь, быдласянь тöдса серпасъяс | Мультикöн лöсьöдöм либö ичöтиклы тöдса темаяс |
+| Уджалö офлайн, аккаунттöг кужанныд пырöдны | Висьтасьöм, пырöдöм либö контент ыстöм корсьöм |
+| Кокни дугдыны да сулавны | Всплывающе окнö, корсьöны ворсöм сайö пырны либö прöверны приложение |
+| Рекламайтöг, яснö öтиысь ньöбöм либö подписка цена | Реклама, loot box-ъяс, унаысь ньöбöм корсьöмъяс |
+| Кокни мöд мортлы öнi пырны ворсӧмö | Сöмын öти мортлы, конкуренцияöн лöсьöдöм |
 
-Ads and purchase prompts are easy to tap by accident.
+Реклама да ньöбöм корсьöмъяс кокни вайöдöны öшибкаӧн.
 
-## How do I check an app's privacy?
+## Кыдзи прöверны приложениеысь юöр видзанiнсö?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Прöверöй, мый юöр сійö чукöртö, кодöс сійö лысьтö да кыдзи верманныд сійöс чышкыны. Медводз загрузитöдныöдз:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Лыддьысьöй витриналöн юöртöдöмсö.** Google Play-ын [«Data safety» юкöн](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) да App Store-ын [юöр видзанін йылысь юкöн](https://support.apple.com/en-us/102399) висьталöны, мый юöр торъялуныс вермасöны чукöртны да лысьтны. Кыка компаниясö жö висьталöны, что тайö юöрсö сетöны разработчикъяс, сыысь вöсна сійö — медводз пыдди видзöм, а не полный аудит.
+2. **Юалöй, колö-ö аккаунт.** Кор приложениеыс сöмын петкöдлö серпасъяс либö сьöкыдтöг ворсӧмъяс, некутшöм коланторыс абу вöвны тіян ним, электроннöй пошта либö чужан лун йылысь тöдöмöс.
+3. **Прöверöй разрешениеяс.** Гортасьöм ворсӧмлы кольö-ö сійö локация, контактъяс, микрофон либö быдöс серпас йылöн? Чужöдöй сэтшöм, мыйöс сійö оз кор.
+4. **Видлыштöй рекламасö да аналитикасö.** Реклама да слежениеöн инструментъяс вермасöны лысьтны юöрсö приложениеын уджалöм йылысь мöд компанияяслы.
+5. **Юалöй, кытчö мунöны серпасъяс.** Кор ті содтанныд семья серпасъяс, найö кольöны-ö устройствоын либö ыстöны-ö сервер вылö? Верманныд-ö найöс чышкыны?
+6. **Прöверöй чышкöм.** Корсьöй конфиденциальность политикын либö юöртöмöн юкöнын, кыдзи верманныд чышкыны юöр да аккаунт. Приложение, код висьталö, что юöрсö оз позь чышкыны, — требуйте ёна видлыштöм, öдкö сійö кутö серпасъяс либö медюöр йылысь юöр.
+7. **Лыддьысьöй конфиденциальность политикасö.** Корсьöй сьöкыдтöг ответъяс, мый чукöртöны, мыйла, кымын кад кынöма, да кодöс лысьтöны.
 
-### Does HIPAA protect information in dementia apps?
+### Куткылö-ö HIPAA деменция вылӧ приложениеын юöр вылö?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Уна жырын — оз куткылö, тайö унаöн лоö сюрпризӧн. Здравоохранение йылысь АССРС (HHS) [висьталö](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), что HIPAA куткылö медстраховкаöс, медбура видзöмöн унаӧн уджалысьöс, медпомощьöн чукöртöмöс да найöс кутчысьöс. Уна жырын сійö оз защитаит ассьыныд вöчöмöн приложениеын пыртöм юöрсö, кöр сійö сетöма öтувъя вöчнымöн. App Store-ысь «деменция вылö приложение» уна жырын кольö HIPAA-лöн улын, быттьöкö сійö и сёрнитö медюöр йылысь.
 
-### What protects health data in apps that HIPAA does not cover?
+### Мый защитаит медюöрсö приложениеясын, кодъяс HIPAA-лöн улö абу?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Федеральнöй торговая комиссия (FTC)-лöн Health Breach Notification Rule куткылö уна найöс вылö. 2024 воын FTC [костöма торъянöмъяссö](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) да ясöдöма, что правило куткылö медприложениеяс да сэтшöм технологиеяс вылö, кодъяс HIPAA-лöн улö абу. «Вежöр лысьтöм» шусьö абу сöмын взлом, а сöмын и разрешитöмтöг лысьтöм — сыысь вöсна компанияыс колö юöртны тöдчöм мортъясöс да FTC-öс. Тайö — позьöмлун бöрын гöгöрвоöм, а не кывкут, что приложениеыс сöмын колана юöрсö чукöртас.
 
-## How should I read claims about research and evidence?
+## Кыдзи лыддьысьны тöдмöм да доказательство йылысь претензияясöс?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Лыддьысьöй доказательство йылысь висьтöмъясöс лöньöн да ёна тшöкыда видлыштöй медыджыд кывкутъясöс. Юалöмъяс, кодъяс колö ставны:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Мыйöс тöдчöма тöдмалöмын?** Öти ворсöм программа йылысь исследованиеыс оз петкöдлы, что быдöс приложениеын эм ворсöмъяс сійö ж эффектöн уджалöны.
+- **Кодöс тöдчöма?** Здоровöй важ мортъясын результатъяс вермасöны абу лöсялöны мортлы, кодöн эм деменция.
+- **Мыйöс лыддьылöма?** Ворсӧмын бурджыка лоöмыс торъялö быдлаын уджöм, сёрни, лöнь видзьöм, вермöмлун либö асшöрöн уджаланногöн вежöръясысь.
+- **Кыдзи ыджыд доказательство?** Рандомизированнöй контролируема эксперимент (РКИ) сравнитö öти группаӧс, код ворсö приложениеöн, мöд группаӧн, код оз ворсö. Тайö бур конструкция, но öти ичöтик либö дженьыд РКИ абу веськöдлунöн доказательство. Корсьöй уна исследованиеяс, кодъяс вöчны асшöр тöдчöмöн, да кодъяс öткодь висьталöны.
+- **Висьталö-ö сійö болезньысь вежöр йылысь?** Тест вылын ичöтик содтöдöмыс абу доказательство, что приложениеыс вермас ньöбöдны, дугдыны либö лечитны деменция.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+[Национальный институт старения](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) ыджыд NIH-öн финансируема структуралана когнитивнöй тренировка йылысь эксперимент йылысь да сэсся юöртö видлыштны кывкутъясöс, кор висьталöны, что компьютер да онлайн ворсӧмъяс вермасöны содтыны казьтылöм да мыслительнöй вермöм. Сійö висьталö, что на талун абу на столько тыр доказательствояс, что уджалысь моз пуктöм ворсӧмъясöн вермасöны вöчны сійö ж эффект, коді тайö экспериментын прöверöма. Ті верманныд лыддьыны мöдöн [моз пуктöм ворсӧмъяс да доказательство йылысь гидын](/brain-health/brain-games/) да [мый висьталöны тöдмöмъяс деменция дугдыны йылысь](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Мый лоö общественнöй пример лöсялöмтöг претензия йылысь?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016 вося тöвшöрöн FTC [юöртöм согласьöм йылысь](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) Lumosity шусьöм «моз тренировка» программаöн уджалысьöн. FTC висьтö, что компанияыс висьталö без достаточнöй доказательство, что найöс ворсӧмъяс вермасöны ньöбöдны важ лунья когнитивнöй спадöс, видзöдны лёгкöй когнитивнöй нарушениесö, деменцияöс да болезнь Альцгеймераöс. Компанияыс согласьитö ыстны 2 миллион доллар да колö медбура тöдчöмöн да веськöдлунöн научнöй доказательство, медводз сэтшöм претензияяс вöчны водзö.
 
-### Which words are red flags?
+### Кытысь кывъяс колö тшöкыда видлыштны?
 
-Be cautious when an app or ad says it:
+Тшöкыда видлыштöй, кор приложение либö реклама висьталö:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- «дугдытö», «бергöдчöдö», «помöдö» либö «вылöдö» деменция либö болезнь Альцгеймера;
+- «медбура тöдчöмöн», но абу пасйöма, кытшöм исследование, кодöс пырöдöма, да мыйöс лыддьылöма;
+- «мозлысь важ» либö казьтылöм лыд, код петкöдлö диагнозöн;
+- «бурдöдö», «содтö» либö «тренируйтö» моз;
+- свидетельствоясöн позян вöчны доказательствоöн.
 
-If you are unsure about a claim, ask the person's doctor.
+Кор ті гöгöрвоныд сомнительно претензия йылысь — юалöй мортлöн эмчъясöс.
 
-## Where does Golden Moments fit?
+## Кытчö лоö Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments сетö сьöкыдтöг öтувъя ворсӧмъяс, а не казьтылöм прöверöм, терапия либö медсовет. Миян ворсӧмъяс, кыдз [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) да [Calm Breathing](/games/calm-breathing/), лöсьöдöмась лöньöн да сёрнитöм могöн. Найö оз вежöртö, оз лечитö, оз дугдытö либö лыддьы деменция, а ми оз висьтав нимкодь претензияяс казьтылöм либö мыслительнöй вермöм йылысь.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Ми сетöмö öмöль приложение [Golden Moments iPhone, iPad да Android-ын](/app/). Сійöын эм лöсьыд серпасöн гортасьöм ыджыд плиткаясöн, ворсӧмъяс семья серпасъясöн, кодъяс ті бöрйыд, да серпас пакетъяс, кодъяс уджалöны офлайн, аккаунттöг, рекламайтöг, кадытöг да очкоясытöг. Сійö ж чек-лист лöсялö: App Store-ын юöртöдöмыс висьталö «Data Not Collected» (юöр оз чукöртöны), а [приложениеын конфиденциальность политикаын](/app-privacy/) ясöдöма, кытчö лоны серпас копияяс.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Ми кöсъям, мед ті аслыныд прöверитöй, а не мед миен довитöй. Кутчысьöй тайö лист бокын чек-листöн, лыддьысьöй миян [конфиденциальность лист бокöс](/privacy/) да [меддисклеймерöс](/medical-disclaimer/), да кольöй уджöмöн кытшöмкö, мисяньöдз и миянöс, кор сійö оз лöсялö мортлы, кодöс ті видзöдöны.
 
-## What is a sensible way to try a new app?
+## Кыдзи лöсьыдöн прöварны виль приложение?
 
-Try it together for a couple of weeks and watch what happens.
+Прöварöй сійöс öтув кык-тöят неделя дырйи да видлыштöй, мый лоö.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Медводз лöсьöдöй** миян [планшет да телефон лöсьöдöм гидöн](/caregiving/tablets-and-screens/) гöгöрвоöмöн да пырöдöй медсьöкыдтöг важтöмлунсянь.
+2. **Кольöй ворсӧмöс дженьыд кадöн,** видлыштöй смех, сёрни да лöнь видзьöм да помöдöй ворсӧмсö бур кадын.
+3. **Кольöй сійö,** кор лоö ёртöм, быттьöкö сійö и унаысь прöверöмöн.

@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Gwriansow Bagas rag Dismyk: Gidyans"
+seoTitle: "Gwriansow Bagas rag Dismyk: Bingo, Kanow, Hwedhlow"
+description: "Gwriansow bagas rag gwith kov, chiow nyrsya ha towlenyow dydh: bingo skeusennow, kanow war-barth ha kewsel a gov, gans profyansow a esedha ha myns an bagas."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Gwriansow bagas da yn gwith kov ha towlenyow dydh yw berr, aswonys hag es
+  omjunya orta dhe neb nivel: bingo skeusennow, kanow war-barth, kylghyow a
+  gov, gwayans sempel ha gwariow geryow war-barth. Gwith bagasow byghan mar
+  kyllir, esedh tus may hallo pubonan gweles ha klewes, ro unn kemmyn kler
+  orth unn dermyn, ha towla rann esya ha fordh kosel dhe omdenna rag neb a’n
+  jevo edhom anodho.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Bagasow byghan a wra oberi gwell yn fenowgh es unn hwarvos bras, hag i a re moy a dus dhe gemeres rann vewek yn le mirys yn unnik."
+  - "Esedh tus yn kylgh po yn pedol, ogas dhe’n leder, gans edhommow klewans ha gweles yn brys ha tros kilys."
+  - "Towla pub gwrians dhe dhiw po tri nivel may hallo tus gans gallosow dyffrans oll omjunya."
+  - "Gwayt govynnow previ, scorow ha gwaynyoryon. Bingo skeusennow a yll bos gwarys may hwer pubonan gans karten leun."
+  - "Da yw mos yn-kerdh a-varr, mires, po koska. Bedhes menyster parys dhe skoodhya neb a vynn spas moy kosel."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Pyth yw myns da a vagas rag gwriansow dismyk?"
+    a: "Nyns eus niver ewn unnsel, hag y fydh war an drigoryon, an stevell ha’n niver a menysteryon eus dhis. Lies para a wra kavos bos bagasow byghan ow kelesa pubonan dhe weles, klewes ha kemeres rann, ha bos hwarvosow yn stevellow bras ow gasa moy a dus ow mires. Mar kwredh hwarvos bras, keworr menysteryon po vodhogyon a yll esedha yn mysk trigoryon ha gweres unn po dhew dhen an eyl orth y gila."
+  - q: "Fatel wrav ledya bagas gans gallosow kemyskys?"
+    a: "Towla moy es unn fordh dhe omjunya yn pub gwrians. Yn kan war-barth, nebes tus a gan pub ger, nebes a wra klappya po humya, ha nebes a syns shakyer. Yn bingo skeusennow, nebes tus a gavo aga skeusennow aga honan ha gwereser a boint rag re erel. Esedh tus a re edhom moy a weres ryb menyster po bodhek."
+  - q: "Fatel wrav gwari bingo skeusennow heb y wul kesstrifus?"
+    a: "Gelw pub skeusen bys pan vo karten pubonan leun, ma na vo denvyth gesys yn-mes. Kows a-dro dhe bub skeusen pan dheu, ha gashe an pewasow rag gwaynyoryon po ro an keth tra byghan dhe bubonan. An porpos yw aspians ha keskows war-barth, nid piw a worfenna kynsa."
+  - q: "A allav devnydhya agas gwariow war skrin bras yn bagas?"
+    a: "Ya. Agan gwariow a wra oberi yn beurell ankesplegya, ytho ty a yll aga ygeri war jynn-amontya po leghen junys dhe bellwolok po towlenner. Bingo Skeusennow a gomprehend kartennow pryntyadow ha gelwel war an skrin. Gorfedha an Lavar ha Koplow Skeusennow a wra oberi yn ta ynwedh war skrin bras gans unn den ow tappya rag an bagas."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+An gidyans ma yw rag leworyon gwriansow, parys gwith kov ha leworyon towlenyow dydh. Ev a gomprehend furvow bagas a ober, aray an stevell, aswonnans unn gwrians rag gallosow kemyskys, ha devnydh agan kartennow bingo pryntyadow ha’gan gwariow war skrin bras. Pub tra omma a gever es, keskolm ha dewis. Nyns yw travyth omma prevyans.
 
-## What makes a group activity work in memory care?
+## Pyth a wra gwrians bagas oberi yn gwith kov?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Gwrians bagas da yw aswonys, berr, es dhe omjunya orta dhe neb nivel ha heb gwask. [Komendyansow Praktis Gwith Dismyk](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) an Alzheimer’s Association a dheskrif omjunyans a styr avel neppyth a skoodh lesow ha dewisyow den hag a as dewis ha sewnyans, hogen pan vo an dismyk pur grev. An keth skrifen a not bos towlenyow hengovek yn fenowgh ow kregi war unn po dhew hwarvos bras pub dydh mayth yw trigoryon yn fenowgh omjunyans poesek yn unnik.
 
-That points to a few practical rules:
+Hemma a boint dhe nebes rewlys praktyk:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Aswonys yw gwell es nowydh.** Kanow, lavarow, skeusennow ha taklow a vledhynnyow yowynka an drigoryon yw esya dhe omjunya orta.
+- **Berr yw gwell es hir.** Towla a-dro dhe’n hirder a aspians a’n jeves dha vagas yn fenowgh, gans poynt naturel dhe hedhi yn kres an gwrians.
+- **Gul yw gwell es mires.** Ro dhe bub den neppyth dhe synsi, tappya, dewis po leverel.
+- **Lies nivel, unn gwrians.** Gwra fordhow esya ha moy kales dhe gemeres rann.
+- **Gwaynyoryon vyth, scorow vyth.** Furvow kesstrifus a wra nebes tus dhe omglywes i dhe fyllel.
 
-## How big should the group be?
+## Pygemmys den a dal bos y’n bagas?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Byghan yw esya yn fenowgh. An Alzheimer’s Association a not den a gavo kuntelles bras re veur a yll kesklappya yn well yn bagas byghan. Nyns eus niver ewn unnsel. Y fydh war an drigoryon, an stevell ha pygemmys menyster ha bodhogyon eus kavadow.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Prevyans devnydhus: a yll pub den gweles fas an leder, klewes yn kler ha bos kevys gans gwereser yn nebes eylennow? Mar ny yllons, ranna an bagas, keworr gweresoryon, po mos dhe stevell vyghan.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Rag hwarvos bras, kepar ha keskan golydh, esedh menysteryon ha bodhogyon yn mysk trigoryon, nid a-hys an fosow.
 
-## How should I set up the room and seating?
+## Fatel dhyllyn araya an stevell hag an esedhow?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Kylgh po pedol.** An komendyansow praktis a dheskrif kylgh kevrenna avel an gwella yn spas bras lowr rag pubonan dhe esedha yn kylgh, heb tros kilys.
+- **An leder ogas hag orth nivel an lagasow.** Esedh yn le sevel mar kyllir.
+- **Klewans ha gweles kynsa.** Esedh tus gans klewans gwan nessa dhe’n leder, war aga thu wella. Surha bos dewweder ha daffar klewes gwiskys. An Alzheimer’s Association a not y hall kudynnow gweles ha klewes gul kesklappya moy kales.
+- **Golow a-dryv trigoryon, nid a-dryv dhis.** Gwayt esedha neb orth fenester splann.
+- **Marth an bellwolok ha’n radyo.** An Alzheimer’s Association a gomend dilea tros kesstrifus yn termyn gwriansow ilow.
+- **Unn keskows orth unn dermyn.** Kows a-dreus yw kales rag tus ow triga gans dismyk ha tus gans klewans gwan, dell lever an Alzheimer’s Association yn hy [gidyans golydhow](https://www.alz.org/help-support/caregiving/holidays).
+- **Dallathow kler ha kornel gosel.** Neb a vynn mos yn-kerdh a dal gallos gul yndella yn es, gans menyster dhe gerdhes ganso.
 
-## Group activity ideas
+## Tybyansow rag gwriansow bagas
 
-### Picture bingo
+### Bingo skeusennow
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo skeusennow a janj niveryow gans skeusennow kler, kepar ha tebot, ki po ros, ma na res dhe nebonan holya niver hir po redya prynt byghan.
 
-**How to run it:**
+**Fatel y ledya:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Prynt unn garten rag pub den a’gan folen [Bingo Skeusennow](/games/picture-bingo/) dre devnydhya an boton Pryntya. Paper tew yw esya dhe dhohy. Lamen rag devnydh arta.
+2. Ro merkys bras hag es dhe gemeres, kepar ha jynnow pokker, kappys botellas po kwadrednow a baper karten.
+3. Devnydh an gelwel war an skrin war bellwolok po towlenner may hwrello pubonan gweles an skeusen ha ty ow leverel hy hanow.
+4. Powes wosa pub skeusen ha gelwel kampol berr: “A garsa nebonan leverel dhyn a-dro dhe gi a aswonsons?” po “Pyth a welowgh yn hemma?”
+5. Pesya gelwel bys pan vo pub karten leun. Pubonan a worfen.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Aswonnans:** Devnydh le a gwadrednow rag tus a gavo karten leun re vras. Gwereser a yll poyntya dhe’n skeusen owth omdhesedha rag nebonan a’n jeves edhom anodho. Nebes tus a vynnsa martesen synsi karten skeusen an gelwel ha’y diskwedhes dhe’n bagas.
 
-### Sing-alongs
+### Kanow war-barth
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Ilow yw onan a’n gwriansow bagas moyha kerys. An Alzheimer’s Association a not y hall den, hogen yn nivelow diwettha, [tappya war ryth po kana kan a’y flogholeth](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Fatel y ledya:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Dewis kanow a wrug an drigoryon tevi gansa, nid an re gerys gans an leder. Govyn orth teyluyow pyth a gara pub den.
+- Devnydh ilow heb argemynnow, a not an Association a yll bos kemyskys.
+- Prynt an geryow yn prynt bras rag an re a red, mes na wra y erghi.
+- Profya shakeryow, tabouryow dorn po liennow dhe wevya.
+- Kenertha klappya ha gwayans, ha gwith an son orth nivel es.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Aswonnans:** Nebes tus a gan pub ger, nebes a hum, nebes a dapp aga throes, ha nebes a woslow yn unnik. Oll an re ma yw da. Gwel agan [gidyans gwriansow ilow](/activities/music/) rag moy.
 
-### Reminiscence groups
+### Bagasow a gov
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Bagas a gov a guntell a-dro dhe desten, kepar ha dydhyow skol, kerri kynsa, kegynyow po hav, ow kul devnydh a skeusennow, taklow hag ilow. An amkan yw keskows plegadow, nid kov ewn.
 
-**How to run it:**
+**Fatel y ledya:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Dewis unn desten ha dri nebes taklow a yll tus synsi: mesker dorn, maneg pel vas, hatt, katalog has.
+2. Passya unn dra orth unn dermyn. Govyn govynnow ygor: “Lever dhymm a-dro dhe hemma”, “Pyth a welowgh?” “Piw a dhevnydhyas neppyth kepar ha hemma?”
+3. Dynnergh pub gorthyp. Na ewna nevra dedhyas po fydh.
+4. Ledya an gows troha kovow tomm. An komendyansow praktis a not y tal dhe brovioryon gwith ledya kov troha kovow posedhek yn le an re a allsa kawsya anes.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Kartennow Kescows](/games/conversation-cards/) a brof kartennow skeusen pryntyadow gans profyansow ygor dre desten a ober yn ta avel dallethvaow keskows. Moy a dybyansow yw yn agan [gidyans a gov](/activities/reminiscence/).
 
-### Finish the saying
+### Gorfedha an lavar
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Lavarow aswonys (“Denwar kwithys yw denwar...”) a elow orth pubonan dhe leverel an diwedh war-barth. Diskwedh [Gorfedha an Lavar](/games/finish-the-saying/) war skrin bras ha gas dhe’n bagas gorthebi avel unn lev. Yma profyans kows wosa pub lavar. Mar ny lever denvyth an diwedh, diskwedh ev ha mos yn-rag. Nyns eus ewn po kamm.
 
-### Large-print word search, together
+### Hwilas geryow prynt bras, war-barth
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Towlen an [Hwilas Geryow](/games/word-search/) prynt bras war skrin ha hwilas geryow avel bagas, po prynta kopys rag an re a gar oberi aga honan orth an voes. Geryow a wra mos a-dreus hag yn-nans yn unnik.
 
-### Gentle movement
+### Gwayans es
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Ystynnansow esedhys, passya pel vedhel po ayrbellen, po donsya yn kador dhe ilow aswonys. Diskwedh pub gwayans yn le y dheskrifa.
 
-### Sorting and matching at the table
+### Sortya ha kesunya orth an voes
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Moosow byghan a dri po peswar den a yll sortya skeusennow, temmyn gwias po daffar arghans war-barth. War an skrin, [Koplow Skeusennow](/games/picture-pairs/) a yll bos gwarys gans an skeusennow gwelys, gans unn den ow tappya ha’n voes ow kows a-dro dhe bub skeusen.
 
-## How do I use your games on a big screen?
+## Fatel allav devnydhya agas gwariow war skrin bras?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Agan gwariow a wra oberi yn beurell ankesplegya, ytho ty a yll aga devnydhya war bellwolok po towlenner heb lea travyth.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Yger an gwari war jynn-amontya po leghen junys dhe’n skrin dre gevren po tewlel.
+2. Gwra an beurell leun-skrin ha settya an son orth nivel es.
+3. Gasa unn leder dhe wul an tappya ha’n bagas dhe elwel aga dewisyow. Po pass leghen dhe driger a vynn tro.
+4. Hedh pan vo an bagas parys. Nyns eus dhe’n gwariow termynador, scor po diwedh konstrynys.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Bingo Skeusennow](/games/picture-bingo/), [Gorfedha an Lavar](/games/finish-the-saying/), [Koplow Skeusennow](/games/picture-pairs/) ha [Kartennow Kescows](/games/conversation-cards/) a wra omdhesedha yn ta rag bagasow yn fenowgh. Gwel oll an dewisyow war agan [folen gwariow](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Fatel dhyllyn aswonnya unn gwrians rag gallosow kemyskys?
 
-Plan at least three ways to join every activity.
+Towla dhe’n lyha tri fordh dhe omjunya yn pub gwrians.
 
-| Activity | More independent | Some support | Most support |
+| Gwrians | Moy anserghek | Nebes skoodhyans | Moyha skoodhyans |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo skeusennow | Kavos ha kudha y skeusennow y honan | Gwereser a boint; an den a gudh | Synsi karten skeusen; goslowes ha mires |
+| Kan war-barth | Kana, dewis an nessa kan | Humya, klappya, devnydhya shakyer | Goslowes, synsi lien, tappya dorn |
+| Kov | Derivas hwedhlow | Gorthebi ya po na po poyntya | Synsi ha tochya an dra |
+| Hwilas geryow | Oberi y gopi pryntys y honan | Kavos geryow war an skrin bras gans gwereser | Goslowes dell vydh geryow redys yn ughel |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Rag trigoryon yn nivelow diwettha, an NHS a not y ta gwriansow bos sempelha yn fenowgh ha fogella moy war an sensow, kepar hag ilow, taklow dhe dochya ha dorvannas. Pols unn orth unn yn kres an bagas po wosa a yllsa omdhesedha gwell dhedha es an bagas y honan. Gwel [gwriansow rag nivelow diwettha](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Fatel dal leworyon kewsel yn bagas?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Omgomendhe pub tro, ha devnydh an hanow a gar pub den.
+- Kows yn lent, ro unn kemmyn orth unn dermyn, ha diskwedh kyns leverel.
+- Govyn galow ygor (“Lever dhymm a-dro dhe...”) po dewisyow sempel, nevra govynnow previ (“A borth kov dhis...?”).
+- Na ewna. Grassa dhe bub den rag pub kevro.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Moy a-dro dhe hemma yw yn agan [profyansow kesklappya](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Diwedha yn ta, ha gasa tus dhe vos yn-kerdh
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Hedhi yw sewyans da. Mir orth arwodhyow bos nebonan skwith, anes po troblys, ha gasa gwereser dhe brofya kerdh po esedh kosel yn le aral. Den ow koska yn kres kan war-barth a yllsa bos es yn sempel.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Degea pub bagas y’n keth fordh, gans kan aswonys po gras sempel, mayth omglew an diwedh kosel ha gwaytys. Wosa henna, skrif nebes notennow a-dro dhe byth a oberis yn ta ha piw a’n enjoyas. An notennow na a wra an nessa esedhek gwell.

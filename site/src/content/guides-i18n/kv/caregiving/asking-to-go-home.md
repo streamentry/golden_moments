@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Кор деменцияӧн олысь морт корсяс гортӧ"
+seoTitle: "Деменция да кор гортӧ корсян: мый шуны"
+description: "Мыйла деменцияӧн олысь морт корсяс гортӧ, кор и эм гортас, кыдзи сёрнитны, кыдзи лӧньӧдны да видзны дорйӧгсӧ, кор сійӧ кӧсйӧ петны."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Кор деменцияӧн олысь морт корсяс гортӧ, «горт» вермас вӧзйыны дорйӧг да
+  лӧньлун, а оз керка. Эн мунны сійӧкӧд вензьыны, мый сійӧ эм гортас.
+  Казялыштӧй сылысь érzӧмсӧ, шуӧй, мый сійӧ дорйӧгын, юалӧй горт йылысь,
+  сэсся небыдик вайӧдӧй сійӧс серпасъяс видзӧдӧмӧ, музыка кывзӧмӧ, сёйӧмӧ,
+  гуляйтӧмӧ либӧ кокни уджӧ. Видзӧдлӧй, абу-ӧ сійӧ тшыгъя, ва кӧсъя, висьӧ
+  либӧ колӧ туалетӧ. Кор тайӧ заводитчис виччысьтӧг, шыӧдчӧй сылысь врачкӧд.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "«Ме кӧсъя гортӧ» корсянтор вермас вӧзйыны «меным оз лӧсьыда» либӧ «ме ог пов дорйӧг», а абу адрес."
+  - "Вензьысьӧм да доказуйтӧм, мый сійӧ гортас, шӧркаджа лоӧ. Бурджык вочавидзны érzӧм вылӧ."
+  - "Корӧй сійӧс висьтавны горт йылысь, сэсся предложитӧй видзӧдлыны серпасъяс, кывзыны музыка, сёйны, гуляйтны либӧ вӧчны кокни удж."
+  - "Видзӧдлӧй, позьӧ-ӧ вежны мыйкӧ: тшыг, ва, туалет, дой, вывті шоныд либӧ кӧдзыд, шы, мудзӧм."
+  - "Кор тайӧ лоӧ быд рыт, вермас лоны рытын шуштӧм; отсӧг вермас сетны дзик олысь режим да бур югӧд."
+  - "Дасьтӧй дорйӧг мерыяс, кор сійӧ кӧсйӧ петны керкаысь, да шыӧдчӧй врачкӧд, кор лоӧ виччысьтӧг вежсьӧм."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Мыйла менам мамӧй, коді олӧ деменцияӧн, корсяс гортӧ, кор сійӧ и эм гортас?"
+    a: "Деменция вермас вӧчны сідз, мый тӧдса жӧ жыръяс лоасны абу тӧдсаӧн, да мукӧд дырйи мортлы кажитчӧ, мый сійӧ олӧ важджык кадын. «Горт» вермас вӧзйыны чакоткадся керка либӧ прӧста дорйӧг да лӧньлун érzӧм. Бурджык вочавидзны тайӧ érzӧм вылӧ, а оз казявны, кӧні сійӧ эм."
+  - q: "Мый шуны, кор сійӧ корӧ гортӧ?"
+    a: "Видлӧй шуны: «Татӧн Ті дорйӧгын, да ме Тіянкӧд», сэсся: «Висьталӧй менамлы ассьыныд горт йылысь». Кывзыштӧй, петкӧдлӧй серпас либӧ кывзӧдӧй сьыланкыв, предложитӧй юны мыйкӧ либӧ ветлыны неуна. Эн шуӧй «Ті татӧн гортын» вежӧртӧмӧн, сы вӧсна мый сылы вермас кажитчыны, мый сійӧс сорлалӧны."
+  - q: "Позьӧ-ӧ шуны, мый ми мунам гортӧ сёрӧн?"
+    a: "Семьяяс да деменция йылысь организацияяс абу ӧткодьӧн видзӧны тайӧ вылӧ. Унаысь заводитӧны честнӧя лӧньӧдӧмысь да мӧдторӧ вниманньӧ вуджӧмысь, а небыдик абу веськыд сёрни вӧдитчӧны сэк, кор збыль юӧр сӧмын ёна сьӧктаммӧдӧ. Кутшӧм ногӧн Ті вӧчанныд, вӧчӧй бурӧн да ӧткодя."
+  - q: "Мый вӧчны, кор сійӧ кӧсйӧ петны керкаысь?"
+    a: "Видзчысьӧй лӧнь, да сійӧкӧд ӧттшӧтш ветлӧй, а эн дугдӧдлӧй. Неуна ветлӧм вермас лӧньӧдны. Водзвыв дасьтӧй дорйӧг мерыяс, шуам, ID-браслет, ӧдзӧс чукӧртчан да том серпас. Кор сійӧ воши, заводитӧй корсьны дзик пыр, да кор 15 минут мысти он аддзӧ, шыӧдчӧй 112-ӧ, да висьталӧй, мый мортӧс эм деменция."
+  - q: "Корколӧ шыӧдчыны врачкӧд?"
+    a: "Шыӧдчӧй сылысь врачкӧд дзик пыр, кор корсянтор либӧ шуштӧм заводитчис виччысьтӧг либӧ зэв ёна вежсис часъясӧн либӧ лунъясӧн, торйӧннин кор эм кӧртымӧм, выль пемӧс либӧ виж сюрлун пасъяс. Виччысьтӧг шуштӧм вермас лоны делирий, коді колӧ отсӧг пыр. Шыӧдчӧй 112-ӧ, кор кинкӧ эм опаснӧйын."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+«Ме кӧсъя гортӧ». Уна семьялы тайӧ кывъяссӧ зэв сьӧкыд кывзыны, торйӧннин кор ті кӧсйысьыд морт пука ассьыс жырйын. Тайӧ тшӧкыда лоӧ, вермас лоны деменциялӧн кутшӧмкӧ стадияын, да эм лӧнь, практичнӧй ногъяс вочавидзны. Тайӧ лист бокын ми видлалам, мый вермасны вӧзйыны тайӧ кывъяс, кыдзи сёрнитны, кутшӧм уджъяс вермасны отсавны татшӧм кадӧ, да кыдзи видзны дорйӧгсӧ.
 
-## Why does someone with dementia keep asking to go home?
+## Мыйла деменцияӧн олысь морт корсяс гортӧ?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Шӧркаджа «горт» — тайӧ érzӧм, а абу ин. Alzheimer's Society гӧгӧрвоӧдӧ тайӧс кыдз лӧньлун да дорйӧг érzӧм, либӧ важ кадся горт, а абу ӧніа керка. Деменция вермас вӧчны сідз, мый тӧдса жыръяс пондасны абу тӧдсаӧн, да мортлы вермас кажитчыны, мый сійӧ олӧ важджык кадын, кор горт вӧлі чакоткадся керка либӧ татшӧм, кӧні сійӧ быдтіс челядьсӧ.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Тайӧ кывъяс вермасны петкӧдлыны, мый ӧні лоӧ мыйкӧ мӧдтор: сійӧ тшыгъя, ва кӧсйӧ, колӧ туалетӧ, сійӧ висьӧ, сылы вывті шоныд либӧ кӧдзыд, сійӧ мудзӧма, ӧтнас, пола либӧ шыысь да вывті уна сикас йывсьысь повзясис. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) лыддьӧ дой, шы, ӧтнас олан, режимын вежсьӧмъяс да пемӧсъяс шуштӧм помкаяс пыр.
 
-## What should I say when they ask to go home?
+## Мый шуны, кор сійӧ корӧ гортӧ?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Вочавидзӧй érzӧм вылӧ, а оз кывъяс вылӧ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) советуйтӧ оз вензьыны морткӧд, мый сійӧ абу права: сылысь érzӧмъяс збыльысь, сідзкӧ медводз сетӧй лӧньлун да дорйӧглун, сэсся небыдик вуджӧдӧй вниманньӧ мӧдтор вылӧ.
 
-Phrases that often help:
+Кывъяс, кодъяс вермасны отсавны:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Нимтӧй érzӧмсӧ.** «Кажитчӧ, Тіёна окотаыд гортӧ».
+- **Лӧньӧдӧй.** «Татӧн Ті дорйӧгын, да ме Тіянкӧд». [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) советуйтӧ кокни кывъяс: «Татӧн Ті дорйӧгын».
+- **Корӧй казьтыштны.** «Висьталӧй менамлы ассьыныд горт йылысь. Кыдзи вӧлі Тіян пӧжанін?» Шӧркаджа ылі кад йылысь юалӧм кокниджык, сыысь талунъя кад йылысь.
+- **Предложитӧй вӧчны мыйкӧ ӧттшӧтш.** «Медым водзвыв юам чай», либӧ «Отсалӧй-ӧ менам татшӧм рушникъяссӧ топӧдны?»
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Шондіа сёрни да, кор сійӧ радейтӧ, небыдик ки вылӧ видзӧм вермасны висьтавны унджык, кывъясысь.
 
-## What should I avoid?
+## Мый оз колӧ вӧчны?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Вензьыны либӧ вежӧртны.** «Ті ӧні татӧн оланныд» либӧ «Тайӧ Тіян горт 40 воӧн нин» корӧны сылысь прӧститны сійӧ, мый деменцияӧн прӧститны сьӧкыд, да сылы вермас кажитчыны, мый сійӧс сорлалӧны.
+- **Ыстӧг видлавны.** «А Ті он-ӧ казьтышт?» либӧ «Кутшӧм татчӧ адрес?» содтӧны сьӧктӧм.
+- **Сьӧкыда дугдӧдны ӧдзӧс дорын.** Кор сійӧ петӧ, видзчысьӧй лӧнь да ветлӧй сійӧкӧд. Неуна ӧттшӧтш ветлӧм шӧркаджа отсалӧ лӧньӧдны.
+- **Терньӧдны.** Сетӧй сылы кад висьтавны горт йылысь, сэсся вежӧй сёрни тема.
 
-## Activities that can help in the moment
+## Уджъяс, кодъяс вермасны отсавны татшӧм кадӧ
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Кор Ті нин казялинныд сылысь érzӧмсӧ, лӧнь, тӧдса удж вермас вуджӧдны вниманньӧ, но сідз, медым оз кольны сійӧс кывзытӧг.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Видзӧдлӧй горт да семья серпасъяс.** Листайтӧй серпасъяссӧ да шуӧй бур кывъяс («Видзӧдлӧй, кутшӧм мича сад»), а эн юалӧй. Телефон вылын либӧ планшет вылын [Photo pairs](/games/photo-pairs/) вӧчӧ Тіян ассьыныд семья серпасъясысь небыдик лӧсялӧм ворсӧм, да серпасъяс кольӧны Тіян устройствоын.
+2. **Сёрнитӧй горт йылысь.** [Conversation cards](/games/conversation-cards/) сетӧны восьса юалӧмъяс керка, пӧжанін, соседъяс да гажлунъяс йылысь, веськыд вочакывъяс абу.
+3. **Кывзӧдӧй сылы радейтан музыка.** National Institute on Aging лыддьӧ лӧнь музыка шуштӧм лӧньӧдан ногъяс пыр. Видзӧдлӧй миян [музыкаа уджъяс](/activities/music/).
+4. **Сетӧй сёйны либӧ юны.** Тшыг да вадырым вермасны петкӧдчыны кыдз повзьӧдчӧм. Чай юан либӧ радейтан сёян — тайӧ гортса лӧньлун небыдик туйыс.
+5. **Гуляйтӧй либӧ пуктӧй ортсын.** Вӧрзьӧдчӧм да лун югӧд отсалӧны, торйӧннин лун водзын.
+6. **Сетӧй тӧдса удж.** Рушникъяс топӧдӧм, пань-семавар бӧрйӧм либӧ пуяс визувтӧм вермасны бӧр бергӧдны горт видзан érzӧм.
+7. **Вӧчӧй ставсӧ дженьыдикӧн.** Кусӧдӧй телевизор, чинтыштӧй шы да яркӧд югӧд, да видлӧй ӧттшӧтш [лӧнь ловзьӧдчӧм](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Кор ӧти ног оз ло, видлӧй мӧдтор сёрӧн. Лӧнь ӧтлаын овны — бур результат жӧ.
 
-## Check for a cause you can fix
+## Видзӧдлӧй, позьӧ-ӧ вежны помкасӧ
 
-| Check | What to try |
+| Мый видзӧдны | Мый вӧчны |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Тшыг либӧ вадырым | Сетӧй юны да неуна сёйны |
+| Колӧ туалетӧ | Предложитӧй мунны туалетӧ, лӧньӧн да гӧрдлӧмтӧг |
+| Дой либӧ омӧльлун | Видзӧдлӧй пасъяс вылӧ, шуам, чужӧм либӧ кынӧмсӧ видзӧм, да висьталӧй врачлы |
+| Вывті шоныд либӧ кӧдзыд | Вежӧй паськӧм либӧ жырйын температура |
+| Шы либӧ уна йӧз | Вуджӧй лӧньджык жырӧ, кусӧдӧй телевизор |
+| Мудзӧм либӧ вывті уна аддзӧм-кывзӧм | Сетӧй шойччыны, пемдыштӧй югӧд, кывзӧдӧй небыдик музыка |
+| Рытас | Видзӧдлӧй увтын рытын шуштӧм йылысь юкӧн |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society советуйтӧ гижны неуна журнал, кор корсянтор лоӧ, шуам, сёян водзын, гостъяс бӧрын либӧ рытын. Тайӧ отсалӧ аддзыны порядок да водзвыв дасьтысьны.
 
-## Is it okay to tell a white lie?
+## Позьӧ-ӧ шуны неыджыд абу збыль?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Тайӧ збыльысь ёна сернитана тема, да бур семьяяс вермасны торъя ногӧн вӧчны. Alzheimer's Society шуӧ, мый абу ӧти веськыд вочакыв: мукӧд дырйи абу збыль сёрни вермас лӧсьӧдны мортыслы унджык подозрительнӧй, сідзкӧ тӧдмалӧй, мый бурджык сійӧ мортлы, да вӧчӧй ӧткодя. Penn Memory Center-ын шуӧны, мый збыль юӧр — тайӧ медводдза ног, а небыдик абу збыль сёрни позьӧ сӧмын сэк, кор морт оз вермы вежӧртны торъя збыль юӧрсӧ, да некор оз колӧ видлавны сылысь гӧгӧрвоӧм.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Уна видзысьяс аддзӧны шӧр ног: медводз честнӧя лӧньӧдны да вниманньӧ вуджӧдны («Талун рытӧ ми талад кӧлам, да ме Тіян дорын»), горт ин йылысь вензьытӧг.
 
-## What if it happens every afternoon or evening?
+## Мый вӧчны, кор тайӧ лоӧ быд рыт либӧ рытнас?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Повзьӧдчӧм, коді заводитчӧ либӧ ёнмӧ рытын, шӧркаджа шуӧны рытын шуштӧмӧн (sundowning). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) советуйтӧ видзны дзик режим, лун сайын овны югын да уджавны, этшаджык узьны рытын, да эн юны кофе либӧ алкоголь рытнас. Югӧдсӧ ӧзйӧм пемыдджык водзын тӧжӧ вермас отсавны. Миян [лӧнь рытын уджъяс](/caregiving/late-day-restlessness/) йылысь гижӧдын эм содтӧд юӧр.
 
-## Keeping them safe if they try to leave
+## Кыдзи видзны дорйӧгсӧ, кор сійӧ кӧсйӧ петны
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Гортӧ корсянтор вермас вайӧдны ветлӧмӧ керкаысь петӧмкӧд. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) лыддьӧ, мый деменцияӧн олысь 10 мортысь 6 вермасны ӧтчыдкӧ ветлыны мӧдлаӧ.
 
-**Prepare ahead:**
+**Дасьтӧй водзвыв:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- ID либӧ медбраслет нимӧн да Тіян телефон номерӧн, да паськӧмын нимпасъяс. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) висьталӧ MedicAlert да Alzheimer's Association Safe and Found программа йылысь, кодъяс вермасны лоны донӧн.
+- Ӧдзӧс чукӧртчан либӧ сигнал, да замокъяс вылын либӧ улын. Некор эн пӧдлав мортӧс ӧтнасӧн керкаын.
+- Том матічыд серпас, да инъяс лыд, кӧні сійӧ вермас мунны, шуам, важ керка либӧ уджаланін.
+- Висьталӧй эскӧдан соседъяслы да сетӧй налӧн ассьыныд номер.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Кор сійӧ воши:** заводитӧй корсьны дзик пыр; Alzheimer's Association шуӧ, мый унаысьсӧ аддзӧны 1.5 миль кӧжайын. Кор 15 минут мысти он аддзӧ, шыӧдчӧй 112-ӧ да висьталӧй, мый мортӧс эм деменция. Шыӧдчӧй 112-ӧ дзик пыр, кор кинкӧ эм опаснӧйын.
 
-## When should I call a doctor?
+## Корколӧ шыӧдчыны врачкӧд?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Шыӧдчӧй сылысь врачкӧд дзик пыр, кор корсянтор либӧ шуштӧм заводитчис виччысьтӧг, либӧ зэв ёнмӧ часъясӧн да лунъясӧн. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) шуӧ, мый виччысьтӧг либӧ ӧдйӧ вежсян оласног, торйӧннин инфекция бӧрын либӧ пемӧс вежӧм бӧрын, колӧ видзӧдлыны пыр. Виччысьтӧг шуштӧм вермас лоны делирий, коді, [NHS](https://www.nhs.uk/symptoms/confusion/) серти, колӧ отсӧг пыр; ыджыд арлыда йӧзлы визьлун инфекция шӧркаджа лоӧ помкаӧн.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Бур тӧжӧ висьтавны дзик порядок йылысь матысся врачлы тӧдмалӧм дырйи, сы вӧсна мый дой, лӧньтӧм настроение, узьӧм сьӧкытлунъяс либӧ пемӧс бокӧвӧй петкӧдлӧмъяс вермасны тӧжӧ отсавны тайӧс вӧчны.

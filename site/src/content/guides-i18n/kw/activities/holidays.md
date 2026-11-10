@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Gwriansow goledh rag tus ow pewa gans demens"
+seoTitle: "Tybyansow goledh rag tus ow pewa gans demens"
+description: "Gwriansow sempel rag goledhow rag nebonan ow pewa gans demens: oberyow yn kegin, afina, ilow, skeusennow ha galowydhyow gwydhyo, ha fatel dhe dowlennhe goledh kosel."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Gwith an goledhow byghan, a-varr y’n jydh hag ogas dhe gerh an den usadow.
+  Ro dhodho ober gwir, saw, kepar ha gorra an voos, golghi losow, maylya
+  ro po krogi afina. Kevrenn ilow ha skeusennow koth an teylu, pareus an
+  gwestoryon a-rag, ha pareus stevell gosel. Gwra yn unnik an pyth a yllir
+  dyghtya yn reson; solempnita verr ha kosel yw solempnita dha.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Solempnia a-varr y’n jydh, kepar ha li po boes-bron, mar yw kemyskter diwettha y’n jydh kemmyn."
+  - "Prof oberyow gwir: gorra an voos, golghi losow, maylya, afina po gorra degebarthow war blat."
+  - "Ilow koth, karolyow hag albomys skeusennow koth yw fordh es dhe gevrenna an seson."
+  - "Lavar dhe’n gwestoryon pyth dhe waytyas, ha diskwedh skeusennow a’n re a dheu."
+  - "Pareus stevell gosel gans gwlanek po hweghen vri, ha gwith an gwestoryon dhe nebes y’n keth termyn."
+  - "Gasa yn kerh tra vyth a all bos re vras, y’ga mysk afinyansow a hevel bos boes ha lies lugarn ow tewynna."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Pyth a yll nebonan ow pewa gans demens gul orth Du Haskavoes?"
+    a: "Ro dhodho ober sempel ha saw a fytt an pyth a yll ev gul hedhyw: golghi losow, kemyska sous kranberi, gorra an voos, plegya lienyow po gorra degebarthow war blat. Wosa henna, mires orth skeusennow koth an teylu po kana ilow koth war-barth. Bos rann a’n jydh yw moy posek ages fatel wra an ober."
+  - q: "A dalvien ni hwath kavos kuntelles bras an teylu?"
+    a: "Marnas mars yw es dh’y dyghtya. Routhow ha tros a all bos re vras, ytho lies teylu a dreyl dhe guntelles byghan ha heb liester, boes a-varra, po gwestoryon ow tos yn bagasow byghan. An Alzheimer’s Association a gorous orth gwithysi gul yn unnik an pyth a yllons i dyghtya yn reson hag yn saw."
+  - q: "Fatel dhyghtya an teylu na wrug vysytya a-dhiwedhes?"
+    a: "Lavar dhedha kyns aga dos a-dro dhe’n chanjyow a allons i gweles, hag y teu an re ma dhyworth an kleves, a-der an den. Govyn orta na wrellons ewnhe po apposya, kewsel unn den orth unn dermyn ha ri termyn rag gorthebow. Diskwedhes skeusennow a’n gwestoryon kyns an jydh a all gweres ynwedh."
+  - q: "Py rohow yw gwiw rag nebonan ow pewa gans demens?"
+    a: "Taklow sempel ha saw a yll ev enjoya lemmyn: boes da ganso, gwlanek po hweghen vedhel, ilow koth, po albom skeusennow a’n teylu. Gasa yn kerh jynnow elektronek komplek, toulys ha gwariow bord kaletter. Y hyll bos ro yndella y honan y vos ev kevrys yn ri, kepar ha maylya ro po gorra yn fardellik tesennow may hweres ev aga figa."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Goledhow a all dri kovadhow toemm, hag i a all dri ynwedh tros, routhow ha chanjyow dhe’n jydh usadow. Rag nebonan ow pewa gans demens, an solempnityow gwella yw yn fenowgh byghanna, lentta ha drehevys a-dro dhe daklow a yll ev hwath enjoya. An tybyansow ma a ober rag Du Haskavoes, Nadelik, Hanukkah, Bledhen Nowydh ha pennbloedhow teylu.
 
-## How do I plan a calmer holiday?
+## Fatel dhyghtya goledh moy kosel?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Dalleth gans kerh usadow an den ha towlenna an jydh a-dro dhodho. An [Alzheimer’s Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) a brof solempnya a-varr y’n jydh, drefen bos kemyskter hag ankos y’n dohajydh ha’n gorthugher ow tevi yn fenowgh. Li po boes-bron goledhek a all bos esya ages koen diwettha.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Gwra hi an braster ewn.** Kuntelles byghan ha heb liester, po gwestoryon ow tos nebes orth unn dermyn, yw yn fenowgh esya ages unn voos leun a dus.
+- **Ranna an oberyow.** Govyn orth kerens dri boes, prena po spena termyn gans an den ha ty ow kegi. Lavar yn kler pyth a wra gweres.
+- **Gwra an afinyansow sempel.** An [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/holidays) a verk bos lugern ow tewynna a all kemyska, ha bos hwegennow po frut gwrys usys avel afinyans a all bos kammgemerys avel boes.
+- **Ervir pyth dhe asa yn kerh.** Mar re beu hengov stressek po peryllus, da lowr yw y asa yn kerh po assaya neppyth moy kosel.
 
-## What holiday activities can we do together?
+## Py gwriansow goledh a yllyn ni gul war-barth?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Dewis oberyow ha gwariow a fytt an pyth a yll an den gul hedhyw. Bos rann a’n jydh yw moy posek ages fatel wra.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Gorra an voos war-barth.** Gorra an plattow kynsa, ena an lienyow, ena an hanafow. Plegya lienyow yw ober da dhe wul owth esedha.
+2. **Golghi ha sortya losow.** Golghi patatys po terri fav Marrek orth an voos y’n gegin yw saw hag aswonys rag lies den a wre kegi kyns.
+3. **Kemyska, keskomyska po gorra war blat.** Kemyska sous kranberi, keskomyska toesen sempel po gorra tesennow war blat a wra an dhiwla oberi pell dhyworth an forn ha’n gollellow.
+4. **Maylya ro.** Tregh an paper ha’n tap a-rag, ha gas an den dhe blegya ha smoothya. Nyns yw maylyans perfeyth an poynt.
+5. **Krogi nebes afinyansow.** Dewis afinyansow na derr ha unn tyller byghan, kepar ha gwelen po gwedhen vyghan.
+6. **Gwul kreft sempel.** Kadonyow paper, kollas del po kartenn woledh gans stampys a ober yn ta. Yma moy tybyansow y’gan [kowethlyver artys ha kreftow](/activities/arts-and-crafts/).
+7. **Kana ha goslowes.** Karolyow hag ilow goledh koth yw es dhe omjunya, hwath rag nebonan a gews le lemmyn. Gwra agan [kowethlyver ilow](/activities/music/) rag gul rol ilow.
+8. **Mires orth skeusennow goledh koth.** Dri albomys dhyworth solempnityow tremenys ha gelwel hwedhlow ("Lavar dhymm a-dro dhe’n voos ma") yn le apposya piw yw piw. Y tiskwedh agan [kowethlyver kovadhow](/activities/reminiscence/) fatel.
+9. **Gwari gwari es bagas.** [Bingo skeusennow](/games/picture-bingo/) a yll bos pryntys yn mynysennow hag a ober rag pub oos, ha [kartennow keskows](/games/conversation-cards/) a re dhe bubonan neppyth dhe gewsel a-dro dhodho.
+10. **Liwya war-barth.** Folennow [liwya](/games/coloring/) sempel a yll bos pryntys rag fleghes ha henwyn dhe gevrenna orth an voos.
+11. **Mires orth fylm goledh da ganso.** Fylm aswonys yw powesek, ha da lowr yw mires orth rann anodho yn unnik.
+12. **Kemeres kytter verr dhe weles golowys.** Kytter kosel dre drehevyow afinyes a all bos esya ages hwarvos leun a dus.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Mar o kegi rann vras a vewnans an den, yma moy fordhow y’gan kowethlyver a-dro dhe [oberiow an chi avel gwriansow](/activities/household-tasks/) rag gul oberyow kegin saw ha plesadow.
 
-## How do I prepare guests?
+## Fatel dhyghtya an gwestoryon?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Lavar dhe’n gwestoryon pyth dhe waytyas kyns aga dos, yn arbennik dhe gerens na wrug vysytya a-dhiwedhes. An Alzheimer’s Association a brof displegya bos chanjyow y’n gov ha’n omdhegyans ow tos dhyworth an kleves, a-der an den.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Kevrenna nebes tybyansow sempel:** kewsel unn den orth unn dermyn, ri termyn dhe worfenna tybyans, na wra ewnhe po apposya, ha gorthebi dhe don an den mar yw an geryow kales dhe holya.
+- **Lavar pyth a weres ha pyth a wra truedh.** Mar kwra levow ughel, bos fyskys po nebes testennow truedh, lavar yndella.
+- **Komendya an gwestoryon a-rag.** Diskwedh dhe’n den skeusennow a’n re a dheu ha kevrenna hwedhel po dew, po gwra galow pellgowsel po gwydhyow verr kyns an jydh.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Yma moy manylyon y’gan [tybyansow keskomunyans](/caregiving/communication-tips/).
 
-## What if it gets to be too much?
+## Pyth mar yw re vras?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Pareus stevell gosel kyns bos an gwestoryon ow tos, pell dhyworth an tros, gans taklow klys aswonys kepar ha gwlanek po hweghen vri po gwrians sempel. Prof hi a-varr hag yn fenowgh: "A vynnyn ni esedha yn le moy kosel pols?"
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Gasa an voos, mos dhe’n gweli a-varra po gasa yn kerh rann a’n jydh yw sewyans da, a-der falyans. Mar teu an den dhe vos troblys, lev kosel, kan aswonys po kerdh dhe stevell aral a weres yn fenowgh moy es resonya. Yma moy tybyansow y’gan kowethlyver a-dro dhe [ankos diwettha y’n jydh](/caregiving/late-day-restlessness/) rag an gorthugher.
 
-## How can family far away take part?
+## Fatel a yll teylu pell kemeres rann?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Galowydhyow gwydhyo a as kerens omjunya heb keworra dhe’n routh. An Alzheimer’s Association a brof ri furv dhe’n galowydhyow, rag ensampel kana ilow an seson, kevrenna skeusennow dhyworth kuntellesow tremenys, kegi an keth resayt war-barth po mires orth fylm goledh y’n keth termyn. Gwra an galowydhyow berr, ha govyn orth dus kewsel unn den orth unn dermyn, drefen bos kescows leun kales dhe holya. Yma tybyansow kamm ha kamm y’gan [kowethlyver galow pellgowsel ha gwydhyow](/activities/phone-and-video-calls/).
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Mar trig an den yn withti kov, checkya an rewlys vysytya ha govyn orth an mayni dhe weres settya galow. Yma y’gan kowethlyver a-dro dhe [vysytya nebonan yn withti kov](/activities/visiting/) pyth dhe dhri ha fatel dhe asa yn ta.
 
-## What gifts suit someone with dementia?
+## Py rohow yw gwiw rag nebonan ow pewa gans demens?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Rohow sempel ha saw a yll ev enjoya lemmyn a ober yn ta yn fenowgh: boes da ganso, gwlanek po hweghen vedhel, ilow koth, kalendar lytherennow bras, po albom skeusennow a’n teylu. An Alzheimer’s Association a gusul gasa yn kerh toulys peryllus, jynnow elektronek komplek ha gwariow bord kaletter.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Ri a all bos mar bosek ha degemeres. Fardella tesennow may hweres an den aga figa, po maylya ro a brensys, a’n gas dhe gemeres rann y’n seson. Gwari skeusennow teylu yw tybyans aral: [koplow skeusennow](/games/photo-pairs/) a dreyl nebes skeusennow dewisys dhe wari parow es y’n beurell.
 
-## Look after yourself too
+## Gwitha orthis dha honan ynwedh
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Goledhow a geworr ober dhe withyans. Gas nebonan aral ostya po kegi an yar Gyni, lavar na dhe hwarvosow a vydh kales, ha kemer powesow ha re erel ow spena termyn gans an den. Mar os ty po an den may hweres owth omgwith anodho/anedhi anyagh, gweyth dhyworth an fordh po galow gwydhyow yw vysytyans da lowr yn tien. Yma moy skoodhyans y’gan kowethlyver a-dro dhe [omwithyans an withyas](/caregiving/caregiver-self-care/).

@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Планшет либӧ телефон лӧсьӧдӧм деменцияӧн олысь мортлы"
+seoTitle: "Планшет да телефон деменцияӧн олысь мортлы"
+description: "Планшет да телефон лӧсьӧдӧм: ӧти программаӧ топӧдӧм, ыджыд текст, юӧртӧммез дугӧдӧм, простӧй экран, шы да ас лыддьыссьӧм."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Планшетсӧ либӧ телефонсӧ лӧсьӧдӧй сійӧс сетӧм водзын, медым сійӧ вӧлі кокниджык. Топӧдӧй ӧти программаӧ iPad да iPhone вылын Guided Access пыр либӧ Android вылын программа топӧдӧм пыр, либӧ вӧдитчӧй Apple-лӧн Assistive Access простӧй макетӧн. Ыдждӧдӧй текстсӧ, дугӧдӧй юӧртӧммезсӧ, кольӧй ӧти главнӧй экран вылын небыт кык-куим тӧдса программа, лӧсьӧдӧй шыӧс удж заводитӧм водзын, вӧдитчӧй подставкаӧн да чинтыштӧй программаяслысь позянлунсӧ. Вӧдитчӧй ӧтлаын, экрантӧм уджъяс дорын.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) да программа топӧдӧм (Android) видзӧны экрансӧ ӧти программаын дзикӧдз ті восьтӧдзыд."
+  - "Apple-лӧн Assistive Access сетӧ простӧй макет, коді лӧсьӧдӧма когнитивнӧй торъя могъясӧн мортъяслы."
+  - "Ыдждӧдӧй текстсӧ да дугӧдӧй юӧртӧммез да всплывающӧй окнаяс, медым некод эз торкӧдлы да эз дзугсьӧдлы."
+  - "Кольӧй ӧти главнӧй экран вылын небыт кык-куим тӧдса программа да лӧсьӧдӧй шыӧс удж заводитӧм водзын."
+  - "Подставка да татшӧм заряжайтана ин, кӧні устройство век ӧтилаын, отсалӧны сійӧс кокнит вӧдитчыны да аддзыны."
+  - "Видзӧдлӧй программаяслысь позянлунсӧ да мыччӧдъяс юксьӧмсӧ: HIPAA тшӧтш дорвыв эз видз ас устройствоын видзан мыччӧдъяссӧ."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Кыдзи дугӧдны деменцияӧн олысь мортлы iPad вылын программаысь петӧмсӧ?"
+    a: "Восьтӧй Guided Access «Настройкаяс > Специальнӧй могъяс > Guided Access» пыр да пуктӧй пароль. Восьтӧй колана программа, куимысь личкӧй вылі кнопкасӧ (либӧ важ iPad-ъяс вылын Дом кнопкасӧ) да личкӧй «Заводитны». iPad кольӧ сійӧ программаын дзикӧдз кодӧн морт эз восьты сійӧс."
+  - q: "Кыдзи топӧдны Android планшет ӧти программаӧ?"
+    a: "Восьтӧй программа топӧдӧм «Настройкаяс» программаын, тшӧкыда «Безопасность» (мукӧддырйи «Безопасность да ин») > «Содтӧд настройкаяс» > «Программа топӧдӧм» улын. Сэсся восьтӧй программа, восьтӧй «Обзор», личкӧй программа серти вылын значок вылӧ да личкӧй «Топӧдны». Восьтӧм понда колӧ PIN-код, образ либӧ пароль."
+  - q: "Лӧсьӧ-ӧ вӧдитчыны Guided Access-ӧн мортыслӧн ас телефонас?"
+    a: "Бур лыйӧ видзчысьны. Apple шуӧ, мый Crash Detection да скора отсӧг позянлунъяс оз уджавны, кор Guided Access восьса. Морт кӧ вӧдитчӧ ас телефонӧн 112 вылӧ шыӧдчӧм понда, вӧдитчӧй Guided Access-ӧн сӧмын ті кӧ матын, либӧ видзӧдлӧй Assistive Access."
+  - q: "Кымын кад экран дорын бур деменцияӧн олысь мортлы?"
+    a: "Торъя лыд абу. Дженьыд, ӧтлаын экран дорын кад, ветлӧдлӧмкӧд, музыкакӧд, гортса уджкӧд да сёрникӧд ӧтувъя, отсалӧ лунсӧ бурджыка колльӧдны, кыдзи экран дорын ӧтнад кузя. Устройство кӧ лоӧ омӧльтчана либӧ мӧд уджъяссӧ вештӧ, вӧдитчӧй сійӧн этшаджыка."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Планшет вермас лоны бур ногӧн серпасъясӧн, музыкаӧн да простӧй ворсӧмъясӧн ӧтлаын вӧдитчӧм понда. Сійӧ вермас и дзугсьӧдны: торыт личкӧмӧн восьсӧ мӧд программа, юӧр чеччалӧ, текст вывти ичӧт, либӧ экран кусӧ ворсӧм шӧрын. Неуна лӧсьӧдӧм отсалӧ тайӧс бурмӧдны.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Тайӧ ступенъяс вӧдитчӧны iPhone, iPad да Android вылын восьса настройкаясӧн. Меню нимъяс вермасны вежсьыны программа версия да устройство серти, сідзкӧ мыйкӧ абу ставнас гӧгӧр, видзӧдлӧй индӧм Apple либӧ Google лист бок тіян устройство серти. Лӧсьӧдӧй ставсӧ асныд, ӧтлаын пуксьӧм водзын.
 
-## Should someone with dementia use a tablet or phone?
+## Позьӧ-ӧ деменцияӧн олысь мортлы вӧдитчыны планшетӧн либӧ телефонӧн?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Тайӧ морт серти. Уна морт радейтӧны планшетӧн вӧдитчыны, кор матынын мӧд морт эм, кӧть асныс вермасны оз тырвыйӧ уджавны. Заводитӧй ӧтлаын вӧдитчӧм, ӧти восьса программаӧн, неуна минута. Тайӧ кӧ сетӧ нимкодь да сёрни, водзӧ вӧдитчӧй. Тайӧ кӧ вайӧдз дзугсьӧм либӧ омӧль, серпасъя альбом, печатайтӧм листбокъяс либӧ музыка вермасны лоны бурджык. Миян [печатайтана уджъяс](/activities/printable/) — ӧти мӧд ног.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Планшет тшӧкыда кокниджык телефон дорысь: экран да серпасъяс ыджыдджыкӧсь, да сійӧ абу мортыслӧн 112 вылӧ шыӧдчан канал.
 
-## How do I lock a tablet or phone to one app?
+## Кыдзи топӧдны планшет либӧ телефон ӧти программаӧ?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Вӧдитчӧй Guided Access-ӧн iPhone да iPad вылын, либӧ программа топӧдӧмӧн Android вылын. Кыкнанныс видзӧны экрансӧ ӧти программаын, дзикӧдз ті пыртӧдзыд код, сідзкӧ торыт личкӧмӧн либӧ вештӧмӧн оз позь восьты мӧдтор.
 
-### iPad and iPhone: Guided Access
+### iPad да iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+[Apple-лӧн Guided Access индӧдъяс](https://support.apple.com/en-us/111795) серти:
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Восьтӧй **Настройкаяс**, личкӧй **Специальнӧй могъяс**, сэсся личкӧй **Guided Access** да восьтӧй сійӧс.
+2. **Пароль настройкаяс** улын пуктӧй Guided Access пароль. Ті верманныд лэдзны и Face ID либӧ Touch ID.
+3. Сідз кӧ ковмас: **Экран пӧдналӧм** улын бӧрйӧй, кыдзи ӧдйӧ экран пӧдналӧ сеанс дырйи, медым сійӧ эз кус ворсӧм шӧрын.
+4. Восьтӧй сійӧ программа, кӧні ті кӧсъянныд уджавны.
+5. Куимысь личкӧй бокса кнопкасӧ (iPhone), вылі кнопкасӧ (iPad), либӧ важ устройствояс вылын Дом кнопкасӧ.
+6. Сідз кӧ ковмас: гижӧй сы юкӧнъяссӧ, кӧні ті онӧ кӧсйы личкӧм уджавны. Личкӧй **Параметръяс** (либӧ **Сеанс настройкаяс**), медым дугӧдны шы кнопкаяссӧ либӧ экран бергӧдчӧмсӧ.
+7. Личкӧй **Заводитны**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Сеанс помалӧм понда куимысь личкӧй сійӧ жӧ кнопкасӧ выльысь, пыртӧй пароль да личкӧй **Помавны**. Apple пасйӧ, мый мукӧд важ программа версияясын ковмас кыкысь личкыны.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Торъя пасйӧд:** Apple шуӧ, мый Crash Detection да скора отсӧг позянлунъяс оз уджавны Guided Access сеанс дырйи. Энӧ кольӧй Guided Access восьса сы телефон вылын, кодӧн морт вермас ковны 112 вылӧ шыӧдчыны.
 
-### Android: app pinning
+### Android: программа топӧдӧм
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+[Google-лӧн Android отсӧг экран топӧдӧм йылысь](https://support.google.com/android/answer/9455138?hl=en) серти:
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Восьтӧй **Настройкаяс** программа.
+2. Личкӧй **Безопасность** (либӧ **Безопасность да ин**), сэсся **Содтӧд**, сэсся **Программа топӧдӧм**. Онӧ кӧ аддзы, видзӧдлӧй тіян устройство вӧчысьлӧн отсӧг лист бокъяс.
+3. Восьтӧй **Программа топӧдӧм**. Восьтӧм понда ковмас тіян PIN-код, образ либӧ пароль.
+4. Восьтӧй колана программа. Вештӧй экран шӧрас вывті да кутӧй, медым восьтыны «Обзор» (либӧ личкӧй «Обзор» куим кнопкаӧн веськӧдлӧм дырйи).
+5. Программа видлалан вылын, личкӧй программа серти значок вылӧ, сэсся личкӧй **Топӧдны**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Восьтӧм понда жестӧн веськӧдлӧм дырйи вештӧй вывті да кутӧй. Куим кнопкаӧн веськӧдлӧм дырйи кутӧй «Бӧр» да «Обзор». Кык кнопкаӧн веськӧдлӧм дырйи кутӧй «Бӧр» да «Домой». Сэсся пыртӧй PIN-код, образ либӧ пароль.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Эм-ӧ став iPhone либӧ iPad понда простӧйджык режим?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Да. Apple-лӧн Assistive Access вежӧ тшӧтшъя главнӧй экрансӧ простӧйджыкӧн. [Apple висьталӧ](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios), мый сійӧ лӧсьӧдӧма, медым iPhone вӧлі кокниджык когнитивнӧй торъя могъясӧн мортъяслы асныс вӧдитчыны, ыджыдджык элементъясӧн да ӧткодь удж вылӧ видзӧдӧмӧн. Apple сетӧ [сійӧ жӧ функциясӧ iPad вылын](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Коді лӧсьӧдӧ.** Apple вӧзйӧ, медым отсасис эскӧдан морт, шуам, семьяын морт либӧ видзысь, коді тӧдӧ мортӧс, бӧрйис программаяс да функцияяс.
+- **Кытысь заводитны.** Мунӧй **Настройкаяс > Специальнӧй могъяс > Assistive Access**, личкӧй **Лӧсьӧдны Assistive Access**, сэсся **Водзӧ**.
+- **Программаяс.** Ті бӧрйанныд, кутшӧм программаяс тыдаласны. Мукӧд Apple программаясын эм торъя простӧй версияяс, да унджык мӧд программаяссӧ позьӧ содтыны налӧн ас формаӧн.
+- **Макет.** Бӧрйӧй **Рядъяс** (кокни лыддьысян список) либӧ **Сетка** (ыджыдджык элементъяс серпас да значок вылӧ видзӧдӧмӧн).
+- **Пароль.** Ті пуктанныд торъя Assistive Access пароль пырӧм, петӧм да настройкаяс вежӧм понда. Apple вӧзйӧ лӧсьӧдны бӧр бергӧдчан Apple аккаунт лӧсьӧдӧм дырйи, сы вӧсна мый сійӧтӧг вунӧдӧм пароль корӧ устройство выльысь лӧсьӧдӧм.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access вермас лоны бур сійӧ мортлы, коді вӧдитчӧ ас устройствоӧн быд лун. Guided Access либӧ программа топӧдӧм ӧдйӧджык ӧтлаын ворсӧм понда.
 
-## How do I make text and pictures bigger?
+## Кыдзи ыдждӧдны текст да серпасъяс?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Ыдждӧдӧй текст да дисплей лыд, сэсся видзӧдлӧй, медым кнопкаяс тырвыйӧ вӧліны экран вылын.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone да iPad.** [Apple-лӧн шрифт лыд йылысь индӧдъяс](https://support.apple.com/en-us/102453) серти, мунӧй **Настройкаяс > Экран да югӧр > Текст лыд** да вештӧй ползунок. Ыджыдджык текст понда мунӧй **Настройкаяс > Специальнӧй могъяс > Экран да текст лыд > Ыджыдджык текст**. Apple пасйӧ, мый вывти ыджыд текст вермас мукӧд кнопкаяссӧ вӧчны сьӧкыдджык личкыны, сідзкӧ лӧсьӧдӧй, кӧ ковмас.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** [Google-лӧн текст да дисплей настройкаяс йылысь отсӧг](https://support.google.com/accessibility/android/answer/11183305?hl=en) серти, восьтӧй **Настройкаяс** да корсьӧй **Шрифт лыд**, сэсся вештӧй ползунок. Корсьӧй **Дисплей лыд**, медым став экран вылынтор ыдждас. Ті верманныд и восьтыны **Сук текст** **Специальнӧй могъяс > Дисплей лыд да текст** улын. Мукӧд программаяс оз вӧдитчыны тайӧ настройкаясӧн.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+[Picture Pairs](/games/picture-pairs/) да [Find the Same](/games/find-the-same/) ворсӧмъясын ті верманныд бӧрйыны этшаджык плиткаяс либӧ вариантъяс, медым экран вылын вӧлі простӧйджык.
 
-## How do I stop notifications and pop-ups?
+## Кыдзи дугӧдны юӧртӧммез да всплывающӧй окнаяс?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Дугӧдӧй юӧртӧммез сы программаясын, кодъяс онӧ ков, да вӧдитчӧй «Оз ков мешайтны» режимӧн удж дырйи.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone да iPad.** Мунӧй **Настройкаяс > Юӧртӧммез**, личкӧй программа **Юӧртӧммез стиль** улын да дугӧдӧй **Лэдзны юӧртӧммез** ([Apple-лӧн юӧртӧм настройка индӧд](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Шыӧдчӧмъяс, юӧртӧммез да сигналъяс недыр кад кежлӧ дугӧдӧм понда, восьтӧй «Управление пункт» да восьтӧй **Оз ков мешайтны** **Фокус** кнопка пыр ([Apple-лӧн «Оз ков мешайтны» отсӧг](https://support.apple.com/en-us/105112)). Ті верманныд пуктыны кадколаст **Настройкаяс > Фокус > Оз ков мешайтны > Пуктӧм кадколаст** улын.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Вештӧй экран вывсянь улі да личкӧй **Оз ков мешайтны**, либӧ мунӧй **Настройкаяс > Режимъяс > Оз ков мешайтны** ([Google-лӧн «Оз ков мешайтны» отсӧг](https://support.google.com/android/answer/9069335?hl=en)). **Юӧртӧм фильтръяс** улын ті верманныд бӧрйыны, кодъяс мортъяс да программаяс вермасны водзӧ юӧртны. Настройкаяс торъялӧны устройство серти.
 
-## How do I make a simple home screen?
+## Кыдзи лӧсьӧдны простӧй главнӧй экран?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Кольӧй ӧти экран вылын небыт кык-куим тӧдса программа, а мукӧдсӧ вештӧй сайӧ. Торъя ӧти настройка тайӧ понда абу; тайӧ дзик лишнӧйтор бырӧдӧм йылысь.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Бӧрйӧй куимысь квайтӧдз программа.** Шуам, серпасъяс, музыка, видеошыӧдчӧм программа да ӧти ворсӧм.
+- **Пуктыштӧй найӧс медводдза экран вылӧ** быдпыр ӧти инӧ, а став мукӧдторсӧ вештӧй мӧд экран вылӧ либӧ папкаӧ.
+- **Вӧдитчӧй чистӧй, ыджыд контрастӧн фонӧн,** шуам, ӧти рӧма либӧ ӧти тӧдса серпас, медым значокъяс бура тыдалисны.
+- **Чышкы штӧм, коді онӧ ков.** Этшаджык программа — этшаджык дзугсьӧм да этшаджык чукӧртӧм мыччӧд.
+- **Видзӧдлӧй Assistive Access** Apple устройствояс вылын, ті кӧ кӧсъянныд, медым устройство тайӧс ассьыс вӧчис.
 
-## What about volume and sound?
+## Мый шы йылысь?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Лӧсьӧдӧй лӧсьыд шы, устройство сетӧм водзын. Guided Access дырйи ті верманныд дугӧдны шы кнопкаяссӧ, медым сійӧ эз вежсьы удж шӧрын. Видзӧдлӧй, юрбок кывзан приборъяс кӧ пуктӧмаӧсь да бура уджалӧны.
 
-## Where should the tablet live?
+## Кӧні планшетлы вӧлі лоны?
 
-Give it a stand and a permanent charging spot.
+Пуктыштӧй сылы подставка да татшӧм заряжайтана ин, кӧні сійӧ век кутас лоны.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Подставка либӧ чехол,** коді кутӧ планшетсӧ веськыда пызан вылын, отсалӧ некодлы сійӧс кутны, да кокниджык индыны.
+- **Ӧти заряжайтана ин,** коді некор оз вежсьы, бурджык заряжайтана подставка пызан вылын сы жырын, кӧні ті быд лун оланныд. Планшетыс лоӧ быдпыр заряжайтӧма да быдпыр ӧтилаын.
+- **Чинтыштӧй югъялӧм.** Пуктыштӧй экрансӧ сідз, медым вылі югӧрыс сійӧ вылӧ эз веськав.
 
-## How much screen time is okay?
+## Кымын кад экран дорын бур?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Торъя минут лыд абу. Зільӧй дженьыд, ӧтлаын кадколастъяс вылӧ, кодъяс лоасны тырвыйӧ лунлӧн юкӧнӧн, кӧні эм и ветлӧдлӧм, музыка, гортса удж, сёрни да ули вылын кад. Рытнас кад унджык инмысьӧм вӧсна, бурджык видзӧдлыны экран уджъяссӧ луншӧрын. Видзӧдлӧй [лунвылын рытнас лӧнь уджъяс](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Планшетӧн ӧтлаын вӧдитчӧм, а не сійӧс ыстӧм кыдз видзысь, кутӧ тайӧс йитчӧмӧн. Миян [ӧтлаын ворсӧм йылысь индӧд](/caregiving/how-to-play-together/) висьталӧ, кыдзи тайӧ вӧчны.
 
-## How do I protect their privacy on the device?
+## Кыдзи видзны мортыслӧн ас лыддьыссӧ устройствоын?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Чинтыштӧй, мый программаяс вермасны чукӧртны, да энӧ думайт, мый дзоньвидзалун йылысь закон тшӧтш видзӧ тайӧс. США-ын дзоньвидзалун да отсӧг министерство (HHS) [висьталӧ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), мый HIPAA индамъяс тшӧтш дорвыв оз видзны дзоньвидзалун йылысь мыччӧдъяссӧ, кодъяс видзӧма либӧ тыдалӧны ас телефон да планшет пыр. Унджыкысь HIPAA оз видз и мыччӧдъяссӧ, кодъяс пыртӧма программаясӧ ас вӧдитчӧм понда, сӧмын сы дырйи, кор программа сетӧма дзоньвидзалун учреждениеысь, страхованнёысь либӧ налӧн отсасьысьысь.
 
-HHS suggests:
+HHS вӧзйӧ:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- паныдасьлыны ковтӧм либӧ абу тӧдса программаясысь, торыт «донмӧм» программаясысь;
+- оз сетны программаяслы ин позянлун, кӧ сійӧ збыльыс абу колана, шуам, карта понда.
 
-Also consider:
+Татшӧмторсӧ и позьӧ видзӧдлыны:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Вӧдитчӧй парольӧн** устройство вылын да видзӧй сійӧс лёк инӧ гижӧмӧн.
+- **Видзӧдлӧй позянлунъяс** серпасъяс, камера, микрофон, контактъяс да ин понда, да дугӧдӧй ставсӧ, мый программаыдлы абу колана.
+- **Видзӧдлӧй, мый программа чукӧртӧ,** пуктӧм водзын. Миян [деменция понда программаяс да ворсӧмъяс бӧрйӧм йылысь индӧд](/caregiving/choosing-apps-and-games/) сетӧ ас лыддьыс видзӧм лыддьӧг.
+- **Видзчысьӧй семья серпасъяскӧд.** Юклӧй сӧмын сы серпасъяссӧ, кодъясӧн морт вермас лӧсьыда вӧдитчыны, да тӧдӧй, кӧні программа видзӧ найӧс. [Photo Pairs](/games/photo-pairs/) ворсӧмын тіян бӧрйӧм серпасъяс кольӧны тіян браузерын.
+- **Дугӧдӧй программа пытшкын ньӧбӧмъяс** либӧ чышкы сьӧм юкӧдъяс тайӧ аккаунтъясысь, кодъясӧн морт вӧдитчӧ.

@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Йӧзкӧд йитчӧм да вежӧр дзоньвидзалун"
+seoTitle: "Ӧтнамӧлун, йӧзкӧд йитчытӧм да деменция"
+description: "Кыдзи ӧтнамӧлун да йӧзкӧд йитчытӧм йитчӧмаӧсь деменция рисккӧд, мый висьтавліс Surgeon General, да кыдзи ӧтлаын йитчыны."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Тӧдмалӧмъяс петкӧдлӧны, мый арлыда оланын йӧзкӧд йитчытӧм да ӧтнамӧлун йитчӧмаӧсь деменция
+  ыджыдджык рисккӧн. 2024 вося Lancet Commission лыддьӧ, мый йитчытӧм вермас лоны 5 % случайӧн,
+  но мукӧддырйиыс йитчӧмыс вермас лоны водзвыв деменция вӧсна. Йӧзкӧд йитчӧм, ӧтувъя уджъяс да
+  кывзӧм отсӧг отсалӧны йитчыны. Деменцияӧн овлысь йӧзлӧн ӧтувъя уджъяс важнӧйӧсь гажӧдчӧм да
+  бур олан понда, а абу петкӧдлӧм понда.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet Commission пасйӧ йӧзкӧд йитчытӧм арлыда оланын 14 позьӧ вежны деменция риск факторъяс пиысь ӧтикӧн, мый лоӧ 5 % случайӧн."
+  - "АӦШ Surgeon General-лӧн 2023 вося advisory йитӧ кутшӧм кадся ӧтнамӧлун да йитчытӧм арлыда йӧзлы 50 % кымын ыджыдджык деменция рисккӧд."
+  - "Унаысь татшӧм тӧдмалӧмъяс видзӧдӧны дзик йитчӧм вылӧ, и водзвыв деменцияыс вермас тшӧктыны мортӧс йӧз дінысь."
+  - "Кывзӧм да синмӧн аддзӧм сьӧкыдлунъяс, ӧтнамӧн олан да видзӧдӧм ыдждӧдӧны йитчытӧм риск."
+  - "Деменцияӧн овлысь йӧзлӧн гажа ӧтувъя уджъяс отсалӧны бурджыка овны; могыс — йитчӧм, а абу ыджыд петкӧдлӧм."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Ӧтнамӧлун-ӧ вӧчӧ деменция?"
+    a: "Тайӧ абу стӧча тӧдса. Уна тӧдмалӧмъяс петкӧдлӧны, мый ӧтнамӧлун да йитчытӧм йитчӧмаӧсь ыджыдджык деменция рисккӧн, но вежӧрын водзвыв вежсьӧмъяс тшӧтш вермасны вӧчны, медым морт йӧз дінысь вешйис. Йӧзкӧд йитчӧмыс бур мӧд ногӧн нин, сы понда сійӧс отсӧгӧн видзны колӧ."
+  - q: "Мый торъялӧ ӧтнамӧлун да йӧзкӧд йитчытӧм?"
+    a: "Йӧзкӧд йитчытӧм — тайӧ кадӧн йӧзкӧд ветлӧдлытӧм. ӧтнамӧлун — тайӧ сьӧкыд чувствӧ, кор ті ӧтнамӧн либӧ йӧз дінысь торйӧдӧмаӧн. Позьӧ овны ӧтнамӧн да оз ӧтнамӧн чайтны, либӧ чайтны ӧтнамӧн уна йӧз костын."
+  - q: "Кыдзи ме верма отсавны деменцияӧн овлысь айӧ-мамӧлы йӧзкӧд йитчыны?"
+    a: "Дженьыдик, кадӧн вӧчӧм йитчӧмыс бур уджалӧ. Видлӧй тӧдса вежон сайын шыӧдчӧм либӧ видео шыӧдчӧм, ӧтувъя удж пызан сайын, память кафеӧ ветлӧм либӧ пемӧскӧд либӧ каньӧн волӧм. Видзӧй, медым йӧзлысь эз вӧв уна да эз вӧв гора, и сетӧй мортлы аслыссӧ темп бӧрйыны."
+  - q: "Кӧні позьӧ аддзыны отсӧг йӧзкӧд йитчытӧм арлыда мортлы?"
+    a: "Eldercare Locator — тайӧ сӧветъяс сетан служба, коді йитӧ семьяясӧс местаса арлыда йӧзлӧн агентствояскӧд да ӧтувъя программаяскӧд. Сійӧс позьӧ шыӧдчыны 800-677-1116 номерӧ либӧ eldercare.acl.gov сайтысь."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,70 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Йӧзлы колӧ мӧд йӧзкӧд йитчыны, и арлыдмӧмӧн тайӧ оз вежсьы. Тӧдмалӧмъяс петкӧдлӧны, мый арлыда оланын ӧтнамӧлун да йӧзкӧд йитчытӧм йитчӧмаӧсь деменция ыджыдджык рисккӧд, а сідзжӧ сьӧлӧм-вир висьӧмкӧд да депрессиякӧд. Тӧдмалӧмъяс ӧні на оз вермыны висьтавны, кымын уна тайӧ йитчӧмысь петӧ причина да следствие. Тайӧ лист бокын ми висьталам, мый петкӧдлӧны тӧдмалӧмъяс, кыдзи йитчыны оланын да мыйла ӧтувъя уджъяс сэтшӧм важнӧйӧсь деменцияӧн овлысь йӧзлы.
 
-## Are loneliness and isolation linked with dementia?
+## Ӧтнамӧлун да йитчытӧм йитчӧмаӧсь-ӧ деменциякӧд?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Да, уна тӧдмалӧмъяс йитӧ найӧс, но йитчӧмыслӧн туйыс абу ставнас гӧгӧрвоана. [2024 вося Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) пасйӧ йӧзкӧд йитчытӧм арлыда оланын 14 позьӧ вежны риск фактор пиысь ӧтикӧн. [UCL-лӧн гӧгӧрвоӧдӧм](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) лыддьӧ, мый тайӧ вермас лоны мукӧдлаын деменция случайяслӧн 5 % кымын.
 
-What the evidence shows:
+Мый тӧдмалӧмъяс петкӧдлӧны:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Этшаджык йитчӧм — ыджыдджык риск.** Комиссия висьталӧ кык видзӧдӧм йылысь, кӧні ёнджыка йӧзкӧд йитчытӧм йитчӧма ыджыдджык деменция рисккӧд. Ӧтиыс аддзис 57 % кымын ыджыдджык риск, мӧдыс — 18 % кымын.
+- **Ӧтнамӧлун сідзжӧ.** Ӧтнамӧлун, либӧ йӧз дінысь торйӧдӧм чувствӧ, сідзжӧ йитчӧма ыджыдджык деменция рисккӧн уна видзӧдӧмын.
+- **Surgeon General-лӧн видзӧдӧм.** 2023 вося одакорадын АӦШ Surgeon General лэдзис [ӧтнамӧлун да йитчытӧм йылысь advisory](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Сэні висьталӧма, мый кутшӧм кадся ӧтнамӧлун да йитчытӧм вермасны содтыны арлыда йӧзлы деменция риск 50 % кымын. Сідзжӧ висьталӧма, мый омӧля йитчӧмыс йитчӧма сьӧлӧм-вир висьӧм 29 % ыджыдджык рисккӧд да инсульт 32 % ыджыдджык рисккӧд.
+- **Кымын уна тайӧ.** [National Academies-лӧн гижӧд](https://www.ncbi.nlm.nih.gov/books/NBK557972/) аддзис, мый 65 во да ыджыдджык йӧз пиысь, кодъяс олӧны гортын, 24 % кымын йӧзкӧд йитчытӧмӧн овлӧны.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Важнӧй казьтылӧм: Lancet Commission пасйӧ, мый йӧз вермасны чинтыны ассьыныс йӧзкӧд йитчӧм деменциялӧн водзвыв, абу на тӧдса кадӧ. Тайӧ петкӧдлӧ, мый мукӧддырйиыс деменцияыс вӧчӧ йитчытӧмӧн овны, а абу сӧмын йитчытӧмыс содтӧ риск. Ставнас татшӧм тӧдмалӧмъясыс видзӧдӧм вылӧ подулалісьӧсь.
 
-## What is the difference between loneliness and isolation?
+## Мый торъялӧ ӧтнамӧлун да йӧзкӧд йитчытӧм?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) тадзи гӧгӧрвоӧдӧ. **Йӧзкӧд йитчытӧм** — тайӧ кор мортлы этша йӧзкӧд йитчыны либӧ кадӧн ветлӧдлыны. **Ӧтнамӧлун** — тайӧ сьӧкыд чувствӧ, кор ті ӧтнамӧн либӧ йӧз дінысь торйӧдӧмаӧн. Морт вермас гажаа овны ӧтнамӧн, а мӧд морт вермас ӧтнамӧн чайтны тыртӧм ӧшиньын.
 
-The NIA lists factors that raise the risk of both:
+NIA лыддьӧ факторъяс, кодъяс ыдждӧдӧны кыкнан риск:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Кывзӧм либӧ синмӧн аддзӧм сьӧкыдлунъяс
+- Ветлӧдлыны сьӧкыдлун либӧ транспорт абу
+- Ӧтнамӧн олан, либӧ ыджыд вошӧм, шуам, гӧтырлӧн/ӧтка лысьтӧм кулам либӧ удж дінысь петӧм
+- Памятьын либӧ мӧвпалӧмын вежсьӧмъяс
+- Висьысь роднӧй йӧзӧс видзӧм
+- Сьӧм сьӧкыдлунъяс либӧ кыв дор
+- Кывзӧм — тайӧ ыджыд тор. NIA висьталӧ, мый йӧз, кодъяс оз бура кывзыны, вермасны ассьыныс торйӧдны, сы понда мый сёрнитӧмыс лоӧ сьӧкыд либӧ янӧдана. Миян [кывзӧм да вежӧр дзоньвидзалун йылысь гижӧд](/brain-health/hearing/) висьталӧ кывзӧм видлалӧм да без рецептъя кывзан приборъяс йылысь.
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+## Кыдзи йитчыны оланын
 
-## Practical ways to stay connected
+NIA вӧзйӧ уна сӧвет. Бӧрйӧй ӧти либӧ кык, кодъяс лӧсялӧны тіянлы:
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+- **Лӧсьӧдӧй кадӧн йитчӧм.** Быд лун либӧ быд вежон тӧдса кадӧ шыӧдчыны, гижны, письмӧ либӧ открытка ыстыны семьякӧд, ёртъяскӧд либӧ гортсаяскӧд.
+- **Вӧдитчӧй видео шыӧдчӧмӧн либӧ смарт колонкаясӧн.** Техникаыс выль кӧ, уна лыддьысянін да ӧтувъя центръяс вӧчӧны урокъяс. Видзӧдлӧй миян [телефон да видео шыӧдчӧм йылысь гижӧд](/activities/phone-and-video-calls/).
+- **Пырӧй кутшӧмкӧ ӧтувъя уджӧ.** Урок, енлӧн ӧтувлун, ветлӧдлысян клуб либӧ волонтёр удж сетӧны йӧзкӧд йитчӧм да мог.
+- **Ворзӧдӧй важ удж** либӧ велӧдчӧй выльӧн мӧд йӧзкӧд.
+- **Вӧчӧй удж йӧзкӧд.** Ёртъяскӧд либӧ группаын вӧчӧм упражненньӧяс отсалӧны. Миян [удж вӧчӧм йылысь гижӧд](/brain-health/exercise/) сетӧ небзьӧд вариантъяс.
+- **Мӧвпалӧй пемӧс йылысь**, верманныд кӧ сійӧс видзны.
+- **Вӧдитчӧй местаса службаъясӧн.** Арлыда йӧзлы центръяс, Area Agencies on Aging да Eldercare Locator (800-677-1116) вермасны отсавны программаяс да транспорт аддзыны.
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+## Мыйла ӧтувъя уджъяс сэтшӧм важнӧйӧсь деменция дырйи?
 
-## Why do shared activities matter in dementia?
+Деменцияӧн овлысь мортлы йитчӧмыс — тайӧ гажӧдчӧм, лёк олан да ассьыным чайтчӧм понда, а абу риск чинтыны понда. Lancet Commission висьталӧ, мый уджъяс отсалӧны деменцияӧн овлысь йӧзлы видзны гажӧдчӧм да мог. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) пасйӧ, мый олан бурмӧдӧмкӧд ӧттшӧтш уджъяс вермасны чинтыны сьӧкыдлунъяс, шуам, ветлӧдлӧм либӧ лолавсьӧм. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) содтӧ, мый Альцгеймер висьӧмӧн овлысь йӧзлы колӧ удж вӧчны да вӧчны сійӧ, мый налӧн гажӧдчӧ.
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Уджъяс, кодъяс бур уджалӧны:
 
-Ideas that work well:
+1. **Видзӧдлӧй серпасъяс вылӧ ӧтлаын.** [Conversation Cards](/games/conversation-cards/) сетӧны восьса, видлалӧмтӧм юалӧмъяс, шуам, «Висьтав сійӧ йылысь…» Видзӧдлӧй миян [казьтыштӧм йылысь гижӧд](/activities/reminiscence/).
+2. **Ворсӧй орччӧн.** [Picture Pairs](/games/picture-pairs/) видзӧ веськыда серпасъяссӧ да сыын абу таймер либӧ баллъяс, сы понда нинӧм ниномыс абу. Миян [кыдзи ӧтлаын ворсны гижӧдын](/caregiving/how-to-play-together/) эмӧсь сӧветъяс.
+3. **Вӧдитчӧй семьяса серпасъясӧн.** [Photo Pairs](/games/photo-pairs/) вӧчӧ тіян бӧрйӧм серпасъяссьыс ӧткодь серпас корсян ворсӧм, и серпасъясыс кольӧны тіян устройствоын.
+4. **Чукӧртӧй йӧзӧс.** [Picture Bingo](/games/picture-bingo/) лӧсялӧ семьякӧд ӧтувтчӧмлы да [дӧзьӧританінса группаяслы](/activities/care-home-groups/).
+5. **Юклӧй сьыланкыв, вӧчӧй гортса удж либӧ садйын.** Видзӧдлӧй [сьыланкыв уджъяс](/activities/music/), [гортса уджъяс](/activities/household-tasks/) да миян став [удж сӧветъяс](/activities/ideas/).
+6. **Лёкӧдӧй волӧмъяссӧ.** Миян [волӧм йылысь гижӧд](/activities/visiting/) висьталӧ кыдзи вӧчны дженьыд да рӧвнӧй волӧмъяс, кодъяс ставлы лоӧны бурӧн.
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+Видзӧй уджсӧ ичӧтикӧн да кокньыдӧн. Рӧвнӧй ӧшинь, кӧні ӧти либӧ кык морт, тшӧтш бурджык, кор уна йӧз. Морт мудзис кӧ либӧ интересыс воши кӧ, дугдӧмыс бур. Ӧтлаын пукалыштны да чай юны — тайӧ сідзжӧ бур.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Деменцияӧн овлысь мортлы, коді олӧ ӧтнамӧн, NIA сӧветуйтӧ аддзыны надейтана мортӧс, коді вермас волыны либӧ видеоӧн шыӧдчыны кадӧн да лоны экстреннай случайын йитчан мортӧн. Сідзжӧ висьталӧма местаса память кафе йылысь, кӧні память вошӧм йӧз да налӧн семьяяс вермасны рӧвнӧя ӧтувтчыны.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+## Видзӧдысь йӧз сідзжӧ вермасны ӧтнамӧн чайтны
 
-## Caregivers get lonely too
+NIA лыддьӧ висьысь роднӧй йӧзӧс видзӧмсӧ йитчытӧм рискӧн. Видзӧй аслыныд кад ёртъяскӧд, отсӧг группаыскӧд да шойччӧм вылӧ. Миян [видзӧдысьлы ассьыс видзӧм йылысь гижӧдын](/caregiving/caregiver-self-care/) эмӧсь отсалан сӧветъяс.
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+## Сёрнитӧй врачкӧд
 
-## Talk with a doctor
+Ті либӧ тіян видзӧдан мортыд тшӧкыда ӧтнамӧн либӧ йӧзкӧд йитчытӧг чайтчӧ кӧ, висьталӧй сійӧ йылысь врачлы. NIA вӧзйӧ ыджыд оланын вежсьӧмъяс йылысь, шуам, семьяын морт кулӧм йылысь, медым врач тӧдӧ ставсӧ. Кӧть некымын вежон кежлӧ сьӧкыда олӧмыс вермас лоны депрессия, кодӧс позьӧ бурмӧдны. Арлыда морт йӧз дінысь либӧ радейтана удж дінысь водзвывтор вешйис кӧ, тайӧ вежсьӧм йылысь сідзжӧ колӧ висьтавны врачлы. Лыддьӧй [водзвыв пасъяс да кор врачлы волыны](/brain-health/warning-signs/).
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
-
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Тайӧ лист бокыс — ӧтувъя юӧр, а абу медицина сӧвет. Видзӧдлӧй миян [медицина юӧртор йылысь пасйӧд](/medical-disclaimer/).

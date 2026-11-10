@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Dietyow MIND ha Mediteranek ha demens"
+seoTitle: "Diet MIND ha demens: An hwithrans"
+description: "Pyth a lever hwithrans a-dro dhe’n dietyow MIND ha Mediteranek ha demens, prag na gavas previ bras les kler, ha fatel gweres nebonan gans demens dybri yn ta."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Studhyansow a vir orth tus dres termyn a gevrenn patronyow dybri Mediteranek
+  ha MIND gans peryl isel a dhemens, mes nyns yw henna pub prys. Previ dre
+  jons teyr bledhen a’n diet MIND, dyllys yn 2023, na gavas dyffrans posek yn
+  preder po skanow ympynnyon kehevelys dhe dhiet kontrol. Nyns eus boes po
+  keworrans prevys dhe lettya demens. Rag tus a vew gans demens, an moyha posek
+  yw dybri hag eva lowr.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Nebes studhyansow, mes nyns oll, a vir orth tus dres termyn a gevrenn patronyow dybri Mediteranek ha MIND gans peryl isel a dhemens."
+  - "Yn previ 2023 a 604 tevesik kottha, tus war an diet MIND ny wrussons gwell war brevyow preder po skanow ympynnyon es tus war dhiet kontrol wosa teyr bledhen."
+  - "An National Institute on Aging a lever nag eus dustuni bos dybri po avoydya boes arbennik ow lettya Alzheimer, ha nag eus vitamin po keworrans prevys dh’y lettya."
+  - "Diet leun a losow, frut, fav, greun dien ha pysk a skoodh yeghes an golon hag a yll gweres gorth peryllow kepar ha gwask-goes ughel ha diabetyes."
+  - "Rag tus a vew gans demens, boes bysies, plattow gans liwyow dihaval, prysyow kosel ha diwesow reyth lieskweyth a vatter moy es diet arbennik."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "A wra an diet MIND lettya demens?"
+    a: "Ny veu diskwedhys henna. Studhyansow a vir orth tus dres termyn a gevrennas an diet MIND gans peryl isel, mes previ dre jons teyr bledhen dyllys yn 2023 ny gavas dyffrans posek yn sewyansow prevyow preder po skanow ympynnyon ynter tus war an diet MIND ha tus war dhiet kontrol. An dhew vagas a wellhas nebes ha kelli poes kehaval."
+  - q: "Pyth yw an dyffrans ynter an diet MIND ha’n diet Mediteranek?"
+    a: "An diet Mediteranek a bwysle losow, frut, greun dien, fav, pysk hag oyl olew, gans nebes kig rudh po hwegynnow. An diet MIND a’n kesun gans an diet DASH rag gwask-goes hag a geworr pwys war losow glas ha moren, hag a lehe kig rudh, hwegynnow, keus, amanyn ha boes friys."
+  - q: "A eus boesow po keworransow a lett Alzheimer?"
+    a: "Nag eus. An National Institute on Aging a lever nag eus dustuni bos dybri po avoydya boes arbennik ow lettya Alzheimer po diyskynnieth brederel owth omgoselha, ha nag eus vitamin po keworrans prevys dhe lettya Alzheimer. Kewsewgh gans medhek kyns kemeres keworransow."
+  - q: "Py boesow yw an esya rag nebonan gans demens dh’y dhybri?"
+    a: "Boes bysies kepar ha tammow bargen-sow, tammow kig-yar, rannow oranj po tammow losow bryjys yw lieskweyth esya es devnydhya lesteri. Mar yw kales degea po lenki, boes medhel kepar ha oyow skramlys, saws aval po keus koth a yll gweres. Govynnewgh orth an medhek a-dro dhe brevyans lenki mar hwyrv kogh po taga."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Martesen hwi re redas y hall diet "yagh rag an ympynnyon" gwitha Alzheimer dhe-ves. An gwir yw moy kosel. Nebes patronyow dybri yw kevrynnys gans peryl isel yn studhyansow a vir orth tus dres termyn, mes an previ gwella bys-henna ny gavas les kler. An folen ma a styr an dhew, hag ena a dreyl dhe byth yw an moyha posek yn fenowgh rag nebonan a vew gans demens seulabrys: dybri hag eva lowr, ha’ga enjoya.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Kedhlow ollgemmyn yw hemma, nag yw kusul medhegel. Kewsewgh gans medhek po dyetydh kovskrifys kyns chanjya agas diet hwi po diet nebonan arall. Gwelewgh agan [kwarnyans medhegel](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Pyth yw an dietyow Mediteranek ha MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+An National Institute on Aging (NIA) a’s deskrif yndella
+([NIA a-dro dhe dhiet hag Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Diet Mediteranek:** meur a frut, losow, greun dien, fav, pysk ha boes mor, hag oyl olew, gans nebes kig rudh, oyow ha hwegynnow.
+- **Diet MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): kesunion a’n diet Mediteranek ha’n diet DASH rag gwask-goes. Ev a bwysle losow, yn arbennik an re las; moren; greun dien; fav; know; pysk dhe’n lyha unnweyth an seythun; hag oyl olew. Ev a lehe kig rudh, hwegynnow, keus, amanyn po varjeryn, ha boes friys po boes uskis.
 
-## Do these diets lower dementia risk?
+## A wra an dietyow ma iselhe peryl demens?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+An dustuni yw kemyskys. An NIA a lever bos nebes, mes nyns oll, studhyansow a vir orth tus dres termyn re gevrennas an dietyow Mediteranek ha MIND gans peryl isel a dhemens kehevelys dhe dhiet a gis West leun a gig rudh, blonek lenwys ha sugra.
 
-The 2024 Lancet Commission reviewed the research in more detail
+An Lancet Commission 2024 a viras orth an hwithrans moy yn manyly
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Unn dhaswel a studhyansow kohort a gevrennas kwalita ughel an diet gans peryl a dhemen a-dro dhe 20% isel.
+- Dielvenna brassa a dri kohort a gevrennas sewya an diet MIND moy ogas gans peryl isel.
+- Mes studhyans yn Sweden a holyas 28,025 den yn kres aga oes dres a-dro dhe 20 bledhen ny gavas peryl isel na gans dietyow komendys na gans diet a’n par Mediteranek.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Studhyansow a vir orth tus ny yllons previ kaws hag effeyth. Tus a dheber yndella yn fenowgh yw dihaval yn fordhow erel ynwedh, kepar ha gansow, adhyskans, omassayans ha hedhas dhe ofal yeghes. An Gesva a gonkludyas nag eus dustuni lowr dhe leverel bos dietyow yagh ow lettya demens yn tidro, kyns yw da rag lies studh yeghes dybri meur a frut ha losow ha le a voes pur dhyghtys, hag ev a effeyth war beryllow kepar ha re boos, diabetyes ha gwask-goes ughel. Ny wrug hi keworra diet dh’y rol a [14 peryl](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Pyth a gavas previ an diet MIND yn 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+An previ krevha bys-henna o previ dre jons dyllys y’n New England Journal of Medicine yn 2023
+([previ an diet MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Piw:** 604 tevesik 65 bloodh ha kottha yn ranndiryow Chicago ha Boston, heb kudynnow preder, gans kar nes gans demens, re boos, ha gans diet le yagh dhe dhalleth.
+- **Pyth:** dres teyr bledhen, hanter a sewyas an diet MIND ha hanter a sewyas aga diet usys. An dhew vagas a veu govynnys dybri a-dro dhe 250 kalori le pub dydh ha kavos kusul reyth a dhyetydhyon kovskrifys.
+- **Sewyans:** sewyansow prevyow preder a wellhas nebes y’n **dhew** vagas. An dyffrans ynter an bagasow o byghan ha **nyns o posek yn statystek**. Skanow ympynnyon a dhiskwedhas chanjyow kehaval y’n dhew vagas ynwedh.
+- **Poos:** an dhew vagas a gollas a-dro dhe 5 kilogram (a-dro dhe 11 peuns).
 
-### Why might the trial have found no difference?
+### Prag na gavas martesen an previ dyffrans?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+An hwithroryon a brofyas nebes achesonyow. Martesen an bagas kontrol a wellhas y dhiet ynwedh, drefen ev dhe gelli kemmys poes. Prevyans arta ha’th arta a yll gwellhe sewyansow y honan, dre vos tus ow tevos ha bos parys dhe’n prevyow. Y hall bos teyr bledhen re verr. An brassa rann a’n gevrenogoryon o adhyskys yn ta ha dhiworth devedhyans Europek, ytho ny yll an sewyansow bos gwiw rag pubonan.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Ytho an berrheans onest yw: ny wrug an diet MIND gwell es diet sensybel lehes yn kaloris dres teyr bledhen. Ny styr henna bos dybri yagh heb talvosogeth. Ev a styr na dal denvyth gwaytya diet arbennik dhe lettya demens.
 
-## What about specific foods and supplements?
+## Pyth a-dro dhe voesow ha keworransow arbennik?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+An NIA a lever nag eus dustuni bos dybri po avoydya boes arbennik ow lettya Alzheimer po diyskynnieth brederel owth omgoselha. Bluberyow, losow glas ha turmeric re beu studhyes oll, heb prev. An NIA a lever ynwedh nag eus vitamin po keworrans prevys dhe lettya Alzheimer, ha nyns eus nagonan komendys rag henna. An NIA a warn bos askorryow heb prev gwethys dhe lettya Alzheimer martesen diantel, koll arghans, po an dhew, hag y hallons mellya orth medhegiethow ordenys, ytho checkyewgh gans medhek kyns assaya travyth
+([NIA a-dro dhe lettya Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Fatel yll dybri pesya yagh ha plegadow?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Rag brassa rann tevesigyon kottha, an amkan yw boes megys, aswonys ha hweg, nag yw towl straght:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Drehevowgh boesow a-dro dhe voesow a garowgh** a’n patron Mediteranek: losow, frut, fav, greun dien, pysk hag oyl olew.
+- **Gwithewgh an hwegynnow a garowgh.** Lowender ha hwans dybri a vatter, yn arbennik diwettha yn bewnans.
+- **Debrewgh gans tus erel** pan yllowgh. Boesow kevrynnys yw kowethyans da.
+- **Kegi keffrys.** Golghi losow po meska pot yw gwrians da dhe wul war-barth; gwelowgh [oberow an chi](/activities/household-tasks/). Resayt teylu a garir a yll ynwedh dalleth [kovheans](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Ny dal tevesigyon kottha lehe kaloris po kelli poes heb kewsel gans medhek, ha penys a dheg peryllow moy. Gwelewgh agan [gidyans a-dro dhe benys](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Fatel yllowgh hwi gweres nebonan gans demens dhe dhybri yn ta?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Rag tus a vew gans demens, dybri hag eva **lowr** yw yn fenowgh an brassa preder. An Alzheimer’s Association a not bos tus martesen ow kankyvos dybri, ow krysi aga bos re dhybrys seulabrys, po owth omglewes beudhys gans dewisow, hag y hall megans drog kressya symptomow omdhegyans ha kaws koll poes
+([Alzheimer’s Association a-dro dhe voes ha dybri](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+An profyansow ma a dheu a’n Alzheimer’s Association, an NIA ha’n Alzheimer’s Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Profyewgh boes bysies.** Tammow byghan hag es dh’aga thaga, kepar ha tammow bargen-sow, tammow kig-yar, gwelynnow pysk, rannow oranj po brokoly bryjys, a as nebonan dh’y vaga y honan heb lesteri.
+2. **Usyewgh liwyow dihaval war an voes.** Chanjyow yn gwel a yll gul kales gweles an dyffrans ynter boes ha platt. Plattow po bollennow gwynn war blatt-iset a liw dihaval a yll gweres. Avoydyewgh lestri po liensow-moes gans patronyow.
+3. **Servyewgh unn voes po dew dhe’n termyn.** Platt leun a yll bos re a voes dhe dhel.
+4. **Gwithewgh prysyow kosel.** Sklodhowgh an bellwolok, gwithewgh an voes sempel, ha rewgh termyn lowr. An NIA a brof na fyskowgh po na weskewgh.
+5. **Profyewgh boesow byghan ha snackys lieskweyth.** An NIA a brof boesow byghanna moy yn fenowgh ha snackys leun a galoris mar nyns yw an den ow tybri lowr
+   ([Profyansow an NIA rag dybri yn ta](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Gwerewgh gans eva.** Profyewgh hanafow byghan a dhowr po diwesow erel dres an jydh, keffrys ha boesow gans meur a dhowr kepar ha frut, kowl, milkshakes ha smoothies. Mar ny vynn an den dowr, an NIA a brof assaya sugen frut, dowr blasa, iskel, leth, po koffi po te heb kaffein.
+7. **Checkyewgh an tempredh.** Ny yll nebonan merkya bos boes po diwes re domm.
+8. **Aswiwewgh lesteri ha hanafow.** Bollennow yn le plattow, loyow gans dornla bras, ha hanafow gans gorhow a yll gul dybri esya. Na brederyewgh a-dro dhe lanhecter.
+9. **Gwrewgh boes esya dhe dhegea ha lenki.** Treghowgh boes yn tammow byghan po profyewgh boes medhel. Mar hwra an den kogh po taga pan wra ev dybri, leverewgh dhe’y vedhek.
+10. **Avoydyewgh maga dre nerth.** An NIA a not bos hwans dybri ow lehe yn naturel yn diwettha studyow Alzheimer.
 
-### Signs to tell the doctor about
+### Arwodhyow dhe leverel dhe’n medhek
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Koll poes, nagha boes, skwithder po gwannder a yll bos arwodhyow nag yw nebonan ow tybri lowr. An Alzheimer’s Society a not y hall dens po densow fals drog, digolonni, stypys ha chanjyow yn medhegieth lehe hwans dybri oll
+([Alzheimer’s Society a-dro dhe hwans dybri](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Arwodhyow syghder rollys gans an NIA yw ganow sygh, penndro, kolonn-gwyth uskis ha gwelwelow
+([NIA a-dro dhe broblemow medhegel kemmyn](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Kewsewgh gans medhek
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Kyns gul chanjyow bras dh’agas diet hwi, po dhe dhiet nebonan arall, kewsewgh gans medhek po dyetydh kovskrifys, yn arbennik mar eus diabetyes, cleves an lonethi, kudynnow lenki po koll poes a-gynsow dhywgh. Rag nebonan a vew gans demens, govynnewgh pygemmys y tal dhodho assaya dybri hag eva pub dydh, hag a yll dyetydh po keworransow gweres.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Kewsewgh gweres uskis mar yw nebonan ow taga, po mar eus dhodho kemyas ankettek a-dhistowgh, penndro pur grev po omglewes marow.

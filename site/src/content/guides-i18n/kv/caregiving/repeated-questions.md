@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Кор деменцияӧн олысь морт выльысь юалӧ ӧти жӧ"
+seoTitle: "Деменция да выльысь юалӧм: мый шуны да вӧчны"
+description: "Мыйла деменцияӧн олысь морт выльысь юалӧ ӧти жӧ юалӧмсӧ, кыдзи вочавны бура, мый отсалӧ да кор ковмас доктор доры шыӧдчыны."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Деменция дырйи выльысь юалӧмъяс — тшӧкыд тор. Дзикӧдз морт оз казялы, мый
+  сійӧ нин юаліс, да юалӧм сайын вермас лоны повзьӧм. Вочавӧй бура да дженьыдикӧн,
+  быттьӧн медводдзаысь пыр, казялӧй сылысь кӧсйӧмсӧ да эн шуӧй: «Ті нин юалінныд».
+  Гижӧй вочӧмсӧ татчӧ, кӧні морт вермас аддзыны, лунъюалӧм йылысь висьтавӧй
+  водзджык нин, да сідзжӧ корсьӧй гажа удж. Кор мортлысь олӧм вежсьӧ дзик пыр,
+  ковмас доктор доры шыӧдчыны.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Дзикӧдз морт оз казялы, мый сійӧ нин юаліс; тайӧ оз ло наросьнӧ."
+  - "Юалӧм сайын вермас дзебсьыны повзьӧм, шуам, паныдасьлӧм вӧсна либӧ кӧсйӧм ӧтдор."
+  - "Вочавӧй бура, дженьыдикӧн да донаӧн, быттьӧн медводдзаысь пыр. Эн шуӧй: «Ті нин юалінныд»."
+  - "Гижӧд, доска, часі либӧ календар, коді тыдалӧ, вермасны вочавны тіян пыдди."
+  - "Повзьӧдан лунъюалӧм йылысь висьтавӧй водзджык нин, кор сійӧ матыстчас."
+  - "Босьтӧй дженьыдик шоччӧм, кор ковмас, да шыӧдчӧй доктор дорӧ, кор лыддьысьны вежсьӧмъяс лоӧны дзик пыр."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Мыйла меным батьӧ, коді олысь деменцияӧн, выльысь юалӧ ӧти жӧ юалӧмсӧ?"
+    a: "Деменция торкӧ дженьыд кадлы казьтытӧмсӧ, сідзкӧ сійӧ збыль оз вермы казявны, юаліс-ӧ сійӧ либӧ кывис-ӧ вочӧмсӧ. Тшӧтш юалӧм сайын эм и кӧсйӧм, шуам, повзьӧм водзӧ лоан йылысь либӧ кӧсйӧм лоны ӧтдорӧн. Кор ті казяланныд тайӧ кӧсйӧмсӧ, сійӧ отсалӧ унджык, чым юалӧмсӧ выльысь вочавны."
+  - q: "Ковмас-ӧ шуны, мый сійӧ нин юаліс?"
+    a: "Оз ков. Тайӧ оз вермы отсавны казявны, но вермас лоны сьӧкыд. Деменция йылысь организацияяс советуйтӧны быд пыр вочавны бура, быттьӧн медводдзаысь пыр, да видзны вочӧмсӧ дженьыдикӧн."
+  - q: "Отсалӧ-ӧ, кор гижӧны вочӧмсӧ?"
+    a: "Отсалӧ, кор морт вермӧ лыддьыны. Гижӧд, талунъя планӧн доска, ыджыд часі либӧ календар татчӧ, кӧні сійӧ тшӧкыда видзӧдӧ, сетӧны аслыс видлавны вочӧмсӧ. Небзьӧйӧн петкӧдлӧй сійӧ вылӧ, но эн шуӧй: «Ме тіянлы нин висьталі»."
+  - q: "Кор бурджык висьтавны пырӧмлун йылысь либӧ ветлӧм йылысь?"
+    a: "Матыс кадӧ. Кор висьталӧны доктор дорӧ ветлӧм йылысь уна лун водзӧ, тайӧ вермас лоны помка повзьӧм да выльысь юалӧм. Висьтавӧй водзджык нин, бура да ёнӧн, мый лоас сэсся."
+  - q: "Кор выльысь юалӧм вӧсна ковмас шыӧдчыны доктор дорӧ?"
+    a: "Кор юалӧмъяс, гудыртчӧм либӧ оласног вежсьӧ дзик пыр либӧ ёна омӧльтчӧ часӧн-ли деньӧн-ли, пыр жӧ шыӧдчӧй сылысь доктор дорӧ. Инфекция, выль лекарство, дойӧм, асмога видзӧм либӧ ва этшаджык юӧм вермасны лӧсьӧдны дзик пыр лоан гудыртчӧм, кодӧс шуӧны делирийӧн, да сійӧ корсьӧ ӧдйӧ отсӧг."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+«Кӧні кадӧ доктор дорӧ?» Дас минут бӧрын: «Кӧні кадӧ доктор дорӧ?» Кывны ӧти жӧ юалӧмсӧ выльысь да выльысь — тайӧ деменцияӧн олысь морт дорын олӧмын медся сьӧкыдторъяс пиысь ӧти. Тайӧ тшӧкыд, тайӧ оз ло наросьнӧ, да эмӧсь бура ногъяс вочавны, медым лун лоас кокниаӧн татшӧм кыкнанлы.
 
-## Why does someone with dementia ask the same question over and over?
+## Мыйла деменцияӧн олысь морт выльысь юалӧ ӧти жӧ юалӧмсӧ?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Медшӧртор — казьтытӧм вӧсна. Деменция торкӧ дженьыд кадлы казьтытӧмсӧ, сідзкӧ морт тшӧкыда оз казялы, мый сійӧ нин юаліс, либӧ оз казялы вочӧмсӧ. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) висьталӧ, мый уна пӧлӧн юалӧм — тшӧкыд да виччысьысян тор.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Тшӧтш юалӧм сайын вермас лоны и кӧсйӧм. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) гӧгӧрвоӧдӧ, мый выльысь юалӧм вермас петкӧдлыны повзьӧм, отсӧг корӧм либӧ лоны абу ӧтдорӧн, да морт тшӧтш кадӧ корсьӧ дона да тӧдса кӧсйӧм. «Кор ми мунам?» вермас вежӧртны «Ме повза мунысь». Гажтӧм, полӧм, шы да оласногын вежсьӧмъяс вермасны тайӧ лӧсьӧдны. Выльысь юалӧм вермас петкӧдлыны и корсянтор, шуам, ковмас мунны вездӧрӧдз ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Мый ме верма шуны?
 
-Answer calmly and briefly, as if it were the first time.
+Вочавӧй бура да дженьыдикӧн, быттьӧн медводдзаысь пыр.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Вочӧмсӧ видзӧй дженьыдикӧн да ӧткодьӧн.** «Доктор дорӧ кык часӧ. Ме лоа тіянкӧд». Ӧткодь вочӧмсӧ кокниджык гӧгӧрвоны.
+- **Вочавӧй кӧсйӧм вылӧ.** «Ті казяланныд доктор йылысь. Сійӧ талун рытнас, да ме нуӧда тіянӧс. Тіянлы оз ков мыйкӧ вӧчны».
+- **Вӧдитчӧй шӧр да дона шыӧн,** гӧсьтӧй небзьӧйӧн, кор мортлы сійӧ бур. Alzheimer's Association советуйтӧ лоны бураӧн да оз вӧчны логика вылын либӧ венисьны.
+- **Сетӧй сійӧ вочӧмсӧ, кодӧс морт корсьӧ,** сымын унаысь, кымын колӧ. Alzheimer's Association шуӧ вочавны сы мындаысь, кымынысь сійӧ юалӧ.
 
-## What should I avoid?
+## Мый оз ков вӧчны?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **«Ті тайӧ йылысь нин юалінныд».** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) оз советуйтны казьтыштны, мый морт нин юаліс. Тайӧ оз вермы отсавны казявны, но вермас сетны сьӧкыд кӧсйӧм.
+- **Кузь висьталӧм.** Унджык кыв сетӧ унджык вунӧдны.
+- **Лолавны, синъяс бергӧдлыны либӧ чорыд шы.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) советуйтӧ видзны терпение да оз петкӧдлыны сьӧкыд кӧсйӧм. Тайӧ сьӧкыд; шоччӧм йылысь лыддьыӧй улынджык.
 
-## Simple tools that answer the question for you
+## Кокни инструментъяс, кодъяс вочалӧны тіян пыдди
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Кор морт вермӧ лыддьыны, гижӧм вочӧм, коді тыдалӧ, тшӧкыда отсалӧ бурджыка, чым шуӧм.
 
-| Tool | How to use it |
+| Инструмент | Кыдзи вӧдитчыны |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Ыджыд шрифтӧн гижӧд | «Талун доктор дорӧ 2 часӧ. Машакӧд нуӧдас Маша». Пукты татчӧ, кӧні морт медтшӧкыда видзӧдӧ |
+| Доска | Талунъя план куим-ли нёль визьын; чышкы да гиж выльысь быд асыв |
+| Ыджыд часі лунӧн да кадпасӧн | Отсалӧ, кор юалӧны: «Кутшӧм талун лун?» да «Кад нин-ӧ?» |
+| Календар | Крест пукты быд лун; гӧгӧрвоӧдлыны водзӧсысь ветлӧм |
+| Тӧдса серпасъяс | Сійӧ мортлӧн серпас, коді локтас, вермас вочавны: «Коді локтас?» |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Татшӧм идеяяс босьтӧмаӧсь [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) да [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) вылысь. Небзьӧйӧн петкӧдлӧй гижӧд вылӧ («Видзӧдламӧй ӧттшӧтш доска вылӧ»), оз ков шуны: «Ме тіянлы гижи».
 
-## Tell them about events close to the time
+## Висьтавӧй лунъюалӧм йылысь водзджык нин
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Кор висьталӧны пырӧмлун йылысь либӧ ветлӧм йылысь уна лун водзӧ, тайӧ вермас вежсьыны часъяс кежлӧ повзьӧмӧн да выльысь юалӧмӧн. Family Caregiver Alliance да Alzheimer's Los Angeles кыкнаныс советуйтӧны висьтавны планъяс йылысь, медся тшӧтш доктор дорӧ мунӧм йылысь, водзджык нин. Сэсся висьтавӧй, мый лоас сэсся, ӧти стӧч бӧрын мӧд.
 
-## Activities that can shift attention
+## Уджъяс, кодъяс вермасны вежны синмӧг
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Кор ті нин вочалінныд да казялінныд мортлысь кӧсйӧмсӧ, бура да гажа удж вермас отсавны, тшӧтшӧ кор гажтӧм вӧсна юалӧны. Став ыджыд источникъяс советуйтӧны вуджӧдны сійӧ торӧ, мый мортлы дона.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Дженьыдик да кокни ворсӧм ӧттшӧтш.** [Серпас гозъяс](/games/picture-pairs/) ворсӧмын серпасъяс тыдалӧны весь каднас, сідзкӧ некод оз ков казявны.
+2. **Тӧдса удж.** Дӧра чышкыны, носки юклыны либӧ пызан вылӧ пуктны. [Юклам ӧттшӧтш](/games/sort-together/) — тайӧ сійӧ жӧ удж экран вылын.
+3. **Сёрнитӧй сійӧ йылысь, мый мортлы дона.** [Сёрнитан карточкаяс](/games/conversation-cards/) сетӧны восьса юалӧмъяс, кӧні абу веськыд вочӧм.
+4. **Музыка, ветлӧм либӧ сёйӧм.** National Institute on Aging пасйӧ тайӧс кокни ногъясӧн, медым вуджӧдны синмӧг.
+5. **Лӧнь шоччӧм.** Пукавӧй ӧттшӧтш, видзӧдӧй ӧшинь пыр либӧ вӧчӧй ӧттшӧтш [лӧнь ловъя олӧм](/games/calm-breathing/).
 
-If they return to the question, answer it again, kindly. That is fine.
+Кор морт бара юалӧ сійӧ жӧ юалӧмсӧ, вочавӧй выльысь, донаӧн. Тайӧ бур.
 
-## Look for patterns
+## Казялӧй вежсьӧмъяс
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association советуйтӧ казявны, лоӧны-ӧ юалӧмъяс лун кутшӧмкӧ кадӧ, кутшӧмкӧ йӧзкӧд либӧ кутшӧмкӧ местаын. Кор сійӧ заводитчӧ всегда гостьяс локтан водзӧ либӧ рытнас, ті верманныд водзӧ дасьтыны: гижӧд ветлӧм йылысь, дась гажа удж, лӧньджык места. Миян гижӧд [лӧнь рытъя уджъяс йылысь](/caregiving/late-day-restlessness/) вермас отсавны, кор рытъяс медся сьӧкыда.
 
-## Take care of yourself
+## Видзӧй ассьыныд бурӧс
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Вочавны ӧти жӧ юалӧм кыкдас пӧлӧн — вывті сьӧкыд. Кор ті казяланныд, мый терпение бырӧ, а морт лоӧ везопаснӧя, мунӧй мӧд жырӧ некымын минутӧ да ловзьӧйӧй, кыдзи советуйтӧ [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) юрттӧ отсӧг корны да видзӧдлыны шоччӧм могъяс. Содтӧд идеяяс эм миян [видзысьлы ас бурӧс видзӧм йылысь гижӧдын](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Кор ковмас шыӧдчыны доктор дорӧ?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Пыр жӧ шыӧдчӧй доктор дорӧ, кор юалӧмъяс, гудыртчӧм либӧ оласног вежсьӧ дзик пыр либӧ ёна омӧльтчӧ часӧн-ли деньӧн-ли. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) шуӧ, мый дзик пыр либӧ ӧдйӧ вежсян оласног, тшӧтшӧ инфекция бӧрын либӧ лекарство вежӧм бӧрын, колӧ пыр жӧ юӧртны докторлы. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) гӧгӧрвоӧдӧ, мый инфекция, лекарство, ва этшаджык юӧм, дойӧм либӧ асмога видзӧм вермасны лӧсьӧдны делирий — дзик пыр да ён гудыртчӧм, коді корсьӧ ӧдйӧ бурдӧдӧм. Шуйтчӧй 112, кор кодкӧ лоӧ опаснӧйын.

@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Gwriansow galow ha gwydhyow rag tus gans demens"
+seoTitle: "Gwriansow gwydhyow rag demens"
+description: "Gwriansow galow ha gwydhyow rag teylu pell a dus ow triga gans demens: diskwedhes ha derivya, redya yn ughel, kana, gwariow skrin kevrennek ha profyansow rag gweresoryon."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Galowow gans den ow triga gans demens a wra mos gwell pan yns i berr,
+  reyth ha drehevys a-dro dhe neppyth dhe wul war-barth, kepar ha diskwedhes
+  anwes po lowarth, mires orth skeusennow, redya yn ughel, kana kan meurgerys
+  po gwari gwari es a war skrin kevrennek. Galwewgh orth an keth termyn pub
+  dydh mar kyllowgh, gwrewgh unn lev yn unn termyn, ha govynnewgh orth nebonan
+  war an tyller dhe weres.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Gwrians a re furv dhe alow ha kemeres an gwask dhiworth kesklapp. Towlewgh unn dra sempel dhe gevrenna."
+  - "Galowow berr, reyth orth an keth termyn a’n jydh a wra oberi gwell yn fenowgh es galowow hir, ankemmyn."
+  - "Unn den a gews yn unn termyn. Galowow bagas gans lies lev war-barth yw kales dhe holya, yn arbennik gans kledhvos kollen."
+  - "Gwereser war an tyller a yll pareusi an devis, esedha ryb an den, ha bos an ‘dhywleuv’ rag gwari po skeusen vyth."
+  - "Mar ny wra galow oberi hedhyw, gorfennewgh yn kuv. Da yw assaya arta a-vorow."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Pyth a allav vy gul war wydhyow gans nebonan gans demens?"
+    a: "Towlewgh unn wrians sempel: diskwedhewgh agas lowarth, anwes po gegin; mirewgh orth hen skeusennow war-barth; redyewgh bardhonek verr po lyther yn ughel; kenewgh kan a gar yn feur; kegi an keth resepter orth an keth termyn; po gwari gwari es a skeusennow war skrin kevrennek. Gwriansow a re fog dhe’n galow, ma na res dhe’n den doen an kesklapp."
+  - q: "Pes termyn a dal bos galow gwydhyow?"
+    a: "Berr yn fenowgh es dell dybowgh. Nebes mynysennow toemm a yll bos lowr, yn arbennik mar a wra an den skwitha yn uskis. Galwel yn reyth orth an keth termyn a’n jydh a yll bos moy a vern es pes termyn a bes pub galow."
+  - q: "Pyth mar a dhevons i kellys po troblys gans galowow gwydhyow?"
+    a: "Nebes tus a wra kavos fas war skrin dhe vos kemyskys. Assayewgh galow pellgowser plen, messaj gwydhyow rekordys a yll an gwereser seni orth termyn kosel, po kartennow ha skeusennow y’n lyther. Mar a wra galow mos yn kamm, gorfennewgh yn kuv hag assayewgh arta dydh aral po orth termyn aral."
+  - q: "Fatell allav vy gweres ow mamm dhe wul galow gwydhyow pan na yll hi usya an pellgowser?"
+    a: "Govynnewgh orth esel teylu, gwereser tre po mayni chi-witha dhe dhalleth an galow ha synsi po apoyntya an devis. Lies tyller gwitha a weres teyluyow gans galowow gwydhyow, ytho govynnewgh pandr’yns i ow profya. Leghen war savel, gans skrin bras ha son ughel lowr dhe glewes, a wra hi esya rag pubonan."
+  - q: "A allon ni gwari gwari war-barth dre wydhyow?"
+    a: "Ya. An fordh esa yw rag unn den dhe gevrenna y skrin y’n app gwydhyow ha’n den arall dhe leverel py skeusen dhe dappya. Po y hyll an gwereser war an tyller ygeri an keth gwari war leghen ha tappya rag an den hag hwi ow kewsel ganso. Dewisewgh gwariow heb termynador na skor."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Triga pell a nebonan gans demens a yll omglewes heb gweres. Galowow pellgowser ha gwydhyow ny wra kemeres le bay, mes i a yll hwath dri termynyow gwir a gevren pan wrewgh hwi aga fara yn ta. An tybyans yw hedhi assaya kavos kesklapp usys hag yn y le towlel neppyth sempel dhe gevrenna. An folen ma a gews a-dro dhe wriansow a ober war wydhyow ha pellgowser, fatell dhe bareusi an galow, ha pyth a yll an den war an tyller gul dhe weres.
 
-## Why plan an activity for a call?
+## Prag towlel gwrians rag galow?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Gwrians a re furv dhe’n galow. «Fatla genes? Pyth a wrussys hedhyw?» a wovyn orth an den perthi kov ha derivas, hag a yll bos kales ha poenek. «Mirewgh, an tomatys yw avel» ny wovyn travyth anedha.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+An Alzheimer’s Association a lever bos kesklappow gans bagasow bras dre wydhyow kales, ha a brof [ow keworra furv dhe’n galow](https://www.alz.org/help-support/caregiving/holidays) gans taklow kepar ha kana kanow po kevrenna skeusennow.
 
-## What activities work on a video call?
+## Py gwriansow a ober war wydhyow?
 
-### Show and tell
+### Diskwedhes ha derivya
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Drewgh agas bys dhedha. Gwayewgh an kamera yn lent a-dro dhe’gas lowarth, komendyewgh an ki, diskwedhewgh pandr’owgh hwi ow kegi, synsewgh delinyans flogh-wynn, po poyntyewgh an pellgowser dres an fenester orth an ergh. Deskrifewgh an pyth a welowgh yn geryow sempel ha gesewgh powesow ragdha dhe worthyp. Nyns eus edhom a wovynnow.
 
-### Look at photos together
+### Mires orth skeusennow war-barth
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Synsewgh hen bryntya a-rag an kamera, po kevrennewgh agas skrin dhe dhiskwedhes nebes skeusennow bras, unn dhe unn. Kewsewgh a-dro dhe’n pyth a welowgh: «Mirewgh orth hatt Tas-gwynn.» Gwaytewgh «Piw yw hemma?» po «A borth kov dhis?» Mar a henow an den nebonan yn kamm, esewgh ganso. Mirewgh orth agan [gid kovadh](/activities/reminiscence/) rag profyansow es.
 
-### Read aloud
+### Redya yn ughel
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Redyewgh bardhonek verr, salm, lyver flogh meurgerys dhe flogh-wynn war an keth galow, lyther a-dhiworth kar, po folen a lyver a garens yn feur. Redya yn ughel a re dhe’n den neppyth kosel dhe woslowes orto heb edhom a worthyp.
 
-### Sing or listen to music together
+### Kana po goslowes orth ilow war-barth
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Kenewgh kan a wodhon yn ta, po senewgh rekord meurgerys a’gas tu hwi. Kana war-barth yw esya es kewsel rag lies den. Mirewgh orth agan [gid gwriansow ilow](/activities/music/).
 
-### Cook or bake at the same time
+### Kegi po pobas orth an keth termyn
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+An Alzheimer’s Association a brof towlel galow gwydhyow dhe gegi po pobas resepter arbennek war-barth. Settyewgh an galow y’n dhew gegin. An den war an tyller a allsa meska po tastya hag hwi ow holya aga hen garten resepter.
 
-### Watch something together
+### Mires orth neppyth war-barth
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+An Kowethyans a brof ynwedh mires orth fylm meurgerys orth an keth termyn a drevow dyffrans hag ow kewsel dre bellgowser po wydhyow. Rag nebonan gans demens, temmyn verr, hen rann a dowlen bellwolok po gwari pel a yll oberi gwell es fylm leun.
 
-### Play a gentle game on a shared screen
+### Gwari gwari es a war skrin kevrennek
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Lies app galow gwydhyow a as dhywgh kevrenna agas skrin. Hwi a yger an gwari ha tappya; an den a lever dhywgh po a boynt py skeusen dhe dhewis. Po an gwereser war an tyller a yger an keth gwari war leghen ha tappya ragdha hag hwi ow kewsel dredho.
 
-Games that work well this way:
+Gwariow a ober yn ta y’n fordh ma:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** hwi a red an lavar aswonys, i a lever an diwedh, ha profyans ow kewsel a sew.
+- **[Picture Pairs](/games/picture-pairs/):** gwari parow es gans skeusennow bras a yll a-dhana gweladow, heb termynador ha heb skor.
+- **[Conversation Cards](/games/conversation-cards/):** skeusen ha profyans ygor dhe gewsel a-dro dhodho war-barth.
+- **[Photo Pairs](/games/photo-pairs/):** gwari parow gwrys a skeusennow a dhewisowgh hwi war agas devis hwi. An skeusennow a wra triga y’gas peurel, ha’n den a’s gwel dre’gas skrin kevrennek.
 
-### Recorded messages
+### Messajys rekordys
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Pan yw galowow byw kales, rekordyewgh gwydhyow verr: salusyans, kan, kerdh a-dro dhe’gas lowarth. An gwereser a yll y seni orth termyn kosel, kemmys gweyth dell yw da gans an den. An Alzheimer’s Association a gampol rekordya ha danvon termynyow arbennek, kepar ha fleghes ow tigerya rohow.
 
-## What about plain phone calls?
+## Ha galowow pellgowser plen?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Galowow pellgowser plen yw hwath posek. Dementia Australia a brof [galwel orth an keth termyn pub dydh](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ha heb fistena, drefen y halja tus gans demens kemeres termyn dhe omjunya. War an pellgowser:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Leverewgh agas hanow ha’gas perthynas a-dhistowgh: «Dydh da Tas, Jenny ov vy, dha vyrghes.»
+- Kewsewgh yn lent, yn lavarow berr, unn dybyans yn unn termyn.
+- Rewgh nowodhow yn le aga govyn: «My a wrug agas resepter kig-kigli de.»
+- Redyewgh bardhonek verr, po kenewgh gwers a gan meurgerys.
+- Gwithewgh hi berr ha gorfennewgh gans ger toemm.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia a lever ynwedh y hall galowow gwydhyow gweres pan dheu kewsel dhe vos kales, drefen y hall an den gweles agas fas. Mar a dheu galowow pellgowser dhe vos kemyskys, assayewgh gwydhyow, po an eyl fordh.
 
-## How do I set up a video call that works?
+## Fatell dhyghtya galow gwydhyow a ober yn ta?
 
-**Before the call:**
+**Kyns an galow:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Dewisewgh termyn reyth** pan yw an den yn fenowgh powesys, ha sewhewgh ev. Usadow a weres.
+2. **Kesoberowgh gans an gwereser war an tyller.** Messaj an jydh kyns a weres dhedha towlel.
+3. **Checkyewgh an devis.** Leghen war savel yw esya es pellgowser synsys yn leuv. Surhewgh bos hi kargys, an skrin splann, ha’n son ughel lowr. Bywhewgh istitlys mar a brof an app i hag an den a red yn ta.
+4. **Towlewgh unn wrians** ha kemerewgh puptra parys.
 
-**During the call:**
+**Dres an galow:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Esedhewgh ogas dhe’n kamera** yn golow da, ow fasya fenester yn le bos hi a-dryv dhywgh.
+- **Komendyewgh agas honan** pub tro, dre hanow ha perthynas.
+- **Unn lev yn unn termyn.** An Alzheimer’s Association a lever bos kows war-barth kales rag tus ow triga gans demens ha tus gans kledhvos kollen. Mar a jun nebes kerens, kemerewgh tro po gwithewgh hi dhe dhew po tri den.
+- **Govynnewgh unn wovyn yn unn termyn.** An Family Caregiver Alliance a brof [govynnow sempel gans gorthypow ya-po-na](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), ha diskwedhes dewisyow pan yllowgh.
+- **Gasowgh powesow hir.** Gortewgh gorthyp. Da yw profya ger mars yns i ow hwilas.
+- **Usyewgh agas fas ha’gas lev.** Minhwirhewgh, pennowgh ha gwithewgh agas ton toemm. Mynegians a lever moy es geryow yn fenowgh.
+- **Na ewnhewgh.** Mar lever an den neppyth nag yw ewn, gasowgh ev bos.
 
-**Ending the call:**
+**Ow korfenna an galow:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Gorfennewgh kyns bos an den skwith, mar pleg, war noten dha.
+- Usyewgh an keth farwell pub tro: «My a wra galwel dhis a-vorow dhe’n li. My a’th kar.»
+- Na ystynnewgh ev.
 
-## Tips for the helper on site
+## Profyansow rag an gwereser war an tyller
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Mars owgh hwi an pries, an gwereser, an broder po hwor, po an mayni ow gweres gans an galow, hwi a wra y vos possybyl.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Pareusewgh tyller kosel.** Marowgh an bellwolok ha degewgh an daras.
+- **Dallethowgh an galow agas honan,** ena rewgh dhe’n den leghen war savel po synsewgh hi orth nivel lagas.
+- **Esedhewgh rybdha, a-dherag.** Agas presens yw comfort. Kennerthowgh yn es mar yw res: «Mirewgh, Jenny yw.»
+- **Bewgh an dywleuv.** Synsewgh skeusennow, tappya an gwari, treyl an leghen dhe dhiskwedhes an stevel.
+- **Mirewgh rag skwithder po troblans,** ha leverewgh dhe’n galwer pan yw termyn dhe worfenna.
+- **Leverewgh dhe’n galwer an pyth a oberas yn ta.** «Hi a garas an ki» a weres towlel an nessa galow.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+An NIA a brof y hall kerens pell gweres den kottha [dyski nasyow y bellgowser](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), kepar ha galowow gwydhyow. Yn gradhow diwettha, an gwereser a wra resya yn fenowgh handla an devis yn tien. Da yw henna.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Mar a drig an den yn chi-witha, an Alzheimer’s Foundation of America a brof govyn mar a weres an tyller teyluyow gans kesklappow gwydhyow. An AFA a gampol ynwedh teyluyow ow tanvon skeusennow war-tu ha war-dhe gans mayni gwitha, hag ow tanvon boes meurgerys po comfortow byghan, wosa checkya an pyth a as an tyller.
 
-## What if the call doesn't go well?
+## Pyth mar ny wra an galow mos yn ta?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Nebes galowow a vydh kemyskys, gwag po troblys. Nyns yw agas fowt, ha ny styr na dal galowow.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Mar hevel an den sowdhanys gans an skrin, treylyewgh dhe alow pellgowser po messaj rekordys.
+- Mar a dheu ev dhe vos troblys, aswonnowgh an omglewans, leverewgh neppyth hebaskus, ha gorfennewgh yn es.
+- Mar a wra galowow mos yn kamm yn fenowgh orth unn termyn a’n jydh, assayewgh termyn aral.
+- Mar a dyb ev bos hwi nebonan aral, esewgh ganso yn kuv.
 
-It is fine to end early. A short, warm call is a good outcome.
+Da yw gorfenna a-varr. Galow berr, toemm yw sewyans da.
 
-## Between calls
+## Ynter galowow
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Trigiwgh omma yn fordhow erel. Dementia Australia a brof danvon kartennow, ebostow, skeusennow po rohow byghan. Kartenn-bost seythennyel gans unn skeusen bras ha noten verr a yll bos redys arta hag arta. [Conversation Cards](/games/conversation-cards/) pryntys, danvenys dhe’n gwereser, a yll ri testen parys rag an nessa galow.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Rag profyansow a-dro dhe dhewis ha pareusi leghen, mirewgh orth [leghennow ha skrinys](/caregiving/tablets-and-screens/). Rag termyn yn person, mirewgh orth agan gid dhe [wysytya](/activities/visiting/).

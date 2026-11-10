@@ -1,32 +1,34 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Govynnow Es Gans Tus Gans Dismyk, Heb Gwask"
+seoTitle: "Govynnow Es rag Tus Gans Dismyk, gans Gorthebow"
+description: "50 govyn es rag tus gans dismyk, gans dewisyow ha poyntys keskows, ha fatel wul govynnow heb gwra nebonan dhe omglewes preves po gesys a-denewen."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Govynnow es rag tus gans dismyk a ober pan omglewons avel keskows, a-der
+  preves. Govynnyn a-dro dhe daklow dyskys nans yw termyn hir, kepar ha hen
+  ganow, lavarow koth, golyow ha bewnans pub dydh, hag offryn pupprys dew po
+  tri dewis. Rewgh an gorthyp yn toemm, bythkweth na wrigewgh unn den yn
+  unnik, skwych an skor, ha gwrewgh devnydh a bub gorthyp dhe dhalleth hwedhel.
+  Govynnow « hemma po henna » heb gorthyp kamm a fytt gwell dhe’n gresow
+  diwettha.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Govynnyn a-dro dhe daklow koth ha godhvedhys: kanow, lavarow koth, golyow, boes ha bewnans pub dydh a vledhynnyow eus passyes."
+  - "Offryn dew po tri dewis may hallo an gorthyp bos aswonys yn le bos kovhes."
+  - "Leverewgh an gorthyp yn toemm ha mos yn-rag. Pub tybyans a dhalleth hwedhel yw tybyans da."
+  - "Heb poyntys, heb paraow ow resek, heb galwel war unn den. Gesewgh dhe worthypow dos a-dhiworth an stevell oll."
+  - "Pan vo kales dewis ynter gorthebow, treylyewgh dhe wovynnow hemma-po-henna heb gorthyp ewn."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Yw govynnow es gwrians da rag tus ow pewa gans dismyk?"
+    a: "Y hallons bos, mar yw gwrys yn kuv. An Alzheimer's Foundation of America a rol govynnow es yn mysk gwriansow rag an gres a-varr. Gwithewgh govynnow a-dro dhe destennow koth ha godhvedhys, offryn dewisyow, bythkweth na wrewgh unn den yn unnik omglewes yn gwask, ha gwrewgh mires orth an gorthebow avel fordh dhe dhalleth keskows yn le preves."
+  - q: "Py destennow a ober gwell rag govynnow es a-dro dhe dhismyk?"
+    a: "Taklow dyskys nans yw termyn hir a wra oberi gwell dre vras: kanow ha kanoryon meurgerys a yowynkneth an den, lavarow koth, golyow, boes, sportys, ha bewnans pub dydh kepar ha delivrans leth ha pellgowsoryon gans ros. Gochewgh nowodhow a-dhiwedhes ha puptra a re kov a neppyth a-dhiworth a-varr y’n esedhek."
+  - q: "Fatel wrama ledya govynnow es yn chi-witha heb morthegi nebonan?"
+    a: "Redyewgh pub govyn dhe’n bagas oll, diskwedhewgh po leverewgh an dewisyow, ha wolkomyewgh gorthebow a-dhiworth piwpynag. Na wrewgh galwel war tus unnik ha na withewgh skor. Leverewgh an gorthyp gans minhwerthyn pypynag a veu tybys, hag govynnyn govyn sewya kepar ha ‘Piw omma a eth bythkweth dhe weles fylm yn y garr?’ dhe drehevel an dra yn hwedhlow."
+  - q: "Pandr’a allav vy gul yn le govynnow es y’n gresow diwettha?"
+    a: "Treylyewgh dhe wovynnow heb gorthyp kamm, kepar ha ‘Te po koffi?’ po ‘Treth po menydhyow?’, ha dhe worfenna lavarow po kanow koth war-barth. Mires orth skeusennow ha’ga deskrifa war-barth a ober yn ta ynwedh."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +47,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Govynnow es yw onan a’n gwriansow bagas moyha govynnys yn trevow gwitha ha towlow dydh, ha lies teylu a’s gwra orth an voos ynwedh. Gwrys y’n fordh usadow, gans poyntys hag unn den ow korthebi, y hall gwruthyl dhe nebonan ow pewa gans dismyk omglewes yn gwask. Gwrys yn kuv, yth yw fordh vewnansus dhe glewes hwedhlow. A-wòles yma 50 govyn es gans dewisyow ha neppyth dhe gewsel a-dro dhodho rag pubonan, sywys gans fatel ledya esedhek.
 
-## How do you make trivia work for someone with dementia?
+## Fatel allav vy gul mayth obero govynnow es rag nebonan ow pewa gans dismyk?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Gwrewgh y a-dro dhe aswon ha perthi kov a daklow nans yw termyn hir, ha gwrewgh pub gorthyp wolkom.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Govynnyn a-dro dhe’n termyn pell passyes.** An [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) a lever mai an arwòdh a-varr moyha kemmyn a gleves Alzheimer yw kalesneth ow perthi kov a gedhlow nowydh dyskys. Kanow, lavarow koth ha bewnans pub dydh a dhegdvledhynnyow ’n eur-ma a alsa bos dor esya.
+2. **Rewgh dewisyow pupprys.** Dewis an gorthyp ewn yn-mysk dew po tri yw liesgweyth esya es y askorra heb travyth.
+3. **Redyewgh govynnow yn ughel ha diskwedhewgh i yn bras.** Bord gwynn po leghen-ples a gyns tus na glew mar dha.
+4. **Rewgh an gorthyp yn ridn.** Mar ny wor denvyth, leverewgh y’n toemm ha mos yn-rag. Bythkweth na leverewgh « Deus yn-rag, hwi a wor hemma. »
+5. **Heb skor.** Nag rag tus unnik ha nag rag moysow. Mar myn tus niver, gwithewgh unn somm bagas.
+6. **Bythkweth na wrewgh galwel war unn den.** Gesewgh dhe worthypow dos a-dhiworth piwpynag. Unn orth unn, gorthebewgh war-barth: « My a dyb y vos an pyano. Pandr’a dybydh hwi? »
+7. **Gwrewgh devnydh a’n poynt kewsel.** An gorthyp yw an dalleth, a-der an diwedh. Hwedhlow yw an gwir amkan.
+8. **Gwithewgh y berr.** Deg govyn gans hwedhlow ynter anedha yw lowr.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a worra an rewl grev yn sempel: mirewgh rag serrysneth ha surhewgh bos an den owth omglewes sowen. An [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a rol govynnow es yn mysk gwriansow rag an gres a-varr. Y’n gres gres, gwithewgh dhe dhew dhewis ha poesewgh war an poyntys kewsel. Diwettha, treylyewgh dhe’n govynnow hemma-po-henna pella yn-nans.
 
-## Music and entertainment trivia
+## Govynnow es a-dro dhe ilow ha didhan
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+An gorthyp yw yn **tew**. Gwrewgh aswiwa an re-ma dhe’n den: nebonan a devis gans kanow koth a vynn kanoryon dyffrans dhyworth nebonan a devis gans rock and roll.
 
-| Question | Choices | Talk about |
+| Govyn | Dewisyow | Kewsel a-dro dhe |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Piw a veu gelwys Myghtern Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | A welsons hwi Elvis war an bellwolok bythkweth? |
+| Piw kaner o leshenwys Ol’ Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Piw yw agas kan Sinatra an moyha kerys? |
+| Bing Crosby a hunrosas a Nadelik... | **gwynn**, demedhyans, chi | Kenewgh linen war-barth |
+| Louis Armstrong a ganas « What a Wonderful... » | Jydh, **Bys**, Bewnans | Pandr’a wra an bys marthys dhywgh hwi? |
+| « Over the Rainbow » a veu kenys gans Judy Garland yn py fylm? | **The Wizard of Oz**, Gone with the Wind, Singin’ in the Rain | Ple’ hwi a welas agas fylmow meurgerys? |
+| Piw a warias Lucy yn « I Love Lucy »? | **Lucille Ball**, Doris Day, Betty White | Py towlow a welyas agas teylu war-barth? |
+| Piw gowboy a varghogas margh henwys Trigger? | **Roy Rogers**, Gene Autry, John Wayne | A wariens hwi avel kowboys pan owgh hwi fleghik? |
+| Piw a ostyas « The Tonight Show » dres 30 bledhen? | Ed Sullivan, **Johnny Carson**, Bob Hope | A wrowgh hwi gortos diwedhes dhe weles an bellwolok? |
+| Py offeren a’n jeves 88 alhwedh? | Gitar, **pyano**, hirgorn | A wrug nebonan y’gas teylu seni? |
+| Py dons yw reknys onan-dew-tri, onan-dew-tri? | **Wals**, twist, tango | Ple’ hwi eth dhe dhonsya? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Rag moy a-dro dhe ilow, gwrewgh mires orth [gwriansow ilow rag dismyk](/activities/music/).
 
-## Everyday life trivia
+## Govynnow es a-dro dhe vewnans pub dydh
 
-| Question | Choices | Talk about |
+| Govyn | Dewisyow | Kewsel a-dro dhe |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Kyns yeynellow, lies chi a withas boes yeyn yn... | **Kist rew**, forn, soler | Piw a dhros an rew? |
+| Piw a dhros leth dhe’n daras yn botellow gweder? | An lytherwas, **an den leth**, an den paper-nowodhow | Pandra arall a veu delivrys dhe’n chi? |
+| Fatel wrussowgh hwi rosya pellgowser ros? | Gwaska botonyow, **treylya ros**, kewsel orto | Leverewgh dhymm a-dro dhe’n pellgowser y’gas chi |
+| Py kompani a wrug an karr Model T? | **Ford**, Chevrolet, Buick | Leverewgh dhymm a-dro dhe garr a garens hwi |
+| Ple hwi a gavsa den ow servya diwes yeyn? | **Yn shopp dehen rew**, yn pobasva, yn arghanti | Pandr’a wrewgh hwi arghasa orth an gounter? |
+| Py gwariell yw gwenten vetel a yll kerdhes yn-nans grisyow? | Yo-yo, **Slinky**, hula hoop | Py gwariellow a garens hwi? |
+| Drive-in o le rag gweles... | **Fylmow a’gas karr**, gwariow pel, kerdhydhow | Gans piw hwi eth? |
+| Piw a welir war an noten bunt? | Elizabeth II, **Charles III**, Victoria | Pandr’a allsa hwi prena gans peuns nans yw termyn hir? |
+| Piw a welir war an dheghen diner? | **Elizabeth II**, Charles III, Victoria | A withens hwi dinerow yn jorr martesen? |
+| Py liw yw karr-skol dre vras? | Rudh, **melyn**, glas | Fatel eth hwi dhe skol? |
 
-## Holidays, nature and places
+## Golyow, natur ha tylleryow
 
-| Question | Choices | Talk about |
+| Govyn | Dewisyow | Kewsel a-dro dhe |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Py gol yw an pympes Yow a vis Du? | Degol an Gwaynten, **Nadelik**, Degol Pask | Pandr’a via pupprys war agas moos? |
+| Lugarnow pompyon yw gwrys rag py gol? | **Nos Galan Gaeaf**, Pask, Nadelik | Leverewgh dhymm a-dro dhe Nos Galan Gaeaf le may tevens hwi |
+| Gool Peran yw solempnys yn py mis? | Mis Genver, **Mis Meurth**, Mis Me | Fatel wrussa agas teylu solempnya? |
+| Dydh an Vamm yw yn py mis? | Mis Ebrel, **Mis Me**, Mis Metheven | Fatel wrussa agas teylu solempnya? |
+| Pygemmys krows yw war vaner Sen Piran? | Onan, **onan (krows wynn war wel du)**, dew | Ple hwi a welas an vaner? |
+| Py mor yw dhe du west Kernow? | Mor an North, **Mor Atlantek**, Mor Iwerdhon | Eth hwi bythkweth dhe’n treth? |
+| Yn py cita yma Big Ben? | Truru, **Loundres**, Aberplymm | Ogh hwi bythkweth yn Loundres? |
+| Pandr’a wra gwenenen? | Leth, **mel**, segh | Mel war vara po yn te? |
+| Leugh bugh yw gelwys... | Ebol, **leugh**, myn | A vewgh hwi bythkweth ogas dhe ammeth? |
+| Py flogh hir melyn yw aswonys rag treylya troha’n howl? | Ros, **howlvleujen**, tulyfant | Pandr’a devis y’gas lowarth? |
+| Pygemmys dydh yw yn bledhen lamm? | 365, **366**, 360 | Leverewgh dhymm a-dro dhe benn-bloedh a borth kov |
+| Py seson a dheu wosa gwav? | Kynnyav, **gwenton**, hav | Piw yw agas seson gwell? |
 
-## Food and sports trivia
+## Govynnow es a-dro dhe voes ha sportys
 
-| Question | Choices | Talk about |
+| Govyn | Dewisyow | Kewsel a-dro dhe |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rezn gwin yw... | Eirin, **grontow**, keres, syghys | A wrussowgh hwi gorra rezn gwin yn kroustow? |
+| Eirin sygh yw... | **Eirin**, figys, avalow, syghys | Piw y’gas teylu a gara eirin sygh? |
+| Manenow moni ha... | **Jam**, keus, morgys | Garow po smodh? |
+| Pasti Kavnek yw gwrys yn tiwysyk gans... | Kig, **tettys ha bronvengel**, avalow | Py pastiow a dheuth yn-mes dhe bartys? |
+| Py hogen yw meurgerys dhe Nadelik? | **Hogen aval**, hogen lymmaval, hogen keres | Py hogen a wrussowgh hwi? |
+| Pygemmys gwarior yw gans para grig war an wel? | 7, **11**, 9 | Py para a wrussowgh hwi skoodhya? |
+| Pygemmys pel yw yn unn overs yn grig? | Pymp, **hwegh**, seyth | A wariens hwi grig bythkweth? |
+| Yn py sport y hwrewgh hwi skor tra gans pot? | Boksys, **pel-droos**, golff | A eth hwi bythkweth dhe wariow pel-droos? |
+| Pygemmys toll yw war wel golff savonek? | 9, **18**, 24 | A wariens hwi golff bythkweth, po golff byghan? |
+| Yn py sport y hwrewgh hwi skor « try »? | **Rugbi**, hocki, pel-vasket | Piw a welyas rugbi y’gas chi? |
 
-## Familiar sayings
+## Lavarow koth godhvedhys
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Gorfenna lavar koth a wra devnydh a yeth dyskys nans yw termyn hir hag yn fenowgh y teu yn es. Agan gwari [Gorfenna an lavar](/games/finish-the-saying/) a’n jeves lies moy, gans tapp dhe dhiskwedhes pub diwedh.
 
-| Saying | Choices | Talk about |
+| Lavar | Dewisyow | Kewsel a-dro dhe |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Aval pub dydh a witha an... | **Medhek dhe-ves**, glaw dhe-ves, kath dhe-ves | Piw a leveris hemma dhywgh hwi? |
+| An edhen a-varr a gach an... | Karr-bus, **pryv**, tren | Owgh hwi den myttin? |
+| Na rekn agas yer kyns i dhe... | **Dardhra**, koska, kana | A wrussa agas teylu gwitha yer? |
+| Diner gwithys yw diner... | **Dendilys**, kellys, spenys | Piw o an gwithor y’gas teylu? |
+| Tre yw le may ma an... | Lowarth, **kolon**, gegin | Pandr’a wra le omglewes avel tre? |
+| Gwell diwedhes es... | A-varr, **bythkweth**, drog pes | Piw o pupprys diwedhes? |
+| Pub kommolenn a’n jeves lin... | **Arghansek**, loya, bath | Leverewgh dhymm a-dro dhe jons da |
+| Gwriansow a gews ughella es... | **Geryow**, ilow, taran | Leverewgh dhymm a-dro dhe nebonan a leveris henna |
 
-## This-or-that questions with no wrong answer
+## Govynnow hemma-po-henna heb gorthyp kamm
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+An re-ma a fytt pub gres, y’ga mysk an re dhiwettha, drefen nag eus travyth dhe gavos yn ewn. Govynnyn, goslowyewgh, ha kevrennyn agas gorthyp hwi ynwedh.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Te po koffi?
+- Treth po menydhyow?
+- Keun po kathes?
+- Hav po gwav?
+- Hogen po tesen?
+- Donsya po mires?
+- Howldrehevel po howlsedhes?
+- Porth a-rag po lowarth a-dhelergh?
+- Radyo po plasennow?
+- Krampoth po oyow?
+- Rosow po briallen?
+- Vyaj tren po vyaj karr?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Rag govynnow keskows gans skeusennow, assayewgh agan [Karten kewsel](/games/conversation-cards/) dhe bryntya.
 
-## How do you run a trivia session in a care home or group?
+## Fatel wrama ledya esedhek govynnow es yn chi-witha po bagas?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Gwrewgh tus a esedha may hallons gweles ha klewes.** Gwelerow klewes y’n le, dewweder ow kwiska, an bellwolok marow.
+2. **Komendyewgh y avel keskows.** « Yma dhymm nebes govynnow a-dro dhe’n dydhyow koth, ha my a grys hwi dhe wodhvos moy esov vy. »
+3. **Redyewgh pub govyn diweyth ha diskwedhewgh an dewisyow yn bras.**
+4. **Wolkomyewgh gorthebow a-dhiworth le pynag y’n stevell.** Dasleverewgh gorthebow da may hall pubonan klewes.
+5. **Leverewgh an gorthyp rag pubonan,** ena govynnyn an poynt kewsel dhe’n stevell.
+6. **Sewyewgh an nerth.** Mar talleth unn govyn deg mynysen a hwedhlow, gesewgh dhodho.
+7. **Gorfednyn gans kan po tro a wovynnow hemma-po-henna,** may hwrello pubonan diwedha gans neppyth es.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Rag furvow bagas erel, y’ga mysk byngo skeusennow ha kana war-barth, gwrewgh mires orth [gwriansow bagas rag trevow gwitha](/activities/care-home-groups/).
 
-## When to change the plan
+## P’eur dhe janjya an towl
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Mar kwel nebonan prederus, tewelhe po leverel « Ny wonn » moy es unnweyth, gwrewgh y esya: dewgh dhe dhew dhewis, gorthebewgh war-barth, po treylyewgh dhe wovynnow hemma-po-henna. Mar kwra an bagas gwell kewsel a-dro dhe unn govyn dres an dohajydh oll, henn yw sowena. Nyns o an amkan bythkweth an gorthebow ewn. Termyn yn kowethyans da o.

@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Gwriansow skiansek rag tus ow bywa gans dismyk"
+seoTitle: "Gwriansow skiansek dismyk: Tybyansow ha sawder"
+description: "Gwriansow skiansek rag tus ow bywa gans dismyk, a dorn-fasya dhe gistenow gwias ha sonyow natur, gans notyansow sawder a-dro dhe dagha, alergeddow ha sawerow."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Gwriansow skiansek a wra devnydh a douch, sawer, blas, son ha gwel: dorn-fasya
+  lent, kisten a wias medhel, losow fres dhe sawra, sonyow natur, po mires orth
+  ydhyn orth fenester. I a fytt pub nivel hag yma talvosog dres eghen diwettha.
+  Gwrewgh checkya kyns rag peryllys dagha, alergeddow, kudynnow kroghen ha
+  sensyfter sawerow, profewgh unn dra orth unn termyn, ha hedhewgh mar hevel an
+  den anes.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Nyns eus edhom a atebow ewn dhe wriansow skiansek, ytho i a ober dhe bub nivel, y’ga mysk y’n gweli po y’n gador."
+  - "Profewgh unn skians orth unn termyn yn stevell gosel, ha govynnewgh po gwrewgh gwarnya kyns tochya."
+  - "Gwaytyewgh taklow byghan ha tra vyth a hevel po a sawer haval orth boes mes nag yw, drefen y hyllyn tus gorra taklow yn aga ganow."
+  - "Gwrewgh checkya rag alergeddow, kudynnow kroghen ha kudynnow anella kyns devnydhya eliow, sawerow po boes."
+  - "Nyns eus dustuni krev bos aromatherapy ow gweres arwodhyow dismyk; devnydhyewgh sawerow marnas rag lowender sempel, mar mynnowgh hwi."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Pyth yw gwriansow skiansek da rag nebonan gans dismyk?"
+    a: "Tybyansow sempel a gomprehend dorn-fasya lent gans eli, handla gwias medhel, sawra losow fres po koffi, goslowes orth ilow meurgerys po sonyow natur, mires orth ydhyn po tank pysk, ha tastya boes meurgerys yn furv saw. Profewgh unn dra orth unn termyn ha mirewgh fatel wra an den gorthebi."
+  - q: "Yw gwriansow skiansek saw rag nebonan a wra gorra taklow yn y ganow?"
+    a: "I a yll bos, gans rach. Devnydhyewgh marnas taklow bras na yllir aga lenki, skipewgh tra vyth byghan po a yll terri, ha gwrewgh gwitha eliow, sebonow ha taklow gans sawer mes a dhrehedh wosa, drefen y hallons i heveli po sawera haval orth boes. Bedhewgh gans an den dres an termyn oll."
+  - q: "A wra aromatherapy gweres gans dismyk?"
+    a: "Daswel Cochrane a gavas nag esa dustuni krev bos aromatherapy ow gweres tus gans dismyk, kyns o an studhyansow byghan ha nag o i kehaval. Mar kwra an den enjoya sawer medhel, aswonys, yma da lowr, mes gwaytyewgh oylys essensek krev, yn arbennik a-dro dhe gudynnow anella po alergeddow."
+  - q: "Pyth yw apron po kudhlen gwrians rag dornow bysi?"
+    a: "Yth yw darn a wias, apron po kudhlen arvregh gans taklow dhe handla gwrys fast warnodho, kepar ha botonyow bras, zipperys, snodennow ha darnow gans tochys dyffrans. Ev a re neppyth dhe dhornow bysi dhe eksplorya. Gwrewgh y checkya yn fenowgh rag tra vyth loos a yll bos tennys yn-mes."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Gwriansow skiansek a wra devnydh a’n pymp skians: touch, sawer, blas, son ha gwel. Nyns eus edhom dhedha a gov, a gammow po a atebow ewn, ytho i a yll ober orth pub nivel. I a brov moyha posek diwettha. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) a not y hwra tus yn nivel diwettha perghya an bys dre vras der an skiansow, hag y hyllydh hwi diskwedhes rach dre douch, son, gwel, blas ha sawer. Nebes checkys sempel a wra an gwriansow ma kosel rag pubonan.
 
-## What are sensory activities for dementia?
+## Pyth yw gwriansow skiansek rag dismyk?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Gwriansow skiansek yw perthyansow sempel drehevelys a-dro dhe unn skians orth unn termyn, kepar ha tevi gwias, sawra losow po goslowes orth glaw. An [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a lever y tal gwriansow nivel diwettha fogella yn fenowgh war an skiansow, hag ev a gampoll ilow, taklow dhe douchya ha handla, ha dorn-fasya. An [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a not y hall bos edhom krev dhe dus y’n nivel diwettha a synsi neppyth yn ogas rag k comfort.
 
-## Sensory ideas, sense by sense
+## Tybyansow skiansek, skians dre skians
 
 ### Touch
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Dorn-fasya.** Gwrewgh toemmhe nebes eli yn agas dornow ha strokyewgh yn lent a’n vregh dhe bennow an vysyes. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) a gampoll fasya gans eli heb sawer rag k comfort.
+- **Kisten wias.** Darnow bras a velvet, corduroy, fleece, satin ha gwlan dhe stroka, plegya ha kewsel a-dro dhedha.
+- **Lyawenn domm.** Lyawenn domm, glyb rag an dornow yn jydh yeyn. Gwrewgh previ an toemmder war agas bregh hwi kyns.
+- **Apron po kudhlen gwrians.** Botonyow bras, zipperys, snodennow ha darnow gans tochys dyffrans gwrys fast warnodho.
+- **Plegya ha glatthe.** Kisten a lyawennow po napkyns glan dhe blegya, bernya ha plegya arta.
+- **Neppyth medhel dhe synsi.** Kudhlen fleece, pluvek po enyval medhel haval orth gwir, profys yn sempel, nevra haval orth gwariell.
 
-### Smell
+### Sawer
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Losow fres.** Gwrewgh rutya mintys, rosmari, basil po lavrek ynter agas bysyes ha’ga dri dres.
+- **Saweryow an gegin.** Koffi ow tevi, bara ow tosli, kanel po orien ow pos kregys yn ogas.
+- **Bleujyow.** Dorewgh nebes bleujyow fres a’n lowarth po a’n shoppa.
+- **Askorrans aswonys.** An sebon po eli a wrussons i devnydhya pup-prys, mar kwra aga kroghen y dhegemeres.
 
-### Taste
+### Blas
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Blas meurgerys.** Loy bras byghan a neppyth a garons i, kepar ha souben aval, podin po dehen rew, yn furv a yllons i dybri yn saw.
+- **Gweres gans pobas.** Tastya frooth po nebes glasys byghan ha hwi ow pobas war-barth.
+- **Delisyow an seson.** Pompyon dowr y’n hav, sider tomm y’n kynnyav, servys orth toemmder saw.
 
-### Sound
+### Son
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Ilow meurgerys.** Kanow aswonys orth son kosel; gwrewgh mires orth [gwriansow ilow](/activities/music/).
+- **Sonyow natur.** Glaw, mordonnow po kan ydhyn. An NIA a not y hevel bos ilow, tros gwynn ha sonyow natur ow koselhe nebes tus.
+- **Agas lev.** Redya yn ughel, hwmma, po derivas hwedhel.
+- **Offrynnow sempel.** Tabour dorn, shakyer po klogh dhe wari war-barth gans ilow.
 
-### Sight
+### Gwel
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Mires dre’n fenester.** Bojyer ydhyn a-ves dhe’n fenester, fleghes ow kerdhes tre, po ergh ow koedha.
+- **Tank pysk po gwydhyow lent.** Gwayans kosel heb son ughel.
+- **Skeusennow bras.** Unn skeusen kler orth unn termyn, synsys orth nivel an lagasow.
+- **Kolor ha patron.** Sortya temmyn gwias splann, bleujyow po napkyns liwys, po folen liwa sempel a’gan sett [liwa](/games/coloring/).
+- **Yn-mes.** An NHS a brof lowarthow skiansek gans losow sawrek, tochys dyffrans ha nasyow dowr. Gwrewgh mires orth [gwriansow yn-mes ha lowartha](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Fatell wul kisten skiansek
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Dewisewgh testen** junys gans bewnans an den: an treth, an lowarth, an gegin, an shoppa ober, gwrias.
+2. **Dewisewgh pymp po hwegh taklen vras, saw,** kepar ha krogen vor vras, loy bren, skarf medhel, sagh byghan a lavrek sygh gwrys yn fast, po stock bren smodh.
+3. **Gwrewgh checkya pub taklen** rag darnow byghan, amalow lymm, edhow loos ha tra vyth a yll terri.
+4. **Dorewgh unn dra yn-mes orth unn termyn.** Resevowgh hi, deskrifewgh hi, ha gasewgh an den eksplorya.
+5. **Gwrewgh gorra an gisten dhe-ves wosa** may hwrello hi pesya arbennek ha may fo an taklow checkys arta kyns an nessa tro.
 
-## Safety first
+## Sawder kyns oll
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Gwriansow skiansek yw kosel, mes yma nebes peryllys posek. Nebes tus ow bywa gans dismyk a yll kemeres taklow nag yw boes rag boes, ha lenki a yll bos kalessa dre dermyn; an NIA a warn y hwra kudynnow lenki y’n nivel diwettha kressya an peryl a dagha.
 
-| Risk | What to do |
+| Peril | Pyth dhe wul |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Dagha | Devnydhyewgh marnas taklow re vras dhe lenki. Na botonyow, bysow, mona, marbyllow po gwariellow byghan loos yn kisten. Profewgh boes marnas yn furvow a lever an para gwith bos saw. |
+| Taklow a hevel haval orth boes | An NIA a gusul may fo alhwedhys eliow, sebonow, shampoos ha perfum, a yll heveli po sawera haval orth boes, ha may fo dileys frooth artifisyal. Gwrewgh gorra askorransow skiansek dhe-ves wosa devnydh. |
+| Alergeddow | Gwrewgh checkya rag alergeddow dhe gnou, latex, gwlan, plansow po sawerow kyns dalleth. |
+| Sawerow krev | Gwaytyewgh perfumys krev hag oylys essensek, yn arbennik gans asthma po kudynnow anella erel. Saweryow medhel, naturel yw sawra. |
+| Kroghen | Gwrewgh checkya rag kroghen dhrog, terrys po tanow kyns fasya. Devnydhyewgh gwask kosel ha hedhewgh mar kwrans i gwincya. |
+| Toemmder | Gwrewgh previ lyawennow tomm ha diwesow war agas bregh hwi kyns. |
+| Taklow lymm po gwenonek | Na daffar lymm, gweder po devnydhyow kreft gwenonek. |
 
-## Does aromatherapy help?
+## A wra aromatherapy gweres?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Martesen nyns yn fordh a yllir y vosura. [Daswel Cochrane a aromatherapy rag dismyk](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) a viras orth 13 studh gans 708 den, oll yn trev gwith, ha ny gavas dustuni krev a les. An studhyansow o byghan, an sewyansow o dyffrans, ha ny veu derivys yn ta a effeythyow a-denewen. Mar kwra an den enjoya sawer medhel, aswonys, kepar ha lavrek a’n lowarth, henna yw reson da dhe’n ranna. Nyns yw medhegneth.
 
-## How to offer a sensory activity
+## Fatell brofia gwrians skiansek
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Dewisewgh pols kosel** ha skwychyewgh yn-mes an bellwolok.
+- **Deusowgh a-rag,** leverewgh aga hanow, ha govynnewgh po leverewgh dhedha kyns hwi aga thochya: «Yma eli genev. A vynnowgh hwi rutya dorn?»
+- **Profewgh unn dra orth unn termyn** ma na vo re.
+- **Mirewgh orth an gorthyp.** Fas medhelha, dornow kosel po minhwerth yw arwodhyow da. Tynna dhe-ves, frounsa po anesown a styr hedhi.
+- **Gwrewgh y synsi berr.** Pymp mynysen gosel yw esedhek da.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Powes lent a anella war-barth, kepar ha [anella kosel](/games/calm-breathing/), a yll bos fordh kosel dhe worfenna. Rag moy tybyansow ryb an gweli, gwrewgh mires orth [gwriansow nivel diwettha](/activities/late-stage/), ha rag anesown diwettha an jydh, gwrewgh mires orth [anesown diwettha an jydh](/caregiving/late-day-restlessness/).

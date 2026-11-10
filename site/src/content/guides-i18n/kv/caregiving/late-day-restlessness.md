@@ -1,34 +1,33 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Рытнас дзугсьӧм: лӧнь уджъяс рытын"
+seoTitle: "Рытнас дзугсьӧм: лӧнь уджъяс рытын"
+description: "Лӧнь порядок, жыр йитӧм да уджъяс, кодъяс вермасны отсавны рытын деменцияӧн олысь мортлы. Кор колӧ шуны врачлы выль симптомъяс йылысь."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Рытнас дзугсьӧм — тайӧ беспокойство, ӧткодялӧм либӧ раздражение, коді
+  заводитчӧ либӧ ёнмӧ рытнас, асывнас. Отсавны вермасны: тӧлка кадколаст
+  оланног, югӧр да уджъяс аслыспӧлӧн, этшаджык рытын узьӧм, этшаджык кофеин,
+  югыд биа жырын пемыдтӧдз, лӧнь горт да лӧнь уджъяс — музыка, серпасъяс видлӧм
+  либӧ дӧраа тшисьӧм. Выль либӧ ёнмӧм симптомъяс колӧ видлавны врачлы.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Рытнас дзугсьӧм — тайӧ беспокойство либӧ ӧткодялӧм, коді заводитчӧ либӧ ёнмӧ, кор югӧр пемдӧ."
+  - "Сьӧкыд уджъяс, петӧмъяс да купайтчӧм вӧч асывнас либӧ лунын водзын."
+  - "Югӧр, быдлунъя ветлӧм, этшаджык рытын узьӧм да этшаджык кофеин вермасны отсавны рытнас лӧнь оланны."
+  - "Ӧзйӧй би джынйӧртӧдз, чинты шум да вуджӧй лӧнь, тӧдса уджъяс вылӧ."
+  - "Гижӧй кадколаст, медым казявны, мый вӧчӧ беспокойствоӧн, да видзӧдлӧй лӧньӧн."
+  - "Шуӧй врачлы выль либӧ ёнмӧм симптомъяс йылысь: дой да инфекцияяс вермасны торйӧн вайӧдны."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Кутшӧм кадӧ рытнас дзугсьӧм чӧжӧн заводитчӧ?"
+    a: "Сійӧ чӧжӧн заводитчӧ либӧ ёнмӧ рытнас либӧ асывнас, кор югӧр пемдӧ. Быд мортлы кадыс абу ӧткодь, сійӧн дженьыдик гижӧд ӧти-кык недель чӧж отсӧгӧн вермас лоны."
+  - q: "Кутшӧм уджъяс вермасны отсавны рытнас дзугсьӧм дырйи?"
+    a: "Рытнас бурджык уджалӧны лӧнь, тӧдса да кокни уджъяс: лӧнь музыка, серпасъяс видлӧм, радейтана передача либӧ фильм, дӧраа тшисьӧм, дженьыдик ветлӧм либӧ ӧтлаын сёян. Выль либӧ сьӧкыд уджъяс видзӧй аслыспӧлӧн."
+  - q: "Рытнас дзугсьӧм вермас-ӧ петкӧдлыны дзоньвидзалун кузя ыб?"
+    a: "Сійӧс вермасны ёнмӧдны дой, инфекцияяс (шуам, пызь-вом вывса), узян ыбъяс либӧ лекарство бокся вӧчӧмтор. Беспокойствоыс кӧ лоис выльысь, дзик пыр либӧ ёнмӧ, йитчӧй мортлысь врачкӧд."
+  - q: "Колӧ-ӧ юавны врачлысь рытнас дзугсьӧм понда лекарство йылысь?"
+    a: "Тайӧ сёрнитӧм колӧ нуӧдны врачкӧд. Alzheimer’s Association шуӧ, мый водзын чӧжӧн видлӧны лекарствотӧм отсӧгъяс, а рытын беспокойство понда лекарство колӧ видлавны сӧмын лыддьӧм бӧрын, мый бур да мый риск. Тайӧ лист бокын лекарство йылысь отсӧг абу сетӧма."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +46,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Уна котырын казялӧны ӧткодь кадколаст: асывнас морт, кодіӧн ті видзӧданныд, олӧ лӧньӧн, но рытнас сійӧ вермас лоны беспокойнӧй, повзьысь, ӧткодявтӧм либӧ раздражённӧй. Сійӧ вермас ветлыны гортӧн, корны «мунны гортӧ» гортын кӧть и эм, либӧ кокниа сёрмӧдчыны. Тайӧс тшӧкыда шуӧны рытнас дзугсьӧмӧн.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Ӧти дзик бур отсӧг абу, но лун порядок, жыр да уджъяс вежӧмыс вермас отсавны рытнас лӧньджыка овны. Тайӧ лист бокын чукӧртӧма практическӧй, бурдӧдантӧм отсӧгъяс National Institute on Aging да Alzheimer’s Association ысь. Тайӧ оз лоны врачъя отсӧг. Выль, дзик пыр либӧ ёнмӧм симптомъяс кӧ эмӧсь, сёрнитӧй мортлысь врачкӧд.
 
-## What is sundowning?
+## Мый сійӧ рытнас дзугсьӧм?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Рытнас дзугсьӧм — тайӧ беспокойство, раздражение, лӧгасьӧм либӧ ӧткодялӧм, коді заводитчӧ либӧ ёнмӧ, кор югӧр пемдӧ, рытнас либӧ асывнас. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) пасйӧ, мый вывті мудзӧмыс вермас содтыны рытнас беспокойство.
 
-## What can make late-day restlessness worse?
+## Мый вермас ёнмӧдны рытнас беспокойство?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Уна тор вермасны вайӧдны, тшӧкыда ӧтлаын. [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) лыддьӧ тадзи торъяс:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- мудзӧм став лун уджалӧм бӧрын;
+- выль либӧ ӧткодялана ін;
+- ас пытшкӧс «кад часі», коді оз лӧсяв: лунын окота узьны, а ойын — абу;
+- этша югӧр да вуджӧръяс, кодъяс вермасны ӧткодъявны;
+- матын мортъяслысь стрессысь либӧ омӧльтчӧмысь повзьӧм;
+- ёнджыка арӧса мортъяслы тшӧкыда ковмӧ этшаджык узьны.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA содтӧ мукӧд помкаяс: дой, шогсьӧм, стресс, этша узьӧм, кынӧмлун, уна шум либӧ уна йӧз, а сідзжӧ мукӧд лекарствояс либӧ налӧн ӧта-мӧдныс вӧчӧм.
 
-## How can I plan the day to make evenings calmer?
+## Кыдзи лӧсьӧдны лунсӧ, медым рытнас вӧлі лӧньджык?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Сьӧкыд уджъяс нуӧй водзджык кадӧ, а рытнассӧ видзӧй лӧнь да тӧлка. И NIA, и Alzheimer’s Association чӧжӧн советуйтӧны тӧлка кадколаст. Лун пример (ті верманныд лӧсьӧдны аслыныд):
 
-| Time | What may help |
+| Кад | Мый вермас отсавны |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Асыв | Врач дорӧ ветлӧм, купайтчӧм, петӧм да став сьӧкыд удж, кор унджык морт эззьӧмаӧсь |
+| Асывнас шӧр | Улича вылын либӧ шондіа ӧшинь дорын кад; ветлӧм либӧ мукӧд удж |
+| Лун шӧр | Ыджыдджык сёян луннас (Alzheimer’s Association советуйтӧ ыджыдджык лун шӧр сёян да кокниджык рытъя сёян) |
+| Асывнас бӧрын | Ковмас кӧ, шоччыштӧм, но оз ков узьны дыр рытнас |
+| Рытнас шӧр | Лӧнь, тӧдса уджъяс; сёян да юан; кофеинтӧг |
+| Пемыдтӧдз | Ӧзйӧй жырсӧ да пӧдлавӧй катшасынъяссӧ пемыдтӧдз |
+| Рыт | Кокниджык сёян, лӧнь музыка, этша шум, тӧлка узян порядок |
 
-A few specific points from the sources:
+Некымын торъя индӧдъяс источникъясысь:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Югӧр югӧрсянь.** NIA советуйтӧ быд лун олӧм вылын либӧ ӧшинь дорын югӧр шонді улын.
+- **Быдлунъя ветлӧм, но оз вывті уна.** Быд лун вӧчӧй кокни удж, но эн планируйтӧй вывті уна, шуӧ NIA.
+- **Рытнас юантор.** Рытнас эн ю алкоголь да кофеина юанторъяс, шуам, кофе либӧ кола (NIA). Alzheimer’s Association вилысь сідзжӧ казьтылӧ никотин.
+- **Узьӧм луннас.** Эн узьӧй дыр рытнас (NIA). Alzheimer’s Association советуйтӧ чинтыны луннас узьӧм, ойын узьӧм кӧ сьӧкыд.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Тӧлка лун порядок йылысь унджык видӧд [быдлунъя уджъяс](/activities/daily-routine/) лист бокысь.
 
-## How can I make the home calmer in the late afternoon?
+## Кыдзи лӧсьӧдны гортсӧ лӧньджыка рытнас?
 
-Reduce noise, add light and keep familiar things close.
+Чинты шум, содты югӧр да видз тӧдса торъяс матын.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Югыд, ӧткодь би.** Alzheimer’s Association советуйтӧ видзны гортсӧ югыда рытын. Ӧзйӧй бисӧ вуджӧръяс петтӧдз.
+- **Этшаджык шум.** Кусӧдӧй либӧ чинтыштӧй телевизор да радио, этшаджык воӧй гӧсьтъяс да гортса удж тайӧ кадӧ. Alzheimer’s Association советуйтӧ чинтыны рытнас стимулъяс, шуам, телевизор, гортса удж да гора музыка.
+- **Тӧдса торъяс.** NIA советуйтӧ лӧнь музыка да радейтана вещъяс, серпасъяс матын видзӧм.
+- **Лӧньлун видлӧм.** Alzheimer’s Association советуйтӧ видлавны, абу-ӧ дой, тшыг, гора, кынӧмлун, тыртӧм пызь, мудзӧм, инфекция либӧ ку куньсьӧм, да видзны жырын лӧнь шоныд.
+- **Асыд кӧлуй.** Мортъяс казялӧны стресс. NIA советуйтӧ видзӧдны ассьыд повзьӧм вылӧ, медым сійӧ оз содты напряжение.
 
-## What calm activities can we do in the late afternoon?
+## Кутшӧм лӧнь уджъяс позьӧ вӧчны рытнас?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Бӧрйӧй тӧдса, нетыра да кокни дугӧдан уджъяс. Alzheimer’s Association советуйтӧ лӧнь уджъяс, шуам, лӧнь музыка, серпасъяс видлӧм либӧ радейтана фильм, а сідзжӧ ӧтлаын ветлӧм беспокойство чинтӧм понда. NIA советуйтӧ сёян либӧ юан, радейтана передача, музыка, ветлӧм, лыддьӧм либӧ прӧстӧй гортса удж, шуам, дӧраа тшисьӧм.
 
-Ideas to try:
+Позьӧ видлыны:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Ӧтлаын дӧраа тшисьӧм.** NIA советуйтӧ татшӧм прӧстӧй гортса удж. Полотенцеяс кокниӧсь кутны, да уджыс помасяна.
+2. **Радейтана музыка кывзӧм.** Сійӧ мортлы томдырся кадсянь тӧдса сьыланкывъяс, етша юӧн. Мукӧд идеяяс [музыка уджъяс](/activities/music/) лист бокын.
+3. **Серпасъяс видлӧм.** Фотоальбом либӧ семья серпасъяс [Photo Pairs](/games/photo-pairs/) ворсанінын, серпасъяссӧ тыдаланаӧн кольӧмӧн, вермасны нуӧдны лӧнь сёрни.
+4. **Дженьыдик ветлӧм.** Сад йӧрӧн, уличаӧн либӧ коридорӧн пемыдтӧдз.
+5. **Ӧтлаын сёян да юан.** Прӧстӧй, шоныд да кофеинтӧм сёян пызан сайын.
+6. **Лӧнь лӧсявтӧм.** [Picture Pairs](/games/picture-pairs/) нёль плиткаӧн да тыдалана серпасъясӧн кокни заводитны да кокни дугдыны.
+7. **Серпас гижӧм.** [Coloring](/games/coloring/) экран вылын либӧ лист бокын, помавнытӧг мог.
+8. **Видлӧм да сёрнитӧм.** [Conversation Cards](/games/conversation-cards/) сетӧны серпас да восьса юалӧм. Дзик видлӧмыс тырмымӧн.
+9. **Лов шыӧдчӧм.** [Calm Breathing](/games/calm-breathing/) — тайӧ ньӧжйӧ, лӧнь шоччыштӧм, кодӧс ті ачыныд заводитанныд да дугданныд.
+10. **Ки уджъяс.** Кизьяс либӧ носкияс бӧрйӧм, небыд одеяло чышкалӧм либӧ тӧдса тор кутӧм. Унджык [сенсорнӧй уджъяс](/activities/sensory/) лист бокын.
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Рытнас эн вӧчӧй выль ворсӧмъяс, уна йӧзӧн петӧмъяс да сідзторъяс, мыйысь ковмас уна казьтылӧм либӧ тӧдмавны. Найӧс видзӧй асыв вылӧ.
 
-## What should I do when restlessness starts?
+## Мый вӧчны, кор беспокойство заводитчӧ?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Видзӧдлӧй лӧньӧн, сетӧй шанмӧм да ньӧжйӧ вежӧй удж. NIA советуйтӧ сёрнитны лӧньӧн, кывзыны мортлысь повзьӧмсӧ, оз венны, шаньмӧдны, мый сійӧ дорын лӧнь, да ковмас кӧ, ньӧжйӧ инмыны. Сэсся видлӧй мукӧдтор: сёян, юан, музыка либӧ ветлӧм.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer’s Association советуйтӧ шуны шуам: «Тані ті дорын лӧнь» да «Ме гӧгӧрвоя, мый тіӧн шогсьӧны», сідзжӧ содтыны югӧр, вӧчны ставсӧ ньӧжйӧджык да чинтыны шум. Эн пондӧй мортӧс сибӧдны, зэв матын лоны либӧ венны сыкиӧд.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Морт кӧ лоӧ лӧгасьӧм, NIA советуйтӧ овны лӧнь ылынын, дзикӧдз сійӧ лӧньмӧ. Экстреннӧй случайын шуӧй 112ӧ да висьтавӧй, мый мортын эм деменция.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Миян [сёрнитан ногъяс](/caregiving/communication-tips/) да [мый вӧчны, кор сійӧ шуӧ «оз»](/caregiving/when-they-say-no/) лист бокъясын эм унджык лӧнь кывъяс йылысь.
 
-## How do I find the triggers?
+## Кыдзи аддзыны, мый вӧчӧ беспокойство?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Гижӧй дженьыдик пасйӧд ӧти-кык недель чӧж. Alzheimer’s Association советуйтӧ пасйыны, мый лоис рытнас дзугсьӧм водзын, медым аддзыны помкаяссӧ. Гижӧй, кор беспокойство заводитчис, мый лоис сійӧ часӧ, узьӧм, сёян да юан, гӧсьтъяс, шум да югӧр. Нуӧй гижӧдсӧ врач дорӧ. NIA пасйӧ, мый оланног вежсьӧм гижӧмыс отсалӧ и видзысьяслы, и врачъяслы казявны кадколаст.
 
-## When should I call a doctor about sundowning?
+## Кор колӧ шуны врачлы рытнас дзугсьӧм йылысь?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Йитчӧй мортлысь врачкӧд, беспокойство кӧ выль, дзик пыр ёнмис либӧ сыкӧд мунӧ мукӧд вежсьӧм. NIA шуӧ, мый дзик пыр либӧ зэв чожа вежсьӧм оланногын, торйӧн кӧ инфекция бӧрын либӧ лекарство вежӧм бӧрын, колӧ пыр висьтавны врачлы.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Корӧй врачлысь видлавны, мый вермас сьӧкыдмӧдны рытнассӧ. Alzheimer’s Association казьтылӧ дзоньвидзалун йылысь ыбъяс, шуам, пызь-вом вывса инфекция, пызь видзны ог вермыны, кокъяслӧн беспокойство да узян апноэ, да советуйтӧ юавны, кутшӧм кадӧ бурджык юны быд лекарство. NIA лыддьӧ дой, кынӧмлун да лекарство бокся вӧчӧмторъяс либӧ налӧн ӧта-мӧдныс вӧчӧм.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer’s Association шуӧ, мый Альцгеймер болезнькӧд йитчӧм узян ыбъяс дырйи чӧжӧн бурджык лекарствотӧм отсӧгъяс, а рытын беспокойство понда лекарство колӧ видлавны сӧмын, кор мукӧдыс оз отсав, лыддьӧм бӧрын риск да бур. Тайӧ решение колӧ тӧдмавны врачкӧд. Эн заводитӧй, эн дугдӧй да эн вежӧй некутшӧм лекарство, узян либӧ добавка врач отсӧгтӧг.
 
-## How do I get through the evenings myself?
+## Кыдзи ачым босьтны рытнассӧ?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Рытнас кад вермас лоны медсьӧкыда видзысьлы. Позьӧ кӧ, корӧй семьяысь мортлысь, ёртлысь либӧ отсасьысьысь отсӧг рытнас мыйкӧ лунӧ, кӧть и час чӧж. Миян [видзысьлы ас видзӧм](/caregiving/caregiver-self-care/) лист бокын эм отсӧг могъяс да Alzheimer’s Association лысь 24/7 бесплатно отсӧг линия.

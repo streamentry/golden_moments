@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Fatel wari gwariow gans nebonan gans demens"
+seoTitle: "Gwariow gans nebonan ow powes gans demens"
+description: "Gid praktykal rag gwari gans nebonan ow powes gans demens: pareusi, spys, heb ewnhe, esya gwariow, ha godhvos pana dermyn dhe hedhi."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Gwrewgh gwari avel termyn war-barth, a-der previ. Dewisewgh termyn kosel y’n
+  jydh, esedhowgh a-denewen yn stevell gosel, ha profyewgh unn gwari sempel.
+  Gesewgh dhe’n den settya an spys, na wrewgh ewnhe kammgemeryansow dibreder,
+  gwrewgh an gwari esya orth an kynsa arwodh a dheskans, ha treylyewgh imajys
+  dhe gowsel. Hedhewgh ha’n gwari hwath ow plegya. Diwedha a-varr, po mires
+  war-barth yn sempel, yw sewyans da.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "An amkan yw lowender ha keskolm, a-der gorfenna po kavos gorthgibow ewn."
+  - "Pareusowgh kyns dalleth: stevell gosel, golow da, gwedrow ha devisyow klewans yn le, pellwolok marow, unn gwari parys."
+  - "Na wrewgh ewnhe kammgemeryansow dibreder. Leverewgh \"Gwren ni assaya yndella\" po pesyewgh yn-rag."
+  - "Gwrewgh gwari esya kyns bos frethter ow tevi: le imajys, le dewisow, imajys gesys gweladow."
+  - "Usyewgh imajys avel dalleth rag hwedhlow gans \"Leverewgh dhymm a-dro dhe...\" yn le \"A borthowgh kov a...?\""
+  - "Hedhewgh orth an kynsa arwodhyow a skuys po trobolder. Hedhi a-varr yw sewenyans, a-der falyans."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Pes termyn y talvien ni gwari?"
+    a: "Nyns eus hirder ewn. Rag lies den, nebes mynysennow yw lowr, ha nebes dydhyow unn dro yw lowr. Mirewgh orth an den yn le an clock, ha hedhewgh ha ev hwath ow heveli kosel."
+  - q: "A dalvien vy gasa dhodho gwaynya po gul kepar na welav kammgemeryansow?"
+    a: "Yn gwari war-barth heb fardel, nyns eus travyth dhe waynya po dhe gelli. Mar ny dhre an kammgemeryans an den, gesewgh ev dhe bassya. Mars yw ev ow heveli troblys ganso, gwrewgh gweres yn kosel po gwrewgh an gwari esya heb y dreylya a-rag."
+  - q: "Pandr’a hwer mar mynna ev mires orthiv ow hwari?"
+    a: "Henn yw da lowr. An National Institute on Aging a brof gasa den dhe mires yn sempel mar kwra ev lowenhe moy yndella. Kowsowgh a-dro dhe’n pyth a welowgh ha gwrewgh y alwhedh dhe byntya po dewis pan vynno."
+  - q: "Yw an gwariow ma fordh dhe brevi kov?"
+    a: "Na. Agan gwariow yw gwriansow sempel war-barth rag lowender ha kesklapp. Nyns yns i previ kov, ny wrons i musura travyth, ha nyns yns i dyghtyans rag demens."
+  - q: "Py gwari yw an gwella dhe dhalleth ganso?"
+    a: "Dallethowgh gans an gwari sempelha a omdhesedh dhe’n den. Picture Pairs gans 4 prileghen hag imajys gesys gweladow, po Find the Same gans 2 dhewis, yw dallethvaow klor. Conversation Cards a ober yn ta mar kwra an den lowenhe moy ow kowsel es ow tappya."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Ny hevel gwari da gans nebonan ow powes gans demens kepar ha kesstrif. Ev a hevel kepar ha dew dhen owth esedha ogas, ow poyntya orth imajys, ow hwerthin orth lavar, hag ow kowsel a-dro dhe byth a dheu yn-rag. An gwari yw resen yn sempel rag spena termyn war-barth.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+An gid ma a gews a-dro dhe fatel bareusi, fatel settya spys gwari, pyth dhe leverel pan wra neppyth mos “kamm”, fatel gul pub gwari esya po nebes moy kales, fatel y dreylya dhe gowsel, ha fatel godhvos pana dermyn dhe hedhi. Ev a ober rag agan [gwariow](/games/) ha rag kardys, mildamow ha gwariow bord eus genowgh seulabrys.
 
-## What is the best way to play a game with someone who has dementia?
+## Pyth yw an fordh wella dhe wari gwari gans nebonan ow powes gans demens?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Fogellowgh war lowender, a-der sewena. Henn yw an kusul kresel a’n [kusulyans Alzheimer’s Association a-dro dhe wriansow](https://www.alz.org/help-support/caregiving/daily-care/activities): drehevowgh war an sleynethow a’s teves an den hwath, gweresowgh dhedha dalleth, gorfennewgh an rannow kales agas honan, ha na wrewgh keredhi po ewnhe gwriansow dibreder.
 
-In practice that means:
+Yn praktis, henn a styr:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Esedhowgh rybdho, a-der a-dal.** A-denewen, hwi a yll gweles an skrin po’n voos war-barth, ha gweres a hevel kepar ha kesober yn le gorwolok.
+- **Profyewgh unn gwari orth unn termyn.** Rol a dhewisow a yll heveli kepar ha previ kyns bos dallethys travyth.
+- **Sewyewgh aga ledya.** Mars yns i ow mynnes tappya an imajys y’ga fordh aga honan, kowsel a-dro dhe unn imaj unnek mynysen, po hedhi wosa dew dro, henn yw an gwari hedhyw.
+- **Reknowgh an euryow da, a-der an resegvaow gorfennys.** Minhwerthin, hwedhel po hanter-our kosel yw an sewyans mayth owgh hwi ow hwilas.
 
-## How do I set up before we start?
+## Fatel dhyllav vy pareusi kyns dalleth?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Nebes mynysennow a bareusi a lett an brassa rann a’n frethter a wor tus war an gwari y honan.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Dewisewgh aga gwella termyn a’n jydh.** An [kusulyans NIA a-dro dhe aswiwa gwriansow](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a brof towlenna gwriansow rag an termyn a’n jydh pan yw an den y wella. Rag lies den henn yw kres an myttin. Diwettha dohajydh yw kalessa yn fenowgh; gwrewgh mires orth [gwriansow kosel diwettha dohajydh](/caregiving/late-day-restlessness/).
+2. **Gwrewgh an stevell dhe vos kosel.** Tewlhewgh marow an bellwolok ha’n radyo ha degewgh an daras mar kyllowgh. An [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gomend finwetha tros ha distraksyon kyns hwi dhe assaya kowsel.
+3. **Gwrewgh sure a es y’n kynsa le.** Diwes ogas, mos dhe’n bargen-dhyghtya kyns dalleth, kador es, ha gwedrow ha devisyow klewans yn le.
+4. **Golowewgh an spas yn ta.** Golow splann, kompes heb golowder war an skrin a wra imajys esya dhe weles.
+5. **Gwrewgh an gwari parys kyns esedha.** Ygorowgh ev, dewisowgh an settyansow ha settyowgh an nivel-son agas honan. Ena treylyewgh an skrin troha dhedha. Rag profyansow leghen, gwrewgh mires orth [settya leghen po pellgowser](/caregiving/tablets-and-screens/).
+6. **Skoodhyowgh an devis.** Stand po kas a syns an leghen yn-bann a styr nag eus odhom dhe nebonan y synsi, hag yw esya dhe byntya.
 
-## How do I invite them without pressure?
+## Fatel dhyllav vy aga gelwel heb gwask?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Gwrewgh an alwedh heb boes hag es dhe wrthod. Nebes lavarow a wra oberi yn ta yn fenowgh:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "My a gavas nebes imajys lowarth. A vynnowgh hwi aga mires genev vy?"
+- "A yllowgh hwi ow gweres gans an mildam ma? My yw strolys."
+- "A vynnowgh hwi an bleujyow po’n ydhyn hedhyw?" (dewis a dhew yw esya es govyn apert)
+- "Yth esov ow kul kartenn rag agas hwoer. Py liw a dalvia hemma bos?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+An Alzheimer’s Association a brof displegya porpos gwrians, kepar ha gul kartenn rag koweth, drefen bos reson ow ri styr dhodho. Govyn gweres a ober ynwedh drefen bos ev ow gasa an den dhe omglywes devriadow.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Mars yns i ow leverel na, degemmerowgh henna. Assayowgh arta diwettha po profyewgh neppyth aral. Agan gid war [pyth dhe wul pan leverons i na](/caregiving/when-they-say-no/) a a pella.
 
-## How long should a game last, and how fast should we go?
+## Pes termyn y talvia gwari pesya, ha pes spys y talvien ni y wul?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Gesewgh dhe’n den settya an spys, ha towlennewgh rag esedhogow berr. Nyns eus hirder perfydh, prevys gans dustuni, rag gwari war-barth. Dew dhe bymp mynysen kosel a yll bos gwrians dien.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Gortewgh moy es dell hevel naturel.** An NIA a gusul gasa moy a dermyn rag den dhe worthyp, hag assaya heb y drestra. Reknowgh bys yn deg y’gas brys kyns gweres.
+- **Unn kamm orth unn termyn.** Rewgh unn danvonadow berr, sempel ("Tappyowgh imaj"), ena gortewgh. Diskwedhewgh yn le displegya: poyntyowgh dhe le may tal tappya.
+- **Powesewgh yn rydh.** Mar hedhons i rag kowsel a-dro dhe imaj, an gwari a yll gortos. Nyns eus odhom a fyski.
+- **Gesewgh dhedha mires.** An NIA a verk nebes tus a vynn mires, ha henn yw dewis da.
 
-## Should I correct wrong answers?
+## A dalvien vy ewnhe gorthgibow kamm?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Na. Ewnhe nebonan yn klor arta hag arta a lever dhedha bos ev ow falyas, kynth hwi a vynn yn ta. An Alzheimer’s Association a gusul na wrewgh keredhi po ewnhe gwriansow dibreder. Yn gwari, ogas pub kammgemeryans yw dibreder.
 
-| Instead of | Try |
+| Yn le | Assayowgh |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Na, henn yw kamm." | "Gwren ni assaya yndella." (ensampel a re an NIA) |
+| "Nyns yw henna par. Mirewgh arta." | Na leverewgh travyth ha kemerowgh an nessa tro, po "O, an dhew na yw rudh." |
+| "A borthowgh kov piw yw hemma?" | "Leverewgh dhymm a-dro dhe’n imaj ma." |
+| "Hwi a wrug henna seulabrys." | "Henn yw onan da. Gwren ni y wul arta." |
+| "Deus yn-rag, hwi a wor hemma." | "A vynnowgh hwi my dhe dhiskwedhes an diwedh?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Mar kwra kammgemeryans y drebla yn kler, gweresowgh yn kosel. Poyntyowgh dhe’n imaj ewn, kemerowgh tro agas honan, po gwrewgh an gwari esya an nessa tro. Mar a lavar dhe benn kamm mes hweg, hwerthowgh war-barth. Aga fenn a yll bos gwell.
 
-## How do I make a game easier or harder?
+## Fatel dhyllav vy gul gwari esya po nebes moy kales?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Aswiwowgh an gwari dhe’n den y’n jydh na, a-der dhe label a nivel. An keth den a yll bos edhom dhodho a versyon sempla y’n gorthugher es y’n myttin. Kynsa profyans an NIA yw dhe dhesedha an gwrians dhe’n pyth a yll an den gul ha surhe bos ev ow kul yn ta.
 
-| Game | Make it easier | Make it a little harder |
+| Gwari | Gul ev esya | Gul ev nebes moy kales |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Dallethowgh gans 4 prileghen ha gesowgh imajys gweladow | Moy prileghennow, po kudh imajys mar kwra henna omglewes es |
+| [Find the Same](/games/find-the-same/) | 2 dhewis | Bys yn 4 dewis |
+| [Sort Together](/games/sort-together/) | Hwi a syns an imaj, ev a bynt dhe’n gisten | Ev a dapp an imaj ha’n gisten y honan |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 darn, kowsowgh a-dro dhe’n imaj dien kyns | 9 darn |
+| [Finish the Saying](/games/finish-the-saying/) | Diskwedhowgh an diwedh, ena leverewgh ev war-barth | Gesowgh dhodho leverel an diwedh kyns tappya |
+| [Word Search](/games/word-search/) | Pryntyowgh ev, hwilewgh unn ger war-barth, poyntyowgh dh’y gynsa lytheren | Gesowgh dhodho dewis an nessa ger dhe hwilas |
+| [Coloring](/games/coloring/) | Hwi a dhewis dew liw, ev a dhewis ynter anedha | Ev a dhewis oll an liwyow |
+| [Conversation Cards](/games/conversation-cards/) | Mirewgh orth an imaj war-barth yn sempel | Usyewgh an govynnow apert war an garten |
+| [Photo Pairs](/games/photo-pairs/) | Nebes skeusennyow teylu pur gar | Keworrowgh moy skeusennyow |
+| [Picture Bingo](/games/picture-bingo/) | Gwereser a esedh gans pub gwarior | An warioryon a verk aga hardys aga honan |
+| [Calm Breathing](/games/calm-breathing/) | Esedhowgh ha mirewgh war-barth yn sempel | Anedhowgh war-barth yn lent |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Arwodhyow bos an gwari re gales: powesow hir a hevel prederus yn le prederi, leverel arta hag arta "Ny allav", herdhya an devis dhe-ves, po kammgemeryansow a’s trebl. Arwodhyow y hallsa bos re es: diflasans, po leverel bos ev kepar ha tra rag fleghes. Mar hwer henna, gordhyewgh ev ha treylyewgh dhe neppyth a omglew avel tra rag tevesik, kepar ha hwilas ger, mildam a skeusen gwir, po kowsel a-dro dhe imaj a’ga ober koth.
 
-## How do I turn a game into a conversation?
+## Fatel dhyllav vy treylya gwari dhe gowsel?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Usyewgh pub imaj avel galow dhe gowsel, ha gwrewgh travyth a leverons avel gorthyp da. Rag lies teylu, henn yw an rann wella a wari.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Govynnowgh govynnow apert, heb gorthyp kamm.** "Pyth a welowgh hwi?" "Py onan yw da genowgh?" "Leverewgh dhymm a-dro dhe gegin kepar ha hemma."
+- **Kevrennowgh yn kynsa.** "Ow mamm-wynn a’n jevo ki kepar ha hemma." Agas hwedhel a wra esya dhedha kevrenna onan.
+- **Sewyewgh an treylyans.** Mar kwra imaj a garr ledya dhe hwedhel a-dro dhe viaj war an fordh, an hwedhel yw an gwrians. Gesewgh an gwari ow powes.
+- **Na wrewgh gwiria an fydhyow.** Yn kovheans, kesklapp plesont yw moy a vri es manylyon ewn. Mar treyl an hwedhel a-dhia an termyn kyns, kevrewgh an versyon nowydh.
+- **Usyewgh an govynnow parys.** [Finish the Saying](/games/finish-the-saying/) a sew pub lavar gans profyans rag kowsel, ha [Conversation Cards](/games/conversation-cards/) yw desinys yn ewn rag hemma. [Photo Pairs](/games/photo-pairs/) a wra devnydh a’gas skeusennyow teylu agas honan, hag yn fenowgh i a dhre an hwedhlow moyha rych.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Moy tybyansow yw yn agan gidys a [wriansow kovheans](/activities/reminiscence/) ha [profyansow kesklapp](/caregiving/communication-tips/).
 
-## When should we stop?
+## Pana dermyn y talvien ni hedhi?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Hedhewgh orth an kynsa arwodhyow a skuys po trobolder, hag yn gwella nebes kyns. An Alzheimer’s Association a gusul hedhi po chanjya gwrians pan wra attendyans diwedha po frethter sevel.
 
-Watch for:
+Mirewgh rag:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- digeni, kodha yn-rag po lagasow ow treylya dhe-ves a’n skrin;
+- gwiga, sevel yn-bann, po govyn mos;
+- hanasa, gorthgibow berr, po "Nyns ov vy da orth hemma";
+- tappya heb towl po herdhya an devis dhe-ves;
+- dagrow, sorrder, po chanj kildro yn imaj an brys.
 
-How to stop well:
+Fatel hedhi yn ta:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Diwedhowgh war neppyth es.** Unn kesson diwettha a yllons i gul, po unn imaj diwettha dhe vosyas.
+- **Gwrewgh ev a-dro dhywgh hwi.** "Res yw dhymm hanafas a de. A vynnowgh hwi hedhi omma?" a omwit a bub arwodh a wre i yn kamm.
+- **Treylyowgh dhe neppyth korforek po kosel.** Kerdh berr, boes byghan, plegya lyenn po ilow.
+- **Leverewgh neppyth toemm.** "Da o genev gul henna genowgh hwi." Nyns eus gormel rag "gul yn ewn", saw lowender y’n termyn war-barth.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Diwedha a-varr, chanjya towlennow, po gasa an gwari ha’gas esedha war-barth yn sempel, oll yw sewyansow da.
 
-## Can we play in a group or over a video call?
+## A yllyn ni gwari yn bagas po dres galw gwydhyow?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ya, gans nebes pareusi moy. Yn bagas, synsowgh ev dhe nebes tus, esedhowgh gweresoryon ryb pubonan a’n jeves edhom dhedha, ha dewisowgh gwari gans fog kler war-barth. [Picture Bingo](/games/picture-bingo/) a brovi kardys dhe bryntya ha gelwel war an skrin rag bagasow. Gwrewgh mires orth [gwriansow rag bagasow yn trevas gwith](/activities/care-home-groups/) rag moy.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Dres galw gwydhyow, an den war an galw a yll deskrifa imaj ha nebonan y’n stevell a yll poyntya ha tappya. Gwrewgh an galwyow berr ha koth. Agan gid dhe [galwyow pellgowser ha gwydhyow](/activities/phone-and-video-calls/) a’n jeves moy profyansow.
 
-## What if a game just isn't working?
+## Pyth mar ny wra gwari oberi vytholl?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Nebes dydhyow ny wra travyth dos yn ta, ha ny yw henna dastewydnyans warnowgh hwi po warnedha i. Gorryowgh an gwari a-denewen hag assayowgh arta orth termyn aral a’n jydh, gwari aral, po gwari vyth. Lies gwrians da nyns eus kevrenn dhodho gans skrinys: ilow, plegya lyennow, mires dre lyver skeusennow, po kerdh berr. Gwrewgh mires orth agan [tybyansow gwrians](/activities/ideas/) rag moy.

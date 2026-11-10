@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "A wra gwariow ympynnyon lettya demenyans?"
+seoTitle: "Gwariow ympynnyon ha demenyans: an dustuni"
+description: "An pyth a lever hwithrans a-dro dhe wariow ympynnyon ha demenyans: skoodhyans koniethek, trenyans dre jynn-amontya, previ ACTIVE ha kas FTC Lumosity, displegys yn sempel."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ny veu diskwedhys hwath gwari ympynnyon vyth dhe lettya demenyans. Trenyans
+  ympynnyon dre jynn-amontya a wellha dre vras an oberennow a brakt tus. Unn
+  studhyans a’n previ ACTIVE a junyas trenyans tooth speshyal ha
+  esedhogow-kenertha gans le a dhiagnosow demenyans dres 20 bledhen, kavas
+  kul. Rag tus a vew gans demenyans seulabrys, skoodhyans koniethek yn bagasow
+  a dhiskwa lesow byghan, berrdermyn. An gwella yw enjoya gwariow rag didhan ha
+  kowethyans.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Studhyansow trenyans ympynnyon a dhiskwa tus ow tos gwell orth an oberennow a braktyons, gans le dustuni a dremen dhe vewnans pub dedh."
+  - "Y’n previ ACTIVE, ny wrug marnas tus a wrug trenyans tooth speshyal ha esedhogow-kenertha kavos le a dhiagnosow demenyans dres 20 bledhen. Ny wrug trenyans tooth heb esedhogow-kenertha, na trenyans kov na trenyans resna diskwedhes hemma."
+  - "Yn 2016, gwrier Lumosity a beas $2 milvil dhe worfenna kuhudhansow FTC a leveris nag esa dhedha an skiens rag kewsel a-dro dhe dhala demenyans."
+  - "Rag tus gans demenyans skav dhe gres, bagasow skoodhyans koniethek a dhiskwa lesow byghan, berrdermyn rag prederi ha lesow klerra rag keskomunyans ha kesoberi socyal."
+  - "Gwariow Golden Moments yw rag enjoyans ha termyn war-barth. Nyns yns dyghtyans ha ny wrons lettya po lenthe demenyans."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "A wra gwariow ympynnyon lettya Alzheimer?"
+    a: "Ny veu prevys hwath gwari ympynnyon vyth dhe lettya Alzheimer po demenyans aral. An National Institute on Aging a lever nag eus dustuni lowr bos an appys kenwerthel rag trenyans ympynnyon gans an keth effeythow a welir yn prevyon hwithrans. Gwariow a yll hwath bos fordh dhidhanus dhe dremena termyn."
+  - q: "Pyth a gavas an previ ACTIVE a-dro dhe drenyans tooth ha demenyans?"
+    a: "Dielvenyans 2026 a junyas omgemeryoryon ACTIVE gans kovadhow Medicare dres 20 bledhen. Tus a wrug trenyans tooth argerdh ha’n lyha unn esedhog-kenertha a’n jeva kevradh isella a dhemenyans diagnosys ages an bagas heb trenyans. Ny wrug trenyans tooth heb esedhogow-kenertha, na trenyans kov po resna, diskwedhes effeyth posek."
+  - q: "Yw gwariow ha tosow da rag nebonan a vew gans demenyans seulabrys?"
+    a: "Ymons, mars yw an person orth aga enjoya. Skoodhyans koniethek yn bagas, hag a gomprehend gwariow geryow, tosow, ilow ha kesklapp, a dhiskwa lesow byghan, berrdermyn rag prederi ha lesow klerra rag keskomunyans ha kesoberi socyal. Enjoyans, a-der sewyans previ, yw an amkan ewn."
+  - q: "Prag y feu Lumosity spaldys gans an FTC?"
+    a: "Yn 2016, an Federal Trade Commission a guhudhsa Lumos Labs a wrug kewsel a-dro dh’y wariow, y’ga mysk dala leheans kelmys dhe oos ha demenyans, heb an skiens dh’aga skoodhya. An kowethyans a akordyas dhe bea $2 milvil hag dhe gael dustuni skiensel fydhyadow kyns gul kewsel a’n par na y’n termyn a dheu."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Yma gwariow ympynnyon yn pub le, ha lies anedha a ambos dhe witha agas brys yowynk. Mars owgh hwi ow kul gwith a nebonan a vew gans demenyans, po mars owgh hwi prederus a-dro dh’agas kov hwi, naturel yw govyn mar kyll aga gwari gweres. Ottomma an pyth a dhiskwa an hwithrans yn hwir, y’ga mysk an rannow ow kelwel govenek ha’n rannow nag yns.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Kedhlow ollgemmyn yw hemma, nyns yw kusul medhegel. Gwrewgh mires orth agan [gwarnyans medhegel](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## A wra gwariow ympynnyon lettya demenyans?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ny veu prevys hwath gwari ympynnyon vyth dhe lettya demenyans. An National Institute on Aging (NIA) a gusul tus dhe vos war a gevrinansow y hall gwariow jynn-amontya hag warlinen gwellhe kov, hag a lever nag eus dustuni lowr bos app kenwerthel vyth rag trenyans ympynnyon gans an keth effeyth avel an trenyans prevys yn prevyon klinyek ([NIA a-dro dhe lettya Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Ny wra hemma gwariow dhe vos heb les. Y styr aga bri bos yn enjoyans, kowethyans ha meneghek, a-der gwitha nebonan a dhemenyans.
 
-## What is "near transfer", and why does it matter?
+## Pyth yw « treusporth ogas », ha prag yth yw posek?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Pan braktydh oberenn, dre vras hwi a dheu ha bos gwell orth an oberenn na. Hwithroryon a elow hemma effeyth trenyans. An govyn kales yw mar kwra an gwellheans **treusperthi** dhe daklow erel: dhe oberennow haval (treusporth ogas) po dhe vewnans pub dedh, kepar ha perthi kov a apontyansow po dyghtya arghans (treusporth pell).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Daswel posek yn 2016 a viras orth an studhyansow a gomendyas kowethyansow trenyans ympynnyon avel aga dustuni gwella. Ev a gavas dustuni efan bos tus ow tos gwell orth an oberennow trenys, le dustuni yth yns ow tos gwell orth oberennow ogas, ha nebes dustuni bos trenyans ow kwellhe prederi pub dedh. Lies a’n studhyansow o gans kudynnow desin ynwedh, a wrug bos anpossybyl dos dhe gasulyansow sur ([Simons ha kesoberoryon, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Pyth a lever daswelyow a-dro dhe drenyans ympynnyon dre jynn-amontya?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Daswelyow Cochrane, a gesun an prevyon gwella kavadow, a viras orth trenyans jynn-amontys a bes dres 12 seythen po moy:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Tevesikyon yagh 65 bloodh po kottha:** eth previ gans 1,183 den. An dustuni o isel po pur isel y gwalita. Y hall bos les byghan a-dhistowgh wosa trenyans, heb dustuni kler y pes ([daswel Cochrane, tevesikyon kottha yagh](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Tus gans fowt koniethek skav:** eth previ gans 660 den. Ny dherivas previ vyth mar teuth tus dhe dhisplegya demenyans, hag o an dustuni re wann dhe denna kasulyansow ([daswel Cochrane, fowt koniethek skav](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Pyth a gavas an previ ACTIVE?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE yw previ bras yn SU a dhallathas yn 1998 gans 2,802 tevesik 65 bloodh po kottha a driga yn anserghek hag na’n jevo kudynnow kov po prederi posek. Tus a veu ordenys dre jons dhe onan a dri eghen trenyans yn bagas byghan (tooth argerdh, kov, po resna) po dhe vagas heb kestav. Yth o trenyans bys dhe dheg esedhog dres pymp po hwegh seythen. Nebes tus a worfenna brassa rann an esedhogow a veu profys ynwedh yn arhap **esedhogow-kenertha** a-dro dhe unn vledhen ha tri bledhen a-wosa.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+An trenyans tooth a gomprehendys aswon ha dyghtya kedhlow gweladow yn polsyow berrha ha berrha, orth nivel a janjyas dell wellhas tus.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+Yn 2026, hwithroryon a junyas 2,021 omgemeror gans aga hovadhow Medicare dres 20 bledhen ([dielvenyans 20 bledhen ACTIVE](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Ottomma yn ewn an pyth a gavsons:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Trenyans tooth ha’n lyha unn esedhog-kenertha:** kevradh isella a dhemenyans diagnosys ages an bagas heb kestav (kevradh peryl 0.75, hag a styr a-dro dhe 25% kevradh isella).
+- **Trenyans tooth heb esedhogow-kenertha:** ny veu kevradh isella.
+- **Trenyans kov po resna:** ny veu effeyth posek war dhiagnosow demenyans.
+- **Pub bagas trenyans oll kehevelys gans an bagas heb kestav:** tuedh troha kevradhow isella, mes nyns o posek yn statystek.
 
-### The limits of this finding
+### Finwethow an kavas ma
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Y kwra hemma omdhesedha dhe **unn eghen speshyal a drenyans tooth gans hembrenkyans hag esedhogow-kenertha**, a-der gwariow ympynnyon yn ollgemmyn.
+- An sewyans posek a dheuth a **isvagas** (tus a worfenna brassa rann an kynsa esedhogow hag a veu profys esedhogow-kenertha), a-der an bagas tooth oll.
+- Demenyans a veu musurys dre **kodyow diagnos yn kravow Medicare**, a-der previ pub person. A-dro dhe’n peswora rann a’n omgemeryoryon derowel a veu gesys yn-mes drefen aga bos omrolys yn Medicare Advantage, nag eus dhedha kovadhow krav leun.
+- Ny’n jevo dhe’n omgemeryoryon kudynnow prederi posek pan dhallethsons. Ny lever an sewyansow travyth a-dro dhe wariow rag tus **a vew gans demenyans seulabrys**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Sewyans didheurek yw, hag a dhefyth moy hwithrans. Nyns yw dustuni bos app vyth ow lettya demenyans.
 
-## What did the FTC say about Lumosity?
+## Pyth a leveris an FTC a-dro dhe Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Mis Genver 2016, Lumos Labs, gwrier Lumosity, a akordyas dhe bea $2 milvil dhe worfenna kuhudhansow argemynans toellyek gans an Federal Trade Commission. An FTC a leveris bos an kowethyans ow kewsel, heb skiens lowr, y hallsa aga gwariow gwellhe ober orth ober ha skol, hag y hallsens dala leheans kelmys dhe oos, fowt koniethek skav, demenyans hag Alzheimer. An arghadow a ergh dhe’n kowethyans kavos dustuni skiensel galloes ha fydhyadow kyns gul kewsel a’n par na y’n termyn a dheu ([dyllans gwask an FTC](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+An dyskans rag teyluyow: bedhewgh skeusek a wari, app po towlen vyth a ambos gwitha kov po lettya demenyans.
 
-## Can games help someone who already has dementia?
+## A yll gwariow gweres nebonan a vew gans demenyans seulabrys?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+I a yll keworra dhe jydh da, hag yma bri meur dhe hemma. An fordh studhys gwella yw **skoodhyans koniethek**: gwriansow bagas didhanus kepar ha kesklapp, kovheans, gwariow geryow, tosow hag ilow, dre vras yn bagas byghan ledys gans hembrenkyas.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Daswel Cochrane 2023 a 37 previ gans 2,766 den gans demenyans skav dhe gres a gavas ([daswel Cochrane a skoodhyans koniethek](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **les byghan, berrdermyn** war brevyow prederi (dustuni a walita gres);
+- **gwellheansow klinyek perthyasek yn keskomunyans ha kesoberi socyal** (dustuni a walita ughel, dhyworth niver byghanna a studhyansow);
+- **lesow byghan** rag kwalita bewnans, imaj hag omdhegyans.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Dre vras y feu lesow musurys a-dhistowgh wosa towlow a-dro dhe dheg seythen, ha nebes studhyans a viras mar pesons. Skoodhyans koniethek yw towlen bagas restrys, ytho ny yllir gul an sewyansow ma yn awtomatek rag den ow kwari y honan war leghen.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+An Kessedhek Lancet 2024 a lever ynwedh bos towlow gwrians posek rag tus a vew gans demenyans, rag gwitha enjoyans ha porpos ([Kessedhek Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Rag pyth yma les dhe wariow yn hwir?
 
-When chosen well, games can offer:
+Pan vons dewisys yn ta, gwariow a yll profya:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Enjoyans.** Hanter-our dhidhanus yw talvosoghel y honan.
+- **Keskolm.** Gwari a-denewen a re dhywgh neppyth es dhe gevrenna pan yw kales kesklappya. Gwrewgh mires orth [fatell wari war-barth](/caregiving/how-to-play-together/).
+- **Meneghek.** Gwrians aswonys orth an keth termyn pub dedh a yll dri konfort.
+- **Fydhyans.** Gwriansow a dhesedh dhe’n pyth a yll den hwath gul yn ta a’s gasa omglewes galloesek, heb previ.
+- **Kesklapp.** Skeusen po lavar aswonys a yll igeri hwedhel. Assayewgh [karten-now kesklapp](/games/conversation-cards/) po [gorfenna an lavar](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+An pyth dhe omwitha: termynoryon, scorow, kadonyow ha tra vyth a glew kepar ha previ kov. Mars yw an person serrys, hedhwgh. Diwedha a-varr, po sempel esedha war-barth, yw sewyans da. Yma rol-checkya y’gan gidyans a-dro dhe [dewis appys ha gwariow](/caregiving/choosing-apps-and-games/).
 
-## Where Golden Moments fits
+## Le mayth omdesedh Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Gwariow Golden Moments, kepar ha [koplow skeusen](/games/picture-pairs/), [tos skeusen](/games/picture-puzzle/) ha [hwilas geryow yn lytherennow bras](/games/word-search/), yw gwrys rag enjoyans ha termyn war-barth. Nyns eus dhedha glok na scor. **Nyns** yns dyghtyans, ha ny wrons **lettya na lenthe** demenyans. Gwell yw genen leverel hemma yn kler ages ambos neppyth na yll gwari vyth delivra.
 
-## Talk with a doctor
+## Kowsowgh gans medhek
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Mars owgh hwi prederus a-dro dhe janjyow kov ynowgh hwi agas honan po yn nebonan a withowgh, gwrewgh mos dhe vedhek a-der fydhya yn app. Medhek a yll hwilas achesonow y hyllir dyghtya ha kowses a-dro dhe’n gwriansow gans an dustuni gwella, kepar ha dyghtya gwaskedh goes ha checkya klewans. Gwrewgh mires orth [A yllir lettya demenyans?](/brain-health/can-dementia-be-prevented/) rag moy. Rag kemyskans tromm po chanjyow tromm erel, gwrewgh kavos gweres medhegel a-dhistowgh.

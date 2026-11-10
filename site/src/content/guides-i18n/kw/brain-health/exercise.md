@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Omhevyans ha yeghes an impynyon: pyth a dhiskwedh hwithrans"
+seoTitle: "Omhevyans ha demensia: pyth a lever hwithrans"
+description: "Pyth a dhiskwedh hwithrans a-dro dhe omhevyans ha peryl demensia, hag fordhow saw ha lowen rag tus koth ha tus ow byw gans demensia dhe waya."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Studhyansow a gevren oberyans korf reyth gans peryl isel a dhemensia, ha Komissyans Lancet
+  2024 a rol oberyans korf isel avel onan a 14 faktor peryl a yll bos chanjys. Prevyansow ny
+  brovas nag yw omhevyans ow lettya demensia. Gwayans a weres hwath krevder, kompes, imaj ha
+  kosk, ytho kerdhes, omhevyansow yn kador ha donsya a dal bos gwrys drefen aga les aga honan.
+  Kewsewgh gans medhek kyns dalleth neppyth nowydh.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Tus oberyan y’ga horf a’n jeves peryl isel a dhemensia dre vras, mes hemma a dheu yn benna dhyworth studhyansow mires, a-der prevyansow."
+  - "Prevyan omhevyans a bymp bledhen yn tus koth ny gavas dyffrans kler yn sleyneth prederi ynter bagasow."
+  - "Kussulyans CDC rag tus 65 bloodh ha kottha a gomprehend oberyansow aerobek, krevhe kreun ha kompes, ha leverel bos nebes oberyans gwell es travyth."
+  - "Rag tus ow byw gans demensia, gwayans berr, aswonys ha kevrynnys, kepar ha kerdh pub dydh po gwariow yn kador, a vern moy es neb kosten."
+  - "Moy es onan yn peswar a dus koth a goedh pub bledhen, ytho ober kompes ha spas saw a dheu kynsa."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "A yll omhevyans lettya demensia?"
+    a: "Ny yll denvyth ambosya henna. Lies studhyans a gevren bos oberyan gans peryl isel a dhemensia, mes prevyansow klinyek ny dhiskwedhas bos omhevyans ow lettya demensia. Omhevyans a’n jeves lies les erel profys, ytho y tal hwath bos gwrys."
+  - q: "Yw saw rag nebonan ow byw gans demensia dhe omhevyans?"
+    a: "Dre vras, gans nebes towlans. An National Institute on Aging a gomend kewsel gans medhek an person kyns dalleth argerdh nowydh, dewis eskisyow es, profya dowr, ha gwitha esedhogow berr. Hedhewgh mar hevel an person skwith, diantel po anlowen."
+  - q: "Py omhevyansow a yllir aga gul owth esedha?"
+    a: "Dewisyow owth esedha a gomprehend stredhyansow yn kador po yoga kador, tewlel ayrbellen po pel vedhel, tewlel sagh fav, sevel kannasow kowl, stredhya bondys ha jynnow pedal. An re ma yw dewisow da pan yw kerdhes kales."
+  - q: "Pyth mar ny vynn an person gwaya?"
+    a: "Na wrewgh herdhya. Assayewgh arta diwettha, omjunyewgh agas honan, keworrowgh ilow aswonys, po treylyewgh gwayans dhe ober kepar ha skubya po dowrhe lesyow. Kerdh berr dhe’n gist-bost a reck, hag yndella ynwedh esedha war-ves war-barth."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Bos oberyan yw onan a’n usyow studhyes moyha yn hwithrans yeghes an impynyon. Studhyansow a’n kevren gans peryl isel a dhemensia, mes ny brovsons bos omhevyans ow lettya demensia. An pyth yw kler yw bos gwayans ow gweres krevder, kompes, imaj ha kosk orth pub oos. An folen ma a gews a-dro dhe byth a lever an hwithrans, pygemmys oberyans a gomendys rag tus koth, ha fordhow kosel dhe waya gans nebonan ow byw gans demensia.
 
-## Does exercise lower the risk of dementia?
+## A wra omhevyans iselhe peryl demensia?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Hwithrans a dhiskwedh bos tus oberyan y’ga horf le es dell wrons displegya demensia, mes yma finwethow dhe’n dustuni. [Komissyans Lancet 2024 a-dro dhe dhemensia](https://doi.org/10.1016/S0140-6736(24)01296-0) a rol oberyans korf isel avel onan a 14 faktor peryl a yll bos chanjys. War-barth, an 14 faktor ma a gomprehend a-dro dhe 45% a dhemensia dre vras y’n furv y.
 
-Here is what the evidence looks like:
+Ottomma fatel hevel an dustuni:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Studhyansow mires a bynt unn fordh.** Daswel a 58 studhyans, kewsys gans an Komissyans, a gavas bos peryl demensia a-dro dhe 20% isel dhe dus oberyan y’ga horf. An dyffrans brassa o ynter tus o ogas ha heb oberyans vyth ha’n re a wrug dhe’n lyha nebes oberyans.
+- **An kevren a yll mos dhe’n dhew du.** An Komissyans a not bos oberyans isel a yll kressya peryl. Ev a not ynwedh bos chanjyow a-varr y’n ympynnyon a dhemensia, a dhalleth bledhynnyow kyns diagnosans, a yll gul tus le oberyan.
+- **Prevyansow yw le kler.** Yn unn prevyan, 945 den koth, gans oos kres a 78, a veu res dhe bymp bledhen a omhevyans gans gidyer dewweyth pub seythun po dhe vagas kehevel. Orth penn, ny o sleyneth prederi dyffrans yn kler ynter an bagasow. Lies den y’n vagas kehevel o ynwedh oberyan, hag a wra an sewyans kales dhe redya.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) a’n lever yn kler. Ny veu diskwedhys kevren kler ynter oberyans korf ha lettya kleves Alzheimer, ha nyns eus lowr dustuni a brevyansow dhe leverel bos omhevyans ow lettya po ow lenthe ev. Omhevyans a wra hwath iselhe peryl koedh, diglon, diabetez, gwaskedh goos ughel ha strook. Nebes a’n studhow ma yw kevrennys aga honan gans lehe kognitek.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+An kemeryans onest yw gwaya drefen y wra gweres dhywgh omglewes ha gwaya gwell hedhyw. Neb les vyth rag an ympynnyon yw martesen ro dres, a-der ambos.
 
-## How much activity do older adults need?
+## Pygemmys oberyans a res dhe dus koth?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Kussulyans CDC rag tus 65 bloodh ha kottha](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) a gomend tri eghen a oberyans pub seythun:
 
-| Type | Weekly amount | Examples |
+| Eghen | Myns pub seythun | Ensamplys |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobek | Dhe’n lyha 150 mynysen a oberyans kresek, kepar ha 30 mynysen yn 5 dydh | Kerdhes uskis, donsya, aerobek dowr |
+| Krevhe kreun | Dhe’n lyha 2 dhydh, owth oberi pub bagas krev brassa | Sevel poosow skav po kannasow kowl, stredhya bondys |
+| Kompes | Yn reyth | Kerdhes sewyer orth sewyer, sevel yn-bann dhyworth kador |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+An re ma yw kostennow, a-der gorholethow dalleth. An CDC a lever, mar ny yllowgh aga hedhes, y tal dhywgh bos mar oberyan ha’gas gallosow ha’gas yeghes a as. Nebes oberyans yw gwell es travyth.
 
-## Gentle ways to move for older adults
+## Fordhow kosel dhe waya rag tus koth
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Kerdhewgh gans koweth.** Kerdh pub dydh gans koweth, kentrevek po bagas kerdhes a geworr keskows ha sawder.
+- **Omhevyansow yn kador.** Sevel bregh yn-bann, kylghow mordid, kerdhes y’n tyller ha yoga kador owth esedha a dhrehev krevder heb peryl kompes.
+- **Donsewgh y’n gegin.** Grewgh ilow a vledhynnyow deg ha ugens an person ha gwayewgh, tappya po kerdhes. Agan [gid a oberyansow ilow](/activities/music/) a’n jeves tybyansow.
+- **Krevhe gans taklow a’n chi.** Sewgh botellow dowr leun po kannasow kowl ha hwi ow mires orth hwedhel meurgerys.
+- **Lowarthyewgh po gwrewgh oberow.** Dowrhe lesyow, rastella, skubya ha plegya dilhas a reck oll. Gwelewgh [oberyansow yn-mes ha lowarthiseth](/activities/outdoor-and-gardening/) ha [oberow an chi](/activities/household-tasks/).
+- **Omhevyans dowr.** An NIA a rol klassys aerobek dowr avel unn dhewis rag tus a gav omhevyans war dir kales orth aga hesunyow.
 
-## How to exercise with someone living with dementia
+## Fatell omhevyans gans nebonan ow byw gans demensia
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Rag den ow byw gans demensia, an amkan yw es, lowender ha gwitha gallosow pub dydh, a-der hedhes niver. An NIA a lever bos oberyans korf ow gweres gwitha kreun, hesunyow ha kolon nebonan gans kleves Alzheimer yn furv da, hag y hall ynwedh gwellhe imaj ha kosk. Kewsewgh gans y vedhek kyns dalleth argerdh nowydh. Kussulyow dhyworth [gid an NIA rag gwithoryon](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) a gomprehend:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Kerdhewgh war-barth pub dydh.** Dewisewgh hyns saw, aswonys, heb lettys. Mar kerdh an person y honan, breghlen ID gans agas niver pellgowser yw tybyans da.
+2. **Assayewgh gwydhyowyow omhevyans rag tus koth.** Sewhewgh war-barth, owth esedha po ow sevel.
+3. **Gwithewgh esedhogow berr.** Lies «omhevyans byghan» a yll oberi gwell es unn hir.
+4. **Keworrowgh ilow.** Kanow aswonys a wra gwayans hevelya avel oberyans, a-der ober. Donsewgh mar yw da gans an person.
+5. **Profewgh dowr hag eskisyow es.** Profewgh dowr po sugen yn-dann hag a-wosa, ha dewisewgh dilhas es hag eskisyow owth omdhesedha yn ta gwrys rag omhevyans.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Mar yw kerdhes kales, [gid an NIA a-dro dhe witha den gans kleves Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) a gomend dewisow owth esedha. Y’ga mysk yma omhevyansow yn kador po yoga, tewlel sagh fav, tewlel pel vedhel po ayrbellen, stredhya bondys, sevel taklow skav a’n chi, ha jynnow pedal. Oberow sempel kepar ha skubya ha glanhe a reck ynwedh.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Bedhewgh gwir a-dro dhe byth a yll gwayans gul. Komissyans Lancet ny gavas dustuni bos omhevyans ow lehe chanjyow omdhegyans kepar ha trobolder. Gwayewgh war-barth drefen y hall omglewes da, a-der fordh dhe ewna dohajydh kales. Mar lever an person na, yma da lowr. Agan gid a-dro dhe [pan leverons i na](/caregiving/when-they-say-no/) a’n jeves fordhow kosel dhe assaya arta diwettha. Gorfenna a-varr, po yn sempel esedha war-ves war-barth, yw sewyans da ynwedh.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Wosa gwaya, powes kosel kepar ha [Anella Kosel](/games/calm-breathing/) a yll gweres dhywgh agas dew omgosoletha. Rag oberyans owth esedha gans gwayans kosel a’n bregh, [Sortya War-barth](/games/sort-together/) ha [Bingo Skeusennow](/games/picture-bingo/) a ober yn ta orth moos.
 
-## Balance and fall safety
+## Kompes ha sawder rag koedh
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Koedhow yw kemmyn ha difrif. [An CDC a dherivas](https://www.cdc.gov/falls/data-research/facts-stats/index.html) bos moy es onan yn peswar a dus koth ow koedha pub bledhen, mes le es hanter a lever dh’aga medhek. Koedha unnweyth a dewble an chons a goedha arta. Faktorow peryl a rol an CDC a gomprehend:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Gwannder y’n diwarr ha’n glunyow
+- Kalesder gans kerdhes ha kompes
+- Nebes medhegieth, y’ga mysk koselheoryon ha nebes gorth-diglonderyow
+- Kudynnow golok
+- Gloes yn an troes po eskisyow drog
+- Peryllow y’n chi kepar ha mostedhes, lentennow tewlel ha gradhow terrys
 
-To move more safely:
+Rag gwaya yn sawra:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Usyewgh kador fast** heb rosow, ha gwithewgh kounter po ledren ogas rag omhevyansow ow sevel.
+- **Klerhewgh an spas** a lentennow, lovanow ha mostedhes kyns oll.
+- **Gwrewgh yn lent pan sevewgh yn-bann**, ha hedhewgh mar omglyw an person penn-dro po diantel.
+- **Gwisgewgh eskisyow skoodhyel**, a-der loer po slappys lows.
+- **Praktisyewgh kompes ogas dhe skoodhyans.** Sevel yn-bann dhyworth kador ha kerdhes sewyer orth sewyer yw ensamplys CDC a oberyansow kompes.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+An CDC a gomend bos den koth a goedh hag a wesk y benn gweles medhek a-dhistowgh, yn arbennik mar us ev po hi ow kemeres medhegieth rag tenowhe goes.
 
-## Talk with a doctor
+## Kewsewgh gans medhek
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Kewsewgh gans medhek kyns dalleth argerdh omhevyans nowydh, yn arbennik rag nebonan gans kudynnow kolon po skevens, gloes hesunyow, kudynnow kompes, po demensia. Medhek po therapieth korf a yll profya oberyansow saw ha checkya mar wra medhegieth strokya kompes. Leverewgh dhe’n medhek a-dro dhe neb koedh, hogen onan heb brew. Mar wra neppyth drog po omglewes kamm yn-dann omhevyans, hedhewgh. Rag gloes a-dhistowgh y’n vrys, kalesder anella, po kemyans a-dhistowgh y breder, galwewgh 999.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+An folen ma yw kedhlow ollgemmyn, a-der kussul medhegel. Gwelewgh agan [avad medhegel](/medical-disclaimer/). Rag an skeusen vras, redyowgh [pyth a lever hwithrans a-dro dhe faktorow peryl demensia](/brain-health/risk-factors/) ha [mar yll demensia bos lettys](/brain-health/can-dementia-be-prevented/).

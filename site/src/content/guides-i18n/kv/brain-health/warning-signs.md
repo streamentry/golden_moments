@@ -1,31 +1,33 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Деменция: водзвыв тӧдмӧдчӧмъяс да врач дорӧ"
+seoTitle: "Деменция: водзвыв тӧдмӧдчӧмъяс да врач дорӧ"
+description: "Деменциялӧн тӧдмӧдчӧмъяс, кыдзи найӧс торйӧдны арлыд вежсьӧмысь, казьтыштана помкаяс да кыдзи дасьтысьны врачкӧд тӧдмалӧм вылӧ."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Казьтыштӧм, коді торкалӧ быдлунъя уджсӧ, тӧдса уджъясӧн ӧттшӧтчӧмын сьӧкыдлун, кадын
+  да инын гӧгӧрвоӧмтӧм да сьӧлӧмкӧд либӧ мӧвпалӧмын вежсьӧмъяс вермасны лоны деменциялӧн
+  водзвыв тӧдмӧдчӧмъясӧн. Уна мукӧд висьӧмъяс, шуам щитовиднӧй железа висьӧм, B12 витамин
+  этшаджык, пельӧсаянторъяслӧн бӧръя торъяс, депрессия да узьӧм сьӧкыдлунъяс, вермасны лӧсьӧдны
+  татшӧм жӧ вежсьӧмъяс. Сӧмын тӧдса врач вермӧ пуктны диагноз. Дзик пыр гӧгӧрвоӧмтӧмлун
+  колӧ ӧдйӧ отсӧг.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Корсюрӧ вунӧдӧм арлыда овлӧ; быдлунъя оланторсӧ торкалана вежсьӧмъяс видлавны колӧ."
+  - "Alzheimer's Association висьталӧ 10 тӧдмӧдчӧм йылысь, быдӧнкӧд орччӧн арлыд вежсьӧм."
+  - "Щитовиднӧй железа висьӧм, B12 витамин этшаджык, пельӧсаянторъяслӧн бӧръя торъяс, депрессия, инфекцияяс да узьӧм сьӧкыдлунъяс вермасны вӧчны казьтыштӧмлы, мукӧдныс бурдӧны бурдӧдӧм бӧрын."
+  - "Сӧмын тӧдса врач вермӧ пуктны деменция диагноз; онлайн-тестъяс да асвидлалӧм оз вермыны."
+  - "Часъясын либӧ лунъясын дзик пыр артмӧм гӧгӧрвоӧмтӧмлун вермас лоны делирий, сійӧ колӧ ӧдйӧ отсӧг."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Вунӧдӧм — тайӧ арлыд лоӧм бӧрын ӧткодялана вежсьӧм?"
+    a: "Мукӧдтор йӧзлы овлӧ. National Institute on Aging шуӧ, мый коркӧ мыйкӧ ылӧ вӧчӧм либӧ счёт мында вунӧдӧм тшӧтш — тайӧ арлыд лыддьыссьӧм неыджыд казьтыштӧм. Деменция оз ло арлыд овлӧмлӧн ӧткодялана тор. Казьтыштӧм сьӧкыдлунъяс, кодъясӧн сьӧкыд лоӧ веськӧдлыны машинаӧн, вӧдитчыны телефонӧн либӧ гортӧ аддзыны туй, колӧ видлавны врачкӧд."
+  - q: "Казьтыштӧм сьӧкыдлунъяс вермасны лоны деменцияысь абу?"
+    a: "Да, вермасны. National Institute on Aging лыддьӧ щитовиднӧй железа, кӧсаж либӧ мус висьӧмъяс, пельӧсаянторъяслӧн бӧръя торъяс, депрессия да тӧждӧм, B12 витамин этшаджык, вына юӧм, узьӧм сьӧкыдлунъяс, инфекцияяс да юр выв вийӧм. Мукӧдныс бурдӧны бурдӧдӧм бӧрын, та понда медпроверка зэв колана."
+  - q: "Позь-ӧ гортын видлавны мортӧс деменция вылӧ?"
+    a: "Оз позь. Сӧмын тӧдса врач вермӧ пуктны деменция диагноз: сы колӧ медистория, вылӧ видлалӧм, казьтыштӧм да мӧвпалӧм тестъяс, лабораторнӧй видлалӧмъяс, коркӧ — юр мозг сканируйтӧм. Врачъясӧн вӧдитчана дженьыд тестъяс сӧмын асьныс оз тырмыны диагноз пуктӧм вылӧ."
+  - q: "Мый вӧчны, кор морт дзик пыр гӧгӧрвотӧм лоис?"
+    a: "Ӧдйӧ корны медотсӧг. Дзик пыр гӧгӧрвоӧмтӧмлун вермас лоны делирий — VA шуӧ, мый тайӧ ӧдйӧ медотсӧг колана ситуация. Дзик пыр шуӧй мортыслӧн врачлы либӧ 112 номерӧ, ло медбӧрын сы орччӧн да гӧгӧрвоӧй, кутшӧм пельӧсаянторъяс сійӧ босьтӧ."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +55,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Асланыд казьтыштӧмын либӧ радейтана мортыслӧн вежсьӧмъясын казьтыштӧм вермас повзьыны. Тайӧ лист бок отсалас тӧдмавны, кор колӧ гижсьыны врач дорӧ да кыдзи дасьтысьны сылы. Сійӧ оз вермы висьтавны, эм-ӧ кӧнкӧ деменция. **Сӧмын тӧдса врач вермӧ пуктны деменция диагноз**, да уна висьӧм, кодъяс лӧсьӧдӧны казьтыштӧм сьӧкыдлун, деменцияӧн оз лоны. Эн эскӧ онлайн-тестъяслы да асвидлалӧмлы.
 
-## What are the early signs of dementia?
+## Кутшӧмӧн деменциялӧн водзвыв тӧдмӧдчӧмъяс?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) висьталӧ 10 водзвыв тӧдмӧдчӧм йылысь. Быд тӧдмӧдчӧм орччӧн сійӧ пуктӧ арлыд лоӧм бӧрын тшӧтш овлывлысь вежсьӧм. Миян кывъясӧн:
 
-| Sign worth checking | More typical with age |
+| Видлавны колана тӧдмӧдчӧм | Арлыд лоӧм бӧрын тшӧтш овлӧ |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Казьтыштӧм, коді торкалӧ быдлунъя оланторсӧ: неважӧн лоӧмтор вунӧдӧм либӧ ӧти жӧ юалӧм выльысь-выльысь | Коркӧ ним либӧ тӧдмалӧм вунӧдӧм, но сёр бӧрын казьтыштӧм |
+| Планируйтӧмын либӧ сьӧкыдлунъяс видлӧмын сьӧкыдлун, шуам тӧдса рецепт серти вӧчӧм либӧ счётъяс видзӧм | Коркӧ гортса счётъясын ӧшыбка лӧсьӧдӧм |
+| Тӧдса уджъяс помалӧмын сьӧкыдлун гортын, уджын либӧ ортсын | Коркӧ микроволновка либӧ телепередача гижӧм могысь отсӧг корӧм |
+| Кад пасьтӧм: лун, вӧсньыддыр либӧ ин гӧгӧрвоӧмтӧм | Вежонлун лунӧн ылӧдчӧм, но сёр бӧрын гӧгӧрвоӧм |
+| Выльысь сьӧкыдлун ылӧддзан ылыддзасӧн мӧвпалӧмын, лыддьыгӧн либӧ рӧмъяс торйӧдӧмын | Катаракта понда синмад вежсьӧм |
+| Выльысь сьӧкыдлун кывъясӧн: сёрни костын дугдӧм либӧ торъяслы абу сідзи ним сетӧм | Коркӧ колана кывсӧ корсьӧм |
+| Торъяссӧ абу ӧткодьласа инас пуктӧм да оз вермы аддзыны, кӧні найӧс кольӧма | Коркӧ мыйкӧ ылӧ вӧчӧм, но бӧръя туйсӧ казьтыштӧмӧн аддзӧм |
+| Абу бур мӧвпалӧм, шуам сьӧм йылысь либӧ аслыспӧлӧслун йылысь тӧждӧм | Коркӧ ӧтиысь абу бур мӧвпалӧм |
+| Радейтана уджъяссьыс, уджысь либӧ йӧзкӧд вӧдитчӧмысь чурскӧм | Коркӧ котралысь либӧ йӧзкӧд пуксьӧмлы оз кӧсйы мунны |
+| Сьӧлӧмкӧд да аслыспӧлӧслун вежсьӧм: гӧгӧрвоӧмтӧмлун, оз эскысьӧм, повзьӧм либӧ тӧждӧм | Ас ногӧн вӧчӧм радейтӧм да ӧткодьлун вежсьӧм дырйи вежасьӧм |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Ӧти тӧдмӧдчӧм сӧмын оз висьтав, мый тайӧ деменция. Медшӧртор — тайӧ **сы мортлы тшӧтш оланторсьыс вежсьӧм**, торйӧннад, кор сійӧ сьӧкыдджыка вӧчӧ быдлунъя оланторсӧ.
 
-## How is normal aging different from dementia?
+## Кыдзи арлыд лоӧм бӧрын тшӧтш вежсьӧм торъялӧ деменцияысь?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) шуӧ, мый уна арлыда йӧз казялӧны, мый найӧ ёнджыка казьтыштӧны, коркӧ мыйкӧ ылӧ вӧчӧны либӧ счёт мында вунӧдӧны. Тайӧ тшӧтш лоӧ неыджыд казьтыштӧмлы тӧдмӧдчӧмӧн. **Деменция оз ло арлыд овлӧмлӧн ӧткодялана тор.** Сьӧкыд казьтыштӧм сьӧкыдлунъяс вӧчӧны быдлунъя уджъяссӧ сьӧкыдӧн, шуам машинаӧн веськӧдлӧм, телефонӧн вӧдитчӧм либӧ гортӧ туй аддзӧм.
 
-The NIA suggests talking with a doctor if someone:
+NIA сӧнӧ врачкӧд сёрнитны, кор морт:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Выльысь-выльысь юалӧ ӧти жӧ юалӧмъяс
+- Ылӧ тшӧтӧ водзын тӧдса инын
+- Оз вермы вуджны рецептъяс да иньдӧдъяс серти
+- Унджыка гӧгӧрвотӧм лоӧ кад, йӧз да ин йылысь
+- Дугдӧ асьсӧ видзны: оз бура сёй, оз мыськысь, либӧ лӧсьыдтӧг вӧчӧ
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Мукӧд йӧзлӧн эм **неыджыд когнитивнӧй ослабление (MCI)**. Тайӧ висьталӧ, мый казьтыштӧм либӧ мӧвпалӧм сьӧкыдлунъяс сы арлыда йӧз дорысь унджыка, но быдлунъя оланторсӧ на позьӧ видзны. NIA шуӧ, мый MCI вермас лоны Альцгеймер висьӧмлӧн водзвыв тӧдмӧдчӧмӧн, но став MCI-ысь овлысь йӧзлӧн оз артмы сыысь деменция.
 
-## What else can cause memory problems?
+## Мый нӧшта вермас лӧсьӧдны казьтыштӧм сьӧкыдлунъяс?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Деменцияысь кындзи уна мый вермӧ вӧчны казьтыштӧмлы, да мукӧдтор бурдӧ бурдӧдӧм бӧрын. NIA лыддьӧ:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Щитовиднӧй железа, кӧсаж либӧ мус висьӧмъяс**
+- **Пельӧсаянторъяслӧн бӧръя торъяс**
+- **Депрессия да тӧждӧм**
+- **B12 витамин этшаджык** либӧ бур сёян оз тырмы
+- **Узьӧм сьӧкыдлунъяс**
+- **Вина либӧ наркотик юӧм да вӧдитчӧм**
+- **Инфекцияяс, вир чукӧръяс либӧ опухольяс** юр мозгын
+- **Юр выв вийӧм**, шуам сотряссьӧм
+- **Ыджыд стресс либӧ шог вежсьӧм**, шуам пенсия вылӧ мунӧм либӧ гӧтырӧсь/вердӧсь воштӧм
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Кывзӧм да синмад сьӧкыдлунъяссӧ тшӧтш позьӧ гӧгӧрвоны гӧгӧрвоӧмтӧмлунӧн; видзӧд миян [кывзӧм йылысь гижӧд](/brain-health/hearing/). Та понда медвидлалӧм зэв колана. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) серти, врачъяс тшӧкыда сетӧны вир видлалӧм щитовиднӧй железа, витамин этшаджык да инфекция видлалӧм могысь. Бур [узьӧм](/brain-health/sleep/) да депрессия бурдӧдӧм йылысь тшӧтш колӧ висьтавны.
 
-## Sudden confusion is an emergency
+## Дзик пыр гӧгӧрвоӧмтӧмлун — тайӧ ӧдйӧ случай
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Гӧгӧрвоӧмтӧмлун, коді артмӧ ӧдйӧ, часъясын либӧ лунъясын, колӧ ӧдйӧ медотсӧг.** Тайӧ вермас лоны делирий. [VA шуӧ делирий йылысь](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp), мый тайӧ ӧдйӧ медотсӧг колана ситуация, да сӧнӧ дзик пыр шуны мортыслӧн врачлы либӧ 112 номерӧ. Тӧдмӧдчӧмъяс:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Вежсьӧмъяс мӧвпалӧм бурлунъясын
+- Сьӧкыдлун зільӧм вылӧ
+- Дзугсьӧм мӧвпалӧм
+- Вывті уна узьӧм либӧ, мӧдар боксянь, вывті лэбзьӧм да вӧрзьӧдчӧм
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Тайӧ вермас лоны быд морткӧд, деменцияӧн овлысь йӧзкӧд тшӧтш. [NHS](https://www.nhs.uk/symptoms/confusion/) серти, тшӧкыда помкаясӧн лоӧны инфекцияяс (арлыда йӧз да деменцияӧн овлысь йӧз костын унаысь овлӧны мунан туй инфекцияяс), инсульт, диабетӧн овлысь йӧзлӧн вирын сахар чинӧм, юр выв вийӧм да мукӧд пельӧсаянторъяс. Кор ті виччысьанныд отсӧг, лоӧй медбӧрын мортыслӧн дорын да сетӧй лӧньлун дженьыд да гӧгӧрвоана кывъясӧн. Эн юав уна, да гӧгӧрвоӧй, кутшӧм пельӧсаянторъяс сійӧ босьтӧ.
 
-## How do I prepare for the doctor's appointment?
+## Кыдзи дасьтысьны врач дорӧ тӧдмалӧм вылӧ?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Бур тӧдмалӧм заводитчӧ бур гижӧдъясысь. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) сӧнӧ босьтны:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Казьтыштӧм, сьӧлӧмкӧд да вӧчӧм ног вежсьӧмъяс лыддьӧг**: торъя примеръяс да, кымын верманныд тӧдны, кор найӧ заводитчисны
+2. **Водзын да ӧнія висьӧмъяс**, тшӧтш котырын казьтыштӧм сьӧкыдлунъяс вӧліны-ӧ
+3. **Став рецепта да рецептытӧг босьтана пельӧсаянторъяс**
+4. **Став витаминъяс да добавкаяс**
+5. **Ассьыныд юалӧмъяс**, шуам кутшӧм видлалӧмъяс лоасны, кымын кад найӧ босьтасны да кор лоасны результатъяс
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Бур тшӧтш босьтны котырись либӧ ёртӧс, коді бура тӧдӧ сійӧ мортӧс. [NIA висьталӧ](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), мый врачъяс вермасны юавны сійӧ мортсӧ и котырын мортӧс дзоньвидзалун, пельӧсаянторъяс, быдлунъя уджъяс да вӧчӧм ног вежсьӧм йылысь. Врачъяс вермасны тшӧтш:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Сетны казьтыштӧм, сьӧкыдлун видлӧм, зільӧм, лыддьӧм да кыв тестъяс
+- Тшӧктӧдны вир, кудз да мукӧд видлалӧмъяс мукӧд помкаяс корсьӧм могысь
+- Видлавны депрессия либӧ мукӧд ментальнӧй дзоньвидзалун висьӧмъяс
+- Тшӧктӧдны юр мозг сканируйтӧм, шуам КТ либӧ МРТ
+- Ыстыны специалист дорӧ, шуам гериатр, невролог, гериатрическӧй психиатр либӧ нейропсихолог дорӧ
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA пасйӧ, мый когнитивнӧй видлалӧм — Medicare Annual Wellness Visit программаын колана тор, да тайӧ вермас лоны лӧсялана кад, кор позьӧ висьтавны ассьыным повзьӧдлӧм йылысь. Врачъясӧн вӧдитчана дженьыд тестъяс сӧмын асьныс оз тырмыны деменция диагноз пуктӧм вылӧ. Найӧ — медводдза кымын паськыдджыка видлалӧм вылӧ, да диагноз пуктӧм вермас корны ӧтиысь унджыка тӧдмалӧм. NIA сӧнӧ, медым казьтыштӧм сьӧкыдлунъясысь овлысь йӧз волывлісны врач дорӧ быд 6–12 тӧлысьын.
 
-## Raising the subject kindly
+## Кыдзи лёка висьтавны тайӧ йылысь
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ті кӧ повзьӧданныд мӧд морт йылысь, бӧрйӧй лӧнь да аслыспӧлӧс кад. Висьтавӧй торъятор йылысь, мый ті казялінныд, дзоньвидзалун йылысь тӧждӧмӧн, абу видӧмӧн. Сӧнӧм ортсыса медвидлалӧм вермас лоны этшаджык повзьӧдана. Пыртӧй сійӧ мортсӧ мӧвпалӧмъясӧ да сёрнитӧй сыкӧд, кыдзи ыджыд морткӧд. Миян [сёрнитӧм йылысь сӧнъяс](/caregiving/communication-tips/) вермасны отсавны.
 
-## Talk with a doctor
+## Сёрнитӧй врачкӧд
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ті кӧ казяланныд выль да дзик пыр кывкӧртана вежсьӧмъяс казьтыштӧмын, мӧвпалӧмын, сьӧлӧмкӧдын либӧ быдлунъя уджъясын, гижсьӧй тӧдмалӧм вылӧ медводдза врач дорӧ. Дзик пыр гӧгӧрвоӧмтӧмлун дырйи шуӧй 112 номерӧ либӧ мортыслӧн врачлы дзик пыр. Водзын видлалӧм отсӧг позьӧ аддзыны бурдӧдана помкаяс, а деменция кӧ лоӧ, эм унджыка кад планируйтны да отсӧг корсьны. Видзӧй асьныдтӧ тшӧтш; видзӧд миян [мортыс видзысьлы отсӧг да бур олан йылысь гижӧд](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Тайӧ лист бокын — ӧтувъя юӧр, абу медсӧнӧд. Видзӧд миян [мед ӧтдортӧм пасйӧд](/medical-disclaimer/).
