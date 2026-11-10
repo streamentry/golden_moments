@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Awo Taktəye: Sanduk Taktəye, Kəla Ro-a Foto-a"
+seoTitle: "Awo Taktəye Dementia-ro: Kasuwu Ba"
+description: "Futu am dementia-a kargata-a awo ngawo-a lan manabe, kasuwu ba: mana foto-a, sanduk taktəye-a kitawu kəla ro-a, kəlima karnotə-a."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Awo taktəye maananzə, foto, karəŋga, yirŋi-a kəla-a lan awo ngawo-a rokko
+  karnotə. Sanduk taktəye dələ, kitawu kəla ro-a gadə dələ, au foto-a rokko
+  kuru. Abadan kasuwu diwi: «Taktənuma wa?» kuru «Wundu ayi?» kolləne, amma
+  kəlima bukkata futu «Kəla awobe adəyen wulne» lan bowone. Mana karnotə-a
+  awo jirinzə-a yitə, sheda kalkal gənatə-a nəmganazəin.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Awo taktəye manabe, jarabtə gani. Kalkal shedanzə faida ba; karnotə faida."
+  - "«Taktənuma wa...?» kuru «Wundu ayi?» kolləne, amma kəlima bukkata futu «Kəla yim adəyen wulne» lan bowone."
+  - "Sanduk taktəye karəŋga kəla ro kamdəben, mukko-a manabe-a ro awo kəltarambe cizə."
+  - "Kitawu kəla ro-a am badiyaram, kusotto-a am kənanga cidawu-a kamdə kamro nozanaro bana cizə, cutənyi dəganaro gani."
+  - "Awo laa kərtənutə cizəya, burwon karnotəne kuru sələm-sələmro awowa gade ro kəlleyne."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Awo taktəye am dementia-a kargata-ro awi maana?"
+    a: "Awo taktəye awo ngawo-a kəla ro-a rokko manabe, ngəwuro foto, karəŋga, yirŋi au video bana-a lan. Fal-falro au samnoron tədin. Niyanzə mana karnotə-a faidatə, kamdə awi taktənadə jarabtə gani."
+  - q: "Ndayin «Taktənuma wa?» korinba?"
+    a: "Korowa taktə jarabtə kamdéro nangu au hangal cizə, jaawunzə ishiwawo. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has)-ye kamdéro awo au kam laa taktənama wa korodə awo kollətəbe falro gulzəna. Awowa rumin də manane, kuru kamdə awi maananzə cizə gəpne wulzə."
+  - q: "Awi sanduk taktəye lan yikko?"
+    a: "Karəŋga nzunda-a kənu-a kəla kamdəben kəltəram: karəŋga cidabe, karəŋga karnotəye, kalwu raata, kartə pos, kartə dəkkə, karəŋga wasəmbe au foto kopi-a. Karəŋga caudə, karəŋga gana cizəwo yizayin, kuru karəŋga asəli falnzə ba tiloramdən də kolləne."
+  - q: "Sheda kalkalro wulzəya awi dikki?"
+    a: "Kolle. Ya num fotoben yaana num tədəna kuru shi yaana badiyanum tədənaro wulzəya, ngəla. Kalkalro yitə kərtə karnotəbe jarabtəro kaltəgəyin. Kəla shi wuljin də gəpzəne kuru rokko karnone."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Awo taktəye maananzə, awo ngawo-a rokko karnotə. Am dementia-a kargata lauro, awo sa ngəwu kozənabe də, awo bikka tədənadəro nəmganazəin bayin. Foto, karəŋga notəna, yirŋi-a kəla-a awo anidə katapcin kuru awowa karnotəbe ro nyiro cizə. Kaida fal: shi manabe, abadan jarabtə gani.
 
-## What is reminiscence, and how is it different from quizzing?
+## Awo taktəye awi, kuru kasuwu-a futu gadejin?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Awo taktəye, foto, karəŋga, yirŋi au video lan awo ngawo-a manabe, kamdə kəlaanzən. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)-ye shiye foto, karəŋga, video au yirŋi bana-a lan awo ngawo-a kəla-a manabe, kitawu au tablet lan, futu bayanzəna. Kasuwu gade: kamdəron jaawu kalkal mbejiro culuwo, adəye karnotəbe badalzəyin kuru nangu cizə.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has)-ye kamdéro awo au kam laa taktənama wa korodə awo kollətəbe falro gulzəna. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)-ye koro taktə kərma ganabe məradətəna kolləne kuru awo ngəwu kozənabe manane futu shawari cizəna.
 
-| Instead of | Try |
+| Badalzəyin | Adə jarapne |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «Adə taktənuma wa?» | «Adə yim karnotəbe futu fulejin. Kəlanzə wulne.» |
+| «Wundu ayi?» | «Na Aunt Rose cidiyan də. Kalwunzə rui.» |
+| «Saa awiye adə tədənadə?» | «Adə fato ngawo də futu fulejin. Nadən karga futu ndayen?» |
+| «A'a, adə Bill gani, Frank.» | «Shi kam karnotəbe futu fulejin.» |
+| «Adə wulsənamma.» | «Kəla adə zau raakkəna.» |
 
-## How do you talk about photos without quizzing?
+## Futu foto-a kasuwu ba lan manayen?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Awi rumin də burwon manane, dəgan kamdə awi maananzə cizə gəptəro na kolne.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Rokko napne.** Album də dawundon yikke, rokko ruyeno, tebur dəgən jarabtəro gani.
+2. **Foto gana karne.** Foto ngəla uwu, sanduk sammaro ngəla. Foto kura-a kəlanzə fetəna ngəla.
+3. **Am də suro wulle.** «Na nəm-a Bawam-a yim larusaben» mannə hangal gotə.
+4. **Awo gana-a manane.** Kazəmu, moto, kəmbo, sam, fuskabe. «Moto kura. Futu ngalwojiyi.»
+5. **Bukkane, amma məradətəne.** «Kəlanzə wulne...» au «Awi rumin?» Səkkə ngəla.
+6. **Shi fuwujin də gəpzəne.** Shi awo gadero cidiro leyeno, shi-a rokko lene.
+7. **Karnotəlan dagane.** Ləptə ishiwawo kawu album də zaktəne.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Suura manabe dabbarrata ma, [conversation cards](/games/conversation-cards/) jarapne. Foto badiyaramben kəlanzəbe tuluwobe gadə dionaro, [photo pairs](/games/photo-pairs/) jarapne; fotowa kartəyinə browser numben napcin.
 
-## How do you make a memory box?
+## Futu sanduk taktəye dəleyen?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Sanduk taktəye sanduk karəŋga kəla kamdəbe gotə-a manabe-a ro.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Sanduk kənu** katapta ngəlaro karne, misallo sanduk suno, sanduk kalwu au sanduk kəskabe gana.
+2. **Awo fal au ngəwu karne.** Cida, karnotə, na, saa, au kəla sammaso.
+3. **Karəŋga nzunda samne.** Uwu au mewu badiyaramro ngəla.
+4. **Karəŋga tammaro kopi faidatəne.** Foto-a warak-a tamtəmma kopi dəle, asəlidə nzundaro gone.
+5. **Fal-falro culuwe.** Fal kolne, kəlanzə wulle, kuru mana də ndara lejin rui.
 
-Ideas to include:
+Awo yikta misallo:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Cida:** badji su, karəŋga cidabe gana, alama kazəmube, daftar, pin nasabe, au kitawu dəkkəbe na dəkkəben.
+- **Fato:** kartə dəkkə mukkon ruwutəna, tawul caa, kalwu au tai raata.
+- **Karnotə:** ləmbar buni nzakkobe ba, bər bɔl, kəla sak, au kəla nəmbe.
+- **Na-a:** kartə pos, kartə na, karəŋga kusottobe, au warak lardə ngawo.
+- **Badiyaram:** foto kopi-a, suron nduli tədəna, au gayatə larusabe.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Karəŋga caudə, karəŋga gana cizəwo yizayin, kuru awi kərtənutə cizəwo, kəsaduro ishinno ma, kolləne.
 
-## How do you make a life-story book?
+## Futu kitawu kəla ro dəleyen?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Kitawu kəla ro album gadə foto-a bayin gana-a kəla kamdəbe lan. Rokko ruyeno, kuru kusottobe-a am kənanga cidawu-a kamdə sammaro nozanaro bana cizə.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Futu adəbe karne.** Binder jaket warakbe-a, kitawu foto chapta, au slideshow tablet lan.
+2. **Nasha gana planne.** Nduli, makaranta, cida, badiyaram, na-a naptəna, adin, karnotə, kəmbo-a yirŋi-a raata.
+3. **Warak fallen foto fal au indi** kuru bayin gana, ruwutə kura-a lan yikke: «Mary, saa 22, cida bankilan badiyaram.»
+4. **Awo raata-a adabe-a yikke.** «Caa-a cam-a lan yizayin. Yirŋi ladəbe zau raaciyin. TV səsənnabe raacinba.» Adəye am shi ngatənaro bana cizə.
+5. **Kamdə də kəlzəne** shi raajin ngawon, foto kartə, kəla manabe, au shi dəletə rube.
+6. **Yikko kəlne.** Daitə shima faidajinro waljin ba.
 
-## More reminiscence ideas
+## Shawari awo taktəye gade
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Yirŋi sa nduliyen kunne** kuru ndara cizəyin manane. [Awo yirŋibe](/activities/music/) rui.
+- **Video fato au shiwo TV** saa raatanadən rui.
+- **Kəmbo nduliye dəkkene** kuru kənzonzə mana katapcə.
+- **Kartë na ngawoyen** rui kuru so-a notəna-a lene.
+- **Katalog au jarida ngawo** gotəne kuru tamman, kazəmu-a moto-a manane.
+- **Kəlanzədə** fonlan rəkɔdne, amardəyen, badiyaramro.
+- **Bowotəlan ləne.** Bowotə videolan foto fal fəleyne; [bowotə fon-a video-a](/activities/phone-and-video-calls/) rui.
+- **Kusottoro leminya foto au karəŋga laa gotəne.** Kusottodəro awo ngəla cizə; [kusotto](/activities/visiting/) rui.
 
-## What if a memory is painful?
+## Awo taktəna kərtənutə cizəya awi dikki?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Awo taktəna laa kərtənutə, nadəmtə au ridu cizə. Kamdə kərtəgənayaro ruyemiya, datəne, karnotəne kuru sələm-sələmro awo au cidawa gadero kəlleyne. Awi tədənadəben gargasəne. Family Caregiver Alliance kamdéro shi kalkalro manazəyin ba kuru hangal fulejindəro jaawu kənzə futu shawari cizəna, hangal adə jire. Kam nunadə rojin futu manajinma, hangalnzəro jaawu kənzə: «Shi-a hangalnum cizə. Kəlanzə wulne.»
 
-## What does the research say?
+## Kulashiye awi wuljin?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane kulashi awo taktəye lan](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), jarabtə 22-a am 1,972-a gotəna, alama-a kalkal gani, gana-a kuru na-a futu cidatəna-a gade-gade-a tapkata. Am dementia-a kargataro bannatə laa tapcatinba. Andiye awo taktəye shawariye, sa karnotə-a faidatə-a rokko garta cizayinro, kənanga merem ro gani. Mana ngəla lan bayin gadero, [shawari manabe](/caregiving/communication-tips/) rui.

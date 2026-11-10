@@ -1,34 +1,35 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "នៅពេលដែលអ្នកមានជំងឺវង្វេងស្មារតីបដិសេធ ឬហត់នឿយនឹងសកម្មភាព"
+seoTitle: "នៅពេលដែលអ្នកមានជំងឺវង្វេងស្មារតីបដិសេធសកម្មភាព"
+description: "មូលហេតុដែលអ្នកមានជំងឺវង្វេងស្មារតីអាចបដិសេធ ឬមិនសប្បាយចិត្តនឹងសកម្មភាព អ្វីដែលអាចសាកល្បងជំនួសវិញ អ្វីដែលគួរជៀសវាង និងពេលណាដែលការផ្លាស់ប្តូរភ្លាមៗត្រូវជួបវេជ្ជបណ្ឌិត។"
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  នៅពេលដែលអ្នកមានជំងឺវង្វេងស្មារតីនិយាយថាទេ សូមទទួលយកដោយស្ងប់
+  ហើយសាកល្បងម្តងទៀតនៅពេលក្រោយ ឬស្នើអ្វីផ្សេង។ ការបដិសេធច្រើនតែមានមូលហេតុ៖
+  កិច្ចការនោះមានអារម្មណ៍ថាពិបាកពេក ឬដូចជាក្មេងៗ ពួកគេហត់នឿយ ឈឺ ចង្អោរ
+  ឬត្រូវបានរំខានដោយសម្លេងរំខាន។ កុំឈ្លោះប្រកែក ឬបង្ខំ។ សូមធ្វើឱ្យកាន់តែងាយស្រួល
+  ផ្តល់ជម្រើសពីរ ឬសុំឱ្យពួកគេជួយ។ ការផ្លាស់ប្តូរអាកប្បកិរិយាដែលកើតឡើងភ្លាមៗ
+  ឬផ្លាស់ប្តូរយ៉ាងឆាប់រហ័ស ជាពិសេសបន្ទាប់ពីមានការឆ្លងមេរោគ
+  ឬការប្រើថ្នាំថ្មី ត្រូវជួបវេជ្ជបណ្ឌិតភ្លាមៗ។
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "ពាក្យថា «ទេ» គឺជាចម្លើយដែលគួរគោរព មិនមែនជាបញ្ហាដែលត្រូវយកឈ្នះនោះទេ។"
+  - "ការបដិសេធជាធម្មតាមានមូលហេតុ៖ ពិបាកពេក ដូចជាក្មេងៗ ហត់នឿយ មិនស្រួលខ្លួន មិនសុខស្រួល ឬត្រូវបានរំខានច្រើនពេក។"
+  - "សូមថយក្រោយ រង់ចាំ ហើយសាកល្បងម្តងទៀតនៅពេលក្រោយ នៅពេលវេលាផ្សេង ឬជាមួយកំណែងាយស្រួលជាង។"
+  - "ការសុំឱ្យពួកគេជួយមានប្រសិទ្ធភាពជាងការសុំឱ្យពួកគេបង្ហាញសមត្ថភាព។"
+  - "កុំឈ្លោះប្រកែក កុំបង្ខំ កុំសាកសួរ ឬកុំកែតម្រូវ។ សូមពិនិត្យមើលខ្លួនឯងថាតើអ្នកកំពុងប្រញាប់ ឬជិតពេកដែរឬទេ។"
+  - "ការផ្លាស់ប្តូរអាកប្បកិរិយាដែលកើតឡើងភ្លាមៗ ឬផ្លាស់ប្តូរយ៉ាងឆាប់រហ័ស ជាពិសេសនៅពេលមានការឆ្លងមេរោគ ឬការប្រើថ្នាំថ្មី គួរត្រូវបាននាំទៅជួបវេជ្ជបណ្ឌិតភ្លាមៗ។"
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "តើអនុញ្ញាតឱ្យពួកគេលើកលែងសកម្មភាពទាំងស្រុងបានដែរឬទេ?"
+    a: "បាន ក្នុងថ្ងៃណាមួយ។ ការអង្គុយជាមួយគ្នា ស្តាប់តន្ត្រី ឬមើលអ្វីៗជុំវិខ្លួនក៏អាចគ្រប់គ្រាន់ដែរ។ ប្រសិនបើនរណាម្នាក់ឈប់រីករាយនឹងអ្វីៗទាំងអស់អស់រយៈពេលជាច្រើនសប្តាហ៍ សូមប្រាប់វេជ្ជបណ្ឌិតរបស់ពួកគេ ដោយសារអារម្មណ៍ធ្លាក់ទ spirits ឈឺចាប់ ឬបញ្ហាសុខភាពផ្សេងទៀតអាចជាផ្នែកមួយនៃស្ថានភាពនេះ។"
+  - q: "ហេតុអ្វីបានជាពួកគេបដិសេធអ្វីដែលពួកគេធ្លាប់ចូលចិត្ត?"
+    a: "ចំណង់ចំណូលចិត្តចាស់អាចក្លាយជាអ្វីដែលធ្វើឱ្យហត់នឿយ នៅពេលដែលវាត្រូវការជំនាញដែលជំងឺវង្វេងស្មារតីបានធ្វើឱ្យពិបាកឡើង ហើយមនុស្សនោះអាចមានអារម្មណ៍ខ្មាសអៀន។ សូមសាកល្បងផ្នែកងាយស្រួលជាងនៃសកម្មភាពដដែល ដូចជាការតម្រៀបប៊ូតុងជំនួសឱ្យការដេរ ឬមើលរូបភាពសួនច្បារជំនួសឱ្យការដាំដុះ។"
+  - q: "តើខ្ញុំគួរសាកល្បងបញ្ចុះបញ្ចូលពួកគេដែរឬទេ?"
+    a: "ទេ។ ការរុញច្រាននរណាម្នាក់ឱ្យធ្វើអ្វីដែលជំងឺវង្វេងស្មារតីបានធ្វើឱ្យពិបាក គឺជាកត្តាមួយដែលគេស្គាល់ថាអាចបង្កឱ្យមានការរំភើបឬមិនសុខស្រួល។ សូមទទួលយកពាក្យថាទេ ប្តូរប្រធានបទសន្ទនា ហើយស្នើម្តងទៀតនៅពេលក្រោយ ឬតាមរបៀបផ្សេង។"
+  - q: "តើពេលណាដែលការផ្លាស់ប្តូរអាកប្បកិរិយាជាស្ថានភាពសង្គ្រោះបន្ទាន់?"
+    a: "សូមទូរស័ព្ទទៅលេខសេវាសង្គ្រោះបន្ទាន់ក្នុងតំបន់របស់អ្នក ប្រសិនបើនរណាម្នាក់ស្ថិតក្នុងគ្រោះថ្នាក់ ឬមានសញ្ញានៃស្ថានភាពសង្គ្រោះបន្ទាន់ផ្នែកវេជ្ជសាស្ត្រ។ ចំពោះការភាន់ច្រឡំភ្លាមៗ ឬអាកប្បកិរិយាដែលផ្លាស់ប្តូរយ៉ាងឆាប់រហ័សក្នុងរយៈពេលចាប់ពីពីរបីម៉ោងទៅច្រើនថ្ងៃ ជាពិសេសនៅពេលមានគ្រុនក្តៅ ការឆ្លងមេរោគ ឬថ្នាំថ្មី សូមទាក់ទងវេជ្ជបណ្ឌិតរបស់ពួកគេភ្លាមៗ។"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +51,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+អ្នករៀបចំអ្វីៗរួចរាល់ ស្នើល្បែង ឬការដើរលេងមួយ ហើយឮពាក្យថា «ទេ»។ ឬសកម្មភាពចាប់ផ្តើមបានល្អ ប៉ុន្តែបញ្ចប់ដោយការរុញថេប្លេតចេញ ហើយមានពាក្យមិនពេញចិត្តមួយ។ វាធ្វើឱ្យអ្នកអស់សង្ឃឹម ហើយវាក៏ជារឿងធម្មតាណាស់។ ការបដិសេធ និងការហត់នឿយភាគច្រើនជាសារមួយ មិនមែនជាការរឹងរូសទេ។ ការស្វែងយល់ថាសារនោះជាអ្វី ជាញឹកញាប់អាចបង្ហាញថាអ្នកគួរសាកល្បងអ្វីបន្ទាប់។
 
-## Why does someone with dementia refuse activities?
+## ហេតុអ្វីបានជាអ្នកមានជំងឺវង្វេងស្មារតីបដិសេធសកម្មភាព?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+ជាធម្មតាមានមូលហេតុមួយ ទោះបីជាមនុស្សនោះមិនអាចពន្យល់ជាពាក្យសម្ដីបានក៏ដោយ។ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ចង្អុលបង្ហាញថា ការប្រឆាំងអាចមានន័យថាមនុស្សនោះមិនអាចធ្វើកិច្ចការនោះបាន ឬខ្លាចសាកល្បង។ មូលហេតុទូទៅរួមមាន៖
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **វាមានអារម្មណ៍ថាពិបាកពេក។** សកម្មភាពនោះឥឡូវនេះត្រូវការជំនាញដែលជំងឺវង្វេងស្មារតីបានធ្វើឱ្យពិបាក ហើយការបរាជ័យនៅចំពោះមុខនរណាម្នាក់អាចធ្វើឱ្យខ្មាសអៀន។
+- **វាមានអារម្មណ៍ដូចជាក្មេងៗ។** មនុស្សពេញវ័យអាចមើលឃើញរូបភាពដូចតុក្កតា សំឡេងដូចកំពុងច្រៀងកុមារ និងសកម្មភាពដែលមើលទៅដូចជាត្រូវបានបង្កើតសម្រាប់កុមារ។
+- **ភាពហត់នឿយ។** មនុស្សជាច្រើនមានថាមពលតិចជាងមុននៅពេលល្ងាច។ សូមមើល [សកម្មភាពស្ងប់ស្ងាត់នៅពេលរសៀលយឺត](/caregiving/late-day-restlessness/)។
+- **ភាពមិនស្រួលខ្លួន។** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) រាយបញ្ជីការឈឺចាប់ ការគេងមិនលក់ បញ្ហាក្នុងការមើលឃើញ ឬស្តាប់ ការទល់លាមក ភាពអត់ឃ្លាន ឬស្រេកទឹក និងផលរំខាននៃថ្នាំថ្មី ថាជាមូលហេតុដែលអាចបង្កឱ្យមានការលំបាក។
+- **មានរឿងច្រើនពេកកំពុងកើតឡើង។** ទូរទស្សន៍ដែលបើកខ្លាំង ការសន្ទនាច្រើន ឬបន្ទប់ដែលមានមនុស្សច្រើនអាចធ្វើឱ្យមានអារម្មណ៍តានតឹងពេក។
+- **មានអារម្មណ៍ថាត្រូវបានរុញច្រាន។** NIA លើកឡើងថា ការត្រូវបានរុញឱ្យធ្វើអ្វីមួយដែលជំងឺ Alzheimer បានធ្វើឱ្យពិបាកខ្លាំង ឬត្រូវបានរុញឱ្យចាំព្រឹត្តិការណ៍ ឬមនុស្ស អាចជាមូលហេតុនៃការរំភើបឬមិនសុខស្រួល។
+- **អារម្មណ៍ធ្លាក់ទ spirits។** ការបាត់បង់ចំណាប់អារម្មណ៍លើអ្វីៗអាចជាសញ្ញានៃភាពធ្លាក់ទឹកចិត្ត ដែលគួរលើកឡើងជាមួយវេជ្ជបណ្ឌិត។
+- **ពួកគេសាមញ្ញចង់និយាយថាទេ។** មនុស្សពេញវ័យមានសិទ្ធិនិយាយថាទេ។
 
-## What should I try when they say no?
+## តើខ្ញុំគួរសាកល្បងអ្វីនៅពេលពួកគេនិយាយថាទេ?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+សូមទទួលយកពាក្យថាទេដោយស្ងប់ បន្ទាប់មកផ្លាស់ប្តូរអ្វីមួយ៖ ពេលវេលា សកម្មភាព កម្រិតលំបាក ឬរបៀបដែលអ្នកស្នើសុំ។
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **ទុកវាចោលសិន។** «មិនអីទេ។ ប្រហែលជាពេលក្រោយ។» បន្ទាប់មកបន្តទៅអ្វីផ្សេងដោយមិនដកដង្ហើមធំ។
+2. **សាកល្បងម្តងទៀតនៅពេលក្រោយ។** Alzheimer's Association ណែនាំឱ្យសាកល្បងម្តងទៀតនៅពេលក្រោយ ឬនៅពេលវេលាផ្សេងក្នុងថ្ងៃ។
+3. **ធ្វើឱ្យវាកាន់តែតូច។** ការផ្គូផ្គងមួយដងជំនួសឱ្យល្បែងទាំងមូល។ កន្សែងមួយជំនួសឱ្យកន្ត្រកសម្លៀកបំពាក់។ រូបភាពតិចជាងមុន ជម្រើសតិចជាងមុន ឬទុករូបភាពឱ្យនៅមើលឃើញច្បាស់។
+4. **ផ្តល់ជម្រើសពីរ។** «តើអ្នកចង់មើលរូបភាពបក្សី ឬស្តាប់តន្ត្រី?» ជម្រើសមួយអាចជួយឱ្យពួកគេមានអារម្មណ៍ថាគ្រប់គ្រងបានវិញ។
+5. **សុំជំនួយជំនួសឱ្យការសុំឱ្យបង្ហាញសមត្ថភាព។** «តើអ្នកអាចជួយខ្ញុំតម្រៀបរបស់ទាំងនេះបានទេ?» ឬ «តើអ្នកអាចប្រាប់ខ្ញុំបានទេថាពណ៌មួយណាមើលទៅល្អជាង?» អារម្មណ៍ថាមានប្រយោជន៍ខុសពីអារម្មណ៍ថាកំពុងត្រូវបានសាកល្បង។
+6. **ចាប់ផ្តើមវាដោយខ្លួនឯង។** ចាប់ផ្តើមសកម្មភាពនៅក្បែរពួកគេដោយមិនសួរ។ មនុស្សជាច្រើនចូលរួមនៅពេលដែលមានអ្វីមួយកំពុងកើតឡើងរួចហើយ ហើយបើពួកគេមិនចូលរួមទេ អ្នកនៅតែបានចំណាយពេលជាមួយគ្នា។
+7. **ប្តូរទៅសកម្មភាពរាងកាយ ឬសកម្មភាពបែបស្ងប់ស្ងាត់។** ការដើរលេងខ្លីៗ តន្ត្រី អាហារសម្រន់ ការបត់សម្លៀកបំពាក់ ឬការឈប់សម្រាកជាមួយ [ការដកដង្ហើមស្ងប់ស្ងាត់](/games/calm-breathing/)។ NIA ណែនាំឱ្យបង្វែរការចាប់អារម្មណ៍ទៅតន្ត្រី សៀវភៅ ឬការដើរលេង។
+8. **អនុញ្ញាតឱ្យពួកគេធ្វើតាមរបៀបរបស់ពួកគេ។** ប្រសិនបើពួកគេចង់លេងខុសពីច្បាប់ ក៏អនុញ្ញាតទៅ។ Alzheimer's Association ណែនាំឱ្យមានភាពបត់បែន។
 
-## What should I say when they get frustrated?
+## តើខ្ញុំគួរនិយាយអ្វីនៅពេលពួកគេហត់នឿយ?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+សូមយឺតជាងមុន បន្ថយសំឡេងរបស់អ្នក និងផ្តល់ការធានា។ [ការណែនាំរបស់ Alzheimer's Association អំពីការរំភើបឬមិនសុខស្រួល](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) ណែនាំឱ្យថយក្រោយ និងសុំការអនុញ្ញាត ប្រើសម្ដីស្ងប់ស្ងាត់ និងវិជ្ជមាន ហើយផ្តល់ជម្រើសដែលមានការណែនាំរវាងជម្រើសពីរ។ ឃ្លាដែលស្របតាមគំនិតនេះ៖
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- «ខ្ញុំសុំទោស សកម្មភាពនេះធ្វើឱ្យហត់នឿយ។ យើងឈប់សិន។»
+- «អ្នកធ្វើបានល្អហើយ។ ខ្ញុំនៅទីនេះ។»
+- «តើអ្នកមានពេលជួយខ្ញុំអ្វីផ្សេងទៀតទេ?»
+- «តើយើងផឹកតែមួយពែងជំនួសវិញយល់ទេ?»
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+បន្ទាប់មកបញ្ចប់សកម្មភាពដោយមិនធ្វើឱ្យវាក្លាយជារឿងធំ។ [គន្លឹះក្នុងការទំនាក់ទំនង](/caregiving/communication-tips/) របស់យើងមានព័ត៌មានបន្ថែមអំពីអ្វីដែលគួរនិយាយ។
 
-## What should I avoid?
+## តើខ្ញុំគួរជៀសវាងអ្វីខ្លះ?
 
-Some natural reactions tend to make things worse.
+ប្រតិកម្មមួយចំនួនដែលជាធម្មជាតិនឹងធ្វើឱ្យស្ថានភាពកាន់តែអាក្រក់។
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **ការឈ្លោះប្រកែក ឬការបង្ខំ។** «មកហើយ ម្តងទៀតម្តង» ឬ «អ្នកចូលចិត្តរឿងនេះណាស់» ជាធម្មតាមិនជួយទេ។
+- **ការសាកសួរ ឬការកែតម្រូវ។** «អ្នកដឹងថានេះជាអ្វី» ឬ «ទេ អันនោះខុស» បន្ថែមសម្ពាធ។
+- **ការយករឿងនេះមកខឹងខ្លួនឯង។** NIA រំលឹកអ្នកថែទាំថា ជំងឺនេះ មិនមែនមនុស្សនោះទេ ដែលបង្កឱ្យមានការផ្លាស់ប្តូរទាំងនេះ។
+- **ការឈរជិតពេក ឬការប្រញាប់។** Alzheimer's Association ណែនាំកុំឱ្យលើកសំឡេង បង្ហាញការភ័យស្លន់ស្លោ ច្របាច់បញ្ចូល ឈរជិតពេក ឃាត់ ករិះ បដិសេធមិនអើពើ ឬឈ្លោះប្រកែកជាមួយមនុស្សនោះ ហើយគួរជៀសវាងចលនាភ្លាមៗនៅក្រៅចន្លោះមើលឃើញរបស់ពួកគេ។
+- **ការប្រើអារម្មណ៍ពិរុទ្ធ។** «ខ្ញុំបានរៀបចំអ្វីៗទាំងនេះសម្រាប់អ្នក» ធ្វើឱ្យអ្នកទាំងពីរមានអារម្មណ៍កាន់តែមិនល្អ។
+- **ការដាក់ស្លាក។** «រឹងរូស» ឬ «ពិបាក» លាក់បាំងមូលហេតុពិត ហើយធ្វើឱ្យពិបាកក្នុងការដោះស្រាយ។
 
-## How can I find out what is behind repeated refusals?
+## តើខ្ញុំអាចរកឃើញអ្វីដែលនៅពីក្រោយការបដិសេធម្តងហើយម្តងទៀតដោយរបៀបណា?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+សូមកត់ចំណាំសាមញ្ញមួយក្នុងរយៈពេលមួយ ឬពីរសប្តាហ៍។ NIA បញ្ជាក់ថា ការតាមដានការផ្លាស់ប្តូរអាកប្បកិរិយាអាចជួយអ្នកថែទាំ និងអ្នកផ្តល់សេវាសុខភាពឱ្យស្គាល់លំនាំ និងរកមូលហេតុ។
 
-Jot down:
+សូមកត់៖
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- ពេលវេលាក្នុងថ្ងៃ
+- អ្វីដែលអ្នកបានស្នើ និងរបៀបដែលអ្នកបានសួរ
+- អ្វីដែលកំពុងកើតឡើងជុំវិញអ្នក (សម្លេងរំខាន ភ្ញៀវ ទូរទស្សន៍)
+- របៀបដែលពួកគេគេង ញ៉ាំ និងផឹក និងពេលវេលាចុងក្រោយដែលពួកគេបានទៅបន្ទប់ទឹក
+- ថ្នាំថ្មី ឬជំងឺថ្មីៗណាមួយ
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+លំនាំជាញឹកញាប់លេចឡើងយ៉ាងឆាប់រហ័ស៖ ការបដិសេធដែលកើតឡើងតែបន្ទាប់ពីម៉ោង 4 ល្ងាច កើតឡើងតែជាមួយល្បែងជាក់លាក់មួយ ឬកើតឡើងតែនៅពេលទូរទស្សន៍បើក។ [មគ្គុទ្ទេសក៍របស់ Family Caregiver Alliance អំពីអាកប្បកិរិយាជំងឺវង្វេងស្មារតី](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) និយាយយ៉ាងសាមញ្ញថា៖ យើងមិនអាចផ្លាស់ប្តូរមនុស្សនោះបានទេ ប៉ុន្តែយើងអាចផ្លាស់ប្តូរអាកប្បកិរិយារបស់យើង និងបរិយាកាសជុំវិញបាន។
 
-## When should I talk to a doctor about refusal or frustration?
+## តើខ្ញុំគួរនិយាយជាមួយវេជ្ជបណ្ឌិតអំពីការបដិសេធ ឬការហត់នឿយនៅពេលណា?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+សូមនិយាយជាមួយវេជ្ជបណ្ឌិតនៅពេលដែលអាកប្បកិរិយាផ្លាស់ប្តូរភ្លាមៗ យ៉ាងឆាប់រហ័ស ឬមានសញ្ញាជំងឺរួមផ្សំ។ NIA បញ្ជាក់ថា ការផ្លាស់ប្តូរអាកប្បកិរិយាដែលកើតឡើងភ្លាមៗ ឬផ្លាស់ប្តូរយ៉ាងឆាប់រហ័ស ជាពិសេសប្រសិនបើមនុស្សនោះមានការឆ្លងមេរោគ ឬមានការផ្លាស់ប្តូរថ្នាំថ្មីៗ គួរត្រូវបានជូនដំណឹងដល់វេជ្ជបណ្ឌិតភ្លាមៗ។
 
-Contact their doctor promptly if you notice:
+សូមទាក់ទងវេជ្ជបណ្ឌិតរបស់ពួកគេភ្លាមៗ ប្រសិនបើអ្នកកត់សម្គាល់៖
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- ការភាន់ច្រឡំភ្លាមៗ ឬការផ្លាស់ប្តូរធំក្នុងរយៈពេលពីរបីម៉ោង ឬពីរបីថ្ងៃ
+- សញ្ញានៃការឈឺចាប់ ដូចជាការញញឹមខ្លាំង ការការពារផ្នែកណាមួយនៃរាងកាយ ឬការលំបាកថ្មីក្នុងការធ្វើចលនា
+- គ្រុនក្តៅ ឬសញ្ញាផ្សេងទៀតនៃការឆ្លងមេរោគ
+- ថ្នាំថ្មី ឬថ្នាំដែលបានផ្លាស់ប្តូរ បន្ទាប់មកមានការផ្លាស់ប្តូរអាកប្បកិរិយា
+- ការបាត់បង់ចំណាប់អារម្មណ៍លើស្ទើរតែអ្វីៗទាំងអស់ ការយំ ឬការដកខ្លួនចេញដែលមានរយៈពេលលើសពីពីរសប្តាហ៍
+- ការបដិសេធមិនញ៉ាំ ឬមិនផឹក
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association ណែនាំឱ្យមានការពិនិត្យសុខភាពវេជ្ជសាស្ត្រយ៉ាងហ្មត់ចត់សម្រាប់នរណាម្នាក់ដែលមានរោគសញ្ញាអាកប្បកិរិយា ជាពិសេសនៅពេលដែលវាកើតឡើងភ្លាមៗ។ Family Caregiver Alliance ក៏ណែនាំឱ្យពិនិត្យជាមួយវេជ្ជបណ្ឌិតជាមុនសិន ដោយសារបញ្ហាអាកប្បកិរិយាអាចមានមូលហេតុផ្នែកវេជ្ជសាស្ត្រ។ កុំចាប់ផ្តើម បញ្ឈប់ ឬផ្លាស់ប្តូរថ្នាំណាមួយដោយមិនបាននិយាយជាមួយវេជ្ជបណ្ឌិត ឬឱសថការីជាមុនសិន។
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+ប្រសិនបើនរណាម្នាក់ស្ថិតក្នុងគ្រោះថ្នាក់ ឬមានសញ្ញានៃស្ថានភាពសង្គ្រោះបន្ទាន់ផ្នែកវេជ្ជសាស្ត្រ សូមទូរស័ព្ទទៅលេខសេវាសង្គ្រោះបន្ទាន់ក្នុងតំបន់របស់អ្នក។ NIA ណែនាំឱ្យប្រាប់អ្នកទទួលការហៅទូរស័ព្ទថាមនុស្សនោះមានជំងឺវង្វេងស្មារតី។
 
-## Is it okay if we do nothing at all?
+## តើមិនអីទេប្រសិនបើយើងមិនធ្វើអ្វីសោះ?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+មិនអីទេ។ មានថ្ងៃខ្លះ សកម្មភាពល្អបំផុតគឺគ្មានសកម្មភាព៖ អង្គុយជាមួយគ្នា កាន់ដៃគ្នា ស្តាប់បទចម្រៀងដែលចូលចិត្ត ឬមើលបក្សីនៅក្រៅបង្អួច។ នោះមិនមែនជាការបរាជ័យទេ។ [មគ្គុទ្ទេសក៍របស់យើងអំពីការលេងជាមួយគ្នា](/caregiving/how-to-play-together/) ពន្យល់ពីមូលហេតុដែលការឈប់មុន ឬមិនចាប់ផ្តើមសោះ អាចជាការសម្រេចចិត្តត្រឹមត្រូវ។

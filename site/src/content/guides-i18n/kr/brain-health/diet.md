@@ -1,33 +1,32 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Kəmbu MIND-a Mediterranean-a kuru dəmendi: Kəndobe kulashi"
+seoTitle: "Kəmbu MIND kuru dəmendi: Kəndobe kulashi"
+description: "Kəndobe kəmbu MIND-a Mediterranean-a kuru dəmendi-a lanza manazǝna, dalil jarabtǝben faida bayin, kuru kəla kǝmbu ngəla kam dəmendi-a sədinma."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Kəndobe laa ambo kərtənyi kəmbu Mediterranean-a MIND-a dəmendi-a kasuwuro
+  tartəgə-a kəlkəlzəna, amma sabsana bawo. Jarabtǝ kuru saa yakku (2023)
+  kəmbu MIND-be sədǝna, hangal-a kuru suro karǝn kǝla-be alamaram kəla
+  kəmbu gade-be-a fərtənyi bayin. Kəmbu aw yaa dawa aw dəmendi-a daptinro
+  tabbattǝna bawo. Am dəmendi-a lanza-a, kəmbu-a nji-a ngəla bu-a aw kǝlaa.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Kəndobe laa ambo kərtənyi, amma sabsana bawo, kəmbu Mediterranean-a MIND-a dəmendi-a kasuwuro tartəgə-a kəlkəlzəna."
+  - "Jarabtǝ 2023-be lan, am ngəwube 604 kəmbu MIND-be sədǝna-a kəmbu gade-be sədǝna-a, saa yakku ngawon, jarabtǝ hangal-be-a suro karǝn kǝla-be-a fərtənyi bayin."
+  - "National Institute on Aging ye gulzǝna, dalil kəmbu fal daptinro aw koltinro Alzheimer-a daptin, kuru vitamin aw dawa aw Alzheimer-a daptinro tabbattǝna bawo."
+  - "Kəmbu kəli, tada, ngalo, alkama kamil-a buni-a ngəwu-a kəla zaitun-be ngəla, amma dəmendi-a daptinro tabbattǝna bawo."
+  - "Kam dəmendi-a sədinma, kəmbu mukko lan bu-a, tasa rangi fərtə-a, kəmbu bu naptǝram kəlefaye-a, kuru nji sabsana yin-a awo laa kəmbu fal manabe-a kozǝna."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Kəmbu MIND dəmendi-a daptin wa?"
+    a: "Awo adə tabbattǝna bawo. Kəndobe laa kərtənyi kəmbu MIND dəmendi-a kasuwuro tartəgə-a kəlkəlzǝna, amma jarabtǝ saa yakkuye 2023 lan tǝwandǝna, am kəmbu MIND-be sədǝna-a am kəmbu gade-be sədǝna-a jarabtǝ hangal-be-a suro karǝn kǝla-be-a fərtənyi bayin. Jama-a sammaso gana ngəlaro walzǝna kuru nəmkurnyi kəlanzǝ kalkal."
+  - q: "Fərtə kəmbu MIND-a kəmbu Mediterranean-a dawoben tiyi?"
+    a: "Kəmbu Mediterranean kəli, tada, alkama kamil, ngalo, buni-a kəngal zaitun-a ngəwuro manazǝna, da ngəri-a kəmbu nyəm-a gana. Kəmbu MIND kəmbu Mediterranean-a DASH (bu lamarra-be) kəltǝna, kəli kəlanzǝ kura-a berry-a ngəwuro manazǝna, da ngəri, kəmbu nyəm, cuku, bota-a kəmbu kazəmbe-a gana kolzǝna."
+  - q: "Kəmbu aw dawa aw Alzheimer-a daptin wa?"
+    a: "A'a. National Institute on Aging ye gulzǝna, dalil kəmbu fal bu aw koltin Alzheimer-a aw hangal kurabe daptin bawo, kuru vitamin aw dawa aw Alzheimer-a daptinro tabbattǝna bawo. Dawa yikko buro, luwotǝ-a mana bən."
+  - q: "Kəmbu jiri fi ye kam dəmendi-a sədinmaro ngalwo?"
+    a: "Kəmbu gana-gana mukko lan tətain, misallo kəmbu burodi gana, da kaza, lemu gana, aw kəli yirzǝna, cokali faidatǝna-a kozǝna. Taa aw mazǝmmo zǝkkǝyia, kəmbu ləbləba misallo ngəwul karəgə, apple sauce, aw cuku cottage faidajin. Kǝmazi aw mazǝmmo zǝkkǝyia, luwotǝ-a kullo ruyi."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +57,90 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Wande kəranduwo «kəmbu hangal ngəla-be» Alzheimer-a daptin. Amma ngawo jili adǝ gana. Kəmbu laa ambo kərtənyi dəmendi-a kasuwuro tartəgə-a kəlkəlzǝna, amma jarabtǝ ngalwo-a kərmai lan faida tabbat sədin bawo. Warak adə awo aniro fasarzǝna, kuru ngawo kam dəmendi-a sədinmaro: kəmbu-a nji-a ngəla bu-a, kuru kəji fəlejin-a.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Adə bayan kəmmi, shawari luwota-be gəni. Kəmbu nəmbero faltəyin ma, aw kəmbu kam gadebero faltəyin ma, buro luwotǝ-a aw ngəri kəmbu-be-a mana bən. [Bayannəm luwotabe](/medical-disclaimer/) rui.
 
-## What are the Mediterranean and MIND diets?
+## Kəmbu Mediterranean-a MIND-a aw?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) adǝga bayanzǝna
+([NIA kuru kəmbu-a Alzheimer-a](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Kəmbu Mediterranean:** tada, kəli, alkama kamil, ngalo, buni-a kəram njiye-a, kuru kəngal zaitun ngəwu. Da ngəri, ngəwul-a kəmbu nyəm-a gana.
+- **Kəmbu MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay): kəmbu Mediterranean-a DASH (bu lamarra-be) kəltǝna. Kəli, kǝlaa kəli kəlanzǝ kura; berry; alkama kamil; ngalo; kəskar; buni ngəmariro fal adǝga lan; kuru kəngal zaitun manazǝna. Da ngəri, kəmbu nyəm, cuku, bota aw margarine, kuru kəmbu kazəmbe aw kəmbu dǝgan faidatǝ-a gana kolzǝna.
 
-## Do these diets lower dementia risk?
+## Kəmbu aniye dəmendi-a kasuwuro tartǝyin wa?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Dalil adə kalkal gəni. NIA ye gulzǝna, kəndobe laa ambo kərtənyi kəmbu Mediterranean-a MIND-a dəmendi-a kasuwuro tartəgə-a kəlkəlzǝna, kəmbu Yamma-a (da ngəri, da nəmjili, sukər ngəwu) sədinma-a kəskǝlan.
 
-The 2024 Lancet Commission reviewed the research in more detail
+Lancet Commission 2024-be kəndobe-a kuruwo ruyeno
 ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Kəndobe laa kəlzǝna, kəmbu ngəla ngəwuro sədin dəmendi-a kasuwu 20% gana tartəgə-a kəlkəlzǝna.
+- Kəndobe kura laa am jama yakku kərtənyi, kəmbu MIND ngəwuro sədin dəmendi-a kasuwu gana.
+- Amma kəndobe Suediya-be lan, am 28,025 saa 20 gai kərtənyi, kəmbu shawartǝna aw kəmbu Mediterranean-a dəmendi-a kasuwuro tartənyi bawo.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Kəndobe kərtənyi ye dalil «sabǝba adǝ» tabbatcin bawo. Am kəmbu adǝga bu-a, kənjo laa lan gade (arziki, ilmu, kəla fəletǝ, kuru luwotǝ mbeji) fərtəna mbeji. Commission ye gulzǝna, dalil ngəwu kəmbu ngəla dəmendi-a sapsapsaro daptin bawo, amma tada-a kəli-a ngəwuro bu-a, kuru kəmbu masana ngəwu gana bu-a, kəla ngəla-a dǝgan-a, kuru lamarra kura, suga dǝwu-a nəmkurwo-a tartəyin. Awo adə [dalil zakkǝ 14](/brain-health/risk-factors/)-be ro kəlzǝnyi bawo.
 
-## What did the 2023 MIND diet trial find?
+## Jarabtǝ kəmbu MIND-be 2023 lan aw fandǝna?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Jarabtǝ kǝlaa kərmai 2023 lan New England Journal of Medicine lan tǝwandǝna
+([Jarabtǝ kəmbu MIND-be](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Am ndu:** am 604 saa 65-a kozǝna, Chicago-a Boston-a lan, hangal zakkǝ bawo, kam fadǝben dəmendi-a mbeji, nəmkurnyi kozǝna, kuru kəmbu ngəla gənia badiyezǝna.
+- **Awo sədǝna:** saa yakkuro, jama fardu kəmbu MIND-be sədǝna, jama fardu kəmbu ngawo-a sədǝna. Jama-a sammaso kəmbu kalori 250 gana gapturo wulzǝna, kuru ngəri kəmbu-be-a lan bana ngəwu sədǝna.
+- **Alama:** jarabtǝ hangal-be jama-a sammasoben gana ngəlaro walzǝna. Fərtə dawonzǝben gana, kuru **dalil ngəwu gəni**. Suro karǝn kǝla-be lan gade-a kəlanzǝ kalkal.
+- **Nəmkur:** jama-a sammaso kilogram 5 (pound 11 gai) kuruwuna.
 
-### Why might the trial have found no difference?
+### Ndayin ma fərtənyi bayin?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Kulashima ye dalil laa bayanzǝna. Jama kəmbu gade-be sədǝna-a kəmbunza ngəlaro walzǝna, dalil adǝro nəmkur kəlanzǝ kalkal kuruwuna. Jarabtǝ sabsana sədin ambo, jarabtǝ-a nozǝna dalilro, alama ngəlaro walzǝyin. Saa yakku gana mbeji. Am ngəwuwa ilmu ngəwu mbeji kuru jili Europe-be mbeji, adǝye am sammaro fal gəni.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Ngawo adǝma: kəmbu MIND saa yakku lan kəmbu kalori gana gaptǝna-a kozǝnyi bawo. Adǝ mananzǝ kəmbu ngəla faida bawo gəni. Amma mananzǝ kəmbu fal lan dəmendi-a daptinro tammaro səmmi gəni.
 
-## What about specific foods and supplements?
+## Kəmbu laa kuru dawa laa faidajin wa?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA ye gulzǝna, dalil kəmbu fal bu aw koltin Alzheimer-a aw hangal kurabe daptin bawo. Blueberry, kəli kəlanzǝ kura-a turmeric-a kərtəna, amma tabbattǝna bawo. NIA ye gulzǝna, vitamin aw dawa aw Alzheimer-a daptinro tabbattǝna bawo, kuru awo adǝro shawartǝnyi bawo. NIA ye manazǝna, karuwu tabbattǝna bawo Alzheimer-a daptinro ladǝna-a zakkǝ mbeji, kungəna fǝlezǝyin, aw indi sammaro, kuru dawa luwotabe-a fəltəgəyin mbeji. Awo yikko buro, luwotǝ-a mana bən
+([NIA kuru Alzheimer-a daptǝ](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Kəmbu ngəla-a kəji-a futu gəptin?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Am ngəwube ngəwuro, nia kəmbu ngəla, nozǝna-a, kəji-a mbeji, dokari zaktǝna gəni:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Kəmbu nəmraana-a lan badiyo** kəmbu Mediterranean-be dǝgan: kəli, tada, ngalo, alkama kamil, buni-a kəngal zaitun.
+- **Kəmbu kəji-a kolma.** Kəji-a kəmbu buro maara-a, kǝlaa ngawon kurayen, faida ngəwu.
+- **Am gade-a rokko bu.** Kəmbu kəlado-a rokko bu kəji.
+- **Kəlado-a rokko də.** Kəli tullǝ aw kəmbu lambutǝ cidawa ngəla; [cida fadobe](/activities/household-tasks/) rui. Kəmbu fadobe nozǝna-a [awo ngawo-a kəletǝ](/activities/reminiscence/)-a badiyinzǝyin.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Am ngəwube kalori gaptinro aw nəmkur kuruwutinro, luwotǝ-a mananzayin, kuru asem faidajin-a zakkǝ laa mbeji. [Bayan asembe](/brain-health/fasting/) rui.
 
-## How can you help someone with dementia eat well?
+## Futu kam dəmendi-a sədinma-a kəmbu ngəla buzǝna banajin?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Am dəmendi-a lanza-a, kəmbu-a nji-a **ngəla** bu-a awo kǝlaa. Alzheimer's Association ye bayanzǝna, am laa kəmbu bu njessin, aw kəmbunza cizəna tammayin, aw kəmbu ngəwu fuwun hangalnzǝ zakkəgəyin. Kəmbu ngəla bawoa hal ngəla gade-a nəmkur kuruwu-a kəlkəlzǝyin mbeji
+([Alzheimer's Association kuru kəmbu-a bu-a](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Shawari aniye Alzheimer's Association, NIA-a Alzheimer's Society-a lan kadǝna:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Kəmbu mukko lan tətain yin.** Kəmbu gana-gana mukko lan gotǝna, misallo kəmbu burodi gana, da kaza, buni kazəm gana, lemu gana, aw broccoli yirzǝna, kamdə kəlanza kəmbu buro banajin, cokali bawo.
+2. **Tasa rangi fərtə faidatǝ.** Sim kəla faltǝ-a kəmbu-a tasa-a fərtǝgǝro zakkəgəyin. Tasa bulla aw kəskul bulla kənza rangi fərtəbe lan yikǝ faidajin. Tasa nakil-a, tebur korobe nakil-a kollo.
+3. **Kəmbu fal aw indi fal loktu falro yin.** Tasa kəmbu ngəwube hangal zakkəgəyin.
+4. **Loktu kəmbu-be naptǝramro yikko.** TV dəpkə, tebur-a fəletə, kuru loktu ngəwu yin. NIA ye dǝgan aw duno gəniro wulzǝna.
+5. **Kəmbu gana-gana-a kəmbu dawube-a loktu ngəwuro yin.** Kamdə ngəla buwonyi, NIA ye kəmbu gana-gana loktu ngəwuro-a kəmbu nguli ngəwube-a shawarzǝna
+   ([NIA shawari kəmbu ngəla-be](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Nji yaro bana.** Nji aw nji gade kəskul gana-gana lan kawu sammaro yin, kuru kəmbu nji ngəwube misallo tada, suwa, milkshake-a smoothie-a kəlzə. Kamdə nji ciro wayia, NIA ye lemu njiye, nji dawu-a, suwa da-a, cam-a, aw kafe aw shayi kafein bawo-a jarabtǝro wulzǝna.
+7. **Nəmzəwu rui.** Kamdə kəmbu aw nji zǝwu ngəwua asutǝnyi mbeji.
+8. **Awo kəmbu-be-a kəskul-a faltǝ.** Tasa maimakon tasa kura, cokali mukko kura-a, kuru kəskul kafǝr-a kəmbu bu-a ngəlaro walzǝyin. Tasa kəllewa gənia hangal gǝnayin.
+9. **Kəmbu ta-a kuru mazǝmmo-a ngəlaro yikko.** Kəmbu-a gana-gana ro katə, aw kəmbu ləbləba yin. Kamdə kǝmaziyin aw mazǝmmo zǝkkəyiya, luwotanzǝro wulne.
+10. **Duno kəmbu buzəyinro gəni.** NIA ye bayanzǝna, Alzheimer ngawon daryen kəmbu bu maara ganaro walzǝyin.
 
-### Signs to tell the doctor about
+### Alama luwotǝro wulgata
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Nəmkur kuruwu, kəmbu bu wantǝ, nəmba aw duno bawoa kəmbu ngəla buwonyi-a fǝlezǝyin. Alzheimer's Society ye bayanzǝna, timi aw timi nasha zakkǝ, hangal kuttǝ, surro letǝ zakkǝ-a dawa faltǝ-a kəmbu bu maara-a ganazəgəyin
+([Alzheimer's Society kuru kəmbu bu maara-a](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alama nji tǝyi bawobe NIA ye bayanzǝna: ci ngəri, hangal faltǝ, karǝn dǝgan dǝgan luwu-a, kuru awo fǝlejin ruyi-a
+([NIA kuru luwotǝ zakkǝ gade-a](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Luwotǝ-a mana bən
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Kəmbu nəmbero aw kam gadebero faltǝ kura yikko buro, luwotǝ-a aw ngəri kəmbu-be-a mana bən, kǝlaa suga dǝwu, kəndi kǝla, mazǝmmo zakkǝ aw nəmkur kuruwu ngawo mbejia. Kam dəmendi-a sədinmaro, kawu ngəwuro kəmbu-a nji-a ndaro buzǝna cizəna-a, kuru ngəri kəmbu-be aw dawa faidajin-a koro.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Bana dǝganro mowo kamdə mazǝmmonzǝ zǝkkǝna, aw hangalnzǝ dǝgan faltǝna, hangalnzǝ ngəwuro faltǝna aw kurunzǝ sammana.

@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Cida am dimentiabea kǝla rozana zamnzǝna ma ro"
+seoTitle: "Cida am dimentiabea kǝla rozana zamnzǝna ma ro"
+description: "Cida am dimentiabea kǝla rozana zamnzǝna ma ro, cidanza kǝla, kǝndoram-a adanza kǝla tǝdǝna, kuru fǝlezǝnanzǝ safety ro faidatǝ."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Cida ngalwo kam dimentiabea kǝla rozana zamnzǝna ma ro, kǝndoramnzǝ kǝla
+  tǝdǝna: cida sadǝna, kǝndoram jauro kǝskǝna-a adanza kǝltǝ yadayena. Kam
+  buro ro cidazǝna da, warak faltǝ jauro kǝskozǝyin; kam moto fǝletǝ da, kare
+  kǝla kǝndoram tǝttuluwu ro faidatǝyin; kam wasǝ bisko jauro kǝskǝna da,
+  wasǝ bisko kǝrma bǝlin ro ruiyin. Kǝndoram so ambo-a gade, adǝye nankaro
+  kam tǝlamin lan badinǝm, kongwa-a lan gǝnyi.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Kam adǝben kǝndoramnzǝ lan badinǝm: cidanzǝ, kǝndoramnzǝ, adanzǝ-a awo shiro tǝma hangal gǝnazǝna."
+  - "Cida faidaa, misallo kare faltǝ, moto tultǝ, au katako ngǝlawo sǝsǝtǝ, shima daras ro tǝdǝna-a nankaro jauro kǝskozǝyin."
+  - "Kongwa samma kare-a wasǝ bisko-a lan kǝskozǝnyi. Am laa kǝmbu detǝ, musko, kulo, awo zǝkkatǝ au am gade ro bana faidatǝ jauro kǝskozǝyin. Kǝrǝwo, rui kuru hangalnzǝ gai."
+  - "Cida cidabe ro tǝdǝna safety ro diwo: kare tajirwa-a awo tajirwa-a cintǝ, kuru ruminǝm, kuru dawarnzǝ faltǝya futu ro diwo."
+  - "'A'a' wultǝ ngǝla. Cida shiro yikko, dawari gǝnyi, kuru kawu gade yitagattǝ rui."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Cida fǝlezǝna am dimentiabea kǝla rozana zamnzǝna ma ro jauro kǝskozǝna?"
+    a: "Jawu fal tilo bawo, dalilnzǝ kǝndoram kongwabe am samma ro gade. Baditǝ ngǝla so cidanzǝ kǝrma-a kǝla tǝdǝna, misallo warak faltǝ au nut-a bolt-a faltǝ, kuru kǝndoram kǝrma jauro kǝskǝna, misallo buni sǝtǝ, moto, musko, kǝmbu detǝ au wasǝ bisko. Awo kǝlanza sadin rui kuru adǝga kǝla tǝdǝne."
+  - q: "Bawani cida jama ro sadǝna-a wazin. Awi dimi?"
+    a: "Am kada, kongwa-a kamu-a samma, cida daras ro au nduli ro tǝdǝna-a wanzayin. Adǝ nankaro cida shiro yikke rui: 'Kare ania faltǝro bana semin wa?' Jama gana au kam tilo-a kǝltǝ na jama kura-a nankaro hangalnzǝro ngǝla waljin."
+  - q: "Shi kare faidatǝnzǝ safety ro wa?"
+    a: "Ruminnǝm-a kare safety-a ro kawai. Kare kǝndobe, teji-a awo tajirwa samma-a cintǝ, kuru cida misallo katako ngǝlawo sǝsǝtǝ, kare kǝla tǝttuluwu faltǝ, au bolt kura musko lan tǝkkǝrǝtǝ yikko. Alzheimer's Association kare tajirwa cidabe na-a lan cintǝro shawari zin, nankaro cida katako sǝsǝtǝbe safety ro faidatǝ."
+  - q: "Shi kam ilimmaa cidaa. Cida ngǝlawo adǝ shiro hangalnzǝ bannajin wa?"
+    a: "Cida adǝ faida bawo ro fǝlezǝna ya, aadǝ waljin. Cida adǝ bana jire ro fǝlezǝne, kare kam kuraabe faidatǝne, kuru cida cidanzǝ kǝrma-a kǝltǝn tǝdǝna kartǝ, misallo jawu fal ruitǝ, fayil faltǝ au warak zuwatǝro bana sadǝ. Shi awo fal lan jauro nozǝna ma ya, cida kǝltǝn amma gade faidatǝ adǝ kǝratǝnza-a nankaro hangalnzǝro ngǝla waljin."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Am kada "cida am dimentiabea kǝla rozana zamnzǝna ma ro" manazayin, dalilnzǝ shawari kǝltǝrambe kam kǝskǝnadǝro jero cizǝnyi. Adǝ kǝla hangal ngǝla. Amma jawawnzǝ cida "kongwabe" ro tǝdǝna-a gǝnyi. Kam adǝbe lan badinǝm: cida jiri fǝlezǝna sadǝna, wikendnzǝn awi sadǝna, kuru awi shiro faidaa hangal yikkozǝna. Kǝndoram am samma ro gade. Kongwa kada kǝmbu detǝ, kulo, zǝkkatǝ au yirǝtǝ jauro kǝskozǝna, kuru kamu kada moto-a wasǝ bisko-a jauro kǝskozǝna.
 
-## How do I find activities he will actually enjoy?
+## Futǝn cida shi jirelan jauro kǝskozǝna matǝyin?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Kǝndoramnzǝn badinǝm. Alzheimer's Association [kǝsku yawobe plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) tǝdǝ, kamdǝ kǝndoramnzǝ, awo wanzǝna, dunonzǝ-a kǝndoramnzǝ-a kǝla, kuru futǝn kǝrma kawunzǝ tǝdǝna kǝla. Kǝlanǝmbo kǝrǝwo:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Cidanzǝ awi?** Buro, kulo, fatori, cida musko-a kare-a, soji, ladǝ, karǝntǝ, moto fǝletǝ, au fato cidabe?
+- **Loktu kǝskanzǝn awi sadǝna?** Buni sǝtǝ, kartǝ biskobe, katako cida, wasǝ bisko, coci, musko, kǝmbu detǝ, au garajin moto?
+- **Adanzǝ awi?** Sǝbǝn yaskǝ kahawa-a warak karǝtǝ-a? Samno ruitǝ? Asabar yaskǝ moto tultǝ?
+- **Kuwa yaye awo kǝlanza badijin?** Association wuljana, kam fal cida koro bawo ro badizǝna ya, misallo fato kǝsǝttǝ, cida ani adanzǝn faltǝgǝyin.
+- **Awi wanzǝna?** Am laa wasǝ bisko rui jauro kǝskozǝna; am laa dunon hangalnzǝ faidatǝ-a au kǝji bannatǝ-a shiro sadin. Shi loktu hangalnzǝ ngǝla, kǝrǝptǝ au gǝrgatǝ rui.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Am fado-a sawa kǝrma-a ro koro mananǝm. Su kǝndoram kǝndoram kǝltǝramben cizǝna-a taktǝgǝyin.
 
-## Activity ideas based on past work
+## Cida cidanzǝ kǝrma-a kǝla tǝdǝna
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association misal bayin fǝlejin: kam kǝrma buro ro cidazǝna, cida faltǝbe jauro kǝskozǝyin, misallo kǝmbu faltǝ, warak zuwatǝro bana sadǝ au kǝla awo sadǝbe ruwo; kam kǝrma kuloma au kulobe cidama, kulon cida sadǝ jauro kǝskozǝyin. Hangal adǝbe cida kada-a ro kǝltǝgǝyin.
 
-| Past work | Activity ideas | Simpler version |
+| Cida kǝrma | Cida hangalnzǝ | Futun ngǝlawo ro tǝdǝ |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Buro au kasuwu | Warak fayil ro faltǝ, ambulop ro tambu kaltǝ, jawu fal ruitǝ, tebur drowernzǝ faltǝ | Ambulop sartǝ; klip warakbe sanduk ro yikko |
+| Cida musko-a kare-a au mekanik | Nut, bolt-a washer-a kǝla tǝttuluwu faltǝ; bolt kura musko lan tǝkkǝrǝtǝ; katalog karebe rui | Kurunzǝn cidi indi ro faltǝ |
+| Kulo au kulo fǝletǝ | Ingi yikko, kǝska kǝmbutǝ, kǝli kǝsǝptǝ, kulo ruitǝ | Shi cidajin manan nyiya naptǝ; jakǝl kǝskabe rotaa |
+| Soji | Suno tǝttuluwu, drower faltǝ, loktu adǝbe foto ruitǝ, shi adǝ shiro kǝskozǝna ya | Loktu adǝbe musko fanzǝtǝ |
+| Ladǝ au am ro cida sadǝ | Kusotto marhabatǝ, kǝmbu yita, kupon faltǝ | Cinma lan naptǝ salam wultǝro |
+| Karǝntǝ | Kǝla nǝm rǝptǝ, kitawu faltǝ, foto nawuri ro faltǝ | Kitawu fotobe kǝltǝn rui |
+| Moto fǝletǝ au zawal | Taswir au mujalla moto kǝrmabe rui, moto tultǝ | Baranda lan napkada moto kozǝna rui |
+| Fato-a fado-a | Kazǝmu dǝptǝ, tebur dawatǝ, kǝmbu detǝro bana sadǝ | Tawul ngǝlawo tǝttuluwu; awo bǝrmitǝ |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Taktu laa, misallo cida sojibe, hangal dunodǝ cistǝgǝyin. Hangalnzǝ gai, kǝndoram kǝrma kǝla mana ngǝla sadǝ, kuru shi hangalnzǝ bannazǝna ruiya, mana gade ro ngǝla faltǝgǝne.
 
-## Activity ideas based on hobbies
+## Cida kǝndoram-a kǝla tǝdǝna
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Katako cida.** Katako ngǝlawo sǝsǝtǝ au ngudo kǝske kitbe rǝngǝ. Alzheimer's Association kare tajirwa-a awo tajirwa cidabe na-a lan cintǝro shawari zin, nankaro cida katako sǝsǝtǝbe kǝji bawo-a safety-a ro faidatǝ.
+2. **Buni sǝtǝ.** Sanduk kare buni sǝtǝbe kawuwa cintǝn faltǝ, mujalla buni sǝtǝbe rui, au falam cinman kǝltǝn naptǝ.
+3. **Moto.** Moto tultǝ, kǝrom tǝttuluwu, foto moto kǝrmabe rui, au kam kozǝna ro napkada zawal lezǝtǝ.
+4. **Wasǝ bisko.** Wasǝ bisko kǝrma au fǝlezǝna gǝna rui, bɔl ngǝlawo gutǝ, kǝpitin bɔl golfbe tǝdǝ, au kartǝ wasǝ biskobe faltǝ. Hawa lan diwo kuru lamba ngǝnatǝ kolnǝm.
+5. **Kartǝ-a biskobe.** Kartǝ biskobe nozǝna ngǝlawo, domino, au kartǝ faltǝgǝnǝm sammaa matǝro. Hangal ngǝla lan diwo kuru lamba ngǝnatǝ kolnǝm.
+6. **Musko.** Yironzǝ sawu-a fiwurin yirǝna, bǝndi jauro kǝskǝna, au yirǝ ibadabe. [Dalil musko cidabe](/activities/music/) rui.
+7. **Kǝmbu detǝ-a kǝmbu rǝttǝ.** Kǝli tultǝ, miya bǝrmitǝ, baga tǝdǝ, au futǝn kǝmbunzǝ shaharaabe detǝna bayinno, shi nyi detǝmin manan.
+8. **Warak labar.** Alzheimer's Association bayin zǝkkin, kam sǝbǝn yaskǝ warak karatǝ adanzǝna, kǝrma karatǝ adǝga faidatǝro kǝskozǝyin, shi awo karajin samma hangalnzǝn cizǝnyi yaye. Kahawa-a warak-a sǝbǝn yaskǝn faltǝgǝyin.
+9. **Gartǝ.** Model kura-a cida gartǝbe ngǝlawo am kurabe ro. Kǝre rotaa ngǝla kartǝ.
+10. **Awo fal ro kǝskǝtǝ.** Dabba ro kǝmbu yikko, ngudo ro kǝmbu yikko, au kǝska ro ingi yikko. NIA [dabba ro kǝmbu yikko, tǝttuluwu au kǝskata](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) am laa jauro kǝskozǝna cida-a ro zǝkcin.
 
-## How do I offer an activity without it feeling like busywork?
+## Futǝn cida fal yikǝmi, amma cida faida bawoa ro tǝdǝnyi?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Bana jire ro fǝlezǝne. Alzheimer's Association "Martǝgǝne, bana semin wa?" wultǝ-a cida-a faidanzǝ-a kǝltǝro shawari zin. Kǝratǝ:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- "Bolt ania faltǝmi raamma wa?" (jarabtǝ ro fanjin)
+- "Kare faltǝgǝna fal sivvǝna kuru shelf dinadinro kawu faltǝmiya mbeji. Bana semin wa?" (cida jire ro fanjin)
 
-Other tips:
+Shawari gade:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Kare am kurabe faidatǝne.** Kare jirebe amma tajinzǝ cintǝna, katalog jirebe, ambulop jirebe.
+- **Kǝltǝn cidatǝnǝm.** Am indi cida fal sadin ya, adǝ sawa. Kam fal rui, kam fal cidajin ya, adǝ rumin.
+- **Tǝkkǝ bawo.** Bolt sanduk gade ro gǝnazǝna ya, kolnǝm. Awo faidama loktu kǝltǝn diyenabe-a hangal faidaa-a.
+- **Baditǝro bana yikko.** Alzheimer's Association bayin zǝkkin, am kada kǝrma cida sadǝro cizǝna, amma tǝdǝtǝ-a baditǝ-a shiro kǝsǝttǝ waljin. Buro burwon kǝltǝn dinǝm.
 
-## How do I adapt as things change?
+## Futǝn dawari faltǝya tǝdǝgǝmi?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Dimentiabe ngǝwuro lezǝna ya, Alzheimer's Association cida ngǝlawo-a kǝltǝgǝn sadǝ-a baditǝro, kuru kamdǝ cida bǝlin sadǝro dawartǝgǝyin. Kam kǝrma injin fǝlezǝna cizǝna, kǝrma kare kǝla tǝttuluwu rotaa kuru moto kǝla manazǝyin, au nyi cidǝmin ruiyin. Ruitǝma cidan faidatǝ.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Shi awo fal lan jauro nozǝna ma ya, cida kǝltǝn amma gade cidanzǝ kǝrma-a nankaro shiro ngǝla waljin. Association bayin zǝkkin, zǝkkama kura fal cidanzǝn faltǝ ruiya hangalnzǝ bannajin, amma kam kǝndoram ro sǝdǝna fal cidanzǝ bǝlin ro kǝji fanjin. Adǝbe katako cidama kura-a ro kǝltǝgǝyin.
 
-## Safety with work-style tasks
+## Cida cidabe ro tǝdǝna-a safety-a
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Kare kǝndobe, teji, kusu-a kare tajirwa-a cintǝ.
+- Rǝngi kǝska fǝletǝbe, litar, au kare kǝji so kǝlfone.
+- Shi kǝrma moto fǝlejin bawo ya, mukufta motobe na rutǝgǝna lan goznǝm.
+- Cida cidabe na-a au kulo cidabe samma ruminǝm.
+- Kǝre kura, tǝmbǝn dǝgayin, kartǝ.
 
-## What if he says no?
+## Shi 'a'a' wuljana ya?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Hangalnzǝga gǝnane. 'A'a' adǝ maananzǝ cida adǝ shiro kǝsǝttǝ, nduli ro tǝdǝna, au ku adǝro jero gǝnyi. Cida gade, loktu gade rui, au kǝltǝn napnǝm. [Shi 'a'a' wuljana ya awi dimi](/caregiving/when-they-say-no/) rui.
 
-## Games and conversation that fit
+## Bisko-a mana-a jero cizǝna
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) mana Amerikabe nozǝna faidatǝn kuru mana ro kǝnzatǝn. [Conversation Cards](/games/conversation-cards/) koro bawo, kǝla gade-gade lan nawuri ro tǝdǝna, adǝ cida-a kǝndoram-a kǝla kǝla ngǝwu bayinro bana sadin. [Picture Puzzle](/games/picture-puzzle/) foto sammaa fǝlejin kuru kǝre faltǝnǝm, kuru [Word Search](/games/word-search/) ruwo kura-a tebur dinaben kalem lan sadǝgǝyin. Futǝn kǝndoramnzǝ kǝla jarabtǝ bawo ro manazǝmi, [dalil kǝndoram taktǝbe](/activities/reminiscence/) rui.
